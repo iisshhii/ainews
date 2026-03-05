@@ -12,7 +12,7 @@ load_dotenv()
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 if GEMINI_API_KEY:
     genai.configure(api_key=GEMINI_API_KEY)
-    model = genai.GenerativeModel('gemini-1.5-flash')
+    model = genai.GenerativeModel('models/gemini-1.5-flash')
 else:
     print("Warning: GEMINI_API_KEY not found in environment variables.")
     model = None
@@ -254,3 +254,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
