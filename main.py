@@ -80,12 +80,13 @@ def summarize_news(news_items):
     # 試行するモデルの優先順位リスト（確実に無料枠があるものに限定）
     FALLBACK_MODELS = [
         'gemini-3.1-flash-lite-preview',  # 本命（クォータ大）
-        'gemini-1.5-flash',               # 予備1（安定板）
+        'gemini-2.5-flash',               # 予備1（無料枠5 RPMあり）
+        'gemini-flash-latest',            # 予備2
     ]
 
     for item in news_items:
-        print(f"Waiting 10s before summarizing: {item['title']}...", flush=True)
-        time.sleep(10)  # レート制限回避（15 RPM対応）
+        print(f"Waiting 15s before summarizing: {item['title']}...", flush=True)
+        time.sleep(15)  # レート制限回避（5 RPM = 1分間12秒間隔以上を確実にするため15秒）
         
         prompt = f"""
 以下の日本語のニュース記事のタイトルと概要を読み、さらに分かりやすく3行以内で要約してください。
