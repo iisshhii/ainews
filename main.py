@@ -34,14 +34,19 @@ RSS_FEEDS = [
     {"name": "MIT Technology Review AI", "url": "https://www.technologyreview.com/topic/artificial-intelligence/feed/"}
 ]
 
+# ブラウザを装うためのヘッダー
+HEADERS = {
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
+}
+
 def fetch_news():
     print("Starting fetch_news()...", flush=True)
     news_items = []
     for feed in RSS_FEEDS:
         print(f"Fetching news from: {feed['name']} ({feed['url']})...", flush=True)
         try:
-            # requestsを使用してタイムアウト付きで取得（10秒）
-            response = requests.get(feed['url'], timeout=10)
+            # requestsを使用してタイムアウト付き・ヘッダー付きで取得
+            response = requests.get(feed['url'], headers=HEADERS, timeout=15)
             response.raise_for_status()
             
             # 取得したコンテンツをfeedparserで解析
@@ -72,9 +77,18 @@ def summarize_news(news_items):
             summary_results.append(item)
         return summary_results
 
+    # 試行するモデルの優先順位リスト
+    FALLBACK_MODELS = [
+        'gemini-3.1-flash-lite-preview',  # 本命（クォータ大）
+        'gemini-2.0-flash',               # 予備1
+        'gemini-1.5-flash',               # 予備2
+        'gemini-flash-latest'             # 予備3
+    ]
+
     for item in news_items:
-        print(f"Waiting 5s before summarizing: {item['title']}...", flush=True)
-        time.sleep(5)  # レート制限回避（15 RPM対応）
+        print(f"Waiting 10s before summarizing: {item['title']}...", flush=True)
+        time.sleep(10)  # レート制限回避（15 RPM対応）
+        
         prompt = f"""
 以下の英語のニュース記事のタイトルと概要を読み、日本語で3行以内で要約してください。
 タイトル: {item['title']}
@@ -84,16 +98,28 @@ def summarize_news(news_items):
 - 簡潔に、重要なポイントのみを抽出
 - 読者が内容をすぐに把握できるようにする
 """
-        try:
-            response = client.models.generate_content(
-                model=MODEL_ID,
-                contents=prompt
-            )
-            item["ja_summary"] = response.text.strip()
-            print(f"Successfully summarized: {item['title']}", flush=True)
-        except Exception as e:
-            print(f"Error summarizing {item['title']}: {e}", flush=True)
-            item["ja_summary"] = "要約の生成に失敗しました。"
+        
+        item["ja_summary"] = "要約の生成に失敗しました。"
+        
+        # モデルを順番に試す
+        for model_id in FALLBACK_MODELS:
+            try:
+                print(f"Trying to summarize with {model_id}...", flush=True)
+                response = client.models.generate_content(
+                    model=model_id,
+                    contents=prompt
+                )
+                item["ja_summary"] = response.text.strip()
+                print(f"Successfully summarized with {model_id}: {item['title']}", flush=True)
+                break # 成功したらループを抜ける
+            except Exception as e:
+                print(f"Error using {model_id}: {e}", flush=True)
+                if "503" in str(e) or "UNAVAILABLE" in str(e):
+                    print(f"{model_id} is busy, trying next model...", flush=True)
+                    continue # 次のモデルへ
+                else:
+                    # それ以外のエラー（認証など）は致命的なので次のニュースへ
+                    break
         
         summary_results.append(item)
     return summary_results
