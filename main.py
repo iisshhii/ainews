@@ -27,11 +27,11 @@ else:
     print("Warning: GEMINI_API_KEY not found in environment variables.", flush=True)
     client = None
 
-# RSSフィードのリスト
+# RSSフィードのリスト（日本の金融・ビジネス系特化）
 RSS_FEEDS = [
-    {"name": "TechCrunch AI", "url": "https://techcrunch.com/category/artificial-intelligence/feed/"},
-    {"name": "The Verge AI", "url": "https://www.theverge.com/ai-artificial-intelligence/rss/index.xml"},
-    {"name": "MIT Technology Review AI", "url": "https://www.technologyreview.com/topic/artificial-intelligence/feed/"}
+    {"name": "Yahoo!ニュース 経済", "url": "https://news.yahoo.co.jp/rss/topics/business.xml"},
+    {"name": "東洋経済オンライン", "url": "https://toyokeizai.net/list/feed/rss"},
+    {"name": "ITmedia ビジネス", "url": "https://rss.itmedia.co.jp/rss/2.0/business.xml"}
 ]
 
 # ブラウザを装うためのヘッダー
@@ -77,12 +77,10 @@ def summarize_news(news_items):
             summary_results.append(item)
         return summary_results
 
-    # 試行するモデルの優先順位リスト
+    # 試行するモデルの優先順位リスト（確実に無料枠があるものに限定）
     FALLBACK_MODELS = [
         'gemini-3.1-flash-lite-preview',  # 本命（クォータ大）
-        'gemini-2.0-flash',               # 予備1
-        'gemini-1.5-flash',               # 予備2
-        'gemini-flash-latest'             # 予備3
+        'gemini-1.5-flash',               # 予備1（安定板）
     ]
 
     for item in news_items:
@@ -90,13 +88,13 @@ def summarize_news(news_items):
         time.sleep(10)  # レート制限回避（15 RPM対応）
         
         prompt = f"""
-以下の英語のニュース記事のタイトルと概要を読み、日本語で3行以内で要約してください。
+以下の日本語のニュース記事のタイトルと概要を読み、さらに分かりやすく3行以内で要約してください。
 タイトル: {item['title']}
 概要: {item['summary']}
 
 形式:
 - 簡潔に、重要なポイントのみを抽出
-- 読者が内容をすぐに把握できるようにする
+- 忙しいビジネスパーソンが内容をすぐに把握できるようにする
 """
         
         item["ja_summary"] = "要約の生成に失敗しました。"
