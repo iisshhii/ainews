@@ -73,8 +73,8 @@ def summarize_news(news_items):
         return summary_results
 
     for item in news_items:
-        print(f"Waiting 2s before summarizing: {item['title']}...", flush=True)
-        time.sleep(2)  # レート制限回避
+        print(f"Waiting 5s before summarizing: {item['title']}...", flush=True)
+        time.sleep(5)  # レート制限回避（15 RPM対応）
         prompt = f"""
 以下の英語のニュース記事のタイトルと概要を読み、日本語で3行以内で要約してください。
 タイトル: {item['title']}
