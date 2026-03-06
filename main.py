@@ -1,6 +1,6 @@
 import os
 import feedparser
-import google.generativeai as genai
+from google import genai
 import time
 from jinja2 import Template
 from datetime import datetime
@@ -12,11 +12,12 @@ load_dotenv()
 # Gemini APIの設定
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 if GEMINI_API_KEY:
-    genai.configure(api_key=GEMINI_API_KEY)
-    model = genai.GenerativeModel('gemini-3.1-flash-lite-preview')
+    client = genai.Client(api_key=GEMINI_API_KEY)
+    # モデルIDを指定（さとしさんの環境でクォータがあるもの）
+    MODEL_ID = 'gemini-3.1-flash-lite-preview'
 else:
     print("Warning: GEMINI_API_KEY not found in environment variables.")
-    model = None
+    client = None
 
 # RSSフィードのリスト
 RSS_FEEDS = [
@@ -42,7 +43,7 @@ def fetch_news():
 
 def summarize_news(news_items):
     summary_results = []
-    if not model:
+    if not client:
         print("Skipping summarization: Gemini API key not set.")
         for item in news_items:
             item["ja_summary"] = "（APIキーが設定されていないため要約をスキップしました）"
@@ -62,7 +63,10 @@ def summarize_news(news_items):
 - 読者が内容をすぐに把握できるようにする
 """
         try:
-            response = model.generate_content(prompt)
+            response = client.models.generate_content(
+                model=MODEL_ID,
+                contents=prompt
+            )
             item["ja_summary"] = response.text.strip()
         except Exception as e:
             print(f"Error summarizing {item['title']}: {e}")
