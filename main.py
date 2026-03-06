@@ -13,18 +13,7 @@ load_dotenv()
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 if GEMINI_API_KEY:
     genai.configure(api_key=GEMINI_API_KEY)
-    
-    # 利用可能なモデル一覧を表示（デバッグ用）
-    print("--- Available Models for this API Key ---")
-    try:
-        for m in genai.list_models():
-            if 'generateContent' in m.supported_generation_methods:
-                print(f"Model: {m.name}")
-    except Exception as e:
-        print(f"Error listing models: {e}")
-    print("-----------------------------------------")
-
-    model = genai.GenerativeModel('gemini-1.5-flash')
+    model = genai.GenerativeModel('gemini-3.1-flash-lite-preview')
 else:
     print("Warning: GEMINI_API_KEY not found in environment variables.")
     model = None
