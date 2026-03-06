@@ -3,12 +3,13 @@ import feedparser
 from google import genai
 import time
 import socket
+import requests
 from jinja2 import Template
 from datetime import datetime
 from dotenv import load_dotenv
 
 # タイムアウト設定（ネットワーク系のハング防止）
-socket.setdefaulttimeout(30)
+socket.setdefaulttimeout(20)
 
 print("--- Script Starting ---", flush=True)
 
@@ -37,9 +38,15 @@ def fetch_news():
     print("Starting fetch_news()...", flush=True)
     news_items = []
     for feed in RSS_FEEDS:
-        print(f"Fetching news from: {feed['name']}...", flush=True)
+        print(f"Fetching news from: {feed['name']} ({feed['url']})...", flush=True)
         try:
-            d = feedparser.parse(feed['url'])
+            # requestsを使用してタイムアウト付きで取得（10秒）
+            response = requests.get(feed['url'], timeout=10)
+            response.raise_for_status()
+            
+            # 取得したコンテンツをfeedparserで解析
+            d = feedparser.parse(response.content)
+            
             for entry in d.entries[:5]:  # 各フィードから最新5件を取得
                 news_items.append({
                     "title": entry.title,
@@ -48,8 +55,10 @@ def fetch_news():
                     "published": entry.get("published", ""),
                     "summary": entry.get("summary", "")
                 })
+            print(f"Successfully fetched {feed['name']}.", flush=True)
         except Exception as e:
             print(f"Error fetching {feed['name']}: {e}", flush=True)
+            
     print(f"Fetched {len(news_items)} items total.", flush=True)
     return news_items
 
@@ -89,183 +98,184 @@ def summarize_news(news_items):
         summary_results.append(item)
     return summary_results
 
-HTML_TEMPLATE = """
+def generate_html(news_items):
+    print("Generating HTML...", flush=True)
+    template_str = """
 <!DOCTYPE html>
 <html lang="ja">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>AI News Curator - 毎日更新</title>
+    <title>Daily AI News Curator</title>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Outfit:wght@300;600&display=swap" rel="stylesheet">
     <style>
         :root {
-            --bg-color: #030712;
-            --card-bg: #111827;
-            --text-main: #f9fafb;
-            --text-dim: #9ca3af;
-            --accent: #6366f1;
-            --accent-glow: rgba(99, 102, 241, 0.3);
+            --bg-color: #0f172a;
+            --card-bg: #1e293b;
+            --text-primary: #f8fafc;
+            --text-secondary: #94a3b8;
+            --accent-color: #38bdf8;
+            --accent-gradient: linear-gradient(135deg, #38bdf8, #818cf8);
         }
 
         body {
+            font-family: 'Outfit', sans-serif;
             background-color: var(--bg-color);
-            color: var(--text-main);
-            font-family: 'Inter', sans-serif;
+            color: var(--text-primary);
             margin: 0;
             padding: 0;
             line-height: 1.6;
         }
 
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 40px 20px;
+        }
+
         header {
-            background: linear-gradient(135deg, #1e1b4b 0%, #030712 100%);
-            padding: 4rem 2rem;
             text-align: center;
-            border-bottom: 1px solid #1f2937;
+            margin-bottom: 60px;
+            padding: 40px 0;
+            background: rgba(30, 41, 59, 0.5);
+            border-radius: 24px;
+            box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+            backdrop-filter: blur(10px);
+            border: 1px solid rgba(255, 255, 255, 0.1);
         }
 
         h1 {
-            font-family: 'Outfit', sans-serif;
-            font-size: 3.5rem;
+            font-size: 3rem;
             margin: 0;
-            background: linear-gradient(to right, #818cf8, #c084fc);
+            background: var(--accent-gradient);
             -webkit-background-clip: text;
             -webkit-text-fill-color: transparent;
-            letter-spacing: -0.02em;
+            font-weight: 700;
         }
 
-        .subtitle {
-            font-size: 1.1rem;
-            color: var(--text-dim);
-            margin-top: 1rem;
-        }
-
-        .container {
-            max-width: 1000px;
-            margin: 3rem auto;
-            padding: 0 1.5rem;
+        .update-time {
+            color: var(--text-secondary);
+            font-size: 0.9rem;
+            margin-top: 10px;
         }
 
         .news-grid {
             display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(450px, 1fr));
-            gap: 2rem;
+            gap: 24px;
         }
 
-        @media (max-width: 600px) {
-            .news-grid {
-                grid-template-columns: 1fr;
-            }
-            h1 { font-size: 2.5rem; }
-        }
-
-        .card {
-            background: var(--card-bg);
-            border: 1px solid #1f2937;
-            border-radius: 1.5rem;
-            padding: 2rem;
-            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+        .news-card {
+            background-color: var(--card-bg);
+            border-radius: 20px;
+            padding: 30px;
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            cursor: pointer;
+            border: 1px solid rgba(255, 255, 255, 0.05);
             position: relative;
             overflow: hidden;
         }
 
-        .card:hover {
+        .news-card:hover {
             transform: translateY(-5px);
-            border-color: var(--accent);
-            box-shadow: 0 10px 40px -10px var(--accent-glow);
+            box-shadow: 0 10px 30px rgba(0, 186, 255, 0.1);
+            border-color: var(--accent-color);
+        }
+
+        .news-card::before {
+            content: '';
+            position: absolute;
+            top: 0; left: 0;
+            width: 4px; height: 100%;
+            background: var(--accent-gradient);
         }
 
         .source-tag {
             font-size: 0.75rem;
             text-transform: uppercase;
-            font-weight: 700;
-            color: var(--accent);
-            margin-bottom: 0.75rem;
-            display: inline-block;
             letter-spacing: 0.05em;
+            color: var(--accent-color);
+            margin-bottom: 12px;
+            font-weight: 600;
         }
 
-        .card h2 {
-            font-family: 'Outfit', sans-serif;
-            font-size: 1.5rem;
-            line-height: 1.3;
-            margin: 0 0 1rem 0;
+        h2 {
+            font-size: 1.4rem;
+            margin: 0 0 15px 0;
+            font-weight: 600;
+        }
+
+        h2 a {
+            color: var(--text-primary);
+            text-decoration: none;
         }
 
         .summary {
-            color: var(--text-dim);
+            font-family: 'Inter', sans-serif;
+            color: var(--text-secondary);
             font-size: 1rem;
-            margin-bottom: 1.5rem;
-            white-space: pre-wrap;
+            margin-bottom: 20px;
         }
 
-        .link-btn {
-            display: inline-flex;
-            align-items: center;
-            color: var(--text-main);
+        .news-link {
+            color: var(--accent-color);
             text-decoration: none;
             font-weight: 600;
             font-size: 0.9rem;
-            transition: color 0.2s;
+            display: inline-flex;
+            align-items: center;
         }
 
-        .link-btn:hover {
-            color: var(--accent);
-        }
-
-        .link-btn::after {
+        .news-link::after {
             content: '→';
-            margin-left: 0.5rem;
+            margin-left: 8px;
+            transition: margin-left 0.2s;
+        }
+
+        .news-card:hover .news-link::after {
+            margin-left: 12px;
         }
 
         footer {
             text-align: center;
-            padding: 4rem 2rem;
-            color: var(--text-dim);
-            font-size: 0.875rem;
-            border-top: 1px solid #1f2937;
-        }
-
-        .update-time {
-            font-weight: 700;
-            color: var(--text-main);
+            margin-top: 60px;
+            color: var(--text-secondary);
+            font-size: 0.8rem;
         }
     </style>
 </head>
 <body>
-    <header>
-        <h1>AI News Curator</h1>
-        <p class="subtitle">最新のAIニュースをGeminiが要約。毎日自動更新。</p>
-    </header>
-
     <div class="container">
+        <header>
+            <h1>Daily AI News</h1>
+            <div class="update-time">Last updated: {{ now.strftime('%Y-%m-%d %H:%M:%S') }}</div>
+        </header>
+
         <div class="news-grid">
             {% for item in news %}
-            <article class="card">
-                <span class="source-tag">{{ item.source }}</span>
-                <h2>{{ item.title }}</h2>
-                <div class="summary">{{ item.ja_summary }}</div>
-                <a href="{{ item.link }}" class="link-btn" target="_blank">ソースを読む</a>
+            <article class="news-card">
+                <div class="source-tag">{{ item.source }}</div>
+                <h2><a href="{{ item.link }}" target="_blank">{{ item.title }}</a></h2>
+                <div class="summary">
+                    {{ item.ja_summary | replace('\\n', '<br>') | safe }}
+                </div>
+                <a href="{{ item.link }}" class="news-link" target="_blank">Read Original</a>
             </article>
             {% endfor %}
         </div>
-    </div>
 
-    <footer>
-        <p>最終更新: <span class="update-time">{{ update_time }}</span></p>
-        <p>&copy; 2026 AI News Curator. All rights reserved.</p>
-    </footer>
+        <footer>
+            &copy; {{ now.year }} AI News Curator. Powered by Gemini.
+        </footer>
+    </div>
 </body>
 </html>
 """
-
-def generate_html(news_items):
-    template = Template(HTML_TEMPLATE)
-    update_time = datetime.now().strftime("%Y-%m-%d %H:%M")
-    html_content = template.render(news=news_items, update_time=update_time)
+    template = Template(template_str)
+    html_content = template.render(news=news_items, now=datetime.now())
     
     with open("index.html", "w", encoding="utf-8") as f:
         f.write(html_content)
-    print("Successfully generated index.html")
+    print("index.html generated successfully.", flush=True)
 
 def main():
     news = fetch_news()
