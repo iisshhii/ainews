@@ -2,9 +2,15 @@ import os
 import feedparser
 from google import genai
 import time
+import socket
 from jinja2 import Template
 from datetime import datetime
 from dotenv import load_dotenv
+
+# タイムアウト設定（ネットワーク系のハング防止）
+socket.setdefaulttimeout(30)
+
+print("--- Script Starting ---", flush=True)
 
 # 環境変数の読み込み
 load_dotenv()
@@ -12,11 +18,12 @@ load_dotenv()
 # Gemini APIの設定
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 if GEMINI_API_KEY:
+    print(f"Gemini API Key found (Prefix: {GEMINI_API_KEY[:5]}...)", flush=True)
     client = genai.Client(api_key=GEMINI_API_KEY)
-    # モデルIDを指定（さとしさんの環境でクォータがあるもの）
+    # モデルIDを指定
     MODEL_ID = 'gemini-3.1-flash-lite-preview'
 else:
-    print("Warning: GEMINI_API_KEY not found in environment variables.")
+    print("Warning: GEMINI_API_KEY not found in environment variables.", flush=True)
     client = None
 
 # RSSフィードのリスト
@@ -27,32 +34,38 @@ RSS_FEEDS = [
 ]
 
 def fetch_news():
+    print("Starting fetch_news()...", flush=True)
     news_items = []
     for feed in RSS_FEEDS:
-        print(f"Fetching news from: {feed['name']}")
-        d = feedparser.parse(feed['url'])
-        for entry in d.entries[:5]:  # 各フィードから最新5件を取得
-            news_items.append({
-                "title": entry.title,
-                "link": entry.link,
-                "source": feed['name'],
-                "published": entry.get("published", ""),
-                "summary": entry.get("summary", "")
-            })
+        print(f"Fetching news from: {feed['name']}...", flush=True)
+        try:
+            d = feedparser.parse(feed['url'])
+            for entry in d.entries[:5]:  # 各フィードから最新5件を取得
+                news_items.append({
+                    "title": entry.title,
+                    "link": entry.link,
+                    "source": feed['name'],
+                    "published": entry.get("published", ""),
+                    "summary": entry.get("summary", "")
+                })
+        except Exception as e:
+            print(f"Error fetching {feed['name']}: {e}", flush=True)
+    print(f"Fetched {len(news_items)} items total.", flush=True)
     return news_items
 
 def summarize_news(news_items):
+    print("Starting summarize_news()...", flush=True)
     summary_results = []
     if not client:
-        print("Skipping summarization: Gemini API key not set.")
+        print("Skipping summarization: Gemini API client not initialized.", flush=True)
         for item in news_items:
             item["ja_summary"] = "（APIキーが設定されていないため要約をスキップしました）"
             summary_results.append(item)
         return summary_results
 
     for item in news_items:
-        time.sleep(2)  # レート制限回避のための待機
-        print(f"Summarizing: {item['title']}")
+        print(f"Waiting 2s before summarizing: {item['title']}...", flush=True)
+        time.sleep(2)  # レート制限回避
         prompt = f"""
 以下の英語のニュース記事のタイトルと概要を読み、日本語で3行以内で要約してください。
 タイトル: {item['title']}
@@ -68,8 +81,9 @@ def summarize_news(news_items):
                 contents=prompt
             )
             item["ja_summary"] = response.text.strip()
+            print(f"Successfully summarized: {item['title']}", flush=True)
         except Exception as e:
-            print(f"Error summarizing {item['title']}: {e}")
+            print(f"Error summarizing {item['title']}: {e}", flush=True)
             item["ja_summary"] = "要約の生成に失敗しました。"
         
         summary_results.append(item)
