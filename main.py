@@ -39,8 +39,10 @@ HEADERS = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
 }
 
+AI_KEYWORDS = ["AI", "人工知能", "生成AI", "ChatGPT", "LLM", "Gemini", "Copilot", "Claude"]
+
 def fetch_news():
-    print("Starting fetch_news()...", flush=True)
+    print("Starting fetch_news() with AI filtering...", flush=True)
     news_items = []
     for feed in RSS_FEEDS:
         print(f"Fetching news from: {feed['name']} ({feed['url']})...", flush=True)
@@ -52,19 +54,33 @@ def fetch_news():
             # 取得したコンテンツをfeedparserで解析
             d = feedparser.parse(response.content)
             
-            for entry in d.entries[:5]:  # 各フィードから最新5件を取得
-                news_items.append({
-                    "title": entry.title,
-                    "link": entry.link,
-                    "source": feed['name'],
-                    "published": entry.get("published", ""),
-                    "summary": entry.get("summary", "")
-                })
-            print(f"Successfully fetched {feed['name']}.", flush=True)
+            feed_items_added = 0
+            for entry in d.entries:
+                title = entry.get("title", "")
+                summary = entry.get("summary", "")
+                
+                # キーワードフィルタリング（タイトルまたは概要に含まれるか）
+                content_to_check = (title + " " + summary).lower()
+                is_ai_news = any(keyword.lower() in content_to_check for keyword in AI_KEYWORDS)
+                
+                if is_ai_news:
+                    news_items.append({
+                        "title": title,
+                        "link": entry.link,
+                        "source": feed['name'],
+                        "published": entry.get("published", ""),
+                        "summary": summary
+                    })
+                    feed_items_added += 1
+                
+                if feed_items_added >= 5:  # 各フィードからAIニュースを最大5件まで取得
+                    break
+                    
+            print(f"Successfully fetched {feed_items_added} AI news items from {feed['name']}.", flush=True)
         except Exception as e:
             print(f"Error fetching {feed['name']}: {e}", flush=True)
             
-    print(f"Fetched {len(news_items)} items total.", flush=True)
+    print(f"Fetched {len(news_items)} AI news items total.", flush=True)
     return news_items
 
 def summarize_news(news_items):
@@ -77,11 +93,10 @@ def summarize_news(news_items):
             summary_results.append(item)
         return summary_results
 
-    # 試行するモデルの優先順位リスト（確実に無料枠があるものに限定）
+    # 試行するモデルの優先順位リスト
     FALLBACK_MODELS = [
-        'gemini-3.1-flash-lite-preview',  # 本命（クォータ大）
-        'gemini-2.5-flash',               # 予備1（無料枠5 RPMあり）
-        'gemini-flash-latest',            # 予備2
+        'gemini-3.1-flash-lite-preview',  # 本命
+        'gemini-2.5-flash-lite',          # 予備（ユーザー指定）
     ]
 
     for item in news_items:
