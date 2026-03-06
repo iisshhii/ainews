@@ -1,6 +1,7 @@
 import os
 import feedparser
 import google.generativeai as genai
+import time
 from jinja2 import Template
 from datetime import datetime
 from dotenv import load_dotenv
@@ -49,6 +50,7 @@ def summarize_news(news_items):
         return summary_results
 
     for item in news_items:
+        time.sleep(2)  # レート制限回避のための待機
         print(f"Summarizing: {item['title']}")
         prompt = f"""
 以下の英語のニュース記事のタイトルと概要を読み、日本語で3行以内で要約してください。
