@@ -6,6 +6,7 @@ import socket
 import requests
 from jinja2 import Template
 from datetime import datetime
+import pytz
 from dotenv import load_dotenv
 
 # タイムアウト設定（ネットワーク系のハング防止）
@@ -310,8 +311,9 @@ def generate_html(news_items):
 </body>
 </html>
 """
-    template = Template(template_str)
-    html_content = template.render(news=news_items, now=datetime.now())
+    jst = pytz.timezone('Asia/Tokyo')
+    now = datetime.now(jst)
+    html_content = template.render(news=news_items, now=now)
     
     with open("index.html", "w", encoding="utf-8") as f:
         f.write(html_content)
