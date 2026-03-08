@@ -33,7 +33,10 @@ else:
 RSS_FEEDS = [
     {"name": "Yahoo!ニュース 経済", "url": "https://news.yahoo.co.jp/rss/topics/business.xml"},
     {"name": "東洋経済オンライン", "url": "https://toyokeizai.net/list/feed/rss"},
-    {"name": "ITmedia ビジネス", "url": "https://rss.itmedia.co.jp/rss/2.0/business.xml"}
+    {"name": "ITmedia ビジネス", "url": "https://rss.itmedia.co.jp/rss/2.0/business.xml"},
+    {"name": "日経ビジネス 最新", "url": "https://business.nikkei.com/rss/sns/nb.rdf"},
+    {"name": "日経クロステック 総合", "url": "https://xtech.nikkei.com/rss/index.rdf"},
+    {"name": "note (npaka)", "url": "https://note.com/npaka/rss"}
 ]
 
 # ブラウザを装うためのヘッダー
@@ -41,7 +44,7 @@ HEADERS = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
 }
 
-AI_KEYWORDS = ["AI", "人工知能", "生成AI", "ChatGPT", "LLM", "Gemini", "Copilot", "Claude"]
+AI_KEYWORDS = ["AI", "人工知能", "生成AI", "LLM", "Copilot", "OpenAI", "Anthropic", "Gemini", "ChatGPT", "Claude"]
 
 def fetch_news():
     print("Starting fetch_news() with AI filtering...", flush=True)
