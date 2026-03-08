@@ -311,6 +311,7 @@ def generate_html(news_items):
 </body>
 </html>
 """
+    template = Template(template_str)
     jst = pytz.timezone('Asia/Tokyo')
     now = datetime.now(jst)
     html_content = template.render(news=news_items, now=now)
