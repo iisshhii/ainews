@@ -250,7 +250,7 @@ def generate_html(news_items):
         }
 
         .container {
-            max-width: 900px;
+            max-width: 1200px;
             margin: 0 auto;
             padding: 40px 20px;
         }
@@ -283,6 +283,7 @@ def generate_html(news_items):
 
         .news-grid {
             display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
             gap: 24px;
         }
 
