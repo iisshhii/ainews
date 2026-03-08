@@ -36,7 +36,12 @@ RSS_FEEDS = [
     {"name": "ITmedia ビジネス", "url": "https://rss.itmedia.co.jp/rss/2.0/business.xml"},
     {"name": "日経ビジネス 最新", "url": "https://business.nikkei.com/rss/sns/nb.rdf"},
     {"name": "日経クロステック 総合", "url": "https://xtech.nikkei.com/rss/index.rdf"},
-    {"name": "note (npaka)", "url": "https://note.com/npaka/rss"}
+    {"name": "note (npaka)", "url": "https://note.com/npaka/rss"},
+    {"name": "Yahoo!ニュース IT・科学", "url": "https://news.yahoo.co.jp/rss/topics/it.xml"},
+    {"name": "ZDNET Japan", "url": "https://feeds.japan.zdnet.com/rss/zdnet/all.rdf"},
+    {"name": "Investing.com ニュース", "url": "https://jp.investing.com/rss/news.rss"},
+    {"name": "CoinPost", "url": "https://coinpost.jp/?feed=rss2"},
+    {"name": "PR TIMES 総合", "url": "https://prtimes.jp/index.rdf"}
 ]
 
 # ブラウザを装うためのヘッダー
