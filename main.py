@@ -110,8 +110,8 @@ def summarize_news(news_items):
     ]
 
     for item in news_items:
-        print(f"Waiting 15s before summarizing: {item['title']}...", flush=True)
-        time.sleep(15)  # レート制限回避（5 RPM = 1分間12秒間隔以上を確実にするため15秒）
+        print(f"Waiting 12s before summarizing: {item['title']}...", flush=True)
+        time.sleep(12)  # レート制限回避（5 RPM = 12秒間隔でちょうど5 RPM）
         
         prompt = f"""
 以下の日本語のニュース記事のタイトルと概要を読み、さらに分かりやすく3行以内で要約してください。
