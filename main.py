@@ -1,4 +1,5 @@
 import os
+import re
 import feedparser
 from google import genai
 import time
@@ -51,6 +52,48 @@ HEADERS = {
 
 AI_KEYWORDS = ["AI", "人工知能", "生成AI", "LLM", "Copilot", "OpenAI", "Anthropic", "Gemini", "ChatGPT", "Claude"]
 
+def extract_image(entry):
+    """RSSエントリから画像URLを抽出する（複数パターン対応）"""
+    # 1. media_thumbnail
+    if hasattr(entry, 'media_thumbnail') and entry.media_thumbnail:
+        return entry.media_thumbnail[0].get('url', '')
+    
+    # 2. media_content (画像タイプのもの)
+    if hasattr(entry, 'media_content') and entry.media_content:
+        for media in entry.media_content:
+            if 'image' in media.get('type', '') or media.get('url', '').endswith(('.jpg', '.jpeg', '.png', '.webp')):
+                return media.get('url', '')
+    
+    # 3. enclosures
+    if hasattr(entry, 'enclosures') and entry.enclosures:
+        for enc in entry.enclosures:
+            if 'image' in enc.get('type', ''):
+                return enc.get('href', '')
+    
+    # 4. summary内のimgタグ
+    summary = entry.get('summary', '')
+    img_match = re.search(r'<img[^>]+src=["\']([^"\'>]+)["\']', summary)
+    if img_match:
+        return img_match.group(1)
+    
+    return None
+
+def fetch_og_image(url):
+    """リンク先のHTMLからog:image（OGPサムネイル）を取得する"""
+    try:
+        response = requests.get(url, headers=HEADERS, timeout=10)
+        response.raise_for_status()
+        # og:imageメタタグを探す
+        match = re.search(r'<meta[^>]+property=["\']og:image["\'][^>]+content=["\']([^"\'>]+)["\']', response.text)
+        if not match:
+            # content が property の前にあるパターンにも対応
+            match = re.search(r'<meta[^>]+content=["\']([^"\'>]+)["\'][^>]+property=["\']og:image["\']', response.text)
+        if match:
+            return match.group(1)
+    except Exception as e:
+        print(f"Error fetching og:image from {url}: {e}", flush=True)
+    return None
+
 def fetch_news():
     print("Starting fetch_news() with AI filtering...", flush=True)
     news_items = []
@@ -74,12 +117,18 @@ def fetch_news():
                 is_ai_news = any(keyword.lower() in content_to_check for keyword in AI_KEYWORDS)
                 
                 if is_ai_news:
+                    # RSSから画像を取得、なければリンク先のog:imageを取得
+                    image_url = extract_image(entry)
+                    if not image_url:
+                        image_url = fetch_og_image(entry.link)
+                    
                     news_items.append({
                         "title": title,
                         "link": entry.link,
                         "source": feed['name'],
                         "published": entry.get("published", ""),
-                        "summary": summary
+                        "summary": summary,
+                        "image": image_url
                     })
                     feed_items_added += 1
                 
@@ -239,7 +288,7 @@ def generate_html(news_items):
         .news-card {
             background-color: var(--card-bg);
             border-radius: 20px;
-            padding: 30px;
+            padding: 0;
             transition: transform 0.3s ease, box-shadow 0.3s ease;
             cursor: pointer;
             border: 1px solid rgba(255, 255, 255, 0.05);
@@ -259,6 +308,18 @@ def generate_html(news_items):
             top: 0; left: 0;
             width: 4px; height: 100%;
             background: var(--accent-gradient);
+            z-index: 1;
+        }
+
+        .card-thumbnail {
+            width: 100%;
+            height: 200px;
+            object-fit: cover;
+            display: block;
+        }
+
+        .card-body {
+            padding: 24px 30px 30px;
         }
 
         .source-tag {
@@ -325,12 +386,17 @@ def generate_html(news_items):
         <div class="news-grid">
             {% for item in news %}
             <article class="news-card">
-                <div class="source-tag">{{ item.source }}</div>
-                <h2><a href="{{ item.link }}" target="_blank">{{ item.title }}</a></h2>
-                <div class="summary">
-                    {{ item.ja_summary | replace('\\n', '<br>') | safe }}
+                {% if item.image %}
+                <img src="{{ item.image }}" alt="{{ item.title }}" class="card-thumbnail" loading="lazy" onerror="this.style.display='none'">
+                {% endif %}
+                <div class="card-body">
+                    <div class="source-tag">{{ item.source }}</div>
+                    <h2><a href="{{ item.link }}" target="_blank">{{ item.title }}</a></h2>
+                    <div class="summary">
+                        {{ item.ja_summary | replace('\\n', '<br>') | safe }}
+                    </div>
+                    <a href="{{ item.link }}" class="news-link" target="_blank">Read Original</a>
                 </div>
-                <a href="{{ item.link }}" class="news-link" target="_blank">Read Original</a>
             </article>
             {% endfor %}
         </div>
