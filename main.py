@@ -7,6 +7,7 @@ import requests
 from jinja2 import Template
 from datetime import datetime
 import pytz
+import json
 from dotenv import load_dotenv
 
 # タイムアウト設定（ネットワーク系のハング防止）
@@ -138,6 +139,28 @@ def summarize_news(news_items):
         
         summary_results.append(item)
     return summary_results
+
+HISTORY_FILE = "news_history.json"
+MAX_HISTORY_ITEMS = 100
+
+def load_history():
+    if os.path.exists(HISTORY_FILE):
+        try:
+            with open(HISTORY_FILE, "r", encoding="utf-8") as f:
+                return json.load(f)
+        except Exception as e:
+            print(f"Error loading history: {e}", flush=True)
+            return []
+    return []
+
+def save_history(history_items):
+    try:
+        with open(HISTORY_FILE, "w", encoding="utf-8") as f:
+            json.dump(history_items, f, ensure_ascii=False, indent=2)
+        print(f"Successfully saved {len(history_items)} items to history.", flush=True)
+    except Exception as e:
+        print(f"Error saving history: {e}", flush=True)
+
 
 def generate_html(news_items):
     print("Generating HTML...", flush=True)
@@ -321,9 +344,38 @@ def generate_html(news_items):
     print("index.html generated successfully.", flush=True)
 
 def main():
-    news = fetch_news()
-    summarized_news = summarize_news(news)
-    generate_html(summarized_news)
+    print("--- 1. Loading History ---", flush=True)
+    history = load_history()
+    existing_links = {item['link'] for item in history}
+    print(f"Loaded {len(history)} existing news items.", flush=True)
+
+    print("--- 2. Fetching New News ---", flush=True)
+    fetched_news = fetch_news()
+    
+    # 既存の履歴にない新しいニュースだけを抽出
+    new_news_items = [item for item in fetched_news if item['link'] not in existing_links]
+    print(f"Found {len(new_news_items)} new news items out of {len(fetched_news)} fetched.", flush=True)
+
+    print("--- 3. Summarizing New News ---", flush=True)
+    if new_news_items:
+        summarized_new_news = summarize_news(new_news_items)
+    else:
+        print("No new news to summarize.", flush=True)
+        summarized_new_news = []
+
+    print("--- 4. Updating History ---", flush=True)
+    # 新しいニュースを履歴の先頭に追加
+    updated_history = summarized_new_news + history
+    
+    # 上限件数でカット
+    if len(updated_history) > MAX_HISTORY_ITEMS:
+        print(f"Trimming history from {len(updated_history)} to {MAX_HISTORY_ITEMS} items.", flush=True)
+        updated_history = updated_history[:MAX_HISTORY_ITEMS]
+        
+    save_history(updated_history)
+
+    print("--- 5. Generating HTML ---", flush=True)
+    generate_html(updated_history)
 
 if __name__ == "__main__":
     main()
