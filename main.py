@@ -35,15 +35,27 @@ RSS_FEEDS = [
     {"name": "Yahoo!ニュース 経済", "url": "https://news.yahoo.co.jp/rss/topics/business.xml"},
     {"name": "東洋経済オンライン", "url": "https://toyokeizai.net/list/feed/rss"},
     {"name": "ITmedia ビジネス", "url": "https://rss.itmedia.co.jp/rss/2.0/business.xml"},
+    {"name": "ITmedia AI+", "url": "https://rss.itmedia.co.jp/rss/2.0/news_ai.xml"},
+    {"name": "@it", "url": "https://rss.itmedia.co.jp/rss/2.0/atit.xml"},
     {"name": "日経ビジネス 最新", "url": "https://business.nikkei.com/rss/sns/nb.rdf"},
     {"name": "日経クロステック 総合", "url": "https://xtech.nikkei.com/rss/index.rdf"},
+    {"name": "Impress Watch", "url": "https://www.watch.impress.co.jp/data/rss/1.0/ipw/feed.rdf"},
+    {"name": "CNET Japan", "url": "http://feed.japan.cnet.com/rss/index.rdf"},
+    {"name": "Business Insider Japan", "url": "https://www.businessinsider.jp/feed/index.xml"},
     {"name": "note (npaka)", "url": "https://note.com/npaka/rss"},
     {"name": "Yahoo!ニュース IT・科学", "url": "https://news.yahoo.co.jp/rss/topics/it.xml"},
     {"name": "ZDNET Japan", "url": "https://feeds.japan.zdnet.com/rss/zdnet/all.rdf"},
+    {"name": "TechnoEdge", "url": "https://www.techno-edge.net/rss20/index.rdf"},
     {"name": "Investing.com ニュース", "url": "https://jp.investing.com/rss/news.rss"},
-    {"name": "CoinPost", "url": "https://coinpost.jp/?feed=rss2"},
-    {"name": "PR TIMES 総合", "url": "https://prtimes.jp/index.rdf"}
+    {"name": "デジタル庁", "url": "https://www.digital.go.jp/rss/news.xml"},
+    {"name": "OpenAI", "url": "https://openai.com/news/rss.xml"},
+    {"name": "Anthropic (News)", "url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/refs/heads/main/feeds/feed_anthropic_news.xml"},
+    {"name": "Zenn Trends", "url": "https://zenn.dev/feed"},
+    {"name": "Speaker Deck (Tech)", "url": "https://speakerdeck.com/c/technology.atom"}
 ]
+
+# Qiita API設定 (AIタグかつストック数20以上の人気記事)
+QIITA_API_URL = "https://qiita.com/api/v2/items?query=tag:AI+stocks:>20&per_page=10"
 
 # ブラウザを装うためのヘッダー
 HEADERS = {
@@ -139,6 +151,25 @@ def fetch_news():
         except Exception as e:
             print(f"Error fetching {feed['name']}: {e}", flush=True)
             
+    # --- Qiita APIから取得 ---
+    print("Fetching popular articles from Qiita API...", flush=True)
+    try:
+        response = requests.get(QIITA_API_URL, headers=HEADERS, timeout=15)
+        if response.status_code == 200:
+            qiita_items = response.json()
+            for item in qiita_items:
+                news_items.append({
+                    "title": item["title"],
+                    "link": item["url"],
+                    "source": "Qiita (Popular)",
+                    "published": item["updated_at"],
+                    "summary": item.get("body", "")[:200], # 本文の先頭200文字を要約用に使用
+                    "image": fetch_og_image(item["url"])
+                })
+            print(f"Successfully fetched {len(qiita_items)} popular articles from Qiita.", flush=True)
+    except Exception as e:
+        print(f"Error fetching Qiita API: {e}", flush=True)
+
     print(f"Fetched {len(news_items)} AI news items total.", flush=True)
     return news_items
 
