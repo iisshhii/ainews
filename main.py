@@ -102,6 +102,9 @@ def fetch_og_image(url):
             match = re.search(r'<meta[^>]+content=["\']([^"\'>]+)["\'][^>]+property=["\']og:image["\']', response.text)
         if match:
             return match.group(1)
+    except requests.exceptions.HTTPError as e:
+        if e.response.status_code != 403:
+            print(f"HTTP error fetching og:image from {url}: {e}", flush=True)
     except Exception as e:
         print(f"Error fetching og:image from {url}: {e}", flush=True)
     return None
@@ -142,6 +145,16 @@ def fetch_news():
                         "summary": summary,
                         "image": image_url
                     })
+                    
+                    # デフォルト画像の割当（画像が取得できなかった場合）
+                    if not news_items[-1]["image"]:
+                        if "OpenAI" in feed['name']:
+                            news_items[-1]["image"] = "https://openai.com/favicon.ico"
+                        elif "Anthropic" in feed['name']:
+                            news_items[-1]["image"] = "https://www.anthropic.com/favicon.ico"
+                        elif "デジタル庁" in feed['name']:
+                            news_items[-1]["image"] = "https://www.digital.go.jp/themes/custom/gov_theme_da_2023/assets/images/ogp.png"
+                    
                     feed_items_added += 1
                 
                 if feed_items_added >= 5:  # 各フィードからAIニュースを最大5件まで取得
@@ -166,6 +179,11 @@ def fetch_news():
                     "summary": item.get("body", "")[:200], # 本文の先頭200文字を要約用に使用
                     "image": fetch_og_image(item["url"])
                 })
+                
+                # デフォルト画像の割当（Qiita）
+                if not news_items[-1]["image"]:
+                    news_items[-1]["image"] = "https://qiita-static.okbtn.com/assets/favicons/public/favicon-32x32-b530510531bd286392576b2c7e6ccb82.png"
+                    
             print(f"Successfully fetched {len(qiita_items)} popular articles from Qiita.", flush=True)
     except Exception as e:
         print(f"Error fetching Qiita API: {e}", flush=True)
