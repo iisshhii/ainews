@@ -1,5 +1,23 @@
 [
   {
+    "title": "AI時代のランサムウェアが破壊する「バックアップの常識」",
+    "link": "https://japan.zdnet.com/article/35244521/",
+    "source": "ZDNET Japan",
+    "published": "",
+    "summary": "AI駆動型の最新ランサムウェアは、もはや単なるデータの暗号化にとどまらず、暗号化で堅固に保護されたバックアップを内部から崩壊させる。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35244521/\"><img src=\"https://japan.zdnet.com/storage/2026/03/03/f025a9a5e7ac84400ac277448e2ca95d/t/184/138/d/gettyimages-489001064.jpg\" /></a>",
+    "image": "https://japan.zdnet.com/storage/2026/03/03/f025a9a5e7ac84400ac277448e2ca95d/t/184/138/d/gettyimages-489001064.jpg",
+    "ja_summary": "・最新のAI型ランサムウェアは、暗号化だけでなくバックアップ自体を内部から破壊する。\n・従来の「バックアップがあれば安全」という常識が通用しなくなっている。\n・従来の防御策を見直し、より高度なバックアップ保護対策が急務となっている。"
+  },
+  {
+    "title": "BNPパリバ SA、降雪不足でVail Resortsの目標株価を引き下げ",
+    "link": "https://jp.investing.com/news/analyst-ratings/article-93CH-1453324",
+    "source": "Investing.com ニュース",
+    "published": "2026-03-10 15:21:48",
+    "summary": "",
+    "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+    "ja_summary": "・BNPパリバがスキーリゾート運営大手Vail Resortsの目標株価を引き下げ。\n・降雪不足による来場者減と、先行きの業績に対する懸念が主な理由。\n・暖冬の影響が同社の収益性に逆風となっている。"
+  },
+  {
     "title": "中国・全人代で際立つ「台湾統一」への野心　経済成長は4.5～5％増に引き下げ (中国経済のリアル)",
     "link": "https://business.nikkei.com/atcl/gen/19/00485/030900133/",
     "source": "日経ビジネス 最新",
@@ -880,23 +898,5 @@
     "summary": "",
     "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
     "ja_summary": "・モルガン・スタンレーがGlobal Business Travelの目標株価を引き下げ。\n・AI技術の台頭が、同社の収益モデルに悪影響を及ぼす懸念が要因。\n・市場での成長力低下が懸念され、投資評価が慎重な姿勢に転換。"
-  },
-  {
-    "title": "Software archaeology - Learning from the landing on the moon!",
-    "link": "https://speakerdeck.com/tobiaslvoss/software-archaeology-learning-from-the-landing-on-the-moon",
-    "source": "Speaker Deck (Tech)",
-    "published": "2022-11-14T12:55:33-05:00",
-    "summary": "The landing on the moon was about 50 years ago and mankind plans again big space programs. IT played a major role at the first moon landing and many important fundaments of software engineering were established. The term itself was coined by Margaret Hamilton during the design of the Apollo Guidance Computer (AGC), the control software of the Apollo lunar lander.\n\nI want to practice a bit of software archaeology in contrast to current technology hypes with a retrospection of the groundbreaking achievements of the AGC. Priority scheduling, multitasking and a realtime operating system were implemented for one of the first embedded systems. A virtual machine - a new concept as well - provided mathematical functions and abstracted from the hardware. One of the main success factors was the robustness of the software, which was characterized by excellent error handling and prevented human user errors - an important learning after Hamiltons daughter crashed the AGC while playing with it. This quality kicked in minutes before the landing and prevented the failure of the mission. Let us take a look back to the future!",
-    "image": "https://files.speakerdeck.com/presentations/6dc6ef2eab08422db4ea997cd03d1e10/preview_slide_0.jpg?38679511",
-    "ja_summary": "・アポロ計画で培われた「ソフトウェア工学」の基礎（優先度制御やマルチタスク等）を再評価する。\n・極限の環境下でミッションを救ったのは、人的ミスを防ぐ堅牢なエラー処理能力だった。\n・現代の技術トレンドを見直すため、50年前の先駆的なシステム設計から学ぶべき点は多い。"
-  },
-  {
-    "title": "深圳でロボタクシーに乗ってみた。肌で感じた、中国で本格化する「EVの次」競争",
-    "link": "https://www.businessinsider.jp/article/2603-insidechina-robotaxi/",
-    "source": "Business Insider Japan",
-    "published": "Mon, 09 Mar 2026 21:30:00 GMT",
-    "summary": "EVシフトで世界の注目を集めてきた中国の自動車産業で、「次の競争」が始まっています。テーマは「AIが運転する車」。深圳で実際にロボタクシーに乗ってみると、日本ではまだ遠い未来のように思える自動運転がすでに街の中で動き始めていました。",
-    "image": "https://media.loom-app.com/loom/2026/03/09/a39d38a9-291b-4db0-9093-80273ef20476/original.jpg?w=1200&amp;h=630",
-    "ja_summary": "・中国の自動車産業はEVから「AI自動運転」へと競争の主戦場を移している。\n・深圳ではロボタクシーが実用化され、日常的な移動手段として稼働中。\n・日本では未来の話である自動運転技術が、中国ではすでに実装段階にある。"
   }
 ]
