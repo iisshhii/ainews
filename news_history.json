@@ -1,5 +1,32 @@
 [
   {
+    "title": "TI、E2E自動運転向けSoC開発　1200TOPSでNVIDIAに挑戦",
+    "link": "https://xtech.nikkei.com/atcl/nxt/mag/at/18/00006/00860/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "米Texas Instruments（テキサス・インスツルメンツ、TI）はEnd-to-End（E2E）自動運転向けの車載SoC（System on a Chip）を開発した。最大1200TOPS（毎秒1200兆回）と高い演算能力を実現し、E2Eの大規模なAI（人工知能）モデルの演算に対応する。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/mag/at/18/00006/00860/topm.jpg?20220512",
+    "ja_summary": "・米TIが最大1200TOPSの演算能力を持つ自動運転用SoCを開発。\n・大規模なE2E（エンドツーエンド）AIモデルの処理に対応。\n・高性能な車載チップ市場でNVIDIAに対抗する。"
+  },
+  {
+    "title": "AIが集めた情報はどう管理される？　ほか",
+    "link": "https://xtech.nikkei.com/atcl/nxt/mag/at/18/00087/00048/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "2026年2月号の特集「車載AIエージェント最前線」を読み、AI（人工知能）を通じて収集されたさまざまな情報が、誰にどこまで共有されるのか、その保護はどのようになっているのか、気になった。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/mag/at/18/00087/00048/topm.jpg?20220512",
+    "ja_summary": "・車載AIが収集する個人情報の管理と共有範囲の実態について考察。\n・AI利用の拡大に伴うプライバシー保護のあり方が今後の焦点。\n・車載AIの導入における情報セキュリティの重要性を提起。"
+  },
+  {
+    "title": "H.C. Wainwrightが買い推奨でSpyGlass Pharma株のカバレッジを開始",
+    "link": "https://jp.investing.com/news/analyst-ratings/article-93CH-1452775",
+    "source": "Investing.com ニュース",
+    "published": "2026-03-10 11:33:55",
+    "summary": "",
+    "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+    "ja_summary": "・H.C. WainwrightがSpyGlass Pharmaの新規カバレッジを開始。\n・投資判断は「買い」を推奨。\n・今後の成長期待が示唆され、市場の注目を集めている。"
+  },
+  {
     "title": "桜の写真から「満開日」予測　地域毎に一番の見頃を特定　ウェザーニュース",
     "link": "https://www.watch.impress.co.jp/docs/news/2092197.html",
     "source": "Impress Watch",
@@ -871,32 +898,5 @@
     "summary": "米国の攻撃「次はキューバ」　トランプ政権に近い知日派の米外交専門家　／AI×ステーブルコインで広がる560兆円市場　不動産も音楽もトークン化／ゴールドウイン渡辺貴生社長CEO「人と違うものづくりで第三極を進む」、他",
     "image": "https://business.nikkei.com/atcl/audio/22/00001/030900830/fb.jpg",
     "ja_summary": "・トランプ政権が次なる標的としてキューバを見据えている可能性が浮上。\n・AIとステーブルコインの融合により、不動産や音楽など560兆円規模のトークン市場が拡大中。\n・ゴールドウイン渡辺社長が掲げる、独自のものづくりで市場の「第三極」を目指す戦略。"
-  },
-  {
-    "title": "AI×ステーブルコインで広がる560兆円市場　不動産も音楽もトークン化 (ステーブルコイン革命)",
-    "link": "https://business.nikkei.com/atcl/gen/19/00850/030900004/",
-    "source": "日経ビジネス 最新",
-    "published": "",
-    "summary": "AIエージェントを活用した決済送金の金融インフラとしてステーブルコインに期待が集まる。「トークン化預金」などと合わせ、ブロックチェーン上に流通する資産の市場規模は30年に3.6兆ドル（約560兆円）まで広がる予測だ。",
-    "image": "https://business.nikkei.com/atcl/gen/19/00850/030900004/fb.jpg",
-    "ja_summary": "・AI決済と資産のトークン化により、ステーブルコインが新たな金融インフラとして注目されている。\n・不動産や音楽などの資産がブロックチェーン上で取引され、市場規模は2030年に約560兆円へ拡大する見通し。"
-  },
-  {
-    "title": "ホンダと異なる目標",
-    "link": "https://xtech.nikkei.com/atcl/nxt/mag/at/18/00139/00003/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "ソニー・ホンダモビリティはEnd-to-End（E2E）自動運転の中核技術を単独で開発する方針を明らかにした。出資元のホンダとはAI（人工知能）モデルや計算資源、データを共用しない。カメラに加えてミリ波レーダーやLiDAR（レーザーレーダー）などを学習に使う独自のAIモデルを開発し、量販価格帯のホンダ車や先行する米Tesla（テスラ）の車両との違いを打ち出す。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/mag/at/18/00139/00003/topm.jpg?20220512",
-    "ja_summary": "ソニー・ホンダモビリティは、ホンダとAIやデータを共有せず、独自のE2E自動運転技術を単独開発する方針を決定。\nカメラに加えLiDAR等の複数センサーを活用した独自AIで、ホンダ車やテスラとの差別化を図る。\nホンダの計算資源に頼らない独立した開発体制により、次世代モビリティ市場での競争力を強化する。"
-  },
-  {
-    "title": "EV王者テスラに挑戦状",
-    "link": "https://xtech.nikkei.com/atcl/nxt/mag/at/18/00139/00001/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "ソニーグループとホンダ、日本を代表する企業が組んで開発する電気自動車（EV）「AFEELA（アフィーラ）」。ソニーGのエンターテインメントとホンダの車両開発の知見を融合し、新たなモビリティーの創出を狙う。EVは逆風を受けるが、人工知能（AI）を駆使したEnd-to-End（E2E）自動運転という新たな追い風が吹く。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/mag/at/18/00139/00001/topm.jpg?20220512",
-    "ja_summary": "・ソニーとホンダが協業し、EV「AFEELA」でテスラに挑む\n・ソニーの娯楽技術とホンダの製造知見を融合し新体験を創出\n・EV市場の逆風を、AIによる「E2E自動運転」技術で突破する狙い"
   }
 ]
