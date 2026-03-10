@@ -1,5 +1,23 @@
 [
   {
+    "title": "空白から草案を作り出すGoogleドキュメント スプシ・スライドもGemini強化",
+    "link": "https://www.watch.impress.co.jp/docs/news/2092253.html",
+    "source": "Impress Watch",
+    "published": "",
+    "summary": "Googleは10日(米国時間)、Google ドキュメント、スプレッドシート、スライド、ドライブにおけるGeminiを大幅に強化すると発表した。新機能は、Google AI Ultra(月額36,400円)/Pro(同2,900円)とGoogle Workspaceに導入される。",
+    "image": "https://www.watch.impress.co.jp/img/ipw/list/2092/253/g01.jpg",
+    "ja_summary": "・Google ドキュメント、スプレッドシート、スライド、ドライブにGemini機能が大幅導入\n・ゼロからの文書作成やデータ分析などをAIが支援し、業務効率を劇的に向上\n・「Google AI」の有料プラン（月額2,900円〜）およびWorkspaceユーザー向けに提供開始"
+  },
+  {
+    "title": "深圳でロボタクシーに乗ってみた。肌で感じた、中国で本格化する「EVの次」競争",
+    "link": "https://www.businessinsider.jp/article/2603-insidechina-robotaxi/",
+    "source": "Business Insider Japan",
+    "published": "Mon, 09 Mar 2026 21:30:00 GMT",
+    "summary": "EVシフトで世界の注目を集めてきた中国の自動車産業で、「次の競争」が始まっています。テーマは「AIが運転する車」。深圳で実際にロボタクシーに乗ってみると、日本ではまだ遠い未来のように思える自動運転がすでに街の中で動き始めていました。",
+    "image": "https://media.loom-app.com/loom/2026/03/09/a39d38a9-291b-4db0-9093-80273ef20476/original.jpg?w=1200&amp;h=630",
+    "ja_summary": "・中国の自動車産業はEVから「AI自動運転」へと競争の主戦場がシフト。\n・深圳ではすでにロボタクシーが実用化され、日常の一部として走行。\n・日本では遠い未来とされる自動運転が、中国では本格的な普及段階にある。"
+  },
+  {
     "title": "AI時代のランサムウェアが破壊する「バックアップの常識」",
     "link": "https://japan.zdnet.com/article/35244521/",
     "source": "ZDNET Japan",
@@ -880,23 +898,5 @@
     "summary": "はじめに\n先日、@mametter 氏による「Claude Codeで15言語ベンチマーク」という記事を読んで、思わず二度見してしまいました。\nClaude Code に複数のプログラミング言語でコードを書かせ、実行時間とコストを比較した記事です。結果はかなり興味深くて、Ruby が 73.1 秒 / $0.36、Python が 74.6 秒 / $0.38 と上位を占める一方、Rust は 113.7 秒 / $0.54、Haskell は 174 秒という結果になっていました。\nここで比較されているのは、プログラムそのものの実行速度ではありません。LLM がコードを書き、修正し...",
     "image": "https://res.cloudinary.com/zenn/image/upload/s--ZaYzNeho--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%258CClaude%2520Code%2520%25E3%2581%25AB%25E5%2590%2591%25E3%2581%2584%25E3%2581%25A6%25E3%2581%2584%25E3%2582%258B%25E3%2583%2597%25E3%2583%25AD%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%259F%25E3%2583%25B3%25E3%2582%25B0%25E8%25A8%2580%25E8%25AA%259E%25E3%2580%258D%25E8%25A8%2598%25E4%25BA%258B%25E3%2582%2592%25E8%25A6%258B%25E3%2581%25A6%25E3%2580%2581LLM%2520%25E3%2581%258C%25E6%259B%25B8%25E3%2581%258D%25E3%2582%2584%25E3%2581%2599%25E3%2581%2584%25E8%25A8%2580%25E8%25AA%259E%2520Almide%2520%25E3%2582%2592%25E5%259C%259F...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:O6lvl4%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzcxMWIzNDM4Y2MuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
     "ja_summary": "LLMがコード生成・修正しやすい言語を比較した記事に触発され、自らLLM特化型のプログラミング言語「Almide」を開発した。\nLLMの生成効率は言語の簡潔さに依存するため、LLMが迷わず書けることを目的に設計されている。\n既存言語のベンチマーク結果を参考に、LLMとの親和性を高める新しい言語仕様を実験的に試みた取り組み。"
-  },
-  {
-    "title": "1000社が集う巨大起業拠点「STATION Ai」　変革を急ぐ製造業の生存戦略",
-    "link": "https://www.itmedia.co.jp/business/articles/2603/10/news006.html",
-    "source": "ITmedia ビジネス",
-    "published": "Tue, 10 Mar 2026 07:00:00 +0900",
-    "summary": "2024年10月に名古屋市内で開業した日本有数のオープンイノベーション拠点「STATION Ai」。十六フィナンシャルグループから出向するコミュニティマネージャーに、STATION Aiのオープンイノベーションの実態と、地域経済への貢献を聞いた。",
-    "image": "https://image.itmedia.co.jp/business/articles/2603/10/cover_news006.jpg",
-    "ja_summary": "・名古屋に日本最大級の起業拠点「STATION Ai」が開業。\n・製造業の変革と地域経済の活性化を目指し、1000社が集結。\n・オープンイノベーションを通じた企業の生存戦略と支援の最前線を追う。"
-  },
-  {
-    "title": "モルガン・スタンレー、AI懸念でGlobal Business Travel株の目標株価を引き下げ",
-    "link": "https://jp.investing.com/news/analyst-ratings/article-93CH-1452132",
-    "source": "Investing.com ニュース",
-    "published": "2026-03-09 22:01:57",
-    "summary": "",
-    "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-    "ja_summary": "・モルガン・スタンレーがGlobal Business Travelの目標株価を引き下げ。\n・AI技術の台頭が、同社の収益モデルに悪影響を及ぼす懸念が要因。\n・市場での成長力低下が懸念され、投資評価が慎重な姿勢に転換。"
   }
 ]
