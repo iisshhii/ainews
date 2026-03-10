@@ -1,5 +1,122 @@
 [
   {
+    "title": "OpenAIのロボット部門の主要スタッフが、ペンタゴンとの契約後に辞任「これは原則の問題だった」",
+    "link": "https://www.businessinsider.jp/article/2603caitlin-kalinowski-quits-openai-robotics-head-pentagon-deal-sam-altman/",
+    "source": "Business Insider Japan",
+    "published": "Tue, 10 Mar 2026 22:15:00 GMT",
+    "summary": "OpenAIの技術部門スタッフ、ケイトリン・カリノウスキー氏は3月7日に辞任を発表しました。Xで同社と国防総省の契約を批判し、AI監視や致死的自律システムへの懸念を示しました。",
+    "image": "https://media.loom-app.com/loom/2026/03/10/8ab43350-3ac2-4a0b-a046-1f368a61e372/original.jpg?w=1200&amp;h=630",
+    "ja_summary": "・OpenAIの技術スタッフが、同社と国防総省の契約に反発し辞任。\n・AIによる監視や致死的な自律兵器への悪用を懸念。\n・「原則の問題」として企業姿勢を批判する事態に発展。"
+  },
+  {
+    "title": "Gemini Embedding 2 の概要",
+    "link": "https://note.com/npaka/n/n1e39b1e67561",
+    "source": "note (npaka)",
+    "published": "Wed, 11 Mar 2026 06:43:21 +0900",
+    "summary": "<p id=\"116bbc09-4b40-4bfc-9334-53e8e7a8c224\" name=\"116bbc09-4b40-4bfc-9334-53e8e7a8c224\">以下の記事が面白かったので、簡単にまとめました。</p><figure id=\"64cc17bd-bf70-4d14-addb-2898ff5e90ea\" name=\"64cc17bd-bf70-4d14-addb-2898ff5e90ea\"><blockquote><p id=\"8b470a8c-ec47-4a51-b245-3582948a46d0\" name=\"8b470a8c-ec47-4a51-b245-3582948a46d0\"><strong>・</strong><a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-embedding-2/\" rel=\"nofollow noopener\" target=\"_blank\"><strong>Gemini Embedding 2: Our first natively multimodal embedding model</strong></a></p></blockquote>\n<figcaption></figcaption></figure><br /><a href=\"https://note.com/npaka/n/n1e39b1e67561\">続きをみる</a>",
+    "image": "https://assets.st-note.com/production/uploads/images/258171703/rectangle_large_type_2_bfbf5c46387c6775c1adf4274c528668.png?width=800",
+    "ja_summary": "・Googleが初のネイティブマルチモーダル埋め込みモデル「Gemini Embedding 2」を発表。\n・テキスト、画像、音声など異なる種類のデータを同一のベクトル空間で高精度に扱えるのが特徴。\n・検索や推奨システムなど、AIアプリケーションの性能と利便性を大幅に向上させる。"
+  },
+  {
+    "title": "【書評】 最速でわかる生成AI実践ガイド",
+    "link": "https://note.com/npaka/n/n010c081e719f",
+    "source": "note (npaka)",
+    "published": "Wed, 04 Mar 2026 11:33:09 +0900",
+    "summary": "<p id=\"b1b295a4-38a9-40a5-b2f4-13569c733c96\" name=\"b1b295a4-38a9-40a5-b2f4-13569c733c96\">近年、AIの世界では「プロンプトエンジニアリング」「RAG」「AIエージェント」といった言葉を頻繁に耳にするようになりました。しかし、ニュースやSNSで断片的に知っていても、それらが実際にどのような仕組みで動いているのかを説明できる人は、まだそれほど多くありません。</p><p id=\"a49d724c-7ac6-42d2-b483-3b31e19a4bd6\" name=\"a49d724c-7ac6-42d2-b483-3b31e19a4bd6\">『<strong>最速でわかる生成AI実践ガイド</strong>』は、そうした<strong>「なんとなく知っているAI」を体系的な理解へと変えてくれる一冊</strong>になります。</p><br /><a href=\"https://note.com/npaka/n/n010c081e719f\">続きをみる</a>",
+    "image": "https://assets.st-note.com/production/uploads/images/256356817/rectangle_large_type_2_0565aace42ab5b55e2faeb3c023bce63.png?width=800",
+    "ja_summary": "・生成AIの専門用語を表面的な知識で終わらせず、仕組みから体系的に学べる入門書。\n・「プロンプトエンジニアリング」や「RAG」などの活用法が実践的に理解できる。\n・AI技術を「なんとなく」から「使える知識」へ変えたい人に最適な一冊。"
+  },
+  {
+    "title": "GPT-5.3 Instant の概要",
+    "link": "https://note.com/npaka/n/n73336817814f",
+    "source": "note (npaka)",
+    "published": "Wed, 04 Mar 2026 06:06:35 +0900",
+    "summary": "<p id=\"89de300a-a323-4e42-a24c-273f817a7142\" name=\"89de300a-a323-4e42-a24c-273f817a7142\">以下の記事が面白かったので、簡単にまとめました。</p><figure id=\"9acad1e0-23f1-409d-9e13-9bf3cdf3b39c\" name=\"9acad1e0-23f1-409d-9e13-9bf3cdf3b39c\"><blockquote><p id=\"f000f8f6-7f89-4b81-8ec8-a6f1b97ca40b\" name=\"f000f8f6-7f89-4b81-8ec8-a6f1b97ca40b\"><strong>・</strong><a href=\"https://openai.com/ja-JP/index/gpt-5-3-instant/\" rel=\"nofollow noopener\" target=\"_blank\"><strong>GPT‑5.3 Instant：よりスムーズで、日常会話にもっと役立つ</strong></a></p></blockquote>\n<figcaption></figcaption></figure><br /><a href=\"https://note.com/npaka/n/n73336817814f\">続きをみる</a>",
+    "image": "https://assets.st-note.com/production/uploads/images/256315123/rectangle_large_type_2_87f9d61de13814379364ac8c9b9933da.png?width=800",
+    "ja_summary": "・OpenAIが新モデル「GPT-5.3 Instant」を発表。\n・処理速度が向上し、よりスムーズで自然な日常会話が可能になった。\n・従来よりも対話のレスポンスが改善され、実用性が高まっている。"
+  },
+  {
+    "title": "Gemini 3.1 Flash-Lite の概要",
+    "link": "https://note.com/npaka/n/n4f761e3e435e",
+    "source": "note (npaka)",
+    "published": "Wed, 04 Mar 2026 05:50:22 +0900",
+    "summary": "<p id=\"6ea3d9fc-2d76-4e92-a705-881692caf261\" name=\"6ea3d9fc-2d76-4e92-a705-881692caf261\">以下の記事が面白かったので、簡単にまとめました。</p><figure id=\"57e10951-1193-420d-847f-1122291d775d\" name=\"57e10951-1193-420d-847f-1122291d775d\"><blockquote><p id=\"3b791d46-36bf-4f05-b2f1-80a293c77a90\" name=\"3b791d46-36bf-4f05-b2f1-80a293c77a90\"><strong>・</strong><a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-lite/\" rel=\"nofollow noopener\" target=\"_blank\"><strong>Gemini 3.1 Flash-Lite: Built for intelligence at scale</strong></a></p></blockquote>\n<figcaption></figcaption></figure><br /><a href=\"https://note.com/npaka/n/n4f761e3e435e\">続きをみる</a>",
+    "image": "https://assets.st-note.com/production/uploads/images/256313651/rectangle_large_type_2_db8693d70c27b6beaf7d21075b74c383.png?width=800",
+    "ja_summary": "・Googleが超軽量・高速・低コストな新AIモデル「Gemini 3.1 Flash-Lite」を発表。\n・大規模なタスク処理を効率化する設計で、応答速度と経済性を重視。\n・高頻度なAPI利用や、コストを抑えたAI活用を求める企業ニーズに対応。"
+  },
+  {
+    "title": "AIで男女格差拡大リスク ILO警鐘",
+    "link": "https://news.yahoo.co.jp/pickup/6572356?source=rss",
+    "source": "Yahoo!ニュース IT・科学",
+    "published": "Sat, 07 Mar 2026 08:16:24 GMT",
+    "summary": "",
+    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/7/3ca8703b74cb6800426af3b025b6d6a1e6e9c2e7d9e2940d8abf7f940920ff16.jpg",
+    "ja_summary": "・AIの普及により、事務職など女性の就業割合が高い職種で代替が進むリスクがある。\n・自動化による労働環境の変化が、既存の男女間の賃金や雇用の格差を広げる懸念がある。\n・ILOは、AIの導入にあたり適切な政策措置を講じるよう各国に強く求めている。"
+  },
+  {
+    "title": "Tricentis、AIエージェントが連携する新基盤を発表--自律的なソフトウェア品質管理へ",
+    "link": "https://japan.zdnet.com/article/35244794/",
+    "source": "ZDNET Japan",
+    "published": "",
+    "summary": "Tricentis Japanは、「Tricentis AI Workspace」を基盤とする、統合エージェント型ソフトウェア品質プラットフォームを発表した。複数の自律型エージェントを統合し、製品間や人間とシームレスに連携することで、高品質なコードのテストからガバナンス、リリースまでをAI時代に対応する速度で実行するという。自律的なソフトウェア品質管理<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35244794/\"><img src=\"https://japan.zdnet.com/storage/2025/09/30/e3d5360845f24894b778caaf811bdbc7/t/184/138/d/250930_engineer_as_1280_726498075.jpg\" /></a>",
+    "image": "https://japan.zdnet.com/storage/2025/09/30/e3d5360845f24894b778caaf811bdbc7/t/184/138/d/250930_engineer_as_1280_726498075.jpg",
+    "ja_summary": "・TricentisがAIエージェント統合型の品質管理基盤「Tricentis AI Workspace」を発表。\n・複数の自律型AIが連携し、コードテストからリリースまでの工程をシームレスに自動化。\n・人間とAIが協力することで、AI時代の開発スピードと品質維持を両立する。"
+  },
+  {
+    "title": "パナソニックHD、新R＆D拠点「Technology CUBE」--100年先見据え“実装力ある研究開発”を",
+    "link": "https://japan.zdnet.com/article/35244804/",
+    "source": "ZDNET Japan",
+    "published": "",
+    "summary": "パナソニック ホールディングスは、大阪府門真市に新設した研究開発拠点「Technology CUBE」を公開した。AIや材料、生産技術など約1000人の技術者が集結し、研究から量産化設計までを一気通貫で推進。働き方そのものを実験する場として、共創や社会実装力を高める“次世代型R＆D拠点”を目指す。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35244804/\"><img src=\"https://japan.zdnet.com/storage/2026/03/10/b9af17126fd3b6fe3bfc7234e37a9f28/t/184/138/d/260310_panasonic_p2_l.jpg\" /></a>",
+    "image": "https://japan.zdnet.com/storage/2026/03/10/b9af17126fd3b6fe3bfc7234e37a9f28/t/184/138/d/260310_panasonic_p2_l.jpg",
+    "ja_summary": "・パナソニックHDが大阪に新研究開発拠点「Technology CUBE」を開設。\n・AIや材料技術など約1000人の専門家が集結し、研究から量産まで一気通貫で推進。\n・社員の働き方を変える実験の場として、社会実装力を備えた次世代型拠点の構築を目指す。"
+  },
+  {
+    "title": "AIの最大の脅威は内部からやってくる--組織を守る12のヒント",
+    "link": "https://japan.zdnet.com/article/35244813/",
+    "source": "ZDNET Japan",
+    "published": "",
+    "summary": "企業や組織のサイバーセキュリティにとって最大の脅威は、実は外部のハッカーではなく、社内の仕組みや人間だ。本稿では、内部の脅威から組織を守る12のヒントを紹介する。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35244813/\"><img src=\"https://japan.zdnet.com/storage/2026/03/10/ed39f0a02938a0da2b2804177303d844/t/184/138/d/gettyimages-1569676292_l.jpg\" /></a>",
+    "image": "https://japan.zdnet.com/storage/2026/03/10/ed39f0a02938a0da2b2804177303d844/t/184/138/d/gettyimages-1569676292_l.jpg",
+    "ja_summary": "AI時代において組織の最大のセキュリティ脅威は外部の攻撃者ではなく、社内の人間や仕組みにある。\nリスクを最小化するためには、人的要因や運用体制を見直し、防衛策を強化することが不可欠である。\n本記事では、内部不正やミスから組織を守るための具体的な12の対策指針を提示している。"
+  },
+  {
+    "title": "Kodiak AI、2025年第4四半期は増収も1株利益は予想を下回る",
+    "link": "https://jp.investing.com/news/transcripts/article-93CH-1453750",
+    "source": "Investing.com ニュース",
+    "published": "2026-03-10 22:11:56",
+    "summary": "",
+    "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+    "ja_summary": "・Kodiak AIの2025年第4四半期決算は増収を達成。\n・一方で、1株当たり利益は市場予想を下回る結果となった。"
+  },
+  {
+    "title": "Certara、Barclays Healthcare Conferenceで戦略的成長とAI統合を発表",
+    "link": "https://jp.investing.com/news/transcripts/article-93CH-1453749",
+    "source": "Investing.com ニュース",
+    "published": "2026-03-10 22:11:43",
+    "summary": "",
+    "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+    "ja_summary": "・CertaraがBarclays Healthcare Conferenceにて、事業の戦略的成長計画を発表\n・創薬プロセスへのAI統合を加速させ、開発効率の向上と競争力強化を目指す\n・デジタル技術の活用により、ヘルスケア市場でのプレゼンス拡大を図る"
+  },
+  {
+    "title": "AIエージェント、 社内展開の前に知っておきたいこと",
+    "link": "https://speakerdeck.com/oracle4engineer/aieziento-she-nei-zhan-kai-noqian-nizhi-tuteokitaikoto",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-03-09T09:23:29-04:00",
+    "summary": "チャット型AIとは異なり、AIエージェントはシステムへの「書き込み・更新・送信・発注」といった実行を伴います。その強力さゆえに、導入前の設計が欠かせません。\n本資料では、AIエージェントを社内展開する前に押さえておくべきポイントを整理しています。\n\n・チャット型AIとAIエージェントの本質的な違い（応答 vs 実行）\n・まず決めるべき3つのルール：スコープ定義、承認フロー設計、オーナーシップ\n・リスクレベル別のエージェント分類と対策の考え方\n・セキュリティ・ガバナンスの4本柱：認証認可、ガードレール、データ層の防御、可観測性\n・認証はAPIキー埋め込みではなく環境ベースのアイデンティティへ\n・ガードレールは突破される前提で、データ層を「最後の砦」として守る設計\n\nAIエージェントの展開前に検討しておくべき基本をまとめています。\n荒川 裕二（日本オラクル株式会社 / OCI Platform COE本部 ソリューションズ・アーキテクト部）",
+    "image": "https://files.speakerdeck.com/presentations/78ad85d6fd45463cb75d0a777f1fc713/preview_slide_0.jpg?38675859",
+    "ja_summary": "・AIエージェントは情報の応答だけでなく「実行」を伴うため、導入には厳格な設計とリスク管理が不可欠。\n・「スコープ定義・承認フロー・オーナーシップ」を明確にし、セキュリティとガバナンスを強固に構築する。\n・ガードレール突破を想定し、データ層の防御と環境ベースの認証を軸とした安全な運用体制を整えるべき。"
+  },
+  {
+    "title": "Claude Codeを使いこなすために最低限知っておくべきこと4選！",
+    "link": "https://qiita.com/nAotO01_03/items/d8e58f7282f1c44dca14",
+    "source": "Qiita (Popular)",
+    "published": "2026-03-06T13:06:44+09:00",
+    "summary": "# 1. はじめに\n昨今、AIエージェントを活用した開発が主流になりつつあります。\nエージェントを導入することで開発スピードが飛躍的に向上し、PoCやプレ実装のハードルも大幅に下がりました。\n初心者でも手軽に実装に取り組めるようになった一方で、その機能を熟知し使いこなすことで、より迅速かつ精度の高いアウトプットが可能になります。\n\n今回は、特に注目を集める「Claude Code」を使いこなすため",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYzODQ2ODU3JTJGYzZhODExZjZkMTIyODJjM2ZiOTlhYmNiMzcxYWJjMmE1MzQwYjk4ZCUyRnhfbGFyZ2UucG5nJTNGMTc2Mzg2MzAzNz9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9MzgwYTYyNTBkYWM2YTg3NGNlOTI0ZDZlYjcyNjE2OTM%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D5d0bc1728c6bdbc0dc333ddd82807e69?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9Q2xhdWRlJTIwQ29kZSVFMyU4MiU5MiVFNCVCRCVCRiVFMyU4MSU4NCVFMyU4MSU5MyVFMyU4MSVBQSVFMyU4MSU5OSVFMyU4MSU5RiVFMyU4MiU4MSVFMyU4MSVBQiVFNiU5QyU4MCVFNCVCRCU4RSVFOSU5OSU5MCVFNyU5RiVBNSVFMyU4MSVBMyVFMyU4MSVBNiVFMyU4MSU4QSVFMyU4MSU4RiVFMyU4MSVCOSVFMyU4MSU4RCVFMyU4MSU5MyVFMyU4MSVBODQlRTklODElQjglRUYlQkMlODEmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz03Njk2YmI5YTMxMDdlMzM1MWU1NDhlMzI0NzJkMjY3Nw&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBuQW90TzAxXzAzJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9NGRlMzBhMTkyY2RkMDg5ZjRmMTk1ZTZiMTk4YjJhOWY&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=f376b3ebbdbd31de502d1bb9423bb700",
+    "ja_summary": "・AIエージェントによる開発の主流化に伴い、開発スピードと精度の向上が可能に。\n・注目ツール「Claude Code」を最大限活用するための必須知識を解説。\n・機能を熟知することで、PoCや実装業務をより効率的かつ高品質に推進できる。"
+  },
+  {
     "title": "「SaaS is Dead」時代を生き抜くAIネイティブ企業の条件　上場企業が苦しむ“ジレンマ“の正体",
     "link": "https://www.itmedia.co.jp/business/articles/2603/11/news026.html",
     "source": "ITmedia ビジネス",
@@ -781,122 +898,5 @@
     "summary": "",
     "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
     "ja_summary": "・医療機器企業HeartBeamがマウントサイナイ医科大学と提携。\n・心電図（ECG）データ解析に特化したAI技術を共同開発へ。\n・心疾患の早期発見や診断精度の向上、遠隔医療の効率化を目指す。"
-  },
-  {
-    "title": "LLVMに対する32ビット定数除算の改善",
-    "link": "https://zenn.dev/herumi/articles/const-div-revised5",
-    "source": "Zenn Trends",
-    "published": "Tue, 10 Mar 2026 02:00:38 GMT",
-    "summary": "初めに\nLLVMはコンパイラ基盤で、抽象的なCPU命令を表す中間表現LLVM-IRに対して最適化を行ったり、ターゲットCPU用のアセンブリ言語コードを生成したりする機能を持ちます。\n今回、符号無し32ビット変数xに対するx/7のような定数除算についてLLVMの最適化を改善するプルリクエスト[SelectionDAG] Optimize 32-bit udiv with 33-bit magic constants on 64-bit targetsがllvm:mainにマージされました。LLVMはC/C++/Rust/Swiftなど様々な言語のコンパイラ実装に利用されているため、それ...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--rCww5UkZ--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:LLVM%25E3%2581%25AB%25E5%25AF%25BE%25E3%2581%2599%25E3%2582%258B32%25E3%2583%2593%25E3%2583%2583%25E3%2583%2588%25E5%25AE%259A%25E6%2595%25B0%25E9%2599%25A4%25E7%25AE%2597%25E3%2581%25AE%25E6%2594%25B9%25E5%2596%2584%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:herumi%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2E4ZWU3NTI0MjAuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-    "ja_summary": "・LLVMの定数除算処理が最適化され、32ビットの除算がより効率的に実行可能となった。\n・64ビット環境において「33ビットのマジック定数」を用いる手法を採用し、演算性能を向上させた。\n・本改善はLLVMを利用するC++やRustなど、主要なプログラミング言語全体の実行速度向上に寄与する。"
-  },
-  {
-    "title": "Emacs ユーザが3ヶ月くらい Zed 使って Emacs に戻った",
-    "link": "https://zenn.dev/hyakt/articles/feb205646fc9f1",
-    "source": "Zenn Trends",
-    "published": "Mon, 09 Mar 2026 10:21:33 GMT",
-    "summary": "前回の記事:\nhttps://zenn.dev/hyakt/articles/02f3a76187ca2a\nで Zed を使い始めましたが、結論から言うと、いまは Emacs に戻っています。\nZed は速いし、開発も活発で、良いエディタだと思います。\nただ、自分のユースケースには最終的に Emacs の方が合っていました。\nこの記事は Zed を下げる話ではなく、\n「3ヶ月使ってみて、自分に必要な条件が見えた」という記録です。\n\n 背景\n10年以上 Emacs を使っていて、\nここ最近は AI Agent 連携も含めて「今の開発体験」を見直したくなり、Zed を3ヶ月ほどメインで使って...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--KNtAiN1b--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Emacs%2520%25E3%2583%25A6%25E3%2583%25BC%25E3%2582%25B6%25E3%2581%258C3%25E3%2583%25B6%25E6%259C%2588%25E3%2581%258F%25E3%2582%2589%25E3%2581%2584%2520Zed%2520%25E4%25BD%25BF%25E3%2581%25A3%25E3%2581%25A6%2520Emacs%2520%25E3%2581%25AB%25E6%2588%25BB%25E3%2581%25A3%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:hyakt%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2U5MWM3ZWQwYjIuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-    "ja_summary": "・10年以上愛用するEmacsから高速で先進的なエディタ「Zed」へ3ヶ月乗り換えた。\n・検証の結果、自身の開発スタイルやカスタマイズ性にはEmacsが最適であると再確認した。\n・Zedは優れたエディタだが、自身のニーズを明確化する良い機会となった。"
-  },
-  {
-    "title": "OpenAI to acquire Promptfoo",
-    "link": "https://openai.com/index/openai-to-acquire-promptfoo",
-    "source": "OpenAI",
-    "published": "Mon, 09 Mar 2026 10:00:00 GMT",
-    "summary": "OpenAI is acquiring Promptfoo, an AI security platform that helps enterprises identify and remediate vulnerabilities in AI systems during development.",
-    "image": "https://openai.com/favicon.ico",
-    "ja_summary": "・OpenAIがAI開発の脆弱性を診断・修正するプラットフォーム「Promptfoo」を買収。\n・企業のAIシステム導入におけるセキュリティ強化と安全性向上を狙う。\n・開発プロセスでのリスク特定能力を取り込み、AI開発の信頼性を高める方針。"
-  },
-  {
-    "title": "Microsoft版Claude Cowork登場　「Copilot Cowork」が業務を自律作業",
-    "link": "https://www.watch.impress.co.jp/docs/news/2091878.html",
-    "source": "Impress Watch",
-    "published": "",
-    "summary": "Microsoftは9日(米国時間)、「Microsoft 365」のAI機能「Microsoft 365 Copilot」の強化を発表した。AnthropicのAIモデル「Claude」をCopilotに本格導入するほか、Claude Coworkの基盤技術をCopilotに搭載した「Copilot Cowork」の研究プレビューを提供開始するなど多くのアップデートを盛り込んでいる。",
-    "image": "https://www.watch.impress.co.jp/img/ipw/list/2091/878/ms01.jpg",
-    "ja_summary": "・Microsoft 365 CopilotにAnthropicの「Claude」を本格導入。\n・自律的に業務を遂行する「Copilot Cowork」の研究プレビューを開始。\n・AIモデルの刷新と機能強化により、業務効率化をさらに加速させる。"
-  },
-  {
-    "title": "Deutsche Bank、AI成長を背景にSTマイクロエレクトロニクスの目標株価を引き上げ",
-    "link": "https://jp.investing.com/news/analyst-ratings/article-93CH-1452525",
-    "source": "Investing.com ニュース",
-    "published": "2026-03-10 09:21:36",
-    "summary": "",
-    "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-    "ja_summary": "・ドイツ銀行がSTマイクロエレクトロニクスの目標株価を引き上げ。\n・AI分野での成長が業績を押し上げるとの期待が背景。\n・市場での同社の成長ポテンシャルが改めて評価された。"
-  },
-  {
-    "title": "Costain、2025年利益増加、記録的な70億ポンドの受注残高で株価10%上昇",
-    "link": "https://jp.investing.com/news/earnings/article-1452517",
-    "source": "Investing.com ニュース",
-    "published": "2026-03-10 09:13:44",
-    "summary": "",
-    "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-    "ja_summary": "・英エンジニアリング大手Costainの2025年利益見通しが好調\n・過去最高の70億ポンドの受注残高を確保\n・市場の期待を超え、株価は10%急騰した"
-  },
-  {
-    "title": "「AI軍事利用」を巡る“踏み絵”状態に　AnthropicとOpenAI、判断が分かれた理由",
-    "link": "https://www.itmedia.co.jp/business/articles/2603/09/news074.html",
-    "source": "ITmedia ビジネス",
-    "published": "Mon, 09 Mar 2026 14:00:00 +0900",
-    "summary": "米国防総省がAI企業に対して安全対策（セーフガード）を撤廃し、軍によるAIの「あらゆる合法的な利用」に同意するよう求めた。米Anthropicはこの条件を拒絶し、政府によって「サプライチェーンリスク」に指定された。「正義のAnthropic」対「利益に走ったOpenAI」という善悪二元論も飛び交っているが、この事態の本質はもっと深いところにある。",
-    "image": "https://image.itmedia.co.jp/business/articles/2603/09/cover_news074.jpg",
-    "ja_summary": "・国防総省がAIの軍事利用にあたり安全制限の解除を要求。\n・Anthropicは安全性を優先して拒絶し、OpenAIは条件を受け入れた。\n・単なる善悪論ではなく、企業の倫理方針と政府との関わり方の対立が背景にある。"
-  },
-  {
-    "title": "日本人「旅行離れ」の根本原因　インバウンド高騰で泊まれない実態と「AIの限界」",
-    "link": "https://www.itmedia.co.jp/business/articles/2603/09/news016.html",
-    "source": "ITmedia ビジネス",
-    "published": "Mon, 09 Mar 2026 07:00:00 +0900",
-    "summary": "かつての「安価な団体ツアー」が崩壊した今、旅行業界は誰をターゲットにし、どんな付加価値を提供すべきなのか。各社のデータと予測トレンドから、2026年の旅行ビジネスにおける勝ち筋を分析する。",
-    "image": "https://image.itmedia.co.jp/business/articles/2603/09/cover_news016.jpg",
-    "ja_summary": "・安価な団体旅行の終焉とインバウンド高騰により、日本人の旅行離れが加速している。\n・従来のビジネスモデルは限界を迎えており、今後は新たな付加価値の提供が不可欠。\n・データとトレンド分析から、2026年に向けた旅行業界の生き残り戦略を読み解く。"
-  },
-  {
-    "title": "京王電鉄、AIを活用した乗務員の業務支援システムの運用を開始",
-    "link": "https://japan.zdnet.com/article/35244840/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "京王電鉄は、音声や文字入力などでAIが社内マニュアルなどの膨大な情報の中から必要な情報を迅速に乗務員や運行指令などに提供するシステムの運用を開始する。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35244840/\"><img src=\"https://japan.zdnet.com/storage/2026/03/10/d8a1074f40fdeedc36c4d8316e58c0c3/t/184/138/d/keiorailways0310_l.jpg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2026/03/10/d8a1074f40fdeedc36c4d8316e58c0c3/t/184/138/d/keiorailways0310_l.jpg",
-    "ja_summary": "・京王電鉄が乗務員向けにAI業務支援システムの運用を開始。\n・音声や文字入力でマニュアル等の膨大な情報を即座に検索・提示。\n・運行現場の迅速な情報収集をサポートし、業務効率化を図る。"
-  },
-  {
-    "title": "NTT島田社長がMWCで描いた次の主役　ドコモの「赤」からグループの「青」へ (通信のミライ)",
-    "link": "https://business.nikkei.com/atcl/gen/19/00550/030900113/",
-    "source": "日経ビジネス 最新",
-    "published": "",
-    "summary": "NTTはMWC26へ7年ぶりにグループ共同で出展し、光電融合デバイスとAIエージェントを前面に打ち出した。島田社長は27年度財務目標の達成の困難を認めつつドコモ改革を宣言。NTTデータグループはAI特化の新会社設立で再成長のけん引役を担う。",
-    "image": "https://business.nikkei.com/atcl/gen/19/00550/030900113/fb.jpg",
-    "ja_summary": "・NTTがMWCに7年ぶりにグループ結集で出展し、光電融合とAI技術を世界に発信。\n・島田社長は財務目標達成の厳しさを認めつつ、ドコモの抜本改革を表明。\n・NTTデータがAI専門の新会社を設立し、グループ全体の再成長を牽引する。"
-  },
-  {
-    "title": "セールスフォースに聞く「SaaSの死」時代の戦略　「我々は代替できない」 (AIディスラプション)",
-    "link": "https://business.nikkei.com/atcl/gen/19/00845/030500004/",
-    "source": "日経ビジネス 最新",
-    "published": "",
-    "summary": "｢SaaSの死｣　米セールスフォースの株価は年初来で最大28％も下落した。それでも、日本法人トップの小出伸一氏は｢アンソロピックなどLLMは競合ではない｣と主張する。",
-    "image": "https://business.nikkei.com/atcl/gen/19/00845/030500004/fb.jpg",
-    "ja_summary": "・株価低迷と「SaaSの死」が囁かれる中、セールスフォース日本法人はAIを競合ではなく補完技術と位置づけ。\n・LLM（AI）による代替ではなく、顧客データと連携した独自の存在価値を強調。\n・AI時代においても自社のプラットフォームが不可欠であると強気の姿勢を維持。"
-  },
-  {
-    "title": "日立、エージェントAIの標準化団体「AAIF」に参画　日本企業初",
-    "link": "https://www.watch.impress.co.jp/docs/news/2092111.html",
-    "source": "Impress Watch",
-    "published": "",
-    "summary": "日立製作所は10日、日本企業として初めて「Agentic AI Foundation(AAIF)」にゴールドメンバーとして加入したと発表した。AAIFはThe Linux Foundation傘下でエージェント型AIの透明性や標準化を推進する中立的組織。日立はAAIFの中核プロジェクトであるModel Context Protocol(MCP)などの活動に参画する。",
-    "image": "https://www.watch.impress.co.jp/img/ipw/list/2092/111/01.jpg",
-    "ja_summary": "・日立製作所が日本企業で初めて、AI標準化団体「AAIF」にゴールドメンバーとして加入。\n・AAIFはエージェント型AIの透明性と標準化を推進する国際的な中立組織。\n・日立は今後、AI連携の共通規格「MCP」などのプロジェクト開発に参画する。"
-  },
-  {
-    "title": "GPT-5.4 の概要",
-    "link": "https://note.com/npaka/n/nb8d78062e804",
-    "source": "note (npaka)",
-    "published": "Fri, 06 Mar 2026 06:38:29 +0900",
-    "summary": "<p id=\"446f25fd-ed1e-4d5d-9186-4d72087028d3\" name=\"446f25fd-ed1e-4d5d-9186-4d72087028d3\">以下の記事が面白かったので、簡単にまとめました</p><figure id=\"a2c20a1b-be7c-49fb-9678-da2ee76cf942\" name=\"a2c20a1b-be7c-49fb-9678-da2ee76cf942\"><blockquote><p id=\"985a9c79-bdd5-40b7-957f-05b61360dfc7\" name=\"985a9c79-bdd5-40b7-957f-05b61360dfc7\"><strong>・</strong><a href=\"https://openai.com/index/introducing-gpt-5-4/\" rel=\"nofollow noopener\" target=\"_blank\"><strong>Introducing GPT‑5.4</strong></a></p></blockquote>\n<figcaption></figcaption></figure><br /><a href=\"https://note.com/npaka/n/nb8d78062e804\">続きをみる</a>",
-    "image": "https://assets.st-note.com/production/uploads/images/256839826/rectangle_large_type_2_b38ecea6140f394dea22e16944a7dc92.png?width=800",
-    "ja_summary": "・OpenAIが最新モデル「GPT-5.4」を発表。\n・従来のモデルから性能や機能がどのように進化したのかを解説。\n・詳細は公開された技術記事にて確認可能。"
   }
 ]
