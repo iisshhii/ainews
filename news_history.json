@@ -1,5 +1,77 @@
 [
   {
+    "title": "Anthropic acquires Vercept to advance Claude's computer use capabilities",
+    "link": "https://www.anthropic.com/news/acquires-vercept",
+    "source": "Anthropic (News)",
+    "published": "Wed, 25 Feb 2026 00:00:00 +0000",
+    "summary": "Anthropic acquires Vercept to advance Claude's computer use capabilities",
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Node%20Cursor&amp;backgroundColor=coral",
+    "ja_summary": "・AnthropicがAIモデル「Claude」のPC操作能力強化を目的に、スタートアップ企業Verceptを買収。\n・PCの画面認識や操作プロセスを最適化し、AIによる自動タスク実行の精度向上を目指す。\n・自律的なエージェント機能の強化により、ビジネス現場での実用性を高める狙い。"
+  },
+  {
+    "title": "Anthropic’s Responsible Scaling Policy: Version 3.0",
+    "link": "https://www.anthropic.com/news/responsible-scaling-policy-v3",
+    "source": "Anthropic (News)",
+    "published": "Tue, 24 Feb 2026 00:00:00 +0000",
+    "summary": "Anthropic’s Responsible Scaling Policy: Version 3.0",
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Quill&amp;backgroundColor=olive",
+    "ja_summary": "・AnthropicがAI開発の安全基準「Responsible Scaling Policy」の最新版（v3.0）を発表。\n・AIの性能向上に伴うリスクを段階的に管理し、安全性確保のための具体的な運用指針を強化。\n・高度なAIモデルの開発・展開における、安全性と責任あるAI開発のフレームワークを更新。"
+  },
+  {
+    "title": "Making frontier cybersecurity capabilities available to defenders",
+    "link": "https://www.anthropic.com/news/claude-code-security",
+    "source": "Anthropic (News)",
+    "published": "Fri, 20 Feb 2026 00:00:00 +0000",
+    "summary": "Making frontier cybersecurity capabilities available to defenders",
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object-LaptopSecure&amp;backgroundColor=clay",
+    "ja_summary": "・最先端のサイバーセキュリティ技術を防御側が利用可能にする。\n・防御側の能力を強化し、脅威への対応力を向上させる。\n・セキュリティ対策の民主化とエコシステムの強化を図る。"
+  },
+  {
+    "title": "Anthropic and Infosys collaborate to build AI agents for telecommunications and other regulated industries",
+    "link": "https://www.anthropic.com/news/anthropic-infosys",
+    "source": "Anthropic (News)",
+    "published": "Tue, 17 Feb 2026 00:00:00 +0000",
+    "summary": "Anthropic and Infosys collaborate to build AI agents for telecommunications and other regulated industries",
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20NodePair&amp;backgroundColor=sky",
+    "ja_summary": "・AnthropicとInfosysが提携し、AIエージェントの開発に着手。\n・通信業や金融など、規制の厳しい業界向けに特化。\n・企業の業務効率化と安全性・コンプライアンスの両立を支援。"
+  },
+  {
+    "title": "Anthropic and the Government of Rwanda sign MOU for AI in health and education",
+    "link": "https://www.anthropic.com/news/anthropic-rwanda-mou",
+    "source": "Anthropic (News)",
+    "published": "Tue, 17 Feb 2026 00:00:00 +0000",
+    "summary": "Anthropic and the Government of Rwanda sign MOU for AI in health and education",
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20Government&amp;backgroundColor=sky",
+    "ja_summary": "・Anthropic社とルワンダ政府がAI活用に関する覚書（MOU）を締結\n・医療および教育分野へのAI導入と技術協力を推進\n・発展途上国におけるAIを通じた社会課題解決のモデルケースを目指す"
+  },
+  {
+    "title": "SQL で区間同士の重なり（interval overlap）を一発で判定する方法",
+    "link": "https://zenn.dev/medicu/articles/cd97674e6faa91",
+    "source": "Zenn Trends",
+    "published": "Mon, 09 Mar 2026 09:23:48 GMT",
+    "summary": "こんにちは！株式会社 MeDiCU で学生インターンをしている村山です。普段は、MeDiCU の管理するデータベース OneICU を使った臨床疫学研究や医療 AI 研究に関わっています。\n\n はじめに\nSQL で時系列データを扱っていると、「2つの区間が重なっているか」を判定したい場面が頻繁に出てきます。\n\nあるイベントが発生していた時間帯と\n別のイベントが発生していた時間帯\n\nが重なっているかどうかを調べたい、といったケースです。一見すると単純な問題ですが、実際に SQL で書こうとすると、案外直感的には書きにくいのではないでしょうか。\n我々がやっているような ICU の時系列データ...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--lvRuHId0--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:SQL%2520%25E3%2581%25A7%25E5%258C%25BA%25E9%2596%2593%25E5%2590%258C%25E5%25A3%25AB%25E3%2581%25AE%25E9%2587%258D%25E3%2581%25AA%25E3%2582%258A%25EF%25BC%2588interval%2520overlap%25EF%25BC%2589%25E3%2582%2592%25E4%25B8%2580%25E7%2599%25BA%25E3%2581%25A7%25E5%2588%25A4%25E5%25AE%259A%25E3%2581%2599%25E3%2582%258B%25E6%2596%25B9%25E6%25B3%2595%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Io%2520Murayama%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzYwZWJkNDE1MGMuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:MeDiCU%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jTDBnQ0RFTnVodmJqTjVDX1JyVE1Cb0xpUEhBRzRmajFRRWJtdUhJQ09RdkJNTDlEM3c9czk2LWM=%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "ja_summary": "・SQLで2つの期間の重なりを判定するのは一見複雑だが、効率的な記述方法がある。\n・「開始A <= 終了B かつ 開始B <= 終了A」という論理式を用いるのが最適。\n・時系列データの分析やイベントの照合を行う際に、この簡潔な記述を活用できる。"
+  },
+  {
+    "title": "雑に理解する生成系LLM",
+    "link": "https://speakerdeck.com/masakazu/za-nili-jie-surusheng-cheng-xi-llm",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-03-10T01:13:47-04:00",
+    "summary": "ENOG89 Meeting で発表した資料です。\nなんとなくどんな感じで動いているかと学習って何やってんのかにフォーカスしていて、\n埋め込みや自己注意や MoE などの LLM の重要技術には全くふれてません。時間もなかったし。\nなんで生成系 LLM が最近こんなに頭が良くなってるのかはなんとなくわかるようになるかも？",
+    "image": "https://files.speakerdeck.com/presentations/6ee952715a5d4ef1b3545e5592d841fa/preview_slide_0.jpg?38681840",
+    "ja_summary": "・LLMの仕組みと学習の概念を、専門用語を使わずに直感的に解説した資料。\n・埋め込みや自己注意などの技術的詳細を省き、全体像の把握に特化。\n・なぜ近年の生成AIがこれほど高性能化しているのか、本質的な理由が理解できる。"
+  },
+  {
+    "title": "複数クラスタ運用と検索の高度化：ビズリーチにおけるElastic活用事例 / ElasticON Tokyo2026",
+    "link": "https://speakerdeck.com/visional_engineering_and_design/elasticon-tokyo2026",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-03-09T22:19:21-04:00",
+    "summary": "2026年3月10日に開催された「Elastic{ON} Tokyo」の登壇資料です。\nhttps://www.elastic.co/events/elasticon/tokyo\n\n▼関連資料\nビズリーチにおける検索・推薦の取り組み\nhttps://speakerdeck.com/visional_engineering_and_design/deim2026\n\n1人1アプリから標準化へ：Vertex AIを活用したMLOps推進\nhttps://speakerdeck.com/visional_engineering_and_design/shibuya-ai-4\n\nビズリーチの 「企業向けレコメンド」機能について\nhttps://speakerdeck.com/visional_engineering_and_design/shibuya-ai-3\n\nHR領域の「言葉の壁」を越える。HRドメイン特化SPLADEモデル構築パイプラインの全貌\nhttps://engineering.visional.inc/blog/728/hr-sparse-model-training-pipeline/\n\nTwo-Tower モデルで実現する 検索リランキング\nhttps://speakerdeck.com/visional_engineering_and_design/shibuya-ai-2\n\nビズリーチ求職者検索におけるPLMとLLMの活用\nhttps://speakerdeck.com/visional_engineering_and_design/search-engineering-meet-up-2-1\n\n-----\nVisionalのエンジニアリングに関する最新情報はX、ブログで発信しています！📣\n\n▼Visional Engineering Blog\nhttps://engineering.visional.inc/blog/\n\n▼VISIONAL ENGINEERING / X\nhttps://twitter.com/VISIONAL_ENG\n\n▼ビズリーチAI 特設サイト\nhttps://www.bizreach.co.jp/ai",
+    "image": "https://files.speakerdeck.com/presentations/f98e80405f2f4806ab127646ccedf12f/preview_slide_0.jpg?38680646",
+    "ja_summary": "・ビズリーチにおける検索・推薦機能の高度化に向けたElasticの活用事例と運用ノウハウを公開。\n・検索精度向上を目指したTwo-Towerモデルや独自モデル（SPLADE）の構築・導入を推進。\n・Vertex AIによるMLOpsの標準化を進め、HR領域の検索・レコメンド体験を継続的に改善。"
+  },
+  {
     "title": "OpenClawに垣間見えるAIエージェントの未来 課題は信頼性 (世界鳥瞰)",
     "link": "https://business.nikkei.com/atcl/NBD/19/world/00782/",
     "source": "日経ビジネス 最新",
@@ -826,77 +898,5 @@
     "summary": "KDDIは、独自の自律型AIエージェントによる問い合わせ対応を開始した。AIとデジタルヒューマンを組み合わせたオンラインサポート「auサポート AIアドバイザー」と、スマートフォンのチャットアプリやホームページから利用できる「チャットサポート」に導入する。",
     "image": "https://www.watch.impress.co.jp/img/ipw/list/2092/042/01.jpg",
     "ja_summary": "・KDDIが問い合わせ対応に自律型AIエージェントを導入\n・「auサポート AIアドバイザー」とWebチャットで利用可能\n・デジタルヒューマン技術を活用し、オンラインサポートを自動化・効率化"
-  },
-  {
-    "title": "「未来の空港」をMWCで体験　案内ロボットや自動運転カートが旅を変える",
-    "link": "https://japan.cnet.com/article/35244821/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "バルセロナで開催されたMobile World Congress（MWC）で、私は空港にさらなるテクノロジーを導入しようとする未来的なアプリケーションの展示を体験した。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35244821/\"><img src=\"https://japan.cnet.com/storage/2026/03/10/3644d7165bdfc430eecadc12c5089630/t/184/138/d/airport-future-alba-ride-crop_1280x960.jpg\" /></a>",
-    "image": "https://japan.cnet.com/storage/2026/03/10/3644d7165bdfc430eecadc12c5089630/t/184/138/d/airport-future-alba-ride-crop_1280x960.jpg",
-    "ja_summary": "世界最大級のモバイル展示会MWCにて、空港のDX化を目指す最新技術が公開されました。\n案内ロボットや自動運転カートの導入により、今後の空港体験が大きく進化する見込みです。"
-  },
-  {
-    "title": "OpenAI、軍事に関する契約への倫理的懸念からロボット・消費者向けハード開発リーダーが離職",
-    "link": "https://www.techno-edge.net/article/2026/03/08/4901.html",
-    "source": "TechnoEdge",
-    "published": "Sun, 08 Mar 2026 16:26:46 +0900",
-    "summary": "OpenAIのロボティクスおよび消費者向けハードウェア開発リーダーあるケイトリン・カリノフスキー氏は、3月7日に退職したことを明らかにしました。",
-    "image": "https://www.techno-edge.net/imgs/rss/29822.jpg",
-    "ja_summary": "OpenAIのロボティクス・ハードウェア開発の責任者であるケイトリン・カリノフスキー氏が退職した。\n退職の背景には、同社の軍事利用に関する方針への倫理的な懸念があると報じられている。"
-  },
-  {
-    "title": "家庭用PCで使える無料OCRツール「NDLOCR-Lite」を国立国会図書館が公開、生成速度が世界最速と謳う拡散型LLM「Mercury 2」など生成AI技術5つを解説（生成AIウィークリー）",
-    "link": "https://www.techno-edge.net/article/2026/03/06/4899.html",
-    "source": "TechnoEdge",
-    "published": "Fri, 06 Mar 2026 11:48:54 +0900",
-    "summary": "この1週間の気になる生成AI技術・研究をいくつかピックアップして解説する今回の「生成AIウィークリー」（第134回）は、GPT-5-miniを上回る「Qwen3.5」の軽量モデル群や、国立国会図書館が発表した家庭用PCで使える無料OCRツール「NDLOCR-Lite」を取り上げます。",
-    "image": "https://www.techno-edge.net/imgs/rss/29791.jpg",
-    "ja_summary": "・国立国会図書館が家庭用PCで利用可能な無料OCRツール「NDLOCR-Lite」を公開。\n・生成AIの最新動向として、GPT-5-miniを凌駕する軽量モデル「Qwen3.5」が登場。\n・世界最速の生成速度を誇る拡散型LLM「Mercury 2」など、注目技術を総括。"
-  },
-  {
-    "title": "Amazon、AI関連のサービス障害めぐりエンジニア会議を開催=FT報道",
-    "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1452342",
-    "source": "Investing.com ニュース",
-    "published": "2026-03-10 05:38:10",
-    "summary": "",
-    "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-    "ja_summary": "・AmazonがAI関連サービスで発生した障害を受け、エンジニアを集めた緊急会議を開催。\n・AI技術の急速な導入に伴うシステム負荷や安定性の欠如が背景にあると報じられた。\n・主要サービスの信頼性維持に向け、社内の体制強化と技術的な課題解決を急ぐ方針。"
-  },
-  {
-    "title": "全府省庁の約18万人の政府職員を対象としたガバメントAI（源内）の大規模実証を開始します",
-    "link": "https://www.digital.go.jp/news/2d69c287-2897-46d8-a28f-ea5a1fc9bce9",
-    "source": "デジタル庁",
-    "published": "Fri, 06 Mar 2026 13:00:21 +0900",
-    "summary": "",
-    "image": "https://www.digital.go.jp/themes/custom/gov_theme_da_2023/assets/images/ogp.png",
-    "ja_summary": "・政府が全省庁の職員約18万人を対象に、共通の生成AI「ガバメントAI（源内）」の実証実験を開始。\n・業務効率化や行政サービスの質向上を目指し、組織横断での本格的な活用を図る。\n・今後は実証結果を踏まえ、国家公務員の業務変革を加速させる方針。"
-  },
-  {
-    "title": "ガバメントAIで試用する国内大規模言語モデル（LLM）の公募結果",
-    "link": "https://www.digital.go.jp/news/10d55c63-b3e1-42b9-9cc5-93a06943ae0e",
-    "source": "デジタル庁",
-    "published": "Fri, 06 Mar 2026 13:00:08 +0900",
-    "summary": "",
-    "image": "https://www.digital.go.jp/themes/custom/gov_theme_da_2023/assets/images/ogp.png",
-    "ja_summary": "政府が行政業務の効率化を目指す「ガバメントAI」の試行に向け、導入する大規模言語モデル（LLM）の選定結果が発表されました。\n今後は選定されたモデルを実務に活用し、行政サービスの高度化や業務負担の軽減に向けた検証が本格化します。"
-  },
-  {
-    "title": "How Descript enables multilingual video dubbing at scale",
-    "link": "https://openai.com/index/descript",
-    "source": "OpenAI",
-    "published": "Fri, 06 Mar 2026 10:00:00 GMT",
-    "summary": "Descript uses OpenAI models to scale multilingual video dubbing, optimizing translations for both meaning and timing so dubbed speech sounds natural across languages.",
-    "image": "https://openai.com/favicon.ico",
-    "ja_summary": "・DescriptがOpenAIのモデルを活用し、動画の多言語吹き替えを自動化。\n・翻訳の正確さと映像のタイミングを最適化し、自然な音声生成を実現。\n・大規模な動画コンテンツの多言語展開を効率的かつ高品質にサポート。"
-  },
-  {
-    "title": "Codex Security: now in research preview",
-    "link": "https://openai.com/index/codex-security-now-in-research-preview",
-    "source": "OpenAI",
-    "published": "Fri, 06 Mar 2026 10:00:00 GMT",
-    "summary": "Codex Security is an AI application security agent that analyzes project context to detect, validate, and patch complex vulnerabilities with higher confidence and less noise.",
-    "image": "https://openai.com/favicon.ico",
-    "ja_summary": "・AIセキュリティエージェント「Codex Security」が研究プレビュー版として公開。\n・AIがプロジェクト全体を文脈から理解し、脆弱性の検知・検証・修正を自動化。\n・誤検知を減らし、高精度かつ効率的なセキュリティ対策を実現。"
   }
 ]
