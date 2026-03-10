@@ -1,5 +1,50 @@
 [
   {
+    "title": "桜の写真から「満開日」予測　地域毎に一番の見頃を特定　ウェザーニュース",
+    "link": "https://www.watch.impress.co.jp/docs/news/2092197.html",
+    "source": "Impress Watch",
+    "published": "",
+    "summary": "ウェザーニューズは、「ウェザーニュース」において、桜(ソメイヨシノ)のつぼみの写真から「開花日」と「満開日」を予測する「桜AI開花予想」の提供を開始した。今年は新たに「満開日」の予測に対応した。",
+    "image": "https://www.watch.impress.co.jp/img/ipw/list/2092/197/wn00.jpg",
+    "ja_summary": "・ウェザーニューズが桜のつぼみ写真から開花・満開時期を予測する「桜AI開花予想」を開始。\n・AI分析により、地域ごとのより正確な見頃の特定が可能になった。\n・今年は新たに追加された「満開日」の予測機能で、最適な花見の計画を支援する。"
+  },
+  {
+    "title": "AI インフラ需要の継続的成長、懸念の高まりにもかかわらず Morgan Stanley が予測",
+    "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1452724",
+    "source": "Investing.com ニュース",
+    "published": "2026-03-10 11:11:01",
+    "summary": "",
+    "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+    "ja_summary": "・モルガン・スタンレーは、AIインフラ需要が今後も継続的に成長すると予測。\n・市場での過熱やバブル懸念が高まる中での強気な見通し。\n・投資家は慎重な姿勢を保ちつつも、インフラ投資の勢いは続くと分析。"
+  },
+  {
+    "title": "HeartBeam、Mount SinaiとAI-ECG開発で提携",
+    "link": "https://jp.investing.com/news/company-news/article-93CH-1452722",
+    "source": "Investing.com ニュース",
+    "published": "2026-03-10 11:10:09",
+    "summary": "",
+    "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+    "ja_summary": "・医療機器企業HeartBeamがマウントサイナイ医科大学と提携。\n・心電図（ECG）データ解析に特化したAI技術を共同開発へ。\n・心疾患の早期発見や診断精度の向上、遠隔医療の効率化を目指す。"
+  },
+  {
+    "title": "LLVMに対する32ビット定数除算の改善",
+    "link": "https://zenn.dev/herumi/articles/const-div-revised5",
+    "source": "Zenn Trends",
+    "published": "Tue, 10 Mar 2026 02:00:38 GMT",
+    "summary": "初めに\nLLVMはコンパイラ基盤で、抽象的なCPU命令を表す中間表現LLVM-IRに対して最適化を行ったり、ターゲットCPU用のアセンブリ言語コードを生成したりする機能を持ちます。\n今回、符号無し32ビット変数xに対するx/7のような定数除算についてLLVMの最適化を改善するプルリクエスト[SelectionDAG] Optimize 32-bit udiv with 33-bit magic constants on 64-bit targetsがllvm:mainにマージされました。LLVMはC/C++/Rust/Swiftなど様々な言語のコンパイラ実装に利用されているため、それ...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--rCww5UkZ--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:LLVM%25E3%2581%25AB%25E5%25AF%25BE%25E3%2581%2599%25E3%2582%258B32%25E3%2583%2593%25E3%2583%2583%25E3%2583%2588%25E5%25AE%259A%25E6%2595%25B0%25E9%2599%25A4%25E7%25AE%2597%25E3%2581%25AE%25E6%2594%25B9%25E5%2596%2584%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:herumi%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2E4ZWU3NTI0MjAuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "ja_summary": "・LLVMの定数除算処理が最適化され、32ビットの除算がより効率的に実行可能となった。\n・64ビット環境において「33ビットのマジック定数」を用いる手法を採用し、演算性能を向上させた。\n・本改善はLLVMを利用するC++やRustなど、主要なプログラミング言語全体の実行速度向上に寄与する。"
+  },
+  {
+    "title": "Emacs ユーザが3ヶ月くらい Zed 使って Emacs に戻った",
+    "link": "https://zenn.dev/hyakt/articles/feb205646fc9f1",
+    "source": "Zenn Trends",
+    "published": "Mon, 09 Mar 2026 10:21:33 GMT",
+    "summary": "前回の記事:\nhttps://zenn.dev/hyakt/articles/02f3a76187ca2a\nで Zed を使い始めましたが、結論から言うと、いまは Emacs に戻っています。\nZed は速いし、開発も活発で、良いエディタだと思います。\nただ、自分のユースケースには最終的に Emacs の方が合っていました。\nこの記事は Zed を下げる話ではなく、\n「3ヶ月使ってみて、自分に必要な条件が見えた」という記録です。\n\n 背景\n10年以上 Emacs を使っていて、\nここ最近は AI Agent 連携も含めて「今の開発体験」を見直したくなり、Zed を3ヶ月ほどメインで使って...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--KNtAiN1b--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Emacs%2520%25E3%2583%25A6%25E3%2583%25BC%25E3%2582%25B6%25E3%2581%258C3%25E3%2583%25B6%25E6%259C%2588%25E3%2581%258F%25E3%2582%2589%25E3%2581%2584%2520Zed%2520%25E4%25BD%25BF%25E3%2581%25A3%25E3%2581%25A6%2520Emacs%2520%25E3%2581%25AB%25E6%2588%25BB%25E3%2581%25A3%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:hyakt%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2U5MWM3ZWQwYjIuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "ja_summary": "・10年以上愛用するEmacsから高速で先進的なエディタ「Zed」へ3ヶ月乗り換えた。\n・検証の結果、自身の開発スタイルやカスタマイズ性にはEmacsが最適であると再確認した。\n・Zedは優れたエディタだが、自身のニーズを明確化する良い機会となった。"
+  },
+  {
     "title": "OpenAI to acquire Promptfoo",
     "link": "https://openai.com/index/openai-to-acquire-promptfoo",
     "source": "OpenAI",
@@ -853,50 +898,5 @@
     "summary": "ソニーグループとホンダ、日本を代表する企業が組んで開発する電気自動車（EV）「AFEELA（アフィーラ）」。ソニーGのエンターテインメントとホンダの車両開発の知見を融合し、新たなモビリティーの創出を狙う。EVは逆風を受けるが、人工知能（AI）を駆使したEnd-to-End（E2E）自動運転という新たな追い風が吹く。",
     "image": "https://xtech.nikkei.com/atcl/nxt/mag/at/18/00139/00001/topm.jpg?20220512",
     "ja_summary": "・ソニーとホンダが協業し、EV「AFEELA」でテスラに挑む\n・ソニーの娯楽技術とホンダの製造知見を融合し新体験を創出\n・EV市場の逆風を、AIによる「E2E自動運転」技術で突破する狙い"
-  },
-  {
-    "title": "TI、E2E自動運転向けSoC開発　1200TOPSでNVIDIAに挑戦",
-    "link": "https://xtech.nikkei.com/atcl/nxt/mag/at/18/00006/00860/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "米Texas Instruments（テキサス・インスツルメンツ、TI）はEnd-to-End（E2E）自動運転向けの車載SoC（System on a Chip）を開発した。最大1200TOPS（毎秒1200兆回）と高い演算能力を実現し、E2Eの大規模なAI（人工知能）モデルの演算に対応する。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/mag/at/18/00006/00860/topm.jpg?20220512",
-    "ja_summary": "・米TIが次世代の自動運転向け車載SoCを開発\n・最大1200TOPSの演算能力で大規模なE2E（エンド・ツー・エンド）AIモデルに対応\n・業界トップのNVIDIAに対抗し、自動運転市場でのシェア拡大を狙う"
-  },
-  {
-    "title": "AIが集めた情報はどう管理される？　ほか",
-    "link": "https://xtech.nikkei.com/atcl/nxt/mag/at/18/00087/00048/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "2026年2月号の特集「車載AIエージェント最前線」を読み、AI（人工知能）を通じて収集されたさまざまな情報が、誰にどこまで共有されるのか、その保護はどのようになっているのか、気になった。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/mag/at/18/00087/00048/topm.jpg?20220512",
-    "ja_summary": "・車載AIが収集した膨大な情報の管理体制や共有範囲が課題。\n・データの利用先や第三者への提供ルールが不透明。\n・AI導入拡大に伴い、プライバシー保護と適切な運用が求められる。"
-  },
-  {
-    "title": "自動運転トラックの現在地、E2Eは救世主になるか",
-    "link": "https://xtech.nikkei.com/atcl/nxt/mag/at/18/00006/00856/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "AI（人工知能）で車両を全面的に制御するEnd-to-End（エンド・ツー・エンド、E2E）自動運転。米国ラスベガスで開催された世界最大級のテクノロジー見本市「CES 2026」（2026年1月6～9日）でも大きな注目を集めた。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/mag/at/18/00006/00856/topm.jpg?20220512",
-    "ja_summary": "・AIが車両を包括的に制御する「E2E自動運転」が次世代技術として注目されている。\n・CES 2026で主要トピックとなり、自動運転トラックの実用化に向けた期待が高まっている。\n・AIによる直接制御への移行が、自動運転技術の飛躍的な進化の鍵となる。"
-  },
-  {
-    "title": "Transcat、Jaime Irickを3月29日付でCEOに指名",
-    "link": "https://jp.investing.com/news/company-news/article-93CH-1451978",
-    "source": "Investing.com ニュース",
-    "published": "2026-03-09 20:13:26",
-    "summary": "",
-    "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-    "ja_summary": "・Transcatは、新CEOとしてJaime Irick氏を3月29日付で指名した。\n・Irick氏は経営手腕を買われ、次期リーダーとして同社の舵取りを担う。"
-  },
-  {
-    "title": "William Blair、AIエージェント拡大を受けマイクロソフト株のレーティングを再確認",
-    "link": "https://jp.investing.com/news/analyst-ratings/article-93CH-1451936",
-    "source": "Investing.com ニュース",
-    "published": "2026-03-09 19:33:46",
-    "summary": "",
-    "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-    "ja_summary": "・投資会社ウィリアム・ブレアがマイクロソフトのレーティングを再確認\n・AIエージェントの拡大による収益成長への期待が背景\n・同社のAI戦略が中長期的な株価押し上げ要因として評価されている"
   }
 ]
