@@ -1,5 +1,125 @@
 [
   {
+    "title": "「SaaS is Dead」時代を生き抜くAIネイティブ企業の条件　上場企業が苦しむ“ジレンマ“の正体",
+    "link": "https://www.itmedia.co.jp/business/articles/2603/11/news026.html",
+    "source": "ITmedia ビジネス",
+    "published": "Wed, 11 Mar 2026 06:00:00 +0900",
+    "summary": "2月3日、米Anthropicが法務ビジネス向けの自律型AIエージェント「Claude Cowork」を公開したことで、欧米の法務サービス大手の株価が急落し、たった一日で、米国のソフトウェア関連株から43兆円の時価総額が“消えた”。既存のSaaSにAIを組み込むのではなく、AIネイティブなサービス開発ができなければ、今後SaaS企業は淘汰されてしまうのではないか……そんな見方が強まっている。",
+    "image": "https://image.itmedia.co.jp/business/articles/2603/11/cover_news026.jpg",
+    "fetched_at": "2026-03-12 08:18:23",
+    "ja_summary": "・AIエージェントの台頭により、既存SaaSの価値が急落し時価総額43兆円が消失する事態となった。\n・単なるSaaSへのAI組み込みでは不十分であり、AIネイティブなサービスへの転換が不可欠。\n・既存のビジネスモデルにしがみつく企業は、今後淘汰されるリスクに直面している。"
+  },
+  {
+    "title": "応募書類はAIで均質化、ウェブ面接ではAIがカンペ作成…　見極め困難に (コロナ後の新卒採用)",
+    "link": "https://business.nikkei.com/atcl/plus/00056/030400031/",
+    "source": "日経ビジネス 最新",
+    "published": "",
+    "summary": "人工知能（AI）の普及により、従来型の書類選考やウェブ面接では学生の本質を見抜くことが困難になっている。自社の採用基準を改めて言語化し、対面や実働を通じた「見極め」の仕組みを構築する必要がある。",
+    "image": "https://business.nikkei.com/atcl/plus/00056/030400031/fb.jpg",
+    "fetched_at": "2026-03-12 08:18:29",
+    "ja_summary": "・AIによる書類や面接の自動化で、学生の本来の姿が見極めにくくなっている。\n・形式的な選考は限界を迎えつつあり、採用基準の再定義が急務である。\n・対面や実働を通じた「人間による評価」の仕組みへ回帰・強化する必要がある。"
+  },
+  {
+    "title": "ソニー・ホンダ、自動運転AIを自前で開発 　テスラ追うE2E戦略 (クルマ大転換　変革の世紀)",
+    "link": "https://business.nikkei.com/atcl/gen/19/00109/022700371/",
+    "source": "日経ビジネス 最新",
+    "published": "",
+    "summary": "ソニー・ホンダモビリティはAIを全面的に使ったE2E自動運転の中核技術を単独で開発する方針を明らかにした。出資元のホンダとはAIモデルや計算資源、データを共用しない。E2Eは「エンタメカー」の将来を左右する技術と位置付け、自ら開発に乗り出す",
+    "image": "https://business.nikkei.com/atcl/gen/19/00109/022700371/fb.jpg",
+    "fetched_at": "2026-03-12 08:18:30",
+    "ja_summary": "・ソニー・ホンダモビリティが自動運転AIを単独開発へ。\n・ホンダと技術を共有せず、自前でE2E（エンドツーエンド）技術を構築。\n・「エンタメカー」の競争力を左右する中核技術として、開発を自社主導に転換。"
+  },
+  {
+    "title": "ChatGPT、数学・科学を学べるインタラクティブビジュアル解説　無料",
+    "link": "https://www.watch.impress.co.jp/docs/news/2092602.html",
+    "source": "Impress Watch",
+    "published": "",
+    "summary": "OpenAIは10日、ChatGPTで数学や科学を学べるインタラクティブなビジュアル解説機能を提供開始した。主に高校生や大学生を対象としており、無料を含むChatGPTの全プランのログインユーザーが利用できる。",
+    "image": "https://www.watch.impress.co.jp/img/ipw/list/2092/602/o02.jpg",
+    "fetched_at": "2026-03-12 08:18:39",
+    "ja_summary": "・OpenAIがChatGPTで数学・科学を学べる対話型ビジュアル解説機能を提供開始。\n・高校生・大学生の学習を想定し、無料版を含む全ユーザーが利用可能。\n・図解を用いたインタラクティブな学習により、複雑な概念の理解をサポート。"
+  },
+  {
+    "title": "Gemini Embedding 2 の概要",
+    "link": "https://note.com/npaka/n/n1e39b1e67561",
+    "source": "note (npaka)",
+    "published": "Wed, 11 Mar 2026 06:43:21 +0900",
+    "summary": "<p id=\"116bbc09-4b40-4bfc-9334-53e8e7a8c224\" name=\"116bbc09-4b40-4bfc-9334-53e8e7a8c224\">以下の記事が面白かったので、簡単にまとめました。</p><figure id=\"64cc17bd-bf70-4d14-addb-2898ff5e90ea\" name=\"64cc17bd-bf70-4d14-addb-2898ff5e90ea\"><blockquote><p id=\"8b470a8c-ec47-4a51-b245-3582948a46d0\" name=\"8b470a8c-ec47-4a51-b245-3582948a46d0\"><strong>・</strong><a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-embedding-2/\" rel=\"nofollow noopener\" target=\"_blank\"><strong>Gemini Embedding 2: Our first natively multimodal embedding model</strong></a></p></blockquote>\n<figcaption></figcaption></figure><br /><a href=\"https://note.com/npaka/n/n1e39b1e67561\">続きをみる</a>",
+    "image": "https://assets.st-note.com/production/uploads/images/258171703/rectangle_large_type_2_bfbf5c46387c6775c1adf4274c528668.png?width=800",
+    "fetched_at": "2026-03-12 08:18:47",
+    "ja_summary": "・Googleが初のネイティブマルチモーダル埋め込みモデル「Gemini Embedding 2」を発表。\n・テキストだけでなく、画像や動画などの情報を統合的に扱い、検索や分類の精度が大幅に向上。\n・開発者がAIアプリケーションでより高精度かつ効率的なデータ処理を行うための新技術。"
+  },
+  {
+    "title": "【書評】 最速でわかる生成AI実践ガイド",
+    "link": "https://note.com/npaka/n/n010c081e719f",
+    "source": "note (npaka)",
+    "published": "Wed, 04 Mar 2026 11:33:09 +0900",
+    "summary": "<p id=\"b1b295a4-38a9-40a5-b2f4-13569c733c96\" name=\"b1b295a4-38a9-40a5-b2f4-13569c733c96\">近年、AIの世界では「プロンプトエンジニアリング」「RAG」「AIエージェント」といった言葉を頻繁に耳にするようになりました。しかし、ニュースやSNSで断片的に知っていても、それらが実際にどのような仕組みで動いているのかを説明できる人は、まだそれほど多くありません。</p><p id=\"a49d724c-7ac6-42d2-b483-3b31e19a4bd6\" name=\"a49d724c-7ac6-42d2-b483-3b31e19a4bd6\">『<strong>最速でわかる生成AI実践ガイド</strong>』は、そうした<strong>「なんとなく知っているAI」を体系的な理解へと変えてくれる一冊</strong>になります。</p><br /><a href=\"https://note.com/npaka/n/n010c081e719f\">続きをみる</a>",
+    "image": "https://assets.st-note.com/production/uploads/images/256356817/rectangle_large_type_2_0565aace42ab5b55e2faeb3c023bce63.png?width=800",
+    "fetched_at": "2026-03-12 08:18:47",
+    "ja_summary": "・生成AIの専門用語や仕組みを、体系的に学べる実践ガイドの書評。\n・プロンプトエンジニアリングやRAGなど、断片的な知識を整理して深く理解できる。\n・AIを「なんとなく知っている」状態から、業務で活用できるレベルへ引き上げる一冊。"
+  },
+  {
+    "title": "GPT-5.3 Instant の概要",
+    "link": "https://note.com/npaka/n/n73336817814f",
+    "source": "note (npaka)",
+    "published": "Wed, 04 Mar 2026 06:06:35 +0900",
+    "summary": "<p id=\"89de300a-a323-4e42-a24c-273f817a7142\" name=\"89de300a-a323-4e42-a24c-273f817a7142\">以下の記事が面白かったので、簡単にまとめました。</p><figure id=\"9acad1e0-23f1-409d-9e13-9bf3cdf3b39c\" name=\"9acad1e0-23f1-409d-9e13-9bf3cdf3b39c\"><blockquote><p id=\"f000f8f6-7f89-4b81-8ec8-a6f1b97ca40b\" name=\"f000f8f6-7f89-4b81-8ec8-a6f1b97ca40b\"><strong>・</strong><a href=\"https://openai.com/ja-JP/index/gpt-5-3-instant/\" rel=\"nofollow noopener\" target=\"_blank\"><strong>GPT‑5.3 Instant：よりスムーズで、日常会話にもっと役立つ</strong></a></p></blockquote>\n<figcaption></figcaption></figure><br /><a href=\"https://note.com/npaka/n/n73336817814f\">続きをみる</a>",
+    "image": "https://assets.st-note.com/production/uploads/images/256315123/rectangle_large_type_2_87f9d61de13814379364ac8c9b9933da.png?width=800",
+    "fetched_at": "2026-03-12 08:18:47",
+    "ja_summary": "・OpenAIが新モデル「GPT-5.3 Instant」を発表。\n・処理速度が向上し、よりスムーズで日常会話に適した応答が可能。\n・タスクの効率化と自然なコミュニケーション能力を強化。"
+  },
+  {
+    "title": "Gemini 3.1 Flash-Lite の概要",
+    "link": "https://note.com/npaka/n/n4f761e3e435e",
+    "source": "note (npaka)",
+    "published": "Wed, 04 Mar 2026 05:50:22 +0900",
+    "summary": "<p id=\"6ea3d9fc-2d76-4e92-a705-881692caf261\" name=\"6ea3d9fc-2d76-4e92-a705-881692caf261\">以下の記事が面白かったので、簡単にまとめました。</p><figure id=\"57e10951-1193-420d-847f-1122291d775d\" name=\"57e10951-1193-420d-847f-1122291d775d\"><blockquote><p id=\"3b791d46-36bf-4f05-b2f1-80a293c77a90\" name=\"3b791d46-36bf-4f05-b2f1-80a293c77a90\"><strong>・</strong><a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-lite/\" rel=\"nofollow noopener\" target=\"_blank\"><strong>Gemini 3.1 Flash-Lite: Built for intelligence at scale</strong></a></p></blockquote>\n<figcaption></figcaption></figure><br /><a href=\"https://note.com/npaka/n/n4f761e3e435e\">続きをみる</a>",
+    "image": "https://assets.st-note.com/production/uploads/images/256313651/rectangle_large_type_2_db8693d70c27b6beaf7d21075b74c383.png?width=800",
+    "fetched_at": "2026-03-12 08:18:47",
+    "ja_summary": "Googleは、大規模なタスク処理に特化した軽量AIモデル「Gemini 3.1 Flash-Lite」を発表した。\nコスト効率と推論速度を極限まで高めており、大量のデータ処理や高頻度なAPI利用に適している。\n安価かつ高速なAI環境を構築したい企業や開発者にとって、実用性の高い新たな選択肢となる。"
+  },
+  {
+    "title": "Reactでsignalsは必要ない、Jotaiがあるから",
+    "link": "https://zenn.dev/dai_shi/articles/47c729ee33faa5",
+    "source": "Zenn Trends",
+    "published": "Wed, 11 Mar 2026 03:54:20 GMT",
+    "summary": "こんにちは、Jotai作者です。\nだいぶ前のことですが、signals について React 文脈で思うことを英語で書いた記事があります。\nhttps://blog.axlight.com/posts/why-you-dont-need-signals-in-react/\n関連して、以前こんな記事も書いています。\nhttps://zenn.dev/dai_shi/articles/01813b22907dcf\nhttps://zenn.dev/dai_shi/articles/ff75c0d8ec3415\n\n\n はじめに\nsignals という概念は以前からありますが、Web フロントエ...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--xeMrpiE7--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:React%25E3%2581%25A7signals%25E3%2581%25AF%25E5%25BF%2585%25E8%25A6%2581%25E3%2581%25AA%25E3%2581%2584%25E3%2580%2581Jotai%25E3%2581%258C%25E3%2581%2582%25E3%2582%258B%25E3%2581%258B%25E3%2582%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:daishi%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzcwZGNhM2E2Y2IuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-03-12 08:19:07",
+    "ja_summary": "・Reactにおいて、外部から持ち込まれた「signals」という概念は必ずしも必要ではない。\n・Reactには「Jotai」のような優れた状態管理ライブラリが存在し、Reactの設計思想と適合する。\n・React本来のレンダリングモデルを活かす手法の方が、エコシステムとの相性が良い。"
+  },
+  {
+    "title": "データエンジニア・LLM エンジニア採用のスキルテストをリニューアルしました",
+    "link": "https://zenn.dev/finatext/articles/skill-test-renewal-data-llm-engineer",
+    "source": "Zenn Trends",
+    "published": "Wed, 11 Mar 2026 00:00:05 GMT",
+    "summary": "こんにちは、ナウキャストでリードエンジニアをしている六車です。\nナウキャストでは、エンジニア採用の選考ステップの一つとして、書類選考を通過したエンジニア候補の方にスキルテストを受けていただいています。\nこの度、そのスキルテストをリニューアルしました。具体的には、グループ会社である Finatext が運用しているソフトウェアエンジニア共通スキルテスト（参考記事）を、ナウキャストのデータエンジニアおよびLLM エンジニアの採用にも導入することにしました。\n「データエンジニアやLLM エンジニアなのに、なぜ職種固有の問題を出さないのか？」と思われた方もいるかもしれません。この記事では、そのテ...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--UOHlhp7C--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2587%25E3%2583%25BC%25E3%2582%25BF%25E3%2582%25A8%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%258B%25E3%2582%25A2%25E3%2583%25BBLLM%2520%25E3%2582%25A8%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%258B%25E3%2582%25A2%25E6%258E%25A1%25E7%2594%25A8%25E3%2581%25AE%25E3%2582%25B9%25E3%2582%25AD%25E3%2583%25AB%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E3%2582%2592%25E3%2583%25AA%25E3%2583%258B%25E3%2583%25A5%25E3%2583%25BC%25E3%2582%25A2%25E3%2583%25AB%25E3%2581%2597%25E3%2581%25BE%25E3%2581%2597%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:musyu%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2NjOTE1NmJhMjEuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Finatext%2520Tech%2520Blog%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2ZlMTZjNDAwNTkuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-03-12 08:19:07",
+    "ja_summary": "ナウキャストは、データエンジニア・LLMエンジニア採用のスキルテストをリニューアルしました。\nグループ会社Finatextの共通スキルテストを導入し、職種固有の問題ではなく基礎的なエンジニア能力を重視します。\n選考基準の統一と効率化を図り、より本質的なエンジニア適性を見極める方針です。"
+  },
+  {
+    "title": "GitHub CopilotはCLIも便利だった：VSCodeと併用する実践メモ",
+    "link": "https://zenn.dev/suusanex/articles/8ce18cfbe114ea",
+    "source": "Zenn Trends",
+    "published": "Tue, 10 Mar 2026 10:42:26 GMT",
+    "summary": "概要\nGitHub CopilotはVSCodeのチャットで使う印象が強かったのですが、実際にCLIも試してみると、向いている作業がかなり違いました。使い分け方や、VSCodeからCLIを起動する組み合わせ方を紹介します。\n\n\n 最初に結論まとめ\n\nGitHub CopilotはIDEとCLIを使い分ける価値がありそう\nまとまった作業で長く走らせるにはCLIの方が合う\nVSCodeのGUIの中でCLI版を使うのもけっこうアリ\n\n\n GitHub CopilotはIDEだけでなくCLIも使い分けるメリットがある\nGitHub Copilot は VSCode や Visual Stud...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--8fgX89dv--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:GitHub%2520Copilot%25E3%2581%25AFCLI%25E3%2582%2582%25E4%25BE%25BF%25E5%2588%25A9%25E3%2581%25A0%25E3%2581%25A3%25E3%2581%259F%25EF%25BC%259AVSCode%25E3%2581%25A8%25E4%25BD%25B5%25E7%2594%25A8%25E3%2581%2599%25E3%2582%258B%25E5%25AE%259F%25E8%25B7%25B5%25E3%2583%25A1%25E3%2583%25A2%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:suusanex%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly96ZW5uLWRldi5naXRodWIuaW8vZGVmYXVsdC1hdmF0YXJzL2Rhcmsvcy5wbmc=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-03-12 08:19:08",
+    "ja_summary": "・GitHub CopilotはIDEとCLIを用途に応じて使い分けるのが効率的。\n・まとまった長時間の作業にはCLI版が適しており、作業効率が向上する。\n・VSCode上でCLI版を併用することで、両者のメリットを活かした開発環境が構築できる。"
+  },
+  {
+    "title": "Claude Codeを使いこなすために最低限知っておくべきこと4選！",
+    "link": "https://qiita.com/nAotO01_03/items/d8e58f7282f1c44dca14",
+    "source": "Qiita (Popular)",
+    "published": "2026-03-06T13:06:44+09:00",
+    "summary": "# 1. はじめに\n昨今、AIエージェントを活用した開発が主流になりつつあります。\nエージェントを導入することで開発スピードが飛躍的に向上し、PoCやプレ実装のハードルも大幅に下がりました。\n初心者でも手軽に実装に取り組めるようになった一方で、その機能を熟知し使いこなすことで、より迅速かつ精度の高いアウトプットが可能になります。\n\n今回は、特に注目を集める「Claude Code」を使いこなすため",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYzODQ2ODU3JTJGYzZhODExZjZkMTIyODJjM2ZiOTlhYmNiMzcxYWJjMmE1MzQwYjk4ZCUyRnhfbGFyZ2UucG5nJTNGMTc2Mzg2MzAzNz9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9MzgwYTYyNTBkYWM2YTg3NGNlOTI0ZDZlYjcyNjE2OTM%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D5d0bc1728c6bdbc0dc333ddd82807e69?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9Q2xhdWRlJTIwQ29kZSVFMyU4MiU5MiVFNCVCRCVCRiVFMyU4MSU4NCVFMyU4MSU5MyVFMyU4MSVBQSVFMyU4MSU5OSVFMyU4MSU5RiVFMyU4MiU4MSVFMyU4MSVBQiVFNiU5QyU4MCVFNCVCRCU4RSVFOSU5OSU5MCVFNyU5RiVBNSVFMyU4MSVBMyVFMyU4MSVBNiVFMyU4MSU4QSVFMyU4MSU4RiVFMyU4MSVCOSVFMyU4MSU4RCVFMyU4MSU5MyVFMyU4MSVBODQlRTklODElQjglRUYlQkMlODEmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz03Njk2YmI5YTMxMDdlMzM1MWU1NDhlMzI0NzJkMjY3Nw&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBuQW90TzAxXzAzJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9NGRlMzBhMTkyY2RkMDg5ZjRmMTk1ZTZiMTk4YjJhOWY&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=f376b3ebbdbd31de502d1bb9423bb700",
+    "fetched_at": "2026-03-12 08:19:11",
+    "ja_summary": "・AI開発を加速させる「Claude Code」を使いこなすための重要ポイントを解説。\n・機能を深く理解することで、実装のスピードと精度を飛躍的に向上させる。\n・初心者から開発者まで、AIエージェントを活用した効率的な開発手法を習得できる。"
+  },
+  {
     "title": "「世界をひっくり返す」事業をここから　十六FGが「STATION Ai」で挑む起業家との新境地",
     "link": "https://www.itmedia.co.jp/business/articles/2603/12/news009.html",
     "source": "ITmedia ビジネス",
@@ -878,125 +998,5 @@
     "image": "https://res.cloudinary.com/zenn/image/upload/s--ukcT64aP--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%25902026%252F3%252F9%25E6%259C%2580%25E6%2596%25B0%25E3%2580%2591Claude%2520Code%25E6%2596%25B0%25E6%25A9%259F%25E8%2583%25BD%25E3%2580%258ECode%2520Review%25E3%2580%258F%25E3%2580%2581%25E6%2597%25A9%25E9%2580%259F%25E4%25BD%25BF%25E3%2581%25A3%25E3%2581%259F%25E3%2582%25892%25E3%2581%25A4%25E3%2581%25AEPR%25E3%2581%25A7%2524100%25E8%25B6%2585...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:ryu%2520fukuda%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2EwYjI3NWVjYTkuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2582%25AB%25E3%2583%25B3%25E3%2583%25AA%25E3%2583%25BC%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzdmNWE3ZGIyYWIuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
     "fetched_at": "2026-03-11 20:36:45",
     "ja_summary": "・Claude Codeの新機能「Code Review」は、複数エージェントが連携しバグを自動検証する強力な機能。\n・一方でコストが高く、短時間で100ドル超の利用料がかかるケースもあるため注意が必要。\n・実用にあたっては、コストを抑える工夫や運用の見極めが不可欠。"
-  },
-  {
-    "title": "Claude Code の PR Review は「念の為」：念の為になるレビューと任せられるレビューの違いについて",
-    "link": "https://zenn.dev/nrs/articles/bf0e68a1ab75bd",
-    "source": "Zenn Trends",
-    "published": "Tue, 10 Mar 2026 10:54:38 GMT",
-    "summary": "はじめに\nClaude Code PR Review がリリースされましたね。\nhttps://x.com/claudeai/status/2031088171262554195\nhttps://code.claude.com/docs/en/code-review\nドキュメントを読んでみると、カスタマイズの手段として CLAUDE.md と REVIEW.md が用意されています。\nレビュー時に考慮してほしい観点をこれらのファイルに記述できる仕組みです。\nプロジェクト固有のルールやコーディング規約を伝えておけば、レビュー時にそれを考慮してくれます。\nエージェントのカスタマイズは限定...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--qK0FJW9K--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%2520%25E3%2581%25AE%2520PR%2520Review%2520%25E3%2581%25AF%25E3%2580%258C%25E5%25BF%25B5%25E3%2581%25AE%25E7%2582%25BA%25E3%2580%258D%25EF%25BC%259A%25E5%25BF%25B5%25E3%2581%25AE%25E7%2582%25BA%25E3%2581%25AB%25E3%2581%25AA%25E3%2582%258B%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25E3%2581%25A8%25E4%25BB%25BB%25E3%2581%259B%25E3%2582%2589%25E3%2582%258C%25E3%2582%258B%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25E3%2581%25AE%25E9%2581%2595%25E3%2581%2584%25E3%2581%25AB%25E3%2581%25A4%25E3%2581%2584%25E3%2581%25A6%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:nrs%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2UzODcxZGFkYjEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-    "fetched_at": "2026-03-11 20:36:45",
-    "ja_summary": "・Claude CodeのPRレビュー機能では、CLAUDE.md等で規約や観点を指定可能。\n・AIによるレビューはあくまで補助（念の為）であり、最終確認は人間が行う必要がある。\n・AIへの指示精度を高める仕組みはあるが、現状では任せきりにせず使い分けが肝要。"
-  },
-  {
-    "title": "Opus4.6でdraw.io図を生成したらもはやLLMの前提が崩れてた件",
-    "link": "https://zenn.dev/acntechjp/articles/4ab4491afd5a8b",
-    "source": "Zenn Trends",
-    "published": "Tue, 10 Mar 2026 09:18:14 GMT",
-    "summary": "!\nこの記事ではdraw.ioを使ってClaude Codeで作図する実践パートがありますが、MCPサーバーもSkillsも使っておりません。すべてOpus4.6の性能だけで作図してます。\n\n\n はじめに\n「LLMは空間的な推論が苦手」「テキストベースで座標を扱うのだから、複雑な図はぐちゃぐちゃになるはず」──これは自分がずっと持っていた前提でした。おそらく同じように考えている方も多いのではないでしょうか。\n実際、以前のモデルで試した限りでは、この前提はおおむね正しかったと思います。構成が複雑になれば矢印が交差して読みにくい図になり、結局は人力で修正することになる。グラフ理論的に考えても...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--xcRFihrT--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Opus4.6%25E3%2581%25A7draw.io%25E5%259B%25B3%25E3%2582%2592%25E7%2594%259F%25E6%2588%2590%25E3%2581%2597%25E3%2581%259F%25E3%2582%2589%25E3%2582%2582%25E3%2581%25AF%25E3%2582%2584LLM%25E3%2581%25AE%25E5%2589%258D%25E6%258F%2590%25E3%2581%258C%25E5%25B4%25A9%25E3%2582%258C%25E3%2581%25A6%25E3%2581%259F%25E4%25BB%25B6%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:k.abe%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2U2ZDA4MDY5ODcuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Accenture%2520Japan%2520%2528%25E6%259C%2589%25E5%25BF%2597%2529%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jS2xBSHVmRjZ5dUJqM0VyNXZkTnhPeTk3MXp1bnRJeHRRVXp4Si1RYjdMWUduOU1nPXM5Ni1j%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-    "fetched_at": "2026-03-11 20:36:45",
-    "ja_summary": "・Claude 3.5 Opusは、外部ツールを用いず単体で正確なdraw.io図を生成可能。\n・「LLMは空間推論が苦手」という従来の前提が覆る高い構成能力を実証した。\n・複雑な図形も自動で適切に配置され、人力修正なしでの実用レベルに達している。"
-  },
-  {
-    "title": "NTT島田社長がMWCで描いた次の主役　ドコモの「赤」からグループの「青」へ (通信のミライ)",
-    "link": "https://business.nikkei.com/atcl/gen/19/00550/030900113/",
-    "source": "日経ビジネス 最新",
-    "published": "",
-    "summary": "NTTはMWC26へ7年ぶりにグループ共同で出展し、光電融合デバイスとAIエージェントを前面に打ち出した。島田社長は27年度財務目標の達成の困難を認めつつドコモ改革を宣言。NTTデータグループはAI特化の新会社設立で再成長のけん引役を担う。",
-    "image": "https://business.nikkei.com/atcl/gen/19/00550/030900113/fb.jpg",
-    "fetched_at": "2026-03-11 19:59:29",
-    "ja_summary": "・NTTがMWCに7年ぶり出展し、次世代技術「光電融合」と「AI」による事業転換を鮮明化。\n・島田社長はドコモの抜本的改革を表明し、財務目標達成へ向けた立て直しを急ぐ。\n・NTTデータがAI特化の新会社を設立し、グループ全体の再成長をリードする。"
-  },
-  {
-    "title": "セールスフォースに聞く「SaaSの死」時代の戦略　「我々は代替できない」 (AIディスラプション)",
-    "link": "https://business.nikkei.com/atcl/gen/19/00845/030500004/",
-    "source": "日経ビジネス 最新",
-    "published": "",
-    "summary": "｢SaaSの死｣　米セールスフォースの株価は年初来で最大28％も下落した。それでも、日本法人トップの小出伸一氏は｢アンソロピックなどLLMは競合ではない｣と主張する。",
-    "image": "https://business.nikkei.com/atcl/gen/19/00845/030500004/fb.jpg",
-    "fetched_at": "2026-03-11 19:59:30",
-    "ja_summary": "・SaaS市場の停滞が懸念される中、セールスフォースは株価下落に直面。\n・日本法人トップは、生成AIは競合ではなく補完関係にあると強調。\n・AI時代においても、同社のプラットフォームは代替不可能な存在であると主張。"
-  },
-  {
-    "title": "囲碁AI「AlphaGo」が世界最強を破り10年　グーグルが描くAIの未来",
-    "link": "https://www.watch.impress.co.jp/docs/news/2092543.html",
-    "source": "Impress Watch",
-    "published": "",
-    "summary": "Google DeepMindは、AIシステム「AlphaGo」が囲碁の世界チャンピオンを破ってから10年を迎え、その後の技術展開と研究成果、今後のAI開発の方向性を紹介した。",
-    "image": "https://www.watch.impress.co.jp/img/ipw/list/2092/543/01.jpg",
-    "fetched_at": "2026-03-11 19:05:52",
-    "ja_summary": "・囲碁AI「AlphaGo」の勝利から10年を迎え、Google DeepMindがこれまでの技術進化を振り返った。\n・AIは飛躍的な発展を遂げ、科学的発見や複雑な問題解決など応用範囲が大幅に拡大している。\n・今後もAI開発を推進し、人類の課題解決に貢献する未来を展望している。"
-  },
-  {
-    "title": "GPT-5.4 の概要",
-    "link": "https://note.com/npaka/n/nb8d78062e804",
-    "source": "note (npaka)",
-    "published": "Fri, 06 Mar 2026 06:38:29 +0900",
-    "summary": "<p id=\"446f25fd-ed1e-4d5d-9186-4d72087028d3\" name=\"446f25fd-ed1e-4d5d-9186-4d72087028d3\">以下の記事が面白かったので、簡単にまとめました</p><figure id=\"a2c20a1b-be7c-49fb-9678-da2ee76cf942\" name=\"a2c20a1b-be7c-49fb-9678-da2ee76cf942\"><blockquote><p id=\"985a9c79-bdd5-40b7-957f-05b61360dfc7\" name=\"985a9c79-bdd5-40b7-957f-05b61360dfc7\"><strong>・</strong><a href=\"https://openai.com/index/introducing-gpt-5-4/\" rel=\"nofollow noopener\" target=\"_blank\"><strong>Introducing GPT‑5.4</strong></a></p></blockquote>\n<figcaption></figcaption></figure><br /><a href=\"https://note.com/npaka/n/nb8d78062e804\">続きをみる</a>",
-    "image": "https://assets.st-note.com/production/uploads/images/256839826/rectangle_large_type_2_b38ecea6140f394dea22e16944a7dc92.png?width=800",
-    "fetched_at": "2026-03-11 19:06:05",
-    "ja_summary": "OpenAIが最新モデル「GPT-5.4」を発表しました。\n従来モデルから推論能力や処理速度が大幅に向上しています。\n詳細は公式のリリース情報および技術解説から確認可能です。"
-  },
-  {
-    "title": "「OpenClaw」を代替する「NanoClaw」--簡潔で安全なAIエージェントの選択肢",
-    "link": "https://japan.zdnet.com/article/35244634/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "「OpenClaw」代替ツールとして軽量な「NanoClaw」の開発者は、安全なエージェントAIを実現する鍵は「隔離」にあり、それこそがNanoClawの真骨頂だと説明する。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35244634/\"><img src=\"https://japan.zdnet.com/storage/2026/03/05/6b2faa2ca22a35d2ce8f5055c5b9789f/t/184/138/d/nanoclaw-use_l.jpg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2026/03/05/6b2faa2ca22a35d2ce8f5055c5b9789f/t/184/138/d/nanoclaw-use_l.jpg",
-    "fetched_at": "2026-03-11 19:06:09",
-    "ja_summary": "・AIエージェント「OpenClaw」の代替として、軽量で安全な「NanoClaw」が登場。\n・開発者は安全性の鍵を「隔離」にあるとし、環境分離による保護を重視。\n・簡潔さとセキュリティを両立させた、新たなAI活用の選択肢を提供。"
-  },
-  {
-    "title": "OpenAI to acquire Promptfoo",
-    "link": "https://openai.com/index/openai-to-acquire-promptfoo",
-    "source": "OpenAI",
-    "published": "Mon, 09 Mar 2026 10:00:00 GMT",
-    "summary": "OpenAI is acquiring Promptfoo, an AI security platform that helps enterprises identify and remediate vulnerabilities in AI systems during development.",
-    "image": "https://openai.com/favicon.ico",
-    "fetched_at": "2026-03-11 19:06:16",
-    "ja_summary": "・OpenAIがAI開発の脆弱性を診断するセキュリティ企業「Promptfoo」を買収。\n・企業向けAIシステムの安全性向上とリスク管理の強化を図る狙い。\n・開発段階からAIの脆弱性を特定・修正できる体制を整える。"
-  },
-  {
-    "title": "アリババクラウドが日本の人員を2.5倍に、国内にデータセンターも新設",
-    "link": "https://xtech.nikkei.com/atcl/nxt/news/24/03131/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "中国アリババ集団傘下のAlibaba Cloud（アリババクラウド）は2026年3月11日、2029年までにアリババクラウド・ジャパンサービスの人員を2.5倍、パートナー企業を100社にそれぞれ増やす方針を明らかにした。生成AI（人工知能）やマルチモーダルAIの費用対効果の高さなどを訴求し、日本のエンタープライズ市場への展開を加速する。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/news/24/03131/Tomp.jpg?20220512",
-    "fetched_at": "2026-03-11 18:26:01",
-    "ja_summary": "・アリババクラウドが日本での人員を2.5倍、パートナー企業を100社へ拡大。\n・国内にデータセンターを新設し、日本市場での事業基盤を強化。\n・生成AIなどの高コスパなサービスを武器に、国内大企業向けの展開を加速する。"
-  },
-  {
-    "title": "OpenAIのロボット部門の主要スタッフが、ペンタゴンとの契約後に辞任「これは原則の問題だった」",
-    "link": "https://www.businessinsider.jp/article/2603caitlin-kalinowski-quits-openai-robotics-head-pentagon-deal-sam-altman/",
-    "source": "Business Insider Japan",
-    "published": "Tue, 10 Mar 2026 22:15:00 GMT",
-    "summary": "OpenAIの技術部門スタッフ、ケイトリン・カリノウスキー氏は3月7日に辞任を発表しました。Xで同社と国防総省の契約を批判し、AI監視や致死的自律システムへの懸念を示しました。",
-    "image": "https://media.loom-app.com/loom/2026/03/10/8ab43350-3ac2-4a0b-a046-1f368a61e372/original.jpg?w=1200&amp;h=630",
-    "fetched_at": "2026-03-11 18:26:22",
-    "ja_summary": "・OpenAIの元技術スタッフが、国防総省との契約に抗議し辞任。\n・AIの兵器利用や監視システムへの転用に強い懸念を表明。\n・企業の軍事協力に対する社内の倫理的対立が浮き彫りとなった。"
-  },
-  {
-    "title": "Barclays、AI事業の見通し改善を受けてOracle目標株価を240ドルに引き上げ",
-    "link": "https://jp.investing.com/news/analyst-ratings/article-93CH-1454165",
-    "source": "Investing.com ニュース",
-    "published": "2026-03-11 09:14:02",
-    "summary": "",
-    "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-    "fetched_at": "2026-03-11 18:26:31",
-    "ja_summary": "・BarclaysがAI事業の成長を評価し、Oracleの目標株価を240ドルへ引き上げ。\n・AI需要の拡大が同社の収益見通しを大きく押し上げている。\n・市場の期待が高まる中、強気な見通しが示された形。"
-  },
-  {
-    "title": "LLVMに対する32ビット定数除算の改善",
-    "link": "https://zenn.dev/herumi/articles/const-div-revised5",
-    "source": "Zenn Trends",
-    "published": "Tue, 10 Mar 2026 02:00:38 GMT",
-    "summary": "初めに\nLLVMはコンパイラ基盤で、抽象的なCPU命令を表す中間表現LLVM-IRに対して最適化を行ったり、ターゲットCPU用のアセンブリ言語コードを生成したりする機能を持ちます。\n今回、符号無し32ビット変数xに対するx/7のような定数除算についてLLVMの最適化を改善するプルリクエスト[SelectionDAG] Optimize 32-bit udiv with 33-bit magic constants on 64-bit targetsがllvm:mainにマージされました。LLVMはC/C++/Rust/Swiftなど様々な言語のコンパイラ実装に利用されているため、それ...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--rCww5UkZ--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:LLVM%25E3%2581%25AB%25E5%25AF%25BE%25E3%2581%2599%25E3%2582%258B32%25E3%2583%2593%25E3%2583%2583%25E3%2583%2588%25E5%25AE%259A%25E6%2595%25B0%25E9%2599%25A4%25E7%25AE%2597%25E3%2581%25AE%25E6%2594%25B9%25E5%2596%2584%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:herumi%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2E4ZWU3NTI0MjAuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-    "fetched_at": "2026-03-11 18:26:52",
-    "ja_summary": "・コンパイラ基盤「LLVM」において、32ビットの定数除算を高速化する最適化が実装されました。\n・64ビット環境で33ビットの魔法の定数を用いる手法により、演算効率が改善されています。\n・LLVMを採用するC++やRust等のプログラミング言語全体の実行速度向上に寄与します。"
   }
 ]
