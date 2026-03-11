@@ -1,5 +1,25 @@
 [
   {
+    "title": "NTT島田社長がMWCで描いた次の主役　ドコモの「赤」からグループの「青」へ (通信のミライ)",
+    "link": "https://business.nikkei.com/atcl/gen/19/00550/030900113/",
+    "source": "日経ビジネス 最新",
+    "published": "",
+    "summary": "NTTはMWC26へ7年ぶりにグループ共同で出展し、光電融合デバイスとAIエージェントを前面に打ち出した。島田社長は27年度財務目標の達成の困難を認めつつドコモ改革を宣言。NTTデータグループはAI特化の新会社設立で再成長のけん引役を担う。",
+    "image": "https://business.nikkei.com/atcl/gen/19/00550/030900113/fb.jpg",
+    "fetched_at": "2026-03-11 19:59:29",
+    "ja_summary": "・NTTがMWCに7年ぶり出展し、次世代技術「光電融合」と「AI」による事業転換を鮮明化。\n・島田社長はドコモの抜本的改革を表明し、財務目標達成へ向けた立て直しを急ぐ。\n・NTTデータがAI特化の新会社を設立し、グループ全体の再成長をリードする。"
+  },
+  {
+    "title": "セールスフォースに聞く「SaaSの死」時代の戦略　「我々は代替できない」 (AIディスラプション)",
+    "link": "https://business.nikkei.com/atcl/gen/19/00845/030500004/",
+    "source": "日経ビジネス 最新",
+    "published": "",
+    "summary": "｢SaaSの死｣　米セールスフォースの株価は年初来で最大28％も下落した。それでも、日本法人トップの小出伸一氏は｢アンソロピックなどLLMは競合ではない｣と主張する。",
+    "image": "https://business.nikkei.com/atcl/gen/19/00845/030500004/fb.jpg",
+    "fetched_at": "2026-03-11 19:59:30",
+    "ja_summary": "・SaaS市場の停滞が懸念される中、セールスフォースは株価下落に直面。\n・日本法人トップは、生成AIは競合ではなく補完関係にあると強調。\n・AI時代においても、同社のプラットフォームは代替不可能な存在であると主張。"
+  },
+  {
     "title": "囲碁AI「AlphaGo」が世界最強を破り10年　グーグルが描くAIの未来",
     "link": "https://www.watch.impress.co.jp/docs/news/2092543.html",
     "source": "Impress Watch",
@@ -891,23 +911,5 @@
     "summary": "Sydney will become Anthropic’s fourth office in Asia-Pacific",
     "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Globe&amp;backgroundColor=sky",
     "ja_summary": "・AI企業Anthropicがシドニーに新オフィスを開設\n・アジア太平洋地域では4番目の拠点となる\n・同地域の事業拡大に向けた動きを強化"
-  },
-  {
-    "title": "散らばった E2E テストのガイドラインをリポジトリに一本化する",
-    "link": "https://zenn.dev/knowledgework/articles/0199eb40d47bc1",
-    "source": "Zenn Trends",
-    "published": "Tue, 10 Mar 2026 03:00:09 GMT",
-    "summary": "はじめに\nこの記事は KNOWLEDGE WORK Blog Sprint 7 本目の記事になります。\nナレッジワークで新卒フロントエンドエンジニアをしている tosaken です。普段は新規プロダクト開発グループでフロントエンドの実装を担当しつつ、E2E テストの基盤整備に取り組んでいます。\nAI Agent を活用して E2Eテストを実装する際、ガイドラインは一箇所にまとまっている状態が理想的です。しかし弊社では、ガイドラインが複数のドキュメントに分散していたり、更新が反映されていない場合がありました。そのため、実装者自身もどの情報を参照すればよいか判断しづらく、AI Agent...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--wpIx2jXU--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E6%2595%25A3%25E3%2582%2589%25E3%2581%25B0%25E3%2581%25A3%25E3%2581%259F%2520E2E%2520%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E3%2581%25AE%25E3%2582%25AC%25E3%2582%25A4%25E3%2583%2589%25E3%2583%25A9%25E3%2582%25A4%25E3%2583%25B3%25E3%2582%2592%25E3%2583%25AA%25E3%2583%259D%25E3%2582%25B8%25E3%2583%2588%25E3%2583%25AA%25E3%2581%25AB%25E4%25B8%2580%25E6%259C%25AC%25E5%258C%2596%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E5%259C%259F%25E4%25BD%2590%25E7%258A%25AC%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2E4MWZhOWNhZmYuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E6%25A0%25AA%25E5%25BC%258F%25E4%25BC%259A%25E7%25A4%25BE%25E3%2583%258A%25E3%2583%25AC%25E3%2583%2583%25E3%2582%25B8%25E3%2583%25AF%25E3%2583%25BC%25E3%2582%25AF%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzMxYmYyOGM0MmUuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-    "ja_summary": "・E2Eテストのガイドラインが複数箇所に分散・老朽化しており、開発の妨げになっていた。\n・AI Agentを活用しやすくするため、全ガイドラインをリポジトリ内に一本化した。\n・情報の集約により、参照先を明確化し、テスト実装の効率と精度を向上させた。"
-  },
-  {
-    "title": "「AIの幻覚」が新技術に　11社を輩出したSTATION Aiの起業家育成術",
-    "link": "https://www.itmedia.co.jp/business/articles/2603/11/news010.html",
-    "source": "ITmedia ビジネス",
-    "published": "Wed, 11 Mar 2026 07:00:00 +0900",
-    "summary": "STATION Aiが運営する起業家発掘・育成事業「ACTIVATION Lab」運営責任者を務めるコミュニティマネージャーの唐木遥香氏に、起業家育成の取り組みについて聞いた。",
-    "image": "https://image.itmedia.co.jp/business/articles/2603/11/cover_news010.jpg",
-    "ja_summary": "・STATION Aiの起業家育成プログラム「ACTIVATION Lab」の取り組みと狙いを解説。\n・AIの誤情報を「幻覚」ではなく新たな可能性として捉える独自の育成術を導入。\n・コミュニティマネージャー唐木遥香氏が、起業家支援の現場と成長の秘訣を語る。"
   }
 ]
