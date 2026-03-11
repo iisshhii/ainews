@@ -1,5 +1,113 @@
 [
   {
+    "title": "OpenClawに垣間見えるAIエージェントの未来 課題は信頼性 (世界鳥瞰)",
+    "link": "https://business.nikkei.com/atcl/NBD/19/world/00782/",
+    "source": "日経ビジネス 最新",
+    "published": "",
+    "summary": "パーソナルエージェントの先駆けが登場した。個人データへのアクセス権を持つなど課題は信頼性。現状では欠陥が大きく、将来の形はまだ見えない。",
+    "image": "https://business.nikkei.com/atcl/NBD/19/world/00782/fb.jpg",
+    "ja_summary": "・パーソナルAIエージェント「OpenClaw」が登場したが、現状は不完全。\n・個人データへのアクセス権など、セキュリティと信頼性の確保が最大の課題。\n・利便性は高いものの、実用化に向けた将来像はまだ不透明。"
+  },
+  {
+    "title": "タピール・ホールディングスがアフリカに焦点を当ててAIMで取引開始",
+    "link": "https://jp.investing.com/news/company-news/article-93CH-1454082",
+    "source": "Investing.com ニュース",
+    "published": "2026-03-11 07:32:32",
+    "summary": "",
+    "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+    "ja_summary": "タピール・ホールディングスがロンドン証券取引所のAIM市場に上場。\nアフリカ市場での事業展開に特化し、今後の成長を目指す。\n投資家は同社の対アフリカ戦略と市場での動向に注目。"
+  },
+  {
+    "title": "ガバメントAIで試用する国内大規模言語モデル（LLM）の公募結果",
+    "link": "https://www.digital.go.jp/news/10d55c63-b3e1-42b9-9cc5-93a06943ae0e",
+    "source": "デジタル庁",
+    "published": "Fri, 06 Mar 2026 13:00:08 +0900",
+    "summary": "",
+    "image": "https://www.digital.go.jp/themes/custom/gov_theme_da_2023/assets/images/ogp.png",
+    "ja_summary": "・政府が業務効率化に向けたAI活用のため、試用する国内LLMの公募結果を公表。\n・選定されたモデルは、行政事務での回答生成や要約などの実証実験に活用される。\n・日本発のAI技術を政府主導で導入し、行政のデジタル化とセキュリティ向上を推進する。"
+  },
+  {
+    "title": "How Descript enables multilingual video dubbing at scale",
+    "link": "https://openai.com/index/descript",
+    "source": "OpenAI",
+    "published": "Fri, 06 Mar 2026 10:00:00 GMT",
+    "summary": "Descript uses OpenAI models to scale multilingual video dubbing, optimizing translations for both meaning and timing so dubbed speech sounds natural across languages.",
+    "image": "https://openai.com/favicon.ico",
+    "ja_summary": "・DescriptがOpenAIのモデルを活用し、多言語動画吹き替えを自動化。\n・意味とタイミングを最適化し、自然で違和感のない音声を実現。\n・大規模な翻訳・吹き替え制作を効率化する技術を提供。"
+  },
+  {
+    "title": "Codex Security: now in research preview",
+    "link": "https://openai.com/index/codex-security-now-in-research-preview",
+    "source": "OpenAI",
+    "published": "Fri, 06 Mar 2026 10:00:00 GMT",
+    "summary": "Codex Security is an AI application security agent that analyzes project context to detect, validate, and patch complex vulnerabilities with higher confidence and less noise.",
+    "image": "https://openai.com/favicon.ico",
+    "ja_summary": "・AIがプロジェクトの文脈を解析し、複雑な脆弱性を検知・検証・修正するセキュリティツール「Codex Security」が発表されました。\n・精度の高い検知と誤検知（ノイズ）の低減を両立し、開発現場のセキュリティ対応を効率化します。\n・現在は研究プレビュー版として公開されています。"
+  },
+  {
+    "title": "Anthropic acquires Vercept to advance Claude's computer use capabilities",
+    "link": "https://www.anthropic.com/news/acquires-vercept",
+    "source": "Anthropic (News)",
+    "published": "Wed, 25 Feb 2026 00:00:00 +0000",
+    "summary": "Anthropic acquires Vercept to advance Claude's computer use capabilities",
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Node%20Cursor&amp;backgroundColor=coral",
+    "ja_summary": "・AnthropicがAIモデル「Claude」のPC操作能力強化のため、Verceptを買収。\n・コンピューターを直接操作するAI機能の開発を加速させる狙い。\n・人間に代わって複雑なPC作業を自動実行する技術の向上が期待される。"
+  },
+  {
+    "title": "Anthropic’s Responsible Scaling Policy: Version 3.0",
+    "link": "https://www.anthropic.com/news/responsible-scaling-policy-v3",
+    "source": "Anthropic (News)",
+    "published": "Tue, 24 Feb 2026 00:00:00 +0000",
+    "summary": "Anthropic’s Responsible Scaling Policy: Version 3.0",
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Quill&amp;backgroundColor=olive",
+    "ja_summary": "・Anthropic社がAI開発の安全基準「Responsible Scaling Policy」の最新版（3.0）を発表。\n・AIの能力向上に伴うリスクを段階的に管理し、安全性確保のための具体的な運用ルールを強化。\n・高度なAIモデルの開発・展開における透明性とガバナンス体制をさらに拡充。"
+  },
+  {
+    "title": "Making frontier cybersecurity capabilities available to defenders",
+    "link": "https://www.anthropic.com/news/claude-code-security",
+    "source": "Anthropic (News)",
+    "published": "Fri, 20 Feb 2026 00:00:00 +0000",
+    "summary": "Making frontier cybersecurity capabilities available to defenders",
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object-LaptopSecure&amp;backgroundColor=clay",
+    "ja_summary": "・最先端のサイバーセキュリティ機能を防御側に開放\n・高度化する脅威に対抗するための防衛力を強化\n・サイバー攻撃への耐性と対応能力を向上させる取り組み"
+  },
+  {
+    "title": "Anthropic and Infosys collaborate to build AI agents for telecommunications and other regulated industries",
+    "link": "https://www.anthropic.com/news/anthropic-infosys",
+    "source": "Anthropic (News)",
+    "published": "Tue, 17 Feb 2026 00:00:00 +0000",
+    "summary": "Anthropic and Infosys collaborate to build AI agents for telecommunications and other regulated industries",
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20NodePair&amp;backgroundColor=sky",
+    "ja_summary": "・AnthropicとInfosysが提携し、通信や金融など規制の厳しい業界向けAIエージェントを共同開発。\n・AnthropicのAIモデル「Claude」を活用し、安全性と信頼性を担保した業務効率化ソリューションを提供。\n・高度なガバナンスが求められる領域でのAI活用とビジネス変革を推進する。"
+  },
+  {
+    "title": "20260311 ビジネスSWG活動報告（デジタルアイデンティティ人材育成推進WG Ph2 活動報告会）",
+    "link": "https://speakerdeck.com/oidfj/20260311-eduwg-biz-slides",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-03-11T03:37:38-04:00",
+    "summary": "2026/03/11 開催\nデジタルアイデンティティ人材育成推進WGフェーズ２：活動報告会  発表資料\n\nビジネスSWG活動報告\n・Digital Identity のプロフェッショナル育成\n・フィッシング耐性のある認証のベストプラクティス\n・日本におけるデジタルIDウォレットの状況\n・Age Assuranceの動向について\n・死後のデジタル遺産管理\n・AIエージェントにまつわる認証認可について\n・デジタルアイデンティティのライフサイクル\n\nOpenID ファウンデーション・ジャパン\nデジタルアイデンティティ人材育成推進ワーキンググループ\nビジネスサブワーキンググループ",
+    "image": "https://files.speakerdeck.com/presentations/2bac143c754144919f2fe15d1d0eaed4/preview_slide_0.jpg?38696834",
+    "ja_summary": "・デジタルアイデンティティ専門人材の育成と、フィッシング耐性のある認証やIDウォレットの実装戦略を策定。\n・年齢確認（Age Assurance）、デジタル遺産管理、AIエージェントの認証認可といった先端課題を整理。\n・デジタルアイデンティティのライフサイクル全体を網羅した、最新のベストプラクティスと国内動向を報告。"
+  },
+  {
+    "title": "雑に理解する生成系LLM",
+    "link": "https://speakerdeck.com/masakazu/za-nili-jie-surusheng-cheng-xi-llm",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-03-10T01:13:47-04:00",
+    "summary": "ENOG89 Meeting で発表した資料です。\nなんとなくどんな感じで動いているかと学習って何やってんのかにフォーカスしていて、\n埋め込みや自己注意や MoE などの LLM の重要技術には全くふれてません。時間もなかったし。\nなんで生成系 LLM が最近こんなに頭が良くなってるのかはなんとなくわかるようになるかも？",
+    "image": "https://files.speakerdeck.com/presentations/6ee952715a5d4ef1b3545e5592d841fa/preview_slide_0.jpg?38681840",
+    "ja_summary": "・生成系LLMの仕組みや学習プロセスを、専門用語を避けて直感的に解説した資料。\n・埋め込みや注意機構などの技術的詳細を省き、本質的な動作原理にフォーカス。\n・なぜ近年のLLMが急速に高性能化しているのかを、短時間で概観できる内容。"
+  },
+  {
+    "title": "複数クラスタ運用と検索の高度化：ビズリーチにおけるElastic活用事例 / ElasticON Tokyo2026",
+    "link": "https://speakerdeck.com/visional_engineering_and_design/elasticon-tokyo2026",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-03-09T22:19:21-04:00",
+    "summary": "2026年3月10日に開催された「Elastic{ON} Tokyo」の登壇資料です。\nhttps://www.elastic.co/events/elasticon/tokyo\n\n▼関連資料\nビズリーチにおける検索・推薦の取り組み\nhttps://speakerdeck.com/visional_engineering_and_design/deim2026\n\n1人1アプリから標準化へ：Vertex AIを活用したMLOps推進\nhttps://speakerdeck.com/visional_engineering_and_design/shibuya-ai-4\n\nビズリーチの 「企業向けレコメンド」機能について\nhttps://speakerdeck.com/visional_engineering_and_design/shibuya-ai-3\n\nHR領域の「言葉の壁」を越える。HRドメイン特化SPLADEモデル構築パイプラインの全貌\nhttps://engineering.visional.inc/blog/728/hr-sparse-model-training-pipeline/\n\nTwo-Tower モデルで実現する 検索リランキング\nhttps://speakerdeck.com/visional_engineering_and_design/shibuya-ai-2\n\nビズリーチ求職者検索におけるPLMとLLMの活用\nhttps://speakerdeck.com/visional_engineering_and_design/search-engineering-meet-up-2-1\n\n-----\nVisionalのエンジニアリングに関する最新情報はX、ブログで発信しています！📣\n\n▼Visional Engineering Blog\nhttps://engineering.visional.inc/blog/\n\n▼VISIONAL ENGINEERING / X\nhttps://twitter.com/VISIONAL_ENG\n\n▼ビズリーチAI 特設サイト\nhttps://www.bizreach.co.jp/ai",
+    "image": "https://files.speakerdeck.com/presentations/f98e80405f2f4806ab127646ccedf12f/preview_slide_0.jpg?38680646",
+    "ja_summary": "・ビズリーチがElasticを活用し、検索システムの高度化と複数クラスタ運用の最適化を実現。\n・検索・推薦精度向上のため、LLMやTwo-Towerモデルなど先端AI技術を積極的に導入。\n・MLOpsの標準化と専用モデル開発を通じ、HR領域の複雑なマッチング課題を解決。"
+  },
+  {
     "title": "「上層部は昭和で停止」、フィジカルAIは現場の悲痛な叫びに応えるか",
     "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00138/030901976/",
     "source": "日経クロステック 総合",
@@ -790,113 +898,5 @@
     "summary": "南アフリカの新興企業AI DiagnosticsはMWCで新たな医療用デバイスを展示した。人の呼吸音を聞き取って結核のスクリーニング（検査）をするワイヤレス聴診器だ。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35244778/\"><img src=\"https://japan.cnet.com/storage/2026/03/09/3e100957e6d957b396ad63f2d6724f85/t/184/138/d/ai-diagnostics-tb-monitor_1280x960.jpg\" /></a>",
     "image": "https://japan.cnet.com/storage/2026/03/09/3e100957e6d957b396ad63f2d6724f85/t/184/138/d/ai-diagnostics-tb-monitor_1280x960.jpg",
     "ja_summary": "・南アフリカのAI Diagnostics社が、呼吸音から結核を検知するワイヤレス聴診器を発表。\n・AIを活用して効率的なスクリーニングを可能にする新しい医療デバイス。\n・MWC（モバイル世界会議）にて展示され、医療現場の診断支援ツールとして注目される。"
-  },
-  {
-    "title": "AI時代の「若手エンジニア」が生きる道。5年前から激変、バイブコーディング時代のリスクとチャンス",
-    "link": "https://www.businessinsider.jp/article/2603-entry-level-engineer-changes-career-development-ai/",
-    "source": "Business Insider Japan",
-    "published": "Tue, 10 Mar 2026 21:40:00 GMT",
-    "summary": "AIはジュニアエンジニアの仕事を大きく変えました。これは良い面と悪い面があるかもしれません。彼らが前進し続ける方法を紹介します。",
-    "image": "https://media.loom-app.com/loom/2026/03/06/67996e22-4288-4127-91d4-0ce3d099b78d/original.jpg?w=1200&amp;h=630",
-    "ja_summary": "・AIの台頭で若手エンジニアの業務は激変し、スキル習得の難易度や役割が変化した。\n・単なるコード記述から、AIを使いこなして設計や論理的思考を行う能力が不可欠。\n・技術の変化をリスクと捉えず、AIを武器にして市場価値を高める適応力が生き残りの鍵。"
-  },
-  {
-    "title": "日立、AIエージェント標準化組織に加入--日本企業で初、アクセス権限管理の標準化を支援",
-    "link": "https://japan.zdnet.com/article/35244828/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "日立製作所は、The Linux Foundation傘下でAIエージェントの標準化を進める組織である「Agentic AI Foundation（AAIF）」にゴールドメンバーとして加入した。日本企業では初という。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35244828/\"><img src=\"https://japan.zdnet.com/storage/2026/03/10/eb3b1dd2e436155bd95afbb4cee821fc/t/184/138/d/20260310_adobeatock_578748584_1280x960.jpg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2026/03/10/eb3b1dd2e436155bd95afbb4cee821fc/t/184/138/d/20260310_adobeatock_578748584_1280x960.jpg",
-    "ja_summary": "日立製作所が、日本企業として初めて「Agentic AI Foundation（AAIF）」に加入した。\n同組織は、AIエージェントの運用基盤やアクセス権限管理の標準化を推進している。\n今後はAIエージェントの安全な利用環境の整備に向け、技術標準の策定を主導する。"
-  },
-  {
-    "title": "OpenClawも不要。完全ローカルで動くエージェンティックAIを非プログラマー（俺）が開発できる時代。しかも自分で機能追加して育成できるのだ（CloseBox）",
-    "link": "https://www.techno-edge.net/article/2026/03/09/4905.html",
-    "source": "TechnoEdge",
-    "published": "Mon, 09 Mar 2026 17:13:30 +0900",
-    "summary": "AI研究家の友人、清水亮さんから、エージェント作らないか、というお誘いがありました。",
-    "image": "https://www.techno-edge.net/imgs/rss/29836.png",
-    "ja_summary": "・プログラミング不要で、誰でもローカル環境で動作する「エージェンティックAI」の開発が可能になった。\n・AI研究家・清水亮氏の協力を得て、個人のニーズに合わせて機能追加や育成ができるAIを実現。\n・専門知識がなくても自分専用の自律型AIを構築・運用できる新たな時代が到来した。"
-  },
-  {
-    "title": "プロ品質をローカルで使えて商用利用可能な音声付き動画生成AI「LTX-2.3」登場。Web版「LTX Studio」も（生成AIクローズアップ）",
-    "link": "https://www.techno-edge.net/article/2026/03/09/4902.html",
-    "source": "TechnoEdge",
-    "published": "Mon, 09 Mar 2026 07:18:29 +0900",
-    "summary": "今回は、Lightricksよりリリースされた、最新の音声付き動画生成AIモデルである「LTX-2.3」を取り上げます。2026年1月にご紹介した、Sora 2 Pro越えのローカル動画生成AI「LTX-2」のアップデート版になります。",
-    "image": "https://www.techno-edge.net/imgs/rss/29824.jpg",
-    "ja_summary": "・商用利用可能な音声付き動画生成AI「LTX-2.3」がリリース。\n・高性能なローカル環境での実行に加え、Web版「LTX Studio」も提供。\n・前身の「LTX-2」から進化し、より高品質な動画生成が可能に。"
-  },
-  {
-    "title": "タイラー・テクノロジーズがキャンター・フィッツジェラルド会議でクラウドとAIの活用を表明",
-    "link": "https://jp.investing.com/news/transcripts/article-93CH-1453706",
-    "source": "Investing.com ニュース",
-    "published": "2026-03-10 21:35:30",
-    "summary": "",
-    "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-    "ja_summary": "・タイラー・テクノロジーズが、クラウド移行とAI活用による行政サービスの効率化を表明。\n・データ統合とAI技術で、公共機関の業務モデルを刷新し成長を目指す。\n・収益性の高いクラウドビジネスへシフトし、持続的な市場優位性を確立する方針。"
-  },
-  {
-    "title": "第3回先進的AI利活用アドバイザリーボードの会議資料等を掲載しました",
-    "link": "https://www.digital.go.jp/councils/ai-advisory-board/80174015-f73b-4d98-811e-c601c26c0ba5",
-    "source": "デジタル庁",
-    "published": "Tue, 10 Mar 2026 15:00:00 +0900",
-    "summary": "",
-    "image": "https://www.digital.go.jp/themes/custom/gov_theme_da_2023/assets/images/ogp.png",
-    "ja_summary": "・総務省「第3回先進的AI利活用アドバイザリーボード」の会議資料が公開されました。\n・AIの社会実装や利活用における先進的な取り組みと課題が共有されています。\n・詳細は総務省公式サイトにて確認可能です。"
-  },
-  {
-    "title": "｢ルールあるのに｣生成AIで情報漏洩はこう起きる | 東洋経済Tech×サイバーセキュリティ | 東洋経済オンライン",
-    "link": "https://toyokeizai.net/articles/-/937098?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-    "source": "東洋経済オンライン",
-    "published": "Wed, 11 Mar 2026 06:00:00 +0900",
-    "summary": "生成AIは、いまや一部の専門職だけのものではありません。営業、企画、マーケティング、人事など、さまざ…",
-    "image": "https://tk.ismcdn.jp/mwimgs/5/f/1200w/img_5f52871b4cbbb43a28fa5f691fba09da71008.jpg?nextgen=false",
-    "ja_summary": "・生成AIの普及により、営業や企画などあらゆる業務で情報漏洩のリスクが急増している。\n・社内規定があっても、不適切な入力によって機密情報がAI学習に流用されるケースが後を絶たない。\n・利便性を優先するあまり生じるセキュリティの穴を埋めるための、具体的な運用ルールの再徹底が不可欠。"
-  },
-  {
-    "title": "「未来の空港」をMWCで体験　案内ロボットや自動運転カートが旅を変える",
-    "link": "https://japan.cnet.com/article/35244821/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "バルセロナで開催されたMobile World Congress（MWC）で、私は空港にさらなるテクノロジーを導入しようとする未来的なアプリケーションの展示を体験した。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35244821/\"><img src=\"https://japan.cnet.com/storage/2026/03/10/3644d7165bdfc430eecadc12c5089630/t/184/138/d/airport-future-alba-ride-crop_1280x960.jpg\" /></a>",
-    "image": "https://japan.cnet.com/storage/2026/03/10/3644d7165bdfc430eecadc12c5089630/t/184/138/d/airport-future-alba-ride-crop_1280x960.jpg",
-    "ja_summary": "世界最大級のモバイル見本市MWCにて、空港の未来像が公開されました。\n案内ロボットや自動運転カートの導入により、空港体験のデジタル化が進みます。\nテクノロジー活用で、よりスムーズで快適な移動環境の実現が期待されます。"
-  },
-  {
-    "title": "ゴールドマン・サックスはAIによる変化に備える「HALO取引」を推奨",
-    "link": "https://www.businessinsider.jp/article/2603-stock-market-halo-trade-tech-rotation-iran-ai-wall-street/",
-    "source": "Business Insider Japan",
-    "published": "Tue, 10 Mar 2026 21:00:00 GMT",
-    "summary": "投資家はAIがもららす変化への懸念が強まる中、ハイテク株から資金を引き揚げています。ゴールドマン・サックスは新たな「HALO取引」を安全策として推奨しています。",
-    "image": "https://media.loom-app.com/loom/2026/03/05/a07f1b5a-2c04-42cf-887e-1daf611b00ed/original.jpg?w=1200&amp;h=630",
-    "ja_summary": "・AIへの懸念からハイテク株売りが加速。\n・ゴールドマン・サックスが安全策として「HALO取引」を推奨。\n・AIによる市場変動に備える新たな投資戦略として注目。"
-  },
-  {
-    "title": "OpenAI、軍事に関する契約への倫理的懸念からロボット・消費者向けハード開発リーダーが離職",
-    "link": "https://www.techno-edge.net/article/2026/03/08/4901.html",
-    "source": "TechnoEdge",
-    "published": "Sun, 08 Mar 2026 16:26:46 +0900",
-    "summary": "OpenAIのロボティクスおよび消費者向けハードウェア開発リーダーあるケイトリン・カリノフスキー氏は、3月7日に退職したことを明らかにしました。",
-    "image": "https://www.techno-edge.net/imgs/rss/29822.jpg",
-    "ja_summary": "・OpenAIのロボティクスおよび消費者向けハードウェア部門のリーダー、ケイトリン・カリノフスキー氏が3月7日付で退職。\n・退職の背景には、OpenAIの軍事関連契約に対する同氏の倫理的な懸念がある。"
-  },
-  {
-    "title": "家庭用PCで使える無料OCRツール「NDLOCR-Lite」を国立国会図書館が公開、生成速度が世界最速と謳う拡散型LLM「Mercury 2」など生成AI技術5つを解説（生成AIウィークリー）",
-    "link": "https://www.techno-edge.net/article/2026/03/06/4899.html",
-    "source": "TechnoEdge",
-    "published": "Fri, 06 Mar 2026 11:48:54 +0900",
-    "summary": "この1週間の気になる生成AI技術・研究をいくつかピックアップして解説する今回の「生成AIウィークリー」（第134回）は、GPT-5-miniを上回る「Qwen3.5」の軽量モデル群や、国立国会図書館が発表した家庭用PCで使える無料OCRツール「NDLOCR-Lite」を取り上げます。",
-    "image": "https://www.techno-edge.net/imgs/rss/29791.jpg",
-    "ja_summary": "・国立国会図書館が家庭用PCでも利用可能な無料のOCRツール「NDLOCR-Lite」を公開。\n・生成AIの最新動向として、GPT-5-mini超えの性能を持つ「Qwen3.5」軽量モデル群が登場。\n・世界最速を謳う拡散型LLM「Mercury 2」など、今週注目の生成AI技術5選を紹介。"
-  },
-  {
-    "title": "全府省庁の約18万人の政府職員を対象としたガバメントAI（源内）の大規模実証を開始します",
-    "link": "https://www.digital.go.jp/news/2d69c287-2897-46d8-a28f-ea5a1fc9bce9",
-    "source": "デジタル庁",
-    "published": "Fri, 06 Mar 2026 13:00:21 +0900",
-    "summary": "",
-    "image": "https://www.digital.go.jp/themes/custom/gov_theme_da_2023/assets/images/ogp.png",
-    "ja_summary": "・政府が全府省庁の職員約18万人を対象に、生成AI「ガバメントAI（源内）」の大規模実証を開始。\n・行政事務の効率化や高度化を目指し、業務へのAI活用を本格的に検証する。\n・国レベルで大規模なAI導入を進めることで、行政サービスの質的向上と生産性向上を図る。"
   }
 ]
