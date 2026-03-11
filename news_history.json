@@ -1,5 +1,35 @@
 [
   {
+    "title": "JetCoolがブロードコムとAIチップの液体冷却で提携",
+    "link": "https://jp.investing.com/news/company-news/article-93CH-1454759",
+    "source": "Investing.com ニュース",
+    "published": "2026-03-11 13:14:25",
+    "summary": "",
+    "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+    "fetched_at": "2026-03-11 22:37:50",
+    "ja_summary": "液体冷却技術を手がけるJetCoolがブロードコムと提携。\n高性能AIチップの過熱問題に対し、直接的な液体冷却ソリューションを提供。\n次世代AIサーバーの性能向上と電力効率の改善を目指す。"
+  },
+  {
+    "title": "New ways to learn math and science in ChatGPT",
+    "link": "https://openai.com/index/new-ways-to-learn-math-and-science-in-chatgpt",
+    "source": "OpenAI",
+    "published": "Tue, 10 Mar 2026 10:00:00 GMT",
+    "summary": "ChatGPT introduces interactive visual explanations for math and science, helping students explore formulas, variables, and concepts in real time.",
+    "image": "https://openai.com/favicon.ico",
+    "fetched_at": "2026-03-11 22:37:51",
+    "ja_summary": "・ChatGPTが数学や科学の学習向けに、対話型の視覚的解説機能を導入。\n・数式や変数、概念をリアルタイムで操作しながら深く理解できる。\n・学習者の理解を助けるインタラクティブな教育ツールとして進化。"
+  },
+  {
+    "title": "Debiasing Your Software Design Decision-Making",
+    "link": "https://speakerdeck.com/baasie/debiasing-your-software-design-decision-making",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-03-11T09:20:00-04:00",
+    "summary": "Every significant software design choice—whether you’re designing a bounded context, deciding on the system boundary, settling on an architectural style, selecting a complex system integration approach, and even evaluating a block of AI-generated code—has a moment where one path just feels right. But what if that powerful 'gut feeling' is actually a cognitive bias in disguise?\n\nThe human mind is a powerful tool, yet it is systematically prone to errors. These errors aren't just abstract ideas; they are design flaws in our own decision-making that can lead directly to fragile architectures, ballooning technical debt, and costly rework, regardless of whether the code was human or machine-generated. Biases like the anchoring effect (getting stuck on the first idea) or the sunk cost fallacy (clinging to a failing project) are constantly shaping your software.\n\nJoin us to move from a reactive, bias-driven approach to a deliberate, resilient, and ultimately more effective design process. This talk explores how cutting-edge research from behavioural economics can be applied directly to software architecture and development, with or without AI assistance.\n\nWe will move beyond simply being aware of biases. We will introduce a practical, five-step checklist designed to systematically 'debias' your design choices, helping you build both better software and a better decision-making habit for all your technical work.\n\nYou will learn how to:\n* Be Decision-Ready: Recognize when Myopic Misery is rushing you into action, or when Status Quo Bias is trapping you in inaction due to cognitive load—ensuring you make choices based on strategy, not mental fatigue.\n\n* Broaden the Frame: Combat Functional Fixedness and Additive Bias to uncover the elegant solutions your brain naturally ignores—breaking the cycle of solving every problem by simply adding more complexity.\n\n* Seek Independent Advice: Move past Overconfidence Bias and Correlation Neglect to stop mistaking echoed opinions for independent proof, ensuring you are acting on diverse data rather than a single weak signal amplified by the group.\n\n* Test Your Assumptions: Inoculate your team against the Authority Bias of AI-generated code and the Illusion of Control it fosters, replacing the dangerous comfort of \"black box\" certainty with rigorous stress-testing that withstands real-world chaos.\n\n* Establish Simple Rules: Avoid the Law of Triviality (bikeshedding) to dramatically increase velocity, ensuring your team stops debating low-risk choices and focuses their cognitive energy on the decisions that actually stick.",
+    "image": "https://files.speakerdeck.com/presentations/833efc8edc434a8387338dc8285dacff/preview_slide_0.jpg?38700679",
+    "fetched_at": "2026-03-11 22:38:05",
+    "ja_summary": "ソフトウェア設計の意思決定に潜む「認知バイアス」を排除し、論理的な設計を行うための実践的フレームワークを紹介します。\nアンカリングや現状維持バイアスなどの心理的誤認が招く技術的負債や設計ミスを防ぐ手法を学びます。\n5つのステップによるチェックリストを活用し、AI活用時を含めた客観的かつ効果的な設計プロセスを実現します。"
+  },
+  {
     "title": "WBC巡りデマ拡散 AI時代の課題",
     "link": "https://news.yahoo.co.jp/pickup/6572577?source=rss",
     "source": "Yahoo!ニュース IT・科学",
@@ -895,32 +925,5 @@
     "summary": "Googleは10日(米国時間)、Google ドキュメント、スプレッドシート、スライド、ドライブにおけるGeminiを大幅に強化すると発表した。新機能は、Google AI Ultra(月額36,400円)/Pro(同2,900円)とGoogle Workspaceに導入される。",
     "image": "https://www.watch.impress.co.jp/img/ipw/list/2092/253/g01.jpg",
     "ja_summary": "・Googleドキュメント、スプレッドシート、スライド、ドライブにGeminiの新機能が導入される。\n・AIによる文章の草案作成やデータ分析などの作業支援が大幅に強化される。\n・利用にはGoogle Workspaceに加え、月額制のGeminiプラン（Ultra/Pro）の契約が必要。"
-  },
-  {
-    "title": "簡単な指示でスライドやシートを自動生成　グーグルが「Workspace」にGemini新機能",
-    "link": "https://japan.cnet.com/article/35244850/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "グーグルは、「Google Workspace」の「Google Docs」「Google Slides」「Google Sheets」および「Google Drive」にAIを搭載した新機能を追加したと発表した。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35244850/\"><img src=\"https://japan.cnet.com/storage/2026/03/11/351d128f604de61bb5969707ff3f6cd0/t/184/138/d/gemini-ai-gettyimages-2264775621_1280x960.jpg\" /></a>",
-    "image": "https://japan.cnet.com/storage/2026/03/11/351d128f604de61bb5969707ff3f6cd0/t/184/138/d/gemini-ai-gettyimages-2264775621_1280x960.jpg",
-    "ja_summary": "・Google WorkspaceにAI「Gemini」の新機能が搭載されました。\n・Docs、Slides、Sheets、Driveで指示に基づいた自動生成が可能になります。\n・業務効率化を支援する機能として、主要ツール全体で展開されます。"
-  },
-  {
-    "title": "ChatGPTに「数学」や「物理・化学」を学習できる新機能　高校〜大学生向け",
-    "link": "https://japan.cnet.com/article/35244846/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "対話型AI「ChatGPT」に、数学や科学の学習を支援する新たな機能が加わった。OpenAIは、数式や変数の変化を画面上で視覚的に示す「動的なビジュアル解説」を導入し、利用者が概念をより直感的に理解できるようにした。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35244846/\"><img src=\"https://japan.cnet.com/storage/2026/03/11/358c72d4443118a7658587e1c712e45b/t/184/138/d/2026-03-11_9.14の画像.jpeg\" /></a>",
-    "image": "https://japan.cnet.com/storage/2026/03/11/358c72d4443118a7658587e1c712e45b/t/184/138/d/2026-03-11_9.14の画像.jpeg",
-    "ja_summary": "・ChatGPTに高校〜大学生向けの数学・物理・化学学習支援機能が追加された。\n・数式や変数の変化を画面上で動的に表示するビジュアル解説を導入。\n・概念を視覚的に提示することで、直感的な理解を促進する。"
-  },
-  {
-    "title": "AIは人間の仕事を奪っているのか--企業幹部2050人の調査結果",
-    "link": "https://japan.zdnet.com/article/35244848/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "複数のIT職種で人員が削減される一方、同じ職種で採用も増えていることが、最新の業界調査で判明した。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35244848/\"><img src=\"https://japan.zdnet.com/storage/2026/03/11/21f4c36169a4cf16656d255024de368a/t/184/138/d/gettyimages-2207848138_1280.jpg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2026/03/11/21f4c36169a4cf16656d255024de368a/t/184/138/d/gettyimages-2207848138_1280.jpg",
-    "ja_summary": "・AI導入によるIT職種の人員削減が進行中。\n・一方で同職種での採用も増加しており、求人の質が変化している。\n・AIは仕事を奪うだけでなく、新たな雇用ニーズも創出している。"
   }
 ]
