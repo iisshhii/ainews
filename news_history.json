@@ -1,5 +1,45 @@
 [
   {
+    "title": "Designing AI agents to resist prompt injection",
+    "link": "https://openai.com/index/designing-agents-to-resist-prompt-injection",
+    "source": "OpenAI",
+    "published": "Wed, 11 Mar 2026 11:30:00 GMT",
+    "summary": "How ChatGPT defends against prompt injection and social engineering by constraining risky actions and protecting sensitive data in agent workflows.",
+    "image": "https://openai.com/favicon.ico",
+    "fetched_at": "2026-03-12 04:10:07",
+    "ja_summary": "・ChatGPTは、AIエージェントへの悪意ある命令（プロンプトインジェクション）を防ぐ仕組みを強化。\n・機密データの保護と、リスクの高いアクションの実行を制限することで安全性を確保。\n・AIによる自律的なワークフロー実行時の攻撃リスクを低減し、信頼性を向上させる。"
+  },
+  {
+    "title": "Improving instruction hierarchy in frontier LLMs",
+    "link": "https://openai.com/index/instruction-hierarchy-challenge",
+    "source": "OpenAI",
+    "published": "Tue, 10 Mar 2026 11:00:00 GMT",
+    "summary": "IH-Challenge trains models to prioritize trusted instructions, improving instruction hierarchy, safety steerability, and resistance to prompt injection attacks.",
+    "image": "https://openai.com/favicon.ico",
+    "fetched_at": "2026-03-12 04:10:07",
+    "ja_summary": "・LLMに信頼できる指示を優先させる「IH-Challenge」手法を開発。\n・指示への追従性と安全制御能力を向上。\n・プロンプトインジェクション攻撃への耐性を強化。"
+  },
+  {
+    "title": "コンピュータ科学の神様が「AIに負けた」日 — Donald Knuth『Claude's Cycles』を読み解く",
+    "link": "https://qiita.com/nogataka/items/ecbaedb3d7ffc29c9fb2",
+    "source": "Qiita (Popular)",
+    "published": "2026-03-04T12:28:56+09:00",
+    "summary": "\n## はじめに：「Shock! Shock!」\n\n2026年2月28日、コンピュータ科学の世界に小さな衝撃が走った。\n\nDonald Knuth（ドナルド・クヌース）が新しい論文を公開した。タイトルは「Claude's Cycles」。冒頭の一言はこうだ。\n\n> \"Shock! Shock!\"\n\n87歳のKnuthが、AIに対する自分の見方を改めざるを得なくなった。その経緯を記した短い論文は、H",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYxNjEyOTglMkZjMWUzZmZkNmVhZGExOTY5ZmYzYzQ0YjE0ZmRlMDgxYmNkZTZmNTAwJTJGeF9sYXJnZS5wbmclM0YxNTg0ODQ1NTg0P2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz00ZGRjZmU5NTFjNTMyMzU3NjcyOGUzOTkyOTNmOGRlNQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D246367bff431168e6212d2602a3df494?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgyJUIzJUUzJTgzJUIzJUUzJTgzJTk0JUUzJTgzJUE1JUUzJTgzJUJDJUUzJTgyJUJGJUU3JUE3JTkxJUU1JUFEJUE2JUUzJTgxJUFFJUU3JUE1JTlFJUU2JUE3JTk4JUUzJTgxJThDJUUzJTgwJThDQUklRTMlODElQUIlRTglQjIlQTAlRTMlODElOTElRTMlODElOUYlRTMlODAlOEQlRTYlOTclQTUlMjAlRTIlODAlOTQlMjBEb25hbGQlMjBLbnV0aCVFMyU4MCU4RUNsYXVkZSUyN3MlMjBDeWNsZXMlRTMlODAlOEYlRTMlODIlOTIlRTglQUElQUQlRTMlODElQkYlRTglQTclQTMlRTMlODElOEYmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz03YTRiODZlZDAwYjdiMTFmNmNkNTNmODhjNzkxZDJhNw&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBub2dhdGFrYSZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWE5ODA4YTE0Zjg4Y2I0ZjQ5OWU2ZDA3NGYyY2E2YTNh&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=5392872a647f7e380b56afada9f616cd",
+    "fetched_at": "2026-03-12 04:10:19",
+    "ja_summary": "・「コンピュータ科学の神様」ドナルド・クヌースが、自身の論文執筆過程でAIの能力に衝撃を受け、AIへの見方を改めた。\n・クヌースが公開した論文『Claude's Cycles』では、AIが予想外の成果を出した経緯と、それに対する深い驚きが綴られている。\n・専門家をも凌駕しつつあるAIの進化が、コンピュータ科学の権威にまでパラダイムシフトを迫っている。"
+  },
+  {
+    "title": "最近のQiitaがおかしい（かもしれない）",
+    "link": "https://qiita.com/KaiTomotake/items/77d59a91ce2f2ab54209",
+    "source": "Qiita (Popular)",
+    "published": "2026-03-04T19:59:17+09:00",
+    "summary": ":::note warn\nこの記事は割と思想強めかもしれません。\n苦手だなと思ったらすぐにページを閉じることを推奨します。\n:::\n\n# 自己紹介\n\nこんにちは。KaiTomotakeと申します。\n昔、よくQiitaのお世話になっていました。\n最近はQiitaの記事を書く側になろうと思い、またQiitaに戻ってきました。\n\n# 久しぶりにQiitaに帰ってきて驚愕したこと\n\nやはりなんと言っても*",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmF2YXRhcnMuZ2l0aHVidXNlcmNvbnRlbnQuY29tJTJGdSUyRjI0NjYyODMwNCUzRnYlM0Q0P2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz1kNjU1NzEwN2UyZThhNmM2ZjcxMzhkNGU4NzdjODljNw%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D782e28bb579e700fa962f06761ee3b9a?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUU2JTlDJTgwJUU4JUJGJTkxJUUzJTgxJUFFUWlpdGElRTMlODElOEMlRTMlODElOEElRTMlODElOEIlRTMlODElOTclRTMlODElODQlRUYlQkMlODglRTMlODElOEIlRTMlODIlODIlRTMlODElOTclRTMlODIlOEMlRTMlODElQUElRTMlODElODQlRUYlQkMlODkmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz03MjRlYjA0OWNkNzkwYjU4NDRhYTg5NWUxODA3NTE4OA&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBLYWlUb21vdGFrZSZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWMyZjBkYTZlZWU0OTFhOTk0YjZkNTk3ZjM5MTZmZTMy&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=3e60417dadef14990518616668f05d5f",
+    "fetched_at": "2026-03-12 04:10:20",
+    "ja_summary": "・長年利用していなかったQiitaに復帰した著者が、現在のサイトの状況に対して違和感を抱いている。\n・個人の主観や思想が強く反映された内容であり、現状のQiitaに対する否定的な見解が示唆されている。"
+  },
+  {
     "title": "1000社が集う巨大起業拠点「STATION Ai」　変革を急ぐ製造業の生存戦略",
     "link": "https://www.itmedia.co.jp/business/articles/2603/10/news006.html",
     "source": "ITmedia ビジネス",
@@ -903,41 +943,5 @@
     "summary": "Googleは10日(米国時間)、マルチモーダル対応の埋め込みモデル「Gemini Embedding 2」を発表し、Gemini APIおよびVertex AIを通じてパブリックプレビューで提供開始した。テキスト、画像、動画、音声、ドキュメントを単一の埋め込み空間にマッピングし、異なる種類のメディアを横断した検索や分類に対応する。",
     "image": "https://www.watch.impress.co.jp/img/ipw/list/2092/356/01.jpg",
     "ja_summary": "・Googleがマルチモーダル対応の新モデル「Gemini Embedding 2」を発表。\n・テキスト、画像、動画、音声を統合して検索や分類が可能に。\n・Gemini APIおよびVertex AIにてパブリックプレビューを開始。"
-  },
-  {
-    "title": "アップルのAIスマートディスプレイ、新Siriが完成せず9月に発売延期か",
-    "link": "https://japan.cnet.com/article/35244885/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "あなたの家はアップルの音声アシスタント「Siri」でさらにスマートになる見込みだが、もう少し待つ必要がありそうだ。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35244885/\"><img src=\"https://japan.cnet.com/storage/2026/03/11/009f4ef5091288e4e49d85d3b6d92ba9/t/184/138/d/gettyimages-2255802336_1280x960.jpg\" /></a>",
-    "image": "https://japan.cnet.com/storage/2026/03/11/009f4ef5091288e4e49d85d3b6d92ba9/t/184/138/d/gettyimages-2255802336_1280x960.jpg",
-    "ja_summary": "・アップルが開発中のAIスマートディスプレイは、発売が9月以降に延期される見通し。\n・主な要因は、搭載予定の新Siriの開発が完了していないため。\n・次世代の音声アシスタント機能の実現には、さらなる時間が必要となっている。"
-  },
-  {
-    "title": "10万円で200円余るMacBook NeoでAI音楽制作は成立するのか。 Logic ProとSunoで検証してみた（CloseBox）",
-    "link": "https://www.techno-edge.net/article/2026/03/11/4916.html",
-    "source": "TechnoEdge",
-    "published": "Wed, 11 Mar 2026 13:21:41 +0900",
-    "summary": "MacBook Neoが我が家に届きました。もちろん自腹で購入したニューマシン。10万円をちょっと切る格安マシンはLogic Proがちゃんと動くのか、検証してみました。",
-    "image": "https://www.techno-edge.net/imgs/rss/29920.jpg",
-    "ja_summary": "10万円以下の格安PC「MacBook Neo」で、音楽制作ソフト「Logic Pro」や生成AI「Suno」が実用的に動作するかを検証。\n低価格マシンがプロ仕様の制作環境としてどこまで通用するのかを実機で確認した。"
-  },
-  {
-    "title": "OpenAI、ChatGPTでSora動画AI機能を提供へ―The Information報道",
-    "link": "https://jp.investing.com/news/stock-market-news/article-1453998",
-    "source": "Investing.com ニュース",
-    "published": "2026-03-11 04:54:24",
-    "summary": "",
-    "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-    "ja_summary": "・OpenAIが「ChatGPT」に動画生成AI「Sora」を統合する方針と報道\n・テキスト指示から高品質な動画を直接作成可能になる見通し\n・動画生成機能の追加により、ChatGPTの利便性が飛躍的に向上する可能性がある"
-  },
-  {
-    "title": "中国、銀行や政府機関でのOpenClaw AI使用を制限へ―Bloomberg報道",
-    "link": "https://jp.investing.com/news/stock-market-news/article-1453992",
-    "source": "Investing.com ニュース",
-    "published": "2026-03-11 04:29:47",
-    "summary": "",
-    "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-    "ja_summary": "・中国政府が銀行や政府機関に対し、OpenAIなどの外国製AI利用を制限する方針を固めた。\n・データ流出への懸念から、独自の国産AI活用への切り替えを加速させる狙いがある。\n・米中技術対立が深まる中、AI分野でも経済安全保障を強化する動き。"
   }
 ]
