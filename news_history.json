@@ -1,5 +1,35 @@
 [
   {
+    "title": "Gemini Embedding 2 の概要",
+    "link": "https://note.com/npaka/n/n1e39b1e67561",
+    "source": "note (npaka)",
+    "published": "Wed, 11 Mar 2026 06:43:21 +0900",
+    "summary": "<p id=\"116bbc09-4b40-4bfc-9334-53e8e7a8c224\" name=\"116bbc09-4b40-4bfc-9334-53e8e7a8c224\">以下の記事が面白かったので、簡単にまとめました。</p><figure id=\"64cc17bd-bf70-4d14-addb-2898ff5e90ea\" name=\"64cc17bd-bf70-4d14-addb-2898ff5e90ea\"><blockquote><p id=\"8b470a8c-ec47-4a51-b245-3582948a46d0\" name=\"8b470a8c-ec47-4a51-b245-3582948a46d0\"><strong>・</strong><a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-embedding-2/\" rel=\"nofollow noopener\" target=\"_blank\"><strong>Gemini Embedding 2: Our first natively multimodal embedding model</strong></a></p></blockquote>\n<figcaption></figcaption></figure><br /><a href=\"https://note.com/npaka/n/n1e39b1e67561\">続きをみる</a>",
+    "image": "https://assets.st-note.com/production/uploads/images/258171703/rectangle_large_type_2_bfbf5c46387c6775c1adf4274c528668.png?width=800",
+    "fetched_at": "2026-03-11 17:49:14",
+    "ja_summary": "（APIキーが設定されていないため要約をスキップしました）"
+  },
+  {
+    "title": "【書評】 最速でわかる生成AI実践ガイド",
+    "link": "https://note.com/npaka/n/n010c081e719f",
+    "source": "note (npaka)",
+    "published": "Wed, 04 Mar 2026 11:33:09 +0900",
+    "summary": "<p id=\"b1b295a4-38a9-40a5-b2f4-13569c733c96\" name=\"b1b295a4-38a9-40a5-b2f4-13569c733c96\">近年、AIの世界では「プロンプトエンジニアリング」「RAG」「AIエージェント」といった言葉を頻繁に耳にするようになりました。しかし、ニュースやSNSで断片的に知っていても、それらが実際にどのような仕組みで動いているのかを説明できる人は、まだそれほど多くありません。</p><p id=\"a49d724c-7ac6-42d2-b483-3b31e19a4bd6\" name=\"a49d724c-7ac6-42d2-b483-3b31e19a4bd6\">『<strong>最速でわかる生成AI実践ガイド</strong>』は、そうした<strong>「なんとなく知っているAI」を体系的な理解へと変えてくれる一冊</strong>になります。</p><br /><a href=\"https://note.com/npaka/n/n010c081e719f\">続きをみる</a>",
+    "image": "https://assets.st-note.com/production/uploads/images/256356817/rectangle_large_type_2_0565aace42ab5b55e2faeb3c023bce63.png?width=800",
+    "fetched_at": "2026-03-11 17:49:14",
+    "ja_summary": "（APIキーが設定されていないため要約をスキップしました）"
+  },
+  {
+    "title": "GPT-5.3 Instant の概要",
+    "link": "https://note.com/npaka/n/n73336817814f",
+    "source": "note (npaka)",
+    "published": "Wed, 04 Mar 2026 06:06:35 +0900",
+    "summary": "<p id=\"89de300a-a323-4e42-a24c-273f817a7142\" name=\"89de300a-a323-4e42-a24c-273f817a7142\">以下の記事が面白かったので、簡単にまとめました。</p><figure id=\"9acad1e0-23f1-409d-9e13-9bf3cdf3b39c\" name=\"9acad1e0-23f1-409d-9e13-9bf3cdf3b39c\"><blockquote><p id=\"f000f8f6-7f89-4b81-8ec8-a6f1b97ca40b\" name=\"f000f8f6-7f89-4b81-8ec8-a6f1b97ca40b\"><strong>・</strong><a href=\"https://openai.com/ja-JP/index/gpt-5-3-instant/\" rel=\"nofollow noopener\" target=\"_blank\"><strong>GPT‑5.3 Instant：よりスムーズで、日常会話にもっと役立つ</strong></a></p></blockquote>\n<figcaption></figcaption></figure><br /><a href=\"https://note.com/npaka/n/n73336817814f\">続きをみる</a>",
+    "image": "https://assets.st-note.com/production/uploads/images/256315123/rectangle_large_type_2_87f9d61de13814379364ac8c9b9933da.png?width=800",
+    "fetched_at": "2026-03-11 17:49:14",
+    "ja_summary": "（APIキーが設定されていないため要約をスキップしました）"
+  },
+  {
     "title": "「SaaS is Dead」時代を生き抜くAIネイティブ企業の条件　上場企業が苦しむ“ジレンマ“の正体",
     "link": "https://www.itmedia.co.jp/business/articles/2603/11/news026.html",
     "source": "ITmedia ビジネス",
@@ -871,32 +901,5 @@
     "summary": "OpenAI is acquiring Promptfoo, an AI security platform that helps enterprises identify and remediate vulnerabilities in AI systems during development.",
     "image": "https://openai.com/favicon.ico",
     "ja_summary": "・OpenAIがAIセキュリティ基盤「Promptfoo」を買収\n・AI開発における脆弱性の特定および修正ツールを強化\n・企業向けAIシステムの安全性と信頼性向上を目指す"
-  },
-  {
-    "title": "LLVMに対する32ビット定数除算の改善",
-    "link": "https://zenn.dev/herumi/articles/const-div-revised5",
-    "source": "Zenn Trends",
-    "published": "Tue, 10 Mar 2026 02:00:38 GMT",
-    "summary": "初めに\nLLVMはコンパイラ基盤で、抽象的なCPU命令を表す中間表現LLVM-IRに対して最適化を行ったり、ターゲットCPU用のアセンブリ言語コードを生成したりする機能を持ちます。\n今回、符号無し32ビット変数xに対するx/7のような定数除算についてLLVMの最適化を改善するプルリクエスト[SelectionDAG] Optimize 32-bit udiv with 33-bit magic constants on 64-bit targetsがllvm:mainにマージされました。LLVMはC/C++/Rust/Swiftなど様々な言語のコンパイラ実装に利用されているため、それ...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--rCww5UkZ--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:LLVM%25E3%2581%25AB%25E5%25AF%25BE%25E3%2581%2599%25E3%2582%258B32%25E3%2583%2593%25E3%2583%2583%25E3%2583%2588%25E5%25AE%259A%25E6%2595%25B0%25E9%2599%25A4%25E7%25AE%2597%25E3%2581%25AE%25E6%2594%25B9%25E5%2596%2584%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:herumi%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2E4ZWU3NTI0MjAuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-    "ja_summary": "・コンパイラ基盤「LLVM」において、32ビットの定数除算の最適化処理が改善された。\n・64ビット環境で33ビットのマジックナンバーを利用することで、計算効率が向上する。\n・LLVMを採用するC/Rustなどの言語で、除算処理を含むコードの実行性能改善が期待される。"
-  },
-  {
-    "title": "Emacs ユーザが3ヶ月くらい Zed 使って Emacs に戻った",
-    "link": "https://zenn.dev/hyakt/articles/feb205646fc9f1",
-    "source": "Zenn Trends",
-    "published": "Mon, 09 Mar 2026 10:21:33 GMT",
-    "summary": "前回の記事:\nhttps://zenn.dev/hyakt/articles/02f3a76187ca2a\nで Zed を使い始めましたが、結論から言うと、いまは Emacs に戻っています。\nZed は速いし、開発も活発で、良いエディタだと思います。\nただ、自分のユースケースには最終的に Emacs の方が合っていました。\nこの記事は Zed を下げる話ではなく、\n「3ヶ月使ってみて、自分に必要な条件が見えた」という記録です。\n\n 背景\n10年以上 Emacs を使っていて、\nここ最近は AI Agent 連携も含めて「今の開発体験」を見直したくなり、Zed を3ヶ月ほどメインで使って...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--KNtAiN1b--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Emacs%2520%25E3%2583%25A6%25E3%2583%25BC%25E3%2582%25B6%25E3%2581%258C3%25E3%2583%25B6%25E6%259C%2588%25E3%2581%258F%25E3%2582%2589%25E3%2581%2584%2520Zed%2520%25E4%25BD%25BF%25E3%2581%25A3%25E3%2581%25A6%2520Emacs%2520%25E3%2581%25AB%25E6%2588%25BB%25E3%2581%25A3%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:hyakt%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2U5MWM3ZWQwYjIuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-    "ja_summary": "・10年以上のEmacsユーザーが話題のエディタ「Zed」を3ヶ月間メイン使用。\n・動作は高速で優秀だったが、個人のワークフローにはEmacsが適していると判断。\n・今回の試用を通じ、自身の開発環境に必要な条件を再確認する結果となった。"
-  },
-  {
-    "title": "OpenAIのロボット部門の主要スタッフが、ペンタゴンとの契約後に辞任「これは原則の問題だった」",
-    "link": "https://www.businessinsider.jp/article/2603caitlin-kalinowski-quits-openai-robotics-head-pentagon-deal-sam-altman/",
-    "source": "Business Insider Japan",
-    "published": "Tue, 10 Mar 2026 22:15:00 GMT",
-    "summary": "OpenAIの技術部門スタッフ、ケイトリン・カリノウスキー氏は3月7日に辞任を発表しました。Xで同社と国防総省の契約を批判し、AI監視や致死的自律システムへの懸念を示しました。",
-    "image": "https://media.loom-app.com/loom/2026/03/10/8ab43350-3ac2-4a0b-a046-1f368a61e372/original.jpg?w=1200&amp;h=630",
-    "ja_summary": "・OpenAIの技術スタッフが、同社と国防総省の契約に反発し辞任。\n・AIによる監視や致死的な自律兵器への悪用を懸念。\n・「原則の問題」として企業姿勢を批判する事態に発展。"
   }
 ]

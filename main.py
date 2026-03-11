@@ -137,13 +137,18 @@ def fetch_news():
                     if not image_url:
                         image_url = fetch_og_image(entry.link)
                     
+                    # 取得日時を追加（JST）
+                    jst = pytz.timezone('Asia/Tokyo')
+                    fetched_at = datetime.now(jst).strftime('%Y-%m-%d %H:%M:%S')
+
                     news_items.append({
                         "title": title,
                         "link": entry.link,
                         "source": feed['name'],
                         "published": entry.get("published", ""),
                         "summary": summary,
-                        "image": image_url
+                        "image": image_url,
+                        "fetched_at": fetched_at
                     })
                     
                     # デフォルト画像の割当（画像が取得できなかった場合）
@@ -171,13 +176,18 @@ def fetch_news():
         if response.status_code == 200:
             qiita_items = response.json()
             for item in qiita_items:
+                # 取得日時を追加（JST）
+                jst = pytz.timezone('Asia/Tokyo')
+                fetched_at = datetime.now(jst).strftime('%Y-%m-%d %H:%M:%S')
+
                 news_items.append({
                     "title": item["title"],
                     "link": item["url"],
                     "source": "Qiita (Popular)",
                     "published": item["updated_at"],
                     "summary": item.get("body", "")[:200], # 本文の先頭200文字を要約用に使用
-                    "image": fetch_og_image(item["url"])
+                    "image": fetch_og_image(item["url"]),
+                    "fetched_at": fetched_at
                 })
                 
                 # デフォルト画像の割当（Qiita）
@@ -277,7 +287,8 @@ def generate_html(news_items):
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Daily AI News Curator</title>
+    <title>AI News Curator</title>
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🤖</text></svg>">
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Outfit:wght@300;600&display=swap" rel="stylesheet">
     <style>
         :root {
@@ -380,6 +391,15 @@ def generate_html(news_items):
             color: var(--accent-color);
             margin-bottom: 12px;
             font-weight: 600;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .fetched-at {
+            color: var(--text-secondary);
+            font-weight: 400;
+            text-transform: none;
         }
 
         h2 {
@@ -430,7 +450,7 @@ def generate_html(news_items):
 <body>
     <div class="container">
         <header>
-            <h1>Daily AI News</h1>
+            <h1>AI News</h1>
             <div class="update-time">Last updated: {{ now.strftime('%Y-%m-%d %H:%M:%S') }}</div>
         </header>
 
@@ -441,7 +461,12 @@ def generate_html(news_items):
                 <img src="{{ item.image }}" alt="{{ item.title }}" class="card-thumbnail" loading="lazy" onerror="this.style.display='none'">
                 {% endif %}
                 <div class="card-body">
-                    <div class="source-tag">{{ item.source }}</div>
+                    <div class="source-tag">
+                        <span>{{ item.source }}</span>
+                        {% if item.fetched_at %}
+                        <span class="fetched-at">取得: {{ item.fetched_at }}</span>
+                        {% endif %}
+                    </div>
                     <h2><a href="{{ item.link }}" target="_blank">{{ item.title }}</a></h2>
                     <div class="summary">
                         {{ item.ja_summary | replace('\\n', '<br>') | safe }}
