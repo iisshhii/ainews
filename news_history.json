@@ -1,5 +1,25 @@
 [
   {
+    "title": "Datadog、「MCP Server」の一般提供を開始",
+    "link": "https://japan.zdnet.com/article/35244855/",
+    "source": "ZDNET Japan",
+    "published": "",
+    "summary": "Datadogは、AIエージェントに統合オブザーバビリティデータへの安全かつリアルタイムなアクセスを提供する「Datadog MCP Server」の一般提供開始を発表した。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35244855/\"><img src=\"https://japan.zdnet.com/storage/2026/03/11/a08ed9ff30cda8e55dfc76476d44270c/t/184/138/d/260311_datadog_l.jpg\" /></a>",
+    "image": "https://japan.zdnet.com/storage/2026/03/11/a08ed9ff30cda8e55dfc76476d44270c/t/184/138/d/260311_datadog_l.jpg",
+    "fetched_at": "2026-03-12 01:13:40",
+    "ja_summary": "Datadogが、AIエージェントに統合監視データを提供する「Datadog MCP Server」の提供を開始しました。\nAIがリアルタイムかつ安全にシステム情報へアクセスできるようになり、運用の自動化や効率化を支援します。"
+  },
+  {
+    "title": "Accelerating Maven Builds: From Snail's Pace 🐌 to Rocket Speed 🚀 (Javaland)",
+    "link": "https://speakerdeck.com/mthmulders/accelerating-maven-builds-from-snails-pace-to-rocket-speed-javaland",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-03-11T12:04:45-04:00",
+    "summary": "Are you tired of watching Maven builds crawl at a snail’s pace, wasting precious development time? Spending too much time at the coffee machine, or fighting battles with wooden swords under the excuse “my code’s compiling”?\n\nJoin us to learn how to supercharge your Maven build! We’ll cover three main steps to start speeding up your project build. Learn how each speeds up your build, when they provide the biggest gains, and what pitfalls await.\n\nTake the next step in boosting your developer productivity by learning practical tips to decrease context switching and increase development speed and feedback cycle. Your journey from snail’s pace to rocket speed begins today!",
+    "image": "https://files.speakerdeck.com/presentations/73ff75c025dd4e0c9a04de2e44571764/preview_slide_0.jpg?38701667",
+    "fetched_at": "2026-03-12 01:13:57",
+    "ja_summary": "・Mavenのビルド速度を劇的に改善するための3つの主要な手法を解説。\n・ビルドの高速化により、待ち時間を削減し開発者の生産性を向上させる。\n・各手法の効果的な適用条件や、導入時に注意すべき落とし穴についても学べる。"
+  },
+  {
     "title": "大手企業でも5割が「専門人材の確保が追い付いていない」　なぜか？",
     "link": "https://www.itmedia.co.jp/business/articles/2603/11/news028.html",
     "source": "ITmedia ビジネス",
@@ -913,23 +933,5 @@
     "summary": "2024年10月に名古屋市内で開業した日本有数のオープンイノベーション拠点「STATION Ai」。十六フィナンシャルグループから出向するコミュニティマネージャーに、STATION Aiのオープンイノベーションの実態と、地域経済への貢献を聞いた。",
     "image": "https://image.itmedia.co.jp/business/articles/2603/10/cover_news006.jpg",
     "ja_summary": "・名古屋に国内最大級の起業拠点「STATION Ai」が開業。\n・製造業の変革と地域経済の活性化を目指すオープンイノベーションを推進。\n・大企業とスタートアップの連携により、産業の新たな生存戦略を模索している。"
-  },
-  {
-    "title": "AIの使いすぎで脳がパンク？「AI脳疲労」の脅威とは",
-    "link": "https://japan.cnet.com/article/35244868/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "Harvard Business Reviewの最新研究によると、職場でAIエージェントやAIツールを過度に使用する従業員は、精神的疲労に陥るリスクが高まっている。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35244868/\"><img src=\"https://japan.cnet.com/storage/2026/03/11/ce9d31a3019a1354020b27b7fb6d706f/t/184/138/d/8_1280x960.jpg\" /></a>",
-    "image": "https://japan.cnet.com/storage/2026/03/11/ce9d31a3019a1354020b27b7fb6d706f/t/184/138/d/8_1280x960.jpg",
-    "ja_summary": "・AIツールの過度な利用により、従業員が精神的な疲労に陥る「AI脳疲労」のリスクが増大している。\n・Harvard Business Reviewの研究で、AI依存が仕事上のメンタルヘルスに悪影響を与えることが示された。\n・業務効率化の代償として脳への負荷が高まっているため、AIとの付き合い方に注意が必要である。"
-  },
-  {
-    "title": "OpenAIがChatGPTによる旅行予約を断念…Booking.comとExpediaの株価が上昇",
-    "link": "https://www.businessinsider.jp/article/2603-openai-shifts-chatgpt-strategy-booking-expedia-surge/",
-    "source": "Business Insider Japan",
-    "published": "Wed, 11 Mar 2026 01:30:00 GMT",
-    "summary": "OpenAIがChatGPTによる予約についての方針を変更したことで、Booking.comとExpediaの株価が上昇しました。アナリストはこれを大きな戦略転換と見ています。",
-    "image": "https://media.loom-app.com/loom/2026/03/06/203dfd35-dfeb-44e9-8938-3eb18bf89b2a/original.jpg?w=1200&amp;h=630",
-    "ja_summary": "・OpenAIがChatGPTによる直接的な旅行予約機能を断念。\n・競合リスクの低下を受け、Booking.comとExpediaの株価が上昇。\n・専門家はOpenAIの戦略における大きな方向転換と分析。"
   }
 ]
