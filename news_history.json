@@ -1,5 +1,55 @@
 [
   {
+    "title": "「AIの幻覚」が新技術に　11社を輩出したSTATION Aiの起業家育成術",
+    "link": "https://www.itmedia.co.jp/business/articles/2603/11/news010.html",
+    "source": "ITmedia ビジネス",
+    "published": "Wed, 11 Mar 2026 07:00:00 +0900",
+    "summary": "STATION Aiが運営する起業家発掘・育成事業「ACTIVATION Lab」運営責任者を務めるコミュニティマネージャーの唐木遥香氏に、起業家育成の取り組みについて聞いた。",
+    "image": "https://image.itmedia.co.jp/business/articles/2603/11/cover_news010.jpg",
+    "fetched_at": "2026-03-11 20:35:55",
+    "ja_summary": "・STATION Aiの起業家育成事業「ACTIVATION Lab」の取り組みを責任者が解説\n・AIの「幻覚（ハルシネーション）」を逆手に取り、新たな技術革新へ昇華させる発想\n・これまで11社のスタートアップを輩出した、独自の起業家育成術の秘訣を詳解"
+  },
+  {
+    "title": "Introducing The Anthropic Institute",
+    "link": "https://www.anthropic.com/news/the-anthropic-institute",
+    "source": "Anthropic (News)",
+    "published": "Wed, 11 Mar 2026 00:00:00 +0000",
+    "summary": "Introducing The Anthropic Institute",
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20Book&amp;backgroundColor=oat",
+    "fetched_at": "2026-03-11 20:36:35",
+    "ja_summary": "AnthropicがAIの安全性や社会的影響の研究を推進する「Anthropic Institute」を設立。\nAI開発の責任ある進め方や、長期的なリスクへの対策を専門的に研究する。\n政策立案者や研究者と連携し、AI社会の健全な発展を牽引する枠組みを構築する。"
+  },
+  {
+    "title": "【2026/3/9最新】Claude Code新機能『Code Review』、早速使ったら2つのPRで$100超かかった話",
+    "link": "https://zenn.dev/canly/articles/1535fde47ca866",
+    "source": "Zenn Trends",
+    "published": "Tue, 10 Mar 2026 11:17:46 GMT",
+    "summary": "はじめに\n2026年3月9日、Claude Codeに新機能「Code Review」がリリースされました。\nPRが作成されると、複数のエージェントがチームとして派遣され、バグを並列で探索・検証・ランク付けしてくれるという機能です。\n早速使ってみたのですが、非常に高価ということが分かったので、コストを抑える方法も含めて共有します。\n\n 想定読者\n\nClaude Code新機能『Code Review』がどんなものか知りたい方\n実際のコスト感を把握したい方\nコストを抑えつつ同等の機能を使いたい方\n\n\n 参考：公式ブログ・ドキュメント\nまずはこちらをご覧ください。\nhttps://cla...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--ukcT64aP--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%25902026%252F3%252F9%25E6%259C%2580%25E6%2596%25B0%25E3%2580%2591Claude%2520Code%25E6%2596%25B0%25E6%25A9%259F%25E8%2583%25BD%25E3%2580%258ECode%2520Review%25E3%2580%258F%25E3%2580%2581%25E6%2597%25A9%25E9%2580%259F%25E4%25BD%25BF%25E3%2581%25A3%25E3%2581%259F%25E3%2582%25892%25E3%2581%25A4%25E3%2581%25AEPR%25E3%2581%25A7%2524100%25E8%25B6%2585...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:ryu%2520fukuda%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2EwYjI3NWVjYTkuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2582%25AB%25E3%2583%25B3%25E3%2583%25AA%25E3%2583%25BC%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzdmNWE3ZGIyYWIuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-03-11 20:36:45",
+    "ja_summary": "・Claude Codeの新機能「Code Review」は、複数エージェントが連携しバグを自動検証する強力な機能。\n・一方でコストが高く、短時間で100ドル超の利用料がかかるケースもあるため注意が必要。\n・実用にあたっては、コストを抑える工夫や運用の見極めが不可欠。"
+  },
+  {
+    "title": "Claude Code の PR Review は「念の為」：念の為になるレビューと任せられるレビューの違いについて",
+    "link": "https://zenn.dev/nrs/articles/bf0e68a1ab75bd",
+    "source": "Zenn Trends",
+    "published": "Tue, 10 Mar 2026 10:54:38 GMT",
+    "summary": "はじめに\nClaude Code PR Review がリリースされましたね。\nhttps://x.com/claudeai/status/2031088171262554195\nhttps://code.claude.com/docs/en/code-review\nドキュメントを読んでみると、カスタマイズの手段として CLAUDE.md と REVIEW.md が用意されています。\nレビュー時に考慮してほしい観点をこれらのファイルに記述できる仕組みです。\nプロジェクト固有のルールやコーディング規約を伝えておけば、レビュー時にそれを考慮してくれます。\nエージェントのカスタマイズは限定...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--qK0FJW9K--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%2520%25E3%2581%25AE%2520PR%2520Review%2520%25E3%2581%25AF%25E3%2580%258C%25E5%25BF%25B5%25E3%2581%25AE%25E7%2582%25BA%25E3%2580%258D%25EF%25BC%259A%25E5%25BF%25B5%25E3%2581%25AE%25E7%2582%25BA%25E3%2581%25AB%25E3%2581%25AA%25E3%2582%258B%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25E3%2581%25A8%25E4%25BB%25BB%25E3%2581%259B%25E3%2582%2589%25E3%2582%258C%25E3%2582%258B%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25E3%2581%25AE%25E9%2581%2595%25E3%2581%2584%25E3%2581%25AB%25E3%2581%25A4%25E3%2581%2584%25E3%2581%25A6%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:nrs%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2UzODcxZGFkYjEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-03-11 20:36:45",
+    "ja_summary": "・Claude CodeのPRレビュー機能では、CLAUDE.md等で規約や観点を指定可能。\n・AIによるレビューはあくまで補助（念の為）であり、最終確認は人間が行う必要がある。\n・AIへの指示精度を高める仕組みはあるが、現状では任せきりにせず使い分けが肝要。"
+  },
+  {
+    "title": "Opus4.6でdraw.io図を生成したらもはやLLMの前提が崩れてた件",
+    "link": "https://zenn.dev/acntechjp/articles/4ab4491afd5a8b",
+    "source": "Zenn Trends",
+    "published": "Tue, 10 Mar 2026 09:18:14 GMT",
+    "summary": "!\nこの記事ではdraw.ioを使ってClaude Codeで作図する実践パートがありますが、MCPサーバーもSkillsも使っておりません。すべてOpus4.6の性能だけで作図してます。\n\n\n はじめに\n「LLMは空間的な推論が苦手」「テキストベースで座標を扱うのだから、複雑な図はぐちゃぐちゃになるはず」──これは自分がずっと持っていた前提でした。おそらく同じように考えている方も多いのではないでしょうか。\n実際、以前のモデルで試した限りでは、この前提はおおむね正しかったと思います。構成が複雑になれば矢印が交差して読みにくい図になり、結局は人力で修正することになる。グラフ理論的に考えても...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--xcRFihrT--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Opus4.6%25E3%2581%25A7draw.io%25E5%259B%25B3%25E3%2582%2592%25E7%2594%259F%25E6%2588%2590%25E3%2581%2597%25E3%2581%259F%25E3%2582%2589%25E3%2582%2582%25E3%2581%25AF%25E3%2582%2584LLM%25E3%2581%25AE%25E5%2589%258D%25E6%258F%2590%25E3%2581%258C%25E5%25B4%25A9%25E3%2582%258C%25E3%2581%25A6%25E3%2581%259F%25E4%25BB%25B6%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:k.abe%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2U2ZDA4MDY5ODcuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Accenture%2520Japan%2520%2528%25E6%259C%2589%25E5%25BF%2597%2529%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jS2xBSHVmRjZ5dUJqM0VyNXZkTnhPeTk3MXp1bnRJeHRRVXp4Si1RYjdMWUduOU1nPXM5Ni1j%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-03-11 20:36:45",
+    "ja_summary": "・Claude 3.5 Opusは、外部ツールを用いず単体で正確なdraw.io図を生成可能。\n・「LLMは空間推論が苦手」という従来の前提が覆る高い構成能力を実証した。\n・複雑な図形も自動で適切に配置され、人力修正なしでの実用レベルに達している。"
+  },
+  {
     "title": "NTT島田社長がMWCで描いた次の主役　ドコモの「赤」からグループの「青」へ (通信のミライ)",
     "link": "https://business.nikkei.com/atcl/gen/19/00550/030900113/",
     "source": "日経ビジネス 最新",
@@ -866,50 +916,5 @@
     "summary": "",
     "image": "https://i-invdn-com.investing.com/news/oracle_2_M_1440048709.jpg",
     "ja_summary": "・ソフトバンクグループなどが、AI関連の事業戦略や投資先を見直す方針を固めた。\n・AI市場の急速な変化に対応するため、収益性重視へ舵を切る可能性がある。\n・今後の成長戦略として、より選別的な投資とリソースの再配分を進める見通し。"
-  },
-  {
-    "title": "AI×ステーブルコインで広がる560兆円市場　不動産も音楽もトークン化 (ステーブルコイン革命)",
-    "link": "https://business.nikkei.com/atcl/gen/19/00850/030900004/",
-    "source": "日経ビジネス 最新",
-    "published": "",
-    "summary": "AIエージェントを活用した決済送金の金融インフラとしてステーブルコインに期待が集まる。「トークン化預金」などと合わせ、ブロックチェーン上に流通する資産の市場規模は30年に3.6兆ドル（約560兆円）まで広がる予測だ。",
-    "image": "https://business.nikkei.com/atcl/gen/19/00850/030900004/fb.jpg",
-    "ja_summary": "・AIによる自動決済とステーブルコインが連携し、新たな金融インフラとして注目を集めている。\n・不動産や音楽などの資産トークン化が加速し、市場規模は2030年に約560兆円へ達する見通し。\n・ブロックチェーン技術の活用により、資産流動性と決済効率が劇的に向上する。"
-  },
-  {
-    "title": "ヤン・ルカン氏によるAI企業、「世界モデル」構築へトヨタ・NVIDIAらから大規模調達",
-    "link": "https://www.watch.impress.co.jp/docs/news/2092206.html",
-    "source": "Impress Watch",
-    "published": "",
-    "summary": "AIスタートアップのAdvanced Machine Intelligence(AMI)は10日、AIシステムの開発に向けて10億3,000万ドル(約1,624億円)を調達したと発表した。",
-    "image": "https://www.watch.impress.co.jp/img/ipw/list/2092/206/01.jpg",
-    "ja_summary": "・AIスタートアップのAMIが約1,624億円の大型調達を実施。\n・ヤン・ルカン氏が参画し、AIの「世界モデル」構築を目指す。\n・トヨタやNVIDIAなどが出資し、AI開発の加速に注目が集まる。"
-  },
-  {
-    "title": "桜の写真から「満開日」予測　地域毎に一番の見頃を特定　ウェザーニュース",
-    "link": "https://www.watch.impress.co.jp/docs/news/2092197.html",
-    "source": "Impress Watch",
-    "published": "",
-    "summary": "ウェザーニューズは、「ウェザーニュース」において、桜(ソメイヨシノ)のつぼみの写真から「開花日」と「満開日」を予測する「桜AI開花予想」の提供を開始した。今年は新たに「満開日」の予測に対応した。",
-    "image": "https://www.watch.impress.co.jp/img/ipw/list/2092/197/wn00.jpg",
-    "ja_summary": "・ウェザーニューズが桜の「満開日」をAIで予測するサービスを開始。\n・ユーザーが投稿したつぼみの写真から地域ごとの見頃を特定。\n・従来の開花予想に加え、今年から満開予想にも対応。"
-  },
-  {
-    "title": "WBC巡りデマ拡散 AI時代の課題",
-    "link": "https://news.yahoo.co.jp/pickup/6572577?source=rss",
-    "source": "Yahoo!ニュース IT・科学",
-    "published": "Mon, 09 Mar 2026 08:01:53 GMT",
-    "summary": "",
-    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/9/1aeb0a8fda2948c1632ce7ef61140252e8b9c455990bea2d4000c98b83aa69d3.jpg",
-    "ja_summary": "・WBCを巡り、AI生成の偽画像や情報がSNSで拡散される事態が発生。\n・真偽不明な情報が流布するAI時代のフェイクニュース拡散リスクが浮き彫りに。\n・AIリテラシーの向上と、情報源の正確性を確認する慎重な姿勢が求められている。"
-  },
-  {
-    "title": "Sydney will become Anthropic’s fourth office in Asia-Pacific",
-    "link": "https://www.anthropic.com/news/sydney-fourth-office-asia-pacific",
-    "source": "Anthropic (News)",
-    "published": "Tue, 10 Mar 2026 00:00:00 +0000",
-    "summary": "Sydney will become Anthropic’s fourth office in Asia-Pacific",
-    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Globe&amp;backgroundColor=sky",
-    "ja_summary": "・AI企業Anthropicがシドニーに新オフィスを開設\n・アジア太平洋地域では4番目の拠点となる\n・同地域の事業拡大に向けた動きを強化"
   }
 ]
