@@ -1,5 +1,45 @@
 [
   {
+    "title": "アリババクラウドが日本の人員を2.5倍に、国内にデータセンターも新設",
+    "link": "https://xtech.nikkei.com/atcl/nxt/news/24/03131/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "中国アリババ集団傘下のAlibaba Cloud（アリババクラウド）は2026年3月11日、2029年までにアリババクラウド・ジャパンサービスの人員を2.5倍、パートナー企業を100社にそれぞれ増やす方針を明らかにした。生成AI（人工知能）やマルチモーダルAIの費用対効果の高さなどを訴求し、日本のエンタープライズ市場への展開を加速する。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/news/24/03131/Tomp.jpg?20220512",
+    "fetched_at": "2026-03-11 18:26:01",
+    "ja_summary": "・アリババクラウドが日本での人員を2.5倍、パートナー企業を100社へ拡大。\n・国内にデータセンターを新設し、日本市場での事業基盤を強化。\n・生成AIなどの高コスパなサービスを武器に、国内大企業向けの展開を加速する。"
+  },
+  {
+    "title": "OpenAIのロボット部門の主要スタッフが、ペンタゴンとの契約後に辞任「これは原則の問題だった」",
+    "link": "https://www.businessinsider.jp/article/2603caitlin-kalinowski-quits-openai-robotics-head-pentagon-deal-sam-altman/",
+    "source": "Business Insider Japan",
+    "published": "Tue, 10 Mar 2026 22:15:00 GMT",
+    "summary": "OpenAIの技術部門スタッフ、ケイトリン・カリノウスキー氏は3月7日に辞任を発表しました。Xで同社と国防総省の契約を批判し、AI監視や致死的自律システムへの懸念を示しました。",
+    "image": "https://media.loom-app.com/loom/2026/03/10/8ab43350-3ac2-4a0b-a046-1f368a61e372/original.jpg?w=1200&amp;h=630",
+    "fetched_at": "2026-03-11 18:26:22",
+    "ja_summary": "・OpenAIの元技術スタッフが、国防総省との契約に抗議し辞任。\n・AIの兵器利用や監視システムへの転用に強い懸念を表明。\n・企業の軍事協力に対する社内の倫理的対立が浮き彫りとなった。"
+  },
+  {
+    "title": "Barclays、AI事業の見通し改善を受けてOracle目標株価を240ドルに引き上げ",
+    "link": "https://jp.investing.com/news/analyst-ratings/article-93CH-1454165",
+    "source": "Investing.com ニュース",
+    "published": "2026-03-11 09:14:02",
+    "summary": "",
+    "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+    "fetched_at": "2026-03-11 18:26:31",
+    "ja_summary": "・BarclaysがAI事業の成長を評価し、Oracleの目標株価を240ドルへ引き上げ。\n・AI需要の拡大が同社の収益見通しを大きく押し上げている。\n・市場の期待が高まる中、強気な見通しが示された形。"
+  },
+  {
+    "title": "LLVMに対する32ビット定数除算の改善",
+    "link": "https://zenn.dev/herumi/articles/const-div-revised5",
+    "source": "Zenn Trends",
+    "published": "Tue, 10 Mar 2026 02:00:38 GMT",
+    "summary": "初めに\nLLVMはコンパイラ基盤で、抽象的なCPU命令を表す中間表現LLVM-IRに対して最適化を行ったり、ターゲットCPU用のアセンブリ言語コードを生成したりする機能を持ちます。\n今回、符号無し32ビット変数xに対するx/7のような定数除算についてLLVMの最適化を改善するプルリクエスト[SelectionDAG] Optimize 32-bit udiv with 33-bit magic constants on 64-bit targetsがllvm:mainにマージされました。LLVMはC/C++/Rust/Swiftなど様々な言語のコンパイラ実装に利用されているため、それ...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--rCww5UkZ--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:LLVM%25E3%2581%25AB%25E5%25AF%25BE%25E3%2581%2599%25E3%2582%258B32%25E3%2583%2593%25E3%2583%2583%25E3%2583%2588%25E5%25AE%259A%25E6%2595%25B0%25E9%2599%25A4%25E7%25AE%2597%25E3%2581%25AE%25E6%2594%25B9%25E5%2596%2584%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:herumi%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2E4ZWU3NTI0MjAuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-03-11 18:26:52",
+    "ja_summary": "・コンパイラ基盤「LLVM」において、32ビットの定数除算を高速化する最適化が実装されました。\n・64ビット環境で33ビットの魔法の定数を用いる手法により、演算効率が改善されています。\n・LLVMを採用するC++やRust等のプログラミング言語全体の実行速度向上に寄与します。"
+  },
+  {
     "title": "Gemini Embedding 2 の概要",
     "link": "https://note.com/npaka/n/n1e39b1e67561",
     "source": "note (npaka)",
@@ -865,41 +905,5 @@
     "summary": "日立製作所は10日、日本企業として初めて「Agentic AI Foundation(AAIF)」にゴールドメンバーとして加入したと発表した。AAIFはThe Linux Foundation傘下でエージェント型AIの透明性や標準化を推進する中立的組織。日立はAAIFの中核プロジェクトであるModel Context Protocol(MCP)などの活動に参画する。",
     "image": "https://www.watch.impress.co.jp/img/ipw/list/2092/111/01.jpg",
     "ja_summary": "・日立製作所が日本企業で初めてエージェントAIの標準化団体「AAIF」に参画。\n・The Linux Foundation傘下の組織で、AIの透明性確保や標準化を推進。\n・AI連携の国際規格である「Model Context Protocol（MCP）」等の開発に貢献する。"
-  },
-  {
-    "title": "GPT-5.4 の概要",
-    "link": "https://note.com/npaka/n/nb8d78062e804",
-    "source": "note (npaka)",
-    "published": "Fri, 06 Mar 2026 06:38:29 +0900",
-    "summary": "<p id=\"446f25fd-ed1e-4d5d-9186-4d72087028d3\" name=\"446f25fd-ed1e-4d5d-9186-4d72087028d3\">以下の記事が面白かったので、簡単にまとめました</p><figure id=\"a2c20a1b-be7c-49fb-9678-da2ee76cf942\" name=\"a2c20a1b-be7c-49fb-9678-da2ee76cf942\"><blockquote><p id=\"985a9c79-bdd5-40b7-957f-05b61360dfc7\" name=\"985a9c79-bdd5-40b7-957f-05b61360dfc7\"><strong>・</strong><a href=\"https://openai.com/index/introducing-gpt-5-4/\" rel=\"nofollow noopener\" target=\"_blank\"><strong>Introducing GPT‑5.4</strong></a></p></blockquote>\n<figcaption></figcaption></figure><br /><a href=\"https://note.com/npaka/n/nb8d78062e804\">続きをみる</a>",
-    "image": "https://assets.st-note.com/production/uploads/images/256839826/rectangle_large_type_2_b38ecea6140f394dea22e16944a7dc92.png?width=800",
-    "ja_summary": "OpenAIが最新モデル「GPT-5.4」を発表しました。\n既存モデルから性能や機能がどのように進化したのかを解説しています。\n詳細は元記事で確認可能です。"
-  },
-  {
-    "title": "「OpenClaw」を代替する「NanoClaw」--簡潔で安全なAIエージェントの選択肢",
-    "link": "https://japan.zdnet.com/article/35244634/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "「OpenClaw」代替ツールとして軽量な「NanoClaw」の開発者は、安全なエージェントAIを実現する鍵は「隔離」にあり、それこそがNanoClawの真骨頂だと説明する。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35244634/\"><img src=\"https://japan.zdnet.com/storage/2026/03/05/6b2faa2ca22a35d2ce8f5055c5b9789f/t/184/138/d/nanoclaw-use_l.jpg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2026/03/05/6b2faa2ca22a35d2ce8f5055c5b9789f/t/184/138/d/nanoclaw-use_l.jpg",
-    "ja_summary": "・「OpenClaw」の代替として、軽量かつ安全なAIエージェント「NanoClaw」が登場。\n・開発者は安全性の核を「隔離」技術にあると強調。\n・シンプルでセキュアなAI運用を求めるユーザーに向けた新たな選択肢となる。"
-  },
-  {
-    "title": "京王電鉄、AIを活用した乗務員の業務支援システムの運用を開始",
-    "link": "https://japan.zdnet.com/article/35244840/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "京王電鉄は、音声や文字入力などでAIが社内マニュアルなどの膨大な情報の中から必要な情報を迅速に乗務員や運行指令などに提供するシステムの運用を開始する。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35244840/\"><img src=\"https://japan.zdnet.com/storage/2026/03/10/d8a1074f40fdeedc36c4d8316e58c0c3/t/184/138/d/keiorailways0310_l.jpg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2026/03/10/d8a1074f40fdeedc36c4d8316e58c0c3/t/184/138/d/keiorailways0310_l.jpg",
-    "ja_summary": "・京王電鉄が乗務員向けにAI業務支援システムの運用を開始。\n・音声や文字入力で、膨大な社内マニュアルから即座に情報を検索可能。\n・業務の効率化と迅速な情報伝達により、運行体制を強化する。"
-  },
-  {
-    "title": "OpenAI to acquire Promptfoo",
-    "link": "https://openai.com/index/openai-to-acquire-promptfoo",
-    "source": "OpenAI",
-    "published": "Mon, 09 Mar 2026 10:00:00 GMT",
-    "summary": "OpenAI is acquiring Promptfoo, an AI security platform that helps enterprises identify and remediate vulnerabilities in AI systems during development.",
-    "image": "https://openai.com/favicon.ico",
-    "ja_summary": "・OpenAIがAIセキュリティ基盤「Promptfoo」を買収\n・AI開発における脆弱性の特定および修正ツールを強化\n・企業向けAIシステムの安全性と信頼性向上を目指す"
   }
 ]
