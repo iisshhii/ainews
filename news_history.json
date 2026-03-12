@@ -1,5 +1,75 @@
 [
   {
+    "title": "10万切りMacBook NeoとAir､8.5万円差の判断軸 | インターネット | 東洋経済オンライン",
+    "link": "https://toyokeizai.net/articles/-/937671?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+    "source": "東洋経済オンライン",
+    "published": "Fri, 13 Mar 2026 08:00:00 +0900",
+    "summary": "Appleが3月11日に発売した新型ノートパソコン「MacBook Neo」が話題を呼んでいる。価格は9万9800円（税込…",
+    "image": "https://tk.ismcdn.jp/mwimgs/f/5/1200w/img_f5c89b44ce54b63b114ff1437ecce1c3116675.jpg?nextgen=false",
+    "fetched_at": "2026-03-13 08:32:47",
+    "ja_summary": "・Appleが新型ノートPC「MacBook Neo」を9万9800円で発売。\n・既存の「MacBook Air」との価格差は約8.5万円。\n・用途やスペックを比較し、両者のどちらを選ぶべきかの判断軸を解説。"
+  },
+  {
+    "title": "AIの「見えない影響力」　米政府とAI企業の衝突が突き付けた問い",
+    "link": "https://www.itmedia.co.jp/business/articles/2603/13/news020.html",
+    "source": "ITmedia ビジネス",
+    "published": "Fri, 13 Mar 2026 08:00:00 +0900",
+    "summary": "米アンソロピックがAIの用途を巡って米政府と対立し、政府の調達から排除された。AI技術の利用範囲が拡大する中で、テクノロジー企業と利用者の関係も見直されつつある。社会への影響力の大きさを直視し、どのように利用していくべきか判断する必要がある。",
+    "image": "https://image.itmedia.co.jp/business/articles/2603/13/cover_news020.jpg",
+    "fetched_at": "2026-03-13 08:32:48",
+    "ja_summary": "・米アンソロピック社がAIの利用方針を巡り政府と対立し、調達から排除された。\n・AIの社会的な影響力が増す中、企業と利用者の関係性が見直されている。\n・AI技術をどう制御し活用すべきか、社会全体での判断が急務となっている。"
+  },
+  {
+    "title": "アップルの音楽検索アプリ「Shazam」がChatGPTに対応",
+    "link": "https://www.watch.impress.co.jp/docs/news/2093080.html",
+    "source": "Impress Watch",
+    "published": "",
+    "summary": "アップルの音楽検索アプリ「Shazam」が「ChatGPT」に対応した。",
+    "image": "https://www.watch.impress.co.jp/img/ipw/list/2093/080/a01.jpg",
+    "fetched_at": "2026-03-13 08:33:02",
+    "ja_summary": "・音楽検索アプリ「Shazam」が「ChatGPT」と連携を開始。\n・音楽の検索体験がAIによってより便利に。"
+  },
+  {
+    "title": "アドビ・システムズ2026年度第1四半期決算：AI成長加速とCEO交代発表",
+    "link": "https://jp.investing.com/news/company-news/article-93CH-1457563",
+    "source": "Investing.com ニュース",
+    "published": "2026-03-12 23:06:00",
+    "summary": "",
+    "image": "https://csv-storage.forexpros.com/slides/86254fece5084081f53c749f6d4e612f4ad388b8da220bf632a2f71ec9ee2bbb.png",
+    "fetched_at": "2026-03-13 08:33:21",
+    "ja_summary": "・アドビの第1四半期決算は、AI機能の導入で成長が加速。\n・現CEOの後任として新体制への移行を発表。\n・AI分野でのシェア拡大と経営体制の刷新が主要トピック。"
+  },
+  {
+    "title": "バグチケットに気づく頃にはもう直っている仕組みを作った",
+    "link": "https://zenn.dev/notahotel/articles/399fc929f48d01",
+    "source": "Zenn Trends",
+    "published": "Thu, 12 Mar 2026 07:09:48 GMT",
+    "summary": "タイトルの通りです。実装的には大したことはありません。GitHubのIssue起票をトリガーにして、Claude Code Actionを発火するだけです。\n\nclaude-qa-auto-fix.yml\nname: Auto Fix QA Bug\n\non:\n  issues:\n    types: [labeled]\n\n...\n\njobs:\n  auto-fix-qa-bug:\n    if: |\n      github.event.label.name == 'QA-bug'\n\n...\n\n    steps:\n...\n      - name: Run Claude QA bugf...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--74FlSrbY--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2590%25E3%2582%25B0%25E3%2583%2581%25E3%2582%25B1%25E3%2583%2583%25E3%2583%2588%25E3%2581%25AB%25E6%25B0%2597%25E3%2581%25A5%25E3%2581%258F%25E9%25A0%2583%25E3%2581%25AB%25E3%2581%25AF%25E3%2582%2582%25E3%2581%2586%25E7%259B%25B4%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%2584%25E3%2582%258B%25E4%25BB%2595%25E7%25B5%2584%25E3%2581%25BF%25E3%2582%2592%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:haru067%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzAxOGNjZTA4NTYuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:NOT%2520A%2520HOTEL%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzkxZWZiZWIxYTAuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-03-13 08:33:27",
+    "ja_summary": "・GitHubで「QA-bug」ラベルが貼られた際、Claudeが自動的にコード修正を行う仕組みを構築。\n・Issueに気づく前に修正が完了するワークフローを実装し、対応コストを削減。\n・GitHub ActionsとClaudeを連携させるシンプルな構成で、即時の自動対応を実現。"
+  },
+  {
+    "title": "Geminiと暮らす GeminiClaw 🦀",
+    "link": "https://zenn.dev/emonn/articles/e2a71108b39360",
+    "source": "Zenn Trends",
+    "published": "Wed, 11 Mar 2026 13:36:47 GMT",
+    "summary": "はじめに\n日々夢に見たようなプロダクトが次々にタイムラインを賑わせている昨今、皆様いかがお過ごしでしょうか。\nタイムラインを賑わせてる筆頭株、今や約300k Star (記事執筆時) というPersonal AI Assistant OpenClaw 。当初何やらセキュリティ的に非常にまずそうという不安だけが先走り、手を出すのを先送りしていました。\nただPersonal Agentは個人的に作りたいと夢見てきたものでして、2026年のトレンドは車輪の再発明 (多分)。既存の優秀なAgent Engineの外側を少し拡張する方向で再現を試みることで (比較的) 手軽に技術的知見を深めら...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--9MnUabWq--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Gemini%25E3%2581%25A8%25E6%259A%25AE%25E3%2582%2589%25E3%2581%2599%2520GeminiClaw%2520%2520%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:e-mon%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzE1ZmVkYTVkYWMuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-03-13 08:33:28",
+    "ja_summary": "・AIエージェント「OpenClaw」の仕組みをベースに、独自の拡張を加えた「GeminiClaw」を開発。\n・既存の優秀なエンジンを活用し、技術的な知見を効率的に深めるプロジェクト。\n・将来的なトレンドを見据え、パーソナルAIアシスタントの自作に挑戦。"
+  },
+  {
+    "title": "AWS Transform for Mainframeをre:Capする",
+    "link": "https://speakerdeck.com/sato4mi/aws-transform-for-mainframewore-capsuru",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-03-12T19:15:31-04:00",
+    "summary": "",
+    "image": "https://files.speakerdeck.com/presentations/f4edf416e44642e4a72b7c2eb38ab054/preview_slide_0.jpg?38718950",
+    "fetched_at": "2026-03-13 08:33:29",
+    "ja_summary": "AWSのメインフレーム移行支援プログラム「AWS Transform for Mainframe」の重要ポイントを解説。\nメインフレームからクラウドへの移行を加速させるためのツールや知見、最適化手法を紹介。\n複雑なレガシーシステムの刷新を、安全かつ効率的に進めるための戦略を再確認できる内容。"
+  },
+  {
     "title": "Unity MCP + CodexでAIにUnityを操作させてキャラクターを踊らせてみた",
     "link": "https://qiita.com/kumi0708/items/e4e5d864219d1693d0d2",
     "source": "Qiita (Popular)",
@@ -928,75 +998,5 @@
     "image": "https://www.digital.go.jp/themes/custom/gov_theme_da_2023/assets/images/ogp.png",
     "fetched_at": "2026-03-12 17:34:37",
     "ja_summary": "・四国で自治体のAI活用事例を横展開するための「共創PFキャンプ」を開催。\n・AI導入の成功事例を地域間で共有し、他自治体でも再利用可能な仕組みを議論。\n・自治体間の連携を通じて、AI活用の迅速化と課題解決の効率化を目指す。"
-  },
-  {
-    "title": "共創PFキャンプinデジタル庁～自治体業務のAI活用編～を開催しました",
-    "link": "https://www.digital.go.jp/news/d2ec4dcd-0648-48c9-90fe-96586bc29725",
-    "source": "デジタル庁",
-    "published": "Wed, 11 Mar 2026 15:00:00 +0900",
-    "summary": "",
-    "image": "https://www.digital.go.jp/themes/custom/gov_theme_da_2023/assets/images/ogp.png",
-    "fetched_at": "2026-03-12 17:34:38",
-    "ja_summary": "・デジタル庁が自治体職員向けに「共創PFキャンプ」を開催。\n・生成AI等の活用を通じた行政業務の効率化・高度化を議論。\n・自治体間のノウハウ共有や、AI導入の課題解決を促進。"
-  },
-  {
-    "title": "2026 Cloud Field Day 25 - The Rise and Fall of Cloud Computing - Again!",
-    "link": "https://speakerdeck.com/pugs/2026-cloud-field-day-25-the-rise-and-fall-of-cloud-computing-again",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-03-11T17:12:51-04:00",
-    "summary": "History of several boom and bust cycles in \"cloud\" computing - and a warning that the next bust will be soon.",
-    "image": "https://files.speakerdeck.com/presentations/bc9db4bd54f944d5b03cf625cebdd16d/preview_slide_0.jpg?38702973",
-    "fetched_at": "2026-03-12 17:34:53",
-    "ja_summary": "・クラウドコンピューティングはこれまで何度もブームと衰退を繰り返してきた。\n・現在は再びブームにあるが、歴史的なサイクルに基づくと近いうちに衰退期が訪れる。\n・次なる「クラウドの崩壊」に備え、過度な依存や期待を見直すべきである。"
-  },
-  {
-    "title": "Zeal of the Convert: Taming Shai-Hulud with AI",
-    "link": "https://speakerdeck.com/ramimac/zeal-of-the-convert-taming-shai-hulud-with-ai",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-03-11T17:12:08-04:00",
-    "summary": "2025 was the year of Shai-Hulud: a series of attacks leaking massive amounts of victim data onto GitHub, ungraciously scheduled for whenever I was traveling. As a responder, these internet-scale incidents were a real-world lab for evolving AI capabilities. This talk is a raw post-mortem of moving from simple “vibe-coded” scrapers to multi-agent triage engines that parallelize victimology and automate secret-impact analysis. Demos will drive a conversation on what actually worked, where the ground has shifted, and how “lazy” AI will let you down. Walk away with prompts, scripts, skills, and lessons from my scars.",
-    "image": "https://files.speakerdeck.com/presentations/97eb9f33f8c14c7f9cceb107f9758afe/preview_slide_0.jpg?38703032",
-    "fetched_at": "2026-03-12 17:34:53",
-    "ja_summary": "・「Shai-Hulud」による大規模な機密データ漏洩事案を通じ、AIを活用したインシデント対応手法を解説。\n・単なるスクレイピングから、マルチエージェントによる自動分析・トリアージへと進化した実戦的アプローチを公開。\n・AI活用の成功例や落とし穴、実務で使えるプロンプトやスクリプトを通じた教訓を共有。"
-  },
-  {
-    "title": "Claude Codeにバックドア入りOSSを渡したら、何の疑いもなく実装した",
-    "link": "https://qiita.com/NF0000/items/66510f959b1c22f011a7",
-    "source": "Qiita (Popular)",
-    "published": "2026-03-10T12:55:45+09:00",
-    "summary": "## はじめに\n\nバックドアが仕込まれたOSSをClaude Codeに渡して「機能追加して」と頼んだら、何の疑いもなく、バックドアごと踏襲して実装しました。\n\n[前回の記事](https://qiita.com/NF0000/items/6743216583b66168ec12)では、プロンプトインジェクションによる`.env`漏洩を検証しました。今回は**もっと現実的なシナリオ**で、GitH",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmF2YXRhcnMuZ2l0aHVidXNlcmNvbnRlbnQuY29tJTJGdSUyRjg0OTc2MzMxJTNGdiUzRDQ_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPTQ1ODZjZTJkODE2MTFkMDhkM2M0YzJiYWViNmFlOWEz%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D80c260d69443a0d414ef56dcc9784820?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9Q2xhdWRlJTIwQ29kZSVFMyU4MSVBQiVFMyU4MyU5MCVFMyU4MyU4MyVFMyU4MiVBRiVFMyU4MyU4OSVFMyU4MiVBMiVFNSU4NSVBNSVFMyU4MiU4QU9TUyVFMyU4MiU5MiVFNiVCOCVBMSVFMyU4MSU5NyVFMyU4MSU5RiVFMyU4MiU4OSVFMyU4MCU4MSVFNCVCRCU5NSVFMyU4MSVBRSVFNyU5NiU5MSVFMyU4MSU4NCVFMyU4MiU4MiVFMyU4MSVBQSVFMyU4MSU4RiVFNSVBRSU5RiVFOCVBMyU4NSVFMyU4MSU5NyVFMyU4MSU5RiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPWMyMjc2ODk4YzdlMjA4OWQ1NDJlYTEyMWJlYmZmNWE4&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBORjAwMDAmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz02NjA0OTZiMmEyNjUzY2ExOGIzMzgzZjA4N2Y1ZTQ1OA&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=a2e532178a18030e740508a2537a1f93",
-    "fetched_at": "2026-03-12 17:34:54",
-    "ja_summary": "・Claude Codeにバックドア入りのOSSを読み込ませたところ、脆弱性を見抜けないまま悪意あるコードを実装した。\n・AIは機能追加などの指示に従う際、既存コードのセキュリティリスクまで精査しない危険性が浮き彫りとなった。\n・開発現場でAIツールを利用する際は、コードの脆弱性混入に対する厳重なチェックが不可欠である。"
-  },
-  {
-    "title": "エンジニアがChatGPTを使いこなせていないかもしれない話",
-    "link": "https://qiita.com/kamome_susume/items/e80b763797d073815710",
-    "source": "Qiita (Popular)",
-    "published": "2026-03-09T19:04:15+09:00",
-    "summary": "突然ですが、こんな気持ちになったことありませんか？\n\n「ChatGPTって、なんとなく一般向けのツールっぽいんだよな」\n\n「文章を書いてもらうくらいなら、Copilotで十分じゃない？」「API直接叩いた方がカスタマイズできるし」\n\nエンジニアあるあるだと思います。APIが使えるからこそ、**ChatGPTの公式UIをじっくり触ったことがない**という方、意外と多いんじゃないでしょうか。\n\nこの記",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYxNjkzMjQ4JTJGZDhlMmU1OWNiMDVmY2Y3MDQ3ZDgyN2ZjNDlkNDAwMTkzZTU5NDdjOSUyRnhfbGFyZ2UucG5nJTNGMTY4NjMxODg1ND9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9ZDRiNjcyYjg4ZWUxYTRkNjI1ZDRjOGFkMzVkMzQ5NjI%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Ddc9a014e564257547b64353543c58776?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgyJUE4JUUzJTgzJUIzJUUzJTgyJUI4JUUzJTgzJThCJUUzJTgyJUEyJUUzJTgxJThDQ2hhdEdQVCVFMyU4MiU5MiVFNCVCRCVCRiVFMyU4MSU4NCVFMyU4MSU5MyVFMyU4MSVBQSVFMyU4MSU5QiVFMyU4MSVBNiVFMyU4MSU4NCVFMyU4MSVBQSVFMyU4MSU4NCVFMyU4MSU4QiVFMyU4MiU4MiVFMyU4MSU5NyVFMyU4MiU4QyVFMyU4MSVBQSVFMyU4MSU4NCVFOCVBOSVCMSZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTAxNjg3NTliZWIxMWZjM2M2ZTQ2NWRkN2Y1NDEyNWMx&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBrYW1vbWVfc3VzdW1lJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9ZGRiZTIzN2VhYmFmZjQ1YThiNWYzYWQyMWVhNzMzOTI&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=da92f3629a2cc4984b22934dd1eec179",
-    "fetched_at": "2026-03-12 17:34:55",
-    "ja_summary": "エンジニアはAPI利用に慣れている一方で、ChatGPTの公式UIを使いこなせていない傾向がある。\n開発効率を上げるためには、ツールとしてのChatGPTの機能を深く理解し活用することが重要。\nAPIとUIの特性を切り分けて使い分けることで、エンジニアの業務はさらに効率化できる。"
-  },
-  {
-    "title": " ローカルLLMで動くAIコーディングエージェントをPySide6で作った話",
-    "link": "https://qiita.com/rikiza1989/items/e9f3a26e21792ae6db2a",
-    "source": "Qiita (Popular)",
-    "published": "2026-03-12T16:12:45+09:00",
-    "summary": "## はじめに\n\n「プロジェクトの目標を日本語で入力するだけで、Pythonファイルの設計・実装・テスト・デバッグまで全部やってくれるツールがあったら便利じゃないか？」\n\nそんな発想から生まれたのが **Agentic Coder** です。\n\nGitHub CopilotやChatGPTのようなクラウドベースのAIツールとは根本的に異なり、このアプリは**完全にローカル環境で動作**します。AP",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGNDA0Nzg5MiUyRnByb2ZpbGUtaW1hZ2VzJTJGMTc3MjYxMjQzMD9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NGQzOGIyYzYwOTg1YzJiYjUxNzYzNWRkMzY5ODQ5MjM%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D0a2ff90d9c1fcb7c3d4364ffd68f562f?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JTIwJUUzJTgzJUFEJUUzJTgzJUJDJUUzJTgyJUFCJUUzJTgzJUFCTExNJUUzJTgxJUE3JUU1JThCJTk1JUUzJTgxJThGQUklRTMlODIlQjMlRTMlODMlQkMlRTMlODMlODclRTMlODIlQTMlRTMlODMlQjMlRTMlODIlQjAlRTMlODIlQTglRTMlODMlQkMlRTMlODIlQjglRTMlODIlQTclRTMlODMlQjMlRTMlODMlODglRTMlODIlOTJQeVNpZGU2JUUzJTgxJUE3JUU0JUJEJTlDJUUzJTgxJUEzJUUzJTgxJTlGJUU4JUE5JUIxJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9ZTM0YzcyNGJhMTYxZmYyYjNlMWNjODFlOGJjODhjMmU&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDByaWtpemExOTg5JnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9ZGQyZWIzNWIxOGQ1NDkyYmUxOTRiYzYyODc5NzczOGE&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=f543be3455c172210f38c9155d8d4725",
-    "fetched_at": "2026-03-12 17:34:57",
-    "ja_summary": "・日本語の指示で設計からデバッグまで全自動で行うAIコーディングツールを開発。\n・外部クラウドを使わず、ローカル環境のみで動作するためセキュア。\n・PySide6を用いて構築された、個人開発のAIエージェント事例。"
-  },
-  {
-    "title": "残業時間が4割減　特注設備メーカーがTeamsに独自AI、指示や理解を正確に",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11569/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "名古屋で特注設備の設計・開発を行う広島では、自社のノウハウを学習させたAIをTeamsと組み合わせ、プロジェクトメンバーの業務を支援する「WAIOS（ワイオス）」を開発した。タスクの明確化などにより手戻りが減り、従業員の残業時間が大きく減少した。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11569/topm.jpg?20220512",
-    "fetched_at": "2026-03-12 16:55:12",
-    "ja_summary": "・特注設備メーカーがTeams連携の独自AI「WAIOS」を開発し導入。\n・業務指示の明確化やノウハウ共有により、作業の手戻りが大幅に減少。\n・業務効率化が実現し、従業員の残業時間を4割削減することに成功。"
   }
 ]
