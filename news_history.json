@@ -1,5 +1,35 @@
 [
   {
+    "title": "Anthropic、サプライチェーンリスク指定を受け米政府を提訴。OpenAIとGoogleの一部従業員がAnthropicの訴訟を支持する声明",
+    "link": "https://www.techno-edge.net/article/2026/03/10/4907.html",
+    "source": "TechnoEdge",
+    "published": "Tue, 10 Mar 2026 11:35:50 +0900",
+    "summary": "Anthropicは3月9日、米戦争省（DoW。国防総省の現政権における呼称）がサプライチェーンリスク（国家安全保障上のブラックリスト）に同社を指定したことに対し、撤回を求める訴訟をカリフォルニア州連邦裁判所に起こしました。",
+    "image": "https://www.techno-edge.net/imgs/rss/29851.jpg",
+    "fetched_at": "2026-03-12 19:06:40",
+    "ja_summary": "・Anthropicが米国防総省による「サプライチェーンリスク企業」指定を不服とし、撤回を求めて提訴。\n・国家安全保障上の理由によるブラックリスト入りが、事業運営に支障をきたすと主張。\n・OpenAIやGoogleの一部従業員も同社の訴訟を支持する声明を出し、業界内でも注目を集めている。"
+  },
+  {
+    "title": "Claude Code 2026年 最新アップデート",
+    "link": "https://speakerdeck.com/oikon48/claude-code-0312",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-03-12T05:37:33-04:00",
+    "summary": "Claude Code Meetup Japan #3 (Claude Code祭り!)  : https://aid.connpass.com/event/384117/\n\nX: https://x.com/oikon48",
+    "image": "https://files.speakerdeck.com/presentations/983df04c47e44cfe882ce3fa69fd098f/preview_slide_0.jpg?38711294",
+    "fetched_at": "2026-03-12 19:06:58",
+    "ja_summary": "・Claude Codeの最新情報を共有するコミュニティイベント「Claude Code Meetup Japan #3」が開催されます。\n・開発者や利用者が集まり、最新アップデートや活用事例を深掘りする場となります。\n・詳細はConnpassのイベントページまたは主催者のX（旧Twitter）から確認可能です。"
+  },
+  {
+    "title": "Claude Code のコード品質がばらつくので AI に品質保証させる仕組みを作った話 / A story about building a mechanism to have AI ensure quality, because the code quality from Claude Code was inconsistent",
+    "link": "https://speakerdeck.com/nrslib/a-story-about-building-a-mechanism-to-have-ai-ensure-quality-because-the-code-quality-from-claude-code-was-inconsistent",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-03-12T04:00:09-04:00",
+    "summary": "AI エージェントハーネスの一形態である AI コーディングエージェントのオーケストレーションツールを作った話をしています。\n\nTAKT： https://github.com/nrslib/takt\nFaceted-Prompting：https://github.com/nrslib/faceted-prompting\nユーザーコミュニティ： https://discord.gg/emy8b9dxNK\n\n# URL\nYouTube: https://www.youtube.com/c/narusemi\nHomePage: https://nrslib.com\nTwitter: https://twitter.com/nrslib\nInstagram: https://www.instagram.com/nrslib/",
+    "image": "https://files.speakerdeck.com/presentations/6e9342a494fa4222ac3d19413c6db988/preview_slide_0.jpg?38711625",
+    "fetched_at": "2026-03-12 19:06:58",
+    "ja_summary": "Claude Codeのコード品質のばらつきを解決するため、AIエージェントの出力を自動検証するオーケストレーションツール「TAKT」を開発。\nAIに品質保証を担わせる仕組みにより、開発工程の安定化と効率化を実現した。\n関連ツールとして、プロンプトの構造化を支援する「Faceted-Prompting」も公開中。"
+  },
+  {
     "title": "採用DXの裏で失われる“企業の誠実さ”　学生が抱く違和感の正体",
     "link": "https://www.itmedia.co.jp/business/articles/2603/12/news031.html",
     "source": "ITmedia ビジネス",
@@ -968,35 +998,5 @@
     "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object-LaptopSecure&amp;backgroundColor=clay",
     "fetched_at": "2026-03-12 07:22:25",
     "ja_summary": "最先端のサイバーセキュリティ技術を防御側に提供し、セキュリティ強化を支援する。\n防御側の能力を底上げし、高度化する脅威への対抗手段を拡充する。"
-  },
-  {
-    "title": "Claude、Excel・PowerPointと緊密連携　データ分析から資料作成までAIで自動化",
-    "link": "https://japan.cnet.com/article/35244904/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "Anthropicは水曜日、Microsoft 365ユーザーのワークフロー改善を目的としたClaude連携機能のアップデートを発表した。ExcelとPowerPointの統合を強化し、両ツールを併用するユーザーの作業時間や手間の削減を狙う。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35244904/\"><img src=\"https://japan.cnet.com/storage/2026/03/12/04a026fe488ffaec252b6b9c88b2cff0/t/184/138/d/claude-logo-and-app__1_.jpeg\" /></a>",
-    "image": "https://japan.cnet.com/storage/2026/03/12/04a026fe488ffaec252b6b9c88b2cff0/t/184/138/d/claude-logo-and-app__1_.jpeg",
-    "fetched_at": "2026-03-12 06:56:12",
-    "ja_summary": "・AI「Claude」がMicrosoft 365と連携強化。\n・Excelのデータ分析からPowerPointの資料作成まで自動化を実現。\n・両ツールの操作が効率化され、業務時間を大幅に短縮可能。"
-  },
-  {
-    "title": "AIバブルでも巨額投資を続けるのか。KPMGのCEO調査で見えた100社の投資動向と最大の懸念",
-    "link": "https://www.businessinsider.jp/article/2603-kpmg-ai-ceo-survey-investment/",
-    "source": "Business Insider Japan",
-    "published": "Wed, 11 Mar 2026 21:40:00 GMT",
-    "summary": "アメリカの大手企業100社のCEOがKPMGのAI関連の支出と採用計画の調査に答えました。 彼らの投資動向と一番の懸念事項とはどのようなものだったのでしょうか。",
-    "image": "https://media.loom-app.com/loom/2026/03/11/b0d94348-3de9-4db8-bf71-454a3bc320e9/original.jpg?w=1200&amp;h=630",
-    "fetched_at": "2026-03-12 06:56:12",
-    "ja_summary": "・米大手企業100社のCEOの大半がAIへの巨額投資を継続する方針。\n・先行投資を優先する一方で、投資対効果（ROI）の不透明さを最大の懸念事項に挙げた。\n・AI導入による生産性向上への期待と、費用対効果の検証が今後の課題。"
-  },
-  {
-    "title": "Anthropicの国防総省「出禁」解除に向け、CEOに推奨したい8つの現実策。映画『メラニア』鑑賞など",
-    "link": "https://www.businessinsider.jp/article/dario-amodei-get-off-pentagon-naughty-list-anthropic-donald-trump-2026-3/",
-    "source": "Business Insider Japan",
-    "published": "Wed, 11 Mar 2026 06:05:00 GMT",
-    "summary": "米国防総省はアンスロピック（Anthropic）を「サプライチェーン上のリスク」に指定しました。\nダリオ・アモデイCEOは、同社が政治献金を行っていないため偏見を抱かれていると述べ、トランプ政権を批判しています。\nアップル（Apple）のティム・クックらテック業界のベテラン経営者たちはトランプ政権との関係をうまく切り盛りしてきましたが……。",
-    "image": "https://media.loom-app.com/loom/2026/03/09/67a3f2d8-a4f6-4b7e-9663-dd89118a0f88/original.jpg?w=1200&amp;h=630",
-    "fetched_at": "2026-03-12 06:56:13",
-    "ja_summary": "・Anthropicが国防総省からリスク企業に指定された。\n・CEOは政治的中立を主張するが、政権との関係構築に苦慮している。\n・Apple等の成功例を参考に、トランプ政権との対話を通じた規制解除が求められている。"
   }
 ]
