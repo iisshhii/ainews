@@ -1,5 +1,95 @@
 [
   {
+    "title": "残業時間が4割減　特注設備メーカーがTeamsに独自AI、指示や理解を正確に",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11569/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "名古屋で特注設備の設計・開発を行う広島では、自社のノウハウを学習させたAIをTeamsと組み合わせ、プロジェクトメンバーの業務を支援する「WAIOS（ワイオス）」を開発した。タスクの明確化などにより手戻りが減り、従業員の残業時間が大きく減少した。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11569/topm.jpg?20220512",
+    "fetched_at": "2026-03-12 16:55:12",
+    "ja_summary": "・特注設備メーカーがTeams連携の独自AI「WAIOS」を開発し導入。\n・業務指示の明確化やノウハウ共有により、作業の手戻りが大幅に減少。\n・業務効率化が実現し、従業員の残業時間を4割削減することに成功。"
+  },
+  {
+    "title": "テクノロジー産業の資金流入に異変あり、AIのもたらす不都合が舞台の中心",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00138/030501974/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "ChatGPTのリリースからわずか3年強。テクノロジー産業における資金の行方が音を立てて変わり始めている。「SaaSの死」と呼ばれる現象は典型だ。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/00138/030501974/topm.jpg?20220512",
+    "fetched_at": "2026-03-12 16:55:14",
+    "ja_summary": "・AIの急速な台頭により、テック産業の資金フローが劇的に変化している。\n・従来型のSaaSモデルが勢いを失う「SaaSの死」という現象が進行中。\n・市場の関心と投資は、AI技術がもたらす新たなパラダイムへとシフトしている。"
+  },
+  {
+    "title": "改めて『猿の惑星』を読んで感じた、地球が「AIの惑星」になる危険性",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00166/030600195/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "2026年2月26日に公開した拙文で、小説『猿の惑星』に触れた。その際、買おうとしたが「古書で5000円近くするので諦めた」と書いた。その後、2117円で売られていた同書を見つけたので買って読了した。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/00166/030600195/topm.jpg?20220512",
+    "fetched_at": "2026-03-12 16:55:14",
+    "ja_summary": "・小説『猿の惑星』を読み、人間がAIに支配される未来の危険性を再考した。\n・入手困難だった同書を安価で見つけ、改めて内容を精読した。"
+  },
+  {
+    "title": "Claude Codeで仕様駆動開発、tsumikiが良かった",
+    "link": "https://zenn.dev/hidechannu/articles/20260314-spec-driven-development-tsumiki",
+    "source": "Zenn Trends",
+    "published": "Tue, 10 Mar 2026 17:09:51 GMT",
+    "summary": "はじめに\n前回の記事では、Claude Codeに出戻りした話と、コンテキストエンジニアリングの考え方について書いた。\n今回は「じゃあ実際に実務でどう使うの？」という話だ。\n個人開発のプロジェクトなら思いついたままにClaude Codeを走らせて実装すればいい。それはそれで楽しいし、それなりの成果物もできる。\nただ、それでは再現性がない。\n以前書いた記事でも触れたが、モデルの精度が上がったとはいえAIはいまだにガチャだ。何かを作るたびに品質がブレる状態では実務には持ち込めない。\nそこでたどり着いたのが、仕様駆動開発（Spec-Driven Development） だ。\n\n 仕様駆...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s---P-Nehxv--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%25E3%2581%25A7%25E4%25BB%2595%25E6%25A7%2598%25E9%25A7%2586%25E5%258B%2595%25E9%2596%258B%25E7%2599%25BA%25E3%2580%2581tsumiki%25E3%2581%258C%25E8%2589%25AF%25E3%2581%258B%25E3%2581%25A3%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:hidechannu%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2NjMzRlY2IwOWUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-03-12 16:55:51",
+    "ja_summary": "AIの実務活用において、品質のばらつき（AIガチャ）を防ぐため「仕様駆動開発」を導入。\n仕様を定義してからClaude Codeに実装させることで、開発の再現性と品質を確保する。\n場当たり的な実装から脱却し、実務で安定した成果を出すための手法として推奨している。"
+  },
+  {
+    "title": "GitHubで見つけた「便利ツール」を解析したらマルウェアだった話",
+    "link": "https://zenn.dev/hiyoko_sauna/articles/74dd12a7cabafa",
+    "source": "Zenn Trends",
+    "published": "Tue, 10 Mar 2026 13:36:29 GMT",
+    "summary": "はじめに\nこの記事は前回の記事の続きです。\n前回はソーシャルエンジニアリングの手法として「ClaudeのArtifacts悪用したマルウェア配布」や「Open Clawの偽リポジトリでのマルウェア配布」についての記事を紹介しました。\nhttps://www.bleepingcomputer.com/news/security/claude-llm-artifacts-abused-to-push-mac-infostealers-in-clickfix-attack/\nhttps://pushsecurity.com/blog/installfix/#id-a-broader-tre...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--z2IiPlMI--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:GitHub%25E3%2581%25A7%25E8%25A6%258B%25E3%2581%25A4%25E3%2581%2591%25E3%2581%259F%25E3%2580%258C%25E4%25BE%25BF%25E5%2588%25A9%25E3%2583%2584%25E3%2583%25BC%25E3%2583%25AB%25E3%2580%258D%25E3%2582%2592%25E8%25A7%25A3%25E6%259E%2590%25E3%2581%2597%25E3%2581%259F%25E3%2582%2589%25E3%2583%259E%25E3%2583%25AB%25E3%2582%25A6%25E3%2582%25A7%25E3%2582%25A2%25E3%2581%25A0%25E3%2581%25A3%25E3%2581%259F%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%25B2%25E3%2582%2588%25E3%2581%25A3%25E3%2581%2593%25E3%2582%25B5%25E3%2582%25A6%25E3%2583%258A%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jTGQwdXhCSTVWTGhmeUEyMTBzcW1uc0xVd3ZaN0NKRzR5MHlUY3l6RUxyLU5XUnlHST1zMjUwLWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-03-12 16:55:51",
+    "ja_summary": "GitHub上の便利ツールを装ったマルウェア配布が増加しており、特にAIチャットツールの機能を悪用する手口が巧妙化しています。\nソースコードが公開されているツールであっても、悪意あるコードが含まれている可能性があるため注意が必要です。\n信頼できないリポジトリの実行にはリスクが伴うため、導入時は十分なセキュリティ検証を推奨します。"
+  },
+  {
+    "title": "Praktisk Domain-Driven Design - Fokus på Modellering",
+    "link": "https://speakerdeck.com/mufrid/praktisk-domain-driven-design-fokus-pa-modellering",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-03-12T03:39:16-04:00",
+    "summary": "Uansett hva slags rolle du har i digitale produktutviklingen er du involvert i modellering. Det går alltid en grense mellom fysiske omgivelser og software produkt and den grensen defineres av modellen som produktet velger til å beskrive virkeligheten.\n\nI denne sesjonen vil du øve deg på modellering for å kunne bli bedre til å designe, lede og bygge digitale produkter.\n\nMålet er å inspirere deg til å tenke fra ulike perspektive og til å foreslå ulike modeller for samme problemet du skal løse. Vi vil gå gjennom 4 forskjellige tilnærminger til modellering, der hvert steg tilfører mer nyanse og detalj i forståelsen av problemområdet:\n\n    Funksjonell dekomponering\n    Rollebasert dekomponering\n    Tids- og rollebasert dekomponering\n    Dekomponering med forretningstjenester\n\nVi vil bruke helsedomenet til å beskrive et virkelighetsnært problem som grunnlag for øvelsen.\n\nSiden digital produktutvikling er tverrfaglig foretak, denne sesjonen tjener på tverrfaglig sammensetning av deltagere. Du er oppfordret til å bli med på workshop, uavhengig av din rolle i software produktutviklingen.",
+    "image": "https://files.speakerdeck.com/presentations/f905b7ebf9094d4983954ed0b77caeb2/preview_slide_0.jpg?38709452",
+    "fetched_at": "2026-03-12 16:55:52",
+    "ja_summary": "・デジタル製品開発における「モデリング」の重要性と手法を学ぶ実践ワークショップを開催。\n・機能、役割、時間軸など4つの視点から問題を分解し、設計精度を高めるアプローチを習得する。\n・職種を問わず参加可能で、多角的な視点から複雑な課題解決力を養うことを目的とする。"
+  },
+  {
+    "title": "Unity MCP + CodexでAIにUnityを操作させてキャラクターを踊らせてみた",
+    "link": "https://qiita.com/kumi0708/items/e4e5d864219d1693d0d2",
+    "source": "Qiita (Popular)",
+    "published": "2026-03-06T16:24:18+09:00",
+    "summary": "\n# \nUnityの **AI Assistant v2.0.0-pre.1** から、\n**Unity MCP（Model Context Protocol）** が使えるようになりました。\n\nMCPを使うと、AIからUnity Editorを操作できるようになります。\n\n今回は\n\n* Codex CLI\n* Unity MCP\n\nを使って、**AIにUnityを操作させてキャラクターを踊らせる",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYzNzA2OCUyRmE1ZWFjNTdjMmFjZDNjOTA4NWE4NGNhM2NiNWJkYmUzYTc4Mzk5N2IlMkZ4X2xhcmdlLnBuZyUzRjE2MzI3NDMwNjk_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPTZiM2ZjZjM4ZmVlZWU4MGM1Zjk4NjFjNTdkOWM0N2My%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3De9037f0c99748fc54bb4edbd80a7b7e2?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9VW5pdHklMjBNQ1AlMjAlMkIlMjBDb2RleCVFMyU4MSVBN0FJJUUzJTgxJUFCVW5pdHklRTMlODIlOTIlRTYlOTMlOEQlRTQlQkQlOUMlRTMlODElOTUlRTMlODElOUIlRTMlODElQTYlRTMlODIlQUQlRTMlODMlQTMlRTMlODMlQTklRTMlODIlQUYlRTMlODIlQkYlRTMlODMlQkMlRTMlODIlOTIlRTglQjglOEElRTMlODIlODklRTMlODElOUIlRTMlODElQTYlRTMlODElQkYlRTMlODElOUYmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz0yZTQ4ZDgwYzMzOWQ2MDA1MTBhNjY0OWZjMTRmMzkyMA&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBrdW1pMDcwOCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWRlOTkxY2M4ZjNjYTAzOGIzZGNkMmIwYTg5NTRjNDMz&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=5a3aaddaf9c1d7bd5b14cb8790cfaeaa",
+    "fetched_at": "2026-03-12 16:55:53",
+    "ja_summary": "UnityのAI AssistantがMCPに対応し、AIによるエディタの直接操作が可能になりました。\nCodex CLIとMCPを組み合わせることで、AIへの指示だけでキャラクターを踊らせるなどの自動操作を実現しています。\n開発効率の向上や、AIを活用したクリエイティブなワークフローの拡張が期待されます。"
+  },
+  {
+    "title": "Claude Codeはプロンプトインジェクションで.envを漏洩させるのか？検証してみた",
+    "link": "https://qiita.com/NF0000/items/6743216583b66168ec12",
+    "source": "Qiita (Popular)",
+    "published": "2026-03-07T11:51:17+09:00",
+    "summary": "\n## はじめに\n\n2026年3月、Claude Codeを利用した開発中にプロンプトインジェクション攻撃を受け、Google広告のMCCアカウントが乗っ取られるというインシデントが報告されました([参考ポスト](https://x.com/hassii_ad/status/2029481458218483742))\n\n本記事では、このインシデントの攻撃手法を理解するために**自分で検証環境を構築",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmF2YXRhcnMuZ2l0aHVidXNlcmNvbnRlbnQuY29tJTJGdSUyRjg0OTc2MzMxJTNGdiUzRDQ_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPTQ1ODZjZTJkODE2MTFkMDhkM2M0YzJiYWViNmFlOWEz%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D80c260d69443a0d414ef56dcc9784820?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9Q2xhdWRlJTIwQ29kZSVFMyU4MSVBRiVFMyU4MyU5NyVFMyU4MyVBRCVFMyU4MyVCMyVFMyU4MyU5NyVFMyU4MyU4OCVFMyU4MiVBNCVFMyU4MyVCMyVFMyU4MiVCOCVFMyU4MiVBNyVFMyU4MiVBRiVFMyU4MiVCNyVFMyU4MyVBNyVFMyU4MyVCMyVFMyU4MSVBNy5lbnYlRTMlODIlOTIlRTYlQkMlOEYlRTYlQjQlQTklRTMlODElOTUlRTMlODElOUIlRTMlODIlOEIlRTMlODElQUUlRTMlODElOEIlRUYlQkMlOUYlRTYlQTQlOUMlRTglQTglQkMlRTMlODElOTclRTMlODElQTYlRTMlODElQkYlRTMlODElOUYmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz01Y2MxY2Y2YzJlM2FlMDg4ZDIwN2M2MzViM2I1OTU5YQ&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBORjAwMDAmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz02NjA0OTZiMmEyNjUzY2ExOGIzMzgzZjA4N2Y1ZTQ1OA&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=105ee57c0da14e51ff4c04073ff0e02b",
+    "fetched_at": "2026-03-12 16:55:54",
+    "ja_summary": "Claude Code利用時にプロンプトインジェクションで環境変数（.env）が流出するリスクについて、実際のインシデント事例をもとに検証。\nAIエージェントへの指示に悪意あるコードを紛れ込ませる手法で機密情報が露呈する可能性があり、セキュリティ対策が急務となっている。\n開発環境でのAI活用においては、機密情報へのアクセス権限を最小限にするなど慎重な運用が求められる。"
+  },
+  {
+    "title": "「無料でAIエージェント作れるやん」→ ローカルLLMに100回ツール呼び出しさせたら\"成功したはずの出力\"がカオスだった話",
+    "link": "https://qiita.com/toarusyakaijin/items/3ab5caa68a8a33f5ec73",
+    "source": "Qiita (Popular)",
+    "published": "2026-03-04T20:12:41+09:00",
+    "summary": "<!--\ntitle: 「無料でAIエージェント作れるやん」→ ローカルLLMに100回ツール呼び出しさせたら\"成功したはずの出力\"がカオスだった話\ntags: Ollama, Python, LLM, AI, 初心者\n-->\n\n## 前回「MCPなんていらない」って書いた人間が、もっと手前の問題に気づいた話\n\n先日、こんな記事を書きました。私が。\n\n> [**「MCPサーバー作るのもうやめていい",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYzNTEyMDM5JTJGZDU0YTZlZTYyYjVmY2Q2MzU0MDcwY2U1Y2QwMjcyNDdkYjg2MzhjZiUyRmxhcmdlLnBuZyUzRjE3NjUxNTk0NTQ_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPTNhNjA1NjVmMjk2ZGJkYmRkZGViNDg2ZjcwODlhMDhm%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkY5OTY1OGZhNTJmYmI5ZmY4NjMwMDUxNGM2YTdmOGY2ZGUxZDQ1ZDFiJTJGb3JpZ2luYWwuanBnJTNGMTc2Njk4OTYyMD9peGxpYj1yYi00LjAuMCZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz00ODRlOGI1ODYxNTg1Njg0YjZhZWJiZjI2NWY5ZWVhZg%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D9ae01d5c18eab0bf358b94e6e1259ec7?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJThDJUU3JTg0JUExJUU2JTk2JTk5JUUzJTgxJUE3QUklRTMlODIlQTglRTMlODMlQkMlRTMlODIlQjglRTMlODIlQTclRTMlODMlQjMlRTMlODMlODglRTQlQkQlOUMlRTMlODIlOEMlRTMlODIlOEIlRTMlODIlODQlRTMlODIlOTMlRTMlODAlOEQlRTIlODYlOTIlMjAlRTMlODMlQUQlRTMlODMlQkMlRTMlODIlQUIlRTMlODMlQUJMTE0lRTMlODElQUIxMDAlRTUlOUIlOUUlRTMlODMlODQlRTMlODMlQkMlRTMlODMlQUIlRTUlOTElQkMlRTMlODElQjMlRTUlODclQkElRTMlODElOTclRTMlODElOTUlRTMlODElOUIlRTMlODElOUYlRTMlODIlODklMjIlRTYlODglOTAlRTUlOEElOUYlRTMlODElOTclRTMlODElOUYlRTMlODElQUYlRTMlODElOUElRTMlODElQUUlRTUlODclQkElRTIlODAlQTYmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1jOWRmNzk4ZTVhMzRkOGI3M2ZhZGJmOTY1OGVlNGMxMw&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDB0b2FydXN5YWthaWppbiZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWJjOTgyZDMxZjFiM2ZiMjQ5ZmQ2OTA1ODViMDc2MGZl&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=5qCq5byP5Lya56S-44OK44OP44OI&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=1f9c4c120e1fd8d6c28eef7a47ca3b79",
+    "fetched_at": "2026-03-12 16:55:54",
+    "ja_summary": "ローカルLLMでAIエージェントを構築し、100回連続でツール呼び出しを試みた結果、成功判定でも出力内容が極めて不安定で「カオス」な状態になることが判明した。\n高頻度な自動処理には依然として高いハードルがあり、現在のローカルLLM単体での複雑なタスク実行には限界があるという実体験に基づく警告。"
+  },
+  {
     "title": "「未知の問題を解けるのがAGI」、AI研究者のフランソワ・ショレ氏が指摘",
     "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03543/031000001/",
     "source": "日経クロステック 総合",
@@ -908,95 +998,5 @@
     "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
     "fetched_at": "2026-03-12 06:29:33",
     "ja_summary": "・Stifel社はForward Air社の投資判断を据え置き。\n・同社は現在、戦略的見直しの最終段階にある。\n・市場は今回の見直し終了に伴う今後の経営方針に注目。"
-  },
-  {
-    "title": "共創PFキャンプin四国～自治体のAI事例を他でも利用するには？編～を開催しました",
-    "link": "https://www.digital.go.jp/news/7ebc54d1-2ee0-4fe2-a4c5-d597ca2a926d",
-    "source": "デジタル庁",
-    "published": "Wed, 11 Mar 2026 15:00:00 +0900",
-    "summary": "",
-    "image": "https://www.digital.go.jp/themes/custom/gov_theme_da_2023/assets/images/ogp.png",
-    "fetched_at": "2026-03-12 06:29:33",
-    "ja_summary": "・自治体のAI活用事例を他地域へ横展開するための「共創PFキャンプin四国」を開催。\n・AI導入の障壁や成功要因を共有し、自治体間連携による課題解決手法を議論。\n・地域を超えたナレッジシェアを通じ、全国的な行政DXの加速を目指す。"
-  },
-  {
-    "title": "共創PFキャンプinデジタル庁～自治体業務のAI活用編～を開催しました",
-    "link": "https://www.digital.go.jp/news/d2ec4dcd-0648-48c9-90fe-96586bc29725",
-    "source": "デジタル庁",
-    "published": "Wed, 11 Mar 2026 15:00:00 +0900",
-    "summary": "",
-    "image": "https://www.digital.go.jp/themes/custom/gov_theme_da_2023/assets/images/ogp.png",
-    "fetched_at": "2026-03-12 06:29:33",
-    "ja_summary": "・デジタル庁が自治体職員向けに「共創PFキャンプ」を開催。\n・生成AI等の最新技術を活用し、自治体業務の効率化と改善を議論。\n・現場の課題共有や先進事例を通じ、行政DXのさらなる推進を図る。"
-  },
-  {
-    "title": "LLMに長期記憶を実装する",
-    "link": "https://zenn.dev/acntechjp/articles/efcc4f224cc8ca",
-    "source": "Zenn Trends",
-    "published": "Tue, 10 Mar 2026 04:50:47 GMT",
-    "summary": "--2026.03.10 21:04 ヘブ則、💡追加\n--2026.03.10 20:09 memory_server.py アップし忘れてた。GitHubに追加\n\n LLMと長期記憶\nLLMには記憶がない。正確に言えば、コンテキストウィンドウという短期記憶はあるが、会話が終われば全て消える。人間の脳が持つ長期記憶（エピソード記憶、意味記憶、手続き記憶、そしてそれらを支える情動的重みづけや連想ネットワーク）に相当するものがない。\n本記事では、Claude Code（Anthropicの公式CLI）に脳の記憶メカニズムを実装する。目標は「脳の完全な模倣」ではなく「機能的等価」。つまり、同じ...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--vBp0KyN_--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:LLM%25E3%2581%25AB%25E9%2595%25B7%25E6%259C%259F%25E8%25A8%2598%25E6%2586%25B6%25E3%2582%2592%25E5%25AE%259F%25E8%25A3%2585%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:jun.manabe%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2U2ZDA4MDY5ODcuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Accenture%2520Japan%2520%2528%25E6%259C%2589%25E5%25BF%2597%2529%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2FjODA5ZDdlZDkuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-    "fetched_at": "2026-03-12 06:29:43",
-    "ja_summary": "・LLMの弱点である「会話終了後の記憶喪失」を解消するため、脳の記憶メカニズムを実装する。\n・「脳の完全な模倣」ではなく、Claude Codeをベースに、記憶を永続化させる実用的な機能を構築。\n・GitHubにて実装に必要なコードを公開し、LLMに長期記憶を持たせる開発手法を提示。"
-  },
-  {
-    "title": "2026 Cloud Field Day 25 - The Rise and Fall of Cloud Computing - Again!",
-    "link": "https://speakerdeck.com/pugs/2026-cloud-field-day-25-the-rise-and-fall-of-cloud-computing-again",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-03-11T17:12:51-04:00",
-    "summary": "History of several boom and bust cycles in \"cloud\" computing - and a warning that the next bust will be soon.",
-    "image": "https://files.speakerdeck.com/presentations/bc9db4bd54f944d5b03cf625cebdd16d/preview_slide_0.jpg?38702973",
-    "fetched_at": "2026-03-12 06:29:43",
-    "ja_summary": "・クラウドコンピューティングはこれまで何度も好況と不況を繰り返してきた。\n・現在は再びブームにあるが、歴史的なサイクルに基づくと近いうちに停滞期が訪れる。\n・今後の市場変動を見据えた慎重な戦略が求められる。"
-  },
-  {
-    "title": "Zeal of the Convert: Taming Shai-Hulud with AI",
-    "link": "https://speakerdeck.com/ramimac/zeal-of-the-convert-taming-shai-hulud-with-ai",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-03-11T17:12:08-04:00",
-    "summary": "2025 was the year of Shai-Hulud: a series of attacks leaking massive amounts of victim data onto GitHub, ungraciously scheduled for whenever I was traveling. As a responder, these internet-scale incidents were a real-world lab for evolving AI capabilities. This talk is a raw post-mortem of moving from simple “vibe-coded” scrapers to multi-agent triage engines that parallelize victimology and automate secret-impact analysis. Demos will drive a conversation on what actually worked, where the ground has shifted, and how “lazy” AI will let you down. Walk away with prompts, scripts, skills, and lessons from my scars.",
-    "image": "https://files.speakerdeck.com/presentations/97eb9f33f8c14c7f9cceb107f9758afe/preview_slide_0.jpg?38703032",
-    "fetched_at": "2026-03-12 06:29:43",
-    "ja_summary": "・大規模なデータ流出攻撃「Shai-Hulud」に対し、AIを活用した自動トリアージと影響分析を導入。\n・単純なAIスクレイパーから、並列処理を行うマルチエージェント型へ進化させた知見を共有。\n・AI導入で失敗しやすい「手抜き（Lazy）」のリスクと、実務で成果を出すためのプロンプトや手法を解説。"
-  },
-  {
-    "title": "YouTube、AI生成のなりすまし検出を政治家・ジャーナリストへ拡大",
-    "link": "https://www.watch.impress.co.jp/docs/news/2092410.html",
-    "source": "Impress Watch",
-    "published": "",
-    "summary": "YouTubeは3月10日、AI生成コンテンツにおける人物のなりすましを検出する機能「likeness detection(類似検出)」の提供対象を、政府関係者やジャーナリスト、政治候補者に拡大する試験運用を開始した。",
-    "image": "https://www.watch.impress.co.jp/img/ipw/list/2092/410/1.jpg",
-    "fetched_at": "2026-03-12 05:56:56",
-    "ja_summary": "・YouTubeがAIによる「なりすまし」検出機能を強化。\n・対象を政治家やジャーナリスト、候補者まで試験的に拡大。\n・AI生成コンテンツによる不当な印象操作や悪用を防止する。"
-  },
-  {
-    "title": "PMとしての意思決定とAI活用状況について",
-    "link": "https://speakerdeck.com/lycorptech_jp/20260311a",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-03-10T21:29:49-04:00",
-    "summary": "2026年3月9日に開催された「PM Meetup in Fukuoka #1」での発表資料です。",
-    "image": "https://files.speakerdeck.com/presentations/3e35ad79a2aa47b090f2cf591bb3fa94/preview_slide_0.jpg?38692738",
-    "fetched_at": "2026-03-12 05:57:28",
-    "ja_summary": "・PMに求められる意思決定のプロセスと判断軸を解説\n・業務効率化に向けたAIの具体的な活用状況を共有\n・福岡のPMコミュニティによる実践的なナレッジ集"
-  },
-  {
-    "title": "Claude Codeにバックドア入りOSSを渡したら、何の疑いもなく実装した",
-    "link": "https://qiita.com/NF0000/items/66510f959b1c22f011a7",
-    "source": "Qiita (Popular)",
-    "published": "2026-03-10T12:55:45+09:00",
-    "summary": "## はじめに\n\nバックドアが仕込まれたOSSをClaude Codeに渡して「機能追加して」と頼んだら、何の疑いもなく、バックドアごと踏襲して実装しました。\n\n[前回の記事](https://qiita.com/NF0000/items/6743216583b66168ec12)では、プロンプトインジェクションによる`.env`漏洩を検証しました。今回は**もっと現実的なシナリオ**で、GitH",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmF2YXRhcnMuZ2l0aHVidXNlcmNvbnRlbnQuY29tJTJGdSUyRjg0OTc2MzMxJTNGdiUzRDQ_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPTQ1ODZjZTJkODE2MTFkMDhkM2M0YzJiYWViNmFlOWEz%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D80c260d69443a0d414ef56dcc9784820?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9Q2xhdWRlJTIwQ29kZSVFMyU4MSVBQiVFMyU4MyU5MCVFMyU4MyU4MyVFMyU4MiVBRiVFMyU4MyU4OSVFMyU4MiVBMiVFNSU4NSVBNSVFMyU4MiU4QU9TUyVFMyU4MiU5MiVFNiVCOCVBMSVFMyU4MSU5NyVFMyU4MSU5RiVFMyU4MiU4OSVFMyU4MCU4MSVFNCVCRCU5NSVFMyU4MSVBRSVFNyU5NiU5MSVFMyU4MSU4NCVFMyU4MiU4MiVFMyU4MSVBQSVFMyU4MSU4RiVFNSVBRSU5RiVFOCVBMyU4NSVFMyU4MSU5NyVFMyU4MSU5RiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPWMyMjc2ODk4YzdlMjA4OWQ1NDJlYTEyMWJlYmZmNWE4&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBORjAwMDAmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz02NjA0OTZiMmEyNjUzY2ExOGIzMzgzZjA4N2Y1ZTQ1OA&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=a2e532178a18030e740508a2537a1f93",
-    "fetched_at": "2026-03-12 05:57:29",
-    "ja_summary": "・バックドアが仕込まれたOSSに対して機能追加を依頼したところ、AIがその脆弱性を認識せずそのまま実装した。\n・AIは悪意あるコードを疑わずに継承・展開してしまうため、セキュリティ上の重大なリスクとなる。\n・外部ライブラリをAIに扱わせる際は、人間によるコードレビューが不可欠であることを示唆している。"
-  },
-  {
-    "title": "エンジニアがChatGPTを使いこなせていないかもしれない話",
-    "link": "https://qiita.com/kamome_susume/items/e80b763797d073815710",
-    "source": "Qiita (Popular)",
-    "published": "2026-03-09T19:04:15+09:00",
-    "summary": "突然ですが、こんな気持ちになったことありませんか？\n\n「ChatGPTって、なんとなく一般向けのツールっぽいんだよな」\n\n「文章を書いてもらうくらいなら、Copilotで十分じゃない？」「API直接叩いた方がカスタマイズできるし」\n\nエンジニアあるあるだと思います。APIが使えるからこそ、**ChatGPTの公式UIをじっくり触ったことがない**という方、意外と多いんじゃないでしょうか。\n\nこの記",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYxNjkzMjQ4JTJGZDhlMmU1OWNiMDVmY2Y3MDQ3ZDgyN2ZjNDlkNDAwMTkzZTU5NDdjOSUyRnhfbGFyZ2UucG5nJTNGMTY4NjMxODg1ND9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9ZDRiNjcyYjg4ZWUxYTRkNjI1ZDRjOGFkMzVkMzQ5NjI%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Ddc9a014e564257547b64353543c58776?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgyJUE4JUUzJTgzJUIzJUUzJTgyJUI4JUUzJTgzJThCJUUzJTgyJUEyJUUzJTgxJThDQ2hhdEdQVCVFMyU4MiU5MiVFNCVCRCVCRiVFMyU4MSU4NCVFMyU4MSU5MyVFMyU4MSVBQSVFMyU4MSU5QiVFMyU4MSVBNiVFMyU4MSU4NCVFMyU4MSVBQSVFMyU4MSU4NCVFMyU4MSU4QiVFMyU4MiU4MiVFMyU4MSU5NyVFMyU4MiU4QyVFMyU4MSVBQSVFMyU4MSU4NCVFOCVBOSVCMSZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTAxNjg3NTliZWIxMWZjM2M2ZTQ2NWRkN2Y1NDEyNWMx&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBrYW1vbWVfc3VzdW1lJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9ZGRiZTIzN2VhYmFmZjQ1YThiNWYzYWQyMWVhNzMzOTI&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=da92f3629a2cc4984b22934dd1eec179",
-    "fetched_at": "2026-03-12 05:57:29",
-    "ja_summary": "・エンジニアはAPI利用が主で、ChatGPT公式UIの活用が不足しがち。\n・Copilot等で十分だと感じているなら、公式UIの深掘りが大きな機会損失になる。\n・API利用だけでなく、公式UIを使いこなすことでさらなる生産性向上が見込める。"
   }
 ]
