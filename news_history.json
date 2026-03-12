@@ -1,5 +1,85 @@
 [
   {
+    "title": "Designing AI agents to resist prompt injection",
+    "link": "https://openai.com/index/designing-agents-to-resist-prompt-injection",
+    "source": "OpenAI",
+    "published": "Wed, 11 Mar 2026 11:30:00 GMT",
+    "summary": "How ChatGPT defends against prompt injection and social engineering by constraining risky actions and protecting sensitive data in agent workflows.",
+    "image": "https://openai.com/favicon.ico",
+    "fetched_at": "2026-03-12 15:06:17",
+    "ja_summary": "・ChatGPTは、プロンプトインジェクションやソーシャルエンジニアリング攻撃への対策を強化。\n・エージェントの処理において、リスクの高い操作を制限し、機密データを保護する仕組みを導入。\n・AIエージェントの安全性を高め、不正な指示による誤作動や情報漏洩を防止する。"
+  },
+  {
+    "title": "From model to agent: Equipping the Responses API with a computer environment",
+    "link": "https://openai.com/index/equip-responses-api-computer-environment",
+    "source": "OpenAI",
+    "published": "Wed, 11 Mar 2026 11:00:00 GMT",
+    "summary": "How OpenAI built an agent runtime using the Responses API, shell tool, and hosted containers to run secure, scalable agents with files, tools, and state.",
+    "image": "https://openai.com/favicon.ico",
+    "fetched_at": "2026-03-12 15:06:17",
+    "ja_summary": "・OpenAIがResponses APIを活用し、ファイル操作やツール利用が可能なエージェント実行環境を構築。\n・セキュアなコンテナ上でシェルツールを動かすことで、スケーラブルかつ自律的なAIエージェントを実現。\n・単なる対話モデルから、PC環境を操作してタスクを完遂する「エージェント」への進化を促進。"
+  },
+  {
+    "title": "Wayfair boosts catalog accuracy and support speed with OpenAI",
+    "link": "https://openai.com/index/wayfair",
+    "source": "OpenAI",
+    "published": "Wed, 11 Mar 2026 11:00:00 GMT",
+    "summary": "Wayfair uses OpenAI models to improve ecommerce support and product catalog accuracy, automating ticket triage and enhancing millions of product attributes at scale.",
+    "image": "https://openai.com/favicon.ico",
+    "fetched_at": "2026-03-12 15:06:17",
+    "ja_summary": "・WayfairがOpenAIのAIモデルを導入し、ECサイトの顧客対応と商品カタログ管理を効率化。\n・AIによる問い合わせの自動振り分けでサポート速度を向上。\n・数百万件におよぶ商品属性情報の最適化を自動化し、カタログの正確性を大幅に改善。"
+  },
+  {
+    "title": "Improving instruction hierarchy in frontier LLMs",
+    "link": "https://openai.com/index/instruction-hierarchy-challenge",
+    "source": "OpenAI",
+    "published": "Tue, 10 Mar 2026 11:00:00 GMT",
+    "summary": "IH-Challenge trains models to prioritize trusted instructions, improving instruction hierarchy, safety steerability, and resistance to prompt injection attacks.",
+    "image": "https://openai.com/favicon.ico",
+    "fetched_at": "2026-03-12 15:06:17",
+    "ja_summary": "・「IH-Challenge」により、LLMが信頼できる指示を優先して実行する能力を強化。\n・安全性や制御性が向上し、悪意あるプロンプト注入攻撃への耐性を強化。\n・LLMの信頼性とセキュリティを飛躍的に高める新たな学習手法。"
+  },
+  {
+    "title": "Google系サービスで文字起こしから勝手にカレンダーを埋めるエージェントを作った話",
+    "link": "https://speakerdeck.com/risatube/googlexi-sabisudewen-zi-qi-kosikarasheng-shou-nikarendawomai-meruezientowozuo-tutahua",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-03-12T01:22:50-04:00",
+    "summary": "2026/3/12 AI Agent Builders Meetup #2 にて発表\nhttps://aibuilders.connpass.com/event/385164/\n\nデモ動画のリンク\nhttps://youtu.be/75EQTa9SxWI",
+    "image": "https://files.speakerdeck.com/presentations/b118890b16914728b16a50b5e23509f7/preview_slide_0.jpg?38708024",
+    "fetched_at": "2026-03-12 15:06:30",
+    "ja_summary": "・会議の文字起こし内容から、AIが自動的にスケジュールを抽出する仕組みを構築。\n・作成したAIエージェントがカレンダーの登録までを完結させる効率化ツール。\n・AI Agent Builders Meetupにて、実際のデモを交えて手法を公開。"
+  },
+  {
+    "title": "コンピュータ科学の神様が「AIに負けた」日 — Donald Knuth『Claude's Cycles』を読み解く",
+    "link": "https://qiita.com/nogataka/items/ecbaedb3d7ffc29c9fb2",
+    "source": "Qiita (Popular)",
+    "published": "2026-03-04T12:28:56+09:00",
+    "summary": "\n## はじめに：「Shock! Shock!」\n\n2026年2月28日、コンピュータ科学の世界に小さな衝撃が走った。\n\nDonald Knuth（ドナルド・クヌース）が新しい論文を公開した。タイトルは「Claude's Cycles」。冒頭の一言はこうだ。\n\n> \"Shock! Shock!\"\n\n87歳のKnuthが、AIに対する自分の見方を改めざるを得なくなった。その経緯を記した短い論文は、H",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYxNjEyOTglMkZjMWUzZmZkNmVhZGExOTY5ZmYzYzQ0YjE0ZmRlMDgxYmNkZTZmNTAwJTJGeF9sYXJnZS5wbmclM0YxNTg0ODQ1NTg0P2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz00ZGRjZmU5NTFjNTMyMzU3NjcyOGUzOTkyOTNmOGRlNQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D246367bff431168e6212d2602a3df494?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgyJUIzJUUzJTgzJUIzJUUzJTgzJTk0JUUzJTgzJUE1JUUzJTgzJUJDJUUzJTgyJUJGJUU3JUE3JTkxJUU1JUFEJUE2JUUzJTgxJUFFJUU3JUE1JTlFJUU2JUE3JTk4JUUzJTgxJThDJUUzJTgwJThDQUklRTMlODElQUIlRTglQjIlQTAlRTMlODElOTElRTMlODElOUYlRTMlODAlOEQlRTYlOTclQTUlMjAlRTIlODAlOTQlMjBEb25hbGQlMjBLbnV0aCVFMyU4MCU4RUNsYXVkZSUyN3MlMjBDeWNsZXMlRTMlODAlOEYlRTMlODIlOTIlRTglQUElQUQlRTMlODElQkYlRTglQTclQTMlRTMlODElOEYmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz03YTRiODZlZDAwYjdiMTFmNmNkNTNmODhjNzkxZDJhNw&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBub2dhdGFrYSZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWE5ODA4YTE0Zjg4Y2I0ZjQ5OWU2ZDA3NGYyY2E2YTNh&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=5392872a647f7e380b56afada9f616cd",
+    "fetched_at": "2026-03-12 15:06:34",
+    "ja_summary": "コンピュータ科学の権威ドナルド・クヌース氏が、AIの性能に対し自身の見解を劇的に改めるに至った経緯を論文「Claude's Cycles」で発表した。\n87歳にしてAIの実力に衝撃を受けた同氏の心境の変化は、業界に大きな驚きをもたらしている。\nAIが専門家の評価さえ覆す段階に達したことを象徴する出来事として注目されている。"
+  },
+  {
+    "title": "最近のQiitaがおかしい（かもしれない）",
+    "link": "https://qiita.com/KaiTomotake/items/77d59a91ce2f2ab54209",
+    "source": "Qiita (Popular)",
+    "published": "2026-03-04T19:59:17+09:00",
+    "summary": ":::note warn\nこの記事は割と思想強めかもしれません。\n苦手だなと思ったらすぐにページを閉じることを推奨します。\n:::\n\n# 自己紹介\n\nこんにちは。KaiTomotakeと申します。\n昔、よくQiitaのお世話になっていました。\n最近はQiitaの記事を書く側になろうと思い、またQiitaに戻ってきました。\n\n# 久しぶりにQiitaに帰ってきて驚愕したこと\n\nやはりなんと言っても*",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmF2YXRhcnMuZ2l0aHVidXNlcmNvbnRlbnQuY29tJTJGdSUyRjI0NjYyODMwNCUzRnYlM0Q0P2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz1kNjU1NzEwN2UyZThhNmM2ZjcxMzhkNGU4NzdjODljNw%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D782e28bb579e700fa962f06761ee3b9a?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUU2JTlDJTgwJUU4JUJGJTkxJUUzJTgxJUFFUWlpdGElRTMlODElOEMlRTMlODElOEElRTMlODElOEIlRTMlODElOTclRTMlODElODQlRUYlQkMlODglRTMlODElOEIlRTMlODIlODIlRTMlODElOTclRTMlODIlOEMlRTMlODElQUElRTMlODElODQlRUYlQkMlODkmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz03MjRlYjA0OWNkNzkwYjU4NDRhYTg5NWUxODA3NTE4OA&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBLYWlUb21vdGFrZSZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWMyZjBkYTZlZWU0OTFhOTk0YjZkNTk3ZjM5MTZmZTMy&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=3e60417dadef14990518616668f05d5f",
+    "fetched_at": "2026-03-12 15:06:34",
+    "ja_summary": "・かつて利用していたQiitaに久々に復帰した筆者が、現在のサイトの状況に対して強い違和感を抱いている。\n・個人の主観に基づいた批判的かつ思想の強い内容が示唆されている。"
+  },
+  {
+    "title": "AI時代にすべてをGitHubで管理するあなたへ — HTTPS接続、今すぐやめてください",
+    "link": "https://qiita.com/kenimo49/items/27e2a11e80fe3b835f96",
+    "source": "Qiita (Popular)",
+    "published": "2026-03-06T06:31:34+09:00",
+    "summary": "## はじめに\n\nClaude Code、Cursor、Copilot — AIにコードを書かせる時代になりました。\n\nそしてその流れで、**コード以外もGitHubに置く人**が増えています。\n\n- AIエージェントの設定ファイル・記憶データ\n- 会社のナレッジベース\n- 契約書・請求書\n- 確定申告の書類（PDF・画像）\n\n「AIに自分の情報を持たせたい」「どのPCからでもアクセスしたい」「バ",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0MzYwMDIxJTJGMGJhMTg4MDA1NDA2MWQ4MWI5YWY2ZmFiN2FhY2E2YmRmYzNkNWYyNCUyRnhfbGFyZ2UucG5nJTNGMTc3MTI4ODM2Mj9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9ZWE4YjBjOTBjZWY1NGU0NmZkNjliMzIwYzhiNjEyNzk%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Dbdbfcdae9d6682dced04f1f10b2b84a9?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9QUklRTYlOTklODIlRTQlQkIlQTMlRTMlODElQUIlRTMlODElOTklRTMlODElQjklRTMlODElQTYlRTMlODIlOTJHaXRIdWIlRTMlODElQTclRTclQUUlQTElRTclOTAlODYlRTMlODElOTklRTMlODIlOEIlRTMlODElODIlRTMlODElQUElRTMlODElOUYlRTMlODElQjglMjAlRTIlODAlOTQlMjBIVFRQUyVFNiU4RSVBNSVFNyVCNiU5QSVFMyU4MCU4MSVFNCVCQiU4QSVFMyU4MSU5OSVFMyU4MSU5MCVFMyU4MiU4NCVFMyU4MiU4MSVFMyU4MSVBNiVFMyU4MSU4RiVFMyU4MSVBMCVFMyU4MSU5NSVFMyU4MSU4NCZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPWM3ZGY1NzdjODQ0Y2UzOGExZGUxYjI1Mzg0MTFhMDEx&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBrZW5pbW80OSZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTM1YmJkYzRmYjFhNDE2N2EzOTJlYTc4MjkzZTE0MTI5&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=b0d0755b649a60a4416634947fd21dc9",
+    "fetched_at": "2026-03-12 15:06:35",
+    "ja_summary": "・AI活用で個人情報や機密文書までGitHub管理する人が増えているが、HTTPS接続（ID/パスワード認証）は漏洩リスクが高く極めて危険。\n・GitHub利用時は必ず「SSH接続」に切り替え、秘密鍵で強固なセキュリティを確保すること。\n・重要書類はAIの利便性よりも安全性を優先し、クラウドストレージ等の適切な管理方法を選択すべき。"
+  },
+  {
     "title": "大手企業でも5割が「専門人材の確保が追い付いていない」　なぜか？",
     "link": "https://www.itmedia.co.jp/business/articles/2603/11/news028.html",
     "source": "ITmedia ビジネス",
@@ -918,85 +998,5 @@
     "image": "https://xtech.nikkei.com/atcl/nxt/column/18/00166/030600195/topm.jpg?20220512",
     "fetched_at": "2026-03-12 05:26:45",
     "ja_summary": "・SF小説『猿の惑星』を再読し、現代社会と照らし合わせて考察。\n・人類が支配権を失う物語から、AIが支配する未来への警鐘を鳴らす。\n・技術革新が進む現在、AIとの共生における潜在的リスクを再考する。"
-  },
-  {
-    "title": "「未知の問題を解けるのがAGI」、AI研究者のフランソワ・ショレ氏が指摘",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03543/031000001/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "AI新興企業の米エヌディアの共同創業者であるフランソワ・ショレ氏は2026年3月3日、AIを活用した産業変革を議論する「AIリーダーズ会議 2026 Spring」の基調講演に登壇し、AGIについての見解や、AIの知能を評価するベンチマーク「ARC-AGI」の開発経緯などを語った。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03543/031000001/topm.jpg?20220512",
-    "fetched_at": "2026-03-12 05:26:46",
-    "ja_summary": "・AI研究者フランソワ・ショレ氏が、真のAGIの定義を「未知の問題を解ける能力」と指摘。\n・AIの知能を正確に評価する新たなベンチマーク「ARC-AGI」の開発背景を解説した。\n・AIリーダーズ会議2026にて、AIによる産業変革とAGIの本質について論じた。"
-  },
-  {
-    "title": "SKテレコム、AIで複数アンテナの干渉低減　次世代スマホ見据え",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03505/030600011/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "韓国通信大手のSKテレコムはモバイル関連の世界最大級の展示会「MWC Barcelona 2026」で、次世代スマートフォン向けのマルチアンテナ技術を展示した。スマホを手で持つことによる通信品質の急激な低下を防ぐ。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03505/030600011/SNS.jpg?20220512",
-    "fetched_at": "2026-03-12 05:26:47",
-    "ja_summary": "・SKテレコムがスマホの通信品質を向上させる新アンテナ技術を発表。\n・手で端末を持つことで生じる電波干渉をAIで低減。\n・次世代スマホ向けに、快適な通信環境の実現を目指す。"
-  },
-  {
-    "title": "残業時間が4割減　特注設備メーカーがTeamsに独自AI、指示や理解を正確に",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11569/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "名古屋で特注設備の設計・開発を行う広島では、自社のノウハウを学習させたAIをTeamsと組み合わせ、プロジェクトメンバーの業務を支援する「WAIOS（ワイオス）」を開発した。タスクの明確化などにより手戻りが減り、従業員の残業時間が大きく減少した。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11569/topm.jpg?20220512",
-    "fetched_at": "2026-03-12 05:26:47",
-    "ja_summary": "・特注設備メーカー広島が、自社ノウハウを学習したAI「WAIOS」をTeamsに導入。\n・タスク指示の明確化により業務の精度が向上し、手戻りを大幅に削減。\n・業務効率化によって、従業員の残業時間を4割削減することに成功。"
-  },
-  {
-    "title": "Photoshop、音声で編集指示「AIアシスタント」 Web・モバイル版に",
-    "link": "https://www.watch.impress.co.jp/docs/news/2092374.html",
-    "source": "Impress Watch",
-    "published": "",
-    "summary": "アドビは、Photoshop(Web版・モバイル版)の新機能として、画像編集を音声で指示できる対話型AI「AIアシスタント」の提供を開始した。パブリックベータ版として提供される。またAdobe Firefly画像エディターには新しいAIツールが追加された。",
-    "image": "https://www.watch.impress.co.jp/img/ipw/list/2092/374/0000.jpg",
-    "fetched_at": "2026-03-12 05:26:51",
-    "ja_summary": "・PhotoshopのWeb・モバイル版に、音声で編集指示ができる「AIアシスタント」が登場。\n・パブリックベータ版として提供を開始。\n・Adobe Firefly画像エディターにも新AIツールが追加された。"
-  },
-  {
-    "title": "U.S. Bancorp、RBCカンファレンスで戦略的拡大とAI注力を表明",
-    "link": "https://jp.investing.com/news/transcripts/article-93CH-1455279",
-    "source": "Investing.com ニュース",
-    "published": "2026-03-11 19:47:33",
-    "summary": "",
-    "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-    "fetched_at": "2026-03-12 05:27:04",
-    "ja_summary": "U.S. BancorpがRBCカンファレンスにて、中核事業の戦略的拡大とAI活用による業務効率化の方針を表明。\nデジタル技術への投資を強化し、顧客体験の向上と収益性の最大化を目指す。"
-  },
-  {
-    "title": "Rakuten fixes issues twice as fast with Codex",
-    "link": "https://openai.com/index/rakuten",
-    "source": "OpenAI",
-    "published": "Wed, 11 Mar 2026 13:00:00 GMT",
-    "summary": "Rakuten uses Codex, the coding agent from OpenAI, to ship software faster and safer, reducing MTTR 50%, automating CI/CD reviews, and delivering full-stack builds in weeks.",
-    "image": "https://openai.com/favicon.ico",
-    "fetched_at": "2026-03-12 05:27:05",
-    "ja_summary": "・楽天がOpenAIの「Codex」を導入し、ソフトウェア開発を高速化。\n・障害復旧時間（MTTR）を50%短縮し、CI/CDのレビューを自動化。\n・フルスタック開発の期間を数週間単位に短縮し、安全性と効率を向上。"
-  },
-  {
-    "title": "アップルのAIスマートディスプレイ、新Siriが完成せず9月に発売延期か",
-    "link": "https://japan.cnet.com/article/35244885/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "あなたの家はアップルの音声アシスタント「Siri」でさらにスマートになる見込みだが、もう少し待つ必要がありそうだ。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35244885/\"><img src=\"https://japan.cnet.com/storage/2026/03/11/009f4ef5091288e4e49d85d3b6d92ba9/t/184/138/d/gettyimages-2255802336_1280x960.jpg\" /></a>",
-    "image": "https://japan.cnet.com/storage/2026/03/11/009f4ef5091288e4e49d85d3b6d92ba9/t/184/138/d/gettyimages-2255802336_1280x960.jpg",
-    "fetched_at": "2026-03-12 04:50:07",
-    "ja_summary": "・アップルの新型AIスマートディスプレイの発売が延期される見通し。\n・新機能「Siri」の開発完了が間に合わないことが主な要因。\n・製品化にはもう少し時間がかかる見込み。"
-  },
-  {
-    "title": "10万円で200円余るMacBook NeoでAI音楽制作は成立するのか。 Logic ProとSunoで検証してみた（CloseBox）",
-    "link": "https://www.techno-edge.net/article/2026/03/11/4916.html",
-    "source": "TechnoEdge",
-    "published": "Wed, 11 Mar 2026 13:21:41 +0900",
-    "summary": "MacBook Neoが我が家に届きました。もちろん自腹で購入したニューマシン。10万円をちょっと切る格安マシンはLogic Proがちゃんと動くのか、検証してみました。",
-    "image": "https://www.techno-edge.net/imgs/rss/29920.jpg",
-    "fetched_at": "2026-03-12 04:50:22",
-    "ja_summary": "・10万円以下の格安PC「MacBook Neo」で音楽制作ソフト「Logic Pro」が快適に動作するかを検証。\n・AI音楽生成サービス「Suno」との連携も含め、制作環境としての実用性をテスト。\n・低価格マシンがプロレベルの音楽制作作業にどこまで通用するのかを明らかにする。"
   }
 ]
