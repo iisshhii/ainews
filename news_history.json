@@ -1,5 +1,55 @@
 [
   {
+    "title": "ガバメントAIで試用する国内大規模言語モデル（LLM）の公募結果",
+    "link": "https://www.digital.go.jp/news/10d55c63-b3e1-42b9-9cc5-93a06943ae0e",
+    "source": "デジタル庁",
+    "published": "Fri, 06 Mar 2026 13:00:08 +0900",
+    "summary": "",
+    "image": "https://www.digital.go.jp/themes/custom/gov_theme_da_2023/assets/images/ogp.png",
+    "fetched_at": "2026-03-12 20:34:20",
+    "ja_summary": "政府が「ガバメントAI」の試用に向け、採用する国内製LLM（大規模言語モデル）の公募結果を公表。\n国産技術の活用により、行政事務の効率化と高度化を図る方針。\n今後、選定されたモデルを用いて業務へのAI導入・検証が本格化する。"
+  },
+  {
+    "title": "Anthropic acquires Vercept to advance Claude's computer use capabilities",
+    "link": "https://www.anthropic.com/news/acquires-vercept",
+    "source": "Anthropic (News)",
+    "published": "Wed, 25 Feb 2026 00:00:00 +0000",
+    "summary": "Anthropic acquires Vercept to advance Claude's computer use capabilities",
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Node%20Cursor&amp;backgroundColor=coral",
+    "fetched_at": "2026-03-12 20:34:29",
+    "ja_summary": "・AnthropicがAIモデル「Claude」のPC操作能力強化を目的に、スタートアップ企業Verceptを買収。\n・PC上の操作をAIが直接実行する「Computer Use」機能の精度と実用性の向上を狙う。\n・AIによる自動化技術を加速させ、業務効率化ツールとしての競争力を高める。"
+  },
+  {
+    "title": "Anthropic’s Responsible Scaling Policy: Version 3.0",
+    "link": "https://www.anthropic.com/news/responsible-scaling-policy-v3",
+    "source": "Anthropic (News)",
+    "published": "Tue, 24 Feb 2026 00:00:00 +0000",
+    "summary": "Anthropic’s Responsible Scaling Policy: Version 3.0",
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Quill&amp;backgroundColor=olive",
+    "fetched_at": "2026-03-12 20:34:32",
+    "ja_summary": "・AnthropicがAIの安全基準を定めた「責任あるスケーリングポリシー」の最新版（v3.0）を発表。\n・AI開発におけるリスク管理を強化し、高度なモデルの安全性評価と運用の透明性を向上。\n・AIの暴走を未然に防ぐため、技術的進歩と安全性の両立を目指す指針を明確化。"
+  },
+  {
+    "title": "Making frontier cybersecurity capabilities available to defenders",
+    "link": "https://www.anthropic.com/news/claude-code-security",
+    "source": "Anthropic (News)",
+    "published": "Fri, 20 Feb 2026 00:00:00 +0000",
+    "summary": "Making frontier cybersecurity capabilities available to defenders",
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object-LaptopSecure&amp;backgroundColor=clay",
+    "fetched_at": "2026-03-12 20:34:34",
+    "ja_summary": "・最先端のサイバーセキュリティ技術を防衛側に提供する取り組みを推進。\n・高度化する脅威に対抗するため、最新の防衛能力を広く活用可能にする。\n・防御側の対応力を強化し、より安全なデジタル環境の構築を目指す。"
+  },
+  {
+    "title": "Java and AI: Building Production-Ready LLM Applications (Without the Hype)",
+    "link": "https://speakerdeck.com/thomasvitale/java-and-ai-building-production-ready-llm-applications-without-the-hype",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-03-12T06:58:13-04:00",
+    "summary": "You’re a software engineer, and your project has to integrate AI. Hopefully, not just any AI. You probably need solutions that are private, efficient, and production-ready, not just a checkbox for the latest trend. Join me in this session, where we’ll apply The WHY Factor to cut through the hype and focus on what actually works.\n\nIn this hands-on session, we’ll explore how to build robust LLM applications using Java, open-source tools, and European machine learning models, ensuring compliance, security, and developer-friendly workflows. You’ll learn how to:\n\n- Leverage open-source and European LLMs for inference, reducing dependency risks and keeping your data under your control.\n- Design modular RAG architectures with Docling, enabling private, resource-efficient, and hallucination-free document processing.\n- Integrate agentic workflows securely, connecting your enterprise applications and APIs without compromising privacy.\n- Monitor, test, and refine your Generative AI applications locally, using observability and evaluation strategies for real-world reliability.\n\nWe’ll build a live demo to show how Java and Spring AI can help you integrate AI responsibly: local-first, open-source, and hype-free. By the end of this session, we’ll have a working application, and a bigger question: Does this AI solution actually address a need, or is it just another trend we’re chasing?",
+    "image": "https://files.speakerdeck.com/presentations/6ce8f8c0035c4db0a1200e7f03357e5a/preview_slide_0.jpg?38712411",
+    "fetched_at": "2026-03-12 20:34:37",
+    "ja_summary": "・JavaとSpring AIを活用し、企業の要件に適した実用的で堅牢なAIアプリを開発する手法を解説。\n・オープンソースモデルやローカル環境を活用し、データ主権を確保しつつセキュリティと信頼性を担保。\n・流行に左右されず、業務課題を真に解決するための設計から運用までのプロセスをデモを交えて提案。"
+  },
+  {
     "title": "Perplexity、Mac miniを専用エージェントにする「パーソナルコンピュータ」",
     "link": "https://www.watch.impress.co.jp/docs/news/2092993.html",
     "source": "Impress Watch",
@@ -948,55 +998,5 @@
     "image": "https://www.digital.go.jp/themes/custom/gov_theme_da_2023/assets/images/ogp.png",
     "fetched_at": "2026-03-12 07:48:17",
     "ja_summary": "・全府省庁の職員約18万人を対象に、生成AI「ガバメントAI（源内）」の実証実験を開始。\n・行政業務の効率化と生産性向上を図り、デジタル化を加速させる。\n・全国規模での導入を通じて、AI活用の知見蓄積と政府全体のDXを推進する。"
-  },
-  {
-    "title": "【Oracle Cloud ウェビナー】【入門編】はじめてのOracle AI Data Platform - AIのためのデータ準備&自社用AIエージェントをワンストップで実現",
-    "link": "https://speakerdeck.com/oracle4engineer/ocwc_20260311_aidp",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-03-11T04:17:07-04:00",
-    "summary": "Oracle Cloud ウェビナーシリーズ情報: https://oracle.com/goto/ocws-jp\t\t\t\t\t\t\nセッション動画: https://go.oracle.com/ocws-jp-ondemand",
-    "image": "https://files.speakerdeck.com/presentations/37e63da809f8472d92c3d0ae883642d3/preview_slide_0.jpg?38697271",
-    "fetched_at": "2026-03-12 07:48:31",
-    "ja_summary": "・AI活用に必要なデータ準備から自社専用AIエージェント構築までをOracle Cloudで実現。\n・AI導入の基礎を学べる「入門編」ウェビナーのオンデマンド動画を公開中。\n・AIプラットフォームの構築手法を効率的に習得したいビジネスパーソン向け。"
-  },
-  {
-    "title": "OpenClawに垣間見えるAIエージェントの未来 課題は信頼性 (世界鳥瞰)",
-    "link": "https://business.nikkei.com/atcl/NBD/19/world/00782/",
-    "source": "日経ビジネス 最新",
-    "published": "",
-    "summary": "パーソナルエージェントの先駆けが登場した。個人データへのアクセス権を持つなど課題は信頼性。現状では欠陥が大きく、将来の形はまだ見えない。",
-    "image": "https://business.nikkei.com/atcl/NBD/19/world/00782/fb.jpg",
-    "fetched_at": "2026-03-12 07:21:37",
-    "ja_summary": "・個人データにアクセスして代行操作を行う「AIエージェント」が登場した。\n・現状は信頼性や精度の面で大きな欠陥があり、実用化には課題が残る。\n・将来的な普及には、利便性と安全性の両立が不可欠である。"
-  },
-  {
-    "title": "全社AI活用を促進する　5階層のアーキテクチャー",
-    "link": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020500531/030300002/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "AIアーキテクチャーの全体像は、大きく5階層に分けられる。実現する機能に合わせて各階層が連携する。各階層の概要を把握し、AI導入の落とし穴を回避しよう。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020500531/030300002/topm.jpg?20220512",
-    "fetched_at": "2026-03-12 07:21:40",
-    "ja_summary": "・AI導入を成功させるには、機能別に整理された「5階層のアーキテクチャー」の理解が不可欠。\n・各階層が適切に連携することで、組織全体でのAI活用がスムーズに進む。\n・階層構造を正しく把握し、導入時に陥りやすい落とし穴を回避する。"
-  },
-  {
-    "title": "JR東日本、山手線の復旧時間「3割短縮」へ　AIカメラでパンタグラフを監視",
-    "link": "https://japan.cnet.com/article/35244905/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "JR東日本は3月10日、輸送障害が発生した際の設備点検にAIによる画像解析とドローンを活用する仕組みを導入すると発表した。まずは山手線で2026年度から運用を始め、故障箇所の特定や設備確認にかかる時間を短縮し、運転再開までの時間を従来より約30％短くすることを目指す。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35244905/\"><img src=\"https://japan.cnet.com/storage/2026/03/12/987b2121d032c773943dcacde838d014/t/184/138/d/2026-03-12_7.04の画像.jpeg\" /></a>",
-    "image": "https://japan.cnet.com/storage/2026/03/12/987b2121d032c773943dcacde838d014/t/184/138/d/2026-03-12_7.04の画像.jpeg",
-    "fetched_at": "2026-03-12 07:21:48",
-    "ja_summary": "JR東日本は2026年度から山手線にAIカメラとドローンによる点検システムを導入する。\n故障箇所の特定を自動化・迅速化し、トラブル時の運転再開までの時間を3割短縮する。\n設備確認の効率化により、輸送障害の影響を最小限に抑えることを目指す。"
-  },
-  {
-    "title": "トヨクモCEO、「SaaSの死」は勝機--「適者生存」で攻めに転じる戦略とは",
-    "link": "https://japan.zdnet.com/article/35244838/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "AIの進化で「SaaS is Dead」という言葉が聞かれるようになった中、トヨクモはこの激変を「最大のチャンス」と断言する。新技術が当たり前になる成熟フェーズに照準を合わせ、AI前提の圧倒的な低コスト体制で市場の相場観を塗り替える構えだ。不合理なコスト構造を破壊し、次なる大衆化市場を手繰り寄せる同社の生存戦略とは。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35244838/\"><img src=\"https://japan.zdnet.com/storage/2026/03/10/523cc714dea6089579d088e99cd3bb35/t/184/138/d/250310_toyokumo_l.jpg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2026/03/10/523cc714dea6089579d088e99cd3bb35/t/184/138/d/250310_toyokumo_l.jpg",
-    "fetched_at": "2026-03-12 07:22:05",
-    "ja_summary": "・AI活用により「SaaSの死」が囁かれる中、トヨクモはむしろこれを市場シェア拡大の好機と捉える。\n・AI前提の圧倒的な低コスト体制を構築し、既存の不合理な価格構造を破壊する。\n・技術進化を追い風に、次世代の大衆化市場で新たな標準を確立する戦略をとる。"
   }
 ]
