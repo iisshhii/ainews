@@ -1,5 +1,45 @@
 [
   {
+    "title": "OpenClawに垣間見えるAIエージェントの未来 課題は信頼性 (世界鳥瞰)",
+    "link": "https://business.nikkei.com/atcl/NBD/19/world/00782/",
+    "source": "日経ビジネス 最新",
+    "published": "",
+    "summary": "パーソナルエージェントの先駆けが登場した。個人データへのアクセス権を持つなど課題は信頼性。現状では欠陥が大きく、将来の形はまだ見えない。",
+    "image": "https://business.nikkei.com/atcl/NBD/19/world/00782/fb.jpg",
+    "fetched_at": "2026-03-12 20:57:44",
+    "ja_summary": "・個人データにアクセスする次世代のAIエージェント「OpenClaw」が登場。\n・現状は欠陥が多く、実用化に向けた信頼性の確保が最大の課題。\n・利便性は高いが、普及には安全性と精度の向上が不可欠。"
+  },
+  {
+    "title": "全社AI活用を促進する　5階層のアーキテクチャー",
+    "link": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020500531/030300002/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "AIアーキテクチャーの全体像は、大きく5階層に分けられる。実現する機能に合わせて各階層が連携する。各階層の概要を把握し、AI導入の落とし穴を回避しよう。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020500531/030300002/topm.jpg?20220512",
+    "fetched_at": "2026-03-12 20:57:47",
+    "ja_summary": "・AI活用には5階層のアーキテクチャー理解が不可欠。\n・各階層の機能を連携させ、全体最適を図る。\n・構造を把握することで、導入時の落とし穴を回避できる。"
+  },
+  {
+    "title": "JR東日本、山手線の復旧時間「3割短縮」へ　AIカメラでパンタグラフを監視",
+    "link": "https://japan.cnet.com/article/35244905/",
+    "source": "CNET Japan",
+    "published": "",
+    "summary": "JR東日本は3月10日、輸送障害が発生した際の設備点検にAIによる画像解析とドローンを活用する仕組みを導入すると発表した。まずは山手線で2026年度から運用を始め、故障箇所の特定や設備確認にかかる時間を短縮し、運転再開までの時間を従来より約30％短くすることを目指す。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35244905/\"><img src=\"https://japan.cnet.com/storage/2026/03/12/987b2121d032c773943dcacde838d014/t/184/138/d/2026-03-12_7.04の画像.jpeg\" /></a>",
+    "image": "https://japan.cnet.com/storage/2026/03/12/987b2121d032c773943dcacde838d014/t/184/138/d/2026-03-12_7.04の画像.jpeg",
+    "fetched_at": "2026-03-12 20:57:53",
+    "ja_summary": "JR東日本は山手線でAI画像解析とドローンを活用した設備点検を2026年度から導入する。\n故障箇所の特定を迅速化し、トラブル時の運転再開までの時間を3割短縮することを目指す。"
+  },
+  {
+    "title": "ArgusがAI創薬ツールを評価しBio-Techne株の目標株価を引き上げ",
+    "link": "https://jp.investing.com/news/analyst-ratings/article-93CH-1456296",
+    "source": "Investing.com ニュース",
+    "published": "2026-03-12 11:47:49",
+    "summary": "",
+    "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+    "fetched_at": "2026-03-12 20:58:06",
+    "ja_summary": "・投資調査会社ArgusがBio-TechneのAI創薬ツールの有効性を高く評価\n・同社の技術が製薬プロセスを効率化すると判断し、目標株価を引き上げ\n・成長期待の高まりにより、今後の株価上昇余地が示唆された"
+  },
+  {
     "title": "ガバメントAIで試用する国内大規模言語モデル（LLM）の公募結果",
     "link": "https://www.digital.go.jp/news/10d55c63-b3e1-42b9-9cc5-93a06943ae0e",
     "source": "デジタル庁",
@@ -958,45 +998,5 @@
     "image": "https://www.techno-edge.net/imgs/rss/29836.png",
     "fetched_at": "2026-03-12 07:48:16",
     "ja_summary": "・プログラミング不要で、完全ローカル環境のエージェンティックAIを誰でも開発可能。\n・自分で機能を追加・育成できるため、独自の目的に特化したAI運用が実現。\n・AI研究家の清水亮氏の協力を得て、専門知識なしで高度なAIエージェント作成に挑戦する時代へ。"
-  },
-  {
-    "title": "プロ品質をローカルで使えて商用利用可能な音声付き動画生成AI「LTX-2.3」登場。Web版「LTX Studio」も（生成AIクローズアップ）",
-    "link": "https://www.techno-edge.net/article/2026/03/09/4902.html",
-    "source": "TechnoEdge",
-    "published": "Mon, 09 Mar 2026 07:18:29 +0900",
-    "summary": "今回は、Lightricksよりリリースされた、最新の音声付き動画生成AIモデルである「LTX-2.3」を取り上げます。2026年1月にご紹介した、Sora 2 Pro越えのローカル動画生成AI「LTX-2」のアップデート版になります。",
-    "image": "https://www.techno-edge.net/imgs/rss/29824.jpg",
-    "fetched_at": "2026-03-12 07:48:16",
-    "ja_summary": "・商用利用可能な音声付き動画生成AI「LTX-2.3」が登場。\n・前モデル「LTX-2」のアップデート版で、より高品質な生成を実現。\n・ローカル環境での実行に加え、Web版「LTX Studio」でも利用可能。"
-  },
-  {
-    "title": "OpenAI、軍事に関する契約への倫理的懸念からロボット・消費者向けハード開発リーダーが離職",
-    "link": "https://www.techno-edge.net/article/2026/03/08/4901.html",
-    "source": "TechnoEdge",
-    "published": "Sun, 08 Mar 2026 16:26:46 +0900",
-    "summary": "OpenAIのロボティクスおよび消費者向けハードウェア開発リーダーあるケイトリン・カリノフスキー氏は、3月7日に退職したことを明らかにしました。",
-    "image": "https://www.techno-edge.net/imgs/rss/29822.jpg",
-    "fetched_at": "2026-03-12 07:48:16",
-    "ja_summary": "OpenAIのロボット・消費者向けハード開発の責任者であるケイトリン・カリノフスキー氏が退職した。\n退職の背景には、同社の軍事利用に関連する契約方針への懸念があると報じられている。"
-  },
-  {
-    "title": "第3回先進的AI利活用アドバイザリーボードの会議資料等を掲載しました",
-    "link": "https://www.digital.go.jp/councils/ai-advisory-board/80174015-f73b-4d98-811e-c601c26c0ba5",
-    "source": "デジタル庁",
-    "published": "Tue, 10 Mar 2026 15:00:00 +0900",
-    "summary": "",
-    "image": "https://www.digital.go.jp/themes/custom/gov_theme_da_2023/assets/images/ogp.png",
-    "fetched_at": "2026-03-12 07:48:17",
-    "ja_summary": "政府が推進する「第3回先進的AI利活用アドバイザリーボード」の会議資料が公開されました。\nAIの利活用に関する議論の最新状況や検討課題を把握できます。\n詳細は関連省庁の公式サイトで確認可能です。"
-  },
-  {
-    "title": "全府省庁の約18万人の政府職員を対象としたガバメントAI（源内）の大規模実証を開始します",
-    "link": "https://www.digital.go.jp/news/2d69c287-2897-46d8-a28f-ea5a1fc9bce9",
-    "source": "デジタル庁",
-    "published": "Fri, 06 Mar 2026 13:00:21 +0900",
-    "summary": "",
-    "image": "https://www.digital.go.jp/themes/custom/gov_theme_da_2023/assets/images/ogp.png",
-    "fetched_at": "2026-03-12 07:48:17",
-    "ja_summary": "・全府省庁の職員約18万人を対象に、生成AI「ガバメントAI（源内）」の実証実験を開始。\n・行政業務の効率化と生産性向上を図り、デジタル化を加速させる。\n・全国規模での導入を通じて、AI活用の知見蓄積と政府全体のDXを推進する。"
   }
 ]
