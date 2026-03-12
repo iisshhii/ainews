@@ -1,5 +1,75 @@
 [
   {
+    "title": "テラデータ、「Enterprise Vector Store」で新AIエージェント機能とマルチモーダル対応を発表",
+    "link": "https://japan.zdnet.com/article/35244859/",
+    "source": "ZDNET Japan",
+    "published": "",
+    "summary": "日本テラデータは、構造化データと非構造化データを単一のSQLクエリで検索できる機能「Teradata Enterprise Vector Store」で新しいAIエージェント機能とマルチモーダル対応を発表した。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35244859/\"><img src=\"https://japan.zdnet.com/storage/2026/03/11/346ad234da24ffd22b00e94f8fb03063/t/184/138/d/20260311_adobestock_390323189_1280x960.jpg\" /></a>",
+    "image": "https://japan.zdnet.com/storage/2026/03/11/346ad234da24ffd22b00e94f8fb03063/t/184/138/d/20260311_adobestock_390323189_1280x960.jpg",
+    "fetched_at": "2026-03-12 10:15:22",
+    "ja_summary": "テラデータが「Enterprise Vector Store」を強化し、AIエージェント機能とマルチモーダル対応を発表。\n構造化・非構造化データの検索が単一SQLで可能になり、AI活用によるデータ分析の利便性が向上する。\n複雑なデータを統合的に処理することで、企業における高度なAI導入を加速させる。"
+  },
+  {
+    "title": "Wolfe FinTechフォーラムでのRemitly：AIと成長戦略",
+    "link": "https://jp.investing.com/news/transcripts/article-93CH-1455642",
+    "source": "Investing.com ニュース",
+    "published": "2026-03-12 01:02:35",
+    "summary": "",
+    "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+    "fetched_at": "2026-03-12 10:15:24",
+    "ja_summary": "・送金大手RemitlyがWolfe FinTechフォーラムで成長戦略を提示。\n・AI技術を活用し、送金業務の効率化と顧客体験の向上を図る。\n・収益拡大に向けた具体的なテクノロジー投資と今後の成長見通しを強調。"
+  },
+  {
+    "title": "Introducing The Anthropic Institute",
+    "link": "https://www.anthropic.com/news/the-anthropic-institute",
+    "source": "Anthropic (News)",
+    "published": "Wed, 11 Mar 2026 00:00:00 +0000",
+    "summary": "Introducing The Anthropic Institute",
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20Book&amp;backgroundColor=oat",
+    "fetched_at": "2026-03-12 10:15:28",
+    "ja_summary": "・AnthropicがAIの安全性と社会への影響を研究する「Anthropic Institute」を設立。\n・AI技術が社会にもたらす課題やリスクの解明と、長期的・倫理的な利活用の促進を目指す。\n・学術機関や専門家と連携し、AI開発の指針となる研究基盤の構築を図る。"
+  },
+  {
+    "title": "Sydney will become Anthropic’s fourth office in Asia-Pacific",
+    "link": "https://www.anthropic.com/news/sydney-fourth-office-asia-pacific",
+    "source": "Anthropic (News)",
+    "published": "Tue, 10 Mar 2026 00:00:00 +0000",
+    "summary": "Sydney will become Anthropic’s fourth office in Asia-Pacific",
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Globe&amp;backgroundColor=sky",
+    "fetched_at": "2026-03-12 10:15:32",
+    "ja_summary": "・AI企業AnthropicがシドニーにAPAC第4の拠点を新設\n・オーストラリア市場でのプレゼンス拡大を狙う\n・アジア太平洋地域における戦略的な展開を加速"
+  },
+  {
+    "title": "【2026/3/9最新】Claude Code新機能『Code Review』、早速使ったら2つのPRで$100超かかった話",
+    "link": "https://zenn.dev/canly/articles/1535fde47ca866",
+    "source": "Zenn Trends",
+    "published": "Tue, 10 Mar 2026 11:17:46 GMT",
+    "summary": "はじめに\n2026年3月9日、Claude Codeに新機能「Code Review」がリリースされました。\nPRが作成されると、複数のエージェントがチームとして派遣され、バグを並列で探索・検証・ランク付けしてくれるという機能です。\n早速使ってみたのですが、非常に高価ということが分かったので、コストを抑える方法も含めて共有します。\n\n 想定読者\n\nClaude Code新機能『Code Review』がどんなものか知りたい方\n実際のコスト感を把握したい方\nコストを抑えつつ同等の機能を使いたい方\n\n\n 参考：公式ブログ・ドキュメント\nまずはこちらをご覧ください。\nhttps://cla...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--ukcT64aP--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%25902026%252F3%252F9%25E6%259C%2580%25E6%2596%25B0%25E3%2580%2591Claude%2520Code%25E6%2596%25B0%25E6%25A9%259F%25E8%2583%25BD%25E3%2580%258ECode%2520Review%25E3%2580%258F%25E3%2580%2581%25E6%2597%25A9%25E9%2580%259F%25E4%25BD%25BF%25E3%2581%25A3%25E3%2581%259F%25E3%2582%25892%25E3%2581%25A4%25E3%2581%25AEPR%25E3%2581%25A7%2524100%25E8%25B6%2585...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:ryu%2520fukuda%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2EwYjI3NWVjYTkuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2582%25AB%25E3%2583%25B3%25E3%2583%25AA%25E3%2583%25BC%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzdmNWE3ZGIyYWIuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-03-12 10:15:42",
+    "ja_summary": "・Claude Codeの「Code Review」は複数エージェントが連携しバグを自動検証する強力な新機能。\n・非常に高精度だが、わずか2つのPRで100ドル超のコストがかかるなど運用には注意が必要。\n・実運用ではコストを抑える工夫が不可欠であり、具体的な活用テクニックが求められる。"
+  },
+  {
+    "title": "埋め込み反転攻撃に対するプライバシー保護手法の定量的評価 - 防御効果と有用性のトレードオフ分析 -",
+    "link": "https://speakerdeck.com/techtekt/embedding-inversion-defense-evaluation",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-03-11T07:57:09-04:00",
+    "summary": "テキストをベクトルに変換する「埋め込み」技術は、検索や推薦システムに広く使われています。しかし、そのベクトルから元の文章を復元できてしまう「反転攻撃」のリスクをご存知でしょうか？本発表では、差分プライバシーや量子化といった防御手法がどこまで有効かを定量的に検証し、安全性と検索精度のトレードオフ構造を明らかにしました。情報処理学会 第88回全国大会での発表資料を公開します。\n\n\n■ <a href=\"https://www.persol-career.co.jp/recruit/career/?argument=HNnQCzAr&amp;dmai=a694bd17f1b63a\">パーソルキャリア採用サイト</a> \n■ <a href=\"https://techtekt.persol-career.co.jp/?argument=HNnQCzAr&amp;dmai=a694bd200f020c\">techtekt（テックテクト）</a> \nパーソルキャリアのエンジニアブログです。“みんなの「はたらく」をテックでつくる”をコンセプトに、技術、組織、学びなど、さまざまな情報を発信しています。\n■ <a href=\"https://nution.persol-career.co.jp/?argument=HNnQCzAr&amp;dmai=a694bd2faad96c\">NUTION（ニューション）</a> \nパーソルキャリアのデザイン組織「NUTION」のブランドサイトです。「デザインの力で、はたらくを変え、社会を変えていく。」をステートメントとし、デザインの価値を広める活動をしています。\n■<a href=\"https://www.tech-street.jp/?argument=HNnQCzAr&amp;dmai=a694bd350f2c39\">TECH Street</a> \nパーソルキャリアが主催する各社の現場で活躍しているITエンジニアやテクノロジー人材から、ITテクノロジーに関するさまざまなテーマの事例や知見が学べる勉強会コミュニティです。",
+    "image": "https://files.speakerdeck.com/presentations/a3682f8d83844a0cac2f0263a17de114/preview_slide_0.jpg?38699966",
+    "fetched_at": "2026-03-12 10:15:43",
+    "ja_summary": "・AIのベクトルデータから元の文章を復元する「反転攻撃」の防御手法を検証。\n・差分プライバシー等の対策における、安全性と検索精度のトレードオフを定量化。\n・情報処理学会にて、AI利用時のプライバシー保護に関する最新の分析結果を公開。"
+  },
+  {
+    "title": "[AI時代でも生き残る] シンプルに優秀な人がやっていること７選",
+    "link": "https://qiita.com/taka_xin/items/d6a9842f477f0aa0b89e",
+    "source": "Qiita (Popular)",
+    "published": "2026-03-11T09:08:52+09:00",
+    "summary": "# はじめに\n\n仕事ができる人の特徴というと、なんとなく\n「頭の回転が速いのかなぁ」\n「地頭がいいんだろうな」\n「とにかく仕事が好きなんだろうなぁ」\nなどを思ったりする人も多いと思います。\n\nただ、実は案外シンプルなことをやっているみたいです。\n\n今回は、シンプルだけど、実際に仕事で差がつく  \n**「優秀な人がやっていること7選」**  \nをまとめてみます。\n\n自分が出会った「この人みたいになり",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGMzkyMTg1MyUyRnByb2ZpbGUtaW1hZ2VzJTJGMTczMDE4MTMzOD9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9ZTFiNzgwOGFhNDdlYmQ0MGIwNWQ5MjZhMjJkZTgwOTg%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkZhZmM0ZGJhZjAzNThlOGQwYjM0NmM4ZDc1ZWIwMzdiMjVmNjc4MDY5JTJGb3JpZ2luYWwuanBnJTNGMTYwNzc1NjU4OD9peGxpYj1yYi00LjAuMCZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz1lMDc1YzkzZTdkYmMzZjRlM2JiMTJhYTRjY2JhMTUzYg%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D13d0e8f173cff5216d0233e5577760b3?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JTVCQUklRTYlOTklODIlRTQlQkIlQTMlRTMlODElQTclRTMlODIlODIlRTclOTQlOUYlRTMlODElOEQlRTYlQUUlOEIlRTMlODIlOEIlNUQlMjAlRTMlODIlQjclRTMlODMlQjMlRTMlODMlOTclRTMlODMlQUIlRTMlODElQUIlRTUlODQlQUElRTclQTclODAlRTMlODElQUElRTQlQkElQkElRTMlODElOEMlRTMlODIlODQlRTMlODElQTMlRTMlODElQTYlRTMlODElODQlRTMlODIlOEIlRTMlODElOTMlRTMlODElQTglRUYlQkMlOTclRTklODElQjgmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz0wNTU5NDZkMDIwYjQxMTA5MmFmYThmNzJmOTcwYjc0YQ&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDB0YWthX3hpbiZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTRlNmU5YjZjZGY5NjUzYjkyZjczMGRmYmZhMTcwNmEz&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=5qCq5byP5Lya56S-44K344Oz44K344Ki&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=a203b3a3bceef73320afebe9a4b62994",
+    "fetched_at": "2026-03-12 10:15:44",
+    "ja_summary": "AI時代に求められる「優秀な人」とは、頭の回転や地頭の良さではなく、実は誰にでもできるシンプルな習慣を継続している人である。仕事で大きな差がつく、彼らが実践している7つの本質的な行動を具体的に紹介する。"
+  },
+  {
     "title": "壮大な\"AIチキンレース\"か　ソフトバンクG株11％急落が示す「技術陳腐化」の足音",
     "link": "https://www.itmedia.co.jp/business/articles/2603/12/news029.html",
     "source": "ITmedia ビジネス",
@@ -928,75 +998,5 @@
     "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
     "fetched_at": "2026-03-11 23:30:58",
     "ja_summary": "Agoraが顧客対応と営業を効率化するAIエージェントプラットフォームを発表。\nリアルタイムで顧客との対話や商談を支援し、業務の自動化と品質向上を実現する。\n顧客接点のDXを加速させ、人的リソースの最適化と成約率の向上をサポートする。"
-  },
-  {
-    "title": "JetCoolがブロードコムとAIチップの液体冷却で提携",
-    "link": "https://jp.investing.com/news/company-news/article-93CH-1454759",
-    "source": "Investing.com ニュース",
-    "published": "2026-03-11 13:14:25",
-    "summary": "",
-    "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-    "fetched_at": "2026-03-11 22:37:50",
-    "ja_summary": "液体冷却技術を手がけるJetCoolがブロードコムと提携。\n高性能AIチップの過熱問題に対し、直接的な液体冷却ソリューションを提供。\n次世代AIサーバーの性能向上と電力効率の改善を目指す。"
-  },
-  {
-    "title": "New ways to learn math and science in ChatGPT",
-    "link": "https://openai.com/index/new-ways-to-learn-math-and-science-in-chatgpt",
-    "source": "OpenAI",
-    "published": "Tue, 10 Mar 2026 10:00:00 GMT",
-    "summary": "ChatGPT introduces interactive visual explanations for math and science, helping students explore formulas, variables, and concepts in real time.",
-    "image": "https://openai.com/favicon.ico",
-    "fetched_at": "2026-03-11 22:37:51",
-    "ja_summary": "・ChatGPTが数学や科学の学習向けに、対話型の視覚的解説機能を導入。\n・数式や変数、概念をリアルタイムで操作しながら深く理解できる。\n・学習者の理解を助けるインタラクティブな教育ツールとして進化。"
-  },
-  {
-    "title": "Debiasing Your Software Design Decision-Making",
-    "link": "https://speakerdeck.com/baasie/debiasing-your-software-design-decision-making",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-03-11T09:20:00-04:00",
-    "summary": "Every significant software design choice—whether you’re designing a bounded context, deciding on the system boundary, settling on an architectural style, selecting a complex system integration approach, and even evaluating a block of AI-generated code—has a moment where one path just feels right. But what if that powerful 'gut feeling' is actually a cognitive bias in disguise?\n\nThe human mind is a powerful tool, yet it is systematically prone to errors. These errors aren't just abstract ideas; they are design flaws in our own decision-making that can lead directly to fragile architectures, ballooning technical debt, and costly rework, regardless of whether the code was human or machine-generated. Biases like the anchoring effect (getting stuck on the first idea) or the sunk cost fallacy (clinging to a failing project) are constantly shaping your software.\n\nJoin us to move from a reactive, bias-driven approach to a deliberate, resilient, and ultimately more effective design process. This talk explores how cutting-edge research from behavioural economics can be applied directly to software architecture and development, with or without AI assistance.\n\nWe will move beyond simply being aware of biases. We will introduce a practical, five-step checklist designed to systematically 'debias' your design choices, helping you build both better software and a better decision-making habit for all your technical work.\n\nYou will learn how to:\n* Be Decision-Ready: Recognize when Myopic Misery is rushing you into action, or when Status Quo Bias is trapping you in inaction due to cognitive load—ensuring you make choices based on strategy, not mental fatigue.\n\n* Broaden the Frame: Combat Functional Fixedness and Additive Bias to uncover the elegant solutions your brain naturally ignores—breaking the cycle of solving every problem by simply adding more complexity.\n\n* Seek Independent Advice: Move past Overconfidence Bias and Correlation Neglect to stop mistaking echoed opinions for independent proof, ensuring you are acting on diverse data rather than a single weak signal amplified by the group.\n\n* Test Your Assumptions: Inoculate your team against the Authority Bias of AI-generated code and the Illusion of Control it fosters, replacing the dangerous comfort of \"black box\" certainty with rigorous stress-testing that withstands real-world chaos.\n\n* Establish Simple Rules: Avoid the Law of Triviality (bikeshedding) to dramatically increase velocity, ensuring your team stops debating low-risk choices and focuses their cognitive energy on the decisions that actually stick.",
-    "image": "https://files.speakerdeck.com/presentations/833efc8edc434a8387338dc8285dacff/preview_slide_0.jpg?38700679",
-    "fetched_at": "2026-03-11 22:38:05",
-    "ja_summary": "ソフトウェア設計の意思決定に潜む「認知バイアス」を排除し、論理的な設計を行うための実践的フレームワークを紹介します。\nアンカリングや現状維持バイアスなどの心理的誤認が招く技術的負債や設計ミスを防ぐ手法を学びます。\n5つのステップによるチェックリストを活用し、AI活用時を含めた客観的かつ効果的な設計プロセスを実現します。"
-  },
-  {
-    "title": "WBC巡りデマ拡散 AI時代の課題",
-    "link": "https://news.yahoo.co.jp/pickup/6572577?source=rss",
-    "source": "Yahoo!ニュース IT・科学",
-    "published": "Mon, 09 Mar 2026 08:01:53 GMT",
-    "summary": "",
-    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/9/1aeb0a8fda2948c1632ce7ef61140252e8b9c455990bea2d4000c98b83aa69d3.jpg",
-    "fetched_at": "2026-03-11 21:01:09",
-    "ja_summary": "WBC関連の偽情報がSNSで拡散され、AIによる精巧な画像生成が大きな社会問題となっている。\n情報の真偽を見極めるリテラシーに加え、AI生成物への法的・倫理的な対策が急務である。\nデジタル社会における情報リスクへの警戒と、メディアリテラシーの再教育が強く求められている。"
-  },
-  {
-    "title": "H.C. Wainwright、希薄化を理由にSAB Biotherapeuticsの目標株価を7ドルに引き下げ",
-    "link": "https://jp.investing.com/news/analyst-ratings/article-93CH-1454474",
-    "source": "Investing.com ニュース",
-    "published": "2026-03-11 11:46:10",
-    "summary": "",
-    "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-    "fetched_at": "2026-03-11 21:01:12",
-    "ja_summary": "・H.C. WainwrightがSAB Biotherapeuticsの目標株価を7ドルに引き下げ。\n・主な要因は、株式発行による希薄化への懸念。\n・投資判断は維持しつつも、将来的な株式価値への影響を反映した評価調整となった。"
-  },
-  {
-    "title": "H.C. WainwrightがLifeMD株の目標株価を業績受けて10ドルに引き上げ",
-    "link": "https://jp.investing.com/news/analyst-ratings/article-93CH-1454472",
-    "source": "Investing.com ニュース",
-    "published": "2026-03-11 11:46:05",
-    "summary": "",
-    "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-    "fetched_at": "2026-03-11 21:01:12",
-    "ja_summary": "・H.C. WainwrightがLifeMDの目標株価を10ドルに引き上げ。\n・良好な業績発表を受けた評価修正。\n・今後の株価上昇余地が期待される。"
-  },
-  {
-    "title": "H.C. Wainwrightが生産拡大を理由にUranium Energyの目標株価を引き上げ",
-    "link": "https://jp.investing.com/news/analyst-ratings/article-93CH-1454471",
-    "source": "Investing.com ニュース",
-    "published": "2026-03-11 11:46:04",
-    "summary": "",
-    "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-    "fetched_at": "2026-03-11 21:01:12",
-    "ja_summary": "・H.C. WainwrightがUranium Energyの目標株価を引き上げ\n・ウラン生産体制の拡大が投資判断の向上を後押し\n・同社の成長性と供給能力の強化が市場で高く評価される"
   }
 ]
