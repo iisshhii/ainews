@@ -1,5 +1,15 @@
 [
   {
+    "title": "Claude CodeやCodexのスキルの管理を楽にするツール「faceted-prompting」",
+    "link": "https://zenn.dev/nrs/articles/88f158aca0505b",
+    "source": "Zenn Trends",
+    "published": "Thu, 12 Mar 2026 11:15:06 GMT",
+    "summary": "はじめに\nプロンプトが長く、そして増えてくると、どんどんと保守性が下がってきます。\n役割、ルール、知識、作業指示、出力形式。\n最初はひとつのファイルに入っていても困りません。\nところが運用を続けると、一部だけ差し替えたい、同じルールを別のスキルでも使いたい、Claude Code と Codex の両方で使いたい、といった欲が出てきます。\nそのたびに長いプロンプトを丸ごと編集するのは、かなりつらい。\nこれは大きな課題です。\n以前、私はこの問題に対する考え方として、Faceted Prompting というものを書きました。\nhttps://zenn.dev/nrs/articles/...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--gQ8FXXWh--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%25E3%2582%2584Codex%25E3%2581%25AE%25E3%2582%25B9%25E3%2582%25AD%25E3%2583%25AB%25E3%2581%25AE%25E7%25AE%25A1%25E7%2590%2586%25E3%2582%2592%25E6%25A5%25BD%25E3%2581%25AB%25E3%2581%2599%25E3%2582%258B%25E3%2583%2584%25E3%2583%25BC%25E3%2583%25AB%25E3%2580%258Cfaceted-prompting%25E3%2580%258D%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:nrs%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2UzODcxZGFkYjEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-03-13 20:27:18",
+    "ja_summary": "プロンプトの肥大化・複雑化に伴う保守性の低下を解消する手法「Faceted Prompting」が注目されている。\nプロンプトを構成要素ごとに分割・再利用可能にすることで、編集や管理の負担を大幅に軽減する。\n複数のAIツール間で共通ルールを運用する際にも、修正の手間を最小限に抑えられる。"
+  },
+  {
     "title": "YouTubeの広告収入はディズニーなど競合4社の合計よりも多い…AI時代には「さらに強くなる」数少ないメディア",
     "link": "https://www.businessinsider.jp/article/2603-youtube-ad-revenue-disney-nbc-paramount-wbd-warner-bros-streaming/",
     "source": "Business Insider Japan",
@@ -988,15 +998,5 @@
     "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYxNjEyOTglMkZjMWUzZmZkNmVhZGExOTY5ZmYzYzQ0YjE0ZmRlMDgxYmNkZTZmNTAwJTJGeF9sYXJnZS5wbmclM0YxNTg0ODQ1NTg0P2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz00ZGRjZmU5NTFjNTMyMzU3NjcyOGUzOTkyOTNmOGRlNQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D246367bff431168e6212d2602a3df494?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgyJUIzJUUzJTgzJUIzJUUzJTgzJTk0JUUzJTgzJUE1JUUzJTgzJUJDJUUzJTgyJUJGJUU3JUE3JTkxJUU1JUFEJUE2JUUzJTgxJUFFJUU3JUE1JTlFJUU2JUE3JTk4JUUzJTgxJThDJUUzJTgwJThDQUklRTMlODElQUIlRTglQjIlQTAlRTMlODElOTElRTMlODElOUYlRTMlODAlOEQlRTYlOTclQTUlMjAlRTIlODAlOTQlMjBEb25hbGQlMjBLbnV0aCVFMyU4MCU4RUNsYXVkZSUyN3MlMjBDeWNsZXMlRTMlODAlOEYlRTMlODIlOTIlRTglQUElQUQlRTMlODElQkYlRTglQTclQTMlRTMlODElOEYmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz03YTRiODZlZDAwYjdiMTFmNmNkNTNmODhjNzkxZDJhNw&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBub2dhdGFrYSZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWE5ODA4YTE0Zjg4Y2I0ZjQ5OWU2ZDA3NGYyY2E2YTNh&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=5392872a647f7e380b56afada9f616cd",
     "fetched_at": "2026-03-13 07:00:30",
     "ja_summary": "・コンピュータ科学の権威ドナルド・クヌース氏が、AIの驚異的な進化を認め、自身の見解を改める論文を発表。\n・長年AIに対し慎重だった同氏が、AIの能力に「衝撃を受けた」と告白したことが専門家間で話題に。\n・AIが人間の知性を補助・凌駕する可能性を、権威が自ら検証・表明した歴史的な転換点。"
-  },
-  {
-    "title": "最近のQiitaがおかしい（かもしれない）",
-    "link": "https://qiita.com/KaiTomotake/items/77d59a91ce2f2ab54209",
-    "source": "Qiita (Popular)",
-    "published": "2026-03-04T19:59:17+09:00",
-    "summary": ":::note warn\nこの記事は割と思想強めかもしれません。\n苦手だなと思ったらすぐにページを閉じることを推奨します。\n:::\n\n# 自己紹介\n\nこんにちは。KaiTomotakeと申します。\n昔、よくQiitaのお世話になっていました。\n最近はQiitaの記事を書く側になろうと思い、またQiitaに戻ってきました。\n\n# 久しぶりにQiitaに帰ってきて驚愕したこと\n\nやはりなんと言っても*",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmF2YXRhcnMuZ2l0aHVidXNlcmNvbnRlbnQuY29tJTJGdSUyRjI0NjYyODMwNCUzRnYlM0Q0P2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz1kNjU1NzEwN2UyZThhNmM2ZjcxMzhkNGU4NzdjODljNw%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D782e28bb579e700fa962f06761ee3b9a?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUU2JTlDJTgwJUU4JUJGJTkxJUUzJTgxJUFFUWlpdGElRTMlODElOEMlRTMlODElOEElRTMlODElOEIlRTMlODElOTclRTMlODElODQlRUYlQkMlODglRTMlODElOEIlRTMlODIlODIlRTMlODElOTclRTMlODIlOEMlRTMlODElQUElRTMlODElODQlRUYlQkMlODkmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz03MjRlYjA0OWNkNzkwYjU4NDRhYTg5NWUxODA3NTE4OA&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBLYWlUb21vdGFrZSZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWMyZjBkYTZlZWU0OTFhOTk0YjZkNTk3ZjM5MTZmZTMy&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=3e60417dadef14990518616668f05d5f",
-    "fetched_at": "2026-03-13 07:00:31",
-    "ja_summary": "・かつて技術共有の場として重宝されたQiitaの現状に対し、著者が違和感を抱いている\n・執筆者として復帰したところ、以前との変化に戸惑いや懸念を感じた\n・Qiitaの今後の在り方や雰囲気の変化を問う個人的な見解を述べている"
   }
 ]
