@@ -1,5 +1,35 @@
 [
   {
+    "title": "「わずか8GBのメモリ」MacBook Neo上に構築した完全オリジナルAIエージェントをさらに進化させる。音声対話、MVビジュアライザーを実装した（CloseBox）",
+    "link": "https://www.techno-edge.net/article/2026/03/13/4920.html",
+    "source": "TechnoEdge",
+    "published": "Fri, 13 Mar 2026 09:11:21 +0900",
+    "summary": "MacBook Neo上に構築したエージェンティックAI「mazzaineo」、さらに進化しています。夜中に充電して起きたら持ち出し、バッテリー駆動で使い続けております。かわいいよシトラスNeo。",
+    "image": "https://www.techno-edge.net/imgs/rss/30279.jpg",
+    "fetched_at": "2026-03-14 08:49:53",
+    "ja_summary": "・8GBメモリのMacBookで動作するAI「mazzaineo」に、音声対話とMVビジュアライザーを実装。\n・軽量な設計により、バッテリー駆動で持ち出し可能な実用的なAIエージェントへと進化した。"
+  },
+  {
+    "title": "MCPゲートウェイの実装 Finatextグループ AI Connect Hub の技術構成",
+    "link": "https://zenn.dev/finatext/articles/mcp-gateway-nowcast",
+    "source": "Zenn Trends",
+    "published": "Thu, 12 Mar 2026 00:00:05 GMT",
+    "summary": "こんにちは、ナウキャスト データ AI ソリューション事業のリードエンジニアの六車です。\n本記事は、弊社の片山が書いた「MCPサーバーのエンタープライズ展開の肝となるMCPゲートウェイというコンセプトの解説」の続編です。前回記事では MCP ゲートウェイの「Why / What」を整理しましたが、本記事では「実際にどう MCP ゲートウェイを実装したか」をご紹介します。\n本記事で紹介する AI Connect Hub は、Finatext グループ全体の「AI イネーブルメント」を支える MCP ゲートウェイ基盤です。ナウキャストを含む複数の事業会社・サービスにまたがる MCP ツール群...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--NyawTeo3--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:MCP%25E3%2582%25B2%25E3%2583%25BC%25E3%2583%2588%25E3%2582%25A6%25E3%2582%25A7%25E3%2582%25A4%25E3%2581%25AE%25E5%25AE%259F%25E8%25A3%2585%2520Finatext%25E3%2582%25B0%25E3%2583%25AB%25E3%2583%25BC%25E3%2583%2597%2520AI%2520Connect%2520Hub%2520%25E3%2581%25AE%25E6%258A%2580%25E8%25A1%2593%25E6%25A7%258B%25E6%2588%2590%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:musyu%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2NjOTE1NmJhMjEuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Finatext%2520Tech%2520Blog%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2ZlMTZjNDAwNTkuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-03-14 08:49:57",
+    "ja_summary": "FinatextグループがAI利活用を促進するMCPゲートウェイ基盤「AI Connect Hub」の実装事例を公開。\nグループ内の多様なツールやサービスを効率的に連携・管理するアーキテクチャの具体的内容を解説。\n企業規模でのMCPサーバー展開を目指すエンジニアに向けた、実践的な技術実装の手引き。"
+  },
+  {
+    "title": "Anthropic公式が33ページのスキル設計書を出したので、将軍のスキルクリエイターと答え合わせしたら先を行ってた",
+    "link": "https://zenn.dev/shio_shoppaize/articles/shogun-skill-creator-v2",
+    "source": "Zenn Trends",
+    "published": "Wed, 11 Mar 2026 23:56:44 GMT",
+    "summary": "!\nこのシリーズが初めての方はこちらから\n\nhttps://zenn.dev/shio_shoppaize/articles/5fee11d03a11a1\nhttps://github.com/yohey-w/multi-agent-shogun\n\nAnthropicが33ページのPDFを出した。\n\"The Complete Guide to Building Skills for Claude\"\nClaude Codeのスキル設計に関する、初めての公式ガイド。全33ページ。英語。2026年2月発行。\nで、オレはこれを読んで、自分の将軍システムについているスキルクリエイター（スキルを設計...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--_S2ZkRKK--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Anthropic%25E5%2585%25AC%25E5%25BC%258F%25E3%2581%258C33%25E3%2583%259A%25E3%2583%25BC%25E3%2582%25B8%25E3%2581%25AE%25E3%2582%25B9%25E3%2582%25AD%25E3%2583%25AB%25E8%25A8%25AD%25E8%25A8%2588%25E6%259B%25B8%25E3%2582%2592%25E5%2587%25BA%25E3%2581%2597%25E3%2581%259F%25E3%2581%25AE%25E3%2581%25A7%25E3%2580%2581%25E5%25B0%2586%25E8%25BB%258D%25E3%2581%25AE%25E3%2582%25B9%25E3%2582%25AD%25E3%2583%25AB%25E3%2582%25AF%25E3%2583%25AA%25E3%2582%25A8%25E3%2582%25A4%25E3%2582%25BF%25E3%2583%25BC%25E3%2581%25A8%25E7%25AD%2594%25E3%2581%2588%25E5%2590%2588%25E3%2582%258F%25E3%2581%259B%25E3%2581%2597%25E3%2581%259F%25E3%2582%2589%25E5%2585%2588%25E3%2582%2592%25E8%25A1%258C%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%258A%25E3%2581%2597%25E3%2581%258A%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2E2NjUxYjFhMDUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-03-14 08:49:57",
+    "ja_summary": "Anthropicが公開したClaude Codeのスキル設計に関する公式ガイド（全33ページ）を検証した。\n自作のスキルクリエイター機能と照らし合わせた結果、公式の手法が自身の設計より先行していることが判明した。\n今後はこの公式ドキュメントを基に、より精度の高いスキル設計手法へのアップデートを目指す。"
+  },
+  {
     "title": "AIの不安と疲労で、iPodやデジカメ、携帯電話を使っていたシンプルな時代へのノスタルジーが広がっている",
     "link": "https://www.businessinsider.jp/article/2602-millennials-gen-z-internet-simpler-times-old-technology-ai-rejection/",
     "source": "Business Insider Japan",
@@ -968,35 +998,5 @@
     "image": "https://media.loom-app.com/loom/2026/03/04/92f38b60-6758-47ce-8731-34cad0d4718e/original.jpg?w=1200&amp;h=630",
     "fetched_at": "2026-03-13 10:54:43",
     "ja_summary": "・ダラス連銀の分析により、AI導入による雇用喪失リスクに世代間格差があることが判明。\n・経験豊富なシニア世代は、若年層と比較してAIによる影響を受けにくい傾向がある。\n・AIはスキルの代替よりも、若年層の業務を補完・置換する形で影響を及ぼしている。"
-  },
-  {
-    "title": "顧客満足度 3 割増、エンジニアの稼働効率 5 割向上。17LIVE の AI 導入効果",
-    "link": "https://www.businessinsider.jp/article/2603-google-cloud-ai-17live/",
-    "source": "Business Insider Japan",
-    "published": "Thu, 12 Mar 2026 08:00:00 GMT",
-    "summary": "台湾発のライブ配信プラットフォーム、「17LIVE」。技術部門副責任者の徐永吉氏が、最新のAIアプリケーションの活用状況について言及しました。",
-    "image": "https://media.loom-app.com/loom/2025/12/11/43068061-2838-4ac9-b187-2af1565dc8b0/original.jpg?w=1200&amp;h=630",
-    "fetched_at": "2026-03-13 10:54:50",
-    "ja_summary": "・17LIVEが最新AIを導入し、エンジニアの稼働効率が5割向上。\n・AI活用により顧客満足度が3割改善する成果を達成。\n・技術部門の生産性とサービス品質の双方で大きな進展が見られた。"
-  },
-  {
-    "title": "5年目を迎えたパナソニック「PX」--年間数十億円の合理化を生む調達・物流DXの現在地",
-    "link": "https://japan.zdnet.com/article/35244967/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "パナソニックグループの全社変革プログラム「PX」が5年目を迎えた。IT刷新やAI活用にとどまらず、現在は調達や物流といったサプライチェーン（SCM）領域の変革へとフェーズを深化させている。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35244967/\"><img src=\"https://japan.zdnet.com/storage/2026/03/12/80eec367d6dae589f2737df51c4d0776/t/184/138/d/20260312_panasonic_l.jpg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2026/03/12/80eec367d6dae589f2737df51c4d0776/t/184/138/d/20260312_panasonic_l.jpg",
-    "fetched_at": "2026-03-13 10:54:54",
-    "ja_summary": "パナソニックの全社変革「PX」が5年目を迎え、現在は調達・物流領域のDXを推進している。\nIT刷新やAI活用に加え、サプライチェーンを最適化することで年間数十億円の合理化を実現。\n全社規模での変革フェーズを深化させ、業務効率とコスト削減を追求している。"
-  },
-  {
-    "title": "企業の女性役員を増やす「30％ Club活動」へのNEC森田社長の意気込み",
-    "link": "https://japan.zdnet.com/article/35244988/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "今回は、30％ Club Japan次期Chair/NEC取締役 代表執行役社長 兼 CEOの森田隆之氏と、Adobe Head of Solution GTM Strategy-APAC & JapanのJeremy Wood氏の「明言」を紹介する。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35244988/\"><img src=\"https://japan.zdnet.com/storage/2026/03/13/ffa188a4e423a5162b6e5d337ab2568f/t/184/138/d/sp_12matsuoka_260313_l.jpg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2026/03/13/ffa188a4e423a5162b6e5d337ab2568f/t/184/138/d/sp_12matsuoka_260313_l.jpg",
-    "fetched_at": "2026-03-13 10:54:54",
-    "ja_summary": "・NECの森田社長が「30％ Club Japan」の次期会長に就任し、企業における女性役員比率の向上を推進する。\n・グローバル企業のアドビと共に、経営層の多様性を高める重要性と具体的な取り組みへの意欲を示した。\n・ジェンダーバランスの改善を通じ、日本企業の組織変革と競争力強化を目指す。"
   }
 ]
