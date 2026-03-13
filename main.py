@@ -46,7 +46,6 @@ RSS_FEEDS = [
     {"name": "Yahoo!ニュース IT・科学", "url": "https://news.yahoo.co.jp/rss/topics/it.xml"},
     {"name": "ZDNET Japan", "url": "https://feeds.japan.zdnet.com/rss/zdnet/all.rdf"},
     {"name": "TechnoEdge", "url": "https://www.techno-edge.net/rss20/index.rdf"},
-    {"name": "Investing.com ニュース", "url": "https://jp.investing.com/rss/news.rss"},
     {"name": "デジタル庁", "url": "https://www.digital.go.jp/rss/news.xml"},
     {"name": "OpenAI", "url": "https://openai.com/news/rss.xml"},
     {"name": "Anthropic (News)", "url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/refs/heads/main/feeds/feed_anthropic_news.xml"},
