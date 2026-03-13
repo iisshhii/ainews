@@ -1,5 +1,35 @@
 [
   {
+    "title": "10万切りMacBook NeoとAir､8.5万円差の判断軸 | インターネット | 東洋経済オンライン",
+    "link": "https://toyokeizai.net/articles/-/937671?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+    "source": "東洋経済オンライン",
+    "published": "Fri, 13 Mar 2026 08:00:00 +0900",
+    "summary": "Appleが3月11日に発売した新型ノートパソコン「MacBook Neo」が話題を呼んでいる。価格は9万9800円（税込…",
+    "image": "https://tk.ismcdn.jp/mwimgs/f/5/1200w/img_f5c89b44ce54b63b114ff1437ecce1c3116675.jpg?nextgen=false",
+    "fetched_at": "2026-03-14 01:57:27",
+    "ja_summary": "・Appleの新型「MacBook Neo」が9万9800円で発売され注目を集めている。\n・MacBook Airとの価格差は約8.5万円あり、スペックや用途に応じた選択が重要。\n・自身の作業内容を考慮し、コストパフォーマンスを重視する際の判断軸が必要となる。"
+  },
+  {
+    "title": "AIの「見えない影響力」　米政府とAI企業の衝突が突き付けた問い",
+    "link": "https://www.itmedia.co.jp/business/articles/2603/13/news020.html",
+    "source": "ITmedia ビジネス",
+    "published": "Fri, 13 Mar 2026 08:00:00 +0900",
+    "summary": "米アンソロピックがAIの用途を巡って米政府と対立し、政府の調達から排除された。AI技術の利用範囲が拡大する中で、テクノロジー企業と利用者の関係も見直されつつある。社会への影響力の大きさを直視し、どのように利用していくべきか判断する必要がある。",
+    "image": "https://image.itmedia.co.jp/business/articles/2603/13/cover_news020.jpg",
+    "fetched_at": "2026-03-14 01:57:30",
+    "ja_summary": "・米アンソロピックと政府のAI用途を巡る対立で、AI企業の政府調達からの排除が発生。\n・技術の社会影響力が増す中、企業と利用者の関係性を見直す動きが加速。\n・AIを社会でどう活用すべきか、その是非を問う議論が重要視されている。"
+  },
+  {
+    "title": "アップルの音楽検索アプリ「Shazam」がChatGPTに対応",
+    "link": "https://www.watch.impress.co.jp/docs/news/2093080.html",
+    "source": "Impress Watch",
+    "published": "",
+    "summary": "アップルの音楽検索アプリ「Shazam」が「ChatGPT」に対応した。",
+    "image": "https://www.watch.impress.co.jp/img/ipw/list/2093/080/a01.jpg",
+    "fetched_at": "2026-03-14 01:57:50",
+    "ja_summary": "・音楽検索アプリ「Shazam」が「ChatGPT」と連携を開始。\n・音楽の検索体験がAIによってより便利に進化。\n・両サービスの統合により、音楽情報の活用が容易に。"
+  },
+  {
     "title": "バグチケットに気づく頃にはもう直っている仕組みを作った",
     "link": "https://zenn.dev/notahotel/articles/399fc929f48d01",
     "source": "Zenn Trends",
@@ -968,35 +998,5 @@
     "image": "https://files.speakerdeck.com/presentations/4de25feff4374ad2ae3f22a004998081/preview_slide_0.jpg?38718966",
     "fetched_at": "2026-03-13 08:58:12",
     "ja_summary": "・Kiro CLIを活用したAI駆動開発の導入ガイド。\n・AIを開発プロセスに組み込むための実践的なステップを紹介。\n・効率的な開発手法を学びたいエンジニア向けの入門編。"
-  },
-  {
-    "title": "Claude Codeにバックドア入りOSSを渡したら、何の疑いもなく実装した",
-    "link": "https://qiita.com/NF0000/items/66510f959b1c22f011a7",
-    "source": "Qiita (Popular)",
-    "published": "2026-03-10T12:55:45+09:00",
-    "summary": "## はじめに\n\nバックドアが仕込まれたOSSをClaude Codeに渡して「機能追加して」と頼んだら、何の疑いもなく、バックドアごと踏襲して実装しました。\n\n[前回の記事](https://qiita.com/NF0000/items/6743216583b66168ec12)では、プロンプトインジェクションによる`.env`漏洩を検証しました。今回は**もっと現実的なシナリオ**で、GitH",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmF2YXRhcnMuZ2l0aHVidXNlcmNvbnRlbnQuY29tJTJGdSUyRjg0OTc2MzMxJTNGdiUzRDQ_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPTQ1ODZjZTJkODE2MTFkMDhkM2M0YzJiYWViNmFlOWEz%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D80c260d69443a0d414ef56dcc9784820?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9Q2xhdWRlJTIwQ29kZSVFMyU4MSVBQiVFMyU4MyU5MCVFMyU4MyU4MyVFMyU4MiVBRiVFMyU4MyU4OSVFMyU4MiVBMiVFNSU4NSVBNSVFMyU4MiU4QU9TUyVFMyU4MiU5MiVFNiVCOCVBMSVFMyU4MSU5NyVFMyU4MSU5RiVFMyU4MiU4OSVFMyU4MCU4MSVFNCVCRCU5NSVFMyU4MSVBRSVFNyU5NiU5MSVFMyU4MSU4NCVFMyU4MiU4MiVFMyU4MSVBQSVFMyU4MSU4RiVFNSVBRSU5RiVFOCVBMyU4NSVFMyU4MSU5NyVFMyU4MSU5RiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPWMyMjc2ODk4YzdlMjA4OWQ1NDJlYTEyMWJlYmZmNWE4&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBORjAwMDAmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz02NjA0OTZiMmEyNjUzY2ExOGIzMzgzZjA4N2Y1ZTQ1OA&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=a2e532178a18030e740508a2537a1f93",
-    "fetched_at": "2026-03-13 08:58:13",
-    "ja_summary": "・バックドアが仕込まれたOSSに対してClaude Codeに機能追加を依頼したところ、危険性を検知せずそのまま実装した。\n・AIはコードの脆弱性や悪意ある仕掛けを判断できず、脆弱なコードを継承・拡大させるリスクがある。\n・AIを活用した開発では、生成されたコードのセキュリティレビューを人間が実施することが不可欠である。"
-  },
-  {
-    "title": "エンジニアがChatGPTを使いこなせていないかもしれない話",
-    "link": "https://qiita.com/kamome_susume/items/e80b763797d073815710",
-    "source": "Qiita (Popular)",
-    "published": "2026-03-09T19:04:15+09:00",
-    "summary": "突然ですが、こんな気持ちになったことありませんか？\n\n「ChatGPTって、なんとなく一般向けのツールっぽいんだよな」\n\n「文章を書いてもらうくらいなら、Copilotで十分じゃない？」「API直接叩いた方がカスタマイズできるし」\n\nエンジニアあるあるだと思います。APIが使えるからこそ、**ChatGPTの公式UIをじっくり触ったことがない**という方、意外と多いんじゃないでしょうか。\n\nこの記",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYxNjkzMjQ4JTJGZDhlMmU1OWNiMDVmY2Y3MDQ3ZDgyN2ZjNDlkNDAwMTkzZTU5NDdjOSUyRnhfbGFyZ2UucG5nJTNGMTY4NjMxODg1ND9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9ZDRiNjcyYjg4ZWUxYTRkNjI1ZDRjOGFkMzVkMzQ5NjI%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Ddc9a014e564257547b64353543c58776?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgyJUE4JUUzJTgzJUIzJUUzJTgyJUI4JUUzJTgzJThCJUUzJTgyJUEyJUUzJTgxJThDQ2hhdEdQVCVFMyU4MiU5MiVFNCVCRCVCRiVFMyU4MSU4NCVFMyU4MSU5MyVFMyU4MSVBQSVFMyU4MSU5QiVFMyU4MSVBNiVFMyU4MSU4NCVFMyU4MSVBQSVFMyU4MSU4NCVFMyU4MSU4QiVFMyU4MiU4MiVFMyU4MSU5NyVFMyU4MiU4QyVFMyU4MSVBQSVFMyU4MSU4NCVFOCVBOSVCMSZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTAxNjg3NTliZWIxMWZjM2M2ZTQ2NWRkN2Y1NDEyNWMx&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBrYW1vbWVfc3VzdW1lJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9ZGRiZTIzN2VhYmFmZjQ1YThiNWYzYWQyMWVhNzMzOTI&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=da92f3629a2cc4984b22934dd1eec179",
-    "fetched_at": "2026-03-13 08:58:14",
-    "ja_summary": "・多くのエンジニアがChatGPTを「一般向け」と敬遠し、API利用やCopilotのみで済ませている。\n・API利用に慣れているからこそ、ChatGPT公式UIの多機能性を活用できていない層が多い。\n・エンジニアこそ、改めて公式UIの利便性や新しい可能性を見直すべきである。"
-  },
-  {
-    "title": " ローカルLLMで動くAIコーディングエージェントをPySide6で作った話",
-    "link": "https://qiita.com/rikiza1989/items/e9f3a26e21792ae6db2a",
-    "source": "Qiita (Popular)",
-    "published": "2026-03-12T16:12:45+09:00",
-    "summary": "## はじめに\n\n「プロジェクトの目標を日本語で入力するだけで、Pythonファイルの設計・実装・テスト・デバッグまで全部やってくれるツールがあったら便利じゃないか？」\n\nそんな発想から生まれたのが **Agentic Coder** です。\n\nGitHub CopilotやChatGPTのようなクラウドベースのAIツールとは根本的に異なり、このアプリは**完全にローカル環境で動作**します。AP",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGNDA0Nzg5MiUyRnByb2ZpbGUtaW1hZ2VzJTJGMTc3MjYxMjQzMD9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NGQzOGIyYzYwOTg1YzJiYjUxNzYzNWRkMzY5ODQ5MjM%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D0a2ff90d9c1fcb7c3d4364ffd68f562f?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JTIwJUUzJTgzJUFEJUUzJTgzJUJDJUUzJTgyJUFCJUUzJTgzJUFCTExNJUUzJTgxJUE3JUU1JThCJTk1JUUzJTgxJThGQUklRTMlODIlQjMlRTMlODMlQkMlRTMlODMlODclRTMlODIlQTMlRTMlODMlQjMlRTMlODIlQjAlRTMlODIlQTglRTMlODMlQkMlRTMlODIlQjglRTMlODIlQTclRTMlODMlQjMlRTMlODMlODglRTMlODIlOTJQeVNpZGU2JUUzJTgxJUE3JUU0JUJEJTlDJUUzJTgxJUEzJUUzJTgxJTlGJUU4JUE5JUIxJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9ZTM0YzcyNGJhMTYxZmYyYjNlMWNjODFlOGJjODhjMmU&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDByaWtpemExOTg5JnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9ZGQyZWIzNWIxOGQ1NDkyYmUxOTRiYzYyODc5NzczOGE&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=f543be3455c172210f38c9155d8d4725",
-    "fetched_at": "2026-03-13 08:58:16",
-    "ja_summary": "・日本語の指示で設計からデバッグまで全自動で行うAIコーディングツールを開発。\n・クラウドを使わず完全にローカル環境で動作し、PySide6で実装された。\n・外部サービスに依存せず、セキュアにAIによる開発支援が受けられる。"
   }
 ]
