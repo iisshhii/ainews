@@ -1,5 +1,65 @@
 [
   {
+    "title": "「世界をひっくり返す」事業をここから　十六FGが「STATION Ai」で挑む起業家との新境地",
+    "link": "https://www.itmedia.co.jp/business/articles/2603/12/news009.html",
+    "source": "ITmedia ビジネス",
+    "published": "Thu, 12 Mar 2026 07:00:00 +0900",
+    "summary": "地方銀行によるスタートアップ支援の動きが、全国規模で加速している。十六フィナンシャルグループからオープンイノベーション拠点「STATION Ai」に、コミュニティマネージャーとして出向する唐木遥香さんに、STATION Aiに関わる意義と、今後の展望を聞いた。",
+    "image": "https://image.itmedia.co.jp/business/articles/2603/12/cover_news009.jpg",
+    "fetched_at": "2026-03-13 15:07:37",
+    "ja_summary": "・十六FGが国内最大級の拠点「STATION Ai」へ職員を派遣し、スタートアップ支援を強化。\n・出向者である唐木遥香氏が、金融機関の枠を超えて起業家の成長とイノベーション創出を推進。\n・地域経済の活性化を目指し、地銀がオープンイノベーションの新境地開拓に挑む。"
+  },
+  {
+    "title": "Claude、チャット内で図やグラフを生成可能に",
+    "link": "https://www.watch.impress.co.jp/docs/news/2093264.html",
+    "source": "Impress Watch",
+    "published": "",
+    "summary": "Anthropicは12日(米国時間)、Claudeのチャット内において、インタラクティブなグラフや図などを生成できる「Imagine with Claude」のベータ版を提供開始した。25年9月にプレビュー版が公開された機能で、Claudeの応答内にインラインで表示され、会話の流れにあわせて調整や修正も行なえる。",
+    "image": "https://www.watch.impress.co.jp/img/ipw/list/2093/264/01.jpg",
+    "fetched_at": "2026-03-13 15:07:49",
+    "ja_summary": "・Claudeがチャット内で図やグラフを直接生成・表示する機能「Imagine with Claude」を提供開始。\n・生成された図は会話の流れに合わせて、その場で修正や調整が可能。\n・視覚的な情報整理がスムーズになり、対話を通じた資料作成や分析の効率が向上。"
+  },
+  {
+    "title": "AI専用SNSのMoltbook メタが買収",
+    "link": "https://news.yahoo.co.jp/pickup/6572809?source=rss",
+    "source": "Yahoo!ニュース IT・科学",
+    "published": "Wed, 11 Mar 2026 08:12:55 GMT",
+    "summary": "",
+    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/11/50a241bc337221b80b4baff5bc13343fa4f3b8a98945407db93b12a11e4b2283.jpg",
+    "fetched_at": "2026-03-13 15:08:06",
+    "ja_summary": "・メタがAI専用SNS「Moltbook」を買収\n・AI生成コンテンツの拡散力とコミュニティ機能を強化\n・AI関連サービスの覇権争いが加速する見通し"
+  },
+  {
+    "title": "第3回先進的AI利活用アドバイザリーボードの会議資料等を掲載しました",
+    "link": "https://www.digital.go.jp/councils/ai-advisory-board/80174015-f73b-4d98-811e-c601c26c0ba5",
+    "source": "デジタル庁",
+    "published": "Tue, 10 Mar 2026 15:00:00 +0900",
+    "summary": "",
+    "image": "https://www.digital.go.jp/themes/custom/gov_theme_da_2023/assets/images/ogp.png",
+    "fetched_at": "2026-03-13 15:08:11",
+    "ja_summary": "・総務省が開催した「第3回先進的AI利活用アドバイザリーボード」の会議資料が公開された。\n・AIの社会実装に向けた最新の論点整理や、利活用推進に関する検討内容が確認できる。\n・詳細は総務省公式サイトの該当ページから閲覧可能。"
+  },
+  {
+    "title": "Reactでsignalsは必要ない、Jotaiがあるから",
+    "link": "https://zenn.dev/dai_shi/articles/47c729ee33faa5",
+    "source": "Zenn Trends",
+    "published": "Wed, 11 Mar 2026 03:54:20 GMT",
+    "summary": "こんにちは、Jotai作者です。\nだいぶ前のことですが、signals について React 文脈で思うことを英語で書いた記事があります。\nhttps://blog.axlight.com/posts/why-you-dont-need-signals-in-react/\n関連して、以前こんな記事も書いています。\nhttps://zenn.dev/dai_shi/articles/01813b22907dcf\nhttps://zenn.dev/dai_shi/articles/ff75c0d8ec3415\n\n\n はじめに\nsignals という概念は以前からありますが、Web フロントエ...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--xeMrpiE7--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:React%25E3%2581%25A7signals%25E3%2581%25AF%25E5%25BF%2585%25E8%25A6%2581%25E3%2581%25AA%25E3%2581%2584%25E3%2580%2581Jotai%25E3%2581%258C%25E3%2581%2582%25E3%2582%258B%25E3%2581%258B%25E3%2582%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:daishi%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzcwZGNhM2E2Y2IuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-03-13 15:08:23",
+    "ja_summary": "・Reactにおいて、外部から持ち込まれた「signals」という概念は必ずしも必要ではない。\n・Reactの既存の仕組みや「Jotai」のようなライブラリで、同等の効率的な状態管理は十分に実現できる。\n・Reactのレンダリングモデルと競合する手法を導入するよりも、Reactの特性に最適化された既存のツールを活用すべきである。"
+  },
+  {
+    "title": "Claude Codeを使いこなすために最低限知っておくべきこと4選！",
+    "link": "https://qiita.com/nAotO01_03/items/d8e58f7282f1c44dca14",
+    "source": "Qiita (Popular)",
+    "published": "2026-03-06T13:06:44+09:00",
+    "summary": "# 1. はじめに\n昨今、AIエージェントを活用した開発が主流になりつつあります。\nエージェントを導入することで開発スピードが飛躍的に向上し、PoCやプレ実装のハードルも大幅に下がりました。\n初心者でも手軽に実装に取り組めるようになった一方で、その機能を熟知し使いこなすことで、より迅速かつ精度の高いアウトプットが可能になります。\n\n今回は、特に注目を集める「Claude Code」を使いこなすため",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYzODQ2ODU3JTJGYzZhODExZjZkMTIyODJjM2ZiOTlhYmNiMzcxYWJjMmE1MzQwYjk4ZCUyRnhfbGFyZ2UucG5nJTNGMTc2Mzg2MzAzNz9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9MzgwYTYyNTBkYWM2YTg3NGNlOTI0ZDZlYjcyNjE2OTM%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D5d0bc1728c6bdbc0dc333ddd82807e69?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9Q2xhdWRlJTIwQ29kZSVFMyU4MiU5MiVFNCVCRCVCRiVFMyU4MSU4NCVFMyU4MSU5MyVFMyU4MSVBQSVFMyU4MSU5OSVFMyU4MSU5RiVFMyU4MiU4MSVFMyU4MSVBQiVFNiU5QyU4MCVFNCVCRCU4RSVFOSU5OSU5MCVFNyU5RiVBNSVFMyU4MSVBMyVFMyU4MSVBNiVFMyU4MSU4QSVFMyU4MSU4RiVFMyU4MSVCOSVFMyU4MSU4RCVFMyU4MSU5MyVFMyU4MSVBODQlRTklODElQjglRUYlQkMlODEmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz03Njk2YmI5YTMxMDdlMzM1MWU1NDhlMzI0NzJkMjY3Nw&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBuQW90TzAxXzAzJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9NGRlMzBhMTkyY2RkMDg5ZjRmMTk1ZTZiMTk4YjJhOWY&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=f376b3ebbdbd31de502d1bb9423bb700",
+    "fetched_at": "2026-03-13 15:08:26",
+    "ja_summary": "・AIエージェントの活用で開発効率が飛躍的に向上する。\n・「Claude Code」を使いこなすことで、開発の速度と精度がさらに高まる。\n・機能を熟知し、適切な活用法を学ぶことが生産性向上の鍵となる。"
+  },
+  {
     "title": "AIに｢近くの中華｣を聞く若手はなぜ伸びないか | リーダーシップ・教養・資格・スキル | 東洋経済オンライン",
     "link": "https://toyokeizai.net/articles/-/937561?utm_source=rss&utm_medium=http&utm_campaign=link_back",
     "source": "東洋経済オンライン",
@@ -938,65 +998,5 @@
     "image": "https://business.nikkei.com/atcl/NBD/19/special/02440/fb.jpg",
     "fetched_at": "2026-03-13 00:07:39",
     "ja_summary": "・19年ぶりの新設高専に対し、富士通やソニーなどが資金支援を決定。\n・半導体・AIなど先端分野で、即戦力となる専門人材を産学連携で育成する。\n・企業と連携した実践的な教育カリキュラムにより、次世代の産業基盤を強化する。"
-  },
-  {
-    "title": "2026年3月16日号 (バックナンバー目次)",
-    "link": "https://business.nikkei.com/atcl/NBD/19/mokuji/00363/",
-    "source": "日経ビジネス 最新",
-    "published": "",
-    "summary": "今、あらためて「高専」が注目されている。2026年3月卒業予定の大卒求人倍率は1.66倍だったが、高専卒の求人倍率は20倍を超える。産業界が熱視線を送る理由は、高専生が備える実践的な技術力と主体性の高さにある。AI（人工知能）や半導体など、高市早苗政権が掲げる17の戦略分野につながる教育も進む。日本の成長を担う、先端産業の中核人材を輩出する教育機関へと進化した高専の実像に迫る。",
-    "image": "https://business.nikkei.com/images/onb/2019/nblogo_ogimage.png",
-    "fetched_at": "2026-03-13 00:07:40",
-    "ja_summary": "・高専生の求人倍率が20倍を超え、大卒を大きく上回る人気を博している。\n・実践的な技術力と主体性が評価され、先端産業の中核人材として期待されている。\n・AIや半導体など、国家戦略分野を牽引する教育機関として高専が再注目されている。"
-  },
-  {
-    "title": "晴れ舞台は「ロボコン」から「DCON」へ　進化する技術者集団「フィジカルAI」で真価 (今こそ高専　戦略17分野の即戦力)",
-    "link": "https://business.nikkei.com/atcl/NBD/19/special/02438/",
-    "source": "日経ビジネス 最新",
-    "published": "",
-    "summary": "全国の高専がAIのスキルを取り込んで人材輩出力を高めている。「よく手が動く高専生はAI時代に即応できる」と専門家も太鼓判を押す。日本の勝ち筋とされる「フィジカルAI」の担い手として期待が膨らむ。",
-    "image": "https://business.nikkei.com/atcl/NBD/19/special/02438/fb.jpg",
-    "fetched_at": "2026-03-13 00:07:40",
-    "ja_summary": "・全国の高専がAIスキル教育を強化し、即戦力人材の輩出力を高めている。\n・「手が動く」高専生の実践力は、AI時代に不可欠な強みとして評価されている。\n・日本の競争力の鍵となる「フィジカルAI」の担い手として高専生に期待が集まる。"
-  },
-  {
-    "title": "Genspark 3.0はAIが”社員”になる　「AIを使う」から「AIが働く」へ",
-    "link": "https://www.watch.impress.co.jp/docs/news/2092846.html",
-    "source": "Impress Watch",
-    "published": "",
-    "summary": "Gensparkは3月13日、AIワークスペース「Genspark」に「Genspark Claw」を含む「AI Workspace 3.0」を発表した。個人向けユーザーに同日から先行公開し、法人プランのユーザーにも随時対応する予定。「人間がAIでより速く働く」段階から、「AIが働く」段階への移行を打ち出した。",
-    "image": "https://www.watch.impress.co.jp/img/ipw/list/2092/846/1.jpg",
-    "fetched_at": "2026-03-13 00:07:46",
-    "ja_summary": "・Gensparkが「AI Workspace 3.0」を発表し、新機能「Genspark Claw」を公開。\n・「人間がAIを使う」段階から「AI自身が自律的に働く」段階への進化を目指す。\n・個人ユーザー向けに先行提供が開始され、順次法人プランにも対応予定。"
-  },
-  {
-    "title": "Gemini 3.1 Flash-Lite の概要",
-    "link": "https://note.com/npaka/n/n4f761e3e435e",
-    "source": "note (npaka)",
-    "published": "Wed, 04 Mar 2026 05:50:22 +0900",
-    "summary": "<p id=\"6ea3d9fc-2d76-4e92-a705-881692caf261\" name=\"6ea3d9fc-2d76-4e92-a705-881692caf261\">以下の記事が面白かったので、簡単にまとめました。</p><figure id=\"57e10951-1193-420d-847f-1122291d775d\" name=\"57e10951-1193-420d-847f-1122291d775d\"><blockquote><p id=\"3b791d46-36bf-4f05-b2f1-80a293c77a90\" name=\"3b791d46-36bf-4f05-b2f1-80a293c77a90\"><strong>・</strong><a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-lite/\" rel=\"nofollow noopener\" target=\"_blank\"><strong>Gemini 3.1 Flash-Lite: Built for intelligence at scale</strong></a></p></blockquote>\n<figcaption></figcaption></figure><br /><a href=\"https://note.com/npaka/n/n4f761e3e435e\">続きをみる</a>",
-    "image": "https://assets.st-note.com/production/uploads/images/256313651/rectangle_large_type_2_db8693d70c27b6beaf7d21075b74c383.png?width=800",
-    "fetched_at": "2026-03-13 00:08:00",
-    "ja_summary": "・GoogleがAIモデル「Gemini 3.1 Flash-Lite」を発表。\n・圧倒的な低コストと高速処理を実現し、大規模なタスク処理に最適化。\n・AIの導入ハードルを下げ、効率的なスケーリングを可能にする軽量モデル。"
-  },
-  {
-    "title": "AIリスク下でのロスチャイルドの最有力エンタープライズソフトウェア株3選",
-    "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1456867",
-    "source": "Investing.com ニュース",
-    "published": "2026-03-12 14:50:21",
-    "summary": "",
-    "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-    "fetched_at": "2026-03-13 00:08:05",
-    "ja_summary": "・ロスチャイルド家がAI時代でも成長が見込めるエンタープライズソフト関連株3銘柄を推奨。\n・AIリスクを考慮し、市場優位性と高い収益性を持つ企業を選定。\n・DX投資が続く中で、長期的に堅実なリターンが期待できる銘柄群。"
-  },
-  {
-    "title": "フリーダム・キャピタル、AI競争リスクを理由にワークデイの目標株価を引き下げ",
-    "link": "https://jp.investing.com/news/analyst-ratings/article-93CH-1456865",
-    "source": "Investing.com ニュース",
-    "published": "2026-03-12 14:50:03",
-    "summary": "",
-    "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-    "fetched_at": "2026-03-13 00:08:05",
-    "ja_summary": "・フリーダム・キャピタルがワークデイの目標株価を引き下げ\n・AI分野での競争激化が業績への懸念材料と判断\n・将来的な成長余地に不透明感が生じている状況"
   }
 ]
