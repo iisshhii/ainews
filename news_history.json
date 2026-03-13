@@ -1,5 +1,35 @@
 [
   {
+    "title": "パソコンで使える日本語AI音声入力の比較（2026年3月版）",
+    "link": "https://speakerdeck.com/frievea/pasokondeshi-eruri-ben-yu-aiyin-sheng-ru-li-nobi-jiao-2026nian-3yue-ban",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-03-13T07:41:32-04:00",
+    "summary": "無料ツールを含む6種類のAI音声入力ツール、Aqua Voice / ChatGPT / Handy + Whisper Large, Whisper Turbo, SenseVoice / Windows標準で日本語音声認識精度を比較した結果をまとめた資料です。評価用音声には小声早口な音声と、ある程度ゆっくり話した音声の2種類を用いています。",
+    "image": "https://files.speakerdeck.com/presentations/2e994cc6fd6a4172a0c65cbe5afbbfa8/preview_slide_0.jpg?38726726",
+    "fetched_at": "2026-03-13 20:52:42",
+    "ja_summary": "・6種類の日本語AI音声入力を「小声早口」と「ゆっくり」の音声で精度比較。\n・Aqua Voice、ChatGPT、Whisper系、Windows標準などを実用性で評価。\n・2026年3月最新版の性能比較結果として、ツール選定の判断材料を提示。"
+  },
+  {
+    "title": "AI時代の「本当の」ハイブリッドクラウド — エージェントが実現した、あの頃の夢",
+    "link": "https://speakerdeck.com/ebibibi/aishi-dai-no-ben-dang-no-haiburitudokuraudo-ezientogashi-xian-sita-anoqing-nomeng",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-03-13T07:38:08-04:00",
+    "summary": "",
+    "image": "https://files.speakerdeck.com/presentations/9d192cf876b84aa3ae78e5ea1359abf9/preview_slide_0.jpg?38726671",
+    "fetched_at": "2026-03-13 20:52:42",
+    "ja_summary": "・AIエージェントの活用により、クラウド間を跨いだ複雑なデータ連携やタスク実行が自動化された。\n・分断されていた各環境がシームレスに統合され、理想的なハイブリッドクラウドが現実のものとなった。\n・インフラ運用の効率が劇的に向上し、AI時代に適した次世代のクラウド戦略が実現する。"
+  },
+  {
+    "title": "最近のQiitaがおかしい（かもしれない）",
+    "link": "https://qiita.com/KaiTomotake/items/77d59a91ce2f2ab54209",
+    "source": "Qiita (Popular)",
+    "published": "2026-03-04T19:59:17+09:00",
+    "summary": ":::note warn\nこの記事は割と思想強めかもしれません。\n苦手だなと思ったらすぐにページを閉じることを推奨します。\n:::\n\n# 自己紹介\n\nこんにちは。KaiTomotakeと申します。\n昔、よくQiitaのお世話になっていました。\n最近はQiitaの記事を書く側になろうと思い、またQiitaに戻ってきました。\n\n# 久しぶりにQiitaに帰ってきて驚愕したこと\n\nやはりなんと言っても*",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmF2YXRhcnMuZ2l0aHVidXNlcmNvbnRlbnQuY29tJTJGdSUyRjI0NjYyODMwNCUzRnYlM0Q0P2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz1kNjU1NzEwN2UyZThhNmM2ZjcxMzhkNGU4NzdjODljNw%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D782e28bb579e700fa962f06761ee3b9a?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUU2JTlDJTgwJUU4JUJGJTkxJUUzJTgxJUFFUWlpdGElRTMlODElOEMlRTMlODElOEElRTMlODElOEIlRTMlODElOTclRTMlODElODQlRUYlQkMlODglRTMlODElOEIlRTMlODIlODIlRTMlODElOTclRTMlODIlOEMlRTMlODElQUElRTMlODElODQlRUYlQkMlODkmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz03MjRlYjA0OWNkNzkwYjU4NDRhYTg5NWUxODA3NTE4OA&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBLYWlUb21vdGFrZSZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWMyZjBkYTZlZWU0OTFhOTk0YjZkNTk3ZjM5MTZmZTMy&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=3e60417dadef14990518616668f05d5f",
+    "fetched_at": "2026-03-13 20:52:46",
+    "ja_summary": "・久々にQiitaを利用した筆者が、現在のプラットフォームの状況に対して違和感を抱いている。\n・記事は個人の主観や思想が強く反映された内容となっている。"
+  },
+  {
     "title": "Claude CodeやCodexのスキルの管理を楽にするツール「faceted-prompting」",
     "link": "https://zenn.dev/nrs/articles/88f158aca0505b",
     "source": "Zenn Trends",
@@ -968,35 +998,5 @@
     "image": "https://media.loom-app.com/loom/2026/03/10/fac34497-09f0-400b-a7d8-c517527f7cf9/original.jpg?w=1200&amp;h=630",
     "fetched_at": "2026-03-13 06:59:55",
     "ja_summary": "・米ウェルズ・ファーゴは、銀行運営の抜本的な変革にAI活用が不可欠と判断。\n・AI責任者が主導し、戦略的な導入を通じて業務の効率化と高度化を目指す。\n・AI活用の成功に向けた「3つの原則」を定め、組織の成長エンジンに据える方針。"
-  },
-  {
-    "title": "Wayfair boosts catalog accuracy and support speed with OpenAI",
-    "link": "https://openai.com/index/wayfair",
-    "source": "OpenAI",
-    "published": "Wed, 11 Mar 2026 11:00:00 GMT",
-    "summary": "Wayfair uses OpenAI models to improve ecommerce support and product catalog accuracy, automating ticket triage and enhancing millions of product attributes at scale.",
-    "image": "https://openai.com/favicon.ico",
-    "fetched_at": "2026-03-13 07:00:07",
-    "ja_summary": "・WayfairがOpenAIのAIモデルを導入し、ECサイトの顧客サポートと商品管理を改善。\n・問い合わせの自動振り分けにより、サポート速度を大幅に向上。\n・数百万件におよぶ商品情報をAIで自動最適化し、カタログの正確性を強化。"
-  },
-  {
-    "title": "Improving instruction hierarchy in frontier LLMs",
-    "link": "https://openai.com/index/instruction-hierarchy-challenge",
-    "source": "OpenAI",
-    "published": "Tue, 10 Mar 2026 11:00:00 GMT",
-    "summary": "IH-Challenge trains models to prioritize trusted instructions, improving instruction hierarchy, safety steerability, and resistance to prompt injection attacks.",
-    "image": "https://openai.com/favicon.ico",
-    "fetched_at": "2026-03-13 07:00:07",
-    "ja_summary": "・AIが信頼できる指示を優先して実行する「命令階層」の最適化手法を開発。\n・モデルの安全性と制御性を高め、悪意あるプロンプト注入攻撃への耐性を強化。\n・AIの指示遂行能力とセキュリティを両立させ、実務利用の信頼性を向上。"
-  },
-  {
-    "title": "コンピュータ科学の神様が「AIに負けた」日 — Donald Knuth『Claude's Cycles』を読み解く",
-    "link": "https://qiita.com/nogataka/items/ecbaedb3d7ffc29c9fb2",
-    "source": "Qiita (Popular)",
-    "published": "2026-03-04T12:28:56+09:00",
-    "summary": "\n## はじめに：「Shock! Shock!」\n\n2026年2月28日、コンピュータ科学の世界に小さな衝撃が走った。\n\nDonald Knuth（ドナルド・クヌース）が新しい論文を公開した。タイトルは「Claude's Cycles」。冒頭の一言はこうだ。\n\n> \"Shock! Shock!\"\n\n87歳のKnuthが、AIに対する自分の見方を改めざるを得なくなった。その経緯を記した短い論文は、H",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYxNjEyOTglMkZjMWUzZmZkNmVhZGExOTY5ZmYzYzQ0YjE0ZmRlMDgxYmNkZTZmNTAwJTJGeF9sYXJnZS5wbmclM0YxNTg0ODQ1NTg0P2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz00ZGRjZmU5NTFjNTMyMzU3NjcyOGUzOTkyOTNmOGRlNQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D246367bff431168e6212d2602a3df494?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgyJUIzJUUzJTgzJUIzJUUzJTgzJTk0JUUzJTgzJUE1JUUzJTgzJUJDJUUzJTgyJUJGJUU3JUE3JTkxJUU1JUFEJUE2JUUzJTgxJUFFJUU3JUE1JTlFJUU2JUE3JTk4JUUzJTgxJThDJUUzJTgwJThDQUklRTMlODElQUIlRTglQjIlQTAlRTMlODElOTElRTMlODElOUYlRTMlODAlOEQlRTYlOTclQTUlMjAlRTIlODAlOTQlMjBEb25hbGQlMjBLbnV0aCVFMyU4MCU4RUNsYXVkZSUyN3MlMjBDeWNsZXMlRTMlODAlOEYlRTMlODIlOTIlRTglQUElQUQlRTMlODElQkYlRTglQTclQTMlRTMlODElOEYmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz03YTRiODZlZDAwYjdiMTFmNmNkNTNmODhjNzkxZDJhNw&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBub2dhdGFrYSZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWE5ODA4YTE0Zjg4Y2I0ZjQ5OWU2ZDA3NGYyY2E2YTNh&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=5392872a647f7e380b56afada9f616cd",
-    "fetched_at": "2026-03-13 07:00:30",
-    "ja_summary": "・コンピュータ科学の権威ドナルド・クヌース氏が、AIの驚異的な進化を認め、自身の見解を改める論文を発表。\n・長年AIに対し慎重だった同氏が、AIの能力に「衝撃を受けた」と告白したことが専門家間で話題に。\n・AIが人間の知性を補助・凌駕する可能性を、権威が自ら検証・表明した歴史的な転換点。"
   }
 ]
