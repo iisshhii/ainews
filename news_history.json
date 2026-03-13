@@ -1,5 +1,15 @@
 [
   {
+    "title": "The Safety-Critical Edge: Certifying AI for Passenger Rail Operations",
+    "link": "https://speakerdeck.com/joffrey/the-safety-critical-edge-certifying-ai-for-passenger-rail-operations",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-03-13T13:36:40-04:00",
+    "summary": "Accelerating rail automation with embedded AI/ML sensors and controllers\nLeveraging edge computing for autonomy and availability\nNavigating US regulations: interoperability, functional safety, cybersecurity\nDemonstrating that AI-enhanced control systems are safe for passenger service\n\nEDGE AI San Diego 2026, March 25 - San Diego, CA",
+    "image": "https://files.speakerdeck.com/presentations/0d9dd7df5abd4f01bcc34541cce2ada2/preview_slide_0.jpg?38729308",
+    "fetched_at": "2026-03-14 03:05:22",
+    "ja_summary": "・鉄道の自動運転化に向け、エッジAIやMLを活用した制御システムの開発を加速。\n・米国の厳しい規制（安全性、相互運用性、サイバーセキュリティ）への準拠が鍵。\n・旅客鉄道での実運用を見据え、AI制御の安全性を実証する取り組みを推進。"
+  },
+  {
     "title": "Claude Codeにバックドア入りOSSを渡したら、何の疑いもなく実装した",
     "link": "https://qiita.com/NF0000/items/66510f959b1c22f011a7",
     "source": "Qiita (Popular)",
@@ -988,15 +998,5 @@
     "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGNDM0NDA5MSUyRnByb2ZpbGUtaW1hZ2VzJTJGMTc3MzE4NjE0OD9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NWJjOGQxODI5ODE5NmVkYWE0NGJlMzkxNDEyNzc2Yjg%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D56b1ac2591cb4447c0d4eece1e9d7551?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJThDJUUzJTgyJUFCJUUzJTgzJUJDJUUzJTgzJTg5JUU0JUJEJTlDJUUzJTgyJThBJUUzJTgxJThDJUU5JTlEJUEyJUU1JTgwJTkyJUUzJTgxJTk5JUUzJTgxJThFJUUzJTgyJThCJUUzJTgwJThEJUU1JTk1JThGJUU5JUExJThDJUUzJTgyJTkyQUklRTMlODElQTclRTglQTclQTMlRTYlQjElQkElRTMlODElOTclRTMlODElOUYlRTMlODIlODklRTMlODAlODElRTglQjMlODclRTYlQTAlQkMlRTUlOEIlODklRTUlQkMlQjclRTMlODElOEMlRTclQjYlOUElRTMlODElOEYlRTMlODIlODglRTMlODElODYlRTMlODElQUIlRTMlODElQUElRTMlODElQTMlRTMlODElOUYmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1mMDhlOWY5OTNhYzY3NmY2Yjg5NTEyZjA2ZDkzZmE1Nw&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBDb2JvTWVtbyZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTYxODJjMzU3MDA0OGI0ODFiZmI1YTE3YTA3ZTg3ZjEz&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=cc7f45ce860622e41f1ee392d4f3359b",
     "fetched_at": "2026-03-13 10:55:07",
     "ja_summary": "資格勉強の最大の障壁である「単語カード作成の面倒さ」をAIで自動化し、学習の継続率を高める手法を解説。\n教材から自動でカードを生成することで、挫折しがちな準備の手間を省き、効率的な学習環境を実現する。\nエンジニア特有の「資格取得の積ん読」という課題に対し、ツールを活用して習慣化を促す解決策を提示。"
-  },
-  {
-    "title": "共創PFキャンプinデジタル庁～自治体業務のAI活用編～を開催しました",
-    "link": "https://www.digital.go.jp/news/d2ec4dcd-0648-48c9-90fe-96586bc29725",
-    "source": "デジタル庁",
-    "published": "Wed, 11 Mar 2026 15:00:00 +0900",
-    "summary": "",
-    "image": "https://www.digital.go.jp/themes/custom/gov_theme_da_2023/assets/images/ogp.png",
-    "fetched_at": "2026-03-13 08:58:01",
-    "ja_summary": "・デジタル庁が自治体での生成AI活用促進を目指す「共創PFキャンプ」を開催。\n・全国の自治体担当者が集まり、業務効率化や行政サービスの改善事例を共有。\n・導入の課題解決に向けた官民連携の推進と、AI活用のさらなる加速を図る。"
   }
 ]
