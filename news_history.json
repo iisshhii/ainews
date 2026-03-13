@@ -1,5 +1,55 @@
 [
   {
+    "title": "6500億円赤字見通しの日産、次の一手はロボタクシー。Uber・Wayveとの協業で新型リーフを供給",
+    "link": "https://www.businessinsider.jp/article/2603-nissan-robotaxi-uber-wayve-leaf/",
+    "source": "Business Insider Japan",
+    "published": "Thu, 12 Mar 2026 21:50:00 GMT",
+    "summary": "日産が英AIスタートアップWayveと米Uberの3社でロボタクシー事業に乗り出します。WayveのAIを新型リーフに搭載しUberで配車する分業モデルで、2026年後半に東京で試験運行を目指します。",
+    "image": "https://media.loom-app.com/loom/2026/03/12/7fd4e092-79bd-445f-a967-cccb9ab92af5/original.jpg?w=1200&amp;h=630",
+    "fetched_at": "2026-03-13 22:45:53",
+    "ja_summary": "・日産がUber・Wayveと組み、新型リーフを用いたロボタクシー事業に参入。\n・WayveのAI技術とUberの配車網を活用し、分業でコストを最適化。\n・2026年後半の東京での試験運行開始を目指し、赤字脱却の次の一手とする。"
+  },
+  {
+    "title": "米有力銀行ウェルズ・ファーゴの目標達成にはAIが不可欠…AI責任者が鍵を握ると考える「3つの原則」",
+    "link": "https://www.businessinsider.jp/article/2603-wells-fargo-growth-ai-head-saul-van-beurden/",
+    "source": "Business Insider Japan",
+    "published": "Thu, 12 Mar 2026 21:40:00 GMT",
+    "summary": "ソール・ヴァン・ブールデン氏は、AIがウェルズ・ファーゴの運営方法を根本的に変えると考えています。その実現に向けた彼の戦略を紹介します。",
+    "image": "https://media.loom-app.com/loom/2026/03/10/fac34497-09f0-400b-a7d8-c517527f7cf9/original.jpg?w=1200&amp;h=630",
+    "fetched_at": "2026-03-13 22:45:55",
+    "ja_summary": "・米ウェルズ・ファーゴはAI活用を銀行運営の変革の核と位置づけている。\n・AI責任者は、目標達成に向けたAI活用の「3つの原則」を主導する。\n・AI導入による業務の根本的な刷新で、競争力の強化を目指す。"
+  },
+  {
+    "title": "「NanoClaw」とDockerが提携--AIエージェントの暴走リスクに歯止め",
+    "link": "https://japan.zdnet.com/article/35245030/",
+    "source": "ZDNET Japan",
+    "published": "",
+    "summary": "オープンなマイクロAIエージェント基盤とコンテナーとの統合は、万能型エージェントで露呈した深刻なサイバーセキュリティリスクを回避する1つの手立てになる。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35245030/\"><img src=\"https://japan.zdnet.com/storage/2026/03/13/60487b6a286e922b446f0696a68d7b28/t/184/138/d/aicontainersgettyimages-2252957381_l.jpg\" /></a>",
+    "image": "https://japan.zdnet.com/storage/2026/03/13/60487b6a286e922b446f0696a68d7b28/t/184/138/d/aicontainersgettyimages-2252957381_l.jpg",
+    "fetched_at": "2026-03-13 22:46:02",
+    "ja_summary": "・NanoClawとDockerが提携し、AIエージェントの安全な実行環境を構築。\n・AIエージェントをコンテナ内で制御することで、暴走やサイバー攻撃のリスクを低減。\n・AIの利便性を維持しつつ、企業利用におけるセキュリティを強化する新たな手法。"
+  },
+  {
+    "title": "Designing AI agents to resist prompt injection",
+    "link": "https://openai.com/index/designing-agents-to-resist-prompt-injection",
+    "source": "OpenAI",
+    "published": "Wed, 11 Mar 2026 11:30:00 GMT",
+    "summary": "How ChatGPT defends against prompt injection and social engineering by constraining risky actions and protecting sensitive data in agent workflows.",
+    "image": "https://openai.com/favicon.ico",
+    "fetched_at": "2026-03-13 22:46:04",
+    "ja_summary": "・ChatGPTはAIエージェントの操作に対し、リスクの高い処理の制限や機密情報の保護を強化。\n・プロンプトインジェクションやソーシャルエンジニアリングによる不正な攻撃を防止。\n・安全なワークフローを設計し、AIの誤用や情報漏洩のリスクを最小化。"
+  },
+  {
+    "title": "From model to agent: Equipping the Responses API with a computer environment",
+    "link": "https://openai.com/index/equip-responses-api-computer-environment",
+    "source": "OpenAI",
+    "published": "Wed, 11 Mar 2026 11:00:00 GMT",
+    "summary": "How OpenAI built an agent runtime using the Responses API, shell tool, and hosted containers to run secure, scalable agents with files, tools, and state.",
+    "image": "https://openai.com/favicon.ico",
+    "fetched_at": "2026-03-13 22:46:04",
+    "ja_summary": "・OpenAIが「Responses API」にシェルツールやホスト型コンテナを統合し、AIエージェントの実行環境を構築。\n・ファイルを操作し、ツールを実行して状態を保持する、安全かつスケーラブルなAIエージェントを実現。\n・モデルが単なる応答生成から、コンピュータ環境を直接操作する「エージェント」へと進化。"
+  },
+  {
     "title": "Wayfair boosts catalog accuracy and support speed with OpenAI",
     "link": "https://openai.com/index/wayfair",
     "source": "OpenAI",
@@ -948,55 +998,5 @@
     "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmF2YXRhcnMuZ2l0aHVidXNlcmNvbnRlbnQuY29tJTJGdSUyRjg0OTc2MzMxJTNGdiUzRDQ_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPTQ1ODZjZTJkODE2MTFkMDhkM2M0YzJiYWViNmFlOWEz%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D80c260d69443a0d414ef56dcc9784820?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9Q2xhdWRlJTIwQ29kZSVFMyU4MSVBRiVFMyU4MyU5NyVFMyU4MyVBRCVFMyU4MyVCMyVFMyU4MyU5NyVFMyU4MyU4OCVFMyU4MiVBNCVFMyU4MyVCMyVFMyU4MiVCOCVFMyU4MiVBNyVFMyU4MiVBRiVFMyU4MiVCNyVFMyU4MyVBNyVFMyU4MyVCMyVFMyU4MSVBNy5lbnYlRTMlODIlOTIlRTYlQkMlOEYlRTYlQjQlQTklRTMlODElOTUlRTMlODElOUIlRTMlODIlOEIlRTMlODElQUUlRTMlODElOEIlRUYlQkMlOUYlRTYlQTQlOUMlRTglQTglQkMlRTMlODElOTclRTMlODElQTYlRTMlODElQkYlRTMlODElOUYmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz01Y2MxY2Y2YzJlM2FlMDg4ZDIwN2M2MzViM2I1OTU5YQ&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBORjAwMDAmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz02NjA0OTZiMmEyNjUzY2ExOGIzMzgzZjA4N2Y1ZTQ1OA&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=105ee57c0da14e51ff4c04073ff0e02b",
     "fetched_at": "2026-03-13 08:00:27",
     "ja_summary": "Claude Codeを用いた開発中に環境変数の漏洩やアカウント乗っ取りが発生するリスクが指摘されている。\n攻撃者がプロンプトインジェクションを悪用する仕組みを検証し、開発環境におけるセキュリティ対策の重要性を提示している。\n生成AIツール利用時は、機密情報が含まれる.envファイルへのアクセス制御など、適切な防御策を講じる必要がある。"
-  },
-  {
-    "title": "「無料でAIエージェント作れるやん」→ ローカルLLMに100回ツール呼び出しさせたら\"成功したはずの出力\"がカオスだった話",
-    "link": "https://qiita.com/toarusyakaijin/items/3ab5caa68a8a33f5ec73",
-    "source": "Qiita (Popular)",
-    "published": "2026-03-04T20:12:41+09:00",
-    "summary": "<!--\ntitle: 「無料でAIエージェント作れるやん」→ ローカルLLMに100回ツール呼び出しさせたら\"成功したはずの出力\"がカオスだった話\ntags: Ollama, Python, LLM, AI, 初心者\n-->\n\n## 前回「MCPなんていらない」って書いた人間が、もっと手前の問題に気づいた話\n\n先日、こんな記事を書きました。私が。\n\n> [**「MCPサーバー作るのもうやめていい",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYzNTEyMDM5JTJGZDU0YTZlZTYyYjVmY2Q2MzU0MDcwY2U1Y2QwMjcyNDdkYjg2MzhjZiUyRmxhcmdlLnBuZyUzRjE3NjUxNTk0NTQ_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPTNhNjA1NjVmMjk2ZGJkYmRkZGViNDg2ZjcwODlhMDhm%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkY5OTY1OGZhNTJmYmI5ZmY4NjMwMDUxNGM2YTdmOGY2ZGUxZDQ1ZDFiJTJGb3JpZ2luYWwuanBnJTNGMTc2Njk4OTYyMD9peGxpYj1yYi00LjAuMCZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz00ODRlOGI1ODYxNTg1Njg0YjZhZWJiZjI2NWY5ZWVhZg%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D9ae01d5c18eab0bf358b94e6e1259ec7?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJThDJUU3JTg0JUExJUU2JTk2JTk5JUUzJTgxJUE3QUklRTMlODIlQTglRTMlODMlQkMlRTMlODIlQjglRTMlODIlQTclRTMlODMlQjMlRTMlODMlODglRTQlQkQlOUMlRTMlODIlOEMlRTMlODIlOEIlRTMlODIlODQlRTMlODIlOTMlRTMlODAlOEQlRTIlODYlOTIlMjAlRTMlODMlQUQlRTMlODMlQkMlRTMlODIlQUIlRTMlODMlQUJMTE0lRTMlODElQUIxMDAlRTUlOUIlOUUlRTMlODMlODQlRTMlODMlQkMlRTMlODMlQUIlRTUlOTElQkMlRTMlODElQjMlRTUlODclQkElRTMlODElOTclRTMlODElOTUlRTMlODElOUIlRTMlODElOUYlRTMlODIlODklMjIlRTYlODglOTAlRTUlOEElOUYlRTMlODElOTclRTMlODElOUYlRTMlODElQUYlRTMlODElOUElRTMlODElQUUlRTUlODclQkElRTIlODAlQTYmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1jOWRmNzk4ZTVhMzRkOGI3M2ZhZGJmOTY1OGVlNGMxMw&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDB0b2FydXN5YWthaWppbiZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWJjOTgyZDMxZjFiM2ZiMjQ5ZmQ2OTA1ODViMDc2MGZl&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=5qCq5byP5Lya56S-44OK44OP44OI&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=1f9c4c120e1fd8d6c28eef7a47ca3b79",
-    "fetched_at": "2026-03-13 08:00:27",
-    "ja_summary": "・ローカルLLMでAIエージェントを構築し、100回のツール呼び出しを試したところ、実行自体は成功しても出力内容が破綻していた。\n・LLMの自律的な連続実行には、単純な呼び出しだけでなく、出力の検証や整合性を保つための高度な制御が不可欠であることが判明した。\n・実用的なAIエージェント開発には、推論能力の限界とエラー制御の難しさという現実的な課題が存在する。"
-  },
-  {
-    "title": "Geminiは人間に近づいたか　注目のARC-AGIベンチマーク",
-    "link": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/052100111/030900172/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "米グーグルが2026年2月12日（米国時間）にリリースした論理推論（Reasoning）モデル「Gemini 3 Deep Think」の最新版が、AI（人工知能）にとって解くのが難しいことで知られる「ARC-AGI-2」ベンチマークで、過去最高成績となる正答率84.6％を記録したことが話題を集めている。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/052100111/030900172/topm.jpg?20220512",
-    "fetched_at": "2026-03-13 07:31:06",
-    "ja_summary": "グーグルの最新AI「Gemini 3 Deep Think」が、超難関の推論テスト「ARC-AGI-2」で正答率84.6％という過去最高記録を達成しました。AIが人間に近い論理推論能力を備えつつあることを示す重要な進展として注目されています。"
-  },
-  {
-    "title": "アップルのAIスマートディスプレイ、新Siriが完成せず9月に発売延期か",
-    "link": "https://japan.cnet.com/article/35244885/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "あなたの家はアップルの音声アシスタント「Siri」でさらにスマートになる見込みだが、もう少し待つ必要がありそうだ。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35244885/\"><img src=\"https://japan.cnet.com/storage/2026/03/11/009f4ef5091288e4e49d85d3b6d92ba9/t/184/138/d/gettyimages-2255802336_1280x960.jpg\" /></a>",
-    "image": "https://japan.cnet.com/storage/2026/03/11/009f4ef5091288e4e49d85d3b6d92ba9/t/184/138/d/gettyimages-2255802336_1280x960.jpg",
-    "fetched_at": "2026-03-13 07:31:16",
-    "ja_summary": "・アップルの新型AIスマートディスプレイの発売が、9月以降に延期される見通し。\n・延期の主な理由は、搭載予定の新しい「Siri」の開発が完了していないため。\n・スマートホーム向けの新デバイス投入が遅れることで、アップルの戦略に影響が出る可能性がある。"
-  },
-  {
-    "title": "10万円で200円余るMacBook NeoでAI音楽制作は成立するのか。 Logic ProとSunoで検証してみた（CloseBox）",
-    "link": "https://www.techno-edge.net/article/2026/03/11/4916.html",
-    "source": "TechnoEdge",
-    "published": "Wed, 11 Mar 2026 13:21:41 +0900",
-    "summary": "MacBook Neoが我が家に届きました。もちろん自腹で購入したニューマシン。10万円をちょっと切る格安マシンはLogic Proがちゃんと動くのか、検証してみました。",
-    "image": "https://www.techno-edge.net/imgs/rss/29920.jpg",
-    "fetched_at": "2026-03-13 07:31:33",
-    "ja_summary": "・10万円以下の格安PC「MacBook Neo」で音楽制作ソフト「Logic Pro」が実用的に動作するかを検証。\n・AI生成サービス「Suno」との併用も含め、低価格マシンでの音楽制作の可能性を探る。"
-  },
-  {
-    "title": "Rakuten fixes issues twice as fast with Codex",
-    "link": "https://openai.com/index/rakuten",
-    "source": "OpenAI",
-    "published": "Wed, 11 Mar 2026 13:00:00 GMT",
-    "summary": "Rakuten uses Codex, the coding agent from OpenAI, to ship software faster and safer, reducing MTTR 50%, automating CI/CD reviews, and delivering full-stack builds in weeks.",
-    "image": "https://openai.com/favicon.ico",
-    "fetched_at": "2026-03-13 07:31:34",
-    "ja_summary": "・楽天がOpenAIの「Codex」を導入し、ソフトウェア開発を高速化。\n・障害復旧時間（MTTR）を50%削減し、CI/CD工程の自動化を実現。\n・開発の安全性と効率を高め、フルスタック構築の期間を大幅に短縮。"
   }
 ]
