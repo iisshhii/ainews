@@ -1,5 +1,15 @@
 [
   {
+    "title": "「カード作りが面倒すぎる」問題をAIで解決したら、資格勉強が続くようになった",
+    "link": "https://qiita.com/CoboMemo/items/de40a122980628bc61e7",
+    "source": "Qiita (Popular)",
+    "published": "2026-03-11T07:06:34+09:00",
+    "summary": "# 「カード作りが面倒すぎる」問題をAIで解決したら、資格勉強が続くようになった\n\n## はじめに：エンジニアの「積ん読あるある」\n\nAWS Solutions Architect、情報処理技術者試験、LPIC、TOEIC……\n\nエンジニアなら一度は「今年こそ取る」と決意した経験はないだろうか。参考書を買い、最初の数日は順調に進む。でも気づいたら積ん読になっている。\n\n私も何度もこのループを繰り返",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGNDM0NDA5MSUyRnByb2ZpbGUtaW1hZ2VzJTJGMTc3MzE4NjE0OD9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NWJjOGQxODI5ODE5NmVkYWE0NGJlMzkxNDEyNzc2Yjg%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D56b1ac2591cb4447c0d4eece1e9d7551?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJThDJUUzJTgyJUFCJUUzJTgzJUJDJUUzJTgzJTg5JUU0JUJEJTlDJUUzJTgyJThBJUUzJTgxJThDJUU5JTlEJUEyJUU1JTgwJTkyJUUzJTgxJTk5JUUzJTgxJThFJUUzJTgyJThCJUUzJTgwJThEJUU1JTk1JThGJUU5JUExJThDJUUzJTgyJTkyQUklRTMlODElQTclRTglQTclQTMlRTYlQjElQkElRTMlODElOTclRTMlODElOUYlRTMlODIlODklRTMlODAlODElRTglQjMlODclRTYlQTAlQkMlRTUlOEIlODklRTUlQkMlQjclRTMlODElOEMlRTclQjYlOUElRTMlODElOEYlRTMlODIlODglRTMlODElODYlRTMlODElQUIlRTMlODElQUElRTMlODElQTMlRTMlODElOUYmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1mMDhlOWY5OTNhYzY3NmY2Yjg5NTEyZjA2ZDkzZmE1Nw&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBDb2JvTWVtbyZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTYxODJjMzU3MDA0OGI0ODFiZmI1YTE3YTA3ZTg3ZjEz&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=cc7f45ce860622e41f1ee392d4f3359b",
+    "fetched_at": "2026-03-14 04:35:44",
+    "ja_summary": "・資格勉強の挫折原因である「暗記カード作成の面倒さ」をAIで自動化。\n・作業時間を大幅に短縮し、学習を継続しやすい環境を構築。\n・AI活用により、積ん読を解消し効率的な資格取得を実現。"
+  },
+  {
     "title": "共創PFキャンプinデジタル庁～自治体業務のAI活用編～を開催しました",
     "link": "https://www.digital.go.jp/news/d2ec4dcd-0648-48c9-90fe-96586bc29725",
     "source": "デジタル庁",
@@ -988,15 +998,5 @@
     "image": "https://www.digital.go.jp/themes/custom/gov_theme_da_2023/assets/images/ogp.png",
     "fetched_at": "2026-03-13 10:54:55",
     "ja_summary": "・四国にて自治体のAI活用事例を横展開するための「共創PFキャンプ」を開催。\n・自治体間で先行事例を共有し、AI導入のノウハウを相互活用する手法を議論。\n・全国の自治体でAIを効率的に普及・活用するための連携体制を模索。"
-  },
-  {
-    "title": "Claude Codeを加速させる私の推しスキル・ツール・設定（Findyイベント登壇資料）",
-    "link": "https://zenn.dev/ubie_dev/articles/claude-code-tips-findy-2026",
-    "source": "Zenn Trends",
-    "published": "Wed, 11 Mar 2026 02:49:52 GMT",
-    "summary": "本記事は、Findyイベント「鹿野さんに聞く！Claude Codeをさらに加速させる私の推しツール」の登壇資料です。\nhttps://findy.connpass.com/event/384179/\nClaude Codeの開発を加速させるための推しスキル・ツール・設定を紹介しています。\n\n Claude Codeのためにターミナルを素早く起動したい\nRaycastショートカット + スニペットを使う\n\nRaycastとは、様々な機能を呼び出せるランチャーアプリ\n\nAlfredやspotlightみたいなもの\n\n\nRaycastを使い、hotkeyキー1発でアプリを起動できるようにする...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--_YeZPsdq--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%25E3%2582%2592%25E5%258A%25A0%25E9%2580%259F%25E3%2581%2595%25E3%2581%259B%25E3%2582%258B%25E7%25A7%2581%25E3%2581%25AE%25E6%258E%25A8%25E3%2581%2597%25E3%2582%25B9%25E3%2582%25AD%25E3%2583%25AB%25E3%2583%25BB%25E3%2583%2584%25E3%2583%25BC%25E3%2583%25AB%25E3%2583%25BB%25E8%25A8%25AD%25E5%25AE%259A%25EF%25BC%2588Findy%25E3%2582%25A4%25E3%2583%2599%25E3%2583%25B3%25E3%2583%2588%25E7%2599%25BB%25E5%25A3%2587%25E8%25B3%2587%25E6%2596%2599%25EF%25BC%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E9%25B9%25BF%25E9%2587%258E%2520%25E5%25A3%25AE%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2VlOWMzMWRhODMuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Ubie%2520%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2hwRUMxbUtjVjZsX01lT2R6N1Nsejk1SXR4WUZoYjB2LTNOdzNjV3c9czI1MC1j%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-    "fetched_at": "2026-03-13 10:55:05",
-    "ja_summary": "・「Claude Code」の開発効率を最大化するスキル・ツール・設定を解説。\n・ランチャーアプリ「Raycast」を活用し、ショートカット一発でターミナルを起動。\n・環境構築を最適化することで、AIコーディングの作業スピードを大幅に向上させる。"
   }
 ]
