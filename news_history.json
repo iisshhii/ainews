@@ -1,5 +1,25 @@
 [
   {
+    "title": "Coding Agent に loop して欲しいのは prdじゃない skill だ",
+    "link": "https://zenn.dev/takumiyoshikawa/articles/6930a0e58bc196",
+    "source": "Zenn Trends",
+    "published": "Sat, 14 Mar 2026 09:38:41 GMT",
+    "summary": "要約\nRalph loopから始まり、Harness Engineering, AI-DLCと名前を変えてcoding agentを長期実行するコンセプトは世の中を席巻している。\nせっかくなので自分が使いやすい形でloopの実行をするためのOSSを作ってみたので中身を解説したい。\nhttps://github.com/takumiyoshikawa/skill-loop\n\n モチベーション\n私が最初にRalph Loopのコンセプトを試した時に一番最初に感じた感想は機能しないだった。基本的には、その理由はprdと呼ばれる実行計画が粗悪なものであり、そのrepo特有の事情を全く考慮しな...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--kcc97XDW--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Coding%2520Agent%2520%25E3%2581%25AB%2520loop%2520%25E3%2581%2597%25E3%2581%25A6%25E6%25AC%25B2%25E3%2581%2597%25E3%2581%2584%25E3%2581%25AE%25E3%2581%25AF%2520prd%25E3%2581%2598%25E3%2582%2583%25E3%2581%25AA%25E3%2581%2584%2520skill%2520%25E3%2581%25A0%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:yoshi%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzFhYmQ0MjM0YmEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-03-15 08:49:13",
+    "ja_summary": "・AIコーディングエージェントの長期実行において、既存の「実行計画（prd）」重視の手法では実用性に欠ける課題がある。\n・prdではなく、リポジトリ特有の事情に適応する「スキル」を重視した新しいOSSを公開。\n・エージェントが自律的に学習・実行し使いやすくするための設計と思想を解説。"
+  },
+  {
+    "title": "生成AIでパワポを作る方法一覧【2026年3月版】",
+    "link": "https://zenn.dev/ncukondo/articles/ai-generate-pptx-methods-2026",
+    "source": "Zenn Trends",
+    "published": "Sat, 14 Mar 2026 00:14:58 GMT",
+    "summary": "はじめに\n生成AIを使ったスライド作成ツールの紹介記事は増えていますが、その多くはPDFやHTML出力が中心です。しかし実際の仕事では、上司や共著者が追加編集する、提出物としてパワポ形式(PPTX)が指定される、といった理由からPPTXでの出力が必要な場面が少なくありません。\n本記事では、2026年3月時点で利用可能な方法をGUI完結型・Markdown型・コード生成型の3カテゴリに分けて、PPTX出力の観点から整理します。\n\n PPTX出力の「編集可能性」に注意\nまず前提として、PPTX出力に対応していても、中身が編集可能とは限らないという点を押さえておく必要があります。\nたとえば...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--VhcQYhH6--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E7%2594%259F%25E6%2588%2590AI%25E3%2581%25A7%25E3%2583%2591%25E3%2583%25AF%25E3%2583%259D%25E3%2582%2592%25E4%25BD%259C%25E3%2582%258B%25E6%2596%25B9%25E6%25B3%2595%25E4%25B8%2580%25E8%25A6%25A7%25E3%2580%25902026%25E5%25B9%25B43%25E6%259C%2588%25E7%2589%2588%25E3%2580%2591%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:ncukondo%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUVkRlRwNjItREFMeG9Ud2Z2RTg0X2dCckhNNGgwWjlZb0tsUTV1WTdKVzNaWjA9czk2LWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-03-15 08:49:13",
+    "ja_summary": "・生成AIを用いたPowerPoint（PPTX）作成ツールを、操作方法別に3つのカテゴリで分類して整理。\n・ツールによっては出力後の編集が困難な場合があるため、実務で使う際は「編集可能性」の確認が必須。\n・ビジネスの現場で求められる「後から修正可能なPPTX形式」での出力に適した手法を網羅。"
+  },
+  {
     "title": "Claude、チャット内で図やグラフを生成可能に",
     "link": "https://www.watch.impress.co.jp/docs/news/2093264.html",
     "source": "Impress Watch",
@@ -978,25 +998,5 @@
     "image": "https://japan.zdnet.com/storage/2026/03/13/c04560157edf5835ab7b5f95820be681/t/184/138/d/20260313_adobestock_1617935908_1280x960.jpg",
     "fetched_at": "2026-03-13 16:11:44",
     "ja_summary": "SAPジャパンが、小売業向けのクラウド型ERP日本語版の提供を開始した。\nオムニチャネル対応など、日本市場の商習慣に合わせた運用が可能になる。\n日本国内での適合検証が完了しており、導入が即座に行える体制が整った。"
-  },
-  {
-    "title": "Claude Code 全社導入までの意思決定と歴史",
-    "link": "https://zenn.dev/gemcook/articles/claude-code-company-wide",
-    "source": "Zenn Trends",
-    "published": "Thu, 12 Mar 2026 06:10:53 GMT",
-    "summary": "はじめに\n「やばい、今すぐに意思決定をしないと取り残される」——そう感じたのは、このポストをきっかけに社長と話していた時でした。\nhttps://x.com/tsuchinao83/status/2021730479997956553?s=20\n社長に「Cursor・Windsurf・Claude Code、Devinとかとりあえず色々手を出して使ってるけど、社内のAIリテラシーを標準化して、メンバー全員がAIを等しく使えるくらいの環境を作っていかないと時代に取り残される。最新のツールへのチャレンジも必要だし、流行りがコロコロ変わる中での意思決定は難しいと思うが、全社導入を急いで欲し...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--NUabtxjE--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%2520%25E5%2585%25A8%25E7%25A4%25BE%25E5%25B0%258E%25E5%2585%25A5%25E3%2581%25BE%25E3%2581%25A7%25E3%2581%25AE%25E6%2584%258F%25E6%2580%259D%25E6%25B1%25BA%25E5%25AE%259A%25E3%2581%25A8%25E6%25AD%25B4%25E5%258F%25B2%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:soso%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzQyYzJiNzVlZTIuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Gemcook%2520Tech%2520Blog%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzFmODE2ZDZkNWQuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-    "fetched_at": "2026-03-13 16:11:57",
-    "ja_summary": "・AIツールの進化が速い中、社内のAIリテラシーを標準化し全員が活用できる環境整備が急務と判断。\n・CursorやClaude Code等の最新ツールを全社導入することで、開発スピードの維持と競争力確保を目指す。\n・流行の変化が激しい環境下でも、迅速な意思決定と実行によって時代に取り残されない組織作りを推進。"
-  },
-  {
-    "title": "インターン先でCI/CDパイプラインをゼロから構築し、リリース頻度を110倍にした話",
-    "link": "https://zenn.dev/satotakahumi/articles/3f950feea0d8b2",
-    "source": "Zenn Trends",
-    "published": "Wed, 11 Mar 2026 13:54:40 GMT",
-    "summary": "1.はじめに\nAIによる高速な開発が当たり前になる中、私はインターンとして参加したプロジェクトで「品質をどう守るか」という課題に向き合いました。\n本記事では、AIを活用した開発の中で、品質を継続的に守る仕組みづくりに取り組んだ経験と、そこから得た学びを振り返ります。\n※本記事は、インターン生という一開発者の視点による個人の振り返りです。当時のチームの状況や判断を批判する意図は一切なく、むしろ未熟な提案を受け入れ、議論の機会をくださったチームへの感謝を込めて執筆しています。\n※インターン先に掲載の許可を得ております。\n簡単なまとめ\n!\n\n課題：AI生成コード前提の開発での品質担保がボト...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--99_u8P1_--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25A4%25E3%2583%25B3%25E3%2582%25BF%25E3%2583%25BC%25E3%2583%25B3%25E5%2585%2588%25E3%2581%25A7CI%252FCD%25E3%2583%2591%25E3%2582%25A4%25E3%2583%2597%25E3%2583%25A9%25E3%2582%25A4%25E3%2583%25B3%25E3%2582%2592%25E3%2582%25BC%25E3%2583%25AD%25E3%2581%258B%25E3%2582%2589%25E6%25A7%258B%25E7%25AF%2589%25E3%2581%2597%25E3%2580%2581%25E3%2583%25AA%25E3%2583%25AA%25E3%2583%25BC%25E3%2582%25B9%25E9%25A0%25BB%25E5%25BA%25A6%25E3%2582%2592110%25E5%2580%258D%25E3%2581%25AB%25E3%2581%2597%25E3%2581%259F%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:kado%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2IyM2M2ZjFkOTUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-    "fetched_at": "2026-03-13 16:11:58",
-    "ja_summary": "・AIを活用した高速開発における品質担保の課題を解決するため、CI/CDパイプラインをゼロから構築。\n・自動テストとデプロイの仕組みを整備したことで、開発の安全性と効率を大幅に向上させた。\n・結果としてリリース頻度が110倍になり、技術的な改善がチームの成果に直結することを実証した。"
   }
 ]
