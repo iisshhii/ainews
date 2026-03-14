@@ -1,5 +1,15 @@
 [
   {
+    "title": "OpenClawライクなソフトをまとめてみた",
+    "link": "https://zenn.dev/karaage0703/articles/0e2e3484169db2",
+    "source": "Zenn Trends",
+    "published": "Fri, 13 Mar 2026 12:48:15 GMT",
+    "summary": "OpenClawが310K starsを超え、AIパーソナルアシスタント界隈が盛り上がっています。OpenClaw以外にも「Claw系」と呼ばれる派生プロジェクトや、独立系のCLIコーディングエージェントが数多く登場しています。\nこの記事では、OpenClaw的なソフト（パーソナルAIアシスタント＆CLIコーディングエージェント）を個人的にまとめました。自分が使っているものや調査で見つけたものを、カテゴリ別に紹介します。\n!\nすべてのツールを実際に試したわけではありません。GitHubのREADMEやドキュメントをベースに情報をまとめています。また、この記事の調査にはAIを活用しています...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--3YlX2mBv--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:OpenClaw%25E3%2583%25A9%25E3%2582%25A4%25E3%2582%25AF%25E3%2581%25AA%25E3%2582%25BD%25E3%2583%2595%25E3%2583%2588%25E3%2582%2592%25E3%2581%25BE%25E3%2581%25A8%25E3%2582%2581%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%258B%25E3%2582%2589%25E3%2581%2582%25E3%2581%2592%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2hDZEtvakJfZXdDTjNCV1Z0WXIteFNIZ0hmRjlXZmt3QzI5c0Y0aXYwPXMyNTAtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-03-14 20:44:56",
+    "ja_summary": "・AIアシスタント「OpenClaw」の流行に伴い、類似するCLIコーディングエージェントや関連ツールが急増中。\n・話題の「Claw系」プロジェクトや独立系ツールを、カテゴリ別に整理して紹介。\n・各ツールの概要をGitHub情報やAIによる調査に基づき、比較検討用にまとめた記事。"
+  },
+  {
     "title": "AIによる&quot;画像加工&quot;が、不動産売買に混乱をもたらしはじめた。氾濫する「盛りすぎ」写真に注意",
     "link": "https://www.businessinsider.jp/article/2603-home-listing-ai-photos-housefishing-agents-buyers/",
     "source": "Business Insider Japan",
@@ -988,15 +998,5 @@
     "image": "https://www.watch.impress.co.jp/img/ipw/list/2093/228/1.jpg",
     "fetched_at": "2026-03-13 14:18:19",
     "ja_summary": "・GoogleがAIで都市部の「鉄砲水」を最大24時間前に予測する技術を開発。\n・公開データから過去の洪水情報を構築する新手法「Groundsource」を活用。\n・突発的な都市型水害への迅速な警戒と対策が可能になる見込み。"
-  },
-  {
-    "title": "JR東日本、山手線の復旧時間「3割短縮」へ　AIカメラでパンタグラフを監視",
-    "link": "https://japan.cnet.com/article/35244905/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "JR東日本は3月10日、輸送障害が発生した際の設備点検にAIによる画像解析とドローンを活用する仕組みを導入すると発表した。まずは山手線で2026年度から運用を始め、故障箇所の特定や設備確認にかかる時間を短縮し、運転再開までの時間を従来より約30％短くすることを目指す。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35244905/\"><img src=\"https://japan.cnet.com/storage/2026/03/12/987b2121d032c773943dcacde838d014/t/184/138/d/2026-03-12_7.04の画像.jpeg\" /></a>",
-    "image": "https://japan.cnet.com/storage/2026/03/12/987b2121d032c773943dcacde838d014/t/184/138/d/2026-03-12_7.04の画像.jpeg",
-    "fetched_at": "2026-03-13 14:18:23",
-    "ja_summary": "JR東日本は2026年度から山手線にAIカメラとドローンによる点検システムを導入する。\n故障箇所の特定を自動化し、設備確認の効率を向上させる。\nこれにより、輸送障害時の運転再開までの時間を従来比で約30％短縮する。"
   }
 ]
