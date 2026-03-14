@@ -1,5 +1,25 @@
 [
   {
+    "title": "Gemini融合の新Google マップ、「何でも質問」可能に　道路の立体表示も",
+    "link": "https://www.watch.impress.co.jp/docs/news/2093231.html",
+    "source": "Impress Watch",
+    "published": "",
+    "summary": "Googleは、Geminiを融合した新しい「Google マップ」を提供開始した。会話形式で場所を検索できる新機能「Ask Maps」のほか、過去10年以上で最大のナビゲーション機能のアップデート「Immersive Navigation(イマーシブ・ナビゲーション)」などが追加されている。",
+    "image": "https://www.watch.impress.co.jp/img/ipw/list/2093/231/00.jpg",
+    "fetched_at": "2026-03-14 22:40:16",
+    "ja_summary": "・GoogleマップがGeminiと融合し、会話形式で場所を検索できる「Ask Maps」を提供開始。\n・過去最大級のアップデートとして、目的地までの道のりを立体的に確認できる「イマーシブ・ナビゲーション」を追加。\n・AIによる検索の利便性向上と、より直感的で分かりやすいナビゲーションを実現。"
+  },
+  {
+    "title": "[GDG London Build with AI x IWD 2026] Why is everyone talking about AI Agents?",
+    "link": "https://speakerdeck.com/thatfiredev/gdg-london-build-with-ai-x-iwd-2026-why-is-everyone-talking-about-ai-agents",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-03-14T08:50:08-04:00",
+    "summary": "As we kick off Build with AI - IWD, we address the elephant in the room: Why are agents suddenly everywhere?\nThis keynote provides the essential context for today’s workshops and talks. We will discuss the shift from static APIs to dynamic, goal-oriented agents and what this means for the future of work.\nThis is your roadmap for the day, designed to help you connect the dots between individual sessions and the global agentic revolution.",
+    "image": "https://files.speakerdeck.com/presentations/de109f475904433aabc8162941730843/preview_slide_0.jpg?38737980",
+    "fetched_at": "2026-03-14 22:40:39",
+    "ja_summary": "・単なるAPIから自律的に目標を達成する「AIエージェント」への技術的転換を解説。\n・AIエージェントが急速に普及する背景と、今後の働き方への影響を論じる。\n・本イベントの各セッションを繋ぎ、AI活用トレンドを俯瞰するためのロードマップを提示。"
+  },
+  {
     "title": "グーグル、AIで都市型鉄砲水を最大24時間前に予測",
     "link": "https://www.watch.impress.co.jp/docs/news/2093228.html",
     "source": "Impress Watch",
@@ -978,25 +998,5 @@
     "image": "https://res.cloudinary.com/zenn/image/upload/s--xeMrpiE7--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:React%25E3%2581%25A7signals%25E3%2581%25AF%25E5%25BF%2585%25E8%25A6%2581%25E3%2581%25AA%25E3%2581%2584%25E3%2580%2581Jotai%25E3%2581%258C%25E3%2581%2582%25E3%2582%258B%25E3%2581%258B%25E3%2582%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:daishi%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzcwZGNhM2E2Y2IuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
     "fetched_at": "2026-03-13 15:08:23",
     "ja_summary": "・Reactにおいて、外部から持ち込まれた「signals」という概念は必ずしも必要ではない。\n・Reactの既存の仕組みや「Jotai」のようなライブラリで、同等の効率的な状態管理は十分に実現できる。\n・Reactのレンダリングモデルと競合する手法を導入するよりも、Reactの特性に最適化された既存のツールを活用すべきである。"
-  },
-  {
-    "title": "Claude Codeを使いこなすために最低限知っておくべきこと4選！",
-    "link": "https://qiita.com/nAotO01_03/items/d8e58f7282f1c44dca14",
-    "source": "Qiita (Popular)",
-    "published": "2026-03-06T13:06:44+09:00",
-    "summary": "# 1. はじめに\n昨今、AIエージェントを活用した開発が主流になりつつあります。\nエージェントを導入することで開発スピードが飛躍的に向上し、PoCやプレ実装のハードルも大幅に下がりました。\n初心者でも手軽に実装に取り組めるようになった一方で、その機能を熟知し使いこなすことで、より迅速かつ精度の高いアウトプットが可能になります。\n\n今回は、特に注目を集める「Claude Code」を使いこなすため",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYzODQ2ODU3JTJGYzZhODExZjZkMTIyODJjM2ZiOTlhYmNiMzcxYWJjMmE1MzQwYjk4ZCUyRnhfbGFyZ2UucG5nJTNGMTc2Mzg2MzAzNz9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9MzgwYTYyNTBkYWM2YTg3NGNlOTI0ZDZlYjcyNjE2OTM%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D5d0bc1728c6bdbc0dc333ddd82807e69?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9Q2xhdWRlJTIwQ29kZSVFMyU4MiU5MiVFNCVCRCVCRiVFMyU4MSU4NCVFMyU4MSU5MyVFMyU4MSVBQSVFMyU4MSU5OSVFMyU4MSU5RiVFMyU4MiU4MSVFMyU4MSVBQiVFNiU5QyU4MCVFNCVCRCU4RSVFOSU5OSU5MCVFNyU5RiVBNSVFMyU4MSVBMyVFMyU4MSVBNiVFMyU4MSU4QSVFMyU4MSU4RiVFMyU4MSVCOSVFMyU4MSU4RCVFMyU4MSU5MyVFMyU4MSVBODQlRTklODElQjglRUYlQkMlODEmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz03Njk2YmI5YTMxMDdlMzM1MWU1NDhlMzI0NzJkMjY3Nw&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBuQW90TzAxXzAzJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9NGRlMzBhMTkyY2RkMDg5ZjRmMTk1ZTZiMTk4YjJhOWY&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=f376b3ebbdbd31de502d1bb9423bb700",
-    "fetched_at": "2026-03-13 15:08:26",
-    "ja_summary": "・AIエージェントの活用で開発効率が飛躍的に向上する。\n・「Claude Code」を使いこなすことで、開発の速度と精度がさらに高まる。\n・機能を熟知し、適切な活用法を学ぶことが生産性向上の鍵となる。"
-  },
-  {
-    "title": "AIに｢近くの中華｣を聞く若手はなぜ伸びないか | リーダーシップ・教養・資格・スキル | 東洋経済オンライン",
-    "link": "https://toyokeizai.net/articles/-/937561?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-    "source": "東洋経済オンライン",
-    "published": "Fri, 13 Mar 2026 13:00:00 +0900",
-    "summary": "AIを使いこなし、最短距離で「正解」にたどり着くデジタルネイティブ世代。しかし、効率化の裏で「なぜそ…",
-    "image": "https://tk.ismcdn.jp/mwimgs/1/3/1200w/img_135a7a70ed8f4d058802550ef0e509a5341019.jpg?nextgen=false",
-    "fetched_at": "2026-03-13 14:17:57",
-    "ja_summary": "AIに正解を即座に求める習慣は、試行錯誤やプロセスから学ぶ機会を奪う。\n効率化を優先しすぎて思考停止に陥ると、応用力や問題解決能力が育たない。\n自ら考え抜く「非効率なプロセス」こそが、長期的な成長には不可欠である。"
   }
 ]
