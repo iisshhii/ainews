@@ -1,5 +1,15 @@
 [
   {
+    "title": "Anthropic公式「Skills完全ガイド」を読んだら、自分のSKILL.mdのトークン消費を40%減らせた",
+    "link": "https://qiita.com/yurukusa/items/f69920b4a02cf7e2988c",
+    "source": "Qiita (Popular)",
+    "published": "2026-03-15T22:00:27+09:00",
+    "summary": "この記事は2026年3月時点の情報に基づいている。\n\n---\n\nAnthropicが公式で「The Complete Guide to Building Skills for Claude」というPDF（33ページ）を出した。\n\n中身を読んで、自分のスキル構成に反映した。結果から言うと、SKILL.mdのトークン消費が約40%減った。体感でもレスポンスが速くなった。\n\n原文（英語PDF）: [Th",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmxoMy5nb29nbGV1c2VyY29udGVudC5jb20lMkZhJTJGQUNnOG9jSk5hTElXTlBzQy1JV0k5aHpnNjAyTHNNdHdBdy1TTzJPRFJKckNQSUx6V2lHamRXNCUzRHM5Ni1jP2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz01NTg2YTAyZWJlMGEyMjU4NDA4ZmIxMzliZDJjYmZmMg%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Da1fbe3b48ab3944550e370ff8e694a17?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9QW50aHJvcGljJUU1JTg1JUFDJUU1JUJDJThGJUUzJTgwJThDU2tpbGxzJUU1JUFFJThDJUU1JTg1JUE4JUUzJTgyJUFDJUUzJTgyJUE0JUUzJTgzJTg5JUUzJTgwJThEJUUzJTgyJTkyJUU4JUFBJUFEJUUzJTgyJTkzJUUzJTgxJUEwJUUzJTgyJTg5JUUzJTgwJTgxJUU4JTg3JUFBJUU1JTg4JTg2JUUzJTgxJUFFU0tJTEwubWQlRTMlODElQUUlRTMlODMlODglRTMlODMlQkMlRTMlODIlQUYlRTMlODMlQjMlRTYlQjYlODglRTglQjIlQkIlRTMlODIlOTI0MCUyNSVFNiVCOCU5QiVFMyU4MiU4OSVFMyU4MSU5QiVFMyU4MSU5RiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTYwN2ZjNzMzYTM0M2YyMjYyMWJiNmExZjE1OWU5NzQ0&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDB5dXJ1a3VzYSZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWUzZjE5NmRiNTgxN2MyNzIyZTk5MDFiZTYxNDUyNTIz&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=75422e54790e78ffd0e46ff401eb0478",
+    "fetched_at": "2026-03-15 22:34:32",
+    "ja_summary": "Anthropic公式のスキル構築ガイドを参考に設定を最適化した結果、SKILL.mdのトークン消費量を40%削減。\n不要な記述を削ることで、Claudeの回答速度向上とコスト効率化を両立できる。\n設定を見直すことで、AIのパフォーマンスを維持したまま運用負荷を大幅に軽減可能。"
+  },
+  {
     "title": "私のOSS活動元年を振り返ったらAIと下心が原動力だった",
     "link": "https://zenn.dev/jackchuka/articles/473ef7cc70efbc",
     "source": "Zenn Trends",
@@ -988,15 +998,5 @@
     "image": "https://assets.st-note.com/production/uploads/images/256315123/rectangle_large_type_2_87f9d61de13814379364ac8c9b9933da.png?width=800",
     "fetched_at": "2026-03-13 16:55:42",
     "ja_summary": "・OpenAIが新モデル「GPT-5.3 Instant」を発表。\n・処理速度が向上し、よりスムーズで日常会話に適した応答が可能に。\n・従来のモデル以上に、日々のタスクや対話での実用性が強化されている。"
-  },
-  {
-    "title": "2026年3月16日号 (バックナンバー目次)",
-    "link": "https://business.nikkei.com/atcl/NBD/19/mokuji/00363/",
-    "source": "日経ビジネス 最新",
-    "published": "",
-    "summary": "今、あらためて「高専」が注目されている。2026年3月卒業予定の大卒求人倍率は1.66倍だったが、高専卒の求人倍率は20倍を超える。産業界が熱視線を送る理由は、高専生が備える実践的な技術力と主体性の高さにある。AI（人工知能）や半導体など、高市早苗政権が掲げる17の戦略分野につながる教育も進む。日本の成長を担う、先端産業の中核人材を輩出する教育機関へと進化した高専の実像に迫る。",
-    "image": "https://business.nikkei.com/images/onb/2019/nblogo_ogimage.png",
-    "fetched_at": "2026-03-13 16:11:23",
-    "ja_summary": "・高専卒の求人倍率が20倍を超え、大卒を大きく上回る人気ぶり。\n・産業界は高専生の実践的な技術力と主体性を高く評価。\n・AIや半導体など、次世代の戦略分野を担う中核人材として注目が集まる。"
   }
 ]
