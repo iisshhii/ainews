@@ -1,5 +1,75 @@
 [
   {
+    "title": "“ほぼ人間”のAI音声を複数話者で一括生成。日本語対応オープンソースTTS「Fish Audio S2」、単語レベルの感情制御も可（生成AIクローズアップ）",
+    "link": "https://www.techno-edge.net/article/2026/03/16/4926.html",
+    "source": "TechnoEdge",
+    "published": "Mon, 16 Mar 2026 08:33:16 +0900",
+    "summary": "1週間の気になる生成AI技術・研究をいくつかピックアップして解説する連載「生成AIウィークリー」から、特に興味深いAI技術や研究にスポットライトを当てる生成AIクローズアップ。今回は、人間の声と区別がつきにくいレベルに迫るリアルな音声を生成できるオープンソソースのText-to-Speech（TTS）「Fish Audio S2 Technical Report」を取り上げます。",
+    "image": "https://www.techno-edge.net/imgs/rss/30364.jpg",
+    "fetched_at": "2026-03-16 08:51:27",
+    "ja_summary": "・人間と区別がつかないほどリアルな音声を生成できるオープンソースのTTS「Fish Audio S2」が登場。\n・複数話者の音声を一括生成できるほか、単語単位での緻密な感情表現の制御が可能。\n・生成AIの技術進化を象徴する、高度な自然言語音声合成ツールとして注目されている。"
+  },
+  {
+    "title": "Wayfair boosts catalog accuracy and support speed with OpenAI",
+    "link": "https://openai.com/index/wayfair",
+    "source": "OpenAI",
+    "published": "Wed, 11 Mar 2026 11:00:00 GMT",
+    "summary": "Wayfair uses OpenAI models to improve ecommerce support and product catalog accuracy, automating ticket triage and enhancing millions of product attributes at scale.",
+    "image": "https://openai.com/favicon.ico",
+    "fetched_at": "2026-03-16 08:51:28",
+    "ja_summary": "・WayfairがOpenAIのAIモデルを導入し、ECサイトの顧客対応と商品カタログの精度を向上\n・問い合わせ対応の自動化によりサポート速度を改善\n・数百万件の商品属性データ整備を自動化し、カタログの正確性を強化"
+  },
+  {
+    "title": "From model to agent: Equipping the Responses API with a computer environment",
+    "link": "https://openai.com/index/equip-responses-api-computer-environment",
+    "source": "OpenAI",
+    "published": "Wed, 11 Mar 2026 11:00:00 GMT",
+    "summary": "How OpenAI built an agent runtime using the Responses API, shell tool, and hosted containers to run secure, scalable agents with files, tools, and state.",
+    "image": "https://openai.com/favicon.ico",
+    "fetched_at": "2026-03-16 08:51:28",
+    "ja_summary": "・OpenAIが「Responses API」にシェルツールやホスト型コンテナを統合し、AIエージェントの実行環境を構築。\n・コード実行やファイル操作、状態保持が可能な安全かつスケーラブルな環境を実現。\n・AIモデルが単なる応答生成にとどまらず、PC環境を操作するエージェントへと進化。"
+  },
+  {
+    "title": "Claude CodeのReact習熟度を測る",
+    "link": "https://zenn.dev/uhyo/articles/react-profession-bench-1",
+    "source": "Zenn Trends",
+    "published": "Sun, 15 Mar 2026 15:23:17 GMT",
+    "summary": "皆さんこんにちは。コーディングエージェントの発展により、プログラムの多くの部分をAiが書いてくれるようになりました。\nしかし、筆者が得意とするReactに関しては、動くものを作ることはできるにせよ、人間が十分に指図しなければ質のいいコードが書けないことも多いと感じています。\nそこで、今回は、Claude CodeのReact習熟度を測るための簡単なベンチマークを作ってみたので、その結果を共有します。\n\n 注意と予防線\nベンチマークと名乗ると、粗探しをしたい方々が寄ってくる傾向があります。その前に、今回の設定が以下のとおりであることをご理解ください。\n\nあくまで筆者が考える「習熟度」を測っ...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--PYijxZSv--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%25E3%2581%25AEReact%25E7%25BF%2592%25E7%2586%259F%25E5%25BA%25A6%25E3%2582%2592%25E6%25B8%25AC%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:uhyo%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzVjYjFlMDJlNGQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-03-16 08:51:30",
+    "ja_summary": "・AIによるコーディングが普及する中、ReactにおけるClaude Codeの質を検証する独自ベンチマークを作成。\n・AIが動くコードは書けても、高品質な実装には依然として人間による緻密な指示が不可欠と分析。\n・筆者独自の基準で実施したClaude CodeのReact習熟度テストの結果を公開。"
+  },
+  {
+    "title": "課題ベースで学ぶClaude Code便利機能",
+    "link": "https://zenn.dev/hsaki/articles/why-claude-code-function",
+    "source": "Zenn Trends",
+    "published": "Sun, 15 Mar 2026 12:00:12 GMT",
+    "summary": "この記事について\n「とりあえずClaude Codeを入れてみたけど、なんか使いこなせていない気がする」「あの機能の存在は知っているけど、自分には関係ないと思っていた」という方はいませんか？\n本記事では、Claude Codeを使いはじめた人が日々の作業の中で感じるよくある「つまずき」や「不満」を出発点に、それを解消するClaude Codeの機能を紹介していきます。\n\nClaude.aiチャットとClaude Codeのagentモードは何が違うの？\nCLAUDE.md、Hook、MCP、Skillなど設定項目が多すぎてどこから手をつければいいかわからない\n\nという部分を、「こうい...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--kViX2M3_--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E8%25AA%25B2%25E9%25A1%258C%25E3%2583%2599%25E3%2583%25BC%25E3%2582%25B9%25E3%2581%25A7%25E5%25AD%25A6%25E3%2581%25B6Claude%2520Code%25E4%25BE%25BF%25E5%2588%25A9%25E6%25A9%259F%25E8%2583%25BD%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%2595%25E3%2581%258D%2528H.Saki%2529%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzUxMjkxZTA5YTAuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-03-16 08:51:31",
+    "ja_summary": "・Claude Codeを使い始めた人が抱く「使いこなしの悩み」を課題ベースで解決策を提示。\n・チャットとagentモードの使い分けや、CLAUDE.md・MCP等の設定・活用法を具体的に解説。\n・日々の開発作業におけるつまずきを解消し、効率を最大化するための実践的なガイド。"
+  },
+  {
+    "title": "コードを書くのをやめた。Claude Codeに月商300万のSaaSの全コードを書かせ、完全ソロ運用しているという話。",
+    "link": "https://zenn.dev/nnze/articles/e3f648e335a947",
+    "source": "Zenn Trends",
+    "published": "Sun, 15 Mar 2026 02:05:29 GMT",
+    "summary": "私は現在、B2B向けのニッチな自動化APIミドルウェアをSaaSとして完全な個人で運用し、広告費ゼロ・従業員ゼロで毎月およそ300万円ほどのMRR、定額の月次収益を生み出している。しかも実を言うと、この半年間、エディタを開いて人間が手入力する従来のコーディング作業など1秒たりともおこなっていない。ローカルのターミナルからClaude Codeを呼び出し、AIに要件と仕様を突っ込んでシステム全体を保守拡張させているだけだ。\nコードを手書きする時代は終わった。ではエンジニアは何をすれば勝てるのか。本当に機能するAIネイティブ時代のSaaS個人開発と、B2Bマーケティングの泥臭い現実を、書き殴...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--_haBZPbp--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2589%25E3%2582%2592%25E6%259B%25B8%25E3%2581%258F%25E3%2581%25AE%25E3%2582%2592%25E3%2582%2584%25E3%2582%2581%25E3%2581%259F%25E3%2580%2582Claude%2520Code%25E3%2581%25AB%25E6%259C%2588%25E5%2595%2586300%25E4%25B8%2587%25E3%2581%25AESaaS%25E3%2581%25AE%25E5%2585%25A8%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2589%25E3%2582%2592%25E6%259B%25B8%25E3%2581%258B%25E3%2581%259B%25E3%2580%2581%25E5%25AE%258C%25E5%2585%25A8%25E3%2582%25BD%25E3%2583%25AD%25E9%2581%258B%25E7%2594%25A8%25E3%2581%2597%25E3%2581%25A6%25E3%2581%2584%25E3%2582%258B%25E3%2581%25A8%25E3%2581%2584%25E3%2581%2586%25E8%25A9%25B1%25E3%2580%2582%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:A%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSW5wYnlCU1hsSjFidHIyem9BcTBHQm9ocDA0enljMVNFSzAxZEVwMHlkQ19Wd0FRPXM5Ni1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-03-16 08:51:31",
+    "ja_summary": "・月商300万円のB2B SaaSを、人間がコードを一行も書かずに「Claude Code」のみで完全運用。\n・AIに要件を伝えて開発・保守を全任し、手動コーディングを廃止する新しい開発手法を実践。\n・今後はエンジニアの役割が「コードを書く作業」から「AIを活用した設計・運用」へシフトする。"
+  },
+  {
+    "title": "ALFWorld (v0.2) を Macbook で実行する",
+    "link": "https://zenn.dev/motobrew/articles/bea57dc52a1eb3",
+    "source": "Zenn Trends",
+    "published": "Sun, 15 Mar 2026 01:31:49 GMT",
+    "summary": "当記事では、AgentBench というベンチマークのうち、 ALFWorld を Macbook で実行する手順を紹介します。\nMacで実行するのは AgentBench 側です。それとは別に LLM (AI Agent)をどこで実行するかは選択の余地があります。\n\nOllama を使って同じMac上で実行\nOpenAI, DeepInfra, OpenRouter などの API\nRunPod, AWS などのクラウドやお手持ちのGPUを使って vllm 起動\n\n当記事では、以下の３パータンの設定例を紹介しています。\n\nOllama (qwen3:4b)\nOpenAI API (gp...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--TTMYtbIS--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:ALFWorld%2520%2528v0.2%2529%2520%25E3%2582%2592%2520Macbook%2520%25E3%2581%25A7%25E5%25AE%259F%25E8%25A1%258C%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:motobrew%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSy01OWZUSGlOMDJIeWhvWlQ3N2tZa0s1TTBNWnB0Z2VROXlvVkhLQmVoc0c5bEVYbmVlQT1zOTYtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-03-16 08:51:32",
+    "ja_summary": "・Macでエージェント学習用ベンチマーク「ALFWorld」を実行する手順を解説。\n・LLM（頭脳）は、Ollamaによるローカル実行や各種API、クラウド接続から選択可能。\n・記事ではOllamaやOpenAI APIを用いた3つの具体的な設定パターンを紹介。"
+  },
+  {
     "title": "【西田宗千佳のイマトミライ】スマホもPCも「AIが先に動く」時代へ　Galaxy S26、iPhone 17e、Copilot Cowork",
     "link": "https://www.watch.impress.co.jp/docs/series/nishida/2093542.html",
     "source": "Impress Watch",
@@ -928,75 +998,5 @@
     "image": "https://www.techno-edge.net/imgs/rss/29920.jpg",
     "fetched_at": "2026-03-14 00:27:39",
     "ja_summary": "・10万円未満の安価なMacBookで、音楽制作ソフト「Logic Pro」やAI生成ツール「Suno」が実用的に動作するかを検証。\n・スペックの限られた格安モデルが、本格的な楽曲制作の用途に耐えうるかを実機で調査した。"
-  },
-  {
-    "title": "Rakuten fixes issues twice as fast with Codex",
-    "link": "https://openai.com/index/rakuten",
-    "source": "OpenAI",
-    "published": "Wed, 11 Mar 2026 13:00:00 GMT",
-    "summary": "Rakuten uses Codex, the coding agent from OpenAI, to ship software faster and safer, reducing MTTR 50%, automating CI/CD reviews, and delivering full-stack builds in weeks.",
-    "image": "https://openai.com/favicon.ico",
-    "fetched_at": "2026-03-14 00:27:40",
-    "ja_summary": "・楽天がOpenAIの「Codex」を導入し、開発プロセスを大幅に効率化。\n・バグ修復のスピードが2倍に向上し、MTTR（平均復旧時間）を50%削減。\n・CI/CDレビューの自動化により、フルスタック開発の期間短縮と安全性を両立。"
-  },
-  {
-    "title": "Claude Code Skills 完全活用ガイド 2026 — 個人最適化からチーム展開まで",
-    "link": "https://qiita.com/nogataka/items/ad9995fb1b3db7055740",
-    "source": "Qiita (Popular)",
-    "published": "2026-03-12T21:53:59+09:00",
-    "summary": "\n## はじめに\n\n2026年3月現在、Claude Code Skillsに関するはてなブックマークが爆発的に伸びている。[クラスメソッドの入門記事が783users](https://dev.classmethod.jp/articles/claude-code-skills-for-cloud-bu-consulting-members/)、[Anthropic公式講座の解説が763user",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYxNjEyOTglMkZjMWUzZmZkNmVhZGExOTY5ZmYzYzQ0YjE0ZmRlMDgxYmNkZTZmNTAwJTJGeF9sYXJnZS5wbmclM0YxNTg0ODQ1NTg0P2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz00ZGRjZmU5NTFjNTMyMzU3NjcyOGUzOTkyOTNmOGRlNQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D246367bff431168e6212d2602a3df494?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9Q2xhdWRlJTIwQ29kZSUyMFNraWxscyUyMCVFNSVBRSU4QyVFNSU4NSVBOCVFNiVCNCVCQiVFNyU5NCVBOCVFMyU4MiVBQyVFMyU4MiVBNCVFMyU4MyU4OSUyMDIwMjYlMjAlRTIlODAlOTQlMjAlRTUlODAlOEIlRTQlQkElQkElRTYlOUMlODAlRTklODElQTklRTUlOEMlOTYlRTMlODElOEIlRTMlODIlODklRTMlODMlODElRTMlODMlQkMlRTMlODMlQTAlRTUlQjElOTUlRTklOTYlOEIlRTMlODElQkUlRTMlODElQTcmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1mZjVhMjcxMGIxNmE3ZGM1MGM1MzYxODU4OTdjODQzZA&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBub2dhdGFrYSZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWE5ODA4YTE0Zjg4Y2I0ZjQ5OWU2ZDA3NGYyY2E2YTNh&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=e896c87358b054a50f75ab371624f55d",
-    "fetched_at": "2026-03-14 00:27:55",
-    "ja_summary": "Claude Code Skillsの活用法が注目されており、個人利用からチームでの展開まで、2026年3月時点の最新情報をまとめたガイドが登場。\nクラスメソッドやAnthropic公式講座の解説記事も人気を集めている。\nこの記事では、Claude Code Skillsの完全な活用方法を網羅的に解説。"
-  },
-  {
-    "title": "「無料でAIエージェント作れるやん」→ ローカルLLMに100回ツール呼び出しさせたら\"成功したはずの出力\"がカオスだった話",
-    "link": "https://qiita.com/toarusyakaijin/items/3ab5caa68a8a33f5ec73",
-    "source": "Qiita (Popular)",
-    "published": "2026-03-04T20:12:41+09:00",
-    "summary": "<!--\ntitle: 「無料でAIエージェント作れるやん」→ ローカルLLMに100回ツール呼び出しさせたら\"成功したはずの出力\"がカオスだった話\ntags: Ollama, Python, LLM, AI, 初心者\n-->\n\n## 前回「MCPなんていらない」って書いた人間が、もっと手前の問題に気づいた話\n\n先日、こんな記事を書きました。私が。\n\n> [**「MCPサーバー作るのもうやめていい",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYzNTEyMDM5JTJGZDU0YTZlZTYyYjVmY2Q2MzU0MDcwY2U1Y2QwMjcyNDdkYjg2MzhjZiUyRmxhcmdlLnBuZyUzRjE3NjUxNTk0NTQ_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPTNhNjA1NjVmMjk2ZGJkYmRkZGViNDg2ZjcwODlhMDhm%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkY5OTY1OGZhNTJmYmI5ZmY4NjMwMDUxNGM2YTdmOGY2ZGUxZDQ1ZDFiJTJGb3JpZ2luYWwuanBnJTNGMTc2Njk4OTYyMD9peGxpYj1yYi00LjAuMCZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz00ODRlOGI1ODYxNTg1Njg0YjZhZWJiZjI2NWY5ZWVhZg%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D9ae01d5c18eab0bf358b94e6e1259ec7?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJThDJUU3JTg0JUExJUU2JTk2JTk5JUUzJTgxJUE3QUklRTMlODIlQTglRTMlODMlQkMlRTMlODIlQjglRTMlODIlQTclRTMlODMlQjMlRTMlODMlODglRTQlQkQlOUMlRTMlODIlOEMlRTMlODIlOEIlRTMlODIlODQlRTMlODIlOTMlRTMlODAlOEQlRTIlODYlOTIlMjAlRTMlODMlQUQlRTMlODMlQkMlRTMlODIlQUIlRTMlODMlQUJMTE0lRTMlODElQUIxMDAlRTUlOUIlOUUlRTMlODMlODQlRTMlODMlQkMlRTMlODMlQUIlRTUlOTElQkMlRTMlODElQjMlRTUlODclQkElRTMlODElOTclRTMlODElOTUlRTMlODElOUIlRTMlODElOUYlRTMlODIlODklMjIlRTYlODglOTAlRTUlOEElOUYlRTMlODElOTclRTMlODElOUYlRTMlODElQUYlRTMlODElOUElRTMlODElQUUlRTUlODclQkElRTIlODAlQTYmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1jOWRmNzk4ZTVhMzRkOGI3M2ZhZGJmOTY1OGVlNGMxMw&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDB0b2FydXN5YWthaWppbiZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWJjOTgyZDMxZjFiM2ZiMjQ5ZmQ2OTA1ODViMDc2MGZl&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=5qCq5byP5Lya56S-44OK44OP44OI&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=1f9c4c120e1fd8d6c28eef7a47ca3b79",
-    "fetched_at": "2026-03-14 00:27:58",
-    "ja_summary": "・ローカルLLMでAIエージェントを構築し、ツールを連続実行させると出力結果が崩壊する事象が発生。\n・処理回数が増えるほどLLMの推論精度が維持できず、成功判定された出力も内容がカオス化。\n・安易なエージェント化には安定した実行環境やプロンプト制御が不可欠であるという教訓。"
-  },
-  {
-    "title": "6500億円赤字見通しの日産、次の一手はロボタクシー。Uber・Wayveとの協業で新型リーフを供給",
-    "link": "https://www.businessinsider.jp/article/2603-nissan-robotaxi-uber-wayve-leaf/",
-    "source": "Business Insider Japan",
-    "published": "Thu, 12 Mar 2026 21:50:00 GMT",
-    "summary": "日産が英AIスタートアップWayveと米Uberの3社でロボタクシー事業に乗り出します。WayveのAIを新型リーフに搭載しUberで配車する分業モデルで、2026年後半に東京で試験運行を目指します。",
-    "image": "https://media.loom-app.com/loom/2026/03/12/7fd4e092-79bd-445f-a967-cccb9ab92af5/original.jpg?w=1200&amp;h=630",
-    "fetched_at": "2026-03-13 22:45:53",
-    "ja_summary": "・日産がUber・Wayveと組み、新型リーフを用いたロボタクシー事業に参入。\n・WayveのAI技術とUberの配車網を活用し、分業でコストを最適化。\n・2026年後半の東京での試験運行開始を目指し、赤字脱却の次の一手とする。"
-  },
-  {
-    "title": "米有力銀行ウェルズ・ファーゴの目標達成にはAIが不可欠…AI責任者が鍵を握ると考える「3つの原則」",
-    "link": "https://www.businessinsider.jp/article/2603-wells-fargo-growth-ai-head-saul-van-beurden/",
-    "source": "Business Insider Japan",
-    "published": "Thu, 12 Mar 2026 21:40:00 GMT",
-    "summary": "ソール・ヴァン・ブールデン氏は、AIがウェルズ・ファーゴの運営方法を根本的に変えると考えています。その実現に向けた彼の戦略を紹介します。",
-    "image": "https://media.loom-app.com/loom/2026/03/10/fac34497-09f0-400b-a7d8-c517527f7cf9/original.jpg?w=1200&amp;h=630",
-    "fetched_at": "2026-03-13 22:45:55",
-    "ja_summary": "・米ウェルズ・ファーゴはAI活用を銀行運営の変革の核と位置づけている。\n・AI責任者は、目標達成に向けたAI活用の「3つの原則」を主導する。\n・AI導入による業務の根本的な刷新で、競争力の強化を目指す。"
-  },
-  {
-    "title": "「NanoClaw」とDockerが提携--AIエージェントの暴走リスクに歯止め",
-    "link": "https://japan.zdnet.com/article/35245030/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "オープンなマイクロAIエージェント基盤とコンテナーとの統合は、万能型エージェントで露呈した深刻なサイバーセキュリティリスクを回避する1つの手立てになる。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35245030/\"><img src=\"https://japan.zdnet.com/storage/2026/03/13/60487b6a286e922b446f0696a68d7b28/t/184/138/d/aicontainersgettyimages-2252957381_l.jpg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2026/03/13/60487b6a286e922b446f0696a68d7b28/t/184/138/d/aicontainersgettyimages-2252957381_l.jpg",
-    "fetched_at": "2026-03-13 22:46:02",
-    "ja_summary": "・NanoClawとDockerが提携し、AIエージェントの安全な実行環境を構築。\n・AIエージェントをコンテナ内で制御することで、暴走やサイバー攻撃のリスクを低減。\n・AIの利便性を維持しつつ、企業利用におけるセキュリティを強化する新たな手法。"
-  },
-  {
-    "title": "Designing AI agents to resist prompt injection",
-    "link": "https://openai.com/index/designing-agents-to-resist-prompt-injection",
-    "source": "OpenAI",
-    "published": "Wed, 11 Mar 2026 11:30:00 GMT",
-    "summary": "How ChatGPT defends against prompt injection and social engineering by constraining risky actions and protecting sensitive data in agent workflows.",
-    "image": "https://openai.com/favicon.ico",
-    "fetched_at": "2026-03-13 22:46:04",
-    "ja_summary": "・ChatGPTはAIエージェントの操作に対し、リスクの高い処理の制限や機密情報の保護を強化。\n・プロンプトインジェクションやソーシャルエンジニアリングによる不正な攻撃を防止。\n・安全なワークフローを設計し、AIの誤用や情報漏洩のリスクを最小化。"
   }
 ]
