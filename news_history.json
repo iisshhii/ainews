@@ -1,5 +1,25 @@
 [
   {
+    "title": "【西田宗千佳のイマトミライ】スマホもPCも「AIが先に動く」時代へ　Galaxy S26、iPhone 17e、Copilot Cowork",
+    "link": "https://www.watch.impress.co.jp/docs/series/nishida/2093542.html",
+    "source": "Impress Watch",
+    "published": "",
+    "summary": "春が近づき、スマートフォン新製品が増えてきた。",
+    "image": "https://www.watch.impress.co.jp/img/ipw/list/2093/542/m00.jpg",
+    "fetched_at": "2026-03-16 08:22:19",
+    "ja_summary": "・スマホやPCの新製品は、ユーザーの指示を待つのではなく「AIが先回りして動く」時代へ移行。\n・Galaxy S26やiPhone 17e、Copilot Coworkなど、AI活用を前提としたデバイスやサービスが続々登場。\n・春の最新モデルでは、AIが自律的にサポートを行う新しい操作体験が標準化される。"
+  },
+  {
+    "title": "Improving instruction hierarchy in frontier LLMs",
+    "link": "https://openai.com/index/instruction-hierarchy-challenge",
+    "source": "OpenAI",
+    "published": "Tue, 10 Mar 2026 11:00:00 GMT",
+    "summary": "IH-Challenge trains models to prioritize trusted instructions, improving instruction hierarchy, safety steerability, and resistance to prompt injection attacks.",
+    "image": "https://openai.com/favicon.ico",
+    "fetched_at": "2026-03-16 08:22:37",
+    "ja_summary": "・「IH-Challenge」により、LLMが信頼できる指示を優先的に実行する能力を強化。\n・指示への追従性と安全性を向上させ、悪意あるプロンプト注入攻撃への耐性を高める。\n・AIモデルの制御性を高め、より安全で信頼性の高い運用を実現する技術。"
+  },
+  {
     "title": "任天堂「ぽこ あ ポケモン」爆売れで株価急騰　“異色ゲーム”がもたらす長期的リターンとは？",
     "link": "https://www.itmedia.co.jp/business/articles/2603/16/news033.html",
     "source": "ITmedia ビジネス",
@@ -978,25 +998,5 @@
     "image": "https://openai.com/favicon.ico",
     "fetched_at": "2026-03-13 22:46:04",
     "ja_summary": "・ChatGPTはAIエージェントの操作に対し、リスクの高い処理の制限や機密情報の保護を強化。\n・プロンプトインジェクションやソーシャルエンジニアリングによる不正な攻撃を防止。\n・安全なワークフローを設計し、AIの誤用や情報漏洩のリスクを最小化。"
-  },
-  {
-    "title": "From model to agent: Equipping the Responses API with a computer environment",
-    "link": "https://openai.com/index/equip-responses-api-computer-environment",
-    "source": "OpenAI",
-    "published": "Wed, 11 Mar 2026 11:00:00 GMT",
-    "summary": "How OpenAI built an agent runtime using the Responses API, shell tool, and hosted containers to run secure, scalable agents with files, tools, and state.",
-    "image": "https://openai.com/favicon.ico",
-    "fetched_at": "2026-03-13 22:46:04",
-    "ja_summary": "・OpenAIが「Responses API」にシェルツールやホスト型コンテナを統合し、AIエージェントの実行環境を構築。\n・ファイルを操作し、ツールを実行して状態を保持する、安全かつスケーラブルなAIエージェントを実現。\n・モデルが単なる応答生成から、コンピュータ環境を直接操作する「エージェント」へと進化。"
-  },
-  {
-    "title": "Wayfair boosts catalog accuracy and support speed with OpenAI",
-    "link": "https://openai.com/index/wayfair",
-    "source": "OpenAI",
-    "published": "Wed, 11 Mar 2026 11:00:00 GMT",
-    "summary": "Wayfair uses OpenAI models to improve ecommerce support and product catalog accuracy, automating ticket triage and enhancing millions of product attributes at scale.",
-    "image": "https://openai.com/favicon.ico",
-    "fetched_at": "2026-03-13 21:39:45",
-    "ja_summary": "・WayfairがOpenAIの技術を導入し、ECサイトのカスタマーサポートを自動化・効率化。\n・数百万件に及ぶ商品情報の属性データをAIで最適化し、カタログの正確性を向上。\n・問い合わせ対応の迅速化と商品管理の精度向上を同時に実現。"
   }
 ]
