@@ -1,5 +1,15 @@
 [
   {
+    "title": "Why Codex Security Doesn’t Include a SAST Report",
+    "link": "https://openai.com/index/why-codex-security-doesnt-include-sast",
+    "source": "OpenAI",
+    "published": "Mon, 16 Mar 2026 00:00:00 GMT",
+    "summary": "A deep dive into why Codex Security doesn’t rely on traditional SAST, instead using AI-driven constraint reasoning and validation to find real vulnerabilities with fewer false positives.",
+    "image": "https://openai.com/favicon.ico",
+    "fetched_at": "2026-03-17 02:43:24",
+    "ja_summary": "・Codex Securityは従来のSAST（静的解析）を採用せず、AIによる制約推論と検証を活用。\n・誤検知を減らし、実効性のある脆弱性検出に特化したアプローチを実現。\n・従来の手法に頼らない次世代のセキュリティ診断モデルを提示。"
+  },
+  {
     "title": "Claude Codeを使いこなすために最低限知っておくべきこと4選！",
     "link": "https://qiita.com/nAotO01_03/items/d8e58f7282f1c44dca14",
     "source": "Qiita (Popular)",
@@ -988,15 +998,5 @@
     "image": "https://japan.cnet.com/storage/2026/03/15/77ac9911190db0a62a0fd8e4bfb4c412/t/184/138/d/steven-spielberg-sxsw-2026-gettyimages-2266355687__2_.jpeg",
     "fetched_at": "2026-03-15 06:47:33",
     "ja_summary": "・スピルバーグ監督が自身の映画制作にAIを使用しない姿勢を表明。\n・創造的な人間をAIで置き換えることに対し明確に反対。\n・映画におけるAIの活用について、否定的な見解を示した。"
-  },
-  {
-    "title": "第3回先進的AI利活用アドバイザリーボードの会議資料等を掲載しました",
-    "link": "https://www.digital.go.jp/councils/ai-advisory-board/80174015-f73b-4d98-811e-c601c26c0ba5",
-    "source": "デジタル庁",
-    "published": "Tue, 10 Mar 2026 15:00:00 +0900",
-    "summary": "",
-    "image": "https://www.digital.go.jp/themes/custom/gov_theme_da_2023/assets/images/ogp.png",
-    "fetched_at": "2026-03-15 06:47:42",
-    "ja_summary": "第3回「先進的AI利活用アドバイザリーボード」の会議資料が公式サイトで公開された。\nAIの安全な利活用に向けた検討状況や議論の要点が確認できる。\n詳細は政府の関連ページから閲覧可能。"
   }
 ]
