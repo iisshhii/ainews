@@ -1,5 +1,35 @@
 [
   {
+    "title": "AI音声で初の議員点呼 衆院本会議",
+    "link": "https://news.yahoo.co.jp/pickup/6573005?source=rss",
+    "source": "Yahoo!ニュース IT・科学",
+    "published": "Fri, 13 Mar 2026 08:45:25 GMT",
+    "summary": "",
+    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/13/ec4ef710f23b262d08ecdc6f802eb048b20fee6dcc5b9ece21480b68d94a579b.jpg",
+    "fetched_at": "2026-03-17 08:50:38",
+    "ja_summary": "・衆院本会議で、AIによる自動音声を用いた議員の点呼が初めて実施された。\n・氏名の読み上げをAI化することで、職員の負担軽減と議事の効率化を図る。\n・今後は導入効果を検証し、本格運用に向けた検討を進める方針。"
+  },
+  {
+    "title": "AI機能搭載のRSSリーダーを作った",
+    "link": "https://zenn.dev/babarot/articles/ai-rss-reader-oksskolten",
+    "source": "Zenn Trends",
+    "published": "Mon, 16 Mar 2026 09:45:35 GMT",
+    "summary": "なぜRSSリーダーか\n情報収集は基本活字で、昔からRSSリーダーをよく使ってきた。Google Readerの時代からFeedly、Miniflux、FreshRSSと渡り歩いたしPocketのようなRead it later系も使ってきたが落ち着いて使い続けられるサービスがなかった (もっとここがこうだったらな〜とか。サービス自体がなくなることもあった)\nそもそも自分がRSSリーダーを使うのは、情報源を自分でコントロールしたいというのが大きい。SNSのアルゴリズムはエンゲージメントに最適化されているため、気づかないうちにフィルターバブルに閉じ込められる。流れてくる情報は「自分が見た...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--1dYaaZdr--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%25E6%25A9%259F%25E8%2583%25BD%25E6%2590%25AD%25E8%25BC%2589%25E3%2581%25AERSS%25E3%2583%25AA%25E3%2583%25BC%25E3%2583%2580%25E3%2583%25BC%25E3%2582%2592%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:babarot%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSUZjTndjbUxlTHdLZklUSEV1UkdLX1FlbzFyaklGeUhCNnFadXZQUk96b29WR1prZjk9czk2LWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-03-17 08:51:00",
+    "ja_summary": "・SNSのアルゴリズムに依存せず、能動的に情報を収集・管理したいという目的で独自のRSSリーダーを開発。\n・既存のサービスに対する不満や継続性への懸念を解消し、AI機能を組み込むことで利便性を向上させた。\n・情報源を自分でコントロールし、フィルターバブルから脱却できる環境を目指している。"
+  },
+  {
+    "title": "Apple Neural Engine の Private API を叩いて LLM 推論を高速化しようとした話",
+    "link": "https://zenn.dev/salescore/articles/776dff7a85f781",
+    "source": "Zenn Trends",
+    "published": "Mon, 16 Mar 2026 06:10:00 GMT",
+    "summary": "こんにちは、村本です。\nQwen3.5 の登場でローカル LLM が現実味を帯びてきた。0.8B から 235B まで揃った高品質なモデルファミリーが Apache 2.0 で公開され、手元のマシンで実用的な推論が可能になっている。ローカル LLM は AI を活用する企業にとって API コストの削減、データの外部送信回避、レイテンシの安定化といった点で重要な選択肢だ。\nそして現在、ローカル LLM を動かすデバイスとして最も適しているのは Apple Silicon を搭載した Mac だと僕は考えている。CPU と GPU が統合メモリを共有する UMA アーキテクチャにより、NV...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--yjE5LeZG--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Apple%2520Neural%2520Engine%2520%25E3%2581%25AE%2520Private%2520API%2520%25E3%2582%2592%25E5%258F%25A9%25E3%2581%2584%25E3%2581%25A6%2520LLM%2520%25E6%258E%25A8%25E8%25AB%2596%25E3%2582%2592%25E9%25AB%2598%25E9%2580%259F%25E5%258C%2596%25E3%2581%2597%25E3%2582%2588%25E3%2581%2586%25E3%2581%25A8%25E3%2581%2597%25E3%2581%259F%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:muramoto%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzRjOWIwNmIwZGMuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:SALESCORE%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzMyNTgxMWMxYTAuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-03-17 08:51:01",
+    "ja_summary": "・Apple Silicon搭載Macは統合メモリによりローカルLLMの実行に最適である。\n・Qwen3.5等の高性能モデルの登場で、ローカルLLM運用はコストや機密性の面で実用的な選択肢となった。\n・Apple Neural EngineのPrivate API活用により、さらなる推論の高速化を目指す試みが行われている。"
+  },
+  {
     "title": "Gemini Embedding 2 の概要",
     "link": "https://note.com/npaka/n/n1e39b1e67561",
     "source": "note (npaka)",
@@ -968,35 +998,5 @@
     "image": "https://media.loom-app.com/loom/2026/03/11/a7e6d8fa-4379-4f58-b48f-921e1965c08d/original.jpg?w=1200&amp;h=630",
     "fetched_at": "2026-03-16 07:19:20",
     "ja_summary": "・アンソロピックがAIによる自動コードレビュー機能を公開\n・バグ検出や修正提案で開発効率の向上が期待される一方、利用コストが課題\n・上級エンジニアの役割や業務への影響について懸念の声も上がっている"
-  },
-  {
-    "title": "【書評】 作ってわかる大規模言語モデルの仕組み",
-    "link": "https://note.com/npaka/n/na8c148cd1fa2",
-    "source": "note (npaka)",
-    "published": "Fri, 13 Mar 2026 18:07:38 +0900",
-    "summary": "<p id=\"6aafce9a-7e4d-486a-a3cc-991ecc9823bf\" name=\"6aafce9a-7e4d-486a-a3cc-991ecc9823bf\">LLM（大規模言語モデル）の本はいろいろ出てきていますが、この『<strong>作ってわかる大規模言語モデルの仕組み</strong>』はかなりの良書です。理由はシンプルで、<strong>LLMを実際に作りながらその仕組みを理解できる本だから</strong>です。</p><p id=\"89714c77-b429-49f0-9c60-b6018ba4a9f1\" name=\"89714c77-b429-49f0-9c60-b6018ba4a9f1\">最近はLLMの解説記事や論文も増え、「Transformer」「LoRA」「RLHF」「DPO」といった言葉もよく見かけます。しかし、単語としては知っていても、</p><br /><a href=\"https://note.com/npaka/n/na8c148cd1fa2\">続きをみる</a>",
-    "image": "https://assets.st-note.com/production/uploads/images/258794679/rectangle_large_type_2_83c6149895c91e2b4f3e6dea43174b0d.jpeg?width=800",
-    "fetched_at": "2026-03-16 07:19:26",
-    "ja_summary": "・『作ってわかる大規模言語モデルの仕組み』は、LLMを実際に実装しながら深く学べる良書である。\n・TransformerやLoRAといった専門的な技術要素を、実践を通じて具体的に理解できる。\n・知識として用語を知っている段階から、仕組みを構造的に把握したい層に最適。"
-  },
-  {
-    "title": "生成AI時代のサイバー脅威にどう立ち向かうか--HPが語る「隔離」によるエンドポイント保護",
-    "link": "https://japan.zdnet.com/article/35244775/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "生成AIの普及はサイバー攻撃のハードルを下げ、言語の壁を越えた巧妙かつ無差別な脅威を生み出している。エンドポイントの保護が急務となる中、「人は必ず騙される」という前提に立ち、ハードウェアの根幹から脅威を「隔離」するHPの戦略について、同社のセキュリティ部門トップらに話を聞いた。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35244775/\"><img src=\"https://japan.zdnet.com/storage/2026/03/09/422c69b8e9dca02d4753e8625fc6f6c2/t/184/138/d/260225_hp_l.jpg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2026/03/09/422c69b8e9dca02d4753e8625fc6f6c2/t/184/138/d/260225_hp_l.jpg",
-    "fetched_at": "2026-03-16 07:19:29",
-    "ja_summary": "生成AIの普及でサイバー攻撃が巧妙化する中、企業は「人は必ず騙される」という前提に立つ必要がある。\nHPは、エンドポイント保護のためにハードウェアの根幹から脅威を「隔離」する独自の戦略を推奨。\n従来の検知型対策を超え、被害を未然に封じ込める多層的な防御の重要性を説いている。"
-  },
-  {
-    "title": "会計ビッグ4の一角、KPMGは「AIによる変革」を促すために報奨金プログラムを開始",
-    "link": "https://www.businessinsider.jp/article/2603-kpmg-ai-spark-awards-cash-prizes-for-employee-ai-innovation/",
-    "source": "Business Insider Japan",
-    "published": "Sun, 15 Mar 2026 21:40:00 GMT",
-    "summary": "会計ビッグ4の一角、KPMGは現金によるインセンティブで、コンサルティング部門の従業員にAIの実験を奨励しています。",
-    "image": "https://media.loom-app.com/loom/2026/03/11/55bfa0a6-506e-4019-b444-0ebfb11f1eab/original.jpg?w=1200&amp;h=630",
-    "fetched_at": "2026-03-16 06:49:15",
-    "ja_summary": "・会計ビッグ4のKPMGが、コンサル部門の従業員にAI活用を促す報奨金制度を開始。\n・現金インセンティブを付与することで、現場でのAI実験を加速させる狙い。\n・組織全体でAIによる業務変革と導入の定着を強力に推進する。"
   }
 ]
