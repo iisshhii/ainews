@@ -1,5 +1,25 @@
 [
   {
+    "title": "「AI上司でも問題ナシ」51.9％　効率化に期待する声多く",
+    "link": "https://www.itmedia.co.jp/business/articles/2603/17/news035.html",
+    "source": "ITmedia ビジネス",
+    "published": "Tue, 17 Mar 2026 05:00:00 +0900",
+    "summary": "フロンティアが実施した調査で、AI上司に賛成する人は約半数に上ることが分かった。期待する役割としてどのようなものが挙げられたのだろうか？",
+    "image": "https://image.itmedia.co.jp/business/articles/2603/17/cover_news035.jpg",
+    "fetched_at": "2026-03-17 05:56:59",
+    "ja_summary": "・約半数の人が「AI上司」の導入を容認・歓迎している。\n・人間よりも客観的な評価や、業務効率化を期待する声が多い。\n・AIによるマネジメントが職場で現実的な選択肢になりつつある。"
+  },
+  {
+    "title": "アフリカの邦人投資家が見据える、グローバルサウスの未来",
+    "link": "https://www.businessinsider.jp/article/2603-africa-market-insights-japanese-investor/",
+    "source": "Business Insider Japan",
+    "published": "Mon, 16 Mar 2026 20:40:00 GMT",
+    "summary": "2月にカイロ市で開催されたエジプト発の巨大AIカンファレンス「Ai Everything MEA Egypt」に、エジプトを拠点とする日本人投資家が登壇していました。電通、マッキンゼーを経てVCを創業した才木氏に、日本人だから分かるマーケットの魅力を聞きました。",
+    "image": "https://media.loom-app.com/loom/2026/03/16/83e770bf-8668-484e-a9d9-096522b85006/original.jpg?w=1200&amp;h=630",
+    "fetched_at": "2026-03-17 05:57:22",
+    "ja_summary": "・エジプト開催のAIカンファレンスに、現地拠点の日本人投資家・才木氏が登壇。\n・元電通・マッキンゼーの知見を活かし、グローバルサウスの市場性を分析。\n・日本企業がこの成長市場に参入する意義と魅力を提示。"
+  },
+  {
     "title": "生成AIのハルシネーションに怒る人は「自分に甘く他人に厳しい人」である (ひとつ上の言語化)",
     "link": "https://business.nikkei.com/atcl/gen/19/00759/030400025/",
     "source": "日経ビジネス 最新",
@@ -978,25 +998,5 @@
     "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03548/031100001/topm.jpg?20220512",
     "fetched_at": "2026-03-16 05:24:52",
     "ja_summary": "・NVIDIAの開発者会議「GTC 2026」が3月16日開幕。\n・人型ロボット等の「フィジカルAI」やエージェント型AIが注目点。\n・次世代半導体を含めた新製品・新サービスの発表に期待。"
-  },
-  {
-    "title": "Anthropic公式「Skills完全ガイド」を読んだら、自分のSKILL.mdのトークン消費を40%減らせた",
-    "link": "https://qiita.com/yurukusa/items/f69920b4a02cf7e2988c",
-    "source": "Qiita (Popular)",
-    "published": "2026-03-15T22:00:27+09:00",
-    "summary": "この記事は2026年3月時点の情報に基づいている。\n\n---\n\nAnthropicが公式で「The Complete Guide to Building Skills for Claude」というPDF（33ページ）を出した。\n\n中身を読んで、自分のスキル構成に反映した。結果から言うと、SKILL.mdのトークン消費が約40%減った。体感でもレスポンスが速くなった。\n\n原文（英語PDF）: [Th",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmxoMy5nb29nbGV1c2VyY29udGVudC5jb20lMkZhJTJGQUNnOG9jSk5hTElXTlBzQy1JV0k5aHpnNjAyTHNNdHdBdy1TTzJPRFJKckNQSUx6V2lHamRXNCUzRHM5Ni1jP2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz01NTg2YTAyZWJlMGEyMjU4NDA4ZmIxMzliZDJjYmZmMg%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Da1fbe3b48ab3944550e370ff8e694a17?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9QW50aHJvcGljJUU1JTg1JUFDJUU1JUJDJThGJUUzJTgwJThDU2tpbGxzJUU1JUFFJThDJUU1JTg1JUE4JUUzJTgyJUFDJUUzJTgyJUE0JUUzJTgzJTg5JUUzJTgwJThEJUUzJTgyJTkyJUU4JUFBJUFEJUUzJTgyJTkzJUUzJTgxJUEwJUUzJTgyJTg5JUUzJTgwJTgxJUU4JTg3JUFBJUU1JTg4JTg2JUUzJTgxJUFFU0tJTEwubWQlRTMlODElQUUlRTMlODMlODglRTMlODMlQkMlRTMlODIlQUYlRTMlODMlQjMlRTYlQjYlODglRTglQjIlQkIlRTMlODIlOTI0MCUyNSVFNiVCOCU5QiVFMyU4MiU4OSVFMyU4MSU5QiVFMyU4MSU5RiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTYwN2ZjNzMzYTM0M2YyMjYyMWJiNmExZjE1OWU5NzQ0&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDB5dXJ1a3VzYSZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWUzZjE5NmRiNTgxN2MyNzIyZTk5MDFiZTYxNDUyNTIz&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=75422e54790e78ffd0e46ff401eb0478",
-    "fetched_at": "2026-03-15 22:34:32",
-    "ja_summary": "Anthropic公式のスキル構築ガイドを参考に設定を最適化した結果、SKILL.mdのトークン消費量を40%削減。\n不要な記述を削ることで、Claudeの回答速度向上とコスト効率化を両立できる。\n設定を見直すことで、AIのパフォーマンスを維持したまま運用負荷を大幅に軽減可能。"
-  },
-  {
-    "title": "私のOSS活動元年を振り返ったらAIと下心が原動力だった",
-    "link": "https://zenn.dev/jackchuka/articles/473ef7cc70efbc",
-    "source": "Zenn Trends",
-    "published": "Sun, 15 Mar 2026 04:15:29 GMT",
-    "summary": "1年前、自分のGitHubプロフィールを開いても、ほぼ何もなかった。\nGitHubの公開レポはほとんどなし。あるのは数年前に作ったちょっとしたものくらいで、寂しいものだった。OSS活動？「いつかやりたいな」とは思っていたけど、何を作ればいいかわからない、公開しても誰も見ないだろうし、仕事との時間のバランスを考えると腰が重い。そんな状態でした。\nそれが今、気づいたら20個以上のOSSを公開していて、合計Star数は200を超えていた。\nこの記事では、私のOSS活動元年の節目として、何を学び何がこの変化を起こしたのかを振り返ろうと思う。\nこんにちは、jackchukaです。\n!\n注）この記事...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--hb_3_HwQ--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E7%25A7%2581%25E3%2581%25AEOSS%25E6%25B4%25BB%25E5%258B%2595%25E5%2585%2583%25E5%25B9%25B4%25E3%2582%2592%25E6%258C%25AF%25E3%2582%258A%25E8%25BF%2594%25E3%2581%25A3%25E3%2581%259F%25E3%2582%2589AI%25E3%2581%25A8%25E4%25B8%258B%25E5%25BF%2583%25E3%2581%258C%25E5%258E%259F%25E5%258B%2595%25E5%258A%259B%25E3%2581%25A0%25E3%2581%25A3%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:jackchuka%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSXNwQ3o5V2tLRlZvZmZsaUVuY185ZE0xUXgtRV8tSkZ1blhNZnBYRkU5RC1QVU1nVFBwQT1zOTYtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-    "fetched_at": "2026-03-15 20:47:30",
-    "ja_summary": "・OSS未経験だった著者が、1年間で20個以上の公開と200以上のStarを獲得。\n・AIの活用と「自分に使いたい」という強い動機が、継続の原動力となった。\n・OSS活動のハードルを下げるための学びや体験を振り返る内容。"
   }
 ]
