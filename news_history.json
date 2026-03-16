@@ -1,5 +1,25 @@
 [
   {
+    "title": "Gemini Embedding 2 の概要",
+    "link": "https://note.com/npaka/n/n1e39b1e67561",
+    "source": "note (npaka)",
+    "published": "Wed, 11 Mar 2026 06:43:21 +0900",
+    "summary": "<p id=\"116bbc09-4b40-4bfc-9334-53e8e7a8c224\" name=\"116bbc09-4b40-4bfc-9334-53e8e7a8c224\">以下の記事が面白かったので、簡単にまとめました。</p><figure id=\"64cc17bd-bf70-4d14-addb-2898ff5e90ea\" name=\"64cc17bd-bf70-4d14-addb-2898ff5e90ea\"><blockquote><p id=\"8b470a8c-ec47-4a51-b245-3582948a46d0\" name=\"8b470a8c-ec47-4a51-b245-3582948a46d0\"><strong>・</strong><a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-embedding-2/\" rel=\"nofollow noopener\" target=\"_blank\"><strong>Gemini Embedding 2: Our first natively multimodal embedding model</strong></a></p></blockquote>\n<figcaption></figcaption></figure><br /><a href=\"https://note.com/npaka/n/n1e39b1e67561\">続きをみる</a>",
+    "image": "https://assets.st-note.com/production/uploads/images/258171703/rectangle_large_type_2_bfbf5c46387c6775c1adf4274c528668.png?width=800",
+    "fetched_at": "2026-03-17 08:24:41",
+    "ja_summary": "・Googleが初のネイティブマルチモーダル埋め込みモデル「Gemini Embedding 2」を発表。\n・テキスト、画像、音声など異なる種類のデータを同一のベクトル空間で高精度に扱える。\n・検索や推奨システムなど、AIアプリケーションの処理性能と柔軟性を大幅に向上させる。"
+  },
+  {
+    "title": "Anthropic invests $100 million into the Claude Partner Network",
+    "link": "https://www.anthropic.com/news/claude-partner-network",
+    "source": "Anthropic (News)",
+    "published": "Thu, 12 Mar 2026 00:00:00 +0000",
+    "summary": "Anthropic invests $100 million into the Claude Partner Network",
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20ShapeBuild&amp;backgroundColor=fig",
+    "fetched_at": "2026-03-17 08:24:54",
+    "ja_summary": "・Anthropicが「Claude Partner Network」に1億ドル（約150億円）を投資。\n・エコシステムを拡大し、Claudeの法人活用や開発支援を強化。\n・主要パートナーとの連携を通じ、AIサービスの社会実装を加速させる狙い。"
+  },
+  {
     "title": "GPT-5.4 の概要",
     "link": "https://note.com/npaka/n/nb8d78062e804",
     "source": "note (npaka)",
@@ -978,25 +998,5 @@
     "image": "https://media.loom-app.com/loom/2026/03/11/55bfa0a6-506e-4019-b444-0ebfb11f1eab/original.jpg?w=1200&amp;h=630",
     "fetched_at": "2026-03-16 06:49:15",
     "ja_summary": "・会計ビッグ4のKPMGが、コンサル部門の従業員にAI活用を促す報奨金制度を開始。\n・現金インセンティブを付与することで、現場でのAI実験を加速させる狙い。\n・組織全体でAIによる業務変革と導入の定着を強力に推進する。"
-  },
-  {
-    "title": "AI音声で初の議員点呼 衆院本会議",
-    "link": "https://news.yahoo.co.jp/pickup/6573005?source=rss",
-    "source": "Yahoo!ニュース IT・科学",
-    "published": "Fri, 13 Mar 2026 08:45:25 GMT",
-    "summary": "",
-    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/13/ec4ef710f23b262d08ecdc6f802eb048b20fee6dcc5b9ece21480b68d94a579b.jpg",
-    "fetched_at": "2026-03-16 06:49:23",
-    "ja_summary": "・衆院本会議で、AI音声を用いた初の議員点呼が実施された。\n・人手による読み上げの負担軽減と議事の効率化が狙い。\n・今後はAI活用を拡大し、国会運営のDXを推進する方針。"
-  },
-  {
-    "title": "わずか8GBのメモリ。MacBook NeoでエージェンティックAIを開発したら、絵を描いて曲も作れるように。MVまで全てローカルで完結できた（CloseBox）",
-    "link": "https://www.techno-edge.net/article/2026/03/12/4917.html",
-    "source": "TechnoEdge",
-    "published": "Thu, 12 Mar 2026 10:15:46 +0900",
-    "summary": "エージェンティックAIを自分で構築してまだ3日しか経っていないのですが、その体験がおもしろすぎたのでいろいろなバリエーションを試しています。",
-    "image": "https://www.techno-edge.net/imgs/rss/30262.jpg",
-    "fetched_at": "2026-03-16 06:49:26",
-    "ja_summary": "・メモリ8GBのMacBookでエージェンティックAIを構築。\n・絵の制作から作曲、MV作成まで全ての工程をPC内のローカル環境で完結。\n・低スペックな環境でも高度なAI運用が可能であることを実証。"
   }
 ]
