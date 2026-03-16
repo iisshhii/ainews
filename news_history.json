@@ -1,5 +1,15 @@
 [
   {
+    "title": "AMD、PCの次を見据えた新概念「Agent Computer」　人ではなくAIが操作",
+    "link": "https://www.watch.impress.co.jp/docs/news/2093846.html",
+    "source": "Impress Watch",
+    "published": "",
+    "summary": "AMDは、AIエージェントを常時稼働させる新しい概念のデバイス「Agent Computer」を提唱した。PC(Personal Computer)が人間による直接操作を前提に設計されていたのに対し、Agent ComputerはAIエージェントに処理を委ねる使い方を想定する。",
+    "image": "https://www.watch.impress.co.jp/img/ipw/list/2093/846/01.jpg",
+    "fetched_at": "2026-03-16 20:41:30",
+    "ja_summary": "・AMDが、AIエージェントの常時稼働を前提とした次世代デバイス「Agent Computer」を提唱。\n・従来のPCが「人が操作する」ものだったのに対し、本機は「AIに処理を委ねる」設計へ転換。\n・人間が直接操作しなくても、AIが自律的にタスクを遂行する新たなコンピューティング環境を目指す。"
+  },
+  {
     "title": "中国のAI製品は設計思想がまったく異なる…元大手テック企業の製品マネージャーがその理由を語る",
     "link": "https://www.businessinsider.jp/article/2603-product-manager-china-meituan-tech-ai-kuse-yilin-zhang/",
     "source": "Business Insider Japan",
@@ -988,15 +998,5 @@
     "image": "https://www.watch.impress.co.jp/img/ipw/list/2093/231/00.jpg",
     "fetched_at": "2026-03-14 22:40:16",
     "ja_summary": "・GoogleマップがGeminiと融合し、会話形式で場所を検索できる「Ask Maps」を提供開始。\n・過去最大級のアップデートとして、目的地までの道のりを立体的に確認できる「イマーシブ・ナビゲーション」を追加。\n・AIによる検索の利便性向上と、より直感的で分かりやすいナビゲーションを実現。"
-  },
-  {
-    "title": "[GDG London Build with AI x IWD 2026] Why is everyone talking about AI Agents?",
-    "link": "https://speakerdeck.com/thatfiredev/gdg-london-build-with-ai-x-iwd-2026-why-is-everyone-talking-about-ai-agents",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-03-14T08:50:08-04:00",
-    "summary": "As we kick off Build with AI - IWD, we address the elephant in the room: Why are agents suddenly everywhere?\nThis keynote provides the essential context for today’s workshops and talks. We will discuss the shift from static APIs to dynamic, goal-oriented agents and what this means for the future of work.\nThis is your roadmap for the day, designed to help you connect the dots between individual sessions and the global agentic revolution.",
-    "image": "https://files.speakerdeck.com/presentations/de109f475904433aabc8162941730843/preview_slide_0.jpg?38737980",
-    "fetched_at": "2026-03-14 22:40:39",
-    "ja_summary": "・単なるAPIから自律的に目標を達成する「AIエージェント」への技術的転換を解説。\n・AIエージェントが急速に普及する背景と、今後の働き方への影響を論じる。\n・本イベントの各セッションを繋ぎ、AI活用トレンドを俯瞰するためのロードマップを提示。"
   }
 ]
