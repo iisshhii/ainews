@@ -1,5 +1,55 @@
 [
   {
+    "title": "NVIDIAの「NemoClaw」、個人向けAIエージェントOpenClawを企業でも使いやすく",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03548/031700003/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "米NVIDIA（エヌビディア）は2026年3月16日（米国時間）、個人向けのAIエージェント基盤「OpenClaw」を、エンタープライズ向けに使いやすくするためのサービス「NVIDIA NemoClaw」を発表した。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03548/031700003/topm.jpg?20220512",
+    "fetched_at": "2026-03-17 16:40:15",
+    "ja_summary": "・NVIDIAが個人向けAI基盤「OpenClaw」を企業向けに最適化した「NemoClaw」を発表。\n・企業が社内システムなどでAIエージェントを導入・運用しやすくなる基盤サービス。\n・2026年3月16日発表。"
+  },
+  {
+    "title": "ソフトバンク、通信業向け生成AI基盤モデルに合成データ生成基盤を構築",
+    "link": "https://japan.zdnet.com/article/35245145/",
+    "source": "ZDNET Japan",
+    "published": "",
+    "summary": "ソフトバンクは、通信業界向け生成AI基盤モデルで通信ネットワークの運用などに関連する機密性の高い情報を保護しながら安全かつ高精度な学習が可能な合成データ生成基盤を構築したという。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35245145/\"><img src=\"https://japan.zdnet.com/storage/2026/03/17/95c89ec8619edf3667f0f1a7483887df/t/184/138/d/20260317_adobestock_457718844_1280x960.jpg\" /></a>",
+    "image": "https://japan.zdnet.com/storage/2026/03/17/95c89ec8619edf3667f0f1a7483887df/t/184/138/d/20260317_adobestock_457718844_1280x960.jpg",
+    "fetched_at": "2026-03-17 16:40:42",
+    "ja_summary": "・ソフトバンクが通信業界向け生成AIに「合成データ生成基盤」を構築。\n・機密情報を保護しつつ、安全かつ高精度な学習を可能にする。\n・通信ネットワーク運用など、高度な専門性が求められる業務へのAI活用を促進。"
+  },
+  {
+    "title": "生成AIグラビアをグラビアカメラマンが作るとどうなる？第62回：ComfyUIの複雑な生成画面をスッキリさせるApp modeとちょっと面白いWorkflow（西川和久）",
+    "link": "https://www.techno-edge.net/article/2026/03/16/4929.html",
+    "source": "TechnoEdge",
+    "published": "Mon, 16 Mar 2026 12:34:00 +0900",
+    "summary": "画像/動画生成モデルで使用するテキストエンコーダーでLLM？",
+    "image": "https://www.techno-edge.net/imgs/rss/30324.jpg",
+    "fetched_at": "2026-03-17 16:40:43",
+    "ja_summary": "・生成AIグラビア制作における「ComfyUI」の複雑な画面を、App modeで操作しやすく整理する手法を解説。\n・画像・動画生成の仕組みにおけるテキストエンコーダーへのLLM導入など、最新の技術動向に触れる。\n・プロカメラマンの視点で、効率化と新しい表現の可能性を追求する連載第62回。"
+  },
+  {
+    "title": "エンジニアがChatGPTを使いこなせていないかもしれない話",
+    "link": "https://qiita.com/kamome_susume/items/e80b763797d073815710",
+    "source": "Qiita (Popular)",
+    "published": "2026-03-09T19:04:15+09:00",
+    "summary": "突然ですが、こんな気持ちになったことありませんか？\n\n「ChatGPTって、なんとなく一般向けのツールっぽいんだよな」\n\n「文章を書いてもらうくらいなら、Copilotで十分じゃない？」「API直接叩いた方がカスタマイズできるし」\n\nエンジニアあるあるだと思います。APIが使えるからこそ、**ChatGPTの公式UIをじっくり触ったことがない**という方、意外と多いんじゃないでしょうか。\n\nこの記",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYxNjkzMjQ4JTJGZDhlMmU1OWNiMDVmY2Y3MDQ3ZDgyN2ZjNDlkNDAwMTkzZTU5NDdjOSUyRnhfbGFyZ2UucG5nJTNGMTY4NjMxODg1ND9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9ZDRiNjcyYjg4ZWUxYTRkNjI1ZDRjOGFkMzVkMzQ5NjI%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Ddc9a014e564257547b64353543c58776?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgyJUE4JUUzJTgzJUIzJUUzJTgyJUI4JUUzJTgzJThCJUUzJTgyJUEyJUUzJTgxJThDQ2hhdEdQVCVFMyU4MiU5MiVFNCVCRCVCRiVFMyU4MSU4NCVFMyU4MSU5MyVFMyU4MSVBQSVFMyU4MSU5QiVFMyU4MSVBNiVFMyU4MSU4NCVFMyU4MSVBQSVFMyU4MSU4NCVFMyU4MSU4QiVFMyU4MiU4MiVFMyU4MSU5NyVFMyU4MiU4QyVFMyU4MSVBQSVFMyU4MSU4NCVFOCVBOSVCMSZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTAxNjg3NTliZWIxMWZjM2M2ZTQ2NWRkN2Y1NDEyNWMx&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBrYW1vbWVfc3VzdW1lJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9ZGRiZTIzN2VhYmFmZjQ1YThiNWYzYWQyMWVhNzMzOTI&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=da92f3629a2cc4984b22934dd1eec179",
+    "fetched_at": "2026-03-17 16:41:08",
+    "ja_summary": "多くのエンジニアは「API利用が最適」と考え、ChatGPTの公式UIを使いこなせていない。\n公式UIにはAPI利用とは異なる利便性や活用法が隠されている可能性がある。\n技術者こそ、既存の固定観念を捨てて最新の公式ツールを深掘りすべきである。"
+  },
+  {
+    "title": "Unity MCP + CodexでAIにUnityを操作させてキャラクターを踊らせてみた",
+    "link": "https://qiita.com/kumi0708/items/e4e5d864219d1693d0d2",
+    "source": "Qiita (Popular)",
+    "published": "2026-03-06T16:24:18+09:00",
+    "summary": "\n# \nUnityの **AI Assistant v2.0.0-pre.1** から、\n**Unity MCP（Model Context Protocol）** が使えるようになりました。\n\nMCPを使うと、AIからUnity Editorを操作できるようになります。\n\n今回は\n\n* Codex CLI\n* Unity MCP\n\nを使って、**AIにUnityを操作させてキャラクターを踊らせる",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYzNzA2OCUyRmE1ZWFjNTdjMmFjZDNjOTA4NWE4NGNhM2NiNWJkYmUzYTc4Mzk5N2IlMkZ4X2xhcmdlLnBuZyUzRjE2MzI3NDMwNjk_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPTZiM2ZjZjM4ZmVlZWU4MGM1Zjk4NjFjNTdkOWM0N2My%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3De9037f0c99748fc54bb4edbd80a7b7e2?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9VW5pdHklMjBNQ1AlMjAlMkIlMjBDb2RleCVFMyU4MSVBN0FJJUUzJTgxJUFCVW5pdHklRTMlODIlOTIlRTYlOTMlOEQlRTQlQkQlOUMlRTMlODElOTUlRTMlODElOUIlRTMlODElQTYlRTMlODIlQUQlRTMlODMlQTMlRTMlODMlQTklRTMlODIlQUYlRTMlODIlQkYlRTMlODMlQkMlRTMlODIlOTIlRTglQjglOEElRTMlODIlODklRTMlODElOUIlRTMlODElQTYlRTMlODElQkYlRTMlODElOUYmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz0yZTQ4ZDgwYzMzOWQ2MDA1MTBhNjY0OWZjMTRmMzkyMA&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBrdW1pMDcwOCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWRlOTkxY2M4ZjNjYTAzOGIzZGNkMmIwYTg5NTRjNDMz&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=5a3aaddaf9c1d7bd5b14cb8790cfaeaa",
+    "fetched_at": "2026-03-17 16:41:08",
+    "ja_summary": "Unityの最新AI機能「MCP」を活用し、AIがUnity Editorを直接操作してキャラクターを動かすデモが実現。\nAIへの指示だけでエディタ上の操作が自動化され、開発効率の向上が期待できる。\nCodex CLIとMCPを組み合わせることで、複雑なプログラミング作業をAIに代替させる新手法。"
+  },
+  {
     "title": "NVIDIA、AI向けCPU「Vera」正式発表　GPU中心戦略を拡張",
     "link": "https://www.watch.impress.co.jp/docs/news/2094049.html",
     "source": "Impress Watch",
@@ -948,55 +998,5 @@
     "image": "https://files.speakerdeck.com/presentations/d0ebc373fb6947369a7cd79afcd883c0/preview_slide_0.jpg?38750493",
     "fetched_at": "2026-03-16 15:03:29",
     "ja_summary": "・エンジニアとして長く活躍し続けるための「キャリア選択の軸」を、自身の転職・現場経験から解説。\n・AI時代にエンジニアとしての市場価値を最大化し、価値を積み重ねるための考え方を共有。\n・派遣からSES、AIエンジニアへとキャリアを広げた著者が、フルスタックを目指す学びの姿勢を提示。"
-  },
-  {
-    "title": "On-Device AI for Humanity: Building Smarter, Safer, and More Private Mobile Intelligence",
-    "link": "https://speakerdeck.com/djain2405/on-device-ai-for-humanity-building-smarter-safer-and-more-private-mobile-intelligence",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-03-16T01:31:51-04:00",
-    "summary": "Trying to answer a simple question with huge consequences: if billions of people are already carrying AI in their pockets, who is that intelligence really serving - cloud platforms, or the people holding those phones?\nWe’ll explore why on-device AI isn’t just a performance optimization; it’s an ethical choice that affects privacy, trust, access, and cost at global scale.",
-    "image": "https://files.speakerdeck.com/presentations/a7e3bbad13624fc2b140fc0cec88c4ef/preview_slide_0.jpg?38749996",
-    "fetched_at": "2026-03-16 15:03:29",
-    "ja_summary": "・スマホ内蔵AIは単なる性能向上ではなく、プライバシーや信頼性を左右する倫理的な選択である。\n・クラウド依存型AIに対し、端末側で処理を行う「オンデバイスAI」は利用者個人の利益を優先する。\n・グローバル規模でのコストやアクセスの公平性を考慮し、AIの真の主導権を誰が持つべきかを問い直す。"
-  },
-  {
-    "title": "Mobile AI for Social Good: Enabling Resilient Communities Through Intelligent Offline Networks",
-    "link": "https://speakerdeck.com/djain2405/mobile-ai-for-social-good-enabling-resilient-communities-through-intelligent-offline-networks",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-03-16T01:23:38-04:00",
-    "summary": "How mobile AI and offline networks can empower the 2.9 billion people who lack reliable internet access, enabling resilient communities through technology that works independently of infrastructure.",
-    "image": "https://files.speakerdeck.com/presentations/ee43aeecd1634d6781581dbeedfedf60/preview_slide_0.jpg?38749662",
-    "fetched_at": "2026-03-16 15:03:29",
-    "ja_summary": "・インターネット環境が不安定な29億人を対象に、インフラに依存しないモバイルAIとオフラインネットワーク技術を構築。\n・通信環境が遮断された状況下でも、AIを活用して地域社会のレジリエンス（回復力）向上を支援。\n・通信インフラが未発達な地域でも高度な情報活用を可能にし、デジタル格差の解消を目指す。"
-  },
-  {
-    "title": "「カード作りが面倒すぎる」問題をAIで解決したら、資格勉強が続くようになった",
-    "link": "https://qiita.com/CoboMemo/items/de40a122980628bc61e7",
-    "source": "Qiita (Popular)",
-    "published": "2026-03-11T07:06:34+09:00",
-    "summary": "# 「カード作りが面倒すぎる」問題をAIで解決したら、資格勉強が続くようになった\n\n## はじめに：エンジニアの「積ん読あるある」\n\nAWS Solutions Architect、情報処理技術者試験、LPIC、TOEIC……\n\nエンジニアなら一度は「今年こそ取る」と決意した経験はないだろうか。参考書を買い、最初の数日は順調に進む。でも気づいたら積ん読になっている。\n\n私も何度もこのループを繰り返",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGNDM0NDA5MSUyRnByb2ZpbGUtaW1hZ2VzJTJGMTc3MzE4NjE0OD9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NWJjOGQxODI5ODE5NmVkYWE0NGJlMzkxNDEyNzc2Yjg%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D56b1ac2591cb4447c0d4eece1e9d7551?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJThDJUUzJTgyJUFCJUUzJTgzJUJDJUUzJTgzJTg5JUU0JUJEJTlDJUUzJTgyJThBJUUzJTgxJThDJUU5JTlEJUEyJUU1JTgwJTkyJUUzJTgxJTk5JUUzJTgxJThFJUUzJTgyJThCJUUzJTgwJThEJUU1JTk1JThGJUU5JUExJThDJUUzJTgyJTkyQUklRTMlODElQTclRTglQTclQTMlRTYlQjElQkElRTMlODElOTclRTMlODElOUYlRTMlODIlODklRTMlODAlODElRTglQjMlODclRTYlQTAlQkMlRTUlOEIlODklRTUlQkMlQjclRTMlODElOEMlRTclQjYlOUElRTMlODElOEYlRTMlODIlODglRTMlODElODYlRTMlODElQUIlRTMlODElQUElRTMlODElQTMlRTMlODElOUYmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1mMDhlOWY5OTNhYzY3NmY2Yjg5NTEyZjA2ZDkzZmE1Nw&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBDb2JvTWVtbyZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTYxODJjMzU3MDA0OGI0ODFiZmI1YTE3YTA3ZTg3ZjEz&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=cc7f45ce860622e41f1ee392d4f3359b",
-    "fetched_at": "2026-03-16 15:03:31",
-    "ja_summary": "・資格勉強で挫折する主な原因である「暗記カード作成の面倒さ」をAIで自動化。\n・手間を省くことで勉強のハードルを下げ、継続的な学習習慣を定着させる。\n・エンジニア特有の「参考書の積ん読」という課題を効率的に解決する手法。"
-  },
-  {
-    "title": "Claude Codeにバックドア入りOSSを渡したら、何の疑いもなく実装した",
-    "link": "https://qiita.com/NF0000/items/66510f959b1c22f011a7",
-    "source": "Qiita (Popular)",
-    "published": "2026-03-10T12:55:45+09:00",
-    "summary": "## はじめに\n\nバックドアが仕込まれたOSSをClaude Codeに渡して「機能追加して」と頼んだら、何の疑いもなく、バックドアごと踏襲して実装しました。\n\n[前回の記事](https://qiita.com/NF0000/items/6743216583b66168ec12)では、プロンプトインジェクションによる`.env`漏洩を検証しました。今回は**もっと現実的なシナリオ**で、GitH",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmF2YXRhcnMuZ2l0aHVidXNlcmNvbnRlbnQuY29tJTJGdSUyRjg0OTc2MzMxJTNGdiUzRDQ_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPTQ1ODZjZTJkODE2MTFkMDhkM2M0YzJiYWViNmFlOWEz%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D80c260d69443a0d414ef56dcc9784820?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9Q2xhdWRlJTIwQ29kZSVFMyU4MSVBQiVFMyU4MyU5MCVFMyU4MyU4MyVFMyU4MiVBRiVFMyU4MyU4OSVFMyU4MiVBMiVFNSU4NSVBNSVFMyU4MiU4QU9TUyVFMyU4MiU5MiVFNiVCOCVBMSVFMyU4MSU5NyVFMyU4MSU5RiVFMyU4MiU4OSVFMyU4MCU4MSVFNCVCRCU5NSVFMyU4MSVBRSVFNyU5NiU5MSVFMyU4MSU4NCVFMyU4MiU4MiVFMyU4MSVBQSVFMyU4MSU4RiVFNSVBRSU5RiVFOCVBMyU4NSVFMyU4MSU5NyVFMyU4MSU5RiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPWMyMjc2ODk4YzdlMjA4OWQ1NDJlYTEyMWJlYmZmNWE4&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBORjAwMDAmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz02NjA0OTZiMmEyNjUzY2ExOGIzMzgzZjA4N2Y1ZTQ1OA&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=a2e532178a18030e740508a2537a1f93",
-    "fetched_at": "2026-03-16 15:03:31",
-    "ja_summary": "・Claude Codeにバックドア入りのOSSを読み込ませた結果、警告なく悪意あるコードをそのまま実装した。\n・AIによる自動コーディングツールを利用する際は、外部ソースの安全性確認を怠ると重大なセキュリティリスクを招く。\n・利便性の高いAIツールであっても、信頼できないライブラリを盲目的に統合するのは極めて危険である。"
-  },
-  {
-    "title": "AIが通信の主役になる時代に何が起こるのか | インターネット | 東洋経済オンライン",
-    "link": "https://toyokeizai.net/articles/-/937962?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-    "source": "東洋経済オンライン",
-    "published": "Mon, 16 Mar 2026 11:00:00 +0900",
-    "summary": "スペイン・バルセロナで2026年3月に開催されたモバイル通信分野の展示会「MWC Barcelona 2026」。スマー…",
-    "image": "https://tk.ismcdn.jp/mwimgs/c/6/1200w/img_c66f2b8a59f14aca28db413feb6c1f46308731.jpg?nextgen=false",
-    "fetched_at": "2026-03-16 13:22:04",
-    "ja_summary": "・MWC Barcelona 2026で、スマートフォン中心からAIが主役となる通信の未来が提示された。\n・生成AIなどの技術統合により、通信インフラは単なる接続手段を超え、個々のユーザーに最適化された体験を提供する基盤へと進化する。\n・通信業界は、ハードウェアのスペック競争から、AIを核とした新たな価値創造とエコシステム構築へ大きく舵を切る。"
   }
 ]
