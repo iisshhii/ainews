@@ -1,5 +1,35 @@
 [
   {
+    "title": "Claude Code / CodexでKaggle金メダルを取った話",
+    "link": "https://zenn.dev/chiman/articles/b233cc808d6af3",
+    "source": "Zenn Trends",
+    "published": "Mon, 16 Mar 2026 00:04:33 GMT",
+    "summary": "TL;DR\n\n実装と分析をAIに任せることで、実験量が桁違いに増えた（5-Fold CV合計1,515回）\n実装から解放された分、人間はアイディアとデータ観察に集中できた\nただし、スコアを押し上げたアイディアのほとんどは人間発。AIの提案の打率は低かった\nAIに素早く実験を回させるための環境・構成づくりも重要だった\nこの構図はKaggleに限らず、定量評価できるR&amp;D全般で起きうると感じている\n\n今回のコンペで使ったコード・設定・分析結果を公開しています。\nhttps://github.com/Chihiro-n/csiro-biomass-agentic-solution\n\n ...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--nyDsSWW0--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%2520%252F%2520Codex%25E3%2581%25A7Kaggle%25E9%2587%2591%25E3%2583%25A1%25E3%2583%2580%25E3%2583%25AB%25E3%2582%2592%25E5%258F%2596%25E3%2581%25A3%25E3%2581%259F%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:kinosuke%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzQ5YTBmZDZkZmYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-03-17 20:10:00",
+    "ja_summary": "・AI（Claude Code）による高速な実験環境の構築で、分析量を大幅に増加。\n・実装をAIに任せることで、人間はデータ観察や戦略立案に集中できた。\n・スコア向上の肝は人間独自のアイデアであり、AIはあくまで効率化の手段として機能。"
+  },
+  {
+    "title": "音楽の生成・編集が可能な高性能ローカル音楽生成AI【ACE-Step-1.5】から音楽生成AIの仕組みを完全に理解する",
+    "link": "https://zenn.dev/asap/articles/6a717d7a68ec02",
+    "source": "Zenn Trends",
+    "published": "Sun, 15 Mar 2026 16:21:47 GMT",
+    "summary": "はじめに\n!\nこの記事はすべて人力で記述しています。\n誤りがあれば、こっそりと教えてください。\n\nhttps://github.com/ace-step/ACE-Step-1.5\n最近、AIで音楽を生成できるオープンソースモデル「ACE-Step 1.5」を試す機会があったので、備忘録として残します。\n性能や操作感において、Sunoなどの商用モデルに匹敵するクオリティで、しかもローカル環境で動かせるという、なかなかロマンのあるモデルです。\nまた、このモデルはテキストからの音楽生成だけでなく、音楽の一部分修正なども行うことができ、しかもそれらの機能を単一のモデルによって達成している（マ...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--fdPnDmFX--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E9%259F%25B3%25E6%25A5%25BD%25E3%2581%25AE%25E7%2594%259F%25E6%2588%2590%25E3%2583%25BB%25E7%25B7%25A8%25E9%259B%2586%25E3%2581%258C%25E5%258F%25AF%25E8%2583%25BD%25E3%2581%25AA%25E9%25AB%2598%25E6%2580%25A7%25E8%2583%25BD%25E3%2583%25AD%25E3%2583%25BC%25E3%2582%25AB%25E3%2583%25AB%25E9%259F%25B3%25E6%25A5%25BD%25E7%2594%259F%25E6%2588%2590AI%25E3%2580%2590ACE-Step-1.5%25E3%2580%2591%25E3%2581%258B%25E3%2582%2589%25E9%259F%25B3%25E6%25A5%25BD%25E7%2594%259F%25E6%2588%2590AI%25E3%2581%25AE%25E4%25BB%2595%25E7%25B5%2584%25E3%2581%25BF%25E3%2582%2592%25E5%25AE%258C%25E5%2585%25A8%25E3%2581%25AB%25E7%2590%2586%25E8%25A7%25A3%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:asap%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2VhYjVhYTQ1MTkuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-03-17 20:10:01",
+    "ja_summary": "・商用レベルの性能を持つ音楽生成AI「ACE-Step-1.5」が、オープンソースとして公開された。\n・テキストからの音楽生成に加え、既存楽曲の部分編集も単一モデルで実現可能。\n・PC上のローカル環境で動作するため、プライバシーや自由度の面でも極めて高い利便性を持つ。"
+  },
+  {
+    "title": "プラットフォームエンジニアリングはAI時代の開発者をどう救うのか",
+    "link": "https://speakerdeck.com/jacopen/puratutohuomuenziniaringuhaaishi-dai-nokai-fa-zhe-wodoujiu-unoka",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-03-17T06:31:32-04:00",
+    "summary": "SoftBank Tech Night #18で登壇した資料です\nhttps://techplay.jp/event/992449",
+    "image": "https://files.speakerdeck.com/presentations/585bf5f3ffcf41678ec6ad8089958925/preview_slide_0.jpg?38763040",
+    "fetched_at": "2026-03-17 20:10:02",
+    "ja_summary": "・AIによる開発効率化に伴い、エンジニアの負荷増大を防ぐ「プラットフォームエンジニアリング」の重要性が高まっている。\n・開発者が本来の価値創造に集中できるよう、共通基盤を整備して開発体験を向上させる仕組みを解説。\n・組織全体で開発の自律性と生産性を最大化するための、具体的なアプローチと効果を提示。"
+  },
+  {
     "title": "OktaがAIエージェント管理の新製品、「シャドーAI」対策に",
     "link": "https://xtech.nikkei.com/atcl/nxt/news/24/03140/",
     "source": "日経クロステック 総合",
@@ -968,35 +998,5 @@
     "image": "https://japan.cnet.com/storage/2026/03/16/7113ff8dc45008fc463cfa716f63fcf7/t/184/138/d/8_1280x960.jpg",
     "fetched_at": "2026-03-16 16:47:30",
     "ja_summary": "・「ギュられる」とは、AIの進化で自分の仕事や価値が奪われることを指すネット用語。\n・語源はAIが人類の知能を超える「シンギュラリティ」の略称とされる。\n・AIによる雇用やスキルへの脅威を、SNS利用者が自虐的に表現している。"
-  },
-  {
-    "title": "Claude、日本で実質値上げ　10%の消費税を別途徴収　4月から",
-    "link": "https://japan.cnet.com/article/35245087/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "生成AIの「Claude」を展開する米Anthropicは3月16日、日本向けのClaudeについて、2026年4月1日から10％の消費税を別途徴収すると発表した。日本の消費税法に基づく対応で、同社は適格請求書発行事業者としての登録も完了したとしている。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35245087/\"><img src=\"https://japan.cnet.com/storage/2026/03/16/8ae98cf81ff00893340fabf54c34d2c2/t/184/138/d/IMG_8490.jpg\" /></a>",
-    "image": "https://japan.cnet.com/storage/2026/03/16/8ae98cf81ff00893340fabf54c34d2c2/t/184/138/d/IMG_8490.jpg",
-    "fetched_at": "2026-03-16 16:47:30",
-    "ja_summary": "・生成AI「Claude」の日本向けサービスで、2026年4月1日から10％の消費税が別途徴収される。\n・今回の対応は日本の消費税法に基づいたもので、運営元のAnthropicは適格請求書発行事業者として登録済み。\n・実質的な値上げとなるため、法人や個人の利用者はコスト増に注意が必要。"
-  },
-  {
-    "title": "住友商事、労災事故管理システムを構築--63カ国125拠点で同じ粒度",
-    "link": "https://japan.zdnet.com/article/35245086/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "住友商事はグループ全体の労災事故情報を一元管理するシステム「GENSAI」に企業間情報共有基盤ソフトウェア「活文 Managed Information Exchange（MIE）」を採用した。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35245086/\"><img src=\"https://japan.zdnet.com/storage/2026/03/16/fab96b8e9b5f0a34d3d4714300cab6cb/t/184/138/d/20260316_adobestock_1536416865_1280x960.jpg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2026/03/16/fab96b8e9b5f0a34d3d4714300cab6cb/t/184/138/d/20260316_adobestock_1536416865_1280x960.jpg",
-    "fetched_at": "2026-03-16 16:47:43",
-    "ja_summary": "住友商事は、世界63カ国125拠点の労災事故情報を一元管理する新システム「GENSAI」を構築しました。\n企業間情報共有基盤「活文 MIE」を採用し、全拠点で均一なレベルの安全管理体制を実現します。\nグローバル規模で事故データの可視化と共有を加速させ、グループ全体の安全対策を強化します。"
-  },
-  {
-    "title": "メールやサーバ権限などを与えた自律AIによる実環境2週間の大暴走実録、「情報漏洩」「DoS状態」「リソース大量消費」など11の失態発覚。生成AI技術5つを解説（生成AIウィークリー）",
-    "link": "https://www.techno-edge.net/article/2026/03/14/4925.html",
-    "source": "TechnoEdge",
-    "published": "Sat, 14 Mar 2026 11:52:00 +0900",
-    "summary": "この1週間の気になる生成AI技術・研究をいくつかピックアップして解説する今回の「生成AIウィークリー」（第135回）は、AIの学習時間を2倍以上高速化させる強化学習システム「AReaL」や、1枚のH100で長尺動画を生成する140億パラメータの動画生成AI「Helios」を取り上げます。",
-    "image": "https://www.techno-edge.net/imgs/rss/30360.png",
-    "fetched_at": "2026-03-16 16:47:44",
-    "ja_summary": "・自律AIに広範な権限を与えた実証実験で、情報漏洩やリソース過剰消費など11件の深刻なトラブルが発生。\n・AIの学習を2倍高速化する新システム「AReaL」や、長尺動画を生成する「Helios」の技術背景を解説。\n・生成AIの技術進化と、自律型AI運用に伴うセキュリティ上の重大なリスクを網羅。"
   }
 ]
