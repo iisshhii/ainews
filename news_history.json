@@ -1,5 +1,95 @@
 [
   {
+    "title": "NVIDIA、AI向けCPU「Vera」正式発表　GPU中心戦略を拡張",
+    "link": "https://www.watch.impress.co.jp/docs/news/2094049.html",
+    "source": "Impress Watch",
+    "published": "",
+    "summary": "NVIDIAは、エージェント型AIに特化した新CPU「Vera」と、次世代AI基盤「Vera Rubinプラットフォーム」を発表した。従来のGPU中心だった戦略を、CPUやネットワークを含む統合型インフラへと拡張する。",
+    "image": "https://www.watch.impress.co.jp/img/ipw/list/2094/049/nvidia01.jpg",
+    "fetched_at": "2026-03-17 15:37:38",
+    "ja_summary": "・NVIDIAがAI特化型の新CPU「Vera」と次世代基盤「Vera Rubin」を発表。\n・従来のGPU主導から、CPUやネットワークを統合した包括的なインフラ戦略へ移行。\n・エージェント型AIの普及を見据え、システム全体の処理能力を大幅に拡張する。"
+  },
+  {
+    "title": "Okta、AIエージェントの不正アクセスを防ぐ新基盤",
+    "link": "https://www.watch.impress.co.jp/docs/news/2094028.html",
+    "source": "Impress Watch",
+    "published": "",
+    "summary": "アイデンティティ管理サービスを提供するOktaは、企業の安全なAIエージェント運用を支援する新プラットフォーム「Okta for AI Agents」および「Auth0 for AI Agents」の機能拡張を発表した。",
+    "image": "https://www.watch.impress.co.jp/img/ipw/list/2094/028/01.jpg",
+    "fetched_at": "2026-03-17 15:37:39",
+    "ja_summary": "・OktaがAIエージェントの安全な運用を支援する新プラットフォームを発表。\n・AIによる不正アクセスを防ぎ、認証基盤を強化する機能を拡張。\n・企業が安心してAIエージェントを活用できる環境を提供する。"
+  },
+  {
+    "title": "パナソニック コネクト、インテル、MSが語る「AIと人間の未来」--AI時代における人間の価値とは",
+    "link": "https://japan.zdnet.com/article/35245135/",
+    "source": "ZDNET Japan",
+    "published": "",
+    "summary": "パナソニック コネクトの「レッツノート」発表会にて、同社の樋口泰行プレジデント、インテルの大野誠社長、日本マイクロソフトの津坂美樹社長によるトークセッションが開催された。テーマは「AIが人間の作業をどこまで担い、どこで人間が価値を発揮するのか」。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35245135/\"><img src=\"https://japan.zdnet.com/storage/2026/03/17/b28455df2e17b02c18d1d20403f6cf10/t/184/138/d/260316_panasonicc_12_k.jpg\" /></a>",
+    "image": "https://japan.zdnet.com/storage/2026/03/17/b28455df2e17b02c18d1d20403f6cf10/t/184/138/d/260316_panasonicc_12_k.jpg",
+    "fetched_at": "2026-03-17 15:37:57",
+    "ja_summary": "パナソニック、インテル、日本マイクロソフトのトップが「AI時代の人間価値」を議論。\nAIが効率化を担う中で、人間は創造性や最終的な判断といった「独自の付加価値」に注力すべきと指摘。\n技術活用による生産性向上と、人間が担うべき役割の再定義が今後の競争力になると示唆した。"
+  },
+  {
+    "title": "Anthropic、好調なClaude人気にピーク時以外の使用量2倍キャンペーン開始。週末は終日2倍",
+    "link": "https://www.techno-edge.net/article/2026/03/16/4928.html",
+    "source": "TechnoEdge",
+    "published": "Mon, 16 Mar 2026 10:10:30 +0900",
+    "summary": "Anthropicは、AIチャットボットClaudeの人気の高まりを受けて、2週間の期間限定でピーク時間帯を除くすべての時間において、ユーザーの使用量割り当てを2倍に増量するキャンペーンを開始しました。",
+    "image": "https://www.techno-edge.net/imgs/rss/30383.jpg",
+    "fetched_at": "2026-03-17 15:37:58",
+    "ja_summary": "・AnthropicがAI「Claude」の使用量上限を2週間限定で2倍に引き上げ。\n・ピーク時以外は常時、週末は終日2倍の割り当てが可能。\n・人気の高まりに伴うユーザーの利便性向上を目的とした施策。"
+  },
+  {
+    "title": "AI映画祭「WAIFF 2026 KYOTO」グランプリは平田茉莉花監督『This is Me』",
+    "link": "https://www.techno-edge.net/article/2026/03/16/4927.html",
+    "source": "TechnoEdge",
+    "published": "Mon, 16 Mar 2026 09:48:08 +0900",
+    "summary": "「WORLD AI FILM FESTIVAL 2026 in KYOTO（WAIFF 2026 KYOTO）」が、2026年3月12日（木）に開催。平田茉莉花監督の『This is Me』がグランプリとアニメ賞を受賞した。",
+    "image": "https://www.techno-edge.net/imgs/rss/30375.jpg",
+    "fetched_at": "2026-03-17 15:37:58",
+    "ja_summary": "・AI映画祭「WAIFF 2026 KYOTO」が3月12日に開催。\n・平田茉莉花監督の『This is Me』がグランプリとアニメ賞の二冠を達成。"
+  },
+  {
+    "title": "“ほぼ人間”のAI音声を複数話者で一括生成。日本語対応オープンソースTTS「Fish Audio S2」、単語レベルの感情制御も可（生成AIクローズアップ）",
+    "link": "https://www.techno-edge.net/article/2026/03/16/4926.html",
+    "source": "TechnoEdge",
+    "published": "Mon, 16 Mar 2026 08:33:16 +0900",
+    "summary": "1週間の気になる生成AI技術・研究をいくつかピックアップして解説する連載「生成AIウィークリー」から、特に興味深いAI技術や研究にスポットライトを当てる生成AIクローズアップ。今回は、人間の声と区別がつきにくいレベルに迫るリアルな音声を生成できるオープンソソースのText-to-Speech（TTS）「Fish Audio S2 Technical Report」を取り上げます。",
+    "image": "https://www.techno-edge.net/imgs/rss/30364.jpg",
+    "fetched_at": "2026-03-17 15:37:58",
+    "ja_summary": "・人間と区別がつかないほどリアルな音声を生成できるオープンソースのTTS「Fish Audio S2」が登場。\n・複数話者の音声を一括生成できるほか、単語レベルで細かな感情表現の制御が可能。\n・AI音声技術の利便性と表現力を大きく引き上げる注目ツールとして期待されている。"
+  },
+  {
+    "title": "Rakuten fixes issues twice as fast with Codex",
+    "link": "https://openai.com/index/rakuten",
+    "source": "OpenAI",
+    "published": "Wed, 11 Mar 2026 13:00:00 GMT",
+    "summary": "Rakuten uses Codex, the coding agent from OpenAI, to ship software faster and safer, reducing MTTR 50%, automating CI/CD reviews, and delivering full-stack builds in weeks.",
+    "image": "https://openai.com/favicon.ico",
+    "fetched_at": "2026-03-17 15:38:02",
+    "ja_summary": "・楽天がOpenAIの「Codex」を導入し、ソフトウェア開発を高速化。\n・障害復旧時間（MTTR）を50%短縮し、CI/CDの自動化を実現。\n・開発の安全性と効率を高め、フルスタック構築の期間を数週間に短縮。"
+  },
+  {
+    "title": "Designing AI agents to resist prompt injection",
+    "link": "https://openai.com/index/designing-agents-to-resist-prompt-injection",
+    "source": "OpenAI",
+    "published": "Wed, 11 Mar 2026 11:30:00 GMT",
+    "summary": "How ChatGPT defends against prompt injection and social engineering by constraining risky actions and protecting sensitive data in agent workflows.",
+    "image": "https://openai.com/favicon.ico",
+    "fetched_at": "2026-03-17 15:38:02",
+    "ja_summary": "・ChatGPTはプロンプトインジェクションやソーシャルエンジニアリング攻撃を防ぐ設計を採用。\n・AIエージェントのワークフローにおいて、リスクの高い操作を制限し機密情報を保護。\n・外部攻撃からシステムを守り、安全なAI運用を可能にするセキュリティ技術を解説。"
+  },
+  {
+    "title": "Claude Code Skills 完全活用ガイド 2026 — 個人最適化からチーム展開まで",
+    "link": "https://qiita.com/nogataka/items/ad9995fb1b3db7055740",
+    "source": "Qiita (Popular)",
+    "published": "2026-03-12T21:53:59+09:00",
+    "summary": "\n## はじめに\n\n2026年3月現在、Claude Code Skillsに関するはてなブックマークが爆発的に伸びている。[クラスメソッドの入門記事が783users](https://dev.classmethod.jp/articles/claude-code-skills-for-cloud-bu-consulting-members/)、[Anthropic公式講座の解説が763user",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYxNjEyOTglMkZjMWUzZmZkNmVhZGExOTY5ZmYzYzQ0YjE0ZmRlMDgxYmNkZTZmNTAwJTJGeF9sYXJnZS5wbmclM0YxNTg0ODQ1NTg0P2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz00ZGRjZmU5NTFjNTMyMzU3NjcyOGUzOTkyOTNmOGRlNQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D246367bff431168e6212d2602a3df494?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9Q2xhdWRlJTIwQ29kZSUyMFNraWxscyUyMCVFNSVBRSU4QyVFNSU4NSVBOCVFNiVCNCVCQiVFNyU5NCVBOCVFMyU4MiVBQyVFMyU4MiVBNCVFMyU4MyU4OSUyMDIwMjYlMjAlRTIlODAlOTQlMjAlRTUlODAlOEIlRTQlQkElQkElRTYlOUMlODAlRTklODElQTklRTUlOEMlOTYlRTMlODElOEIlRTMlODIlODklRTMlODMlODElRTMlODMlQkMlRTMlODMlQTAlRTUlQjElOTUlRTklOTYlOEIlRTMlODElQkUlRTMlODElQTcmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1mZjVhMjcxMGIxNmE3ZGM1MGM1MzYxODU4OTdjODQzZA&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBub2dhdGFrYSZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWE5ODA4YTE0Zjg4Y2I0ZjQ5OWU2ZDA3NGYyY2E2YTNh&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=e896c87358b054a50f75ab371624f55d",
+    "fetched_at": "2026-03-17 15:38:09",
+    "ja_summary": "・2026年3月現在、AI開発ツール「Claude Code Skills」への関心が急上昇し、技術者向け解説記事が大きな注目を集めている。\n・個人の生産性向上からチームへの組織的導入まで、実践的な活用ノウハウの需要が高まっている。\n・業務効率化の強力な武器として、開発現場での標準ツール化が加速している。"
+  },
+  {
     "title": "任天堂「ぽこ あ ポケモン」爆売れで株価急騰　“異色ゲーム”がもたらす長期的リターンとは？",
     "link": "https://www.itmedia.co.jp/business/articles/2603/16/news033.html",
     "source": "ITmedia ビジネス",
@@ -908,95 +998,5 @@
     "image": "https://tk.ismcdn.jp/mwimgs/c/6/1200w/img_c66f2b8a59f14aca28db413feb6c1f46308731.jpg?nextgen=false",
     "fetched_at": "2026-03-16 13:22:04",
     "ja_summary": "・MWC Barcelona 2026で、スマートフォン中心からAIが主役となる通信の未来が提示された。\n・生成AIなどの技術統合により、通信インフラは単なる接続手段を超え、個々のユーザーに最適化された体験を提供する基盤へと進化する。\n・通信業界は、ハードウェアのスペック競争から、AIを核とした新たな価値創造とエコシステム構築へ大きく舵を切る。"
-  },
-  {
-    "title": "「AI時代のソフトウェアはピザのように配達されるべき」ストライプのCEOが提言",
-    "link": "https://www.businessinsider.jp/article/82f51fbe-c293-42a6-98e5-ce3d510dea02/",
-    "source": "Business Insider Japan",
-    "published": "Mon, 16 Mar 2026 01:30:00 GMT",
-    "summary": "",
-    "image": "https://media.loom-app.com/loom/2026/03/04/269508dc-a6bc-4d3c-b747-edce193e8050/original.jpg?w=1200&amp;h=630",
-    "fetched_at": "2026-03-16 13:22:24",
-    "ja_summary": "・AI時代のソフト開発は、必要な分を素早く届ける「ピザの宅配」のようなオンデマンド型にすべき。\n・従来のような大規模で重厚な開発ではなく、迅速かつ柔軟なサービス提供が求められている。\n・StripeのCEOは、開発体験の改善がこれからのビジネス競争力の鍵になると提言。"
-  },
-  {
-    "title": "医療AIの有用性と落とし穴--どう向き合うべきか",
-    "link": "https://japan.zdnet.com/article/35245074/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "AIを使うと、健康に関するあらゆる疑問に対し、詳しい説明や回答が得られる。ただし、そこには多くの誤りが含まれている可能性がある。患者はこの技術にどのように向き合うべきなのだろうか。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35245074/\"><img src=\"https://japan.zdnet.com/storage/2026/03/16/95e32dab51ef34ee0b730840bcc1e5bc/t/184/138/d/gettyimages-2217535730_1280.jpg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2026/03/16/95e32dab51ef34ee0b730840bcc1e5bc/t/184/138/d/gettyimages-2217535730_1280.jpg",
-    "fetched_at": "2026-03-16 13:22:31",
-    "ja_summary": "・医療AIは健康に関する疑問に手軽に回答してくれる有用なツールである。\n・ただし回答には誤りが含まれるリスクがあるため注意が必要。\n・AIの情報は鵜呑みにせず、あくまで参考程度に留める姿勢が重要。"
-  },
-  {
-    "title": "シーゲート、最大44TBの次世代HDD「Mozaic 4+」を発表--大容量化、量産化を支えるHAMR技術",
-    "link": "https://japan.zdnet.com/article/35245049/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "Seagateは、HAMR技術により世界最高容量44TBを実現した新HDDプラットフォーム「Mozaic 4+」の量産出荷を開始。電力・設置面積を大幅に削減し、100TB時代への戦略を話した。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35245049/\"><img src=\"https://japan.zdnet.com/storage/2026/03/15/2327c6cae6264a148f1e62437dd40bfb/t/184/138/d/260313_seagate_l.jpg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2026/03/15/2327c6cae6264a148f1e62437dd40bfb/t/184/138/d/260313_seagate_l.jpg",
-    "fetched_at": "2026-03-16 13:22:31",
-    "ja_summary": "・SeagateがHAMR技術を用いた次世代HDD「Mozaic 4+」の量産を開始し、世界最大となる44TBを実現。\n・省電力かつ設置面積の削減が可能となり、データセンターの効率化に貢献。\n・将来的には100TB超のさらなる大容量化を見据えた戦略を展開する。"
-  },
-  {
-    "title": "生成AIグラビアをグラビアカメラマンが作るとどうなる？第62回：ComfyUIの複雑な生成画面をスッキリさせるApp modeとちょっと面白いWorkflow（西川和久）",
-    "link": "https://www.techno-edge.net/article/2026/03/16/4929.html",
-    "source": "TechnoEdge",
-    "published": "Mon, 16 Mar 2026 12:34:00 +0900",
-    "summary": "画像/動画生成モデルで使用するテキストエンコーダーでLLM？",
-    "image": "https://www.techno-edge.net/imgs/rss/30324.jpg",
-    "fetched_at": "2026-03-16 13:22:32",
-    "ja_summary": "・生成AIツール「ComfyUI」の複雑な操作画面を簡潔にする「App mode」の活用法を紹介。\n・画像・動画生成におけるテキストエンコーダーへのLLM導入など、最新の技術動向を解説。\n・プロカメラマンの視点で、生成AIのワークフロー効率化と表現の可能性を探る。"
-  },
-  {
-    "title": "エンジニアがChatGPTを使いこなせていないかもしれない話",
-    "link": "https://qiita.com/kamome_susume/items/e80b763797d073815710",
-    "source": "Qiita (Popular)",
-    "published": "2026-03-09T19:04:15+09:00",
-    "summary": "突然ですが、こんな気持ちになったことありませんか？\n\n「ChatGPTって、なんとなく一般向けのツールっぽいんだよな」\n\n「文章を書いてもらうくらいなら、Copilotで十分じゃない？」「API直接叩いた方がカスタマイズできるし」\n\nエンジニアあるあるだと思います。APIが使えるからこそ、**ChatGPTの公式UIをじっくり触ったことがない**という方、意外と多いんじゃないでしょうか。\n\nこの記",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYxNjkzMjQ4JTJGZDhlMmU1OWNiMDVmY2Y3MDQ3ZDgyN2ZjNDlkNDAwMTkzZTU5NDdjOSUyRnhfbGFyZ2UucG5nJTNGMTY4NjMxODg1ND9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9ZDRiNjcyYjg4ZWUxYTRkNjI1ZDRjOGFkMzVkMzQ5NjI%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Ddc9a014e564257547b64353543c58776?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgyJUE4JUUzJTgzJUIzJUUzJTgyJUI4JUUzJTgzJThCJUUzJTgyJUEyJUUzJTgxJThDQ2hhdEdQVCVFMyU4MiU5MiVFNCVCRCVCRiVFMyU4MSU4NCVFMyU4MSU5MyVFMyU4MSVBQSVFMyU4MSU5QiVFMyU4MSVBNiVFMyU4MSU4NCVFMyU4MSVBQSVFMyU4MSU4NCVFMyU4MSU4QiVFMyU4MiU4MiVFMyU4MSU5NyVFMyU4MiU4QyVFMyU4MSVBQSVFMyU4MSU4NCVFOCVBOSVCMSZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTAxNjg3NTliZWIxMWZjM2M2ZTQ2NWRkN2Y1NDEyNWMx&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBrYW1vbWVfc3VzdW1lJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9ZGRiZTIzN2VhYmFmZjQ1YThiNWYzYWQyMWVhNzMzOTI&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=da92f3629a2cc4984b22934dd1eec179",
-    "fetched_at": "2026-03-16 13:22:42",
-    "ja_summary": "多くのエンジニアが「APIで十分」と考え、ChatGPTの公式UIを使いこなせていない。\n公式UIには便利な機能が多数あり、API利用とは異なる活用価値がある。\n開発者こそ公式機能を深掘りすることで、業務効率をさらに高められる可能性がある。"
-  },
-  {
-    "title": "Unity MCP + CodexでAIにUnityを操作させてキャラクターを踊らせてみた",
-    "link": "https://qiita.com/kumi0708/items/e4e5d864219d1693d0d2",
-    "source": "Qiita (Popular)",
-    "published": "2026-03-06T16:24:18+09:00",
-    "summary": "\n# \nUnityの **AI Assistant v2.0.0-pre.1** から、\n**Unity MCP（Model Context Protocol）** が使えるようになりました。\n\nMCPを使うと、AIからUnity Editorを操作できるようになります。\n\n今回は\n\n* Codex CLI\n* Unity MCP\n\nを使って、**AIにUnityを操作させてキャラクターを踊らせる",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYzNzA2OCUyRmE1ZWFjNTdjMmFjZDNjOTA4NWE4NGNhM2NiNWJkYmUzYTc4Mzk5N2IlMkZ4X2xhcmdlLnBuZyUzRjE2MzI3NDMwNjk_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPTZiM2ZjZjM4ZmVlZWU4MGM1Zjk4NjFjNTdkOWM0N2My%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3De9037f0c99748fc54bb4edbd80a7b7e2?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9VW5pdHklMjBNQ1AlMjAlMkIlMjBDb2RleCVFMyU4MSVBN0FJJUUzJTgxJUFCVW5pdHklRTMlODIlOTIlRTYlOTMlOEQlRTQlQkQlOUMlRTMlODElOTUlRTMlODElOUIlRTMlODElQTYlRTMlODIlQUQlRTMlODMlQTMlRTMlODMlQTklRTMlODIlQUYlRTMlODIlQkYlRTMlODMlQkMlRTMlODIlOTIlRTglQjglOEElRTMlODIlODklRTMlODElOUIlRTMlODElQTYlRTMlODElQkYlRTMlODElOUYmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz0yZTQ4ZDgwYzMzOWQ2MDA1MTBhNjY0OWZjMTRmMzkyMA&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBrdW1pMDcwOCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWRlOTkxY2M4ZjNjYTAzOGIzZGNkMmIwYTg5NTRjNDMz&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=5a3aaddaf9c1d7bd5b14cb8790cfaeaa",
-    "fetched_at": "2026-03-16 13:22:43",
-    "ja_summary": "UnityのAIアシスタントに「MCP」が導入され、外部AI（Codex）からUnity Editorを直接操作することが可能になりました。\nこれを利用することで、AIへの指示だけでキャラクターにダンスなどの複雑な動きを自動生成・実行させることができます。\n開発効率の向上や、自然言語によるゲーム制作の自動化が大きく前進する技術です。"
-  },
-  {
-    "title": "Claude、4月1日から消費税10%を徴収開始",
-    "link": "https://www.watch.impress.co.jp/docs/news/2093545.html",
-    "source": "Impress Watch",
-    "published": "",
-    "summary": "Anthropicは、2026年4月1日から日本の顧客へのサービスに対し、10%の消費税を別途徴収開始する。4月1日から、Claude等のサービスのすべてのプラン価格に10%の消費税が加算される。現在のClaudeの料金はProが月額20ドル、Maxが100ドルから。API等についても消費税の対象となる。",
-    "image": "https://www.watch.impress.co.jp/img/ipw/list/2093/545/c01.jpg",
-    "fetched_at": "2026-03-16 10:29:45",
-    "ja_summary": "・2026年4月1日より、Claudeの全サービス（プラン・API等）に10%の消費税が加算される。\n・現行の月額料金等に対し、別途消費税が徴収される仕組みに変更となる。\n・日本のユーザーは価格改定に伴うコスト増に注意が必要。"
-  },
-  {
-    "title": "Metaの次世代AI「アボカド」、競合に追いつけず延期か",
-    "link": "https://japan.cnet.com/article/35245065/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "Metaは次世代基盤モデル「Avocado」（アボカド）のリリースを5月以降に延期したという。The New York Timesが匿名筋の情報として報じた。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35245065/\"><img src=\"https://japan.cnet.com/storage/2026/03/16/3f08606044e5066136fc8b956418c436/t/184/138/d/meta-ai-logo-gettyimages-2257784061_1280x960.jpg\" /></a>",
-    "image": "https://japan.cnet.com/storage/2026/03/16/3f08606044e5066136fc8b956418c436/t/184/138/d/meta-ai-logo-gettyimages-2257784061_1280x960.jpg",
-    "fetched_at": "2026-03-16 10:29:51",
-    "ja_summary": "・Metaの次世代AI「Avocado」のリリースが5月以降に延期された。\n・競合他社との競争で後れを取っていることが背景にあると報じられている。"
-  },
-  {
-    "title": "アップルの「AirPods 4」がセール中　2万9800円→2万3798円に",
-    "link": "https://japan.cnet.com/article/35245062/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "アップルストアでの直販価格に比べて、アクティブノイズキャンセリング（ANC）搭載の上位モデルは4000円安い2万5717円。ANC非搭載の下位モデルは2800円安い1万9000円だ。ヨドバシカメラなど家電量販店と比べても記事執筆時点では1000円程度安く、ポイント還元で同等になるという具合だ。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35245062/\"><img src=\"https://japan.cnet.com/storage/2026/03/16/89c2d7d8ad32c8a03b84ab5a2b486671/t/184/138/d/large2.jpg\" /></a>",
-    "image": "https://japan.cnet.com/storage/2026/03/16/89c2d7d8ad32c8a03b84ab5a2b486671/t/184/138/d/large2.jpg",
-    "fetched_at": "2026-03-16 10:29:51",
-    "ja_summary": "・アップルの「AirPods 4」がAmazon等でセール中、定価より最大約6000円引き。\n・ノイズキャンセリング搭載モデルは2万5717円、非搭載モデルは1万9000円で購入可能。\n・家電量販店の価格やポイント還元と比べても非常にお得な水準となっている。"
   }
 ]
