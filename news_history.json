@@ -1,5 +1,25 @@
 [
   {
+    "title": "今更ですが、Claude Codeで、ミュージックプレイヤーみたいなものを作ってみた",
+    "link": "https://zenn.dev/churadata/articles/3a1382e4f6990f",
+    "source": "Zenn Trends",
+    "published": "Mon, 16 Mar 2026 13:00:09 GMT",
+    "summary": "生成AI使っていますか？\nがく＠ちゅらデータエンジニアです。\n昨今、生成AIを使っての開発ってのは、かなりかなり浸透してきて、生成AIがないと話にならん！な状況になりつつあると思います。\n全然使わないまんまじゃまずいなぁーーと思い、業務でも色々取り入れて試行錯誤してるところです。\n\n 朝、ふと思いついた\nいつも通り、下娘を幼稚園に送り、帰りにYoutubeMusicでアニソンを聴きながら帰ってきたときにふと思いました。\n「仕事中に作業用のBGMで、『こんな音楽流して』『リラックス用にカフェジャズを流して』みたいなこととが出来ないか？」\nと考えました。アレクサとかでできるあれです。\nスマー...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--jLwcEjFr--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E4%25BB%258A%25E6%259B%25B4%25E3%2581%25A7%25E3%2581%2599%25E3%2581%258C%25E3%2580%2581Claude%2520Code%25E3%2581%25A7%25E3%2580%2581%25E3%2583%259F%25E3%2583%25A5%25E3%2583%25BC%25E3%2582%25B8%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2597%25E3%2583%25AC%25E3%2582%25A4%25E3%2583%25A4%25E3%2583%25BC%25E3%2581%25BF%25E3%2581%259F%25E3%2581%2584%25E3%2581%25AA%25E3%2582%2582%25E3%2581%25AE%25E3%2582%2592%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Gaku%2520Tashiro%25EF%25BC%25A0%25E3%2581%25A1%25E3%2582%2585%25E3%2582%2589%25E3%2583%2587%25E3%2583%25BC...%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2Y2NTFmZDJlZWIuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2581%25A1%25E3%2582%2585%25E3%2582%2589%25E3%2583%2587%25E3%2583%25BC%25E3%2582%25BF%25E6%25A0%25AA%25E5%25BC%258F%25E4%25BC%259A%25E7%25A4%25BE%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzIzNGMwYzI2YmIuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-03-17 20:55:02",
+    "ja_summary": "・生成AIを活用した開発を習得するため、業務の一環として「音声で操作できるミュージックプレイヤー」の開発に挑戦。\n・日常のふとした思いつきを起点に、Claude Codeを活用してプログラミング作業を効率化・自動化する試み。\n・生成AIを用いた開発が不可欠となる現代において、実用的なツール制作を通じて実践的なスキル向上を図っている。"
+  },
+  {
+    "title": "queryOptions の型推論を支える DataTag、その裏側の unique symbol — TanStack Query",
+    "link": "https://zenn.dev/tsuboi/articles/tanstack-query-options-unique-symbol",
+    "source": "Zenn Trends",
+    "published": "Mon, 16 Mar 2026 10:37:31 GMT",
+    "summary": "はじめに\nTanStack Query v5 で導入された queryOptions は、React と TypeScript エコシステムにおける開発者体験に大きな変化をもたらしました。設定オブジェクトを定義するだけで、別ファイルで呼び出される useQuery の戻り値の型が、型注釈なしで完璧に推論されます。\n// queries/users.ts - 設定の一元化\nexport const userQueries = {\n  detail: (userId: string) =&gt; queryOptions({\n    queryKey: ['users', userId]...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--XuOSRBFd--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:queryOptions%2520%25E3%2581%25AE%25E5%259E%258B%25E6%258E%25A8%25E8%25AB%2596%25E3%2582%2592%25E6%2594%25AF%25E3%2581%2588%25E3%2582%258B%2520DataTag%25E3%2580%2581%25E3%2581%259D%25E3%2581%25AE%25E8%25A3%258F%25E5%2581%25B4%25E3%2581%25AE%2520unique%2520symbol%2520%25E2%2580%2594%2520TanSt...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Tsuboi%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzUzMmU3Zjg2MTIuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-03-17 20:55:02",
+    "ja_summary": "TanStack Query v5の`queryOptions`は、設定オブジェクトを定義するだけで`useQuery`の戻り値の型を自動で推論可能にする。\nその裏側ではTypeScriptの`unique symbol`を用いた「DataTag」という仕組みが活用されている。\nこれにより、型定義の手間を省きつつ、安全で快適な開発体験が実現されている。"
+  },
+  {
     "title": "Claude Code / CodexでKaggle金メダルを取った話",
     "link": "https://zenn.dev/chiman/articles/b233cc808d6af3",
     "source": "Zenn Trends",
@@ -978,25 +998,5 @@
     "image": "https://www.anthropic.com/api/opengraph-illustration?name=Node%20Cursor&amp;backgroundColor=coral",
     "fetched_at": "2026-03-16 17:47:23",
     "ja_summary": "・AnthropicがAIモデル「Claude」のPC操作機能強化を目的にVerceptを買収。\n・PC画面上の操作をAIが直接実行する「Computer Use」技術の向上を目指す。\n・AIによる業務自動化や生産性向上の取り組みを加速させる狙い。"
-  },
-  {
-    "title": "Anthropic’s Responsible Scaling Policy: Version 3.0",
-    "link": "https://www.anthropic.com/news/responsible-scaling-policy-v3",
-    "source": "Anthropic (News)",
-    "published": "Tue, 24 Feb 2026 00:00:00 +0000",
-    "summary": "Anthropic’s Responsible Scaling Policy: Version 3.0",
-    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Quill&amp;backgroundColor=olive",
-    "fetched_at": "2026-03-16 17:47:24",
-    "ja_summary": "・AnthropicがAI開発の安全基準「責任あるスケーリング方針」の最新版（v3.0）を発表。\n・AIモデルの能力向上に伴うリスクを評価し、安全性を担保するための管理体制を強化。\n・開発の透明性と安全対策を両立させ、AIの段階的な普及を目指す方針。"
-  },
-  {
-    "title": "ネットの流行語「ギュられる」とは　AI失業を覚悟するSNS民たち",
-    "link": "https://japan.cnet.com/article/35245089/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "「ギュられる」は、AIの進展によって、自分の仕事やスキル、価値が奪われたり、通用しなくなったりすることを指すネット上の言い回しだ。語源は「シンギュラリティ」にあるとされ、「シンギュラリティ」を「ギュ」に縮めた表現とみられる。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35245089/\"><img src=\"https://japan.cnet.com/storage/2026/03/16/7113ff8dc45008fc463cfa716f63fcf7/t/184/138/d/8_1280x960.jpg\" /></a>",
-    "image": "https://japan.cnet.com/storage/2026/03/16/7113ff8dc45008fc463cfa716f63fcf7/t/184/138/d/8_1280x960.jpg",
-    "fetched_at": "2026-03-16 16:47:30",
-    "ja_summary": "・「ギュられる」とは、AIの進化で自分の仕事や価値が奪われることを指すネット用語。\n・語源はAIが人類の知能を超える「シンギュラリティ」の略称とされる。\n・AIによる雇用やスキルへの脅威を、SNS利用者が自虐的に表現している。"
   }
 ]
