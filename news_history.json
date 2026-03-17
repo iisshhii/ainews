@@ -1,5 +1,35 @@
 [
   {
+    "title": "AMD、PCの次を見据えた新概念「Agent Computer」　人ではなくAIが操作",
+    "link": "https://www.watch.impress.co.jp/docs/news/2093846.html",
+    "source": "Impress Watch",
+    "published": "",
+    "summary": "AMDは、AIエージェントを常時稼働させる新しい概念のデバイス「Agent Computer」を提唱した。PC(Personal Computer)が人間による直接操作を前提に設計されていたのに対し、Agent ComputerはAIエージェントに処理を委ねる使い方を想定する。",
+    "image": "https://www.watch.impress.co.jp/img/ipw/list/2093/846/01.jpg",
+    "fetched_at": "2026-03-18 00:36:47",
+    "ja_summary": "・AMDがAIエージェントの常時稼働を前提とした新概念「Agent Computer」を発表。\n・人間が操作するPCに対し、AIが主体となって処理を行う仕組みへと移行を目指す。\n・AIへの作業委任を最適化した次世代デバイスの普及を提唱している。"
+  },
+  {
+    "title": "中国のAI製品は設計思想がまったく異なる…元大手テック企業の製品マネージャーがその理由を語る",
+    "link": "https://www.businessinsider.jp/article/2603-product-manager-china-meituan-tech-ai-kuse-yilin-zhang/",
+    "source": "Business Insider Japan",
+    "published": "Mon, 16 Mar 2026 10:00:00 GMT",
+    "summary": "中国の大手テック企業で働いていたAIプロダクトマネージャーが、中国のAIがアメリカやヨーロッパとどう違うのかを説明してくれました。",
+    "image": "https://media.loom-app.com/loom/2026/02/23/7bedeb91-326d-472d-8d62-4c4a15029832/original.jpg?w=1200&amp;h=630",
+    "fetched_at": "2026-03-18 00:36:54",
+    "ja_summary": "・中国のAIは欧米とは設計思想が根本から異なる\n・元大手テック企業のPMがその独自の開発背景を解説\n・中国市場特有の戦略的アプローチがAI製品に反映されている"
+  },
+  {
+    "title": "卒アルなど 性的なAI加工に注意",
+    "link": "https://news.yahoo.co.jp/pickup/6573326?source=rss",
+    "source": "Yahoo!ニュース IT・科学",
+    "published": "Mon, 16 Mar 2026 09:05:10 GMT",
+    "summary": "",
+    "image": "https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/suzukitomoko/02576702/title-1773634738340.jpeg?exp=10800",
+    "fetched_at": "2026-03-18 00:36:58",
+    "ja_summary": "・卒業アルバムなどの顔写真が、AIによって性的コンテンツに無断加工される被害が急増中。\n・被害の特定や削除が困難で、SNSでの拡散や悪用のリスクが深刻化している。\n・Web上の写真公開を控える、SNSの設定を見直すなど、個人情報の管理強化が必須。"
+  },
+  {
     "title": "AIの混乱を乗り切るための投資方法。3000人以上の富裕層顧客を持つ、資産運用マネージャーが語る",
     "link": "https://www.businessinsider.jp/article/2603-how-wealthy-invest-navigate-stock-market-volatility-ai-peter-mallouk/",
     "source": "Business Insider Japan",
@@ -968,35 +998,5 @@
     "image": "https://openai.com/favicon.ico",
     "fetched_at": "2026-03-17 02:43:24",
     "ja_summary": "・Codex Securityは従来のSAST（静的解析）を採用せず、AIによる制約推論と検証を活用。\n・誤検知を減らし、実効性のある脆弱性検出に特化したアプローチを実現。\n・従来の手法に頼らない次世代のセキュリティ診断モデルを提示。"
-  },
-  {
-    "title": "Claude Codeを使いこなすために最低限知っておくべきこと4選！",
-    "link": "https://qiita.com/nAotO01_03/items/d8e58f7282f1c44dca14",
-    "source": "Qiita (Popular)",
-    "published": "2026-03-06T13:06:44+09:00",
-    "summary": "# 1. はじめに\n昨今、AIエージェントを活用した開発が主流になりつつあります。\nエージェントを導入することで開発スピードが飛躍的に向上し、PoCやプレ実装のハードルも大幅に下がりました。\n初心者でも手軽に実装に取り組めるようになった一方で、その機能を熟知し使いこなすことで、より迅速かつ精度の高いアウトプットが可能になります。\n\n今回は、特に注目を集める「Claude Code」を使いこなすため",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYzODQ2ODU3JTJGYzZhODExZjZkMTIyODJjM2ZiOTlhYmNiMzcxYWJjMmE1MzQwYjk4ZCUyRnhfbGFyZ2UucG5nJTNGMTc2Mzg2MzAzNz9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9MzgwYTYyNTBkYWM2YTg3NGNlOTI0ZDZlYjcyNjE2OTM%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D5d0bc1728c6bdbc0dc333ddd82807e69?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9Q2xhdWRlJTIwQ29kZSVFMyU4MiU5MiVFNCVCRCVCRiVFMyU4MSU4NCVFMyU4MSU5MyVFMyU4MSVBQSVFMyU4MSU5OSVFMyU4MSU5RiVFMyU4MiU4MSVFMyU4MSVBQiVFNiU5QyU4MCVFNCVCRCU4RSVFOSU5OSU5MCVFNyU5RiVBNSVFMyU4MSVBMyVFMyU4MSVBNiVFMyU4MSU4QSVFMyU4MSU4RiVFMyU4MSVCOSVFMyU4MSU4RCVFMyU4MSU5MyVFMyU4MSVBODQlRTklODElQjglRUYlQkMlODEmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz03Njk2YmI5YTMxMDdlMzM1MWU1NDhlMzI0NzJkMjY3Nw&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBuQW90TzAxXzAzJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9NGRlMzBhMTkyY2RkMDg5ZjRmMTk1ZTZiMTk4YjJhOWY&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=f376b3ebbdbd31de502d1bb9423bb700",
-    "fetched_at": "2026-03-17 00:19:10",
-    "ja_summary": "・AIエージェントによる開発効率化が主流となる中、注目ツール「Claude Code」が注目されている。\n・機能を深く理解し使いこなすことで、開発スピードと精度のさらなる向上が可能になる。\n・開発のハードルを下げるだけでなく、高品質なアウトプットを出すための重要ポイントを解説。"
-  },
-  {
-    "title": "新モデル「AirPods Max 2」発表",
-    "link": "https://news.yahoo.co.jp/pickup/6573356?source=rss",
-    "source": "Yahoo!ニュース IT・科学",
-    "published": "Mon, 16 Mar 2026 13:49:11 GMT",
-    "summary": "",
-    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/16/3cc28615b7d205206f75166caf93b2d9115cda6aeb4faead412e9b8e2c7b6771.jpg",
-    "fetched_at": "2026-03-16 23:05:28",
-    "ja_summary": "アップルが新型ヘッドフォン「AirPods Max 2」を発表。\nUSB-C充電対応やカラーバリエーションの刷新に加え、音質とノイズキャンセリング性能が強化された。\n本日より予約受付が開始され、順次発売される。"
-  },
-  {
-    "title": "AI時代最高のエンジニア組織をつくる",
-    "link": "https://speakerdeck.com/kentarowada/aishi-dai-zui-gao-noenziniazu-zhi-wotukuru",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-03-16T09:24:16-04:00",
-    "summary": "関西ビギナーズハッカソンの企業紹介発表にてお話しさせてもらった資料です。",
-    "image": "https://files.speakerdeck.com/presentations/bdb42c9f9a714c09afb17371311b4fad/preview_slide_0.jpg?38754527",
-    "fetched_at": "2026-03-16 23:05:52",
-    "ja_summary": "・AI時代に求められる最高のエンジニア組織の構築方法を解説\n・ハッカソンでの企業紹介を通じて、チームビルディングの知見を共有\n・組織の生産性と競争力を高めるための戦略的アプローチを提示"
   }
 ]
