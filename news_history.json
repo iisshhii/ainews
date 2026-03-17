@@ -1,5 +1,35 @@
 [
   {
+    "title": "岡山の中小企業が生成AIで挑む事業承継　「暗黙知の可視化」の舞台裏は？",
+    "link": "https://www.itmedia.co.jp/business/articles/2603/17/news108.html",
+    "source": "ITmedia ビジネス",
+    "published": "Tue, 17 Mar 2026 18:00:00 +0900",
+    "summary": "",
+    "image": "https://image.itmedia.co.jp/business/articles/2603/17/cover_news108.jpg",
+    "fetched_at": "2026-03-17 18:28:48",
+    "ja_summary": "・岡山県の中小企業が、ベテランの経験や勘といった「暗黙知」を生成AIでデータ化し、技術継承に活用。\n・属人化していた熟練のノウハウを可視化することで、スムーズな事業承継と人材育成の効率化を実現。\n・AIによる技術のデジタル化が、中小企業における人手不足と技術継承の課題解決モデルとして注目されている。"
+  },
+  {
+    "title": "共創PFキャンプin四国～自治体のAI事例を他でも利用するには？編～を開催しました",
+    "link": "https://www.digital.go.jp/news/7ebc54d1-2ee0-4fe2-a4c5-d597ca2a926d",
+    "source": "デジタル庁",
+    "published": "Wed, 11 Mar 2026 15:00:00 +0900",
+    "summary": "",
+    "image": "https://www.digital.go.jp/themes/custom/gov_theme_da_2023/assets/images/ogp.png",
+    "fetched_at": "2026-03-17 18:29:21",
+    "ja_summary": "・四国にて自治体のAI活用事例を共有し、横展開する方法を議論するイベントを開催。\n・AI導入の成功事例を地域間で共有し、他自治体でも活用できる仕組み作りを目指す。\n・官民連携を通じて、自治体DXの推進と課題解決を加速させる狙い。"
+  },
+  {
+    "title": "共創PFキャンプinデジタル庁～自治体業務のAI活用編～を開催しました",
+    "link": "https://www.digital.go.jp/news/d2ec4dcd-0648-48c9-90fe-96586bc29725",
+    "source": "デジタル庁",
+    "published": "Wed, 11 Mar 2026 15:00:00 +0900",
+    "summary": "",
+    "image": "https://www.digital.go.jp/themes/custom/gov_theme_da_2023/assets/images/ogp.png",
+    "fetched_at": "2026-03-17 18:29:21",
+    "ja_summary": "デジタル庁は、自治体の業務効率化を目的とした「共創PFキャンプ」を開催。\nAIを活用した行政サービスの改善や、自治体間での課題共有と解決策の検討を行った。\n今後、先進事例の横展開を進め、全国的なデジタル変革を加速させる。"
+  },
+  {
     "title": "パナソニック、レッツノート初のCopilot+ PC「SC7」「FC7」「NC7」--30年目で全面刷新",
     "link": "https://japan.cnet.com/article/35245098/",
     "source": "CNET Japan",
@@ -968,35 +998,5 @@
     "image": "https://res.cloudinary.com/zenn/image/upload/s--H_DJ9KyI--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:GitHub%2520Copilot%25E3%2581%25AE%25E3%2582%25B9%25E3%2583%25A9%25E3%2583%2583%25E3%2582%25B7%25E3%2583%25A5%25E3%2582%25B3%25E3%2583%259E%25E3%2583%25B3%25E3%2583%2589%25E3%2582%2584%25E3%2582%25B5%25E3%2583%2596%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588%25E3%2582%2592%25E4%25BD%25BF%25E3%2581%25A3%25E3%2581%25A6%25E3%2580%2581%25E7%25B0%25A1%25E6%2598%2593%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25E5%25AE%259F%25E8%25A3%2585%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:peishim%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzdlNmIxNjYxMDkuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
     "fetched_at": "2026-03-16 16:47:53",
     "ja_summary": "・GitHub Copilotのスラッシュコマンドやサブエージェントを活用し、ローカル環境で手軽にAIコードレビューを行う仕組みを構築した。\n・VS CodeにおけるGitHub Copilotの便利な活用法や、既存環境で効率的に運用するためのノウハウを紹介する。\n・Claude Code等の類似ツールが使えない環境でも、GitHub Copilotを活用した開発効率化の手法を提示する。"
-  },
-  {
-    "title": "AI × Pythonで研究が“30秒で終わる”ようになった話 ― データ基盤 → 仮説量産 → 高速検証の時代へ",
-    "link": "https://qiita.com/d94231/items/0bf79993886f7d73a81b",
-    "source": "Qiita (Popular)",
-    "published": "2026-03-14T21:27:08+09:00",
-    "summary": "\n最近、研究の進め方が劇的に変わりました。  \nきっかけは **AIとPythonを本格的に導入したこと**。\n\n昔ながらの  \n「テーマ決め → データ収集 → 分析」  \nという研究フローは、もう完全に過去のものになりました。\n\n今は、\n\n**データ基盤を先に作り、AIで仮説を量産し、Pythonで高速に検証する。**\n\nこの3ステップで研究が“回る”ようになっています。\n\nそして驚くべきこと",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmxoMy5nb29nbGV1c2VyY29udGVudC5jb20lMkZhJTJGQUNnOG9jTEEtTWFZZ3c1ZHA5c2tMV3h5Zk52WTdqZHBkRnZqbDBROEtnZVZQX0pOcUFBdGJROCUzRHM5Ni1jP2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz04MGFhODM2YWZkOGQxOWJhMDAzNTQyYjBlY2Q3NzVkMw%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Db06e5bc9a5760b6694a5bbf99003c27a?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9QUklMjAlQzMlOTclMjBQeXRob24lRTMlODElQTclRTclQTAlOTQlRTclQTklQjYlRTMlODElOEMlRTIlODAlOUMzMCVFNyVBNyU5MiVFMyU4MSVBNyVFNyVCNSU4MiVFMyU4MiU4RiVFMyU4MiU4QiVFMiU4MCU5RCVFMyU4MiU4OCVFMyU4MSU4NiVFMyU4MSVBQiVFMyU4MSVBQSVFMyU4MSVBMyVFMyU4MSU5RiVFOCVBOSVCMSUyMCVFMiU4MCU5NSUyMCVFMyU4MyU4NyVFMyU4MyVCQyVFMyU4MiVCRiVFNSU5RiVCQSVFNyU5QiVBNCUyMCVFMiU4NiU5MiUyMCVFNCVCQiVBRSVFOCVBQSVBQyVFOSU4NyU4RiVFNyU5NCVBMyUyMCVFMiU4NiU5MiUyMCVFOSVBQiU5OCVFOSU4MCU5RiVFNiVBNCU5QyVFOCVBOCVCQyVFMyU4MSVBRSVFNiU5OSU4MiVFNCVCQiVBMyVFMyU4MSVCOCZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPWQyMWU4MjI5Yjk1Y2FjNDFhMjk2ZjAyMmJjOTg1ZjA4&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBkOTQyMzEmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz00NTY1ODY5NTRmZGU3YWFhMWMxNjljN2Y2OTU5OWQyYg&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=8f4181264cb5cde07b22c5c48e3ca6ae",
-    "fetched_at": "2026-03-16 16:47:56",
-    "ja_summary": "・AIとPythonの導入により、研究フローが「データ基盤構築→仮説量産→高速検証」へと劇的に進化した。\n・従来の「テーマ決定から始める」手法は過去のものとなり、圧倒的なスピードで研究が進む時代へ変化した。"
-  },
-  {
-    "title": "NVIDIA、AIエージェントが5倍高速になる「Nemotron 3 Super」",
-    "link": "https://www.watch.impress.co.jp/docs/news/2093658.html",
-    "source": "Impress Watch",
-    "published": "",
-    "summary": "NVIDIAは、NVIDIA Blackwell向けに最適化したオープンモデル「NVIDIA Nemotron 3 Super」を発表した。1,200億パラメータを備えるモデルで、従来のNemotron Superと比べ、最大5倍のスループットと最大2倍の精度を実現するとする。",
-    "image": "https://www.watch.impress.co.jp/img/ipw/list/2093/658/01.jpg",
-    "fetched_at": "2026-03-16 15:02:57",
-    "ja_summary": "・NVIDIAが新AIモデル「Nemotron 3 Super」を発表。\n・Blackwell向け最適化により、従来比で処理速度が最大5倍に向上。\n・精度も最大2倍に強化され、AIエージェントの性能を大幅に引き上げる。"
-  },
-  {
-    "title": "ドコモ社長 新AIサービスの狙い",
-    "link": "https://news.yahoo.co.jp/pickup/6573308?source=rss",
-    "source": "Yahoo!ニュース IT・科学",
-    "published": "Mon, 16 Mar 2026 04:50:06 GMT",
-    "summary": "",
-    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/16/a7d18b799197691b05369fbac573fb1ad32a626c88066ba21875a4cf9759a5aa.jpg",
-    "fetched_at": "2026-03-16 15:03:13",
-    "ja_summary": "・ドコモが生成AIを活用した新サービスを展開し、顧客対応の効率化と利便性向上を図る。\n・AIによる提案力強化でパーソナライズされた体験を提供し、新たな収益源を創出する。\n・通信事業を基盤としつつ、AI技術で付加価値を高め、サービスの差別化を狙う。"
   }
 ]
