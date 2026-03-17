@@ -1,5 +1,35 @@
 [
   {
+    "title": "Anthropic’s Responsible Scaling Policy: Version 3.0",
+    "link": "https://www.anthropic.com/news/responsible-scaling-policy-v3",
+    "source": "Anthropic (News)",
+    "published": "Tue, 24 Feb 2026 00:00:00 +0000",
+    "summary": "Anthropic’s Responsible Scaling Policy: Version 3.0",
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Quill&amp;backgroundColor=olive",
+    "fetched_at": "2026-03-17 21:52:37",
+    "ja_summary": "・Anthropic社がAI開発の安全基準「責任あるスケーリング方針（RSP）」の最新版3.0を策定。\n・AIの高度化に伴うリスクを段階的に管理し、安全性を最優先した開発プロセスを強化。\n・将来的な超高性能AIの導入を見据え、厳格なテストとガバナンス体制を明確化。"
+  },
+  {
+    "title": "Claude Codeで「Issue起票→並列開発→PR作成」を全自動化したら、開発速度が異次元になった",
+    "link": "https://qiita.com/kazuki_ogawa/items/c05c3aed3bf8e46a7ddb",
+    "source": "Qiita (Popular)",
+    "published": "2026-03-15T17:03:27+09:00",
+    "summary": "## はじめに\n\n「Claude Codeで開発してるけど、1つずつ順番にIssueを片付けるのが遅い…」\n\nそんな悩みを解決するために、**Issue起票から並列開発、PR作成までを一気通貫で自動化するワークフロー**を構築しました。\n\n具体的には、Claude Codeの**Skills**を組み合わせて、以下を実現しています：\n\n1. **要件定義** — Claude Codeに「〇〇を作",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGMjU5MDg1MCUyRnByb2ZpbGUtaW1hZ2VzJTJGMTc2OTQwMDA4Nz9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9YzA0NzU0YjUyMTI3OGNkMzZjYWU4NjRlOTMwZTVjOGI%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkZhZmM0ZGJhZjAzNThlOGQwYjM0NmM4ZDc1ZWIwMzdiMjVmNjc4MDY5JTJGb3JpZ2luYWwuanBnJTNGMTYwNzc1NjU4OD9peGxpYj1yYi00LjAuMCZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz1lMDc1YzkzZTdkYmMzZjRlM2JiMTJhYTRjY2JhMTUzYg%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D7497e3c7596115b0a43dc14fe3782a0f?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9Q2xhdWRlJTIwQ29kZSVFMyU4MSVBNyVFMyU4MCU4Q0lzc3VlJUU4JUI1JUI3JUU3JUE1JUE4JUUyJTg2JTkyJUU0JUI4JUE2JUU1JTg4JTk3JUU5JTk2JThCJUU3JTk5JUJBJUUyJTg2JTkyUFIlRTQlQkQlOUMlRTYlODglOTAlRTMlODAlOEQlRTMlODIlOTIlRTUlODUlQTglRTglODclQUElRTUlOEIlOTUlRTUlOEMlOTYlRTMlODElOTclRTMlODElOUYlRTMlODIlODklRTMlODAlODElRTklOTYlOEIlRTclOTklQkElRTklODAlOUYlRTUlQkElQTYlRTMlODElOEMlRTclOTUlQjAlRTYlQUMlQTElRTUlODUlODMlRTMlODElQUIlRTMlODElQUElRTMlODElQTMlRTMlODElOUYmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1mYTVlZGM4YjI3YWRjMzNlZjQ5M2E0ZGM2MjcwYzQwMg&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBrYXp1a2lfb2dhd2EmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1iZjA5NmUzYTdlYzEzNWE5OTE4NzE5OGI3ZjBiMzdjYw&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=5qCq5byP5Lya56S-44K344Oz44K344Ki&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=5d6e77535f9059cab405b60f1ecf3e63",
+    "fetched_at": "2026-03-17 21:52:41",
+    "ja_summary": "Claude Codeの自動化ツールを活用し、Issue作成から並列開発、プルリクエスト作成までの工程を一気通貫で自動化。\n手作業の工程を省くことで、開発フローの劇的な高速化を実現した。\n開発効率を大幅に向上させる新しいワークフローの構築事例。"
+  },
+  {
+    "title": "個人開発こそ、GitHub × AI × スクラムで回したほうがいい",
+    "link": "https://qiita.com/reinf0rce/items/fc90f2751a2e4ccab41e",
+    "source": "Qiita (Popular)",
+    "published": "2026-03-11T11:46:28+09:00",
+    "summary": "## はじめに\n\n個人開発で意外と難しいのは、コードを書くことそのものより、**何を先にやるかを決め続けること**です。  \n一人で進めていると、自由に動けるぶん、別のアイデアに引っ張られやすくなります。少し触るつもりだった作業が、そのまま別の作業に広がることも珍しくありません。\n\n最近はAIの支援で、\n\n- アイデア出し\n- 要件整理\n- 実装\n- レビュー\n- 文書化\n\nまで一気に進められます",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYzNDUwMSUyRjZiYmU0NTlmNmI5ZDU3OTUxMDgyMjFmZWMyNDZlM2Y1NWViMTJiOWYlMkZsYXJnZS5wbmclM0YxNzY1OTU1OTU4P2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz0zZDhhOGNhOTUzNjFkYTZjMTE5NjM1OGE5YTQ5NjdlMQ%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYxZTIwZGI1ZTdlNDA3ZWFlN2I5NzBlYzk5OTg4MGRjOGMzY2MwZjY0JTJGb3JpZ2luYWwuanBnJTNGMTY2NzI3NDk2Mz9peGxpYj1yYi00LjAuMCZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz0xMzQ4OTg3MjlkMzMwYTdiNWRhMzRkOGU2MzVmZjIxOA%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3Dcbbc7bc8bbeb186122f8fc2f9a00fe30?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUU1JTgwJThCJUU0JUJBJUJBJUU5JTk2JThCJUU3JTk5JUJBJUUzJTgxJTkzJUUzJTgxJTlEJUUzJTgwJTgxR2l0SHViJTIwJUMzJTk3JTIwQUklMjAlQzMlOTclMjAlRTMlODIlQjklRTMlODIlQUYlRTMlODMlQTklRTMlODMlQTAlRTMlODElQTclRTUlOUIlOUUlRTMlODElOTclRTMlODElOUYlRTMlODElQkIlRTMlODElODYlRTMlODElOEMlRTMlODElODQlRTMlODElODQmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz0xNTBiZGVlNjczM2MyNDRhZjcyYjIzMDVmNTYwNzUyMg&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDByZWluZjByY2UmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1lYTc5NzdmOGRjNjliZTNkNDE0YmQ1OGUwMWM5YWQ3ZQ&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=S0RESeOCouOCuOODo-OCpOODq-mWi-eZuuOCu-ODs-OCv-ODvOagquW8j-S8muekvg&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=7c06a368364aa512ecb3d0deb39f3475",
+    "fetched_at": "2026-03-17 21:52:43",
+    "ja_summary": "要約の生成に失敗しました。"
+  },
+  {
     "title": "今更ですが、Claude Codeで、ミュージックプレイヤーみたいなものを作ってみた",
     "link": "https://zenn.dev/churadata/articles/3a1382e4f6990f",
     "source": "Zenn Trends",
@@ -968,35 +998,5 @@
     "image": "https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/suzukitomoko/02576702/title-1773634738340.jpeg?exp=10800",
     "fetched_at": "2026-03-16 18:58:07",
     "ja_summary": "・卒業アルバム等の写真が悪用され、AIで性的な画像に加工される被害が急増中。\n・SNSへの顔写真投稿は、第三者に悪用されるリスクがあるため注意が必要。\n・被害防止のため、プライバシー設定の見直しや不用意な写真公開を控える対策が推奨。"
-  },
-  {
-    "title": "From Burnout to Balance: Embracing \"Yuru\" Participation in Open Source",
-    "link": "https://speakerdeck.com/naruoga/from-burnout-to-balance-embracing-yuru-participation-in-open-source",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-03-16T04:45:52-04:00",
-    "summary": "Burnout is a common yet often unspoken experience in open source communities. During the COVID-19 pandemic, the loss of in-person interaction strained relationships in the LibreOffice community and eventually led to my own burnout and withdrawal. This talk introduces yuru participation — a low-pressure, flexible way to rejoin OSS without returning to unsustainable expectations. Through micro-contributions, documentation and translation work, and casual community engagement, contributors can rebuild confidence and connection at their own pace. By sharing my journey from burnout to recovery, this session offers practical guidance for individuals and insights for communities aiming to create healthier, more resilient environments.\n\n(This slide is for FOSSASIA Summit 2026)",
-    "image": "https://files.speakerdeck.com/presentations/cb9f28baeb7642fd8a98eaeb8128cbc1/preview_slide_0.jpg?38752205",
-    "fetched_at": "2026-03-16 18:58:25",
-    "ja_summary": "オープンソース活動での燃え尽き症候群を克服するため、無理のない「ゆるい参加」を提唱。\n文書作成や翻訳などの小規模な貢献を通じ、自身のペースで活動を再開する方法を解説。\n持続可能なコミュニティ構築に向け、個人のリカバリーと環境改善の知見を共有する。"
-  },
-  {
-    "title": "AIの混乱を乗り切るための投資方法。3000人以上の富裕層顧客を持つ、資産運用マネージャーが語る",
-    "link": "https://www.businessinsider.jp/article/2603-how-wealthy-invest-navigate-stock-market-volatility-ai-peter-mallouk/",
-    "source": "Business Insider Japan",
-    "published": "Mon, 16 Mar 2026 08:30:00 GMT",
-    "summary": "AIがさまざまな業界に変革的な影響を与えるなか、顧客がかつてないほど分散を進めていると、ウェルスマネジメント会社CEOのピーター・マローク氏は言います。分散を一段と進め、頻繁な入替を避けるよう忠告しています。",
-    "image": "https://media.loom-app.com/loom/2026/02/27/e1a93fe2-2238-4326-a1b4-077451162b27/original.jpg?w=1200&amp;h=630",
-    "fetched_at": "2026-03-16 17:47:02",
-    "ja_summary": "・AI革命の波に乗るため、資産の分散投資をより一層強化すること\n・短期的な変動に惑わされず、頻繁な銘柄の入れ替えは控える\n・長期的な視点で市場の変化に対応する姿勢が重要である"
-  },
-  {
-    "title": "Anthropic acquires Vercept to advance Claude's computer use capabilities",
-    "link": "https://www.anthropic.com/news/acquires-vercept",
-    "source": "Anthropic (News)",
-    "published": "Wed, 25 Feb 2026 00:00:00 +0000",
-    "summary": "Anthropic acquires Vercept to advance Claude's computer use capabilities",
-    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Node%20Cursor&amp;backgroundColor=coral",
-    "fetched_at": "2026-03-16 17:47:23",
-    "ja_summary": "・AnthropicがAIモデル「Claude」のPC操作機能強化を目的にVerceptを買収。\n・PC画面上の操作をAIが直接実行する「Computer Use」技術の向上を目指す。\n・AIによる業務自動化や生産性向上の取り組みを加速させる狙い。"
   }
 ]
