@@ -1,5 +1,25 @@
 [
   {
+    "title": "日産、E2Eロボタクシーで「水平分業」　ウーバー・NVIDIAと対テスラ",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03367/031400018/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "日産がウーバーとエヌビディアと組み、E2E自動運転でテスラの対抗軸をつくる。2026年後半にも東京でロボタクシーの試験を始めると発表した。AIモデルから配車サービスまで自前で手掛ける垂直統合型のテスラに対し、日産は複数の専門企業が組む水平分業型の枠組みを打ち出す。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03367/031400018/topm.jpg?20220512",
+    "fetched_at": "2026-03-19 07:57:05",
+    "ja_summary": "・日産がウーバー、エヌビディアと組み、自動運転タクシー事業でテスラに対抗。\n・AI技術から配車まで専門企業が連携する「水平分業」モデルを構築。\n・2026年後半より東京で試験運用を開始する予定。"
+  },
+  {
+    "title": "ラバブル幹部、「最大の脅威はOpenAIやアンソロピックのような業界のビッグプレイヤー」",
+    "link": "https://www.businessinsider.jp/article/2603lovable-growth-exec-openai-anthropic-competition-cursor-replit-vibe-coding/",
+    "source": "Business Insider Japan",
+    "published": "Wed, 18 Mar 2026 22:30:00 GMT",
+    "summary": "ラバブルのヴェーナ氏は、主な競合はコーディング系スタートアップではなく大手テック企業だと述べています。研究機関の強いディストリビューション能力が理由で、ARRは1カ月で30％増加しました。",
+    "image": "https://media.loom-app.com/loom/2026/03/17/d90e3291-d45e-4ac5-8631-764e09a90b83/original.jpg?w=1200&amp;h=630",
+    "fetched_at": "2026-03-19 07:57:11",
+    "ja_summary": "・ラバブルは、競合を他スタートアップではなくOpenAI等の大手テック企業と定義。\n・大手企業が持つ強力な販路（ディストリビューション）を最大の脅威と見なしている。\n・強固な競争環境下でも成長は続いており、月次経常収益（ARR）は1カ月で30％増加。"
+  },
+  {
     "title": "非エンジニアでも簡単！　ChatGPT「Canvas」で便利なアプリを作成する方法【今すぐ使えるプロンプト紹介】",
     "link": "https://www.itmedia.co.jp/business/articles/2603/18/news025.html",
     "source": "ITmedia ビジネス",
@@ -978,25 +998,5 @@
     "image": "https://assets.st-note.com/production/uploads/images/256315123/rectangle_large_type_2_87f9d61de13814379364ac8c9b9933da.png?width=800",
     "fetched_at": "2026-03-18 07:51:45",
     "ja_summary": "・OpenAIが新モデル「GPT-5.3 Instant」を発表。\n・処理速度が向上し、よりスムーズで自然な日常会話に対応。\n・応答性能の改善により、日常的なタスクの利便性が大幅に向上。"
-  },
-  {
-    "title": "GPTのReact習熟度も測る",
-    "link": "https://zenn.dev/uhyo/articles/react-profession-bench-2",
-    "source": "Zenn Trends",
-    "published": "Tue, 17 Mar 2026 03:27:15 GMT",
-    "summary": "以下の記事の続きです。前回の記事ではClaude Codeの3つのモデルに対してReactの習熟度を測るベンチマークを行いましたが、今回はGPT-4.1とGPT-5.4に対して同じ評価を行いました。\nなお、筆者はCodexを使っていないので、GitHub Copilot CLIを介してこれらのモデルを使用しています。\nベンチマークの設定については前回の記事をご覧ください。\nhttps://zenn.dev/uhyo/articles/react-profession-bench-1\n\n 結果\n\n\n\nスペック\nSonnet\nOpus\nHaiku\nGPT-4.1\nGPT-5.4\n\n\n\n\n00...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--pZ5OdXzv--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:GPT%25E3%2581%25AEReact%25E7%25BF%2592%25E7%2586%259F%25E5%25BA%25A6%25E3%2582%2582%25E6%25B8%25AC%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:uhyo%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzVjYjFlMDJlNGQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-    "fetched_at": "2026-03-18 07:52:09",
-    "ja_summary": "・Claudeに続き、GPT-4.1とGPT-5.4のReact習熟度をベンチマーク評価した。\n・GitHub Copilot CLIを介して各モデルの性能を比較・検証。\n・前回実施したClaudeの各モデルと並び、GPT系モデルのコーディング能力を測定した。"
-  },
-  {
-    "title": "AIコードレビューを「単一責任の原則」で育てた話",
-    "link": "https://zenn.dev/globis/articles/d0c73d2b176ba5",
-    "source": "Zenn Trends",
-    "published": "Tue, 17 Mar 2026 00:42:42 GMT",
-    "summary": "はじめに\nこんにちは！グロービスのDevEx（Developer Experience）チームに所属するemi084です。\nAIコードレビューを導入したものの、「的外れな指摘が多い」「レビュー品質が安定しない」と感じることはありませんか？\n私たちも最初は的外れな指摘が何件も飛んできて、チームメンバーがAIレビューを無視し始める問題が発生してしまいました。\nこの記事では、私たちのチームがその課題を「単一責任の原則をAIにも適用する」という発想で乗り越えてきた実践例を紹介します。観点ごとにエージェントを分割し、過去の失敗パターンをナレッジとして教え込むことで、AIレビュワーを「チームの一...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--lNV_XHIe--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2589%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25E3%2582%2592%25E3%2580%258C%25E5%258D%2598%25E4%25B8%2580%25E8%25B2%25AC%25E4%25BB%25BB%25E3%2581%25AE%25E5%258E%259F%25E5%2589%2587%25E3%2580%258D%25E3%2581%25A7%25E8%2582%25B2%25E3%2581%25A6%25E3%2581%259F%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:emi084%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzJkZmVkY2VkZTAuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:GLOBIS%2520Tech%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzMxMmEyZDhkNjAuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-    "fetched_at": "2026-03-18 07:52:10",
-    "ja_summary": "・AIコードレビューの的外れな指摘や品質の不安定さに直面し、利用離れという課題が発生した。\n・「単一責任の原則」に基づき、観点別にAIエージェントを分割することで専門性を高めた。\n・過去の失敗をナレッジとして学習させ、精度の高い信頼できるレビュワーへと改善した。"
   }
 ]
