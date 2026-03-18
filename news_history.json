@@ -1,5 +1,35 @@
 [
   {
+    "title": "アップル『AirPods Max 2』発表。「最大1.5倍効果的」なノイズキャンセルなど新機能多数",
+    "link": "https://www.techno-edge.net/article/2026/03/17/4932.html",
+    "source": "TechnoEdge",
+    "published": "Tue, 17 Mar 2026 10:31:50 +0900",
+    "summary": "アップルが、オーバーヘッド型ヘッドホンの新製品「AirPods Max 2」を発表しました。",
+    "image": "https://www.techno-edge.net/imgs/rss/30418.jpg",
+    "fetched_at": "2026-03-18 14:41:12",
+    "ja_summary": "・Appleがヘッドホン「AirPods Max 2」を発表。\n・ノイズキャンセリング性能が最大1.5倍に向上。\n・多数の新機能を搭載し、利便性を強化。"
+  },
+  {
+    "title": "Everything Claude Code を眺める",
+    "link": "https://speakerdeck.com/oikon48/every-claude-code-wotiao-meru",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-03-16T22:45:58-04:00",
+    "summary": "X: https://x.com/oikon48\n\nEvent link: https://offers-jp.connpass.com/event/385385/\n\nEverything Claude Code: https://github.com/affaan-m/everything-claude-code",
+    "image": "https://files.speakerdeck.com/presentations/73f4cc6aeb1e49ff91e4e011c562c2a5/preview_slide_0.jpg?38757592",
+    "fetched_at": "2026-03-18 14:41:21",
+    "ja_summary": "AIエージェント「Claude Code」の活用事例や技術スタックを網羅的にまとめたプロジェクト「Everything Claude Code」が公開された。\n開発者がClaude Codeを効率的に導入・運用するための知見が集約されており、実践的なリソースとして活用できる。\n詳細はGitHubリポジトリや関連イベントページから確認可能。"
+  },
+  {
+    "title": "Bits AI SRE と Datadog MCP Server による未来 / datadog-bits-ai-sre-and-mcp-server-feature",
+    "link": "https://speakerdeck.com/parupappa2929/datadog-bits-ai-sre-and-mcp-server-feature",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-03-16T21:38:27-04:00",
+    "summary": "",
+    "image": "https://files.speakerdeck.com/presentations/4980286f7dbf429db223d6954304449b/preview_slide_0.jpg?38757185",
+    "fetched_at": "2026-03-18 14:41:21",
+    "ja_summary": "Datadogは、AIエージェント「Bits AI SRE」と「MCP Server」の連携を発表しました。\nこの連携により、LLMがDatadogのデータや操作に直接アクセス可能となり、障害調査や運用効率が大幅に向上します。\nエンジニアは対話形式で迅速な分析や自動対応が可能になり、運用作業の高度化が期待されます。"
+  },
+  {
     "title": "市場わずか10％の「すっぱい梅干し」で勝負　創業2年で黒字化した梅農家が、AIで挑む農業改革",
     "link": "https://www.itmedia.co.jp/business/articles/2603/17/news014.html",
     "source": "ITmedia ビジネス",
@@ -968,35 +998,5 @@
     "image": "https://japan.cnet.com/storage/2026/03/17/d594e75092d7cf504f92900a784cc310/t/184/138/d/meta-ai-logo-gettyimages-2257784061_1280x960.jpg",
     "fetched_at": "2026-03-17 14:18:58",
     "ja_summary": "・Metaが全従業員の約20％を削減する大規模な人員整理を計画中。\n・ロイター通信の独占取材により、計画の詳細が報じられた。"
-  },
-  {
-    "title": "中国の動画生成AI「Seedance 2.0」、世界展開が延期か　トム・クルーズの偽動画など拡散",
-    "link": "https://japan.cnet.com/article/35245124/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "中国の字節跳動（バイトダンス）はAI動画生成モデル「Seedance 2.0」の世界展開を延期していると、The Informationが報じた。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35245124/\"><img src=\"https://japan.cnet.com/storage/2026/03/17/4694d33e60c2cde3627b0ba2469784cb/t/184/138/d/gettyimages-2261149862_1280x960.jpg\" /></a>",
-    "image": "https://japan.cnet.com/storage/2026/03/17/4694d33e60c2cde3627b0ba2469784cb/t/184/138/d/gettyimages-2261149862_1280x960.jpg",
-    "fetched_at": "2026-03-17 14:18:58",
-    "ja_summary": "・バイトダンスの動画生成AI「Seedance 2.0」の世界展開が延期された。\n・著名人を模倣した偽動画が拡散するなど、悪用リスクが懸念されている。\n・安全性の確保を優先し、展開のタイミングを見直している可能性がある。"
-  },
-  {
-    "title": "レッツノートに初の「Copilot+ PC」--管理負担を激減させる「互換性」戦略とは",
-    "link": "https://japan.zdnet.com/article/35245096/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "パナソニック コネクトは、レッツノート初の「Copilot+ PC」となる新モデル「SC7」「FC7」「NC7」を発表した。「頑丈・軽量・長時間」を追求するとともに内部のハードやソフトの「互換性」を徹底し、複数サイズを導入しても、管理の運用負担を劇的に削減する戦略を打ち出した。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35245096/\"><img src=\"https://japan.zdnet.com/storage/2026/03/16/c246aeb9491768048a63bd21146ea9f4/t/184/138/d/260316_panasonicc_l.jpg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2026/03/16/c246aeb9491768048a63bd21146ea9f4/t/184/138/d/260316_panasonicc_l.jpg",
-    "fetched_at": "2026-03-17 14:19:15",
-    "ja_summary": "・パナソニックがレッツノート初の「Copilot+ PC」新モデルを発表。\n・「頑丈・軽量・長時間」に加え、ハード・ソフトの互換性を徹底。\n・複数サイズの導入でも運用管理の負担を大幅に削減する戦略へ。"
-  },
-  {
-    "title": "Wayfair boosts catalog accuracy and support speed with OpenAI",
-    "link": "https://openai.com/index/wayfair",
-    "source": "OpenAI",
-    "published": "Wed, 11 Mar 2026 11:00:00 GMT",
-    "summary": "Wayfair uses OpenAI models to improve ecommerce support and product catalog accuracy, automating ticket triage and enhancing millions of product attributes at scale.",
-    "image": "https://openai.com/favicon.ico",
-    "fetched_at": "2026-03-17 14:19:20",
-    "ja_summary": "・WayfairがOpenAIのAIモデルを導入し、ECサイトの顧客対応と商品カタログの精度を向上\n・問い合わせ対応の自動化によりサポート速度を改善\n・数百万件の商品属性の自動更新により、カタログ情報の正確性を効率的に強化"
   }
 ]
