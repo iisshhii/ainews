@@ -1,5 +1,65 @@
 [
   {
+    "title": "なぜ極寒の宇宙にデータセンターを置くと「冷えない」が課題となるのか--NVIDIAのCEOも言及",
+    "link": "https://japan.cnet.com/article/35245196/",
+    "source": "CNET Japan",
+    "published": "",
+    "summary": "米NVIDIAのジェンスン・フアンCEOは、米カリフォルニア州サンノゼで開催した同社イベント「GTC」の基調講演で、軌道上AIデータセンターの実現に向けた構想に言及したが、課題として挙げたのは「冷却」だった。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35245196/\"><img src=\"https://japan.cnet.com/storage/2026/03/18/0373247877f11786b310d5b226e149da/t/184/138/d/gettyimages-2266458844__1_.jpeg\" /></a>",
+    "image": "https://japan.cnet.com/storage/2026/03/18/0373247877f11786b310d5b226e149da/t/184/138/d/gettyimages-2266458844__1_.jpeg",
+    "fetched_at": "2026-03-18 16:41:11",
+    "ja_summary": "・NVIDIAのフアンCEOが宇宙空間でのAIデータセンター構想を発表。\n・真空の宇宙では熱を逃がす空気がないため、機器の「冷却」が最大の技術的課題となる。\n・極寒の環境でも熱移動の仕組みが確保できないことが、宇宙利用の障壁となっている。"
+  },
+  {
+    "title": "米テック大手7社、オープンソースセキュリティに1250万ドルを助成",
+    "link": "https://japan.zdnet.com/article/35245203/",
+    "source": "ZDNET Japan",
+    "published": "",
+    "summary": "AnthropicとAWS、GitHub、Google、DeepMind、Microsoft、OpenAIは、オープンソースのセキュリティ強化を目的に、Linux Foundationに共同で1250万ドルを助成した。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35245203/\"><img src=\"https://japan.zdnet.com/storage/2026/03/18/ae3f9e153649cbfd00460253f8685920/t/184/138/d/LF-SEC.jpg\" /></a>",
+    "image": "https://japan.zdnet.com/storage/2026/03/18/ae3f9e153649cbfd00460253f8685920/t/184/138/d/LF-SEC.jpg",
+    "fetched_at": "2026-03-18 16:41:22",
+    "ja_summary": "・米テック大手7社（Google、Microsoft、OpenAI等）が、オープンソースのセキュリティ強化に1,250万ドルを共同出資。\n・Linux Foundationを通じて、ソフトウェアの脆弱性対策や安全な開発環境の整備を支援。\n・主要テック企業が協力し、基盤技術の信頼性とサイバーセキュリティを向上させる狙い。"
+  },
+  {
+    "title": "Rakuten fixes issues twice as fast with Codex",
+    "link": "https://openai.com/index/rakuten",
+    "source": "OpenAI",
+    "published": "Wed, 11 Mar 2026 13:00:00 GMT",
+    "summary": "Rakuten uses Codex, the coding agent from OpenAI, to ship software faster and safer, reducing MTTR 50%, automating CI/CD reviews, and delivering full-stack builds in weeks.",
+    "image": "https://openai.com/favicon.ico",
+    "fetched_at": "2026-03-18 16:41:24",
+    "ja_summary": "・楽天がOpenAIの「Codex」を導入し、ソフトウェア開発を高速化。\n・障害対応時間（MTTR）を50%削減し、CI/CDレビューの自動化を実現。\n・フルスタック開発期間を数週間に短縮し、開発の安全性と効率を大幅に向上。"
+  },
+  {
+    "title": "Designing AI agents to resist prompt injection",
+    "link": "https://openai.com/index/designing-agents-to-resist-prompt-injection",
+    "source": "OpenAI",
+    "published": "Wed, 11 Mar 2026 11:30:00 GMT",
+    "summary": "How ChatGPT defends against prompt injection and social engineering by constraining risky actions and protecting sensitive data in agent workflows.",
+    "image": "https://openai.com/favicon.ico",
+    "fetched_at": "2026-03-18 16:41:24",
+    "ja_summary": "・ChatGPTはAIエージェントへの攻撃を防ぐため、リスクの高い行動を制限し機密情報を保護する仕組みを構築している。\n・プロンプトインジェクションやソーシャルエンジニアリングに対する防御策を強化。\n・AIエージェントの安全なワークフロー運用のためのセキュリティ設計手法を解説。"
+  },
+  {
+    "title": "Claude Code 知らないと損する隠しコマンド・時短術 20選",
+    "link": "https://qiita.com/miruky/items/48ede59ebe33b4b774ac",
+    "source": "Qiita (Popular)",
+    "published": "2026-03-16T16:37:31+09:00",
+    "summary": "## はじめに\n\nこんばんは、mirukyです。\nClaude Codeを使っていて、こんな経験はありませんか？\n\n- 毎回同じ操作を手動で繰り返している\n- もっと速くできるはずなのにやり方がわからない\n- 公式ドキュメントが膨大すぎて追いきれない\n\n本記事では、**公式ドキュメント・changelog（v2.1.76まで）を徹底的に調査**し、意外と知られていない隠しコマンド・裏技を **難易",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGMzYzNzIwNCUyRnByb2ZpbGUtaW1hZ2VzJTJGMTc3MjI4Njk1OT9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NjIyN2I1MTA1MTI4Zjk4NjQ3NzIxMWVkNmQzMzQ5NGY%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Dcf8a609748dabb40bb53ee930510b32b?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9Q2xhdWRlJTIwQ29kZSUyMCVFNyU5RiVBNSVFMyU4MiU4OSVFMyU4MSVBQSVFMyU4MSU4NCVFMyU4MSVBOCVFNiU5MCU4RCVFMyU4MSU5OSVFMyU4MiU4QiVFOSU5QSVBMCVFMyU4MSU5NyVFMyU4MiVCMyVFMyU4MyU5RSVFMyU4MyVCMyVFMyU4MyU4OSVFMyU4MyVCQiVFNiU5OSU4MiVFNyU5RiVBRCVFOCVBMSU5MyUyMDIwJUU5JTgxJUI4JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9N2M2MjYxZjZiMjE0ZmZiYTNhZmIwNzk5OWQ2ZTY2MTI&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBtaXJ1a3kmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1iMWMwZjM0MGFkNTI5NmU1ZmNjNDFiZDQxMGY0YWRjYw&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=712843e55d1af09106b1c58eb30adad1",
+    "fetched_at": "2026-03-18 16:41:38",
+    "ja_summary": "・Claude Codeの公式情報を網羅し、作業効率を劇的に高める隠しコマンドや時短術20選を解説。\n・手動作業の自動化や裏技の活用により、開発現場の生産性を向上させるノウハウを紹介。\n・膨大なドキュメントを確認する手間を省き、即戦力となるテクニックを効率的に習得可能。"
+  },
+  {
+    "title": "Claude Code Skills 完全活用ガイド 2026 — 個人最適化からチーム展開まで",
+    "link": "https://qiita.com/nogataka/items/ad9995fb1b3db7055740",
+    "source": "Qiita (Popular)",
+    "published": "2026-03-12T21:53:59+09:00",
+    "summary": "\n## はじめに\n\n2026年3月現在、Claude Code Skillsに関するはてなブックマークが爆発的に伸びている。[クラスメソッドの入門記事が783users](https://dev.classmethod.jp/articles/claude-code-skills-for-cloud-bu-consulting-members/)、[Anthropic公式講座の解説が763user",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYxNjEyOTglMkZjMWUzZmZkNmVhZGExOTY5ZmYzYzQ0YjE0ZmRlMDgxYmNkZTZmNTAwJTJGeF9sYXJnZS5wbmclM0YxNTg0ODQ1NTg0P2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz00ZGRjZmU5NTFjNTMyMzU3NjcyOGUzOTkyOTNmOGRlNQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D246367bff431168e6212d2602a3df494?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9Q2xhdWRlJTIwQ29kZSUyMFNraWxscyUyMCVFNSVBRSU4QyVFNSU4NSVBOCVFNiVCNCVCQiVFNyU5NCVBOCVFMyU4MiVBQyVFMyU4MiVBNCVFMyU4MyU4OSUyMDIwMjYlMjAlRTIlODAlOTQlMjAlRTUlODAlOEIlRTQlQkElQkElRTYlOUMlODAlRTklODElQTklRTUlOEMlOTYlRTMlODElOEIlRTMlODIlODklRTMlODMlODElRTMlODMlQkMlRTMlODMlQTAlRTUlQjElOTUlRTklOTYlOEIlRTMlODElQkUlRTMlODElQTcmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1mZjVhMjcxMGIxNmE3ZGM1MGM1MzYxODU4OTdjODQzZA&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBub2dhdGFrYSZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWE5ODA4YTE0Zjg4Y2I0ZjQ5OWU2ZDA3NGYyY2E2YTNh&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=e896c87358b054a50f75ab371624f55d",
+    "fetched_at": "2026-03-18 16:41:39",
+    "ja_summary": "・2026年3月現在、AIコーディング支援機能「Claude Code Skills」がエンジニア界隈で急速に普及・注目を集めている。\n・個人開発の効率化から組織単位での展開まで、実務での活用ノウハウが広く共有されている。\n・公式解説や技術ブログを通じて、開発現場への導入と最適化が急速に進んでいる状況。"
+  },
+  {
     "title": "ChatGPT訓練にコンテンツを無断使用、OpenAIをブリタニカとウェブスターが提訴",
     "link": "https://japan.cnet.com/article/35245197/",
     "source": "CNET Japan",
@@ -938,65 +998,5 @@
     "image": "https://www.techno-edge.net/imgs/rss/30324.jpg",
     "fetched_at": "2026-03-17 16:40:43",
     "ja_summary": "・生成AIグラビア制作における「ComfyUI」の複雑な画面を、App modeで操作しやすく整理する手法を解説。\n・画像・動画生成の仕組みにおけるテキストエンコーダーへのLLM導入など、最新の技術動向に触れる。\n・プロカメラマンの視点で、効率化と新しい表現の可能性を追求する連載第62回。"
-  },
-  {
-    "title": "エンジニアがChatGPTを使いこなせていないかもしれない話",
-    "link": "https://qiita.com/kamome_susume/items/e80b763797d073815710",
-    "source": "Qiita (Popular)",
-    "published": "2026-03-09T19:04:15+09:00",
-    "summary": "突然ですが、こんな気持ちになったことありませんか？\n\n「ChatGPTって、なんとなく一般向けのツールっぽいんだよな」\n\n「文章を書いてもらうくらいなら、Copilotで十分じゃない？」「API直接叩いた方がカスタマイズできるし」\n\nエンジニアあるあるだと思います。APIが使えるからこそ、**ChatGPTの公式UIをじっくり触ったことがない**という方、意外と多いんじゃないでしょうか。\n\nこの記",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYxNjkzMjQ4JTJGZDhlMmU1OWNiMDVmY2Y3MDQ3ZDgyN2ZjNDlkNDAwMTkzZTU5NDdjOSUyRnhfbGFyZ2UucG5nJTNGMTY4NjMxODg1ND9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9ZDRiNjcyYjg4ZWUxYTRkNjI1ZDRjOGFkMzVkMzQ5NjI%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Ddc9a014e564257547b64353543c58776?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgyJUE4JUUzJTgzJUIzJUUzJTgyJUI4JUUzJTgzJThCJUUzJTgyJUEyJUUzJTgxJThDQ2hhdEdQVCVFMyU4MiU5MiVFNCVCRCVCRiVFMyU4MSU4NCVFMyU4MSU5MyVFMyU4MSVBQSVFMyU4MSU5QiVFMyU4MSVBNiVFMyU4MSU4NCVFMyU4MSVBQSVFMyU4MSU4NCVFMyU4MSU4QiVFMyU4MiU4MiVFMyU4MSU5NyVFMyU4MiU4QyVFMyU4MSVBQSVFMyU4MSU4NCVFOCVBOSVCMSZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTAxNjg3NTliZWIxMWZjM2M2ZTQ2NWRkN2Y1NDEyNWMx&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBrYW1vbWVfc3VzdW1lJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9ZGRiZTIzN2VhYmFmZjQ1YThiNWYzYWQyMWVhNzMzOTI&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=da92f3629a2cc4984b22934dd1eec179",
-    "fetched_at": "2026-03-17 16:41:08",
-    "ja_summary": "多くのエンジニアは「API利用が最適」と考え、ChatGPTの公式UIを使いこなせていない。\n公式UIにはAPI利用とは異なる利便性や活用法が隠されている可能性がある。\n技術者こそ、既存の固定観念を捨てて最新の公式ツールを深掘りすべきである。"
-  },
-  {
-    "title": "Unity MCP + CodexでAIにUnityを操作させてキャラクターを踊らせてみた",
-    "link": "https://qiita.com/kumi0708/items/e4e5d864219d1693d0d2",
-    "source": "Qiita (Popular)",
-    "published": "2026-03-06T16:24:18+09:00",
-    "summary": "\n# \nUnityの **AI Assistant v2.0.0-pre.1** から、\n**Unity MCP（Model Context Protocol）** が使えるようになりました。\n\nMCPを使うと、AIからUnity Editorを操作できるようになります。\n\n今回は\n\n* Codex CLI\n* Unity MCP\n\nを使って、**AIにUnityを操作させてキャラクターを踊らせる",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYzNzA2OCUyRmE1ZWFjNTdjMmFjZDNjOTA4NWE4NGNhM2NiNWJkYmUzYTc4Mzk5N2IlMkZ4X2xhcmdlLnBuZyUzRjE2MzI3NDMwNjk_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPTZiM2ZjZjM4ZmVlZWU4MGM1Zjk4NjFjNTdkOWM0N2My%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3De9037f0c99748fc54bb4edbd80a7b7e2?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9VW5pdHklMjBNQ1AlMjAlMkIlMjBDb2RleCVFMyU4MSVBN0FJJUUzJTgxJUFCVW5pdHklRTMlODIlOTIlRTYlOTMlOEQlRTQlQkQlOUMlRTMlODElOTUlRTMlODElOUIlRTMlODElQTYlRTMlODIlQUQlRTMlODMlQTMlRTMlODMlQTklRTMlODIlQUYlRTMlODIlQkYlRTMlODMlQkMlRTMlODIlOTIlRTglQjglOEElRTMlODIlODklRTMlODElOUIlRTMlODElQTYlRTMlODElQkYlRTMlODElOUYmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz0yZTQ4ZDgwYzMzOWQ2MDA1MTBhNjY0OWZjMTRmMzkyMA&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBrdW1pMDcwOCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWRlOTkxY2M4ZjNjYTAzOGIzZGNkMmIwYTg5NTRjNDMz&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=5a3aaddaf9c1d7bd5b14cb8790cfaeaa",
-    "fetched_at": "2026-03-17 16:41:08",
-    "ja_summary": "Unityの最新AI機能「MCP」を活用し、AIがUnity Editorを直接操作してキャラクターを動かすデモが実現。\nAIへの指示だけでエディタ上の操作が自動化され、開発効率の向上が期待できる。\nCodex CLIとMCPを組み合わせることで、複雑なプログラミング作業をAIに代替させる新手法。"
-  },
-  {
-    "title": "NVIDIA、AI向けCPU「Vera」正式発表　GPU中心戦略を拡張",
-    "link": "https://www.watch.impress.co.jp/docs/news/2094049.html",
-    "source": "Impress Watch",
-    "published": "",
-    "summary": "NVIDIAは、エージェント型AIに特化した新CPU「Vera」と、次世代AI基盤「Vera Rubinプラットフォーム」を発表した。従来のGPU中心だった戦略を、CPUやネットワークを含む統合型インフラへと拡張する。",
-    "image": "https://www.watch.impress.co.jp/img/ipw/list/2094/049/nvidia01.jpg",
-    "fetched_at": "2026-03-17 15:37:38",
-    "ja_summary": "・NVIDIAがAI特化型の新CPU「Vera」と次世代基盤「Vera Rubin」を発表。\n・従来のGPU主導から、CPUやネットワークを統合した包括的なインフラ戦略へ移行。\n・エージェント型AIの普及を見据え、システム全体の処理能力を大幅に拡張する。"
-  },
-  {
-    "title": "Okta、AIエージェントの不正アクセスを防ぐ新基盤",
-    "link": "https://www.watch.impress.co.jp/docs/news/2094028.html",
-    "source": "Impress Watch",
-    "published": "",
-    "summary": "アイデンティティ管理サービスを提供するOktaは、企業の安全なAIエージェント運用を支援する新プラットフォーム「Okta for AI Agents」および「Auth0 for AI Agents」の機能拡張を発表した。",
-    "image": "https://www.watch.impress.co.jp/img/ipw/list/2094/028/01.jpg",
-    "fetched_at": "2026-03-17 15:37:39",
-    "ja_summary": "・OktaがAIエージェントの安全な運用を支援する新プラットフォームを発表。\n・AIによる不正アクセスを防ぎ、認証基盤を強化する機能を拡張。\n・企業が安心してAIエージェントを活用できる環境を提供する。"
-  },
-  {
-    "title": "パナソニック コネクト、インテル、MSが語る「AIと人間の未来」--AI時代における人間の価値とは",
-    "link": "https://japan.zdnet.com/article/35245135/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "パナソニック コネクトの「レッツノート」発表会にて、同社の樋口泰行プレジデント、インテルの大野誠社長、日本マイクロソフトの津坂美樹社長によるトークセッションが開催された。テーマは「AIが人間の作業をどこまで担い、どこで人間が価値を発揮するのか」。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35245135/\"><img src=\"https://japan.zdnet.com/storage/2026/03/17/b28455df2e17b02c18d1d20403f6cf10/t/184/138/d/260316_panasonicc_12_k.jpg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2026/03/17/b28455df2e17b02c18d1d20403f6cf10/t/184/138/d/260316_panasonicc_12_k.jpg",
-    "fetched_at": "2026-03-17 15:37:57",
-    "ja_summary": "パナソニック、インテル、日本マイクロソフトのトップが「AI時代の人間価値」を議論。\nAIが効率化を担う中で、人間は創造性や最終的な判断といった「独自の付加価値」に注力すべきと指摘。\n技術活用による生産性向上と、人間が担うべき役割の再定義が今後の競争力になると示唆した。"
-  },
-  {
-    "title": "Anthropic、好調なClaude人気にピーク時以外の使用量2倍キャンペーン開始。週末は終日2倍",
-    "link": "https://www.techno-edge.net/article/2026/03/16/4928.html",
-    "source": "TechnoEdge",
-    "published": "Mon, 16 Mar 2026 10:10:30 +0900",
-    "summary": "Anthropicは、AIチャットボットClaudeの人気の高まりを受けて、2週間の期間限定でピーク時間帯を除くすべての時間において、ユーザーの使用量割り当てを2倍に増量するキャンペーンを開始しました。",
-    "image": "https://www.techno-edge.net/imgs/rss/30383.jpg",
-    "fetched_at": "2026-03-17 15:37:58",
-    "ja_summary": "・AnthropicがAI「Claude」の使用量上限を2週間限定で2倍に引き上げ。\n・ピーク時以外は常時、週末は終日2倍の割り当てが可能。\n・人気の高まりに伴うユーザーの利便性向上を目的とした施策。"
   }
 ]
