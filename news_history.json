@@ -1,5 +1,35 @@
 [
   {
+    "title": "パナソニック、レッツノート初のCopilot+ PC「SC7」「FC7」「NC7」--30年目で全面刷新",
+    "link": "https://japan.cnet.com/article/35245098/",
+    "source": "CNET Japan",
+    "published": "",
+    "summary": "パナソニック コネクトが法人向けノートPC「レッツノート」の新モデル3機種を発表。SC7/FC7/NC7の3機種は内部ハードウェアからBIOSまで共通化し、バッテリーパックも同一品で使い回せる設計を採用。企業のIT管理者は導入評価工数を約53％、運用管理工数を約33％削減できるという。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35245098/\"><img src=\"https://japan.cnet.com/storage/2026/03/16/9d728ee1300bb86e019d646658b406f3/t/184/138/d/01.jpg\" /></a>",
+    "image": "https://japan.cnet.com/storage/2026/03/16/9d728ee1300bb86e019d646658b406f3/t/184/138/d/01.jpg",
+    "fetched_at": "2026-03-18 20:25:49",
+    "ja_summary": "パナソニックがレッツノート初のCopilot+ PC「SC7」「FC7」「NC7」を発表。\n内部設計やパーツを共通化し、バッテリーも全機種で使い回せる新設計を採用。\n導入・管理工数を大幅に削減し、企業のIT運用効率を最大化する。"
+  },
+  {
+    "title": "Claude Codeでのふるまいから隠れたSkillを見つける",
+    "link": "https://zenn.dev/chigichan24/articles/eed4a60d102997",
+    "source": "Zenn Trends",
+    "published": "Tue, 17 Mar 2026 19:23:43 GMT",
+    "summary": "はじめに\n!\n前置きとして、この記事では Claude Code を LLM Agent の一例として扱います。\nただし、ここで述べる考え方自体は Claude Code 固有のものではなく、他の Agent 的な開発体験にも応用できると思っています。\n\nLLM Agent を日常的に使っていると、だんだん「毎回似たような作業をしているな」と感じることがあります。そしてその先で、多くの人が一度はこう考えるはずです。\n\n自分が繰り返している作業パターンを見つけて、Skill として再利用できないだろうか？\n\nただ、実際にやろうとすると意外と難しいです。なぜなら、Skill を作る前に、...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--r1cIDaps--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%25E3%2581%25A7%25E3%2581%25AE%25E3%2581%25B5%25E3%2582%258B%25E3%2581%25BE%25E3%2581%2584%25E3%2581%258B%25E3%2582%2589%25E9%259A%25A0%25E3%2582%258C%25E3%2581%259FSkill%25E3%2582%2592%25E8%25A6%258B%25E3%2581%25A4%25E3%2581%2591%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:chigichan24%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2U1ODg0MTU2ODkuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-03-18 20:26:18",
+    "ja_summary": "LLMエージェント利用時に繰り返される作業を、再利用可能な「スキル」として抽出する手法を解説。\n作業の暗黙知を言語化し、構造化することで、効率的な自動化やプロセスの改善が可能になる。\nClaude Codeに限らず、あらゆる開発支援AIの活用に応用できる汎用的なアプローチである。"
+  },
+  {
+    "title": "DGX SparkでNemoClawをローカル実行",
+    "link": "https://zenn.dev/karaage0703/articles/8bf663501cd4bc",
+    "source": "Zenn Trends",
+    "published": "Tue, 17 Mar 2026 14:11:41 GMT",
+    "summary": "NVIDIAがGTC 2026で発表したNemoClawを、DGX Spark上でローカルLLM（Ollama + Nemotron）だけで動かしてみました。APIキーなし、ローカル環境で動かしています。\nこの記事では、セットアップ手順をまとめます。\n\n NemoClawとは\nNemoClawは、AIエージェントをサンドボックス環境で安全に実行するためのオープンソースツールです。\n3つのコンポーネントで構成されています（AIを使って調査、AIと議論して作成しました）:\n\n\n\nコンポーネント\n役割\n\n\n\n\nNemoClaw\nセットアップCLI。ゲートウェイ起動・サンドボックス作成・推論設定...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--JEWfthns--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:DGX%2520Spark%25E3%2581%25A7NemoClaw%25E3%2582%2592%25E3%2583%25AD%25E3%2583%25BC%25E3%2582%25AB%25E3%2583%25AB%25E5%25AE%259F%25E8%25A1%258C%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%258B%25E3%2582%2589%25E3%2581%2582%25E3%2581%2592%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2hDZEtvakJfZXdDTjNCV1Z0WXIteFNIZ0hmRjlXZmt3QzI5c0Y0aXYwPXMyNTAtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-03-18 20:26:18",
+    "ja_summary": "・NVIDIAのAIエージェント実行環境「NemoClaw」を、DGX Spark上でローカル環境（Ollama＋Nemotron）のみで構築することに成功。\n・APIキー不要で安全に動作するサンドボックス環境を実現。\n・記事では、その具体的なセットアップ手順を解説。"
+  },
+  {
     "title": "Automating my daily information gathering process has given me refreshing mornings.",
     "link": "https://speakerdeck.com/zzzzico/automating-my-daily-information-gathering-process-has-given-me-refreshing-mornings",
     "source": "Speaker Deck (Tech)",
@@ -968,35 +998,5 @@
     "image": "https://xtech.nikkei.com/atcl/nxt/news/24/03140/topm.jpg?20220512",
     "fetched_at": "2026-03-17 19:13:53",
     "ja_summary": "・Oktaが企業内のAIエージェントを検出・管理する新製品「Okta for AI Agents」を発表。\n・野良AI（シャドーAI）の利用を可視化・統制し、企業における安全なAI活用を支援する。\n・早期提供が開始されており、セキュリティリスクの低減とガバナンス強化を実現する。"
-  },
-  {
-    "title": "ドコモ社長 新AIサービスの狙い",
-    "link": "https://news.yahoo.co.jp/pickup/6573308?source=rss",
-    "source": "Yahoo!ニュース IT・科学",
-    "published": "Mon, 16 Mar 2026 04:50:06 GMT",
-    "summary": "",
-    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/16/a7d18b799197691b05369fbac573fb1ad32a626c88066ba21875a4cf9759a5aa.jpg",
-    "fetched_at": "2026-03-17 19:14:12",
-    "ja_summary": "・ドコモは対話型AIサービスを強化し、業務効率化や顧客体験の向上を目指す。\n・生成AIを活用した新サービスで、法人・個人双方のDX推進を加速させる。\n・通信インフラとAIの融合により、新たな収益の柱と付加価値創出を図る。"
-  },
-  {
-    "title": "AI × Pythonで研究が“30秒で終わる”ようになった話 ― データ基盤 → 仮説量産 → 高速検証の時代へ",
-    "link": "https://qiita.com/d94231/items/0bf79993886f7d73a81b",
-    "source": "Qiita (Popular)",
-    "published": "2026-03-14T21:27:08+09:00",
-    "summary": "\n最近、研究の進め方が劇的に変わりました。  \nきっかけは **AIとPythonを本格的に導入したこと**。\n\n昔ながらの  \n「テーマ決め → データ収集 → 分析」  \nという研究フローは、もう完全に過去のものになりました。\n\n今は、\n\n**データ基盤を先に作り、AIで仮説を量産し、Pythonで高速に検証する。**\n\nこの3ステップで研究が“回る”ようになっています。\n\nそして驚くべきこと",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmxoMy5nb29nbGV1c2VyY29udGVudC5jb20lMkZhJTJGQUNnOG9jTEEtTWFZZ3c1ZHA5c2tMV3h5Zk52WTdqZHBkRnZqbDBROEtnZVZQX0pOcUFBdGJROCUzRHM5Ni1jP2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz04MGFhODM2YWZkOGQxOWJhMDAzNTQyYjBlY2Q3NzVkMw%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Db06e5bc9a5760b6694a5bbf99003c27a?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9QUklMjAlQzMlOTclMjBQeXRob24lRTMlODElQTclRTclQTAlOTQlRTclQTklQjYlRTMlODElOEMlRTIlODAlOUMzMCVFNyVBNyU5MiVFMyU4MSVBNyVFNyVCNSU4MiVFMyU4MiU4RiVFMyU4MiU4QiVFMiU4MCU5RCVFMyU4MiU4OCVFMyU4MSU4NiVFMyU4MSVBQiVFMyU4MSVBQSVFMyU4MSVBMyVFMyU4MSU5RiVFOCVBOSVCMSUyMCVFMiU4MCU5NSUyMCVFMyU4MyU4NyVFMyU4MyVCQyVFMyU4MiVCRiVFNSU5RiVCQSVFNyU5QiVBNCUyMCVFMiU4NiU5MiUyMCVFNCVCQiVBRSVFOCVBQSVBQyVFOSU4NyU4RiVFNyU5NCVBMyUyMCVFMiU4NiU5MiUyMCVFOSVBQiU5OCVFOSU4MCU5RiVFNiVBNCU5QyVFOCVBOCVCQyVFMyU4MSVBRSVFNiU5OSU4MiVFNCVCQiVBMyVFMyU4MSVCOCZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPWQyMWU4MjI5Yjk1Y2FjNDFhMjk2ZjAyMmJjOTg1ZjA4&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBkOTQyMzEmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz00NTY1ODY5NTRmZGU3YWFhMWMxNjljN2Y2OTU5OWQyYg&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=8f4181264cb5cde07b22c5c48e3ca6ae",
-    "fetched_at": "2026-03-17 19:14:30",
-    "ja_summary": "・AIとPythonの導入により、研究フローが「データ基盤構築→仮説量産→高速検証」へと劇的に進化した。\n・従来の「テーマ決定から始まる逐次的な研究」は過去のものとなり、圧倒的なスピードで成果を出せる時代になった。"
-  },
-  {
-    "title": "岡山の中小企業が生成AIで挑む事業承継　「暗黙知の可視化」の舞台裏は？",
-    "link": "https://www.itmedia.co.jp/business/articles/2603/17/news108.html",
-    "source": "ITmedia ビジネス",
-    "published": "Tue, 17 Mar 2026 18:00:00 +0900",
-    "summary": "",
-    "image": "https://image.itmedia.co.jp/business/articles/2603/17/cover_news108.jpg",
-    "fetched_at": "2026-03-17 18:28:48",
-    "ja_summary": "・岡山県の中小企業が、ベテランの経験や勘といった「暗黙知」を生成AIでデータ化し、技術継承に活用。\n・属人化していた熟練のノウハウを可視化することで、スムーズな事業承継と人材育成の効率化を実現。\n・AIによる技術のデジタル化が、中小企業における人手不足と技術継承の課題解決モデルとして注目されている。"
   }
 ]
