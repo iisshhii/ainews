@@ -1,5 +1,95 @@
 [
   {
+    "title": "非エンジニアでも簡単！　ChatGPT「Canvas」で便利なアプリを作成する方法【今すぐ使えるプロンプト紹介】",
+    "link": "https://www.itmedia.co.jp/business/articles/2603/18/news025.html",
+    "source": "ITmedia ビジネス",
+    "published": "Wed, 18 Mar 2026 06:00:00 +0900",
+    "summary": "定型業務を効率化するのに専用アプリがあればいいのにと思っています。プログラミングはできませんが、AIを使って自分でアプリを作れますか？",
+    "image": "https://image.itmedia.co.jp/business/articles/2603/18/cover_news025.png",
+    "fetched_at": "2026-03-19 07:27:41",
+    "ja_summary": "・ChatGPTの新機能「Canvas」を活用すれば、プログラミング未経験でもアプリ作成が可能。\n・定型業務の効率化に必要なツールを、AIとの対話だけで自作できる。\n・記事内のプロンプトを使えば、誰でもすぐにアプリ開発を始められる。"
+  },
+  {
+    "title": "AI駆動開発ツール「IBM Bob」を提供　COBOLをモダン言語と同列サポート",
+    "link": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020800017/031001403/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "日本IBMは、AI（人工知能）駆動でシステム開発を支援するツール「IBM Bob」のSaaS版を2026年3月から、オンプレミス版を同年9月までに提供を開始する。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020800017/031001403/topm.jpg?20220512",
+    "fetched_at": "2026-03-19 07:27:54",
+    "ja_summary": "・日本IBMがAI開発支援ツール「IBM Bob」の提供を発表。\n・COBOLをモダン言語と同列に扱い、レガシーシステムの開発を効率化。\n・SaaS版を2026年3月、オンプレミス版を同年9月までに展開予定。"
+  },
+  {
+    "title": "DeNAがPerl6000行をGo言語へ　特性異なるAIエージェント駆使",
+    "link": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020800017/031001406/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "ディー・エヌ・エー（DeNA）は2025年10月末から11月末にかけ、Perl言語で記述されたサーバー資産管理API（アプリケーション・プログラミング・インターフェース）をGo言語に移行した。コードの分量はPerlが約6000行、移行後のGoは約1万行に及ぶ。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020800017/031001406/topm.jpg?20220512",
+    "fetched_at": "2026-03-19 07:27:55",
+    "ja_summary": "・DeNAがサーバー管理APIをPerlからGo言語へ移行完了。\n・コード規模は約6000行から1万行へ拡大。\n・移行作業には特性の異なる複数のAIエージェントを活用。"
+  },
+  {
+    "title": "AIで証憑の検証業務を効率化　EY新日本監査法人がシステム実運用",
+    "link": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020800017/031001408/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "EY新日本監査法人は2026年1月中旬から、生成AI（人工知能）によって、証憑（しょうひょう）書類の検証業務を支援するシステムの本格稼働を始めた。同法人が担当する上場・非上場企業3805社（2025年6月30日時点）全社の監査業務で順次活用を始めている。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020800017/031001408/topm.jpg?20220512",
+    "fetched_at": "2026-03-19 07:27:56",
+    "ja_summary": "・EY新日本監査法人が、生成AIを用いた証憑書類の検証システムを本格導入。\n・同法人が担当する全3805社の監査業務にて、順次活用を開始。\n・AIの活用により、企業の監査業務における効率化と精度向上を目指す。"
+  },
+  {
+    "title": "創設25周年迎えたウィキペディア　AI事業者向けに商用サービス訴求",
+    "link": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020800017/031001409/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "世界最大級のオンライン百科事典「ウィキペディア」は2026年1月15日（現地時間）に創設25周年を迎えた。運営するウィキメディア財団のセレナ・デッケルマン最高製品・技術責任者に、AI（人工知能）の影響や現在の取り組みを同年2月に聞いた。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020800017/031001409/topm.jpg?20220512",
+    "fetched_at": "2026-03-19 07:27:57",
+    "ja_summary": "・創設25周年を迎えたウィキペディアが、AI事業者向けの商用サービスを強化。\n・AI時代における情報の信頼性維持と新たな収益モデルの構築を目指す。\n・運営元のウィキメディア財団が、AI技術との共生に向けた戦略を推進中。"
+  },
+  {
+    "title": "サイバーペット、お見合い、そして株式取引――中国のユーザーがOpenClawブームに飛びつく理由",
+    "link": "https://www.businessinsider.jp/article/2603china-openclaw-craze-lobster-stock-trading-blind-dates-cyber-pets/",
+    "source": "Business Insider Japan",
+    "published": "Wed, 18 Mar 2026 22:15:00 GMT",
+    "summary": "中国ではAIツールOpenClaw（オープンクロー）が流行し、株取引やデート支援、デジタルペットなど、風変わりな使い方が広がっています。セキュリティ警告が出ているものの、人気は衰えていません。",
+    "image": "https://media.loom-app.com/loom/2026/03/17/f8627650-50a6-4153-a9cf-356d642598a6/original.jpg?w=1200&amp;h=630",
+    "fetched_at": "2026-03-19 07:28:04",
+    "ja_summary": "・中国でAIツール「OpenClaw」が、株取引から婚活支援まで多目的に活用されブームに。\n・セキュリティリスクの懸念はあるものの、その利便性とユニークさで高い人気を維持。\n・AIの新たな活用形態として、ユーザーによる多様な利用方法が急速に広がっている。"
+  },
+  {
+    "title": "ChatGPTの「日本向け未成年AI安全指針」が公表。「2段構え」で子どもを守るOpenAIの狙い",
+    "link": "https://www.businessinsider.jp/article/2603-openai-teen-ai-safety-blueprint-japan/",
+    "source": "Business Insider Japan",
+    "published": "Wed, 18 Mar 2026 22:00:00 GMT",
+    "summary": "OpenAIが日本向け「未成年の安全性に関するブループリント」を発表。AIがプロンプトから年齢を自動推定し、18歳未満に安全対策を適用。ペアレンタルコントロールとの「2段構え」で子どもを守る仕組みを解説します。",
+    "image": "https://media.loom-app.com/loom/2026/03/18/a918bd04-2cb6-4c13-a527-c04e5b5c7b8a/original.jpg?w=1200&amp;h=630",
+    "fetched_at": "2026-03-19 07:28:04",
+    "ja_summary": "・OpenAIが日本向けに「未成年AI安全指針」を策定。\n・AIがプロンプトから年齢を自動推定し、18歳未満を保護。\n・本人保護とペアレンタルコントロールの「2段構え」で安全性を強化。"
+  },
+  {
+    "title": "長文の通知を要約してロック画面に表示する「Android」の新機能--使い方と注意点",
+    "link": "https://japan.zdnet.com/article/35245158/",
+    "source": "ZDNET Japan",
+    "published": "",
+    "summary": "「Android」端末は、ロック画面に通知のAI要約を表示できるようになった。だが、プライバシー問題の可能性など注意点もある。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35245158/\"><img src=\"https://japan.zdnet.com/storage/2026/03/18/d807daf683a99fa06c420c97b32e53b6/t/184/138/d/what-is-the-android-notification-summaries-feature-and-should-you-use-it_l.jpg\" /></a>",
+    "image": "https://japan.zdnet.com/storage/2026/03/18/d807daf683a99fa06c420c97b32e53b6/t/184/138/d/what-is-the-android-notification-summaries-feature-and-should-you-use-it_l.jpg",
+    "fetched_at": "2026-03-19 07:28:14",
+    "ja_summary": "Androidのロック画面で、AIが長文の通知を自動要約して表示できるようになった。\n確認の手間が省ける一方、プライバシー情報の漏洩リスクに注意が必要。\n利用時は設定内容を確認し、機密情報の扱いに配慮して活用すること。"
+  },
+  {
+    "title": "Anthropic公式「Skills完全ガイド」を読んだら、自分のSKILL.mdのトークン消費を40%減らせた",
+    "link": "https://qiita.com/yurukusa/items/f69920b4a02cf7e2988c",
+    "source": "Qiita (Popular)",
+    "published": "2026-03-16T15:11:41+09:00",
+    "summary": "この記事は2026年3月時点の情報に基づいている。\n\n---\n\nAnthropicが公式で「The Complete Guide to Building Skills for Claude」というPDF（33ページ）を出した。\n\n中身を読んで、自分のスキル構成に反映した。結果から言うと、SKILL.mdのトークン消費が約40%減った。体感でもレスポンスが速くなった。\n\n原文（英語PDF）: [Th",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0MzU0MTk3JTJGNzY4MGMzNmI0MjExOWM0NTJhZGE3NTg4MmZmYTdiZGY2YWM5OWY5MSUyRmxhcmdlLnBuZyUzRjE3NzM1OTE5OTU_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPWY2NzlkNTUyZTUxZTY1YTZkNTE1NWNiMDY1OWY4M2Uz%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Dabf9ad6160c15f0825d62e524e5418ea?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9QW50aHJvcGljJUU1JTg1JUFDJUU1JUJDJThGJUUzJTgwJThDU2tpbGxzJUU1JUFFJThDJUU1JTg1JUE4JUUzJTgyJUFDJUUzJTgyJUE0JUUzJTgzJTg5JUUzJTgwJThEJUUzJTgyJTkyJUU4JUFBJUFEJUUzJTgyJTkzJUUzJTgxJUEwJUUzJTgyJTg5JUUzJTgwJTgxJUU4JTg3JUFBJUU1JTg4JTg2JUUzJTgxJUFFU0tJTEwubWQlRTMlODElQUUlRTMlODMlODglRTMlODMlQkMlRTMlODIlQUYlRTMlODMlQjMlRTYlQjYlODglRTglQjIlQkIlRTMlODIlOTI0MCUyNSVFNiVCOCU5QiVFMyU4MiU4OSVFMyU4MSU5QiVFMyU4MSU5RiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTYwN2ZjNzMzYTM0M2YyMjYyMWJiNmExZjE1OWU5NzQ0&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDB5dXJ1a3VzYSZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWUzZjE5NmRiNTgxN2MyNzIyZTk5MDFiZTYxNDUyNTIz&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=166638199dbdcd7d075a21eac02d838f",
+    "fetched_at": "2026-03-19 07:28:39",
+    "ja_summary": "Anthropicの公式ガイドを参考にスキル設定を最適化した結果、SKILL.mdのトークン消費を40%削減。\n不要な記述を削ることで、Claudeのレスポンス速度と応答精度の向上が実現した。\n公式のベストプラクティスに基づいた構成見直しが、効率的なAI活用において極めて有効である。"
+  },
+  {
     "title": "アマゾン、セールスフォース、IBMなど、従業員をAIに置き換え始めたテック企業9社…アメリカ労働市場の11.7％はすでにAIで代替可能",
     "link": "https://www.businessinsider.jp/article/ai-workforce-reduction-amazon-salesforce-ibm/",
     "source": "Business Insider Japan",
@@ -908,95 +998,5 @@
     "image": "https://res.cloudinary.com/zenn/image/upload/s--lNV_XHIe--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2589%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25E3%2582%2592%25E3%2580%258C%25E5%258D%2598%25E4%25B8%2580%25E8%25B2%25AC%25E4%25BB%25BB%25E3%2581%25AE%25E5%258E%259F%25E5%2589%2587%25E3%2580%258D%25E3%2581%25A7%25E8%2582%25B2%25E3%2581%25A6%25E3%2581%259F%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:emi084%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzJkZmVkY2VkZTAuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:GLOBIS%2520Tech%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzMxMmEyZDhkNjAuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
     "fetched_at": "2026-03-18 07:52:10",
     "ja_summary": "・AIコードレビューの的外れな指摘や品質の不安定さに直面し、利用離れという課題が発生した。\n・「単一責任の原則」に基づき、観点別にAIエージェントを分割することで専門性を高めた。\n・過去の失敗をナレッジとして学習させ、精度の高い信頼できるレビュワーへと改善した。"
-  },
-  {
-    "title": "AI駆動開発で増す人の責任　品質の担保、最後は人頼み",
-    "link": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/092400133/031000190/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "コーディングエージェントが登場し、AI駆動開発が普及する中、生成されるコードに対する責任問題が議論になっている。コードを生成するまでの生産性は大きく向上したものの、最終的にそれらを展開する際、人が負う責任がこれまで以上に重くなりつつあるからだ。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/092400133/031000190/topm.jpg?20220512",
-    "fetched_at": "2026-03-18 07:05:31",
-    "ja_summary": "・AIによるコーディング支援で開発の生産性は向上。\n・一方で、AI生成コードの品質担保や最終責任は依然として人間に帰属。\n・開発の自動化が進むほど、最終確認を担うエンジニアの責任が重くなっている。"
-  },
-  {
-    "title": "自動運転企業、商用化へアクセル",
-    "link": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/040900481/031000025/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "自動運転向けAI（人工知能）技術を開発するWaabiが、大型調達を機に商用化へアクセルを踏む。トラックなどの輸送用途を想定し、安全性やスケーラビリティーを備えた基盤技術の開発に取り組む。超大規模データセンター向け技術を手掛ける企業も大型調達を果たすなど、今月もAI関連が注目を集めた。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/040900481/031000025/topm.jpg?20220512",
-    "fetched_at": "2026-03-18 07:05:32",
-    "ja_summary": "・自動運転AI開発のWaabiが大型調達を実施し、トラック輸送の商用化を加速。\n・安全性と拡張性を備えた基盤技術の開発に注力。\n・データセンター向けAI企業への投資も相次ぎ、AI関連市場の活況が続く。"
-  },
-  {
-    "title": "ICTインフラを見直す国内企業は4割　AI契機、NaaSへの関心に高まり",
-    "link": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020600010/031000220/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "MM総研は国内企業を対象に通信ネットワークやセキュリティー運用の実態を調査した。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020600010/031000220/topm.jpg?20220512",
-    "fetched_at": "2026-03-18 07:05:32",
-    "ja_summary": "・国内企業の4割が、AI活用を契機にICTインフラの見直しに着手。\n・通信ネットワークやセキュリティーの運用体制を見直す動きが加速。\n・必要な機能を必要な時に利用する「NaaS（Network as a Service）」への関心が高まっている。"
-  },
-  {
-    "title": "店舗はDXの最前線　買い物行動がデータ",
-    "link": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/030900538/030900001/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "トライアルホールディングス（HD）が展開する先進小型スーパー「トライアルGO」。顔認証決済やレジカート、AI（人工知能）カメラといった技術を前提に設計された店舗だ。買い物体験の改善とデータ取得の場として、トライアルGOは改革の最前線を担う。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/030900538/030900001/topm.jpg?20220512",
-    "fetched_at": "2026-03-18 07:05:33",
-    "ja_summary": "・トライアルHDの小型スーパー「トライアルGO」が、DXの実験場として進化。\n・顔認証やAIカメラ等の先端技術を駆使し、買い物体験の向上とデータ収集を実現。\n・店舗を単なる販売拠点ではなく、データ活用による改革の最前線として位置づけ。"
-  },
-  {
-    "title": "AIでクラウドとハードが好調　2025年の法人向けIT企業ランキング",
-    "link": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020600008/031000215/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "米IDCが「IT業界にとって2025年は約30年ぶりの好業績の年」と指摘した通り、企業向けIT売上高で120億ドルを超える22社の2025年業績は総じて好調だった。2025年のIT売上高合計は1兆1231億4000万ドル（約175兆2000億円）に達し、前の期比15.1％の成長を遂げた（2024年は12.3％増）。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020600008/031000215/topm.jpg?20220512",
-    "fetched_at": "2026-03-18 07:05:34",
-    "ja_summary": "・2025年の法人向けIT市場は前年比15.1%増の約175兆円と大幅成長を記録した。\n・約30年ぶりの好況を迎え、大手22社はAI需要を背景に総じて好調に推移した。\n・クラウドとハードウェアの需要拡大が、IT業界全体の成長を強く牽引している。"
-  },
-  {
-    "title": "【佐藤優】万年英語学習者から抜け出すには？ 「無料コンテンツ」ではなく「資格勉強に課金」が近道に",
-    "link": "https://www.businessinsider.jp/article/12603-english-learning-language-strategy/",
-    "source": "Business Insider Japan",
-    "published": "Tue, 17 Mar 2026 22:00:00 GMT",
-    "summary": "英語対応を求められる研究機関で働く30代後半の女性から「万年中級の英語レベルから抜け出せない」という相談が届きました。佐藤さんは、「日常会話はAIで代用できる現代だからこそ、あえて対面の学校にお金を払って通い、強制的に動機を高める必要がある」と指摘し、英検準一級の取得を目指すことを勧めます。",
-    "image": "https://media.loom-app.com/loom/2026/03/16/46253c29-2a3f-4425-bc88-f82a9354e9ab/original.jpg?w=1200&amp;h=630",
-    "fetched_at": "2026-03-18 07:05:42",
-    "ja_summary": "・英語学習の中だるみ打破には、独学ではなく資格勉強への投資が有効。\n・AI時代だからこそ、対面スクール等に課金し強制力を働かせることが重要。\n・英検準一級などの明確な目標を設定し、実用的な英語力を磨くべき。"
-  },
-  {
-    "title": "ChatGPTの広告導入が全然進まない理由。「我が社の広告費はまだ使われないの？」問い合わせ相次ぐ",
-    "link": "https://www.businessinsider.jp/article/chatgpt-slow-motion-advertising-rollout-2026-3/",
-    "source": "Business Insider Japan",
-    "published": "Mon, 16 Mar 2026 21:05:00 GMT",
-    "summary": "オープン（Open）AIが米国で広告テストに着手したのは2月上旬ですが、広告主や代理店に取材してみると、拠出した予算がなかなか消化されないとの疑問の声が聞こえてきます。",
-    "image": "https://media.loom-app.com/loom/2026/03/16/2a200f8c-c7c6-4cdb-a3f4-977cd9303cf6/original.jpg?w=1200&amp;h=630",
-    "fetched_at": "2026-03-18 07:05:45",
-    "ja_summary": "・OpenAIが2月から広告テストを開始するも、予算が消化されない状況が続いている。\n・広告主や代理店からは、広告枠が活用されていないことへの疑問の声が相次いでいる。\n・ChatGPTへの広告導入は、期待に反して本格的な展開には至っていない。"
-  },
-  {
-    "title": "イノベーションを喚起する仕組みと仕掛け--社内にセレンディピティ・フィールドを作る",
-    "link": "https://japan.zdnet.com/article/35245029/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "企業は、イノベーションの創出を従業員個々のリテラシー頼りにしてはなりません。1人の天才的創造者の出現を期待したり、全従業員に生成AIの研修を行って革新的アイデアを待っていたりするだけでは、イノベーションは生まれません。企業には、組織的かつ継続的にイノベーション創出を促進する仕組みと仕掛けを構築していくことが求められます。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35245029/\"><img src=\"https://japan.zdnet.com/storage/2025/10/16/308cfcdcff699dbb17892032d4922830/t/184/138/d/250815_itr_uchiyamasan_l_02.jpg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2025/10/16/308cfcdcff699dbb17892032d4922830/t/184/138/d/250815_itr_uchiyamasan_l_02.jpg",
-    "fetched_at": "2026-03-18 07:05:53",
-    "ja_summary": "イノベーションは個人の資質や単発の研修に頼るべきではない。\n組織として継続的に成果を生むための仕組みと仕掛けの構築が不可欠である。\n偶然の出会い（セレンディピティ）を誘発する場を、戦略的に社内に作り出すべきだ。"
-  },
-  {
-    "title": "三菱電機とAIベンチャーの燈、「フィジカルAI」領域での協業戦略を発表",
-    "link": "https://japan.zdnet.com/article/35245152/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "三菱電機とAIベンチャーの燈は、「フィジカルAI」領域での協業を本格化すると発表した。既に三菱電機の工場における概念実証などに着手している。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35245152/\"><img src=\"https://japan.zdnet.com/storage/2026/03/17/6c5d8b5e42739e235992fe4acd34b224/t/184/138/d/melco_akari005.jpg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2026/03/17/6c5d8b5e42739e235992fe4acd34b224/t/184/138/d/melco_akari005.jpg",
-    "fetched_at": "2026-03-18 07:05:53",
-    "ja_summary": "三菱電機とAIベンチャーの燈が「フィジカルAI」領域で本格的に協業を開始する。\n既に三菱電機の工場などで概念実証（PoC）に着手しており、現場へのAI導入を加速させる。"
   }
 ]
