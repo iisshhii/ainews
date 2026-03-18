@@ -1,5 +1,15 @@
 [
   {
+    "title": "プラットフォームエンジニアリングはAI時代の開発者をどう救うのか",
+    "link": "https://speakerdeck.com/jacopen/puratutohuomuenziniaringuhaaishi-dai-nokai-fa-zhe-wodoujiu-unoka",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-03-17T06:31:32-04:00",
+    "summary": "SoftBank Tech Night #18で登壇した資料です\nhttps://techplay.jp/event/992449",
+    "image": "https://files.speakerdeck.com/presentations/585bf5f3ffcf41678ec6ad8089958925/preview_slide_0.jpg?38763040",
+    "fetched_at": "2026-03-18 22:52:52",
+    "ja_summary": "・AIによる開発の複雑化に対し、プラットフォームエンジニアリングが開発者の負担を軽減する。\n・開発者が本来の価値創造に集中できるよう、環境構築の自動化や効率化を推進する手法を解説。\n・技術的負債や運用負荷を下げ、AI時代の開発スピードを最大化するための設計思想を提示。"
+  },
+  {
     "title": "岡山の中小企業が生成AIで挑む事業承継　「暗黙知の可視化」の舞台裏は？",
     "link": "https://www.itmedia.co.jp/business/articles/2603/17/news108.html",
     "source": "ITmedia ビジネス",
@@ -988,15 +998,5 @@
     "image": "https://res.cloudinary.com/zenn/image/upload/s--XuOSRBFd--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:queryOptions%2520%25E3%2581%25AE%25E5%259E%258B%25E6%258E%25A8%25E8%25AB%2596%25E3%2582%2592%25E6%2594%25AF%25E3%2581%2588%25E3%2582%258B%2520DataTag%25E3%2580%2581%25E3%2581%259D%25E3%2581%25AE%25E8%25A3%258F%25E5%2581%25B4%25E3%2581%25AE%2520unique%2520symbol%2520%25E2%2580%2594%2520TanSt...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Tsuboi%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzUzMmU3Zjg2MTIuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
     "fetched_at": "2026-03-17 20:55:02",
     "ja_summary": "TanStack Query v5の`queryOptions`は、設定オブジェクトを定義するだけで`useQuery`の戻り値の型を自動で推論可能にする。\nその裏側ではTypeScriptの`unique symbol`を用いた「DataTag」という仕組みが活用されている。\nこれにより、型定義の手間を省きつつ、安全で快適な開発体験が実現されている。"
-  },
-  {
-    "title": "Claude Code / CodexでKaggle金メダルを取った話",
-    "link": "https://zenn.dev/chiman/articles/b233cc808d6af3",
-    "source": "Zenn Trends",
-    "published": "Mon, 16 Mar 2026 00:04:33 GMT",
-    "summary": "TL;DR\n\n実装と分析をAIに任せることで、実験量が桁違いに増えた（5-Fold CV合計1,515回）\n実装から解放された分、人間はアイディアとデータ観察に集中できた\nただし、スコアを押し上げたアイディアのほとんどは人間発。AIの提案の打率は低かった\nAIに素早く実験を回させるための環境・構成づくりも重要だった\nこの構図はKaggleに限らず、定量評価できるR&amp;D全般で起きうると感じている\n\n今回のコンペで使ったコード・設定・分析結果を公開しています。\nhttps://github.com/Chihiro-n/csiro-biomass-agentic-solution\n\n ...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--nyDsSWW0--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%2520%252F%2520Codex%25E3%2581%25A7Kaggle%25E9%2587%2591%25E3%2583%25A1%25E3%2583%2580%25E3%2583%25AB%25E3%2582%2592%25E5%258F%2596%25E3%2581%25A3%25E3%2581%259F%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:kinosuke%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzQ5YTBmZDZkZmYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-    "fetched_at": "2026-03-17 20:10:00",
-    "ja_summary": "・AI（Claude Code）による高速な実験環境の構築で、分析量を大幅に増加。\n・実装をAIに任せることで、人間はデータ観察や戦略立案に集中できた。\n・スコア向上の肝は人間独自のアイデアであり、AIはあくまで効率化の手段として機能。"
   }
 ]
