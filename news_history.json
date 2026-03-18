@@ -1,5 +1,45 @@
 [
   {
+    "title": "ベテラン社員が職場の「主（ぬし）」化する危機　暗黙知をAIで形式知に (困った社員の事件簿)",
+    "link": "https://business.nikkei.com/atcl/seminar/21nv/00022/022500026/",
+    "source": "日経ビジネス 最新",
+    "published": "",
+    "summary": "「あの人がいないと現場が回らない」という状況は、経営者にとってリスクにほかならない。AIを活用すれば、感情的な対立を避けつつ、現場の知恵を形式知にできるうえ、ベテラン社員の「主（ぬし）化」も防げる",
+    "image": "https://business.nikkei.com/atcl/seminar/21nv/00022/022500026/fb.jpg",
+    "fetched_at": "2026-03-18 17:28:24",
+    "ja_summary": "・特定のベテランに業務が依存する「主（ぬし）化」は経営上の大きなリスク。\n・AIを活用して職場の暗黙知を形式知化することで、属人化を解消できる。\n・個人のスキルを組織の資産に変え、業務の停滞を防ぐ体制構築が急務。"
+  },
+  {
+    "title": "OpenAI、未成年の安全なAI利用に向け日本独自のレポート",
+    "link": "https://www.watch.impress.co.jp/docs/news/2094508.html",
+    "source": "Impress Watch",
+    "published": "",
+    "summary": "OpenAI Japanは、日本の未成年ユーザーが安全にAIを活用できる環境づくりに向けた取り組みをまとめた「未成年の安全性に関するブループリント」を発表した。未成年ユーザーの安心なAI利用のための基本方針や今後の方向性を示したもので、サービス設計を中心に保護の仕組みを整理している。",
+    "image": "https://www.watch.impress.co.jp/img/ipw/list/2094/508/01.jpg",
+    "fetched_at": "2026-03-18 17:28:31",
+    "ja_summary": "・OpenAI Japanが未成年の安全なAI利用に向けた基本方針を発表。\n・サービス設計を軸に、安心な利用環境を構築するための仕組みを整理。\n・今後のAI活用を見据え、安全性確保への方向性を明示。"
+  },
+  {
+    "title": "NVIDIA、AI向けCPU「Vera」正式発表　GPU中心戦略を拡張",
+    "link": "https://www.watch.impress.co.jp/docs/news/2094049.html",
+    "source": "Impress Watch",
+    "published": "",
+    "summary": "NVIDIAは、エージェント型AIに特化した新CPU「Vera」と、次世代AI基盤「Vera Rubinプラットフォーム」を発表した。従来のGPU中心だった戦略を、CPUやネットワークを含む統合型インフラへと拡張する。",
+    "image": "https://www.watch.impress.co.jp/img/ipw/list/2094/049/nvidia01.jpg",
+    "fetched_at": "2026-03-18 17:28:33",
+    "ja_summary": "・NVIDIAがAI特化型の新CPU「Vera」と次世代AI基盤を発表。\n・従来のGPU主導から、CPU・ネットワークを含む統合インフラ戦略へ転換。\n・エージェント型AIの普及を見据え、システム全体の処理性能向上を図る。"
+  },
+  {
+    "title": "AIはすでに仕事を奪い始めており、特に2つの職業は非常に危うい",
+    "link": "https://www.businessinsider.jp/article/ai-jobs-companies-tech-investor-replacing-people-lawyers-recruiters-b/",
+    "source": "Business Insider Japan",
+    "published": "Wed, 18 Mar 2026 08:15:00 GMT",
+    "summary": "ベンチマークのジェネラルパートナーであるビクター・ラザールテは、AIは「人間と完全に置き換わる存在になる」と述べた。",
+    "image": "https://media.loom-app.com/loom/2025/04/16/ac41f191-973a-4fea-aca2-071a36503f54/original.jpg?w=1200&amp;h=630",
+    "fetched_at": "2026-03-18 17:28:35",
+    "ja_summary": "・AIの進化により、将来的に人間が完全に代替される職業が出現している。\n・特に特定の2つの職業が、AIによる置き換えの危機に直面している。\n・AIは既に労働市場に影響を与え始めており、雇用環境の変革が加速している。"
+  },
+  {
     "title": "なぜ極寒の宇宙にデータセンターを置くと「冷えない」が課題となるのか--NVIDIAのCEOも言及",
     "link": "https://japan.cnet.com/article/35245196/",
     "source": "CNET Japan",
@@ -958,45 +998,5 @@
     "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGNDM0NDA5MSUyRnByb2ZpbGUtaW1hZ2VzJTJGMTc3MzE4NjE0OD9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NWJjOGQxODI5ODE5NmVkYWE0NGJlMzkxNDEyNzc2Yjg%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D56b1ac2591cb4447c0d4eece1e9d7551?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJThDJUUzJTgyJUFCJUUzJTgzJUJDJUUzJTgzJTg5JUU0JUJEJTlDJUUzJTgyJThBJUUzJTgxJThDJUU5JTlEJUEyJUU1JTgwJTkyJUUzJTgxJTk5JUUzJTgxJThFJUUzJTgyJThCJUUzJTgwJThEJUU1JTk1JThGJUU5JUExJThDJUUzJTgyJTkyQUklRTMlODElQTclRTglQTclQTMlRTYlQjElQkElRTMlODElOTclRTMlODElOUYlRTMlODIlODklRTMlODAlODElRTglQjMlODclRTYlQTAlQkMlRTUlOEIlODklRTUlQkMlQjclRTMlODElOEMlRTclQjYlOUElRTMlODElOEYlRTMlODIlODglRTMlODElODYlRTMlODElQUIlRTMlODElQUElRTMlODElQTMlRTMlODElOUYmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1mMDhlOWY5OTNhYzY3NmY2Yjg5NTEyZjA2ZDkzZmE1Nw&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBDb2JvTWVtbyZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTYxODJjMzU3MDA0OGI0ODFiZmI1YTE3YTA3ZTg3ZjEz&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=cc7f45ce860622e41f1ee392d4f3359b",
     "fetched_at": "2026-03-17 17:29:42",
     "ja_summary": "・参考書の学習を挫折する最大の要因は、暗記用カード作成の面倒さにある。\n・AIを活用してカード作成を自動化することで、学習の継続性が向上した。\n・面倒な作業を効率化することで、資格取得に向けた学習の定着が期待できる。"
-  },
-  {
-    "title": "Claude Codeにバックドア入りOSSを渡したら、何の疑いもなく実装した",
-    "link": "https://qiita.com/NF0000/items/66510f959b1c22f011a7",
-    "source": "Qiita (Popular)",
-    "published": "2026-03-10T12:55:45+09:00",
-    "summary": "## はじめに\n\nバックドアが仕込まれたOSSをClaude Codeに渡して「機能追加して」と頼んだら、何の疑いもなく、バックドアごと踏襲して実装しました。\n\n[前回の記事](https://qiita.com/NF0000/items/6743216583b66168ec12)では、プロンプトインジェクションによる`.env`漏洩を検証しました。今回は**もっと現実的なシナリオ**で、GitH",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmF2YXRhcnMuZ2l0aHVidXNlcmNvbnRlbnQuY29tJTJGdSUyRjg0OTc2MzMxJTNGdiUzRDQ_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPTQ1ODZjZTJkODE2MTFkMDhkM2M0YzJiYWViNmFlOWEz%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D80c260d69443a0d414ef56dcc9784820?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9Q2xhdWRlJTIwQ29kZSVFMyU4MSVBQiVFMyU4MyU5MCVFMyU4MyU4MyVFMyU4MiVBRiVFMyU4MyU4OSVFMyU4MiVBMiVFNSU4NSVBNSVFMyU4MiU4QU9TUyVFMyU4MiU5MiVFNiVCOCVBMSVFMyU4MSU5NyVFMyU4MSU5RiVFMyU4MiU4OSVFMyU4MCU4MSVFNCVCRCU5NSVFMyU4MSVBRSVFNyU5NiU5MSVFMyU4MSU4NCVFMyU4MiU4MiVFMyU4MSVBQSVFMyU4MSU4RiVFNSVBRSU5RiVFOCVBMyU4NSVFMyU4MSU5NyVFMyU4MSU5RiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPWMyMjc2ODk4YzdlMjA4OWQ1NDJlYTEyMWJlYmZmNWE4&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBORjAwMDAmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz02NjA0OTZiMmEyNjUzY2ExOGIzMzgzZjA4N2Y1ZTQ1OA&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=a2e532178a18030e740508a2537a1f93",
-    "fetched_at": "2026-03-17 17:29:42",
-    "ja_summary": "・バックドアが仕込まれたOSSに対してClaude Codeに機能追加を依頼したところ、危険性を検知せずそのまま実装した。\n・AIコーディングツール利用時のセキュリティリスクが浮き彫りとなり、外部コードの精査なしでの利用は極めて危険。\n・AIはコードの意図までは完全に理解できないため、開発者は脆弱性混入の可能性を常に考慮すべきである。"
-  },
-  {
-    "title": "NVIDIAの「NemoClaw」、個人向けAIエージェントOpenClawを企業でも使いやすく",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03548/031700003/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "米NVIDIA（エヌビディア）は2026年3月16日（米国時間）、個人向けのAIエージェント基盤「OpenClaw」を、エンタープライズ向けに使いやすくするためのサービス「NVIDIA NemoClaw」を発表した。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03548/031700003/topm.jpg?20220512",
-    "fetched_at": "2026-03-17 16:40:15",
-    "ja_summary": "・NVIDIAが個人向けAI基盤「OpenClaw」を企業向けに最適化した「NemoClaw」を発表。\n・企業が社内システムなどでAIエージェントを導入・運用しやすくなる基盤サービス。\n・2026年3月16日発表。"
-  },
-  {
-    "title": "ソフトバンク、通信業向け生成AI基盤モデルに合成データ生成基盤を構築",
-    "link": "https://japan.zdnet.com/article/35245145/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "ソフトバンクは、通信業界向け生成AI基盤モデルで通信ネットワークの運用などに関連する機密性の高い情報を保護しながら安全かつ高精度な学習が可能な合成データ生成基盤を構築したという。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35245145/\"><img src=\"https://japan.zdnet.com/storage/2026/03/17/95c89ec8619edf3667f0f1a7483887df/t/184/138/d/20260317_adobestock_457718844_1280x960.jpg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2026/03/17/95c89ec8619edf3667f0f1a7483887df/t/184/138/d/20260317_adobestock_457718844_1280x960.jpg",
-    "fetched_at": "2026-03-17 16:40:42",
-    "ja_summary": "・ソフトバンクが通信業界向け生成AIに「合成データ生成基盤」を構築。\n・機密情報を保護しつつ、安全かつ高精度な学習を可能にする。\n・通信ネットワーク運用など、高度な専門性が求められる業務へのAI活用を促進。"
-  },
-  {
-    "title": "生成AIグラビアをグラビアカメラマンが作るとどうなる？第62回：ComfyUIの複雑な生成画面をスッキリさせるApp modeとちょっと面白いWorkflow（西川和久）",
-    "link": "https://www.techno-edge.net/article/2026/03/16/4929.html",
-    "source": "TechnoEdge",
-    "published": "Mon, 16 Mar 2026 12:34:00 +0900",
-    "summary": "画像/動画生成モデルで使用するテキストエンコーダーでLLM？",
-    "image": "https://www.techno-edge.net/imgs/rss/30324.jpg",
-    "fetched_at": "2026-03-17 16:40:43",
-    "ja_summary": "・生成AIグラビア制作における「ComfyUI」の複雑な画面を、App modeで操作しやすく整理する手法を解説。\n・画像・動画生成の仕組みにおけるテキストエンコーダーへのLLM導入など、最新の技術動向に触れる。\n・プロカメラマンの視点で、効率化と新しい表現の可能性を追求する連載第62回。"
   }
 ]
