@@ -1,5 +1,15 @@
 [
   {
+    "title": "Claude Codeで「Issue起票→並列開発→PR作成」を全自動化したら、開発速度が異次元になった",
+    "link": "https://qiita.com/kazuki_ogawa/items/c05c3aed3bf8e46a7ddb",
+    "source": "Qiita (Popular)",
+    "published": "2026-03-15T17:03:27+09:00",
+    "summary": "## はじめに\n\n「Claude Codeで開発してるけど、1つずつ順番にIssueを片付けるのが遅い…」\n\nそんな悩みを解決するために、**Issue起票から並列開発、PR作成までを一気通貫で自動化するワークフロー**を構築しました。\n\n具体的には、Claude Codeの**Skills**を組み合わせて、以下を実現しています：\n\n1. **要件定義** — Claude Codeに「〇〇を作",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGMjU5MDg1MCUyRnByb2ZpbGUtaW1hZ2VzJTJGMTc2OTQwMDA4Nz9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9YzA0NzU0YjUyMTI3OGNkMzZjYWU4NjRlOTMwZTVjOGI%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkZhZmM0ZGJhZjAzNThlOGQwYjM0NmM4ZDc1ZWIwMzdiMjVmNjc4MDY5JTJGb3JpZ2luYWwuanBnJTNGMTYwNzc1NjU4OD9peGxpYj1yYi00LjAuMCZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz1lMDc1YzkzZTdkYmMzZjRlM2JiMTJhYTRjY2JhMTUzYg%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D7497e3c7596115b0a43dc14fe3782a0f?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9Q2xhdWRlJTIwQ29kZSVFMyU4MSVBNyVFMyU4MCU4Q0lzc3VlJUU4JUI1JUI3JUU3JUE1JUE4JUUyJTg2JTkyJUU0JUI4JUE2JUU1JTg4JTk3JUU5JTk2JThCJUU3JTk5JUJBJUUyJTg2JTkyUFIlRTQlQkQlOUMlRTYlODglOTAlRTMlODAlOEQlRTMlODIlOTIlRTUlODUlQTglRTglODclQUElRTUlOEIlOTUlRTUlOEMlOTYlRTMlODElOTclRTMlODElOUYlRTMlODIlODklRTMlODAlODElRTklOTYlOEIlRTclOTklQkElRTklODAlOUYlRTUlQkElQTYlRTMlODElOEMlRTclOTUlQjAlRTYlQUMlQTElRTUlODUlODMlRTMlODElQUIlRTMlODElQUElRTMlODElQTMlRTMlODElOUYmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1mYTVlZGM4YjI3YWRjMzNlZjQ5M2E0ZGM2MjcwYzQwMg&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBrYXp1a2lfb2dhd2EmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1iZjA5NmUzYTdlYzEzNWE5OTE4NzE5OGI3ZjBiMzdjYw&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=5qCq5byP5Lya56S-44K344Oz44K344Ki&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=5d6e77535f9059cab405b60f1ecf3e63",
+    "fetched_at": "2026-03-19 03:15:26",
+    "ja_summary": "Claude CodeのSkillsを活用し、Issue起票から並列開発、PR作成までを全自動化するワークフローを構築。\n開発工程を一気通貫で自動化することで、作業を逐次処理する従来の手法と比べ、開発速度を劇的に向上させた。\n複数のタスクを並列処理する仕組みにより、開発効率を「異次元」のレベルまで引き上げることに成功している。"
+  },
+  {
     "title": "個人開発こそ、GitHub × AI × スクラムで回したほうがいい",
     "link": "https://qiita.com/reinf0rce/items/fc90f2751a2e4ccab41e",
     "source": "Qiita (Popular)",
@@ -988,15 +998,5 @@
     "image": "https://res.cloudinary.com/zenn/image/upload/s--Hgu9jmlB--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci8yM2E0M2IwM2I5LmpwZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg?_a=BACAGSGT",
     "fetched_at": "2026-03-17 23:16:12",
     "ja_summary": "・Nixの入門書として、活用に必要な知識を体系的に解説。\n・従来のパッケージ管理からNixへ段階的に移行する方法を網羅。\n・興味はあるが始め方が分からない人向けに、GitHubで公開中。"
-  },
-  {
-    "title": "Anthropic’s Responsible Scaling Policy: Version 3.0",
-    "link": "https://www.anthropic.com/news/responsible-scaling-policy-v3",
-    "source": "Anthropic (News)",
-    "published": "Tue, 24 Feb 2026 00:00:00 +0000",
-    "summary": "Anthropic’s Responsible Scaling Policy: Version 3.0",
-    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Quill&amp;backgroundColor=olive",
-    "fetched_at": "2026-03-17 21:52:37",
-    "ja_summary": "・Anthropic社がAI開発の安全基準「責任あるスケーリング方針（RSP）」の最新版3.0を策定。\n・AIの高度化に伴うリスクを段階的に管理し、安全性を最優先した開発プロセスを強化。\n・将来的な超高性能AIの導入を見据え、厳格なテストとガバナンス体制を明確化。"
   }
 ]
