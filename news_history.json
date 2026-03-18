@@ -1,5 +1,35 @@
 [
   {
+    "title": "「AI音痴な上司」がチームを壊す？　7割が実感する生成AI活用の「組織的限界」",
+    "link": "https://www.itmedia.co.jp/business/articles/2603/19/news028.html",
+    "source": "ITmedia ビジネス",
+    "published": "Thu, 19 Mar 2026 08:00:00 +0900",
+    "summary": "生成AIの業務活用が広がる一方で、使いこなせる人とそうでない人の差が組織の生産性に影響を及ぼし始めている。コーレの調査では、7割超が「使えない人」による業務支障を実感していた。企業の生成AI活用の実態に迫る。",
+    "image": "https://image.itmedia.co.jp/business/articles/2603/19/cover_news028.jpg",
+    "fetched_at": "2026-03-19 08:27:38",
+    "ja_summary": "・生成AIの活用格差により、組織全体の生産性低下や業務支障が生じている\n・7割以上のビジネスパーソンが、AIを使いこなせない上司や同僚に課題を感じている\n・AI活用スキルを組織として底上げできないことが、企業競争力のボトルネックとなっている"
+  },
+  {
+    "title": "手動 ER 図メンテから卒業する── GitHub Actions × DBML 自動生成の実践",
+    "link": "https://zenn.dev/finatext/articles/auto-generate-dbml-from-orm",
+    "source": "Zenn Trends",
+    "published": "Wed, 18 Mar 2026 00:00:13 GMT",
+    "summary": "こんにちは、ナウキャストで LLM エンジニアをしている Ryotaro です。\nバックエンドの ER 図、ちゃんとメンテナンスできていますか？\n「コードは変えたけど ER 図の更新を忘れた」「いつの間にかドキュメントが実態と乖離していた」という経験は、多くのエンジニアに心当たりがあるのではないでしょうか。\nこの記事では、SQLAlchemy モデルを Single Source of Truth（SSoT）として、GitHub Actions で DBML を自動生成・コミットする仕組みを構築しました。やってみたら結構うまくハマったので、その方法を紹介します。開発者はコードだけ修正すれ...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--yg1Oa09b--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E6%2589%258B%25E5%258B%2595%2520ER%2520%25E5%259B%25B3%25E3%2583%25A1%25E3%2583%25B3%25E3%2583%2586%25E3%2581%258B%25E3%2582%2589%25E5%258D%2592%25E6%25A5%25AD%25E3%2581%2599%25E3%2582%258B%25E2%2594%2580%25E2%2594%2580%2520GitHub%2520Actions%2520%25C3%2597%2520DBML%2520%25E8%2587%25AA%25E5%258B%2595%25E7%2594%259F%25E6%2588%2590%25E3%2581%25AE%25E5%25AE%259F%25E8%25B7%25B5%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Ryotaro%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2NjOTE1NmJhMjEuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Finatext%2520Tech%2520Blog%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzQ0MTYyYTgyMjcuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-03-19 08:28:16",
+    "ja_summary": "・SQLAlchemyを正とし、GitHub ActionsでER図（DBML）を自動生成する仕組みを構築。\n・コード更新と連動した自動更新により、ドキュメントと実態の乖離を解消。\n・手動メンテナンスを廃止し、ドキュメント管理の工数と人的ミスを削減。"
+  },
+  {
+    "title": "Antigravityは(バックエンドでは)使い物にならない",
+    "link": "https://zenn.dev/beadiest_star64/articles/7e2de21fe1cfde",
+    "source": "Zenn Trends",
+    "published": "Tue, 17 Mar 2026 17:25:18 GMT",
+    "summary": "1. 概要\nタイトルの通りですが、Google Antigravityを2週間使い倒して、Antigravityの得意な分野と苦手な分野、個人的なAIコーディングの将来予想をしていきます。\n\n 2. Antigravityはフロントエンド特化\n「VSCodeをベースにブラウザを統合した」という事で大体察すると思いますが、AntigravityはTypeScriptとReactでフロントエンドで開発するには無類の強さを誇ります。\n少なくともToDoアプリを作る程度ならば。\n統合されたブラウザでDOMを操作して確認を行うため、UI崩れが『分かる』ようになったのは、AIコーディングにおいて...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--Fe-DCXVg--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Antigravity%25E3%2581%25AF%2528%25E3%2583%2590%25E3%2583%2583%25E3%2582%25AF%25E3%2582%25A8%25E3%2583%25B3%25E3%2583%2589%25E3%2581%25A7%25E3%2581%25AF%2529%25E4%25BD%25BF%25E3%2581%2584%25E7%2589%25A9%25E3%2581%25AB%25E3%2581%25AA%25E3%2582%2589%25E3%2581%25AA%25E3%2581%2584%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:BeadiestStar64%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jS3lvRkVMNHAtOXFzOUpxVTJsQzJFdGdjVzZQMkNSR21oS0lzV21GMGlaQndUZWZRZz1zOTYtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-03-19 08:28:17",
+    "ja_summary": "・Google AntigravityはVSCodeとブラウザが統合されており、TypeScriptやReactを用いたフロントエンド開発に特化している。\n・一方でバックエンド開発には不向きであり、あくまでUI確認が必要な領域で真価を発揮するツールである。"
+  },
+  {
     "title": "日産、E2Eロボタクシーで「水平分業」　ウーバー・NVIDIAと対テスラ",
     "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03367/031400018/",
     "source": "日経クロステック 総合",
@@ -968,35 +998,5 @@
     "image": "https://image.itmedia.co.jp/business/articles/2603/17/cover_news023.jpg",
     "fetched_at": "2026-03-18 07:51:27",
     "ja_summary": "・多くの小売DXが失敗する主因は、目的の明確化や業務プロセスの整理といった「前提設計」の欠如にある。\n・ツール導入そのものを目的化すると、現場の負担が増え、売上改善や人手不足解消にはつながらない。\n・テクノロジーを活用する前に、まず店舗の提供価値を再定義し、論理的な業務設計を行うことが成功の鍵となる。"
-  },
-  {
-    "title": "「生成AI検索」で自社コンテンツの表示頻度を高める方法　実践に向けた3ステップを詳しく紹介",
-    "link": "https://www.itmedia.co.jp/business/articles/2603/17/news006.html",
-    "source": "ITmedia ビジネス",
-    "published": "Tue, 17 Mar 2026 06:00:00 +0900",
-    "summary": "AI検索で自社コンテンツの表示頻度を高めるために、有効な手段は？　今回は、実践に向けた3ステップを詳しく紹介します。",
-    "image": "https://image.itmedia.co.jp/business/articles/2603/17/cover_news006.jpg",
-    "fetched_at": "2026-03-18 07:51:27",
-    "ja_summary": "・生成AI検索で自社コンテンツを優先表示させるための実践的な3ステップを解説。\n・AIが回答を生成する際の根拠として選ばれやすくする手法を整理。\n・検索エンジン最適化（SEO）の次世代版となるAI対策の重要ポイントを紹介。"
-  },
-  {
-    "title": "【書評】 最速でわかる生成AI実践ガイド",
-    "link": "https://note.com/npaka/n/n010c081e719f",
-    "source": "note (npaka)",
-    "published": "Wed, 04 Mar 2026 11:33:09 +0900",
-    "summary": "<p id=\"b1b295a4-38a9-40a5-b2f4-13569c733c96\" name=\"b1b295a4-38a9-40a5-b2f4-13569c733c96\">近年、AIの世界では「プロンプトエンジニアリング」「RAG」「AIエージェント」といった言葉を頻繁に耳にするようになりました。しかし、ニュースやSNSで断片的に知っていても、それらが実際にどのような仕組みで動いているのかを説明できる人は、まだそれほど多くありません。</p><p id=\"a49d724c-7ac6-42d2-b483-3b31e19a4bd6\" name=\"a49d724c-7ac6-42d2-b483-3b31e19a4bd6\">『<strong>最速でわかる生成AI実践ガイド</strong>』は、そうした<strong>「なんとなく知っているAI」を体系的な理解へと変えてくれる一冊</strong>になります。</p><br /><a href=\"https://note.com/npaka/n/n010c081e719f\">続きをみる</a>",
-    "image": "https://assets.st-note.com/production/uploads/images/256356817/rectangle_large_type_2_0565aace42ab5b55e2faeb3c023bce63.png?width=800",
-    "fetched_at": "2026-03-18 07:51:45",
-    "ja_summary": "生成AIの専門用語や仕組みを、体系的かつ実践的に解説する入門書。\nプロンプトエンジニアリングからAIエージェントまで、断片的な知識を整理して深く理解できる。\n「なんとなく」知っているAIの知識を、実務で使える実践力に変えたい人に最適な一冊。"
-  },
-  {
-    "title": "GPT-5.3 Instant の概要",
-    "link": "https://note.com/npaka/n/n73336817814f",
-    "source": "note (npaka)",
-    "published": "Wed, 04 Mar 2026 06:06:35 +0900",
-    "summary": "<p id=\"89de300a-a323-4e42-a24c-273f817a7142\" name=\"89de300a-a323-4e42-a24c-273f817a7142\">以下の記事が面白かったので、簡単にまとめました。</p><figure id=\"9acad1e0-23f1-409d-9e13-9bf3cdf3b39c\" name=\"9acad1e0-23f1-409d-9e13-9bf3cdf3b39c\"><blockquote><p id=\"f000f8f6-7f89-4b81-8ec8-a6f1b97ca40b\" name=\"f000f8f6-7f89-4b81-8ec8-a6f1b97ca40b\"><strong>・</strong><a href=\"https://openai.com/ja-JP/index/gpt-5-3-instant/\" rel=\"nofollow noopener\" target=\"_blank\"><strong>GPT‑5.3 Instant：よりスムーズで、日常会話にもっと役立つ</strong></a></p></blockquote>\n<figcaption></figcaption></figure><br /><a href=\"https://note.com/npaka/n/n73336817814f\">続きをみる</a>",
-    "image": "https://assets.st-note.com/production/uploads/images/256315123/rectangle_large_type_2_87f9d61de13814379364ac8c9b9933da.png?width=800",
-    "fetched_at": "2026-03-18 07:51:45",
-    "ja_summary": "・OpenAIが新モデル「GPT-5.3 Instant」を発表。\n・処理速度が向上し、よりスムーズで自然な日常会話に対応。\n・応答性能の改善により、日常的なタスクの利便性が大幅に向上。"
   }
 ]
