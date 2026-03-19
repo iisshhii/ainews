@@ -1,5 +1,15 @@
 [
   {
+    "title": "テストプロセスにおけるAI活用 ：人間とAIの共存",
+    "link": "https://speakerdeck.com/hacomono/tesutopurosesuniokeruaihuo-yong-ren-jian-toainogong-cun",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-03-19T10:31:42-04:00",
+    "summary": "2026.03.20 JaSST'Tokyo 2026\n『テストプロセスにおけるAI活用 ：人間とAIの共存』\n蛯子 将樹\n滝田 啓介",
+    "image": "https://files.speakerdeck.com/presentations/4a974ceeed5e4bb4875691abb358397f/preview_slide_0.jpg?38785604",
+    "fetched_at": "2026-03-20 04:53:47",
+    "ja_summary": "・AIを活用したソフトウェアテストの効率化と品質向上を実現する。\n・AIは作業を代替するだけでなく、人間と共存し補完し合う関係を築く。\n・次世代のテストプロセスにおける、人とAIの協働のあり方を議論する。"
+  },
+  {
     "title": "LLMをもっと賢くする：ナレッジグラフ実践入門",
     "link": "https://zenn.dev/knowledge_graph/books/knowledge-graph-llm-guide",
     "source": "Zenn Trends",
@@ -988,15 +998,5 @@
     "image": "https://japan.cnet.com/storage/2026/03/16/9d728ee1300bb86e019d646658b406f3/t/184/138/d/01.jpg",
     "fetched_at": "2026-03-18 20:25:49",
     "ja_summary": "パナソニックがレッツノート初のCopilot+ PC「SC7」「FC7」「NC7」を発表。\n内部設計やパーツを共通化し、バッテリーも全機種で使い回せる新設計を採用。\n導入・管理工数を大幅に削減し、企業のIT運用効率を最大化する。"
-  },
-  {
-    "title": "Claude Codeでのふるまいから隠れたSkillを見つける",
-    "link": "https://zenn.dev/chigichan24/articles/eed4a60d102997",
-    "source": "Zenn Trends",
-    "published": "Tue, 17 Mar 2026 19:23:43 GMT",
-    "summary": "はじめに\n!\n前置きとして、この記事では Claude Code を LLM Agent の一例として扱います。\nただし、ここで述べる考え方自体は Claude Code 固有のものではなく、他の Agent 的な開発体験にも応用できると思っています。\n\nLLM Agent を日常的に使っていると、だんだん「毎回似たような作業をしているな」と感じることがあります。そしてその先で、多くの人が一度はこう考えるはずです。\n\n自分が繰り返している作業パターンを見つけて、Skill として再利用できないだろうか？\n\nただ、実際にやろうとすると意外と難しいです。なぜなら、Skill を作る前に、...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--r1cIDaps--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%25E3%2581%25A7%25E3%2581%25AE%25E3%2581%25B5%25E3%2582%258B%25E3%2581%25BE%25E3%2581%2584%25E3%2581%258B%25E3%2582%2589%25E9%259A%25A0%25E3%2582%258C%25E3%2581%259FSkill%25E3%2582%2592%25E8%25A6%258B%25E3%2581%25A4%25E3%2581%2591%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:chigichan24%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2U1ODg0MTU2ODkuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-    "fetched_at": "2026-03-18 20:26:18",
-    "ja_summary": "LLMエージェント利用時に繰り返される作業を、再利用可能な「スキル」として抽出する手法を解説。\n作業の暗黙知を言語化し、構造化することで、効率的な自動化やプロセスの改善が可能になる。\nClaude Codeに限らず、あらゆる開発支援AIの活用に応用できる汎用的なアプローチである。"
   }
 ]
