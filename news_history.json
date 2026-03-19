@@ -1,5 +1,15 @@
 [
   {
+    "title": "How we monitor internal coding agents for misalignment",
+    "link": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
+    "source": "OpenAI",
+    "published": "Thu, 19 Mar 2026 10:00:00 GMT",
+    "summary": "How OpenAI uses chain-of-thought monitoring to study misalignment in internal coding agents—analyzing real-world deployments to detect risks and strengthen AI safety safeguards.",
+    "image": "https://openai.com/favicon.ico",
+    "fetched_at": "2026-03-20 02:13:55",
+    "ja_summary": "・OpenAIが内部コーディングAIの誤作動（アライメントのズレ）を監視する手法を開発。\n・思考プロセス（Chain-of-Thought）を分析し、開発現場での潜在的リスクを早期検知。\n・実運用環境でのデータ収集を通じて、AIの安全性と信頼性を強化する仕組みを確立。"
+  },
+  {
     "title": "「カード作りが面倒すぎる」問題をAIで解決したら、資格勉強が続くようになった",
     "link": "https://qiita.com/CoboMemo/items/de40a122980628bc61e7",
     "source": "Qiita (Popular)",
@@ -988,15 +998,5 @@
     "image": "https://res.cloudinary.com/zenn/image/upload/s--JEWfthns--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:DGX%2520Spark%25E3%2581%25A7NemoClaw%25E3%2582%2592%25E3%2583%25AD%25E3%2583%25BC%25E3%2582%25AB%25E3%2583%25AB%25E5%25AE%259F%25E8%25A1%258C%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%258B%25E3%2582%2589%25E3%2581%2582%25E3%2581%2592%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2hDZEtvakJfZXdDTjNCV1Z0WXIteFNIZ0hmRjlXZmt3QzI5c0Y0aXYwPXMyNTAtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
     "fetched_at": "2026-03-18 20:26:18",
     "ja_summary": "・NVIDIAのAIエージェント実行環境「NemoClaw」を、DGX Spark上でローカル環境（Ollama＋Nemotron）のみで構築することに成功。\n・APIキー不要で安全に動作するサンドボックス環境を実現。\n・記事では、その具体的なセットアップ手順を解説。"
-  },
-  {
-    "title": "Automating my daily information gathering process has given me refreshing mornings.",
-    "link": "https://speakerdeck.com/zzzzico/automating-my-daily-information-gathering-process-has-given-me-refreshing-mornings",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-03-18T06:23:29-04:00",
-    "summary": "2026/3/18 技術やプロダクト、ちょっと自慢させてくださいLT 「毎朝の情報収集を自動化したら、すがすがしい朝が手に入った」",
-    "image": "https://files.speakerdeck.com/presentations/6e3f71109b1d4820a8db21711c8f8b39/preview_slide_0.jpg?38772043",
-    "fetched_at": "2026-03-18 19:29:54",
-    "ja_summary": "・毎朝の情報収集作業を自動化したことで、業務効率化と精神的な余裕を実現。\n・技術活用により、忙しい朝のルーチンワークから解放される仕組みを構築。\n・自動化の取り組みを通じて、快適な朝の過ごし方と生産性向上を両立させた事例。"
   }
 ]
