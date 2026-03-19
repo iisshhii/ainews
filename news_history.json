@@ -1,5 +1,15 @@
 [
   {
+    "title": "OpenAI to acquire Astral",
+    "link": "https://openai.com/index/openai-to-acquire-astral",
+    "source": "OpenAI",
+    "published": "Thu, 19 Mar 2026 00:00:00 GMT",
+    "summary": "Accelerates Codex growth to power the next generation of Python developer tools",
+    "image": "https://openai.com/favicon.ico",
+    "fetched_at": "2026-03-19 22:09:11",
+    "ja_summary": "・OpenAIが開発ツール企業Astralを買収\n・Python開発ツール「Codex」の強化を加速\n・次世代のプログラミング環境構築を目指す"
+  },
+  {
     "title": "生成AI時代のドキュメント基盤",
     "link": "https://zenn.dev/nuits_jp/articles/2026-03-19-genai-documentation-foundation",
     "source": "Zenn Trends",
@@ -988,15 +998,5 @@
     "image": "https://files.speakerdeck.com/presentations/e07d4a221bbc4740bd9805b03e396eea/preview_slide_0.jpg?38761745",
     "fetched_at": "2026-03-18 19:29:54",
     "ja_summary": "・AWSを用いたAIエージェントの本番環境へのデプロイ手法を解説。\n・サーバーレス環境を活用したアーキテクチャの基本設計を学ぶ。\n・開発者が効率的にAIエージェントを構築・導入するための構成案を提示。"
-  },
-  {
-    "title": "「カード作りが面倒すぎる」問題をAIで解決したら、資格勉強が続くようになった",
-    "link": "https://qiita.com/CoboMemo/items/de40a122980628bc61e7",
-    "source": "Qiita (Popular)",
-    "published": "2026-03-11T07:06:34+09:00",
-    "summary": "# 「カード作りが面倒すぎる」問題をAIで解決したら、資格勉強が続くようになった\n\n## はじめに：エンジニアの「積ん読あるある」\n\nAWS Solutions Architect、情報処理技術者試験、LPIC、TOEIC……\n\nエンジニアなら一度は「今年こそ取る」と決意した経験はないだろうか。参考書を買い、最初の数日は順調に進む。でも気づいたら積ん読になっている。\n\n私も何度もこのループを繰り返",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGNDM0NDA5MSUyRnByb2ZpbGUtaW1hZ2VzJTJGMTc3MzE4NjE0OD9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NWJjOGQxODI5ODE5NmVkYWE0NGJlMzkxNDEyNzc2Yjg%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D56b1ac2591cb4447c0d4eece1e9d7551?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJThDJUUzJTgyJUFCJUUzJTgzJUJDJUUzJTgzJTg5JUU0JUJEJTlDJUUzJTgyJThBJUUzJTgxJThDJUU5JTlEJUEyJUU1JTgwJTkyJUUzJTgxJTk5JUUzJTgxJThFJUUzJTgyJThCJUUzJTgwJThEJUU1JTk1JThGJUU5JUExJThDJUUzJTgyJTkyQUklRTMlODElQTclRTglQTclQTMlRTYlQjElQkElRTMlODElOTclRTMlODElOUYlRTMlODIlODklRTMlODAlODElRTglQjMlODclRTYlQTAlQkMlRTUlOEIlODklRTUlQkMlQjclRTMlODElOEMlRTclQjYlOUElRTMlODElOEYlRTMlODIlODglRTMlODElODYlRTMlODElQUIlRTMlODElQUElRTMlODElQTMlRTMlODElOUYmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1mMDhlOWY5OTNhYzY3NmY2Yjg5NTEyZjA2ZDkzZmE1Nw&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBDb2JvTWVtbyZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTYxODJjMzU3MDA0OGI0ODFiZmI1YTE3YTA3ZTg3ZjEz&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=cc7f45ce860622e41f1ee392d4f3359b",
-    "fetched_at": "2026-03-18 19:29:57",
-    "ja_summary": "・資格学習で最大の障壁となる「暗記カード作成の面倒さ」をAIで自動化。\n・作業負担を劇的に減らすことで、学習を習慣化し「積ん読」を解消。\n・効率的な仕組み作りが、挫折しがちなエンジニアの自己研鑽を支える。"
   }
 ]
