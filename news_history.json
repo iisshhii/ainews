@@ -1,5 +1,15 @@
 [
   {
+    "title": "LLMをもっと賢くする：ナレッジグラフ実践入門",
+    "link": "https://zenn.dev/knowledge_graph/books/knowledge-graph-llm-guide",
+    "source": "Zenn Trends",
+    "published": "Thu, 19 Mar 2026 02:14:59 GMT",
+    "summary": "「ChatGPTは賢いのに、なぜ業務では使いにくいのか」。その答えがナレッジグラフにあります。本書は、RAGだけでは解けない問題の正体を明らかにし、ナレッジグラフがLLMに何をもたらすかを、入門から世界の活用事例、実装アーキテクチャ、AI Agentとの統合まで一気通貫で解説します。エンタープライズ規模でのKG実装は難しい。だからこそ、何が難しいのかを正確に理解することが第一歩です。",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--qyzZJeCP--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci9jZmJkZDkyYjMyLnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg?_a=BACAGSGT",
+    "fetched_at": "2026-03-20 04:14:22",
+    "ja_summary": "・LLMが業務で使いにくい原因と、それを克服する「ナレッジグラフ」の有用性を解説。\n・RAGの限界を補い、AIを実務レベルへ引き上げる実装技術や最新事例を網羅。\n・企業導入時の困難なポイントを紐解き、大規模システムへの統合手法を学べる一冊。"
+  },
+  {
     "title": "How we monitor internal coding agents for misalignment",
     "link": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
     "source": "OpenAI",
@@ -988,15 +998,5 @@
     "image": "https://res.cloudinary.com/zenn/image/upload/s--r1cIDaps--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%25E3%2581%25A7%25E3%2581%25AE%25E3%2581%25B5%25E3%2582%258B%25E3%2581%25BE%25E3%2581%2584%25E3%2581%258B%25E3%2582%2589%25E9%259A%25A0%25E3%2582%258C%25E3%2581%259FSkill%25E3%2582%2592%25E8%25A6%258B%25E3%2581%25A4%25E3%2581%2591%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:chigichan24%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2U1ODg0MTU2ODkuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
     "fetched_at": "2026-03-18 20:26:18",
     "ja_summary": "LLMエージェント利用時に繰り返される作業を、再利用可能な「スキル」として抽出する手法を解説。\n作業の暗黙知を言語化し、構造化することで、効率的な自動化やプロセスの改善が可能になる。\nClaude Codeに限らず、あらゆる開発支援AIの活用に応用できる汎用的なアプローチである。"
-  },
-  {
-    "title": "DGX SparkでNemoClawをローカル実行",
-    "link": "https://zenn.dev/karaage0703/articles/8bf663501cd4bc",
-    "source": "Zenn Trends",
-    "published": "Tue, 17 Mar 2026 14:11:41 GMT",
-    "summary": "NVIDIAがGTC 2026で発表したNemoClawを、DGX Spark上でローカルLLM（Ollama + Nemotron）だけで動かしてみました。APIキーなし、ローカル環境で動かしています。\nこの記事では、セットアップ手順をまとめます。\n\n NemoClawとは\nNemoClawは、AIエージェントをサンドボックス環境で安全に実行するためのオープンソースツールです。\n3つのコンポーネントで構成されています（AIを使って調査、AIと議論して作成しました）:\n\n\n\nコンポーネント\n役割\n\n\n\n\nNemoClaw\nセットアップCLI。ゲートウェイ起動・サンドボックス作成・推論設定...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--JEWfthns--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:DGX%2520Spark%25E3%2581%25A7NemoClaw%25E3%2582%2592%25E3%2583%25AD%25E3%2583%25BC%25E3%2582%25AB%25E3%2583%25AB%25E5%25AE%259F%25E8%25A1%258C%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%258B%25E3%2582%2589%25E3%2581%2582%25E3%2581%2592%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2hDZEtvakJfZXdDTjNCV1Z0WXIteFNIZ0hmRjlXZmt3QzI5c0Y0aXYwPXMyNTAtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-    "fetched_at": "2026-03-18 20:26:18",
-    "ja_summary": "・NVIDIAのAIエージェント実行環境「NemoClaw」を、DGX Spark上でローカル環境（Ollama＋Nemotron）のみで構築することに成功。\n・APIキー不要で安全に動作するサンドボックス環境を実現。\n・記事では、その具体的なセットアップ手順を解説。"
   }
 ]
