@@ -1,5 +1,45 @@
 [
   {
+    "title": "AIは「ポケモンマスター」になれる？2000万対戦データで挑む次世代AIの限界とは……【話題の論文】",
+    "link": "https://www.techno-edge.net/article/2026/03/19/4941.html",
+    "source": "TechnoEdge",
+    "published": "Thu, 19 Mar 2026 19:30:28 +0900",
+    "summary": "AIのポケモン対戦能力は未だ人間のエリートに及ばず、不完全情報や長期計画の難しさが課題であり、従来の評価体系では測りきれない複合的能力の重要性が示された。",
+    "image": "https://www.techno-edge.net/imgs/rss/30508.jpg",
+    "fetched_at": "2026-03-19 19:49:59",
+    "ja_summary": "・AIのポケモン対戦能力は、依然として人間のトップ層には及ばない。\n・不完全情報や長期的な戦略立案が、AI進化における大きな壁となっている。\n・単なるデータ量ではなく、複雑な状況を判断する複合的能力の向上が今後の鍵。"
+  },
+  {
+    "title": "Rakuten fixes issues twice as fast with Codex",
+    "link": "https://openai.com/index/rakuten",
+    "source": "OpenAI",
+    "published": "Wed, 11 Mar 2026 13:00:00 GMT",
+    "summary": "Rakuten uses Codex, the coding agent from OpenAI, to ship software faster and safer, reducing MTTR 50%, automating CI/CD reviews, and delivering full-stack builds in weeks.",
+    "image": "https://openai.com/favicon.ico",
+    "fetched_at": "2026-03-19 19:50:00",
+    "ja_summary": "・楽天がOpenAIの「Codex」を導入し、ソフトウェア開発を高速化・効率化。\n・障害復旧時間（MTTR）を50%短縮し、CI/CDレビューも自動化。\n・フルスタック開発のリードタイムを大幅に短縮し、安全性と生産性を向上。"
+  },
+  {
+    "title": "Designing AI agents to resist prompt injection",
+    "link": "https://openai.com/index/designing-agents-to-resist-prompt-injection",
+    "source": "OpenAI",
+    "published": "Wed, 11 Mar 2026 11:30:00 GMT",
+    "summary": "How ChatGPT defends against prompt injection and social engineering by constraining risky actions and protecting sensitive data in agent workflows.",
+    "image": "https://openai.com/favicon.ico",
+    "fetched_at": "2026-03-19 19:50:00",
+    "ja_summary": "・ChatGPTは、AIエージェントへの悪意ある命令（プロンプトインジェクション）を防ぐ仕組みを強化。\n・危険な操作の制限と機密情報の保護により、外部からの攻撃や不正操作を防止。\n・安全なAIワークフローを構築し、セキュアな自動化環境を実現する。"
+  },
+  {
+    "title": "Claude Code 知らないと損するコマンド・時短術 20選",
+    "link": "https://qiita.com/miruky/items/48ede59ebe33b4b774ac",
+    "source": "Qiita (Popular)",
+    "published": "2026-03-19T12:46:24+09:00",
+    "summary": "## はじめに\n\nこんばんは、mirukyです。\nClaude Codeを使っていて、こんな経験はありませんか？\n\n- 毎回同じ操作を手動で繰り返している\n- もっと速くできるはずなのにやり方がわからない\n- 公式ドキュメントが膨大すぎて追いきれない\n\n本記事では、**公式ドキュメント・changelog（v2.1.76まで）を徹底的に調査**し、意外と知られていないコマンド・裏技を **難易度別",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGMzYzNzIwNCUyRnByb2ZpbGUtaW1hZ2VzJTJGMTc3MjI4Njk1OT9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NjIyN2I1MTA1MTI4Zjk4NjQ3NzIxMWVkNmQzMzQ5NGY%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Dcf8a609748dabb40bb53ee930510b32b?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9Q2xhdWRlJTIwQ29kZSUyMCVFNyU5RiVBNSVFMyU4MiU4OSVFMyU4MSVBQSVFMyU4MSU4NCVFMyU4MSVBOCVFNiU5MCU4RCVFMyU4MSU5OSVFMyU4MiU4QiVFMyU4MiVCMyVFMyU4MyU5RSVFMyU4MyVCMyVFMyU4MyU4OSVFMyU4MyVCQiVFNiU5OSU4MiVFNyU5RiVBRCVFOCVBMSU5MyUyMDIwJUU5JTgxJUI4JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9MGRmN2MzMjNhNjVmMWI0ZmEyNzEwN2IzZTdlNzBlY2E&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBtaXJ1a3kmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1iMWMwZjM0MGFkNTI5NmU1ZmNjNDFiZDQxMGY0YWRjYw&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=538f658cdcbf463d6583da34d7ccee34",
+    "fetched_at": "2026-03-19 19:50:31",
+    "ja_summary": "・Claude Codeの公式ドキュメントや更新履歴を網羅し、作業を効率化する全20個のコマンドと裏技を難易度別に紹介。\n・手動操作の繰り返しを減らし、AI開発ツールをより高速・快適に使いこなすための実践的なテクニックを解説。\n・ドキュメントを読み込む時間がないユーザー向けに、生産性を高めるための知るべき知識を凝縮。"
+  },
+  {
     "title": "Escape from Excel方眼紙  ～マークダウンで繋ぐ、人とAIの架け橋～ /nikkei-tech-talk44",
     "link": "https://speakerdeck.com/nikkei_engineer_recruiting/nikkei-tech-talk44",
     "source": "Speaker Deck (Tech)",
@@ -958,45 +998,5 @@
     "image": "https://business.nikkei.com/atcl/seminar/21nv/00022/022500026/fb.jpg",
     "fetched_at": "2026-03-18 17:28:24",
     "ja_summary": "・特定のベテランに業務が依存する「主（ぬし）化」は経営上の大きなリスク。\n・AIを活用して職場の暗黙知を形式知化することで、属人化を解消できる。\n・個人のスキルを組織の資産に変え、業務の停滞を防ぐ体制構築が急務。"
-  },
-  {
-    "title": "OpenAI、未成年の安全なAI利用に向け日本独自のレポート",
-    "link": "https://www.watch.impress.co.jp/docs/news/2094508.html",
-    "source": "Impress Watch",
-    "published": "",
-    "summary": "OpenAI Japanは、日本の未成年ユーザーが安全にAIを活用できる環境づくりに向けた取り組みをまとめた「未成年の安全性に関するブループリント」を発表した。未成年ユーザーの安心なAI利用のための基本方針や今後の方向性を示したもので、サービス設計を中心に保護の仕組みを整理している。",
-    "image": "https://www.watch.impress.co.jp/img/ipw/list/2094/508/01.jpg",
-    "fetched_at": "2026-03-18 17:28:31",
-    "ja_summary": "・OpenAI Japanが未成年の安全なAI利用に向けた基本方針を発表。\n・サービス設計を軸に、安心な利用環境を構築するための仕組みを整理。\n・今後のAI活用を見据え、安全性確保への方向性を明示。"
-  },
-  {
-    "title": "NVIDIA、AI向けCPU「Vera」正式発表　GPU中心戦略を拡張",
-    "link": "https://www.watch.impress.co.jp/docs/news/2094049.html",
-    "source": "Impress Watch",
-    "published": "",
-    "summary": "NVIDIAは、エージェント型AIに特化した新CPU「Vera」と、次世代AI基盤「Vera Rubinプラットフォーム」を発表した。従来のGPU中心だった戦略を、CPUやネットワークを含む統合型インフラへと拡張する。",
-    "image": "https://www.watch.impress.co.jp/img/ipw/list/2094/049/nvidia01.jpg",
-    "fetched_at": "2026-03-18 17:28:33",
-    "ja_summary": "・NVIDIAがAI特化型の新CPU「Vera」と次世代AI基盤を発表。\n・従来のGPU主導から、CPU・ネットワークを含む統合インフラ戦略へ転換。\n・エージェント型AIの普及を見据え、システム全体の処理性能向上を図る。"
-  },
-  {
-    "title": "AIはすでに仕事を奪い始めており、特に2つの職業は非常に危うい",
-    "link": "https://www.businessinsider.jp/article/ai-jobs-companies-tech-investor-replacing-people-lawyers-recruiters-b/",
-    "source": "Business Insider Japan",
-    "published": "Wed, 18 Mar 2026 08:15:00 GMT",
-    "summary": "ベンチマークのジェネラルパートナーであるビクター・ラザールテは、AIは「人間と完全に置き換わる存在になる」と述べた。",
-    "image": "https://media.loom-app.com/loom/2025/04/16/ac41f191-973a-4fea-aca2-071a36503f54/original.jpg?w=1200&amp;h=630",
-    "fetched_at": "2026-03-18 17:28:35",
-    "ja_summary": "・AIの進化により、将来的に人間が完全に代替される職業が出現している。\n・特に特定の2つの職業が、AIによる置き換えの危機に直面している。\n・AIは既に労働市場に影響を与え始めており、雇用環境の変革が加速している。"
-  },
-  {
-    "title": "なぜ極寒の宇宙にデータセンターを置くと「冷えない」が課題となるのか--NVIDIAのCEOも言及",
-    "link": "https://japan.cnet.com/article/35245196/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "米NVIDIAのジェンスン・フアンCEOは、米カリフォルニア州サンノゼで開催した同社イベント「GTC」の基調講演で、軌道上AIデータセンターの実現に向けた構想に言及したが、課題として挙げたのは「冷却」だった。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35245196/\"><img src=\"https://japan.cnet.com/storage/2026/03/18/0373247877f11786b310d5b226e149da/t/184/138/d/gettyimages-2266458844__1_.jpeg\" /></a>",
-    "image": "https://japan.cnet.com/storage/2026/03/18/0373247877f11786b310d5b226e149da/t/184/138/d/gettyimages-2266458844__1_.jpeg",
-    "fetched_at": "2026-03-18 16:41:11",
-    "ja_summary": "・NVIDIAのフアンCEOが宇宙空間でのAIデータセンター構想を発表。\n・真空の宇宙では熱を逃がす空気がないため、機器の「冷却」が最大の技術的課題となる。\n・極寒の環境でも熱移動の仕組みが確保できないことが、宇宙利用の障壁となっている。"
   }
 ]
