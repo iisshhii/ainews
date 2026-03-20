@@ -1,5 +1,15 @@
 [
   {
+    "title": "React Native開発が変わる。RozeniteでCoding Agentに「目と手」を与えた話",
+    "link": "https://zenn.dev/tellernovel_inc/articles/bb27cd0f28f8cb",
+    "source": "Zenn Trends",
+    "published": "Thu, 19 Mar 2026 11:20:43 GMT",
+    "summary": "こんにちは！テラーノベルでiOS/Android/Webとフロントエンド周りを担当している @kazutoyoです！\n以前、React Native開発でCoding Agentを活用するためのSkillsを紹介しました。\nhttps://zenn.dev/tellernovel_inc/articles/7bb1facb9cfb4d\n今回は、Coding Agent自身がモバイルアプリを操作・検証できるようになるツールを2つ紹介します。\n\n Coding Agentに「自分の作業を検証する方法」を与えることの重要性\nClaude Codeのベストプラクティスにも、「Claudeに自分の...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--6eqVkYrl--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:React%2520Native%25E9%2596%258B%25E7%2599%25BA%25E3%2581%258C%25E5%25A4%2589%25E3%2582%258F%25E3%2582%258B%25E3%2580%2582Rozenite%25E3%2581%25A7Coding%2520Agent%25E3%2581%25AB%25E3%2580%258C%25E7%259B%25AE%25E3%2581%25A8%25E6%2589%258B%25E3%2580%258D%25E3%2582%2592%25E4%25B8%258E%25E3%2581%2588%25E3%2581%259F%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:kazutoyo%2540TellerNovel%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2Y2ZDBjOWE0YTEuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2583%2586%25E3%2583%25A9%25E3%2583%25BC%25E3%2583%258E%25E3%2583%2599%25E3%2583%25AB%2520%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzQ0OTFkZTE3MjUuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-03-20 20:54:01",
+    "ja_summary": "React Native開発において、AI（Coding Agent）が自らアプリを操作・検証できる環境を構築する手法を解説。\nAIに「目と手」となるツールを与えることで、実装からテストまでの自律的なサイクルが可能になる。\n開発効率の向上を目指すエンジニアに向け、実用的なツールと活用のアプローチを紹介する内容。"
+  },
+  {
     "title": "「AI音痴な上司」がチームを壊す？　7割が実感する生成AI活用の「組織的限界」",
     "link": "https://www.itmedia.co.jp/business/articles/2603/19/news028.html",
     "source": "ITmedia ビジネス",
@@ -988,15 +998,5 @@
     "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGMzkyMTg1MyUyRnByb2ZpbGUtaW1hZ2VzJTJGMTczMDE4MTMzOD9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9ZTFiNzgwOGFhNDdlYmQ0MGIwNWQ5MjZhMjJkZTgwOTg%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkZhZmM0ZGJhZjAzNThlOGQwYjM0NmM4ZDc1ZWIwMzdiMjVmNjc4MDY5JTJGb3JpZ2luYWwuanBnJTNGMTYwNzc1NjU4OD9peGxpYj1yYi00LjAuMCZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz1lMDc1YzkzZTdkYmMzZjRlM2JiMTJhYTRjY2JhMTUzYg%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D13d0e8f173cff5216d0233e5577760b3?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JTVCQUklRTYlOTklODIlRTQlQkIlQTMlRTMlODElQTclRTMlODIlODIlRTclOTQlOUYlRTMlODElOEQlRTYlQUUlOEIlRTMlODIlOEIlNUQlMjAlRTMlODIlQjclRTMlODMlQjMlRTMlODMlOTclRTMlODMlQUIlRTMlODElQUIlRTUlODQlQUElRTclQTclODAlRTMlODElQUElRTQlQkElQkElRTMlODElOEMlRTMlODIlODQlRTMlODElQTMlRTMlODElQTYlRTMlODElODQlRTMlODIlOEIlRTMlODElOTMlRTMlODElQTglRUYlQkMlOTclRTklODElQjgmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz0wNTU5NDZkMDIwYjQxMTA5MmFmYThmNzJmOTcwYjc0YQ&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDB0YWthX3hpbiZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTRlNmU5YjZjZGY5NjUzYjkyZjczMGRmYmZhMTcwNmEz&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=5qCq5byP5Lya56S-44K344Oz44K344Ki&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=a203b3a3bceef73320afebe9a4b62994",
     "fetched_at": "2026-03-19 10:25:36",
     "ja_summary": "・仕事ができる人は特別な才能ではなく、シンプルな習慣を徹底している。\n・AI時代においても、本質的な思考と行動の積み重ねが差を生む。\n・日常的な仕事の取り組み方を見直すことで、誰でも優秀な人の習慣を取り入れられる。"
-  },
-  {
-    "title": "【書評】 最速でわかる生成AI実践ガイド",
-    "link": "https://note.com/npaka/n/n010c081e719f",
-    "source": "note (npaka)",
-    "published": "Wed, 04 Mar 2026 11:33:09 +0900",
-    "summary": "<p id=\"b1b295a4-38a9-40a5-b2f4-13569c733c96\" name=\"b1b295a4-38a9-40a5-b2f4-13569c733c96\">近年、AIの世界では「プロンプトエンジニアリング」「RAG」「AIエージェント」といった言葉を頻繁に耳にするようになりました。しかし、ニュースやSNSで断片的に知っていても、それらが実際にどのような仕組みで動いているのかを説明できる人は、まだそれほど多くありません。</p><p id=\"a49d724c-7ac6-42d2-b483-3b31e19a4bd6\" name=\"a49d724c-7ac6-42d2-b483-3b31e19a4bd6\">『<strong>最速でわかる生成AI実践ガイド</strong>』は、そうした<strong>「なんとなく知っているAI」を体系的な理解へと変えてくれる一冊</strong>になります。</p><br /><a href=\"https://note.com/npaka/n/n010c081e719f\">続きをみる</a>",
-    "image": "https://assets.st-note.com/production/uploads/images/256356817/rectangle_large_type_2_0565aace42ab5b55e2faeb3c023bce63.png?width=800",
-    "fetched_at": "2026-03-19 08:52:00",
-    "ja_summary": "・生成AIの専門用語や仕組みを、体系的に学べる実践ガイドを紹介。\n・プロンプトやRAGなど、断片的な知識を網羅的に整理して理解できる。\n・AIの仕組みを基礎から学び、実務に応用したい人に最適な一冊。"
   }
 ]
