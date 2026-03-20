@@ -1,5 +1,35 @@
 [
   {
+    "title": "卒アルなど 性的なAI加工に注意",
+    "link": "https://news.yahoo.co.jp/pickup/6573326?source=rss",
+    "source": "Yahoo!ニュース IT・科学",
+    "published": "Mon, 16 Mar 2026 09:05:10 GMT",
+    "summary": "",
+    "image": "https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/suzukitomoko/02576702/title-1773634738340.jpeg?exp=10800",
+    "fetched_at": "2026-03-20 10:20:42",
+    "ja_summary": "・卒業アルバムなどの顔写真が、AIによって性的コンテンツに無断加工される被害が急増。\n・悪用された画像はSNSで拡散される恐れがあり、プライバシーや権利の重大な侵害となる。\n・写真の公開範囲を制限するほか、被害に気づいた際は警察や専門窓口へ早急に相談すること。"
+  },
+  {
+    "title": "Anthropic acquires Vercept to advance Claude's computer use capabilities",
+    "link": "https://www.anthropic.com/news/acquires-vercept",
+    "source": "Anthropic (News)",
+    "published": "Wed, 25 Feb 2026 00:00:00 +0000",
+    "summary": "Anthropic acquires Vercept to advance Claude's computer use capabilities",
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Node%20Cursor&amp;backgroundColor=coral",
+    "fetched_at": "2026-03-20 10:20:57",
+    "ja_summary": "・AnthropicがAIモデル「Claude」のPC操作機能強化のため、Verceptを買収。\n・PC画面を直接操作する技術を取り入れ、Claudeによる業務自動化を推進。\n・AIが人間のようにコンピュータを操作する実用化に向けて開発を加速。"
+  },
+  {
+    "title": "全端 AI 實戰：Gemini x Antigravity 快速開發與 PentestGPT 滲透攻防實務",
+    "link": "https://speakerdeck.com/j796160836/quan-duan-ai-shi-zhan-gemini-x-antigravity-kuai-su-kai-fa-yu-pentestgpt-shen-tou-gong-fang-shi-wu",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-03-19T20:33:45-04:00",
+    "summary": "在這個開發門檻被 AI 徹底粉碎的時代，人人都可以是擁有無限可能的指揮家。\n這場實戰將帶領你跨越傳統開發的邊界，體驗一種前所未有的「創造」與「毀滅」的交響詩。\n\n我們來一場即興的創造實驗，我們將透過 AI Studio 的直覺與 Antigravity 的靈動，\n跟 Gemini 來場的深度共鳴，彈指間將腦中的構思淬煉成一個完整運行的網頁應用。\n透過 PentestGPT 與 Gemini 的紅隊思維，\n我們將直視程式碼中的陰影，引導 AI 進行一場真實的滲透攻防，\n親手撕開創造者的溫柔，化身為冷峻的挑戰者。\n\n這是你將在 AI 的引領下，學會從攻擊者的眼中審視自己的作品。\n\n這不只是一場關於「創造」與「防禦」的循環演練，\n更是一次對軟體開發本質的重新覺醒——\n\n在 AI 時代，唯有理解如何破壞，才能真正學會如何守護。\n\n投影片：\n工作坊：https://github.com/j796160836/BwAI-20260319-workshop\n\nTags: AI Studio, Antigravity IDE, PentestGPT, AI-Driven Web Development, Security Testing, Cloud Deployment",
+    "image": "https://files.speakerdeck.com/presentations/c1b9b312f8a34d53bec92fbe300a85f7/preview_slide_0.jpg?38789402",
+    "fetched_at": "2026-03-20 10:21:02",
+    "ja_summary": "・GeminiとAntigravityを活用し、アイデアからWebアプリ開発までを短時間で実現する手法を解説。\n・PentestGPTを用いたAI主導のセキュリティ診断を通じて、攻撃者の視点から脆弱性を特定する手法を実践。\n・「破壊と守護」のプロセスを学び、AI時代の開発における本質的なセキュリティ思考を養うワークショップ。"
+  },
+  {
     "title": "OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first",
     "link": "https://openai.com/index/japan-teen-safety-blueprint",
     "source": "OpenAI",
@@ -968,35 +998,5 @@
     "image": "https://japan.zdnet.com/storage/2026/03/16/a253c8a4bc8ad7e9e8ff35e28ff86ecb/t/184/138/d/netappjp-ms_saitou-int_l.jpg",
     "fetched_at": "2026-03-19 06:20:03",
     "ja_summary": "ネットアップの斉藤社長が、就任以来推し進めているビジネス変革の現状と課題を語った。\n同社は、より多くの人に認知されるブランドへの成長を目標に掲げている。\nデジタル領域におけるさらなる事業拡大に向けた戦略的取り組みが焦点となっている。"
-  },
-  {
-    "title": "Why Codex Security Doesn’t Include a SAST Report",
-    "link": "https://openai.com/index/why-codex-security-doesnt-include-sast",
-    "source": "OpenAI",
-    "published": "Mon, 16 Mar 2026 00:00:00 GMT",
-    "summary": "A deep dive into why Codex Security doesn’t rely on traditional SAST, instead using AI-driven constraint reasoning and validation to find real vulnerabilities with fewer false positives.",
-    "image": "https://openai.com/favicon.ico",
-    "fetched_at": "2026-03-19 06:20:06",
-    "ja_summary": "・Codex Securityは従来のSAST（静的解析）を使用せず、AIによる制約推論と検証を採用。\n・誤検知を大幅に削減し、真の脆弱性を高精度に特定可能。\n・従来の解析手法の課題を克服した、次世代のセキュリティ診断アプローチ。"
-  },
-  {
-    "title": "企業が狙う“フィジカルAI人材”　高専生の甲子園「DCON」で有望人材が続々誕生 (今こそ高専、採用競争の舞台裏)",
-    "link": "https://business.nikkei.com/atcl/gen/19/00852/031600009/",
-    "source": "日経ビジネス 最新",
-    "published": "",
-    "summary": "高専がAIのスキルを取り込んで人材輩出力を高めている。「よく手が動く高専生はAI時代に即応できる」とAI研究の第一人者、東大・松尾豊教授も太鼓判を押す。日本の勝ち筋とされる「フィジカルAI」の担い手として期待が膨らむ。",
-    "image": "https://business.nikkei.com/atcl/gen/19/00852/031600009/fb.jpg",
-    "fetched_at": "2026-03-19 05:36:14",
-    "ja_summary": "・AIスキルを備えた「高専生」が、企業から次世代の即戦力として高く評価されている。\n・東大の松尾豊教授も、AIを実社会で扱う「フィジカルAI」の担い手として高専生に太鼓判。\n・高専生によるAIコンテスト「DCON」が有望人材の登竜門となり、採用競争が激化している。"
-  },
-  {
-    "title": "TSMCが米国に巨大工場群、AI半導体の需要増で新たな土地取得",
-    "link": "https://xtech.nikkei.com/atcl/nxt/mag/ne/18/00001/00616/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "台湾積体電路製造（TSMC）は米アリゾナ州の拠点で先端半導体の生産能力を大幅に増やす。公表済みの6棟の半導体工場の建設と量産を急ぎ、新たな工場用地も取得する。AI（人工知能）向けの旺盛な需要や米関税政策を背景に、米NVIDIA（エヌビディア）などの大口顧客が集中する米国での生産を強化する。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/mag/ne/18/00001/00616/topm.jpg?20220512",
-    "fetched_at": "2026-03-19 05:36:20",
-    "ja_summary": "・TSMCが米アリゾナ州での先端半導体生産を大幅強化へ。\n・AI需要の急増と米国の政策背景を受け、既存6棟に加え用地を追加取得。\n・NVIDIAなど主要顧客の拠点に近い米国での供給体制を盤石にする。"
   }
 ]
