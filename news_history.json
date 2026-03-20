@@ -1,5 +1,25 @@
 [
   {
+    "title": "新連載「やってみようVibe Coding 」第1回。ヴァイブ・コーディングという言葉を聞いたことがありますか？（小泉勝志郎）",
+    "link": "https://www.techno-edge.net/article/2026/03/20/4944.html",
+    "source": "TechnoEdge",
+    "published": "Fri, 20 Mar 2026 14:46:53 +0900",
+    "summary": "Vibe Coding（ヴァイブorバイブ・コーディング）って聞いたことありますか？　将棋の藤井聡太さんが「今年ハマったもの」としてこの言葉に触れていたんですよ。AIに作りたいものを日本語で伝えるとコードを書いてくれる、といった体験を語っていました。",
+    "image": "https://www.techno-edge.net/imgs/rss/30507.png",
+    "fetched_at": "2026-03-20 15:06:51",
+    "ja_summary": "・「ヴァイブ・コーディング」とは、AIに日本語で指示を出し、コードを生成してもらう開発手法のこと。\n・将棋の藤井聡太さんが今年ハマったものとして話題となり、注目を集めている。\n・AIとの対話だけでプログラミングが完結する、新しい開発体験について解説する連載が開始された。"
+  },
+  {
+    "title": "欠陥分析（ODC分析）における生成AIの活用プロセスと実践事例 / 20260320 Suguru Ishii & Naoki Yamakoshi & Mayu Yoshizawa",
+    "link": "https://speakerdeck.com/shift_evolve/20260320-suguru-ishii-and-naoki-yamakoshi-and-mayu-yoshizawa",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-03-19T01:59:44-04:00",
+    "summary": "2026/3/20 JaSST’26 Tokyo\nhttps://jasst.jp/tokyo/26-about/\n\n株式会社SHIFT\nCATエヴァンジェリスト\n石井 優\n\nExecutive Test Specialist\n山腰 直樹\n\nTest Engineer\n吉澤麻由",
+    "image": "https://files.speakerdeck.com/presentations/6c96f2322003436883a339609749e12b/preview_slide_0.jpg?38780939",
+    "fetched_at": "2026-03-20 15:07:04",
+    "ja_summary": "・ソフトウェア開発の品質分析手法である「ODC分析」に生成AIを導入するプロセスと実践事例を解説。\n・AI活用により、欠陥データの分類効率化や分析精度の向上を目指す手法を提示。\n・JaSST’26 Tokyoにて、SHIFTの専門家チームが実務への応用知見を共有。"
+  },
+  {
     "title": "新モデル「AirPods Max 2」発表",
     "link": "https://news.yahoo.co.jp/pickup/6573356?source=rss",
     "source": "Yahoo!ニュース IT・科学",
@@ -978,25 +998,5 @@
     "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0MzU0MTk3JTJGNzY4MGMzNmI0MjExOWM0NTJhZGE3NTg4MmZmYTdiZGY2YWM5OWY5MSUyRmxhcmdlLnBuZyUzRjE3NzM1OTE5OTU_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPWY2NzlkNTUyZTUxZTY1YTZkNTE1NWNiMDY1OWY4M2Uz%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Dabf9ad6160c15f0825d62e524e5418ea?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9QW50aHJvcGljJUU1JTg1JUFDJUU1JUJDJThGJUUzJTgwJThDU2tpbGxzJUU1JUFFJThDJUU1JTg1JUE4JUUzJTgyJUFDJUUzJTgyJUE0JUUzJTgzJTg5JUUzJTgwJThEJUUzJTgyJTkyJUU4JUFBJUFEJUUzJTgyJTkzJUUzJTgxJUEwJUUzJTgyJTg5JUUzJTgwJTgxJUU4JTg3JUFBJUU1JTg4JTg2JUUzJTgxJUFFU0tJTEwubWQlRTMlODElQUUlRTMlODMlODglRTMlODMlQkMlRTMlODIlQUYlRTMlODMlQjMlRTYlQjYlODglRTglQjIlQkIlRTMlODIlOTI0MCUyNSVFNiVCOCU5QiVFMyU4MiU4OSVFMyU4MSU5QiVFMyU4MSU5RiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTYwN2ZjNzMzYTM0M2YyMjYyMWJiNmExZjE1OWU5NzQ0&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDB5dXJ1a3VzYSZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWUzZjE5NmRiNTgxN2MyNzIyZTk5MDFiZTYxNDUyNTIz&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=166638199dbdcd7d075a21eac02d838f",
     "fetched_at": "2026-03-19 07:28:39",
     "ja_summary": "Anthropicの公式ガイドを参考にスキル設定を最適化した結果、SKILL.mdのトークン消費を40%削減。\n不要な記述を削ることで、Claudeのレスポンス速度と応答精度の向上が実現した。\n公式のベストプラクティスに基づいた構成見直しが、効率的なAI活用において極めて有効である。"
-  },
-  {
-    "title": "アマゾン、セールスフォース、IBMなど、従業員をAIに置き換え始めたテック企業9社…アメリカ労働市場の11.7％はすでにAIで代替可能",
-    "link": "https://www.businessinsider.jp/article/ai-workforce-reduction-amazon-salesforce-ibm/",
-    "source": "Business Insider Japan",
-    "published": "Wed, 18 Mar 2026 21:35:00 GMT",
-    "summary": "人間の仕事がAIに置き換わるという未来がすでに到来しています。この記事では、仕事をすでにAIに置き換えているか、その計画に言及した9社のテック企業を紹介します。",
-    "image": "https://media.loom-app.com/loom/2026/03/18/bf4d2c45-190d-4073-991f-d7d45aba1bb5/original.jpg?w=1200&amp;h=630",
-    "fetched_at": "2026-03-19 06:56:30",
-    "ja_summary": "・アマゾンやセールスフォースなど、大手テック企業9社がAIによる業務代替を本格化。\n・AIは既に米労働市場の11.7%を代替可能な水準に達している。\n・AI導入が将来の構想から現実の経営戦略へと移行している。"
-  },
-  {
-    "title": "Equipping workers with insights about compensation",
-    "link": "https://openai.com/index/equipping-workers-with-insights-about-compensation",
-    "source": "OpenAI",
-    "published": "Tue, 17 Mar 2026 00:00:00 GMT",
-    "summary": "New research shows Americans send nearly 3 million daily messages to ChatGPT asking about compensation and earnings, helping close the wage information gap.",
-    "image": "https://openai.com/favicon.ico",
-    "fetched_at": "2026-03-19 06:56:41",
-    "ja_summary": "・米国の労働者がChatGPTに報酬額を相談する件数が1日約300万件に達している。\n・AIへの問いかけが、労働者間の賃金情報の格差を埋める一助となっている。"
   }
 ]
