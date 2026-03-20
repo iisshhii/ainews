@@ -1,5 +1,25 @@
 [
   {
+    "title": "アップルのクックCEO、引退説を否定　AI・スマホ中毒・トランプ氏との関係を語る",
+    "link": "https://japan.cnet.com/article/35245239/",
+    "source": "CNET Japan",
+    "published": "",
+    "summary": "アップルのティム・クックCEOが情報番組での対談に応じ、引退説を否定。その他AIやトランプ大統領など、さまざまな話題について語った。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35245239/\"><img src=\"https://japan.cnet.com/storage/2026/03/19/e87cad4effc4db50fc325d47db67645b/t/184/138/d/gettyimages-2256824992_1280x960.jpg\" /></a>",
+    "image": "https://japan.cnet.com/storage/2026/03/19/e87cad4effc4db50fc325d47db67645b/t/184/138/d/gettyimages-2256824992_1280x960.jpg",
+    "fetched_at": "2026-03-21 08:21:37",
+    "ja_summary": "・アップルのティム・クックCEOが引退説を否定し、現職続行を表明。\n・AI戦略やスマホ依存、トランプ氏との関係など多岐にわたるトピックについて見解を述べた。"
+  },
+  {
+    "title": "AI生成文から「AIくささ」を取り除く技術と、Claude Codeスキルに組み込むまでの話",
+    "link": "https://zenn.dev/m0370/articles/205c9340a418c3",
+    "source": "Zenn Trends",
+    "published": "Thu, 19 Mar 2026 23:07:00 GMT",
+    "summary": "AIが書いた文章は、なぜバレるのか\nChatGPTやClaudeに文章を書かせると、どこか「それっぽい」仕上がりになる。丁寧で、整っていて、読みやすい。でも何か引っかかる。その違和感の正体を、Wikipediaのコミュニティが体系的にまとめていることを最近知りました。\n「Signs of AI writing」というページがそれです。WikiProject AI Cleanupという有志のプロジェクトが、Wikipedia上に紛れ込んだAI生成記事を何千件も精査するなかで、パターンを抽出してきたものです。たとえば「pivotal」「landscape」「tapestry」といった単語...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--Euu8GBey--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%25E7%2594%259F%25E6%2588%2590%25E6%2596%2587%25E3%2581%258B%25E3%2582%2589%25E3%2580%258CAI%25E3%2581%258F%25E3%2581%2595%25E3%2581%2595%25E3%2580%258D%25E3%2582%2592%25E5%258F%2596%25E3%2582%258A%25E9%2599%25A4%25E3%2581%258F%25E6%258A%2580%25E8%25A1%2593%25E3%2581%25A8%25E3%2580%2581Claude%2520Code%25E3%2582%25B9%25E3%2582%25AD%25E3%2583%25AB%25E3%2581%25AB%25E7%25B5%2584%25E3%2581%25BF%25E8%25BE%25BC%25E3%2582%2580%25E3%2581%25BE%25E3%2581%25A7%25E3%2581%25AE%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:m0370%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzhjOTY0ZmIzZjMuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-03-21 08:22:04",
+    "ja_summary": "AI生成文特有の「整いすぎた違和感」は、頻出単語などのパターンとして言語化されている。\nWikipediaの調査プロジェクトがその特徴を体系化しており、AI文章の判定基準として活用可能。\nこの知見をClaude Codeなどのツールへ組み込むことで、AIっぽさを排除した自然な文章生成が可能になる。"
+  },
+  {
     "title": "採用面接 生成AIでなりすましも",
     "link": "https://news.yahoo.co.jp/pickup/6573578?source=rss",
     "source": "Yahoo!ニュース IT・科学",
@@ -978,25 +998,5 @@
     "image": "https://files.speakerdeck.com/presentations/5fd94f72a3564600b8a35d76a0246fd3/preview_slide_0.jpg?38768176",
     "fetched_at": "2026-03-19 14:26:02",
     "ja_summary": "・AIを活用し、モバイルアプリを数分で構築できるプラットフォーム「Rork」が登場。\n・専門的なプログラミング知識がなくても、迅速にアプリの開発・リリースが可能。\n・開発工数を大幅に短縮し、効率的なアプリ制作を実現する。"
-  },
-  {
-    "title": "製造業の暗黙知をAIで継承へ、慶大・栗原教授らが業界団体を発足",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11591/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "日本の製造業が蓄積した業務ノウハウを、AI（人工知能）によって継承・活用する仕組みの構築を目指す業界団体が発足した。人工知能学会会長も務める慶応義塾大学理工学部の栗原聡教授らが、2026年3月16日に立ち上げた「匠和会（しょうわかい）」だ。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11591/topm.jpg?20220512",
-    "fetched_at": "2026-03-19 13:00:21",
-    "ja_summary": "慶応大・栗原教授らが製造業の熟練技術をAIで継承・活用する団体「匠和会」を発足。\nベテランの暗黙知をデータ化し、日本の製造現場のノウハウ継承の仕組みづくりを目指す。\n2026年3月の設立を通じ、AIによる産業競争力の強化を推進する。"
-  },
-  {
-    "title": "「トップガン」俳優の故ヴァル・キルマーさん、AIで新作映画に登場へ",
-    "link": "https://japan.cnet.com/article/35245250/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "映画「トップガン」などへの出演で知られ、2025年に亡くなった俳優ヴァル・キルマーさんが、生前に撮影が完了しなかった新作映画に登場する。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35245250/\"><img src=\"https://japan.cnet.com/storage/2026/03/19/9a012988878b1327ad9036cef8344d16/t/184/138/d/gettyimages-143201559_1280x960.jpg\" /></a>",
-    "image": "https://japan.cnet.com/storage/2026/03/19/9a012988878b1327ad9036cef8344d16/t/184/138/d/gettyimages-143201559_1280x960.jpg",
-    "fetched_at": "2026-03-19 13:00:28",
-    "ja_summary": "・2025年に逝去した俳優ヴァル・キルマーさんが、新作映画に登場する。\n・未撮影のシーンをAI技術で再現し、完成させる。"
   }
 ]
