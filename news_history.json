@@ -1,5 +1,35 @@
 [
   {
+    "title": "DeNAがPerl6000行をGo言語へ　特性異なるAIエージェント駆使",
+    "link": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020800017/031001406/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "ディー・エヌ・エー（DeNA）は2025年10月末から11月末にかけ、Perl言語で記述されたサーバー資産管理API（アプリケーション・プログラミング・インターフェース）をGo言語に移行した。コードの分量はPerlが約6000行、移行後のGoは約1万行に及ぶ。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020800017/031001406/topm.jpg?20220512",
+    "fetched_at": "2026-03-20 17:32:24",
+    "ja_summary": "・DeNAがサーバー管理APIをPerlからGo言語へ移行\n・約6000行のPerlコードを約1万行のGoへ刷新\n・開発効率向上に向け、特性の異なるAIエージェントを駆使して実施"
+  },
+  {
+    "title": "サイバーペット、お見合い、そして株式取引――中国のユーザーがOpenClawブームに飛びつく理由",
+    "link": "https://www.businessinsider.jp/article/2603china-openclaw-craze-lobster-stock-trading-blind-dates-cyber-pets/",
+    "source": "Business Insider Japan",
+    "published": "Wed, 18 Mar 2026 22:15:00 GMT",
+    "summary": "中国ではAIツールOpenClaw（オープンクロー）が流行し、株取引やデート支援、デジタルペットなど、風変わりな使い方が広がっています。セキュリティ警告が出ているものの、人気は衰えていません。",
+    "image": "https://media.loom-app.com/loom/2026/03/17/f8627650-50a6-4153-a9cf-356d642598a6/original.jpg?w=1200&amp;h=630",
+    "fetched_at": "2026-03-20 17:32:32",
+    "ja_summary": "・中国でAIツール「OpenClaw」が、株取引やデート支援など多目的に使われ急普及。\n・セキュリティリスクが指摘されているものの、その利便性と物珍しさから人気が継続。\n・AIの独創的な活用が広がる一方、安全性への懸念が課題となっている。"
+  },
+  {
+    "title": "ChatGPTの「日本向け未成年AI安全指針」が公表。「2段構え」で子どもを守るOpenAIの狙い",
+    "link": "https://www.businessinsider.jp/article/2603-openai-teen-ai-safety-blueprint-japan/",
+    "source": "Business Insider Japan",
+    "published": "Wed, 18 Mar 2026 22:00:00 GMT",
+    "summary": "OpenAIが日本向け「未成年の安全性に関するブループリント」を発表。AIがプロンプトから年齢を自動推定し、18歳未満に安全対策を適用。ペアレンタルコントロールとの「2段構え」で子どもを守る仕組みを解説します。",
+    "image": "https://media.loom-app.com/loom/2026/03/18/a918bd04-2cb6-4c13-a527-c04e5b5c7b8a/original.jpg?w=1200&amp;h=630",
+    "fetched_at": "2026-03-20 17:32:33",
+    "ja_summary": "・OpenAIが日本向け「未成年の安全性に関する指針」を公表\n・AIがプロンプトから年齢を自動推定し、未成年向けの制限を適用\n・AI側の自動制御とペアレンタルコントロールによる「2段構え」で保護を強化"
+  },
+  {
     "title": "次世代SNSが挑む 感情理解するAI",
     "link": "https://news.yahoo.co.jp/pickup/6573705?source=rss",
     "source": "Yahoo!ニュース IT・科学",
@@ -968,35 +998,5 @@
     "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03367/031400018/topm.jpg?20220512",
     "fetched_at": "2026-03-19 07:57:05",
     "ja_summary": "・日産がウーバー、エヌビディアと組み、自動運転タクシー事業でテスラに対抗。\n・AI技術から配車まで専門企業が連携する「水平分業」モデルを構築。\n・2026年後半より東京で試験運用を開始する予定。"
-  },
-  {
-    "title": "ラバブル幹部、「最大の脅威はOpenAIやアンソロピックのような業界のビッグプレイヤー」",
-    "link": "https://www.businessinsider.jp/article/2603lovable-growth-exec-openai-anthropic-competition-cursor-replit-vibe-coding/",
-    "source": "Business Insider Japan",
-    "published": "Wed, 18 Mar 2026 22:30:00 GMT",
-    "summary": "ラバブルのヴェーナ氏は、主な競合はコーディング系スタートアップではなく大手テック企業だと述べています。研究機関の強いディストリビューション能力が理由で、ARRは1カ月で30％増加しました。",
-    "image": "https://media.loom-app.com/loom/2026/03/17/d90e3291-d45e-4ac5-8631-764e09a90b83/original.jpg?w=1200&amp;h=630",
-    "fetched_at": "2026-03-19 07:57:11",
-    "ja_summary": "・ラバブルは、競合を他スタートアップではなくOpenAI等の大手テック企業と定義。\n・大手企業が持つ強力な販路（ディストリビューション）を最大の脅威と見なしている。\n・強固な競争環境下でも成長は続いており、月次経常収益（ARR）は1カ月で30％増加。"
-  },
-  {
-    "title": "非エンジニアでも簡単！　ChatGPT「Canvas」で便利なアプリを作成する方法【今すぐ使えるプロンプト紹介】",
-    "link": "https://www.itmedia.co.jp/business/articles/2603/18/news025.html",
-    "source": "ITmedia ビジネス",
-    "published": "Wed, 18 Mar 2026 06:00:00 +0900",
-    "summary": "定型業務を効率化するのに専用アプリがあればいいのにと思っています。プログラミングはできませんが、AIを使って自分でアプリを作れますか？",
-    "image": "https://image.itmedia.co.jp/business/articles/2603/18/cover_news025.png",
-    "fetched_at": "2026-03-19 07:27:41",
-    "ja_summary": "・ChatGPTの新機能「Canvas」を活用すれば、プログラミング未経験でもアプリ作成が可能。\n・定型業務の効率化に必要なツールを、AIとの対話だけで自作できる。\n・記事内のプロンプトを使えば、誰でもすぐにアプリ開発を始められる。"
-  },
-  {
-    "title": "AI駆動開発ツール「IBM Bob」を提供　COBOLをモダン言語と同列サポート",
-    "link": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020800017/031001403/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "日本IBMは、AI（人工知能）駆動でシステム開発を支援するツール「IBM Bob」のSaaS版を2026年3月から、オンプレミス版を同年9月までに提供を開始する。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020800017/031001403/topm.jpg?20220512",
-    "fetched_at": "2026-03-19 07:27:54",
-    "ja_summary": "・日本IBMがAI開発支援ツール「IBM Bob」の提供を発表。\n・COBOLをモダン言語と同列に扱い、レガシーシステムの開発を効率化。\n・SaaS版を2026年3月、オンプレミス版を同年9月までに展開予定。"
   }
 ]
