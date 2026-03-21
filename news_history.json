@@ -1,5 +1,45 @@
 [
   {
+    "title": "SB子会社が音声対話AIの基盤技術で特許、音声の読み誤りを修正",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11596/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "ソフトバンク子会社のGen-AX（ジェナックス）は2026年3月18日、音声対話型AI（人工知能）エージェントの基盤技術に関して特許2件を取得したと発表した。同社が今回取得したのは、コンタクトセンター向けに提供する自律型AIオペレーター「X-Ghost」における日本語音声の読み誤りを抑制する技術と、通信遅延や切断時でも対話を継続する冗長化技術の特許である。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11596/topm.jpg?20220512",
+    "fetched_at": "2026-03-21 13:56:47",
+    "ja_summary": "・ソフトバンク子会社のGen-AXが、音声対話AIの基盤技術で特許を2件取得。\n・AIオペレーター「X-Ghost」の音声認識精度を向上させ、誤字脱字を抑制する。\n・通信トラブル発生時でも対話を継続できる冗長化技術により、安定性を強化。"
+  },
+  {
+    "title": "故障した「AirPods Max」が冷凍庫で復活するって本当？ 試してみた結果",
+    "link": "https://japan.cnet.com/article/35245214/",
+    "source": "CNET Japan",
+    "published": "",
+    "summary": "愛用のアップル製ヘッドホン「AirPods Max」が故障し、何とかならないかとネット検索したところ、信じられないような修理方法に行き当たった。事の顛末をお伝えする。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35245214/\"><img src=\"https://japan.cnet.com/storage/2026/03/19/5fbb6ebe82b7b3701f703e555c9a1082/t/184/138/d/airpods-max-frozen_1280x960.jpg\" /></a>",
+    "image": "https://japan.cnet.com/storage/2026/03/19/5fbb6ebe82b7b3701f703e555c9a1082/t/184/138/d/airpods-max-frozen_1280x960.jpg",
+    "fetched_at": "2026-03-21 13:56:58",
+    "ja_summary": "故障したAirPods Maxを「冷凍庫に入れる」という噂の修理方法を実際に検証したレポート。\n結露によるリスクが高く、公式な解決策ではないため推奨されないという結論。\nネット上の噂を鵜呑みにせず、適切なサポートへの相談が必要。"
+  },
+  {
+    "title": "【書評】 作ってわかる大規模言語モデルの仕組み",
+    "link": "https://note.com/npaka/n/na8c148cd1fa2",
+    "source": "note (npaka)",
+    "published": "Fri, 13 Mar 2026 18:07:38 +0900",
+    "summary": "<p id=\"6aafce9a-7e4d-486a-a3cc-991ecc9823bf\" name=\"6aafce9a-7e4d-486a-a3cc-991ecc9823bf\">LLM（大規模言語モデル）の本はいろいろ出てきていますが、この『<strong>作ってわかる大規模言語モデルの仕組み</strong>』はかなりの良書です。理由はシンプルで、<strong>LLMを実際に作りながらその仕組みを理解できる本だから</strong>です。</p><p id=\"89714c77-b429-49f0-9c60-b6018ba4a9f1\" name=\"89714c77-b429-49f0-9c60-b6018ba4a9f1\">最近はLLMの解説記事や論文も増え、「Transformer」「LoRA」「RLHF」「DPO」といった言葉もよく見かけます。しかし、単語としては知っていても、</p><br /><a href=\"https://note.com/npaka/n/na8c148cd1fa2\">続きをみる</a>",
+    "image": "https://assets.st-note.com/production/uploads/images/258794679/rectangle_large_type_2_83c6149895c91e2b4f3e6dea43174b0d.jpeg?width=800",
+    "fetched_at": "2026-03-21 13:57:00",
+    "ja_summary": "・『作ってわかる大規模言語モデルの仕組み』は、実際に手を動かしながらLLMの構造を学べる良書である。\n・概念的な専門用語を知識として知るだけでなく、制作プロセスを通じて技術の仕組みを深く理解できる。\n・LLMの仕組みを実践的に習得したいエンジニアや学習者にとって最適な一冊。"
+  },
+  {
+    "title": "MacBook Neoの完全ローカル自作エージェンティックAIで、Apple Intelligence Foundation Modelをフル活用してみた（CloseBox）",
+    "link": "https://www.techno-edge.net/article/2026/03/21/4947.html",
+    "source": "TechnoEdge",
+    "published": "Sat, 21 Mar 2026 12:58:54 +0900",
+    "summary": "我が家のコンピュータ全てにエージェンティックAIを組み込んでいく活動を行っています。",
+    "image": "https://www.techno-edge.net/imgs/rss/30545.jpg",
+    "fetched_at": "2026-03-21 13:57:10",
+    "ja_summary": "・自宅の全PCに自律型AI（エージェンティックAI）を導入するプロジェクトを開始。\n・MacBookでAppleのモデルをフル活用し、ローカル環境でAIを動かす仕組みを構築。\n・外部サーバーに頼らず、手元の環境で高度なAIエージェントの運用を実現。"
+  },
+  {
     "title": "【PR】自ら考え動くAIエージェント、開発現場に貢献",
     "link": "https://xtech.nikkei.com/atcl/nxt/special/18/00001/031000080/",
     "source": "日経クロステック 総合",
@@ -958,45 +998,5 @@
     "image": "https://japan.cnet.com/storage/2026/03/19/f224a61e92f7c5ca68698a6c689ff693/t/184/138/d/01.jpg",
     "fetched_at": "2026-03-19 17:07:42",
     "ja_summary": "・PLAUDがウェアラブルAIレコーダー新型「NotePin S」を2万8600円で発売。\n・物理ボタン追加で録音中のハイライト記録が可能になり、利便性が向上。\n・データはAWS東京リージョンで管理され、企業のセキュリティ要件にも対応。"
-  },
-  {
-    "title": "「行政の進化と革新のための生成AIの調達・利活用に係るガイドライン」の改定案に関する意見募集を行います",
-    "link": "https://www.digital.go.jp/news/dc6a64ec-e7c1-4f9f-83a2-18578b1f59ff",
-    "source": "デジタル庁",
-    "published": "Wed, 18 Mar 2026 15:00:00 +0900",
-    "summary": "",
-    "image": "https://www.digital.go.jp/themes/custom/gov_theme_da_2023/assets/images/ogp.png",
-    "fetched_at": "2026-03-19 17:07:57",
-    "ja_summary": "・政府は行政の生成AI活用を促進するため、調達や利用ルールを定めたガイドラインの改定案を策定。\n・安全かつ効果的なAI運用のための指針を更新し、広く国民からの意見募集（パブリックコメント）を開始。\n・行政サービスの効率化と革新に向け、最新の技術動向やリスク対策を反映させる狙い。"
-  },
-  {
-    "title": "グーグル、「パーソナルインテリジェンス」を無料開放　個人に最適化したAI回答",
-    "link": "https://www.watch.impress.co.jp/docs/news/2094361.html",
-    "source": "Impress Watch",
-    "published": "",
-    "summary": "Googleは17日(米国時間)、「パーソナルインテリジェンス(Personal Intelligence)」を米国でAIモードにも提供開始し、GeminiアプリとGemini in Chromeでも無料ユーザー向けに順次展開すると発表した。",
-    "image": "https://www.watch.impress.co.jp/img/ipw/list/2094/361/01.jpg",
-    "fetched_at": "2026-03-19 16:36:09",
-    "ja_summary": "・Googleが個人に最適化したAI回答機能「パーソナルインテリジェンス」の無料提供を開始。\n・GeminiアプリとChrome上のGeminiにて、米国から順次利用が可能となる。\n・ユーザー個人の状況に応じた、より高度でパーソナライズされたAI支援が無料で利用可能に。"
-  },
-  {
-    "title": "NECと小田原市、人事給与と庶務事務データを活用した組織の真因分析の実証を開始",
-    "link": "https://japan.zdnet.com/article/35245236/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "NECは、神奈川県小田原市の協力を得て、GPRIME人事給与システムおよび庶務事務システム内のデータと、NECからカーブアウトしたスタートアップであるhootfolioの因果AIを活用し、組織課題の因果関係を明らかにする実証実験を開始する。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35245236/\"><img src=\"https://japan.zdnet.com/storage/2025/11/07/1d70c6b3fd209b9551e1dc5ec9352c1e/t/184/138/d/251107_diagram_as_1280_316504896.jpg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2025/11/07/1d70c6b3fd209b9551e1dc5ec9352c1e/t/184/138/d/251107_diagram_as_1280_316504896.jpg",
-    "fetched_at": "2026-03-19 16:36:29",
-    "ja_summary": "NECと小田原市は、人事・給与・庶務データを活用した組織課題の分析実証を開始する。\nスタートアップhootfolioの「因果AI」を用い、データから組織が抱える課題の根本原因を特定する。\n科学的な分析により、業務効率化や組織の活性化に向けた施策の立案を目指す。"
-  },
-  {
-    "title": "約半数がAIを活用した脅威に対する封じ込めに苦戦--Illumio、サイバー攻撃対策に関する調査",
-    "link": "https://japan.zdnet.com/article/35245232/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "Illumioは、サイバー攻撃の対策状況に関する企業調査の結果をまとめたレポート「The Containment Gap: Exploring the Distance Between Detection and Resilience（セキュリティ侵害の封じ込めのギャップ：検知とレジリエンスの間にある隔たりを検証する）」を発表した。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35245232/\"><img src=\"https://japan.zdnet.com/storage/2025/08/22/2150d3bbd3cdc0f9c6e79dbfb7dbd040/t/184/138/d/250822_security_as_1280_1414640903.jpeg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2025/08/22/2150d3bbd3cdc0f9c6e79dbfb7dbd040/t/184/138/d/250822_security_as_1280_1414640903.jpeg",
-    "fetched_at": "2026-03-19 16:36:29",
-    "ja_summary": "・企業の約半数が、AIを活用したサイバー攻撃の封じ込めに苦戦していることが判明。\n・検知能力と被害拡大を最小限に抑えるレジリエンス（回復力）の間に大きな乖離がある。\n・Illumioの調査により、サイバー攻撃への対策現場で深刻な課題が浮き彫りとなった。"
   }
 ]
