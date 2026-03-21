@@ -1,5 +1,15 @@
 [
   {
+    "title": "AI × Pythonで研究が“30秒で終わる”ようになった話 ― データ基盤 → 仮説量産 → 高速検証の時代へ",
+    "link": "https://qiita.com/d94231/items/0bf79993886f7d73a81b",
+    "source": "Qiita (Popular)",
+    "published": "2026-03-14T21:27:08+09:00",
+    "summary": "\n最近、研究の進め方が劇的に変わりました。  \nきっかけは **AIとPythonを本格的に導入したこと**。\n\n昔ながらの  \n「テーマ決め → データ収集 → 分析」  \nという研究フローは、もう完全に過去のものになりました。\n\n今は、\n\n**データ基盤を先に作り、AIで仮説を量産し、Pythonで高速に検証する。**\n\nこの3ステップで研究が“回る”ようになっています。\n\nそして驚くべきこと",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmxoMy5nb29nbGV1c2VyY29udGVudC5jb20lMkZhJTJGQUNnOG9jTEEtTWFZZ3c1ZHA5c2tMV3h5Zk52WTdqZHBkRnZqbDBROEtnZVZQX0pOcUFBdGJROCUzRHM5Ni1jP2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz04MGFhODM2YWZkOGQxOWJhMDAzNTQyYjBlY2Q3NzVkMw%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Db06e5bc9a5760b6694a5bbf99003c27a?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9QUklMjAlQzMlOTclMjBQeXRob24lRTMlODElQTclRTclQTAlOTQlRTclQTklQjYlRTMlODElOEMlRTIlODAlOUMzMCVFNyVBNyU5MiVFMyU4MSVBNyVFNyVCNSU4MiVFMyU4MiU4RiVFMyU4MiU4QiVFMiU4MCU5RCVFMyU4MiU4OCVFMyU4MSU4NiVFMyU4MSVBQiVFMyU4MSVBQSVFMyU4MSVBMyVFMyU4MSU5RiVFOCVBOSVCMSUyMCVFMiU4MCU5NSUyMCVFMyU4MyU4NyVFMyU4MyVCQyVFMyU4MiVCRiVFNSU5RiVCQSVFNyU5QiVBNCUyMCVFMiU4NiU5MiUyMCVFNCVCQiVBRSVFOCVBQSVBQyVFOSU4NyU4RiVFNyU5NCVBMyUyMCVFMiU4NiU5MiUyMCVFOSVBQiU5OCVFOSU4MCU5RiVFNiVBNCU5QyVFOCVBOCVCQyVFMyU4MSVBRSVFNiU5OSU4MiVFNCVCQiVBMyVFMyU4MSVCOCZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPWQyMWU4MjI5Yjk1Y2FjNDFhMjk2ZjAyMmJjOTg1ZjA4&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBkOTQyMzEmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz00NTY1ODY5NTRmZGU3YWFhMWMxNjljN2Y2OTU5OWQyYg&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=8f4181264cb5cde07b22c5c48e3ca6ae",
+    "fetched_at": "2026-03-22 08:46:27",
+    "ja_summary": "・AIとPythonの導入により、研究フローが「データ収集・分析」から「仮説量産・高速検証」へと進化した。\n・データ基盤の構築を起点に、AIとプログラミングを活用することで、従来の手法を劇的に効率化した。\n・試行錯誤のスピードが飛躍的に高まり、短時間で研究成果を出すことが可能な環境へと変貌している。"
+  },
+  {
     "title": "NVIDIA、「AIエージェントの暴走リスク」に対処　OpenClaw向け新基盤を発表",
     "link": "https://japan.cnet.com/article/35245281/",
     "source": "CNET Japan",
@@ -988,15 +998,5 @@
     "image": "https://japan.zdnet.com/storage/2026/03/19/1fd91c79eee6da8729cea2d834d95a78/t/184/138/d/i-unsubscribed-from-20-lists-in-seconds-with-gmails-new-tool-heres-how-to-use-it_l.jpg",
     "fetched_at": "2026-03-20 08:23:10",
     "ja_summary": "Gmailの容量不足時、古いメールを新アカウントに転送して整理することで、元アカウントの空き容量を無料で確保できる。\n既存データを保持したまま、実質的にストレージを拡張する有効な回避策。"
-  },
-  {
-    "title": "【社内メモを入手】マイクロソフト、Copilotチームを統合…スレイマン氏は「超知能」に注力",
-    "link": "https://www.businessinsider.jp/article/2603-microsoft-combines-copilot-teams-and-mustafa-suleyman-superintelligence-memos/",
-    "source": "Business Insider Japan",
-    "published": "Thu, 19 Mar 2026 22:35:00 GMT",
-    "summary": "主要幹部が引退を表明したことを受けて、マイクロソフトでは組織再編が進行中です。",
-    "image": "https://media.loom-app.com/loom/2026/03/18/3ec3d5e4-96e7-425d-9415-a0c778371d66/original.jpg?w=1200&amp;h=630",
-    "fetched_at": "2026-03-20 07:54:10",
-    "ja_summary": "・マイクロソフトがAI部門の組織再編を実施し、Copilotチームを統合。\n・幹部の引退に伴い、ムスタファ・スレイマン氏が「超知能」開発を主導。\n・AI戦略の集中化により、次世代AI技術の強化を加速させる。"
   }
 ]
