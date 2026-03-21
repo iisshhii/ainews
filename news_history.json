@@ -1,5 +1,35 @@
 [
   {
+    "title": "古いPCをChromeOS Flexで蘇らせる（ChromeOS FlexのちLinux開発環境の立ち上げ、時々Gemini CLI）",
+    "link": "https://zenn.dev/gidajun/articles/bf4d9b493d5e9a",
+    "source": "Zenn Trends",
+    "published": "Fri, 20 Mar 2026 17:41:44 GMT",
+    "summary": "自宅にはまだ十分に動くWindows 10のPCがあったものの、Windows 11の厳しいシステム要件（TPM 2.0やCPU世代の制限）に阻まれアップデートができずWindows 10サポート終了でお役御免なPCがあります。\nだけどスペック的にはまだまだ使えそうではあるのです。\nCPUこそ2015年ごろの第6世代（現在の最新世代は第14世代）のIntel Coreプロセッサ Skylakeで古いものの、メモリが16GBも積んであって、SSDもSATA/M.2 NVMe対応の256GBなので、このまま廃棄するには勿体無い。\nそこで、このPCをGoogleのChromeOS Flexで蘇...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--68RLUyua--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E5%258F%25A4%25E3%2581%2584PC%25E3%2582%2592ChromeOS%2520Flex%25E3%2581%25A7%25E8%2598%2587%25E3%2582%2589%25E3%2581%259B%25E3%2582%258B%25EF%25BC%2588ChromeOS%2520Flex%25E3%2581%25AE%25E3%2581%25A1Linux%25E9%2596%258B%25E7%2599%25BA%25E7%2592%25B0%25E5%25A2%2583%25E3%2581%25AE%25E7%25AB%258B%25E3%2581%25A1%25E4%25B8%258A%25E3%2581%2592%25E3%2580%2581%25E6%2599%2582%25E3%2580%2585G...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%258E%25E3%2581%25A0%25E3%2581%2598%25E3%2582%2585%25E3%2582%2593%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzI2ZjI0ZjQ5ZWMuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-03-21 20:56:55",
+    "ja_summary": "・Windows 11非対応の古いPCを「ChromeOS Flex」で再利用し、廃棄を回避。\n・メモリ16GBのスペックを活かし、Linux環境やGemini CLIを構築して活用。\n・古いハードウェアをOS入れ替えで現役の作業環境として蘇らせる手法。"
+  },
+  {
+    "title": "方眼紙Excel→Markdown変換、結局LLMしか勝たん話【全手法比較】",
+    "link": "https://zenn.dev/ougotti/articles/houganshi-excel-to-markdown",
+    "source": "Zenn Trends",
+    "published": "Fri, 20 Mar 2026 13:28:10 GMT",
+    "summary": "はじめに\n!\n本記事は「方眼紙ExcelをAI/RAGに投入したいエンジニア」を対象としています。\n\n日本の現場でよく見かける「方眼紙Excel」——全セルを正方形に統一し、セル結合を多用してレイアウトを作るあのスタイルです。工事仕様書・工程表・設計図・申請書類など、建設・製造・行政の現場で今も現役です。\n今回使ったサンプルはこんなものです。\n\n工事仕様書：基本情報・材料仕様・施工注意事項をセル結合で構造化\n\n工程表：横軸が月、縦軸が工種のガントチャート。塗りつぶしセルで期間を表現\n\n数量集計表：設計・計画・実施数量の比較表と埋め込み棒グラフ\nこれをMarkdownに変換したい、とい...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--05inxpwx--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E6%2596%25B9%25E7%259C%25BC%25E7%25B4%2599Excel%25E2%2586%2592Markdown%25E5%25A4%2589%25E6%258F%259B%25E3%2580%2581%25E7%25B5%2590%25E5%25B1%2580LLM%25E3%2581%2597%25E3%2581%258B%25E5%258B%259D%25E3%2581%259F%25E3%2582%2593%25E8%25A9%25B1%25E3%2580%2590%25E5%2585%25A8%25E6%2589%258B%25E6%25B3%2595%25E6%25AF%2594%25E8%25BC%2583%25E3%2580%2591%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%2594%25E3%2581%25A3%25E3%2581%25A1%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSVpOSGlIaTA4dTdTZS0wVEx1bDFIU2wyMmlYWmxLRnRtOE1MamtvYmlYaE5zY2hGWjBvdz1zMjUwLWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-03-21 20:56:56",
+    "ja_summary": "・日本の現場で多用される「方眼紙Excel」は、複雑なレイアウトのためデータ変換が困難。\n・様々な手法を比較検討した結果、AI（LLM）による変換が最も実用的かつ高精度である。\n・仕様書や工程表など、構造化が難しいExcelデータをAI活用可能なMarkdown形式へ効率的に変換できる。"
+  },
+  {
+    "title": "「技術のキャッチアップをやめる勇気」作りながら学び、届ける",
+    "link": "https://zenn.dev/perksh/articles/8698f63c956bbf",
+    "source": "Zenn Trends",
+    "published": "Fri, 20 Mar 2026 04:06:59 GMT",
+    "summary": "Findyの「技術のキャッチアップをやめる勇気」というイベントに、ブログライティング枠で参加しました。\n参加した理由は、AIの登場によって毎日革新が起こり、技術のキャッチアップに疲れていた頃、Connpassで目にした「技術のキャッチアップをやめる勇気」というタイトルに惹かれたからです。\nこのイベントで、「目的のないキャッチアップをやめる」「作りながら学ぶ」「作るだけではなくて使ってもらう」という方向性を、登壇者ふたりの実体験を通して聞きました。\n\n\n 登壇者のお二人\n\nKyoheiさん（@labelmake） は、外資IT企業で Solution Engineer 兼 Develop...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--d5s8KcvF--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%258C%25E6%258A%2580%25E8%25A1%2593%25E3%2581%25AE%25E3%2582%25AD%25E3%2583%25A3%25E3%2583%2583%25E3%2583%2581%25E3%2582%25A2%25E3%2583%2583%25E3%2583%2597%25E3%2582%2592%25E3%2582%2584%25E3%2582%2581%25E3%2582%258B%25E5%258B%2587%25E6%25B0%2597%25E3%2580%258D%25E4%25BD%259C%25E3%2582%258A%25E3%2581%25AA%25E3%2581%258C%25E3%2582%2589%25E5%25AD%25A6%25E3%2581%25B3%25E3%2580%2581%25E5%25B1%258A%25E3%2581%2591%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:shohei%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2M2MGQ4YzEzYzIuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-03-21 20:56:56",
+    "ja_summary": "・AI技術の急速な変化による「終わりのないキャッチアップ」への疲弊に対し、目的のない学習を捨てる選択を提唱。\n・「作りながら学ぶ」という実践的なアプローチの重要性を共有。\n・技術を習得するだけでなく、実際に「使ってもらう」ことを重視する視点への転換を推奨。"
+  },
+  {
     "title": "就活に広がるAI面接官　便利さの裏で企業が手放さない「最後の判断」",
     "link": "https://www.itmedia.co.jp/business/articles/2603/21/news026.html",
     "source": "ITmedia ビジネス",
@@ -968,35 +998,5 @@
     "image": "https://res.cloudinary.com/zenn/image/upload/s--YhgA9Aav--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E7%2594%259F%25E6%2588%2590AI%25E6%2599%2582%25E4%25BB%25A3%25E3%2581%25AE%25E3%2583%2589%25E3%2582%25AD%25E3%2583%25A5%25E3%2583%25A1%25E3%2583%25B3%25E3%2583%2588%25E5%259F%25BA%25E7%259B%25A4%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Atsushi%2520Nakamura%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2kxcWVVUGV3Z1lrYXhhaE1uWW1rQnRRT0RVLWtNemJiMEhfTHo4MkE9czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
     "fetched_at": "2026-03-19 20:59:30",
     "ja_summary": "生成AIの普及により、仕様に基づいた自動開発手法（仕様駆動開発）への注目が高まっている。\n開発効率化には、AIが適切に読み込める高品質なドキュメント基盤の整備が不可欠である。\n本稿では、生成AI時代における仕様書管理やドキュメント運用の最適化手法について解説する。"
-  },
-  {
-    "title": "Claude Codeをフル活用！本気で使える厳選Skills/Plugin 8選",
-    "link": "https://zenn.dev/itsuki_y/articles/0eb054f14523d7",
-    "source": "Zenn Trends",
-    "published": "Wed, 18 Mar 2026 06:39:42 GMT",
-    "summary": "Claude Codeを使い始めてから8ヶ月。これまで数十個のSkillsやPluginをインストールしては試行錯誤（いじり倒す）してきました。\n最初は「何これ、全部すげえ！」と新鮮でしたが、結局プラグインを入れすぎると互いに干渉し合ったり、使わなくなって埃をかぶったり（吃灰）するものが多いことに気づきました。\n最終的に生き残り、私の日常的な開発ワークフローを劇的に変えてくれた「神ツール」は以下の8つだけです。 今日は前置きなしで、私のとっておきをインストールコマンド付きで直接紹介します。そのままコピペして使ってください。\n\n 1. Superpowers：万能の王様\nこれはソフトウェ...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--oGnCldc7--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%25E3%2582%2592%25E3%2583%2595%25E3%2583%25AB%25E6%25B4%25BB%25E7%2594%25A8%25EF%25BC%2581%25E6%259C%25AC%25E6%25B0%2597%25E3%2581%25A7%25E4%25BD%25BF%25E3%2581%2588%25E3%2582%258B%25E5%258E%25B3%25E9%2581%25B8Skills%252FPlugin%25208%25E9%2581%25B8%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Itsuki%2520%2528%25E9%2580%25B8%25E6%25A8%25B9%2529%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzViODJlMmZlYTUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-    "fetched_at": "2026-03-19 20:59:31",
-    "ja_summary": "・Claude Codeを8ヶ月使い倒した筆者が、干渉や無駄を排除して厳選した8つの「神ツール」を紹介。\n・開発ワークフローを劇的に改善する実用的なプラグインのみをピックアップ。\n・そのままコピペして導入可能なインストールコマンド付きで即戦力として提供。"
-  },
-  {
-    "title": "LLM人格を14日運用して見えた設計パターン — 固定プロンプトの先へ",
-    "link": "https://zenn.dev/nabaaatee/articles/b4e90b7ef39026",
-    "source": "Zenn Trends",
-    "published": "Wed, 18 Mar 2026 02:45:05 GMT",
-    "summary": "はじめに — 3つの仮説\nLLM にキャラクター設定を与えるのは簡単だ。system prompt に「明るくて好奇心旺盛な性格」と書けばいい。しかし長期運用すると、同じ口調で同じことを言い続けがちだ。\nこれは 一貫性 の問題と 変容の不在 という二つの別の問題が混在している。人間の人格は、核心的な価値観を保ちながら経験を通じて少しずつ変わっていく。この「変わらない部分」と「変わる部分」の共存を、LLM ベースのエージェントにどう実装するか。\n本稿は、筆者が開発・運用している自律エージェント INANNA の 14 日間・1,226 件の経験データ をもとに、以下の 3 つの仮説を観...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--cIP_IySm--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:LLM%25E4%25BA%25BA%25E6%25A0%25BC%25E3%2582%259214%25E6%2597%25A5%25E9%2581%258B%25E7%2594%25A8%25E3%2581%2597%25E3%2581%25A6%25E8%25A6%258B%25E3%2581%2588%25E3%2581%259F%25E8%25A8%25AD%25E8%25A8%2588%25E3%2583%2591%25E3%2582%25BF%25E3%2583%25BC%25E3%2583%25B3%2520%25E2%2580%2594%2520%25E5%259B%25BA%25E5%25AE%259A%25E3%2583%2597%25E3%2583%25AD%25E3%2583%25B3%25E3%2583%2597%25E3%2583%2588%25E3%2581%25AE%25E5%2585%2588%25E3%2581%25B8%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%25AA%25E3%2581%25B0%25E3%2581%25A6%2520%252F%2520INANNA%25E9%2596%258B%25E7%2599%25BA%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2FmMTE0YzQ4NzcuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-    "fetched_at": "2026-03-19 20:59:31",
-    "ja_summary": "・LLMのキャラクターは長期運用で一貫性を保ちつつ、経験により適応・変容させる必要がある。\n・固定プロンプトだけでは単調になる課題に対し、AIエージェントの運用データから設計パターンを分析。\n・「不変の価値観」と「経験による変化」を両立させる実装手法を提案する。"
-  },
-  {
-    "title": "CLAUDE.mdを設計するとClaude Codeの生産性が別物になる — 実際の設定と運用ワークフローを公開",
-    "link": "https://qiita.com/nogataka/items/1ad4e4ccaf47816c63e0",
-    "source": "Qiita (Popular)",
-    "published": "2026-03-18T22:14:33+09:00",
-    "summary": "\n## はじめに\n\nClaude Codeを使い始めた直後は感動します。自然言語でコードが書ける、テストも回してくれる、リファクタリングまでやってくれる。ところが1ヶ月ほど経つと、壁にぶつかります。\n\n- 「前にも同じ指示を出したのに、また違うスタイルで書いてくる」\n- 「プロジェクトのルールを毎回説明するのが面倒」\n- 「サブエージェントを使いたいけど、どう設計すればいいかわからない」\n\nこの壁",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYxNjEyOTglMkZjMWUzZmZkNmVhZGExOTY5ZmYzYzQ0YjE0ZmRlMDgxYmNkZTZmNTAwJTJGeF9sYXJnZS5wbmclM0YxNTg0ODQ1NTg0P2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz00ZGRjZmU5NTFjNTMyMzU3NjcyOGUzOTkyOTNmOGRlNQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D246367bff431168e6212d2602a3df494?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9Q0xBVURFLm1kJUUzJTgyJTkyJUU4JUE4JUFEJUU4JUE4JTg4JUUzJTgxJTk5JUUzJTgyJThCJUUzJTgxJUE4Q2xhdWRlJTIwQ29kZSVFMyU4MSVBRSVFNyU5NCU5RiVFNyU5NCVBMyVFNiU4MCVBNyVFMyU4MSU4QyVFNSU4OCVBNSVFNyU4OSVBOSVFMyU4MSVBQiVFMyU4MSVBQSVFMyU4MiU4QiUyMCVFMiU4MCU5NCUyMCVFNSVBRSU5RiVFOSU5QSU5QiVFMyU4MSVBRSVFOCVBOCVBRCVFNSVBRSU5QSVFMyU4MSVBOCVFOSU4MSU4QiVFNyU5NCVBOCVFMyU4MyVBRiVFMyU4MyVCQyVFMyU4MiVBRiVFMyU4MyU5NSVFMyU4MyVBRCVFMyU4MyVCQyVFMyU4MiU5MiVFNSU4NSVBQyVFOSU5NiU4QiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTQ1ZGYzY2E3MzZiYzY4ZTU5YjFkZjQ5ZmI0N2E2NWVj&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBub2dhdGFrYSZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWE5ODA4YTE0Zjg4Y2I0ZjQ5OWU2ZDA3NGYyY2E2YTNh&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=f086164930124ae6dba77fc18ece59cf",
-    "fetched_at": "2026-03-19 20:59:33",
-    "ja_summary": "・Claude Codeで「CLAUDE.md」を導入すると、プロジェクト固有のルールや設計指針をAIに定着させることが可能。\n・指示の繰り返しやルールの不統一といった運用上の課題が解消され、生産性が飛躍的に向上する。\n・具体的な設定手順やサブエージェント設計の最適解を取り入れることで、AI開発の効率を最大化できる。"
   }
 ]
