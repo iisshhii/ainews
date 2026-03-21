@@ -1,5 +1,15 @@
 [
   {
+    "title": "Circle K eMobility Journey Towards Effective Cross-functional Value Streams (Agile Meets Architecture 2026)",
+    "link": "https://speakerdeck.com/emgsilva/circle-k-emobility-journey-towards-effective-cross-functional-value-streams-agile-meets-architecture-2026",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-03-21T13:08:59-04:00",
+    "summary": "In this presentation, we will discuss the multi-year journey of Circle K's eMobility organization as it scales to support growth from Norway to European and global markets.\n\nThe eMobility organization began as a small team focused on validating the electric vehicle (EV) charging business in Norway. However, due to its success, it quickly had to shift from \"validating to scaling\" and expand to various countries and multiple products in an industry that is still in development.\n\nThroughout the talk, we will share valuable \"mistakes\", lessons learned, experiments, methods, and practices we have employed during this journey. We will particularly emphasize the importance of breaking down functional silos within the organization as a means to support sustainable scaling. Initially, we focused on overcoming the Product and Technology silos. Still, in time, we went further to develop truly cross-functional value streams, also involving and continuously engaging with marketing, sales, operations, and other disciplines, with the goal of defining the best ways to support the activities necessary for rapid and sustainable business growth.\n\nWe have employed various ideas and techniques, including Domain-Driven Design, Team Topologies, Wardley Mapping, and others. However, you will see that there are no silver bullets. The secret is embracing this as a continuous improvement process, involving people with knowledge and expertise, maximizing learning, and empowering value streams and their teams to drive the necessary design and decision-making with a clear long-term vision.",
+    "image": "https://files.speakerdeck.com/presentations/707c774c510140d1b24962eb6a79d994/preview_slide_0.jpg?38805881",
+    "fetched_at": "2026-03-22 02:20:32",
+    "ja_summary": "Circle KのEV充電事業がノルウェーから欧州・世界へと拡大する過程で、組織の壁（サイロ）を打破し、部門横断的な価値提供プロセスを構築した経験を共有。\nDDDやTeam Topologiesなどの手法を導入しつつも、特定の手法に固執せず、持続的な改善とチームへの権限委譲を重視した組織運営が成長の鍵となった。\n迅速かつ持続的な事業拡大には、技術だけでなく営業や運用まで含めたクロスファンクショナルな体制づくりと、学習を最大化する継続的改善が不可欠である。"
+  },
+  {
     "title": "CLAUDE.mdを設計するとClaude Codeの生産性が別物になる — 実際の設定と運用ワークフローを公開",
     "link": "https://qiita.com/nogataka/items/1ad4e4ccaf47816c63e0",
     "source": "Qiita (Popular)",
@@ -988,15 +998,5 @@
     "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGNDM0NDA5MSUyRnByb2ZpbGUtaW1hZ2VzJTJGMTc3MzE4NjE0OD9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NWJjOGQxODI5ODE5NmVkYWE0NGJlMzkxNDEyNzc2Yjg%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D56b1ac2591cb4447c0d4eece1e9d7551?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJThDJUUzJTgyJUFCJUUzJTgzJUJDJUUzJTgzJTg5JUU0JUJEJTlDJUUzJTgyJThBJUUzJTgxJThDJUU5JTlEJUEyJUU1JTgwJTkyJUUzJTgxJTk5JUUzJTgxJThFJUUzJTgyJThCJUUzJTgwJThEJUU1JTk1JThGJUU5JUExJThDJUUzJTgyJTkyQUklRTMlODElQTclRTglQTclQTMlRTYlQjElQkElRTMlODElOTclRTMlODElOUYlRTMlODIlODklRTMlODAlODElRTglQjMlODclRTYlQTAlQkMlRTUlOEIlODklRTUlQkMlQjclRTMlODElOEMlRTclQjYlOUElRTMlODElOEYlRTMlODIlODglRTMlODElODYlRTMlODElQUIlRTMlODElQUElRTMlODElQTMlRTMlODElOUYmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1mMDhlOWY5OTNhYzY3NmY2Yjg5NTEyZjA2ZDkzZmE1Nw&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBDb2JvTWVtbyZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTYxODJjMzU3MDA0OGI0ODFiZmI1YTE3YTA3ZTg3ZjEz&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=cc7f45ce860622e41f1ee392d4f3359b",
     "fetched_at": "2026-03-19 23:13:33",
     "ja_summary": "・資格勉強における「暗記カード作成の面倒さ」が、学習継続を阻む最大の障壁となっていた。\n・AIを活用してカード作成を自動化することで、準備の手間を省き学習のハードルを劇的に下げた。\n・結果として学習の継続性が向上し、挫折しがちな資格勉強を効率的に進められるようになった。"
-  },
-  {
-    "title": "OpenAI to acquire Astral",
-    "link": "https://openai.com/index/openai-to-acquire-astral",
-    "source": "OpenAI",
-    "published": "Thu, 19 Mar 2026 00:00:00 GMT",
-    "summary": "Accelerates Codex growth to power the next generation of Python developer tools",
-    "image": "https://openai.com/favicon.ico",
-    "fetched_at": "2026-03-19 22:09:11",
-    "ja_summary": "・OpenAIが開発ツール企業Astralを買収\n・Python開発ツール「Codex」の強化を加速\n・次世代のプログラミング環境構築を目指す"
   }
 ]
