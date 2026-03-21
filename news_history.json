@@ -1,5 +1,35 @@
 [
   {
+    "title": "NVIDIA、「AIエージェントの暴走リスク」に対処　OpenClaw向け新基盤を発表",
+    "link": "https://japan.cnet.com/article/35245281/",
+    "source": "CNET Japan",
+    "published": "",
+    "summary": "自律的に動作するAIエージェントは、誤った判断や外部からの悪意ある指示によって「暴走するリスク」が指摘されている。こうした課題に対し、NVIDIAはOpenClaw向けの新たなリファレンススタック「NemoClaw」を発表した。エージェントを隔離環境で動作させるほか、通信の監視やポリシーによる制御機能を備え、リスクの抑制を図るとしている──。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35245281/\"><img src=\"https://japan.cnet.com/storage/2026/03/20/9e5235a5d06038b1fa96bf92453d50fd/t/184/138/d/img-3591.jpeg\" /></a>",
+    "image": "https://japan.cnet.com/storage/2026/03/20/9e5235a5d06038b1fa96bf92453d50fd/t/184/138/d/img-3591.jpeg",
+    "fetched_at": "2026-03-22 08:17:48",
+    "ja_summary": "・NVIDIAが自律型AIエージェントの暴走を防ぐ新基盤「NemoClaw」を発表。\n・隔離環境での実行や通信監視により、誤動作や悪意ある指示のリスクを抑制。\n・OpenClaw向けに提供され、AI運用の安全性と制御機能を強化する。"
+  },
+  {
+    "title": "アメリカ人はデータセンターについて、知れば知るほど懐疑的になっていく",
+    "link": "https://www.businessinsider.jp/article/2603-data-center-construction-ai-environment-backlash-pew-research/",
+    "source": "Business Insider Japan",
+    "published": "Sat, 21 Mar 2026 23:00:00 GMT",
+    "summary": "データセンターはAI革命の原動力となっており、全米各地に次々と建設されています。一方で、水やエネルギーを大量に消費することから、反対の声も高まっています。",
+    "image": "https://media.loom-app.com/loom/2026/03/16/d727b1c9-8c72-4742-9eac-ef0c850cb321/original.jpg?w=1200&amp;h=630",
+    "fetched_at": "2026-03-22 08:17:50",
+    "ja_summary": "・AIの普及に伴い、米国各地でデータセンターの建設が急増している。\n・一方で、莫大な水とエネルギー消費が地域住民の反発を招いている。\n・施設の実態を知るほど、住民の懐疑的な見方が強まる傾向にある。"
+  },
+  {
+    "title": "Google AI Studio のフルスタックバイブコーディング機能の概要",
+    "link": "https://note.com/npaka/n/n77bf70d9b349",
+    "source": "note (npaka)",
+    "published": "Fri, 20 Mar 2026 07:14:29 +0900",
+    "summary": "<p id=\"fcc5a2c0-b8b8-4d20-885b-34dc442adfec\" name=\"fcc5a2c0-b8b8-4d20-885b-34dc442adfec\">以下の記事が面白かったので、簡単にまとめました。</p><figure id=\"378069a1-25c1-49f6-becf-1d673ae28c08\" name=\"378069a1-25c1-49f6-becf-1d673ae28c08\"><blockquote><p id=\"77e2c1bc-0534-4155-bf27-03b7f3d0f523\" name=\"77e2c1bc-0534-4155-bf27-03b7f3d0f523\"><strong>・</strong><a href=\"https://blog.google/innovation-and-ai/technology/developers-tools/full-stack-vibe-coding-google-ai-studio/\" rel=\"nofollow noopener\" target=\"_blank\"><strong>Introducing the new full-stack vibe coding experience in Google AI Studio</strong></a></p></blockquote>\n<figcaption></figcaption></figure><br /><a href=\"https://note.com/npaka/n/n77bf70d9b349\">続きをみる</a>",
+    "image": "https://assets.st-note.com/production/uploads/images/260512898/rectangle_large_type_2_a6edcea4968571e0ddd42eb5e48814c8.png?width=800",
+    "fetched_at": "2026-03-22 08:17:54",
+    "ja_summary": "Google AI Studioに、自然言語による指示だけでアプリ開発が完結する「フルスタック・バイブコーディング」機能が追加されました。\n事前のコード知識が不要で、AIとの対話を通じてプロトタイプから実装までを迅速に行えます。\nアイデアを即座に形にできるため、開発の生産性とスピードが大幅に向上します。"
+  },
+  {
     "title": "Rust の DI を試す / entrait",
     "link": "https://zenn.dev/hideyuki_hori/articles/c794dcb1a0207e",
     "source": "Zenn Trends",
@@ -968,35 +998,5 @@
     "image": "https://media.loom-app.com/loom/2026/03/18/3ec3d5e4-96e7-425d-9415-a0c778371d66/original.jpg?w=1200&amp;h=630",
     "fetched_at": "2026-03-20 07:54:10",
     "ja_summary": "・マイクロソフトがAI部門の組織再編を実施し、Copilotチームを統合。\n・幹部の引退に伴い、ムスタファ・スレイマン氏が「超知能」開発を主導。\n・AI戦略の集中化により、次世代AI技術の強化を加速させる。"
-  },
-  {
-    "title": "ドコモ社長 新AIサービスの狙い",
-    "link": "https://news.yahoo.co.jp/pickup/6573308?source=rss",
-    "source": "Yahoo!ニュース IT・科学",
-    "published": "Mon, 16 Mar 2026 04:50:06 GMT",
-    "summary": "",
-    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/16/a7d18b799197691b05369fbac573fb1ad32a626c88066ba21875a4cf9759a5aa.jpg",
-    "fetched_at": "2026-03-20 07:54:21",
-    "ja_summary": "・ドコモが生成AIを活用した新サービスを展開し、顧客対応の効率化とパーソナライズ化を強化。\n・AIによる提案精度を高めることで、付加価値の創出とビジネスモデルの転換を目指す。\n・通信事業の枠を超え、AIを通じた体験価値の向上で他社との差別化を図る。"
-  },
-  {
-    "title": "生成AIで速度と品質を両立する、QAエンジニア・開発者連携のAI協調型テストプロセス",
-    "link": "https://speakerdeck.com/shota_kusaba/sheng-cheng-aidesu-du-topin-zhi-woliang-li-suru-qaenziniakai-fa-zhe-lian-xi-noaixie-diao-xing-tesutopurosesu",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-03-19T07:00:27-04:00",
-    "summary": "",
-    "image": "https://files.speakerdeck.com/presentations/3c7f9be1a7b04751870b02fff297de4b/preview_slide_0.jpg?38784310",
-    "fetched_at": "2026-03-20 07:54:32",
-    "ja_summary": "・生成AIを活用し、QAエンジニアと開発者が連携する新たなテストプロセスを構築。\n・AIによる効率化で、ソフトウェア開発における「品質」と「リリース速度」を両立。\n・開発現場の生産性向上を目指し、テスト工程の自動化と精度を高める取り組み。"
-  },
-  {
-    "title": "AI × Pythonで研究が“30秒で終わる”ようになった話 ― データ基盤 → 仮説量産 → 高速検証の時代へ",
-    "link": "https://qiita.com/d94231/items/0bf79993886f7d73a81b",
-    "source": "Qiita (Popular)",
-    "published": "2026-03-14T21:27:08+09:00",
-    "summary": "\n最近、研究の進め方が劇的に変わりました。  \nきっかけは **AIとPythonを本格的に導入したこと**。\n\n昔ながらの  \n「テーマ決め → データ収集 → 分析」  \nという研究フローは、もう完全に過去のものになりました。\n\n今は、\n\n**データ基盤を先に作り、AIで仮説を量産し、Pythonで高速に検証する。**\n\nこの3ステップで研究が“回る”ようになっています。\n\nそして驚くべきこと",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmxoMy5nb29nbGV1c2VyY29udGVudC5jb20lMkZhJTJGQUNnOG9jTEEtTWFZZ3c1ZHA5c2tMV3h5Zk52WTdqZHBkRnZqbDBROEtnZVZQX0pOcUFBdGJROCUzRHM5Ni1jP2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz04MGFhODM2YWZkOGQxOWJhMDAzNTQyYjBlY2Q3NzVkMw%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Db06e5bc9a5760b6694a5bbf99003c27a?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9QUklMjAlQzMlOTclMjBQeXRob24lRTMlODElQTclRTclQTAlOTQlRTclQTklQjYlRTMlODElOEMlRTIlODAlOUMzMCVFNyVBNyU5MiVFMyU4MSVBNyVFNyVCNSU4MiVFMyU4MiU4RiVFMyU4MiU4QiVFMiU4MCU5RCVFMyU4MiU4OCVFMyU4MSU4NiVFMyU4MSVBQiVFMyU4MSVBQSVFMyU4MSVBMyVFMyU4MSU5RiVFOCVBOSVCMSUyMCVFMiU4MCU5NSUyMCVFMyU4MyU4NyVFMyU4MyVCQyVFMyU4MiVCRiVFNSU5RiVCQSVFNyU5QiVBNCUyMCVFMiU4NiU5MiUyMCVFNCVCQiVBRSVFOCVBQSVBQyVFOSU4NyU4RiVFNyU5NCVBMyUyMCVFMiU4NiU5MiUyMCVFOSVBQiU5OCVFOSU4MCU5RiVFNiVBNCU5QyVFOCVBOCVCQyVFMyU4MSVBRSVFNiU5OSU4MiVFNCVCQiVBMyVFMyU4MSVCOCZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPWQyMWU4MjI5Yjk1Y2FjNDFhMjk2ZjAyMmJjOTg1ZjA4&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBkOTQyMzEmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz00NTY1ODY5NTRmZGU3YWFhMWMxNjljN2Y2OTU5OWQyYg&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=8f4181264cb5cde07b22c5c48e3ca6ae",
-    "fetched_at": "2026-03-20 07:54:35",
-    "ja_summary": "・AIとPythonの活用により、データ基盤から仮説量産、高速検証へと研究プロセスを刷新。\n・従来の「テーマ決定後に分析する」手法は廃止され、研究スピードが劇的に向上した。\n・効率的なデータ基盤の構築と自動化により、短時間で成果を出せる時代へシフトしている。"
   }
 ]
