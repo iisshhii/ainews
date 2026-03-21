@@ -1,5 +1,15 @@
 [
   {
+    "title": "夢の無限スパゲッティ製造機 #phperkaigi",
+    "link": "https://speakerdeck.com/o0h/phperkaigi-2026",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-03-21T15:42:49-04:00",
+    "summary": "https://fortee.jp/phperkaigi-2026/proposal/40eed9f2-69a1-4b38-8301-bcf21e902eb7 の発表資料です",
+    "image": "https://files.speakerdeck.com/presentations/21ddee44820749c28ff6aee5a4d3484a/preview_slide_0.jpg?38806775",
+    "fetched_at": "2026-03-22 04:46:04",
+    "ja_summary": "PHPのコード内でスパゲッティコード（複雑で読みにくいコード）が生成される仕組みを分析。\nその要因と構造を技術的に解明し、どうすれば可読性の高いコードに改善できるかを解説。\n負債を抱えるコードを撲滅し、持続可能な開発現場を目指すための知見を共有。"
+  },
+  {
     "title": "How we monitor internal coding agents for misalignment",
     "link": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
     "source": "OpenAI",
@@ -988,15 +998,5 @@
     "image": "https://tk.ismcdn.jp/mwimgs/b/c/1200w/img_bc5417e9c0cd8cae8fe9dbc4c586cb7b192291.jpg?nextgen=false",
     "fetched_at": "2026-03-20 06:03:29",
     "ja_summary": "・生成AIを「答えを得るツール」として使う子は思考力が低下し、成績が下がる傾向にある。\n・「思考の壁打ち相手」や「理解を深めるコーチ」として能動的に使う子は成績が向上する。\n・AIは「AIに教わる」のではなく、「AIを使って自分の思考を広げる」使い方が鍵となる。"
-  },
-  {
-    "title": "テストプロセスにおけるAI活用 ：人間とAIの共存",
-    "link": "https://speakerdeck.com/hacomono/tesutopurosesuniokeruaihuo-yong-ren-jian-toainogong-cun",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-03-19T10:31:42-04:00",
-    "summary": "2026.03.20 JaSST'Tokyo 2026\n『テストプロセスにおけるAI活用 ：人間とAIの共存』\n蛯子 将樹\n滝田 啓介",
-    "image": "https://files.speakerdeck.com/presentations/4a974ceeed5e4bb4875691abb358397f/preview_slide_0.jpg?38785604",
-    "fetched_at": "2026-03-20 04:53:47",
-    "ja_summary": "・AIを活用したソフトウェアテストの効率化と品質向上を実現する。\n・AIは作業を代替するだけでなく、人間と共存し補完し合う関係を築く。\n・次世代のテストプロセスにおける、人とAIの協働のあり方を議論する。"
   }
 ]
