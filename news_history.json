@@ -1,5 +1,15 @@
 [
   {
+    "title": "【PHPerKaigi2026】OpenTelemetry SDKを使ってPHPでAPMを自作する",
+    "link": "https://speakerdeck.com/fendo181/phperkaigi2026-opentelemetry-sdkwoshi-tutephpdeapmwozi-zuo-suru",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-03-21T05:26:01-04:00",
+    "summary": "PHPerKaigi2026で発表したスライドです\n\n【概要文】\nObservabilityにおけるアプリケーションのパフォーマンス監視において、APM（Application Performance Monitoring）は不可欠な存在です。しかし、これらのツールが「内部でどのように動作しているか?」を理解している開発者は多くありません。\n\n本セッションでは、OpenTelemetry PHP SDKを使用して、シンプルなAPMツールをゼロから自作します。\nトレース、メトリクス、ログの3つのシグナルを収集・可視化する過程を通じて、APMの仕組みとOpenTelemetryの設計思想を深く理解することを目指します。商用のAPMツールを「なんとなく使っている」状態から、「仕組みを理解して使いこなす」状態へステップアップしていきましょう!\n\n【セッションの対象者】\n・APMを使っているが仕組みを理解したいエンジニア\n・Observabilityに興味があるエンジニア\n\n【このセッションで得られること】\nAPMが内部で何をしているか?の理解\nOpenTelemetry SDKの活用方法について",
+    "image": "https://files.speakerdeck.com/presentations/325f2b63d2804667b31f4f0de7a3d32b/preview_slide_0.jpg?38803995",
+    "fetched_at": "2026-03-21 18:52:56",
+    "ja_summary": "OpenTelemetry PHP SDKを用い、トレース・メトリクス・ログを収集する自作APMを通じて監視の仕組みをゼロから学習します。\n既存のAPMツールの内部構造を理解し、OpenTelemetryの設計思想を深く習得することを目的としています。\nAPMを「なんとなく」使う段階から、仕組みを理解して適切に活用できるレベルへのステップアップを目指します。"
+  },
+  {
     "title": "Claude Code 知らないと損するコマンド・時短術 20選",
     "link": "https://qiita.com/miruky/items/48ede59ebe33b4b774ac",
     "source": "Qiita (Popular)",
@@ -988,15 +998,5 @@
     "image": "https://www.techno-edge.net/imgs/rss/30508.jpg",
     "fetched_at": "2026-03-19 19:49:59",
     "ja_summary": "・AIのポケモン対戦能力は、依然として人間のトップ層には及ばない。\n・不完全情報や長期的な戦略立案が、AI進化における大きな壁となっている。\n・単なるデータ量ではなく、複雑な状況を判断する複合的能力の向上が今後の鍵。"
-  },
-  {
-    "title": "Rakuten fixes issues twice as fast with Codex",
-    "link": "https://openai.com/index/rakuten",
-    "source": "OpenAI",
-    "published": "Wed, 11 Mar 2026 13:00:00 GMT",
-    "summary": "Rakuten uses Codex, the coding agent from OpenAI, to ship software faster and safer, reducing MTTR 50%, automating CI/CD reviews, and delivering full-stack builds in weeks.",
-    "image": "https://openai.com/favicon.ico",
-    "fetched_at": "2026-03-19 19:50:00",
-    "ja_summary": "・楽天がOpenAIの「Codex」を導入し、ソフトウェア開発を高速化・効率化。\n・障害復旧時間（MTTR）を50%短縮し、CI/CDレビューも自動化。\n・フルスタック開発のリードタイムを大幅に短縮し、安全性と生産性を向上。"
   }
 ]
