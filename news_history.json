@@ -1,5 +1,15 @@
 [
   {
+    "title": "How we monitor internal coding agents for misalignment",
+    "link": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
+    "source": "OpenAI",
+    "published": "Thu, 19 Mar 2026 10:00:00 GMT",
+    "summary": "How OpenAI uses chain-of-thought monitoring to study misalignment in internal coding agents—analyzing real-world deployments to detect risks and strengthen AI safety safeguards.",
+    "image": "https://openai.com/favicon.ico",
+    "fetched_at": "2026-03-22 03:59:43",
+    "ja_summary": "・OpenAIはAIの誤作動やリスクを検知するため、社内のコーディングAIを対象に思考プロセス（Chain-of-Thought）を監視する手法を導入。\n・実運用環境での分析を通じてAIの不整合（ミスアライメント）を特定し、安全性の強化を図っている。\n・AIモデルの信頼性と安全性を高めるための実証的なリスク管理プロセスを構築。"
+  },
+  {
     "title": "「カード作りが面倒すぎる」問題をAIで解決したら、資格勉強が続くようになった",
     "link": "https://qiita.com/CoboMemo/items/de40a122980628bc61e7",
     "source": "Qiita (Popular)",
@@ -988,15 +998,5 @@
     "image": "https://files.speakerdeck.com/presentations/4a974ceeed5e4bb4875691abb358397f/preview_slide_0.jpg?38785604",
     "fetched_at": "2026-03-20 04:53:47",
     "ja_summary": "・AIを活用したソフトウェアテストの効率化と品質向上を実現する。\n・AIは作業を代替するだけでなく、人間と共存し補完し合う関係を築く。\n・次世代のテストプロセスにおける、人とAIの協働のあり方を議論する。"
-  },
-  {
-    "title": "LLMをもっと賢くする：ナレッジグラフ実践入門",
-    "link": "https://zenn.dev/knowledge_graph/books/knowledge-graph-llm-guide",
-    "source": "Zenn Trends",
-    "published": "Thu, 19 Mar 2026 02:14:59 GMT",
-    "summary": "「ChatGPTは賢いのに、なぜ業務では使いにくいのか」。その答えがナレッジグラフにあります。本書は、RAGだけでは解けない問題の正体を明らかにし、ナレッジグラフがLLMに何をもたらすかを、入門から世界の活用事例、実装アーキテクチャ、AI Agentとの統合まで一気通貫で解説します。エンタープライズ規模でのKG実装は難しい。だからこそ、何が難しいのかを正確に理解することが第一歩です。",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--qyzZJeCP--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci9jZmJkZDkyYjMyLnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg?_a=BACAGSGT",
-    "fetched_at": "2026-03-20 04:14:22",
-    "ja_summary": "・LLMが業務で使いにくい原因と、それを克服する「ナレッジグラフ」の有用性を解説。\n・RAGの限界を補い、AIを実務レベルへ引き上げる実装技術や最新事例を網羅。\n・企業導入時の困難なポイントを紐解き、大規模システムへの統合手法を学べる一冊。"
   }
 ]
