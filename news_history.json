@@ -1,5 +1,95 @@
 [
   {
+    "title": "【PR】自ら考え動くAIエージェント、開発現場に貢献",
+    "link": "https://xtech.nikkei.com/atcl/nxt/special/18/00001/031000080/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "ソフトバンクは、自律的に動作する汎用型AIエージェント「AGENTIC STAR」の提供を開始した。目標を伝えるだけで計画立案から実行まで自動的にこなす。開発部門で実際に活用することで、その機能と便利さを知り尽くしているエンジニアが、現場における活用事例を語る。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/special/18/00001/031000080/topm.jpg?20220512",
+    "fetched_at": "2026-03-21 12:34:03",
+    "ja_summary": "・ソフトバンクが自律型AIエージェント「AGENTIC STAR」の提供を開始。\n・目標を伝えるだけでAIが計画立案から実行までを自動化する。\n・開発現場での実用的な活用事例を通じ、エンジニアがその有用性を解説。"
+  },
+  {
+    "title": "Windows 11、タスクバー位置変更など大幅刷新　Copilot入口は削減",
+    "link": "https://www.watch.impress.co.jp/docs/news/2095127.html",
+    "source": "Impress Watch",
+    "published": "",
+    "summary": "Microsoftは20日(米国時間)、Windows 11に今後大きな変更を加えていくと発表した。「Our commitment to Windows quality(Windowsの品質についてのコミットメント)」としたブログにおいて、ユーザーからのフィードバックに応えながら修正を行なう方針を示したもので、3月から4月にかけて、Windows Insider向けのプレビューで、タスクバーの移動や、“不要”なCopilotの入口の削減などを予定している。",
+    "image": "https://www.watch.impress.co.jp/img/ipw/list/2095/127/w01.jpg",
+    "fetched_at": "2026-03-21 12:34:06",
+    "ja_summary": "・MicrosoftがWindows 11のUIを大幅刷新へ。\n・ユーザー要望に応え、タスクバーの配置変更機能を導入。\n・不要との声が多かった「Copilot」の入口を削減する。"
+  },
+  {
+    "title": "Claude Coworkをスマホから操作できる新機能「Dispatch」",
+    "link": "https://www.watch.impress.co.jp/docs/news/2094782.html",
+    "source": "Impress Watch",
+    "published": "",
+    "summary": "Anthropicは18日、PC上のタスクをスマートフォンから指示できる「Claude Cowork」の新機能「Dispatch」を提供開始した。ClaudeのMaxプラン(月額100ドルから)ユーザーから展開し、19日からはPro(月額20ドル)ユーザーも利用可能となった。",
+    "image": "https://www.watch.impress.co.jp/img/ipw/list/2094/782/claude2.jpg",
+    "fetched_at": "2026-03-21 12:34:08",
+    "ja_summary": "・AnthropicがスマホからPC操作を指示できる新機能「Dispatch」を提供開始。\n・ClaudeのMaxプランおよびProプランユーザーが対象。\n・スマホを通じたPCタスクの遠隔実行が可能になり、利便性が向上。"
+  },
+  {
+    "title": "auメールアプリ「送信元なりすまし」警告 “生成AI由来”も対策へ",
+    "link": "https://www.watch.impress.co.jp/docs/news/2094768.html",
+    "source": "Impress Watch",
+    "published": "",
+    "summary": "KDDIは、auメール(au.com/ezweb.ne.jp)のフィッシングメール対策を3月24日から強化する。また、auとUQ mobile、auひかりのユーザー向けの迷惑電話対策サービスを6カ月無料にする取組みについて、4月以降に再度実施する。",
+    "image": "https://www.watch.impress.co.jp/img/ipw/list/2094/768/00.jpg",
+    "fetched_at": "2026-03-21 12:34:09",
+    "ja_summary": "・KDDIは3月24日より、auメールのフィッシング対策（なりすまし警告）を強化。\n・生成AIを利用した巧妙な詐欺メールへの対策も実施する。\n・迷惑電話対策サービスの6カ月無料キャンペーンを4月以降に再開。"
+  },
+  {
+    "title": "Gemini Embedding 2 の概要",
+    "link": "https://note.com/npaka/n/n1e39b1e67561",
+    "source": "note (npaka)",
+    "published": "Wed, 11 Mar 2026 06:43:21 +0900",
+    "summary": "<p id=\"116bbc09-4b40-4bfc-9334-53e8e7a8c224\" name=\"116bbc09-4b40-4bfc-9334-53e8e7a8c224\">以下の記事が面白かったので、簡単にまとめました。</p><figure id=\"64cc17bd-bf70-4d14-addb-2898ff5e90ea\" name=\"64cc17bd-bf70-4d14-addb-2898ff5e90ea\"><blockquote><p id=\"8b470a8c-ec47-4a51-b245-3582948a46d0\" name=\"8b470a8c-ec47-4a51-b245-3582948a46d0\"><strong>・</strong><a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-embedding-2/\" rel=\"nofollow noopener\" target=\"_blank\"><strong>Gemini Embedding 2: Our first natively multimodal embedding model</strong></a></p></blockquote>\n<figcaption></figcaption></figure><br /><a href=\"https://note.com/npaka/n/n1e39b1e67561\">続きをみる</a>",
+    "image": "https://assets.st-note.com/production/uploads/images/258171703/rectangle_large_type_2_bfbf5c46387c6775c1adf4274c528668.png?width=800",
+    "fetched_at": "2026-03-21 12:34:13",
+    "ja_summary": "・Googleが初のネイティブマルチモーダル・埋め込みモデル「Gemini Embedding 2」を発表。\n・テキストだけでなく、画像や音声なども統合的に扱える高い検索精度と効率性を実現。\n・RAG（検索拡張生成）などのAIアプリケーションの性能向上に貢献する重要なアップデート。"
+  },
+  {
+    "title": "GPT-5.4 の概要",
+    "link": "https://note.com/npaka/n/nb8d78062e804",
+    "source": "note (npaka)",
+    "published": "Fri, 06 Mar 2026 06:38:29 +0900",
+    "summary": "<p id=\"446f25fd-ed1e-4d5d-9186-4d72087028d3\" name=\"446f25fd-ed1e-4d5d-9186-4d72087028d3\">以下の記事が面白かったので、簡単にまとめました</p><figure id=\"a2c20a1b-be7c-49fb-9678-da2ee76cf942\" name=\"a2c20a1b-be7c-49fb-9678-da2ee76cf942\"><blockquote><p id=\"985a9c79-bdd5-40b7-957f-05b61360dfc7\" name=\"985a9c79-bdd5-40b7-957f-05b61360dfc7\"><strong>・</strong><a href=\"https://openai.com/index/introducing-gpt-5-4/\" rel=\"nofollow noopener\" target=\"_blank\"><strong>Introducing GPT‑5.4</strong></a></p></blockquote>\n<figcaption></figcaption></figure><br /><a href=\"https://note.com/npaka/n/nb8d78062e804\">続きをみる</a>",
+    "image": "https://assets.st-note.com/production/uploads/images/256839826/rectangle_large_type_2_b38ecea6140f394dea22e16944a7dc92.png?width=800",
+    "fetched_at": "2026-03-21 12:34:13",
+    "ja_summary": "・OpenAIが最新モデル「GPT-5.4」を発表。\n・従来モデルから性能や機能がどのように進化したかという概要を解説。\n・詳細は公開元の公式サイトおよび技術解説記事にて確認可能。"
+  },
+  {
+    "title": "新人は「AI使用禁止」の企業 なぜ",
+    "link": "https://news.yahoo.co.jp/pickup/6573773?source=rss",
+    "source": "Yahoo!ニュース IT・科学",
+    "published": "Sat, 21 Mar 2026 02:54:47 GMT",
+    "summary": "",
+    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/21/f84b32df34084bb0c70da808432f32d4568111c235c64b2032553d089491f960.jpg",
+    "fetched_at": "2026-03-21 12:34:15",
+    "ja_summary": "・新人にAI利用を禁じる企業が増加中\n・AIに依存して基礎的な思考力やスキルが育たなくなることを懸念\n・「まずは自力で考える」という基本教育を徹底し、将来的な応用力を養う狙いがある"
+  },
+  {
+    "title": "『タイタン』 - PHPer Book Revue",
+    "link": "https://speakerdeck.com/hiro_y/2026-03-21-phperkaigi-2026-phper-book-revue",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-03-20T22:43:28-04:00",
+    "summary": "2026年3月21日、PHPerKaigi 2026 day1のPHPer Book Revueの登壇資料です。\nhttps://phperkaigi.jp/2026/\n紹介する本は野﨑まどの『タイタン』です。\nhttps://www.kodansha.co.jp/book/products/0000372335",
+    "image": "https://files.speakerdeck.com/presentations/66d5f533ea294d9484fd3023e93e9bde/preview_slide_0.jpg?38800914",
+    "fetched_at": "2026-03-21 12:34:39",
+    "ja_summary": "PHPerKaigi 2026にて、野﨑まど著のSF小説『タイタン』を紹介した登壇資料。\n同イベントの「PHPer Book Revue」枠で発表された技術者向けの内容。\n詳細は公開された登壇資料のURLから確認可能。"
+  },
+  {
+    "title": "20年以上続く PHP 大規模プロダクトを Kubernetes へ ── クラウド基盤刷新プロジェクトの4年間",
+    "link": "https://speakerdeck.com/oogfranz/garoon-neco-migration",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-03-20T09:49:31-04:00",
+    "summary": "PHPerKaigi 2026の発表資料です\nhttps://fortee.jp/phperkaigi-2026/proposal/9dec43e0-0dd2-49cc-90b9-113d7749e153\n\n\n- MASH弦楽団\nhttps://mashdjango.com/\n\n- 基盤側のNecoプロジェクト概要\nhttps://blog.cybozu.io/entry/ever-lasting-neco\n\n- 2022年にPHP Conferenceでの発表資料\nhttps://speakerdeck.com/oogfranz/garoon-on-kubernetes\n\n- 山本の公理\nhttps://www.slideshare.net/slideshow/cybozucom-14446847/14446847\n\n- Garoonにおけるジョブキュー切り替えの挑戦\nhttps://blog.cybozu.io/entry/2024/08/19/155441\n\n- DIコンテナの導入について\nhttps://speakerdeck.com/ynkt/sok-gai-shan-shi-bai-karaxue-bu-regasipurodakutonili-tixiang-kautimuzuo-ri?slide=23\n\n- PHP-FPMからOpenMetrics形式でメトリクス取得するときに遭遇した落とし穴と外部ツールを使った場合との比較\nhttps://blog.cybozu.io/entry/2025/09/29/170000\n\n- 開発者が運用を理解するための第一歩 -PHPのスローログを観測可能にしてみた-\nhttps://blog.cybozu.io/entry/2025/10/20/170000\n\n- 倍速会議\nhttps://baisoku-kaigi.plural-reality.com/",
+    "image": "https://files.speakerdeck.com/presentations/f25fff9013034ebbad5fd4df541e75c6/preview_slide_0.jpg?38796790",
+    "fetched_at": "2026-03-21 12:34:39",
+    "ja_summary": "・20年以上続くPHPの大規模プロダクト「Garoon」を、4年かけてKubernetesへ移行した基盤刷新の全記録。\n・レガシーシステムの現代化に伴う技術的課題の克服や、開発と運用の効率化に向けた工夫を詳説。\n・PHPのスローログ観測やメトリクス取得など、実践的なノウハウが詰まった技術知見の共有。"
+  },
+  {
     "title": "SBG 米国に巨大AI拠点を建設へ",
     "link": "https://news.yahoo.co.jp/pickup/6573762?source=rss",
     "source": "Yahoo!ニュース IT・科学",
@@ -908,95 +998,5 @@
     "image": "https://japan.zdnet.com/storage/2025/08/22/2150d3bbd3cdc0f9c6e79dbfb7dbd040/t/184/138/d/250822_security_as_1280_1414640903.jpeg",
     "fetched_at": "2026-03-19 16:36:29",
     "ja_summary": "・企業の約半数が、AIを活用したサイバー攻撃の封じ込めに苦戦していることが判明。\n・検知能力と被害拡大を最小限に抑えるレジリエンス（回復力）の間に大きな乖離がある。\n・Illumioの調査により、サイバー攻撃への対策現場で深刻な課題が浮き彫りとなった。"
-  },
-  {
-    "title": "アップル『AirPods Max 2』発表。「最大1.5倍効果的」なノイズキャンセルなど新機能多数",
-    "link": "https://www.techno-edge.net/article/2026/03/17/4932.html",
-    "source": "TechnoEdge",
-    "published": "Tue, 17 Mar 2026 10:31:50 +0900",
-    "summary": "アップルが、オーバーヘッド型ヘッドホンの新製品「AirPods Max 2」を発表しました。",
-    "image": "https://www.techno-edge.net/imgs/rss/30418.jpg",
-    "fetched_at": "2026-03-19 16:36:30",
-    "ja_summary": "・Appleが新型ヘッドホン「AirPods Max 2」を発表\n・ノイズキャンセリング性能が最大1.5倍に向上\n・その他、多数の新機能が追加された刷新モデル"
-  },
-  {
-    "title": "SB子会社が音声対話AIの基盤技術で特許、音声の読み誤りを修正",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11596/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "ソフトバンク子会社のGen-AX（ジェナックス）は2026年3月18日、音声対話型AI（人工知能）エージェントの基盤技術に関して特許2件を取得したと発表した。同社が今回取得したのは、コンタクトセンター向けに提供する自律型AIオペレーター「X-Ghost」における日本語音声の読み誤りを抑制する技術と、通信遅延や切断時でも対話を継続する冗長化技術の特許である。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11596/topm.jpg?20220512",
-    "fetched_at": "2026-03-19 15:33:48",
-    "ja_summary": "・ソフトバンク子会社Gen-AXが、音声対話AIの基盤技術で特許を2件取得。\n・コンタクトセンター向け「X-Ghost」の日本語認識精度と対話の継続性を強化。\n・音声の読み誤り抑制および通信トラブル時の冗長化技術により品質を向上。"
-  },
-  {
-    "title": "故障した「AirPods Max」が冷凍庫で復活するって本当？ 試してみた結果",
-    "link": "https://japan.cnet.com/article/35245214/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "愛用のアップル製ヘッドホン「AirPods Max」が故障し、何とかならないかとネット検索したところ、信じられないような修理方法に行き当たった。事の顛末をお伝えする。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35245214/\"><img src=\"https://japan.cnet.com/storage/2026/03/18/e60b6b8214063e8013e759410831635e/t/184/138/d/airpods-max-frozen.png\" /></a>",
-    "image": "https://japan.cnet.com/storage/2026/03/18/e60b6b8214063e8013e759410831635e/t/184/138/d/airpods-max-frozen.png",
-    "fetched_at": "2026-03-19 15:33:57",
-    "ja_summary": "「AirPods Max」の故障時、ネット上の噂である「冷凍庫に入れる」という修理法を試した検証記事。\n結論として、その方法は一時的な効果か偶然に過ぎず、公式の修理ルートを利用すべきとの注意喚起。\n誤った対処は故障を悪化させるリスクがあるため、信頼できないネット情報を鵜呑みにしないよう警告している。"
-  },
-  {
-    "title": "【書評】 作ってわかる大規模言語モデルの仕組み",
-    "link": "https://note.com/npaka/n/na8c148cd1fa2",
-    "source": "note (npaka)",
-    "published": "Fri, 13 Mar 2026 18:07:38 +0900",
-    "summary": "<p id=\"6aafce9a-7e4d-486a-a3cc-991ecc9823bf\" name=\"6aafce9a-7e4d-486a-a3cc-991ecc9823bf\">LLM（大規模言語モデル）の本はいろいろ出てきていますが、この『<strong>作ってわかる大規模言語モデルの仕組み</strong>』はかなりの良書です。理由はシンプルで、<strong>LLMを実際に作りながらその仕組みを理解できる本だから</strong>です。</p><p id=\"89714c77-b429-49f0-9c60-b6018ba4a9f1\" name=\"89714c77-b429-49f0-9c60-b6018ba4a9f1\">最近はLLMの解説記事や論文も増え、「Transformer」「LoRA」「RLHF」「DPO」といった言葉もよく見かけます。しかし、単語としては知っていても、</p><br /><a href=\"https://note.com/npaka/n/na8c148cd1fa2\">続きをみる</a>",
-    "image": "https://assets.st-note.com/production/uploads/images/258794679/rectangle_large_type_2_83c6149895c91e2b4f3e6dea43174b0d.jpeg?width=800",
-    "fetched_at": "2026-03-19 15:34:06",
-    "ja_summary": "・『作ってわかる大規模言語モデルの仕組み』は、実際に手を動かしながらLLMの構造を学べる良書である。\n・TransformerやLoRA、RLHFなどの専門用語を、理論だけでなく実装を通じて深く理解できる。\n・知識の習得だけでなく、LLMの仕組みを根本から把握したい読者に最適な一冊。"
-  },
-  {
-    "title": "生成AIグラビア実践ワークショップ、次回は「ComfyUIを簡単にしてくれるApp mode」をテーマに3月19日開催。テクノエッジ アルファ会員なら無料",
-    "link": "https://www.techno-edge.net/article/2026/03/18/4937.html",
-    "source": "TechnoEdge",
-    "published": "Wed, 18 Mar 2026 10:52:25 +0900",
-    "summary": "テクノエッジ編集部では、生成AIグラビア実践ワークショップ第4期第4回を3月19日に開催します。今回は、「ComfyUIを簡単にしてくれるApp mode」をテーマに、デモを交えて解説します。",
-    "image": "https://www.techno-edge.net/imgs/rss/30384.jpg",
-    "fetched_at": "2026-03-19 15:34:12",
-    "ja_summary": "・生成AIグラビア講座第4期第4回が3月19日に開催。\n・「ComfyUIを簡単にするApp mode」をテーマに実演解説。\n・テクノエッジ アルファ会員は無料で参加可能。"
-  },
-  {
-    "title": "型落ちiPhone仕様のMacBook Neoですら動くんだからエージェンティックAI、Androidでも動くのでは？　作ってみた結果（CloseBox）",
-    "link": "https://www.techno-edge.net/article/2026/03/18/4935.html",
-    "source": "TechnoEdge",
-    "published": "Wed, 18 Mar 2026 10:44:25 +0900",
-    "summary": "MacBook Neoで思いのほか快適に動いてしまったエージェンティックAIに気をよくして、Claude Codeをフル稼働させてエージェンティックAIの輪を広げています。次のターゲットはAndroid端末。",
-    "image": "https://www.techno-edge.net/imgs/rss/30392.jpg",
-    "fetched_at": "2026-03-19 15:34:12",
-    "ja_summary": "・MacBookで快適に動作したエージェンティックAIを、Android端末へ展開する試みが進行中。\n・AI開発ツール「Claude Code」を活用し、モバイル環境でのAI自律実行の可能性を検証。\n・PCで成功したAIの輪をスマホへ広げる取り組みが注目されている。"
-  },
-  {
-    "title": "「生成AIの顔とそっくりだ」などのコメントも…NVIDIAの超解像技術「DLSS 5」を通したキャラの顔が批判の的に",
-    "link": "https://www.techno-edge.net/article/2026/03/18/4934.html",
-    "source": "TechnoEdge",
-    "published": "Wed, 18 Mar 2026 10:43:48 +0900",
-    "summary": "著名人やインフルエンサーも多数反応。",
-    "image": "https://www.techno-edge.net/imgs/rss/30470.jpg",
-    "fetched_at": "2026-03-19 15:34:12",
-    "ja_summary": "NVIDIAの超解像技術「DLSS 5」で生成されたキャラクターの顔が、「生成AI特有の不自然さがある」としてネット上で批判を浴びている。\n著名人やインフルエンサーも反応するなど波紋を呼んでおり、技術の完成度や表現手法が議論の対象となっている。"
-  },
-  {
-    "title": "Reactをやめて MoonBit で50ページの業務システムを作った",
-    "link": "https://zenn.dev/lehti/articles/c4b813a9192701",
-    "source": "Zenn Trends",
-    "published": "Wed, 18 Mar 2026 22:00:08 GMT",
-    "summary": "はじめに\nReact、Vue、Svelte。フロントエンドのフレームワーク選定で普通に出てくる名前だと思う。自分もそうだった。\nでも結局、どれも選ばなかった。代わりにMoonBitという、ほとんど誰も使っていない言語でフロントエンドを書いている。しかも個人プロジェクトではなく、業務で毎日使われている社内CRM/SFAで。\nページ数は50を超えた。顧客管理、契約処理、物件検索、社内チャット、日報、承認フロー、AI文書解析、マーケティング分析。一人で開発して、本番で運用している。\nなぜこうなったのか、実際どうなのかを書いておく。\n\n なぜMoonBitを選んだのか\n正直に言うと、最初はR...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--fPrH7vum--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:React%25E3%2582%2592%25E3%2582%2584%25E3%2582%2581%25E3%2581%25A6%2520MoonBit%2520%25E3%2581%25A750%25E3%2583%259A%25E3%2583%25BC%25E3%2582%25B8%25E3%2581%25AE%25E6%25A5%25AD%25E5%258B%2599%25E3%2582%25B7%25E3%2582%25B9%25E3%2583%2586%25E3%2583%25A0%25E3%2582%2592%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Lehti%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSV9jQzdvVTUyd3ZsNlZxb2RSX3lMRFdjVy1fcXozdTNKZ3RDNXpPNjR2NkhMaTh0UT1zMjUwLWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-    "fetched_at": "2026-03-19 15:34:26",
-    "ja_summary": "・React等の既存フレームワークを使わず、新興言語「MoonBit」を採用して50ページ超の業務システムを個人開発。\n・顧客管理からAI分析まで含む大規模システムを、MoonBitを用いて実務で運用中。\n・開発に至った経緯や実運用での評価を共有し、新しい技術選択の可能性を提示。"
-  },
-  {
-    "title": "Rork: AIでモバイルアプリを数分で作る時代へ",
-    "link": "https://speakerdeck.com/x5gtrn/rork-building-mobile-apps-with-ai-in-minutes-ja",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-03-19T02:00:46-04:00",
-    "summary": "https://daisuke.masuda.tokyo/rork-building-mobile-apps-with-ai-in-minutes\n\nRorkは、自然言語のプロンプトからReact NativeとExpoを用いてネイティブモバイルアプリを数分で自動生成する画期的なAIビルダーです。従来のアプリ開発における高コストや長期間の壁を打ち破り、非エンジニアでもApp Storeレベルのアプリを構築可能にします。Webアプリに特化したLovableや、AIワークフロー構築向けのGoogle Opalとは異なり、Rorkはモバイルプラットフォームに特化しており、次期バージョンのRork MaxではSwiftを用いたApple全デバイスへの対応も予定されています。",
-    "image": "https://files.speakerdeck.com/presentations/4853d396ac234d31aabc316b47acb65d/preview_slide_0.jpg?38780972",
-    "fetched_at": "2026-03-19 15:34:28",
-    "ja_summary": "・AIへの指示だけで、React Native等を用いたモバイルアプリを数分で自動生成できる。\n・専門知識不要で開発コストを大幅に削減し、非エンジニアでも高品質なアプリ構築が可能。\n・モバイル特化型であり、今後はSwift対応によりApple全デバイスへの展開も予定されている。"
   }
 ]
