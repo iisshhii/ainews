@@ -1,5 +1,25 @@
 [
   {
+    "title": "AIツールを3つ以上並行して使うと、「脳の疲労」を引き起こして生産性が低下する可能性…最新の研究で明らかに",
+    "link": "https://www.businessinsider.jp/article/2603-ai-brain-fry-study-agents-uses/",
+    "source": "Business Insider Japan",
+    "published": "Sun, 22 Mar 2026 06:00:00 GMT",
+    "summary": "アメリカのフルタイム労働者1488人を対象にAIの利用状況について調査したところ、懸念すべき事象が明らかになりました。",
+    "image": "https://media.loom-app.com/loom/2026/03/11/35cad3af-8773-49f6-94d8-9452f5e5c2e7/original.jpg?w=1200&amp;h=630",
+    "fetched_at": "2026-03-22 15:10:35",
+    "ja_summary": "・AIツールを3つ以上並行して使用すると、脳の疲労により逆に生産性が低下する。\n・アメリカの労働者1488人を対象とした調査で判明。\n・業務効率化のためのAI活用が、かえって逆効果になるリスクがある。"
+  },
+  {
+    "title": "Beyond the Hackathon — How We Built the Backlog AI Assistant",
+    "link": "https://speakerdeck.com/vvatanabe/beyond-the-hackathon-how-we-built-the-backlog-ai-assistant",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-03-22T01:32:36-04:00",
+    "summary": "GDGoC Japan Hackathon 2026 で発表したセッションです。2023年の 社内ハッカソンから始まり、Backlog AIアシスタントを正式リリースするまでに乗り越えた5つのチャレンジ（セキュリティ・信頼性・コスト管理・法務・OSS共創）についてお話ししました。「動くもの」を「使われるもの」にするためのリアルな経験を共有します。",
+    "image": "https://files.speakerdeck.com/presentations/2630966bf259424fb4ded6610771e3da/preview_slide_0.jpg?38809648",
+    "fetched_at": "2026-03-22 15:10:54",
+    "ja_summary": "・社内ハッカソンから始まった「Backlog AIアシスタント」の正式リリースまでの道のりを解説。\n・セキュリティ、コスト、法務など、実運用化で直面した5つの課題と解決策を共有。\n・単なるプロトタイプを「実用的な製品」へと進化させるための実践的な知見を公開。"
+  },
+  {
     "title": "「通るまでRe-run」から卒業！落ちないテストを書く勘所",
     "link": "https://speakerdeck.com/asumikam/graduate-from-re-running-failed-tests",
     "source": "Speaker Deck (Tech)",
@@ -978,25 +998,5 @@
     "image": "https://files.speakerdeck.com/presentations/c1b9b312f8a34d53bec92fbe300a85f7/preview_slide_0.jpg?38789402",
     "fetched_at": "2026-03-20 10:21:02",
     "ja_summary": "・GeminiとAntigravityを活用し、アイデアからWebアプリ開発までを短時間で実現する手法を解説。\n・PentestGPTを用いたAI主導のセキュリティ診断を通じて、攻撃者の視点から脆弱性を特定する手法を実践。\n・「破壊と守護」のプロセスを学び、AI時代の開発における本質的なセキュリティ思考を養うワークショップ。"
-  },
-  {
-    "title": "OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first",
-    "link": "https://openai.com/index/japan-teen-safety-blueprint",
-    "source": "OpenAI",
-    "published": "Tue, 17 Mar 2026 10:00:00 GMT",
-    "summary": "OpenAI Japan announces the Japan Teen Safety Blueprint, introducing stronger age protections, parental controls, and well-being safeguards for teens using generative AI.",
-    "image": "https://openai.com/favicon.ico",
-    "fetched_at": "2026-03-20 08:51:49",
-    "ja_summary": "・OpenAI Japanが10代の利用者を守る「Japan Teen Safety Blueprint」を発表\n・年齢制限の強化や保護者による管理機能の導入を推進\n・生成AI利用時の安全性を高め、健康的な活用環境を整備する方針"
-  },
-  {
-    "title": "Anthropic’s Responsible Scaling Policy: Version 3.0",
-    "link": "https://www.anthropic.com/news/responsible-scaling-policy-v3",
-    "source": "Anthropic (News)",
-    "published": "Tue, 24 Feb 2026 00:00:00 +0000",
-    "summary": "Anthropic’s Responsible Scaling Policy: Version 3.0",
-    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Quill&amp;backgroundColor=olive",
-    "fetched_at": "2026-03-20 08:51:57",
-    "ja_summary": "・AnthropicがAI開発の安全基準「Responsible Scaling Policy」の最新版（v3.0）を発表。\n・AIモデルの能力向上に伴うリスクを管理し、安全な開発と運用を維持する方針を強化。\n・開発の透明性と安全性を確保し、技術進歩とリスク回避の両立を目指す。"
   }
 ]
