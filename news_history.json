@@ -1,5 +1,55 @@
 [
   {
+    "title": "「鳥貴族」のノウハウ、大倉社長のAIアバターが伝授　DXで個別におすすめメニュー提案",
+    "link": "https://www.itmedia.co.jp/business/articles/2603/20/news025.html",
+    "source": "ITmedia ビジネス",
+    "published": "Fri, 20 Mar 2026 10:30:00 +0900",
+    "summary": "居酒屋チェーン「鳥貴族」を展開するエターナルホスピタリティグループは19日、AIや顧客データを活用して事業変革を図るDX戦略を発表した。",
+    "image": "https://image.itmedia.co.jp/business/articles/2603/20/cover_news025.jpg",
+    "fetched_at": "2026-03-22 16:49:09",
+    "ja_summary": "・鳥貴族がDX戦略を発表し、AIや顧客データを活用した店舗運営を推進する。\n・大倉社長のAIアバターがノウハウを伝授する体制を構築する。\n・顧客データに基づき、一人ひとりに最適なメニューをAIが提案する。"
+  },
+  {
+    "title": "AIがスマホを操作するアプリ『AGI』を試す。Qualcomm協業で「オンデバイス スーパーインテリジェンス」目指す(石野純也)",
+    "link": "https://www.techno-edge.net/article/2026/03/20/4943.html",
+    "source": "TechnoEdge",
+    "published": "Fri, 20 Mar 2026 13:54:40 +0900",
+    "summary": "通信業界向けのイベントとしておなじみのMWCですが、今年は例年以上にAI一色。キャリアや通信機器ベンダーはもちろんのこと、スマホメーカー、チップセットベンダー、さらにはアプリ開発者も“AI推し”の色合いが濃くなっていました。",
+    "image": "https://www.techno-edge.net/imgs/rss/30477.jpg",
+    "fetched_at": "2026-03-22 16:49:38",
+    "ja_summary": "・MWC 2024ではスマホからアプリまで「AI」一色となり、業界全体で開発が加速。\n・Qualcommと協力し、スマホ上でAIが直接アプリを操作する「オンデバイスAI」の実用化を目指す。\n・クラウドに頼らず端末単体で高度な知能を実現する「スーパーインテリジェンス」が今後のトレンドとなる。"
+  },
+  {
+    "title": "Why Codex Security Doesn’t Include a SAST Report",
+    "link": "https://openai.com/index/why-codex-security-doesnt-include-sast",
+    "source": "OpenAI",
+    "published": "Mon, 16 Mar 2026 00:00:00 GMT",
+    "summary": "A deep dive into why Codex Security doesn’t rely on traditional SAST, instead using AI-driven constraint reasoning and validation to find real vulnerabilities with fewer false positives.",
+    "image": "https://openai.com/favicon.ico",
+    "fetched_at": "2026-03-22 16:49:39",
+    "ja_summary": "・Codex Securityは従来のSAST（静的解析）を採用せず、AIによる制約推論と検証を活用。\n・誤検知を減らしつつ、実際に悪用可能な脆弱性を高精度に特定。\n・従来のツールが抱えるノイズ過多の課題を解決し、実用的なセキュリティ対策を実現。"
+  },
+  {
+    "title": "Anthropic acquires Vercept to advance Claude's computer use capabilities",
+    "link": "https://www.anthropic.com/news/acquires-vercept",
+    "source": "Anthropic (News)",
+    "published": "Wed, 25 Feb 2026 00:00:00 +0000",
+    "summary": "Anthropic acquires Vercept to advance Claude's computer use capabilities",
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Node%20Cursor&amp;backgroundColor=coral",
+    "fetched_at": "2026-03-22 16:49:43",
+    "ja_summary": "・AI開発のAnthropic社が、コンピュータ操作技術を持つVercept社を買収。\n・自社AI「Claude」のPC操作能力の向上と機能拡張を加速させる狙い。\n・人間に代わってAIが複雑な画面操作を行う自動化技術の強化を図る。"
+  },
+  {
+    "title": "「お金で解決」が全てではない！大規模WebアプリのCI高速化 #phperkaigi",
+    "link": "https://speakerdeck.com/stefafafan/gha-ci-performance-tuning",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-03-22T01:43:42-04:00",
+    "summary": "<a href=\"https://phperkaigi.jp/2026/\">PHPerKaigi2026</a> で登壇した際の資料です。",
+    "image": "https://files.speakerdeck.com/presentations/c947c6788fd94601bb83cfd585f31e72/preview_slide_0.jpg?38809673",
+    "fetched_at": "2026-03-22 16:49:49",
+    "ja_summary": "・大規模WebアプリにおけるCIの高速化手法を解説。\n・コスト投入だけでなく、ボトルネック解消と運用の工夫が鍵。\n・PHPerKaigi 2026での登壇資料。"
+  },
+  {
     "title": "AIも「理工系＝男子」偏見あり?",
     "link": "https://news.yahoo.co.jp/pickup/6573892?source=rss",
     "source": "Yahoo!ニュース IT・科学",
@@ -948,55 +998,5 @@
     "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0MzU0MTk3JTJGNzY4MGMzNmI0MjExOWM0NTJhZGE3NTg4MmZmYTdiZGY2YWM5OWY5MSUyRmxhcmdlLnBuZyUzRjE3NzM1OTE5OTU_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPWY2NzlkNTUyZTUxZTY1YTZkNTE1NWNiMDY1OWY4M2Uz%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Dabf9ad6160c15f0825d62e524e5418ea?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9QW50aHJvcGljJUU1JTg1JUFDJUU1JUJDJThGJUUzJTgwJThDU2tpbGxzJUU1JUFFJThDJUU1JTg1JUE4JUUzJTgyJUFDJUUzJTgyJUE0JUUzJTgzJTg5JUUzJTgwJThEJUUzJTgyJTkyJUU4JUFBJUFEJUUzJTgyJTkzJUUzJTgxJUEwJUUzJTgyJTg5JUUzJTgwJTgxJUU4JTg3JUFBJUU1JTg4JTg2JUUzJTgxJUFFU0tJTEwubWQlRTMlODElQUUlRTMlODMlODglRTMlODMlQkMlRTMlODIlQUYlRTMlODMlQjMlRTYlQjYlODglRTglQjIlQkIlRTMlODIlOTI0MCUyNSVFNiVCOCU5QiVFMyU4MiU4OSVFMyU4MSU5QiVFMyU4MSU5RiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTYwN2ZjNzMzYTM0M2YyMjYyMWJiNmExZjE1OWU5NzQ0&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDB5dXJ1a3VzYSZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWUzZjE5NmRiNTgxN2MyNzIyZTk5MDFiZTYxNDUyNTIz&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=166638199dbdcd7d075a21eac02d838f",
     "fetched_at": "2026-03-20 16:55:23",
     "ja_summary": "Anthropic公式のスキル構築ガイドを参考に設定を最適化した結果、SKILL.mdのトークン消費が40%削減された。\n効率的な記述方法を取り入れることで、AIのレスポンス速度も向上する。\n長文のガイドを読まなくても、公式のベストプラクティスを適用するだけでコストと速度の両面で改善が見込める。"
-  },
-  {
-    "title": "アマゾン、セールスフォース、IBMなど、従業員をAIに置き換え始めたテック企業9社…アメリカ労働市場の11.7％はすでにAIで代替可能",
-    "link": "https://www.businessinsider.jp/article/ai-workforce-reduction-amazon-salesforce-ibm/",
-    "source": "Business Insider Japan",
-    "published": "Wed, 18 Mar 2026 21:35:00 GMT",
-    "summary": "人間の仕事がAIに置き換わるという未来がすでに到来しています。この記事では、仕事をすでにAIに置き換えているか、その計画に言及した9社のテック企業を紹介します。",
-    "image": "https://media.loom-app.com/loom/2026/03/18/bf4d2c45-190d-4073-991f-d7d45aba1bb5/original.jpg?w=1200&amp;h=630",
-    "fetched_at": "2026-03-20 16:12:52",
-    "ja_summary": "・Amazonやセールスフォースなど大手テック企業9社が、業務のAI代替を開始・計画中。\n・米国の労働市場の11.7％がすでにAIによる置き換えが可能となっている。\n・テック業界を皮切りに、AIが人間の仕事を奪う未来が現実のものとなりつつある。"
-  },
-  {
-    "title": "Equipping workers with insights about compensation",
-    "link": "https://openai.com/index/equipping-workers-with-insights-about-compensation",
-    "source": "OpenAI",
-    "published": "Tue, 17 Mar 2026 00:00:00 GMT",
-    "summary": "New research shows Americans send nearly 3 million daily messages to ChatGPT asking about compensation and earnings, helping close the wage information gap.",
-    "image": "https://openai.com/favicon.ico",
-    "fetched_at": "2026-03-20 16:13:01",
-    "ja_summary": "・米国の労働者が給与相場を知るために、ChatGPTへ毎日約300万件の質問を送信。\n・AI活用により、賃金情報の格差解消が進んでいる。"
-  },
-  {
-    "title": "新連載「やってみようVibe Coding 」第1回。ヴァイブ・コーディングという言葉を聞いたことがありますか？（小泉勝志郎）",
-    "link": "https://www.techno-edge.net/article/2026/03/20/4944.html",
-    "source": "TechnoEdge",
-    "published": "Fri, 20 Mar 2026 14:46:53 +0900",
-    "summary": "Vibe Coding（ヴァイブorバイブ・コーディング）って聞いたことありますか？　将棋の藤井聡太さんが「今年ハマったもの」としてこの言葉に触れていたんですよ。AIに作りたいものを日本語で伝えるとコードを書いてくれる、といった体験を語っていました。",
-    "image": "https://www.techno-edge.net/imgs/rss/30507.png",
-    "fetched_at": "2026-03-20 15:06:51",
-    "ja_summary": "・「ヴァイブ・コーディング」とは、AIに日本語で指示を出し、コードを生成してもらう開発手法のこと。\n・将棋の藤井聡太さんが今年ハマったものとして話題となり、注目を集めている。\n・AIとの対話だけでプログラミングが完結する、新しい開発体験について解説する連載が開始された。"
-  },
-  {
-    "title": "欠陥分析（ODC分析）における生成AIの活用プロセスと実践事例 / 20260320 Suguru Ishii & Naoki Yamakoshi & Mayu Yoshizawa",
-    "link": "https://speakerdeck.com/shift_evolve/20260320-suguru-ishii-and-naoki-yamakoshi-and-mayu-yoshizawa",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-03-19T01:59:44-04:00",
-    "summary": "2026/3/20 JaSST’26 Tokyo\nhttps://jasst.jp/tokyo/26-about/\n\n株式会社SHIFT\nCATエヴァンジェリスト\n石井 優\n\nExecutive Test Specialist\n山腰 直樹\n\nTest Engineer\n吉澤麻由",
-    "image": "https://files.speakerdeck.com/presentations/6c96f2322003436883a339609749e12b/preview_slide_0.jpg?38780939",
-    "fetched_at": "2026-03-20 15:07:04",
-    "ja_summary": "・ソフトウェア開発の品質分析手法である「ODC分析」に生成AIを導入するプロセスと実践事例を解説。\n・AI活用により、欠陥データの分類効率化や分析精度の向上を目指す手法を提示。\n・JaSST’26 Tokyoにて、SHIFTの専門家チームが実務への応用知見を共有。"
-  },
-  {
-    "title": "新モデル「AirPods Max 2」発表",
-    "link": "https://news.yahoo.co.jp/pickup/6573356?source=rss",
-    "source": "Yahoo!ニュース IT・科学",
-    "published": "Mon, 16 Mar 2026 13:49:11 GMT",
-    "summary": "",
-    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/16/3cc28615b7d205206f75166caf93b2d9115cda6aeb4faead412e9b8e2c7b6771.jpg",
-    "fetched_at": "2026-03-20 14:08:06",
-    "ja_summary": "・Appleが新型「AirPods Max 2」を発表\n・USB-C充電対応や新色追加など、基本性能が刷新\n・高音質と快適な装着感は維持し、利便性を向上させた最新モデル"
   }
 ]
