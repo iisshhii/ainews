@@ -1,5 +1,85 @@
 [
   {
+    "title": "AIも「理工系＝男子」偏見あり?",
+    "link": "https://news.yahoo.co.jp/pickup/6573892?source=rss",
+    "source": "Yahoo!ニュース IT・科学",
+    "published": "Sun, 22 Mar 2026 06:50:26 GMT",
+    "summary": "",
+    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/22/ba2265c73570616e8017ccb89832fc88d4752cdfef8b860d13bab3dfabad2c70.jpg",
+    "fetched_at": "2026-03-22 16:08:00",
+    "ja_summary": "・AIモデルが「理工系は男性のもの」という性別バイアスを学習し、偏った検索結果や回答を生成する事例が確認されている。\n・この偏見はAIによる採用選考や進路指導に悪影響を及ぼす懸念がある。\n・AIの公平性を保つため、学習データの偏りの是正や開発プロセスの透明化が急務となっている。"
+  },
+  {
+    "title": "OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first",
+    "link": "https://openai.com/index/japan-teen-safety-blueprint",
+    "source": "OpenAI",
+    "published": "Tue, 17 Mar 2026 10:00:00 GMT",
+    "summary": "OpenAI Japan announces the Japan Teen Safety Blueprint, introducing stronger age protections, parental controls, and well-being safeguards for teens using generative AI.",
+    "image": "https://openai.com/favicon.ico",
+    "fetched_at": "2026-03-22 16:08:06",
+    "ja_summary": "・OpenAI Japanが10代のAI利用を保護する指針「Japan Teen Safety Blueprint」を発表。\n・年齢制限の強化や保護者による管理機能の導入により、安全性を最優先。\n・生成AI利用時のリスク低減と、若年層の健全なデジタル環境整備を目指す。"
+  },
+  {
+    "title": "Anthropic’s Responsible Scaling Policy: Version 3.0",
+    "link": "https://www.anthropic.com/news/responsible-scaling-policy-v3",
+    "source": "Anthropic (News)",
+    "published": "Tue, 24 Feb 2026 00:00:00 +0000",
+    "summary": "Anthropic’s Responsible Scaling Policy: Version 3.0",
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Quill&amp;backgroundColor=olive",
+    "fetched_at": "2026-03-22 16:08:17",
+    "ja_summary": "・AnthropicがAI開発の安全基準「責任あるスケーリング方針」の最新版（v3.0）を発表。\n・AIモデルの能力向上に伴うリスクを特定し、厳格な安全対策を講じる枠組みを強化。\n・最先端AIの開発・運用における透明性と安全性管理のプロセスを体系化。"
+  },
+  {
+    "title": "cmuxで変わるClaude Codeのマルチプロジェクト開発体験",
+    "link": "https://zenn.dev/hummer/articles/cmux-ecosystem-claude-code",
+    "source": "Zenn Trends",
+    "published": "Sat, 21 Mar 2026 16:44:41 GMT",
+    "summary": "はじめに\nClaude Code、とても便利ですよね。でも使い込んでいくと、こんな不満が出てきませんか？\n\n\nサブエージェントが何をやっているか見えない（Agent ツールはブラックボックス）\n\n複数プロジェクトをまたぐ作業がつらい（Claude Code はカレントディレクトリドリブンなので）\n別リポジトリでの作業を AI に任せたいけど、cd して別セッション立ち上げて…が面倒\n\nこれらの課題を解決するために、cmux というターミナルマルチプレクサを軸にしたエコシステムを作りました。この記事では、そのエコシステムを構成する4つのリポジトリを紹介します。\n\n cmux とは（30...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--XFkfCxel--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:cmux%25E3%2581%25A7%25E5%25A4%2589%25E3%2582%258F%25E3%2582%258BClaude%2520Code%25E3%2581%25AE%25E3%2583%259E%25E3%2583%25AB%25E3%2583%2581%25E3%2583%2597%25E3%2583%25AD%25E3%2582%25B8%25E3%2582%25A7%25E3%2582%25AF%25E3%2583%2588%25E9%2596%258B%25E7%2599%25BA%25E4%25BD%2593%25E9%25A8%2593%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Yamamoto%2520Yuji%2520%252F%2520%25E3%2581%25AF%25E3%2581%25BE%25E3%2581%2582%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2pDRlJLYkhPUnhPTjlneFEzdmNlMFV0NGozby0zaFVXZU01akh0Zk1nPXMyNTAtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-03-22 16:08:17",
+    "ja_summary": "・Claude Codeの「作業状況が見えない」「複数プロジェクトの行き来が面倒」という課題を解消。\n・ターミナルマルチプレクサ「cmux」を活用した新たな開発エコシステムを構築。\n・4つの専用ツールを導入することで、効率的なマルチプロジェクト開発が可能になる。"
+  },
+  {
+    "title": "DGX Sparkで色々なローカルLLMを動かした比較結果",
+    "link": "https://zenn.dev/karaage0703/articles/fcca40c614dffd",
+    "source": "Zenn Trends",
+    "published": "Sat, 21 Mar 2026 16:18:04 GMT",
+    "summary": "NVIDIA DGX Spark（GB10、ARM64、128GB統合メモリ）でローカルLLMを動かす方法を、推論エンジン別（Ollama / vLLM / SGLang）に解説します。\n「どのモデル × どのエンジンを選べばいいの？」という疑問に答えるため、手軽さ・賢さ（ツールコール精度）・速度・メモリ使用量の4軸で整理しました。\nこの記事は実際にDGX Sparkで動作確認した手順をまとめたものです。動作確認できなかった方法も参考として記載しています。\n!\nこの記事は、あくまで自分の環境での少数試行での結果です。条件など完全に揃えられてない点もありますので、正確なベンチマークというよ...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--z7c3_doH--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:DGX%2520Spark%25E3%2581%25A7%25E8%2589%25B2%25E3%2580%2585%25E3%2581%25AA%25E3%2583%25AD%25E3%2583%25BC%25E3%2582%25AB%25E3%2583%25ABLLM%25E3%2582%2592%25E5%258B%2595%25E3%2581%258B%25E3%2581%2597%25E3%2581%259F%25E6%25AF%2594%25E8%25BC%2583%25E7%25B5%2590%25E6%259E%259C%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%258B%25E3%2582%2589%25E3%2581%2582%25E3%2581%2592%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2hDZEtvakJfZXdDTjNCV1Z0WXIteFNIZ0hmRjlXZmt3QzI5c0Y0aXYwPXMyNTAtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-03-22 16:08:18",
+    "ja_summary": "・NVIDIA DGX Spark環境で主要なローカルLLM推論エンジン（Ollama/vLLM/SGLang）の比較検証を実施。\n・手軽さ、賢さ、速度、メモリ使用量の4軸で評価し、用途に応じた最適な組み合わせを提示。\n・実機での検証手順を公開し、各エンジンの導入可否や特性を整理した実践的ガイド。"
+  },
+  {
+    "title": "仕様駆動開発スターターキットを公開しました",
+    "link": "https://zenn.dev/sakamotchi8/articles/spec-driven-starter-introduction",
+    "source": "Zenn Trends",
+    "published": "Sat, 21 Mar 2026 04:32:52 GMT",
+    "summary": "はじめに\n以前、Claude Codeスキルで実現する仕様駆動開発という記事で、AIの暴走を防ぎつつ一貫性のある開発を実現する手法を紹介しました。\n今回、この手法を既存プロダクトに導入するためのスターターキットを公開しました。\nhttps://github.com/sakamotchi/spec-driven-starter\n\n 仕様駆動開発の基本思想\nこのスターターキットが前提とする役割分担は以下の通りです。\n\n\n人間の役割: 仕様の決定、レビュー、テストによる品質担保\n\nAIの役割: 仕様に基づくコードの実装、ドキュメントの生成・更新\n\n人間がコードを直接書くのではなく、仕様（ド...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--Oz5HS56B--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E4%25BB%2595%25E6%25A7%2598%25E9%25A7%2586%25E5%258B%2595%25E9%2596%258B%25E7%2599%25BA%25E3%2582%25B9%25E3%2582%25BF%25E3%2583%25BC%25E3%2582%25BF%25E3%2583%25BC%25E3%2582%25AD%25E3%2583%2583%25E3%2583%2588%25E3%2582%2592%25E5%2585%25AC%25E9%2596%258B%25E3%2581%2597%25E3%2581%25BE%25E3%2581%2597%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:sakamotchi8%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzViZmJmYzcyODIuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-03-22 16:08:18",
+    "ja_summary": "AIを活用した「仕様駆動開発」を既存プロダクトへ導入するためのスターターキットを公開。\n人間は仕様決定と品質担保に専念し、AIが実装とドキュメント作成を担う役割分担を実現。\nAIの暴走を防ぎつつ、一貫性のある効率的な開発プロセスを構築するためのツールキット。"
+  },
+  {
+    "title": "よし！PHPで円でも描いてみるか/php-circle",
+    "link": "https://speakerdeck.com/hanhan1978/php-circle",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-03-22T03:04:15-04:00",
+    "summary": "PHPerKaigi2026のLTです",
+    "image": "https://files.speakerdeck.com/presentations/73d7ec391c184169aaedc67b502d4929/preview_slide_0.jpg?38809982",
+    "fetched_at": "2026-03-22 16:08:19",
+    "ja_summary": "・PHPerKaigi2026にて「PHPで円を描画する」手法をテーマにしたLTを実施。\n・プログラミングの面白さを伝える技術発表。"
+  },
+  {
+    "title": "なぜarray_firstとarray_lastは採用、 array_value_firstとarray_value_lastは 見送りだったか / Why array_value_first and array_value_last was declined, then why array_first and array_last was accpeted?",
+    "link": "https://speakerdeck.com/cocoeyes02/why-array-value-first-and-array-value-last-was-declined-then-why-array-first-and-array-last-was-accpeted",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-03-22T02:26:38-04:00",
+    "summary": "2026/03/22 PHPerKaigi 2026 LTにて話したときに使用したスライドです",
+    "image": "https://files.speakerdeck.com/presentations/6672488a6506472cae825b75efdf36d7/preview_slide_0.jpg?38809929",
+    "fetched_at": "2026-03-22 16:08:19",
+    "ja_summary": "・PHPの配列操作関数において、`array_first`/`last`は採用されたが、`array_value_first`/`last`は見送られた。\n・その背景には、関数名の「value」が冗長であるという判断や、既存関数との命名規則の一貫性が重視された経緯がある。\n・PHPerKaigi 2026のLTにて、これら採用・見送りの基準や設計思想が詳しく解説されている。"
+  },
+  {
     "title": "AIツールを3つ以上並行して使うと、「脳の疲労」を引き起こして生産性が低下する可能性…最新の研究で明らかに",
     "link": "https://www.businessinsider.jp/article/2603-ai-brain-fry-study-agents-uses/",
     "source": "Business Insider Japan",
@@ -918,85 +998,5 @@
     "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/16/3cc28615b7d205206f75166caf93b2d9115cda6aeb4faead412e9b8e2c7b6771.jpg",
     "fetched_at": "2026-03-20 14:08:06",
     "ja_summary": "・Appleが新型「AirPods Max 2」を発表\n・USB-C充電対応や新色追加など、基本性能が刷新\n・高音質と快適な装着感は維持し、利便性を向上させた最新モデル"
-  },
-  {
-    "title": "AIがスマホを操作するアプリ『AGI』を試す。Qualcomm協業で「オンデバイス スーパーインテリジェンス」目指す(石野純也)",
-    "link": "https://www.techno-edge.net/article/2026/03/20/4943.html",
-    "source": "TechnoEdge",
-    "published": "Fri, 20 Mar 2026 13:54:40 +0900",
-    "summary": "通信業界向けのイベントとしておなじみのMWCですが、今年は例年以上にAI一色。キャリアや通信機器ベンダーはもちろんのこと、スマホメーカー、チップセットベンダー、さらにはアプリ開発者も“AI推し”の色合いが濃くなっていました。",
-    "image": "https://www.techno-edge.net/imgs/rss/30477.jpg",
-    "fetched_at": "2026-03-20 14:08:10",
-    "ja_summary": "MWCでAI活用が加速する中、Qualcommと連携したスマホ操作AIアプリ『AGI』が登場。\nクラウドを介さない「オンデバイスAI」により、端末内での高度な自律操作を目指す。\n通信業界全体で「AI特化型スマホ」の普及に向けた開発競争が激化している。"
-  },
-  {
-    "title": "「鳥貴族」のノウハウ、大倉社長のAIアバターが伝授　DXで個別におすすめメニュー提案",
-    "link": "https://www.itmedia.co.jp/business/articles/2603/20/news025.html",
-    "source": "ITmedia ビジネス",
-    "published": "Fri, 20 Mar 2026 10:30:00 +0900",
-    "summary": "居酒屋チェーン「鳥貴族」を展開するエターナルホスピタリティグループは19日、AIや顧客データを活用して事業変革を図るDX戦略を発表した。",
-    "image": "https://image.itmedia.co.jp/business/articles/2603/20/cover_news025.jpg",
-    "fetched_at": "2026-03-20 12:42:24",
-    "ja_summary": "・鳥貴族がAIを活用したDX戦略を発表。\n・大倉社長のAIアバターが経営ノウハウや接客術を伝授する。\n・顧客データに基づき、一人ひとりに最適なメニューをAIが提案する。"
-  },
-  {
-    "title": "企業が狙う“フィジカルAI人材”　高専生の甲子園「DCON」で有望人材が続々誕生 (今こそ高専、採用競争の舞台裏)",
-    "link": "https://business.nikkei.com/atcl/gen/19/00852/031600009/",
-    "source": "日経ビジネス 最新",
-    "published": "",
-    "summary": "高専がAIのスキルを取り込んで人材輩出力を高めている。「よく手が動く高専生はAI時代に即応できる」とAI研究の第一人者、東大・松尾豊教授も太鼓判を押す。日本の勝ち筋とされる「フィジカルAI」の担い手として期待が膨らむ。",
-    "image": "https://business.nikkei.com/atcl/gen/19/00852/031600009/fb.jpg",
-    "fetched_at": "2026-03-20 12:42:29",
-    "ja_summary": "・AIと実社会の技術を融合させる「フィジカルAI」人材として、高専生が企業から熱視線を浴びている。\n・「DCON」などの実践的な場を通じて、即戦力となる若手技術者が次々と輩出されている。\n・AI研究の権威も、手を動かして実装できる高専生のポテンシャルを高く評価している。"
-  },
-  {
-    "title": "Why Codex Security Doesn’t Include a SAST Report",
-    "link": "https://openai.com/index/why-codex-security-doesnt-include-sast",
-    "source": "OpenAI",
-    "published": "Mon, 16 Mar 2026 00:00:00 GMT",
-    "summary": "A deep dive into why Codex Security doesn’t rely on traditional SAST, instead using AI-driven constraint reasoning and validation to find real vulnerabilities with fewer false positives.",
-    "image": "https://openai.com/favicon.ico",
-    "fetched_at": "2026-03-20 12:42:52",
-    "ja_summary": "・Codex Securityは従来のSAST（静的解析）を採用せず、AIによる制約推論と検証を活用。\n・誤検知を大幅に減らし、実際の脆弱性を高精度に特定可能。\n・AI主導のアプローチで、従来手法の課題を解決しセキュリティを効率化。"
-  },
-  {
-    "title": "生成AI活用でQAエンジニアにどのような仕事が生まれるか/Support Required of QA Engineers for Generative AI",
-    "link": "https://speakerdeck.com/goyoki/support-required-of-qa-engineers-for-generative-ai",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-03-19T22:05:32-04:00",
-    "summary": "",
-    "image": "https://files.speakerdeck.com/presentations/e610ccb870074d429210c42a9424a3b0/preview_slide_0.jpg?38790168",
-    "fetched_at": "2026-03-20 12:43:09",
-    "ja_summary": "・生成AIの普及により、QAエンジニアにはAI特有の品質課題を評価する新しい役割が求められる。\n・ハルシネーション（幻覚）の抑制や、AIの回答精度を検証する専門的なテスト手法が不可欠となる。\n・単なるバグ発見だけでなく、AIの挙動を監視し継続的に品質を改善するスキルが重要になる。"
-  },
-  {
-    "title": "卒アルなど 性的なAI加工に注意",
-    "link": "https://news.yahoo.co.jp/pickup/6573326?source=rss",
-    "source": "Yahoo!ニュース IT・科学",
-    "published": "Mon, 16 Mar 2026 09:05:10 GMT",
-    "summary": "",
-    "image": "https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/suzukitomoko/02576702/title-1773634738340.jpeg?exp=10800",
-    "fetched_at": "2026-03-20 10:20:42",
-    "ja_summary": "・卒業アルバムなどの顔写真が、AIによって性的コンテンツに無断加工される被害が急増。\n・悪用された画像はSNSで拡散される恐れがあり、プライバシーや権利の重大な侵害となる。\n・写真の公開範囲を制限するほか、被害に気づいた際は警察や専門窓口へ早急に相談すること。"
-  },
-  {
-    "title": "Anthropic acquires Vercept to advance Claude's computer use capabilities",
-    "link": "https://www.anthropic.com/news/acquires-vercept",
-    "source": "Anthropic (News)",
-    "published": "Wed, 25 Feb 2026 00:00:00 +0000",
-    "summary": "Anthropic acquires Vercept to advance Claude's computer use capabilities",
-    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Node%20Cursor&amp;backgroundColor=coral",
-    "fetched_at": "2026-03-20 10:20:57",
-    "ja_summary": "・AnthropicがAIモデル「Claude」のPC操作機能強化のため、Verceptを買収。\n・PC画面を直接操作する技術を取り入れ、Claudeによる業務自動化を推進。\n・AIが人間のようにコンピュータを操作する実用化に向けて開発を加速。"
-  },
-  {
-    "title": "全端 AI 實戰：Gemini x Antigravity 快速開發與 PentestGPT 滲透攻防實務",
-    "link": "https://speakerdeck.com/j796160836/quan-duan-ai-shi-zhan-gemini-x-antigravity-kuai-su-kai-fa-yu-pentestgpt-shen-tou-gong-fang-shi-wu",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-03-19T20:33:45-04:00",
-    "summary": "在這個開發門檻被 AI 徹底粉碎的時代，人人都可以是擁有無限可能的指揮家。\n這場實戰將帶領你跨越傳統開發的邊界，體驗一種前所未有的「創造」與「毀滅」的交響詩。\n\n我們來一場即興的創造實驗，我們將透過 AI Studio 的直覺與 Antigravity 的靈動，\n跟 Gemini 來場的深度共鳴，彈指間將腦中的構思淬煉成一個完整運行的網頁應用。\n透過 PentestGPT 與 Gemini 的紅隊思維，\n我們將直視程式碼中的陰影，引導 AI 進行一場真實的滲透攻防，\n親手撕開創造者的溫柔，化身為冷峻的挑戰者。\n\n這是你將在 AI 的引領下，學會從攻擊者的眼中審視自己的作品。\n\n這不只是一場關於「創造」與「防禦」的循環演練，\n更是一次對軟體開發本質的重新覺醒——\n\n在 AI 時代，唯有理解如何破壞，才能真正學會如何守護。\n\n投影片：\n工作坊：https://github.com/j796160836/BwAI-20260319-workshop\n\nTags: AI Studio, Antigravity IDE, PentestGPT, AI-Driven Web Development, Security Testing, Cloud Deployment",
-    "image": "https://files.speakerdeck.com/presentations/c1b9b312f8a34d53bec92fbe300a85f7/preview_slide_0.jpg?38789402",
-    "fetched_at": "2026-03-20 10:21:02",
-    "ja_summary": "・GeminiとAntigravityを活用し、アイデアからWebアプリ開発までを短時間で実現する手法を解説。\n・PentestGPTを用いたAI主導のセキュリティ診断を通じて、攻撃者の視点から脆弱性を特定する手法を実践。\n・「破壊と守護」のプロセスを学び、AI時代の開発における本質的なセキュリティ思考を養うワークショップ。"
   }
 ]
