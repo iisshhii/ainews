@@ -1,5 +1,25 @@
 [
   {
+    "title": "次世代SNSが挑む 感情理解するAI",
+    "link": "https://news.yahoo.co.jp/pickup/6573705?source=rss",
+    "source": "Yahoo!ニュース IT・科学",
+    "published": "Fri, 20 Mar 2026 07:44:48 GMT",
+    "summary": "",
+    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/20/b15766c0c410991f7d17f0117fcebcbe2048e4c5bf5f4249988563972bc82155.jpg",
+    "fetched_at": "2026-03-22 20:44:46",
+    "ja_summary": "・AIがユーザーの感情を解析し、最適なコミュニケーションを支援する次世代SNSが登場。\n・個人の感情状態に合わせたコンテンツ提案や、対人トラブルの抑制が期待されている。\n・感情理解技術の進化により、従来のSNSとは異なる心地よい対話体験の実現を目指す。"
+  },
+  {
+    "title": "高校の文化祭で簡易POSを作って学んだ、「ITを入れれば効率化する」とは限らないという話",
+    "link": "https://qiita.com/Towa_ONGRKL/items/ee5c69831501251a0ec0",
+    "source": "Qiita (Popular)",
+    "published": "2026-03-21T21:07:09+09:00",
+    "summary": "# はじめに\n\n高校3年生のとき（1年半ほど前）、文化祭のたい焼き屋で使うために、スプレッドシートとApps Scriptで簡易的なPOSのような仕組みを作りました。\n\n今振り返ると、この経験は「技術で現場を良くする面白さ」を知るきっかけであると同時に、**ITを導入すること自体が目的になってはいけない**と痛感した経験でもありました。\n\n今回は、そのとき何を作ったのか、なぜ作ったのか、実際にどう",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmF2YXRhcnMuZ2l0aHVidXNlcmNvbnRlbnQuY29tJTJGdSUyRjE4NTQ2ODUzNCUzRnYlM0Q0P2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz0yNGVjYjQ2OTVjYjUzZjg5ZWYwM2E3YjVkZjNhZjNlZQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D1298ecd7d6cd9b6ed3aa1cbe0c3516b7?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUU5JUFCJTk4JUU2JUEwJUExJUUzJTgxJUFFJUU2JTk2JTg3JUU1JThDJTk2JUU3JUE1JUFEJUUzJTgxJUE3JUU3JUIwJUExJUU2JTk4JTkzUE9TJUUzJTgyJTkyJUU0JUJEJTlDJUUzJTgxJUEzJUUzJTgxJUE2JUU1JUFEJUE2JUUzJTgyJTkzJUUzJTgxJUEwJUUzJTgwJTgxJUUzJTgwJThDSVQlRTMlODIlOTIlRTUlODUlQTUlRTMlODIlOEMlRTMlODIlOEMlRTMlODElQjAlRTUlOEElQjklRTclOEUlODclRTUlOEMlOTYlRTMlODElOTklRTMlODIlOEIlRTMlODAlOEQlRTMlODElQTglRTMlODElQUYlRTklOTklOTAlRTMlODIlODklRTMlODElQUElRTMlODElODQlRTMlODElQTglRTMlODElODQlRTMlODElODYlRTglQTklQjEmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz03Y2FkYTQ3MDRlMjY0OGJlYTMzYjk2NzUxZWRjMTZlMg&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBUb3dhX09OR1JLTCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWMwMDFlM2ZkYmM5ODVlNzY0ZDU0NzgyNDRlY2RhYjJk&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=974cb0290d16f28579abde3ab8e2ea6b",
+    "fetched_at": "2026-03-22 20:45:11",
+    "ja_summary": "・高校の文化祭でたい焼き屋の業務効率化を目指し、スプレッドシートとApps Scriptで簡易POSを自作した。\n・技術導入により現場改善の面白さを学んだ一方、操作や連携の煩雑さから、IT化自体が目的化する弊害を痛感した。\n・「ITを入れれば解決する」のではなく、現場の運用フローに適した技術選定の重要性を説いている。"
+  },
+  {
     "title": "普段コード書かない奴が落合陽一に触発されてCLIツールを作った話",
     "link": "https://zenn.dev/sonicmoov/articles/b2ec3f6a8ade39",
     "source": "Zenn Trends",
@@ -978,25 +998,5 @@
     "image": "https://files.speakerdeck.com/presentations/12facb972f8f441aba35b9e8bc65b598/preview_slide_0.jpg?38794684",
     "fetched_at": "2026-03-20 18:24:32",
     "ja_summary": "・2026年3月の.NETラボ勉強会にて、生成AI（Copilot）活用に関するLT資料を発表。\n・専門データの壁を壊し、AIを業務へ効果的に取り入れる手法について解説。\n・生成AIの専門領域への応用と実用的な活用術を提示。"
-  },
-  {
-    "title": "DeNAがPerl6000行をGo言語へ　特性異なるAIエージェント駆使",
-    "link": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020800017/031001406/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "ディー・エヌ・エー（DeNA）は2025年10月末から11月末にかけ、Perl言語で記述されたサーバー資産管理API（アプリケーション・プログラミング・インターフェース）をGo言語に移行した。コードの分量はPerlが約6000行、移行後のGoは約1万行に及ぶ。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020800017/031001406/topm.jpg?20220512",
-    "fetched_at": "2026-03-20 17:32:24",
-    "ja_summary": "・DeNAがサーバー管理APIをPerlからGo言語へ移行\n・約6000行のPerlコードを約1万行のGoへ刷新\n・開発効率向上に向け、特性の異なるAIエージェントを駆使して実施"
-  },
-  {
-    "title": "サイバーペット、お見合い、そして株式取引――中国のユーザーがOpenClawブームに飛びつく理由",
-    "link": "https://www.businessinsider.jp/article/2603china-openclaw-craze-lobster-stock-trading-blind-dates-cyber-pets/",
-    "source": "Business Insider Japan",
-    "published": "Wed, 18 Mar 2026 22:15:00 GMT",
-    "summary": "中国ではAIツールOpenClaw（オープンクロー）が流行し、株取引やデート支援、デジタルペットなど、風変わりな使い方が広がっています。セキュリティ警告が出ているものの、人気は衰えていません。",
-    "image": "https://media.loom-app.com/loom/2026/03/17/f8627650-50a6-4153-a9cf-356d642598a6/original.jpg?w=1200&amp;h=630",
-    "fetched_at": "2026-03-20 17:32:32",
-    "ja_summary": "・中国でAIツール「OpenClaw」が、株取引やデート支援など多目的に使われ急普及。\n・セキュリティリスクが指摘されているものの、その利便性と物珍しさから人気が継続。\n・AIの独創的な活用が広がる一方、安全性への懸念が課題となっている。"
   }
 ]
