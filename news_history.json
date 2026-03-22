@@ -1,5 +1,45 @@
 [
   {
+    "title": "スピンアウト講座06_認証系（API-OAuth-MCP）入門",
+    "link": "https://speakerdeck.com/overflowinc/supinautojiang-zuo-06-ren-zheng-xi-api-oauth-mcp-ru-men",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-03-21T20:17:35-04:00",
+    "summary": "「SaaS連携が怖い」という不安に技術的に答えます。APIは「窓口」であってDBに直接触れない、OAuthはパスワード非共有のトークン方式、ClaudeCodeは3重防護壁（OAuthスコープ・APIサーバー拒否・ユーザー承認）で守られている——ReadOnlyから始める段階的な安全設定を解説します。\n\nOffersにはAI Talent（トップクラスAI人材）が多数登録しています。その方たちとチームを組み、AIコンサルティングサービスを開始しています。ご関心のある方はこちらからご登録ください。順次、弊社よりご連絡させていただきます。\nhttps://share-na2.hsforms.com/13F_F95BrTLaqRMk1hYhxQg3rs27",
+    "image": "https://files.speakerdeck.com/presentations/89b5a571e5b54dc2901b9d7508ef1245/preview_slide_0.jpg?38808150",
+    "fetched_at": "2026-03-22 10:25:02",
+    "ja_summary": "・SaaS連携の「データ流出が怖い」という懸念を、APIやOAuthの技術的仕組みで解消する方法を解説。\n・ClaudeCodeなどのツールは多重の防護壁とユーザー承認により、安全性が担保されている。\n・まずは読み取り専用（ReadOnly）設定から始める段階的なセキュリティ対策を推奨。"
+  },
+  {
+    "title": "スピンアウト講座05_実践活用事例",
+    "link": "https://speakerdeck.com/overflowinc/supinautojiang-zuo-05-shi-jian-huo-yong-shi-li",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-03-21T20:17:02-04:00",
+    "summary": "実際に稼働中の20スキルと1日の自動化フロー（朝メール→Meta広告→ボードチーム→日報）の全体像を公開。6つのスキルのBefore/After、実装アーキテクチャ、月間コスト（$100〜200で人間100〜150時間分を代替）を具体的に紹介します。\n\nOffersにはAI Talent（トップクラスAI人材）が多数登録しています。その方たちとチームを組み、AIコンサルティングサービスを開始しています。ご関心のある方はこちらからご登録ください。順次、弊社よりご連絡させていただきます。\nhttps://share-na2.hsforms.com/13F_F95BrTLaqRMk1hYhxQg3rs27",
+    "image": "https://files.speakerdeck.com/presentations/b73a2c307c614ac9baa66fd09f593c07/preview_slide_0.jpg?38808122",
+    "fetched_at": "2026-03-22 10:25:02",
+    "ja_summary": "・稼働中のAI自動化フロー（20スキル）と具体的な実装・コスト構造を公開。\n・月100〜200ドルの運用で、人間100〜150時間分の業務を代替する事例を紹介。\n・トップクラスAI人材と連携したAIコンサルティングサービスの登録受付を開始。"
+  },
+  {
+    "title": "スピンアウト講座04_ルーティン処理",
+    "link": "https://speakerdeck.com/overflowinc/supinautojiang-zuo-04-ruteinchu-li",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-03-21T20:16:30-04:00",
+    "summary": "macOSのlaunchdで定期実行を自動化する方法を解説。plistファイルの書き方、登録・解除・ログ確認のコマンド、GitHub Actions（クラウド）との使い分けまでカバーします。\n\nOffersにはAI Talent（トップクラスAI人材）が多数登録しています。その方たちとチームを組み、AIコンサルティングサービスを開始しています。ご関心のある方はこちらからご登録ください。順次、弊社よりご連絡させていただきます。\nhttps://share-na2.hsforms.com/13F_F95BrTLaqRMk1hYhxQg3rs27",
+    "image": "https://files.speakerdeck.com/presentations/3d84840d92c84d4a88995206f3548fea/preview_slide_0.jpg?38808095",
+    "fetched_at": "2026-03-22 10:25:02",
+    "ja_summary": "macOSのlaunchdを用いた定期処理の自動化手順（plist設定、コマンド操作、ログ確認）を網羅的に解説。\nローカル実行（launchd）とクラウド実行（GitHub Actions）の最適な使い分けについても紹介。\n業務効率化に役立つルーティン自動化の基礎知識を習得できる。"
+  },
+  {
+    "title": "スピンアウト講座03_CLAUDE-MDとSKILL-MD",
+    "link": "https://speakerdeck.com/overflowinc/supinautojiang-zuo-03-claude-mdtoskill-md",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-03-21T20:15:58-04:00",
+    "summary": "CLAUDE.md = 全業務に適用されるルール、SKILL.md = 特定業務の自動化手順。読み込みタイミングやスコープの違いを理解し、「どちらに書くべきか」の判断フローチャートで迷わなくなります。\n\nOffersにはAI Talent（トップクラスAI人材）が多数登録しています。その方たちとチームを組み、AIコンサルティングサービスを開始しています。ご関心のある方はこちらからご登録ください。順次、弊社よりご連絡させていただきます。\nhttps://share-na2.hsforms.com/13F_F95BrTLaqRMk1hYhxQg3rs27",
+    "image": "https://files.speakerdeck.com/presentations/6151293958b64ffea1842d6421292dd4/preview_slide_0.jpg?38808074",
+    "fetched_at": "2026-03-22 10:25:02",
+    "ja_summary": "・「CLAUDE.md」は全体ルール、「SKILL.md」は特定業務の手順と使い分ける。\n・両者の役割と適用範囲を理解し、迷わず記述場所を判断できるフローを解説。\n・トップクラスAI人材と連携したAIコンサルティングサービスの登録案内。"
+  },
+  {
     "title": "AI × Pythonで研究が“30秒で終わる”ようになった話 ― データ基盤 → 仮説量産 → 高速検証の時代へ",
     "link": "https://qiita.com/d94231/items/0bf79993886f7d73a81b",
     "source": "Qiita (Popular)",
@@ -958,45 +998,5 @@
     "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYzNDUwMSUyRjZiYmU0NTlmNmI5ZDU3OTUxMDgyMjFmZWMyNDZlM2Y1NWViMTJiOWYlMkZsYXJnZS5wbmclM0YxNzY1OTU1OTU4P2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz0zZDhhOGNhOTUzNjFkYTZjMTE5NjM1OGE5YTQ5NjdlMQ%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYxZTIwZGI1ZTdlNDA3ZWFlN2I5NzBlYzk5OTg4MGRjOGMzY2MwZjY0JTJGb3JpZ2luYWwuanBnJTNGMTY2NzI3NDk2Mz9peGxpYj1yYi00LjAuMCZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz0xMzQ4OTg3MjlkMzMwYTdiNWRhMzRkOGU2MzVmZjIxOA%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3Dcbbc7bc8bbeb186122f8fc2f9a00fe30?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUU1JTgwJThCJUU0JUJBJUJBJUU5JTk2JThCJUU3JTk5JUJBJUUzJTgxJTkzJUUzJTgxJTlEJUUzJTgwJTgxR2l0SHViJTIwJUMzJTk3JTIwQUklMjAlQzMlOTclMjAlRTMlODIlQjklRTMlODIlQUYlRTMlODMlQTklRTMlODMlQTAlRTMlODElQTclRTUlOUIlOUUlRTMlODElOTclRTMlODElOUYlRTMlODElQkIlRTMlODElODYlRTMlODElOEMlRTMlODElODQlRTMlODElODQmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz0xNTBiZGVlNjczM2MyNDRhZjcyYjIzMDVmNTYwNzUyMg&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDByZWluZjByY2UmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1lYTc5NzdmOGRjNjliZTNkNDE0YmQ1OGUwMWM5YWQ3ZQ&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=S0RESeOCouOCuOODo-OCpOODq-mWi-eZuuOCu-ODs-OCv-ODvOagquW8j-S8muekvg&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=7c06a368364aa512ecb3d0deb39f3475",
     "fetched_at": "2026-03-20 08:52:04",
     "ja_summary": "・個人開発の最大の難関は、タスクの優先順位付けと集中力の維持にある。\n・AIを活用すれば、アイデア出しから実装・文書化まで一貫した効率化が可能。\n・GitHub、AI、スクラム手法を組み合わせることで、一人でも迷わず開発を推進できる。"
-  },
-  {
-    "title": "楠木建氏が読む 『ゼロから創らない戦略』〜「価値移転」に着目した鋭い論理 (CULTURE)",
-    "link": "https://business.nikkei.com/atcl/NBD/19/culture/00349/",
-    "source": "日経ビジネス 最新",
-    "published": "",
-    "summary": "凡百のビジネス書には肝心の論理がない。例えば「人工知能（AI）を活用する事業が成長性も収益性も高い」という話。これはAIというカテゴリーを言っているだけだ。本書の美点は論理で説明する姿勢を貫くところにある。しかも、あらゆる論理が「価値移転」という一つのコンセプトから出てきている。ここが素晴らしい。",
-    "image": "https://business.nikkei.com/atcl/NBD/19/culture/00349/fb.jpg",
-    "fetched_at": "2026-03-20 08:22:44",
-    "ja_summary": "・本書は流行のビジネス手法の羅列に留まらず、「価値移転」という一貫した論理で戦略を紐解く。\n・カテゴリー論に頼らない、本質的で説得力のある戦略思考のフレームワークを提示している。\n・ビジネスの本質を見抜くための鋭い視点と、論理的な思考プロセスが学べる一冊。"
-  },
-  {
-    "title": "「AIは『知の起重機』、伴走者として使いこなせ」　坂村健・東京大学名誉教授 (有訓無訓)",
-    "link": "https://business.nikkei.com/atcl/NBD/19/00113/00372/",
-    "source": "日経ビジネス 最新",
-    "published": "",
-    "summary": "生成AI（人工知能）の進展は、インターネットの普及、もしくはそれ以上の衝撃だと感じています。「Chat（チャット）GPT」が登場したのは2022年11月。まだ数年ですが進化は異常なほど速い。",
-    "image": "https://business.nikkei.com/atcl/NBD/19/00113/00372/fb.jpg",
-    "fetched_at": "2026-03-20 08:22:44",
-    "ja_summary": "・生成AIの進化はネット普及以上の衝撃であり、驚異的な速さで発展している。\n・AIは人間の能力を拡張する「知の起重機」として捉えるべきである。\n・AIを単なる道具ではなく、自らの仕事の伴走者として活用するスキルが重要だ。"
-  },
-  {
-    "title": "［経営教室 AI活用編］SHIFT、障害者がAI活用　対人スキル向上に役立てる (経営教室)",
-    "link": "https://business.nikkei.com/atcl/gen/19/00607/031100084/",
-    "source": "日経ビジネス 最新",
-    "published": "",
-    "summary": "人的資本経営で知られるSHIFTは、障害者雇用領域で生成AI活用を推進している。年間1800時間の業務工数を削減し、生産性を1.7倍に引き上げた。生成AI活用により障害特性をカバーし、管理職として活躍できる社員も育った。",
-    "image": "https://business.nikkei.com/atcl/gen/19/00607/031100084/fb.jpg",
-    "fetched_at": "2026-03-20 08:22:45",
-    "ja_summary": "・SHIFTが障害者雇用で生成AIを活用し、業務工数削減と生産性1.7倍を実現。\n・AIによる特性の補完で、障害を持つ社員が管理職として活躍する事例が創出された。\n・人的資本経営の一環として、AIが障害者の能力発揮とキャリア拡大を支援している。"
-  },
-  {
-    "title": "「Gmail」の容量不足を解消--古いファイルを残しつつ無料で15GB追加する方法",
-    "link": "https://japan.zdnet.com/article/35245246/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "グーグルのアカウントでは無料で15GBのストレージを利用できるが、それでも容量が足りなくなる場合がある。新しいアカウントにメールを転送し、元のアカウントの空き容量を増やす方法を紹介する。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35245246/\"><img src=\"https://japan.zdnet.com/storage/2026/03/19/1fd91c79eee6da8729cea2d834d95a78/t/184/138/d/i-unsubscribed-from-20-lists-in-seconds-with-gmails-new-tool-heres-how-to-use-it_l.jpg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2026/03/19/1fd91c79eee6da8729cea2d834d95a78/t/184/138/d/i-unsubscribed-from-20-lists-in-seconds-with-gmails-new-tool-heres-how-to-use-it_l.jpg",
-    "fetched_at": "2026-03-20 08:23:10",
-    "ja_summary": "Gmailの容量不足時、古いメールを新アカウントに転送して整理することで、元アカウントの空き容量を無料で確保できる。\n既存データを保持したまま、実質的にストレージを拡張する有効な回避策。"
   }
 ]
