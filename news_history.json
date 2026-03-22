@@ -1,5 +1,45 @@
 [
   {
+    "title": "「2040年に売上40兆円」の勝ち筋は？　経産省が描く「AI・半導体・ロボット」三位一体の産業戦略",
+    "link": "https://www.itmedia.co.jp/business/articles/2603/23/news024.html",
+    "source": "ITmedia ビジネス",
+    "published": "Mon, 23 Mar 2026 07:00:00 +0900",
+    "summary": "特集「AI革命、日本企業の勝ち筋」では、AIインフラを担う国内トップ企業や識者にインタビューし、AI経済圏における日本企業の展望を探っていく。1回目は概論として、生成AIも含めた半導体・デジタル産業戦略の政策立案を担う経済産業省商務情報政策局の担当者に、戦略の全体像と民間企業に期待される役割について聞いた。",
+    "image": "https://image.itmedia.co.jp/business/articles/2603/23/cover_news024.jpg",
+    "fetched_at": "2026-03-23 07:50:02",
+    "ja_summary": "・経産省が「AI・半導体・ロボット」を融合させ、2040年に40兆円規模の産業創出を目指す戦略を策定。\n・AIインフラの国内整備を加速させ、日本企業がグローバルなAI経済圏で勝つための道筋を示す。\n・官民が連携し、デジタル産業の競争力を強化することで、経済の成長と持続的な発展を図る。"
+  },
+  {
+    "title": "Google AI Studio、Firebase機能統合でWebアプリ開発強化",
+    "link": "https://www.watch.impress.co.jp/docs/news/2095052.html",
+    "source": "Impress Watch",
+    "published": "",
+    "summary": "Googleは19日(米国時間)、開発者ツールの「Google AI Studio」を強化し、バイブコーディング(vibe coding)体験をアップグレードした。コーディングエージェントのための「Antigravity」と「Firebase」のバックエンド環境を統合し、実用的なWebアプリ開発環境に強化する。",
+    "image": "https://www.watch.impress.co.jp/img/ipw/list/2095/052/g01.jpg",
+    "fetched_at": "2026-03-23 07:50:18",
+    "ja_summary": "・Google AI Studioが「Firebase」と統合され、Webアプリ開発環境が強化。\n・「Antigravity」の導入により、コーディングエージェントによる開発がよりスムーズに。\n・AIを用いた試作から実用的なアプリ構築までのプロセスが一段と効率化。"
+  },
+  {
+    "title": "Anthropic invests $100 million into the Claude Partner Network",
+    "link": "https://www.anthropic.com/news/claude-partner-network",
+    "source": "Anthropic (News)",
+    "published": "Thu, 12 Mar 2026 00:00:00 +0000",
+    "summary": "Anthropic invests $100 million into the Claude Partner Network",
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20ShapeBuild&amp;backgroundColor=fig",
+    "fetched_at": "2026-03-23 07:50:33",
+    "ja_summary": "・AnthropicがAIモデル「Claude」のパートナーエコシステム拡大に1億ドルを投資\n・提携企業や開発者への支援を強化し、Claudeを活用したソリューション開発を加速\n・AI市場における競争力を高め、ビジネス利用のさらなる普及を目指す"
+  },
+  {
+    "title": "Introducing The Anthropic Institute",
+    "link": "https://www.anthropic.com/news/the-anthropic-institute",
+    "source": "Anthropic (News)",
+    "published": "Wed, 11 Mar 2026 00:00:00 +0000",
+    "summary": "Introducing The Anthropic Institute",
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20Book&amp;backgroundColor=oat",
+    "fetched_at": "2026-03-23 07:50:38",
+    "ja_summary": "AnthropicがAIの安全性と社会への影響を研究する「Anthropic Institute」を設立。\nAI開発における倫理的課題の解決と、技術の責任ある普及を推進。\n学術界や政策立案者と連携し、AIが社会にもたらすリスクと利益の分析を行う。"
+  },
+  {
     "title": "「トップガン」俳優の故ヴァル・キルマーさん、AIで新作映画に登場へ",
     "link": "https://japan.cnet.com/article/35245250/",
     "source": "CNET Japan",
@@ -958,45 +998,5 @@
     "image": "https://files.speakerdeck.com/presentations/66d5f533ea294d9484fd3023e93e9bde/preview_slide_0.jpg?38800914",
     "fetched_at": "2026-03-21 12:34:39",
     "ja_summary": "PHPerKaigi 2026にて、野﨑まど著のSF小説『タイタン』を紹介した登壇資料。\n同イベントの「PHPer Book Revue」枠で発表された技術者向けの内容。\n詳細は公開された登壇資料のURLから確認可能。"
-  },
-  {
-    "title": "20年以上続く PHP 大規模プロダクトを Kubernetes へ ── クラウド基盤刷新プロジェクトの4年間",
-    "link": "https://speakerdeck.com/oogfranz/garoon-neco-migration",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-03-20T09:49:31-04:00",
-    "summary": "PHPerKaigi 2026の発表資料です\nhttps://fortee.jp/phperkaigi-2026/proposal/9dec43e0-0dd2-49cc-90b9-113d7749e153\n\n\n- MASH弦楽団\nhttps://mashdjango.com/\n\n- 基盤側のNecoプロジェクト概要\nhttps://blog.cybozu.io/entry/ever-lasting-neco\n\n- 2022年にPHP Conferenceでの発表資料\nhttps://speakerdeck.com/oogfranz/garoon-on-kubernetes\n\n- 山本の公理\nhttps://www.slideshare.net/slideshow/cybozucom-14446847/14446847\n\n- Garoonにおけるジョブキュー切り替えの挑戦\nhttps://blog.cybozu.io/entry/2024/08/19/155441\n\n- DIコンテナの導入について\nhttps://speakerdeck.com/ynkt/sok-gai-shan-shi-bai-karaxue-bu-regasipurodakutonili-tixiang-kautimuzuo-ri?slide=23\n\n- PHP-FPMからOpenMetrics形式でメトリクス取得するときに遭遇した落とし穴と外部ツールを使った場合との比較\nhttps://blog.cybozu.io/entry/2025/09/29/170000\n\n- 開発者が運用を理解するための第一歩 -PHPのスローログを観測可能にしてみた-\nhttps://blog.cybozu.io/entry/2025/10/20/170000\n\n- 倍速会議\nhttps://baisoku-kaigi.plural-reality.com/",
-    "image": "https://files.speakerdeck.com/presentations/f25fff9013034ebbad5fd4df541e75c6/preview_slide_0.jpg?38796790",
-    "fetched_at": "2026-03-21 12:34:39",
-    "ja_summary": "・20年以上続くPHPの大規模プロダクト「Garoon」を、4年かけてKubernetesへ移行した基盤刷新の全記録。\n・レガシーシステムの現代化に伴う技術的課題の克服や、開発と運用の効率化に向けた工夫を詳説。\n・PHPのスローログ観測やメトリクス取得など、実践的なノウハウが詰まった技術知見の共有。"
-  },
-  {
-    "title": "SBG 米国に巨大AI拠点を建設へ",
-    "link": "https://news.yahoo.co.jp/pickup/6573762?source=rss",
-    "source": "Yahoo!ニュース IT・科学",
-    "published": "Sat, 21 Mar 2026 00:18:58 GMT",
-    "summary": "",
-    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/21/4a5cd46e1f51e38f7aa32193eda97d53054b043f9c3f62763fe578bd5739071d.jpg",
-    "fetched_at": "2026-03-21 10:15:47",
-    "ja_summary": "・ソフトバンクグループが米国に巨大AI拠点を建設する計画を表明。\n・AI分野での競争力強化に向け、インフラや技術開発を加速させる狙い。\n・世界最大級のAIエコシステム構築を目指し、大規模投資を行う見通し。"
-  },
-  {
-    "title": "さあ、AIに歌ってもらいましょう。「Intelがハイパースレッディングやめるってよ」「AMDはもうSMTをやめるなんていわないよ絶対」（西川善司）",
-    "link": "https://www.techno-edge.net/article/2026/03/21/4946.html",
-    "source": "TechnoEdge",
-    "published": "Sat, 21 Mar 2026 09:49:14 +0900",
-    "summary": "今から2年前。2024年に、2つのCPUメーカーは、その基本動作アーキテクチャの方針をがらりと変えてきました。",
-    "image": "https://www.techno-edge.net/imgs/rss/30530.jpg",
-    "fetched_at": "2026-03-21 10:15:51",
-    "ja_summary": "・CPU大手IntelとAMDが、長年採用してきた並列処理技術（ハイパースレッディング/SMT）の方針を転換。\n・2024年を境に、両社のCPUアーキテクチャの設計思想が大きく分かれることとなった。\n・CPUの性能向上や効率化を巡る両社の戦略的転換が、PC業界に大きな影響を与えている。"
-  },
-  {
-    "title": "普段の会話でAIエージェントを自分好みに育成できる「OpenClaw-RL」、イラスト1枚からLive2Dに使える分割素材を自動生成する「See-through」など生成AI技術5つを解説（生成AIウィークリー）",
-    "link": "https://www.techno-edge.net/article/2026/03/21/4945.html",
-    "source": "TechnoEdge",
-    "published": "Sat, 21 Mar 2026 09:39:35 +0900",
-    "summary": "この1週間の気になる生成AI技術・研究をいくつかピックアップして解説する今回の「生成AIウィークリー」（第136回）は、AIらが複雑な作業を全自動処理してくれる商用利用も可能なオープンソースAIエージェント「DeerFlow 2.0」や、普段の対話でAIエージェントを自分好みに育成できる「OpenClaw-RL」を取り上げます。",
-    "image": "https://www.techno-edge.net/imgs/rss/30520.jpg",
-    "fetched_at": "2026-03-21 10:15:51",
-    "ja_summary": "・日常会話からAIを自分好みに育成する「OpenClaw-RL」や、複雑な作業を自動化する「DeerFlow 2.0」が登場。\n・イラスト1枚からLive2D用素材を生成する「See-through」など、実用的な生成AI技術5選を紹介。\n・最新のオープンソースAIや業務効率化に役立つ注目の生成AIトレンドを解説。"
   }
 ]
