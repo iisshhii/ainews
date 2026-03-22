@@ -1,5 +1,25 @@
 [
   {
+    "title": "AI駆動開発ツール「IBM Bob」を提供　COBOLをモダン言語と同列サポート",
+    "link": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020800017/031001403/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "日本IBMは、AI（人工知能）駆動でシステム開発を支援するツール「IBM Bob」のSaaS版を2026年3月から、オンプレミス版を同年9月までに提供を開始する。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020800017/031001403/topm.jpg?20220512",
+    "fetched_at": "2026-03-23 00:00:59",
+    "ja_summary": "・日本IBMがAI駆動の次世代開発ツール「IBM Bob」を発表。\n・COBOLをJavaなどのモダン言語と同列に扱い、レガシーシステムの開発を効率化。\n・SaaS版を2026年3月、オンプレミス版を同年9月までに提供開始。"
+  },
+  {
+    "title": "米国AIデータセンターに5兆円投資　ソフトバンクGら「ポーツマスコンソーシアム」",
+    "link": "https://www.watch.impress.co.jp/docs/news/2095163.html",
+    "source": "Impress Watch",
+    "published": "",
+    "summary": "3月20日(米国時間)、ソフトバンクグループなど、日米のサプライヤーや金融機関などを中心とした21社が、日米政府の戦略的投資イニシアティブ対象となる米国エネルギー省のポーツマスサイトの大規模発電所やAIインフラ建設を目的とした「ポーツマスコンソーシアム」を発足した。",
+    "image": "https://www.watch.impress.co.jp/img/ipw/list/2095/163/sbg2.jpg",
+    "fetched_at": "2026-03-23 00:01:01",
+    "ja_summary": "・ソフトバンクGなど21社が「ポーツマスコンソーシアム」を発足。\n・米国ポーツマスにて、AIインフラおよび大規模発電所の建設を推進。\n・日米政府の戦略的投資対象として、5兆円規模のプロジェクトを展開。"
+  },
+  {
     "title": "ビリオネアの投資家は、金・銀・日本円・エネルギーセクターを強く推す。「アメリカ市場は完全に避けるべきだ」",
     "link": "https://www.businessinsider.jp/article/2604-billionaire-jim-mellon-stocks-gold-energy-ai-tech-food-jobs/",
     "source": "Business Insider Japan",
@@ -978,25 +998,5 @@
     "image": "https://files.speakerdeck.com/presentations/2c26ed75f56346cc98dd6a2c29562c2c/preview_slide_0.jpg?38796032",
     "fetched_at": "2026-03-20 21:40:25",
     "ja_summary": "・AWSの「GenU Agent Builder」を活用したAIエージェントの作成・利用方法を紹介。\n・エンジニア向けの勉強会「雲勉LT会」で発表された、Agentic AIの導入に役立つ登壇資料。\n・生成AIエージェント構築の概要を短時間でキャッチアップしたい人向けの内容。"
-  },
-  {
-    "title": "React Native開発が変わる。RozeniteでCoding Agentに「目と手」を与えた話",
-    "link": "https://zenn.dev/tellernovel_inc/articles/bb27cd0f28f8cb",
-    "source": "Zenn Trends",
-    "published": "Thu, 19 Mar 2026 11:20:43 GMT",
-    "summary": "こんにちは！テラーノベルでiOS/Android/Webとフロントエンド周りを担当している @kazutoyoです！\n以前、React Native開発でCoding Agentを活用するためのSkillsを紹介しました。\nhttps://zenn.dev/tellernovel_inc/articles/7bb1facb9cfb4d\n今回は、Coding Agent自身がモバイルアプリを操作・検証できるようになるツールを2つ紹介します。\n\n Coding Agentに「自分の作業を検証する方法」を与えることの重要性\nClaude Codeのベストプラクティスにも、「Claudeに自分の...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--6eqVkYrl--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:React%2520Native%25E9%2596%258B%25E7%2599%25BA%25E3%2581%258C%25E5%25A4%2589%25E3%2582%258F%25E3%2582%258B%25E3%2580%2582Rozenite%25E3%2581%25A7Coding%2520Agent%25E3%2581%25AB%25E3%2580%258C%25E7%259B%25AE%25E3%2581%25A8%25E6%2589%258B%25E3%2580%258D%25E3%2582%2592%25E4%25B8%258E%25E3%2581%2588%25E3%2581%259F%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:kazutoyo%2540TellerNovel%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2Y2ZDBjOWE0YTEuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2583%2586%25E3%2583%25A9%25E3%2583%25BC%25E3%2583%258E%25E3%2583%2599%25E3%2583%25AB%2520%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzQ0OTFkZTE3MjUuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-    "fetched_at": "2026-03-20 20:54:01",
-    "ja_summary": "React Native開発において、AI（Coding Agent）が自らアプリを操作・検証できる環境を構築する手法を解説。\nAIに「目と手」となるツールを与えることで、実装からテストまでの自律的なサイクルが可能になる。\n開発効率の向上を目指すエンジニアに向け、実用的なツールと活用のアプローチを紹介する内容。"
-  },
-  {
-    "title": "「AI音痴な上司」がチームを壊す？　7割が実感する生成AI活用の「組織的限界」",
-    "link": "https://www.itmedia.co.jp/business/articles/2603/19/news028.html",
-    "source": "ITmedia ビジネス",
-    "published": "Thu, 19 Mar 2026 08:00:00 +0900",
-    "summary": "生成AIの業務活用が広がる一方で、使いこなせる人とそうでない人の差が組織の生産性に影響を及ぼし始めている。コーレの調査では、7割超が「使えない人」による業務支障を実感していた。企業の生成AI活用の実態に迫る。",
-    "image": "https://image.itmedia.co.jp/business/articles/2603/19/cover_news028.jpg",
-    "fetched_at": "2026-03-20 19:02:31",
-    "ja_summary": "・生成AI活用で社員間のスキル格差が広がり、7割が「使えない上司・同僚」による業務支障を実感。\n・AIリテラシーの低い層がボトルネックとなり、組織全体の生産性向上を阻害している。\n・企業には、ツールの導入だけでなく、組織的な教育と活用スキルの底上げが急務となっている。"
   }
 ]
