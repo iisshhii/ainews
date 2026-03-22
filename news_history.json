@@ -1,5 +1,25 @@
 [
   {
+    "title": "DeNAがPerl6000行をGo言語へ　特性異なるAIエージェント駆使",
+    "link": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020800017/031001406/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "ディー・エヌ・エー（DeNA）は2025年10月末から11月末にかけ、Perl言語で記述されたサーバー資産管理API（アプリケーション・プログラミング・インターフェース）をGo言語に移行した。コードの分量はPerlが約6000行、移行後のGoは約1万行に及ぶ。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020800017/031001406/topm.jpg?20220512",
+    "fetched_at": "2026-03-22 20:57:17",
+    "ja_summary": "・DeNAがサーバー管理APIをPerlからGo言語へ全面刷新\n・AIエージェントを活用し、6000行のコードを約1万行へ移行完了\n・保守性やパフォーマンス向上が狙いとみられる大規模な技術移行を実現"
+  },
+  {
+    "title": "【AWS学習の最適解】AWS全冠がお届けする、無料学習サイト「AWS認定合格ナビゲーター」のご紹介",
+    "link": "https://qiita.com/kenken38/items/1d6e71aed59920c642a4",
+    "source": "Qiita (Popular)",
+    "published": "2026-03-21T21:45:59+09:00",
+    "summary": ":::note info\n実際の学習サイトはこちら\nhttps://kenta-matsuda.github.io/Kenta-Matsuda.github.io-aws-study/\n:::\n![image.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3120542/0fd26a8c-16c1-4651-827",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYzMTIwNTQyJTJGOWVhZjhiZDdjMTFlZTkyNGU4ODRjYzE3NDRhNzcxZmU4MzAzMjY4MiUyRnhfbGFyZ2UucG5nJTNGMTc2NTAyMzAwND9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NTEwZDRlZTA2YWYzMDE1MTJlMTIxMDRjOGIzNzIyODI%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D6c0b4de247a6b7b4ec3215e378e9376d?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJTkwQVdTJUU1JUFEJUE2JUU3JUJGJTkyJUUzJTgxJUFFJUU2JTlDJTgwJUU5JTgxJUE5JUU4JUE3JUEzJUUzJTgwJTkxQVdTJUU1JTg1JUE4JUU1JTg2JUEwJUUzJTgxJThDJUUzJTgxJThBJUU1JUIxJThBJUUzJTgxJTkxJUUzJTgxJTk5JUUzJTgyJThCJUUzJTgwJTgxJUU3JTg0JUExJUU2JTk2JTk5JUU1JUFEJUE2JUU3JUJGJTkyJUUzJTgyJUI1JUUzJTgyJUE0JUUzJTgzJTg4JUUzJTgwJThDQVdTJUU4JUFBJThEJUU1JUFFJTlBJUU1JTkwJTg4JUU2JUEwJUJDJUUzJTgzJThBJUUzJTgzJTkzJUUzJTgyJUIyJUUzJTgzJUJDJUUzJTgyJUJGJUUzJTgzJUJDJUUzJTgwJThEJUUzJTgxJUFFJUUzJTgxJTk0JUU3JUI0JUI5JUU0JUJCJThCJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9MjA5MDhkMjZhNzUwOGQ5N2ZmYzkyMGU3OTQ5MDY2OGM&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBrZW5rZW4zOCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTEwZTUzZjU3OGE4NGYyMjdjNjA5MzNhNTg0MmIxNzVj&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=3bc95f72737b61941a289407ca68324c",
+    "fetched_at": "2026-03-22 20:57:52",
+    "ja_summary": "AWS全冠取得者が制作した、完全無料のAWS資格学習サイト「AWS認定合格ナビゲーター」が公開されました。\n効率的な学習ロードマップや試験対策情報を網羅しており、AWS資格取得を目指す方に最適です。\n以下のリンクからすぐに学習を開始できます。\nhttps://kenta-matsuda.github.io/Kenta-Matsuda.github.io-aws-study/"
+  },
+  {
     "title": "次世代SNSが挑む 感情理解するAI",
     "link": "https://news.yahoo.co.jp/pickup/6573705?source=rss",
     "source": "Yahoo!ニュース IT・科学",
@@ -978,25 +998,5 @@
     "image": "https://media.loom-app.com/loom/2026/03/13/54733c15-c315-4588-bf9e-0303ed673d18/original.jpg?w=1200&amp;h=630",
     "fetched_at": "2026-03-20 18:23:56",
     "ja_summary": "・投資家ジム・メロン氏は米国株を回避し、金・銀・日本円・エネルギーへの投資を推奨。\n・現在の食料システムに懸念を示す一方、AI以外の分野には強気な姿勢。\n・米国市場への警戒を強め、資産を代替資産や実物資産へシフトする戦略を提示。"
-  },
-  {
-    "title": "ラバブル幹部、「最大の脅威はOpenAIやアンソロピックのような業界のビッグプレイヤー」",
-    "link": "https://www.businessinsider.jp/article/2603lovable-growth-exec-openai-anthropic-competition-cursor-replit-vibe-coding/",
-    "source": "Business Insider Japan",
-    "published": "Wed, 18 Mar 2026 22:30:00 GMT",
-    "summary": "ラバブルのヴェーナ氏は、主な競合はコーディング系スタートアップではなく大手テック企業だと述べています。研究機関の強いディストリビューション能力が理由で、ARRは1カ月で30％増加しました。",
-    "image": "https://media.loom-app.com/loom/2026/03/17/d90e3291-d45e-4ac5-8631-764e09a90b83/original.jpg?w=1200&amp;h=630",
-    "fetched_at": "2026-03-20 18:23:59",
-    "ja_summary": "・ラバブルの主要な脅威は競合スタートアップではなく、OpenAI等の巨大テック企業である。\n・背景には、研究機関が持つ強力な販路（ディストリビューション能力）の存在がある。\n・同社は高い市場優位性を維持し、ARR（年間経常収益）は直近1カ月で30％増加した。"
-  },
-  {
-    "title": "Copilot 宇宙へ　〜生成AIで「専門データの壁」を壊す方法〜",
-    "link": "https://speakerdeck.com/nakasho/copilot-yu-zhou-he-sheng-cheng-aide-zhuan-men-detanobi-wohuai-sufang-fa",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-03-20T05:20:35-04:00",
-    "summary": "2026/3/20(金)に開催された .NETラボ 勉強会 2026年3月( https://dotnetlab.connpass.com/event/378930/ ) に参加した時に当日受付LTで発表した資料です。 #dotnetlab",
-    "image": "https://files.speakerdeck.com/presentations/12facb972f8f441aba35b9e8bc65b598/preview_slide_0.jpg?38794684",
-    "fetched_at": "2026-03-20 18:24:32",
-    "ja_summary": "・2026年3月の.NETラボ勉強会にて、生成AI（Copilot）活用に関するLT資料を発表。\n・専門データの壁を壊し、AIを業務へ効果的に取り入れる手法について解説。\n・生成AIの専門領域への応用と実用的な活用術を提示。"
   }
 ]
