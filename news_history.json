@@ -1,5 +1,25 @@
 [
   {
+    "title": "普段コード書かない奴が落合陽一に触発されてCLIツールを作った話",
+    "link": "https://zenn.dev/sonicmoov/articles/b2ec3f6a8ade39",
+    "source": "Zenn Trends",
+    "published": "Sat, 21 Mar 2026 15:44:30 GMT",
+    "summary": "きっかけ\n前提として、自分は普段あまりコードを書かない人間だ。\n肩書きとしてはエンジニアだが、最近は口を出すことのほうが多くて、自分の手でガリガリ実装する機会はめっきり減った。最新のフロントエンド技術やクラウドの進化にもついていけていない。React の最新機能も追えてないし、インフラも昔の知識で止まっている。エンジニアとしての賞味期限を感じ始めていた...というのが前提にある。\nそんな中で目に入ったのが、落合陽一氏が vibe-local というコーディングエージェントをバイブコーディングで作ったというニュースだ。ローカル LLM だけで動く完全オフラインのコーディングツールを、あ...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--yDzoftNK--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E6%2599%25AE%25E6%25AE%25B5%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2589%25E6%259B%25B8%25E3%2581%258B%25E3%2581%25AA%25E3%2581%2584%25E5%25A5%25B4%25E3%2581%258C%25E8%2590%25BD%25E5%2590%2588%25E9%2599%25BD%25E4%25B8%2580%25E3%2581%25AB%25E8%25A7%25A6%25E7%2599%25BA%25E3%2581%2595%25E3%2582%258C%25E3%2581%25A6CLI%25E3%2583%2584%25E3%2583%25BC%25E3%2583%25AB%25E3%2582%2592%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%259F%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:takemo101%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzY0YjYwNGE3MzguanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E6%25A0%25AA%25E5%25BC%258F%25E4%25BC%259A%25E7%25A4%25BE%25E3%2582%25BD%25E3%2583%258B%25E3%2583%2583%25E3%2582%25AF%25E3%2583%25A0%25E3%2583%25BC%25E3%2583%2596%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2Q3NDBmZGFmNmIuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-03-22 20:18:10",
+    "ja_summary": "・エンジニアとして技術の衰えを感じていた筆者が、落合陽一氏の「vibe-local」に触発されCLIツール開発に挑戦。\n・普段コードを書かない立場から、最新のAI技術を活用することで実装のハードルを下げて開発を遂行。\n・技術的停滞を感じるエンジニアにとって、AIを活用した開発スタイルが再起のきっかけになり得ることを実証した。"
+  },
+  {
+    "title": "コードレビューとは何か",
+    "link": "https://zenn.dev/takekazuomi/articles/what-is-a-code-review",
+    "source": "Zenn Trends",
+    "published": "Sat, 21 Mar 2026 13:37:24 GMT",
+    "summary": "前の記事[1]では、AIコーディングの原則を整理した。責任は人間が取る、そのためにドキュメントが重要であり、それは人間とAIの両方の架け橋であると書いた。一方で、AIコーディングではコードレビューは不要、あるいは不可能だという声がある[2]。「人間が書いたコードは2025年に死んだ。コードレビューは2026年に死ぬ」と。\n「責任は人間が取る」と「コードレビューは不要」は両立するのか。そもそもコードレビューとは何か、何であると思われているのか。この問いを起点に、コードレビューの意味を考えなおし再度位置づけを確認する。\n\n コードレビューはバグ探しではない\n多くの開発者がコードレビューの第一...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--6QufamQv--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2589%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25E3%2581%25A8%25E3%2581%25AF%25E4%25BD%2595%25E3%2581%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Takekazu%2520Omi%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzlkYTNiNjAzMzUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-03-22 20:18:10",
+    "ja_summary": "・AI時代における「コードレビュー不要論」に対し、その役割と本質を再定義する。\n・コードレビューは単なるバグ探しではなく、人間が責任を持つための重要なプロセスである。\n・AIとの共存を見据え、コードレビューの新たな位置付けと価値を改めて考察する。"
+  },
+  {
     "title": "UI UX Pro Max：AIコーディングアシスタントにデザインセンスを与えるSkill",
     "link": "https://qiita.com/nogataka/items/1e35dd4f573547626aff",
     "source": "Qiita (Popular)",
@@ -978,25 +998,5 @@
     "image": "https://media.loom-app.com/loom/2026/03/17/f8627650-50a6-4153-a9cf-356d642598a6/original.jpg?w=1200&amp;h=630",
     "fetched_at": "2026-03-20 17:32:32",
     "ja_summary": "・中国でAIツール「OpenClaw」が、株取引やデート支援など多目的に使われ急普及。\n・セキュリティリスクが指摘されているものの、その利便性と物珍しさから人気が継続。\n・AIの独創的な活用が広がる一方、安全性への懸念が課題となっている。"
-  },
-  {
-    "title": "ChatGPTの「日本向け未成年AI安全指針」が公表。「2段構え」で子どもを守るOpenAIの狙い",
-    "link": "https://www.businessinsider.jp/article/2603-openai-teen-ai-safety-blueprint-japan/",
-    "source": "Business Insider Japan",
-    "published": "Wed, 18 Mar 2026 22:00:00 GMT",
-    "summary": "OpenAIが日本向け「未成年の安全性に関するブループリント」を発表。AIがプロンプトから年齢を自動推定し、18歳未満に安全対策を適用。ペアレンタルコントロールとの「2段構え」で子どもを守る仕組みを解説します。",
-    "image": "https://media.loom-app.com/loom/2026/03/18/a918bd04-2cb6-4c13-a527-c04e5b5c7b8a/original.jpg?w=1200&amp;h=630",
-    "fetched_at": "2026-03-20 17:32:33",
-    "ja_summary": "・OpenAIが日本向け「未成年の安全性に関する指針」を公表\n・AIがプロンプトから年齢を自動推定し、未成年向けの制限を適用\n・AI側の自動制御とペアレンタルコントロールによる「2段構え」で保護を強化"
-  },
-  {
-    "title": "次世代SNSが挑む 感情理解するAI",
-    "link": "https://news.yahoo.co.jp/pickup/6573705?source=rss",
-    "source": "Yahoo!ニュース IT・科学",
-    "published": "Fri, 20 Mar 2026 07:44:48 GMT",
-    "summary": "",
-    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/20/b15766c0c410991f7d17f0117fcebcbe2048e4c5bf5f4249988563972bc82155.jpg",
-    "fetched_at": "2026-03-20 16:54:57",
-    "ja_summary": "・人間の感情を高度に理解するAIを搭載した次世代SNSが開発されている。\n・文脈や感情に基づいた対話・反応により、従来のSNSとは異なる深い繋がりを促進。\n・感情認識技術が新たなコミュニティ形成やエンゲージメントの鍵となる。"
   }
 ]
