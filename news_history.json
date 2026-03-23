@@ -1,5 +1,85 @@
 [
   {
+    "title": "「鳥貴族」のノウハウ、大倉社長のAIアバターが伝授　DXで個別におすすめメニュー提案",
+    "link": "https://www.itmedia.co.jp/business/articles/2603/20/news025.html",
+    "source": "ITmedia ビジネス",
+    "published": "Fri, 20 Mar 2026 10:30:00 +0900",
+    "summary": "居酒屋チェーン「鳥貴族」を展開するエターナルホスピタリティグループは19日、AIや顧客データを活用して事業変革を図るDX戦略を発表した。",
+    "image": "https://image.itmedia.co.jp/business/articles/2603/20/cover_news025.jpg",
+    "fetched_at": "2026-03-24 06:54:17",
+    "ja_summary": "・鳥貴族がAI・データを活用したDX戦略を発表。\n・大倉社長のAIアバターが経営ノウハウを伝授する。\n・顧客データに基づき、一人ひとりに最適なメニューを提案する。"
+  },
+  {
+    "title": "文書の内容を学習なしでLLMに反映、Sakana AIの新技術　RAG代替は可能か",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11603/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "Sakana AIは2026年2月末、LLM（大規模言語モデル）に独自情報を反映させるための新たな手法「Doc-to-LoRA」を発表した。情報を即座にモデルに反映させられるのが特徴だ。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11603/topm.jpg?20220512",
+    "fetched_at": "2026-03-24 06:54:27",
+    "ja_summary": "・Sakana AIがLLMに独自情報を即座に反映させる新技術「Doc-to-LoRA」を発表。\n・追加学習なしで特定の文書情報をモデルに組み込むことが可能。\n・既存のRAG（外部知識検索）に代わる、高速かつ柔軟な情報活用手法として注目される。"
+  },
+  {
+    "title": "元Teslaの社長が語る、AIがテクノロジー職の成長を加速させる理由",
+    "link": "https://japan.zdnet.com/article/35245294/",
+    "source": "ZDNET Japan",
+    "published": "",
+    "summary": "ベンチャーキャピタリストのジョン・マクニール氏は、複雑なAIインフラやアーキテクチャーを維持するために、人間への需要が高まると予測している。\n<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35245294/\"><img src=\"https://japan.zdnet.com/storage/2026/03/20/6b3ee238c4ac9c60cc8b8ab0c00ac7e2/t/184/138/d/111vortexgettyimages-1421674018_l.jpg\" /></a>",
+    "image": "https://japan.zdnet.com/storage/2026/03/20/6b3ee238c4ac9c60cc8b8ab0c00ac7e2/t/184/138/d/111vortexgettyimages-1421674018_l.jpg",
+    "fetched_at": "2026-03-24 06:54:46",
+    "ja_summary": "・AIの普及はテクノロジー職を奪うのではなく、むしろ成長を加速させる。\n・複雑化するAIインフラやアーキテクチャの維持・運用において、人間の役割は重要性を増す。\n・AI時代においても、専門スキルを持つ人材への需要は今後さらに高まっていく。"
+  },
+  {
+    "title": "米トランプ政権が再び州のAI関連法案を標的に--AIをめぐる規制と安全性の行方",
+    "link": "https://japan.zdnet.com/article/35245303/",
+    "source": "ZDNET Japan",
+    "published": "",
+    "summary": "米国のホワイトハウスが発表した新たなAIに関する政策指針は、州レベルのAI関連法案を先取りするよう求めている。AIの安全性は現状と行方を探る。\n<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35245303/\"><img src=\"https://japan.zdnet.com/storage/2026/03/21/afbdb727c738861842280fcb894d8594/t/184/138/d/cloudywhitehousegettyimages-2195702653_l.jpg\" /></a>",
+    "image": "https://japan.zdnet.com/storage/2026/03/21/afbdb727c738861842280fcb894d8594/t/184/138/d/cloudywhitehousegettyimages-2195702653_l.jpg",
+    "fetched_at": "2026-03-24 06:54:46",
+    "ja_summary": "・米ホワイトハウスが、州独自のAI規制を上回る統一的な政策指針を策定する方針を示した。\n・各州でバラバラに進むAI関連法案を牽制し、国の主導で安全性と開発の両立を目指す。\n・AI規制の主導権を巡る連邦政府と州政府の対立が、今後の市場動向に大きな影響を与える見通し。"
+  },
+  {
+    "title": "Equipping workers with insights about compensation",
+    "link": "https://openai.com/index/equipping-workers-with-insights-about-compensation",
+    "source": "OpenAI",
+    "published": "Tue, 17 Mar 2026 00:00:00 GMT",
+    "summary": "New research shows Americans send nearly 3 million daily messages to ChatGPT asking about compensation and earnings, helping close the wage information gap.",
+    "image": "https://openai.com/favicon.ico",
+    "fetched_at": "2026-03-24 06:54:49",
+    "ja_summary": "・米国で毎日約300万人がChatGPTに報酬や賃金について質問している。\n・AIの活用により、労働者と企業間の賃金情報の格差が縮小している。\n・AIが給与の相場を知るための重要なツールとして定着しつつある。"
+  },
+  {
+    "title": "Why Codex Security Doesn’t Include a SAST Report",
+    "link": "https://openai.com/index/why-codex-security-doesnt-include-sast",
+    "source": "OpenAI",
+    "published": "Mon, 16 Mar 2026 00:00:00 GMT",
+    "summary": "A deep dive into why Codex Security doesn’t rely on traditional SAST, instead using AI-driven constraint reasoning and validation to find real vulnerabilities with fewer false positives.",
+    "image": "https://openai.com/favicon.ico",
+    "fetched_at": "2026-03-24 06:54:49",
+    "ja_summary": "・Codex Securityは従来のSAST（静的解析）を採用せず、AIによる制約推論と検証を活用。\n・誤検知（フォールスポジティブ）を大幅に抑制し、実在する脆弱性を的確に抽出する。\n・AI技術により、精度の高い効率的なセキュリティ診断を実現。"
+  },
+  {
+    "title": "Anthropic acquires Vercept to advance Claude's computer use capabilities",
+    "link": "https://www.anthropic.com/news/acquires-vercept",
+    "source": "Anthropic (News)",
+    "published": "Wed, 25 Feb 2026 00:00:00 +0000",
+    "summary": "Anthropic acquires Vercept to advance Claude's computer use capabilities",
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Node%20Cursor&amp;backgroundColor=coral",
+    "fetched_at": "2026-03-24 06:54:51",
+    "ja_summary": "・AI開発のAnthropic社が、操作自動化技術を持つVercept社を買収。\n・対話AI「Claude」のPC操作能力（Computer Use）を強化する狙い。\n・AIによる業務自動化の精度向上と実用化を加速させる。"
+  },
+  {
+    "title": "UI UX Pro Max：AIコーディングアシスタントにデザインセンスを与えるSkill",
+    "link": "https://qiita.com/nogataka/items/1e35dd4f573547626aff",
+    "source": "Qiita (Popular)",
+    "published": "2026-03-20T18:13:00+09:00",
+    "summary": "\n## はじめに\n\nClaude CodeやCursorなどのAIコーディングアシスタントに「ランディングページを作って」と頼むと、機能的には動くものの、デザイン面では物足りない結果になることがあります。配色がちぐはぐだったり、フォントの組み合わせが微妙だったり、業界に合わないスタイルが選ばれたりします。\n\n[UI UX Pro Max](https://github.com/nextlevelb",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYxNjEyOTglMkZjMWUzZmZkNmVhZGExOTY5ZmYzYzQ0YjE0ZmRlMDgxYmNkZTZmNTAwJTJGeF9sYXJnZS5wbmclM0YxNTg0ODQ1NTg0P2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz00ZGRjZmU5NTFjNTMyMzU3NjcyOGUzOTkyOTNmOGRlNQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D246367bff431168e6212d2602a3df494?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9VUklMjBVWCUyMFBybyUyME1heCVFRiVCQyU5QUFJJUUzJTgyJUIzJUUzJTgzJUJDJUUzJTgzJTg3JUUzJTgyJUEzJUUzJTgzJUIzJUUzJTgyJUIwJUUzJTgyJUEyJUUzJTgyJUI3JUUzJTgyJUI5JUUzJTgyJUJGJUUzJTgzJUIzJUUzJTgzJTg4JUUzJTgxJUFCJUUzJTgzJTg3JUUzJTgyJUI2JUUzJTgyJUE0JUUzJTgzJUIzJUUzJTgyJUJCJUUzJTgzJUIzJUUzJTgyJUI5JUUzJTgyJTkyJUU0JUI4JThFJUUzJTgxJTg4JUUzJTgyJThCU2tpbGwmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz0yMzgxNTIzOGJlODgyNzA4YjZhNjQwODkzMjA3MmY2NQ&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBub2dhdGFrYSZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWE5ODA4YTE0Zjg4Y2I0ZjQ5OWU2ZDA3NGYyY2E2YTNh&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=8b3da7dc57bbf8c48a072c6adf91828b",
+    "fetched_at": "2026-03-24 06:54:56",
+    "ja_summary": "AIコーディングアシスタントの出力するデザインの質を高めるためのツール「UI UX Pro Max」が登場。\n機能重視のAI生成物に、適切な配色やフォントなどプロ水準のUI/UXデザインを付加できる。\nデザインの洗練度を向上させ、より実用的で魅力的なランディングページ等の作成を支援する。"
+  },
+  {
     "title": "みらい安野党首｢ラピダスには期待しているが…｣ | ダイジェスト版 | 東洋経済オンライン",
     "link": "https://toyokeizai.net/articles/-/938944?utm_source=rss&utm_medium=http&utm_campaign=link_back",
     "source": "東洋経済オンライン",
@@ -918,85 +998,5 @@
     "image": "https://www.watch.impress.co.jp/img/ipw/list/2095/163/sbg2.jpg",
     "fetched_at": "2026-03-23 00:01:01",
     "ja_summary": "・ソフトバンクGなど21社が「ポーツマスコンソーシアム」を発足。\n・米国ポーツマスにて、AIインフラおよび大規模発電所の建設を推進。\n・日米政府の戦略的投資対象として、5兆円規模のプロジェクトを展開。"
-  },
-  {
-    "title": "ビリオネアの投資家は、金・銀・日本円・エネルギーセクターを強く推す。「アメリカ市場は完全に避けるべきだ」",
-    "link": "https://www.businessinsider.jp/article/2604-billionaire-jim-mellon-stocks-gold-energy-ai-tech-food-jobs/",
-    "source": "Business Insider Japan",
-    "published": "Fri, 20 Mar 2026 08:30:00 GMT",
-    "summary": "ビリオネアの投資家ジム・メロン氏はアメリカ株に警戒感を示し、現在の食料システムに嫌気がさしていると語る一方、AI以外のスキルに強気な姿勢を示しています。そんな彼が強く推す投資先は、金、銀、日本円、エネルギーセクターだそうです。",
-    "image": "https://media.loom-app.com/loom/2026/03/13/54733c15-c315-4588-bf9e-0303ed673d18/original.jpg?w=1200&amp;h=630",
-    "fetched_at": "2026-03-22 23:45:32",
-    "ja_summary": "・ジム・メロン氏は米国株に強く警鐘を鳴らし、投資対象から外すよう推奨。\n・AI関連以外を評価しつつ、食料システムの課題を指摘。\n・代替資産として、金・銀・日本円・エネルギーセクターへの投資を推奨。"
-  },
-  {
-    "title": "裁判にAI活用 最高裁で議論本格化",
-    "link": "https://news.yahoo.co.jp/pickup/6573927?source=rss",
-    "source": "Yahoo!ニュース IT・科学",
-    "published": "Sun, 22 Mar 2026 13:50:00 GMT",
-    "summary": "",
-    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/22/a2c0bcb1e5124478d15788e3e2e89dca78a87c3e87724c54702f53e2b6825173.jpg",
-    "fetched_at": "2026-03-22 23:04:08",
-    "ja_summary": "・最高裁が裁判手続きへのAI活用に向けた議論を本格化させる。\n・証拠資料の整理や翻訳など、事務作業の効率化と迅速化を検討。\n・公平性や判断の妥当性を担保しつつ、司法のデジタル化を推進する。"
-  },
-  {
-    "title": "DeNAがPerl6000行をGo言語へ　特性異なるAIエージェント駆使",
-    "link": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020800017/031001406/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "ディー・エヌ・エー（DeNA）は2025年10月末から11月末にかけ、Perl言語で記述されたサーバー資産管理API（アプリケーション・プログラミング・インターフェース）をGo言語に移行した。コードの分量はPerlが約6000行、移行後のGoは約1万行に及ぶ。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020800017/031001406/topm.jpg?20220512",
-    "fetched_at": "2026-03-22 20:57:17",
-    "ja_summary": "・DeNAがサーバー管理APIをPerlからGo言語へ全面刷新\n・AIエージェントを活用し、6000行のコードを約1万行へ移行完了\n・保守性やパフォーマンス向上が狙いとみられる大規模な技術移行を実現"
-  },
-  {
-    "title": "【AWS学習の最適解】AWS全冠がお届けする、無料学習サイト「AWS認定合格ナビゲーター」のご紹介",
-    "link": "https://qiita.com/kenken38/items/1d6e71aed59920c642a4",
-    "source": "Qiita (Popular)",
-    "published": "2026-03-21T21:45:59+09:00",
-    "summary": ":::note info\n実際の学習サイトはこちら\nhttps://kenta-matsuda.github.io/Kenta-Matsuda.github.io-aws-study/\n:::\n![image.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3120542/0fd26a8c-16c1-4651-827",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYzMTIwNTQyJTJGOWVhZjhiZDdjMTFlZTkyNGU4ODRjYzE3NDRhNzcxZmU4MzAzMjY4MiUyRnhfbGFyZ2UucG5nJTNGMTc2NTAyMzAwND9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NTEwZDRlZTA2YWYzMDE1MTJlMTIxMDRjOGIzNzIyODI%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D6c0b4de247a6b7b4ec3215e378e9376d?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJTkwQVdTJUU1JUFEJUE2JUU3JUJGJTkyJUUzJTgxJUFFJUU2JTlDJTgwJUU5JTgxJUE5JUU4JUE3JUEzJUUzJTgwJTkxQVdTJUU1JTg1JUE4JUU1JTg2JUEwJUUzJTgxJThDJUUzJTgxJThBJUU1JUIxJThBJUUzJTgxJTkxJUUzJTgxJTk5JUUzJTgyJThCJUUzJTgwJTgxJUU3JTg0JUExJUU2JTk2JTk5JUU1JUFEJUE2JUU3JUJGJTkyJUUzJTgyJUI1JUUzJTgyJUE0JUUzJTgzJTg4JUUzJTgwJThDQVdTJUU4JUFBJThEJUU1JUFFJTlBJUU1JTkwJTg4JUU2JUEwJUJDJUUzJTgzJThBJUUzJTgzJTkzJUUzJTgyJUIyJUUzJTgzJUJDJUUzJTgyJUJGJUUzJTgzJUJDJUUzJTgwJThEJUUzJTgxJUFFJUUzJTgxJTk0JUU3JUI0JUI5JUU0JUJCJThCJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9MjA5MDhkMjZhNzUwOGQ5N2ZmYzkyMGU3OTQ5MDY2OGM&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBrZW5rZW4zOCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTEwZTUzZjU3OGE4NGYyMjdjNjA5MzNhNTg0MmIxNzVj&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=3bc95f72737b61941a289407ca68324c",
-    "fetched_at": "2026-03-22 20:57:52",
-    "ja_summary": "AWS全冠取得者が制作した、完全無料のAWS資格学習サイト「AWS認定合格ナビゲーター」が公開されました。\n効率的な学習ロードマップや試験対策情報を網羅しており、AWS資格取得を目指す方に最適です。\n以下のリンクからすぐに学習を開始できます。\nhttps://kenta-matsuda.github.io/Kenta-Matsuda.github.io-aws-study/"
-  },
-  {
-    "title": "次世代SNSが挑む 感情理解するAI",
-    "link": "https://news.yahoo.co.jp/pickup/6573705?source=rss",
-    "source": "Yahoo!ニュース IT・科学",
-    "published": "Fri, 20 Mar 2026 07:44:48 GMT",
-    "summary": "",
-    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/20/b15766c0c410991f7d17f0117fcebcbe2048e4c5bf5f4249988563972bc82155.jpg",
-    "fetched_at": "2026-03-22 20:44:46",
-    "ja_summary": "・AIがユーザーの感情を解析し、最適なコミュニケーションを支援する次世代SNSが登場。\n・個人の感情状態に合わせたコンテンツ提案や、対人トラブルの抑制が期待されている。\n・感情理解技術の進化により、従来のSNSとは異なる心地よい対話体験の実現を目指す。"
-  },
-  {
-    "title": "高校の文化祭で簡易POSを作って学んだ、「ITを入れれば効率化する」とは限らないという話",
-    "link": "https://qiita.com/Towa_ONGRKL/items/ee5c69831501251a0ec0",
-    "source": "Qiita (Popular)",
-    "published": "2026-03-21T21:07:09+09:00",
-    "summary": "# はじめに\n\n高校3年生のとき（1年半ほど前）、文化祭のたい焼き屋で使うために、スプレッドシートとApps Scriptで簡易的なPOSのような仕組みを作りました。\n\n今振り返ると、この経験は「技術で現場を良くする面白さ」を知るきっかけであると同時に、**ITを導入すること自体が目的になってはいけない**と痛感した経験でもありました。\n\n今回は、そのとき何を作ったのか、なぜ作ったのか、実際にどう",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmF2YXRhcnMuZ2l0aHVidXNlcmNvbnRlbnQuY29tJTJGdSUyRjE4NTQ2ODUzNCUzRnYlM0Q0P2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz0yNGVjYjQ2OTVjYjUzZjg5ZWYwM2E3YjVkZjNhZjNlZQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D1298ecd7d6cd9b6ed3aa1cbe0c3516b7?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUU5JUFCJTk4JUU2JUEwJUExJUUzJTgxJUFFJUU2JTk2JTg3JUU1JThDJTk2JUU3JUE1JUFEJUUzJTgxJUE3JUU3JUIwJUExJUU2JTk4JTkzUE9TJUUzJTgyJTkyJUU0JUJEJTlDJUUzJTgxJUEzJUUzJTgxJUE2JUU1JUFEJUE2JUUzJTgyJTkzJUUzJTgxJUEwJUUzJTgwJTgxJUUzJTgwJThDSVQlRTMlODIlOTIlRTUlODUlQTUlRTMlODIlOEMlRTMlODIlOEMlRTMlODElQjAlRTUlOEElQjklRTclOEUlODclRTUlOEMlOTYlRTMlODElOTklRTMlODIlOEIlRTMlODAlOEQlRTMlODElQTglRTMlODElQUYlRTklOTklOTAlRTMlODIlODklRTMlODElQUElRTMlODElODQlRTMlODElQTglRTMlODElODQlRTMlODElODYlRTglQTklQjEmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz03Y2FkYTQ3MDRlMjY0OGJlYTMzYjk2NzUxZWRjMTZlMg&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBUb3dhX09OR1JLTCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWMwMDFlM2ZkYmM5ODVlNzY0ZDU0NzgyNDRlY2RhYjJk&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=974cb0290d16f28579abde3ab8e2ea6b",
-    "fetched_at": "2026-03-22 20:45:11",
-    "ja_summary": "・高校の文化祭でたい焼き屋の業務効率化を目指し、スプレッドシートとApps Scriptで簡易POSを自作した。\n・技術導入により現場改善の面白さを学んだ一方、操作や連携の煩雑さから、IT化自体が目的化する弊害を痛感した。\n・「ITを入れれば解決する」のではなく、現場の運用フローに適した技術選定の重要性を説いている。"
-  },
-  {
-    "title": "普段コード書かない奴が落合陽一に触発されてCLIツールを作った話",
-    "link": "https://zenn.dev/sonicmoov/articles/b2ec3f6a8ade39",
-    "source": "Zenn Trends",
-    "published": "Sat, 21 Mar 2026 15:44:30 GMT",
-    "summary": "きっかけ\n前提として、自分は普段あまりコードを書かない人間だ。\n肩書きとしてはエンジニアだが、最近は口を出すことのほうが多くて、自分の手でガリガリ実装する機会はめっきり減った。最新のフロントエンド技術やクラウドの進化にもついていけていない。React の最新機能も追えてないし、インフラも昔の知識で止まっている。エンジニアとしての賞味期限を感じ始めていた...というのが前提にある。\nそんな中で目に入ったのが、落合陽一氏が vibe-local というコーディングエージェントをバイブコーディングで作ったというニュースだ。ローカル LLM だけで動く完全オフラインのコーディングツールを、あ...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--yDzoftNK--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E6%2599%25AE%25E6%25AE%25B5%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2589%25E6%259B%25B8%25E3%2581%258B%25E3%2581%25AA%25E3%2581%2584%25E5%25A5%25B4%25E3%2581%258C%25E8%2590%25BD%25E5%2590%2588%25E9%2599%25BD%25E4%25B8%2580%25E3%2581%25AB%25E8%25A7%25A6%25E7%2599%25BA%25E3%2581%2595%25E3%2582%258C%25E3%2581%25A6CLI%25E3%2583%2584%25E3%2583%25BC%25E3%2583%25AB%25E3%2582%2592%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%259F%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:takemo101%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzY0YjYwNGE3MzguanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E6%25A0%25AA%25E5%25BC%258F%25E4%25BC%259A%25E7%25A4%25BE%25E3%2582%25BD%25E3%2583%258B%25E3%2583%2583%25E3%2582%25AF%25E3%2583%25A0%25E3%2583%25BC%25E3%2583%2596%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2Q3NDBmZGFmNmIuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-    "fetched_at": "2026-03-22 20:18:10",
-    "ja_summary": "・エンジニアとして技術の衰えを感じていた筆者が、落合陽一氏の「vibe-local」に触発されCLIツール開発に挑戦。\n・普段コードを書かない立場から、最新のAI技術を活用することで実装のハードルを下げて開発を遂行。\n・技術的停滞を感じるエンジニアにとって、AIを活用した開発スタイルが再起のきっかけになり得ることを実証した。"
-  },
-  {
-    "title": "コードレビューとは何か",
-    "link": "https://zenn.dev/takekazuomi/articles/what-is-a-code-review",
-    "source": "Zenn Trends",
-    "published": "Sat, 21 Mar 2026 13:37:24 GMT",
-    "summary": "前の記事[1]では、AIコーディングの原則を整理した。責任は人間が取る、そのためにドキュメントが重要であり、それは人間とAIの両方の架け橋であると書いた。一方で、AIコーディングではコードレビューは不要、あるいは不可能だという声がある[2]。「人間が書いたコードは2025年に死んだ。コードレビューは2026年に死ぬ」と。\n「責任は人間が取る」と「コードレビューは不要」は両立するのか。そもそもコードレビューとは何か、何であると思われているのか。この問いを起点に、コードレビューの意味を考えなおし再度位置づけを確認する。\n\n コードレビューはバグ探しではない\n多くの開発者がコードレビューの第一...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--6QufamQv--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2589%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25E3%2581%25A8%25E3%2581%25AF%25E4%25BD%2595%25E3%2581%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Takekazu%2520Omi%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzlkYTNiNjAzMzUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-    "fetched_at": "2026-03-22 20:18:10",
-    "ja_summary": "・AI時代における「コードレビュー不要論」に対し、その役割と本質を再定義する。\n・コードレビューは単なるバグ探しではなく、人間が責任を持つための重要なプロセスである。\n・AIとの共存を見据え、コードレビューの新たな位置付けと価値を改めて考察する。"
   }
 ]
