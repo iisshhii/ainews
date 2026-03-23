@@ -1,5 +1,15 @@
 [
   {
+    "title": "「新人にAI禁止令を出した組織」が、どのくらい開発フローでAIを使っているか",
+    "link": "https://qiita.com/WdknWdkn/items/22e6a3faea1bdcaefef3",
+    "source": "Qiita (Popular)",
+    "published": "2026-03-21T20:00:27+09:00",
+    "summary": "いえらぶＧＲＯＵＰの開発部で執行役員を務めています、和田です。わだけんです。\n\n## この記事を書いた経緯\n\n去年書いた「新人にAI禁止令を出した話と、その結果の答え合わせ」という記事がありがたいことに多くの反響をいただきまして、先日ABEMA Primeでも取り上げていただきました。\n\nhttps://qiita.com/WdknWdkn/items/9b7dea889fec59194df5\n\n",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYyMTUxMjglMkZjZDcxOTM0ZjMxOGIwMGYwZGQ0OTU3YjU4NTBiYzk4MGM5MjEwNGVkJTJGeF9sYXJnZS5wbmclM0YxNjM4NzU1ODYzP2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz04ODRkZWQ1N2U4Y2ExOTUxN2VmZTZmZmNmYWM1MzE3NA%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D5cd77a11418f8b504e00adb584054a60?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJThDJUU2JTk2JUIwJUU0JUJBJUJBJUUzJTgxJUFCQUklRTclQTYlODElRTYlQUQlQTIlRTQlQkIlQTQlRTMlODIlOTIlRTUlODclQkElRTMlODElOTclRTMlODElOUYlRTclQjUlODQlRTclQjklOTQlRTMlODAlOEQlRTMlODElOEMlRTMlODAlODElRTMlODElQTklRTMlODElQUUlRTMlODElOEYlRTMlODIlODklRTMlODElODQlRTklOTYlOEIlRTclOTklQkElRTMlODMlOTUlRTMlODMlQUQlRTMlODMlQkMlRTMlODElQTdBSSVFMyU4MiU5MiVFNCVCRCVCRiVFMyU4MSVBMyVFMyU4MSVBNiVFMyU4MSU4NCVFMyU4MiU4QiVFMyU4MSU4QiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTdhMThhZTYwYmFjZTMyNzczODUxNDdkOTYwMzY1MGQ0&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBXZGtuV2RrbiZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTg4MmRlYTAwN2NjMDczOGE0OTkyYWMxOTM2YTZkMGQ5&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=bb800852cb3378fbf81558535ab70525",
+    "fetched_at": "2026-03-24 02:09:38",
+    "ja_summary": "・新人へのAI禁止令を経て、現在はAIを開発フローに本格導入。\n・AIは「思考を補助するツール」と定義し、生産性向上に活用中。\n・AI依存を防ぎつつ、開発者のスキルアップと効率化を両立させる運用を実践している。"
+  },
+  {
     "title": "大学卒業したばかりの「新社会人」向け、お金の使い方に関する&quot;賢い&quot;アドバイス3選",
     "link": "https://www.businessinsider.jp/article/2603-financial-planners-money-advice-gen-z-college-grads-worried-future/",
     "source": "Business Insider Japan",
@@ -988,15 +998,5 @@
     "image": "https://res.cloudinary.com/zenn/image/upload/s--z7c3_doH--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:DGX%2520Spark%25E3%2581%25A7%25E8%2589%25B2%25E3%2580%2585%25E3%2581%25AA%25E3%2583%25AD%25E3%2583%25BC%25E3%2582%25AB%25E3%2583%25ABLLM%25E3%2582%2592%25E5%258B%2595%25E3%2581%258B%25E3%2581%2597%25E3%2581%259F%25E6%25AF%2594%25E8%25BC%2583%25E7%25B5%2590%25E6%259E%259C%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%258B%25E3%2582%2589%25E3%2581%2582%25E3%2581%2592%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2hDZEtvakJfZXdDTjNCV1Z0WXIteFNIZ0hmRjlXZmt3QzI5c0Y0aXYwPXMyNTAtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
     "fetched_at": "2026-03-22 16:08:18",
     "ja_summary": "・NVIDIA DGX Spark環境で主要なローカルLLM推論エンジン（Ollama/vLLM/SGLang）の比較検証を実施。\n・手軽さ、賢さ、速度、メモリ使用量の4軸で評価し、用途に応じた最適な組み合わせを提示。\n・実機での検証手順を公開し、各エンジンの導入可否や特性を整理した実践的ガイド。"
-  },
-  {
-    "title": "仕様駆動開発スターターキットを公開しました",
-    "link": "https://zenn.dev/sakamotchi8/articles/spec-driven-starter-introduction",
-    "source": "Zenn Trends",
-    "published": "Sat, 21 Mar 2026 04:32:52 GMT",
-    "summary": "はじめに\n以前、Claude Codeスキルで実現する仕様駆動開発という記事で、AIの暴走を防ぎつつ一貫性のある開発を実現する手法を紹介しました。\n今回、この手法を既存プロダクトに導入するためのスターターキットを公開しました。\nhttps://github.com/sakamotchi/spec-driven-starter\n\n 仕様駆動開発の基本思想\nこのスターターキットが前提とする役割分担は以下の通りです。\n\n\n人間の役割: 仕様の決定、レビュー、テストによる品質担保\n\nAIの役割: 仕様に基づくコードの実装、ドキュメントの生成・更新\n\n人間がコードを直接書くのではなく、仕様（ド...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--Oz5HS56B--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E4%25BB%2595%25E6%25A7%2598%25E9%25A7%2586%25E5%258B%2595%25E9%2596%258B%25E7%2599%25BA%25E3%2582%25B9%25E3%2582%25BF%25E3%2583%25BC%25E3%2582%25BF%25E3%2583%25BC%25E3%2582%25AD%25E3%2583%2583%25E3%2583%2588%25E3%2582%2592%25E5%2585%25AC%25E9%2596%258B%25E3%2581%2597%25E3%2581%25BE%25E3%2581%2597%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:sakamotchi8%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzViZmJmYzcyODIuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-    "fetched_at": "2026-03-22 16:08:18",
-    "ja_summary": "AIを活用した「仕様駆動開発」を既存プロダクトへ導入するためのスターターキットを公開。\n人間は仕様決定と品質担保に専念し、AIが実装とドキュメント作成を担う役割分担を実現。\nAIの暴走を防ぎつつ、一貫性のある効率的な開発プロセスを構築するためのツールキット。"
   }
 ]
