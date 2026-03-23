@@ -1,5 +1,35 @@
 [
   {
+    "title": "アドビ、coldrain主催大型音楽フェス「BLARE FEST. 2026」に出展　生成AIで世界に1つだけのロゴ制作[Sponsored]",
+    "link": "https://www.watch.impress.co.jp/docs/topic/special/2087728.html",
+    "source": "Impress Watch",
+    "published": "",
+    "summary": "アドビは、2月7日・8日に開催されたcoldrain主催の音楽フェス「BLARE FEST. 2026」にて協賛ブースを出展。来場者は、Adobe FireflyやAdobe Expressを使った、BLARE FEST.のオリジナルロゴ制作やタイムテーブル制作を体験しました。",
+    "image": "https://www.watch.impress.co.jp/img/ipw/list/2087/728/adobe_01.jpg",
+    "fetched_at": "2026-03-24 08:31:57",
+    "ja_summary": "・アドビがcoldrain主催の音楽フェス「BLARE FEST. 2026」に協賛出展。\n・来場者が生成AI「Adobe Firefly」等を使い、自分だけのロゴやタイムテーブルを制作。\n・最新AIツールを体験できるクリエイティブな場を提供。"
+  },
+  {
+    "title": "Sydney will become Anthropic’s fourth office in Asia-Pacific",
+    "link": "https://www.anthropic.com/news/sydney-fourth-office-asia-pacific",
+    "source": "Anthropic (News)",
+    "published": "Tue, 10 Mar 2026 00:00:00 +0000",
+    "summary": "Sydney will become Anthropic’s fourth office in Asia-Pacific",
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Globe&amp;backgroundColor=sky",
+    "fetched_at": "2026-03-24 08:32:19",
+    "ja_summary": "・AI開発企業Anthropicが、シドニーにアジア太平洋地域で4拠点目となる新オフィスを開設する。\n・同社のグローバル展開を加速させ、同地域でのプレゼンスを強化する狙い。"
+  },
+  {
+    "title": "「OpenAI APIのトークン消費量をざっくり計算して」と頼まれて調べたら絶望した話",
+    "link": "https://qiita.com/GeneLab_999/items/04ff280edc3178b60104",
+    "source": "Qiita (Popular)",
+    "published": "2026-03-19T12:57:17+09:00",
+    "summary": "## この記事の対象読者\n\n- OpenAI APIを使ったアプリケーションを開発している（またはこれからする）人\n- 「日本語だとトークン数どれくらいになるの？」と聞かれて困った経験がある人\n- APIのコスト見積もりを上司やクライアントに提出する必要がある人\n- [LLM](https://qiita.com/GeneLab_999/items/7f1bd2de313bdd7ca423)のトー",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGMzkwODk4MSUyRnByb2ZpbGUtaW1hZ2VzJTJGMTc2OTQ5Njg5Mj9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9N2Y2MjUxYmExY2YwZTBlZmI2NjlkY2I2N2Q4OTU0YzE%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D10d82949e0f175323ec45b5b3ba12f03?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJThDT3BlbkFJJTIwQVBJJUUzJTgxJUFFJUUzJTgzJTg4JUUzJTgzJUJDJUUzJTgyJUFGJUUzJTgzJUIzJUU2JUI2JTg4JUU4JUIyJUJCJUU5JTg3JThGJUUzJTgyJTkyJUUzJTgxJTk2JUUzJTgxJUEzJUUzJTgxJThGJUUzJTgyJThBJUU4JUE4JTg4JUU3JUFFJTk3JUUzJTgxJTk3JUUzJTgxJUE2JUUzJTgwJThEJUUzJTgxJUE4JUU5JUEwJUJDJUUzJTgxJUJFJUUzJTgyJThDJUUzJTgxJUE2JUU4JUFBJUJGJUUzJTgxJUI5JUUzJTgxJTlGJUUzJTgyJTg5JUU3JUI1JUI2JUU2JTlDJTlCJUUzJTgxJTk3JUUzJTgxJTlGJUU4JUE5JUIxJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9ZTU2MTgyYjQ3OTVmMzhjYTRlMDIzZGYyMzNkYjBiMzU&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBHZW5lTGFiXzk5OSZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTU5ZDg2ZjJmZTM5NjRiYzBmM2NhZjNkODI2OGZhYTAy&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=69d1f21bab17dbe0758c122bf26865bd",
+    "fetched_at": "2026-03-24 08:32:27",
+    "ja_summary": "日本語は英語に比べてOpenAI APIのトークン消費量が多く、コスト予測が困難で予算見積もりが非常に難しい。\nトークンの計算には日本語特有の仕組みを理解する必要があり、予測を誤ると予算を大きく超過するリスクがある。\n実装前に精緻なコスト計算を行い、日本語のトークン単価の高さと変動性を考慮した予算設計が必須である。"
+  },
+  {
     "title": "巨大テックのAI開発を停滞させない　レゾナックが証明した「後工程」という日本の武器",
     "link": "https://www.itmedia.co.jp/business/articles/2603/24/news011.html",
     "source": "ITmedia ビジネス",
@@ -968,35 +998,5 @@
     "image": "https://media.loom-app.com/loom/2026/03/18/f9a63ad9-6639-413d-bc37-a3c02ff804db/original.jpg?w=1200&amp;h=630",
     "fetched_at": "2026-03-23 06:47:18",
     "ja_summary": "・コカ・コーラなど大手消費財メーカーが広告制作や市場調査に生成AIを本格導入。\n・AI活用により広告制作の迅速化や効率的な消費者分析を実現。\n・マーケティングのスピードと精度を高める「AI広告ブーム」が加速中。"
-  },
-  {
-    "title": "「高品質なロボットを作れば勝てる」は誤解--「フィジカルAI」で考える日本企業の勝ち筋",
-    "link": "https://japan.zdnet.com/article/35245211/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "現実の労働力を代替する「フィジカルAI」の波が押し寄せている。しかし、「高品質なロボットを作れば勝てる」という日本特有のモノづくり偏重の思考は危険だと、Ideinの中村CEOは警鐘を鳴らす。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35245211/\"><img src=\"https://japan.zdnet.com/storage/2025/08/12/6dc5b2ff5b91ea7e6c7363b7941e3bb8/t/184/138/d/250812_ai_robot_as_1280_1293283060.jpg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2025/08/12/6dc5b2ff5b91ea7e6c7363b7941e3bb8/t/184/138/d/250812_ai_robot_as_1280_1293283060.jpg",
-    "fetched_at": "2026-03-23 06:47:30",
-    "ja_summary": "・現実の労働を代替する「フィジカルAI」が普及する中、日本の「高品質なロボットを作れば勝てる」というモノづくり重視の姿勢は限界を迎えている。\n・成功にはハードウェアの性能だけでなく、ソフトウェアやAIを組み合わせた戦略が不可欠である。\n・日本企業は技術力への過信を捨て、市場ニーズに対応したビジネスモデルへの転換が求められている。"
-  },
-  {
-    "title": "エヌビディアの支配を打ち破ろうとAIチップ競争に参入する企業は大きく4つに分かれる",
-    "link": "https://www.businessinsider.jp/article/2603-nvidia-ai-dominance-rising-competition-from-rivals/",
-    "source": "Business Insider Japan",
-    "published": "Sun, 22 Mar 2026 21:00:00 GMT",
-    "summary": "AIワークロードの進化や地政学的な問題を背景にエヌビディアがグーグルやスタートアップ、中国企業からの圧力に直面しており、AIチップの競争は激化しています。",
-    "image": "https://media.loom-app.com/loom/2026/03/16/ea2f5389-f7a4-4f47-8b1f-8cf35fc02cab/original.jpg?w=1200&amp;h=630",
-    "fetched_at": "2026-03-23 06:19:29",
-    "ja_summary": "・AI需要の拡大と地政学リスクを背景に、AIチップ市場でエヌビディアの独走状態が崩れつつある。\n・グーグルや新興企業、中国勢などが参入し、開発競争が激化している。\n・業界をリードしてきたエヌビディアに対し、多様なプレイヤーが異なるアプローチで市場シェアを狙う構図となっている。"
-  },
-  {
-    "title": "AIは雇用を奪うのか？　米国の最新動向と日本市場の静かな変化",
-    "link": "https://japan.zdnet.com/article/35245275/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "「AIが仕事を奪うか」という問いが再燃している。AIが雇用に与える影響をどう見るべきか。AIと雇用に関連する記事を集めた。\n<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35245275/\"><img src=\"https://japan.zdnet.com/storage/2026/03/19/39955b736483c1d01fe2835d045c918d/t/184/138/d/thumb_employment_1280.jpg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2026/03/19/39955b736483c1d01fe2835d045c918d/t/184/138/d/thumb_employment_1280.jpg",
-    "fetched_at": "2026-03-23 06:19:42",
-    "ja_summary": "AIによる雇用への影響が再び注目されており、米国の最新動向や日本市場の変化からその実態を考察する。\nAIは単に仕事を奪うだけでなく、業務の在り方を変える可能性を秘めている。\nAIと雇用を巡る現状を正しく理解するための関連情報をまとめたもの。"
   }
 ]
