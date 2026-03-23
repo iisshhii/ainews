@@ -1,5 +1,35 @@
 [
   {
+    "title": "就活に広がるAI面接官　便利さの裏で企業が手放さない「最後の判断」",
+    "link": "https://www.itmedia.co.jp/business/articles/2603/21/news026.html",
+    "source": "ITmedia ビジネス",
+    "published": "Sat, 21 Mar 2026 19:30:00 +0900",
+    "summary": "2027年春に卒業予定の大学生らを対象とした採用活動が本格化している。エントリーシートの判定や、人間に代わって面接を行う「AI面接官」の活用などがみられる。",
+    "image": "https://image.itmedia.co.jp/business/articles/2603/21/cover_news026.jpg",
+    "fetched_at": "2026-03-23 14:46:12",
+    "ja_summary": "・2027年卒の採用活動でエントリーシート判定やAI面接の導入が本格化している。\n・AI活用により採用業務の効率化が進む一方で、最終的な選考判断は人間が行う運用が主流。"
+  },
+  {
+    "title": "マスク氏、最大の半導体工場「TERAFAB」構想　宇宙活用へSpaceXとxAI、テスラ連携",
+    "link": "https://www.watch.impress.co.jp/docs/news/2095346.html",
+    "source": "Impress Watch",
+    "published": "",
+    "summary": "SpaceXとxAI、Teslaは22日、史上最大のチップ製造施設という「TERAFAB」の構想を発表した。イーロン・マスク氏は、「目標は1テラワットの計算能力/年」と説明している。",
+    "image": "https://www.watch.impress.co.jp/img/ipw/list/2095/346/t06.jpg",
+    "fetched_at": "2026-03-23 14:46:25",
+    "ja_summary": "・マスク氏率いるテスラ、SpaceX、xAIが世界最大の半導体工場「TERAFAB」構想を発表。\n・年産1テラワットという圧倒的な計算能力の実現を目指す。\n・AIと宇宙開発の連携を強化し、次世代の技術インフラ構築を加速させる。"
+  },
+  {
+    "title": "Claude Code 知らないと損するコマンド・時短術 20選",
+    "link": "https://qiita.com/miruky/items/48ede59ebe33b4b774ac",
+    "source": "Qiita (Popular)",
+    "published": "2026-03-19T12:46:24+09:00",
+    "summary": "## はじめに\n\nこんばんは、mirukyです。\nClaude Codeを使っていて、こんな経験はありませんか？\n\n- 毎回同じ操作を手動で繰り返している\n- もっと速くできるはずなのにやり方がわからない\n- 公式ドキュメントが膨大すぎて追いきれない\n\n本記事では、**公式ドキュメント・changelog（v2.1.76まで）を徹底的に調査**し、意外と知られていないコマンド・裏技を **難易度別",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGMzYzNzIwNCUyRnByb2ZpbGUtaW1hZ2VzJTJGMTc3MjI4Njk1OT9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NjIyN2I1MTA1MTI4Zjk4NjQ3NzIxMWVkNmQzMzQ5NGY%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Dcf8a609748dabb40bb53ee930510b32b?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9Q2xhdWRlJTIwQ29kZSUyMCVFNyU5RiVBNSVFMyU4MiU4OSVFMyU4MSVBQSVFMyU4MSU4NCVFMyU4MSVBOCVFNiU5MCU4RCVFMyU4MSU5OSVFMyU4MiU4QiVFMyU4MiVCMyVFMyU4MyU5RSVFMyU4MyVCMyVFMyU4MyU4OSVFMyU4MyVCQiVFNiU5OSU4MiVFNyU5RiVBRCVFOCVBMSU5MyUyMDIwJUU5JTgxJUI4JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9MGRmN2MzMjNhNjVmMWI0ZmEyNzEwN2IzZTdlNzBlY2E&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBtaXJ1a3kmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1iMWMwZjM0MGFkNTI5NmU1ZmNjNDFiZDQxMGY0YWRjYw&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=538f658cdcbf463d6583da34d7ccee34",
+    "fetched_at": "2026-03-23 14:46:54",
+    "ja_summary": "・Claude Codeの公式情報を網羅し、作業効率を劇的に上げる20の隠れたコマンドと時短術を解説。\n・繰り返し作業の自動化や、あまり知られていない裏技を難易度別に紹介。\n・公式ドキュメントを読み込む手間を省き、開発速度を向上させたいエンジニア必見の内容。"
+  },
+  {
     "title": "税理士が｢AIで\"本来の仕事\"に戻れる｣と語るワケ | 企業経営･会計･制度 | 東洋経済オンライン",
     "link": "https://toyokeizai.net/articles/-/938869?utm_source=rss&utm_medium=http&utm_campaign=link_back",
     "source": "東洋経済オンライン",
@@ -968,35 +998,5 @@
     "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGNDM0NDA5MSUyRnByb2ZpbGUtaW1hZ2VzJTJGMTc3MzE4NjE0OD9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NWJjOGQxODI5ODE5NmVkYWE0NGJlMzkxNDEyNzc2Yjg%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D56b1ac2591cb4447c0d4eece1e9d7551?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJThDJUUzJTgyJUFCJUUzJTgzJUJDJUUzJTgzJTg5JUU0JUJEJTlDJUUzJTgyJThBJUUzJTgxJThDJUU5JTlEJUEyJUU1JTgwJTkyJUUzJTgxJTk5JUUzJTgxJThFJUUzJTgyJThCJUUzJTgwJThEJUU1JTk1JThGJUU5JUExJThDJUUzJTgyJTkyQUklRTMlODElQTclRTglQTclQTMlRTYlQjElQkElRTMlODElOTclRTMlODElOUYlRTMlODIlODklRTMlODAlODElRTglQjMlODclRTYlQTAlQkMlRTUlOEIlODklRTUlQkMlQjclRTMlODElOEMlRTclQjYlOUElRTMlODElOEYlRTMlODIlODglRTMlODElODYlRTMlODElQUIlRTMlODElQUElRTMlODElQTMlRTMlODElOUYmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1mMDhlOWY5OTNhYzY3NmY2Yjg5NTEyZjA2ZDkzZmE1Nw&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBDb2JvTWVtbyZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTYxODJjMzU3MDA0OGI0ODFiZmI1YTE3YTA3ZTg3ZjEz&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=cc7f45ce860622e41f1ee392d4f3359b",
     "fetched_at": "2026-03-22 03:26:44",
     "ja_summary": "・資格勉強の挫折要因である「暗記カード作成の面倒さ」をAIで自動化。\n・作成時間を大幅に短縮し、学習の継続率を向上させた。\n・効率化ツールを活用することで、多忙なエンジニアでも継続的に学習可能に。"
-  },
-  {
-    "title": "OpenAI to acquire Astral",
-    "link": "https://openai.com/index/openai-to-acquire-astral",
-    "source": "OpenAI",
-    "published": "Thu, 19 Mar 2026 00:00:00 GMT",
-    "summary": "Accelerates Codex growth to power the next generation of Python developer tools",
-    "image": "https://openai.com/favicon.ico",
-    "fetched_at": "2026-03-22 02:48:28",
-    "ja_summary": "・OpenAIが開発ツール企業Astralを買収\n・Python開発ツール「Codex」の強化を加速\n・次世代のプログラミング環境構築を目指す"
-  },
-  {
-    "title": "Circle K eMobility Journey Towards Effective Cross-functional Value Streams (Agile Meets Architecture 2026)",
-    "link": "https://speakerdeck.com/emgsilva/circle-k-emobility-journey-towards-effective-cross-functional-value-streams-agile-meets-architecture-2026",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-03-21T13:08:59-04:00",
-    "summary": "In this presentation, we will discuss the multi-year journey of Circle K's eMobility organization as it scales to support growth from Norway to European and global markets.\n\nThe eMobility organization began as a small team focused on validating the electric vehicle (EV) charging business in Norway. However, due to its success, it quickly had to shift from \"validating to scaling\" and expand to various countries and multiple products in an industry that is still in development.\n\nThroughout the talk, we will share valuable \"mistakes\", lessons learned, experiments, methods, and practices we have employed during this journey. We will particularly emphasize the importance of breaking down functional silos within the organization as a means to support sustainable scaling. Initially, we focused on overcoming the Product and Technology silos. Still, in time, we went further to develop truly cross-functional value streams, also involving and continuously engaging with marketing, sales, operations, and other disciplines, with the goal of defining the best ways to support the activities necessary for rapid and sustainable business growth.\n\nWe have employed various ideas and techniques, including Domain-Driven Design, Team Topologies, Wardley Mapping, and others. However, you will see that there are no silver bullets. The secret is embracing this as a continuous improvement process, involving people with knowledge and expertise, maximizing learning, and empowering value streams and their teams to drive the necessary design and decision-making with a clear long-term vision.",
-    "image": "https://files.speakerdeck.com/presentations/707c774c510140d1b24962eb6a79d994/preview_slide_0.jpg?38805881",
-    "fetched_at": "2026-03-22 02:20:32",
-    "ja_summary": "Circle KのEV充電事業がノルウェーから欧州・世界へと拡大する過程で、組織の壁（サイロ）を打破し、部門横断的な価値提供プロセスを構築した経験を共有。\nDDDやTeam Topologiesなどの手法を導入しつつも、特定の手法に固執せず、持続的な改善とチームへの権限委譲を重視した組織運営が成長の鍵となった。\n迅速かつ持続的な事業拡大には、技術だけでなく営業や運用まで含めたクロスファンクショナルな体制づくりと、学習を最大化する継続的改善が不可欠である。"
-  },
-  {
-    "title": "CLAUDE.mdを設計するとClaude Codeの生産性が別物になる — 実際の設定と運用ワークフローを公開",
-    "link": "https://qiita.com/nogataka/items/1ad4e4ccaf47816c63e0",
-    "source": "Qiita (Popular)",
-    "published": "2026-03-18T22:14:33+09:00",
-    "summary": "\n## はじめに\n\nClaude Codeを使い始めた直後は感動します。自然言語でコードが書ける、テストも回してくれる、リファクタリングまでやってくれる。ところが1ヶ月ほど経つと、壁にぶつかります。\n\n- 「前にも同じ指示を出したのに、また違うスタイルで書いてくる」\n- 「プロジェクトのルールを毎回説明するのが面倒」\n- 「サブエージェントを使いたいけど、どう設計すればいいかわからない」\n\nこの壁",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYxNjEyOTglMkZjMWUzZmZkNmVhZGExOTY5ZmYzYzQ0YjE0ZmRlMDgxYmNkZTZmNTAwJTJGeF9sYXJnZS5wbmclM0YxNTg0ODQ1NTg0P2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz00ZGRjZmU5NTFjNTMyMzU3NjcyOGUzOTkyOTNmOGRlNQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D246367bff431168e6212d2602a3df494?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9Q0xBVURFLm1kJUUzJTgyJTkyJUU4JUE4JUFEJUU4JUE4JTg4JUUzJTgxJTk5JUUzJTgyJThCJUUzJTgxJUE4Q2xhdWRlJTIwQ29kZSVFMyU4MSVBRSVFNyU5NCU5RiVFNyU5NCVBMyVFNiU4MCVBNyVFMyU4MSU4QyVFNSU4OCVBNSVFNyU4OSVBOSVFMyU4MSVBQiVFMyU4MSVBQSVFMyU4MiU4QiUyMCVFMiU4MCU5NCUyMCVFNSVBRSU5RiVFOSU5QSU5QiVFMyU4MSVBRSVFOCVBOCVBRCVFNSVBRSU5QSVFMyU4MSVBOCVFOSU4MSU4QiVFNyU5NCVBOCVFMyU4MyVBRiVFMyU4MyVCQyVFMyU4MiVBRiVFMyU4MyU5NSVFMyU4MyVBRCVFMyU4MyVCQyVFMyU4MiU5MiVFNSU4NSVBQyVFOSU5NiU4QiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTQ1ZGYzY2E3MzZiYzY4ZTU5YjFkZjQ5ZmI0N2E2NWVj&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBub2dhdGFrYSZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWE5ODA4YTE0Zjg4Y2I0ZjQ5OWU2ZDA3NGYyY2E2YTNh&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=f086164930124ae6dba77fc18ece59cf",
-    "fetched_at": "2026-03-21 21:37:27",
-    "ja_summary": "Claude Codeの指示のブレやルールの再説明を解消するには、プロジェクトの仕様を記述した「CLAUDE.md」の導入が不可欠。\nこのファイルを適切に設計することで、AIがプロジェクトの文脈を深く理解し、作業の生産性が飛躍的に向上する。\n具体的な設定手順と効率的な運用ワークフローを取り入れ、AIエージェントの能力を最大限に引き出す手法を解説。"
   }
 ]
