@@ -1,5 +1,45 @@
 [
   {
+    "title": "ChatGPT、「中の人の会話」を見ずにトイレに行っているあなたが失うもの (ひとつ上の言語化)",
+    "link": "https://business.nikkei.com/atcl/gen/19/00759/031000026/",
+    "source": "日経ビジネス 最新",
+    "published": "",
+    "summary": "学生が出してきたプロンプトの順序を見ると、どんな順番で考えているのかも見えてきますし。それを整理すると、AIがどう処理するのだろうかということも、見えてくる気がしますね。",
+    "image": "https://business.nikkei.com/atcl/gen/19/00759/031000026/fb.jpg",
+    "fetched_at": "2026-03-23 17:07:57",
+    "ja_summary": "学生のプロンプトの順序を分析することで、思考のプロセスを可視化できる。\nその論理を整理すれば、AIがどのように情報を処理するかも理解できる。\nAI活用においては、思考の順序を意識的に構成することが重要である。"
+  },
+  {
+    "title": "カプコン「生成AIで生み出した素材をゲームコンテンツには実装しない」―AIへの対応方針を個人投資家向けに説明",
+    "link": "https://www.techno-edge.net/article/2026/03/23/4949.html",
+    "source": "TechnoEdge",
+    "published": "Mon, 23 Mar 2026 16:35:59 +0900",
+    "summary": "2025年1月には、アイデア出しの面で生成AIを活用していることが明かされていました。",
+    "image": "https://www.techno-edge.net/imgs/rss/30567.png",
+    "fetched_at": "2026-03-23 17:08:19",
+    "ja_summary": "・カプコンは生成AIをアイデア出しには活用する一方、ゲーム内の素材としては実装しない方針を明言。\n・知的財産権の保護や品質保持を重視し、生成AIの利用範囲を限定する姿勢を示した。\n・個人投資家向けに透明性の高いAI活用戦略を説明している。"
+  },
+  {
+    "title": "How we monitor internal coding agents for misalignment",
+    "link": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
+    "source": "OpenAI",
+    "published": "Thu, 19 Mar 2026 10:00:00 GMT",
+    "summary": "How OpenAI uses chain-of-thought monitoring to study misalignment in internal coding agents—analyzing real-world deployments to detect risks and strengthen AI safety safeguards.",
+    "image": "https://openai.com/favicon.ico",
+    "fetched_at": "2026-03-23 17:08:20",
+    "ja_summary": "・OpenAIはAIの誤作動やリスクを検知するため、社内のコーディングAIを対象に思考プロセス（Chain-of-Thought）を監視。\n・実際の開発環境における実データを用いて、AIが意図通りに動作しているかを継続的に分析。\n・得られた知見を基に安全対策を強化し、AIの誤用や不具合を未然に防ぐ体制を構築。"
+  },
+  {
+    "title": "Turn Your Agent Into Your Own Nemesis",
+    "link": "https://speakerdeck.com/terezaif/turn-your-agent-into-your-own-nemesis",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-03-22T13:44:08-04:00",
+    "summary": "Workshop held at https://agentic.hamburg\nHamburg 2026\n\nMost agents are built to be generally helpful. That's not the same as being useful for you.\n\nI've found that I work best when collaborating with people who are complementary in their strengths.\n\nIn this workshop, we apply that idea to agents.\n\nWe configure an existing agent (Claude Code or Gemini CLI) into a personal work companion: one that reflects how you actually work, strengthens the areas you don't naturally prioritize, and knows when to slow down and ask the right questions instead of just producing output.\n\nWe start with a short, focused self-assessment to map your working patterns. Then we translate that into a working configuration, step by step: default behavior, task-specific modes, and clear rules for how the agent should behave when things are unclear or misaligned.\n\nYou'll leave with a functioning Nemesis and a calibration process for your agent.\n\nLaptop and access to a live agent required. No coding experience needed.\n\nPrerequisites:\n\n​1. Cluade Pro / Gemini\n2. IDE (e.g. VS Code or Zed) or Claude Cowork\n\nRepository: https://github.com/terezaif/nemesis",
+    "image": "https://files.speakerdeck.com/presentations/65b771b12cea420787d4c2241549bf50/preview_slide_0.jpg?38812134",
+    "fetched_at": "2026-03-23 17:08:28",
+    "ja_summary": "・AIを単なる「便利な道具」から、自身の弱点を補い思考を深めさせる「最高の相棒（Nemesis）」へと最適化するワークショップ。\n・自身の作業パターンを分析し、Claude CodeやGemini CLIを個人の思考スタイルに合わせて設定・カスタマイズする手法を習得可能。\n・コーディング経験不要。実機を持参し、自身の業務効率を劇的に高めるAI環境をその場で構築する。"
+  },
+  {
     "title": "OpenAI to acquire Astral",
     "link": "https://openai.com/index/openai-to-acquire-astral",
     "source": "OpenAI",
@@ -958,45 +998,5 @@
     "image": "https://res.cloudinary.com/zenn/image/upload/s--SHRReTve--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Rust%2520%25E3%2581%25AE%2520DI%2520%25E3%2582%2592%25E8%25A9%25A6%25E3%2581%2599%2520%252F%2520entrait%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:-%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzMwYjdiZGViMGUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
     "fetched_at": "2026-03-22 07:48:46",
     "ja_summary": "RustのDI（依存性の注入）で課題となる冗長なコードを、`#[entrait]`マクロで自動化・簡略化する手法を紹介。\n関数にマクロを付与するだけでトレイト生成から依存関係の解決まで可能になり、開発効率を向上させる。\nテスト時のモック作成には`unimock`を組み合わせることで、型安全かつ記述量を抑えた構成を実現する。"
-  },
-  {
-    "title": "Phase06_ClaudeCode実践",
-    "link": "https://speakerdeck.com/overflowinc/phase06-claudecodeshi-jian",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-03-21T00:16:10-04:00",
-    "summary": "",
-    "image": "https://files.speakerdeck.com/presentations/d58c0c791256410685239e70be890a4c/preview_slide_0.jpg?38801918",
-    "fetched_at": "2026-03-22 07:48:48",
-    "ja_summary": "・AIエンジニアリングツール「Claude Code」の実践的な活用手法を解説。\n・コマンドラインから直接AIを操作し、コーディングや修正を効率化する方法を紹介。\n・開発ワークフローへの導入手順と、生産性向上のための具体的な使い方を網羅。"
-  },
-  {
-    "title": "Phase05_ClaudeCode入門",
-    "link": "https://speakerdeck.com/overflowinc/phase05-claudecoderu-men",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-03-21T00:15:21-04:00",
-    "summary": "",
-    "image": "https://files.speakerdeck.com/presentations/53ec741db3ae4034a3c6436446f15751/preview_slide_0.jpg?38801885",
-    "fetched_at": "2026-03-22 07:48:48",
-    "ja_summary": "・AIコーディングツール「Claude Code」の基本的な使い方を解説する入門記事。\n・ターミナル上でClaudeを操作し、コードの生成や修正を効率化する方法を紹介。\n・開発の生産性を高めたいエンジニア向けの導入ガイド。"
-  },
-  {
-    "title": "生成AIを使用した疑いで小説が発売中止に--初のケースか",
-    "link": "https://japan.cnet.com/article/35245311/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "文章の一部に生成AIが使われた疑いがあるとして、米Hachette Book Groupが小説『Shy Girl』の米国発売を中止した。大手出版社がAI生成疑惑を理由に既存タイトルの刊行を取りやめるのは初のケースとみられる。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35245311/\"><img src=\"https://japan.cnet.com/storage/2026/03/22/afe2064dffe8d58fc2905d776eb4e9e6/t/184/138/d/gettyimages-2264560414.jpeg\" /></a>",
-    "image": "https://japan.cnet.com/storage/2026/03/22/afe2064dffe8d58fc2905d776eb4e9e6/t/184/138/d/gettyimages-2264560414.jpeg",
-    "fetched_at": "2026-03-22 07:16:44",
-    "ja_summary": "米大手出版社が、生成AI使用の疑いを理由に小説『Shy Girl』の発売を中止した。\nAI使用を理由に既存タイトルの刊行が取りやめられるのは、業界初のケースとみられる。\n出版界における生成AIの利用を巡る倫理やルールに一石を投じる事態となっている。"
-  },
-  {
-    "title": "夢の無限スパゲッティ製造機 #phperkaigi",
-    "link": "https://speakerdeck.com/o0h/phperkaigi-2026",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-03-21T15:42:49-04:00",
-    "summary": "https://fortee.jp/phperkaigi-2026/proposal/40eed9f2-69a1-4b38-8301-bcf21e902eb7 の発表資料です",
-    "image": "https://files.speakerdeck.com/presentations/21ddee44820749c28ff6aee5a4d3484a/preview_slide_0.jpg?38806775",
-    "fetched_at": "2026-03-22 04:46:04",
-    "ja_summary": "PHPのコード内でスパゲッティコード（複雑で読みにくいコード）が生成される仕組みを分析。\nその要因と構造を技術的に解明し、どうすれば可読性の高いコードに改善できるかを解説。\n負債を抱えるコードを撲滅し、持続可能な開発現場を目指すための知見を共有。"
   }
 ]
