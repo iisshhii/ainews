@@ -1,5 +1,25 @@
 [
   {
+    "title": "就活に広がるAI面接官　便利さの裏で企業が手放さない「最後の判断」",
+    "link": "https://www.itmedia.co.jp/business/articles/2603/21/news026.html",
+    "source": "ITmedia ビジネス",
+    "published": "Sat, 21 Mar 2026 19:30:00 +0900",
+    "summary": "2027年春に卒業予定の大学生らを対象とした採用活動が本格化している。エントリーシートの判定や、人間に代わって面接を行う「AI面接官」の活用などがみられる。",
+    "image": "https://image.itmedia.co.jp/business/articles/2603/21/cover_news026.jpg",
+    "fetched_at": "2026-03-24 20:30:08",
+    "ja_summary": "就職活動でAI面接官の活用が広がる。\nAIが書類選考や一次面接を担当する一方、最終的な合否判断は企業が担う。\n効率化と公平性の両立を目指しつつ、最終判断は人間が行うのが現状。"
+  },
+  {
+    "title": "CLAUDE.mdを設計するとClaude Codeの生産性が別物になる — 実際の設定と運用ワークフローを公開",
+    "link": "https://qiita.com/nogataka/items/1ad4e4ccaf47816c63e0",
+    "source": "Qiita (Popular)",
+    "published": "2026-03-18T22:14:33+09:00",
+    "summary": "\n## はじめに\n\nClaude Codeを使い始めた直後は感動します。自然言語でコードが書ける、テストも回してくれる、リファクタリングまでやってくれる。ところが1ヶ月ほど経つと、壁にぶつかります。\n\n- 「前にも同じ指示を出したのに、また違うスタイルで書いてくる」\n- 「プロジェクトのルールを毎回説明するのが面倒」\n- 「サブエージェントを使いたいけど、どう設計すればいいかわからない」\n\nこの壁",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYxNjEyOTglMkZjMWUzZmZkNmVhZGExOTY5ZmYzYzQ0YjE0ZmRlMDgxYmNkZTZmNTAwJTJGeF9sYXJnZS5wbmclM0YxNTg0ODQ1NTg0P2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz00ZGRjZmU5NTFjNTMyMzU3NjcyOGUzOTkyOTNmOGRlNQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D246367bff431168e6212d2602a3df494?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9Q0xBVURFLm1kJUUzJTgyJTkyJUU4JUE4JUFEJUU4JUE4JTg4JUUzJTgxJTk5JUUzJTgyJThCJUUzJTgxJUE4Q2xhdWRlJTIwQ29kZSVFMyU4MSVBRSVFNyU5NCU5RiVFNyU5NCVBMyVFNiU4MCVBNyVFMyU4MSU4QyVFNSU4OCVBNSVFNyU4OSVBOSVFMyU4MSVBQiVFMyU4MSVBQSVFMyU4MiU4QiUyMCVFMiU4MCU5NCUyMCVFNSVBRSU5RiVFOSU5QSU5QiVFMyU4MSVBRSVFOCVBOCVBRCVFNSVBRSU5QSVFMyU4MSVBOCVFOSU4MSU4QiVFNyU5NCVBOCVFMyU4MyVBRiVFMyU4MyVCQyVFMyU4MiVBRiVFMyU4MyU5NSVFMyU4MyVBRCVFMyU4MyVCQyVFMyU4MiU5MiVFNSU4NSVBQyVFOSU5NiU4QiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTQ1ZGYzY2E3MzZiYzY4ZTU5YjFkZjQ5ZmI0N2E2NWVj&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBub2dhdGFrYSZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWE5ODA4YTE0Zjg4Y2I0ZjQ5OWU2ZDA3NGYyY2E2YTNh&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=f086164930124ae6dba77fc18ece59cf",
+    "fetched_at": "2026-03-24 20:31:04",
+    "ja_summary": "Claude Codeの生産性向上には、プロジェクト固有のルールや過去の指示を Claude.md に集約することが重要。\nこれにより、毎回同じ説明をする手間が省け、一貫性のあるコード生成やサブエージェントの活用が可能になる。\n実際の設定と運用ワークフローが公開されている。"
+  },
+  {
     "title": "日立製作所と日立エナジー、エネルギーインフラ向けAIサービスを提供",
     "link": "https://xtech.nikkei.com/atcl/nxt/news/24/03147/",
     "source": "日経クロステック 総合",
@@ -978,25 +998,5 @@
     "image": "https://openai.com/favicon.ico",
     "fetched_at": "2026-03-23 17:08:20",
     "ja_summary": "・OpenAIはAIの誤作動やリスクを検知するため、社内のコーディングAIを対象に思考プロセス（Chain-of-Thought）を監視。\n・実際の開発環境における実データを用いて、AIが意図通りに動作しているかを継続的に分析。\n・得られた知見を基に安全対策を強化し、AIの誤用や不具合を未然に防ぐ体制を構築。"
-  },
-  {
-    "title": "Turn Your Agent Into Your Own Nemesis",
-    "link": "https://speakerdeck.com/terezaif/turn-your-agent-into-your-own-nemesis",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-03-22T13:44:08-04:00",
-    "summary": "Workshop held at https://agentic.hamburg\nHamburg 2026\n\nMost agents are built to be generally helpful. That's not the same as being useful for you.\n\nI've found that I work best when collaborating with people who are complementary in their strengths.\n\nIn this workshop, we apply that idea to agents.\n\nWe configure an existing agent (Claude Code or Gemini CLI) into a personal work companion: one that reflects how you actually work, strengthens the areas you don't naturally prioritize, and knows when to slow down and ask the right questions instead of just producing output.\n\nWe start with a short, focused self-assessment to map your working patterns. Then we translate that into a working configuration, step by step: default behavior, task-specific modes, and clear rules for how the agent should behave when things are unclear or misaligned.\n\nYou'll leave with a functioning Nemesis and a calibration process for your agent.\n\nLaptop and access to a live agent required. No coding experience needed.\n\nPrerequisites:\n\n​1. Cluade Pro / Gemini\n2. IDE (e.g. VS Code or Zed) or Claude Cowork\n\nRepository: https://github.com/terezaif/nemesis",
-    "image": "https://files.speakerdeck.com/presentations/65b771b12cea420787d4c2241549bf50/preview_slide_0.jpg?38812134",
-    "fetched_at": "2026-03-23 17:08:28",
-    "ja_summary": "・AIを単なる「便利な道具」から、自身の弱点を補い思考を深めさせる「最高の相棒（Nemesis）」へと最適化するワークショップ。\n・自身の作業パターンを分析し、Claude CodeやGemini CLIを個人の思考スタイルに合わせて設定・カスタマイズする手法を習得可能。\n・コーディング経験不要。実機を持参し、自身の業務効率を劇的に高めるAI環境をその場で構築する。"
-  },
-  {
-    "title": "OpenAI to acquire Astral",
-    "link": "https://openai.com/index/openai-to-acquire-astral",
-    "source": "OpenAI",
-    "published": "Thu, 19 Mar 2026 00:00:00 GMT",
-    "summary": "Accelerates Codex growth to power the next generation of Python developer tools",
-    "image": "https://openai.com/favicon.ico",
-    "fetched_at": "2026-03-23 16:00:57",
-    "ja_summary": "・OpenAIが開発ツール企業Astralを買収\n・Python開発ツール「Codex」の強化を加速\n・次世代のプログラミング環境構築を目指す"
   }
 ]
