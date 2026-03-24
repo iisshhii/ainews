@@ -1,5 +1,55 @@
 [
   {
+    "title": "【石野純也のモバイル通信SE】スマホの進化を牽引する「Galaxy S26」　グーグル連携の\"強さ”と“課題”",
+    "link": "https://www.watch.impress.co.jp/docs/series/ishino/2095550.html",
+    "source": "Impress Watch",
+    "published": "",
+    "summary": "3月12日に発売された「Galaxy S26」シリーズは、「先回りするAI」を前面に打ち出している。サムスン電子は、24年に「Galaxy S24」に導入する新機能として「Galaxy AI」を発表。以降のフラッグシップモデルでは、どちらかと言えばAIの処理能力を上げることに注力してきた。飛び道具的なハードウェアではなく、AIの“器”としてのスマホとして必要な機能を強化してきたと言えるだろう。",
+    "image": "https://www.watch.impress.co.jp/img/ipw/list/2095/550/i03.jpg",
+    "fetched_at": "2026-03-25 08:24:39",
+    "ja_summary": "・最新の「Galaxy S26」は、先回りして処理を行う「Galaxy AI」を軸にスマホの機能を強化。\n・派手なハードウェア刷新よりも、AIを快適に動かすための基盤性能向上に注力している。\n・Googleとの連携によるAI活用が進む一方で、実用面での強みと今後の課題が浮き彫りとなっている。"
+  },
+  {
+    "title": "OpenAI、動画生成の「Sora」を終了へ",
+    "link": "https://www.watch.impress.co.jp/docs/news/2095964.html",
+    "source": "Impress Watch",
+    "published": "",
+    "summary": "OpenAIは24日(米国時間)、動画生成アプリの「Sora」を終了すると発表した。",
+    "image": "https://www.watch.impress.co.jp/img/ipw/list/2095/964/sora1.jpg",
+    "fetched_at": "2026-03-25 08:24:40",
+    "ja_summary": "・OpenAIが動画生成AI「Sora」の提供終了を発表。\n・詳細は24日（米国時間）に公表。\n・今後の代替サービスや終了の理由は現時点で未詳。"
+  },
+  {
+    "title": "【PC選び方ガイド】なぜクリエイター向けPCが必要? 失敗しない「DAIV」選びと用途別推奨スペック[Sponsored]",
+    "link": "https://www.watch.impress.co.jp/docs/topic/special/2093678.html",
+    "source": "Impress Watch",
+    "published": "",
+    "summary": "PCはさまざまな用途に使える「道具」です。しかしその用途は多岐にわたっており、たくさんの製品からどれを選べばいいのか悩んでいる方も多いことでしょう。そこで、多くのPCメーカーは特定のカテゴリに特化したPCを用意しています。ゲーマー向けには「ゲーミングPC」というカテゴリがあり、そして「クリエイター向け」というジャンルも確立しています。",
+    "image": "https://www.watch.impress.co.jp/img/ipw/list/2093/678/01.jpg",
+    "fetched_at": "2026-03-25 08:24:41",
+    "ja_summary": "・PC選びは用途に合わせて最適化された専用カテゴリを選ぶのが重要。\n・クリエイターには専用スペックを備えた「DAIV」のような特化型モデルが最適。\n・本記事では、失敗しないPC選びのポイントと用途別の推奨スペックを解説。"
+  },
+  {
+    "title": "動画生成AI「Sora」提供終了へ",
+    "link": "https://news.yahoo.co.jp/pickup/6574141?source=rss",
+    "source": "Yahoo!ニュース IT・科学",
+    "published": "Tue, 24 Mar 2026 23:05:22 GMT",
+    "summary": "",
+    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/25/3dff6e3bad6c3242da8886d740b64e34adc41b77aadecd4aa0fccfe7d0e95a34.jpg",
+    "fetched_at": "2026-03-25 08:24:50",
+    "ja_summary": "動画生成AI「Sora」がサービス提供を終了する。\n詳細は明かされていないが、今後は他サービスへの統合や次世代モデルへの移行が予測される。\nユーザーは代替ツールへの切り替え準備が必要となる。"
+  },
+  {
+    "title": "Anthropic’s Responsible Scaling Policy: Version 3.0",
+    "link": "https://www.anthropic.com/news/responsible-scaling-policy-v3",
+    "source": "Anthropic (News)",
+    "published": "Tue, 24 Feb 2026 00:00:00 +0000",
+    "summary": "Anthropic’s Responsible Scaling Policy: Version 3.0",
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Quill&amp;backgroundColor=olive",
+    "fetched_at": "2026-03-25 08:25:05",
+    "ja_summary": "・AnthropicがAIの安全基準「Responsible Scaling Policy」の最新版（3.0）を発表。\n・AI開発におけるリスク管理を強化し、高度なAIモデルの安全性確保を優先。\n・技術進歩に伴う潜在的な脅威に対し、より厳格な監視と運用プロセスを導入。"
+  },
+  {
     "title": "デジタルアレルギー社員が、Excel集計「40分→2分」に　イオン流「現場DX」の極意",
     "link": "https://www.itmedia.co.jp/business/articles/2603/25/news021.html",
     "source": "ITmedia ビジネス",
@@ -948,55 +998,5 @@
     "image": "https://openai.com/favicon.ico",
     "fetched_at": "2026-03-24 06:54:49",
     "ja_summary": "・Codex Securityは従来のSAST（静的解析）を採用せず、AIによる制約推論と検証を活用。\n・誤検知（フォールスポジティブ）を大幅に抑制し、実在する脆弱性を的確に抽出する。\n・AI技術により、精度の高い効率的なセキュリティ診断を実現。"
-  },
-  {
-    "title": "Anthropic acquires Vercept to advance Claude's computer use capabilities",
-    "link": "https://www.anthropic.com/news/acquires-vercept",
-    "source": "Anthropic (News)",
-    "published": "Wed, 25 Feb 2026 00:00:00 +0000",
-    "summary": "Anthropic acquires Vercept to advance Claude's computer use capabilities",
-    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Node%20Cursor&amp;backgroundColor=coral",
-    "fetched_at": "2026-03-24 06:54:51",
-    "ja_summary": "・AI開発のAnthropic社が、操作自動化技術を持つVercept社を買収。\n・対話AI「Claude」のPC操作能力（Computer Use）を強化する狙い。\n・AIによる業務自動化の精度向上と実用化を加速させる。"
-  },
-  {
-    "title": "UI UX Pro Max：AIコーディングアシスタントにデザインセンスを与えるSkill",
-    "link": "https://qiita.com/nogataka/items/1e35dd4f573547626aff",
-    "source": "Qiita (Popular)",
-    "published": "2026-03-20T18:13:00+09:00",
-    "summary": "\n## はじめに\n\nClaude CodeやCursorなどのAIコーディングアシスタントに「ランディングページを作って」と頼むと、機能的には動くものの、デザイン面では物足りない結果になることがあります。配色がちぐはぐだったり、フォントの組み合わせが微妙だったり、業界に合わないスタイルが選ばれたりします。\n\n[UI UX Pro Max](https://github.com/nextlevelb",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYxNjEyOTglMkZjMWUzZmZkNmVhZGExOTY5ZmYzYzQ0YjE0ZmRlMDgxYmNkZTZmNTAwJTJGeF9sYXJnZS5wbmclM0YxNTg0ODQ1NTg0P2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz00ZGRjZmU5NTFjNTMyMzU3NjcyOGUzOTkyOTNmOGRlNQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D246367bff431168e6212d2602a3df494?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9VUklMjBVWCUyMFBybyUyME1heCVFRiVCQyU5QUFJJUUzJTgyJUIzJUUzJTgzJUJDJUUzJTgzJTg3JUUzJTgyJUEzJUUzJTgzJUIzJUUzJTgyJUIwJUUzJTgyJUEyJUUzJTgyJUI3JUUzJTgyJUI5JUUzJTgyJUJGJUUzJTgzJUIzJUUzJTgzJTg4JUUzJTgxJUFCJUUzJTgzJTg3JUUzJTgyJUI2JUUzJTgyJUE0JUUzJTgzJUIzJUUzJTgyJUJCJUUzJTgzJUIzJUUzJTgyJUI5JUUzJTgyJTkyJUU0JUI4JThFJUUzJTgxJTg4JUUzJTgyJThCU2tpbGwmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz0yMzgxNTIzOGJlODgyNzA4YjZhNjQwODkzMjA3MmY2NQ&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBub2dhdGFrYSZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWE5ODA4YTE0Zjg4Y2I0ZjQ5OWU2ZDA3NGYyY2E2YTNh&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=8b3da7dc57bbf8c48a072c6adf91828b",
-    "fetched_at": "2026-03-24 06:54:56",
-    "ja_summary": "AIコーディングアシスタントの出力するデザインの質を高めるためのツール「UI UX Pro Max」が登場。\n機能重視のAI生成物に、適切な配色やフォントなどプロ水準のUI/UXデザインを付加できる。\nデザインの洗練度を向上させ、より実用的で魅力的なランディングページ等の作成を支援する。"
-  },
-  {
-    "title": "みらい安野党首｢ラピダスには期待しているが…｣ | ダイジェスト版 | 東洋経済オンライン",
-    "link": "https://toyokeizai.net/articles/-/938944?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-    "source": "東洋経済オンライン",
-    "published": "Tue, 24 Mar 2026 06:01:00 +0900",
-    "summary": "「チームみらい」は、AIエンジニアの安野貴博氏が2025年に結党した国政政党だ。「テクノロジーで政治をア…",
-    "image": "https://tk.ismcdn.jp/mwimgs/d/a/1200w/img_da1a5ff458b6e263bf17913d04848b4a57116.jpg?nextgen=false",
-    "fetched_at": "2026-03-24 06:19:28",
-    "ja_summary": "・AIエンジニア安野貴博氏率いる「チームみらい」が、次世代半導体企業ラピダスに期待しつつも、国家予算投下の判断には慎重な姿勢。\n・巨額の公金支援に対し、投資対効果やリスク評価の透明性を重視する方針。\n・テクノロジー専門家の視点から、国策プロジェクトのあり方に独自の切り込みを入れている。"
-  },
-  {
-    "title": "生成AIが「下手な鉄砲」型サイバー攻撃を増やす、足元固めを急ごう",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00138/031901981/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "生成AIのインパクトが各方面に広がっている。サイバーセキュリティーの世界も生成AIによって脅威が増していることは確実だ。ただ専門家の最近の報告によると、筆者が想像していたありがちなシナリオとは全く違う方向で脅威を拡大しそうなことが分かってきた。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/00138/031901981/topm.jpg?20220512",
-    "fetched_at": "2026-03-24 06:19:41",
-    "ja_summary": "・生成AIの普及により、サイバー攻撃の脅威が予想外の形で拡大している。\n・特に、低コストで大量の攻撃を仕掛ける「下手な鉄砲」型の攻撃が増加傾向にある。\n・企業は、こうした新たなリスクに備え、足元のセキュリティー対策を急ぐ必要がある。"
-  },
-  {
-    "title": "あるソフトウェア企業のCEOから聞かされた恐ろしい予言",
-    "link": "https://www.businessinsider.jp/article/2603-software-ceo-stock-based-compensation-layoffs-ai-saas-atlassian/",
-    "source": "Business Insider Japan",
-    "published": "Mon, 23 Mar 2026 21:00:00 GMT",
-    "summary": "生成AIがSaaS業界を変革しており、アトラシアンやブロックが人員削減に踏み切っています。株式報酬と財務規律が重要な課題となっていると考えられています。",
-    "image": "https://media.loom-app.com/loom/2026/03/13/14efb34d-0a6b-49e6-8681-a95052d4d52c/original.jpg?w=1200&amp;h=630",
-    "fetched_at": "2026-03-24 06:19:49",
-    "ja_summary": "・生成AIの台頭によりSaaS業界で人員削減が加速している。\n・企業は株式報酬の見直しと財務規律の強化を迫られている。\n・AI変革期におけるコスト構造の適正化が喫緊の課題となっている。"
   }
 ]
