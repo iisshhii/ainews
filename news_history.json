@@ -1,5 +1,35 @@
 [
   {
+    "title": "OpenAI to acquire Astral",
+    "link": "https://openai.com/index/openai-to-acquire-astral",
+    "source": "OpenAI",
+    "published": "Thu, 19 Mar 2026 00:00:00 GMT",
+    "summary": "Accelerates Codex growth to power the next generation of Python developer tools",
+    "image": "https://openai.com/favicon.ico",
+    "fetched_at": "2026-03-24 21:05:47",
+    "ja_summary": "OpenAIがAstralを買収。\nこれにより、Python開発者向けツールの次世代開発を加速。\nAIモデルCodexの活用を強化する。"
+  },
+  {
+    "title": "究極のマルチパラダイム次世代プログラミング言語Flix",
+    "link": "https://zenn.dev/ababup1192/articles/cf73b13eae82da",
+    "source": "Zenn Trends",
+    "published": "Mon, 23 Mar 2026 13:28:08 GMT",
+    "summary": "みなさんは、複雑な要件を前にして「自分の実力不足」を痛感したことはないでしょうか。\n「もっと効率的なデータ構造はないか」「このアルゴリズムをより簡潔に表現できないか」「並行処理のバグが取れない……」といった悩みは、エンジニアなら誰もが一度は通る道です。\nしかし、その悩みは本当にあなた自身の「実力不足」だけが原因でしょうか。もしかすると、今使っている言語のパラダイムが、その問題に対して「最適ではない」だけかもしれません。\n本記事で紹介するのは、関数型の柔軟性を持ちつつ、論理プログラミングやエフェクト指向（Algebraic Effects）まで取り込んだ次世代のプログラミング言語 「Fli...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--Vi-SoS32--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E7%25A9%25B6%25E6%25A5%25B5%25E3%2581%25AE%25E3%2583%259E%25E3%2583%25AB%25E3%2583%2581%25E3%2583%2591%25E3%2583%25A9%25E3%2583%2580%25E3%2582%25A4%25E3%2583%25A0%25E6%25AC%25A1%25E4%25B8%2596%25E4%25BB%25A3%25E3%2583%2597%25E3%2583%25AD%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%259F%25E3%2583%25B3%25E3%2582%25B0%25E8%25A8%2580%25E8%25AA%259EFlix%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:ABAB%25E2%2586%2591%25E2%2586%2593BA%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2dqRm84X2NSbjU2WlRqUEpXQmNzQTVCMmZ0c1l6czFnUnAyRUZ5PXMyNTAtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-03-24 21:05:59",
+    "ja_summary": "「Flix」は、関数型、論理プログラミング、エフェクト指向を統合した次世代言語。\n複雑なプログラミングの悩みを、言語のパラダイム最適化で解決。\nエンジニアの「実力不足」ではなく、言語の限界だった可能性を示唆する。"
+  },
+  {
+    "title": "Claude Code を使いこなすために意識している 5つのこと",
+    "link": "https://zenn.dev/sunagaku/articles/claude-code-usage-mindset",
+    "source": "Zenn Trends",
+    "published": "Mon, 23 Mar 2026 10:08:18 GMT",
+    "summary": "はじめに\n僕自身、普段から Claude Code を使い個人開発や業務に取り組んでいて、スキルの自作や Agent Teams の活用などを行っています。\nその中で、「Claude Code を上手く使えるかどうか」は、ツール自体の知識よりも、日々の向き合い方や考え方の部分が大きいと感じるようになりました。\n同じツールを使っていても、使い方が上手い人とそうでない人では、アウトプットの質とスピードに差が出ます。上手く活用出来ている人達から色々と学ばせて頂く中で、自分なりに意識するようになったことをまとめてみました。\n「もっとClaude Code を上手く使いたい」と感じている方の参...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--yqV5P6Tj--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%2520%25E3%2582%2592%25E4%25BD%25BF%25E3%2581%2584%25E3%2581%2593%25E3%2581%25AA%25E3%2581%2599%25E3%2581%259F%25E3%2582%2581%25E3%2581%25AB%25E6%2584%258F%25E8%25AD%2598%25E3%2581%2597%25E3%2581%25A6%25E3%2581%2584%25E3%2582%258B%25205%25E3%2581%25A4%25E3%2581%25AE%25E3%2581%2593%25E3%2581%25A8%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%25B9%25E3%2583%258A%25E3%2582%25AC%25E3%2582%25AF%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzJkNDhmZDc4ZTYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-03-24 21:06:00",
+    "ja_summary": "Claude Code をより効果的に活用するには、ツールの知識だけでなく、日々の向き合い方や考え方が重要。\n上手く使う人とそうでない人では、アウトプットの質とスピードに差が出る。\n筆者が実践している、Claude Code を使いこなすための5つの意識すべき点を解説。"
+  },
+  {
     "title": "就活に広がるAI面接官　便利さの裏で企業が手放さない「最後の判断」",
     "link": "https://www.itmedia.co.jp/business/articles/2603/21/news026.html",
     "source": "ITmedia ビジネス",
@@ -968,35 +998,5 @@
     "image": "https://japan.zdnet.com/storage/2026/03/23/916751496868c7acd9ae29c006d618fb/t/184/138/d/hitachi_phsycaistd01.jpg",
     "fetched_at": "2026-03-23 18:12:34",
     "ja_summary": "・日立製作所がJR東京駅直結の施設に「フィジカルAI体験スタジオ」を開設。\n・社会課題解決を目指す「フィジカルAI」の社会実装を加速させる戦略拠点。\n・先端技術の活用を促し、事業共創を推進する狙い。"
-  },
-  {
-    "title": "ChatGPT、「中の人の会話」を見ずにトイレに行っているあなたが失うもの (ひとつ上の言語化)",
-    "link": "https://business.nikkei.com/atcl/gen/19/00759/031000026/",
-    "source": "日経ビジネス 最新",
-    "published": "",
-    "summary": "学生が出してきたプロンプトの順序を見ると、どんな順番で考えているのかも見えてきますし。それを整理すると、AIがどう処理するのだろうかということも、見えてくる気がしますね。",
-    "image": "https://business.nikkei.com/atcl/gen/19/00759/031000026/fb.jpg",
-    "fetched_at": "2026-03-23 17:07:57",
-    "ja_summary": "学生のプロンプトの順序を分析することで、思考のプロセスを可視化できる。\nその論理を整理すれば、AIがどのように情報を処理するかも理解できる。\nAI活用においては、思考の順序を意識的に構成することが重要である。"
-  },
-  {
-    "title": "カプコン「生成AIで生み出した素材をゲームコンテンツには実装しない」―AIへの対応方針を個人投資家向けに説明",
-    "link": "https://www.techno-edge.net/article/2026/03/23/4949.html",
-    "source": "TechnoEdge",
-    "published": "Mon, 23 Mar 2026 16:35:59 +0900",
-    "summary": "2025年1月には、アイデア出しの面で生成AIを活用していることが明かされていました。",
-    "image": "https://www.techno-edge.net/imgs/rss/30567.png",
-    "fetched_at": "2026-03-23 17:08:19",
-    "ja_summary": "・カプコンは生成AIをアイデア出しには活用する一方、ゲーム内の素材としては実装しない方針を明言。\n・知的財産権の保護や品質保持を重視し、生成AIの利用範囲を限定する姿勢を示した。\n・個人投資家向けに透明性の高いAI活用戦略を説明している。"
-  },
-  {
-    "title": "How we monitor internal coding agents for misalignment",
-    "link": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
-    "source": "OpenAI",
-    "published": "Thu, 19 Mar 2026 10:00:00 GMT",
-    "summary": "How OpenAI uses chain-of-thought monitoring to study misalignment in internal coding agents—analyzing real-world deployments to detect risks and strengthen AI safety safeguards.",
-    "image": "https://openai.com/favicon.ico",
-    "fetched_at": "2026-03-23 17:08:20",
-    "ja_summary": "・OpenAIはAIの誤作動やリスクを検知するため、社内のコーディングAIを対象に思考プロセス（Chain-of-Thought）を監視。\n・実際の開発環境における実データを用いて、AIが意図通りに動作しているかを継続的に分析。\n・得られた知見を基に安全対策を強化し、AIの誤用や不具合を未然に防ぐ体制を構築。"
   }
 ]
