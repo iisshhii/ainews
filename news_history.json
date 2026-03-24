@@ -1,5 +1,75 @@
 [
   {
+    "title": "AIを前提に経営を再設計しよう　今動かない企業に数年後は来ない (社長のための生成AI実践講座)",
+    "link": "https://business.nikkei.com/atcl/seminar/21nv/00047/022600006/",
+    "source": "日経ビジネス 最新",
+    "published": "",
+    "summary": "企業にとってAIは「強力な助っ人」だが、いつまでも導入しない企業を容赦なく市場から追い出す存在でもある。経営者自ら、今ここで動くかどうかが、数年後に「残る会社」と「消える会社」を分ける決定的な差になる。",
+    "image": "https://business.nikkei.com/atcl/seminar/21nv/00047/022600006/fb.jpg",
+    "fetched_at": "2026-03-25 05:01:27",
+    "ja_summary": "・AI導入は単なる業務改善ではなく、経営そのものを再設計する必須課題である。\n・導入を先延ばしにする企業は、数年以内に市場から淘汰されるリスクが高い。\n・今すぐ経営者主導でAIを取り入れ、競争力を再構築することが存続の条件となる。"
+  },
+  {
+    "title": "OpenHandsのツールやサービスを把握、WSLで開発環境を構築しよう",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03525/022700001/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "プログラミングやソフトウエア開発向けのAIエージェントは、様々なAIエージェントの中でも最も実用性が高く、急速に普及しつつあります。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03525/022700001/topm.jpg?20220512",
+    "fetched_at": "2026-03-25 05:01:30",
+    "ja_summary": "・実用性が高いプログラミング特化型AIエージェント「OpenHands」が急速に普及。\n・OpenHandsの活用に必要なツールやサービスについての理解を深める。\n・WSLを用いた効率的な開発環境の構築方法を解説する。"
+  },
+  {
+    "title": "Microsoftも実証「中空コア光ファイバー」、空気でガラスの限界突破へ",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11570/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "次世代の光ファイバー技術として、光が通る中心部のコアが空気でできた中空コア光ファイバー（HCF：Hollow Core Fiber）の開発が進展している。近年のAIデータセンターのニーズの高まりを背景に、実用化に向けた開発が進められている。米Microsoftや中国大手が先行する。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11570/SNS.jpg?20220512",
+    "fetched_at": "2026-03-25 05:01:31",
+    "ja_summary": "・次世代通信技術「中空コア光ファイバー」の開発がAIデータセンター需要を背景に加速。\n・中心部が空気のため、従来のガラス製光ファイバーの速度や遅延の限界を突破可能。\n・Microsoftなどの巨大テック企業が先行し、実用化に向けた動きが本格化している。"
+  },
+  {
+    "title": "NXP、フィジカルAI向けアプリプロセッサー　無線通信ICと統合",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11595/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "オランダNXP Semiconductors（NXPセミコンダクターズ）は、アプリケーションプロセッサーの新製品「i.MX 93W」を発表した。エッジ／フィジカルAI（人工知能）に向けた製品である。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11595/m.jpg?20220512",
+    "fetched_at": "2026-03-25 05:01:32",
+    "ja_summary": "NXPがエッジAI向け新プロセッサー「i.MX 93W」を発表。\nAI処理機能と無線通信機能を1チップに統合した。\n機器のAI化と通信を効率化し、フィジカルAIの普及を促進する。"
+  },
+  {
+    "title": "AMD、組み込み向けMPUのAI処理強化　車載にも対応",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11600/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "米AMDは組み込み向けマイクロプロセッサー（MPU）「Ryzen AI Embedded P100シリーズ」に8コアと10コア、12コアの製品を追加した。いずれも独自アーキテクチャーのAI処理向けNPUコアを搭載する。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11600/m.jpg?20220512",
+    "fetched_at": "2026-03-25 05:01:33",
+    "ja_summary": "・AMDが組み込み向けCPU「Ryzen AI」に8〜12コアの新モデルを追加。\n・全製品にAI処理専用のNPUを搭載し、性能を強化。\n・産業機器に加え、車載システムへの活用にも対応。"
+  },
+  {
+    "title": "認識が不可欠、AIに読み取らせてはいけない情報",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03553/031700003/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "AIエージェントを使いこなし、業務改革を成し遂げる上での勘所は何か。幅広い業界にコンサルティングサービスを提供するフォーティエンスコンサルティングが著した書籍「AIエージェント×業務改革 実践の教科書」の記載内容を基に、AIエージェントを活用した業務改革に立ち塞がる「壁」を乗り越える方法を解説する。　第1回では、AIを業務で活用するために必要な情報の読み取りを行う際の注意点について取り上げる。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03553/031700003/topm.jpg?20220512",
+    "fetched_at": "2026-03-25 05:01:33",
+    "ja_summary": "・AIエージェントによる業務改革を成功させるための実践的な知見を解説。\n・第1回は、AIに読み込ませてはいけない情報の線引きと注意点を焦点化。\n・業務でAIを活用する際の「壁」を乗り越え、安全かつ効果的に運用する方法を提示。"
+  },
+  {
+    "title": "知育か、それともリスクか　AI搭載おもちゃが子どもの発達に与える影響",
+    "link": "https://japan.cnet.com/article/35245367/",
+    "source": "CNET Japan",
+    "published": "",
+    "summary": "ケンブリッジ大学による新しい研究で、幼い子ども向けのAI搭載おもちゃが感情の合図を誤解し、発達に不可欠な「遊び」を支える上で効果的ではないことが明らかになった。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35245367/\"><img src=\"https://japan.cnet.com/storage/2026/03/23/19b82db4cd282e5816a5ad905234b235/t/184/138/d/mya-and-vicky-3_1280x960.jpg\" /></a>",
+    "image": "https://japan.cnet.com/storage/2026/03/23/19b82db4cd282e5816a5ad905234b235/t/184/138/d/mya-and-vicky-3_1280x960.jpg",
+    "fetched_at": "2026-03-25 05:01:40",
+    "ja_summary": "・ケンブリッジ大学の研究で、AI搭載おもちゃが子どもの感情を誤解し、発達を阻害する可能性が指摘された。\n・AIは子どもの成長に不可欠な「遊び」を十分にサポートできていないことが判明した。\n・知育に期待されるAI玩具だが、現時点では対人コミュニケーション等の面でリスクが懸念される。"
+  },
+  {
     "title": "Google AI Studio のフルスタックバイブコーディング機能の概要",
     "link": "https://note.com/npaka/n/n77bf70d9b349",
     "source": "note (npaka)",
@@ -928,75 +998,5 @@
     "image": "https://image.itmedia.co.jp/business/articles/2603/22/cover_news016.jpg",
     "fetched_at": "2026-03-23 20:54:10",
     "ja_summary": "・スクウェア・エニックスが「ドラクエ10」にグーグルの生成AI「ジェミニ」を導入。\n・AIとの会話機能を追加し、ゲーム内でのプレイヤー体験を向上させる。\n・ゲーム業界における生成AI活用の新たな事例として注目される。"
-  },
-  {
-    "title": "Claude Codeで「Issue起票→並列開発→PR作成」を全自動化したら、開発速度が異次元になった",
-    "link": "https://qiita.com/kazuki_ogawa/items/c05c3aed3bf8e46a7ddb",
-    "source": "Qiita (Popular)",
-    "published": "2026-03-15T17:03:27+09:00",
-    "summary": "## はじめに\n\n「Claude Codeで開発してるけど、1つずつ順番にIssueを片付けるのが遅い…」\n\nそんな悩みを解決するために、**Issue起票から並列開発、PR作成までを一気通貫で自動化するワークフロー**を構築しました。\n\n具体的には、Claude Codeの**Skills**を組み合わせて、以下を実現しています：\n\n1. **要件定義** — Claude Codeに「〇〇を作",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGMjU5MDg1MCUyRnByb2ZpbGUtaW1hZ2VzJTJGMTc2OTQwMDA4Nz9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9YzA0NzU0YjUyMTI3OGNkMzZjYWU4NjRlOTMwZTVjOGI%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkZhZmM0ZGJhZjAzNThlOGQwYjM0NmM4ZDc1ZWIwMzdiMjVmNjc4MDY5JTJGb3JpZ2luYWwuanBnJTNGMTYwNzc1NjU4OD9peGxpYj1yYi00LjAuMCZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz1lMDc1YzkzZTdkYmMzZjRlM2JiMTJhYTRjY2JhMTUzYg%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D7497e3c7596115b0a43dc14fe3782a0f?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9Q2xhdWRlJTIwQ29kZSVFMyU4MSVBNyVFMyU4MCU4Q0lzc3VlJUU4JUI1JUI3JUU3JUE1JUE4JUUyJTg2JTkyJUU0JUI4JUE2JUU1JTg4JTk3JUU5JTk2JThCJUU3JTk5JUJBJUUyJTg2JTkyUFIlRTQlQkQlOUMlRTYlODglOTAlRTMlODAlOEQlRTMlODIlOTIlRTUlODUlQTglRTglODclQUElRTUlOEIlOTUlRTUlOEMlOTYlRTMlODElOTclRTMlODElOUYlRTMlODIlODklRTMlODAlODElRTklOTYlOEIlRTclOTklQkElRTklODAlOUYlRTUlQkElQTYlRTMlODElOEMlRTclOTUlQjAlRTYlQUMlQTElRTUlODUlODMlRTMlODElQUIlRTMlODElQUElRTMlODElQTMlRTMlODElOUYmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1mYTVlZGM4YjI3YWRjMzNlZjQ5M2E0ZGM2MjcwYzQwMg&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBrYXp1a2lfb2dhd2EmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1iZjA5NmUzYTdlYzEzNWE5OTE4NzE5OGI3ZjBiMzdjYw&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=5qCq5byP5Lya56S-44K344Oz44K344Ki&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=5d6e77535f9059cab405b60f1ecf3e63",
-    "fetched_at": "2026-03-23 20:55:06",
-    "ja_summary": "Claude Codeと「Skills」を活用し、Issue起票から並列開発、PR作成までを一気通貫で自動化する仕組みを構築。\nタスクを逐次処理する従来の限界を突破し、開発速度を異次元のレベルまで高めることに成功した。\nAIによる自律的なワークフロー化により、開発効率の大幅な向上が期待できる手法である。"
-  },
-  {
-    "title": "NVIDIA、「AIエージェントの暴走リスク」に対処　OpenClaw向け新基盤を発表",
-    "link": "https://japan.cnet.com/article/35245281/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "自律的に動作するAIエージェントは、誤った判断や外部からの悪意ある指示によって「暴走するリスク」が指摘されている。こうした課題に対し、NVIDIAはOpenClaw向けの新たなリファレンススタック「NemoClaw」を発表した。エージェントを隔離環境で動作させるほか、通信の監視やポリシーによる制御機能を備え、リスクの抑制を図るとしている──。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35245281/\"><img src=\"https://japan.cnet.com/storage/2026/03/20/9e5235a5d06038b1fa96bf92453d50fd/t/184/138/d/img-3591.jpeg\" /></a>",
-    "image": "https://japan.cnet.com/storage/2026/03/20/9e5235a5d06038b1fa96bf92453d50fd/t/184/138/d/img-3591.jpeg",
-    "fetched_at": "2026-03-23 20:09:32",
-    "ja_summary": "・NVIDIAがAIエージェントの暴走を防ぐ新基盤「NemoClaw」を発表。\n・隔離環境での実行や通信監視により、誤動作や悪意ある指示のリスクを抑制。\n・AIの自律動作における安全性を高め、制御可能な環境構築を支援する。"
-  },
-  {
-    "title": "Claude Codeに長期記憶を持たせたら、壁打ちの質が変わった",
-    "link": "https://zenn.dev/noprogllama/articles/7c24b2c2410213",
-    "source": "Zenn Trends",
-    "published": "Sun, 22 Mar 2026 09:18:21 GMT",
-    "summary": "どうも、AIエンジニアの@noprogllamaです。普段はAIで日常の仕組み化をしたり、投資×テクノロジーの実践知を発信したりしています。\nCLAUDE.mdという仕組みがあります。プロジェクトのルートに置いておくと、Claude Codeがセッション開始時に読み込んで、プロジェクトの方針や技術スタックを把握してくれます。開発に必要な情報はこれで十分伝わります。\nですが、CLAUDE.mdには書けないものがあります。\n「前にこの方針で議論して、こういう理由で却下したよね」「あの時ハマったの、覚えてる？」——過去の会話の文脈です。\n私はClaude Codeを開発だけでなく壁打ち相手と...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--mywpDPHx--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%25E3%2581%25AB%25E9%2595%25B7%25E6%259C%259F%25E8%25A8%2598%25E6%2586%25B6%25E3%2582%2592%25E6%258C%2581%25E3%2581%259F%25E3%2581%259B%25E3%2581%259F%25E3%2582%2589%25E3%2580%2581%25E5%25A3%2581%25E6%2589%2593%25E3%2581%25A1%25E3%2581%25AE%25E8%25B3%25AA%25E3%2581%258C%25E5%25A4%2589%25E3%2582%258F%25E3%2581%25A3%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:noprogllama%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzc1NzFkNzFjMjguanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-    "fetched_at": "2026-03-23 20:09:55",
-    "ja_summary": "・Claude Codeの「CLAUDE.md」は基本情報の共有には有効だが、過去の試行錯誤や文脈の蓄積には不向き。\n・開発の壁打ち相手として使う際、過去の議論や失敗経験を長期記憶させる仕組みを導入した。\n・AIがプロジェクトの経緯を把握することで、文脈を汲み取った質の高い提案が可能になった。"
-  },
-  {
-    "title": "GitHub Copilot CLI で Azure Portal to Bicep",
-    "link": "https://speakerdeck.com/tsubakimoto_s/github-copilot-cli-de-azure-portal-to-bicep",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-03-23T06:56:34-04:00",
-    "summary": "第59回 Tokyo Jazug Night\nhttps://jazug.connpass.com/event/384470/",
-    "image": "https://files.speakerdeck.com/presentations/984813079695478488e87aa80ed7f698/preview_slide_0.jpg?38820842",
-    "fetched_at": "2026-03-23 20:09:57",
-    "ja_summary": "・GitHub Copilot CLIを活用し、Azure Portalの操作からIaC構成ファイル（Bicep）を生成する手法を解説。\n・第59回 Tokyo Jazug Nightにて、Azure環境の構築・管理効率化に関する技術知見を共有。\n・クラウドエンジニアやIaC導入を検討中の開発者向けの実践的なセッション。"
-  },
-  {
-    "title": "AgentCoreとLINEを使った飲食店おすすめアプリを作ってみた",
-    "link": "https://speakerdeck.com/yakumo/agentcoretolinewoshi-tutayin-shi-dian-osusumeapuriwozuo-tutemita",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-03-23T06:34:57-04:00",
-    "summary": "JAWS-UG AI/ML #36：Generative AI/ML LT大会\nhttps://jawsug-ai.connpass.com/event/385110/",
-    "image": "https://files.speakerdeck.com/presentations/f664ba7351eb437498d252cacce7a389/preview_slide_0.jpg?38819893",
-    "fetched_at": "2026-03-23 20:09:57",
-    "ja_summary": "・LINEで手軽に利用できる、AgentCoreを活用した飲食店おすすめアプリを開発。\n・AWSのコミュニティイベント（JAWS-UG AI/ML）で開発事例を発表。\n・生成AIとLINEを連携させ、パーソナライズされた店舗提案を実現する仕組みを解説。"
-  },
-  {
-    "title": "君はジョシュアツリーを知っているか？名前をつけて事象を正しく認識しよう / Do you know Joshua Tree?",
-    "link": "https://speakerdeck.com/ykanoh/do-you-know-joshua-tree",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-03-23T06:26:58-04:00",
-    "summary": "[発表中のツイート](https://x.com/search?q=since%3A2026-03-22_16%3A35%3A15_JST%20until%3A2026-03-22_16%3A41%3A30_JST%20%23phperkaigi&amp;src=typeahead_click&amp;f=live)\n\n[PHPerKaigi 2026](https://phperkaigi.jp/2026/)\n2026/03/22\nTrack A\nLT（5分）\n[発表概要](https://fortee.jp/phperkaigi-2026/proposal/f47ec410-6fc8-4048-abe0-81efb15eafb9)\n\n登壇者\n加納悠史（[@YKanoh65](https://x.com/YKanoh65)）\n\n#phperkaigi\n\n\n\"ジョシュアツリーの法則\"を知ってますか？\n「名前を知ればそれを認識できるようになる」「名前を知らないと認識できない」といった現象のことです。\n\n我々エンジニアの身の回りには様々な現象があり、中にはみんなが経験したことがあるものも多数存在します。\nそんな「現象」や「事象」の中には名前が付けられ、事象の解消や共有が行われているものがあります。\n名前を知ることは認識すること！\nこの発表を聴いてそんな\"\"あるある\"\"の名前を知り、事象を正しく認識して、次に生かしましょう！",
-    "image": "https://files.speakerdeck.com/presentations/71cea6c1882a4a6096220f6e05dc7d34/preview_slide_0.jpg?38819821",
-    "fetched_at": "2026-03-23 20:09:57",
-    "ja_summary": "「ジョシュアツリーの法則（名前を知ることで事象を正しく認識できる）」の重要性を解説する発表。\nエンジニアが直面する「あるある現象」に名前をつけて言語化し、共有することで課題解決を加速させる。\n既存の事象を正しく認識し、チーム内での共通言語化を図るためのヒントを得られる内容。"
-  },
-  {
-    "title": "PFN、直接水冷AI基盤「AImod」本格運用へ　IIJ・JAIST連携",
-    "link": "https://www.watch.impress.co.jp/docs/news/2095503.html",
-    "source": "Impress Watch",
-    "published": "",
-    "summary": "Preferred Networks(PFN)、インターネットイニシアティブ(IIJ)、北陸先端科学技術大学院大学(JAIST)は、直接水冷方式の高密度AIサーバーの運用を4月から本格化し、AI計算基盤の研究開発を加速すると発表した。",
-    "image": "https://www.watch.impress.co.jp/img/ipw/list/2095/503/01.jpg",
-    "fetched_at": "2026-03-23 19:13:57",
-    "ja_summary": "・PFN・IIJ・JAISTの3者が、直接水冷式の高密度AIサーバーを4月から本格運用。\n・高い冷却効率により、大規模AIの開発環境を強化。\n・産学連携を通じて、次世代のAI計算基盤の研究開発を加速させる。"
   }
 ]
