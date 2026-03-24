@@ -1,5 +1,25 @@
 [
   {
+    "title": "「2040年に売上40兆円」の勝ち筋は？　経産省が描く「AI・半導体・ロボット」三位一体の産業戦略",
+    "link": "https://www.itmedia.co.jp/business/articles/2603/23/news024.html",
+    "source": "ITmedia ビジネス",
+    "published": "Mon, 23 Mar 2026 07:00:00 +0900",
+    "summary": "特集「AI革命、日本企業の勝ち筋」では、AIインフラを担う国内トップ企業や識者にインタビューし、AI経済圏における日本企業の展望を探っていく。1回目は概論として、生成AIも含めた半導体・デジタル産業戦略の政策立案を担う経済産業省商務情報政策局の担当者に、戦略の全体像と民間企業に期待される役割について聞いた。",
+    "image": "https://image.itmedia.co.jp/business/articles/2603/23/cover_news024.jpg",
+    "fetched_at": "2026-03-24 14:47:06",
+    "ja_summary": "・経産省がAI・半導体・ロボットを核とした、2040年に40兆円規模を目指す産業戦略を策定。\n・生成AI等の次世代技術を主導するため、インフラから社会実装までの一貫したエコシステムを構築。\n・官民連携を強化し、民間企業が国内で投資・開発を加速させるための方向性と役割を提示。"
+  },
+  {
+    "title": "水冷・空冷ハイブリッドで熱課題に挑む--IIJら3者、コンテナー型DC「AImod」を披露",
+    "link": "https://japan.zdnet.com/article/35245403/",
+    "source": "ZDNET Japan",
+    "published": "",
+    "summary": "インターネットイニシアティブ（IIJ）など3者は、共同で構築した直接水冷方式モジュール型データセンター「AImod」を公開した。国内での大規模AI計算基盤の参照モデル確立を目指す。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35245403/\"><img src=\"https://japan.zdnet.com/storage/2026/03/24/bcf5804319b08bd1aa3b8a44ba980fa5/t/184/138/d/260323_iij_l.jpg\" /></a>",
+    "image": "https://japan.zdnet.com/storage/2026/03/24/bcf5804319b08bd1aa3b8a44ba980fa5/t/184/138/d/260323_iij_l.jpg",
+    "fetched_at": "2026-03-24 14:47:34",
+    "ja_summary": "・IIJらがコンテナー型データセンター「AImod」を公開。\n・水冷と空冷を組み合わせたハイブリッド冷却で、AI計算の熱課題を解決。\n・国内における大規模AIインフラの標準モデル確立を目指す。"
+  },
+  {
     "title": "三菱UFJ「エムット」に新資産形成サービス　eスマート証券とウェルスナビ統合",
     "link": "https://www.watch.impress.co.jp/docs/news/2095616.html",
     "source": "Impress Watch",
@@ -978,25 +998,5 @@
     "image": "https://res.cloudinary.com/zenn/image/upload/s--TkKhLJeT--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%2520%25E9%25A7%2586%25E5%258B%2595%25E9%2596%258B%25E7%2599%25BA%25E5%2585%25A8%25E7%259B%259B%25E6%259C%259F%25E3%2582%2592%25E7%2594%259F%25E3%2581%258D%25E6%258A%259C%25E3%2581%258F%25E3%2581%259F%25E3%2582%2581%25E3%2581%25AB%2520Markdown%2520%25E3%2582%2592%25E3%2580%258C%25E8%25AA%25AD%25E3%2582%2580%25E3%2580%258D%25E3%2581%259F%25E3%2582%2581%25E3%2581%25A0%25E3%2581%2591%25E3%2581%25AE%25E3%2582%25A2%25E3%2583%2597%25E3%2583%25AA%2520Arto%2520%25E3%2582%2592%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Alisue%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2ltbXNFMkVCdlk5bkw5T2hjT3ROSGMzdGhPcTBaU3ZZdzRMY1pKRWc9czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
     "fetched_at": "2026-03-23 08:49:39",
     "ja_summary": "・AI生成ドキュメントの閲覧環境に不満を感じ、Markdownを「読む」ことに特化したアプリ「Arto」を開発。\n・ブラウザのタブ増殖やローカル管理のしにくさといった、既存ツールの不便を解消。\n・「書く」のではなく「読む」体験を重視し、オフラインでも快適なドキュメント閲覧を実現。"
-  },
-  {
-    "title": "Coding Agentなどについて最近書いた/作ったもののまとめ",
-    "link": "https://zenn.dev/sakasegawa/articles/cc648c792823ea",
-    "source": "Zenn Trends",
-    "published": "Sun, 22 Mar 2026 10:50:54 GMT",
-    "summary": "こんにちは！逆瀬川ちゃん (@gyakuse)です！\n今日は最近作ったものとか書いたものについてまとめていきたいと思います。\nちなみに以前、毎日書くぞ〜ってアドベントカレンダー企画でやったときは13日でギブアップしていました。悲しみがあります。そのあとに10個のAIアプリケーションと3個のAIエージェントを1人で開発してみたと題してアプリケーションをドカドカ作るのを去年はやっていました。\nさいきんはVSR/AVSRとAI Agent/Computer-useあたりをやっていて、ついでにその周りでやったことや調べたことを記事として書いています。\nというわけで一つずつ公開順に紹介したいと思い...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--4tZa0sOT--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Coding%2520Agent%25E3%2581%25AA%25E3%2581%25A9%25E3%2581%25AB%25E3%2581%25A4%25E3%2581%2584%25E3%2581%25A6%25E6%259C%2580%25E8%25BF%2591%25E6%259B%25B8%25E3%2581%2584%25E3%2581%259F%252F%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%259F%25E3%2582%2582%25E3%2581%25AE%25E3%2581%25AE%25E3%2581%25BE%25E3%2581%25A8%25E3%2582%2581%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E9%2580%2586%25E7%2580%25AC%25E5%25B7%259D%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2NlNDdjZDU1MGYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-    "fetched_at": "2026-03-23 08:49:39",
-    "ja_summary": "・執筆者（@gyakuse）が直近の活動内容や制作物を公開順に紹介。\n・AIアプリケーション開発を経て、現在はVSR/AVSR技術やAI Agent/Computer-use分野に注力。\n・関連する研究や開発の知見をまとめた記事群を共有。"
-  },
-  {
-    "title": "GitHub Copilot CLIでSuperpowersスキルを導入してみた",
-    "link": "https://zenn.dev/jodycraft/articles/copilot-cli-superpowers-guide",
-    "source": "Zenn Trends",
-    "published": "Sun, 22 Mar 2026 00:06:32 GMT",
-    "summary": "📋 この記事の前提\n\nGitHub Copilot Pro 以上のサブスクリプションを契約済み\nGitHub Copilot CLI がインストール済み（v1.0.2〜）\nVS Code で GitHub Copilot 拡張を使った経験がある\nターミナル操作の基本がわかる\n\n\n\n この記事を読むと何ができるか\nGitHub Copilot に「開発ワークフローの型」を教える Superpowers というスキルライブラリを導入して、AIエージェントの自律的な開発フローを体験できるようになる。\n「Copilot CLI とVS Code拡張のどっちで使うべきか」で迷っている方に、両方...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--EydwVnET--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:GitHub%2520Copilot%2520CLI%25E3%2581%25A7Superpowers%25E3%2582%25B9%25E3%2582%25AD%25E3%2583%25AB%25E3%2582%2592%25E5%25B0%258E%25E5%2585%25A5%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:JodyCraft%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSXdMa1VNVFFwTDF0eFJLblhPTGdmWEhveW52Vmp4UVUzUldWa1h3YUNxdkswdUpPdzlrZz1zMjUwLWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-    "fetched_at": "2026-03-23 08:49:40",
-    "ja_summary": "GitHub Copilot CLIに「Superpowers」を導入し、AIエージェントによる自律的な開発フローを実現する方法を解説。\n導入条件やCLIとVS Code拡張の使い分けを整理し、開発ワークフローの効率化を支援する。\nAI活用を一段階進めたいエンジニア向けの実践的なチュートリアル。"
   }
 ]
