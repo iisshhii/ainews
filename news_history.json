@@ -1,5 +1,45 @@
 [
   {
+    "title": "課長の約7割、「生成AIを継続利用」　マネジメント業務での活用内容1位は？",
+    "link": "https://www.itmedia.co.jp/business/articles/2603/25/news037.html",
+    "source": "ITmedia ビジネス",
+    "published": "Wed, 25 Mar 2026 05:00:00 +0900",
+    "summary": "課長クラスの67％が生成AIを継続的に利用していることが分かった。",
+    "image": "https://image.itmedia.co.jp/business/articles/2603/25/cover_news037.jpg",
+    "fetched_at": "2026-03-25 05:57:08",
+    "ja_summary": "・課長層の約7割が生成AIを継続利用している。\n・マネジメント業務での活用が定着しつつある。\n・効率化ツールとして日常的な運用が進んでいる。"
+  },
+  {
+    "title": "AI時代のトラフィックはますます予測困難に、NaaSによる柔軟な制御が不可欠",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03551/031600002/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "AI（人工知能）時代にネットワークインフラはどうあるべきか。NTTドコモビジネスのエバンジェリストが最新の技術動向を解説し、今後を展望する。第2回はAI時代における基幹ネットワークの要件とトレンドを見ていく。（編集部）",
+    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03551/031600002/topm.jpg?20220512",
+    "fetched_at": "2026-03-25 05:57:23",
+    "ja_summary": "AI活用で通信トラフィックの予測が困難になる中、ネットワークの柔軟な制御が不可欠です。\n変化の激しい時代に対応するため、NaaS（Network as a Service）の導入が重要となります。\n最新の技術トレンドを踏まえ、次世代の基幹ネットワークに求められる要件を解説します。"
+  },
+  {
+    "title": "「プレゼン資料よりモノを作るほうが早い」ソフトウェア開発がAIで激変",
+    "link": "https://japan.cnet.com/article/35245436/",
+    "source": "CNET Japan",
+    "published": "",
+    "summary": "Anthropic Japanが3月24日、日本におけるClaude利用実態を公開。ソフトウェア開発での利用が11.5%で最多となり、人口あたりの利用量も予測を大きく上回るなど、日本の開発者がAI活用をけん引している実態が明らかになった。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35245436/\"><img src=\"https://japan.cnet.com/storage/2026/03/25/c21f631ed5728a12adfe61066e339f3d/t/184/138/d/03.jpg\" /></a>",
+    "image": "https://japan.cnet.com/storage/2026/03/25/c21f631ed5728a12adfe61066e339f3d/t/184/138/d/03.jpg",
+    "fetched_at": "2026-03-25 05:57:31",
+    "ja_summary": "・Anthropicの「Claude」の日本国内利用において、ソフトウェア開発が最多の11.5%を占める。\n・日本は人口あたりの利用量が予測を大幅に上回っており、開発現場でのAI活用が急拡大している。\n・「資料作成よりモノを作るのが早い」というAI導入効果により、日本の開発者がAI活用を牽引している。"
+  },
+  {
+    "title": "Claude Codeで「Issue起票→並列開発→PR作成」を全自動化したら、開発速度が異次元になった",
+    "link": "https://qiita.com/kazuki_ogawa/items/c05c3aed3bf8e46a7ddb",
+    "source": "Qiita (Popular)",
+    "published": "2026-03-15T17:03:27+09:00",
+    "summary": "## はじめに\n\n「Claude Codeで開発してるけど、1つずつ順番にIssueを片付けるのが遅い…」\n\nそんな悩みを解決するために、**Issue起票から並列開発、PR作成までを一気通貫で自動化するワークフロー**を構築しました。\n\n具体的には、Claude Codeの**Skills**を組み合わせて、以下を実現しています：\n\n1. **要件定義** — Claude Codeに「〇〇を作",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGMjU5MDg1MCUyRnByb2ZpbGUtaW1hZ2VzJTJGMTc2OTQwMDA4Nz9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9YzA0NzU0YjUyMTI3OGNkMzZjYWU4NjRlOTMwZTVjOGI%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkZhZmM0ZGJhZjAzNThlOGQwYjM0NmM4ZDc1ZWIwMzdiMjVmNjc4MDY5JTJGb3JpZ2luYWwuanBnJTNGMTYwNzc1NjU4OD9peGxpYj1yYi00LjAuMCZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz1lMDc1YzkzZTdkYmMzZjRlM2JiMTJhYTRjY2JhMTUzYg%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D7497e3c7596115b0a43dc14fe3782a0f?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9Q2xhdWRlJTIwQ29kZSVFMyU4MSVBNyVFMyU4MCU4Q0lzc3VlJUU4JUI1JUI3JUU3JUE1JUE4JUUyJTg2JTkyJUU0JUI4JUE2JUU1JTg4JTk3JUU5JTk2JThCJUU3JTk5JUJBJUUyJTg2JTkyUFIlRTQlQkQlOUMlRTYlODglOTAlRTMlODAlOEQlRTMlODIlOTIlRTUlODUlQTglRTglODclQUElRTUlOEIlOTUlRTUlOEMlOTYlRTMlODElOTclRTMlODElOUYlRTMlODIlODklRTMlODAlODElRTklOTYlOEIlRTclOTklQkElRTklODAlOUYlRTUlQkElQTYlRTMlODElOEMlRTclOTUlQjAlRTYlQUMlQTElRTUlODUlODMlRTMlODElQUIlRTMlODElQUElRTMlODElQTMlRTMlODElOUYmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1mYTVlZGM4YjI3YWRjMzNlZjQ5M2E0ZGM2MjcwYzQwMg&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBrYXp1a2lfb2dhd2EmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1iZjA5NmUzYTdlYzEzNWE5OTE4NzE5OGI3ZjBiMzdjYw&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=5qCq5byP5Lya56S-44K344Oz44K344Ki&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=5d6e77535f9059cab405b60f1ecf3e63",
+    "fetched_at": "2026-03-25 05:58:12",
+    "ja_summary": "・Claude Codeの機能を活用し、Issue起票から並列開発、PR作成までを全自動化。\n・作業の並列化により、従来の手動プロセスと比較して開発スピードを劇的に向上。\n・開発の初期工程から完了までを一気通貫で処理するワークフローを構築。"
+  },
+  {
     "title": "AIを前提に経営を再設計しよう　今動かない企業に数年後は来ない (社長のための生成AI実践講座)",
     "link": "https://business.nikkei.com/atcl/seminar/21nv/00047/022600006/",
     "source": "日経ビジネス 最新",
@@ -958,45 +998,5 @@
     "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYyMTUxMjglMkZjZDcxOTM0ZjMxOGIwMGYwZGQ0OTU3YjU4NTBiYzk4MGM5MjEwNGVkJTJGeF9sYXJnZS5wbmclM0YxNjM4NzU1ODYzP2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz04ODRkZWQ1N2U4Y2ExOTUxN2VmZTZmZmNmYWM1MzE3NA%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D5cd77a11418f8b504e00adb584054a60?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJThDJUU2JTk2JUIwJUU0JUJBJUJBJUUzJTgxJUFCQUklRTclQTYlODElRTYlQUQlQTIlRTQlQkIlQTQlRTMlODIlOTIlRTUlODclQkElRTMlODElOTclRTMlODElOUYlRTclQjUlODQlRTclQjklOTQlRTMlODAlOEQlRTMlODElOEMlRTMlODAlODElRTMlODElQTklRTMlODElQUUlRTMlODElOEYlRTMlODIlODklRTMlODElODQlRTklOTYlOEIlRTclOTklQkElRTMlODMlOTUlRTMlODMlQUQlRTMlODMlQkMlRTMlODElQTdBSSVFMyU4MiU5MiVFNCVCRCVCRiVFMyU4MSVBMyVFMyU4MSVBNiVFMyU4MSU4NCVFMyU4MiU4QiVFMyU4MSU4QiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTdhMThhZTYwYmFjZTMyNzczODUxNDdkOTYwMzY1MGQ0&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBXZGtuV2RrbiZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTg4MmRlYTAwN2NjMDczOGE0OTkyYWMxOTM2YTZkMGQ5&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=bb800852cb3378fbf81558535ab70525",
     "fetched_at": "2026-03-24 02:09:38",
     "ja_summary": "・新人へのAI禁止令を経て、現在はAIを開発フローに本格導入。\n・AIは「思考を補助するツール」と定義し、生産性向上に活用中。\n・AI依存を防ぎつつ、開発者のスキルアップと効率化を両立させる運用を実践している。"
-  },
-  {
-    "title": "大学卒業したばかりの「新社会人」向け、お金の使い方に関する&quot;賢い&quot;アドバイス3選",
-    "link": "https://www.businessinsider.jp/article/2603-financial-planners-money-advice-gen-z-college-grads-worried-future/",
-    "source": "Business Insider Japan",
-    "published": "Mon, 23 Mar 2026 08:30:00 GMT",
-    "summary": "アメリカの大卒者は、AI時代に突入したいま、就職の見通しや経済的な将来にますます不安を感じています。大学卒業後の若い社会人は、自分のニーズに合った予算を作成し、収支を管理すべきとファイナンシャルプランナーは勧めます。",
-    "image": "https://media.loom-app.com/loom/2026/03/23/57974983-033e-41dd-9fd6-b4092ead7bea/original.jpg?w=1200&amp;h=630",
-    "fetched_at": "2026-03-24 00:14:32",
-    "ja_summary": "・AI時代の経済的不安に対し、新社会人は自身の収支を把握し、身の丈に合った予算を作成することが不可欠。\n・専門家は、将来を見据えた健全な家計管理を早期に確立するよう推奨。\n・個々のニーズに合わせた計画的な資産管理が、経済的な安定への近道となる。"
-  },
-  {
-    "title": "AIツールを3つ以上並行して使うと、「脳の疲労」を引き起こして生産性が低下する可能性…最新の研究で明らかに",
-    "link": "https://www.businessinsider.jp/article/2603-ai-brain-fry-study-agents-uses/",
-    "source": "Business Insider Japan",
-    "published": "Sun, 22 Mar 2026 06:00:00 GMT",
-    "summary": "アメリカのフルタイム労働者1488人を対象にAIの利用状況について調査したところ、懸念すべき事象が明らかになりました。",
-    "image": "https://media.loom-app.com/loom/2026/03/11/35cad3af-8773-49f6-94d8-9452f5e5c2e7/original.jpg?w=1200&amp;h=630",
-    "fetched_at": "2026-03-23 23:10:22",
-    "ja_summary": "・AIツールを3つ以上同時に併用すると、脳疲労が生じ生産性が低下する。\n・フルタイム労働者1488人の調査で、過度なAI利用の弊害が判明した。\n・効率化を狙ったAIの多重使用が、かえって業務の妨げになる可能性がある。"
-  },
-  {
-    "title": "AI活用した運用改善v1",
-    "link": "https://speakerdeck.com/novi_tanaka/aihuo-yong-sitayun-yong-gai-shan-v1",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-03-23T08:04:59-04:00",
-    "summary": "OpenAIを利用したレポート/ドキュメント出力\n・AI活用した運用改善",
-    "image": "https://files.speakerdeck.com/presentations/f6dc6a1d8e0a4b65bc2aef60591faadf/preview_slide_0.jpg?38822060",
-    "fetched_at": "2026-03-23 21:46:52",
-    "ja_summary": "・OpenAIを活用したレポート・ドキュメント自動作成機能を導入\n・業務プロセスの効率化および運用改善を推進"
-  },
-  {
-    "title": "スクエニ、ドラクエ10に生成AI「ジェミニ」搭載　グーグルと連携しゲーム体験を向上",
-    "link": "https://www.itmedia.co.jp/business/articles/2603/22/news016.html",
-    "source": "ITmedia ビジネス",
-    "published": "Sun, 22 Mar 2026 10:30:00 +0900",
-    "summary": "スクウェア・エニックスは21日、米グーグルの生成人工知能（AI）「ジェミニ」を人気オンラインゲーム「ドラゴンクエスト（ドラクエ）10」に搭載し、プレーヤーと会話できる機能を追加すると発表した。",
-    "image": "https://image.itmedia.co.jp/business/articles/2603/22/cover_news016.jpg",
-    "fetched_at": "2026-03-23 20:54:10",
-    "ja_summary": "・スクウェア・エニックスが「ドラクエ10」にグーグルの生成AI「ジェミニ」を導入。\n・AIとの会話機能を追加し、ゲーム内でのプレイヤー体験を向上させる。\n・ゲーム業界における生成AI活用の新たな事例として注目される。"
   }
 ]
