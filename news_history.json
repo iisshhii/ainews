@@ -1,5 +1,25 @@
 [
   {
+    "title": "【AI軍事利用の是非】アンソロピックが国防… | 東洋経済オンラインYouTube | 東洋経済オンライン",
+    "link": "https://toyokeizai.net/articles/-/939223?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+    "source": "東洋経済オンライン",
+    "published": "Wed, 25 Mar 2026 19:00:00 +0900",
+    "summary": "生成AIサービス「Claude（クロード）」で急成長している米アンソロピックが、自社AIの軍事利用をめぐって…",
+    "image": "https://tk.ismcdn.jp/mwimgs/a/3/1200w/img_a32872066859be5ef4912c89aeded7df227419.jpg?nextgen=false",
+    "fetched_at": "2026-03-25 19:25:47",
+    "ja_summary": "・米アンソロピックが開発した生成AI「Claude」の国防・軍事利用を一部解禁。\n・安全性を重視してきた同社の方針転換が注目を集めている。\n・AIの軍事転用をめぐる倫理的議論や競争が激化している。"
+  },
+  {
+    "title": "メルカリ 生成AI画像巡り注意喚起",
+    "link": "https://news.yahoo.co.jp/pickup/6574196?source=rss",
+    "source": "Yahoo!ニュース IT・科学",
+    "published": "Wed, 25 Mar 2026 10:16:30 GMT",
+    "summary": "",
+    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/25/5a1240d75b8900790d5239524c3de4e1398341db5ff3e8dc49337ea9f5ede656.jpg",
+    "fetched_at": "2026-03-25 19:26:18",
+    "ja_summary": "・メルカリは、生成AIで作られた商品を実物と誤認するトラブルを懸念し注意喚起を実施。\n・AI生成画像を出品に用いる際は、必ず説明文にその旨を明記することを義務付けた。\n・未記載の場合は利用制限や削除の対象となるため、出品者はルールの遵守が必須。"
+  },
+  {
     "title": "Anthropic invests $100 million into the Claude Partner Network",
     "link": "https://www.anthropic.com/news/claude-partner-network",
     "source": "Anthropic (News)",
@@ -978,25 +998,5 @@
     "image": "https://www.digital.go.jp/themes/custom/gov_theme_da_2023/assets/images/ogp.png",
     "fetched_at": "2026-03-24 15:55:28",
     "ja_summary": "・法制事務における生成AI活用の技術検証および実装に関する一般競争入札を開始\n・令和8年度の本格導入を見据え、業務効率化や精度向上に向けた事業者を選定\n・入札参加を希望する事業者は、関連する仕様書や募集要項を確認すること"
-  },
-  {
-    "title": "【Claude Code】Kaggle上位勢が設定するClaude Codeのskillsとagentsをチェックする",
-    "link": "https://zenn.dev/nakakiiro/articles/kaggle_claude_code_boilerplate",
-    "source": "Zenn Trends",
-    "published": "Mon, 23 Mar 2026 11:13:43 GMT",
-    "summary": "はじめに\nClaude Codeを使い始めると、まずCLAUDE.mdにルールを書き込むことが習慣になってきます。ですが、.claude/ディレクトリ以下にスキル定義やカスタムエージェントを置けることはご存知でしょうか。\nスキルはClaude Codeに対して「この手順でやれ」という再利用可能な手順書を与えるもので、カスタムエージェントは役割に特化したモードを定義するものです。これをKaggleコンペに本格的に組み込んでいる方々がいて、しかもGitHubでボイラープレートとして公開してくれています。参考になったので備忘録的に紹介します。\n\n 忙しい人はここだけでOK\n\n\nmstさん（...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--favLsGNy--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590Claude%2520Code%25E3%2580%2591Kaggle%25E4%25B8%258A%25E4%25BD%258D%25E5%258B%25A2%25E3%2581%258C%25E8%25A8%25AD%25E5%25AE%259A%25E3%2581%2599%25E3%2582%258BClaude%2520Code%25E3%2581%25AEskills%25E3%2581%25A8agents%25E3%2582%2592%25E3%2583%2581%25E3%2582%25A7%25E3%2583%2583%25E3%2582%25AF%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:nakakiiro%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUxtNXd1M1hKcDNodXJyRzV5cDNzR19jZXJtREh6YXZMeGVqN3FUSDcxTTZuQT1zOTYtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-    "fetched_at": "2026-03-24 15:55:46",
-    "ja_summary": "・Claude Codeの`.claude/`ディレクトリを活用し、作業手順（スキル）や専門モード（エージェント）を定義して自動化効率を高める手法が注目されている。\n・Kaggle上位勢が公開しているボイラープレートを利用すれば、開発フローの最適化や標準化を即座に導入できる。\n・開発の定型作業を効率化したいエンジニアにとって、他者の設定例を参考に環境構築を最適化できる有益な情報源である。"
-  },
-  {
-    "title": "Raspberry Piではじめる自宅サーバー入門（第2巻：運用編）",
-    "link": "https://zenn.dev/murasanlab/books/10b6b15e557685",
-    "source": "Zenn Trends",
-    "published": "Mon, 23 Mar 2026 10:21:42 GMT",
-    "summary": "Raspberry Piでサーバーを立ち上げた。SSHで接続できるようになった。サービスも自動起動するようにした——\n\nでも、ふと不安がよぎります。「このサーバー、外から攻撃されたらどうしよう？」\n\n本書は、Raspberry Piサーバーを「動いている」状態から「安心して運用できる」状態へとステップアップさせるための1冊です。ファイアウォールで不要な通信を遮断し、不正アクセスを自動でブロックし、VPNで外出先から安全に接続する。さらにDockerを使って、サービスの構築・管理をモダンな手法で行えるようになります。\n\nコマンドを丸暗記するのではなく、「なぜその設定が必要なのか」「その仕組みはどうなっているのか」を一つずつ丁寧に解説しています。ufw、fail2ban、CrowdSec、Tailscale、WireGuard、Cloudflare Tunnel、Docker——これらの技術を、仕組みから理解して使いこなせる力を身につけます。\n\n本書は「Raspberry Piではじめる自宅サーバー入門」シリーズの第2巻（運用編）です。サーバーの「守り」と「つながり」を、ここから固めていきましょう。",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--F1DSiFjl--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci9iYjA1ZDljNTJiLmpwZWc=%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg?_a=BACAGSGT",
-    "fetched_at": "2026-03-24 15:55:46",
-    "ja_summary": "Raspberry Piサーバーを安全かつ快適に運用するための実践ガイド。\nファイアウォールや不正アクセス対策、安全な外部接続手法を解説。\nDockerを活用したモダンな管理術まで、仕組みを理解し運用力を高める。"
   }
 ]
