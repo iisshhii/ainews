@@ -1,5 +1,45 @@
 [
   {
+    "title": "MCPに考慮すべき3つのリスク　導入時に講じるセキュリティー設計",
+    "link": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/121800523/031900004/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "MCPを導入する際に考慮すべきセキュリティーリスクは3つある。それぞれについて、具体的な攻撃シナリオと対策を見ていく。「誰が、どのAIを通じて、何にアクセスできるか」を制御できていることが前提だ。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/121800523/031900004/topm.jpg?20220512",
+    "fetched_at": "2026-03-26 07:06:42",
+    "ja_summary": "・AI連携技術「MCP」導入時は、特有の3つのセキュリティリスクを把握する必要がある。\n・「誰が・どのAIで・何にアクセスできるか」の制御が安全運用の大前提となる。\n・各リスクに応じた攻撃シナリオを理解し、適切なセキュリティ設計を講じることが重要。"
+  },
+  {
+    "title": "ソニーの「PlayStaitonカー」構想、突然の打ち切り--どんなクルマだったのか",
+    "link": "https://japan.cnet.com/article/35245511/",
+    "source": "CNET Japan",
+    "published": "",
+    "summary": "ソニー・ホンダモビリティがEV「Afeela」セダンとSUVの開発中止を発表した。ホンダの電動化戦略見直しに伴い、計画継続が難しくなったという。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35245511/\"><img src=\"https://japan.cnet.com/storage/2026/03/26/811852e3574ed69412455232bfff1d76/t/184/138/d/afeela-prototype-2026-ces-4.jpeg\" /></a>",
+    "image": "https://japan.cnet.com/storage/2026/03/26/811852e3574ed69412455232bfff1d76/t/184/138/d/afeela-prototype-2026-ces-4.jpeg",
+    "fetched_at": "2026-03-26 07:06:53",
+    "ja_summary": "・ソニーとホンダの合弁会社が、EV「Afeela」のセダンとSUVの開発中止を発表。\n・ホンダ側の電動化戦略の見直しにより、事業継続が困難となったことが理由。\n・エンターテインメントと車を融合させた「PlayStationカー」構想は打ち切りへ。"
+  },
+  {
+    "title": "45分の作業がわずか数分で完了。IBMコンサルティングが公開したAIエージェントの稼働状況をリアルタイムで監視するサービス",
+    "link": "https://www.businessinsider.jp/article/ibm-ai-agent-consulting/",
+    "source": "Business Insider Japan",
+    "published": "Wed, 25 Mar 2026 21:40:00 GMT",
+    "summary": "IBMのコンサルティング部門において、未来とはスライド資料や戦略メモのことではなく、人間がAIエージェントの活動をリアルタイムでモニターできるライブダッシュボードだといいます。このダッシュボードとはどのようなものなのでしょうか。",
+    "image": "https://media.loom-app.com/loom/2026/03/24/fc9e713a-368a-49ea-a1e0-207ce7dadb5c/original.jpg?w=1200&amp;h=630",
+    "fetched_at": "2026-03-26 07:06:53",
+    "ja_summary": "・IBMがAIエージェントの稼働状況をリアルタイム監視するダッシュボードを公開。\n・複雑な作業を数分に短縮し、業務プロセスの可視化と効率化を実現。\n・戦略や資料作成といった計画段階を超え、AI運用の即時監視が新たな標準に。"
+  },
+  {
+    "title": "AIで高速化するサイバー攻撃に対応するネットワークの強化方法",
+    "link": "https://japan.zdnet.com/article/35245481/",
+    "source": "ZDNET Japan",
+    "published": "",
+    "summary": "マンディアントの報告書によれば、サイバー攻撃者の手口が巧妙化し、より持続的にもなっているため、IT担当者はスキルアップを図る必要がある。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35245481/\"><img src=\"https://japan.zdnet.com/storage/2026/03/25/3ad375a7776a3ba06c8f18d97084ffe6/t/184/138/d/111fasterattacksgettyimages-1168836247_l.jpg\" /></a>",
+    "image": "https://japan.zdnet.com/storage/2026/03/25/3ad375a7776a3ba06c8f18d97084ffe6/t/184/138/d/111fasterattacksgettyimages-1168836247_l.jpg",
+    "fetched_at": "2026-03-26 07:07:00",
+    "ja_summary": "・AIを悪用したサイバー攻撃が巧妙化・高速化している。\n・攻撃の手口がより持続的になっており、脅威が増大している。\n・IT担当者は最新の脅威に対抗するためのスキルアップが不可欠である。"
+  },
+  {
     "title": "何でも屋にはなれるけれど……Z世代ジョブホッパーに捧ぐ“偶然を味方につける”キャリア構築法",
     "link": "https://www.businessinsider.jp/article/2603-jobhopper-career-luck/",
     "source": "Business Insider Japan",
@@ -958,45 +998,5 @@
     "image": "https://openai.com/favicon.ico",
     "fetched_at": "2026-03-25 00:59:42",
     "ja_summary": "ChatGPTで、よりリッチな商品検索が可能に。\nAgentic Commerce Protocolで、商品比較や店舗連携も強化。\n視覚的にも魅力的なショッピング体験を提供。"
-  },
-  {
-    "title": "Update on the OpenAI Foundation",
-    "link": "https://openai.com/index/update-on-the-openai-foundation",
-    "source": "OpenAI",
-    "published": "Tue, 24 Mar 2026 09:00:00 GMT",
-    "summary": "The OpenAI Foundation announces plans to invest at least $1 billion in curing diseases, economic opportunity, AI resilience, and community programs.",
-    "image": "https://openai.com/favicon.ico",
-    "fetched_at": "2026-03-25 00:59:42",
-    "ja_summary": "OpenAI財団が10億ドル以上を医療、経済、AIの安定性、地域社会プログラムに投資。\n病気の根絶や経済的機会の創出などを目指す。\nAIの恩恵をより多くの人々に広げるための活動を強化。"
-  },
-  {
-    "title": "ChatGPT、「中の人の会話」を見ずにトイレに行っているあなたが失うもの (ひとつ上の言語化)",
-    "link": "https://business.nikkei.com/atcl/gen/19/00759/031000026/",
-    "source": "日経ビジネス 最新",
-    "published": "",
-    "summary": "学生が出してきたプロンプトの順序を見ると、どんな順番で考えているのかも見えてきますし。それを整理すると、AIがどう処理するのだろうかということも、見えてくる気がしますね。",
-    "image": "https://business.nikkei.com/atcl/gen/19/00759/031000026/fb.jpg",
-    "fetched_at": "2026-03-24 22:49:53",
-    "ja_summary": "ChatGPTのプロンプト順序から、思考プロセスやAIの処理を理解できる。\n学生のプロンプト分析で、学習やAI活用のヒントが見つかる。\n思考の「中の人」を見ずにAIを使うと、その本質的な理解を逃す。"
-  },
-  {
-    "title": "カプコン「生成AIで生み出した素材をゲームコンテンツには実装しない」―AIへの対応方針を個人投資家向けに説明",
-    "link": "https://www.techno-edge.net/article/2026/03/23/4949.html",
-    "source": "TechnoEdge",
-    "published": "Mon, 23 Mar 2026 16:35:59 +0900",
-    "summary": "2025年1月には、アイデア出しの面で生成AIを活用していることが明かされていました。",
-    "image": "https://www.techno-edge.net/imgs/rss/30567.png",
-    "fetched_at": "2026-03-24 22:50:17",
-    "ja_summary": "カプコンは、生成AIで作成した素材をゲームに直接使用しない方針。\nアイデア創出など、限定的な活用に留めている。\nAIへの対応方針を投資家向けに説明した。"
-  },
-  {
-    "title": "How we monitor internal coding agents for misalignment",
-    "link": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
-    "source": "OpenAI",
-    "published": "Thu, 19 Mar 2026 10:00:00 GMT",
-    "summary": "How OpenAI uses chain-of-thought monitoring to study misalignment in internal coding agents—analyzing real-world deployments to detect risks and strengthen AI safety safeguards.",
-    "image": "https://openai.com/favicon.ico",
-    "fetched_at": "2026-03-24 22:50:18",
-    "ja_summary": "OpenAIは、社内AIコーディングエージェントの「思考プロセス」を分析し、不具合（アラインメントのずれ）を早期に検出・修正する。\nこれにより、実際の運用で発生しうるリスクを把握し、AIの安全性を高めるための対策を強化している。\nこれは、AIが意図しない動作をするリスクを未然に防ぎ、より安全で信頼性の高いAI開発を目指す取り組みである。"
   }
 ]
