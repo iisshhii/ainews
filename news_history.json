@@ -1,5 +1,45 @@
 [
   {
+    "title": "AIとデジタルツインでひび割れ点検",
+    "link": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00008/031600313/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "人工知能（AI）とデジタルツインを活用して、発電所などの重要インフラ施設の点検を効率化する試みが進んでいる。清水建設とリコー、リコージャパンの3社が構築した、コンクリート構造物のひび割れ点検システムはその一例だ。2026年度に現場への適用を始める。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00008/031600313/sns_24.jpg?20220512",
+    "fetched_at": "2026-03-26 02:43:08",
+    "ja_summary": "・清水建設とリコーらが、AIとデジタルツインを用いたコンクリートひび割れ点検システムを開発。\n・インフラ点検を効率化し、2026年度からの現場適用を目指す。"
+  },
+  {
+    "title": "データセンター投資、オフィス超えへ",
+    "link": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00204/031600026/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "AI（人工知能）の急速な普及に伴って、米国ではデータセンター建設がかつてない規模で拡大している。用途別の建設投資で、2026年にデータセンターがオフィスを追い抜く公算が大きくなった。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00204/031600026/28_sns.jpg?20220512",
+    "fetched_at": "2026-03-26 02:43:09",
+    "ja_summary": "AI普及でデータセンター建設が急拡大。\n2026年にはオフィスへの投資を上回る見込み。\n米国で、データセンターが新たな投資の中心に。"
+  },
+  {
+    "title": "Inside our approach to the Model Spec",
+    "link": "https://openai.com/index/our-approach-to-the-model-spec",
+    "source": "OpenAI",
+    "published": "Wed, 25 Mar 2026 10:00:00 GMT",
+    "summary": "Learn how OpenAI’s Model Spec serves as a public framework for model behavior, balancing safety, user freedom, and accountability as AI systems advance.",
+    "image": "https://openai.com/favicon.ico",
+    "fetched_at": "2026-03-26 02:43:34",
+    "ja_summary": "OpenAIは、AIモデルの安全な運用とユーザーの自由、責任のバランスを取る「Model Spec」を公開。\nこれは、AIの進歩に伴い、モデルの振る舞いを規定する共通の枠組み。\n安全、自由、責任を両立させ、AI開発の指針となる。"
+  },
+  {
+    "title": "Introducing the OpenAI Safety Bug Bounty program",
+    "link": "https://openai.com/index/safety-bug-bounty",
+    "source": "OpenAI",
+    "published": "Wed, 25 Mar 2026 00:00:00 GMT",
+    "summary": "OpenAI launches a Safety Bug Bounty program to identify AI abuse and safety risks, including agentic vulnerabilities, prompt injection, and data exfiltration.",
+    "image": "https://openai.com/favicon.ico",
+    "fetched_at": "2026-03-26 02:43:34",
+    "ja_summary": "・OpenAIがAIの安全性向上に向けた「バグ報奨金制度」を開始\n・プロンプトインジェクションやデータ流出など、脆弱性の発見に報酬を提供\n・AIの悪用防止とセキュリティ強化を目的とした取り組み"
+  },
+  {
     "title": "米アンソロピックの毅然　AIの軍事利用巡りトランプ氏と対立の行方は (ニュースを突く)",
     "link": "https://business.nikkei.com/atcl/NBD/19/00108/00376/",
     "source": "日経ビジネス 最新",
@@ -958,45 +998,5 @@
     "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGMzYzNzIwNCUyRnByb2ZpbGUtaW1hZ2VzJTJGMTc3MjI4Njk1OT9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NjIyN2I1MTA1MTI4Zjk4NjQ3NzIxMWVkNmQzMzQ5NGY%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Dcf8a609748dabb40bb53ee930510b32b?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9Q2xhdWRlJTIwQ29kZSUyMCVFNyU5RiVBNSVFMyU4MiU4OSVFMyU4MSVBQSVFMyU4MSU4NCVFMyU4MSVBOCVFNiU5MCU4RCVFMyU4MSU5OSVFMyU4MiU4QiVFMyU4MiVCMyVFMyU4MyU5RSVFMyU4MyVCMyVFMyU4MyU4OSVFMyU4MyVCQiVFNiU5OSU4MiVFNyU5RiVBRCVFOCVBMSU5MyUyMDIwJUU5JTgxJUI4JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9MGRmN2MzMjNhNjVmMWI0ZmEyNzEwN2IzZTdlNzBlY2E&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBtaXJ1a3kmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1iMWMwZjM0MGFkNTI5NmU1ZmNjNDFiZDQxMGY0YWRjYw&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=538f658cdcbf463d6583da34d7ccee34",
     "fetched_at": "2026-03-24 19:33:37",
     "ja_summary": "Claude Codeの意外なコマンド・時短術20選を紹介。\n手作業の繰り返しをなくし、作業効率を劇的に向上させる裏技を難易度別に解説。\n公式ドキュメントを徹底調査した、知らなきゃ損する情報が満載。"
-  },
-  {
-    "title": "サムスン「Galaxy S26」が待望のAirDrop対応--iPhoneとのファイル共有が簡単に",
-    "link": "https://japan.cnet.com/article/35245343/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "サムスンの「Galaxy S26」シリーズは、今週からアップルの「AirDrop」への対応を開始する。これにより、写真やファイルを「iPhone」やMacに直接共有できるようになる。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35245343/\"><img src=\"https://japan.cnet.com/storage/2026/03/23/37d2351946c2c2d51c5b7645b95a6cc7/t/184/138/d/img-20260224-124606_1280x960.jpg\" /></a>",
-    "image": "https://japan.cnet.com/storage/2026/03/23/37d2351946c2c2d51c5b7645b95a6cc7/t/184/138/d/img-20260224-124606_1280x960.jpg",
-    "fetched_at": "2026-03-24 18:38:29",
-    "ja_summary": "サムスンのGalaxy S26がAirDropに対応。\niPhoneやMacとのファイル共有が容易になります。\n写真などのデータ転送がシームレスに。"
-  },
-  {
-    "title": "マイクロソフト、Copilot Coworkを披露　AIで成果を出す方法",
-    "link": "https://www.watch.impress.co.jp/docs/news/2095813.html",
-    "source": "Impress Watch",
-    "published": "",
-    "summary": "Microsoftは24日、最新のAI技術を活用事例とともに紹介するイベント「Microsoft AI Tour Tokyo 2026」を東京ビッグサイトで開催した。基調講演には、日本マイクロソフト 代表取締役社長の津坂美樹氏や、米Microsoft エグゼクティブ バイス プレジデント 兼 チーフ マーケティング オフィサーの沼本健氏らが登壇した。",
-    "image": "https://www.watch.impress.co.jp/img/ipw/list/2095/813/01.jpg",
-    "fetched_at": "2026-03-24 17:41:52",
-    "ja_summary": "・Microsoftが東京でAIイベントを開催し、最新技術や活用事例を披露した。\n・「Copilot Cowork」を軸に、AIを活用した生産性向上や具体的な成果の出し方を提案。\n・津坂社長や米本社幹部が登壇し、日本市場におけるAI戦略の重要性を強調した。"
-  },
-  {
-    "title": "もはや人月の時代ではない…大手ITコンサルティング会社が選んだ「AI時代の請求方法」…それはストリーミング・エンジニアリング",
-    "link": "https://www.businessinsider.jp/article/consulting-firm-rips-up-traditional-billing-playbook-ai-era-globant-b/",
-    "source": "Business Insider Japan",
-    "published": "Tue, 24 Mar 2026 08:05:00 GMT",
-    "summary": "グローバントは新しい価格設定モデルを試みています。CEOのマーティン・ミゴヤ氏は、これをコンサルティング会社が通常採用している方法からの「抜本的な転換」と呼んでいます。",
-    "image": "https://media.loom-app.com/loom/2025/06/09/c1c463cd-a2fa-4385-af1e-369257347c3a/original.jpg?w=1200&amp;h=630",
-    "fetched_at": "2026-03-24 17:41:57",
-    "ja_summary": "・IT大手グローバントが、従来の時間単価（人月）制を廃止した新たな料金モデルを導入。\n・成果や価値に基づく「ストリーミング・エンジニアリング」という手法に転換。\n・AI時代を見据え、労働時間ではなく提供価値で対価を得る体制への抜本的移行を図る。"
-  },
-  {
-    "title": "【書評】 作ってわかる大規模言語モデルの仕組み",
-    "link": "https://note.com/npaka/n/na8c148cd1fa2",
-    "source": "note (npaka)",
-    "published": "Fri, 13 Mar 2026 18:07:38 +0900",
-    "summary": "<p id=\"6aafce9a-7e4d-486a-a3cc-991ecc9823bf\" name=\"6aafce9a-7e4d-486a-a3cc-991ecc9823bf\">LLM（大規模言語モデル）の本はいろいろ出てきていますが、この『<strong>作ってわかる大規模言語モデルの仕組み</strong>』はかなりの良書です。理由はシンプルで、<strong>LLMを実際に作りながらその仕組みを理解できる本だから</strong>です。</p><p id=\"89714c77-b429-49f0-9c60-b6018ba4a9f1\" name=\"89714c77-b429-49f0-9c60-b6018ba4a9f1\">最近はLLMの解説記事や論文も増え、「Transformer」「LoRA」「RLHF」「DPO」といった言葉もよく見かけます。しかし、単語としては知っていても、</p><br /><a href=\"https://note.com/npaka/n/na8c148cd1fa2\">続きをみる</a>",
-    "image": "https://assets.st-note.com/production/uploads/images/258794679/rectangle_large_type_2_83c6149895c91e2b4f3e6dea43174b0d.jpeg?width=800",
-    "fetched_at": "2026-03-24 17:41:58",
-    "ja_summary": "・『作ってわかる大規模言語モデルの仕組み』は、実際に手を動かしてLLMを構築することでその構造を深く理解できる良書。\n・TransformerやLoRA、RLHFなどの専門用語を、理論だけでなく実践を通して習得できる。\n・LLMの仕組みを概念的に知るだけでなく、実装レベルで本質を学びたい人に最適な一冊。"
   }
 ]
