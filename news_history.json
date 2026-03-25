@@ -1,5 +1,15 @@
 [
   {
+    "title": "【書評】 作ってわかる大規模言語モデルの仕組み",
+    "link": "https://note.com/npaka/n/na8c148cd1fa2",
+    "source": "note (npaka)",
+    "published": "Fri, 13 Mar 2026 18:07:38 +0900",
+    "summary": "<p id=\"6aafce9a-7e4d-486a-a3cc-991ecc9823bf\" name=\"6aafce9a-7e4d-486a-a3cc-991ecc9823bf\">LLM（大規模言語モデル）の本はいろいろ出てきていますが、この『<strong>作ってわかる大規模言語モデルの仕組み</strong>』はかなりの良書です。理由はシンプルで、<strong>LLMを実際に作りながらその仕組みを理解できる本だから</strong>です。</p><p id=\"89714c77-b429-49f0-9c60-b6018ba4a9f1\" name=\"89714c77-b429-49f0-9c60-b6018ba4a9f1\">最近はLLMの解説記事や論文も増え、「Transformer」「LoRA」「RLHF」「DPO」といった言葉もよく見かけます。しかし、単語としては知っていても、</p><br /><a href=\"https://note.com/npaka/n/na8c148cd1fa2\">続きをみる</a>",
+    "image": "https://assets.st-note.com/production/uploads/images/258794679/rectangle_large_type_2_83c6149895c91e2b4f3e6dea43174b0d.jpeg?width=800",
+    "fetched_at": "2026-03-26 03:35:54",
+    "ja_summary": "・『作ってわかる大規模言語モデルの仕組み』は、LLMを実際に実装しながら深く理解できる良書。\n・TransformerやLoRAなど、断片的な専門用語の意味と構造を体系的に学べる。\n・LLMの仕組みを理論だけでなく、実践を通じて把握したい人におすすめ。"
+  },
+  {
     "title": "AIとデジタルツインでひび割れ点検",
     "link": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00008/031600313/",
     "source": "日経クロステック 総合",
@@ -988,15 +998,5 @@
     "image": "https://www.watch.impress.co.jp/img/ipw/list/2095/861/c02.jpg",
     "fetched_at": "2026-03-24 19:32:53",
     "ja_summary": "AI「Claude」がPC操作を自動化し、アプリ上でタスクを完結できるようになりました。\nまずはMac版で、Claude Pro/Maxユーザー向けに提供開始されます。\nこれにより、PC操作の手間が省け、業務効率化が期待できます。"
-  },
-  {
-    "title": "Claude Code 知らないと損するコマンド・時短術 20選",
-    "link": "https://qiita.com/miruky/items/48ede59ebe33b4b774ac",
-    "source": "Qiita (Popular)",
-    "published": "2026-03-19T12:46:24+09:00",
-    "summary": "## はじめに\n\nこんばんは、mirukyです。\nClaude Codeを使っていて、こんな経験はありませんか？\n\n- 毎回同じ操作を手動で繰り返している\n- もっと速くできるはずなのにやり方がわからない\n- 公式ドキュメントが膨大すぎて追いきれない\n\n本記事では、**公式ドキュメント・changelog（v2.1.76まで）を徹底的に調査**し、意外と知られていないコマンド・裏技を **難易度別",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGMzYzNzIwNCUyRnByb2ZpbGUtaW1hZ2VzJTJGMTc3MjI4Njk1OT9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NjIyN2I1MTA1MTI4Zjk4NjQ3NzIxMWVkNmQzMzQ5NGY%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Dcf8a609748dabb40bb53ee930510b32b?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9Q2xhdWRlJTIwQ29kZSUyMCVFNyU5RiVBNSVFMyU4MiU4OSVFMyU4MSVBQSVFMyU4MSU4NCVFMyU4MSVBOCVFNiU5MCU4RCVFMyU4MSU5OSVFMyU4MiU4QiVFMyU4MiVCMyVFMyU4MyU5RSVFMyU4MyVCMyVFMyU4MyU4OSVFMyU4MyVCQiVFNiU5OSU4MiVFNyU5RiVBRCVFOCVBMSU5MyUyMDIwJUU5JTgxJUI4JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9MGRmN2MzMjNhNjVmMWI0ZmEyNzEwN2IzZTdlNzBlY2E&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBtaXJ1a3kmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1iMWMwZjM0MGFkNTI5NmU1ZmNjNDFiZDQxMGY0YWRjYw&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=538f658cdcbf463d6583da34d7ccee34",
-    "fetched_at": "2026-03-24 19:33:37",
-    "ja_summary": "Claude Codeの意外なコマンド・時短術20選を紹介。\n手作業の繰り返しをなくし、作業効率を劇的に向上させる裏技を難易度別に解説。\n公式ドキュメントを徹底調査した、知らなきゃ損する情報が満載。"
   }
 ]
