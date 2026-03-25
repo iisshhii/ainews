@@ -1,5 +1,15 @@
 [
   {
+    "title": "CLAUDE.mdを設計するとClaude Codeの生産性が別物になる — 実際の設定と運用ワークフローを公開",
+    "link": "https://qiita.com/nogataka/items/1ad4e4ccaf47816c63e0",
+    "source": "Qiita (Popular)",
+    "published": "2026-03-18T22:14:33+09:00",
+    "summary": "\n## はじめに\n\nClaude Codeを使い始めた直後は感動します。自然言語でコードが書ける、テストも回してくれる、リファクタリングまでやってくれる。ところが1ヶ月ほど経つと、壁にぶつかります。\n\n- 「前にも同じ指示を出したのに、また違うスタイルで書いてくる」\n- 「プロジェクトのルールを毎回説明するのが面倒」\n- 「サブエージェントを使いたいけど、どう設計すればいいかわからない」\n\nこの壁",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYxNjEyOTglMkZjMWUzZmZkNmVhZGExOTY5ZmYzYzQ0YjE0ZmRlMDgxYmNkZTZmNTAwJTJGeF9sYXJnZS5wbmclM0YxNTg0ODQ1NTg0P2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz00ZGRjZmU5NTFjNTMyMzU3NjcyOGUzOTkyOTNmOGRlNQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D246367bff431168e6212d2602a3df494?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9Q0xBVURFLm1kJUUzJTgyJTkyJUU4JUE4JUFEJUU4JUE4JTg4JUUzJTgxJTk5JUUzJTgyJThCJUUzJTgxJUE4Q2xhdWRlJTIwQ29kZSVFMyU4MSVBRSVFNyU5NCU5RiVFNyU5NCVBMyVFNiU4MCVBNyVFMyU4MSU4QyVFNSU4OCVBNSVFNyU4OSVBOSVFMyU4MSVBQiVFMyU4MSVBQSVFMyU4MiU4QiUyMCVFMiU4MCU5NCUyMCVFNSVBRSU5RiVFOSU5QSU5QiVFMyU4MSVBRSVFOCVBOCVBRCVFNSVBRSU5QSVFMyU4MSVBOCVFOSU4MSU4QiVFNyU5NCVBOCVFMyU4MyVBRiVFMyU4MyVCQyVFMyU4MiVBRiVFMyU4MyU5NSVFMyU4MyVBRCVFMyU4MyVCQyVFMyU4MiU5MiVFNSU4NSVBQyVFOSU5NiU4QiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTQ1ZGYzY2E3MzZiYzY4ZTU5YjFkZjQ5ZmI0N2E2NWVj&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBub2dhdGFrYSZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWE5ODA4YTE0Zjg4Y2I0ZjQ5OWU2ZDA3NGYyY2E2YTNh&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=f086164930124ae6dba77fc18ece59cf",
+    "fetched_at": "2026-03-26 05:55:56",
+    "ja_summary": "Claude Codeの運用で生じる「ルールの不徹底」や「指示のマンネリ化」は、専用の設計ファイル「CLAUDE.md」を導入することで劇的に改善できる。\nプロジェクト固有のルールや設計指針を記述し、AIに読み込ませることで、精度の高いコード生成と開発効率の向上が実現可能。\n具体的な設定手順と運用ワークフローを導入すれば、Claude Codeのポテンシャルを最大限に引き出し、開発生産性を別次元へ引き上げられる。"
+  },
+  {
     "title": "三菱電機も出資、ユニコーン予備軍の燈　フィジカルAI「26年内に」",
     "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03181/031300027/",
     "source": "日経クロステック 総合",
@@ -988,15 +998,5 @@
     "image": "https://openai.com/favicon.ico",
     "fetched_at": "2026-03-24 21:05:47",
     "ja_summary": "OpenAIがAstralを買収。\nこれにより、Python開発者向けツールの次世代開発を加速。\nAIモデルCodexの活用を強化する。"
-  },
-  {
-    "title": "究極のマルチパラダイム次世代プログラミング言語Flix",
-    "link": "https://zenn.dev/ababup1192/articles/cf73b13eae82da",
-    "source": "Zenn Trends",
-    "published": "Mon, 23 Mar 2026 13:28:08 GMT",
-    "summary": "みなさんは、複雑な要件を前にして「自分の実力不足」を痛感したことはないでしょうか。\n「もっと効率的なデータ構造はないか」「このアルゴリズムをより簡潔に表現できないか」「並行処理のバグが取れない……」といった悩みは、エンジニアなら誰もが一度は通る道です。\nしかし、その悩みは本当にあなた自身の「実力不足」だけが原因でしょうか。もしかすると、今使っている言語のパラダイムが、その問題に対して「最適ではない」だけかもしれません。\n本記事で紹介するのは、関数型の柔軟性を持ちつつ、論理プログラミングやエフェクト指向（Algebraic Effects）まで取り込んだ次世代のプログラミング言語 「Fli...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--Vi-SoS32--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E7%25A9%25B6%25E6%25A5%25B5%25E3%2581%25AE%25E3%2583%259E%25E3%2583%25AB%25E3%2583%2581%25E3%2583%2591%25E3%2583%25A9%25E3%2583%2580%25E3%2582%25A4%25E3%2583%25A0%25E6%25AC%25A1%25E4%25B8%2596%25E4%25BB%25A3%25E3%2583%2597%25E3%2583%25AD%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%259F%25E3%2583%25B3%25E3%2582%25B0%25E8%25A8%2580%25E8%25AA%259EFlix%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:ABAB%25E2%2586%2591%25E2%2586%2593BA%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2dqRm84X2NSbjU2WlRqUEpXQmNzQTVCMmZ0c1l6czFnUnAyRUZ5PXMyNTAtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-    "fetched_at": "2026-03-24 21:05:59",
-    "ja_summary": "「Flix」は、関数型、論理プログラミング、エフェクト指向を統合した次世代言語。\n複雑なプログラミングの悩みを、言語のパラダイム最適化で解決。\nエンジニアの「実力不足」ではなく、言語の限界だった可能性を示唆する。"
   }
 ]
