@@ -1,5 +1,45 @@
 [
   {
+    "title": "Figma、AIエージェントがキャンバスを直接操作する新機能",
+    "link": "https://www.watch.impress.co.jp/docs/news/2096255.html",
+    "source": "Impress Watch",
+    "published": "",
+    "summary": "Figmaは24日(米国時間)、AIエージェントがFigmaキャンバス上でデザインを直接作成・編集できる機能を発表した。Figma MCPサーバーを通じて利用できるもので、新ツール「use_figma」と新機能「Skills」をベータ版として提供する。",
+    "image": "https://www.watch.impress.co.jp/img/ipw/list/2096/255/01.jpg",
+    "fetched_at": "2026-03-25 20:11:47",
+    "ja_summary": "・FigmaにAIエージェントがキャンバスを直接操作・編集できる新機能が登場。\n・「use_figma」や「Skills」等のツールを通じ、デザイン作業の自動化が可能に。\n・現在はベータ版として提供が開始されている。"
+  },
+  {
+    "title": "【Claude Code】Kaggle上位勢が設定するClaude Codeのskillsとagentsをチェックする",
+    "link": "https://zenn.dev/nakakiiro/articles/kaggle_claude_code_boilerplate",
+    "source": "Zenn Trends",
+    "published": "Mon, 23 Mar 2026 11:13:43 GMT",
+    "summary": "はじめに\nClaude Codeを使い始めると、まずCLAUDE.mdにルールを書き込むことが習慣になってきます。ですが、.claude/ディレクトリ以下にスキル定義やカスタムエージェントを置けることはご存知でしょうか。\nスキルはClaude Codeに対して「この手順でやれ」という再利用可能な手順書を与えるもので、カスタムエージェントは役割に特化したモードを定義するものです。これをKaggleコンペに本格的に組み込んでいる方々がいて、しかもGitHubでボイラープレートとして公開してくれています。参考になったので備忘録的に紹介します。\n\n 忙しい人はここだけでOK\n\n\nmstさん（...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--favLsGNy--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590Claude%2520Code%25E3%2580%2591Kaggle%25E4%25B8%258A%25E4%25BD%258D%25E5%258B%25A2%25E3%2581%258C%25E8%25A8%25AD%25E5%25AE%259A%25E3%2581%2599%25E3%2582%258BClaude%2520Code%25E3%2581%25AEskills%25E3%2581%25A8agents%25E3%2582%2592%25E3%2583%2581%25E3%2582%25A7%25E3%2583%2583%25E3%2582%25AF%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:nakakiiro%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUxtNXd1M1hKcDNodXJyRzV5cDNzR19jZXJtREh6YXZMeGVqN3FUSDcxTTZuQT1zOTYtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-03-25 20:12:30",
+    "ja_summary": "・Claude Codeは「CLAUDE.md」だけでなく、.claude/ディレクトリでスキルやカスタムエージェントの定義が可能。\n・Kaggle上位勢が公開しているスキル設定やボイラープレートを活用することで、開発の効率化と手順の標準化を実現できる。\n・これらを組み込むことで、Claude Codeを特定タスクに特化した強力なツールとしてカスタマイズできる。"
+  },
+  {
+    "title": "Raspberry Piではじめる自宅サーバー入門（第2巻：運用編）",
+    "link": "https://zenn.dev/murasanlab/books/10b6b15e557685",
+    "source": "Zenn Trends",
+    "published": "Mon, 23 Mar 2026 10:21:42 GMT",
+    "summary": "Raspberry Piでサーバーを立ち上げた。SSHで接続できるようになった。サービスも自動起動するようにした——\n\nでも、ふと不安がよぎります。「このサーバー、外から攻撃されたらどうしよう？」\n\n本書は、Raspberry Piサーバーを「動いている」状態から「安心して運用できる」状態へとステップアップさせるための1冊です。ファイアウォールで不要な通信を遮断し、不正アクセスを自動でブロックし、VPNで外出先から安全に接続する。さらにDockerを使って、サービスの構築・管理をモダンな手法で行えるようになります。\n\nコマンドを丸暗記するのではなく、「なぜその設定が必要なのか」「その仕組みはどうなっているのか」を一つずつ丁寧に解説しています。ufw、fail2ban、CrowdSec、Tailscale、WireGuard、Cloudflare Tunnel、Docker——これらの技術を、仕組みから理解して使いこなせる力を身につけます。\n\n本書は「Raspberry Piではじめる自宅サーバー入門」シリーズの第2巻（運用編）です。サーバーの「守り」と「つながり」を、ここから固めていきましょう。",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--F1DSiFjl--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci9iYjA1ZDljNTJiLmpwZWc=%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg?_a=BACAGSGT",
+    "fetched_at": "2026-03-25 20:12:31",
+    "ja_summary": "Raspberry Piサーバーを安全かつ快適に運用するための実践ガイド。\nファイアウォールやVPNによるセキュリティ強化から、Dockerを用いたモダンな管理手法までを解説。\nコマンドの丸暗記ではなく、仕組みの理解に重点を置き、自宅サーバーの「守り」と「接続」を完結させる。"
+  },
+  {
+    "title": "AI時代のIssue駆動開発のススメ",
+    "link": "https://speakerdeck.com/moongift/aishi-dai-noissuequ-dong-kai-fa-nosusume",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-03-25T06:58:00-04:00",
+    "summary": "Yokohama North Meetup #14 〜AI について語ろう！〜 - connpass\nhttps://yokohama-north.connpass.com/event/382689/\n\nでの発表資料です。",
+    "image": "https://files.speakerdeck.com/presentations/038fec80e3744f29b3273488d1b25a06/preview_slide_0.jpg?38848799",
+    "fetched_at": "2026-03-25 20:12:31",
+    "ja_summary": "・AI時代において、課題（Issue）を起点に開発を進める手法が重要化。\n・AIを活用してIssue駆動開発を効率化・加速させるための具体的な実践論。\n・開発プロセスの透明性と生産性を高めるための知見を共有する勉強会発表。"
+  },
+  {
     "title": "【AI軍事利用の是非】アンソロピックが国防… | 東洋経済オンラインYouTube | 東洋経済オンライン",
     "link": "https://toyokeizai.net/articles/-/939223?utm_source=rss&utm_medium=http&utm_campaign=link_back",
     "source": "東洋経済オンライン",
@@ -958,45 +998,5 @@
     "image": "https://japan.cnet.com/storage/2026/03/24/8b7a238e4a2ad75946aa6baed137415b/t/184/138/d/gettyimages-1242720271_1280x960.jpg",
     "fetched_at": "2026-03-24 15:55:16",
     "ja_summary": "イーロン・マスク氏がテキサス州に4兆円規模の巨大半導体工場「TERAFAB」を建設する。\nTesla、SpaceX、xAIの3社が提携し、共同で製造拠点を整備する計画。\nAI開発や事業展開に必要な半導体の安定供給と内製化を目指す。"
-  },
-  {
-    "title": "グーグル幹部、安全保障に関わる政府契約獲得に「積極的に取り組む」と社内説明【録音入手】",
-    "link": "https://www.businessinsider.jp/article/google-department-defense-military-contract-ai-deepmind-national-security-deals-2026-3/",
-    "source": "Business Insider Japan",
-    "published": "Tue, 24 Mar 2026 06:30:00 GMT",
-    "summary": "グーグル（Google）のAI開発部門ディープマインド（Google DeepMind）の経営幹部らが、国防総省との政府契約業務に関して従業員からの質問に回答しました。\n複数の幹部発言によれば、同社はサイバーセキュリティやバイオ（対病原体・毒素）セキュリティなど国家安全保障関連の契約獲得を目指している模様です。",
-    "image": "https://media.loom-app.com/loom/2026/03/24/607534c3-d934-4718-b31e-4e5029c93a21/original.jpg?w=1200&amp;h=630",
-    "fetched_at": "2026-03-24 15:55:18",
-    "ja_summary": "・Google DeepMind幹部が、国防総省との契約獲得に注力する意向を表明。\n・サイバー・バイオセキュリティなどの国家安全保障分野を主要ターゲットに設定。\n・AI技術を軍事・防衛関連へ積極的に活用する方針を社内で明確化。"
-  },
-  {
-    "title": "患者情報の文書 AI要約広がる",
-    "link": "https://news.yahoo.co.jp/pickup/6574085?source=rss",
-    "source": "Yahoo!ニュース IT・科学",
-    "published": "Tue, 24 Mar 2026 06:13:14 GMT",
-    "summary": "",
-    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/24/67f6592b5c5ff075c4d983f8940d92522358e158bdf16830b2751c47fa142edb.jpg",
-    "fetched_at": "2026-03-24 15:55:23",
-    "ja_summary": "・医療現場でAIを活用した患者情報の文書要約が急速に普及している。\n・医師の事務作業負担が大幅に軽減され、診療時間の確保につながる。\n・情報の正確性を保ちつつ、業務効率化を推進する新たなツールとして注目されている。"
-  },
-  {
-    "title": "ガバメントAI「源内」に関する取組をまとめたページを公開しました",
-    "link": "https://www.digital.go.jp/policies/gennai",
-    "source": "デジタル庁",
-    "published": "Tue, 24 Mar 2026 15:00:00 +0900",
-    "summary": "",
-    "image": "https://www.digital.go.jp/assets/contents/node/basic_page/field_thumbnail_image/cef0122b-0598-47f8-8a48-dc2c57d407c1/d8639adc/kv_gennai_260216.png",
-    "fetched_at": "2026-03-24 15:55:27",
-    "ja_summary": "政府専用AI「ガバメントAI『源内』」の取り組みを紹介する特設ページが公開されました。\n行政業務の効率化を目指す同AIの活用事例や開発方針が確認できます。\nデジタル庁が推進する行政DXの最新情報を誰でも閲覧可能です。"
-  },
-  {
-    "title": "一般競争入札：令和8年度法制事務における生成AIの活用等に関する技術検証・実装を掲載しました",
-    "link": "https://www.digital.go.jp/procurement",
-    "source": "デジタル庁",
-    "published": "Tue, 24 Mar 2026 15:00:00 +0900",
-    "summary": "",
-    "image": "https://www.digital.go.jp/themes/custom/gov_theme_da_2023/assets/images/ogp.png",
-    "fetched_at": "2026-03-24 15:55:28",
-    "ja_summary": "・法制事務における生成AI活用の技術検証および実装に関する一般競争入札を開始\n・令和8年度の本格導入を見据え、業務効率化や精度向上に向けた事業者を選定\n・入札参加を希望する事業者は、関連する仕様書や募集要項を確認すること"
   }
 ]
