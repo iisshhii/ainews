@@ -1,5 +1,25 @@
 [
   {
+    "title": "「見た目」と「意味」をAIが判定 ～ビジュアルアサーションで変わる テストの守備範囲～",
+    "link": "https://speakerdeck.com/mfunaki/jian-tamu-to-yi-wei-woaigapan-ding-biziyuaruasasiyondebian-waru-tesutonoshou-bei-fan-wei",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-03-25T01:05:12-04:00",
+    "summary": "2026年3月25日に開催したmablウェビナーのスライドです。",
+    "image": "https://files.speakerdeck.com/presentations/b74e4378bd9746e5982b63e85b9b54ea/preview_slide_0.jpg?38843056",
+    "fetched_at": "2026-03-25 14:23:14",
+    "ja_summary": "・AIが「見た目」と「意味」の両面からWebサイトを判定する「ビジュアルアサーション」の活用法を解説。\n・従来のテストでは困難だった視覚的な不具合の検知を自動化し、テストの網羅性を向上させる。\n・ソフトウェア開発における品質保証の効率化と、守備範囲を広げる最新のテスト手法を提案。"
+  },
+  {
+    "title": "「OpenAI APIのトークン消費量をざっくり計算して」と頼まれて調べたら絶望した話",
+    "link": "https://qiita.com/GeneLab_999/items/04ff280edc3178b60104",
+    "source": "Qiita (Popular)",
+    "published": "2026-03-19T12:57:17+09:00",
+    "summary": "## この記事の対象読者\n\n- OpenAI APIを使ったアプリケーションを開発している（またはこれからする）人\n- 「日本語だとトークン数どれくらいになるの？」と聞かれて困った経験がある人\n- APIのコスト見積もりを上司やクライアントに提出する必要がある人\n- [LLM](https://qiita.com/GeneLab_999/items/7f1bd2de313bdd7ca423)のトー",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGMzkwODk4MSUyRnByb2ZpbGUtaW1hZ2VzJTJGMTc2OTQ5Njg5Mj9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9N2Y2MjUxYmExY2YwZTBlZmI2NjlkY2I2N2Q4OTU0YzE%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D10d82949e0f175323ec45b5b3ba12f03?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJThDT3BlbkFJJTIwQVBJJUUzJTgxJUFFJUUzJTgzJTg4JUUzJTgzJUJDJUUzJTgyJUFGJUUzJTgzJUIzJUU2JUI2JTg4JUU4JUIyJUJCJUU5JTg3JThGJUUzJTgyJTkyJUUzJTgxJTk2JUUzJTgxJUEzJUUzJTgxJThGJUUzJTgyJThBJUU4JUE4JTg4JUU3JUFFJTk3JUUzJTgxJTk3JUUzJTgxJUE2JUUzJTgwJThEJUUzJTgxJUE4JUU5JUEwJUJDJUUzJTgxJUJFJUUzJTgyJThDJUUzJTgxJUE2JUU4JUFBJUJGJUUzJTgxJUI5JUUzJTgxJTlGJUUzJTgyJTg5JUU3JUI1JUI2JUU2JTlDJTlCJUUzJTgxJTk3JUUzJTgxJTlGJUU4JUE5JUIxJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9ZTU2MTgyYjQ3OTVmMzhjYTRlMDIzZGYyMzNkYjBiMzU&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBHZW5lTGFiXzk5OSZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTU5ZDg2ZjJmZTM5NjRiYzBmM2NhZjNkODI2OGZhYTAy&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=69d1f21bab17dbe0758c122bf26865bd",
+    "fetched_at": "2026-03-25 14:23:16",
+    "ja_summary": "・日本語は英語と比べてトークン消費量が多く、APIコストが予想以上に膨らみやすい。\n・モデルごとにトークン計算式が異なるため、見積もり作成には注意が必要。\n・実運用前に検証ツール等で正確なコスト感を把握することが開発の必須条件。"
+  },
+  {
     "title": "ファミマ、生成AIで「バイト募集原稿」を自動生成　作成時間を10分の1に",
     "link": "https://www.itmedia.co.jp/business/articles/2603/25/news080.html",
     "source": "ITmedia ビジネス",
@@ -978,25 +998,5 @@
     "image": "https://japan.zdnet.com/storage/2026/03/24/d503dd786d947b2ade64c7724896a762/t/184/138/d/bueclawscreenshot-2026-03-23-153726_l.jpg",
     "fetched_at": "2026-03-24 09:00:15",
     "ja_summary": "・シスコシステムズがAIエージェントの安全な運用を支援する新基盤「DefenseClaw」を発表。\n・AI利用におけるセキュリティ確保と統制の強化を目的としたプラットフォーム。\n・世界最大級のセキュリティイベント「RSA Conference」にて公開された。"
-  },
-  {
-    "title": "アドビ、coldrain主催大型音楽フェス「BLARE FEST. 2026」に出展　生成AIで世界に1つだけのロゴ制作[Sponsored]",
-    "link": "https://www.watch.impress.co.jp/docs/topic/special/2087728.html",
-    "source": "Impress Watch",
-    "published": "",
-    "summary": "アドビは、2月7日・8日に開催されたcoldrain主催の音楽フェス「BLARE FEST. 2026」にて協賛ブースを出展。来場者は、Adobe FireflyやAdobe Expressを使った、BLARE FEST.のオリジナルロゴ制作やタイムテーブル制作を体験しました。",
-    "image": "https://www.watch.impress.co.jp/img/ipw/list/2087/728/adobe_01.jpg",
-    "fetched_at": "2026-03-24 08:31:57",
-    "ja_summary": "・アドビがcoldrain主催の音楽フェス「BLARE FEST. 2026」に協賛出展。\n・来場者が生成AI「Adobe Firefly」等を使い、自分だけのロゴやタイムテーブルを制作。\n・最新AIツールを体験できるクリエイティブな場を提供。"
-  },
-  {
-    "title": "Sydney will become Anthropic’s fourth office in Asia-Pacific",
-    "link": "https://www.anthropic.com/news/sydney-fourth-office-asia-pacific",
-    "source": "Anthropic (News)",
-    "published": "Tue, 10 Mar 2026 00:00:00 +0000",
-    "summary": "Sydney will become Anthropic’s fourth office in Asia-Pacific",
-    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Globe&amp;backgroundColor=sky",
-    "fetched_at": "2026-03-24 08:32:19",
-    "ja_summary": "・AI開発企業Anthropicが、シドニーにアジア太平洋地域で4拠点目となる新オフィスを開設する。\n・同社のグローバル展開を加速させ、同地域でのプレゼンスを強化する狙い。"
   }
 ]
