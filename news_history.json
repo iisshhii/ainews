@@ -1,5 +1,15 @@
 [
   {
+    "title": "Security in the AI Agent era",
+    "link": "https://speakerdeck.com/pict3/security-in-the-ai-agent-era",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-03-26T08:18:33-04:00",
+    "summary": "OWASP top 10 for Agentic AI などをメインとしたコンテンツ。\n一部、for Google Cloud。",
+    "image": "https://files.speakerdeck.com/presentations/3bb14e95087d48828b66f34075f2871c/preview_slide_0.jpg?38865398",
+    "fetched_at": "2026-03-26 21:40:11",
+    "ja_summary": "・AIエージェントの普及に伴う新たなセキュリティ脅威（OWASP Top 10）を解説。\n・エージェント特有のリスクと、Google Cloud環境での防御策に焦点を当てる。\n・AI活用におけるセキュリティ対策の最新ガイドラインを提示。"
+  },
+  {
     "title": "メルカリ 生成AI画像巡り注意喚起",
     "link": "https://news.yahoo.co.jp/pickup/6574196?source=rss",
     "source": "Yahoo!ニュース IT・科学",
@@ -988,15 +998,5 @@
     "image": "https://www.watch.impress.co.jp/img/ipw/list/2096/255/01.jpg",
     "fetched_at": "2026-03-25 20:11:47",
     "ja_summary": "・FigmaにAIエージェントがキャンバスを直接操作・編集できる新機能が登場。\n・「use_figma」や「Skills」等のツールを通じ、デザイン作業の自動化が可能に。\n・現在はベータ版として提供が開始されている。"
-  },
-  {
-    "title": "【Claude Code】Kaggle上位勢が設定するClaude Codeのskillsとagentsをチェックする",
-    "link": "https://zenn.dev/nakakiiro/articles/kaggle_claude_code_boilerplate",
-    "source": "Zenn Trends",
-    "published": "Mon, 23 Mar 2026 11:13:43 GMT",
-    "summary": "はじめに\nClaude Codeを使い始めると、まずCLAUDE.mdにルールを書き込むことが習慣になってきます。ですが、.claude/ディレクトリ以下にスキル定義やカスタムエージェントを置けることはご存知でしょうか。\nスキルはClaude Codeに対して「この手順でやれ」という再利用可能な手順書を与えるもので、カスタムエージェントは役割に特化したモードを定義するものです。これをKaggleコンペに本格的に組み込んでいる方々がいて、しかもGitHubでボイラープレートとして公開してくれています。参考になったので備忘録的に紹介します。\n\n 忙しい人はここだけでOK\n\n\nmstさん（...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--favLsGNy--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590Claude%2520Code%25E3%2580%2591Kaggle%25E4%25B8%258A%25E4%25BD%258D%25E5%258B%25A2%25E3%2581%258C%25E8%25A8%25AD%25E5%25AE%259A%25E3%2581%2599%25E3%2582%258BClaude%2520Code%25E3%2581%25AEskills%25E3%2581%25A8agents%25E3%2582%2592%25E3%2583%2581%25E3%2582%25A7%25E3%2583%2583%25E3%2582%25AF%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:nakakiiro%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUxtNXd1M1hKcDNodXJyRzV5cDNzR19jZXJtREh6YXZMeGVqN3FUSDcxTTZuQT1zOTYtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-    "fetched_at": "2026-03-25 20:12:30",
-    "ja_summary": "・Claude Codeは「CLAUDE.md」だけでなく、.claude/ディレクトリでスキルやカスタムエージェントの定義が可能。\n・Kaggle上位勢が公開しているスキル設定やボイラープレートを活用することで、開発の効率化と手順の標準化を実現できる。\n・これらを組み込むことで、Claude Codeを特定タスクに特化した強力なツールとしてカスタマイズできる。"
   }
 ]
