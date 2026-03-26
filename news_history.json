@@ -1,5 +1,35 @@
 [
   {
+    "title": "毎秒「10回→100回」の動作指示が可能に　日立のフィジカルAI「3つの新技術」とは？",
+    "link": "https://www.itmedia.co.jp/business/articles/2603/27/news066.html",
+    "source": "ITmedia ビジネス",
+    "published": "Fri, 27 Mar 2026 07:45:00 +0900",
+    "summary": "日立製作所は3月23日、JR東京駅直結の協創施設「Lumada Innovation Hub Tokyo」で会見を開き、製造・設備保守・ロジスティクスなど産業現場向けに開発したフィジカルAI技術を披露した。",
+    "image": "https://image.itmedia.co.jp/business/articles/2603/27/cover_news066.jpg",
+    "fetched_at": "2026-03-27 08:24:01",
+    "ja_summary": "・日立が産業現場向けの新フィジカルAI技術を発表。\n・動作指示の処理速度を毎秒10回から100回へと大幅に向上。\n・製造・保守・物流現場の自動化と効率化を加速させる。"
+  },
+  {
+    "title": "AIエージェントがコマンドラインでブラウザを自動操作。「Browser Use CLI 2.0」リリース。Chrome DevTools接続などで操作が倍速に",
+    "link": "https://www.techno-edge.net/article/2026/03/26/4954.html",
+    "source": "TechnoEdge",
+    "published": "Thu, 26 Mar 2026 10:46:12 +0900",
+    "summary": "人間やAIエージェントがコマンドラインから指示することでWebブラウザを操作できるオープンソースのPythonライブラリ「Browser Use CLI 2.0」がリリースされました。",
+    "image": "https://www.techno-edge.net/imgs/rss/30589.png",
+    "fetched_at": "2026-03-27 08:24:41",
+    "ja_summary": "・ブラウザをコマンドラインから自動操作できるライブラリ「Browser Use CLI 2.0」が公開。\n・Chrome DevToolsとの連携強化により、操作速度が従来の2倍に向上。\n・AIエージェントによるWebブラウジング作業の効率化がより容易に。"
+  },
+  {
+    "title": "Webサービスを作る上でRustを採用する必要ってほぼないよね",
+    "link": "https://zenn.dev/miyabitti/articles/9d8e2ab63379ad",
+    "source": "Zenn Trends",
+    "published": "Wed, 25 Mar 2026 04:48:18 GMT",
+    "summary": "!\nにわか素人の戯言です。あと辛口なRust批判ではなく、言語選択の話です。\n\n\n 何が言いたいか\n「速いからRust」は、ほとんどのWebサービスにとって不要な判断でしょう。\n実行速度やメモリ効率だけを理由にRustを採用すると、開発コストが重くなりやすいから、アプリケーションの規模とボトルネックを見極めた上で、本当に必要かどうかを判断しよう、という話です。\n少し前に投稿した👇️\nhttps://zenn.dev/miyabitti/articles/f4a556dad65b9c\nのとき、メモリ効率がよくなるならRustに書き直そうと考えてAIと相談したところ、やめとけと言われたところ...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--RaBC0DUk--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Web%25E3%2582%25B5%25E3%2583%25BC%25E3%2583%2593%25E3%2582%25B9%25E3%2582%2592%25E4%25BD%259C%25E3%2582%258B%25E4%25B8%258A%25E3%2581%25A7Rust%25E3%2582%2592%25E6%258E%25A1%25E7%2594%25A8%25E3%2581%2599%25E3%2582%258B%25E5%25BF%2585%25E8%25A6%2581%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%25BB%25E3%2581%25BC%25E3%2581%25AA%25E3%2581%2584%25E3%2582%2588%25E3%2581%25AD%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:miyabitti%2540%25E3%2583%258B%25E3%2583%25BC%25E3%2583%2588%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzczNDRiMTk2NzIuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-03-27 08:25:06",
+    "ja_summary": "Webサービスの開発において「速いから」という理由だけでRustを採用するのは非効率な場合が多い。\n開発コストとパフォーマンスのバランスを見極め、本当にボトルネックとなる箇所に限定して導入すべきである。\n単なる実行速度の追求よりも、プロジェクトの規模に適した言語選択が重要である。"
+  },
+  {
     "title": "「SaaSの死」に飲み込まれるな　1兆円企業マクニカが「フィジカルAI」に賭ける理由",
     "link": "https://www.itmedia.co.jp/business/articles/2603/27/news021.html",
     "source": "ITmedia ビジネス",
@@ -968,35 +998,5 @@
     "image": "https://media.loom-app.com/loom/2026/03/25/a36ca7f9-6fe3-44a1-8923-7cbcea4d4399/original.jpg?w=1200&amp;h=630",
     "fetched_at": "2026-03-26 11:13:07",
     "ja_summary": "・生成AIの活用格差は「プロンプト力」ではなく「利用経験の長さ」に起因する。\n・長く使うほどAIとの対話に慣れ、仕事での活用や高度な指示が増加する。\n・AIを使いこなすには、テクニック以上に継続的な利用による習熟が不可欠。"
-  },
-  {
-    "title": "「パーソナルエージェント」がWindowsになる日",
-    "link": "https://japan.zdnet.com/article/35245502/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "AIエージェントが、企業、さらには社会へ本格的に浸透していくきっかけとなるのは、個々のユーザーに帯同する「パーソナライズされたAIエージェント」の台頭ではないか。筆者が、パーソナルエージェントが新たなWindowsになる日が来るのではないかと感じるようになった背景とこれからの展望について記したい。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35245502/\"><img src=\"https://japan.zdnet.com/storage/2025/10/09/60478e248ca20b13795f871513cee7f9/t/184/138/d/251009_ai_as_1280_323829966.jpeg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2025/10/09/60478e248ca20b13795f871513cee7f9/t/184/138/d/251009_ai_as_1280_323829966.jpeg",
-    "fetched_at": "2026-03-26 11:13:17",
-    "ja_summary": "個々のユーザーに寄り添う「パーソナライズされたAIエージェント」が、将来的にOS（Windows）のような基盤インフラになる可能性がある。\nAIエージェントの本格的な普及は、企業や社会のあり方を大きく変える転換点となる。\n筆者は、このAIエージェントが新たなデジタルプラットフォームとして定着していく展望を提示している。"
-  },
-  {
-    "title": "アスエネ、脱炭素業務の「AI BPOサービス」を開始",
-    "link": "https://japan.zdnet.com/article/35245520/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "アスエネは、AIによる脱炭素業務と専門家によるCO2排出削減コンサルティングを組み合わせたサービスを提供する。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35245520/\"><img src=\"https://japan.zdnet.com/storage/2026/01/23/544a116f37519c48f7de72da658337df/t/184/138/d/20260123_adobestock_323256850_1280x960.jpg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2026/01/23/544a116f37519c48f7de72da658337df/t/184/138/d/20260123_adobestock_323256850_1280x960.jpg",
-    "fetched_at": "2026-03-26 11:13:17",
-    "ja_summary": "・アスエネが、脱炭素業務を支援する「AI BPOサービス」を開始。\n・AIによる自動化と専門家のコンサルティングを組み合わせ、排出量算定などを効率化。\n・企業の脱炭素対応の負担軽減とスムーズな削減計画の実行をサポート。"
-  },
-  {
-    "title": "限られた予算の中でAIを利用するための5つのポイント",
-    "link": "https://japan.zdnet.com/article/35245517/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "使える資金が限られていても人工知能（AI）を利用することは可能だ。コスト効率の良いAI活用法を5つ紹介する。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35245517/\"><img src=\"https://japan.zdnet.com/storage/2026/03/26/5f3aca600cbd7d22c60048644ea47fd7/t/184/138/d/gettyimages-1503994217_1280.jpg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2026/03/26/5f3aca600cbd7d22c60048644ea47fd7/t/184/138/d/gettyimages-1503994217_1280.jpg",
-    "fetched_at": "2026-03-26 11:13:17",
-    "ja_summary": "・予算が限られていてもAI活用は十分に可能。\n・コストを抑えつつ効率的に導入するための5つの手法を解説。\n・費用対効果を最大化したいビジネスパーソン向けの実践的アドバイス。"
   }
 ]
