@@ -1,5 +1,35 @@
 [
   {
+    "title": "Gemini Embedding 2 の概要",
+    "link": "https://note.com/npaka/n/n1e39b1e67561",
+    "source": "note (npaka)",
+    "published": "Wed, 11 Mar 2026 06:43:21 +0900",
+    "summary": "<p id=\"116bbc09-4b40-4bfc-9334-53e8e7a8c224\" name=\"116bbc09-4b40-4bfc-9334-53e8e7a8c224\">以下の記事が面白かったので、簡単にまとめました。</p><figure id=\"64cc17bd-bf70-4d14-addb-2898ff5e90ea\" name=\"64cc17bd-bf70-4d14-addb-2898ff5e90ea\"><blockquote><p id=\"8b470a8c-ec47-4a51-b245-3582948a46d0\" name=\"8b470a8c-ec47-4a51-b245-3582948a46d0\"><strong>・</strong><a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-embedding-2/\" rel=\"nofollow noopener\" target=\"_blank\"><strong>Gemini Embedding 2: Our first natively multimodal embedding model</strong></a></p></blockquote>\n<figcaption></figcaption></figure><br /><a href=\"https://note.com/npaka/n/n1e39b1e67561\">続きをみる</a>",
+    "image": "https://assets.st-note.com/production/uploads/images/258171703/rectangle_large_type_2_bfbf5c46387c6775c1adf4274c528668.png?width=800",
+    "fetched_at": "2026-03-27 01:44:24",
+    "ja_summary": "Googleが「Gemini Embedding 2」を発表。\nこれは、テキストだけでなく画像なども理解できる、初のネイティブなマルチモーダル埋め込みモデル。\nAIによる高度な情報処理能力の向上が期待される。"
+  },
+  {
+    "title": "Introducing the OpenAI Safety Bug Bounty program",
+    "link": "https://openai.com/index/safety-bug-bounty",
+    "source": "OpenAI",
+    "published": "Wed, 25 Mar 2026 00:00:00 GMT",
+    "summary": "OpenAI launches a Safety Bug Bounty program to identify AI abuse and safety risks, including agentic vulnerabilities, prompt injection, and data exfiltration.",
+    "image": "https://openai.com/favicon.ico",
+    "fetched_at": "2026-03-27 01:44:30",
+    "ja_summary": "OpenAIがAIの悪用や脆弱性発見のため、バグ報奨金プログラムを開始。\nエージェントの脆弱性、プロンプトインジェクション、データ漏洩などを対象。\nAIの安全性を高めるための取り組み。"
+  },
+  {
+    "title": "【2026年最新版】Claude Code Skills実践テクニック 10選",
+    "link": "https://qiita.com/miruky/items/3ebe56edd76f7cddfd47",
+    "source": "Qiita (Popular)",
+    "published": "2026-03-21T00:18:37+09:00",
+    "summary": "## はじめに\n\nこんばんは、mirukyです。\n\nClaude Codeを日々使い込んでいる方でも、**Skills**をちゃんと活用できている人はまだ少ないのではないでしょうか。\n\nCLAUDE.mdに全部書いてしまっている、`/help` に表示されるコマンドしか使っていないなど、そんな方にこそ読んでほしい記事です。\n\nSkillsはClaude Codeに **「ドメイン知識」と「再現可能",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGMzYzNzIwNCUyRnByb2ZpbGUtaW1hZ2VzJTJGMTc3NDQ0NTA3MD9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NWY2OTc3NjFmNDZhMTA4YTgyMjNmMDEzODFkMGVmZTY%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Db2bc8d820e2037057c6470791c40d1f8?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJTkwMjAyNiVFNSVCOSVCNCVFNiU5QyU4MCVFNiU5NiVCMCVFNyU4OSU4OCVFMyU4MCU5MUNsYXVkZSUyMENvZGUlMjBTa2lsbHMlRTUlQUUlOUYlRTglQjclQjUlRTMlODMlODYlRTMlODIlQUYlRTMlODMlOEIlRTMlODMlODMlRTMlODIlQUYlMjAxMCVFOSU4MSVCOCZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTMyZDViNTQ2MzQyZWQ0MjBmNThhNTU3NGQ5MGRjMmY5&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBtaXJ1a3kmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1iMWMwZjM0MGFkNTI5NmU1ZmNjNDFiZDQxMGY0YWRjYw&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=c68391e10c0a1ca50e074b6882a4897e",
+    "fetched_at": "2026-03-27 01:44:55",
+    "ja_summary": "- Claude Codeの「Skills」機能は、ドメイン知識と再現可能な形式でClaudeに指示を与える強力なツールです。\n- 多くのユーザーがSkillsの潜在能力を十分に活用できていません。\n- 本記事は、Claude CodeのSkillsを効果的に使いこなすための実践テクニック10選を紹介します。"
+  },
+  {
     "title": "［経営教室 AI活用編］コロプラ、クリエーターとゲーム用AIモデルをつくる (経営教室)",
     "link": "https://business.nikkei.com/atcl/gen/19/00607/032300085/",
     "source": "日経ビジネス 最新",
@@ -968,35 +998,5 @@
     "image": "https://assets.st-note.com/production/uploads/images/258794679/rectangle_large_type_2_83c6149895c91e2b4f3e6dea43174b0d.jpeg?width=800",
     "fetched_at": "2026-03-26 03:35:54",
     "ja_summary": "・『作ってわかる大規模言語モデルの仕組み』は、LLMを実際に実装しながら深く理解できる良書。\n・TransformerやLoRAなど、断片的な専門用語の意味と構造を体系的に学べる。\n・LLMの仕組みを理論だけでなく、実践を通じて把握したい人におすすめ。"
-  },
-  {
-    "title": "AIとデジタルツインでひび割れ点検",
-    "link": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00008/031600313/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "人工知能（AI）とデジタルツインを活用して、発電所などの重要インフラ施設の点検を効率化する試みが進んでいる。清水建設とリコー、リコージャパンの3社が構築した、コンクリート構造物のひび割れ点検システムはその一例だ。2026年度に現場への適用を始める。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00008/031600313/sns_24.jpg?20220512",
-    "fetched_at": "2026-03-26 02:43:08",
-    "ja_summary": "・清水建設とリコーらが、AIとデジタルツインを用いたコンクリートひび割れ点検システムを開発。\n・インフラ点検を効率化し、2026年度からの現場適用を目指す。"
-  },
-  {
-    "title": "データセンター投資、オフィス超えへ",
-    "link": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00204/031600026/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "AI（人工知能）の急速な普及に伴って、米国ではデータセンター建設がかつてない規模で拡大している。用途別の建設投資で、2026年にデータセンターがオフィスを追い抜く公算が大きくなった。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00204/031600026/28_sns.jpg?20220512",
-    "fetched_at": "2026-03-26 02:43:09",
-    "ja_summary": "AI普及でデータセンター建設が急拡大。\n2026年にはオフィスへの投資を上回る見込み。\n米国で、データセンターが新たな投資の中心に。"
-  },
-  {
-    "title": "Inside our approach to the Model Spec",
-    "link": "https://openai.com/index/our-approach-to-the-model-spec",
-    "source": "OpenAI",
-    "published": "Wed, 25 Mar 2026 10:00:00 GMT",
-    "summary": "Learn how OpenAI’s Model Spec serves as a public framework for model behavior, balancing safety, user freedom, and accountability as AI systems advance.",
-    "image": "https://openai.com/favicon.ico",
-    "fetched_at": "2026-03-26 02:43:34",
-    "ja_summary": "OpenAIは、AIモデルの安全な運用とユーザーの自由、責任のバランスを取る「Model Spec」を公開。\nこれは、AIの進歩に伴い、モデルの振る舞いを規定する共通の枠組み。\n安全、自由、責任を両立させ、AI開発の指針となる。"
   }
 ]
