@@ -1,5 +1,15 @@
 [
   {
+    "title": "Inside our approach to the Model Spec",
+    "link": "https://openai.com/index/our-approach-to-the-model-spec",
+    "source": "OpenAI",
+    "published": "Wed, 25 Mar 2026 10:00:00 GMT",
+    "summary": "Learn how OpenAI’s Model Spec serves as a public framework for model behavior, balancing safety, user freedom, and accountability as AI systems advance.",
+    "image": "https://openai.com/favicon.ico",
+    "fetched_at": "2026-03-27 02:44:26",
+    "ja_summary": "・OpenAIがAIモデルの挙動を定義する公開ガイドライン「Model Spec」を策定。\n・安全性、ユーザーの自由、説明責任のバランスを保つための枠組みを提示。\n・技術進化に伴うAIの適切な振る舞いを明確化し、透明性と信頼性を向上させる。"
+  },
+  {
     "title": "Gemini Embedding 2 の概要",
     "link": "https://note.com/npaka/n/n1e39b1e67561",
     "source": "note (npaka)",
@@ -988,15 +998,5 @@
     "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03214/032300100/topm.jpg?20220512",
     "fetched_at": "2026-03-26 05:07:05",
     "ja_summary": "・現代自動車と起亜が、NVIDIAとの提携を拡大。\n・自動運転技術の開発を強化し、ロボタクシーの性能向上を目指す。"
-  },
-  {
-    "title": "【書評】 作ってわかる大規模言語モデルの仕組み",
-    "link": "https://note.com/npaka/n/na8c148cd1fa2",
-    "source": "note (npaka)",
-    "published": "Fri, 13 Mar 2026 18:07:38 +0900",
-    "summary": "<p id=\"6aafce9a-7e4d-486a-a3cc-991ecc9823bf\" name=\"6aafce9a-7e4d-486a-a3cc-991ecc9823bf\">LLM（大規模言語モデル）の本はいろいろ出てきていますが、この『<strong>作ってわかる大規模言語モデルの仕組み</strong>』はかなりの良書です。理由はシンプルで、<strong>LLMを実際に作りながらその仕組みを理解できる本だから</strong>です。</p><p id=\"89714c77-b429-49f0-9c60-b6018ba4a9f1\" name=\"89714c77-b429-49f0-9c60-b6018ba4a9f1\">最近はLLMの解説記事や論文も増え、「Transformer」「LoRA」「RLHF」「DPO」といった言葉もよく見かけます。しかし、単語としては知っていても、</p><br /><a href=\"https://note.com/npaka/n/na8c148cd1fa2\">続きをみる</a>",
-    "image": "https://assets.st-note.com/production/uploads/images/258794679/rectangle_large_type_2_83c6149895c91e2b4f3e6dea43174b0d.jpeg?width=800",
-    "fetched_at": "2026-03-26 03:35:54",
-    "ja_summary": "・『作ってわかる大規模言語モデルの仕組み』は、LLMを実際に実装しながら深く理解できる良書。\n・TransformerやLoRAなど、断片的な専門用語の意味と構造を体系的に学べる。\n・LLMの仕組みを理論だけでなく、実践を通じて把握したい人におすすめ。"
   }
 ]
