@@ -1,5 +1,75 @@
 [
   {
+    "title": "「SaaSの死」に飲み込まれるな　1兆円企業マクニカが「フィジカルAI」に賭ける理由",
+    "link": "https://www.itmedia.co.jp/business/articles/2603/27/news021.html",
+    "source": "ITmedia ビジネス",
+    "published": "Fri, 27 Mar 2026 07:00:00 +0900",
+    "summary": "国内最大の半導体商社、マクニカホールディングスの原一将社長に、生成AIと半導体産業における日本の勝ち筋を聞いた。日本の現場力がAIという脳を得たとき、どのような化学反応が起きるのか。",
+    "image": "https://image.itmedia.co.jp/business/articles/2603/27/cover_news021.jpg",
+    "fetched_at": "2026-03-27 07:54:42",
+    "ja_summary": "・半導体商社マクニカは、SaaS偏重の市場から転換し、物理的な現場にAIを実装する「フィジカルAI」へ注力。\n・日本の強みである「現場の実行力」とAIを融合させ、新たな産業価値の創出を目指す。\n・AIを単なるツールではなく、物理空間を制御する「脳」として活用する独自の勝ち筋を追求。"
+  },
+  {
+    "title": "中間管理職は「中間経営職」へ　AI時代、ホワイトカラーに問われる「役割再定義」",
+    "link": "https://www.itmedia.co.jp/business/articles/2603/27/news014.html",
+    "source": "ITmedia ビジネス",
+    "published": "Fri, 27 Mar 2026 07:00:00 +0900",
+    "summary": "生成AIの登場で企業の雇用と仕事のあり方が変わり始めている。活用の広がりを背景に、人員削減に踏み切る企業も出てきた。こうした中で、人が担う役割はどのように変化するのか。その実態に迫る。",
+    "image": "https://image.itmedia.co.jp/business/articles/2603/27/cover_news014.jpg",
+    "fetched_at": "2026-03-27 07:54:42",
+    "ja_summary": "生成AIの普及でホワイトカラーの業務が激変し、人員整理を行う企業も増加している。\n中間管理職には、AIを活用して経営的な視点で価値を生む「中間経営職」への転換が求められる。\n今後は、AI時代に適応するための人間にしかできない役割の再定義が不可欠となる。"
+  },
+  {
+    "title": "Google AI Studio のフルスタックバイブコーディング機能の概要",
+    "link": "https://note.com/npaka/n/n77bf70d9b349",
+    "source": "note (npaka)",
+    "published": "Fri, 20 Mar 2026 07:14:29 +0900",
+    "summary": "<p id=\"fcc5a2c0-b8b8-4d20-885b-34dc442adfec\" name=\"fcc5a2c0-b8b8-4d20-885b-34dc442adfec\">以下の記事が面白かったので、簡単にまとめました。</p><figure id=\"378069a1-25c1-49f6-becf-1d673ae28c08\" name=\"378069a1-25c1-49f6-becf-1d673ae28c08\"><blockquote><p id=\"77e2c1bc-0534-4155-bf27-03b7f3d0f523\" name=\"77e2c1bc-0534-4155-bf27-03b7f3d0f523\"><strong>・</strong><a href=\"https://blog.google/innovation-and-ai/technology/developers-tools/full-stack-vibe-coding-google-ai-studio/\" rel=\"nofollow noopener\" target=\"_blank\"><strong>Introducing the new full-stack vibe coding experience in Google AI Studio</strong></a></p></blockquote>\n<figcaption></figcaption></figure><br /><a href=\"https://note.com/npaka/n/n77bf70d9b349\">続きをみる</a>",
+    "image": "https://assets.st-note.com/production/uploads/images/260512898/rectangle_large_type_2_a6edcea4968571e0ddd42eb5e48814c8.png?width=800",
+    "fetched_at": "2026-03-27 07:55:07",
+    "ja_summary": "Google AI Studioに、自然言語による指示だけでフルスタックなアプリ開発・修正が可能な「Vibe Coding」機能が導入されました。\nAIがコード生成から実行までを一括で行うため、専門的な環境構築をせずとも直感的にプロトタイプを作成できます。\nエンジニア以外のユーザーでも、AIとの対話を通じて素早くアプリケーションを形にできる新しい開発体験です。"
+  },
+  {
+    "title": "Helping developers build safer AI experiences for teens",
+    "link": "https://openai.com/index/teen-safety-policies-gpt-oss-safeguard",
+    "source": "OpenAI",
+    "published": "Tue, 24 Mar 2026 11:00:00 GMT",
+    "summary": "OpenAI releases prompt-based teen safety policies for developers using gpt-oss-safeguard, helping moderate age-specific risks in AI systems.",
+    "image": "https://openai.com/favicon.ico",
+    "fetched_at": "2026-03-27 07:55:16",
+    "ja_summary": "・OpenAIが開発者向けに、10代のユーザーを保護するためのガイドラインとツール（gpt-oss-safeguard）を提供開始。\n・AIモデルにおいて、年齢に応じたリスクを適切に制御するプロンプトベースの安全策を導入。\n・開発者がより安全なAIサービスを10代向けに構築できるよう支援を強化。"
+  },
+  {
+    "title": "Powering product discovery in ChatGPT",
+    "link": "https://openai.com/index/powering-product-discovery-in-chatgpt",
+    "source": "OpenAI",
+    "published": "Tue, 24 Mar 2026 09:00:00 GMT",
+    "summary": "ChatGPT introduces richer, visually immersive shopping powered by the Agentic Commerce Protocol, enabling product discovery, side-by-side comparisons, and merchant integration.",
+    "image": "https://openai.com/favicon.ico",
+    "fetched_at": "2026-03-27 07:55:16",
+    "ja_summary": "・ChatGPTが「Agentic Commerce Protocol」を導入し、視覚的な商品検索・比較機能を提供。\n・ECサイトと直接連携し、ChatGPT上でのスムーズな製品探索と購入検討が可能に。\n・AIによる商品提案から比較・検討までを一貫して行える購買体験へと進化。"
+  },
+  {
+    "title": "Move Fast and Break Things: 10 in 20",
+    "link": "https://speakerdeck.com/ramimac/move-fast-and-break-things-10-in-20",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-03-26T18:14:45-04:00",
+    "summary": "Sharing 10 AI experiments and the lessions \nBuilders & Breakers - Stockholm, 03/26/2026",
+    "image": "https://files.speakerdeck.com/presentations/32ec9105d74641ea9fa5af74f55edd1e/preview_slide_0.jpg?38870082",
+    "fetched_at": "2026-03-27 07:55:39",
+    "ja_summary": "・「Move Fast and Break Things」の精神で10個のAI実験を実施。\n・ストックホルムのイベントにて、開発・破壊の過程で得られた知見を共有。\n・AI開発における迅速な試行錯誤と学習の重要性を提言。"
+  },
+  {
+    "title": "【緊急】月間9500万DLのLiteLLMが乗っ取られた。インストールしただけでSSH鍵・AWS認証・仮想通貨が全部盗まれる",
+    "link": "https://qiita.com/emi_ndk/items/2332ff5c93e63ab736ad",
+    "source": "Qiita (Popular)",
+    "published": "2026-03-26T15:54:48+09:00",
+    "summary": "\n**あなたのマシンにLiteLLMが入っていたら、今すぐこの記事を読んでください。**\n\n2026年3月24日、AIエージェント開発者の間で最も広く使われているPythonライブラリの一つ「**LiteLLM**」が、サプライチェーン攻撃により完全に乗っ取られました。\n\n月間**9,500万ダウンロード**。影響範囲は計り知れません。\n\n## 結論から言うと\n\n:::note alert\nLit",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmF2YXRhcnMuZ2l0aHVidXNlcmNvbnRlbnQuY29tJTJGdSUyRjU0MTczODUwJTNGdiUzRDQ_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPTQ5ZGU0OTdkMjMwMjhmNWZmOTcwNmZlNGNmY2E5MDZm%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D29ced0e10c8c1d24806abaf93840cae7?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJTkwJUU3JUI3JThBJUU2JTgwJUE1JUUzJTgwJTkxJUU2JTlDJTg4JUU5JTk2JTkzOTUwMCVFNCVCOCU4N0RMJUUzJTgxJUFFTGl0ZUxMTSVFMyU4MSU4QyVFNCVCOSU5NyVFMyU4MSVBMyVFNSU4RiU5NiVFMyU4MiU4OSVFMyU4MiU4QyVFMyU4MSU5RiVFMyU4MCU4MiVFMyU4MiVBNCVFMyU4MyVCMyVFMyU4MiVCOSVFMyU4MyU4OCVFMyU4MyVCQyVFMyU4MyVBQiVFMyU4MSU5NyVFMyU4MSU5RiVFMyU4MSVBMCVFMyU4MSU5MSVFMyU4MSVBN1NTSCVFOSU4RCVCNSVFMyU4MyVCQkFXUyVFOCVBQSU4RCVFOCVBOCVCQyVFMyU4MyVCQiVFNCVCQiVBRSVFNiU4MyVCMyVFOSU4MCU5QSVFOCVCMiVBOCVFMiU4MCVBNiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTBkM2NmN2JlNzVlNTgwZjA0Yzc2YWYxZjMxOWZjOWEw&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBlbWlfbmRrJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9NzU0NDg1YzBhMGMzNTE3YTkwZWM1ZTU4MzFlOTQyMWY&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=f6711ef04d705932113083f212cffa5f",
+    "fetched_at": "2026-03-27 07:55:40",
+    "ja_summary": "・人気ライブラリ「LiteLLM」が乗っ取られ、インストール時にSSH鍵・AWS認証情報・仮想通貨などが盗まれる被害が発生。\n・月間9500万DLという甚大な影響範囲であり、該当ライブラリを使用している場合は即時の確認と対策が必須。\n・現在、開発環境の安全確保を最優先し、被害の有無を至急調査してください。"
+  },
+  {
     "title": "NaaSで攻勢狙うドコモビジネス　単なる土管からAIのインフラへ",
     "link": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/052100110/032500174/",
     "source": "日経クロステック 総合",
@@ -928,75 +998,5 @@
     "image": "https://japan.zdnet.com/storage/2026/03/26/5f3aca600cbd7d22c60048644ea47fd7/t/184/138/d/gettyimages-1503994217_1280.jpg",
     "fetched_at": "2026-03-26 11:13:17",
     "ja_summary": "・予算が限られていてもAI活用は十分に可能。\n・コストを抑えつつ効率的に導入するための5つの手法を解説。\n・費用対効果を最大化したいビジネスパーソン向けの実践的アドバイス。"
-  },
-  {
-    "title": "AIエージェントがコマンドラインでブラウザを自動操作。「Browser Use CLI 2.0」リリース。Chrome DevTools接続などで操作が倍速に",
-    "link": "https://www.techno-edge.net/article/2026/03/26/4954.html",
-    "source": "TechnoEdge",
-    "published": "Thu, 26 Mar 2026 10:46:12 +0900",
-    "summary": "人間やAIエージェントがコマンドラインから指示することでWebブラウザを操作できるオープンソースのPythonライブラリ「Browser Use CLI 2.0」がリリースされました。",
-    "image": "https://www.techno-edge.net/imgs/rss/30589.png",
-    "fetched_at": "2026-03-26 11:13:18",
-    "ja_summary": "・CLIからWebブラウザを自動操作できるライブラリ「Browser Use CLI 2.0」が公開。\n・Chrome DevToolsとの連携により、従来の2倍の速度で操作が可能に。\n・AIエージェントによる自動化や効率的なブラウザ制御を支援する。"
-  },
-  {
-    "title": "Webサービスを作る上でRustを採用する必要ってほぼないよね",
-    "link": "https://zenn.dev/miyabitti/articles/9d8e2ab63379ad",
-    "source": "Zenn Trends",
-    "published": "Wed, 25 Mar 2026 04:48:18 GMT",
-    "summary": "!\nにわか素人の戯言です。あと辛口なRust批判ではなく、言語選択の話です。\n\n\n 何が言いたいか\n「速いからRust」は、ほとんどのWebサービスにとって不要な判断でしょう。\n実行速度やメモリ効率だけを理由にRustを採用すると、開発コストが重くなりやすいから、アプリケーションの規模とボトルネックを見極めた上で、本当に必要かどうかを判断しよう、という話です。\n少し前に投稿した👇️\nhttps://zenn.dev/miyabitti/articles/f4a556dad65b9c\nのとき、メモリ効率がよくなるならRustに書き直そうと考えてAIと相談したところ、やめとけと言われたところ...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--RaBC0DUk--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Web%25E3%2582%25B5%25E3%2583%25BC%25E3%2583%2593%25E3%2582%25B9%25E3%2582%2592%25E4%25BD%259C%25E3%2582%258B%25E4%25B8%258A%25E3%2581%25A7Rust%25E3%2582%2592%25E6%258E%25A1%25E7%2594%25A8%25E3%2581%2599%25E3%2582%258B%25E5%25BF%2585%25E8%25A6%2581%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%25BB%25E3%2581%25BC%25E3%2581%25AA%25E3%2581%2584%25E3%2582%2588%25E3%2581%25AD%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:miyabitti%2540%25E3%2583%258B%25E3%2583%25BC%25E3%2583%2588%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzczNDRiMTk2NzIuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-    "fetched_at": "2026-03-26 11:13:28",
-    "ja_summary": "・Web開発において「速度」だけを理由にRustを採用するのは、開発コスト増を招くため推奨されない。\n・アプリケーションの規模とボトルネックを見極め、本当にRustが必要かを冷静に判断すべきである。\n・安易な言語選定は避け、プロジェクトの目的に最適なツールを選択することが重要である。"
-  },
-  {
-    "title": "外部サービスの利用ガイドラインを作ってわかった、エンジニアが見落としがちな法的観点",
-    "link": "https://zenn.dev/knowledgework/articles/19e7bfba76582f",
-    "source": "Zenn Trends",
-    "published": "Wed, 25 Mar 2026 03:00:10 GMT",
-    "summary": "!\nこの記事は、KNOWLEDGE WORK Blog Sprint 2026 Spring の 17 本目の記事です。\n\n「このSaaS、業務で使っていいですか？」\nチームメンバーからの質問に、即答できませんでした。ISMS？取ってる。SOC2？ある。セキュリティ的には問題なさそうだ。でも、それだけで「使っていい」と言い切れるのか──。\nSaaSプロダクトを開発する会社で、ISMS運用やセキュリティ施策を担当しています。生成AIをはじめとする外部サービスの利用が加速する中、利用可否を判断するためのガイドラインを法務と協力して策定しました。\nその過程で得た最大の学びは、 外部サービスの利...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--TURPsJqI--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E5%25A4%2596%25E9%2583%25A8%25E3%2582%25B5%25E3%2583%25BC%25E3%2583%2593%25E3%2582%25B9%25E3%2581%25AE%25E5%2588%25A9%25E7%2594%25A8%25E3%2582%25AC%25E3%2582%25A4%25E3%2583%2589%25E3%2583%25A9%25E3%2582%25A4%25E3%2583%25B3%25E3%2582%2592%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%25A6%25E3%2582%258F%25E3%2581%258B%25E3%2581%25A3%25E3%2581%259F%25E3%2580%2581%25E3%2582%25A8%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%258B%25E3%2582%25A2%25E3%2581%258C%25E8%25A6%258B%25E8%2590%25BD%25E3%2581%25A8%25E3%2581%2597%25E3%2581%258C%25E3%2581%25A1%25E3%2581%25AA%25E6%25B3%2595%25E7%259A%2584%25E8%25A6%25B3%25E7%2582%25B9%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:moneymog%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2E4MWZhOWNhZmYuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E6%25A0%25AA%25E5%25BC%258F%25E4%25BC%259A%25E7%25A4%25BE%25E3%2583%258A%25E3%2583%25AC%25E3%2583%2583%25E3%2582%25B8%25E3%2583%25AF%25E3%2583%25BC%25E3%2582%25AF%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzMzYzZlMTJkN2MuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-    "fetched_at": "2026-03-26 11:13:28",
-    "ja_summary": "・SaaSの業務利用において、セキュリティ認証（ISMS/SOC2）だけでは法的リスクの判断基準として不十分である。\n・法務と協力してガイドラインを策定する過程で、エンジニアが見落としがちな法的観点やリスク管理の重要性が浮き彫りになった。\n・生成AIなどの外部サービスを安全かつ適切に導入・運用するための具体的な指針が必要不可欠である。"
-  },
-  {
-    "title": "NLP2026の最優秀賞・優秀賞から見る言語処理最前線",
-    "link": "https://zenn.dev/mkj/articles/nlp_20260208",
-    "source": "Zenn Trends",
-    "published": "Wed, 25 Mar 2026 02:50:05 GMT",
-    "summary": "松尾研究所の尾崎です．25卒でデータサイエンティストをやっています．\n2026年3月9日から13日にかけて，栃木県宇都宮市のライトキューブ宇都宮にて言語処理学会第32回年次大会（NLP2026）が開催されました．NLP2025（長崎）に引き続き過去最大規模の記録更新が続いており，LLMブーム以降の自然言語処理分野の勢いを肌で感じました．\n\nNLP2026の看板．会場はライトキューブ宇都宮．\n今年度から尾崎はYANS(言語処理若手シンポジウム（YANS）)の運営委員に就任しましたので，来年以降もNLPには継続で参加します．皆さんとお会いできるのを楽しみにしています．YANSへのご参加もぜひ...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--9TlBeuKu--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:NLP2026%25E3%2581%25AE%25E6%259C%2580%25E5%2584%25AA%25E7%25A7%2580%25E8%25B3%259E%25E3%2583%25BB%25E5%2584%25AA%25E7%25A7%2580%25E8%25B3%259E%25E3%2581%258B%25E3%2582%2589%25E8%25A6%258B%25E3%2582%258B%25E8%25A8%2580%25E8%25AA%259E%25E5%2587%25A6%25E7%2590%2586%25E6%259C%2580%25E5%2589%258D%25E7%25B7%259A%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Taisei%2520Ozaki%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2U2NGM3ZTBkMzIuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E6%259D%25BE%25E5%25B0%25BE%25E7%25A0%2594%25E7%25A9%25B6%25E6%2589%2580%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUFjSFR0Y1hKN2I4TjdPWHZzNV9JcnV2cjQzRDF3OVZxamVwUnN2ckNycVAxVndtbzlrPXM5Ni1j%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-    "fetched_at": "2026-03-26 11:13:28",
-    "ja_summary": "・言語処理学会第32回年次大会（NLP2026）が宇都宮で開催され、過去最大規模の参加者数を記録した。\n・LLM（大規模言語モデル）のブームを背景に、自然言語処理分野の勢いが継続している。\n・執筆者の尾崎氏は今回より若手シンポジウム（YANS）の運営委員に就任し、今後も継続的な関与を予定。"
-  },
-  {
-    "title": "8,706回のINSERTがCIを殺していた — Rails CI 55%短縮の全手順",
-    "link": "https://zenn.dev/pepabo/articles/ci-speedup-rails-infra-and-app",
-    "source": "Zenn Trends",
-    "published": "Tue, 24 Mar 2026 23:22:05 GMT",
-    "summary": "CIが8分を超えていました。1日に10回pushすれば、待ち時間だけで80分になります。開発のテンポが悪くなるし、プルリクエスト（PR）のフィードバックループも遅れます。\n結果から書くと、CI実行時間を8m08s → 3m37sまで短縮できました。55%の削減です。しかも最初のPRではプロダクションコードの変更は一切なく、CI設定とDB設定だけで47%削減しています。\nこの改善はRailsアプリのCI（GitHub Actions、matrix 5分割、MySQL使用）で行ったもので、似た構成のプロジェクトならそのまま適用できる部分が多いはずです。この記事では、インフラ層の最適化（第1...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--bi0bzPsV--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:8%252C706%25E5%259B%259E%25E3%2581%25AEINSERT%25E3%2581%258CCI%25E3%2582%2592%25E6%25AE%25BA%25E3%2581%2597%25E3%2581%25A6%25E3%2581%2584%25E3%2581%259F%2520%25E2%2580%2594%2520Rails%2520CI%252055%2525%25E7%259F%25AD%25E7%25B8%25AE%25E3%2581%25AE%25E5%2585%25A8%25E6%2589%258B%25E9%25A0%2586%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E3%2581%2582%25E3%2581%259F%25E3%2581%25AB%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzA0ZTQxODhhYTMuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:GMO%25E3%2583%259A%25E3%2583%2591%25E3%2583%259C%25E6%25A0%25AA%25E5%25BC%258F%25E4%25BC%259A%25E7%25A4%25BE%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jS01pZnBXYTEwM0NjM0gza3FxakVyUGhzS0dvaWJCYXJRV2FGbHZxMXVYWHhvZWYyeHc9czk2LWM=%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-    "fetched_at": "2026-03-26 11:13:29",
-    "ja_summary": "・RailsのCIで大量の不要なINSERT処理がボトルネックとなり、実行時間が8分から3分強へ55%短縮された。\n・主な改善点はDB設定とCI設定の最適化であり、プロダクションコードの修正なしでも大幅な高速化を実現。\n・同様の環境であれば適用可能な手法であり、CI待ち時間の削減による開発効率向上が期待できる。"
-  },
-  {
-    "title": "Claude Codeとの壁打ちが「積み上げ型」に変わった。長期記憶MCPサーバーの開発記",
-    "link": "https://zenn.dev/kimmaru/articles/3dbd92dea9ede8",
-    "source": "Zenn Trends",
-    "published": "Tue, 24 Mar 2026 15:40:45 GMT",
-    "summary": "きっかけ\nClaude Codeを日常的に使っていると、ある問題にぶつかります。\nセッションが変わるたびに、前提の共有からやり直しになるのです。\nCLAUDE.mdにプロジェクトのルールを書くことはできます。しかし「先週の壁打ちで出た結論」「あのとき却下した設計案」といった動的な文脈は消えてしまいます。\nそんなとき、@noprogllamaさんの記事「Claude Codeに長期記憶を持たせたら、壁打ちの質が変わった」を読みました。SQLite 1ファイルでローカル完結、トークン消費ゼロ、FTS5＋ベクトル検索のハイブリッド。これだ、と思いました。\nただ、自分の環境に合わせていくつか...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--BfDWNXCA--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%25E3%2581%25A8%25E3%2581%25AE%25E5%25A3%2581%25E6%2589%2593%25E3%2581%25A1%25E3%2581%258C%25E3%2580%258C%25E7%25A9%258D%25E3%2581%25BF%25E4%25B8%258A%25E3%2581%2592%25E5%259E%258B%25E3%2580%258D%25E3%2581%25AB%25E5%25A4%2589%25E3%2582%258F%25E3%2581%25A3%25E3%2581%259F%25E3%2580%2582%25E9%2595%25B7%25E6%259C%259F%25E8%25A8%2598%25E6%2586%25B6MCP%25E3%2582%25B5%25E3%2583%25BC%25E3%2583%2590%25E3%2583%25BC%25E3%2581%25AE%25E9%2596%258B%25E7%2599%25BA%25E8%25A8%2598%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2583%2586%25E3%2582%25BD%25E3%2583%2586%25E3%2582%25BD%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzQzMjliNGY3YTkuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-    "fetched_at": "2026-03-26 11:13:29",
-    "ja_summary": "Claude Codeのセッションごとに文脈がリセットされる課題を、SQLiteを用いた長期記憶サーバーの導入で解決。\n過去の議論や設計判断を自動で蓄積・参照可能にすることで、壁打ちの継続性と質を大幅に向上させた。\nローカル完結かつトークン消費ゼロの設計で、AI開発の効率化を実現した。"
-  },
-  {
-    "title": "25卒をAIネイティブ世代として育てた1年間の実践と可能性",
-    "link": "https://speakerdeck.com/nishihira/25zu-woaineiteihushi-dai-tositeyu-teta1nian-jian-noshi-jian-toke-neng-xing",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-03-25T09:01:36-04:00",
-    "summary": "技育祭2026春（2026/03/21）での登壇資料です。\n\n  開発未経験8割の25卒新卒を、AIネイティブなエンジニアとして育成した1年間の実践を紹介します。\n\n  - 4段階の研修プログラム（ノーコード → AIエージェント開発 → 個人開発 → チーム開発）の設計と成果\n  - 未経験から半年で実務レベルに到達した事例と、うまくいかなかったことの振り返り\n  - 「ハーネスエンジニアリング」— エンジニアの仕事が「コードを書く」から「AIが動ける環境を設計する」へ変化している話\n  - AI時代に若手が鍛えるべき3つの力：課題定義力・品質を磨く技術力・AIに任せる前提の設計力",
-    "image": "https://files.speakerdeck.com/presentations/78d0ad60e1044c598233bea36ef1c2ae/preview_slide_0.jpg?38849979",
-    "fetched_at": "2026-03-26 11:13:30",
-    "ja_summary": "・未経験の新卒を4段階の研修で半年以内に実務レベルのAIネイティブエンジニアへ育成する手法を確立。\n・エンジニアの役割が「コードを書く」から「AIを動かす環境設計」へシフトしたことを実証。\n・AI時代に不可欠な「課題定義」「品質管理」「AI前提の設計」の3つのスキルを若手に習得させる重要性を解説。"
   }
 ]
