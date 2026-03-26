@@ -1,5 +1,25 @@
 [
   {
+    "title": "メルカリ 生成AI画像巡り注意喚起",
+    "link": "https://news.yahoo.co.jp/pickup/6574196?source=rss",
+    "source": "Yahoo!ニュース IT・科学",
+    "published": "Wed, 25 Mar 2026 10:16:30 GMT",
+    "summary": "",
+    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/25/5a1240d75b8900790d5239524c3de4e1398341db5ff3e8dc49337ea9f5ede656.jpg",
+    "fetched_at": "2026-03-26 20:35:10",
+    "ja_summary": "・メルカリが生成AIで作成された画像を商品画像に使用する際の注意点を公表。\n・実物と異なる誤解を招く画像の利用や、AI生成であることを明記しない出品は規約違反となる恐れがある。\n・トラブル防止のため、現物の写真を併用し、AI利用の有無を正直に説明するよう求めている。"
+  },
+  {
+    "title": "Anthropic invests $100 million into the Claude Partner Network",
+    "link": "https://www.anthropic.com/news/claude-partner-network",
+    "source": "Anthropic (News)",
+    "published": "Thu, 12 Mar 2026 00:00:00 +0000",
+    "summary": "Anthropic invests $100 million into the Claude Partner Network",
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20ShapeBuild&amp;backgroundColor=fig",
+    "fetched_at": "2026-03-26 20:35:19",
+    "ja_summary": "・AnthropicがAIプラットフォーム「Claude」のパートナーネットワークに1億ドルを投資。\n・エコシステムを拡大し、Claudeを活用したビジネスソリューション開発を加速させる狙い。\n・企業向けAIサービスの導入支援体制を強化し、市場競争力を高める方針。"
+  },
+  {
     "title": "Introducing The Anthropic Institute",
     "link": "https://www.anthropic.com/news/the-anthropic-institute",
     "source": "Anthropic (News)",
@@ -978,25 +998,5 @@
     "image": "https://res.cloudinary.com/zenn/image/upload/s--favLsGNy--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590Claude%2520Code%25E3%2580%2591Kaggle%25E4%25B8%258A%25E4%25BD%258D%25E5%258B%25A2%25E3%2581%258C%25E8%25A8%25AD%25E5%25AE%259A%25E3%2581%2599%25E3%2582%258BClaude%2520Code%25E3%2581%25AEskills%25E3%2581%25A8agents%25E3%2582%2592%25E3%2583%2581%25E3%2582%25A7%25E3%2583%2583%25E3%2582%25AF%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:nakakiiro%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUxtNXd1M1hKcDNodXJyRzV5cDNzR19jZXJtREh6YXZMeGVqN3FUSDcxTTZuQT1zOTYtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
     "fetched_at": "2026-03-25 20:12:30",
     "ja_summary": "・Claude Codeは「CLAUDE.md」だけでなく、.claude/ディレクトリでスキルやカスタムエージェントの定義が可能。\n・Kaggle上位勢が公開しているスキル設定やボイラープレートを活用することで、開発の効率化と手順の標準化を実現できる。\n・これらを組み込むことで、Claude Codeを特定タスクに特化した強力なツールとしてカスタマイズできる。"
-  },
-  {
-    "title": "Raspberry Piではじめる自宅サーバー入門（第2巻：運用編）",
-    "link": "https://zenn.dev/murasanlab/books/10b6b15e557685",
-    "source": "Zenn Trends",
-    "published": "Mon, 23 Mar 2026 10:21:42 GMT",
-    "summary": "Raspberry Piでサーバーを立ち上げた。SSHで接続できるようになった。サービスも自動起動するようにした——\n\nでも、ふと不安がよぎります。「このサーバー、外から攻撃されたらどうしよう？」\n\n本書は、Raspberry Piサーバーを「動いている」状態から「安心して運用できる」状態へとステップアップさせるための1冊です。ファイアウォールで不要な通信を遮断し、不正アクセスを自動でブロックし、VPNで外出先から安全に接続する。さらにDockerを使って、サービスの構築・管理をモダンな手法で行えるようになります。\n\nコマンドを丸暗記するのではなく、「なぜその設定が必要なのか」「その仕組みはどうなっているのか」を一つずつ丁寧に解説しています。ufw、fail2ban、CrowdSec、Tailscale、WireGuard、Cloudflare Tunnel、Docker——これらの技術を、仕組みから理解して使いこなせる力を身につけます。\n\n本書は「Raspberry Piではじめる自宅サーバー入門」シリーズの第2巻（運用編）です。サーバーの「守り」と「つながり」を、ここから固めていきましょう。",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--F1DSiFjl--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci9iYjA1ZDljNTJiLmpwZWc=%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg?_a=BACAGSGT",
-    "fetched_at": "2026-03-25 20:12:31",
-    "ja_summary": "Raspberry Piサーバーを安全かつ快適に運用するための実践ガイド。\nファイアウォールやVPNによるセキュリティ強化から、Dockerを用いたモダンな管理手法までを解説。\nコマンドの丸暗記ではなく、仕組みの理解に重点を置き、自宅サーバーの「守り」と「接続」を完結させる。"
-  },
-  {
-    "title": "AI時代のIssue駆動開発のススメ",
-    "link": "https://speakerdeck.com/moongift/aishi-dai-noissuequ-dong-kai-fa-nosusume",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-03-25T06:58:00-04:00",
-    "summary": "Yokohama North Meetup #14 〜AI について語ろう！〜 - connpass\nhttps://yokohama-north.connpass.com/event/382689/\n\nでの発表資料です。",
-    "image": "https://files.speakerdeck.com/presentations/038fec80e3744f29b3273488d1b25a06/preview_slide_0.jpg?38848799",
-    "fetched_at": "2026-03-25 20:12:31",
-    "ja_summary": "・AI時代において、課題（Issue）を起点に開発を進める手法が重要化。\n・AIを活用してIssue駆動開発を効率化・加速させるための具体的な実践論。\n・開発プロセスの透明性と生産性を高めるための知見を共有する勉強会発表。"
   }
 ]
