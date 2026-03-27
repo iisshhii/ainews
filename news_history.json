@@ -1,5 +1,35 @@
 [
   {
+    "title": "【VS Code】GitHub Copilotのサブエージェント(.agent.md)でモデル指定が無視される問題と最新動向",
+    "link": "https://zenn.dev/headwaters/articles/b5d7d83a53b518",
+    "source": "Zenn Trends",
+    "published": "Thu, 26 Mar 2026 09:39:43 GMT",
+    "summary": "はじめに\nVS CodeのCopilot Chatで .agent.md を使ったカスタムエージェント、便利ですよね。\n特に runSubagent を使い、複数の専門エージェントをオーケストレーションする構成は、\nVS Code公式ドキュメントでも推奨ユースケースとして紹介されています。\n\nSubagents公式ドキュメント\nhttps://code.visualstudio.com/docs/copilot/agents/subagents\n\n\n一方で、実際に高度な構成を組んでみると、\n「サブエージェント側（.agent.md）で指定したモデルが無視され、親エージェントのモデルが...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--1hFo4Dn9--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590VS%2520Code%25E3%2580%2591GitHub%2520Copilot%25E3%2581%25AE%25E3%2582%25B5%25E3%2583%2596%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588%2528.agent.md%2529%25E3%2581%25A7%25E3%2583%25A2%25E3%2583%2587%25E3%2583%25AB%25E6%258C%2587%25E5%25AE%259A%25E3%2581%258C%25E7%2584%25A1%25E8%25A6%2596%25E3%2581%2595%25E3%2582%258C%25E3%2582%258B%25E5%2595%258F%25E9%25A1%258C...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E5%25A6%25B9%25E5%25B0%25BE%25E6%2582%25A0%25E7%259C%259F%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzZjNGExY2UxMDYuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2583%2598%25E3%2583%2583%25E3%2583%2589%25E3%2582%25A6%25E3%2582%25A9%25E3%2583%25BC%25E3%2582%25BF%25E3%2583%25BC%25E3%2582%25B9%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzhhOTNmNzAyMzUuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-03-27 21:29:12",
+    "ja_summary": "・VS Codeのカスタムエージェントでモデル指定が無視される不具合が報告されている。\n・サブエージェント（.agent.md）で設定したモデルが反映されず、親側のモデルが優先される事象が発生。\n・オーケストレーション構成の運用に影響があるため、今後の修正動向に注意が必要。"
+  },
+  {
+    "title": "LLMに図面は読めるか – 製造業の「暗黙知」を突破するコンテキスト設計3つのアプローチ",
+    "link": "https://speakerdeck.com/caddi_eng/llmnitu-mian-hadu-meruka-zhi-zao-ye-no-an-mo-zhi-wotu-po-surukontekisutoshe-ji-3tunoapuroti",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-03-27T08:17:56-04:00",
+    "summary": "2026/3/27開催のイベント「カオスなデータに向き合う！ ドメイン特化のAIエンジニアリング論」の登壇資料です。\n\nhttps://connpass.com/event/385864/",
+    "image": "https://files.speakerdeck.com/presentations/a31203cac3434d758d35798c547ddf00/preview_slide_0.jpg?38883620",
+    "fetched_at": "2026-03-27 21:29:13",
+    "ja_summary": "・製造現場の図面など、読み取りが困難な専門データをLLMで活用する技術を解説。\n・製造業特有の「暗黙知」をAIに学習させるためのコンテキスト設計手法を提示。\n・ドメイン特化型AIの実装に向けた、実践的なエンジニアリングのアプローチを公開。"
+  },
+  {
+    "title": "LLMに図面は読めるか – 製造業の「暗黙知」を突破するコンテキスト設計3つのアプローチ",
+    "link": "https://speakerdeck.com/caddi_eng/llmnitu-mian-hadu-meruka-zhi-zao-ye-no-an-mo-zhi-wotu-po-surukontekisutoshe-ji-3tunoapuroti-11808805-ccee-48d8-8876-b12b274bf359",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-03-27T08:09:53-04:00",
+    "summary": "2026/3/27開催のイベント「カオスなデータに向き合う！ ドメイン特化のAIエンジニアリング論」の登壇資料です。\n\nhttps://connpass.com/event/385864/",
+    "image": "https://files.speakerdeck.com/presentations/b2af77d731594d3bba667b624c19230b/preview_slide_0.jpg?38882896",
+    "fetched_at": "2026-03-27 21:29:13",
+    "ja_summary": "・製造業における図面データのLLM活用には、特有の「暗黙知」を扱うコンテキスト設計が不可欠。\n・LLMに図面を正しく理解させるための技術的な3つのアプローチを解説。\n・ドメイン特化型AIの実装に向けた、複雑なデータとの向き合い方を提示。"
+  },
+  {
     "title": "AGENTS.md完全入門 ── 60,000リポジトリが採用した事実上の共通フォーマット",
     "link": "https://qiita.com/nogataka/items/ad15bfa383c98ae5cc36",
     "source": "Qiita (Popular)",
@@ -968,35 +998,5 @@
     "image": "https://xtech.nikkei.com/atcl/nxt/news/24/03152/topm.jpg?20220512",
     "fetched_at": "2026-03-26 18:43:33",
     "ja_summary": "・SAPジャパン次期社長の堀川氏は、AI時代におけるデータとアプリの一元化こそが同社の最大の強みであると強調。\n・既存のECC6.0ユーザーからS/4HANAへの移行は順調に推移している。\n・2026年度に向け、SAP製品の強みを活かした経営戦略を推進する。"
-  },
-  {
-    "title": "グーグル、3分の曲を作れるAI「Lyria 3 Pro」 “サビ”も理解",
-    "link": "https://www.watch.impress.co.jp/docs/news/2096609.html",
-    "source": "Impress Watch",
-    "published": "",
-    "summary": "米Googleは、2月に発表した楽曲生成AI「Lyria 3」の性能を向上させた上位モデル「Lyria 3 Pro」を発表した。企業向けサービスのほか、Geminiのアプリでも利用できるようにするなど、提供する場所も拡大する。",
-    "image": "https://www.watch.impress.co.jp/img/ipw/list/2096/609/00.jpg",
-    "fetched_at": "2026-03-26 18:43:37",
-    "ja_summary": "・Googleが楽曲生成AIの上位モデル「Lyria 3 Pro」を発表。\n・最大3分の曲生成に加え、楽曲の「サビ」構造も理解可能に。\n・企業向けサービスやGeminiアプリに導入し、利用環境を拡大。"
-  },
-  {
-    "title": "アップル、『WWDC26』を6月8日から開催へ。「AIの進化」など発表予定",
-    "link": "https://www.techno-edge.net/article/2026/03/24/4952.html",
-    "source": "TechnoEdge",
-    "published": "Tue, 24 Mar 2026 10:14:05 +0900",
-    "summary": "アップルは、今年の世界開発者会議（WWDC26）を6月8日から12日にかけてオンライン開催すると発表しました。",
-    "image": "https://www.techno-edge.net/imgs/rss/30577.jpg",
-    "fetched_at": "2026-03-26 18:43:54",
-    "ja_summary": "・アップルが開発者会議「WWDC26」を6月8日から12日までオンライン開催。\n・AI技術の進化を中心とした最新の発表が予定されている。"
-  },
-  {
-    "title": "20人分の効率化。Y Combinator CEO独自開発のClaude Code用カスタムスキル「gstack」が無料公開。本業の傍ら1日1万行以上の実用的なコードを出力（生成AIクローズアップ）",
-    "link": "https://www.techno-edge.net/article/2026/03/24/4951.html",
-    "source": "TechnoEdge",
-    "published": "Tue, 24 Mar 2026 09:02:54 +0900",
-    "summary": "Y CombinatorのCEOであるギャリー・タン氏（Garry Tan）が、自身のClaude Codeの開発環境「gstack」をGitHubでオープンソース（MITライセンス）として無料公開したことを取り上げます。",
-    "image": "https://www.techno-edge.net/imgs/rss/30553.jpg",
-    "fetched_at": "2026-03-26 18:43:54",
-    "ja_summary": "・Y CombinatorのCEOが、AI開発を効率化する独自ツール「gstack」を無料公開。\n・1日1万行以上のコード出力を実現し、作業効率を大幅に向上させる。\n・GitHubにてMITライセンスで提供され、誰でも活用可能。"
   }
 ]
