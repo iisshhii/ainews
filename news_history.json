@@ -1,5 +1,25 @@
 [
   {
+    "title": "Wikipedia、「生成AIが作った記事」を禁止",
+    "link": "https://www.watch.impress.co.jp/docs/news/2097049.html",
+    "source": "Impress Watch",
+    "published": "",
+    "summary": "英語版Wikipedia(ウィキペディア)は、記事の作成や書き換えで生成AI(大規模言語モデル、LLM)の使用を禁止するとアナウンスした。英語版Wikipediaにおけるガイドライン改定を受けたもので、例外を除き、コンテンツ作成では原則的に生成AIの使用が禁止される。",
+    "image": "https://www.watch.impress.co.jp/img/ipw/list/2097/049/w01.jpg",
+    "fetched_at": "2026-03-27 18:58:32",
+    "ja_summary": "・英語版Wikipediaが記事作成や編集への生成AI利用を原則禁止。\n・ガイドライン改定により、AIによるコンテンツ生成は例外を除き不可。\n・信頼性維持のため、人間による執筆・検証を重視する方針。"
+  },
+  {
+    "title": "Embeddings : Symfony AI en pratique",
+    "link": "https://speakerdeck.com/lyrixx/embeddings-symfony-ai-en-pratique",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-03-27T05:18:44-04:00",
+    "summary": "On parle beaucoup d’IA, mais rarement de ce qu’on peut *vraiment* en faire dans un projet PHP.\nAvec Symfony AI, il devient enfin possible de manipuler des modèles d’embeddings, de génération ou de classification sans quitter son écosystème habituel.\n\nDans ce talk, on explore concrètement l’usage des **embeddings** avec Symfony AI, à travers un exemple simple : rapprocher automatiquement des pages web par similarité.\n\nAu programme :\n\n* comprendre ce qu’est un embedding et comment il permet de mesurer la similarité entre textes ;\n* découvrir les **plateformes et modèles** disponibles, et apprendre à choisir le bon selon vos besoins ;\n* vectoriser du contenu depuis Symfony et communiquer efficacement avec votre modèle ;\n* stocker et requêter les vecteurs dans différents **stores** (Redis, ClickHouse, Postgres, etc.) ;\n* héberger et scaler votre “vectoriseur” (Ollama, multi-GPU, RabbitMQ…).\n\nL’objectif : comprendre les bases réelles de l’IA sémantique appliquée au PHP, et repartir avec une méthode claire pour expérimenter, comparer et mettre en production vos propres embeddings.",
+    "image": "https://files.speakerdeck.com/presentations/f93dd05310164ea48fc48c222c1a7eef/preview_slide_0.jpg?38879169",
+    "fetched_at": "2026-03-27 18:59:07",
+    "ja_summary": "・Symfony AIを活用し、PHP環境のままAIの「埋め込み（Embedding）」技術を実装する方法を解説。\n・Webページの類似度判定を例に、ベクトル化からデータベース保存、スケーラブルな運用までを網羅。\n・セマンティック検索の実装に必要な理論と実践的なワークフローを習得し、自社開発への導入を目指す。"
+  },
+  {
     "title": "Box Japan、新年度の事業戦略を発表--AIエージェントの「実装元年」を推進",
     "link": "https://japan.zdnet.com/article/35245614/",
     "source": "ZDNET Japan",
@@ -978,25 +998,5 @@
     "image": "https://www.techno-edge.net/imgs/rss/30555.jpg",
     "fetched_at": "2026-03-26 18:43:54",
     "ja_summary": "・「AutoResearchClaw」により、アイデア入力のみで国際会議水準の論文作成が可能に。\n・PCの未使用時間を活用し自律的に進化するAIエージェント「MetaClaw」が登場。\n・直近1週間で注目された、生成AI分野における最新技術と研究成果5選を解説。"
-  },
-  {
-    "title": "AGENTS.md完全入門 ── 60,000リポジトリが採用した事実上の共通フォーマット",
-    "link": "https://qiita.com/nogataka/items/ad15bfa383c98ae5cc36",
-    "source": "Qiita (Popular)",
-    "published": "2026-03-24T10:35:47+09:00",
-    "summary": "\nAGENTS.md は「AIコーディングエージェント向けの README」です。\nリポジトリにこのファイルを置くことで、Codex CLI・Cursor・GitHub Copilot など多くのツールが共通の指示を読み取れます。ただし、ツールごとに対応状況や読み込み条件には差があります。\n\nこの記事では、AGENTS.md が生まれた背景、ツールごとの対応差、実践的な導入ノウハウまでを体系的に解",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYxNjEyOTglMkZjMWUzZmZkNmVhZGExOTY5ZmYzYzQ0YjE0ZmRlMDgxYmNkZTZmNTAwJTJGeF9sYXJnZS5wbmclM0YxNTg0ODQ1NTg0P2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz00ZGRjZmU5NTFjNTMyMzU3NjcyOGUzOTkyOTNmOGRlNQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D246367bff431168e6212d2602a3df494?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9QUdFTlRTLm1kJUU1JUFFJThDJUU1JTg1JUE4JUU1JTg1JUE1JUU5JTk2JTgwJTIwJUUyJTk0JTgwJUUyJTk0JTgwJTIwNjAlMkMwMDAlRTMlODMlQUElRTMlODMlOUQlRTMlODIlQjglRTMlODMlODglRTMlODMlQUElRTMlODElOEMlRTYlOEUlQTElRTclOTQlQTglRTMlODElOTclRTMlODElOUYlRTQlQkElOEIlRTUlQUUlOUYlRTQlQjglOEElRTMlODElQUUlRTUlODUlQjElRTklODAlOUElRTMlODMlOTUlRTMlODIlQTklRTMlODMlQkMlRTMlODMlOUUlRTMlODMlODMlRTMlODMlODgmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz02ZjJlNmVlZTUxMGY3MDhiYjVjMzFmZmZhNzA3Zjk1Zg&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBub2dhdGFrYSZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWE5ODA4YTE0Zjg4Y2I0ZjQ5OWU2ZDA3NGYyY2E2YTNh&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=8897b673ce353b9a6aa60b9fb64f727b",
-    "fetched_at": "2026-03-26 18:44:18",
-    "ja_summary": "・AGENTS.mdは、AIエージェントにプロジェクトの指示を最適に伝えるための共通フォーマット。\n・CursorやGitHub Copilotなど主要ツールで活用でき、AIの回答精度向上に貢献する。\n・ツールごとの対応状況や、実際に導入するためのノウハウを体系的に解説している。"
-  },
-  {
-    "title": "ファミマ、生成AIで「バイト募集原稿」を自動生成　作成時間を10分の1に",
-    "link": "https://www.itmedia.co.jp/business/articles/2603/25/news080.html",
-    "source": "ITmedia ビジネス",
-    "published": "Wed, 25 Mar 2026 11:34:00 +0900",
-    "summary": "ファミマは生成AIを活用した採用管理システムを全国導入し、アルバイト募集原稿の作成時間を約10分の1に短縮する。",
-    "image": "https://image.itmedia.co.jp/business/articles/2603/25/cover_news080.jpg",
-    "fetched_at": "2026-03-26 17:31:26",
-    "ja_summary": "・ファミリーマートが全国の店舗で生成AIによるアルバイト募集原稿の自動作成システムを導入。\n・原稿作成にかかる時間を従来比で約10分の1に大幅短縮。\n・採用業務の効率化により、店舗の負担軽減を図る。"
   }
 ]
