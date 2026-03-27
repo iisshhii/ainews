@@ -1,5 +1,45 @@
 [
   {
+    "title": "Anthropic invests $100 million into the Claude Partner Network",
+    "link": "https://www.anthropic.com/news/claude-partner-network",
+    "source": "Anthropic (News)",
+    "published": "Thu, 12 Mar 2026 00:00:00 +0000",
+    "summary": "Anthropic invests $100 million into the Claude Partner Network",
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20ShapeBuild&amp;backgroundColor=fig",
+    "fetched_at": "2026-03-28 07:26:24",
+    "ja_summary": "・AnthropicがAIモデル「Claude」のパートナー支援へ1億ドルを投資\n・エコシステム拡大を通じた企業向けソリューションの強化が狙い\n・開発環境の整備により、顧客のAI導入と活用を加速させる方針"
+  },
+  {
+    "title": "社内問い合わせをAIエージェント化して爆速で解決できるようにした",
+    "link": "https://zenn.dev/dinii/articles/18128bd1685e2a",
+    "source": "Zenn Trends",
+    "published": "Fri, 27 Mar 2026 07:11:20 GMT",
+    "summary": "はじめに：社内問い合わせがじわじわ開発を削っていく\nダイニーでは、飲食店舗から日々、運用サポートチームに問い合わせが寄せられます。そして、運用サポートチームだけでは解決できない技術的な問い合わせを開発チームへつなぐ\"入口\"が 社内問い合わせシステム です。\n「会計がうまくいかない」「設定画面の操作が分からない」といった声が、社内問い合わせシステムを通って日々エスカレーションされます。\nただ、運用が軌道に乗るにつれて次の課題が顕在化しました。\n\n1日あたり約8件の問い合わせが発生する\n1件の調査に数時間かかる\nリードタイムの中央値が10日\nステータス管理が弱く、クローズされずに放置され...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--JSiGOfDc--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E7%25A4%25BE%25E5%2586%2585%25E5%2595%258F%25E3%2581%2584%25E5%2590%2588%25E3%2582%258F%25E3%2581%259B%25E3%2582%2592AI%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588%25E5%258C%2596%25E3%2581%2597%25E3%2581%25A6%25E7%2588%2586%25E9%2580%259F%25E3%2581%25A7%25E8%25A7%25A3%25E6%25B1%25BA%25E3%2581%25A7%25E3%2581%258D%25E3%2582%258B%25E3%2582%2588%25E3%2581%2586%25E3%2581%25AB%25E3%2581%2597%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E3%2581%25BE%25E3%2582%258A%25E3%2582%258B%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzZhNTVhMGJiNDIuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Dinii%2520Tech%2520Blog%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzczNzEwZWYxNWMuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-03-28 07:26:37",
+    "ja_summary": "・開発チームへの社内問い合わせが急増し、対応の長時間化や放置が課題となっていた。\n・AIエージェントを導入することで、複雑な問い合わせの解決を自動化・迅速化した。\n・対応コストを削減し、開発チームの生産性と業務効率を大幅に改善した。"
+  },
+  {
+    "title": "Snowflake Managed MCP Server × Claude Codeでデータの仕事を全部Agenticにやりきれそう",
+    "link": "https://zenn.dev/dely_jp/articles/snowflake-managed-mcp-claude-code-agentic-dataops",
+    "source": "Zenn Trends",
+    "published": "Fri, 27 Mar 2026 01:45:52 GMT",
+    "summary": "こんにちは、クラシルでデータエンジニアをしているharry(@gappy50)です。\n突然ですが、私はAIで自分の仕事をほぼ無くしました。\n人間の皆様、今までありがとうございました！\nhttps://x.com/gappy50/status/2036277855831859667?s=20\n冗談(でもないですが)はさておき、先に結論をお伝えします。まだ道半ばの部分もありますが、データマネジメントを正しくやってAI Readyな状態にしておけば、Snowflake Managed MCP Server × Claude Codeで開発・分析・マネジメントをAgenticに回せる手応えを得て...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--KNw_MpLB--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Snowflake%2520Managed%2520MCP%2520Server%2520%25C3%2597%2520Claude%2520Code%25E3%2581%25A7%25E3%2583%2587%25E3%2583%25BC%25E3%2582%25BF%25E3%2581%25AE%25E4%25BB%2595%25E4%25BA%258B%25E3%2582%2592%25E5%2585%25A8%25E9%2583%25A8Agent...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:harry%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzM3MDYyNjhkNmMuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Kurashiru%2520Tech%2520Blog%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzkwYWViZTYyZDcuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-03-28 07:26:37",
+    "ja_summary": "・「Snowflake Managed MCP Server」と「Claude Code」を組み合わせることで、データ開発・分析業務をAIエージェントに自動化できる。\n・適切にデータマネジメントを行い「AI Ready」な環境を整えることが、AIによる業務完結の鍵となる。\n・人間の介在を最小限に抑え、データ関連業務をAI主導で遂行する実用的な手応えが得られている。"
+  },
+  {
+    "title": "Claude Opus 4.6と同等のAIをローカルで動かすにはいくらかかるか？ローカルLLMを構築してわかったこと",
+    "link": "https://zenn.dev/suit9/articles/a1bf8f7c46ef3b",
+    "source": "Zenn Trends",
+    "published": "Thu, 26 Mar 2026 23:30:18 GMT",
+    "summary": "「自分のPCでAIを動かしたい」と思ったことはありませんか？\nClaudeやChatGPTはクラウド上で動いているため、会話の内容がサーバーに送られます。機密情報を扱う場合や、純粋に「自分のマシンで完結させたい」という場合には、ローカルLLMという選択肢があります。\nそこで実際にローカルLLMを構築し動かしてみたところある疑問が浮かびました。\n普段使っているClaude Opus 4.6と同等の精度をローカルで出すにはどのくらいのスペックが必要なのか？\n本記事ではまずPowerShell上でローカルLLMを動かしてチャットするところまでを試し、その結果からClaude Opus 4.6と...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--SgF0y2mb--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Opus%25204.6%25E3%2581%25A8%25E5%2590%258C%25E7%25AD%2589%25E3%2581%25AEAI%25E3%2582%2592%25E3%2583%25AD%25E3%2583%25BC%25E3%2582%25AB%25E3%2583%25AB%25E3%2581%25A7%25E5%258B%2595%25E3%2581%258B%25E3%2581%2599%25E3%2581%25AB%25E3%2581%25AF%25E3%2581%2584%25E3%2581%258F%25E3%2582%2589%25E3%2581%258B%25E3%2581%258B%25E3%2582%258B%25E3%2581%258B%25EF%25BC%259F%25E3%2583%25AD%25E3%2583%25BC%25E3%2582%25AB%25E3%2583%25ABLLM%25E3%2582%2592%25E6%25A7%258B%25E7%25AF%2589%25E3%2581%2597%25E3%2581%25A6%25E3%2582%258F%25E3%2581%258B%25E3%2581%25A3%25E3%2581%259F%25E3%2581%2593%25E3%2581%25A8%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Tomet%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzgyMzEzY2FiOWIuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-03-28 07:26:37",
+    "ja_summary": "・クラウドを介さず機密情報を守れる「ローカルLLM」の構築方法を解説。\n・Claude 3.5 Opus級の性能をローカルで再現するために必要なPCスペックを検証。\n・実機での動作テストに基づき、構築の実現性とコスト感を明らかにする。"
+  },
+  {
     "title": "Introducing The Anthropic Institute",
     "link": "https://www.anthropic.com/news/the-anthropic-institute",
     "source": "Anthropic (News)",
@@ -958,45 +998,5 @@
     "image": "https://res.cloudinary.com/zenn/image/upload/s--AyILkHLc--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:GitHub%2520PR%25E3%2582%2592%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25E3%2581%2599%25E3%2582%258BTUI%25E3%2582%2592%25E3%2581%25A4%25E3%2581%258F%25E3%2581%25A3%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:kawarimidoll%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2QxNjFiNWRjZTUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
     "fetched_at": "2026-03-26 23:11:12",
     "ja_summary": "AIによるコード生成が進む中、開発者は指示出しとレビューが中心に。\nGitHub PRのレビューをターミナルで効率化するTUIツール「gh-prism」を開発。\n既存ツールの課題を解決し、PRレビューの迅速化を目指す。"
-  },
-  {
-    "title": "来期の評価で変えようと思っていること 〜AI時代に変わること・変わらないこと〜",
-    "link": "https://speakerdeck.com/estie/lai-qi-noping-jia-debian-eyoutosi-tuteirukoto-aishi-dai-nibian-warukotobian-waranaikoto",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-03-26T08:51:25-04:00",
-    "summary": "エンジニアの評価制度どうしてる？ \n〜 スタートアップ各社の成長を加速させる評価制度とは〜\n2026/03/26\n@エンジニアの評価制度どうしてる？〜 スタートアップ各社の成長を加速させる評価制度とは〜\nhttps://estie.connpass.com/event/386701/\n\n株式会社estie\n取締役CTO 岩成達哉\nNari (@tiwanari)",
-    "image": "https://files.speakerdeck.com/presentations/5fe0f60588174ce6bc26844f20ede482/preview_slide_0.jpg?38866085",
-    "fetched_at": "2026-03-26 23:11:13",
-    "ja_summary": "AI時代にエンジニアの評価制度は進化し、成長を加速させる。\nスタートアップ各社は、変化に対応しつつも、変わらない本質を見極める。\n次期評価では、AI時代を見据えた制度変更を検討する。"
-  },
-  {
-    "title": "Building Developer Products in the Agentic Age",
-    "link": "https://speakerdeck.com/cweichen/building-developer-products-in-the-agentic-age",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-03-26T08:41:19-04:00",
-    "summary": "This is a talk given by Ching-Wei Chen at the LeadDev New York Meetup on Mar 25, 2026.\nThe presentation uses a case study of a major Spotify outage to emphasize the need for proactive reliability and performance issue detection. It introduces Datadog APM Recommendations as a developer product that detects common anti-patterns like aggressive retries and N+1 queries. The rise of capable coding agents is \"shrinking\" the Software Delivery Loop, requiring a shift to building specialized tools for AI Agents.\nThis shift necessitates building specialized tools that are designed to be consumed directly by AI Agents, rather than just humans. Effective agent tools must be optimized to \"save cognition\" by compressing deep insights from vast data (like trace spans) and minimizing friction through discoverability and sensible defaults. Specialized tools for tasks like identifying latency bottlenecks have shown significant performance improvements in internal agent investigations. The talk concludes that agent tools should be efficient, broadly useful, and discoverable to achieve the simplicity of tools like grep",
-    "image": "https://files.speakerdeck.com/presentations/eca00c2a92d5449a89b7263227685551/preview_slide_0.jpg?38865906",
-    "fetched_at": "2026-03-26 23:11:13",
-    "ja_summary": "AIエージェント時代には、人間だけでなくAIエージェントが直接利用できる、効率的で発見しやすい開発者向けツールが不可欠です。\nSpotifyの障害事例から、プロアクティブな信頼性・パフォーマンス検出の重要性が強調され、Datadog APM Recommendationsのようなツールが紹介されています。\nAIエージェントは開発プロセスを加速させるため、AIが「認知を節約」できるような、高度な洞察を圧縮・提供するツールの開発が求められます。"
-  },
-  {
-    "title": "Security in the AI Agent era",
-    "link": "https://speakerdeck.com/pict3/security-in-the-ai-agent-era",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-03-26T08:18:33-04:00",
-    "summary": "OWASP top 10 for Agentic AI などをメインとしたコンテンツ。\n一部、for Google Cloud。",
-    "image": "https://files.speakerdeck.com/presentations/3bb14e95087d48828b66f34075f2871c/preview_slide_0.jpg?38865398",
-    "fetched_at": "2026-03-26 21:40:11",
-    "ja_summary": "・AIエージェントの普及に伴う新たなセキュリティ脅威（OWASP Top 10）を解説。\n・エージェント特有のリスクと、Google Cloud環境での防御策に焦点を当てる。\n・AI活用におけるセキュリティ対策の最新ガイドラインを提示。"
-  },
-  {
-    "title": "メルカリ 生成AI画像巡り注意喚起",
-    "link": "https://news.yahoo.co.jp/pickup/6574196?source=rss",
-    "source": "Yahoo!ニュース IT・科学",
-    "published": "Wed, 25 Mar 2026 10:16:30 GMT",
-    "summary": "",
-    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/25/5a1240d75b8900790d5239524c3de4e1398341db5ff3e8dc49337ea9f5ede656.jpg",
-    "fetched_at": "2026-03-26 20:35:10",
-    "ja_summary": "・メルカリが生成AIで作成された画像を商品画像に使用する際の注意点を公表。\n・実物と異なる誤解を招く画像の利用や、AI生成であることを明記しない出品は規約違反となる恐れがある。\n・トラブル防止のため、現物の写真を併用し、AI利用の有無を正直に説明するよう求めている。"
   }
 ]
