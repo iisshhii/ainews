@@ -1,5 +1,35 @@
 [
   {
+    "title": "Box Japan、新年度の事業戦略を発表--AIエージェントの「実装元年」を推進",
+    "link": "https://japan.zdnet.com/article/35245614/",
+    "source": "ZDNET Japan",
+    "published": "",
+    "summary": "Box Japanは、2026年をAIエージェントの「実装元年」と位置付け、インテリジェントコンテンツ管理プラットフォームやエージェント機能を展開する。\n<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35245614/\"><img src=\"https://japan.zdnet.com/storage/2026/03/27/42d5f295f7b3528d69f4ee4ccff517b3/t/184/138/d/boxjapan002.jpg\" /></a>",
+    "image": "https://japan.zdnet.com/storage/2026/03/27/42d5f295f7b3528d69f4ee4ccff517b3/t/184/138/d/boxjapan002.jpg",
+    "fetched_at": "2026-03-27 18:00:33",
+    "ja_summary": "・Box Japanは2026年をAIエージェントの「実装元年」と位置づける。\n・コンテンツ管理プラットフォームの高度化を進め、AIエージェント機能を本格展開する。\n・業務効率化に向けたインテリジェントなコンテンツ管理体制の構築を推進する。"
+  },
+  {
+    "title": "Sydney will become Anthropic’s fourth office in Asia-Pacific",
+    "link": "https://www.anthropic.com/news/sydney-fourth-office-asia-pacific",
+    "source": "Anthropic (News)",
+    "published": "Tue, 10 Mar 2026 00:00:00 +0000",
+    "summary": "Sydney will become Anthropic’s fourth office in Asia-Pacific",
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Globe&amp;backgroundColor=sky",
+    "fetched_at": "2026-03-27 18:00:43",
+    "ja_summary": "・AI企業のAnthropicが、シドニーにアジア太平洋地域で4拠点目となるオフィスを開設。\n・同社のグローバル展開を強化し、現地市場でのプレゼンスを拡大。\n・AI技術の普及に向けた地域戦略の一環として実施される。"
+  },
+  {
+    "title": "【AWS】CloudTrail LakeとCloudWatch Logs Insightsの使い分け方針",
+    "link": "https://speakerdeck.com/tsurunosd/aws-cloudtrail-laketocloudwatch-logs-insightsnoshi-ifen-kefang-zhen-4921ab95-f71b-4f44-9deb-241c57878f6f",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-03-27T04:28:40-04:00",
+    "summary": "2025/7/30に行われた「AWSなんでもLT会 LT初心者歓迎！#7」での登壇資料です。\nCloudTrail LakeとCloudWatch Logs Insightsの使い分け方針をまとめています。\n\n■リンク\n・AWSなんでもLT会 LT初心者歓迎！#7\nhttps://ncdc-dev.connpass.com/event/360707/",
+    "image": "https://files.speakerdeck.com/presentations/10f4172a03c84c7e9fc55ab7f7a3a1ea/preview_slide_0.jpg?38877182",
+    "fetched_at": "2026-03-27 18:00:51",
+    "ja_summary": "・CloudTrail Lakeは「監査やコンプライアンス対応」など、長期間かつ複雑な分析に適する。\n・CloudWatch Logs Insightsは「障害調査や運用監視」など、迅速なトラブルシューティングに適する。\n・用途に応じて、データの保持期間と分析の目的で両者を使い分けることが重要。"
+  },
+  {
     "title": "AIが事務仕事の55％を代替も　管理部門は作業から提言型に転換せよ (人的資本、プロの視点)",
     "link": "https://business.nikkei.com/atcl/gen/19/00795/032600009/",
     "source": "日経ビジネス 最新",
@@ -968,35 +998,5 @@
     "image": "https://image.itmedia.co.jp/business/articles/2603/25/cover_news080.jpg",
     "fetched_at": "2026-03-26 17:31:26",
     "ja_summary": "・ファミリーマートが全国の店舗で生成AIによるアルバイト募集原稿の自動作成システムを導入。\n・原稿作成にかかる時間を従来比で約10分の1に大幅短縮。\n・採用業務の効率化により、店舗の負担軽減を図る。"
-  },
-  {
-    "title": "JERA副社長「発電所内データセンターモデルを国内外に」　AWSとも協議 (JERAの覚悟)",
-    "link": "https://business.nikkei.com/atcl/gen/19/00854/031600008/",
-    "source": "日経ビジネス 最新",
-    "published": "",
-    "summary": "AI時代の電力争奪戦でJERAが動く。最長10年待ちにもなる送電網の逼迫を逆手に、東京湾の発電所内にデータセンターを誘致して直接電力を送る。立地と安定供給の実績を生かし、前例のない事業モデル構築に挑む。",
-    "image": "https://business.nikkei.com/atcl/gen/19/00854/031600008/fb.jpg",
-    "fetched_at": "2026-03-26 17:31:30",
-    "ja_summary": "・JERAが発電所内にデータセンターを誘致し、電力を直接供給する新モデルを展開。\n・送電網の混雑を回避し、AI需要に伴う電力不足や接続待ちの課題を解決する。\n・AWSとも協議を開始し、国内外での事業化を通じて電力争奪戦での優位性を狙う。"
-  },
-  {
-    "title": "AIがついに人間の仕事を奪い始めた　解雇規制を緩和しないと日本は滅びるぞ (木村岳史の極言暴論！)",
-    "link": "https://business.nikkei.com/atcl/gen/19/00322/030900224/",
-    "source": "日経ビジネス 最新",
-    "published": "",
-    "summary": "日本の解雇規制は日本企業のDXやAI活用を妨げている。一刻も早く緩和しないと本当に大変なことになるぞ。",
-    "image": "https://business.nikkei.com/atcl/gen/19/00322/030900224/fb.jpg",
-    "fetched_at": "2026-03-26 17:31:31",
-    "ja_summary": "・日本の厳しい解雇規制がAI活用やDX推進の足かせとなっている。\n・このままでは日本企業の競争力が低下し、国全体が衰退する恐れがある。\n・AI時代に適応するため、解雇規制の緩和を早急に進めるべきである。"
-  },
-  {
-    "title": "国防総省は国家安全保障のためではなく&quot;アンソロピックを罰する意図で動いた&quot;可能性があると、判事は指摘した",
-    "link": "https://www.businessinsider.jp/article/2603anthropic-supply-chain-risk-hearing-judge-pentagon-pubish-cripple/",
-    "source": "Business Insider Japan",
-    "published": "Thu, 26 Mar 2026 08:15:00 GMT",
-    "summary": "Claudeの開発元であるアンソロピックは、国防総省によるリスク指定の差し止めを求めて訴訟しました。同社は高額な政府契約の機会喪失の可能性があり、連邦判事もリスク指定について懸念を示しました。",
-    "image": "https://media.loom-app.com/loom/2026/03/25/5afec342-18c3-4e20-ab65-470e329ae41b/original.jpg?w=1200&amp;h=630",
-    "fetched_at": "2026-03-26 17:31:42",
-    "ja_summary": "・アンソロピックが国防総省による自社AIの「リスク指定」を不当として提訴\n・連邦判事は、指定が安保目的ではなく同社への懲罰的意図で行われた可能性を示唆\n・同社は政府契約の機会喪失を懸念しており、今後の司法判断に注目が集まる"
   }
 ]
