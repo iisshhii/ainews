@@ -1,5 +1,15 @@
 [
   {
+    "title": "メルカリ 生成AI画像巡り注意喚起",
+    "link": "https://news.yahoo.co.jp/pickup/6574196?source=rss",
+    "source": "Yahoo!ニュース IT・科学",
+    "published": "Wed, 25 Mar 2026 10:16:30 GMT",
+    "summary": "",
+    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/25/5a1240d75b8900790d5239524c3de4e1398341db5ff3e8dc49337ea9f5ede656.jpg",
+    "fetched_at": "2026-03-28 07:59:25",
+    "ja_summary": "・メルカリが生成AIで作成された画像を商品画像に使用する際の注意喚起を実施。\n・AI生成画像が実物と異なるトラブルを避けるため、必ず実物写真を掲載するよう推奨。\n・不適切な画像は削除や利用制限の対象となる可能性があるため、ガイドラインの遵守を要請。"
+  },
+  {
     "title": "Anthropic invests $100 million into the Claude Partner Network",
     "link": "https://www.anthropic.com/news/claude-partner-network",
     "source": "Anthropic (News)",
@@ -988,15 +998,5 @@
     "image": "https://res.cloudinary.com/zenn/image/upload/s--9YhJmVDZ--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590%25E6%25B6%2588%25E8%25B2%25BB%25E3%2583%2588%25E3%2583%25BC%25E3%2582%25AF%25E3%2583%25B31%252F12%25E3%2580%2591%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2587%25E3%2582%25A3%25E3%2583%25B3%25E3%2582%25B0%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588%25E3%2581%25ABRAG%25E3%2581%25AF%25E7%25BD%25A0%25E3%2581%25A0%25E3%2581%25A3%25E3%2581%259F%25E3%2580%2582%25E3%2580%258C%25E6%25A4%259C%25E7%25B4%25A2%25E3%2580%258D%25E3%2581%25A7%25E3%2581%25AF%25E3%2581%25AA%25E3%2581%258F%25E3%2580%258C%25E3%2582%25B3%25E3%2583%25B3%25E3%2583%2591%25E3%2582%25A4%25E3%2583%25AB%25E3%2580%258D%25E3%2581%2599%25E3%2582%258BDAG%25E3%2583%2584%25E3%2583%25BC%25E3%2583%25AB...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E3%2581%25B5%25E3%2582%258F%25E3%2581%259B%25E3%2581%2590%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzBjYzdlMWE1YzYuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2582%2586%25E3%2582%2581%25E3%2581%25BF%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzA0YTRhZTU4ZjUuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
     "fetched_at": "2026-03-26 23:11:12",
     "ja_summary": "AIコーディングツールは、ドキュメント検索に大量のトークンを消費する。\nこの問題を解決するため、「検索」ではなく「コンパイル」するDAGツールを開発。\nAIが情報を効率的に理解し、より正確なコード生成を可能にする。"
-  },
-  {
-    "title": "GitHub PRをレビューするTUIをつくった",
-    "link": "https://zenn.dev/kawarimidoll/articles/1796ede41ed640",
-    "source": "Zenn Trends",
-    "published": "Wed, 25 Mar 2026 13:18:13 GMT",
-    "summary": "日々の開発で、AIエージェントにコードを書かせる時間がかなり多くなり、自分は指示出しとレビューが主になってきました。\nターミナルからPRレビューもサクッとやりたいなーと考え、TUIツールを作りました。\nhttps://github.com/kawarimidoll/gh-prism\n\n 既存ツールの課題\nGitHub PRのdiffをTUIで確認できるツールはすでにいくつか存在します。\n自作する前に、diffnavやdifitを触ってみました。\nhttps://github.com/dlvhdr/diffnav\nhttps://zenn.dev/yoshiko/articles/difi...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--AyILkHLc--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:GitHub%2520PR%25E3%2582%2592%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25E3%2581%2599%25E3%2582%258BTUI%25E3%2582%2592%25E3%2581%25A4%25E3%2581%258F%25E3%2581%25A3%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:kawarimidoll%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2QxNjFiNWRjZTUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-    "fetched_at": "2026-03-26 23:11:12",
-    "ja_summary": "AIによるコード生成が進む中、開発者は指示出しとレビューが中心に。\nGitHub PRのレビューをターミナルで効率化するTUIツール「gh-prism」を開発。\n既存ツールの課題を解決し、PRレビューの迅速化を目指す。"
   }
 ]
