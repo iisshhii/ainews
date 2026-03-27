@@ -1,5 +1,25 @@
 [
   {
+    "title": "アップル、『WWDC26』を6月8日から開催へ。「AIの進化」など発表予定",
+    "link": "https://www.techno-edge.net/article/2026/03/24/4952.html",
+    "source": "TechnoEdge",
+    "published": "Tue, 24 Mar 2026 10:14:05 +0900",
+    "summary": "アップルは、今年の世界開発者会議（WWDC26）を6月8日から12日にかけてオンライン開催すると発表しました。",
+    "image": "https://www.techno-edge.net/imgs/rss/30577.jpg",
+    "fetched_at": "2026-03-27 22:50:01",
+    "ja_summary": "アップルは6月8日からWWDC26をオンライン開催。\nAIの進化など、新技術や開発者向け情報が発表される見込み。\n開発者にとって注目のイベントとなる。"
+  },
+  {
+    "title": "ハーネスエンジニアリング入門 ── CLAUDE.mdの次に来るAIエージェント制御パラダイム",
+    "link": "https://qiita.com/nogataka/items/d1b3fcf355c630cd7fc8",
+    "source": "Qiita (Popular)",
+    "published": "2026-03-24T10:36:39+09:00",
+    "summary": "\n本稿では、AIエージェントの出力品質は「構造」で大きく変わるという前提のもと、CLAUDE.mdの次のパラダイムとして注目される「ハーネスエンジニアリング」の概念・構成要素・導入方法を、実運用の経験を交えて解説します。\n\n## なぜハーネスが必要になったのか\n\n半年ほど前、筆者はCLAUDE.mdだけでプロジェクトを回していました。\nコーディング規約、ディレクトリ構成、技術スタックを書いておけば",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYxNjEyOTglMkZjMWUzZmZkNmVhZGExOTY5ZmYzYzQ0YjE0ZmRlMDgxYmNkZTZmNTAwJTJGeF9sYXJnZS5wbmclM0YxNTg0ODQ1NTg0P2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz00ZGRjZmU5NTFjNTMyMzU3NjcyOGUzOTkyOTNmOGRlNQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D246367bff431168e6212d2602a3df494?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgzJThGJUUzJTgzJUJDJUUzJTgzJThEJUUzJTgyJUI5JUUzJTgyJUE4JUUzJTgzJUIzJUUzJTgyJUI4JUUzJTgzJThCJUUzJTgyJUEyJUUzJTgzJUFBJUUzJTgzJUIzJUUzJTgyJUIwJUU1JTg1JUE1JUU5JTk2JTgwJTIwJUUyJTk0JTgwJUUyJTk0JTgwJTIwQ0xBVURFLm1kJUUzJTgxJUFFJUU2JUFDJUExJUUzJTgxJUFCJUU2JTlEJUE1JUUzJTgyJThCQUklRTMlODIlQTglRTMlODMlQkMlRTMlODIlQjglRTMlODIlQTclRTMlODMlQjMlRTMlODMlODglRTUlODglQjYlRTUlQkUlQTElRTMlODMlOTElRTMlODMlQTklRTMlODMlODAlRTMlODIlQTQlRTMlODMlQTAmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1iZjg5YThmODllYjYwNTE2NjhiNDVhMzcxZDJkZDdkNA&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBub2dhdGFrYSZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWE5ODA4YTE0Zjg4Y2I0ZjQ5OWU2ZDA3NGYyY2E2YTNh&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=9a5b1e72857ebfef976cef97e9f84205",
+    "fetched_at": "2026-03-27 22:50:23",
+    "ja_summary": "AIエージェントの出力品質を向上させる「ハーネスエンジニアリング」を紹介。\nCLAUDE.mdなどの従来手法では限界があり、構造化による制御が次世代パラダイムとなる。\n本稿では、その概念、構成要素、導入方法を実例と共に解説する。"
+  },
+  {
     "title": "【VS Code】GitHub Copilotのサブエージェント(.agent.md)でモデル指定が無視される問題と最新動向",
     "link": "https://zenn.dev/headwaters/articles/b5d7d83a53b518",
     "source": "Zenn Trends",
@@ -978,25 +998,5 @@
     "image": "https://files.speakerdeck.com/presentations/8b511b3662c44e418d587d9bec7d3362/preview_slide_0.jpg?38864402",
     "fetched_at": "2026-03-26 19:37:07",
     "ja_summary": "・AIエージェントの活用には、単なる導入ではなく業務プロセスを最適化する「オペレーション設計」が不可欠。\n・AIと人間が協働する現場では、AIの動作を管理し業務フローを再構築する「オペレーションマネージャー」の役割が重要になる。\n・AIエージェント時代には、技術知識と業務遂行能力を掛け合わせ、組織の生産性を最大化する専門職の配置が求められる。"
-  },
-  {
-    "title": "ハーネスエンジニアリングとは何か ── コンテキストエンジニアリングの次のパラダイム",
-    "link": "https://qiita.com/miruky/items/155f3b5a0dcde72fcd10",
-    "source": "Qiita (Popular)",
-    "published": "2026-03-22T00:25:02+09:00",
-    "summary": "## はじめに\n\nこんばんは、mirukyです。\n\n**「AIエージェントにコードを書かせたら、半分書いたところでコンテキストが切れて、次のセッションで最初からやり直しになった。」**\n\nこの経験、ありませんか。\n\n2025年後半から、AIコーディングエージェントの能力は飛躍的に向上しました。Claude Code、OpenAI Codex、Kiro CLI、GitHub Copilot Agen",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGMzYzNzIwNCUyRnByb2ZpbGUtaW1hZ2VzJTJGMTc3NDQ0NTA3MD9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NWY2OTc3NjFmNDZhMTA4YTgyMjNmMDEzODFkMGVmZTY%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Db2bc8d820e2037057c6470791c40d1f8?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgzJThGJUUzJTgzJUJDJUUzJTgzJThEJUUzJTgyJUI5JUUzJTgyJUE4JUUzJTgzJUIzJUUzJTgyJUI4JUUzJTgzJThCJUUzJTgyJUEyJUUzJTgzJUFBJUUzJTgzJUIzJUUzJTgyJUIwJUUzJTgxJUE4JUUzJTgxJUFGJUU0JUJEJTk1JUUzJTgxJThCJTIwJUUyJTk0JTgwJUUyJTk0JTgwJTIwJUUzJTgyJUIzJUUzJTgzJUIzJUUzJTgzJTg2JUUzJTgyJUFEJUUzJTgyJUI5JUUzJTgzJTg4JUUzJTgyJUE4JUUzJTgzJUIzJUUzJTgyJUI4JUUzJTgzJThCJUUzJTgyJUEyJUUzJTgzJUFBJUUzJTgzJUIzJUUzJTgyJUIwJUUzJTgxJUFFJUU2JUFDJUExJUUzJTgxJUFFJUUzJTgzJTkxJUUzJTgzJUE5JUUzJTgzJTgwJUUzJTgyJUE0JUUzJTgzJUEwJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9ODE0YTdlODBiOTk4NGI1ODhhMzNhNDkxNDI4OGVmN2U&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBtaXJ1a3kmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1iMWMwZjM0MGFkNTI5NmU1ZmNjNDFiZDQxMGY0YWRjYw&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=172f5878a8656c805ffd6d2fcff6a7d2",
-    "fetched_at": "2026-03-26 19:37:10",
-    "ja_summary": "AIコーディングエージェントのコンテキスト切れ問題を解決する「ハーネスエンジニアリング」が登場。\nAIが継続的にコード開発できるよう、長期的な記憶と状態管理を可能にする技術。\nこれにより、AIによる開発効率が飛躍的に向上する。"
-  },
-  {
-    "title": "「ECC6.0ユーザーは順調にS/4HANAに移行」、SAPジャパン新社長が会見",
-    "link": "https://xtech.nikkei.com/atcl/nxt/news/24/03152/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "SAPジャパンは2026年3月26日、2026年度の経営戦略に関する記者会見を開催した。4月1日付で社長に就任する堀川嘉朗常務執行役員最高事業責任者は「AIの時代になり、データとアプリケーションの両方を持つSAPの強みが生きてくる」との見通しを示した。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/news/24/03152/topm.jpg?20220512",
-    "fetched_at": "2026-03-26 18:43:33",
-    "ja_summary": "・SAPジャパン次期社長の堀川氏は、AI時代におけるデータとアプリの一元化こそが同社の最大の強みであると強調。\n・既存のECC6.0ユーザーからS/4HANAへの移行は順調に推移している。\n・2026年度に向け、SAP製品の強みを活かした経営戦略を推進する。"
   }
 ]
