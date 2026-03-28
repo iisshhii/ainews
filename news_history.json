@@ -1,5 +1,35 @@
 [
   {
+    "title": "動画生成AI「Sora」の躓きとコンシューマビジネスの難しさ",
+    "link": "https://www.watch.impress.co.jp/docs/topic/watchplus/2096869.html",
+    "source": "Impress Watch",
+    "published": "",
+    "summary": "Impress Watchニュースレターに掲載した記事です。ニュースレターは無料で、毎週編集部員が会員向けのコラムなどをお送りしています。登録はこちらから。",
+    "image": "https://www.watch.impress.co.jp/img/ipw/list/2096/869/sora1.jpg",
+    "fetched_at": "2026-03-28 11:27:49",
+    "ja_summary": "・動画生成AI「Sora」が直面する課題を通じて、技術的革新を収益化する難しさを考察。\n・AI技術の向上とビジネスモデルの構築にはギャップがあり、普及への壁が存在する。\n・コンシューマ市場で持続的なビジネスを確立する重要性とハードルを解説。"
+  },
+  {
+    "title": "OpenClawでPM業務を自動化",
+    "link": "https://speakerdeck.com/knishioka/openclawdepmye-wu-wozi-dong-hua",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-03-27T20:36:43-04:00",
+    "summary": "AI社会実装勉強会第57回 (https://machine-learning-workshop.connpass.com/event/388419/) の発表資料です。",
+    "image": "https://files.speakerdeck.com/presentations/2b648b3ba9ed4cc4985f31ea601dabca/preview_slide_0.jpg?38894380",
+    "fetched_at": "2026-03-28 11:28:25",
+    "ja_summary": "・AI活用によるPM（プロジェクトマネジメント）業務の自動化手法を解説。\n・「OpenClaw」を用いた具体的な業務効率化のアプローチを提示。\n・AI社会実装勉強会にて公開された、実務に即した最新の知見。"
+  },
+  {
+    "title": "AI活用した運用改善v01",
+    "link": "https://speakerdeck.com/novi_tanaka/aihuo-yong-sitayun-yong-gai-shan-v01",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-03-23T08:04:59-04:00",
+    "summary": "OpenAIによる作成：\n・実施結果のレポート作成\n・AI,LLM活用した運用改善の概要\n※障害検知をトリガーに自立したプラン作成・評価・検証・対応までの一連の実装対処にむけて\n※一部、仮説箇所も含む",
+    "image": "https://files.speakerdeck.com/presentations/f6dc6a1d8e0a4b65bc2aef60591faadf/preview_slide_0.jpg?38838472",
+    "fetched_at": "2026-03-28 11:28:25",
+    "ja_summary": "・AIによる運用レポート作成の自動化に着手。\n・障害検知から対応策の策定・検証までを自律的に行う仕組みを構築中。\n・現在は一部仮説を含め、運用プロセスの高度化に向けた実装を推進。"
+  },
+  {
     "title": "グーグル、Geminiに他のAIから「メモリー」移植する“乗り換え”機能",
     "link": "https://www.watch.impress.co.jp/docs/news/2097141.html",
     "source": "Impress Watch",
@@ -968,35 +998,5 @@
     "image": "https://business.nikkei.com/images/onb/2019/nblogo_ogimage.png",
     "fetched_at": "2026-03-27 00:39:31",
     "ja_summary": "ソフトバンクグループの純資産が30兆円に達したのは、AI分野への巨額投資が奏功したため。\nその背景には、孫氏のビジョンを支えるCFO主導の緻密な財務戦略がある。\n金融財務でのイノベーションを支える、隠れた財務チームの功績に迫る。"
-  },
-  {
-    "title": "患者情報の文書 AI要約広がる",
-    "link": "https://news.yahoo.co.jp/pickup/6574085?source=rss",
-    "source": "Yahoo!ニュース IT・科学",
-    "published": "Tue, 24 Mar 2026 06:13:14 GMT",
-    "summary": "",
-    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/24/67f6592b5c5ff075c4d983f8940d92522358e158bdf16830b2751c47fa142edb.jpg",
-    "fetched_at": "2026-03-27 00:39:55",
-    "ja_summary": "AIが患者情報を文書化し、要約する技術が医療現場で普及。\n医師の事務作業負担を軽減し、診療に集中できる環境を整備。\n医療DX推進の鍵として期待が高まっている。"
-  },
-  {
-    "title": "一般競争入札：令和8年度法制事務における生成AIの活用等に関する技術検証・実装を掲載しました",
-    "link": "https://www.digital.go.jp/procurement",
-    "source": "デジタル庁",
-    "published": "Tue, 24 Mar 2026 15:00:00 +0900",
-    "summary": "",
-    "image": "https://www.digital.go.jp/themes/custom/gov_theme_da_2023/assets/images/ogp.png",
-    "fetched_at": "2026-03-27 00:39:59",
-    "ja_summary": "法務省が令和8年度から生成AIを法務事務に活用するための技術検証・実装者を募集。\n入札により、AI導入で業務効率化や高度化を目指す。"
-  },
-  {
-    "title": "ガバメントAI「源内」に関する取組をまとめたページを公開しました",
-    "link": "https://www.digital.go.jp/policies/gennai",
-    "source": "デジタル庁",
-    "published": "Tue, 24 Mar 2026 15:00:00 +0900",
-    "summary": "",
-    "image": "https://www.digital.go.jp/assets/contents/node/basic_page/field_thumbnail_image/cef0122b-0598-47f8-8a48-dc2c57d407c1/d8639adc/kv_gennai_260216.png",
-    "fetched_at": "2026-03-27 00:39:59",
-    "ja_summary": "政府AI「源内」の取り組みをまとめたページが公開された。\nAI活用による行政サービスの効率化や高度化を目指す。\n具体的な活用事例や今後の展望が紹介されている。"
   }
 ]
