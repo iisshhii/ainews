@@ -1,5 +1,15 @@
 [
   {
+    "title": "Inside our approach to the Model Spec",
+    "link": "https://openai.com/index/our-approach-to-the-model-spec",
+    "source": "OpenAI",
+    "published": "Wed, 25 Mar 2026 10:00:00 GMT",
+    "summary": "Learn how OpenAI’s Model Spec serves as a public framework for model behavior, balancing safety, user freedom, and accountability as AI systems advance.",
+    "image": "https://openai.com/favicon.ico",
+    "fetched_at": "2026-03-28 16:33:07",
+    "ja_summary": "・OpenAIはAIモデルの挙動を定義する公開フレームワーク「Model Spec」を策定。\n・安全性、ユーザーの自由、説明責任のバランスを保つための指針を提示。\n・技術の進歩に合わせてAIが適切な判断を下すための開発の基礎となるもの。"
+  },
+  {
     "title": "Introducing the OpenAI Safety Bug Bounty program",
     "link": "https://openai.com/index/safety-bug-bounty",
     "source": "OpenAI",
@@ -988,15 +998,5 @@
     "image": "https://xtech.nikkei.com/atcl/nxt/column/18/00682/032400204/topm.jpg?20220512",
     "fetched_at": "2026-03-27 05:05:21",
     "ja_summary": "生成AIの進化により、AIが考案した独自の「最強のプログラミング言語」を設計・実装することが可能になった。\n実際にAIが作成したコードでプログラムが動作することを確認し、開発ツールとしての高いポテンシャルを実証した。"
-  },
-  {
-    "title": "【書評】 作ってわかる大規模言語モデルの仕組み",
-    "link": "https://note.com/npaka/n/na8c148cd1fa2",
-    "source": "note (npaka)",
-    "published": "Fri, 13 Mar 2026 18:07:38 +0900",
-    "summary": "<p id=\"6aafce9a-7e4d-486a-a3cc-991ecc9823bf\" name=\"6aafce9a-7e4d-486a-a3cc-991ecc9823bf\">LLM（大規模言語モデル）の本はいろいろ出てきていますが、この『<strong>作ってわかる大規模言語モデルの仕組み</strong>』はかなりの良書です。理由はシンプルで、<strong>LLMを実際に作りながらその仕組みを理解できる本だから</strong>です。</p><p id=\"89714c77-b429-49f0-9c60-b6018ba4a9f1\" name=\"89714c77-b429-49f0-9c60-b6018ba4a9f1\">最近はLLMの解説記事や論文も増え、「Transformer」「LoRA」「RLHF」「DPO」といった言葉もよく見かけます。しかし、単語としては知っていても、</p><br /><a href=\"https://note.com/npaka/n/na8c148cd1fa2\">続きをみる</a>",
-    "image": "https://assets.st-note.com/production/uploads/images/258794679/rectangle_large_type_2_83c6149895c91e2b4f3e6dea43174b0d.jpeg?width=800",
-    "fetched_at": "2026-03-27 03:40:45",
-    "ja_summary": "・『作ってわかる大規模言語モデルの仕組み』は、LLMを実際に構築しながら仕組みを学べる良書である。\n・概念的な理解にとどまりがちなTransformerやLoRA、RLHFなどの技術を、実践を通じて深く習得できる。\n・LLMの理論と実装の乖離を埋めたいエンジニアや学習者にとって、非常に有用な一冊。"
   }
 ]
