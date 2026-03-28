@@ -1,5 +1,25 @@
 [
   {
+    "title": "［経営教室 AI活用編］コロプラ、クリエーターとゲーム用AIモデルをつくる (経営教室)",
+    "link": "https://business.nikkei.com/atcl/gen/19/00607/032300085/",
+    "source": "日経ビジネス 最新",
+    "published": "",
+    "summary": "ゲーム業界では、生成AIを活用した作品に対する抵抗感が強い。コロプラはAIでカード画像を生成するゲームを開発。丁寧に浸透を図った。クリエーターとAIが連携し、新たなゲームの楽しみ方を提案する。",
+    "image": "https://business.nikkei.com/atcl/gen/19/00607/032300085/fb.jpg",
+    "fetched_at": "2026-03-28 14:43:58",
+    "ja_summary": "・コロプラが生成AIを活用したカードゲーム開発に着手\n・クリエーターとの協働でAIへの抵抗感を払拭し、丁寧な導入を推進\n・AIと人間が連携することで、ゲームの新たな楽しみ方を創出する"
+  },
+  {
+    "title": "Claude Code同士が会話できるようになったらしいので試してみた",
+    "link": "https://zenn.dev/acntechjp/articles/7bb9f418be6e68",
+    "source": "Zenn Trends",
+    "published": "Thu, 26 Mar 2026 23:02:21 GMT",
+    "summary": "claude-peers-mcp というMCPサーバーを使うと、同じPC上の複数のClaude Codeセッションがお互いを発見して、メッセージを送り合えるらしい。\n面白そうなので手元のWindows環境で試してみました。\nいくつかハマったポイントと合わせて共有します。\n!\nリポジトリ: https://github.com/louislva/claude-peers-mcp\n\n\n こうなる\n最終的にはこんな感じで、2つのClaude Codeセッションが会話できるようになりました。\n\n\n 前提条件\n\nWindows 10/11\n\nClaude Code v2.1.80 以上 (clau...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--wUNakLAb--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%25E5%2590%258C%25E5%25A3%25AB%25E3%2581%258C%25E4%25BC%259A%25E8%25A9%25B1%25E3%2581%25A7%25E3%2581%258D%25E3%2582%258B%25E3%2582%2588%25E3%2581%2586%25E3%2581%25AB%25E3%2581%25AA%25E3%2581%25A3%25E3%2581%259F%25E3%2582%2589%25E3%2581%2597%25E3%2581%2584%25E3%2581%25AE%25E3%2581%25A7%25E8%25A9%25A6%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:shinya.hara%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2U2ZDA4MDY5ODcuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Accenture%2520Japan%2520%2528%25E6%259C%2589%25E5%25BF%2597%2529%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSzNHaEJfbzM5alNTMWxRQ1V3QmpjZnBRQmx1bF9aVVZHYldIczNSUXVWRDBTN2F3PXM5Ni1j%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-03-28 14:44:34",
+    "ja_summary": "「claude-peers-mcp」を用いることで、PC上の複数のClaude Codeセッション同士を連携させ、相互に会話させることが可能になった。\nWindows環境での検証結果や導入時の注意点を共有しており、AIエージェント間の協調作業の可能性を示す実証事例となっている。"
+  },
+  {
     "title": "一般競争入札：令和8年度法制事務における生成AIの活用等に関する技術検証・実装を掲載しました",
     "link": "https://www.digital.go.jp/procurement",
     "source": "デジタル庁",
@@ -978,25 +998,5 @@
     "image": "https://openai.com/favicon.ico",
     "fetched_at": "2026-03-27 02:44:26",
     "ja_summary": "・OpenAIがAIモデルの挙動を定義する公開ガイドライン「Model Spec」を策定。\n・安全性、ユーザーの自由、説明責任のバランスを保つための枠組みを提示。\n・技術進化に伴うAIの適切な振る舞いを明確化し、透明性と信頼性を向上させる。"
-  },
-  {
-    "title": "Gemini Embedding 2 の概要",
-    "link": "https://note.com/npaka/n/n1e39b1e67561",
-    "source": "note (npaka)",
-    "published": "Wed, 11 Mar 2026 06:43:21 +0900",
-    "summary": "<p id=\"116bbc09-4b40-4bfc-9334-53e8e7a8c224\" name=\"116bbc09-4b40-4bfc-9334-53e8e7a8c224\">以下の記事が面白かったので、簡単にまとめました。</p><figure id=\"64cc17bd-bf70-4d14-addb-2898ff5e90ea\" name=\"64cc17bd-bf70-4d14-addb-2898ff5e90ea\"><blockquote><p id=\"8b470a8c-ec47-4a51-b245-3582948a46d0\" name=\"8b470a8c-ec47-4a51-b245-3582948a46d0\"><strong>・</strong><a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-embedding-2/\" rel=\"nofollow noopener\" target=\"_blank\"><strong>Gemini Embedding 2: Our first natively multimodal embedding model</strong></a></p></blockquote>\n<figcaption></figcaption></figure><br /><a href=\"https://note.com/npaka/n/n1e39b1e67561\">続きをみる</a>",
-    "image": "https://assets.st-note.com/production/uploads/images/258171703/rectangle_large_type_2_bfbf5c46387c6775c1adf4274c528668.png?width=800",
-    "fetched_at": "2026-03-27 01:44:24",
-    "ja_summary": "Googleが「Gemini Embedding 2」を発表。\nこれは、テキストだけでなく画像なども理解できる、初のネイティブなマルチモーダル埋め込みモデル。\nAIによる高度な情報処理能力の向上が期待される。"
-  },
-  {
-    "title": "Introducing the OpenAI Safety Bug Bounty program",
-    "link": "https://openai.com/index/safety-bug-bounty",
-    "source": "OpenAI",
-    "published": "Wed, 25 Mar 2026 00:00:00 GMT",
-    "summary": "OpenAI launches a Safety Bug Bounty program to identify AI abuse and safety risks, including agentic vulnerabilities, prompt injection, and data exfiltration.",
-    "image": "https://openai.com/favicon.ico",
-    "fetched_at": "2026-03-27 01:44:30",
-    "ja_summary": "OpenAIがAIの悪用や脆弱性発見のため、バグ報奨金プログラムを開始。\nエージェントの脆弱性、プロンプトインジェクション、データ漏洩などを対象。\nAIの安全性を高めるための取り組み。"
   }
 ]
