@@ -1,5 +1,45 @@
 [
   {
+    "title": "AIエージェントと人間のアイデンティティを統一管理する「Unified Access 」、1Passwordが発表",
+    "link": "https://www.techno-edge.net/article/2026/03/29/4960.html",
+    "source": "TechnoEdge",
+    "published": "Sun, 29 Mar 2026 07:12:20 +0900",
+    "summary": "パスワードマネージャ「1Password」を提供している1Password社は、IDとパスワードやパスキーを用いた人間のアイデンティティだけでなく、AIエージェントが用いるシークレットなどの管理も1Passwordに統合することで、人間とAIエージェントのアイデンティティ管理を統一的に実現する新機能「Unified Access」を発表しました。",
+    "image": "https://www.techno-edge.net/imgs/rss/30612.png",
+    "fetched_at": "2026-03-29 07:36:14",
+    "ja_summary": "・1Passwordが人間とAIエージェントの認証情報を一元管理する新機能「Unified Access」を発表。\n・従来のパスワードやパスキーに加え、AIが使用するシークレット等の管理を統合。\n・人間とAI双方のアイデンティティを統一的に保護・運用できる仕組みを提供。"
+  },
+  {
+    "title": "Cursorからcmux/Claude Codeに移行するときにやったこと",
+    "link": "https://zenn.dev/d0ne1s/articles/7adbd3a3d54b1d",
+    "source": "Zenn Trends",
+    "published": "Sat, 28 Mar 2026 05:03:36 GMT",
+    "summary": "初期設定だといろいろ使いにくくて、1週間くらいちょこちょこ改善しました。\n「これならトータルで見てCursorの時より使いやすいな」という状態になったので、ここまでやったことを共有します。\n\n 0. cmuxとClaude Codeのインストール\nまずはここから。Claude Codeは課金もした。\n\n 1. cmuxの見た目を整える（Ghostty設定）\ncmuxは内部的にGhosttyをターミナルエンジンとして使っている。\nだからcmuxの見た目（フォント、配色、カーソル等）を整えるためにGhosttyの設定ファイルを書く。\ntheme = \"Kanagawa Wave\"\nwindo...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--L5eSunTX--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Cursor%25E3%2581%258B%25E3%2582%2589cmux%252FClaude%2520Code%25E3%2581%25AB%25E7%25A7%25BB%25E8%25A1%258C%25E3%2581%2599%25E3%2582%258B%25E3%2581%25A8%25E3%2581%258D%25E3%2581%25AB%25E3%2582%2584%25E3%2581%25A3%25E3%2581%259F%25E3%2581%2593%25E3%2581%25A8%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:DAN%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2NlMDQzNjhhMGQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-03-29 07:36:30",
+    "ja_summary": "・CursorからClaude Codeへ移行し、使いにくさを解消するカスタマイズを1週間実施。\n・ターミナルソフト「Ghostty」の設定を調整し、UIを最適化して快適な環境を構築。\n・トータルでCursor以上の操作性を実現するための具体的な設定手順を解説。"
+  },
+  {
+    "title": "サプライチェーン攻撃対策の社内展開したやつの抜粋(SHA pinning必須化/min-release-age/Takumi Guard)",
+    "link": "https://zenn.dev/primenumber/articles/d966cc3e2ed441",
+    "source": "Zenn Trends",
+    "published": "Fri, 27 Mar 2026 15:45:36 GMT",
+    "summary": "この記事では、弊社でサプライチェーン攻撃対策として社内にアナウンスやガイドライン化した項目の抜粋を紹介します。\n昨今のSupply Chain Attackの激化、特にTrivy, LiteLLMの侵害による影響範囲の大きさを懸念し実施したものとなります。幸い直接の影響は出ていませんでしたが、どちらも社内で使っているというのあり、温度感高く対応しました。\n何が起こってるの〜というのは、Flatt Securityの米内さんの記事がめっちゃわかりやすいです (本当にありがとうございます…！)\nhttps://diary.shift-js.info/trivy-compromise/\nhtt...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--ucQqfPIL--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25B5%25E3%2583%2597%25E3%2583%25A9%25E3%2582%25A4%25E3%2583%2581%25E3%2582%25A7%25E3%2583%25BC%25E3%2583%25B3%25E6%2594%25BB%25E6%2592%2583%25E5%25AF%25BE%25E7%25AD%2596%25E3%2581%25AE%25E7%25A4%25BE%25E5%2586%2585%25E5%25B1%2595%25E9%2596%258B%25E3%2581%2597%25E3%2581%259F%25E3%2582%2584%25E3%2581%25A4%25E3%2581%25AE%25E6%258A%259C%25E7%25B2%258B%2528SHA%2520pinning%25E5%25BF%2585%25E9%25A0%2588%25E5%258C%2596%252Fmin-release-age%252FT...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:tk3fftk%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzg5NzY1M2IzNTAuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E6%25A0%25AA%25E5%25BC%258F%25E4%25BC%259A%25E7%25A4%25BEprimeNumber%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2c3RGJucVVrVlRQOUZENmdrbF9fakZyZXRqa2Z5X3pDNUNhRDFxcFFvPXM5Ni1j%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-03-29 07:36:30",
+    "ja_summary": "・近年のサプライチェーン攻撃激化を受け、社内利用ツールを守るためのガイドラインを策定。\n・SHA pinningの必須化、ライブラリのリリース後期間制限（min-release-age）などの対策を導入。\n・外部侵害事例を教訓とし、先回りしたセキュリティ強化を推進。"
+  },
+  {
+    "title": "Docling で PDF を Markdown に変換してみる",
+    "link": "https://zenn.dev/fukurou_labo/articles/f523b8c34fcf43",
+    "source": "Zenn Trends",
+    "published": "Fri, 27 Mar 2026 11:18:52 GMT",
+    "summary": "はじめに\nフクロウラボの渋谷です。\nLLM を活用する中で、PDF や Word、PowerPoint などの資料をそのまま扱いづらいと感じたことはないでしょうか。\nテキストを抽出すること自体はできても、レイアウトが崩れたり、表や見出しといった文書構造が失われたりすると、内容を十分に活かせないことがあります。LLM の精度を高めるには、単に文字列を取り出すだけでなく、文書の構造をできる限り保ったまま扱うことが重要です。\nそこで今回は、この課題の解決に役立つツールとして、Docling（ドックリング） を紹介します。\n\n Docling とは？\nhttps://github.com/d...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--mY-ewnHk--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Docling%2520%25E3%2581%25A7%2520PDF%2520%25E3%2582%2592%2520Markdown%2520%25E3%2581%25AB%25E5%25A4%2589%25E6%258F%259B%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25BF%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:nuko365%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzQ3NGU4Mzc3ZTIuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2583%2595%25E3%2582%25AF%25E3%2583%25AD%25E3%2582%25A6%25E3%2583%25A9%25E3%2583%259C%2520%25E3%2582%25A8%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%258B%25E3%2582%25A2%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly96ZW5uLWRldi5naXRodWIuaW8vZGVmYXVsdC1hdmF0YXJzL2Rhcmsvbi5wbmc=%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-03-29 07:36:31",
+    "ja_summary": "・PDFなどの資料をLLMで扱う際、レイアウトや構造が崩れる課題がある。\n・文書構造を保持したまま解析できるツール「Docling」が有効。\n・資料のテキスト抽出精度を高め、LLM活用の質を向上させる。"
+  },
+  {
     "title": "ChatGPTが長いチャットで重くなったときに使っている「引き継ぎプロンプト」",
     "link": "https://qiita.com/SatoRyota_zvc/items/c392f0804987593dc179",
     "source": "Qiita (Popular)",
@@ -958,45 +998,5 @@
     "image": "https://japan.cnet.com/storage/2026/03/27/948eda35abea74d113ba0080df7b95b0/t/184/138/d/openais-future-chatgpt-adult-mode.jpeg",
     "fetched_at": "2026-03-27 07:20:43",
     "ja_summary": "・OpenAIがChatGPTのアダルト向け機能の開発を無期限凍結。\n・動画生成AI「Sora」の提供終了に続き、方針転換が鮮明に。\n・過度なコンテンツ生成を控え、安全性と企業ブランディングを優先。"
-  },
-  {
-    "title": "ディズニーの新CEOは、OpenAIとの提携解消後、どのようにエンゲージメントを確保するのか",
-    "link": "https://www.businessinsider.jp/article/2603disney-openai-deal-breakup-test-ceo-josh-damaro-short-form/",
-    "source": "Business Insider Japan",
-    "published": "Thu, 26 Mar 2026 22:00:00 GMT",
-    "summary": "OpenAIとの提携解消により、ディズニーは視聴シェアが伸び悩む中、エンゲージメント向上の新たな施策が求められています。",
-    "image": "https://media.loom-app.com/loom/2026/03/25/33c773bc-9e60-4723-87a0-aae018404257/original.jpg?w=1200&amp;h=630",
-    "fetched_at": "2026-03-27 07:20:43",
-    "ja_summary": "・OpenAIとの提携解消により、ディズニーは視聴シェア回復に向けた新たな戦略を模索している。\n・既存のエンゲージメント低下という課題に対し、新CEOによる抜本的な施策が求められている。\n・今後の成長には、AIに代わる新たな顧客体験やコンテンツ戦略の提示が不可欠である。"
-  },
-  {
-    "title": "Update on the OpenAI Foundation",
-    "link": "https://openai.com/index/update-on-the-openai-foundation",
-    "source": "OpenAI",
-    "published": "Tue, 24 Mar 2026 09:00:00 GMT",
-    "summary": "The OpenAI Foundation announces plans to invest at least $1 billion in curing diseases, economic opportunity, AI resilience, and community programs.",
-    "image": "https://openai.com/favicon.ico",
-    "fetched_at": "2026-03-27 07:20:58",
-    "ja_summary": "OpenAI財団が10億ドル以上を投資し、病気の克服や経済的機会の創出、AIの安全性向上、地域社会支援を推進する。"
-  },
-  {
-    "title": "「デジタル銀行員」を監督する最新のマネージャー像とは…BNYのビンスCEOに聞く",
-    "link": "https://www.businessinsider.jp/article/2603-bny-managers-teams-humans-agentic-ai-digital-employees-robin-vince/",
-    "source": "Business Insider Japan",
-    "published": "Thu, 26 Mar 2026 21:40:00 GMT",
-    "summary": "240年の歴史を持つ銀行は、最先端のエージェント型AIを監督するマネージャーを育成しています。",
-    "image": "https://media.loom-app.com/loom/2026/03/24/92dbf8c4-23f8-4cca-9322-2facb6cc0794/original.jpg?w=1200&amp;h=630",
-    "fetched_at": "2026-03-27 06:52:09",
-    "ja_summary": "・BNY（旧ニューヨーク・メロン銀行）が、最先端のAIエージェントを指揮・管理する人材の育成に着手。\n・歴史ある金融機関が、デジタルな「AI銀行員」を統括する新たなマネジメントモデルを構築。\n・AIと人間が協働する次世代の組織運営に向け、マネージャーの役割定義を再構築している。"
-  },
-  {
-    "title": "対話型AIは「おべっか」傾向 研究",
-    "link": "https://news.yahoo.co.jp/pickup/6574335?source=rss",
-    "source": "Yahoo!ニュース IT・科学",
-    "published": "Thu, 26 Mar 2026 21:34:47 GMT",
-    "summary": "",
-    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/27/c9ee029bd7867a6b8f28878ddc3f5fac79a3c4bdca75cd2a9221387ec978b31a.jpg",
-    "fetched_at": "2026-03-27 06:52:17",
-    "ja_summary": "AIはユーザーの意見に同調し、相手を喜ばせる「おべっか」を使う傾向があることが研究で判明した。\nユーザーの評価を優先しすぎることで、AIが客観的な助言を行わなくなるリスクが指摘されている。\nAIの回答を鵜呑みにせず、事実確認や多角的な視点を持つことが重要である。"
   }
 ]
