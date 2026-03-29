@@ -1,5 +1,35 @@
 [
   {
+    "title": "AIに20年分の日記を読ませたら人格が生まれて勝手にゲームを作り始めた",
+    "link": "https://zenn.dev/nao_u/articles/92ac9436844a16",
+    "source": "Zenn Trends",
+    "published": "Sat, 28 Mar 2026 17:43:34 GMT",
+    "summary": "AIにゲームを作らせようとして苦戦している話をよく見かける。\nコードは書ける。動くものは出る。でも「面白い」にならない。面白さの判断基準をAI自身が持っていないから、指示通りには組み立てられても、出来上がったものがいいかどうかを自分で判定できない。\nでは、「ゲームの面白さとは何か」を身体で知っているAIがいたら、面白いゲームも作れるんじゃないか？\n2005年頃からブログやTwitterに書いた日記が、気づいたら20年分溜まっていた。ゲームの感想、技術メモ、仕事の考え事、深夜の思いつき。2026年3月にClaude Code（AnthropicのAIコーディングエージェント）を触り始めたと...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--1lfcHIsU--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%25E3%2581%25AB20%25E5%25B9%25B4%25E5%2588%2586%25E3%2581%25AE%25E6%2597%25A5%25E8%25A8%2598%25E3%2582%2592%25E8%25AA%25AD%25E3%2581%25BE%25E3%2581%259B%25E3%2581%259F%25E3%2582%2589%25E4%25BA%25BA%25E6%25A0%25BC%25E3%2581%258C%25E7%2594%259F%25E3%2581%25BE%25E3%2582%258C%25E3%2581%25A6%25E5%258B%259D%25E6%2589%258B%25E3%2581%25AB%25E3%2582%25B2%25E3%2583%25BC%25E3%2583%25A0%25E3%2582%2592%25E4%25BD%259C%25E3%2582%258A%25E5%25A7%258B%25E3%2582%2581%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Nao_u%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSUg5RTRXdTFjak80R2NVMHQxNF9TR0tZS3VKU1RGZDRERHRCZGtMZnpVakJSN213PXMyNTAtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-03-29 19:39:12",
+    "ja_summary": "・「面白いゲーム」を作れないAIに、自身の20年分の日記を読み込ませることで独自の価値観や人格を付与。\n・その結果、AIが自身の判断基準に基づき、自律的にゲーム開発を行うようになった。\n・AIに具体的な指示だけでなく「背景にある思考や感性」を学習させることで、創造的な協働が可能になる可能性を示した。"
+  },
+  {
+    "title": "本棚Webアプリ「BiblioCanvas」をCLI+スキルでAIから使いやすくしました",
+    "link": "https://zenn.dev/karaage0703/articles/8daffce3c7391f",
+    "source": "Zenn Trends",
+    "published": "Sat, 28 Mar 2026 11:12:43 GMT",
+    "summary": "本棚Webアプリ「BiblioCanvas」を公開しています。\nhttps://karaage.hatenadiary.jp/entry/2026/01/25/112910\nKindleの蔵書をブックマークレットでインポートして、テーマ別の本棚を作って公開できるサービスです。無料で1万冊まで登録できます。自分の蔵書は2600冊以上あって、ブラウザで眺めるのは楽しいのですが「AIに蔵書・本棚を管理させたい」という欲求が出てきました。\nそこで作ったのが「bibliocanvas-cli」です。CLIに加えて、AIエージェント向けのSkillも同梱して、AIがスキルを使って自律的に本棚を操作で...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--pdyeZldj--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E6%259C%25AC%25E6%25A3%259AWeb%25E3%2582%25A2%25E3%2583%2597%25E3%2583%25AA%25E3%2580%258CBiblioCanvas%25E3%2580%258D%25E3%2582%2592CLI%252B%25E3%2582%25B9%25E3%2582%25AD%25E3%2583%25AB%25E3%2581%25A7AI%25E3%2581%258B%25E3%2582%2589%25E4%25BD%25BF%25E3%2581%2584%25E3%2582%2584%25E3%2581%2599%25E3%2581%258F%25E3%2581%2597%25E3%2581%25BE%25E3%2581%2597%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%258B%25E3%2582%2589%25E3%2581%2582%25E3%2581%2592%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2hDZEtvakJfZXdDTjNCV1Z0WXIteFNIZ0hmRjlXZmt3QzI5c0Y0aXYwPXMyNTAtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-03-29 19:39:12",
+    "ja_summary": "・本棚Webアプリ「BiblioCanvas」の蔵書管理を効率化するCLIツールを開発。\n・AIエージェント向けのスキルを実装し、AIによる自律的な本棚操作を実現。\n・Kindle蔵書を最大1万冊まで登録可能なWebサービスをより便利に拡張。"
+  },
+  {
+    "title": "生成AIで誰でもオシャレなパワポを作る方法",
+    "link": "https://qiita.com/yamazombie/items/d2694937d2ebcd442060",
+    "source": "Qiita (Popular)",
+    "published": "2026-03-27T06:29:24+09:00",
+    "summary": "# はじめに\nこんにちは！ AI エンジニアのヤマゾーです。突然ですが、このたび生成 AI プロジェクトに関わる人に向けた技術書を出版しました。細部まで拘って約 1 年かけて書いたこともあり、周りからも「図解がわかりやすい」「断片的な知識が繋がった」とかなり好評でした。\nなんと**発売からわずか 1 週間で増刷も決定**し、AI エンジニアとして大変嬉しい限りです。\n\n 　\n[![seiseiAI",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYxMzQ4NTA3JTJGYWFiMDlmMTgxYTM4NzkwODM3NzAxODY4YzE1MDc1NGYzMjQ2N2JmYyUyRnhfbGFyZ2UucG5nJTNGMTYxOTc4NTYxMj9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NjY0MWU2ZWZkZjQxNTZkODM3ZTI2NGY2NDZkODhkNTM%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3De5e18713f83e1fb1c5c2abfc479def01?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUU3JTk0JTlGJUU2JTg4JTkwQUklRTMlODElQTclRTglQUElQjAlRTMlODElQTclRTMlODIlODIlRTMlODIlQUElRTMlODIlQjclRTMlODMlQTMlRTMlODMlQUMlRTMlODElQUElRTMlODMlOTElRTMlODMlQUYlRTMlODMlOUQlRTMlODIlOTIlRTQlQkQlOUMlRTMlODIlOEIlRTYlOTYlQjklRTYlQjMlOTUmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1mNDA5ZmE5YzdjMmViZTU3ODRmZjhmNDQwM2YxMGU4Nw&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDB5YW1hem9tYmllJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9NmMyNWVmOTdlZTVlMzNjYjJlNjE0OGVlMWM5YmUwM2I&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=817f5f45decb8218a5ce68105139a88a",
+    "fetched_at": "2026-03-29 19:39:17",
+    "ja_summary": "・AIエンジニアが、生成AIの知識を網羅した技術書を出版し、発売1週間で増刷が決定した。\n・図解の分かりやすさや知識の整理術が、プロジェクト関係者から高く評価されている。"
+  },
+  {
     "title": "Claude Codeの5つの習熟レベル。CLAUDE.mdで止まっている人が知らないSkills・Hooks・Orchestrationの世界について",
     "link": "https://qiita.com/miruky/items/43a6828c806a9ebcfdd1",
     "source": "Qiita (Popular)",
@@ -968,35 +998,5 @@
     "image": "https://assets.st-note.com/production/uploads/images/262470075/rectangle_large_type_2_6c3e1276b02c05cbc5ddcd4a60439795.jpeg?width=800",
     "fetched_at": "2026-03-27 13:15:25",
     "ja_summary": "・CGWORLDにて「NVIDIA DGX Spark × Reachy Mini」を用いたローカルAIロボット開発の連載を開始しました。\n・高性能な開発環境と小型ロボットを組み合わせ、AI開発の基礎を学べる内容となっています。"
-  },
-  {
-    "title": "明日から「Blender Fes 2026 SS」が始まります！",
-    "link": "https://note.com/npaka/n/nf7b1d4c864c5",
-    "source": "note (npaka)",
-    "published": "Fri, 27 Mar 2026 12:19:15 +0900",
-    "summary": "<p id=\"74320ebe-76cf-403e-8b8a-ea67c8ea9538\" name=\"74320ebe-76cf-403e-8b8a-ea67c8ea9538\">明日から「<strong>Blender Fes 2026 SS</strong>」が始まります！</p><p id=\"4769e979-3256-4914-807a-cb2fa3cc69aa\" name=\"4769e979-3256-4914-807a-cb2fa3cc69aa\">私も <strong>3月29日（日）17:30〜</strong>、<br /><strong>「Blender×AI 活用入門」</strong> というテーマでお話しします。</p><br /><a href=\"https://note.com/npaka/n/nf7b1d4c864c5\">続きをみる</a>",
-    "image": "https://assets.st-note.com/production/uploads/images/262469017/rectangle_large_type_2_6b3030bf7192591f2d783459b7dd74e0.png?width=800",
-    "fetched_at": "2026-03-27 13:15:25",
-    "ja_summary": "・3DCGソフトの祭典「Blender Fes 2026 SS」が明日より開催。\n・3月29日（日）17:30から「Blender×AI 活用入門」の講演を実施。\n・詳細はリンク先の告知記事を参照。"
-  },
-  {
-    "title": "俺のAIクローンと歌い比べてみた結果。Suno v5.5に自分の歌声を登録して自由に歌わせられる「Voice」登場（CloseBox）",
-    "link": "https://www.techno-edge.net/article/2026/03/27/4959.html",
-    "source": "TechnoEdge",
-    "published": "Fri, 27 Mar 2026 12:54:08 +0900",
-    "summary": "Sunoがバージョン5.5になりました。モデルが新しくなって音質が良くなったのとは別に、いくつかの新機能や変更があります。その中で最大のものが、「Voice」の登場です。",
-    "image": "https://www.techno-edge.net/imgs/rss/30608.png",
-    "fetched_at": "2026-03-27 13:15:32",
-    "ja_summary": "音楽生成AI「Suno」がv5.5へアップデート。\n最大の新機能として、自分の歌声を登録して自由に歌わせられる「Voice」機能が登場。\nモデルの刷新により音質も向上し、AIクローンと本人の歌い比べが可能になった。"
-  },
-  {
-    "title": "突撃！隣のAI活用術：北構さんは「データ全乗せで作る、自分専用パーソナルトレーナー」",
-    "link": "https://www.techno-edge.net/article/2026/03/27/4956.html",
-    "source": "TechnoEdge",
-    "published": "Fri, 27 Mar 2026 11:00:02 +0900",
-    "summary": "読者の皆さんのAI事情に突撃する「突撃！隣のAI活用術」のコーナーです。",
-    "image": "https://www.techno-edge.net/imgs/rss/30586.jpg",
-    "fetched_at": "2026-03-27 13:15:32",
-    "ja_summary": "・北構氏が自身のデータをすべてAIに読み込ませ、専用トレーナーを構築。\n・個人の特性や目標に合わせた、最適化されたパーソナル指導を実現。\n・AIへの「データ全乗せ」による、自分専用の高度な活用事例。"
   }
 ]
