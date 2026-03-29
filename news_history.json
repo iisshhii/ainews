@@ -1,5 +1,55 @@
 [
   {
+    "title": "フジクラが米ビッグテックに指名買いされる理由　生成AIが伸びると、なぜ「光配線」が儲かるのか",
+    "link": "https://www.itmedia.co.jp/business/articles/2603/30/news055.html",
+    "source": "ITmedia ビジネス",
+    "published": "Mon, 30 Mar 2026 07:00:00 +0900",
+    "summary": "生成AIの普及が加速する中、その恩恵を受けているのは半導体やソフトウェア企業だけではない。米ビッグテックから「指名買い」される光ファイバー大手フジクラの岡田直樹社長に、AIの裏側で起きている構造変化を聞いた。",
+    "image": "https://image.itmedia.co.jp/business/articles/2603/30/cover_news055.jpg",
+    "fetched_at": "2026-03-30 07:56:49",
+    "ja_summary": "・生成AIの爆発的普及でデータ処理量が激増し、サーバー間を繋ぐ「光配線」の需要が急拡大。\n・米ビッグテックがフジクラを指名買いするほど、同社の光ファイバー技術がAIインフラの要となっている。\n・AIの進化に伴い、通信インフラを担うフジクラの成長構造が強固なものへ変化している。"
+  },
+  {
+    "title": "Wikipedia、「生成AIが作った記事」を禁止",
+    "link": "https://www.watch.impress.co.jp/docs/news/2097049.html",
+    "source": "Impress Watch",
+    "published": "",
+    "summary": "英語版Wikipedia(ウィキペディア)は、記事の作成や書き換えで生成AI(大規模言語モデル、LLM)の使用を禁止するとアナウンスした。英語版Wikipediaにおけるガイドライン改定を受けたもので、例外を除き、コンテンツ作成では原則的に生成AIの使用が禁止される。",
+    "image": "https://www.watch.impress.co.jp/img/ipw/list/2097/049/w01.jpg",
+    "fetched_at": "2026-03-30 07:57:05",
+    "ja_summary": "・英語版Wikipediaが記事作成や編集における生成AIの使用を原則禁止\n・正確性と信頼性を担保するためのガイドライン改定によるもの\n・例外を除き、コンテンツ制作へのAI利用が認められない方針へ変更"
+  },
+  {
+    "title": "フィジカルAIは「知のデジタル」から行動するインテリジェンスへ",
+    "link": "https://japan.zdnet.com/article/35245537/",
+    "source": "ZDNET Japan",
+    "published": "",
+    "summary": "AIの進化は「生成AI」から「フィジカルAIへと進んでいる情報処理にとどまらず、物理世界で動き、判断し、行動するAIに関する記事を集めた。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35245537/\"><img src=\"https://japan.zdnet.com/storage/2026/03/26/3df6f5087e6d8efc9e1105ea7012ae6a/t/184/138/d/thunb_physical_ai_1280.jpg\" /></a>",
+    "image": "https://japan.zdnet.com/storage/2026/03/26/3df6f5087e6d8efc9e1105ea7012ae6a/t/184/138/d/thunb_physical_ai_1280.jpg",
+    "fetched_at": "2026-03-30 07:57:17",
+    "ja_summary": "・AIの潮流は、知識を生成する段階から物理世界で直接行動する「フィジカルAI」へ移行中。\n・単なる情報処理を超え、物理環境で判断・動作するインテリジェンスが次世代の標準に。\n・実世界でのタスク実行を可能にするAI技術の進化と活用動向を概説。"
+  },
+  {
+    "title": "Box Japan、新年度の事業戦略を発表--AIエージェントの「実装元年」を推進",
+    "link": "https://japan.zdnet.com/article/35245614/",
+    "source": "ZDNET Japan",
+    "published": "",
+    "summary": "Box Japanは、2026年をAIエージェントの「実装元年」と位置付け、インテリジェントコンテンツ管理プラットフォームやエージェント機能を展開する。\n<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35245614/\"><img src=\"https://japan.zdnet.com/storage/2026/03/27/42d5f295f7b3528d69f4ee4ccff517b3/t/184/138/d/boxjapan002.jpg\" /></a>",
+    "image": "https://japan.zdnet.com/storage/2026/03/27/42d5f295f7b3528d69f4ee4ccff517b3/t/184/138/d/boxjapan002.jpg",
+    "fetched_at": "2026-03-30 07:57:17",
+    "ja_summary": "Box Japanは2026年をAIエージェントの「実装元年」と位置付け、事業戦略を発表した。\nインテリジェントなコンテンツ管理プラットフォームの強化を図る。\n今後はAIエージェント機能を積極的に展開し、業務効率化を推進する。"
+  },
+  {
+    "title": "Claude Codeで100個のSkillを育てた全記録 ── コンテキストエンジニアリング実践4ヶ月の軌跡",
+    "link": "https://zenn.dev/takuyanagai0213/articles/claude-code-100-skills-full-record",
+    "source": "Zenn Trends",
+    "published": "Sat, 28 Mar 2026 09:24:07 GMT",
+    "summary": "4ヶ月で100個のSkillを作った。月2本だったPRが月175本になった。コスト$200/月。\nこの記事は「CLAUDE.mdに何を書けばいいか分からない」という人に向けて、実物を全部見せるために書いた。理論やフレームワークの話ではなく、泥臭い試行錯誤の記録だ。\nSkillとは何か: AIへの仕事の頼み方をレシピ化したもの。一度書けば、同じ作業を何度でも自動で再現できる。エンジニアに限らず、「反復作業を手順化して任せる」という考え方自体は、どんな職種でも応用できる。\n\n TL;DR\n\n\n.claude/ ディレクトリに420ファイル（Skills 100 + Rules 27 + Do...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--oXWY0Y_f--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%25E3%2581%25A7100%25E5%2580%258B%25E3%2581%25AESkill%25E3%2582%2592%25E8%2582%25B2%25E3%2581%25A6%25E3%2581%259F%25E5%2585%25A8%25E8%25A8%2598%25E9%258C%25B2%2520%25E2%2594%2580%25E2%2594%2580%2520%25E3%2582%25B3%25E3%2583%25B3%25E3%2583%2586%25E3%2582%25AD%25E3%2582%25B9%25E3%2583%2588%25E3%2582%25A8%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%258B%25E3%2582%25A2%25E3%2583%25AA%25E3%2583%25B3%25E3%2582%25B0%25E5%25AE%259F%25E8%25B7%25B54%25E3%2583%25B6%25E6%259C%2588%25E3%2581%25AE%25E8%25BB%258C%25E8%25B7%25A1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:T%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzM5N2UyYjZjMzMuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-03-30 07:57:34",
+    "ja_summary": "・AIへの指示を「Skill」として100個蓄積した結果、月2本だったPR作成が175本に激増。\n・月額200ドルのコストで、反復作業をレシピ化しAIに自動実行させる仕組みを構築。\n・理論ではなく、実用的な「AIへの頼み方の型」を公開し、職種を問わず活用可能な手順化手法を提示。"
+  },
+  {
     "title": "AIが事務仕事の55％を代替も　管理部門は作業から提言型に転換せよ (人的資本、プロの視点)",
     "link": "https://business.nikkei.com/atcl/gen/19/00795/032600009/",
     "source": "日経ビジネス 最新",
@@ -948,55 +998,5 @@
     "image": "https://openai.com/favicon.ico",
     "fetched_at": "2026-03-28 06:19:51",
     "ja_summary": "・230年の歴史を持つSTADLERが、ChatGPTの活用で全社員650名の業務効率化を実現。\n・ナレッジワークのあり方を刷新し、作業時間の短縮と生産性の向上を加速させている。"
-  },
-  {
-    "title": "ハーネスエンジニアリングとは何か ── コンテキストエンジニアリングの次のパラダイム",
-    "link": "https://qiita.com/miruky/items/155f3b5a0dcde72fcd10",
-    "source": "Qiita (Popular)",
-    "published": "2026-03-22T00:25:02+09:00",
-    "summary": "## はじめに\n\nこんばんは、mirukyです。\n\n**「AIエージェントにコードを書かせたら、半分書いたところでコンテキストが切れて、次のセッションで最初からやり直しになった。」**\n\nこの経験、ありませんか。\n\n2025年後半から、AIコーディングエージェントの能力は飛躍的に向上しました。Claude Code、OpenAI Codex、Kiro CLI、GitHub Copilot Agen",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGMzYzNzIwNCUyRnByb2ZpbGUtaW1hZ2VzJTJGMTc3NDQ0NTA3MD9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NWY2OTc3NjFmNDZhMTA4YTgyMjNmMDEzODFkMGVmZTY%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Db2bc8d820e2037057c6470791c40d1f8?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgzJThGJUUzJTgzJUJDJUUzJTgzJThEJUUzJTgyJUI5JUUzJTgyJUE4JUUzJTgzJUIzJUUzJTgyJUI4JUUzJTgzJThCJUUzJTgyJUEyJUUzJTgzJUFBJUUzJTgzJUIzJUUzJTgyJUIwJUUzJTgxJUE4JUUzJTgxJUFGJUU0JUJEJTk1JUUzJTgxJThCJTIwJUUyJTk0JTgwJUUyJTk0JTgwJTIwJUUzJTgyJUIzJUUzJTgzJUIzJUUzJTgzJTg2JUUzJTgyJUFEJUUzJTgyJUI5JUUzJTgzJTg4JUUzJTgyJUE4JUUzJTgzJUIzJUUzJTgyJUI4JUUzJTgzJThCJUUzJTgyJUEyJUUzJTgzJUFBJUUzJTgzJUIzJUUzJTgyJUIwJUUzJTgxJUFFJUU2JUFDJUExJUUzJTgxJUFFJUUzJTgzJTkxJUUzJTgzJUE5JUUzJTgzJTgwJUUzJTgyJUE0JUUzJTgzJUEwJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9ODE0YTdlODBiOTk4NGI1ODhhMzNhNDkxNDI4OGVmN2U&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBtaXJ1a3kmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1iMWMwZjM0MGFkNTI5NmU1ZmNjNDFiZDQxMGY0YWRjYw&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=172f5878a8656c805ffd6d2fcff6a7d2",
-    "fetched_at": "2026-03-27 23:45:14",
-    "ja_summary": "AIコーディングエージェントのコンテキスト切れ問題を解決する「ハーネスエンジニアリング」が次世代パラダイムとして注目されています。\nこれは、AIが継続的にコード生成できるよう、開発プロセス全体を管理・最適化する手法です。\nこれにより、AIによる開発効率と品質が格段に向上します。"
-  },
-  {
-    "title": "アップル、『WWDC26』を6月8日から開催へ。「AIの進化」など発表予定",
-    "link": "https://www.techno-edge.net/article/2026/03/24/4952.html",
-    "source": "TechnoEdge",
-    "published": "Tue, 24 Mar 2026 10:14:05 +0900",
-    "summary": "アップルは、今年の世界開発者会議（WWDC26）を6月8日から12日にかけてオンライン開催すると発表しました。",
-    "image": "https://www.techno-edge.net/imgs/rss/30577.jpg",
-    "fetched_at": "2026-03-27 22:50:01",
-    "ja_summary": "アップルは6月8日からWWDC26をオンライン開催。\nAIの進化など、新技術や開発者向け情報が発表される見込み。\n開発者にとって注目のイベントとなる。"
-  },
-  {
-    "title": "ハーネスエンジニアリング入門 ── CLAUDE.mdの次に来るAIエージェント制御パラダイム",
-    "link": "https://qiita.com/nogataka/items/d1b3fcf355c630cd7fc8",
-    "source": "Qiita (Popular)",
-    "published": "2026-03-24T10:36:39+09:00",
-    "summary": "\n本稿では、AIエージェントの出力品質は「構造」で大きく変わるという前提のもと、CLAUDE.mdの次のパラダイムとして注目される「ハーネスエンジニアリング」の概念・構成要素・導入方法を、実運用の経験を交えて解説します。\n\n## なぜハーネスが必要になったのか\n\n半年ほど前、筆者はCLAUDE.mdだけでプロジェクトを回していました。\nコーディング規約、ディレクトリ構成、技術スタックを書いておけば",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYxNjEyOTglMkZjMWUzZmZkNmVhZGExOTY5ZmYzYzQ0YjE0ZmRlMDgxYmNkZTZmNTAwJTJGeF9sYXJnZS5wbmclM0YxNTg0ODQ1NTg0P2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz00ZGRjZmU5NTFjNTMyMzU3NjcyOGUzOTkyOTNmOGRlNQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D246367bff431168e6212d2602a3df494?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgzJThGJUUzJTgzJUJDJUUzJTgzJThEJUUzJTgyJUI5JUUzJTgyJUE4JUUzJTgzJUIzJUUzJTgyJUI4JUUzJTgzJThCJUUzJTgyJUEyJUUzJTgzJUFBJUUzJTgzJUIzJUUzJTgyJUIwJUU1JTg1JUE1JUU5JTk2JTgwJTIwJUUyJTk0JTgwJUUyJTk0JTgwJTIwQ0xBVURFLm1kJUUzJTgxJUFFJUU2JUFDJUExJUUzJTgxJUFCJUU2JTlEJUE1JUUzJTgyJThCQUklRTMlODIlQTglRTMlODMlQkMlRTMlODIlQjglRTMlODIlQTclRTMlODMlQjMlRTMlODMlODglRTUlODglQjYlRTUlQkUlQTElRTMlODMlOTElRTMlODMlQTklRTMlODMlODAlRTMlODIlQTQlRTMlODMlQTAmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1iZjg5YThmODllYjYwNTE2NjhiNDVhMzcxZDJkZDdkNA&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBub2dhdGFrYSZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWE5ODA4YTE0Zjg4Y2I0ZjQ5OWU2ZDA3NGYyY2E2YTNh&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=9a5b1e72857ebfef976cef97e9f84205",
-    "fetched_at": "2026-03-27 22:50:23",
-    "ja_summary": "AIエージェントの出力品質を向上させる「ハーネスエンジニアリング」を紹介。\nCLAUDE.mdなどの従来手法では限界があり、構造化による制御が次世代パラダイムとなる。\n本稿では、その概念、構成要素、導入方法を実例と共に解説する。"
-  },
-  {
-    "title": "【VS Code】GitHub Copilotのサブエージェント(.agent.md)でモデル指定が無視される問題と最新動向",
-    "link": "https://zenn.dev/headwaters/articles/b5d7d83a53b518",
-    "source": "Zenn Trends",
-    "published": "Thu, 26 Mar 2026 09:39:43 GMT",
-    "summary": "はじめに\nVS CodeのCopilot Chatで .agent.md を使ったカスタムエージェント、便利ですよね。\n特に runSubagent を使い、複数の専門エージェントをオーケストレーションする構成は、\nVS Code公式ドキュメントでも推奨ユースケースとして紹介されています。\n\nSubagents公式ドキュメント\nhttps://code.visualstudio.com/docs/copilot/agents/subagents\n\n\n一方で、実際に高度な構成を組んでみると、\n「サブエージェント側（.agent.md）で指定したモデルが無視され、親エージェントのモデルが...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--1hFo4Dn9--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590VS%2520Code%25E3%2580%2591GitHub%2520Copilot%25E3%2581%25AE%25E3%2582%25B5%25E3%2583%2596%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588%2528.agent.md%2529%25E3%2581%25A7%25E3%2583%25A2%25E3%2583%2587%25E3%2583%25AB%25E6%258C%2587%25E5%25AE%259A%25E3%2581%258C%25E7%2584%25A1%25E8%25A6%2596%25E3%2581%2595%25E3%2582%258C%25E3%2582%258B%25E5%2595%258F%25E9%25A1%258C...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E5%25A6%25B9%25E5%25B0%25BE%25E6%2582%25A0%25E7%259C%259F%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzZjNGExY2UxMDYuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2583%2598%25E3%2583%2583%25E3%2583%2589%25E3%2582%25A6%25E3%2582%25A9%25E3%2583%25BC%25E3%2582%25BF%25E3%2583%25BC%25E3%2582%25B9%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzhhOTNmNzAyMzUuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-    "fetched_at": "2026-03-27 21:29:12",
-    "ja_summary": "・VS Codeのカスタムエージェントでモデル指定が無視される不具合が報告されている。\n・サブエージェント（.agent.md）で設定したモデルが反映されず、親側のモデルが優先される事象が発生。\n・オーケストレーション構成の運用に影響があるため、今後の修正動向に注意が必要。"
-  },
-  {
-    "title": "LLMに図面は読めるか – 製造業の「暗黙知」を突破するコンテキスト設計3つのアプローチ",
-    "link": "https://speakerdeck.com/caddi_eng/llmnitu-mian-hadu-meruka-zhi-zao-ye-no-an-mo-zhi-wotu-po-surukontekisutoshe-ji-3tunoapuroti",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-03-27T08:17:56-04:00",
-    "summary": "2026/3/27開催のイベント「カオスなデータに向き合う！ ドメイン特化のAIエンジニアリング論」の登壇資料です。\n\nhttps://connpass.com/event/385864/",
-    "image": "https://files.speakerdeck.com/presentations/a31203cac3434d758d35798c547ddf00/preview_slide_0.jpg?38883620",
-    "fetched_at": "2026-03-27 21:29:13",
-    "ja_summary": "・製造現場の図面など、読み取りが困難な専門データをLLMで活用する技術を解説。\n・製造業特有の「暗黙知」をAIに学習させるためのコンテキスト設計手法を提示。\n・ドメイン特化型AIの実装に向けた、実践的なエンジニアリングのアプローチを公開。"
   }
 ]
