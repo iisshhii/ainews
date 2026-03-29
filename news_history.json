@@ -1,5 +1,15 @@
 [
   {
+    "title": "Hard Earned Lessons in Observability, Security, and Life",
+    "link": "https://speakerdeck.com/reyjrar/hard-earned-lessons-in-observability-security-and-life",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-03-29T12:19:11-04:00",
+    "summary": "In the age of AI, this talk will be abnormally focused on the humans the machines are meant to serve. We'll look at successful security and observability solutions and how they map to the human behind the keyboard. Learn from more than two decades of mistakes in both to build successful and celebrated security and observability programs without them.",
+    "image": "https://files.speakerdeck.com/presentations/193b09eb8cc84d0f8fecb13ad54f104b/preview_slide_0.jpg?38909993",
+    "fetched_at": "2026-03-30 01:27:12",
+    "ja_summary": "AI時代の今、あえて技術ではなく「人間」に焦点を当てたセキュリティと監視のあり方を解説。\n20年以上の失敗経験から、現場で働く人々に寄り添い、成功するプログラムを構築する要諦を学ぶ。\n技術主導になりがちな現場において、真に機能する運用体制とセキュアな文化の作り方を提示。"
+  },
+  {
     "title": "AIにロックマンエグゼになり切ってもらい一緒に開発してる話",
     "link": "https://qiita.com/N_H_tennis/items/48f13332305338720524",
     "source": "Qiita (Popular)",
@@ -988,15 +998,5 @@
     "image": "https://www.anthropic.com/api/opengraph-illustration?name=Node%20Cursor&amp;backgroundColor=coral",
     "fetched_at": "2026-03-27 15:58:44",
     "ja_summary": "・AI開発のAnthropic社が、コンピュータ操作技術を持つVercept社を買収。\n・AI「Claude」が自律的にPCを操作する機能の強化を狙う。\n・実務作業の自動化に向けた、AIの実行能力向上を図る戦略。"
-  },
-  {
-    "title": "takt で Codex・Cursor・Claude Code を協調させてみた ― 5回 ABORT して気づいた設計の急所",
-    "link": "https://zenn.dev/coji/articles/takt-multi-agent-coding-experience",
-    "source": "Zenn Trends",
-    "published": "Thu, 26 Mar 2026 13:05:36 GMT",
-    "summary": "これはなに？\ntakt という AI エージェントオーケストレーションツールを使って、自作 OSS に新機能を追加してみた体験記です。Codex CLI で仕様レビュー、Cursor で実装、Claude Code で受け入れ検査という3つのエージェントを1つのワークフローで協調させました。\n実際の PR はこちらです。\nhttps://github.com/coji/durably/pull/151\n\n takt とは\ntakt は複数の AI コーディングエージェントを順番に動かすためのツールです。「仕様レビュー → 実装 → テスト確認」のような一連の流れを YAML で定義し...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--gWjSAGO9--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:takt%2520%25E3%2581%25A7%2520Codex%25E3%2583%25BBCursor%25E3%2583%25BBClaude%2520Code%2520%25E3%2582%2592%25E5%258D%2594%25E8%25AA%25BF%25E3%2581%2595%25E3%2581%259B%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%2520%25E2%2580%2595%25205%25E5%259B%259E%2520ABORT%2520%25E3%2581%2597%25E3%2581%25A6%25E6%25B0%2597%25E3%2581%25A5%25E3%2581%2584...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Coji%2520Mizoguchi%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2pWY2RrNjcwV2NIdGs0anBHa2FGTDAxcERVUVlIX0JYdWE5aDRVNVE9czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-    "fetched_at": "2026-03-27 15:58:45",
-    "ja_summary": "AIオーケストレーションツール「takt」を使い、複数のAIエージェント（Codex・Cursor・Claude Code）を連携させて開発を自動化する手法を解説。\n仕様策定・実装・テストといった工程をYAMLで定義し、ワークフローとして一括実行することで開発効率を高める設計の知見を共有。\nエージェントを使い分ける際の「設計の急所」や、実際の運用における試行錯誤から得られた実践的なノウハウを提示。"
   }
 ]
