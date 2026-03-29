@@ -1,5 +1,25 @@
 [
   {
+    "title": "「職員が激減」に備えよ──2040年問題に向けて「自治体」に残された生存戦略",
+    "link": "https://www.itmedia.co.jp/business/articles/2603/30/news038.html",
+    "source": "ITmedia ビジネス",
+    "published": "Mon, 30 Mar 2026 08:00:00 +0900",
+    "summary": "「2040年問題」を前に、自治体は人口減少や高齢化による深刻な人手不足に直面している。限られた職員で行政サービスを維持するにはどうすべきか――CIO補佐官として自治体DXに携わってきた筆者が、AI技術の進化を踏まえながら、行政サービスの未来像をマネジメントの視点で考える。",
+    "image": "https://image.itmedia.co.jp/business/articles/2603/30/cover_news038.jpg",
+    "fetched_at": "2026-03-30 08:28:55",
+    "ja_summary": "・2040年に向けた深刻な人口減少・人手不足が自治体運営を脅かしている。\n・限られた人員で行政サービスを維持するには、AI活用などのDX推進が不可欠。\n・技術進化を前提に、マネジメント視点で行政のあり方を抜本的に見直す必要がある。"
+  },
+  {
+    "title": "ハーネスエンジニアリング入門 ── CLAUDE.mdの次に来るAIエージェント制御パラダイム",
+    "link": "https://qiita.com/nogataka/items/d1b3fcf355c630cd7fc8",
+    "source": "Qiita (Popular)",
+    "published": "2026-03-24T10:36:39+09:00",
+    "summary": "\n本稿では、AIエージェントの出力品質は「構造」で大きく変わるという前提のもと、CLAUDE.mdの次のパラダイムとして注目される「ハーネスエンジニアリング」の概念・構成要素・導入方法を、実運用の経験を交えて解説します。\n\n## なぜハーネスが必要になったのか\n\n半年ほど前、筆者はCLAUDE.mdだけでプロジェクトを回していました。\nコーディング規約、ディレクトリ構成、技術スタックを書いておけば",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYxNjEyOTglMkZjMWUzZmZkNmVhZGExOTY5ZmYzYzQ0YjE0ZmRlMDgxYmNkZTZmNTAwJTJGeF9sYXJnZS5wbmclM0YxNTg0ODQ1NTg0P2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz00ZGRjZmU5NTFjNTMyMzU3NjcyOGUzOTkyOTNmOGRlNQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D246367bff431168e6212d2602a3df494?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgzJThGJUUzJTgzJUJDJUUzJTgzJThEJUUzJTgyJUI5JUUzJTgyJUE4JUUzJTgzJUIzJUUzJTgyJUI4JUUzJTgzJThCJUUzJTgyJUEyJUUzJTgzJUFBJUUzJTgzJUIzJUUzJTgyJUIwJUU1JTg1JUE1JUU5JTk2JTgwJTIwJUUyJTk0JTgwJUUyJTk0JTgwJTIwQ0xBVURFLm1kJUUzJTgxJUFFJUU2JUFDJUExJUUzJTgxJUFCJUU2JTlEJUE1JUUzJTgyJThCQUklRTMlODIlQTglRTMlODMlQkMlRTMlODIlQjglRTMlODIlQTclRTMlODMlQjMlRTMlODMlODglRTUlODglQjYlRTUlQkUlQTElRTMlODMlOTElRTMlODMlQTklRTMlODMlODAlRTMlODIlQTQlRTMlODMlQTAmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1iZjg5YThmODllYjYwNTE2NjhiNDVhMzcxZDJkZDdkNA&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBub2dhdGFrYSZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWE5ODA4YTE0Zjg4Y2I0ZjQ5OWU2ZDA3NGYyY2E2YTNh&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=9a5b1e72857ebfef976cef97e9f84205",
+    "fetched_at": "2026-03-30 08:29:42",
+    "ja_summary": "・AIの出力品質を最大化するため、指示を構造化する「ハーネスエンジニアリング」が新たな主流として注目されている。\n・単なる指示書（CLAUDE.md等）を超え、AIエージェントの制御を体系化することで、実運用における開発の安定性が向上する。\n・実戦的な手法を導入することで、AIの作業精度と効率を一段上のレベルへ引き上げることが可能になる。"
+  },
+  {
     "title": "フジクラが米ビッグテックに指名買いされる理由　生成AIが伸びると、なぜ「光配線」が儲かるのか",
     "link": "https://www.itmedia.co.jp/business/articles/2603/30/news055.html",
     "source": "ITmedia ビジネス",
@@ -978,25 +998,5 @@
     "image": "https://res.cloudinary.com/zenn/image/upload/s--SgF0y2mb--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Opus%25204.6%25E3%2581%25A8%25E5%2590%258C%25E7%25AD%2589%25E3%2581%25AEAI%25E3%2582%2592%25E3%2583%25AD%25E3%2583%25BC%25E3%2582%25AB%25E3%2583%25AB%25E3%2581%25A7%25E5%258B%2595%25E3%2581%258B%25E3%2581%2599%25E3%2581%25AB%25E3%2581%25AF%25E3%2581%2584%25E3%2581%258F%25E3%2582%2589%25E3%2581%258B%25E3%2581%258B%25E3%2582%258B%25E3%2581%258B%25EF%25BC%259F%25E3%2583%25AD%25E3%2583%25BC%25E3%2582%25AB%25E3%2583%25ABLLM%25E3%2582%2592%25E6%25A7%258B%25E7%25AF%2589%25E3%2581%2597%25E3%2581%25A6%25E3%2582%258F%25E3%2581%258B%25E3%2581%25A3%25E3%2581%259F%25E3%2581%2593%25E3%2581%25A8%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Tomet%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzgyMzEzY2FiOWIuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
     "fetched_at": "2026-03-28 07:26:37",
     "ja_summary": "・クラウドを介さず機密情報を守れる「ローカルLLM」の構築方法を解説。\n・Claude 3.5 Opus級の性能をローカルで再現するために必要なPCスペックを検証。\n・実機での動作テストに基づき、構築の実現性とコスト感を明らかにする。"
-  },
-  {
-    "title": "Introducing The Anthropic Institute",
-    "link": "https://www.anthropic.com/news/the-anthropic-institute",
-    "source": "Anthropic (News)",
-    "published": "Wed, 11 Mar 2026 00:00:00 +0000",
-    "summary": "Introducing The Anthropic Institute",
-    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20Book&amp;backgroundColor=oat",
-    "fetched_at": "2026-03-28 06:56:23",
-    "ja_summary": "・AI企業Anthropicが、社会へのAI導入とリスク管理を研究する「Anthropic Institute」を設立。\n・AIが人類にもたらす利益と課題を科学的・政策的に分析し、安全な活用を推進。\n・AIの責任ある開発と社会実装に向けた国際的な議論とガバナンスの枠組みを構築する。"
-  },
-  {
-    "title": "STADLER reshapes knowledge work at a 230-year-old company",
-    "link": "https://openai.com/index/stadler",
-    "source": "OpenAI",
-    "published": "Fri, 27 Mar 2026 22:00:00 GMT",
-    "summary": "Learn how STADLER uses ChatGPT to transform knowledge work, saving time and accelerating productivity across 650 employees.",
-    "image": "https://openai.com/favicon.ico",
-    "fetched_at": "2026-03-28 06:19:51",
-    "ja_summary": "・230年の歴史を持つSTADLERが、ChatGPTの活用で全社員650名の業務効率化を実現。\n・ナレッジワークのあり方を刷新し、作業時間の短縮と生産性の向上を加速させている。"
   }
 ]
