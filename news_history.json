@@ -1,5 +1,65 @@
 [
   {
+    "title": "NaaSで攻勢狙うドコモビジネス　単なる土管からAIのインフラへ",
+    "link": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/052100110/032500174/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "NTTドコモビジネス（旧NTTコミュニケーションズ）がNaaS（ネットワーク・アズ・ア・サービス）で巻き返しを狙っている。NaaSとはSoftware Defined（ソフトウエア定義）技術を活用し、クラウドと同様、必要な機能を使った分だけ支払うような体系を取り入れたネットワークサービスを指す。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/052100110/032500174/topm.jpg?20220512",
+    "fetched_at": "2026-03-29 13:24:09",
+    "ja_summary": "・ドコモビジネスがNaaS（ネットワーク・アズ・ア・サービス）を活用した事業展開を強化。\n・ソフトウェア制御により、必要な機能を必要な分だけ柔軟に利用できる仕組みへ転換。\n・単なる通信回線提供から脱却し、AI活用を支える次世代インフラへの進化を狙う。"
+  },
+  {
+    "title": "Powering product discovery in ChatGPT",
+    "link": "https://openai.com/index/powering-product-discovery-in-chatgpt",
+    "source": "OpenAI",
+    "published": "Tue, 24 Mar 2026 09:00:00 GMT",
+    "summary": "ChatGPT introduces richer, visually immersive shopping powered by the Agentic Commerce Protocol, enabling product discovery, side-by-side comparisons, and merchant integration.",
+    "image": "https://openai.com/favicon.ico",
+    "fetched_at": "2026-03-29 13:24:31",
+    "ja_summary": "・ChatGPTが「Agentic Commerce Protocol」を導入し、視覚的な商品検索・比較機能を提供開始。\n・AIが直接ECサイトと連携し、ユーザーの製品発見から比較検討までをスムーズにサポート。\n・AIエージェントによる次世代の購買体験により、ショッピングの利便性が大幅に向上。"
+  },
+  {
+    "title": "国産LLMは作れるのか？ - RakutenAI 3.0の炎上から考える",
+    "link": "https://zenn.dev/nitic_students/articles/e2e331dea0c616",
+    "source": "Zenn Trends",
+    "published": "Fri, 27 Mar 2026 13:39:11 GMT",
+    "summary": "はじめに\n2026年03月17日、楽天グループが「国内最大規模」と謳う大規模言語モデル（以下、LLM）「Rakuten AI 3.0」を発表しました。約7000億パラメータのMoE（Mixture of Experts）モデルで、日本語ベンチマークではGPT-4oを上回るスコアを記録したといいます。\nhttps://huggingface.co/Rakuten/RakutenAI-3.0\nしかし公開直後、Hugging Face上のconfig.jsonに\"model_type: \"deepseek_v3\"という記述が見つかり、ベースモデルがDeepSeek V3であることが判明。さ...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--wOgARYbd--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E5%259B%25BD%25E7%2594%25A3LLM%25E3%2581%25AF%25E4%25BD%259C%25E3%2582%258C%25E3%2582%258B%25E3%2581%25AE%25E3%2581%258B%25EF%25BC%259F%2520-%2520RakutenAI%25203.0%25E3%2581%25AE%25E7%2582%258E%25E4%25B8%258A%25E3%2581%258B%25E3%2582%2589%25E8%2580%2583%25E3%2581%2588%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Juna1013%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzBiYzc3NDIyM2YuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E8%258C%25A8%25E5%259F%258E%25E9%25AB%2598%25E5%25B0%2582%2520%25E5%25AD%25A6%25E7%2594%259F%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2Q1MjIwZWRmM2MuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-03-29 13:24:38",
+    "ja_summary": "・楽天が「国内最大級」の自社LLM「Rakuten AI 3.0」を発表したが、設定ファイルからDeepSeek V3の流用が発覚。\n・他社モデルをベースにしながら「自社開発」を強調した宣伝手法が、AI開発コミュニティで大きな批判を招いている。\n・国産モデル開発の意義や、透明性あるAI開発のあり方が改めて問われる事態となっている。"
+  },
+  {
+    "title": "水冷×AI×ESG：次世代DCの挑戦 　Liquid Cooling × AI × ESG: Challenges for the Next-Generation Data Center",
+    "link": "https://speakerdeck.com/daihiraoka/shui-leng-xaixesg-ci-shi-dai-dcnotiao-zhan-liquid-cooling-x-ai-x-esg-challenges-for-the-next-generation-data-center",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-03-28T21:36:42-04:00",
+    "summary": "Presented at IBM TechXchange Summit Japan 2025 (December 3, 2025) by Daisuke Hiraoka (IBM Japan) and Shoichiro Sakaigawa (Getworks Inc.).\n\nThis session covers a proof-of-concept (PoC) deployment of GPU observability in a container-style data center located in Yuzawa, Niigata, Japan. Using NVIDIA DCGM Exporter and OpenTelemetry Collector, the team achieved real-time monitoring of 8 NVIDIA H200 GPUs — resulting in approximately 80% reduction in GPU power consumption (5,520W → 1,062W) and a 35°C drop in GPU temperature through workload rebalancing.\n\nThe presentation also explores the facility's groundwater-assisted cooling infrastructure, renewable energy integration, and the roadmap toward PUE/WUE visibility and ESG reporting.\n\nThis PoC has since moved to production (January 2026). The extended pipeline — including SNMP-based cooling telemetry from in-row air coolers and liquid-cooling CDUs — is the subject of our KubeCon + CloudNativeCon Japan 2026 submission.\n\nSpeakers:\n- Shoichiro Sakaigawa — IBM Champion, System Manager / AI Expert, Getworks Inc.\n- Daisuke Hiraoka — IBM Champion, Advisory Automation Technical Specialist, IBM Japan",
+    "image": "https://files.speakerdeck.com/presentations/b60826cfdba74bb694a9caf7d6ccceab/preview_slide_0.jpg?38905467",
+    "fetched_at": "2026-03-29 13:24:39",
+    "ja_summary": "・新潟のコンテナ型データセンターでGPUのリアルタイム監視と最適化を実施。\n・ワークロード再配置により、GPUの消費電力を約80%削減し温度を35℃低下させることに成功。\n・地下水冷却や再エネ活用を組み合わせ、ESG対応とデータセンターの効率化を推進。"
+  },
+  {
+    "title": "AIに「いい感じに作って」と言うのをやめたら、開発が回り出した — Spec-Driven Development 実践ガイド",
+    "link": "https://qiita.com/akira_papa_AI/items/5f66b2b289994e4a0256",
+    "source": "Qiita (Popular)",
+    "published": "2026-03-27T07:52:14+09:00",
+    "summary": "## はじめに — AIに雑に頼むと「速く間違う」だけ\n\nAIに「いい感じに作って」と言って、本当に「いい感じ」のものが返ってきたこと、ありますか...?\n\nちょっと考えてみましょう。こんなプロンプトを書いたことはないでしょうか。\n\n```\nユーザー登録機能を作って\n```\n\nで、返ってくるコードは、たしかに「動く」。\n\nでも、メールアドレスのバリデーションがない。パスワードの強度チェックもない。",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0MzUyMzMlMkYzYWVhMjJjODY0NGRjN2RhNzNhYmNiZWViNzNiMzQ5NTY1ZjFhYzg3JTJGeF9sYXJnZS5wbmclM0YxNzQzODkzNzQwP2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz0zYzAxZGY0NTQwNDA3MDkxOWU4ZDc1YjJmMGMwODg1MQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D57d66a48ec5d58fdc4e5256f39ac787a?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9QUklRTMlODElQUIlRTMlODAlOEMlRTMlODElODQlRTMlODElODQlRTYlODQlOUYlRTMlODElOTglRTMlODElQUIlRTQlQkQlOUMlRTMlODElQTMlRTMlODElQTYlRTMlODAlOEQlRTMlODElQTglRTglQTglODAlRTMlODElODYlRTMlODElQUUlRTMlODIlOTIlRTMlODIlODQlRTMlODIlODElRTMlODElOUYlRTMlODIlODklRTMlODAlODElRTklOTYlOEIlRTclOTklQkElRTMlODElOEMlRTUlOUIlOUUlRTMlODIlOEElRTUlODclQkElRTMlODElOTclRTMlODElOUYlMjAlRTIlODAlOTQlMjBTcGVjLURyaXZlbiUyMERldmVsb3BtZW50JTIwJUU1JUFFJTlGJUU4JUI3JUI1JUUyJTgwJUE2JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9OWU4ZDNmZDVlMWI0YzI2MDVmMWUwNTk0MTUxZWYzYWM&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBha2lyYV9wYXBhX0FJJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9Njg4MDRmOGExYzc3N2U4YTc5ZDg2NzcxYzljNzViN2U&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=746e8ae96648e1fdbeb44299f12d5f1c",
+    "fetched_at": "2026-03-29 13:24:41",
+    "ja_summary": "AIに曖昧な指示を出すと精度が低く修正の手間が増えるため、「仕様（Spec）」を明確に記述して開発する手法が推奨される。\n仕様を定義することでAIの出力を制御し、手戻りを防いで開発効率を最大化できる。\n単なる丸投げをやめ、意図を詳細に言語化することがAI開発を成功させる鍵となる。"
+  },
+  {
+    "title": "【緊急】月間9500万DLのLiteLLMが乗っ取られた。インストールしただけでSSH鍵・AWS認証・仮想通貨が全部盗まれる",
+    "link": "https://qiita.com/emi_ndk/items/2332ff5c93e63ab736ad",
+    "source": "Qiita (Popular)",
+    "published": "2026-03-26T15:54:48+09:00",
+    "summary": "\n**あなたのマシンにLiteLLMが入っていたら、今すぐこの記事を読んでください。**\n\n2026年3月24日、AIエージェント開発者の間で最も広く使われているPythonライブラリの一つ「**LiteLLM**」が、サプライチェーン攻撃により完全に乗っ取られました。\n\n月間**9,500万ダウンロード**。影響範囲は計り知れません。\n\n## 結論から言うと\n\n:::note alert\nLit",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmF2YXRhcnMuZ2l0aHVidXNlcmNvbnRlbnQuY29tJTJGdSUyRjU0MTczODUwJTNGdiUzRDQ_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPTQ5ZGU0OTdkMjMwMjhmNWZmOTcwNmZlNGNmY2E5MDZm%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D29ced0e10c8c1d24806abaf93840cae7?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJTkwJUU3JUI3JThBJUU2JTgwJUE1JUUzJTgwJTkxJUU2JTlDJTg4JUU5JTk2JTkzOTUwMCVFNCVCOCU4N0RMJUUzJTgxJUFFTGl0ZUxMTSVFMyU4MSU4QyVFNCVCOSU5NyVFMyU4MSVBMyVFNSU4RiU5NiVFMyU4MiU4OSVFMyU4MiU4QyVFMyU4MSU5RiVFMyU4MCU4MiVFMyU4MiVBNCVFMyU4MyVCMyVFMyU4MiVCOSVFMyU4MyU4OCVFMyU4MyVCQyVFMyU4MyVBQiVFMyU4MSU5NyVFMyU4MSU5RiVFMyU4MSVBMCVFMyU4MSU5MSVFMyU4MSVBN1NTSCVFOSU4RCVCNSVFMyU4MyVCQkFXUyVFOCVBQSU4RCVFOCVBOCVCQyVFMyU4MyVCQiVFNCVCQiVBRSVFNiU4MyVCMyVFOSU4MCU5QSVFOCVCMiVBOCVFMiU4MCVBNiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTBkM2NmN2JlNzVlNTgwZjA0Yzc2YWYxZjMxOWZjOWEw&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBlbWlfbmRrJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9NzU0NDg1YzBhMGMzNTE3YTkwZWM1ZTU4MzFlOTQyMWY&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=f6711ef04d705932113083f212cffa5f",
+    "fetched_at": "2026-03-29 13:24:42",
+    "ja_summary": "・人気ライブラリ「LiteLLM」が乗っ取られ、インストール済みのPCからSSH鍵・AWS認証情報・仮想通貨などが盗まれる被害が発生。\n・月間9500万DLの影響力を持つ大規模なサプライチェーン攻撃のため、該当環境を持つ場合は直ちに確認と対応が必要。\n・自身の開発環境が侵害されていないか、至急セキュリティ調査を行うこと。"
+  },
+  {
     "title": "ITエンジニア志望学生が選ぶインターン人気企業、1位は？",
     "link": "https://www.itmedia.co.jp/business/articles/2603/29/news008.html",
     "source": "ITmedia ビジネス",
@@ -938,65 +998,5 @@
     "image": "https://image.itmedia.co.jp/business/articles/2603/27/cover_news066.jpg",
     "fetched_at": "2026-03-27 08:24:01",
     "ja_summary": "・日立が産業現場向けの新フィジカルAI技術を発表。\n・動作指示の処理速度を毎秒10回から100回へと大幅に向上。\n・製造・保守・物流現場の自動化と効率化を加速させる。"
-  },
-  {
-    "title": "AIエージェントがコマンドラインでブラウザを自動操作。「Browser Use CLI 2.0」リリース。Chrome DevTools接続などで操作が倍速に",
-    "link": "https://www.techno-edge.net/article/2026/03/26/4954.html",
-    "source": "TechnoEdge",
-    "published": "Thu, 26 Mar 2026 10:46:12 +0900",
-    "summary": "人間やAIエージェントがコマンドラインから指示することでWebブラウザを操作できるオープンソースのPythonライブラリ「Browser Use CLI 2.0」がリリースされました。",
-    "image": "https://www.techno-edge.net/imgs/rss/30589.png",
-    "fetched_at": "2026-03-27 08:24:41",
-    "ja_summary": "・ブラウザをコマンドラインから自動操作できるライブラリ「Browser Use CLI 2.0」が公開。\n・Chrome DevToolsとの連携強化により、操作速度が従来の2倍に向上。\n・AIエージェントによるWebブラウジング作業の効率化がより容易に。"
-  },
-  {
-    "title": "Webサービスを作る上でRustを採用する必要ってほぼないよね",
-    "link": "https://zenn.dev/miyabitti/articles/9d8e2ab63379ad",
-    "source": "Zenn Trends",
-    "published": "Wed, 25 Mar 2026 04:48:18 GMT",
-    "summary": "!\nにわか素人の戯言です。あと辛口なRust批判ではなく、言語選択の話です。\n\n\n 何が言いたいか\n「速いからRust」は、ほとんどのWebサービスにとって不要な判断でしょう。\n実行速度やメモリ効率だけを理由にRustを採用すると、開発コストが重くなりやすいから、アプリケーションの規模とボトルネックを見極めた上で、本当に必要かどうかを判断しよう、という話です。\n少し前に投稿した👇️\nhttps://zenn.dev/miyabitti/articles/f4a556dad65b9c\nのとき、メモリ効率がよくなるならRustに書き直そうと考えてAIと相談したところ、やめとけと言われたところ...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--RaBC0DUk--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Web%25E3%2582%25B5%25E3%2583%25BC%25E3%2583%2593%25E3%2582%25B9%25E3%2582%2592%25E4%25BD%259C%25E3%2582%258B%25E4%25B8%258A%25E3%2581%25A7Rust%25E3%2582%2592%25E6%258E%25A1%25E7%2594%25A8%25E3%2581%2599%25E3%2582%258B%25E5%25BF%2585%25E8%25A6%2581%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%25BB%25E3%2581%25BC%25E3%2581%25AA%25E3%2581%2584%25E3%2582%2588%25E3%2581%25AD%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:miyabitti%2540%25E3%2583%258B%25E3%2583%25BC%25E3%2583%2588%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzczNDRiMTk2NzIuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-    "fetched_at": "2026-03-27 08:25:06",
-    "ja_summary": "Webサービスの開発において「速いから」という理由だけでRustを採用するのは非効率な場合が多い。\n開発コストとパフォーマンスのバランスを見極め、本当にボトルネックとなる箇所に限定して導入すべきである。\n単なる実行速度の追求よりも、プロジェクトの規模に適した言語選択が重要である。"
-  },
-  {
-    "title": "「SaaSの死」に飲み込まれるな　1兆円企業マクニカが「フィジカルAI」に賭ける理由",
-    "link": "https://www.itmedia.co.jp/business/articles/2603/27/news021.html",
-    "source": "ITmedia ビジネス",
-    "published": "Fri, 27 Mar 2026 07:00:00 +0900",
-    "summary": "国内最大の半導体商社、マクニカホールディングスの原一将社長に、生成AIと半導体産業における日本の勝ち筋を聞いた。日本の現場力がAIという脳を得たとき、どのような化学反応が起きるのか。",
-    "image": "https://image.itmedia.co.jp/business/articles/2603/27/cover_news021.jpg",
-    "fetched_at": "2026-03-27 07:54:42",
-    "ja_summary": "・半導体商社マクニカは、SaaS偏重の市場から転換し、物理的な現場にAIを実装する「フィジカルAI」へ注力。\n・日本の強みである「現場の実行力」とAIを融合させ、新たな産業価値の創出を目指す。\n・AIを単なるツールではなく、物理空間を制御する「脳」として活用する独自の勝ち筋を追求。"
-  },
-  {
-    "title": "中間管理職は「中間経営職」へ　AI時代、ホワイトカラーに問われる「役割再定義」",
-    "link": "https://www.itmedia.co.jp/business/articles/2603/27/news014.html",
-    "source": "ITmedia ビジネス",
-    "published": "Fri, 27 Mar 2026 07:00:00 +0900",
-    "summary": "生成AIの登場で企業の雇用と仕事のあり方が変わり始めている。活用の広がりを背景に、人員削減に踏み切る企業も出てきた。こうした中で、人が担う役割はどのように変化するのか。その実態に迫る。",
-    "image": "https://image.itmedia.co.jp/business/articles/2603/27/cover_news014.jpg",
-    "fetched_at": "2026-03-27 07:54:42",
-    "ja_summary": "生成AIの普及でホワイトカラーの業務が激変し、人員整理を行う企業も増加している。\n中間管理職には、AIを活用して経営的な視点で価値を生む「中間経営職」への転換が求められる。\n今後は、AI時代に適応するための人間にしかできない役割の再定義が不可欠となる。"
-  },
-  {
-    "title": "Google AI Studio のフルスタックバイブコーディング機能の概要",
-    "link": "https://note.com/npaka/n/n77bf70d9b349",
-    "source": "note (npaka)",
-    "published": "Fri, 20 Mar 2026 07:14:29 +0900",
-    "summary": "<p id=\"fcc5a2c0-b8b8-4d20-885b-34dc442adfec\" name=\"fcc5a2c0-b8b8-4d20-885b-34dc442adfec\">以下の記事が面白かったので、簡単にまとめました。</p><figure id=\"378069a1-25c1-49f6-becf-1d673ae28c08\" name=\"378069a1-25c1-49f6-becf-1d673ae28c08\"><blockquote><p id=\"77e2c1bc-0534-4155-bf27-03b7f3d0f523\" name=\"77e2c1bc-0534-4155-bf27-03b7f3d0f523\"><strong>・</strong><a href=\"https://blog.google/innovation-and-ai/technology/developers-tools/full-stack-vibe-coding-google-ai-studio/\" rel=\"nofollow noopener\" target=\"_blank\"><strong>Introducing the new full-stack vibe coding experience in Google AI Studio</strong></a></p></blockquote>\n<figcaption></figcaption></figure><br /><a href=\"https://note.com/npaka/n/n77bf70d9b349\">続きをみる</a>",
-    "image": "https://assets.st-note.com/production/uploads/images/260512898/rectangle_large_type_2_a6edcea4968571e0ddd42eb5e48814c8.png?width=800",
-    "fetched_at": "2026-03-27 07:55:07",
-    "ja_summary": "Google AI Studioに、自然言語による指示だけでフルスタックなアプリ開発・修正が可能な「Vibe Coding」機能が導入されました。\nAIがコード生成から実行までを一括で行うため、専門的な環境構築をせずとも直感的にプロトタイプを作成できます。\nエンジニア以外のユーザーでも、AIとの対話を通じて素早くアプリケーションを形にできる新しい開発体験です。"
-  },
-  {
-    "title": "Helping developers build safer AI experiences for teens",
-    "link": "https://openai.com/index/teen-safety-policies-gpt-oss-safeguard",
-    "source": "OpenAI",
-    "published": "Tue, 24 Mar 2026 11:00:00 GMT",
-    "summary": "OpenAI releases prompt-based teen safety policies for developers using gpt-oss-safeguard, helping moderate age-specific risks in AI systems.",
-    "image": "https://openai.com/favicon.ico",
-    "fetched_at": "2026-03-27 07:55:16",
-    "ja_summary": "・OpenAIが開発者向けに、10代のユーザーを保護するためのガイドラインとツール（gpt-oss-safeguard）を提供開始。\n・AIモデルにおいて、年齢に応じたリスクを適切に制御するプロンプトベースの安全策を導入。\n・開発者がより安全なAIサービスを10代向けに構築できるよう支援を強化。"
   }
 ]
