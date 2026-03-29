@@ -1,5 +1,25 @@
 [
   {
+    "title": "Claude Codeの5つの習熟レベル。CLAUDE.mdで止まっている人が知らないSkills・Hooks・Orchestrationの世界について",
+    "link": "https://qiita.com/miruky/items/43a6828c806a9ebcfdd1",
+    "source": "Qiita (Popular)",
+    "published": "2026-03-26T00:01:52+09:00",
+    "summary": "## はじめに\n\nこんばんは、mirukyです。\n\nClaude Codeを使っている方、**CLAUDE.mdは書いていますか？**\n\n最近、Redditで「The 5 Levels of Claude Code」という投稿が話題になりました。投稿者のDevMoses氏は、 **198エージェントを32セッションで並列実行し、マージコンフリクト率わずか3.1%** という驚異的な運用を行っていま",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGMzYzNzIwNCUyRnByb2ZpbGUtaW1hZ2VzJTJGMTc3NDQ0NTA3MD9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NWY2OTc3NjFmNDZhMTA4YTgyMjNmMDEzODFkMGVmZTY%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Db2bc8d820e2037057c6470791c40d1f8?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9Q2xhdWRlJTIwQ29kZSVFMyU4MSVBRTUlRTMlODElQTQlRTMlODElQUUlRTclQkYlOTIlRTclODYlOUYlRTMlODMlQUMlRTMlODMlOTklRTMlODMlQUIlRTMlODAlODJDTEFVREUubWQlRTMlODElQTclRTYlQUQlQTIlRTMlODElQkUlRTMlODElQTMlRTMlODElQTYlRTMlODElODQlRTMlODIlOEIlRTQlQkElQkElRTMlODElOEMlRTclOUYlQTUlRTMlODIlODklRTMlODElQUElRTMlODElODRTa2lsbHMlRTMlODMlQkJIb29rcyVFMyU4MyVCQk9yY2hlc3RyJUUyJTgwJUE2JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9OWUzMGQ2NTViNTAwM2FiMTdiNDI4NjkwMTlhYzc2ZDg&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBtaXJ1a3kmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1iMWMwZjM0MGFkNTI5NmU1ZmNjNDFiZDQxMGY0YWRjYw&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=5943246fdca34bc950efeb70b0f41184",
+    "fetched_at": "2026-03-29 19:00:28",
+    "ja_summary": "・Claude Codeには習熟度に応じた5つのレベルがあり、CLAUDE.mdの作成は入門段階に過ぎない。\n・上級者はSkillsやHooks、Orchestrationを駆使し、大規模かつ並列的なエージェント運用を実現している。\n・単なる指示出しを超え、システム構造を最適化することで圧倒的な開発効率と低コンフリクト率を達成できる。"
+  },
+  {
+    "title": "Claude Codeの「何してるか分からない」を解消する ── devtools/OpenTelemetry/cmux 可視化ツール比較",
+    "link": "https://qiita.com/nogataka/items/fb28c739d4c4c7f55029",
+    "source": "Qiita (Popular)",
+    "published": "2026-03-24T10:36:22+09:00",
+    "summary": "\n## Claude Codeの「ブラックボックス問題」\n\nClaude Codeに複雑なタスクを投げて30分。ターミナルにはカーソルが点滅するだけ。トークンカウンターは着実に増えていく。キャンセルすべきか、もう少し待つべきか。判断材料がありません。\n\nこれは「AIコーディングエージェントのブラックボックス問題」です。実際に筆者が経験した典型的なケースを挙げます。\n\n**ケース1: サブエージェン",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYxNjEyOTglMkZjMWUzZmZkNmVhZGExOTY5ZmYzYzQ0YjE0ZmRlMDgxYmNkZTZmNTAwJTJGeF9sYXJnZS5wbmclM0YxNTg0ODQ1NTg0P2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz00ZGRjZmU5NTFjNTMyMzU3NjcyOGUzOTkyOTNmOGRlNQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D246367bff431168e6212d2602a3df494?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9Q2xhdWRlJTIwQ29kZSVFMyU4MSVBRSVFMyU4MCU4QyVFNCVCRCU5NSVFMyU4MSU5NyVFMyU4MSVBNiVFMyU4MiU4QiVFMyU4MSU4QiVFNSU4OCU4NiVFMyU4MSU4QiVFMyU4MiU4OSVFMyU4MSVBQSVFMyU4MSU4NCVFMyU4MCU4RCVFMyU4MiU5MiVFOCVBNyVBMyVFNiVCNiU4OCVFMyU4MSU5OSVFMyU4MiU4QiUyMCVFMiU5NCU4MCVFMiU5NCU4MCUyMGRldnRvb2xzJTJGT3BlblRlbGVtZXRyeSUyRmNtdXglMjAlRTUlOEYlQUYlRTglQTYlOTYlRTUlOEMlOTYlRTMlODMlODQlRTIlODAlQTYmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz0xNGYxMGQzNmI3OTBiYjk1MzNiMDRiZDQwNDYwNWJjMw&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBub2dhdGFrYSZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWE5ODA4YTE0Zjg4Y2I0ZjQ5OWU2ZDA3NGYyY2E2YTNh&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=85ec7f617d30e17b3c8181ba3f2f5843",
+    "fetched_at": "2026-03-29 19:00:30",
+    "ja_summary": "・AIコーディングエージェント「Claude Code」が内部で何をしているか見えない「ブラックボックス問題」が発生中。\n・長時間作業時の進捗判断が困難な状況に対し、devtoolsやOpenTelemetry等の可視化ツールを用いた解決策を比較検討。\n・実行プロセスの透明性を高め、AIの動作状況を把握して効率的に運用するための手法を解説。"
+  },
+  {
     "title": "私たちはChatGPTを用い、経験ゼロで&quot;タイニーハウス&quot;を建てた。――AIにもできること、できないことがある",
     "link": "https://www.businessinsider.jp/article/2603-built-tiny-home-house-using-chatgpt-ai-useful-guidance-was/",
     "source": "Business Insider Japan",
@@ -978,25 +998,5 @@
     "image": "https://www.techno-edge.net/imgs/rss/30586.jpg",
     "fetched_at": "2026-03-27 13:15:32",
     "ja_summary": "・北構氏が自身のデータをすべてAIに読み込ませ、専用トレーナーを構築。\n・個人の特性や目標に合わせた、最適化されたパーソナル指導を実現。\n・AIへの「データ全乗せ」による、自分専用の高度な活用事例。"
-  },
-  {
-    "title": "[Oracle TechNight#98] GoldenGate 26ai の実装に迫る② 〜 標準的な工程の解説と現場での実装例紹介",
-    "link": "https://speakerdeck.com/oracle4engineer/20260326-technight98-gg26ai",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-03-26T23:24:20-04:00",
-    "summary": "2026年3月26日に実施したOracle Database Technology Night #98 GoldenGate 26ai の実装に迫る② 〜 標準的な工程の解説と現場での実装例紹介で使用した資料です。\n\nOracle Database Technology Night#95 Oracle GoldenGate 26ai の実装に迫る1 の続編です。\nhttps://speakerdeck.com/oracle4engineer/20251204-technight95-goldengate26ai_4dba",
-    "image": "https://files.speakerdeck.com/presentations/3dda1388854141eb9fe87c825fbd325a/preview_slide_0.jpg?38871737",
-    "fetched_at": "2026-03-27 13:15:55",
-    "ja_summary": "・Oracle GoldenGate 26aiの実装手順と現場での導入事例を解説した技術資料。\n・前編に続く第2弾として、標準的な構築工程を具体的に提示。\n・最新ツールの実務における活用ノウハウを把握できる内容。"
-  },
-  {
-    "title": "生成AIで誰でもオシャレなパワポを作る方法",
-    "link": "https://qiita.com/yamazombie/items/d2694937d2ebcd442060",
-    "source": "Qiita (Popular)",
-    "published": "2026-03-27T06:29:24+09:00",
-    "summary": "# はじめに\nこんにちは！ AI エンジニアのヤマゾーです。突然ですが、このたび生成 AI プロジェクトに関わる人に向けた技術書を出版しました。細部まで拘って約 1 年かけて書いたこともあり、周りからも「図解がわかりやすい」「断片的な知識が繋がった」とかなり好評でした。\nなんと**発売からわずか 1 週間で増刷も決定**し、AI エンジニアとして大変嬉しい限りです。\n\n 　\n[![seiseiAI",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYxMzQ4NTA3JTJGYWFiMDlmMTgxYTM4NzkwODM3NzAxODY4YzE1MDc1NGYzMjQ2N2JmYyUyRnhfbGFyZ2UucG5nJTNGMTYxOTc4NTYxMj9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NjY0MWU2ZWZkZjQxNTZkODM3ZTI2NGY2NDZkODhkNTM%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3De5e18713f83e1fb1c5c2abfc479def01?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUU3JTk0JTlGJUU2JTg4JTkwQUklRTMlODElQTclRTglQUElQjAlRTMlODElQTclRTMlODIlODIlRTMlODIlQUElRTMlODIlQjclRTMlODMlQTMlRTMlODMlQUMlRTMlODElQUElRTMlODMlOTElRTMlODMlQUYlRTMlODMlOUQlRTMlODIlOTIlRTQlQkQlOUMlRTMlODIlOEIlRTYlOTYlQjklRTYlQjMlOTUmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1mNDA5ZmE5YzdjMmViZTU3ODRmZjhmNDQwM2YxMGU4Nw&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDB5YW1hem9tYmllJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9NmMyNWVmOTdlZTVlMzNjYjJlNjE0OGVlMWM5YmUwM2I&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=817f5f45decb8218a5ce68105139a88a",
-    "fetched_at": "2026-03-27 13:15:56",
-    "ja_summary": "・AIエンジニアが、生成AIの活用ノウハウをまとめた技術書を出版。\n・図解の分かりやすさが好評を博し、発売1週間で増刷が決定。\n・生成AIプロジェクトに携わる人にとって、知識を体系的に学べる一冊。"
   }
 ]
