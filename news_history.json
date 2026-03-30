@@ -1,5 +1,65 @@
 [
   {
+    "title": "ITエンジニア志望学生が選ぶインターン人気企業、1位は？",
+    "link": "https://www.itmedia.co.jp/business/articles/2603/29/news008.html",
+    "source": "ITmedia ビジネス",
+    "published": "Sun, 29 Mar 2026 09:30:00 +0900",
+    "summary": "paizaが、ITエンジニアを志望する2027年度・2028年度卒業予定の学生を対象に「インターンシップに参加したい企業」を調査。1位に選ばれたのは？",
+    "image": "https://image.itmedia.co.jp/business/articles/2603/29/cover_news008.jpg",
+    "fetched_at": "2026-03-30 19:55:55",
+    "ja_summary": "paizaが27・28年度卒のITエンジニア志望学生を対象に「インターン人気企業」を調査。\n数あるIT企業の中で、学生から最も注目を集めた1位の企業が判明した。\n学生の就職意欲やキャリア志向を反映する結果となっている。"
+  },
+  {
+    "title": "NaaSで攻勢狙うドコモビジネス　単なる土管からAIのインフラへ",
+    "link": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/052100110/032500174/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "NTTドコモビジネス（旧NTTコミュニケーションズ）がNaaS（ネットワーク・アズ・ア・サービス）で巻き返しを狙っている。NaaSとはSoftware Defined（ソフトウエア定義）技術を活用し、クラウドと同様、必要な機能を使った分だけ支払うような体系を取り入れたネットワークサービスを指す。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/052100110/032500174/topm.jpg?20220512",
+    "fetched_at": "2026-03-30 19:56:07",
+    "ja_summary": "・NTTドコモビジネスがNaaS（ネットワーク・アズ・ア・サービス）で事業を再編。\n・ソフトウエア定義技術により、必要な機能をクラウドのように従量課金で利用可能に。\n・従来の通信回線提供（土管）から脱却し、AI活用を支えるインフラへと進化を目指す。"
+  },
+  {
+    "title": "グーグルのエンジニアが教える、「AIが仕事を変える時代」に適応する方法",
+    "link": "https://www.businessinsider.jp/article/9727e649-b665-4e21-8e8d-4f857f70d901/",
+    "source": "Business Insider Japan",
+    "published": "Mon, 30 Mar 2026 10:00:00 GMT",
+    "summary": "",
+    "image": "https://media.loom-app.com/loom/2026/03/04/5731a948-0d8d-4574-b21e-de491bb2ee26/original.jpg?w=1200&amp;h=630",
+    "fetched_at": "2026-03-30 19:56:14",
+    "ja_summary": "・AIを恐れず「使いこなす相棒」と捉え、自身のスキルを拡張させる意識を持つ。\n・定型業務はAIに任せ、人間ならではの創造性や意思決定に時間を割く。\n・変化の速い時代には、学び続ける姿勢（アンラーニングとリスキリング）が不可欠。"
+  },
+  {
+    "title": "水冷×AI×ESG：次世代DCの挑戦 　Liquid Cooling × AI × ESG: Challenges for the Next-Generation Data Center",
+    "link": "https://speakerdeck.com/daihiraoka/shui-leng-xaixesg-ci-shi-dai-dcnotiao-zhan-liquid-cooling-x-ai-x-esg-challenges-for-the-next-generation-data-center",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-03-28T21:36:42-04:00",
+    "summary": "Presented at IBM TechXchange Summit Japan 2025 (December 3, 2025) by Daisuke Hiraoka (IBM Japan) and Shoichiro Sakaigawa (Getworks Inc.).\n\nThis session covers a proof-of-concept (PoC) deployment of GPU observability in a container-style data center located in Yuzawa, Niigata, Japan. Using NVIDIA DCGM Exporter and OpenTelemetry Collector, the team achieved real-time monitoring of 8 NVIDIA H200 GPUs — resulting in approximately 80% reduction in GPU power consumption (5,520W → 1,062W) and a 35°C drop in GPU temperature through workload rebalancing.\n\nThe presentation also explores the facility's groundwater-assisted cooling infrastructure, renewable energy integration, and the roadmap toward PUE/WUE visibility and ESG reporting.\n\nThis PoC has since moved to production (January 2026). The extended pipeline — including SNMP-based cooling telemetry from in-row air coolers and liquid-cooling CDUs — is the subject of our KubeCon + CloudNativeCon Japan 2026 submission.\n\nSpeakers:\n- Shoichiro Sakaigawa — IBM Champion, System Manager / AI Expert, Getworks Inc.\n- Daisuke Hiraoka — IBM Champion, Advisory Automation Technical Specialist, IBM Japan",
+    "image": "https://files.speakerdeck.com/presentations/b60826cfdba74bb694a9caf7d6ccceab/preview_slide_0.jpg?38905467",
+    "fetched_at": "2026-03-30 19:56:45",
+    "ja_summary": "・新潟のコンテナ型データセンターでGPUの運用効率化を実証し、電力消費を約80%削減、温度を35℃低下させた。\n・地下水を利用した冷却設備や再生可能エネルギーを統合し、次世代の環境配慮型（ESG）データセンターを実現。\n・観測データを活用した運用最適化は本番環境へ移行済みで、今後はPUE/WUEの可視化と報告体制の構築を推進する。"
+  },
+  {
+    "title": "AIに「いい感じに作って」と言うのをやめたら、開発が回り出した — Spec-Driven Development 実践ガイド",
+    "link": "https://qiita.com/akira_papa_AI/items/5f66b2b289994e4a0256",
+    "source": "Qiita (Popular)",
+    "published": "2026-03-27T07:52:14+09:00",
+    "summary": "## はじめに — AIに雑に頼むと「速く間違う」だけ\n\nAIに「いい感じに作って」と言って、本当に「いい感じ」のものが返ってきたこと、ありますか...?\n\nちょっと考えてみましょう。こんなプロンプトを書いたことはないでしょうか。\n\n```\nユーザー登録機能を作って\n```\n\nで、返ってくるコードは、たしかに「動く」。\n\nでも、メールアドレスのバリデーションがない。パスワードの強度チェックもない。",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0MzUyMzMlMkYzYWVhMjJjODY0NGRjN2RhNzNhYmNiZWViNzNiMzQ5NTY1ZjFhYzg3JTJGeF9sYXJnZS5wbmclM0YxNzQzODkzNzQwP2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz0zYzAxZGY0NTQwNDA3MDkxOWU4ZDc1YjJmMGMwODg1MQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D57d66a48ec5d58fdc4e5256f39ac787a?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9QUklRTMlODElQUIlRTMlODAlOEMlRTMlODElODQlRTMlODElODQlRTYlODQlOUYlRTMlODElOTglRTMlODElQUIlRTQlQkQlOUMlRTMlODElQTMlRTMlODElQTYlRTMlODAlOEQlRTMlODElQTglRTglQTglODAlRTMlODElODYlRTMlODElQUUlRTMlODIlOTIlRTMlODIlODQlRTMlODIlODElRTMlODElOUYlRTMlODIlODklRTMlODAlODElRTklOTYlOEIlRTclOTklQkElRTMlODElOEMlRTUlOUIlOUUlRTMlODIlOEElRTUlODclQkElRTMlODElOTclRTMlODElOUYlMjAlRTIlODAlOTQlMjBTcGVjLURyaXZlbiUyMERldmVsb3BtZW50JTIwJUU1JUFFJTlGJUU4JUI3JUI1JUUyJTgwJUE2JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9OWU4ZDNmZDVlMWI0YzI2MDVmMWUwNTk0MTUxZWYzYWM&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBha2lyYV9wYXBhX0FJJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9Njg4MDRmOGExYzc3N2U4YTc5ZDg2NzcxYzljNzViN2U&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=746e8ae96648e1fdbeb44299f12d5f1c",
+    "fetched_at": "2026-03-30 19:56:47",
+    "ja_summary": "AIに「いい感じに」と曖昧な指示を出すと低品質なコードが生成されるため、仕様を明確に定義してから開発する「Spec-Driven Development」への転換が不可欠。\n詳細な仕様書（Spec）をAIに与えることで、手戻りを防ぎ、開発効率とコードの信頼性を向上させることができる。"
+  },
+  {
+    "title": "【緊急】月間9500万DLのLiteLLMが乗っ取られた。インストールしただけでSSH鍵・AWS認証・仮想通貨が全部盗まれる",
+    "link": "https://qiita.com/emi_ndk/items/2332ff5c93e63ab736ad",
+    "source": "Qiita (Popular)",
+    "published": "2026-03-26T15:54:48+09:00",
+    "summary": "\n**あなたのマシンにLiteLLMが入っていたら、今すぐこの記事を読んでください。**\n\n2026年3月24日、AIエージェント開発者の間で最も広く使われているPythonライブラリの一つ「**LiteLLM**」が、サプライチェーン攻撃により完全に乗っ取られました。\n\n月間**9,500万ダウンロード**。影響範囲は計り知れません。\n\n## 結論から言うと\n\n:::note alert\nLit",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmF2YXRhcnMuZ2l0aHVidXNlcmNvbnRlbnQuY29tJTJGdSUyRjU0MTczODUwJTNGdiUzRDQ_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPTQ5ZGU0OTdkMjMwMjhmNWZmOTcwNmZlNGNmY2E5MDZm%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D29ced0e10c8c1d24806abaf93840cae7?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJTkwJUU3JUI3JThBJUU2JTgwJUE1JUUzJTgwJTkxJUU2JTlDJTg4JUU5JTk2JTkzOTUwMCVFNCVCOCU4N0RMJUUzJTgxJUFFTGl0ZUxMTSVFMyU4MSU4QyVFNCVCOSU5NyVFMyU4MSVBMyVFNSU4RiU5NiVFMyU4MiU4OSVFMyU4MiU4QyVFMyU4MSU5RiVFMyU4MCU4MiVFMyU4MiVBNCVFMyU4MyVCMyVFMyU4MiVCOSVFMyU4MyU4OCVFMyU4MyVCQyVFMyU4MyVBQiVFMyU4MSU5NyVFMyU4MSU5RiVFMyU4MSVBMCVFMyU4MSU5MSVFMyU4MSVBN1NTSCVFOSU4RCVCNSVFMyU4MyVCQkFXUyVFOCVBQSU4RCVFOCVBOCVCQyVFMyU4MyVCQiVFNCVCQiVBRSVFNiU4MyVCMyVFOSU4MCU5QSVFOCVCMiVBOCVFMiU4MCVBNiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTBkM2NmN2JlNzVlNTgwZjA0Yzc2YWYxZjMxOWZjOWEw&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBlbWlfbmRrJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9NzU0NDg1YzBhMGMzNTE3YTkwZWM1ZTU4MzFlOTQyMWY&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=f6711ef04d705932113083f212cffa5f",
+    "fetched_at": "2026-03-30 19:56:48",
+    "ja_summary": "・人気Pythonライブラリ「LiteLLM」が乗っ取られ、悪意あるコードが混入した。\n・インストール済みの場合、SSH鍵・AWS認証情報・仮想通貨などが盗まれる恐れがある。\n・該当ライブラリを使用している環境は、直ちに確認と対応を行う必要がある。"
+  },
+  {
     "title": "AIは仕事を奪うか肩代わりするか　労働なき未来で人類に残るもの",
     "link": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/052100112/032500134/",
     "source": "日経クロステック 総合",
@@ -938,65 +998,5 @@
     "image": "https://japan.zdnet.com/storage/2026/03/27/a31b6c5d34ca3952b72bc86c680041f6/t/184/138/d/sp_12matsuoka_260327_l.jpg",
     "fetched_at": "2026-03-29 15:58:03",
     "ja_summary": "Google Cloud日本代表と日本シーゲート代表が、自律的にタスクを実行する「エージェンティックAI」の活用について展望を語った。\n企業におけるAIの実用化とビジネス変革への意気込みが示されている。"
-  },
-  {
-    "title": "Google AI Studio のフルスタックバイブコーディング機能の概要",
-    "link": "https://note.com/npaka/n/n77bf70d9b349",
-    "source": "note (npaka)",
-    "published": "Fri, 20 Mar 2026 07:14:29 +0900",
-    "summary": "<p id=\"fcc5a2c0-b8b8-4d20-885b-34dc442adfec\" name=\"fcc5a2c0-b8b8-4d20-885b-34dc442adfec\">以下の記事が面白かったので、簡単にまとめました。</p><figure id=\"378069a1-25c1-49f6-becf-1d673ae28c08\" name=\"378069a1-25c1-49f6-becf-1d673ae28c08\"><blockquote><p id=\"77e2c1bc-0534-4155-bf27-03b7f3d0f523\" name=\"77e2c1bc-0534-4155-bf27-03b7f3d0f523\"><strong>・</strong><a href=\"https://blog.google/innovation-and-ai/technology/developers-tools/full-stack-vibe-coding-google-ai-studio/\" rel=\"nofollow noopener\" target=\"_blank\"><strong>Introducing the new full-stack vibe coding experience in Google AI Studio</strong></a></p></blockquote>\n<figcaption></figcaption></figure><br /><a href=\"https://note.com/npaka/n/n77bf70d9b349\">続きをみる</a>",
-    "image": "https://assets.st-note.com/production/uploads/images/260512898/rectangle_large_type_2_a6edcea4968571e0ddd42eb5e48814c8.png?width=800",
-    "fetched_at": "2026-03-29 14:56:54",
-    "ja_summary": "Google AI Studioに、自然言語による指示でフルスタックなアプリ開発が可能な「Vibe Coding」機能が導入された。\nプログラミングの専門知識がなくても、AIとの対話を通じてコード生成から実行までをシームレスに行える。\n開発プロセスを直感的な体験へと変え、迅速なプロトタイプ作成やアプリ実装を強力に支援する。"
-  },
-  {
-    "title": "AIエージェントがコマンドラインでブラウザを自動操作。「Browser Use CLI 2.0」リリース。Chrome DevTools接続などで操作が倍速に",
-    "link": "https://www.techno-edge.net/article/2026/03/26/4954.html",
-    "source": "TechnoEdge",
-    "published": "Thu, 26 Mar 2026 10:46:12 +0900",
-    "summary": "人間やAIエージェントがコマンドラインから指示することでWebブラウザを操作できるオープンソースのPythonライブラリ「Browser Use CLI 2.0」がリリースされました。",
-    "image": "https://www.techno-edge.net/imgs/rss/30589.png",
-    "fetched_at": "2026-03-29 14:57:00",
-    "ja_summary": "・コマンドラインからブラウザを自動操作できる「Browser Use CLI 2.0」が公開。\n・Chrome DevToolsとの接続により、従来の2倍の高速化を実現。\n・AIや人間が指示を出すだけで、Web上の複雑なタスクを自動実行可能。"
-  },
-  {
-    "title": "Helping developers build safer AI experiences for teens",
-    "link": "https://openai.com/index/teen-safety-policies-gpt-oss-safeguard",
-    "source": "OpenAI",
-    "published": "Tue, 24 Mar 2026 11:00:00 GMT",
-    "summary": "OpenAI releases prompt-based teen safety policies for developers using gpt-oss-safeguard, helping moderate age-specific risks in AI systems.",
-    "image": "https://openai.com/favicon.ico",
-    "fetched_at": "2026-03-29 14:57:01",
-    "ja_summary": "・OpenAIが、10代のユーザーを保護するためのAI開発向けガイドラインを公開。\n・開発者は「gpt-oss-safeguard」を用い、年齢に応じたリスクを自動制御可能。\n・AIサービスにおける若年層の安全性向上と、適切な利用環境の整備を支援。"
-  },
-  {
-    "title": "図形入りの PowerPoint を Markdown に変換",
-    "link": "https://zenn.dev/headwaters/articles/convert-pptx-with-shapes-to-markdown",
-    "source": "Zenn Trends",
-    "published": "Sat, 28 Mar 2026 09:04:32 GMT",
-    "summary": "0. 元にした記事・リポジトリ\n日本マイクロソフトの Kazuki Ota さんによる\n\n図形フル活用の PowerPoint を GitHub Copilot に読ませてみた\nhttps://github.com/runceel/github-copilot-excel-lab\n\nを自分の環境で実行してみたところ、動作させる際に詰まる点がいくつかあったので、備忘録として記載する\nまた、GitHub Copilot がどのような処理を行うことで曼荼羅のような複雑な図形を Mermaid に変換しているのかを確認する\n\n 1. 環境構築\n自分のローカルの WSL には dotnet の...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--W2t6KV19--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E5%259B%25B3%25E5%25BD%25A2%25E5%2585%25A5%25E3%2582%258A%25E3%2581%25AE%2520PowerPoint%2520%25E3%2582%2592%2520Markdown%2520%25E3%2581%25AB%25E5%25A4%2589%25E6%258F%259B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Yoshiharu%2520Kubota%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzZjNGExY2UxMDYuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2583%2598%25E3%2583%2583%25E3%2583%2589%25E3%2582%25A6%25E3%2582%25A9%25E3%2583%25BC%25E3%2582%25BF%25E3%2583%25BC%25E3%2582%25B9%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzNiMzlkMWFhYmEuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-    "fetched_at": "2026-03-29 14:57:08",
-    "ja_summary": "・図形を多用したPowerPointをMermaid形式のMarkdownに変換する手法を解説。\n・GitHub Copilotを活用した変換プロセスの仕組みと、環境構築時の注意点を共有。\n・複雑な図形データから図解コードを自動生成する技術的な備忘録。"
-  },
-  {
-    "title": "AIエージェント導入で「セキュリティどうするの？」と聞かれたときの技術的な答え方",
-    "link": "https://zenn.dev/sharu389no/articles/e07c926d87ac57",
-    "source": "Zenn Trends",
-    "published": "Sat, 28 Mar 2026 08:19:47 GMT",
-    "summary": "この記事を読んでほしい人\n\nClaude Code / Cursor などのAIエージェントをチームに導入したいエンジニア\n情シスから「セキュリティ面の対応は？」と聞かれて技術的に答えたい人\nAIツール導入のセキュリティ面の検討材料を探している情シス担当\n\n!\n本記事はAIエージェントのセキュリティ面の技術対策に焦点を当てています。実際の導入判断には、コスト・運用体制・社内規程・契約面など他の要素も必要です。ここで紹介するのは「技術的にはこういう対策が取れます」という材料です。\n\n\n AIエージェント導入で必ず聞かれる3つの質問\nAIエージェントの導入を提案すると、情シスやセキュリテ...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--GBKGtV8G--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588%25E5%25B0%258E%25E5%2585%25A5%25E3%2581%25A7%25E3%2580%258C%25E3%2582%25BB%25E3%2582%25AD%25E3%2583%25A5%25E3%2583%25AA%25E3%2583%2586%25E3%2582%25A3%25E3%2581%25A9%25E3%2581%2586%25E3%2581%2599%25E3%2582%258B%25E3%2581%25AE%25EF%25BC%259F%25E3%2580%258D%25E3%2581%25A8%25E8%2581%259E%25E3%2581%258B%25E3%2582%258C%25E3%2581%259F%25E3%2581%25A8%25E3%2581%258D%25E3%2581%25AE%25E6%258A%2580%25E8%25A1%2593%25E7%259A%2584%25E3%2581%25AA%25E7%25AD%2594%25E3%2581%2588%25E6%2596%25B9%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%2597%25E3%2582%2583%25E3%2582%258B%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSk9yamZPM0lGdGlkb2FMUG50UVBjX2VaZXQtRk04dGNQakpNNnNMQ3JmQXowTGNnPXMyNTAtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-    "fetched_at": "2026-03-29 14:57:09",
-    "ja_summary": "・AIエージェント導入時に情シスから問われるセキュリティ懸念に対し、技術的解決策を提示するガイド。\n・データ漏洩や権限管理など、AI特有のリスクに対する具体的な防御手法を整理。\n・導入検討に必要な技術的判断材料を提供し、社内合意形成をサポート。"
-  },
-  {
-    "title": "ローカルLLM",
-    "link": "https://zenn.dev/logbii/articles/10a0bd6eec8707",
-    "source": "Zenn Trends",
-    "published": "Sat, 28 Mar 2026 06:28:39 GMT",
-    "summary": "今回の想定読者\n今回のネタは、ローカルLLMについてです。本記事を読んでいただけると、ローカルLLMの概要や使い方を知ることができます。（ファインチューニングについては触れていません）\n以下の様な方が想定読者です。\n\n諸事情により、OpenAIなど外部のLLMを利用できない、またはコスト節約したい\nローカルLLMに興味がある\nOllamaの使い方を知りたい\n\n\n ログビーの勉強会について\nログビー（Logbii）では、月一回オンラインの社内勉強会をしています。直近のものと、2025年以降のアーカイブを順次公開していきます。\nざっくりと、以下のルールで運用をしています。\n\n月イチで、ラ...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--l9XIOPb6--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_72:%25E3%2583%25AD%25E3%2583%25BC%25E3%2582%25AB%25E3%2583%25ABLLM%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E3%2583%25AD%25E3%2582%25B0%25E3%2583%2593%25E3%2583%25BC%25EF%25BC%2588Logbii%25EF%25BC%2589%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2Y3YTkyMzM3ODguanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E6%25A0%25AA%25E5%25BC%258F%25E4%25BC%259A%25E7%25A4%25BE%25E3%2583%25AD%25E3%2582%25B0%25E3%2583%2593%25E3%2583%25BC%25EF%25BC%2588Logbii%252C%2520Inc.%25EF%25BC%2589%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzc2MDk0ZGMxNGMuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-    "fetched_at": "2026-03-29 14:57:09",
-    "ja_summary": "・外部サーバーを使わず、コスト削減や機密保持のために自分の環境でAIを動かす「ローカルLLM」の基礎と導入方法を解説。\n・初心者向けに「Ollama」の具体的な使い方を紹介。\n・月次で開催される社内勉強会の内容を、今後アーカイブとして公開予定。"
   }
 ]
