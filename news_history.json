@@ -1,5 +1,45 @@
 [
   {
+    "title": "Google AI Studio のフルスタックバイブコーディング機能の概要",
+    "link": "https://note.com/npaka/n/n77bf70d9b349",
+    "source": "note (npaka)",
+    "published": "Fri, 20 Mar 2026 07:14:29 +0900",
+    "summary": "<p id=\"fcc5a2c0-b8b8-4d20-885b-34dc442adfec\" name=\"fcc5a2c0-b8b8-4d20-885b-34dc442adfec\">以下の記事が面白かったので、簡単にまとめました。</p><figure id=\"378069a1-25c1-49f6-becf-1d673ae28c08\" name=\"378069a1-25c1-49f6-becf-1d673ae28c08\"><blockquote><p id=\"77e2c1bc-0534-4155-bf27-03b7f3d0f523\" name=\"77e2c1bc-0534-4155-bf27-03b7f3d0f523\"><strong>・</strong><a href=\"https://blog.google/innovation-and-ai/technology/developers-tools/full-stack-vibe-coding-google-ai-studio/\" rel=\"nofollow noopener\" target=\"_blank\"><strong>Introducing the new full-stack vibe coding experience in Google AI Studio</strong></a></p></blockquote>\n<figcaption></figcaption></figure><br /><a href=\"https://note.com/npaka/n/n77bf70d9b349\">続きをみる</a>",
+    "image": "https://assets.st-note.com/production/uploads/images/260512898/rectangle_large_type_2_a6edcea4968571e0ddd42eb5e48814c8.png?width=800",
+    "fetched_at": "2026-03-30 20:52:08",
+    "ja_summary": "Google AI Studioに「フルスタック・バイブコーディング」機能が追加されました。\n自然言語で指示を出すだけで、アプリの設計から実装・実行までをAIが統合的に支援します。\n専門的なコード記述を最小限に抑え、素早く直感的に開発を行える環境を提供します。"
+  },
+  {
+    "title": "Helping developers build safer AI experiences for teens",
+    "link": "https://openai.com/index/teen-safety-policies-gpt-oss-safeguard",
+    "source": "OpenAI",
+    "published": "Tue, 24 Mar 2026 11:00:00 GMT",
+    "summary": "OpenAI releases prompt-based teen safety policies for developers using gpt-oss-safeguard, helping moderate age-specific risks in AI systems.",
+    "image": "https://openai.com/favicon.ico",
+    "fetched_at": "2026-03-30 20:52:16",
+    "ja_summary": "・OpenAIが開発者向けに、10代のユーザーを保護するAIガイドラインを公開。\n・「gpt-oss-safeguard」を通じ、年齢に応じたリスクを自動で緩和可能に。\n・開発者がより安全で健全なAI体験を提供できる環境を支援。"
+  },
+  {
+    "title": "定常業務を自動操縦にする — Claude Code スケジューラーの育て方",
+    "link": "https://zenn.dev/dely_jp/articles/cf19634b63015b",
+    "source": "Zenn Trends",
+    "published": "Mon, 30 Mar 2026 01:28:47 GMT",
+    "summary": "はじめに\nクラシルで開発マネージャーをしているfunzinです。\n本記事では、Claude Codeのスケジューラー機能を使って定常業務を自動化し、タスクを覚えておくストレスをゼロに近づける運用フローを紹介します。EM・PM・データ分析担当者など、定常作業を抱えるすべての方を対象にしています。Desktop スケジューラーで自動化を育て、安定したらCloud スケジューラーに昇格させるアプローチが実用的だったので、その運用方法を共有します\n\n 導入の背景\n毎日こなす定常作業が、以下のように存在していました。\n\n\n1on1の事前準備: メンバーのSlack・Notion・GitHubの...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--KG7Mq-wV--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E5%25AE%259A%25E5%25B8%25B8%25E6%25A5%25AD%25E5%258B%2599%25E3%2582%2592%25E8%2587%25AA%25E5%258B%2595%25E6%2593%258D%25E7%25B8%25A6%25E3%2581%25AB%25E3%2581%2599%25E3%2582%258B%2520%25E2%2580%2594%2520Claude%2520Code%2520%25E3%2582%25B9%25E3%2582%25B1%25E3%2582%25B8%25E3%2583%25A5%25E3%2583%25BC%25E3%2583%25A9%25E3%2583%25BC%25E3%2581%25AE%25E8%2582%25B2%25E3%2581%25A6%25E6%2596%25B9%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:funzin%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzM3MDYyNjhkNmMuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Kurashiru%2520Tech%2520Blog%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2hDMG04U205MTg2aXFZRExiSGpidjAtSzRhb3k3bTNlWGg4bm9YPXMyNTAtYw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-03-30 20:52:26",
+    "ja_summary": "・Claude Codeのスケジューラーを活用し、定常業務を自動化してタスク管理の負荷をゼロにする運用フローを解説。\n・まずはデスクトップ環境で自動化を構築し、安定後にクラウドへ移行する段階的なステップが推奨されている。\n・マネージャーや分析担当者など、日々繰り返しの作業に追われる業務の効率化に最適。"
+  },
+  {
+    "title": "SDD + TDD + VDDを融合したClaude Codeプラグイン「VSDD Claude Code」を作った話",
+    "link": "https://zenn.dev/sc30gsw/articles/1373752d9713b3",
+    "source": "Zenn Trends",
+    "published": "Sat, 28 Mar 2026 12:30:32 GMT",
+    "summary": "はじめに\nAI開発が当たり前となった現在、開発速度は格段に向上しました。\nそれでも、根本的な問題は解決されていません。\nLLMが生成したコードはテストを通過し、レビューでも問題が見つからない。\n「これでいける」と思い、リリースしてから初めて、問題が露呈するというようなケースが多々あります。\n例えば、本番環境に出てから初めて仕様との乖離が見つかった、エッジケースが考慮されていない、ハッピーパスしかテストされていない、などのケースがあります。\nつまり、LLMが生成したコードの実態は抽象化が過剰で変更に脆いという問題があります。\nこのような現象を総称して「AIスロップ（AI slop）」と...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--kAIDz24A--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:SDD%2520%252B%2520TDD%2520%252B%2520VDD%25E3%2582%2592%25E8%259E%258D%25E5%2590%2588%25E3%2581%2597%25E3%2581%259FClaude%2520Code%25E3%2583%2597%25E3%2583%25A9%25E3%2582%25B0%25E3%2582%25A4%25E3%2583%25B3%25E3%2580%258CVSDD%2520Claude%2520Code%25E3%2580%258D%25E3%2582%2592%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%259F%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:kaito%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2VmZDZhMGM5YWUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-03-30 20:52:28",
+    "ja_summary": "・LLM生成コードの「仕様との乖離」や「脆弱性」といったAIスロップ問題を解決するため、SDD・TDD・VDDを融合したClaude Codeプラグインを開発。\n・設計・テスト・検証を工程に組み込むことで、AI生成のコードの信頼性と堅牢性を向上させる。\n・本番環境でのトラブルを防ぎ、AI開発における実用的な品質担保を実現する手法。"
+  },
+  {
     "title": "ITエンジニア志望学生が選ぶインターン人気企業、1位は？",
     "link": "https://www.itmedia.co.jp/business/articles/2603/29/news008.html",
     "source": "ITmedia ビジネス",
@@ -958,45 +998,5 @@
     "image": "https://japan.cnet.com/storage/2026/03/27/dec08179333d0bb103b88dd0aaa44ccc/t/184/138/d/2026-03-27_10.04の画像.jpeg",
     "fetched_at": "2026-03-29 16:51:49",
     "ja_summary": "・Googleが日本で「検索 Live」の提供を開始。\n・カメラをかざすだけでAIが対象を検索・解説するマルチモーダル検索に対応。\n・日本を含む世界200以上の国・地域で順次利用可能。"
-  },
-  {
-    "title": "「和魂洋才」で日本の変革加速に貢献を--SAPジャパンの堀川次期社長が表明",
-    "link": "https://japan.zdnet.com/article/35245555/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "SAPジャパンが2026年度のビジネス戦略を発表し、次期社長の堀川嘉朗氏は、AIとデータによる顧客企業の競争力向上への貢献やパートナー強化などの重点方針を表明した。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35245555/\"><img src=\"https://japan.zdnet.com/storage/2026/03/26/d870a96dfc21aa6238e8ddf8ebcf2fa7/t/184/138/d/sapjapan001.jpg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2026/03/26/d870a96dfc21aa6238e8ddf8ebcf2fa7/t/184/138/d/sapjapan001.jpg",
-    "fetched_at": "2026-03-29 16:51:59",
-    "ja_summary": "・SAPジャパン次期社長の堀川氏が2026年度戦略を発表し、「和魂洋才」を掲げて日本企業の変革を支援すると表明。\n・AIやデータ活用による顧客の競争力強化と、パートナー企業との連携強化を重点方針とする。"
-  },
-  {
-    "title": "老舗寝具メーカーの「とろふわ」布団、なぜ生まれた？　“生活者の言葉”で語る重要性",
-    "link": "https://www.itmedia.co.jp/business/articles/2603/27/news016.html",
-    "source": "ITmedia ビジネス",
-    "published": "Fri, 27 Mar 2026 08:00:00 +0900",
-    "summary": "AIのおかげで、キャッチコピーは簡単に作れるようになった。そんな時代に他社と差別化してヒット商品を生み出すには、何が必要なのか。",
-    "image": "https://image.itmedia.co.jp/business/articles/2603/27/cover_news016.png",
-    "fetched_at": "2026-03-29 15:57:34",
-    "ja_summary": "AIでコピー生成が容易な時代、差別化には顧客のリアルな声（生活者の言葉）を取り入れた商品開発が不可欠。\n老舗寝具メーカーのヒット作「とろふわ」布団を例に、共感を呼ぶ言葉選びの重要性を解説。\n画一的なマーケティングを超え、生活者に寄り添った視点が競争力になる。"
-  },
-  {
-    "title": "毎秒「10回→100回」の動作指示が可能に　日立のフィジカルAI「3つの新技術」とは？",
-    "link": "https://www.itmedia.co.jp/business/articles/2603/27/news066.html",
-    "source": "ITmedia ビジネス",
-    "published": "Fri, 27 Mar 2026 07:45:00 +0900",
-    "summary": "日立製作所は3月23日、JR東京駅直結の協創施設「Lumada Innovation Hub Tokyo」で会見を開き、製造・設備保守・ロジスティクスなど産業現場向けに開発したフィジカルAI技術を披露した。",
-    "image": "https://image.itmedia.co.jp/business/articles/2603/27/cover_news066.jpg",
-    "fetched_at": "2026-03-29 15:57:35",
-    "ja_summary": "・日立が製造や物流現場向けの「フィジカルAI」新技術を発表。\n・動作指示の処理速度を従来の10倍（毎秒100回）に高速化。\n・製造・保守・物流現場におけるロボット制御や作業効率の劇的な向上を目指す。"
-  },
-  {
-    "title": "Google Cloud日本代表が語った「エージェンティックAI」への意気込み",
-    "link": "https://japan.zdnet.com/article/35245572/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "今回は、グーグル・クラウド・ジャパン 日本代表の三上智子氏と、日本シーゲート 代表取締役社長の新妻太氏の「明言」を紹介する。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35245572/\"><img src=\"https://japan.zdnet.com/storage/2026/03/27/a31b6c5d34ca3952b72bc86c680041f6/t/184/138/d/sp_12matsuoka_260327_l.jpg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2026/03/27/a31b6c5d34ca3952b72bc86c680041f6/t/184/138/d/sp_12matsuoka_260327_l.jpg",
-    "fetched_at": "2026-03-29 15:58:03",
-    "ja_summary": "Google Cloud日本代表と日本シーゲート代表が、自律的にタスクを実行する「エージェンティックAI」の活用について展望を語った。\n企業におけるAIの実用化とビジネス変革への意気込みが示されている。"
   }
 ]
