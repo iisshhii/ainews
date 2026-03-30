@@ -1,5 +1,75 @@
 [
   {
+    "title": "AIは仕事を奪うか肩代わりするか　労働なき未来で人類に残るもの",
+    "link": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/052100112/032500134/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "3カ月間の長期休暇を終えて、2026年3月から職場に復帰した。それに伴い、このコラム連載も再開することになった。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/052100112/032500134/topm.jpg?20220512",
+    "fetched_at": "2026-03-30 18:46:42",
+    "ja_summary": "・AIの普及で労働のあり方が激変する未来において、人間本来の役割を問い直す。\n・AIは仕事を「奪う」存在か、それとも「肩代わり」する存在かを探る。\n・労働が不要になりつつある社会で、人類に残る価値とは何かを考察する。"
+  },
+  {
+    "title": "さいたまスーパーアリーナ新名称は「GMOアリーナさいたま」",
+    "link": "https://www.watch.impress.co.jp/docs/news/2097524.html",
+    "source": "Impress Watch",
+    "published": "",
+    "summary": "2026年4月1日から「さいたまスーパーアリーナ」の愛称が「GMOアリーナさいたま」となる。GMOインターネットグループと埼玉県が3月30日に、バリューアップ・ネーミングライツパートナー契約を締結した。英文の愛称は「GMO ARENA saitama」。契約期間は4月1日から2032年3月31日までの6年間。",
+    "image": "https://www.watch.impress.co.jp/img/ipw/list/2097/524/gmo1.jpg",
+    "fetched_at": "2026-03-30 18:46:43",
+    "ja_summary": "・2026年4月より「さいたまスーパーアリーナ」の名称が「GMOアリーナさいたま」へ変更される。\n・GMOインターネットグループと埼玉県が、6年間のネーミングライツ契約を締結した。\n・契約期間は2026年4月1日から2032年3月31日まで。"
+  },
+  {
+    "title": "オープンAIとアンスロピック、投資するならどっち？ 2026年最大のIPOとなりそうな2社を比較",
+    "link": "https://www.businessinsider.jp/article/2603-openai-vs-anthropic-which-one-should-you-invest-in/",
+    "source": "Business Insider Japan",
+    "published": "Mon, 30 Mar 2026 08:30:00 GMT",
+    "summary": "オープンAI（OpenAI）とアンスロピック（Anthropic）、同じ規模のインパクトを持つIPOが2つ同時に近づいています。IPOの準備状況、稼ぎ方の違い、企業価値の妥当性、リスクの質。この4つの軸で両社を比較してみた。",
+    "image": "https://media.loom-app.com/loom/2026/03/27/dcf87a12-249b-4afa-a174-e97d9ec8e5ac/original.jpg?w=1200&amp;h=630",
+    "fetched_at": "2026-03-30 18:46:47",
+    "ja_summary": "・OpenAIとAnthropicが2026年の大型IPO候補として注目されている。\n・両社の準備状況や収益モデル、企業価値、リスクを4つの軸で徹底比較。\n・次世代AI市場を牽引する両社の投資価値を判断するための分析記事。"
+  },
+  {
+    "title": "対話型AIは「おべっか」傾向 研究",
+    "link": "https://news.yahoo.co.jp/pickup/6574335?source=rss",
+    "source": "Yahoo!ニュース IT・科学",
+    "published": "Thu, 26 Mar 2026 21:34:47 GMT",
+    "summary": "",
+    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/27/c9ee029bd7867a6b8f28878ddc3f5fac79a3c4bdca75cd2a9221387ec978b31a.jpg",
+    "fetched_at": "2026-03-30 18:46:53",
+    "ja_summary": "・対話型AIはユーザーの意見に過剰に同意し、媚びるような回答をする傾向がある。\n・AIがユーザーの好みを忖度することで、客観的判断が歪められるリスクが指摘された。\n・AI活用時には、同調バイアスを前提とした情報検証の重要性が高まっている。"
+  },
+  {
+    "title": "Anduril LatticeOS: Autonomous Operations Model: Schema, Counter-Narrative, and Implementation",
+    "link": "https://speakerdeck.com/chokmahllc/anduril-latticeos-autonomous-operations-model-schema-counter-narrative-and-implementation",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-03-30T05:32:35-04:00",
+    "summary": "LatticeOS is fundamentally a data ontology enforcement layer with a tasking bus, not an AI operating system. The SDK's primary APIs (Entities, Tasks, Objects) normalize sensor feeds into a shared entity model and route task commands to agents. ML models that generate targeting recommendations are tenants of this platform, not the platform itself. This distinction transforms the governance problem: instrumentation targets the inference pipeline, not the platform bus. The $20B enterprise contract consolidates 120+ procurement actions into a single ordering vehicle, enabling governance updates at software-update cadence (weeks, not multi-year cycles).",
+    "image": "https://files.speakerdeck.com/presentations/89dab3a48662460bab8040480c67ea3e/preview_slide_0.jpg?38917050",
+    "fetched_at": "2026-03-30 18:47:09",
+    "ja_summary": "・AndurilのLatticeOSはAI OSではなく、センサー情報を統合しタスクを指揮する「データ基盤」である。\n・AIモデルはプラットフォームの一部としてではなく、基盤上の機能として分離・管理される。\n・200億ドルの大型契約により、調達が統合され、数年単位だった運用サイクルがソフトウェア更新の速度へ短縮される。"
+  },
+  {
+    "title": "ブラックボックス化したMLシステムのVertex AI移行 / mlops_community_62",
+    "link": "https://speakerdeck.com/visional_engineering_and_design/mlops-community-62",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-03-30T04:15:41-04:00",
+    "summary": "2026年3月30日に開催された「第62回 MLOps/LLMOps/AgentOps 勉強会」の登壇資料です。\nhttps://mlops.connpass.com/event/387115/\n\n▼関連資料\n1人1アプリから標準化へ：Vertex AIを活用したMLOps推進 \nhttps://speakerdeck.com/visional_engineering_and_design/shibuya-ai-4\n\nビズリーチにおける検索・推薦の取り組み\nhttps://speakerdeck.com/visional_engineering_and_design/deim2026\n\nビズリーチの 「企業向けレコメンド」機能について\nhttps://speakerdeck.com/visional_engineering_and_design/shibuya-ai-3\n\nTwo-Tower モデルで実現する 検索リランキング\nhttps://speakerdeck.com/visional_engineering_and_design/shibuya-ai-2\n\n生成AIの利活用を加速させるための取り組み「prAIrie-dog」\nhttps://speakerdeck.com/visional_engineering_and_design/shibuya-ai-1\n\n-----\nVisionalのエンジニアリングに関する最新情報はX、ブログで発信しています！📣\n\n▼Visional Engineering Blog\nhttps://engineering.visional.inc/blog/\n\n▼VISIONAL ENGINEERING / X\nhttps://twitter.com/VISIONAL_ENG\n\n▼ビズリーチAI 特設サイト\nhttps://www.bizreach.co.jp/ai",
+    "image": "https://files.speakerdeck.com/presentations/2c047ae820144ac9875252781200f872/preview_slide_0.jpg?38916077",
+    "fetched_at": "2026-03-30 18:47:09",
+    "ja_summary": "・属人化してブラックボックス化した機械学習（ML）システムを、Vertex AIを活用して標準化・運用効率化した事例。\n・検索・推薦エンジンの高度化や、生成AI活用基盤「prAIrie-dog」の開発など、技術活用によるプロダクト改善の取り組み。\n・VisionalグループにおけるMLOps推進と、機械学習技術のビジネス実装に関する知見の共有。"
+  },
+  {
+    "title": "研究効率を爆上げするAIツールまとめ（論文調査〜執筆まで）",
+    "link": "https://qiita.com/Milab_honda/items/8577b96433491173bf4e",
+    "source": "Qiita (Popular)",
+    "published": "2026-03-29T13:27:36+09:00",
+    "summary": "# はじめに\n\n私は機械知能研究室に所属し，CV分野の研究をしている．  \n本研究室では，画像認識および機械学習を基盤とした人工知能技術を中心に，視覚情報から有用な情報を自動的に獲得するための研究に取り組んでいる．  \n興味があれば [研究室HP](https://cu-milab.github.io/milab/jp/) を参照されたい．\n\n## 本題\n\n論文調査に1日かかっていないだろうか．\n",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnNlY3VyZS5ncmF2YXRhci5jb20lMkZhdmF0YXIlMkZhZTM1MDdiZDcyZDIzMmU3OWNmMDVlZWYwN2UyZGE4Mz9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9YjgzZjEzMzFmMTQ4ODY2OGM0MjlmZjVkMDIyNWY3ODI%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkZjYTU0ZWJkNjBmYTVkMDdmNTVmYWY1YjVjYTAxMDhlZjM5MjJkNDk1JTJGb3JpZ2luYWwuanBnJTNGMTc2MTAzMTY4NT9peGxpYj1yYi00LjAuMCZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz00OTBiMDk1ZWM3MjI1MDQ1OTkwMzA1MjFmZjE1YWNkZg%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D9be3ca84af0bd581705847cf74d50052?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUU3JUEwJTk0JUU3JUE5JUI2JUU1JThBJUI5JUU3JThFJTg3JUUzJTgyJTkyJUU3JTg4JTg2JUU0JUI4JThBJUUzJTgxJTkyJUUzJTgxJTk5JUUzJTgyJThCQUklRTMlODMlODQlRTMlODMlQkMlRTMlODMlQUIlRTMlODElQkUlRTMlODElQTglRTMlODIlODElRUYlQkMlODglRTglQUIlOTYlRTYlOTYlODclRTglQUElQkYlRTYlOUYlQkIlRTMlODAlOUMlRTUlOUYlQjclRTclQUQlODYlRTMlODElQkUlRTMlODElQTclRUYlQkMlODkmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1jMzM1YjhjMmQyMzIxNzVmMDhkZDMyODQxNjkyZjQ2YQ&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBNaWxhYl9ob25kYSZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTBkMGQ4NDQxMzIzMjA1MjhkMmQ1N2IxNDg4YjBiZDFk&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=5Lit6YOo5aSn5a2mIOapn-aisOefpeiDveeglOeptuWupA&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=ae4e861b5d60d05a6047885dbacacaa3",
+    "fetched_at": "2026-03-30 18:47:11",
+    "ja_summary": "・研究室の研究者が、論文調査から執筆までを効率化するAIツールを体系的に紹介。\n・従来の長時間かかる論文調査プロセスをAIで大幅に短縮する手法を提案。\n・研究活動の生産性を高めたい人向けに、実用的なAI活用術を網羅。"
+  },
+  {
     "title": "AI活用でビジネスを変革する　各企業の実践事例 (テーマ別まとめ記事)",
     "link": "https://business.nikkei.com/atcl/gen/19/00081/022600924/",
     "source": "日経ビジネス 最新",
@@ -928,75 +998,5 @@
     "image": "https://res.cloudinary.com/zenn/image/upload/s--l9XIOPb6--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_72:%25E3%2583%25AD%25E3%2583%25BC%25E3%2582%25AB%25E3%2583%25ABLLM%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E3%2583%25AD%25E3%2582%25B0%25E3%2583%2593%25E3%2583%25BC%25EF%25BC%2588Logbii%25EF%25BC%2589%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2Y3YTkyMzM3ODguanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E6%25A0%25AA%25E5%25BC%258F%25E4%25BC%259A%25E7%25A4%25BE%25E3%2583%25AD%25E3%2582%25B0%25E3%2583%2593%25E3%2583%25BC%25EF%25BC%2588Logbii%252C%2520Inc.%25EF%25BC%2589%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzc2MDk0ZGMxNGMuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
     "fetched_at": "2026-03-29 14:57:09",
     "ja_summary": "・外部サーバーを使わず、コスト削減や機密保持のために自分の環境でAIを動かす「ローカルLLM」の基礎と導入方法を解説。\n・初心者向けに「Ollama」の具体的な使い方を紹介。\n・月次で開催される社内勉強会の内容を、今後アーカイブとして公開予定。"
-  },
-  {
-    "title": "NaaSで攻勢狙うドコモビジネス　単なる土管からAIのインフラへ",
-    "link": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/052100110/032500174/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "NTTドコモビジネス（旧NTTコミュニケーションズ）がNaaS（ネットワーク・アズ・ア・サービス）で巻き返しを狙っている。NaaSとはSoftware Defined（ソフトウエア定義）技術を活用し、クラウドと同様、必要な機能を使った分だけ支払うような体系を取り入れたネットワークサービスを指す。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/052100110/032500174/topm.jpg?20220512",
-    "fetched_at": "2026-03-29 13:24:09",
-    "ja_summary": "・ドコモビジネスがNaaS（ネットワーク・アズ・ア・サービス）を活用した事業展開を強化。\n・ソフトウェア制御により、必要な機能を必要な分だけ柔軟に利用できる仕組みへ転換。\n・単なる通信回線提供から脱却し、AI活用を支える次世代インフラへの進化を狙う。"
-  },
-  {
-    "title": "Powering product discovery in ChatGPT",
-    "link": "https://openai.com/index/powering-product-discovery-in-chatgpt",
-    "source": "OpenAI",
-    "published": "Tue, 24 Mar 2026 09:00:00 GMT",
-    "summary": "ChatGPT introduces richer, visually immersive shopping powered by the Agentic Commerce Protocol, enabling product discovery, side-by-side comparisons, and merchant integration.",
-    "image": "https://openai.com/favicon.ico",
-    "fetched_at": "2026-03-29 13:24:31",
-    "ja_summary": "・ChatGPTが「Agentic Commerce Protocol」を導入し、視覚的な商品検索・比較機能を提供開始。\n・AIが直接ECサイトと連携し、ユーザーの製品発見から比較検討までをスムーズにサポート。\n・AIエージェントによる次世代の購買体験により、ショッピングの利便性が大幅に向上。"
-  },
-  {
-    "title": "国産LLMは作れるのか？ - RakutenAI 3.0の炎上から考える",
-    "link": "https://zenn.dev/nitic_students/articles/e2e331dea0c616",
-    "source": "Zenn Trends",
-    "published": "Fri, 27 Mar 2026 13:39:11 GMT",
-    "summary": "はじめに\n2026年03月17日、楽天グループが「国内最大規模」と謳う大規模言語モデル（以下、LLM）「Rakuten AI 3.0」を発表しました。約7000億パラメータのMoE（Mixture of Experts）モデルで、日本語ベンチマークではGPT-4oを上回るスコアを記録したといいます。\nhttps://huggingface.co/Rakuten/RakutenAI-3.0\nしかし公開直後、Hugging Face上のconfig.jsonに\"model_type: \"deepseek_v3\"という記述が見つかり、ベースモデルがDeepSeek V3であることが判明。さ...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--wOgARYbd--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E5%259B%25BD%25E7%2594%25A3LLM%25E3%2581%25AF%25E4%25BD%259C%25E3%2582%258C%25E3%2582%258B%25E3%2581%25AE%25E3%2581%258B%25EF%25BC%259F%2520-%2520RakutenAI%25203.0%25E3%2581%25AE%25E7%2582%258E%25E4%25B8%258A%25E3%2581%258B%25E3%2582%2589%25E8%2580%2583%25E3%2581%2588%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Juna1013%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzBiYzc3NDIyM2YuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E8%258C%25A8%25E5%259F%258E%25E9%25AB%2598%25E5%25B0%2582%2520%25E5%25AD%25A6%25E7%2594%259F%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2Q1MjIwZWRmM2MuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-    "fetched_at": "2026-03-29 13:24:38",
-    "ja_summary": "・楽天が「国内最大級」の自社LLM「Rakuten AI 3.0」を発表したが、設定ファイルからDeepSeek V3の流用が発覚。\n・他社モデルをベースにしながら「自社開発」を強調した宣伝手法が、AI開発コミュニティで大きな批判を招いている。\n・国産モデル開発の意義や、透明性あるAI開発のあり方が改めて問われる事態となっている。"
-  },
-  {
-    "title": "水冷×AI×ESG：次世代DCの挑戦 　Liquid Cooling × AI × ESG: Challenges for the Next-Generation Data Center",
-    "link": "https://speakerdeck.com/daihiraoka/shui-leng-xaixesg-ci-shi-dai-dcnotiao-zhan-liquid-cooling-x-ai-x-esg-challenges-for-the-next-generation-data-center",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-03-28T21:36:42-04:00",
-    "summary": "Presented at IBM TechXchange Summit Japan 2025 (December 3, 2025) by Daisuke Hiraoka (IBM Japan) and Shoichiro Sakaigawa (Getworks Inc.).\n\nThis session covers a proof-of-concept (PoC) deployment of GPU observability in a container-style data center located in Yuzawa, Niigata, Japan. Using NVIDIA DCGM Exporter and OpenTelemetry Collector, the team achieved real-time monitoring of 8 NVIDIA H200 GPUs — resulting in approximately 80% reduction in GPU power consumption (5,520W → 1,062W) and a 35°C drop in GPU temperature through workload rebalancing.\n\nThe presentation also explores the facility's groundwater-assisted cooling infrastructure, renewable energy integration, and the roadmap toward PUE/WUE visibility and ESG reporting.\n\nThis PoC has since moved to production (January 2026). The extended pipeline — including SNMP-based cooling telemetry from in-row air coolers and liquid-cooling CDUs — is the subject of our KubeCon + CloudNativeCon Japan 2026 submission.\n\nSpeakers:\n- Shoichiro Sakaigawa — IBM Champion, System Manager / AI Expert, Getworks Inc.\n- Daisuke Hiraoka — IBM Champion, Advisory Automation Technical Specialist, IBM Japan",
-    "image": "https://files.speakerdeck.com/presentations/b60826cfdba74bb694a9caf7d6ccceab/preview_slide_0.jpg?38905467",
-    "fetched_at": "2026-03-29 13:24:39",
-    "ja_summary": "・新潟のコンテナ型データセンターでGPUのリアルタイム監視と最適化を実施。\n・ワークロード再配置により、GPUの消費電力を約80%削減し温度を35℃低下させることに成功。\n・地下水冷却や再エネ活用を組み合わせ、ESG対応とデータセンターの効率化を推進。"
-  },
-  {
-    "title": "AIに「いい感じに作って」と言うのをやめたら、開発が回り出した — Spec-Driven Development 実践ガイド",
-    "link": "https://qiita.com/akira_papa_AI/items/5f66b2b289994e4a0256",
-    "source": "Qiita (Popular)",
-    "published": "2026-03-27T07:52:14+09:00",
-    "summary": "## はじめに — AIに雑に頼むと「速く間違う」だけ\n\nAIに「いい感じに作って」と言って、本当に「いい感じ」のものが返ってきたこと、ありますか...?\n\nちょっと考えてみましょう。こんなプロンプトを書いたことはないでしょうか。\n\n```\nユーザー登録機能を作って\n```\n\nで、返ってくるコードは、たしかに「動く」。\n\nでも、メールアドレスのバリデーションがない。パスワードの強度チェックもない。",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0MzUyMzMlMkYzYWVhMjJjODY0NGRjN2RhNzNhYmNiZWViNzNiMzQ5NTY1ZjFhYzg3JTJGeF9sYXJnZS5wbmclM0YxNzQzODkzNzQwP2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz0zYzAxZGY0NTQwNDA3MDkxOWU4ZDc1YjJmMGMwODg1MQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D57d66a48ec5d58fdc4e5256f39ac787a?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9QUklRTMlODElQUIlRTMlODAlOEMlRTMlODElODQlRTMlODElODQlRTYlODQlOUYlRTMlODElOTglRTMlODElQUIlRTQlQkQlOUMlRTMlODElQTMlRTMlODElQTYlRTMlODAlOEQlRTMlODElQTglRTglQTglODAlRTMlODElODYlRTMlODElQUUlRTMlODIlOTIlRTMlODIlODQlRTMlODIlODElRTMlODElOUYlRTMlODIlODklRTMlODAlODElRTklOTYlOEIlRTclOTklQkElRTMlODElOEMlRTUlOUIlOUUlRTMlODIlOEElRTUlODclQkElRTMlODElOTclRTMlODElOUYlMjAlRTIlODAlOTQlMjBTcGVjLURyaXZlbiUyMERldmVsb3BtZW50JTIwJUU1JUFFJTlGJUU4JUI3JUI1JUUyJTgwJUE2JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9OWU4ZDNmZDVlMWI0YzI2MDVmMWUwNTk0MTUxZWYzYWM&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBha2lyYV9wYXBhX0FJJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9Njg4MDRmOGExYzc3N2U4YTc5ZDg2NzcxYzljNzViN2U&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=746e8ae96648e1fdbeb44299f12d5f1c",
-    "fetched_at": "2026-03-29 13:24:41",
-    "ja_summary": "AIに曖昧な指示を出すと精度が低く修正の手間が増えるため、「仕様（Spec）」を明確に記述して開発する手法が推奨される。\n仕様を定義することでAIの出力を制御し、手戻りを防いで開発効率を最大化できる。\n単なる丸投げをやめ、意図を詳細に言語化することがAI開発を成功させる鍵となる。"
-  },
-  {
-    "title": "【緊急】月間9500万DLのLiteLLMが乗っ取られた。インストールしただけでSSH鍵・AWS認証・仮想通貨が全部盗まれる",
-    "link": "https://qiita.com/emi_ndk/items/2332ff5c93e63ab736ad",
-    "source": "Qiita (Popular)",
-    "published": "2026-03-26T15:54:48+09:00",
-    "summary": "\n**あなたのマシンにLiteLLMが入っていたら、今すぐこの記事を読んでください。**\n\n2026年3月24日、AIエージェント開発者の間で最も広く使われているPythonライブラリの一つ「**LiteLLM**」が、サプライチェーン攻撃により完全に乗っ取られました。\n\n月間**9,500万ダウンロード**。影響範囲は計り知れません。\n\n## 結論から言うと\n\n:::note alert\nLit",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmF2YXRhcnMuZ2l0aHVidXNlcmNvbnRlbnQuY29tJTJGdSUyRjU0MTczODUwJTNGdiUzRDQ_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPTQ5ZGU0OTdkMjMwMjhmNWZmOTcwNmZlNGNmY2E5MDZm%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D29ced0e10c8c1d24806abaf93840cae7?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJTkwJUU3JUI3JThBJUU2JTgwJUE1JUUzJTgwJTkxJUU2JTlDJTg4JUU5JTk2JTkzOTUwMCVFNCVCOCU4N0RMJUUzJTgxJUFFTGl0ZUxMTSVFMyU4MSU4QyVFNCVCOSU5NyVFMyU4MSVBMyVFNSU4RiU5NiVFMyU4MiU4OSVFMyU4MiU4QyVFMyU4MSU5RiVFMyU4MCU4MiVFMyU4MiVBNCVFMyU4MyVCMyVFMyU4MiVCOSVFMyU4MyU4OCVFMyU4MyVCQyVFMyU4MyVBQiVFMyU4MSU5NyVFMyU4MSU5RiVFMyU4MSVBMCVFMyU4MSU5MSVFMyU4MSVBN1NTSCVFOSU4RCVCNSVFMyU4MyVCQkFXUyVFOCVBQSU4RCVFOCVBOCVCQyVFMyU4MyVCQiVFNCVCQiVBRSVFNiU4MyVCMyVFOSU4MCU5QSVFOCVCMiVBOCVFMiU4MCVBNiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTBkM2NmN2JlNzVlNTgwZjA0Yzc2YWYxZjMxOWZjOWEw&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBlbWlfbmRrJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9NzU0NDg1YzBhMGMzNTE3YTkwZWM1ZTU4MzFlOTQyMWY&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=f6711ef04d705932113083f212cffa5f",
-    "fetched_at": "2026-03-29 13:24:42",
-    "ja_summary": "・人気ライブラリ「LiteLLM」が乗っ取られ、インストール済みのPCからSSH鍵・AWS認証情報・仮想通貨などが盗まれる被害が発生。\n・月間9500万DLの影響力を持つ大規模なサプライチェーン攻撃のため、該当環境を持つ場合は直ちに確認と対応が必要。\n・自身の開発環境が侵害されていないか、至急セキュリティ調査を行うこと。"
-  },
-  {
-    "title": "ITエンジニア志望学生が選ぶインターン人気企業、1位は？",
-    "link": "https://www.itmedia.co.jp/business/articles/2603/29/news008.html",
-    "source": "ITmedia ビジネス",
-    "published": "Sun, 29 Mar 2026 09:30:00 +0900",
-    "summary": "paizaが、ITエンジニアを志望する2027年度・2028年度卒業予定の学生を対象に「インターンシップに参加したい企業」を調査。1位に選ばれたのは？",
-    "image": "https://image.itmedia.co.jp/business/articles/2603/29/cover_news008.jpg",
-    "fetched_at": "2026-03-29 10:44:49",
-    "ja_summary": "・paizaがITエンジニア志望学生（27・28卒）を対象にインターン人気企業を調査。\n・学生が最も参加を希望する企業ランキングが発表された。\n・次世代エンジニアの就職志向を測る指標として注目されている。"
   }
 ]
