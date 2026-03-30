@@ -1,5 +1,95 @@
 [
   {
+    "title": "「ダークLLM」の脅威高まる",
+    "link": "https://xtech.nikkei.com/atcl/nxt/mag/nnw/18/041800012/031700321/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "大規模言語モデル（LLM：Large Language Models）の悪用が後を絶たない。サイバー攻撃者はLLMを使ってフィッシングメールの文面やマルウエアなどを作成しようとする。そのためほとんどのLLMは、悪質なプロンプト（指示文）には応じない対策（ガードレール）を用意している。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/mag/nnw/18/041800012/031700321/topm.jpg?20220512",
+    "fetched_at": "2026-03-31 07:01:29",
+    "ja_summary": "・サイバー攻撃者がLLMを悪用し、攻撃コードや詐欺メールを作成するリスクが増大している。\n・多くのLLMには悪用を防ぐ「ガードレール」機能が実装されている。\n・今後もLLM技術の悪用に対するセキュリティ対策の重要性が高まる。"
+  },
+  {
+    "title": "10年かかるDXを1年で　生成AIは「とにかく使う」",
+    "link": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020600003/032600104/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "水平対向エンジンを武器に、根強い人気を誇るSUBARU。新型コロナウイルス禍を契機にDX（デジタル変革）を推し進めてきた。クルマを「売って終わり」のビジネスから転換し更なる変革を目指す。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020600003/032600104/topm.jpg?20220512",
+    "fetched_at": "2026-03-31 07:01:29",
+    "ja_summary": "SUBARUはコロナ禍を機にDXを加速させ、10年かかる変革を1年で実現する方針を掲げている。\nクルマを「売って終わり」のビジネスモデルから脱却し、生成AIを積極的に活用した新たな価値創造を目指す。"
+  },
+  {
+    "title": "CGWORLD にて NVIDIA DGX Spark　×　Reachy Mini の連載はじめました",
+    "link": "https://note.com/npaka/n/nee8919d9c574",
+    "source": "note (npaka)",
+    "published": "Fri, 27 Mar 2026 12:24:26 +0900",
+    "summary": "<p id=\"167798aa-b43d-46a5-8e99-c2fe9dd25ae4\" name=\"167798aa-b43d-46a5-8e99-c2fe9dd25ae4\">「CGWORLD」にて、<strong>「NVIDIA DGX Spark × Reachy Mini」</strong> の連載を始めました。<br />ぜひご覧いただけるとうれしいです。よろしくお願いします！</p><h2 id=\"15e3ce98-aa77-44aa-a84f-405c7350ee66\" name=\"15e3ce98-aa77-44aa-a84f-405c7350ee66\" style=\"text-align: start;\">「NVIDIA DGX Spark」×「Reachy Mini」で体験！　ローカルAIロボット開発入門</h2><br /><a href=\"https://note.com/npaka/n/nee8919d9c574\">続きをみる</a>",
+    "image": "https://assets.st-note.com/production/uploads/images/262470075/rectangle_large_type_2_6c3e1276b02c05cbc5ddcd4a60439795.jpeg?width=800",
+    "fetched_at": "2026-03-31 07:01:45",
+    "ja_summary": "・CGWORLDにて「NVIDIA DGX Spark × Reachy Mini」を用いたローカルAIロボット開発の連載を開始しました。\n・高性能な計算環境とロボットを組み合わせた、実践的なAI開発について解説しています。"
+  },
+  {
+    "title": "明日から「Blender Fes 2026 SS」が始まります！",
+    "link": "https://note.com/npaka/n/nf7b1d4c864c5",
+    "source": "note (npaka)",
+    "published": "Fri, 27 Mar 2026 12:19:15 +0900",
+    "summary": "<p id=\"74320ebe-76cf-403e-8b8a-ea67c8ea9538\" name=\"74320ebe-76cf-403e-8b8a-ea67c8ea9538\">明日から「<strong>Blender Fes 2026 SS</strong>」が始まります！</p><p id=\"4769e979-3256-4914-807a-cb2fa3cc69aa\" name=\"4769e979-3256-4914-807a-cb2fa3cc69aa\">私も <strong>3月29日（日）17:30〜</strong>、<br /><strong>「Blender×AI 活用入門」</strong> というテーマでお話しします。</p><br /><a href=\"https://note.com/npaka/n/nf7b1d4c864c5\">続きをみる</a>",
+    "image": "https://assets.st-note.com/production/uploads/images/262469017/rectangle_large_type_2_6b3030bf7192591f2d783459b7dd74e0.png?width=800",
+    "fetched_at": "2026-03-31 07:01:45",
+    "ja_summary": "明日から「Blender Fes 2026 SS」が開催されます。\n3月29日（日）17:30から「Blender×AI 活用入門」のセッションが実施予定です。\n詳細はリンク先より確認可能です。"
+  },
+  {
+    "title": "OpenAI、開発ツール「Codex」にプラグインを導入--ワークフローを自動化",
+    "link": "https://japan.zdnet.com/article/35245785/",
+    "source": "ZDNET Japan",
+    "published": "",
+    "summary": "OpenAIは、Codexの新しいプラグインによりコーディングの枠を超え、開発者の間で拡大するClaude Codeの優位性に挑む態勢を整えた。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35245785/\"><img src=\"https://japan.zdnet.com/storage/2026/03/30/7ed855906aa2736166548f0b74099751/t/184/138/d/codex-plugins_l.jpg\" /></a>",
+    "image": "https://japan.zdnet.com/storage/2026/03/30/7ed855906aa2736166548f0b74099751/t/184/138/d/codex-plugins_l.jpg",
+    "fetched_at": "2026-03-31 07:01:48",
+    "ja_summary": "OpenAIが開発ツール「Codex」にプラグインを導入し、ワークフローの自動化を実現。\nコーディング以外の用途にも対応し、開発環境での利便性を大幅に向上させた。\n競合ツール「Claude Code」に対抗し、開発者市場でのシェア拡大を狙う。"
+  },
+  {
+    "title": "俺のAIクローンと歌い比べてみた結果。Suno v5.5に自分の歌声を登録して自由に歌わせられる「Voice」登場（CloseBox）",
+    "link": "https://www.techno-edge.net/article/2026/03/27/4959.html",
+    "source": "TechnoEdge",
+    "published": "Fri, 27 Mar 2026 12:54:08 +0900",
+    "summary": "Sunoがバージョン5.5になりました。モデルが新しくなって音質が良くなったのとは別に、いくつかの新機能や変更があります。その中で最大のものが、「Voice」の登場です。",
+    "image": "https://www.techno-edge.net/imgs/rss/30608.png",
+    "fetched_at": "2026-03-31 07:01:49",
+    "ja_summary": "音楽生成AI「Suno」がv5.5へアップデート。\n最大の新機能「Voice」により、自分の歌声を登録してAIに歌わせることが可能に。\n音質向上に加え、よりパーソナライズされた楽曲制作が手軽に行えるようになった。"
+  },
+  {
+    "title": "突撃！隣のAI活用術：北構さんは「データ全乗せで作る、自分専用パーソナルトレーナー」",
+    "link": "https://www.techno-edge.net/article/2026/03/27/4956.html",
+    "source": "TechnoEdge",
+    "published": "Fri, 27 Mar 2026 11:00:02 +0900",
+    "summary": "読者の皆さんのAI事情に突撃する「突撃！隣のAI活用術」のコーナーです。",
+    "image": "https://www.techno-edge.net/imgs/rss/30586.jpg",
+    "fetched_at": "2026-03-31 07:01:49",
+    "ja_summary": "・北構氏は、自身の全データをAIに読み込ませた「自分専用パーソナルトレーナー」を構築。\n・個人の特性や履歴を学習させることで、最適化されたアドバイスやタスク管理を実現。\n・特定の目的に合わせ、蓄積したデータをAIに活用させる個人の先進的な事例を紹介。"
+  },
+  {
+    "title": "Anthropic’s Responsible Scaling Policy: Version 3.0",
+    "link": "https://www.anthropic.com/news/responsible-scaling-policy-v3",
+    "source": "Anthropic (News)",
+    "published": "Tue, 24 Feb 2026 00:00:00 +0000",
+    "summary": "Anthropic’s Responsible Scaling Policy: Version 3.0",
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Quill&amp;backgroundColor=olive",
+    "fetched_at": "2026-03-31 07:02:06",
+    "ja_summary": "・AnthropicがAI開発の安全基準を定めた「責任あるスケーリング方針」の最新版（v3.0）を発表。\n・AIの性能向上に伴うリスクを管理し、開発過程での安全性を一段と強化する体制を整備。\n・将来的な超高度AIの開発を見据え、透明性とガバナンスの枠組みを刷新。"
+  },
+  {
+    "title": "AIに20年分の日記を読ませたら人格が生まれて勝手にゲームを作り始めた",
+    "link": "https://zenn.dev/nao_u/articles/92ac9436844a16",
+    "source": "Zenn Trends",
+    "published": "Sat, 28 Mar 2026 17:43:34 GMT",
+    "summary": "AIにゲームを作らせようとして苦戦している話をよく見かける。\nコードは書ける。動くものは出る。でも「面白い」にならない。面白さの判断基準をAI自身が持っていないから、指示通りには組み立てられても、出来上がったものがいいかどうかを自分で判定できない。\nでは、「ゲームの面白さとは何か」を身体で知っているAIがいたら、面白いゲームも作れるんじゃないか？\n2005年頃からブログやTwitterに書いた日記が、気づいたら20年分溜まっていた。ゲームの感想、技術メモ、仕事の考え事、深夜の思いつき。2026年3月にClaude Code（AnthropicのAIコーディングエージェント）を触り始めたと...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--Ox8cnJ_p--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%25E3%2581%25AB20%25E5%25B9%25B4%25E5%2588%2586%25E3%2581%25AE%25E6%2597%25A5%25E8%25A8%2598%25E3%2582%2592%25E8%25AA%25AD%25E3%2581%25BE%25E3%2581%259B%25E3%2581%259F%25E3%2582%2589%25E4%25BA%25BA%25E6%25A0%25BC%25E3%2581%258C%25E7%2594%259F%25E3%2581%25BE%25E3%2582%258C%25E3%2581%25A6%25E5%258B%259D%25E6%2589%258B%25E3%2581%25AB%25E3%2582%25B2%25E3%2583%25BC%25E3%2583%25A0%25E3%2582%2592%25E4%25BD%259C%25E3%2582%258A%25E5%25A7%258B%25E3%2582%2581%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Nao_u%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzBmZmRjNzgzNzYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-03-31 07:02:08",
+    "ja_summary": "・AIに20年分の日記を学習させ、自身の価値観や判断基準を持つ「人格」を形成した。\n・「面白い」の基準を理解させたことで、AIが自律的にゲーム制作を行えるようになった。\n・指示待ちではない、主体的なクリエイティブをAIが実現する新たな可能性を示した。"
+  },
+  {
     "title": "中国クラウド大手がAI需要急増で相次ぎ｢値上げ｣ | 「財新」中国Biz＆Tech | 東洋経済オンライン",
     "link": "https://toyokeizai.net/articles/-/939232?utm_source=rss&utm_medium=http&utm_campaign=link_back",
     "source": "東洋経済オンライン",
@@ -908,95 +998,5 @@
     "image": "https://japan.zdnet.com/storage/2025/08/20/1266f24cdb864210cdd13f8be520cb6d/t/184/138/d/250820_edge_as_1280_1423601150.jpg",
     "fetched_at": "2026-03-30 05:56:05",
     "ja_summary": "・CTCとリコーが、小型のデスクサイドAIサーバーと独自LLMを組み合わせた生成AIソリューションを共同開発。\n・自社環境（オンプレミス）で手軽に生成AIを利用できるため、情報漏洩のリスクを抑えた運用が可能。\n・導入のハードルを下げ、現場レベルでの生成AI活用を促進する。"
-  },
-  {
-    "title": "Anthropic acquires Vercept to advance Claude's computer use capabilities",
-    "link": "https://www.anthropic.com/news/acquires-vercept",
-    "source": "Anthropic (News)",
-    "published": "Wed, 25 Feb 2026 00:00:00 +0000",
-    "summary": "Anthropic acquires Vercept to advance Claude's computer use capabilities",
-    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Node%20Cursor&amp;backgroundColor=coral",
-    "fetched_at": "2026-03-30 05:56:17",
-    "ja_summary": "・AnthropicがAIモデル「Claude」のPC操作機能強化のため、Verceptを買収。\n・PC上のソフト操作を自動化する技術を取り込み、実務効率化を目指す。\n・AIが直接画面を操作する「Computer Use」機能の精度向上を加速させる狙い。"
-  },
-  {
-    "title": "「ポスト藤田晋」ソニー追う／SBG、OpenAI出資の内幕／イランが狙う湾岸覇権（2026年3月30日版） (日経ビジネスAUDIOモーニング)",
-    "link": "https://business.nikkei.com/atcl/audio/22/00001/032700843/",
-    "source": "日経ビジネス 最新",
-    "published": "",
-    "summary": "［新連載］サイバーエージェント、「ポスト藤田」が育てるアニメ　ソニー追う／SBG、オープンAI5兆円出資の内幕　「マジですか」とCFO室長／「イランは湾岸地域の覇権を狙っている」 米国の要求が示す現在の戦況、他",
-    "image": "https://business.nikkei.com/atcl/audio/22/00001/032700843/fb.jpg",
-    "fetched_at": "2026-03-30 05:22:36",
-    "ja_summary": "・サイバーエージェントは藤田社長の後継世代によるアニメ事業の強化でソニーを追撃。\n・ソフトバンクGがOpenAIへ5兆円規模の出資を決めた舞台裏と経営陣の反応を公開。\n・米国の要求から浮かび上がる、湾岸地域の覇権を狙うイランの戦略と戦況を解説。"
-  },
-  {
-    "title": "SBG、オープンAI 5兆円出資の内幕　「マジですか」とCFO室長 (ソフトバンクG　チーム後藤)",
-    "link": "https://business.nikkei.com/atcl/gen/19/00856/032600003/",
-    "source": "日経ビジネス 最新",
-    "published": "",
-    "summary": "「1兆、2兆」と豆腐のように大型投資を決めるソフトバンクグループ。それに伴い有利子負債は3カ月で4兆円増えた。なぜ巨額の借り入れができるのか。その内幕を追った。",
-    "image": "https://business.nikkei.com/atcl/gen/19/00856/032600003/fb.jpg",
-    "fetched_at": "2026-03-30 05:22:36",
-    "ja_summary": "・ソフトバンクGがオープンAIへ5兆円規模の巨額出資を敢行した。\n・短期間で有利子負債が4兆円急増する中、巨額調達を支える内幕に迫る。\n・「豆腐のように」大型投資を繰り返す同社の資金戦略と背景を解説。"
-  },
-  {
-    "title": "AIボイスレコーダーの新製品が相次ぐ、早くも懸念されるレッドオーシャン化",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00086/00394/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "AIを活用し、文字起こしや要約ができる「AIボイスレコーダー」が急増している。製品の急増により、市場がレッドオーシャン化する可能性がある。メーカーが生き残るためには、どうすればよいだろうか。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/00086/00394/topm.jpg?20220512",
-    "fetched_at": "2026-03-30 05:22:40",
-    "ja_summary": "・AIボイスレコーダーの急増により、市場の過当競争（レッドオーシャン化）が懸念される。\n・差別化を図れない製品は淘汰されるリスクが高い。\n・メーカーには、単純な文字起こしを超えた独自価値の確立が求められている。"
-  },
-  {
-    "title": "AIはツールから「同僚」へ、メルカリは複数エージェントが意思疎通",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03509/031900001/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "AI（人工知能）エージェントの本格活用を見据え、組織や業務そのものを見直す動きが広まっている。AIエージェントを社員と協働する「同僚」と見なすからだ。AIエージェントの活用を前提におき、メルカリは組織全体の再設計、SOMPOホールディングスは業務プロセスの再設計、NOT A HOTELは企業風土の改革を進める。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03509/031900001/topm.jpg?20220512",
-    "fetched_at": "2026-03-30 05:22:41",
-    "ja_summary": "・AIエージェントを「同僚」と位置づけ、組織や業務プロセスを再設計する企業が増加。\n・メルカリやSOMPO、NOT A HOTELなどが先行し、AI前提の体制構築を推進。\n・ツールとしての活用から、AIと社員が協働する新たな組織のあり方へ転換が進んでいる。"
-  },
-  {
-    "title": "複数のブレークスルーを経た大規模言語モデル（LLM）の変遷",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03557/00001/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "本特集で解説するLLMの隆盛は、一夜にして実現したものではありません。いくつかの重要なブレイクスルーの積み重ねによって、今日の姿があります。ここでは、2017年から現在に至るまでの主要な出来事を振り返ります。現代AIの歴史において、2017年は「紀元前」と「紀元後」を分かつ決定的な年となりました。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03557/00001/topm.jpg?20220512",
-    "fetched_at": "2026-03-30 05:22:42",
-    "ja_summary": "・現在のLLMは2017年を転換点とし、長年の技術的ブレークスルーの積み重ねによって発展した。\n・AIの歴史において2017年は現代技術の礎が築かれた決定的な年である。\n・本特集では、LLMが今日の姿に至るまでの主要な技術的進化の歴史を概観する。"
-  },
-  {
-    "title": "Hard Earned Lessons in Observability, Security, and Life",
-    "link": "https://speakerdeck.com/reyjrar/hard-earned-lessons-in-observability-security-and-life",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-03-29T12:19:11-04:00",
-    "summary": "In the age of AI, this talk will be abnormally focused on the humans the machines are meant to serve. We'll look at successful security and observability solutions and how they map to the human behind the keyboard. Learn from more than two decades of mistakes in both to build successful and celebrated security and observability programs without them.",
-    "image": "https://files.speakerdeck.com/presentations/193b09eb8cc84d0f8fecb13ad54f104b/preview_slide_0.jpg?38909993",
-    "fetched_at": "2026-03-30 01:27:12",
-    "ja_summary": "AI時代の今、あえて技術ではなく「人間」に焦点を当てたセキュリティと監視のあり方を解説。\n20年以上の失敗経験から、現場で働く人々に寄り添い、成功するプログラムを構築する要諦を学ぶ。\n技術主導になりがちな現場において、真に機能する運用体制とセキュアな文化の作り方を提示。"
-  },
-  {
-    "title": "AIにロックマンエグゼになり切ってもらい一緒に開発してる話",
-    "link": "https://qiita.com/N_H_tennis/items/48f13332305338720524",
-    "source": "Qiita (Popular)",
-    "published": "2026-03-27T23:29:43+09:00",
-    "summary": "# AIにロックマンエグゼになり切ってもらい一緒に開発してる話\n\n**結論から言うと、AIに名前をつけたら開発体験が変わった。**\n\nなぜ変わったのか、この記事の最後に書く。\n\n## <font color=\"Red\">「プラグイン！ ロックマン.EXE、トランスミッション！」\n\n子供の頃、ゲームボーイアドバンスの画面の中で見た光景がある。\n\n少年がPET（携帯端末）を掲げ、相棒のナビ——**「ロ",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnNlY3VyZS5ncmF2YXRhci5jb20lMkZhdmF0YXIlMkZjZWY1ZTJjM2I3ZmQyMGYyNDA3MWJkZDk0NjQxMzM0MD9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9MDdhODI0OTJiM2I2NmEwZTZjMzg0MTY5MGM2NzZiYjk%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Dc31db75e2b507653fef61c78b25077e2?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9QUklRTMlODElQUIlRTMlODMlQUQlRTMlODMlODMlRTMlODIlQUYlRTMlODMlOUUlRTMlODMlQjMlRTMlODIlQTglRTMlODIlQjAlRTMlODIlQkMlRTMlODElQUIlRTMlODElQUElRTMlODIlOEElRTUlODglODclRTMlODElQTMlRTMlODElQTYlRTMlODIlODIlRTMlODIlODklRTMlODElODQlRTQlQjglODAlRTclQjclOTIlRTMlODElQUIlRTklOTYlOEIlRTclOTklQkElRTMlODElOTclRTMlODElQTYlRTMlODIlOEIlRTglQTklQjEmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz0xOTI3NjA0NjM5N2JkNDQ2ODQwM2NhYjk5MTE2YTYxNQ&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBOX0hfdGVubmlzJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9OTZlM2JjOWUzNDhhYTExMmNmY2EyMzMwMGRjZmY0NzQ&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=f471ba3837de89281c6cb2cb838cce98",
-    "fetched_at": "2026-03-30 00:46:58",
-    "ja_summary": "・AIに「ロックマンエグゼ」のキャラクターになりきらせて開発パートナーとして活用。\n・特定の役割や人格を与えることで、開発へのモチベーションや体験が劇的に向上。\n・AIとの関係性に物語性を持たせることで、作業効率と創造性が高まる効果がある。"
-  },
-  {
-    "title": "都築電気と日本IBMがAIパートナーシップを締結--強みを融合しAIで企業変革",
-    "link": "https://japan.zdnet.com/article/35245600/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "都築電気と⽇本IBMは、AIパートナーシップを結んだと発表した。「AI×音声コミュニケーション」「AI×モダナイゼーション」を重点テーマに、戦略立案から構築、運用・保守までを包含するサービスの共創を進める。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35245600/\"><img src=\"https://japan.zdnet.com/storage/2025/02/13/a79d190ed078238bb849c8f1683cd326/t/184/138/d/250213_bigdata_as_1280_1088481721.jpeg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2025/02/13/a79d190ed078238bb849c8f1683cd326/t/184/138/d/250213_bigdata_as_1280_1088481721.jpeg",
-    "fetched_at": "2026-03-29 22:03:05",
-    "ja_summary": "都築電気と日本IBMがAIパートナーシップを締結。\n「音声コミュニケーション」と「システム刷新」を軸に、AI活用サービスの共創を開始。\n戦略立案から運用・保守まで一貫した支援体制で企業の変革を推進する。"
   }
 ]
