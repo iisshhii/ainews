@@ -1,5 +1,25 @@
 [
   {
+    "title": "サムスン、Perplexity搭載のWindows用AIブラウザー",
+    "link": "https://www.watch.impress.co.jp/docs/news/2097945.html",
+    "source": "Impress Watch",
+    "published": "",
+    "summary": "サムスンは、Windows向けブラウザ「Samsung Browser for Windows」を正式リリースした。Windows 11およびWindows 10(バージョン1809以降)搭載デバイスで利用でき、モバイル端末とパソコンをまたいだシームレスな検索・閲覧が可能。",
+    "image": "https://www.watch.impress.co.jp/img/ipw/list/2097/945/01.png",
+    "fetched_at": "2026-04-01 00:36:10",
+    "ja_summary": "・サムスンがWindows向けブラウザを正式リリース。\n・スマホとPC間で検索・閲覧履歴がシームレスに同期可能。\n・AI検索「Perplexity」を搭載し、効率的な情報収集を実現。"
+  },
+  {
+    "title": "ChatGPTが長いチャットで重くなったときに使っている「引き継ぎプロンプト」",
+    "link": "https://qiita.com/SatoRyota_zvc/items/c392f0804987593dc179",
+    "source": "Qiita (Popular)",
+    "published": "2026-03-27T16:24:29+09:00",
+    "summary": "こんにちは。\n今回は、ChatGPTを使っているときに自分がよく感じていた\n\n**「同じチャットをずっと使っていると、だんだん重くなる…」**\n\nという悩みと、そのときに便利だった\n**新しいチャットへスムーズに移るための引き継ぎプロンプト**\nについて紹介。\n\nChatGPTを使って開発の相談をしたり、記事の下書きを作ったり、設計の相談をしていると、つい1つのチャットでずっと会話を続けてしまいま",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnNlY3VyZS5ncmF2YXRhci5jb20lMkZhdmF0YXIlMkZjMmY5MWEzMTlhNTM0NzIwMmI3MWZlZTE5ZTM3YWU5MD9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NmM3ZWZmMDEyOTQyMTJiZGU1NDE3YTk3YTRiZTM1MDk%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkZjYjkzMTQ1ODFkOTYxZGM1YzQ3ZTkyYzViNDFkYmNmMWUzMmI4N2I0JTJGb3JpZ2luYWwuanBnJTNGMTczNDY4MzE3Mj9peGxpYj1yYi00LjAuMCZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz1iOGMzMGFjODlhODQ2OTI0OWU2NzdhOTU2NWI1ZjgwZA%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3Dc580f2758a08990fdee2d5ca5973fc61?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9Q2hhdEdQVCVFMyU4MSU4QyVFOSU5NSVCNyVFMyU4MSU4NCVFMyU4MyU4MSVFMyU4MyVBMyVFMyU4MyU4MyVFMyU4MyU4OCVFMyU4MSVBNyVFOSU4NyU4RCVFMyU4MSU4RiVFMyU4MSVBQSVFMyU4MSVBMyVFMyU4MSU5RiVFMyU4MSVBOCVFMyU4MSU4RCVFMyU4MSVBQiVFNCVCRCVCRiVFMyU4MSVBMyVFMyU4MSVBNiVFMyU4MSU4NCVFMyU4MiU4QiVFMyU4MCU4QyVFNSVCQyU5NSVFMyU4MSU4RCVFNyVCNiU5OSVFMyU4MSU4RSVFMyU4MyU5NyVFMyU4MyVBRCVFMyU4MyVCMyVFMyU4MyU5NyVFMyU4MyU4OCVFMyU4MCU4RCZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTcwOWQ4YjRmMTljYTZkMzhhZWJkY2E4MWRmNTA0NzM3&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBTYXRvUnlvdGFfenZjJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9NjFjN2VlZmMwMWNiNmNkMzdiMjJlNjYwZjdhZTk3M2E&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=44K644Kj44O844OQ44O844Kz44Of44Ol44OL44Kx44O844K344On44Oz44K6&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=37f4d8eae1b4cc8b415bb76523f8a279",
+    "fetched_at": "2026-04-01 00:36:40",
+    "ja_summary": "・ChatGPTは長期間同一チャットを続けると動作が重くなる。\n・会話の文脈を維持しつつ、新しいチャットへスムーズに移行する「引き継ぎプロンプト」が有効。\n・重要な相談内容や進行中のタスクを要約・保存することで、パフォーマンスを改善できる。"
+  },
+  {
     "title": "アップル「AirPods Max 2」実機レビュー：約9万円ヘッドホンの「5年ぶりの刷新」は買いか試した",
     "link": "https://www.businessinsider.jp/article/2603-apple-airpods-max-2-review/",
     "source": "Business Insider Japan",
@@ -978,25 +998,5 @@
     "image": "https://japan.zdnet.com/storage/2025/08/13/c197bcd4e736e014034478d6ff8f0056/t/184/138/d/250813_paper_as_1280_112436812.jpeg",
     "fetched_at": "2026-03-30 17:07:56",
     "ja_summary": "・リコーが複雑な図表やビジネス文書を深く読み解くマルチモーダルAIを開発。\n・「多段推論能力」を強化し、単なる読み取りを超えた高度な分析を実現。\n・政府の生成AI開発プロジェクト「GENIAC」の一環として推進。"
-  },
-  {
-    "title": "JR東海、PFN、アクティアが東海道新幹線ネットワークを生かしたAIエッジデータセンター構想",
-    "link": "https://japan.zdnet.com/article/35245808/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "東海旅客鉄道、Preferred Networks、アクティアの3社は、JR東海事業エリアにAIエッジデータセンターを設置する分散型AIインフラの構築に向け、共同検討を行う基本合意を締結したと発表した。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35245808/\"><img src=\"https://japan.zdnet.com/storage/2026/03/30/d6f9db6c24622dab695f618f56fee7cb/t/184/138/d/260330_pfn_l.jpg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2026/03/30/d6f9db6c24622dab695f618f56fee7cb/t/184/138/d/260330_pfn_l.jpg",
-    "fetched_at": "2026-03-30 17:07:56",
-    "ja_summary": "・JR東海、PFN、アクティアの3社が、新幹線の沿線エリアにAIエッジデータセンターを設置する構想で合意。\n・各地に分散した拠点を活用し、AI開発や運用を効率化する分散型AIインフラの構築を目指す。\n・新幹線ネットワークという強固なインフラを活かし、次世代のAI活用基盤の実現を検討する。"
-  },
-  {
-    "title": "AIエージェントと人間のアイデンティティを統一管理する「Unified Access 」、1Passwordが発表",
-    "link": "https://www.techno-edge.net/article/2026/03/29/4960.html",
-    "source": "TechnoEdge",
-    "published": "Sun, 29 Mar 2026 07:12:20 +0900",
-    "summary": "パスワードマネージャ「1Password」を提供している1Password社は、IDとパスワードやパスキーを用いた人間のアイデンティティだけでなく、AIエージェントが用いるシークレットなどの管理も1Passwordに統合することで、人間とAIエージェントのアイデンティティ管理を統一的に実現する新機能「Unified Access」を発表しました。",
-    "image": "https://www.techno-edge.net/imgs/rss/30612.png",
-    "fetched_at": "2026-03-30 17:07:57",
-    "ja_summary": "・1Passwordが人間とAIエージェントの認証情報を一元管理する新機能「Unified Access」を発表。\n・従来のパスワードやパスキーに加え、AIが利用するシークレットも統合的に管理可能。\n・人間とAIのアイデンティティ管理を一本化し、セキュリティ強化と運用効率化を実現。"
   }
 ]
