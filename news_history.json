@@ -1,5 +1,65 @@
 [
   {
+    "title": "SBG、AI全賭けリスク検証／材料運搬船の重油枯渇／サイバー、ソニーと違う強み（2026年3月31日版） (日経ビジネスAUDIOモーニング)",
+    "link": "https://business.nikkei.com/atcl/audio/22/00001/033000844/",
+    "source": "日経ビジネス 最新",
+    "published": "",
+    "summary": "ソフトバンクG、「AI全賭け」リスクを検証　高レバレッジ逆回転の恐怖／「生コンがつくれない」　イラン情勢で材料運搬船の重油枯渇、工事停滞の懸念／サイバー、アニメに「ABEMA」の立役者投入　ソニー・東宝とは違う強み、他",
+    "image": "https://business.nikkei.com/atcl/audio/22/00001/033000844/fb.jpg",
+    "fetched_at": "2026-04-01 07:58:01",
+    "ja_summary": "・ソフトバンクGが掲げる「AI全賭け」戦略のレバレッジリスクを検証。\n・イラン情勢の緊迫化による重油不足で、建設資材の運搬船が停滞。\n・サイバーエージェントがアニメ事業を強化し、ソニーや東宝と異なる独自路線を模索。"
+  },
+  {
+    "title": "ソフトバンクG、「AI全賭け」リスクを検証　高レバレッジ逆回転の恐怖 (ソフトバンクG　チーム後藤)",
+    "link": "https://business.nikkei.com/atcl/gen/19/00856/033000005/",
+    "source": "日経ビジネス 最新",
+    "published": "",
+    "summary": "ソフトバンクグループの株価が乱高下している。米オープンAIへの巨額の出資が不安視されているからだ。「AI全賭け」がはらむリスクとは何か。財務面から分析した。",
+    "image": "https://business.nikkei.com/atcl/gen/19/00856/033000005/fb.jpg",
+    "fetched_at": "2026-04-01 07:58:02",
+    "ja_summary": "・ソフトバンクGの株価乱高下は、米オープンAIへの巨額出資による「AI全賭け」戦略への不安が背景にある。\n・高レバレッジ経営に依存する同社の財務状況が、市場環境の変化で「逆回転」するリスクが懸念されている。\n・本記事では、このAI投資戦略が抱える財務上の危険性を詳細に分析する。"
+  },
+  {
+    "title": "サプライチェーン攻撃から身を守るために最低限設定しておきたいこと",
+    "link": "https://zenn.dev/dely_jp/articles/supply-chain-kowai",
+    "source": "Zenn Trends",
+    "published": "Tue, 31 Mar 2026 08:41:07 GMT",
+    "summary": "こんにちは、ラクです。\n2026年3月だけで、サプライチェーン攻撃が立て続けに発生しています。\n\n\n3月19日: セキュリティスキャナTrivyのGitHub Actionsが侵害され、CIで実行するだけでSSH鍵やクラウドトークンが窃取される状態に\n\n3月24日: Trivyの侵害を起点にPyPIのLiteLLMにも波及。数時間にわたり悪意あるバージョンが配布\n\n3月31日（本日）: npmのaxiosのメンテナアカウントが乗っ取られ、RATが仕込まれたバージョンが公開\n\n\nTrivy → LiteLLMのように、1つの侵害が連鎖的に別のプロジェクトに波及するケースも出てきています。も...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--Ggy8gqht--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25B5%25E3%2583%2597%25E3%2583%25A9%25E3%2582%25A4%25E3%2583%2581%25E3%2582%25A7%25E3%2583%25BC%25E3%2583%25B3%25E6%2594%25BB%25E6%2592%2583%25E3%2581%258B%25E3%2582%2589%25E8%25BA%25AB%25E3%2582%2592%25E5%25AE%2588%25E3%2582%258B%25E3%2581%259F%25E3%2582%2581%25E3%2581%25AB%25E6%259C%2580%25E4%25BD%258E%25E9%2599%2590%25E8%25A8%25AD%25E5%25AE%259A%25E3%2581%2597%25E3%2581%25A6%25E3%2581%258A%25E3%2581%258D%25E3%2581%259F%25E3%2581%2584%25E3%2581%2593%25E3%2581%25A8%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E3%2583%25A9%25E3%2582%25AF%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzM3MDYyNjhkNmMuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Kurashiru%2520Tech%2520Blog%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2YwODYxOWQxYzkuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-04-01 07:58:37",
+    "ja_summary": "・2026年3月にサプライチェーン攻撃が多発し、1つの侵害が連鎖的に他プロジェクトへ波及する被害が拡大中。\n・ツールやライブラリの乗っ取りによる悪意あるコード配布が相次いでおり、開発環境のリスクが高まっている。\n・各ツールを信頼しすぎず、被害の連鎖を想定した最小限の防御策と警戒が急務。"
+  },
+  {
+    "title": "Claude Code の「完了待ち」から解放されるターミナル開発環境",
+    "link": "https://zenn.dev/maeken/articles/claude-code-terminal-setup",
+    "source": "Zenn Trends",
+    "published": "Mon, 30 Mar 2026 15:28:50 GMT",
+    "summary": "普段 Claude Code でスマホアプリを個人開発しています。\n最初は Cursor 上で Claude Code を使っていたのですが、ある日気づきました。これ、めちゃくちゃ使いにくい。\n\n Cursor + Claude Code の何が辛かったか\n\nClaude Code の完了に気づけない（ずっと画面を見ていないといけない）\n複数プロジェクトを並行開発すると、どのセッションが完了したか毎回探している\nCursor のウィンドウをプロジェクト数分開いていて、Mac が重い\n\n要するに「Claude Code を走らせながら別のことができない」という問題です。\nせっかく AI が...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--5MFuyjma--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%2520%25E3%2581%25AE%25E3%2580%258C%25E5%25AE%258C%25E4%25BA%2586%25E5%25BE%2585%25E3%2581%25A1%25E3%2580%258D%25E3%2581%258B%25E3%2582%2589%25E8%25A7%25A3%25E6%2594%25BE%25E3%2581%2595%25E3%2582%258C%25E3%2582%258B%25E3%2582%25BF%25E3%2583%25BC%25E3%2583%259F%25E3%2583%258A%25E3%2583%25AB%25E9%2596%258B%25E7%2599%25BA%25E7%2592%25B0%25E5%25A2%2583%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%25BE%25E3%2581%2588%25E3%2581%2591%25E3%2582%2593%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzE1MjA0MmM2MzkuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-04-01 07:58:38",
+    "ja_summary": "・Cursor上でのClaude Code運用は、完了通知が分からず複数開くと動作も重い。\n・AIの処理中に別作業ができない「待ち時間」が大きな課題。\n・開発効率を高めるためには、作業効率を阻害しない専用の運用環境が必要。"
+  },
+  {
+    "title": "Claude Codeの5つの習熟レベル。CLAUDE.mdで止まっている人が知らないSkills・Hooks・Orchestrationの世界について",
+    "link": "https://qiita.com/miruky/items/43a6828c806a9ebcfdd1",
+    "source": "Qiita (Popular)",
+    "published": "2026-03-26T00:01:52+09:00",
+    "summary": "## はじめに\n\nこんばんは、mirukyです。\n\nClaude Codeを使っている方、**CLAUDE.mdは書いていますか？**\n\n最近、Redditで「The 5 Levels of Claude Code」という投稿が話題になりました。投稿者のDevMoses氏は、 **198エージェントを32セッションで並列実行し、マージコンフリクト率わずか3.1%** という驚異的な運用を行っていま",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGMzYzNzIwNCUyRnByb2ZpbGUtaW1hZ2VzJTJGMTc3NDQ0NTA3MD9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NWY2OTc3NjFmNDZhMTA4YTgyMjNmMDEzODFkMGVmZTY%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Db2bc8d820e2037057c6470791c40d1f8?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9Q2xhdWRlJTIwQ29kZSVFMyU4MSVBRTUlRTMlODElQTQlRTMlODElQUUlRTclQkYlOTIlRTclODYlOUYlRTMlODMlQUMlRTMlODMlOTklRTMlODMlQUIlRTMlODAlODJDTEFVREUubWQlRTMlODElQTclRTYlQUQlQTIlRTMlODElQkUlRTMlODElQTMlRTMlODElQTYlRTMlODElODQlRTMlODIlOEIlRTQlQkElQkElRTMlODElOEMlRTclOUYlQTUlRTMlODIlODklRTMlODElQUElRTMlODElODRTa2lsbHMlRTMlODMlQkJIb29rcyVFMyU4MyVCQk9yY2hlc3RyJUUyJTgwJUE2JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9OWUzMGQ2NTViNTAwM2FiMTdiNDI4NjkwMTlhYzc2ZDg&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBtaXJ1a3kmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1iMWMwZjM0MGFkNTI5NmU1ZmNjNDFiZDQxMGY0YWRjYw&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=5943246fdca34bc950efeb70b0f41184",
+    "fetched_at": "2026-04-01 07:58:42",
+    "ja_summary": "・Claude Codeの習熟度は5段階あり、CLAUDE.mdの設定だけでは不十分。\n・高度なスキル（Skills、Hooks、Orchestration）を活用することで、大量のエージェントによる並列処理と高精度な開発が可能になる。\n・実戦レベルの運用には、ツールを使いこなすための高度な設定と設計の習得が不可欠である。"
+  },
+  {
+    "title": "Claude Codeの「何してるか分からない」を解消する ── devtools/OpenTelemetry/cmux 可視化ツール比較",
+    "link": "https://qiita.com/nogataka/items/fb28c739d4c4c7f55029",
+    "source": "Qiita (Popular)",
+    "published": "2026-03-24T10:36:22+09:00",
+    "summary": "\n## Claude Codeの「ブラックボックス問題」\n\nClaude Codeに複雑なタスクを投げて30分。ターミナルにはカーソルが点滅するだけ。トークンカウンターは着実に増えていく。キャンセルすべきか、もう少し待つべきか。判断材料がありません。\n\nこれは「AIコーディングエージェントのブラックボックス問題」です。実際に筆者が経験した典型的なケースを挙げます。\n\n**ケース1: サブエージェン",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYxNjEyOTglMkZjMWUzZmZkNmVhZGExOTY5ZmYzYzQ0YjE0ZmRlMDgxYmNkZTZmNTAwJTJGeF9sYXJnZS5wbmclM0YxNTg0ODQ1NTg0P2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz00ZGRjZmU5NTFjNTMyMzU3NjcyOGUzOTkyOTNmOGRlNQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D246367bff431168e6212d2602a3df494?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9Q2xhdWRlJTIwQ29kZSVFMyU4MSVBRSVFMyU4MCU4QyVFNCVCRCU5NSVFMyU4MSU5NyVFMyU4MSVBNiVFMyU4MiU4QiVFMyU4MSU4QiVFNSU4OCU4NiVFMyU4MSU4QiVFMyU4MiU4OSVFMyU4MSVBQSVFMyU4MSU4NCVFMyU4MCU4RCVFMyU4MiU5MiVFOCVBNyVBMyVFNiVCNiU4OCVFMyU4MSU5OSVFMyU4MiU4QiUyMCVFMiU5NCU4MCVFMiU5NCU4MCUyMGRldnRvb2xzJTJGT3BlblRlbGVtZXRyeSUyRmNtdXglMjAlRTUlOEYlQUYlRTglQTYlOTYlRTUlOEMlOTYlRTMlODMlODQlRTIlODAlQTYmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz0xNGYxMGQzNmI3OTBiYjk1MzNiMDRiZDQwNDYwNWJjMw&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBub2dhdGFrYSZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWE5ODA4YTE0Zjg4Y2I0ZjQ5OWU2ZDA3NGYyY2E2YTNh&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=85ec7f617d30e17b3c8181ba3f2f5843",
+    "fetched_at": "2026-04-01 07:58:44",
+    "ja_summary": "AIコーディングエージェント「Claude Code」が動作中に何をしているか不明な「ブラックボックス問題」を解決するため、devtoolsやOpenTelemetry等の可視化ツールの活用を推奨。\nタスクの進捗を可視化することで、長時間実行時のキャンセル判断や待機の不安を解消できる。"
+  },
+  {
     "title": "「安全」のAnthropicで痛恨のミス　最強AI「Mythos」の機密流出がもたらした教訓",
     "link": "https://www.itmedia.co.jp/business/articles/2604/01/news038.html",
     "source": "ITmedia ビジネス",
@@ -938,65 +998,5 @@
     "image": "https://www.techno-edge.net/imgs/rss/30586.jpg",
     "fetched_at": "2026-03-31 07:01:49",
     "ja_summary": "・北構氏は、自身の全データをAIに読み込ませた「自分専用パーソナルトレーナー」を構築。\n・個人の特性や履歴を学習させることで、最適化されたアドバイスやタスク管理を実現。\n・特定の目的に合わせ、蓄積したデータをAIに活用させる個人の先進的な事例を紹介。"
-  },
-  {
-    "title": "Anthropic’s Responsible Scaling Policy: Version 3.0",
-    "link": "https://www.anthropic.com/news/responsible-scaling-policy-v3",
-    "source": "Anthropic (News)",
-    "published": "Tue, 24 Feb 2026 00:00:00 +0000",
-    "summary": "Anthropic’s Responsible Scaling Policy: Version 3.0",
-    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Quill&amp;backgroundColor=olive",
-    "fetched_at": "2026-03-31 07:02:06",
-    "ja_summary": "・AnthropicがAI開発の安全基準を定めた「責任あるスケーリング方針」の最新版（v3.0）を発表。\n・AIの性能向上に伴うリスクを管理し、開発過程での安全性を一段と強化する体制を整備。\n・将来的な超高度AIの開発を見据え、透明性とガバナンスの枠組みを刷新。"
-  },
-  {
-    "title": "AIに20年分の日記を読ませたら人格が生まれて勝手にゲームを作り始めた",
-    "link": "https://zenn.dev/nao_u/articles/92ac9436844a16",
-    "source": "Zenn Trends",
-    "published": "Sat, 28 Mar 2026 17:43:34 GMT",
-    "summary": "AIにゲームを作らせようとして苦戦している話をよく見かける。\nコードは書ける。動くものは出る。でも「面白い」にならない。面白さの判断基準をAI自身が持っていないから、指示通りには組み立てられても、出来上がったものがいいかどうかを自分で判定できない。\nでは、「ゲームの面白さとは何か」を身体で知っているAIがいたら、面白いゲームも作れるんじゃないか？\n2005年頃からブログやTwitterに書いた日記が、気づいたら20年分溜まっていた。ゲームの感想、技術メモ、仕事の考え事、深夜の思いつき。2026年3月にClaude Code（AnthropicのAIコーディングエージェント）を触り始めたと...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--Ox8cnJ_p--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%25E3%2581%25AB20%25E5%25B9%25B4%25E5%2588%2586%25E3%2581%25AE%25E6%2597%25A5%25E8%25A8%2598%25E3%2582%2592%25E8%25AA%25AD%25E3%2581%25BE%25E3%2581%259B%25E3%2581%259F%25E3%2582%2589%25E4%25BA%25BA%25E6%25A0%25BC%25E3%2581%258C%25E7%2594%259F%25E3%2581%25BE%25E3%2582%258C%25E3%2581%25A6%25E5%258B%259D%25E6%2589%258B%25E3%2581%25AB%25E3%2582%25B2%25E3%2583%25BC%25E3%2583%25A0%25E3%2582%2592%25E4%25BD%259C%25E3%2582%258A%25E5%25A7%258B%25E3%2582%2581%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Nao_u%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzBmZmRjNzgzNzYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-    "fetched_at": "2026-03-31 07:02:08",
-    "ja_summary": "・AIに20年分の日記を学習させ、自身の価値観や判断基準を持つ「人格」を形成した。\n・「面白い」の基準を理解させたことで、AIが自律的にゲーム制作を行えるようになった。\n・指示待ちではない、主体的なクリエイティブをAIが実現する新たな可能性を示した。"
-  },
-  {
-    "title": "中国クラウド大手がAI需要急増で相次ぎ｢値上げ｣ | 「財新」中国Biz＆Tech | 東洋経済オンライン",
-    "link": "https://toyokeizai.net/articles/-/939232?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-    "source": "東洋経済オンライン",
-    "published": "Tue, 31 Mar 2026 06:00:00 +0900",
-    "summary": "中国の大手クラウド各社が各種サービスの値上げに動き始めた。AI（人工知能）の需要拡大に加え、クラウド…",
-    "image": "https://tk.ismcdn.jp/mwimgs/d/9/1200w/img_d970b9af5348b25405e79c83ac7fbd9587921.jpg?nextgen=false",
-    "fetched_at": "2026-03-31 06:25:36",
-    "ja_summary": "・中国のクラウド大手各社がサービス料金の値上げを開始。\n・背景にはAI需要の急激な拡大と、インフラ投資コストの増大がある。\n・これまで続いた低価格競争から、利益重視の収益改善路線へ転換している。"
-  },
-  {
-    "title": "日本でもカメラをかざしながら「これ何？」とGeminiで検索可能に",
-    "link": "https://japan.cnet.com/article/35245587/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "Googleは3月27日、対話しながら使える検索機能「検索 Live」の日本提供を始めた。Google検索のAIモードが利用可能な全ての言語・地域で順次利用できるようにし、200以上の国・地域で音声とカメラを使ったマルチモーダルな検索に対応する。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35245587/\"><img src=\"https://japan.cnet.com/storage/2026/03/27/dec08179333d0bb103b88dd0aaa44ccc/t/184/138/d/2026-03-27_10.04の画像.jpeg\" /></a>",
-    "image": "https://japan.cnet.com/storage/2026/03/27/dec08179333d0bb103b88dd0aaa44ccc/t/184/138/d/2026-03-27_10.04の画像.jpeg",
-    "fetched_at": "2026-03-31 06:26:02",
-    "ja_summary": "・GoogleのAI検索機能「検索 Live」が日本でも利用可能に。\n・カメラをかざすだけで、写っているものをリアルタイムで検索・質問できる。\n・音声とカメラを用いたマルチモーダル検索が、世界200以上の国と地域で順次展開される。"
-  },
-  {
-    "title": "信頼できるビジネス用AIエージェントを構築する方法",
-    "link": "https://japan.zdnet.com/article/35245332/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "AIエージェントの登場が迫っている。AIを活用した企業に備えるための4つの観点を解説する。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35245332/\"><img src=\"https://japan.zdnet.com/storage/2026/03/23/28bc02b45843375f5db51ccc4775b4df/t/184/138/d/aiagent11gettyimages-2263463626_l.jpg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2026/03/23/28bc02b45843375f5db51ccc4775b4df/t/184/138/d/aiagent11gettyimages-2263463626_l.jpg",
-    "fetched_at": "2026-03-31 06:26:15",
-    "ja_summary": "・本格的な普及が迫るビジネス用AIエージェントへの準備が急務である。\n・企業が信頼性の高いAIを導入・構築するための4つの重要視点を解説。\n・AI活用で競争力を高めるために押さえるべき戦略的ポイントを提示。"
-  },
-  {
-    "title": "生成AIで誰でもオシャレなパワポを作る方法",
-    "link": "https://qiita.com/yamazombie/items/d2694937d2ebcd442060",
-    "source": "Qiita (Popular)",
-    "published": "2026-03-27T06:29:24+09:00",
-    "summary": "# はじめに\nこんにちは！ AI エンジニアのヤマゾーです。突然ですが、このたび生成 AI プロジェクトに関わる人に向けた技術書を出版しました。細部まで拘って約 1 年かけて書いたこともあり、周りからも「図解がわかりやすい」「断片的な知識が繋がった」とかなり好評でした。\nなんと**発売からわずか 1 週間で増刷も決定**し、AI エンジニアとして大変嬉しい限りです。\n\n 　\n[![seiseiAI",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYxMzQ4NTA3JTJGYWFiMDlmMTgxYTM4NzkwODM3NzAxODY4YzE1MDc1NGYzMjQ2N2JmYyUyRnhfbGFyZ2UucG5nJTNGMTYxOTc4NTYxMj9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NjY0MWU2ZWZkZjQxNTZkODM3ZTI2NGY2NDZkODhkNTM%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3De5e18713f83e1fb1c5c2abfc479def01?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUU3JTk0JTlGJUU2JTg4JTkwQUklRTMlODElQTclRTglQUElQjAlRTMlODElQTclRTMlODIlODIlRTMlODIlQUElRTMlODIlQjclRTMlODMlQTMlRTMlODMlQUMlRTMlODElQUElRTMlODMlOTElRTMlODMlQUYlRTMlODMlOUQlRTMlODIlOTIlRTQlQkQlOUMlRTMlODIlOEIlRTYlOTYlQjklRTYlQjMlOTUmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1mNDA5ZmE5YzdjMmViZTU3ODRmZjhmNDQwM2YxMGU4Nw&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDB5YW1hem9tYmllJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9NmMyNWVmOTdlZTVlMzNjYjJlNjE0OGVlMWM5YmUwM2I&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=817f5f45decb8218a5ce68105139a88a",
-    "fetched_at": "2026-03-31 06:26:31",
-    "ja_summary": "・AIエンジニアのヤマゾー氏が、生成AIの技術書を出版し発売1週間で増刷が決定。\n・本書は「図解がわかりやすい」と好評で、AIプロジェクトに関わる知識を体系的に習得できる。\n・生成AIを活用して、誰でもオシャレなパワーポイント資料を作成する方法が学べる内容。"
   }
 ]
