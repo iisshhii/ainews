@@ -1,5 +1,35 @@
 [
   {
+    "title": "Inside our approach to the Model Spec",
+    "link": "https://openai.com/index/our-approach-to-the-model-spec",
+    "source": "OpenAI",
+    "published": "Wed, 25 Mar 2026 10:00:00 GMT",
+    "summary": "Learn how OpenAI’s Model Spec serves as a public framework for model behavior, balancing safety, user freedom, and accountability as AI systems advance.",
+    "image": "https://openai.com/favicon.ico",
+    "fetched_at": "2026-03-31 19:51:17",
+    "ja_summary": "・OpenAIはAIモデルの挙動を定義する公開ガイドライン「Model Spec」を策定。\n・安全性、ユーザーの自由度、説明責任のバランスをとるための枠組みを提示。\n・技術進化に合わせ、AIの振る舞いを透明かつ適切に管理する指針を公開。"
+  },
+  {
+    "title": "Introducing the OpenAI Safety Bug Bounty program",
+    "link": "https://openai.com/index/safety-bug-bounty",
+    "source": "OpenAI",
+    "published": "Wed, 25 Mar 2026 00:00:00 GMT",
+    "summary": "OpenAI launches a Safety Bug Bounty program to identify AI abuse and safety risks, including agentic vulnerabilities, prompt injection, and data exfiltration.",
+    "image": "https://openai.com/favicon.ico",
+    "fetched_at": "2026-03-31 19:51:17",
+    "ja_summary": "・OpenAIがAIの脆弱性を報告する「バグバウンティプログラム」を開始\n・プロンプトインジェクションやデータ流出などのリスク特定が目的\n・報酬を設けることで、専門家からのセキュリティ報告を募る仕組み"
+  },
+  {
+    "title": "Microsoft Fabricで考える非構造データのAI活用",
+    "link": "https://speakerdeck.com/ryomaru0825/microsoft-fabricdekao-erufei-gou-zao-detanoaihuo-yong",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-03-31T05:59:06-04:00",
+    "summary": "https://sqlserver.connpass.com/event/386300/\n\n登壇資料",
+    "image": "https://files.speakerdeck.com/presentations/22736ae39a3f4696a8d8e9769bd8b1cc/preview_slide_0.jpg?38931451",
+    "fetched_at": "2026-03-31 19:51:35",
+    "ja_summary": "・Microsoft Fabricを活用し、PDFや画像などの「非構造データ」をAIで効率的に利活用する方法を解説。\n・データ蓄積からAIによる分析・統合までのプロセスを、Fabricの機能を用いて最適化する手法を紹介。\n・社内に眠る非構造データをビジネス価値に変換し、AI活用を加速させるための具体的な実装戦略を網羅。"
+  },
+  {
     "title": "3億円調達のトラックボール「Nape Pro」誕生した理由。キークロンCEOが語るこだわりとAI時代の挑戦",
     "link": "https://www.businessinsider.jp/article/2603-keychron-ceo-interview-nape-pro/",
     "source": "Business Insider Japan",
@@ -968,35 +998,5 @@
     "image": "https://japan.zdnet.com/storage/2023/11/09/7e8edc180e979f418b1d2e3399c366c5/t/184/138/d/thumb_copilot_1280.jpg",
     "fetched_at": "2026-03-30 15:26:11",
     "ja_summary": "富士通が、古いシステムのソースコードをAIで解析し、設計書を自動生成するサービスを開始。\nシステムの現状把握やブラックボックス化の解消を支援する。\nシステム刷新時の工数削減や作業効率化を実現する。"
-  },
-  {
-    "title": "一般競争入札：令和8年度法制事務における生成AIの活用等に関する技術検証・実装を掲載しました",
-    "link": "https://www.digital.go.jp/procurement",
-    "source": "デジタル庁",
-    "published": "Tue, 24 Mar 2026 15:00:00 +0900",
-    "summary": "",
-    "image": "https://www.digital.go.jp/themes/custom/gov_theme_da_2023/assets/images/ogp.png",
-    "fetched_at": "2026-03-30 15:26:13",
-    "ja_summary": "・政府が令和8年度に向け、法制事務への生成AI導入を検討する技術検証・実装業務を公募。\n・法制業務の効率化と高度化を目指し、AIの活用可能性を調査・実証する。\n・詳細な入札情報は官報や関連サイトにて公開中。"
-  },
-  {
-    "title": "ガバメントAI「源内」に関する取組をまとめたページを公開しました",
-    "link": "https://www.digital.go.jp/policies/gennai",
-    "source": "デジタル庁",
-    "published": "Tue, 24 Mar 2026 15:00:00 +0900",
-    "summary": "",
-    "image": "https://www.digital.go.jp/assets/contents/node/basic_page/field_thumbnail_image/cef0122b-0598-47f8-8a48-dc2c57d407c1/d8639adc/kv_gennai_260216.png",
-    "fetched_at": "2026-03-30 15:26:13",
-    "ja_summary": "・政府専用AI「源内」の導入・活用状況をまとめた特設ページを公開。\n・行政事務の効率化に向けた生成AIの取り組みや事例を誰でも閲覧可能。\n・政府全体のAI利活用に関する指針と最新動向を分かりやすく提示。"
-  },
-  {
-    "title": "Helping disaster response teams turn AI into action across Asia",
-    "link": "https://openai.com/index/helping-disaster-response-teams-asia",
-    "source": "OpenAI",
-    "published": "Sun, 29 Mar 2026 22:15:00 GMT",
-    "summary": "AI for Disaster Response in Asia: OpenAI Workshop with Gates Foundation",
-    "image": "https://openai.com/favicon.ico",
-    "fetched_at": "2026-03-30 15:26:14",
-    "ja_summary": "・OpenAIとゲイツ財団が、アジアの災害対応チーム向けのAI活用ワークショップを開催。\n・AI技術を実際の災害現場での救助や対応へ効率的に導入する方法を支援。\n・AI活用により、アジア各地の緊急時の初動対応スピードと正確性の向上を目指す。"
   }
 ]
