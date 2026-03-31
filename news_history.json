@@ -1,5 +1,55 @@
 [
   {
+    "title": "3億円調達のトラックボール「Nape Pro」誕生した理由。キークロンCEOが語るこだわりとAI時代の挑戦",
+    "link": "https://www.businessinsider.jp/article/2603-keychron-ceo-interview-nape-pro/",
+    "source": "Business Insider Japan",
+    "published": "Tue, 31 Mar 2026 09:14:25 GMT",
+    "summary": "先行販売で3億円を集めたトラックボール「Nape Pro」はなぜ生まれたのか。製造を担当したキークロンのコミュニティ駆動のものづくりと、バイブコーディング時代の戦略を同社CEOに直撃しました。",
+    "image": "https://media.loom-app.com/loom/2026/03/31/c6e2ce81-9561-4d40-acf6-cb83b8ed429a/original.jpg?w=1200&amp;h=630",
+    "fetched_at": "2026-03-31 18:57:24",
+    "ja_summary": "・先行販売で3億円を調達した注目のトラックボール「Nape Pro」が誕生。\n・キーボード大手Keychronのコミュニティ主導による製品開発の裏側を公開。\n・AI時代を見据え、同社CEOが語る新たな戦略と開発へのこだわりを解説。"
+  },
+  {
+    "title": "【緊急】axios がサプライチェーン攻撃 2026.03.31",
+    "link": "https://zenn.dev/gunta/articles/0152eadf05d173",
+    "source": "Zenn Trends",
+    "published": "Tue, 31 Mar 2026 04:06:25 GMT",
+    "summary": "TL;DR\n2026年3月31日、npm で最も利用されているHTTPクライアントライブラリの一つである axios がサプライチェーン攻撃を受けました。攻撃者はリードメンテナーのアカウントを乗っ取り、マルウェアを含む2つのバージョンを公開しています。\n\n\n\n項目\n内容\n\n\n\n\n侵害バージョン\n\naxios@1.14.1、axios@0.30.4\n\n\n\n安全なバージョン\n\naxios@1.14.0（1.x系）、axios@0.30.3（0.x系）\n\n\n悪意あるパッケージ\nplain-crypto-js@4.2.1\n\n\nマルウェア種別\nクロスプラットフォームRAT（Remote Acc...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--mBaevINe--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590%25E7%25B7%258A%25E6%2580%25A5%25E3%2580%2591axios%2520%25E3%2581%258C%25E3%2582%25B5%25E3%2583%2597%25E3%2583%25A9%25E3%2582%25A4%25E3%2583%2581%25E3%2582%25A7%25E3%2583%25BC%25E3%2583%25B3%25E6%2594%25BB%25E6%2592%2583%25202026.03.31%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Gunther%2520Brunner%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2lCOWhzUlhhNW5lUXlhNF81U2RyRnNDUWkxcll3WDB4RTlDRjB4eGc9czk2LWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-03-31 18:57:54",
+    "ja_summary": "・人気HTTPクライアント「axios」が乗っ取られ、マルウェアを含む悪意あるバージョン（1.14.1/0.30.4）が公開された。\n・攻撃者は遠隔操作を可能にするRATを仕込んでおり、対象パッケージを即座に削除・更新する必要がある。\n・安全なバージョン（1.14.0または0.30.3）へ直ちにロールバックすること。"
+  },
+  {
+    "title": "Ubieにおける一年間のセキュリティ分析AIエージェントの運用",
+    "link": "https://zenn.dev/ubie_dev/articles/ai-sec-alert-ops",
+    "source": "Zenn Trends",
+    "published": "Mon, 30 Mar 2026 22:35:49 GMT",
+    "summary": "Ubie社内でセキュリティ分析に利用できる生成AIエージェントを開発・運用をはじめておよそ1年が経ちました。よい区切りではあるので、セキュリティ分析における生成AI利用について得られた知見などをまとめたいと思います。\n\n 前提：「セキュリティ分析」とは？\nまず、セキュリティアラートとはEDR、WAF、クラウドセキュリティサービス、脆弱性スキャナーなどが発見したセキュリティ上問題になりそうな事象などの報告を指します。これは本当に影響のあるアラートもあれば誤検知も含まれます。組織のセキュリティ担当者はこれが本当に影響あるものなのかを調査して必要なら対応方針を考える、という一連の作業を「セキュ...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--_MVjFhiq--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Ubie%25E3%2581%25AB%25E3%2581%258A%25E3%2581%2591%25E3%2582%258B%25E4%25B8%2580%25E5%25B9%25B4%25E9%2596%2593%25E3%2581%25AE%25E3%2582%25BB%25E3%2582%25AD%25E3%2583%25A5%25E3%2583%25AA%25E3%2583%2586%25E3%2582%25A3%25E5%2588%2586%25E6%259E%2590AI%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588%25E3%2581%25AE%25E9%2581%258B%25E7%2594%25A8%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Masayoshi%2520MIZUTANI%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2VlOWMzMWRhODMuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Ubie%2520%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2dfUFlFOTV5Z3JPdmpiM0ttajdSZnE0eDNWc1ZTLTVBaWJJMV9IVlE9czI1MC1j%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-03-31 18:57:54",
+    "ja_summary": "・Ubie社が運用するセキュリティ分析AIエージェントの1年間の知見を公開。\n・膨大なセキュリティアラートの調査・選別作業をAIで効率化。\n・誤検知の判定や対応判断など、実務への適用におけるノウハウを共有。"
+  },
+  {
+    "title": "セキュリティ重視の GitHub Actions 静的解析ツール「ghasec」の紹介",
+    "link": "https://zenn.dev/kou_pg_0131/articles/ghasec-introduction",
+    "source": "Zenn Trends",
+    "published": "Mon, 30 Mar 2026 09:00:07 GMT",
+    "summary": "GitHub Actions のセキュリティに特化した静的解析ツール「ghasec」を作りました。\nhttps://github.com/koki-develop/ghasec\n\nこういうの\nインストール方法や基本的な使い方について紹介します。\n\nインストール\n\n使い方\n\n明示的に対象ファイルを指定する\nオンラインモード\n検出を無視する\nGitHub Actions で ghasec を使う\nAI エージェントとの連携\n\n\n\n検出されるルール\n\nリモートアクションのコミット SHA 固定\nスクリプトインジェクション\nなりすましコミット (Impostor Commit)\n\n\n\n技術的な話...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--i8pEb950--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25BB%25E3%2582%25AD%25E3%2583%25A5%25E3%2583%25AA%25E3%2583%2586%25E3%2582%25A3%25E9%2587%258D%25E8%25A6%2596%25E3%2581%25AE%2520GitHub%2520Actions%2520%25E9%259D%2599%25E7%259A%2584%25E8%25A7%25A3%25E6%259E%2590%25E3%2583%2584%25E3%2583%25BC%25E3%2583%25AB%25E3%2580%258Cghasec%25E3%2580%258D%25E3%2581%25AE%25E7%25B4%25B9%25E4%25BB%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:koki%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzRhNjlmNDk5NTMuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-03-31 18:57:55",
+    "ja_summary": "GitHub Actionsのセキュリティを強化する静的解析ツール「ghasec」を公開しました。\nSHA固定やスクリプトインジェクションなど、脆弱性を未然に防ぐチェックを自動化できます。\nインストールからGitHub Actionsへの組み込み、AI連携までの一連の使い方が解説されています。"
+  },
+  {
+    "title": "Claude Code Skillsで開発ワークフローを効率化している話",
+    "link": "https://zenn.dev/berry_blog/articles/8d1b2c9216b4e9",
+    "source": "Zenn Trends",
+    "published": "Mon, 30 Mar 2026 04:21:34 GMT",
+    "summary": "はじめに\nこんにちは、株式会社Berryの浅沼です。\n以前、Clineを利用した開発が超快適なので、使っている.clinerulesを解説しますという記事で、AI駆動開発における .clinerules の育て方を紹介しました。\nあれから私たちのAI開発環境も日々進歩を続けています。Clineから Claude Code に移行し、ルールファイルの管理から Skillsによる開発ワークフロー各フェーズの効率化 へと進んでいます。\n本記事では、医療機器向け品質管理システム「QMSmart」の開発で実際に運用している 12種類のClaude Code Skills と、その設計思想・ディ...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--mwlaRYhT--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%2520Skills%25E3%2581%25A7%25E9%2596%258B%25E7%2599%25BA%25E3%2583%25AF%25E3%2583%25BC%25E3%2582%25AF%25E3%2583%2595%25E3%2583%25AD%25E3%2583%25BC%25E3%2582%2592%25E5%258A%25B9%25E7%258E%2587%25E5%258C%2596%25E3%2581%2597%25E3%2581%25A6%25E3%2581%2584%25E3%2582%258B%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E6%25B5%2585%25E6%25B2%25BC%25E3%2580%2580%25E6%2595%25AC%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzFiMWVhYjdiNDMuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E6%25A0%25AA%25E5%25BC%258F%25E4%25BC%259A%25E7%25A4%25BEBerry%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzU0ODZkOTY4NWUuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-03-31 18:57:55",
+    "ja_summary": "・AI駆動開発をClineから「Claude Code」へ移行し、開発の効率化を推進。\n・「Claude Code Skills」を活用し、開発フローの各フェーズを自動化・最適化。\n・医療機器向けシステム開発で実際に運用中の12種類のスキルと設計思想を公開。"
+  },
+  {
     "title": "アイ工務店、AI教材で接客研修　トークも提案力も「1人自主トレ」で磨く (Views)",
     "link": "https://business.nikkei.com/atcl/seminar/19/00030/032600752/",
     "source": "日経ビジネス 最新",
@@ -948,55 +998,5 @@
     "image": "https://openai.com/favicon.ico",
     "fetched_at": "2026-03-30 15:26:14",
     "ja_summary": "・OpenAIとゲイツ財団が、アジアの災害対応チーム向けのAI活用ワークショップを開催。\n・AI技術を実際の災害現場での救助や対応へ効率的に導入する方法を支援。\n・AI活用により、アジア各地の緊急時の初動対応スピードと正確性の向上を目指す。"
-  },
-  {
-    "title": "Inside our approach to the Model Spec",
-    "link": "https://openai.com/index/our-approach-to-the-model-spec",
-    "source": "OpenAI",
-    "published": "Wed, 25 Mar 2026 10:00:00 GMT",
-    "summary": "Learn how OpenAI’s Model Spec serves as a public framework for model behavior, balancing safety, user freedom, and accountability as AI systems advance.",
-    "image": "https://openai.com/favicon.ico",
-    "fetched_at": "2026-03-30 15:26:14",
-    "ja_summary": "・OpenAIがAIモデルの挙動を定義する公開フレームワーク「Model Spec」を策定。\n・安全性、ユーザーの自由度、説明責任のバランスを保つための指針を提示。\n・進化するAIシステムにおいて、透明性の高い開発と運用を目指す方針。"
-  },
-  {
-    "title": "Introducing the OpenAI Safety Bug Bounty program",
-    "link": "https://openai.com/index/safety-bug-bounty",
-    "source": "OpenAI",
-    "published": "Wed, 25 Mar 2026 00:00:00 GMT",
-    "summary": "OpenAI launches a Safety Bug Bounty program to identify AI abuse and safety risks, including agentic vulnerabilities, prompt injection, and data exfiltration.",
-    "image": "https://openai.com/favicon.ico",
-    "fetched_at": "2026-03-30 15:26:14",
-    "ja_summary": "・OpenAIがAIの脆弱性を特定する「セーフティ・バグバウンティ」を開始\n・AIの悪用やプロンプトインジェクション、データ流出などのリスクを対象\n・システム改善のため、セキュリティ上の欠陥を発見した研究者に報奨金を支払う"
-  },
-  {
-    "title": "エージェントが払う仕組み — AIエージェント決済の6層構造",
-    "link": "https://zenn.dev/komlock_lab/articles/agent-payments-stack-2026",
-    "source": "Zenn Trends",
-    "published": "Sun, 29 Mar 2026 10:45:38 GMT",
-    "summary": "はじめに\nこんにちは。Komlock labでブロックチェーンエンジニアをしている小原（@brto_0224）です。\n2026年3月、AIエージェントが自律的に支払いを行うためのインフラが一気に動き出しました。\n3月17日〜23日の1週間だけで、MastercardがBVNKの買収を発表（$1.8B）、StripeがTempo上でMPPのメインネットを公開、MoonPayがOpen Wallet Standard（OWS）をオープンソース化。Visaもエージェント向けCLIツールを公開しました。\nこの分野をキャッチアップしようとすると、x402、MPP、ACP、AP2、OWS、ERC...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--sxg9oiOv--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588%25E3%2581%258C%25E6%2589%2595%25E3%2581%2586%25E4%25BB%2595%25E7%25B5%2584%25E3%2581%25BF%2520%25E2%2580%2594%2520AI%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588%25E6%25B1%25BA%25E6%25B8%2588%25E3%2581%25AE6%25E5%25B1%25A4%25E6%25A7%258B%25E9%2580%25A0%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Kobara%2520Toi%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzM4OTQ5NWM0ZmEuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Komlock%2520lab%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2U4MjYwMWZiMGQuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-    "fetched_at": "2026-03-30 15:26:27",
-    "ja_summary": "・2026年3月、MastercardやStripe、Visa等の大手各社がAIエージェントの自律決済インフラを相次いで発表。\n・AIが経済主体として支払いを行うための標準化やツール開発が急速に進展。\n・専門的な規格や概念が乱立する中、AI決済の実装に向けた技術基盤が本格的に構築されている。"
-  },
-  {
-    "title": "Prompt→Context→Harness、全部やった。要件だけ渡す、変わっても壊れない。整合性駆動開発CoDD爆誕",
-    "link": "https://zenn.dev/shio_shoppaize/articles/shogun-codd-coherence",
-    "source": "Zenn Trends",
-    "published": "Sun, 29 Mar 2026 02:52:29 GMT",
-    "summary": "!\n2025/3/29 19:00 更新 — セクション9「5分で体験するCoDD」を大幅改善。要件定義を平文で渡すだけのフローに変更（codd init --requirements spec.txt）。フロントマターもwave_configも全自動生成。\n\n!\nこのシリーズが初めての方はこちらから\n\nhttps://zenn.dev/shio_shoppaize/articles/5fee11d03a11a1\nhttps://github.com/yohey-w/codd-dev\n\nこの記事はいつもと毛色が違う。体験記ではなく論考だ。\nAI開発の方法論がこの2年で3回変わった。プロン...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s---BKOrHu8--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Prompt%25E2%2586%2592Context%25E2%2586%2592Harness%25E3%2580%2581%25E5%2585%25A8%25E9%2583%25A8%25E3%2582%2584%25E3%2581%25A3%25E3%2581%259F%25E3%2580%2582%25E8%25A6%2581%25E4%25BB%25B6%25E3%2581%25A0%25E3%2581%2591%25E6%25B8%25A1%25E3%2581%2599%25E3%2580%2581%25E5%25A4%2589%25E3%2582%258F%25E3%2581%25A3%25E3%2581%25A6%25E3%2582%2582%25E5%25A3%258A%25E3%2582%258C%25E3%2581%25AA%25E3%2581%2584%25E3%2580%2582%25E6%2595%25B4%25E5%2590%2588%25E6%2580%25A7%25E9%25A7%2586%25E5%258B%2595%25E9%2596%258B%25E7%2599%25BACoDD%25E7%2588%2586%25E8%25AA%2595%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%258A%25E3%2581%2597%25E3%2581%258A%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2E2NjUxYjFhMDUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-    "fetched_at": "2026-03-30 15:26:27",
-    "ja_summary": "・要件をテキストで渡すだけで、設定や構成を全自動生成する開発手法「CoDD」が進化。\n・「プロンプト→コンテキスト→ハーネス」の一連の流れを自動化し、要件変更にも壊れにくい仕組みを実現。\n・AI開発の変遷を背景に、効率的な自動化フローを提供する新たな手法を提案。"
-  },
-  {
-    "title": "ユーザーストーリーを書くのがかったるいので「背景・目的・対応内容」に落ち着いた話",
-    "link": "https://zenn.dev/yuichi_dev/articles/5da9509fe04c2d",
-    "source": "Zenn Trends",
-    "published": "Sat, 28 Mar 2026 14:15:22 GMT",
-    "summary": "!\n\n 学べること\n\nスクラム開発の PBI を 「背景・目的・対応内容」 の3点で整理するフレームワーク\nエピック・PBI・タスクの階層ごとに 何を書いて何を省くか の使い分け\n\n\n\n はじめに\nAI（Gemini）と壁打ちしながら考えを整理した備忘録。あとで見返す用。\nスクラム開発で PBI を書くとき、「＜ユーザー＞として、＜何か＞したい。それは＜価値＞のためだ。」というユーザーストーリー形式を使うのが定番とされている。\nただ、正直かったるい。\n「この設定をこう変える」とだけ書けば済む話に、わざわざ「〇〇として〜」と前置きを付ける必要があるのか。プロ同士ならそれで通じるのではないか...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--LxoftYcD--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%25A6%25E3%2583%25BC%25E3%2582%25B6%25E3%2583%25BC%25E3%2582%25B9%25E3%2583%2588%25E3%2583%25BC%25E3%2583%25AA%25E3%2583%25BC%25E3%2582%2592%25E6%259B%25B8%25E3%2581%258F%25E3%2581%25AE%25E3%2581%258C%25E3%2581%258B%25E3%2581%25A3%25E3%2581%259F%25E3%2582%258B%25E3%2581%2584%25E3%2581%25AE%25E3%2581%25A7%25E3%2580%258C%25E8%2583%258C%25E6%2599%25AF%25E3%2583%25BB%25E7%259B%25AE%25E7%259A%2584%25E3%2583%25BB%25E5%25AF%25BE%25E5%25BF%259C%25E5%2586%2585%25E5%25AE%25B9%25E3%2580%258D%25E3%2581%25AB%25E8%2590%25BD%25E3%2581%25A1%25E7%259D%2580%25E3%2581%2584%25E3%2581%259F%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Yuichi%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzZiMmI0ZGExMjUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-    "fetched_at": "2026-03-30 15:26:28",
-    "ja_summary": "・ユーザーストーリー形式の煩わしさを解消するため、要件を「背景・目的・対応内容」の3点に整理する手法を導入。\n・階層（エピック・PBI・タスク）に応じて記載の粒度を使い分けることで、過剰な記述を省き効率化。\n・形式的な定型文よりも、プロ同士の共通認識を優先した実用的なドキュメント作成術。"
   }
 ]
