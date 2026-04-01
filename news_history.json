@@ -1,5 +1,25 @@
 [
   {
+    "title": "All Things Open 2025: Open Source Survival Guide",
+    "link": "https://speakerdeck.com/chrisshort/all-things-open-2025-open-source-survival-guide",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-04-01T05:51:44-04:00",
+    "summary": "From navigating different incentive structures to fostering healthy collaboration, this practical session delivers hard-earned wisdom from 25+ years of open source experience. Whether you’re a newcomer curious about contributing or a seasoned maintainer, Chris Short’s “Open Source Survival Guide” offers concrete rules that help technical professionals, community leaders, and companies work effectively in open source environments. Learn to build trust, share knowledge, manage contributions, and avoid common pitfalls that can damage projects and careers.",
+    "image": "https://files.speakerdeck.com/presentations/363c280651514b77b684c4120b9cedd7/preview_slide_0.jpg?38946496",
+    "fetched_at": "2026-04-01 19:41:21",
+    "ja_summary": "・25年以上の知見に基づく「オープンソース・サバイバルガイド」が公開\n・初心者から維持者まで、信頼構築や貢献管理、トラブル回避の鉄則を習得可能\n・技術者や企業がオープンソース環境で長期的に成功するための実践的ノウハウを提示"
+  },
+  {
+    "title": "ハーネスエンジニアリング入門 ── CLAUDE.mdの次に来るAIエージェント制御パラダイム",
+    "link": "https://qiita.com/nogataka/items/d1b3fcf355c630cd7fc8",
+    "source": "Qiita (Popular)",
+    "published": "2026-03-24T10:36:39+09:00",
+    "summary": "\n本稿では、AIエージェントの出力品質は「構造」で大きく変わるという前提のもと、CLAUDE.mdの次のパラダイムとして注目される「ハーネスエンジニアリング」の概念・構成要素・導入方法を、実運用の経験を交えて解説します。\n\n## なぜハーネスが必要になったのか\n\n半年ほど前、筆者はCLAUDE.mdだけでプロジェクトを回していました。\nコーディング規約、ディレクトリ構成、技術スタックを書いておけば",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYxNjEyOTglMkZjMWUzZmZkNmVhZGExOTY5ZmYzYzQ0YjE0ZmRlMDgxYmNkZTZmNTAwJTJGeF9sYXJnZS5wbmclM0YxNTg0ODQ1NTg0P2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz00ZGRjZmU5NTFjNTMyMzU3NjcyOGUzOTkyOTNmOGRlNQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D246367bff431168e6212d2602a3df494?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgzJThGJUUzJTgzJUJDJUUzJTgzJThEJUUzJTgyJUI5JUUzJTgyJUE4JUUzJTgzJUIzJUUzJTgyJUI4JUUzJTgzJThCJUUzJTgyJUEyJUUzJTgzJUFBJUUzJTgzJUIzJUUzJTgyJUIwJUU1JTg1JUE1JUU5JTk2JTgwJTIwJUUyJTk0JTgwJUUyJTk0JTgwJTIwQ0xBVURFLm1kJUUzJTgxJUFFJUU2JUFDJUExJUUzJTgxJUFCJUU2JTlEJUE1JUUzJTgyJThCQUklRTMlODIlQTglRTMlODMlQkMlRTMlODIlQjglRTMlODIlQTclRTMlODMlQjMlRTMlODMlODglRTUlODglQjYlRTUlQkUlQTElRTMlODMlOTElRTMlODMlQTklRTMlODMlODAlRTMlODIlQTQlRTMlODMlQTAmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1iZjg5YThmODllYjYwNTE2NjhiNDVhMzcxZDJkZDdkNA&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBub2dhdGFrYSZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWE5ODA4YTE0Zjg4Y2I0ZjQ5OWU2ZDA3NGYyY2E2YTNh&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=9a5b1e72857ebfef976cef97e9f84205",
+    "fetched_at": "2026-04-01 19:41:26",
+    "ja_summary": "・AIエージェントの出力品質を最大化する新手法「ハーネスエンジニアリング」を解説。\n・従来のCLAUDE.mdを超え、構造化によりAIの制御精度を飛躍的に向上させる。\n・実運用の知見に基づき、AIエージェントの性能を引き出すための具体的な導入手順を提示。"
+  },
+  {
     "title": "家計簿アプリ「Zaim」レシート撮影を強化　最大5枚連続撮影",
     "link": "https://www.watch.impress.co.jp/docs/news/2098314.html",
     "source": "Impress Watch",
@@ -978,25 +998,5 @@
     "image": "https://image.itmedia.co.jp/business/articles/2603/30/cover_news038.jpg",
     "fetched_at": "2026-03-31 15:17:59",
     "ja_summary": "・2040年に向けた自治体の人手不足は深刻であり、行政サービスの維持が困難な状況にある。\n・限られた人員で機能を継続するためには、AI活用を前提としたDX推進が不可欠。\n・マネジメント視点から既存の業務プロセスを見直し、抜本的な変革を行う必要がある。"
-  },
-  {
-    "title": "GMOが福岡と東京のAIインフラをIOWNで接続、遅延の影響はわずか",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11632/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "GMOインターネットとNTT東西、QTnetの4社が2026年3月30日、福岡にあるGPUサーバーと東京にあるストレージ装置を「IOWN APN」で接続してAIモデルを学習するという技術検証の結果を公開した。遅延の影響はわずかだった。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11632/topm.jpg?20220512",
-    "fetched_at": "2026-03-31 15:18:10",
-    "ja_summary": "・GMOら4社が東京と福岡を次世代光通信「IOWN」で結び、遠隔でのAI学習を実証。\n・物理的距離があるGPUとストレージ間でも、遅延の影響を最小限に抑えて連携可能。\n・AIインフラの柔軟な配置を可能にし、データセンターの地域分散に向けた技術基盤を確立。"
-  },
-  {
-    "title": "東海道新幹線沿線にAIエッジデータセンター　遊休地活用",
-    "link": "https://www.watch.impress.co.jp/docs/news/2097799.html",
-    "source": "Impress Watch",
-    "published": "",
-    "summary": "東海旅客鉄道、Preferred Networks(PFN)、アクティアの3社は、AIエッジデータセンターをJR東海事業エリアに設置する分散型AIインフラの構築に向け、共同検討を行なう基本合意を締結した。",
-    "image": "https://www.watch.impress.co.jp/img/ipw/list/2097/799/pfn00.jpg",
-    "fetched_at": "2026-03-31 15:18:16",
-    "ja_summary": "・JR東海、PFN、アクティアの3社が、東海道新幹線沿線の遊休地を活用したAIデータセンター構築を検討。\n・分散型AIインフラを整備し、効率的なデータ処理基盤の実現を目指す。\n・鉄道事業の資産とAI技術を組み合わせ、新たな付加価値創出を図る。"
   }
 ]
