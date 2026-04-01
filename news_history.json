@@ -1,5 +1,45 @@
 [
   {
+    "title": "定番AIレコーダ「HiDock P1」がお店でも買える　アプリも大幅パワーアップで議事録管理はさらに快適に![Sponsored]",
+    "link": "https://www.watch.impress.co.jp/docs/topic/special/2097565.html",
+    "source": "Impress Watch",
+    "published": "",
+    "summary": "AIボイスレコーダーが気になっていても、実際のサイズ感や操作感がわからず、購入に踏み切れなかった人は少なくないだろう。そんななか、AIボイスレコーダーを展開するHiDockは4月2日より家電量販店での販売を開始した。これまでECサイトのみだった「HiDock P1」を、ビックカメラおよびヨドバシカメラの店頭で実際に見て試せるようになる。",
+    "image": "https://www.watch.impress.co.jp/img/ipw/list/2097/565/04.jpg",
+    "fetched_at": "2026-04-02 08:21:19",
+    "ja_summary": "・AIボイスレコーダー「HiDock P1」が家電量販店（ビックカメラ、ヨドバシカメラ）の店頭で購入可能に。\n・実機でサイズ感や操作性を確認できるようになったほか、専用アプリの機能も大幅に強化。\n・手軽に試せる環境が整い、議事録作成や管理がさらに効率化。"
+  },
+  {
+    "title": "Inside our approach to the Model Spec",
+    "link": "https://openai.com/index/our-approach-to-the-model-spec",
+    "source": "OpenAI",
+    "published": "Wed, 25 Mar 2026 10:00:00 GMT",
+    "summary": "Learn how OpenAI’s Model Spec serves as a public framework for model behavior, balancing safety, user freedom, and accountability as AI systems advance.",
+    "image": "https://openai.com/favicon.ico",
+    "fetched_at": "2026-04-02 08:21:47",
+    "ja_summary": "・OpenAIはAIモデルの振る舞いを定義する「Model Spec」を公開。\n・安全性、ユーザーの自由度、説明責任のバランスを保つための共通枠組み。\n・進化するAIシステムに対し、透明性の高い運用ガイドラインを提示。"
+  },
+  {
+    "title": "主キーはもう「UUIDv7」一択なのか？ 〜 ID技術の歴史的変遷と現時点の最適解 〜",
+    "link": "https://zenn.dev/loglass/articles/c2db7e85702571",
+    "source": "Zenn Trends",
+    "published": "Wed, 01 Apr 2026 04:46:05 GMT",
+    "summary": "!\nこの記事は毎週必ず記事がでるテックブログ Loglass Tech Blog Sprint  の137週目の記事です！3年間連続達成まで残り22週となりました！\n\nデータベースの主キーはもう UUIDv7 一択――というのが最近の流れかもしれません。特に今は AI が「核心です！本質です！UUIDv7 です！」と自信満々に採用してくる時代です。だからこそ、人間の側もその背景をしっかり理解しておきたいものです。\nログラス プロダクト基盤部の小林です。ID体系を根本から考え直す機会はなかなかありませんが、ログラスにおいていくつかの新規事業や大規模なプロダクト改修が進む中で刺激を受け、この...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--_spXtzkt--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E4%25B8%25BB%25E3%2582%25AD%25E3%2583%25BC%25E3%2581%25AF%25E3%2582%2582%25E3%2581%2586%25E3%2580%258CUUIDv7%25E3%2580%258D%25E4%25B8%2580%25E6%258A%259E%25E3%2581%25AA%25E3%2581%25AE%25E3%2581%258B%25EF%25BC%259F%2520%25E3%2580%259C%2520ID%25E6%258A%2580%25E8%25A1%2593%25E3%2581%25AE%25E6%25AD%25B4%25E5%258F%25B2%25E7%259A%2584%25E5%25A4%2589%25E9%2581%25B7%25E3%2581%25A8%25E7%258F%25BE%25E6%2599%2582%25E7%2582%25B9%25E3%2581%25AE%25E6%259C%2580%25E9%2581%25A9%25E8%25A7%25A3%2520%25E3%2580%259C%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Satoshi%2520Kobayashi%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzRlNWQ4ZTRjZjguanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E6%25A0%25AA%25E5%25BC%258F%25E4%25BC%259A%25E7%25A4%25BE%25E3%2583%25AD%25E3%2582%25B0%25E3%2583%25A9%25E3%2582%25B9%2520%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2lCSkFzWHN1NXZzdExTTWYxWjhkR21YcmFsdGxtVWxGYkNIUjQwdFE9czI1MC1j%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-04-02 08:21:58",
+    "ja_summary": "・データベースの主キー選定において、現在は「UUIDv7」が事実上の最適解として主流になっている。\n・AIによる推奨も多いが、エンジニアは単なる流行としてではなく、ID技術の歴史的背景と選定理由を深く理解する必要がある。\n・ログラスでの大規模改修を機に、ID体系の本質的な考え方を再定義する重要性を説いている。"
+  },
+  {
+    "title": "Claude Codeソースコード流出事件｜何が起きたか＆今すぐやるべき対策",
+    "link": "https://zenn.dev/junko_ai/articles/3123badb508b5d",
+    "source": "Zenn Trends",
+    "published": "Wed, 01 Apr 2026 02:48:18 GMT",
+    "summary": "はじめに\n2026年3月31日（日本時間夕方）、Claude Codeのソースコードがインターネット上に流出しました。\n結論から言うと、ユーザーデータの漏洩やサイバー攻撃ではありません。npmパッケージへのソースマップファイルの混入という、リリース工程のヒューマンエラーです。\nただし、Claude Codeユーザーとして、対策が必要だと感じました。本記事では、今後もふまえた対策もご紹介していきます。\n【2026年4月1日追記】 問題のv2.1.88はnpmレジストリから削除済みでとなっています。すでにv2.1.89以降が入っている場合は最新版のままで問題ありません。stableチャン...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--sNzwixGc--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%25E3%2582%25BD%25E3%2583%25BC%25E3%2582%25B9%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2589%25E6%25B5%2581%25E5%2587%25BA%25E4%25BA%258B%25E4%25BB%25B6%25EF%25BD%259C%25E4%25BD%2595%25E3%2581%258C%25E8%25B5%25B7%25E3%2581%258D%25E3%2581%259F%25E3%2581%258B%25EF%25BC%2586%25E4%25BB%258A%25E3%2581%2599%25E3%2581%2590%25E3%2582%2584%25E3%2582%258B%25E3%2581%25B9%25E3%2581%258D%25E5%25AF%25BE%25E7%25AD%2596%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Junko%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2QzYTRjMDQzNjUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-04-02 08:21:58",
+    "ja_summary": "・Claude Codeのソースコードがリリース時のヒューマンエラーで流出したが、ユーザーデータの漏洩はない。\n・問題のバージョンは既に削除済みであり、現在は最新版（v2.1.89以降）への更新で安全が確保される。\n・今後はツール利用時のセキュリティリスクを考慮し、最新版へのアップデートを徹底すること。"
+  },
+  {
     "title": "アイ工務店、AI教材で接客研修　トークも提案力も「1人自主トレ」で磨く (Views)",
     "link": "https://business.nikkei.com/atcl/seminar/19/00030/032600752/",
     "source": "日経ビジネス 最新",
@@ -958,45 +998,5 @@
     "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnNlY3VyZS5ncmF2YXRhci5jb20lMkZhdmF0YXIlMkZjMmY5MWEzMTlhNTM0NzIwMmI3MWZlZTE5ZTM3YWU5MD9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NmM3ZWZmMDEyOTQyMTJiZGU1NDE3YTk3YTRiZTM1MDk%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkZjYjkzMTQ1ODFkOTYxZGM1YzQ3ZTkyYzViNDFkYmNmMWUzMmI4N2I0JTJGb3JpZ2luYWwuanBnJTNGMTczNDY4MzE3Mj9peGxpYj1yYi00LjAuMCZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz1iOGMzMGFjODlhODQ2OTI0OWU2NzdhOTU2NWI1ZjgwZA%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3Dc580f2758a08990fdee2d5ca5973fc61?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9Q2hhdEdQVCVFMyU4MSU4QyVFOSU5NSVCNyVFMyU4MSU4NCVFMyU4MyU4MSVFMyU4MyVBMyVFMyU4MyU4MyVFMyU4MyU4OCVFMyU4MSVBNyVFOSU4NyU4RCVFMyU4MSU4RiVFMyU4MSVBQSVFMyU4MSVBMyVFMyU4MSU5RiVFMyU4MSVBOCVFMyU4MSU4RCVFMyU4MSVBQiVFNCVCRCVCRiVFMyU4MSVBMyVFMyU4MSVBNiVFMyU4MSU4NCVFMyU4MiU4QiVFMyU4MCU4QyVFNSVCQyU5NSVFMyU4MSU4RCVFNyVCNiU5OSVFMyU4MSU4RSVFMyU4MyU5NyVFMyU4MyVBRCVFMyU4MyVCMyVFMyU4MyU5NyVFMyU4MyU4OCVFMyU4MCU4RCZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTcwOWQ4YjRmMTljYTZkMzhhZWJkY2E4MWRmNTA0NzM3&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBTYXRvUnlvdGFfenZjJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9NjFjN2VlZmMwMWNiNmNkMzdiMjJlNjYwZjdhZTk3M2E&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=44K644Kj44O844OQ44O844Kz44Of44Ol44OL44Kx44O844K344On44Oz44K6&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=37f4d8eae1b4cc8b415bb76523f8a279",
     "fetched_at": "2026-04-01 00:36:40",
     "ja_summary": "・ChatGPTは長期間同一チャットを続けると動作が重くなる。\n・会話の文脈を維持しつつ、新しいチャットへスムーズに移行する「引き継ぎプロンプト」が有効。\n・重要な相談内容や進行中のタスクを要約・保存することで、パフォーマンスを改善できる。"
-  },
-  {
-    "title": "アップル「AirPods Max 2」実機レビュー：約9万円ヘッドホンの「5年ぶりの刷新」は買いか試した",
-    "link": "https://www.businessinsider.jp/article/2603-apple-airpods-max-2-review/",
-    "source": "Business Insider Japan",
-    "published": "Tue, 31 Mar 2026 13:00:00 GMT",
-    "summary": "アップルの新型ヘッドホン「AirPods Max 2」が4月1日に発売。H2チップの搭載により向上したノイズキャンセリング性能を実機と開発担当者への取材から解説します。",
-    "image": "https://media.loom-app.com/loom/2026/03/31/b8cdf350-6ce6-462b-bc94-4243fe4ecd91/original.jpg?w=1200&amp;h=630",
-    "fetched_at": "2026-03-31 23:13:12",
-    "ja_summary": "・Appleの新型「AirPods Max 2」が4月1日発売。\n・新搭載の「H2チップ」によりノイズキャンセリング性能が大幅に向上。\n・5年ぶりの刷新となる実機の使用感と進化のポイントを徹底解説。"
-  },
-  {
-    "title": "実証実験中AIバス 赤字膨らみ廃止",
-    "link": "https://news.yahoo.co.jp/pickup/6574791?source=rss",
-    "source": "Yahoo!ニュース IT・科学",
-    "published": "Tue, 31 Mar 2026 13:52:47 GMT",
-    "summary": "",
-    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/3/31/ff09420e456069466de8276aac854636d1455da262a2fe4eac26a623f85dacc0.jpg",
-    "fetched_at": "2026-03-31 23:13:17",
-    "ja_summary": "・実証実験中のAIバスが、利用者不足による赤字拡大のため廃止を決定\n・最新技術の導入でも採算確保が困難な厳しい現状が露呈\n・今後の地域交通の維持に向けた新たな解決策が急務"
-  },
-  {
-    "title": "企画競争：行政バックオフィス業務支援AIシステムの整備に係る設計・開発業務を掲載しました",
-    "link": "https://www.digital.go.jp/procurement",
-    "source": "デジタル庁",
-    "published": "Tue, 31 Mar 2026 15:00:00 +0900",
-    "summary": "",
-    "image": "https://www.digital.go.jp/themes/custom/gov_theme_da_2023/assets/images/ogp.png",
-    "fetched_at": "2026-03-31 20:42:56",
-    "ja_summary": "行政がバックオフィス業務を効率化するため、支援AIシステムの開発・設計事業者を公募。\n業務のデジタル化と自動化を推進し、行政事務の負担軽減を目指す。\n詳細は公開された企画競争の募集要項を確認のこと。"
-  },
-  {
-    "title": "Helping disaster response teams turn AI into action across Asia",
-    "link": "https://openai.com/index/helping-disaster-response-teams-asia",
-    "source": "OpenAI",
-    "published": "Sun, 29 Mar 2026 22:15:00 GMT",
-    "summary": "AI for Disaster Response in Asia: OpenAI Workshop with Gates Foundation",
-    "image": "https://openai.com/favicon.ico",
-    "fetched_at": "2026-03-31 20:42:57",
-    "ja_summary": "・OpenAIがゲイツ財団と協力し、アジアの災害対応チーム向けのAIワークショップを開催。\n・AI技術を現場の救助活動や災害対策に具体的に活用するための支援を強化。\n・AIを単なるツールから、災害対応の実践的なソリューションへと転換させるのが狙い。"
   }
 ]
