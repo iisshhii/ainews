@@ -1,5 +1,15 @@
 [
   {
+    "title": "逆引き Rust Web API 開発: Axum で学ぶ実践パターン",
+    "link": "https://zenn.dev/sbk0716/books/70b401fac4005d",
+    "source": "Zenn Trends",
+    "published": "Tue, 31 Mar 2026 18:54:31 GMT",
+    "summary": "# 逆引き Rust Web API 開発: Axum で学ぶ実践パターン\n\nヘルプデスクアプリケーションの実コードをベースに、Rust / Axum による REST API 開発の実践パターンを逆引き形式で解説します。\n\n## 学べること\n\n- Axum のルーティング・Extractor・State パターン\n- ハンドラー実装（JSON / Multipart / エラーレスポンス）\n- sqlx による PostgreSQL 連携とモデル設計\n- Azure Blob Storage・AI サービスとの外部連携\n- Axum 開発に必要な Rust 基礎（所有権・Result・async/await・ライフタイム）\n- 変換パターン・ライブラリの逆引きチートシート\n\n## 対象読者\n\n- Rust の基本文法はある程度わかり、Axum で API を作りたい方\n- Go / TypeScript / Python 等で API 開発の経験がある方\n\n## 前提知識\n\n- Rust のインストールと `cargo` の基本操作\n- `struct`、`enum`、`impl`、`trait` の基本的な理解\n- HTTP と REST API の基礎概念\n\n---\n\n# 免責事項\n\n本書は執筆時点（2026 年 3 月）の情報に基づいています。Rust エコシステムのアップデートにより動作が変わる可能性があるため、最新の公式ドキュメントをご確認ください。\n\n本書の構成・コードは**学習目的**であり、本番利用にはセキュリティ・監視・冗長化等の追加考慮が必要です。\n\n本書の情報はご自身の責任でご利用ください。著者は内容の保証を行わず、利用に起因する損害について責任を負いません。",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--PKwqO_TN--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci9mMzk1NzZjOGMyLmpwZWc=%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg?_a=BACAGSGT",
+    "fetched_at": "2026-04-01 20:36:10",
+    "ja_summary": "RustとAxumを用いたREST API開発の実践ガイド。\nルーティングやDB連携、外部サービス活用など、ヘルプデスクアプリの開発を通じた実装パターンを網羅。\n既存の言語でAPI開発経験があるRust学習者向けに、逆引き形式で即戦力となる知識を提供。"
+  },
+  {
     "title": "All Things Open 2025: Open Source Survival Guide",
     "link": "https://speakerdeck.com/chrisshort/all-things-open-2025-open-source-survival-guide",
     "source": "Speaker Deck (Tech)",
@@ -988,15 +998,5 @@
     "image": "https://image.itmedia.co.jp/business/articles/2603/31/cover_news087.jpg",
     "fetched_at": "2026-03-31 15:17:58",
     "ja_summary": "・マイクロソフトがAI「Copilot」に新機能を導入。\n・同一作業内で複数のAIモデルを同時に活用可能に。\n・AI機能の強化により、自律型エージェント分野での優位性を狙う。"
-  },
-  {
-    "title": "「職員が激減」に備えよ──2040年問題に向けて「自治体」に残された生存戦略",
-    "link": "https://www.itmedia.co.jp/business/articles/2603/30/news038.html",
-    "source": "ITmedia ビジネス",
-    "published": "Mon, 30 Mar 2026 08:00:00 +0900",
-    "summary": "「2040年問題」を前に、自治体は人口減少や高齢化による深刻な人手不足に直面している。限られた職員で行政サービスを維持するにはどうすべきか――CIO補佐官として自治体DXに携わってきた筆者が、AI技術の進化を踏まえながら、行政サービスの未来像をマネジメントの視点で考える。",
-    "image": "https://image.itmedia.co.jp/business/articles/2603/30/cover_news038.jpg",
-    "fetched_at": "2026-03-31 15:17:59",
-    "ja_summary": "・2040年に向けた自治体の人手不足は深刻であり、行政サービスの維持が困難な状況にある。\n・限られた人員で機能を継続するためには、AI活用を前提としたDX推進が不可欠。\n・マネジメント視点から既存の業務プロセスを見直し、抜本的な変革を行う必要がある。"
   }
 ]
