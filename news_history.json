@@ -1,5 +1,35 @@
 [
   {
+    "title": "「安全」のAnthropicで痛恨のミス　最強AI「Mythos」の機密流出がもたらした教訓",
+    "link": "https://www.itmedia.co.jp/business/articles/2604/01/news038.html",
+    "source": "ITmedia ビジネス",
+    "published": "Wed, 01 Apr 2026 07:00:00 +0900",
+    "summary": "米Anthropicが人的ミスにより次世代AIモデルの機密情報を漏洩した。新モデル「Claude Mythos」には最高位クラス「Capybara」が新設され、従来のOpusを凌駕する性能を持つ。しかし、強力なサイバー攻撃に悪用されるリスクがあるため、初期は防御側組織に限定公開される予定だ。欧州CEO向けの極秘合宿計画も流出し、同社の安全性への信頼が問われる事態となっている。この事態から何を学ぶか？",
+    "image": "https://image.itmedia.co.jp/business/articles/2604/01/cover_news038.jpg",
+    "fetched_at": "2026-04-03 06:29:43",
+    "ja_summary": "・Anthropicが次世代AI「Claude Mythos」の機密情報を人的ミスで流出させた。\n・最強モデル「Capybara」は悪用リスクから限定公開される予定だったが、極秘情報と共に漏洩した。\n・「安全」を掲げる同社の信頼性が揺らいでおり、AIガバナンスと内部統制の重要性が露呈した。"
+  },
+  {
+    "title": "急速に進化するAIは問題も引き起こす…企業は導入とリスクのバランスを見極め始めている",
+    "link": "https://www.businessinsider.jp/article/2604-ai-challenges-companies-fast-paced-innovation-strategy/",
+    "source": "Business Insider Japan",
+    "published": "Thu, 02 Apr 2026 21:00:00 GMT",
+    "summary": "企業は多額の損失を招くような失敗を避けつつ、AIを拡大するという微妙なバランス感覚が求められています。",
+    "image": "https://media.loom-app.com/loom/2026/03/16/caf66e8a-dd97-4fbc-85f9-9c33e096d1b2/original.jpg?w=1200&amp;h=630",
+    "fetched_at": "2026-04-03 06:29:57",
+    "ja_summary": "・企業は業務効率化のためAI導入を急ぐ一方、失敗による損失リスクも高まっている。\n・AIの活用拡大と、セキュリティや品質管理などのリスク対策の両立が重要。\n・現在は各社が利益と安全のバランスを見極め、慎重な導入フェーズへ移行している。"
+  },
+  {
+    "title": "Anthropic acquires Vercept to advance Claude's computer use capabilities",
+    "link": "https://www.anthropic.com/news/acquires-vercept",
+    "source": "Anthropic (News)",
+    "published": "Wed, 25 Feb 2026 00:00:00 +0000",
+    "summary": "Anthropic acquires Vercept to advance Claude's computer use capabilities",
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Node%20Cursor&amp;backgroundColor=coral",
+    "fetched_at": "2026-04-03 06:30:25",
+    "ja_summary": "・AnthropicがAIモデル「Claude」のPC操作能力強化を目的に、技術企業Verceptを買収。\n・Claudeが直接コンピュータを操作する機能を高度化し、自動化・効率化を推進する。\n・開発競争が激化するAIエージェント分野での優位性確保を目指す動き。"
+  },
+  {
     "title": "新規事業開発へ向け生成AIの利用が進行、調査で明らかに",
     "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03241/033100006/",
     "source": "日経クロステック 総合",
@@ -968,35 +998,5 @@
     "image": "https://www.techno-edge.net/imgs/rss/30622.png",
     "fetched_at": "2026-04-01 17:22:24",
     "ja_summary": "・Mistral AIが、わずか3秒の音声サンプルから多言語の声を複製できる新AI「Voxtral TTS」を発表。\n・参照音声の特長を捉え、自然で表現力豊かな音声を生成可能な技術。\n・多言語に対応しており、高度な音声合成モデルとして注目を集めている。"
-  },
-  {
-    "title": "Sydney will become Anthropic’s fourth office in Asia-Pacific",
-    "link": "https://www.anthropic.com/news/sydney-fourth-office-asia-pacific",
-    "source": "Anthropic (News)",
-    "published": "Tue, 10 Mar 2026 00:00:00 +0000",
-    "summary": "Sydney will become Anthropic’s fourth office in Asia-Pacific",
-    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Globe&amp;backgroundColor=sky",
-    "fetched_at": "2026-04-01 17:22:29",
-    "ja_summary": "・AI企業Anthropicが、シドニーにアジア太平洋地域で4拠点目となるオフィスを開設。\n・同社のグローバル展開を加速させ、地域での事業体制を強化する狙い。"
-  },
-  {
-    "title": "Claude Code を「何となく使っている」から抜け出す——『実践 Claude Code 入門』で得た気づき",
-    "link": "https://zenn.dev/nextbeat/articles/practical-claude-code-introduction",
-    "source": "Zenn Trends",
-    "published": "Tue, 31 Mar 2026 05:52:00 GMT",
-    "summary": "この記事は、Claude Code を日常的に使っているものの「うまく活用できている実感がない」と感じているエンジニア向けです。\n特に、「CLAUDE.md は作ってみたけど、サブエージェント・スキル・フック・MCP などはまだ使いこなせていない」という方を対象にしています。\n書籍『実践 Claude Code 入門』（技術評論社）を読んで得た気づきをベースにしているので、ぜひ本書も読んでみてください。\n読者には以下の状態になってもらうことを目指しています。\n\nサブエージェント、スキル、フック、MCP がそれぞれ何のために存在するのかわかった\n「何となく使っている」から「理解して使ってい...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s---PLuSVQN--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%2520%25E3%2582%2592%25E3%2580%258C%25E4%25BD%2595%25E3%2581%25A8%25E3%2581%25AA%25E3%2581%258F%25E4%25BD%25BF%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%2584%25E3%2582%258B%25E3%2580%258D%25E3%2581%258B%25E3%2582%2589%25E6%258A%259C%25E3%2581%2591%25E5%2587%25BA%25E3%2581%2599%25E2%2580%2594%25E2%2580%2594%25E3%2580%258E%25E5%25AE%259F%25E8%25B7%25B5%2520Claude%2520Code%2520%25E5%2585%25A5%25E9%2596%2580%25E3%2580%258F%25E3%2581%25A7%25E5%25BE%2597%25E3%2581%259F%25E6%25B0%2597%25E3%2581%25A5%25E3%2581%258D%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Hama%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2Q3MzM5NTFkZmMuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:nextbeat%2520Tech%2520Blog%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2NmMTFjYWNkY2UuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-    "fetched_at": "2026-04-01 17:22:35",
-    "ja_summary": "「Claude Code」をなんとなく使っているエンジニアに向け、サブエージェントやMCP等の応用機能を体系的に解説。\n書籍『実践 Claude Code 入門』の知見をベースに、各機能の役割を正しく理解し、実践的な活用スキルを習得できる。\n感覚的な利用から脱却し、AI開発ツールを効率的に使いこなすためのガイドとして役立つ内容。"
-  },
-  {
-    "title": "自己流「ハーネスエンジニアリング」からの脱却",
-    "link": "https://zenn.dev/knowledgesense/articles/22eac0ba8cada3",
-    "source": "Zenn Trends",
-    "published": "Tue, 31 Mar 2026 03:50:36 GMT",
-    "summary": "本記事では、AIエージェントの性能を決める「ハーネス」の設計手法について、ざっくり解説します。\n株式会社ナレッジセンスは、生成AIやRAGを使ったプロダクトを、エンタープライズ企業向けに開発しているスタートアップです。\n\n この記事は何\nこの記事は、AIエージェントのハーネス設計を自然言語で統一的に記述する手法「NLAH（Natural-Language Agent Harnesses）」の論文[1]について、日本語で簡単にまとめたものです。\nhttps://arxiv.org/abs/2603.25723\n\n 本題\n\n ざっくりサマリー\n「NLAH」は、エージェントのハーネス設計を、自...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--CqoRVx5W--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E8%2587%25AA%25E5%25B7%25B1%25E6%25B5%2581%25E3%2580%258C%25E3%2583%258F%25E3%2583%25BC%25E3%2583%258D%25E3%2582%25B9%25E3%2582%25A8%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%258B%25E3%2582%25A2%25E3%2583%25AA%25E3%2583%25B3%25E3%2582%25B0%25E3%2580%258D%25E3%2581%258B%25E3%2582%2589%25E3%2581%25AE%25E8%2584%25B1%25E5%258D%25B4%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Atsushi%2520Kadowaki%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly96ZW5uLmRldi9pbWFnZXMvZGVmYXVsdC1wdWJsaWNhdGlvbi1hdmF0YXIucG5n%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2583%258A%25E3%2583%25AC%25E3%2583%2583%25E3%2582%25B8%25E3%2582%25BB%25E3%2583%25B3%25E3%2582%25B9%2520-%2520%25E7%2594%259F%25E6%2588%2590AI%25E3%2581%25A8RAG%25E3%2581%25AE%25E5%25AE%259F%25E8%25A3%2585...%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzRlMjk5Y2IwN2IuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-    "fetched_at": "2026-04-01 17:22:35",
-    "ja_summary": "AIエージェントの性能を左右する「ハーネス」の設計を、自然言語で統一的に記述する新手法「NLAH」を解説。\n複雑なプログラミングを介さず、AIへの指示（自然言語）でエージェントの制御・評価環境を構築できる。\n個別の自己流設計から脱却し、効率的かつ標準化されたエージェント開発を実現する手法として注目されている。"
   }
 ]
