@@ -1,5 +1,25 @@
 [
   {
+    "title": "AI時代に将来性がある2つのタイプとは…パランティアCEOが指摘",
+    "link": "https://www.businessinsider.jp/article/2604-alex-karp-future-ai-neurodivergent-vocational-skills/",
+    "source": "Business Insider Japan",
+    "published": "Thu, 02 Apr 2026 10:00:00 GMT",
+    "summary": "パランティアのアレックス・カープCEOは、コーディングから法律業務に至るまでの低レベルのスキルは、AIの時代においては価値がないと述べました。",
+    "image": "https://media.loom-app.com/loom/2026/03/25/76b179b4-fc80-42c1-a858-6232ef42dbe4/original.jpg?w=1200&amp;h=630",
+    "fetched_at": "2026-04-02 19:29:13",
+    "ja_summary": "・AI時代には、単なるコーディングや定型的な法律業務などの低レベルなスキルは価値を失う。\n・パランティアCEOは、AIに代替されない専門性と高度な判断力が今後のキャリアに必須と指摘。\n・AIを使いこなす能力と、人間にしかできない付加価値の創出が重要となる。"
+  },
+  {
+    "title": "Claude Codeの5つの習熟レベル。CLAUDE.mdで止まっている人が知らないSkills・Hooks・Orchestrationの世界について",
+    "link": "https://qiita.com/miruky/items/43a6828c806a9ebcfdd1",
+    "source": "Qiita (Popular)",
+    "published": "2026-03-26T00:01:52+09:00",
+    "summary": "## はじめに\n\nこんばんは、mirukyです。\n\nClaude Codeを使っている方、**CLAUDE.mdは書いていますか？**\n\n最近、Redditで「The 5 Levels of Claude Code」という投稿が話題になりました。投稿者のDevMoses氏は、 **198エージェントを32セッションで並列実行し、マージコンフリクト率わずか3.1%** という驚異的な運用を行っていま",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGMzYzNzIwNCUyRnByb2ZpbGUtaW1hZ2VzJTJGMTc3NDQ0NTA3MD9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NWY2OTc3NjFmNDZhMTA4YTgyMjNmMDEzODFkMGVmZTY%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Db2bc8d820e2037057c6470791c40d1f8?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9Q2xhdWRlJTIwQ29kZSVFMyU4MSVBRTUlRTMlODElQTQlRTMlODElQUUlRTclQkYlOTIlRTclODYlOUYlRTMlODMlQUMlRTMlODMlOTklRTMlODMlQUIlRTMlODAlODJDTEFVREUubWQlRTMlODElQTclRTYlQUQlQTIlRTMlODElQkUlRTMlODElQTMlRTMlODElQTYlRTMlODElODQlRTMlODIlOEIlRTQlQkElQkElRTMlODElOEMlRTclOUYlQTUlRTMlODIlODklRTMlODElQUElRTMlODElODRTa2lsbHMlRTMlODMlQkJIb29rcyVFMyU4MyVCQk9yY2hlc3RyJUUyJTgwJUE2JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9OWUzMGQ2NTViNTAwM2FiMTdiNDI4NjkwMTlhYzc2ZDg&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBtaXJ1a3kmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1iMWMwZjM0MGFkNTI5NmU1ZmNjNDFiZDQxMGY0YWRjYw&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=5943246fdca34bc950efeb70b0f41184",
+    "fetched_at": "2026-04-02 19:29:45",
+    "ja_summary": "Claude Codeの習熟レベルは5段階あり、CLAUDE.mdの設定だけでは不十分です。\n高度な活用には、スキル定義・フック・オーケストレーションの習得が不可欠です。\n大規模な並列エージェント運用で成果を出すための、実践的な運用スキルが重要視されています。"
+  },
+  {
     "title": "溶接工が「6時間」でアプリを開発　静岡の町工場が「500万円」かけて生成AI教育をした、驚きの効果",
     "link": "https://www.itmedia.co.jp/business/articles/2604/01/news011.html",
     "source": "ITmedia ビジネス",
@@ -978,25 +998,5 @@
     "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Quill&amp;backgroundColor=olive",
     "fetched_at": "2026-04-01 08:34:35",
     "ja_summary": "・AnthropicがAI開発の安全基準「Responsible Scaling Policy」の第3版を策定。\n・AIモデルの能力向上に伴うリスクを評価し、段階的な安全対策を義務付ける。\n・開発の透明性を高め、極めて高度なAI開発における安全性を担保する方針。"
-  },
-  {
-    "title": "生成AIで誰でもオシャレなパワポを作る方法",
-    "link": "https://qiita.com/yamazombie/items/d2694937d2ebcd442060",
-    "source": "Qiita (Popular)",
-    "published": "2026-03-27T06:29:24+09:00",
-    "summary": "# はじめに\nこんにちは！ AI エンジニアのヤマゾーです。突然ですが、このたび生成 AI プロジェクトに関わる人に向けた技術書を出版しました。細部まで拘って約 1 年かけて書いたこともあり、周りからも「図解がわかりやすい」「断片的な知識が繋がった」とかなり好評でした。\nなんと**発売からわずか 1 週間で増刷も決定**し、AI エンジニアとして大変嬉しい限りです。\n\n 　\n[![seiseiAI",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYxMzQ4NTA3JTJGYWFiMDlmMTgxYTM4NzkwODM3NzAxODY4YzE1MDc1NGYzMjQ2N2JmYyUyRnhfbGFyZ2UucG5nJTNGMTYxOTc4NTYxMj9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NjY0MWU2ZWZkZjQxNTZkODM3ZTI2NGY2NDZkODhkNTM%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3De5e18713f83e1fb1c5c2abfc479def01?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUU3JTk0JTlGJUU2JTg4JTkwQUklRTMlODElQTclRTglQUElQjAlRTMlODElQTclRTMlODIlODIlRTMlODIlQUElRTMlODIlQjclRTMlODMlQTMlRTMlODMlQUMlRTMlODElQUElRTMlODMlOTElRTMlODMlQUYlRTMlODMlOUQlRTMlODIlOTIlRTQlQkQlOUMlRTMlODIlOEIlRTYlOTYlQjklRTYlQjMlOTUmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1mNDA5ZmE5YzdjMmViZTU3ODRmZjhmNDQwM2YxMGU4Nw&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDB5YW1hem9tYmllJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9NmMyNWVmOTdlZTVlMzNjYjJlNjE0OGVlMWM5YmUwM2I&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=817f5f45decb8218a5ce68105139a88a",
-    "fetched_at": "2026-04-01 08:34:41",
-    "ja_summary": "・AIエンジニアが、生成AIの活用ノウハウをまとめた技術書を出版。\n・発売1週間で増刷が決定するほど高い評価を獲得。\n・生成AIを用いた資料作成やプロジェクト推進の技術が網羅されている。"
-  },
-  {
-    "title": "SBG、AI全賭けリスク検証／材料運搬船の重油枯渇／サイバー、ソニーと違う強み（2026年3月31日版） (日経ビジネスAUDIOモーニング)",
-    "link": "https://business.nikkei.com/atcl/audio/22/00001/033000844/",
-    "source": "日経ビジネス 最新",
-    "published": "",
-    "summary": "ソフトバンクG、「AI全賭け」リスクを検証　高レバレッジ逆回転の恐怖／「生コンがつくれない」　イラン情勢で材料運搬船の重油枯渇、工事停滞の懸念／サイバー、アニメに「ABEMA」の立役者投入　ソニー・東宝とは違う強み、他",
-    "image": "https://business.nikkei.com/atcl/audio/22/00001/033000844/fb.jpg",
-    "fetched_at": "2026-04-01 07:58:01",
-    "ja_summary": "・ソフトバンクGが掲げる「AI全賭け」戦略のレバレッジリスクを検証。\n・イラン情勢の緊迫化による重油不足で、建設資材の運搬船が停滞。\n・サイバーエージェントがアニメ事業を強化し、ソニーや東宝と異なる独自路線を模索。"
   }
 ]
