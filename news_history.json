@@ -1,5 +1,25 @@
 [
   {
+    "title": "Claude Code、最初にこれやっとき｜7つの設定で世界変わるで",
+    "link": "https://zenn.dev/masayan1126/books/claude-code-initial-settings",
+    "source": "Zenn Trends",
+    "published": "Thu, 02 Apr 2026 08:41:59 GMT",
+    "summary": "Claude Codeを使い倒すための初期設定を7項目で解説するで。言語・パーミッション・CLAUDE.md・モデル選択・フックまで、オススメ構成を全部まとめたんや。",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--5MX0BMHC--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci8xNGEyZmFiMDlkLmpwZWc=%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg?_a=BACAGSGT",
+    "fetched_at": "2026-04-02 22:56:06",
+    "ja_summary": "・Claude Codeを快適に使いこなすための推奨初期設定7項目を解説。\n・言語設定や権限管理から、モデル選択やフックの設定までを網羅。\n・効率的な開発環境を構築するための最適構成をまとめて習得可能。"
+  },
+  {
+    "title": "ドキュメントを「AIのコンテキスト」に変える！ 新規プロダクト開発におけるAI活用改善サイクル",
+    "link": "https://speakerdeck.com/sansantech/20260401-3",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-03-31T05:13:25-04:00",
+    "summary": "■ イベント\n新プロダクト「Sansan Data Intelligence」エンジニア向け採用説明会\nhttps://sansan.connpass.com/event/378023/\n\n■ 発表者\n技術本部 Data Intelligence Engineering Unit\n秋田 祥平\n\n■ 技術本部 採用情報\nhttps://media.sansan-engineering.com",
+    "image": "https://files.speakerdeck.com/presentations/00f6eea6d83845f4b3d1abd7ff167703/preview_slide_0.jpg?38930553",
+    "fetched_at": "2026-04-02 22:56:08",
+    "ja_summary": "・Sansanが新規プロダクト開発における、ドキュメントをAIのコンテキストとして活用する開発改善サイクルを解説。\n・同社の新プロダクト「Sansan Data Intelligence」の開発現場における知見が共有される。\n・技術本部ではエンジニアを募集しており、採用説明会の開催が予定されている。"
+  },
+  {
     "title": "Anthropic’s Responsible Scaling Policy: Version 3.0",
     "link": "https://www.anthropic.com/news/responsible-scaling-policy-v3",
     "source": "Anthropic (News)",
@@ -978,25 +998,5 @@
     "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/1/808c45a44cece37ae8f879e0b94493bd5fe842651bfc5f0f17f9529442953878.jpg",
     "fetched_at": "2026-04-01 12:44:49",
     "ja_summary": "・Gmailのメールアドレスが変更可能に\n・順次機能を提供開始\n・詳細は各アカウントの通知を確認"
-  },
-  {
-    "title": "NTTPC、ロボティクス・フィジカルAI開発をクラウドVDIで支援",
-    "link": "https://japan.zdnet.com/article/35245895/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "NTTPCコミュニケーションズは、ロボティクスとフィジカルAI分野の技術開発を支援するため、デジタルツインとシミュレーション基盤である「NVIDIA Omniverse」とオープンソースの「NVIDIA Isaac Sim」をサポートする概念実証（PoC）向けの仮想環境の無償提供を開始した。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35245895/\"><img src=\"https://japan.zdnet.com/storage/2025/02/07/b45edd3812d309fc5d46ff5a78968d6f/t/184/138/d/250206_network_as_1280_613679515.jpeg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2025/02/07/b45edd3812d309fc5d46ff5a78968d6f/t/184/138/d/250206_network_as_1280_613679515.jpeg",
-    "fetched_at": "2026-04-01 12:44:53",
-    "ja_summary": "NTTPCがロボットやAI開発を支援するため、NVIDIAのシミュレーション環境（Omniverse/Isaac Sim）を利用できる仮想基盤の無償提供を開始した。\n開発者はPoC（概念実証）向けの環境を即座に利用可能となり、開発の高速化が期待される。"
-  },
-  {
-    "title": "「Gmail」アドレスが変更可能に--電子メールや写真などのデータも保持",
-    "link": "https://japan.zdnet.com/article/35245866/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "グーグルは、Googleアカウントのユーザー名（メールアドレスの「@gmail.com」より前の部分）を、アカウントのデータを一切失うことなく変更できるようになったと発表した。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35245866/\"><img src=\"https://japan.zdnet.com/storage/2026/04/01/5ca00c65d705311b0727b758c1d549f3/t/184/138/d/gettyimages-1237932948_1280.jpg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2026/04/01/5ca00c65d705311b0727b758c1d549f3/t/184/138/d/gettyimages-1237932948_1280.jpg",
-    "fetched_at": "2026-04-01 12:44:53",
-    "ja_summary": "・GoogleアカウントのGmailアドレス（ユーザー名）が変更可能になった。\n・変更しても、メールや写真などの保存データはそのまま保持される。\n・アカウントを作り直す必要がなく、手間をかけずにアドレスを変更できる。"
   }
 ]
