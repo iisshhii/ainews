@@ -1,5 +1,55 @@
 [
   {
+    "title": "アクティビストの圧力、CEO退任の引き金に　問われる経営者のAI対応力 (グローバルインテリジェンス)",
+    "link": "https://business.nikkei.com/atcl/gen/19/00351/032300229/",
+    "source": "日経ビジネス 最新",
+    "published": "",
+    "summary": "「物言う株主」の圧力で、米企業のCEO交代が加速している。背景にあるのはアクティビストの影響力拡大と、AI投資の成果を求める厳しい視線だ。取締役会は先手を打つ形でトップ交代を進めるケースも増加。実はこうした人事は、株価や企業業績の改善につながる可能性もあるという。",
+    "image": "https://business.nikkei.com/atcl/gen/19/00351/032300229/fb.jpg",
+    "fetched_at": "2026-04-02 14:48:58",
+    "ja_summary": "・「物言う株主」の圧力により、AI投資の成果を求める米企業のCEO交代が加速している。\n・取締役会は先手を打つ形でトップ交代を進めており、株価や業績改善の契機ともなっている。\n・経営者には、AI活用を通じた具体的な成長戦略の提示と実行力が厳しく問われている。"
+  },
+  {
+    "title": "恥ずかしいGmailアドレス、ついに変更可能に--Googleが新機能を順次提供",
+    "link": "https://japan.cnet.com/article/35245860/",
+    "source": "CNET Japan",
+    "published": "",
+    "summary": "昔のあだ名や、その時のノリで付けた単語、今となっては意味の分からない数字――。そんなGmailアドレスを使い続けてきた人に朗報だ。Googleが、Gmailアドレスの「@gmail.com」より前のユーザー名を変更できる機能の提供を始めた。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35245860/\"><img src=\"https://japan.cnet.com/storage/2026/04/01/af615a03b44a18157d82e3b928788b28/t/184/138/d/google-gmail-email-2134__1_.jpeg\" /></a>",
+    "image": "https://japan.cnet.com/storage/2026/04/01/af615a03b44a18157d82e3b928788b28/t/184/138/d/google-gmail-email-2134__1_.jpeg",
+    "fetched_at": "2026-04-02 14:49:13",
+    "ja_summary": "GoogleがGmailのユーザー名（@以前）を変更できる新機能を順次提供開始。\n過去に付けた恥ずかしいアドレスなどを新しいものへ変更可能になる。\n対象ユーザー向けに順次アップデートが展開される。"
+  },
+  {
+    "title": "研究効率を爆上げするAIツールまとめ（論文調査〜執筆まで）",
+    "link": "https://qiita.com/Milab_honda/items/8577b96433491173bf4e",
+    "source": "Qiita (Popular)",
+    "published": "2026-03-29T13:27:36+09:00",
+    "summary": "# はじめに\n\n私は機械知能研究室に所属し，CV分野の研究をしている．  \n本研究室では，画像認識および機械学習を基盤とした人工知能技術を中心に，視覚情報から有用な情報を自動的に獲得するための研究に取り組んでいる．  \n興味があれば [研究室HP](https://cu-milab.github.io/milab/jp/) を参照されたい．\n\n## 本題\n\n論文調査に1日かかっていないだろうか．\n",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnNlY3VyZS5ncmF2YXRhci5jb20lMkZhdmF0YXIlMkZhZTM1MDdiZDcyZDIzMmU3OWNmMDVlZWYwN2UyZGE4Mz9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9YjgzZjEzMzFmMTQ4ODY2OGM0MjlmZjVkMDIyNWY3ODI%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkZjYTU0ZWJkNjBmYTVkMDdmNTVmYWY1YjVjYTAxMDhlZjM5MjJkNDk1JTJGb3JpZ2luYWwuanBnJTNGMTc2MTAzMTY4NT9peGxpYj1yYi00LjAuMCZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz00OTBiMDk1ZWM3MjI1MDQ1OTkwMzA1MjFmZjE1YWNkZg%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D9be3ca84af0bd581705847cf74d50052?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUU3JUEwJTk0JUU3JUE5JUI2JUU1JThBJUI5JUU3JThFJTg3JUUzJTgyJTkyJUU3JTg4JTg2JUU0JUI4JThBJUUzJTgxJTkyJUUzJTgxJTk5JUUzJTgyJThCQUklRTMlODMlODQlRTMlODMlQkMlRTMlODMlQUIlRTMlODElQkUlRTMlODElQTglRTMlODIlODElRUYlQkMlODglRTglQUIlOTYlRTYlOTYlODclRTglQUElQkYlRTYlOUYlQkIlRTMlODAlOUMlRTUlOUYlQjclRTclQUQlODYlRTMlODElQkUlRTMlODElQTclRUYlQkMlODkmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1jMzM1YjhjMmQyMzIxNzVmMDhkZDMyODQxNjkyZjQ2YQ&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBNaWxhYl9ob25kYSZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTBkMGQ4NDQxMzIzMjA1MjhkMmQ1N2IxNDg4YjBiZDFk&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=5Lit6YOo5aSn5a2mIOapn-aisOefpeiDveeglOeptuWupA&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=ae4e861b5d60d05a6047885dbacacaa3",
+    "fetched_at": "2026-04-02 14:49:39",
+    "ja_summary": "・論文調査から執筆まで、研究効率を劇的に向上させるAIツールを紹介。\n・従来の長時間かかる論文調査の現状に対し、効率的な手法を提案。\n・画像認識・機械学習分野の研究室が実践する生産性アップの知見。"
+  },
+  {
+    "title": "AIに「いい感じに作って」と言うのをやめたら、開発が回り出した — Spec-Driven Development 実践ガイド",
+    "link": "https://qiita.com/akira_papa_AI/items/5f66b2b289994e4a0256",
+    "source": "Qiita (Popular)",
+    "published": "2026-03-27T07:52:14+09:00",
+    "summary": "## はじめに — AIに雑に頼むと「速く間違う」だけ\n\nAIに「いい感じに作って」と言って、本当に「いい感じ」のものが返ってきたこと、ありますか...?\n\nちょっと考えてみましょう。こんなプロンプトを書いたことはないでしょうか。\n\n```\nユーザー登録機能を作って\n```\n\nで、返ってくるコードは、たしかに「動く」。\n\nでも、メールアドレスのバリデーションがない。パスワードの強度チェックもない。",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0MzUyMzMlMkYzYWVhMjJjODY0NGRjN2RhNzNhYmNiZWViNzNiMzQ5NTY1ZjFhYzg3JTJGeF9sYXJnZS5wbmclM0YxNzQzODkzNzQwP2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz0zYzAxZGY0NTQwNDA3MDkxOWU4ZDc1YjJmMGMwODg1MQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D57d66a48ec5d58fdc4e5256f39ac787a?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9QUklRTMlODElQUIlRTMlODAlOEMlRTMlODElODQlRTMlODElODQlRTYlODQlOUYlRTMlODElOTglRTMlODElQUIlRTQlQkQlOUMlRTMlODElQTMlRTMlODElQTYlRTMlODAlOEQlRTMlODElQTglRTglQTglODAlRTMlODElODYlRTMlODElQUUlRTMlODIlOTIlRTMlODIlODQlRTMlODIlODElRTMlODElOUYlRTMlODIlODklRTMlODAlODElRTklOTYlOEIlRTclOTklQkElRTMlODElOEMlRTUlOUIlOUUlRTMlODIlOEElRTUlODclQkElRTMlODElOTclRTMlODElOUYlMjAlRTIlODAlOTQlMjBTcGVjLURyaXZlbiUyMERldmVsb3BtZW50JTIwJUU1JUFFJTlGJUU4JUI3JUI1JUUyJTgwJUE2JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9OWU4ZDNmZDVlMWI0YzI2MDVmMWUwNTk0MTUxZWYzYWM&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBha2lyYV9wYXBhX0FJJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9Njg4MDRmOGExYzc3N2U4YTc5ZDg2NzcxYzljNzViN2U&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=746e8ae96648e1fdbeb44299f12d5f1c",
+    "fetched_at": "2026-04-02 14:49:39",
+    "ja_summary": "AIへの曖昧な指示は低品質なコードを生むため、仕様を明文化して指示する「Spec-Driven Development（仕様駆動開発）」へ移行すべきである。\n要件や制約を明確に定義して渡すことで、AIの回答精度と開発効率を劇的に向上させることができる。"
+  },
+  {
+    "title": "【緊急】月間9500万DLのLiteLLMが乗っ取られた。インストールしただけでSSH鍵・AWS認証・仮想通貨が全部盗まれる",
+    "link": "https://qiita.com/emi_ndk/items/2332ff5c93e63ab736ad",
+    "source": "Qiita (Popular)",
+    "published": "2026-03-26T15:54:48+09:00",
+    "summary": "\n**あなたのマシンにLiteLLMが入っていたら、今すぐこの記事を読んでください。**\n\n2026年3月24日、AIエージェント開発者の間で最も広く使われているPythonライブラリの一つ「**LiteLLM**」が、サプライチェーン攻撃により完全に乗っ取られました。\n\n月間**9,500万ダウンロード**。影響範囲は計り知れません。\n\n## 結論から言うと\n\n:::note alert\nLit",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmF2YXRhcnMuZ2l0aHVidXNlcmNvbnRlbnQuY29tJTJGdSUyRjU0MTczODUwJTNGdiUzRDQ_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPTQ5ZGU0OTdkMjMwMjhmNWZmOTcwNmZlNGNmY2E5MDZm%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D29ced0e10c8c1d24806abaf93840cae7?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJTkwJUU3JUI3JThBJUU2JTgwJUE1JUUzJTgwJTkxJUU2JTlDJTg4JUU5JTk2JTkzOTUwMCVFNCVCOCU4N0RMJUUzJTgxJUFFTGl0ZUxMTSVFMyU4MSU4QyVFNCVCOSU5NyVFMyU4MSVBMyVFNSU4RiU5NiVFMyU4MiU4OSVFMyU4MiU4QyVFMyU4MSU5RiVFMyU4MCU4MiVFMyU4MiVBNCVFMyU4MyVCMyVFMyU4MiVCOSVFMyU4MyU4OCVFMyU4MyVCQyVFMyU4MyVBQiVFMyU4MSU5NyVFMyU4MSU5RiVFMyU4MSVBMCVFMyU4MSU5MSVFMyU4MSVBN1NTSCVFOSU4RCVCNSVFMyU4MyVCQkFXUyVFOCVBQSU4RCVFOCVBOCVCQyVFMyU4MyVCQiVFNCVCQiVBRSVFNiU4MyVCMyVFOSU4MCU5QSVFOCVCMiVBOCVFMiU4MCVBNiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTBkM2NmN2JlNzVlNTgwZjA0Yzc2YWYxZjMxOWZjOWEw&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBlbWlfbmRrJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9NzU0NDg1YzBhMGMzNTE3YTkwZWM1ZTU4MzFlOTQyMWY&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=f6711ef04d705932113083f212cffa5f",
+    "fetched_at": "2026-04-02 14:49:41",
+    "ja_summary": "・人気Pythonライブラリ「LiteLLM」が乗っ取られ、インストール済みの環境でSSH鍵やAWS認証情報などの盗難被害が発生。\n・開発現場で広く使われているため、該当ライブラリを利用している場合は直ちに調査とクリーンアップが必要。\n・サプライチェーン攻撃により、開発環境の機密情報が流出している恐れがあるため警戒を推奨。"
+  },
+  {
     "title": "「一番になりたい」──孫正義氏が語った野望　OpenAI「10兆円超」などAI革命への投資が徐々に結実",
     "link": "https://www.itmedia.co.jp/business/articles/2604/02/news054.html",
     "source": "ITmedia ビジネス",
@@ -948,55 +998,5 @@
     "image": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/032600541/032600001/topm.jpg?20220512",
     "fetched_at": "2026-04-01 07:27:05",
     "ja_summary": "・「世界モデル」は現実の事象を予測し、ロボット等の自律動作を支える基盤技術として注目されている。\n・国内外で関連サービスの開発や実証実験が加速している。\n・本特集では、フィジカルAIの進化に向けた同技術の現状と将来性を解説する。"
-  },
-  {
-    "title": "先端LLMの「思わぬ弱点」を観測",
-    "link": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/040900481/032600026/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "最先端のLLM（大規模言語モデル）は、単一の質問（プロンプト）に対しては高い精度で回答できる。一方で日常会話でよくある複数回のやり取りからなる質問には精度がガクッと落ちる──。そんなLLMの思わぬ弱点を示す論文が、2026年2月の世界SNS言及で1位になった。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/040900481/032600026/topm.jpg?20220512",
-    "fetched_at": "2026-04-01 07:27:05",
-    "ja_summary": "最先端のLLMは一問一答には強いが、複数回のやり取りを重ねる会話では精度が急落する弱点が判明した。\nこの特性を指摘した論文が、SNSで大きな注目を集めている。\nAIを活用する際は、複雑な対話における回答精度の低下に注意が必要である。"
-  },
-  {
-    "title": "Google AI Studio のフルスタックバイブコーディング機能の概要",
-    "link": "https://note.com/npaka/n/n77bf70d9b349",
-    "source": "note (npaka)",
-    "published": "Fri, 20 Mar 2026 07:14:29 +0900",
-    "summary": "<p id=\"fcc5a2c0-b8b8-4d20-885b-34dc442adfec\" name=\"fcc5a2c0-b8b8-4d20-885b-34dc442adfec\">以下の記事が面白かったので、簡単にまとめました。</p><figure id=\"378069a1-25c1-49f6-becf-1d673ae28c08\" name=\"378069a1-25c1-49f6-becf-1d673ae28c08\"><blockquote><p id=\"77e2c1bc-0534-4155-bf27-03b7f3d0f523\" name=\"77e2c1bc-0534-4155-bf27-03b7f3d0f523\"><strong>・</strong><a href=\"https://blog.google/innovation-and-ai/technology/developers-tools/full-stack-vibe-coding-google-ai-studio/\" rel=\"nofollow noopener\" target=\"_blank\"><strong>Introducing the new full-stack vibe coding experience in Google AI Studio</strong></a></p></blockquote>\n<figcaption></figcaption></figure><br /><a href=\"https://note.com/npaka/n/n77bf70d9b349\">続きをみる</a>",
-    "image": "https://assets.st-note.com/production/uploads/images/260512898/rectangle_large_type_2_a6edcea4968571e0ddd42eb5e48814c8.png?width=800",
-    "fetched_at": "2026-04-01 07:27:15",
-    "ja_summary": "Google AI Studioに、自然言語による指示だけでフルスタックなアプリ開発・編集が可能な「Vibe Coding」機能が追加された。\nコードの詳細な知識がなくてもAIが要件を解釈し、即座に実装や修正を反映できる。\n試作開発やアイディアの具現化を大幅に効率化する新しいコーディング体験を提供する。"
-  },
-  {
-    "title": "「Agentforce」が顧客体験を改善--AIエージェントと協働するSMBの新営業プロセス",
-    "link": "https://japan.zdnet.com/article/35245854/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "不動産投資コンサルティングを手掛けるTAPPは、SalesforceのAIエージェント「Agentforce」を導入し、セミナーの問い合わせ解決率約90.3％を実現した。わずか1カ月でのスピード実装を支えたデータ基盤構築の裏側と、同社が目指すAI活用の未来とは。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35245854/\"><img src=\"https://japan.zdnet.com/storage/2026/03/31/d23aeaeb73e9c8ba56c39c3405dacaf9/t/184/138/d/260331_salesforce_l.jpg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2026/03/31/d23aeaeb73e9c8ba56c39c3405dacaf9/t/184/138/d/260331_salesforce_l.jpg",
-    "fetched_at": "2026-04-01 07:27:19",
-    "ja_summary": "・TAPPがSalesforceのAIエージェント「Agentforce」を導入し、セミナー問い合わせ解決率90.3％を達成。\n・データ基盤の整備により、わずか1カ月でのスピード実装を実現。\n・AIとの協働を通じて、顧客対応の効率化と営業プロセスの刷新を図る。"
-  },
-  {
-    "title": "検索技術がAIを支える要となる--ElasticのCPOに聞く、 全てのデータを生かす検索の力",
-    "link": "https://japan.zdnet.com/article/35245840/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "Elasticは「The search AI company」というメッセージを打ち出し、長年培ってきた検索技術を生かして企業がAIに取り組む際に不可欠となるデータの問題を解決するために支援している。最近ではコンテキスト・エンジニアリングにも注力しているが、同社の強みである検索関連の技術とAIへの取り組みはどのように関連しているのかを聞いた。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35245840/\"><img src=\"https://japan.zdnet.com/storage/2026/03/31/4abad68f5bc7d00d608d3540a3973cee/t/184/138/d/260331_elastic_001.JPG\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2026/03/31/4abad68f5bc7d00d608d3540a3973cee/t/184/138/d/260331_elastic_001.JPG",
-    "fetched_at": "2026-04-01 07:27:19",
-    "ja_summary": "Elasticは長年培った検索技術を基盤に、企業がAI活用で直面するデータ課題を解決する「Search AI」を推進しています。\nAIの精度向上に不可欠なデータ準備（コンテキスト・エンジニアリング）を支援し、社内情報の効率的な活用を可能にします。\n検索技術こそがAIを支える要であり、企業がAIを実用化する上での不可欠なインフラを提供しています。"
-  },
-  {
-    "title": "「Claude」が「Mac」を直接操作--指示1つで一連のタスクを実行できる新機能",
-    "link": "https://japan.zdnet.com/article/35245825/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "Anthropicの「Claude」にて、AI自身がコンピューターの画面を操作しながら指示されたタスクを実行できる機能が「macOS」版に追加された。本稿では、リサーチプレビュー段階にある本機能を実際に試した筆者が、その内容と感想をまとめた。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35245825/\"><img src=\"https://japan.zdnet.com/storage/2026/03/31/89858e5a4da3d4b7ad019a4629d49e2f/t/184/138/d/claude-ai_l.jpg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2026/03/31/89858e5a4da3d4b7ad019a4629d49e2f/t/184/138/d/claude-ai_l.jpg",
-    "fetched_at": "2026-04-01 07:27:19",
-    "ja_summary": "・AIがMacの画面を直接操作し、一連のタスクを自動実行できる新機能が「Claude」に追加。\n・現在はリサーチプレビュー段階であり、複雑なPC操作をAIに委ねることが可能。\n・作業の自動化や効率化を大きく進める可能性を秘めた新機能。"
   }
 ]
