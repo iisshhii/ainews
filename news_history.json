@@ -1,5 +1,25 @@
 [
   {
+    "title": "AI時代に将来性がある2つのタイプとは…パランティアCEOが指摘",
+    "link": "https://www.businessinsider.jp/article/2604-alex-karp-future-ai-neurodivergent-vocational-skills/",
+    "source": "Business Insider Japan",
+    "published": "Thu, 02 Apr 2026 10:00:00 GMT",
+    "summary": "パランティアのアレックス・カープCEOは、コーディングから法律業務に至るまでの低レベルのスキルは、AIの時代においては価値がないと述べました。",
+    "image": "https://media.loom-app.com/loom/2026/03/25/76b179b4-fc80-42c1-a858-6232ef42dbe4/original.jpg?w=1200&amp;h=630",
+    "fetched_at": "2026-04-03 23:37:55",
+    "ja_summary": "・AIの台頭で、コーディングや法務などの定型的なスキルは価値が低下する。\n・将来性があるのは、AIを活用して複雑な問題を解決できる人材。\n・AI時代には、単なる技術習得ではなく、AIを使いこなす力が不可欠。"
+  },
+  {
+    "title": "AICore Developer Preview で Gemma 4 を試す",
+    "link": "https://note.com/npaka/n/n79383ac828ec",
+    "source": "note (npaka)",
+    "published": "Fri, 03 Apr 2026 23:00:51 +0900",
+    "summary": "<p id=\"5d203460-9487-4d23-a979-3c62cb92a7f3\" name=\"5d203460-9487-4d23-a979-3c62cb92a7f3\">以下の記事が面白かったので、簡単にまとめました。</p><figure id=\"7d6ae62e-7177-4dd7-8277-72bb316cf6bf\" name=\"7d6ae62e-7177-4dd7-8277-72bb316cf6bf\"><blockquote><p id=\"7bf996af-c4d2-439c-aa59-0a8b50a1f79d\" name=\"7bf996af-c4d2-439c-aa59-0a8b50a1f79d\"><strong>・</strong><a href=\"https://android-developers.googleblog.com/2026/04/AI-Core-Developer-Preview.html\" rel=\"nofollow noopener\" target=\"_blank\"><strong>Announcing Gemma 4 in the AICore Developer Preview</strong></a></p></blockquote>\n<figcaption></figcaption></figure><br /><a href=\"https://note.com/npaka/n/n79383ac828ec\">続きをみる</a>",
+    "image": "https://assets.st-note.com/production/uploads/images/264518068/rectangle_large_type_2_6ef5d28cf4ce1752962b0e118dfbc343.png?width=800",
+    "fetched_at": "2026-04-03 23:37:56",
+    "ja_summary": "・Googleの最新AIモデル「Gemma 4」が、AICoreのデベロッパープレビュー版で利用可能になった。\n・Androidアプリ開発者は、オンデバイスでのAI実装やテストがより手軽に行えるようになる。\n・開発者向けの先行公開により、最新モデルを活用した機能検証が加速する。"
+  },
+  {
     "title": "SHIFT丹下社長「新入社員にも『AIで君の仕事はなくなる』と伝え、考えさせる」 (AIリーダーズ)",
     "link": "https://business.nikkei.com/atcl/gen/19/00711/032700032/",
     "source": "日経ビジネス 最新",
@@ -978,25 +998,5 @@
     "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Quill&amp;backgroundColor=olive",
     "fetched_at": "2026-04-02 21:04:29",
     "ja_summary": "・Anthropic社がAI開発の安全基準「Responsible Scaling Policy」の最新版（v3.0）を発表。\n・AIモデルの能力向上に伴うリスクを評価し、安全性を担保するための厳格な運用指針を提示。\n・開発の透明性を高め、AIの悪用防止や社会的影響への対策を強化する内容。"
-  },
-  {
-    "title": "ハーネスエンジニアリングを極めたら、IssueからAIエージェントが動き、人間の役割は要件定義だけになった",
-    "link": "https://zenn.dev/aicon_kato/articles/harness-engineering-startup",
-    "source": "Zenn Trends",
-    "published": "Wed, 01 Apr 2026 11:51:41 GMT",
-    "summary": "2ヶ月で21体のAIエージェントによる自律開発パイプラインを構築した。GitHub Issueに要求を書いて寝れば、朝にはマージレディのPRが上がっている。本記事では、2026年2〜3月に何を作り、何が動き、何がまだ動いていないのかを記す。\n出発点は、2月時点で既に 57万行 に膨れていたモノレポだった。モバイルアプリ＋管理画面＋バックエンドが詰まったこのコードベースを、AIエージェントに正しく理解させ、自律的に開発させる——それがこの2ヶ月の挑戦だった。\n\n2025年12月〜2026年3月のマージPR数推移。2月後半のハーネス整備期を経て、3月後半には681件/半月まで急増。なお、この...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--2LLgo4CI--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%258F%25E3%2583%25BC%25E3%2583%258D%25E3%2582%25B9%25E3%2582%25A8%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%258B%25E3%2582%25A2%25E3%2583%25AA%25E3%2583%25B3%25E3%2582%25B0%25E3%2582%2592%25E6%25A5%25B5%25E3%2582%2581%25E3%2581%259F%25E3%2582%2589%25E3%2580%2581Issue%25E3%2581%258B%25E3%2582%2589AI%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588%25E3%2581%258C%25E5%258B%2595%25E3%2581%258D%25E3%2580%2581%25E4%25BA%25BA%25E9%2596%2593%25E3%2581%25AE%25E5%25BD%25B9%25E5%2589%25B2%25E3%2581%25AF%25E8%25A6%2581%25E4%25BB%25B6%25E5%25AE%259A%25E7%25BE%25A9%25E3%2581%25A0%25E3%2581%2591%25E3%2581%25AB%25E3%2581%25AA%25E3%2581%25A3%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E5%258A%25A0%25E8%2597%25A4%2520%257C%2520%25E6%25A0%25AA%25E5%25BC%258F%25E4%25BC%259A%25E7%25A4%25BEAicon%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jS0xwTzByV201Tk5BMjVTWktTM0ZCYWJwUXJYMk5McFZ5TFFVeTY3OGdNekppRTJBPXMyNTAtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-    "fetched_at": "2026-04-02 20:25:56",
-    "ja_summary": "・大規模モノレポに対し、AIエージェントによる自律開発パイプラインを構築。\n・GitHub Issueに要望を書くだけで、朝にはプルリクエストが完成する仕組みを実現。\n・ハーネス（検証基盤）の整備により、月間600件以上の実装を自動化することに成功。"
-  },
-  {
-    "title": "生成AIで誰でもオシャレなパワポを作る方法",
-    "link": "https://qiita.com/yamazombie/items/d2694937d2ebcd442060",
-    "source": "Qiita (Popular)",
-    "published": "2026-03-27T06:29:24+09:00",
-    "summary": "# はじめに\nこんにちは！ AI エンジニアのヤマゾーです。突然ですが、このたび生成 AI プロジェクトに関わる人に向けた技術書を出版しました。細部まで拘って約 1 年かけて書いたこともあり、周りからも「図解がわかりやすい」「断片的な知識が繋がった」とかなり好評でした。\nなんと**発売からわずか 1 週間で増刷も決定**し、AI エンジニアとして大変嬉しい限りです。\n\n 　\n[![seiseiAI",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYxMzQ4NTA3JTJGYWFiMDlmMTgxYTM4NzkwODM3NzAxODY4YzE1MDc1NGYzMjQ2N2JmYyUyRnhfbGFyZ2UucG5nJTNGMTYxOTc4NTYxMj9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NjY0MWU2ZWZkZjQxNTZkODM3ZTI2NGY2NDZkODhkNTM%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3De5e18713f83e1fb1c5c2abfc479def01?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUU3JTk0JTlGJUU2JTg4JTkwQUklRTMlODElQTclRTglQUElQjAlRTMlODElQTclRTMlODIlODIlRTMlODIlQUElRTMlODIlQjclRTMlODMlQTMlRTMlODMlQUMlRTMlODElQUElRTMlODMlOTElRTMlODMlQUYlRTMlODMlOUQlRTMlODIlOTIlRTQlQkQlOUMlRTMlODIlOEIlRTYlOTYlQjklRTYlQjMlOTUmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1mNDA5ZmE5YzdjMmViZTU3ODRmZjhmNDQwM2YxMGU4Nw&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDB5YW1hem9tYmllJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9NmMyNWVmOTdlZTVlMzNjYjJlNjE0OGVlMWM5YmUwM2I&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=817f5f45decb8218a5ce68105139a88a",
-    "fetched_at": "2026-04-02 20:26:01",
-    "ja_summary": "・生成AI活用に関する技術書を出版し、発売1週間で増刷が決定。\n・図解が分かりやすく、知識の体系化に役立つと高い評価を獲得。\n・生成AIの実務プロジェクトに携わる人にとって有益な一冊。"
   }
 ]
