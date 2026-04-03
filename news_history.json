@@ -1,5 +1,15 @@
 [
   {
+    "title": "Anthropic’s Responsible Scaling Policy: Version 3.0",
+    "link": "https://www.anthropic.com/news/responsible-scaling-policy-v3",
+    "source": "Anthropic (News)",
+    "published": "Tue, 24 Feb 2026 00:00:00 +0000",
+    "summary": "Anthropic’s Responsible Scaling Policy: Version 3.0",
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Quill&amp;backgroundColor=olive",
+    "fetched_at": "2026-04-04 08:00:41",
+    "ja_summary": "・AI企業Anthropicが「責任あるスケーリングポリシー」の最新版（v3.0）を発表。\n・AI開発における安全基準を強化し、高度なAIモデルのリスク管理体制を刷新。\n・透明性を確保しつつ、AIの能力向上と安全性の両立を目指す指針を明示。"
+  },
+  {
     "title": "React の Container/Presentational × Hooks を関数型アーキテクチャで再設計する",
     "link": "https://zenn.dev/appleworld/articles/advanced-container-presentational-pattern",
     "source": "Zenn Trends",
@@ -988,15 +998,5 @@
     "image": "https://openai.com/favicon.ico",
     "fetched_at": "2026-04-03 02:43:27",
     "ja_summary": "・ChatGPTのBusinessおよびEnterprise向けに、従量課金プランが導入された。\n・利用量に応じた柔軟な支払いが可能になり、導入や規模拡大が容易になる。\n・チーム単位でのChatGPT活用を検討中の企業にとって、コスト最適化の選択肢が増加。"
-  },
-  {
-    "title": "Claude Code、最初にこれやっとき｜7つの設定で世界変わるで",
-    "link": "https://zenn.dev/masayan1126/books/claude-code-initial-settings",
-    "source": "Zenn Trends",
-    "published": "Thu, 02 Apr 2026 08:41:59 GMT",
-    "summary": "Claude Codeを使い倒すための初期設定を7項目で解説するで。言語・パーミッション・CLAUDE.md・モデル選択・フックまで、オススメ構成を全部まとめたんや。",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--5MX0BMHC--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci8xNGEyZmFiMDlkLmpwZWc=%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg?_a=BACAGSGT",
-    "fetched_at": "2026-04-02 22:56:06",
-    "ja_summary": "・Claude Codeを快適に使いこなすための推奨初期設定7項目を解説。\n・言語設定や権限管理から、モデル選択やフックの設定までを網羅。\n・効率的な開発環境を構築するための最適構成をまとめて習得可能。"
   }
 ]
