@@ -1,5 +1,35 @@
 [
   {
+    "title": "新規事業開発へ向け生成AIの利用が進行、調査で明らかに",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03241/033100006/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "生成AI（人工知能）を新規事業開発に応用できる可能性が見えてきた。2016年、2021年に続いて3回目となる新規事業開発についての調査を実施したところ、生成AIを利用しているとの回答が6割に及び、成果が出始めている兆候も得られた。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03241/033100006/newbiz_sns.jpg?20220512",
+    "fetched_at": "2026-04-04 19:05:04",
+    "ja_summary": "・新規事業開発における生成AIの活用が進み、利用企業が6割に達した。\n・AI導入による成果創出の兆しが見え始めており、活用が本格化している。"
+  },
+  {
+    "title": "Sydney will become Anthropic’s fourth office in Asia-Pacific",
+    "link": "https://www.anthropic.com/news/sydney-fourth-office-asia-pacific",
+    "source": "Anthropic (News)",
+    "published": "Tue, 10 Mar 2026 00:00:00 +0000",
+    "summary": "Sydney will become Anthropic’s fourth office in Asia-Pacific",
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Globe&amp;backgroundColor=sky",
+    "fetched_at": "2026-04-04 19:05:33",
+    "ja_summary": "・AI企業AnthropicがシドニーにAPAC第4の拠点を新設\n・オーストラリア市場でのプレゼンス拡大と事業強化を図る\n・日本などに続き、アジア太平洋地域での展開をさらに加速させる"
+  },
+  {
+    "title": "第26回FA設備技術勉強会   - Claude/Claude_codeでデータ分析 -",
+    "link": "https://speakerdeck.com/happysamurai294/claude-codededetafen-xi",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-03-21T23:41:40-04:00",
+    "summary": "１．２年前はAIエージェントを⾃作してデータ分析\n２．現在は「Claude」がやってくれる\n３．ローカルLLMでもできる\n４．まとめ",
+    "image": "https://files.speakerdeck.com/presentations/7c0618b9d7cf48408142b10ea7a381f1/preview_slide_0.jpg?38906267",
+    "fetched_at": "2026-04-04 19:05:44",
+    "ja_summary": "・かつて自作が必要だったデータ分析は、現在はClaude等のAIが自動で実行可能。\n・ローカル環境のLLMでも同様の分析が可能であり、導入のハードルが低下。\n・AIツールの進化により、FA現場におけるデータ活用の効率化が加速している。"
+  },
+  {
     "title": "パラメータ4個で710M超えのFoundation Modelに勝った時系列予測手法FLAIRの全貌",
     "link": "https://zenn.dev/t_honda/articles/flair-time-series-forecasting",
     "source": "Zenn Trends",
@@ -968,35 +998,5 @@
     "image": "https://media.loom-app.com/loom/2026/04/02/1802b1b9-6776-4d07-8574-627511a92e6c/original.jpg?w=1200&amp;h=630",
     "fetched_at": "2026-04-03 07:02:48",
     "ja_summary": "・AIの普及により、コンサル業界の「人月単価」という従来のビジネスモデルが崩壊。\n・専門化とAI活用が進むことで、戦略コンサルタントの職が大幅に減少する見通し。\n・業界全体がAI導入を急ぐ中、従来の業務形態からの脱却を強く迫られている。"
-  },
-  {
-    "title": "Gemma 4 の概要",
-    "link": "https://note.com/npaka/n/n240f81855918",
-    "source": "note (npaka)",
-    "published": "Fri, 03 Apr 2026 06:22:05 +0900",
-    "summary": "<p id=\"c6fddffa-551c-4e65-9a73-f86723cf4e22\" name=\"c6fddffa-551c-4e65-9a73-f86723cf4e22\">「Gemma 4」の概要をまとめました。</p><figure id=\"40a4d4ff-fa1e-4031-8730-4ea856eecaf7\" name=\"40a4d4ff-fa1e-4031-8730-4ea856eecaf7\"><blockquote><p id=\"920fdb08-c3d6-4b53-8a22-f712aad3c59b\" name=\"920fdb08-c3d6-4b53-8a22-f712aad3c59b\"><strong>・</strong><a href=\"https://blog.google/innovation-and-ai/technology/developers-tools/gemma-4/\" rel=\"nofollow noopener\" target=\"_blank\"><strong>Gemma 4: Byte for byte, the most capable open models</strong></a></p></blockquote>\n<figcaption></figcaption></figure><br /><a href=\"https://note.com/npaka/n/n240f81855918\">続きをみる</a>",
-    "image": "https://assets.st-note.com/production/uploads/images/264334187/rectangle_large_type_2_18fe418daea22e9c296cb297a06352b9.png?width=800",
-    "fetched_at": "2026-04-03 07:02:52",
-    "ja_summary": "Googleがオープンモデル「Gemma 4」を発表しました。\n同サイズで最高水準の性能と効率性を実現したモデルです。\n開発者向けに公開されており、高度なAIアプリケーション開発に活用可能です。"
-  },
-  {
-    "title": "AIは「代替」ではなく「補完」の技術--人間に求められる「問いを立てる力」",
-    "link": "https://japan.zdnet.com/article/35245953/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "人工知能（AI）に仕事を奪われるという不安が広がる中、あるAI専門家は、むしろ人間の役割が拡大していくと指摘する。カギとなるのは、問題を見極め、適切な問いを定義する力だという。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35245953/\"><img src=\"https://japan.zdnet.com/storage/2026/04/02/93c48209452cd8e4a48c11a32da399df/t/184/138/d/large-gettyimages-1425988570.jpg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2026/04/02/93c48209452cd8e4a48c11a32da399df/t/184/138/d/large-gettyimages-1425988570.jpg",
-    "fetched_at": "2026-04-03 07:02:57",
-    "ja_summary": "AIは人間の仕事を奪うものではなく、能力を拡張する「補完」ツールである。\n今後の人間に必要なのは、AIを使いこなして課題を見極め、適切な問いを立てる力だ。\nAI時代こそ、人間はより本質的な問題定義の役割を担うことで価値を発揮できる。"
-  },
-  {
-    "title": "AIの過剰な宣伝にIT部門はどう対処すべきか--鍵を握る「裏方作業」",
-    "link": "https://japan.zdnet.com/article/35245899/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "AIに関する調査から、単に業務にAIを導入しただけでは良い結果を得ることは難しく、裏方で多大な努力を払わなければならないことが分かった。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35245899/\"><img src=\"https://japan.zdnet.com/storage/2026/04/01/129a626ecd4afdf46da4552bbe0c54b9/t/184/138/d/gettyimages-1611521361-cropped_l.jpg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2026/04/01/129a626ecd4afdf46da4552bbe0c54b9/t/184/138/d/gettyimages-1611521361-cropped_l.jpg",
-    "fetched_at": "2026-04-03 07:02:57",
-    "ja_summary": "AI導入は単なるツール利用では成果が出ず、成功には膨大な「裏方作業」が不可欠である。\nIT部門は、AIの過剰な宣伝に惑わされず、地道なデータ整備や運用体制の構築に注力すべきだ。"
   }
 ]
