@@ -1,5 +1,35 @@
 [
   {
+    "title": "GitHub Copilot CLI の /fleet が面白い",
+    "link": "https://zenn.dev/poipoionigiri/articles/73eb2b803b10d7",
+    "source": "Zenn Trends",
+    "published": "Sat, 04 Apr 2026 01:00:06 GMT",
+    "summary": "はじめに\nGitHub Copilot CLI の /fleetがおもしろいです．\n名前だけ見ると「並列で動くモードなんだな」ぐらいですが，\n実際に触ってみると，効くかどうかは prompt の切り方 で大きく変わってきます．\n雑に投げるとあまり速くならないですし，\nうまく分解できるように書くと「これは気持ちいいな」という挙動をしてくれますと思います．\n今回は，公式ドキュメントと GitHub Blog の /fleet 記事を見直しながら，\n/fleet が何をしているのか，どういう prompt だと並列化しやすいのか，\nそして どんな使い方があるのか について書いてみようと思い...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--xeUQDJNt--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:GitHub%2520Copilot%2520CLI%2520%25E3%2581%25AE%2520%252Ffleet%2520%25E3%2581%258C%25E9%259D%25A2%25E7%2599%25BD%25E3%2581%2584%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:tkym%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzdhODkzYmY4MmIuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-04-05 07:55:19",
+    "ja_summary": "・GitHub Copilot CLIの「/fleet」機能は、プロンプトを工夫することでタスクを効率的に並列実行できる。\n・雑な指示では効果が薄いが、適切にタスクを分解して記述することで飛躍的に利便性が向上する。\n・公式ドキュメントに基づき、並列化しやすいプロンプトの構成や最適な活用法を解説している。"
+  },
+  {
+    "title": "AIが書いたコードをレビューするな",
+    "link": "https://zenn.dev/a_1ro/articles/4b0333e9d7b8f9",
+    "source": "Zenn Trends",
+    "published": "Fri, 03 Apr 2026 09:30:05 GMT",
+    "summary": "はじめに\nAIが書いたコードを一生懸命レビューしているあなた。残念だが、その作業は今日で終わりにしていい。\n2026年3月、InfoQがある調査結果を報じた。「AIコーディングアシスタントは開発速度を上げなかった」。理由は単純で、コーディングは元々ボトルネックではなかったからだ。\nでは本当のボトルネックは何か。それは「認識のズレ」だ。\nレビューすべきはコードじゃなくて前提だ。「テストは書くよね？」「外部依存は増やさない方向だよね？」——その暗黙の期待を、実装が始まる前に言語化して合意する。それだけでコードレビューが「驚きの連続」から「確認作業」に変わる。\nこの記事では、そのフローを ...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--gQFMaeLc--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%25E3%2581%258C%25E6%259B%25B8%25E3%2581%2584%25E3%2581%259F%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2589%25E3%2582%2592%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25E3%2581%2599%25E3%2582%258B%25E3%2581%25AA%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Eiichiro%2520Iriguchi%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2Y4ODI2ZGJlMzcuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-04-05 07:55:20",
+    "ja_summary": "・AIが生成したコードのレビューは非効率であり、開発のボトルネックではない。\n・真の課題は「認識のズレ」にあるため、実装前に前提条件を言語化・合意すべき。\n・仕様や期待値を事前に定義することで、後のレビュー負荷を劇的に軽減できる。"
+  },
+  {
+    "title": "自律的に深掘りするデータ分析エージェントの設計 〜並列処理による高速化アプローチ〜",
+    "link": "https://zenn.dev/nttdata_tech/articles/a902c2d5289f3f",
+    "source": "Zenn Trends",
+    "published": "Fri, 03 Apr 2026 06:00:11 GMT",
+    "summary": "1. はじめに\nこんにちは！NTTデータ ソリューション事業本部の@hua_wei_hanagiです。\n近年、生成AIを活用したデータ分析の自動化ニーズが高まっています。\nこのニーズに応えるべく、ユーザーの追加指示を待たずに自ら考え、納得いくまで分析を繰り返してくれる「自律的に深掘りするデータ分析エージェント（以降、Deep Analysis型と呼ぶ）」の構想を設計しました。\nしかし、これを実運用に乗せようとした際、「タスクの量が増えることに伴い、最終結果が出るまでの待ち時間が長大化してしまう」 というシステム上の大きな壁にぶつかりました。\nそこで本記事では、 「Deep Analy...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--_PwIEIrW--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E8%2587%25AA%25E5%25BE%258B%25E7%259A%2584%25E3%2581%25AB%25E6%25B7%25B1%25E6%258E%2598%25E3%2582%258A%25E3%2581%2599%25E3%2582%258B%25E3%2583%2587%25E3%2583%25BC%25E3%2582%25BF%25E5%2588%2586%25E6%259E%2590%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588%25E3%2581%25AE%25E8%25A8%25AD%25E8%25A8%2588%2520%25E3%2580%259C%25E4%25B8%25A6%25E5%2588%2597%25E5%2587%25A6%25E7%2590%2586%25E3%2581%25AB%25E3%2582%2588%25E3%2582%258B%25E9%25AB%2598%25E9%2580%259F%25E5%258C%2596%25E3%2582%25A2%25E3%2583%2597%25E3%2583%25AD%25E3%2583%25BC%25E3%2583%2581%25E3%2580%259C%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:hanagi%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2Q1ZjRhYzE4MTIuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:NTT%2520DATA%2520TECH%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly96ZW5uLWRldi5naXRodWIuaW8vZGVmYXVsdC1hdmF0YXJzL2RhcmsvaC5wbmc=%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-04-05 07:55:20",
+    "ja_summary": "・生成AIを活用し、ユーザーの指示を待たずに深掘り分析を行う「自律型データ分析エージェント」を設計。\n・分析の複雑化に伴う「待ち時間の増大」という課題を解決するため、並列処理による高速化手法を導入。\n・実運用を見据えた、効率的かつ自律的なデータ分析システムの構築アプローチを解説。"
+  },
+  {
     "title": "水・日用品からAIレコーダ、スマートバンドなど　アマゾン新生活セールFinal注目商品",
     "link": "https://www.watch.impress.co.jp/docs/news/2099155.html",
     "source": "Impress Watch",
@@ -968,35 +998,5 @@
     "image": "https://image.itmedia.co.jp/business/articles/2604/03/cover_news018.jpg",
     "fetched_at": "2026-04-03 08:27:30",
     "ja_summary": "・ダイハツが現場主導のDXを推進し、PC未経験の工場作業員を2カ月でAI活用人材へと育成。\n・「人にやさしいデジタル」を掲げ、現場発の改革によって着実な成果を上げている。\n・専門スキルがなくても活躍できる育成手法を確立し、全社的なDXを加速させている。"
-  },
-  {
-    "title": "Googleスライド、あとから編集できるスライドをGeminiで生成可能に",
-    "link": "https://www.watch.impress.co.jp/docs/news/2098647.html",
-    "source": "Impress Watch",
-    "published": "",
-    "summary": "Googleは1日(米国時間)、「Google スライド」のGeminiによるスライド作成機能で、編集可能なスライドの作成に対応する。英語のほか多くの言語でも順次展開開始する。",
-    "image": "https://www.watch.impress.co.jp/img/ipw/list/2098/647/g05.jpg",
-    "fetched_at": "2026-04-03 08:27:46",
-    "ja_summary": "・GoogleスライドのGemini機能が強化され、生成後のスライドを直接編集可能に。\n・従来の画像ベースではなく、レイアウトやテキストの調整が自由に行える形式で作成。\n・英語を含む多言語へ順次展開を開始。"
-  },
-  {
-    "title": "AIにより大幅に強化された AWS Transform Customを触ってみる",
-    "link": "https://speakerdeck.com/0air/ainiyorida-fu-niqiang-hua-sareta-aws-transform-customwohong-tutemiru",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-04-01T09:38:06-04:00",
-    "summary": "AWS re:Invent 2025 新機能「やってみた」報告会 ～生成AI編～\nhttps://classmethod.jp/seminar/260316-awsreinvent-justtry/\n登壇タイトル：AIにより大幅に強化された AWS Transform Customを触ってみる",
-    "image": "https://files.speakerdeck.com/presentations/de0a853ed0b449bb9bcffcab1950db95/preview_slide_0.jpg?38950542",
-    "fetched_at": "2026-04-03 08:28:15",
-    "ja_summary": "AWS re:Invent 2025で発表された、AIで大幅強化された「AWS Transform Custom」の検証レポート。\n生成AIを活用した機能の実力や活用方法を、実機での検証をもとに解説するセミナー。\nAWSの最新AI機能を業務へどう取り入れるかを短時間で把握できる内容。"
-  },
-  {
-    "title": "All Things Open 2025: Open Source Survival Guide",
-    "link": "https://speakerdeck.com/chrisshort/all-things-open-2025-open-source-survival-guide",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-04-01T05:51:44-04:00",
-    "summary": "From navigating different incentive structures to fostering healthy collaboration, this practical session delivers hard-earned wisdom from 25+ years of open source experience. Whether you’re a newcomer curious about contributing or a seasoned maintainer, Chris Short’s “Open Source Survival Guide” offers concrete rules that help technical professionals, community leaders, and companies work effectively in open source environments. Learn to build trust, share knowledge, manage contributions, and avoid common pitfalls that can damage projects and careers.",
-    "image": "https://files.speakerdeck.com/presentations/363c280651514b77b684c4120b9cedd7/preview_slide_0.jpg?38946496",
-    "fetched_at": "2026-04-03 08:28:15",
-    "ja_summary": "・25年以上の経験を持つ専門家が、オープンソースでの活動や運営の極意を解説。\n・貢献方法や信頼構築、トラブル回避など、実践的なルールを網羅的に学べる。\n・初心者から熟練の管理職まで、持続可能で効果的なプロジェクト運営を目指す人向けの内容。"
   }
 ]
