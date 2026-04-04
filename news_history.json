@@ -1,5 +1,15 @@
 [
   {
+    "title": "パラメータ4個で710M超えのFoundation Modelに勝った時系列予測手法FLAIRの全貌",
+    "link": "https://zenn.dev/t_honda/articles/flair-time-series-forecasting",
+    "source": "Zenn Trends",
+    "published": "Thu, 02 Apr 2026 12:56:56 GMT",
+    "summary": "710Mパラメータ vs 4パラメータ\nChronos-T5-Large。Amazonの時系列Foundation Model。710Mパラメータ、GPU必須。\nFLAIR。パラメータ約4個。GPUなし。numpy と scipy だけ。Pythonファイル1つ、約500行。\nこの2つを同じベンチマークで比較するとどうなるか。Chronos Benchmark II (25データセット、ゼロショット評価) の結果です。\n\n\n\n\nRank\nModel\nParams\nAgg. Rel. MASE\nGPU\n\n\n\n\n1\nFLAIR\n~4\n0.696\nNo\n\n\n2\nChronos-Bolt-B...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--XhCkmO1X--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2591%25E3%2583%25A9%25E3%2583%25A1%25E3%2583%25BC%25E3%2582%25BF4%25E5%2580%258B%25E3%2581%25A7710M%25E8%25B6%2585%25E3%2581%2588%25E3%2581%25AEFoundation%2520Model%25E3%2581%25AB%25E5%258B%259D%25E3%2581%25A3%25E3%2581%259F%25E6%2599%2582%25E7%25B3%25BB%25E5%2588%2597%25E4%25BA%2588%25E6%25B8%25AC%25E6%2589%258B%25E6%25B3%2595FLAIR%25E3%2581%25AE%25E5%2585%25A8%25E8%25B2%258C%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Takato%2520Honda%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzUwYjRmYzYyN2UuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-04-04 18:38:36",
+    "ja_summary": "・わずか4パラメータで動作する新手法「FLAIR」が、7億超のパラメータを持つ巨大AI（Chronos）を上回る精度を達成。\n・GPU不要、外部ライブラリを最小限に抑えた軽量設計により、実行環境を選ばない圧倒的な効率性を実現。\n・複雑なAIモデルに頼らずとも、時系列予測において従来モデルを超える高いパフォーマンスを発揮可能。"
+  },
+  {
     "title": "Airbnbで成功しているホストは、短期賃貸物件に投資する前に3つの問いを投げかける",
     "link": "https://www.businessinsider.jp/article/2604-airbnb-host-how-to-select-a-short-term-rental-property/",
     "source": "Business Insider Japan",
@@ -988,15 +998,5 @@
     "image": "https://japan.zdnet.com/storage/2026/04/01/129a626ecd4afdf46da4552bbe0c54b9/t/184/138/d/gettyimages-1611521361-cropped_l.jpg",
     "fetched_at": "2026-04-03 07:02:57",
     "ja_summary": "AI導入は単なるツール利用では成果が出ず、成功には膨大な「裏方作業」が不可欠である。\nIT部門は、AIの過剰な宣伝に惑わされず、地道なデータ整備や運用体制の構築に注力すべきだ。"
-  },
-  {
-    "title": "Sydney will become Anthropic’s fourth office in Asia-Pacific",
-    "link": "https://www.anthropic.com/news/sydney-fourth-office-asia-pacific",
-    "source": "Anthropic (News)",
-    "published": "Tue, 10 Mar 2026 00:00:00 +0000",
-    "summary": "Sydney will become Anthropic’s fourth office in Asia-Pacific",
-    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Globe&amp;backgroundColor=sky",
-    "fetched_at": "2026-04-03 07:03:04",
-    "ja_summary": "・AI企業Anthropicが、シドニーにアジア太平洋地域で4拠点目となるオフィスを開設。\n・同社のグローバル展開を加速させ、地域内でのプレゼンスを強化する。"
   }
 ]
