@@ -1,5 +1,35 @@
 [
   {
+    "title": "リップシンクする妻のAIアバターをClaude Codeと開発した。iPhoneでアクセスして音声対話ができる、その作り方（CloseBox）",
+    "link": "https://www.techno-edge.net/article/2026/04/04/4970.html",
+    "source": "TechnoEdge",
+    "published": "Sat, 04 Apr 2026 14:36:17 +0900",
+    "summary": "Grok Imagineで生成した妻の動画を27インチの大画面に映して「存在感」を味わう、という話を以前書きました。これは今も続けていて、十分に心が満たされてるのですが、そろそろその先にそろそろ進みたい。",
+    "image": "https://www.techno-edge.net/imgs/rss/30691.jpg",
+    "fetched_at": "2026-04-04 15:11:51",
+    "ja_summary": "・Grokで生成した妻のAIアバターと音声対話ができるシステムをClaude Codeで開発。\n・iPhoneからアクセスし、大画面上のアバターとリアルタイムで会話が可能。\n・静止画のアバターにリップシンク（口パク）を実装し、存在感を高める仕組みを実現。"
+  },
+  {
+    "title": "AIクローラーにだけ課金する。Hono + x402で実現するCloudflare Workers上のAIペイウォール",
+    "link": "https://zenn.dev/jphfa/articles/x402-ai-crawler-monetization",
+    "source": "Zenn Trends",
+    "published": "Fri, 03 Apr 2026 13:17:22 GMT",
+    "summary": "Cloudflare Workers + D1で運用しているサイトに、AIクローラーだけを対象としたx402ペイウォールを導入した話。人間には広告なし・Cookie/トラッカーなし・完全無料。AIボットだけが402 Payment Requiredを受け取る。Honoのミドルウェア設計のおかげで、これが驚くほどシンプルに実装できた。\n\n 背景: 検索上位に来ると、AIが大量にやってくる\nBerghainの16年分のDJ出演記録を収めたデータベースをCloudflare Workers + D1で運用しています。\nhttps://berghain.ravers.workers.dev\n\n\n...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--aSTv0Tqk--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%25E3%2582%25AF%25E3%2583%25AD%25E3%2583%25BC%25E3%2583%25A9%25E3%2583%25BC%25E3%2581%25AB%25E3%2581%25A0%25E3%2581%2591%25E8%25AA%25B2%25E9%2587%2591%25E3%2581%2599%25E3%2582%258B%25E3%2580%2582Hono%2520%252B%2520x402%25E3%2581%25A7%25E5%25AE%259F%25E7%258F%25BE%25E3%2581%2599%25E3%2582%258BCloudflare%2520Workers%25E4%25B8%258A%25E3%2581%25AEAI%25E3%2583%259A%25E3%2582%25A4%25E3%2582%25A6%25E3%2582%25A9%25E3%2583%25BC%25E3%2583%25AB%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:jphfa%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzlmMGQ1ZWNlNTUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-04-04 15:11:54",
+    "ja_summary": "・Cloudflare Workers等の技術を使い、AIクローラーのみを対象とした課金（402 Payment Required）を導入。\n・人間に対しては完全無料で広告やトラッカーも排除し、利便性を損なわずにAI学習へのデータ無断利用を防ぐ。\n・Honoのミドルウェアを活用することで、複雑な処理をシンプルな実装で実現することに成功。"
+  },
+  {
+    "title": "AI活用した運用改善v01",
+    "link": "https://speakerdeck.com/novi_tanaka/ai-usedv01",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-03-23T08:04:59-04:00",
+    "summary": "OpenAIによる作成：\n・実施結果のレポート作成\n・AI,LLM活用した運用改善の概要\n※障害検知をトリガーに自立したプラン作成・評価・検証・対応までの一連の実装対処にむけて\n※一部、仮説箇所も含む",
+    "image": "https://files.speakerdeck.com/presentations/f6dc6a1d8e0a4b65bc2aef60591faadf/preview_slide_0.jpg?38838472",
+    "fetched_at": "2026-04-04 15:11:56",
+    "ja_summary": "・AIによる運用レポート作成の自動化と活用スキームを策定。\n・障害検知を起点に、解決策の立案から検証までを自動化する仕組みを構築中。\n・一部仮説を含みつつ、自律的な障害対応フローの実装を目指す。"
+  },
+  {
     "title": "OpenAI acquires TBPN",
     "link": "https://openai.com/index/openai-acquires-tbpn",
     "source": "OpenAI",
@@ -968,35 +998,5 @@
     "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03527/030300002/topm.jpg?20220512",
     "fetched_at": "2026-04-03 05:07:06",
     "ja_summary": "・Windows 11の「メモ帳」が、書式設定や置換など本格的な編集機能を備えた高機能アプリに進化。\n・マークダウン形式に対応したほか、生成AIによる文章作成や編集サポートも利用可能。\n・シンプルなテキストエディタから、文書作成にも活用できる実用的なツールへ強化。"
-  },
-  {
-    "title": "AIエージェント時代に台頭する「FDE」、SHIFTと富士通が挑む脱人月",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03509/032400005/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "AI（人工知能）エージェントがSIerのビジネスモデルをも変えようとしている。「御用聞き」で顧客の要望を聞き取り、仕様を固め、設計し、人海戦術で実装して納品するといったビジネスモデルが通用しないシステム構築の現場が、AI導入を契機に増えているのだ。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03509/032400005/topm.jpg?20220512",
-    "fetched_at": "2026-04-03 05:07:07",
-    "ja_summary": "AIの進化により、従来の人海戦術（人月単価）に頼るSIerのビジネスモデルが限界を迎えつつある。\nSHIFTと富士通は、AIを活用した「FDE（機能駆動型開発）」を推進し、脱・人月モデルへの転換を急ぐ。\nシステム開発の効率化と品質向上を目指し、AIエージェント時代に適応した新たな提供価値を模索している。"
-  },
-  {
-    "title": "文書からAIで音声生成、「ElevenLabs」は自然な発話で解説動画にも",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/02737/032700055/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "米ElevenLabs（イレブンラボ）が提供する「ElevenLabs」は音声生成AI（人工知能）サービスだ。従来の機械的にテキストを読み上げる音声サービスとは異なり、抑揚や感情表現を再現し、人が話しているような音声を生成できるのが特徴だ。日本語を含む70以上の言語に対応する。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/02737/032700055/topm.jpg?20220512",
-    "fetched_at": "2026-04-03 05:07:07",
-    "ja_summary": "要約の生成に失敗しました。"
-  },
-  {
-    "title": "三菱電機、AIでサーボシステムのパラメーター調整回数9割削減",
-    "link": "https://xtech.nikkei.com/atcl/nxt/news/24/03157/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "三菱電機と産業技術総合研究所（産総研）は、サーボシステムのパラメーター調整の手間を軽減するAI（人工知能）技術を開発した。産業機械の物理モデルを活用して膨大な組み合わせの中から適切なパラメーターを効率的に絞り込むことにより、パラメーターの調整回数を従来比で90％減らせるとする。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/news/24/03157/topm.jpg?20220512",
-    "fetched_at": "2026-04-03 05:07:08",
-    "ja_summary": "・三菱電機と産総研が、産業機械のサーボ調整を効率化するAI技術を開発。\n・物理モデルを活用し、膨大な設定値から最適な条件を高速で絞り込む。\n・調整回数を従来比で9割削減し、産業機械の導入やメンテナンスの手間を大幅に低減。"
   }
 ]
