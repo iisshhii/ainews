@@ -1,5 +1,55 @@
 [
   {
+    "title": "OpenAI、Codexを従量課金に　Business料金も値下げ",
+    "link": "https://www.watch.impress.co.jp/docs/news/2099029.html",
+    "source": "Impress Watch",
+    "published": "",
+    "summary": "OpenAIは2日(米国時間)、コーディングエージェント「Codex」において、従量課金制の料金プランを提供開始した。ChatGPT BusinessおよびEnterprise向けに、固定料金なしでCodexの全機能を利用できる。また、ChatGPT Businessの年間料金も値下げする。",
+    "image": "https://www.watch.impress.co.jp/img/ipw/list/2099/029/01.jpg",
+    "fetched_at": "2026-04-06 07:57:37",
+    "ja_summary": "・OpenAIが「Codex」を従量課金制に移行し、固定費なしで全機能が利用可能に。\n・ChatGPT BusinessおよびEnterpriseのユーザーが対象。\n・ChatGPT Businessの年間料金も値下げを実施。"
+  },
+  {
+    "title": "グーグル、高コスパの動画生成AI「Veo 3.1 Lite」発表",
+    "link": "https://japan.cnet.com/article/35245947/",
+    "source": "CNET Japan",
+    "published": "",
+    "summary": "グーグルは、動画生成AI「Veo 3.1」の低コスト版となる「Veo 3.1 Lite」を発表した。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35245947/\"><img src=\"https://japan.cnet.com/storage/2026/04/02/a6e244f551a27252d7ff296548324028/t/184/138/d/veo31lite_1280x960.jpg\" /></a>",
+    "image": "https://japan.cnet.com/storage/2026/04/02/a6e244f551a27252d7ff296548324028/t/184/138/d/veo31lite_1280x960.jpg",
+    "fetched_at": "2026-04-06 07:57:40",
+    "ja_summary": "・Googleが動画生成AI「Veo 3.1」の軽量・低コスト版「Veo 3.1 Lite」を発表。\n・生成コストを抑えることで、より手軽な動画制作を実現。\n・高性能モデルの機能を維持しつつ、利用のハードルを下げた新モデル。"
+  },
+  {
+    "title": "ブラウザ上で完結するAI校正付き無料OCRツール「NDLOCR-Lite Web AI」登場。国立国会図書館「NDLOCR-Lite」を活用（生成AIクローズアップ）",
+    "link": "https://www.techno-edge.net/article/2026/04/06/4972.html",
+    "source": "TechnoEdge",
+    "published": "Mon, 06 Apr 2026 07:44:00 +0900",
+    "summary": "1週間の気になる生成AI技術・研究をいくつかピックアップして解説する連載「生成AIウィークリー」から、特に興味深いAI技術や研究にスポットライトを当てる生成AIクローズアップ。",
+    "image": "https://www.techno-edge.net/imgs/rss/30697.jpg",
+    "fetched_at": "2026-04-06 07:57:53",
+    "ja_summary": "・国立国会図書館のOCR技術を活用した無料Webツール「NDLOCR-Lite Web AI」が公開。\n・ブラウザ上で完結し、AIによる高度な校正機能で画像のテキスト化を効率化。\n・インストール不要で、手軽に高精度な文字認識を利用可能。"
+  },
+  {
+    "title": "研究効率を爆上げするAIツールまとめ（論文調査〜執筆まで）",
+    "link": "https://qiita.com/Milab_honda/items/8577b96433491173bf4e",
+    "source": "Qiita (Popular)",
+    "published": "2026-03-29T13:27:36+09:00",
+    "summary": "# はじめに\n\n私は機械知能研究室に所属し，CV分野の研究をしている．  \n本研究室では，画像認識および機械学習を基盤とした人工知能技術を中心に，視覚情報から有用な情報を自動的に獲得するための研究に取り組んでいる．  \n興味があれば [研究室HP](https://cu-milab.github.io/milab/jp/) を参照されたい．\n\n## 本題\n\n論文調査に1日かかっていないだろうか．\n",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnNlY3VyZS5ncmF2YXRhci5jb20lMkZhdmF0YXIlMkZhZTM1MDdiZDcyZDIzMmU3OWNmMDVlZWYwN2UyZGE4Mz9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9YjgzZjEzMzFmMTQ4ODY2OGM0MjlmZjVkMDIyNWY3ODI%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkZjYTU0ZWJkNjBmYTVkMDdmNTVmYWY1YjVjYTAxMDhlZjM5MjJkNDk1JTJGb3JpZ2luYWwuanBnJTNGMTc2MTAzMTY4NT9peGxpYj1yYi00LjAuMCZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz00OTBiMDk1ZWM3MjI1MDQ1OTkwMzA1MjFmZjE1YWNkZg%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D9be3ca84af0bd581705847cf74d50052?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUU3JUEwJTk0JUU3JUE5JUI2JUU1JThBJUI5JUU3JThFJTg3JUUzJTgyJTkyJUU3JTg4JTg2JUU0JUI4JThBJUUzJTgxJTkyJUUzJTgxJTk5JUUzJTgyJThCQUklRTMlODMlODQlRTMlODMlQkMlRTMlODMlQUIlRTMlODElQkUlRTMlODElQTglRTMlODIlODElRUYlQkMlODglRTglQUIlOTYlRTYlOTYlODclRTglQUElQkYlRTYlOUYlQkIlRTMlODAlOUMlRTUlOUYlQjclRTclQUQlODYlRTMlODElQkUlRTMlODElQTclRUYlQkMlODkmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1jMzM1YjhjMmQyMzIxNzVmMDhkZDMyODQxNjkyZjQ2YQ&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBNaWxhYl9ob25kYSZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTBkMGQ4NDQxMzIzMjA1MjhkMmQ1N2IxNDg4YjBiZDFk&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=5Lit6YOo5aSn5a2mIOapn-aisOefpeiDveeglOeptuWupA&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=ae4e861b5d60d05a6047885dbacacaa3",
+    "fetched_at": "2026-04-06 07:58:05",
+    "ja_summary": "・研究効率を劇的に向上させるためのAIツールを紹介。\n・論文調査から執筆までの各プロセスを効率化。\n・研究時間を短縮し、作業の生産性を最大化する。"
+  },
+  {
+    "title": "AIに「いい感じに作って」と言うのをやめたら、開発が回り出した — Spec-Driven Development 実践ガイド",
+    "link": "https://qiita.com/akira_papa_AI/items/5f66b2b289994e4a0256",
+    "source": "Qiita (Popular)",
+    "published": "2026-03-27T07:52:14+09:00",
+    "summary": "## はじめに — AIに雑に頼むと「速く間違う」だけ\n\nAIに「いい感じに作って」と言って、本当に「いい感じ」のものが返ってきたこと、ありますか...?\n\nちょっと考えてみましょう。こんなプロンプトを書いたことはないでしょうか。\n\n```\nユーザー登録機能を作って\n```\n\nで、返ってくるコードは、たしかに「動く」。\n\nでも、メールアドレスのバリデーションがない。パスワードの強度チェックもない。",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0MzUyMzMlMkYzYWVhMjJjODY0NGRjN2RhNzNhYmNiZWViNzNiMzQ5NTY1ZjFhYzg3JTJGeF9sYXJnZS5wbmclM0YxNzQzODkzNzQwP2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz0zYzAxZGY0NTQwNDA3MDkxOWU4ZDc1YjJmMGMwODg1MQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D57d66a48ec5d58fdc4e5256f39ac787a?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9QUklRTMlODElQUIlRTMlODAlOEMlRTMlODElODQlRTMlODElODQlRTYlODQlOUYlRTMlODElOTglRTMlODElQUIlRTQlQkQlOUMlRTMlODElQTMlRTMlODElQTYlRTMlODAlOEQlRTMlODElQTglRTglQTglODAlRTMlODElODYlRTMlODElQUUlRTMlODIlOTIlRTMlODIlODQlRTMlODIlODElRTMlODElOUYlRTMlODIlODklRTMlODAlODElRTklOTYlOEIlRTclOTklQkElRTMlODElOEMlRTUlOUIlOUUlRTMlODIlOEElRTUlODclQkElRTMlODElOTclRTMlODElOUYlMjAlRTIlODAlOTQlMjBTcGVjLURyaXZlbiUyMERldmVsb3BtZW50JTIwJUU1JUFFJTlGJUU4JUI3JUI1JUUyJTgwJUE2JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9OWU4ZDNmZDVlMWI0YzI2MDVmMWUwNTk0MTUxZWYzYWM&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBha2lyYV9wYXBhX0FJJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9Njg4MDRmOGExYzc3N2U4YTc5ZDg2NzcxYzljNzViN2U&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=746e8ae96648e1fdbeb44299f12d5f1c",
+    "fetched_at": "2026-04-06 07:58:05",
+    "ja_summary": "AIに「いい感じに」と曖昧な指示を出すと、品質の低いコードしか生成されない。\n開発を成功させるには、要件を明確に定義する「Spec-Driven Development」の実践が不可欠。\n詳細な仕様を伝えてからAIに実装させることで、手戻りを防ぎ効率を最大化できる。"
+  },
+  {
     "title": "AI時代の企業競争力はCEOの理解力で決まる",
     "link": "https://japan.zdnet.com/article/35245979/",
     "source": "ZDNET Japan",
@@ -948,55 +998,5 @@
     "image": "https://www.techno-edge.net/imgs/rss/30678.jpg",
     "fetched_at": "2026-04-03 21:44:06",
     "ja_summary": "・MacBookのローカルAI「mazzaineo」にブラウザ完結型のWebターミナルを追加。\n・Apple Silicon向け推論エンジン「SwiftLM」を統合し、処理速度を向上。\n・8GBメモリ環境でも効率的に動作するAI開発環境を強化。"
-  },
-  {
-    "title": "Ruby 4.0 にアップデートする前に Bundler 4.0 と Dependabot について深掘り調査してみた",
-    "link": "https://zenn.dev/leaner_dev/articles/deep-dive-bundler-4-0-and-dependabot",
-    "source": "Zenn Trends",
-    "published": "Thu, 02 Apr 2026 23:35:52 GMT",
-    "summary": "はじめに\nHello, world. 森塚 です。\n昨年クリスマスに Ruby 4.0 がリリースされ、RubyKaigi 2026 も開催までいよいよ残り 1か月 を切ったので RubyKaigi までに Ruby 4.0 に上げようと最近アップデート業をしています。\n今回は Ruby 4.0 へのアップデートの前に Bundler 4.0 へのアップデートを進めていた際に調べたことを記事にまとめてみました。\nまだアップデートしていない方への参考になれば幸いです。\n\n 経緯\nRuby 4.0 へのアップデートを進めるにあたり、先に Bundler 4.0 へのアップデートを行う必要...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--OzR-unNF--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Ruby%25204.0%2520%25E3%2581%25AB%25E3%2582%25A2%25E3%2583%2583%25E3%2583%2597%25E3%2583%2587%25E3%2583%25BC%25E3%2583%2588%25E3%2581%2599%25E3%2582%258B%25E5%2589%258D%25E3%2581%25AB%2520Bundler%25204.0%2520%25E3%2581%25A8%2520Dependabot%2520%25E3%2581%25AB%25E3%2581%25A4%25E3%2581%2584%25E3%2581%25A6%25E6%25B7%25B1%25E6%258E%2598%25E3%2582%258A%25E8%25AA%25BF%25E6%259F%25BB%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:sanfrecce_osaka%2528%25E6%25A3%25AE%25E5%25A1%259A...%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzhhNjFkZTAyMDUuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2583%25AA%25E3%2583%25BC%25E3%2583%258A%25E3%2583%25BC%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2p4UjRWUGFUZ19VN1VUaVE5MEFxWGJMVjJYRTN1bVpCQzZIQU81Rmc9czI1MC1j%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-    "fetched_at": "2026-04-03 20:52:30",
-    "ja_summary": "Ruby 4.0への移行に向け、先行して行うべきBundler 4.0へのアップデート手順と注意点を調査・解説。\nアップデート作業の先行指標として、Bundlerの変更点やDependabotへの影響をまとめた。\nこれからRuby 4.0へ移行する開発者にとって、トラブルを防ぐための有益な知見となっている。"
-  },
-  {
-    "title": "ハーネスエンジニアリングの先へ — VSDD × CoDDで「実装品質」と「変更時の整合性」を両立させてみた",
-    "link": "https://zenn.dev/sc30gsw/articles/bbb8b3c2fff1f6",
-    "source": "Zenn Trends",
-    "published": "Thu, 02 Apr 2026 10:37:14 GMT",
-    "summary": "はじめに\n以前、私はAI支援開発の品質問題を解決するVSDDという手法をプラグイン化したvsdd-claude-codeを作りました。\nhttps://zenn.dev/sc30gsw/articles/1373752d9713b3\nVSDDとは、Verified Spec-Driven Development（検証済み仕様駆動開発） のことで、SDD（仕様駆動開発）・TDD（テスト駆動開発）・VDD（検証駆動開発）という3つの手法を1つのワークフローに統合するハーネスエンジニアリングの1つです。\n一方、ハーネスエンジニアリングとは、AIエージェントの行動をHook・Skill・ルー...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--WDmfRb-o--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%258F%25E3%2583%25BC%25E3%2583%258D%25E3%2582%25B9%25E3%2582%25A8%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%258B%25E3%2582%25A2%25E3%2583%25AA%25E3%2583%25B3%25E3%2582%25B0%25E3%2581%25AE%25E5%2585%2588%25E3%2581%25B8%2520%25E2%2580%2594%2520VSDD%2520%25C3%2597%2520CoDD%25E3%2581%25A7%25E3%2580%258C%25E5%25AE%259F%25E8%25A3%2585%25E5%2593%2581%25E8%25B3%25AA%25E3%2580%258D%25E3%2581%25A8%25E3%2580%258C%25E5%25A4%2589%25E6%259B%25B4%25E6%2599%2582%25E3%2581%25AE%25E6%2595%25B4%25E5%2590%2588%25E6%2580%25A7%25E3%2580%258D%25E3%2582%2592%25E4%25B8%25A1%25E7%25AB%258B%25E3%2581%2595%25E3%2581%259B%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:kaito%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2VmZDZhMGM5YWUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-    "fetched_at": "2026-04-03 20:52:31",
-    "ja_summary": "AIによる開発で「実装品質」と「変更時の整合性」を両立させる手法「VSDD」と、AIの制御技術「CoDD」を組み合わせた開発フレームワークを解説。\nAIエージェントの行動を管理する「ハーネスエンジニアリング」を高度化し、仕様に基づいた堅実な実装と柔軟な仕様変更を可能にする。\n従来の手法を発展させ、開発効率とコードの信頼性を同時に高めるための新たなワークフローを提示している。"
-  },
-  {
-    "title": "Stitch × Figma Make × Claude Code で個人サイトがすんなり完成した話",
-    "link": "https://zenn.dev/sunagaku/articles/stitch-figmamake-design-flow",
-    "source": "Zenn Trends",
-    "published": "Thu, 02 Apr 2026 09:47:35 GMT",
-    "summary": "はじめに\nAIを使えばデザインも簡単に作れる時代になりました。Figma Make、Stitch、v0 など、プロンプトを入力するだけでUIを生成してくれるツールがどんどん増えています。\nただ、実際に使ってみると「それっぽいもの」は作れるけど、自分が本当に納得するデザインにたどり着くのは意外と難しいと感じた方も多いのではないでしょうか。\n\nいきなりAIに作らせても、漠然とした指示だと微妙なデザインが出てくる\n何度も修正するうちにAIクレジットが足りなくなる\nデザイン作成後に実装させる時にも手間がかかる\n\n僕自身も個人サイト（sunagaku.com）を作る際に同じ課題を感じていました...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--Pepf4ZcI--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Stitch%2520%25C3%2597%2520Figma%2520Make%2520%25C3%2597%2520Claude%2520Code%2520%25E3%2581%25A7%25E5%2580%258B%25E4%25BA%25BA%25E3%2582%25B5%25E3%2582%25A4%25E3%2583%2588%25E3%2581%258C%25E3%2581%2599%25E3%2582%2593%25E3%2581%25AA%25E3%2582%258A%25E5%25AE%258C%25E6%2588%2590%25E3%2581%2597%25E3%2581%259F%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%25B9%25E3%2583%258A%25E3%2582%25AC%25E3%2582%25AF%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzJkNDhmZDc4ZTYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-    "fetched_at": "2026-04-03 20:52:31",
-    "ja_summary": "・AIによるUI生成は便利だが、抽象的な指示では納得のいくデザインにならず、修正の手間やコストも課題。\n・「Stitch」「Figma Make」「Claude Code」を組み合わせることで、理想のUI作成と実装を効率的に実現。\n・試行錯誤の末、個人サイト構築のプロセスを最適化し、短時間での完成に成功した事例。"
-  },
-  {
-    "title": "AIネイティブな時代への準備",
-    "link": "https://qiita.com/jw-automation/items/c24b6e3d879176b27dff",
-    "source": "Qiita (Popular)",
-    "published": "2026-03-29T22:38:32+09:00",
-    "summary": "Codingエージェントの進化が日々凄まじいですが、自分の肌感覚としても感じている、今年～来年のメイントレンドになりそうな事をまとめてみました。\n\n領域や組織規模によるので一概には当然言えないですが、簡単な社内での振り返りやディスカッションのきっかけにして頂ければ嬉しいです。\n\n## 1. ノーコード/ローコードは、AI時代にはボトルネックになりうる\n\n\n**ノーコード/ローコードは短期的な立ち上",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0MzEzMDYlMkY2ZmZjNGM5MTIwNDk0ZjUwOGVjMDk2MDJjYzY1YTNhMjliZWZlODA1JTJGbGFyZ2UucG5nJTNGMTU4ODQ4Mjk2MT9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9YzFhZWMzZDJlNGFkNTkxZGYyY2RmMzhiYTE2NjVhZDI%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D7dd8f6650456cadb38e6b2cce6b8e2c6?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9QUklRTMlODMlOEQlRTMlODIlQTQlRTMlODMlODYlRTMlODIlQTMlRTMlODMlOTYlRTMlODElQUElRTYlOTklODIlRTQlQkIlQTMlRTMlODElQjglRTMlODElQUUlRTYlQkElOTYlRTUlODIlOTkmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz00ZTFjZmU4YmYzYmEwNDFmYWUwMjUwYjAyMzcyZDY3Ng&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBqdy1hdXRvbWF0aW9uJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9ZmRmNjBhN2UwM2VhMDRhYjU3ZjkwZjQ1ZDZhY2QwODk&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=f6a9a75e46c8efb89f4f1aed51efbbed",
-    "fetched_at": "2026-04-03 20:52:34",
-    "ja_summary": "・AIエージェントの進化により、従来のノーコード/ローコードツールが開発のボトルネックになる可能性がある。\n・AIが直接コードを生成する時代では、ツール特有の制約よりも、AIと連携しやすい汎用的な設計が重要になる。\n・今年から来年にかけて、AI開発環境への適応が組織の生産性を左右する大きなトレンドとなる。"
-  },
-  {
-    "title": "AWS DevOps Agent or Kiro の使いどころを考える_20260402",
-    "link": "https://speakerdeck.com/masakiokuda/aws-devops-agent-or-kiro-noshi-idokorowokao-eru-20260402",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-04-03T06:27:21-04:00",
-    "summary": "【AI】AILT会 - vol.1\nhttps://ai-likers.connpass.com/event/386271/",
-    "image": "https://files.speakerdeck.com/presentations/c48de8f0c6b4457387be49db53b199a4/preview_slide_0.jpg?38979045",
-    "fetched_at": "2026-04-03 20:09:26",
-    "ja_summary": "・AWSのDevOpsエージェントとKiroの活用法を検討するAI技術勉強会（AILT会）が開催される。\n・DevOps業務におけるAI活用や自動化の最適解を議論する場。\n・2026年4月2日開催のconnpassイベント詳細。"
   }
 ]
