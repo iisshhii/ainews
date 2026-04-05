@@ -1,5 +1,65 @@
 [
   {
+    "title": "AI時代の企業競争力はCEOの理解力で決まる",
+    "link": "https://japan.zdnet.com/article/35245979/",
+    "source": "ZDNET Japan",
+    "published": "",
+    "summary": "生成AIの普及により、AIはIT部門のテーマから経営テーマへと完全に変わった。ボストン・コンサルティング・グループ（BCG）の調査によると、多くの企業でAI投資が急拡大しており、AI戦略の意思決定は最高情報責任者（CIO）ではなく最高経営責任者（CEO）が主導する傾向が強まっている。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35245979/\"><img src=\"https://japan.zdnet.com/storage/2026/04/03/1a2660470fffee3c23af77a7763fac14/t/184/138/d/thumb_ceo_1280.jpg\" /></a>",
+    "image": "https://japan.zdnet.com/storage/2026/04/03/1a2660470fffee3c23af77a7763fac14/t/184/138/d/thumb_ceo_1280.jpg",
+    "fetched_at": "2026-04-06 07:22:48",
+    "ja_summary": "生成AIの普及により、AI活用はIT部門の課題から経営戦略の核へと変化した。\nAIへの投資拡大に伴い、戦略の意思決定はCIOからCEO主導へ移行している。\n企業競争力を維持するためには、CEO自身のAIに対する深い理解と関与が不可欠である。"
+  },
+  {
+    "title": "Accelerating the next phase of AI",
+    "link": "https://openai.com/index/accelerating-the-next-phase-ai",
+    "source": "OpenAI",
+    "published": "Tue, 31 Mar 2026 13:00:00 GMT",
+    "summary": "OpenAI raises $122 billion in new funding to expand frontier AI globally, invest in next-generation compute, and meet growing demand for ChatGPT, Codex, and enterprise AI.",
+    "image": "https://openai.com/favicon.ico",
+    "fetched_at": "2026-04-06 07:22:50",
+    "ja_summary": "・OpenAIが1,220億ドルの巨額資金調達を実施。\n・次世代AIの開発強化とコンピューティング基盤への投資を拡大。\n・ChatGPT等の需要増に対応し、AIのグローバル展開を加速。"
+  },
+  {
+    "title": "GitHub Copilot は自ら学ぶ: Copilot Memory 入門",
+    "link": "https://zenn.dev/microsoft/articles/50863342150992",
+    "source": "Zenn Trends",
+    "published": "Sun, 05 Apr 2026 14:25:14 GMT",
+    "summary": "!\nこの記事は「GitHub Copilot のメモリ機能」についての連載記事の第1回です。2026年4月時点の情報に基づいています。\n\n\nGitHub Copilot は自ら学ぶ: Copilot Memory 入門（この記事）\nVS Code で GitHub Copilot のメモリ機能を使ってみた\nCopilot CLI で GitHub Copilot のメモリ機能を使ってみた\nCopilot Cloud Agent で GitHub Copilot のメモリ機能を使ってみた\nCopilot Memory のベストプラクティス\n\n\n\n GitHub Copilot のメモリ機能...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--LXOnXQ96--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:GitHub%2520Copilot%2520%25E3%2581%25AF%25E8%2587%25AA%25E3%2582%2589%25E5%25AD%25A6%25E3%2581%25B6%253A%2520Copilot%2520Memory%2520%25E5%2585%25A5%25E9%2596%2580%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Junya%2520Yamaguchi%2520%2528o...%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2MzZDNiN2I3OGYuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Microsoft%2520%2528%25E6%259C%2589%25E5%25BF%2597%2529%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzgxNWZkZTM3NTkuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-04-06 07:22:53",
+    "ja_summary": "・GitHub Copilotがユーザーの作業内容を記憶し、AIの回答精度を向上させる「メモリ機能」の連載を開始。\n・開発者の環境や好みに適応することで、よりパーソナライズされたコーディング支援を実現。\n・今後はVS CodeやCLI、クラウドエージェントでの実践方法や活用術を順次解説予定。"
+  },
+  {
+    "title": "Gemma 4で自律エージェントを作る — LangGraph + Podman",
+    "link": "https://zenn.dev/nekoroko/articles/7f22e9c8557aea",
+    "source": "Zenn Trends",
+    "published": "Sun, 05 Apr 2026 08:32:43 GMT",
+    "summary": "Claude CoworkもOpenClawも使わず、ローカルLLMで自律エージェントを自作した。\n理由は2つあります。1つは、クライアント案件のデータを外部APIに投げられない現場がある。。もう1つは、Gemma 4がApache 2.0で出た今、ローカルで同じことがどこまでできるのか、実務者として知っておきたかった。\nこの記事では、Gemma 4 + LangGraphを使って「タスクを受け取り、必要ならツールを使い、なければ自分でコードを書いて実行する」自律エージェントをRTX 4060 1枚で構築した全手順を共有します。\n\n 背景：AIエージェント自動実行の現在地\n2026年に入...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--Y_SU6sz8--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Gemma%25204%25E3%2581%25A7%25E8%2587%25AA%25E5%25BE%258B%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588%25E3%2582%2592%25E4%25BD%259C%25E3%2582%258B%2520%25E2%2580%2594%2520LangGraph%2520%252B%2520Podman%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%25AD%25E3%2581%2593%25E3%2582%258D%25E3%2581%2593%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzQ4Y2ZmZWUzODguanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-04-06 07:22:54",
+    "ja_summary": "・機密情報を守るため外部APIを使わず、Gemma 4とLangGraphで自律型AIエージェントをローカル環境で構築。\n・タスクの判断からコード生成・実行までをRTX 4060のPC1台で完結させる手法を解説。\n・実務レベルでローカルLLMがどこまで通用するかを検証し、その全手順を共有。"
+  },
+  {
+    "title": "Claude Code & Google Analytics(GA4)のMCPサーバ連携を色々試してみた",
+    "link": "https://zenn.dev/shinyaa31/articles/e3a1bdf4d99d80",
+    "source": "Zenn Trends",
+    "published": "Sun, 05 Apr 2026 02:09:13 GMT",
+    "summary": "直近Google Analytics(GA4)の情報について色々解析したい、アクセスしたいという要件があり、それならばClaude(Claude Code)で良い感じにやりたいね。ということで当エントリではClaude(Claude Code)からGoogle Analytics(GA4)のMCPサーバを介して諸々連携する手順について、幾つかの経路にそれぞれ言及する形でまとめたいと思います。\nベースで参考にする手順はこのあたり。\nhttps://developers.google.com/analytics/devguides/MCP?hl=ja\nhttps://www.youtube...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--Lbfq6olw--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%2520%2526%2520Google%2520Analytics%2528GA4%2529%25E3%2581%25AEMCP%25E3%2582%25B5%25E3%2583%25BC%25E3%2583%2590%25E9%2580%25A3%25E6%2590%25BA%25E3%2582%2592%25E8%2589%25B2%25E3%2580%2585%25E8%25A9%25A6%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%2597%25E3%2582%2593%25E3%2582%2584%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzg0NDMxM2IyYzAuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-04-06 07:22:54",
+    "ja_summary": "Claude CodeからGoogle Analytics(GA4)のデータを直接操作するため、MCPサーバを活用した連携手順を解説。\nGoogle公式のガイドラインに基づき、効率的に分析やデータ取得を行うための具体的な構築経路を整理。\n開発環境でClaudeを介したGA4連携を実現し、データ活用の自動化や効率化を目指すエンジニア向けの内容。"
+  },
+  {
+    "title": "Deno + Elixir + Erlang/OTP WHY & HOW",
+    "link": "https://speakerdeck.com/evadne/otp-why-and-how",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-04-03T05:10:22-04:00",
+    "summary": "Intelligent AI agents can write code that calls existing APIs in secure sandboxes, allowing higher token efficiency, better performance, and lower per-turn latency. Deno’s primitives in Rust can be integrated into such an agent harness, utilising the Elixir programming language and the Erlang/OTP runtime, which allows you to construct agentic systems that are massively concurrent and fault-tolerant.",
+    "image": "https://files.speakerdeck.com/presentations/1418f3c3e9f244caa3119fe1cd57dd45/preview_slide_0.jpg?38978468",
+    "fetched_at": "2026-04-06 07:22:55",
+    "ja_summary": "・DenoのRustベースの実行環境と、Elixir/Erlangの並行・耐障害性技術を統合。\n・AIエージェントによるコード実行の安全性、効率性、低遅延を同時に実現。\n・大規模かつ高信頼なAIエージェントシステムを構築するための新しい技術構成。"
+  },
+  {
     "title": "ZEALS社長「26年は音声AI元年」　ドラえもんを作りたかった少年が叶える未来 (Views)",
     "link": "https://business.nikkei.com/atcl/seminar/19/00030/033000753/",
     "source": "日経ビジネス 最新",
@@ -938,65 +998,5 @@
     "image": "https://files.speakerdeck.com/presentations/c48de8f0c6b4457387be49db53b199a4/preview_slide_0.jpg?38979045",
     "fetched_at": "2026-04-03 20:09:26",
     "ja_summary": "・AWSのDevOpsエージェントとKiroの活用法を検討するAI技術勉強会（AILT会）が開催される。\n・DevOps業務におけるAI活用や自動化の最適解を議論する場。\n・2026年4月2日開催のconnpassイベント詳細。"
-  },
-  {
-    "title": "研究効率を爆上げするAIツールまとめ（論文調査〜執筆まで）",
-    "link": "https://qiita.com/Milab_honda/items/8577b96433491173bf4e",
-    "source": "Qiita (Popular)",
-    "published": "2026-03-29T13:27:36+09:00",
-    "summary": "# はじめに\n\n私は機械知能研究室に所属し，CV分野の研究をしている．  \n本研究室では，画像認識および機械学習を基盤とした人工知能技術を中心に，視覚情報から有用な情報を自動的に獲得するための研究に取り組んでいる．  \n興味があれば [研究室HP](https://cu-milab.github.io/milab/jp/) を参照されたい．\n\n## 本題\n\n論文調査に1日かかっていないだろうか．\n",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnNlY3VyZS5ncmF2YXRhci5jb20lMkZhdmF0YXIlMkZhZTM1MDdiZDcyZDIzMmU3OWNmMDVlZWYwN2UyZGE4Mz9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9YjgzZjEzMzFmMTQ4ODY2OGM0MjlmZjVkMDIyNWY3ODI%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkZjYTU0ZWJkNjBmYTVkMDdmNTVmYWY1YjVjYTAxMDhlZjM5MjJkNDk1JTJGb3JpZ2luYWwuanBnJTNGMTc2MTAzMTY4NT9peGxpYj1yYi00LjAuMCZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz00OTBiMDk1ZWM3MjI1MDQ1OTkwMzA1MjFmZjE1YWNkZg%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D9be3ca84af0bd581705847cf74d50052?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUU3JUEwJTk0JUU3JUE5JUI2JUU1JThBJUI5JUU3JThFJTg3JUUzJTgyJTkyJUU3JTg4JTg2JUU0JUI4JThBJUUzJTgxJTkyJUUzJTgxJTk5JUUzJTgyJThCQUklRTMlODMlODQlRTMlODMlQkMlRTMlODMlQUIlRTMlODElQkUlRTMlODElQTglRTMlODIlODElRUYlQkMlODglRTglQUIlOTYlRTYlOTYlODclRTglQUElQkYlRTYlOUYlQkIlRTMlODAlOUMlRTUlOUYlQjclRTclQUQlODYlRTMlODElQkUlRTMlODElQTclRUYlQkMlODkmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1jMzM1YjhjMmQyMzIxNzVmMDhkZDMyODQxNjkyZjQ2YQ&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBNaWxhYl9ob25kYSZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTBkMGQ4NDQxMzIzMjA1MjhkMmQ1N2IxNDg4YjBiZDFk&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=5Lit6YOo5aSn5a2mIOapn-aisOefpeiDveeglOeptuWupA&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=ae4e861b5d60d05a6047885dbacacaa3",
-    "fetched_at": "2026-04-03 20:09:30",
-    "ja_summary": "・研究効率を最大化する論文調査から執筆までのAIツール活用術を解説。\n・論文調査にかかる時間を大幅に短縮するための効率的な手法を提案。\n・研究活動の生産性を高めたい方に向けた実践的なツール選定のヒント。"
-  },
-  {
-    "title": "「一番になりたい」──孫正義氏が語った野望　OpenAI「10兆円超」などAI革命への投資が徐々に結実",
-    "link": "https://www.itmedia.co.jp/business/articles/2604/02/news054.html",
-    "source": "ITmedia ビジネス",
-    "published": "Thu, 02 Apr 2026 11:45:00 +0900",
-    "summary": "ソフトバンクGのAI投資が実を結び始めている。OpenAI、Arm、データセンター事業などの取り組みが進展する中、孫正義氏はAI革命において「世界経済の中心的な役割を担う企業の1社になりたい」と述べた。",
-    "image": "https://image.itmedia.co.jp/business/articles/2604/02/cover_news054.jpg",
-    "fetched_at": "2026-04-03 19:26:26",
-    "ja_summary": "・ソフトバンクGのAI関連投資（OpenAI、Arm等）が成果を上げ、業績に寄与し始めている。\n・孫正義氏は、AI革命において世界経済の中心を担う企業になるという野望を強調。\n・AI分野でのエコシステム形成を進め、投資の結実と成長加速を目指す。"
-  },
-  {
-    "title": "AIに「いい感じに作って」と言うのをやめたら、開発が回り出した — Spec-Driven Development 実践ガイド",
-    "link": "https://qiita.com/akira_papa_AI/items/5f66b2b289994e4a0256",
-    "source": "Qiita (Popular)",
-    "published": "2026-03-27T07:52:14+09:00",
-    "summary": "## はじめに — AIに雑に頼むと「速く間違う」だけ\n\nAIに「いい感じに作って」と言って、本当に「いい感じ」のものが返ってきたこと、ありますか...?\n\nちょっと考えてみましょう。こんなプロンプトを書いたことはないでしょうか。\n\n```\nユーザー登録機能を作って\n```\n\nで、返ってくるコードは、たしかに「動く」。\n\nでも、メールアドレスのバリデーションがない。パスワードの強度チェックもない。",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0MzUyMzMlMkYzYWVhMjJjODY0NGRjN2RhNzNhYmNiZWViNzNiMzQ5NTY1ZjFhYzg3JTJGeF9sYXJnZS5wbmclM0YxNzQzODkzNzQwP2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz0zYzAxZGY0NTQwNDA3MDkxOWU4ZDc1YjJmMGMwODg1MQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D57d66a48ec5d58fdc4e5256f39ac787a?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9QUklRTMlODElQUIlRTMlODAlOEMlRTMlODElODQlRTMlODElODQlRTYlODQlOUYlRTMlODElOTglRTMlODElQUIlRTQlQkQlOUMlRTMlODElQTMlRTMlODElQTYlRTMlODAlOEQlRTMlODElQTglRTglQTglODAlRTMlODElODYlRTMlODElQUUlRTMlODIlOTIlRTMlODIlODQlRTMlODIlODElRTMlODElOUYlRTMlODIlODklRTMlODAlODElRTklOTYlOEIlRTclOTklQkElRTMlODElOEMlRTUlOUIlOUUlRTMlODIlOEElRTUlODclQkElRTMlODElOTclRTMlODElOUYlMjAlRTIlODAlOTQlMjBTcGVjLURyaXZlbiUyMERldmVsb3BtZW50JTIwJUU1JUFFJTlGJUU4JUI3JUI1JUUyJTgwJUE2JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9OWU4ZDNmZDVlMWI0YzI2MDVmMWUwNTk0MTUxZWYzYWM&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBha2lyYV9wYXBhX0FJJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9Njg4MDRmOGExYzc3N2U4YTc5ZDg2NzcxYzljNzViN2U&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=746e8ae96648e1fdbeb44299f12d5f1c",
-    "fetched_at": "2026-04-03 19:27:05",
-    "ja_summary": "AIに「いい感じに」と曖昧な指示を出すと不完全な成果物しか得られない。\n仕様を詳細に定義する「Spec-Driven Development（仕様駆動開発）」を導入すべきである。\n要件を明確に提示することで、AIの生成精度と開発効率が劇的に向上する。"
-  },
-  {
-    "title": "OpenAI、Codexを従量課金に　Business料金も値下げ",
-    "link": "https://www.watch.impress.co.jp/docs/news/2099029.html",
-    "source": "Impress Watch",
-    "published": "",
-    "summary": "OpenAIは2日(米国時間)、コーディングエージェント「Codex」において、従量課金制の料金プランを提供開始した。ChatGPT BusinessおよびEnterprise向けに、固定料金なしでCodexの全機能を利用できる。また、ChatGPT Businessの年間料金も値下げする。",
-    "image": "https://www.watch.impress.co.jp/img/ipw/list/2099/029/01.jpg",
-    "fetched_at": "2026-04-03 18:37:42",
-    "ja_summary": "・OpenAIがコーディングツール「Codex」を従量課金制で提供開始\n・ChatGPT Business／Enterpriseユーザーは固定費不要で全機能が利用可能\n・ChatGPT Businessの年間利用料も値下げへ"
-  },
-  {
-    "title": "グーグル、高コスパの動画生成AI「Veo 3.1 Lite」発表",
-    "link": "https://japan.cnet.com/article/35245947/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "グーグルは、動画生成AI「Veo 3.1」の低コスト版となる「Veo 3.1 Lite」を発表した。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35245947/\"><img src=\"https://japan.cnet.com/storage/2026/04/02/a6e244f551a27252d7ff296548324028/t/184/138/d/veo31lite_1280x960.jpg\" /></a>",
-    "image": "https://japan.cnet.com/storage/2026/04/02/a6e244f551a27252d7ff296548324028/t/184/138/d/veo31lite_1280x960.jpg",
-    "fetched_at": "2026-04-03 18:37:46",
-    "ja_summary": "・グーグルが動画生成AI「Veo 3.1」の低コスト版「Veo 3.1 Lite」を発表。\n・生成コストを抑えつつ、高性能な動画作成が可能。\n・より手軽に高品質な動画生成を利用できる環境を拡充。"
-  },
-  {
-    "title": "2027年は「エージェンティックAI」「変態」がキーワード　MWC 2026で見たスマホの未来",
-    "link": "https://www.techno-edge.net/article/2026/04/02/4965.html",
-    "source": "TechnoEdge",
-    "published": "Thu, 02 Apr 2026 11:15:21 +0900",
-    "summary": "2027年のスマホはAIの進化と奇抜なデザインで変態的なモデルも登場し、新たなスタイルが拡大しそうです。",
-    "image": "https://www.techno-edge.net/imgs/rss/30647.jpg",
-    "fetched_at": "2026-04-03 18:37:56",
-    "ja_summary": "2027年のスマホは、AIが自律的に動く「エージェンティックAI」が主流となる。\n奇抜なデザインの「変態スマホ」が普及し、新たな端末の形状や使い方が拡大する。\nAIの進化と形状の多様化により、スマホの概念が大きく変革される。"
   }
 ]
