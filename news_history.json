@@ -1,5 +1,35 @@
 [
   {
+    "title": "グンゼ、経理業務をAIで自動化--TOKIUM「AI明細入力」導入で年間3000時間削減へ",
+    "link": "https://japan.zdnet.com/article/35245996/",
+    "source": "ZDNET Japan",
+    "published": "",
+    "summary": "グンゼは、経理業務の効率化と高度化を目的に、TOKIUMが提供する経理AIエージェント「TOKIUM AI明細入力」を導入した。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35245996/\"><img src=\"https://japan.zdnet.com/storage/2025/04/03/94c39a03f9b0bfa21973175daf22667d/t/184/138/d/250403_paper_as_1280__261206839.jpg\" /></a>",
+    "image": "https://japan.zdnet.com/storage/2025/04/03/94c39a03f9b0bfa21973175daf22667d/t/184/138/d/250403_paper_as_1280__261206839.jpg",
+    "fetched_at": "2026-04-05 17:03:49",
+    "ja_summary": "グンゼが経理AI「TOKIUM」を導入し、請求書等の明細入力を自動化。\n手作業を削減することで、年間3000時間の業務効率化を目指す。\n経理業務の高度化と生産性向上を図るのが狙い。"
+  },
+  {
+    "title": "荒川区、AI活用のタレントマネジメント導入--適切な人材配置と育成を支援",
+    "link": "https://japan.zdnet.com/article/35245981/",
+    "source": "ZDNET Japan",
+    "published": "",
+    "summary": "荒川区は、データに基づく人材配置や育成を通じて働きやすい職場環境を実現するため、プラスアルファ・コンサルティングが提供するタレントマネジメントシステム「タレントパレット」を導入した。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35245981/\"><img src=\"https://japan.zdnet.com/storage/2025/03/17/05d4257d2a795da2665b7b6e977934d2/t/184/138/d/250317_worker_as_1280_8707039.jpeg\" /></a>",
+    "image": "https://japan.zdnet.com/storage/2025/03/17/05d4257d2a795da2665b7b6e977934d2/t/184/138/d/250317_worker_as_1280_8707039.jpeg",
+    "fetched_at": "2026-04-05 17:03:49",
+    "ja_summary": "・荒川区が職員の人材管理・育成のため、AIを活用した「タレントパレット」を導入。\n・データに基づいた適切な配置と育成を行い、働きやすい職場環境の構築を目指す。"
+  },
+  {
+    "title": "Introducing The Anthropic Institute",
+    "link": "https://www.anthropic.com/news/the-anthropic-institute",
+    "source": "Anthropic (News)",
+    "published": "Wed, 11 Mar 2026 00:00:00 +0000",
+    "summary": "Introducing The Anthropic Institute",
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20Book&amp;backgroundColor=oat",
+    "fetched_at": "2026-04-05 17:03:52",
+    "ja_summary": "AI企業Anthropicが、AIの安全性向上と社会への貢献を目的とした研究機関「The Anthropic Institute」を設立した。\nAI開発における倫理的課題やリスクを専門的に分析・研究し、安全なAI社会の実現を目指す。\n同社が掲げる「信頼性の高いAI開発」を、学術的アプローチで一層推進していく。"
+  },
+  {
     "title": "DGX SparkでGemma 4 31Bをローカル動作させ、OpenClawから使う",
     "link": "https://zenn.dev/beef_and_rice/articles/cdb8b3f77f0704",
     "source": "Zenn Trends",
@@ -968,35 +998,5 @@
     "image": "https://xtech.nikkei.com/atcl/nxt/column/18/00138/033101988/daihyo_m.jpg?20220512",
     "fetched_at": "2026-04-03 11:09:20",
     "ja_summary": "・建設業界で「フィジカルAI」への関心が高まり、産学官連携によるピッチイベントが盛況。\n・過去のi-Constructionの経験を糧に、AI活用で建設プロセスの抜本的な変革を目指す。\n・建設会社やスタートアップなど104団体が参加し、現場のDX推進に向けた機運が加速している。"
-  },
-  {
-    "title": "マイクロソフト、新AIモデル3種を公開　音声文字起こしや画像生成に対応",
-    "link": "https://japan.cnet.com/article/35245998/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "マイクロソフトは、3つの新しいモデルをリリースすると発表した。音声を文字起こしする「MAI-Transcribe-1」、音声生成モデル「MAI-Voice-1」、第2世代の画像生成モデル「MAI-Image-2」だ。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35245998/\"><img src=\"https://japan.cnet.com/storage/2026/04/03/e1d59afa049f2a165f57c20e9ff8d869/t/184/138/d/9_1280x960.jpg\" /></a>",
-    "image": "https://japan.cnet.com/storage/2026/04/03/e1d59afa049f2a165f57c20e9ff8d869/t/184/138/d/9_1280x960.jpg",
-    "fetched_at": "2026-04-03 11:09:24",
-    "ja_summary": "・マイクロソフトが新たに3つのAIモデルを発表。\n・音声の文字起こし、音声生成、画像生成の各機能を強化。\n・生成AIの対応領域を拡充し、利便性を向上させる。"
-  },
-  {
-    "title": "Claude Codeのソースコードが流出…アンソロピックは著作権でこれまでと反対の立場に",
-    "link": "https://www.businessinsider.jp/article/2604-anthropic-copyright-infringement-claude-code/",
-    "source": "Business Insider Japan",
-    "published": "Fri, 03 Apr 2026 01:30:00 GMT",
-    "summary": "Claude Codeのコードの一部がオンライン上で流出したことを受け、アンソロピックは著作権侵害を理由に削除要請を送りました。一方でアンソロピック自身も著作権問題に直面しています。",
-    "image": "https://media.loom-app.com/loom/2026/04/01/c8082651-48ba-4cc8-985f-1bf7748e13b8/original.jpg?w=1200&amp;h=630",
-    "fetched_at": "2026-04-03 11:09:25",
-    "ja_summary": "・Anthropic社が、自社の「Claude Code」流出に対し著作権侵害を理由に削除要請を実施。\n・他社の著作物を学習データに利用している同社が、皮肉にも著作権保護を主張する事態に。\n・AI開発における「著作権の権利者と利用者の立場」の矛盾が改めて浮き彫りとなった。"
-  },
-  {
-    "title": "Box CEOが語る「AI時代のコンテンツ管理・活用のポテンシャル」",
-    "link": "https://japan.zdnet.com/article/35245992/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "今回は、Box 共同創業者 兼 CEOのAaron Levie氏と、日立製作所 AI CoE HMAX ＆ AI推進センター 本部長 兼 Chief AI Transformation Officerの吉田順氏の「明言」を紹介する。\n<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35245992/\"><img src=\"https://japan.zdnet.com/storage/2026/04/03/d961cd08ab1ffdca6c6e17ccf882e7aa/t/184/138/d/sp_12matsuoka_260403_l.jpg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2026/04/03/d961cd08ab1ffdca6c6e17ccf882e7aa/t/184/138/d/sp_12matsuoka_260403_l.jpg",
-    "fetched_at": "2026-04-03 11:09:34",
-    "ja_summary": "Box CEOのアーロン・レヴィ氏と日立製作所の吉田順氏が、AI時代におけるコンテンツ管理と活用の重要性について対談。\n企業内の膨大なデータがAIを通じていかに価値を生み出すか、そのポテンシャルと戦略的意義を解説。\nAI導入による業務変革を目指すビジネスリーダーに向けた、最新の知見と展望を提示。"
   }
 ]
