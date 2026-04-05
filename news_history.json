@@ -1,5 +1,35 @@
 [
   {
+    "title": "DGX SparkでGemma 4 31Bをローカル動作させ、OpenClawから使う",
+    "link": "https://zenn.dev/beef_and_rice/articles/cdb8b3f77f0704",
+    "source": "Zenn Trends",
+    "published": "Sat, 04 Apr 2026 12:36:58 GMT",
+    "summary": "DGX SparkでGemma 4 31Bをローカル動作させ、OpenClawエージェントから使う\n2026年4月にGoogleがリリースしたオープンウェイトモデルGemma 4。その最大モデルである31Bを、NVIDIA DGX Spark上でllama.cppを使いローカルサーバーとして起動し、自作のOpenClawサンドボックス環境「suisou」から接続するまでの記録です。\n\n OpenClawとは\nOpenClaw は、LLMを使ったAIエージェントをWhatsApp・Telegram・Slack・Discordなど20以上のメッセージングプラットフォームを通じて動かすため...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--hQJ_y8Z6--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:DGX%2520Spark%25E3%2581%25A7Gemma%25204%252031B%25E3%2582%2592%25E3%2583%25AD%25E3%2583%25BC%25E3%2582%25AB%25E3%2583%25AB%25E5%258B%2595%25E4%25BD%259C%25E3%2581%2595%25E3%2581%259B%25E3%2580%2581OpenClaw%25E3%2581%258B%25E3%2582%2589%25E4%25BD%25BF%25E3%2581%2586%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:gyu-don%2520%257C%2520Takumi%2520Kato%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzY0M2E4MWQ4NjYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-04-05 16:22:09",
+    "ja_summary": "・Googleの最新モデル「Gemma 4 31B」をNVIDIA DGX Spark上でローカル環境に構築。\n・llama.cppでサーバー化し、AIエージェントプラットフォーム「OpenClaw」から接続を実現。\n・メッセージングアプリを介したLLM活用環境の自作手順を解説。"
+  },
+  {
+    "title": "Claude Codeスラッシュコマンド、Tier別に全部解説するで｜S〜分析まで完全攻略",
+    "link": "https://zenn.dev/masayan1126/books/claude-code-slash-commands",
+    "source": "Zenn Trends",
+    "published": "Sat, 04 Apr 2026 05:52:06 GMT",
+    "summary": "Claude Codeの全スラッシュコマンドをTier S/A/B/分析の4段階に分類して解説するで。コンテキスト管理・セッション継続・自動パイプラインまで、開発生産性を最大化するための活用法がぜんぶ分かるんや。",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--MFh4GA16--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci82MjgzYjkzMGFiLmpwZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg?_a=BACAGSGT",
+    "fetched_at": "2026-04-05 16:22:09",
+    "ja_summary": "・Claude Codeの全コマンドをTier別に分類し、習熟度と活用法を解説\n・コンテキスト管理から自動化まで、開発生産性を最大化する手法を網羅\n・主要機能を効率的に使いこなし、開発ワークフローを最適化する完全ガイド"
+  },
+  {
+    "title": "AIエージェント開発の新標準「ADLC」を読み解く — IBM×Anthropicのガイドへの共感と、本番運用からの実践的フィードバック",
+    "link": "https://zenn.dev/dxclab/articles/9f015ee80cd809",
+    "source": "Zenn Trends",
+    "published": "Fri, 03 Apr 2026 16:12:51 GMT",
+    "summary": "はじめに\nAIエージェントのPoCや検証は多くの現場で行われるようになりましたが、「本番環境で安定して運用する」となると、途端にハードルが上がります。従来のソフトウェア開発の常識だけでは対処しきれない課題が次々と出てくるからです。\nこうした課題に対して、IBMとAnthropicが共同で「ADLC（Agentic Development Lifecycle）」というガイドラインを公開しています。\nhttps://newsroom.ibm.com/2025-10-07-2025-ibm-and-anthropic-partner-to-advance-enterprise-softwa...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--5TwdQiyD--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588%25E9%2596%258B%25E7%2599%25BA%25E3%2581%25AE%25E6%2596%25B0%25E6%25A8%2599%25E6%25BA%2596%25E3%2580%258CADLC%25E3%2580%258D%25E3%2582%2592%25E8%25AA%25AD%25E3%2581%25BF%25E8%25A7%25A3%25E3%2581%258F%2520%25E2%2580%2594%2520IBM%25C3%2597Anthropic%25E3%2581%25AE%25E3%2582%25AC%25E3%2582%25A4%25E3%2583%2589%25E3%2581%25B8%25E3%2581%25AE%25E5%2585%25B1%25E6%2584%259F%25E3%2581%25A8%25E3%2580%2581%25E6%259C%25AC%25E7%2595%25AA%25E9%2581%258B%25E7%2594%25A8%25E3%2581%258B%25E3%2582%2589...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:nsatoh%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzNlN2I4MjBlOGUuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:DXC%2520Lab%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jS2hqYmxfVmpwUVFLXzJJdUVPZ0FsM0JZMDhJUUV5TVVrTFdadHpxVkRvM3poRExnPXM5Ni1j%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-04-05 16:22:10",
+    "ja_summary": "AIエージェントの本番運用には既存のソフトウェア開発とは異なる課題がある。\nIBMとAnthropicが共同開発したガイドライン「ADLC」は、開発から運用までの標準化を目指すもの。\n本記事では、このガイドラインの意義を解説し、実際の現場での実践的なフィードバックを提示する。"
+  },
+  {
     "title": "【いつモノコト】AIを装着するメガネ「OWNDAYS CONNECT」　1.6万円の大きな魅力",
     "link": "https://www.watch.impress.co.jp/docs/series/itsmo/2095176.html",
     "source": "Impress Watch",
@@ -968,35 +998,5 @@
     "image": "https://japan.zdnet.com/storage/2026/04/03/d961cd08ab1ffdca6c6e17ccf882e7aa/t/184/138/d/sp_12matsuoka_260403_l.jpg",
     "fetched_at": "2026-04-03 11:09:34",
     "ja_summary": "Box CEOのアーロン・レヴィ氏と日立製作所の吉田順氏が、AI時代におけるコンテンツ管理と活用の重要性について対談。\n企業内の膨大なデータがAIを通じていかに価値を生み出すか、そのポテンシャルと戦略的意義を解説。\nAI導入による業務変革を目指すビジネスリーダーに向けた、最新の知見と展望を提示。"
-  },
-  {
-    "title": "グンゼ、経理業務をAIで自動化--TOKIUM「AI明細入力」導入で年間3000時間削減へ",
-    "link": "https://japan.zdnet.com/article/35245996/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "グンゼは、経理業務の効率化と高度化を目的に、TOKIUMが提供する経理AIエージェント「TOKIUM AI明細入力」を導入した。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35245996/\"><img src=\"https://japan.zdnet.com/storage/2025/04/03/94c39a03f9b0bfa21973175daf22667d/t/184/138/d/250403_paper_as_1280__261206839.jpg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2025/04/03/94c39a03f9b0bfa21973175daf22667d/t/184/138/d/250403_paper_as_1280__261206839.jpg",
-    "fetched_at": "2026-04-03 11:09:34",
-    "ja_summary": "・グンゼが経理AI「TOKIUM AI明細入力」を導入。\n・経理業務の自動化により、年間3000時間の工数削減を実現する。\n・業務の効率化と高度化を図り、生産性の向上を目指す。"
-  },
-  {
-    "title": "荒川区、AI活用のタレントマネジメント導入--適切な人材配置と育成を支援",
-    "link": "https://japan.zdnet.com/article/35245981/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "荒川区は、データに基づく人材配置や育成を通じて働きやすい職場環境を実現するため、プラスアルファ・コンサルティングが提供するタレントマネジメントシステム「タレントパレット」を導入した。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35245981/\"><img src=\"https://japan.zdnet.com/storage/2025/03/17/05d4257d2a795da2665b7b6e977934d2/t/184/138/d/250317_worker_as_1280_8707039.jpeg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2025/03/17/05d4257d2a795da2665b7b6e977934d2/t/184/138/d/250317_worker_as_1280_8707039.jpeg",
-    "fetched_at": "2026-04-03 11:09:34",
-    "ja_summary": "荒川区は、職員の適材適所と育成を強化するため、AIを活用したタレントマネジメントシステムを導入しました。\nデータに基づいた人事配置を行うことで、働きやすい職場環境の構築を目指します。\n導入システムには、プラスアルファ・コンサルティングの「タレントパレット」を採用しました。"
-  },
-  {
-    "title": "Introducing The Anthropic Institute",
-    "link": "https://www.anthropic.com/news/the-anthropic-institute",
-    "source": "Anthropic (News)",
-    "published": "Wed, 11 Mar 2026 00:00:00 +0000",
-    "summary": "Introducing The Anthropic Institute",
-    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20Book&amp;backgroundColor=oat",
-    "fetched_at": "2026-04-03 11:09:38",
-    "ja_summary": "・AI開発企業Anthropicが、社会への影響と安全な活用を研究する「Anthropic Institute」を設立。\n・AIが経済や社会にもたらす課題を調査し、政策提言や責任あるAI導入を支援。\n・技術開発だけでなく、AIの社会的リスク管理と安全な利活用を推進する拠点とする狙い。"
   }
 ]
