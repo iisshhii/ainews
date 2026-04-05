@@ -1,5 +1,35 @@
 [
   {
+    "title": "コーディング規約のAgent Skillを作って実装時の手戻りを減らそう",
+    "link": "https://zenn.dev/j____takumi/articles/create_agent_skill",
+    "source": "Zenn Trends",
+    "published": "Sat, 04 Apr 2026 16:33:25 GMT",
+    "summary": "この記事で分かること\n\nAI実装で毎回同じレビューをしているときに、Agent Skillで前提共有を楽にする考え方\n最初に入れた3項目と、あとから足した観点\nGitHub Copilotで試すときの配置場所と、効きにくいときの見直しポイント\n\n\n AIに実装させるたび、同じ指摘をしていた\n私はKotlin Multiplatformで動くスマホアプリを、AIを使いながら個人開発しています。\nAIに実装を任せると速い一方で、画面文言の直書き、Viewへのロジック混在、!! や強制アンラップのように、毎回ほぼ同じ指摘が残りがちでした。1つずつは小さくても、これが続くと差分レビューより前...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--og_K9lim--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2587%25E3%2582%25A3%25E3%2583%25B3%25E3%2582%25B0%25E8%25A6%258F%25E7%25B4%2584%25E3%2581%25AEAgent%2520Skill%25E3%2582%2592%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%25A6%25E5%25AE%259F%25E8%25A3%2585%25E6%2599%2582%25E3%2581%25AE%25E6%2589%258B%25E6%2588%25BB%25E3%2582%258A%25E3%2582%2592%25E6%25B8%259B%25E3%2582%2589%25E3%2581%259D%25E3%2581%2586%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:j____takumi%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzgxYTkyMzY4OTcuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-04-05 19:06:52",
+    "ja_summary": "AIによるコード生成時の繰り返し修正を減らすため、「Agent Skill（AIへの指示テンプレート）」を活用してコーディング規約を事前共有する手法を解説。\nAIに指示する項目を規約化しGitHub Copilotに組み込むことで、手戻りを防ぎレビュー工数を大幅に削減する。\n効きにくい場合の改善ポイントや、運用のコツについても網羅している。"
+  },
+  {
+    "title": "RAGの最適化手法が多すぎて迷子になったので、整理したら全体像が見えた",
+    "link": "https://zenn.dev/nagi98/articles/260405-rag-optimization-overview",
+    "source": "Zenn Trends",
+    "published": "Sat, 04 Apr 2026 15:36:06 GMT",
+    "summary": "なぜRAGを学んだか\nRAGという技術を知り、検索の仕組みにもこうした手法が使われていることに興味を持ったのがきっかけ。自分でもRAGを活用した検索アプリを作ってみたいと思った。\nとりあえず、基礎から応用まで網羅してるRAGの教材を読み込んだ。ボリュームはかなりあった。\n読む前の自分の理解はこの程度。\n\nドキュメントをベクトル化して、質問が来たら似てるやつ検索して、LLMに渡す。\n\n以上だけだった。\n間違ってはないが、でも教材を読み進めると、最適化手法が次から次に出てくる。\nMulti Query、RAG-Fusion、HyDE、Decomposition、Step Back、RAP...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--CZxTywfu--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:RAG%25E3%2581%25AE%25E6%259C%2580%25E9%2581%25A9%25E5%258C%2596%25E6%2589%258B%25E6%25B3%2595%25E3%2581%258C%25E5%25A4%259A%25E3%2581%2599%25E3%2581%258E%25E3%2581%25A6%25E8%25BF%25B7%25E5%25AD%2590%25E3%2581%25AB%25E3%2581%25AA%25E3%2581%25A3%25E3%2581%259F%25E3%2581%25AE%25E3%2581%25A7%25E3%2580%2581%25E6%2595%25B4%25E7%2590%2586%25E3%2581%2597%25E3%2581%259F%25E3%2582%2589%25E5%2585%25A8%25E4%25BD%2593%25E5%2583%258F%25E3%2581%258C%25E8%25A6%258B%25E3%2581%2588%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:nagi98%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzFhNmMwNzU4ZWYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-04-05 19:06:52",
+    "ja_summary": "RAGの最適化手法が多すぎて全体像を把握しにくい現状を整理・体系化。\nMulti QueryやHyDEなど、複雑化する発展的な手法の役割を明確化した。\n基礎から応用までを網羅することで、迷いやすいRAG開発の指針を提示している。"
+  },
+  {
+    "title": "Claude Code の流出したソースコードを GitHub に公開した人が著作権違反を回避した方法がヤバすぎ",
+    "link": "https://qiita.com/LostMyCode/items/a867e1954b80e78cf146",
+    "source": "Qiita (Popular)",
+    "published": "2026-04-02T00:02:13+09:00",
+    "summary": "3月31日、AnthropicのAIコーディングツール「Claude Code」の**全ソースコード**が突如としてネット上に流出しました。  \n\n原因はなんと、npmパッケージに含まれた **.map（sourcemap）ファイル** 。  \n\n![image.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/576",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY1NzY3NDglMkY4ZTA2MmI1NGQ2YTc3NzBjNzc2YWI4ZDczMDIxODA5ZWZjMTBiMjdkJTJGeF9sYXJnZS5wbmclM0YxNjMzMTQ0OTIxP2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz02YmJiN2M5ZDdiMDY3MGJhZjBiMWNmZGU3YWJmYzQzMQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D3e1728a2371b0782e3bd94ccf43c6595?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9Q2xhdWRlJTIwQ29kZSUyMCVFMyU4MSVBRSVFNiVCNSU4MSVFNSU4NyVCQSVFMyU4MSU5NyVFMyU4MSU5RiVFMyU4MiVCRCVFMyU4MyVCQyVFMyU4MiVCOSVFMyU4MiVCMyVFMyU4MyVCQyVFMyU4MyU4OSVFMyU4MiU5MiUyMEdpdEh1YiUyMCVFMyU4MSVBQiVFNSU4NSVBQyVFOSU5NiU4QiVFMyU4MSU5NyVFMyU4MSU5RiVFNCVCQSVCQSVFMyU4MSU4QyVFOCU5MSU5NyVFNCVCRCU5QyVFNiVBOCVBOSVFOSU4MSU5NSVFNSU4RiU4RCVFMyU4MiU5MiVFNSU5QiU5RSVFOSU4MSVCRiVFMyU4MSU5NyVFMyU4MSU5RiVFNiU5NiVCOSVFNiVCMyU5NSVFMyU4MSU4QyVFMyU4MyVBNCVFMyU4MyU5MCVFMyU4MSU5OSVFMyU4MSU4RSZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTRmYWYyNzRkMDNjNDFhZjk0N2UxNTg1Y2JhYWE1YWY5&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBMb3N0TXlDb2RlJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9ODAyYTQzODIwZDJiZGIyNzQ5YWRjN2U0ODgwMDRiMGU&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=e5685e01e761af824d327ae4c4250ed3",
+    "fetched_at": "2026-04-05 19:06:56",
+    "ja_summary": "・Anthropicの「Claude Code」全ソースコードが、npmパッケージ内の「.mapファイル」の混入により流出した。\n・流出させた人物は、著作権侵害を回避する奇策を用いてGitHubへ公開した。\n・設定ミスにより機密コードが誰でもアクセス可能な状態になった深刻なセキュリティ事故。"
+  },
+  {
     "title": "Claude Code「AI秘書」誰でもすぐ使えるテンプレートを公開します ー 設定3分で完了",
     "link": "https://qiita.com/nogataka/items/69db2b0e2448b9197937",
     "source": "Qiita (Popular)",
@@ -968,35 +998,5 @@
     "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/3/3b096cb7dc35945929d4055be4064582078bdb8aae029f4f9f70e2a22171eb01.jpg",
     "fetched_at": "2026-04-03 13:39:09",
     "ja_summary": "・米マイクロソフトが日本のAI・クラウド基盤強化のため、今後2年間で約1.6兆円を投資する。\n・生成AIの普及に伴い、国内の計算資源を拡充し、企業のデジタル化とAI活用を支援する。\n・国内の人材育成やサイバーセキュリティ対策にも注力し、日本市場での影響力を強める。"
-  },
-  {
-    "title": "LTX-2.3超えの商用利用可能な日本語対応ローカル音声付き動画生成AI「daVinci-MagiHuman」、“自己改善の仕方”も自己改善するメタ認知型自己修正AI「HyperAgents」など生成AI技術5つを解説（生成AIウィークリー）",
-    "link": "https://www.techno-edge.net/article/2026/04/03/4968.html",
-    "source": "TechnoEdge",
-    "published": "Fri, 03 Apr 2026 12:30:42 +0900",
-    "summary": "この1週間の気になる生成AI技術・研究をいくつかピックアップして解説する今回の「生成AIウィークリー」（第138回）は、動画・音声・テキストを見ているときの脳反応を予測できるMeta開発の脳活動推測AI「TRIBE v2」や、人間には簡単でもAIには難しい新しいテスト「ARC-AGI-3」を取り上げます。",
-    "image": "https://www.techno-edge.net/imgs/rss/30623.jpg",
-    "fetched_at": "2026-04-03 13:39:14",
-    "ja_summary": "・商用可能な日本語対応動画生成AI「daVinci-MagiHuman」や、自己修正能力を持つ「HyperAgents」などが登場。\n・Metaが開発した脳活動予測AI「TRIBE v2」や、AIの推論能力を測る新テスト「ARC-AGI-3」を解説。\n・生成AIの最新技術や研究動向を網羅した週刊レポート。"
-  },
-  {
-    "title": "連載「歌うテックニュース」第4回：AIチップは3スタイルある。それぞれの特徴があるって知ってた？（西川善司）",
-    "link": "https://www.techno-edge.net/article/2026/04/03/4967.html",
-    "source": "TechnoEdge",
-    "published": "Fri, 03 Apr 2026 11:41:40 +0900",
-    "summary": "Iを動かすためのプロセッサは、推論アクセラレータとか、AIチップとか、ニューラルアクセラレータ、AIアクセラレータなど、いろんな呼び方であふれています。今回はその仕組みを歌で解説していきます。",
-    "image": "https://www.techno-edge.net/imgs/rss/30681.png",
-    "fetched_at": "2026-04-03 13:39:14",
-    "ja_summary": "・AIチップには呼び名や種類が混在しているが、大きく3つのスタイルに分類できる。\n・それぞれのスタイルには明確な特徴と役割の違いがある。\n・複雑なAIプロセッサの仕組みを、歌を通じて分かりやすく解説する。"
-  },
-  {
-    "title": "Anthropic invests $100 million into the Claude Partner Network",
-    "link": "https://www.anthropic.com/news/claude-partner-network",
-    "source": "Anthropic (News)",
-    "published": "Thu, 12 Mar 2026 00:00:00 +0000",
-    "summary": "Anthropic invests $100 million into the Claude Partner Network",
-    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20ShapeBuild&amp;backgroundColor=fig",
-    "fetched_at": "2026-04-03 13:39:16",
-    "ja_summary": "・AnthropicがAIモデル「Claude」のパートナーエコシステム拡大に向け、1億ドルを投じる。\n・開発者や企業によるClaude活用を促進し、AI導入を加速させる狙い。\n・資金投入により、技術連携や販売チャネルの強化を図る。"
   }
 ]
