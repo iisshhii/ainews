@@ -1,5 +1,25 @@
 [
   {
+    "title": "Claude Code の流出したソースコードを GitHub に公開した人が著作権違反を回避した方法がヤバすぎ",
+    "link": "https://qiita.com/LostMyCode/items/a867e1954b80e78cf146",
+    "source": "Qiita (Popular)",
+    "published": "2026-04-02T00:02:13+09:00",
+    "summary": "3月31日、AnthropicのAIコーディングツール「Claude Code」の**全ソースコード**が突如としてネット上に流出しました。  \n\n原因はなんと、npmパッケージに含まれた **.map（sourcemap）ファイル** 。  \n\n![image.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/576",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY1NzY3NDglMkY4ZTA2MmI1NGQ2YTc3NzBjNzc2YWI4ZDczMDIxODA5ZWZjMTBiMjdkJTJGeF9sYXJnZS5wbmclM0YxNjMzMTQ0OTIxP2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz02YmJiN2M5ZDdiMDY3MGJhZjBiMWNmZGU3YWJmYzQzMQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D3e1728a2371b0782e3bd94ccf43c6595?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9Q2xhdWRlJTIwQ29kZSUyMCVFMyU4MSVBRSVFNiVCNSU4MSVFNSU4NyVCQSVFMyU4MSU5NyVFMyU4MSU5RiVFMyU4MiVCRCVFMyU4MyVCQyVFMyU4MiVCOSVFMyU4MiVCMyVFMyU4MyVCQyVFMyU4MyU4OSVFMyU4MiU5MiUyMEdpdEh1YiUyMCVFMyU4MSVBQiVFNSU4NSVBQyVFOSU5NiU4QiVFMyU4MSU5NyVFMyU4MSU5RiVFNCVCQSVCQSVFMyU4MSU4QyVFOCU5MSU5NyVFNCVCRCU5QyVFNiVBOCVBOSVFOSU4MSU5NSVFNSU4RiU4RCVFMyU4MiU5MiVFNSU5QiU5RSVFOSU4MSVCRiVFMyU4MSU5NyVFMyU4MSU5RiVFNiU5NiVCOSVFNiVCMyU5NSVFMyU4MSU4QyVFMyU4MyVBNCVFMyU4MyU5MCVFMyU4MSU5OSVFMyU4MSU4RSZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTRmYWYyNzRkMDNjNDFhZjk0N2UxNTg1Y2JhYWE1YWY5&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBMb3N0TXlDb2RlJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9ODAyYTQzODIwZDJiZGIyNzQ5YWRjN2U0ODgwMDRiMGU&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=e5685e01e761af824d327ae4c4250ed3",
+    "fetched_at": "2026-04-06 23:15:41",
+    "ja_summary": "・AnthropicのAIツール「Claude Code」の全ソースコードが、npmパッケージ内の「.mapファイル」を通じて流出。\n・公開者は著作権法を回避する巧妙な手法をとったとされるが、セキュリティ管理の甘さが露呈した。\n・開発現場では、公開用パッケージへの機密ファイル混入という根本的なミスが問題視されている。"
+  },
+  {
+    "title": "Claude Code「AI秘書」誰でもすぐ使えるテンプレートを公開します ー 設定3分で完了",
+    "link": "https://qiita.com/nogataka/items/69db2b0e2448b9197937",
+    "source": "Qiita (Popular)",
+    "published": "2026-03-30T14:15:06+09:00",
+    "summary": "\n## はじめに\n\nClaude Code（Anthropicが提供するCLIベースのAIアシスタント）を使って、自分専用の「AI秘書」を作りました。\n\n- 毎朝、スケジュール・メール・タスクをまとめたブリーフィングを出してくれる\n- メールを優先度で分類し、返信案まで作ってくれる\n- 会議前に準備メモを作り、会議後に議事録を整理してくれる\n- 調べ物を頼むと、ソース付きのリサーチレポートにまとめ",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYxNjEyOTglMkZjMWUzZmZkNmVhZGExOTY5ZmYzYzQ0YjE0ZmRlMDgxYmNkZTZmNTAwJTJGeF9sYXJnZS5wbmclM0YxNTg0ODQ1NTg0P2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz00ZGRjZmU5NTFjNTMyMzU3NjcyOGUzOTkyOTNmOGRlNQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D246367bff431168e6212d2602a3df494?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9Q2xhdWRlJTIwQ29kZSVFMyU4MCU4Q0FJJUU3JUE3JTk4JUU2JTlCJUI4JUUzJTgwJThEJUU4JUFBJUIwJUUzJTgxJUE3JUUzJTgyJTgyJUUzJTgxJTk5JUUzJTgxJTkwJUU0JUJEJUJGJUUzJTgxJTg4JUUzJTgyJThCJUUzJTgzJTg2JUUzJTgzJUIzJUUzJTgzJTk3JUUzJTgzJUFDJUUzJTgzJUJDJUUzJTgzJTg4JUUzJTgyJTkyJUU1JTg1JUFDJUU5JTk2JThCJUUzJTgxJTk3JUUzJTgxJUJFJUUzJTgxJTk5JTIwJUUzJTgzJUJDJTIwJUU4JUE4JUFEJUU1JUFFJTlBMyVFNSU4OCU4NiVFMyU4MSVBNyVFNSVBRSU4QyVFNCVCQSU4NiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTFjODJmODdhMTc2Y2MxMTZhOGMwZThkZTljMjkxMjdm&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBub2dhdGFrYSZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWE5ODA4YTE0Zjg4Y2I0ZjQ5OWU2ZDA3NGYyY2E2YTNh&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=940e8bf5ffe4d7ffb9acd839063dce81",
+    "fetched_at": "2026-04-06 23:15:41",
+    "ja_summary": "・Claude Codeを活用し、スケジュール整理やメール作成、議事録作成などを代行する「AI秘書」環境が構築可能。\n・設定はわずか3分で完了し、テンプレート化されているため誰でもすぐに導入できる。\n・毎朝のブリーフィングやリサーチ業務の自動化により、日々のビジネス効率を劇的に向上させる。"
+  },
+  {
     "title": "マイクロソフト、新AIモデル3種を公開　音声文字起こしや画像生成に対応",
     "link": "https://japan.cnet.com/article/35245998/",
     "source": "CNET Japan",
@@ -978,25 +998,5 @@
     "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20ShapeBuild&amp;backgroundColor=fig",
     "fetched_at": "2026-04-05 19:54:37",
     "ja_summary": "・AI企業Anthropicが「Claude Partner Network」に1億ドルを投資\n・エコシステム強化を通じ、Claudeのビジネス活用と普及を加速させる狙い\n・パートナー企業との連携を深め、AIソリューションの開発を促進する"
-  },
-  {
-    "title": "コーディング規約のAgent Skillを作って実装時の手戻りを減らそう",
-    "link": "https://zenn.dev/j____takumi/articles/create_agent_skill",
-    "source": "Zenn Trends",
-    "published": "Sat, 04 Apr 2026 16:33:25 GMT",
-    "summary": "この記事で分かること\n\nAI実装で毎回同じレビューをしているときに、Agent Skillで前提共有を楽にする考え方\n最初に入れた3項目と、あとから足した観点\nGitHub Copilotで試すときの配置場所と、効きにくいときの見直しポイント\n\n\n AIに実装させるたび、同じ指摘をしていた\n私はKotlin Multiplatformで動くスマホアプリを、AIを使いながら個人開発しています。\nAIに実装を任せると速い一方で、画面文言の直書き、Viewへのロジック混在、!! や強制アンラップのように、毎回ほぼ同じ指摘が残りがちでした。1つずつは小さくても、これが続くと差分レビューより前...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--og_K9lim--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2587%25E3%2582%25A3%25E3%2583%25B3%25E3%2582%25B0%25E8%25A6%258F%25E7%25B4%2584%25E3%2581%25AEAgent%2520Skill%25E3%2582%2592%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%25A6%25E5%25AE%259F%25E8%25A3%2585%25E6%2599%2582%25E3%2581%25AE%25E6%2589%258B%25E6%2588%25BB%25E3%2582%258A%25E3%2582%2592%25E6%25B8%259B%25E3%2582%2589%25E3%2581%259D%25E3%2581%2586%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:j____takumi%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzgxYTkyMzY4OTcuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-    "fetched_at": "2026-04-05 19:06:52",
-    "ja_summary": "AIによるコード生成時の繰り返し修正を減らすため、「Agent Skill（AIへの指示テンプレート）」を活用してコーディング規約を事前共有する手法を解説。\nAIに指示する項目を規約化しGitHub Copilotに組み込むことで、手戻りを防ぎレビュー工数を大幅に削減する。\n効きにくい場合の改善ポイントや、運用のコツについても網羅している。"
-  },
-  {
-    "title": "RAGの最適化手法が多すぎて迷子になったので、整理したら全体像が見えた",
-    "link": "https://zenn.dev/nagi98/articles/260405-rag-optimization-overview",
-    "source": "Zenn Trends",
-    "published": "Sat, 04 Apr 2026 15:36:06 GMT",
-    "summary": "なぜRAGを学んだか\nRAGという技術を知り、検索の仕組みにもこうした手法が使われていることに興味を持ったのがきっかけ。自分でもRAGを活用した検索アプリを作ってみたいと思った。\nとりあえず、基礎から応用まで網羅してるRAGの教材を読み込んだ。ボリュームはかなりあった。\n読む前の自分の理解はこの程度。\n\nドキュメントをベクトル化して、質問が来たら似てるやつ検索して、LLMに渡す。\n\n以上だけだった。\n間違ってはないが、でも教材を読み進めると、最適化手法が次から次に出てくる。\nMulti Query、RAG-Fusion、HyDE、Decomposition、Step Back、RAP...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--CZxTywfu--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:RAG%25E3%2581%25AE%25E6%259C%2580%25E9%2581%25A9%25E5%258C%2596%25E6%2589%258B%25E6%25B3%2595%25E3%2581%258C%25E5%25A4%259A%25E3%2581%2599%25E3%2581%258E%25E3%2581%25A6%25E8%25BF%25B7%25E5%25AD%2590%25E3%2581%25AB%25E3%2581%25AA%25E3%2581%25A3%25E3%2581%259F%25E3%2581%25AE%25E3%2581%25A7%25E3%2580%2581%25E6%2595%25B4%25E7%2590%2586%25E3%2581%2597%25E3%2581%259F%25E3%2582%2589%25E5%2585%25A8%25E4%25BD%2593%25E5%2583%258F%25E3%2581%258C%25E8%25A6%258B%25E3%2581%2588%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:nagi98%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzFhNmMwNzU4ZWYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-    "fetched_at": "2026-04-05 19:06:52",
-    "ja_summary": "RAGの最適化手法が多すぎて全体像を把握しにくい現状を整理・体系化。\nMulti QueryやHyDEなど、複雑化する発展的な手法の役割を明確化した。\n基礎から応用までを網羅することで、迷いやすいRAG開発の指針を提示している。"
   }
 ]
