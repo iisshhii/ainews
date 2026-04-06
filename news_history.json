@@ -1,5 +1,25 @@
 [
   {
+    "title": "なぜサムスン「Galaxy Buds」はスマホの影に隠れるのか？「AirPods Pro 3」と比べてわかる真の実力",
+    "link": "https://www.businessinsider.jp/article/2604-samsung-galaxy-buds4pro-review/",
+    "source": "Business Insider Japan",
+    "published": "Sun, 05 Apr 2026 21:15:00 GMT",
+    "summary": "サムスンの最新イヤホン「Galaxy Buds4 Pro」の実力を徹底レビュー。AirPods Pro 3との比較や、Galaxy S26シリーズとの連携による独自の「エコシステム機能」の利便性を検証します。",
+    "image": "https://media.loom-app.com/loom/2026/04/03/7c79773a-78a7-4a43-bc4d-6c7e0e716e85/original.jpg?w=1200&amp;h=630",
+    "fetched_at": "2026-04-07 08:50:59",
+    "ja_summary": "・Galaxy Buds4 Proの性能とAirPods Pro 3との比較を徹底検証。\n・Galaxyスマホ連携による独自のエコシステム機能の強みを解説。\n・サムスン製イヤホンが持つ真の実力と活用価値を明らかに。"
+  },
+  {
+    "title": "精度ほぼ同等で80億パラメータがiPhoneで動く「1ビットLLM Bonsai 8B」、国産AI「LLM-jp-4」を国立情報学研究所がオープンソースで公開など生成AI技術5つを解説（生成AIウィークリー）",
+    "link": "https://www.techno-edge.net/article/2026/04/07/4974.html",
+    "source": "TechnoEdge",
+    "published": "Tue, 07 Apr 2026 08:05:44 +0900",
+    "summary": "「生成AIウィークリー」第139回では、国立情報学研究所がオープンソースで公開した大規模言語モデル「LLM-jp-4」や、Netflixなどが開発の動画から物体を消すと世界も変わる技術「VOID」を取り上げます。",
+    "image": "https://www.techno-edge.net/imgs/rss/30698.jpg",
+    "fetched_at": "2026-04-07 08:51:09",
+    "ja_summary": "・国立情報学研究所が国産LLM「LLM-jp-4」をオープンソースで公開。\n・iPhoneで動作する「1ビットLLM」や、動画から物体を消去する新技術「VOID」が登場。\n・生成AIの技術進化が加速し、モバイル環境や動画編集への応用が拡大中。"
+  },
+  {
     "title": "マイクロソフト、日本で新たに100億ドルの投資計画を発表",
     "link": "https://japan.zdnet.com/article/35246023/",
     "source": "ZDNET Japan",
@@ -978,25 +998,5 @@
     "image": "https://res.cloudinary.com/zenn/image/upload/s--Y_SU6sz8--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Gemma%25204%25E3%2581%25A7%25E8%2587%25AA%25E5%25BE%258B%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588%25E3%2582%2592%25E4%25BD%259C%25E3%2582%258B%2520%25E2%2580%2594%2520LangGraph%2520%252B%2520Podman%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%25AD%25E3%2581%2593%25E3%2582%258D%25E3%2581%2593%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzQ4Y2ZmZWUzODguanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
     "fetched_at": "2026-04-06 07:22:54",
     "ja_summary": "・機密情報を守るため外部APIを使わず、Gemma 4とLangGraphで自律型AIエージェントをローカル環境で構築。\n・タスクの判断からコード生成・実行までをRTX 4060のPC1台で完結させる手法を解説。\n・実務レベルでローカルLLMがどこまで通用するかを検証し、その全手順を共有。"
-  },
-  {
-    "title": "Claude Code & Google Analytics(GA4)のMCPサーバ連携を色々試してみた",
-    "link": "https://zenn.dev/shinyaa31/articles/e3a1bdf4d99d80",
-    "source": "Zenn Trends",
-    "published": "Sun, 05 Apr 2026 02:09:13 GMT",
-    "summary": "直近Google Analytics(GA4)の情報について色々解析したい、アクセスしたいという要件があり、それならばClaude(Claude Code)で良い感じにやりたいね。ということで当エントリではClaude(Claude Code)からGoogle Analytics(GA4)のMCPサーバを介して諸々連携する手順について、幾つかの経路にそれぞれ言及する形でまとめたいと思います。\nベースで参考にする手順はこのあたり。\nhttps://developers.google.com/analytics/devguides/MCP?hl=ja\nhttps://www.youtube...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--Lbfq6olw--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%2520%2526%2520Google%2520Analytics%2528GA4%2529%25E3%2581%25AEMCP%25E3%2582%25B5%25E3%2583%25BC%25E3%2583%2590%25E9%2580%25A3%25E6%2590%25BA%25E3%2582%2592%25E8%2589%25B2%25E3%2580%2585%25E8%25A9%25A6%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%2597%25E3%2582%2593%25E3%2582%2584%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzg0NDMxM2IyYzAuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-    "fetched_at": "2026-04-06 07:22:54",
-    "ja_summary": "Claude CodeからGoogle Analytics(GA4)のデータを直接操作するため、MCPサーバを活用した連携手順を解説。\nGoogle公式のガイドラインに基づき、効率的に分析やデータ取得を行うための具体的な構築経路を整理。\n開発環境でClaudeを介したGA4連携を実現し、データ活用の自動化や効率化を目指すエンジニア向けの内容。"
-  },
-  {
-    "title": "Deno + Elixir + Erlang/OTP WHY & HOW",
-    "link": "https://speakerdeck.com/evadne/otp-why-and-how",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-04-03T05:10:22-04:00",
-    "summary": "Intelligent AI agents can write code that calls existing APIs in secure sandboxes, allowing higher token efficiency, better performance, and lower per-turn latency. Deno’s primitives in Rust can be integrated into such an agent harness, utilising the Elixir programming language and the Erlang/OTP runtime, which allows you to construct agentic systems that are massively concurrent and fault-tolerant.",
-    "image": "https://files.speakerdeck.com/presentations/1418f3c3e9f244caa3119fe1cd57dd45/preview_slide_0.jpg?38978468",
-    "fetched_at": "2026-04-06 07:22:55",
-    "ja_summary": "・DenoのRustベースの実行環境と、Elixir/Erlangの並行・耐障害性技術を統合。\n・AIエージェントによるコード実行の安全性、効率性、低遅延を同時に実現。\n・大規模かつ高信頼なAIエージェントシステムを構築するための新しい技術構成。"
   }
 ]
