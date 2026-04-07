@@ -1,5 +1,45 @@
 [
   {
+    "title": "楽天カード、チャットサポートにAI　回答時間を60秒短縮",
+    "link": "https://www.watch.impress.co.jp/docs/news/2099787.html",
+    "source": "Impress Watch",
+    "published": "",
+    "summary": "楽天カードは、「楽天カードチャットサポート」にAI検索システムを本格導入した。より早く正確に回答を提示することを目的とし、AIが最適な回答を選択してオペレーターに提案する。",
+    "image": "https://www.watch.impress.co.jp/img/ipw/list/2099/787/01.jpg",
+    "fetched_at": "2026-04-07 20:13:28",
+    "ja_summary": "・楽天カードのチャットサポートにAI検索システムを導入。\n・AIが最適な回答を即座に提案し、オペレーターの回答時間を60秒短縮。\n・顧客対応のスピードと正確性の向上を実現。"
+  },
+  {
+    "title": "AICore Developer Preview で Gemma 4 を試す",
+    "link": "https://note.com/npaka/n/n79383ac828ec",
+    "source": "note (npaka)",
+    "published": "Fri, 03 Apr 2026 23:00:51 +0900",
+    "summary": "<p id=\"5d203460-9487-4d23-a979-3c62cb92a7f3\" name=\"5d203460-9487-4d23-a979-3c62cb92a7f3\">以下の記事が面白かったので、簡単にまとめました。</p><figure id=\"7d6ae62e-7177-4dd7-8277-72bb316cf6bf\" name=\"7d6ae62e-7177-4dd7-8277-72bb316cf6bf\"><blockquote><p id=\"7bf996af-c4d2-439c-aa59-0a8b50a1f79d\" name=\"7bf996af-c4d2-439c-aa59-0a8b50a1f79d\"><strong>・</strong><a href=\"https://android-developers.googleblog.com/2026/04/AI-Core-Developer-Preview.html\" rel=\"nofollow noopener\" target=\"_blank\"><strong>Announcing Gemma 4 in the AICore Developer Preview</strong></a></p></blockquote>\n<figcaption></figcaption></figure><br /><a href=\"https://note.com/npaka/n/n79383ac828ec\">続きをみる</a>",
+    "image": "https://assets.st-note.com/production/uploads/images/264518068/rectangle_large_type_2_6ef5d28cf4ce1752962b0e118dfbc343.png?width=800",
+    "fetched_at": "2026-04-07 20:13:41",
+    "ja_summary": "・Googleの軽量AIモデル「Gemma 4」が、Androidの「AICore Developer Preview」で利用可能になりました。\n・開発者は端末上で最新のGemmaモデルを試用でき、アプリへの統合環境をいち早く確認できます。"
+  },
+  {
+    "title": "Prime Intellect Labで始めるAgentic RL ―― 4BモデルでGPT-5を超える",
+    "link": "https://zenn.dev/mkj/articles/prime-rl-20260401",
+    "source": "Zenn Trends",
+    "published": "Tue, 07 Apr 2026 02:50:05 GMT",
+    "summary": "松尾研究所の太田・尾崎です．\n昨今自律的な行動をとることのできるエージェントが流行っていますが，これらはLLMに外部環境との作用が可能なツールを持たせたものとみなすことができます．なのでAgentが適切に行動するにはWeb検索や書類作成等のツールを適切に利用することが必須であり，そのためには正しい指示（ツールのマニュアル）やロバストなツール設計（MCPといったプロトコル化）が重要になります．\nそうしたなか，ツールの利用方法を推論時にコンテキストで渡すのでなく，事後学習のタイミングであらかじめ教える「Tool/Agentic Reinforcement Learning」（以後 Agent...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--hC9w7QIU--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Prime%2520Intellect%2520Lab%25E3%2581%25A7%25E5%25A7%258B%25E3%2582%2581%25E3%2582%258BAgentic%2520RL%2520%25E2%2580%2595%25E2%2580%2595%25204B%25E3%2583%25A2%25E3%2583%2587%25E3%2583%25AB%25E3%2581%25A7GPT-5%25E3%2582%2592%25E8%25B6%2585%25E3%2581%2588%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Taisei%2520Ozaki%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2U2NGM3ZTBkMzIuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E6%259D%25BE%25E5%25B0%25BE%25E7%25A0%2594%25E7%25A9%25B6%25E6%2589%2580%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUFjSFR0Y1hKN2I4TjdPWHZzNV9JcnV2cjQzRDF3OVZxamVwUnN2ckNycVAxVndtbzlrPXM5Ni1j%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-04-07 20:14:07",
+    "ja_summary": "・自律型エージェントの性能向上には、ツールを使いこなすための事後学習が重要である。\n・Prime Intellect Labの手法を用いることで、4B規模の小型モデルでもGPT-5を超えるエージェント性能を目指せる。\n・推論時の指示に頼らず、学習段階でツール操作を最適化する「Agentic RL」の活用が鍵となる。"
+  },
+  {
+    "title": "Gemma 4がリリース！ローカルLLM勢に嬉しい話",
+    "link": "https://zenn.dev/ap_com/articles/gemma4-release-local-llm-20260406",
+    "source": "Zenn Trends",
+    "published": "Mon, 06 Apr 2026 03:00:00 GMT",
+    "summary": "🚀 はじめに\nおぐまです。\nGoogle が 2026年4月2日に Gemma 4 をリリースしました。Apache 2.0 ライセンスで使えるオープンモデルで、ローカルで動かしている人にとってかなり嬉しい内容になっています。「また(新しいモデル)かよ、、」と思う方もいるかもしれませんが、今回は個人開発者・ローカルLLM勢的に注目ポイントが多いので紹介します。\n\n 📰 何が発表された？\nGemma 4 は Gemini 3 と同じ研究をベースにした、Google の最新オープンモデルファミリーです。ラインナップは次のとおりです。\n\n\n\nモデル\nパラメータ\n用途\n\n\n\n\nE2B\n2B（...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--5BIlXng8--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Gemma%25204%25E3%2581%258C%25E3%2583%25AA%25E3%2583%25AA%25E3%2583%25BC%25E3%2582%25B9%25EF%25BC%2581%25E3%2583%25AD%25E3%2583%25BC%25E3%2582%25AB%25E3%2583%25ABLLM%25E5%258B%25A2%25E3%2581%25AB%25E5%25AC%2589%25E3%2581%2597%25E3%2581%2584%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:9mak%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzA5N2NlMjBhZWIuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E6%25A0%25AA%25E5%25BC%258F%25E4%25BC%259A%25E7%25A4%25BE%25E3%2582%25A8%25E3%2583%25BC%25E3%2583%2594%25E3%2583%25BC%25E3%2582%25B3%25E3%2583%259F%25E3%2583%25A5%25E3%2583%258B%25E3%2582%25B1%25E3%2583%25BC%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3%25E3%2582%25BA%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2U5YTdiNjViNmIuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-04-07 20:14:09",
+    "ja_summary": "・Googleが最新オープンモデル「Gemma 4」を公開。\n・商用利用可能なApache 2.0ライセンスを採用。\n・個人開発者やローカルLLM環境での活用に適した性能とラインナップが特徴。"
+  },
+  {
     "title": "Anthropic’s Responsible Scaling Policy: Version 3.0",
     "link": "https://www.anthropic.com/news/responsible-scaling-policy-v3",
     "source": "Anthropic (News)",
@@ -958,45 +998,5 @@
     "image": "https://openai.com/favicon.ico",
     "fetched_at": "2026-04-06 17:51:44",
     "ja_summary": "・ChatGPTの法人向けプラン（Business/Enterprise）に、従量課金制が導入された。\n・利用量に応じた柔軟な支払いが可能になり、導入や規模拡大が容易になる。"
-  },
-  {
-    "title": "投資プロセス全体の再設計：投資先データ活用の取り組み",
-    "link": "https://speakerdeck.com/mixi_engineers/redesigning-the-end-to-end-investment-process-an-initiative-to-leverage-portfolio-company-data",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-04-06T04:47:22-04:00",
-    "summary": "━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n  　　MIXI MEETUP！AI DAY 2026 - SESSION ARCHIVE\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n投資プロセス全体の再設計：投資先データ活用の取り組み\n\n投資プロセス全体をAIドリブンに再設計する構想が広がる中、実際にどこから着手すべきなのか。本セッションでは、その一端として、投資ディールにおけるAI活用と、3,000社におよぶ投資先情報をAIで構造化・活用する取り組みを紹介します。構想と現場実装をつなぐ実践事例を共有します。\n\nコーポレートデベロップメント本部/投資事業部/投資オペレーショングループ\n鴨志田 星矢\nコーポレートデベロップメント本部/投資事業部/投資オペレーショングループ\n吉川 綾一郎\nコーポレートデベロップメント本部/投資事業部/投資オペレーショングループ\n豊田 和喜\n\n────────────────────────────\n□セッション情報\nhttps://mixi.connpass.com/event/380889/\n□イベントハッシュタグ\n#miximeetup2026\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n◇◆◇ Information ◇◆◇\n◎ エンジニアSNS/メディア\nX（旧Twitter）\nhttps://x.com/mixi_engineers\nMIXI Developers Blog (medium)\nhttps://mixi-developers.mixi.co.jp/\nSlide (SpeakerDeck)\nhttps://speakerdeck.com/mixi_engineers/\n\n◎デザイン職メディア\nMIXI DESIGN note\nhttps://note.com/mixi_design/\nMIXI DESIGN Cocoda\nhttps://cocoda.design/teams/mixi-design\nSlide (SpeakerDeck)\nhttps://speakerdeck.com/mixi_design/\n\n◎採用情報\nhttps://mixigroup-recruit.mixi.co.jp/\n\nHP\nhttps://mixi.co.jp/\nX\nhttps://x.com/mixi_PR\nconnpass\nhttps://mixi.connpass.com/",
-    "image": "https://files.speakerdeck.com/presentations/ab514d0f79104a16be05466d3f4f02fa/preview_slide_0.jpg?38994641",
-    "fetched_at": "2026-04-06 17:51:53",
-    "ja_summary": "MIXIが投資プロセス全体をAIで刷新する取り組みを発表。\n3,000社以上の投資先データをAIで構造化・活用する具体的な実装事例を解説。\nAIによる投資ディールの効率化と構想から現場実装への接続手法を共有。"
-  },
-  {
-    "title": "AI活用を“個人技”で終わらせない ― 現場の自律性と成果を両立させた推進の裏側 ―",
-    "link": "https://speakerdeck.com/mixi_engineers/dont-let-ai-adoption-end-as-individual-skills-behind-the-scenes-of-driving-ai-adoption-while-balancing-frontline-autonomy-and-results",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-04-06T04:42:07-04:00",
-    "summary": "━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n  　　MIXI MEETUP！AI DAY 2026 - SESSION ARCHIVE\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\nAI活用を“個人技”で終わらせない\n― 現場の自律性と成果を両立させた推進の裏側 ―\n　\nAI活用を個人の工夫で終わらせず、部として成果につなげるために、推進側が組織のどこにボトルネックを感じ、その解消に向けてどんな推進施策を打ってきたのかを振り返ります。迅速なツール展開、ワークショップによる探索、部内AIコミュニティ形成を通じて、現場の自律性を活かしながらどう成果につなげたのか、その意思決定と推進の裏側を紹介します。\n　\nみてね事業本部みてねプロダクト開発部アジャイル変革グループ\n賀茂 慎一郎\n\n────────────────────────────\n□セッション情報\nhttps://mixi.connpass.com/event/380889/\n□イベントハッシュタグ\n#miximeetup2026\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n　\n◇◆◇ Information ◇◆◇\n◎ エンジニアSNS/メディア\nX（旧Twitter）\n  / mixi_engineers\nMIXI Developers Blog (medium)\nhttps://mixi-developers.mixi.co.jp/\nSlide (SpeakerDeck)\nhttps://speakerdeck.com/mixi_engineers/\n　\n◎デザイン職メディア\nMIXI DESIGN note\nhttps://note.com/mixi_design/\nMIXI DESIGN Cocoda\nhttps://cocoda.design/teams/mixi-design\nSlide (SpeakerDeck)\nhttps://speakerdeck.com/mixi_design/\n\n◎採用情報\nhttps://mixigroup-recruit.mixi.co.jp/\n\nHP\nhttps://mixi.co.jp/\nX\nhttps://x.com/mixi_PR\nconnpass\nhttps://mixi.connpass.com/",
-    "image": "https://files.speakerdeck.com/presentations/704dbb9b8cb04782b853851096d40689/preview_slide_0.jpg?38994584",
-    "fetched_at": "2026-04-06 17:51:53",
-    "ja_summary": "・AI活用を個人の工夫に留めず、組織的な成果へとつなげるための推進手法を解説。\n・迅速なツール導入やコミュニティ形成により、現場の自律性を高める仕組みを構築。\n・組織の課題を特定し、ボトルネックを解消することで、成果を最大化させる意思決定の裏側を共有。"
-  },
-  {
-    "title": "AIで有人対応の品質チェックを\"同じ物差し\"に：CSの評価軸設計とプロンプト調整",
-    "link": "https://speakerdeck.com/mixi_engineers/using-ai-to-standardize-quality-checks-for-human-handled-support-designing-cs-evaluation-criteria-and-tuning-prompts",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-04-06T04:38:44-04:00",
-    "summary": "━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n  　　MIXI MEETUP！AI DAY 2026 - SESSION ARCHIVE\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\nAIで有人対応の品質チェックを\"同じ物差し\"に：CSの評価軸設計とプロンプト調整\n\nCS業界ではAIによる問い合わせ対応の自動化が進む一方、「有人対応が必要な領域」も残ります。\n有人対応が必要な領域を対象に、オペレータの対応品質をAIで同一基準チェックする仕組みを構築。\n多様で単純なルールが通用しないケースに対し、評価軸設計とプロンプト調整でブレを抑え、良し悪しを同じ物差しで残す具体策を共有します。\n\nCS本部/CX部/Cooperationグループ/クオリティマネジメントチーム\n野崎 由梨\n\n────────────────────────────\n□セッション情報\nhttps://mixi.connpass.com/event/380889/\n□イベントハッシュタグ\n#miximeetup2026\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n◇◆◇ Information ◇◆◇\n◎ エンジニアSNS/メディア\nX（旧Twitter）\nhttps://x.com/mixi_engineers\nMIXI Developers Blog (medium)\nhttps://mixi-developers.mixi.co.jp/\nSlide (SpeakerDeck)\nhttps://speakerdeck.com/mixi_engineers/\n\n◎デザイン職メディア\nMIXI DESIGN note\nhttps://note.com/mixi_design/\nMIXI DESIGN Cocoda\nhttps://cocoda.design/teams/mixi-design\nSlide (SpeakerDeck)\nhttps://speakerdeck.com/mixi_design/\n\n◎採用情報\nhttps://mixigroup-recruit.mixi.co.jp/\n\nHP\nhttps://mixi.co.jp/\nX\nhttps://x.com/mixi_PR\nconnpass\nhttps://mixi.connpass.com/",
-    "image": "https://files.speakerdeck.com/presentations/c10bd1fd9a7544a3b6f2039ac86bd4ab/preview_slide_0.jpg?38994488",
-    "fetched_at": "2026-04-06 17:51:53",
-    "ja_summary": "・AIを活用し、有人CS対応の品質チェックを同一基準で自動化する手法を構築。\n・複雑な対応ケースでも、評価軸の設計とプロンプト調整でAIの判断のブレを抑制。\n・属人化しがちなオペレータの評価を「同じ物差し」で公正に測定する具体策を共有。"
-  },
-  {
-    "title": "法務DXの最前線： ゼロからのAI導入とバックオフィスの変革 ～ 46の施策で検証した「コスト」と「リードタイム」削減の裏側 ～",
-    "link": "https://speakerdeck.com/mixi_engineers/legal-dx-at-the-forefront-implementing-ai-from-scratch-and-transforming-the-back-office-behind-the-scenes-of-reducing-cost-and-lead-time-as-tested-across-46-initiative",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-04-06T04:32:08-04:00",
-    "summary": "\"━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n  　　MIXI MEETUP！AI DAY 2026 - SESSION ARCHIVE\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n法務DXの最前線：\nゼロからのAI導入とバックオフィスの変革\n～ 46の施策で検証した「コスト」と「リードタイム」削減の裏側 ～\n\n法務部門への導入初期の苦労や、コスト削減・リードタイム短縮を実現した核心的な施策を紹介します。「何をどう使うか」という基本から、組織変革をもたらす実践的ノウハウまで、具体的なプロセスと検証結果を詳説。単なるチャット利用に留まらない、バックオフィスDXを加速させるヒントを明かします。法務でもここまでできるのかという、実戦的な施策の数々をお伝えします。\n\nコンプライアンス本部/法務部/法務グループ\n唐澤 克弥\n\n────────────────────────────\n□セッション情報\nhttps://mixi.connpass.com/event/380889/\n□イベントハッシュタグ\n#miximeetup2026\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n◇◆◇ Information ◇◆◇\n◎ エンジニアSNS/メディア\nX（旧Twitter）\nhttps://x.com/mixi_engineers\nMIXI Developers Blog (medium)\nhttps://mixi-developers.mixi.co.jp/\nSlide (SpeakerDeck)\nhttps://speakerdeck.com/mixi_engineers/\n\n◎デザイン職メディア\nMIXI DESIGN note\nhttps://note.com/mixi_design/\nMIXI DESIGN Cocoda\nhttps://cocoda.design/teams/mixi-design\nSlide (SpeakerDeck)\nhttps://speakerdeck.com/mixi_design/\n\n◎採用情報\nhttps://mixigroup-recruit.mixi.co.jp/\n\nHP\nhttps://mixi.co.jp/\nX\nhttps://x.com/mixi_PR\nconnpass\nhttps://mixi.connpass.com/\"",
-    "image": "https://files.speakerdeck.com/presentations/43ceddae2f95498cac16db7455dd86c4/preview_slide_0.jpg?38994425",
-    "fetched_at": "2026-04-06 17:51:53",
-    "ja_summary": "・MIXI法務部が実践した、46の施策による業務効率化とAI導入事例を解説。\n・導入初期の課題からコスト・リードタイム削減の具体的な検証結果までを網羅。\n・チャット利用を超えた、バックオフィス全体のDXを加速させる実践的ノウハウを公開。"
   }
 ]
