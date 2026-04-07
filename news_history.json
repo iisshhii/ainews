@@ -1,5 +1,85 @@
 [
   {
+    "title": "LINE WORKS AiNote、話者30人を自動識別する新機能",
+    "link": "https://www.watch.impress.co.jp/docs/news/2099717.html",
+    "source": "Impress Watch",
+    "published": "",
+    "summary": "LINE WORKSは、AI議事録作成ツール「LINE WORKS AiNote」において、最大30名の発話者を識別して会議記録に自動反映する「自動話者認識」機能を追加した。",
+    "image": "https://www.watch.impress.co.jp/img/ipw/list/2099/717/line00.jpg",
+    "fetched_at": "2026-04-07 15:02:20",
+    "ja_summary": "・LINE WORKS AiNoteに最大30名の発話者を自動識別する新機能を追加。\n・会議記録へ誰の発言かを自動反映し、議事録作成の手間を大幅に削減。\n・大人数での会議でも、発言者の整理がスムーズかつ正確に行えるように。"
+  },
+  {
+    "title": "ブラウザ上で完結するAI校正付き無料OCRツール「NDLOCR-Lite Web AI」登場。国立国会図書館「NDLOCR-Lite」を活用（生成AIクローズアップ）",
+    "link": "https://www.techno-edge.net/article/2026/04/06/4972.html",
+    "source": "TechnoEdge",
+    "published": "Mon, 06 Apr 2026 07:44:00 +0900",
+    "summary": "1週間の気になる生成AI技術・研究をいくつかピックアップして解説する連載「生成AIウィークリー」から、特に興味深いAI技術や研究にスポットライトを当てる生成AIクローズアップ。",
+    "image": "https://www.techno-edge.net/imgs/rss/30697.jpg",
+    "fetched_at": "2026-04-07 15:02:38",
+    "ja_summary": "国立国会図書館の技術を活用した無料OCRツール「NDLOCR-Lite Web AI」が公開。\nブラウザ上で画像から高精度なテキスト抽出とAI校正が可能。\nインストール不要で、手軽に文書のデジタル化や読み取り作業を行える。"
+  },
+  {
+    "title": "Bonsai-8B-mlx × Goose でフルローカルの AI エージェント環境を作る",
+    "link": "https://zenn.dev/geeknees/articles/52f2b7ca6b81e4",
+    "source": "Zenn Trends",
+    "published": "Mon, 06 Apr 2026 11:37:00 GMT",
+    "summary": "Mac (M1 - メモリー16GM) でローカル LLM を動かして、それを AI エージェントのバックエンドにしたい——そういう用途に Bonsai-8B-mlx と Goose の組み合わせが使えます。この記事では両者の概要を紹介しつつ、実際につないで動かすまでの手順と詰まりやすいポイントをまとめます。\n\n Bonsai-8B-mlx とは\nBonsai-demo は PrismML が公開している Apple Silicon 向けの LLM デモリポジトリです。モデル本体は Bonsai-8B-mlx で、MLX フォーマットで配布されています。\nMLX は Apple が開発し...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--c7vne_6O--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Bonsai-8B-mlx%2520%25C3%2597%2520Goose%2520%25E3%2581%25A7%25E3%2583%2595%25E3%2583%25AB%25E3%2583%25AD%25E3%2583%25BC%25E3%2582%25AB%25E3%2583%25AB%25E3%2581%25AE%2520AI%2520%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588%25E7%2592%25B0%25E5%25A2%2583%25E3%2582%2592%25E4%25BD%259C%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:geeknees%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzA2MzFhY2QzYWIuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-04-07 15:03:01",
+    "ja_summary": "・Apple Silicon搭載Macで、高性能なAIエージェント環境をローカル構築する方法を解説。\n・軽量モデル「Bonsai-8B-mlx」とエージェントツール「Goose」の連携手順を紹介。\n・動作環境の構築から、導入時に発生しやすいトラブルの解決策までを網羅。"
+  },
+  {
+    "title": "クラウド上の機密PDFを、URLを漏らさずブラウザで安全に見せる方法",
+    "link": "https://zenn.dev/pksha/articles/b7a7d20f40fc3f",
+    "source": "Zenn Trends",
+    "published": "Mon, 06 Apr 2026 08:05:22 GMT",
+    "summary": "はじめに\nPKSHA Technology のソフトウェアエンジニアの許です。私が担当する PKSHA AI ヘルプデスクでは、社内ドキュメントをもとに AI が回答を生成する RAG（Retrieval-Augmented Generation）ベースのチャットエージェント機能を提供しています。ユーザーが質問を投げると、AI がクラウドストレージ上のドキュメントを検索し、根拠を示しながら回答を返します。\nこうしたプロダクトでは、AI の回答だけでなく「その根拠となった元のドキュメントを確認したい」というニーズが生まれます。とくに PDF ファイルの場合、テキストの抜粋を見せるだけで...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--CcvmbW6v--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25AF%25E3%2583%25A9%25E3%2582%25A6%25E3%2583%2589%25E4%25B8%258A%25E3%2581%25AE%25E6%25A9%259F%25E5%25AF%2586PDF%25E3%2582%2592%25E3%2580%2581URL%25E3%2582%2592%25E6%25BC%258F%25E3%2582%2589%25E3%2581%2595%25E3%2581%259A%25E3%2583%2596%25E3%2583%25A9%25E3%2582%25A6%25E3%2582%25B6%25E3%2581%25A7%25E5%25AE%2589%25E5%2585%25A8%25E3%2581%25AB%25E8%25A6%258B%25E3%2581%259B%25E3%2582%258B%25E6%2596%25B9%25E6%25B3%2595%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:George%2520Pickleson%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzJlOTZhNTRiYWMuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:PKSHA%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2520%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jS0dCb2JuN3RBTERPTnNWTUFiMUsyNFNiSzVCUFRLdEZuWDJ6VDlsb011bzI1QjB3PXMyNTAtYw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-04-07 15:03:01",
+    "ja_summary": "・RAG型AIチャットで、機密PDFをURL漏洩リスクなく安全に閲覧させる技術を解説。\n・クラウド上のファイルを直接参照せず、ブラウザ上でセキュアに表示する仕組みを提案。\n・社内ドキュメントの根拠確認ニーズに対し、セキュリティと利便性を両立する手法。"
+  },
+  {
+    "title": "Oracle AI Database@AWS：サービス概要のご紹介",
+    "link": "https://speakerdeck.com/oracle4engineer/oracle-database-at-aws",
+    "source": "Speaker Deck (Tech)",
+    "published": "2025-12-02T03:38:55-05:00",
+    "summary": "2026年4月16日 イベント開催「Oracle AI World Tour Tokyo」\nhttps://www.oracle.com/jp/ai-world-tour/\nアマゾン ウェブ サービス ジャパンによる展示・セッションがあります\n-----\nhttps://www.oracle.com/jp/cloud/aws/\nAmazon Web Services(AWS)のOracle Cloud Infrastructure(OCI)上で稼働するOracle AI Databaseサービスにより、クラウドの移行とイノベーションを加速します。Oracle AI DatabaseのAI Vector SearchやAmazon Bedrockなどの機能を使用して、アプリケーションを迅速に構築し、最新化できます。",
+    "image": "https://files.speakerdeck.com/presentations/ef66eba20ff6464586458fb3eb1fb754/preview_slide_0.jpg?39002685",
+    "fetched_at": "2026-04-07 15:03:03",
+    "ja_summary": "・AWS上でOracleのAIデータベースが利用可能になり、クラウド移行とAIアプリ開発を加速。\n・Oracle AIのVector SearchとAmazon Bedrockを組み合わせた迅速なシステム構築を実現。\n・詳細は2026年4月16日開催の「Oracle AI World Tour Tokyo」にて紹介予定。"
+  },
+  {
+    "title": "Oracle AI Database@Azure：サービス概要のご紹介",
+    "link": "https://speakerdeck.com/oracle4engineer/oracle-database-at-azure",
+    "source": "Speaker Deck (Tech)",
+    "published": "2025-12-02T02:38:23-05:00",
+    "summary": "2026年4月16日 イベント開催「Oracle AI World Tour Tokyo」\nhttps://www.oracle.com/jp/ai-world-tour/\n日本マイクロソフトによる展示・セッションがあります\n-----\nhttps://www.oracle.com/jp/cloud/azure/oracle-database-at-azure/\nMicrosoft AzureでOracle AI Databaseサービスを実行して、イノベーションとクラウド移行を加速しましょう。Oracle AI DatabaseのAI Vector SearchやAzure AIサービスなどの機能を使用して、アプリケーションを迅速に構築し、最新化できます。",
+    "image": "https://files.speakerdeck.com/presentations/bc1bab43132c4329984d217b0020bbea/preview_slide_0.jpg?39002768",
+    "fetched_at": "2026-04-07 15:03:03",
+    "ja_summary": "・Azure上でOracle AI Databaseが利用可能になり、AI機能とクラウド移行を迅速化。\n・OracleのAI Vector SearchとAzure AIサービスを統合し、アプリ開発を効率化。\n・2026年4月16日開催の「Oracle AI World Tour Tokyo」にて詳細を紹介。"
+  },
+  {
+    "title": "Oracle AI Database@Google Cloud：サービス概要のご紹介",
+    "link": "https://speakerdeck.com/oracle4engineer/oracle-database-at-google-cloud",
+    "source": "Speaker Deck (Tech)",
+    "published": "2025-07-01T19:47:58-04:00",
+    "summary": "2026年4月16日 イベント開催「Oracle AI World Tour Tokyo」\nhttps://www.oracle.com/jp/ai-world-tour/\nグーグル・クラウド・ジャパンによる展示・セッションがあります\n-----\nhttps://www.oracle.com/jp/cloud/google/oracle-database-at-google-cloud/\nGoogle Cloudで実行されるOCIのOracle AI Databaseサービスにより、イノベーションとクラウド移行を加速できます。Oracle AI DatabaseのAIベクトル検索やGoogleのVertex AIなどの機能を活用して、アプリケーションを迅速に構築・モダナイズできます。",
+    "image": "https://files.speakerdeck.com/presentations/f8f4a3e908c14c1ebe3ffd6f7963d88d/preview_slide_0.jpg?39002815",
+    "fetched_at": "2026-04-07 15:03:03",
+    "ja_summary": "・Google Cloud上でOracleのAIデータベースが利用可能になり、クラウド移行とアプリ開発を迅速化。\n・GoogleのVertex AIと連携し、AIベクトル検索などを活用した高度なアプリケーション構築を実現。\n・4月16日開催の「Oracle AI World Tour Tokyo」にて、本サービスに関する展示やセッションを実施。"
+  },
+  {
+    "title": "AIネイティブな時代への準備",
+    "link": "https://qiita.com/jw-automation/items/c24b6e3d879176b27dff",
+    "source": "Qiita (Popular)",
+    "published": "2026-03-29T22:38:32+09:00",
+    "summary": "Codingエージェントの進化が日々凄まじいですが、自分の肌感覚としても感じている、今年～来年のメイントレンドになりそうな事をまとめてみました。\n\n領域や組織規模によるので一概には当然言えないですが、簡単な社内での振り返りやディスカッションのきっかけにして頂ければ嬉しいです。\n\n## 1. ノーコード/ローコードは、AI時代にはボトルネックになりうる\n\n\n**ノーコード/ローコードは短期的な立ち上",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0MzEzMDYlMkY2ZmZjNGM5MTIwNDk0ZjUwOGVjMDk2MDJjYzY1YTNhMjliZWZlODA1JTJGbGFyZ2UucG5nJTNGMTU4ODQ4Mjk2MT9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9YzFhZWMzZDJlNGFkNTkxZGYyY2RmMzhiYTE2NjVhZDI%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D7dd8f6650456cadb38e6b2cce6b8e2c6?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9QUklRTMlODMlOEQlRTMlODIlQTQlRTMlODMlODYlRTMlODIlQTMlRTMlODMlOTYlRTMlODElQUElRTYlOTklODIlRTQlQkIlQTMlRTMlODElQjglRTMlODElQUUlRTYlQkElOTYlRTUlODIlOTkmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz00ZTFjZmU4YmYzYmEwNDFmYWUwMjUwYjAyMzcyZDY3Ng&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBqdy1hdXRvbWF0aW9uJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9ZmRmNjBhN2UwM2VhMDRhYjU3ZjkwZjQ1ZDZhY2QwODk&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=f6a9a75e46c8efb89f4f1aed51efbbed",
+    "fetched_at": "2026-04-07 15:03:06",
+    "ja_summary": "・AIエージェントの進化により、ノーコード/ローコードツールが逆に開発のボトルネックとなる時代が到来する。\n・今後1〜2年はAIネイティブな開発手法がトレンドとなり、従来の手法からの転換が求められる。\n・組織規模に応じたAI活用の最適化に向け、社内での議論と見直しが必要である。"
+  },
+  {
     "title": "Anthropic、グーグルとブロードコム提携を拡大　数GWのTPU確保",
     "link": "https://www.watch.impress.co.jp/docs/news/2099625.html",
     "source": "Impress Watch",
@@ -918,85 +998,5 @@
     "image": "https://japan.cnet.com/storage/2026/04/02/7d984d02f816646002dc633dc95db6d0/t/184/138/d/ai-wine-fridge-16x9_1280x960.jpg",
     "fetched_at": "2026-04-06 14:50:28",
     "ja_summary": "・サムスンがAI搭載の新型ワイン冷蔵庫を発売。\n・内蔵カメラが銘柄や年号を自動認識し、ワインの場所を即座に特定。\n・探す手間を省き、在庫管理を効率化する。"
-  },
-  {
-    "title": "AIがコードを書くほど、要件定義は上に移動する――Spec・Context・Harness三層設計",
-    "link": "https://zenn.dev/gvatech_blog/articles/30f79910d111bb",
-    "source": "Zenn Trends",
-    "published": "Sun, 05 Apr 2026 11:39:58 GMT",
-    "summary": "想定読了時間: 25分（detailsを展開する場合 35分）\n対象読者: B2B SaaSの要件定義に関わるエンジニア・PM。前作の8ステップを知っていると理解が深まるが、未読でも本記事単独で読み進められる。\n先に全体像だけ掴みたい場合は、TL;DR → 「3つの新概念」 → 「チェックリスト」 → 「次アクション」だけ読めば十分です。\n前作: 「要望」「要求」「要件」は別物――役割別観測点を同じ座標系に変換するSaaS要件定義8ステップ地図\n\n\n TL;DR\n\nAIでコードが書ける時代だからこそ、「何を作るか」を定義するプロセスの重要性は上がっている。抽象化の歴史に照らせば、要件定...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--NRP-vFlW--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%25E3%2581%258C%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2589%25E3%2582%2592%25E6%259B%25B8%25E3%2581%258F%25E3%2581%25BB%25E3%2581%25A9%25E3%2580%2581%25E8%25A6%2581%25E4%25BB%25B6%25E5%25AE%259A%25E7%25BE%25A9%25E3%2581%25AF%25E4%25B8%258A%25E3%2581%25AB%25E7%25A7%25BB%25E5%258B%2595%25E3%2581%2599%25E3%2582%258B%25E2%2580%2595%25E2%2580%2595Spec%25E3%2583%25BBContext%25E3%2583%25BBHarness%25E4%25B8%2589%25E5%25B1%25A4%25E8%25A8%25AD%25E8%25A8%2588%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E3%2581%25A6%25E3%2582%258B%25E3%2581%2595%25E3%2582%2593%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2NhNjI5MDhlYWEuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:GVATECH%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSzg1WktDeU8zakt4Y2l3YWc4SmJkT2o5NVUwR1BnNnZMaGZvNmJjVjJYWEh3ZGVUTUI9czk2LWM=%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-    "fetched_at": "2026-04-06 14:50:52",
-    "ja_summary": "AIの普及でコード生成が自動化される分、エンジニアやPMには「何を作るか」という上流の要件定義能力がより強く求められる。\n抽象化が進む現代において、要件定義を「Spec・Context・Harness」の三層で設計する手法が不可欠である。\nコードを書くこと以上に、ビジネス価値を的確に定義するプロセスへ注力することが、今後のエンジニアの核心となる。"
-  },
-  {
-    "title": "データエンジニアのためのオントロジー入門 ― Semantic Layer との違いと役割分担",
-    "link": "https://zenn.dev/bare64/articles/ecac1bbf510ce4",
-    "source": "Zenn Trends",
-    "published": "Sun, 05 Apr 2026 11:00:05 GMT",
-    "summary": "はじめに\n最近、データエンジニアリング界隈で「オントロジー」という言葉を見かける機会が増えてきました。X のポストやブログ記事でも、コンテキストエンジニアリングや AI エージェントの文脈で「オントロジー」が取り上げられることが増えています。\nX投稿:\nhttps://x.com/takimo/status/2039518588269379738?s=20\nhttps://x.com/ikki_mz/status/2039542357872558385?s=20\n記事:\nhttps://metadataweekly.substack.com/p/ontologies-context-...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--5t0N3YVa--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2587%25E3%2583%25BC%25E3%2582%25BF%25E3%2582%25A8%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%258B%25E3%2582%25A2%25E3%2581%25AE%25E3%2581%259F%25E3%2582%2581%25E3%2581%25AE%25E3%2582%25AA%25E3%2583%25B3%25E3%2583%2588%25E3%2583%25AD%25E3%2582%25B8%25E3%2583%25BC%25E5%2585%25A5%25E9%2596%2580%2520%25E2%2580%2595%2520Semantic%2520Layer%2520%25E3%2581%25A8%25E3%2581%25AE%25E9%2581%2595%25E3%2581%2584%25E3%2581%25A8%25E5%25BD%25B9%25E5%2589%25B2%25E5%2588%2586%25E6%258B%2585%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:surimi%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2FmY2M5YmFjZTcuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:bare64%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2QyN2VlOGY4ZTUuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-    "fetched_at": "2026-04-06 14:50:53",
-    "ja_summary": "・AIエージェントやコンテキストエンジニアリングの普及に伴い、データ構造化技術として「オントロジー」が注目されている。\n・データエンジニアリングにおける「Semantic Layer」との役割の違いを理解し、適切に使い分けることが重要。\n・データに意味を持たせ、AIが文脈を深く理解するための基盤技術としてオントロジーの活用が進んでいる。"
-  },
-  {
-    "title": "誰もがGitを触る時代に、やさしい入門サイトを作った",
-    "link": "https://zenn.dev/nabewata/articles/d5261127bdd3c5",
-    "source": "Zenn Trends",
-    "published": "Sun, 05 Apr 2026 00:12:59 GMT",
-    "summary": "きっかけ\n非エンジニアの同僚から、Gitの使い方を聞かれることが増えてきました。デザイナー、ライター、ディレクター、営業企画。立場は違えど、AI時代に入ってバージョン管理が自分ごとになってきた人たちです。\n最初は既存の入門記事を紹介していたんですが、どれもしっくり来ないようでした。用語の説明が少ない、コマンドの意味がイメージできない、失敗が怖い。話を聞いていると、エンジニアが見落としがちな壁がたくさんあるなと感じました。\nそれなら自分で書いてしまおうかと思い、Git入門サイトを作ってみました。\nhttps://git-ready.easegis.jp/\n\n 設計の方針\nサイトを作る...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--udUo2Pby--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E8%25AA%25B0%25E3%2582%2582%25E3%2581%258CGit%25E3%2582%2592%25E8%25A7%25A6%25E3%2582%258B%25E6%2599%2582%25E4%25BB%25A3%25E3%2581%25AB%25E3%2580%2581%25E3%2582%2584%25E3%2581%2595%25E3%2581%2597%25E3%2581%2584%25E5%2585%25A5%25E9%2596%2580%25E3%2582%25B5%25E3%2582%25A4%25E3%2583%2588%25E3%2582%2592%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:easegis%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzFkNjhkYjg0NzEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-    "fetched_at": "2026-04-06 14:50:53",
-    "ja_summary": "・非エンジニアの間でGitの需要が高まる一方、既存の入門記事は難解で挫折しやすいのが課題だった。\n・エンジニア特有の視点ではなく、初心者目線で用語やコマンドを分かりやすく解説する入門サイトを制作。\n・Gitを学びたいビジネスパーソンに向けて、失敗を恐れず直感的に学べる環境を提供している。"
-  },
-  {
-    "title": "\"まず試す\"ためのDatabricks Apps活用法 / Databricks Apps for Early Experiments and Validation",
-    "link": "https://speakerdeck.com/nttcom/databricks-apps-for-early-experiments-and-validation",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-04-06T01:39:27-04:00",
-    "summary": "2026年4月2日の「Databricks Apps 開発者が来日！緊急 JEDAI スペシャルナイト」のLTでの講演資料です。\n https://jedai.connpass.com/event/387108/",
-    "image": "https://files.speakerdeck.com/presentations/fb327d0fd4cd44a9badcf199db6ee9d8/preview_slide_0.jpg?38992400",
-    "fetched_at": "2026-04-06 14:50:54",
-    "ja_summary": "Databricks Appsを活用し、データプラットフォーム上でアプリを迅速に構築・検証する方法を解説。\nプロトタイピングの効率化により、ビジネスアイディアの検証から導入までのスピードを向上させる。\n開発者向けコミュニティイベントでの講演資料として、早期活用による技術的メリットを提示。"
-  },
-  {
-    "title": "OpenAIが人気トーク番組「TBPN」を買収　「編集の独立性」疑う声も",
-    "link": "https://japan.cnet.com/article/35246073/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "OpenAIは、テクノロジーについて解説する人気番組を配信するTBPNの買収を発表した。これに対し「編集の独立性」を問う声も出ている。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35246073/\"><img src=\"https://japan.cnet.com/storage/2026/04/06/4517062dad628c91bce5286370b3fae2/t/184/138/d/tbpn-16x9_1280x960.jpg\" /></a>",
-    "image": "https://japan.cnet.com/storage/2026/04/06/4517062dad628c91bce5286370b3fae2/t/184/138/d/tbpn-16x9_1280x960.jpg",
-    "fetched_at": "2026-04-06 12:39:01",
-    "ja_summary": "・OpenAIが人気テクノロジー解説番組「TBPN」を買収。\n・自社サービスを扱うメディアの傘下入りに対し、報道の公平性を懸念する声が浮上。"
-  },
-  {
-    "title": "英語翻訳を通じて 音声AIエージェント入門してみた",
-    "link": "https://speakerdeck.com/shichijoyuhi/ying-yu-fan-yi-wotong-zite-yin-sheng-aiezientoru-men-sitemita",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-04-03T06:39:15-04:00",
-    "summary": "【AI】AILT会 - vol.1の登壇資料です。\nhttps://ai-likers.connpass.com/event/386271/",
-    "image": "https://files.speakerdeck.com/presentations/9a4f60c122334791a1ffecc017587cc1/preview_slide_0.jpg?38979117",
-    "fetched_at": "2026-04-06 12:39:25",
-    "ja_summary": "・英語翻訳を題材に、最新の音声AIエージェント構築手法を解説。\n・AILT会vol.1での登壇資料で、AI実装の技術的知見を公開。\n・音声対話型AIの活用や導入を検討する技術者向けの実践ガイド。"
-  },
-  {
-    "title": "VAIO、国内向けPCを4月23日から値上げ　生成AI普及でメモリ逼迫",
-    "link": "https://japan.cnet.com/article/35245963/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "VAIOは4月1日、国内向けの個人向け・法人向けPC製品の出荷価格を4月23日10時以降、順次改定すると発表した。対象製品は値上げとなる。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35245963/\"><img src=\"https://japan.cnet.com/storage/2026/04/02/012ebf2364786ed8cfd9346c3589a80e/t/184/138/d/2026-04-02_15.58の画像.jpeg\" /></a>",
-    "image": "https://japan.cnet.com/storage/2026/04/02/012ebf2364786ed8cfd9346c3589a80e/t/184/138/d/2026-04-02_15.58の画像.jpeg",
-    "fetched_at": "2026-04-06 09:03:16",
-    "ja_summary": "・VAIOは4月23日10時より、国内向けPC全般の価格を改定（値上げ）する。\n・主な要因は生成AIの普及に伴うメモリ需要の増大と、それに伴う部品の供給逼迫。\n・購入検討者は、改定前の価格で購入可能か早急に確認する必要がある。"
-  },
-  {
-    "title": "【西田宗千佳のイマトミライ】言語の壁が低くなった　Xとスマートグラスの「翻訳」はなにをもたらすか",
-    "link": "https://www.watch.impress.co.jp/docs/series/nishida/2099213.html",
-    "source": "Impress Watch",
-    "published": "",
-    "summary": "AIの普及により、言葉の壁は急速に低くなってきている。",
-    "image": "https://www.watch.impress.co.jp/img/ipw/list/2099/213/m00.jpg",
-    "fetched_at": "2026-04-06 08:31:51",
-    "ja_summary": "AIの進化により言語の壁が急速に消失している。\nX（旧Twitter）の翻訳機能やスマートグラスなどの技術革新が、グローバルな意思疎通を劇的に変えつつある。\n今後、テクノロジーによる言語障壁の克服が、ビジネスや日常のコミュニケーションに新たな可能性をもたらす。"
   }
 ]
