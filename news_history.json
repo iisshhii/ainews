@@ -1,5 +1,45 @@
 [
   {
+    "title": "Anthropic’s Responsible Scaling Policy: Version 3.0",
+    "link": "https://www.anthropic.com/news/responsible-scaling-policy-v3",
+    "source": "Anthropic (News)",
+    "published": "Tue, 24 Feb 2026 00:00:00 +0000",
+    "summary": "Anthropic’s Responsible Scaling Policy: Version 3.0",
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Quill&amp;backgroundColor=olive",
+    "fetched_at": "2026-04-07 19:01:36",
+    "ja_summary": "・AI開発企業Anthropicが「責任あるスケーリング・ポリシー」の第3版を策定。\n・AIモデルの安全性評価基準を強化し、開発段階ごとの厳格な管理体制を定義。\n・極めて高いリスクを持つAI開発に対し、具体的な安全対策と公的責任を明文化。"
+  },
+  {
+    "title": "Cortex Codeでデータの仕事を全部Agenticにやりきろう！",
+    "link": "https://speakerdeck.com/gappy50/cortex-codededetanoshi-shi-woquan-bu-agenticniyarikirou",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-04-07T05:41:24-04:00",
+    "summary": "AI駆動開発 x Snowflake - Snowflake Night #3\n\nhttps://snowflakejapan.connpass.com/event/385891/",
+    "image": "https://files.speakerdeck.com/presentations/3acfc14704e541318885a3ebdfdf52c0/preview_slide_0.jpg?39006343",
+    "fetched_at": "2026-04-07 19:01:38",
+    "ja_summary": "・SnowflakeのAI機能「Cortex」を活用した自律的なデータ分析・開発手法を学ぶ技術イベント。\n・AIエージェントによるデータ業務の自動化・効率化事例を紹介。\n・データエンジニアやAI活用に関心のあるエンジニア向けの開発者コミュニティイベント。"
+  },
+  {
+    "title": "Googleが提唱したDESIGN.mdとは？Claude CodeとDESIGN.mdでデモサイトをいくつか作ってみた",
+    "link": "https://qiita.com/miruky/items/a6312c14e6352376ec00",
+    "source": "Qiita (Popular)",
+    "published": "2026-04-04T22:04:01+09:00",
+    "summary": "## はじめに\n![スクリーンショット 2026-04-04 19.54.10.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3637204/6067acaf-2a15-4f50-9736-d618d8070e86.png)\n\n\nこんばんは、mirukyです。\n**個人的にAIにデザインを指定するのって、意外と難し",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGMzYzNzIwNCUyRnByb2ZpbGUtaW1hZ2VzJTJGMTc3NDQ0NTA3MD9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NWY2OTc3NjFmNDZhMTA4YTgyMjNmMDEzODFkMGVmZTY%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Db2bc8d820e2037057c6470791c40d1f8?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9R29vZ2xlJUUzJTgxJThDJUU2JThGJTkwJUU1JTk0JUIxJUUzJTgxJTk3JUUzJTgxJTlGREVTSUdOLm1kJUUzJTgxJUE4JUUzJTgxJUFGJUVGJUJDJTlGQ2xhdWRlJTIwQ29kZSVFMyU4MSVBOERFU0lHTi5tZCVFMyU4MSVBNyVFMyU4MyU4NyVFMyU4MyVBMiVFMyU4MiVCNSVFMyU4MiVBNCVFMyU4MyU4OCVFMyU4MiU5MiVFMyU4MSU4NCVFMyU4MSU4RiVFMyU4MSVBNCVFMyU4MSU4QiVFNCVCRCU5QyVFMyU4MSVBMyVFMyU4MSVBNiVFMyU4MSVCRiVFMyU4MSU5RiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTE5MThjYTk0YTc1ODgyNzJjOTRkYzY5MDg1OTVlNDdh&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBtaXJ1a3kmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1iMWMwZjM0MGFkNTI5NmU1ZmNjNDFiZDQxMGY0YWRjYw&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=1241dbc58facb003d557b2e782682cc6",
+    "fetched_at": "2026-04-07 19:01:40",
+    "ja_summary": "Google提唱の「DESIGN.md」を用い、AIツール「Claude Code」を活用してWebサイト開発を効率化する手法を解説。\nAIにデザインの意図を正確に伝達・共有するためのドキュメント形式としてDESIGN.mdの実用性を検証。\n実際にデモサイトを作成するプロセスを通じ、AIによる実装の精度向上や開発ワークフローへの導入事例を紹介。"
+  },
+  {
+    "title": "Vibe Coding、最初は速い。でも後半で急にしんどくなる",
+    "link": "https://qiita.com/engchina/items/2b28f629ea2daab701cd",
+    "source": "Qiita (Popular)",
+    "published": "2026-04-05T08:25:53+09:00",
+    "summary": "\n## 実際にやってみて分かったこと\n\n最近 Vibe Coding を続けていて、最初はかなり便利だと感じました。\n画面も処理もすぐ形になるし、初速は本当に速いです。\n\nただ、機能が増えてくると、しんどさの種類が変わってきます。\n大変なのは「コードを書くこと」より、その後の設計、整合性、テスト、レビューでした。\n\n今回は、実際に進める中で感じたことを、開発の流れに沿って短くまとめます。\n\n---",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYzOTMyNzgxJTJGOTA5ODgyYWQ5YTcwNWVmZjI2ZmM5NDBmMzg0MzQwMWU3OWQyNjY4YyUyRnhfbGFyZ2UucG5nJTNGMTc2OTAzODc0OD9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NjczZTk1ZDQ4MzQ5ZTQxOTY1ZTM2ZjBlNTRlYmM0Nzk%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYzMDk1NWZhN2YwMzlhODVjNDQ5ZmY0ODBhMmE3ZGJjNWQ5ZmY1YWIwJTJGb3JpZ2luYWwuanBnJTNGMTQ1MjE0NTY4Mz9peGxpYj1yYi00LjAuMCZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz0yYjVlN2VmYzdkMGI4OGNjOGRlOTIyYzFmZTQ3YzJhNQ%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3Dbaa201298ba6e7eb53ad57b1c6079b32?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9VmliZSUyMENvZGluZyVFMyU4MCU4MSVFNiU5QyU4MCVFNSU4OCU5RCVFMyU4MSVBRiVFOSU4MCU5RiVFMyU4MSU4NCVFMyU4MCU4MiVFMyU4MSVBNyVFMyU4MiU4MiVFNSVCRSU4QyVFNSU4RCU4QSVFMyU4MSVBNyVFNiU4MCVBNSVFMyU4MSVBQiVFMyU4MSU5NyVFMyU4MiU5MyVFMyU4MSVBOSVFMyU4MSU4RiVFMyU4MSVBQSVFMyU4MiU4QiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTdlYWZmMTU3M2ZlNGFjZjVjMjMyZTZkYjBiNDYwYmVi&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBlbmdjaGluYSZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWM1MTU1ODVkZTE0NzU1ZjlkMjcwYjJlZGU2ZTljYTNl&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=5pel5pys44Kq44Op44Kv44Or5qCq5byP5Lya56S-&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=91703f0393066960202885cb985bcb5e",
+    "fetched_at": "2026-04-07 19:01:40",
+    "ja_summary": "・Vibe Codingは初期開発のスピード感には優れている。\n・開発が進むと設計やテスト、整合性管理の負担が急増する。\n・実装後の品質維持やレビューといった後半工程こそが真の難所となる。"
+  },
+  {
     "title": "GMOロリポップ!、AIでWebサイトを自動生成する新プラン",
     "link": "https://www.watch.impress.co.jp/docs/news/2099789.html",
     "source": "Impress Watch",
@@ -958,45 +998,5 @@
     "image": "https://files.speakerdeck.com/presentations/43ceddae2f95498cac16db7455dd86c4/preview_slide_0.jpg?38994425",
     "fetched_at": "2026-04-06 17:51:53",
     "ja_summary": "・MIXI法務部が実践した、46の施策による業務効率化とAI導入事例を解説。\n・導入初期の課題からコスト・リードタイム削減の具体的な検証結果までを網羅。\n・チャット利用を超えた、バックオフィス全体のDXを加速させる実践的ノウハウを公開。"
-  },
-  {
-    "title": "Data Enabling Team立ち上げました",
-    "link": "https://speakerdeck.com/sansantech/260406",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-04-06T04:21:25-04:00",
-    "summary": "■ イベント\nデータ基盤「作って終わり」にしないために - 注目テック企業3社に学ぶ「事業価値を最大化する」活用術\nhttps://asoview.connpass.com/event/385632/\n\n■ 発表者\n技術本部 CTO室 AI Solution Development\n矢田 結一郎\n\n■ 技術本部 採用情報\nhttps://media.sansan-engineering.com",
-    "image": "https://files.speakerdeck.com/presentations/74d1c54f4e2a48b6aaf96629f322ef30/preview_slide_0.jpg?38994372",
-    "fetched_at": "2026-04-06 17:51:53",
-    "ja_summary": "・データ活用を事業価値に直結させるための「Data Enabling Team」を新設。\n・データ基盤の構築で終わらせず、活用を最大化するノウハウを学ぶイベントにCTO室の矢田氏が登壇。\n・技術本部では現在、組織拡大に伴うエンジニアの採用を強化中。"
-  },
-  {
-    "title": "iFLYTEK、デュアルスクリーン搭載の対面特化のAI翻訳機",
-    "link": "https://www.watch.impress.co.jp/docs/news/2099389.html",
-    "source": "Impress Watch",
-    "published": "",
-    "summary": "iFLYTEK JAPAN AI SOLUTIONSは、翻訳デバイス「iFLYTEK デュアルスクリーンAI翻訳機」を4月6日に販売開始した。販売チャネルはオフィシャルサイトとAmazon。143言語(アクセントを含む)の相互翻訳に対応し、17言語のオフライン翻訳も利用できる。直販価格は99,800円。",
-    "image": "https://www.watch.impress.co.jp/img/ipw/list/2099/389/i03.jpg",
-    "fetched_at": "2026-04-06 16:19:51",
-    "ja_summary": "・iFLYTEKが対面特化のデュアルスクリーンAI翻訳機を発売。\n・143言語のオンライン翻訳と17言語のオフライン翻訳に対応。\n・価格は99,800円で、公式サイトおよびAmazonで販売中。"
-  },
-  {
-    "title": "メタ社員に追加人員削減の不安広がる。「劇的すぎる」AIトランスフォーメーション、その中身",
-    "link": "https://www.businessinsider.jp/article/cutting-edge-20260402-meta-ai-coding-tools/",
-    "source": "Business Insider Japan",
-    "published": "Mon, 06 Apr 2026 07:00:00 GMT",
-    "summary": "メタ・プラットフォームズが最優先課題として取り組んでいるのが、製品開発時間の短縮と品質向上を実現するAIコーディング支援ツールやAIエージェントの社内活用の徹底。どんな変化が起きているのでしょうか。担当記者が動揺する現場の様子を明らかにします。",
-    "image": "https://media.loom-app.com/loom/2026/04/06/bfe68539-770f-4334-a52c-022604e0bb75/original.jpg?w=1200&amp;h=630",
-    "fetched_at": "2026-04-06 16:19:57",
-    "ja_summary": "・メタ社がAIコーディングツールやAIエージェントを全社的に導入し、開発体制を刷新。\n・業務の効率化が進む一方、社員の間では人員削減に対する不安と動揺が広がっている。\n・「AIによる劇的な変革」が現場の雇用環境にどのような影響を及ぼすかが焦点。"
-  },
-  {
-    "title": "AICore Developer Preview で Gemma 4 を試す",
-    "link": "https://note.com/npaka/n/n79383ac828ec",
-    "source": "note (npaka)",
-    "published": "Fri, 03 Apr 2026 23:00:51 +0900",
-    "summary": "<p id=\"5d203460-9487-4d23-a979-3c62cb92a7f3\" name=\"5d203460-9487-4d23-a979-3c62cb92a7f3\">以下の記事が面白かったので、簡単にまとめました。</p><figure id=\"7d6ae62e-7177-4dd7-8277-72bb316cf6bf\" name=\"7d6ae62e-7177-4dd7-8277-72bb316cf6bf\"><blockquote><p id=\"7bf996af-c4d2-439c-aa59-0a8b50a1f79d\" name=\"7bf996af-c4d2-439c-aa59-0a8b50a1f79d\"><strong>・</strong><a href=\"https://android-developers.googleblog.com/2026/04/AI-Core-Developer-Preview.html\" rel=\"nofollow noopener\" target=\"_blank\"><strong>Announcing Gemma 4 in the AICore Developer Preview</strong></a></p></blockquote>\n<figcaption></figcaption></figure><br /><a href=\"https://note.com/npaka/n/n79383ac828ec\">続きをみる</a>",
-    "image": "https://assets.st-note.com/production/uploads/images/264518068/rectangle_large_type_2_6ef5d28cf4ce1752962b0e118dfbc343.png?width=800",
-    "fetched_at": "2026-04-06 16:19:58",
-    "ja_summary": "・Googleが開発者向けプレビュー版「AICore」にて、最新AIモデル「Gemma 4」の提供を開始。\n・スマホ等のデバイス上で軽量かつ高性能なAI実行が可能になり、開発者はアプリへの統合を試せる。\n・Android環境におけるオンデバイスAIの活用がより身近で手軽なものとなる。"
   }
 ]
