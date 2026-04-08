@@ -1,5 +1,55 @@
 [
   {
+    "title": "AICore Developer Preview で Gemma 4 を試す",
+    "link": "https://note.com/npaka/n/n79383ac828ec",
+    "source": "note (npaka)",
+    "published": "Fri, 03 Apr 2026 23:00:51 +0900",
+    "summary": "<p id=\"5d203460-9487-4d23-a979-3c62cb92a7f3\" name=\"5d203460-9487-4d23-a979-3c62cb92a7f3\">以下の記事が面白かったので、簡単にまとめました。</p><figure id=\"7d6ae62e-7177-4dd7-8277-72bb316cf6bf\" name=\"7d6ae62e-7177-4dd7-8277-72bb316cf6bf\"><blockquote><p id=\"7bf996af-c4d2-439c-aa59-0a8b50a1f79d\" name=\"7bf996af-c4d2-439c-aa59-0a8b50a1f79d\"><strong>・</strong><a href=\"https://android-developers.googleblog.com/2026/04/AI-Core-Developer-Preview.html\" rel=\"nofollow noopener\" target=\"_blank\"><strong>Announcing Gemma 4 in the AICore Developer Preview</strong></a></p></blockquote>\n<figcaption></figcaption></figure><br /><a href=\"https://note.com/npaka/n/n79383ac828ec\">続きをみる</a>",
+    "image": "https://assets.st-note.com/production/uploads/images/264518068/rectangle_large_type_2_6ef5d28cf4ce1752962b0e118dfbc343.png?width=800",
+    "fetched_at": "2026-04-09 08:24:06",
+    "ja_summary": "GoogleがAICoreのデベロッパープレビューで「Gemma 4」を公開しました。\nこれにより、開発者は最新のAIモデルを試せるようになります。\n詳細な内容はリンク先で確認できます。"
+  },
+  {
+    "title": "ニュータニックス、AIインフラのコスト削減と迅速展開を図る新施策--「.NEXT 2026」基調講演",
+    "link": "https://japan.zdnet.com/article/35246199/",
+    "source": "ZDNET Japan",
+    "published": "",
+    "summary": "Nutanixは年次カンファレンス「.NEXT 2026」を米国・シカゴで開催している。プレジデント 兼 CEOのRajiv Ramaswami氏 は、「Nutanix Agentic AI」をはじめ、最新の製品アップデートと戦略的パートナーシップの詳細を明らかにした。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35246199/\"><img src=\"https://japan.zdnet.com/storage/2026/04/09/a227b15315d69b1ad17e299f249ab460/t/184/138/d/260409_nutanix_001.JPG\" /></a>",
+    "image": "https://japan.zdnet.com/storage/2026/04/09/a227b15315d69b1ad17e299f249ab460/t/184/138/d/260409_nutanix_001.JPG",
+    "fetched_at": "2026-04-09 08:24:12",
+    "ja_summary": "Nutanixが年次イベント「.NEXT 2026」を開催し、AIインフラのコスト削減と迅速な導入を支援する新戦略を発表。\n自律型AI「Nutanix Agentic AI」の投入に加え、最新の製品アップデートやパートナーシップ強化を明かした。\nAI環境の構築・運用を効率化し、企業のAI活用を加速させるためのプラットフォーム基盤を強化する。"
+  },
+  {
+    "title": "Cortex Codeでデータの仕事を全部Agenticにやりきろう！",
+    "link": "https://speakerdeck.com/gappy50/cortex-codededetanoshi-shi-woquan-bu-agenticniyarikirou",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-04-07T05:41:24-04:00",
+    "summary": "AI駆動開発 x Snowflake - Snowflake Night #3\n\nhttps://snowflakejapan.connpass.com/event/385891/",
+    "image": "https://files.speakerdeck.com/presentations/3acfc14704e541318885a3ebdfdf52c0/preview_slide_0.jpg?39006343",
+    "fetched_at": "2026-04-09 08:24:30",
+    "ja_summary": "・SnowflakeのAI機能「Cortex」を活用したデータ業務の自動化（Agentic化）手法を解説\n・AI駆動開発とSnowflakeを組み合わせ、データ活用を効率化・高度化するヒントを提供\n・Snowflake技術者・データエンジニア向けの知見共有イベント（12/11開催）"
+  },
+  {
+    "title": "Googleが提唱したDESIGN.mdとは？Claude CodeとDESIGN.mdでデモサイトをいくつか作ってみた",
+    "link": "https://qiita.com/miruky/items/a6312c14e6352376ec00",
+    "source": "Qiita (Popular)",
+    "published": "2026-04-04T22:04:01+09:00",
+    "summary": "## はじめに\n![スクリーンショット 2026-04-04 19.54.10.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3637204/6067acaf-2a15-4f50-9736-d618d8070e86.png)\n\n\nこんばんは、mirukyです。\n**個人的にAIにデザインを指定するのって、意外と難し",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGMzYzNzIwNCUyRnByb2ZpbGUtaW1hZ2VzJTJGMTc3NDQ0NTA3MD9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NWY2OTc3NjFmNDZhMTA4YTgyMjNmMDEzODFkMGVmZTY%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Db2bc8d820e2037057c6470791c40d1f8?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9R29vZ2xlJUUzJTgxJThDJUU2JThGJTkwJUU1JTk0JUIxJUUzJTgxJTk3JUUzJTgxJTlGREVTSUdOLm1kJUUzJTgxJUE4JUUzJTgxJUFGJUVGJUJDJTlGQ2xhdWRlJTIwQ29kZSVFMyU4MSVBOERFU0lHTi5tZCVFMyU4MSVBNyVFMyU4MyU4NyVFMyU4MyVBMiVFMyU4MiVCNSVFMyU4MiVBNCVFMyU4MyU4OCVFMyU4MiU5MiVFMyU4MSU4NCVFMyU4MSU4RiVFMyU4MSVBNCVFMyU4MSU4QiVFNCVCRCU5QyVFMyU4MSVBMyVFMyU4MSVBNiVFMyU4MSVCRiVFMyU4MSU5RiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTE5MThjYTk0YTc1ODgyNzJjOTRkYzY5MDg1OTVlNDdh&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBtaXJ1a3kmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1iMWMwZjM0MGFkNTI5NmU1ZmNjNDFiZDQxMGY0YWRjYw&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=1241dbc58facb003d557b2e782682cc6",
+    "fetched_at": "2026-04-09 08:24:31",
+    "ja_summary": "Googleが提唱するDESIGN.mdは、AIにデザインを指示するための新しい手法です。\nClaude CodeとDESIGN.mdを使い、実際にデモサイトを作成した事例を紹介しています。\nAIによるデザイン指示の難しさと、その解決策について解説します。"
+  },
+  {
+    "title": "Vibe Coding、最初は速い。でも後半で急にしんどくなる",
+    "link": "https://qiita.com/engchina/items/2b28f629ea2daab701cd",
+    "source": "Qiita (Popular)",
+    "published": "2026-04-05T08:25:53+09:00",
+    "summary": "\n## 実際にやってみて分かったこと\n\n最近 Vibe Coding を続けていて、最初はかなり便利だと感じました。\n画面も処理もすぐ形になるし、初速は本当に速いです。\n\nただ、機能が増えてくると、しんどさの種類が変わってきます。\n大変なのは「コードを書くこと」より、その後の設計、整合性、テスト、レビューでした。\n\n今回は、実際に進める中で感じたことを、開発の流れに沿って短くまとめます。\n\n---",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYzOTMyNzgxJTJGOTA5ODgyYWQ5YTcwNWVmZjI2ZmM5NDBmMzg0MzQwMWU3OWQyNjY4YyUyRnhfbGFyZ2UucG5nJTNGMTc2OTAzODc0OD9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NjczZTk1ZDQ4MzQ5ZTQxOTY1ZTM2ZjBlNTRlYmM0Nzk%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYzMDk1NWZhN2YwMzlhODVjNDQ5ZmY0ODBhMmE3ZGJjNWQ5ZmY1YWIwJTJGb3JpZ2luYWwuanBnJTNGMTQ1MjE0NTY4Mz9peGxpYj1yYi00LjAuMCZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz0yYjVlN2VmYzdkMGI4OGNjOGRlOTIyYzFmZTQ3YzJhNQ%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3Dbaa201298ba6e7eb53ad57b1c6079b32?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9VmliZSUyMENvZGluZyVFMyU4MCU4MSVFNiU5QyU4MCVFNSU4OCU5RCVFMyU4MSVBRiVFOSU4MCU5RiVFMyU4MSU4NCVFMyU4MCU4MiVFMyU4MSVBNyVFMyU4MiU4MiVFNSVCRSU4QyVFNSU4RCU4QSVFMyU4MSVBNyVFNiU4MCVBNSVFMyU4MSVBQiVFMyU4MSU5NyVFMyU4MiU5MyVFMyU4MSVBOSVFMyU4MSU4RiVFMyU4MSVBQSVFMyU4MiU4QiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTdlYWZmMTU3M2ZlNGFjZjVjMjMyZTZkYjBiNDYwYmVi&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBlbmdjaGluYSZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWM1MTU1ODVkZTE0NzU1ZjlkMjcwYjJlZGU2ZTljYTNl&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=5pel5pys44Kq44Op44Kv44Or5qCq5byP5Lya56S-&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=91703f0393066960202885cb985bcb5e",
+    "fetched_at": "2026-04-09 08:24:32",
+    "ja_summary": "Vibe Codingは初期開発が速いものの、機能追加で設計やテストといった後半の工程が大変になる。\n画面や処理はすぐに形になるが、コードを書くこと自体より、その後の整合性やレビューが負担になる。\n開発が進むにつれて、当初のスピード感とは異なる課題に直面することが示唆されている。"
+  },
+  {
     "title": "“自販機が話し出す”未来がすぐそこに!?　進化する「音声AI×ハードウェア」、日本の勝機は",
     "link": "https://www.itmedia.co.jp/business/articles/2604/09/news013.html",
     "source": "ITmedia ビジネス",
@@ -948,55 +998,5 @@
     "image": "https://openai.com/favicon.ico",
     "fetched_at": "2026-04-08 06:08:58",
     "ja_summary": "・ChatGPTのBusinessおよびEnterpriseプランで、使った分だけ支払う従量課金制が導入された。\n・導入の初期費用を抑え、チームの規模拡大に合わせて柔軟に利用できるようになった。"
-  },
-  {
-    "title": "ソフトバンクG、フィジカルAIに名乗り　通信がロボにもたらす賢さと速さ",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03550/032600005/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "ソフトバンクグループ（SBG）が自社のAI（人工知能）ロボット事業強化に動いている。2025年10月には、スイスABBのロボティクス部門の買収を発表。「人工超知能（ASI）」の実現を掲げるSBG代表取締役会長兼社長執行役員の孫正義氏は、ABBのロボティクス部門買収に当たって「ソフトバンクグループの次のフロンティアは『フィジカルAI』だ」と話す。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03550/032600005/topm.jpg?20220512",
-    "fetched_at": "2026-04-08 05:24:50",
-    "ja_summary": "・ソフトバンクGがスイスABBのロボティクス部門を買収し、AIロボット事業を本格強化。\n・孫正義社長は次なる成長領域を「フィジカルAI」と定義。\n・通信技術を融合させることで、ロボットの知能と処理速度の飛躍的な向上を目指す。"
-  },
-  {
-    "title": "Arm、サーバー向けMPU自前開発の深謀　顧客との摩擦は小さい",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11631/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "ソフトバンクグループ（SBG）傘下の英Arm（アーム）は、初めて自前で開発したIC「Arm AGI CPU」を発表した。AI（人工知能）データセンターを狙ったサーバー向けマイクロプロセッサー（MPU）で、最初の顧客となる米Meta Platforms（メタ・プラットフォームズ）と共同開発した。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11631/m.jpg?20220512",
-    "fetched_at": "2026-04-08 05:24:50",
-    "ja_summary": "・Armが初の自社製AIデータセンター向けCPUを発表\n・メタと共同開発し、AI処理に特化したサーバー向けMPUを構築\n・顧客と競合せず、自社技術の普及を加速させる戦略へ転換"
-  },
-  {
-    "title": "エプソン、インクジェットで半導体製造　ラピダスに出資「連携深める」",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11627/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "セイコーエプソンはプリンターで培ったインクジェット技術を生かし、半導体製造分野に参入する。人工知能（AI）半導体向けで需要が拡大している後工程（パッケージング工程）市場を開拓する。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11627/topm.jpg?20220512",
-    "fetched_at": "2026-04-08 05:24:51",
-    "ja_summary": "エプソンは、インクジェット技術を活かし、AI半導体製造の後工程分野に参入。\nラピダスへの出資も行い、連携を強化する。\nプリンター技術で半導体市場の拡大を狙う。"
-  },
-  {
-    "title": "ザハ事務所出身の建築家、AI前提の設計法を実践　設計者はキュレーターに",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03573/040300003/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "AI（人工知能）は建築設計のプロセスをも変えつつある。ザハ・ハディド・アーキテクツ出身のティム・フー氏は、AIを積極的に取り入れる建築家の1人だ。フー氏はAI時代の建築設計者の役割を、「キュレーター」に例える。その真意とは。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03573/040300003/44_sns.jpg?20220512",
-    "fetched_at": "2026-04-08 05:24:51",
-    "ja_summary": "ザハ事務所出身の建築家が、AIを前提とした設計手法を実践。\nAI時代の設計者は、AIが生成した案の中から最良のものを選ぶ「キュレーター」のような役割を担う。\nAIが設計プロセスを変革し、建築家の役割も進化している。"
-  },
-  {
-    "title": "エネルギー貯蔵が急拡大、過去最大・年間57GWh導入",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/02443/040300149/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "米国で蓄電池を含むエネルギー貯蔵設備の導入が急速に拡大している。人工知能（AI）やデータセンター（DC）の急増による電力需要の拡大、電気料金の上昇、電力網の安定化への対応が背景にある。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/02443/040300149/topm.jpg?20220512",
-    "fetched_at": "2026-04-08 05:24:52",
-    "ja_summary": "要約の生成に失敗しました。"
   }
 ]
