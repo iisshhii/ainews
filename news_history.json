@@ -1,5 +1,45 @@
 [
   {
+    "title": "“自販機が話し出す”未来がすぐそこに!?　進化する「音声AI×ハードウェア」、日本の勝機は",
+    "link": "https://www.itmedia.co.jp/business/articles/2604/09/news013.html",
+    "source": "ITmedia ビジネス",
+    "published": "Thu, 09 Apr 2026 07:00:00 +0900",
+    "summary": "音声AIの主戦場はコールセンターを超え、葬儀社や自動販売機など生活の「現場」へ拡大している。軽量な小型言語モデル（SLM）の台頭により、ネット不要の「オンデバイスAI」が現実味を帯びる中、日本が持つ勝機とは何か。高品質なハードウェアとアニメなどのIP、そして「おもてなし」の精神を融合させた、世界で勝つための「音声AI×ハードウェア」の国家戦略とは？　人手不足を解決する社会インフラの未来に迫る。",
+    "image": "https://image.itmedia.co.jp/business/articles/2604/09/cover_news013.jpg",
+    "fetched_at": "2026-04-10 04:12:50",
+    "ja_summary": "・音声AIが自販機等の生活現場へ浸透し、通信不要の「オンデバイスAI」が普及へ。\n・日本の強みであるハードウェア、IP（アニメ）、おもてなしの精神をAIと融合。\n・人手不足解消に向け、日本独自の付加価値を持った音声AIインフラの構築が急務。"
+  },
+  {
+    "title": "「データセンター」の中ってどうなってるの？　潜入して分かった、生成AIを支える「冷却技術の進化」",
+    "link": "https://www.itmedia.co.jp/business/articles/2604/09/news045.html",
+    "source": "ITmedia ビジネス",
+    "published": "Thu, 09 Apr 2026 07:00:00 +0900",
+    "summary": "千葉県印西市に新たなデータセンターが開業した。AI時代に対応したデータセンターの内部に潜入して、冷却技術の進化を見てきた様子をレポートする。",
+    "image": "https://image.itmedia.co.jp/business/articles/2604/09/cover_news045.jpg",
+    "fetched_at": "2026-04-10 04:12:51",
+    "ja_summary": "・生成AIの普及に伴い、千葉県印西市に最新鋭のデータセンターが開業。\n・サーバーの熱暴走を防ぐため、冷却技術がかつてないほど進化している。\n・AI時代を支えるインフラの最前線と、技術的な工夫が明らかになった。"
+  },
+  {
+    "title": "使えるAIに欠かせない　エージェントと周辺システム連携",
+    "link": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020500531/040200003/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "高性能なAI（人工知能）モデルを導入するだけでは、AIは使われない。前回AIアーキテクチャーの全体像や5階層で成るシステム構成を示した。UI／UX層とアプリケーション層、サービス・データ連携層の設計ポイントを解説する。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020500531/040200003/topm.jpg?20220512",
+    "fetched_at": "2026-04-10 04:13:05",
+    "ja_summary": "・高性能なAIも、導入だけでは実用化できず周辺システムとの連携が不可欠。\n・AIを「使える」状態にするには、UI/UXからデータ連携層までの全体設計が重要。\n・本記事では、システム構成の階層に基づいた具体的な設計ポイントを解説する。"
+  },
+  {
+    "title": "データサイエンティストの役割　AIで変わる、分析から「価値創造」へ",
+    "link": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/040200542/040200001/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "データサイエンティストの業務の一部がAI（人工知能）に「奪われている」。データサイエンティストには分析結果からどんな価値を引き出すかがより強く求められる。AI活用を前提に、データサイエンティストに必要となるスキルの定義を見直し、拡張した。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/040200542/040200001/topm.jpg?20220512",
+    "fetched_at": "2026-04-10 04:13:05",
+    "ja_summary": "・AIの普及により、データ分析業務は自動化が進んでいる。\n・今後は分析作業よりも、結果からいかにビジネス価値を創出するかが重要。\n・データサイエンティストには、AI活用を前提とした新たなスキルセットが求められている。"
+  },
+  {
     "title": "IoT開発基盤握る中国Tuya Smart、中立戦略で急成長　野心の矛先は家庭にも",
     "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03479/033100003/",
     "source": "日経クロステック 総合",
@@ -958,45 +998,5 @@
     "image": "https://assets.st-note.com/production/uploads/images/264518068/rectangle_large_type_2_6ef5d28cf4ce1752962b0e118dfbc343.png?width=800",
     "fetched_at": "2026-04-09 08:24:06",
     "ja_summary": "GoogleがAICoreのデベロッパープレビューで「Gemma 4」を公開しました。\nこれにより、開発者は最新のAIモデルを試せるようになります。\n詳細な内容はリンク先で確認できます。"
-  },
-  {
-    "title": "ニュータニックス、AIインフラのコスト削減と迅速展開を図る新施策--「.NEXT 2026」基調講演",
-    "link": "https://japan.zdnet.com/article/35246199/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "Nutanixは年次カンファレンス「.NEXT 2026」を米国・シカゴで開催している。プレジデント 兼 CEOのRajiv Ramaswami氏 は、「Nutanix Agentic AI」をはじめ、最新の製品アップデートと戦略的パートナーシップの詳細を明らかにした。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35246199/\"><img src=\"https://japan.zdnet.com/storage/2026/04/09/a227b15315d69b1ad17e299f249ab460/t/184/138/d/260409_nutanix_001.JPG\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2026/04/09/a227b15315d69b1ad17e299f249ab460/t/184/138/d/260409_nutanix_001.JPG",
-    "fetched_at": "2026-04-09 08:24:12",
-    "ja_summary": "Nutanixが年次イベント「.NEXT 2026」を開催し、AIインフラのコスト削減と迅速な導入を支援する新戦略を発表。\n自律型AI「Nutanix Agentic AI」の投入に加え、最新の製品アップデートやパートナーシップ強化を明かした。\nAI環境の構築・運用を効率化し、企業のAI活用を加速させるためのプラットフォーム基盤を強化する。"
-  },
-  {
-    "title": "Cortex Codeでデータの仕事を全部Agenticにやりきろう！",
-    "link": "https://speakerdeck.com/gappy50/cortex-codededetanoshi-shi-woquan-bu-agenticniyarikirou",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-04-07T05:41:24-04:00",
-    "summary": "AI駆動開発 x Snowflake - Snowflake Night #3\n\nhttps://snowflakejapan.connpass.com/event/385891/",
-    "image": "https://files.speakerdeck.com/presentations/3acfc14704e541318885a3ebdfdf52c0/preview_slide_0.jpg?39006343",
-    "fetched_at": "2026-04-09 08:24:30",
-    "ja_summary": "・SnowflakeのAI機能「Cortex」を活用したデータ業務の自動化（Agentic化）手法を解説\n・AI駆動開発とSnowflakeを組み合わせ、データ活用を効率化・高度化するヒントを提供\n・Snowflake技術者・データエンジニア向けの知見共有イベント（12/11開催）"
-  },
-  {
-    "title": "Googleが提唱したDESIGN.mdとは？Claude CodeとDESIGN.mdでデモサイトをいくつか作ってみた",
-    "link": "https://qiita.com/miruky/items/a6312c14e6352376ec00",
-    "source": "Qiita (Popular)",
-    "published": "2026-04-04T22:04:01+09:00",
-    "summary": "## はじめに\n![スクリーンショット 2026-04-04 19.54.10.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3637204/6067acaf-2a15-4f50-9736-d618d8070e86.png)\n\n\nこんばんは、mirukyです。\n**個人的にAIにデザインを指定するのって、意外と難し",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGMzYzNzIwNCUyRnByb2ZpbGUtaW1hZ2VzJTJGMTc3NDQ0NTA3MD9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NWY2OTc3NjFmNDZhMTA4YTgyMjNmMDEzODFkMGVmZTY%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Db2bc8d820e2037057c6470791c40d1f8?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9R29vZ2xlJUUzJTgxJThDJUU2JThGJTkwJUU1JTk0JUIxJUUzJTgxJTk3JUUzJTgxJTlGREVTSUdOLm1kJUUzJTgxJUE4JUUzJTgxJUFGJUVGJUJDJTlGQ2xhdWRlJTIwQ29kZSVFMyU4MSVBOERFU0lHTi5tZCVFMyU4MSVBNyVFMyU4MyU4NyVFMyU4MyVBMiVFMyU4MiVCNSVFMyU4MiVBNCVFMyU4MyU4OCVFMyU4MiU5MiVFMyU4MSU4NCVFMyU4MSU4RiVFMyU4MSVBNCVFMyU4MSU4QiVFNCVCRCU5QyVFMyU4MSVBMyVFMyU4MSVBNiVFMyU4MSVCRiVFMyU4MSU5RiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTE5MThjYTk0YTc1ODgyNzJjOTRkYzY5MDg1OTVlNDdh&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBtaXJ1a3kmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1iMWMwZjM0MGFkNTI5NmU1ZmNjNDFiZDQxMGY0YWRjYw&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=1241dbc58facb003d557b2e782682cc6",
-    "fetched_at": "2026-04-09 08:24:31",
-    "ja_summary": "Googleが提唱するDESIGN.mdは、AIにデザインを指示するための新しい手法です。\nClaude CodeとDESIGN.mdを使い、実際にデモサイトを作成した事例を紹介しています。\nAIによるデザイン指示の難しさと、その解決策について解説します。"
-  },
-  {
-    "title": "Vibe Coding、最初は速い。でも後半で急にしんどくなる",
-    "link": "https://qiita.com/engchina/items/2b28f629ea2daab701cd",
-    "source": "Qiita (Popular)",
-    "published": "2026-04-05T08:25:53+09:00",
-    "summary": "\n## 実際にやってみて分かったこと\n\n最近 Vibe Coding を続けていて、最初はかなり便利だと感じました。\n画面も処理もすぐ形になるし、初速は本当に速いです。\n\nただ、機能が増えてくると、しんどさの種類が変わってきます。\n大変なのは「コードを書くこと」より、その後の設計、整合性、テスト、レビューでした。\n\n今回は、実際に進める中で感じたことを、開発の流れに沿って短くまとめます。\n\n---",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYzOTMyNzgxJTJGOTA5ODgyYWQ5YTcwNWVmZjI2ZmM5NDBmMzg0MzQwMWU3OWQyNjY4YyUyRnhfbGFyZ2UucG5nJTNGMTc2OTAzODc0OD9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NjczZTk1ZDQ4MzQ5ZTQxOTY1ZTM2ZjBlNTRlYmM0Nzk%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYzMDk1NWZhN2YwMzlhODVjNDQ5ZmY0ODBhMmE3ZGJjNWQ5ZmY1YWIwJTJGb3JpZ2luYWwuanBnJTNGMTQ1MjE0NTY4Mz9peGxpYj1yYi00LjAuMCZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz0yYjVlN2VmYzdkMGI4OGNjOGRlOTIyYzFmZTQ3YzJhNQ%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3Dbaa201298ba6e7eb53ad57b1c6079b32?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9VmliZSUyMENvZGluZyVFMyU4MCU4MSVFNiU5QyU4MCVFNSU4OCU5RCVFMyU4MSVBRiVFOSU4MCU5RiVFMyU4MSU4NCVFMyU4MCU4MiVFMyU4MSVBNyVFMyU4MiU4MiVFNSVCRSU4QyVFNSU4RCU4QSVFMyU4MSVBNyVFNiU4MCVBNSVFMyU4MSVBQiVFMyU4MSU5NyVFMyU4MiU5MyVFMyU4MSVBOSVFMyU4MSU4RiVFMyU4MSVBQSVFMyU4MiU4QiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTdlYWZmMTU3M2ZlNGFjZjVjMjMyZTZkYjBiNDYwYmVi&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBlbmdjaGluYSZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWM1MTU1ODVkZTE0NzU1ZjlkMjcwYjJlZGU2ZTljYTNl&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=5pel5pys44Kq44Op44Kv44Or5qCq5byP5Lya56S-&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=91703f0393066960202885cb985bcb5e",
-    "fetched_at": "2026-04-09 08:24:32",
-    "ja_summary": "Vibe Codingは初期開発が速いものの、機能追加で設計やテストといった後半の工程が大変になる。\n画面や処理はすぐに形になるが、コードを書くこと自体より、その後の整合性やレビューが負担になる。\n開発が進むにつれて、当初のスピード感とは異なる課題に直面することが示唆されている。"
   }
 ]
