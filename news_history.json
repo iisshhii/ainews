@@ -1,5 +1,75 @@
 [
   {
+    "title": "IntelとGoogle、AIインフラの発展に向け協業",
+    "link": "https://www.watch.impress.co.jp/docs/news/2100932.html",
+    "source": "Impress Watch",
+    "published": "",
+    "summary": "IntelとGoogleは9日(米国時間)、次世代のAIおよびクラウド基盤の発展に向けた複数年にわたる協業を発表した。最新のヘテロジニアス(異種混合)AIシステムの高度化に向け、CPUとカスタムIPU(Infrastructure Processing Unit)が果たす役割を強化する。",
+    "image": "https://www.watch.impress.co.jp/img/ipw/list/2100/932/01.jpg",
+    "fetched_at": "2026-04-10 20:11:22",
+    "ja_summary": "・IntelとGoogleがAI・クラウド基盤の発展に向けて複数年の協業を発表。\n・次世代AIシステム向けに、CPUとカスタムIPUの連携を強化。\n・ハードウェア技術の進化を通じ、AIインフラの高度化を目指す。"
+  },
+  {
+    "title": "（スクショ大量付）謎のAgent 365×Gensparkを検証してみた（A365の仕組みもちょっと理解できた）",
+    "link": "https://zenn.dev/kasada/articles/6f1f264e7df58e",
+    "source": "Zenn Trends",
+    "published": "Thu, 09 Apr 2026 14:42:43 GMT",
+    "summary": "お久しぶりです。しがない情シスことKaz Asadaです。\n最近は現代社会のストレスにも適応していく式神、破壊の化身「異戒神将魔虚羅」と化しています。\n\nさてさて、皆さまM365 Copilotは活用していますでしょうか。\nFrontierプログラムとしてCopilot Coworkが出てきたり、Agent 365 / Microsoft 365 E7のGA日（5/1）発表があったりCopilotの周辺環境含め、さまざまなアップデートがありました。\n!\nCopilot Coworkに関してはXの記事でまとめています。\nhttps://x.com/kasada0901/status/203...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--jEZGA3Rd--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25EF%25BC%2588%25E3%2582%25B9%25E3%2582%25AF%25E3%2582%25B7%25E3%2583%25A7%25E5%25A4%25A7%25E9%2587%258F%25E4%25BB%2598%25EF%25BC%2589%25E8%25AC%258E%25E3%2581%25AEAgent%2520365%25C3%2597Genspark%25E3%2582%2592%25E6%25A4%259C%25E8%25A8%25BC%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%25EF%25BC%2588A365%25E3%2581%25AE%25E4%25BB%2595%25E7%25B5%2584%25E3%2581%25BF%25E3%2582%2582%25E3%2581%25A1%25E3%2582%2587%25E3%2581%25A3%25E3%2581%25A8%25E7%2590%2586%25E8%25A7%25A3%25E3%2581%25A7%25E3%2581%258D%25E3%2581%259F%25EF%25BC%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Kaz%2520Asada%2520%257C%2520%25E3%2581%2597%25E3%2581%258C%25E3%2581%25AA%25E3%2581%2584%25E6%2583%2585%25E3%2582%25B7%25E3%2582%25B9%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzM2YTgzZmM4NmYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-04-10 20:11:50",
+    "ja_summary": "・Microsoft 365 Copilotの最新機能や「Agent 365」のGA（5月1日）発表など、関連するアップデート情報が公開された。\n・「Agent 365」と「Genspark」を組み合わせた検証を通じ、その仕組みや活用可能性を考察。\n・Copilot Coworkなどを含む、進化するCopilot周辺の最新動向を共有。"
+  },
+  {
+    "title": "Playwright CLI + Claude Code で自律UI修正開発の提案",
+    "link": "https://zenn.dev/catatsumuri/articles/22227c79a94a86",
+    "source": "Zenn Trends",
+    "published": "Thu, 09 Apr 2026 09:53:08 GMT",
+    "summary": "はじめに — コーディングエージェント に「目」を与える\nClaude Code や Codex CLI は非常に強力なコーディングエージェントであるが、UI の問題に関しては必ずしも万能ではない。\n特に以下のようなケースは苦手である。\n\nMarkdown のレンダリング崩れ\nCSS の微妙なズレ\nレスポンシブのレイアウト崩れ\nスクロール後に発生する UI 問題\n\nこれらはコードを読んだだけでは判断しづらく、実際の画面を確認しないと分からないケースが多い。つまりAI開発エージェントは「コードは読めるが、画面は見えない」という制約がある。\nここではLaravel Boost +  Pl...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--IBf0HfPO--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Playwright%2520CLI%2520%252B%2520Claude%2520Code%2520%25E3%2581%25A7%25E8%2587%25AA%25E5%25BE%258BUI%25E4%25BF%25AE%25E6%25AD%25A3%25E9%2596%258B%25E7%2599%25BA%25E3%2581%25AE%25E6%258F%2590%25E6%25A1%2588%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25EF%25BE%2593%25EF%25BD%25AF%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2VlMzM1YzM5ZjAuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-04-10 20:11:51",
+    "ja_summary": "・コーディングAIはコードは読めてもUIの崩れ（CSSやレスポンシブ等の問題）を検知できない弱点がある。\n・Playwrightで実際の画面を撮影し、Claude Codeに視覚情報を与えることでこの制約を克服する。\n・UIの崩れをAIが自律的に発見・修正する開発環境の構築を提案する。"
+  },
+  {
+    "title": "コードはAIが書ける時代に、設計力はどう鍛えるか - CleanArch Masterという形にした理由",
+    "link": "https://zenn.dev/more_tech_blog/articles/bf6bf96c05bb9f",
+    "source": "Zenn Trends",
+    "published": "Thu, 09 Apr 2026 03:56:25 GMT",
+    "summary": "はじめまして！株式会社モアの片山です！\n普段はフルスタックエンジニアとしてWebサービスの開発をしています。\n\n 「分かった」と「書ける」のあいだを埋めたい\n生成AIでコードを書くハードルが下がったいま、逆に差が出やすくなったのは「どう実装するか」といったコーディング力よりも、「どう分けるか」「どこに責務を置くか」といった設計力のほうだと感じています。\nAPIやUI画面は作れても、ユースケースの責務分離、依存関係の向き、ドメイン知識の置き場所まで腹落ちしているかというと、そこは別の難しさがあります。特にクリーンアーキテクチャは、図を見ると分かった気になる一方で、実際にコードを書くと急に難...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--LnUP3NNg--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2589%25E3%2581%25AFAI%25E3%2581%258C%25E6%259B%25B8%25E3%2581%2591%25E3%2582%258B%25E6%2599%2582%25E4%25BB%25A3%25E3%2581%25AB%25E3%2580%2581%25E8%25A8%25AD%25E8%25A8%2588%25E5%258A%259B%25E3%2581%25AF%25E3%2581%25A9%25E3%2581%2586%25E9%258D%259B%25E3%2581%2588%25E3%2582%258B%25E3%2581%258B%2520-%2520CleanArch%2520Master%25E3%2581%25A8%25E3%2581%2584%25E3%2581%2586%25E5%25BD%25A2%25E3%2581%25AB%25E3%2581%2597%25E3%2581%259F%25E7%2590%2586%25E7%2594%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Katayama%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2JlNTRiMzNhYmIuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2583%25A2%25E3%2582%25A2%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jTDRDNHNqdEZZZmZ3RE83dUk0RG9pOU5Rb2F6Ql81Qy1rcFhrNDdyMnAtM0kwT1hiVT1zMjUwLWM=%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-04-10 20:11:51",
+    "ja_summary": "AIによるコーディングが容易になった今、エンジニアに求められるのは実装力よりも「責務の分離」や「依存関係の設計力」である。\nクリーンアーキテクチャのような複雑な設計概念は、理論と実装の間に大きな隔たりがある。\n本書（記事）は、その理論と実践のギャップを埋め、「腹落ち」する設計力を身につけるための指針を提示する。"
+  },
+  {
+    "title": "仕様通り動くの先へ。Claude Codeで「使える」を検証する",
+    "link": "https://speakerdeck.com/gotalab555/shi-yang-tong-ridong-kunoxian-he-claude-codede-shi-eru-wojian-zheng-suru",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-04-10T06:24:25-04:00",
+    "summary": "Claude Code Meetup Japan #4での発表資料。「仕様通りに動く」と「ユーザーが使える」の間にあるギャップを、Claude Code の自律ハーネスと uxaudit で埋める方法を紹介する。cc-sdd v3.0による長時間自律実装、Planner / Builder / Evaluator / UX Reviewer のシンプルなハーネス設計、Credo (5 原則) の Skill 注入、Computer Use による画面操作評価、uxaudit のジャーニー自動評価と iteration 比較 dashboardまで、実装から検証の一気通貫をカバーしている。実プロジェクトの dashboard、スクショを交えた実務者向けの内容。Claude Code でプロダクト開発を回している人、UX評価の自動化に関心がある人向け。\n\nUXAudit(https://github.com/gotalab/uxaudit)",
+    "image": "https://files.speakerdeck.com/presentations/58246a08012b4d3aa047e163cbb5854c/preview_slide_0.jpg?39044400",
+    "fetched_at": "2026-04-10 20:11:52",
+    "ja_summary": "Claude Codeを活用し、「仕様通り」の動作から「ユーザーが使える」品質への溝を埋める開発手法を解説。\n自動化ハーネスや画面操作、UXジャーニー評価を組み合わせ、実装から検証までを一気通貫で回す仕組みを紹介。\nUX評価の自動化やAIによるプロダクト開発効率化に関心がある実務者向けの実践的アプローチ。"
+  },
+  {
+    "title": "Googleが提唱したDESIGN.mdとは？Claude CodeとDESIGN.mdでデモサイトをいくつか作ってみた",
+    "link": "https://qiita.com/miruky/items/a6312c14e6352376ec00",
+    "source": "Qiita (Popular)",
+    "published": "2026-04-04T22:04:01+09:00",
+    "summary": "## はじめに\n![スクリーンショット 2026-04-04 19.54.10.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3637204/6067acaf-2a15-4f50-9736-d618d8070e86.png)\n\n\nこんばんは、mirukyです。\n**個人的にAIにデザインを指定するのって、意外と難し",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGMzYzNzIwNCUyRnByb2ZpbGUtaW1hZ2VzJTJGMTc3NDQ0NTA3MD9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NWY2OTc3NjFmNDZhMTA4YTgyMjNmMDEzODFkMGVmZTY%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Db2bc8d820e2037057c6470791c40d1f8?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9R29vZ2xlJUUzJTgxJThDJUU2JThGJTkwJUU1JTk0JUIxJUUzJTgxJTk3JUUzJTgxJTlGREVTSUdOLm1kJUUzJTgxJUE4JUUzJTgxJUFGJUVGJUJDJTlGQ2xhdWRlJTIwQ29kZSVFMyU4MSVBOERFU0lHTi5tZCVFMyU4MSVBNyVFMyU4MyU4NyVFMyU4MyVBMiVFMyU4MiVCNSVFMyU4MiVBNCVFMyU4MyU4OCVFMyU4MiU5MiVFMyU4MSU4NCVFMyU4MSU4RiVFMyU4MSVBNCVFMyU4MSU4QiVFNCVCRCU5QyVFMyU4MSVBMyVFMyU4MSVBNiVFMyU4MSVCRiVFMyU4MSU5RiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTE5MThjYTk0YTc1ODgyNzJjOTRkYzY5MDg1OTVlNDdh&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBtaXJ1a3kmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1iMWMwZjM0MGFkNTI5NmU1ZmNjNDFiZDQxMGY0YWRjYw&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=1241dbc58facb003d557b2e782682cc6",
+    "fetched_at": "2026-04-10 20:11:54",
+    "ja_summary": "Googleが提唱する設計指針「DESIGN.md」を活用し、AIツール「Claude Code」を用いてデモサイト制作を効率化する手法の解説。\nAIへのデザイン指示の難しさを解消するガイドラインとして、DESIGN.mdが有効であることを実証。\n実例を通じて、AIに意図通りのデザインを実装させるための具体的な活用プロセスを紹介。"
+  },
+  {
+    "title": "Vibe Coding、最初は速い。でも後半で急にしんどくなる",
+    "link": "https://qiita.com/engchina/items/2b28f629ea2daab701cd",
+    "source": "Qiita (Popular)",
+    "published": "2026-04-05T08:25:53+09:00",
+    "summary": "\n## 実際にやってみて分かったこと\n\n最近 Vibe Coding を続けていて、最初はかなり便利だと感じました。\n画面も処理もすぐ形になるし、初速は本当に速いです。\n\nただ、機能が増えてくると、しんどさの種類が変わってきます。\n大変なのは「コードを書くこと」より、その後の設計、整合性、テスト、レビューでした。\n\n今回は、実際に進める中で感じたことを、開発の流れに沿って短くまとめます。\n\n---",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYzOTMyNzgxJTJGOTA5ODgyYWQ5YTcwNWVmZjI2ZmM5NDBmMzg0MzQwMWU3OWQyNjY4YyUyRnhfbGFyZ2UucG5nJTNGMTc2OTAzODc0OD9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NjczZTk1ZDQ4MzQ5ZTQxOTY1ZTM2ZjBlNTRlYmM0Nzk%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYzMDk1NWZhN2YwMzlhODVjNDQ5ZmY0ODBhMmE3ZGJjNWQ5ZmY1YWIwJTJGb3JpZ2luYWwuanBnJTNGMTQ1MjE0NTY4Mz9peGxpYj1yYi00LjAuMCZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz0yYjVlN2VmYzdkMGI4OGNjOGRlOTIyYzFmZTQ3YzJhNQ%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3Dbaa201298ba6e7eb53ad57b1c6079b32?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9VmliZSUyMENvZGluZyVFMyU4MCU4MSVFNiU5QyU4MCVFNSU4OCU5RCVFMyU4MSVBRiVFOSU4MCU5RiVFMyU4MSU4NCVFMyU4MCU4MiVFMyU4MSVBNyVFMyU4MiU4MiVFNSVCRSU4QyVFNSU4RCU4QSVFMyU4MSVBNyVFNiU4MCVBNSVFMyU4MSVBQiVFMyU4MSU5NyVFMyU4MiU5MyVFMyU4MSVBOSVFMyU4MSU4RiVFMyU4MSVBQSVFMyU4MiU4QiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTdlYWZmMTU3M2ZlNGFjZjVjMjMyZTZkYjBiNDYwYmVi&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBlbmdjaGluYSZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWM1MTU1ODVkZTE0NzU1ZjlkMjcwYjJlZGU2ZTljYTNl&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=5pel5pys44Kq44Op44Kv44Or5qCq5byP5Lya56S-&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=91703f0393066960202885cb985bcb5e",
+    "fetched_at": "2026-04-10 20:11:55",
+    "ja_summary": "・Vibe Codingは初期開発のスピード感には優れている。\n・開発が進むと設計や整合性、テストなどの管理コストが急増する。\n・コード作成以外の工程で難易度が上がるため、後半の設計力が重要になる。"
+  },
+  {
     "title": "アンカー初の文字起こしレコーダー「Soundcore Work」を試す。話者識別の精度と使い勝手の良さが光る",
     "link": "https://www.businessinsider.jp/article/2604-anker-soundcore-work-review/",
     "source": "Business Insider Japan",
@@ -928,75 +998,5 @@
     "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/9/362772c48425a344ef5cd5978730df1bea742b415792b45a804815f18964703a.jpg",
     "fetched_at": "2026-04-10 06:02:43",
     "ja_summary": "メタが新しいAIモデル「Muse Spark」を発表しました。\n画像や動画の生成・編集能力を強化し、クリエイティブ作業の効率化を目指します。\n従来のモデルより処理速度と精度が向上しており、多機能なAIツールとして展開されます。"
-  },
-  {
-    "title": "AI時代の若手人材育成は「指示力」と「現場力」を磨け",
-    "link": "https://japan.zdnet.com/article/35246185/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "AIの活用が進むと、新卒をはじめとした若手人材の採用や仕事内容、そして育成にどのような変化があるのか。パーソルホールディングス傘下のパーソルキャリアがこのほど発表した「企業のAI活用実態と人材戦略に関する調査」レポートにそれらの状況が見て取れる調査結果があったので、本稿ではその内容を紹介するとともに、AI時代に向けた若手人材の育成の勘所について考察したい。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35246185/\"><img src=\"https://japan.zdnet.com/storage/2025/03/17/05d4257d2a795da2665b7b6e977934d2/t/184/138/d/250317_worker_as_1280_8707039.jpeg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2025/03/17/05d4257d2a795da2665b7b6e977934d2/t/184/138/d/250317_worker_as_1280_8707039.jpeg",
-    "fetched_at": "2026-04-10 06:02:46",
-    "ja_summary": "AI活用が進む中、若手人材にはAIを的確に制御する「指示力」と、実体験に基づく「現場力」の両立が求められる。\n企業はAI任せにするのではなく、これら二つの能力を育成の柱に据える戦略が不可欠である。"
-  },
-  {
-    "title": "生成AI時代には、批評家こそがクリエイターになるべきなんじゃない？　そう考えて8GB MacBook NeoをいじってたらAI  VJマシンができちゃった（CloseBox）",
-    "link": "https://www.techno-edge.net/article/2026/04/09/4982.html",
-    "source": "TechnoEdge",
-    "published": "Thu, 09 Apr 2026 09:26:57 +0900",
-    "summary": "前回の記事では、オフィスに置きっぱなしにしているM2 MacBook Airを使い、ビジュアライザーに歌詞同期機能を追加した話を書きました。",
-    "image": "https://www.techno-edge.net/imgs/rss/30762.jpg",
-    "fetched_at": "2026-04-10 06:02:48",
-    "ja_summary": "生成AI時代において、批評家が自らツールを駆使して創造する重要性を提唱。\nM2 MacBook Airを活用し、既存のビジュアライザーに歌詞同期機能を実装。\nアイデア次第で汎用PCがAI VJマシンへと進化する活用事例を提示。"
-  },
-  {
-    "title": "［新連載］新卒は必要か　ENEOS・クボタ・大和ハウス、採用大幅減の真意 (新卒は必要か)",
-    "link": "https://business.nikkei.com/atcl/gen/19/00863/040700001/",
-    "source": "日経ビジネス 最新",
-    "published": "",
-    "summary": "新卒採用では「売り手市場」が続いてきたが、一転して採用人数を絞る動きが広がっている。人手不足を背景に企業のAI活用が進む中、新卒採用は量から質への転換点を迎えている。",
-    "image": "https://business.nikkei.com/atcl/gen/19/00863/040700001/fb.jpg",
-    "fetched_at": "2026-04-10 05:08:15",
-    "ja_summary": "・人手不足やAI活用が進む中、大手企業を中心に新卒採用を絞り込む動きが加速。\n・「大量採用」から「少数精鋭の質重視」へと採用戦略が転換期を迎えている。\n・売り手市場が続く中で、企業は新卒の必要性そのものを問い直している。"
-  },
-  {
-    "title": "「AIが本領を発揮するのは設計の『川中』」、日建設計の大松敦社長に聞く",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03573/040300004/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "新中期経営計画で、2030年に受託額1050億円という目標を掲げた日建設計。新築設計の市場縮小に備えた一手や、AI（人工知能）の活用方法などについて、同社の大松敦社長に聞いた。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03573/040300004/48_sns.jpg?20220512",
-    "fetched_at": "2026-04-10 05:08:20",
-    "ja_summary": "・日建設計は2030年に受託額1050億円の達成を掲げ、市場縮小を見据えた戦略を推進する。\n・AI活用は設計プロセスの「川中（詳細設計や調整段階）」に注力し、本領を発揮させる。\n・デジタル技術を駆使し、新築市場の変化に適応した新たな付加価値創出を目指す。"
-  },
-  {
-    "title": "「エリクソン、スパコンで脳を模倣」など5本",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/02928/040600091/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "今回は、2026年3月23～29日に移動通信関連企業・組織から発表されたニュースの中からセレクトした5本をお届けします。6Gに向けた高度なAI開発競争に加え、世界のモバイルインフラ投資が2027年にピークを迎えるといった調査報告も含めてお送りします。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/02928/040600091/SNS.jpg?20220512",
-    "fetched_at": "2026-04-10 05:08:21",
-    "ja_summary": "・通信大手エリクソンがスパコンを活用し、脳の構造を模倣した次世代AIの開発を推進。\n・6G実現に向けたAI開発競争が激化し、通信技術の高度化が加速している。\n・世界のモバイルインフラ投資は2027年にピークに達するという予測が発表された。"
-  },
-  {
-    "title": "NVIDIA、フィジカルAI基盤を支配へ　通信やデジタルツインにも浸透",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03550/040300009/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "もはや米NVIDIA（エヌビディア）を抜きにフィジカルAI（人工知能）を語れない。そう断言できるほど、人型ロボットや産業用ロボット、自動運転車の開発に、同社の半導体製品や開発環境が不可欠になっている。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03550/040300009/topm.jpg?20220512",
-    "fetched_at": "2026-04-10 05:08:22",
-    "ja_summary": "NVIDIAの半導体と開発環境が、ロボットや自動運転などのフィジカルAI開発に不可欠な存在となっている。\n同社は産業用ロボットやデジタルツイン領域でも影響力を強めており、関連市場の支配を加速させている。\n物理世界でAIを活用する技術の標準として、NVIDIAの技術基盤が業界のデファクトスタンダードになっている。"
-  },
-  {
-    "title": "不可能だった「ロングテール業務」のシステム化、AI活用で突破口開く",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03079/040900034/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "AI（人工知能）によってソフトウエア開発のコストが低下すれば、従来はシステム化の対象外だった「ロングテール業務」についても、システム化して自動化できるのではないか――。日本の先進的なユーザー企業の経営トップやCIO（最高情報責任者）が、こうした期待を抱き始めている。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03079/040900034/topm.jpg?20220512",
-    "fetched_at": "2026-04-10 05:08:23",
-    "ja_summary": "AIによる開発コスト低下で、これまで対象外だった「ロングテール業務」のシステム化が可能に。\n企業経営層やCIOが、低コストな自動化による業務効率化への期待を強めている。\nAI活用が、システム化を諦めていた細かな業務改善の突破口となる。"
   }
 ]
