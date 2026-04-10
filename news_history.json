@@ -1,5 +1,25 @@
 [
   {
+    "title": "AIがシステムを操作する時代、SaaSはどう変わる？　freeeが示すMCPの課題と可能性",
+    "link": "https://www.itmedia.co.jp/business/articles/2604/10/news017.html",
+    "source": "ITmedia ビジネス",
+    "published": "Fri, 10 Apr 2026 08:00:00 +0900",
+    "summary": "AIエージェントがSaaSのサービスを操作する時代に入った。SaaS各社は、今後どのような対応をしていく必要があるのか？",
+    "image": "https://image.itmedia.co.jp/business/articles/2604/10/cover_news017.jpg",
+    "fetched_at": "2026-04-11 06:01:51",
+    "ja_summary": "・AIエージェントが直接SaaSを操作する時代が到来し、開発のあり方が変化している。\n・freeeなどが取り組む「MCP（Model Context Protocol）」が、AIと外部システム連携の標準として注目されている。\n・SaaS各社は、AIによる自動操作を前提とした新たなUI/UXやセキュリティ基盤の再構築が求められている。"
+  },
+  {
+    "title": "「冷却技術は日本企業の強みに」　三菱商事発データセンター企業が印西市で狙う、AIインフラの覇権",
+    "link": "https://www.itmedia.co.jp/business/articles/2604/09/news057.html",
+    "source": "ITmedia ビジネス",
+    "published": "Thu, 09 Apr 2026 14:40:00 +0900",
+    "summary": "三菱商事と、世界に300以上のデータセンターを保有する米Digital Realtyとの合弁会社MCデジタル・リアルティは4月8日、千葉県印西市に新たなデータセンターを開業した。印西市には、データセンターが複数立ち並ぶ。国内だけでなく、世界のデータセンター事情を知る同社は、日本市場をどのように見ているのか。",
+    "image": "https://image.itmedia.co.jp/business/articles/2604/09/cover_news057.jpg",
+    "fetched_at": "2026-04-11 06:01:54",
+    "ja_summary": "・三菱商事と米Digital Realtyの合弁会社が、千葉県印西市に新データセンターを開業。\n・AI需要拡大に伴い、日本企業の強みである高度な冷却技術を活かしたインフラ整備を加速。\n・同社は印西市を重要拠点と位置づけ、世界基準のインフラで市場の覇権を狙う。"
+  },
+  {
     "title": "Sydney will become Anthropic’s fourth office in Asia-Pacific",
     "link": "https://www.anthropic.com/news/sydney-fourth-office-asia-pacific",
     "source": "Anthropic (News)",
@@ -978,25 +998,5 @@
     "image": "https://files.speakerdeck.com/presentations/fe7999e49c114eb29c67ed45fc7d0fe7/preview_slide_0.jpg?39037714",
     "fetched_at": "2026-04-10 11:38:14",
     "ja_summary": "・Databricksとデータ統合ツール「TROCCO」を活用したデータ・AI基盤構築のノウハウを解説\n・データ活用を加速させるための具体的な連携手法や活用事例を紹介\n・「Youは何しにDatabricksへ！？」シリーズ第3回として、実践的な知見を共有するセミナー"
-  },
-  {
-    "title": "日本発、LLMの推論を「桁違い」に効率化する新アーキテクチャ「PHOTON」の論文が面白かったのでまとめてみた",
-    "link": "https://qiita.com/yuji-arakawa/items/2ad0240c56eb7507b261",
-    "source": "Qiita (Popular)",
-    "published": "2026-04-09T00:40:23+09:00",
-    "summary": "![Generated Image April 09, 2026 - 12_01AM.jpg](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/74534/447cbeed-d3c6-447a-a7b5-46bd937f4d07.jpeg)\n\n\n# はじめに\n\n富士通、理化学研究所 AIP、東京科学大学、東海大学の研究チームが",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY3NDUzNCUyRmUzZGYwM2UyMjk2ZjY2ZmNiMGNkYmY5MmZiZjQwNDU2NGFmNTYxYzIlMkZsYXJnZS5wbmclM0YxNzcyNTUwMDAxP2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz0xYzFmOTVmMTIxNmMzMWVkNDU0MzMwZjg2ZjBkMzhhZQ%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYzMDk1NWZhN2YwMzlhODVjNDQ5ZmY0ODBhMmE3ZGJjNWQ5ZmY1YWIwJTJGb3JpZ2luYWwuanBnJTNGMTQ1MjE0NTY4Mz9peGxpYj1yYi00LjAuMCZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz0yYjVlN2VmYzdkMGI4OGNjOGRlOTIyYzFmZTQ3YzJhNQ%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D4aae8c5955a2b8b4143d59077d137401?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUU2JTk3JUE1JUU2JTlDJUFDJUU3JTk5JUJBJUUzJTgwJTgxTExNJUUzJTgxJUFFJUU2JThFJUE4JUU4JUFCJTk2JUUzJTgyJTkyJUUzJTgwJThDJUU2JUExJTgxJUU5JTgxJTk1JUUzJTgxJTg0JUUzJTgwJThEJUUzJTgxJUFCJUU1JThBJUI5JUU3JThFJTg3JUU1JThDJTk2JUUzJTgxJTk5JUUzJTgyJThCJUU2JTk2JUIwJUUzJTgyJUEyJUUzJTgzJUJDJUUzJTgyJUFEJUUzJTgzJTg2JUUzJTgyJUFGJUUzJTgzJTgxJUUzJTgzJUEzJUUzJTgwJThDUEhPVE9OJUUzJTgwJThEJUUzJTgxJUFFJUU4JUFCJTk2JUU2JTk2JTg3JUUzJTgxJThDJUU5JTlEJUEyJUU3JTk5JUJEJUUzJTgxJThCJUUzJTgxJUEzJUUzJTgxJTlGJUUzJTgxJUFFJUUzJTgxJUE3JUUzJTgxJUJFJUUyJTgwJUE2JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9MTI0ODMxN2Y1ZjljNmIwZDljYjdlYzMyYzk4YzAyODA&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDB5dWppLWFyYWthd2EmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1mZmI0YjViMTBiYTQxOTMwMzk4ZTU3ZDhmOWQwYjZmNQ&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=5pel5pys44Kq44Op44Kv44Or5qCq5byP5Lya56S-&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=bd6b84badac9220f2cc28da9d6277b8d",
-    "fetched_at": "2026-04-10 11:38:15",
-    "ja_summary": "・富士通・理研などの研究チームが、LLMの推論処理を劇的に高速化・効率化する新アーキテクチャ「PHOTON」を開発した。\n・従来のモデルと比較し、計算コストを大幅に削減しつつ同等の性能を維持できる点が最大の特徴。\n・AIの推論負荷を抑える革新的な手法として、今後の実用化や導入拡大が期待されている。"
-  },
-  {
-    "title": "AI時代の「職業観」に変化の兆し？　条件次第で学生の8割が「ブルーカラー」も視野",
-    "link": "https://www.itmedia.co.jp/business/articles/2604/10/news046.html",
-    "source": "ITmedia ビジネス",
-    "published": "Fri, 10 Apr 2026 08:30:00 +0900",
-    "summary": "AIの台頭で、学生の職業観に変化がみられる。まだまだ「ホワイトカラー」を支持する学生が多いが、どういった条件があればブルーカラーも候補に入るのか？",
-    "image": "https://image.itmedia.co.jp/business/articles/2604/10/cover_news046.jpg",
-    "fetched_at": "2026-04-10 08:58:29",
-    "ja_summary": "・AIの普及に伴い、学生の間で「ホワイトカラー一辺倒」ではない柔軟な職業観が広がり始めている。\n・労働環境や待遇といった条件が整えば、学生の約8割がブルーカラー職種もキャリアの選択肢として検討する意向。\n・AI時代を見据え、職種のイメージよりも働き方の質を重視する現実的なキャリア選択への移行が示唆されている。"
   }
 ]
