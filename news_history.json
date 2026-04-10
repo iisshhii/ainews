@@ -1,5 +1,65 @@
 [
   {
+    "title": "チャットボットはキャラクターを演じている--Anthropicがそれを危険だと指摘する理由",
+    "link": "https://japan.zdnet.com/article/35246180/",
+    "source": "ZDNET Japan",
+    "published": "",
+    "summary": "研究者は、チャットボットの魅力の一部が、同時に悪用されるリスクも高めていることを発見した。その理由とは。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35246180/\"><img src=\"https://japan.zdnet.com/storage/2026/04/08/917c594709df55f690927870b49d39d1/t/184/138/d/large-001-gettyimages-2185380383-cropped.jpg\" /></a>",
+    "image": "https://japan.zdnet.com/storage/2026/04/08/917c594709df55f690927870b49d39d1/t/184/138/d/large-001-gettyimages-2185380383-cropped.jpg",
+    "fetched_at": "2026-04-11 07:29:21",
+    "ja_summary": "・AIチャットボットが人間味のあるキャラクターを演じることが、ユーザーを心理的に誘導するリスクを生んでいる。\n・魅力的な対話スキルが、意図しない情報操作や悪用に転用される懸念があることをAnthropicが指摘。\n・AIの利便性と安全性の両立に向け、キャラクター化の是非や制御方法が議論されている。"
+  },
+  {
+    "title": "「生成AIが、最初からなかったことにするみたいに 新しい世界を始めようとしている」　そんな感傷的な曲ができたから、Claude Codeで歌詞同期ビジュアライザーを作った（CloseBox）",
+    "link": "https://www.techno-edge.net/article/2026/04/08/4979.html",
+    "source": "TechnoEdge",
+    "published": "Wed, 08 Apr 2026 08:53:21 +0900",
+    "summary": "映画「ブレードランナー」のことを考えていました。ネタにしたから、というのもありますが。",
+    "image": "https://www.techno-edge.net/imgs/rss/30753.jpg",
+    "fetched_at": "2026-04-11 07:29:22",
+    "ja_summary": "・「ブレードランナー」の世界観をテーマに、AIの進化を問う楽曲を制作。\n・AIツール「Claude Code」を活用し、歌詞と連動して視覚的に演出するビジュアライザーを開発。\n・生成AIの急速な発展を「世界を塗り替える存在」として表現したクリエイティブ事例。"
+  },
+  {
+    "title": "Research with ChatGPT",
+    "link": "https://openai.com/academy/search-and-deep-research",
+    "source": "OpenAI",
+    "published": "Fri, 10 Apr 2026 00:00:00 GMT",
+    "summary": "Learn how to research with ChatGPT using search and deep research to find up-to-date information, analyze sources, and generate structured insights.",
+    "image": "https://openai.com/favicon.ico",
+    "fetched_at": "2026-04-11 07:29:23",
+    "ja_summary": "・ChatGPTを活用し、最新情報の検索から高度なリサーチまでを行う方法を解説。\n・情報のソース分析や、整理された洞察の生成プロセスを習得可能。\n・AIによる効率的なリサーチ手法を学び、業務の生産性を向上させる。"
+  },
+  {
+    "title": "Working with files in ChatGPT",
+    "link": "https://openai.com/academy/working-with-files",
+    "source": "OpenAI",
+    "published": "Fri, 10 Apr 2026 00:00:00 GMT",
+    "summary": "Learn how to upload and work with files in ChatGPT to analyze data, summarize documents, and generate content from PDFs, spreadsheets, and more.",
+    "image": "https://openai.com/favicon.ico",
+    "fetched_at": "2026-04-11 07:29:23",
+    "ja_summary": "・ChatGPTにPDFやスプレッドシート等のファイルをアップロード可能。\n・データ分析や文書要約、コンテンツ生成が効率的に行える。\n・業務での資料作成や情報整理を大幅に短縮できる。"
+  },
+  {
+    "title": "Using custom GPTs",
+    "link": "https://openai.com/academy/custom-gpts",
+    "source": "OpenAI",
+    "published": "Fri, 10 Apr 2026 00:00:00 GMT",
+    "summary": "Learn how to build and use custom GPTs to automate workflows, maintain consistent outputs, and create purpose-built AI assistants.",
+    "image": "https://openai.com/favicon.ico",
+    "fetched_at": "2026-04-11 07:29:23",
+    "ja_summary": "・カスタムGPTの構築・活用方法を解説\n・業務効率化や回答品質の均一化を実現\n・特定の目的（業務）に特化したAI作成が可能"
+  },
+  {
+    "title": "Introducing The Anthropic Institute",
+    "link": "https://www.anthropic.com/news/the-anthropic-institute",
+    "source": "Anthropic (News)",
+    "published": "Wed, 11 Mar 2026 00:00:00 +0000",
+    "summary": "Introducing The Anthropic Institute",
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20Book&amp;backgroundColor=oat",
+    "fetched_at": "2026-04-11 07:29:26",
+    "ja_summary": "・AnthropicがAIの安全性や社会的影響を研究する「Anthropic Institute」を設立。\n・AIモデルの開発と並行し、長期的なリスク低減と責任ある実装を目指す。\n・学術・政策・産業の連携を深め、AIの安全な普及に向けた基盤を強化する。"
+  },
+  {
     "title": "AI時代の「職業観」に変化の兆し？　条件次第で学生の8割が「ブルーカラー」も視野",
     "link": "https://www.itmedia.co.jp/business/articles/2604/10/news046.html",
     "source": "ITmedia ビジネス",
@@ -938,65 +998,5 @@
     "image": "https://japan.cnet.com/storage/2026/04/10/c89b46eb5670b14786eb9ee36d95ded9/t/184/138/d/gettyimages-2157619022_1280x960.jpg",
     "fetched_at": "2026-04-10 11:37:44",
     "ja_summary": "・米国の新法「Take It Down Act」に基づき、AIによる性的画像の生成で初の有罪判決。\n・37歳の男が他人の画像を無断利用し、700枚のディープフェイク画像を生成した。\n・AI悪用に対する法的な取り締まりが、米国で本格的に開始された。"
-  },
-  {
-    "title": "「ジャパン・レール・パス」値上げ　JRグループが発表",
-    "link": "https://japan.cnet.com/article/35246241/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "JRグループは4月9日、訪日旅行者向け周遊券「ジャパン・レール・パス」の価格を2026年10月1日購入分から改定すると発表した。2023年10月の前回改定以降、JRの一部会社で運賃改定が行われたことを踏まえ、海外のJR指定販売店・代理店で販売する商品の価格を引き上げる。一方、専用サイト「JAPAN RAIL PASS Reservation」のWeb販売サービスは、利用促進を目的に当面価格を据え置く。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35246241/\"><img src=\"https://japan.cnet.com/storage/2026/04/09/def15befca35fc590513d4f1f6e9116b/t/184/138/d/IMG_8636.jpg\" /></a>",
-    "image": "https://japan.cnet.com/storage/2026/04/09/def15befca35fc590513d4f1f6e9116b/t/184/138/d/IMG_8636.jpg",
-    "fetched_at": "2026-04-10 11:37:44",
-    "ja_summary": "・JRグループは2026年10月1日購入分から「ジャパン・レール・パス」を値上げする。\n・値上げの理由は、一部の運賃改定に伴う販売コスト等の見直しによるもの。\n・専用サイトを通じたWeb販売については、利用促進のため当面の間は現行価格を据え置く。"
-  },
-  {
-    "title": "Gemma 4 の概要",
-    "link": "https://note.com/npaka/n/n240f81855918",
-    "source": "note (npaka)",
-    "published": "Fri, 03 Apr 2026 06:22:05 +0900",
-    "summary": "<p id=\"c6fddffa-551c-4e65-9a73-f86723cf4e22\" name=\"c6fddffa-551c-4e65-9a73-f86723cf4e22\">「Gemma 4」の概要をまとめました。</p><figure id=\"40a4d4ff-fa1e-4031-8730-4ea856eecaf7\" name=\"40a4d4ff-fa1e-4031-8730-4ea856eecaf7\"><blockquote><p id=\"920fdb08-c3d6-4b53-8a22-f712aad3c59b\" name=\"920fdb08-c3d6-4b53-8a22-f712aad3c59b\"><strong>・</strong><a href=\"https://blog.google/innovation-and-ai/technology/developers-tools/gemma-4/\" rel=\"nofollow noopener\" target=\"_blank\"><strong>Gemma 4: Byte for byte, the most capable open models</strong></a></p></blockquote>\n<figcaption></figcaption></figure><br /><a href=\"https://note.com/npaka/n/n240f81855918\">続きをみる</a>",
-    "image": "https://assets.st-note.com/production/uploads/images/264334187/rectangle_large_type_2_18fe418daea22e9c296cb297a06352b9.png?width=800",
-    "fetched_at": "2026-04-10 11:37:48",
-    "ja_summary": "・Googleが最新のオープンモデル「Gemma 4」を発表。\n・軽量かつ高い処理能力を両立し、同クラスで最高レベルの性能を実現。\n・開発者が自前の環境で高度なAIを構築・活用できるツールとして提供。"
-  },
-  {
-    "title": "CTC、業務分析支援サービス--PC操作履歴を自動収集、改善ポイントを可視化",
-    "link": "https://japan.zdnet.com/article/35246253/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "伊藤忠テクノソリューションズ（CTC）は、業務分析支援サービス「GenTaskMining」の提供を開始した。PCの操作履歴を自動で収集、分類し、生成AIが分析して業務を定量的に把握し、改善ポイントを可視化する。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35246253/\"><img src=\"https://japan.zdnet.com/storage/2026/04/09/1993b5184514b0bc2d14a68f1b292309/t/184/138/d/20260410_adobestock_574704836_1280x960.jpg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2026/04/09/1993b5184514b0bc2d14a68f1b292309/t/184/138/d/20260410_adobestock_574704836_1280x960.jpg",
-    "fetched_at": "2026-04-10 11:37:54",
-    "ja_summary": "・CTCが業務分析支援サービス「GenTaskMining」を提供開始。\n・PC操作履歴を自動収集し、生成AIで業務内容を定量的に分析。\n・効率化すべき改善ポイントを可視化し、生産性向上を支援する。"
-  },
-  {
-    "title": "セールスフォースはAIで中堅・中小企業向け事業を広げられるか",
-    "link": "https://japan.zdnet.com/article/35246249/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "今回は、セールスフォース・ジャパン 常務執行役員 コマーシャル営業統括 グローバルビジネス第2営業統括本部 統括本部長の西田晶子氏と、KPMGコンサルティング 執行役員 Sustainability & Rick Transformationユニットリーダー／パートナーの足立桂輔氏の「明言」を紹介する。\n<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35246249/\"><img src=\"https://japan.zdnet.com/storage/2026/04/09/cf6b53a466504c7ab3474554f5e9228b/t/184/138/d/sp_12matsuoka_260409_l.jpg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2026/04/09/cf6b53a466504c7ab3474554f5e9228b/t/184/138/d/sp_12matsuoka_260409_l.jpg",
-    "fetched_at": "2026-04-10 11:37:54",
-    "ja_summary": "セールスフォース・ジャパンがAIを活用し、中堅・中小企業市場の開拓を加速させている。\n同社の幹部とKPMGの専門家が、この戦略における重要な展望と見解を語った。\nAI導入によるビジネス変革が、中小企業の成長にどう貢献するかが焦点となっている。"
-  },
-  {
-    "title": "AGC、「AI面接官」を導入--「合否は人、理解はAI」",
-    "link": "https://japan.zdnet.com/article/35246263/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "AGCは、大手企業向け対話型AI面接「AI面接官」を導入した。最終的な採用判断は従来どおり人が行うと明言した上で、「画一的な基準に頼らず、候補者の経験や成長への志向性を丁寧に捉える採用」を実現するための取り組みだと位置付けている。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35246263/\"><img src=\"https://japan.zdnet.com/storage/2026/04/10/ed037276ec6dd58d4ea87ee0f04c2376/t/184/138/d/260410_agc_l.jpg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2026/04/10/ed037276ec6dd58d4ea87ee0f04c2376/t/184/138/d/260410_agc_l.jpg",
-    "fetched_at": "2026-04-10 11:37:54",
-    "ja_summary": "・AGCが採用選考に対話型「AI面接官」を導入。\n・AIは候補者の経験や意欲の深掘りに活用し、合否判定は人が行う。\n・AIと人の役割を分担し、画一的ではない丁寧な採用プロセスを実現する。"
-  },
-  {
-    "title": "運用管理ソフト「Hinemos」新版、AIエージェント搭載--障害の一次切り分けまでを生成AIに",
-    "link": "https://japan.zdnet.com/article/35246247/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "NTTデータ先端技術は、統合運用管理ソフトウェアの新版「Hinemos ver.7.2」を4月22日から提供する。AIエージェントや電話通知といった機能が追加され、「スマートスタート on AWS」が提供される。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35246247/\"><img src=\"https://japan.zdnet.com/storage/2026/04/09/19b8f3813a0cef6329773a9865046893/t/184/138/d/20260409_adobestock_602291442_1280x960.jpg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2026/04/09/19b8f3813a0cef6329773a9865046893/t/184/138/d/20260409_adobestock_602291442_1280x960.jpg",
-    "fetched_at": "2026-04-10 11:37:54",
-    "ja_summary": "NTTデータ先端技術は、運用管理ソフト「Hinemos」の最新版を4月22日に提供開始します。\n新版では生成AIエージェントを搭載し、システムの障害対応における一次切り分けまでを自動化します。\nクラウド環境での利用を容易にする「スマートスタート on AWS」も新たに追加されます。"
   }
 ]
