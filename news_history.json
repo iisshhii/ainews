@@ -1,5 +1,85 @@
 [
   {
+    "title": "TOPPAN、\"くずし字\"解読応用で中世ギリシャ語を読めるAI-OCR",
+    "link": "https://www.watch.impress.co.jp/docs/news/2100512.html",
+    "source": "Impress Watch",
+    "published": "",
+    "summary": "TOPPANホールディングスは、一般には読み取りが困難とされる中世ギリシャ語の解読が可能なAI-OCRエンジンを開発した。",
+    "image": "https://www.watch.impress.co.jp/img/ipw/list/2100/512/toppan00.jpg",
+    "fetched_at": "2026-04-10 16:01:37",
+    "ja_summary": "・TOPPANが中世ギリシャ語を解読するAI-OCRエンジンを開発。\n・「くずし字」解析技術を応用し、これまで困難だった古文書の読み取りを実現。\n・歴史的資料のデジタル化や研究の効率化に貢献する。"
+  },
+  {
+    "title": "AIが出世の道筋を変える…「はしご」ではなく「壁」を登ることに",
+    "link": "https://www.businessinsider.jp/article/2604-ai-disruption-corporate-white-collar-career-ladder-linkedin-exec-advice/",
+    "source": "Business Insider Japan",
+    "published": "Thu, 09 Apr 2026 10:00:00 GMT",
+    "summary": "「労働者ははしごではなく、壁を登ることになるだろう」とリンクトインのチーフ・エコノミック・オポチュニティ・オフィサーであるアニーシュ・ラマンは話しています。",
+    "image": "https://media.loom-app.com/loom/2026/04/01/6ac59bf7-16e7-425f-b709-dd20252ed67e/original.jpg?w=1200&amp;h=630",
+    "fetched_at": "2026-04-10 16:01:44",
+    "ja_summary": "AIの普及により、従来の段階的な昇進（はしご）ではなく、多角的なスキル習得や横断的な経験（壁）がキャリア形成に求められるようになる。\n一本道の出世ルートは過去のものとなり、今後は柔軟に自身の強みを再構築し、多方面へ挑戦し続ける姿勢が重要となる。"
+  },
+  {
+    "title": "最新AIモデルClaude Mythosが主要全OSやブラウザの重大な脆弱性多数発見、悪用懸念で非公開。アップル・Google・MS他が対策Project Glasswing発足",
+    "link": "https://www.techno-edge.net/article/2026/04/08/4980.html",
+    "source": "TechnoEdge",
+    "published": "Wed, 08 Apr 2026 14:54:21 +0900",
+    "summary": "AIモデルClaudeで知られるAI企業Anthropicが、Apple、Google、Amazon(AWS)、マイクロソフト、NVIDIA、Linux Foundationを含む12の主要ソフトウェア・デジタルインフラ企業および団体と共同で、AIを活用したサイバーセキュリティ強化イニシアチブ「Project Glasswing」を発足しました。",
+    "image": "https://www.techno-edge.net/imgs/rss/30755.jpg",
+    "fetched_at": "2026-04-10 16:01:50",
+    "ja_summary": "・AnthropicのAI「Claude Mythos」が主要OS等の深刻な脆弱性を多数発見した。\n・悪用リスクを考慮し、AIモデルは非公開とされた。\n・AppleやGoogleなど大手12社が連携し、対策プロジェクト「Project Glasswing」を発足。"
+  },
+  {
+    "title": "OpenAI Full Fan Mode Contest: Terms & Conditions",
+    "link": "https://openai.com/index/full-fan-mode-contest-terms-conditions",
+    "source": "OpenAI",
+    "published": "Thu, 09 Apr 2026 00:00:00 GMT",
+    "summary": "Explore the official terms and conditions for the OpenAI Full Fan Mode Contest, including eligibility, entry steps, judging criteria, and prize details. Learn how to participate, submit your entry on Instagram, and win IPL match tickets.",
+    "image": "https://openai.com/favicon.ico",
+    "fetched_at": "2026-04-10 16:01:52",
+    "ja_summary": "・OpenAI公式の「Full Fan Mode Contest」の参加規約と応募方法を公開。\n・Instagram経由で応募し、審査を経てIPL観戦チケットを獲得可能。\n・参加資格や選考基準など、応募に必要な詳細は公式サイトで確認が必要。"
+  },
+  {
+    "title": "Introducing the Child Safety Blueprint",
+    "link": "https://openai.com/index/introducing-child-safety-blueprint",
+    "source": "OpenAI",
+    "published": "Wed, 08 Apr 2026 05:00:00 GMT",
+    "summary": "Discover OpenAI’s Child Safety Blueprint—a roadmap for building AI responsibly with safeguards, age-appropriate design, and collaboration to protect and empower young people online.",
+    "image": "https://openai.com/favicon.ico",
+    "fetched_at": "2026-04-10 16:01:52",
+    "ja_summary": "・OpenAIがAI開発における「児童の安全保護指針」を策定。\n・年齢に応じた設計や安全対策を導入し、責任あるAI開発を目指す。\n・オンライン上の子どもたちを保護し、技術の恩恵を安全に届けるためのロードマップ。"
+  },
+  {
+    "title": "Lightdash on SPCS",
+    "link": "https://zenn.dev/takikomi/articles/a74948684b5e88",
+    "source": "Zenn Trends",
+    "published": "Thu, 09 Apr 2026 09:02:47 GMT",
+    "summary": "はじめに\n世の中にはLightdashという便利なBIツールがあるということを知りました。\nSaaS版とOSS版があるようです。\n大人の事情によりSaaSを利用するには時間がかかるため、今回はOSS版を使ってみたいと思います。\nもう一つ大人の事情があり、ローカルでDocker Desktopを長時間動かすことができません（目安5分くらいなら動かせる）。\nSnowflake Postgresを勉強してみるかーという気持ちもあり、SPCS(Snowpark Container Service)に載せる方法をやってみることになりました。\n\n アーキテクチャ全体像\n\n\n 主要コンポーネント\n...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--4Kbj8rBV--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_76:Lightdash%2520on%2520SPCS%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%259F%25E3%2581%258D%25E3%2581%2593%25E3%2581%25BF%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzk1MjE3ZjhiYWEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-04-10 16:02:07",
+    "ja_summary": "・BIツール「Lightdash」のOSS版を、社内制約によりSnowflakeの「SPCS」上で稼働させる環境を構築。\n・ローカル環境での実行が難しい制約を回避し、クラウド上のコンテナサービスを活用して導入を試みる。\n・SPCSの活用により、セキュアかつ効率的にBI基盤を運用する手法を提示。"
+  },
+  {
+    "title": "Claude Teamプラン完全ガイド【2026/4最新】",
+    "link": "https://zenn.dev/canly/articles/e7300b4d758119",
+    "source": "Zenn Trends",
+    "published": "Thu, 09 Apr 2026 08:40:19 GMT",
+    "summary": "はじめに\n皆さん、Claude Teamプランは使っていますか？\n2026年1月にStandardシート（$25/月）でもClaude Codeが使えるようになり、カンリーでは全エンジニアがTeamプランに移行しました。本記事では、Teamプランの管理画面でできることを網羅的に解説し、実運用で得たtipsを共有します。\n\n なぜこの記事を書くのか\nClaude Teamプランの管理画面は、全体像が掴みにくい状況にあります。\n\n\n管理画面の変更がRelease NotesやChangelogに載らないことが多い — 新しい設定項目がサイレントに追加されることがある。タイムラグの問題もあ...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--09Ow8AVU--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Team%25E3%2583%2597%25E3%2583%25A9%25E3%2583%25B3%25E5%25AE%258C%25E5%2585%25A8%25E3%2582%25AC%25E3%2582%25A4%25E3%2583%2589%25E3%2580%25902026%252F4%25E6%259C%2580%25E6%2596%25B0%25E3%2580%2591%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E3%2581%25B5%25E3%2581%258F%25E3%2581%25A0%25EF%25BC%2588fukuda%2520ryu%25EF%25BC%2589%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2EwYjI3NWVjYTkuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2582%25AB%25E3%2583%25B3%25E3%2583%25AA%25E3%2583%25BC%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzEyMjRmMTIyZTMuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-04-10 16:02:07",
+    "ja_summary": "・Claude Teamプラン（月額$25）でClaude Codeが利用可能になり、全社導入が進んでいる。\n・公式情報の更新が不透明な管理画面機能の全体像を解説する。\n・実運用に基づいた管理設定のポイントや活用TIPSを網羅的に共有する。"
+  },
+  {
+    "title": "Anthropic Managed Agents をさくっと触ってみた",
+    "link": "https://zenn.dev/sprix_it/articles/3211f5068cec29",
+    "source": "Zenn Trends",
+    "published": "Thu, 09 Apr 2026 04:49:32 GMT",
+    "summary": "きっかけ\nAnthropic 公式エンジニアリングブログに Scaling Managed Agents: Decoupling the brain from the hands という記事が出ているのを見て興味を持ちました。「頭脳（モデル）」「手（サンドボックス）」「記録（セッションログ）」を分離する、というアーキテクチャの説明が面白かったので、本当にそういう作りになっているか自分の手元で叩いて確かめてみよう、というのがこの記事の出発点です。\n\n これは何の話？\nAnthropic が 2026 年 4 月に Managed Agents（/v1/agents, /v1/sessi...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--dmuBSTPq--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Anthropic%2520Managed%2520Agents%2520%25E3%2582%2592%25E3%2581%2595%25E3%2581%258F%25E3%2581%25A3%25E3%2581%25A8%25E8%25A7%25A6%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E3%2581%2584%25E3%2581%2591%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2NjYTAxMWFhZmYuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E6%25A0%25AA%25E5%25BC%258F%25E4%25BC%259A%25E7%25A4%25BE%25E3%2582%25B9%25E3%2583%2597%25E3%2583%25AA%25E3%2583%2583%25E3%2582%25AF%25E3%2582%25B9%2520IT%25E6%2588%25A6%25E7%2595%25A5%25E9%2583%25A8%25E3%2583%25BBSPRI...%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUFjSFR0ZE1lZWJxMTdxT240OThxSC1BalIydXNHc19WLV9MQ1JWU2JiSng9czk2LWM=%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-04-10 16:02:08",
+    "ja_summary": "Anthropicが提唱する「頭脳・手・記録」を分離したエージェント新アーキテクチャの検証記事。\nAPIの構成を確認し、実際の動作を通じてマネージド・エージェントの仕組みを解説。\n開発者がエージェントの処理能力を外部化・構造化するための導入ガイドとなっている。"
+  },
+  {
     "title": "ネットの嘘を鵜呑みにしない子を育てる方法 | 子育て | 東洋経済オンライン",
     "link": "https://toyokeizai.net/articles/-/939527?utm_source=rss&utm_medium=http&utm_campaign=link_back",
     "source": "東洋経済オンライン",
@@ -918,85 +998,5 @@
     "image": "https://openai.com/favicon.ico",
     "fetched_at": "2026-04-10 01:59:13",
     "ja_summary": "・OpenAIがエンタープライズ向けAIの新たなフェーズを発表。\n・FrontierモデルやChatGPT Enterprise、Codex等を拡充。\n・全社的な導入を促進するAIエージェントの提供で産業活用を加速。"
-  },
-  {
-    "title": "今こそ「採る」から「見極める」へ　さらば「数」合わせ　「質」が未来決める (AI時代、「採用減る」が4割　新卒は必要か)",
-    "link": "https://business.nikkei.com/atcl/NBD/19/special/02473/",
-    "source": "日経ビジネス 最新",
-    "published": "",
-    "summary": "中途採用の広がりやAIの発展の中で、新卒採用は曲がり角を迎えているのは間違いない企業は新卒採用を経営戦略と位置付け、フィットする人材像を見極めた上で自社に合った在り方を探すべきだ。",
-    "image": "https://business.nikkei.com/atcl/NBD/19/special/02473/fb.jpg",
-    "fetched_at": "2026-04-10 00:54:19",
-    "ja_summary": "・AI活用や中途採用の定着で新卒一括採用は転換期にある。\n・単なる人数確保はやめ、経営戦略に基づいた「質」重視の選別が必要。\n・自社に本当にフィットする人材を厳選する採用方針への転換が急務。"
-  },
-  {
-    "title": "学生側にも変化、じわり広がる「新卒×派遣」　「究極のジョブ型」でキャリア磨く (AI時代、「採用減る」が4割　新卒は必要か)",
-    "link": "https://business.nikkei.com/atcl/NBD/19/special/02472/",
-    "source": "日経ビジネス 最新",
-    "published": "",
-    "summary": "新卒一括採用の縮小・廃止、事務職の再定義など、AI時代の採用方法を模索する企業。学生側にもAIの普及に対する期待と危機感が入り交じり、新たなキャリアパスを切り開く。",
-    "image": "https://business.nikkei.com/atcl/NBD/19/special/02472/fb.jpg",
-    "fetched_at": "2026-04-10 00:54:19",
-    "ja_summary": "・AIの普及で新卒一括採用が見直され、採用数減少への懸念が高まっている。\n・企業は事務職の再定義や採用手法の多様化を模索している。\n・学生側も「新卒×派遣」というジョブ型キャリアを選択するなど、自律的な働き方が広がっている。"
-  },
-  {
-    "title": "米国、9割が「新卒採用を避ける」　18カ月プログラムで入社率99％ (AI時代、「採用減る」が4割　新卒は必要か)",
-    "link": "https://business.nikkei.com/atcl/NBD/19/special/02471/",
-    "source": "日経ビジネス 最新",
-    "published": "",
-    "summary": "AI活用などにより、新卒厳選採用へとカジを切った日本企業。入社率の向上が求められる。日本型の雇用慣行とは異なる海外の事例からは、新しい新卒採用の未来が見えてくる。",
-    "image": "https://business.nikkei.com/atcl/NBD/19/special/02471/fb.jpg",
-    "fetched_at": "2026-04-10 00:54:20",
-    "ja_summary": "・日本企業はAI活用で新卒採用を厳選し、入社率向上を重視する方向に転換している。\n・米国では新卒一括採用を避け、長期研修プログラムで定着率を高める手法が定着している。\n・海外の成功事例を参考に、日本型雇用を見直す「新しい新卒採用の未来」が求められている。"
-  },
-  {
-    "title": "替え玉受験などの不正も防ぐ　「AI×ヒト」、公平性と機会を増やす (AI時代、「採用減る」が4割　新卒は必要か)",
-    "link": "https://business.nikkei.com/atcl/NBD/19/special/02470/",
-    "source": "日経ビジネス 最新",
-    "published": "",
-    "summary": "新卒採用で活用されるようになってきたAI面接。より学生の資質を見極められることが利点だ。デジタル化で個人情報保護や不正防止が課題となる中、AIによる防止技術も進歩する。",
-    "image": "https://business.nikkei.com/atcl/NBD/19/special/02470/fb.jpg",
-    "fetched_at": "2026-04-10 00:54:20",
-    "ja_summary": "・AI面接の導入により、学生の資質をより的確に見極めることが可能になった。\n・替え玉受験などの不正対策にもAI技術が活用され、公平性が担保されている。\n・デジタル化に伴う個人情報保護の課題はあるが、選考機会の拡大が期待される。"
-  },
-  {
-    "title": "データが解き明かす「現場の苦悩と未来」　「AIで新卒採用減」4割が見込む (AI時代、「採用減る」が4割　新卒は必要か)",
-    "link": "https://business.nikkei.com/atcl/NBD/19/special/02469/",
-    "source": "日経ビジネス 最新",
-    "published": "",
-    "summary": "人事担当者を対象とした調査に基づくデータから、新卒採用を巡る変化と未来が見えてきた。カギになるのがAIだ。様々な形で投入が進み、今後は新卒採用の在り方自体も変えそうだ。",
-    "image": "https://business.nikkei.com/atcl/NBD/19/special/02469/fb.jpg",
-    "fetched_at": "2026-04-10 00:54:21",
-    "ja_summary": "・人事担当者の4割が、AI導入により将来の新卒採用数が減少すると予測。\n・AI活用が業務効率化を促し、採用のあり方そのものを変革する転換期にある。\n・今後、企業は新卒採用の必要性や質を見直すフェーズに入っている。"
-  },
-  {
-    "title": "Claude in Chromeの活用事例8選｜サブスク範囲でブラウザ自動化できるんやで",
-    "link": "https://zenn.dev/masayan1126/books/claude-in-chrome-guide",
-    "source": "Zenn Trends",
-    "published": "Thu, 09 Apr 2026 12:58:06 GMT",
-    "summary": "Claude in Chrome（Claude for Chrome）の実践的な活用事例を情報収集・開発・クリエイター業務・日常タスクの4カテゴリで紹介するで。APIキー不要でサブスク範囲内のブラウザ自動化を実現する方法と注意点もぜんぶ解説するんや。",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--Zo34-W9l--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci80ZGI1OWNlNTA4LmpwZWc=%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg?_a=BACAGSGT",
-    "fetched_at": "2026-04-10 00:55:02",
-    "ja_summary": "・Claude for Chromeでブラウザ上の業務を自動化し、情報収集や開発・創作を効率化する方法を解説。\n・APIキー不要でサブスク範囲内に収まるため、追加コストを抑えて活用可能。\n・実務に直結する具体的な活用事例と、導入時の注意点を網羅。"
-  },
-  {
-    "title": "本番環境のAIエージェント構築を迅速化「Claude Managed Agents」",
-    "link": "https://www.watch.impress.co.jp/docs/news/2100586.html",
-    "source": "Impress Watch",
-    "published": "",
-    "summary": "Anthropicは9日(米国時間)、AIエージェントを大規模に構築・展開するためのAPI製品群「Claude Managed Agents」のパブリックベータ版を提供開始した。",
-    "image": "https://www.watch.impress.co.jp/img/ipw/list/2100/586/cl1.jpg",
-    "fetched_at": "2026-04-09 23:11:45",
-    "ja_summary": "・AnthropicがAIエージェントの構築・展開を効率化する「Claude Managed Agents」のベータ版を提供開始。\n・大規模なシステム開発や運用を迅速化し、本番環境でのAI導入を支援。"
-  },
-  {
-    "title": "4月12日 技術書典20 に新刊 『Nano Banana・Grok Imagine・Gemini TTS で始める AIアニメ生成入門』 で参加します",
-    "link": "https://note.com/npaka/n/na85f22deec79",
-    "source": "note (npaka)",
-    "published": "Thu, 09 Apr 2026 21:24:27 +0900",
-    "summary": "<p id=\"0e5d76e9-eb69-46f5-93a4-1fec213378d7\" name=\"0e5d76e9-eb69-46f5-93a4-1fec213378d7\">4/12(日)開催の #技術書典 20 オフラインイベントで新刊『<strong>Nano Banana・Grok Imagine・Gemini TTS で始める AIアニメ生成入門</strong>』を頒布します。 <br />よろしくお願いします。</p><figure id=\"d034e2c3-efd2-4de2-9232-1962920add42\" name=\"d034e2c3-efd2-4de2-9232-1962920add42\"><img alt=\"\" height=\"880\" src=\"https://assets.st-note.com/img/1775737153-yjr7Pl3YqokEMdS80QXCOD4m.png\" style=\"width: 372px; height: 528px;\" width=\"620\" /><figcaption></figcaption></figure><br /><a href=\"https://note.com/npaka/n/na85f22deec79\">続きをみる</a>",
-    "image": "https://assets.st-note.com/production/uploads/images/266148417/rectangle_large_type_2_8847b9aa8620ac8a16e3cfbff5b5afb2.png?width=800",
-    "fetched_at": "2026-04-09 23:11:53",
-    "ja_summary": "4月12日開催の「技術書典20」にて、新刊『Nano Banana・Grok Imagine・Gemini TTS で始める AIアニメ生成入門』を頒布します。\n最新のAI技術を活用したアニメ生成の入門書です。"
   }
 ]
