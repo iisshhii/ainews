@@ -1,5 +1,25 @@
 [
   {
+    "title": "Claude Mythos Preview の概要",
+    "link": "https://note.com/npaka/n/n8300dedbd1bb",
+    "source": "note (npaka)",
+    "published": "Fri, 10 Apr 2026 06:38:57 +0900",
+    "summary": "<p id=\"6151fd28-5f78-458f-aba6-45208e2b411d\" name=\"6151fd28-5f78-458f-aba6-45208e2b411d\">「Claude Mythos Preview」の概要についてまとめました。</p><figure id=\"21cdeb83-db7c-4e2a-aa16-62a874e45e52\" name=\"21cdeb83-db7c-4e2a-aa16-62a874e45e52\"><blockquote><p id=\"b0d38549-566d-43e1-a716-a196734e32db\" name=\"b0d38549-566d-43e1-a716-a196734e32db\"><strong>・</strong><a href=\"https://www.anthropic.com/glasswing\" rel=\"nofollow noopener\" target=\"_blank\"><strong>Project Glasswing</strong></a></p></blockquote>\n<figcaption></figcaption></figure><br /><a href=\"https://note.com/npaka/n/n8300dedbd1bb\">続きをみる</a>",
+    "image": "https://assets.st-note.com/production/uploads/images/266220560/rectangle_large_type_2_e6f27145b507079b8df0c66491825d50.png?width=800",
+    "fetched_at": "2026-04-10 23:21:41",
+    "ja_summary": "・Anthropic社が新しいAIプロジェクト「Project Glasswing」を公開。\n・「Claude Mythos Preview」として、その機能や概要が先行提供されている。\n・詳細は公開元のnote記事にて確認可能。"
+  },
+  {
+    "title": "仕様駆動開発は、ウォーターフォールへの回帰ではない。",
+    "link": "https://qiita.com/ju-kosaka/items/3674294dc301f5dcf453",
+    "source": "Qiita (Popular)",
+    "published": "2026-04-07T12:51:30+09:00",
+    "summary": "# 仕様駆動開発は、ウォーターフォールへの回帰ではない。\n\nみなさん、仕様駆動開発（SDD：Spec-Driven Development）、意識していますか？\n\nGitHub Spec KitやKiroが登場し、AIを活用した仕様駆動開発が一気に注目を集め始めました。\n国内外の技術ブログにも実践事例が増え、「いよいよSDD元年か」という空気が漂いはじめています。\n\nでも、ちょっと待ってください。",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYzODE5NTM5JTJGNzYyODE2ZjkyNGNhMjQ2MTUxYjhiYWVjMzYyOWY4NDE1ZTY1NTQ3YSUyRnhfbGFyZ2UucG5nJTNGMTcyMTIyNDU2Nj9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9OWIzZGFlODg5MTQzYjdlNTIwZDAwMzk1Mzk4NDRjY2Q%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYxZTIwZGI1ZTdlNDA3ZWFlN2I5NzBlYzk5OTg4MGRjOGMzY2MwZjY0JTJGb3JpZ2luYWwuanBnJTNGMTY2NzI3NDk2Mz9peGxpYj1yYi00LjAuMCZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz0xMzQ4OTg3MjlkMzMwYTdiNWRhMzRkOGU2MzVmZjIxOA%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D516c59f5527b68fbb99ee778f1148120?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUU0JUJCJTk1JUU2JUE3JTk4JUU5JUE3JTg2JUU1JThCJTk1JUU5JTk2JThCJUU3JTk5JUJBJUUzJTgxJUFGJUUzJTgwJTgxJUUzJTgyJUE2JUUzJTgyJUE5JUUzJTgzJUJDJUUzJTgyJUJGJUUzJTgzJUJDJUUzJTgzJTk1JUUzJTgyJUE5JUUzJTgzJUJDJUUzJTgzJUFCJUUzJTgxJUI4JUUzJTgxJUFFJUU1JTlCJTlFJUU1JUI4JUIwJUUzJTgxJUE3JUUzJTgxJUFGJUUzJTgxJUFBJUUzJTgxJTg0JUUzJTgwJTgyJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9MWJiMmNjNzk2MGU2NjUzODBmNDZjZDMzZWU0YjFjMmI&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBqdS1rb3Nha2EmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1jOTcwMmJhMDNjNWIwMDYyNmFiMWQ2YWQwYWFjOTRhMw&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=S0RESeOCouOCuOODo-OCpOODq-mWi-eZuuOCu-ODs-OCv-ODvOagquW8j-S8muekvg&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=b6c0e77af43616ef6e1a50a3613a9c90",
+    "fetched_at": "2026-04-10 23:22:19",
+    "ja_summary": "・AI活用による「仕様駆動開発（SDD）」が注目されているが、これは過去のウォーターフォール開発への回帰ではない。\n・ツールや環境の進化により、仕様を起点とした効率的な開発手法が現代的なアプローチとして再評価されている。\n・今後、AIを前提とした新しい開発スタイルとして定着していく可能性がある。"
+  },
+  {
     "title": "世界半導体売上高、26年2月は62％増　AI需要で成長加速",
     "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11643/",
     "source": "日経クロステック 総合",
@@ -978,25 +998,5 @@
     "image": "https://japan.cnet.com/storage/2026/04/10/e1e17ba11380356a369903c01f61d5ef/t/184/138/d/chatgpt.jpeg",
     "fetched_at": "2026-04-10 06:57:07",
     "ja_summary": "・OpenAIがChatGPTの月額100ドルの新プランを導入。\n・AIでプログラミングを行う「Vibe coder」の利用上限問題を解消。\n・既存の月額20ドルと200ドルのプランの中間層向け選択肢として提供。"
-  },
-  {
-    "title": "外資コンサルBIG3、マッキンゼーの新たなAIリーダーシップ指針が判明…「組織をフラット化し、スピードを上げよ」",
-    "link": "https://www.businessinsider.jp/article/2604-mckinsey-ai-agents-mangement-leadership-great-flattening/",
-    "source": "Business Insider Japan",
-    "published": "Thu, 09 Apr 2026 21:40:00 GMT",
-    "summary": "マッキンゼーをはじめとするコンサルティング会社は、AIを活用して管理体制を合理化しており、これを「大フラット化」と呼ぶ人もいます。",
-    "image": "https://media.loom-app.com/loom/2026/04/05/5dda0881-9d5f-4383-8fda-6c0fcd5a3f8b/original.jpg?w=1200&amp;h=630",
-    "fetched_at": "2026-04-10 06:57:07",
-    "ja_summary": "・マッキンゼーら外資コンサルBIG3がAI活用で組織を再編。\n・管理職を減らして「大フラット化」を推進し、意思決定を高速化。\n・AI導入による業務効率化で、組織の俊敏性を飛躍的に高める狙い。"
-  },
-  {
-    "title": "「私はバイブ・コーディングで母のために医療管理ワークフローを構築した」ステージ4のがん闘病を支えたAIツールの体験記",
-    "link": "https://www.businessinsider.jp/article/ai-workflow-care-cancer-treatment/",
-    "source": "Business Insider Japan",
-    "published": "Thu, 09 Apr 2026 21:40:00 GMT",
-    "summary": "ニュージャージー州在住のある男性は、母親がステージ4の癌と診断された際、AIのワークフローを作成しました。これが、母親のケアには欠かせない存在になったといいます。",
-    "image": "https://media.loom-app.com/loom/2026/04/07/c455fe55-e939-44c0-8842-bdc0658f4b7f/original.jpg?w=1200&amp;h=630",
-    "fetched_at": "2026-04-10 06:57:07",
-    "ja_summary": "・末期がんの母親を支えるため、男性がAIを活用して医療管理システムを自作。\n・煩雑なケア業務をAIで効率化し、闘病生活に欠かせないツールとして成功。\n・専門知識がなくてもAIで実用的な業務改善ができる「バイブ・コーディング」の事例。"
   }
 ]
