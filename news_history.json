@@ -1,5 +1,35 @@
 [
   {
+    "title": "AICore Developer Preview で Gemma 4 を試す",
+    "link": "https://note.com/npaka/n/n79383ac828ec",
+    "source": "note (npaka)",
+    "published": "Fri, 03 Apr 2026 23:00:51 +0900",
+    "summary": "<p id=\"5d203460-9487-4d23-a979-3c62cb92a7f3\" name=\"5d203460-9487-4d23-a979-3c62cb92a7f3\">以下の記事が面白かったので、簡単にまとめました。</p><figure id=\"7d6ae62e-7177-4dd7-8277-72bb316cf6bf\" name=\"7d6ae62e-7177-4dd7-8277-72bb316cf6bf\"><blockquote><p id=\"7bf996af-c4d2-439c-aa59-0a8b50a1f79d\" name=\"7bf996af-c4d2-439c-aa59-0a8b50a1f79d\"><strong>・</strong><a href=\"https://android-developers.googleblog.com/2026/04/AI-Core-Developer-Preview.html\" rel=\"nofollow noopener\" target=\"_blank\"><strong>Announcing Gemma 4 in the AICore Developer Preview</strong></a></p></blockquote>\n<figcaption></figcaption></figure><br /><a href=\"https://note.com/npaka/n/n79383ac828ec\">続きをみる</a>",
+    "image": "https://assets.st-note.com/production/uploads/images/264518068/rectangle_large_type_2_6ef5d28cf4ce1752962b0e118dfbc343.png?width=800",
+    "fetched_at": "2026-04-11 23:54:33",
+    "ja_summary": "・GoogleのAndroid向けAI実行環境「AICore」で、最新モデル「Gemma 4」が試用可能に。\n・開発者は端末上で高度なAI機能を活用したアプリ構築・検証ができる。\n・Android開発者向けプレビュー版として公開されており、新たなAI体験の導入が加速する。"
+  },
+  {
+    "title": "アニメOPで生成AI使用発覚 謝罪",
+    "link": "https://news.yahoo.co.jp/pickup/6575813?source=rss",
+    "source": "Yahoo!ニュース IT・科学",
+    "published": "Fri, 10 Apr 2026 12:17:28 GMT",
+    "summary": "",
+    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/10/4442ed534340fb0e7587968dbf135a92be03359a29c05d8c698f0f461595e068.jpg",
+    "fetched_at": "2026-04-11 23:54:36",
+    "ja_summary": "・アニメのオープニング映像に生成AI素材が無断使用されていたことが判明。\n・制作委員会が事実を認め、公式に謝罪した。\n・現在は該当箇所の修正作業が進められている。"
+  },
+  {
+    "title": "Typelessで音声入力や ── タイピング不要のAI時代がきたで",
+    "link": "https://zenn.dev/masayan1126/books/typeless-voice-input",
+    "source": "Zenn Trends",
+    "published": "Sat, 11 Apr 2026 09:22:10 GMT",
+    "summary": "AI音声入力アプリTypelessの使い方を徹底解説するで。フィラー削除・自動構造化・リアルタイム翻訳とか、ただの文字起こしとはレベルちゃうねん。Claude Codeとの連携でPC・スマホ両方から爆速で作業できる方法、ぜんぶ教えるわ。",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--ZHwU9uur--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci8xOGFlNjM1ZDE0LmpwZWc=%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg?_a=BACAGSGT",
+    "fetched_at": "2026-04-11 23:54:46",
+    "ja_summary": "・AI音声入力アプリ「Typeless」の活用術を解説。\n・フィラー除去、自動構造化、翻訳など高度な機能を搭載。\n・Claude Code連携により、PC・スマホ間で効率的に作業を爆速化。"
+  },
+  {
     "title": "［新連載］新卒は必要か　ENEOS・クボタ・大和ハウス、採用大幅減の真意 (新卒は必要か)",
     "link": "https://business.nikkei.com/atcl/gen/19/00863/040700001/",
     "source": "日経ビジネス 最新",
@@ -968,35 +998,5 @@
     "image": "https://media.loom-app.com/loom/2026/04/07/c455fe55-e939-44c0-8842-bdc0658f4b7f/original.jpg?w=1200&amp;h=630",
     "fetched_at": "2026-04-11 00:12:18",
     "ja_summary": "・ステージ4のがん患者の息子が、AIを活用して母親の医療管理ワークフローを独自構築。\n・複雑なケアや情報の整理をAIで自動化し、治療支援に大きな成果を上げた。\n・プログラミング不要の「バイブ・コーディング」が介護現場の効率化に貢献した事例。"
-  },
-  {
-    "title": "外資コンサルBIG3、マッキンゼーの新たなAIリーダーシップ指針が判明…「組織をフラット化し、スピードを上げよ」",
-    "link": "https://www.businessinsider.jp/article/2604-mckinsey-ai-agents-mangement-leadership-great-flattening/",
-    "source": "Business Insider Japan",
-    "published": "Thu, 09 Apr 2026 21:40:00 GMT",
-    "summary": "マッキンゼーをはじめとするコンサルティング会社は、AIを活用して管理体制を合理化しており、これを「大フラット化」と呼ぶ人もいます。",
-    "image": "https://media.loom-app.com/loom/2026/04/05/5dda0881-9d5f-4383-8fda-6c0fcd5a3f8b/original.jpg?w=1200&amp;h=630",
-    "fetched_at": "2026-04-11 00:12:19",
-    "ja_summary": "・マッキンゼーら外資コンサルBIG3がAI活用で組織を再編。\n・管理職を減らし階層をなくす「大フラット化」を推進。\n・意思決定の迅速化と業務効率の大幅な向上を目指す。"
-  },
-  {
-    "title": "Claude Mythos Preview の概要",
-    "link": "https://note.com/npaka/n/n8300dedbd1bb",
-    "source": "note (npaka)",
-    "published": "Fri, 10 Apr 2026 06:38:57 +0900",
-    "summary": "<p id=\"6151fd28-5f78-458f-aba6-45208e2b411d\" name=\"6151fd28-5f78-458f-aba6-45208e2b411d\">「Claude Mythos Preview」の概要についてまとめました。</p><figure id=\"21cdeb83-db7c-4e2a-aa16-62a874e45e52\" name=\"21cdeb83-db7c-4e2a-aa16-62a874e45e52\"><blockquote><p id=\"b0d38549-566d-43e1-a716-a196734e32db\" name=\"b0d38549-566d-43e1-a716-a196734e32db\"><strong>・</strong><a href=\"https://www.anthropic.com/glasswing\" rel=\"nofollow noopener\" target=\"_blank\"><strong>Project Glasswing</strong></a></p></blockquote>\n<figcaption></figcaption></figure><br /><a href=\"https://note.com/npaka/n/n8300dedbd1bb\">続きをみる</a>",
-    "image": "https://assets.st-note.com/production/uploads/images/266220560/rectangle_large_type_2_e6f27145b507079b8df0c66491825d50.png?width=800",
-    "fetched_at": "2026-04-10 23:21:41",
-    "ja_summary": "・Anthropic社が新しいAIプロジェクト「Project Glasswing」を公開。\n・「Claude Mythos Preview」として、その機能や概要が先行提供されている。\n・詳細は公開元のnote記事にて確認可能。"
-  },
-  {
-    "title": "仕様駆動開発は、ウォーターフォールへの回帰ではない。",
-    "link": "https://qiita.com/ju-kosaka/items/3674294dc301f5dcf453",
-    "source": "Qiita (Popular)",
-    "published": "2026-04-07T12:51:30+09:00",
-    "summary": "# 仕様駆動開発は、ウォーターフォールへの回帰ではない。\n\nみなさん、仕様駆動開発（SDD：Spec-Driven Development）、意識していますか？\n\nGitHub Spec KitやKiroが登場し、AIを活用した仕様駆動開発が一気に注目を集め始めました。\n国内外の技術ブログにも実践事例が増え、「いよいよSDD元年か」という空気が漂いはじめています。\n\nでも、ちょっと待ってください。",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYzODE5NTM5JTJGNzYyODE2ZjkyNGNhMjQ2MTUxYjhiYWVjMzYyOWY4NDE1ZTY1NTQ3YSUyRnhfbGFyZ2UucG5nJTNGMTcyMTIyNDU2Nj9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9OWIzZGFlODg5MTQzYjdlNTIwZDAwMzk1Mzk4NDRjY2Q%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYxZTIwZGI1ZTdlNDA3ZWFlN2I5NzBlYzk5OTg4MGRjOGMzY2MwZjY0JTJGb3JpZ2luYWwuanBnJTNGMTY2NzI3NDk2Mz9peGxpYj1yYi00LjAuMCZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz0xMzQ4OTg3MjlkMzMwYTdiNWRhMzRkOGU2MzVmZjIxOA%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D516c59f5527b68fbb99ee778f1148120?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUU0JUJCJTk1JUU2JUE3JTk4JUU5JUE3JTg2JUU1JThCJTk1JUU5JTk2JThCJUU3JTk5JUJBJUUzJTgxJUFGJUUzJTgwJTgxJUUzJTgyJUE2JUUzJTgyJUE5JUUzJTgzJUJDJUUzJTgyJUJGJUUzJTgzJUJDJUUzJTgzJTk1JUUzJTgyJUE5JUUzJTgzJUJDJUUzJTgzJUFCJUUzJTgxJUI4JUUzJTgxJUFFJUU1JTlCJTlFJUU1JUI4JUIwJUUzJTgxJUE3JUUzJTgxJUFGJUUzJTgxJUFBJUUzJTgxJTg0JUUzJTgwJTgyJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9MWJiMmNjNzk2MGU2NjUzODBmNDZjZDMzZWU0YjFjMmI&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBqdS1rb3Nha2EmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1jOTcwMmJhMDNjNWIwMDYyNmFiMWQ2YWQwYWFjOTRhMw&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=S0RESeOCouOCuOODo-OCpOODq-mWi-eZuuOCu-ODs-OCv-ODvOagquW8j-S8muekvg&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=b6c0e77af43616ef6e1a50a3613a9c90",
-    "fetched_at": "2026-04-10 23:22:19",
-    "ja_summary": "・AI活用による「仕様駆動開発（SDD）」が注目されているが、これは過去のウォーターフォール開発への回帰ではない。\n・ツールや環境の進化により、仕様を起点とした効率的な開発手法が現代的なアプローチとして再評価されている。\n・今後、AIを前提とした新しい開発スタイルとして定着していく可能性がある。"
   }
 ]
