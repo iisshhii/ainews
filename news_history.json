@@ -1,5 +1,45 @@
 [
   {
+    "title": "AIは人間の「粘り強さ」奪う 実証",
+    "link": "https://news.yahoo.co.jp/pickup/6575938?source=rss",
+    "source": "Yahoo!ニュース IT・科学",
+    "published": "Sat, 11 Apr 2026 12:10:34 GMT",
+    "summary": "",
+    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/11/57ced79ba09e03c9e5e66be1fa0df232cbc338975438856944afe57726c61b33.jpg",
+    "fetched_at": "2026-04-11 22:21:51",
+    "ja_summary": "・AIの回答に頼ることで、人間が試行錯誤を繰り返す「粘り強さ」が低下することが実証された。\n・効率的な解決策を得る一方で、粘り強く思考する能力が損なわれ、学習効果が減退するリスクがある。\n・AIは補助ツールとして活用し、主体的に考えるプロセスを維持することが不可欠である。"
+  },
+  {
+    "title": "IntelとGoogle AIインフラで協業",
+    "link": "https://news.yahoo.co.jp/pickup/6575808?source=rss",
+    "source": "Yahoo!ニュース IT・科学",
+    "published": "Fri, 10 Apr 2026 11:26:42 GMT",
+    "summary": "",
+    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/10/c809e7206cb0dde24928a309d0f9f0836f329bf47bae98bd8e0b1d793dc83fa1.jpg",
+    "fetched_at": "2026-04-11 22:21:54",
+    "ja_summary": "・IntelとGoogleがAIインフラ構築に向けて戦略的提携。\n・次世代のAIアクセラレータ「Axion」などの開発で協業。\n・両社の技術を融合し、クラウド環境のAI処理能力と効率を最大化。"
+  },
+  {
+    "title": "生成AI時代には、批評家こそがクリエイターになるべきなんじゃない？　そう考えて8GB MacBook NeoをいじってたらAI  VJマシンができちゃった（CloseBox）",
+    "link": "https://www.techno-edge.net/article/2026/04/09/4982.html",
+    "source": "TechnoEdge",
+    "published": "Thu, 09 Apr 2026 09:26:57 +0900",
+    "summary": "前回の記事では、オフィスに置きっぱなしにしているM2 MacBook Airを使い、ビジュアライザーに歌詞同期機能を追加した話を書きました。",
+    "image": "https://www.techno-edge.net/imgs/rss/30762.jpg",
+    "fetched_at": "2026-04-11 22:21:59",
+    "ja_summary": "・生成AI活用において、批評家的な視点を持つことの重要性を提言。\n・M2 MacBook Airと生成AIを組み合わせ、歌詞と連動するVJマシンを自作。\n・既存の機材とAIの融合により、個人が新たなクリエイティブ表現を実現。"
+  },
+  {
+    "title": "エンジニア歴20年の私が、素人バイブコーディング勢に物申す",
+    "link": "https://qiita.com/Akira-Isegawa/items/00f23d206c504db2ac3b",
+    "source": "Qiita (Popular)",
+    "published": "2026-04-10T21:40:06+09:00",
+    "summary": "> お前がコードを書き始める前に\n> 言っておきたい事がある\n> かなりきびしい話もするが\n> 俺の本音を聞いておけ\n\n![image.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/199506/c49a68b9-0c5f-4c71-a614-6c0bec1a81f9.png)\n\n\n## はじめに\n\nこれから少しの",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmF2YXRhcnMyLmdpdGh1YnVzZXJjb250ZW50LmNvbSUyRnUlMkY5OTYwNDklM0Z2JTNEND9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9MTFmMDUwMTI0OTJjNGQ2ZjJkMjk2NmIyNzI2ZTMxZmY%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3De511b377cfcf39b1a79c86766165317c?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgyJUE4JUUzJTgzJUIzJUUzJTgyJUI4JUUzJTgzJThCJUUzJTgyJUEyJUU2JUFEJUI0MjAlRTUlQjklQjQlRTMlODElQUUlRTclQTclODElRTMlODElOEMlRTMlODAlODElRTclQjQlQTAlRTQlQkElQkElRTMlODMlOTAlRTMlODIlQTQlRTMlODMlOTYlRTMlODIlQjMlRTMlODMlQkMlRTMlODMlODclRTMlODIlQTMlRTMlODMlQjMlRTMlODIlQjAlRTUlOEIlQTIlRTMlODElQUIlRTclODklQTklRTclOTQlQjMlRTMlODElOTkmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1kMzkxYjFhYTMxNzE2MGEzZTA4YzNkYjM1ZDdhMjljNA&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBBa2lyYS1Jc2VnYXdhJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9ZDRiNWU1OGI1ZjA0MDg2NDQ2ZDY4NTBmNTlkMGEyMzM&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=607439657f465de26227399984e65b3c",
+    "fetched_at": "2026-04-11 22:22:09",
+    "ja_summary": "・AIによる「バイブコーディング」への過度な依存に、ベテランエンジニアが警鐘を鳴らす。\n・プログラミングの本質を理解しないまま生成AIに頼ることは、技術的負債や品質低下を招くリスクがある。\n・AIを使いこなすには、コードの論理的な構造や基礎知識を身につけることが不可欠である。"
+  },
+  {
     "title": "IntelとGoogle、AIインフラの発展に向け協業",
     "link": "https://www.watch.impress.co.jp/docs/news/2100932.html",
     "source": "Impress Watch",
@@ -958,45 +998,5 @@
     "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/10/4442ed534340fb0e7587968dbf135a92be03359a29c05d8c698f0f461595e068.jpg",
     "fetched_at": "2026-04-10 22:14:48",
     "ja_summary": "・アニメのオープニング映像で生成AIの使用が発覚し、制作会社が謝罪した。\n・AIの使用が公表されていなかったことが騒動の発端となった。\n・今後は制作プロセスにおける管理体制の強化と適正化を図るとしている。"
-  },
-  {
-    "title": "メタ 新AI「Muse Spark」を発表",
-    "link": "https://news.yahoo.co.jp/pickup/6575630?source=rss",
-    "source": "Yahoo!ニュース IT・科学",
-    "published": "Thu, 09 Apr 2026 01:57:42 GMT",
-    "summary": "",
-    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/9/362772c48425a344ef5cd5978730df1bea742b415792b45a804815f18964703a.jpg",
-    "fetched_at": "2026-04-10 22:14:50",
-    "ja_summary": "・メタが新しいAIモデル「Muse Spark」を発表\n・テキストから短時間で高品質な動画や画像を生成可能\n・クリエイターの作業効率化と表現の幅を広げることを目指す"
-  },
-  {
-    "title": "［新連載］新卒は必要か　ENEOS・クボタ・大和ハウス、採用大幅減の真意 (新卒は必要か)",
-    "link": "https://business.nikkei.com/atcl/gen/19/00863/040700001/",
-    "source": "日経ビジネス 最新",
-    "published": "",
-    "summary": "新卒採用では「売り手市場」が続いてきたが、一転して採用人数を絞る動きが広がっている。人手不足を背景に企業のAI活用が進む中、新卒採用は量から質への転換点を迎えている。",
-    "image": "https://business.nikkei.com/atcl/gen/19/00863/040700001/fb.jpg",
-    "fetched_at": "2026-04-10 20:58:51",
-    "ja_summary": "・売り手市場の中、大企業が新卒採用数を大幅に削減する動きが拡大。\n・人手不足対策としてAI活用が進み、採用の軸が「量」から「質」へ転換。\n・企業は新卒一括採用のあり方を見直し、選別的な採用戦略へ移行している。"
-  },
-  {
-    "title": "「AIが本領を発揮するのは設計の『川中』」、日建設計の大松敦社長に聞く",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03573/040300004/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "新中期経営計画で、2030年に受託額1050億円という目標を掲げた日建設計。新築設計の市場縮小に備えた一手や、AI（人工知能）の活用方法などについて、同社の大松敦社長に聞いた。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03573/040300004/48_sns.jpg?20220512",
-    "fetched_at": "2026-04-10 20:58:57",
-    "ja_summary": "・日建設計は2030年に受託額1050億円の達成を掲げ、市場縮小を見据えた戦略を推進する。\n・AI活用においては、初期構想や最終調整よりも、設計プロセスの中心となる「川中」での活用を重視する。\n・設計業務の効率化と高度化を両立させ、競争力の維持・拡大を図る。"
-  },
-  {
-    "title": "「エリクソン、スパコンで脳を模倣」など5本",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/02928/040600091/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "今回は、2026年3月23～29日に移動通信関連企業・組織から発表されたニュースの中からセレクトした5本をお届けします。6Gに向けた高度なAI開発競争に加え、世界のモバイルインフラ投資が2027年にピークを迎えるといった調査報告も含めてお送りします。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/02928/040600091/SNS.jpg?20220512",
-    "fetched_at": "2026-04-10 20:58:59",
-    "ja_summary": "・エリクソンがスパコンを用いた脳模倣技術を発表し、6G開発のAI競争が激化\n・世界のモバイルインフラ投資は2027年にピークに達する見通し\n・2026年3月最終週の移動通信業界の主要動向をまとめた5本のニュースをお届け"
   }
 ]
