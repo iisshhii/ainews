@@ -1,5 +1,25 @@
 [
   {
+    "title": "IntelとGoogle、AIインフラの発展に向け協業",
+    "link": "https://www.watch.impress.co.jp/docs/news/2100932.html",
+    "source": "Impress Watch",
+    "published": "",
+    "summary": "IntelとGoogleは9日(米国時間)、次世代のAIおよびクラウド基盤の発展に向けた複数年にわたる協業を発表した。最新のヘテロジニアス(異種混合)AIシステムの高度化に向け、CPUとカスタムIPU(Infrastructure Processing Unit)が果たす役割を強化する。",
+    "image": "https://www.watch.impress.co.jp/img/ipw/list/2100/932/01.jpg",
+    "fetched_at": "2026-04-11 21:02:14",
+    "ja_summary": "・IntelとGoogleがAIおよびクラウド基盤強化のため複数年の協業を発表。\n・次世代AIシステムに向け、CPUとカスタムIPUの役割を最適化。\n・ヘテロジニアス（異種混合）コンピューティングの高度化を推進。"
+  },
+  {
+    "title": "Playwright CLI + Claude Code で自律UI修正開発の提案",
+    "link": "https://zenn.dev/catatsumuri/articles/22227c79a94a86",
+    "source": "Zenn Trends",
+    "published": "Thu, 09 Apr 2026 09:53:08 GMT",
+    "summary": "はじめに — コーディングエージェント に「目」を与える\nClaude Code や Codex CLI は非常に強力なコーディングエージェントであるが、UI の問題に関しては必ずしも万能ではない。\n特に以下のようなケースは苦手である。\n\nMarkdown のレンダリング崩れ\nCSS の微妙なズレ\nレスポンシブのレイアウト崩れ\nスクロール後に発生する UI 問題\n\nこれらはコードを読んだだけでは判断しづらく、実際の画面を確認しないと分からないケースが多い。つまりAI開発エージェントは「コードは読めるが、画面は見えない」という制約がある。\nここではLaravel Boost +  Pl...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--IBf0HfPO--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Playwright%2520CLI%2520%252B%2520Claude%2520Code%2520%25E3%2581%25A7%25E8%2587%25AA%25E5%25BE%258BUI%25E4%25BF%25AE%25E6%25AD%25A3%25E9%2596%258B%25E7%2599%25BA%25E3%2581%25AE%25E6%258F%2590%25E6%25A1%2588%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25EF%25BE%2593%25EF%25BD%25AF%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2VlMzM1YzM5ZjAuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-04-11 21:02:41",
+    "ja_summary": "・コーディングAIはコードは読めるが、UI表示の崩れや微妙なズレを認識できない弱点がある。\n・Playwrightで取得した画面情報をClaude Codeに連携させることで、視覚的なフィードバックを可能にする。\n・「コード＋目」の仕組みにより、UIの自律的な検証と修正を効率化する開発手法を提案。"
+  },
+  {
     "title": "アンカー初の文字起こしレコーダー「Soundcore Work」を試す。話者識別の精度と使い勝手の良さが光る",
     "link": "https://www.businessinsider.jp/article/2604-anker-soundcore-work-review/",
     "source": "Business Insider Japan",
@@ -978,25 +998,5 @@
     "image": "https://xtech.nikkei.com/atcl/nxt/column/18/02928/040600091/SNS.jpg?20220512",
     "fetched_at": "2026-04-10 20:58:59",
     "ja_summary": "・エリクソンがスパコンを用いた脳模倣技術を発表し、6G開発のAI競争が激化\n・世界のモバイルインフラ投資は2027年にピークに達する見通し\n・2026年3月最終週の移動通信業界の主要動向をまとめた5本のニュースをお届け"
-  },
-  {
-    "title": "IntelとGoogle AIインフラで協業",
-    "link": "https://news.yahoo.co.jp/pickup/6575808?source=rss",
-    "source": "Yahoo!ニュース IT・科学",
-    "published": "Fri, 10 Apr 2026 11:26:42 GMT",
-    "summary": "",
-    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/10/c809e7206cb0dde24928a309d0f9f0836f329bf47bae98bd8e0b1d793dc83fa1.jpg",
-    "fetched_at": "2026-04-10 20:59:14",
-    "ja_summary": "・IntelとGoogle CloudがAI向けインフラ構築で戦略的提携を発表\n・次世代AIチップの共同開発や、データセンターの最適化を推進\n・生成AIの普及に向けたインフラ基盤の強化とエコシステム拡充を目指す"
-  },
-  {
-    "title": "生成AI時代には、批評家こそがクリエイターになるべきなんじゃない？　そう考えて8GB MacBook NeoをいじってたらAI  VJマシンができちゃった（CloseBox）",
-    "link": "https://www.techno-edge.net/article/2026/04/09/4982.html",
-    "source": "TechnoEdge",
-    "published": "Thu, 09 Apr 2026 09:26:57 +0900",
-    "summary": "前回の記事では、オフィスに置きっぱなしにしているM2 MacBook Airを使い、ビジュアライザーに歌詞同期機能を追加した話を書きました。",
-    "image": "https://www.techno-edge.net/imgs/rss/30762.jpg",
-    "fetched_at": "2026-04-10 20:59:20",
-    "ja_summary": "・生成AI時代は批評家がクリエイターになるべきとの視点から、MacBookでAI VJマシンを開発。\n・既存のM2 MacBook Airを活用し、ビジュアライザーに歌詞同期機能を実装した。\n・技術を批評する側が自ら手を動かし、新たな表現ツールを創出する事例。"
   }
 ]
