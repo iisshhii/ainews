@@ -1,5 +1,15 @@
 [
   {
+    "title": "「ドキュメント書いて」はもう古い。AIに4種類のドキュメントを「コードから自動生成」させる実践ガイド",
+    "link": "https://qiita.com/akira_papa_AI/items/d46a6629b1aae835491d",
+    "source": "Qiita (Popular)",
+    "published": "2026-04-05T21:46:56+09:00",
+    "summary": "\n## この記事で作れるようになるもの\n\n- README.md をコードベースから5分で自動生成するスクリプト\n- API仕様書を型定義とルーティングから自動生成するプロンプト\n- ADR（設計判断記録）をGit diffから自動生成するワークフロー\n- コードコメントを「ちょうどいい粒度」で自動生成するプロンプト\n- PRマージ時にドキュメントを自動更新するGitHub Actionsレシピ\n",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0MzUyMzMlMkYzYWVhMjJjODY0NGRjN2RhNzNhYmNiZWViNzNiMzQ5NTY1ZjFhYzg3JTJGeF9sYXJnZS5wbmclM0YxNzQzODkzNzQwP2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz0zYzAxZGY0NTQwNDA3MDkxOWU4ZDc1YjJmMGMwODg1MQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D57d66a48ec5d58fdc4e5256f39ac787a?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJThDJUUzJTgzJTg5JUUzJTgyJUFEJUUzJTgzJUE1JUUzJTgzJUExJUUzJTgzJUIzJUUzJTgzJTg4JUU2JTlCJUI4JUUzJTgxJTg0JUUzJTgxJUE2JUUzJTgwJThEJUUzJTgxJUFGJUUzJTgyJTgyJUUzJTgxJTg2JUU1JThGJUE0JUUzJTgxJTg0JUUzJTgwJTgyQUklRTMlODElQUI0JUU3JUE4JUFFJUU5JUExJTlFJUUzJTgxJUFFJUUzJTgzJTg5JUUzJTgyJUFEJUUzJTgzJUE1JUUzJTgzJUExJUUzJTgzJUIzJUUzJTgzJTg4JUUzJTgyJTkyJUUzJTgwJThDJUUzJTgyJUIzJUUzJTgzJUJDJUUzJTgzJTg5JUUzJTgxJThCJUUzJTgyJTg5JUU4JTg3JUFBJUU1JThCJTk1JUU3JTk0JTlGJUU2JTg4JTkwJUUzJTgwJThEJUUzJTgxJTk1JUUzJTgxJTlCJUUzJTgyJThCJUU1JUFFJTlGJUU4JUI3JUI1JUUzJTgyJUFDJUUzJTgyJUE0JUUzJTgzJTg5JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9Y2JjMjQwMWIyYjljZDA0NjNlNmJlMTMzNjgxMTU4N2E&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBha2lyYV9wYXBhX0FJJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9Njg4MDRmOGExYzc3N2U4YTc5ZDg2NzcxYzljNzViN2U&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=d516385ed6398b39a7753a374f2d3f98",
+    "fetched_at": "2026-04-11 18:06:24",
+    "ja_summary": "・コードからREADME、API仕様書、ADR、コメントをAIで自動生成・更新する手法を解説。\n・Git diffや型定義を活用し、ドキュメント作成の工数を劇的に削減。\n・GitHub Actionsによる自動更新フローで、コードとドキュメントの乖離を防止。"
+  },
+  {
     "title": "今こそ「採る」から「見極める」へ　さらば「数」合わせ　「質」が未来決める (AI時代、「採用減る」が4割　新卒は必要か)",
     "link": "https://business.nikkei.com/atcl/NBD/19/special/02473/",
     "source": "日経ビジネス 最新",
@@ -988,15 +998,5 @@
     "image": "https://www.techno-edge.net/imgs/rss/30756.jpg",
     "fetched_at": "2026-04-10 19:02:57",
     "ja_summary": "・Metaが新AIモデル「Muse Spark」を発表し、AIグラスと連携した「パーソナルスーパーインテリジェンス」を推進。\n・高効率な処理と実世界理解を強みとし、健康管理分野への活用に注力。\n・日常生活のサポートを最適化し、AIによるパーソナルアシスタントの進化を目指す。"
-  },
-  {
-    "title": "The next phase of enterprise AI",
-    "link": "https://openai.com/index/next-phase-of-enterprise-ai",
-    "source": "OpenAI",
-    "published": "Wed, 08 Apr 2026 14:00:00 GMT",
-    "summary": "OpenAI outlines the next phase of enterprise AI, as adoption accelerates across industries with Frontier, ChatGPT Enterprise, Codex, and company-wide AI agents.",
-    "image": "https://openai.com/favicon.ico",
-    "fetched_at": "2026-04-10 19:02:58",
-    "ja_summary": "・OpenAIがエンタープライズAIの次フェーズへ移行。\n・FrontierやChatGPT Enterprise、AIエージェントの導入が各業界で加速。\n・企業全体でのAI活用が本格化する新たな局面へ。"
   }
 ]
