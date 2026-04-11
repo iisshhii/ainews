@@ -1,5 +1,25 @@
 [
   {
+    "title": "DESIGN.md + 壊れたら気づくハーネス - AI向けデザインシステムを「維持できる仕組み」にした記録",
+    "link": "https://zenn.dev/tsubotax/articles/7f0d3693f70e2f",
+    "source": "Zenn Trends",
+    "published": "Sat, 11 Apr 2026 07:06:21 GMT",
+    "summary": "AI-Readyなデザインシステムmelta UIを作った\nmelta UIは、AIエージェント（Claude Code、Cursor等）がUI生成時に参照するためのデザインシステム。Tailwind CSSベースで、28コンポーネント・99デザイントークン・MCPサーバーを備えている。OSSとして公開中。\n\nhttps://melta.tsubotax.com\n普通のデザインシステムとの違いは「AIが読んで、正しいUIを書ける」ことを前提に設計している点。トークンやコンポーネントの仕様を機械可読な形で持ち、禁止パターンを明示し、MCPツール（Claude CodeなどのAIエージェ...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--hSgIdzyw--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:DESIGN.md%2520%252B%2520%25E5%25A3%258A%25E3%2582%258C%25E3%2581%259F%25E3%2582%2589%25E6%25B0%2597%25E3%2581%25A5%25E3%2581%258F%25E3%2583%258F%25E3%2583%25BC%25E3%2583%258D%25E3%2582%25B9%2520-%2520AI%25E5%2590%2591%25E3%2581%2591%25E3%2583%2587%25E3%2582%25B6%25E3%2582%25A4%25E3%2583%25B3%25E3%2582%25B7%25E3%2582%25B9%25E3%2583%2586%25E3%2583%25A0%25E3%2582%2592%25E3%2580%258C%25E7%25B6%25AD%25E6%258C%2581%25E3%2581%25A7%25E3%2581%258D%25E3%2582%258B%25E4%25BB%2595%25E7%25B5%2584%25E3%2581%25BF%25E3%2580%258D%25E3%2581%25AB%25E3%2581%2597%25E3%2581%259F%25E8%25A8%2598%25E9%258C%25B2%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:tsubotax%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2M1OTgxMTEwYzQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-04-12 07:51:54",
+    "ja_summary": "・AIエージェントが正確なUIを生成できるよう設計されたデザインシステム「melta UI」を開発・公開。\n・Tailwind CSSベースで、AIが構造を理解しやすいよう機械可読なトークンやMCPサーバーを備えているのが特徴。\n・壊れた際や誤った実装時に即座に検知する「ハーネス」を導入し、AI利用時のメンテナンス性を担保。"
+  },
+  {
+    "title": "GitHub Copilot CLI で個人タスク管理をやってみる",
+    "link": "https://zenn.dev/microsoft/articles/copilot-task-management",
+    "source": "Zenn Trends",
+    "published": "Sat, 11 Apr 2026 06:55:36 GMT",
+    "summary": "はじめに\n普段、私は仕事の作業メモやドキュメントを git リポジトリで管理していて、タスクは GitHub Issues + GitHub Projects で管理しています。フォルダーの命名規約に issue 番号を含めることでタスクと作業ファイルの紐づけを行い、YAML で工数データを記録し、GitHub Copilot の skill でその使い方を教えているので、Copilot にタスクの状況を聞いたり新しいタスクを作ったりといったことが自然言語で出来るようになっています。\n今回は、その仕組みからタスク管理の部分だけを抜き出したものを再実装してリポジトリとして公開したので、...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--xOzhWpCu--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:GitHub%2520Copilot%2520CLI%2520%25E3%2581%25A7%25E5%2580%258B%25E4%25BA%25BA%25E3%2582%25BF%25E3%2582%25B9%25E3%2582%25AF%25E7%25AE%25A1%25E7%2590%2586%25E3%2582%2592%25E3%2582%2584%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%25BF%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Kazuki%2520Ota%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2MzZDNiN2I3OGYuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Microsoft%2520%2528%25E6%259C%2589%25E5%25BF%2597%2529%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzhmNzg3NDJjNDQuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-04-12 07:51:55",
+    "ja_summary": "GitHub Issuesと連携し、自然言語でタスク管理や状況確認ができるツールを公開。\n作業メモや工数データをGitHubで一元管理する仕組みを効率化したもの。\nCLIからCopilotを活用し、ドキュメント作成とタスク管理をシームレスに行える。"
+  },
+  {
     "title": "Using skills",
     "link": "https://openai.com/academy/skills",
     "source": "OpenAI",
@@ -978,25 +998,5 @@
     "image": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/052100112/040200135/topm.jpg?20220512",
     "fetched_at": "2026-04-11 04:10:47",
     "ja_summary": "・生成AIを活用し、初心者が独自のプログラミング言語を作成・動作させるまでの試行に挑戦。\n・難易度が高い言語開発が、AIのサポートによって現実的に可能かを探る。"
-  },
-  {
-    "title": "盛り上がる「推論専用チップ」　メモリーの壁を乗り越えられるか",
-    "link": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/052100111/040900174/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "米エヌビディアがLLM（大規模言語モデル）の推論に特化した「Groq 3 LPU」を2026年3月16日に発表したように、推論専用チップが盛り上がっている。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/052100111/040900174/topm.jpg?20220512",
-    "fetched_at": "2026-04-11 04:10:48",
-    "ja_summary": "・AIの推論処理に特化した専用チップの開発競争が激化している。\n・エヌビディアが最新モデルを発表するなど、メモリー制約の解消が焦点。\n・生成AIの実用化を加速させる技術として、推論チップ市場が急成長中。"
-  },
-  {
-    "title": "セキュリティ脆弱性を見つける新AI、高性能すぎて公開見送り--「悪用を懸念」とAnthropic",
-    "link": "https://japan.cnet.com/article/35246255/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "米Anthropicは、新たなAIモデル「Claude Mythos Preview」について、サイバーセキュリティ上のリスクや脆弱性を見つけ出す能力が極めて高く、一般公開はできないと明らかにした。代わりに、大手テクノロジー企業やインフラ事業者にこのモデルを提供し、見つかった脆弱性の修正に役立てる方針だ。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35246255/\"><img src=\"https://japan.cnet.com/storage/2026/04/10/5263269e34e4359ef5585b29306286a2/t/184/138/d/project-glasswing.jpeg\" /></a>",
-    "image": "https://japan.cnet.com/storage/2026/04/10/5263269e34e4359ef5585b29306286a2/t/184/138/d/project-glasswing.jpeg",
-    "fetched_at": "2026-04-11 04:10:54",
-    "ja_summary": "・Anthropicが極めて高い脆弱性検出能力を持つ新AI「Claude Mythos」を発表。\n・悪用の危険性を考慮し、一般公開は見送り。\n・大手企業やインフラ事業者に限定提供し、セキュリティ強化に活用する。"
   }
 ]
