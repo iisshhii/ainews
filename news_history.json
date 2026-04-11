@@ -1,5 +1,25 @@
 [
   {
+    "title": "最新AIモデルClaude Mythosが主要全OSやブラウザの重大な脆弱性多数発見、悪用懸念で非公開。アップル・Google・MS他が対策Project Glasswing発足",
+    "link": "https://www.techno-edge.net/article/2026/04/08/4980.html",
+    "source": "TechnoEdge",
+    "published": "Wed, 08 Apr 2026 14:54:21 +0900",
+    "summary": "AIモデルClaudeで知られるAI企業Anthropicが、Apple、Google、Amazon(AWS)、マイクロソフト、NVIDIA、Linux Foundationを含む12の主要ソフトウェア・デジタルインフラ企業および団体と共同で、AIを活用したサイバーセキュリティ強化イニシアチブ「Project Glasswing」を発足しました。",
+    "image": "https://www.techno-edge.net/imgs/rss/30755.jpg",
+    "fetched_at": "2026-04-11 14:27:28",
+    "ja_summary": "・AI「Claude Mythos」が主要OS等の重大な脆弱性を多数発見し、悪用を防ぐため非公開に。\n・Apple、Google、Microsoftなど12社が連携し、脆弱性対策の共同体「Project Glasswing」を発足。\n・AIを活用したサイバー防御の強化と、プラットフォームの安全性確保を目指す。"
+  },
+  {
+    "title": "Jujutsu はなぜ AI 時代に急に評価され始めたのか",
+    "link": "https://zenn.dev/oukayuka/books/353ad112b88613",
+    "source": "Zenn Trends",
+    "published": "Fri, 10 Apr 2026 04:35:15 GMT",
+    "summary": "最近注目を集めている Git 互換の新世代 VCS、Jujutsu。\n2022年から公開されていましたが、しばらくは知る人ぞ知る存在のツールでした。それが 2025年中ごろから急に界隈で話題に上るようになりました。それは折しも Claude Code などのエージェント型 AI コーディングツールが登場し、人ではなく AI がほとんどのコードを書くフローが普及してきた時期に重なります。\n本書では Jujutsu がなぜ AI 支援開発のシーンで評価されるのかを解説していきます。\n\n※この記事は 2026 年 4 月開催の技術書典 20 に合わせて刊行された『じゅじゅちゅ！ jj new で始める Jujutsu × AI ワークフロー』の中の「第 1 章  Jujutsu ってどんなツール？」の内容を再編集したものです。\n\nhttps://oukayuka.booth.pm/items/8169264\nhttps://techbookfest.org/product/nCUm1fLEJi5AywW1pyYWMW",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--LYo6eYqJ--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci83YjJjODBmODliLmpwZWc=%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg?_a=BACAGSGT",
+    "fetched_at": "2026-04-11 14:27:32",
+    "ja_summary": "Git互換の新世代バージョン管理ツール「Jujutsu」が、AIによる自動コーディングの普及とともに急激に注目を集めている。\nAIがコード生成を担うフローにおいて、従来のGitよりも柔軟かつ効率的な操作が可能な点が評価されている。\n本書は、AI支援開発時代の新たな標準となりつつあるJujutsuの活用ワークフローを解説している。"
+  },
+  {
     "title": "ChatGPT for customer success teams",
     "link": "https://openai.com/academy/customer-success",
     "source": "OpenAI",
@@ -978,25 +998,5 @@
     "image": "https://assets.st-note.com/production/uploads/images/266148417/rectangle_large_type_2_8847b9aa8620ac8a16e3cfbff5b5afb2.png?width=800",
     "fetched_at": "2026-04-10 17:45:57",
     "ja_summary": "4月12日開催の「技術書典20」にて、新刊『Nano Banana・Grok Imagine・Gemini TTS で始める AIアニメ生成入門』を頒布します。\n最新のAI技術を活用したアニメ生成手法を解説した入門書です。\nオフラインイベント会場にてお求めいただけます。"
-  },
-  {
-    "title": "Claude in Chromeの活用事例8選｜サブスク範囲でブラウザ自動化できるんやで",
-    "link": "https://zenn.dev/masayan1126/books/claude-in-chrome-guide",
-    "source": "Zenn Trends",
-    "published": "Thu, 09 Apr 2026 12:58:06 GMT",
-    "summary": "Claude in Chrome（Claude for Chrome）の実践的な活用事例を情報収集・開発・クリエイター業務・日常タスクの4カテゴリで紹介するで。APIキー不要でサブスク範囲内のブラウザ自動化を実現する方法と注意点もぜんぶ解説するんや。",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--Zo34-W9l--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci80ZGI1OWNlNTA4LmpwZWc=%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg?_a=BACAGSGT",
-    "fetched_at": "2026-04-10 17:46:21",
-    "ja_summary": "・「Claude in Chrome」を使ったブラウザ業務の効率化術を解説。\n・情報収集、開発、創作、日常タスクの4分野で具体的な活用事例を紹介。\n・APIキー不要で、サブスク範囲内に収まる自動化の手順と注意点を網羅。"
-  },
-  {
-    "title": "Spec Drivent Development",
-    "link": "https://speakerdeck.com/jeromevdl/spec-drivent-development",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-04-10T03:35:37-04:00",
-    "summary": "Spec-Driven Development is not a revival of V model or Waterfall, it's a new approach to give enough context to a coding agent (LLM) for a small scope task. \n\nPresentation given at <a href=\"https://aws-experience.com/emea/smb/e/91eca/ai-in-the-sdlc---rethinking-how-we-build\">\"AI in the SDLC - rethinking how we build\" event in Geneva</a>\n\nAlso see my <a href=\"https://jeromevdl.medium.com/spec-driven-development-back-to-the-future-d71fde8d47cf\">blog post</a>.",
-    "image": "https://files.speakerdeck.com/presentations/e889b6ae2b7a47148ce3f2e5314d023c/preview_slide_0.jpg?39042572",
-    "fetched_at": "2026-04-10 17:46:23",
-    "ja_summary": "・Spec-Driven Developmentは、V字モデルやウォーターフォール回帰ではなく、LLM（AI）に小規模なタスクの文脈を正確に与える新しい開発手法。\n・AIに具体的な仕様（スペック）を詳細に伝えることで、コード生成の精度と開発効率を向上させる。\n・AI時代のSDLC（ソフトウェア開発ライフサイクル）を見直すためのアプローチとして提唱されている。"
   }
 ]
