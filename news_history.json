@@ -1,5 +1,25 @@
 [
   {
+    "title": "Claude Managed Agents を試してみた",
+    "link": "https://zenn.dev/kumamo_tone/articles/365845d65e6cf4",
+    "source": "Zenn Trends",
+    "published": "Sat, 11 Apr 2026 05:47:45 GMT",
+    "summary": "最近発表された Claude の新機能「Managed Agents」が気になりました。\nニュース。\nhttps://www.itmedia.co.jp/aiplus/articles/2604/09/news067.html\nZennの入門記事。\nhttps://zenn.dev/galirage/articles/claude-managed-agents-quickstart\n公式の記事。\nhttps://platform.claude.com/docs/ja/managed-agents/overview\nすでにある記事はかなり詳細にしっかり書いてあるので、実際の入門に必要な情報...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--HP7pq6UA--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Managed%2520Agents%2520%25E3%2582%2592%25E8%25A9%25A6%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Kazumasa%2520KUMAMOTO%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzhiYjA0NGI2YTMuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-04-11 19:28:25",
+    "ja_summary": "・Claudeの「Managed Agents」は、AIが自律的にツールを操作し複雑なタスクを完結させる新機能。\n・従来の手動実装と異なり、AIが実行環境を管理するため開発コストを大幅に削減可能。\n・実用的な自動化を素早く構築できるため、AIエージェント開発の標準的な選択肢として注目。"
+  },
+  {
+    "title": "GitHub Copilot SDKを使えばユーザーのサブスクを使ってAIサービスが作れるのでは…？",
+    "link": "https://zenn.dev/sun_asterisk/articles/c1d02fe074d20b",
+    "source": "Zenn Trends",
+    "published": "Fri, 10 Apr 2026 01:19:07 GMT",
+    "summary": "これは何？\nAIを利用したサービスって色々ありますよね。\n自分もwebサイトやアプリを提供しようと思ったとき、AIを組み込めたらいいなと思うことが多々あります。\nただね、あの、あんまり大声では言えないんですが……\n面倒、なんですよね。AIをサービスに組み込むのって。\n\n「いや、APIキー払い出してOpenAIとかAnthropicのAPI呼び出すだけでしょ？OpenRouterとか経由すれば複数モデルも楽だし」\nそうではあるんですが、自分が面倒だと思ってるのはそこではなくて課金の管理周りなんですよ。\n従量課金のAPIキー払い出しておいて、忘れた頃に細かい請求がちらほら……なんて考えた...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--l8RRJiPo--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:GitHub%2520Copilot%2520SDK%25E3%2582%2592%25E4%25BD%25BF%25E3%2581%2588%25E3%2581%25B0%25E3%2583%25A6%25E3%2583%25BC%25E3%2582%25B6%25E3%2583%25BC%25E3%2581%25AE%25E3%2582%25B5%25E3%2583%2596%25E3%2582%25B9%25E3%2582%25AF%25E3%2582%2592%25E4%25BD%25BF%25E3%2581%25A3%25E3%2581%25A6AI%25E3%2582%25B5%25E3%2583%25BC%25E3%2583%2593%25E3%2582%25B9%25E3%2581%258C%25E4%25BD%259C%25E3%2582%258C%25E3%2582%258B%25E3%2581%25AE%25E3%2581%25A7%25E3%2581%25AF%25E2%2580%25A6%25EF%25BC%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Kurogoma4D%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2M1YTU0ZjZiM2MuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Sun%252A%2520Developers%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzE5YjY3M2ZmYTMuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-04-11 19:28:26",
+    "ja_summary": "GitHub Copilot SDKを活用すれば、自社で面倒な課金管理システムを構築せずとも、ユーザー自身のGitHubサブスクリプションを利用したAIサービス開発が可能になる。\nAPIキーの管理や従量課金の請求トラブルといった開発者側の負担を軽減できる新たな手法として期待される。"
+  },
+  {
     "title": "「ドキュメント書いて」はもう古い。AIに4種類のドキュメントを「コードから自動生成」させる実践ガイド",
     "link": "https://qiita.com/akira_papa_AI/items/d46a6629b1aae835491d",
     "source": "Qiita (Popular)",
@@ -978,25 +998,5 @@
     "image": "https://media.loom-app.com/loom/2026/04/03/91b0a677-ac96-4b96-b3f3-dc4cecb28380/original.jpg?w=1200&amp;h=630",
     "fetched_at": "2026-04-10 19:02:48",
     "ja_summary": "・Anker初のAIボイスレコーダー「Soundcore Work」が登場。\n・わずか10gの超小型設計で、高い話者識別精度を実現。\n・無料プランでも議事録作成ツールとして十分に実用可能。"
-  },
-  {
-    "title": "米AI開発3社が連携 中国勢に対抗",
-    "link": "https://news.yahoo.co.jp/pickup/6575459?source=rss",
-    "source": "Yahoo!ニュース IT・科学",
-    "published": "Tue, 07 Apr 2026 07:44:27 GMT",
-    "summary": "",
-    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/7/645262f3c3a370a89e5b1525da36a3461170b88879a691e5726d4873916aa011.jpg",
-    "fetched_at": "2026-04-10 19:02:54",
-    "ja_summary": "・米AI開発の主要3社が連携し、中国勢との競争力を強化。\n・技術協力や標準化を通じて、AI開発の主導権を確保する狙い。\n・世界規模でのAI覇権争いが激化している。"
-  },
-  {
-    "title": "Metaが新生AIモデルMuse Spark発表、狙いと背景。AIグラスと共に「パーソナルスーパーインテリジェンス」推進、高効率と実世界理解・健康分野が武器",
-    "link": "https://www.techno-edge.net/article/2026/04/09/4981.html",
-    "source": "TechnoEdge",
-    "published": "Thu, 09 Apr 2026 07:38:16 +0900",
-    "summary": "MetaのAI研究組織 Meta Superintelligence Labs（MSL）は2026年4月8日、新たなAIモデルシリーズ「Muse」の第一弾「Muse Spark」を公開しました。",
-    "image": "https://www.techno-edge.net/imgs/rss/30756.jpg",
-    "fetched_at": "2026-04-10 19:02:57",
-    "ja_summary": "・Metaが新AIモデル「Muse Spark」を発表し、AIグラスと連携した「パーソナルスーパーインテリジェンス」を推進。\n・高効率な処理と実世界理解を強みとし、健康管理分野への活用に注力。\n・日常生活のサポートを最適化し、AIによるパーソナルアシスタントの進化を目指す。"
   }
 ]
