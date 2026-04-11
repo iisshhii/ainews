@@ -1,5 +1,15 @@
 [
   {
+    "title": "新モデル「Claude Mythos」の衝撃　数千の脆弱性を発見、一般公開せず",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11660/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "米Anthropic（アンソロピック）が発表した新しいLLM「Claude Mythos Preview」を巡り波紋が広がっている。汎用LLMとしての性能の高さだけでなく、ソフトウエアの脆弱性を見つけて悪用してしまう能力も高いためだ。これまでのセキュリティーの常識が覆される可能性がある。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11660/topm.jpg?20220512",
+    "fetched_at": "2026-04-12 05:23:45",
+    "ja_summary": "・Anthropicの新型AI「Claude Mythos」が発表。\n・ソフトの脆弱性を高精度で発見・悪用できる危険性がある。\n・安全性への懸念から一般公開は見送られ、セキュリティの常識が覆されている。"
+  },
+  {
     "title": "Healthcare",
     "link": "https://openai.com/academy/healthcare",
     "source": "OpenAI",
@@ -988,15 +998,5 @@
     "image": "https://media.loom-app.com/loom/2026/04/08/db0a782b-5f1f-49ac-9923-bcb6dec3c568/original.jpg?w=1200&amp;h=630",
     "fetched_at": "2026-04-11 03:03:31",
     "ja_summary": "・OpenAIがAI安全性研究を支援するフェローシップを開始。\n・研究者に月額最大1万5000ドル分の計算資源を提供。\n・CEOへの批判が相次ぐ中、安全性強化の姿勢をアピールする狙い。"
-  },
-  {
-    "title": "Writing with ChatGPT",
-    "link": "https://openai.com/academy/writing",
-    "source": "OpenAI",
-    "published": "Fri, 10 Apr 2026 00:00:00 GMT",
-    "summary": "Learn how to use ChatGPT for writing to draft, revise, and refine content with clear structure, tone, and intent.",
-    "image": "https://openai.com/favicon.ico",
-    "fetched_at": "2026-04-11 03:03:46",
-    "ja_summary": "・ChatGPTを活用して文章の作成、修正、推敲を行う方法を習得できる。\n・構成、トーン、目的を明確にした高品質なコンテンツ作成が可能になる。\n・効率的な執筆プロセスを通じて、文章作成の生産性を向上させる。"
   }
 ]
