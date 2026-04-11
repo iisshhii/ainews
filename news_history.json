@@ -1,5 +1,35 @@
 [
   {
+    "title": "教員の生成AI利用急増､｢下請けor話し相手｣で差 | 東洋経済education×ICT | 東洋経済オンライン",
+    "link": "https://toyokeizai.net/articles/-/938886?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+    "source": "東洋経済オンライン",
+    "published": "Sun, 12 Apr 2026 06:00:00 +0900",
+    "summary": "山積する校務、複雑化する保護者対応、そして一人ひとりに寄り添うべき授業準備。これまで働き方改革は、…",
+    "image": "https://tk.ismcdn.jp/mwimgs/c/e/1200w/img_ce150cb52fac4f5b51427f5ad18c774a87772.jpg?nextgen=false",
+    "fetched_at": "2026-04-12 06:32:47",
+    "ja_summary": "・教員の業務負担軽減を目指し、生成AIの活用が急速に広がっている。\n・AIを「単純作業の下請け」として使うか「対話相手」として使うかで活用法に差が出ている。\n・現場では働き方改革の一環として、AIをいかに効率的な支援ツールにするかが課題となっている。"
+  },
+  {
+    "title": "OpenAIの最新のフェローシップには、月額最大1万5000ドルのAIコンピューティング費用を含む",
+    "link": "https://www.businessinsider.jp/article/2604openai-safety-fellowship-sam-altman-ai-compute-stipend/",
+    "source": "Business Insider Japan",
+    "published": "Thu, 09 Apr 2026 22:15:00 GMT",
+    "summary": "OpenAIは安全性重視のフェローシップを開始し、月額最大1万5000ドルの計算資源を提供します。発表はサム・アルトマンCEOへの批判報道直後に行われました。",
+    "image": "https://media.loom-app.com/loom/2026/04/08/db0a782b-5f1f-49ac-9923-bcb6dec3c568/original.jpg?w=1200&amp;h=630",
+    "fetched_at": "2026-04-12 06:33:13",
+    "ja_summary": "・OpenAIがAI安全性研究を支援するフェローシップを開始。\n・研究者に対し、月額最大1万5000ドル分の計算資源を提供。\n・CEOへの批判報道直後の発表で、安全性重視の姿勢を強調。"
+  },
+  {
+    "title": "国産LLM「LLM-jp-4」が日本語MT-BenchでGPT-4oを上回った ── 技術的背景と実用性を検証する",
+    "link": "https://qiita.com/nogataka/items/6821e5d530938d269e58",
+    "source": "Qiita (Popular)",
+    "published": "2026-04-08T09:50:20+09:00",
+    "summary": "\n2026年4月3日、国立情報学研究所（NII）が国産LLM「LLM-jp-4」を公開しました。日本語MT-Benchで GPT-4o のスコアを上回ったという発表は、国内外で大きな注目を集めています。\n\nこの記事では、LLM-jp-4 の技術的な中身を掘り下げながら、「なぜ日本語特化モデルが汎用モデルに勝てたのか」「実務で使えるのか」を検証します。\n\n## LLM-jp-4 の発表概要\n\nNII",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYxNjEyOTglMkZjMWUzZmZkNmVhZGExOTY5ZmYzYzQ0YjE0ZmRlMDgxYmNkZTZmNTAwJTJGeF9sYXJnZS5wbmclM0YxNTg0ODQ1NTg0P2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz00ZGRjZmU5NTFjNTMyMzU3NjcyOGUzOTkyOTNmOGRlNQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D246367bff431168e6212d2602a3df494?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUU1JTlCJUJEJUU3JTk0JUEzTExNJUUzJTgwJThDTExNLWpwLTQlRTMlODAlOEQlRTMlODElOEMlRTYlOTclQTUlRTYlOUMlQUMlRTglQUElOUVNVC1CZW5jaCVFMyU4MSVBN0dQVC00byVFMyU4MiU5MiVFNCVCOCU4QSVFNSU5QiU5RSVFMyU4MSVBMyVFMyU4MSU5RiUyMCVFMiU5NCU4MCVFMiU5NCU4MCUyMCVFNiU4QSU4MCVFOCVBMSU5MyVFNyU5QSU4NCVFOCU4MyU4QyVFNiU5OSVBRiVFMyU4MSVBOCVFNSVBRSU5RiVFNyU5NCVBOCVFNiU4MCVBNyVFMyU4MiU5MiVFNiVBNCU5QyVFOCVBOCVCQyVFMyU4MSU5OSVFMyU4MiU4QiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPWZjOTQzNDU3YjIxMjdhOGVjZWM0NjIxZWViMWJhZDJm&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBub2dhdGFrYSZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWE5ODA4YTE0Zjg4Y2I0ZjQ5OWU2ZDA3NGYyY2E2YTNh&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=f20a5fa6eaf3c37b164662cfca190e9c",
+    "fetched_at": "2026-04-12 06:33:42",
+    "ja_summary": "・国立情報学研究所が公開した国産LLM「LLM-jp-4」が、日本語の性能指標でGPT-4oを上回る快挙を達成。\n・日本語に特化した学習が奏功しており、汎用モデルを超える高い日本語処理能力を実証した。\n・技術的背景や実務での実用性を検証し、日本のAI開発における新たな可能性を示している。"
+  },
+  {
     "title": "Writing with ChatGPT",
     "link": "https://openai.com/academy/writing",
     "source": "OpenAI",
@@ -968,35 +998,5 @@
     "image": "https://openai.com/favicon.ico",
     "fetched_at": "2026-04-11 04:11:07",
     "ja_summary": "・ChatGPTから有用な回答を得るための「プロンプト（指示文）」作成の基本を解説。\n・明確かつ効果的な指示の出し方を学び、AIの活用精度を向上させる。\n・業務効率化に直結する、AI対話術の基礎を習得できる。"
-  },
-  {
-    "title": "Using skills",
-    "link": "https://openai.com/academy/skills",
-    "source": "OpenAI",
-    "published": "Fri, 10 Apr 2026 00:00:00 GMT",
-    "summary": "Learn how to create and use ChatGPT skills to build reusable workflows, automate recurring tasks, and ensure consistent, high-quality outputs.",
-    "image": "https://openai.com/favicon.ico",
-    "fetched_at": "2026-04-11 04:11:07",
-    "ja_summary": "・ChatGPTの「スキル」機能を活用し、業務フローを再利用可能な形で構築する。\n・繰り返し発生する作業を自動化し、業務効率を大幅に向上させる。\n・出力の品質を一定に保ち、一貫性のある成果物を効率的に作成する。"
-  },
-  {
-    "title": "Analyzing data with ChatGPT",
-    "link": "https://openai.com/academy/data-analysis",
-    "source": "OpenAI",
-    "published": "Fri, 10 Apr 2026 00:00:00 GMT",
-    "summary": "Learn how to analyze data with ChatGPT by exploring datasets, generating insights, creating visualizations, and turning findings into actionable decisions.",
-    "image": "https://openai.com/favicon.ico",
-    "fetched_at": "2026-04-11 04:11:07",
-    "ja_summary": "・ChatGPTを活用したデータ分析の手法を解説。\n・データ探索から洞察の抽出、可視化までの一連の流れを習得。\n・分析結果を具体的なビジネス上の意思決定へと繋げる方法を提示。"
-  },
-  {
-    "title": "Creating images with ChatGPT",
-    "link": "https://openai.com/academy/image-generation",
-    "source": "OpenAI",
-    "published": "Fri, 10 Apr 2026 00:00:00 GMT",
-    "summary": "Learn how to create and refine images with ChatGPT using clear prompts, iterate on designs, and generate high-quality visuals in minutes.",
-    "image": "https://openai.com/favicon.ico",
-    "fetched_at": "2026-04-11 04:11:07",
-    "ja_summary": "・ChatGPTを活用し、的確な指示（プロンプト）で高品質な画像を短時間で生成可能。\n・生成された画像を繰り返し修正し、納得のいくデザインへ調整できる。\n・複雑なツール不要で、誰でも効率的にビジュアル制作が可能。"
   }
 ]
