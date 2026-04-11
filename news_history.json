@@ -1,5 +1,45 @@
 [
   {
+    "title": "ChatGPT for customer success teams",
+    "link": "https://openai.com/academy/customer-success",
+    "source": "OpenAI",
+    "published": "Fri, 10 Apr 2026 00:00:00 GMT",
+    "summary": "Learn how customer success teams use ChatGPT to manage accounts, improve communication, reduce churn, and drive adoption and renewals.",
+    "image": "https://openai.com/favicon.ico",
+    "fetched_at": "2026-04-11 13:00:38",
+    "ja_summary": "・ChatGPTを活用した顧客成功（カスタマーサクセス）の業務効率化手法を解説。\n・アカウント管理や顧客との対話改善を通じ、解約防止と製品導入の促進を実現。\n・継続率向上と更新獲得に向けた、AIによる戦略的な運用ノウハウを網羅。"
+  },
+  {
+    "title": "Applications of AI at OpenAI",
+    "link": "https://openai.com/academy/applications-of-ai",
+    "source": "OpenAI",
+    "published": "Fri, 10 Apr 2026 00:00:00 GMT",
+    "summary": "Explore how OpenAI products like ChatGPT, Codex, and APIs bring AI into real-world use for work, development, and everyday tasks.",
+    "image": "https://openai.com/favicon.ico",
+    "fetched_at": "2026-04-11 13:00:38",
+    "ja_summary": "・OpenAIはChatGPTやCodex、APIを通じ、AIの社会実装を推進。\n・業務効率化やシステム開発、日常生活における課題解決を支援。\n・技術の応用により、現実世界での多様なAI活用を実現。"
+  },
+  {
+    "title": "Claude Code Web版でスマホ開発できる時代が来たで｜実践レビューまるっと解説",
+    "link": "https://zenn.dev/masayan1126/books/claude-code-web-guide",
+    "source": "Zenn Trends",
+    "published": "Sat, 11 Apr 2026 02:22:48 GMT",
+    "summary": "Claude CodeがWebブラウザで動くようになって、スマホからでも本格開発できるようになったんや。リンクカード実装の実例、CLI版との違い、セッション引き継ぎ（テレポート）まで全部解説するで。",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--_gLmq1p5--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci9kYWVlOTJkMTBiLmpwZWc=%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg?_a=BACAGSGT",
+    "fetched_at": "2026-04-11 13:00:52",
+    "ja_summary": "・Claude Codeがブラウザ対応し、スマホからでも本格的な開発が可能に。\n・CLI版との違いや、セッションを途切れさせない引き継ぎ機能を網羅。\n・リンクカード実装例など、実用的な活用方法を詳しく解説。"
+  },
+  {
+    "title": "GitHub Copilotの『SKILL.md育成RPG』— Lv.0の村人がLv.7の伝説の勇者になるまで鍛えたらコードレビューはどう変わるのか",
+    "link": "https://qiita.com/yukurash/items/d8971bdf08f8416ad7dd",
+    "source": "Qiita (Popular)",
+    "published": "2026-04-08T19:11:58+09:00",
+    "summary": "## 本記事について\nAI Agent の Skill の必要性や重要性を学ぶため検証した内容になります。\n検証した内容を AI が RPG 風にまとめてくれたので温かい目でお楽しみください。\n\n## TL;DR\n- バグ10個入りのコードを AI Agentにレビューさせた\n- スキル（SKILL.md）を Lv.0 → Lv.7 まで段階的に強化して精度を比較\n- Lv.0 でも 9/10 検",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY2Nzk0MTklMkY3MmMwMzRhYWQ0YzI4YWExYjc2M2E3YzdlY2I1MTA2ZDQ4Y2RlZDMwJTJGeF9sYXJnZS5wbmclM0YxNzc1MTgxNzE0P2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz01MWFkNTFlYTBhYTliMzUwN2Y4ZTY0ZWUyNjRkOWZiZQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D2f1685669c9f49248f0b49c8f96d333b?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9R2l0SHViJTIwQ29waWxvdCVFMyU4MSVBRSVFMyU4MCU4RVNLSUxMLm1kJUU4JTgyJUIyJUU2JTg4JTkwUlBHJUUzJTgwJThGJUUyJTgwJTk0JTIwTHYuMCVFMyU4MSVBRSVFNiU5RCU5MSVFNCVCQSVCQSVFMyU4MSU4Q0x2LjclRTMlODElQUUlRTQlQkMlOUQlRTglQUElQUMlRTMlODElQUUlRTUlOEIlODclRTglODAlODUlRTMlODElQUIlRTMlODElQUElRTMlODIlOEIlRTMlODElQkUlRTMlODElQTclRTklOEQlOUIlRTMlODElODglRTMlODElOUYlRTMlODIlODklRTMlODIlQjMlRTMlODMlQkMlRTMlODMlODklRTMlODMlQUMlRTIlODAlQTYmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1mZGE1MDdhYTEzNGI2ZDIwYjBkNDIyZGEzYmM2YmVkZg&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDB5dWt1cmFzaCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWYxMzdjOTUwZjI5ZGVmZjgyN2IyY2Y0YjkyNGQ0MDY0&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=c06459952d110155528615302ecac562",
+    "fetched_at": "2026-04-11 13:00:58",
+    "ja_summary": "GitHub CopilotのAI Agentに「SKILL.md」という指示書を与え、スキルレベルをLv.0からLv.7まで段階的に強化してコードレビュー精度を比較検証。\nLv.0の時点でもバグ10個中9個を検出したが、育成を進めることでAIの分析能力が着実に向上することを実証した。\nAIの性能を最大限に引き出すためには、指示（スキル）の具体化と段階的なチューニングが重要である。"
+  },
+  {
     "title": "東京都、生成AI共通基盤「A1(えいいち)」　都職員6万人が利用",
     "link": "https://www.watch.impress.co.jp/docs/news/2100708.html",
     "source": "Impress Watch",
@@ -958,45 +998,5 @@
     "image": "https://files.speakerdeck.com/presentations/e889b6ae2b7a47148ce3f2e5314d023c/preview_slide_0.jpg?39042572",
     "fetched_at": "2026-04-10 17:46:23",
     "ja_summary": "・Spec-Driven Developmentは、V字モデルやウォーターフォール回帰ではなく、LLM（AI）に小規模なタスクの文脈を正確に与える新しい開発手法。\n・AIに具体的な仕様（スペック）を詳細に伝えることで、コード生成の精度と開発効率を向上させる。\n・AI時代のSDLC（ソフトウェア開発ライフサイクル）を見直すためのアプローチとして提唱されている。"
-  },
-  {
-    "title": "TOPPAN、\"くずし字\"解読応用で中世ギリシャ語を読めるAI-OCR",
-    "link": "https://www.watch.impress.co.jp/docs/news/2100512.html",
-    "source": "Impress Watch",
-    "published": "",
-    "summary": "TOPPANホールディングスは、一般には読み取りが困難とされる中世ギリシャ語の解読が可能なAI-OCRエンジンを開発した。",
-    "image": "https://www.watch.impress.co.jp/img/ipw/list/2100/512/toppan00.jpg",
-    "fetched_at": "2026-04-10 16:01:37",
-    "ja_summary": "・TOPPANが中世ギリシャ語を解読するAI-OCRエンジンを開発。\n・「くずし字」解析技術を応用し、これまで困難だった古文書の読み取りを実現。\n・歴史的資料のデジタル化や研究の効率化に貢献する。"
-  },
-  {
-    "title": "AIが出世の道筋を変える…「はしご」ではなく「壁」を登ることに",
-    "link": "https://www.businessinsider.jp/article/2604-ai-disruption-corporate-white-collar-career-ladder-linkedin-exec-advice/",
-    "source": "Business Insider Japan",
-    "published": "Thu, 09 Apr 2026 10:00:00 GMT",
-    "summary": "「労働者ははしごではなく、壁を登ることになるだろう」とリンクトインのチーフ・エコノミック・オポチュニティ・オフィサーであるアニーシュ・ラマンは話しています。",
-    "image": "https://media.loom-app.com/loom/2026/04/01/6ac59bf7-16e7-425f-b709-dd20252ed67e/original.jpg?w=1200&amp;h=630",
-    "fetched_at": "2026-04-10 16:01:44",
-    "ja_summary": "AIの普及により、従来の段階的な昇進（はしご）ではなく、多角的なスキル習得や横断的な経験（壁）がキャリア形成に求められるようになる。\n一本道の出世ルートは過去のものとなり、今後は柔軟に自身の強みを再構築し、多方面へ挑戦し続ける姿勢が重要となる。"
-  },
-  {
-    "title": "最新AIモデルClaude Mythosが主要全OSやブラウザの重大な脆弱性多数発見、悪用懸念で非公開。アップル・Google・MS他が対策Project Glasswing発足",
-    "link": "https://www.techno-edge.net/article/2026/04/08/4980.html",
-    "source": "TechnoEdge",
-    "published": "Wed, 08 Apr 2026 14:54:21 +0900",
-    "summary": "AIモデルClaudeで知られるAI企業Anthropicが、Apple、Google、Amazon(AWS)、マイクロソフト、NVIDIA、Linux Foundationを含む12の主要ソフトウェア・デジタルインフラ企業および団体と共同で、AIを活用したサイバーセキュリティ強化イニシアチブ「Project Glasswing」を発足しました。",
-    "image": "https://www.techno-edge.net/imgs/rss/30755.jpg",
-    "fetched_at": "2026-04-10 16:01:50",
-    "ja_summary": "・AnthropicのAI「Claude Mythos」が主要OS等の深刻な脆弱性を多数発見した。\n・悪用リスクを考慮し、AIモデルは非公開とされた。\n・AppleやGoogleなど大手12社が連携し、対策プロジェクト「Project Glasswing」を発足。"
-  },
-  {
-    "title": "OpenAI Full Fan Mode Contest: Terms & Conditions",
-    "link": "https://openai.com/index/full-fan-mode-contest-terms-conditions",
-    "source": "OpenAI",
-    "published": "Thu, 09 Apr 2026 00:00:00 GMT",
-    "summary": "Explore the official terms and conditions for the OpenAI Full Fan Mode Contest, including eligibility, entry steps, judging criteria, and prize details. Learn how to participate, submit your entry on Instagram, and win IPL match tickets.",
-    "image": "https://openai.com/favicon.ico",
-    "fetched_at": "2026-04-10 16:01:52",
-    "ja_summary": "・OpenAI公式の「Full Fan Mode Contest」の参加規約と応募方法を公開。\n・Instagram経由で応募し、審査を経てIPL観戦チケットを獲得可能。\n・参加資格や選考基準など、応募に必要な詳細は公式サイトで確認が必要。"
   }
 ]
