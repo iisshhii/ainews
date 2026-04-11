@@ -1,5 +1,35 @@
 [
   {
+    "title": "盛り上がる「推論専用チップ」　メモリーの壁を乗り越えられるか",
+    "link": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/052100111/040900174/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "米エヌビディアがLLM（大規模言語モデル）の推論に特化した「Groq 3 LPU」を2026年3月16日に発表したように、推論専用チップが盛り上がっている。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/052100111/040900174/topm.jpg?20220512",
+    "fetched_at": "2026-04-12 08:25:51",
+    "ja_summary": "・AIの推論速度を劇的に高める「推論専用チップ」の開発競争が激化している。\n・エヌビディアが新製品「Groq 3 LPU」を発表するなど、市場が急速に拡大。\n・従来のメモリー性能の限界（メモリーの壁）を克服し、LLMの実用性を高める鍵として注目されている。"
+  },
+  {
+    "title": "セキュリティ脆弱性を見つける新AI、高性能すぎて公開見送り--「悪用を懸念」とAnthropic",
+    "link": "https://japan.cnet.com/article/35246255/",
+    "source": "CNET Japan",
+    "published": "",
+    "summary": "米Anthropicは、新たなAIモデル「Claude Mythos Preview」について、サイバーセキュリティ上のリスクや脆弱性を見つけ出す能力が極めて高く、一般公開はできないと明らかにした。代わりに、大手テクノロジー企業やインフラ事業者にこのモデルを提供し、見つかった脆弱性の修正に役立てる方針だ。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35246255/\"><img src=\"https://japan.cnet.com/storage/2026/04/10/5263269e34e4359ef5585b29306286a2/t/184/138/d/project-glasswing.jpeg\" /></a>",
+    "image": "https://japan.cnet.com/storage/2026/04/10/5263269e34e4359ef5585b29306286a2/t/184/138/d/project-glasswing.jpeg",
+    "fetched_at": "2026-04-12 08:26:01",
+    "ja_summary": "・Anthropicがセキュリティ脆弱性を高度に発見できるAI「Claude Mythos Preview」を発表。\n・悪用の危険性が極めて高いため、一般公開を見送り。\n・大手企業やインフラ事業者に限定提供し、システムの防御強化に活用する方針。"
+  },
+  {
+    "title": "4社中核に国産AI開発会社を設立",
+    "link": "https://news.yahoo.co.jp/pickup/6575967?source=rss",
+    "source": "Yahoo!ニュース IT・科学",
+    "published": "Sat, 11 Apr 2026 23:15:31 GMT",
+    "summary": "",
+    "image": "https://s.yimg.jp/images/news-web/versions/20260410-ac63636/all/images/ogp_default.png",
+    "fetched_at": "2026-04-12 08:26:06",
+    "ja_summary": "・国内4社が連携し、国産AIを開発する新会社を設立\n・海外製に依存しない独自の技術基盤を構築\n・産業競争力の強化とAI活用を推進する狙い"
+  },
+  {
     "title": "DESIGN.md + 壊れたら気づくハーネス - AI向けデザインシステムを「維持できる仕組み」にした記録",
     "link": "https://zenn.dev/tsubotax/articles/7f0d3693f70e2f",
     "source": "Zenn Trends",
@@ -968,35 +998,5 @@
     "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYxNjEyOTglMkZjMWUzZmZkNmVhZGExOTY5ZmYzYzQ0YjE0ZmRlMDgxYmNkZTZmNTAwJTJGeF9sYXJnZS5wbmclM0YxNTg0ODQ1NTg0P2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz00ZGRjZmU5NTFjNTMyMzU3NjcyOGUzOTkyOTNmOGRlNQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D246367bff431168e6212d2602a3df494?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9Q2xhdWRlJTIwQ29kZSUyMCVFNSVBRSU4QyVFNSU4NSVBOCVFMyU4MyVBQSVFMyU4MyU5NSVFMyU4MiVBMSVFMyU4MyVBQyVFMyU4MyVCMyVFMyU4MiVCOSUyMCVFMiU4MCU5NCUyMCVFNSU4NSVBOCVFNiVBOSU5RiVFOCU4MyVCRCVFNyVCNiVCMiVFNyVCRSU4NSUyQiVFNiU4NCU4RiVFNSVBNCU5NiVFMyU4MSVBOCVFNyU5RiVBNSVFMyU4MiU4OSVFMyU4MSVBQSVFMyU4MSU4NCVFNCVCRSVCRiVFNSU4OCVBOSVFNiVBOSU5RiVFOCU4MyVCRCVFMyU4MyU4OCVFMyU4MyU4MyVFMyU4MyU5NzEwJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9ZGNkNjRiZWU2MzBkMzA1OGNmOGI3MzgxNDk5OTdjODU&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBub2dhdGFrYSZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWE5ODA4YTE0Zjg4Y2I0ZjQ5OWU2ZDA3NGYyY2E2YTNh&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=4c5dfafb5a330f1a05d2f65cc88259d8",
     "fetched_at": "2026-04-11 04:53:44",
     "ja_summary": "・Claude Codeは、ターミナルからコード生成やGit操作まで完結できるAnthropic公式のCLIツール。\n・記事では、2026年時点の全機能を網羅し、効率を最大化する隠れた便利機能10選を解説。\n・エンジニアの開発フローを加速させるための網羅的なリファレンスガイド。"
-  },
-  {
-    "title": "Twitter、Airbnbが広がるきっかけに　「音楽フェス→ITの祭典」に姿を変えた「SXSW」が生む化学反応",
-    "link": "https://www.itmedia.co.jp/business/articles/2604/10/news064.html",
-    "source": "ITmedia ビジネス",
-    "published": "Fri, 10 Apr 2026 07:00:00 +0900",
-    "summary": "米テキサス州で毎年3月に開催される「サウス・バイ・サウスウエスト」（SXSW）。1987年に音楽フェスとして産声を上げたこのイベントは、今や世界中から50万人以上が集まる「IT・スタートアップの祭典」へと、その姿を変えている。グローバル戦略を統括するチーフコマーシャルオフィサー（CCO）に、異分野を交わらせることでイノベーションを誘発する仕掛けについて聞いた。",
-    "image": "https://image.itmedia.co.jp/business/articles/2604/10/cover_news064.jpg",
-    "fetched_at": "2026-04-11 04:10:38",
-    "ja_summary": "・SXSWは音楽フェスから、世界50万人超が集まる「IT・スタートアップの祭典」へと進化した。\n・TwitterやAirbnbの飛躍のきっかけにもなり、異分野の融合がイノベーションを生み出す場となっている。\n・運営側は、多様な領域を交わらせることで新たな化学反応を誘発する仕掛けを重視している。"
-  },
-  {
-    "title": "イーロン・マスク「SpaceX」、6月に上場か!?　年内上場を目指すOpenAI、Anthropicへの影響は？",
-    "link": "https://www.itmedia.co.jp/business/articles/2604/10/news055.html",
-    "source": "ITmedia ビジネス",
-    "published": "Fri, 10 Apr 2026 07:00:00 +0900",
-    "summary": "イーロン・マスク氏が率いる宇宙開発企業「SpaceX」が、6月にも上場する見通しだ。投資家の期待を集める一方で、ウォール街に“暗雲”が立ち込めるという指摘がある。",
-    "image": "https://image.itmedia.co.jp/business/articles/2604/10/cover_news055.jpg",
-    "fetched_at": "2026-04-11 04:10:38",
-    "ja_summary": "・SpaceXが6月にも上場する見通しとなり、市場の注目を集めている。\n・OpenAIやAnthropicなど、年内上場を目指す他社への影響が懸念されている。\n・投資家の期待が高まる一方で、ウォール街への影響には慎重論も出ている。"
-  },
-  {
-    "title": "AIがプログラミング言語を考案　実際につくって動かしてみた",
-    "link": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/052100112/040200135/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "プログラミングを趣味にしている人にとって、いつかはつくりたい憧れのソフトウエアの1つがプログラミング言語だろう。つくるのは難しいが、最近の生成AI（人工知能）ならできるかもしれない。早速、挑戦してみることにした。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/052100112/040200135/topm.jpg?20220512",
-    "fetched_at": "2026-04-11 04:10:47",
-    "ja_summary": "・生成AIを活用し、初心者が独自のプログラミング言語を作成・動作させるまでの試行に挑戦。\n・難易度が高い言語開発が、AIのサポートによって現実的に可能かを探る。"
   }
 ]
