@@ -1,5 +1,15 @@
 [
   {
+    "title": "【CTF】cryptoの始め方（入門）",
+    "link": "https://zenn.dev/kurenaif/articles/d316c2ffa784f8",
+    "source": "Zenn Trends",
+    "published": "Sat, 11 Apr 2026 11:43:08 GMT",
+    "summary": "※) この記事は次の動画の下書きを兼ねた記事になります。こういうのもあるよとか、こういう考え方もあるよというのがあれば教えていただけると嬉しいです。\n\n この記事の対象者\n\n\ndaily Alpacahack の crypto のhard までを解くことができない人\n\n\n この記事ではどういうことが書いているの？\n\ncryptoってどういうジャンル？何が楽しいの？\ncryptoの難しい問題は何が難しいの？\nどうやって学べばいいの？生成AIはどう活用すればいい？\nレベル別AlpacaHackのおすすめ問題（随時更新）\n必要なツールや使い方\n\n\n cryptoってどういうジャンル？\nCTFの...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--UAIuTXxw--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590CTF%25E3%2580%2591crypto%25E3%2581%25AE%25E5%25A7%258B%25E3%2582%2581%25E6%2596%25B9%25EF%25BC%2588%25E5%2585%25A5%25E9%2596%2580%25EF%25BC%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:kurenaif%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzFmMjRlMTFhYTguanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-04-12 20:05:11",
+    "ja_summary": "CTF初心者向けに、暗号解読（crypto）の基本概念から学習法、生成AIの活用術までを体系的に解説。\nレベル別の推奨問題や必須ツールを網羅しており、効率的なスキルアップを支援する入門ガイド。\n初学者が躓きやすいポイントを整理し、実戦的な解法思考を身につけるための構成となっている。"
+  },
+  {
     "title": "最新AIモデルClaude Mythosが主要全OSやブラウザの重大な脆弱性多数発見、悪用懸念で非公開。アップル・Google・MS他が対策Project Glasswing発足",
     "link": "https://www.techno-edge.net/article/2026/04/08/4980.html",
     "source": "TechnoEdge",
@@ -988,15 +998,5 @@
     "image": "https://res.cloudinary.com/zenn/image/upload/s--1qqUw1H_--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%2520%252B%2520Obsidian%2520%25E2%2580%2594%2520Daily%2520Note%2520%25E3%2581%25AE%25E4%25B8%258B%25E6%259B%25B8%25E3%2581%258D%25E3%2582%2592%25E8%2587%25AA%25E5%258B%2595%25E7%2594%259F%25E6%2588%2590%25E3%2581%2597%25E3%2580%2581%25E9%2580%25B1%25E6%25AC%25A1%25E3%2583%25BB%25E6%259C%2588%25E6%25AC%25A1%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25E3%2581%25BE...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:s_hamabata%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzM3MDYyNjhkNmMuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Kurashiru%2520Tech%2520Blog%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzg2ZTFjZWIzODYuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
     "fetched_at": "2026-04-11 15:37:16",
     "ja_summary": "・ObsidianのDaily Note作成をClaude Codeで自動化し、日々の記録負荷を軽減。\n・TODOや会議予定の下書きを自動挿入することで、入力の手間を解消。\n・記録の自動化により、日々の振り返りや週次・月次レビューの効率と質を向上させた。"
-  },
-  {
-    "title": "Claude in Chromeの活用事例8選｜サブスク範囲でブラウザ自動化できるんやで",
-    "link": "https://zenn.dev/masayan1126/books/claude-in-chrome-guide",
-    "source": "Zenn Trends",
-    "published": "Thu, 09 Apr 2026 12:58:06 GMT",
-    "summary": "Claude in Chrome（Claude for Chrome）の実践的な活用事例を情報収集・開発・クリエイター業務・日常タスクの4カテゴリで紹介するで。APIキー不要でサブスク範囲内のブラウザ自動化を実現する方法と注意点もぜんぶ解説するんや。",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--Zo34-W9l--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci80ZGI1OWNlNTA4LmpwZWc=%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg?_a=BACAGSGT",
-    "fetched_at": "2026-04-11 15:37:16",
-    "ja_summary": "・Claude for Chromeでブラウザ上の業務を自動化し、情報収集や開発・事務作業を効率化。\n・APIキー設定不要で、サブスク範囲内で手軽に活用できる具体的な手法を紹介。\n・活用事例から導入時の注意点までを網羅し、日々のタスク削減をサポート。"
   }
 ]
