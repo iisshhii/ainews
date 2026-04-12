@@ -1,5 +1,115 @@
 [
   {
+    "title": "AIがシステムを操作する時代、SaaSはどう変わる？　freeeが示すMCPの課題と可能性",
+    "link": "https://www.itmedia.co.jp/business/articles/2604/10/news017.html",
+    "source": "ITmedia ビジネス",
+    "published": "Fri, 10 Apr 2026 08:00:00 +0900",
+    "summary": "AIエージェントがSaaSのサービスを操作する時代に入った。SaaS各社は、今後どのような対応をしていく必要があるのか？",
+    "image": "https://image.itmedia.co.jp/business/articles/2604/10/cover_news017.jpg",
+    "fetched_at": "2026-04-12 15:47:29",
+    "ja_summary": "・AIエージェントがSaaSを直接操作する時代が到来し、システム連携の新たな転換期を迎えている。\n・freeeなどが取り組む「MCP（Model Context Protocol）」が、AIと外部ツールの接続規格として注目されている。\n・SaaS各社は、AIによる自動操作を前提とした設計やセキュリティ対応を強化する必要がある。"
+  },
+  {
+    "title": "AGIBOT AI WEEK 2026 まとめ",
+    "link": "https://note.com/npaka/n/n851df4a47f7a",
+    "source": "note (npaka)",
+    "published": "Sat, 11 Apr 2026 05:57:25 +0900",
+    "summary": "<p id=\"68ca14f5-ba27-4501-87ae-782fd02dbda3\" name=\"68ca14f5-ba27-4501-87ae-782fd02dbda3\">「AGIBOT AI WEEK 2026」で発表されたものをまとめました。</p><br /><br /><a href=\"https://note.com/npaka/n/n851df4a47f7a\">続きをみる</a>",
+    "image": "https://assets.st-note.com/production/uploads/images/266470070/rectangle_large_type_2_e918652ed2200319d96c345027f8129c.png?width=800",
+    "fetched_at": "2026-04-12 15:47:49",
+    "ja_summary": "・AGIBOTが「AI WEEK 2026」にて、最新のAI技術やロボティクス製品を発表。\n・自律型ロボットの進化や、次世代AIモデルの実装に関する主要なアップデートを網羅。\n・詳細は公開された記事にて確認可能。"
+  },
+  {
+    "title": "Using projects in ChatGPT",
+    "link": "https://openai.com/academy/projects",
+    "source": "OpenAI",
+    "published": "Fri, 10 Apr 2026 00:00:00 GMT",
+    "summary": "Learn how to use orojects in ChatGPT to organize chats, files, and instructions, manage ongoing work, and collaborate more effectively.",
+    "image": "https://openai.com/favicon.ico",
+    "fetched_at": "2026-04-12 15:47:59",
+    "ja_summary": "・ChatGPTの「プロジェクト機能」でチャット、ファイル、指示を効率的に整理・管理可能。\n・継続的な業務の進行をスムーズにし、チームでの共同作業もより効果的に実施できる。\n・関連情報を一箇所に集約することで、プロジェクトの生産性を大幅に向上させる。"
+  },
+  {
+    "title": "Our response to the Axios developer tool compromise",
+    "link": "https://openai.com/index/axios-developer-tool-compromise",
+    "source": "OpenAI",
+    "published": "Fri, 10 Apr 2026 00:00:00 GMT",
+    "summary": "OpenAI responds to the Axios supply chain attack by rotating macOS code signing certificates, updating apps, and confirming no user data was compromised.",
+    "image": "https://openai.com/favicon.ico",
+    "fetched_at": "2026-04-12 15:47:59",
+    "ja_summary": "・OpenAIがAxiosのサプライチェーン攻撃を受け、macOS用署名証明書の更新を実施。\n・関連アプリのアップデートを完了し、ユーザーデータの流出はないことを確認済み。\n・セキュリティ対策を講じ、開発環境の安全性を確保。"
+  },
+  {
+    "title": "Sydney will become Anthropic’s fourth office in Asia-Pacific",
+    "link": "https://www.anthropic.com/news/sydney-fourth-office-asia-pacific",
+    "source": "Anthropic (News)",
+    "published": "Tue, 10 Mar 2026 00:00:00 +0000",
+    "summary": "Sydney will become Anthropic’s fourth office in Asia-Pacific",
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Globe&amp;backgroundColor=sky",
+    "fetched_at": "2026-04-12 15:48:06",
+    "ja_summary": "・AI開発企業のAnthropicが、アジア太平洋地域で4番目となる拠点をシドニーに開設する。\n・同地域での事業拡大を加速させ、現地でのAI活用を推進する。"
+  },
+  {
+    "title": "「AI時代に良い問いを立てる人が優秀」は本当なのか？をクーンのパラダイム論から考える",
+    "link": "https://zenn.dev/acntechjp/articles/ac59a66d0e58d6",
+    "source": "Zenn Trends",
+    "published": "Sat, 11 Apr 2026 15:37:00 GMT",
+    "summary": "はじめに\n「AI時代に価値を持つのは、良質な問いを立てられる人だ」\nここ最近、こうした論調をよく目にするようになりました。生成AIが急速に普及するなかで、「答えはAIが出してくれる。だから人間は問いを立てる側に回るべきだ」という主張は、直感的にもっともらしく聞こえます。\nただ、自分自身の体験を振り返ると、少し違う景色が見えてきます。\n特に明確な問いもない状態で、自分が書きたいことや背景知識を殴り書きでプロンプトに詰め込むと、AIの側から「それならこういう切り口はどうですか？」と、思いもよらない問いが返ってくることがある。つまり、良質なコンテキスト（文脈・背景情報）を渡せば、AIも良質...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--VIce-A20--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%258CAI%25E6%2599%2582%25E4%25BB%25A3%25E3%2581%25AB%25E8%2589%25AF%25E3%2581%2584%25E5%2595%258F%25E3%2581%2584%25E3%2582%2592%25E7%25AB%258B%25E3%2581%25A6%25E3%2582%258B%25E4%25BA%25BA%25E3%2581%258C%25E5%2584%25AA%25E7%25A7%2580%25E3%2580%258D%25E3%2581%25AF%25E6%259C%25AC%25E5%25BD%2593%25E3%2581%25AA%25E3%2581%25AE%25E3%2581%258B%25EF%25BC%259F%25E3%2582%2592%25E3%2582%25AF%25E3%2583%25BC%25E3%2583%25B3%25E3%2581%25AE%25E3%2583%2591%25E3%2583%25A9%25E3%2583%2580%25E3%2582%25A4%25E3%2583%25A0%25E8%25AB%2596%25E3%2581%258B%25E3%2582%2589%25E8%2580%2583%25E3%2581%2588%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:kaito.abe%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2U2ZDA4MDY5ODcuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Accenture%2520Japan%2520%2528%25E6%259C%2589%25E5%25BF%2597%2529%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jS2xBSHVmRjZ5dUJqM0VyNXZkTnhPeTk3MXp1bnRJeHRRVXp4Si1RYjdMWUduOU1nPXM5Ni1j%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-04-12 15:48:07",
+    "ja_summary": "「AI時代は問いを立てる人が優秀」という説に対し、筆者はAIの進化を踏まえ懐疑的な見方を示す。\nAIに十分な文脈（コンテキスト）を与えれば、AI側がより良い問いを提示するケースが増えている。\n今後は「自ら問いを立てる」こと以上に、AIと対話して「問いの質を高める能力」が重要となる。"
+  },
+  {
+    "title": "agent-browser入門：Claude Codeからブラウザを自在に操る！導入＆他ツール使い分けガイド",
+    "link": "https://zenn.dev/shinyaa31/articles/082457e115885c",
+    "source": "Zenn Trends",
+    "published": "Sat, 11 Apr 2026 07:19:21 GMT",
+    "summary": "生成AI全盛の昨今、『ブラウザ操作』に関しても生成AIを介して良い感じに効率化、高速化対応させてしまおう！という動きが非常に活発化しています。私も最近色々触っている状況ではあります。(先日以下のブログでも取り上げたりしていました)\nhttps://zenn.dev/shinyaa31/articles/dd315ea4868eb1\nそんな中、上記エントリで言及・紹介したPlaywright、Browser Useに負けず劣らず(いやそれ以上？)な使い勝手、機能の豊富さを兼ね備えるツールがあることを知りました。それがこちらのagent-browserです。\nhttps://github....",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--edYs2mb1--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:agent-browser%25E5%2585%25A5%25E9%2596%2580%25EF%25BC%259AClaude%2520Code%25E3%2581%258B%25E3%2582%2589%25E3%2583%2596%25E3%2583%25A9%25E3%2582%25A6%25E3%2582%25B6%25E3%2582%2592%25E8%2587%25AA%25E5%259C%25A8%25E3%2581%25AB%25E6%2593%258D%25E3%2582%258B%25EF%25BC%2581%25E5%25B0%258E%25E5%2585%25A5%25EF%25BC%2586%25E4%25BB%2596%25E3%2583%2584%25E3%2583%25BC%25E3%2583%25AB%25E4%25BD%25BF%25E3%2581%2584%25E5%2588%2586%25E3%2581%2591%25E3%2582%25AC%25E3%2582%25A4%25E3%2583%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%2597%25E3%2582%2593%25E3%2582%2584%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzg0NDMxM2IyYzAuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-04-12 15:48:08",
+    "ja_summary": "・生成AIでブラウザ操作を自動化・効率化する新ツール「agent-browser」が登場。\n・PlaywrightやBrowser Useに匹敵する高い機能性と使いやすさを備えている。\n・既存ツールとの使い分けや導入方法を理解し、業務の高速化に活用できる。"
+  },
+  {
+    "title": "LLM とプロンプトエンジニアリング／チューターを定義する / LLMs and Prompt Engineering, and Defining Tutors",
+    "link": "https://speakerdeck.com/ks91/llms-and-prompt-engineering-and-defining-tutors",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-04-12T01:09:22-04:00",
+    "summary": "早稲田大学大学院経営管理研究科「プロンプトエンジニアリング ─ 生成AIの応用」2026 春の第1-2回で使用したスライドです。",
+    "image": "https://files.speakerdeck.com/presentations/03abb4cfd74247a8bd8d272dea36613f/preview_slide_0.jpg?39058345",
+    "fetched_at": "2026-04-12 15:48:09",
+    "ja_summary": "早稲田大学の大学院講義資料であり、LLMの基礎知識からプロンプトエンジニアリングの技術、AIチューターの定義までを網羅している。生成AIをビジネスや教育へ効果的に応用するための概念的・実戦的なフレームワークを学べる内容。"
+  },
+  {
+    "title": "本授業におけるエージェント・ハブの使い方 / How to Use the Agent Hub in This Course",
+    "link": "https://speakerdeck.com/ks91/how-to-use-the-agent-hub-in-this-course",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-04-12T01:07:06-04:00",
+    "summary": "早稲田大学大学院経営管理研究科「プロンプトエンジニアリング ─ 生成 AI の応用」2026春のオンデマンド教材 第6回で使用したスライドです。",
+    "image": "https://files.speakerdeck.com/presentations/4120343802f340a09a2b3d88ee45a0d4/preview_slide_0.jpg?39058321",
+    "fetched_at": "2026-04-12 15:48:09",
+    "ja_summary": "早稲田大学大学院の「プロンプトエンジニアリング」講義における「エージェント・ハブ」の活用方法を解説した教材。生成AIの応用を学ぶオンデマンド授業の第6回で使用されたスライド資料。"
+  },
+  {
+    "title": "日本発、LLMの推論を「桁違い」に効率化する新アーキテクチャ「PHOTON」の論文が面白かったのでまとめてみた",
+    "link": "https://qiita.com/yuji-arakawa/items/2ad0240c56eb7507b261",
+    "source": "Qiita (Popular)",
+    "published": "2026-04-10T22:15:57+09:00",
+    "summary": "![Generated Image April 09, 2026 - 12_01AM.jpg](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/74534/447cbeed-d3c6-447a-a7b5-46bd937f4d07.jpeg)\n\n\n# はじめに\n\n富士通、理化学研究所 AIP、東京科学大学、東海大学の研究チームが",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY3NDUzNCUyRmUzZGYwM2UyMjk2ZjY2ZmNiMGNkYmY5MmZiZjQwNDU2NGFmNTYxYzIlMkZsYXJnZS5wbmclM0YxNzcyNTUwMDAxP2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz0xYzFmOTVmMTIxNmMzMWVkNDU0MzMwZjg2ZjBkMzhhZQ%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYzMDk1NWZhN2YwMzlhODVjNDQ5ZmY0ODBhMmE3ZGJjNWQ5ZmY1YWIwJTJGb3JpZ2luYWwuanBnJTNGMTQ1MjE0NTY4Mz9peGxpYj1yYi00LjAuMCZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz0yYjVlN2VmYzdkMGI4OGNjOGRlOTIyYzFmZTQ3YzJhNQ%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D4aae8c5955a2b8b4143d59077d137401?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUU2JTk3JUE1JUU2JTlDJUFDJUU3JTk5JUJBJUUzJTgwJTgxTExNJUUzJTgxJUFFJUU2JThFJUE4JUU4JUFCJTk2JUUzJTgyJTkyJUUzJTgwJThDJUU2JUExJTgxJUU5JTgxJTk1JUUzJTgxJTg0JUUzJTgwJThEJUUzJTgxJUFCJUU1JThBJUI5JUU3JThFJTg3JUU1JThDJTk2JUUzJTgxJTk5JUUzJTgyJThCJUU2JTk2JUIwJUUzJTgyJUEyJUUzJTgzJUJDJUUzJTgyJUFEJUUzJTgzJTg2JUUzJTgyJUFGJUUzJTgzJTgxJUUzJTgzJUEzJUUzJTgwJThDUEhPVE9OJUUzJTgwJThEJUUzJTgxJUFFJUU4JUFCJTk2JUU2JTk2JTg3JUUzJTgxJThDJUU5JTlEJUEyJUU3JTk5JUJEJUUzJTgxJThCJUUzJTgxJUEzJUUzJTgxJTlGJUUzJTgxJUFFJUUzJTgxJUE3JUUzJTgxJUJFJUUyJTgwJUE2JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9MTI0ODMxN2Y1ZjljNmIwZDljYjdlYzMyYzk4YzAyODA&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDB5dWppLWFyYWthd2EmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1mZmI0YjViMTBiYTQxOTMwMzk4ZTU3ZDhmOWQwYjZmNQ&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=5pel5pys44Kq44Op44Kv44Or5qCq5byP5Lya56S-&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=bd6b84badac9220f2cc28da9d6277b8d",
+    "fetched_at": "2026-04-12 15:48:11",
+    "ja_summary": "・富士通や理研等の研究チームが、LLMの推論処理を劇的に効率化する新アーキテクチャ「PHOTON」を開発。\n・従来のモデルと比較して計算コストを大幅に削減し、推論スピードを「桁違い」に向上させることに成功。\n・AIの社会実装における最大の課題である処理負荷とコストの問題を解消する、革新的な技術として期待される。"
+  },
+  {
+    "title": "ローカルLLM（Gemma4）× AIVIS Speech で音声チャットの応答を「1秒未満」にした話",
+    "link": "https://qiita.com/kikuziro/items/35f8fd0f56e63b25854f",
+    "source": "Qiita (Popular)",
+    "published": "2026-04-10T18:06:06+09:00",
+    "summary": "## 👋 はじめに\n皆さん **「AIと声で会話したい」** って思ったこと、ありませんか？\nテキストのチャットは便利なんですが、やっぱり**声で返ってくる**と没入感が全然違いますよね。\n\n人間同士の会話って、相手の言葉が終わってからだいたい200〜500msくらいで返事が始まりますよね。さすがにそこまでは無理でも、**1秒切れれば「会話してる感」は十分出る**はず。\nで、色々と工夫した結果……",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYyOTMzNDg5JTJGMzE5MjYyN2Q4MWRlY2RmZjg5MDc2ODgwZTVmMjY4NGM2OWU1OGI3YSUyRmxhcmdlLnBuZyUzRjE3NzU1NDAzMzY_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPTIwNjZkMWYyM2M4MGU2ZTU0NmY3MzhiOTMyNDI3YWMx%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Da8327f971f7445106cba1ff8779b0aa0?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgzJUFEJUUzJTgzJUJDJUUzJTgyJUFCJUUzJTgzJUFCTExNJUVGJUJDJTg4R2VtbWE0JUVGJUJDJTg5JUMzJTk3JTIwQUlWSVMlMjBTcGVlY2glMjAlRTMlODElQTclRTklOUYlQjMlRTUlQTMlQjAlRTMlODMlODElRTMlODMlQTMlRTMlODMlODMlRTMlODMlODglRTMlODElQUUlRTUlQkYlOUMlRTclQUQlOTQlRTMlODIlOTIlRTMlODAlOEMxJUU3JUE3JTkyJUU2JTlDJUFBJUU2JUJBJTgwJUUzJTgwJThEJUUzJTgxJUFCJUUzJTgxJTk3JUUzJTgxJTlGJUU4JUE5JUIxJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9MGQ0NTI2OWM1M2M3NjRlY2QzYjUyMjA2YmFmMWU1OTU&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBraWt1emlybyZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWQyOTU5ZTRiOWFiMzZhNDFmZTM3MWE4NDhiNjUzODIx&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=4e60d86293d29f85e25af38b5b3d6fdc",
+    "fetched_at": "2026-04-12 15:48:12",
+    "ja_summary": "・ローカルLLM「Gemma4」と音声合成「AIVIS Speech」を組み合わせ、音声チャットの応答時間を「1秒未満」に短縮。\n・人間同士の会話に近いレスポンスを実現し、自然で没入感のある対話体験を可能にした。\n・技術的な工夫により、リアルタイム性が求められるAI音声対話の快適性を大幅に向上させた。"
+  },
+  {
     "title": "Brainstorming with ChatGPT",
     "link": "https://openai.com/academy/brainstorming",
     "source": "OpenAI",
@@ -888,115 +998,5 @@
     "image": "https://japan.zdnet.com/storage/2026/04/07/a04a5932cda81a97b2a642abd907bb9a/t/184/138/d/dsc00766_l.jpg",
     "fetched_at": "2026-04-11 08:04:28",
     "ja_summary": "「iTerm2」を活用することで、複数の「Claude Code」プロジェクトをワンクリックで起動・管理できる。\nこれにより、日々のAIコーディング作業における準備の手間や摩擦が大幅に軽減される。\n開発ワークフローを効率化したいエンジニアにとって有効な解決策となる。"
-  },
-  {
-    "title": "CTC、業務分析支援サービス--PC操作履歴を自動収集、改善ポイントを可視化",
-    "link": "https://japan.zdnet.com/article/35246253/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "伊藤忠テクノソリューションズ（CTC）は、業務分析支援サービス「GenTaskMining」の提供を開始した。PCの操作履歴を自動で収集、分類し、生成AIが分析して業務を定量的に把握し、改善ポイントを可視化する。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35246253/\"><img src=\"https://japan.zdnet.com/storage/2026/04/09/1993b5184514b0bc2d14a68f1b292309/t/184/138/d/20260410_adobestock_574704836_1280x960.jpg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2026/04/09/1993b5184514b0bc2d14a68f1b292309/t/184/138/d/20260410_adobestock_574704836_1280x960.jpg",
-    "fetched_at": "2026-04-11 08:04:28",
-    "ja_summary": "・CTCが業務分析サービス「GenTaskMining」の提供を開始。\n・PC操作履歴を自動収集し、生成AIが業務内容を定量的に分析。\n・効率化すべき改善ポイントを自動で可視化し、生産性向上を支援。"
-  },
-  {
-    "title": "セールスフォースはAIで中堅・中小企業向け事業を広げられるか",
-    "link": "https://japan.zdnet.com/article/35246249/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "今回は、セールスフォース・ジャパン 常務執行役員 コマーシャル営業統括 グローバルビジネス第2営業統括本部 統括本部長の西田晶子氏と、KPMGコンサルティング 執行役員 Sustainability & Rick Transformationユニットリーダー／パートナーの足立桂輔氏の「明言」を紹介する。\n<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35246249/\"><img src=\"https://japan.zdnet.com/storage/2026/04/09/cf6b53a466504c7ab3474554f5e9228b/t/184/138/d/sp_12matsuoka_260409_l.jpg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2026/04/09/cf6b53a466504c7ab3474554f5e9228b/t/184/138/d/sp_12matsuoka_260409_l.jpg",
-    "fetched_at": "2026-04-11 08:04:28",
-    "ja_summary": "・セールスフォースがAI活用により、中堅・中小企業市場でのさらなる事業拡大を目指す。\n・セールスフォースとKPMGコンサルティングの両幹部が、今後の戦略や展望について見解を表明。\n・AI導入を通じた中堅・中小企業のDX推進と市場攻略の可能性に焦点を当てた議論を展開。"
-  },
-  {
-    "title": "Claude Code Skillsは作って終わりじゃない — 事後ログで改善サイクルを回す",
-    "link": "https://zenn.dev/tre_conigli/articles/claude-code-skill-improvement-cycle",
-    "source": "Zenn Trends",
-    "published": "Fri, 10 Apr 2026 01:48:46 GMT",
-    "summary": "Claude Code の Custom Skills を使い込んでいると、ある問題に気づく。作った直後は快適に動くのに、数週間後に微妙にズレた出力が出始める。ユーザーがチャット上で修正を入れても、その修正は会話が終われば消える。\nこの記事では、その「作って終わり」問題に対して、事後ログ収集という仕組みで改善サイクルを回すアプローチを解説する。具体的には、自作した capturing-run-update-logs というSkillの設計思想と仕組みを紹介する。\n対象読者: Claude Code の Skills を自作している、または自作を検討しているエンジニア。\n\n Skillはな...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--0Q7wAPBE--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%2520Skills%25E3%2581%25AF%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%25A6%25E7%25B5%2582%25E3%2582%258F%25E3%2582%258A%25E3%2581%2598%25E3%2582%2583%25E3%2581%25AA%25E3%2581%2584%2520%25E2%2580%2594%2520%25E4%25BA%258B%25E5%25BE%258C%25E3%2583%25AD%25E3%2582%25B0%25E3%2581%25A7%25E6%2594%25B9%25E5%2596%2584%25E3%2582%25B5%25E3%2582%25A4%25E3%2582%25AF%25E3%2583%25AB%25E3%2582%2592%25E5%259B%259E%25E3%2581%2599%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:3%25E7%25BE%25BD%25E3%2581%25AE%25E3%2581%2586%25E3%2581%2595%25E3%2581%258E%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2U0MmY4NGRkODYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-    "fetched_at": "2026-04-11 08:04:34",
-    "ja_summary": "Claude CodeのCustom Skillsは時間が経つと精度が低下し、一時的な修正も保存されない欠点がある。\nこれに対し、事後ログを収集して継続的に改善する仕組み「capturing-run-update-logs」を導入することで、運用改善サイクルを構築できる。\nSkillsを実務で活用するエンジニアに向け、開発したツールの設計思想と効率的な運用手法を解説する。"
-  },
-  {
-    "title": "Claude Codeが書いたコードを、チームのコードにするためにやったこと — 理解負債とどう向き合ったか",
-    "link": "https://zenn.dev/dely_jp/articles/b8b41a4202efda",
-    "source": "Zenn Trends",
-    "published": "Thu, 09 Apr 2026 09:21:21 GMT",
-    "summary": "はじめに\nこんにちは、クラシルでバックエンド開発をしているmighteeです。\n社内では開発者だけでなくbizメンバーも含めてAI活用を積極的に進めています。開発メンバーはすでにAIを日常的に使いこなしていますが、その中で新しい課題も見えてきました。\nClaude Codeを使って、Railsアプリケーションで2つの新機能の要件定義からリリースまでを担当しました。期間は約3週間です。開発はスクラム単位で進めていて、実装は自分がClaude Codeと一緒に進め、レビューは別スクラムのバックエンドエンジニアに見てもらう体制です。\n個人の体感では、生産性は上がりました。マイグレーション、...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--XbmfEyEf--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%25E3%2581%258C%25E6%259B%25B8%25E3%2581%2584%25E3%2581%259F%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2589%25E3%2582%2592%25E3%2580%2581%25E3%2583%2581%25E3%2583%25BC%25E3%2583%25A0%25E3%2581%25AE%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2589%25E3%2581%25AB%25E3%2581%2599%25E3%2582%258B%25E3%2581%259F%25E3%2582%2581%25E3%2581%25AB%25E3%2582%2584%25E3%2581%25A3%25E3%2581%259F%25E3%2581%2593%25E3%2581%25A8%2520%25E2%2580%2594%2520%25E7%2590%2586%25E8%25A7%25A3%25E8%25B2%25A0%25E5%2582%25B5%25E3%2581%25A8%25E3%2581%25A9%25E3%2581%2586%25E5%2590%2591%25E3%2581%258D%25E5%2590%2588%25E3%2581%25A3%25E3%2581%259F%25E3%2581%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:mightee%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzM3MDYyNjhkNmMuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Kurashiru%2520Tech%2520Blog%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2M2NWYxMDJiNGEuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-    "fetched_at": "2026-04-11 08:04:35",
-    "ja_summary": "・Claude Codeを活用してRailsの新機能開発を3週間で完了し、生産性を向上させた。\n・AIによる高速実装と、チームメンバーによるレビューを組み合わせる体制を構築した。\n・AI生成コード特有の「理解負債」を解消し、チームの共有資産にするための取り組みを行った。"
-  },
-  {
-    "title": "チャットボットはキャラクターを演じている--Anthropicがそれを危険だと指摘する理由",
-    "link": "https://japan.zdnet.com/article/35246180/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "研究者は、チャットボットの魅力の一部が、同時に悪用されるリスクも高めていることを発見した。その理由とは。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35246180/\"><img src=\"https://japan.zdnet.com/storage/2026/04/08/917c594709df55f690927870b49d39d1/t/184/138/d/large-001-gettyimages-2185380383-cropped.jpg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2026/04/08/917c594709df55f690927870b49d39d1/t/184/138/d/large-001-gettyimages-2185380383-cropped.jpg",
-    "fetched_at": "2026-04-11 07:29:21",
-    "ja_summary": "・AIチャットボットが人間味のあるキャラクターを演じることが、ユーザーを心理的に誘導するリスクを生んでいる。\n・魅力的な対話スキルが、意図しない情報操作や悪用に転用される懸念があることをAnthropicが指摘。\n・AIの利便性と安全性の両立に向け、キャラクター化の是非や制御方法が議論されている。"
-  },
-  {
-    "title": "「生成AIが、最初からなかったことにするみたいに 新しい世界を始めようとしている」　そんな感傷的な曲ができたから、Claude Codeで歌詞同期ビジュアライザーを作った（CloseBox）",
-    "link": "https://www.techno-edge.net/article/2026/04/08/4979.html",
-    "source": "TechnoEdge",
-    "published": "Wed, 08 Apr 2026 08:53:21 +0900",
-    "summary": "映画「ブレードランナー」のことを考えていました。ネタにしたから、というのもありますが。",
-    "image": "https://www.techno-edge.net/imgs/rss/30753.jpg",
-    "fetched_at": "2026-04-11 07:29:22",
-    "ja_summary": "・「ブレードランナー」の世界観をテーマに、AIの進化を問う楽曲を制作。\n・AIツール「Claude Code」を活用し、歌詞と連動して視覚的に演出するビジュアライザーを開発。\n・生成AIの急速な発展を「世界を塗り替える存在」として表現したクリエイティブ事例。"
-  },
-  {
-    "title": "Research with ChatGPT",
-    "link": "https://openai.com/academy/search-and-deep-research",
-    "source": "OpenAI",
-    "published": "Fri, 10 Apr 2026 00:00:00 GMT",
-    "summary": "Learn how to research with ChatGPT using search and deep research to find up-to-date information, analyze sources, and generate structured insights.",
-    "image": "https://openai.com/favicon.ico",
-    "fetched_at": "2026-04-11 07:29:23",
-    "ja_summary": "・ChatGPTを活用し、最新情報の検索から高度なリサーチまでを行う方法を解説。\n・情報のソース分析や、整理された洞察の生成プロセスを習得可能。\n・AIによる効率的なリサーチ手法を学び、業務の生産性を向上させる。"
-  },
-  {
-    "title": "Working with files in ChatGPT",
-    "link": "https://openai.com/academy/working-with-files",
-    "source": "OpenAI",
-    "published": "Fri, 10 Apr 2026 00:00:00 GMT",
-    "summary": "Learn how to upload and work with files in ChatGPT to analyze data, summarize documents, and generate content from PDFs, spreadsheets, and more.",
-    "image": "https://openai.com/favicon.ico",
-    "fetched_at": "2026-04-11 07:29:23",
-    "ja_summary": "・ChatGPTにPDFやスプレッドシート等のファイルをアップロード可能。\n・データ分析や文書要約、コンテンツ生成が効率的に行える。\n・業務での資料作成や情報整理を大幅に短縮できる。"
-  },
-  {
-    "title": "Using custom GPTs",
-    "link": "https://openai.com/academy/custom-gpts",
-    "source": "OpenAI",
-    "published": "Fri, 10 Apr 2026 00:00:00 GMT",
-    "summary": "Learn how to build and use custom GPTs to automate workflows, maintain consistent outputs, and create purpose-built AI assistants.",
-    "image": "https://openai.com/favicon.ico",
-    "fetched_at": "2026-04-11 07:29:23",
-    "ja_summary": "・カスタムGPTの構築・活用方法を解説\n・業務効率化や回答品質の均一化を実現\n・特定の目的（業務）に特化したAI作成が可能"
-  },
-  {
-    "title": "Introducing The Anthropic Institute",
-    "link": "https://www.anthropic.com/news/the-anthropic-institute",
-    "source": "Anthropic (News)",
-    "published": "Wed, 11 Mar 2026 00:00:00 +0000",
-    "summary": "Introducing The Anthropic Institute",
-    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20Book&amp;backgroundColor=oat",
-    "fetched_at": "2026-04-11 07:29:26",
-    "ja_summary": "・AnthropicがAIの安全性や社会的影響を研究する「Anthropic Institute」を設立。\n・AIモデルの開発と並行し、長期的なリスク低減と責任ある実装を目指す。\n・学術・政策・産業の連携を深め、AIの安全な普及に向けた基盤を強化する。"
-  },
-  {
-    "title": "AI時代の「職業観」に変化の兆し？　条件次第で学生の8割が「ブルーカラー」も視野",
-    "link": "https://www.itmedia.co.jp/business/articles/2604/10/news046.html",
-    "source": "ITmedia ビジネス",
-    "published": "Fri, 10 Apr 2026 08:30:00 +0900",
-    "summary": "AIの台頭で、学生の職業観に変化がみられる。まだまだ「ホワイトカラー」を支持する学生が多いが、どういった条件があればブルーカラーも候補に入るのか？",
-    "image": "https://image.itmedia.co.jp/business/articles/2604/10/cover_news046.jpg",
-    "fetched_at": "2026-04-11 06:53:03",
-    "ja_summary": "・AIの台頭に伴い、学生の間でホワイトカラー一辺倒ではない柔軟な職業観が広がりつつある。\n・労働環境や条件が整えば、学生の約8割がブルーカラー職もキャリアの選択肢として検討する意向を示した。\n・AI時代を見据え、職種のイメージよりも働き方や待遇を重視する傾向が強まっている。"
   }
 ]
