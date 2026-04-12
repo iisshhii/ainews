@@ -1,5 +1,15 @@
 [
   {
+    "title": "最新AIモデルClaude Mythosが主要全OSやブラウザの重大な脆弱性多数発見、悪用懸念で非公開。アップル・Google・MS他が対策Project Glasswing発足",
+    "link": "https://www.techno-edge.net/article/2026/04/08/4980.html",
+    "source": "TechnoEdge",
+    "published": "Wed, 08 Apr 2026 14:54:21 +0900",
+    "summary": "AIモデルClaudeで知られるAI企業Anthropicが、Apple、Google、Amazon(AWS)、マイクロソフト、NVIDIA、Linux Foundationを含む12の主要ソフトウェア・デジタルインフラ企業および団体と共同で、AIを活用したサイバーセキュリティ強化イニシアチブ「Project Glasswing」を発足しました。",
+    "image": "https://www.techno-edge.net/imgs/rss/30755.jpg",
+    "fetched_at": "2026-04-12 19:23:52",
+    "ja_summary": "・AI「Claude Mythos」が主要OS等の重大な脆弱性を多数発見したため、悪用防止としてモデルを非公開化。\n・AnthropicとApple、Google、MSなど12社が連携し、脆弱性対策プロジェクト「Project Glasswing」を発足。\n・AIを活用したデジタルインフラのセキュリティ強化と、新たな脅威への共同対応を目指す。"
+  },
+  {
     "title": "東京都、生成AI共通基盤「A1(えいいち)」　都職員6万人が利用",
     "link": "https://www.watch.impress.co.jp/docs/news/2100708.html",
     "source": "Impress Watch",
@@ -988,15 +998,5 @@
     "image": "https://res.cloudinary.com/zenn/image/upload/s--Zo34-W9l--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci80ZGI1OWNlNTA4LmpwZWc=%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg?_a=BACAGSGT",
     "fetched_at": "2026-04-11 15:37:16",
     "ja_summary": "・Claude for Chromeでブラウザ上の業務を自動化し、情報収集や開発・事務作業を効率化。\n・APIキー設定不要で、サブスク範囲内で手軽に活用できる具体的な手法を紹介。\n・活用事例から導入時の注意点までを網羅し、日々のタスク削減をサポート。"
-  },
-  {
-    "title": "Mainstream LLMs are centralized. What if they weren't?",
-    "link": "https://speakerdeck.com/favourchukwuedo/mainstream-llms-are-centralized-what-if-they-werent",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-04-11T00:30:25-04:00",
-    "summary": "",
-    "image": "https://files.speakerdeck.com/presentations/63eb4210e4c0467190ec2413abff025b/preview_slide_0.jpg?39050511",
-    "fetched_at": "2026-04-11 15:37:18",
-    "ja_summary": "・現在の主流なLLMは中央集権的であり、一部の巨大テック企業に依存している。\n・分散型LLMは、特定の企業による管理や検閲を排除し、透明性と民主性を高める可能性がある。\n・技術的な普及には、計算リソースの効率的な共有やインフラ構築が今後の課題となる。"
   }
 ]
