@@ -1,5 +1,65 @@
 [
   {
+    "title": "「ChatGPTに任せよう」　新生活シーズンに使える活用術をOpenAIが紹介",
+    "link": "https://www.watch.impress.co.jp/docs/news/2100774.html",
+    "source": "Impress Watch",
+    "published": "",
+    "summary": "OpenAI Japanは9日、新生活シーズンに向けたChatGPTの活用方法を紹介する報道関係者向け説明会を実施した。仕事や日常のさまざまな場面で、生産性や効率の向上に役立つ使い方を提案し、ChatGPTを実用的に取り入れる方法を紹介した。",
+    "image": "https://www.watch.impress.co.jp/img/ipw/list/2100/774/01.jpg",
+    "fetched_at": "2026-04-13 08:03:19",
+    "ja_summary": "・OpenAI Japanが新生活に向けたChatGPTの活用術を公開。\n・仕事や日常のタスクを効率化する具体的な使い道を提案。\n・生産性向上を目指し、ChatGPTを実用的に導入する方法を紹介。"
+  },
+  {
+    "title": "AIは人間の「粘り強さ」奪う 実証",
+    "link": "https://news.yahoo.co.jp/pickup/6575938?source=rss",
+    "source": "Yahoo!ニュース IT・科学",
+    "published": "Sat, 11 Apr 2026 12:10:34 GMT",
+    "summary": "",
+    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/11/57ced79ba09e03c9e5e66be1fa0df232cbc338975438856944afe57726c61b33.jpg",
+    "fetched_at": "2026-04-13 08:03:31",
+    "ja_summary": "・AIを活用すると、困難な課題に対する人間の試行錯誤や粘り強さが低下する傾向が判明した。\n・AIからの即座の回答に頼ることで、自ら深く考えるプロセスが省略され、思考能力の減退を招く恐れがある。\n・効率化の反面、AIとの付き合い方次第では長期的なスキル向上や問題解決能力を損なう可能性がある。"
+  },
+  {
+    "title": "アニメOPで生成AI使用発覚 謝罪",
+    "link": "https://news.yahoo.co.jp/pickup/6575813?source=rss",
+    "source": "Yahoo!ニュース IT・科学",
+    "published": "Fri, 10 Apr 2026 12:17:28 GMT",
+    "summary": "",
+    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/10/4442ed534340fb0e7587968dbf135a92be03359a29c05d8c698f0f461595e068.jpg",
+    "fetched_at": "2026-04-13 08:03:33",
+    "ja_summary": "・アニメのオープニング映像で生成AIの使用が判明し、制作側が謝罪。\n・適切な周知や確認が不足していたことが公表の経緯。\n・AI利用の是非や、クリエイティブ分野における権利関係の議論が再燃している。"
+  },
+  {
+    "title": "GHSA-fvcv-3m26-pcqx (Axios の脆弱性) がなんか変",
+    "link": "https://zenn.dev/masakura/articles/bc88704f8af091",
+    "source": "Zenn Trends",
+    "published": "Sun, 12 Apr 2026 09:19:12 GMT",
+    "summary": "GHSA-fvcv-3m26-pcqx (Axios の脆弱性) がなんか変\nUnrestricted Cloud Metadata Exfiltration via Header Injection Chain (CVE-2026-40175\n) が先日出されました。適当に読んでみると...\n\nRemote Code Executin って言葉があるぞ?\n攻撃難易度も低くてリモートから攻撃できる?\nAxois からのリクエストヘッダーにヘッダーインジェクションとか仕掛けられるんすか?\n\nうひょー! やべーじゃんこれ!\nhttps://twitter.com/tomo_masakur...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--9O5IC5_5--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:GHSA-fvcv-3m26-pcqx%2520%2528Axios%2520%25E3%2581%25AE%25E8%2584%2586%25E5%25BC%25B1%25E6%2580%25A7%2529%2520%25E3%2581%258C%25E3%2581%25AA%25E3%2582%2593%25E3%2581%258B%25E5%25A4%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%25BE%25E3%2583%25BC%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUFUWEFKeWtrVnF3dGYteWZUbTlYQU9Id0FGYm41VzFCT0NKekdTWm9UaE49czk2LWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-04-13 08:03:48",
+    "ja_summary": "・Axiosに深刻な脆弱性（CVE-2026-40175）が発見され、リモートコード実行（RCE）の恐れがある。\n・攻撃難易度が低く、ヘッダーインジェクションを悪用したクラウドメタデータの漏洩や遠隔操作のリスクがある。\n・極めて危険な脆弱性であるため、早急な情報の確認と対策が必要。"
+  },
+  {
+    "title": "Claude Codeのマルチセッション管理にジョブキューの概念を取り入れる",
+    "link": "https://zenn.dev/mh4gf/articles/claude-code-multi-session-job-queue",
+    "source": "Zenn Trends",
+    "published": "Sun, 12 Apr 2026 06:50:38 GMT",
+    "summary": "皆さんはClaude Codeのマルチセッション管理をどうしていますか？\nClaude Codeの進化により、1つのセッションでこなせるタスクの精度は大幅に上がりました。しかし実際の開発業務では1つのセッションだけでは足りないことの方が多いです。プルリクエストの作成までできたとしても、CIの失敗、コンフリクトの発生、レビューコメントの対応など、後続の細かい作業が続きます。また複数タスクを並列で進行したり、副業など複数プロジェクトに関わるならさらに並列作業が増えていきます。\nこの問題には世の中には数多くのアプローチが出ており、自分もしばらく試行錯誤を続けていました。最終的にジョブキューベー...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--ELccJ4qT--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%25E3%2581%25AE%25E3%2583%259E%25E3%2583%25AB%25E3%2583%2581%25E3%2582%25BB%25E3%2583%2583%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3%25E7%25AE%25A1%25E7%2590%2586%25E3%2581%25AB%25E3%2582%25B8%25E3%2583%25A7%25E3%2583%2596%25E3%2582%25AD%25E3%2583%25A5%25E3%2583%25BC%25E3%2581%25AE%25E6%25A6%2582%25E5%25BF%25B5%25E3%2582%2592%25E5%258F%2596%25E3%2582%258A%25E5%2585%25A5%25E3%2582%258C%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Hirotaka%2520Miyagi%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzU1OTAwOGYzMmYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-04-13 08:03:48",
+    "ja_summary": "・Claude Codeで複数タスクを並行処理する際、1つのセッションでは管理が困難。\n・複雑な開発業務や複数プロジェクトに対応するため「ジョブキュー」の概念を導入。\n・セッションを整理・管理し、後続タスクを効率的にこなすための最適解を提示。"
+  },
+  {
+    "title": "Typelessで音声入力や ── タイピング不要のAI時代がきたで",
+    "link": "https://zenn.dev/masayan1126/books/typeless-voice-input",
+    "source": "Zenn Trends",
+    "published": "Sat, 11 Apr 2026 09:22:10 GMT",
+    "summary": "AI音声入力アプリTypelessの使い方を徹底解説するで。フィラー削除・自動構造化・リアルタイム翻訳とか、ただの文字起こしとはレベルちゃうねん。Claude Codeとの連携でPC・スマホ両方から爆速で作業できる方法、ぜんぶ教えるわ。",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--ZHwU9uur--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci8xOGFlNjM1ZDE0LmpwZWc=%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg?_a=BACAGSGT",
+    "fetched_at": "2026-04-13 08:03:49",
+    "ja_summary": "・AI音声入力アプリ「Typeless」が、フィラー削除や自動構造化、リアルタイム翻訳で文字起こしの常識を覆す。\n・Claude Codeとの連携により、PC・スマホを問わず爆速で作業を効率化できる。\n・タイピング不要の新しいAI活用術として、使い方や連携テクニックを徹底解説。"
+  },
+  {
     "title": "NEC「AIパーク」に潜入　“大企業病”を打破する仕掛けがずらり　新オフィスの全貌は？",
     "link": "https://www.itmedia.co.jp/business/articles/2604/13/news028.html",
     "source": "ITmedia ビジネス",
@@ -938,65 +998,5 @@
     "image": "https://openai.com/favicon.ico",
     "fetched_at": "2026-04-12 02:49:24",
     "ja_summary": "・ChatGPT等のAI活用における、安全性・正確性・透明性の確保が重要。\n・責任ある利用のためのベストプラクティスを学ぶ。\n・AIを業務で安全かつ適切に使いこなすための指針を提示。"
-  },
-  {
-    "title": "ChatGPT for operations teams",
-    "link": "https://openai.com/academy/operations",
-    "source": "OpenAI",
-    "published": "Fri, 10 Apr 2026 00:00:00 GMT",
-    "summary": "Learn how operations teams use ChatGPT to streamline workflows, improve coordination, standardize processes, and drive faster execution.",
-    "image": "https://openai.com/favicon.ico",
-    "fetched_at": "2026-04-12 02:49:24",
-    "ja_summary": "・業務プロセスや手順の標準化をChatGPTで効率化。\n・チーム間の連携を強化し、業務遂行のスピードを向上。\n・ワークフローの最適化を通じ、オペレーション全体の生産性を改善。"
-  },
-  {
-    "title": "ChatGPTに月100ドルの新プラン、「Vibe Coding」需要に対応",
-    "link": "https://japan.cnet.com/article/35246254/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "OpenAIの月額20ドルの「Plus」プランでChatGPTの利用上限にすぐ達してしまう“Vibe coder”（AIを活用して自然言語でプログラムを生成する人）は今後、上限のリセットを待つか、月額200ドルの上位プランに移行するかという二者択一を迫られずに済みそうだ。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35246254/\"><img src=\"https://japan.cnet.com/storage/2026/04/10/e1e17ba11380356a369903c01f61d5ef/t/184/138/d/chatgpt.jpeg\" /></a>",
-    "image": "https://japan.cnet.com/storage/2026/04/10/e1e17ba11380356a369903c01f61d5ef/t/184/138/d/chatgpt.jpeg",
-    "fetched_at": "2026-04-12 02:04:15",
-    "ja_summary": "・OpenAIがChatGPTの月額100ドルの新プランを投入する。\n・AIでプログラミングを行う「Vibe coder」の利用上限問題を解消する狙い。\n・既存の月額20ドルと200ドルのプランの中間層向け選択肢として提供される。"
-  },
-  {
-    "title": "世界半導体売上高、26年2月は62％増　AI需要で成長加速",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11643/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "半導体市場の成長が加速している。米SIA（Semiconductor Industry Association：米国半導体工業会）が2026年4月3日（米国時間）に発表した同年2月の世界半導体売上高（3カ月移動平均値、以下同）は、前年同月比61.8％増の887億8000万ドル（約14兆2000億円）だった。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11643/2-m.jpg?20220512",
-    "fetched_at": "2026-04-12 01:28:05",
-    "ja_summary": "・2026年2月の世界半導体売上高は前年同月比61.8％増の約888億ドルと大幅に成長。\n・AI需要の急拡大が市場を牽引し、成長ペースが加速している。\n・半導体市場が歴史的な規模で拡大を続けている。"
-  },
-  {
-    "title": "Claude Mythos Preview の概要",
-    "link": "https://note.com/npaka/n/n8300dedbd1bb",
-    "source": "note (npaka)",
-    "published": "Fri, 10 Apr 2026 06:38:57 +0900",
-    "summary": "<p id=\"6151fd28-5f78-458f-aba6-45208e2b411d\" name=\"6151fd28-5f78-458f-aba6-45208e2b411d\">「Claude Mythos Preview」の概要についてまとめました。</p><figure id=\"21cdeb83-db7c-4e2a-aa16-62a874e45e52\" name=\"21cdeb83-db7c-4e2a-aa16-62a874e45e52\"><blockquote><p id=\"b0d38549-566d-43e1-a716-a196734e32db\" name=\"b0d38549-566d-43e1-a716-a196734e32db\"><strong>・</strong><a href=\"https://www.anthropic.com/glasswing\" rel=\"nofollow noopener\" target=\"_blank\"><strong>Project Glasswing</strong></a></p></blockquote>\n<figcaption></figcaption></figure><br /><a href=\"https://note.com/npaka/n/n8300dedbd1bb\">続きをみる</a>",
-    "image": "https://assets.st-note.com/production/uploads/images/266220560/rectangle_large_type_2_e6f27145b507079b8df0c66491825d50.png?width=800",
-    "fetched_at": "2026-04-12 00:26:21",
-    "ja_summary": "Anthropic社が提供する新プロジェクト「Project Glasswing」に関連する「Claude Mythos Preview」の概要情報が公開されました。\n詳細はリンク先の記事から確認可能です。"
-  },
-  {
-    "title": "仕様駆動開発は、ウォーターフォールへの回帰ではない。",
-    "link": "https://qiita.com/ju-kosaka/items/3674294dc301f5dcf453",
-    "source": "Qiita (Popular)",
-    "published": "2026-04-11T09:40:35+09:00",
-    "summary": "# 仕様駆動開発は、ウォーターフォールへの回帰ではない。\n\nみなさん、仕様駆動開発（SDD：Spec-Driven Development）、意識していますか？\n\nGitHub Spec KitやKiroが登場し、AIを活用した仕様駆動開発が一気に注目を集め始めました。\n国内外の技術ブログにも実践事例が増え、「いよいよSDD元年か」という空気が漂いはじめています。\n\nでも、ちょっと待ってください。",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYzODE5NTM5JTJGNzYyODE2ZjkyNGNhMjQ2MTUxYjhiYWVjMzYyOWY4NDE1ZTY1NTQ3YSUyRnhfbGFyZ2UucG5nJTNGMTcyMTIyNDU2Nj9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9OWIzZGFlODg5MTQzYjdlNTIwZDAwMzk1Mzk4NDRjY2Q%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYxZTIwZGI1ZTdlNDA3ZWFlN2I5NzBlYzk5OTg4MGRjOGMzY2MwZjY0JTJGb3JpZ2luYWwuanBnJTNGMTY2NzI3NDk2Mz9peGxpYj1yYi00LjAuMCZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz0xMzQ4OTg3MjlkMzMwYTdiNWRhMzRkOGU2MzVmZjIxOA%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D516c59f5527b68fbb99ee778f1148120?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUU0JUJCJTk1JUU2JUE3JTk4JUU5JUE3JTg2JUU1JThCJTk1JUU5JTk2JThCJUU3JTk5JUJBJUUzJTgxJUFGJUUzJTgwJTgxJUUzJTgyJUE2JUUzJTgyJUE5JUUzJTgzJUJDJUUzJTgyJUJGJUUzJTgzJUJDJUUzJTgzJTk1JUUzJTgyJUE5JUUzJTgzJUJDJUUzJTgzJUFCJUUzJTgxJUI4JUUzJTgxJUFFJUU1JTlCJTlFJUU1JUI4JUIwJUUzJTgxJUE3JUUzJTgxJUFGJUUzJTgxJUFBJUUzJTgxJTg0JUUzJTgwJTgyJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9MWJiMmNjNzk2MGU2NjUzODBmNDZjZDMzZWU0YjFjMmI&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBqdS1rb3Nha2EmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1jOTcwMmJhMDNjNWIwMDYyNmFiMWQ2YWQwYWFjOTRhMw&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=S0RESeOCouOCuOODo-OCpOODq-mWi-eZuuOCu-ODs-OCv-ODvOagquW8j-S8muekvg&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=b6c0e77af43616ef6e1a50a3613a9c90",
-    "fetched_at": "2026-04-12 00:26:40",
-    "ja_summary": "・AI活用で注目される「仕様駆動開発」は、柔軟性を失うウォーターフォールへの回帰ではない。\n・仕様を明確化することで開発効率を高め、AIの能力を最大限に引き出す現代的な手法である。\n・単なる工程の先送りではなく、仕様を起点としたアジャイルな開発プロセスの進化系と言える。"
-  },
-  {
-    "title": "AICore Developer Preview で Gemma 4 を試す",
-    "link": "https://note.com/npaka/n/n79383ac828ec",
-    "source": "note (npaka)",
-    "published": "Fri, 03 Apr 2026 23:00:51 +0900",
-    "summary": "<p id=\"5d203460-9487-4d23-a979-3c62cb92a7f3\" name=\"5d203460-9487-4d23-a979-3c62cb92a7f3\">以下の記事が面白かったので、簡単にまとめました。</p><figure id=\"7d6ae62e-7177-4dd7-8277-72bb316cf6bf\" name=\"7d6ae62e-7177-4dd7-8277-72bb316cf6bf\"><blockquote><p id=\"7bf996af-c4d2-439c-aa59-0a8b50a1f79d\" name=\"7bf996af-c4d2-439c-aa59-0a8b50a1f79d\"><strong>・</strong><a href=\"https://android-developers.googleblog.com/2026/04/AI-Core-Developer-Preview.html\" rel=\"nofollow noopener\" target=\"_blank\"><strong>Announcing Gemma 4 in the AICore Developer Preview</strong></a></p></blockquote>\n<figcaption></figcaption></figure><br /><a href=\"https://note.com/npaka/n/n79383ac828ec\">続きをみる</a>",
-    "image": "https://assets.st-note.com/production/uploads/images/264518068/rectangle_large_type_2_6ef5d28cf4ce1752962b0e118dfbc343.png?width=800",
-    "fetched_at": "2026-04-11 23:54:33",
-    "ja_summary": "・GoogleのAndroid向けAI実行環境「AICore」で、最新モデル「Gemma 4」が試用可能に。\n・開発者は端末上で高度なAI機能を活用したアプリ構築・検証ができる。\n・Android開発者向けプレビュー版として公開されており、新たなAI体験の導入が加速する。"
   }
 ]
