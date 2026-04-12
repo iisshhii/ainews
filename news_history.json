@@ -1,5 +1,15 @@
 [
   {
+    "title": "React Native Fiddle",
+    "link": "https://speakerdeck.com/shirakaba/react-native-fiddle",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-04-12T07:58:53-04:00",
+    "summary": "I presented this lightning talk on React Native Fiddle in Japanese for <a href=\"https://react-native-meetup.connpass.com/event/381413/\">React Native Meetup #24</a> at AWS Loft on 12th Feb 2026.\n\nA video recording is available <a href=\"https://youtu.be/PtcEpEf4lds\">on YouTube</a>.",
+    "image": "https://files.speakerdeck.com/presentations/f82d4984546949409f0714c4b58075d0/preview_slide_0.jpg?39059701",
+    "fetched_at": "2026-04-12 21:42:43",
+    "ja_summary": "・2026年2月12日開催の「React Native Meetup #24」にて、「React Native Fiddle」に関する登壇を実施。\n・AWS Loftでの発表内容をまとめた動画が、YouTubeにて公開中。"
+  },
+  {
     "title": "【CTF】cryptoの始め方（入門）",
     "link": "https://zenn.dev/kurenaif/articles/d316c2ffa784f8",
     "source": "Zenn Trends",
@@ -988,15 +998,5 @@
     "image": "https://files.speakerdeck.com/presentations/e23eef7bba094d71b460d20ce01ff33b/preview_slide_0.jpg?39052229",
     "fetched_at": "2026-04-11 16:37:44",
     "ja_summary": "・AI活用が進む中で、あえて新卒エンジニアの採用・育成に踏み出した背景と狙いを解説。\n・PHPエンジニアをいかに育て、組織に定着させるかの具体的な手法と課題を共有。\n・AI時代における若手エンジニアの価値向上と、持続的な開発チーム構築のあり方を提示。"
-  },
-  {
-    "title": "Claude Code + Obsidian — Daily Note の下書きを自動生成し、週次・月次レビューまで積み上げる仕組みを作った",
-    "link": "https://zenn.dev/dely_jp/articles/b8da42a57bbc39",
-    "source": "Zenn Trends",
-    "published": "Fri, 10 Apr 2026 09:32:22 GMT",
-    "summary": "はじめに\nこんにちは、クラシルでバックエンドエンジニアをしている hama です。\n私は Obsidian の Daily Note を毎日の業務記録として使っています。TODO やミーティングの予定、読んだ記事のメモなどを1ページにまとめて、あとから振り返れるようにしていました。\nただ正直なところ、私の場合、手で書いていた頃は手間が多く、Daily Note をしっかり書き残さない日も多く内容が常に充実しているとは言えませんでした。\nそこで、Claude Code のスキル機能を使って Daily Note への記録の下準備を自動化しました。\nTODO や Meeting の自動挿...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--1qqUw1H_--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%2520%252B%2520Obsidian%2520%25E2%2580%2594%2520Daily%2520Note%2520%25E3%2581%25AE%25E4%25B8%258B%25E6%259B%25B8%25E3%2581%258D%25E3%2582%2592%25E8%2587%25AA%25E5%258B%2595%25E7%2594%259F%25E6%2588%2590%25E3%2581%2597%25E3%2580%2581%25E9%2580%25B1%25E6%25AC%25A1%25E3%2583%25BB%25E6%259C%2588%25E6%25AC%25A1%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25E3%2581%25BE...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:s_hamabata%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzM3MDYyNjhkNmMuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Kurashiru%2520Tech%2520Blog%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzg2ZTFjZWIzODYuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-    "fetched_at": "2026-04-11 15:37:16",
-    "ja_summary": "・ObsidianのDaily Note作成をClaude Codeで自動化し、日々の記録負荷を軽減。\n・TODOや会議予定の下書きを自動挿入することで、入力の手間を解消。\n・記録の自動化により、日々の振り返りや週次・月次レビューの効率と質を向上させた。"
   }
 ]
