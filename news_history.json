@@ -1,5 +1,45 @@
 [
   {
+    "title": "マイクロソフト、Windows 11の「メモ帳」からCopilotブランドを削除か",
+    "link": "https://japan.cnet.com/article/35246340/",
+    "source": "CNET Japan",
+    "published": "",
+    "summary": "マイクロソフトが提供する「Windows 11」のインサイダー向け最新版では、「メモ帳」アプリなどの主要な箇所から「Copilot」に関連する文言が削除されているという。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35246340/\"><img src=\"https://japan.cnet.com/storage/2026/04/13/3d24725cb0e026181a2dd80a5a4014cc/t/184/138/d/gettyimages-2251534549_1280x960.jpg\" /></a>",
+    "image": "https://japan.cnet.com/storage/2026/04/13/3d24725cb0e026181a2dd80a5a4014cc/t/184/138/d/gettyimages-2251534549_1280x960.jpg",
+    "fetched_at": "2026-04-13 13:53:31",
+    "ja_summary": "Windows 11の「メモ帳」などからCopilotの表示が消えた。\nマイクロソフトがブランド名を削除した模様。\n今後のCopilotの統合方法に変更がある可能性。"
+  },
+  {
+    "title": "Analyzing data with ChatGPT",
+    "link": "https://openai.com/academy/data-analysis",
+    "source": "OpenAI",
+    "published": "Fri, 10 Apr 2026 00:00:00 GMT",
+    "summary": "Learn how to analyze data with ChatGPT by exploring datasets, generating insights, creating visualizations, and turning findings into actionable decisions.",
+    "image": "https://openai.com/favicon.ico",
+    "fetched_at": "2026-04-13 13:53:45",
+    "ja_summary": "・ChatGPTを活用したデータ分析の手順（探索・洞察・可視化）を網羅。\n・分析結果を具体的なビジネス上の意思決定に変換する方法を習得。\n・AIを用いた効率的かつ戦略的なデータ活用スキルの向上。"
+  },
+  {
+    "title": "Proxmox超入門",
+    "link": "https://speakerdeck.com/devops_vtj/proxmoxchao-ru-men",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-04-12T23:52:50-04:00",
+    "summary": "脱VMware！Linux KVMで始める仮想化環境構築超入門 Proxmox編\nAIもあるよ\n\nVMwareのライセンス変更問題で、新しい仮想化基盤としてLinux KVMの利用に注目が集まっています。様々なLinux KVMによる仮想化基盤ソリューションが登場していますが、今回はProxmoxによる仮想化環境構築についてご紹介します。\n主に基本的な仮想マシンを動作させる方法について解説しますが、GPUを使ったAIを動作させる方法についても解説します。",
+    "image": "https://files.speakerdeck.com/presentations/86f9ad8fb18e4e77933ef0dab01fcb88/preview_slide_0.jpg?39063601",
+    "fetched_at": "2026-04-13 13:54:06",
+    "ja_summary": "・VMwareからの移行先として注目される「Proxmox」での仮想化環境構築を解説。\n・仮想マシンの基本操作に加え、GPUを活用したAI環境の構築方法も網羅。\n・Linux KVMベースの安価で強力な仮想化基盤への乗り換えを支援する入門ガイド。"
+  },
+  {
+    "title": "国産LLM「LLM-jp-4」が日本語MT-BenchでGPT-4oを上回った ── 技術的背景と実用性を検証する",
+    "link": "https://qiita.com/nogataka/items/6821e5d530938d269e58",
+    "source": "Qiita (Popular)",
+    "published": "2026-04-08T09:50:20+09:00",
+    "summary": "\n2026年4月3日、国立情報学研究所（NII）が国産LLM「LLM-jp-4」を公開しました。日本語MT-Benchで GPT-4o のスコアを上回ったという発表は、国内外で大きな注目を集めています。\n\nこの記事では、LLM-jp-4 の技術的な中身を掘り下げながら、「なぜ日本語特化モデルが汎用モデルに勝てたのか」「実務で使えるのか」を検証します。\n\n## LLM-jp-4 の発表概要\n\nNII",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYxNjEyOTglMkZjMWUzZmZkNmVhZGExOTY5ZmYzYzQ0YjE0ZmRlMDgxYmNkZTZmNTAwJTJGeF9sYXJnZS5wbmclM0YxNTg0ODQ1NTg0P2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz00ZGRjZmU5NTFjNTMyMzU3NjcyOGUzOTkyOTNmOGRlNQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D246367bff431168e6212d2602a3df494?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUU1JTlCJUJEJUU3JTk0JUEzTExNJUUzJTgwJThDTExNLWpwLTQlRTMlODAlOEQlRTMlODElOEMlRTYlOTclQTUlRTYlOUMlQUMlRTglQUElOUVNVC1CZW5jaCVFMyU4MSVBN0dQVC00byVFMyU4MiU5MiVFNCVCOCU4QSVFNSU5QiU5RSVFMyU4MSVBMyVFMyU4MSU5RiUyMCVFMiU5NCU4MCVFMiU5NCU4MCUyMCVFNiU4QSU4MCVFOCVBMSU5MyVFNyU5QSU4NCVFOCU4MyU4QyVFNiU5OSVBRiVFMyU4MSVBOCVFNSVBRSU5RiVFNyU5NCVBOCVFNiU4MCVBNyVFMyU4MiU5MiVFNiVBNCU5QyVFOCVBOCVCQyVFMyU4MSU5OSVFMyU4MiU4QiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPWZjOTQzNDU3YjIxMjdhOGVjZWM0NjIxZWViMWJhZDJm&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBub2dhdGFrYSZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWE5ODA4YTE0Zjg4Y2I0ZjQ5OWU2ZDA3NGYyY2E2YTNh&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=f20a5fa6eaf3c37b164662cfca190e9c",
+    "fetched_at": "2026-04-13 13:54:08",
+    "ja_summary": "・国立情報学研究所が公開した国産LLM「LLM-jp-4」が、日本語性能でGPT-4oを上回るスコアを記録。\n・日本語特化モデルが汎用モデルを凌駕した背景要因と、実務における活用可能性を検証する。\n・国産AIの実力が世界水準に達したことを示す画期的な成果として注目されている。"
+  },
+  {
     "title": "賢くなかったGoogle Home、ついにGeminiへ刷新　日本語の早期アクセス始動",
     "link": "https://japan.cnet.com/article/35246334/",
     "source": "CNET Japan",
@@ -958,45 +998,5 @@
     "image": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/052100111/040900174/topm.jpg?20220512",
     "fetched_at": "2026-04-12 08:25:51",
     "ja_summary": "・AIの推論速度を劇的に高める「推論専用チップ」の開発競争が激化している。\n・エヌビディアが新製品「Groq 3 LPU」を発表するなど、市場が急速に拡大。\n・従来のメモリー性能の限界（メモリーの壁）を克服し、LLMの実用性を高める鍵として注目されている。"
-  },
-  {
-    "title": "セキュリティ脆弱性を見つける新AI、高性能すぎて公開見送り--「悪用を懸念」とAnthropic",
-    "link": "https://japan.cnet.com/article/35246255/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "米Anthropicは、新たなAIモデル「Claude Mythos Preview」について、サイバーセキュリティ上のリスクや脆弱性を見つけ出す能力が極めて高く、一般公開はできないと明らかにした。代わりに、大手テクノロジー企業やインフラ事業者にこのモデルを提供し、見つかった脆弱性の修正に役立てる方針だ。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35246255/\"><img src=\"https://japan.cnet.com/storage/2026/04/10/5263269e34e4359ef5585b29306286a2/t/184/138/d/project-glasswing.jpeg\" /></a>",
-    "image": "https://japan.cnet.com/storage/2026/04/10/5263269e34e4359ef5585b29306286a2/t/184/138/d/project-glasswing.jpeg",
-    "fetched_at": "2026-04-12 08:26:01",
-    "ja_summary": "・Anthropicがセキュリティ脆弱性を高度に発見できるAI「Claude Mythos Preview」を発表。\n・悪用の危険性が極めて高いため、一般公開を見送り。\n・大手企業やインフラ事業者に限定提供し、システムの防御強化に活用する方針。"
-  },
-  {
-    "title": "4社中核に国産AI開発会社を設立",
-    "link": "https://news.yahoo.co.jp/pickup/6575967?source=rss",
-    "source": "Yahoo!ニュース IT・科学",
-    "published": "Sat, 11 Apr 2026 23:15:31 GMT",
-    "summary": "",
-    "image": "https://s.yimg.jp/images/news-web/versions/20260410-ac63636/all/images/ogp_default.png",
-    "fetched_at": "2026-04-12 08:26:06",
-    "ja_summary": "・国内4社が連携し、国産AIを開発する新会社を設立\n・海外製に依存しない独自の技術基盤を構築\n・産業競争力の強化とAI活用を推進する狙い"
-  },
-  {
-    "title": "DESIGN.md + 壊れたら気づくハーネス - AI向けデザインシステムを「維持できる仕組み」にした記録",
-    "link": "https://zenn.dev/tsubotax/articles/7f0d3693f70e2f",
-    "source": "Zenn Trends",
-    "published": "Sat, 11 Apr 2026 07:06:21 GMT",
-    "summary": "AI-Readyなデザインシステムmelta UIを作った\nmelta UIは、AIエージェント（Claude Code、Cursor等）がUI生成時に参照するためのデザインシステム。Tailwind CSSベースで、28コンポーネント・99デザイントークン・MCPサーバーを備えている。OSSとして公開中。\n\nhttps://melta.tsubotax.com\n普通のデザインシステムとの違いは「AIが読んで、正しいUIを書ける」ことを前提に設計している点。トークンやコンポーネントの仕様を機械可読な形で持ち、禁止パターンを明示し、MCPツール（Claude CodeなどのAIエージェ...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--hSgIdzyw--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:DESIGN.md%2520%252B%2520%25E5%25A3%258A%25E3%2582%258C%25E3%2581%259F%25E3%2582%2589%25E6%25B0%2597%25E3%2581%25A5%25E3%2581%258F%25E3%2583%258F%25E3%2583%25BC%25E3%2583%258D%25E3%2582%25B9%2520-%2520AI%25E5%2590%2591%25E3%2581%2591%25E3%2583%2587%25E3%2582%25B6%25E3%2582%25A4%25E3%2583%25B3%25E3%2582%25B7%25E3%2582%25B9%25E3%2583%2586%25E3%2583%25A0%25E3%2582%2592%25E3%2580%258C%25E7%25B6%25AD%25E6%258C%2581%25E3%2581%25A7%25E3%2581%258D%25E3%2582%258B%25E4%25BB%2595%25E7%25B5%2584%25E3%2581%25BF%25E3%2580%258D%25E3%2581%25AB%25E3%2581%2597%25E3%2581%259F%25E8%25A8%2598%25E9%258C%25B2%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:tsubotax%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2M1OTgxMTEwYzQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-    "fetched_at": "2026-04-12 07:51:54",
-    "ja_summary": "・AIエージェントが正確なUIを生成できるよう設計されたデザインシステム「melta UI」を開発・公開。\n・Tailwind CSSベースで、AIが構造を理解しやすいよう機械可読なトークンやMCPサーバーを備えているのが特徴。\n・壊れた際や誤った実装時に即座に検知する「ハーネス」を導入し、AI利用時のメンテナンス性を担保。"
-  },
-  {
-    "title": "GitHub Copilot CLI で個人タスク管理をやってみる",
-    "link": "https://zenn.dev/microsoft/articles/copilot-task-management",
-    "source": "Zenn Trends",
-    "published": "Sat, 11 Apr 2026 06:55:36 GMT",
-    "summary": "はじめに\n普段、私は仕事の作業メモやドキュメントを git リポジトリで管理していて、タスクは GitHub Issues + GitHub Projects で管理しています。フォルダーの命名規約に issue 番号を含めることでタスクと作業ファイルの紐づけを行い、YAML で工数データを記録し、GitHub Copilot の skill でその使い方を教えているので、Copilot にタスクの状況を聞いたり新しいタスクを作ったりといったことが自然言語で出来るようになっています。\n今回は、その仕組みからタスク管理の部分だけを抜き出したものを再実装してリポジトリとして公開したので、...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--xOzhWpCu--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:GitHub%2520Copilot%2520CLI%2520%25E3%2581%25A7%25E5%2580%258B%25E4%25BA%25BA%25E3%2582%25BF%25E3%2582%25B9%25E3%2582%25AF%25E7%25AE%25A1%25E7%2590%2586%25E3%2582%2592%25E3%2582%2584%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%25BF%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Kazuki%2520Ota%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2MzZDNiN2I3OGYuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Microsoft%2520%2528%25E6%259C%2589%25E5%25BF%2597%2529%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzhmNzg3NDJjNDQuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-    "fetched_at": "2026-04-12 07:51:55",
-    "ja_summary": "GitHub Issuesと連携し、自然言語でタスク管理や状況確認ができるツールを公開。\n作業メモや工数データをGitHubで一元管理する仕組みを効率化したもの。\nCLIからCopilotを活用し、ドキュメント作成とタスク管理をシームレスに行える。"
   }
 ]
