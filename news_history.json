@@ -1,5 +1,35 @@
 [
   {
+    "title": "AGIBOT AI WEEK 2026 まとめ",
+    "link": "https://note.com/npaka/n/n851df4a47f7a",
+    "source": "note (npaka)",
+    "published": "Sat, 11 Apr 2026 05:57:25 +0900",
+    "summary": "<p id=\"68ca14f5-ba27-4501-87ae-782fd02dbda3\" name=\"68ca14f5-ba27-4501-87ae-782fd02dbda3\">「AGIBOT AI WEEK 2026」で発表されたものをまとめました。</p><br /><br /><a href=\"https://note.com/npaka/n/n851df4a47f7a\">続きをみる</a>",
+    "image": "https://assets.st-note.com/production/uploads/images/266470070/rectangle_large_type_2_e918652ed2200319d96c345027f8129c.png?width=800",
+    "fetched_at": "2026-04-13 20:59:20",
+    "ja_summary": "・AGIBOT社が最新のヒューマノイドロボット技術やAIモデルを一挙公開。\n・産業用から汎用型まで、次世代ロボティクスの機能と性能が大幅に向上。\n・「AGIBOT AI WEEK 2026」にて発表された、製品ラインナップと技術アップデートの総まとめ。"
+  },
+  {
+    "title": "Sydney will become Anthropic’s fourth office in Asia-Pacific",
+    "link": "https://www.anthropic.com/news/sydney-fourth-office-asia-pacific",
+    "source": "Anthropic (News)",
+    "published": "Tue, 10 Mar 2026 00:00:00 +0000",
+    "summary": "Sydney will become Anthropic’s fourth office in Asia-Pacific",
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Globe&amp;backgroundColor=sky",
+    "fetched_at": "2026-04-13 20:59:35",
+    "ja_summary": "・AI企業Anthropicがシドニーに新オフィスを開設\n・アジア太平洋地域では4拠点目の展開\n・同地域での事業拡大とAI開発体制を強化"
+  },
+  {
+    "title": "Hacking Physics at 300 KPH - Securing the Cyber-Physical Edge in F1",
+    "link": "https://speakerdeck.com/securitycybergeek/hacking-physics-at-300-kph-securing-the-cyber-physical-edge-in-f1",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-04-12T21:31:13-04:00",
+    "summary": "Formula 1's 2026 technical regulations introduced a 50:50 hybrid power unit architecture that created an attack surface spanning thermal, electrical, and software interdependencies simultaneously. Project Apex addresses the resulting integrity gap: a real-time, physics-aware validation layer that classifies every telemetry event against MCL40's physical envelope, assigns a deterministic severity level, and surfaces anomalies to engineers in under 10 milliseconds - before a sensor fault, software bug, or adversarial input can propagate into a safety-critical decision.",
+    "image": "https://files.speakerdeck.com/presentations/7656aa2eeaae4ac8822a555f04f0c923/preview_slide_0.jpg?39062796",
+    "fetched_at": "2026-04-13 20:59:37",
+    "ja_summary": "F1の2026年新規定で導入される複雑なハイブリッドシステムに対し、物理法則に基づいた新監視技術「Project Apex」が開発された。\nセンサー異常やサイバー攻撃をリアルタイムで検知し、10ミリ秒以内に判定・警告する。\nシステムの安全性と信頼性を飛躍的に向上させ、走行中の致命的な障害を未然に防ぐ。"
+  },
+  {
     "title": "グーグルと日本のサイバー防御強化の取り組み　AI活用とその成果",
     "link": "https://www.watch.impress.co.jp/docs/news/2101339.html",
     "source": "Impress Watch",
@@ -968,35 +998,5 @@
     "image": "https://japan.zdnet.com/storage/2026/04/09/1993b5184514b0bc2d14a68f1b292309/t/184/138/d/20260410_adobestock_574704836_1280x960.jpg",
     "fetched_at": "2026-04-12 16:59:22",
     "ja_summary": "・CTCが業務分析サービス「GenTaskMining」の提供を開始。\n・PC操作履歴を自動収集し、生成AIが分析して業務内容を定量化。\n・可視化されたデータに基づき、効率的な業務改善ポイントを提示。"
-  },
-  {
-    "title": "セールスフォースはAIで中堅・中小企業向け事業を広げられるか",
-    "link": "https://japan.zdnet.com/article/35246249/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "今回は、セールスフォース・ジャパン 常務執行役員 コマーシャル営業統括 グローバルビジネス第2営業統括本部 統括本部長の西田晶子氏と、KPMGコンサルティング 執行役員 Sustainability & Rick Transformationユニットリーダー／パートナーの足立桂輔氏の「明言」を紹介する。\n<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35246249/\"><img src=\"https://japan.zdnet.com/storage/2026/04/09/cf6b53a466504c7ab3474554f5e9228b/t/184/138/d/sp_12matsuoka_260409_l.jpg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2026/04/09/cf6b53a466504c7ab3474554f5e9228b/t/184/138/d/sp_12matsuoka_260409_l.jpg",
-    "fetched_at": "2026-04-12 16:59:22",
-    "ja_summary": "・セールスフォースがAI活用を軸に、中堅・中小企業向けの事業拡大を狙う。\n・セールスフォース幹部とKPMGコンサルティングの専門家が、今後の戦略や展望について明言を交わす。\n・AI導入による中堅・中小企業の成長支援が、同社の今後の重要な柱となる。"
-  },
-  {
-    "title": "Using custom GPTs",
-    "link": "https://openai.com/academy/custom-gpts",
-    "source": "OpenAI",
-    "published": "Fri, 10 Apr 2026 00:00:00 GMT",
-    "summary": "Learn how to build and use custom GPTs to automate workflows, maintain consistent outputs, and create purpose-built AI assistants.",
-    "image": "https://openai.com/favicon.ico",
-    "fetched_at": "2026-04-12 16:59:24",
-    "ja_summary": "・独自のGPTを構築・活用し、業務フローを自動化する手法を習得する\n・AIアシスタントの専門性を高め、出力結果の品質を安定させる\n・目的に特化したAI作成で、業務効率と生産性を向上させる"
-  },
-  {
-    "title": "Introducing The Anthropic Institute",
-    "link": "https://www.anthropic.com/news/the-anthropic-institute",
-    "source": "Anthropic (News)",
-    "published": "Wed, 11 Mar 2026 00:00:00 +0000",
-    "summary": "Introducing The Anthropic Institute",
-    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20Book&amp;backgroundColor=oat",
-    "fetched_at": "2026-04-12 16:59:32",
-    "ja_summary": "AI企業Anthropicが、AIの安全性向上と社会への影響研究を専門に行う「Anthropic Institute」を設立。\n政策立案者や研究者と連携し、AIの責任ある開発と社会実装に向けた提言やガイドライン策定を主導する。\n技術革新と並行して、AIが及ぼすリスクの緩和や倫理的な活用基準の確立を目指す。"
   }
 ]
