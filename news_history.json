@@ -1,5 +1,45 @@
 [
   {
+    "title": "Enterprises power agentic workflows in Cloudflare Agent Cloud with OpenAI",
+    "link": "https://openai.com/index/cloudflare-openai-agent-cloud",
+    "source": "OpenAI",
+    "published": "Mon, 13 Apr 2026 06:00:00 GMT",
+    "summary": "Cloudflare brings OpenAI’s GPT-5.4 and Codex to Agent Cloud, enabling enterprises to build, deploy, and scale AI agents for real-world tasks with speed and security.",
+    "image": "https://openai.com/favicon.ico",
+    "fetched_at": "2026-04-14 21:12:09",
+    "ja_summary": "CloudflareがOpenAIのAIモデルをAgent Cloudに統合。\n企業はAIエージェントを迅速かつ安全に開発・展開可能に。\nこれにより、実用的な業務自動化が加速する。"
+  },
+  {
+    "title": "ChatGPT for operations teams",
+    "link": "https://openai.com/academy/operations",
+    "source": "OpenAI",
+    "published": "Fri, 10 Apr 2026 00:00:00 GMT",
+    "summary": "Learn how operations teams use ChatGPT to streamline workflows, improve coordination, standardize processes, and drive faster execution.",
+    "image": "https://openai.com/favicon.ico",
+    "fetched_at": "2026-04-14 21:12:09",
+    "ja_summary": "要約の生成に失敗しました。"
+  },
+  {
+    "title": "AIコーディング時代に必要なプログラミングスキル",
+    "link": "https://qiita.com/hokutoh/items/cd68b09eccb18c1f7f3d",
+    "source": "Qiita (Popular)",
+    "published": "2026-04-13T23:34:08+09:00",
+    "summary": "# 「もうプログラミングスキルは不要」勢へ\n\n恐らくそれは「プログラミングスキル」ではないです。\nいや単に「プログラミングスキル」という言葉の定義の問題かもしれない。\n\n実際多くの人はPythonの文法、JavaScriptのフレームワーク、SQLのクエリ構文——つまり**特定言語に関する文法知識**をイメージするんじゃないかと思います。\nそれ故、コーディングエージェント全盛時代に、文法知識の重要",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY2NjYzODglMkZhYzg1ZTRiMmYwYTViM2RkYTg3NjBjNzg2M2JkMGE4OGNlYmFiNThmJTJGeF9sYXJnZS5wbmclM0YxNjg2OTA2ODMwP2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz0xNGY2NjdmMWYzNzFlNmFjN2NkMTM3ZTZmY2FiM2FhMw%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D56704323b533337975b53f9c326a00ac?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9QUklRTMlODIlQjMlRTMlODMlQkMlRTMlODMlODclRTMlODIlQTMlRTMlODMlQjMlRTMlODIlQjAlRTYlOTklODIlRTQlQkIlQTMlRTMlODElQUIlRTUlQkYlODUlRTglQTYlODElRTMlODElQUElRTMlODMlOTclRTMlODMlQUQlRTMlODIlQjAlRTMlODMlQTklRTMlODMlOUYlRTMlODMlQjMlRTMlODIlQjAlRTMlODIlQjklRTMlODIlQUQlRTMlODMlQUImdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz0zYWQwNDYwNTQ1NjQ5OWY5NmYxZjY3NDY3MTRiZGU3OA&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBob2t1dG9oJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9MjFmZjYyNjEwMGMzMWVlMDAyMjI3ZDIyNmQyOTQ2Zjk&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=b38b60c4042c0e1f289e488b7cb8d600",
+    "fetched_at": "2026-04-14 21:12:30",
+    "ja_summary": "要約の生成に失敗しました。"
+  },
+  {
+    "title": "AIで実装は速くなった。でもチーム開発が逆に難しくなった理由",
+    "link": "https://qiita.com/engchina/items/5a3fad5ec1c80a8be715",
+    "source": "Qiita (Popular)",
+    "published": "2026-04-13T03:33:56+09:00",
+    "summary": "## 先に結論\n\nAIを導入すると、実装スピードは確実に上がります。\nただ、チーム開発で本当に問題になるのは、コードを書く速さではなく**コードを理解し、判断を共有する速さ**です。\n\n今回読んだ2本の記事から得た学びを一言でまとめると、次の3つでした。\n\n* 仕様書は「ずっと保守する正本」ではなく、「認識を揃えるための起点」として使う\n* AI時代のレビューは、「細かい指摘」より「なぜその実装な",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYzOTMyNzgxJTJGOTA5ODgyYWQ5YTcwNWVmZjI2ZmM5NDBmMzg0MzQwMWU3OWQyNjY4YyUyRnhfbGFyZ2UucG5nJTNGMTc2OTAzODc0OD9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NjczZTk1ZDQ4MzQ5ZTQxOTY1ZTM2ZjBlNTRlYmM0Nzk%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYzMDk1NWZhN2YwMzlhODVjNDQ5ZmY0ODBhMmE3ZGJjNWQ5ZmY1YWIwJTJGb3JpZ2luYWwuanBnJTNGMTQ1MjE0NTY4Mz9peGxpYj1yYi00LjAuMCZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz0yYjVlN2VmYzdkMGI4OGNjOGRlOTIyYzFmZTQ3YzJhNQ%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3Dbaa201298ba6e7eb53ad57b1c6079b32?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9QUklRTMlODElQTclRTUlQUUlOUYlRTglQTMlODUlRTMlODElQUYlRTklODAlOUYlRTMlODElOEYlRTMlODElQUElRTMlODElQTMlRTMlODElOUYlRTMlODAlODIlRTMlODElQTclRTMlODIlODIlRTMlODMlODElRTMlODMlQkMlRTMlODMlQTAlRTklOTYlOEIlRTclOTklQkElRTMlODElOEMlRTklODAlODYlRTMlODElQUIlRTklOUIlQTMlRTMlODElOTclRTMlODElOEYlRTMlODElQUElRTMlODElQTMlRTMlODElOUYlRTclOTAlODYlRTclOTQlQjEmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz05ZmY1NmVhNzUxMjEyMDJlMzdjMzAyZTMwMWU0MDkyYg&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBlbmdjaGluYSZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWM1MTU1ODVkZTE0NzU1ZjlkMjcwYjJlZGU2ZTljYTNl&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=5pel5pys44Kq44Op44Kv44Or5qCq5byP5Lya56S-&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=01737271e6e9abb23b8c5dd36ee0b202",
+    "fetched_at": "2026-04-14 21:12:32",
+    "ja_summary": "要約の生成に失敗しました。"
+  },
+  {
     "title": "グーグルと日本のサイバー防御強化の取り組み　AI活用とその成果",
     "link": "https://www.watch.impress.co.jp/docs/news/2101339.html",
     "source": "Impress Watch",
@@ -958,45 +998,5 @@
     "image": "https://www.digital.go.jp/themes/custom/gov_theme_da_2023/assets/images/ogp.png",
     "fetched_at": "2026-04-14 06:07:50",
     "ja_summary": "・政府の「第3回先進的AI利活用アドバイザリーボード」の議事要旨が公開された。\n・AI利活用における安全性の確保や社会実装に向けた議論の内容が確認できる。\n・詳細は公式サイトの議事要旨ページから閲覧可能。"
-  },
-  {
-    "title": "Anthropic invests $100 million into the Claude Partner Network",
-    "link": "https://www.anthropic.com/news/claude-partner-network",
-    "source": "Anthropic (News)",
-    "published": "Thu, 12 Mar 2026 00:00:00 +0000",
-    "summary": "Anthropic invests $100 million into the Claude Partner Network",
-    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20ShapeBuild&amp;backgroundColor=fig",
-    "fetched_at": "2026-04-14 06:07:57",
-    "ja_summary": "・Anthropic社が「Claude Partner Network」へ1億ドルを投資。\n・エコシステムの拡大とパートナー企業によるClaude活用を促進。\n・AI開発における強固な基盤構築と競争力強化を図る。"
-  },
-  {
-    "title": "ウエルシアも導入のAI面接／パナソニック家電1位／ハンガリー選挙の波紋（2026年4月14日版） (日経ビジネスAUDIOモーニング)",
-    "link": "https://business.nikkei.com/atcl/audio/22/00001/041300856/",
-    "source": "日経ビジネス 最新",
-    "published": "",
-    "summary": "ウエルシアも導入のAI面接、企業は好感触も学生に抵抗感も　個人情報の扱いにリスク／パナソニックがソニー上回り家電1位　8万円ドライヤー人気が映す新ブランド戦略／ハンガリー・オルバン氏、トランプ氏支援でも選挙で大敗　新政権の「親EU」化に疑問符、他",
-    "image": "https://business.nikkei.com/atcl/audio/22/00001/041300856/fb.jpg",
-    "fetched_at": "2026-04-14 05:00:43",
-    "ja_summary": "・ウエルシアがAI面接を導入、企業側の効率化と学生側の抵抗感や個人情報リスクが課題に。\n・パナソニックが高級家電戦略でソニーを抜き国内1位へ浮上。\n・ハンガリー選挙でオルバン政権が大敗、欧州の政治情勢に大きな波紋。"
-  },
-  {
-    "title": "ウエルシアも導入のAI面接、企業は好感触も学生に抵抗感も　個人情報の扱いにリスク (新卒は必要か)",
-    "link": "https://business.nikkei.com/atcl/gen/19/00863/040700005/",
-    "source": "日経ビジネス 最新",
-    "published": "",
-    "summary": "新卒採用で活用されるようになってきたAI面接。より学生の資質を見極められることが利点だ。デジタル化で個人情報保護や不正防止が課題となる中、AIによる防止技術も進歩する。",
-    "image": "https://business.nikkei.com/atcl/gen/19/00863/040700005/fb.jpg",
-    "fetched_at": "2026-04-14 05:00:44",
-    "ja_summary": "・新卒採用でAI面接の導入が進み、選考精度の向上が期待されている。\n・一方で、学生側には抵抗感があり、個人情報管理や不正防止が課題。\n・デジタル化の進展に伴い、技術と運用の両面でリスク管理が求められる。"
-  },
-  {
-    "title": "デジタル終活、僕たちが真っ先にChatGPTのアカウントを消したい理由 (ひとつ上の言語化)",
-    "link": "https://business.nikkei.com/atcl/gen/19/00759/032400029/",
-    "source": "日経ビジネス 最新",
-    "published": "",
-    "summary": "会話や行動の記録がクラウドに蓄積されて、それがAIの処理対象になっていく。昔ながらの意味での「完全に私的な空間」って、もうどんどん狭くなってますよね。",
-    "image": "https://business.nikkei.com/atcl/gen/19/00759/032400029/fb.jpg",
-    "fetched_at": "2026-04-14 05:00:45",
-    "ja_summary": "・AIに個人の言動や思考が蓄積されることで、完全なプライバシーの維持が困難になっている。\n・デジタル遺産の管理が課題となる中、情報流出や悪用を防ぐためにアカウント削除を求める声が増加。\n・「私的空間の消失」に対する危機感が、デジタル終活においてChatGPTの記録消去を優先させる要因となっている。"
   }
 ]
