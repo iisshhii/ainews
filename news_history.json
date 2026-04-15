@@ -1,5 +1,55 @@
 [
   {
+    "title": "AIで変わる建築の仕事、イラストで見る20XX年の新職業",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03573/040300008/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "人手不足の深刻化とテクノロジーの急激な進化が相まって、建築界へのAI（人工知能）導入が加速する。変化の波は設計者や技術者の働き方を変え、新たな仕事やビジネスを生み出しそうだ。20XX年には、どのような職業が生まれているだろうか。イラストで予想する。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03573/040300008/60_sns.jpg?20220512",
+    "fetched_at": "2026-04-16 05:09:15",
+    "ja_summary": "AIが建築業界を変革し、人手不足解消と技術進化で新職業が誕生。\n20XX年には、AIと協働する設計者や、AI管理・最適化の専門家などが登場。\nイラストで、未来の建築現場を担う新たな働き方を提示。"
+  },
+  {
+    "title": "AIエージェントの実装に不可欠、LLMの回答精度を高めるプロンプトの書き方",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03568/040800005/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "今回は、AIエージェントを活用するために必要な基礎機能を解説する。まず、従来の機械学習（Machine Learning）とLLMとの違いを整理し、LLMの基礎的な機能である「ユーザープロンプト」と「システムプロンプト」を取り上げる。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03568/040800005/topm.jpg?20220512",
+    "fetched_at": "2026-04-16 05:09:16",
+    "ja_summary": "AIエージェントに不可欠なLLMの回答精度向上には、プロンプトの書き方が重要。\n従来の機械学習との違いを踏まえ、ユーザープロンプトとシステムプロンプトの基本を解説。\nこれにより、AIエージェントの活用に必要な基礎機能が理解できる。"
+  },
+  {
+    "title": "CopilotでOfficeファイルを検索・分析・活用しよう",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03580/00004/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "Microsoft 365 Copilot Chatでは、ファイルをアップロードして内容に対して質問したり、分析することができる。保存ファイルは検索で素早く再利用でき、コピペ不要なので日々の作業効率を大きく高められる。ファイルをアップロードする方法は2つある。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03580/00004/topm.jpg?20220512",
+    "fetched_at": "2026-04-16 05:09:16",
+    "ja_summary": "Officeファイルの検索・分析・活用がCopilotで可能に。\nファイルをアップロードして質問・分析でき、作業効率を大幅向上。\n保存ファイルは素早く検索・再利用可能。"
+  },
+  {
+    "title": "テストエンジニアのAIスキル習得、2030年頃から個性がカギに",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03524/041400006/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "AI（人工知能）時代のテスト工程変革を踏まえ、テストエンジニアはどのようにしてAIネーティブ力を段階的に身につけていけばよいのだろうか。AIの導入・活用には段階があり、段階に応じたスキルの獲得が必要になる。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03524/041400006/topm.jpg?20220512",
+    "fetched_at": "2026-04-16 05:09:17",
+    "ja_summary": "要約の生成に失敗しました。"
+  },
+  {
+    "title": "文章や動画のAI要約は頼み方を工夫しよう、機密情報の扱いには要注意",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03532/030300001/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "長文の資料をすべて読む、会議の録音を再生して手入力で文字起こし…。そんな地道な作業はもはや不要な時代に。本特集ではGeminiなどのAIサービスを駆使してPDFやメール、動画、音声などを瞬時に要約・分析する技を紹介します。面倒な作業はAIに丸投げして、劇的なタイパを実現しましょう。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03532/030300001/topm.jpg?20220512",
+    "fetched_at": "2026-04-16 05:09:17",
+    "ja_summary": "要約の生成に失敗しました。"
+  },
+  {
     "title": "米ブラックロック、コメダHDを「買い」と見たワケ　AI全盛に逆行する真意とは",
     "link": "https://www.itmedia.co.jp/business/articles/2604/15/news030.html",
     "source": "ITmedia ビジネス",
@@ -948,55 +998,5 @@
     "image": "https://media.loom-app.com/loom/2026/04/14/27e9a4de-6b79-4d8c-9f62-729a3556cc90/original.jpg?w=1200&amp;h=630",
     "fetched_at": "2026-04-15 11:27:39",
     "ja_summary": "・高性能なAIモデルの普及に伴うサイバーリスクへの懸念が高まっている。\n・ゴールドマン・サックスは、AI大手アンソロピックと連携を開始。\n・次世代AIの安全性を評価し、高度なサイバーセキュリティ対策を構築する。"
-  },
-  {
-    "title": "Gemini Robotics-ER 1.6 を試す",
-    "link": "https://note.com/npaka/n/n93116b196748",
-    "source": "note (npaka)",
-    "published": "Wed, 15 Apr 2026 09:38:13 +0900",
-    "summary": "<p id=\"ac6775d5-7b9e-4a69-8861-44cc04e32eeb\" name=\"ac6775d5-7b9e-4a69-8861-44cc04e32eeb\">「Gemini Robotics-ER 1.6」を試したのでまとめました。</p><figure id=\"897fbeaa-b41f-4c66-ad03-aa48cd2278b8\" name=\"897fbeaa-b41f-4c66-ad03-aa48cd2278b8\"><blockquote><p id=\"364efb90-b548-435e-8fa8-c4e3a19a2733\" name=\"364efb90-b548-435e-8fa8-c4e3a19a2733\"><strong>・</strong><a href=\"https://github.com/google-gemini/robotics-samples/blob/main/Getting%20Started/gemini_robotics_er.ipynb\" rel=\"nofollow noopener\" target=\"_blank\"><strong>Gemini Quickstart: Gemini Robotics-ER</strong></a></p></blockquote>\n<figcaption></figcaption></figure><br /><a href=\"https://note.com/npaka/n/n93116b196748\">続きをみる</a>",
-    "image": "https://assets.st-note.com/production/uploads/images/267515941/rectangle_large_type_2_fc0266e57cf72088b24f3873ac302193.png?width=800",
-    "fetched_at": "2026-04-15 11:27:44",
-    "ja_summary": "・Googleのロボット制御用AIモデル「Gemini Robotics-ER 1.6」の試用レポート。\n・公開されたサンプルコードを活用し、モデルの性能や使い方を検証。\n・詳細は元記事にて確認可能。"
-  },
-  {
-    "title": "4社中核に国産AI開発会社を設立",
-    "link": "https://news.yahoo.co.jp/pickup/6575967?source=rss",
-    "source": "Yahoo!ニュース IT・科学",
-    "published": "Sat, 11 Apr 2026 23:15:31 GMT",
-    "summary": "",
-    "image": "https://s.yimg.jp/images/news-web/versions/20260414-c39a9bb/all/images/ogp_default.png",
-    "fetched_at": "2026-04-15 11:27:47",
-    "ja_summary": "・国内大手4社が中核となり、国産AI開発に向けた新会社を設立。\n・生成AIの技術基盤を独自に構築し、産業競争力の強化を目指す。\n・海外依存を脱却し、国内のニーズに応じた安全なAI開発を推進する。"
-  },
-  {
-    "title": "オラクル、AIエージェント群「Fusion Agentic Applications」や作成管理ツールを発表",
-    "link": "https://japan.zdnet.com/article/35246404/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "Oracleは、「Fusion Cloud Applications」で22種類の「Fusion Agentic Applications」やAIエージェント作成管理の「Agentic Applications Builder」を発表した。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35246404/\"><img src=\"https://japan.zdnet.com/storage/2026/04/14/7f18d29374acde1dde0e278e54935211/t/184/138/d/oracle-fca-ai_l.jpg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2026/04/14/7f18d29374acde1dde0e278e54935211/t/184/138/d/oracle-fca-ai_l.jpg",
-    "fetched_at": "2026-04-15 11:27:50",
-    "ja_summary": "オラクルがAIエージェント群「Fusion Agentic Applications」を発表。\n顧客業務を自動化・効率化する22種類のAIエージェントと、それらを作成・管理するツールを提供。\nこれにより、企業のAI活用をさらに推進する。"
-  },
-  {
-    "title": "Suno v5以上の品質、商用利用できる日本語対応ローカル音楽生成AI「ACE-Step 1.5 XL」が無料公開（生成AIクローズアップ）",
-    "link": "https://www.techno-edge.net/article/2026/04/13/4986.html",
-    "source": "TechnoEdge",
-    "published": "Mon, 13 Apr 2026 14:20:58 +0900",
-    "summary": "1週間の気になる生成AI技術・研究をいくつかピックアップして解説する連載「生成AIウィークリー」から、特に興味深いAI技術や研究にスポットライトを当てる生成AIクローズアップ。",
-    "image": "https://www.techno-edge.net/imgs/rss/30791.png",
-    "fetched_at": "2026-04-15 11:27:51",
-    "ja_summary": "要約の生成に失敗しました。"
-  },
-  {
-    "title": "Healthcare",
-    "link": "https://openai.com/academy/healthcare",
-    "source": "OpenAI",
-    "published": "Fri, 10 Apr 2026 00:00:00 GMT",
-    "summary": "Explore how clinicians use ChatGPT to support diagnosis, documentation, and patient care with secure, HIPAA-compliant AI tools.",
-    "image": "https://openai.com/favicon.ico",
-    "fetched_at": "2026-04-15 11:27:53",
-    "ja_summary": "要約の生成に失敗しました。"
   }
 ]
