@@ -1,5 +1,85 @@
 [
   {
+    "title": "アドビ、Premiereに色補正の新機能　After EffectsにはAI機能",
+    "link": "https://www.watch.impress.co.jp/docs/news/2101579.html",
+    "source": "Impress Watch",
+    "published": "",
+    "summary": "アドビは15日、ビデオ製品の最新アップデートを発表した。「Adobe Premiere」ではカラーグレーディング機能を刷新し、「Adobe After Effects」ではAI活用のマット作成機能を導入。「Frame.io」ではマウントストレージ機能を展開し、「Adobe Firefly」では動画編集機能や外部AI対応を強化した。",
+    "image": "https://www.watch.impress.co.jp/img/ipw/list/2101/579/01.jpg",
+    "fetched_at": "2026-04-15 23:04:08",
+    "ja_summary": "Premiere Proは色補正機能が刷新され、After EffectsはAIでマット作成が可能になりました。\nFrame.ioにはストレージ機能が追加され、Fireflyは動画編集機能と外部AI対応を強化。\nアドビの主要動画編集ソフトが、AIや新機能で大幅に進化しました。"
+  },
+  {
+    "title": "動画編集ソフト「プレミア」に開発期間3年の大型アップデート。Frame.ioや生成AIにも新機能登場",
+    "link": "https://www.businessinsider.jp/article/2604-adobe-video-tools-update/",
+    "source": "Business Insider Japan",
+    "published": "Wed, 15 Apr 2026 13:00:00 GMT",
+    "summary": "アドビが映像編集ソフト「Premiere」に3年開発の新機能「カラーモード」を搭載。カラーグレーディングをより手軽にします。Frame.io DriveやFireflyの最新アップデートもまとめました。",
+    "image": "https://media.loom-app.com/loom/2026/04/14/9a4d4e28-ffd8-43ab-ba27-c7cd41216cb2/original.jpg?w=1200&amp;h=630",
+    "fetched_at": "2026-04-15 23:04:16",
+    "ja_summary": "要約の生成に失敗しました。"
+  },
+  {
+    "title": "Responsible and safe use of AI",
+    "link": "https://openai.com/academy/responsible-and-safe-use",
+    "source": "OpenAI",
+    "published": "Fri, 10 Apr 2026 00:00:00 GMT",
+    "summary": "Learn how to use AI responsibly with best practices for safety, accuracy, and transparency when using tools like ChatGPT.",
+    "image": "https://openai.com/favicon.ico",
+    "fetched_at": "2026-04-15 23:04:28",
+    "ja_summary": "AIを安全かつ責任ある方法で活用するためのガイド。\nChatGPTなどのツールの利用における、安全性、正確性、透明性のベストプラクティスを紹介。\nAIの賢く、倫理的な使い方を学ぼう。"
+  },
+  {
+    "title": "Research with ChatGPT",
+    "link": "https://openai.com/academy/search-and-deep-research",
+    "source": "OpenAI",
+    "published": "Fri, 10 Apr 2026 00:00:00 GMT",
+    "summary": "Learn how to research with ChatGPT using search and deep research to find up-to-date information, analyze sources, and generate structured insights.",
+    "image": "https://openai.com/favicon.ico",
+    "fetched_at": "2026-04-15 23:04:28",
+    "ja_summary": "ChatGPTで最新情報や構造化された分析結果を効率的に発見・生成する方法を解説。\n検索と深掘りリサーチで、情報収集・分析の質を向上させる。"
+  },
+  {
+    "title": "Prompting fundamentals",
+    "link": "https://openai.com/academy/prompting",
+    "source": "OpenAI",
+    "published": "Fri, 10 Apr 2026 00:00:00 GMT",
+    "summary": "Learn prompting fundamentals and how to write clear, effective prompts to get better, more useful responses from ChatGPT.",
+    "image": "https://openai.com/favicon.ico",
+    "fetched_at": "2026-04-15 23:04:28",
+    "ja_summary": "要約の生成に失敗しました。"
+  },
+  {
+    "title": "VRAM(ビデオメモリ)32GBのローカルLLM環境(AI PC)をコスパ重視で構築してみる",
+    "link": "https://zenn.dev/playree/articles/2376eee1d9d24d",
+    "source": "Zenn Trends",
+    "published": "Tue, 14 Apr 2026 12:36:48 GMT",
+    "summary": "ローカルでそれなりに使えるLLM環境(AI PC)を用意してみようと思い、それならVRAMはやはり32GBは欲しいなということで、コスパ重視の構成を考えて実際に構築してみたという内容になります。\n※2026/04時点での情報です。\n\nコスパ重視\nVRAM 32GBは欲しい\nNVIDIA GPU\n\n\n NVIDIA GeForce RTX 5060 Ti 16GB x2という選択肢\nNVIDIAのGPUで32GBのVRAMを用意しようとすると、選択肢としてはお値段約60万ほど(かそれ以上)のRTX 5090になるかと思います。お高い。。。\nただ今回はコスパ重視ということで、RTX 5060...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--LsL_XMSd--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:VRAM%2528%25E3%2583%2593%25E3%2583%2587%25E3%2582%25AA%25E3%2583%25A1%25E3%2583%25A2%25E3%2583%25AA%252932GB%25E3%2581%25AE%25E3%2583%25AD%25E3%2583%25BC%25E3%2582%25AB%25E3%2583%25ABLLM%25E7%2592%25B0%25E5%25A2%2583%2528AI%2520PC%2529%25E3%2582%2592%25E3%2582%25B3%25E3%2582%25B9%25E3%2583%2591%25E9%2587%258D%25E8%25A6%2596%25E3%2581%25A7%25E6%25A7%258B%25E7%25AF%2589%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25BF%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:playree%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSzc1OVNMOTM4THJqcFl0OUxnSUZKS2NlYThMTVEwbkwyS3oteFBxbUcyQTB3PXM5Ni1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-04-15 23:04:39",
+    "ja_summary": "要約の生成に失敗しました。"
+  },
+  {
+    "title": "手元のGPUを遊ばせないためのジョブスケジューラ入門",
+    "link": "https://zenn.dev/turing_motors/articles/0d528e31b9d8d7",
+    "source": "Zenn Trends",
+    "published": "Tue, 14 Apr 2026 09:00:07 GMT",
+    "summary": "1. はじめに\nジョブスケジューラは、限られた計算資源でタスク順序を整理するためのツールです。実行待ち、資源の競合、状態管理、履歴の追跡などを一貫して扱えるジョブスケジューラは、共有の計算サーバを使うHPC環境（High Performance Computing, いわゆるスパコン）では昔から使われてきました。計算処理が長時間になり、試したいパターンが複雑になるケースでは、多数の計算ジョブを登録・管理することで効率的に実験を回すことができます。\n一方、最近ではClaude CodeやCodexなど、Coding Agentの進化と開発速度の加速により、個人の開発環境でもこのような...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--wm58tTaV--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E6%2589%258B%25E5%2585%2583%25E3%2581%25AEGPU%25E3%2582%2592%25E9%2581%258A%25E3%2581%25B0%25E3%2581%259B%25E3%2581%25AA%25E3%2581%2584%25E3%2581%259F%25E3%2582%2581%25E3%2581%25AE%25E3%2582%25B8%25E3%2583%25A7%25E3%2583%2596%25E3%2582%25B9%25E3%2582%25B1%25E3%2582%25B8%25E3%2583%25A5%25E3%2583%25BC%25E3%2583%25A9%25E5%2585%25A5%25E9%2596%2580%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:ymg_aq%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2VhNmQ4MDk1OGQuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Tech%2520Blog%2520-%2520Turing%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2JlYTNlZmM1ZjYuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-04-15 23:04:40",
+    "ja_summary": "要約の生成に失敗しました。"
+  },
+  {
+    "title": "遠隔で GitHub Copilot CLI を操作する - リモートコントロール機能を試してみた",
+    "link": "https://zenn.dev/microsoft/articles/github-copilot-cli-remote-session",
+    "source": "Zenn Trends",
+    "published": "Tue, 14 Apr 2026 07:26:51 GMT",
+    "summary": "!\n本記事ではプレビュー版の機能を使用しているため、今後のバージョンアップで内容が変わる可能性があります。\nここで記載している内容は執筆時点 (2026/04/14) の情報に基づいています。\n\n!\n本記事は GitHub Copilot を使用して執筆しています。\n\n\n はじめに\n2026/04/13 にリリースされた GitHub Copilot CLI v1.0.25 で、CLIセッションを GitHub.com や GitHub Mobile からリモート操作できるリモートセッション機能が Public Preview として追加されました[1]。\nターミナルで長時間タスクを実行...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--sdBzxy7---/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E9%2581%25A0%25E9%259A%2594%25E3%2581%25A7%2520GitHub%2520Copilot%2520CLI%2520%25E3%2582%2592%25E6%2593%258D%25E4%25BD%259C%25E3%2581%2599%25E3%2582%258B%2520-%2520%25E3%2583%25AA%25E3%2583%25A2%25E3%2583%25BC%25E3%2583%2588%25E3%2582%25B3%25E3%2583%25B3%25E3%2583%2588%25E3%2583%25AD%25E3%2583%25BC%25E3%2583%25AB%25E6%25A9%259F%25E8%2583%25BD%25E3%2582%2592%25E8%25A9%25A6%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Ishiga%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2MzZDNiN2I3OGYuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Microsoft%2520%2528%25E6%259C%2589%25E5%25BF%2597%2529%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSWFzSjhRQTVyZ25PT1l2NGswYmRXX0c5WWttSFlOWXA4aEtGTUVidjhIdkgycD1zOTYtYw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-04-15 23:04:40",
+    "ja_summary": "要約の生成に失敗しました。"
+  },
+  {
     "title": "懸賞金総額が約8億円　AI活用の成果を競う",
     "link": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/040900544/040900001/",
     "source": "日経クロステック 総合",
@@ -918,85 +998,5 @@
     "image": "https://image.itmedia.co.jp/business/articles/2604/15/cover_news025.jpg",
     "fetched_at": "2026-04-15 08:02:47",
     "ja_summary": "・急拡大した「鰻の成瀬」が店舗数を約400から270へ大幅縮小。\n・急激な出店による品質維持や収益性の低下が課題に。\n・今後の存続に向け、AI活用や職人の技術向上によるブランド再構築が急務。"
-  },
-  {
-    "title": "AIエージェント活用率71％に急伸　GMO調査で見えた「業務浸透」",
-    "link": "https://www.itmedia.co.jp/business/articles/2604/14/news029.html",
-    "source": "ITmedia ビジネス",
-    "published": "Tue, 14 Apr 2026 08:30:00 +0900",
-    "summary": "GMOインターネットグループは、同社の国内パートナーを対象に「生成AI活用」実態調査を実施した。その結果……。",
-    "image": "https://image.itmedia.co.jp/business/articles/2604/14/cover_news029.jpg",
-    "fetched_at": "2026-04-15 08:02:49",
-    "ja_summary": "・GMOの調査で、社内のAIエージェント活用率が71％に急伸した。\n・生成AIが業務フローへ本格的に浸透し、日常的なツールとして定着している。\n・生産性向上に向けたAI活用の動きが、企業内で加速している。"
-  },
-  {
-    "title": "「AI職務経歴書」はこう見破った　人事が見落とした“キラキラ経歴”のワナ",
-    "link": "https://www.itmedia.co.jp/business/articles/2604/14/news015.html",
-    "source": "ITmedia ビジネス",
-    "published": "Tue, 14 Apr 2026 08:00:00 +0900",
-    "summary": "AIで経歴書を作る候補者が増えている。AIを使うことで発生する問題は、時々「うそ」が混ざってしまうことである。選考時に、どう見極めるべきなのか？",
-    "image": "https://image.itmedia.co.jp/business/articles/2604/14/cover_news015.jpg",
-    "fetched_at": "2026-04-15 08:02:50",
-    "ja_summary": "・AI作成の職務経歴書には事実と異なる「うそ」が混入するリスクがある。\n・採用担当者はAIの生成物に頼りすぎず、内容の信憑性を厳しく精査する必要がある。\n・面接などを通じ、経歴の裏付けを確実に確認することが重要。"
-  },
-  {
-    "title": "Gemini、「パーソナルインテリジェンス」を日本で提供開始--検索・Gmail・YouTube履歴も参照",
-    "link": "https://japan.cnet.com/article/35246414/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "Googleは4月14日、対話AIアプリ「Gemini」において、ユーザーごとの利用状況や各種Googleサービス上の情報を活用し、回答を最適化する新機能「パーソナル インテリジェンス」を日本でも提供開始したと発表した。対象はまずGoogle AI Plus、Pro、Ultraの個人アカウントで、数週間以内に無料版ユーザーにも拡大する予定だ。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35246414/\"><img src=\"https://japan.cnet.com/storage/2026/04/15/53d7a806f46005de04ca30207ba516f3/t/184/138/d/gemini-logo-gettyimages-2246856729_1280x960.jpg\" /></a>",
-    "image": "https://japan.cnet.com/storage/2026/04/15/53d7a806f46005de04ca30207ba516f3/t/184/138/d/gemini-logo-gettyimages-2246856729_1280x960.jpg",
-    "fetched_at": "2026-04-15 08:03:22",
-    "ja_summary": "・対話AI「Gemini」が、ユーザーの検索やGmail、YouTube履歴に基づき回答を最適化する新機能の提供を開始。\n・まずは有料プランの個人アカウントから開始し、数週間以内に無料ユーザーへも順次拡大予定。\n・個人の利用状況と連携することで、よりパーソナライズされた回答が可能になる。"
-  },
-  {
-    "title": "マイクロソフト、「Copilot」を刷新へ　エージェント型AIでOpenClawに対抗",
-    "link": "https://japan.cnet.com/article/35246380/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "マイクロソフトはエージェント型AI に注力し、AIアシスタント「Copilot」の大幅な刷新を計画しているという。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35246380/\"><img src=\"https://japan.cnet.com/storage/2026/04/13/3d24725cb0e026181a2dd80a5a4014cc/t/184/138/d/gettyimages-2251534549_1280x960.jpg\" /></a>",
-    "image": "https://japan.cnet.com/storage/2026/04/13/3d24725cb0e026181a2dd80a5a4014cc/t/184/138/d/gettyimages-2251534549_1280x960.jpg",
-    "fetched_at": "2026-04-15 08:03:22",
-    "ja_summary": "・マイクロソフトがAIアシスタント「Copilot」を大幅刷新。\n・自律的にタスクをこなす「エージェント型AI」へと進化させる。\n・競合するOpenAIに対抗し、AIサービスの優位性を強化する狙い。"
-  },
-  {
-    "title": "Gemini Robotics-ER 1.6 の概要",
-    "link": "https://note.com/npaka/n/nab5ab4cd7858",
-    "source": "note (npaka)",
-    "published": "Wed, 15 Apr 2026 07:21:05 +0900",
-    "summary": "<p id=\"4741aa61-8e54-4ccf-b717-70ce47af9715\" name=\"4741aa61-8e54-4ccf-b717-70ce47af9715\">以下の記事が面白かったので、簡単にまとめました。</p><figure id=\"78beab0d-9bfe-4f2d-b122-662eead16e55\" name=\"78beab0d-9bfe-4f2d-b122-662eead16e55\"><blockquote><p id=\"aa54e9dc-f49b-4bac-9a3a-db8aff3da0b7\" name=\"aa54e9dc-f49b-4bac-9a3a-db8aff3da0b7\"><strong>・</strong><a href=\"https://deepmind.google/blog/gemini-robotics-er-1-6/\" rel=\"nofollow noopener\" target=\"_blank\"><strong>Gemini Robotics-ER 1.6: Powering real-world robotics tasks through enhanced embodied reasoning</strong></a></p></blockquote>\n<figcaption></figcaption></figure><br /><a href=\"https://note.com/npaka/n/nab5ab4cd7858\">続きをみる</a>",
-    "image": "https://assets.st-note.com/production/uploads/images/267499227/rectangle_large_type_2_b2ed0f5fbac1718b59c9e79453ccdce2.png?width=800",
-    "fetched_at": "2026-04-15 08:03:25",
-    "ja_summary": "Googleの「Gemini Robotics-ER 1.6」は、ロボットの推論能力を大幅に強化したモデルです。\n視覚と言語を高度に統合し、現実世界の複雑なタスクをより正確に理解・実行できるようになりました。\nロボットが状況判断から動作計画までを自律的に行えるようになり、実用性が飛躍的に向上しています。"
-  },
-  {
-    "title": "AIは人間の「粘り強さ」奪う 実証",
-    "link": "https://news.yahoo.co.jp/pickup/6575938?source=rss",
-    "source": "Yahoo!ニュース IT・科学",
-    "published": "Sat, 11 Apr 2026 12:10:34 GMT",
-    "summary": "",
-    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/11/57ced79ba09e03c9e5e66be1fa0df232cbc338975438856944afe57726c61b33.jpg",
-    "fetched_at": "2026-04-15 08:03:30",
-    "ja_summary": "・AIによる効率的な解答提供が、人間の試行錯誤する力や粘り強さを低下させることが判明。\n・答えを即座に得る環境が、課題解決に向けた思考の持続力を奪うリスクがある。\n・利便性の高いAI活用には、思考を放棄しないための自律的なプロセス管理が不可欠。"
-  },
-  {
-    "title": "「Linux」カーネルでAI支援コードに関する新ルールを導入",
-    "link": "https://japan.zdnet.com/article/35246388/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "Linus Torvalds氏とメンテナーたちは、Linuxカーネルの新しいAIポリシーを最終決定した。ただ、AI生成コードが抱える最大の課題には対処できていない可能性がある。\n<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35246388/\"><img src=\"https://japan.zdnet.com/storage/2026/04/14/0469413c2b2b9e13a4766cafd1e022b7/t/184/138/d/gettyimages-1443552838_l.jpg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2026/04/14/0469413c2b2b9e13a4766cafd1e022b7/t/184/138/d/gettyimages-1443552838_l.jpg",
-    "fetched_at": "2026-04-15 08:03:31",
-    "ja_summary": "・Linuxカーネル開発において、AI生成コードの利用に関する新たなルールが策定された。\n・AI導入による効率化を図る一方、AI特有の品質や権利などの課題は完全には解決されていない。"
-  },
-  {
-    "title": "火炎瓶の次は発砲。OpenAIのサム・アルトマン邸を銃撃の2人が逮捕。3日間で2度目の襲撃事件",
-    "link": "https://www.techno-edge.net/article/2026/04/14/4987.html",
-    "source": "TechnoEdge",
-    "published": "Tue, 14 Apr 2026 12:37:43 +0900",
-    "summary": "OpenAIのサム・アルトマンCEOの邸宅は、先週金曜日に火炎瓶が投げ込まれ、敷地の門が焼ける被害を被ったばかりですが、こんどは同邸宅に向けた発砲事件が発生しました。",
-    "image": "https://www.techno-edge.net/imgs/rss/30814.jpg",
-    "fetched_at": "2026-04-15 08:03:33",
-    "ja_summary": "・OpenAIのサム・アルトマン氏の邸宅で、3日間にわたり火炎瓶の投擲と銃撃事件が発生。\n・いずれの事件でも容疑者2名が逮捕された。\n・短期間で繰り返された襲撃により、同氏の安全が脅かされている。"
   }
 ]
