@@ -1,5 +1,55 @@
 [
   {
+    "title": "Muse Spark の概要",
+    "link": "https://note.com/npaka/n/n15faa774e781",
+    "source": "note (npaka)",
+    "published": "Fri, 10 Apr 2026 07:10:02 +0900",
+    "summary": "<p id=\"ba86d70e-ef1a-4ae5-84e2-6434e082aa84\" name=\"ba86d70e-ef1a-4ae5-84e2-6434e082aa84\">「Muse Spark」の概要をまとめました。</p><figure id=\"e6732c15-a84a-4728-8c7f-8db7a7246ee1\" name=\"e6732c15-a84a-4728-8c7f-8db7a7246ee1\"><blockquote><p id=\"d30ab1f6-ddac-417a-820f-ec6c2a28cf74\" name=\"d30ab1f6-ddac-417a-820f-ec6c2a28cf74\"><strong>・</strong><a href=\"https://ai.meta.com/blog/introducing-muse-spark-msl/\" rel=\"nofollow noopener\" target=\"_blank\"><strong>Introducing Muse Spark: Scaling Towards Personal Superintelligence</strong></a></p></blockquote>\n<figcaption></figcaption></figure><br /><a href=\"https://note.com/npaka/n/n15faa774e781\">続きをみる</a>",
+    "image": "https://assets.st-note.com/production/uploads/images/266224606/rectangle_large_type_2_89ad1896bd6e3fe4511565d6c20d1fcf.jpeg?width=800",
+    "fetched_at": "2026-04-16 02:46:21",
+    "ja_summary": "Muse Sparkは、AI開発を加速するための新しいAIモデルです。\nMeta AIが開発し、パーソナルAIの実現を目指しています。\nこの記事では、その概要がまとめられています。"
+  },
+  {
+    "title": "JR東 駅ホーム人物検知にAI導入へ",
+    "link": "https://news.yahoo.co.jp/pickup/6576086?source=rss",
+    "source": "Yahoo!ニュース IT・科学",
+    "published": "Sun, 12 Apr 2026 23:40:16 GMT",
+    "summary": "",
+    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/13/bc85c5824ce7ad26cc91dac698c8492620edb9b64501ec80166b0d3a03113353.jpg",
+    "fetched_at": "2026-04-16 02:46:22",
+    "ja_summary": "要約の生成に失敗しました。"
+  },
+  {
+    "title": "The next evolution of the Agents SDK",
+    "link": "https://openai.com/index/the-next-evolution-of-the-agents-sdk",
+    "source": "OpenAI",
+    "published": "Wed, 15 Apr 2026 10:00:00 GMT",
+    "summary": "OpenAI updates the Agents SDK with native sandbox execution and a model-native harness, helping developers build secure, long-running agents across files and tools.",
+    "image": "https://openai.com/favicon.ico",
+    "fetched_at": "2026-04-16 02:46:28",
+    "ja_summary": "要約の生成に失敗しました。"
+  },
+  {
+    "title": "Brainstorming with ChatGPT",
+    "link": "https://openai.com/academy/brainstorming",
+    "source": "OpenAI",
+    "published": "Fri, 10 Apr 2026 00:00:00 GMT",
+    "summary": "Learn how to use ChatGPT to brainstorm ideas, organize thinking, and turn rough concepts into structured, actionable plans.",
+    "image": "https://openai.com/favicon.ico",
+    "fetched_at": "2026-04-16 02:46:29",
+    "ja_summary": "ChatGPTでアイデア発想、思考整理、計画立案を効率化。\n具体的な活用法を学ぶことで、アイデアを形にする力を高めます。\nビジネスの現場で役立つ、実践的なスキル習得を目指します。"
+  },
+  {
+    "title": "MCP vs Skills論争に決着をつける試み。AIエージェントの「拡張手段」を実装・設計・セキュリティで徹底比較する",
+    "link": "https://qiita.com/miruky/items/32314a0d9eb8c154dc95",
+    "source": "Qiita (Popular)",
+    "published": "2026-04-11T00:49:30+09:00",
+    "summary": "![asset_33v9vyfgz_1775834516257.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3637204/8f142ebe-53ed-4402-9564-1453370e0d8f.png)\n\n\n## はじめに\n\nこんばんは、mirukyです。\n\n「MCPはもう死んだ」「Skillsが新しい標準だ",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGMzYzNzIwNCUyRnByb2ZpbGUtaW1hZ2VzJTJGMTc3NDQ0NTA3MD9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NWY2OTc3NjFmNDZhMTA4YTgyMjNmMDEzODFkMGVmZTY%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Db2bc8d820e2037057c6470791c40d1f8?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9TUNQJTIwdnMlMjBTa2lsbHMlRTglQUIlOTYlRTQlQkElODklRTMlODElQUIlRTYlQjElQkElRTclOUQlODAlRTMlODIlOTIlRTMlODElQTQlRTMlODElOTElRTMlODIlOEIlRTglQTklQTYlRTMlODElQkYlRTMlODAlODJBSSVFMyU4MiVBOCVFMyU4MyVCQyVFMyU4MiVCOCVFMyU4MiVBNyVFMyU4MyVCMyVFMyU4MyU4OCVFMyU4MSVBRSVFMyU4MCU4QyVFNiU4QiVBMSVFNSVCQyVCNSVFNiU4OSU4QiVFNiVBRSVCNSVFMyU4MCU4RCVFMyU4MiU5MiVFNSVBRSU5RiVFOCVBMyU4NSVFMyU4MyVCQiVFOCVBOCVBRCVFOCVBOCU4OCVFMyU4MyVCQiVFMyU4MiVCQiVFMyU4MiVBRCVFMyU4MyVBNSVFMyU4MyVBQSVFMyU4MyU4NiVFMyU4MiVBMyVFMyU4MSVBNyVFNSVCRSVCOSVFMiU4MCVBNiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTliNGE2OTU5NWIzOTFmYmZjZTdmYWJiYmRjMGUzNDgx&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBtaXJ1a3kmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1iMWMwZjM0MGFkNTI5NmU1ZmNjNDFiZDQxMGY0YWRjYw&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=28f1da7718cbf9d4d00d5652e147a5f3",
+    "fetched_at": "2026-04-16 02:46:57",
+    "ja_summary": "要約の生成に失敗しました。"
+  },
+  {
     "title": "AI衛星100万基で「宇宙データセンター」建設――マスク氏の夢はかなうか？　頓挫した「Microsoftの計画」から考える",
     "link": "https://www.itmedia.co.jp/business/articles/2604/15/news042.html",
     "source": "ITmedia ビジネス",
@@ -948,55 +998,5 @@
     "image": "https://openai.com/favicon.ico",
     "fetched_at": "2026-04-15 11:27:53",
     "ja_summary": "マーケティングチームはChatGPTを活用し、キャンペーン企画、コンテンツ作成、効果分析を効率化。アイデアから実行までを迅速に進める。"
-  },
-  {
-    "title": "Zero-Downtime Migration: Moving a Massive, Historic iOS App from CocoaPods to SPM and Tuist without Stopping Feature Delivery",
-    "link": "https://speakerdeck.com/kagemiku/zero-downtime-migration-moving-a-massive-historic-ios-app-from-cocoapods-to-spm-and-tuist-without-stopping-feature-delivery",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-04-14T21:10:06-04:00",
-    "summary": "Presentation slide used in try! Swift Tokyo 2026 (https://tryswift.jp/en/)\n---\nTo ensure business continuity ahead of the 2026 CocoaPods sunset, our mobile team migrated external dependencies and the multi-module project generation process of a 14-year-old iOS application with over 500,000 lines of mixed Objective-C and Swift code. The project involved decoupling 60+ external dependencies and 70+ internal modules from a legacy CocoaPods setup that was deeply intertwined with the app’s structure. In just six months, a foundation team of two engineers achieved a “zero-downtime” transition to Tuist and SPM without disrupting the ongoing feature delivery of the wider development team. This session explores the strategy for large-scale automation, solutions for complex dependency graphs, and the custom “guard rail” tools that protected the production environment during this high-risk shift.",
-    "image": "https://files.speakerdeck.com/presentations/dc3f7ec738c24e79a5b2e2557dadb1cc/preview_slide_0.jpg?39087304",
-    "fetched_at": "2026-04-15 11:28:05",
-    "ja_summary": "要約の生成に失敗しました。"
-  },
-  {
-    "title": "米ブラックロック、コメダHDを「買い」と見たワケ　AI全盛に逆行する真意とは",
-    "link": "https://www.itmedia.co.jp/business/articles/2604/15/news030.html",
-    "source": "ITmedia ビジネス",
-    "published": "Wed, 15 Apr 2026 08:00:00 +0900",
-    "summary": "資産運用大手の米ブラックロックが、コメダHDの株式の大量保有に踏み切った。AIブームの中、なぜ今「喫茶店」に投資するのか？",
-    "image": "https://image.itmedia.co.jp/business/articles/2604/15/cover_news030.png",
-    "fetched_at": "2026-04-15 08:57:47",
-    "ja_summary": "・米ブラックロックがコメダHDの株式を大量取得した。\n・AIなどの先端技術とは対極にある、安定した実需を持つ「喫茶店」の堅実性を評価。\n・成長性と安定性のバランスを重視する投資戦略の一環と見られる。"
-  },
-  {
-    "title": "マイクロソフト、Windows 11の「メモ帳」からCopilotブランドを削除か",
-    "link": "https://japan.cnet.com/article/35246340/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "マイクロソフトが提供する「Windows 11」のインサイダー向け最新版では、「メモ帳」アプリなどの主要な箇所から「Copilot」に関連する文言が削除されているという。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35246340/\"><img src=\"https://japan.cnet.com/storage/2026/04/13/3d24725cb0e026181a2dd80a5a4014cc/t/184/138/d/gettyimages-2251534549_1280x960.jpg\" /></a>",
-    "image": "https://japan.cnet.com/storage/2026/04/13/3d24725cb0e026181a2dd80a5a4014cc/t/184/138/d/gettyimages-2251534549_1280x960.jpg",
-    "fetched_at": "2026-04-15 08:58:06",
-    "ja_summary": "・Windows 11の最新テスト版にて、「メモ帳」などからCopilot関連の表記が削除された。\n・マイクロソフトによるブランド名称や機能提供の見直しの一環とみられる。"
-  },
-  {
-    "title": "賢くなかったGoogle Home、ついにGeminiへ刷新　日本語の早期アクセス始動",
-    "link": "https://japan.cnet.com/article/35246334/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "Googleは、日本向けに「Gemini for Home」の早期アクセス提供を順次始めた。スマートディスプレイやスピーカー、カメラ、Google Homeアプリなどを対象に、家庭内のAI体験を強化する。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35246334/\"><img src=\"https://japan.cnet.com/storage/2026/04/13/facf699b14b7f16e5c93fb03b780e974/t/184/138/d/2026-04-13_10.16の画像.jpeg\" /></a>",
-    "image": "https://japan.cnet.com/storage/2026/04/13/facf699b14b7f16e5c93fb03b780e974/t/184/138/d/2026-04-13_10.16の画像.jpeg",
-    "fetched_at": "2026-04-15 08:58:06",
-    "ja_summary": "・Google Homeが最新AI「Gemini」へ刷新され、日本で早期アクセスを開始。\n・スマートスピーカーやGoogle Homeアプリ等の操作性がAIで大幅に強化。\n・家庭内のデバイス連携や対話体験がより賢く進化する。"
-  },
-  {
-    "title": "私は中国人のAIプロダクトマネージャーです。OpenClawで6人のAI従業員を作りました。以前よりもずっと多く働いて、はるかに疲れています",
-    "link": "https://www.businessinsider.jp/article/2604-chinese-product-manager-6-ai-employees-openclaw-hustle-lobster/",
-    "source": "Business Insider Japan",
-    "published": "Tue, 14 Apr 2026 23:00:00 GMT",
-    "summary": "ある中国人プロダクトマネージャーは、テック業界で流行するオープンソースのAIエージェント「OpenClaw」を使って6人のAI従業員を作りました。生産性は飛躍的に向上しましたが、同時に彼女の疲労も増大したと語ります。",
-    "image": "https://media.loom-app.com/loom/2026/04/14/89db8782-99c5-4a02-bd43-40e9290ccbcf/original.jpg?w=1200&amp;h=630",
-    "fetched_at": "2026-04-15 08:58:07",
-    "ja_summary": "・AIエージェント「OpenClaw」で6人のAI従業員を導入し、生産性が劇的に向上。\n・AIの管理・調整業務が激増し、以前より多忙で疲弊する事態に。\n・AI活用が効率化をもたらす一方で、新たなマネジメント負荷という課題が浮き彫りになった。"
   }
 ]
