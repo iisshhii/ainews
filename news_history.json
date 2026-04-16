@@ -1,5 +1,85 @@
 [
   {
+    "title": "グーグル、読み上げモデル「Gemini 3.1 Flash TTS」　抑揚調整できる音声タグ",
+    "link": "https://www.watch.impress.co.jp/docs/news/2102134.html",
+    "source": "Impress Watch",
+    "published": "",
+    "summary": "Googleは15日(米国時間)、テキスト読み上げモデル「Gemini 3.1 Flash TTS」を提供開始した。開発者向けにGemini APIとGoogle AI Studioでプレビュー提供するほか、企業向けにVertex AI、Workspaceユーザー向けにGoogle Vidsでも順次展開する。",
+    "image": "https://www.watch.impress.co.jp/img/ipw/list/2102/134/1.jpg",
+    "fetched_at": "2026-04-17 08:57:02",
+    "ja_summary": "・Googleがテキスト読み上げモデル「Gemini 3.1 Flash TTS」の提供を開始。\n・AIによる自然な抑揚調整が可能な音声合成技術を搭載。\n・開発者向けAPIやGoogle Vidsなど、各プラットフォームで順次利用可能。"
+  },
+  {
+    "title": "スターバックス、ChatGPTで「今の気分」に最適な一杯を提案可能に",
+    "link": "https://japan.cnet.com/article/35246505/",
+    "source": "CNET Japan",
+    "published": "",
+    "summary": "Starbucks（スターバックス）で毎日コーヒーを飲みたい人は、次の一杯を「ChatGPT」に相談できるようになる。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35246505/\"><img src=\"https://japan.cnet.com/storage/2026/04/16/e20e06a3802fb701711b326b758afe07/t/184/138/d/promo-image-for-starbucks-and-chatgpt-collab_1280x960.jpg\" /></a>",
+    "image": "https://japan.cnet.com/storage/2026/04/16/e20e06a3802fb701711b326b758afe07/t/184/138/d/promo-image-for-starbucks-and-chatgpt-collab_1280x960.jpg",
+    "fetched_at": "2026-04-17 08:57:05",
+    "ja_summary": "スターバックスがChatGPTと連携し、ユーザーの「今の気分」に合わせて最適なコーヒーを提案する新機能を開始。\nAIとの対話を通じて、自分好みの新しい一杯を簡単に見つけられるようになる。"
+  },
+  {
+    "title": "OpenAI、「Codex Desktop」をアップデート--開発者以外も生産性向上を",
+    "link": "https://japan.zdnet.com/article/35246535/",
+    "source": "ZDNET Japan",
+    "published": "",
+    "summary": "コーディングツールから生産性向上ツールへと進化を遂げた「Codex Desktop」は、PC制御機能、自動化メモリー、プラグイン対応を追加した。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35246535/\"><img src=\"https://japan.zdnet.com/storage/2026/04/17/15cb1625cb7218e2bbda8e5967b21675/t/184/138/d/sidebar-with-artifact-panel_l.jpg\" /></a>",
+    "image": "https://japan.zdnet.com/storage/2026/04/17/15cb1625cb7218e2bbda8e5967b21675/t/184/138/d/sidebar-with-artifact-panel_l.jpg",
+    "fetched_at": "2026-04-17 08:57:16",
+    "ja_summary": "OpenAIの「Codex Desktop」がアップデートされ、PC制御や自動化機能で開発者以外も使えるツールに進化。\nプラグイン対応やメモリー機能の追加により、日常的な業務効率化を強力にサポートする。"
+  },
+  {
+    "title": "「オラクルは50年以上データと信頼を支えている」--シシリアCEO、AI時代の役割を語る",
+    "link": "https://japan.zdnet.com/article/35246519/",
+    "source": "ZDNET Japan",
+    "published": "",
+    "summary": "日本オラクルが「Oracle AI World Tour Tokyo」を開催した。Oracle 最高経営責任者のMike Sicilia氏や日本オラクル 社長の三澤智光氏ら陣と日本の顧客らが「ソブリン」（主権）の重要性を織り交ぜながらAIの本格的な活用時代への展望を語った。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35246519/\"><img src=\"https://japan.zdnet.com/storage/2026/04/16/beb5b5de8cf8a7e6bc59eebee20ea040/t/184/138/d/oaiwt_tokyo_l.jpg\" /></a>",
+    "image": "https://japan.zdnet.com/storage/2026/04/16/beb5b5de8cf8a7e6bc59eebee20ea040/t/184/138/d/oaiwt_tokyo_l.jpg",
+    "fetched_at": "2026-04-17 08:57:16",
+    "ja_summary": "・日本オラクルが「Oracle AI World Tour Tokyo」を開催し、AI活用の展望を議論。\n・CEOらは、50年以上の信頼性と「ソブリン（主権）」を重視したAI戦略を強調。\n・企業が安全にAIを活用するための、データ主権を確保したインフラの重要性を発信。"
+  },
+  {
+    "title": "「1.58ビットに進化したから8GBで十分ですよ。任せてくださいよ」とBonsaiが言うのでMacBook Neoに組み込んでその性能差を体感。iPhoneでも楽々動くしで、ローカルAIが超進化中（CloseBox）",
+    "link": "https://www.techno-edge.net/article/2026/04/17/4997.html",
+    "source": "TechnoEdge",
+    "published": "Fri, 17 Apr 2026 08:23:29 +0900",
+    "summary": "2週間前、「1ビットLLMのBonsai 8Bが8GBのMacBook Neoで爆速だった」という記事を書きました。1.1GBに8.2Bパラメータが詰まっていて、Tool Callingも完璧に動く。そして今日、Bonsai開発元のPrismMLが次の一手を打ってきました。",
+    "image": "https://www.techno-edge.net/imgs/rss/30920.jpg",
+    "fetched_at": "2026-04-17 08:57:17",
+    "ja_summary": "・「1.58ビット」に超圧縮されたAIモデル「Bonsai」が、8GBメモリのMacやiPhoneでも爆速動作を実現。\n・極小サイズながら高い性能とツール連携機能を維持し、ローカル環境でのAI活用が飛躍的に進化。\n・軽量かつ高性能なAIモデルが手元のデバイスで即座に動かせる時代へと突入。"
+  },
+  {
+    "title": "ガバメントAI「源内」に関する取組をまとめたページを公開しました",
+    "link": "https://www.digital.go.jp/policies/genai",
+    "source": "デジタル庁",
+    "published": "Wed, 15 Apr 2026 15:17:43 +0900",
+    "summary": "",
+    "image": "https://www.digital.go.jp/assets/contents/node/basic_page/field_thumbnail_image/cef0122b-0598-47f8-8a48-dc2c57d407c1/d8639adc/kv_gennai_260216.png",
+    "fetched_at": "2026-04-17 08:57:17",
+    "ja_summary": "政府専用の生成AI「ガバメントAI『源内』」に関する活用事例や取組をまとめた特設ページが公開された。\n行政事務の効率化に向けたAI導入の現状や、政府内での具体的な活用方針を誰でも確認できるようになった。\n詳細はデジタル庁の公式サイトにて公開されている。"
+  },
+  {
+    "title": "Enterprises power agentic workflows in Cloudflare Agent Cloud with OpenAI",
+    "link": "https://openai.com/index/cloudflare-openai-agent-cloud",
+    "source": "OpenAI",
+    "published": "Mon, 13 Apr 2026 06:00:00 GMT",
+    "summary": "Cloudflare brings OpenAI’s GPT-5.4 and Codex to Agent Cloud, enabling enterprises to build, deploy, and scale AI agents for real-world tasks with speed and security.",
+    "image": "https://openai.com/favicon.ico",
+    "fetched_at": "2026-04-17 08:57:18",
+    "ja_summary": "・Cloudflareが「Agent Cloud」にOpenAIの最新モデル（GPT-4o/Codex）を統合。\n・企業は実務向けのAIエージェントを、より高速かつセキュアに構築・運用可能に。\n・AI活用の開発から展開、拡張までを包括的にサポートし、ビジネスの自動化を加速。"
+  },
+  {
+    "title": "Anthropic expands partnership with Google and Broadcom for multiple gigawatts of next-generation compute",
+    "link": "https://www.anthropic.com/news/google-broadcom-partnership-compute",
+    "source": "Anthropic (News)",
+    "published": "Mon, 06 Apr 2026 00:00:00 +0000",
+    "summary": "Anthropic expands partnership with Google and Broadcom for multiple gigawatts of next-generation compute",
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20Growth&amp;backgroundColor=fig",
+    "fetched_at": "2026-04-17 08:57:19",
+    "ja_summary": "・AnthropicがGoogleおよびBroadcomとの提携を拡大。\n・次世代AI開発に向けて数ギガワット規模のコンピューティング能力を確保。\n・大規模なAI計算リソースの強化により開発競争力を向上させる。"
+  },
+  {
     "title": "シャープ「ポケとも」3カ月で8000台　ロボホン超えを生んだ、2つの理由",
     "link": "https://www.itmedia.co.jp/business/articles/2604/16/news007.html",
     "source": "ITmedia ビジネス",
@@ -918,85 +998,5 @@
     "image": "https://openai.com/favicon.ico",
     "fetched_at": "2026-04-16 17:54:53",
     "ja_summary": "OpenAIがサイバー防衛向け「Trusted Access」を拡充、GPT-5.4-Cyberを導入。\nAIのサイバーセキュリティ能力向上に対応し、防御者へのアクセスを強化。\nさらに厳格な安全対策で、次世代のサイバー防衛を支援する。"
-  },
-  {
-    "title": "Anthropic’s Long-Term Benefit Trust appoints Vas Narasimhan to Board of Directors",
-    "link": "https://www.anthropic.com/news/narasimhan-board",
-    "source": "Anthropic (News)",
-    "published": "Tue, 14 Apr 2026 00:00:00 +0000",
-    "summary": "Anthropic’s Long-Term Benefit Trust appoints Vas Narasimhan to Board of Directors",
-    "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
-    "fetched_at": "2026-04-16 17:54:57",
-    "ja_summary": "・AI企業Anthropicの長期利益信託（Long-Term Benefit Trust）に、ノバルティスCEOのバス・ナラシンハン氏が取締役に就任。\n・同信託はAnthropicの企業理念や安全性保持を監督する重要な機関。\n・ヘルスケア分野の知見を持つ経営者の参画により、ガバナンス体制を強化する狙い。"
-  },
-  {
-    "title": "AI活用するためのドメイン知識を泥くさく整理する / Putting in the Work to Organize Domain Knowledge for AI",
-    "link": "https://speakerdeck.com/bitkey/putting-in-the-work-to-organize-domain-knowledge-for-ai",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-04-16T04:14:43-04:00",
-    "summary": "登壇者名：佐藤 拓人\n登壇したイベントタイトル：どろんこAI話 Ⅱ 〜綺麗じゃないAIの苦労話〜\n登壇したイベントのURL：https://forkwell.connpass.com/event/388934/",
-    "image": "https://files.speakerdeck.com/presentations/b0c7e890cbf0458dadd386653517fe63/preview_slide_0.jpg?39114076",
-    "fetched_at": "2026-04-16 17:55:09",
-    "ja_summary": "AIを実務で活用するには、データや現場の専門知識（ドメイン知識）を泥臭く整理する地道な作業が不可欠。\n華やかな技術論ではなく、現場の課題解決に向けた「AI活用の泥臭い苦労と重要性」を解説。\n綺麗なデータだけではAIは動かないという教訓に基づき、実用的な知見を共有する内容。"
-  },
-  {
-    "title": "ホワイトカラーの80%がAI導入に反抗している ── 技術者が知っておくべき「AI抵抗」の構造と乗り越え方",
-    "link": "https://qiita.com/nogataka/items/4464273923cb00271303",
-    "source": "Qiita (Popular)",
-    "published": "2026-04-13T11:29:26+09:00",
-    "summary": "\n## はじめに\n\n2026年4月、Fortune誌が報じた一つの調査結果がReddit r/technologyで19,581のアップボートと1,800超のコメントを集め、技術系コミュニティで大きな議論を巻き起こしました。\n\n「ホワイトカラーの80%が、企業のAI導入指示を拒否している」\n\nWalkMeが3,750人の経営層・従業員を対象に14カ国で実施した「State of Digital A",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYxNjEyOTglMkZjMWUzZmZkNmVhZGExOTY5ZmYzYzQ0YjE0ZmRlMDgxYmNkZTZmNTAwJTJGeF9sYXJnZS5wbmclM0YxNTg0ODQ1NTg0P2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz00ZGRjZmU5NTFjNTMyMzU3NjcyOGUzOTkyOTNmOGRlNQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D246367bff431168e6212d2602a3df494?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgzJTlCJUUzJTgzJUFGJUUzJTgyJUE0JUUzJTgzJTg4JUUzJTgyJUFCJUUzJTgzJUE5JUUzJTgzJUJDJUUzJTgxJUFFODAlMjUlRTMlODElOENBSSVFNSVCMCU4RSVFNSU4NSVBNSVFMyU4MSVBQiVFNSU4RiU4RCVFNiU4QSU5NyVFMyU4MSU5NyVFMyU4MSVBNiVFMyU4MSU4NCVFMyU4MiU4QiUyMCVFMiU5NCU4MCVFMiU5NCU4MCUyMCVFNiU4QSU4MCVFOCVBMSU5MyVFOCU4MCU4NSVFMyU4MSU4QyVFNyU5RiVBNSVFMyU4MSVBMyVFMyU4MSVBNiVFMyU4MSU4QSVFMyU4MSU4RiVFMyU4MSVCOSVFMyU4MSU4RCVFMyU4MCU4Q0FJJUU2JThBJUI1JUU2JThBJTk3JUUzJTgwJThEJUUzJTgxJUFFJUU2JUE3JThCJUU5JTgwJUEwJUUzJTgxJUE4JUU0JUI5JTk3JUUzJTgyJThBJUU4JUI2JThBJUUzJTgxJTg4JUU2JTk2JUI5JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9OTViYmQ1ZjFhNmE4MmNiYmRlNTMyMWE3YjM5NTk4YTE&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBub2dhdGFrYSZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWE5ODA4YTE0Zjg4Y2I0ZjQ5OWU2ZDA3NGYyY2E2YTNh&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=89c7ef5350b80f48e8990a9b8e595524",
-    "fetched_at": "2026-04-16 17:55:11",
-    "ja_summary": "ホワイトカラーの8割がAI導入に抵抗を示しており、その背景にはAIへの不安や、導入方法の不備がある。\n企業は、従業員の懸念を理解し、十分なトレーニングやサポート体制を整えることで、AI導入の障壁を乗り越える必要がある。\n技術者は、AIのメリットだけでなく、現場の抵抗構造を理解し、効果的な導入戦略を提案することが求められる。"
-  },
-  {
-    "title": "エンジニアとして設計書をAIで10倍速く書く方法まとめ【プロンプト付き】",
-    "link": "https://qiita.com/kamome_susume/items/ce71acf0aa0b80631c35",
-    "source": "Qiita (Popular)",
-    "published": "2026-04-12T15:23:30+09:00",
-    "summary": "設計書を書くのに毎回何時間もかかって、本来の開発に集中できていない…そんな経験はありませんか？\n\n仕様書、API設計書、DB設計書、クラス設計書——エンジニアの仕事には「書かなければいけないドキュメント」が山ほどあります。でも、コードを書く時間と同じくらい、あるいはそれ以上の時間をドキュメント作成に費やしてしまっている現実があります。\n\nこの記事では、**ChatGPTやClaudeなどのAIを活",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYxNjkzMjQ4JTJGZDhlMmU1OWNiMDVmY2Y3MDQ3ZDgyN2ZjNDlkNDAwMTkzZTU5NDdjOSUyRnhfbGFyZ2UucG5nJTNGMTY4NjMxODg1ND9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9ZDRiNjcyYjg4ZWUxYTRkNjI1ZDRjOGFkMzVkMzQ5NjI%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Ddc9a014e564257547b64353543c58776?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgyJUE4JUUzJTgzJUIzJUUzJTgyJUI4JUUzJTgzJThCJUUzJTgyJUEyJUUzJTgxJUE4JUUzJTgxJTk3JUUzJTgxJUE2JUU4JUE4JUFEJUU4JUE4JTg4JUU2JTlCJUI4JUUzJTgyJTkyQUklRTMlODElQTcxMCVFNSU4MCU4RCVFOSU4MCU5RiVFMyU4MSU4RiVFNiU5QiVCOCVFMyU4MSU4RiVFNiU5NiVCOSVFNiVCMyU5NSVFMyU4MSVCRSVFMyU4MSVBOCVFMyU4MiU4MSVFMyU4MCU5MCVFMyU4MyU5NyVFMyU4MyVBRCVFMyU4MyVCMyVFMyU4MyU5NyVFMyU4MyU4OCVFNCVCQiU5OCVFMyU4MSU4RCVFMyU4MCU5MSZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTA0Y2Q5YTliODlhZjllODUwZGFjODA2YTJkOWQwN2Qy&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBrYW1vbWVfc3VzdW1lJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9ZGRiZTIzN2VhYmFmZjQ1YThiNWYzYWQyMWVhNzMzOTI&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=e2a4280eb4fe92d62952849bb25b0f08",
-    "fetched_at": "2026-04-16 17:55:11",
-    "ja_summary": "AIを活用すれば、エンジニアは設計書作成時間を大幅に短縮できます。\nChatGPTやClaudeなどのAIツールで、仕様書、API設計書などを10倍速く作成可能です。\nこれにより、本来の開発業務に集中できるようになります。"
-  },
-  {
-    "title": "日立グループ企業、「貿易の安全保障リスク」をAIエージェントで管理　審査時間60％短縮　仕組みは？",
-    "link": "https://www.itmedia.co.jp/business/articles/2604/15/news105.html",
-    "source": "ITmedia ビジネス",
-    "published": "Wed, 15 Apr 2026 15:30:00 +0900",
-    "summary": "日立ソリューションズは、安全保障貿易管理にAIエージェント導入することで審査時間を約60％短縮できると発表した。現場の負担をどのように解決するのか。",
-    "image": "https://image.itmedia.co.jp/business/articles/2604/15/cover_news105.jpg",
-    "fetched_at": "2026-04-16 16:08:43",
-    "ja_summary": "・日立ソリューションズが安全保障貿易管理にAIエージェントを導入。\n・審査業務の自動化により、作業時間を約60％短縮。\n・複雑な貿易リスク審査の効率化と現場の負担軽減を実現。"
-  },
-  {
-    "title": "ウエルシアも導入のAI面接／パナソニック家電1位／ハンガリー選挙の波紋（2026年4月14日版） (日経ビジネスAUDIOモーニング)",
-    "link": "https://business.nikkei.com/atcl/audio/22/00001/041300856/",
-    "source": "日経ビジネス 最新",
-    "published": "",
-    "summary": "ウエルシアも導入のAI面接、企業は好感触も学生に抵抗感も　個人情報の扱いにリスク／パナソニックがソニー上回り家電1位　8万円ドライヤー人気が映す新ブランド戦略／ハンガリー・オルバン氏、トランプ氏支援でも選挙で大敗　新政権の「親EU」化に疑問符、他",
-    "image": "https://business.nikkei.com/atcl/audio/22/00001/041300856/fb.jpg",
-    "fetched_at": "2026-04-16 16:08:53",
-    "ja_summary": "・ウエルシアなど企業がAI面接を導入する一方、学生側には懸念や抵抗感も。\n・パナソニックが高級ドライヤー等の戦略で家電シェア首位に浮上。\n・ハンガリー選挙でオルバン氏与党が大敗、今後の外交方針に不透明感。"
-  },
-  {
-    "title": "電通総研、業務行動データを起点とした「HR×AIの組織変革プログラム」を提供",
-    "link": "https://japan.zdnet.com/article/35246427/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "電通総研は、電通と共同で、Microsoft 365の業務行動データを起点として、組織課題の診断から施策立案・実行支援までを一気通貫で提供する「HR×AIの組織変革プログラム」を開発・提供することを発表した。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35246427/\"><img src=\"https://japan.zdnet.com/storage/2025/04/03/117154cf3a46205c6cce365dad88afb3/t/184/138/d/250403_data_as_1280_261206839.jpg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2025/04/03/117154cf3a46205c6cce365dad88afb3/t/184/138/d/250403_data_as_1280_261206839.jpg",
-    "fetched_at": "2026-04-16 16:09:17",
-    "ja_summary": "電通総研と電通が、Microsoft 365の業務データとAIを活用した組織変革プログラムを共同提供する。\n社員の行動データから組織課題を診断し、施策の立案から実行までを一気通貫で支援する。\nAIによる分析で組織状態を可視化し、企業の生産性向上や変革を迅速に後押しする。"
-  },
-  {
-    "title": "清水建設、データ活用基盤の中核にiaaS「Workato」を採用--生成AI活用を促進",
-    "link": "https://japan.zdnet.com/article/35246424/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "清水建設は、あらゆるデータ連携や自動化を行えるiPaaS「Workato（ワーカート）」を導入した。導入を支援した日立ソリューションズが発表した。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35246424/\"><img src=\"https://japan.zdnet.com/storage/2025/11/07/1d70c6b3fd209b9551e1dc5ec9352c1e/t/184/138/d/251107_diagram_as_1280_316504896.jpg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2025/11/07/1d70c6b3fd209b9551e1dc5ec9352c1e/t/184/138/d/251107_diagram_as_1280_316504896.jpg",
-    "fetched_at": "2026-04-16 16:09:17",
-    "ja_summary": "・清水建設がデータ連携・自動化ツール「Workato」を導入。\n・日立ソリューションズの支援により、社内のデータ活用基盤を構築。\n・生成AIの利活用を促進し、業務効率化を加速させる狙い。"
   }
 ]
