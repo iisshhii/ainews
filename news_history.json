@@ -1,5 +1,35 @@
 [
   {
+    "title": "AIで変わる建築の仕事、イラストで見る20XX年の新職業",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03573/040300008/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "人手不足の深刻化とテクノロジーの急激な進化が相まって、建築界へのAI（人工知能）導入が加速する。変化の波は設計者や技術者の働き方を変え、新たな仕事やビジネスを生み出しそうだ。20XX年には、どのような職業が生まれているだろうか。イラストで予想する。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03573/040300008/60_sns.jpg?20220512",
+    "fetched_at": "2026-04-17 02:05:34",
+    "ja_summary": "・建築業界はAI導入による人手不足解消と働き方の変革期にある。\n・技術進化に伴い、従来にはない新たな職業やビジネスが誕生する。\n・将来の建築現場で生まれる職種をイラストで具体的に予測する。"
+  },
+  {
+    "title": "AIエージェントの実装に不可欠、LLMの回答精度を高めるプロンプトの書き方",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03568/040800005/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "今回は、AIエージェントを活用するために必要な基礎機能を解説する。まず、従来の機械学習（Machine Learning）とLLMとの違いを整理し、LLMの基礎的な機能である「ユーザープロンプト」と「システムプロンプト」を取り上げる。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03568/040800005/topm.jpg?20220512",
+    "fetched_at": "2026-04-17 02:05:35",
+    "ja_summary": "・AIエージェント活用のために、機械学習とLLMの役割の違いを解説。\n・精度の高い出力を得るための「ユーザープロンプト」と「システムプロンプト」の基礎を習得。\n・プロンプトの設計手法を学び、LLMの実用性を高める手法を提示。"
+  },
+  {
+    "title": "CopilotでOfficeファイルを検索・分析・活用しよう",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03580/00004/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "Microsoft 365 Copilot Chatでは、ファイルをアップロードして内容に対して質問したり、分析することができる。保存ファイルは検索で素早く再利用でき、コピペ不要なので日々の作業効率を大きく高められる。ファイルをアップロードする方法は2つある。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03580/00004/topm.jpg?20220512",
+    "fetched_at": "2026-04-17 02:05:36",
+    "ja_summary": "・Microsoft 365 Copilotにファイルを読み込ませることで、内容の検索・分析・活用が効率化できる。\n・コピペ不要で情報を再利用できるため、日々の事務作業の時間を大幅に短縮可能。\n・ファイルは2通りの方法で簡単にアップロードし、対話形式で活用できる。"
+  },
+  {
     "title": "「Claude Opus 4.7」公開　指示追従性や画像認識を高めた上位モデル",
     "link": "https://www.watch.impress.co.jp/docs/news/2102378.html",
     "source": "Impress Watch",
@@ -968,35 +998,5 @@
     "image": "https://japan.cnet.com/storage/2026/04/15/2a6b55cebde5827ed09ad7d3fe0f68bd/t/184/138/d/gptgpt-4_1280x960.jpg",
     "fetched_at": "2026-04-16 07:03:16",
     "ja_summary": "要約の生成に失敗しました。"
-  },
-  {
-    "title": "AnthropicがClaude新機能で明らかにした、マイクロソフトへの「挑戦状」。「脱・開発者向けツール」姿勢を鮮明に",
-    "link": "https://www.businessinsider.jp/article/2604-anthropic-claude-microsoft-word-lawyers/",
-    "source": "Business Insider Japan",
-    "published": "Wed, 15 Apr 2026 21:15:00 GMT",
-    "summary": "アンソロピックがリリースした「Claude for Word」。この新機能は、マイクロソフトが築き上げた「ソフトウェア帝国」に対する新たな挑戦と言えそうです。",
-    "image": "https://media.loom-app.com/loom/2026/04/15/b4835fdb-f05d-4bb1-b672-0de94c135d23/original.jpg?w=1200&amp;h=630",
-    "fetched_at": "2026-04-16 07:03:16",
-    "ja_summary": "要約の生成に失敗しました。"
-  },
-  {
-    "title": "Gemini Robotics-ER 1.6 を試す",
-    "link": "https://note.com/npaka/n/n93116b196748",
-    "source": "note (npaka)",
-    "published": "Wed, 15 Apr 2026 09:38:13 +0900",
-    "summary": "<p id=\"ac6775d5-7b9e-4a69-8861-44cc04e32eeb\" name=\"ac6775d5-7b9e-4a69-8861-44cc04e32eeb\">「Gemini Robotics-ER 1.6」を試したのでまとめました。</p><figure id=\"897fbeaa-b41f-4c66-ad03-aa48cd2278b8\" name=\"897fbeaa-b41f-4c66-ad03-aa48cd2278b8\"><blockquote><p id=\"364efb90-b548-435e-8fa8-c4e3a19a2733\" name=\"364efb90-b548-435e-8fa8-c4e3a19a2733\"><strong>・</strong><a href=\"https://github.com/google-gemini/robotics-samples/blob/main/Getting%20Started/gemini_robotics_er.ipynb\" rel=\"nofollow noopener\" target=\"_blank\"><strong>Gemini Quickstart: Gemini Robotics-ER</strong></a></p></blockquote>\n<figcaption></figcaption></figure><br /><a href=\"https://note.com/npaka/n/n93116b196748\">続きをみる</a>",
-    "image": "https://assets.st-note.com/production/uploads/images/267515941/rectangle_large_type_2_fc0266e57cf72088b24f3873ac302193.png?width=800",
-    "fetched_at": "2026-04-16 06:05:34",
-    "ja_summary": "Gemini Robotics-ER 1.6の試用結果をまとめました。\nGitHubで公開されているGemini Robotics-ERのクイックスタートガイドを試しています。\nより詳しい内容はリンク先で確認できます。"
-  },
-  {
-    "title": "Suno v5以上の品質、商用利用できる日本語対応ローカル音楽生成AI「ACE-Step 1.5 XL」が無料公開（生成AIクローズアップ）",
-    "link": "https://www.techno-edge.net/article/2026/04/13/4986.html",
-    "source": "TechnoEdge",
-    "published": "Mon, 13 Apr 2026 14:20:58 +0900",
-    "summary": "1週間の気になる生成AI技術・研究をいくつかピックアップして解説する連載「生成AIウィークリー」から、特に興味深いAI技術や研究にスポットライトを当てる生成AIクローズアップ。",
-    "image": "https://www.techno-edge.net/imgs/rss/30791.png",
-    "fetched_at": "2026-04-16 06:05:40",
-    "ja_summary": "・高品質な日本語対応の音楽生成AI「ACE-Step 1.5 XL」が無料公開された。\n・Suno v5に匹敵する音質を持ち、商用利用も可能。\n・自身のPC環境で動かせるローカル実行型の音楽生成モデルとして注目されている。"
   }
 ]
