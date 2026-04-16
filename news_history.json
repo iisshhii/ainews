@@ -1,5 +1,65 @@
 [
   {
+    "title": "AIエージェントをビジネス活用、知っておくべきRAGとマルチモーダルの基本",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03568/040800006/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "今回は、「RAG」と「マルチモーダル」を取り上げる。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03568/040800006/topm.jpg?20220512",
+    "fetched_at": "2026-04-17 05:30:43",
+    "ja_summary": "・ビジネス活用が進むAIエージェントの鍵は「RAG」と「マルチモーダル」。\n・RAGは外部知識との連携で回答精度を高める技術。\n・マルチモーダルは画像や音声など複数の形式を同時に理解する技術であり、これらを理解することが実務応用の基本となる。"
+  },
+  {
+    "title": "BMWが工場の量産工程に人型ロボット、試験プロジェクトで導入検討",
+    "link": "https://xtech.nikkei.com/atcl/nxt/mag/ne/18/00001/00633/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "ドイツBMWグループは、人工知能（AI）の活用を推進するため、ドイツ・ライプチヒ工場でフィジカルAIを搭載した人型ロボットの試験運用プロジェクトを開始する。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/mag/ne/18/00001/00633/topm.jpg?20220512",
+    "fetched_at": "2026-04-17 05:30:43",
+    "ja_summary": "・BMWが独ライプチヒ工場で人型ロボットの試験導入を開始\n・AI活用を推進し、工場内の量産工程における実用性を検証\n・製造現場への人型ロボット導入に向けた取り組みを本格化"
+  },
+  {
+    "title": "イーロン・マスク氏「テラファブ」構想、AI半導体を自社で製造",
+    "link": "https://xtech.nikkei.com/atcl/nxt/mag/ne/18/00001/00631/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "米Tesla（テスラ）最高経営責任者（CEO）のElon Musk（イーロン・マスク）氏は、人工知能（AI）向け半導体の工場「テラファブ」の建設を進める。同氏がCEOを務める米SpaceX（スペースX）とテスラが共同で運営する。稼働時期や投資額を明らかにしていないものの、すでに着工したという。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/mag/ne/18/00001/00631/topm.jpg?20220512",
+    "fetched_at": "2026-04-17 05:30:44",
+    "ja_summary": "・イーロン・マスク氏がAI半導体製造工場「テラファブ」を建設中。\n・テスラとスペースXの共同運営体制で、すでに着工済み。\n・半導体の自社生産により、AI開発の加速と供給網の強化を目指す。"
+  },
+  {
+    "title": "エリクソンが6G見据え「AIを最大限活用」、インテルと1.8ナノ世代のASIC",
+    "link": "https://xtech.nikkei.com/atcl/nxt/mag/ne/18/00001/00640/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "スウェーデンEricsson（エリクソン）は6G（第6世代移動通信システム）に向け、通信業界におけるAI（人工知能）の活用に注力する。同社アジア太平洋地域の最高技術責任者（APAC CTO）を務めるMagnus Ewerbring（マグナス・エヴァブリング）氏に、技術の展望や取り組みについて聞いた。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/mag/ne/18/00001/00640/topm.jpg?20220512",
+    "fetched_at": "2026-04-17 05:30:45",
+    "ja_summary": "・エリクソンが次世代通信「6G」を見据え、通信分野でのAI活用を本格化。\n・インテルと提携し、1.8ナノメートル世代の次世代ASIC（特定用途向け集積回路）を共同開発。\n・AIと最先端半導体技術の融合により、通信ネットワークの高度化と効率化を推進する。"
+  },
+  {
+    "title": "Copilotに情報収集させてリポートを書かせるには？",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03580/00005/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "Microsoft 365 Copilotにはエージェント機能の強力なツールであるリサーチツール（Researcher Agent）がある。リサーチツールは詳細かつ構造化された情報収集が必要な場合に真価を発揮する。どう使いこなすのか一緒に確認しよう。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03580/00005/topm.jpg?20220512",
+    "fetched_at": "2026-04-17 05:30:46",
+    "ja_summary": "Microsoft 365 Copilotの「リサーチツール」は、高度な情報収集と構造化が得意なエージェント機能。\n詳細なリポート作成が必要な際、このツールを活用することで作業効率が大幅に向上する。\n具体的な使いこなし方を学び、リサーチから執筆までのプロセスを自動化・迅速化しよう。"
+  },
+  {
+    "title": "グーグル「Gemini」にMac版デスクトップアプリ",
+    "link": "https://www.watch.impress.co.jp/docs/news/2102038.html",
+    "source": "Impress Watch",
+    "published": "",
+    "summary": "Googleは15日(米国時間)、Mac版のデスクトップアプリを提供開始した。キーボードショートカットからいつでも呼び出せる専用アプリで、対応OSは、macOS Sequoia(15.0)以降。Macを使う13歳以上の全てのGeminiユーザーが対象で、無料で利用できる。",
+    "image": "https://www.watch.impress.co.jp/img/ipw/list/2102/038/mac1.jpg",
+    "fetched_at": "2026-04-17 05:30:50",
+    "ja_summary": "・GoogleのAI「Gemini」にMac専用のデスクトップアプリが登場。\n・キーボードショートカットから即座に呼び出し可能。\n・macOS 15以降で13歳以上の全ユーザーが無料で利用できる。"
+  },
+  {
     "title": "macOS向け「Gemini」アプリ公開　Option＋Spaceで即呼び出し　ウィンドウの内容も共有",
     "link": "https://japan.cnet.com/article/35246474/",
     "source": "CNET Japan",
@@ -937,66 +997,6 @@
     "summary": "政府は2026年5月から政府共通のAI（人工知能）基盤であるガバメントAI「源内」の大規模実証を開始する。外局なども含む全府省庁39機関に所属する一般職の国家公務員約29万人のうち、半数超に当たる職員約18万人を対象に源内を使えるアカウントを配布する。",
     "image": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020800017/040901418/topm.jpg?20220512",
     "fetched_at": "2026-04-16 08:00:58",
-    "ja_summary": "要約の生成に失敗しました。"
-  },
-  {
-    "title": "Claudeで「画像編集AI」が利用可能に　Adobeと提携",
-    "link": "https://japan.cnet.com/article/35246475/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "Adobeは、ユーザーの指示を基に自律的に作業を進める「エージェント型AI」への取り組みをさらに強化する。AI開発企業Anthropicとの提携拡大の一環として、同社は米国時間水曜日、最新の対話型クリエイティブAIアシスタントを発表した。これがAnthropicとの連携を支える中核技術となる。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35246475/\"><img src=\"https://japan.cnet.com/storage/2026/04/16/137a8b0272f1984a94db0f04d9ad9886/t/184/138/d/adobe-logo-gettyimages-2031350240__1_.jpeg\" /></a>",
-    "image": "https://japan.cnet.com/storage/2026/04/16/137a8b0272f1984a94db0f04d9ad9886/t/184/138/d/adobe-logo-gettyimages-2031350240__1_.jpeg",
-    "fetched_at": "2026-04-16 08:01:07",
-    "ja_summary": "要約の生成に失敗しました。"
-  },
-  {
-    "title": "BoxのCEOが明かす「エンジニアはAIトークンをたくさん無駄にすべきだ」と言う理由…それは急成長への必要悪だからだ",
-    "link": "https://www.businessinsider.jp/article/2604-box-ceo-token-usage-aaron-levie/",
-    "source": "Business Insider Japan",
-    "published": "Wed, 15 Apr 2026 22:30:00 GMT",
-    "summary": "BoxのCEOであるアーロン・レヴィ氏は、支払うAIトークン料金が高額になることを好意的に受け止めている。それは、エンジニアたちが「新しいことに挑戦している」ことを意味するからだ、と語った。",
-    "image": "https://media.loom-app.com/loom/2026/04/15/d0204df7-a3ca-400d-9302-8d1730ef88ae/original.jpg?w=1200&amp;h=630",
-    "fetched_at": "2026-04-16 08:01:08",
-    "ja_summary": "要約の生成に失敗しました。"
-  },
-  {
-    "title": "スターバックスはChatGPTをあなたのパーソナルバリスタへと変えつつある",
-    "link": "https://www.businessinsider.jp/article/2604starbucks-new-feature-chatgpt-barista-decide-what-you-drink/",
-    "source": "Business Insider Japan",
-    "published": "Wed, 15 Apr 2026 22:20:00 GMT",
-    "summary": "スターバックスは、ユーザーが気分、天気、服装に基づいてチャットボットに飲み物のおすすめを尋ねることができる、新しいChatGPTアプリをリリースした。",
-    "image": "https://media.loom-app.com/loom/2026/04/15/36b818e9-d139-44ac-bfa1-8cdaf0355743/original.jpg?w=1200&amp;h=630",
-    "fetched_at": "2026-04-16 08:01:10",
-    "ja_summary": "要約の生成に失敗しました。"
-  },
-  {
-    "title": "Gemini 3.1 Flash TTS の概要",
-    "link": "https://note.com/npaka/n/n697be937e07e",
-    "source": "note (npaka)",
-    "published": "Thu, 16 Apr 2026 07:26:55 +0900",
-    "summary": "<p id=\"46554b91-b4bb-4036-9681-176a257c5dc8\" name=\"46554b91-b4bb-4036-9681-176a257c5dc8\">以下の記事が面白かったので、簡単にまとめました。</p><figure id=\"f8d9c86a-3cc9-4624-8fe2-2db732a6886d\" name=\"f8d9c86a-3cc9-4624-8fe2-2db732a6886d\"><blockquote><p id=\"653d26fe-2f7e-4ea9-a9a0-1b64ade4ceff\" name=\"653d26fe-2f7e-4ea9-a9a0-1b64ade4ceff\"><strong>・</strong><a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-tts/\" rel=\"nofollow noopener\" target=\"_blank\"><strong>Gemini 3.1 Flash TTS: the next generation of expressive AI speech</strong></a></p></blockquote>\n<figcaption></figcaption></figure><br /><a href=\"https://note.com/npaka/n/n697be937e07e\">続きをみる</a>",
-    "image": "https://assets.st-note.com/production/uploads/images/267750666/rectangle_large_type_2_58752027df0849f5c8e04d43f5ace012.png?width=800",
-    "fetched_at": "2026-04-16 08:01:13",
-    "ja_summary": "要約の生成に失敗しました。"
-  },
-  {
-    "title": "8GBメモリのMacBook Neoでもド派手にグリグリ動く。Claude Codeで自作ビジュアライザーに3D Gaussian Splatを組み込んだら目まぐるしくも不思議なミュージックビデオができた（CloseBox）",
-    "link": "https://www.techno-edge.net/article/2026/04/16/4992.html",
-    "source": "TechnoEdge",
-    "published": "Thu, 16 Apr 2026 07:46:21 +0900",
-    "summary": "前回の番外編で、M2 MacBook Air 24GB 上の mazzaim2air に「歌詞同期ビジュアライザー」を生やした話を書きました。",
-    "image": "https://www.techno-edge.net/imgs/rss/30852.jpg",
-    "fetched_at": "2026-04-16 08:01:17",
-    "ja_summary": "要約の生成に失敗しました。"
-  },
-  {
-    "title": "日本発、LLMの推論を「桁違い」に効率化する新アーキテクチャ「PHOTON」の論文が面白かったのでまとめてみた",
-    "link": "https://qiita.com/yuji-arakawa/items/2ad0240c56eb7507b261",
-    "source": "Qiita (Popular)",
-    "published": "2026-04-10T22:15:57+09:00",
-    "summary": "![Generated Image April 09, 2026 - 12_01AM.jpg](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/74534/447cbeed-d3c6-447a-a7b5-46bd937f4d07.jpeg)\n\n\n# はじめに\n\n富士通、理化学研究所 AIP、東京科学大学、東海大学の研究チームが",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY3NDUzNCUyRmUzZGYwM2UyMjk2ZjY2ZmNiMGNkYmY5MmZiZjQwNDU2NGFmNTYxYzIlMkZsYXJnZS5wbmclM0YxNzcyNTUwMDAxP2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz0xYzFmOTVmMTIxNmMzMWVkNDU0MzMwZjg2ZjBkMzhhZQ%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYzMDk1NWZhN2YwMzlhODVjNDQ5ZmY0ODBhMmE3ZGJjNWQ5ZmY1YWIwJTJGb3JpZ2luYWwuanBnJTNGMTQ1MjE0NTY4Mz9peGxpYj1yYi00LjAuMCZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz0yYjVlN2VmYzdkMGI4OGNjOGRlOTIyYzFmZTQ3YzJhNQ%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D4aae8c5955a2b8b4143d59077d137401?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUU2JTk3JUE1JUU2JTlDJUFDJUU3JTk5JUJBJUUzJTgwJTgxTExNJUUzJTgxJUFFJUU2JThFJUE4JUU4JUFCJTk2JUUzJTgyJTkyJUUzJTgwJThDJUU2JUExJTgxJUU5JTgxJTk1JUUzJTgxJTg0JUUzJTgwJThEJUUzJTgxJUFCJUU1JThBJUI5JUU3JThFJTg3JUU1JThDJTk2JUUzJTgxJTk5JUUzJTgyJThCJUU2JTk2JUIwJUUzJTgyJUEyJUUzJTgzJUJDJUUzJTgyJUFEJUUzJTgzJTg2JUUzJTgyJUFGJUUzJTgzJTgxJUUzJTgzJUEzJUUzJTgwJThDUEhPVE9OJUUzJTgwJThEJUUzJTgxJUFFJUU4JUFCJTk2JUU2JTk2JTg3JUUzJTgxJThDJUU5JTlEJUEyJUU3JTk5JUJEJUUzJTgxJThCJUUzJTgxJUEzJUUzJTgxJTlGJUUzJTgxJUFFJUUzJTgxJUE3JUUzJTgxJUJFJUUyJTgwJUE2JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9MTI0ODMxN2Y1ZjljNmIwZDljYjdlYzMyYzk4YzAyODA&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDB5dWppLWFyYWthd2EmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1mZmI0YjViMTBiYTQxOTMwMzk4ZTU3ZDhmOWQwYjZmNQ&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=5pel5pys44Kq44Op44Kv44Or5qCq5byP5Lya56S-&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=bd6b84badac9220f2cc28da9d6277b8d",
-    "fetched_at": "2026-04-16 08:01:41",
     "ja_summary": "要約の生成に失敗しました。"
   }
 ]
