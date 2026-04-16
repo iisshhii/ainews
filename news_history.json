@@ -1,5 +1,55 @@
 [
   {
+    "title": "Gemini Robotics-ER 1.6 の概要",
+    "link": "https://note.com/npaka/n/nab5ab4cd7858",
+    "source": "note (npaka)",
+    "published": "Wed, 15 Apr 2026 07:21:05 +0900",
+    "summary": "<p id=\"4741aa61-8e54-4ccf-b717-70ce47af9715\" name=\"4741aa61-8e54-4ccf-b717-70ce47af9715\">以下の記事が面白かったので、簡単にまとめました。</p><figure id=\"78beab0d-9bfe-4f2d-b122-662eead16e55\" name=\"78beab0d-9bfe-4f2d-b122-662eead16e55\"><blockquote><p id=\"aa54e9dc-f49b-4bac-9a3a-db8aff3da0b7\" name=\"aa54e9dc-f49b-4bac-9a3a-db8aff3da0b7\"><strong>・</strong><a href=\"https://deepmind.google/blog/gemini-robotics-er-1-6/\" rel=\"nofollow noopener\" target=\"_blank\"><strong>Gemini Robotics-ER 1.6: Powering real-world robotics tasks through enhanced embodied reasoning</strong></a></p></blockquote>\n<figcaption></figcaption></figure><br /><a href=\"https://note.com/npaka/n/nab5ab4cd7858\">続きをみる</a>",
+    "image": "https://assets.st-note.com/production/uploads/images/267499227/rectangle_large_type_2_b2ed0f5fbac1718b59c9e79453ccdce2.png?width=800",
+    "fetched_at": "2026-04-16 21:13:24",
+    "ja_summary": "Googleの「Gemini Robotics-ER 1.6」は、ロボットの推論能力を大幅に強化したモデルです。\n視覚情報や複雑な指示を高度に理解し、実世界での実用的なタスク実行能力が向上しました。\nロボットが状況をより正確に把握し、より柔軟に動作できるようになる技術です。"
+  },
+  {
+    "title": "DJI Pocket 4レビュー：とりあえずカメラを向けておけ――AIがもたらす新しい撮影体験",
+    "link": "https://www.techno-edge.net/article/2026/04/16/4996.html",
+    "source": "TechnoEdge",
+    "published": "Thu, 16 Apr 2026 21:00:02 +0900",
+    "summary": "DJI Pocket 4はAI進化と高性能センサーにより、操作負担軽減・自動追尾・静止画・編集機能を向上させたコンパクトカメラである。",
+    "image": "https://www.techno-edge.net/imgs/rss/30863.jpg",
+    "fetched_at": "2026-04-16 21:13:31",
+    "ja_summary": "・DJI Pocket 4はAIと高性能センサーで撮影・編集を劇的に自動化。\n・被写体の自動追尾や操作性の向上により、撮影負担が大幅に軽減。\n・機材設定の手間を省き、誰でも高品質な映像を撮れる次世代カメラ。"
+  },
+  {
+    "title": "火炎瓶の次は発砲。OpenAIのサム・アルトマン邸を銃撃の2人が逮捕。3日間で2度目の襲撃事件",
+    "link": "https://www.techno-edge.net/article/2026/04/14/4987.html",
+    "source": "TechnoEdge",
+    "published": "Tue, 14 Apr 2026 12:37:43 +0900",
+    "summary": "OpenAIのサム・アルトマンCEOの邸宅は、先週金曜日に火炎瓶が投げ込まれ、敷地の門が焼ける被害を被ったばかりですが、こんどは同邸宅に向けた発砲事件が発生しました。",
+    "image": "https://www.techno-edge.net/imgs/rss/30814.jpg",
+    "fetched_at": "2026-04-16 21:13:31",
+    "ja_summary": "・OpenAIのサム・アルトマン氏の自宅が3日間で2度の襲撃を受けた。\n・金曜の火炎瓶投下に続き、新たに発砲事件が発生。\n・警察は容疑者2人を逮捕し、関連を捜査している。"
+  },
+  {
+    "title": "ガバメントAIの具体化に向けたOpenAI社との連携協力について掲載しました",
+    "link": "https://www.digital.go.jp/news/e950673b-73eb-4f65-bf6a-339e4f0e7ef1",
+    "source": "デジタル庁",
+    "published": "Mon, 13 Apr 2026 14:53:57 +0900",
+    "summary": "",
+    "image": "https://www.digital.go.jp/themes/custom/gov_theme_da_2023/assets/images/ogp.png",
+    "fetched_at": "2026-04-16 21:13:31",
+    "ja_summary": "政府が「ガバメントAI（行政AI）」の具体化に向け、OpenAI社との連携を開始。\n行政手続きや業務への生成AI活用を進め、利便性の高い公共サービスの構築を目指す。\n今後はOpenAIの技術知見を取り入れ、官民一体でAI活用のロードマップを策定する。"
+  },
+  {
+    "title": "国産LLM「LLM-jp-4」が日本語MT-BenchでGPT-4oを上回った ── 技術的背景と実用性を検証する",
+    "link": "https://qiita.com/nogataka/items/6821e5d530938d269e58",
+    "source": "Qiita (Popular)",
+    "published": "2026-04-08T09:50:20+09:00",
+    "summary": "\n2026年4月3日、国立情報学研究所（NII）が国産LLM「LLM-jp-4」を公開しました。日本語MT-Benchで GPT-4o のスコアを上回ったという発表は、国内外で大きな注目を集めています。\n\nこの記事では、LLM-jp-4 の技術的な中身を掘り下げながら、「なぜ日本語特化モデルが汎用モデルに勝てたのか」「実務で使えるのか」を検証します。\n\n## LLM-jp-4 の発表概要\n\nNII",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYxNjEyOTglMkZjMWUzZmZkNmVhZGExOTY5ZmYzYzQ0YjE0ZmRlMDgxYmNkZTZmNTAwJTJGeF9sYXJnZS5wbmclM0YxNTg0ODQ1NTg0P2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz00ZGRjZmU5NTFjNTMyMzU3NjcyOGUzOTkyOTNmOGRlNQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D246367bff431168e6212d2602a3df494?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUU1JTlCJUJEJUU3JTk0JUEzTExNJUUzJTgwJThDTExNLWpwLTQlRTMlODAlOEQlRTMlODElOEMlRTYlOTclQTUlRTYlOUMlQUMlRTglQUElOUVNVC1CZW5jaCVFMyU4MSVBN0dQVC00byVFMyU4MiU5MiVFNCVCOCU4QSVFNSU5QiU5RSVFMyU4MSVBMyVFMyU4MSU5RiUyMCVFMiU5NCU4MCVFMiU5NCU4MCUyMCVFNiU4QSU4MCVFOCVBMSU5MyVFNyU5QSU4NCVFOCU4MyU4QyVFNiU5OSVBRiVFMyU4MSVBOCVFNSVBRSU5RiVFNyU5NCVBOCVFNiU4MCVBNyVFMyU4MiU5MiVFNiVBNCU5QyVFOCVBOCVCQyVFMyU4MSU5OSVFMyU4MiU4QiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPWZjOTQzNDU3YjIxMjdhOGVjZWM0NjIxZWViMWJhZDJm&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBub2dhdGFrYSZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWE5ODA4YTE0Zjg4Y2I0ZjQ5OWU2ZDA3NGYyY2E2YTNh&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=f20a5fa6eaf3c37b164662cfca190e9c",
+    "fetched_at": "2026-04-16 21:13:54",
+    "ja_summary": "・国立情報学研究所（NII）が公開した国産LLM「LLM-jp-4」が、日本語性能評価でGPT-4oを上回る成果を達成。\n・日本語特化の調整が汎用モデルを超える精度を生んだ背景や、その技術的要因を分析。\n・実務での活用可能性を検証し、国産AIの新たな到達点として注目を集めている。"
+  },
+  {
     "title": "アドビ、Premiereに色補正の新機能　After EffectsにはAI機能",
     "link": "https://www.watch.impress.co.jp/docs/news/2101579.html",
     "source": "Impress Watch",
@@ -948,55 +998,5 @@
     "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/13/bc85c5824ce7ad26cc91dac698c8492620edb9b64501ec80166b0d3a03113353.jpg",
     "fetched_at": "2026-04-16 02:46:22",
     "ja_summary": "要約の生成に失敗しました。"
-  },
-  {
-    "title": "The next evolution of the Agents SDK",
-    "link": "https://openai.com/index/the-next-evolution-of-the-agents-sdk",
-    "source": "OpenAI",
-    "published": "Wed, 15 Apr 2026 10:00:00 GMT",
-    "summary": "OpenAI updates the Agents SDK with native sandbox execution and a model-native harness, helping developers build secure, long-running agents across files and tools.",
-    "image": "https://openai.com/favicon.ico",
-    "fetched_at": "2026-04-16 02:46:28",
-    "ja_summary": "要約の生成に失敗しました。"
-  },
-  {
-    "title": "Brainstorming with ChatGPT",
-    "link": "https://openai.com/academy/brainstorming",
-    "source": "OpenAI",
-    "published": "Fri, 10 Apr 2026 00:00:00 GMT",
-    "summary": "Learn how to use ChatGPT to brainstorm ideas, organize thinking, and turn rough concepts into structured, actionable plans.",
-    "image": "https://openai.com/favicon.ico",
-    "fetched_at": "2026-04-16 02:46:29",
-    "ja_summary": "ChatGPTでアイデア発想、思考整理、計画立案を効率化。\n具体的な活用法を学ぶことで、アイデアを形にする力を高めます。\nビジネスの現場で役立つ、実践的なスキル習得を目指します。"
-  },
-  {
-    "title": "MCP vs Skills論争に決着をつける試み。AIエージェントの「拡張手段」を実装・設計・セキュリティで徹底比較する",
-    "link": "https://qiita.com/miruky/items/32314a0d9eb8c154dc95",
-    "source": "Qiita (Popular)",
-    "published": "2026-04-11T00:49:30+09:00",
-    "summary": "![asset_33v9vyfgz_1775834516257.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3637204/8f142ebe-53ed-4402-9564-1453370e0d8f.png)\n\n\n## はじめに\n\nこんばんは、mirukyです。\n\n「MCPはもう死んだ」「Skillsが新しい標準だ",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGMzYzNzIwNCUyRnByb2ZpbGUtaW1hZ2VzJTJGMTc3NDQ0NTA3MD9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NWY2OTc3NjFmNDZhMTA4YTgyMjNmMDEzODFkMGVmZTY%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Db2bc8d820e2037057c6470791c40d1f8?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9TUNQJTIwdnMlMjBTa2lsbHMlRTglQUIlOTYlRTQlQkElODklRTMlODElQUIlRTYlQjElQkElRTclOUQlODAlRTMlODIlOTIlRTMlODElQTQlRTMlODElOTElRTMlODIlOEIlRTglQTklQTYlRTMlODElQkYlRTMlODAlODJBSSVFMyU4MiVBOCVFMyU4MyVCQyVFMyU4MiVCOCVFMyU4MiVBNyVFMyU4MyVCMyVFMyU4MyU4OCVFMyU4MSVBRSVFMyU4MCU4QyVFNiU4QiVBMSVFNSVCQyVCNSVFNiU4OSU4QiVFNiVBRSVCNSVFMyU4MCU4RCVFMyU4MiU5MiVFNSVBRSU5RiVFOCVBMyU4NSVFMyU4MyVCQiVFOCVBOCVBRCVFOCVBOCU4OCVFMyU4MyVCQiVFMyU4MiVCQiVFMyU4MiVBRCVFMyU4MyVBNSVFMyU4MyVBQSVFMyU4MyU4NiVFMyU4MiVBMyVFMyU4MSVBNyVFNSVCRSVCOSVFMiU4MCVBNiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTliNGE2OTU5NWIzOTFmYmZjZTdmYWJiYmRjMGUzNDgx&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBtaXJ1a3kmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1iMWMwZjM0MGFkNTI5NmU1ZmNjNDFiZDQxMGY0YWRjYw&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=28f1da7718cbf9d4d00d5652e147a5f3",
-    "fetched_at": "2026-04-16 02:46:57",
-    "ja_summary": "要約の生成に失敗しました。"
-  },
-  {
-    "title": "AI衛星100万基で「宇宙データセンター」建設――マスク氏の夢はかなうか？　頓挫した「Microsoftの計画」から考える",
-    "link": "https://www.itmedia.co.jp/business/articles/2604/15/news042.html",
-    "source": "ITmedia ビジネス",
-    "published": "Wed, 15 Apr 2026 07:30:00 +0900",
-    "summary": "イーロン・マスク氏が掲げる「宇宙データセンター」構想は前途多難だとみられている。過去には米Microsoftが「海中データセンター」に挑んだが頓挫した。極地のデータセンターはなぜ難しいのか。",
-    "image": "https://image.itmedia.co.jp/business/articles/2604/15/cover_news042.jpg",
-    "fetched_at": "2026-04-16 01:34:58",
-    "ja_summary": "イーロン・マスク氏の「宇宙データセンター」構想は、過去のMicrosoftの海中データセンター計画のように、実現に困難が伴う。\n極地でのデータセンター建設には、冷却やインフラ整備といった技術的・コスト的な課題が大きい。\nこれらの課題を克服できなければ、マスク氏の壮大な夢は絵に描いた餅となる可能性が高い。"
-  },
-  {
-    "title": "なぜ「鰻の成瀬」は失速したのか　400店→270店、再建のカギはAIか職人か",
-    "link": "https://www.itmedia.co.jp/business/articles/2604/15/news025.html",
-    "source": "ITmedia ビジネス",
-    "published": "Wed, 15 Apr 2026 07:00:00 +0900",
-    "summary": "約400店舗まで急拡大していた「鰻の成瀬」が、約270店舗まで減少している。復活に向けて、同チェーンが生き残る道とは……。",
-    "image": "https://image.itmedia.co.jp/business/articles/2604/15/cover_news025.jpg",
-    "fetched_at": "2026-04-16 01:34:59",
-    "ja_summary": "鰻チェーン「鰻の成瀬」が400店から270店に減少。\n急激な拡大の反動か、再建にはAI活用か職人育成かが鍵。\n生き残りをかけた同チェーンの戦略が注目される。"
   }
 ]
