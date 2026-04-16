@@ -1,5 +1,45 @@
 [
   {
+    "title": "「Claude Opus 4.7」公開　指示追従性や画像認識を高めた上位モデル",
+    "link": "https://www.watch.impress.co.jp/docs/news/2102378.html",
+    "source": "Impress Watch",
+    "published": "",
+    "summary": "Anthropicは16日(米国時間)、最新のAIモデル「Claude Opus 4.7」を提供開始した。OpusはClaudeのAIモデルの上位版だが、Opus 4.7は特にソフトウェアエンジニアリングにおいて、難易度の高いタスクへの対応力を強化した。",
+    "image": "https://www.watch.impress.co.jp/img/ipw/list/2102/378/c01.jpg",
+    "fetched_at": "2026-04-17 00:55:22",
+    "ja_summary": "・Anthropicが最新の上位モデル「Claude Opus 4.7」を公開。\n・複雑なソフトウェア開発タスクへの対応能力を大幅に強化。\n・指示への追従性や画像認識精度が向上し、実務での活用範囲が拡大。"
+  },
+  {
+    "title": "JR東 駅ホーム人物検知にAI導入へ",
+    "link": "https://news.yahoo.co.jp/pickup/6576086?source=rss",
+    "source": "Yahoo!ニュース IT・科学",
+    "published": "Sun, 12 Apr 2026 23:40:16 GMT",
+    "summary": "",
+    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/13/bc85c5824ce7ad26cc91dac698c8492620edb9b64501ec80166b0d3a03113353.jpg",
+    "fetched_at": "2026-04-17 00:55:34",
+    "ja_summary": "・JR東日本が駅ホームの安全性向上のため、AIによる人物検知システムを導入。\n・カメラ映像から転落や線路立ち入りを自動検知し、即座に係員へ通知する。\n・人の目による監視を補完し、事故の未然防止と業務効率化を目指す。"
+  },
+  {
+    "title": "Introducing Claude Opus 4.7",
+    "link": "https://www.anthropic.com/news/claude-opus-4-7",
+    "source": "Anthropic (News)",
+    "published": "Thu, 16 Apr 2026 00:00:00 +0000",
+    "summary": "Introducing Claude Opus 4.7",
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/96ea2509a90e527642c822303e56296a07bcfce4-1920x1080.png",
+    "fetched_at": "2026-04-17 00:55:39",
+    "ja_summary": "・AIモデル「Claude Opus」の最新版となる「4.7」が発表されました。\n・従来モデルと比較し、性能や精度の向上が図られています。"
+  },
+  {
+    "title": "こういうのでいいんだよ ── AI活用はシンプルにいこか",
+    "link": "https://zenn.dev/masayan1126/books/simple-ai-workflow-guide",
+    "source": "Zenn Trends",
+    "published": "Thu, 16 Apr 2026 13:50:06 GMT",
+    "summary": "AIツール多すぎて疲れてへん？IDEワークスペース・Claude有料プラン・スキル機能・音声入力、この4つだけでええねん。作り込みすぎひん実践的なAI活用法、ぜんぶ教えるで。",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--c3iEB7Rh--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci9iZTIyZjc2ZTQ2LmpwZWc=%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg?_a=BACAGSGT",
+    "fetched_at": "2026-04-17 00:55:49",
+    "ja_summary": "・AIツールの使いすぎは不要、基本の4選（IDE、Claude有料版、スキル機能、音声入力）に絞る。\n・複雑な設定を排除し、シンプルかつ実践的な活用法を徹底する。\n・ツール選びや構築に疲弊せず、効率重視のAI運用を実現する。"
+  },
+  {
     "title": "The next evolution of the Agents SDK",
     "link": "https://openai.com/index/the-next-evolution-of-the-agents-sdk",
     "source": "OpenAI",
@@ -958,45 +998,5 @@
     "image": "https://www.techno-edge.net/imgs/rss/30791.png",
     "fetched_at": "2026-04-16 06:05:40",
     "ja_summary": "・高品質な日本語対応の音楽生成AI「ACE-Step 1.5 XL」が無料公開された。\n・Suno v5に匹敵する音質を持ち、商用利用も可能。\n・自身のPC環境で動かせるローカル実行型の音楽生成モデルとして注目されている。"
-  },
-  {
-    "title": "AIで変わる建築の仕事、イラストで見る20XX年の新職業",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03573/040300008/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "人手不足の深刻化とテクノロジーの急激な進化が相まって、建築界へのAI（人工知能）導入が加速する。変化の波は設計者や技術者の働き方を変え、新たな仕事やビジネスを生み出しそうだ。20XX年には、どのような職業が生まれているだろうか。イラストで予想する。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03573/040300008/60_sns.jpg?20220512",
-    "fetched_at": "2026-04-16 05:09:15",
-    "ja_summary": "AIが建築業界を変革し、人手不足解消と技術進化で新職業が誕生。\n20XX年には、AIと協働する設計者や、AI管理・最適化の専門家などが登場。\nイラストで、未来の建築現場を担う新たな働き方を提示。"
-  },
-  {
-    "title": "AIエージェントの実装に不可欠、LLMの回答精度を高めるプロンプトの書き方",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03568/040800005/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "今回は、AIエージェントを活用するために必要な基礎機能を解説する。まず、従来の機械学習（Machine Learning）とLLMとの違いを整理し、LLMの基礎的な機能である「ユーザープロンプト」と「システムプロンプト」を取り上げる。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03568/040800005/topm.jpg?20220512",
-    "fetched_at": "2026-04-16 05:09:16",
-    "ja_summary": "AIエージェントに不可欠なLLMの回答精度向上には、プロンプトの書き方が重要。\n従来の機械学習との違いを踏まえ、ユーザープロンプトとシステムプロンプトの基本を解説。\nこれにより、AIエージェントの活用に必要な基礎機能が理解できる。"
-  },
-  {
-    "title": "CopilotでOfficeファイルを検索・分析・活用しよう",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03580/00004/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "Microsoft 365 Copilot Chatでは、ファイルをアップロードして内容に対して質問したり、分析することができる。保存ファイルは検索で素早く再利用でき、コピペ不要なので日々の作業効率を大きく高められる。ファイルをアップロードする方法は2つある。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03580/00004/topm.jpg?20220512",
-    "fetched_at": "2026-04-16 05:09:16",
-    "ja_summary": "Officeファイルの検索・分析・活用がCopilotで可能に。\nファイルをアップロードして質問・分析でき、作業効率を大幅向上。\n保存ファイルは素早く検索・再利用可能。"
-  },
-  {
-    "title": "テストエンジニアのAIスキル習得、2030年頃から個性がカギに",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03524/041400006/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "AI（人工知能）時代のテスト工程変革を踏まえ、テストエンジニアはどのようにしてAIネーティブ力を段階的に身につけていけばよいのだろうか。AIの導入・活用には段階があり、段階に応じたスキルの獲得が必要になる。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03524/041400006/topm.jpg?20220512",
-    "fetched_at": "2026-04-16 05:09:17",
-    "ja_summary": "要約の生成に失敗しました。"
   }
 ]
