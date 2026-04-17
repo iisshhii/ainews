@@ -1,5 +1,45 @@
 [
   {
+    "title": "Gemini 3.1 Flash TTS プロンプトガイド",
+    "link": "https://note.com/npaka/n/n4cc609d2f054",
+    "source": "note (npaka)",
+    "published": "Thu, 16 Apr 2026 08:01:41 +0900",
+    "summary": "<p id=\"e6ff6bb2-6ceb-4388-bff2-c75934dee086\" name=\"e6ff6bb2-6ceb-4388-bff2-c75934dee086\">「Gemini 3.1 Flash TTS」のプロンプトガイドをまとめました。</p><figure id=\"e87799be-c368-4bd8-b342-f1b7bd05e967\" name=\"e87799be-c368-4bd8-b342-f1b7bd05e967\"><blockquote><p id=\"c61f919f-f477-4ba1-8e35-8baa9c2560d4\" name=\"c61f919f-f477-4ba1-8e35-8baa9c2560d4\"><strong>・</strong><a href=\"https://ai.google.dev/gemini-api/docs/speech-generation\" rel=\"nofollow noopener\" target=\"_blank\"><strong>Text-to-speech generation (TTS)</strong></a></p></blockquote>\n<figcaption></figcaption></figure><br /><a href=\"https://note.com/npaka/n/n4cc609d2f054\">続きをみる</a>",
+    "image": "https://assets.st-note.com/production/uploads/images/267753712/rectangle_large_type_2_a2b440e23b83d89be5d15af7b3ed3059.png?width=800",
+    "fetched_at": "2026-04-17 20:11:57",
+    "ja_summary": "・GoogleのAIモデル「Gemini 3.1 Flash」による音声生成（TTS）機能の活用ガイド。\n・APIを利用したテキストから音声への変換方法や、その具体的な指示方法を解説。\n・自然な音声出力を目指す開発者向けのプロンプト設定がまとめられている。"
+  },
+  {
+    "title": "Claudeに原始時代に行ってもらっては困る話",
+    "link": "https://zenn.dev/holy_fox/articles/e0c0bf75fba9e6",
+    "source": "Zenn Trends",
+    "published": "Fri, 17 Apr 2026 06:53:17 GMT",
+    "summary": "はじめに\n最近、海外のLLMコミュニティで 「caveman prompt」「speak like a caveman」 と呼ばれるプロンプト技法がちらほら話題になっています。Claude Codeに「原始人のように喋れ」と指示することで、挨拶・クッション言葉・冗長な前置きを削って応答を短くする ― ひいてはトークン消費を削減できる、という主張です。Reddit や X の一部スレッドでは「出力が劇的に短くなった」「コストが大幅に下がった」といった体験報告が流れており、日本語圏にも「原始人プロンプト」として紹介・翻案される事例が出てきました。\nそのうえで、この手法を「Claude C...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--rvdPfY-B--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%25E3%2581%25AB%25E5%258E%259F%25E5%25A7%258B%25E6%2599%2582%25E4%25BB%25A3%25E3%2581%25AB%25E8%25A1%258C%25E3%2581%25A3%25E3%2581%25A6%25E3%2582%2582%25E3%2582%2589%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%25AF%25E5%259B%25B0%25E3%2582%258B%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%25BB%25E3%2583%25BC%25E3%2582%258A%25E3%2583%25BC%25E3%2581%25B5%25E3%2581%2589%25E3%2581%25A3%25E3%2581%258F%25E3%2581%2599%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzZlMmM2MjU5ZmQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-04-17 20:12:16",
+    "ja_summary": "・LLMへの指示に「原始人のように話せ」と加えることで、挨拶や前置きを省き、トークン消費を抑える手法が注目されている。\n・しかし、この手法はAIの回答品質を低下させるリスクがあり、効率化を求めるビジネス現場での安易な利用には注意が必要。\n・コスト削減を優先するあまりAIの推論能力を削がないよう、用途に応じた使い分けが重要である。"
+  },
+  {
+    "title": "設計書・コード・テストを全部AIに書かせて半年間開発してみたよ",
+    "link": "https://zenn.dev/nttdata_tech/articles/8a010aff542625",
+    "source": "Zenn Trends",
+    "published": "Fri, 17 Apr 2026 04:26:19 GMT",
+    "summary": "設計書・コード・テストを全部AIに書かせて半年間開発してみたよ\n\n 1. はじめに\n本記事は、私のチームが半年間AIネイティブ開発を行った経験とその感想をまとめたものです。\nAIネイティブ開発とは、AI技術を活用してソフトウェア開発を行うことを指します。2025/10～2026/3の期間中、私たちはお客様に納品するシステムをAIネイティブで開発しました。その経験と私なりに感じたことをまとめてみました。\n※ なお、私の取組は全社的な取組とは関係ありません。\n※ あくまで、私のチームが独自に行っている取組ですので、その点はご留意ください。\n\n 2. 自己紹介\n初めてテックブログに記事を書...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--Ev42bZn9--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E8%25A8%25AD%25E8%25A8%2588%25E6%259B%25B8%25E3%2583%25BB%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2589%25E3%2583%25BB%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E3%2582%2592%25E5%2585%25A8%25E9%2583%25A8AI%25E3%2581%25AB%25E6%259B%25B8%25E3%2581%258B%25E3%2581%259B%25E3%2581%25A6%25E5%258D%258A%25E5%25B9%25B4%25E9%2596%2593%25E9%2596%258B%25E7%2599%25BA%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%25E3%2582%2588%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E8%258C%2582%25E5%2591%2582%2520%25E7%25AF%2584%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2Q1ZjRhYzE4MTIuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:NTT%2520DATA%2520TECH%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly96ZW5uLWRldi5naXRodWIuaW8vZGVmYXVsdC1hdmF0YXJzL2RhcmsvbS5wbmc=%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-04-17 20:12:17",
+    "ja_summary": "・半年間、設計からコード記述、テストまでをすべてAIに任せる「AIネイティブ開発」を実践。\n・実案件での納品を通じ、AI主導の開発プロセスにおける有用性と現場の知見を検証。\n・AI技術を前提とした開発手法の可能性と、実際の業務適用時の学びをまとめた体験記。"
+  },
+  {
+    "title": "Claude Opus 4.7のReact習熟度をさっそく測る",
+    "link": "https://zenn.dev/uhyo/articles/react-profession-bench-4",
+    "source": "Zenn Trends",
+    "published": "Fri, 17 Apr 2026 03:23:47 GMT",
+    "summary": "React習熟度シリーズ4回目です。前回の記事で「自分で妙案が出てくるまでこのシリーズは一区切り」と書いたのですが、Claude Opus 4.7がリリースされたので早速測ってみました。\nこれまでの記事はこちらです。\nhttps://zenn.dev/uhyo/articles/react-profession-bench-1\nhttps://zenn.dev/uhyo/articles/react-profession-bench-2\nhttps://zenn.dev/uhyo/articles/react-profession-bench-3\nベンチマークの設定は前回までと同じ、13...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--IJhc51Lh--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Opus%25204.7%25E3%2581%25AEReact%25E7%25BF%2592%25E7%2586%259F%25E5%25BA%25A6%25E3%2582%2592%25E3%2581%2595%25E3%2581%25A3%25E3%2581%259D%25E3%2581%258F%25E6%25B8%25AC%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:uhyo%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzVjYjFlMDJlNGQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-04-17 20:12:17",
+    "ja_summary": "・最新AIモデル「Claude Opus 4.7」のReact習熟度を検証するシリーズ第4弾。\n・過去のベンチマークと同じ条件を用い、性能を再評価。\n・AIのコーディング能力の進化を、一貫した指標で継続的に測定している。"
+  },
+  {
     "title": "Copilotに情報収集させてリポートを書かせるには？",
     "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03580/00005/",
     "source": "日経クロステック 総合",
@@ -958,45 +998,5 @@
     "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03532/030300002/topm.jpg?20220512",
     "fetched_at": "2026-04-17 07:05:49",
     "ja_summary": "・長文PDFやWeb記事は、Adobe Acrobat等のAI要約機能を活用すれば短時間で内容を把握できる。\n・家電やIT機器の取扱説明書もPDFをダウンロードしAIで要約させれば、効率的に情報を探せる。\n・情報収集にAIツールを導入することで、読解時間を大幅に短縮できる。"
-  },
-  {
-    "title": "AIで若手が新材料開発に成功、次は「細胞と電池」に注力",
-    "link": "https://xtech.nikkei.com/atcl/nxt/mag/ne/18/00007/00329/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "化学大手のクラレは、AI（人工知能）やデジタル技術を活用して研究開発や事業創出を加速させている。若手社員がAIを使うことで難しい新材料の開発に成功する事例も出始めた。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/mag/ne/18/00007/00329/topm.jpg?20220512",
-    "fetched_at": "2026-04-17 07:05:50",
-    "ja_summary": "・クラレがAI活用による研究開発を強化し、若手社員が難易度の高い新材料開発に成功。\n・デジタル技術で事業創出を加速させ、今後は「細胞」と「電池」の分野に注力する。"
-  },
-  {
-    "title": "写真や画像の加工をAIに任せる時代に、「Photoshop」の操作補助機能がすごい",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/02737/041200056/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "資料やプレゼンテーションを作成する時、それらに使用する写真や画像を加工しなければならない場面は多いだろう。これらの加工をするなら、多機能なAdobeの「Photoshop」といった写真編集ソフトが有力な選択肢となる。とはいえ、Photoshopは操作が複雑でツールの種類も多く、初めて触る人にとってハードルがとても高い。こうした状況を大きく変えるのが、Photoshopの「AIアシスタント」や「AIマークアップ」という機能だ。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/02737/041200056/topm.jpg?20220512",
-    "fetched_at": "2026-04-17 07:05:51",
-    "ja_summary": "Photoshopに搭載されたAI機能により、複雑な画像加工が初心者でも簡単に行えるようになりました。\nAIが操作を補助するため、専門知識がなくても短時間でプロ並みの編集が可能です。\n業務効率化を後押しする新機能により、資料作成のハードルが大幅に下がりました。"
-  },
-  {
-    "title": "「マーク・ザッカーバーグはデスクを移動し、再びコーディングを始めた」。メタの社長が語ったその理由",
-    "link": "https://www.businessinsider.jp/article/202604-meta-mark-zuckerberg-coding/",
-    "source": "Business Insider Japan",
-    "published": "Thu, 16 Apr 2026 21:40:00 GMT",
-    "summary": "「彼は、そのレベルで理解しなければならないと強く感じているのだと思います」と、メタの社長はAIチームにおけるマーク・ザッカーバーグの取り組みについて語りました。",
-    "image": "https://media.loom-app.com/loom/2026/04/15/609c5f87-ff4b-4b9b-b0ff-e75d2851146c/original.jpg?w=1200&amp;h=630",
-    "fetched_at": "2026-04-17 07:05:56",
-    "ja_summary": "・メタのザッカーバーグCEOが再び自らコーディングを開始。\n・AI技術を深く理解し、現場のレベルで判断するためと幹部が説明。\n・経営トップ自らが技術開発の最前線へ戻る姿勢を鮮明にしている。"
-  },
-  {
-    "title": "AI分野の3人のリーダーはバブルについてどう考えているか…注意すべき脆弱性の兆候についての共有",
-    "link": "https://www.businessinsider.jp/article/2604-what-leaders-in-ai-think-of-the-ai-bubble/",
-    "source": "Business Insider Japan",
-    "published": "Thu, 16 Apr 2026 21:40:00 GMT",
-    "summary": "AI分野の有力者の中には、AIバブルに関して最も重要な指標は、貸借対照表とコスト効率だと言う人もいます。",
-    "image": "https://media.loom-app.com/loom/2026/04/13/b26d07d9-f946-445f-8666-a6af17506504/original.jpg?w=1200&amp;h=630",
-    "fetched_at": "2026-04-17 07:05:56",
-    "ja_summary": "・AIバブルの判断基準は「貸借対照表の健全性」と「コスト効率」にある。\n・市場の過熱感に対し、財務実態と利益創出能力が重要な評価指標となる。\n・AI投資の際は、収益性に見合わないコスト増などの脆弱性に注意が必要。"
   }
 ]
