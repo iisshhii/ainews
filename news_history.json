@@ -1,5 +1,25 @@
 [
   {
+    "title": "Codexアプリの新機能まとめ - Computer use ・ アプリ内ブラウザ ・ 画像生成 など",
+    "link": "https://note.com/npaka/n/nf334367baf0a",
+    "source": "note (npaka)",
+    "published": "Fri, 17 Apr 2026 07:11:44 +0900",
+    "summary": "<p id=\"09574d7b-414b-4d0e-8041-8f3c2bae362b\" name=\"09574d7b-414b-4d0e-8041-8f3c2bae362b\">Codexアプリの2026年4月16日の新機能についてまとめました。</p><figure id=\"c315c77e-8db3-433b-8b54-67b5485aadc9\" name=\"c315c77e-8db3-433b-8b54-67b5485aadc9\"><blockquote><p id=\"59af86e3-2b45-4df5-b8c8-33f91eda96b3\" name=\"59af86e3-2b45-4df5-b8c8-33f91eda96b3\"><strong>・</strong><a href=\"https://openai.com/index/codex-for-almost-everything/\" rel=\"nofollow noopener\" target=\"_blank\"><strong>Codex for (almost) everything</strong></a></p></blockquote>\n<figcaption></figcaption></figure><br /><a href=\"https://note.com/npaka/n/nf334367baf0a\">続きをみる</a>",
+    "image": "https://assets.st-note.com/production/uploads/images/267993635/rectangle_large_type_2_8019e2163a759464ea1c8e82e1012905.png?width=800",
+    "fetched_at": "2026-04-18 14:49:41",
+    "ja_summary": "・CodexアプリにPC操作を代行する「Computer use」機能が追加。\n・アプリ内ブラウザの統合や、新たに画像生成機能が利用可能に。\n・2026年4月16日のアップデートにより、実務効率を大幅に高める新機能が多数実装。"
+  },
+  {
+    "title": "Claude Codeで実際に起きたセキュリティ事故7選と防止策",
+    "link": "https://qiita.com/masa_ClaudeCodeLab/items/8c22966fbd3c125c53dc",
+    "source": "Qiita (Popular)",
+    "published": "2026-04-17T14:38:44+09:00",
+    "summary": "# Claude Codeで実際に起きたセキュリティ事故7選と防止策\n\n「Claude Code は便利だけど、なんとなく怖い」——この感覚は正しいです。強力なツールは強力な事故を起こします。実際に開発現場で起きがちなケースを7つ取り上げ、原因と防止策を解説します。\n\n## 事例1: `.env` ファイルをGitHubにプッシュ\n\n「CI に環境変数を渡したいので `.env` もコミットして」",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0NDA0NjQwJTJGYmFkMDZmMmM0Zjc5MTRiOGNhYzBiNmU4ODBmODc5MGZkNjQ1MjJlOCUyRmxhcmdlLnBuZyUzRjE3NzU5MTE0Nzc_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPTEwZDk0MjMxZWY0NzJhMGNlMDcyMGFlMjc4MzZlZDg0%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Dec82b9c9a74af788004809b4df56ea3f?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9Q2xhdWRlJTIwQ29kZSVFMyU4MSVBNyVFNSVBRSU5RiVFOSU5QSU5QiVFMyU4MSVBQiVFOCVCNSVCNyVFMyU4MSU4RCVFMyU4MSU5RiVFMyU4MiVCQiVFMyU4MiVBRCVFMyU4MyVBNSVFMyU4MyVBQSVFMyU4MyU4NiVFMyU4MiVBMyVFNCVCQSU4QiVFNiU5NSU4NTclRTklODElQjglRTMlODElQTglRTklOTglQjIlRTYlQUQlQTIlRTclQUQlOTYmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz0yODkwODBlNWNmZGJkMGIzMjNlNDI0NzBiNTA0NzkzYQ&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBtYXNhX0NsYXVkZUNvZGVMYWImdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz0wYjEyYmE5ZjIzZDgyNTViNWU4YTcxNWQ4MDBkM2I2MQ&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=20a023877c507f08ff94f38eb4c26745",
+    "fetched_at": "2026-04-18 14:50:04",
+    "ja_summary": "・Claude Codeは強力な反面、誤操作による情報漏洩などのリスクが潜んでいる。\n・機密ファイル（.env等）の誤送信や設定ミスが主な事故の原因となる。\n・ツールを利用する際は、権限管理やコミット前の確認を徹底することが重要。"
+  },
+  {
     "title": "「Pixel 10a」の旅行での使い勝手は？　新型スマートフォンと旅する奈良・吉野",
     "link": "https://japan.cnet.com/article/35246527/",
     "source": "CNET Japan",
@@ -978,25 +998,5 @@
     "image": "https://image.itmedia.co.jp/business/articles/2604/16/cover_news022.jpg",
     "fetched_at": "2026-04-17 08:00:46",
     "ja_summary": "・「カスタムGPT」は特定のタスクやキャラを固定する「専門家」として活用する。\n・「プロジェクト」は関連ファイルや過去の対話をまとめて扱う「作業場」として使う。\n・両者を使い分けず併用することで、定型業務の効率化と複雑な案件の管理を両立できる。"
-  },
-  {
-    "title": "Anthropic、Claude Opus 4.7公開--「指示に従順かつセンスがあり創造的」なモデル",
-    "link": "https://japan.cnet.com/article/35246531/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "Anthropicは現地時間4月16日、新たなAIモデルを公開した。とはいえ、それは「Claude Mythos Preview」ではない。一般提供が始まった「Claude Opus 4.7」は、開発者や、自然言語で指示しながらコードを書かせる“vibe coding”の利用者が、特に難しいコーディング作業に取り組む際の支援を想定したモデルだ。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35246531/\"><img src=\"https://japan.cnet.com/storage/2026/04/17/352ac2e64d78ac26f513d20c012e7874/t/184/138/d/anthropic-claude-logo-gettyimages-2269811684.jpeg\" /></a>",
-    "image": "https://japan.cnet.com/storage/2026/04/17/352ac2e64d78ac26f513d20c012e7874/t/184/138/d/anthropic-claude-logo-gettyimages-2269811684.jpeg",
-    "fetched_at": "2026-04-17 08:01:09",
-    "ja_summary": "・Anthropicが新AIモデル「Claude Opus 4.7」を公開。\n・指示への忠実さと創造性を高め、複雑なコーディング作業に特化。\n・自然言語で直感的にコードを書く「vibe coding」ユーザーの支援を想定。"
-  },
-  {
-    "title": "アップル、Siri開発者200人を「ブートキャンプ」に投入か　遅延の挽回狙う",
-    "link": "https://japan.cnet.com/article/35246493/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "アップルは、200人弱の「Siri」担当エンジニアを数週間にわたるAIコーディング・ブートキャンプに派遣する計画だという。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35246493/\"><img src=\"https://japan.cnet.com/storage/2026/04/16/8a5f719c61ee39642ad8db9f15c102da/t/184/138/d/gettyimages-2255802648_1280x960.jpg\" /></a>",
-    "image": "https://japan.cnet.com/storage/2026/04/16/8a5f719c61ee39642ad8db9f15c102da/t/184/138/d/gettyimages-2255802648_1280x960.jpg",
-    "fetched_at": "2026-04-17 08:01:09",
-    "ja_summary": "・アップルがSiri担当エンジニア約200人をAI開発の強化ブートキャンプに投入。\n・AI分野での開発遅延を挽回し、競争力を高める狙い。\n・生成AIの進化に対応するため、社内の技術力底上げを急ぐ。"
   }
 ]
