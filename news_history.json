@@ -1,5 +1,25 @@
 [
   {
+    "title": "中国の｢大卒･院卒の就職難｣にAIが追い打ち／アリババのインターン説明会に学生が殺到する事情 | ビジネス | 東洋経済オンライン",
+    "link": "https://toyokeizai.net/articles/-/941629?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+    "source": "東洋経済オンライン",
+    "published": "Sun, 19 Apr 2026 05:40:00 +0900",
+    "summary": "中国では近年､大学や大学院の新卒者の就職難が深刻化しています。その一方､アリババなどの大手IT企業はインターン募集を通じて学生に積極的にアプローチしています。一見相反する動きの裏にはAIの影響がある…",
+    "image": "https://tk.ismcdn.jp/mwimgs/e/8/1200w/img_e8cafdb9e50fa5d8b868c7b8bd1db9ea204626.jpg?nextgen=false",
+    "fetched_at": "2026-04-19 05:52:36",
+    "ja_summary": "・中国で大卒・院卒の深刻な就職難が続く一方、大手IT企業ではインターンへの応募が殺到している。\n・企業はAI開発を加速させるため、即戦力となる優秀な学生の早期確保を最優先している。\n・AI技術の台頭で業務が効率化・変化する中、学生側も厳しい選別を勝ち抜くためのキャリア形成を急いでいる。"
+  },
+  {
+    "title": "エンジニア歴20年の私が、素人バイブコーディング勢に物申す",
+    "link": "https://qiita.com/Akira-Isegawa/items/00f23d206c504db2ac3b",
+    "source": "Qiita (Popular)",
+    "published": "2026-04-13T11:07:41+09:00",
+    "summary": "> お前がコードを書き始める前に\n> 言っておきたい事がある\n> かなりきびしい話もするが\n> 俺の本音を聞いておけ\n\n![image.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/199506/c49a68b9-0c5f-4c71-a614-6c0bec1a81f9.png)\n\n\n## はじめに\n\nこれから少しの",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmF2YXRhcnMyLmdpdGh1YnVzZXJjb250ZW50LmNvbSUyRnUlMkY5OTYwNDklM0Z2JTNEND9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9MTFmMDUwMTI0OTJjNGQ2ZjJkMjk2NmIyNzI2ZTMxZmY%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3De511b377cfcf39b1a79c86766165317c?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgyJUE4JUUzJTgzJUIzJUUzJTgyJUI4JUUzJTgzJThCJUUzJTgyJUEyJUU2JUFEJUI0MjAlRTUlQjklQjQlRTMlODElQUUlRTclQTclODElRTMlODElOEMlRTMlODAlODElRTclQjQlQTAlRTQlQkElQkElRTMlODMlOTAlRTMlODIlQTQlRTMlODMlOTYlRTMlODIlQjMlRTMlODMlQkMlRTMlODMlODclRTMlODIlQTMlRTMlODMlQjMlRTMlODIlQjAlRTUlOEIlQTIlRTMlODElQUIlRTclODklQTklRTclOTQlQjMlRTMlODElOTkmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1kMzkxYjFhYTMxNzE2MGEzZTA4YzNkYjM1ZDdhMjljNA&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBBa2lyYS1Jc2VnYXdhJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9ZDRiNWU1OGI1ZjA0MDg2NDQ2ZDY4NTBmNTlkMGEyMzM&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=607439657f465de26227399984e65b3c",
+    "fetched_at": "2026-04-19 05:53:38",
+    "ja_summary": "AIによる自動生成（バイブコーディング）に頼る初心者に対し、ベテランエンジニアが基礎的スキルの重要性と「書く前の準備」の必要性を提言している。\nツール任せでコードを生成するだけでなく、処理の仕組みや論理的な設計を理解しなければ、エンジニアとして成長できないと警鐘を鳴らす内容。\nAIを過信せず、自ら考え設計するプロとしての姿勢を持つことが、開発現場で生き残る条件であると説いている。"
+  },
+  {
     "title": "InstiLLMent of Successful Practices in an Agentic World",
     "link": "https://speakerdeck.com/kevinmurphy/instillment-of-successful-practices-in-an-agentic-world",
     "source": "Speaker Deck (Tech)",
@@ -978,25 +998,5 @@
     "image": "https://japan.zdnet.com/storage/2026/04/17/0403558a50a90876425068a68f369db5/t/184/138/d/260417_squ_l.jpg",
     "fetched_at": "2026-04-17 14:10:50",
     "ja_summary": "スクウェア・エニックスは、漫画制作の「写植指定」業務を自動化するAIを導入する。\nMantraと共同開発した新技術により、年間約3000時間を要する手作業の効率化を図る。\n今後は出版事業本部のコミック編集部にて段階的に実運用を開始する。"
-  },
-  {
-    "title": "Trusted access for the next era of cyber defense",
-    "link": "https://openai.com/index/scaling-trusted-access-for-cyber-defense",
-    "source": "OpenAI",
-    "published": "Tue, 14 Apr 2026 00:00:00 GMT",
-    "summary": "OpenAI expands its Trusted Access for Cyber program, introducing GPT-5.4-Cyber to vetted defenders and strengthening safeguards as AI cybersecurity capabilities advance.",
-    "image": "https://openai.com/favicon.ico",
-    "fetched_at": "2026-04-17 14:10:53",
-    "ja_summary": "・OpenAIがサイバー防衛プログラムを拡充し、新たに「GPT-5.4-Cyber」を公開。\n・認定された防衛者向けに提供し、AIの進化に伴うセキュリティ上の安全性を強化。\n・次世代のサイバー防衛に向けた、信頼性の高いアクセス環境を構築。"
-  },
-  {
-    "title": "Claude Code ルーチン を触ってみた: 既存スケジューリング手段との差分とナレッジワーカー向け3サンプル設計",
-    "link": "https://zenn.dev/canly/articles/ed403b2b3d3bb3",
-    "source": "Zenn Trends",
-    "published": "Wed, 15 Apr 2026 10:17:13 GMT",
-    "summary": "本記事は2026年4月時点の公式ドキュメント調査 + Web/DesktopアプリのUI確認 + Teamプランでの実機検証に基づきます\n\n\n はじめに\n2026/4/15、Claude Codeにルーチンが追加されました（リサーチプレビュー、Pro/Max/Team/Enterpriseプラン対象）。クラウド上でClaude Codeのセッションを自動実行する仕組みで、スケジュール・API・GitHub イベントの3種類のトリガーを1つのルーチンに束ねられるのが最大の特長です\n既存のスケジューリング手段（/loop、リニューアル前のスケジュールタスク、ローカルタスク、Claude C...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--2TqcXh15--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%2520%25E3%2583%25AB%25E3%2583%25BC%25E3%2583%2581%25E3%2583%25B3%2520%25E3%2582%2592%25E8%25A7%25A6%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%253A%2520%25E6%2597%25A2%25E5%25AD%2598%25E3%2582%25B9%25E3%2582%25B1%25E3%2582%25B8%25E3%2583%25A5%25E3%2583%25BC%25E3%2583%25AA%25E3%2583%25B3%25E3%2582%25B0%25E6%2589%258B%25E6%25AE%25B5%25E3%2581%25A8%25E3%2581%25AE%25E5%25B7%25AE%25E5%2588%2586%25E3%2581%25A8%25E3%2583%258A%25E3%2583%25AC%25E3%2583%2583%25E3%2582%25B8%25E3%2583%25AF%25E3%2583%25BC%25E3%2582%25AB%25E3%2583%25BC%25E5%2590%2591%25E3%2581%25913%25E3%2582%25B5%25E3%2583%25B3%25E3%2583%2597%25E3%2583%25AB%25E8%25A8%25AD%25E8%25A8%2588%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E3%2581%25B5%25E3%2581%258F%25E3%2581%25A0%25EF%25BC%2588fukuda%2520ryu%25EF%25BC%2589%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2EwYjI3NWVjYTkuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2582%25AB%25E3%2583%25B3%25E3%2583%25AA%25E3%2583%25BC%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzEyMjRmMTIyZTMuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-    "fetched_at": "2026-04-17 14:11:09",
-    "ja_summary": "・Claude Codeに「ルーチン」機能が追加され、クラウド上での自動セッション実行が可能になった。\n・スケジュール、API、GitHubイベントの3つのトリガーを統合し、タスクの自動化を実現する。\n・既存のローカル実行手法と比較し、クラウドベースの運用により効率的なワークフロー構築が可能。"
   }
 ]
