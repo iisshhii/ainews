@@ -1,5 +1,35 @@
 [
   {
+    "title": "Introducing GPT-Rosalind for life sciences research",
+    "link": "https://openai.com/index/introducing-gpt-rosalind",
+    "source": "OpenAI",
+    "published": "Thu, 16 Apr 2026 01:00:00 GMT",
+    "summary": "OpenAI introduces GPT-Rosalind, a frontier reasoning model built to accelerate drug discovery, genomics analysis, protein reasoning, and scientific research workflows.",
+    "image": "https://openai.com/favicon.ico",
+    "fetched_at": "2026-04-20 03:55:29",
+    "ja_summary": "・OpenAIが生命科学研究特化型のAI「GPT-Rosalind」を発表。\n・創薬、ゲノム解析、タンパク質構造予測などの研究を加速。\n・科学的な推論能力を強化し、研究ワークフローの効率化を実現。"
+  },
+  {
+    "title": "The next evolution of the Agents SDK",
+    "link": "https://openai.com/index/the-next-evolution-of-the-agents-sdk",
+    "source": "OpenAI",
+    "published": "Wed, 15 Apr 2026 10:00:00 GMT",
+    "summary": "OpenAI updates the Agents SDK with native sandbox execution and a model-native harness, helping developers build secure, long-running agents across files and tools.",
+    "image": "https://openai.com/favicon.ico",
+    "fetched_at": "2026-04-20 03:55:29",
+    "ja_summary": "・OpenAIがAgents SDKをアップデートし、安全な実行環境「サンドボックス」を標準搭載。\n・外部ファイルやツールを扱う複雑な自律型AIエージェントの開発がより容易に。\n・長時間稼働にも対応し、実用的なAIアプリケーション構築を強力に支援。"
+  },
+  {
+    "title": "The 5 Pillars  of Calibrated Trust for Production Agents and AI Solutions",
+    "link": "https://speakerdeck.com/stigsfoot/the-5-pillars-of-calibrated-trust-for-production-agents-and-ai-solutions",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-04-19T14:06:01-04:00",
+    "summary": "In the shift from the experimental \"naive\" agent architectures of 2024 to the production-ready systems of 2026, the primary barrier to adoption is no longer technical capability, but trust. To bridge this gap, developers must move beyond optimizing for simple accuracy and focus on Calibrated Trust—ensuring human reliance matches actual system capability. This framework is built on five core pillars:\n\nTransparency: Moving from simple data citations to tool provenance, where every agent decision and tool invocation is traceable and verified.\n\nSuccess Measures: Prioritizing safety scores and behavioral monitoring over accuracy to detect drift and potential catastrophic failures early.\n\nValue Delivery: Drastically reducing the time-to-production (from months to days) using standardized protocols like A2A (Agent-to-Agent) and agent cards.\n\nUser Experience: Implementing an adaptive Human-in-the-Loop (HITL) continuum where autonomy is determined by the financial or operational consequence of the task.\n\nConsequence Acceptance: Enforcing cryptographic mandates and policy-as-code to strictly contain the \"blast radius\" of any agentic action.\n\nUltimately, agentic systems succeed when they are designed for the \"cognitive surrender\" of the user—assuming humans will eventually stop paying attention and building system-level containment to ensure safety remains absolute.",
+    "image": "https://files.speakerdeck.com/presentations/ee928896c5d748bb88f82f9bb9ca517a/preview_slide_0.jpg?39140593",
+    "fetched_at": "2026-04-20 03:55:42",
+    "ja_summary": "AIエージェントの実用化には単なる精度向上ではなく、システムの能力と人間の信頼度を一致させる「適正な信頼（Calibrated Trust）」の構築が不可欠である。\n構築の5本柱は、透明性・安全性評価・開発効率化・状況に応じた介入権限・損害抑止（ガードレール）で構成される。\n人間がいずれ監視を怠ることを前提とし、システム側で安全性を担保する設計への転換が普及の鍵となる。"
+  },
+  {
     "title": "Introducing Claude Opus 4.7",
     "link": "https://www.anthropic.com/news/claude-opus-4-7",
     "source": "Anthropic (News)",
@@ -968,35 +998,5 @@
     "image": "https://xtech.nikkei.com/atcl/nxt/mag/ne/18/00001/00633/topm.jpg?20220512",
     "fetched_at": "2026-04-17 17:52:33",
     "ja_summary": "BMWはAI活用のため、ドイツ・ライプチヒ工場で人型ロボットの試験導入を検討。\n量産工程での実用化を目指す。"
-  },
-  {
-    "title": "ソフトバンク、OSにAIエージェント搭載のスマホ「Natural AI Phone」",
-    "link": "https://www.watch.impress.co.jp/docs/news/2102583.html",
-    "source": "Impress Watch",
-    "published": "",
-    "summary": "ソフトバンクは、OSレベルでAIエージェントを搭載した、米Brain Technologies製のスマートフォン「Natural AI Phone」を4月24日に発売する。日本で1年間はソフトバンクの独占販売。価格は93,600円。48回払いの割賦は24回目まで毎月1円など各種の購入支援策の対象。AIサービスの利用に料金はかからない。",
-    "image": "https://www.watch.impress.co.jp/img/ipw/list/2102/583/sb00.jpg",
-    "fetched_at": "2026-04-17 17:52:35",
-    "ja_summary": "ソフトバンクがAIエージェント搭載スマホ「Natural AI Phone」を発売。\nOSレベルでAIが動作し、利用料金は無料。\n日本独占販売で、購入支援策も用意。"
-  },
-  {
-    "title": "イラン戦争ショック、日本のFIRE達成者たちはどう乗り切ったか？ “心構え”や“投資プラン”について",
-    "link": "https://www.businessinsider.jp/article/2604-how-did-japanese-fire-achievers-survive-the-iran-war-shock/",
-    "source": "Business Insider Japan",
-    "published": "Fri, 17 Apr 2026 08:30:00 GMT",
-    "summary": "市場はいわば&quot;戦争を無視するモード&quot;に入りました。イラン戦争は終結の目処が立っておらず、AIバブルへの懸念も後回しになっています。このような不確実性の高い状態で、日本のFIRE達成者6人はどんなスタンスでいるのでしょうか？",
-    "image": "https://media.loom-app.com/loom/2026/04/16/5788e198-4e01-4041-b5c5-8fa02f0b5c97/original.jpg?w=1200&amp;h=630",
-    "fetched_at": "2026-04-17 17:52:41",
-    "ja_summary": "*   イラン情勢の不確実性高まる中、日本のFIRE達成者は市場の動揺を冷静に受け止めている。\n*   AIバブル懸念も後回しにし、自身の投資プランと「心構え」で乗り切る姿勢。\n*   不測の事態にも動じない、経済的自立者のリスク管理術が示唆されている。"
-  },
-  {
-    "title": "Gemini Robotics-ER 1.6 を試す",
-    "link": "https://note.com/npaka/n/n93116b196748",
-    "source": "note (npaka)",
-    "published": "Wed, 15 Apr 2026 09:38:13 +0900",
-    "summary": "<p id=\"ac6775d5-7b9e-4a69-8861-44cc04e32eeb\" name=\"ac6775d5-7b9e-4a69-8861-44cc04e32eeb\">「Gemini Robotics-ER 1.6」を試したのでまとめました。</p><figure id=\"897fbeaa-b41f-4c66-ad03-aa48cd2278b8\" name=\"897fbeaa-b41f-4c66-ad03-aa48cd2278b8\"><blockquote><p id=\"364efb90-b548-435e-8fa8-c4e3a19a2733\" name=\"364efb90-b548-435e-8fa8-c4e3a19a2733\"><strong>・</strong><a href=\"https://github.com/google-gemini/robotics-samples/blob/main/Getting%20Started/gemini_robotics_er.ipynb\" rel=\"nofollow noopener\" target=\"_blank\"><strong>Gemini Quickstart: Gemini Robotics-ER</strong></a></p></blockquote>\n<figcaption></figcaption></figure><br /><a href=\"https://note.com/npaka/n/n93116b196748\">続きをみる</a>",
-    "image": "https://assets.st-note.com/production/uploads/images/267515941/rectangle_large_type_2_fc0266e57cf72088b24f3873ac302193.png?width=800",
-    "fetched_at": "2026-04-17 17:52:42",
-    "ja_summary": "Gemini Robotics-ER 1.6の試用体験をまとめた記事です。\nGitHubで公開されているGemini Robotics-ERのクイックスタートガイドも参照しています。\n詳細はこの後で説明されています。"
   }
 ]
