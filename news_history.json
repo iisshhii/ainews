@@ -1,5 +1,25 @@
 [
   {
+    "title": "Introducing Claude Opus 4.7",
+    "link": "https://www.anthropic.com/news/claude-opus-4-7",
+    "source": "Anthropic (News)",
+    "published": "Thu, 16 Apr 2026 00:00:00 +0000",
+    "summary": "Introducing Claude Opus 4.7",
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/96ea2509a90e527642c822303e56296a07bcfce4-1920x1080.png",
+    "fetched_at": "2026-04-20 02:59:40",
+    "ja_summary": "・AIモデル「Claude Opus」の最新版となる「4.7」が発表されました。\n・性能や処理能力が強化され、より高度な推論とタスク実行が可能になっています。\n・既存のClaudeシリーズからさらなる精度向上を図ったアップデートです。"
+  },
+  {
+    "title": "Google Build with AI Keynote: Agentic Reality Check",
+    "link": "https://speakerdeck.com/stigsfoot/google-build-with-ai-keynote-agentic-reality-check",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-04-19T13:28:42-04:00",
+    "summary": "Key Themes\nDesign for Trust: Moving from \"black box\" automation to transparent, governed systems.\n\nThe \"Flight Recorder\" Concept: The necessity of logging and observability in agentic workflows to ensure accountability and error correction.\n\nDefense in Depth: Implementing \"Model Armor\" and multi-layered security to protect against common 2026 exploits and unauthorized data access.\n\nOrchestration Over Autonomy: Why \"multi-agent\" is often just a polite term for a distributed system, and how to manage the resulting complexity.\n\nEvaluation as Leverage: Shifting the perspective of evaluation from a chore (\"broccoli\") to a strategic advantage (\"leverage\") for refining system output.\n\nThe Pragmatist’s Playbook\nThe deck concludes with actionable strategies for architects and product leaders to build agent-to-agent (A2A) systems that don't share memory or compromise security, ensuring AI integration remains an asset rather than a liability.",
+    "image": "https://files.speakerdeck.com/presentations/05258498cfd2403db8691ceadfc72d98/preview_slide_0.jpg?39140349",
+    "fetched_at": "2026-04-20 02:59:50",
+    "ja_summary": "・AIエージェント開発では、ブラックボックス化を防ぐ透明性と、エラー追跡を可能にする「フライトレコーダー」的なログ管理が不可欠。\n・「Model Armor」など多層的なセキュリティ対策を講じ、自律性よりも分散システムとしての堅牢な設計と運用を優先すべきである。\n・評価プロセスを単なる作業ではなく戦略的優位性と捉え、セキュリティを損なわないエージェント間連携（A2A）の構築を目指す。"
+  },
+  {
     "title": "見積AIエージェントβ版",
     "link": "https://xtech.nikkei.com/atcl/nxt/mag/ncr/18/00008/040900556/",
     "source": "日経クロステック 総合",
@@ -978,25 +998,5 @@
     "image": "https://assets.st-note.com/production/uploads/images/267515941/rectangle_large_type_2_fc0266e57cf72088b24f3873ac302193.png?width=800",
     "fetched_at": "2026-04-17 17:52:42",
     "ja_summary": "Gemini Robotics-ER 1.6の試用体験をまとめた記事です。\nGitHubで公開されているGemini Robotics-ERのクイックスタートガイドも参照しています。\n詳細はこの後で説明されています。"
-  },
-  {
-    "title": "Introducing GPT-Rosalind for life sciences research",
-    "link": "https://openai.com/index/introducing-gpt-rosalind",
-    "source": "OpenAI",
-    "published": "Thu, 16 Apr 2026 01:00:00 GMT",
-    "summary": "OpenAI introduces GPT-Rosalind, a frontier reasoning model built to accelerate drug discovery, genomics analysis, protein reasoning, and scientific research workflows.",
-    "image": "https://openai.com/favicon.ico",
-    "fetched_at": "2026-04-17 17:52:50",
-    "ja_summary": "・OpenAIが生命科学研究特化型の推論モデル「GPT-Rosalind」を発表。\n・創薬、ゲノム解析、タンパク質構造解析などの研究ワークフローを加速。\n・専門性の高い科学研究分野の効率化と高度化を支援する。"
-  },
-  {
-    "title": "The next evolution of the Agents SDK",
-    "link": "https://openai.com/index/the-next-evolution-of-the-agents-sdk",
-    "source": "OpenAI",
-    "published": "Wed, 15 Apr 2026 10:00:00 GMT",
-    "summary": "OpenAI updates the Agents SDK with native sandbox execution and a model-native harness, helping developers build secure, long-running agents across files and tools.",
-    "image": "https://openai.com/favicon.ico",
-    "fetched_at": "2026-04-17 17:52:51",
-    "ja_summary": "OpenAIがAgents SDKをアップデート。\n安全で長期間稼働するエージェント開発を、ファイルやツール連携と共に容易に。\nサンドボックス実行とモデルネイティブハーネスを導入。"
   }
 ]
