@@ -1,5 +1,15 @@
 [
   {
+    "title": "大規模言語モデルの原理と使いこなしの原則 / Principles of Large Language Models and How to Use Them Effectively",
+    "link": "https://speakerdeck.com/ks91/principles-of-large-language-models-and-how-to-use-them-effectively",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-04-19T05:45:23-04:00",
+    "summary": "早稲田大学大学院経営管理研究科「プロンプトエンジニアリング ─ 生成 AI の応用」2026春のオンデマンド教材 第7回で使用したスライドです。",
+    "image": "https://files.speakerdeck.com/presentations/2ea05acacc4145caa562bd3e5385e55f/preview_slide_0.jpg?39137723",
+    "fetched_at": "2026-04-19 19:24:06",
+    "ja_summary": "・大規模言語モデル（LLM）の基本原理を体系的に解説。\n・生成AIを実務で活用するためのプロンプトエンジニアリング技術を網羅。\n・ビジネス応用を目的とした、AIを効果的に使いこなす原則を習得できる。"
+  },
+  {
     "title": "GitHub CopilotはGodot開発でどこまで使える？ 現役高校生がローグライクゲームを作ってみた",
     "link": "https://zenn.dev/problemedge/articles/f81c4fff5ac2b0",
     "source": "Zenn Trends",
@@ -988,15 +998,5 @@
     "image": "https://res.cloudinary.com/zenn/image/upload/s--c9JCebtE--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2581%259D%25E3%2581%25AEAI%25E8%2587%25AD%25E3%2582%2592%25E6%25B6%2588%25E3%2581%2599%25E5%258A%25AA%25E5%258A%259B%25E3%2581%25AF%25E3%2580%2581%25E8%25AA%25B0%25E3%2581%25AE%25E3%2581%259F%25E3%2582%2581%25E3%2581%25AB%25E3%2582%2584%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%2584%25E3%2582%258B%25E3%2581%25AE%25E3%2581%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:kaito.abe%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2U2ZDA4MDY5ODcuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Accenture%2520Japan%2520%2528%25E6%259C%2589%25E5%25BF%2597%2529%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jS2xBSHVmRjZ5dUJqM0VyNXZkTnhPeTk3MXp1bnRJeHRRVXp4Si1RYjdMWUduOU1nPXM5Ni1j%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
     "fetched_at": "2026-04-17 16:03:59",
     "ja_summary": "AI生成の低品質なコンテンツ（スロップ）が急増し、世間のAI嫌悪感が強まっている。\nAI特有の無機質さを消す努力が求められているが、それは読む側の負担を軽減するための誠実な配慮である。\n今後は生成の効率化だけでなく、読者に対する品質保証という視点がAI活用の成否を分ける。"
-  },
-  {
-    "title": "Claude Codeのトークン消費が$40/日から1週間でも余裕になった全手法",
-    "link": "https://zenn.dev/okamyuji/articles/claude-code-max-x20-token-savings",
-    "source": "Zenn Trends",
-    "published": "Thu, 16 Apr 2026 11:18:19 GMT",
-    "summary": "はじめに\n会社のClaude Enterprise（API経由・社内プロキシ経由）で1日あたり$40前後を消費していた開発環境が、MAX x20への切り替え後は週間使用量が極めて低い水準に収まりました。同じOpus 4.6モデル、同じツールチェーン（rtk、kizami、同一プラグイン群）、さらに同じ社内プロキシ設定（ANTHROPIC_BASE_URL）のままです。\nこの結果から、トークン消費の差は社内プロキシの有無ではなく、EnterpriseとMAXの課金モデルの構造差が主因だとわかりました。本記事ではこの構造差を分析したうえで、プランに関係なく効果を発揮するトークン節約手法を...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--066OWR-v--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%25E3%2581%25AE%25E3%2583%2588%25E3%2583%25BC%25E3%2582%25AF%25E3%2583%25B3%25E6%25B6%2588%25E8%25B2%25BB%25E3%2581%258C%252440%252F%25E6%2597%25A5%25E3%2581%258B%25E3%2582%25891%25E9%2580%25B1%25E9%2596%2593%25E3%2581%25A7%25E3%2582%2582%25E4%25BD%2599%25E8%25A3%2595%25E3%2581%25AB%25E3%2581%25AA%25E3%2581%25A3%25E3%2581%259F%25E5%2585%25A8%25E6%2589%258B%25E6%25B3%2595%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:okamyuji%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzY5YjFmNDYyYjkuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-    "fetched_at": "2026-04-17 16:04:00",
-    "ja_summary": "・Claude Code利用時のコストが、プラン切り替え（EnterpriseからMAX）により1日40ドルから週単位で収まる水準に大幅削減。\n・コスト差の主因は社内プロキシではなく、各プランの課金モデルの構造的な違いにあると特定。\n・プランを問わず適用可能なトークン節約の具体的な手法を解説。"
   }
 ]
