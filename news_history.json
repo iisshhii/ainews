@@ -1,5 +1,15 @@
 [
   {
+    "title": "Introducing Claude Design by Anthropic Labs",
+    "link": "https://www.anthropic.com/news/claude-design-anthropic-labs",
+    "source": "Anthropic (News)",
+    "published": "Fri, 17 Apr 2026 00:00:00 +0000",
+    "summary": "Introducing Claude Design by Anthropic Labs",
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Quill&amp;backgroundColor=cactus",
+    "fetched_at": "2026-04-20 06:58:44",
+    "ja_summary": "・Anthropic社がAI「Claude」の新機能「Claude Design」を発表\n・デザイン業務を効率化・高度化するための専用ツールと推測される\n・AIによる設計プロセスの刷新と生産性向上が期待される"
+  },
+  {
     "title": "Anthropicの新AI「Mythos」の脅威を、全米証券業協会が名指しで警告。大規模不正アクセスなど「金融システム全体を混乱させる恐れ」",
     "link": "https://www.businessinsider.jp/article/2604-anthropic-mythos-ai-cybersecurity-financial-system-risks-retail-investor-data/",
     "source": "Business Insider Japan",
@@ -988,15 +998,5 @@
     "image": "https://image.itmedia.co.jp/business/articles/2604/16/cover_news016.jpg",
     "fetched_at": "2026-04-18 03:35:42",
     "ja_summary": "日立製作所が、熟練工の「暗黙知」をAIで抽出・データ化し、現場の技術継承や改革に活かす取り組みを加速させている。\nデジタル空間から現実空間（フィジカル）へとAI活用を広げ、熟練者の勘や技を再現することで現場の生産性向上を目指す。\n2026年を「フィジカルAIの時代」と位置づけ、熟練工本人も言語化できない高度なスキルをデータ化する独自の勝ち筋を追求している。"
-  },
-  {
-    "title": "gh skillが登場。GitHub公式のスキル管理ツールにnpx skillsから乗り換えた",
-    "link": "https://zenn.dev/ubie_dev/articles/gh-skill-install-agent-skills",
-    "source": "Zenn Trends",
-    "published": "Fri, 17 Apr 2026 12:48:49 GMT",
-    "summary": "AIエージェント向けのスキル（Agent Skills）、みなさんはどう管理していますか？\n2026/04/16、GitHub公式CLIのghに、スキルをパッケージ管理する新しいサブコマンドgh skillが追加されました。GitHubのリポジトリに公開されているスキルをgh経由でインストール・アップデート・公開できます。筆者はこれまでnpx skillsでスキルをインストール・管理してきましたが、gh skillの方が安全面でよさそうなので乗り換えることにしました。\n本記事では、メリットや実際の動作を紹介します。\nhttps://github.blog/changelog/2026-0...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--UAyOZivk--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:gh%2520skill%25E3%2581%258C%25E7%2599%25BB%25E5%25A0%25B4%25E3%2580%2582GitHub%25E5%2585%25AC%25E5%25BC%258F%25E3%2581%25AE%25E3%2582%25B9%25E3%2582%25AD%25E3%2583%25AB%25E7%25AE%25A1%25E7%2590%2586%25E3%2583%2584%25E3%2583%25BC%25E3%2583%25AB%25E3%2581%25ABnpx%2520skills%25E3%2581%258B%25E3%2582%2589%25E4%25B9%2597%25E3%2582%258A%25E6%258F%259B%25E3%2581%2588%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E9%25B9%25BF%25E9%2587%258E%2520%25E5%25A3%25AE%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2VlOWMzMWRhODMuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Ubie%2520%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2hwRUMxbUtjVjZsX01lT2R6N1Nsejk1SXR4WUZoYjB2LTNOdzNjV3c9czI1MC1j%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-    "fetched_at": "2026-04-18 03:36:28",
-    "ja_summary": "・GitHub公式CLIに、AIエージェントのスキルを管理する新機能「gh skill」が追加。\n・GitHubリポジトリ経由でスキルのインストール・管理が可能になり、安全性が向上。\n・従来の「npx skills」からの移行先として、公式ツールによる一元管理が推奨される。"
   }
 ]
