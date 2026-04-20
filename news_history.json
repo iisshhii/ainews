@@ -1,5 +1,25 @@
 [
   {
+    "title": "OpenAI helps Hyatt advance AI among colleagues",
+    "link": "https://openai.com/index/hyatt-advances-ai-with-chatgpt-enterprise",
+    "source": "OpenAI",
+    "published": "Mon, 20 Apr 2026 00:00:00 GMT",
+    "summary": "Hyatt deploys ChatGPT Enterprise across its global workforce, using GPT-5.4 and Codex to improve productivity, operations, and guest experiences.",
+    "image": "https://openai.com/favicon.ico",
+    "fetched_at": "2026-04-20 23:29:54",
+    "ja_summary": "・ハイアットが全社規模で「ChatGPT Enterprise」を導入\n・GPT-4とCodexを活用し、業務効率と生産性を向上\n・AIの活用により、ホテル運営および顧客体験の改善を目指す"
+  },
+  {
+    "title": "Claude Code × Obsidian Vault で作る「何でも相談」プロジェクト ― フォルダ構成・CLAUDE.md・MCP設定まで全公開",
+    "link": "https://qiita.com/htani0817/items/0cb5e8f91fa64fb9ba8c",
+    "source": "Qiita (Popular)",
+    "published": "2026-04-18T23:27:42+09:00",
+    "summary": "## はじめに\n\nClaude Code を使い始めて少し経つと、多くの人が同じ問題にぶつかります。\n\n- Claude が生成した `.md` がプロジェクトルート直下に散乱する\n- 「あの調査メモどこ行った？」が週1で起きる\n- Mac と Windows を行き来するたびにパス問題でつまずく\n\nこの記事では、私が実際に運用している「何でも相談-pj」という Claude Code 専用プロジ",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0MDk4MjM2JTJGYTI2OGI2ZjZkYjYyMjg4ODc4NTdhZTU3MzIwNzAxYzhmOWRjYjFkNCUyRmxhcmdlLnBuZyUzRjE3NDgyNzY3NzU_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPTE2YjNmNDQ3OTAzZTllZGZmYzg5ZDMzNWM0OTM0Zjlj%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D7e25c971195c678e769b50eb30b2c965?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9Q2xhdWRlJTIwQ29kZSUyMCVDMyU5NyUyME9ic2lkaWFuJTIwVmF1bHQlMjAlRTMlODElQTclRTQlQkQlOUMlRTMlODIlOEIlRTMlODAlOEMlRTQlQkQlOTUlRTMlODElQTclRTMlODIlODIlRTclOUIlQjglRTglQUIlODclRTMlODAlOEQlRTMlODMlOTclRTMlODMlQUQlRTMlODIlQjglRTMlODIlQTclRTMlODIlQUYlRTMlODMlODglMjAlRTIlODAlOTUlMjAlRTMlODMlOTUlRTMlODIlQTklRTMlODMlQUIlRTMlODMlODAlRTYlQTclOEIlRTYlODglOTAlRTMlODMlQkJDTEFVREUubWQlRTMlODMlQkIlRTIlODAlQTYmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1mNGZiYjg3OTlhNDQ2MzE5ZWY1ZTA1YjRmM2QwMWU1Mg&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBodGFuaTA4MTcmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1kZWViMzc0N2E1MTdhMGQzYWEyZDBlOTg2ODMwYThhOA&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=f4ca13f787b7e22e23009be23e52f837",
+    "fetched_at": "2026-04-20 23:30:08",
+    "ja_summary": "・Claude Code利用時のファイル散乱や管理不全を解決する運用環境を構築\n・Obsidianと連携し、相談内容や調査メモを体系的に整理・検索可能にする手法を公開\n・フォルダ構成やCLAUDE.md、MCP設定を最適化し、マルチOS環境でも快適に運用する方法を解説"
+  },
+  {
     "title": "What Breaks When You Build AI Systems Under Sovereignty Constraints",
     "link": "https://speakerdeck.com/bilgeyucel/what-breaks-when-you-build-ai-systems-under-sovereignty-constraints",
     "source": "Speaker Deck (Tech)",
@@ -978,25 +998,5 @@
     "image": "https://files.speakerdeck.com/presentations/2ea05acacc4145caa562bd3e5385e55f/preview_slide_0.jpg?39137723",
     "fetched_at": "2026-04-19 19:24:06",
     "ja_summary": "・大規模言語モデル（LLM）の基本原理を体系的に解説。\n・生成AIを実務で活用するためのプロンプトエンジニアリング技術を網羅。\n・ビジネス応用を目的とした、AIを効果的に使いこなす原則を習得できる。"
-  },
-  {
-    "title": "GitHub CopilotはGodot開発でどこまで使える？ 現役高校生がローグライクゲームを作ってみた",
-    "link": "https://zenn.dev/problemedge/articles/f81c4fff5ac2b0",
-    "source": "Zenn Trends",
-    "published": "Sat, 18 Apr 2026 06:13:21 GMT",
-    "summary": "AIコーディングが当たり前になりつつある今、実際のゲーム開発現場ではどこまで使えるのか。\n今回は、Godotでローグライクゲームを開発し、Steam公開まで進めた現役高校生開発者のNOVAに、GitHub Copilotをどう実戦投入していたのかを聞きました。\nhttps://x.com/problem_edge\n単に「便利だった」で終わる話ではなく、\n\n仕様書をどの程度書いていたのか\n複雑なゲームルールをどう管理していたのか\nCopilotにどこまで任せられたのか\n逆にどこから先は自分で握るべきなのか\n\nといった、かなり実務寄りの話まで踏み込んでいます。\nそれではインタビューの内容を...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--c2JXWDFD--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:GitHub%2520Copilot%25E3%2581%25AFGodot%25E9%2596%258B%25E7%2599%25BA%25E3%2581%25A7%25E3%2581%25A9%25E3%2581%2593%25E3%2581%25BE%25E3%2581%25A7%25E4%25BD%25BF%25E3%2581%2588%25E3%2582%258B%25EF%25BC%259F%2520%25E7%258F%25BE%25E5%25BD%25B9%25E9%25AB%2598%25E6%25A0%25A1%25E7%2594%259F%25E3%2581%258C%25E3%2583%25AD%25E3%2583%25BC%25E3%2582%25B0%25E3%2583%25A9%25E3%2582%25A4%25E3%2582%25AF%25E3%2582%25B2%25E3%2583%25BC%25E3%2583%25A0%25E3%2582%2592%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:ProblemEdge%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSk1JSDA0VnUxbmlmSG9NTGFJdW4xbHYycWpaNGZqSVVXbUthQzJvb3dHVXNJa0lJRT1zMjUwLWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-    "fetched_at": "2026-04-19 16:53:10",
-    "ja_summary": "・現役高校生がGitHub Copilotを活用してGodotでローグライクゲームを開発し、Steam公開まで達成。\n・AIへの指示出しには詳細な仕様書が不可欠で、複雑なロジック管理には人間による制御が必要。\n・AIはコーディングの補助に強力だが、開発の全工程を任せるのではなく「AIと人間がどこまで分担すべきか」を見極める視点が重要。"
-  },
-  {
-    "title": "MCP vs Skills論争に決着をつける試み。AIエージェントの「拡張手段」を実装・設計・セキュリティで徹底比較する",
-    "link": "https://qiita.com/miruky/items/32314a0d9eb8c154dc95",
-    "source": "Qiita (Popular)",
-    "published": "2026-04-11T00:49:30+09:00",
-    "summary": "![asset_33v9vyfgz_1775834516257.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3637204/8f142ebe-53ed-4402-9564-1453370e0d8f.png)\n\n\n## はじめに\n\nこんばんは、mirukyです。\n\n「MCPはもう死んだ」「Skillsが新しい標準だ",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGMzYzNzIwNCUyRnByb2ZpbGUtaW1hZ2VzJTJGMTc3NDQ0NTA3MD9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NWY2OTc3NjFmNDZhMTA4YTgyMjNmMDEzODFkMGVmZTY%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Db2bc8d820e2037057c6470791c40d1f8?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9TUNQJTIwdnMlMjBTa2lsbHMlRTglQUIlOTYlRTQlQkElODklRTMlODElQUIlRTYlQjElQkElRTclOUQlODAlRTMlODIlOTIlRTMlODElQTQlRTMlODElOTElRTMlODIlOEIlRTglQTklQTYlRTMlODElQkYlRTMlODAlODJBSSVFMyU4MiVBOCVFMyU4MyVCQyVFMyU4MiVCOCVFMyU4MiVBNyVFMyU4MyVCMyVFMyU4MyU4OCVFMyU4MSVBRSVFMyU4MCU4QyVFNiU4QiVBMSVFNSVCQyVCNSVFNiU4OSU4QiVFNiVBRSVCNSVFMyU4MCU4RCVFMyU4MiU5MiVFNSVBRSU5RiVFOCVBMyU4NSVFMyU4MyVCQiVFOCVBOCVBRCVFOCVBOCU4OCVFMyU4MyVCQiVFMyU4MiVCQiVFMyU4MiVBRCVFMyU4MyVBNSVFMyU4MyVBQSVFMyU4MyU4NiVFMyU4MiVBMyVFMyU4MSVBNyVFNSVCRSVCOSVFMiU4MCVBNiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTliNGE2OTU5NWIzOTFmYmZjZTdmYWJiYmRjMGUzNDgx&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBtaXJ1a3kmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1iMWMwZjM0MGFkNTI5NmU1ZmNjNDFiZDQxMGY0YWRjYw&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=28f1da7718cbf9d4d00d5652e147a5f3",
-    "fetched_at": "2026-04-19 16:53:14",
-    "ja_summary": "AIエージェントの外部機能拡張における「MCP」と「Skills」を、実装・設計・セキュリティの観点から徹底比較。\nそれぞれの強みと選定基準を明確にし、現状の論争に決着をつけるための実用的なガイドラインを提示する。"
   }
 ]
