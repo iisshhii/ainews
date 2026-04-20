@@ -1,5 +1,15 @@
 [
   {
+    "title": "MCP vs Skills論争に決着をつける試み。AIエージェントの「拡張手段」を実装・設計・セキュリティで徹底比較する",
+    "link": "https://qiita.com/miruky/items/32314a0d9eb8c154dc95",
+    "source": "Qiita (Popular)",
+    "published": "2026-04-11T00:49:30+09:00",
+    "summary": "![asset_33v9vyfgz_1775834516257.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3637204/8f142ebe-53ed-4402-9564-1453370e0d8f.png)\n\n\n## はじめに\n\nこんばんは、mirukyです。\n\n「MCPはもう死んだ」「Skillsが新しい標準だ",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGMzYzNzIwNCUyRnByb2ZpbGUtaW1hZ2VzJTJGMTc3NDQ0NTA3MD9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NWY2OTc3NjFmNDZhMTA4YTgyMjNmMDEzODFkMGVmZTY%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Db2bc8d820e2037057c6470791c40d1f8?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9TUNQJTIwdnMlMjBTa2lsbHMlRTglQUIlOTYlRTQlQkElODklRTMlODElQUIlRTYlQjElQkElRTclOUQlODAlRTMlODIlOTIlRTMlODElQTQlRTMlODElOTElRTMlODIlOEIlRTglQTklQTYlRTMlODElQkYlRTMlODAlODJBSSVFMyU4MiVBOCVFMyU4MyVCQyVFMyU4MiVCOCVFMyU4MiVBNyVFMyU4MyVCMyVFMyU4MyU4OCVFMyU4MSVBRSVFMyU4MCU4QyVFNiU4QiVBMSVFNSVCQyVCNSVFNiU4OSU4QiVFNiVBRSVCNSVFMyU4MCU4RCVFMyU4MiU5MiVFNSVBRSU5RiVFOCVBMyU4NSVFMyU4MyVCQiVFOCVBOCVBRCVFOCVBOCU4OCVFMyU4MyVCQiVFMyU4MiVCQiVFMyU4MiVBRCVFMyU4MyVBNSVFMyU4MyVBQSVFMyU4MyU4NiVFMyU4MiVBMyVFMyU4MSVBNyVFNSVCRSVCOSVFMiU4MCVBNiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTliNGE2OTU5NWIzOTFmYmZjZTdmYWJiYmRjMGUzNDgx&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBtaXJ1a3kmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1iMWMwZjM0MGFkNTI5NmU1ZmNjNDFiZDQxMGY0YWRjYw&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=28f1da7718cbf9d4d00d5652e147a5f3",
+    "fetched_at": "2026-04-21 00:53:53",
+    "ja_summary": "・AIエージェントの外部機能拡張において、MCPとSkillsのどちらが優れているかを実装・設計・セキュリティの観点から比較検証。\n・両手法の特性を明確化し、現時点での技術的優位性と使い分けの指針を提示。\n・エージェント開発における標準化の議論に決着をつけるための技術的考察。"
+  },
+  {
     "title": "OpenAI helps Hyatt advance AI among colleagues",
     "link": "https://openai.com/index/hyatt-advances-ai-with-chatgpt-enterprise",
     "source": "OpenAI",
@@ -988,15 +998,5 @@
     "image": "https://files.speakerdeck.com/presentations/ee23164bfa504758920ad9c8e19b98fa/preview_slide_0.jpg?39137925",
     "fetched_at": "2026-04-19 20:05:39",
     "ja_summary": "・鹿児島Linux勉強会にて、ローカル環境でLLMを動かす手法を解説。\n・初心者向けに「bonsai」を用いたローカルLLMの導入と活用を説明。\n・資料およびイベント詳細はオンラインにて公開・共有。"
-  },
-  {
-    "title": "大規模言語モデルの原理と使いこなしの原則 / Principles of Large Language Models and How to Use Them Effectively",
-    "link": "https://speakerdeck.com/ks91/principles-of-large-language-models-and-how-to-use-them-effectively",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-04-19T05:45:23-04:00",
-    "summary": "早稲田大学大学院経営管理研究科「プロンプトエンジニアリング ─ 生成 AI の応用」2026春のオンデマンド教材 第7回で使用したスライドです。",
-    "image": "https://files.speakerdeck.com/presentations/2ea05acacc4145caa562bd3e5385e55f/preview_slide_0.jpg?39137723",
-    "fetched_at": "2026-04-19 19:24:06",
-    "ja_summary": "・大規模言語モデル（LLM）の基本原理を体系的に解説。\n・生成AIを実務で活用するためのプロンプトエンジニアリング技術を網羅。\n・ビジネス応用を目的とした、AIを効果的に使いこなす原則を習得できる。"
   }
 ]
