@@ -1,5 +1,55 @@
 [
   {
+    "title": "手のひらに「異彩を放つ」アートを--「Pixel 10a」の日本限定モデル「Isai Blue」",
+    "link": "https://japan.cnet.com/article/35246528/",
+    "source": "CNET Japan",
+    "published": "",
+    "summary": "4月17日に国内発売された「Pixel 10a」。今回の製品では、新色「Isai Blue」も5月20日に加わる。日本限定モデルの中身とは？<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35246528/\"><img src=\"https://japan.cnet.com/storage/2026/04/17/50b55f118782571f1eca9d43e28c5262/t/184/138/d/ib_000.jpg\" /></a>",
+    "image": "https://japan.cnet.com/storage/2026/04/17/50b55f118782571f1eca9d43e28c5262/t/184/138/d/ib_000.jpg",
+    "fetched_at": "2026-04-20 19:13:36",
+    "ja_summary": "・「Pixel 10a」に日本限定の新色「Isai Blue」が登場。\n・5月20日より発売開始。\n・アートを意識した特別なデザインを採用。"
+  },
+  {
+    "title": "就職面接でAIについて何を聞けばよいのか…採用のベテランが挙げた4つのポイント",
+    "link": "https://www.businessinsider.jp/article/2604-ai-job-interview-questions-to-ask/",
+    "source": "Business Insider Japan",
+    "published": "Mon, 20 Apr 2026 10:00:00 GMT",
+    "summary": "AIの登場により、面接で尋ねるべき質問の内容が変わりつつあります。広範な戦略に関する質問と、ツールやワークフローに関する具体的な質問を組み合わせていくとよいでしょう。",
+    "image": "https://media.loom-app.com/loom/2026/04/01/738b8267-a909-459d-a5f4-b87d3a5cbb46/original.jpg?w=1200&amp;h=630",
+    "fetched_at": "2026-04-20 19:13:36",
+    "ja_summary": "・面接ではAI活用に関する「戦略的な質問」と「具体的な運用ツール」の質問を組み合わせる。\n・AI導入が業務フローにどう影響するかを見極めることが重要。\n・AIの台頭に合わせ、評価軸を最新のトレンドへアップデートすべきである。"
+  },
+  {
+    "title": "GoのWebフレームワークEcho のコードを読んでみた",
+    "link": "https://zenn.dev/aki_artisan/articles/2ef58663ecf20b",
+    "source": "Zenn Trends",
+    "published": "Sun, 19 Apr 2026 12:27:01 GMT",
+    "summary": "最近、GoのWebフレームワークであるEchoを使い始めたので、echo.go を読んでみました。\nhttps://echo.labstack.com/\n\n 読んだバージョン\nEcho v5.1.0\n本記事で引用するコードは、github.com/labstack/echo/v5@v5.1.0 の echo.go から抜粋したものです。\n\n 出発点となるサンプルコード\necho.go のパッケージコメントには、Echo の最小構成のサンプルが記載されています。\npackage main\n\nimport (\n\t\"log/slog\"\n\t\"net/http\"\n\n\t\"github.com/lab...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--rpojXk9A--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Go%25E3%2581%25AEWeb%25E3%2583%2595%25E3%2583%25AC%25E3%2583%25BC%25E3%2583%25A0%25E3%2583%25AF%25E3%2583%25BC%25E3%2582%25AFEcho%2520%25E3%2581%25AE%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2589%25E3%2582%2592%25E8%25AA%25AD%25E3%2582%2593%25E3%2581%25A7%25E3%2581%25BF%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%2582%25E3%2581%258D%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2I5NDMyMGUwMTEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-04-20 19:14:00",
+    "ja_summary": "Go言語の人気Webフレームワーク「Echo（v5.1.0）」のソースコードを読み解き、その内部構造や基本動作を検証した記事。\n公式ドキュメントに記載された最小構成のサンプルコードを起点に、ライブラリの仕組みを具体的に解説している。\nフレームワークの内部実装を理解し、より効率的に活用したい開発者向けの技術レビュー。"
+  },
+  {
+    "title": "自分のハンドルは自分で握れ！ ― 自分のケイパビリティを増やし、メンバーのケイパビリティ獲得を支援する ― / Take the wheel yourself",
+    "link": "https://speakerdeck.com/takaking22/take-the-wheel-yourself",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-04-20T05:08:04-04:00",
+    "summary": "■セッション概要\nホロラボ社内勉強会「シン勉強会」にて発表。\n経営メンバーによる生成AI活用LT大会＋パネルディスカッション回のLTスライドです。\n\n---\n「AIをどう使ってる？」への自分の答えは2つ。\n① 自分のケイパビリティを増やす、② メンバーのケイパビリティ獲得を支援する。\n\n40人規模の会社で、CEO・COO・エンジニアがAIでアウトプット速度を上げる中、マネジメントのケイパビリティだけが追いつかない。この課題に対して、Claude Cowork上に8つの自作スキルを構築し、Slack・Gmail・Googleカレンダー・Obsidianを横断する「もう一人の自分」を作りました。\n\n朝のブリーフィング自動生成（30分→2分）、1on1コーチングの文脈蓄積、Slackメンションからの未対応TODO自動収集——マネージャーの「読む・整える・思い出す」をAIに引き受けさせることで、人にしかできない仕事に集中する。\n\nさらに、8つのスキルのうち1つ「セルフコーチングできるくん」をメンバーにも配布。目標設定→Daily→活動ログ→レトロ→目標の再解釈というサイクルをAIコーチと回すことで、全員が自分で自分をマネジメントできる状態を目指しています。\n\nスキル化＝渡せる形で残す。渡した瞬間、マネージャーとメンバーの「道具の差」が消える。\n\n■作者\nフィードバックやお問い合わせはこちらまで！\nhttps://agile-monster.com/profile/\nhttps://agile-monster.com/contact/\nhttps://x.com/TAKAKING22",
+    "image": "https://files.speakerdeck.com/presentations/b3a82dd4cd39471fa3df695638964843/preview_slide_0.jpg?39149739",
+    "fetched_at": "2026-04-20 19:14:02",
+    "ja_summary": "マネージャーがAIを導入して業務を効率化し、そのスキルをメンバーに共有することで組織全体の自律的な管理体制を構築した。\n「読む・整える・思い出す」等の定型作業をAIに任せ、空いた時間でより創造的な業務に注力する仕組みを実現した。\nAIを「能力を拡張するツール」として標準化し、リーダーとメンバー間の情報格差を解消してチームの底上げを図る。"
+  },
+  {
+    "title": "クソバズワード「ハーネスエンジニアリング」と向き合う",
+    "link": "https://qiita.com/retore/items/3688cf515c14f7471ed4",
+    "source": "Qiita (Popular)",
+    "published": "2026-04-18T21:52:58+09:00",
+    "summary": "数週間くらい前に突然どいつもこいつも「ハーネスエンジニアリング」とツイートするようになり，最初はhooksとかskillsのことをハーネスと呼んでいるらしいと認識していたのだが，ある日ClaudeCodeのことをハーネスとして扱う発言をしているツイートを見つけて，「ハーネスエンジニアリング is 何？」となった．\n\nhttps://x.com/retore/status/2041473483004",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGNDQ0MDM3JTJGcHJvZmlsZS1pbWFnZXMlMkYxNzY3MzMxMzEwP2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz00ZTgzODFhZTQ3ZGFlYmIzOWMyOTRiOGI0YzE4ZjJmYw%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D3a91397aaf4209dd13b44aa01a5d47ab?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgyJUFGJUUzJTgyJUJEJUUzJTgzJTkwJUUzJTgyJUJBJUUzJTgzJUFGJUUzJTgzJUJDJUUzJTgzJTg5JUUzJTgwJThDJUUzJTgzJThGJUUzJTgzJUJDJUUzJTgzJThEJUUzJTgyJUI5JUUzJTgyJUE4JUUzJTgzJUIzJUUzJTgyJUI4JUUzJTgzJThCJUUzJTgyJUEyJUUzJTgzJUFBJUUzJTgzJUIzJUUzJTgyJUIwJUUzJTgwJThEJUUzJTgxJUE4JUU1JTkwJTkxJUUzJTgxJThEJUU1JTkwJTg4JUUzJTgxJTg2JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9OTc3OTdkNDE3NzUxMGJkZGFiNjlhOTQ2YWEyYTM2Y2I&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDByZXRvcmUmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1hMmFiN2E5MzI2NWQ4YTg2Zjc4NTBlMzgzMDYyMzc3ZA&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=bb91a88fe7fbdf5fba382c5a0ef43fb4",
+    "fetched_at": "2026-04-20 19:14:03",
+    "ja_summary": "SNSで急浮上した「ハーネスエンジニアリング」という言葉の定義が曖昧で、hooksやClaudeCodeなど指す対象が人によって異なり混乱を招いている。"
+  },
+  {
     "title": "Gemini、ブランド価値でChatGPT猛追　一般層狙いBRUTUSやWBCと連携 (ブランド・ジャパン2026)",
     "link": "https://business.nikkei.com/atcl/gen/19/00864/041600006/",
     "source": "日経ビジネス 最新",
@@ -948,55 +998,5 @@
     "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYxNjEyOTglMkZjMWUzZmZkNmVhZGExOTY5ZmYzYzQ0YjE0ZmRlMDgxYmNkZTZmNTAwJTJGeF9sYXJnZS5wbmclM0YxNTg0ODQ1NTg0P2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz00ZGRjZmU5NTFjNTMyMzU3NjcyOGUzOTkyOTNmOGRlNQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D246367bff431168e6212d2602a3df494?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUU1JTlCJUJEJUU3JTk0JUEzTExNJUUzJTgwJThDTExNLWpwLTQlRTMlODAlOEQlRTMlODElOEMlRTYlOTclQTUlRTYlOUMlQUMlRTglQUElOUVNVC1CZW5jaCVFMyU4MSVBN0dQVC00byVFMyU4MiU5MiVFNCVCOCU4QSVFNSU5QiU5RSVFMyU4MSVBMyVFMyU4MSU5RiUyMCVFMiU5NCU4MCVFMiU5NCU4MCUyMCVFNiU4QSU4MCVFOCVBMSU5MyVFNyU5QSU4NCVFOCU4MyU4QyVFNiU5OSVBRiVFMyU4MSVBOCVFNSVBRSU5RiVFNyU5NCVBOCVFNiU4MCVBNyVFMyU4MiU5MiVFNiVBNCU5QyVFOCVBOCVCQyVFMyU4MSU5OSVFMyU4MiU4QiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPWZjOTQzNDU3YjIxMjdhOGVjZWM0NjIxZWViMWJhZDJm&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBub2dhdGFrYSZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWE5ODA4YTE0Zjg4Y2I0ZjQ5OWU2ZDA3NGYyY2E2YTNh&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=f20a5fa6eaf3c37b164662cfca190e9c",
     "fetched_at": "2026-04-19 16:53:16",
     "ja_summary": "・国立情報学研究所が公開した国産LLM「LLM-jp-4」が、日本語性能でGPT-4oを上回るスコアを達成。\n・日本語に特化した学習と技術的工夫により、汎用モデルを超える高い日本語処理能力を実現した。\n・本モデルの技術背景と、実務における具体的な活用可能性が注目されている。"
-  },
-  {
-    "title": "［動画］ソフトバンクグループ、負債16兆円を操る財務イノベーション (特集インサイド)",
-    "link": "https://business.nikkei.com/atcl/gen/19/00419/041600234/",
-    "source": "日経ビジネス 最新",
-    "published": "",
-    "summary": "ソフトバンクグループの純資産が30兆円まで積み上がっています。「AI全賭け」を掲げ、投資してきた企業の価値が高騰したためです。巨額投資は危うく見えますが、その裏には緻密に計算された財務戦略があります。後藤芳光CFOをトップとする専門性を磨き上げた財務チームが、孫正義氏の壮大なビジョンに寄り添いアクセルとブレーキを使い分けます。金融財務でもイノベーションを生んできた知られざる舞台裏に、取材記者と共に迫りました。",
-    "image": "https://business.nikkei.com/atcl/gen/19/00419/041600234/fb.jpg",
-    "fetched_at": "2026-04-19 15:25:42",
-    "ja_summary": "・ソフトバンクGは「AI全賭け」の投資成功で純資産30兆円を達成。\n・巨額の負債を抱えつつも、専門チームが精密な財務戦略でリスクを制御。\n・孫正義氏のビジョンを支える、同社独自の高度な財務イノベーションの全容。"
-  },
-  {
-    "title": "AI活用で広がる企業間格差　成果を上げる組織の条件とは (テーマ別まとめ記事)",
-    "link": "https://business.nikkei.com/atcl/gen/19/00081/031600927/",
-    "source": "日経ビジネス 最新",
-    "published": "",
-    "summary": "企業のAI活用が加速する中、成果を出せる企業とそうでない企業の差が急速に広がっている。経営幹部の姿勢、社員の働き方、職場環境――AIが経営にもたらす影響は多岐にわたる。日本企業が「AI経営」に本気で向き合うための条件と、見落としがちな課題を過去記事から探っていく。",
-    "image": "https://business.nikkei.com/atcl/gen/19/00081/031600927/fb.jpg",
-    "fetched_at": "2026-04-19 15:25:42",
-    "ja_summary": "AI活用で企業間の格差が拡大。\n成果を出すには、経営層の意識改革、社員の意識・働き方、職場環境の整備が不可欠。\n「AI経営」への本気度が日本企業の課題。"
-  },
-  {
-    "title": "フェイクと詐欺があふれる時代に池上彰が怒った——SNS型投資詐欺とニセ警察詐欺の深刻実態《日本は対策がまだ甘い》 | ライフ | 東洋経済オンライン",
-    "link": "https://toyokeizai.net/articles/-/940745?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-    "source": "東洋経済オンライン",
-    "published": "Sun, 19 Apr 2026 11:00:00 +0900",
-    "summary": "SNSを利用した投資詐欺やAIを使った偽情報の拡散など､\"法\"だけでは防ぎきれない新たな脅威が増えています。本当に私たちを守るのは､自らの教養と倫理観です。あなたは騙されずにいられる自信がありますか…",
-    "image": "https://tk.ismcdn.jp/mwimgs/d/d/1200w/img_dd127c98e12fe470dcfad49152c2b9eb411161.jpg?nextgen=false",
-    "fetched_at": "2026-04-19 13:46:17",
-    "ja_summary": "・SNS型投資詐欺やAI偽情報など、法の網をすり抜ける新手の脅威が急増している。\n・日本は対策が遅れており、法制度のみで完全に防ぐことは困難。\n・一人ひとりが高い教養と倫理観を持ち、自衛する意識を持つことが不可欠。"
-  },
-  {
-    "title": "国内金融業界、Mythosに危機感　「防御の前提覆る」「対策にAIフル活用を」",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11673/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "米アンソロピックが発表したLLM「Claude Mythos」を巡り、日本国内の金融業界で波紋が広がっている。Mythosはゼロデイ脆弱性の発見やエクスプロイト生成の能力が高まり、AIによるサイバー攻撃の急増を懸念する声が広がっているためだ。国内金融業界関係者の受け止めをまとめた。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11673/topm.jpg?20220512",
-    "fetched_at": "2026-04-19 13:46:31",
-    "ja_summary": "AIによるサイバー攻撃が高度化し、金融業界に危機感。\n米Anthropicの最新AI「Mythos」は脆弱性発見・悪用能力が高く、攻撃急増が懸念される。\n金融業界はAIを防御にフル活用する対策を急ぐべき。"
-  },
-  {
-    "title": "トレンドマイクロ、個人向け「TrendLife」　AIの正しい使い方に踏み込む",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11672/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "トレンドマイクロが2026年4月15日、個人向けブランド「TrendLife」を発表した。中核の家族向けAI「Kaleida」は、子どもがAIに頼りすぎていないかを見える化し、家族の予定管理や安全機能も担う構想だ。3月発表の企業向けブランド「TrendAI」と合わせ、AI時代の使い方と安全を支える姿勢を鮮明にした。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11672/topm.jpg?20220512",
-    "fetched_at": "2026-04-19 13:46:32",
-    "ja_summary": "・トレンドマイクロが個人向け新ブランド「TrendLife」を発表。\n・AI家族支援ツール「Kaleida」で、子どものAI依存の可視化や家族の安全管理を行う。\n・企業向けと合わせ、AI時代の利活用とセキュリティの両立を支援する方針。"
   }
 ]
