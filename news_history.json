@@ -1,5 +1,35 @@
 [
   {
+    "title": "Scaling Codex to enterprises worldwide",
+    "link": "https://openai.com/index/scaling-codex-to-enterprises-worldwide",
+    "source": "OpenAI",
+    "published": "Tue, 21 Apr 2026 00:00:00 GMT",
+    "summary": "OpenAI launches Codex Transformation Partners, a program with Accenture, PwC, Infosys, and others to help enterprises deploy and scale Codex across the software development lifecycle.",
+    "image": "https://openai.com/favicon.ico",
+    "fetched_at": "2026-04-21 23:22:32",
+    "ja_summary": "・OpenAIが「Codex Transformation Partners」プログラムを開始。\n・AccentureやPwCなどと連携し、企業のソフトウェア開発へのCodex導入を支援。\n・開発の全ライフサイクルにおけるAI活用とスケールアップを加速させる。"
+  },
+  {
+    "title": "Arconia for Spring Boot - Dev Services, Automated Migrations, and Seamless Workflows (Spring I/O 2026)",
+    "link": "https://speakerdeck.com/thomasvitale/o-2026",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-04-21T10:14:31-04:00",
+    "summary": "Do you struggle with inconsistent development environments or repetitive configuration tasks? Are you tired of manually setting up local infrastructure for your Spring Boot applications? Ever wished you could upgrade dependencies or migrate versions with a single command?\n\nIn this session, you’ll discover Arconia, an open-source framework designed to supercharge your Spring Boot development workflows. The goal is to eliminate manual setup and friction, and focus on what matters: building great applications for production using the powerful Spring ecosystem. I’ll show you five key features of Arconia and demonstrate how they work with real-world examples:\n\n- Dev Mode. Reduce boilerplate and benefit from a native development mode that tailors your applications to your workflows. No more manually configuring “dev” and “test” profiles in every Spring Boot project. Arconia handles it automatically.\n- Dev Services. Simplify infrastructure provisioning during development. Rely on services like databases, event brokers, and observability platforms, all provided automatically with zero-code and zero-configuration. Add one dependency. That’s it.\n- Dev UI. Explore a built-in development console to troubleshoot, manage, and interact with your Spring Boot applications. Need to check exposed HTTP endpoints, inspect configuration properties, or investigate provisioned Dev Services? Everything is in one convenient place.\n- CLI. Adopt a developer-friendly CLI to bootstrap, develop, build, test, and package Spring Boot projects. Enjoy a consistent experience across operating systems, build tools, and IDEs.\n- Modernization. Speed up maintenance and evolution tasks for your Spring Boot projects. Whether it’s adding new starter dependencies, automating migrations with OpenRewrite, or upgrading frameworks. Adding data persistence? Moving to Spring Boot 4? Adopting the latest Spring AI? It’s all just one CLI command away.",
+    "image": "https://files.speakerdeck.com/presentations/ae0c846bacc54b3fbe9290a222dc0f40/preview_slide_0.jpg?39165856",
+    "fetched_at": "2026-04-21 23:22:51",
+    "ja_summary": "・Arconiaは、Spring Boot開発の環境構築や設定の手間を省き、生産性を最大化するオープンソースフレームワーク。\n・開発に必要なDB等のインフラ自動構築、専用UI、CLIによる操作を一元化し、面倒なボイラープレート作業を排除する。\n・フレームワークのバージョンアップや依存関係の追加など、複雑なメンテナンス作業もCLIコマンド一つで自動化可能。"
+  },
+  {
+    "title": "AI: Making Admin and Users, Lives Better",
+    "link": "https://speakerdeck.com/kbmsg/ai-making-admin-and-users-lives-better",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-04-21T09:49:13-04:00",
+    "summary": "Explore AI-driven solutions improving administration, user workflows, script automation, and security in HCL Domino environments, featuring practical tools and strategies for modernization and efficiency.",
+    "image": "https://files.speakerdeck.com/presentations/01fc5ca927df4acfa997048b0b5323fe/preview_slide_0.jpg?39165739",
+    "fetched_at": "2026-04-21 23:22:51",
+    "ja_summary": "・HCL Domino環境におけるAI活用による業務効率化と自動化を解説\n・管理業務やユーザーのワークフロー改善、セキュリティ強化を実現\n・モダン化に向けた実践的なツールと戦略により、生産性を最大化する"
+  },
+  {
     "title": "米アドビ 法人向けAIツール発表",
     "link": "https://news.yahoo.co.jp/pickup/6577130?source=rss",
     "source": "Yahoo!ニュース IT・科学",
@@ -968,35 +998,5 @@
     "image": "https://files.speakerdeck.com/presentations/fca8834190324a2187246692692964d3/preview_slide_0.jpg?39145157",
     "fetched_at": "2026-04-20 15:00:56",
     "ja_summary": "AIを共同執筆者として活用し、書籍を効率的に制作するノウハウを紹介。\nAIとの連携で、アイデア出しから執筆、編集までをスムーズに進める方法を解説。\nイベント登壇資料で、具体的な実践方法を学べる。"
-  },
-  {
-    "title": "エンジニア歴20年の私が、素人バイブコーディング勢に物申す",
-    "link": "https://qiita.com/Akira-Isegawa/items/00f23d206c504db2ac3b",
-    "source": "Qiita (Popular)",
-    "published": "2026-04-13T11:07:41+09:00",
-    "summary": "> お前がコードを書き始める前に\n> 言っておきたい事がある\n> かなりきびしい話もするが\n> 俺の本音を聞いておけ\n\n![image.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/199506/c49a68b9-0c5f-4c71-a614-6c0bec1a81f9.png)\n\n\n## はじめに\n\nこれから少しの",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmF2YXRhcnMyLmdpdGh1YnVzZXJjb250ZW50LmNvbSUyRnUlMkY5OTYwNDklM0Z2JTNEND9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9MTFmMDUwMTI0OTJjNGQ2ZjJkMjk2NmIyNzI2ZTMxZmY%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3De511b377cfcf39b1a79c86766165317c?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgyJUE4JUUzJTgzJUIzJUUzJTgyJUI4JUUzJTgzJThCJUUzJTgyJUEyJUU2JUFEJUI0MjAlRTUlQjklQjQlRTMlODElQUUlRTclQTclODElRTMlODElOEMlRTMlODAlODElRTclQjQlQTAlRTQlQkElQkElRTMlODMlOTAlRTMlODIlQTQlRTMlODMlOTYlRTMlODIlQjMlRTMlODMlQkMlRTMlODMlODclRTMlODIlQTMlRTMlODMlQjMlRTMlODIlQjAlRTUlOEIlQTIlRTMlODElQUIlRTclODklQTklRTclOTQlQjMlRTMlODElOTkmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1kMzkxYjFhYTMxNzE2MGEzZTA4YzNkYjM1ZDdhMjljNA&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBBa2lyYS1Jc2VnYXdhJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9ZDRiNWU1OGI1ZjA0MDg2NDQ2ZDY4NTBmNTlkMGEyMzM&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=607439657f465de26227399984e65b3c",
-    "fetched_at": "2026-04-20 15:00:59",
-    "ja_summary": "・AIによるコード生成（バイブコーディング）のみで開発を行う未経験層に対し、ベテランエンジニアが警鐘を鳴らす。\n・AIは補助ツールに過ぎず、動作原理や品質管理などの基礎知識がなければ破綻することを指摘。\n・AI依存のリスクを理解し、エンジニアとしての本質的なスキルを磨くべきだと説いている。"
-  },
-  {
-    "title": "AIへの指示が下手な人は｢仕事の構造｣が見えていない。周りから高く評価される｢たたき台｣を生むプロンプト術 | キャリア・教育 | 東洋経済オンライン",
-    "link": "https://toyokeizai.net/articles/-/941249?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-    "source": "東洋経済オンライン",
-    "published": "Mon, 20 Apr 2026 12:00:00 +0900",
-    "summary": "生成AIの進化で｢AIに仕事を任せればいい｣と考えるビジネスパーソンが増えていますが､良いアウトプットを得る鍵は｢たたき台｣の質にあります。どの環境でも活躍する人が実践する\"叩かれるたたき台\"の極意…",
-    "image": "https://tk.ismcdn.jp/mwimgs/1/1/1200w/img_110051b2a5263b08819f2cbc6e83cf6b150527.jpg?nextgen=false",
-    "fetched_at": "2026-04-20 12:24:35",
-    "ja_summary": "・AIから良い回答を得るには、質の高い「たたき台」を提示する力が不可欠である。\n・指示が下手な人は業務構造の理解が浅いため、まずは自分の思考を可視化することから始める。\n・あえて未完成な段階でフィードバックをもらう「叩かれるたたき台」の作成が、成果を最大化する。"
-  },
-  {
-    "title": "OpenAI、創薬・バイオ特化の新AI「GPT-Rosalind」を発表",
-    "link": "https://japan.cnet.com/article/35246631/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "OpenAIの最新AIモデル「GPT-Rosalind」は、同社初のライフサイエンスに特化したモデルであり、科学者による創薬や生物学、トランスレーショナル（橋渡し）医学を支援することを目的としている。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35246631/\"><img src=\"https://japan.cnet.com/storage/2026/04/20/d04389642eb4274ff6e4d5bef8bcf61e/t/184/138/d/gettyimages-1738589913.jpg\" /></a>",
-    "image": "https://japan.cnet.com/storage/2026/04/20/d04389642eb4274ff6e4d5bef8bcf61e/t/184/138/d/gettyimages-1738589913.jpg",
-    "fetched_at": "2026-04-20 12:24:53",
-    "ja_summary": "・OpenAIが創薬・バイオ研究に特化した初のAI「GPT-Rosalind」を発表。\n・科学者の創薬プロセスや生物学研究、医学の橋渡しを強力に支援。\n・ライフサイエンス領域の専門業務を効率化する新たな基盤モデルとして期待。"
   }
 ]
