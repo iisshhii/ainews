@@ -1,5 +1,55 @@
 [
   {
+    "title": "1300ページを読んでExcelに整理――地道な開示作業、AIで工数93％削減　NEC流の業務改革方法とは",
+    "link": "https://www.itmedia.co.jp/business/articles/2604/20/news021.html",
+    "source": "ITmedia ビジネス",
+    "published": "Mon, 20 Apr 2026 07:00:00 +0900",
+    "summary": "有価証券報告書における「サステナビリティー情報」の開示業務が義務化されるのを前に、NECはAI活用によって開示業務の工数を93％削減したと発表した。その仕組みとは。",
+    "image": "https://image.itmedia.co.jp/business/articles/2604/20/cover_news021.jpg",
+    "fetched_at": "2026-04-21 16:05:32",
+    "ja_summary": "・NECが有価証券報告書のサステナビリティ情報開示にAIを導入\n・膨大な資料の読み込みとExcel整理を自動化し、工数を93％削減\n・法改正に伴う開示義務化に向けた、効率的な業務改革事例を確立"
+  },
+  {
+    "title": "仕事でAIを使いすぎると「自分の能力」に自信が持てなくなる？ 米心理学会が報告",
+    "link": "https://japan.cnet.com/article/35246689/",
+    "source": "CNET Japan",
+    "published": "",
+    "summary": "米心理学会の新たな研究によると、業務でAIツールに過度に依存する人は、自身の能力に対する自信が低下し、アイデアの考案者という意識も薄れるという。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35246689/\"><img src=\"https://japan.cnet.com/storage/2026/04/21/c3171ce0483a4080bf937c91604e599f/t/184/138/d/gettyimages-2207141942_1280x960.jpg\" /></a>",
+    "image": "https://japan.cnet.com/storage/2026/04/21/c3171ce0483a4080bf937c91604e599f/t/184/138/d/gettyimages-2207141942_1280x960.jpg",
+    "fetched_at": "2026-04-21 16:05:46",
+    "ja_summary": "・仕事でAIに過度に依存すると、自分の能力に対する自信が低下する。\n・自分でアイデアを生み出しているという実感も薄れやすい。\n・AI活用は効率的だが、主体性を失わないよう注意が必要。"
+  },
+  {
+    "title": "Introducing Claude Design by Anthropic Labs",
+    "link": "https://www.anthropic.com/news/claude-design-anthropic-labs",
+    "source": "Anthropic (News)",
+    "published": "Fri, 17 Apr 2026 00:00:00 +0000",
+    "summary": "Introducing Claude Design by Anthropic Labs",
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Quill&amp;backgroundColor=cactus",
+    "fetched_at": "2026-04-21 16:05:59",
+    "ja_summary": "Anthropic社が、デザイン業務に特化した新AIツール「Claude Design」を発表。\n直感的な操作でデザイン案の生成や修正を効率化し、制作ワークフローを加速させる。\nUI/UX設計などの業務プロセスをAIで最適化する新たなソリューション。"
+  },
+  {
+    "title": "AI エージェント並列化で自分の脳が限界になったので Maestri を試した",
+    "link": "https://zenn.dev/youjinfox/articles/bb3facc650adb1",
+    "source": "Zenn Trends",
+    "published": "Sun, 19 Apr 2026 13:52:30 GMT",
+    "summary": "はじめに\nAI コーディングエージェントの並列運用を始めて、すぐに気づいたことがある。ボトルネックはもう、コードを書く速度じゃない。自分の脳だ。\nClaude Code を 3 つ、4 つと同時に走らせる。それぞれが別々のタスクを猛烈な速度で片付けていく。でも、ふと顔を上げると——今どのターミナルが何をやっていて、どれが終わっていて、どれが詰まっているのかが、わからない。画面を切り替えるたびに文脈が飛び、戻ってくる頃には別のエージェントの出力がスクロールで流れている。\nAI 側の性能は上がり続けているのに、それを捌く側の私の認知が追いつかない。典型的な解は tmux だけど、Mac ...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--mJkswmCE--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%2520%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588%25E4%25B8%25A6%25E5%2588%2597%25E5%258C%2596%25E3%2581%25A7%25E8%2587%25AA%25E5%2588%2586%25E3%2581%25AE%25E8%2584%25B3%25E3%2581%258C%25E9%2599%2590%25E7%2595%258C%25E3%2581%25AB%25E3%2581%25AA%25E3%2581%25A3%25E3%2581%259F%25E3%2581%25AE%25E3%2581%25A7%2520Maestri%2520%25E3%2582%2592%25E8%25A9%25A6%25E3%2581%2597%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:youjinfox%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jS3daUFhsNDZBMHg5bGVQNUIzbnR2X3lIM09wNWh6dXVvZWF4WWlPTkEyUDdKQnlqeXlWdz1zMjUwLWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-04-21 16:06:15",
+    "ja_summary": "・AIエージェントの並列利用で、人の認知能力がボトルネックになり管理が限界に達した。\n・画面切り替えによる文脈喪失を防ぐため、AI運用を効率化するツール「Maestri」を導入。\n・AIの処理速度に人間が追いつけない状況に対し、新たな管理手法の必要性を提示。"
+  },
+  {
+    "title": "ローカルLLM用の簡易版スキルとしてトリガーという機能を考えてみました",
+    "link": "https://zenn.dev/karaage0703/articles/89631872ca5a86",
+    "source": "Zenn Trends",
+    "published": "Sun, 19 Apr 2026 07:51:35 GMT",
+    "summary": "最近、DGX Spark上でローカルLLMをどれだけ使えるかという実験をしています。\nhttps://zenn.dev/karaage0703/articles/fcca40c614dffd\nローカルLLM、単純におしゃべりをさせたり、単一の作業をさせるだけなら、使える場面も増えてきたのですが、Claude CodeやCodexみたいに、スキルを使って汎用的に様々な作業をさせようとすると、うまくいかないことが多いです（自分のユースケースでは）。\nなんか、もうちょっとうまくできないかなーと考えてみたのが、トリガーという機能です。\n言ってしまえば、簡易版のスキルでtriggersディレクトリ...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--28Io8jDb--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%25AD%25E3%2583%25BC%25E3%2582%25AB%25E3%2583%25ABLLM%25E7%2594%25A8%25E3%2581%25AE%25E7%25B0%25A1%25E6%2598%2593%25E7%2589%2588%25E3%2582%25B9%25E3%2582%25AD%25E3%2583%25AB%25E3%2581%25A8%25E3%2581%2597%25E3%2581%25A6%25E3%2583%2588%25E3%2583%25AA%25E3%2582%25AC%25E3%2583%25BC%25E3%2581%25A8%25E3%2581%2584%25E3%2581%2586%25E6%25A9%259F%25E8%2583%25BD%25E3%2582%2592%25E8%2580%2583%25E3%2581%2588%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%25BE%25E3%2581%2597%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%258B%25E3%2582%2589%25E3%2581%2582%25E3%2581%2592%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2hDZEtvakJfZXdDTjNCV1Z0WXIteFNIZ0hmRjlXZmt3QzI5c0Y0aXYwPXMyNTAtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-04-21 16:06:16",
+    "ja_summary": "・ローカルLLMで汎用的なタスクを実行する際の精度不足を解消するため、「トリガー」という簡易版スキル機能を考案。\n・特定のディレクトリにスクリプトを置くことで、LLMが外部処理を呼び出せる仕組みを実装。\n・複雑なツール利用を避け、環境構築を簡略化することでローカルLLMの活用範囲を広げる試み。"
+  },
+  {
     "title": "動き出す「日本版データスペース」、化学物質管理やEV電池の脱炭素対応",
     "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03592/041600001/",
     "source": "日経クロステック 総合",
@@ -948,55 +998,5 @@
     "image": "https://assets.st-note.com/production/uploads/images/267993635/rectangle_large_type_2_8019e2163a759464ea1c8e82e1012905.png?width=800",
     "fetched_at": "2026-04-20 08:20:23",
     "ja_summary": "・CodexアプリにPC操作を代行する「Computer use」機能が追加。\n・アプリ内ブラウザの統合や、新たな画像生成機能などが実装された。\n・2026年4月16日より、利便性が大幅に向上するアップデートが提供開始。"
-  },
-  {
-    "title": "第一生命 AIなど4000億円投資へ",
-    "link": "https://news.yahoo.co.jp/pickup/6576672?source=rss",
-    "source": "Yahoo!ニュース IT・科学",
-    "published": "Fri, 17 Apr 2026 22:48:17 GMT",
-    "summary": "",
-    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/18/74ba20df5e3ea784cb89d969070f659151c3d52f8f313d8526e0b444b479c66a.jpg",
-    "fetched_at": "2026-04-20 08:20:25",
-    "ja_summary": "- 第一生命HDが今後数年間で4000億円規模を先端技術へ投資\n- AI活用による業務効率化と新規事業の創出を加速\n- 金融とテクノロジーを融合し、成長と収益力の向上を目指す"
-  },
-  {
-    "title": "AI「GrandCode」が全人類を抑えて競技プログラミングで単独1位を達成、AI自身が“次のPC”になる新概念「Neural Computers」など生成AI技術5つを解説（生成AIウィークリー）",
-    "link": "https://www.techno-edge.net/article/2026/04/18/5002.html",
-    "source": "TechnoEdge",
-    "published": "Sat, 18 Apr 2026 08:19:42 +0900",
-    "summary": "この1週間の気になる生成AI技術・研究をいくつかピックアップして解説する今回の「生成AIウィークリー」（第140回）は、AIがPCを“操作する側”から“PC自体”になる新概念「Neural Computers」や、競技プログラミングで単独1位を達成したAI「GrandCode」を取り上げます。",
-    "image": "https://www.techno-edge.net/imgs/rss/30946.jpg",
-    "fetched_at": "2026-04-20 08:20:29",
-    "ja_summary": "・AI「GrandCode」が競技プログラミングで全人類を抑えて単独1位を達成。\n・AIがPCを操作するのではなく、AI自身がPCとなる新概念「Neural Computers」が登場。\n・最新の生成AI技術5つの動向を網羅的に解説。"
-  },
-  {
-    "title": "Claude Codeで実際に起きたセキュリティ事故7選と防止策",
-    "link": "https://qiita.com/masa_ClaudeCodeLab/items/8c22966fbd3c125c53dc",
-    "source": "Qiita (Popular)",
-    "published": "2026-04-17T14:38:44+09:00",
-    "summary": "# Claude Codeで実際に起きたセキュリティ事故7選と防止策\n\n「Claude Code は便利だけど、なんとなく怖い」——この感覚は正しいです。強力なツールは強力な事故を起こします。実際に開発現場で起きがちなケースを7つ取り上げ、原因と防止策を解説します。\n\n## 事例1: `.env` ファイルをGitHubにプッシュ\n\n「CI に環境変数を渡したいので `.env` もコミットして」",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0NDA0NjQwJTJGYmFkMDZmMmM0Zjc5MTRiOGNhYzBiNmU4ODBmODc5MGZkNjQ1MjJlOCUyRmxhcmdlLnBuZyUzRjE3NzU5MTE0Nzc_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPTEwZDk0MjMxZWY0NzJhMGNlMDcyMGFlMjc4MzZlZDg0%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Dec82b9c9a74af788004809b4df56ea3f?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9Q2xhdWRlJTIwQ29kZSVFMyU4MSVBNyVFNSVBRSU5RiVFOSU5QSU5QiVFMyU4MSVBQiVFOCVCNSVCNyVFMyU4MSU4RCVFMyU4MSU5RiVFMyU4MiVCQiVFMyU4MiVBRCVFMyU4MyVBNSVFMyU4MyVBQSVFMyU4MyU4NiVFMyU4MiVBMyVFNCVCQSU4QiVFNiU5NSU4NTclRTklODElQjglRTMlODElQTglRTklOTglQjIlRTYlQUQlQTIlRTclQUQlOTYmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz0yODkwODBlNWNmZGJkMGIzMjNlNDI0NzBiNTA0NzkzYQ&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBtYXNhX0NsYXVkZUNvZGVMYWImdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz0wYjEyYmE5ZjIzZDgyNTViNWU4YTcxNWQ4MDBkM2I2MQ&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=20a023877c507f08ff94f38eb4c26745",
-    "fetched_at": "2026-04-20 08:20:41",
-    "ja_summary": "・Claude Codeは強力だが、誤操作や設定ミスにより機密情報漏洩などの重大な事故を招くリスクがある。\n・環境変数（.env）の誤コミットなど、開発現場で起こりやすい7つの具体的な失敗事例を分析。\n・各事例の原因を理解し、適切な権限管理やレビュー手順を徹底することでセキュリティ事故を未然に防ぐ。"
-  },
-  {
-    "title": "AIコーディング時代に必要なプログラミングスキル",
-    "link": "https://qiita.com/hokutoh/items/cd68b09eccb18c1f7f3d",
-    "source": "Qiita (Popular)",
-    "published": "2026-04-15T16:20:45+09:00",
-    "summary": "# 「もうプログラミングスキルは不要」勢へ\n\n恐らくそれは「プログラミングスキル」ではないです。\nいや単に「プログラミングスキル」という言葉の定義の問題かもしれない。\n\n実際多くの人はPythonの文法、JavaScriptのフレームワーク、SQLのクエリ構文——つまり**特定言語に関する文法知識**をイメージするんじゃないかと思います。\nそれ故、コーディングエージェント全盛時代に、文法知識の重要",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY2NjYzODglMkZhYzg1ZTRiMmYwYTViM2RkYTg3NjBjNzg2M2JkMGE4OGNlYmFiNThmJTJGeF9sYXJnZS5wbmclM0YxNjg2OTA2ODMwP2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz0xNGY2NjdmMWYzNzFlNmFjN2NkMTM3ZTZmY2FiM2FhMw%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D56704323b533337975b53f9c326a00ac?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9QUklRTMlODIlQjMlRTMlODMlQkMlRTMlODMlODclRTMlODIlQTMlRTMlODMlQjMlRTMlODIlQjAlRTYlOTklODIlRTQlQkIlQTMlRTMlODElQUIlRTUlQkYlODUlRTglQTYlODElRTMlODElQUElRTMlODMlOTclRTMlODMlQUQlRTMlODIlQjAlRTMlODMlQTklRTMlODMlOUYlRTMlODMlQjMlRTMlODIlQjAlRTMlODIlQjklRTMlODIlQUQlRTMlODMlQUImdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz0zYWQwNDYwNTQ1NjQ5OWY5NmYxZjY3NDY3MTRiZGU3OA&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBob2t1dG9oJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9MjFmZjYyNjEwMGMzMWVlMDAyMjI3ZDIyNmQyOTQ2Zjk&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=b38b60c4042c0e1f289e488b7cb8d600",
-    "fetched_at": "2026-04-20 08:20:42",
-    "ja_summary": "・AI時代に不要なのは「言語の文法知識」であり、プログラミングの本質的スキルではない。\n・特定の構文を覚えることよりも、AIを使いこなす設計能力や問題解決力が重要になる。\n・今後は「知識の暗記」から「AIを制御してシステムを構築するスキル」へ価値が移行する。"
-  },
-  {
-    "title": "AIで実装は速くなった。でもチーム開発が逆に難しくなった理由",
-    "link": "https://qiita.com/engchina/items/5a3fad5ec1c80a8be715",
-    "source": "Qiita (Popular)",
-    "published": "2026-04-13T03:33:56+09:00",
-    "summary": "## 先に結論\n\nAIを導入すると、実装スピードは確実に上がります。\nただ、チーム開発で本当に問題になるのは、コードを書く速さではなく**コードを理解し、判断を共有する速さ**です。\n\n今回読んだ2本の記事から得た学びを一言でまとめると、次の3つでした。\n\n* 仕様書は「ずっと保守する正本」ではなく、「認識を揃えるための起点」として使う\n* AI時代のレビューは、「細かい指摘」より「なぜその実装な",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYzOTMyNzgxJTJGOTA5ODgyYWQ5YTcwNWVmZjI2ZmM5NDBmMzg0MzQwMWU3OWQyNjY4YyUyRnhfbGFyZ2UucG5nJTNGMTc2OTAzODc0OD9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NjczZTk1ZDQ4MzQ5ZTQxOTY1ZTM2ZjBlNTRlYmM0Nzk%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYzMDk1NWZhN2YwMzlhODVjNDQ5ZmY0ODBhMmE3ZGJjNWQ5ZmY1YWIwJTJGb3JpZ2luYWwuanBnJTNGMTQ1MjE0NTY4Mz9peGxpYj1yYi00LjAuMCZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz0yYjVlN2VmYzdkMGI4OGNjOGRlOTIyYzFmZTQ3YzJhNQ%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3Dbaa201298ba6e7eb53ad57b1c6079b32?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9QUklRTMlODElQTclRTUlQUUlOUYlRTglQTMlODUlRTMlODElQUYlRTklODAlOUYlRTMlODElOEYlRTMlODElQUElRTMlODElQTMlRTMlODElOUYlRTMlODAlODIlRTMlODElQTclRTMlODIlODIlRTMlODMlODElRTMlODMlQkMlRTMlODMlQTAlRTklOTYlOEIlRTclOTklQkElRTMlODElOEMlRTklODAlODYlRTMlODElQUIlRTklOUIlQTMlRTMlODElOTclRTMlODElOEYlRTMlODElQUElRTMlODElQTMlRTMlODElOUYlRTclOTAlODYlRTclOTQlQjEmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz05ZmY1NmVhNzUxMjEyMDJlMzdjMzAyZTMwMWU0MDkyYg&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBlbmdjaGluYSZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWM1MTU1ODVkZTE0NzU1ZjlkMjcwYjJlZGU2ZTljYTNl&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=5pel5pys44Kq44Op44Kv44Or5qCq5byP5Lya56S-&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=01737271e6e9abb23b8c5dd36ee0b202",
-    "fetched_at": "2026-04-20 08:20:43",
-    "ja_summary": "・AIによる実装高速化で、個人の生産性は向上するがチームの足並みは揃いにくくなる。\n・成功の鍵はコードを書く速さではなく、認識の共有と意思決定のスピードである。\n・仕様書は認識合わせの手段と割り切り、レビューは細かい修正より方針の合意を優先する。"
   }
 ]
