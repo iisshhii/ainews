@@ -1,5 +1,75 @@
 [
   {
+    "title": "中国で急拡大「24時間無休の秘書」　AIエージェント熱狂の裏で懸念も",
+    "link": "https://www.itmedia.co.jp/business/articles/2604/20/news053.html",
+    "source": "ITmedia ビジネス",
+    "published": "Mon, 20 Apr 2026 08:32:00 +0900",
+    "summary": "中国で、PC上などでさまざまな作業を自律的にこなす人工知能を活用したソフトウエア「AIエージェント」の利用が今年に入り急拡大している。",
+    "image": "https://image.itmedia.co.jp/business/articles/2604/20/cover_news053.jpg",
+    "fetched_at": "2026-04-21 20:36:33",
+    "ja_summary": "・中国でPC作業を自律的にこなす「AIエージェント」の利用が急拡大。\n・24時間無休の業務遂行が期待される一方、技術の普及に伴う懸念も浮上。\n・業務効率化の切り札として、AIの活用が新たな局面を迎えている。"
+  },
+  {
+    "title": "まだ「NotebookLM」すら使ってない営業がいるの？　企業研究から提案書スライドまで、“超具体的”な使い方",
+    "link": "https://www.itmedia.co.jp/business/articles/2604/20/news044.html",
+    "source": "ITmedia ビジネス",
+    "published": "Mon, 20 Apr 2026 08:00:00 +0900",
+    "summary": "今や精度の高い情報収集は当たり前となった時代だ。顧客も「さすがにAIを使うなりして、当社のことはある程度分かっているはずだ」と思い込んで商談に臨んでいる。だから、準備力の差は決定的になりつつある。",
+    "image": "https://image.itmedia.co.jp/business/articles/2604/20/cover_news044.jpg",
+    "fetched_at": "2026-04-21 20:36:34",
+    "ja_summary": "AIツールNotebookLMを活用し、企業研究から提案書作成までを効率化。\n顧客はAIによる事前準備を期待しており、準備力の差が商談を左右する。\nNotebookLMは、この準備格差を埋める強力な武器となる。"
+  },
+  {
+    "title": "Anthropic’s Long-Term Benefit Trust appoints Vas Narasimhan to Board of Directors",
+    "link": "https://www.anthropic.com/news/narasimhan-board",
+    "source": "Anthropic (News)",
+    "published": "Tue, 14 Apr 2026 00:00:00 +0000",
+    "summary": "Anthropic’s Long-Term Benefit Trust appoints Vas Narasimhan to Board of Directors",
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+    "fetched_at": "2026-04-21 20:37:14",
+    "ja_summary": "・AI企業Anthropicの長期利益信託（Long-Term Benefit Trust）の理事に、ノバルティスCEOのバス・ナラシムハン氏が就任した。\n・同信託はAnthropicのAI開発が社会に責任ある形で貢献することを監督する役割を担う。\n・経営と医療・生命科学の知見を持つ同氏の参画により、AIの安全性と社会的なガバナンス体制が強化される。"
+  },
+  {
+    "title": "Claude Codeユーザーのためのプロンプトキャッシュ入門",
+    "link": "https://zenn.dev/lv/articles/302bf552110e67",
+    "source": "Zenn Trends",
+    "published": "Tue, 21 Apr 2026 02:51:31 GMT",
+    "summary": "はじめに\n2026年2月20日に、Thariq氏がXで「Lessons from Building Claude Code: Prompt Caching Is Everything 」というタイトルの記事を公開し、話題になりました。\nhttps://x.com/trq212/status/2024574133011673516\nそれを踏まえて、この記事では、Claude Codeを日常的に使っているユーザーの視点から、プロンプトキャッシュの仕組みを整理します。\nAPI直叩きでエージェントを作る人向けの話は省き、あくまでClaude Codeを使う側として知っておきたいことに絞ります...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--VsvtJSGe--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%25E3%2583%25A6%25E3%2583%25BC%25E3%2582%25B6%25E3%2583%25BC%25E3%2581%25AE%25E3%2581%259F%25E3%2582%2581%25E3%2581%25AE%25E3%2583%2597%25E3%2583%25AD%25E3%2583%25B3%25E3%2583%2597%25E3%2583%2588%25E3%2582%25AD%25E3%2583%25A3%25E3%2583%2583%25E3%2582%25B7%25E3%2583%25A5%25E5%2585%25A5%25E9%2596%2580%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:oga_aiichiro%25EF%25BC%2588%25E5%25A4%25A7%25E8%25B3%2580%25E6%2584%259B%25E4%25B8%2580%25E9%2583%258E%25EF%25BC%2589%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzNhMDEwODY1NzkuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-04-21 20:37:23",
+    "ja_summary": "Claude Codeで「プロンプトキャッシュ」を活用すると、AIの応答速度が向上し、API利用コストも大幅に削減できる。\n仕組みを理解し適切に設定することで、開発プロセス全体の効率を最適化できる。\nAPI開発者向けではなく、Claude Codeの日常的な利用者にとって不可欠な基礎知識を解説する記事。"
+  },
+  {
+    "title": "AIスクラムチームは嘘をつく",
+    "link": "https://zenn.dev/microsoft/articles/2a952ed44e3873",
+    "source": "Zenn Trends",
+    "published": "Mon, 20 Apr 2026 23:15:54 GMT",
+    "summary": "はじめに\nAIエージェントにはハルシネーションという恐ろしい特性があることは皆様ご存じかと思います。それっぽい適当なことを言ったりするあれです。私が運営しているAIだけで自律的にスクラムを回しているAIチームもその例外ではありません。（AIスクラムチームの詳細は以下のシリーズ記事をご覧ください。）\nhttps://zenn.dev/microsoft/articles/6576552d9c4f45\nただし、スクラムのプロセスの中で、複数エージェントによるレビューや振り返りなどの仕組みを元より実施していたので、これまではハルシネーションが問題になることもなく、紆余曲折はありつつも順調に...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--D_HspBoe--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%25E3%2582%25B9%25E3%2582%25AF%25E3%2583%25A9%25E3%2583%25A0%25E3%2583%2581%25E3%2583%25BC%25E3%2583%25A0%25E3%2581%25AF%25E5%2598%2598%25E3%2582%2592%25E3%2581%25A4%25E3%2581%258F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:shuji%2520yamaguchi%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2MzZDNiN2I3OGYuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Microsoft%2520%2528%25E6%259C%2589%25E5%25BF%2597%2529%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly96ZW5uLWRldi5naXRodWIuaW8vZGVmYXVsdC1hdmF0YXJzL2Rhcmsvcy5wbmc=%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-04-21 20:37:23",
+    "ja_summary": "AIチームでも「ハルシネーション」という嘘をつく現象が発生。\nしかし、チーム内のレビューや振り返り機能が、この問題をこれまで防いできた。\nAIスクラムチームでも、人間と同様に虚偽情報への対策が重要。"
+  },
+  {
+    "title": "ホワイトカラーの80%がAI導入に反抗している ── 技術者が知っておくべき「AI抵抗」の構造と乗り越え方",
+    "link": "https://qiita.com/nogataka/items/4464273923cb00271303",
+    "source": "Qiita (Popular)",
+    "published": "2026-04-17T11:12:26+09:00",
+    "summary": "\n## はじめに\n\n2026年4月、Fortune誌が報じた一つの調査結果がReddit r/technologyで19,581のアップボートと1,800超のコメントを集め、技術系コミュニティで大きな議論を巻き起こしました。\n\n「ホワイトカラーの80%が、企業のAI導入指示を拒否している」\n\nWalkMeが3,750人の経営層・従業員を対象に14カ国で実施した「State of Digital A",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYxNjEyOTglMkZjMWUzZmZkNmVhZGExOTY5ZmYzYzQ0YjE0ZmRlMDgxYmNkZTZmNTAwJTJGeF9sYXJnZS5wbmclM0YxNTg0ODQ1NTg0P2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz00ZGRjZmU5NTFjNTMyMzU3NjcyOGUzOTkyOTNmOGRlNQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D246367bff431168e6212d2602a3df494?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgzJTlCJUUzJTgzJUFGJUUzJTgyJUE0JUUzJTgzJTg4JUUzJTgyJUFCJUUzJTgzJUE5JUUzJTgzJUJDJUUzJTgxJUFFODAlMjUlRTMlODElOENBSSVFNSVCMCU4RSVFNSU4NSVBNSVFMyU4MSVBQiVFNSU4RiU4RCVFNiU4QSU5NyVFMyU4MSU5NyVFMyU4MSVBNiVFMyU4MSU4NCVFMyU4MiU4QiUyMCVFMiU5NCU4MCVFMiU5NCU4MCUyMCVFNiU4QSU4MCVFOCVBMSU5MyVFOCU4MCU4NSVFMyU4MSU4QyVFNyU5RiVBNSVFMyU4MSVBMyVFMyU4MSVBNiVFMyU4MSU4QSVFMyU4MSU4RiVFMyU4MSVCOSVFMyU4MSU4RCVFMyU4MCU4Q0FJJUU2JThBJUI1JUU2JThBJTk3JUUzJTgwJThEJUUzJTgxJUFFJUU2JUE3JThCJUU5JTgwJUEwJUUzJTgxJUE4JUU0JUI5JTk3JUUzJTgyJThBJUU4JUI2JThBJUUzJTgxJTg4JUU2JTk2JUI5JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9OTViYmQ1ZjFhNmE4MmNiYmRlNTMyMWE3YjM5NTk4YTE&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBub2dhdGFrYSZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWE5ODA4YTE0Zjg4Y2I0ZjQ5OWU2ZDA3NGYyY2E2YTNh&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=89c7ef5350b80f48e8990a9b8e595524",
+    "fetched_at": "2026-04-21 20:37:28",
+    "ja_summary": "ホワイトカラーの8割がAI導入に抵抗を示しており、その背景にはAIによる仕事の代替やスキルの陳腐化への懸念がある。\n企業は、社員の不安解消、AI活用スキルの教育、AIがもたらすメリットの具体例提示が重要。\n抵抗を乗り越えAI導入を成功させるには、現場の状況に合わせた丁寧なコミュニケーションと支援が不可欠。"
+  },
+  {
+    "title": "エンジニアとして設計書をAIで10倍速く書く方法まとめ【プロンプト付き】",
+    "link": "https://qiita.com/kamome_susume/items/ce71acf0aa0b80631c35",
+    "source": "Qiita (Popular)",
+    "published": "2026-04-12T15:23:30+09:00",
+    "summary": "設計書を書くのに毎回何時間もかかって、本来の開発に集中できていない…そんな経験はありませんか？\n\n仕様書、API設計書、DB設計書、クラス設計書——エンジニアの仕事には「書かなければいけないドキュメント」が山ほどあります。でも、コードを書く時間と同じくらい、あるいはそれ以上の時間をドキュメント作成に費やしてしまっている現実があります。\n\nこの記事では、**ChatGPTやClaudeなどのAIを活",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYxNjkzMjQ4JTJGZDhlMmU1OWNiMDVmY2Y3MDQ3ZDgyN2ZjNDlkNDAwMTkzZTU5NDdjOSUyRnhfbGFyZ2UucG5nJTNGMTY4NjMxODg1ND9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9ZDRiNjcyYjg4ZWUxYTRkNjI1ZDRjOGFkMzVkMzQ5NjI%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Ddc9a014e564257547b64353543c58776?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgyJUE4JUUzJTgzJUIzJUUzJTgyJUI4JUUzJTgzJThCJUUzJTgyJUEyJUUzJTgxJUE4JUUzJTgxJTk3JUUzJTgxJUE2JUU4JUE4JUFEJUU4JUE4JTg4JUU2JTlCJUI4JUUzJTgyJTkyQUklRTMlODElQTcxMCVFNSU4MCU4RCVFOSU4MCU5RiVFMyU4MSU4RiVFNiU5QiVCOCVFMyU4MSU4RiVFNiU5NiVCOSVFNiVCMyU5NSVFMyU4MSVCRSVFMyU4MSVBOCVFMyU4MiU4MSVFMyU4MCU5MCVFMyU4MyU5NyVFMyU4MyVBRCVFMyU4MyVCMyVFMyU4MyU5NyVFMyU4MyU4OCVFNCVCQiU5OCVFMyU4MSU4RCVFMyU4MCU5MSZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTA0Y2Q5YTliODlhZjllODUwZGFjODA2YTJkOWQwN2Qy&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBrYW1vbWVfc3VzdW1lJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9ZGRiZTIzN2VhYmFmZjQ1YThiNWYzYWQyMWVhNzMzOTI&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=e2a4280eb4fe92d62952849bb25b0f08",
+    "fetched_at": "2026-04-21 20:37:29",
+    "ja_summary": "・設計書の作成時間をAI活用で10倍速くし、開発本来の業務に集中する方法を解説。\n・仕様書からDB設計書まで、膨大なドキュメント作成を効率化する具体的なプロンプトを紹介。\n・ChatGPTやClaudeを活用することで、エンジニアのドキュメント作成負荷を大幅に軽減する。"
+  },
+  {
     "title": "半透明フレームのAIグラス「VIVE Eagle」　撮影・音楽再生対応",
     "link": "https://www.watch.impress.co.jp/docs/news/2103416.html",
     "source": "Impress Watch",
@@ -928,75 +998,5 @@
     "image": "https://media.loom-app.com/loom/2026/04/17/ab9304ee-a286-4867-a875-a4efd63d5ecd/original.jpg?w=1200&amp;h=630",
     "fetched_at": "2026-04-20 12:24:55",
     "ja_summary": "・スナップがAI活用と少人数チーム化により、生産性向上と組織のフラット化を推進\n・一方で、人材育成の停滞やバイアスの発生、士気低下といったリスクも浮上\n・組織効率化を図る戦略だが、人的マネジメント面での課題が懸念される"
-  },
-  {
-    "title": "オールバーズは環境保護を重視した企業だった。しかし、AI企業へのピボットによってブランド理念は後退する",
-    "link": "https://www.businessinsider.jp/article/2604-allbirds-drop-environmental-focus-pivot-to-ai-sec-filing/",
-    "source": "Business Insider Japan",
-    "published": "Mon, 20 Apr 2026 02:10:00 GMT",
-    "summary": "オールバーズは、AI企業へのピボットという驚きの意思決定に伴って、環境保護への注力を縮小する計画であることが、SECへの提出書類で明らかになりました。説明している内容はこの記事の通りです。",
-    "image": "https://media.loom-app.com/loom/2026/04/16/f887d098-ff86-43be-bdfa-40ee4591e3f2/original.jpg?w=1200&amp;h=630",
-    "fetched_at": "2026-04-20 12:24:56",
-    "ja_summary": "・環境配慮で知られるオールバーズが、AI企業への事業転換を決定。\n・それに伴い、中核だった環境保護への取り組みを縮小する方針を表明。\n・SEC提出書類で判明し、従来のブランド理念との乖離が懸念されている。"
-  },
-  {
-    "title": "シタデル幹部が新入社員に求める資質を明かす",
-    "link": "https://www.businessinsider.jp/article/2604how-to-get-a-job-citadel-securities-ai-skills/",
-    "source": "Business Insider Japan",
-    "published": "Mon, 20 Apr 2026 02:05:00 GMT",
-    "summary": "AIが技術スキルのギャップを埋めることができる世界において、シタデル・セキュリティーズ証券はより本質的な特性を示す人材を求めている。",
-    "image": "https://media.loom-app.com/loom/2026/04/17/4e401aa4-70e3-4e1d-a882-fb0930469071/original.jpg?w=1200&amp;h=630",
-    "fetched_at": "2026-04-20 12:24:57",
-    "ja_summary": "・AIで技術スキルの代替が進む中、シタデル証券は本質的な人間的特性を持つ人材を重視。\n・専門スキル以上に、変化に適応し価値を生み出せる資質が採用の鍵となる。"
-  },
-  {
-    "title": "アメリカでは確定申告にChatGPTを使う人が急増中…相談内容は主に3つのテーマだった",
-    "link": "https://www.businessinsider.jp/article/2604-openai-chatgpt-tax-searches-increase-disclaimer/",
-    "source": "Business Insider Japan",
-    "published": "Mon, 20 Apr 2026 02:00:00 GMT",
-    "summary": "OpenAIは、税金申告の補助にChatGPTを利用するアメリカ人が急増していると報告する一方で、税務への活用への注意書きも添えました。",
-    "image": "https://media.loom-app.com/loom/2026/04/16/01c1757a-b173-4238-8f75-3391345f6d5c/original.jpg?w=1200&amp;h=630",
-    "fetched_at": "2026-04-20 12:24:58",
-    "ja_summary": "・米国の確定申告でChatGPTの利用者が急増中。\n・相談内容は主に「控除」「税務ルール」「申告手続き」の3点。\n・OpenAIは税務上の誤りやリスクを伴う可能性を警告している。"
-  },
-  {
-    "title": "オールバーズがAI事業への転換を発表…成功の条件を業界関係者に聞いた",
-    "link": "https://www.businessinsider.jp/article/2604-allbirds-ai-pivot-data-centers-success/",
-    "source": "Business Insider Japan",
-    "published": "Mon, 20 Apr 2026 01:30:00 GMT",
-    "summary": "オールバーズの計画は実現が容易ではないでしょう。さらなる資金、専門知識、そしてハイパースケーラーとの連携が必要になります。",
-    "image": "https://media.loom-app.com/loom/2026/04/16/eb5d7e10-f7de-462e-9935-1cc209cc4b0d/original.jpg?w=1200&amp;h=630",
-    "fetched_at": "2026-04-20 12:24:59",
-    "ja_summary": "・オールバーズがAI事業への転換を発表したが、実現には高いハードルが存在する。\n・成功には資金と専門知識に加え、ハイパースケーラーとの連携が不可欠である。\n・業界関係者の見方は厳しく、計画達成には多角的な経営リソースの確保が鍵となる。"
-  },
-  {
-    "title": "「Personal Intelligence」、アプリ連携で「Gemini」をパーソナライズ",
-    "link": "https://japan.zdnet.com/article/35246622/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "「Personal Intelligence」を有効にしてGoogleアプリを連携させれば、「Gemini」はアプリのデータを利用して、ユーザー一人ひとりに合わせた回答を提供してくれる。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35246622/\"><img src=\"https://japan.zdnet.com/storage/2026/04/20/67914f5e10b44e34c8447855011d9fcd/t/184/138/d/gemini-personal-intelligence_1280.jpg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2026/04/20/67914f5e10b44e34c8447855011d9fcd/t/184/138/d/gemini-personal-intelligence_1280.jpg",
-    "fetched_at": "2026-04-20 12:25:03",
-    "ja_summary": "・Googleアプリと「Gemini」を連携させる「Personal Intelligence」機能が登場。\n・個人のアプリ内データを活用し、ユーザー一人ひとりに最適化した回答を提供。\n・日々の情報をGeminiが把握することで、より利便性の高いパーソナルAIを実現。"
-  },
-  {
-    "title": "生成AIグラビアをグラビアカメラマンが作るとどうなる？第64回：日本語文字に強いERNIE-Image登場！（西川和久）",
-    "link": "https://www.techno-edge.net/article/2026/04/17/4998.html",
-    "source": "TechnoEdge",
-    "published": "Fri, 17 Apr 2026 09:17:26 +0900",
-    "summary": "Baiduから文字に強いERNIE-Image登場！",
-    "image": "https://www.techno-edge.net/imgs/rss/30890.jpg",
-    "fetched_at": "2026-04-20 12:25:04",
-    "ja_summary": "・Baiduが日本語文字の生成に強い新AIモデル「ERNIE-Image」を公開。\n・プロのグラビアカメラマンが、その実力を検証し生成AIの可能性を探る。\n・画像生成における課題であった「文字の正確さ」がどのように改善されたかが焦点。"
-  },
-  {
-    "title": "「1.58ビットに進化したから8GBで十分ですよ。任せてくださいよ」とBonsaiが言うのでMacBook Neoに組み込んでその性能差を体感。iPhoneでも楽々動くしで、ローカルAIが超進化中（CloseBox）",
-    "link": "https://www.techno-edge.net/article/2026/04/17/4997.html",
-    "source": "TechnoEdge",
-    "published": "Fri, 17 Apr 2026 08:23:29 +0900",
-    "summary": "2週間前、「1ビットLLMのBonsai 8Bが8GBのMacBook Neoで爆速だった」という記事を書きました。1.1GBに8.2Bパラメータが詰まっていて、Tool Callingも完璧に動く。そして今日、Bonsai開発元のPrismMLが次の一手を打ってきました。",
-    "image": "https://www.techno-edge.net/imgs/rss/30945.jpg",
-    "fetched_at": "2026-04-20 12:25:04",
-    "ja_summary": "・1.58ビット化された小型AI「Bonsai」により、8GBのMacBookでもAIが爆速動作するようになった。\n・iPhoneでも動作可能なほど軽量かつ高性能で、実用的なツール連携も完璧。\n・ローカル環境で動くAIが飛躍的に進化し、利便性が大きく向上している。"
   }
 ]
