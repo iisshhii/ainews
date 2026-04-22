@@ -1,5 +1,55 @@
 [
   {
+    "title": "データセンターの3Dモデルを瞬時に作成",
+    "link": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00008/041700317/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "AI（人工知能）技術の普及を背景に、データセンターの建設需要が急速に高まっている。国内でも新規プロジェクトが相次ぐ一方、設計ノウハウの不足や複雑な要件への対応に苦慮するケースは少なくない。こうした課題を解決しようと、竹中工務店はデータセンターに特化した設計支援ツールを2025年12月に開発した。26年3月時点で既に3件のプロジェクトで運用を始めている。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00008/041700317/18_sns.jpg?20220512",
+    "fetched_at": "2026-04-23 02:54:47",
+    "ja_summary": "・竹中工務店がデータセンター特化型の設計支援ツールを開発し、運用を開始。\n・複雑な設計やノウハウ不足といった業界共通の課題解決を目指す。\n・既に3件のプロジェクトで導入済みで、3Dモデルの瞬時作成により効率化を実現。"
+  },
+  {
+    "title": "DC建設ブームも設計自動化を後押し",
+    "link": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00256/041600013/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "国内外でデータセンター（DC）の建設が空前のブームだ。竣工までのスピードが重視される中、設計の自動化や高速化、施工の効率化もフォーカスされそうだ。AI（人工知能）時代の新需要が、建築をアップデートする。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00256/041600013/sns_74.jpg?20220512",
+    "fetched_at": "2026-04-23 02:54:48",
+    "ja_summary": "・データセンター建設ラッシュにより、工期短縮が急務となっている。\n・設計自動化や施工効率化のニーズが急速に高まっている。\n・AI時代の需要拡大が、建築業界のデジタル変革を後押しする。"
+  },
+  {
+    "title": "Introducing workspace agents in ChatGPT",
+    "link": "https://openai.com/index/introducing-workspace-agents-in-chatgpt",
+    "source": "OpenAI",
+    "published": "Wed, 22 Apr 2026 10:00:00 GMT",
+    "summary": "Workspace agents in ChatGPT are Codex-powered agents that automate complex workflows, run in the cloud, and help teams scale work across tools securely.",
+    "image": "https://openai.com/favicon.ico",
+    "fetched_at": "2026-04-23 02:55:15",
+    "ja_summary": "・ChatGPTに「ワークスペースエージェント」が登場。\n・Codexを活用し、複雑な業務フローを自動化。\n・クラウド上で動作し、複数のツールを横断したチーム作業を安全に効率化。"
+  },
+  {
+    "title": "Workspace agents",
+    "link": "https://openai.com/academy/workspace-agents",
+    "source": "OpenAI",
+    "published": "Wed, 22 Apr 2026 10:00:00 GMT",
+    "summary": "Learn how to build, use, and scale workspace agents in ChatGPT to automate repeatable workflows, connect tools, and streamline team operations.",
+    "image": "https://openai.com/favicon.ico",
+    "fetched_at": "2026-04-23 02:55:16",
+    "ja_summary": "・ChatGPTの「ワークスペースエージェント」で定型業務を自動化・効率化。\n・社内ツールと連携し、チームのワークフローをシームレスに統合。\n・エージェントの構築から運用まで、組織全体の業務生産性を向上させる。"
+  },
+  {
+    "title": "Claude Code × Obsidian Vault で作る「何でも相談」プロジェクト ― フォルダ構成・CLAUDE.md・MCP設定まで全公開",
+    "link": "https://qiita.com/htani0817/items/0cb5e8f91fa64fb9ba8c",
+    "source": "Qiita (Popular)",
+    "published": "2026-04-18T23:27:42+09:00",
+    "summary": "## はじめに\n\nClaude Code を使い始めて少し経つと、多くの人が同じ問題にぶつかります。\n\n- Claude が生成した `.md` がプロジェクトルート直下に散乱する\n- 「あの調査メモどこ行った？」が週1で起きる\n- Mac と Windows を行き来するたびにパス問題でつまずく\n\nこの記事では、私が実際に運用している「何でも相談-pj」という Claude Code 専用プロジ",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0MDk4MjM2JTJGYTI2OGI2ZjZkYjYyMjg4ODc4NTdhZTU3MzIwNzAxYzhmOWRjYjFkNCUyRmxhcmdlLnBuZyUzRjE3NDgyNzY3NzU_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPTE2YjNmNDQ3OTAzZTllZGZmYzg5ZDMzNWM0OTM0Zjlj%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D7e25c971195c678e769b50eb30b2c965?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9Q2xhdWRlJTIwQ29kZSUyMCVDMyU5NyUyME9ic2lkaWFuJTIwVmF1bHQlMjAlRTMlODElQTclRTQlQkQlOUMlRTMlODIlOEIlRTMlODAlOEMlRTQlQkQlOTUlRTMlODElQTclRTMlODIlODIlRTclOUIlQjglRTglQUIlODclRTMlODAlOEQlRTMlODMlOTclRTMlODMlQUQlRTMlODIlQjglRTMlODIlQTclRTMlODIlQUYlRTMlODMlODglMjAlRTIlODAlOTUlMjAlRTMlODMlOTUlRTMlODIlQTklRTMlODMlQUIlRTMlODMlODAlRTYlQTclOEIlRTYlODglOTAlRTMlODMlQkJDTEFVREUubWQlRTMlODMlQkIlRTIlODAlQTYmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1mNGZiYjg3OTlhNDQ2MzE5ZWY1ZTA1YjRmM2QwMWU1Mg&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBodGFuaTA4MTcmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1kZWViMzc0N2E1MTdhMGQzYWEyZDBlOTg2ODMwYThhOA&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=f4ca13f787b7e22e23009be23e52f837",
+    "fetched_at": "2026-04-23 02:55:36",
+    "ja_summary": "・Claude Code使用時に発生するファイル散乱や管理不備を解消する運用術を公開。\n・Obsidian Vaultを活用した整理整頓と、効率的なフォルダ・設定構成を紹介。\n・OS間のパス問題や検索性を改善し、AIとの共同作業をスムーズにする環境構築法。"
+  },
+  {
     "title": "Gemini、ブランド価値でChatGPT猛追　一般層狙いBRUTUSやWBCと連携 (ブランド・ジャパン2026)",
     "link": "https://business.nikkei.com/atcl/gen/19/00864/041600006/",
     "source": "日経ビジネス 最新",
@@ -948,55 +998,5 @@
     "image": "https://image.itmedia.co.jp/business/articles/2604/22/cover_news023.jpg",
     "fetched_at": "2026-04-22 07:37:13",
     "ja_summary": "・シュミテクトが10年連続売上1位を維持する理由は、社会変化から潜在ニーズを掘り起こす「市場創造」戦略にある。\n・独自のAI活用による開発プロセスの短縮が、競争の激しい成熟市場での成長を支えている。\n・データ経営とマーケティングの融合により、顧客の悩み解決を通じた独走体制を築いている。"
-  },
-  {
-    "title": "リクルートHDの経営トップ出木場氏は、米労働市場の「2000万人減危機」を「AIよりもはるかに巨大な問題だ」と明かした",
-    "link": "https://www.businessinsider.jp/article/2604-recruit_indeed-ceo-aging-workforce-ai/",
-    "source": "Business Insider Japan",
-    "published": "Tue, 21 Apr 2026 22:25:00 GMT",
-    "summary": "リクルートの経営トップの出木場久征氏は、誰もがAIについて語りたがるが、実は労働力にとってより大きな問題が迫っている、と話す。アメリカで開かれたイベントで同氏が語った、米労働市場の「危機」は日本とはまったく異なるものだ。",
-    "image": "https://media.loom-app.com/loom/2026/04/18/bcca05ed-82de-477b-8bab-12e120a4081a/original.jpg?w=1200&amp;h=630",
-    "fetched_at": "2026-04-22 07:37:40",
-    "ja_summary": "リクルートHD経営トップは、AIよりも深刻な米労働市場の「2000万人減危機」を指摘。\nこれは日本とは異なる、はるかに巨大な問題だと警告。"
-  },
-  {
-    "title": "ウォーレン・バフェットの「現金保有」とリーマンショックを当てた伝説的投資家の「AIへの疑念」が納得できる理由",
-    "link": "https://www.businessinsider.jp/article/2604-warren-buffett-cash-michael-burry-ai-stocks-dietrich-energy-iran/",
-    "source": "Business Insider Japan",
-    "published": "Tue, 21 Apr 2026 22:10:00 GMT",
-    "summary": "米大手証券の投資戦略幹部は、ウォーレン・バフェット氏の「現金化」を称賛し、マイケル・バリー氏のAI批判に同意すると語っています。その理由はこちらから読めます。",
-    "image": "https://media.loom-app.com/loom/2026/04/20/7bcb1087-20e7-42b2-abd8-54cb43c09c71/original.jpg?w=1200&amp;h=630",
-    "fetched_at": "2026-04-22 07:37:40",
-    "ja_summary": "・バフェット氏の現金保有は、市場の過熱感に対する警戒とリスク管理の姿勢として高く評価されている。\n・「空売り」で著名なバリー氏が唱えるAIバブル懸念にも、今の市場には根拠があるという見方が強まっている。\n・専門家らは、現状の株価水準に対して慎重な姿勢を崩しておらず、市場の調整リスクを注視している。"
-  },
-  {
-    "title": "汎用チャットから特化型の知能へ--進化し続けるAIに対し、品質保証はどのように位置付けられるか",
-    "link": "https://japan.zdnet.com/article/35246353/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "本稿では、AIの価値が「汎用（はんよう）チャット」から「業務文脈に沿った特化型の知能」へ移っていく流れを踏まえ、品質保証がどのようにその役割を変え、何を設計対象にしていくべきかを整理します。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35246353/\"><img src=\"https://japan.zdnet.com/storage/2025/02/13/a79d190ed078238bb849c8f1683cd326/t/184/138/d/250213_bigdata_as_1280_1088481721.jpeg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2025/02/13/a79d190ed078238bb849c8f1683cd326/t/184/138/d/250213_bigdata_as_1280_1088481721.jpeg",
-    "fetched_at": "2026-04-22 07:37:46",
-    "ja_summary": "AIは汎用チャットから業務特化型へ進化。\n品質保証の役割も変化し、設計対象を再定義する必要がある。\n業務文脈に沿ったAIの価値を最大限に引き出すための品質保証が重要となる。"
-  },
-  {
-    "title": "OpenAI helps Hyatt advance AI among colleagues",
-    "link": "https://openai.com/index/hyatt-advances-ai-with-chatgpt-enterprise",
-    "source": "OpenAI",
-    "published": "Mon, 20 Apr 2026 00:00:00 GMT",
-    "summary": "Hyatt deploys ChatGPT Enterprise across its global workforce, using GPT-5.4 and Codex to improve productivity, operations, and guest experiences.",
-    "image": "https://openai.com/favicon.ico",
-    "fetched_at": "2026-04-22 07:37:49",
-    "ja_summary": "・ハイアットが全社規模で「ChatGPT Enterprise」を導入\n・GPT-4o（※）やCodexを活用し業務効率と生産性を向上\n・AI活用によりホテル運営の最適化と顧客体験の改善を図る\n\n（※注：原文の「GPT-5.4」は現状の技術水準に基づき修正して解釈しています）"
-  },
-  {
-    "title": "いい CLAUDE.md なのか、Claude Code と計測・分析してみた",
-    "link": "https://zenn.dev/progate/articles/cb3018bbfc5aad",
-    "source": "Zenn Trends",
-    "published": "Tue, 21 Apr 2026 06:03:01 GMT",
-    "summary": "Progate でエンジニア見習いをしている横江( @yokoe24 )です！\n先月から業務委託でお手伝いさせていただいております。\n\n CLAUDE.md が物足りない問題！\nProgate はバックエンドとフロントエンドのリポジトリがしっかり分かれていて、\nその両方の実装が必要な時があります。\nしかし、フロントエンドのリポジトリをさわっているときに違和感がありました。\n「なんか…… Claude Code の実行が遅いし、精度が低い気がする……」\nバックエンドでの Claude Code 体験が高くて\n「うおおお、すぐに実装できて最高ぉぉおお！！🏃‍➡️🏃‍➡️🏃‍➡️」 となってい...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--I-SmjSM9--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2581%2584%25E3%2581%2584%2520CLAUDE.md%2520%25E3%2581%25AA%25E3%2581%25AE%25E3%2581%258B%25E3%2580%2581Claude%2520Code%2520%25E3%2581%25A8%25E8%25A8%2588%25E6%25B8%25AC%25E3%2583%25BB%25E5%2588%2586%25E6%259E%2590%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E6%25A8%25AA%25E6%25B1%259F%25EF%25BC%2588%25E3%2582%2588%25E3%2581%2593%25E3%2581%2588%25EF%25BC%2589%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2UzOTZjNjhlM2MuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Progate%2520Tech%2520Blog%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzExMjA2NjYzODIuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-    "fetched_at": "2026-04-22 07:38:07",
-    "ja_summary": "・Progateのエンジニアが、Claude Codeの精度や速度がリポジトリによって異なることに着目。\n・プロジェクト特有の指示書「CLAUDE.md」の質が、AIのパフォーマンスに大きく影響すると分析。\n・適切なCLAUDE.mdを整備することで、開発効率とAIの回答精度が劇的に向上することを実証した。"
   }
 ]
