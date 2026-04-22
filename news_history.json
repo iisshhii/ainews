@@ -1,5 +1,65 @@
 [
   {
+    "title": "Google Cloud、「エージェント組織」に向けたGemini新製品群　新TPUも",
+    "link": "https://www.watch.impress.co.jp/docs/news/2103497.html",
+    "source": "Impress Watch",
+    "published": "",
+    "summary": "Googleは22日(米国時間)、「Google Cloud Next 26」にあわせて、多くの発表を行なった。企業向けの「Gemini Enterprise」を大幅に強化し、AIエージェントを構築、利用、展開、管理する仕組みとして推進。「組織をAgentic Enterpriseへと変革するために必要なすべてを発表する」としている。",
+    "image": "https://www.watch.impress.co.jp/img/ipw/list/2103/497/gn01.jpg",
+    "fetched_at": "2026-04-22 23:21:30",
+    "ja_summary": "・Googleが企業向けAI「Gemini Enterprise」を強化し、AIエージェントの構築から管理までを一元化する新機能群を発表。\n・組織の自律的なAI活用を促す「Agentic Enterprise（エージェント組織）」への変革を支援する。\n・AI開発を支える次世代TPU（専用プロセッサ）の投入など、インフラ面も大幅に拡充。"
+  },
+  {
+    "title": "グーグル、文書やメールの“文脈”を理解して支援する「Workspace Intelligence」",
+    "link": "https://www.watch.impress.co.jp/docs/news/2103487.html",
+    "source": "Impress Watch",
+    "published": "",
+    "summary": "Googleは22日、Google Workspaceの新機能「Workspace Intelligence」を発表した。Google ドキュメントやスライド、Gmail、チャットなどのWorkspaceアプリのコンテンツや進行中のプロジェクト、共同作業者などの関係性や文脈を理解しながら、作業を進めるための基盤となり、GeminiによるAI機能を取り入れている。",
+    "image": "https://www.watch.impress.co.jp/img/ipw/list/2103/487/gw02.jpg",
+    "fetched_at": "2026-04-22 23:21:31",
+    "ja_summary": "・Google Workspaceが新機能「Workspace Intelligence」を発表。\n・AI（Gemini）が文書、メール、プロジェクトの文脈を深く理解。\n・作業内容や関係性を踏まえた高度な支援により業務効率を向上。"
+  },
+  {
+    "title": "AI×ゲームの現在地がわかる記事と作品まとめ",
+    "link": "https://note.com/npaka/n/ncde6fd2958d2",
+    "source": "note (npaka)",
+    "published": "Wed, 22 Apr 2026 05:57:39 +0900",
+    "summary": "<p id=\"36eb4c9b-cd70-40b0-9feb-2a5a456de3a4\" name=\"36eb4c9b-cd70-40b0-9feb-2a5a456de3a4\">AI×ゲームの現在地がわかる記事と作品をまとめました。</p><br /><br /><a href=\"https://note.com/npaka/n/ncde6fd2958d2\">続きをみる</a>",
+    "image": "https://assets.st-note.com/production/uploads/images/269302799/rectangle_large_type_2_399b7985ce76a42dae9dc80bf0d4ff40.png?width=800",
+    "fetched_at": "2026-04-22 23:21:43",
+    "ja_summary": "AIとゲーム技術の融合に関する最新動向をまとめた記事と作品集。\n現在の活用事例や関連情報を網羅的に把握できる。\n開発者や業界関係者向けに、最新の技術トレンドを効率よく確認可能。"
+  },
+  {
+    "title": "AI投資5年で1兆円要請 自民提言案",
+    "link": "https://news.yahoo.co.jp/pickup/6577261?source=rss",
+    "source": "Yahoo!ニュース IT・科学",
+    "published": "Wed, 22 Apr 2026 13:10:35 GMT",
+    "summary": "",
+    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/22/ca78aebbdc13035b7d4b3ea8e5dc624c57c025d23e38cacde7eeb2d29e1523e5.jpg",
+    "fetched_at": "2026-04-22 23:21:45",
+    "ja_summary": "・自民党がAI分野への投資を今後5年間で1兆円規模に拡大する提言案をまとめた。\n・国家戦略としてAI開発力と計算基盤を強化し、国際競争力の向上を目指す。\n・官民連携による大規模な資金投入で、国内のAI産業育成を加速させる狙い。"
+  },
+  {
+    "title": "Google DeepMind、MCP対応の新世代リサーチエージェント「Deep Research Max」提供開始　Gemini 3.1 Proベース",
+    "link": "https://www.techno-edge.net/article/2026/04/22/5012.html",
+    "source": "TechnoEdge",
+    "published": "Wed, 22 Apr 2026 21:47:20 +0900",
+    "summary": "・Gemini 3.1 Pro搭載の新Deep ResearchエージェントがGemini APIで公開開始、速度重視の標準版と精度重視のMaxの2モデルを提供<br />\n・MCPサポートにより独自データや外部専門データソースとの連携が可能になり、ウェブ検索を超えた自律型リサーチが実現<br />\n・ネイティブチャート・インフォグラフィック生成機能を初搭載し、分析レポートにリッチなビジュアルを自動付与",
+    "image": "https://www.techno-edge.net/imgs/rss/31008.jpg",
+    "fetched_at": "2026-04-22 23:21:50",
+    "ja_summary": "・GoogleがGemini 3.1 Proを搭載した自律型リサーチエージェント「Deep Research Max」を提供開始。\n・MCP対応により社内データや外部専門ソースとも連携可能で、ウェブ検索を超えた深い分析を実現。\n・分析内容に応じたグラフや図解を自動生成する新機能により、即戦力となるリッチなレポート作成を支援。"
+  },
+  {
+    "title": "Standards et agents IA : un tour d’horizon de MCP, A2A, ADK et plus encore",
+    "link": "https://speakerdeck.com/glaforge/standards-et-agents-ia-un-tour-dhorizon-de-mcp-a2a-adk-et-plus-encore",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-04-22T09:25:25-04:00",
+    "summary": "Les fondations des agents IA reposent sur une poignée de protocoles communs que vous devez maîtriser pour tirer le meilleur parti de votre LLM et de votre framework agentique. C’est pourquoi il est important de les comprendre. Certains gagnent du terrain, d’autres non.\n\nDans ce deep dive, nous explorerons l’écosystème en vous présentant ces standards et en nous concentrant sur les plus importants. Connaître certains frameworks est également utile pour démarrer plus rapidement. Bienvenue aux protocoles MCP, A2A, ACP, et aux frameworks ADK, Arc, Quarkus, LangChain4j !\n\nAprès un aperçu des principaux standards et protocoles, nous commencerons par construire un agent, d'abord sans protocole, puis en ajoutant des interactions MCP. Nous construirons après un système multi-agents et multi-technos (ADK, Quarkus et LangChain4j) via A2A.\n\nVous apprendrez ce que font ces protocoles et comment ils fonctionnent, mais aussi pourquoi ils sont importants, avec des parcours détaillés et des démos en direct tout au long de la session.\n\nSi vous avez du mal à comprendre tous les détails des protocoles autour des agents IA, cette session est faite pour vous !",
+    "image": "https://files.speakerdeck.com/presentations/97b9e0204e9d49bd8fde638f98f551a0/preview_slide_0.jpg?39182421",
+    "fetched_at": "2026-04-22 23:22:10",
+    "ja_summary": "AIエージェントの基盤となる共通プロトコルMCP、A2A、ACPなどを解説。\nADK、Arc、Quarkus、LangChain4jなどのフレームワークも紹介し、実際の構築デモで理解を深める。\nAIエージェント開発の効率化に役立つ、主要な標準と実践的な知識を提供する。"
+  },
+  {
     "title": "Geminiでメールの優先度や回答期限を確認、予定の管理も頼める",
     "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03532/030300004/",
     "source": "日経クロステック 総合",
@@ -938,65 +998,5 @@
     "image": "https://media.loom-app.com/loom/2026/04/17/247c00df-d3a3-48f5-829c-72b267288764/original.jpg?w=1200&amp;h=630",
     "fetched_at": "2026-04-22 06:58:12",
     "ja_summary": "・AIロボットの学習用データ作成が、新たなギグワーク（スポットワーク）として急成長中。\n・人材プラットフォームのInstaworkが、登録作業員をロボット教育の要として活用。\n・ロボットの進化に伴い、単なる労働提供を超えた「AI訓練」という新しい市場が拡大している。"
-  },
-  {
-    "title": "富士通が自社AIに取り組む理由。「ネットにはない日本のビジネス文書」を活かす発想【日本企業のLLM】",
-    "link": "https://www.businessinsider.jp/article/2604-fujitsu-ai-japanese-business-documents/",
-    "source": "Business Insider Japan",
-    "published": "Tue, 21 Apr 2026 21:30:00 GMT",
-    "summary": "富士通は、ネット上には少ない日本企業特有の文書や業務フォーマットに対応するため、独自のLLM「Takane」を展開しています。汎用AIとは異なる企業向けの強みを探りました。",
-    "image": "https://media.loom-app.com/loom/2026/04/21/fd5d0608-0214-4832-840e-829295bcfd8a/original.png?w=1200&amp;h=630",
-    "fetched_at": "2026-04-22 06:58:12",
-    "ja_summary": "富士通は、ネットにない日本企業特有の文書や業務フォーマットに対応するため、独自AI「Takane」を開発。\n汎用AIにはない、国内ビジネスに特化した強みを持つ。\nこれにより、日本企業のDX推進を支援する。"
-  },
-  {
-    "title": "「あえて地方から上場」は理にかなう。JR東、東京建物も注目のホテルAI企業が東京→北海道・北広島に本社移転した理由",
-    "link": "https://www.businessinsider.jp/article/2604-why-squeeze-ipo-from-local/",
-    "source": "Business Insider Japan",
-    "published": "Tue, 21 Apr 2026 21:20:00 GMT",
-    "summary": "都心で創業し、東京・大阪・京都など全国でビジネスを展開しているにもかかわらず、あえて北海道・北広島市に本社を移転した企業が、4月22日に上場します。「あえて地方」を選ぶ理由を尋ねました。",
-    "image": "https://media.loom-app.com/loom/2026/04/21/d871ed04-94ef-4635-b184-23b5420ee8fd/original.jpg?w=1200&amp;h=630",
-    "fetched_at": "2026-04-22 06:58:12",
-    "ja_summary": "・ホテル特化型AI企業の「アルメックス」傘下の企業が、北広島市へ本社を移転し上場へ。\n・地方移転は、自治体との連携強化や新たな採用・ビジネスモデル創出の好機として機能。\n・都心一極集中を避け、あえて地方で事業価値を高める戦略が成長の鍵となっている。"
-  },
-  {
-    "title": "アップル次期CEO人事に賛否。AI時代だからこそ賭けた「原点回帰」は、吉と出るか凶と出るか",
-    "link": "https://www.businessinsider.jp/article/2604-apple-ceo-john-ternus-hardware-devices-ai-era/",
-    "source": "Business Insider Japan",
-    "published": "Tue, 21 Apr 2026 21:15:00 GMT",
-    "summary": "アップルのCEO交代は「AI時代のデバイス市場で覇権を握る」戦略の一環、とアナリストは分析していますが、その評価は分かれています。",
-    "image": "https://media.loom-app.com/loom/2026/04/21/82320e34-2e73-4ee0-9f75-d273e12b31ea/original.jpg?w=1200&amp;h=630",
-    "fetched_at": "2026-04-22 06:58:13",
-    "ja_summary": "・アップルの次期CEO人事はAI競争での覇権を狙った「原点回帰」の戦略的判断。\n・アナリストの間では、この経営判断が吉と出るか凶と出るかで評価が割れている。\n・今後のAI時代におけるデバイス市場での成否を左右する重要な転換点となっている。"
-  },
-  {
-    "title": "「君のPC、どのローカルAIを動かせる？」がわかるWebサイト「CanIRun.ai」が便利。訪問するだけで自動判定（生成AIクローズアップ）",
-    "link": "https://www.techno-edge.net/article/2026/04/22/5008.html",
-    "source": "TechnoEdge",
-    "published": "Wed, 22 Apr 2026 06:56:31 +0900",
-    "summary": "今回は、サイトに訪問するだけで自分のPCでどのAIモデルがローカル動作するかを判定してくれるサイト「CanIRun.ai」（Can your machine run AI models?）を取り上げます。",
-    "image": "https://www.techno-edge.net/imgs/rss/30979.png",
-    "fetched_at": "2026-04-22 06:58:20",
-    "ja_summary": "・Webサイト「CanIRun.ai」にアクセスするだけで、手持ちのPCで動作可能なローカルAIモデルを自動判定できる。\n・スペック不足による導入の失敗を防ぎ、自分のPC環境に適したAI選びが容易になる。\n・ローカル環境でのAI活用を検討しているユーザーにとって非常に便利な診断ツール。"
-  },
-  {
-    "title": "クソバズワード「ハーネスエンジニアリング」と向き合う",
-    "link": "https://qiita.com/retore/items/3688cf515c14f7471ed4",
-    "source": "Qiita (Popular)",
-    "published": "2026-04-18T21:52:58+09:00",
-    "summary": "数週間くらい前に突然どいつもこいつも「ハーネスエンジニアリング」とツイートするようになり，最初はhooksとかskillsのことをハーネスと呼んでいるらしいと認識していたのだが，ある日ClaudeCodeのことをハーネスとして扱う発言をしているツイートを見つけて，「ハーネスエンジニアリング is 何？」となった．\n\nhttps://x.com/retore/status/2041473483004",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGNDQ0MDM3JTJGcHJvZmlsZS1pbWFnZXMlMkYxNzY3MzMxMzEwP2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz00ZTgzODFhZTQ3ZGFlYmIzOWMyOTRiOGI0YzE4ZjJmYw%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D3a91397aaf4209dd13b44aa01a5d47ab?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgyJUFGJUUzJTgyJUJEJUUzJTgzJTkwJUUzJTgyJUJBJUUzJTgzJUFGJUUzJTgzJUJDJUUzJTgzJTg5JUUzJTgwJThDJUUzJTgzJThGJUUzJTgzJUJDJUUzJTgzJThEJUUzJTgyJUI5JUUzJTgyJUE4JUUzJTgzJUIzJUUzJTgyJUI4JUUzJTgzJThCJUUzJTgyJUEyJUUzJTgzJUFBJUUzJTgzJUIzJUUzJTgyJUIwJUUzJTgwJThEJUUzJTgxJUE4JUU1JTkwJTkxJUUzJTgxJThEJUU1JTkwJTg4JUUzJTgxJTg2JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9OTc3OTdkNDE3NzUxMGJkZGFiNjlhOTQ2YWEyYTM2Y2I&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDByZXRvcmUmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1hMmFiN2E5MzI2NWQ4YTg2Zjc4NTBlMzgzMDYyMzc3ZA&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=bb91a88fe7fbdf5fba382c5a0ef43fb4",
-    "fetched_at": "2026-04-22 06:58:38",
-    "ja_summary": "「ハーネスエンジニアリング」がSNSで話題。\n元々はプログラミングの専門用語かと思われたが、AIも対象になったことで意味不明な言葉に。\nその定義や背景を探る記事。"
-  },
-  {
-    "title": "高止まる人月単価､AI時代に\"コンサル切り\"リスクが顕在化…ULSが狙う大量動員ビジネスの｢ルールチェンジ｣ | ビジネス | 東洋経済オンライン",
-    "link": "https://toyokeizai.net/articles/-/941998?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-    "source": "東洋経済オンライン",
-    "published": "Wed, 22 Apr 2026 05:30:00 +0900",
-    "summary": "AI時代の波に直面するコンサル業界。ULSコンサルティングの横山社長は､従来のように数百人のエンジニアを大量動員して稼ぐモデルは時代遅れになると語ります。\"コンサル切り\"のリスクが高まる中､顧客の期…",
-    "image": "https://tk.ismcdn.jp/mwimgs/1/f/1200w/img_1f8e0427abb036df1cf74c41a654b4f0227337.jpg?nextgen=false",
-    "fetched_at": "2026-04-22 06:04:07",
-    "ja_summary": "・AIの台頭により、高コストなエンジニア大量動員型コンサルモデルは限界を迎えている。\n・顧客企業による「コンサル切り」のリスクが高まる中、従来のビジネス慣習が岐路に立つ。\n・ULSコンサルティングは、大量動員に頼らない新たなビジネスモデルで業界のルール変更を狙う。"
   }
 ]
