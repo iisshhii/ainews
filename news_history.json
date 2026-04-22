@@ -1,5 +1,45 @@
 [
   {
+    "title": "「君のPC、どのローカルAIを動かせる？」がわかるWebサイト「CanIRun.ai」が便利。訪問するだけで自動判定（生成AIクローズアップ）",
+    "link": "https://www.techno-edge.net/article/2026/04/22/5008.html",
+    "source": "TechnoEdge",
+    "published": "Wed, 22 Apr 2026 06:56:31 +0900",
+    "summary": "今回は、サイトに訪問するだけで自分のPCでどのAIモデルがローカル動作するかを判定してくれるサイト「CanIRun.ai」（Can your machine run AI models?）を取り上げます。",
+    "image": "https://www.techno-edge.net/imgs/rss/30979.png",
+    "fetched_at": "2026-04-23 00:48:20",
+    "ja_summary": "・Webサイト「CanIRun.ai」にアクセスするだけで、自身のPCでローカル動作可能なAIモデルを自動判定できる。\n・PCのスペックを診断し、どのAIが快適に動くかを即座に把握可能。\n・AIのローカル運用を検討しているユーザーが、ハードウェア要件を簡単に確認できる便利なツール。"
+  },
+  {
+    "title": "Introducing OpenAI Privacy Filter",
+    "link": "https://openai.com/index/introducing-openai-privacy-filter",
+    "source": "OpenAI",
+    "published": "Wed, 22 Apr 2026 00:00:00 GMT",
+    "summary": "OpenAI Privacy Filter is an open-weight model for detecting and redacting personally identifiable information (PII) in text with state-of-the-art accuracy",
+    "image": "https://openai.com/favicon.ico",
+    "fetched_at": "2026-04-23 00:48:21",
+    "ja_summary": "・OpenAIがテキスト内の個人情報（PII）を検知・削除するモデルを公開。\n・最高水準の精度で個人情報を保護し、プライバシー管理を強化。\n・オープンウェイトで提供され、技術の利便性と安全性が向上。"
+  },
+  {
+    "title": "ハーネスエンジニアリング解説",
+    "link": "https://speakerdeck.com/clshinji/hanesuensiniarinkujie-shuo",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-04-22T11:21:53-04:00",
+    "summary": "Amazon Bedrock で Claude Cowork 使ってパワポ資料を作ってみました\n\n初期プロンプト\n```\nハーネスエンジニアリングを非エンジニアの上司にも分かりやすく説明するためのパワポ資料を作って！ \n超絶分かりやすく、エレベーターピッチっぽくして\n```",
+    "image": "https://files.speakerdeck.com/presentations/9efaf5541f4d49dc91f3e9de3af870a5/preview_slide_0.jpg?39183852",
+    "fetched_at": "2026-04-23 00:48:38",
+    "ja_summary": "・ハーネスエンジニアリングとは、複雑な配線を最適化し、製品の信頼性と生産性を高める設計技術。\n・AI（Claude）を活用して、専門用語を日常的な例えに置き換えた直感的な資料構成を作成。\n・技術的な詳細よりも「コスト削減」や「品質向上」というビジネス価値に焦点を当てて説明。"
+  },
+  {
+    "title": "クソバズワード「ハーネスエンジニアリング」と向き合う",
+    "link": "https://qiita.com/retore/items/3688cf515c14f7471ed4",
+    "source": "Qiita (Popular)",
+    "published": "2026-04-18T21:52:58+09:00",
+    "summary": "数週間くらい前に突然どいつもこいつも「ハーネスエンジニアリング」とツイートするようになり，最初はhooksとかskillsのことをハーネスと呼んでいるらしいと認識していたのだが，ある日ClaudeCodeのことをハーネスとして扱う発言をしているツイートを見つけて，「ハーネスエンジニアリング is 何？」となった．\n\nhttps://x.com/retore/status/2041473483004",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGNDQ0MDM3JTJGcHJvZmlsZS1pbWFnZXMlMkYxNzY3MzMxMzEwP2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz00ZTgzODFhZTQ3ZGFlYmIzOWMyOTRiOGI0YzE4ZjJmYw%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D3a91397aaf4209dd13b44aa01a5d47ab?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgyJUFGJUUzJTgyJUJEJUUzJTgzJTkwJUUzJTgyJUJBJUUzJTgzJUFGJUUzJTgzJUJDJUUzJTgzJTg5JUUzJTgwJThDJUUzJTgzJThGJUUzJTgzJUJDJUUzJTgzJThEJUUzJTgyJUI5JUUzJTgyJUE4JUUzJTgzJUIzJUUzJTgyJUI4JUUzJTgzJThCJUUzJTgyJUEyJUUzJTgzJUFBJUUzJTgzJUIzJUUzJTgyJUIwJUUzJTgwJThEJUUzJTgxJUE4JUU1JTkwJTkxJUUzJTgxJThEJUU1JTkwJTg4JUUzJTgxJTg2JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9OTc3OTdkNDE3NzUxMGJkZGFiNjlhOTQ2YWEyYTM2Y2I&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDByZXRvcmUmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1hMmFiN2E5MzI2NWQ4YTg2Zjc4NTBlMzgzMDYyMzc3ZA&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=bb91a88fe7fbdf5fba382c5a0ef43fb4",
+    "fetched_at": "2026-04-23 00:48:40",
+    "ja_summary": "SNS上で「ハーネスエンジニアリング」という言葉が定義曖昧なままバズワード化しており、文脈により指す内容が異なる状況に筆者が困惑している。"
+  },
+  {
     "title": "Google Cloud、「エージェント組織」に向けたGemini新製品群　新TPUも",
     "link": "https://www.watch.impress.co.jp/docs/news/2103497.html",
     "source": "Impress Watch",
@@ -958,45 +998,5 @@
     "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0MDk4MjM2JTJGYTI2OGI2ZjZkYjYyMjg4ODc4NTdhZTU3MzIwNzAxYzhmOWRjYjFkNCUyRmxhcmdlLnBuZyUzRjE3NDgyNzY3NzU_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPTE2YjNmNDQ3OTAzZTllZGZmYzg5ZDMzNWM0OTM0Zjlj%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D7e25c971195c678e769b50eb30b2c965?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9Q2xhdWRlJTIwQ29kZSUyMCVDMyU5NyUyME9ic2lkaWFuJTIwVmF1bHQlMjAlRTMlODElQTclRTQlQkQlOUMlRTMlODIlOEIlRTMlODAlOEMlRTQlQkQlOTUlRTMlODElQTclRTMlODIlODIlRTclOUIlQjglRTglQUIlODclRTMlODAlOEQlRTMlODMlOTclRTMlODMlQUQlRTMlODIlQjglRTMlODIlQTclRTMlODIlQUYlRTMlODMlODglMjAlRTIlODAlOTUlMjAlRTMlODMlOTUlRTMlODIlQTklRTMlODMlQUIlRTMlODMlODAlRTYlQTclOEIlRTYlODglOTAlRTMlODMlQkJDTEFVREUubWQlRTMlODMlQkIlRTIlODAlQTYmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1mNGZiYjg3OTlhNDQ2MzE5ZWY1ZTA1YjRmM2QwMWU1Mg&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBodGFuaTA4MTcmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1kZWViMzc0N2E1MTdhMGQzYWEyZDBlOTg2ODMwYThhOA&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=f4ca13f787b7e22e23009be23e52f837",
     "fetched_at": "2026-04-22 07:38:10",
     "ja_summary": "Claude Code利用時のファイル散乱や管理不全を解消する運用術を公開。\nプロジェクト専用フォルダ構成と、LLMの挙動を最適化する「CLAUDE.md」やMCP設定を体系化。\n環境に依存しない安定した「何でも相談」環境の構築手順を解説。"
-  },
-  {
-    "title": "MCP vs Skills論争に決着をつける試み。AIエージェントの「拡張手段」を実装・設計・セキュリティで徹底比較する",
-    "link": "https://qiita.com/miruky/items/32314a0d9eb8c154dc95",
-    "source": "Qiita (Popular)",
-    "published": "2026-04-11T00:49:30+09:00",
-    "summary": "![asset_33v9vyfgz_1775834516257.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3637204/8f142ebe-53ed-4402-9564-1453370e0d8f.png)\n\n\n## はじめに\n\nこんばんは、mirukyです。\n\n「MCPはもう死んだ」「Skillsが新しい標準だ",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGMzYzNzIwNCUyRnByb2ZpbGUtaW1hZ2VzJTJGMTc3NDQ0NTA3MD9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NWY2OTc3NjFmNDZhMTA4YTgyMjNmMDEzODFkMGVmZTY%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Db2bc8d820e2037057c6470791c40d1f8?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9TUNQJTIwdnMlMjBTa2lsbHMlRTglQUIlOTYlRTQlQkElODklRTMlODElQUIlRTYlQjElQkElRTclOUQlODAlRTMlODIlOTIlRTMlODElQTQlRTMlODElOTElRTMlODIlOEIlRTglQTklQTYlRTMlODElQkYlRTMlODAlODJBSSVFMyU4MiVBOCVFMyU4MyVCQyVFMyU4MiVCOCVFMyU4MiVBNyVFMyU4MyVCMyVFMyU4MyU4OCVFMyU4MSVBRSVFMyU4MCU4QyVFNiU4QiVBMSVFNSVCQyVCNSVFNiU4OSU4QiVFNiVBRSVCNSVFMyU4MCU4RCVFMyU4MiU5MiVFNSVBRSU5RiVFOCVBMyU4NSVFMyU4MyVCQiVFOCVBOCVBRCVFOCVBOCU4OCVFMyU4MyVCQiVFMyU4MiVCQiVFMyU4MiVBRCVFMyU4MyVBNSVFMyU4MyVBQSVFMyU4MyU4NiVFMyU4MiVBMyVFMyU4MSVBNyVFNSVCRSVCOSVFMiU4MCVBNiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTliNGE2OTU5NWIzOTFmYmZjZTdmYWJiYmRjMGUzNDgx&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBtaXJ1a3kmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1iMWMwZjM0MGFkNTI5NmU1ZmNjNDFiZDQxMGY0YWRjYw&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=28f1da7718cbf9d4d00d5652e147a5f3",
-    "fetched_at": "2026-04-22 07:38:13",
-    "ja_summary": "AIエージェントの外部連携手段である「MCP」と「Skills」を、実装・設計・セキュリティの観点から徹底比較。\nどちらが次世代の標準となるかという議論に対し、技術的特性を明確にして判断基準を提示。\nAI開発において、それぞれの利点と使い分けを最適化するためのガイドラインを解説。"
-  },
-  {
-    "title": "Gemini、ブランド価値でChatGPT猛追　一般層狙いBRUTUSやWBCと連携 (ブランド・ジャパン2026)",
-    "link": "https://business.nikkei.com/atcl/gen/19/00864/041600006/",
-    "source": "日経ビジネス 最新",
-    "published": "",
-    "summary": "日経BPコンサルティングが手掛けるブランド価値調査「ブランド・ジャパン2026」（BJ2026）の一般生活者編で生成AIが初めてランキングに入った。生成AIの代名詞といえるChatGPTが総合81位となり、この部門では首位に立った。それを猛追するGeminiは一般層への浸透に知恵を絞っている。",
-    "image": "https://business.nikkei.com/atcl/gen/19/00864/041600006/fb.jpg",
-    "fetched_at": "2026-04-22 06:57:57",
-    "ja_summary": "・「ブランド・ジャパン2026」で生成AIが初ランクインし、ChatGPTが部門首位を獲得。\n・GoogleのGeminiがChatGPTを猛追し、一般層への浸透を図るべく異業種連携を強化中。\n・雑誌やスポーツイベントとのコラボを通じ、認知度向上とブランド価値の確立を狙う。"
-  },
-  {
-    "title": "AIボイスレコーダーの新製品急増　生成AI活用で文字起こし性能も進化 (日経クロステック)",
-    "link": "https://business.nikkei.com/atcl/gen/19/00297/033000278/",
-    "source": "日経ビジネス 最新",
-    "published": "",
-    "summary": "AIを活用し、文字起こしや要約ができる「AIボイスレコーダー」が急増しています。製品の急増により、市場がレッドオーシャン化する可能性があります。メーカーが生き残るためには、どうすればよいでしょうか。",
-    "image": "https://business.nikkei.com/atcl/gen/19/00297/033000278/fb.jpg",
-    "fetched_at": "2026-04-22 06:57:58",
-    "ja_summary": "・AI活用による文字起こし・要約機能付きボイスレコーダーが急増中。\n・市場の過熱による競争激化（レッドオーシャン化）が懸念される。\n・今後は製品ごとの独自の差別化戦略が生存の鍵となる。"
-  },
-  {
-    "title": "フィジカルAI時代の米国版「スポットワーク」新潮流…ロボット訓練用データの需要がギグワークを変革している",
-    "link": "https://www.businessinsider.jp/article/2604-robotics-ai-training-data-transforming-instawork-gig-work-platform-instacore/",
-    "source": "Business Insider Japan",
-    "published": "Tue, 21 Apr 2026 21:35:00 GMT",
-    "summary": "ロボットの学習用データの獲得競争はギグワークのあり方を変革しつつあります。Instaworkは自社の「プロ」をAI搭載ロボットのトレーニングにおける重要な原動力に変えました。",
-    "image": "https://media.loom-app.com/loom/2026/04/17/247c00df-d3a3-48f5-829c-72b267288764/original.jpg?w=1200&amp;h=630",
-    "fetched_at": "2026-04-22 06:58:12",
-    "ja_summary": "・AIロボットの学習用データ作成が、新たなギグワーク（スポットワーク）として急成長中。\n・人材プラットフォームのInstaworkが、登録作業員をロボット教育の要として活用。\n・ロボットの進化に伴い、単なる労働提供を超えた「AI訓練」という新しい市場が拡大している。"
   }
 ]
