@@ -1,5 +1,55 @@
 [
   {
+    "title": "Chronicle の概要",
+    "link": "https://note.com/npaka/n/n242bb3fc6e91",
+    "source": "note (npaka)",
+    "published": "Tue, 21 Apr 2026 07:00:03 +0900",
+    "summary": "<p id=\"1d0620a5-b7b3-4e71-ae49-f4d5a67ba03a\" name=\"1d0620a5-b7b3-4e71-ae49-f4d5a67ba03a\">以下の記事が面白かったので、簡単にまとめました。</p><figure id=\"baefb1b3-3b42-4b50-8d99-49f30f825543\" name=\"baefb1b3-3b42-4b50-8d99-49f30f825543\"><blockquote><p id=\"09769a0b-a061-4e4e-9167-f000a2ad78aa\" name=\"09769a0b-a061-4e4e-9167-f000a2ad78aa\"><strong>・</strong><a href=\"https://developers.openai.com/codex/memories/chronicle\" rel=\"nofollow noopener\" target=\"_blank\"><strong>Chronicle</strong></a></p></blockquote>\n<figcaption></figcaption></figure><br /><a href=\"https://note.com/npaka/n/n242bb3fc6e91\">続きをみる</a>",
+    "image": "https://assets.st-note.com/production/uploads/images/269032952/rectangle_large_type_2_2be6968c04bed4339ac71904043d0806.png?width=800",
+    "fetched_at": "2026-04-22 08:58:14",
+    "ja_summary": "・OpenAIが開発した「Chronicle」は、AIモデルの学習や推論プロセスを時系列で詳細に記録・分析できるツール。\n・複雑なAIの挙動を可視化・デバッグすることで、モデルの改善やトラブルシューティングを効率化する。\n・開発者がAIの学習過程を透明性を持って管理し、モデルの性能向上を支援するために提供されている。"
+  },
+  {
+    "title": "OpenAI、「ChatGPT Images 2.0」を発表--いち早くレビュー",
+    "link": "https://japan.zdnet.com/article/35246705/",
+    "source": "ZDNET Japan",
+    "published": "",
+    "summary": "OpenAIの新しい「ChatGPT Images 2.0」は、精度とデザインの制御性を約束している。本稿では、実際に試す方法を紹介する。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35246705/\"><img src=\"https://japan.zdnet.com/storage/2026/04/22/47bbaf431ee25d11135cd4541f4b09fa/t/184/138/d/i-got-an-early-look-at-chatgpt-images-2-0-and-its-impressive-with-one-exception_l.jpg\" /></a>",
+    "image": "https://japan.zdnet.com/storage/2026/04/22/47bbaf431ee25d11135cd4541f4b09fa/t/184/138/d/i-got-an-early-look-at-chatgpt-images-2-0-and-its-impressive-with-one-exception_l.jpg",
+    "fetched_at": "2026-04-22 08:58:17",
+    "ja_summary": "・OpenAIが画像生成AIの最新版「ChatGPT Images 2.0」を発表。\n・生成画像の精度向上とデザインの細かな制御が可能になった。\n・実際の操作感や機能の詳細を先行レビューで紹介。"
+  },
+  {
+    "title": "Gemini in Chrome日本上陸　複数タブまとめて比較・YouTube要約・Gmailやカレンダー連携など便利機能多数",
+    "link": "https://www.techno-edge.net/article/2026/04/21/5005.html",
+    "source": "TechnoEdge",
+    "published": "Tue, 21 Apr 2026 07:00:03 +0900",
+    "summary": "Googleは2026年4月21日、Google ChromeにAI機能「Gemini in Chrome」を日本を含む複数地域で提供開始しました。",
+    "image": "https://www.techno-edge.net/imgs/rss/30969.png",
+    "fetched_at": "2026-04-22 08:58:18",
+    "ja_summary": "Google ChromeにAI機能「Gemini」が日本でも利用可能になりました。\n複数タブの比較、YouTube動画の要約、Gmailやカレンダーとの連携など、作業効率を高める機能が多数搭載されています。"
+  },
+  {
+    "title": "AIにコーディングを全任せした結果、ドメイン設計に辿り着いた話",
+    "link": "https://zenn.dev/tan_go238/articles/002437e923913c",
+    "source": "Zenn Trends",
+    "published": "Sun, 19 Apr 2026 23:00:07 GMT",
+    "summary": "はじめに：AIで無双できると思っていた時期がありました\n最近、AIを使ったコーディングがすっかり当たり前になってきました。\nAIに指示を出せばコードが組み上がり、開発効率が飛躍的に上がると感じています。\n私自身も、要件定義から実装まで一気通貫でAIに任せる開発スタイルを試してきた結論を先にお伝えします。\n!\nAIコーディングを突き詰めると、人間が認知できる仕様の数というボトルネックに辿り着き、「ドメイン設計」と「分散システム」に取り組み始める\n\n本記事では、AI開発における「順調だったフェーズ」と「崩壊したフェーズ」、そしてそこから導き出した解決策について、順を追って整理します。\n\n...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--vCqqiBj0--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%25E3%2581%25AB%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2587%25E3%2582%25A3%25E3%2583%25B3%25E3%2582%25B0%25E3%2582%2592%25E5%2585%25A8%25E4%25BB%25BB%25E3%2581%259B%25E3%2581%2597%25E3%2581%259F%25E7%25B5%2590%25E6%259E%259C%25E3%2580%2581%25E3%2583%2589%25E3%2583%25A1%25E3%2582%25A4%25E3%2583%25B3%25E8%25A8%25AD%25E8%25A8%2588%25E3%2581%25AB%25E8%25BE%25BF%25E3%2582%258A%25E7%259D%2580%25E3%2581%2584%25E3%2581%259F%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:tan_go238%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2hLYjNjZ2QyQllZb09MOURJNEJHVzl6SE9MOVJEUFFVbjRHckZQOTZnPXM5Ni1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-04-22 08:58:41",
+    "ja_summary": "AIへの丸投げ開発を追求した結果、仕様の複雑化という限界に直面した。\nAI任せでは解決できない大規模開発には、ドメイン設計と分散システム設計が不可欠である。\nAI活用の鍵は、コーディング代行ではなく人間による論理的な設計プロセスへの回帰にある。"
+  },
+  {
+    "title": "Cursorで爆速開発、でもセキュリティは爆速で崩壊していた",
+    "link": "https://zenn.dev/nekoai_lab/articles/6b876ab524de84",
+    "source": "Zenn Trends",
+    "published": "Sun, 19 Apr 2026 22:29:56 GMT",
+    "summary": "TL;DR\n\nAIコーディングはコード生産速度を上げるが、レビュー・セキュリティのボトルネックも同時に増大する\n修正パッチのタイミングが一番危ない。最初の緊張感はAIには引き継がれない\n非エンジニアがコードを読むのは現実的じゃない。だからセキュリティエンジニアをSKILLに憑依させた\nSKILL.mdをGitHubに公開したので持ってけ\n\n\n\n 他人事じゃなかった\n先日、NYTにこんな記事が出た。\n\nAIコーディングツールを導入した金融企業で、月のコード生産量が2.5万行から25万行に10倍化。結果、レビュー待ちのコードが100万行以上積み上がった。\n\n「AIで効率化したのに人手不足...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--qljKJ1ii--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Cursor%25E3%2581%25A7%25E7%2588%2586%25E9%2580%259F%25E9%2596%258B%25E7%2599%25BA%25E3%2580%2581%25E3%2581%25A7%25E3%2582%2582%25E3%2582%25BB%25E3%2582%25AD%25E3%2583%25A5%25E3%2583%25AA%25E3%2583%2586%25E3%2582%25A3%25E3%2581%25AF%25E7%2588%2586%25E9%2580%259F%25E3%2581%25A7%25E5%25B4%25A9%25E5%25A3%258A%25E3%2581%2597%25E3%2581%25A6%25E3%2581%2584%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E6%259C%2588%25E3%2581%25AD%25E3%2581%2593AI%25EF%25BD%259CNeko%2520AI%2520Lab%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzhhZDgwMzhmMmMuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-04-22 08:58:41",
+    "ja_summary": "AI導入によるコード量急増でレビューが追いつかず、セキュリティリスクが激増している。\nAI任せの開発では修正時の脆弱性見落としが懸念されるため、注意が必要。\n対策として、セキュリティ知見を記述した「SKILL.md」を導入し、AIに自動チェックさせる手法が有効。"
+  },
+  {
     "title": "［クイズ］三菱商事が、8年ぶりに新卒採用を再開する職種とは？ (日経ビジネス教養クイズ)",
     "link": "https://business.nikkei.com/atcl/gen/19/00738/041600236/",
     "source": "日経ビジネス 最新",
@@ -948,55 +998,5 @@
     "image": "https://japan.cnet.com/storage/2026/04/21/41e1a2a9325ffc18eb56f5ade519d714/t/184/138/d/2026-04-21_7.37の画像.jpeg",
     "fetched_at": "2026-04-21 08:08:25",
     "ja_summary": "・LINEヤフーがAIエージェントの新ブランド「Agent i」の提供を開始。\n・従来の「Yahoo! JAPAN」と「LINE」のAI機能を統合し利便性を向上。\n・LINEアプリなどからワンタップで起動できるWebサービスとして利用可能。"
-  },
-  {
-    "title": "シリコンバレーの著名起業家たちは、AIを理由にした「レイオフ指南書」を実践している…「みんなが言っていれば何のリスクもない」",
-    "link": "https://www.businessinsider.jp/article/2604-tech-companies-layoff-announcements-sound-similar/",
-    "source": "Business Insider Japan",
-    "published": "Mon, 20 Apr 2026 23:00:00 GMT",
-    "summary": "テクノロジー大手のアトラシアン、Snap、Blockの解雇通知書には、AIによる効率化や機敏性といった同様のテーマが盛り込まれている。判で押したかのような内容なのは、この理由自体が「使いやすいトレンド」だからだ。",
-    "image": "https://media.loom-app.com/loom/2026/04/18/dd894df4-8ed9-4c13-83f9-bec2590483b2/original.jpg?w=1200&amp;h=630",
-    "fetched_at": "2026-04-21 08:08:25",
-    "ja_summary": "・米IT企業が相次いで実施する大規模レイオフで、「AIによる効率化」という理由が定型文として利用されている。\n・特定の経営戦略ではなく、流行の言葉を盾にすることで、批判を回避しつつリストラを正当化する手法が横行している。\n・企業間でレイオフの「指南書」が存在するかのように、同じ文言での解雇が常態化している。"
-  },
-  {
-    "title": "The next evolution of the Agents SDK",
-    "link": "https://openai.com/index/the-next-evolution-of-the-agents-sdk",
-    "source": "OpenAI",
-    "published": "Wed, 15 Apr 2026 10:00:00 GMT",
-    "summary": "OpenAI updates the Agents SDK with native sandbox execution and a model-native harness, helping developers build secure, long-running agents across files and tools.",
-    "image": "https://openai.com/favicon.ico",
-    "fetched_at": "2026-04-21 08:08:36",
-    "ja_summary": "・OpenAIがAgents SDKをアップデートし、安全な実行環境（サンドボックス）を標準搭載。\n・外部ファイルやツールを扱う、長期間稼働するエージェント開発をより容易に実現。\n・モデル開発に最適化されたフレームワークにより、開発効率とセキュリティが向上。"
-  },
-  {
-    "title": "Introducing Claude Opus 4.7",
-    "link": "https://www.anthropic.com/news/claude-opus-4-7",
-    "source": "Anthropic (News)",
-    "published": "Thu, 16 Apr 2026 00:00:00 +0000",
-    "summary": "Introducing Claude Opus 4.7",
-    "image": "https://cdn.sanity.io/images/4zrzovbb/website/96ea2509a90e527642c822303e56296a07bcfce4-1920x1080.png",
-    "fetched_at": "2026-04-21 08:08:52",
-    "ja_summary": "・Anthropic社が最新AIモデル「Claude Opus 4.7」を発表\n・従来モデルから性能や精度が向上\n・業務効率化や複雑なタスク処理能力を強化した新バージョン"
-  },
-  {
-    "title": "アマゾンがアンソロピックに50億ドル追加投資､将来的には最大200億ドルに拡大 | ビジネス | 東洋経済オンライン",
-    "link": "https://toyokeizai.net/articles/-/942107?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-    "source": "東洋経済オンライン",
-    "published": "Tue, 21 Apr 2026 07:00:00 +0900",
-    "summary": "アマゾンとAIスタートアップのアンソロピックが､驚異的な規模で提携を拡大しました。アマゾンは最大200億ドルの追加投資を表明し､AIツール開発とクラウド技術で新たな時代を切り拓きます。巨大資本の動き…",
-    "image": "https://tk.ismcdn.jp/mwimgs/b/e/1200w/img_be16f0dcb4bf61118c6345fa4f56925e1037414.jpg?nextgen=false",
-    "fetched_at": "2026-04-21 07:27:36",
-    "ja_summary": "・アマゾンがAI開発企業アンソロピックへ最大200億ドルの巨額投資を決定。\n・両社はAIツール開発とクラウド技術で提携を大幅に強化する。\n・巨大資本によるAI競争の加速が、業界全体の技術革新を促す見通し。"
-  },
-  {
-    "title": "LINEヤフー、新AIエージェントを発表　Gemini、ChatGPTに「負けない強み」とは？",
-    "link": "https://www.itmedia.co.jp/business/articles/2604/21/news048.html",
-    "source": "ITmedia ビジネス",
-    "published": "Tue, 21 Apr 2026 07:00:00 +0900",
-    "summary": "LINEヤフーは4月20日、AIエージェント「Agent i」の提供を始めた。ChatGPTやGeminiに負けない強みとは何なのか。",
-    "image": "https://image.itmedia.co.jp/business/articles/2604/21/cover_news048.jpg",
-    "fetched_at": "2026-04-21 07:27:37",
-    "ja_summary": "・LINEヤフーが独自のAIエージェント「Agent i」の提供を開始。\n・ChatGPTやGeminiに対抗する、同社ならではの強みを武器に展開。\n・LINEやYahoo!のサービスと連携した利便性の高さが今後の焦点。"
   }
 ]
