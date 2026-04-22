@@ -1,5 +1,125 @@
 [
   {
+    "title": "NTT、LLM間の\"語彙の壁\"克服　異種LLMを連携可能に",
+    "link": "https://www.watch.impress.co.jp/docs/news/2103773.html",
+    "source": "Impress Watch",
+    "published": "",
+    "summary": "NTTは、大規模言語モデル(LLM)における入出力単位「トークン」の語彙を精度劣化なく縮小させ、異なるLLM間でもトークン語彙を共通化できる世界初の推論技術を確立した。",
+    "image": "https://www.watch.impress.co.jp/img/ipw/list/2103/773/ntt00.jpg",
+    "fetched_at": "2026-04-22 17:55:53",
+    "ja_summary": "・NTTが異なるLLM間で入出力単位を共通化できる世界初の技術を開発\n・モデル間の「語彙の壁」を精度劣化なしで解消し、連携を容易に実現\n・AIモデル同士の相互運用性が高まり、柔軟なシステム構築が可能に"
+  },
+  {
+    "title": "Gemini 3.1 Flash TTS プロンプトガイド",
+    "link": "https://note.com/npaka/n/n4cc609d2f054",
+    "source": "note (npaka)",
+    "published": "Thu, 16 Apr 2026 08:01:41 +0900",
+    "summary": "<p id=\"e6ff6bb2-6ceb-4388-bff2-c75934dee086\" name=\"e6ff6bb2-6ceb-4388-bff2-c75934dee086\">「Gemini 3.1 Flash TTS」のプロンプトガイドをまとめました。</p><figure id=\"e87799be-c368-4bd8-b342-f1b7bd05e967\" name=\"e87799be-c368-4bd8-b342-f1b7bd05e967\"><blockquote><p id=\"c61f919f-f477-4ba1-8e35-8baa9c2560d4\" name=\"c61f919f-f477-4ba1-8e35-8baa9c2560d4\"><strong>・</strong><a href=\"https://ai.google.dev/gemini-api/docs/speech-generation\" rel=\"nofollow noopener\" target=\"_blank\"><strong>Text-to-speech generation (TTS)</strong></a></p></blockquote>\n<figcaption></figcaption></figure><br /><a href=\"https://note.com/npaka/n/n4cc609d2f054\">続きをみる</a>",
+    "image": "https://assets.st-note.com/production/uploads/images/267753712/rectangle_large_type_2_a2b440e23b83d89be5d15af7b3ed3059.png?width=800",
+    "fetched_at": "2026-04-22 17:56:01",
+    "ja_summary": "Googleの「Gemini 3.1 Flash」で音声合成（TTS）を行うためのプロンプト活用ガイドが公開されました。\nAPIを通じてテキストから自然な音声を生成する際の実践的な手法や設定方法を解説しています。\n詳細は公式ドキュメントおよび解説記事より確認可能です。"
+  },
+  {
+    "title": "Introducing Claude Design by Anthropic Labs",
+    "link": "https://www.anthropic.com/news/claude-design-anthropic-labs",
+    "source": "Anthropic (News)",
+    "published": "Fri, 17 Apr 2026 00:00:00 +0000",
+    "summary": "Introducing Claude Design by Anthropic Labs",
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Quill&amp;backgroundColor=cactus",
+    "fetched_at": "2026-04-22 17:56:07",
+    "ja_summary": "AI開発企業Anthropicが、デザインプロセスを支援する新ツール「Claude Design」を発表。\nAIがデザインのアイデア出しやフィードバック生成をサポートし、創造性を加速させる。\nクリエイティブ業務の効率化と質の向上を目指す。"
+  },
+  {
+    "title": "Building a Standalone Programming Environment",
+    "link": "https://speakerdeck.com/harukasan/building-a-standalone-programming-environment",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-04-22T04:41:31-04:00",
+    "summary": "RubyKaigi 2026 Day1\nApril 22 2026\nHakodate Citizen Hall, Hakodate, Hokkaido",
+    "image": "https://files.speakerdeck.com/presentations/0c57de576eb047d59daf9afcc9e94b2c/preview_slide_0.jpg?39178926",
+    "fetched_at": "2026-04-22 17:56:29",
+    "ja_summary": "・RubyKaigi 2026の初日（4月22日、函館）における登壇内容。\n・プログラミング環境を外部依存せずに構築する技術・手法を解説。\n・環境構築の自律化を目指すエンジニア向けの技術セッション。"
+  },
+  {
+    "title": "Do Ruby::Box dream of Modular Monolith?",
+    "link": "https://speakerdeck.com/joker1007/do-ruby-box-dream-of-modular-monolith",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-04-22T04:40:41-04:00",
+    "summary": "Rubykaigi 2026 LT",
+    "image": "https://files.speakerdeck.com/presentations/76999638487e4ad6b7c5007058a6693b/preview_slide_0.jpg?39178892",
+    "fetched_at": "2026-04-22 17:56:29",
+    "ja_summary": "RubyKaigi 2026のLTにて、Rubyにおける「モジュラーモノリス」の実現可能性を「Ruby::Box」というテーマを通じて考察。大規模開発を支えるコードベースの分割と再構築の在り方を提言する内容。"
+  },
+  {
+    "title": "データを\"持てない\"環境でのアノテーション基盤設計",
+    "link": "https://speakerdeck.com/sansantech/20260422-1",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-04-22T03:56:03-04:00",
+    "summary": "■ イベント\n【Sansan × Cierpa】高品質なAIを支えるアノテーション実践知の共有\nhttps://sansan.connpass.com/event/387085/\n\n■ 発表者\n技術本部 研究開発部\n内田 奏\n\n■ 技術本部 採用情報\nhttps://media.sansan-engineering.com",
+    "image": "https://files.speakerdeck.com/presentations/b99db2d5b3cb429cb2a82a9191aa65b2/preview_slide_0.jpg?39178288",
+    "fetched_at": "2026-04-22 17:56:29",
+    "ja_summary": "・SansanとCierpaが、高品質なAI開発に不可欠なアノテーションの実践知を共有するイベントを開催。\n・特にデータ持ち出しが制限される環境下での、効率的なアノテーション基盤の設計手法に焦点を当てる。\n・技術的なノウハウに加え、Sansanのエンジニア採用情報についても紹介。"
+  },
+  {
+    "title": "揺るがないAIを開発するためのアノテーション設計",
+    "link": "https://speakerdeck.com/sansantech/20260422-2",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-04-22T03:53:58-04:00",
+    "summary": "■ イベント\n【Sansan × Cierpa】高品質なAIを支えるアノテーション実践知の共有\nhttps://sansan.connpass.com/event/387085/\n\n■ 発表者\n技術本部 研究開発部\n竹長 慎太朗\n\n■ 技術本部 採用情報\nhttps://media.sansan-engineering.com",
+    "image": "https://files.speakerdeck.com/presentations/5d160bc38e654a3caae9326d7e5f05b9/preview_slide_0.jpg?39178231",
+    "fetched_at": "2026-04-22 17:56:29",
+    "ja_summary": "・SansanとCierpaが共催で、高品質なAI開発に不可欠な「アノテーション」の実践知を共有するイベントを開催。\n・研究開発部の竹長慎太朗氏が、揺るぎないAIを構築するための設計ノウハウを解説。\n・AIモデルの精度向上を目指すエンジニアや開発担当者向けの内容。"
+  },
+  {
+    "title": "「責任あるAIエージェント」こそ自社で開発しよう！",
+    "link": "https://speakerdeck.com/minorun365/ze-ren-aruaieziento-kosozi-she-dekai-fa-siyou",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-04-22T03:35:30-04:00",
+    "summary": "TechLead Conference 2026 powered by connpass\nhttps://sansan.connpass.com/event/387148/",
+    "image": "https://files.speakerdeck.com/presentations/21034797720746af89d245bcc9d265ea/preview_slide_0.jpg?39177906",
+    "fetched_at": "2026-04-22 17:56:29",
+    "ja_summary": "・「責任あるAIエージェント」の自社開発をテーマにしたTechLead Conference 2026が開催。\n・AI活用の最適化や倫理的な実装に向けた、技術リーダー向けの知見や戦略を共有。\n・Sansan主催のconnpassイベントにて、開発の勘所や実践的なアプローチを学べる。"
+  },
+  {
+    "title": "【初心者必見】今から追いつくClaude Code 入門・徹底解説",
+    "link": "https://qiita.com/i-inose/items/e644e9b620ee1c8d3c1b",
+    "source": "Qiita (Popular)",
+    "published": "2026-04-21T15:32:56+09:00",
+    "summary": "\n## はじめに\n\nこの記事は、Claude Code を使い始めたいエンジニアのための入門ガイドです。\n\n「名前は聞いたことがあるけれど、なんとなく乗り遅れた気がして触れていない」という方に向けて書きました。Claude Code は 2025 年 3 月にベータ公開が始まり、今も活発に機能が追加され続けているツールです。今から始めても、十分に最前線を体験できます。\n\nこの記事の対象読者です。\n",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYyNzM3MDU1JTJGMmRhZmNlMzcyYjViYjhiYjVhMWM5ZWMwMmFkNzQyYzIwZjkzMjJiOCUyRnhfbGFyZ2UucG5nJTNGMTc1MTYxMzgyNj9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9ZDA0ZDI4ZjkyYTAzYTZhNjY0NjJhOGRmMDI4MDk1ZWQ%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYxZTIwZGI1ZTdlNDA3ZWFlN2I5NzBlYzk5OTg4MGRjOGMzY2MwZjY0JTJGb3JpZ2luYWwuanBnJTNGMTY2NzI3NDk2Mz9peGxpYj1yYi00LjAuMCZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz0xMzQ4OTg3MjlkMzMwYTdiNWRhMzRkOGU2MzVmZjIxOA%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D66b59b0ea406aee68a1154031be0c0be?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJTkwJUU1JTg4JTlEJUU1JUJGJTgzJUU4JTgwJTg1JUU1JUJGJTg1JUU4JUE2JThCJUUzJTgwJTkxJUU0JUJCJThBJUUzJTgxJThCJUUzJTgyJTg5JUU4JUJGJUJEJUUzJTgxJTg0JUUzJTgxJUE0JUUzJTgxJThGQ2xhdWRlJTIwQ29kZSUyMCVFNSU4NSVBNSVFOSU5NiU4MCVFMyU4MyVCQiVFNSVCRSVCOSVFNSVCQSU5NSVFOCVBNyVBMyVFOCVBQSVBQyZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTIwMzZhNThhZDA1MGZjMDFiN2Y1ZDM0ZDIyMDk5ZWVk&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBpLWlub3NlJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9MmIxMzY4YTE4OWM3Yjg5NDQwYjM0ZWNmNTdjY2I5YTE&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=S0RESeOCouOCuOODo-OCpOODq-mWi-eZuuOCu-ODs-OCv-ODvOagquW8j-S8muekvg&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=5f683166ef9727f0115e3f668cbeca09",
+    "fetched_at": "2026-04-22 17:56:30",
+    "ja_summary": "・2025年3月公開の「Claude Code」を今から始める初心者向け導入ガイド。\n・開発の最前線に追いつくための基本設定や活用法を解説。\n・機能拡充が続く現状を踏まえ、これから学習を開始しても十分間に合う。"
+  },
+  {
+    "title": "Claude Codeで実際に起きたセキュリティ事故7選と防止策",
+    "link": "https://qiita.com/masa_ClaudeCodeLab/items/8c22966fbd3c125c53dc",
+    "source": "Qiita (Popular)",
+    "published": "2026-04-17T14:38:44+09:00",
+    "summary": "# Claude Codeで実際に起きたセキュリティ事故7選と防止策\n\n「Claude Code は便利だけど、なんとなく怖い」——この感覚は正しいです。強力なツールは強力な事故を起こします。実際に開発現場で起きがちなケースを7つ取り上げ、原因と防止策を解説します。\n\n## 事例1: `.env` ファイルをGitHubにプッシュ\n\n「CI に環境変数を渡したいので `.env` もコミットして」",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0NDA0NjQwJTJGYmFkMDZmMmM0Zjc5MTRiOGNhYzBiNmU4ODBmODc5MGZkNjQ1MjJlOCUyRmxhcmdlLnBuZyUzRjE3NzU5MTE0Nzc_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPTEwZDk0MjMxZWY0NzJhMGNlMDcyMGFlMjc4MzZlZDg0%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Dec82b9c9a74af788004809b4df56ea3f?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9Q2xhdWRlJTIwQ29kZSVFMyU4MSVBNyVFNSVBRSU5RiVFOSU5QSU5QiVFMyU4MSVBQiVFOCVCNSVCNyVFMyU4MSU4RCVFMyU4MSU5RiVFMyU4MiVCQiVFMyU4MiVBRCVFMyU4MyVBNSVFMyU4MyVBQSVFMyU4MyU4NiVFMyU4MiVBMyVFNCVCQSU4QiVFNiU5NSU4NTclRTklODElQjglRTMlODElQTglRTklOTglQjIlRTYlQUQlQTIlRTclQUQlOTYmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz0yODkwODBlNWNmZGJkMGIzMjNlNDI0NzBiNTA0NzkzYQ&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBtYXNhX0NsYXVkZUNvZGVMYWImdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz0wYjEyYmE5ZjIzZDgyNTViNWU4YTcxNWQ4MDBkM2I2MQ&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=20a023877c507f08ff94f38eb4c26745",
+    "fetched_at": "2026-04-22 17:56:31",
+    "ja_summary": "・Claude Codeは強力だが、不注意な操作で重大なセキュリティ事故を引き起こすリスクがある。\n・環境変数の誤流出など、開発現場で発生しがちな7つの事故事例を解説。\n・ツールを利用する際は、原因を理解した上で適切な防止策を講じることが不可欠。"
+  },
+  {
+    "title": "AIコーディング時代に必要なプログラミングスキル",
+    "link": "https://qiita.com/hokutoh/items/cd68b09eccb18c1f7f3d",
+    "source": "Qiita (Popular)",
+    "published": "2026-04-15T16:20:45+09:00",
+    "summary": "# 「もうプログラミングスキルは不要」勢へ\n\n恐らくそれは「プログラミングスキル」ではないです。\nいや単に「プログラミングスキル」という言葉の定義の問題かもしれない。\n\n実際多くの人はPythonの文法、JavaScriptのフレームワーク、SQLのクエリ構文——つまり**特定言語に関する文法知識**をイメージするんじゃないかと思います。\nそれ故、コーディングエージェント全盛時代に、文法知識の重要",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY2NjYzODglMkZhYzg1ZTRiMmYwYTViM2RkYTg3NjBjNzg2M2JkMGE4OGNlYmFiNThmJTJGeF9sYXJnZS5wbmclM0YxNjg2OTA2ODMwP2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz0xNGY2NjdmMWYzNzFlNmFjN2NkMTM3ZTZmY2FiM2FhMw%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D56704323b533337975b53f9c326a00ac?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9QUklRTMlODIlQjMlRTMlODMlQkMlRTMlODMlODclRTMlODIlQTMlRTMlODMlQjMlRTMlODIlQjAlRTYlOTklODIlRTQlQkIlQTMlRTMlODElQUIlRTUlQkYlODUlRTglQTYlODElRTMlODElQUElRTMlODMlOTclRTMlODMlQUQlRTMlODIlQjAlRTMlODMlQTklRTMlODMlOUYlRTMlODMlQjMlRTMlODIlQjAlRTMlODIlQjklRTMlODIlQUQlRTMlODMlQUImdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz0zYWQwNDYwNTQ1NjQ5OWY5NmYxZjY3NDY3MTRiZGU3OA&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBob2t1dG9oJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9MjFmZjYyNjEwMGMzMWVlMDAyMjI3ZDIyNmQyOTQ2Zjk&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=b38b60c4042c0e1f289e488b7cb8d600",
+    "fetched_at": "2026-04-22 17:56:31",
+    "ja_summary": "・AI時代において「文法知識」の価値は低下しているが、それは本質的なプログラミングスキルではない。\n・真に重要なのは、言語の書き方ではなく、課題解決のための論理的思考や設計能力である。\n・特定言語の習得に執着せず、AIを活用してシステムを構築・制御するスキルへの転換が求められている。"
+  },
+  {
+    "title": "AIで実装は速くなった。でもチーム開発が逆に難しくなった理由",
+    "link": "https://qiita.com/engchina/items/5a3fad5ec1c80a8be715",
+    "source": "Qiita (Popular)",
+    "published": "2026-04-13T03:33:56+09:00",
+    "summary": "## 先に結論\n\nAIを導入すると、実装スピードは確実に上がります。\nただ、チーム開発で本当に問題になるのは、コードを書く速さではなく**コードを理解し、判断を共有する速さ**です。\n\n今回読んだ2本の記事から得た学びを一言でまとめると、次の3つでした。\n\n* 仕様書は「ずっと保守する正本」ではなく、「認識を揃えるための起点」として使う\n* AI時代のレビューは、「細かい指摘」より「なぜその実装な",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYzOTMyNzgxJTJGOTA5ODgyYWQ5YTcwNWVmZjI2ZmM5NDBmMzg0MzQwMWU3OWQyNjY4YyUyRnhfbGFyZ2UucG5nJTNGMTc2OTAzODc0OD9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NjczZTk1ZDQ4MzQ5ZTQxOTY1ZTM2ZjBlNTRlYmM0Nzk%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYzMDk1NWZhN2YwMzlhODVjNDQ5ZmY0ODBhMmE3ZGJjNWQ5ZmY1YWIwJTJGb3JpZ2luYWwuanBnJTNGMTQ1MjE0NTY4Mz9peGxpYj1yYi00LjAuMCZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz0yYjVlN2VmYzdkMGI4OGNjOGRlOTIyYzFmZTQ3YzJhNQ%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3Dbaa201298ba6e7eb53ad57b1c6079b32?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9QUklRTMlODElQTclRTUlQUUlOUYlRTglQTMlODUlRTMlODElQUYlRTklODAlOUYlRTMlODElOEYlRTMlODElQUElRTMlODElQTMlRTMlODElOUYlRTMlODAlODIlRTMlODElQTclRTMlODIlODIlRTMlODMlODElRTMlODMlQkMlRTMlODMlQTAlRTklOTYlOEIlRTclOTklQkElRTMlODElOEMlRTklODAlODYlRTMlODElQUIlRTklOUIlQTMlRTMlODElOTclRTMlODElOEYlRTMlODElQUElRTMlODElQTMlRTMlODElOUYlRTclOTAlODYlRTclOTQlQjEmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz05ZmY1NmVhNzUxMjEyMDJlMzdjMzAyZTMwMWU0MDkyYg&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBlbmdjaGluYSZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWM1MTU1ODVkZTE0NzU1ZjlkMjcwYjJlZGU2ZTljYTNl&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=5pel5pys44Kq44Op44Kv44Or5qCq5byP5Lya56S-&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=01737271e6e9abb23b8c5dd36ee0b202",
+    "fetched_at": "2026-04-22 17:56:33",
+    "ja_summary": "・AI導入で実装は速くなるが、チーム開発では「コードの理解と意思疎通」に新たな課題が生じる。\n・仕様書は「保守する正本」ではなく「認識を揃える起点」と捉え直すべきである。\n・レビューでは細かい指摘よりも「なぜその実装にしたのか」という意図の共有が重要になる。"
+  },
+  {
     "title": "あなたのGoogleから「AI」を徹底排除する方法　GeminiもAI Overviewも無効化",
     "link": "https://japan.cnet.com/article/35246749/",
     "source": "CNET Japan",
@@ -878,125 +998,5 @@
     "image": "https://res.cloudinary.com/zenn/image/upload/s--VsvtJSGe--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%25E3%2583%25A6%25E3%2583%25BC%25E3%2582%25B6%25E3%2583%25BC%25E3%2581%25AE%25E3%2581%259F%25E3%2582%2581%25E3%2581%25AE%25E3%2583%2597%25E3%2583%25AD%25E3%2583%25B3%25E3%2583%2597%25E3%2583%2588%25E3%2582%25AD%25E3%2583%25A3%25E3%2583%2583%25E3%2582%25B7%25E3%2583%25A5%25E5%2585%25A5%25E9%2596%2580%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:oga_aiichiro%25EF%25BC%2588%25E5%25A4%25A7%25E8%25B3%2580%25E6%2584%259B%25E4%25B8%2580%25E9%2583%258E%25EF%25BC%2589%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzNhMDEwODY1NzkuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
     "fetched_at": "2026-04-21 20:37:23",
     "ja_summary": "Claude Codeで「プロンプトキャッシュ」を活用すると、AIの応答速度が向上し、API利用コストも大幅に削減できる。\n仕組みを理解し適切に設定することで、開発プロセス全体の効率を最適化できる。\nAPI開発者向けではなく、Claude Codeの日常的な利用者にとって不可欠な基礎知識を解説する記事。"
-  },
-  {
-    "title": "AIスクラムチームは嘘をつく",
-    "link": "https://zenn.dev/microsoft/articles/2a952ed44e3873",
-    "source": "Zenn Trends",
-    "published": "Mon, 20 Apr 2026 23:15:54 GMT",
-    "summary": "はじめに\nAIエージェントにはハルシネーションという恐ろしい特性があることは皆様ご存じかと思います。それっぽい適当なことを言ったりするあれです。私が運営しているAIだけで自律的にスクラムを回しているAIチームもその例外ではありません。（AIスクラムチームの詳細は以下のシリーズ記事をご覧ください。）\nhttps://zenn.dev/microsoft/articles/6576552d9c4f45\nただし、スクラムのプロセスの中で、複数エージェントによるレビューや振り返りなどの仕組みを元より実施していたので、これまではハルシネーションが問題になることもなく、紆余曲折はありつつも順調に...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--D_HspBoe--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%25E3%2582%25B9%25E3%2582%25AF%25E3%2583%25A9%25E3%2583%25A0%25E3%2583%2581%25E3%2583%25BC%25E3%2583%25A0%25E3%2581%25AF%25E5%2598%2598%25E3%2582%2592%25E3%2581%25A4%25E3%2581%258F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:shuji%2520yamaguchi%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2MzZDNiN2I3OGYuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Microsoft%2520%2528%25E6%259C%2589%25E5%25BF%2597%2529%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly96ZW5uLWRldi5naXRodWIuaW8vZGVmYXVsdC1hdmF0YXJzL2Rhcmsvcy5wbmc=%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-    "fetched_at": "2026-04-21 20:37:23",
-    "ja_summary": "AIチームでも「ハルシネーション」という嘘をつく現象が発生。\nしかし、チーム内のレビューや振り返り機能が、この問題をこれまで防いできた。\nAIスクラムチームでも、人間と同様に虚偽情報への対策が重要。"
-  },
-  {
-    "title": "ホワイトカラーの80%がAI導入に反抗している ── 技術者が知っておくべき「AI抵抗」の構造と乗り越え方",
-    "link": "https://qiita.com/nogataka/items/4464273923cb00271303",
-    "source": "Qiita (Popular)",
-    "published": "2026-04-17T11:12:26+09:00",
-    "summary": "\n## はじめに\n\n2026年4月、Fortune誌が報じた一つの調査結果がReddit r/technologyで19,581のアップボートと1,800超のコメントを集め、技術系コミュニティで大きな議論を巻き起こしました。\n\n「ホワイトカラーの80%が、企業のAI導入指示を拒否している」\n\nWalkMeが3,750人の経営層・従業員を対象に14カ国で実施した「State of Digital A",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYxNjEyOTglMkZjMWUzZmZkNmVhZGExOTY5ZmYzYzQ0YjE0ZmRlMDgxYmNkZTZmNTAwJTJGeF9sYXJnZS5wbmclM0YxNTg0ODQ1NTg0P2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz00ZGRjZmU5NTFjNTMyMzU3NjcyOGUzOTkyOTNmOGRlNQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D246367bff431168e6212d2602a3df494?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgzJTlCJUUzJTgzJUFGJUUzJTgyJUE0JUUzJTgzJTg4JUUzJTgyJUFCJUUzJTgzJUE5JUUzJTgzJUJDJUUzJTgxJUFFODAlMjUlRTMlODElOENBSSVFNSVCMCU4RSVFNSU4NSVBNSVFMyU4MSVBQiVFNSU4RiU4RCVFNiU4QSU5NyVFMyU4MSU5NyVFMyU4MSVBNiVFMyU4MSU4NCVFMyU4MiU4QiUyMCVFMiU5NCU4MCVFMiU5NCU4MCUyMCVFNiU4QSU4MCVFOCVBMSU5MyVFOCU4MCU4NSVFMyU4MSU4QyVFNyU5RiVBNSVFMyU4MSVBMyVFMyU4MSVBNiVFMyU4MSU4QSVFMyU4MSU4RiVFMyU4MSVCOSVFMyU4MSU4RCVFMyU4MCU4Q0FJJUU2JThBJUI1JUU2JThBJTk3JUUzJTgwJThEJUUzJTgxJUFFJUU2JUE3JThCJUU5JTgwJUEwJUUzJTgxJUE4JUU0JUI5JTk3JUUzJTgyJThBJUU4JUI2JThBJUUzJTgxJTg4JUU2JTk2JUI5JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9OTViYmQ1ZjFhNmE4MmNiYmRlNTMyMWE3YjM5NTk4YTE&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBub2dhdGFrYSZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWE5ODA4YTE0Zjg4Y2I0ZjQ5OWU2ZDA3NGYyY2E2YTNh&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=89c7ef5350b80f48e8990a9b8e595524",
-    "fetched_at": "2026-04-21 20:37:28",
-    "ja_summary": "ホワイトカラーの8割がAI導入に抵抗を示しており、その背景にはAIによる仕事の代替やスキルの陳腐化への懸念がある。\n企業は、社員の不安解消、AI活用スキルの教育、AIがもたらすメリットの具体例提示が重要。\n抵抗を乗り越えAI導入を成功させるには、現場の状況に合わせた丁寧なコミュニケーションと支援が不可欠。"
-  },
-  {
-    "title": "エンジニアとして設計書をAIで10倍速く書く方法まとめ【プロンプト付き】",
-    "link": "https://qiita.com/kamome_susume/items/ce71acf0aa0b80631c35",
-    "source": "Qiita (Popular)",
-    "published": "2026-04-12T15:23:30+09:00",
-    "summary": "設計書を書くのに毎回何時間もかかって、本来の開発に集中できていない…そんな経験はありませんか？\n\n仕様書、API設計書、DB設計書、クラス設計書——エンジニアの仕事には「書かなければいけないドキュメント」が山ほどあります。でも、コードを書く時間と同じくらい、あるいはそれ以上の時間をドキュメント作成に費やしてしまっている現実があります。\n\nこの記事では、**ChatGPTやClaudeなどのAIを活",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYxNjkzMjQ4JTJGZDhlMmU1OWNiMDVmY2Y3MDQ3ZDgyN2ZjNDlkNDAwMTkzZTU5NDdjOSUyRnhfbGFyZ2UucG5nJTNGMTY4NjMxODg1ND9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9ZDRiNjcyYjg4ZWUxYTRkNjI1ZDRjOGFkMzVkMzQ5NjI%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Ddc9a014e564257547b64353543c58776?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgyJUE4JUUzJTgzJUIzJUUzJTgyJUI4JUUzJTgzJThCJUUzJTgyJUEyJUUzJTgxJUE4JUUzJTgxJTk3JUUzJTgxJUE2JUU4JUE4JUFEJUU4JUE4JTg4JUU2JTlCJUI4JUUzJTgyJTkyQUklRTMlODElQTcxMCVFNSU4MCU4RCVFOSU4MCU5RiVFMyU4MSU4RiVFNiU5QiVCOCVFMyU4MSU4RiVFNiU5NiVCOSVFNiVCMyU5NSVFMyU4MSVCRSVFMyU4MSVBOCVFMyU4MiU4MSVFMyU4MCU5MCVFMyU4MyU5NyVFMyU4MyVBRCVFMyU4MyVCMyVFMyU4MyU5NyVFMyU4MyU4OCVFNCVCQiU5OCVFMyU4MSU4RCVFMyU4MCU5MSZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTA0Y2Q5YTliODlhZjllODUwZGFjODA2YTJkOWQwN2Qy&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBrYW1vbWVfc3VzdW1lJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9ZGRiZTIzN2VhYmFmZjQ1YThiNWYzYWQyMWVhNzMzOTI&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=e2a4280eb4fe92d62952849bb25b0f08",
-    "fetched_at": "2026-04-21 20:37:29",
-    "ja_summary": "・設計書の作成時間をAI活用で10倍速くし、開発本来の業務に集中する方法を解説。\n・仕様書からDB設計書まで、膨大なドキュメント作成を効率化する具体的なプロンプトを紹介。\n・ChatGPTやClaudeを活用することで、エンジニアのドキュメント作成負荷を大幅に軽減する。"
-  },
-  {
-    "title": "半透明フレームのAIグラス「VIVE Eagle」　撮影・音楽再生対応",
-    "link": "https://www.watch.impress.co.jp/docs/news/2103416.html",
-    "source": "Impress Watch",
-    "published": "",
-    "summary": "HTC NIPPONは21日、AIグラス「VIVE Eagle」を発表した。24日に発売し、価格はサングラスレンズおよびクリアレンズモデルが82,500円、調光レンズモデルが98,000円。",
-    "image": "https://www.watch.impress.co.jp/img/ipw/list/2103/416/01.jpg",
-    "fetched_at": "2026-04-21 19:22:01",
-    "ja_summary": "・HTCがAI搭載グラス「VIVE Eagle」を24日に発売。\n・撮影や音楽再生に対応し、価格は82,500円から。\n・サングラス、クリア、調光の3タイプが展開される。"
-  },
-  {
-    "title": "Codexアプリの新機能まとめ - Computer use ・ アプリ内ブラウザ ・ 画像生成 など",
-    "link": "https://note.com/npaka/n/nf334367baf0a",
-    "source": "note (npaka)",
-    "published": "Fri, 17 Apr 2026 07:11:44 +0900",
-    "summary": "<p id=\"09574d7b-414b-4d0e-8041-8f3c2bae362b\" name=\"09574d7b-414b-4d0e-8041-8f3c2bae362b\">Codexアプリの2026年4月16日の新機能についてまとめました。</p><figure id=\"c315c77e-8db3-433b-8b54-67b5485aadc9\" name=\"c315c77e-8db3-433b-8b54-67b5485aadc9\"><blockquote><p id=\"59af86e3-2b45-4df5-b8c8-33f91eda96b3\" name=\"59af86e3-2b45-4df5-b8c8-33f91eda96b3\"><strong>・</strong><a href=\"https://openai.com/index/codex-for-almost-everything/\" rel=\"nofollow noopener\" target=\"_blank\"><strong>Codex for (almost) everything</strong></a></p></blockquote>\n<figcaption></figcaption></figure><br /><a href=\"https://note.com/npaka/n/nf334367baf0a\">続きをみる</a>",
-    "image": "https://assets.st-note.com/production/uploads/images/267993635/rectangle_large_type_2_8019e2163a759464ea1c8e82e1012905.png?width=800",
-    "fetched_at": "2026-04-21 19:22:12",
-    "ja_summary": "・CodexアプリにPC操作を代行する「Computer use」機能が追加。\n・アプリ内ブラウザの統合や、新たな画像生成機能などが実装された。\n・AIがより広範なタスクを直接実行可能になり、利便性が大幅に向上。"
-  },
-  {
-    "title": "ガバメントAI「源内」に関する取組をまとめたページを公開しました",
-    "link": "https://www.digital.go.jp/policies/genai",
-    "source": "デジタル庁",
-    "published": "Wed, 15 Apr 2026 15:17:43 +0900",
-    "summary": "",
-    "image": "https://www.digital.go.jp/assets/contents/node/basic_page/field_thumbnail_image/cef0122b-0598-47f8-8a48-dc2c57d407c1/d8639adc/kv_gennai_260216.png",
-    "fetched_at": "2026-04-21 19:22:20",
-    "ja_summary": "・政府専用の生成AI基盤「源内（Gen-nai）」の活用状況や取り組みをまとめた特設ページを公開。\n・省庁での業務効率化に向けたAI活用事例や、導入に関する考え方を発信。\n・行政手続きの高度化や生産性向上を目指す政府のAI推進方針を明確化。"
-  },
-  {
-    "title": "Anthropic expands partnership with Google and Broadcom for multiple gigawatts of next-generation compute",
-    "link": "https://www.anthropic.com/news/google-broadcom-partnership-compute",
-    "source": "Anthropic (News)",
-    "published": "Mon, 06 Apr 2026 00:00:00 +0000",
-    "summary": "Anthropic expands partnership with Google and Broadcom for multiple gigawatts of next-generation compute",
-    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20Growth&amp;backgroundColor=fig",
-    "fetched_at": "2026-04-21 19:22:23",
-    "ja_summary": "・AnthropicがGoogleおよびBroadcomとの提携を拡大。\n・次世代AI開発に向けて数ギガワット規模の計算リソースを確保。\n・大規模なコンピューティング基盤の強化により開発競争を加速させる狙い。"
-  },
-  {
-    "title": "クラスターmempool",
-    "link": "https://speakerdeck.com/azuchi/kurasutamempool",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-04-21T05:16:01-04:00",
-    "summary": "GBECの解説動画の資料です。\nhttps://goblockchain.network/2026/04/cluster-mempool/",
-    "image": "https://files.speakerdeck.com/presentations/f846f3d956694ca394b7ffcb85689b44/preview_slide_0.jpg?39162461",
-    "fetched_at": "2026-04-21 19:22:26",
-    "ja_summary": "・ビットコインの取引処理効率を高める「クラスターmempool」の仕組みを解説。\n・従来のmempool管理の課題を解消し、手数料最適化と検証スピードを向上させる技術。\n・GBECによる専門的な技術背景と実装メリットをまとめた学習資料。"
-  },
-  {
-    "title": "ホルムズ海峡封鎖の悪夢に逆戻りするのか。市場の現状を端的に物語る「4つのチャート」",
-    "link": "https://www.businessinsider.jp/article/cutting-edge-20260421-iran-america-strait-of-hormuz-block/",
-    "source": "Business Insider Japan",
-    "published": "Tue, 21 Apr 2026 07:00:00 GMT",
-    "summary": "数日前まではS&amp;P500種株価指数、ナスダック総合株価指数ともに最高値を更新し、シューズメーカーがAIクラウドプロバイダーへの事業転換を発表して株価が900％弱の爆騰を記録したニュースを取り上げる余裕があったのですが、残念です。\nそう、またこの話をしなくてはなりません。ホルムズ海峡が再び封鎖されています。",
-    "image": "https://media.loom-app.com/loom/2026/04/21/b54aa681-3850-43b6-8a61-10a84a449b26/original.jpg?w=1200&amp;h=630",
-    "fetched_at": "2026-04-21 18:00:34",
-    "ja_summary": "・S&P500などが最高値を更新する活況から一転、ホルムズ海峡の封鎖懸念が再燃。\n・中東情勢の緊迫化により、市場は再び地政学リスクに振り回される状況にある。\n・市場動向を示す「4つのチャート」が、エネルギー供給不安と市場の不安定さを端的に示唆。"
-  },
-  {
-    "title": "第一生命 AIなど4000億円投資へ",
-    "link": "https://news.yahoo.co.jp/pickup/6576672?source=rss",
-    "source": "Yahoo!ニュース IT・科学",
-    "published": "Fri, 17 Apr 2026 22:48:17 GMT",
-    "summary": "",
-    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/18/74ba20df5e3ea784cb89d969070f659151c3d52f8f313d8526e0b444b479c66a.jpg",
-    "fetched_at": "2026-04-21 18:00:39",
-    "ja_summary": "・第一生命がAIやDX、資産運用などの成長分野へ今後3年間で4000億円を投資する。\n・中核となる生命保険事業の収益力向上と、新たな収益源の確保を目指す。\n・投資資金は国内外のM&Aやデジタル技術の活用に重点的に充てる。"
-  },
-  {
-    "title": "ワークデイの新年度事業戦略にみる日本企業の人事部門のあり方",
-    "link": "https://japan.zdnet.com/article/35246652/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "ワークデイは2027会計年度の事業戦略を説明した。企業内での人的資源のあり方を更新していく「HRモダナイゼーション」推進を継続しながら、人間とAIエージェントが協働する「AIレディ」を支援していくという。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35246652/\"><img src=\"https://japan.zdnet.com/storage/2026/04/20/6d43d57e53f05eec9a456dfc96b8ccdc/t/184/138/d/20260421_adobestock_488058225_1280x960.jpg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2026/04/20/6d43d57e53f05eec9a456dfc96b8ccdc/t/184/138/d/20260421_adobestock_488058225_1280x960.jpg",
-    "fetched_at": "2026-04-21 18:00:40",
-    "ja_summary": "・ワークデイは2027年度に向け、人事システム刷新（HRモダナイゼーション）を継続。\n・人間とAIエージェントが協働する「AIレディ」な組織作りを支援。\n・テクノロジー活用による、これからの日本企業の人事部門のあり方を提示。"
-  },
-  {
-    "title": "AI「GrandCode」が全人類を抑えて競技プログラミングで単独1位を達成、AI自身が“次のPC”になる新概念「Neural Computers」など生成AI技術5つを解説（生成AIウィークリー）",
-    "link": "https://www.techno-edge.net/article/2026/04/18/5002.html",
-    "source": "TechnoEdge",
-    "published": "Sat, 18 Apr 2026 08:19:42 +0900",
-    "summary": "この1週間の気になる生成AI技術・研究をいくつかピックアップして解説する今回の「生成AIウィークリー」（第140回）は、AIがPCを“操作する側”から“PC自体”になる新概念「Neural Computers」や、競技プログラミングで単独1位を達成したAI「GrandCode」を取り上げます。",
-    "image": "https://www.techno-edge.net/imgs/rss/30946.jpg",
-    "fetched_at": "2026-04-21 18:00:41",
-    "ja_summary": "・AI「GrandCode」が競技プログラミングで人類を抜き単独1位を達成。\n・AIがPCを操作するのではなく、AI自身がPCとなる新概念「Neural Computers」が登場。\n・生成AIの最先端技術5選を解説する週刊まとめ記事。"
   }
 ]
