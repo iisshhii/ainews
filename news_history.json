@@ -1,5 +1,135 @@
 [
   {
+    "title": "金融・製造・自治体版「Claude Cowork」展開へ　NECとアンソロピック提携",
+    "link": "https://www.watch.impress.co.jp/docs/news/2104228.html",
+    "source": "Impress Watch",
+    "published": "",
+    "summary": "NECは23日、Anthropicと日本のエンタープライズ領域における戦略的協業を開始すると発表した。NECは日本企業初のAnthropicグローバルパートナーとなる、",
+    "image": "https://www.watch.impress.co.jp/img/ipw/list/2104/228/nec1.jpg",
+    "fetched_at": "2026-04-23 20:55:52",
+    "ja_summary": "・NECがAnthropicと戦略的提携を結び、日本企業初のグローバルパートナーに。\n・金融・製造・自治体向けにAIモデル「Claude」を活用した業務支援を展開。\n・エンタープライズ領域における国内の生成AI活用を加速させる。"
+  },
+  {
+    "title": "ChatGPT Images 2.0に少女漫画SFの16ページ読み切りを描いてもらった（CloseBox）",
+    "link": "https://www.techno-edge.net/article/2026/04/23/5017.html",
+    "source": "TechnoEdge",
+    "published": "Thu, 23 Apr 2026 20:34:29 +0900",
+    "summary": "ChatGPTの新しい画像AIモデル、ChatGPT Images 2.0が使えるようになりました。SF少女漫画が描けるか試してみました。",
+    "image": "https://www.techno-edge.net/imgs/rss/31089.jpg",
+    "fetched_at": "2026-04-23 20:56:15",
+    "ja_summary": "・ChatGPTの最新画像生成AI「Images 2.0」を活用し、16ページのSF少女漫画を制作。\n・AIモデルの描画能力や物語構成への対応力を検証した実験レポート。\n・AIによる漫画制作の可能性と現状の到達点が分かる内容。"
+  },
+  {
+    "title": "Workspace agents",
+    "link": "https://openai.com/academy/workspace-agents",
+    "source": "OpenAI",
+    "published": "Wed, 22 Apr 2026 10:00:00 GMT",
+    "summary": "Learn how to build, use, and scale workspace agents in ChatGPT to automate repeatable workflows, connect tools, and streamline team operations.",
+    "image": "https://openai.com/favicon.ico",
+    "fetched_at": "2026-04-23 20:56:16",
+    "ja_summary": "要約の生成に失敗しました。"
+  },
+  {
+    "title": "Introducing workspace agents in ChatGPT",
+    "link": "https://openai.com/index/introducing-workspace-agents-in-chatgpt",
+    "source": "OpenAI",
+    "published": "Wed, 22 Apr 2026 10:00:00 GMT",
+    "summary": "Workspace agents in ChatGPT are Codex-powered agents that automate complex workflows, run in the cloud, and help teams scale work across tools securely.",
+    "image": "https://openai.com/favicon.ico",
+    "fetched_at": "2026-04-23 20:56:17",
+    "ja_summary": "・ChatGPTに「ワークスペースエージェント」が登場。\n・Codexを活用し、複雑な業務ワークフローをクラウド上で自動化。\n・ツール間を横断したチーム作業の効率化と安全な運用を実現。"
+  },
+  {
+    "title": "Introducing OpenAI Privacy Filter",
+    "link": "https://openai.com/index/introducing-openai-privacy-filter",
+    "source": "OpenAI",
+    "published": "Wed, 22 Apr 2026 00:00:00 GMT",
+    "summary": "OpenAI Privacy Filter is an open-weight model for detecting and redacting personally identifiable information (PII) in text with state-of-the-art accuracy",
+    "image": "https://openai.com/favicon.ico",
+    "fetched_at": "2026-04-23 20:56:17",
+    "ja_summary": "・OpenAIがテキスト内の個人情報（PII）を検知・削除するオープンモデルを公開。\n・高い精度で個人情報を自動的に特定し、プライバシー保護を強化。\n・企業や開発者はシステムに組み込むことで、情報の安全な取り扱いが可能。"
+  },
+  {
+    "title": "Making sense of Google’s agentic dev tools",
+    "link": "https://speakerdeck.com/glaforge/making-sense-of-googles-agentic-dev-tools",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-04-23T07:41:33-04:00",
+    "summary": "Google released a few cool new AI-assisted developer toys recently. Have you tried them? Do you know which one to use and when? That’s the goal of this talk, to make sense of those new agentic dev tools.\n\nWe will look at Antigravity, a new kind of IDE where the main view is actually your AI agent manager dashboard. You plan the work, and autonomous agents execute the tasks. Of course, anytime, you can switch to the more classic code editor with all the smart completions you’d expect.\n\nWe’ll discover Stitch, an AI-powered tool which helps app builders create high-quality user interfaces for mobile and web apps. You can then eventually export them to vibe code a first prototype with Google AI Studio.\n\nNext is Jules, a coding agent that lives in the cloud. You can assign Jules boring tasks (fixing bugs or updating tests) and it will work in the background to send you a Pull Request when it is finished.\n\nFinally, we will try out the Gemini CLI, which brings these smart assistants right into your terminal. But it’s not just about code, it’ll be your Swiss Army knife for all kinds of tasks!\n\nJoin me to see how these tools work in real life. You will leave knowing how to speed up your development and how to become a great boss for your new robot interns!",
+    "image": "https://files.speakerdeck.com/presentations/3a06db45a12b45eba8111cb6f59f0c35/preview_slide_0.jpg?39196977",
+    "fetched_at": "2026-04-23 20:56:33",
+    "ja_summary": "・GoogleのAI開発ツール「Antigravity」「Stitch」「Jules」「Gemini CLI」の活用法を解説。\n・AIエージェントが自律的にタスクをこなし、コード作成やデバッグを自動化する仕組みを紹介。\n・開発の生産性を劇的に高め、AIを「部下」として使いこなすための実践的なガイド。"
+  },
+  {
+    "title": "Ramp: The AI-Native Company",
+    "link": "https://speakerdeck.com/memosbymike/ramp-the-ai-native-company",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-04-23T07:41:15-04:00",
+    "summary": "Ramp built Glass, an internal AI suite with 99% adoption. Skills marketplace (Dojo), persistent memory, scheduled automations, and a split-pane workspace. Their three principles for making every employee an AI power user without the configuration pain.\n\nFull talk: https://mikelitman.me/ramp",
+    "image": "https://files.speakerdeck.com/presentations/253a4f69561c46ad8fb458012b8a2492/preview_slide_0.jpg?39196958",
+    "fetched_at": "2026-04-23 20:56:33",
+    "ja_summary": "・Rampが社内AIスイート「Glass」を開発し、全社員の99%が利用する環境を構築。\n・スキル市場や自動化ツールを備え、設定不要で誰でもAIを活用できる仕組みを実現。\n・複雑な設定を排除し、業務効率を最大化するAIネイティブ企業への転換を推進。"
+  },
+  {
+    "title": "The Second Brain Has Overtaken The Second Screen",
+    "link": "https://speakerdeck.com/memosbymike/the-second-brain-has-overtaken-the-second-screen",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-04-23T07:40:06-04:00",
+    "summary": "18 slides tracing the arc from second screen to second brain: why the first concept dissolved, what replaced it, why AI changed the contract, and who is building the mainstream version.\n\nFull talk: https://mikelitman.me/secondbrain",
+    "image": "https://files.speakerdeck.com/presentations/9373f249a45e485eb0905ec8ff0305c1/preview_slide_0.jpg?39196900",
+    "fetched_at": "2026-04-23 20:56:33",
+    "ja_summary": "・かつての「セカンドスクリーン（テレビ視聴中のスマホ利用）」という概念が消失。\n・AIの台頭により、知識管理や思考の外部化を促す「セカンドブレイン」が主流に移行した。\n・AIが思考を拡張・代替する新しい情報消費・構築のパラダイムを解説。"
+  },
+  {
+    "title": "Forbes AI 50 · 2026",
+    "link": "https://speakerdeck.com/memosbymike/forbes-ai-50-star-2026",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-04-23T07:39:11-04:00",
+    "summary": "The Forbes AI 50 maps the most promising private AI companies of 2026. 14 slides decode all 50 across 6 sectors -- foundation models, creative AI, vertical tools, physical AI -- plus notable absences and geographic concentration.\n\nFull talk: https://mikelitman.me/forbesai50",
+    "image": "https://files.speakerdeck.com/presentations/4b38937298634c978f19f75b14e91fd2/preview_slide_0.jpg?39196880",
+    "fetched_at": "2026-04-23 20:56:33",
+    "ja_summary": "・Forbesが2026年版の有望なAI企業50社を選出\n・基盤モデルや物理AIなど6分野で主要企業を分析\n・AI業界の勢力図や地理的傾向が網羅されたレポートを公開"
+  },
+  {
+    "title": "From Wool Shoes to GPUs",
+    "link": "https://speakerdeck.com/memosbymike/from-wool-shoes-to-gpus",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-04-23T07:38:17-04:00",
+    "summary": "On 15 April 2026, Allbirds announced it would sell its brand and shoe assets to become NewBird AI, a GPU-as-a-Service provider. The stock spiked 400%. With $39M from the asset sale and $50M in new convertible financing, this is either the greatest reinvention in recent memory or the next Long Blockchain Corp.\n\nFull talk: https://mikelitman.me/newbird",
+    "image": "https://files.speakerdeck.com/presentations/9866cfe7b7b747c2acfe6be12077fa2d/preview_slide_0.jpg?39196850",
+    "fetched_at": "2026-04-23 20:56:33",
+    "ja_summary": "・シューズブランドAllbirdsが資産を売却し、GPUのクラウドサービスを提供する「NewBird AI」へ転換。\n・発表を受け株価は400%急騰。約90億円の資金を調達した。\n・歴史的な大改革となるか、それとも破綻の前兆か、市場の評価は大きく分かれている。"
+  },
+  {
+    "title": "【2026年4月更新】Claude Codeの役に立つフロントデザインのskills10選",
+    "link": "https://qiita.com/kamome_susume/items/41300417840aa107472e",
+    "source": "Qiita (Popular)",
+    "published": "2026-04-19T22:35:42+09:00",
+    "summary": "「Claude Codeに頼んでUIを作ってもらったのに、なんか普通すぎる…」と感じたことはありませんか？\nInterフォント、白背景に紫グラデーション、無難なカードレイアウト、これ、実は世界中のエンジニアが同じ悩みを抱えています。\n\nClaude Codeは非常に優秀なコーディングエージェントですが、**デフォルトのまま使うとデザインが\"AIっぽい平均点\"に収束してしまう**という問題があります",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYxNjkzMjQ4JTJGZDhlMmU1OWNiMDVmY2Y3MDQ3ZDgyN2ZjNDlkNDAwMTkzZTU5NDdjOSUyRnhfbGFyZ2UucG5nJTNGMTY4NjMxODg1ND9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9ZDRiNjcyYjg4ZWUxYTRkNjI1ZDRjOGFkMzVkMzQ5NjI%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Ddc9a014e564257547b64353543c58776?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJTkwMjAyNiVFNSVCOSVCNDQlRTYlOUMlODglRTYlOUIlQjQlRTYlOTYlQjAlRTMlODAlOTFDbGF1ZGUlMjBDb2RlJUUzJTgxJUFFJUU1JUJEJUI5JUUzJTgxJUFCJUU3JUFCJThCJUUzJTgxJUE0JUUzJTgzJTk1JUUzJTgzJUFEJUUzJTgzJUIzJUUzJTgzJTg4JUUzJTgzJTg3JUUzJTgyJUI2JUUzJTgyJUE0JUUzJTgzJUIzJUUzJTgxJUFFc2tpbGxzMTAlRTklODElQjgmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1kMTI3ZTg4NGU1NjJhZDNkMmUyMWJhMDMxNTZjYzg1Mw&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBrYW1vbWVfc3VzdW1lJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9ZGRiZTIzN2VhYmFmZjQ1YThiNWYzYWQyMWVhNzMzOTI&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=cfe95cba2a5e88ed715f0f1b1793457c",
+    "fetched_at": "2026-04-23 20:56:39",
+    "ja_summary": "Claude CodeはAIっぽい平均的なUIを生成しがち。\nデザインの個性を出すためには、ユーザー側からの工夫が必要。\nこの記事では、AIを越えるフロントデザインのスキル10選を紹介。"
+  },
+  {
+    "title": "Claude Code × Obsidian Vault で作る「何でも相談」プロジェクト ― フォルダ構成・CLAUDE.md・MCP設定まで全公開",
+    "link": "https://qiita.com/htani0817/items/0cb5e8f91fa64fb9ba8c",
+    "source": "Qiita (Popular)",
+    "published": "2026-04-18T23:27:42+09:00",
+    "summary": "## はじめに\n\nClaude Code を使い始めて少し経つと、多くの人が同じ問題にぶつかります。\n\n- Claude が生成した `.md` がプロジェクトルート直下に散乱する\n- 「あの調査メモどこ行った？」が週1で起きる\n- Mac と Windows を行き来するたびにパス問題でつまずく\n\nこの記事では、私が実際に運用している「何でも相談-pj」という Claude Code 専用プロジ",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0MDk4MjM2JTJGYTI2OGI2ZjZkYjYyMjg4ODc4NTdhZTU3MzIwNzAxYzhmOWRjYjFkNCUyRmxhcmdlLnBuZyUzRjE3NDgyNzY3NzU_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPTE2YjNmNDQ3OTAzZTllZGZmYzg5ZDMzNWM0OTM0Zjlj%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D7e25c971195c678e769b50eb30b2c965?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9Q2xhdWRlJTIwQ29kZSUyMCVDMyU5NyUyME9ic2lkaWFuJTIwVmF1bHQlMjAlRTMlODElQTclRTQlQkQlOUMlRTMlODIlOEIlRTMlODAlOEMlRTQlQkQlOTUlRTMlODElQTclRTMlODIlODIlRTclOUIlQjglRTglQUIlODclRTMlODAlOEQlRTMlODMlOTclRTMlODMlQUQlRTMlODIlQjglRTMlODIlQTclRTMlODIlQUYlRTMlODMlODglMjAlRTIlODAlOTUlMjAlRTMlODMlOTUlRTMlODIlQTklRTMlODMlQUIlRTMlODMlODAlRTYlQTclOEIlRTYlODglOTAlRTMlODMlQkJDTEFVREUubWQlRTMlODMlQkIlRTIlODAlQTYmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1mNGZiYjg3OTlhNDQ2MzE5ZWY1ZTA1YjRmM2QwMWU1Mg&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBodGFuaTA4MTcmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1kZWViMzc0N2E1MTdhMGQzYWEyZDBlOTg2ODMwYThhOA&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=f4ca13f787b7e22e23009be23e52f837",
+    "fetched_at": "2026-04-23 20:56:40",
+    "ja_summary": "・Claude Code利用時のファイル散乱や管理不全を解決する「何でも相談プロジェクト」の構築法を公開。\n・フォルダ構成の整理、CLAUDE.mdの活用、MCP設定による効率的な運用環境を具体的に解説。\n・OS環境に依存せず、調査メモや生成ファイルを一元管理できる実践的なワークフローを提示。"
+  },
+  {
+    "title": "Claude × Codex × Gemini を\"併用\"する設計 ─ セカンドオピニオン運用フレーム",
+    "link": "https://qiita.com/nogataka/items/b2b4a84ba611ccaf8447",
+    "source": "Qiita (Popular)",
+    "published": "2026-04-17T13:20:50+09:00",
+    "summary": "\n## はじめに\n\nClaude Code、Codex CLI、Gemini CLI の比較記事は、ここ半年で一気に増えました。\n\n多くは「どれが最強か」を問う記事です。読むと参考になる一方、結局どれか 1 つを選ばされる構図になりがちで、実務の体感とは少しずれます。私の手元では、3 ツールは互いに\"置き換え\"ではなく\"補完\"の関係で並んでいます。\n\n本記事では「どれが最強か」ではなく、「3 ツー",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYxNjEyOTglMkZjMWUzZmZkNmVhZGExOTY5ZmYzYzQ0YjE0ZmRlMDgxYmNkZTZmNTAwJTJGeF9sYXJnZS5wbmclM0YxNTg0ODQ1NTg0P2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz00ZGRjZmU5NTFjNTMyMzU3NjcyOGUzOTkyOTNmOGRlNQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D246367bff431168e6212d2602a3df494?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9Q2xhdWRlJTIwJUMzJTk3JTIwQ29kZXglMjAlQzMlOTclMjBHZW1pbmklMjAlRTMlODIlOTIlMjIlRTQlQkQlQjUlRTclOTQlQTglMjIlRTMlODElOTklRTMlODIlOEIlRTglQTglQUQlRTglQTglODglMjAlRTIlOTQlODAlMjAlRTMlODIlQkIlRTMlODIlQUIlRTMlODMlQjMlRTMlODMlODklRTMlODIlQUElRTMlODMlOTQlRTMlODMlOEIlRTMlODIlQUElRTMlODMlQjMlRTklODElOEIlRTclOTQlQTglRTMlODMlOTUlRTMlODMlQUMlRTMlODMlQkMlRTMlODMlQTAmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1mMGRiNDc3MzgxNmI2Y2QzMmM2YTIxMzIyZTllY2QyMw&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBub2dhdGFrYSZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWE5ODA4YTE0Zjg4Y2I0ZjQ5OWU2ZDA3NGYyY2E2YTNh&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=e4c13f823e91ecc4c2b914f51362686b",
+    "fetched_at": "2026-04-23 20:56:41",
+    "ja_summary": "・Claude、Codex、Geminiを単一の最強ツールに絞るのではなく、互いの強みを活かして使い分ける「補完的」な併用運用を提唱。\n・各AIツールの特性を理解し、実務で目的に応じてこれらを切り替える「セカンドオピニオン」的なフレームワークの構築を目指す。"
+  },
+  {
     "title": "グーグルのAI認定講座、先着1万人に無料提供　「Google AI Pro」3カ月利用権も",
     "link": "https://www.watch.impress.co.jp/docs/news/2104171.html",
     "source": "Impress Watch",
@@ -868,135 +998,5 @@
     "image": "https://media.loom-app.com/loom/2026/04/22/a8f4cfed-833e-4250-92f5-3815be7bcccc/original.jpg?w=1200&amp;h=630",
     "fetched_at": "2026-04-23 07:03:22",
     "ja_summary": "・AI時代には、情報処理ではなく「直感的な違和感」を判断する能力が不可欠。\n・正解のない問いに向き合うには、頭だけでなく「身体感覚」と「場数」が必要。\n・AIに頼らず自らの価値判断を磨くことが、これからのビジネスの生存戦略となる。"
-  },
-  {
-    "title": "NECの「真に国や業務で使えるAI」の全容。ChatGPTやClaudeにはできない「特化」の勝ち筋【日本企業のLLM】",
-    "link": "https://www.businessinsider.jp/article/2604-nec-ai-strategy-focus-on-practical-value/",
-    "source": "Business Insider Japan",
-    "published": "Wed, 22 Apr 2026 21:30:00 GMT",
-    "summary": "NECは、海外AI大手と汎用性能で競うのではなく、業務特化AIを自社開発し、顧客の業務改善につなげる戦略を取っています。重視するのは、AI単体ではなくシステムとしての価値です。",
-    "image": "https://media.loom-app.com/loom/2026/04/22/d99c2638-4cdf-4c4d-8ef8-720bf9254159/original.png?w=1200&amp;h=630",
-    "fetched_at": "2026-04-23 07:03:24",
-    "ja_summary": "・NECは汎用AIでの競争を避け、特定の業務に特化した自社AIの開発に注力。\n・AI単体の性能ではなく、既存システムと統合した業務改善効果を重視。\n・海外大手との差別化を図り、日本企業の現場ニーズに最適化した価値を提供する。"
-  },
-  {
-    "title": "ワークロードとシステム全体で考えるストレージ選定の最適解",
-    "link": "https://japan.zdnet.com/article/35246455/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "「最速のドライブが最良」というストレージ選定の神話は終わりを迎えた。単一の速度ではなく、システム全体のスループットや用途への適合性が重要視される今、SSDとHDDの単純な二元論は通用しない。AIやビッグデータが牽引する大容量時代において、TCOとパフォーマンスを両立させる真のストレージ戦略とは。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35246455/\"><img src=\"https://japan.zdnet.com/storage/2026/04/15/06e6c6c309d820a441acf318671b6e27/t/184/138/d/260415_as_1280_921354888.jpg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2026/04/15/06e6c6c309d820a441acf318671b6e27/t/184/138/d/260415_as_1280_921354888.jpg",
-    "fetched_at": "2026-04-23 07:03:31",
-    "ja_summary": "・単なる速度重視のストレージ選定は終わり、システム全体の最適化が不可欠。\n・SSDとHDDの二元論を超え、AI・ビッグデータ時代に合わせた選択が重要。\n・運用コスト（TCO）とパフォーマンスの双方を両立させる戦略的構築が求められている。"
-  },
-  {
-    "title": "Introducing ChatGPT Images 2.0",
-    "link": "https://openai.com/index/introducing-chatgpt-images-2-0",
-    "source": "OpenAI",
-    "published": "Tue, 21 Apr 2026 12:00:00 GMT",
-    "summary": "ChatGPT Images 2.0 introduces a state-of-the-art image generation model with improved text rendering, multilingual support, and advanced visual reasoning.",
-    "image": "https://openai.com/favicon.ico",
-    "fetched_at": "2026-04-23 07:03:34",
-    "ja_summary": "・ChatGPTの画像生成機能が2.0に進化し、性能が大幅に向上。\n・テキスト描画の正確性向上や多言語対応、視覚的推論能力が強化。\n・より高品質で高度な画像生成・編集が可能に。"
-  },
-  {
-    "title": "〈アナリストが読む〉キオクシアに問われる強さ｢メモリー価格は今がピーク｣､エヌビディアとの技術協力の行方 | 政治・経済・投資 | 東洋経済オンライン",
-    "link": "https://toyokeizai.net/articles/-/941751?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-    "source": "東洋経済オンライン",
-    "published": "Thu, 23 Apr 2026 05:50:00 +0900",
-    "summary": "AI需要の爆発でNANDフラッシュメモリー価格が急騰し､サーバー向けSSD市場が牽引役となる一方､PCやスマホ分野にも影響が広がっています。ピークはいつなのか､主要メーカの戦略やキオクシアの課題を徹…",
-    "image": "https://tk.ismcdn.jp/mwimgs/b/0/1200w/img_b092f1821014b55b1112aed033ead4b2453577.jpg?nextgen=false",
-    "fetched_at": "2026-04-23 06:09:34",
-    "ja_summary": "・AI需要によるNAND価格の高騰はピークに差し掛かっており、サーバー市場が牽引している。\n・PC・スマホ市場への影響が広がる中、各メーカーの戦略と市況の転換点が注目される。\n・キオクシアは競争激化の中で、エヌビディアとの技術協力などを軸とした戦略転換が問われている。"
-  },
-  {
-    "title": "OpenAI、新画像モデル「ChatGPT Images 2」発表　ビジネス資料や文字入りデザインに特化",
-    "link": "https://japan.cnet.com/article/35246703/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "OpenAIは、次世代画像モデル「ChatGPT Images 2」をリリースすると発表した。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35246703/\"><img src=\"https://japan.cnet.com/storage/2026/04/22/4e19dc0fa2020cf85f38f64f518df20c/t/184/138/d/chatgpt-images-2-promo-pic_1280x960.jpg\" /></a>",
-    "image": "https://japan.cnet.com/storage/2026/04/22/4e19dc0fa2020cf85f38f64f518df20c/t/184/138/d/chatgpt-images-2-promo-pic_1280x960.jpg",
-    "fetched_at": "2026-04-23 06:09:50",
-    "ja_summary": "・OpenAIが新画像生成モデル「ChatGPT Images 2」を発表。\n・ビジネス資料の作成や、正確な文字を含むデザインの生成に特化。\n・従来モデルより実用性を高め、業務効率化を支援する。"
-  },
-  {
-    "title": "AIスタートアップ「Uplane」はマーケティング代理店をAIで置き換えようとしている。450万ドルを調達した14枚のピッチデックはこちら【独占公開】",
-    "link": "https://www.businessinsider.jp/article/2604-pitch-deck-uplane-raised-funding-to-replace-marketing-agencies-ai/",
-    "source": "Business Insider Japan",
-    "published": "Tue, 21 Apr 2026 22:50:00 GMT",
-    "summary": "Uplaneは、Meta、Google、TikTok、LinkedInなどのブランドがデジタルチャネルで広告キャンペーンを開始およびテストできるプラットフォームを提供しています。",
-    "image": "https://media.loom-app.com/loom/2026/04/18/56887393-6c8e-4709-b356-fb716c007512/original.jpg?w=1200&amp;h=630",
-    "fetched_at": "2026-04-23 06:09:55",
-    "ja_summary": "・AIスタートアップ「Uplane」が450万ドルを調達。\n・MetaやGoogle等で広告運用を自動化するプラットフォームを提供。\n・マーケティング代理店の業務をAIで置き換えることを目指している。"
-  },
-  {
-    "title": "エージェント型AIの展開には強固なデータ基盤が不可欠--まず取るべき4つのステップ",
-    "link": "https://japan.zdnet.com/article/35246709/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "マッキンゼーは報告書で、エージェント型AIの拡大における戦略、テクノロジー、人材を結び付け、強固なデータ基盤を構築するための4つの連携したステップを提示している。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35246709/\"><img src=\"https://japan.zdnet.com/storage/2026/04/22/597962b9e36044b07ebab88b8cccd96b/t/184/138/d/datafoundationgettyimages-1472653690_l.jpg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2026/04/22/597962b9e36044b07ebab88b8cccd96b/t/184/138/d/datafoundationgettyimages-1472653690_l.jpg",
-    "fetched_at": "2026-04-23 06:09:58",
-    "ja_summary": "・エージェント型AIを成功させるには、強固なデータ基盤の構築が不可欠である。\n・マッキンゼーは戦略・技術・人材を統合する4つの実践ステップを提言している。\n・AI導入を加速させるため、データ基盤を軸とした組織的な連携が求められる。"
-  },
-  {
-    "title": "歯磨き市場で10年連続1位　シュミテクトが貫く「市場創造」の作法",
-    "link": "https://www.itmedia.co.jp/business/articles/2604/22/news023.html",
-    "source": "ITmedia ビジネス",
-    "published": "Wed, 22 Apr 2026 07:00:00 +0900",
-    "summary": "日本のオーラルケア市場において、歯磨き関連で10年連続売上高1位の歯磨き粉「シュミテクト」。成熟しきった日本の歯磨き市場において、なぜ独走を続けられるのか。その裏には、社会構造の変化から潜在ニーズを掘り起こす「市場創造」の視点と、独自AIを駆使して開発プロセスを短縮したデータ経営の融合があった。責任者にインタビューする。",
-    "image": "https://image.itmedia.co.jp/business/articles/2604/22/cover_news023.jpg",
-    "fetched_at": "2026-04-23 05:13:12",
-    "ja_summary": "・知覚過敏ケアに特化した「シュミテクト」が、歯磨き市場で10年連続売上1位を達成。\n・社会変化から潜在ニーズを掘り起こす「市場創造」の戦略を徹底。\n・独自AIによる開発プロセスの短縮とデータ経営を融合させ、成長を加速。"
-  },
-  {
-    "title": "生成AIで動画を要約、Webブラウザーの拡張機能で簡単・便利に",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03532/030300005/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "YouTubeは役立つ動画の宝庫だが、長い動画を全部見るには時間がかかるし外国語のこともある。手っ取り早く内容を把握したければGeminiに要約を頼もう。どのように要約してほしいかを指示して動画のURLを貼り付ける。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03532/030300005/topm.jpg?20220512",
-    "fetched_at": "2026-04-23 05:13:22",
-    "ja_summary": "・ブラウザ拡張機能のGeminiを使えば、YouTube動画を素早く要約可能。\n・長い動画や外国語動画の内容も、URLを貼るだけで即座に把握できる。\n・忙しい隙間時間での情報収集や効率的な学習に最適。"
-  },
-  {
-    "title": "ノーベル賞・北川進氏、「空気を資源に」　MOFでCO2回収",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00134/040500462/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "「今後、空気を資源として利用しなくてはならない」。こうした使命感を胸に、2025年にノーベル化学賞を受賞した北川進氏は、金属有機構造体（MOF）の研究開発に力を注ぐ。有望な実用化先として、二酸化炭素（CO2）を直接回収するDAC（Direct Air Capture）を挙げる。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/00134/040500462/topm.jpg?20220512",
-    "fetched_at": "2026-04-23 05:13:23",
-    "ja_summary": "・ノーベル化学賞受賞者の北川進氏が、金属有機構造体（MOF）の研究を主導。\n・空気中のCO2を直接回収する技術（DAC）の実用化を目指す。\n・「空気を資源として活用する」新たな社会システムの構築に挑む。"
-  },
-  {
-    "title": "生成AIネーティブ「Wave Terminal」、ログのコピペなしでAIが的確に助言",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03589/041400001/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "ネットワークエンジニアが業務に生成AIを無理なく取り入れる手立てがある。ターミナルソフトを「生成AIネーティブ」のツールに置き換えるというものだ。生成AIネーティブをうたうターミナルソフト「Wave Terminal」の特徴などについて、3回に分けて紹介する。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03589/041400001/topm.jpg?20220512",
-    "fetched_at": "2026-04-23 05:13:24",
-    "ja_summary": "・「Wave Terminal」は生成AIを組み込んだ次世代のターミナルソフト。\n・ログのコピペ不要でAIが操作を支援し、エンジニアの業務を効率化する。\n・全3回の連載で、同ツールの特徴や活用方法を解説する。"
-  },
-  {
-    "title": "OpenAI helps Hyatt advance AI among colleagues",
-    "link": "https://openai.com/index/hyatt-advances-ai-with-chatgpt-enterprise",
-    "source": "OpenAI",
-    "published": "Mon, 20 Apr 2026 00:00:00 GMT",
-    "summary": "Hyatt deploys ChatGPT Enterprise across its global workforce, using GPT-5.4 and Codex to improve productivity, operations, and guest experiences.",
-    "image": "https://openai.com/favicon.ico",
-    "fetched_at": "2026-04-23 04:02:17",
-    "ja_summary": "・ハイアットが「ChatGPT Enterprise」を世界中の従業員向けに導入\n・最新のGPTモデルとCodexを活用し、業務効率と生産性を向上\n・ホテル運営の最適化に加え、宿泊客へのサービス体験向上を目指す"
-  },
-  {
-    "title": "いい CLAUDE.md なのか、Claude Code と計測・分析してみた",
-    "link": "https://zenn.dev/progate/articles/cb3018bbfc5aad",
-    "source": "Zenn Trends",
-    "published": "Tue, 21 Apr 2026 06:03:01 GMT",
-    "summary": "Progate でエンジニア見習いをしている横江( @yokoe24 )です！\n先月から業務委託でお手伝いさせていただいております。\n\n CLAUDE.md が物足りない問題！\nProgate はバックエンドとフロントエンドのリポジトリがしっかり分かれていて、\nその両方の実装が必要な時があります。\nしかし、フロントエンドのリポジトリをさわっているときに違和感がありました。\n「なんか…… Claude Code の実行が遅いし、精度が低い気がする……」\nバックエンドでの Claude Code 体験が高くて\n「うおおお、すぐに実装できて最高ぉぉおお！！🏃‍➡️🏃‍➡️🏃‍➡️」 となってい...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--I-SmjSM9--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2581%2584%25E3%2581%2584%2520CLAUDE.md%2520%25E3%2581%25AA%25E3%2581%25AE%25E3%2581%258B%25E3%2580%2581Claude%2520Code%2520%25E3%2581%25A8%25E8%25A8%2588%25E6%25B8%25AC%25E3%2583%25BB%25E5%2588%2586%25E6%259E%2590%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E6%25A8%25AA%25E6%25B1%259F%25EF%25BC%2588%25E3%2582%2588%25E3%2581%2593%25E3%2581%2588%25EF%25BC%2589%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2UzOTZjNjhlM2MuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Progate%2520Tech%2520Blog%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzExMjA2NjYzODIuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-    "fetched_at": "2026-04-23 04:02:41",
-    "ja_summary": "・Claude Codeでバックエンドとフロントエンドを開発する際、前者の快適さに比べ後者の遅延や精度不足が課題に。\n・リポジトリ構成の違いが原因と仮定し、「CLAUDE.md」の最適化による改善効果を検証。\n・計測と分析の結果、適切な「CLAUDE.md」の記述が開発体験の向上に直結することを実証。"
   }
 ]
