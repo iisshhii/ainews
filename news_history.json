@@ -1,5 +1,45 @@
 [
   {
+    "title": "Making ChatGPT better for clinicians",
+    "link": "https://openai.com/index/making-chatgpt-better-for-clinicians",
+    "source": "OpenAI",
+    "published": "Wed, 22 Apr 2026 15:00:00 GMT",
+    "summary": "OpenAI makes ChatGPT for Clinicians free for verified U.S. physicians, nurse practitioners, and pharmacists, supporting clinical care, documentation, and research.",
+    "image": "https://openai.com/favicon.ico",
+    "fetched_at": "2026-04-24 01:57:37",
+    "ja_summary": "・OpenAIが米国の認定医師、看護師、薬剤師向けに「ChatGPT for Clinicians」を無料提供\n・診療支援、文書作成、臨床研究の効率化をサポート\n・医療従事者の業務負担軽減と質の向上を目指す"
+  },
+  {
+    "title": "Introducing Claude Opus 4.7",
+    "link": "https://www.anthropic.com/news/claude-opus-4-7",
+    "source": "Anthropic (News)",
+    "published": "Thu, 16 Apr 2026 00:00:00 +0000",
+    "summary": "Introducing Claude Opus 4.7",
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/96ea2509a90e527642c822303e56296a07bcfce4-1920x1080.png",
+    "fetched_at": "2026-04-24 01:57:44",
+    "ja_summary": "・最新AIモデル「Claude Opus 4.7」が登場。\n・前モデルから性能や精度が向上。\n・より高度な推論やタスク処理が可能に。"
+  },
+  {
+    "title": "Pure Intonation on Browser: Building a Sequencer with Ruby",
+    "link": "https://speakerdeck.com/nagachika/pure-intonation-on-browser-building-a-sequencer-with-ruby",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-04-23T12:48:21-04:00",
+    "summary": "The talk in RubyKaigi 2026.\nExplore pure intonation, microtonal music theory, and ruby.wasm interoperability to create a modular synthesizer and sequencer running in the browser using Web Audio API and Ruby.",
+    "image": "https://files.speakerdeck.com/presentations/129a1097e1034a96b652fc4547f712a6/preview_slide_0.jpg?39199124",
+    "fetched_at": "2026-04-24 01:57:56",
+    "ja_summary": "・RubyKaigi 2026にて、RubyとWeb Audio APIを用いたブラウザ上で動くシンセサイザー・シーケンサーの開発を発表。\n・純正律やマイクロトーンといった音楽理論を、ruby.wasmを通じて実装する技術を紹介。\n・Webブラウザ環境におけるRubyの新たな活用可能性と音楽制作への応用を解説。"
+  },
+  {
+    "title": "AI時代 に増える データ活用先",
+    "link": "https://speakerdeck.com/takahal/aishi-dai-nizeng-eru-detahuo-yong-xian",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-04-23T11:33:50-04:00",
+    "summary": "2026/04/23 Sansan Tech Talk @関西 vol.3～データ活用のリアル～\n（https://sansan.connpass.com/event/386580/）\n発表時間：5分\n\n全社に対してClaude Codeの普及を行った結果生まれた、新たなデータ活用先「自作アプリ」「BI as Code」\n改めてAI を使ってデータをよりよくアウトプットする先はなんなのか？自分の中での考えを紹介しました。\n\nまた、AI時代において「問いとデータ分析」のセットと同じかそれ以上に 「みんなが作るアプリ」をいかに観測できるようにしてアプリの利用によって生成されたデータやSQLのログを得てデータ基盤の成長に活かせるかが重要になってくるよねについて話しました。\n\nSTORES 株式会社\nデータ本部 データ基盤グループ\n小野 嵩征（ono.takayuki）/ アナリティクスエンジニア",
+    "image": "https://files.speakerdeck.com/presentations/a7193e1a122f4a7486e24e0917d68e1c/preview_slide_0.jpg?39198405",
+    "fetched_at": "2026-04-24 01:57:56",
+    "ja_summary": "AI時代、Claude Code導入で「自作アプリ」「BI as Code」といった新たなデータ活用が生まれた。\nAIでデータを活用するだけでなく、皆が作るアプリの利用状況を把握し、データ基盤成長に繋げることが重要。\nアプリ利用で生成されたデータやSQLログを観測し、データ基盤の成長に活かすことが、AI時代には不可欠となる。"
+  },
+  {
     "title": "［クイズ］三菱商事が、8年ぶりに新卒採用を再開する職種とは？ (日経ビジネス教養クイズ)",
     "link": "https://business.nikkei.com/atcl/gen/19/00738/041600236/",
     "source": "日経ビジネス 最新",
@@ -958,45 +998,5 @@
     "image": "https://japan.cnet.com/storage/2026/04/23/00d3dc392856dc1154131fbddac8d0d9/t/184/138/d/apple-ipad-chicago-tim-cook-9429__1_.jpeg",
     "fetched_at": "2026-04-23 08:05:20",
     "ja_summary": "・Appleのティム・クックCEOが2026年9月に退任することが決定。\n・在任15年間でApple WatchやAirTagなど製品・サービスを大幅に拡充。\n・ジョブズ後のAppleを牽引し、同社のラインアップを大きく進化させた時代となった。"
-  },
-  {
-    "title": "アップル新CEOはハードウェアの人　AI戦略大丈夫？ 心配無用な理由",
-    "link": "https://japan.cnet.com/article/35246763/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "米Appleが9月1日付で、ティム・クックCEOの後任にジョン・ターナス氏を据える人事を正式に発表した<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35246763/\"><img src=\"https://japan.cnet.com/storage/2026/04/23/cc6a32d61627f4cf8208f0bb34c71f24/t/184/138/d/apple-john-ternus-tim-cook-full-bleed-image-jpg-xlarge-2x__1_.jpeg\" /></a>",
-    "image": "https://japan.cnet.com/storage/2026/04/23/cc6a32d61627f4cf8208f0bb34c71f24/t/184/138/d/apple-john-ternus-tim-cook-full-bleed-image-jpg-xlarge-2x__1_.jpeg",
-    "fetched_at": "2026-04-23 08:05:20",
-    "ja_summary": "・Appleの新CEOにハードウェア部門トップのジョン・ターナス氏が就任。\n・AI戦略への懸念に対し、同氏は技術力と実行力に定評があり適任との評価。\n・製品開発の指揮経験を活かし、今後のAI統合を主導すると期待されている。"
-  },
-  {
-    "title": "リクルート傘下インディードの幹部が「AIトークン消費ランキング」のような馬鹿げた流行を導入しない「決定的な理由」",
-    "link": "https://www.businessinsider.jp/article/2604-indeed-ai-usage-bills-tokens-leaderboard-anthony-moisant/",
-    "source": "Business Insider Japan",
-    "published": "Wed, 22 Apr 2026 22:00:00 GMT",
-    "summary": "リクルート傘下のインディードはAIトークン使用量のランキングを設けるつもりは一切ないそうです。同社のCIOはBusiness Insiderに対し「誤った動機を生み出しかねない」と語りました。「トークン使用量は追跡しているが、あくまでバックグラウンドで活用している」と断言する理由を取材しました。",
-    "image": "https://media.loom-app.com/loom/2026/04/21/62cf0ce9-85e2-4cb6-80b9-69455b4e1d3a/original.jpg?w=1200&amp;h=630",
-    "fetched_at": "2026-04-23 08:05:21",
-    "ja_summary": "・インディードはAI利用効率を測る「トークン消費ランキング」の導入を断固拒否。\n・成果の質ではなく量のみを競うことで、誤った動機や非効率な活用を招く懸念があるため。\n・あくまで裏方としてAIを実利的に活用し、安易な数値化・競争化は避ける方針。"
-  },
-  {
-    "title": "Chronicle の概要",
-    "link": "https://note.com/npaka/n/n242bb3fc6e91",
-    "source": "note (npaka)",
-    "published": "Tue, 21 Apr 2026 07:00:03 +0900",
-    "summary": "<p id=\"1d0620a5-b7b3-4e71-ae49-f4d5a67ba03a\" name=\"1d0620a5-b7b3-4e71-ae49-f4d5a67ba03a\">以下の記事が面白かったので、簡単にまとめました。</p><figure id=\"baefb1b3-3b42-4b50-8d99-49f30f825543\" name=\"baefb1b3-3b42-4b50-8d99-49f30f825543\"><blockquote><p id=\"09769a0b-a061-4e4e-9167-f000a2ad78aa\" name=\"09769a0b-a061-4e4e-9167-f000a2ad78aa\"><strong>・</strong><a href=\"https://developers.openai.com/codex/memories/chronicle\" rel=\"nofollow noopener\" target=\"_blank\"><strong>Chronicle</strong></a></p></blockquote>\n<figcaption></figcaption></figure><br /><a href=\"https://note.com/npaka/n/n242bb3fc6e91\">続きをみる</a>",
-    "image": "https://assets.st-note.com/production/uploads/images/269032952/rectangle_large_type_2_2be6968c04bed4339ac71904043d0806.png?width=800",
-    "fetched_at": "2026-04-23 08:05:26",
-    "ja_summary": "・Chronicleは、AIの長期記憶を管理・活用するための新しい技術・仕組み。\n・ユーザーとの対話履歴を構造化し、AIが文脈を深く理解・再現できるように支援する。\n・個別のユーザーに最適化された、一貫性のあるパーソナライズ体験を提供することが可能。"
-  },
-  {
-    "title": "AIロボ 卓球で全国大会選手に勝つ",
-    "link": "https://news.yahoo.co.jp/pickup/6577280?source=rss",
-    "source": "Yahoo!ニュース IT・科学",
-    "published": "Wed, 22 Apr 2026 22:47:45 GMT",
-    "summary": "",
-    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/23/90abe45f80a0781099d2a654686bb142986e95b4fdd42f0c2f36f948fb844763.jpg",
-    "fetched_at": "2026-04-23 08:05:27",
-    "ja_summary": "AIを搭載した卓球ロボットが、実力のある全国大会出場選手との対戦に勝利した。\n高度な画像認識と機敏な動作で、人間の熟練プレイヤーに匹敵する技術を証明。\nロボットの身体能力と反応速度の飛躍的な向上が、スポーツ分野での実用化を加速させている。"
   }
 ]
