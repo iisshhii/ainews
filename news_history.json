@@ -1,5 +1,45 @@
 [
   {
+    "title": "リクルート傘下インディードの幹部が「AIトークン消費ランキング」のような馬鹿げた流行を導入しない「決定的な理由」",
+    "link": "https://www.businessinsider.jp/article/2604-indeed-ai-usage-bills-tokens-leaderboard-anthony-moisant/",
+    "source": "Business Insider Japan",
+    "published": "Wed, 22 Apr 2026 22:00:00 GMT",
+    "summary": "リクルート傘下のインディードはAIトークン使用量のランキングを設けるつもりは一切ないそうです。同社のCIOはBusiness Insiderに対し「誤った動機を生み出しかねない」と語りました。「トークン使用量は追跡しているが、あくまでバックグラウンドで活用している」と断言する理由を取材しました。",
+    "image": "https://media.loom-app.com/loom/2026/04/21/62cf0ce9-85e2-4cb6-80b9-69455b4e1d3a/original.jpg?w=1200&amp;h=630",
+    "fetched_at": "2026-04-24 03:04:22",
+    "ja_summary": "・IndeedはAIの利用効率を測る「トークン消費量ランキング」の導入を断固拒否。\n・ランキング化は社員に誤った動機付けを与え、本質的な価値創造を阻害するため。\n・利用量は監視しつつも、あくまで生産性向上という背後の目的を重視する方針。"
+  },
+  {
+    "title": "Chronicle の概要",
+    "link": "https://note.com/npaka/n/n242bb3fc6e91",
+    "source": "note (npaka)",
+    "published": "Tue, 21 Apr 2026 07:00:03 +0900",
+    "summary": "<p id=\"1d0620a5-b7b3-4e71-ae49-f4d5a67ba03a\" name=\"1d0620a5-b7b3-4e71-ae49-f4d5a67ba03a\">以下の記事が面白かったので、簡単にまとめました。</p><figure id=\"baefb1b3-3b42-4b50-8d99-49f30f825543\" name=\"baefb1b3-3b42-4b50-8d99-49f30f825543\"><blockquote><p id=\"09769a0b-a061-4e4e-9167-f000a2ad78aa\" name=\"09769a0b-a061-4e4e-9167-f000a2ad78aa\"><strong>・</strong><a href=\"https://developers.openai.com/codex/memories/chronicle\" rel=\"nofollow noopener\" target=\"_blank\"><strong>Chronicle</strong></a></p></blockquote>\n<figcaption></figcaption></figure><br /><a href=\"https://note.com/npaka/n/n242bb3fc6e91\">続きをみる</a>",
+    "image": "https://assets.st-note.com/production/uploads/images/269032952/rectangle_large_type_2_2be6968c04bed4339ac71904043d0806.png?width=800",
+    "fetched_at": "2026-04-24 03:04:22",
+    "ja_summary": "・「Chronicle」は、OpenAIのCodexが個人の長期記憶を保持し、過去の対話や文脈を学習・活用できる機能。\n・過去の情報を正確に参照することで、ユーザーごとの好みや経緯に基づいた一貫性のある対話を実現する。\n・AIがユーザーの文脈を理解し、よりパーソナライズされたアシスタントとして機能することを目指している。"
+  },
+  {
+    "title": "AIロボ 卓球で全国大会選手に勝つ",
+    "link": "https://news.yahoo.co.jp/pickup/6577280?source=rss",
+    "source": "Yahoo!ニュース IT・科学",
+    "published": "Wed, 22 Apr 2026 22:47:45 GMT",
+    "summary": "",
+    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/23/90abe45f80a0781099d2a654686bb142986e95b4fdd42f0c2f36f948fb844763.jpg",
+    "fetched_at": "2026-04-24 03:04:26",
+    "ja_summary": "・AI搭載の卓球ロボットが、全国大会レベルの選手に実戦で勝利した。\n・高度な予測技術と正確な打球により、人間との互角以上のラリーを実現。\n・AIとロボット技術の進化が、スポーツ分野の常識を覆しつつある。"
+  },
+  {
+    "title": "GPT-5.5 Bio Bug Bounty",
+    "link": "https://openai.com/index/gpt-5-5-bio-bug-bounty",
+    "source": "OpenAI",
+    "published": "Thu, 23 Apr 2026 00:00:00 GMT",
+    "summary": "Explore the GPT-5.5 Bio Bug Bounty: a red-teaming challenge to find universal jailbreaks for bio safety risks, with rewards up to $25,000.",
+    "image": "https://openai.com/favicon.ico",
+    "fetched_at": "2026-04-24 03:04:32",
+    "ja_summary": "・GPT-5.5の生物学的リスクを検証するバグバウンティ（脆弱性報奨金）が開始\n・生物兵器などの悪用につながる「脱獄（ジェイルブレイク）」手法を募集\n・脆弱性の発見者には最大2万5000ドルの報奨金が支払われる"
+  },
+  {
     "title": "Making ChatGPT better for clinicians",
     "link": "https://openai.com/index/making-chatgpt-better-for-clinicians",
     "source": "OpenAI",
@@ -958,45 +998,5 @@
     "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYxNjkzMjQ4JTJGZDhlMmU1OWNiMDVmY2Y3MDQ3ZDgyN2ZjNDlkNDAwMTkzZTU5NDdjOSUyRnhfbGFyZ2UucG5nJTNGMTY4NjMxODg1ND9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9ZDRiNjcyYjg4ZWUxYTRkNjI1ZDRjOGFkMzVkMzQ5NjI%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Ddc9a014e564257547b64353543c58776?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9Q2xhdWRlJTIwQ29kZSVFMyU4MSVBNyVFOSU5NiU4QiVFNyU5OSVCQSVFMyU4MiU5MiVFOCU4NyVBQSVFNSU4QiU5NSVFNSU4QyU5NiVFMyU4MSU5OSVFMyU4MiU4QlNraWxscyUyMDUlRTklODElQjgmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1iZjhhMWQxNzc2M2Y2ZjVlNjVlOTMyZWIwYTdjNjZhNg&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBrYW1vbWVfc3VzdW1lJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9ZGRiZTIzN2VhYmFmZjQ1YThiNWYzYWQyMWVhNzMzOTI&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=181f777dbba3254bcb72ce65a16d7304",
     "fetched_at": "2026-04-23 09:00:37",
     "ja_summary": "・Claude Codeの「Skills」機能を使えば、繰り返しの開発タスクをコマンド一発で自動化できる。\n・毎回プロンプトを入力する手間を省き、定型作業を効率化可能。\n・開発の生産性を劇的に向上させる、特におすすめの活用法5選を紹介。"
-  },
-  {
-    "title": "「いつでも退会OK」にしたら211人が集まった　ミツカンの“失敗から生まれた”AIプロジェクト",
-    "link": "https://www.itmedia.co.jp/business/articles/2604/23/news021.html",
-    "source": "ITmedia ビジネス",
-    "published": "Thu, 23 Apr 2026 07:00:00 +0900",
-    "summary": "生成AIは導入しただけでは使われない――。こうした課題に直面する企業は少なくない。老舗食品メーカーのミツカンも例外ではなかった。社内コミュニティ「生成AIフレンド会」によって、同社の社員が生成AIを自発的に活用するまでに至った背景に迫る。",
-    "image": "https://image.itmedia.co.jp/business/articles/2604/23/cover_news021.jpg",
-    "fetched_at": "2026-04-23 08:05:06",
-    "ja_summary": "ミツカンは生成AIの活用が進まない課題に対し、退会自由な社内コミュニティ「生成AIフレンド会」を設立。\n社員が自発的に参加する環境を作ったことで、活用を促進する文化の醸成に成功した。\nツール導入だけでなく、心理的ハードルを下げたコミュニティ形成が実務定着の鍵となった。"
-  },
-  {
-    "title": "ファッションレンタルの「エアクロ」が買取にも対応　「エアクロ買取」",
-    "link": "https://www.watch.impress.co.jp/docs/news/2103863.html",
-    "source": "Impress Watch",
-    "published": "",
-    "summary": "エアークローゼットは、月額制ファッションレンタルサービス「airCloset」で、新たに買取サービス「エアクロ買取」を開始する。従来の「レンタル」に「買取」の選択肢を追加し、リユース需要の高まりを受けた「循環型消費」を後押しする。",
-    "image": "https://www.watch.impress.co.jp/img/ipw/list/2103/863/air1.jpg",
-    "fetched_at": "2026-04-23 08:05:17",
-    "ja_summary": "・ファッションレンタル「airCloset」が、借りた服をそのまま購入できる「エアクロ買取」を開始。\n・レンタルの利便性に買取の選択肢を加え、ユーザーの多様なニーズに対応。\n・リユース需要の拡大を受け、ファッション分野での「循環型消費」を促進する。"
-  },
-  {
-    "title": "ソニー、卓球で人間を打ち負かすAIロボット「Ace」発表　プロ選手にも勝てる？",
-    "link": "https://japan.cnet.com/article/35246765/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "ソニーは4月22日、卓球のプロ選手と互角以上に渡り合う自律型AIロボット「Project Ace（Ace）」を公開した。同社はこの成果について、AIシステムが物理世界の競技スポーツで「人間のエキスパートレベル」に到達したことを示す画期的な成果だと位置付けている。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35246765/\"><img src=\"https://japan.cnet.com/storage/2026/04/23/63e697e82d6f63c5a3d9dd10b52f8451/t/184/138/d/screenshot-2026-04-22-at-1-00-24pm.jpeg\" /></a>",
-    "image": "https://japan.cnet.com/storage/2026/04/23/63e697e82d6f63c5a3d9dd10b52f8451/t/184/138/d/screenshot-2026-04-22-at-1-00-24pm.jpeg",
-    "fetched_at": "2026-04-23 08:05:20",
-    "ja_summary": "・ソニーがプロ選手と互角以上に戦える卓球AIロボット「Ace」を発表。\n・物理世界のスポーツにおいて、AIが人間のエキスパートレベルに到達した画期的な成果。"
-  },
-  {
-    "title": "ティム・クック15年の「代表作」5選--Apple WatchからAirTagまで　ジョブズ後を牽引",
-    "link": "https://japan.cnet.com/article/35246764/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "米Appleが4月20日、2026年9月付けでティム・クックCEOが退任する人事を発表した。15年にわたった「クック時代」は、同社のプロダクトラインとサービス群が一気に広がった時代でもあった。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35246764/\"><img src=\"https://japan.cnet.com/storage/2026/04/23/00d3dc392856dc1154131fbddac8d0d9/t/184/138/d/apple-ipad-chicago-tim-cook-9429__1_.jpeg\" /></a>",
-    "image": "https://japan.cnet.com/storage/2026/04/23/00d3dc392856dc1154131fbddac8d0d9/t/184/138/d/apple-ipad-chicago-tim-cook-9429__1_.jpeg",
-    "fetched_at": "2026-04-23 08:05:20",
-    "ja_summary": "・Appleのティム・クックCEOが2026年9月に退任することが決定。\n・在任15年間でApple WatchやAirTagなど製品・サービスを大幅に拡充。\n・ジョブズ後のAppleを牽引し、同社のラインアップを大きく進化させた時代となった。"
   }
 ]
