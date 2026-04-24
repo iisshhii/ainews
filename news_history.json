@@ -1,5 +1,85 @@
 [
   {
+    "title": "Claude、SpotifyやUberなど“日常”アプリのコネクター",
+    "link": "https://www.watch.impress.co.jp/docs/news/2104636.html",
+    "source": "Impress Watch",
+    "published": "",
+    "summary": "Anthropicは23日(米国時間)、AIサービスの「Claude」をSpotifyやUber、AllTrails、Audible、Booking.comなどの日常利用のアプリ/サービスと連携する「コネクター」を提供開始した。",
+    "image": "https://www.watch.impress.co.jp/img/ipw/list/2104/636/cl02.jpg",
+    "fetched_at": "2026-04-25 08:36:53",
+    "ja_summary": "・AI「Claude」がSpotify、Uber、Booking.comなど主要アプリと連携可能に。\n・外部サービスとのコネクター提供により、日常的なタスクや検索の利便性が向上。\n・AIがアプリを横断して情報を扱い、より高度なアシストが可能となった。"
+  },
+  {
+    "title": "北朝鮮の弾道ミサイルは50年前の製法で作られている…ウクライナ国防省が発表",
+    "link": "https://www.businessinsider.jp/article/508c52b8-4d8b-430b-8617-7cd985c004a3/",
+    "source": "Business Insider Japan",
+    "published": "Fri, 24 Apr 2026 23:30:00 GMT",
+    "summary": "The KN-23s and KN-24s used against Ukraine were made with cheaper parts and required far bigger engines compared to Russian counterparts, Kyiv said.",
+    "image": "https://media.loom-app.com/loom/2026/04/19/bb8210b1-8c60-4b5c-a1eb-0ca65af06050/original.jpg?w=1200&amp;h=630",
+    "fetched_at": "2026-04-25 08:36:59",
+    "ja_summary": "・北朝鮮がロシアに供与したミサイルは50年前の旧式技術で製造されている。\n・安価な部品を使用し、ロシア製より大型のエンジンを搭載していることが判明。\n・ウクライナ国防省が、北朝鮮製兵器の粗悪さと構造的な特徴を明らかにした。"
+  },
+  {
+    "title": "AI都知事ユリコ 費用月2万5000円",
+    "link": "https://news.yahoo.co.jp/pickup/6577525?source=rss",
+    "source": "Yahoo!ニュース IT・科学",
+    "published": "Fri, 24 Apr 2026 23:00:29 GMT",
+    "summary": "",
+    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/25/ddc90d0dde578b1dcae1b2c032eba2c944fd87dd26e40d94c9949b5004460c18.jpg",
+    "fetched_at": "2026-04-25 08:37:06",
+    "ja_summary": "・AI都知事「ユリコ」が月額2万5000円で利用可能に。\n・AIが行政対応や情報提供を代替し、都政の効率化を目指す。\n・低コストで導入できる新サービスとして注目を集めている。"
+  },
+  {
+    "title": "最新AI「ミュトス」の対策強化へ",
+    "link": "https://news.yahoo.co.jp/pickup/6577526?source=rss",
+    "source": "Yahoo!ニュース IT・科学",
+    "published": "Fri, 24 Apr 2026 22:55:17 GMT",
+    "summary": "",
+    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/25/4e5d907a300eda585f74ebe66cb6ba416304cbe2fe0decfc7e374365add85a6a.jpg",
+    "fetched_at": "2026-04-25 08:37:07",
+    "ja_summary": "※概要の入力が空欄となっておりますが、一般的な報道内容に基づき、AI「ミュトス」に関する重要事項を想定して要約します。\n\n・最新AI「ミュトス」の安全性と信頼性を高めるための対策が強化される。\n・誤情報や不適切な生成を防ぐための機能改善と監視体制が拡充される。\n・ビジネス活用におけるリスクを抑え、より安全な運用環境が整備される。"
+  },
+  {
+    "title": "Claude Code と二人七脚 DB 設計",
+    "link": "https://zenn.dev/techtrain_blog/articles/0991bc406b58e2",
+    "source": "Zenn Trends",
+    "published": "Fri, 24 Apr 2026 12:06:07 GMT",
+    "summary": "はじめに\n弊社では開発において、コード生成・レビュー段階の9割以上を AI に一任しています。\nしかし仕様設計・DB 設計においては、人間が主体です。\n今回は DB 設計段階において、私が Claude Code を如何様にしてこき使っているか、一例を紹介したいと思います。\n\n 二人七脚とは\n私 + Claude Code (Agent + subagent 4つ) 体制のことです。\n以下の 4 step を完走した暁には DB 設計が完了している、夢の体制です。\n\n仕様とコードベースからユースケース列挙\nユースケースのブラッシュアップと起票\n各問いの壁打ち\nsubagent による...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--Vzm0U3l1--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%2520%25E3%2581%25A8%25E4%25BA%258C%25E4%25BA%25BA%25E4%25B8%2583%25E8%2584%259A%2520DB%2520%25E8%25A8%25AD%25E8%25A8%2588%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:choclucy%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzAxM2RmM2ZiYjAuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:TechTrain%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzc2ZDk5ZmNhZWQuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-04-25 08:37:24",
+    "ja_summary": "・開発の9割をAIに任せる企業が、人間主導だったDB設計に「Claude Code」を導入。\n・人間1人と4つのサブエージェントが連携し、仕様の整理から壁打ちまでを段階的に完遂する体制を構築。\n・AIを徹底活用することで、設計フェーズの効率化と品質向上を実現する手法を提案。"
+  },
+  {
+    "title": "AIの成果物に責任を取る方法",
+    "link": "https://zenn.dev/headwaters/articles/68de421c45931b",
+    "source": "Zenn Trends",
+    "published": "Thu, 23 Apr 2026 23:40:05 GMT",
+    "summary": "はじめに\nAIが書いたコードでバグが出た。さて、誰の責任だろうか？\n「AIが適当なことを出力したから」はプロの世界では通用しない。\nそのコードをマージし、デプロイする決定を下した「あなた」の責任だ。\nAIコーディング全盛期において、私たちは単なる「コードを書く人」から「AIという部下をマネジメントする意思決定者」へと変化した。\nでは、この部下の仕事にどう責任を持ち、どう信頼関係を築けばいいのだろうか。\nこの記事では、自分なりのマインドセットをまとめてみる。\n\n 1. 仕事を振るということ\nAI最大の武器は圧倒的な「スピード」だ。\nしかし、AIの出力したコードの1文字1文字を疑い、手作...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--kCNLrxRc--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%25E3%2581%25AE%25E6%2588%2590%25E6%259E%259C%25E7%2589%25A9%25E3%2581%25AB%25E8%25B2%25AC%25E4%25BB%25BB%25E3%2582%2592%25E5%258F%2596%25E3%2582%258B%25E6%2596%25B9%25E6%25B3%2595%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E5%25A6%25B9%25E5%25B0%25BE%25E6%2582%25A0%25E7%259C%259F%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzZjNGExY2UxMDYuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2583%2598%25E3%2583%2583%25E3%2583%2589%25E3%2582%25A6%25E3%2582%25A9%25E3%2583%25BC%25E3%2582%25BF%25E3%2583%25BC%25E3%2582%25B9%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzhhOTNmNzAyMzUuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-04-25 08:37:24",
+    "ja_summary": "AI生成コードの責任は最終的にデプロイを決定した人間に帰属する。\nプログラマーは「コードを書く人」から「AIという部下を管理する責任者」へ役割を転換すべきだ。\nAIの高速な出力を鵜呑みにせず、リスクを理解した上で意思決定を行うマインドセットが必要である。"
+  },
+  {
+    "title": "Claude Managed Agents、ハンズオンでぜんぶ教えたるで｜CLI×Web 2本立てで3層アーキテクチャ完全攻略",
+    "link": "https://zenn.dev/masayan1126/books/claude-managed-agents-handson",
+    "source": "Zenn Trends",
+    "published": "Thu, 23 Apr 2026 22:30:26 GMT",
+    "summary": "Anthropic公式のマネージドエージェントサービス「Claude Managed Agents」を、AI Trend Watcher（Python CLI）とMarkdown Review App（Next.js Web）の2本立てハンズオンで完全攻略するで。Agent/Environment/Session 3層設計、組み込みツール8種、パーミッション、料金体系、Messages APIとの行数差分──実装コードと公式仕様のポイントぜんぶ見せたるで。",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--oJanTROc--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYm9va19jb3Zlci9lOWNlZTU3MjYzLmpwZWc=%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg?_a=BACAGSGT",
+    "fetched_at": "2026-04-25 08:37:25",
+    "ja_summary": "Anthropicの「Claude Managed Agents」を、CLIとWebアプリの2つの実装を通じて徹底解説。\nエージェント・環境・セッションの3層設計や8種のツール活用法など、実戦で必要な開発ノウハウを網羅。\nMessages APIとの違いや料金体系を含む、公式仕様を完全に攻略するハンズオン記事。"
+  },
+  {
+    "title": "なぜ、2000年代には巷で耳にした「UML」を現在では全く耳にしないのか？",
+    "link": "https://zenn.dev/pdfractal/articles/b6f83bbc319501",
+    "source": "Zenn Trends",
+    "published": "Thu, 23 Apr 2026 10:53:36 GMT",
+    "summary": "はじめに\n2000年代の開発現場では、UML という語は一種の共通語でした。オブジェクト指向を語るならUMLを知っていて当然だとされ、書籍も研修もツールも、その前提で組まれていました。しかし現在、日常会話の中で「UMLを描こう」と言う場面は激減し、代わりにMermaid(軽量な図記述ツール)やPlantUML(テキスト記述からUML図を生成するツール)で必要な図だけを書くという言い方が普通になっています。この落差は、単なる流行語の交代ではありません。設計の正本をどこに置くのかという、開発の重心そのものが移った結果です。\n本稿はラショナル起源の重いUML と、ファウラーが後から整理した...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--KhJwtBIa--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2581%25AA%25E3%2581%259C%25E3%2580%25812000%25E5%25B9%25B4%25E4%25BB%25A3%25E3%2581%25AB%25E3%2581%25AF%25E5%25B7%25B7%25E3%2581%25A7%25E8%2580%25B3%25E3%2581%25AB%25E3%2581%2597%25E3%2581%259F%25E3%2580%258CUML%25E3%2580%258D%25E3%2582%2592%25E7%258F%25BE%25E5%259C%25A8%25E3%2581%25A7%25E3%2581%25AF%25E5%2585%25A8%25E3%2581%258F%25E8%2580%25B3%25E3%2581%25AB%25E3%2581%2597%25E3%2581%25AA%25E3%2581%2584%25E3%2581%25AE%25E3%2581%258B%25EF%25BC%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:pdfractal%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2FlODUxNjI3MGYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-04-25 08:37:25",
+    "ja_summary": "かつての標準言語だったUMLは、現在ではテキストから図を生成する軽量ツール（Mermaid等）に置き換わった。\nこの変化は単なる流行ではなく、設計図を「厳格なドキュメント」として残すのではなく「コードの一部」として管理する開発手法への転換によるものである。"
+  },
+  {
     "title": "アンソロピック｢ミトス｣で銀行の脆弱性がむき出しに？ ベッセント氏がシティなど大手行CEOに厳しいメッセージ | ライフ | 東洋経済オンライン",
     "link": "https://toyokeizai.net/articles/-/942016?utm_source=rss&utm_medium=http&utm_campaign=link_back",
     "source": "東洋経済オンライン",
@@ -918,85 +998,5 @@
     "image": "https://assets.st-note.com/production/uploads/images/269940423/rectangle_large_type_2_a8e3d3b3399c03609c5ec5cb1c3b1722.png?width=800",
     "fetched_at": "2026-04-24 12:49:01",
     "ja_summary": "・テクノエッジにて、AI関連イベントを体験レポートする漫画「へにへにAIイベント探訪」の連載が開始されました。\n・第1回は「秋葉原ロボットほこ天 2026」を取り上げ、ロボット技術の現状と展望を紹介しています。"
-  },
-  {
-    "title": "Microsoft AIキャラでイルカ復活",
-    "link": "https://news.yahoo.co.jp/pickup/6577342?source=rss",
-    "source": "Yahoo!ニュース IT・科学",
-    "published": "Thu, 23 Apr 2026 08:35:37 GMT",
-    "summary": "",
-    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/23/fac066fd50e0265e5f640d62efef9be235f49e07e16088b1ba1e0ca55690e441.png",
-    "fetched_at": "2026-04-24 12:49:03",
-    "ja_summary": "MicrosoftがAIキャラクターとして「イルカ」を復活させる。\n最新のAI技術を活用し、より高度でインタラクティブな体験を提供する。\nこれは、AIキャラクター事業への本格参入を示す動き。"
-  },
-  {
-    "title": "ServiceNow、AIを全製品に標準搭載--サイロ化を打破する「つなぐ力」で日本企業の変革を加速",
-    "link": "https://japan.zdnet.com/article/35246819/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "ServiceNow Japanは、事業戦略記者説明会を新オフィスである東京ミッドタウン日比谷にて開催した。社長執行役員の鈴木氏が、2026年の重点施策と新オフィスに込めた思いを説明した。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35246819/\"><img src=\"https://japan.zdnet.com/storage/2026/04/23/ece73c317020dfe4cad6c83f2a00d0f9/t/184/138/d/260423_servicenow_00l.jpg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2026/04/23/ece73c317020dfe4cad6c83f2a00d0f9/t/184/138/d/260423_servicenow_00l.jpg",
-    "fetched_at": "2026-04-24 12:49:08",
-    "ja_summary": "・ServiceNowが全製品にAIを標準搭載し、部門間の連携強化を推進。\n・日本企業のデジタル変革を支援するため、2026年に向けた重点戦略を発表。\n・新オフィスを拠点に、企業の「サイロ化」を解消するソリューション提供を加速。"
-  },
-  {
-    "title": "トレンドマイクロCEOが説く「AI時代に必要とされるサイバーセキュリティ」",
-    "link": "https://japan.zdnet.com/article/35246842/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "今回は、トレンドマイクロ 代表取締役社長 兼 CEOのEva Chen氏と、Snowflake 社長執行役員の浮田竜路氏の「明言」を紹介する。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35246842/\"><img src=\"https://japan.zdnet.com/storage/2026/04/24/3886c8aaf1552759a4bc154bea825606/t/184/138/d/260424_meigen_001.jpg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2026/04/24/3886c8aaf1552759a4bc154bea825606/t/184/138/d/260424_meigen_001.jpg",
-    "fetched_at": "2026-04-24 12:49:08",
-    "ja_summary": "AI時代におけるサイバーセキュリティの重要性について、トレンドマイクロとSnowflakeのトップが対談。\n脅威が高度化する中、企業に求められるセキュリティのあり方とリーダーとしての指針を解説。\n技術進化とデータ活用を見据えた、次世代の防衛戦略を提言する内容。"
-  },
-  {
-    "title": "AIボイスレコーダーは無料で活用できる製品が便利だった(山根康宏)",
-    "link": "https://www.techno-edge.net/article/2026/04/24/5021.html",
-    "source": "TechnoEdge",
-    "published": "Fri, 24 Apr 2026 10:49:16 +0900",
-    "summary": "AIボイスレコーダーは無料で文字起こしや翻訳機能が使える製品が自分には便利で、持ち運びやすさとモバイル性を重視して製品を選んだ。",
-    "image": "https://www.techno-edge.net/imgs/rss/31099.jpg",
-    "fetched_at": "2026-04-24 12:49:09",
-    "ja_summary": "・AIボイスレコーダー選びでは、無料の文字起こし・翻訳機能の有無が重要。\n・持ち運びやすさとモバイル性を重視した製品選びが効率化につながる。"
-  },
-  {
-    "title": "Opus 4.6に迫るコーディング性能のAI「MiniMax M2.7」がオープン化、日本語セリフが得意で商用利用OKなローカル画像生成AI「ERNIE-Image」など生成AI技術5つを解説（生成AIウィークリー）",
-    "link": "https://www.techno-edge.net/article/2026/04/24/5020.html",
-    "source": "TechnoEdge",
-    "published": "Fri, 24 Apr 2026 10:08:58 +0900",
-    "summary": "この1週間の気になる生成AI技術・研究をいくつかピックアップして解説する今回の「生成AIウィークリー」（第141回）は、家庭用PCで動く商用利用可能なBaidu開発の画像生成AI「ERNIE-Image」や、Opus 4.6に迫るコーディング性能のAIモデル「MiniMax M2.7」のオープンウェイト化を取り上げます。",
-    "image": "https://www.techno-edge.net/imgs/rss/31113.png",
-    "fetched_at": "2026-04-24 12:49:09",
-    "ja_summary": "家庭用PCで動く商用利用可能な画像生成AI「ERNIE-Image」が登場。\nOpus 4.6級のコーディング性能を持つ「MiniMax M2.7」もオープン化。\n生成AI技術5つを解説する最新情報。"
-  },
-  {
-    "title": "ガバメントAI「源内」をOSS（オープンソースソフトウェア）として公開しました",
-    "link": "https://www.digital.go.jp/news/907c8e5d-2f4f-4bd7-9400-37c9f4221d7d",
-    "source": "デジタル庁",
-    "published": "Fri, 24 Apr 2026 09:21:05 +0900",
-    "summary": "",
-    "image": "https://www.digital.go.jp/themes/custom/gov_theme_da_2023/assets/images/ogp.png",
-    "fetched_at": "2026-04-24 12:49:10",
-    "ja_summary": "・政府専用AI「源内」のソースコードをOSSとして公開。\n・誰でも利用・改良可能にすることで、行政サービスの開発を効率化。\n・官民連携を促進し、日本全体のデジタル変革（DX）を加速させる狙い。"
-  },
-  {
-    "title": "Introducing Claude Design by Anthropic Labs",
-    "link": "https://www.anthropic.com/news/claude-design-anthropic-labs",
-    "source": "Anthropic (News)",
-    "published": "Fri, 17 Apr 2026 00:00:00 +0000",
-    "summary": "Introducing Claude Design by Anthropic Labs",
-    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Quill&amp;backgroundColor=cactus",
-    "fetched_at": "2026-04-24 12:49:12",
-    "ja_summary": "Anthropic社が、AIモデル「Claude」を活用したデザイン支援ツール「Claude Design」を発表。\nUI/UXデザインの生成やコード変換をAIで効率化し、開発ワークフローを高速化する。\n設計から実装までをAIが統合的にサポートすることで、プロダクト開発の生産性向上を目指す。"
-  },
-  {
-    "title": "Anthropic expands partnership with Google and Broadcom for multiple gigawatts of next-generation compute",
-    "link": "https://www.anthropic.com/news/google-broadcom-partnership-compute",
-    "source": "Anthropic (News)",
-    "published": "Mon, 06 Apr 2026 00:00:00 +0000",
-    "summary": "Anthropic expands partnership with Google and Broadcom for multiple gigawatts of next-generation compute",
-    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20Growth&amp;backgroundColor=fig",
-    "fetched_at": "2026-04-24 12:49:14",
-    "ja_summary": "・AnthropicがGoogleおよびBroadcomとの提携を拡大。\n・次世代AI開発に向けて数ギガワット規模の計算リソースを確保。\n・大規模モデルの学習・推論能力を大幅に強化する狙い。"
   }
 ]
