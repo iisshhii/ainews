@@ -1,5 +1,25 @@
 [
   {
+    "title": "販売員の「個人ノルマなし」──ファンケルが進める接客教育DX　「売らない勇気」をAIは教えられるか",
+    "link": "https://www.itmedia.co.jp/business/articles/2604/24/news021.html",
+    "source": "ITmedia ビジネス",
+    "published": "Fri, 24 Apr 2026 08:00:00 +0900",
+    "summary": "ファンケルは、顧客対応を学ぶロールプレイングにAIを導入し、新卒研修にも活用を広げる。接客スキルだけでなく、企業の価値観までAIは教えられるのか。現場で起きている変化と、その効果に迫る。",
+    "image": "https://image.itmedia.co.jp/business/articles/2604/24/cover_news021.jpg",
+    "fetched_at": "2026-04-25 01:37:18",
+    "ja_summary": "・ファンケルが接客研修にAIを導入し、新卒教育にも活用を拡大。\n・「個人ノルマなし」という方針のもと、AIで接客スキルと企業価値観の定着を図る。\n・「売らない接客」を実現するためのAI教育の効果が現場で注目されている。"
+  },
+  {
+    "title": "Anthropic and Amazon expand collaboration for up to 5 gigawatts of new compute",
+    "link": "https://www.anthropic.com/news/anthropic-amazon-compute",
+    "source": "Anthropic (News)",
+    "published": "Mon, 20 Apr 2026 00:00:00 +0000",
+    "summary": "Anthropic and Amazon expand collaboration for up to 5 gigawatts of new compute",
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20Stairs&amp;backgroundColor=cactus",
+    "fetched_at": "2026-04-25 01:38:09",
+    "ja_summary": "・AmazonとAnthropicが提携を拡大し、AI開発に向け最大5ギガワットの計算能力を確保。\n・次世代AIモデルの開発に必要な膨大なインフラ提供で、両社の技術連携を強化。\n・両社のインフラ投資により、AI競争における計算資源の囲い込みが加速。"
+  },
+  {
     "title": "米Anthropicが封印した「ミトス」の衝撃　なぜ、AI対AIの時代が来るのか",
     "link": "https://www.itmedia.co.jp/business/articles/2604/24/news009.html",
     "source": "ITmedia ビジネス",
@@ -978,25 +998,5 @@
     "image": "https://files.speakerdeck.com/presentations/7d2d24ab527b4b0b8936d5d26b560926/preview_slide_0.jpg?39204077",
     "fetched_at": "2026-04-24 12:49:17",
     "ja_summary": "・AI生成コードは脆弱性や悪意ある混入のリスクがあるため、そのまま導入せず徹底したコードレビューが不可欠。\n・公開ライブラリやAIが出力したコードの依存関係を可視化し、信頼性を検証するツールを活用すること。\n・セキュリティを確保するには「AIを盲信せず、人間が適切に監視・管理する体制」を構築することが重要。"
-  },
-  {
-    "title": "Do Vibe Coding ao LLM em Produção para Busca Agêntica - TDC 2026 - Summit IA - São Paulo",
-    "link": "https://speakerdeck.com/jpbonson/do-vibe-coding-ao-llm-em-producao-para-busca-agentica-tdc-2026-summit-ia-sao-paulo",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-04-23T21:32:55-04:00",
-    "summary": "Construir uma POC com LLMs é fácil. Operar isso em produção, com latência previsível e custo controlado, é outra história. Nesta palestra, compartilho a jornada de transformar um experimento de Busca Agêntica em uma aplicação robusta, discutindo decisões técnicas que funcionaram, decisões que precisaram ser revistas, e compromissos inevitáveis entre qualidade, custo e performance. Abordo LLMOps, observabilidade, controle de latência, caching, resiliência, monitoramento e avaliação de modelos, com foco em como esses aspectos se influenciam mutuamente em sistemas em tempo real.",
-    "image": "https://files.speakerdeck.com/presentations/7dc0825a2bc6421995202ec49f9dd922/preview_slide_0.jpg?39203775",
-    "fetched_at": "2026-04-24 12:49:17",
-    "ja_summary": "・LLMのプロトタイプを実運用レベルの堅牢な検索システムへ昇華させる手法を解説。\n・低遅延・低コスト・高パフォーマンスを両立させるための技術的判断と改善プロセスを共有。\n・LLMOps、監視、キャッシュ、評価モデル等の実運用における最適化戦略と注意点を網羅。"
-  },
-  {
-    "title": "今年注目する！データ分析プラットフォームでのAIの活用",
-    "link": "https://speakerdeck.com/nayuts/jin-nian-zhu-mu-suru-detafen-xi-puratutohuomudenoainohuo-yong",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-04-23T21:16:28-04:00",
-    "summary": "「クラメソおおさか IT 勉強会 Midosuji Tech 〜年度始め宣言LT大会〜」で登壇した内容です。\nhttps://classmethod.connpass.com/event/388687/",
-    "image": "https://files.speakerdeck.com/presentations/20fbc42e955b4b4daa44a581ff98f5e8/preview_slide_0.jpg?39203608",
-    "fetched_at": "2026-04-24 12:49:17",
-    "ja_summary": "・データ分析プラットフォームにおける最新のAI活用手法と導入メリットを解説。\n・「Midosuji Tech」での登壇内容に基づき、実務で役立つ分析環境の構築法を紹介。\n・企業のデータ活用を加速させるAI活用のポイントを簡潔に提示。"
   }
 ]
