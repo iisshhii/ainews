@@ -1,5 +1,25 @@
 [
   {
+    "title": "アンソロピック｢ミトス｣で銀行の脆弱性がむき出しに？ ベッセント氏がシティなど大手行CEOに厳しいメッセージ | ライフ | 東洋経済オンライン",
+    "link": "https://toyokeizai.net/articles/-/942016?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+    "source": "東洋経済オンライン",
+    "published": "Sat, 25 Apr 2026 07:00:00 +0900",
+    "summary": "アンソロピックの新たなAIモデルでサイバー攻撃のリスクが高まる可能性がある――。アメリカの大手銀行の一部トップが､政府の上層部から警告を受けました。",
+    "image": "https://tk.ismcdn.jp/mwimgs/b/6/1200w/img_b6d579c5181b3322d0c0fb8104c71777122812.jpg?nextgen=false",
+    "fetched_at": "2026-04-25 07:56:44",
+    "ja_summary": "・アンソロピックの新型AIがサイバー攻撃に悪用されるリスクを政府が警告\n・米大手銀行のCEOに対し、銀行システムの脆弱性への早急な対策を要請\n・金融インフラへの脅威が現実味を帯びる中、業界全体での防御強化が急務"
+  },
+  {
+    "title": "[2026年4月版] 生成AIによる情報システムへのインパクト",
+    "link": "https://speakerdeck.com/taka_aki/2026nian-4yue-ban-sheng-cheng-ainiyoruqing-bao-sisutemuhenoinpakuto",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-04-24T18:18:51-04:00",
+    "summary": "工学院大学での講義に使用した資料です。\n\n【事前準備】生成AIによる情報システムへのインパクト #Databricks - Qiita https://qiita.com/taka_yayoi/private/84c49a3491dca9a680c7\n【事後課題】生成AIによる情報システムへのインパクト #Databricks - Qiita https://qiita.com/taka_yayoi/private/7fe9ad5cdac8541988ab",
+    "image": "https://files.speakerdeck.com/presentations/8661b0ca6e7c461a8fcf761fb851d196/preview_slide_0.jpg?39216412",
+    "fetched_at": "2026-04-25 07:57:43",
+    "ja_summary": "工学院大学の講義資料として、生成AIが情報システムにもたらす変化と影響を解説。\n事前準備と事後課題の構成で、Databricksを活用した実践的な視点から学習できる。\n生成AI時代におけるシステム開発の現在地と将来像を体系的に整理した内容。"
+  },
+  {
     "title": "販売員の「個人ノルマなし」──ファンケルが進める接客教育DX　「売らない勇気」をAIは教えられるか",
     "link": "https://www.itmedia.co.jp/business/articles/2604/24/news021.html",
     "source": "ITmedia ビジネス",
@@ -978,25 +998,5 @@
     "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20Growth&amp;backgroundColor=fig",
     "fetched_at": "2026-04-24 12:49:14",
     "ja_summary": "・AnthropicがGoogleおよびBroadcomとの提携を拡大。\n・次世代AI開発に向けて数ギガワット規模の計算リソースを確保。\n・大規模モデルの学習・推論能力を大幅に強化する狙い。"
-  },
-  {
-    "title": "Claude Managed Agents、ハンズオンでぜんぶ教えたるで｜CLI×Web 2本立てで3層アーキテクチャ完全攻略",
-    "link": "https://zenn.dev/masayan1126/books/claude-managed-agents-handson",
-    "source": "Zenn Trends",
-    "published": "Thu, 23 Apr 2026 22:30:26 GMT",
-    "summary": "Anthropic公式のマネージドエージェントサービス「Claude Managed Agents」を、AI Trend Watcher（Python CLI）とMarkdown Review App（Next.js Web）の2本立てハンズオンで完全攻略するで。Agent/Environment/Session 3層設計、組み込みツール8種、パーミッション、料金体系、Messages APIとの行数差分──実装コードと公式仕様のポイントぜんぶ見せたるで。",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--oJanTROc--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYm9va19jb3Zlci9lOWNlZTU3MjYzLmpwZWc=%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg?_a=BACAGSGT",
-    "fetched_at": "2026-04-24 12:49:15",
-    "ja_summary": "Anthropicの「Claude Managed Agents」を、CLIとWebアプリの2つの実装を通じて網羅的に解説。\nAgent・Environment・Sessionの3層設計やツール活用法、公式APIの仕様までを実践的に習得可能。\n開発現場で即役立つ、実装コードと重要ポイントを凝縮したハンズオンガイド。"
-  },
-  {
-    "title": "AIコーディング時代における、ソフトウェアサプライチェーン攻撃に対する防衛術（簡易版）",
-    "link": "https://speakerdeck.com/soysoysoyb/defense-strategies-against-software-supply-chain-attacks-in-the-ai-coding-era",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-04-23T22:45:17-04:00",
-    "summary": "「AIコーディング時代における、ソフトウェアサプライチェーン攻撃に対する防衛術」から初心者向けに内容を調整したもの\nhttps://qiita.com/SoySoySoyB/items/ff885e6de32c8e3e09c4",
-    "image": "https://files.speakerdeck.com/presentations/7d2d24ab527b4b0b8936d5d26b560926/preview_slide_0.jpg?39204077",
-    "fetched_at": "2026-04-24 12:49:17",
-    "ja_summary": "・AI生成コードは脆弱性や悪意ある混入のリスクがあるため、そのまま導入せず徹底したコードレビューが不可欠。\n・公開ライブラリやAIが出力したコードの依存関係を可視化し、信頼性を検証するツールを活用すること。\n・セキュリティを確保するには「AIを盲信せず、人間が適切に監視・管理する体制」を構築することが重要。"
   }
 ]
