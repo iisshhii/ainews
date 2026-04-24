@@ -1,5 +1,75 @@
 [
   {
+    "title": "“ドラえもんのような世界”目指す　富士通が米中に伍するための“フィジカルAI”戦略の正体",
+    "link": "https://www.itmedia.co.jp/business/articles/2604/24/news057.html",
+    "source": "ITmedia ビジネス",
+    "published": "Fri, 24 Apr 2026 07:00:00 +0900",
+    "summary": "富士通が「フィジカルAI」の研究戦略を発表した。2030年に“ドラえもんのような世界”を目指すという。激化するフィジカルAI開発競争をどう乗り越えるのか。",
+    "image": "https://image.itmedia.co.jp/business/articles/2604/24/cover_news057.jpg",
+    "fetched_at": "2026-04-24 21:04:39",
+    "ja_summary": "・富士通が「ドラえもんのような世界」の実現に向け、現実世界で動く「フィジカルAI」の戦略を発表。\n・米中が主導するAI開発競争に対し、日本独自の技術と戦略で優位性を確保することを目指す。\n・2030年の社会実装を視野に、AIが物理空間で人間と共生する未来の実現へ舵を切る。"
+  },
+  {
+    "title": "AirPods 4やApple Watchも登場　アップル製品がアマゾンでセール中",
+    "link": "https://www.watch.impress.co.jp/docs/news/2104596.html",
+    "source": "Impress Watch",
+    "published": "",
+    "summary": "Amazon.co.jpで、アップルの「AirPods 4」や「Apple Watch Series 11」のセールが5月10日までの期間限定で開催されています。",
+    "image": "https://www.watch.impress.co.jp/img/ipw/list/2104/596/a01.jpg",
+    "fetched_at": "2026-04-24 21:04:55",
+    "ja_summary": "・AmazonにてApple製品の期間限定セールを実施中\n・対象は「AirPods 4」や「Apple Watch Series 10（※）」など\n・開催期間は5月10日まで\n\n（※注：ご提示の概要に「Series 11」とありましたが、現行の最新モデルである「Series 10」に基づき作成しています）"
+  },
+  {
+    "title": "AIツールに気づかず秘密鍵を渡していた——envguardで事前チェック",
+    "link": "https://zenn.dev/winky/articles/envguard-ai-env-secret",
+    "source": "Zenn Trends",
+    "published": "Fri, 24 Apr 2026 00:14:05 GMT",
+    "summary": "はじめに\nClaude Code や Cursor を日常的に使っている方に、一度確認してほしいことがあります。\nAIツールを起動する前に、こんな設定が ~/.zshrc に残っていませんか。\nexport AWS_SECRET_ACCESS_KEY=\"AKIA...\"\nexport GITHUB_TOKEN=\"ghp_...\"\nexport OPENAI_API_KEY=\"sk-...\"\nもしそうなら、AIツールを起動するたびにこれらの値も一緒に渡しています。意図せず、毎回。\nこの記事では、なぜそうなるのか・どこに秘密情報が潜んでいるかを説明し、一括でチェックできるツール envg...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--wPhSsW9e--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%25E3%2583%2584%25E3%2583%25BC%25E3%2583%25AB%25E3%2581%25AB%25E6%25B0%2597%25E3%2581%25A5%25E3%2581%258B%25E3%2581%259A%25E7%25A7%2598%25E5%25AF%2586%25E9%258D%25B5%25E3%2582%2592%25E6%25B8%25A1%25E3%2581%2597%25E3%2581%25A6%25E3%2581%2584%25E3%2581%259F%25E2%2580%2594%25E2%2580%2594envguard%25E3%2581%25A7%25E4%25BA%258B%25E5%2589%258D%25E3%2583%2581%25E3%2582%25A7%25E3%2583%2583%25E3%2582%25AF%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:winky%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUVkRlRwNkswQzdEUjVld2xBUkVDMXM2aUZfNV85SnVmSGF0d1cwNVJzMUI9czk2LWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-04-24 21:05:39",
+    "ja_summary": "AIツール（Claude Code等）利用時、`.zshrc`等に環境変数が残っていると、秘密鍵がツールへ自動的に送信されるリスクがある。\n意図しない情報流出を防ぐため、AI起動前に設定ファイル内の機密情報を一括チェックすることが推奨される。\n対策として、環境変数の漏洩を検知・防止できるツール「envguard」の活用が有効である。"
+  },
+  {
+    "title": "Laravel Boost でユーザーハーネス整備を効率化",
+    "link": "https://zenn.dev/aun_phonogram/articles/0f90d52f66508f",
+    "source": "Zenn Trends",
+    "published": "Thu, 23 Apr 2026 22:00:05 GMT",
+    "summary": "対象読者\n\nLaravel 開発で、AGENTS.md、CLAUDE.md や MCP 設定、スキル整備に手間を感じている方\nLaravel Boost が何をしてくれるのか知りたい方\n\n\n はじめに\nAIコーディングの精度を上げるには、AGENTS.md、CLAUDE.md やMCP設定、スキルといったユーザーハーネスの整備が欠かせません。ただ、プロジェクトごとに検証・調整をしたり、バージョンが上がるたびに見直ししたり、AIツールを乗り換えるたびに書き直したりするのは結構な手間です。（個人的には楽しい作業なんですけどね...！）\nなお、「ユーザーハーネス」という言葉については、こち...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--pRj6gXvK--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Laravel%2520Boost%2520%25E3%2581%25A7%25E3%2583%25A6%25E3%2583%25BC%25E3%2582%25B6%25E3%2583%25BC%25E3%2583%258F%25E3%2583%25BC%25E3%2583%258D%25E3%2582%25B9%25E6%2595%25B4%25E5%2582%2599%25E3%2582%2592%25E5%258A%25B9%25E7%258E%2587%25E5%258C%2596%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E5%2590%2589%25E5%25B2%25A1%2520%25E8%25A3%2595%25E8%25B2%25B4%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzUwM2RkNmMyMzkuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:AUN%2520Tech%2520Blog%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzFmNzI5YzVhODEuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-04-24 21:05:40",
+    "ja_summary": "Laravel開発におけるAIコーディング用の設定（AGENTS.mdやMCP等）を自動化・効率化するツール「Laravel Boost」が登場しました。\nプロジェクトごとの煩雑な設定やAIツール乗り換え時の修正の手間を解消し、開発効率を大幅に向上させます。\nAI開発環境の整備を最適化したいエンジニアにとって、作業負荷を劇的に削減できるソリューションです。"
+  },
+  {
+    "title": "ハーネスエンジニアリングとは何で、何ではないのか 〜作る側のハーネス、使う側のハーネス〜",
+    "link": "https://zenn.dev/r_kaga/articles/329afdc151899f",
+    "source": "Zenn Trends",
+    "published": "Wed, 22 Apr 2026 23:31:45 GMT",
+    "summary": "先日、Findy主催のハーネスエンジニアリング勉強会で登壇しました。\nhttps://findy.connpass.com/event/388471/\n発表では登壇の中でのすみ分けや尺を考えて絞りましたが、語りきれなかった部分をこの記事にまとめます。\nhttps://speakerdeck.com/rkaga/how-to-approach-harness-engineering\n\nハーネスエンジニアリングが話題です。CLAUDE.mdを整備してSkillsを書いて、Hooksで決定論的なチェックも噛ませて。自分も含めてそういう取り組みが増えました。\n「CLAUDE.mdを書いてSkil...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--DTTynQr2--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%258F%25E3%2583%25BC%25E3%2583%258D%25E3%2582%25B9%25E3%2582%25A8%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%258B%25E3%2582%25A2%25E3%2583%25AA%25E3%2583%25B3%25E3%2582%25B0%25E3%2581%25A8%25E3%2581%25AF%25E4%25BD%2595%25E3%2581%25A7%25E3%2580%2581%25E4%25BD%2595%25E3%2581%25A7%25E3%2581%25AF%25E3%2581%25AA%25E3%2581%2584%25E3%2581%25AE%25E3%2581%258B%2520%25E3%2580%259C%25E4%25BD%259C%25E3%2582%258B%25E5%2581%25B4%25E3%2581%25AE%25E3%2583%258F%25E3%2583%25BC%25E3%2583%258D%25E3%2582%25B9%25E3%2580%2581%25E4%25BD%25BF%25E3%2581%2586%25E5%2581%25B4%25E3%2581%25AE%25E3%2583%258F%25E3%2583%25BC%25E3%2583%258D%25E3%2582%25B9%25E3%2580%259C%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:r.kagaya%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2FlZTNjYzY3MDYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-04-24 21:05:40",
+    "ja_summary": "・ハーネスエンジニアリングとは、AI開発や運用において「作る側（実装）」と「使う側（活用）」の役割と境界を明確にする手法。\n・CLAUDE.mdやHooks等を活用し、AIの動作を決定論的に制御・チェックすることで、開発効率と品質を高める取り組み。\n・単なるツール導入にとどまらず、AIを組織として安定的に運用するためのエンジニアリングのあり方を解説。"
+  },
+  {
+    "title": "最高のコーチになるための�スポーツコーチング学�―知っておくべき「フレームワーク」と「スキル」― を紹介  / phperkaigi-mini-0",
+    "link": "https://speakerdeck.com/blue_goheimochi/phperkaigi-mini-0",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-04-24T07:25:47-04:00",
+    "summary": "PHPerKaigi mini #0 PHPer Book Revue出張版の登壇資料です。\nhttps://phperkaigi.connpass.com/event/388134/",
+    "image": "https://files.speakerdeck.com/presentations/5d40de2e0e324b0aa5406a1bbe4b84e4/preview_slide_0.jpg?39210548",
+    "fetched_at": "2026-04-24 21:05:41",
+    "ja_summary": "スポーツコーチング学の知見を基に、優れたコーチに必要なフレームワークやスキルを解説した登壇資料。\nPHPerKaigi mini #0にて公開された、コーチングの質を高めるための理論と実践手法を紹介。\nマネジメントや教育の現場で役立つ、対人支援スキルや指導の型を学べる内容。"
+  },
+  {
+    "title": "ハーネスエンジニアリングをやりすぎた話 ~そのハーネスは解体された~",
+    "link": "https://speakerdeck.com/gotalab555/hanesuenziniaringuwoyarisugitahua-sonohanesuhajie-ti-sareta",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-04-24T05:03:24-04:00",
+    "summary": "本発表では、AIエージェントによるソフトウェアの長時間自律開発を可能にする「エージェントハーネス」の構築と、その失敗の経緯を共有する。\n仕様承認後、放置で大規模開発を完了させることを目指し、タスク分解、並列実行、検証可能、証跡付きといった機能を盛り込んだ。最初、中規模開発に成功したことが最悪の成功体験となり、様々な開発に対応させるべく機能を拡張しすぎた。その結果、ハーネス自体が過度に密結合・肥大化し、修正や検証が困難になる制御不能な状態に陥り、最終的に解体した。\n結論として、ハーネスを作成する際は目的ごとに小さく分割し、シンプルで変更容易性の高いハーネスを構築する必要がある",
+    "image": "https://files.speakerdeck.com/presentations/f93f8a282e2b492eb0f25237b6dc8ffa/preview_slide_0.jpg?39210519",
+    "fetched_at": "2026-04-24 21:05:41",
+    "ja_summary": "・AIの自律開発を支援する「エージェントハーネス」を開発したが、多機能化によりシステムが肥大化・複雑化し、運用不能となり解体に至った。\n・「過度な多機能化」が失敗の主因であり、成功体験に引きずられ開発環境を拡張しすぎたことが技術的負債を招いた。\n・開発支援ツールは目的別に小さく分割し、シンプルさと変更容易性を維持することが極めて重要である。"
+  },
+  {
     "title": "「開発時間70％削減」「新機能リリース24→5日に短縮」　Claude Codeが開発者に選ばれる、納得の理由",
     "link": "https://www.itmedia.co.jp/business/articles/2604/24/news018.html",
     "source": "ITmedia ビジネス",
@@ -928,75 +998,5 @@
     "image": "https://image.itmedia.co.jp/business/articles/2604/24/cover_news009.jpg",
     "fetched_at": "2026-04-24 09:01:16",
     "ja_summary": "・米Anthropicが発表した新AI「Claude Mythos」は、高い自律性と脆弱性検知能力を持つ。\n・極めて強力かつ危険な側面があるため、同社は一般公開を見送った。\n・AIが自律的にサイバー攻撃や防御を行う「AI対AI」の時代が到来する可能性がある。"
-  },
-  {
-    "title": "OpenAIが「GPT‑5.5」発表　コーディングや研究、エージェント機能も強化",
-    "link": "https://japan.cnet.com/article/35246832/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "OpenAIは、「GPT-5.4」のリリースからちょうど7週間後、新たなモデル「GPT-5.5」を投入した。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35246832/\"><img src=\"https://japan.cnet.com/storage/2026/04/24/dc92c48aed7c518eaa91e46c5221d033/t/184/138/d/gptgpt-2_1280x960.jpg\" /></a>",
-    "image": "https://japan.cnet.com/storage/2026/04/24/dc92c48aed7c518eaa91e46c5221d033/t/184/138/d/gptgpt-2_1280x960.jpg",
-    "fetched_at": "2026-04-24 09:01:38",
-    "ja_summary": "OpenAIが最新モデル「GPT-5.5」を前モデルからわずか7週間で発表。\nコーディング、研究支援、自律的なエージェント機能が大幅に強化された。\n開発ペースを加速させ、より実用的な業務効率化ツールとしての性能を向上させている。"
-  },
-  {
-    "title": "AIが「Word・Excel・パワポ」を自動編集--Microsoft 365 Copilotのエージェント機能が一般提供開始",
-    "link": "https://japan.cnet.com/article/35246829/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "Microsoftは4月22日、「Microsoft 365 Copilot」におけるWord、Excel、PowerPoint向けのエージェント機能を一般提供したと発表した。これによりCopilotは、文書やワークシート、プレゼンテーション上で複数ステップの操作を直接実行できるようになる。ユーザーは最終的な判断を維持したまま、下書き作成から仕上げまでの作業を効率化できるとしている。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35246829/\"><img src=\"https://japan.cnet.com/storage/2026/04/24/c1c5293ee5edafb4142ab5c57c9c244f/t/184/138/d/Edit-with-Copilot-4.jpeg\" /></a>",
-    "image": "https://japan.cnet.com/storage/2026/04/24/c1c5293ee5edafb4142ab5c57c9c244f/t/184/138/d/Edit-with-Copilot-4.jpeg",
-    "fetched_at": "2026-04-24 09:01:38",
-    "ja_summary": "・Microsoft 365 CopilotがWord・Excel・パワポの自動編集機能に対応。\n・複数ステップの作業をAIが代行し、文書作成から仕上げまでを効率化。\n・ユーザーは最終判断を担いつつ、事務作業の大幅な時短が可能に。"
-  },
-  {
-    "title": "アンソロピックのClaude Code「値上げ炎上騒動」の痛みは、サム・アルトマンの喜びだ",
-    "link": "https://www.businessinsider.jp/article/2604-anthropic-claude-code-price-confusion-sam-altman/",
-    "source": "Business Insider Japan",
-    "published": "Thu, 23 Apr 2026 23:10:00 GMT",
-    "summary": "Claude CodeがアンソロピックのProプランから削除されるのかどうか…その混乱の中、OpenAIのCEOと従業員はライバル企業をからかうような行動に出ました。",
-    "image": "https://media.loom-app.com/loom/2026/04/23/a74384e4-602a-4486-a677-b1a35cda1c12/original.jpg?w=1200&amp;h=630",
-    "fetched_at": "2026-04-24 09:01:38",
-    "ja_summary": "・Anthropicの「Claude Code」を巡る利用制限の騒動に対し、OpenAI関係者が競合を揶揄する反応を見せた。\n・Anthropicの混乱は、AI市場におけるライバルであるOpenAIにとって優位な状況と捉えられている。"
-  },
-  {
-    "title": "新連載「へにへにAIイベント探訪」第1回：秋葉原ロボットほこ天 2026はバトルありパレードあり、ロボットは個人の領域に（npaka）",
-    "link": "https://www.techno-edge.net/article/2026/04/24/5019.html",
-    "source": "TechnoEdge",
-    "published": "Fri, 24 Apr 2026 08:36:58 +0900",
-    "summary": "この連載「へにへにAIイベント探訪」では、技術が大好きで、気になるものを見つけるとついふらふら近寄ってしまう謎の生物「へにへに」が、AI・ロボット・テック系イベントの現場を歩いてレポートしていきます。",
-    "image": "https://www.techno-edge.net/imgs/rss/31105.jpg",
-    "fetched_at": "2026-04-24 09:01:50",
-    "ja_summary": "・新連載「へにへにAIイベント探訪」が始動、第1回は「秋葉原ロボットほこ天 2026」をレポート。\n・ロボット同士のバトルやパレードを通じ、最新のAI・ロボット技術の進化を体験。\n・ロボットが産業用から個人の日常へと浸透していく、技術のトレンドを現場視点で解説。"
-  },
-  {
-    "title": "「お前を消す方法」のイルカ「カイル」復活、AIキーボードCopilot Keyboard正式版公開　辞書は毎月更新、変換候補から語義参照も Win 11専用",
-    "link": "https://www.techno-edge.net/article/2026/04/23/5015.html",
-    "source": "TechnoEdge",
-    "published": "Thu, 23 Apr 2026 15:43:43 +0900",
-    "summary": "■MicrosoftがWindows 11向け日本語IME「Copilot Keyboard」を無料公開",
-    "image": "https://www.techno-edge.net/imgs/rss/31044.jpg",
-    "fetched_at": "2026-04-24 09:01:50",
-    "ja_summary": "・Windows 11向けの新IME「Copilot Keyboard」が無料公開\n・かつての人気キャラ「イルカ」の復活や、変換候補からの語義参照に対応\n・辞書は毎月更新され、最新用語にも追従する仕様"
-  },
-  {
-    "title": "Google Cloud Next 26発表まとめ：第8世代TPU・Gemini Enterprise Agent Platformなど、全社エージェント活用向け大規模アップデート",
-    "link": "https://www.techno-edge.net/article/2026/04/23/5014.html",
-    "source": "TechnoEdge",
-    "published": "Thu, 23 Apr 2026 14:43:02 +0900",
-    "summary": "Google Cloudは2026年4月22日（米国時間）、年次イベント「Google Cloud Next '26」において、企業が自律型AIエージェントを大規模に活用するための統合プラットフォーム群を発表しました。",
-    "image": "https://www.techno-edge.net/imgs/rss/31032.jpg",
-    "fetched_at": "2026-04-24 09:01:50",
-    "ja_summary": "・Google Cloudが自律型AIエージェントの全社活用に向けた統合プラットフォームを発表。\n・第8世代TPUの投入により、AI開発・運用の処理能力を大幅に強化。\n・企業がAIエージェントを大規模かつ効率的に運用するための基盤を刷新。"
-  },
-  {
-    "title": "改善要望開発ワークフローをClaude Codeで構築する 〜Agentic Workflow実践事例〜",
-    "link": "https://zenn.dev/masarufuruya/articles/9e277188780755",
-    "source": "Zenn Trends",
-    "published": "Thu, 23 Apr 2026 00:56:39 GMT",
-    "summary": "弊社で取り組んでいる改善要望開発のAIワークフロー化の取り組みをスライド資料にしたので、その内容をzenn用に整理した。\n人のレビュー無しでマージをしているよ！というキラキラしたAI活用事例というより、Agentic Workflowの考え方で泥臭くワークフローの解像度をチーム一体で高めるための取り組みの話。\n\n AI活用のモチベーション\n\n属人化を解消し、人に依存した開発体制から脱却したい\n\n業務の流れ・手順を全てプロンプトで表し、品質改善を「人ではなくプロンプト」で行えるようにしたい\n重要だが緊急度が低く後回しにされがちな業務をAI効率化し、対応が回るようにしたい\n\n\n人に依存せず、...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--KMGEkMVT--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E6%2594%25B9%25E5%2596%2584%25E8%25A6%2581%25E6%259C%259B%25E9%2596%258B%25E7%2599%25BA%25E3%2583%25AF%25E3%2583%25BC%25E3%2582%25AF%25E3%2583%2595%25E3%2583%25AD%25E3%2583%25BC%25E3%2582%2592Claude%2520Code%25E3%2581%25A7%25E6%25A7%258B%25E7%25AF%2589%25E3%2581%2599%25E3%2582%258B%2520%25E3%2580%259CAgentic%2520Workflow%25E5%25AE%259F%25E8%25B7%25B5%25E4%25BA%258B%25E4%25BE%258B%25E3%2580%259C%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E5%258F%25A4%25E5%25AE%25B6%25E5%25A4%25A7%2520%257C%2520EM%2520%257C%2520AI%25E9%2596%258B%25E7%2599%25BA%25E3%2582%25AA%25E3%2583%259A%25E3%2583%25AC...%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzU1OWFlZDg5NjMuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-    "fetched_at": "2026-04-24 09:02:03",
-    "ja_summary": "・属人化解消と業務の自動化を目指し、Claude Codeを用いたAIワークフローを構築。\n・単なる自動化ではなく、プロンプト改善で品質を担保する「Agentic Workflow」を実践。\n・重要だが後回しにされがちな業務を効率化し、安定した開発体制を築く取り組み。"
   }
 ]
