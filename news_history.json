@@ -1,5 +1,45 @@
 [
   {
+    "title": "ハーネスエンジニアリングを楽にする Microsoft 製の新ツール「APM」ハンズオン",
+    "link": "https://zenn.dev/microsoft/articles/agent-package-manager-handson",
+    "source": "Zenn Trends",
+    "published": "Sat, 25 Apr 2026 13:16:58 GMT",
+    "summary": "はじめに\n最近、AI エージェント（GitHub Copilot / Claude Code / Cursor / OpenCode / Codex …）に渡す「指示書」の種類が一気に増えました。\n\nGitHub Copilot → .github/instructions/*.md, .github/prompts/*.md\n\nClaude Code → .claude/commands/*.md, .claude/agents/*.md\n\nCursor → .cursor/rules/*.mdc\n\nこれに加えて MCP サーバー / hooks / skills …\n\nチーム内で...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--9ybui8kx--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%258F%25E3%2583%25BC%25E3%2583%258D%25E3%2582%25B9%25E3%2582%25A8%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%258B%25E3%2582%25A2%25E3%2583%25AA%25E3%2583%25B3%25E3%2582%25B0%25E3%2582%2592%25E6%25A5%25BD%25E3%2581%25AB%25E3%2581%2599%25E3%2582%258B%2520Microsoft%2520%25E8%25A3%25BD%25E3%2581%25AE%25E6%2596%25B0%25E3%2583%2584%25E3%2583%25BC%25E3%2583%25AB%25E3%2580%258CAPM%25E3%2580%258D%25E3%2583%258F%25E3%2583%25B3%25E3%2582%25BA%25E3%2582%25AA%25E3%2583%25B3%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:momosuke%2520%257C%2520Ryosuke...%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2MzZDNiN2I3OGYuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Microsoft%2520%2528%25E6%259C%2589%25E5%25BF%2597%2529%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2Q5ODc4NmI0NjguanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-04-26 08:54:32",
+    "ja_summary": "Microsoftが、AIエージェントへの指示書作成を簡略化する新ツール「APM」を発表。\n指示書の管理が煩雑化する中、開発効率向上に貢献。\nハンズオンでその機能と活用法を紹介。"
+  },
+  {
+    "title": "Claude Code Hooks基礎編、活用事例と設定ぜんぶ見せるで",
+    "link": "https://zenn.dev/masayan1126/books/claude-code-hooks-basic",
+    "source": "Zenn Trends",
+    "published": "Sat, 25 Apr 2026 07:23:53 GMT",
+    "summary": "Hooksの概念は分かった、ほなら実務でどう使うん？Chrome拡張自動ビルド、TDD強制、Slack通知、API疎通チェックまで、Hooksが活きる活用事例と設定方法をコード付きで徹底解説するで。",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--3j6T7f7h--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYm9va19jb3Zlci82MjY4N2Y2Yzg1LmpwZWc=%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg?_a=BACAGSGT",
+    "fetched_at": "2026-04-26 08:54:32",
+    "ja_summary": "要約の生成に失敗しました。"
+  },
+  {
+    "title": "カスタムエージェントの呼び出し方で考える Copilot CLI と VS Code Agent Mode",
+    "link": "https://zenn.dev/tomokusaba/articles/31e31c57cb051d",
+    "source": "Zenn Trends",
+    "published": "Fri, 24 Apr 2026 22:20:46 GMT",
+    "summary": "はじめに\n以前、私は次の記事で GitHub Copilot CLI は「面で作る」作業に強く、VS Code の Copilot Chat Agent Mode は「点で整える」作業に強い、という使い分けを整理しました。\nhttps://zenn.dev/tomokusaba/articles/838cdac8d71e52\n前回は、主に「どこで動くか」「どの粒度の変更に向くか」という観点で見ました。今回はその続きとして、もう少し細かい カスタムエージェントの呼び出し方 に注目します。\n前回記事では Instructions / Skills / Custom Agents / Pr...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--2ptIM2SH--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25AB%25E3%2582%25B9%25E3%2582%25BF%25E3%2583%25A0%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588%25E3%2581%25AE%25E5%2591%25BC%25E3%2581%25B3%25E5%2587%25BA%25E3%2581%2597%25E6%2596%25B9%25E3%2581%25A7%25E8%2580%2583%25E3%2581%2588%25E3%2582%258B%2520Copilot%2520CLI%2520%25E3%2581%25A8%2520VS%2520Code%2520Agent%2520Mode%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%258F%25E3%2581%2595%25E3%2581%25B0%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUdObXl4WUJDVlplMms4MC1qdlNsSzlTS3cwN21GdDU5aF91dmx5VDJ4NUVyQT1zOTYtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-04-26 08:54:33",
+    "ja_summary": "GitHub Copilot CLIとVS Code Agent Modeの使い分けを、カスタムエージェントの呼び出し方に焦点を当てて解説。\n\n「面」で捉えるCopilot CLIと「点」で整えるAgent Modeの機能差を、より具体的に理解できます。"
+  },
+  {
+    "title": "Cortex Codeのコスト見積ヒントご紹介",
+    "link": "https://speakerdeck.com/yokatsuki/cortex-codenokosutojian-ji-hintogoshao-jie",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-04-25T19:23:51-04:00",
+    "summary": "【Snowflake九州ユーザー会#5】Snowflake新規導入企業による事例紹介+やっていき宣言！ の会 〜Snowflake Data Superhero 2026やっていき宣言！も添えて〜\nhttps://techplay.jp/event/993767\n\n---\n関連リンク\n\nちゅらデータ株式会社\nhttps://churadata.okinawa/\n\nSnowflake Cortex Codeのコストを把握する ― TOKENS_GRANULARで見るトークン消費の実態\nhttps://zenn.dev/churadata/articles/12455f0b49c778\n\n[新機能]Snowflake Cortex Code のクレジット使用量に基づく利用制限機能を試してみた\nhttps://dev.classmethod.jp/articles/snowflake-cortex-code-credit-limit-try/\n\nApr 6, 2026: AI_SERVICES billing breakout for implemented AI Credits services\nhttps://docs.snowflake.com/en/release-notes/2026/other/2026-04-06-ai-services-billing-breakout\n\nCortex Code：SnowflakeネイティブなAIデータコーディング\nhttps://www.snowflake.com/ja/product/features/cortex-code/\n\nSoftware Design 2026年5月号\nhttps://gihyo.jp/magazine/SD/archive/2026/202605",
+    "image": "https://files.speakerdeck.com/presentations/a8eeaba2f2674b6490b2f373516ae760/preview_slide_0.jpg?39222253",
+    "fetched_at": "2026-04-26 08:54:34",
+    "ja_summary": "Snowflake九州ユーザー会で、Cortex Codeのコスト見積もりとトークン消費の実態について紹介。\n新規導入企業が事例発表し、Cortex Codeの利用制限機能も試用。\nAIサービス料金の明細化も予定されており、コスト管理がしやすくなる見込み。"
+  },
+  {
     "title": "オランダ半導体ASML決算が示した｢工場を増やさず供給を倍にする｣4つのレバー／\"需要が供給を上回る状態が続く\" | 政治・経済・投資 | 東洋経済オンライン",
     "link": "https://toyokeizai.net/articles/-/942481?utm_source=rss&utm_medium=http&utm_campaign=link_back",
     "source": "東洋経済オンライン",
@@ -958,45 +998,5 @@
     "image": "https://image.itmedia.co.jp/business/articles/2604/24/cover_news111.jpg",
     "fetched_at": "2026-04-24 17:20:58",
     "ja_summary": "・NECとAI企業Anthropicが、生成AI活用に向けた協業を発表。\n・わずか3週間の協議で合意に至り、詳細も発表2日前に決定という異例のスピード感。\n・両社の技術を掛け合わせ、新たなビジネス展開を目指す。"
-  },
-  {
-    "title": "東電HD再建、提携先にガスや通信会社浮上も課題山積　横たわる原発リスク (Views)",
-    "link": "https://business.nikkei.com/atcl/seminar/19/00030/042300759/",
-    "source": "日経ビジネス 最新",
-    "published": "",
-    "summary": "東京電力ホールディングス（HD）が、長期に渡る業績停滞から脱出するために提携戦略に乗り出した。東電HDは、企業が自由に使えるフリーキャッシュフロー（純現金収支）が、2025年3月期まで7期連続赤字。大型投資は難しくなっており、他社資本と技術を取り込んで新事業を興すことで難題を突破し、再生の好機をつかもうとしている。だが、AI需要を捉えるにしても知見は乏しく、当面の利益増の原動力となる柏崎刈羽原子力発電所再稼働も、1つ間違えば再び稼働ゼロになりかねない。難題を抱えたままの再生への挑戦となる。",
-    "image": "https://business.nikkei.com/atcl/seminar/19/00030/042300759/fb.jpg",
-    "fetched_at": "2026-04-24 17:21:07",
-    "ja_summary": "・東電HDが業績改善に向け、他社との提携による新規事業開拓を模索。\n・7期連続のキャッシュフロー赤字で単独投資が困難な状況。\n・AI分野への知見不足や原発再稼働の不確実性が、再生への大きな障壁。"
-  },
-  {
-    "title": "「老化」は止められるか　最新科学と長寿ビジネスの最前線 (テーマ別まとめ記事)",
-    "link": "https://business.nikkei.com/atcl/gen/19/00081/033100930/",
-    "source": "日経ビジネス 最新",
-    "published": "",
-    "summary": "老化の仕組みが科学的に解明されつつある。酸化や糖化といったメカニズムの最新知見から、百寿者の生活習慣、老化細胞を標的とした創薬、AIを活用した長寿ビジネスまで、「老化にあらがう」ための研究と取り組みの最前線を、過去記事をもとに振り返る。",
-    "image": "https://business.nikkei.com/atcl/gen/19/00081/033100930/fb.jpg",
-    "fetched_at": "2026-04-24 17:21:08",
-    "ja_summary": "・科学の進歩により老化のメカニズムが解明され、細胞標的型創薬やAI活用など、老化を制御する研究が加速している。\n・酸化・糖化対策や百寿者の生活習慣など、最新知見に基づいた長寿ビジネスが多角的に展開されている。\n・「老化＝避けられないもの」から「科学で抗うもの」へと認識が変わり、寿命延伸の最前線が大きく変化している。"
-  },
-  {
-    "title": "金融・製造・自治体版「Claude Cowork」展開へ　NECとアンソロピック提携",
-    "link": "https://www.watch.impress.co.jp/docs/news/2104228.html",
-    "source": "Impress Watch",
-    "published": "",
-    "summary": "NECは23日、Anthropicと日本のエンタープライズ領域における戦略的協業を開始すると発表した。NECは日本企業初のAnthropicグローバルパートナーとなる、",
-    "image": "https://www.watch.impress.co.jp/img/ipw/list/2104/228/nec1.jpg",
-    "fetched_at": "2026-04-24 17:21:21",
-    "ja_summary": "NECはAnthropicと提携し、AI「Claude」の金融、製造、自治体向けサービスを日本で展開します。\nNECは日本企業として初めてAnthropicのグローバルパートナーとなります。\nこれにより、日本企業のAI活用が加速すると期待されます。"
-  },
-  {
-    "title": "GPT-5.5 の概要",
-    "link": "https://note.com/npaka/n/n4b5ba0f84b5d",
-    "source": "note (npaka)",
-    "published": "Fri, 24 Apr 2026 05:01:50 +0900",
-    "summary": "<p id=\"a99717a6-4a30-4837-8c6f-8ffdecc3cb54\" name=\"a99717a6-4a30-4837-8c6f-8ffdecc3cb54\">「GPT-5.5」の概要をまとめました。</p><figure id=\"2f74940f-5b35-41b1-ab81-5b7ebe255449\" name=\"2f74940f-5b35-41b1-ab81-5b7ebe255449\"><blockquote><p id=\"f8e68c33-9455-4f19-98f6-ad7357048d9b\" name=\"f8e68c33-9455-4f19-98f6-ad7357048d9b\"><strong>・</strong><a href=\"https://openai.com/index/introducing-gpt-5-5/\" rel=\"nofollow noopener\" target=\"_blank\"><strong>Introducing GPT‑5.5</strong></a></p></blockquote>\n<figcaption></figcaption></figure><br /><a href=\"https://note.com/npaka/n/n4b5ba0f84b5d\">続きをみる</a>",
-    "image": "https://assets.st-note.com/production/uploads/images/269871374/rectangle_large_type_2_6c9b4bbb98a497b94fd245fe7d39c06b.jpeg?width=800",
-    "fetched_at": "2026-04-24 17:21:27",
-    "ja_summary": "OpenAIが「GPT-5.5」の概要を発表しました。\n詳細はリンク先で確認できます。"
   }
 ]
