@@ -1,5 +1,35 @@
 [
   {
+    "title": "Claude Codeのノウハウをサンプルコードで学ぶ ── 中級編（エージェント設計の考え方）",
+    "link": "https://qiita.com/nogataka/items/dc115e441ad1552e35ce",
+    "source": "Qiita (Popular)",
+    "published": "2026-04-21T14:42:15+09:00",
+    "summary": "\n## はじめに\n\n本記事は「Claude Codeのノウハウをサンプルコードで学ぶ」シリーズの**中級編**です。シリーズ全体は以下の4本構成になっています。\n\n1. [入門編](https://qiita.com/nogataka/items/59cc72e55e037d77225f) — Claude Codeの全体像とAIエージェントの仕組みを体感する\n2. **中級編（本記事）** — ",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYxNjEyOTglMkZjMWUzZmZkNmVhZGExOTY5ZmYzYzQ0YjE0ZmRlMDgxYmNkZTZmNTAwJTJGeF9sYXJnZS5wbmclM0YxNTg0ODQ1NTg0P2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz00ZGRjZmU5NTFjNTMyMzU3NjcyOGUzOTkyOTNmOGRlNQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D246367bff431168e6212d2602a3df494?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9Q2xhdWRlJTIwQ29kZSVFMyU4MSVBRSVFMyU4MyU4RSVFMyU4MiVBNiVFMyU4MyU4RiVFMyU4MiVBNiVFMyU4MiU5MiVFMyU4MiVCNSVFMyU4MyVCMyVFMyU4MyU5NyVFMyU4MyVBQiVFMyU4MiVCMyVFMyU4MyVCQyVFMyU4MyU4OSVFMyU4MSVBNyVFNSVBRCVBNiVFMyU4MSVCNiUyMCVFMiU5NCU4MCVFMiU5NCU4MCUyMCVFNCVCOCVBRCVFNyVCNCU5QSVFNyVCNyVBOCVFRiVCQyU4OCVFMyU4MiVBOCVFMyU4MyVCQyVFMyU4MiVCOCVFMyU4MiVBNyVFMyU4MyVCMyVFMyU4MyU4OCVFOCVBOCVBRCVFOCVBOCU4OCVFMyU4MSVBRSVFOCU4MCU4MyVFMyU4MSU4OCVFNiU5NiVCOSVFRiVCQyU4OSZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPWIyMTZhNTlhMDkyZDZjZDY0Mjc1OGNlMmUyMmQyMGI2&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBub2dhdGFrYSZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWE5ODA4YTE0Zjg4Y2I0ZjQ5OWU2ZDA3NGYyY2E2YTNh&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=a26b35e53a465a55263935cba0da41b6",
+    "fetched_at": "2026-04-25 22:52:13",
+    "ja_summary": "Claude Codeの中級編では、AIエージェントを効果的に設計するための考え方をサンプルコードで解説します。\n入門編で学んだAIエージェントの基本に加え、より実践的な設計ノウハウを習得できます。\nこのシリーズで、Claude Codeを活用した高度なAI開発を目指しましょう。"
+  },
+  {
+    "title": "Claude Codeのノウハウをサンプルコードで学ぶ ── 入門編（初心者向け）",
+    "link": "https://qiita.com/nogataka/items/59cc72e55e037d77225f",
+    "source": "Qiita (Popular)",
+    "published": "2026-04-21T14:41:53+09:00",
+    "summary": "\n## はじめに\n\nこの記事は、新人プログラマのみなさんに向けた「Claude Codeのノウハウをサンプルコードで学ぶ」シリーズの**入門編**です。シリーズは全4本で、ゆるやかにステップアップしていく構成になっています。\n\n1. **入門編（本記事）** — Claude Codeの全体像・使い方・拡張機能の地図までを一冊で理解する\n2. [中級編](https://qiita.com/nog",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYxNjEyOTglMkZjMWUzZmZkNmVhZGExOTY5ZmYzYzQ0YjE0ZmRlMDgxYmNkZTZmNTAwJTJGeF9sYXJnZS5wbmclM0YxNTg0ODQ1NTg0P2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz00ZGRjZmU5NTFjNTMyMzU3NjcyOGUzOTkyOTNmOGRlNQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D246367bff431168e6212d2602a3df494?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9Q2xhdWRlJTIwQ29kZSVFMyU4MSVBRSVFMyU4MyU4RSVFMyU4MiVBNiVFMyU4MyU4RiVFMyU4MiVBNiVFMyU4MiU5MiVFMyU4MiVCNSVFMyU4MyVCMyVFMyU4MyU5NyVFMyU4MyVBQiVFMyU4MiVCMyVFMyU4MyVCQyVFMyU4MyU4OSVFMyU4MSVBNyVFNSVBRCVBNiVFMyU4MSVCNiUyMCVFMiU5NCU4MCVFMiU5NCU4MCUyMCVFNSU4NSVBNSVFOSU5NiU4MCVFNyVCNyVBOCVFRiVCQyU4OCVFNSU4OCU5RCVFNSVCRiU4MyVFOCU4MCU4NSVFNSU5MCU5MSVFMyU4MSU5MSVFRiVCQyU4OSZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPWZhMjg0YTc5NGVjYzQ0YTQwZDVkNmQxMmZkZmMzMGQ5&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBub2dhdGFrYSZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWE5ODA4YTE0Zjg4Y2I0ZjQ5OWU2ZDA3NGYyY2E2YTNh&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=d436c1cac49280500299bb500c20795b",
+    "fetched_at": "2026-04-25 22:52:13",
+    "ja_summary": "・新人向け「Claude Code」習得シリーズの入門編。\n・ツールの全体像から基本的な使い方、拡張機能までを網羅的に解説。\n・段階的にスキルアップできる全4本構成の第1弾。"
+  },
+  {
+    "title": "Claude Codeで開発を自動化するSkills 5選",
+    "link": "https://qiita.com/kamome_susume/items/3b9b18e7e54f15721837",
+    "source": "Qiita (Popular)",
+    "published": "2026-04-20T18:23:27+09:00",
+    "summary": "「Claude Codeを使い始めたけど、毎回同じような指示をプロンプトに書いている気がする…」と感じていませんか？\n\nClaude Codeは素のままでも強力ですが、Skillsを使うことで**繰り返しの作業を自動化し、開発のルーティンをまるごとコマンド一発に変える**ことができます。この記事では、開発の自動化に特に役立つSkills 5選を、具体的な使いどころとともに紹介します。\n\n「毎回同じ",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYxNjkzMjQ4JTJGZDhlMmU1OWNiMDVmY2Y3MDQ3ZDgyN2ZjNDlkNDAwMTkzZTU5NDdjOSUyRnhfbGFyZ2UucG5nJTNGMTY4NjMxODg1ND9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9ZDRiNjcyYjg4ZWUxYTRkNjI1ZDRjOGFkMzVkMzQ5NjI%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Ddc9a014e564257547b64353543c58776?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9Q2xhdWRlJTIwQ29kZSVFMyU4MSVBNyVFOSU5NiU4QiVFNyU5OSVCQSVFMyU4MiU5MiVFOCU4NyVBQSVFNSU4QiU5NSVFNSU4QyU5NiVFMyU4MSU5OSVFMyU4MiU4QlNraWxscyUyMDUlRTklODElQjgmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1iZjhhMWQxNzc2M2Y2ZjVlNjVlOTMyZWIwYTdjNjZhNg&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBrYW1vbWVfc3VzdW1lJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9ZGRiZTIzN2VhYmFmZjQ1YThiNWYzYWQyMWVhNzMzOTI&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=181f777dbba3254bcb72ce65a16d7304",
+    "fetched_at": "2026-04-25 22:52:14",
+    "ja_summary": "Claude Codeの「Skills」機能を活用すれば、繰り返し行う開発作業をコマンド一発で自動化可能です。\n記事では、業務効率を劇的に改善する具体的な活用レシピを厳選して5つ紹介しています。\n定型的なプロンプト入力を省き、開発ルーティンを効率化したい方に最適な内容です。"
+  },
+  {
     "title": "ファーウェイが自動運転を支配、中国第一汽車と提携　北京ショー開幕 (中国経済のリアル)",
     "link": "https://business.nikkei.com/atcl/gen/19/00485/042200136/",
     "source": "日経ビジネス 最新",
@@ -968,35 +998,5 @@
     "image": "https://openai.com/favicon.ico",
     "fetched_at": "2026-04-24 17:21:39",
     "ja_summary": "GPT-5.5のバイオセキュリティリスクを悪用する「バグバウンティ」開催。\n最大25,000ドルの賞金で、AIの脆弱性発見を募集。\n目的は、生物的安全性を脅かす普遍的な「脱獄」手法の特定。"
-  },
-  {
-    "title": "Making ChatGPT better for clinicians",
-    "link": "https://openai.com/index/making-chatgpt-better-for-clinicians",
-    "source": "OpenAI",
-    "published": "Wed, 22 Apr 2026 15:00:00 GMT",
-    "summary": "OpenAI makes ChatGPT for Clinicians free for verified U.S. physicians, nurse practitioners, and pharmacists, supporting clinical care, documentation, and research.",
-    "image": "https://openai.com/favicon.ico",
-    "fetched_at": "2026-04-24 17:21:39",
-    "ja_summary": "・OpenAIが米国の医療従事者（医師・看護師・薬剤師）向けに「ChatGPT for Clinicians」を無償提供\n・臨床ケア、文書作成、研究業務の効率化を支援\n・医療現場でのAI活用を促進し、業務負担の軽減を目指す"
-  },
-  {
-    "title": "Introducing Claude Opus 4.7",
-    "link": "https://www.anthropic.com/news/claude-opus-4-7",
-    "source": "Anthropic (News)",
-    "published": "Thu, 16 Apr 2026 00:00:00 +0000",
-    "summary": "Introducing Claude Opus 4.7",
-    "image": "https://cdn.sanity.io/images/4zrzovbb/website/96ea2509a90e527642c822303e56296a07bcfce4-1920x1080.png",
-    "fetched_at": "2026-04-24 17:21:40",
-    "ja_summary": "・Anthropic社が最新AIモデル「Claude Opus 4.7」を発表。\n・従来モデルから性能や精度が向上し、より複雑なタスクに対応。\n・ビジネスにおける高度な推論やデータ分析の効率化を支援する。"
-  },
-  {
-    "title": "現地速報！ RubyKaigi 2026 Day2",
-    "link": "https://zenn.dev/bloomo_tech/articles/057ab51d2e270a",
-    "source": "Zenn Trends",
-    "published": "Thu, 23 Apr 2026 09:01:48 GMT",
-    "summary": "ブルーモ証券でエンジニアをしている才記です。\nRubyKaigi 2日目が無事終わりましたね。\n今日の発表は全体的になかなかヘビーでどっと疲れた感じがありますが、皆様はいかがでしょうか？\n完全に私事ですが、今日初めてラッキーピエロのハンバーガーを食べました。チャイニーズチキン。美味しかったです。\n\nという訳で（？）今日も昨日と同じく、私が聴いたセッションの中で印象に残ったものについて速報的にまとめました。\n\n No Types Needed, Just Callable Method Check\n\n型は要らないのではないかというタイトルからかなり気になっていた @dak2 さんの発表。...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--sN3Cc4GW--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E7%258F%25BE%25E5%259C%25B0%25E9%2580%259F%25E5%25A0%25B1%25EF%25BC%2581%2520RubyKaigi%25202026%2520Day2%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:hanocha%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2NhYjY3MmNhY2QuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2583%2596%25E3%2583%25AB%25E3%2583%25BC%25E3%2583%25A2%25E8%25A8%25BC%25E5%2588%25B8%25E3%2580%2580%25E3%2583%2597%25E3%2583%25AD%25E3%2583%2580%25E3%2582%25AF%25E3%2583%2588%25E3%2583%2581%25E3%2583%25BC%25E3%2583%25A0%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzNlNTI3YTliZTIuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-    "fetched_at": "2026-04-24 17:21:44",
-    "ja_summary": "RubyKaigi 2026の2日目が終了。技術的な議論が活発に行われる中、著者は「No Types Needed, Just Callable Method Check」をはじめとする注目セッションの要点を速報としてまとめた。"
   }
 ]
