@@ -1,5 +1,45 @@
 [
   {
+    "title": "Introducing workspace agents in ChatGPT",
+    "link": "https://openai.com/index/introducing-workspace-agents-in-chatgpt",
+    "source": "OpenAI",
+    "published": "Wed, 22 Apr 2026 10:00:00 GMT",
+    "summary": "Workspace agents in ChatGPT are Codex-powered agents that automate complex workflows, run in the cloud, and help teams scale work across tools securely.",
+    "image": "https://openai.com/favicon.ico",
+    "fetched_at": "2026-04-25 19:03:56",
+    "ja_summary": "ChatGPTに「ワークスペースエージェント」が登場。\nCodex技術で複雑な作業を自動化し、チームの生産性向上を支援。\nクラウド上で安全に動作し、複数ツール連携を効率化。"
+  },
+  {
+    "title": "Anthropic and NEC collaborate to build Japan’s largest AI engineering workforce",
+    "link": "https://www.anthropic.com/news/anthropic-nec",
+    "source": "Anthropic (News)",
+    "published": "Fri, 24 Apr 2026 00:00:00 +0000",
+    "summary": "Anthropic and NEC collaborate to build Japan’s largest AI engineering workforce",
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20NodeGlobe&amp;backgroundColor=heather",
+    "fetched_at": "2026-04-25 19:03:57",
+    "ja_summary": "AI開発大手AnthropicとNECが提携。\n\n日本最大級のAIエンジニア集団を構築し、AI技術開発を加速。\n\n高度なAI人材育成で、日本のAI産業を強化する。"
+  },
+  {
+    "title": "Anthropic’s Long-Term Benefit Trust appoints Vas Narasimhan to Board of Directors",
+    "link": "https://www.anthropic.com/news/narasimhan-board",
+    "source": "Anthropic (News)",
+    "published": "Tue, 14 Apr 2026 00:00:00 +0000",
+    "summary": "Anthropic’s Long-Term Benefit Trust appoints Vas Narasimhan to Board of Directors",
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+    "fetched_at": "2026-04-25 19:04:12",
+    "ja_summary": "AI企業Anthropicの信託が、ノバルティスCEOのヴァス・ナラシンハン氏を取締役に選任。\n\nAIの長期的な利益を追求するAnthropicのガバナンス強化が狙い。\n\n製薬業界からAI分野への専門知識の流入が期待される。"
+  },
+  {
+    "title": "AndroidアプリとCopilot Studioの統合",
+    "link": "https://speakerdeck.com/nakasho/androidahuritocopilot-studionotong-he",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-04-25T05:30:59-04:00",
+    "summary": "2026/4/25(土)に開催された .NETラボ 勉強会 2026年4月( https://dotnetlab.connpass.com/event/383200/ ) に参加した時に当日受付LTで発表した資料です。 #dotnetlab",
+    "image": "https://files.speakerdeck.com/presentations/7048f7e63da64b6d916e60dd70b688aa/preview_slide_0.jpg?39219415",
+    "fetched_at": "2026-04-25 19:04:14",
+    "ja_summary": "AndroidアプリとCopilot Studioが統合。\n.NETラボ勉強会でのLT発表資料。\n開発者はCopilot StudioでAndroidアプリを効率的に構築可能。"
+  },
+  {
     "title": "M5Stack CoreS3とZephyr(RTOS)で Edge AIっぽいことしてみた",
     "link": "https://speakerdeck.com/iotengineer22/m5stack-cores3tozephyr-rtos-de-edge-aitupoikotositemita",
     "source": "Speaker Deck (Tech)",
@@ -958,45 +998,5 @@
     "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/22/ca78aebbdc13035b7d4b3ea8e5dc624c57c025d23e38cacde7eeb2d29e1523e5.jpg",
     "fetched_at": "2026-04-24 15:03:56",
     "ja_summary": "自民党がAI分野への投資を今後5年間で1兆円規模に拡大するよう政府へ提言する案をまとめた。\n次世代AIの開発やインフラ整備を強化し、国際競争力と国内産業のデジタル化を加速させる狙い。\n官民連携による大規模な予算投入で、日本のAI技術の遅れ挽回を目指す。"
-  },
-  {
-    "title": "三菱ガス化学、国内5工場で「Super RAG」を採用--過去のヒヤリハット事例をAIで瞬時に抽出",
-    "link": "https://japan.zdnet.com/article/35246850/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "三菱ガス化学は、国内5工場で運用中の「KY（危険予知）サジェストシステム」に、シナモンAIの「Super RAG」を組み込む。4月23日、シナモンAIが発表した。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35246850/\"><img src=\"https://japan.zdnet.com/storage/2025/07/03/95e23d4ec26d402ba268298ad9a21c98/t/184/138/d/250703_cps_as_1280_1536397858.jpg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2025/07/03/95e23d4ec26d402ba268298ad9a21c98/t/184/138/d/250703_cps_as_1280_1536397858.jpg",
-    "fetched_at": "2026-04-24 15:03:57",
-    "ja_summary": "・三菱ガス化学が国内5工場の危険予知システムに、シナモンAIの「Super RAG」を導入。\n・過去の膨大なヒヤリハット事例をAIが瞬時に検索・抽出し、現場の安全対策を強化する。\n・AI活用により、危険予知活動の効率化と労働災害の未然防止を図る。"
-  },
-  {
-    "title": "オーケー、複数クラウドのAPIを一元管理へ--将来の生成AI活用を見据え基盤を整備",
-    "link": "https://japan.zdnet.com/article/35246847/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "関東を中心にディスカウントスーパーマーケットを展開するオーケーは、マルチクラウド環境におけるAPI統合基盤として「Kong Konnect」を採用した。Kongが4月23日に発表した。なお、導入にあたっては、クラスメソッドが支援した。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35246847/\"><img src=\"https://japan.zdnet.com/storage/2026/04/14/5d250195e9b3b76c5bc299b47eefca08/t/184/138/d/260423_dataplatform_as_1280_1863450445.jpg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2026/04/14/5d250195e9b3b76c5bc299b47eefca08/t/184/138/d/260423_dataplatform_as_1280_1863450445.jpg",
-    "fetched_at": "2026-04-24 15:03:57",
-    "ja_summary": "・スーパーのオーケーが、複数のクラウドサービスを統合管理する基盤「Kong Konnect」を導入。\n・クラスメソッドの支援のもと、システム間の連携をスムーズにするAPI基盤を整備。\n・将来的な生成AIの本格活用を見据え、効率的なデータ活用が可能なIT基盤を構築した。"
-  },
-  {
-    "title": "ChatGPT Images 2.0に少女漫画SFの16ページ読み切りを描いてもらった（CloseBox）",
-    "link": "https://www.techno-edge.net/article/2026/04/23/5017.html",
-    "source": "TechnoEdge",
-    "published": "Thu, 23 Apr 2026 20:34:29 +0900",
-    "summary": "ChatGPTの新しい画像AIモデル、ChatGPT Images 2.0が使えるようになりました。SF少女漫画が描けるか試してみました。",
-    "image": "https://www.techno-edge.net/imgs/rss/31089.jpg",
-    "fetched_at": "2026-04-24 15:03:58",
-    "ja_summary": "・画像生成AI「ChatGPT Images 2.0」を活用し、SF少女漫画の16ページ読み切り制作に挑戦した。\n・AIモデルの進化により、一貫性のある長編漫画の作成が可能か検証した。\n・最新AIの作画能力と、漫画制作ツールとしての実用性を紹介している。"
-  },
-  {
-    "title": "Workspace agents",
-    "link": "https://openai.com/academy/workspace-agents",
-    "source": "OpenAI",
-    "published": "Wed, 22 Apr 2026 10:00:00 GMT",
-    "summary": "Learn how to build, use, and scale workspace agents in ChatGPT to automate repeatable workflows, connect tools, and streamline team operations.",
-    "image": "https://openai.com/favicon.ico",
-    "fetched_at": "2026-04-24 15:04:00",
-    "ja_summary": "・ChatGPTで「ワークスペースエージェント」を作成し、繰り返し作業を自動化。\n・外部ツールとの連携により、業務フローを効率化。\n・チーム全体のオペレーションを最適化・スケールさせる手法を習得可能。"
   }
 ]
