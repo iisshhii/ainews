@@ -1,5 +1,45 @@
 [
   {
+    "title": "三菱ガス化学、国内5工場で「Super RAG」を採用--過去のヒヤリハット事例をAIで瞬時に抽出",
+    "link": "https://japan.zdnet.com/article/35246850/",
+    "source": "ZDNET Japan",
+    "published": "",
+    "summary": "三菱ガス化学は、国内5工場で運用中の「KY（危険予知）サジェストシステム」に、シナモンAIの「Super RAG」を組み込む。4月23日、シナモンAIが発表した。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35246850/\"><img src=\"https://japan.zdnet.com/storage/2025/07/03/95e23d4ec26d402ba268298ad9a21c98/t/184/138/d/250703_cps_as_1280_1536397858.jpg\" /></a>",
+    "image": "https://japan.zdnet.com/storage/2025/07/03/95e23d4ec26d402ba268298ad9a21c98/t/184/138/d/250703_cps_as_1280_1536397858.jpg",
+    "fetched_at": "2026-04-25 20:02:31",
+    "ja_summary": "三菱ガス化学は、国内5工場でAIを活用し、過去のヒヤリハット事例から危険予知を支援するシステムを導入します。\nAI「Super RAG」により、過去の事例を瞬時に検索・抽出することで、安全管理の精度向上を目指します。\nこれにより、より迅速かつ的確な危険予知活動が可能になります。"
+  },
+  {
+    "title": "オーケー、複数クラウドのAPIを一元管理へ--将来の生成AI活用を見据え基盤を整備",
+    "link": "https://japan.zdnet.com/article/35246847/",
+    "source": "ZDNET Japan",
+    "published": "",
+    "summary": "関東を中心にディスカウントスーパーマーケットを展開するオーケーは、マルチクラウド環境におけるAPI統合基盤として「Kong Konnect」を採用した。Kongが4月23日に発表した。なお、導入にあたっては、クラスメソッドが支援した。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35246847/\"><img src=\"https://japan.zdnet.com/storage/2026/04/14/5d250195e9b3b76c5bc299b47eefca08/t/184/138/d/260423_dataplatform_as_1280_1863450445.jpg\" /></a>",
+    "image": "https://japan.zdnet.com/storage/2026/04/14/5d250195e9b3b76c5bc299b47eefca08/t/184/138/d/260423_dataplatform_as_1280_1863450445.jpg",
+    "fetched_at": "2026-04-25 20:02:31",
+    "ja_summary": "ディスカウントスーパーのオーケーが、複数のクラウドサービスをまとめて管理できる基盤を導入。\nこれにより、将来的に生成AIなどを活用しやすくなる。\nAPI統合基盤「Kong Konnect」をクラスメソッドの支援で導入した。"
+  },
+  {
+    "title": "Workspace agents",
+    "link": "https://openai.com/academy/workspace-agents",
+    "source": "OpenAI",
+    "published": "Wed, 22 Apr 2026 10:00:00 GMT",
+    "summary": "Learn how to build, use, and scale workspace agents in ChatGPT to automate repeatable workflows, connect tools, and streamline team operations.",
+    "image": "https://openai.com/favicon.ico",
+    "fetched_at": "2026-04-25 20:02:34",
+    "ja_summary": "ChatGPTのWorkspace agentsで、定型業務を自動化。\nツール連携やチーム作業の効率化が可能になります。\n構築、活用、拡大方法を解説。"
+  },
+  {
+    "title": "Angular Architecture Revisited Modernizing Angular Architectural Patterns",
+    "link": "https://speakerdeck.com/rainerhahnekamp/angular-architecture-revisited-modernizing-angular-architectural-patterns",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-04-25T06:01:01-04:00",
+    "summary": "When I started using Angular in 2018, most architectural \"rules\" were already set in stone: Smart vs. Dumb components, isolated domains, and shared modules.\nFor years, these patterns have stood the test of time. But do they fit the simplicity of Modern Angular?\nIn this talk, we will put these patterns on trial. We will analyze where the classic approaches hold us back and where they still add value.\nThen, we will look forward. We will discuss how Modern Angular enables new, simplified patterns, draw comparisons with how other frameworks handle state and composition, and review the tools that support this shift. Join me for a refreshing take on how to structure your next application",
+    "image": "https://files.speakerdeck.com/presentations/eee065e97fe54f79a6063a80a74eb8a1/preview_slide_0.jpg?39219753",
+    "fetched_at": "2026-04-25 20:02:46",
+    "ja_summary": "Angularの古い設計パターンを最新のAngularに適用できるか検証。\n古いパターンは現代のAngularのシンプルさに合わず、制約となる場合がある。\n最新のAngularの利点を活かした、よりシンプルで効率的な設計パターンを紹介。"
+  },
+  {
     "title": "Introducing workspace agents in ChatGPT",
     "link": "https://openai.com/index/introducing-workspace-agents-in-chatgpt",
     "source": "OpenAI",
@@ -958,45 +998,5 @@
     "image": "https://www.watch.impress.co.jp/img/ipw/list/2104/446/gen1.jpg",
     "fetched_at": "2026-04-24 15:03:42",
     "ja_summary": "・デジタル庁が行政向けAI「源内」の一部をオープンソースとして公開\n・商用利用可能なライセンスで無償提供を開始\n・企業のAI活用やシステム開発での利用が可能に"
-  },
-  {
-    "title": "グーグルのAI認定講座、先着1万人に無料提供　「Google AI Pro」3カ月利用権も",
-    "link": "https://www.watch.impress.co.jp/docs/news/2104171.html",
-    "source": "Impress Watch",
-    "published": "",
-    "summary": "日本リスキリングコンソーシアムは、オンラインのトレーニングプログラム「Google AI プロフェッショナル認定証」(日本語版)の無料受講アカウントを配布する。新規・既存会員を問わず先着1万人に提供し、通常約7,700円相当の講座を無料で受けられる。",
-    "image": "https://www.watch.impress.co.jp/img/ipw/list/2104/171/01.jpg",
-    "fetched_at": "2026-04-24 15:03:46",
-    "ja_summary": "グーグルが提供するAI認定講座が、先着1万人に無料提供されます。\n通常約7,700円相当の講座を無料で受講できるチャンスです。\n「Google AI Pro」の3カ月利用権も付帯します。"
-  },
-  {
-    "title": "Anthropicの未公開株が人気すぎる。予想評価額は「1兆ドル」突破、OpenAIへの関心薄れる",
-    "link": "https://www.businessinsider.jp/article/cutting-edge-20260424-tesla-intel-earnings-anthropic-valuation/",
-    "source": "Business Insider Japan",
-    "published": "Fri, 24 Apr 2026 04:40:00 GMT",
-    "summary": "セカンダリー・マーケット（主に未公開企業の発行済み株式を投資家どうしで売買する流通市場）では、アンスロピックの評価額が急騰を続けている模様です。関係者の驚くべき証言を集めました。",
-    "image": "https://media.loom-app.com/loom/2026/04/24/110205b0-5a14-417d-97b6-dfee28266312/original.jpg?w=1200&amp;h=630",
-    "fetched_at": "2026-04-24 15:03:48",
-    "ja_summary": "・未公開株市場でAnthropicの評価額が急騰し、1兆ドルを突破する勢い。\n・AI分野における投資家の関心がOpenAIからAnthropicへ移行している。\n・セカンダリー市場での取引が活発化し、市場の評価が劇的に変化している。"
-  },
-  {
-    "title": "AI×ゲームの現在地がわかる記事と作品まとめ",
-    "link": "https://note.com/npaka/n/ncde6fd2958d2",
-    "source": "note (npaka)",
-    "published": "Wed, 22 Apr 2026 05:57:39 +0900",
-    "summary": "<p id=\"36eb4c9b-cd70-40b0-9feb-2a5a456de3a4\" name=\"36eb4c9b-cd70-40b0-9feb-2a5a456de3a4\">AI×ゲームの現在地がわかる記事と作品をまとめました。</p><br /><br /><a href=\"https://note.com/npaka/n/ncde6fd2958d2\">続きをみる</a>",
-    "image": "https://assets.st-note.com/production/uploads/images/269302799/rectangle_large_type_2_399b7985ce76a42dae9dc80bf0d4ff40.png?width=800",
-    "fetched_at": "2026-04-24 15:03:51",
-    "ja_summary": "・AI技術を導入したゲームの最新動向や関連作品をまとめたガイド記事。\n・ゲーム開発におけるAI活用の現在地が網羅的に把握できる。\n・最新の活用事例や技術的なトレンドを知りたい場合に最適。"
-  },
-  {
-    "title": "AI投資5年で1兆円要請 自民提言案",
-    "link": "https://news.yahoo.co.jp/pickup/6577261?source=rss",
-    "source": "Yahoo!ニュース IT・科学",
-    "published": "Wed, 22 Apr 2026 13:10:35 GMT",
-    "summary": "",
-    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/22/ca78aebbdc13035b7d4b3ea8e5dc624c57c025d23e38cacde7eeb2d29e1523e5.jpg",
-    "fetched_at": "2026-04-24 15:03:56",
-    "ja_summary": "自民党がAI分野への投資を今後5年間で1兆円規模に拡大するよう政府へ提言する案をまとめた。\n次世代AIの開発やインフラ整備を強化し、国際競争力と国内産業のデジタル化を加速させる狙い。\n官民連携による大規模な予算投入で、日本のAI技術の遅れ挽回を目指す。"
   }
 ]
