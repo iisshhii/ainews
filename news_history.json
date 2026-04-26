@@ -1,5 +1,115 @@
 [
   {
+    "title": "日経平均株価は史上最高値を更新中だが､むしろGW前後は｢利益確定売り｣に押された方が相場は長続きすると読むワケ | 政治・経済・投資 | 東洋経済オンライン",
+    "link": "https://toyokeizai.net/articles/-/942713?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+    "source": "東洋経済オンライン",
+    "published": "Mon, 27 Apr 2026 07:30:00 +0900",
+    "summary": "半導体関連株の驚異的な連騰が市場を沸かせ､AI需要の急拡大が今後も成長を牽引すると注目されています。市場は強気ムード一色の中､今後の調整リスクや資金の動きにどう備えるべきでしょうか。（このリード文は…",
+    "image": "https://tk.ismcdn.jp/mwimgs/8/9/1200w/img_894e41c6a70c96ca4e123d7b554aef59123692.jpg?nextgen=false",
+    "fetched_at": "2026-04-27 08:07:52",
+    "ja_summary": "日経平均は史上最高値更新も、GW前の利益確定売りが相場を長続きさせる。AI需要拡大で半導体関連株は好調だが、調整リスクへの備えが重要。"
+  },
+  {
+    "title": "MetaとAWSが提携　エージェント型AI強化へ「AWS Graviton」導入",
+    "link": "https://www.watch.impress.co.jp/docs/news/2104783.html",
+    "source": "Impress Watch",
+    "published": "",
+    "summary": "Metaは24日(米国時間)、エージェント型AIの強化に向けてAmazon Web Services(AWS)と提携し、数千万個の「AWS Graviton」コアをMetaのコンピューティング基盤に導入すると発表した。",
+    "image": "https://www.watch.impress.co.jp/img/ipw/list/2104/783/meta1.jpg",
+    "fetched_at": "2026-04-27 08:08:03",
+    "ja_summary": "MetaがAI開発を加速するため、AWSと提携。\n数千万個のAWS GravitonコアをMetaのAI基盤に導入。\nこれにより、エージェント型AIの能力を大幅に強化する。"
+  },
+  {
+    "title": "「Metaアカウント」刷新、Facebook・Instagram・Questの管理を一元化",
+    "link": "https://japan.cnet.com/article/35246856/",
+    "source": "CNET Japan",
+    "published": "",
+    "summary": "Metaは「Metaアカウント」を強化し、「Facebook」「Instagram」「Threads」といった同社のアプリだけでなく、AIスマートグラスや「Meta Quest」ヘッドセットなどのデバイスにまたがるMetaアカウントを一元管理できるようにすると発表した。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35246856/\"><img src=\"https://japan.cnet.com/storage/2026/04/23/47b99dd4f6a1ed56331414537afac0e1/t/184/138/d/meta-ai-gettyimages-2244674573_1280x960.jpg\" /></a>",
+    "image": "https://japan.cnet.com/storage/2026/04/23/47b99dd4f6a1ed56331414537afac0e1/t/184/138/d/meta-ai-gettyimages-2244674573_1280x960.jpg",
+    "fetched_at": "2026-04-27 08:08:07",
+    "ja_summary": "Metaは、Facebook、Instagram、Questなどのサービスとデバイスを、Metaアカウントで一元管理できるようにする。\nこれにより、複数のMeta製品の利用がより便利になる。"
+  },
+  {
+    "title": "OpenAIに刑事捜査のメス、ChatGPTが銃撃犯に「武器や時間」を助言か",
+    "link": "https://japan.cnet.com/article/35246841/",
+    "source": "CNET Japan",
+    "published": "",
+    "summary": "2025年4月、フロリダ州立大学のキャンパスで男が発砲し死傷者が出た事件で、フロリダ州当局は「ChatGPT」開発元のOpenAIにも刑事責任があるかを判断するために捜査を開始した。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35246841/\"><img src=\"https://japan.cnet.com/storage/2026/04/24/6bb57469a9f993d7b1779dd77d086830/t/184/138/d/gettyimages-2210118739_1280x960.jpg\" /></a>",
+    "image": "https://japan.cnet.com/storage/2026/04/24/6bb57469a9f993d7b1779dd77d086830/t/184/138/d/gettyimages-2210118739_1280x960.jpg",
+    "fetched_at": "2026-04-27 08:08:07",
+    "ja_summary": "要約の生成に失敗しました。"
+  },
+  {
+    "title": "今日のUITraitCollection",
+    "link": "https://zenn.dev/tatsube/articles/92ecf68260d2fb",
+    "source": "Zenn Trends",
+    "published": "Sun, 26 Apr 2026 11:21:13 GMT",
+    "summary": "SwiftUIの @Environment は、状態を環境変数として扱い、親ビューから子ビューへと効率的に流し込める非常に便利な仕組みです。\n実はUIKitにおいても、このコンセプトを体現する強力な仕組みは古くから備わっています。\n今回は、iOS 8から提供されている歴史あるAPIであり、iOS 17での進化を経て開発者が独自の値を定義・伝播できる柔軟性を手に入れ、@Environmentのように任意の値を階層に流せる仕組みへと進化した UITraitCollection について解説します。\n\n UITraitCollectionとは？\nUITraitCollection は、いわば ...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--W4vNFeKu--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_66:%25E4%25BB%258A%25E6%2597%25A5%25E3%2581%25AEUITraitCollection%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:tatsubee%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzNlODBlYTk4YzUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-04-27 08:08:29",
+    "ja_summary": "要約の生成に失敗しました。"
+  },
+  {
+    "title": "LINEをAIエージェントの入口にする現実解",
+    "link": "https://zenn.dev/peintangos/articles/b024c86e672191",
+    "source": "Zenn Trends",
+    "published": "Sun, 26 Apr 2026 11:12:50 GMT",
+    "summary": "こんにちは！peintangos です。ChatGPT、Claude、Discord、Slack など、普段わたしたちが触れる AI のインターフェースはたくさんあります。一方で、日本で個人間のコミュニケーションに使われるアプリとしては、LINE の存在感はかなり大きいです。LY Corporation の FY2024 統合報告書によると、LINE の国内月間アクティブユーザーは約 9,800 万人とされています。では、LINE 上で AI エージェントの応答はどこまで表現できるのでしょうか？この記事では、Messaging API、LIFF、LINE Bot MCP Server を...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--a-aOlYij--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:LINE%25E3%2582%2592AI%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588%25E3%2581%25AE%25E5%2585%25A5%25E5%258F%25A3%25E3%2581%25AB%25E3%2581%2599%25E3%2582%258B%25E7%258F%25BE%25E5%25AE%259F%25E8%25A7%25A3%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:peintangos%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2YwMzFmMThmOGEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-04-27 08:08:29",
+    "ja_summary": "要約の生成に失敗しました。"
+  },
+  {
+    "title": "LLMアプリケーションにおける設計Principal - LLMのCAP定理",
+    "link": "https://zenn.dev/hsaki/articles/llm-cap-theorem",
+    "source": "Zenn Trends",
+    "published": "Sun, 26 Apr 2026 08:00:14 GMT",
+    "summary": "はじめに\n分散システムを学ぶ人なら一度は「CAP定理」という言葉を耳にしたことがあるでしょう。\nConsistency(一貫性)・Availability(可用性)・Partition tolerance(分断耐性)の3つを同時に満たすシステムは作れないという分散システムのよく知られた性質をこの定理は表しています。\nシステム設計を行うアーキテクトはどこかでこのトレードオフに直面し、どれを優先しどれを落とすのかを選択する必要に迫られることになります。\nこのような設計上のトレードオフは分散システムに限ることなく、技術を用いてモノを作る際には何かしら発生するものです。\n今回はその中でも昨今...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--lgpd0se_--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:LLM%25E3%2582%25A2%25E3%2583%2597%25E3%2583%25AA%25E3%2582%25B1%25E3%2583%25BC%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3%25E3%2581%25AB%25E3%2581%258A%25E3%2581%2591%25E3%2582%258B%25E8%25A8%25AD%25E8%25A8%2588Principal%2520-%2520LLM%25E3%2581%25AECAP%25E5%25AE%259A%25E7%2590%2586%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%2595%25E3%2581%258D%2528H.Saki%2529%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzUxMjkxZTA5YTAuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-04-27 08:08:30",
+    "ja_summary": "要約の生成に失敗しました。"
+  },
+  {
+    "title": "Figma開かんでもデザインできる時代がきたで｜Claude Designで初稿まで爆速ガイド",
+    "link": "https://zenn.dev/masayan1126/books/claude-design",
+    "source": "Zenn Trends",
+    "published": "Sun, 26 Apr 2026 07:02:06 GMT",
+    "summary": "Anthropic LabsのClaude Design（2026/4/17リリース）を実体験で完全攻略するで。プロンプト1本でプロトタイプ・ワイヤー・LP・スライド初稿作ってそのまま編集、デザインシステム構築、週間利用枠まで見せたる本やで。",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--Cx3Vh-BT--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYm9va19jb3Zlci8zZDY2YzQ3NWI3LmpwZWc=%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg?_a=BACAGSGT",
+    "fetched_at": "2026-04-27 08:08:30",
+    "ja_summary": "要約の生成に失敗しました。"
+  },
+  {
+    "title": "Matz の Ruby AOT コンパイラ Spinel を試してみました",
+    "link": "https://zenn.dev/geeknees/articles/edc3cb36ea251c",
+    "source": "Zenn Trends",
+    "published": "Sun, 26 Apr 2026 06:34:35 GMT",
+    "summary": "RubyKaigi 2026 に参加して、Matz のキーノートで Spinel の発表を聞きました。Spinel は Ruby の AOT コンパイラで、Ruby のコードを読み、C のコードを生成し、最後は native binary として実行できる形にします。Ruby を書いている人間としては、「Ruby の AOT コンパイラ」という言葉だけでテンションが上がります。\nRuby はかなり動的な言語でもあります。メソッド呼び出し、クラスの再オープン、メタプログラミング、eval、実行時に変わるオブジェクトの形。普通に考えると、AOT コンパイルとは相性が悪そうに見えます。\nそれで...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--nD6xnCDC--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Matz%2520%25E3%2581%25AE%2520Ruby%2520AOT%2520%25E3%2582%25B3%25E3%2583%25B3%25E3%2583%2591%25E3%2582%25A4%25E3%2583%25A9%2520Spinel%2520%25E3%2582%2592%25E8%25A9%25A6%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%25BE%25E3%2581%2597%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:geeknees%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzA2MzFhY2QzYWIuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-04-27 08:08:30",
+    "ja_summary": "要約の生成に失敗しました。"
+  },
+  {
+    "title": "クソバズワード「ハーネスエンジニアリング」と向き合う",
+    "link": "https://qiita.com/retore/items/3688cf515c14f7471ed4",
+    "source": "Qiita (Popular)",
+    "published": "2026-04-18T21:52:58+09:00",
+    "summary": "数週間くらい前に突然どいつもこいつも「ハーネスエンジニアリング」とツイートするようになり，最初はhooksとかskillsのことをハーネスと呼んでいるらしいと認識していたのだが，ある日ClaudeCodeのことをハーネスとして扱う発言をしているツイートを見つけて，「ハーネスエンジニアリング is 何？」となった．\n\nhttps://x.com/retore/status/2041473483004",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGNDQ0MDM3JTJGcHJvZmlsZS1pbWFnZXMlMkYxNzY3MzMxMzEwP2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz00ZTgzODFhZTQ3ZGFlYmIzOWMyOTRiOGI0YzE4ZjJmYw%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D3a91397aaf4209dd13b44aa01a5d47ab?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgyJUFGJUUzJTgyJUJEJUUzJTgzJTkwJUUzJTgyJUJBJUUzJTgzJUFGJUUzJTgzJUJDJUUzJTgzJTg5JUUzJTgwJThDJUUzJTgzJThGJUUzJTgzJUJDJUUzJTgzJThEJUUzJTgyJUI5JUUzJTgyJUE4JUUzJTgzJUIzJUUzJTgyJUI4JUUzJTgzJThCJUUzJTgyJUEyJUUzJTgzJUFBJUUzJTgzJUIzJUUzJTgyJUIwJUUzJTgwJThEJUUzJTgxJUE4JUU1JTkwJTkxJUUzJTgxJThEJUU1JTkwJTg4JUUzJTgxJTg2JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9OTc3OTdkNDE3NzUxMGJkZGFiNjlhOTQ2YWEyYTM2Y2I&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDByZXRvcmUmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1hMmFiN2E5MzI2NWQ4YTg2Zjc4NTBlMzgzMDYyMzc3ZA&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=bb91a88fe7fbdf5fba382c5a0ef43fb4",
+    "fetched_at": "2026-04-27 08:08:35",
+    "ja_summary": "要約の生成に失敗しました。"
+  },
+  {
+    "title": "Claude × Codex × Gemini を\"併用\"する設計 ─ セカンドオピニオン運用フレーム",
+    "link": "https://qiita.com/nogataka/items/b2b4a84ba611ccaf8447",
+    "source": "Qiita (Popular)",
+    "published": "2026-04-17T13:20:50+09:00",
+    "summary": "\n## はじめに\n\nClaude Code、Codex CLI、Gemini CLI の比較記事は、ここ半年で一気に増えました。\n\n多くは「どれが最強か」を問う記事です。読むと参考になる一方、結局どれか 1 つを選ばされる構図になりがちで、実務の体感とは少しずれます。私の手元では、3 ツールは互いに\"置き換え\"ではなく\"補完\"の関係で並んでいます。\n\n本記事では「どれが最強か」ではなく、「3 ツー",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYxNjEyOTglMkZjMWUzZmZkNmVhZGExOTY5ZmYzYzQ0YjE0ZmRlMDgxYmNkZTZmNTAwJTJGeF9sYXJnZS5wbmclM0YxNTg0ODQ1NTg0P2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz00ZGRjZmU5NTFjNTMyMzU3NjcyOGUzOTkyOTNmOGRlNQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D246367bff431168e6212d2602a3df494?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9Q2xhdWRlJTIwJUMzJTk3JTIwQ29kZXglMjAlQzMlOTclMjBHZW1pbmklMjAlRTMlODIlOTIlMjIlRTQlQkQlQjUlRTclOTQlQTglMjIlRTMlODElOTklRTMlODIlOEIlRTglQTglQUQlRTglQTglODglMjAlRTIlOTQlODAlMjAlRTMlODIlQkIlRTMlODIlQUIlRTMlODMlQjMlRTMlODMlODklRTMlODIlQUElRTMlODMlOTQlRTMlODMlOEIlRTMlODIlQUElRTMlODMlQjMlRTklODElOEIlRTclOTQlQTglRTMlODMlOTUlRTMlODMlQUMlRTMlODMlQkMlRTMlODMlQTAmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1mMGRiNDc3MzgxNmI2Y2QzMmM2YTIxMzIyZTllY2QyMw&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBub2dhdGFrYSZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWE5ODA4YTE0Zjg4Y2I0ZjQ5OWU2ZDA3NGYyY2E2YTNh&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=e4c13f823e91ecc4c2b914f51362686b",
+    "fetched_at": "2026-04-27 08:08:36",
+    "ja_summary": "要約の生成に失敗しました。"
+  },
+  {
     "title": "徹底解剖　AIエージェント管理",
     "link": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020600014/042200226/",
     "source": "日経クロステック 総合",
@@ -888,115 +998,5 @@
     "image": "https://files.speakerdeck.com/presentations/eee065e97fe54f79a6063a80a74eb8a1/preview_slide_0.jpg?39219753",
     "fetched_at": "2026-04-25 20:02:46",
     "ja_summary": "Angularの古い設計パターンを最新のAngularに適用できるか検証。\n古いパターンは現代のAngularのシンプルさに合わず、制約となる場合がある。\n最新のAngularの利点を活かした、よりシンプルで効率的な設計パターンを紹介。"
-  },
-  {
-    "title": "Introducing workspace agents in ChatGPT",
-    "link": "https://openai.com/index/introducing-workspace-agents-in-chatgpt",
-    "source": "OpenAI",
-    "published": "Wed, 22 Apr 2026 10:00:00 GMT",
-    "summary": "Workspace agents in ChatGPT are Codex-powered agents that automate complex workflows, run in the cloud, and help teams scale work across tools securely.",
-    "image": "https://openai.com/favicon.ico",
-    "fetched_at": "2026-04-25 19:03:56",
-    "ja_summary": "ChatGPTに「ワークスペースエージェント」が登場。\nCodex技術で複雑な作業を自動化し、チームの生産性向上を支援。\nクラウド上で安全に動作し、複数ツール連携を効率化。"
-  },
-  {
-    "title": "Anthropic and NEC collaborate to build Japan’s largest AI engineering workforce",
-    "link": "https://www.anthropic.com/news/anthropic-nec",
-    "source": "Anthropic (News)",
-    "published": "Fri, 24 Apr 2026 00:00:00 +0000",
-    "summary": "Anthropic and NEC collaborate to build Japan’s largest AI engineering workforce",
-    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20NodeGlobe&amp;backgroundColor=heather",
-    "fetched_at": "2026-04-25 19:03:57",
-    "ja_summary": "AI開発大手AnthropicとNECが提携。\n\n日本最大級のAIエンジニア集団を構築し、AI技術開発を加速。\n\n高度なAI人材育成で、日本のAI産業を強化する。"
-  },
-  {
-    "title": "Anthropic’s Long-Term Benefit Trust appoints Vas Narasimhan to Board of Directors",
-    "link": "https://www.anthropic.com/news/narasimhan-board",
-    "source": "Anthropic (News)",
-    "published": "Tue, 14 Apr 2026 00:00:00 +0000",
-    "summary": "Anthropic’s Long-Term Benefit Trust appoints Vas Narasimhan to Board of Directors",
-    "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
-    "fetched_at": "2026-04-25 19:04:12",
-    "ja_summary": "AI企業Anthropicの信託が、ノバルティスCEOのヴァス・ナラシンハン氏を取締役に選任。\n\nAIの長期的な利益を追求するAnthropicのガバナンス強化が狙い。\n\n製薬業界からAI分野への専門知識の流入が期待される。"
-  },
-  {
-    "title": "AndroidアプリとCopilot Studioの統合",
-    "link": "https://speakerdeck.com/nakasho/androidahuritocopilot-studionotong-he",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-04-25T05:30:59-04:00",
-    "summary": "2026/4/25(土)に開催された .NETラボ 勉強会 2026年4月( https://dotnetlab.connpass.com/event/383200/ ) に参加した時に当日受付LTで発表した資料です。 #dotnetlab",
-    "image": "https://files.speakerdeck.com/presentations/7048f7e63da64b6d916e60dd70b688aa/preview_slide_0.jpg?39219415",
-    "fetched_at": "2026-04-25 19:04:14",
-    "ja_summary": "AndroidアプリとCopilot Studioが統合。\n.NETラボ勉強会でのLT発表資料。\n開発者はCopilot StudioでAndroidアプリを効率的に構築可能。"
-  },
-  {
-    "title": "M5Stack CoreS3とZephyr(RTOS)で Edge AIっぽいことしてみた",
-    "link": "https://speakerdeck.com/iotengineer22/m5stack-cores3tozephyr-rtos-de-edge-aitupoikotositemita",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-04-25T05:00:19-04:00",
-    "summary": "ミソジ　2026/４/27\nM5 Japan Tour 2026 Spring Nagoya\n#M5JPTOUR2026",
-    "image": "https://files.speakerdeck.com/presentations/ea45af979d6f49c7ab1965d0a3bc85f2/preview_slide_0.jpg?39219170",
-    "fetched_at": "2026-04-25 18:09:49",
-    "ja_summary": "要約の生成に失敗しました。"
-  },
-  {
-    "title": "[HeatWavejpMeetup#18] AI活用による教育機関の学生指導記録ツールを開発してみた [神田 智大 氏 (株式会社パソナデータ＆デザイン)]",
-    "link": "https://speakerdeck.com/heatwavejp/heatwavejpmeetup-number-18-aihuo-yong-niyorujiao-yu-ji-guan-noxue-sheng-zhi-dao-ji-lu-turuwokai-fa-sitemita-shen-tian-zhi-da-shi-zhu-shi-hui-she-pasonadeta-and-dezain",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-04-25T04:42:51-04:00",
-    "summary": "【講演内容】\n今年2月に社内のAIコンペがあり、出場作品として「先生が学生を指導したときの会話音声から学生指導記録を生成する」というツールを、 \nOCI Speech / OCI Generative AI といったサービスと連携させ開発しました。\n本セッションでは、MySQL HeatWave GenAIの機能の一つであるNL2SQL機能を実際に組み込んでみてのポイントや感想などをご紹介します。\n\n1. 検証アプリと構成概要\n　- 学生指導記録の生成・検索アプリ\n　- Autonomous Database（SELECT AI）からHeatWaveへの移行検証\n\n2. NL2SQL機能の概要と利用環境\n　- 自然言語からSQL生成・実行の仕組み\n　- 利用したモデル・HeatWave構成\n\n3. 実装で直面した課題\n　- SQL生成精度の低さと処理時間の課題\n　- 日本語検索時のエラー（文字コード問題など）\n\n4. 改善アプローチとポイント\n　- プロンプト設計（検索ルールの先出し・Few-shot例）\n　- モデル選定による精度・速度改善\n\n5. 検証結果と今後の展望\n　- NL2SQLの現状評価と実用性\n　- AI活用における設計・チューニングの重要性\n\n【発表者】\n株式会社パソナデータ＆デザイン\nデータテクノロジー本部 データベース部\n神田 智大 氏\n\n【イベント情報】\nHeatWavejp Meetup #18\nhttps://heatwavejp.connpass.com/event/387800/",
-    "image": "https://files.speakerdeck.com/presentations/45c4d6963aba40e7af1f80612d33c239/preview_slide_0.jpg?39218899",
-    "fetched_at": "2026-04-25 18:09:49",
-    "ja_summary": "学生指導の会話をAIで記録・検索するツールを開発し、MySQL HeatWaveの「NL2SQL（自然言語からのSQL生成）」を検証。\n精度や日本語処理の課題に対し、プロンプト設計やモデル選定の工夫で改善を図った事例を紹介。\nAI活用における、実用的なシステム構築に向けた設計・チューニングの重要性を提示した。"
-  },
-  {
-    "title": "[HeatWavejpMeetup#18] 自然言語で SELECT ― Claude × MCP で Private な HeatWave につないでみた [宮本 航太 氏 (CData Software Japan 合同会社)]",
-    "link": "https://speakerdeck.com/heatwavejp/heatwavejpmeetup-number-18-zi-ran-yan-yu-de-select-claude-x-mcp-de-private-na-heatwave-nitunaidemita-gong-ben-hang-tai-shi-cdata-software-japan-he-tong-hui-she",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-04-25T04:41:10-04:00",
-    "summary": "【講演内容】\nAI エージェントが社内データベースに直接アクセスできる時代が来ています。\nしかし、Private 接続の MySQL HeatWave にAIからアクセスするとなると「セキュリティは？」「どうやって繋ぐの？」という疑問が浮かぶのではないでしょうか。\n本セッションでは、AIとデータソースをつなぐプロトコル「MCP」とCData Connect AI を組み合わせて、Claude から Private 接続の MySQL HeatWave に自然言語で問い合わせるデモをお見せしつつ、その裏側の仕組みや設定方法を解説します。普段使いのAIクライアントから HeatWave のデータにアクセスする方法を、ぜひ持ち帰ってください。\n\n1. AI × 社内データ活用の課題\n　- Privateネットワークへの接続制約\n　- セキュリティ（認証情報の扱い）\n　- クライアント多様性（Claude / Copilot など）\n\n2. MCPとCData Connect AIによる解決アプローチ\n　- MCP（Model Context Protocol）の概要\n　- Connect AIによる接続・認証管理\n　- Connect GatewayによるPrivate接続\n\n3. 全体アーキテクチャ\n　- AIクライアントとHeatWaveの接続構成\n　- セキュアなリバーストンネルによる接続\n\n4. デモと実装イメージ\n　- 自然言語によるクエリ実行（テーブル参照・集計・可視化）\n　- AIが生成するSQLと実行フロー\n\n【発表者】\nCData Software Japan 合同会社\nSenior Product Specialist\n宮本 航太 氏\n\n【イベント情報】\nHeatWavejp Meetup #18\nhttps://heatwavejp.connpass.com/event/387800/",
-    "image": "https://files.speakerdeck.com/presentations/38f201204c4c48a186e070bdd49d620d/preview_slide_0.jpg?39218878",
-    "fetched_at": "2026-04-25 18:09:49",
-    "ja_summary": "AIに社内データベース（MySQL HeatWave）を安全に接続させる方法を紹介。\n「MCP」と「CData Connect AI」を使い、Claudeから自然言語でHeatWaveに直接問い合わせるデモと仕組みを解説。\nこれにより、AIによる社内データ活用が手軽かつセキュアに実現可能になる。"
-  },
-  {
-    "title": "Claude Codeのノウハウをサンプルコードで学ぶ ── ハーネス設計8パターン編",
-    "link": "https://qiita.com/nogataka/items/6d0eccd780b824cf080e",
-    "source": "Qiita (Popular)",
-    "published": "2026-04-21T14:42:39+09:00",
-    "summary": "\n## はじめに\n\n本記事は「Claude Codeのノウハウをサンプルコードで学ぶ」シリーズの**3本目（サンプルコード編の前半）**です。シリーズ全体は以下の4本構成になっています。\n\n1. [入門編](https://qiita.com/nogataka/items/59cc72e55e037d77225f) — Claude Codeの全体像とAIエージェントの仕組みを体感する\n2. [中",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYxNjEyOTglMkZjMWUzZmZkNmVhZGExOTY5ZmYzYzQ0YjE0ZmRlMDgxYmNkZTZmNTAwJTJGeF9sYXJnZS5wbmclM0YxNTg0ODQ1NTg0P2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz00ZGRjZmU5NTFjNTMyMzU3NjcyOGUzOTkyOTNmOGRlNQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D246367bff431168e6212d2602a3df494?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9Q2xhdWRlJTIwQ29kZSVFMyU4MSVBRSVFMyU4MyU4RSVFMyU4MiVBNiVFMyU4MyU4RiVFMyU4MiVBNiVFMyU4MiU5MiVFMyU4MiVCNSVFMyU4MyVCMyVFMyU4MyU5NyVFMyU4MyVBQiVFMyU4MiVCMyVFMyU4MyVCQyVFMyU4MyU4OSVFMyU4MSVBNyVFNSVBRCVBNiVFMyU4MSVCNiUyMCVFMiU5NCU4MCVFMiU5NCU4MCUyMCVFMyU4MyU4RiVFMyU4MyVCQyVFMyU4MyU4RCVFMyU4MiVCOSVFOCVBOCVBRCVFOCVBOCU4ODglRTMlODMlOTElRTMlODIlQkYlRTMlODMlQkMlRTMlODMlQjMlRTclQjclQTgmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz04YzNiOTMyZjEzNjZiYmYyYTM1OTAwZWMzNjczMDc2Nw&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBub2dhdGFrYSZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWE5ODA4YTE0Zjg4Y2I0ZjQ5OWU2ZDA3NGYyY2E2YTNh&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=f4296d164c9937810fa065bf36fb8fc2",
-    "fetched_at": "2026-04-25 18:09:50",
-    "ja_summary": "Claude Codeでハーネス設計を学ぶ、サンプルコード解説記事。\n8パターンの設計例を通じて、Claude Codeの活用ノウハウを具体的に解説。\nAIエージェントの仕組みと連動した実践的な学習が可能。"
-  },
-  {
-    "title": "【2026年4月更新】Claude Codeの役に立つフロントデザインのskills10選",
-    "link": "https://qiita.com/kamome_susume/items/41300417840aa107472e",
-    "source": "Qiita (Popular)",
-    "published": "2026-04-19T22:35:42+09:00",
-    "summary": "「Claude Codeに頼んでUIを作ってもらったのに、なんか普通すぎる…」と感じたことはありませんか？\nInterフォント、白背景に紫グラデーション、無難なカードレイアウト、これ、実は世界中のエンジニアが同じ悩みを抱えています。\n\nClaude Codeは非常に優秀なコーディングエージェントですが、**デフォルトのまま使うとデザインが\"AIっぽい平均点\"に収束してしまう**という問題があります",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYxNjkzMjQ4JTJGZDhlMmU1OWNiMDVmY2Y3MDQ3ZDgyN2ZjNDlkNDAwMTkzZTU5NDdjOSUyRnhfbGFyZ2UucG5nJTNGMTY4NjMxODg1ND9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9ZDRiNjcyYjg4ZWUxYTRkNjI1ZDRjOGFkMzVkMzQ5NjI%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Ddc9a014e564257547b64353543c58776?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJTkwMjAyNiVFNSVCOSVCNDQlRTYlOUMlODglRTYlOUIlQjQlRTYlOTYlQjAlRTMlODAlOTFDbGF1ZGUlMjBDb2RlJUUzJTgxJUFFJUU1JUJEJUI5JUUzJTgxJUFCJUU3JUFCJThCJUUzJTgxJUE0JUUzJTgzJTk1JUUzJTgzJUFEJUUzJTgzJUIzJUUzJTgzJTg4JUUzJTgzJTg3JUUzJTgyJUI2JUUzJTgyJUE0JUUzJTgzJUIzJUUzJTgxJUFFc2tpbGxzMTAlRTklODElQjgmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1kMTI3ZTg4NGU1NjJhZDNkMmUyMWJhMDMxNTZjYzg1Mw&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBrYW1vbWVfc3VzdW1lJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9ZGRiZTIzN2VhYmFmZjQ1YThiNWYzYWQyMWVhNzMzOTI&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=cfe95cba2a5e88ed715f0f1b1793457c",
-    "fetched_at": "2026-04-25 18:09:52",
-    "ja_summary": "・Claude Codeが作るUIは「AIらしい平均的なデザイン」になりがち。\n・独自性を出すには、特定のデザインスキル（フォントや配色など）を指示に加える必要がある。\n・AI任せにせず、差別化を図るための10の必須スキルを習得することが重要。"
-  },
-  {
-    "title": "文系年金受給記者がAIハッカソンでゲームプログラミング。富士山麓にMacBook Neoを持ち込みヴァイブコーディングした結末（CloseBox）",
-    "link": "https://www.techno-edge.net/article/2026/04/25/5023.html",
-    "source": "TechnoEdge",
-    "published": "Sat, 25 Apr 2026 16:50:11 +0900",
-    "summary": "大学受験は数学の配点が著しく低いところを選んだし、それでも100点中20点しか取れなかったという、完全文系なわたくしですが、このほど、富士山麓河口湖にある貸別荘で開催されたAIハッカソンに参加してきました。",
-    "image": "https://www.techno-edge.net/imgs/rss/31153.jpg",
-    "fetched_at": "2026-04-25 17:12:23",
-    "ja_summary": "文系記者がAIハッカソンでゲームプログラミングに挑戦。\n数学が苦手でも、AIとMacBookで創造的なコーディングを体験。\n富士山麓でのハッカソンで、文系ならではの視点でAI活用を模索。"
-  },
-  {
-    "title": "Claude Code × Obsidian Vault で作る「何でも相談」プロジェクト ― フォルダ構成・CLAUDE.md・MCP設定まで全公開",
-    "link": "https://qiita.com/htani0817/items/0cb5e8f91fa64fb9ba8c",
-    "source": "Qiita (Popular)",
-    "published": "2026-04-18T23:27:42+09:00",
-    "summary": "## はじめに\n\nClaude Code を使い始めて少し経つと、多くの人が同じ問題にぶつかります。\n\n- Claude が生成した `.md` がプロジェクトルート直下に散乱する\n- 「あの調査メモどこ行った？」が週1で起きる\n- Mac と Windows を行き来するたびにパス問題でつまずく\n\nこの記事では、私が実際に運用している「何でも相談-pj」という Claude Code 専用プロジ",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0MDk4MjM2JTJGYTI2OGI2ZjZkYjYyMjg4ODc4NTdhZTU3MzIwNzAxYzhmOWRjYjFkNCUyRmxhcmdlLnBuZyUzRjE3NDgyNzY3NzU_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPTE2YjNmNDQ3OTAzZTllZGZmYzg5ZDMzNWM0OTM0Zjlj%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D7e25c971195c678e769b50eb30b2c965?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9Q2xhdWRlJTIwQ29kZSUyMCVDMyU5NyUyME9ic2lkaWFuJTIwVmF1bHQlMjAlRTMlODElQTclRTQlQkQlOUMlRTMlODIlOEIlRTMlODAlOEMlRTQlQkQlOTUlRTMlODElQTclRTMlODIlODIlRTclOUIlQjglRTglQUIlODclRTMlODAlOEQlRTMlODMlOTclRTMlODMlQUQlRTMlODIlQjglRTMlODIlQTclRTMlODIlQUYlRTMlODMlODglMjAlRTIlODAlOTUlMjAlRTMlODMlOTUlRTMlODIlQTklRTMlODMlQUIlRTMlODMlODAlRTYlQTclOEIlRTYlODglOTAlRTMlODMlQkJDTEFVREUubWQlRTMlODMlQkIlRTIlODAlQTYmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1mNGZiYjg3OTlhNDQ2MzE5ZWY1ZTA1YjRmM2QwMWU1Mg&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBodGFuaTA4MTcmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1kZWViMzc0N2E1MTdhMGQzYWEyZDBlOTg2ODMwYThhOA&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=f4ca13f787b7e22e23009be23e52f837",
-    "fetched_at": "2026-04-25 17:12:48",
-    "ja_summary": "・Claude Code利用時のファイル散乱や管理不全を解決する専用プロジェクト運用術を解説。\n・推奨フォルダ構成や「CLAUDE.md」の活用、MCP設定を全公開し、効率的なAI連携を実現。\n・OS間（Mac/Windows）のパス問題を解消し、調査メモやプロジェクト管理を最適化する手法。"
   }
 ]
