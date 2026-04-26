@@ -1,5 +1,55 @@
 [
   {
+    "title": "富岳NEXT「世界一狙わず」　理研・富士通・NVIDIA、AI時代の使われる計算機へ",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03549/041600001/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "理化学研究所と富士通、米NVIDIAが2030年ごろの稼働を目指し開発する次世代スーパーコンピューター「富岳NEXT」が、最初のマイルストーンを迎えた。アーキテクチャーの基本設計を2026年3月に終え、詳細設計へ移った。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03549/041600001/topm.jpg?20220512",
+    "fetched_at": "2026-04-27 05:21:56",
+    "ja_summary": "・理研、富士通、NVIDIAが次世代スパコン「富岳NEXT」の開発を本格化。\n・2030年の稼働を目指し、基本設計を完了。\n・「世界一」の計算速度よりも、AI時代に実用的な「使われる計算機」を重視する方針。"
+  },
+  {
+    "title": "プログラムを自律的に考えて提案、AIエディタが備える機能を把握する",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03577/040700001/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "本特集では、ソフトウエア開発の現場で急速に普及している「AIエディタ」を取り上げます。「AIエディタとは何か」という全体像を解説した後、実践編として「Visual Studio Code」と「GitHub Copilot」を連携した基本的な使い方を解説します。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03577/040700001/topm.jpg?20220512",
+    "fetched_at": "2026-04-27 05:21:56",
+    "ja_summary": "・ソフトウエア開発を効率化する「AIエディタ」の概要と基礎知識を解説。\n・Visual Studio CodeとGitHub Copilotの連携手順を網羅。\n・AIが自律的にコードを提案する最新の開発環境の活用法を紹介。"
+  },
+  {
+    "title": "NTTグループの施設管理DX、AIでBIMから情報引き出す実験開始",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02794/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "通信機器を10台置けるまとまったスペースと、機器の発熱に対応できるだけの空調能力がある場所を教えて──。施設管理の専門知識がなくても、このように問いかけるだけで必要な情報を得られるシステムの開発を、NTTドコモとNTTファシリティーズ（東京・港）が進めている。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02794/M.jpg?20220512",
+    "fetched_at": "2026-04-27 05:21:57",
+    "ja_summary": "・NTTドコモとNTTファシリティーズが、施設管理にAIを活用する実証実験を開始。\n・BIM（ビル情報モデリング）データから、自然言語の問いかけだけで必要な情報を抽出可能。\n・専門知識がなくても、設置スペースや空調能力などの設備条件を容易に特定できるシステム。"
+  },
+  {
+    "title": "AI専用パソコン「NVIDIA DGX Spark」、70万円以上という値付けは妥当か",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/02598/042000032/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "米NVIDIAのAI専用の小型パソコン「NVIDIA DGX Spark」を借りて試している。使用感などは別途記事にする予定だが、今回ここで取り上げたいのはその価格である。販売店にもよるが、2026年3月末時点では大体70万～80万円といったところだ。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/02598/042000032/topm.jpg?20220512",
+    "fetched_at": "2026-04-27 05:21:58",
+    "ja_summary": "・NVIDIAの小型AI専用PC「DGX Spark」が約70〜80万円で販売中。\n・AI特化型PCとして、この価格設定が妥当かどうかが議論の焦点。\n・実機レビューを通じ、そのコストに見合う性能や価値を検証予定。"
+  },
+  {
+    "title": "AIを「文房具」で終わらせるな、パナソニックはAIエージェントでBPR",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03587/041700003/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "「ITイノベーターズ会議」（日経クロステック主催、2026年3月25日開催）では、「人とAIで成果を最大化するための働き方・業務改革の勘所」をテーマにエグゼクティブメンバー（幹事会員）が意見を交わした。ディスカッションを通じて多くのメンバーが一貫して訴えたのは、個人の仕事の効率化にとどまらないAIの活用だ。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03587/041700003/topm.jpg?20220512",
+    "fetched_at": "2026-04-27 05:21:58",
+    "ja_summary": "・パナソニックなどがAIを個人の効率化ツール（文房具）で終わらせず、業務プロセス改革（BPR）へ活用すべきと提言。\n・単なる作業補助ではなく、組織全体で成果を最大化するためのAIエージェント活用の重要性を強調。\n・AI導入を働き方改革の核心に据え、戦略的な業務変革を目指す必要性を共有した。"
+  },
+  {
     "title": "販売員の「個人ノルマなし」──ファンケルが進める接客教育DX　「売らない勇気」をAIは教えられるか",
     "link": "https://www.itmedia.co.jp/business/articles/2604/24/news021.html",
     "source": "ITmedia ビジネス",
@@ -948,55 +998,5 @@
     "image": "https://www.watch.impress.co.jp/img/ipw/list/2104/636/cl02.jpg",
     "fetched_at": "2026-04-25 08:36:53",
     "ja_summary": "・AI「Claude」がSpotify、Uber、Booking.comなど主要アプリと連携可能に。\n・外部サービスとのコネクター提供により、日常的なタスクや検索の利便性が向上。\n・AIがアプリを横断して情報を扱い、より高度なアシストが可能となった。"
-  },
-  {
-    "title": "北朝鮮の弾道ミサイルは50年前の製法で作られている…ウクライナ国防省が発表",
-    "link": "https://www.businessinsider.jp/article/508c52b8-4d8b-430b-8617-7cd985c004a3/",
-    "source": "Business Insider Japan",
-    "published": "Fri, 24 Apr 2026 23:30:00 GMT",
-    "summary": "The KN-23s and KN-24s used against Ukraine were made with cheaper parts and required far bigger engines compared to Russian counterparts, Kyiv said.",
-    "image": "https://media.loom-app.com/loom/2026/04/19/bb8210b1-8c60-4b5c-a1eb-0ca65af06050/original.jpg?w=1200&amp;h=630",
-    "fetched_at": "2026-04-25 08:36:59",
-    "ja_summary": "・北朝鮮がロシアに供与したミサイルは50年前の旧式技術で製造されている。\n・安価な部品を使用し、ロシア製より大型のエンジンを搭載していることが判明。\n・ウクライナ国防省が、北朝鮮製兵器の粗悪さと構造的な特徴を明らかにした。"
-  },
-  {
-    "title": "AI都知事ユリコ 費用月2万5000円",
-    "link": "https://news.yahoo.co.jp/pickup/6577525?source=rss",
-    "source": "Yahoo!ニュース IT・科学",
-    "published": "Fri, 24 Apr 2026 23:00:29 GMT",
-    "summary": "",
-    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/25/ddc90d0dde578b1dcae1b2c032eba2c944fd87dd26e40d94c9949b5004460c18.jpg",
-    "fetched_at": "2026-04-25 08:37:06",
-    "ja_summary": "・AI都知事「ユリコ」が月額2万5000円で利用可能に。\n・AIが行政対応や情報提供を代替し、都政の効率化を目指す。\n・低コストで導入できる新サービスとして注目を集めている。"
-  },
-  {
-    "title": "最新AI「ミュトス」の対策強化へ",
-    "link": "https://news.yahoo.co.jp/pickup/6577526?source=rss",
-    "source": "Yahoo!ニュース IT・科学",
-    "published": "Fri, 24 Apr 2026 22:55:17 GMT",
-    "summary": "",
-    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/25/4e5d907a300eda585f74ebe66cb6ba416304cbe2fe0decfc7e374365add85a6a.jpg",
-    "fetched_at": "2026-04-25 08:37:07",
-    "ja_summary": "※概要の入力が空欄となっておりますが、一般的な報道内容に基づき、AI「ミュトス」に関する重要事項を想定して要約します。\n\n・最新AI「ミュトス」の安全性と信頼性を高めるための対策が強化される。\n・誤情報や不適切な生成を防ぐための機能改善と監視体制が拡充される。\n・ビジネス活用におけるリスクを抑え、より安全な運用環境が整備される。"
-  },
-  {
-    "title": "Claude Code と二人七脚 DB 設計",
-    "link": "https://zenn.dev/techtrain_blog/articles/0991bc406b58e2",
-    "source": "Zenn Trends",
-    "published": "Fri, 24 Apr 2026 12:06:07 GMT",
-    "summary": "はじめに\n弊社では開発において、コード生成・レビュー段階の9割以上を AI に一任しています。\nしかし仕様設計・DB 設計においては、人間が主体です。\n今回は DB 設計段階において、私が Claude Code を如何様にしてこき使っているか、一例を紹介したいと思います。\n\n 二人七脚とは\n私 + Claude Code (Agent + subagent 4つ) 体制のことです。\n以下の 4 step を完走した暁には DB 設計が完了している、夢の体制です。\n\n仕様とコードベースからユースケース列挙\nユースケースのブラッシュアップと起票\n各問いの壁打ち\nsubagent による...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--Vzm0U3l1--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%2520%25E3%2581%25A8%25E4%25BA%258C%25E4%25BA%25BA%25E4%25B8%2583%25E8%2584%259A%2520DB%2520%25E8%25A8%25AD%25E8%25A8%2588%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:choclucy%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzAxM2RmM2ZiYjAuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:TechTrain%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzc2ZDk5ZmNhZWQuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-    "fetched_at": "2026-04-25 08:37:24",
-    "ja_summary": "・開発の9割をAIに任せる企業が、人間主導だったDB設計に「Claude Code」を導入。\n・人間1人と4つのサブエージェントが連携し、仕様の整理から壁打ちまでを段階的に完遂する体制を構築。\n・AIを徹底活用することで、設計フェーズの効率化と品質向上を実現する手法を提案。"
-  },
-  {
-    "title": "AIの成果物に責任を取る方法",
-    "link": "https://zenn.dev/headwaters/articles/68de421c45931b",
-    "source": "Zenn Trends",
-    "published": "Thu, 23 Apr 2026 23:40:05 GMT",
-    "summary": "はじめに\nAIが書いたコードでバグが出た。さて、誰の責任だろうか？\n「AIが適当なことを出力したから」はプロの世界では通用しない。\nそのコードをマージし、デプロイする決定を下した「あなた」の責任だ。\nAIコーディング全盛期において、私たちは単なる「コードを書く人」から「AIという部下をマネジメントする意思決定者」へと変化した。\nでは、この部下の仕事にどう責任を持ち、どう信頼関係を築けばいいのだろうか。\nこの記事では、自分なりのマインドセットをまとめてみる。\n\n 1. 仕事を振るということ\nAI最大の武器は圧倒的な「スピード」だ。\nしかし、AIの出力したコードの1文字1文字を疑い、手作...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--kCNLrxRc--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%25E3%2581%25AE%25E6%2588%2590%25E6%259E%259C%25E7%2589%25A9%25E3%2581%25AB%25E8%25B2%25AC%25E4%25BB%25BB%25E3%2582%2592%25E5%258F%2596%25E3%2582%258B%25E6%2596%25B9%25E6%25B3%2595%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E5%25A6%25B9%25E5%25B0%25BE%25E6%2582%25A0%25E7%259C%259F%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzZjNGExY2UxMDYuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2583%2598%25E3%2583%2583%25E3%2583%2589%25E3%2582%25A6%25E3%2582%25A9%25E3%2583%25BC%25E3%2582%25BF%25E3%2583%25BC%25E3%2582%25B9%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzhhOTNmNzAyMzUuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-    "fetched_at": "2026-04-25 08:37:24",
-    "ja_summary": "AI生成コードの責任は最終的にデプロイを決定した人間に帰属する。\nプログラマーは「コードを書く人」から「AIという部下を管理する責任者」へ役割を転換すべきだ。\nAIの高速な出力を鵜呑みにせず、リスクを理解した上で意思決定を行うマインドセットが必要である。"
   }
 ]
