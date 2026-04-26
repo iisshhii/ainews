@@ -1,5 +1,55 @@
 [
   {
+    "title": "TOEIC800点でも会議で頭が真っ白になる理由　AI学習では補えない非言語の要素 (その英語学習法は間違い)",
+    "link": "https://business.nikkei.com/atcl/gen/19/00265/041500147/",
+    "source": "日経ビジネス 最新",
+    "published": "",
+    "summary": "TOEICで高得点を取っても、いざ本番の英語会議になると言葉が出てこないという質問者。同じように、上級者の壁に突き当たる人は少なくありません。今回は英語を話すビジネスシーンで実力を発揮するために練習方法を解説します。",
+    "image": "https://business.nikkei.com/atcl/gen/19/00265/041500147/fb.jpg",
+    "fetched_at": "2026-04-26 18:15:56",
+    "ja_summary": "・TOEIC高得点でも話せないのは、試験対策と実戦で求められるスキルが異なるため。\n・AI学習では身につかない、文脈や場の空気を読む「非言語スキル」が欠如している。\n・ビジネスで通用するには、反射的な対話能力を養う実戦的な練習法への転換が必要。"
+  },
+  {
+    "title": "「AIの脅威にAIが必要」、なぜGoogleは5兆円でWizを買収したのか",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11696/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "米Googleのクラウドサービス部門であるGoogle Cloudのトーマス・クリアンCEO（最高経営責任者）は2026年4月23日（米国時間）、320億ドル（約5兆円）で買収したWizについて「AI（人工知能）の脅威に対抗するために、AIを活用したサイバーセキュリティーツールが必要になる」と語った。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11696/topm.jpg?20220512",
+    "fetched_at": "2026-04-26 18:15:57",
+    "ja_summary": "・Googleが約5兆円でセキュリティ企業Wizを買収。\n・AIによるサイバー攻撃の脅威に対抗するため、AI搭載の防御ツールを強化。\n・クラウド事業の競争力を高めるのが狙い。"
+  },
+  {
+    "title": "OpenAI、GPT-5.5発表。「これまでで最もスマートな最先端モデル」",
+    "link": "https://www.techno-edge.net/article/2026/04/24/5018.html",
+    "source": "TechnoEdge",
+    "published": "Fri, 24 Apr 2026 07:50:25 +0900",
+    "summary": "先月5日にGPT-5.4をリリースしたばかりのOpenAIが、早くもGPT-5.5を発表しました。",
+    "image": "https://www.techno-edge.net/imgs/rss/31093.jpg",
+    "fetched_at": "2026-04-26 18:16:20",
+    "ja_summary": "・OpenAIが最新AIモデル「GPT-5.5」を発表\n・前モデル「GPT-5.4」からわずか1ヶ月での異例のリリース\n・同社史上最もスマートな最先端モデルとして登場"
+  },
+  {
+    "title": "【初心者必見】今から追いつくClaude Code 入門・徹底解説",
+    "link": "https://qiita.com/i-inose/items/e644e9b620ee1c8d3c1b",
+    "source": "Qiita (Popular)",
+    "published": "2026-04-21T15:32:56+09:00",
+    "summary": "\n## はじめに\n\nこの記事は、Claude Code を使い始めたいエンジニアのための入門ガイドです。\n\n「名前は聞いたことがあるけれど、なんとなく乗り遅れた気がして触れていない」という方に向けて書きました。Claude Code は 2025 年 3 月にベータ公開が始まり、今も活発に機能が追加され続けているツールです。今から始めても、十分に最前線を体験できます。\n\nこの記事の対象読者です。\n",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYyNzM3MDU1JTJGMmRhZmNlMzcyYjViYjhiYjVhMWM5ZWMwMmFkNzQyYzIwZjkzMjJiOCUyRnhfbGFyZ2UucG5nJTNGMTc1MTYxMzgyNj9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9ZDA0ZDI4ZjkyYTAzYTZhNjY0NjJhOGRmMDI4MDk1ZWQ%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYxZTIwZGI1ZTdlNDA3ZWFlN2I5NzBlYzk5OTg4MGRjOGMzY2MwZjY0JTJGb3JpZ2luYWwuanBnJTNGMTY2NzI3NDk2Mz9peGxpYj1yYi00LjAuMCZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz0xMzQ4OTg3MjlkMzMwYTdiNWRhMzRkOGU2MzVmZjIxOA%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D66b59b0ea406aee68a1154031be0c0be?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJTkwJUU1JTg4JTlEJUU1JUJGJTgzJUU4JTgwJTg1JUU1JUJGJTg1JUU4JUE2JThCJUUzJTgwJTkxJUU0JUJCJThBJUUzJTgxJThCJUUzJTgyJTg5JUU4JUJGJUJEJUUzJTgxJTg0JUUzJTgxJUE0JUUzJTgxJThGQ2xhdWRlJTIwQ29kZSUyMCVFNSU4NSVBNSVFOSU5NiU4MCVFMyU4MyVCQiVFNSVCRSVCOSVFNSVCQSU5NSVFOCVBNyVBMyVFOCVBQSVBQyZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTIwMzZhNThhZDA1MGZjMDFiN2Y1ZDM0ZDIyMDk5ZWVk&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBpLWlub3NlJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9MmIxMzY4YTE4OWM3Yjg5NDQwYjM0ZWNmNTdjY2I5YTE&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=S0RESeOCouOCuOODo-OCpOODq-mWi-eZuuOCu-ODs-OCv-ODvOagquW8j-S8muekvg&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=5f683166ef9727f0115e3f668cbeca09",
+    "fetched_at": "2026-04-26 18:16:48",
+    "ja_summary": "Claude Codeはターミナルで対話的に開発を自動化できる最新ツールです。\nベータ公開中で進化が続いており、今からでも導入すれば開発効率の大幅な向上が見込めます。\nエンジニア向けに、導入から活用までのステップを分かりやすく解説したガイドです。"
+  },
+  {
+    "title": "Claude Codeで実際に起きたセキュリティ事故7選と防止策",
+    "link": "https://qiita.com/masa_ClaudeCodeLab/items/8c22966fbd3c125c53dc",
+    "source": "Qiita (Popular)",
+    "published": "2026-04-17T14:38:44+09:00",
+    "summary": "# Claude Codeで実際に起きたセキュリティ事故7選と防止策\n\n「Claude Code は便利だけど、なんとなく怖い」——この感覚は正しいです。強力なツールは強力な事故を起こします。実際に開発現場で起きがちなケースを7つ取り上げ、原因と防止策を解説します。\n\n## 事例1: `.env` ファイルをGitHubにプッシュ\n\n「CI に環境変数を渡したいので `.env` もコミットして」",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0NDA0NjQwJTJGYmFkMDZmMmM0Zjc5MTRiOGNhYzBiNmU4ODBmODc5MGZkNjQ1MjJlOCUyRmxhcmdlLnBuZyUzRjE3NzU5MTE0Nzc_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPTEwZDk0MjMxZWY0NzJhMGNlMDcyMGFlMjc4MzZlZDg0%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Dec82b9c9a74af788004809b4df56ea3f?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9Q2xhdWRlJTIwQ29kZSVFMyU4MSVBNyVFNSVBRSU5RiVFOSU5QSU5QiVFMyU4MSVBQiVFOCVCNSVCNyVFMyU4MSU4RCVFMyU4MSU5RiVFMyU4MiVCQiVFMyU4MiVBRCVFMyU4MyVBNSVFMyU4MyVBQSVFMyU4MyU4NiVFMyU4MiVBMyVFNCVCQSU4QiVFNiU5NSU4NTclRTklODElQjglRTMlODElQTglRTklOTglQjIlRTYlQUQlQTIlRTclQUQlOTYmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz0yODkwODBlNWNmZGJkMGIzMjNlNDI0NzBiNTA0NzkzYQ&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBtYXNhX0NsYXVkZUNvZGVMYWImdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz0wYjEyYmE5ZjIzZDgyNTViNWU4YTcxNWQ4MDBkM2I2MQ&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=20a023877c507f08ff94f38eb4c26745",
+    "fetched_at": "2026-04-26 18:16:53",
+    "ja_summary": "・Claude Codeの利便性の裏にあるセキュリティリスクを7つの事例で解説。\n・機密情報（.env等）の誤プッシュなど、開発現場で起きがちな事故と対策を網羅。\n・強力なツールを安全に運用するための具体的な防止策を提示。"
+  },
+  {
     "title": "Meta AI、子供が質問したトピックを保護者が確認可能に",
     "link": "https://www.watch.impress.co.jp/docs/news/2104569.html",
     "source": "Impress Watch",
@@ -948,55 +998,5 @@
     "image": "https://res.cloudinary.com/zenn/image/upload/s--pRj6gXvK--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Laravel%2520Boost%2520%25E3%2581%25A7%25E3%2583%25A6%25E3%2583%25BC%25E3%2582%25B6%25E3%2583%25BC%25E3%2583%258F%25E3%2583%25BC%25E3%2583%258D%25E3%2582%25B9%25E6%2595%25B4%25E5%2582%2599%25E3%2582%2592%25E5%258A%25B9%25E7%258E%2587%25E5%258C%2596%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E5%2590%2589%25E5%25B2%25A1%2520%25E8%25A3%2595%25E8%25B2%25B4%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzUwM2RkNmMyMzkuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:AUN%2520Tech%2520Blog%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzFmNzI5YzVhODEuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
     "fetched_at": "2026-04-24 21:05:40",
     "ja_summary": "Laravel開発におけるAIコーディング用の設定（AGENTS.mdやMCP等）を自動化・効率化するツール「Laravel Boost」が登場しました。\nプロジェクトごとの煩雑な設定やAIツール乗り換え時の修正の手間を解消し、開発効率を大幅に向上させます。\nAI開発環境の整備を最適化したいエンジニアにとって、作業負荷を劇的に削減できるソリューションです。"
-  },
-  {
-    "title": "ハーネスエンジニアリングとは何で、何ではないのか 〜作る側のハーネス、使う側のハーネス〜",
-    "link": "https://zenn.dev/r_kaga/articles/329afdc151899f",
-    "source": "Zenn Trends",
-    "published": "Wed, 22 Apr 2026 23:31:45 GMT",
-    "summary": "先日、Findy主催のハーネスエンジニアリング勉強会で登壇しました。\nhttps://findy.connpass.com/event/388471/\n発表では登壇の中でのすみ分けや尺を考えて絞りましたが、語りきれなかった部分をこの記事にまとめます。\nhttps://speakerdeck.com/rkaga/how-to-approach-harness-engineering\n\nハーネスエンジニアリングが話題です。CLAUDE.mdを整備してSkillsを書いて、Hooksで決定論的なチェックも噛ませて。自分も含めてそういう取り組みが増えました。\n「CLAUDE.mdを書いてSkil...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--DTTynQr2--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%258F%25E3%2583%25BC%25E3%2583%258D%25E3%2582%25B9%25E3%2582%25A8%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%258B%25E3%2582%25A2%25E3%2583%25AA%25E3%2583%25B3%25E3%2582%25B0%25E3%2581%25A8%25E3%2581%25AF%25E4%25BD%2595%25E3%2581%25A7%25E3%2580%2581%25E4%25BD%2595%25E3%2581%25A7%25E3%2581%25AF%25E3%2581%25AA%25E3%2581%2584%25E3%2581%25AE%25E3%2581%258B%2520%25E3%2580%259C%25E4%25BD%259C%25E3%2582%258B%25E5%2581%25B4%25E3%2581%25AE%25E3%2583%258F%25E3%2583%25BC%25E3%2583%258D%25E3%2582%25B9%25E3%2580%2581%25E4%25BD%25BF%25E3%2581%2586%25E5%2581%25B4%25E3%2581%25AE%25E3%2583%258F%25E3%2583%25BC%25E3%2583%258D%25E3%2582%25B9%25E3%2580%259C%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:r.kagaya%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2FlZTNjYzY3MDYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-    "fetched_at": "2026-04-24 21:05:40",
-    "ja_summary": "・ハーネスエンジニアリングとは、AI開発や運用において「作る側（実装）」と「使う側（活用）」の役割と境界を明確にする手法。\n・CLAUDE.mdやHooks等を活用し、AIの動作を決定論的に制御・チェックすることで、開発効率と品質を高める取り組み。\n・単なるツール導入にとどまらず、AIを組織として安定的に運用するためのエンジニアリングのあり方を解説。"
-  },
-  {
-    "title": "最高のコーチになるための�スポーツコーチング学�―知っておくべき「フレームワーク」と「スキル」― を紹介  / phperkaigi-mini-0",
-    "link": "https://speakerdeck.com/blue_goheimochi/phperkaigi-mini-0",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-04-24T07:25:47-04:00",
-    "summary": "PHPerKaigi mini #0 PHPer Book Revue出張版の登壇資料です。\nhttps://phperkaigi.connpass.com/event/388134/",
-    "image": "https://files.speakerdeck.com/presentations/5d40de2e0e324b0aa5406a1bbe4b84e4/preview_slide_0.jpg?39210548",
-    "fetched_at": "2026-04-24 21:05:41",
-    "ja_summary": "スポーツコーチング学の知見を基に、優れたコーチに必要なフレームワークやスキルを解説した登壇資料。\nPHPerKaigi mini #0にて公開された、コーチングの質を高めるための理論と実践手法を紹介。\nマネジメントや教育の現場で役立つ、対人支援スキルや指導の型を学べる内容。"
-  },
-  {
-    "title": "ハーネスエンジニアリングをやりすぎた話 ~そのハーネスは解体された~",
-    "link": "https://speakerdeck.com/gotalab555/hanesuenziniaringuwoyarisugitahua-sonohanesuhajie-ti-sareta",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-04-24T05:03:24-04:00",
-    "summary": "本発表では、AIエージェントによるソフトウェアの長時間自律開発を可能にする「エージェントハーネス」の構築と、その失敗の経緯を共有する。\n仕様承認後、放置で大規模開発を完了させることを目指し、タスク分解、並列実行、検証可能、証跡付きといった機能を盛り込んだ。最初、中規模開発に成功したことが最悪の成功体験となり、様々な開発に対応させるべく機能を拡張しすぎた。その結果、ハーネス自体が過度に密結合・肥大化し、修正や検証が困難になる制御不能な状態に陥り、最終的に解体した。\n結論として、ハーネスを作成する際は目的ごとに小さく分割し、シンプルで変更容易性の高いハーネスを構築する必要がある",
-    "image": "https://files.speakerdeck.com/presentations/f93f8a282e2b492eb0f25237b6dc8ffa/preview_slide_0.jpg?39210519",
-    "fetched_at": "2026-04-24 21:05:41",
-    "ja_summary": "・AIの自律開発を支援する「エージェントハーネス」を開発したが、多機能化によりシステムが肥大化・複雑化し、運用不能となり解体に至った。\n・「過度な多機能化」が失敗の主因であり、成功体験に引きずられ開発環境を拡張しすぎたことが技術的負債を招いた。\n・開発支援ツールは目的別に小さく分割し、シンプルさと変更容易性を維持することが極めて重要である。"
-  },
-  {
-    "title": "「開発時間70％削減」「新機能リリース24→5日に短縮」　Claude Codeが開発者に選ばれる、納得の理由",
-    "link": "https://www.itmedia.co.jp/business/articles/2604/24/news018.html",
-    "source": "ITmedia ビジネス",
-    "published": "Fri, 24 Apr 2026 07:00:00 +0900",
-    "summary": "OpenAIに代わって台頭し始めたAnthropic。同社の生成AI「Claude Code」によって成果を上げる企業が登場している。本稿では、楽天とマネーフォワードの活用方法を紹介する。",
-    "image": "https://image.itmedia.co.jp/business/articles/2604/24/cover_news018.jpg",
-    "fetched_at": "2026-04-24 20:10:19",
-    "ja_summary": "・Anthropicの「Claude Code」導入で、開発効率が劇的に向上する企業が増加中。\n・楽天やマネーフォワードでは、開発時間を70％削減しリリース頻度を大幅に短縮。\n・開発現場の生産性向上ツールとして、OpenAIに代わる新たな選択肢となっている。"
-  },
-  {
-    "title": "睡眠管理に特化したスマートリング「SOXAI RING 2」を試す。14日間のバッテリーもちが実用的",
-    "link": "https://www.businessinsider.jp/article/2604-soxai-ring-2-sleep-tracking-review/",
-    "source": "Business Insider Japan",
-    "published": "Fri, 24 Apr 2026 10:00:00 GMT",
-    "summary": "睡眠計測に強みを持つスマートリング「SOXAI RING 2」のレビューをお届けします。細身で着けやすく、バッテリーもちも良好。就寝時のスマートウォッチ着用を避けたい人の有力な選択肢です。",
-    "image": "https://media.loom-app.com/loom/2026/04/20/ab2de62f-d35d-4066-99c7-6ea26e69ee4b/original.jpg?w=1200&amp;h=630",
-    "fetched_at": "2026-04-24 20:10:44",
-    "ja_summary": "・睡眠計測に特化したスマートリング「SOXAI RING 2」は、細身で装着感が良く就寝時も快適。\n・14日間持続するバッテリー性能を備え、充電の手間が少ない。\n・スマートウォッチを寝る時に着けたくない人にとって、実用的な選択肢となる。"
   }
 ]
