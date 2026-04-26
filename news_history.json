@@ -1,5 +1,55 @@
 [
   {
+    "title": "まず最初にAIの影響を受けたソフトウェア開発者がそれ以外の人々に知ってほしいこと",
+    "link": "https://www.businessinsider.jp/article/2604-software-engineers-lessons-white-collar-works-ai-disruption/",
+    "source": "Business Insider Japan",
+    "published": "Sun, 26 Apr 2026 06:00:00 GMT",
+    "summary": "一部のエンジニアは、AIによる業界の急速な変革が、今後の展開を予見する縮図となっていると述べています。",
+    "image": "https://media.loom-app.com/loom/2026/04/19/86e636b9-d319-4b4a-9a47-2dda0cae5d2b/original.jpg?w=1200&amp;h=630",
+    "fetched_at": "2026-04-26 15:58:48",
+    "ja_summary": "・AIによるソフトウェア開発の急変は、他業界にも訪れる未来の縮図である。\n・エンジニアは、AIがもたらす変化を先行指標として注視すべきと警鐘を鳴らしている。"
+  },
+  {
+    "title": "GitHub のアップデートを、Youtube ショート感覚でダラダラ見られる動画にしてみた",
+    "link": "https://zenn.dev/microsoft/articles/github-update-movie-agent",
+    "source": "Zenn Trends",
+    "published": "Sat, 25 Apr 2026 20:02:09 GMT",
+    "summary": "⚠️ 2026年4月時点の情報です。GitHub Copilot Agent Skills も Remotion も活発に更新されているので、最新仕様は公式ドキュメントを確認してください。\n\n\n 記事のまとめ (TL;DR)\n\nGitHub Changelog の URL を渡すと、オリジナルキャラが解説する mp4 が出てくる仕組みを作りました\n構成は GitHub Copilot Agent Skills（台本生成） × VOICEVOX（音声合成） × Remotion（動画合成） の3段\n中核は GitHub Copilot Agent Skills。記事を読んで台本を書く工程...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--4_VuEHdM--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:GitHub%2520%25E3%2581%25AE%25E3%2582%25A2%25E3%2583%2583%25E3%2583%2597%25E3%2583%2587%25E3%2583%25BC%25E3%2583%2588%25E3%2582%2592%25E3%2580%2581Youtube%2520%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25BC%25E3%2583%2588%25E6%2584%259F%25E8%25A6%259A%25E3%2581%25A7%25E3%2583%2580%25E3%2583%25A9%25E3%2583%2580%25E3%2583%25A9%25E8%25A6%258B%25E3%2582%2589%25E3%2582%258C%25E3%2582%258B%25E5%258B%2595%25E7%2594%25BB%25E3%2581%25AB%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:marumaru1019%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2MzZDNiN2I3OGYuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Microsoft%2520%2528%25E6%259C%2589%25E5%25BF%2597%2529%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzNlMDUxYjNhZWEuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-04-26 15:59:22",
+    "ja_summary": "・GitHubの更新情報をURLから読み取り、キャラクター解説付きの動画へ自動変換する仕組みを開発。\n・「Copilot Agent Skills」で台本を生成し、「VOICEVOX」と「Remotion」で動画を自動合成。\n・技術的な自動化により、GitHubの最新情報をショート動画感覚で効率的にキャッチアップ可能にした。"
+  },
+  {
+    "title": "最近使っている GitHub Copilot CLI + .NET 向けのカスタムエージェントとスキル",
+    "link": "https://zenn.dev/microsoft/articles/github-copilot-dotnet-project",
+    "source": "Zenn Trends",
+    "published": "Sat, 25 Apr 2026 10:45:03 GMT",
+    "summary": "はじめに\nGitHub Copilot CLI や VS Code の Agent モードでコードを書くとき、copilot-instructions.md やカスタムエージェント、スキルを使ってプロジェクト固有の知識を教えておくと、Copilot が文脈を理解した上で動いてくれるので開発の精度がかなり上がります。\n自分は以前からこういった仕組みを活用して開発をしていて、以下の記事ではタスク管理の仕組みを紹介しました。\nhttps://zenn.dev/microsoft/articles/copilot-task-management\n今回は、最近自分が .NET プロジェクトの開...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--kNllfHR6--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E6%259C%2580%25E8%25BF%2591%25E4%25BD%25BF%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%2584%25E3%2582%258B%2520GitHub%2520Copilot%2520CLI%2520%252B%2520.NET%2520%25E5%2590%2591%25E3%2581%2591%25E3%2581%25AE%25E3%2582%25AB%25E3%2582%25B9%25E3%2582%25BF%25E3%2583%25A0%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588%25E3%2581%25A8%25E3%2582%25B9%25E3%2582%25AD%25E3%2583%25AB%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Kazuki%2520Ota%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2MzZDNiN2I3OGYuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Microsoft%2520%2528%25E6%259C%2589%25E5%25BF%2597%2529%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzhmNzg3NDJjNDQuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-04-26 15:59:23",
+    "ja_summary": "GitHub Copilotにプロジェクト固有の知識を設定（カスタムエージェントやスキル活用）することで、AIの回答精度が大幅に向上する。\n開発者は環境に合わせてこれらを最適化することで、タスク管理や.NET開発などの業務効率化を実現している。\nAIに文脈を理解させる仕組みを取り入れ、開発プロセスを高度に自動化することが推奨される。"
+  },
+  {
+    "title": "Claude Codeより安く開発できるOpenCodeを使ってみよう",
+    "link": "https://zenn.dev/xxishan/articles/9cb47819f835fa",
+    "source": "Zenn Trends",
+    "published": "Sat, 25 Apr 2026 07:00:17 GMT",
+    "summary": "AnthropicがClaude CodeをProプラン（$20）の機能一覧から削除し、Maxプラン以上（$100〜）でしか使えなくなったように見えたことが先日話題になりましたね！\nhttps://zenn.dev/aiforall/articles/33534863994e45\nそうでなくても時間や週間単位の利用制限などで、Proプランで抑えめ抑えめに利用している開発者の方も多いと思います。\nそんなClaude Codeに対して現在精力的に開発・機能追加が行われているのがOpenCodeです。\n今回TUI版のOpenCodeを導入して試してみたので、Claude Codeとの比較ととも...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--Z02GqmHx--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%25E3%2582%2588%25E3%2582%258A%25E5%25AE%2589%25E3%2581%258F%25E9%2596%258B%25E7%2599%25BA%25E3%2581%25A7%25E3%2581%258D%25E3%2582%258BOpenCode%25E3%2582%2592%25E4%25BD%25BF%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%25BF%25E3%2582%2588%25E3%2581%2586%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:nishiyama%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzU2MmE0NzMxYjguanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-04-26 15:59:23",
+    "ja_summary": "・Claude Codeが高額プラン限定となり利用制限も厳しいため、代替ツールとして「OpenCode」が注目されている。\n・OpenCodeは現在活発に開発が進められており、低コストかつ柔軟な運用が可能。\n・TUI版の導入を通じて、Claude Codeとの機能比較や使い勝手を確認できる。"
+  },
+  {
+    "title": "コードや知識を組み込む / Incorporate Code and Knowledge",
+    "link": "https://speakerdeck.com/ks91/incorporate-code-and-knowledge-b061379d-54ad-47c5-a7f9-d5574fc5a5ad",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-04-26T01:31:52-04:00",
+    "summary": "早稲田大学大学院経営管理研究科「プロンプトエンジニアリング ─ 生成AIの応用」2026 春の第5-6回で使用したスライドです。",
+    "image": "https://files.speakerdeck.com/presentations/8fc17939485e4d0ba2e1863497a21690/preview_slide_0.jpg?39223044",
+    "fetched_at": "2026-04-26 15:59:24",
+    "ja_summary": "・早稲田大学大学院での「プロンプトエンジニアリング」講義資料。\n・生成AIにコードや外部知識を効果的に組み込む手法を解説。\n・生成AIの実務活用力を高めるための応用スキルを習得可能。"
+  },
+  {
     "title": "発表の2日前に決まった――NECとAnthropicが“電撃的協業”　3週間のスピード協議の舞台裏",
     "link": "https://www.itmedia.co.jp/business/articles/2604/24/news111.html",
     "source": "ITmedia ビジネス",
@@ -948,55 +998,5 @@
     "image": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11696/topm.jpg?20220512",
     "fetched_at": "2026-04-24 19:00:10",
     "ja_summary": "Googleが約5兆円でサイバーセキュリティ企業Wizを買収。\nAIによるサイバー攻撃の脅威増大に対応するため、AI活用のセキュリティ対策が不可欠と判断。\nAIの力でAIの脅威に立ち向かう戦略。"
-  },
-  {
-    "title": "Meta AI、子供が質問したトピックを保護者が確認可能に",
-    "link": "https://www.watch.impress.co.jp/docs/news/2104569.html",
-    "source": "Impress Watch",
-    "published": "",
-    "summary": "Metaは、ペアレンタルコントロール機能で管理しているティーンアカウントについて、子どもが過去7日間にMeta AIにどんなトピックを質問したかを保護者が確認できる機能を発表した。米国、英国、オーストラリア、カナダ、ブラジルで提供を開始し、今後数週間で対象国を順次拡大する。",
-    "image": "https://www.watch.impress.co.jp/img/ipw/list/2104/569/meta00.jpg",
-    "fetched_at": "2026-04-24 19:00:15",
-    "ja_summary": "・Metaがペアレンタルコントロールを強化し、子供がAIに尋ねたトピックを保護者が確認可能に。\n・米国など5カ国で提供を開始し、今後数週間で対象エリアを順次拡大予定。"
-  },
-  {
-    "title": "SpaceX、AIコーディング「Cursor」を9.5兆円で買収する権利獲得",
-    "link": "https://japan.cnet.com/article/35246880/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "イーロン・マスク氏率いるSpaceXが現地時間4月22日、AIコーディングプラットフォーム「Cursor」と提携し、新たなAIモデルを共同開発すると発表した。提携には、SpaceXが年内にCursorを600億ドルで買収する権利、もしくは共同作業の対価として100億ドルを支払う権利が含まれている。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35246880/\"><img src=\"https://japan.cnet.com/storage/2026/04/24/123ce71cbcbfec03d85fe0ff0d465c8e/t/184/138/d/gettyimages-2271955278__1_.jpeg\" /></a>",
-    "image": "https://japan.cnet.com/storage/2026/04/24/123ce71cbcbfec03d85fe0ff0d465c8e/t/184/138/d/gettyimages-2271955278__1_.jpeg",
-    "fetched_at": "2026-04-24 19:00:21",
-    "ja_summary": "・SpaceXがAIコーディングツール「Cursor」と提携し、新たなAIモデルの共同開発を開始。\n・SpaceXは年内にCursorを約9.5兆円（600億ドル）で買収する権利を取得。\n・または共同開発の対価として100億ドルを支払う選択肢も含まれる。"
-  },
-  {
-    "title": "Grok Voice Think Fast 1.0 の概要",
-    "link": "https://note.com/npaka/n/n61bea6104437",
-    "source": "note (npaka)",
-    "published": "Fri, 24 Apr 2026 17:21:08 +0900",
-    "summary": "<p id=\"57336393-905f-4733-9d34-695421cc45fa\" name=\"57336393-905f-4733-9d34-695421cc45fa\">「Grok Voice Think Fast 1.0」の概要をまとめました。</p><figure id=\"d07e15a0-b277-4f22-9ad6-7e3ce216bacc\" name=\"d07e15a0-b277-4f22-9ad6-7e3ce216bacc\"><blockquote><p id=\"4c464fa5-40f7-4741-8974-453f321b9049\" name=\"4c464fa5-40f7-4741-8974-453f321b9049\"><strong>・</strong><a href=\"https://x.ai/news/grok-voice-think-fast-1\" rel=\"nofollow noopener\" target=\"_blank\"><strong>Grok Voice Think Fast 1.0</strong></a></p></blockquote>\n<figcaption></figcaption></figure><br /><a href=\"https://note.com/npaka/n/n61bea6104437\">続きをみる</a>",
-    "image": "https://assets.st-note.com/production/uploads/images/270013984/rectangle_large_type_2_efadcf759a3a99198921ecdacd81d36e.png?width=800",
-    "fetched_at": "2026-04-24 19:00:25",
-    "ja_summary": "・xAIが「Grok Voice Think Fast 1.0」を発表。\n・AIとの音声対話における応答速度と精度が大幅に向上。\n・リアルタイムかつ自然なコミュニケーション機能を実現。"
-  },
-  {
-    "title": "OpenAI Workspace Agents の概要",
-    "link": "https://note.com/npaka/n/ndca66b79411b",
-    "source": "note (npaka)",
-    "published": "Thu, 23 Apr 2026 08:58:37 +0900",
-    "summary": "<p id=\"0818f38d-88f6-4aae-98f5-f5d32f55a898\" name=\"0818f38d-88f6-4aae-98f5-f5d32f55a898\">OpenAIの「Workspace Agents」の概要をまとめました。</p><br /><br /><a href=\"https://note.com/npaka/n/ndca66b79411b\">続きをみる</a>",
-    "image": "https://assets.st-note.com/production/uploads/images/269626701/rectangle_large_type_2_0c40d30bbdadaaec09134860e5ee28ab.png?width=800",
-    "fetched_at": "2026-04-24 19:00:25",
-    "ja_summary": "OpenAIが開発中の「Workspace Agents」は、PC内のファイルやアプリを横断して自律的に操作・実行するAIエージェントです。\nユーザーの指示に基づき、データ収集からタスク完了までを自動化し、業務効率を大幅に高めることを目的としています。\n従来のAIチャットボットと異なり、作業環境の操作権限を持つことで、実務の完全自動化を目指す次世代ツールです。"
-  },
-  {
-    "title": "Google 新型AIチップ2種類を発表",
-    "link": "https://news.yahoo.co.jp/pickup/6577292?source=rss",
-    "source": "Yahoo!ニュース IT・科学",
-    "published": "Thu, 23 Apr 2026 00:42:43 GMT",
-    "summary": "",
-    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/23/ff07fc74fbfb79c642937ed023d105e3d857aeef9bcc900203fe40ea5443cd5a.jpg",
-    "fetched_at": "2026-04-24 19:00:29",
-    "ja_summary": "GoogleがAI開発・運用向けに最適化した新型チップ「Axion（CPU）」と「TPU v5p」を発表。\n自社設計により、従来比で高い処理性能と電力効率を実現。\nクラウドサービスの競合他社に対抗し、AI基盤の自給体制を強化する。"
   }
 ]
