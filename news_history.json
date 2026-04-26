@@ -1,5 +1,25 @@
 [
   {
+    "title": "販売員の「個人ノルマなし」──ファンケルが進める接客教育DX　「売らない勇気」をAIは教えられるか",
+    "link": "https://www.itmedia.co.jp/business/articles/2604/24/news021.html",
+    "source": "ITmedia ビジネス",
+    "published": "Fri, 24 Apr 2026 08:00:00 +0900",
+    "summary": "ファンケルは、顧客対応を学ぶロールプレイングにAIを導入し、新卒研修にも活用を広げる。接客スキルだけでなく、企業の価値観までAIは教えられるのか。現場で起きている変化と、その効果に迫る。",
+    "image": "https://image.itmedia.co.jp/business/articles/2604/24/cover_news021.jpg",
+    "fetched_at": "2026-04-26 21:45:17",
+    "ja_summary": "・ファンケルが接客トレーニングにAIを導入し、新卒研修などで活用を拡大。\n・「個人ノルマなし」という方針のもと、AIで顧客に寄り添う接客スキルの習得を支援。\n・売り込みではなく価値観の共有を重視する、DXによる人材育成の新たな形を模索。"
+  },
+  {
+    "title": "Anthropic and Amazon expand collaboration for up to 5 gigawatts of new compute",
+    "link": "https://www.anthropic.com/news/anthropic-amazon-compute",
+    "source": "Anthropic (News)",
+    "published": "Mon, 20 Apr 2026 00:00:00 +0000",
+    "summary": "Anthropic and Amazon expand collaboration for up to 5 gigawatts of new compute",
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20Stairs&amp;backgroundColor=cactus",
+    "fetched_at": "2026-04-26 21:45:54",
+    "ja_summary": "・AmazonとAnthropicが提携を拡大し、AI開発に向け最大5ギガワット規模の計算リソースを確保へ。\n・両社は次世代AIモデルの開発と計算能力の増強を共同で推進。\n・クラウドインフラの強化により、AI競争における優位性を狙う。"
+  },
+  {
     "title": "米Anthropicが封印した「ミトス」の衝撃　なぜ、AI対AIの時代が来るのか",
     "link": "https://www.itmedia.co.jp/business/articles/2604/24/news009.html",
     "source": "ITmedia ビジネス",
@@ -978,25 +998,5 @@
     "image": "https://res.cloudinary.com/zenn/image/upload/s--kCNLrxRc--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%25E3%2581%25AE%25E6%2588%2590%25E6%259E%259C%25E7%2589%25A9%25E3%2581%25AB%25E8%25B2%25AC%25E4%25BB%25BB%25E3%2582%2592%25E5%258F%2596%25E3%2582%258B%25E6%2596%25B9%25E6%25B3%2595%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E5%25A6%25B9%25E5%25B0%25BE%25E6%2582%25A0%25E7%259C%259F%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzZjNGExY2UxMDYuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2583%2598%25E3%2583%2583%25E3%2583%2589%25E3%2582%25A6%25E3%2582%25A9%25E3%2583%25BC%25E3%2582%25BF%25E3%2583%25BC%25E3%2582%25B9%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzhhOTNmNzAyMzUuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
     "fetched_at": "2026-04-25 08:37:24",
     "ja_summary": "AI生成コードの責任は最終的にデプロイを決定した人間に帰属する。\nプログラマーは「コードを書く人」から「AIという部下を管理する責任者」へ役割を転換すべきだ。\nAIの高速な出力を鵜呑みにせず、リスクを理解した上で意思決定を行うマインドセットが必要である。"
-  },
-  {
-    "title": "Claude Managed Agents、ハンズオンでぜんぶ教えたるで｜CLI×Web 2本立てで3層アーキテクチャ完全攻略",
-    "link": "https://zenn.dev/masayan1126/books/claude-managed-agents-handson",
-    "source": "Zenn Trends",
-    "published": "Thu, 23 Apr 2026 22:30:26 GMT",
-    "summary": "Anthropic公式のマネージドエージェントサービス「Claude Managed Agents」を、AI Trend Watcher（Python CLI）とMarkdown Review App（Next.js Web）の2本立てハンズオンで完全攻略するで。Agent/Environment/Session 3層設計、組み込みツール8種、パーミッション、料金体系、Messages APIとの行数差分──実装コードと公式仕様のポイントぜんぶ見せたるで。",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--oJanTROc--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYm9va19jb3Zlci9lOWNlZTU3MjYzLmpwZWc=%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg?_a=BACAGSGT",
-    "fetched_at": "2026-04-25 08:37:25",
-    "ja_summary": "Anthropicの「Claude Managed Agents」を、CLIとWebアプリの2つの実装を通じて徹底解説。\nエージェント・環境・セッションの3層設計や8種のツール活用法など、実戦で必要な開発ノウハウを網羅。\nMessages APIとの違いや料金体系を含む、公式仕様を完全に攻略するハンズオン記事。"
-  },
-  {
-    "title": "なぜ、2000年代には巷で耳にした「UML」を現在では全く耳にしないのか？",
-    "link": "https://zenn.dev/pdfractal/articles/b6f83bbc319501",
-    "source": "Zenn Trends",
-    "published": "Thu, 23 Apr 2026 10:53:36 GMT",
-    "summary": "はじめに\n2000年代の開発現場では、UML という語は一種の共通語でした。オブジェクト指向を語るならUMLを知っていて当然だとされ、書籍も研修もツールも、その前提で組まれていました。しかし現在、日常会話の中で「UMLを描こう」と言う場面は激減し、代わりにMermaid(軽量な図記述ツール)やPlantUML(テキスト記述からUML図を生成するツール)で必要な図だけを書くという言い方が普通になっています。この落差は、単なる流行語の交代ではありません。設計の正本をどこに置くのかという、開発の重心そのものが移った結果です。\n本稿はラショナル起源の重いUML と、ファウラーが後から整理した...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--KhJwtBIa--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2581%25AA%25E3%2581%259C%25E3%2580%25812000%25E5%25B9%25B4%25E4%25BB%25A3%25E3%2581%25AB%25E3%2581%25AF%25E5%25B7%25B7%25E3%2581%25A7%25E8%2580%25B3%25E3%2581%25AB%25E3%2581%2597%25E3%2581%259F%25E3%2580%258CUML%25E3%2580%258D%25E3%2582%2592%25E7%258F%25BE%25E5%259C%25A8%25E3%2581%25A7%25E3%2581%25AF%25E5%2585%25A8%25E3%2581%258F%25E8%2580%25B3%25E3%2581%25AB%25E3%2581%2597%25E3%2581%25AA%25E3%2581%2584%25E3%2581%25AE%25E3%2581%258B%25EF%25BC%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:pdfractal%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2FlODUxNjI3MGYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-    "fetched_at": "2026-04-25 08:37:25",
-    "ja_summary": "かつての標準言語だったUMLは、現在ではテキストから図を生成する軽量ツール（Mermaid等）に置き換わった。\nこの変化は単なる流行ではなく、設計図を「厳格なドキュメント」として残すのではなく「コードの一部」として管理する開発手法への転換によるものである。"
   }
 ]
