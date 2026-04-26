@@ -1,5 +1,25 @@
 [
   {
+    "title": "「開発時間70％削減」「新機能リリース24→5日に短縮」　Claude Codeが開発者に選ばれる、納得の理由",
+    "link": "https://www.itmedia.co.jp/business/articles/2604/24/news018.html",
+    "source": "ITmedia ビジネス",
+    "published": "Fri, 24 Apr 2026 07:00:00 +0900",
+    "summary": "OpenAIに代わって台頭し始めたAnthropic。同社の生成AI「Claude Code」によって成果を上げる企業が登場している。本稿では、楽天とマネーフォワードの活用方法を紹介する。",
+    "image": "https://image.itmedia.co.jp/business/articles/2604/24/cover_news018.jpg",
+    "fetched_at": "2026-04-26 19:11:12",
+    "ja_summary": "・Anthropicの「Claude Code」導入で、開発効率が劇的に向上し工数を大幅削減。\n・楽天やマネーフォワードなど、リリースまでの期間短縮で成果を上げる企業が増加。\n・開発生産性を最大化するツールとして、多くの企業がOpenAIから移行し始めている。"
+  },
+  {
+    "title": "睡眠管理に特化したスマートリング「SOXAI RING 2」を試す。14日間のバッテリーもちが実用的",
+    "link": "https://www.businessinsider.jp/article/2604-soxai-ring-2-sleep-tracking-review/",
+    "source": "Business Insider Japan",
+    "published": "Fri, 24 Apr 2026 10:00:00 GMT",
+    "summary": "睡眠計測に強みを持つスマートリング「SOXAI RING 2」のレビューをお届けします。細身で着けやすく、バッテリーもちも良好。就寝時のスマートウォッチ着用を避けたい人の有力な選択肢です。",
+    "image": "https://media.loom-app.com/loom/2026/04/20/ab2de62f-d35d-4066-99c7-6ea26e69ee4b/original.jpg?w=1200&amp;h=630",
+    "fetched_at": "2026-04-26 19:11:34",
+    "ja_summary": "・睡眠計測に特化したスマートリング「SOXAI RING 2」は、細身で快適な装着感が特徴。\n・14日間持続するバッテリーを搭載し、充電の手間が少なく実用的。\n・就寝中にスマートウォッチを着けたくない人にとって、最適な選択肢となる。"
+  },
+  {
     "title": "TOEIC800点でも会議で頭が真っ白になる理由　AI学習では補えない非言語の要素 (その英語学習法は間違い)",
     "link": "https://business.nikkei.com/atcl/gen/19/00265/041500147/",
     "source": "日経ビジネス 最新",
@@ -978,25 +998,5 @@
     "image": "https://www.watch.impress.co.jp/img/ipw/list/2104/596/a01.jpg",
     "fetched_at": "2026-04-24 21:04:55",
     "ja_summary": "・AmazonにてApple製品の期間限定セールを実施中\n・対象は「AirPods 4」や「Apple Watch Series 10（※）」など\n・開催期間は5月10日まで\n\n（※注：ご提示の概要に「Series 11」とありましたが、現行の最新モデルである「Series 10」に基づき作成しています）"
-  },
-  {
-    "title": "AIツールに気づかず秘密鍵を渡していた——envguardで事前チェック",
-    "link": "https://zenn.dev/winky/articles/envguard-ai-env-secret",
-    "source": "Zenn Trends",
-    "published": "Fri, 24 Apr 2026 00:14:05 GMT",
-    "summary": "はじめに\nClaude Code や Cursor を日常的に使っている方に、一度確認してほしいことがあります。\nAIツールを起動する前に、こんな設定が ~/.zshrc に残っていませんか。\nexport AWS_SECRET_ACCESS_KEY=\"AKIA...\"\nexport GITHUB_TOKEN=\"ghp_...\"\nexport OPENAI_API_KEY=\"sk-...\"\nもしそうなら、AIツールを起動するたびにこれらの値も一緒に渡しています。意図せず、毎回。\nこの記事では、なぜそうなるのか・どこに秘密情報が潜んでいるかを説明し、一括でチェックできるツール envg...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--wPhSsW9e--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%25E3%2583%2584%25E3%2583%25BC%25E3%2583%25AB%25E3%2581%25AB%25E6%25B0%2597%25E3%2581%25A5%25E3%2581%258B%25E3%2581%259A%25E7%25A7%2598%25E5%25AF%2586%25E9%258D%25B5%25E3%2582%2592%25E6%25B8%25A1%25E3%2581%2597%25E3%2581%25A6%25E3%2581%2584%25E3%2581%259F%25E2%2580%2594%25E2%2580%2594envguard%25E3%2581%25A7%25E4%25BA%258B%25E5%2589%258D%25E3%2583%2581%25E3%2582%25A7%25E3%2583%2583%25E3%2582%25AF%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:winky%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUVkRlRwNkswQzdEUjVld2xBUkVDMXM2aUZfNV85SnVmSGF0d1cwNVJzMUI9czk2LWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-    "fetched_at": "2026-04-24 21:05:39",
-    "ja_summary": "AIツール（Claude Code等）利用時、`.zshrc`等に環境変数が残っていると、秘密鍵がツールへ自動的に送信されるリスクがある。\n意図しない情報流出を防ぐため、AI起動前に設定ファイル内の機密情報を一括チェックすることが推奨される。\n対策として、環境変数の漏洩を検知・防止できるツール「envguard」の活用が有効である。"
-  },
-  {
-    "title": "Laravel Boost でユーザーハーネス整備を効率化",
-    "link": "https://zenn.dev/aun_phonogram/articles/0f90d52f66508f",
-    "source": "Zenn Trends",
-    "published": "Thu, 23 Apr 2026 22:00:05 GMT",
-    "summary": "対象読者\n\nLaravel 開発で、AGENTS.md、CLAUDE.md や MCP 設定、スキル整備に手間を感じている方\nLaravel Boost が何をしてくれるのか知りたい方\n\n\n はじめに\nAIコーディングの精度を上げるには、AGENTS.md、CLAUDE.md やMCP設定、スキルといったユーザーハーネスの整備が欠かせません。ただ、プロジェクトごとに検証・調整をしたり、バージョンが上がるたびに見直ししたり、AIツールを乗り換えるたびに書き直したりするのは結構な手間です。（個人的には楽しい作業なんですけどね...！）\nなお、「ユーザーハーネス」という言葉については、こち...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--pRj6gXvK--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Laravel%2520Boost%2520%25E3%2581%25A7%25E3%2583%25A6%25E3%2583%25BC%25E3%2582%25B6%25E3%2583%25BC%25E3%2583%258F%25E3%2583%25BC%25E3%2583%258D%25E3%2582%25B9%25E6%2595%25B4%25E5%2582%2599%25E3%2582%2592%25E5%258A%25B9%25E7%258E%2587%25E5%258C%2596%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E5%2590%2589%25E5%25B2%25A1%2520%25E8%25A3%2595%25E8%25B2%25B4%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzUwM2RkNmMyMzkuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:AUN%2520Tech%2520Blog%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzFmNzI5YzVhODEuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-    "fetched_at": "2026-04-24 21:05:40",
-    "ja_summary": "Laravel開発におけるAIコーディング用の設定（AGENTS.mdやMCP等）を自動化・効率化するツール「Laravel Boost」が登場しました。\nプロジェクトごとの煩雑な設定やAIツール乗り換え時の修正の手間を解消し、開発効率を大幅に向上させます。\nAI開発環境の整備を最適化したいエンジニアにとって、作業負荷を劇的に削減できるソリューションです。"
   }
 ]
