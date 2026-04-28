@@ -1,5 +1,65 @@
 [
   {
+    "title": "MSとOpenAI、独占的ではない“柔軟”な提携へ移行",
+    "link": "https://www.watch.impress.co.jp/docs/news/2105119.html",
+    "source": "Impress Watch",
+    "published": "",
+    "summary": "MicrosoftとOpenAIは27日(米国時間)、パートナーシップの更新について発表した。Microsoftは引き続きOpenAIの主要なクラウドパートナーとなるが、独占的なものではなく、OpenAIはあらゆるクラウドプロバイダーにおいて顧客に製品を提供できる。",
+    "image": "https://www.watch.impress.co.jp/img/ipw/list/2105/119/msopen2.jpg",
+    "fetched_at": "2026-04-29 02:19:02",
+    "ja_summary": "・MicrosoftとOpenAIが提携関係を更新し、独占契約を解消。\n・OpenAIは他社クラウドを含むマルチクラウド環境でのサービス提供が可能に。\n・Microsoftは引き続き主要なクラウドパートナーとしての地位を維持する。"
+  },
+  {
+    "title": "OpenAI models, Codex, and Managed Agents come to AWS",
+    "link": "https://openai.com/index/openai-on-aws",
+    "source": "OpenAI",
+    "published": "Tue, 28 Apr 2026 00:00:00 GMT",
+    "summary": "OpenAI GPT models, Codex, and Managed Agents are now available on AWS, enabling enterprises to build secure AI in their AWS environments.",
+    "image": "https://openai.com/favicon.ico",
+    "fetched_at": "2026-04-29 02:19:18",
+    "ja_summary": "・OpenAIのGPTモデルやCodexがAWS上で利用可能に。\n・企業はAWS環境内で、より安全にAIアプリを開発・運用できる。\n・クラウドネイティブな環境でのAI活用がさらに容易化。"
+  },
+  {
+    "title": "The next phase of the Microsoft OpenAI partnership",
+    "link": "https://openai.com/index/next-phase-of-microsoft-partnership",
+    "source": "OpenAI",
+    "published": "Mon, 27 Apr 2026 06:00:00 GMT",
+    "summary": "OpenAI and Microsoft announce an amended agreement that simplifies the partnership, adds long-term clarity, and supports continued AI innovation at scale.",
+    "image": "https://openai.com/favicon.ico",
+    "fetched_at": "2026-04-29 02:19:18",
+    "ja_summary": "・MicrosoftとOpenAIが提携関係を更新・簡素化する新契約を締結\n・両社の協力体制を長期的に明確化し、AIイノベーションを加速\n・大規模なAI開発と社会実装に向けた連携をさらに強化"
+  },
+  {
+    "title": "Anthropic and Amazon expand collaboration for up to 5 gigawatts of new compute",
+    "link": "https://www.anthropic.com/news/anthropic-amazon-compute",
+    "source": "Anthropic (News)",
+    "published": "Mon, 20 Apr 2026 00:00:00 +0000",
+    "summary": "Anthropic and Amazon expand collaboration for up to 5 gigawatts of new compute",
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20Stairs&amp;backgroundColor=cactus",
+    "fetched_at": "2026-04-29 02:19:28",
+    "ja_summary": "・AnthropicとAmazonが提携を拡大し、AI開発に向け最大5ギガワットの電力供給を確保\n・大規模なコンピューティング基盤を構築し、次世代AIモデルの開発を加速させる狙い\n・両社の協力体制強化により、AIインフラ競争での優位性確立を目指す"
+  },
+  {
+    "title": "Certifying AI in Safety-Critical Systems: Lessons from Automated Rail",
+    "link": "https://speakerdeck.com/joffrey/certifying-ai-in-safety-critical-systems-lessons-from-automated-rail",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-04-28T12:20:31-04:00",
+    "summary": "Accelerating rail automation with embedded AI/ML sensors and controllers.\nLeveraging edge computing for autonomy and availability.\nNavigating US regulations: interoperability, functional safety, cybersecurity.\nDemonstrating that AI-enhanced control systems are safe for passenger service.\n\nSensors Converge 2026\nMay 7, 2026 - Santa Clara, California",
+    "image": "https://files.speakerdeck.com/presentations/73a131a09e8d4536b8425f649e68e802/preview_slide_0.jpg?39251411",
+    "fetched_at": "2026-04-29 02:19:37",
+    "ja_summary": "・鉄道の自動化に向け、AI/ML搭載センサーやエッジコンピューティングを活用した制御システムを開発。\n・米国の安全規制やサイバーセキュリティ要件をクリアし、公共交通での実用化を目指す。\n・2026年5月の「Sensors Converge」にて、AI導入システムの安全性と信頼性を実証。"
+  },
+  {
+    "title": "Claude Code Skills で株スクリーニングを自動化した話 Vol.4【マルチAIエージェント × Agentic AI Pattern】",
+    "link": "https://qiita.com/okikusan-public/items/27d9b0f0177293db8b1a",
+    "source": "Qiita (Popular)",
+    "published": "2026-04-20T08:37:27+09:00",
+    "summary": ":::note info\n  📚 **シリーズ記事一覧は[こちら](https://qiita.com/okikusan-public/items/6707fa0c99dbcc3e493f)**\n:::\n\n\n## はじめに\n\nVol.1 でスクリプトによる **自動化** を実現し、Vol.2 で GraphRAG による **学習** を加え、Vol.3 で処方箋エンジンや逆張り検出で **高度",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY1MTYzMjQlMkZiNTljNzM3N2QwNzAzMGEzMGRkYzQwZDdhZTRiM2Q5YWJiMTgzODMzJTJGeF9sYXJnZS5wbmclM0YxNzEyMzg3ODM2P2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz0xZTQ5YWFiYzk5NWYxZmY0ZTg0ZDFmNTc5NzYyNWNmYg%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D5dbf1f6d1035e6a3ccde492ececed9f9?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9Q2xhdWRlJTIwQ29kZSUyMFNraWxscyUyMCVFMyU4MSVBNyVFNiVBMCVBQSVFMyU4MiVCOSVFMyU4MiVBRiVFMyU4MyVBQSVFMyU4MyVCQyVFMyU4MyU4QiVFMyU4MyVCMyVFMyU4MiVCMCVFMyU4MiU5MiVFOCU4NyVBQSVFNSU4QiU5NSVFNSU4QyU5NiVFMyU4MSU5NyVFMyU4MSU5RiVFOCVBOSVCMSUyMFZvbC40JUUzJTgwJTkwJUUzJTgzJTlFJUUzJTgzJUFCJUUzJTgzJTgxQUklRTMlODIlQTglRTMlODMlQkMlRTMlODIlQjglRTMlODIlQTclRTMlODMlQjMlRTMlODMlODglMjAlQzMlOTclMjBBZ2VudGljJTIwQUklMjAlRTIlODAlQTYmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1iZjVhMzJkNGJlMjI2MjI5Y2ExNTFiOGE3OWE4YTZiMw&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBva2lrdXNhbi1wdWJsaWMmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1lMjk5MGRlNWM1Nzg4MGUzZjZiOWNiNzVmZjFlNTI0OQ&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=c47d2a6d00f49aa7a4304aaae0f106e8",
+    "fetched_at": "2026-04-29 02:19:42",
+    "ja_summary": "・Claude CodeとマルチAIエージェントを活用し、株スクリーニングを高度に自動化する手法を解説。\n・単なる自動化から、GraphRAGによる学習、逆張り検出まで一連のプロセスを構築。\n・AIエージェント同士を連携させる「Agentic AI Pattern」で分析精度を高める事例。"
+  },
+  {
     "title": "Grok Voice Think Fast 1.0 の概要",
     "link": "https://note.com/npaka/n/n61bea6104437",
     "source": "note (npaka)",
@@ -938,65 +998,5 @@
     "image": "https://xtech.nikkei.com/atcl/nxt/column/18/00848/00186/topm.jpg?20220512",
     "fetched_at": "2026-04-28 06:02:30",
     "ja_summary": "・半導体大手のアームが自社ブランドのAI特化型プロセッサー「Arm AGI CPU」の直接販売を開始。\n・AIの「学習から推論」への市場移行を狙い、初の主要顧客として米メタ社を確保。\n・設計図のライセンス提供から自社製品販売へビジネスモデルを拡大する。"
-  },
-  {
-    "title": "AI都知事ユリコ 費用月2万5000円",
-    "link": "https://news.yahoo.co.jp/pickup/6577525?source=rss",
-    "source": "Yahoo!ニュース IT・科学",
-    "published": "Fri, 24 Apr 2026 23:00:29 GMT",
-    "summary": "",
-    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/25/ddc90d0dde578b1dcae1b2c032eba2c944fd87dd26e40d94c9949b5004460c18.jpg",
-    "fetched_at": "2026-04-28 06:02:41",
-    "ja_summary": "・「AI都知事ユリコ」が月額2万5000円で利用可能に\n・AIが都政の意思決定や業務をサポートする仕組み\n・行政コストの削減と効率化を目指した新たな取り組み"
-  },
-  {
-    "title": "競合はAWSやAzureではない--グーグル・クラウド三上社長が語るAIエージェント時代の市場定義",
-    "link": "https://japan.zdnet.com/article/35246904/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "「Google Cloud Next '26」では日本代表の三上智子氏ら同社幹部が、AIエージェント時代における市場の見方や戦略などについて語ってくれた。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35246904/\"><img src=\"https://japan.zdnet.com/storage/2026/04/25/9ac92e08f0e4d36048fdbb63287721ec/t/184/138/d/googlecloud_japanmedia_l.jpg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2026/04/25/9ac92e08f0e4d36048fdbb63287721ec/t/184/138/d/googlecloud_japanmedia_l.jpg",
-    "fetched_at": "2026-04-28 06:02:43",
-    "ja_summary": "Google Cloud日本代表の三上氏は、AIエージェント時代において従来のクラウド競合との比較を超えた市場戦略を提言した。\n単なるIT基盤提供にとどまらず、AIが自律的に業務を遂行する次世代環境の構築に注力する。\nクラウド各社との競争軸を「AIエージェントの活用価値」へと移行させ、市場での優位性確保を目指す。"
-  },
-  {
-    "title": "小規模言語モデル",
-    "link": "https://xtech.nikkei.com/atcl/nxt/keyword/18/00020/042100086/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "小規模言語モデル（Small Language Model、SLM）とは、大規模言語モデル（LLM）よりパラメーター数や学習データセットの規模が小さく、端末やオンプレミス環境でも扱いやすい言語モデルを指す。LLMのパラメーター数が数十億から数千億以上まで幅広いのに対し、SLMは数億～数十億級とされるケースが多い。モデルが小さい分、計算コストや運用コストを抑えやすい。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/keyword/18/00020/042100086/topm.jpg?20220512",
-    "fetched_at": "2026-04-28 04:58:29",
-    "ja_summary": "・SLMは大規模言語モデル（LLM）より軽量で、PCや社内サーバーで動作可能なAI。\n・データ量や計算コストを抑えられるため、運用効率が高い。\n・導入・運用コストを抑制しつつ、特定の環境でAIを活用したい企業に適している。"
-  },
-  {
-    "title": "最新AI「ミュトス」の対策強化へ",
-    "link": "https://news.yahoo.co.jp/pickup/6577526?source=rss",
-    "source": "Yahoo!ニュース IT・科学",
-    "published": "Fri, 24 Apr 2026 22:55:17 GMT",
-    "summary": "",
-    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/25/4e5d907a300eda585f74ebe66cb6ba416304cbe2fe0decfc7e374365add85a6a.jpg",
-    "fetched_at": "2026-04-28 04:58:48",
-    "ja_summary": "・最新AI「ミュトス」への不正利用対策を大幅に強化。\n・セキュリティ向上により安全な運用環境の構築を目指す。\n・具体的な技術的防護策の導入が急務となっている。"
-  },
-  {
-    "title": "プログラムを自律的に考えて提案、AIエディタが備える機能を把握する",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03577/040700001/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "本特集では、ソフトウエア開発の現場で急速に普及している「AIエディタ」を取り上げます。「AIエディタとは何か」という全体像を解説した後、実践編として「Visual Studio Code」と「GitHub Copilot」を連携した基本的な使い方を解説します。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03577/040700001/topm.jpg?20220512",
-    "fetched_at": "2026-04-28 03:41:46",
-    "ja_summary": "・開発現場で普及する「AIエディタ」の基本概念と全体像を解説\n・Visual Studio CodeとGitHub Copilotの連携方法を紹介\n・AIが自律的にコードを提案する最新開発手法の導入を支援"
-  },
-  {
-    "title": "Choco automates food distribution with AI agents",
-    "link": "https://openai.com/index/choco",
-    "source": "OpenAI",
-    "published": "Mon, 27 Apr 2026 00:00:00 GMT",
-    "summary": "How Choco used OpenAI APIs to streamline food distribution, boost productivity, and unlock growth—an in-depth customer story on real-world AI impact.",
-    "image": "https://openai.com/favicon.ico",
-    "fetched_at": "2026-04-28 03:42:06",
-    "ja_summary": "・食品卸売プラットフォーム「Choco」がOpenAIのAPIを導入。\n・AIエージェントによる自動化で、食品流通の効率化と生産性を向上。\n・業務の最適化により、企業のさらなる成長と競争力強化を実現。"
   }
 ]
