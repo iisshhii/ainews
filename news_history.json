@@ -1,5 +1,45 @@
 [
   {
+    "title": "アームが自社チップ販売へ大転換　AIの「学習から推論」移行を狙う",
+    "link": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020600008/042200218/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "2025年10月30日の本欄で指摘した通り、半導体設計大手の英アーム・ホールディングスが自社ブランドのチップを直接販売する。アームは2026年3月24日、AI（人工知能）に特化した新プロセッサー「Arm AGI CPU」を発表、米メタ・プラットフォームズを初の主要顧客として確保した。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020600008/042200218/topm.jpg?20220512",
+    "fetched_at": "2026-04-29 07:37:52",
+    "ja_summary": "・英アームがAI特化型チップ「Arm AGI CPU」を開発し、自社ブランドで直接販売へ転換する。\n・AI分野のトレンドが「学習」から「推論」へ移行することを見据えた戦略。\n・メタを初の主要顧客として確保し、2026年3月から本格展開する。"
+  },
+  {
+    "title": "数千の脆弱性見つける「Claude Mythos」の衝撃",
+    "link": "https://xtech.nikkei.com/atcl/nxt/mag/nnw/18/041800013/041700102/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "米Anthropic（アンソロピック）が発表した新しいLLM（Large Language Model：大規模言語モデル）である「Claude Mythos Preview（クロード・ミュトス・プレビュー）」を巡り、波紋が広がっている。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/mag/nnw/18/041800013/041700102/topm.jpg?20220512",
+    "fetched_at": "2026-04-29 07:37:53",
+    "ja_summary": "・Anthropic社が新型AI「Claude Mythos」を発表し、波紋を呼んでいる。\n・数千もの脆弱性を発見できる驚異的な性能が注目されている。\n・AIの安全性向上とリスクの両面で大きな影響が懸念される。"
+  },
+  {
+    "title": "YouTube、まるで会話しているように検索できる新機能",
+    "link": "https://japan.cnet.com/article/35247003/",
+    "source": "CNET Japan",
+    "published": "",
+    "summary": "YouTubeが、AIを使った新しい検索体験のテストを始めた。米国のPremium会員のうち18歳以上で英語で検索するユーザーが、デスクトップ環境で先行して試せる。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35247003/\"><img src=\"https://japan.cnet.com/storage/2026/04/29/595be6b1d43ff9d6835cf727cb8cd210/t/184/138/d/youtube-logo-6598.jpeg\" /></a>",
+    "image": "https://japan.cnet.com/storage/2026/04/29/595be6b1d43ff9d6835cf727cb8cd210/t/184/138/d/youtube-logo-6598.jpeg",
+    "fetched_at": "2026-04-29 07:38:03",
+    "ja_summary": "YouTubeがAIを活用し、会話形式で動画検索ができる新機能を発表した。\nまずは米国の成人Premium会員を対象に、デスクトップ版でテストを開始する。\nユーザーはより自然な対話を通じて、目的の動画を効率的に探せるようになる。"
+  },
+  {
+    "title": "「AIを使わなければボーナス減か」85億ドル規模のコンサルティング会社、パートナーの評価を「AI活用度に連動」その実態",
+    "link": "https://www.businessinsider.jp/article/2604-grant-thornton-consultancy-tom-puthiyamadam-performance-reviews-annual-bonuses-ai/",
+    "source": "Business Insider Japan",
+    "published": "Tue, 28 Apr 2026 21:35:00 GMT",
+    "summary": "グラント・ソーントンの米国シニアリーダーでAIを活用していない場合、ボーナスの一部を受け取れない可能性があるとアドバイザリー部門責任者のトム・プティヤマダム氏は述べています。",
+    "image": "https://media.loom-app.com/loom/2026/04/24/d7fa1b95-bb24-4773-8ff4-747cf7feb301/original.jpg?w=1200&amp;h=630",
+    "fetched_at": "2026-04-29 07:38:04",
+    "ja_summary": "・米コンサル大手グラント・ソーントンが、シニアリーダーの評価にAI活用度を導入。\n・AIを活用しないリーダーは、ボーナスの一部が支給されない可能性がある。\n・業務効率化のため、幹部層へのAI導入を必須化する方針。"
+  },
+  {
     "title": "Choco automates food distribution with AI agents",
     "link": "https://openai.com/index/choco",
     "source": "OpenAI",
@@ -958,45 +998,5 @@
     "image": "https://business.nikkei.com/atcl/NBD/19/world/00793/fb.jpg",
     "fetched_at": "2026-04-28 06:02:25",
     "ja_summary": "アンソロピックの最新AI「ミュトス」が一部企業限定で公開された。\n強力なバグ検知能力を持つ一方、悪用されるとデジタルインフラに甚大な被害を及ぼす危険性がある。\nリスク回避のため、一般公開は制限されている。"
-  },
-  {
-    "title": "AIで学び直し、ドラッカー流「3カ月と3カ年勉強法」で自分をアップデート",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03597/042300009/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "AI（人工知能）の登場によって、私たちは容易に「学べる」ようになった。ただし、思いつきの学習は挫折しやすい。そこで提案したいのが、経営学者ピーター・ドラッカーの「3カ月と3カ年勉強法」だ。これをAI活用により、自分のアップデートに取り込む。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03597/042300009/topm.jpg?20220512",
-    "fetched_at": "2026-04-28 06:02:27",
-    "ja_summary": "AIを活用し、ドラッカーの「3カ月と3カ年勉強法」を実践することで、継続的な学び直しが可能になる。\n計画的な学習プロセスにAIを取り入れることで、挫折を防ぎながら自分を効率よくアップデートできる。"
-  },
-  {
-    "title": "従来のエディタと何が違う？　料金プランや使用可能なLLMの種類を理解する",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03577/040700002/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "本特集では、ソフトウエア開発の現場で急速に普及している「AIエディタ」を取り上げます。まず現在の代表的なAIエディタの主な違いを見ていきましょう。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03577/040700002/topm.jpg?20220512",
-    "fetched_at": "2026-04-28 06:02:28",
-    "ja_summary": "・AIエディタは開発現場で急速に普及しているツールである\n・本特集では主要なAIエディタごとの特徴を解説する\n・各製品の料金プランや対応LLMの違いを比較し選定基準を示す"
-  },
-  {
-    "title": "富士通、独自CPUで狙うソブリンAI　ラピダス味方にGPUと共存",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03549/041700004/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "富士通はAI（人工知能）市場の開拓に向けた次期CPU（中央演算処理装置）の開発に乗り出した。理化学研究所と開発するスーパーコンピューター「富岳NEXT」に搭載するが、AIサーバー分野の世界の顧客にも売り込む。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03549/041700004/topm.jpg?20220512",
-    "fetched_at": "2026-04-28 06:02:29",
-    "ja_summary": "富士通は、独自開発のCPUでAI市場を狙います。\nスーパーコンピューター「富岳NEXT」への搭載に加え、AIサーバー分野でも海外展開を目指します。\nラピダスのGPUとも連携し、AIインフラの構築を強化します。"
-  },
-  {
-    "title": "基幹システム刷新はDXの前提か、AI活用の市民開発が「野良開発」に陥る懸念",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00849/00186/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "最近、何人ものCIO（最高情報責任者）から話を聞いて、日本企業のDX（デジタル変革）に1つの「かたち」があることに気が付いた。基幹システムの刷新を「DXの一環」としてではなく「DXの前提」として位置付けているのだ。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/00849/00186/topm.jpg?20220512",
-    "fetched_at": "2026-04-28 06:02:29",
-    "ja_summary": "・多くの企業が基幹システムの刷新をDXの不可欠な前提条件と位置づけている。\n・一方で、AIによる市民開発の普及は、管理不能な「野良開発」を生むリスクを孕む。\n・基幹刷新とガバナンス体制の両立が、日本企業がDXを成功させる鍵となる。"
   }
 ]
