@@ -1,5 +1,45 @@
 [
   {
+    "title": "Grok Voice Think Fast 1.0 の概要",
+    "link": "https://note.com/npaka/n/n61bea6104437",
+    "source": "note (npaka)",
+    "published": "Fri, 24 Apr 2026 17:21:08 +0900",
+    "summary": "<p id=\"57336393-905f-4733-9d34-695421cc45fa\" name=\"57336393-905f-4733-9d34-695421cc45fa\">「Grok Voice Think Fast 1.0」の概要をまとめました。</p><figure id=\"d07e15a0-b277-4f22-9ad6-7e3ce216bacc\" name=\"d07e15a0-b277-4f22-9ad6-7e3ce216bacc\"><blockquote><p id=\"4c464fa5-40f7-4741-8974-453f321b9049\" name=\"4c464fa5-40f7-4741-8974-453f321b9049\"><strong>・</strong><a href=\"https://x.ai/news/grok-voice-think-fast-1\" rel=\"nofollow noopener\" target=\"_blank\"><strong>Grok Voice Think Fast 1.0</strong></a></p></blockquote>\n<figcaption></figcaption></figure><br /><a href=\"https://note.com/npaka/n/n61bea6104437\">続きをみる</a>",
+    "image": "https://assets.st-note.com/production/uploads/images/270013984/rectangle_large_type_2_efadcf759a3a99198921ecdacd81d36e.png?width=800",
+    "fetched_at": "2026-04-29 00:36:50",
+    "ja_summary": "・x.aiが対話型AI「Grok Voice Think Fast 1.0」を発表。\n・音声対話の遅延を大幅に短縮し、リアルタイムに近い高速なレスポンスを実現。\n・自然な会話体験と迅速な情報処理を両立させた次世代の音声インターフェース。"
+  },
+  {
+    "title": "OpenAI Workspace Agents の概要",
+    "link": "https://note.com/npaka/n/ndca66b79411b",
+    "source": "note (npaka)",
+    "published": "Thu, 23 Apr 2026 08:58:37 +0900",
+    "summary": "<p id=\"0818f38d-88f6-4aae-98f5-f5d32f55a898\" name=\"0818f38d-88f6-4aae-98f5-f5d32f55a898\">OpenAIの「Workspace Agents」の概要をまとめました。</p><br /><br /><a href=\"https://note.com/npaka/n/ndca66b79411b\">続きをみる</a>",
+    "image": "https://assets.st-note.com/production/uploads/images/269626701/rectangle_large_type_2_0c40d30bbdadaaec09134860e5ee28ab.png?width=800",
+    "fetched_at": "2026-04-29 00:36:50",
+    "ja_summary": "OpenAIが「Workspace Agents」を発表。\n業務効率化を支援するAIエージェント。\n詳細な内容はリンク先で確認可能。"
+  },
+  {
+    "title": "Claude for Creative Work",
+    "link": "https://www.anthropic.com/news/claude-for-creative-work",
+    "source": "Anthropic (News)",
+    "published": "Tue, 28 Apr 2026 00:00:00 +0000",
+    "summary": "Claude for Creative Work",
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20ShapeArrow&amp;backgroundColor=cactus",
+    "fetched_at": "2026-04-29 00:37:00",
+    "ja_summary": "・AIモデル「Claude」がクリエイティブ業務の効率化と品質向上を支援。\n・文章作成やアイデア出し、プログラミング等の幅広い作業を高速化。\n・創造的なプロセスをAIが補完し、思考の深まりや生産性向上を実現。"
+  },
+  {
+    "title": "OpenClawとHermesの違いを思想から理解する",
+    "link": "https://zenn.dev/mkj/articles/9431e342db202f",
+    "source": "Zenn Trends",
+    "published": "Mon, 27 Apr 2026 02:50:05 GMT",
+    "summary": "松尾研究所シニアデータサイエンティストの太田です。普段はLLMの事後学習に関するプロジェクトに携わっています。\n現在松尾研究所では各種業務をメンバーに代わって自律的に代行するパーソナルエージェントの社内開発に取り組んでいます。この記事ではそうした開発のなかで調査をしたOpenClawとHermesについて、思想の違いとデザインチョイスを主に共有したいと思います。\n!\nこの記事のターゲット\n\nOpenClawやHermesを名前は知っているが違いがよくわからない人\nAIエージェントの「アーキテクチャ」（あるいは「ハーネス」）に興味がある人\n組織内でClaw活用を検討している人\n\nなおこの記...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--cHl5tgFY--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:OpenClaw%25E3%2581%25A8Hermes%25E3%2581%25AE%25E9%2581%2595%25E3%2581%2584%25E3%2582%2592%25E6%2580%259D%25E6%2583%25B3%25E3%2581%258B%25E3%2582%2589%25E7%2590%2586%25E8%25A7%25A3%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:mikio%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2U2NGM3ZTBkMzIuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E6%259D%25BE%25E5%25B0%25BE%25E7%25A0%2594%25E7%25A9%25B6%25E6%2589%2580%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSlMzYUdUQi0wYTN2ZFRMNXJmd0hYR25lNzFVempxTlFMbFhrZDFRdE9ldWo5TlZsNTE9czk2LWM=%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-04-29 00:37:18",
+    "ja_summary": "松尾研究所が開発中の社内パーソナルエージェントを題材に、AIエージェントの枠組みである「OpenClaw」と「Hermes」の違いを解説。\n両者の設計思想やデザインチョイスを比較することで、エージェントアーキテクチャの特性を明確にする。\nAIエージェントの実装や活用を検討する技術者・ビジネスパーソン向けに、選定指針となる知見を共有する。"
+  },
+  {
     "title": "スペースX・オープンAI・アンソロピック、赤字のまま大型上場へ (Views)",
     "link": "https://business.nikkei.com/atcl/seminar/19/00030/042700760/",
     "source": "日経ビジネス 最新",
@@ -958,45 +998,5 @@
     "image": "https://openai.com/favicon.ico",
     "fetched_at": "2026-04-28 03:42:06",
     "ja_summary": "・食品卸売プラットフォーム「Choco」がOpenAIのAPIを導入。\n・AIエージェントによる自動化で、食品流通の効率化と生産性を向上。\n・業務の最適化により、企業のさらなる成長と競争力強化を実現。"
-  },
-  {
-    "title": "NTTグループの施設管理DX、AIでBIMから情報引き出す実験開始",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02794/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "通信機器を10台置けるまとまったスペースと、機器の発熱に対応できるだけの空調能力がある場所を教えて──。施設管理の専門知識がなくても、このように問いかけるだけで必要な情報を得られるシステムの開発を、NTTドコモとNTTファシリティーズ（東京・港）が進めている。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02794/M.jpg?20220512",
-    "fetched_at": "2026-04-28 02:15:22",
-    "ja_summary": "・NTTドコモとNTTファシリティーズが、BIM（ビル情報モデル）から情報を抽出するAIシステムを開発。\n・専門知識がなくても自然言語で質問するだけで、施設内の空調やスペースなどの情報を取得可能。\n・施設管理業務の効率化を目指し、実証実験を開始した。"
-  },
-  {
-    "title": "MSとOpenAI、独占的ではない“柔軟”な提携へ移行",
-    "link": "https://www.watch.impress.co.jp/docs/news/2105119.html",
-    "source": "Impress Watch",
-    "published": "",
-    "summary": "MicrosoftとOpenAIは27日(米国時間)、パートナーシップの更新について発表した。Microsoftは引き続きOpenAIの主要なクラウドパートナーとなるが、独占的なものではなく、OpenAIはあらゆるクラウドプロバイダーにおいて顧客に製品を提供できる。",
-    "image": "https://www.watch.impress.co.jp/img/ipw/list/2105/119/msopen2.jpg",
-    "fetched_at": "2026-04-28 00:48:04",
-    "ja_summary": "・MicrosoftとOpenAIの提携が更新され、独占的な関係から柔軟な形へ移行\n・Microsoftは今後もOpenAIの主要なクラウドパートナーとして継続\n・OpenAIは他社クラウドを含むあらゆる環境で製品提供が可能に"
-  },
-  {
-    "title": "The next phase of the Microsoft OpenAI partnership",
-    "link": "https://openai.com/index/next-phase-of-microsoft-partnership",
-    "source": "OpenAI",
-    "published": "Mon, 27 Apr 2026 06:00:00 GMT",
-    "summary": "OpenAI and Microsoft announce an amended agreement that simplifies the partnership, adds long-term clarity, and supports continued AI innovation at scale.",
-    "image": "https://openai.com/favicon.ico",
-    "fetched_at": "2026-04-27 22:58:36",
-    "ja_summary": "・MicrosoftとOpenAIが提携関係を更新し、契約を簡素化。\n・長期的かつ明確な協力体制を構築。\n・両社の技術革新とAIの大規模展開を継続的に支援。"
-  },
-  {
-    "title": "Anthropic and Amazon expand collaboration for up to 5 gigawatts of new compute",
-    "link": "https://www.anthropic.com/news/anthropic-amazon-compute",
-    "source": "Anthropic (News)",
-    "published": "Mon, 20 Apr 2026 00:00:00 +0000",
-    "summary": "Anthropic and Amazon expand collaboration for up to 5 gigawatts of new compute",
-    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20Stairs&amp;backgroundColor=cactus",
-    "fetched_at": "2026-04-27 22:58:47",
-    "ja_summary": "・AmazonとAnthropicが提携を拡大し、AI開発に向け最大5ギガワット規模の計算リソースを確保へ\n・大規模な電力インフラを整備することで、次世代AIモデルの開発に必要な計算能力を強化\n・クラウド需要の増大に対応し、両社のAI分野での主導権争いを加速させる戦略的な取り組み"
   }
 ]
