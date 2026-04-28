@@ -1,5 +1,35 @@
 [
   {
+    "title": "NTT、AIネイティブインフラ「AIOWN」発表　国内データセンター容量を33年度に約1GWへ",
+    "link": "https://japan.cnet.com/article/35246963/",
+    "source": "CNET Japan",
+    "published": "",
+    "summary": "NTT、NTTデータグループ、NTTドコモビジネスの3社は4月27日、AI向けデータセンターやネットワーク、計算リソースを一体で提供するAIネイティブインフラ「AIOWN」を展開すると発表した。AI需要の拡大を受け、国内データセンターのIT電力容量を現在の約300MWから2033年度に約1GWへ、3倍超に引き上げる。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35246963/\"><img src=\"https://japan.cnet.com/storage/2026/04/28/65f52d96092b9293fea858c38760b8fb/t/184/138/d/ntt01-1.jpg\" /></a>",
+    "image": "https://japan.cnet.com/storage/2026/04/28/65f52d96092b9293fea858c38760b8fb/t/184/138/d/ntt01-1.jpg",
+    "fetched_at": "2026-04-28 09:05:19",
+    "ja_summary": "・NTTグループがAI向け統合インフラ「AIOWN」を発表し、AI関連の計算資源とネットワークを一括提供する。\n・急増するAI需要に対応し、国内データセンターの電力容量を2033年度までに現在の3倍超となる約1GWへ拡大する。"
+  },
+  {
+    "title": "今日のUITraitCollection",
+    "link": "https://zenn.dev/tatsube/articles/92ecf68260d2fb",
+    "source": "Zenn Trends",
+    "published": "Sun, 26 Apr 2026 11:21:13 GMT",
+    "summary": "SwiftUIの @Environment は、状態を環境変数として扱い、親ビューから子ビューへと効率的に流し込める非常に便利な仕組みです。\n実はUIKitにおいても、このコンセプトを体現する強力な仕組みは古くから備わっています。\n今回は、iOS 8から提供されている歴史あるAPIであり、iOS 17での進化を経て開発者が独自の値を定義・伝播できる柔軟性を手に入れ、@Environmentのように任意の値を階層に流せる仕組みへと進化した UITraitCollection について解説します。\n\n UITraitCollectionとは？\nUITraitCollection は、いわば ...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--W4vNFeKu--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_66:%25E4%25BB%258A%25E6%2597%25A5%25E3%2581%25AEUITraitCollection%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:tatsubee%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzNlODBlYTk4YzUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-04-28 09:05:50",
+    "ja_summary": "・UIKitのUITraitCollectionは、iOS 17の進化によりSwiftUIの@Environmentのように任意の値を階層的に伝播可能になった。\n・iOS 8から続く歴史あるAPIであり、現在では独自の値を定義してビュー階層へ効率的に流し込める強力な仕組みに進化した。\n・SwiftUIとUIKit双方の特性を理解し、状態管理の仕組みとして活用することが重要である。"
+  },
+  {
+    "title": "LINEをAIエージェントの入口にする現実解",
+    "link": "https://zenn.dev/peintangos/articles/b024c86e672191",
+    "source": "Zenn Trends",
+    "published": "Sun, 26 Apr 2026 11:12:50 GMT",
+    "summary": "こんにちは！peintangos です。ChatGPT、Claude、Discord、Slack など、普段わたしたちが触れる AI のインターフェースはたくさんあります。一方で、日本で個人間のコミュニケーションに使われるアプリとしては、LINE の存在感はかなり大きいです。LY Corporation の FY2024 統合報告書によると、LINE の国内月間アクティブユーザーは約 9,800 万人とされています。では、LINE 上で AI エージェントの応答はどこまで表現できるのでしょうか？この記事では、Messaging API、LIFF、LINE Bot MCP Server を...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--a-aOlYij--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:LINE%25E3%2582%2592AI%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588%25E3%2581%25AE%25E5%2585%25A5%25E5%258F%25A3%25E3%2581%25AB%25E3%2581%2599%25E3%2582%258B%25E7%258F%25BE%25E5%25AE%259F%25E8%25A7%25A3%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:peintangos%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2YwMzFmMThmOGEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-04-28 09:05:51",
+    "ja_summary": "国内9,800万人が利用するLINEを、AIエージェントの身近な窓口として活用する技術的手法を解説。\nMessaging APIやLIFF、LINE Bot MCP Serverを組み合わせ、AIの応答性をどこまで向上できるかを検証する。\n日常的なコミュニケーションツールにAIを実装し、実用的なインターフェースへと進化させるための実践的な知見を提示。"
+  },
+  {
     "title": "機内Wi-Fiで広がる低軌道衛星　ZIPAIRは全便Starlink、JALは主力機にOneWeb",
     "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11689/",
     "source": "日経クロステック 総合",
@@ -968,35 +998,5 @@
     "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYxNjEyOTglMkZjMWUzZmZkNmVhZGExOTY5ZmYzYzQ0YjE0ZmRlMDgxYmNkZTZmNTAwJTJGeF9sYXJnZS5wbmclM0YxNTg0ODQ1NTg0P2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz00ZGRjZmU5NTFjNTMyMzU3NjcyOGUzOTkyOTNmOGRlNQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D246367bff431168e6212d2602a3df494?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9Q2xhdWRlJTIwQ29kZSVFMyU4MSVBRSVFMyU4MyU4RSVFMyU4MiVBNiVFMyU4MyU4RiVFMyU4MiVBNiVFMyU4MiU5MiVFMyU4MiVCNSVFMyU4MyVCMyVFMyU4MyU5NyVFMyU4MyVBQiVFMyU4MiVCMyVFMyU4MyVCQyVFMyU4MyU4OSVFMyU4MSVBNyVFNSVBRCVBNiVFMyU4MSVCNiUyMCVFMiU5NCU4MCVFMiU5NCU4MCUyMCVFMyU4MyU4RiVFMyU4MyVCQyVFMyU4MyU4RCVFMyU4MiVCOSVFOCVBOCVBRCVFOCVBOCU4ODglRTMlODMlOTElRTMlODIlQkYlRTMlODMlQkMlRTMlODMlQjMlRTclQjclQTgmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz04YzNiOTMyZjEzNjZiYmYyYTM1OTAwZWMzNjczMDc2Nw&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBub2dhdGFrYSZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWE5ODA4YTE0Zjg4Y2I0ZjQ5OWU2ZDA3NGYyY2E2YTNh&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=f4296d164c9937810fa065bf36fb8fc2",
     "fetched_at": "2026-04-27 08:56:01",
     "ja_summary": "要約の生成に失敗しました。"
-  },
-  {
-    "title": "【2026年4月更新】Claude Codeの役に立つフロントデザインのskills10選",
-    "link": "https://qiita.com/kamome_susume/items/41300417840aa107472e",
-    "source": "Qiita (Popular)",
-    "published": "2026-04-19T22:35:42+09:00",
-    "summary": "「Claude Codeに頼んでUIを作ってもらったのに、なんか普通すぎる…」と感じたことはありませんか？\nInterフォント、白背景に紫グラデーション、無難なカードレイアウト、これ、実は世界中のエンジニアが同じ悩みを抱えています。\n\nClaude Codeは非常に優秀なコーディングエージェントですが、**デフォルトのまま使うとデザインが\"AIっぽい平均点\"に収束してしまう**という問題があります",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYxNjkzMjQ4JTJGZDhlMmU1OWNiMDVmY2Y3MDQ3ZDgyN2ZjNDlkNDAwMTkzZTU5NDdjOSUyRnhfbGFyZ2UucG5nJTNGMTY4NjMxODg1ND9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9ZDRiNjcyYjg4ZWUxYTRkNjI1ZDRjOGFkMzVkMzQ5NjI%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Ddc9a014e564257547b64353543c58776?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJTkwMjAyNiVFNSVCOSVCNDQlRTYlOUMlODglRTYlOUIlQjQlRTYlOTYlQjAlRTMlODAlOTFDbGF1ZGUlMjBDb2RlJUUzJTgxJUFFJUU1JUJEJUI5JUUzJTgxJUFCJUU3JUFCJThCJUUzJTgxJUE0JUUzJTgzJTk1JUUzJTgzJUFEJUUzJTgzJUIzJUUzJTgzJTg4JUUzJTgzJTg3JUUzJTgyJUI2JUUzJTgyJUE0JUUzJTgzJUIzJUUzJTgxJUFFc2tpbGxzMTAlRTklODElQjgmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1kMTI3ZTg4NGU1NjJhZDNkMmUyMWJhMDMxNTZjYzg1Mw&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBrYW1vbWVfc3VzdW1lJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9ZGRiZTIzN2VhYmFmZjQ1YThiNWYzYWQyMWVhNzMzOTI&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=cfe95cba2a5e88ed715f0f1b1793457c",
-    "fetched_at": "2026-04-27 08:56:03",
-    "ja_summary": "要約の生成に失敗しました。"
-  },
-  {
-    "title": "Claude Code × Obsidian Vault で作る「何でも相談」プロジェクト ― フォルダ構成・CLAUDE.md・MCP設定まで全公開",
-    "link": "https://qiita.com/htani0817/items/0cb5e8f91fa64fb9ba8c",
-    "source": "Qiita (Popular)",
-    "published": "2026-04-18T23:27:42+09:00",
-    "summary": "## はじめに\n\nClaude Code を使い始めて少し経つと、多くの人が同じ問題にぶつかります。\n\n- Claude が生成した `.md` がプロジェクトルート直下に散乱する\n- 「あの調査メモどこ行った？」が週1で起きる\n- Mac と Windows を行き来するたびにパス問題でつまずく\n\nこの記事では、私が実際に運用している「何でも相談-pj」という Claude Code 専用プロジ",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0MDk4MjM2JTJGYTI2OGI2ZjZkYjYyMjg4ODc4NTdhZTU3MzIwNzAxYzhmOWRjYjFkNCUyRmxhcmdlLnBuZyUzRjE3NDgyNzY3NzU_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPTE2YjNmNDQ3OTAzZTllZGZmYzg5ZDMzNWM0OTM0Zjlj%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D7e25c971195c678e769b50eb30b2c965?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9Q2xhdWRlJTIwQ29kZSUyMCVDMyU5NyUyME9ic2lkaWFuJTIwVmF1bHQlMjAlRTMlODElQTclRTQlQkQlOUMlRTMlODIlOEIlRTMlODAlOEMlRTQlQkQlOTUlRTMlODElQTclRTMlODIlODIlRTclOUIlQjglRTglQUIlODclRTMlODAlOEQlRTMlODMlOTclRTMlODMlQUQlRTMlODIlQjglRTMlODIlQTclRTMlODIlQUYlRTMlODMlODglMjAlRTIlODAlOTUlMjAlRTMlODMlOTUlRTMlODIlQTklRTMlODMlQUIlRTMlODMlODAlRTYlQTclOEIlRTYlODglOTAlRTMlODMlQkJDTEFVREUubWQlRTMlODMlQkIlRTIlODAlQTYmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1mNGZiYjg3OTlhNDQ2MzE5ZWY1ZTA1YjRmM2QwMWU1Mg&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBodGFuaTA4MTcmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1kZWViMzc0N2E1MTdhMGQzYWEyZDBlOTg2ODMwYThhOA&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=f4ca13f787b7e22e23009be23e52f837",
-    "fetched_at": "2026-04-27 08:56:04",
-    "ja_summary": "要約の生成に失敗しました。"
-  },
-  {
-    "title": "日経平均株価は史上最高値を更新中だが､むしろGW前後は｢利益確定売り｣に押された方が相場は長続きすると読むワケ | 政治・経済・投資 | 東洋経済オンライン",
-    "link": "https://toyokeizai.net/articles/-/942713?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-    "source": "東洋経済オンライン",
-    "published": "Mon, 27 Apr 2026 07:30:00 +0900",
-    "summary": "半導体関連株の驚異的な連騰が市場を沸かせ､AI需要の急拡大が今後も成長を牽引すると注目されています。市場は強気ムード一色の中､今後の調整リスクや資金の動きにどう備えるべきでしょうか。（このリード文は…",
-    "image": "https://tk.ismcdn.jp/mwimgs/8/9/1200w/img_894e41c6a70c96ca4e123d7b554aef59123692.jpg?nextgen=false",
-    "fetched_at": "2026-04-27 08:07:52",
-    "ja_summary": "日経平均は史上最高値更新も、GW前の利益確定売りが相場を長続きさせる。AI需要拡大で半導体関連株は好調だが、調整リスクへの備えが重要。"
   }
 ]
