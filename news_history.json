@@ -1,5 +1,65 @@
 [
   {
+    "title": "AWSガーマンCEO「可能性を解き放つ」、OpenAIの最新AIモデル提供で",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11708/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "米Amazon Web Services（AWS）のマット・ガーマンCEO（最高経営責任者）は2026年4月28日（米国時間）、生成AI（人工知能）サービスの「Amazon Bedrock」を通じて、米OpenAIの最新AIモデルを提供することについて「大きな可能性を解き放つことになる」と語った。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11708/topm.jpg?20220512",
+    "fetched_at": "2026-04-29 13:46:38",
+    "ja_summary": "・AWSが「Amazon Bedrock」でOpenAIの最新AIモデルの提供を開始。\n・ガーマンCEOは本提携が生成AIの大きな可能性を解き放つと表明。\n・AWSのクラウド基盤でOpenAIの高性能モデルの利用が可能になる。"
+  },
+  {
+    "title": "用途開拓へ模索続く　AIが普及後押しも",
+    "link": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/042100545/042100005/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "急速に発展するAI（人工知能）エージェントの波は決済にも押し寄せようとしている。「購買自動化」を目標に、決済手段としてステーブルコインが主役に躍り出る。現状は実証実験が多いが、近い将来、ゲームチェンジが起こる可能性もある。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/042100545/042100005/topm.jpg?20220512",
+    "fetched_at": "2026-04-29 13:46:40",
+    "ja_summary": "・AIエージェントによる「購買自動化」が普及し、決済手段としてステーブルコインが注目されている。\n・現在は実証実験が中心だが、決済業界を根本から変えるゲームチェンジャーとなる可能性がある。"
+  },
+  {
+    "title": "OpenAIモデル、AWSで利用可能に　Codex・マネージドエージェントも",
+    "link": "https://www.watch.impress.co.jp/docs/news/2105539.html",
+    "source": "Impress Watch",
+    "published": "",
+    "summary": "AWSとOpenAIは28日(米国時間)、最新のOpenAIモデルを「Amazon Bedrock」に導入し、Amazon Bedrock上で「Codex」と、OpenAIを搭載した「Amazon Bedrock Managed Agents」の限定プレビュー版を提供開始した。",
+    "image": "https://www.watch.impress.co.jp/img/ipw/list/2105/539/aws1.jpg",
+    "fetched_at": "2026-04-29 13:46:42",
+    "ja_summary": "・AWSの生成AIサービス「Amazon Bedrock」で、OpenAIの最新モデルが利用可能に。\n・プログラミング支援「Codex」と、OpenAI搭載の「マネージドエージェント」が限定プレビュー提供開始。\n・AWS環境上でOpenAIの高度なAI機能を活用したアプリケーション開発が容易化。"
+  },
+  {
+    "title": "Claude の Adobe for creativity の使い方",
+    "link": "https://note.com/npaka/n/n6841ac39cc4c",
+    "source": "note (npaka)",
+    "published": "Wed, 29 Apr 2026 10:50:16 +0900",
+    "summary": "<p id=\"e6c20f52-77bc-4e01-977e-2119c3339d08\" name=\"e6c20f52-77bc-4e01-977e-2119c3339d08\">「Claude」の「Adobe for creativity」の使い方をまとめました。</p><br /><br /><a href=\"https://note.com/npaka/n/n6841ac39cc4c\">続きをみる</a>",
+    "image": "https://assets.st-note.com/production/uploads/images/271330359/rectangle_large_type_2_99251469867e85796e7edc4c8cf78892.png?width=800",
+    "fetched_at": "2026-04-29 13:46:53",
+    "ja_summary": "ClaudeとAdobeツールの連携機能「Adobe for creativity」の活用方法が解説されています。\nAIによる生成や編集作業を効率化し、クリエイティブ制作のワークフローを最適化する手順を紹介しています。"
+  },
+  {
+    "title": "AIエージェント時代における開発とテストの在り方とは",
+    "link": "https://japan.zdnet.com/article/35246354/",
+    "source": "ZDNET Japan",
+    "published": "",
+    "summary": "本稿では、「AIエージェント時代」における開発とテストを取り上げます。複数のツールやシステムを横断して、AIがユーザーの意図を理解し、計画し、実行まで担う、いわば「オーケストレーション」が現実の業務に入り込むことに本質があります。人間は手を動かす役割から、意図を提示し、結果を監督・評価する役割へ移っていきます。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35246354/\"><img src=\"https://japan.zdnet.com/storage/2025/02/13/a79d190ed078238bb849c8f1683cd326/t/184/138/d/250213_bigdata_as_1280_1088481721.jpeg\" /></a>",
+    "image": "https://japan.zdnet.com/storage/2025/02/13/a79d190ed078238bb849c8f1683cd326/t/184/138/d/250213_bigdata_as_1280_1088481721.jpeg",
+    "fetched_at": "2026-04-29 13:46:57",
+    "ja_summary": "・AIが業務を計画・実行する「AIエージェント時代」が到来。\n・開発やテストにおける人間の役割が、作業から「意図の提示・評価・監督」へとシフトする。\n・ツールやシステムをAIが統合するオーケストレーションが業務の中心となる。"
+  },
+  {
+    "title": "OpenAI、マイクロソフトとのクラウド独占契約を解消、すべてのクラウドで同社サービスを提供へ",
+    "link": "https://www.techno-edge.net/article/2026/04/28/5027.html",
+    "source": "TechnoEdge",
+    "published": "Tue, 28 Apr 2026 07:00:02 +0900",
+    "summary": "OpenAIとマイクロソフトは、両社間の提携関係について「双方にとって有益となるよう」見直しをしたと発表しました。",
+    "image": "https://www.techno-edge.net/imgs/rss/31182.jpg",
+    "fetched_at": "2026-04-29 13:46:58",
+    "ja_summary": "・OpenAIがマイクロソフトとのクラウド独占契約を解消。\n・今後は特定のクラウドに縛られず、全環境でサービスを提供可能に。\n・両社の提携関係を見直し、より柔軟な事業展開へと移行する。"
+  },
+  {
     "title": "アンソロピック最新AI「ミュトス」限定公開　企業のバグ対応に注力 (世界鳥瞰)",
     "link": "https://business.nikkei.com/atcl/NBD/19/world/00793/",
     "source": "日経ビジネス 最新",
@@ -938,65 +998,5 @@
     "image": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11689/topm.jpg?20220512",
     "fetched_at": "2026-04-28 08:09:03",
     "ja_summary": "・航空機内のWi-Fiが、低軌道衛星通信の導入で高速かつ快適に進化。\n・ZIPAIRは「Starlink」を全便に、JALは主力機に「OneWeb」を採用。\n・安定した通信環境の整備により、飛行中の利便性が飛躍的に向上する。"
-  },
-  {
-    "title": "質問に答えるAIはもう古い?　Genspark AIワークスペース 4.0が目指す「AI社員」[Sponsored]",
-    "link": "https://www.watch.impress.co.jp/docs/topic/special/2101923.html",
-    "source": "Impress Watch",
-    "published": "",
-    "summary": "生成AIに興味はあっても、実際の仕事をどこまで任せられるのかは、まだ見えにくいと感じている人は少なくありません。文章の要約や調べものには便利そうでも、日々の業務そのものを前に進める存在として活用できるのかとなると、具体的なイメージを持ちにくいからです。",
-    "image": "https://www.watch.impress.co.jp/img/ipw/list/2101/923/01_a.jpg",
-    "fetched_at": "2026-04-28 08:09:05",
-    "ja_summary": "・「Genspark AIワークスペース 4.0」は、単なる検索・回答ツールを超えた「AI社員」としての活用を目指す。\n・日々の業務代行に特化し、生成AIを実際のプロジェクト推進へ組み込む新しいワークフローを提案。\n・調べものや要約だけでなく、業務を自律的に進める実務パートナーとしての利便性を提供。"
-  },
-  {
-    "title": "テクノエッジにてレポ漫画「へにへにAIイベント探訪」の連載はじめました",
-    "link": "https://note.com/npaka/n/nd8c3b9032b12",
-    "source": "note (npaka)",
-    "published": "Fri, 24 Apr 2026 11:49:45 +0900",
-    "summary": "<p id=\"f7d7a75e-0261-4270-afcf-18d3bfef6d0c\" name=\"f7d7a75e-0261-4270-afcf-18d3bfef6d0c\">テクノエッジにてAIイベントレポ漫画「へにへにAIイベント探訪」の連載はじめました よろしくお願いします</p><figure id=\"baf25f65-6fd2-42a7-a9ad-cb96f739d485\" name=\"baf25f65-6fd2-42a7-a9ad-cb96f739d485\"><blockquote class=\"twitter-tweet\">\n<p>テクノエッジにてAIイベントレポ漫画「へにへにAIイベント探訪」の連載はじめました<br />よろしくお願いします<br /><br />新連載「へにへにAIイベント探訪」第1回：秋葉原ロボットほこ天 2026はバトルありパレードあり、ロボットは個人の領域に（npaka） <a href=\"https://twitter.com/TechnoEdgeJP?ref_src=twsrc%5Etfw\" rel=\"nofollow noopener\">@TechnoEdgeJP</a> <a href=\"https://t.co/GjmBD2OcJm\" rel=\"nofollow noopener\">https://t.co/GjmBD2OcJm</a></p>— 布留川英一 / Hidekazu Furukawa (@npaka123) <a href=\"https://twitter.com/npaka123/status/2047505899208823121?ref_src=twsrc%5Etfw\" rel=\"nofollow noopener\">April 24, 2026</a>\n</blockquote></figure><br /><a href=\"https://note.com/npaka/n/nd8c3b9032b12\">続きをみる</a>",
-    "image": "https://assets.st-note.com/production/uploads/images/269940423/rectangle_large_type_2_a8e3d3b3399c03609c5ec5cb1c3b1722.png?width=800",
-    "fetched_at": "2026-04-28 08:09:12",
-    "ja_summary": "テクノエッジでAIイベントのレポート漫画「へにへにAIイベント探訪」の連載が開始されました。\n第1回は「秋葉原ロボットほこ天 2026」をテーマに、ロボットが個人の領域に進出している様子を描いています。\nバトルやパレードもあり、ロボットの進化と普及に焦点を当てた内容です。"
-  },
-  {
-    "title": "Anthropic names Theo Hourmouzis General Manager of Australia & New Zealand and officially opens Sydney office",
-    "link": "https://www.anthropic.com/news/theo-hourmouzis-general-manager-australia-new-zealand",
-    "source": "Anthropic (News)",
-    "published": "Mon, 27 Apr 2026 00:00:00 +0000",
-    "summary": "Anthropic names Theo Hourmouzis General Manager of Australia & New Zealand and officially opens Sydney office",
-    "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
-    "fetched_at": "2026-04-28 08:09:23",
-    "ja_summary": "・Anthropicが豪州・ニュージーランド（ANZ）統括のゼネラルマネージャーにテオ・フルモーゼ氏を任命\n・シドニーにオフィスを正式開設し、同地域での事業展開を本格化\n・AIモデル「Claude」の現地市場における提供とサポートを強化へ"
-  },
-  {
-    "title": "コードを1行も読ませずに、AIに脆弱性を100%特定させる方法（理論編）",
-    "link": "https://qiita.com/harupython/items/ed256553d10578cfec2a",
-    "source": "Qiita (Popular)",
-    "published": "2026-04-28T00:27:25+09:00",
-    "summary": "## 🚀 TL;DR\n * AI（LLM）に生のソースコードを読ませるのは、実は<font color=\"red\"><strong>効率の悪い「情報の暴力」</strong></font>である。\n * <strong>AST（抽象構文木）</strong>から「構造」だけを抽出したマップこそが、AIのIQを極限まで引き出す。\n * データの流入から破綻までをグラフ理論で定義すれば、理論上、<fo",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGNDAyODIyMyUyRnByb2ZpbGUtaW1hZ2VzJTJGMTc0MTE3NzAxMD9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9ZTA0OGYxNTEyODQxNzFlY2ZjNGM0N2YzMzFhNWUxNTM%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkY5MGI3ZDVlNmEwMmE1ODZkYWZjNDZhYTZhMzIxYWVhYzhhOGY0MzlkJTJGb3JpZ2luYWwuanBnJTNGMTc2NDU4NTExMT9peGxpYj1yYi00LjAuMCZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz1mNjNkNDY3NDNmYTNhNDA3MDFmNDZlN2Q5MzEzNjgzYQ%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D71f5cc6926a340ca91bc0805607f13ab?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgyJUIzJUUzJTgzJUJDJUUzJTgzJTg5JUUzJTgyJTkyMSVFOCVBMSU4QyVFMyU4MiU4MiVFOCVBQSVBRCVFMyU4MSVCRSVFMyU4MSU5QiVFMyU4MSU5QSVFMyU4MSVBQiVFMyU4MCU4MUFJJUUzJTgxJUFCJUU4JTg0JTg2JUU1JUJDJUIxJUU2JTgwJUE3JUUzJTgyJTkyMTAwJTI1JUU3JTg5JUI5JUU1JUFFJTlBJUUzJTgxJTk1JUUzJTgxJTlCJUUzJTgyJThCJUU2JTk2JUI5JUU2JUIzJTk1JUVGJUJDJTg4JUU3JTkwJTg2JUU4JUFCJTk2JUU3JUI3JUE4JUVGJUJDJTg5JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9NTNmYTI2YWM5YWIyMWFmZTE0NDQzZjljYWQ3NzVmMzY&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBoYXJ1cHl0aG9uJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9ZjYwNzI2NWViMThlZGI5YzE4NGUzZDA5N2NmODQzNGE&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=RGlzbmFuYQ&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=df7d124d197d80cc5008906ac0446223",
-    "fetched_at": "2026-04-28 08:09:32",
-    "ja_summary": "・AIに生コードを読ませるのは非効率な「情報の暴力」である。\n・コードの構造情報（AST）のみを抽出すれば、AIの分析精度を最大化できる。\n・グラフ理論でデータの流れを定義することで、理論上100%の脆弱性検知が可能になる。"
-  },
-  {
-    "title": "クソバズワード「ハーネスエンジニアリング」と向き合う",
-    "link": "https://qiita.com/retore/items/3688cf515c14f7471ed4",
-    "source": "Qiita (Popular)",
-    "published": "2026-04-18T21:52:58+09:00",
-    "summary": "数週間くらい前に突然どいつもこいつも「ハーネスエンジニアリング」とツイートするようになり，最初はhooksとかskillsのことをハーネスと呼んでいるらしいと認識していたのだが，ある日ClaudeCodeのことをハーネスとして扱う発言をしているツイートを見つけて，「ハーネスエンジニアリング is 何？」となった．\n\nhttps://x.com/retore/status/2041473483004",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGNDQ0MDM3JTJGcHJvZmlsZS1pbWFnZXMlMkYxNzY3MzMxMzEwP2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz00ZTgzODFhZTQ3ZGFlYmIzOWMyOTRiOGI0YzE4ZjJmYw%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D3a91397aaf4209dd13b44aa01a5d47ab?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgyJUFGJUUzJTgyJUJEJUUzJTgzJTkwJUUzJTgyJUJBJUUzJTgzJUFGJUUzJTgzJUJDJUUzJTgzJTg5JUUzJTgwJThDJUUzJTgzJThGJUUzJTgzJUJDJUUzJTgzJThEJUUzJTgyJUI5JUUzJTgyJUE4JUUzJTgzJUIzJUUzJTgyJUI4JUUzJTgzJThCJUUzJTgyJUEyJUUzJTgzJUFBJUUzJTgzJUIzJUUzJTgyJUIwJUUzJTgwJThEJUUzJTgxJUE4JUU1JTkwJTkxJUUzJTgxJThEJUU1JTkwJTg4JUUzJTgxJTg2JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9OTc3OTdkNDE3NzUxMGJkZGFiNjlhOTQ2YWEyYTM2Y2I&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDByZXRvcmUmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1hMmFiN2E5MzI2NWQ4YTg2Zjc4NTBlMzgzMDYyMzc3ZA&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=bb91a88fe7fbdf5fba382c5a0ef43fb4",
-    "fetched_at": "2026-04-28 08:09:35",
-    "ja_summary": "SNSで急浮上した「ハーネスエンジニアリング」という言葉の定義が曖昧で混乱を招いている。\n本来はフックなどを指す言葉だが、AIツール（ClaudeCode）まで含め称されるなど用法が拡散している。\n現時点で明確な定義は定まっておらず、流行のバズワードとして扱われている状態である。"
-  },
-  {
-    "title": "イラン戦争よりウクライナを優先した欧州。アメリカ抜きでロシアと軍事的対峙の準備が加速している | 政治・経済・投資 | 東洋経済オンライン",
-    "link": "https://toyokeizai.net/articles/-/942748?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-    "source": "東洋経済オンライン",
-    "published": "Tue, 28 Apr 2026 06:00:00 +0900",
-    "summary": "ウクライナ侵攻が5年目を迎える中､欧州は米トランプ政権への信頼を失い､EU主導でロシアと対峙する姿勢を鮮明にしつつあります。今や欧州防衛は｢自分たちの戦争｣となり､AIドローン開発や巨額融資など戦局…",
-    "image": "https://tk.ismcdn.jp/mwimgs/8/4/1200w/img_84a1ba93a7649e77caa9de92b0dfb42a145375.jpg?nextgen=false",
-    "fetched_at": "2026-04-28 07:05:40",
-    "ja_summary": "・米国の関与低下を見越し、欧州は対ロシア防衛の自立化を加速。\n・EU主導でAIドローン開発や巨額融資を進め、防衛体制を刷新。\n・「自分たちの戦争」との認識を強め、有事に備える戦略へ転換中。"
   }
 ]
