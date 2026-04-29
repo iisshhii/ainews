@@ -1,5 +1,25 @@
 [
   {
+    "title": "Cybersecurity in the Intelligence Age",
+    "link": "https://openai.com/index/cybersecurity-in-the-intelligence-age",
+    "source": "OpenAI",
+    "published": "Wed, 29 Apr 2026 04:00:00 GMT",
+    "summary": "OpenAI outlines a five-part action plan for strengthening cybersecurity in the Intelligence Age, focused on democratizing AI-powered cyber defense and protecting critical systems.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/64zhbS4FYJIaJ2TXQb6ztp/a538eb06a6e62b8964de2bf6d5a2e8a3/Cybersecurity_in_the_Intelligence_Age.png?w=1600&amp;h=900&amp;fit=fill",
+    "fetched_at": "2026-04-29 20:18:33",
+    "ja_summary": "・OpenAIがAI時代に向けた5段階のサイバーセキュリティ強化計画を発表。\n・AIを活用したサイバー防衛の普及と、重要インフラの保護を主軸とする。\n・技術の民主化とシステムの安全性向上を両立させる戦略を提示。"
+  },
+  {
+    "title": "GWも勉強したい方向けに、よくオススメされる技術書をカテゴリ別にまとめてみた",
+    "link": "https://qiita.com/miruky/items/c2df4f23d73a8e05f37f",
+    "source": "Qiita (Popular)",
+    "published": "2026-04-27T18:00:30+09:00",
+    "summary": "![ChatGPT Image 2026年4月27日 17_06_46 (1) (1).png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3637204/b254286e-41b6-4c21-97f6-deaca564ea87.png)\n\n## はじめに\n\nこんばんは、mirukyです。\n\nGWは、まとまった学習時間を",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGMzYzNzIwNCUyRnByb2ZpbGUtaW1hZ2VzJTJGMTc3NDQ0NTA3MD9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NWY2OTc3NjFmNDZhMTA4YTgyMjNmMDEzODFkMGVmZTY%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Db2bc8d820e2037057c6470791c40d1f8?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9R1clRTMlODIlODIlRTUlOEIlODklRTUlQkMlQjclRTMlODElOTclRTMlODElOUYlRTMlODElODQlRTYlOTYlQjklRTUlOTAlOTElRTMlODElOTElRTMlODElQUIlRTMlODAlODElRTMlODIlODglRTMlODElOEYlRTMlODIlQUElRTMlODIlQjklRTMlODIlQjklRTMlODMlQTElRTMlODElOTUlRTMlODIlOEMlRTMlODIlOEIlRTYlOEElODAlRTglQTElOTMlRTYlOUIlQjglRTMlODIlOTIlRTMlODIlQUIlRTMlODMlODYlRTMlODIlQjQlRTMlODMlQUElRTUlODglQTUlRTMlODElQUIlRTMlODElQkUlRTMlODElQTglRTMlODIlODElRTMlODElQTYlRTMlODElQkYlRTMlODElOUYmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz05ZmI4ZmIzMDI5OTk0NzU5NWUwNWU2MDg1YTA2ZjFkMQ&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBtaXJ1a3kmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1iMWMwZjM0MGFkNTI5NmU1ZmNjNDFiZDQxMGY0YWRjYw&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=e29506c65b1c5ed17c358fe1b647fa73",
+    "fetched_at": "2026-04-29 20:18:51",
+    "ja_summary": "・GW中に学習時間を確保したいエンジニア向けに、推奨される技術書をカテゴリ別に選定。\n・プログラミングやインフラなど、スキルアップに役立つ良書を網羅的に紹介。\n・長期休暇を活用して効率よく知識を深めたい人のための学習ガイド。"
+  },
+  {
     "title": "【2026年4月更新】Claude Codeの役に立つフロントデザインのskills10選",
     "link": "https://qiita.com/kamome_susume/items/41300417840aa107472e",
     "source": "Qiita (Popular)",
@@ -978,25 +998,5 @@
     "image": "https://res.cloudinary.com/zenn/image/upload/s--cmiaSp58--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588%25E3%2581%25AB%25E3%2583%25A6%25E3%2583%25BC%25E3%2582%25B6%25E3%2583%25BC%25E3%2582%2592%25E6%25BC%2594%25E3%2581%2598%25E3%2581%2595%25E3%2581%259B%25E3%2581%25A6%25E6%25A5%25AD%25E5%258B%2599%25E3%2582%2592%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:uchi%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2ZiOWJiMTRmMmUuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:BizReach%2520AI%2520Product%2520S...%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2ZkNGY5Y2E4YzIuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
     "fetched_at": "2026-04-28 13:04:12",
     "ja_summary": "・ビズリーチのAIチームが、AIにユーザー役を演じさせて業務を検証する「Agentic UAT」という手法を開発。\n・AIに仕様やコードを教えず、UI操作のみを頼りにタスクを完遂させることで、人間によるテスト工数を削減。\n・AIが自律的に業務フローをテストすることで、AI前提の開発プロセスにおける品質向上を実現。"
-  },
-  {
-    "title": "コードを1行も書く前にバグを潰す — 生成AIが「理想論」だったシフトレフトを現実にする",
-    "link": "https://zenn.dev/tokium_dev/articles/c0e6e9aca98a85",
-    "source": "Zenn Trends",
-    "published": "Sun, 26 Apr 2026 23:00:08 GMT",
-    "summary": "はじめに\nこんにちは！TOKIUMでQAチームのリーダーをしている西田です。\n「シフトレフト」「ATDD（受け入れテスト駆動開発）」「BDD（振る舞い駆動開発）」 — テストを上流に持っていこうという考え方は、ソフトウェア開発の世界で10年以上前から提唱されてきました。概念としては広く知られているのに、実際に徹底できている現場は少ない。「理想はわかるけど、やるのが大変」というのが正直なところだったと思います。\nところが今、生成AIの急速な進化によって前提が変わりつつあります。Claude CodeやGitHub Copilotによるコーディング自動化、Playwright Agent...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--NgDPn-kr--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2589%25E3%2582%25921%25E8%25A1%258C%25E3%2582%2582%25E6%259B%25B8%25E3%2581%258F%25E5%2589%258D%25E3%2581%25AB%25E3%2583%2590%25E3%2582%25B0%25E3%2582%2592%25E6%25BD%25B0%25E3%2581%2599%2520%25E2%2580%2594%2520%25E7%2594%259F%25E6%2588%2590AI%25E3%2581%258C%25E3%2580%258C%25E7%2590%2586%25E6%2583%25B3%25E8%25AB%2596%25E3%2580%258D%25E3%2581%25A0%25E3%2581%25A3%25E3%2581%259F%25E3%2582%25B7%25E3%2583%2595%25E3%2583%2588%25E3%2583%25AC%25E3%2583%2595%25E3%2583%2588%25E3%2582%2592%25E7%258F%25BE%25E5%25AE%259F%25E3%2581%25AB%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:ynis_qa%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzViNTEwYjI5ZjEuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:TOKIUM%25E3%2583%2597%25E3%2583%25AD%25E3%2583%2580%25E3%2582%25AF%25E3%2583%2588%25E3%2583%2581%25E3%2583%25BC%25E3%2583%25A0%2520%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzM1ZGRkZGFkMWYuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-    "fetched_at": "2026-04-28 13:04:13",
-    "ja_summary": "・「シフトレフト」は従来、理想論で実装が困難だったが、生成AIの進化により現実的な手法へ変化している。\n・AIによるコーディング自動化やテスト生成が普及し、実装前にバグを検知する上流工程の効率化が可能になった。\n・開発の早期段階からAIを導入することで、開発プロセスの大幅な最適化と品質向上が期待できる。"
-  },
-  {
-    "title": "「SaaSの次の時代」に重要性を増すステークホルダーマネジメントの要諦  ～解像度を圧倒的に高めPdMの価値を最大化させる方法～",
-    "link": "https://speakerdeck.com/kakehashi/the-essentials-of-stakeholder-management-in-the-next-era-of-saas",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-04-27T21:24:27-04:00",
-    "summary": "Product Management Summit\nhttps://product-management-summit.findy-tools.io/2026?m=2026/tt/F-ZiAiPw\nでの登壇資料です",
-    "image": "https://files.speakerdeck.com/presentations/d51ca2352bbc4e94aaef09e61030be8c/preview_slide_0.jpg?39241174",
-    "fetched_at": "2026-04-28 13:04:14",
-    "ja_summary": "・SaaS市場が成熟する中で、PdMには技術力だけでなくステークホルダーを巻き込む調整力が不可欠。\n・対話の解像度を高め、各ステークホルダーの期待値とプロダクト価値を一致させることが重要。\n・関係者との合意形成の質を向上させ、PdMとしてのビジネス価値を最大化する戦略を解説。"
   }
 ]
