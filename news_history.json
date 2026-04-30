@@ -1,5 +1,35 @@
 [
   {
+    "title": "Google、Android版翻訳アプリにAIによる発音練習機能を搭載。リリース20周年記念",
+    "link": "https://www.techno-edge.net/article/2026/04/30/5033.html",
+    "source": "TechnoEdge",
+    "published": "Thu, 30 Apr 2026 07:00:03 +0900",
+    "summary": "GoogleはAndroid版のGoogle翻訳アプリに、ユーザーが複数言語の発音を練習するための機能を追加しました。",
+    "image": "https://www.techno-edge.net/imgs/rss/31208.jpg",
+    "fetched_at": "2026-05-01 01:55:09",
+    "ja_summary": "Google翻訳アプリにAI発音練習機能が追加されました。\n複数言語の発音を練習し、精度向上をサポートします。\nAndroid版で利用可能になりました。"
+  },
+  {
+    "title": "Anthropic and NEC collaborate to build Japan’s largest AI engineering workforce",
+    "link": "https://www.anthropic.com/news/anthropic-nec",
+    "source": "Anthropic (News)",
+    "published": "Fri, 24 Apr 2026 00:00:00 +0000",
+    "summary": "Anthropic and NEC collaborate to build Japan’s largest AI engineering workforce",
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20NodeGlobe&amp;backgroundColor=heather",
+    "fetched_at": "2026-05-01 01:55:25",
+    "ja_summary": "・AnthropicとNECが提携し、日本最大規模のAIエンジニア育成に着手。\n・Anthropicの最新モデル「Claude」をNECの環境へ導入し、企業向けAI活用を加速。\n・国内のAI開発力強化と社会実装の推進を目指す。"
+  },
+  {
+    "title": "Claude Codeのノウハウをサンプルコードで学ぶ ── ハーネス設計8パターン編",
+    "link": "https://qiita.com/nogataka/items/6d0eccd780b824cf080e",
+    "source": "Qiita (Popular)",
+    "published": "2026-04-21T14:42:39+09:00",
+    "summary": "\n## はじめに\n\n本記事は「Claude Codeのノウハウをサンプルコードで学ぶ」シリーズの**3本目（サンプルコード編の前半）**です。シリーズ全体は以下の4本構成になっています。\n\n1. [入門編](https://qiita.com/nogataka/items/59cc72e55e037d77225f) — Claude Codeの全体像とAIエージェントの仕組みを体感する\n2. [中",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYxNjEyOTglMkZjMWUzZmZkNmVhZGExOTY5ZmYzYzQ0YjE0ZmRlMDgxYmNkZTZmNTAwJTJGeF9sYXJnZS5wbmclM0YxNTg0ODQ1NTg0P2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz00ZGRjZmU5NTFjNTMyMzU3NjcyOGUzOTkyOTNmOGRlNQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D246367bff431168e6212d2602a3df494?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9Q2xhdWRlJTIwQ29kZSVFMyU4MSVBRSVFMyU4MyU4RSVFMyU4MiVBNiVFMyU4MyU4RiVFMyU4MiVBNiVFMyU4MiU5MiVFMyU4MiVCNSVFMyU4MyVCMyVFMyU4MyU5NyVFMyU4MyVBQiVFMyU4MiVCMyVFMyU4MyVCQyVFMyU4MyU4OSVFMyU4MSVBNyVFNSVBRCVBNiVFMyU4MSVCNiUyMCVFMiU5NCU4MCVFMiU5NCU4MCUyMCVFMyU4MyU4RiVFMyU4MyVCQyVFMyU4MyU4RCVFMyU4MiVCOSVFOCVBOCVBRCVFOCVBOCU4ODglRTMlODMlOTElRTMlODIlQkYlRTMlODMlQkMlRTMlODMlQjMlRTclQjclQTgmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz04YzNiOTMyZjEzNjZiYmYyYTM1OTAwZWMzNjczMDc2Nw&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBub2dhdGFrYSZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWE5ODA4YTE0Zjg4Y2I0ZjQ5OWU2ZDA3NGYyY2E2YTNh&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=f4296d164c9937810fa065bf36fb8fc2",
+    "fetched_at": "2026-05-01 01:55:39",
+    "ja_summary": "Claude Codeのノウハウを、ハーネス設計の8パターンを例にサンプルコードで学べる。\n本記事は、Claude Codeのノウハウを学ぶシリーズの3本目。\nAIエージェントの仕組みを体験する入門編に続く、実践的なコード解説の前半部分。"
+  },
+  {
     "title": "From the Floor: Platform Engineering Insights from QCon & KubeCon",
     "link": "https://speakerdeck.com/syntasso/from-the-floor-platform-engineering-insights-from-qcon-and-kubecon",
     "source": "Speaker Deck (Tech)",
@@ -968,35 +998,5 @@
     "image": "https://media.loom-app.com/loom/2026/04/28/beaa2bbd-ef26-4772-9ecd-ab3fc4c4a8a4/original.jpg?w=1200&amp;h=630",
     "fetched_at": "2026-04-30 07:50:37",
     "ja_summary": "ディズニー従業員はAIを積極的に活用しており、一部ヘビーユーザーは月数千万トークンを消費。\nしかし、AIアナリストによると、技術スタッフによるAI利用コストは大きな負担ではない。\n内部資料からは、ディズニーでのAI活用とコスト効率が示唆されている。"
-  },
-  {
-    "title": "RightTouch、次世代型コンタクトセンター構想--AI化を阻む「3つの壁」とは",
-    "link": "https://japan.zdnet.com/article/35246993/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "RightTouchは、顧客接点のAI化をテーマに勉強会を開催し、人手不足や大量満期対応など現場の課題を共有した。AI実装を阻む「体験・チューニング・データ管理」の3つの壁を解説し、それらを打破する新サービス「QANT ナレッジハブ」と次世代構想について明かした。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35246993/\"><img src=\"https://japan.zdnet.com/storage/2025/03/14/a25fe1e52d5e49bbc3d9ad2d9d95b0ce/t/184/138/d/250314_operator_as_1280_353291589.jpeg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2025/03/14/a25fe1e52d5e49bbc3d9ad2d9d95b0ce/t/184/138/d/250314_operator_as_1280_353291589.jpeg",
-    "fetched_at": "2026-04-30 07:50:42",
-    "ja_summary": "AI化の壁は「体験・チューニング・データ管理」。\nRightTouchは、これらの壁を打破する新サービスを発表。\n次世代コンタクトセンター構想を提示した。"
-  },
-  {
-    "title": "日立、「Lumada」×「HMAX」で描く成長戦略--フィジカルAIで社会インフラを再構築",
-    "link": "https://japan.zdnet.com/article/35246989/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "日立製作所の2025年度連結業績は当期純利益などが過去最高を更新した。成長をけん引する「Lumada」事業の拡大や、社会インフラを革新する独自のフィジカルAI「HMAX」の本格始動に加え、米GlobalLogicの役割の変化など、新中計の初年度で好スタートを切った。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35246989/\"><img src=\"https://japan.zdnet.com/storage/2026/04/28/f056882a9d4d815b67494ca7eb114f5e/t/184/138/d/260427_hitachi_9854.jpg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2026/04/28/f056882a9d4d815b67494ca7eb114f5e/t/184/138/d/260427_hitachi_9854.jpg",
-    "fetched_at": "2026-04-30 07:50:42",
-    "ja_summary": "日立は、Lumada事業拡大とフィジカルAI「HMAX」で成長を目指す。\n社会インフラを再構築する「HMAX」は、新中計初年度で好調な業績を後押し。\n過去最高益を更新し、グローバル事業の戦略も変化させている。"
-  },
-  {
-    "title": "NTT、「AIOWN」でネットワーク×電力×計算を統合--AIはインフラから変える",
-    "link": "https://japan.zdnet.com/article/35246958/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "NTTグループは、急速に普及するAI社会を支える次世代インフラ構想「AIOWN」を発表した。生成AIの発展により計算資源と電力需要が爆発的に増加する中、同社は今後5年で約2兆円を投資する。トヨタ自動車や中国電力との協業を通じ、製造現場や社会インフラに溶け込む「フィジカルAI」の実装と普及を牽引する。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35246958/\"><img src=\"https://japan.zdnet.com/storage/2026/04/27/925fab31b95bd5f0f0673ee380b49b5a/t/184/138/d/260427_ntt_l.jpg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2026/04/27/925fab31b95bd5f0f0673ee380b49b5a/t/184/138/d/260427_ntt_l.jpg",
-    "fetched_at": "2026-04-30 07:50:42",
-    "ja_summary": "NTTはAI社会を支える次世代インフラ構想「AIOWN」を発表。\n計算資源・電力需要増大に対応するため、5年間で約2兆円投資。\n製造現場や社会インフラへの「フィジカルAI」実装を目指す。"
   }
 ]
