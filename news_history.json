@@ -1,5 +1,45 @@
 [
   {
+    "title": "英国でAIデータセンター「ゴールドラッシュ」　土地価格高騰も (Views)",
+    "link": "https://business.nikkei.com/atcl/seminar/19/00030/043000762/",
+    "source": "日経ビジネス 最新",
+    "published": "",
+    "summary": "英イングランド北東部ティーズサイドにある「ウィルトン・インターナショナル工業団地」は、かつて化学工業で栄えたが衰退し、長年休眠状態となっていた。しかしその土地が今、新たな輝きを放ち始めている。発電所や水資源、送電網接続など、最先端の人工知能（ＡＩ）データセンター拠点に必要な条件がそろっているからだ。",
+    "image": "https://business.nikkei.com/atcl/seminar/19/00030/043000762/fb.jpg",
+    "fetched_at": "2026-05-01 21:59:51",
+    "ja_summary": "英ティーズサイドの旧工業団地がAIデータセンターの候補地として注目されている。\n発電所や水資源、送電網などのインフラが整っており、土地価格も高騰する「ゴールドラッシュ」状態。\nAI産業の発展を支える新たな拠点としての期待が高まる。"
+  },
+  {
+    "title": "楽天トラベルのAIエージェント、宿泊予約に対応",
+    "link": "https://www.watch.impress.co.jp/docs/news/2105889.html",
+    "source": "Impress Watch",
+    "published": "",
+    "summary": "楽天トラベルは、AIエージェント「Rakuten AI」に予約機能を追加した。これにより、宿泊施設の提案から予約までをAIが一貫してサポート可能となる。",
+    "image": "https://www.watch.impress.co.jp/img/ipw/list/2105/889/01.jpg",
+    "fetched_at": "2026-05-01 22:00:00",
+    "ja_summary": "楽天トラベルのAIが宿泊予約に対応。\nAIが宿の提案から予約までをサポート。\n旅行計画がよりスムーズに。"
+  },
+  {
+    "title": "Cybersecurity in the Intelligence Age",
+    "link": "https://openai.com/index/cybersecurity-in-the-intelligence-age",
+    "source": "OpenAI",
+    "published": "Wed, 29 Apr 2026 04:00:00 GMT",
+    "summary": "OpenAI outlines a five-part action plan for strengthening cybersecurity in the Intelligence Age, focused on democratizing AI-powered cyber defense and protecting critical systems.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/64zhbS4FYJIaJ2TXQb6ztp/a538eb06a6e62b8964de2bf6d5a2e8a3/Cybersecurity_in_the_Intelligence_Age.png?w=1600&amp;h=900&amp;fit=fill",
+    "fetched_at": "2026-05-01 22:00:15",
+    "ja_summary": "・OpenAIがAI時代のサイバーセキュリティ強化に向けた5項目からなる行動計画を発表。\n・AIを活用したサイバー防御の民主化を推進し、重要インフラの保護を強化する。\n・AI技術を悪用した脅威に対抗し、安全なデジタル社会の構築を目指す。"
+  },
+  {
+    "title": "Anthropic names Theo Hourmouzis General Manager of Australia & New Zealand and officially opens Sydney office",
+    "link": "https://www.anthropic.com/news/theo-hourmouzis-general-manager-australia-new-zealand",
+    "source": "Anthropic (News)",
+    "published": "Mon, 27 Apr 2026 00:00:00 +0000",
+    "summary": "Anthropic names Theo Hourmouzis General Manager of Australia & New Zealand and officially opens Sydney office",
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+    "fetched_at": "2026-05-01 22:00:21",
+    "ja_summary": "・AI企業Anthropicがオーストラリア・ニュージーランド担当GMにTheo Hourmouzis氏を任命。\n・シドニーに新オフィスを開設し、同地域での事業展開を正式に開始。"
+  },
+  {
     "title": "グーグル、Gemini EnterpriseとNotebookLM企業版が政府導入対象に",
     "link": "https://www.watch.impress.co.jp/docs/news/2106364.html",
     "source": "Impress Watch",
@@ -958,45 +998,5 @@
     "image": "https://files.speakerdeck.com/presentations/de58e6b0bce648708576a4f1a6b28365/preview_slide_0.jpg?39268487",
     "fetched_at": "2026-04-30 20:41:09",
     "ja_summary": "日本MySQLユーザ会(MyNA会) 2026年4月開催イベントのオープニング資料。\n2026年4月27日にオンラインで開催された。\nイベントの冒頭で投影されたスライドの内容。"
-  },
-  {
-    "title": "Anthropic「Long-running a gents」をGeminiで再現してみた",
-    "link": "https://speakerdeck.com/tkikuchi/anthropic-long-running-a-gents-wogeminidezai-xian-sitemita",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-04-30T06:11:05-04:00",
-    "summary": "Anthropic「Long-running a gents」をGeminiで再現してみた",
-    "image": "https://files.speakerdeck.com/presentations/b494a302411b4dab8072f756f05233a9/preview_slide_0.jpg?39268336",
-    "fetched_at": "2026-04-30 20:41:09",
-    "ja_summary": "・Anthropic社が提唱した「自律的にタスクを長時間実行するAIエージェント」の仕組みを、GoogleのGeminiを用いて再現した。\n・高度な推論能力を活用し、複雑なワークフローを自動化する実用的な検証結果を報告している。\n・Geminiによるエージェント開発の有効性と、その実装アプローチが具体化された。"
-  },
-  {
-    "title": "Difyで作るお客様の声の商品改善と、業務効率化に向けたボトルネックの発見",
-    "link": "https://speakerdeck.com/otanet/difydezuo-ruoke-yang-nosheng-noshang-pin-gai-shan-to-ye-wu-xiao-lu-hua-nixiang-ketabotorunetukunofa-jian",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-04-29T17:35:33-04:00",
-    "summary": "本書はAIアプリケーションが作れます。ユースケースとして２つ、紹介します。実際にすぐに動かせます。\nノーコード・ローコードのAIプラットフォームであるDify(Do-It-For-You)を用いて、下記の2つのユースケースを理論と実践とで学びます。理論と実践とを経験することで皆さまの事例に応用できる内容となっております。いずれも公開されておりますサンプルデータとＤＳＬ（ＹＡＭＬファイル）でＤｉｆｙのワークフローを設定し、動かすことで、実感できます。その後、ご自身でカスタマイズして頂けると思います。\n\n目次\nⅠ Difｙによるお客様の声を商品改善につなげるツール\n１．お客様の声とは......................................................................................................................1\n２．お客様の声の活用事例............................................................................................................1\n３．お客様の声による商品改善案の処理フロー................................................................................2\n４．Difyに適用したワークフロー...................................................................................................4\n５．考察......................................................................................................................................5\n\nⅡ 業務効率化に向けたボトルネックを見出すプロセスマイニングのツール\n１．プロセスマイニングとは.............................................................................................................6\n２．業務メールにおけるボトルネックの抽出事例................................................................................7\n３．Difyに適用したワークフロー....................................................................................................10\n４．考察. .....................................................................................................................................11\n\nⅢ まとめ\n参考文献・資料・URL一覧..............................................................................................................12\nサンプルデータ/ ＤＳＬファイル........................................................................................................13",
-    "image": "https://files.speakerdeck.com/presentations/6428df20360c4587867ec7bffb2d5409/preview_slide_0.jpg?39262300",
-    "fetched_at": "2026-04-30 20:41:09",
-    "ja_summary": "AIプラットフォーム「Dify」を活用し、顧客の声から商品改善案を導き出す手法と、メール分析で業務ボトルネックを特定する手法を解説。\n提供されるサンプルデータと設定ファイルを使用し、理論学習と実践的なワークフロー構築を体験できる構成。\n構築した仕組みはカスタマイズ可能で、自社の業務課題に応用するための実践書。"
-  },
-  {
-    "title": "Claude Codeで開発を自動化するSkills 5選",
-    "link": "https://qiita.com/kamome_susume/items/3b9b18e7e54f15721837",
-    "source": "Qiita (Popular)",
-    "published": "2026-04-20T18:23:27+09:00",
-    "summary": "「Claude Codeを使い始めたけど、毎回同じような指示をプロンプトに書いている気がする…」と感じていませんか？\n\nClaude Codeは素のままでも強力ですが、Skillsを使うことで**繰り返しの作業を自動化し、開発のルーティンをまるごとコマンド一発に変える**ことができます。この記事では、開発の自動化に特に役立つSkills 5選を、具体的な使いどころとともに紹介します。\n\n「毎回同じ",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYxNjkzMjQ4JTJGZDhlMmU1OWNiMDVmY2Y3MDQ3ZDgyN2ZjNDlkNDAwMTkzZTU5NDdjOSUyRnhfbGFyZ2UucG5nJTNGMTY4NjMxODg1ND9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9ZDRiNjcyYjg4ZWUxYTRkNjI1ZDRjOGFkMzVkMzQ5NjI%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Ddc9a014e564257547b64353543c58776?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9Q2xhdWRlJTIwQ29kZSVFMyU4MSVBNyVFOSU5NiU4QiVFNyU5OSVCQSVFMyU4MiU5MiVFOCU4NyVBQSVFNSU4QiU5NSVFNSU4QyU5NiVFMyU4MSU5OSVFMyU4MiU4QlNraWxscyUyMDUlRTklODElQjgmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1iZjhhMWQxNzc2M2Y2ZjVlNjVlOTMyZWIwYTdjNjZhNg&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBrYW1vbWVfc3VzdW1lJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9ZGRiZTIzN2VhYmFmZjQ1YThiNWYzYWQyMWVhNzMzOTI&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=181f777dbba3254bcb72ce65a16d7304",
-    "fetched_at": "2026-04-30 20:41:14",
-    "ja_summary": "Claude Codeの「Skills」機能を活用すれば、繰り返し行う開発作業をコマンド一発で自動化可能です。\n記事では、業務効率を劇的に改善する選りすぐりのSkills 5選とその活用法を紹介しています。\n単調なプロンプト入力を減らし、開発のルーティンワークを効率化したい方に最適です。"
-  },
-  {
-    "title": "米ビッグテック決算 AI巡り明暗",
-    "link": "https://news.yahoo.co.jp/pickup/6578260?source=rss",
-    "source": "Yahoo!ニュース 経済",
-    "published": "Thu, 30 Apr 2026 09:28:25 GMT",
-    "summary": "",
-    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/30/8c2bc75a7976adcc8231338db064fb6129829703b55edef50afbc3484f3a0d66.jpg",
-    "fetched_at": "2026-04-30 18:59:25",
-    "ja_summary": "・米大手テック企業の決算で、AI投資の成果に対する市場の評価が分かれている。\n・クラウド事業の好調さが明暗を分け、成長投資と収益性のバランスが問われている。\n・AIへの巨額投資が将来の収益に直結するか、投資家の厳しい視線が強まっている。"
   }
 ]
