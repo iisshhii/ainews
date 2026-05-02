@@ -1,5 +1,35 @@
 [
   {
+    "title": "商船三井と日立、中古船再利用の浮体式データセンター　開発期間3年短縮 (日経ESG)",
+    "link": "https://business.nikkei.com/atcl/gen/19/00159/042700381/",
+    "source": "日経ビジネス 最新",
+    "published": "",
+    "summary": "商船三井は海運事業で蓄積した資本を活用し、米国のデータセンター市場に参入する。開発期間を大幅に短縮し、CO2排出量も抑えることで、旺盛なAI需要を取り込む。",
+    "image": "https://business.nikkei.com/atcl/gen/19/00159/042700381/fb.jpg",
+    "fetched_at": "2026-05-02 18:20:03",
+    "ja_summary": "・商船三井が日立と組み、中古船を再利用した浮体式データセンターで米国市場に参入。\n・既存船の活用により開発期間を3年短縮し、建設時のCO2排出量も抑制。\n・急拡大するAI需要に対し、早期供給と環境負荷低減の両立で強みを発揮する。"
+  },
+  {
+    "title": "米Duolingo、AIで英語学習アプリ効率開発　活用の肝は企業ミッションの共有 (PLUSな視点)",
+    "link": "https://business.nikkei.com/atcl/plus/00037/042400047/",
+    "source": "日経ビジネス 最新",
+    "published": "",
+    "summary": "「Duolingo」は世界で最も利用される学習アプリの一つだ。ChatGPTが登場する前からAI活用を推し進めており、AIを単なる効率化の道具ではなく、「人間が意思決定するためのツール」と位置づけている。日本市場責任者の水谷翔氏に、日本企業が学ぶべきAI活用法と組織のあり方について話を聞いた。",
+    "image": "https://business.nikkei.com/atcl/plus/00037/042400047/fb.jpg",
+    "fetched_at": "2026-05-02 18:20:04",
+    "ja_summary": "・DuolingoはAIを効率化の道具ではなく、人間の意思決定を支援するツールと位置づけて活用している。\n・AI導入成功の鍵は、技術そのものよりも企業ミッションの徹底した組織内共有にある。\n・日本企業が学ぶべきは、AIを目的達成のための不可欠なパートナーとして位置づける組織のあり方。"
+  },
+  {
+    "title": "カリフォルニアの「狭小住宅」に、彼女は約1550万円を費やした。現在はエアビーで貸し出している",
+    "link": "https://www.businessinsider.jp/article/2604-how-a-custom-tiny-home-became-a-luxury-california-airbnb/",
+    "source": "Business Insider Japan",
+    "published": "Sat, 02 May 2026 08:30:00 GMT",
+    "summary": "キシロ・サクラ氏とパートナーは、自分たちのタイニーハウスをエアビー（Airbnb）で貸し出しています。建設の費用としての予算は10万ドル（約15500万円）。将来的に住み替えるが、それまでこの家は収入源とする予定です。",
+    "image": "https://media.loom-app.com/loom/2026/04/30/18d69cb7-ef57-45e6-8f8c-1f57e2bb5f97/original.png?w=1200&amp;h=630",
+    "fetched_at": "2026-05-02 18:20:21",
+    "ja_summary": "・約1550万円をかけてカリフォルニアにタイニーハウスを建設。\n・将来的な居住を前提としつつ、現在はAirbnbで貸し出し運用。\n・資産価値を維持しながら、賃貸収入を得る副業として活用中。"
+  },
+  {
     "title": "アンソロピック、「Claude Security」開始　Opus 4.7が防御対策",
     "link": "https://www.watch.impress.co.jp/docs/news/2105989.html",
     "source": "Impress Watch",
@@ -968,35 +998,5 @@
     "image": "https://www.techno-edge.net/imgs/rss/31220.jpg",
     "fetched_at": "2026-05-01 07:44:00",
     "ja_summary": "・イーロン・マスク氏が、自社AI「Grok」の強化にOpenAIの技術を利用したと認めた。\n・学習データの一部として、OpenAIモデルの知識を抽出する「蒸留」という手法を用いた。\n・AI開発におけるモデル間の知見流用が改めて浮き彫りとなった。"
-  },
-  {
-    "title": "全てを可視化する「全部入り走行データビューア」を実現するデータパイプラインとフロントエンド実装スタック",
-    "link": "https://zenn.dev/turing_motors/articles/38d06cc13690bb",
-    "source": "Zenn Trends",
-    "published": "Thu, 30 Apr 2026 06:00:05 GMT",
-    "summary": "はじめに\nチューリングでは毎日、データ収集車両による走行データと走行実験による実験結果データが蓄積されていきます。私たちはこれらを可視化するツールに非常に力を入れて開発しており、充実した可視化ツールはAIモデルを開発するエンジニアにとってもデータ収集を担うドライバーにとっても多くの洞察と気付きを提供します。\n本記事では、それらのデータ可視化実装の中から、走行動画と各種メトリクスを同期再生する「走行データビューア」を取り上げ、その実装事例と、Next.jsやMPEG-DASH、Databricks Lakeflow SDP(旧Delta Live Tables)などの技術スタックにつ...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--vxsvGSv_--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E5%2585%25A8%25E3%2581%25A6%25E3%2582%2592%25E5%258F%25AF%25E8%25A6%2596%25E5%258C%2596%25E3%2581%2599%25E3%2582%258B%25E3%2580%258C%25E5%2585%25A8%25E9%2583%25A8%25E5%2585%25A5%25E3%2582%258A%25E8%25B5%25B0%25E8%25A1%258C%25E3%2583%2587%25E3%2583%25BC%25E3%2582%25BF%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25E3%2582%25A2%25E3%2580%258D%25E3%2582%2592%25E5%25AE%259F%25E7%258F%25BE%25E3%2581%2599%25E3%2582%258B%25E3%2583%2587%25E3%2583%25BC%25E3%2582%25BF%25E3%2583%2591%25E3%2582%25A4%25E3%2583%2597%25E3%2583%25A9%25E3%2582%25A4%25E3%2583%25B3%25E3%2581%25A8%25E3%2583%2595%25E3%2583%25AD%25E3%2583%25B3%25E3%2583%2588%25E3%2582%25A8%25E3%2583%25B3%25E3%2583%2589%25E5%25AE%259F%25E8%25A3%2585%25E3%2582%25B9%25E3%2582%25BF%25E3%2583%2583%25E3%2582%25AF%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:ito%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2VhNmQ4MDk1OGQuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Tech%2520Blog%2520-%2520Turing%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2Q3MzFhYjhkYWIuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-    "fetched_at": "2026-05-01 07:44:17",
-    "ja_summary": "チューリングは、AI開発に必要な走行データと動画を同期して可視化するツールを開発。\nDatabricksによるデータ基盤とNext.jsなどの技術スタックを組み合わせ、効率的な解析を実現。\nこの仕組みにより、エンジニアとドライバー双方がデータから迅速に洞察を得られる体制を構築した。"
-  },
-  {
-    "title": "【Claude Code】CLAUDE.md・skills・agents を整備して開発体験が劇的に変わった話",
-    "link": "https://zenn.dev/linkedge/articles/27c38cdd9bedc6",
-    "source": "Zenn Trends",
-    "published": "Wed, 29 Apr 2026 13:16:33 GMT",
-    "summary": "はじめに\nClaude Code を開発に取り入れるチームが、ここ最近かなり増えてきているのではないでしょうか？\n私はずっと GitHub Copilot を愛用していたのですが、数ヶ月前から Claude Code を使い始めました。\n普段は VS Code で開発しているので、その拡張機能を入れた状態でしばらく使っていました。\n便利なツールで開発が捗ることは確かなのですが、時々的外れな動作をしたり、処理に時間がかかったりして、「思っていたほど効率が上がらないな」と感じることが多々ありました。\nまた、X で多くの方が Claude Code を様々な方法で活用しているのを見て、自分...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--RpPIAs_G--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590Claude%2520Code%25E3%2580%2591CLAUDE.md%25E3%2583%25BBskills%25E3%2583%25BBagents%2520%25E3%2582%2592%25E6%2595%25B4%25E5%2582%2599%25E3%2581%2597%25E3%2581%25A6%25E9%2596%258B%25E7%2599%25BA%25E4%25BD%2593%25E9%25A8%2593%25E3%2581%258C%25E5%258A%2587%25E7%259A%2584%25E3%2581%25AB%25E5%25A4%2589%25E3%2582%258F%25E3%2581%25A3%25E3%2581%259F%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:RyoyaOkuma%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzNmZmE4YTI1NWMuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E6%25A0%25AA%25E5%25BC%258F%25E4%25BC%259A%25E7%25A4%25BEL%2526E%2520Group%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSzhIN0k1TWtwTzN0SFJZOWQzRzVSdTVyVlpRVmI1MG5IWG1HWTdwdk5ublk4PXM5Ni1j%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-    "fetched_at": "2026-05-01 07:44:18",
-    "ja_summary": "・Claude Codeの導入で感じた非効率さを、専用設定（CLAUDE.md、skills、agents）の整備で解消。\n・AIへの指示精度と自律性が向上し、期待通りの開発体験を実現。\n・ツール活用に適切な「環境構築」を行うことで、開発効率が劇的に改善した事例。"
-  },
-  {
-    "title": "新卒Z世代社員を｢どうせタイパ重視｣と決めつけてはいけないワケ　\"研修講師\"が現場で感じた《2026年の新入社員の特徴》 | キャリア・教育 | 東洋経済オンライン",
-    "link": "https://toyokeizai.net/articles/-/943128?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-    "source": "東洋経済オンライン",
-    "published": "Fri, 01 May 2026 06:45:00 +0900",
-    "summary": "AIやSNSを使いこなし､効率性と正解への最短ルートを求める26卒新入社員たち。曖昧さへの不安を抱えつつも､明確な指示と対話で驚くほど成長するポテンシャルを秘めています。彼らとどう向き合うべきか､そ…",
-    "image": "https://tk.ismcdn.jp/mwimgs/7/9/1200w/img_797bb02500acd32680bc65748a81802a123218.jpg?nextgen=false",
-    "fetched_at": "2026-05-01 06:50:30",
-    "ja_summary": "・Z世代は「タイパ重視」と決めつけられがちだが、実際は明確な指示と対話があれば高い成長意欲を発揮する。\n・AIやSNSを駆使する一方で、曖昧な指示には不安を感じる傾向がある。\n・効率化を求める彼らの特性を理解し、対話を重ねることで組織の戦力として大きく伸ばせる。"
   }
 ]
