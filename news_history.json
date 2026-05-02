@@ -1,5 +1,25 @@
 [
   {
+    "title": "AndroidでClaude Code / Codex / Gemini CLIを動かすネイティブAIターミナルIDEを作った",
+    "link": "https://zenn.dev/ryoitabashi/articles/744397718965f6",
+    "source": "Zenn Trends",
+    "published": "Fri, 01 May 2026 14:57:21 GMT",
+    "summary": "前回、スマホだけで10万行規模のターミナルIDEを作った話を書いた。\n今回はその続きです。\n\n結論から言うと、Shellyは現在、Galaxy Z Fold6上で以下のAIコーディングCLIを実際に起動できるところまで来ました。\n\nClaude Code\nOpenAI Codex CLI\nGemini CLI\n\nしかもTermuxやprootの中ではなく、AndroidアプリであるShelly自身の中で動いています。\n現在の検証環境では、以下の状態です。\nclaude extracted         OK 2.1.126 (Claude Code)\ncodex runtime    ...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--iXD_PNz0--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Android%25E3%2581%25A7Claude%2520Code%2520%252F%2520Codex%2520%252F%2520Gemini%2520CLI%25E3%2582%2592%25E5%258B%2595%25E3%2581%258B%25E3%2581%2599%25E3%2583%258D%25E3%2582%25A4%25E3%2583%2586%25E3%2582%25A3%25E3%2583%2596AI%25E3%2582%25BF%25E3%2583%25BC%25E3%2583%259F%25E3%2583%258A%25E3%2583%25ABI...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:RYO%2520ITABASHI%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzY4MDViNWQxYTYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-05-02 20:59:59",
+    "ja_summary": "・Androidアプリ「Shelly」で、Claude CodeやGemini CLIなどのAIコーディングツールがネイティブ動作を実現。\n・外部環境（Termux等）を介さずアプリ内で直接実行可能であり、スマホでの開発環境が大幅に向上。\n・Galaxy Z Fold6等の実機で動作確認済み。"
+  },
+  {
+    "title": "Stripeが構想するAIエージェント決済インフラ - MPP、Tempo、Link Agent Wallets...etc",
+    "link": "https://zenn.dev/komlock_lab/articles/stripe-sessions-2026",
+    "source": "Zenn Trends",
+    "published": "Fri, 01 May 2026 13:50:29 GMT",
+    "summary": "こんにちは！ブロックチェーンエンジニアの山口夏生です。\nブロックチェーン×AI Agentで自律経済圏を創る開発組織Komlock labでCTOをしています。\nこの記事では、いま話題になっている Stripe Sessions 2026 の発表を、 AIエージェント決済インフラ という観点で4つの軸に分けて解説していきます。\n2026年4月29日に開催された Stripe Sessions 2026 で発表された新機能は288個。前年Sessions 2025の約100から3倍弱、参加者は9,000人以上、Q1 2027までの公開ロードマップは334項目です。\n発表の中には、自前のブロ...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--kXC49odf--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Stripe%25E3%2581%258C%25E6%25A7%258B%25E6%2583%25B3%25E3%2581%2599%25E3%2582%258BAI%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588%25E6%25B1%25BA%25E6%25B8%2588%25E3%2582%25A4%25E3%2583%25B3%25E3%2583%2595%25E3%2583%25A9%2520-%2520MPP%25E3%2580%2581Tempo%25E3%2580%2581Link%2520Agent%2520Wallets....%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Natsuki%2520Yamaguchi%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzM4OTQ5NWM0ZmEuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Komlock%2520lab%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzE1MDIwNzIxNzIuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-05-02 21:00:00",
+    "ja_summary": "Stripeが「Stripe Sessions 2026」にて、AIエージェントによる決済を支援する新インフラを強化。\n自律的な経済活動を支える決済ソリューションを含め、昨年の3倍となる288個の新機能を発表した。\nAIが自律的に決済を行う社会を見据え、関連するインフラ整備とロードマップを急速に拡充している。"
+  },
+  {
     "title": "商船三井と日立、中古船再利用の浮体式データセンター　開発期間3年短縮 (日経ESG)",
     "link": "https://business.nikkei.com/atcl/gen/19/00159/042700381/",
     "source": "日経ビジネス 最新",
@@ -978,25 +998,5 @@
     "image": "https://japan.zdnet.com/storage/2026/04/30/7d6787cbc0db2d844364965af393bf5d/t/184/138/d/large-gettyimages-2268540971.jpg",
     "fetched_at": "2026-05-01 07:43:58",
     "ja_summary": "ChatGPTの個人情報管理方法5選を紹介。\n自分のデータ利用をコントロールし、プライバシーを取り戻すための具体的な手段を解説。\n個人プラン利用者は必見。"
-  },
-  {
-    "title": "Canonical、「Ubuntu 26.04」から独自のAI戦略を展開へ",
-    "link": "https://japan.zdnet.com/article/35247010/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "最新のUbuntu Linux 26.04では、AIをどのように活用するかをユーザーが自ら決めることができる。その斬新な発想と戦略を解説する。\n<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35247010/\"><img src=\"https://japan.zdnet.com/storage/2026/04/29/dd142325bfe23e9856c235d64b458e3a/t/184/138/d/ubuntu_l.jpg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2026/04/29/dd142325bfe23e9856c235d64b458e3a/t/184/138/d/ubuntu_l.jpg",
-    "fetched_at": "2026-05-01 07:43:58",
-    "ja_summary": "・Ubuntu 26.04は、AIの活用範囲をユーザー自身が決定できる新たな戦略を採用。\n・AI機能の利用方法を個別に選択可能にし、柔軟性と透明性を両立。\n・ユーザー主導型のAI実装により、実用的なAI環境の提供を目指す。"
-  },
-  {
-    "title": "イーロン・マスク、Grokの強化にOpenAIのモデルを「蒸留」したことを認める",
-    "link": "https://www.techno-edge.net/article/2026/05/01/5036.html",
-    "source": "TechnoEdge",
-    "published": "Fri, 01 May 2026 07:00:03 +0900",
-    "summary": "イーロン・マスク氏は木曜日、xAIが独自のAIモデルを強化する過程で、部分的にOpenAIのモデルを利用したことを認めました。この強化プロセスは「Distilling」、日本語で「蒸留（知識抽出）」と呼ばれます。",
-    "image": "https://www.techno-edge.net/imgs/rss/31220.jpg",
-    "fetched_at": "2026-05-01 07:44:00",
-    "ja_summary": "・イーロン・マスク氏が、自社AI「Grok」の強化にOpenAIの技術を利用したと認めた。\n・学習データの一部として、OpenAIモデルの知識を抽出する「蒸留」という手法を用いた。\n・AI開発におけるモデル間の知見流用が改めて浮き彫りとなった。"
   }
 ]
