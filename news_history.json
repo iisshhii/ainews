@@ -1,5 +1,45 @@
 [
   {
+    "title": "アンソロピック、「Claude Security」開始　Opus 4.7が防御対策",
+    "link": "https://www.watch.impress.co.jp/docs/news/2105989.html",
+    "source": "Impress Watch",
+    "published": "",
+    "summary": "Anthropicは30日(米国時間)、Claude Enterpriseの利用者向けに「Claude Security」のパブリックベータ版を提供開始した。Claude Securityは、セキュリティチームがコードベースをスキャンして脆弱性を検出し、対策パッチを生成することに特化した機能で、Claude Opus 4.7を基盤としている。",
+    "image": "https://www.watch.impress.co.jp/img/ipw/list/2105/989/claude1.jpg",
+    "fetched_at": "2026-05-02 17:09:35",
+    "ja_summary": "・Anthropicが企業向け「Claude Security」のベータ版を提供開始。\n・最新モデル「Claude Opus 4.7」を活用し、コードの脆弱性検知と修正パッチ生成を自動化。\n・企業がセキュリティ対策を効率化し、システム開発の安全性を高めるための新機能。"
+  },
+  {
+    "title": "Anthropic and NEC collaborate to build Japan’s largest AI engineering workforce",
+    "link": "https://www.anthropic.com/news/anthropic-nec",
+    "source": "Anthropic (News)",
+    "published": "Fri, 24 Apr 2026 00:00:00 +0000",
+    "summary": "Anthropic and NEC collaborate to build Japan’s largest AI engineering workforce",
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20NodeGlobe&amp;backgroundColor=heather",
+    "fetched_at": "2026-05-02 17:09:55",
+    "ja_summary": "・Anthropic社とNECがAI分野で戦略的提携。\n・日本最大規模となるAIエンジニアの育成と体制構築に着手。\n・両社の技術を融合し、日本国内でのAI活用と社会実装を加速させる。"
+  },
+  {
+    "title": "Claude Codeのノウハウをサンプルコードで学ぶ ── ハーネス設計8パターン編",
+    "link": "https://qiita.com/nogataka/items/6d0eccd780b824cf080e",
+    "source": "Qiita (Popular)",
+    "published": "2026-04-21T14:42:39+09:00",
+    "summary": "\n## はじめに\n\n本記事は「Claude Codeのノウハウをサンプルコードで学ぶ」シリーズの**3本目（サンプルコード編の前半）**です。シリーズ全体は以下の4本構成になっています。\n\n1. [入門編](https://qiita.com/nogataka/items/59cc72e55e037d77225f) — Claude Codeの全体像とAIエージェントの仕組みを体感する\n2. [中",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYxNjEyOTglMkZjMWUzZmZkNmVhZGExOTY5ZmYzYzQ0YjE0ZmRlMDgxYmNkZTZmNTAwJTJGeF9sYXJnZS5wbmclM0YxNTg0ODQ1NTg0P2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz00ZGRjZmU5NTFjNTMyMzU3NjcyOGUzOTkyOTNmOGRlNQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D246367bff431168e6212d2602a3df494?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9Q2xhdWRlJTIwQ29kZSVFMyU4MSVBRSVFMyU4MyU4RSVFMyU4MiVBNiVFMyU4MyU4RiVFMyU4MiVBNiVFMyU4MiU5MiVFMyU4MiVCNSVFMyU4MyVCMyVFMyU4MyU5NyVFMyU4MyVBQiVFMyU4MiVCMyVFMyU4MyVCQyVFMyU4MyU4OSVFMyU4MSVBNyVFNSVBRCVBNiVFMyU4MSVCNiUyMCVFMiU5NCU4MCVFMiU5NCU4MCUyMCVFMyU4MyU4RiVFMyU4MyVCQyVFMyU4MyU4RCVFMyU4MiVCOSVFOCVBOCVBRCVFOCVBOCU4ODglRTMlODMlOTElRTMlODIlQkYlRTMlODMlQkMlRTMlODMlQjMlRTclQjclQTgmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz04YzNiOTMyZjEzNjZiYmYyYTM1OTAwZWMzNjczMDc2Nw&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBub2dhdGFrYSZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWE5ODA4YTE0Zjg4Y2I0ZjQ5OWU2ZDA3NGYyY2E2YTNh&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=f4296d164c9937810fa065bf36fb8fc2",
+    "fetched_at": "2026-05-02 17:10:01",
+    "ja_summary": "Claude Codeを活用したハーネス設計の最適化手法を、8つの実践的なサンプルコードを通じて解説する技術記事。\nAIエージェントの具体的な活用スキルを学べるシリーズ第3弾。\n現場での実装に即した構成で、設計パターンごとの効率的なコード記述ノウハウを習得できる。"
+  },
+  {
+    "title": "Claude Codeのノウハウをサンプルコードで学ぶ ── 中級編（エージェント設計の考え方）",
+    "link": "https://qiita.com/nogataka/items/dc115e441ad1552e35ce",
+    "source": "Qiita (Popular)",
+    "published": "2026-04-21T14:42:15+09:00",
+    "summary": "\n## はじめに\n\n本記事は「Claude Codeのノウハウをサンプルコードで学ぶ」シリーズの**中級編**です。シリーズ全体は以下の4本構成になっています。\n\n1. [入門編](https://qiita.com/nogataka/items/59cc72e55e037d77225f) — Claude Codeの全体像とAIエージェントの仕組みを体感する\n2. **中級編（本記事）** — ",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYxNjEyOTglMkZjMWUzZmZkNmVhZGExOTY5ZmYzYzQ0YjE0ZmRlMDgxYmNkZTZmNTAwJTJGeF9sYXJnZS5wbmclM0YxNTg0ODQ1NTg0P2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz00ZGRjZmU5NTFjNTMyMzU3NjcyOGUzOTkyOTNmOGRlNQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D246367bff431168e6212d2602a3df494?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9Q2xhdWRlJTIwQ29kZSVFMyU4MSVBRSVFMyU4MyU4RSVFMyU4MiVBNiVFMyU4MyU4RiVFMyU4MiVBNiVFMyU4MiU5MiVFMyU4MiVCNSVFMyU4MyVCMyVFMyU4MyU5NyVFMyU4MyVBQiVFMyU4MiVCMyVFMyU4MyVCQyVFMyU4MyU4OSVFMyU4MSVBNyVFNSVBRCVBNiVFMyU4MSVCNiUyMCVFMiU5NCU4MCVFMiU5NCU4MCUyMCVFNCVCOCVBRCVFNyVCNCU5QSVFNyVCNyVBOCVFRiVCQyU4OCVFMyU4MiVBOCVFMyU4MyVCQyVFMyU4MiVCOCVFMyU4MiVBNyVFMyU4MyVCMyVFMyU4MyU4OCVFOCVBOCVBRCVFOCVBOCU4OCVFMyU4MSVBRSVFOCU4MCU4MyVFMyU4MSU4OCVFNiU5NiVCOSVFRiVCQyU4OSZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPWIyMTZhNTlhMDkyZDZjZDY0Mjc1OGNlMmUyMmQyMGI2&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBub2dhdGFrYSZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWE5ODA4YTE0Zjg4Y2I0ZjQ5OWU2ZDA3NGYyY2E2YTNh&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=a26b35e53a465a55263935cba0da41b6",
+    "fetched_at": "2026-05-02 17:10:02",
+    "ja_summary": "Claude Codeを活用したAIエージェント開発の中級編。\n実践的なサンプルコードを通じ、エージェント設計の具体的な考え方を学ぶ。\nAIの自律的なタスク遂行能力を高めるための技術やノウハウを体系的に習得できる。"
+  },
+  {
     "title": "AIに｢チャッピー｣と愛称をつける子ども達《小学生の8割がすでに使っている》親が気づかぬ間に進む｢AI無免許運転｣の実態 | キャリア・教育 | 東洋経済オンライン",
     "link": "https://toyokeizai.net/articles/-/941971?utm_source=rss&utm_medium=http&utm_campaign=link_back",
     "source": "東洋経済オンライン",
@@ -958,45 +998,5 @@
     "image": "https://tk.ismcdn.jp/mwimgs/7/9/1200w/img_797bb02500acd32680bc65748a81802a123218.jpg?nextgen=false",
     "fetched_at": "2026-05-01 06:50:30",
     "ja_summary": "・Z世代は「タイパ重視」と決めつけられがちだが、実際は明確な指示と対話があれば高い成長意欲を発揮する。\n・AIやSNSを駆使する一方で、曖昧な指示には不安を感じる傾向がある。\n・効率化を求める彼らの特性を理解し、対話を重ねることで組織の戦力として大きく伸ばせる。"
-  },
-  {
-    "title": "AI分野への転職をどうやって実現したのか…マイクロソフトやHubSpotなどで働く4人のリアルな体験談",
-    "link": "https://www.businessinsider.jp/article/2604-4-workers-explain-how-they-added-ai-job-title/",
-    "source": "Business Insider Japan",
-    "published": "Thu, 30 Apr 2026 21:35:00 GMT",
-    "summary": "技術系以外の分野からマイクロソフトのAI関連の職務に転身した2人は、人文科学のバックグラウンドが役立ったと語っています。",
-    "image": "https://media.loom-app.com/loom/2026/04/26/cae93f93-76ae-4238-8684-c74dc7d7e29b/original.jpg?w=1200&amp;h=630",
-    "fetched_at": "2026-05-01 06:50:56",
-    "ja_summary": "・非技術職からAI分野への転身者4人の体験談を紹介。\n・人文科学の知見がAI関連の職務で強みとして活きる。\n・未経験からでも戦略的なキャリアシフトが可能であることを実証。"
-  },
-  {
-    "title": "政府のAIエージェントの導入が民間部門を上回る可能性--米調査",
-    "link": "https://japan.zdnet.com/article/35246895/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "新たな調査によると、政府指導者の大半は労働力への影響という点で、AIがインターネット、PC、さらにはスマートフォンを上回ると予想している。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35246895/\"><img src=\"https://japan.zdnet.com/storage/2026/04/25/b32b8807629bf00cdd885313d010f97c/t/184/138/d/gettyimages-2217792229_l.jpg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2026/04/25/b32b8807629bf00cdd885313d010f97c/t/184/138/d/gettyimages-2217792229_l.jpg",
-    "fetched_at": "2026-05-01 06:51:08",
-    "ja_summary": "・米政府の指導者は、AIエージェントが過去のどの技術革新よりも労働力に大きな変革をもたらすと予測している。\n・政府機関への導入スピードが民間部門を上回る可能性が指摘された。"
-  },
-  {
-    "title": "商船三井と日立、中古船再利用の浮体式データセンター　開発期間3年短縮 (日経ESG)",
-    "link": "https://business.nikkei.com/atcl/gen/19/00159/042700381/",
-    "source": "日経ビジネス 最新",
-    "published": "",
-    "summary": "商船三井は海運事業で蓄積した資本を活用し、米国のデータセンター市場に参入する。開発期間を大幅に短縮し、CO2排出量も抑えることで、旺盛なAI需要を取り込む。",
-    "image": "https://business.nikkei.com/atcl/gen/19/00159/042700381/fb.jpg",
-    "fetched_at": "2026-05-01 05:52:05",
-    "ja_summary": "・商船三井と日立が中古船を再利用した浮体式データセンターを開発。\n・既存船の活用で開発期間を3年短縮し、急速なAI需要増に対応。\n・建設時のCO2排出量を抑制し、環境負荷の低減と早期参入を両立。"
-  },
-  {
-    "title": "米Duolingo、AIで英語学習アプリ効率開発　活用の肝は企業ミッションの共有 (PLUSな視点)",
-    "link": "https://business.nikkei.com/atcl/plus/00037/042400047/",
-    "source": "日経ビジネス 最新",
-    "published": "",
-    "summary": "「Duolingo」は世界で最も利用される学習アプリの一つだ。ChatGPTが登場する前からAI活用を推し進めており、AIを単なる効率化の道具ではなく、「人間が意思決定するためのツール」と位置づけている。日本市場責任者の水谷翔氏に、日本企業が学ぶべきAI活用法と組織のあり方について話を聞いた。",
-    "image": "https://business.nikkei.com/atcl/plus/00037/042400047/fb.jpg",
-    "fetched_at": "2026-05-01 05:52:06",
-    "ja_summary": "・DuolingoはAIを効率化の道具ではなく、人間の意思決定を支えるパートナーと定義している。\n・ChatGPT以前からAI活用を推進しており、企業ミッションを共有することで開発の指針を明確化。\n・AI導入には単なる技術活用にとどまらず、組織のあり方やビジョンの共有が不可欠である。"
   }
 ]
