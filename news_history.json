@@ -1,5 +1,35 @@
 [
   {
+    "title": "複数のAIエージェントを連係　情報収集や原因特定が楽に",
+    "link": "https://xtech.nikkei.com/atcl/nxt/mag/nnw/18/041600243/041600003/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "Part3ではトラブル発生時の情報収集や、原因として疑わしい箇所の絞り込みなどにLLMやAIエージェントを使う事例を見ていく。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/mag/nnw/18/041600243/041600003/topm.jpg?20220512",
+    "fetched_at": "2026-05-03 08:07:45",
+    "ja_summary": "・複数のAIエージェントを連携させ、トラブル時の情報収集や原因分析を効率化する手法を紹介。\n・LLMを活用し、膨大なデータから障害箇所を迅速に絞り込む具体的な事例を解説。"
+  },
+  {
+    "title": "HDRディスプレイグラス「RayNeo Air 4 Pro」レビュー：XREALやVITUREと比べて見えた差",
+    "link": "https://japan.cnet.com/article/35247119/",
+    "source": "CNET Japan",
+    "published": "",
+    "summary": "TCLの最新ディスプレイグラス「RayNeo Air 4 Pro」のレビューをお届けする。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35247119/\"><img src=\"https://japan.cnet.com/storage/2026/05/01/969f1945466023d5e1effdd02df1030b/t/184/138/d/rayneo-air-4-pro-1_1280x960.jpg\" /></a>",
+    "image": "https://japan.cnet.com/storage/2026/05/01/969f1945466023d5e1effdd02df1030b/t/184/138/d/rayneo-air-4-pro-1_1280x960.jpg",
+    "fetched_at": "2026-05-03 08:07:53",
+    "ja_summary": "TCLの新型ディスプレイグラス「RayNeo Air 4 Pro」のレビュー記事。\n競合のXREALやVITUREと比較し、製品の特徴や性能差を詳細に検証。\n高画質なHDR体験を求めるユーザーに向けた、導入検討に役立つ評価内容。"
+  },
+  {
+    "title": "GPT-5.5 にも『指示の型』を ─ 3 モード Agent Skill とコスト最適化ルーティング",
+    "link": "https://zenn.dev/shinyay/articles/gpt-5-5-prompt-optimization-copilot-skill",
+    "source": "Zenn Trends",
+    "published": "Sat, 02 May 2026 06:36:30 GMT",
+    "summary": "はじめに\n少し前に、GitHub Copilot から Claude Opus 4.7 を使うときに「モデルが変われば指示も変わる」というテーマで記事を書きました (モデルが変われば指示も変わる ─ Opus 4.7 向け Agent Skill を作った)。そこで作った claude-prompt-optimizer は、4.7 の特性を踏まえた「5 スロットブリーフ」を Agent Skill として再利用できるようにしたものでした。\n今度は同じ問題を、OpenAI GPT-5.5 で考えます。\nGPT-5.5 にも公式の GPT-5.5 prompting guide がありま...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--XBMcvAOe--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:GPT-5.5%2520%25E3%2581%25AB%25E3%2582%2582%25E3%2580%258E%25E6%258C%2587%25E7%25A4%25BA%25E3%2581%25AE%25E5%259E%258B%25E3%2580%258F%25E3%2582%2592%2520%25E2%2594%2580%25203%2520%25E3%2583%25A2%25E3%2583%25BC%25E3%2583%2589%2520Agent%2520Skill%2520%25E3%2581%25A8%25E3%2582%25B3%25E3%2582%25B9%25E3%2583%2588%25E6%259C%2580%25E9%2581%25A9%25E5%258C%2596%25E3%2583%25AB%25E3%2583%25BC%25E3%2583%2586%25E3%2582%25A3%25E3%2583%25B3%25E3%2582%25B0%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:shinyay%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzI3YzVmM2E1OTYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-05-03 08:08:22",
+    "ja_summary": "・モデルごとに最適な指示の書き方が異なるため、OpenAI GPT-5.5の特性に合わせた専用の「指示の型（プロンプト）」を設計。\n・「3モードAgent Skill」を活用し、目的に応じて処理を切り替えることで効率化を実現。\n・コスト最適化ルーティングを導入し、GPT-5.5の性能を最大限引き出しつつ運用コストを抑制する手法を提案。"
+  },
+  {
     "title": "脆弱性情報や設定項目を手軽に取得　的確な回答は適切な事前準備から",
     "link": "https://xtech.nikkei.com/atcl/nxt/mag/nnw/18/041600243/041600002/",
     "source": "日経クロステック 総合",
@@ -968,35 +998,5 @@
     "image": "https://res.cloudinary.com/zenn/image/upload/s--r0mlXcQ2--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588%25E3%2582%25B3%25E3%2582%25B9%25E3%2583%2588%25E5%25AF%25BE%25E7%25AD%2596%25E3%2581%25A8%25E3%2581%2597%25E3%2581%25A6%25E3%2583%25AD%25E3%2583%25BC%25E3%2582%25AB%25E3%2583%25ABLLM%25E3%2581%25AF%25E3%2582%25A2%25E3%2583%25AA%25EF%25BC%259F%25E2%2580%2594%2520Ollama%25E3%2581%25A7%25E8%25A9%25A6%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Renly%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzZjNGExY2UxMDYuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2583%2598%25E3%2583%2583%25E3%2583%2589%25E3%2582%25A6%25E3%2582%25A9%25E3%2583%25BC%25E3%2582%25BF%25E3%2583%25BC%25E3%2582%25B9%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2QwOTUyODRjOTMuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
     "fetched_at": "2026-05-01 08:37:25",
     "ja_summary": "・GitHub Copilotが2026年6月から従量課金制へ移行し、AI利用コストの増大が懸念されている。\n・コスト対策として、自前で環境構築が可能な「ローカルLLM（Ollama等）」の活用が有効な選択肢となる。\n・クラウド依存を減らし、AIを自社環境で運用することで、将来的なコスト高騰のリスクを回避できる。"
-  },
-  {
-    "title": "Claude Code に仕事を譲った日——残ったのは「判断」と「責任」だった",
-    "link": "https://zenn.dev/tokium_dev/articles/ca6f30192f6379",
-    "source": "Zenn Trends",
-    "published": "Tue, 28 Apr 2026 04:37:45 GMT",
-    "summary": "はじめに\n私はもともとIS（インサイドセールス）、いわゆる営業サイドの人間だった。\nコードは書けない。SQLも知らない。ターミナルを開いたこともなかった。そんな自分が、ある日開発部のCRE（Customer Reliability Engineering）チームに異動した。\nCREの仕事は、お客様からの技術的な問い合わせを調査して回答すること。「承認フローが変わってしまった」「エクスポートが終わらない」「メールが届かない」——毎日そういった問い合わせがJiraに積まれていく。\n調査には、本番DBへのクエリ実行、Rails/Reactのコードリーディング、ログの解析が必要になる。正直に...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--l8sXEJ5n--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%2520%25E3%2581%25AB%25E4%25BB%2595%25E4%25BA%258B%25E3%2582%2592%25E8%25AD%25B2%25E3%2581%25A3%25E3%2581%259F%25E6%2597%25A5%25E2%2580%2594%25E2%2580%2594%25E6%25AE%258B%25E3%2581%25A3%25E3%2581%259F%25E3%2581%25AE%25E3%2581%25AF%25E3%2580%258C%25E5%2588%25A4%25E6%2596%25AD%25E3%2580%258D%25E3%2581%25A8%25E3%2580%258C%25E8%25B2%25AC%25E4%25BB%25BB%25E3%2580%258D%25E3%2581%25A0%25E3%2581%25A3%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Kokoichi%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzViNTEwYjI5ZjEuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:TOKIUM%25E3%2583%2597%25E3%2583%25AD%25E3%2583%2580%25E3%2582%25AF%25E3%2583%2588%25E3%2583%2581%25E3%2583%25BC%25E3%2583%25A0%2520%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzVkNjg4YzM2Y2MuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-    "fetched_at": "2026-05-01 08:37:25",
-    "ja_summary": "要約の生成に失敗しました。"
-  },
-  {
-    "title": "民泊「Airbnb」を人気サービスに仕上げた「コンセプト」の魔力　導き出される「売れるモノ」の共通点とは",
-    "link": "https://www.itmedia.co.jp/business/articles/2605/01/news001.html",
-    "source": "ITmedia ビジネス",
-    "published": "Fri, 01 May 2026 07:00:00 +0900",
-    "summary": "わずか数名の宿泊者から始まった民泊プラットフォーム「Airbnb」が成功を収めた。その背景には「コンセプト」の力があるという。優れたコンセプトの在り方を解説する。",
-    "image": "https://image.itmedia.co.jp/business/articles/2605/01/cover_news001.jpg",
-    "fetched_at": "2026-05-01 07:43:26",
-    "ja_summary": "・Airbnbの成功は、明確で人を惹きつける「コンセプト」の設計にあった。\n・優れたコンセプトには、売れるサービスを生むための共通法則が存在する。\n・本質を突いたコンセプト構築が、事業成長の鍵を握る。"
-  },
-  {
-    "title": "入出力値を確かめて安全性を高める　データの整備とメンテも必要",
-    "link": "https://xtech.nikkei.com/atcl/nxt/mag/nnw/18/041600243/041600004/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "Part4ではネットワーク運用にAIチャットやAIエージェントを活用する際の注意点を解説する。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/mag/nnw/18/041600243/041600004/topm.jpg?20220512",
-    "fetched_at": "2026-05-01 07:43:39",
-    "ja_summary": "・AIチャット等の運用には、入出力値の検証による安全性確保が不可欠。\n・適切なデータの整備と継続的なメンテナンスが運用成功の鍵となる。"
   }
 ]
