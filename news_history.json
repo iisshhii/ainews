@@ -1,5 +1,55 @@
 [
   {
+    "title": "ChatGPTに「高度なアカウントセキュリティ」　パスキーなどで乗っ取り対策強化",
+    "link": "https://www.watch.impress.co.jp/docs/news/2106090.html",
+    "source": "Impress Watch",
+    "published": "",
+    "summary": "OpenAIは30日(米国時間)、ChatGPTアカウント向けの新設定「高度なアカウント セキュリティ」を提供開始した。Web版ChatGPTのセキュリティ設定から登録でき、同じログインで利用するCodexにも保護が適用される。",
+    "image": "https://www.watch.impress.co.jp/img/ipw/list/2106/090/1.jpg",
+    "fetched_at": "2026-05-04 07:42:35",
+    "ja_summary": "・OpenAIがChatGPTに「高度なアカウントセキュリティ」機能を追加。\n・パスキーなどの導入により、アカウント乗っ取り対策が強化された。\n・Web版のセキュリティ設定から設定可能で、関連サービスにも保護が適用される。"
+  },
+  {
+    "title": "ChatGPTはなぜ「ゴブリン」に執着したのか　OpenAIが明かした不具合の正体",
+    "link": "https://japan.cnet.com/article/35247093/",
+    "source": "CNET Japan",
+    "published": "",
+    "summary": "「ChatGPT」は、妙なほどゴブリンに執着していた。開発元のOpenAIが原因を調べて修正に乗り出すほどだった。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35247093/\"><img src=\"https://japan.cnet.com/storage/2026/05/01/31a1ed808af9dbaacf929c7b3d472794/t/184/138/d/gptgpt-6_1280x960.jpg\" /></a>",
+    "image": "https://japan.cnet.com/storage/2026/05/01/31a1ed808af9dbaacf929c7b3d472794/t/184/138/d/gptgpt-6_1280x960.jpg",
+    "fetched_at": "2026-05-04 07:42:38",
+    "ja_summary": "・ChatGPTが特定の単語や話題（ゴブリン）に異常な執着を見せる不具合が発生。\n・OpenAIが原因を特定し、修正対応を実施。\n・現在は不具合が解消され、正常な動作に戻っている。"
+  },
+  {
+    "title": "アップル、「iOS 27」でiPhoneカメラのAI機能を大幅刷新か",
+    "link": "https://japan.cnet.com/article/35247037/",
+    "source": "CNET Japan",
+    "published": "",
+    "summary": "アップルは、次期「iOS 27」アップデートで「iPhone」向けカメラ機能を大幅に刷新する計画だと報じられている。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35247037/\"><img src=\"https://japan.cnet.com/storage/2026/04/30/d6fd40bfa00ff3d4df494dd66687898d/t/184/138/d/vi-screenshots_1280x960.jpg\" /></a>",
+    "image": "https://japan.cnet.com/storage/2026/04/30/d6fd40bfa00ff3d4df494dd66687898d/t/184/138/d/vi-screenshots_1280x960.jpg",
+    "fetched_at": "2026-05-04 07:42:38",
+    "ja_summary": "・アップルが次期「iOS 27」でiPhoneのカメラ機能を大幅刷新へ。\n・AI技術の導入により、撮影体験の強化が図られる見通し。"
+  },
+  {
+    "title": "漫画のネームを 3 大 AI に競作させたい — コーディング CLI を並列で走らせる nemu-kaigi の実装事例",
+    "link": "https://zenn.dev/yatmita/articles/nemu-kaigi-llm-content-voting",
+    "source": "Zenn Trends",
+    "published": "Sat, 02 May 2026 21:54:53 GMT",
+    "summary": "はじめに — コーディング CLI で漫画を書いている話\nコーディング向けの CLI (Command Line Interface — ターミナルから実行する開発者向けの対話ツール) で、漫画のネーム (コマ割り・セリフ・演出指示) を書かせている、と言うと結構驚かれる。設計の基本は、いま「3 大 AI ベンダー」と呼ばれる Anthropic / OpenAI / Google が公式提供しているコーディング CLI を 並列に走らせて、同じシナリオから別々のネーム案を出させる ことだ。具体的には:\n\n\nClaude Code (Anthropic) — LLM (Claude)...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--ir4rTURg--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E6%25BC%25AB%25E7%2594%25BB%25E3%2581%25AE%25E3%2583%258D%25E3%2583%25BC%25E3%2583%25A0%25E3%2582%2592%25203%2520%25E5%25A4%25A7%2520AI%2520%25E3%2581%25AB%25E7%25AB%25B6%25E4%25BD%259C%25E3%2581%2595%25E3%2581%259B%25E3%2581%259F%25E3%2581%2584%2520%25E2%2580%2594%2520%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2587%25E3%2582%25A3%25E3%2583%25B3%25E3%2582%25B0%2520CLI%2520%25E3%2582%2592%25E4%25B8%25A6%25E5%2588%2597%25E3%2581%25A7%25E8%25B5%25B0%25E3%2582%2589%25E3%2581%259B%25E3%2582%258B%2520nemu-kaigi%2520%25E3%2581%25AE...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:yatmita%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSklmUHlyMko0aDBSSHBXV1p6M1BRa0ZzdlJRREFZOWtTNmpZTUxxaHJURmhhUk1Xdz1zMjUwLWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-05-04 07:43:06",
+    "ja_summary": "・開発者向けCLIを活用し、主要3社（Anthropic/OpenAI/Google）のAIに同じシナリオから漫画のネームを並列生成させる手法を構築。\n・AIごとの異なる提案を比較・活用することで、漫画制作の効率化と演出の幅を広げている。"
+  },
+  {
+    "title": "デジタル庁の生成AI基盤「源内」のOSSをAWS上で動かしてみた話",
+    "link": "https://zenn.dev/hosoyayusaku/articles/25ec9a4a6fa1c9",
+    "source": "Zenn Trends",
+    "published": "Sat, 02 May 2026 14:25:44 GMT",
+    "summary": "🎯 この記事の対象読者\n\n自治体や行政機関のデジタル部門で、源内に関心を持っている職員の方\n事業者さんから提案を受ける前に、まず仕組みを自分の目で確認しておきたい方\nAWSや生成AI基盤の構築に関わるエンジニアの方\n行政DXの現場で「実際に動くもの」を起点に議論を進めたい方\n\n\n 💡 この記事を読むと得られること\n\n源内Web(インターフェース部分)を自分のAWS環境にデプロイする際の手順、所要時間\n半日の検証で発生した費用の目安\n動かしてみて見えた、内部構造の解説\n自治体で導入を検討する際に、技術担当として確認しておくと有益そうな観点\n\n\n 🚀 はじめに：なぜこの記事を書いたか\n2...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--y8qomhI7--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2587%25E3%2582%25B8%25E3%2582%25BF%25E3%2583%25AB%25E5%25BA%2581%25E3%2581%25AE%25E7%2594%259F%25E6%2588%2590AI%25E5%259F%25BA%25E7%259B%25A4%25E3%2580%258C%25E6%25BA%2590%25E5%2586%2585%25E3%2580%258D%25E3%2581%25AEOSS%25E3%2582%2592AWS%25E4%25B8%258A%25E3%2581%25A7%25E5%258B%2595%25E3%2581%258B%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Hosoya%2520Yusaku%2520%252F%2520Ci...%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2MzMGI2ZmU4ZmIuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-05-04 07:43:07",
+    "ja_summary": "・デジタル庁の生成AI基盤「源内」のWebUIをAWSへ構築する手順と検証結果を解説。\n・半日の検証による費用感や内部構造の知見を共有し、導入検討の判断材料を提供。\n・行政DXの現場担当者が技術的な実態を把握し、議論を円滑に進めるための実践ガイド。"
+  },
+  {
     "title": "WordやExcelだけじゃない！　「プロンプト不要」で使えるMicrosoft 365 CopilotのニッチなAI機能",
     "link": "https://www.itmedia.co.jp/business/articles/2605/04/news006.html",
     "source": "ITmedia ビジネス",
@@ -948,55 +998,5 @@
     "image": "https://images.ctfassets.net/kftzwdyauwt9/4VaLYtAwgfUg82VF32O2gz/29e25c539c638b135a2d5d080f92c76f/Goblins-SEO__1_.jpg?w=1600&amp;h=900&amp;fit=fill",
     "fetched_at": "2026-05-01 16:36:42",
     "ja_summary": "・GPT-5で発生する「ゴブリン（異常な出力）」現象の原因と発生過程を解明。\n・個性の強いAIモデルで生じる quirks（挙動の癖）の発生メカニズムを特定。\n・現在、この問題を抑制するための修正と対策が進められている。"
-  },
-  {
-    "title": "OpenAI models, Codex, and Managed Agents come to AWS",
-    "link": "https://openai.com/index/openai-on-aws",
-    "source": "OpenAI",
-    "published": "Tue, 28 Apr 2026 00:00:00 GMT",
-    "summary": "OpenAI GPT models, Codex, and Managed Agents are now available on AWS, enabling enterprises to build secure AI in their AWS environments.",
-    "image": "https://images.ctfassets.net/kftzwdyauwt9/6Qdod1sP2lAXzlwaRnglBQ/95090ca1ad0eeca76034c16cb451106d/oai-aws-16x9.png?w=1600&amp;h=900&amp;fit=fill",
-    "fetched_at": "2026-05-01 16:36:44",
-    "ja_summary": "AWSでOpenAIのGPTモデル、Codex、Managed Agentsが利用可能に。\n企業はAWS環境内で安全なAI開発が実現。\nこれにより、AI活用がさらに加速。"
-  },
-  {
-    "title": "Anthropic and Amazon expand collaboration for up to 5 gigawatts of new compute",
-    "link": "https://www.anthropic.com/news/anthropic-amazon-compute",
-    "source": "Anthropic (News)",
-    "published": "Mon, 20 Apr 2026 00:00:00 +0000",
-    "summary": "Anthropic and Amazon expand collaboration for up to 5 gigawatts of new compute",
-    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20Stairs&amp;backgroundColor=cactus",
-    "fetched_at": "2026-05-01 16:36:48",
-    "ja_summary": "AI開発企業AnthropicがAmazonと提携し、AI開発に不可欠なコンピューティング能力を大幅に増強。\nAmazon Web Services (AWS) のインフラを活用し、最大5ギガワット規模の計算能力を確保。\nこれにより、AnthropicはAIモデルの開発と運用を加速させる。"
-  },
-  {
-    "title": "自作MCPサーバーのトークン消費を9割削減するTips ── MCPの退避パターン",
-    "link": "https://zenn.dev/aircloset/articles/4c5f49f89db19f",
-    "source": "Zenn Trends",
-    "published": "Fri, 01 May 2026 01:10:07 GMT",
-    "summary": "みなさまこんにちは！エアークローゼットでCTOをしている辻です。\nこれまで 社内MCP群の全体像、DB Graph MCP、Biz Graph、Sandbox MCP と、社内向けに作っているMCPサーバーを順に紹介してきました。\n今回はその運用の中で見えてきた、自作MCPサーバーのトークン消費を減らすTips の話を書きます。\n\n 困りごと：MCPは意外とトークンを食う\nMCPでAIエージェントを拡張するとき、最初に遭遇するのが トークン消費が想定より多い という現実です。\nMCPのツール呼び出しは、結局のところ JSON-RPC over HTTP です。AIが送る引数も、ツールが返...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--QXN22zXz--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E8%2587%25AA%25E4%25BD%259CMCP%25E3%2582%25B5%25E3%2583%25BC%25E3%2583%2590%25E3%2583%25BC%25E3%2581%25AE%25E3%2583%2588%25E3%2583%25BC%25E3%2582%25AF%25E3%2583%25B3%25E6%25B6%2588%25E8%25B2%25BB%25E3%2582%25929%25E5%2589%25B2%25E5%2589%258A%25E6%25B8%259B%25E3%2581%2599%25E3%2582%258BTips%2520%25E2%2594%2580%25E2%2594%2580%2520MCP%25E3%2581%25AE%25E9%2580%2580%25E9%2581%25BF%25E3%2583%2591%25E3%2582%25BF%25E3%2583%25BC%25E3%2583%25B3%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E8%25BE%25BB%2520%25E4%25BA%25AE%25E4%25BD%2591%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzkxZjY1NmYzNDQuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2582%25A8%25E3%2582%25A2%25E3%2583%25BC%25E3%2582%25AF%25E3%2583%25AD%25E3%2583%25BC%25E3%2582%25BC%25E3%2583%2583%25E3%2583%2588%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2EyNzdkMDFjYWQuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-    "fetched_at": "2026-05-01 16:36:49",
-    "ja_summary": "自作MCPサーバーのトークン消費を9割削減するTips\nAIエージェント開発でトークン消費が多いという課題に対し、MCPの退避パターンという運用上の工夫で大幅な削減を実現する。"
-  },
-  {
-    "title": "セキュリティ診断、AIに全部やらせたら月$0.5で回せるようになった話💰",
-    "link": "https://zenn.dev/sabakan1/articles/bd286802d6a91d",
-    "source": "Zenn Trends",
-    "published": "Thu, 30 Apr 2026 10:44:41 GMT",
-    "summary": "はじめに\nこんにちは、Sabakanです。\n今回、Claude Code 用のセキュリティ診断スキル claude-security-scan を作って公開しました。\n正直、自分でもびっくりするくらい実用的なものができたので、紹介させてください。\n\nリポジトリはこちら → https://github.com/sabakan0123/claude-security-scan\n\n\n\n こんな気持ち、ありませんか？\n\n「セキュリティ診断、ちゃんとやりたいけど Burp Suite の使い方よくわからん」\n「pentest 業者に頼む予算ない」\n「OWASP Top 10 は知ってる。でも...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--2-Y5C6fF--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25BB%25E3%2582%25AD%25E3%2583%25A5%25E3%2583%25AA%25E3%2583%2586%25E3%2582%25A3%25E8%25A8%25BA%25E6%2596%25AD%25E3%2580%2581AI%25E3%2581%25AB%25E5%2585%25A8%25E9%2583%25A8%25E3%2582%2584%25E3%2582%2589%25E3%2581%259B%25E3%2581%259F%25E3%2582%2589%25E6%259C%2588%25240.5%25E3%2581%25A7%25E5%259B%259E%25E3%2581%259B%25E3%2582%258B%25E3%2582%2588%25E3%2581%2586%25E3%2581%25AB%25E3%2581%25AA%25E3%2581%25A3%25E3%2581%259F%25E8%25A9%25B1%2520%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Sabakan%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2E2NWY0YjNjODEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-    "fetched_at": "2026-05-01 16:36:50",
-    "ja_summary": "・Claude Codeを活用した自動セキュリティ診断ツール「claude-security-scan」を開発・公開。\n・専門知識や高額な外部委託が不要となり、月額0.5ドルという低コストでの運用を実現。\n・OWASP Top 10などの基準に基づいた診断を手軽かつ実用的に実行可能。"
-  },
-  {
-    "title": "「AI研修を1コマ追加」では変わらない　新入社員を戦力にする教育設計",
-    "link": "https://www.itmedia.co.jp/business/articles/2604/30/news065.html",
-    "source": "ITmedia ビジネス",
-    "published": "Thu, 30 Apr 2026 09:00:00 +0900",
-    "summary": "新入社員研修に生成AIの講座を組み込む企業が増えている。しかし、その取り組みは現場の戦力化につながっているだろうか。ツールの使い方を教えるだけの教育は、十分とは言えない。企業は何を教え、どう人材を育てるべきか。先行企業の取り組みから、新人教育を再設計するポイントを探る。",
-    "image": "https://image.itmedia.co.jp/business/articles/2604/30/cover_news065.jpg",
-    "fetched_at": "2026-05-01 14:04:29",
-    "ja_summary": "・生成AI研修を単なるツール操作の習得で終わらせず、現場の戦力化に直結させる教育設計が必要。\n・表面的な研修ではなく、AIを活用して実務上の課題を解決する実践的な教育への転換が求められている。\n・先行企業の事例を参考に、AI時代を見据えた新人教育の仕組みそのものを再構築すべきである。"
   }
 ]
