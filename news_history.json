@@ -1,5 +1,35 @@
 [
   {
+    "title": "Codex のiOSアプリ開発のためのプロンプトまとめ",
+    "link": "https://note.com/npaka/n/n51962b239b68",
+    "source": "note (npaka)",
+    "published": "Fri, 01 May 2026 09:14:37 +0900",
+    "summary": "<p id=\"9293b8c2-4962-4e43-83b8-fcd4ff3d55f1\" name=\"9293b8c2-4962-4e43-83b8-fcd4ff3d55f1\">以下の記事が面白かったので、簡単にまとめました。</p><figure id=\"a61b6dff-42f8-4056-8c41-6d3b4b3af572\" name=\"a61b6dff-42f8-4056-8c41-6d3b4b3af572\"><blockquote><p id=\"530aacec-5caa-4fb9-8d2a-6a394c10b383\" name=\"530aacec-5caa-4fb9-8d2a-6a394c10b383\"><strong>・</strong><a href=\"https://developers.openai.com/codex/use-cases/collections/native-development\" rel=\"nofollow noopener\" target=\"_blank\"><strong>Native development – Codex | OpenAI Developers</strong></a></p></blockquote>\n<figcaption></figcaption></figure><br /><a href=\"https://note.com/npaka/n/n51962b239b68\">続きをみる</a>",
+    "image": "https://assets.st-note.com/production/uploads/images/271938172/rectangle_large_type_2_ac184be5736fee7dea45227c11ddb964.png?width=800",
+    "fetched_at": "2026-05-03 18:44:55",
+    "ja_summary": "OpenAIの「Codex」を活用し、iOSアプリを効率的に開発するためのプロンプト集が公開されました。\n主要なコード生成の手法やユースケースがまとめられており、開発の自動化や効率化に役立ちます。\n詳細はOpenAI公式サイトのナレッジベースおよび解説記事で確認可能です。"
+  },
+  {
+    "title": "ニュータニックスCEOが語る「AIファクトリーへの貢献」の中身とは",
+    "link": "https://japan.zdnet.com/article/35247083/",
+    "source": "ZDNET Japan",
+    "published": "",
+    "summary": "今回は、Nutanix プレジデント 兼 CEOのRajiv Ramaswami氏と、富士通 富士通研究所 フィジカルAI研究所 所長の鈴木源太氏の「明言」を紹介する。\n<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35247083/\"><img src=\"https://japan.zdnet.com/storage/2026/05/01/d18da2432602f744cabba3a21a3854d6/t/184/138/d/sp_13matsuokaopinion_260501_l.jpg\" /></a>",
+    "image": "https://japan.zdnet.com/storage/2026/05/01/d18da2432602f744cabba3a21a3854d6/t/184/138/d/sp_13matsuokaopinion_260501_l.jpg",
+    "fetched_at": "2026-05-03 18:44:59",
+    "ja_summary": "Nutanix CEOと富士通の研究者が、AIを効率的に構築・運用する「AIファクトリー」の重要性について語った。\nハイブリッドクラウド技術を活用し、企業がAIの実装やデータ活用を加速させるための戦略が示されている。\nITインフラの最適化を通じ、次世代のAI活用基盤をどう構築すべきかが鍵となっている。"
+  },
+  {
+    "title": "Anthropic、「Claude Security」を発表--脆弱性スキャンからパッチ生成までを自動化",
+    "link": "https://japan.zdnet.com/article/35247092/",
+    "source": "ZDNET Japan",
+    "published": "",
+    "summary": "Anthropicは新たな防御型サイバーセキュリティ製品「Claude Security」を発表した。「Claude Opus 4.7」モデルを使い「コードベースをスキャンして脆弱性を検出し、ターゲットを絞ったパッチを生成する」ことができるという。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35247092/\"><img src=\"https://japan.zdnet.com/storage/2026/05/01/044e4aa369b4f6c1de1be6d3cde0556d/t/184/138/d/claude-security-2_1280.jpg\" /></a>",
+    "image": "https://japan.zdnet.com/storage/2026/05/01/044e4aa369b4f6c1de1be6d3cde0556d/t/184/138/d/claude-security-2_1280.jpg",
+    "fetched_at": "2026-05-03 18:44:59",
+    "ja_summary": "・AnthropicがAIを活用したセキュリティ製品「Claude Security」を発表。\n・「Claude Opus 4.7」がコードの脆弱性を自動スキャンし、修正パッチを生成。\n・セキュリティ運用を自動化し、脆弱性対策の効率と精度を向上させる。"
+  },
+  {
     "title": "小学校教育へのAI導入は問題だらけ､早期のAI教育によって恩恵を受けるのは生徒ではなくテクノロジー企業だ | 政治・経済・投資 | 東洋経済オンライン",
     "link": "https://toyokeizai.net/articles/-/943422?utm_source=rss&utm_medium=http&utm_campaign=link_back",
     "source": "東洋経済オンライン",
@@ -968,35 +998,5 @@
     "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY1MTYzMjQlMkZiNTljNzM3N2QwNzAzMGEzMGRkYzQwZDdhZTRiM2Q5YWJiMTgzODMzJTJGeF9sYXJnZS5wbmclM0YxNzEyMzg3ODM2P2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz0xZTQ5YWFiYzk5NWYxZmY0ZTg0ZDFmNTc5NzYyNWNmYg%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D5dbf1f6d1035e6a3ccde492ececed9f9?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9Q2xhdWRlJTIwQ29kZSUyMFNraWxscyUyMCVFMyU4MSVBNyVFNiVBMCVBQSVFMyU4MiVCOSVFMyU4MiVBRiVFMyU4MyVBQSVFMyU4MyVCQyVFMyU4MyU4QiVFMyU4MyVCMyVFMyU4MiVCMCVFMyU4MiU5MiVFOCU4NyVBQSVFNSU4QiU5NSVFNSU4QyU5NiVFMyU4MSU5NyVFMyU4MSU5RiVFOCVBOSVCMSUyMFZvbC40JUUzJTgwJTkwJUUzJTgzJTlFJUUzJTgzJUFCJUUzJTgzJTgxQUklRTMlODIlQTglRTMlODMlQkMlRTMlODIlQjglRTMlODIlQTclRTMlODMlQjMlRTMlODMlODglMjAlQzMlOTclMjBBZ2VudGljJTIwQUklMjAlRTIlODAlQTYmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1iZjVhMzJkNGJlMjI2MjI5Y2ExNTFiOGE3OWE4YTZiMw&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBva2lrdXNhbi1wdWJsaWMmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1lMjk5MGRlNWM1Nzg4MGUzZjZiOWNiNzVmZjFlNTI0OQ&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=c47d2a6d00f49aa7a4304aaae0f106e8",
     "fetched_at": "2026-05-01 14:05:29",
     "ja_summary": "・Claude Code Skillsを活用し、株スクリーニングの自動化プロセスを構築。\n・AIエージェントの連携により、学習や高度な投資分析までを自律的に実行。\n・マルチAIエージェントとAgentic AIパターンを用いた、次世代の投資分析手法を解説。"
-  },
-  {
-    "title": "メタ株8.6%下げ､半年ぶりの大幅安を記録…ザッカーバーグCEOの強気なAI戦略と巨額の資金調達が期待と不安を生む | 政治・経済・投資 | 東洋経済オンライン",
-    "link": "https://toyokeizai.net/articles/-/943255?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-    "source": "東洋経済オンライン",
-    "published": "Fri, 01 May 2026 09:00:00 +0900",
-    "summary": "米メタ･プラットフォームズの株価が急落し､その背景にはAI向け設備投資の急拡大への懸念が広がっています。ザッカーバーグCEOの強気なAI戦略が期待と不安を生み､巨額の資金調達も進行中。メタの未来はど…",
-    "image": "https://tk.ismcdn.jp/mwimgs/6/2/1200w/img_62f8d18b6adc81139895a21a129f7b61422194.jpg?nextgen=false",
-    "fetched_at": "2026-05-01 10:26:38",
-    "ja_summary": "・メタの株価がAIへの巨額投資に対する懸念から半年ぶりの急落を記録。\n・ザッカーバーグCEOの強気なAI戦略と資金調達計画が市場で賛否を呼ぶ。\n・投資家は将来の収益化よりも、目先の膨大な設備負担をリスク視している。"
-  },
-  {
-    "title": "アップルの売上高見通し､市場予想を上回る－主軸のiPhoneとMacが部品不足という業界の逆風を乗り越えて力強い成長 | 政治・経済・投資 | 東洋経済オンライン",
-    "link": "https://toyokeizai.net/articles/-/943249?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-    "source": "東洋経済オンライン",
-    "published": "Fri, 01 May 2026 08:40:00 +0900",
-    "summary": "世界的なテクノロジー企業･アップルが発表した最新決算は､部品不足という業界の逆風を乗り越えて市場予想を大きく上回る好業績を記録しました。新製品の投入や積極的な自社株買い､AI時代への挑戦など､転換期…",
-    "image": "https://tk.ismcdn.jp/mwimgs/d/d/1200w/img_dd5ba21d056da9e8eba76aa6eb7759f3878695.jpg?nextgen=false",
-    "fetched_at": "2026-05-01 10:26:38",
-    "ja_summary": "・アップルの最新決算は部品不足の逆風を跳ね返し、市場予想を上回る好業績を記録。\n・iPhoneとMacが成長を牽引し、新製品投入や自社株買いも好調を支える要因となった。\n・AI分野への注力など、成長の転換期を迎え力強い経営体制を維持している。"
-  },
-  {
-    "title": "生成AIで人員再配置も？　導入企業の半数超が「影響あり」",
-    "link": "https://www.itmedia.co.jp/business/articles/2605/01/news014.html",
-    "source": "ITmedia ビジネス",
-    "published": "Fri, 01 May 2026 09:00:00 +0900",
-    "summary": "東京商工リサーチは「生成AI」に関するアンケート調査を実施した。その結果……。",
-    "image": "https://image.itmedia.co.jp/business/articles/2605/01/cover_news014.jpg",
-    "fetched_at": "2026-05-01 10:26:39",
-    "ja_summary": "・生成AI導入企業の半数超が、業務効率化や人員再配置などの影響を実感。\n・東京商工リサーチの調査で、企業の生成AI活用による組織変革が鮮明に。\n・多くの企業が生産性向上だけでなく、人的リソースの最適化を模索し始めている。"
   }
 ]
