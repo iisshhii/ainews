@@ -1,5 +1,65 @@
 [
   {
+    "title": "｢サンタさんっていないんでしょ？｣子どもの問いにAIは100点の答えを出したが…\"サンタ問答\"が示す｢優しい嘘｣の必要性 | キャリア・教育 | 東洋経済オンライン",
+    "link": "https://toyokeizai.net/articles/-/941972?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+    "source": "東洋経済オンライン",
+    "published": "Sun, 03 May 2026 13:30:00 +0900",
+    "summary": "｢サンタさんって､本当はいないの？｣子どもからのこの問いに､あなたならどう答えますか。AIがいくら完璧な答えを返しても､それだけでは子どもの成長に必要な｢心の揺らぎ｣には寄り添えません。親が担うべき…",
+    "image": "https://tk.ismcdn.jp/mwimgs/8/3/1200w/img_83d99e01935c1606f59ee633765617ea264296.jpg?nextgen=false",
+    "fetched_at": "2026-05-03 15:16:55",
+    "ja_summary": "・「サンタはいるの？」という子どもの問いに、AIの正論は心の成長には不十分。\n・親が対話を通じて「優しい嘘」を語る過程こそが、子どもの想像力や情緒を育む。\n・効率化が進む現代だからこそ、論理を超えた親子の丁寧な関わりが重要となる。"
+  },
+  {
+    "title": "AIが仕事を奪うのではないかと心配になり、データアナリストの仕事を辞めました",
+    "link": "https://www.businessinsider.jp/article/2605-data-analyst-quit-job-over-concerns-ai-would-replace-them/",
+    "source": "Business Insider Japan",
+    "published": "Sun, 03 May 2026 06:00:00 GMT",
+    "summary": "あるデータアナリストは、AIに職を奪われるのではないかという懸念や、業界全体に対する幻滅から、その仕事を辞めました。",
+    "image": "https://media.loom-app.com/loom/2026/04/26/706af52d-e4e6-43d3-8de2-5bd79d29ebc2/original.jpg?w=1200&amp;h=630",
+    "fetched_at": "2026-05-03 15:17:21",
+    "ja_summary": "・データアナリストがAIによる代替への不安と業界への幻滅から離職。\n・AIの普及に伴うキャリアの先行きへの懸念が背景にある。"
+  },
+  {
+    "title": "Codex のゲーム開発のためのプロンプトまとめ",
+    "link": "https://note.com/npaka/n/n8fb9f73d2ce3",
+    "source": "note (npaka)",
+    "published": "Fri, 01 May 2026 07:31:38 +0900",
+    "summary": "<p id=\"a3360079-4303-46e6-9321-f56205ef2bde\" name=\"a3360079-4303-46e6-9321-f56205ef2bde\">以下の記事が面白かったので、簡単にまとめました。</p><figure id=\"9074aa50-8a4b-4a5c-aacf-46e1820457d1\" name=\"9074aa50-8a4b-4a5c-aacf-46e1820457d1\"><blockquote><p id=\"c8352631-1c0f-4757-af25-c646013701bd\" name=\"c8352631-1c0f-4757-af25-c646013701bd\"><strong>・</strong><a href=\"https://developers.openai.com/codex/use-cases/collections/game-development\" rel=\"nofollow noopener\" target=\"_blank\"><strong>Game development – Codex | OpenAI Developers</strong></a></p></blockquote>\n<figcaption></figcaption></figure><br /><a href=\"https://note.com/npaka/n/n8fb9f73d2ce3\">続きをみる</a>",
+    "image": "https://assets.st-note.com/production/uploads/images/271922241/rectangle_large_type_2_0c8bb270404b796962b6eb613ce6a776.png?width=800",
+    "fetched_at": "2026-05-03 15:17:23",
+    "ja_summary": "OpenAIのAIコード生成ツール「Codex」を活用したゲーム開発事例やプロンプト例がまとめられている。\nゲーム制作の効率化やアイデア出しにおいて、Codexをどう活用できるかのヒントが網羅されている。\n開発現場でのAI導入に関心がある人向けの有益なリソース集。"
+  },
+  {
+    "title": "Zaim APIで何ができるのか",
+    "link": "https://zenn.dev/todesking/articles/a7a82aa28646e6",
+    "source": "Zenn Trends",
+    "published": "Sat, 02 May 2026 11:16:08 GMT",
+    "summary": "Zaim公式ドキュメントはあるものの、会員登録しないと読めないようになっているため、surface webに何も情報がない。\n詳細については各自ログインして見ていただくとして、概要すらわからないのは困るのでここにまとめておく。最初にエンドポイントの一覧を示し、次に主要なエンドポイントについて解説する。\n\n エンドポイント一覧\n\nGET /v2/home/user/verify\nGET /v2/home/money\nPOST /v2/home/money/payment\nPOST /v2/home/money/income\nPOST /v2/home/money/transfer\nPUT ...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--9Oyskmnw--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Zaim%2520API%25E3%2581%25A7%25E4%25BD%2595%25E3%2581%258C%25E3%2581%25A7%25E3%2581%258D%25E3%2582%258B%25E3%2581%25AE%25E3%2581%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:todesking%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzJiNGY3OGYyOTUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-05-03 15:17:35",
+    "ja_summary": "ログインが必要で外部から確認できないZaim APIの仕様について、主要なエンドポイントを整理・解説した。\nGETによる残高や家計情報の取得、POSTによる支出・収入・振替の登録方法を網羅している。\n公式ドキュメント未登録者向けに、APIで操作可能な機能の全体像を把握できる内容となっている。"
+  },
+  {
+    "title": "Claude Codeにオレたち流のコードを書かせる（前編）— プロジェクトの流儀を自動抽出する",
+    "link": "https://zenn.dev/sonicgarden/articles/claude-code-custom-rules-part1",
+    "source": "Zenn Trends",
+    "published": "Fri, 01 May 2026 15:00:06 GMT",
+    "summary": "この記事は Claude on SonicGarden の記事です。ソニックガーデンのプログラマが、Claude Codeの活用について書いています。#claude_on_sonicgarden\n\n\n きっかけ\nClaude Code、もはやない人生は考えられないくらいお世話になっているのですが、ここはこう書いてほしいんだよなーみたいなのはどうしてもちょいちょい発生します。\nなので.claude/rules/を整備していかないとなーと思うのですが、ルールファイルをコードを眺めながら自分で一から書いていくのはなかなかモチベーションが上がりません。\nそこでコードベースやClaude Cod...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--1ot3RQ8X--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%25E3%2581%25AB%25E3%2582%25AA%25E3%2583%25AC%25E3%2581%259F%25E3%2581%25A1%25E6%25B5%2581%25E3%2581%25AE%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2589%25E3%2582%2592%25E6%259B%25B8%25E3%2581%258B%25E3%2581%259B%25E3%2582%258B%25EF%25BC%2588%25E5%2589%258D%25E7%25B7%25A8%25EF%25BC%2589%25E2%2580%2594%2520%25E3%2583%2597%25E3%2583%25AD%25E3%2582%25B8%25E3%2582%25A7%25E3%2582%25AF%25E3%2583%2588%25E3%2581%25AE%25E6%25B5%2581%25E5%2584%2580%25E3%2582%2592%25E8%2587%25AA%25E5%258B%2595%25E6%258A%25BD%25E5%2587%25BA%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:hiropon%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzQ3ZjRiNGZjZmIuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E6%25A0%25AA%25E5%25BC%258F%25E4%25BC%259A%25E7%25A4%25BE%25E3%2582%25BD%25E3%2583%258B%25E3%2583%2583%25E3%2582%25AF%25E3%2582%25AC%25E3%2583%25BC%25E3%2583%2587%25E3%2583%25B3%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzkwNWViODQ2NzMuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-05-03 15:17:36",
+    "ja_summary": "・Claude Codeが各プロジェクトの流儀に沿ったコードを書くよう、設定用ルールファイルを自動生成する手法を提案。\n・手動でのルール作成の負担を減らすため、既存のコードベースから特性を自動抽出してルール化する。\n・開発効率を高め、チーム固有のコーディング規約に自動適応させるための取り組み。"
+  },
+  {
+    "title": "「ただの作業者（Cook）」で終わるな。AI時代を生き抜く「意図の設計者（Head Chef）」への進化論",
+    "link": "https://speakerdeck.com/longbowxxx/tadanozuo-ye-zhe-cook-dezhong-waruna-aishi-dai-wosheng-kiba-ku-yi-tu-noshe-ji-zhe-head-chef-henojin-hua-lun",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-05-01T08:25:07-04:00",
+    "summary": "「GitHub Copilotが嘘ばかりつく」「AIに仕事が奪われるのが怖い」……そんな悩みに対する答えは、技術ではなく「マインドセット」にあります。\n\n本資料では、AIを単なる補完ツールから「自律的エージェント」へと昇華させるための実践的なテクニック（SGSフレームワーク、コンテキスト制御、テスト駆動の二重検証など）と、組織でレベルアップするための90日ロードマップを解説します。\n\nAIは魔法の杖ではありません。しかし、あなたが「Head Chef」として意図を設計できるようになれば、最強の武器に変わります。",
+    "image": "https://files.speakerdeck.com/presentations/ff572cf19d6241c7af1c97ee506674b6/preview_slide_0.jpg?39281117",
+    "fetched_at": "2026-05-03 15:17:37",
+    "ja_summary": "AI時代には、単なる作業者（Cook）から意図を設計する司令塔（Head Chef）への意識改革が必要です。\nSGSフレームワークや二重検証などの技術を習得し、AIを自律的な武器として使いこなすことが求められます。\n提示された90日ロードマップを実践し、AIを補完ツールから強力なパートナーへと昇華させましょう。"
+  },
+  {
     "title": "エージェントAI「Manus」の使い方。調査もアプリ作成もこなせるMetaも欲しがった高い実力",
     "link": "https://www.businessinsider.jp/article/2605-how-to-use-manus-ai-agent/",
     "source": "Business Insider Japan",
@@ -938,65 +998,5 @@
     "image": "https://japan.zdnet.com/storage/2026/05/01/044e4aa369b4f6c1de1be6d3cde0556d/t/184/138/d/claude-security-2_1280.jpg",
     "fetched_at": "2026-05-01 10:27:08",
     "ja_summary": "・AnthropicがAIによる防御型セキュリティ製品「Claude Security」を発表。\n・最新モデルを活用し、コードの脆弱性スキャンから修正パッチ作成までを自動化。\n・企業のシステム開発におけるセキュリティ対策の効率化と迅速化を支援する。"
-  },
-  {
-    "title": "リーガルテックの「AI IPGenius」--自動車メーカーの研究開発部門が導入",
-    "link": "https://japan.zdnet.com/article/35247077/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "リーガルテックは4月30日、自動車メーカー（企業名非公開）の研究開発部門が、分散データの横断解析を行う「AI IPGenius」を導入したことを発表した。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35247077/\"><img src=\"https://japan.zdnet.com/storage/2025/02/20/3f1df6775d071eff66d8be55587b07f1/t/184/138/d/250220_enterprise_as_1280_721823729.jpeg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2025/02/20/3f1df6775d071eff66d8be55587b07f1/t/184/138/d/250220_enterprise_as_1280_721823729.jpeg",
-    "fetched_at": "2026-05-01 10:27:08",
-    "ja_summary": "自動車メーカーの研究開発部門が、リーガルテックのAIシステム「AI IPGenius」を導入。\nこのシステムは、分散されたデータを横断的に解析する機能を持つ。\nこれにより、研究開発の効率化や新技術開発の加速が期待される。"
-  },
-  {
-    "title": "「ソフトウェア開発者の大量失業」論は誤解--求人増加と質的変化を示す多くの事実",
-    "link": "https://japan.zdnet.com/article/35247087/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "生成AIが登場して以来、ソフトウェア開発者の数は測定方法によって異なるが、18～50％も増加している。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35247087/\"><img src=\"https://japan.zdnet.com/storage/2026/05/01/b71025183353d12b9a6b037cf7bfb51a/t/184/138/d/rumors-of-the-software-developers-ai-induced-demise-are-greatly-exaggerated_l.jpg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2026/05/01/b71025183353d12b9a6b037cf7bfb51a/t/184/138/d/rumors-of-the-software-developers-ai-induced-demise-are-greatly-exaggerated_l.jpg",
-    "fetched_at": "2026-05-01 10:27:08",
-    "ja_summary": "生成AIの登場後もソフトウェア開発者の求人は増加傾向にあり、市場はむしろ拡大している。\n「AIによる大量失業」論は誤解であり、実際には開発者の数や役割に質的な変化が起きている。\nAI時代においても、開発者という職業は依然として需要の高い重要な職種であり続けている。"
-  },
-  {
-    "title": "Claude for Creative Work",
-    "link": "https://www.anthropic.com/news/claude-for-creative-work",
-    "source": "Anthropic (News)",
-    "published": "Tue, 28 Apr 2026 00:00:00 +0000",
-    "summary": "Claude for Creative Work",
-    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20ShapeArrow&amp;backgroundColor=cactus",
-    "fetched_at": "2026-05-01 10:27:16",
-    "ja_summary": "・AI「Claude」が創造的な業務を支援する新機能や活用法を提示。\n・執筆やアイデア出しなどの創作プロセスを効率化し、生産性を向上。\n・クリエイティブ領域におけるAI活用の可能性と実用性を解説。"
-  },
-  {
-    "title": "【Claude Code入門】今から追いつくClaude Code 徹底解説",
-    "link": "https://qiita.com/i-inose/items/e644e9b620ee1c8d3c1b",
-    "source": "Qiita (Popular)",
-    "published": "2026-04-27T18:58:22+09:00",
-    "summary": "\n## はじめに\n\nこの記事は、Claude Code を使い始めたいエンジニアのための入門ガイドです。\n\n「名前は聞いたことがあるけれど、なんとなく乗り遅れた気がして触れていない」という方に向けて書きました。Claude Code は 2025 年 3 月にベータ公開が始まり、今も活発に機能が追加され続けているツールです。今から始めても、十分に最前線を体験できます。\n\nこの記事の対象読者です。\n",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYyNzM3MDU1JTJGMmRhZmNlMzcyYjViYjhiYjVhMWM5ZWMwMmFkNzQyYzIwZjkzMjJiOCUyRnhfbGFyZ2UucG5nJTNGMTc1MTYxMzgyNj9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9ZDA0ZDI4ZjkyYTAzYTZhNjY0NjJhOGRmMDI4MDk1ZWQ%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYxZTIwZGI1ZTdlNDA3ZWFlN2I5NzBlYzk5OTg4MGRjOGMzY2MwZjY0JTJGb3JpZ2luYWwuanBnJTNGMTY2NzI3NDk2Mz9peGxpYj1yYi00LjAuMCZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz0xMzQ4OTg3MjlkMzMwYTdiNWRhMzRkOGU2MzVmZjIxOA%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D66b59b0ea406aee68a1154031be0c0be?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJTkwQ2xhdWRlJTIwQ29kZSVFNSU4NSVBNSVFOSU5NiU4MCVFMyU4MCU5MSVFNCVCQiU4QSVFMyU4MSU4QiVFMyU4MiU4OSVFOCVCRiVCRCVFMyU4MSU4NCVFMyU4MSVBNCVFMyU4MSU4RkNsYXVkZSUyMENvZGUlMjAlRTUlQkUlQjklRTUlQkElOTUlRTglQTclQTMlRTglQUElQUMmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz05ZmJjZTRiMDFiZjcyMDcyNmQ1YzQyMmUzYTI0ZWEwMg&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBpLWlub3NlJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9MmIxMzY4YTE4OWM3Yjg5NDQwYjM0ZWNmNTdjY2I5YTE&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=S0RESeOCouOCuOODo-OCpOODq-mWi-eZuuOCu-ODs-OCv-ODvOagquW8j-S8muekvg&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=283ec2bce88f6a89a40e5f13ce38f3c6",
-    "fetched_at": "2026-05-01 10:27:32",
-    "ja_summary": "Claude Codeは、2025年3月にベータ公開された最新のAIコーディングアシスタントです。\n機能が継続的に追加されており、今からでも最先端のコーディング体験ができます。\nこの記事は、Claude Codeをこれから使い始めたいエンジニア向けの入門ガイドです。"
-  },
-  {
-    "title": "「Claude Mythos」の衝撃　数千の脆弱性を発見、攻撃コードも生成",
-    "link": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020800017/042101423/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "米アンソロピックが2026年4月7日に発表した新しい汎用の大規模言語モデル（LLM）「Claude Mythos（クロード・ミュトス）」のプレビュー版を巡り、これまでのセキュリティーの常識が覆される可能性があるとして波紋が広がっている。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020800017/042101423/topm.jpg?20220512",
-    "fetched_at": "2026-05-01 08:36:45",
-    "ja_summary": "AI「Claude Mythos」のプレビュー版から数千もの脆弱性が発見された。\n攻撃コード生成能力も確認され、セキュリティ常識を覆す可能性。\nAIの安全な開発と利用に大きな課題を提示。"
-  },
-  {
-    "title": "目指せ自分専用アプリ! まずは何をつくる? ゼロから始めるAIコーディング(1)",
-    "link": "https://www.watch.impress.co.jp/docs/topic/2104942.html",
-    "source": "Impress Watch",
-    "published": "",
-    "summary": "AIツールでソフトウェア開発する、いわゆる「AIコーディング」や「バイブコーディング」が話題になっています。でも、「なんとなく難しそう」「どこから始めればいいのか分からない」と諦めてしまっている人も少なくないでしょう。",
-    "image": "https://www.watch.impress.co.jp/img/ipw/list/2104/942/c001.jpg",
-    "fetched_at": "2026-05-01 08:36:47",
-    "ja_summary": "・AIを活用した開発「AIコーディング」が注目を集めている。\n・「難しそう」と敬遠されがちだが、初心者でも始めることは可能。\n・まずは何を作るか決め、ゼロからアプリ開発に挑戦してみよう。"
   }
 ]
