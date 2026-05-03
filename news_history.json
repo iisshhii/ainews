@@ -1,5 +1,25 @@
 [
   {
+    "title": "スマホからフィジカルAIへ。人型ロボットマラソン大会で優勝したHONORの描く未来(山根康宏)",
+    "link": "https://www.techno-edge.net/article/2026/05/01/5037.html",
+    "source": "TechnoEdge",
+    "published": "Fri, 01 May 2026 12:12:22 +0900",
+    "summary": "HONORのヒューマノイドロボットLightningがハーフマラソンで人間の記録超え、AIとスマートデバイスの連携を示す勝利となった。",
+    "image": "https://www.techno-edge.net/imgs/rss/31198.jpg",
+    "fetched_at": "2026-05-03 20:25:46",
+    "ja_summary": "・HONORの人型ロボット「Lightning」がハーフマラソンで人間の記録を更新。\n・スマホ技術を応用した制御により、AIとハードウェアの高度な連携を証明。\n・デバイスの枠を超え、現実空間で活動する「フィジカルAI」の進化を提示した。"
+  },
+  {
+    "title": "Claude Code Skills で株スクリーニングを自動化した話 Vol.4【マルチAIエージェント × Agentic AI Pattern】",
+    "link": "https://qiita.com/okikusan-public/items/27d9b0f0177293db8b1a",
+    "source": "Qiita (Popular)",
+    "published": "2026-04-20T08:37:27+09:00",
+    "summary": ":::note info\n  📚 **シリーズ記事一覧は[こちら](https://qiita.com/okikusan-public/items/6707fa0c99dbcc3e493f)**\n:::\n\n\n## はじめに\n\nVol.1 でスクリプトによる **自動化** を実現し、Vol.2 で GraphRAG による **学習** を加え、Vol.3 で処方箋エンジンや逆張り検出で **高度",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY1MTYzMjQlMkZiNTljNzM3N2QwNzAzMGEzMGRkYzQwZDdhZTRiM2Q5YWJiMTgzODMzJTJGeF9sYXJnZS5wbmclM0YxNzEyMzg3ODM2P2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz0xZTQ5YWFiYzk5NWYxZmY0ZTg0ZDFmNTc5NzYyNWNmYg%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D5dbf1f6d1035e6a3ccde492ececed9f9?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9Q2xhdWRlJTIwQ29kZSUyMFNraWxscyUyMCVFMyU4MSVBNyVFNiVBMCVBQSVFMyU4MiVCOSVFMyU4MiVBRiVFMyU4MyVBQSVFMyU4MyVCQyVFMyU4MyU4QiVFMyU4MyVCMyVFMyU4MiVCMCVFMyU4MiU5MiVFOCU4NyVBQSVFNSU4QiU5NSVFNSU4QyU5NiVFMyU4MSU5NyVFMyU4MSU5RiVFOCVBOSVCMSUyMFZvbC40JUUzJTgwJTkwJUUzJTgzJTlFJUUzJTgzJUFCJUUzJTgzJTgxQUklRTMlODIlQTglRTMlODMlQkMlRTMlODIlQjglRTMlODIlQTclRTMlODMlQjMlRTMlODMlODglMjAlQzMlOTclMjBBZ2VudGljJTIwQUklMjAlRTIlODAlQTYmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1iZjVhMzJkNGJlMjI2MjI5Y2ExNTFiOGE3OWE4YTZiMw&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBva2lrdXNhbi1wdWJsaWMmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1lMjk5MGRlNWM1Nzg4MGUzZjZiOWNiNzVmZjFlNTI0OQ&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=c47d2a6d00f49aa7a4304aaae0f106e8",
+    "fetched_at": "2026-05-03 20:26:04",
+    "ja_summary": "・Claude CodeとマルチAIエージェントを活用し、株スクリーニングを高度に自動化する手法を解説。\n・単なる自動化から、GraphRAGによる学習、逆張り検出までを一貫して実装。\n・AIエージェントを組み合わせたインテリジェントな投資判断支援の構築事例。"
+  },
+  {
     "title": "生成AIで人員再配置も？　導入企業の半数超が「影響あり」",
     "link": "https://www.itmedia.co.jp/business/articles/2605/01/news014.html",
     "source": "ITmedia ビジネス",
@@ -978,25 +998,5 @@
     "image": "https://media.loom-app.com/loom/2026/04/27/a9ee205c-d7b4-4fd4-8d22-2cd53996117b/original.jpg?w=1200&amp;h=630",
     "fetched_at": "2026-05-01 14:04:50",
     "ja_summary": "・OpenAIが設立初期の運営指針を大幅に変更。\n・「万人のためのAI」という理念から、自社の利益を優先する方針へ転換。\n・非営利目的の追求から、ビジネス重視の姿勢が鮮明になった。"
-  },
-  {
-    "title": "グーグルのコードの75％は生成AIが作成…コードの移行作業は6倍の速さに",
-    "link": "https://www.businessinsider.jp/article/2605-google-ai-generated-code-75-gemini-agents-software/",
-    "source": "Business Insider Japan",
-    "published": "Fri, 01 May 2026 01:30:00 GMT",
-    "summary": "グーグルでは従業員にコーディングアシスタントやエージェントの活用を推奨しています。それによってAIが生成するコードの量が増加しています。",
-    "image": "https://media.loom-app.com/loom/2026/04/22/3071ac4a-4f8a-4554-b9dc-3dd2afc634a9/original.jpg?w=1200&amp;h=630",
-    "fetched_at": "2026-05-01 14:04:52",
-    "ja_summary": "・グーグルのコード生成の75％がAIによるものに。\n・AI活用により、コード移行作業のスピードが6倍に向上。\n・社内でAIツールの利用を積極的に推奨し、開発効率を最大化。"
-  },
-  {
-    "title": "企業のビジネスはAI中心の自律型へシフト--ガートナー予測",
-    "link": "https://japan.zdnet.com/article/35247103/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "ガートナーの調査によれば、AIによって自律型ビジネスへ移行すると考えるCEOが大半を占め、CIOには、AIを相手にビジネスを行う仕組み作りが求められている。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35247103/\"><img src=\"https://japan.zdnet.com/storage/2025/10/09/60478e248ca20b13795f871513cee7f9/t/184/138/d/251009_ai_as_1280_323829966.jpeg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2025/10/09/60478e248ca20b13795f871513cee7f9/t/184/138/d/251009_ai_as_1280_323829966.jpeg",
-    "fetched_at": "2026-05-01 14:05:03",
-    "ja_summary": "・企業のビジネスモデルは、AIが自律的に動く形態へと急速にシフトしている。\n・多くの経営者がこの変化を予測しており、AIの活用がビジネスの必須条件となった。\n・IT部門（CIO）には、AIを前提とした新たな業務の仕組み作りが急務となっている。"
   }
 ]
