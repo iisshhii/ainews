@@ -1,5 +1,75 @@
 [
   {
+    "title": "Codex App Server の概要",
+    "link": "https://note.com/npaka/n/n075114596672",
+    "source": "note (npaka)",
+    "published": "Tue, 05 May 2026 08:15:33 +0900",
+    "summary": "<p id=\"2e3748b3-d5d1-4c77-9f30-9b227355f797\" name=\"2e3748b3-d5d1-4c77-9f30-9b227355f797\">以下の記事が面白かったので、簡単にまとめました。</p><figure id=\"ce947eb7-55a2-4a9d-be56-51a8c4979e2e\" name=\"ce947eb7-55a2-4a9d-be56-51a8c4979e2e\"><blockquote><p id=\"0211859d-15f5-40cf-a54d-58e72497c0a7\" name=\"0211859d-15f5-40cf-a54d-58e72497c0a7\"><strong>・</strong><a href=\"https://openai.com/ja-JP/index/unlocking-the-codex-harness/\" rel=\"nofollow noopener\" target=\"_blank\"><strong>Codex ハーネスの解放：App Server を構築した方法</strong></a></p></blockquote>\n<figcaption></figcaption></figure><br /><a href=\"https://note.com/npaka/n/n075114596672\">続きをみる</a>",
+    "image": "https://assets.st-note.com/production/uploads/images/273119664/rectangle_large_type_2_2a1d55fe0dbaf5b396d52905f63cba35.png?width=800",
+    "fetched_at": "2026-05-05 08:33:20",
+    "ja_summary": "・OpenAIが開発したAIモデル「Codex」を活用し、自然言語からアプリケーションを構築・実行する「App Server」の仕組みを解説。\n・AIによるコード生成と実行環境を統合し、プログラミングを劇的に効率化する技術的アプローチを紹介。\n・開発者がコードを直接書く負担を減らし、指示出しだけでアプリを動かせる次世代の開発環境を示唆。"
+  },
+  {
+    "title": "会話に没頭 生成AIと「結婚」決意",
+    "link": "https://news.yahoo.co.jp/pickup/6578811?source=rss",
+    "source": "Yahoo!ニュース IT・科学",
+    "published": "Mon, 04 May 2026 22:56:26 GMT",
+    "summary": "",
+    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/5/5/6a7110448f4b1cd15c8bfaaff5591455a7da4e2a5d34fc8fd93dafd6c45dfd20.jpg",
+    "fetched_at": "2026-05-05 08:33:22",
+    "ja_summary": "・生成AIとの会話にのめり込み、結婚を決意する人が現れている。\n・AIを人間のようなパートナーとして捉え、深い精神的な繋がりを感じるユーザーが増加。\n・AIとの関係構築が新たな人間関係の形として議論を呼んでいる。"
+  },
+  {
+    "title": "あなたのClaude CodeのWebFetch、実はWebをちゃんと読んでいない",
+    "link": "https://zenn.dev/zhizhiarv/articles/claude-code-webfetch-haiku-summary",
+    "source": "Zenn Trends",
+    "published": "Mon, 04 May 2026 10:39:09 GMT",
+    "summary": "結論\nClaude Code はWebFetchツールを使う多くの場合、実はWebページの原文を読んでいません。先にHaikuが読んで要約・抽出した結果だけを、あなたのOpusやSonnetが読んで実装を進めています。そして、それは非常に気づきにくい構造となっています。\n!\nこの記事はClaude Codeに内蔵されているWebFetchツールの挙動についてです。以下とは異なります。\n\n\nClaude API の Web fetch ツール：API経由で利用するWeb fetch機能はClaude Codeの WebFetch とは別の実装です\nClaude.ai（Web版・Desk...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--CURDvLBK--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2581%2582%25E3%2581%25AA%25E3%2581%259F%25E3%2581%25AEClaude%2520Code%25E3%2581%25AEWebFetch%25E3%2580%2581%25E5%25AE%259F%25E3%2581%25AFWeb%25E3%2582%2592%25E3%2581%25A1%25E3%2582%2583%25E3%2582%2593%25E3%2581%25A8%25E8%25AA%25AD%25E3%2582%2593%25E3%2581%25A7%25E3%2581%2584%25E3%2581%25AA%25E3%2581%2584%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:sherry%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzhjYjM0YThjNTEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-05-05 08:33:37",
+    "ja_summary": "Claude CodeのWebFetch機能は、Webページの原文ではなく、Haikuが作成した要約版をメインのモデル（Opus/Sonnet）に渡して処理している。\nこの構造は外部から認識しづらく、詳細情報が欠落する可能性がある点に注意が必要である。\nなお、本件はClaude APIやWeb版のClaudeとは異なる、Claude Code固有の仕様である。"
+  },
+  {
+    "title": "Claude CodeユーザーのためのCodex入門",
+    "link": "https://zenn.dev/k9i/articles/20260504_cc_to_codex",
+    "source": "Zenn Trends",
+    "published": "Mon, 04 May 2026 06:52:29 GMT",
+    "summary": "はじめに\n最近、CodexのほうがClaude Codeより使いやすい・性能が高いと感じる人が増えている印象です。\nClaude Codeに慣れていて、Codexも使い始めてみたい方向けに、最初に知っておくとよいことを書きます！\nこの記事は2026年5月時点の私の利用経験と観測範囲をもとにしています。\n\n 私のCodex歴について\nもともとはClaude Code派で、Codexは半年ほどサブで使っていました。\nGPT-5.4あたりでClaudeとモデル性能が逆転したと感じ、1ヶ月ほど前に個人では完全にCodexに乗り換えました（業務では申請のしやすさとかもあってClaude Cod...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--sfoKKjFU--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%25E3%2583%25A6%25E3%2583%25BC%25E3%2582%25B6%25E3%2583%25BC%25E3%2581%25AE%25E3%2581%259F%25E3%2582%2581%25E3%2581%25AECodex%25E5%2585%25A5%25E9%2596%2580%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:K9i%2520a.k.a.%2520%25E3%2581%259F%25E3%2581%2593%25E3%2581%2595%25E3%2582%2593%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2JjZjNiMTE1MDUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-05-05 08:33:37",
+    "ja_summary": "・Claude CodeユーザーがCodexへ移行する際に役立つ入門ガイド。\n・モデル性能の逆転を受け、実務で使い分けるための知見を解説。\n・2026年5月時点の最新動向に基づき、乗り換えの要点をまとめた内容。"
+  },
+  {
+    "title": "goroutineは「非同期」でもある――仕組み、進化",
+    "link": "https://zenn.dev/torisan7500/articles/27226650fe8aac",
+    "source": "Zenn Trends",
+    "published": "Mon, 04 May 2026 02:13:01 GMT",
+    "summary": "goroutineはいわゆる「非同期」も内包している、と理解できます。\nしかし、AI普及後の現在でも、たまに気がかりな記事もある気もしました【例】:\n\n🔥goroutineと非同期を別方式のように捉える。「軽量スレッド方式 vs イベントループ」のような比較が行われる。\n🔥そもそも（goroutineに限らず）非同期やブロッキング自体がふわっと気味な気もする。\n\n!\nおそらく、Goのコミュニティでは「非同期」という言葉はあまり使われないため、AIもすぐには回答に出してこず、何となく「軽量スレッドという方式」に見えやすいなどがあるのかなと思いました。\n\n\n この記事の内容\n非同期自体の仕組...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--NSJQd2Q2--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:goroutine%25E3%2581%25AF%25E3%2580%258C%25E9%259D%259E%25E5%2590%258C%25E6%259C%259F%25E3%2580%258D%25E3%2581%25A7%25E3%2582%2582%25E3%2581%2582%25E3%2582%258B%25E2%2580%2595%25E2%2580%2595%25E4%25BB%2595%25E7%25B5%2584%25E3%2581%25BF%25E3%2580%2581%25E9%2580%25B2%25E5%258C%2596%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:torisan%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzQ3NTgzMDEyY2MuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-05-05 08:33:37",
+    "ja_summary": "Goのgoroutineは実質的に非同期処理を含んでいるが、コミュニティでは「軽量スレッド」という側面が強調されがちである。\n「軽量スレッド vs イベントループ」といった誤った二項対立や、非同期の定義が曖昧である点が混乱を招いている。\n技術の本質を正しく理解し、goroutineが内包する非同期の仕組みを整理して捉えることが重要である。"
+  },
+  {
+    "title": "【緊急】Cursorに「git clone」するだけでPCが乗っ取られる脆弱性！CVSS 9.9のヤバすぎる攻撃手法",
+    "link": "https://qiita.com/emi_ndk/items/8e6607a09cb8ff86c298",
+    "source": "Qiita (Popular)",
+    "published": "2026-05-03T16:32:16+09:00",
+    "summary": "**結論から言うと、Cursorユーザーは今すぐバージョン2.5以上にアップデートしてください。**\n\n2026年4月28日、AIコーディングツール「Cursor」に**CVSS 9.9（ほぼ満点）** の致命的な脆弱性が公開されました。\n\nあなたが悪意のあるリポジトリを`git clone`するだけで、**何も操作しなくても**PCが完全に乗っ取られます。\n\n## 何が起きているのか\n\nCVE-",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmF2YXRhcnMuZ2l0aHVidXNlcmNvbnRlbnQuY29tJTJGdSUyRjU0MTczODUwJTNGdiUzRDQ_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPTQ5ZGU0OTdkMjMwMjhmNWZmOTcwNmZlNGNmY2E5MDZm%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D29ced0e10c8c1d24806abaf93840cae7?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJTkwJUU3JUI3JThBJUU2JTgwJUE1JUUzJTgwJTkxQ3Vyc29yJUUzJTgxJUFCJUUzJTgwJThDZ2l0JTIwY2xvbmUlRTMlODAlOEQlRTMlODElOTklRTMlODIlOEIlRTMlODElQTAlRTMlODElOTElRTMlODElQTdQQyVFMyU4MSU4QyVFNCVCOSU5NyVFMyU4MSVBMyVFNSU4RiU5NiVFMyU4MiU4OSVFMyU4MiU4QyVFMyU4MiU4QiVFOCU4NCU4NiVFNSVCQyVCMSVFNiU4MCVBNyVFRiVCQyU4MUNWU1MlMjA5LjklRTMlODElQUUlRTMlODMlQTQlRTMlODMlOTAlRTMlODElOTklRTMlODElOEUlRTMlODIlOEIlRTYlOTQlQkIlRTYlOTIlODMlRTYlODklOEIlRTYlQjMlOTUmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1mNjU4YzgwZDFjOWMwODEyYTIzYjg4YWY4N2UzNDRkMQ&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBlbWlfbmRrJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9NzU0NDg1YzBhMGMzNTE3YTkwZWM1ZTU4MzFlOTQyMWY&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=49f5ab209b830984d232870fb446d630",
+    "fetched_at": "2026-05-05 08:33:39",
+    "ja_summary": "・AI開発ツール「Cursor」にPCが乗っ取られる極めて深刻な脆弱性が判明。\n・悪意あるリポジトリを`git clone`するだけで攻撃が成立する危険な状態。\n・全ユーザーは直ちにバージョン2.5以上にアップデートすること。"
+  },
+  {
+    "title": "Claude Codeのノウハウをサンプルコードで学ぶ ── 中級編（エージェント設計の考え方）",
+    "link": "https://qiita.com/nogataka/items/dc115e441ad1552e35ce",
+    "source": "Qiita (Popular)",
+    "published": "2026-04-21T14:42:15+09:00",
+    "summary": "\n## はじめに\n\n本記事は「Claude Codeのノウハウをサンプルコードで学ぶ」シリーズの**中級編**です。シリーズ全体は以下の4本構成になっています。\n\n1. [入門編](https://qiita.com/nogataka/items/59cc72e55e037d77225f) — Claude Codeの全体像とAIエージェントの仕組みを体感する\n2. **中級編（本記事）** — ",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYxNjEyOTglMkZjMWUzZmZkNmVhZGExOTY5ZmYzYzQ0YjE0ZmRlMDgxYmNkZTZmNTAwJTJGeF9sYXJnZS5wbmclM0YxNTg0ODQ1NTg0P2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz00ZGRjZmU5NTFjNTMyMzU3NjcyOGUzOTkyOTNmOGRlNQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D246367bff431168e6212d2602a3df494?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9Q2xhdWRlJTIwQ29kZSVFMyU4MSVBRSVFMyU4MyU4RSVFMyU4MiVBNiVFMyU4MyU4RiVFMyU4MiVBNiVFMyU4MiU5MiVFMyU4MiVCNSVFMyU4MyVCMyVFMyU4MyU5NyVFMyU4MyVBQiVFMyU4MiVCMyVFMyU4MyVCQyVFMyU4MyU4OSVFMyU4MSVBNyVFNSVBRCVBNiVFMyU4MSVCNiUyMCVFMiU5NCU4MCVFMiU5NCU4MCUyMCVFNCVCOCVBRCVFNyVCNCU5QSVFNyVCNyVBOCVFRiVCQyU4OCVFMyU4MiVBOCVFMyU4MyVCQyVFMyU4MiVCOCVFMyU4MiVBNyVFMyU4MyVCMyVFMyU4MyU4OCVFOCVBOCVBRCVFOCVBOCU4OCVFMyU4MSVBRSVFOCU4MCU4MyVFMyU4MSU4OCVFNiU5NiVCOSVFRiVCQyU4OSZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPWIyMTZhNTlhMDkyZDZjZDY0Mjc1OGNlMmUyMmQyMGI2&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBub2dhdGFrYSZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWE5ODA4YTE0Zjg4Y2I0ZjQ5OWU2ZDA3NGYyY2E2YTNh&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=a26b35e53a465a55263935cba0da41b6",
+    "fetched_at": "2026-05-05 08:33:42",
+    "ja_summary": "Claude Code活用シリーズの中級編として、AIエージェントを効率的に設計するための実践的な考え方を解説。\nサンプルコードを通じ、AIを実務で使いこなすための応用的なノウハウを習得できる。\nAIエージェントの仕組みを理解し、開発の現場でより高度な自動化を実装したい層向けの内容。"
+  },
+  {
     "title": "DGX Sparkの70万円は高い…のだろうか",
     "link": "https://xtech.nikkei.com/atcl/nxt/mag/nnw/18/091900173/041700032/",
     "source": "日経クロステック 総合",
@@ -928,75 +998,5 @@
     "image": "https://res.cloudinary.com/zenn/image/upload/s--iXD_PNz0--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Android%25E3%2581%25A7Claude%2520Code%2520%252F%2520Codex%2520%252F%2520Gemini%2520CLI%25E3%2582%2592%25E5%258B%2595%25E3%2581%258B%25E3%2581%2599%25E3%2583%258D%25E3%2582%25A4%25E3%2583%2586%25E3%2582%25A3%25E3%2583%2596AI%25E3%2582%25BF%25E3%2583%25BC%25E3%2583%259F%25E3%2583%258A%25E3%2583%25ABI...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:RYO%2520ITABASHI%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzY4MDViNWQxYTYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
     "fetched_at": "2026-05-02 20:59:59",
     "ja_summary": "・Androidアプリ「Shelly」で、Claude CodeやGemini CLIなどのAIコーディングツールがネイティブ動作を実現。\n・外部環境（Termux等）を介さずアプリ内で直接実行可能であり、スマホでの開発環境が大幅に向上。\n・Galaxy Z Fold6等の実機で動作確認済み。"
-  },
-  {
-    "title": "Stripeが構想するAIエージェント決済インフラ - MPP、Tempo、Link Agent Wallets...etc",
-    "link": "https://zenn.dev/komlock_lab/articles/stripe-sessions-2026",
-    "source": "Zenn Trends",
-    "published": "Fri, 01 May 2026 13:50:29 GMT",
-    "summary": "こんにちは！ブロックチェーンエンジニアの山口夏生です。\nブロックチェーン×AI Agentで自律経済圏を創る開発組織Komlock labでCTOをしています。\nこの記事では、いま話題になっている Stripe Sessions 2026 の発表を、 AIエージェント決済インフラ という観点で4つの軸に分けて解説していきます。\n2026年4月29日に開催された Stripe Sessions 2026 で発表された新機能は288個。前年Sessions 2025の約100から3倍弱、参加者は9,000人以上、Q1 2027までの公開ロードマップは334項目です。\n発表の中には、自前のブロ...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--kXC49odf--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Stripe%25E3%2581%258C%25E6%25A7%258B%25E6%2583%25B3%25E3%2581%2599%25E3%2582%258BAI%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588%25E6%25B1%25BA%25E6%25B8%2588%25E3%2582%25A4%25E3%2583%25B3%25E3%2583%2595%25E3%2583%25A9%2520-%2520MPP%25E3%2580%2581Tempo%25E3%2580%2581Link%2520Agent%2520Wallets....%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Natsuki%2520Yamaguchi%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzM4OTQ5NWM0ZmEuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Komlock%2520lab%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzE1MDIwNzIxNzIuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-    "fetched_at": "2026-05-02 21:00:00",
-    "ja_summary": "Stripeが「Stripe Sessions 2026」にて、AIエージェントによる決済を支援する新インフラを強化。\n自律的な経済活動を支える決済ソリューションを含め、昨年の3倍となる288個の新機能を発表した。\nAIが自律的に決済を行う社会を見据え、関連するインフラ整備とロードマップを急速に拡充している。"
-  },
-  {
-    "title": "商船三井と日立、中古船再利用の浮体式データセンター　開発期間3年短縮 (日経ESG)",
-    "link": "https://business.nikkei.com/atcl/gen/19/00159/042700381/",
-    "source": "日経ビジネス 最新",
-    "published": "",
-    "summary": "商船三井は海運事業で蓄積した資本を活用し、米国のデータセンター市場に参入する。開発期間を大幅に短縮し、CO2排出量も抑えることで、旺盛なAI需要を取り込む。",
-    "image": "https://business.nikkei.com/atcl/gen/19/00159/042700381/fb.jpg",
-    "fetched_at": "2026-05-02 18:20:03",
-    "ja_summary": "・商船三井が日立と組み、中古船を再利用した浮体式データセンターで米国市場に参入。\n・既存船の活用により開発期間を3年短縮し、建設時のCO2排出量も抑制。\n・急拡大するAI需要に対し、早期供給と環境負荷低減の両立で強みを発揮する。"
-  },
-  {
-    "title": "米Duolingo、AIで英語学習アプリ効率開発　活用の肝は企業ミッションの共有 (PLUSな視点)",
-    "link": "https://business.nikkei.com/atcl/plus/00037/042400047/",
-    "source": "日経ビジネス 最新",
-    "published": "",
-    "summary": "「Duolingo」は世界で最も利用される学習アプリの一つだ。ChatGPTが登場する前からAI活用を推し進めており、AIを単なる効率化の道具ではなく、「人間が意思決定するためのツール」と位置づけている。日本市場責任者の水谷翔氏に、日本企業が学ぶべきAI活用法と組織のあり方について話を聞いた。",
-    "image": "https://business.nikkei.com/atcl/plus/00037/042400047/fb.jpg",
-    "fetched_at": "2026-05-02 18:20:04",
-    "ja_summary": "・DuolingoはAIを効率化の道具ではなく、人間の意思決定を支援するツールと位置づけて活用している。\n・AI導入成功の鍵は、技術そのものよりも企業ミッションの徹底した組織内共有にある。\n・日本企業が学ぶべきは、AIを目的達成のための不可欠なパートナーとして位置づける組織のあり方。"
-  },
-  {
-    "title": "カリフォルニアの「狭小住宅」に、彼女は約1550万円を費やした。現在はエアビーで貸し出している",
-    "link": "https://www.businessinsider.jp/article/2604-how-a-custom-tiny-home-became-a-luxury-california-airbnb/",
-    "source": "Business Insider Japan",
-    "published": "Sat, 02 May 2026 08:30:00 GMT",
-    "summary": "キシロ・サクラ氏とパートナーは、自分たちのタイニーハウスをエアビー（Airbnb）で貸し出しています。建設の費用としての予算は10万ドル（約15500万円）。将来的に住み替えるが、それまでこの家は収入源とする予定です。",
-    "image": "https://media.loom-app.com/loom/2026/04/30/18d69cb7-ef57-45e6-8f8c-1f57e2bb5f97/original.png?w=1200&amp;h=630",
-    "fetched_at": "2026-05-02 18:20:21",
-    "ja_summary": "・約1550万円をかけてカリフォルニアにタイニーハウスを建設。\n・将来的な居住を前提としつつ、現在はAirbnbで貸し出し運用。\n・資産価値を維持しながら、賃貸収入を得る副業として活用中。"
-  },
-  {
-    "title": "アンソロピック、「Claude Security」開始　Opus 4.7が防御対策",
-    "link": "https://www.watch.impress.co.jp/docs/news/2105989.html",
-    "source": "Impress Watch",
-    "published": "",
-    "summary": "Anthropicは30日(米国時間)、Claude Enterpriseの利用者向けに「Claude Security」のパブリックベータ版を提供開始した。Claude Securityは、セキュリティチームがコードベースをスキャンして脆弱性を検出し、対策パッチを生成することに特化した機能で、Claude Opus 4.7を基盤としている。",
-    "image": "https://www.watch.impress.co.jp/img/ipw/list/2105/989/claude1.jpg",
-    "fetched_at": "2026-05-02 17:09:35",
-    "ja_summary": "・Anthropicが企業向け「Claude Security」のベータ版を提供開始。\n・最新モデル「Claude Opus 4.7」を活用し、コードの脆弱性検知と修正パッチ生成を自動化。\n・企業がセキュリティ対策を効率化し、システム開発の安全性を高めるための新機能。"
-  },
-  {
-    "title": "Anthropic and NEC collaborate to build Japan’s largest AI engineering workforce",
-    "link": "https://www.anthropic.com/news/anthropic-nec",
-    "source": "Anthropic (News)",
-    "published": "Fri, 24 Apr 2026 00:00:00 +0000",
-    "summary": "Anthropic and NEC collaborate to build Japan’s largest AI engineering workforce",
-    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20NodeGlobe&amp;backgroundColor=heather",
-    "fetched_at": "2026-05-02 17:09:55",
-    "ja_summary": "・Anthropic社とNECがAI分野で戦略的提携。\n・日本最大規模となるAIエンジニアの育成と体制構築に着手。\n・両社の技術を融合し、日本国内でのAI活用と社会実装を加速させる。"
-  },
-  {
-    "title": "Claude Codeのノウハウをサンプルコードで学ぶ ── ハーネス設計8パターン編",
-    "link": "https://qiita.com/nogataka/items/6d0eccd780b824cf080e",
-    "source": "Qiita (Popular)",
-    "published": "2026-04-21T14:42:39+09:00",
-    "summary": "\n## はじめに\n\n本記事は「Claude Codeのノウハウをサンプルコードで学ぶ」シリーズの**3本目（サンプルコード編の前半）**です。シリーズ全体は以下の4本構成になっています。\n\n1. [入門編](https://qiita.com/nogataka/items/59cc72e55e037d77225f) — Claude Codeの全体像とAIエージェントの仕組みを体感する\n2. [中",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYxNjEyOTglMkZjMWUzZmZkNmVhZGExOTY5ZmYzYzQ0YjE0ZmRlMDgxYmNkZTZmNTAwJTJGeF9sYXJnZS5wbmclM0YxNTg0ODQ1NTg0P2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz00ZGRjZmU5NTFjNTMyMzU3NjcyOGUzOTkyOTNmOGRlNQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D246367bff431168e6212d2602a3df494?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9Q2xhdWRlJTIwQ29kZSVFMyU4MSVBRSVFMyU4MyU4RSVFMyU4MiVBNiVFMyU4MyU4RiVFMyU4MiVBNiVFMyU4MiU5MiVFMyU4MiVCNSVFMyU4MyVCMyVFMyU4MyU5NyVFMyU4MyVBQiVFMyU4MiVCMyVFMyU4MyVCQyVFMyU4MyU4OSVFMyU4MSVBNyVFNSVBRCVBNiVFMyU4MSVCNiUyMCVFMiU5NCU4MCVFMiU5NCU4MCUyMCVFMyU4MyU4RiVFMyU4MyVCQyVFMyU4MyU4RCVFMyU4MiVCOSVFOCVBOCVBRCVFOCVBOCU4ODglRTMlODMlOTElRTMlODIlQkYlRTMlODMlQkMlRTMlODMlQjMlRTclQjclQTgmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz04YzNiOTMyZjEzNjZiYmYyYTM1OTAwZWMzNjczMDc2Nw&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBub2dhdGFrYSZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWE5ODA4YTE0Zjg4Y2I0ZjQ5OWU2ZDA3NGYyY2E2YTNh&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=f4296d164c9937810fa065bf36fb8fc2",
-    "fetched_at": "2026-05-02 17:10:01",
-    "ja_summary": "Claude Codeを活用したハーネス設計の最適化手法を、8つの実践的なサンプルコードを通じて解説する技術記事。\nAIエージェントの具体的な活用スキルを学べるシリーズ第3弾。\n現場での実装に即した構成で、設計パターンごとの効率的なコード記述ノウハウを習得できる。"
   }
 ]
