@@ -1,5 +1,35 @@
 [
   {
+    "title": "AI時代はサブスクから従量課金?",
+    "link": "https://www.watch.impress.co.jp/docs/topic/watchplus/2106005.html",
+    "source": "Impress Watch",
+    "published": "",
+    "summary": "Impress Watchニュースレターに掲載した記事です。ニュースレターは無料で、毎週編集部員が会員向けのコラムなどをお送りしています。登録はこちらから。",
+    "image": "https://www.watch.impress.co.jp/img/ipw/list/2106/005/git1.jpg",
+    "fetched_at": "2026-05-05 03:54:06",
+    "ja_summary": "・AIの普及により、定額制（サブスク）から利用分のみ支払う「従量課金」へのビジネスモデル転換が進む可能性がある。\n・AIサービスの計算資源コストが高額であるため、提供側と利用者側の双方にとって合理的な価格体系として再評価されている。"
+  },
+  {
+    "title": "米国防総省の機密にAI 8社と契約",
+    "link": "https://news.yahoo.co.jp/pickup/6578446?source=rss",
+    "source": "Yahoo!ニュース IT・科学",
+    "published": "Fri, 01 May 2026 23:15:29 GMT",
+    "summary": "",
+    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/5/2/17d9c177f503002c3f40ea80b4784e7a1d64251e598336ad29467f09ac3f1974.jpg",
+    "fetched_at": "2026-05-05 03:54:20",
+    "ja_summary": "・米国防総省がAI技術導入に向け、計8社と契約を締結。\n・機密情報を含む防衛システムの高度化を加速させる狙い。\n・生成AI等の先端技術を軍事運用へ本格的に組み込む。"
+  },
+  {
+    "title": "How OpenAI delivers low-latency voice AI at scale",
+    "link": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale",
+    "source": "OpenAI",
+    "published": "Mon, 04 May 2026 00:00:00 GMT",
+    "summary": "How OpenAI rebuilt its WebRTC stack to power real-time Voice AI with low latency, global scale, and seamless conversational turn-taking.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/5LQivcsFcndtRl4EsbtnOC/116cb46f644897d9df0738cddef60dfa/Frame__23_.png?w=1600&amp;h=900&amp;fit=fill",
+    "fetched_at": "2026-05-05 03:54:25",
+    "ja_summary": "・OpenAIがリアルタイム音声AI実現のためWebRTCスタックを刷新。\n・低遅延かつグローバル規模での安定稼働を実現。\n・円滑な会話のキャッチボール（ターンテーキング）を可能にする技術基盤を構築。"
+  },
+  {
     "title": "「ChatGPT Images 2.0」 vs. 「Gemini Nano Banana」--画像生成AIの実力を比較",
     "link": "https://japan.zdnet.com/article/35246984/",
     "source": "ZDNET Japan",
@@ -968,35 +998,5 @@
     "image": "https://res.cloudinary.com/zenn/image/upload/s--LC5bheK2--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:gh%2520skill%2520%25E3%2581%25A8%2520Copilot%2520Coding%2520Agent%2520%25E3%2581%25A7%2520Agent%2520Skills%2520%25E3%2582%2592%25E8%2587%25AA%25E5%258B%2595%25E6%258E%25A8%25E8%2596%25A6%25E3%2581%2599%25E3%2582%258B%25E4%25BB%2595%25E7%25B5%2584%25E3%2581%25BF...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Masaki%2520Onishi%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzA5NTQ0OTVhMzYuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2582%25A8%25E3%2582%25AF%25E3%2582%25B5%25E3%2582%25A6%25E3%2582%25A3%25E3%2582%25B6%25E3%2583%25BC%25E3%2582%25BA%2520Tech%2520Blog%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzkyYWIxM2U5YTIuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
     "fetched_at": "2026-05-02 15:30:57",
     "ja_summary": "・GitHub CLIの新機能「gh skill」で、Copilot等のAIエージェント向け機能をコマンドから容易に管理可能になった。\n・増え続ける多種多様なAI用スキルを、適切に選択・活用するのは困難な状況にある。\n・本記事では、AIエージェントに対し、リポジトリ状況に応じた最適なスキルを自動推薦する仕組みの構築手法を解説する。"
-  },
-  {
-    "title": "Claude Codeのノウハウをサンプルコードで学ぶ ── 入門編（初心者向け）",
-    "link": "https://qiita.com/nogataka/items/59cc72e55e037d77225f",
-    "source": "Qiita (Popular)",
-    "published": "2026-04-21T14:41:53+09:00",
-    "summary": "\n## はじめに\n\nこの記事は、新人プログラマのみなさんに向けた「Claude Codeのノウハウをサンプルコードで学ぶ」シリーズの**入門編**です。シリーズは全4本で、ゆるやかにステップアップしていく構成になっています。\n\n1. **入門編（本記事）** — Claude Codeの全体像・使い方・拡張機能の地図までを一冊で理解する\n2. [中級編](https://qiita.com/nog",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYxNjEyOTglMkZjMWUzZmZkNmVhZGExOTY5ZmYzYzQ0YjE0ZmRlMDgxYmNkZTZmNTAwJTJGeF9sYXJnZS5wbmclM0YxNTg0ODQ1NTg0P2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz00ZGRjZmU5NTFjNTMyMzU3NjcyOGUzOTkyOTNmOGRlNQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D246367bff431168e6212d2602a3df494?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9Q2xhdWRlJTIwQ29kZSVFMyU4MSVBRSVFMyU4MyU4RSVFMyU4MiVBNiVFMyU4MyU4RiVFMyU4MiVBNiVFMyU4MiU5MiVFMyU4MiVCNSVFMyU4MyVCMyVFMyU4MyU5NyVFMyU4MyVBQiVFMyU4MiVCMyVFMyU4MyVCQyVFMyU4MyU4OSVFMyU4MSVBNyVFNSVBRCVBNiVFMyU4MSVCNiUyMCVFMiU5NCU4MCVFMiU5NCU4MCUyMCVFNSU4NSVBNSVFOSU5NiU4MCVFNyVCNyVBOCVFRiVCQyU4OCVFNSU4OCU5RCVFNSVCRiU4MyVFOCU4MCU4NSVFNSU5MCU5MSVFMyU4MSU5MSVFRiVCQyU4OSZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPWZhMjg0YTc5NGVjYzQ0YTQwZDVkNmQxMmZkZmMzMGQ5&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBub2dhdGFrYSZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWE5ODA4YTE0Zjg4Y2I0ZjQ5OWU2ZDA3NGYyY2E2YTNh&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=d436c1cac49280500299bb500c20795b",
-    "fetched_at": "2026-05-02 15:31:01",
-    "ja_summary": "・AIコーディングツール「Claude Code」を基礎から学べる初心者向け入門記事。\n・使い方から拡張機能の活用法まで、全体像を網羅的に解説。\n・全4回のステップアップ講座の第1弾として、導入の知識を習得可能。"
-  },
-  {
-    "title": "Linuxカーネルの脆弱性「Copy Fail (CVE-2026-31431)」をEC2のUbuntu 22.04で実証してみた",
-    "link": "https://zenn.dev/aeyesec/articles/7e4a1e3c83e81b",
-    "source": "Zenn Trends",
-    "published": "Thu, 30 Apr 2026 07:09:09 GMT",
-    "summary": "こんにちは！株式会社エーアイセキュリティラボのはるぷと申します。\n一般ユーザーがコマンド一発でrootを取れてしまうLinuxカーネルの脆弱性、CopyFail (CVE-2026-31431) が話題になっています。AIによって発見された論理バグで、汚しても問題ないEC2環境を作って実際に検証してみました。\nこの脆弱性は、 一般ユーザーがroot権限に昇格できる というものです。実行条件がとても簡単なので話題になりました。ざっくり仕組みを言うと、algif_aead・authencesn・splice() システムコールの組み合わせによって、メモリ上のページキャッシュを直接書き換えられ...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--dexWJEtS--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Linux%25E3%2582%25AB%25E3%2583%25BC%25E3%2583%258D%25E3%2583%25AB%25E3%2581%25AE%25E8%2584%2586%25E5%25BC%25B1%25E6%2580%25A7%25E3%2580%258CCopy%2520Fail%2520%2528CVE-2026-31431%2529%25E3%2580%258D%25E3%2582%2592EC2%25E3%2581%25AEUbuntu%252022.0...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E3%2581%25AF%25E3%2582%258B%25E3%2581%25B7%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzliYzQ2MGNkMjkuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E6%25A0%25AA%25E5%25BC%258F%25E4%25BC%259A%25E7%25A4%25BE%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25A2%25E3%2582%25A4%25E3%2582%25BB%25E3%2582%25AD%25E3%2583%25A5%25E3%2583%25AA%25E3%2583%2586%25E3%2582%25A3%25E3%2583%25A9%25E3%2583%259C%2520%25E9%2596%258B%25E7%2599%25BA%25E6%259C%25AC%25E9%2583%25A8%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2UyYzgyMzljMzMuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-    "fetched_at": "2026-05-02 13:37:15",
-    "ja_summary": "・Linuxカーネルの脆弱性「CopyFail」により、一般ユーザーが容易にroot権限へ昇格できる危険性が判明。\n・EC2上のUbuntu 22.04で検証した結果、特定システムコールの組み合わせでメモリの改ざんが可能なことを実証。\n・実行条件が極めて簡単なため、対象環境の早急な確認と対策が必要。"
-  },
-  {
-    "title": "東大生｢自分が書いたレポートより､全部AI任せのほうが､ずっと評価が高い｣技術革新で難関大卒のバブルは弾けたか？ | キャリア・教育 | 東洋経済オンライン",
-    "link": "https://toyokeizai.net/articles/-/942575?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-    "source": "東洋経済オンライン",
-    "published": "Sat, 02 May 2026 09:30:00 +0900",
-    "summary": "｢東大卒･京大卒｣という肩書きの価値は､AIの進化によって大きく揺らいでいます。今や入試もレポートもAIがこなす時代､それでも人間が｢頭脳を磨く｣意味とは？AIにはない\"意図\"や\"独自性\"とは何なの…",
-    "image": "https://tk.ismcdn.jp/mwimgs/4/5/1200w/img_450ea78354e4c128f47599256d054a7d194685.jpg?nextgen=false",
-    "fetched_at": "2026-05-02 10:17:37",
-    "ja_summary": "・AIが東大生のレポートと同等以上の評価を得る時代となり、学歴の価値が揺らいでいる。\n・単純な知識量や論理性ではなく、人間特有の「意図」や「独自性」の重要性が増している。\n・技術革新が進む中で、AIを使いこなしつつ、人間にしかできない価値創造へ脳を磨く必要がある。"
   }
 ]
