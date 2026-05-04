@@ -1,5 +1,45 @@
 [
   {
+    "title": "グーグル、Gemini EnterpriseとNotebookLM企業版が政府導入対象に",
+    "link": "https://www.watch.impress.co.jp/docs/news/2106364.html",
+    "source": "Impress Watch",
+    "published": "",
+    "summary": "Google Cloudは1日、生成AIサービスの「Gemini Enterprise」と「NotebookLM Enterprise」が「政府情報システムのためのセキュリティ評価制度(ISMAP)」の基準を満たし、本登録が完了したと発表した。",
+    "image": "https://www.watch.impress.co.jp/img/ipw/list/2106/364/ge1.jpg",
+    "fetched_at": "2026-05-04 22:04:22",
+    "ja_summary": "・Googleの生成AI「Gemini Enterprise」と「NotebookLM」が政府のISMAP登録を完了。\n・政府機関がこれらのAIサービスを導入可能となり、利用の幅が拡大。\n・高いセキュリティ基準を満たしたことで、行政での業務効率化が期待される。"
+  },
+  {
+    "title": "Cybersecurity in the Intelligence Age",
+    "link": "https://openai.com/index/cybersecurity-in-the-intelligence-age",
+    "source": "OpenAI",
+    "published": "Wed, 29 Apr 2026 04:00:00 GMT",
+    "summary": "OpenAI outlines a five-part action plan for strengthening cybersecurity in the Intelligence Age, focused on democratizing AI-powered cyber defense and protecting critical systems.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/64zhbS4FYJIaJ2TXQb6ztp/a538eb06a6e62b8964de2bf6d5a2e8a3/Cybersecurity_in_the_Intelligence_Age.png?w=1600&amp;h=900&amp;fit=fill",
+    "fetched_at": "2026-05-04 22:04:40",
+    "ja_summary": "・OpenAIがAI時代に向けた5項目のサイバーセキュリティ強化策を発表。\n・AIを活用した防御技術の民主化と、重要インフラの保護を重点的に推進。\n・最新AI技術をサイバー攻撃対策に役立てるための具体的な方針を提示。"
+  },
+  {
+    "title": "Anthropic names Theo Hourmouzis General Manager of Australia & New Zealand and officially opens Sydney office",
+    "link": "https://www.anthropic.com/news/theo-hourmouzis-general-manager-australia-new-zealand",
+    "source": "Anthropic (News)",
+    "published": "Mon, 27 Apr 2026 00:00:00 +0000",
+    "summary": "Anthropic names Theo Hourmouzis General Manager of Australia & New Zealand and officially opens Sydney office",
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+    "fetched_at": "2026-05-04 22:04:41",
+    "ja_summary": "・Anthropicがオーストラリア・ニュージーランド担当のGMにTheo Hourmouzis氏を任命。\n・シドニーに新オフィスを正式開設し、同地域での事業展開を本格化。\n・生成AI「Claude」の現地市場での提供とサポート体制を強化。"
+  },
+  {
+    "title": "Claude Codeで開発を自動化するSkills 5選",
+    "link": "https://qiita.com/kamome_susume/items/3b9b18e7e54f15721837",
+    "source": "Qiita (Popular)",
+    "published": "2026-04-20T18:23:27+09:00",
+    "summary": "「Claude Codeを使い始めたけど、毎回同じような指示をプロンプトに書いている気がする…」と感じていませんか？\n\nClaude Codeは素のままでも強力ですが、Skillsを使うことで**繰り返しの作業を自動化し、開発のルーティンをまるごとコマンド一発に変える**ことができます。この記事では、開発の自動化に特に役立つSkills 5選を、具体的な使いどころとともに紹介します。\n\n「毎回同じ",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYxNjkzMjQ4JTJGZDhlMmU1OWNiMDVmY2Y3MDQ3ZDgyN2ZjNDlkNDAwMTkzZTU5NDdjOSUyRnhfbGFyZ2UucG5nJTNGMTY4NjMxODg1ND9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9ZDRiNjcyYjg4ZWUxYTRkNjI1ZDRjOGFkMzVkMzQ5NjI%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Ddc9a014e564257547b64353543c58776?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9Q2xhdWRlJTIwQ29kZSVFMyU4MSVBNyVFOSU5NiU4QiVFNyU5OSVCQSVFMyU4MiU5MiVFOCU4NyVBQSVFNSU4QiU5NSVFNSU4QyU5NiVFMyU4MSU5OSVFMyU4MiU4QlNraWxscyUyMDUlRTklODElQjgmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1iZjhhMWQxNzc2M2Y2ZjVlNjVlOTMyZWIwYTdjNjZhNg&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBrYW1vbWVfc3VzdW1lJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9ZGRiZTIzN2VhYmFmZjQ1YThiNWYzYWQyMWVhNzMzOTI&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=181f777dbba3254bcb72ce65a16d7304",
+    "fetched_at": "2026-05-04 22:04:59",
+    "ja_summary": "・Claude Codeの「Skills」機能を活用すれば、繰り返し作業を自動化し開発効率を劇的に向上できる。\n・頻出するプロンプトやルーチンをコマンド一発で実行可能になる。\n・記事では開発現場で即戦力となる実用的なSkills 5選と具体的な活用法を紹介。"
+  },
+  {
     "title": "「最も手頃なMac」が消えた…AI特需で、Mac miniの最安599ドルモデルが消滅し実質的な値上げに",
     "link": "https://www.businessinsider.jp/article/07d5d76d-7250-493b-9411-b79568b6e1af/",
     "source": "Business Insider Japan",
@@ -958,45 +998,5 @@
     "image": "https://japan.zdnet.com/storage/2026/04/28/386d63897a3ed2de9c644dbbbd296bc2/t/184/138/d/chatgpt-vs-gemini_l.jpg",
     "fetched_at": "2026-05-02 08:36:41",
     "ja_summary": "「ChatGPT Images 2.0」と「Gemini Nano Banana」で9つの画像生成テストを実施。\n一般的なベンチマークには表れない、両AIの実践的な特性や違いを比較検証した。"
-  },
-  {
-    "title": "5年間のRails開発者がDDDに出会って考えが変わった話",
-    "link": "https://zenn.dev/neoai/articles/b843fc78203295",
-    "source": "Zenn Trends",
-    "published": "Fri, 01 May 2026 10:38:26 GMT",
-    "summary": "はじめに\n5年間、Ruby on RailsでMVC + Serviceパターンの API開発をしてきました。Railsの「規約に従えば爆速で動くものができる」という思想が好きで、その生産性の高さは強力な武器でした。\nそんな自分が、Python + FastAPIで構築されたDDDの実装パターン（Entity / Repository / UseCase）と、クリーンアーキテクチャをベースにしたプロダクトに関わることになりました。最初の印象は、正直に言って戸惑いでした。\n\n概念が難しい\nなんだか回りくどい\n1機能を追加するだけで変更ファイル数がやたらと多い\n\n「Railsならこれ、S...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--STN-aetr--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:5%25E5%25B9%25B4%25E9%2596%2593%25E3%2581%25AERails%25E9%2596%258B%25E7%2599%25BA%25E8%2580%2585%25E3%2581%258CDDD%25E3%2581%25AB%25E5%2587%25BA%25E4%25BC%259A%25E3%2581%25A3%25E3%2581%25A6%25E8%2580%2583%25E3%2581%2588%25E3%2581%258C%25E5%25A4%2589%25E3%2582%258F%25E3%2581%25A3%25E3%2581%259F%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Kazuki%2520Ogushi%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2ZjZjY5YTdmZDIuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:neoAI%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2ZmNTkwNmNmN2QuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-    "fetched_at": "2026-05-02 08:36:54",
-    "ja_summary": "Railsでの開発に慣れた技術者が、DDDとクリーンアーキテクチャを採用したプロジェクトに直面した際の戸惑いと学びについて。\n「規約重視」のRailsとは対照的な、DDDの「概念の複雑さ」や「ファイル数の多さ」といった設計思想の壁に直面した体験を共有。\n生産性重視のRails開発者が、保守性や堅牢性を追求するアーキテクチャへ向き合う際の葛藤と変化を綴る。"
-  },
-  {
-    "title": "社内向けAIアシスタントを3か月間試験運用してみた",
-    "link": "https://zenn.dev/mkj/articles/87c3ce556cde90",
-    "source": "Zenn Trends",
-    "published": "Fri, 01 May 2026 02:50:05 GMT",
-    "summary": "松尾研究所のからあげ（@karaage0703）です。\n松尾研究所では 2026年2月ごろから、Slack上でOpenClawライクな社内AIアシスタントソフトを、一部のプロジェクトで試験運用してきました。この記事では、AIアシスタントソフトの概要・活用例・実運用アンケート結果についてまとめたものの一部を紹介します。\n社内ツールの紹介ではありますが、「どのように業務でAIを活用していくか」という同じ悩みを持つ方の参考になれば幸いです。\n\n AIを活用して業務の負荷軽減をしたい\n松尾研究所では、共同開発案件の数が増えるにつれてPMまわりの「情報検索」「議事録・週報の作成」「PRレビューの一...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--z3QyaXmI--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E7%25A4%25BE%25E5%2586%2585%25E5%2590%2591%25E3%2581%2591AI%25E3%2582%25A2%25E3%2582%25B7%25E3%2582%25B9%25E3%2582%25BF%25E3%2583%25B3%25E3%2583%2588%25E3%2582%25923%25E3%2581%258B%25E6%259C%2588%25E9%2596%2593%25E8%25A9%25A6%25E9%25A8%2593%25E9%2581%258B%25E7%2594%25A8%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E3%2581%258B%25E3%2582%2589%25E3%2581%2582%25E3%2581%2592%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2U2NGM3ZTBkMzIuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E6%259D%25BE%25E5%25B0%25BE%25E7%25A0%2594%25E7%25A9%25B6%25E6%2589%2580%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2hDZEtvakJfZXdDTjNCV1Z0WXIteFNIZ0hmRjlXZmt3QzI5c0Y0aXYwPXMyNTAtYw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-    "fetched_at": "2026-05-02 08:36:54",
-    "ja_summary": "松尾研究所がSlackで社内AIアシスタントを試験運用した事例を紹介。\n情報検索や議事録作成などの業務効率化における活用例やアンケート結果を公開。\nAI導入による業務負荷軽減を目指す企業や担当者にとってのヒントを提示。"
-  },
-  {
-    "title": "ウォール街で広がる｢AIリストラ｣､銀行員たちの不安が現実に／アメリカ大手行の最新決算が示す残酷な現実とは | ライフ | 東洋経済オンライン",
-    "link": "https://toyokeizai.net/articles/-/942805?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-    "source": "東洋経済オンライン",
-    "published": "Sat, 02 May 2026 05:40:00 +0900",
-    "summary": "｢人間の仕事を置き換えるのではなく拡張するのがAI｣というウォール街のこれまでの表向きの立場は､直近の決算が示しているように急速に崩れつつあります。",
-    "image": "https://tk.ismcdn.jp/mwimgs/d/9/1200w/img_d9279e17c22e494a000af3a5f3d37bd1188487.jpg?nextgen=false",
-    "fetched_at": "2026-05-02 05:42:09",
-    "ja_summary": "・ウォール街で「AIは仕事の補助」という建前が崩れ、銀行員を対象とした人員削減が現実化。\n・大手銀行の最新決算から、コスト削減を目的としたAIへの本格的な置き換えが鮮明に。\n・高い専門性が求められた金融業界においても、AIによる雇用喪失の懸念が拡大している。"
-  },
-  {
-    "title": "Optimize Your Mindset (Without Overclocking)",
-    "link": "https://speakerdeck.com/tech_christine/optimize-your-mindset-without-overclocking",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-05-01T07:29:49-04:00",
-    "summary": "Blue Ridge Ruby 2026\n\n  As developers, we're always optimizing our workflows — but why don't we optimize our thoughts?\n  Your career isn't 100% code, and in the age of AI tools, constant notifications, and information\n  overload, the skills that matter most aren't technical. Everyone struggles with focus, managing\n  stress, accepting feedback, or finding time for what matters. But you don't have to stay stuck.\n\n  This talk tells the story of four people and four research-backed techniques to level up your\n  work and life: mindfulness for breaking thought loops and managing stress, growth mindset for\n  embracing challenges and continuous learning, habit building for sustainable change, and deep\n  work strategies for maintaining focus in a distracted world. Whether you're new to the field, a\n  seasoned developer, or someone who's never explored \"soft skills\" talks, these practical\n  strategies will help you grow, improve, and actually stick with new habits.",
-    "image": "https://files.speakerdeck.com/presentations/bb642cbc03c9407e9714a89eea2ad004/preview_slide_0.jpg?39280893",
-    "fetched_at": "2026-05-02 00:32:09",
-    "ja_summary": "開発者はコードだけでなく、思考も最適化すべき。\nマインドフルネス、成長マインドセット、習慣化、ディープワークで、集中力向上、ストレス軽減、成長を促進。\nAI時代こそ、ソフトスキルで仕事と人生をレベルアップ。"
   }
 ]
