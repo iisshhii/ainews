@@ -1,5 +1,65 @@
 [
   {
+    "title": "コンサルからすし職人へ…これからはブルーワーカーの時代なのか。AI時代、ホワイトカラー職の将来「不安」6割",
+    "link": "https://www.businessinsider.jp/article/2605-is-the-era-of-blue-collar-work-arriving/",
+    "source": "Business Insider Japan",
+    "published": "Tue, 05 May 2026 22:30:00 GMT",
+    "summary": "オフィスワーカーが建設や運輸、飲食など、いわゆるブルーカラーと呼ばれる現場職種にキャリアチェンジする動きが見え始めています。人材企業は「AIの台頭」を理由の一つに挙げます。",
+    "image": "https://media.loom-app.com/loom/2025/12/22/726ee49c-ba8e-48c8-8096-37ecf3e32084/original.jpg?w=1200&amp;h=630",
+    "fetched_at": "2026-05-06 07:36:24",
+    "ja_summary": "・AIの台頭により、ホワイトカラーの6割が将来に不安を抱いている。\n・オフィスワークから建設や飲食など、現場職（ブルーカラー）へ転身する動きが拡大。\n・AI時代を見据え、労働市場で現場スキルの価値が再評価され始めている。"
+  },
+  {
+    "title": "ビッグテックのAI投資は「歴史上最大の資本の誤配分だ」と著名AI研究者は警告している",
+    "link": "https://www.businessinsider.jp/article/2605-tech-ai-capex-gary-marcus-meta-msft-amzn-goog-stock/",
+    "source": "Business Insider Japan",
+    "published": "Tue, 05 May 2026 22:00:00 GMT",
+    "summary": "AI業界の著名人ゲイリー・マーカス氏は、4月末に相次いだ決算発表を機に、AIへの投資額上位企業を批判しました。AI設備投資に対するリターンが低いと警告しています。",
+    "image": "https://media.loom-app.com/loom/2026/05/01/cde51611-83e9-4217-bd6a-a735ca96e5c1/original.jpg?w=1200&amp;h=630",
+    "fetched_at": "2026-05-06 07:36:25",
+    "ja_summary": "・著名AI研究者のゲイリー・マーカス氏が、ビッグテックの巨額AI投資を「歴史上最大の資本の誤配分」と批判。\n・多額の設備投資に対し、現時点で十分な収益（リターン）が得られていないと警鐘を鳴らした。\n・AIブームの過熱と、投資回収の現実性に対する懸念が浮き彫りとなっている。"
+  },
+  {
+    "title": "「最大3倍速」と「2.24倍速」、2つのLLM高速化技術は8GBのMacBook Neoに通じるか、128GB M4 Maxでも試して得た結論（CloseBox）",
+    "link": "https://www.techno-edge.net/article/2026/05/06/5041.html",
+    "source": "TechnoEdge",
+    "published": "Wed, 06 May 2026 06:54:48 +0900",
+    "summary": "ローカルLLMの世界では、毎週のように「最大◯倍速」という見出しが流れてきます。今週飛び込んできたのは二本立てでした。",
+    "image": "https://www.techno-edge.net/imgs/rss/31240.jpg",
+    "fetched_at": "2026-05-06 07:36:36",
+    "ja_summary": "・話題のLLM高速化技術2種を検証した結果、実用面で一定の有効性を確認。\n・低スペック（8GB）から高スペック（M4 Max）まで環境を問わず導入メリットがある。\n・環境に応じて使い分けることで、ローカルLLMの動作速度を劇的に改善できる。"
+  },
+  {
+    "title": "自分なりのCSSアニメーションとの向き合い方",
+    "link": "https://zenn.dev/yui540/articles/8d19020640582d",
+    "source": "Zenn Trends",
+    "published": "Tue, 05 May 2026 10:56:26 GMT",
+    "summary": "Zenn初投稿になります。\n死ぬほど文章書くの下手なので、日本語おかしいところめちゃくちゃあると思いますが、暖かい目で見ていただけるとありがたいです…\n昨今だと「いや、AI使えよ」って話かもしれませんが、今回の内容は自分の心境なども話したいこともあり、自分の言葉で話したいので自分で書く方向にしました。また、本記事で書く内容は自分の考えであり、みんながこう考える・こうするすべきというものではなく、1人の人間の考えとして捉えてもらえるとありがたいです。\n\n 僕とCSSアニメーション\nまず、自分について少しだけ説明させてください。\n僕はyui540と申します。職業を明確にするのが、若干難しい...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--DGsQggKf--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E8%2587%25AA%25E5%2588%2586%25E3%2581%25AA%25E3%2582%258A%25E3%2581%25AECSS%25E3%2582%25A2%25E3%2583%258B%25E3%2583%25A1%25E3%2583%25BC%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3%25E3%2581%25A8%25E3%2581%25AE%25E5%2590%2591%25E3%2581%258D%25E5%2590%2588%25E3%2581%2584%25E6%2596%25B9%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:yui540%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzJhMDViMzhjZjEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-05-06 07:36:56",
+    "ja_summary": "・AIに頼らず、あえて自身の言葉でCSSアニメーションとの向き合い方を綴る個人記事。\n・執筆者の経験に基づいた独自の考えであり、個人の技術的・精神的なスタンスを共有。\n・特定の正解を提示するのではなく、一人のエンジニアの思考プロセスを紹介。"
+  },
+  {
+    "title": "C#でJavaScriptEngine+ブラウザ自作した",
+    "link": "https://zenn.dev/aakei/articles/my-scratch-browser",
+    "source": "Zenn Trends",
+    "published": "Tue, 05 May 2026 08:17:48 GMT",
+    "summary": "!\nこの記事の内容は2026/5/5時点のものです。\n文章を書くのが苦手なので、本文は半分以上AIに書いてもらいました。\n\n\n はじめに\nC# で JavaScript エンジンを書いていたら、最終的に簡単な Web サイトを表示して JavaScript も少し動くブラウザのようなものができました。\nWebView2 や Chromium Embedded Framework を使ったものではありません。JavaScript エンジン、DOM と JavaScript の接続、HTML/CSS から描画データへの変換、レイアウト、入力、HTTP リクエストまわりをほぼ C# で実装して...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--6WCiM8KZ--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:C%2523%25E3%2581%25A7JavaScriptEngine%252B%25E3%2583%2596%25E3%2583%25A9%25E3%2582%25A6%25E3%2582%25B6%25E8%2587%25AA%25E4%25BD%259C%25E3%2581%2597%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:akeit0%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzYzZWQ3M2RmOWEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-05-06 07:36:56",
+    "ja_summary": "・外部ライブラリに頼らず、C#のみでJavaScriptエンジンとブラウザを一から自作。\n・エンジンから描画、レイアウト、通信機能まで全て自前で実装。\n・簡単なWebサイトの表示とJavaScriptの実行を実現した技術的挑戦。"
+  },
+  {
+    "title": "高校生がサイゼリヤをCLIから注文できるようにした件 ─ 技術・法律・倫理を多角的に考える",
+    "link": "https://zenn.dev/yunamun/articles/7c42b5a0a29740",
+    "source": "Zenn Trends",
+    "published": "Tue, 05 May 2026 02:58:09 GMT",
+    "summary": "はじめに\n2026年5月、Xで「高校生がサイゼリヤの非公式クライアントを作り、CLI からデザートを注文することに成功した」という投稿が話題になりました。さらに、Claude Code や Codex といった AI エージェントから料理を注文できるところまで実装されており、技術界隈は「天才」「すごい」と沸く一方、「これは技術者倫理に違反していないか」「不正アクセス禁止法では？」と懸念する声も少なくありません。\nこの記事は、当事者を糾弾することが目的ではありません。「できること」と「やっていいこと」のあいだに何があるのかを、技術・法律・倫理・ビジネスの 4 つの軸で整理し、AI エー...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--yteUiLkT--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E9%25AB%2598%25E6%25A0%25A1%25E7%2594%259F%25E3%2581%258C%25E3%2582%25B5%25E3%2582%25A4%25E3%2582%25BC%25E3%2583%25AA%25E3%2583%25A4%25E3%2582%2592CLI%25E3%2581%258B%25E3%2582%2589%25E6%25B3%25A8%25E6%2596%2587%25E3%2581%25A7%25E3%2581%258D%25E3%2582%258B%25E3%2582%2588%25E3%2581%2586%25E3%2581%25AB%25E3%2581%2597%25E3%2581%259F%25E4%25BB%25B6%2520%25E2%2594%2580%2520%25E6%258A%2580%25E8%25A1%2593%25E3%2583%25BB%25E6%25B3%2595%25E5%25BE%258B%25E3%2583%25BB%25E5%2580%25AB%25E7%2590%2586%25E3%2582%2592%25E5%25A4%259A%25E8%25A7%2592%25E7%259A%2584%25E3%2581%25AB%25E8%2580%2583%25E3%2581%2588%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:yunamun%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzI1NjIwNjFmNmQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-05-06 07:36:57",
+    "ja_summary": "・高校生がサイゼリヤの非公式注文CLIを作成し、AI連携まで実現したことが話題となった。\n・技術的な凄さが評価される一方で、不正アクセスや倫理面での懸念も指摘されている。\n・「技術的に可能であること」と「許容されるべき行為」の境界を、多角的な視点から考察する。"
+  },
+  {
     "title": "Claude Codeを120%使いこなす設定3選【ECC・Memory.md・Obsidian連携】",
     "link": "https://qiita.com/manchan/items/63745b9198f1989c2a15",
     "source": "Qiita (Popular)",
@@ -938,65 +998,5 @@
     "image": "https://res.cloudinary.com/zenn/image/upload/s--y8qomhI7--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2587%25E3%2582%25B8%25E3%2582%25BF%25E3%2583%25AB%25E5%25BA%2581%25E3%2581%25AE%25E7%2594%259F%25E6%2588%2590AI%25E5%259F%25BA%25E7%259B%25A4%25E3%2580%258C%25E6%25BA%2590%25E5%2586%2585%25E3%2580%258D%25E3%2581%25AEOSS%25E3%2582%2592AWS%25E4%25B8%258A%25E3%2581%25A7%25E5%258B%2595%25E3%2581%258B%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Hosoya%2520Yusaku%2520%252F%2520Ci...%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2MzMGI2ZmU4ZmIuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
     "fetched_at": "2026-05-04 07:43:07",
     "ja_summary": "・デジタル庁の生成AI基盤「源内」のWebUIをAWSへ構築する手順と検証結果を解説。\n・半日の検証による費用感や内部構造の知見を共有し、導入検討の判断材料を提供。\n・行政DXの現場担当者が技術的な実態を把握し、議論を円滑に進めるための実践ガイド。"
-  },
-  {
-    "title": "WordやExcelだけじゃない！　「プロンプト不要」で使えるMicrosoft 365 CopilotのニッチなAI機能",
-    "link": "https://www.itmedia.co.jp/business/articles/2605/04/news006.html",
-    "source": "ITmedia ビジネス",
-    "published": "Mon, 04 May 2026 06:00:00 +0900",
-    "summary": "Microsoft 365のいろいろなアプリでCopilotアイコンを見かけるものの、あまり使いこなせていません。便利な使い方はありますか？",
-    "image": "https://image.itmedia.co.jp/business/articles/2605/04/cover_news006.jpg",
-    "fetched_at": "2026-05-04 06:58:32",
-    "ja_summary": "・Microsoft 365のCopilotは、文章指示（プロンプト）なしでボタン一つで実行できる機能が充実。\n・「データの要約」「見出しの装飾」「表の作成」など、直感的なクリック操作で作業を効率化可能。\n・アプリ内の専用メニューから、入力不要のワンタップ機能を活用するのが時短のコツ。"
-  },
-  {
-    "title": "私は転職活動のために700件の求人情報をフィルタリングするツールを作った。おかげでAI部門の責任者の職を得ることができました",
-    "link": "https://www.businessinsider.jp/article/how-i-built-tool-filter-job-listings-landed-head-ai/",
-    "source": "Business Insider Japan",
-    "published": "Sun, 03 May 2026 21:50:00 GMT",
-    "summary": "スペインのある求職者が、求職活動をより効率的に行うためのAIツールを開発しました。オープンソースで公開し、コミュニティに支えられたツールのおかげで、彼はAI部門の責任者の職を得ることができました。",
-    "image": "https://media.loom-app.com/loom/2026/04/28/c7203822-366b-4f13-bc0d-cad6c7656bce/original.jpg?w=1200&amp;h=630",
-    "fetched_at": "2026-05-04 06:58:49",
-    "ja_summary": "・スペインの求職者が、効率的に求人を選別するAIツールを自作して公開。\n・コミュニティの協力を得て改良を重ね、自身のスキルを証明。\n・結果として、AI部門の責任者という理想の職を勝ち取った。"
-  },
-  {
-    "title": "【社内文書を入手】アマゾン、エンジニアのAI活用を詳細に追跡…生産性向上と現場の摩擦",
-    "link": "https://www.businessinsider.jp/article/2605-amazon-tracks-ai-use-engineers-internal-friction/",
-    "source": "Business Insider Japan",
-    "published": "Sun, 03 May 2026 21:45:00 GMT",
-    "summary": "アマゾンはエンジニアによるAIの利用状況を詳細に追跡し、導入状況や利用習慣を生産性目標と結びつけ、社内の反発にも対処しています。",
-    "image": "https://media.loom-app.com/loom/2026/04/27/8d64ae87-67a1-436c-bf0f-452acf9c8063/original.jpg?w=1200&amp;h=630",
-    "fetched_at": "2026-05-04 06:58:49",
-    "ja_summary": "・アマゾンがエンジニアのAI利用状況を詳細に追跡し、生産性目標と連動させている。\n・データに基づいた業務効率化を推進する一方、社内からは監視に対する反発も出ている。"
-  },
-  {
-    "title": "殺傷能力を持つ兵器の輸出解禁は｢平和国家｣と矛盾するのか――軍事の現実から考えたい6つの論点 | ビジネス | 東洋経済オンライン",
-    "link": "https://toyokeizai.net/articles/-/942229?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-    "source": "東洋経済オンライン",
-    "published": "Mon, 04 May 2026 05:30:00 +0900",
-    "summary": "日本政府が武器輸出の枠組みを大きく見直しました。｢平和国家｣と武器輸出の関係を､ベテラン軍事ジャーナリストが軍事の実情を踏まえながら検討します。（このリード文はAIが作成しました）",
-    "image": "https://tk.ismcdn.jp/mwimgs/2/4/1200w/img_2473cb89c52b0c487932c509be2ef41f603237.jpg?nextgen=false",
-    "fetched_at": "2026-05-04 06:00:51",
-    "ja_summary": "・政府による武器輸出解禁が「平和国家」の理念とどう整合するかを多角的に検証。\n・軍事ジャーナリストの視点から、現実的な国際情勢と安全保障のあり方を考察。\n・武器輸出の緩和がもたらす影響や論点を6つの軸で整理した解説記事。"
-  },
-  {
-    "title": "企業のビジネスはAI中心の自律型へシフト--ガートナー予測",
-    "link": "https://japan.zdnet.com/article/35247103/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "ガートナーの調査によれば、AIによって自律型ビジネスへ移行すると考えるCEOが大半を占め、CIOには、AIを相手にビジネスを行う仕組み作りが求められている。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35247103/\"><img src=\"https://japan.zdnet.com/storage/2025/10/09/60478e248ca20b13795f871513cee7f9/t/184/138/d/251009_ai_as_1280_323829966.jpeg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2025/10/09/60478e248ca20b13795f871513cee7f9/t/184/138/d/251009_ai_as_1280_323829966.jpeg",
-    "fetched_at": "2026-05-03 21:03:33",
-    "ja_summary": "・多くの経営者がAI主導の自律型ビジネスへの移行を予測。\n・AIがビジネスの主役となる未来に向けた仕組み構築が不可欠。\n・CIOはAIを前提とした新たな業務プロセスの設計を急ぐ必要がある。"
-  },
-  {
-    "title": "スマホからフィジカルAIへ。人型ロボットマラソン大会で優勝したHONORの描く未来(山根康宏)",
-    "link": "https://www.techno-edge.net/article/2026/05/01/5037.html",
-    "source": "TechnoEdge",
-    "published": "Fri, 01 May 2026 12:12:22 +0900",
-    "summary": "HONORのヒューマノイドロボットLightningがハーフマラソンで人間の記録超え、AIとスマートデバイスの連携を示す勝利となった。",
-    "image": "https://www.techno-edge.net/imgs/rss/31198.jpg",
-    "fetched_at": "2026-05-03 20:25:46",
-    "ja_summary": "・HONORの人型ロボット「Lightning」がハーフマラソンで人間の記録を更新。\n・スマホ技術を応用した制御により、AIとハードウェアの高度な連携を証明。\n・デバイスの枠を超え、現実空間で活動する「フィジカルAI」の進化を提示した。"
   }
 ]
