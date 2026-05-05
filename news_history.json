@@ -1,5 +1,65 @@
 [
   {
+    "title": "高給な管理職こそあぶない？　AI時代、真っ先になくなる3つの「間接部門」",
+    "link": "https://www.itmedia.co.jp/business/articles/2605/06/news003.html",
+    "source": "ITmedia ビジネス",
+    "published": "Wed, 06 May 2026 08:00:00 +0900",
+    "summary": "AI時代に真っ先に削減の対象となる間接部門とはどこか、そして、それでも生き残るために何が必要か。",
+    "image": "https://image.itmedia.co.jp/business/articles/2605/06/cover_news003.jpg",
+    "fetched_at": "2026-05-06 08:30:38",
+    "ja_summary": "・AI導入で「経理・人事・法務」などの間接業務は代替され、高給な管理職ほど淘汰のリスクが高い。\n・単なる「管理」や「調整」を行うだけの役割は不要となる。\n・生き残るには、AIを使いこなし、売上に直結する付加価値や独自の意思決定力を磨く必要がある。"
+  },
+  {
+    "title": "質問力こそ、AI時代の最強の武器　生成AIから「使える提案」を引き出す8つのプロンプト例",
+    "link": "https://www.itmedia.co.jp/business/articles/2605/06/news001.html",
+    "source": "ITmedia ビジネス",
+    "published": "Wed, 06 May 2026 08:00:00 +0900",
+    "summary": "生成AIに質問しても、どこか物足りない答えしか返ってこない――そんな経験はないだろうか。原因はAIの性能ではなく「質問の立て方」にあるのかもしれない。ありがちな回答を脱し、実務で使える提案を引き出すには何が必要か。生成AIを“使えるパートナー”に変える「質問のコツ」と、すぐに実践できる8つのプロンプト例を解説する。",
+    "image": "https://image.itmedia.co.jp/business/articles/2605/06/cover_news001.jpg",
+    "fetched_at": "2026-05-06 08:30:39",
+    "ja_summary": "・生成AIから質の高い回答を得るには、AIの能力ではなく「質問力（プロンプトの立て方）」が重要。\n・単なる回答で終わらせず、実務で使える提案を引き出すためのコツを解説。\n・すぐに実践可能な8つのプロンプト例を通じて、AIを効率的な仕事のパートナーに変える。"
+  },
+  {
+    "title": "GPT‑5.5 Instant の概要",
+    "link": "https://note.com/npaka/n/nf19bb3ea10d5",
+    "source": "note (npaka)",
+    "published": "Wed, 06 May 2026 08:15:08 +0900",
+    "summary": "<p id=\"ff68afc3-9676-4320-afb7-399558127d81\" name=\"ff68afc3-9676-4320-afb7-399558127d81\">以下の記事が面白かったので、簡単にまとめました。</p><figure id=\"e2e39517-84c9-4a32-b831-c9ccf67724ab\" name=\"e2e39517-84c9-4a32-b831-c9ccf67724ab\"><blockquote><p id=\"6fc6b399-2193-481b-8a99-b4d55f9af5de\" name=\"6fc6b399-2193-481b-8a99-b4d55f9af5de\"><strong>・</strong><a href=\"https://openai.com/index/gpt-5-5-instant/\" rel=\"nofollow noopener\" target=\"_blank\"><strong>GPT‑5.5 Instant: smarter, clearer, and more personalized</strong></a></p></blockquote>\n<figcaption></figcaption></figure><br /><a href=\"https://note.com/npaka/n/nf19bb3ea10d5\">続きをみる</a>",
+    "image": "https://assets.st-note.com/production/uploads/images/273412238/rectangle_large_type_2_4c24c6a0f94defc6f203e206e3f887f6.png?width=800",
+    "fetched_at": "2026-05-06 08:30:55",
+    "ja_summary": "・OpenAIが新モデル「GPT-5.5 Instant」を発表。\n・従来より高い推論能力と明瞭な回答性能を実現。\n・ユーザーの嗜好を学習するパーソナライズ機能が強化された。"
+  },
+  {
+    "title": "Gemma 4 MTP Drafters の概要",
+    "link": "https://note.com/npaka/n/n7e64b803037c",
+    "source": "note (npaka)",
+    "published": "Wed, 06 May 2026 07:58:06 +0900",
+    "summary": "<p id=\"c602ea83-c066-489c-bc0a-97f409e77fcb\" name=\"c602ea83-c066-489c-bc0a-97f409e77fcb\">以下の記事が面白かったので、簡単にまとめました。</p><figure id=\"5916daca-9a76-48c3-b416-f1a1a61fbe6b\" name=\"5916daca-9a76-48c3-b416-f1a1a61fbe6b\"><blockquote><p id=\"bf65b196-cbad-4464-9870-d695ee2e84b7\" name=\"bf65b196-cbad-4464-9870-d695ee2e84b7\"><strong>・</strong><a href=\"https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/\" rel=\"nofollow noopener\" target=\"_blank\"><strong>Accelerating Gemma 4: faster inference with multi-token prediction drafters</strong></a></p></blockquote>\n<figcaption></figcaption></figure><br /><a href=\"https://note.com/npaka/n/n7e64b803037c\">続きをみる</a>",
+    "image": "https://assets.st-note.com/production/uploads/images/273407933/rectangle_large_type_2_51caffbb80ee8dd5082bb656aa421f30.png?width=800",
+    "fetched_at": "2026-05-06 08:30:55",
+    "ja_summary": "・Googleが「Gemma 2」の推論を高速化する技術「Multi-Token Prediction（MTP）Drafters」を公開。\n・一度に複数のトークンを予測・生成することで、推論時間を大幅に短縮。\n・低遅延が求められるアプリケーション開発において、効率的なAIモデル運用が可能になる。"
+  },
+  {
+    "title": "企業のビジネスはAI中心の自律型へシフト--ガートナー予測",
+    "link": "https://japan.zdnet.com/article/35247103/",
+    "source": "ZDNET Japan",
+    "published": "",
+    "summary": "ガートナーの調査によれば、AIによって自律型ビジネスへ移行すると考えるCEOが大半を占め、CIOには、AIを相手にビジネスを行う仕組み作りが求められている。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35247103/\"><img src=\"https://japan.zdnet.com/storage/2025/10/09/60478e248ca20b13795f871513cee7f9/t/184/138/d/251009_ai_as_1280_323829966.jpeg\" /></a>",
+    "image": "https://japan.zdnet.com/storage/2025/10/09/60478e248ca20b13795f871513cee7f9/t/184/138/d/251009_ai_as_1280_323829966.jpeg",
+    "fetched_at": "2026-05-06 08:31:00",
+    "ja_summary": "・多くのCEOがAI主導の自律型ビジネスへの移行を予測。\n・AIがビジネスの主役となる新時代が到来。\n・CIOには、AIを前提とした新たな業務基盤の構築が求められる。"
+  },
+  {
+    "title": "スマホからフィジカルAIへ。人型ロボットマラソン大会で優勝したHONORの描く未来(山根康宏)",
+    "link": "https://www.techno-edge.net/article/2026/05/01/5037.html",
+    "source": "TechnoEdge",
+    "published": "Fri, 01 May 2026 12:12:22 +0900",
+    "summary": "HONORのヒューマノイドロボットLightningがハーフマラソンで人間の記録超え、AIとスマートデバイスの連携を示す勝利となった。",
+    "image": "https://www.techno-edge.net/imgs/rss/31198.jpg",
+    "fetched_at": "2026-05-06 08:31:01",
+    "ja_summary": "・HONORのヒューマノイドロボットがハーフマラソンで人間の記録を更新し優勝。\n・スマホとAIを組み合わせた「フィジカルAI」の実用性を証明。\n・デバイスとロボットが連携する、HONORが目指す未来の可能性を示した。"
+  },
+  {
     "title": "コンサルからすし職人へ…これからはブルーワーカーの時代なのか。AI時代、ホワイトカラー職の将来「不安」6割",
     "link": "https://www.businessinsider.jp/article/2605-is-the-era-of-blue-collar-work-arriving/",
     "source": "Business Insider Japan",
@@ -938,65 +998,5 @@
     "image": "https://images.ctfassets.net/kftzwdyauwt9/6Qdod1sP2lAXzlwaRnglBQ/95090ca1ad0eeca76034c16cb451106d/oai-aws-16x9.png?w=1600&amp;h=900&amp;fit=fill",
     "fetched_at": "2026-05-04 08:28:25",
     "ja_summary": "・AWS上でOpenAIのGPTモデルやCodex、Managed Agentsが利用可能に。\n・企業はセキュアなAWS環境内で、直接AIアプリケーションを構築・運用できる。\n・クラウド基盤との連携により、開発の効率化とセキュリティの両立を実現。"
-  },
-  {
-    "title": "Anthropic and Amazon expand collaboration for up to 5 gigawatts of new compute",
-    "link": "https://www.anthropic.com/news/anthropic-amazon-compute",
-    "source": "Anthropic (News)",
-    "published": "Mon, 20 Apr 2026 00:00:00 +0000",
-    "summary": "Anthropic and Amazon expand collaboration for up to 5 gigawatts of new compute",
-    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20Stairs&amp;backgroundColor=cactus",
-    "fetched_at": "2026-05-04 08:28:26",
-    "ja_summary": "・AmazonとAnthropicが提携を拡大し、AI開発に向け最大5ギガワット規模の計算能力を確保。\n・次世代AIモデルの学習・運用に必要な膨大なインフラを両社で共同構築。\n・クラウド分野での両社の連携を強化し、AI開発競争での主導権を狙う。"
-  },
-  {
-    "title": "ChatGPTに「高度なアカウントセキュリティ」　パスキーなどで乗っ取り対策強化",
-    "link": "https://www.watch.impress.co.jp/docs/news/2106090.html",
-    "source": "Impress Watch",
-    "published": "",
-    "summary": "OpenAIは30日(米国時間)、ChatGPTアカウント向けの新設定「高度なアカウント セキュリティ」を提供開始した。Web版ChatGPTのセキュリティ設定から登録でき、同じログインで利用するCodexにも保護が適用される。",
-    "image": "https://www.watch.impress.co.jp/img/ipw/list/2106/090/1.jpg",
-    "fetched_at": "2026-05-04 07:42:35",
-    "ja_summary": "・OpenAIがChatGPTに「高度なアカウントセキュリティ」機能を追加。\n・パスキーなどの導入により、アカウント乗っ取り対策が強化された。\n・Web版のセキュリティ設定から設定可能で、関連サービスにも保護が適用される。"
-  },
-  {
-    "title": "ChatGPTはなぜ「ゴブリン」に執着したのか　OpenAIが明かした不具合の正体",
-    "link": "https://japan.cnet.com/article/35247093/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "「ChatGPT」は、妙なほどゴブリンに執着していた。開発元のOpenAIが原因を調べて修正に乗り出すほどだった。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35247093/\"><img src=\"https://japan.cnet.com/storage/2026/05/01/31a1ed808af9dbaacf929c7b3d472794/t/184/138/d/gptgpt-6_1280x960.jpg\" /></a>",
-    "image": "https://japan.cnet.com/storage/2026/05/01/31a1ed808af9dbaacf929c7b3d472794/t/184/138/d/gptgpt-6_1280x960.jpg",
-    "fetched_at": "2026-05-04 07:42:38",
-    "ja_summary": "・ChatGPTが特定の単語や話題（ゴブリン）に異常な執着を見せる不具合が発生。\n・OpenAIが原因を特定し、修正対応を実施。\n・現在は不具合が解消され、正常な動作に戻っている。"
-  },
-  {
-    "title": "アップル、「iOS 27」でiPhoneカメラのAI機能を大幅刷新か",
-    "link": "https://japan.cnet.com/article/35247037/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "アップルは、次期「iOS 27」アップデートで「iPhone」向けカメラ機能を大幅に刷新する計画だと報じられている。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35247037/\"><img src=\"https://japan.cnet.com/storage/2026/04/30/d6fd40bfa00ff3d4df494dd66687898d/t/184/138/d/vi-screenshots_1280x960.jpg\" /></a>",
-    "image": "https://japan.cnet.com/storage/2026/04/30/d6fd40bfa00ff3d4df494dd66687898d/t/184/138/d/vi-screenshots_1280x960.jpg",
-    "fetched_at": "2026-05-04 07:42:38",
-    "ja_summary": "・アップルが次期「iOS 27」でiPhoneのカメラ機能を大幅刷新へ。\n・AI技術の導入により、撮影体験の強化が図られる見通し。"
-  },
-  {
-    "title": "漫画のネームを 3 大 AI に競作させたい — コーディング CLI を並列で走らせる nemu-kaigi の実装事例",
-    "link": "https://zenn.dev/yatmita/articles/nemu-kaigi-llm-content-voting",
-    "source": "Zenn Trends",
-    "published": "Sat, 02 May 2026 21:54:53 GMT",
-    "summary": "はじめに — コーディング CLI で漫画を書いている話\nコーディング向けの CLI (Command Line Interface — ターミナルから実行する開発者向けの対話ツール) で、漫画のネーム (コマ割り・セリフ・演出指示) を書かせている、と言うと結構驚かれる。設計の基本は、いま「3 大 AI ベンダー」と呼ばれる Anthropic / OpenAI / Google が公式提供しているコーディング CLI を 並列に走らせて、同じシナリオから別々のネーム案を出させる ことだ。具体的には:\n\n\nClaude Code (Anthropic) — LLM (Claude)...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--ir4rTURg--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E6%25BC%25AB%25E7%2594%25BB%25E3%2581%25AE%25E3%2583%258D%25E3%2583%25BC%25E3%2583%25A0%25E3%2582%2592%25203%2520%25E5%25A4%25A7%2520AI%2520%25E3%2581%25AB%25E7%25AB%25B6%25E4%25BD%259C%25E3%2581%2595%25E3%2581%259B%25E3%2581%259F%25E3%2581%2584%2520%25E2%2580%2594%2520%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2587%25E3%2582%25A3%25E3%2583%25B3%25E3%2582%25B0%2520CLI%2520%25E3%2582%2592%25E4%25B8%25A6%25E5%2588%2597%25E3%2581%25A7%25E8%25B5%25B0%25E3%2582%2589%25E3%2581%259B%25E3%2582%258B%2520nemu-kaigi%2520%25E3%2581%25AE...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:yatmita%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSklmUHlyMko0aDBSSHBXV1p6M1BRa0ZzdlJRREFZOWtTNmpZTUxxaHJURmhhUk1Xdz1zMjUwLWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-    "fetched_at": "2026-05-04 07:43:06",
-    "ja_summary": "・開発者向けCLIを活用し、主要3社（Anthropic/OpenAI/Google）のAIに同じシナリオから漫画のネームを並列生成させる手法を構築。\n・AIごとの異なる提案を比較・活用することで、漫画制作の効率化と演出の幅を広げている。"
-  },
-  {
-    "title": "デジタル庁の生成AI基盤「源内」のOSSをAWS上で動かしてみた話",
-    "link": "https://zenn.dev/hosoyayusaku/articles/25ec9a4a6fa1c9",
-    "source": "Zenn Trends",
-    "published": "Sat, 02 May 2026 14:25:44 GMT",
-    "summary": "🎯 この記事の対象読者\n\n自治体や行政機関のデジタル部門で、源内に関心を持っている職員の方\n事業者さんから提案を受ける前に、まず仕組みを自分の目で確認しておきたい方\nAWSや生成AI基盤の構築に関わるエンジニアの方\n行政DXの現場で「実際に動くもの」を起点に議論を進めたい方\n\n\n 💡 この記事を読むと得られること\n\n源内Web(インターフェース部分)を自分のAWS環境にデプロイする際の手順、所要時間\n半日の検証で発生した費用の目安\n動かしてみて見えた、内部構造の解説\n自治体で導入を検討する際に、技術担当として確認しておくと有益そうな観点\n\n\n 🚀 はじめに：なぜこの記事を書いたか\n2...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--y8qomhI7--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2587%25E3%2582%25B8%25E3%2582%25BF%25E3%2583%25AB%25E5%25BA%2581%25E3%2581%25AE%25E7%2594%259F%25E6%2588%2590AI%25E5%259F%25BA%25E7%259B%25A4%25E3%2580%258C%25E6%25BA%2590%25E5%2586%2585%25E3%2580%258D%25E3%2581%25AEOSS%25E3%2582%2592AWS%25E4%25B8%258A%25E3%2581%25A7%25E5%258B%2595%25E3%2581%258B%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Hosoya%2520Yusaku%2520%252F%2520Ci...%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2MzMGI2ZmU4ZmIuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-    "fetched_at": "2026-05-04 07:43:07",
-    "ja_summary": "・デジタル庁の生成AI基盤「源内」のWebUIをAWSへ構築する手順と検証結果を解説。\n・半日の検証による費用感や内部構造の知見を共有し、導入検討の判断材料を提供。\n・行政DXの現場担当者が技術的な実態を把握し、議論を円滑に進めるための実践ガイド。"
   }
 ]
