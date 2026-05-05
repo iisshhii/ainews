@@ -1,5 +1,45 @@
 [
   {
+    "title": "目指せ自分専用アプリ! まずは何をつくる? ゼロから始めるAIコーディング(1)",
+    "link": "https://www.watch.impress.co.jp/docs/topic/2104942.html",
+    "source": "Impress Watch",
+    "published": "",
+    "summary": "AIツールでソフトウェア開発する、いわゆる「AIコーディング」や「バイブコーディング」が話題になっています。でも、「なんとなく難しそう」「どこから始めればいいのか分からない」と諦めてしまっている人も少なくないでしょう。",
+    "image": "https://www.watch.impress.co.jp/img/ipw/list/2104/942/c001.jpg",
+    "fetched_at": "2026-05-06 02:47:18",
+    "ja_summary": "・AIによるソフトウェア開発が話題だが、未経験者にはハードルが高いと感じられがち。\n・「AIコーディング」の基本をゼロから学び、自分専用のアプリ開発を目指すための連載。\n・何から手をつければ良いか分からない初心者へ、開発の始め方を分かりやすく解説。"
+  },
+  {
+    "title": "GPT-5.5 Instant: smarter, clearer, and more personalized",
+    "link": "https://openai.com/index/gpt-5-5-instant",
+    "source": "OpenAI",
+    "published": "Tue, 05 May 2026 10:00:00 GMT",
+    "summary": "GPT-5.5 Instant updates ChatGPT’s default model with smarter, more accurate answers, reduced hallucinations, and improved personalization controls.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/360kMX00WHnA5T0OV55dEf/72aedfc1c8d09cbc8662acd8af2e2afc/20250822.jpg?w=1600&amp;h=900&amp;fit=fill",
+    "fetched_at": "2026-05-06 02:47:34",
+    "ja_summary": "・ChatGPTの標準モデルが「GPT-5.5 Instant」へ刷新\n・回答の精度向上とハルシネーション（誤情報）の抑制を実現\n・ユーザーの好みに合わせたパーソナライズ機能が強化"
+  },
+  {
+    "title": "Claude for Creative Work",
+    "link": "https://www.anthropic.com/news/claude-for-creative-work",
+    "source": "Anthropic (News)",
+    "published": "Tue, 28 Apr 2026 00:00:00 +0000",
+    "summary": "Claude for Creative Work",
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20ShapeArrow&amp;backgroundColor=cactus",
+    "fetched_at": "2026-05-06 02:47:42",
+    "ja_summary": "・AIモデル「Claude」を活用したクリエイティブ業務の効率化・高度化を支援。\n・文章作成やアイデア出し、コンテンツ編集などの作業をAIが強力にサポート。\n・創造的なプロセスを最適化し、ビジネスにおける生産性と品質を向上させる。"
+  },
+  {
+    "title": "【Claude Code入門】今から追いつくClaude Code 徹底解説",
+    "link": "https://qiita.com/i-inose/items/e644e9b620ee1c8d3c1b",
+    "source": "Qiita (Popular)",
+    "published": "2026-04-27T18:58:22+09:00",
+    "summary": "\n## はじめに\n\nこの記事は、Claude Code を使い始めたいエンジニアのための入門ガイドです。\n\n「名前は聞いたことがあるけれど、なんとなく乗り遅れた気がして触れていない」という方に向けて書きました。Claude Code は 2025 年 3 月にベータ公開が始まり、今も活発に機能が追加され続けているツールです。今から始めても、十分に最前線を体験できます。\n\nこの記事の対象読者です。\n",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYyNzM3MDU1JTJGMmRhZmNlMzcyYjViYjhiYjVhMWM5ZWMwMmFkNzQyYzIwZjkzMjJiOCUyRnhfbGFyZ2UucG5nJTNGMTc1MTYxMzgyNj9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9ZDA0ZDI4ZjkyYTAzYTZhNjY0NjJhOGRmMDI4MDk1ZWQ%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYxZTIwZGI1ZTdlNDA3ZWFlN2I5NzBlYzk5OTg4MGRjOGMzY2MwZjY0JTJGb3JpZ2luYWwuanBnJTNGMTY2NzI3NDk2Mz9peGxpYj1yYi00LjAuMCZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz0xMzQ4OTg3MjlkMzMwYTdiNWRhMzRkOGU2MzVmZjIxOA%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D66b59b0ea406aee68a1154031be0c0be?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJTkwQ2xhdWRlJTIwQ29kZSVFNSU4NSVBNSVFOSU5NiU4MCVFMyU4MCU5MSVFNCVCQiU4QSVFMyU4MSU4QiVFMyU4MiU4OSVFOCVCRiVCRCVFMyU4MSU4NCVFMyU4MSVBNCVFMyU4MSU4RkNsYXVkZSUyMENvZGUlMjAlRTUlQkUlQjklRTUlQkElOTUlRTglQTclQTMlRTglQUElQUMmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz05ZmJjZTRiMDFiZjcyMDcyNmQ1YzQyMmUzYTI0ZWEwMg&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBpLWlub3NlJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9MmIxMzY4YTE4OWM3Yjg5NDQwYjM0ZWNmNTdjY2I5YTE&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=S0RESeOCouOCuOODo-OCpOODq-mWi-eZuuOCu-ODs-OCv-ODvOagquW8j-S8muekvg&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=283ec2bce88f6a89a40e5f13ce38f3c6",
+    "fetched_at": "2026-05-06 02:47:58",
+    "ja_summary": "・Claude Codeはエンジニア向けのAIコーディングツールで、現在も進化を続けている。\n・未導入でも今から十分に活用可能であり、開発現場の最前線を体験できる。\n・本記事は、導入を迷っているエンジニアに向けた徹底解説ガイドである。"
+  },
+  {
     "title": "米政府 新AIモデルを事前審査へ",
     "link": "https://news.yahoo.co.jp/pickup/6578940?source=rss",
     "source": "Yahoo!ニュース IT・科学",
@@ -958,45 +998,5 @@
     "image": "https://res.cloudinary.com/zenn/image/upload/s--v_RjM8Lc--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AWS%2520Security%2520Agent%25E3%2581%25A7AI%25E3%2581%25AB%25E3%2582%2588%25E3%2582%258B%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25E3%2581%25A8%25E3%2583%259A%25E3%2583%258D%25E3%2583%2588%25E3%2583%25AC%25E3%2583%25BC%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E3%2582%2592%25E3%2582%2584%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E5%25B0%258F%25E5%25B1%25B1%25E9%259B%2584%25E5%25A4%25AA%25EF%25BC%2588%25E6%25A0%25AA%25E5%25BC%258F%25E4%25BC%259A%25E7%25A4%25BERE-HEART%25EF%25BC%2589%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzdkZDE3MmYyNzkuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
     "fetched_at": "2026-05-03 19:38:11",
     "ja_summary": "AWS Security Agentの「設計レビュー・コードレビュー・ペネトレーションテスト」機能を、脆弱なアプリで検証した実践記事。\nAIによる脆弱性検出のプロセスや具体的な結果を画面付きで解説している。\n再現手順をまとめたZenn Bookへのリンクもあり、実際にツールを試す際のガイドとして活用できる。"
-  },
-  {
-    "title": "Codex のiOSアプリ開発のためのプロンプトまとめ",
-    "link": "https://note.com/npaka/n/n51962b239b68",
-    "source": "note (npaka)",
-    "published": "Fri, 01 May 2026 09:14:37 +0900",
-    "summary": "<p id=\"9293b8c2-4962-4e43-83b8-fcd4ff3d55f1\" name=\"9293b8c2-4962-4e43-83b8-fcd4ff3d55f1\">以下の記事が面白かったので、簡単にまとめました。</p><figure id=\"a61b6dff-42f8-4056-8c41-6d3b4b3af572\" name=\"a61b6dff-42f8-4056-8c41-6d3b4b3af572\"><blockquote><p id=\"530aacec-5caa-4fb9-8d2a-6a394c10b383\" name=\"530aacec-5caa-4fb9-8d2a-6a394c10b383\"><strong>・</strong><a href=\"https://developers.openai.com/codex/use-cases/collections/native-development\" rel=\"nofollow noopener\" target=\"_blank\"><strong>Native development – Codex | OpenAI Developers</strong></a></p></blockquote>\n<figcaption></figcaption></figure><br /><a href=\"https://note.com/npaka/n/n51962b239b68\">続きをみる</a>",
-    "image": "https://assets.st-note.com/production/uploads/images/271938172/rectangle_large_type_2_ac184be5736fee7dea45227c11ddb964.png?width=800",
-    "fetched_at": "2026-05-03 18:44:55",
-    "ja_summary": "OpenAIの「Codex」を活用し、iOSアプリを効率的に開発するためのプロンプト集が公開されました。\n主要なコード生成の手法やユースケースがまとめられており、開発の自動化や効率化に役立ちます。\n詳細はOpenAI公式サイトのナレッジベースおよび解説記事で確認可能です。"
-  },
-  {
-    "title": "ニュータニックスCEOが語る「AIファクトリーへの貢献」の中身とは",
-    "link": "https://japan.zdnet.com/article/35247083/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "今回は、Nutanix プレジデント 兼 CEOのRajiv Ramaswami氏と、富士通 富士通研究所 フィジカルAI研究所 所長の鈴木源太氏の「明言」を紹介する。\n<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35247083/\"><img src=\"https://japan.zdnet.com/storage/2026/05/01/d18da2432602f744cabba3a21a3854d6/t/184/138/d/sp_13matsuokaopinion_260501_l.jpg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2026/05/01/d18da2432602f744cabba3a21a3854d6/t/184/138/d/sp_13matsuokaopinion_260501_l.jpg",
-    "fetched_at": "2026-05-03 18:44:59",
-    "ja_summary": "Nutanix CEOと富士通の研究者が、AIを効率的に構築・運用する「AIファクトリー」の重要性について語った。\nハイブリッドクラウド技術を活用し、企業がAIの実装やデータ活用を加速させるための戦略が示されている。\nITインフラの最適化を通じ、次世代のAI活用基盤をどう構築すべきかが鍵となっている。"
-  },
-  {
-    "title": "Anthropic、「Claude Security」を発表--脆弱性スキャンからパッチ生成までを自動化",
-    "link": "https://japan.zdnet.com/article/35247092/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "Anthropicは新たな防御型サイバーセキュリティ製品「Claude Security」を発表した。「Claude Opus 4.7」モデルを使い「コードベースをスキャンして脆弱性を検出し、ターゲットを絞ったパッチを生成する」ことができるという。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35247092/\"><img src=\"https://japan.zdnet.com/storage/2026/05/01/044e4aa369b4f6c1de1be6d3cde0556d/t/184/138/d/claude-security-2_1280.jpg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2026/05/01/044e4aa369b4f6c1de1be6d3cde0556d/t/184/138/d/claude-security-2_1280.jpg",
-    "fetched_at": "2026-05-03 18:44:59",
-    "ja_summary": "・AnthropicがAIを活用したセキュリティ製品「Claude Security」を発表。\n・「Claude Opus 4.7」がコードの脆弱性を自動スキャンし、修正パッチを生成。\n・セキュリティ運用を自動化し、脆弱性対策の効率と精度を向上させる。"
-  },
-  {
-    "title": "小学校教育へのAI導入は問題だらけ､早期のAI教育によって恩恵を受けるのは生徒ではなくテクノロジー企業だ | 政治・経済・投資 | 東洋経済オンライン",
-    "link": "https://toyokeizai.net/articles/-/943422?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-    "source": "東洋経済オンライン",
-    "published": "Sun, 03 May 2026 17:00:00 +0900",
-    "summary": "アジア各国で加速する小学校教育へのAI導入。その背後には｢乗り遅れる恐怖｣や親の不安､企業の利害が複雑に絡み､幼い子供たちが実験台となるリスクも指摘されています。",
-    "image": "https://tk.ismcdn.jp/mwimgs/c/9/1200w/img_c988b4c7c814c7adcf0521ab235403ef836895.jpg?nextgen=false",
-    "fetched_at": "2026-05-03 17:18:09",
-    "ja_summary": "・アジアで進む小学校へのAI導入は、親の不安や企業の利益が先行し、子供が実験台となるリスクがある。\n・教育現場でのAI活用は、生徒の成長よりもテクノロジー企業の利益を優先している懸念が強い。\n・「乗り遅れることへの恐怖」だけで拙速に導入を進める現状に警鐘が鳴らされている。"
   }
 ]
