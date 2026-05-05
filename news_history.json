@@ -1,5 +1,55 @@
 [
   {
+    "title": "脆弱性情報や設定項目を手軽に取得　的確な回答は適切な事前準備から",
+    "link": "https://xtech.nikkei.com/atcl/nxt/mag/nnw/18/041600243/041600002/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "Part2では平時のネットワーク運用に生成AIを使う事例を2つ見ていこう。1つ目は脆弱性が及ぼす自社への影響範囲の把握、2つ目は機器の状態やネットワーク設計・設定情報の確認だ。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/mag/nnw/18/041600243/041600002/topm.jpg?20220512",
+    "fetched_at": "2026-05-05 16:03:33",
+    "ja_summary": "・生成AIを活用し、脆弱性の自社への影響範囲を迅速に特定する\n・機器の状態やネットワーク設計・設定情報を効率的に照会する\n・的確なAI回答を得るために、事前のデータ準備と環境構築が重要である"
+  },
+  {
+    "title": "運用現場に広がり始めた生成AI　3つの使いどころを押さえよう",
+    "link": "https://xtech.nikkei.com/atcl/nxt/mag/nnw/18/041600243/041600001/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "米OpenAIが2022年に「ChatGPT」を公開して以降、情報システムの運用に生成AIを活用する試みが広がっている。ネットワーク分野も例外ではない。この特集では生成AIをネットワーク運用に適用する実験や、実サービスへの導入事例を見ていこう。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/mag/nnw/18/041600243/041600001/topm.jpg?20220512",
+    "fetched_at": "2026-05-05 16:03:33",
+    "ja_summary": "・生成AIの普及に伴い、ネットワーク運用現場での活用が急速に進んでいる。\n・ネットワーク分野における具体的な実験や実サービスへの導入事例が注目されている。\n・運用の効率化に向けて、生成AIの活用シーンを正しく理解し押さえることが重要。"
+  },
+  {
+    "title": "韓非子 主道篇から学ぶClaude Codeの高度な使いこなし",
+    "link": "https://zenn.dev/tomfook/articles/e4613c2f2fbb28",
+    "source": "Zenn Trends",
+    "published": "Mon, 04 May 2026 11:20:00 GMT",
+    "summary": "コーディングエージェントが賢すぎる。誰が何と言おうと自分よりも賢い。\n生産性は爆上がりしていて、どれだけをClaude Codeに任せて仕事を回せるか、賢く仕事をさせるために私は何をすればいいのか？と考えてばかりいます。\n状況を決めているのは以下の要因です。\n\nClaude Codeは私よりも賢い\nClaude Codeは私に忠実に従う\n\nこの状況でもっとうまくやれば仕事をしなくても成果はあがるようにできるでしょうか？\nもしくはClaude Codeがもっと賢く、もっと忠実に指示に従うようになれば将来そうなる日が来るのでしょうか？\nそうはならない、というのが 韓非子 主道篇 に書かれてあ...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--QCTY3N_7--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E9%259F%2593%25E9%259D%259E%25E5%25AD%2590%2520%25E4%25B8%25BB%25E9%2581%2593%25E7%25AF%2587%25E3%2581%258B%25E3%2582%2589%25E5%25AD%25A6%25E3%2581%25B6Claude%2520Code%25E3%2581%25AE%25E9%25AB%2598%25E5%25BA%25A6%25E3%2581%25AA%25E4%25BD%25BF%25E3%2581%2584%25E3%2581%2593%25E3%2581%25AA%25E3%2581%2597%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:tomfook%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSnJLQnhVZThPczlON2x1UlpSUTZjOEk0ZmI1dGZWWmxUYndfaWliMktRUkNJNWVWVmF0UT1zMjUwLWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-05-05 16:03:57",
+    "ja_summary": "AIコーディングエージェントが賢く、忠実であるほど、人間は指示の出し方次第で「働かなくても」成果を上げられる。\n韓非子の教えは、AIの能力を最大限に引き出すには、人間の「指示の質」が鍵となることを示唆している。\nAIの進化に依存するだけでなく、賢くAIを「使う」ための戦略が重要である。"
+  },
+  {
+    "title": "Bedrock AgentCore Optimizationでマルチエージェントのプロンプトを改善・検証してみる",
+    "link": "https://zenn.dev/yokomachi/articles/202605_agentcore-optimization-recommendations",
+    "source": "Zenn Trends",
+    "published": "Mon, 04 May 2026 07:25:54 GMT",
+    "summary": "!\nこの記事は人間が書き、プログラムの実装・記事の校正に生成AIを使用しています。\n\n\n はじめに\n2026年4月、Amazon Bedrock AgentCoreに「Optimization」という機能が追加されました。\nエージェントの実トレースを入力に、プロンプトなどを改善する仕組みが提供されています。\nhttps://aws.amazon.com/jp/about-aws/whats-new/2026/05/bedrock-agentcore-optimization-preview/\nこの記事では、Strands AgentsのAgents-as-Toolsパターン（メインエージ...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--iIeUB2Nl--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Bedrock%2520AgentCore%2520Optimization%25E3%2581%25A7%25E3%2583%259E%25E3%2583%25AB%25E3%2583%2581%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588%25E3%2581%25AE%25E3%2583%2597%25E3%2583%25AD%25E3%2583%25B3%25E3%2583%2597%25E3%2583%2588%25E3%2582%2592%25E6%2594%25B9%25E5%2596%2584%25E3%2583%25BB%25E6%25A4%259C%25E8%25A8%25BC%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25BF%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:yoko%2520%252F%2520Naoki%2520Yokom...%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzUxNmQ3Y2VlOTIuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-05-05 16:03:57",
+    "ja_summary": "Amazon Bedrock AgentCoreに新機能「Optimization」が登場。\nエージェントの実行履歴からプロンプトなどを自動改善します。\nマルチエージェントの性能向上に役立つ新機能です。"
+  },
+  {
+    "title": "Aprender cloud no es suficiente: Cómo crecer más rápido con la comunidad",
+    "link": "https://speakerdeck.com/jeaguirre/aprender-cloud-no-es-suficiente-como-crecer-mas-rapido-con-la-comunidad",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-05-02T12:46:52-04:00",
+    "summary": "Muchos empiezan a aprender cloud.\nPocos logran realmente avanzar.\n\nDespués de dar tus primeros pasos, hacer deploys y aprender nuevas herramientas, aparece una pregunta clave:\n¿por qué algunos crecen más rápido que otros?\n\nEn esta presentación exploraremos qué hace la diferencia en el mundo real.\nMás allá de cursos y certificaciones, hablaremos de cómo el contexto, las decisiones y el entorno en el que aprendes influyen directamente en tu crecimiento.\n\nTambién veremos el impacto de aprender en comunidad frente a hacerlo de forma aislada, y por qué espacios como los AWS Cloud Clubs pueden acelerar tu desarrollo mucho más de lo que imaginas.\n\nSi ya empezaste en cloud y quieres avanzar con claridad, esta sesión te ayudará a entender qué enfocarte… y qué evitar.",
+    "image": "https://files.speakerdeck.com/presentations/f38b7c333201443d93ae95eea51f310e/preview_slide_0.jpg?39290368",
+    "fetched_at": "2026-05-05 16:03:59",
+    "ja_summary": "・クラウドの学習で成長が停滞する原因は、座学や資格取得だけで孤立して学んでいることにある。\n・技術習得だけでなく、環境やコミュニティでの交流がキャリア加速の鍵を握る。\n・「AWS Cloud Clubs」のような場を活用し、他者との関わりの中で実践的な意思決定を学ぶことが成長の近道となる。"
+  },
+  {
     "title": "メタは「従業員の10％を解雇」する準備を進める中で、自社の理想的な規模が「正直、分からない」と明かした",
     "link": "https://www.businessinsider.jp/article/2605-meta-earnings-layoffs-ai-efficiency-infrastructure-push/",
     "source": "Business Insider Japan",
@@ -948,55 +998,5 @@
     "image": "https://japan.zdnet.com/storage/2026/05/01/d56fa1f6ed917a85f83db8003379fbb6/t/184/138/d/20260430_adobestock_553657221_1280x960.jpg",
     "fetched_at": "2026-05-03 12:31:50",
     "ja_summary": "・人手不足で年間8.1億円の機会損失を抱える中小企業が、AIエージェントの導入で課題を解消。\n・問い合わせ対応を自動化することで、将来的な巨額損失リスクを回避し転禍為福を実現。\n・業務効率化により、限られたマンパワーでも売上機会を逃さない体制を構築。"
-  },
-  {
-    "title": "Building the compute infrastructure for the Intelligence Age",
-    "link": "https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age",
-    "source": "OpenAI",
-    "published": "Wed, 29 Apr 2026 15:00:00 GMT",
-    "summary": "OpenAI scales Stargate to build the compute infrastructure powering AGI, adding new data center capacity to meet growing AI demand.",
-    "image": "https://images.ctfassets.net/kftzwdyauwt9/7uKjDcPGzOUdai1xJ3ADrz/e546afb6069a32f56d346a53c1093c74/Frame__5_.png?w=1600&amp;h=900&amp;fit=fill",
-    "fetched_at": "2026-05-03 12:31:53",
-    "ja_summary": "・OpenAIがAGI実現に向け、巨大データセンター「Stargate」の拡張を推進。\n・急増するAI需要に応えるため、演算インフラの構築を加速させる。\n・インフラ能力を大幅に強化し、次世代AI開発を支える計算資源を確保する。"
-  },
-  {
-    "title": "入出力値を確かめて安全性を高める　データの整備とメンテも必要",
-    "link": "https://xtech.nikkei.com/atcl/nxt/mag/nnw/18/041600243/041600004/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "Part4ではネットワーク運用にAIチャットやAIエージェントを活用する際の注意点を解説する。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/mag/nnw/18/041600243/041600004/topm.jpg?20220512",
-    "fetched_at": "2026-05-03 08:59:24",
-    "ja_summary": "・ネットワーク運用へのAI導入時は、入出力の検証による安全性確保が必須。\n・AIが参照するデータの適切な整備と、継続的なメンテナンスを行うこと。"
-  },
-  {
-    "title": "OpenAIの発祥の地、サンフランシスコの物件が150万ドルで売り出し中",
-    "link": "https://www.businessinsider.jp/article/2605-original-openai-office-is-on-the-market/",
-    "source": "Business Insider Japan",
-    "published": "Sat, 02 May 2026 23:00:00 GMT",
-    "summary": "サンフランシスコのミッション地区にあるグレッグ・ブロックマンの旧宅は、OpenAIの創業者たちがオフィスを構える前に働いていた場所です。",
-    "image": "https://media.loom-app.com/loom/2026/04/22/666ab52e-9f41-436f-9701-e9fc8c2e02d2/original.jpg?w=1200&amp;h=630",
-    "fetched_at": "2026-05-03 08:59:32",
-    "ja_summary": "・OpenAI創業の地となったサンフランシスコの物件が150万ドルで売り出し中。\n・ここは創業メンバーがオフィスを構える前に活動拠点としていた場所。\n・AI史の重要拠点として注目を集めている。"
-  },
-  {
-    "title": "複数のAIエージェントを連係　情報収集や原因特定が楽に",
-    "link": "https://xtech.nikkei.com/atcl/nxt/mag/nnw/18/041600243/041600003/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "Part3ではトラブル発生時の情報収集や、原因として疑わしい箇所の絞り込みなどにLLMやAIエージェントを使う事例を見ていく。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/mag/nnw/18/041600243/041600003/topm.jpg?20220512",
-    "fetched_at": "2026-05-03 08:07:45",
-    "ja_summary": "・複数のAIエージェントを連携させ、トラブル時の情報収集や原因分析を効率化する手法を紹介。\n・LLMを活用し、膨大なデータから障害箇所を迅速に絞り込む具体的な事例を解説。"
-  },
-  {
-    "title": "HDRディスプレイグラス「RayNeo Air 4 Pro」レビュー：XREALやVITUREと比べて見えた差",
-    "link": "https://japan.cnet.com/article/35247119/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "TCLの最新ディスプレイグラス「RayNeo Air 4 Pro」のレビューをお届けする。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35247119/\"><img src=\"https://japan.cnet.com/storage/2026/05/01/969f1945466023d5e1effdd02df1030b/t/184/138/d/rayneo-air-4-pro-1_1280x960.jpg\" /></a>",
-    "image": "https://japan.cnet.com/storage/2026/05/01/969f1945466023d5e1effdd02df1030b/t/184/138/d/rayneo-air-4-pro-1_1280x960.jpg",
-    "fetched_at": "2026-05-03 08:07:53",
-    "ja_summary": "TCLの新型ディスプレイグラス「RayNeo Air 4 Pro」のレビュー記事。\n競合のXREALやVITUREと比較し、製品の特徴や性能差を詳細に検証。\n高画質なHDR体験を求めるユーザーに向けた、導入検討に役立つ評価内容。"
   }
 ]
