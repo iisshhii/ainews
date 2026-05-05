@@ -1,5 +1,45 @@
 [
   {
+    "title": "入出力値を確かめて安全性を高める　データの整備とメンテも必要",
+    "link": "https://xtech.nikkei.com/atcl/nxt/mag/nnw/18/041600243/041600004/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "Part4ではネットワーク運用にAIチャットやAIエージェントを活用する際の注意点を解説する。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/mag/nnw/18/041600243/041600004/topm.jpg?20220512",
+    "fetched_at": "2026-05-05 18:18:16",
+    "ja_summary": "・ネットワーク運用でAIを活用する際は、入出力の検証による安全性の確保が必須。\n・継続的なデータの整備とメンテナンスを並行し、信頼性を維持する必要がある。"
+  },
+  {
+    "title": "複数のAIエージェントを連係　情報収集や原因特定が楽に",
+    "link": "https://xtech.nikkei.com/atcl/nxt/mag/nnw/18/041600243/041600003/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "Part3ではトラブル発生時の情報収集や、原因として疑わしい箇所の絞り込みなどにLLMやAIエージェントを使う事例を見ていく。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/mag/nnw/18/041600243/041600003/topm.jpg?20220512",
+    "fetched_at": "2026-05-05 18:18:17",
+    "ja_summary": "・トラブル発生時に複数のAIエージェントを連携させ、情報収集を自動化。\n・原因の切り分けや特定作業をAIがサポートし、対応の効率を向上させる。\n・LLMを活用した最新のトラブルシューティング事例を紹介する。"
+  },
+  {
+    "title": "HDRディスプレイグラス「RayNeo Air 4 Pro」レビュー：XREALやVITUREと比べて見えた差",
+    "link": "https://japan.cnet.com/article/35247119/",
+    "source": "CNET Japan",
+    "published": "",
+    "summary": "TCLの最新ディスプレイグラス「RayNeo Air 4 Pro」のレビューをお届けする。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35247119/\"><img src=\"https://japan.cnet.com/storage/2026/05/01/969f1945466023d5e1effdd02df1030b/t/184/138/d/rayneo-air-4-pro-1_1280x960.jpg\" /></a>",
+    "image": "https://japan.cnet.com/storage/2026/05/01/969f1945466023d5e1effdd02df1030b/t/184/138/d/rayneo-air-4-pro-1_1280x960.jpg",
+    "fetched_at": "2026-05-05 18:18:25",
+    "ja_summary": "TCLの新型ディスプレイグラス「RayNeo Air 4 Pro」をレビュー。\nXREALやVITUREといった競合製品との比較で、その性能差が明らかに。\n購入検討者は、このレビューで最新モデルの立ち位置を把握できる。"
+  },
+  {
+    "title": "Building the compute infrastructure for the Intelligence Age",
+    "link": "https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age",
+    "source": "OpenAI",
+    "published": "Wed, 29 Apr 2026 15:00:00 GMT",
+    "summary": "OpenAI scales Stargate to build the compute infrastructure powering AGI, adding new data center capacity to meet growing AI demand.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/7uKjDcPGzOUdai1xJ3ADrz/e546afb6069a32f56d346a53c1093c74/Frame__5_.png?w=1600&amp;h=900&amp;fit=fill",
+    "fetched_at": "2026-05-05 18:18:39",
+    "ja_summary": "OpenAIはAGI（汎用人工知能）実現に向け、データセンターを増設し「Stargate」と呼ばれる計算基盤を拡張。\nAI需要の急増に対応するため、次世代AI時代に必要な大規模計算インフラを構築。\nAIの進化を支える基盤強化への投資を加速。"
+  },
+  {
     "title": "脆弱性情報や設定項目を手軽に取得　的確な回答は適切な事前準備から",
     "link": "https://xtech.nikkei.com/atcl/nxt/mag/nnw/18/041600243/041600002/",
     "source": "日経クロステック 総合",
@@ -958,45 +998,5 @@
     "image": "https://res.cloudinary.com/zenn/image/upload/s--1ot3RQ8X--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%25E3%2581%25AB%25E3%2582%25AA%25E3%2583%25AC%25E3%2581%259F%25E3%2581%25A1%25E6%25B5%2581%25E3%2581%25AE%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2589%25E3%2582%2592%25E6%259B%25B8%25E3%2581%258B%25E3%2581%259B%25E3%2582%258B%25EF%25BC%2588%25E5%2589%258D%25E7%25B7%25A8%25EF%25BC%2589%25E2%2580%2594%2520%25E3%2583%2597%25E3%2583%25AD%25E3%2582%25B8%25E3%2582%25A7%25E3%2582%25AF%25E3%2583%2588%25E3%2581%25AE%25E6%25B5%2581%25E5%2584%2580%25E3%2582%2592%25E8%2587%25AA%25E5%258B%2595%25E6%258A%25BD%25E5%2587%25BA%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:hiropon%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzQ3ZjRiNGZjZmIuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E6%25A0%25AA%25E5%25BC%258F%25E4%25BC%259A%25E7%25A4%25BE%25E3%2582%25BD%25E3%2583%258B%25E3%2583%2583%25E3%2582%25AF%25E3%2582%25AC%25E3%2583%25BC%25E3%2583%2587%25E3%2583%25B3%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzkwNWViODQ2NzMuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
     "fetched_at": "2026-05-03 15:17:36",
     "ja_summary": "・Claude Codeが各プロジェクトの流儀に沿ったコードを書くよう、設定用ルールファイルを自動生成する手法を提案。\n・手動でのルール作成の負担を減らすため、既存のコードベースから特性を自動抽出してルール化する。\n・開発効率を高め、チーム固有のコーディング規約に自動適応させるための取り組み。"
-  },
-  {
-    "title": "「ただの作業者（Cook）」で終わるな。AI時代を生き抜く「意図の設計者（Head Chef）」への進化論",
-    "link": "https://speakerdeck.com/longbowxxx/tadanozuo-ye-zhe-cook-dezhong-waruna-aishi-dai-wosheng-kiba-ku-yi-tu-noshe-ji-zhe-head-chef-henojin-hua-lun",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-05-01T08:25:07-04:00",
-    "summary": "「GitHub Copilotが嘘ばかりつく」「AIに仕事が奪われるのが怖い」……そんな悩みに対する答えは、技術ではなく「マインドセット」にあります。\n\n本資料では、AIを単なる補完ツールから「自律的エージェント」へと昇華させるための実践的なテクニック（SGSフレームワーク、コンテキスト制御、テスト駆動の二重検証など）と、組織でレベルアップするための90日ロードマップを解説します。\n\nAIは魔法の杖ではありません。しかし、あなたが「Head Chef」として意図を設計できるようになれば、最強の武器に変わります。",
-    "image": "https://files.speakerdeck.com/presentations/ff572cf19d6241c7af1c97ee506674b6/preview_slide_0.jpg?39281117",
-    "fetched_at": "2026-05-03 15:17:37",
-    "ja_summary": "AI時代には、単なる作業者（Cook）から意図を設計する司令塔（Head Chef）への意識改革が必要です。\nSGSフレームワークや二重検証などの技術を習得し、AIを自律的な武器として使いこなすことが求められます。\n提示された90日ロードマップを実践し、AIを補完ツールから強力なパートナーへと昇華させましょう。"
-  },
-  {
-    "title": "エージェントAI「Manus」の使い方。調査もアプリ作成もこなせるMetaも欲しがった高い実力",
-    "link": "https://www.businessinsider.jp/article/2605-how-to-use-manus-ai-agent/",
-    "source": "Business Insider Japan",
-    "published": "Sun, 03 May 2026 00:00:00 GMT",
-    "summary": "エージェント型AI「Manus」は、ニュース収集やデータ分析、アプリ作成まで任せられるサービスです。Metaによる買収の動きも含め、その価値と今後を解説します。",
-    "image": "https://media.loom-app.com/loom/2026/05/01/704dd978-f34c-4ec5-a205-aea464b2ab3c/original.png?w=1200&amp;h=630",
-    "fetched_at": "2026-05-03 12:31:42",
-    "ja_summary": "・調査からアプリ開発までこなす高性能エージェントAI「Manus」が登場。\n・Metaも買収を検討したほどの高い技術力を持ち、業務効率化に大きく貢献。\n・AIが自律的にタスクを遂行する次世代の業務支援ツールとして注目されている。"
-  },
-  {
-    "title": "数学の未解決問題 AIが相次ぎ解く",
-    "link": "https://news.yahoo.co.jp/pickup/6578584?source=rss",
-    "source": "Yahoo!ニュース IT・科学",
-    "published": "Sun, 03 May 2026 03:19:09 GMT",
-    "summary": "",
-    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/5/3/45cbe0fbef42386bdd46e6b3a158ef6b4807ee669a0bed268cc9708011c40346.jpg",
-    "fetched_at": "2026-05-03 12:31:47",
-    "ja_summary": "・AIがこれまで数学者でも解けなかった難問を相次いで解決している。\n・従来の計算能力を超え、複雑な数学的証明の効率的な構築が可能になった。\n・AIが数学研究の強力なパートナーとして定着し、学術の発展が加速している。"
-  },
-  {
-    "title": "機会損失8億円をAIエージェントで解消した、ある中小企業の転禍為福",
-    "link": "https://japan.zdnet.com/article/35247102/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "顧客からの問い合わせが増えているが、対応できるマンパワーが限られている。年間8.1億円の機会損失を抱えており、このままでは2030年時点の累計機会損失は30億円に――。ある中小企業はAIエージェントの活用で、このリスクを乗り越えている。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35247102/\"><img src=\"https://japan.zdnet.com/storage/2026/05/01/d56fa1f6ed917a85f83db8003379fbb6/t/184/138/d/20260430_adobestock_553657221_1280x960.jpg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2026/05/01/d56fa1f6ed917a85f83db8003379fbb6/t/184/138/d/20260430_adobestock_553657221_1280x960.jpg",
-    "fetched_at": "2026-05-03 12:31:50",
-    "ja_summary": "・人手不足で年間8.1億円の機会損失を抱える中小企業が、AIエージェントの導入で課題を解消。\n・問い合わせ対応を自動化することで、将来的な巨額損失リスクを回避し転禍為福を実現。\n・業務効率化により、限られたマンパワーでも売上機会を逃さない体制を構築。"
   }
 ]
