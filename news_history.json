@@ -1,5 +1,25 @@
 [
   {
+    "title": "AIエージェントの Skill は書くだけでは足りない ⇒ Waza で評価して APM で配ろう!【ハーネスエンジニアリング】",
+    "link": "https://zenn.dev/chips0711/articles/b081f3ddb93040",
+    "source": "Zenn Trends",
+    "published": "Tue, 05 May 2026 18:41:11 GMT",
+    "summary": "はじめに\nこんにちは、Matsumoto です。\nGitHub Copilot などの Agentic Coding ツールを日常で使っていると、SKILL.md で繰り返しの作業手順やレビュー観点をスキルとして渡せるのが便利だなと思います。\n一方で、 SKill は書くだけでは足りません。本当に意図どおりに発火するのか、書き換えたあとにデグレしていないのか、別モデルでも同じ品質で動くのかは、確認・評価しないと分かりません。\nそこで Microsoft の GitHub org で公開されている 2 つの OSS を触ってみました。\n\n\nmicrosoft/apm：AI エージェント...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--K47Bq9tE--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588%25E3%2581%25AE%2520Skill%2520%25E3%2581%25AF%25E6%259B%25B8%25E3%2581%258F%25E3%2581%25A0%25E3%2581%2591%25E3%2581%25A7%25E3%2581%25AF%25E8%25B6%25B3%25E3%2582%258A%25E3%2581%25AA%25E3%2581%2584%2520%25E2%2587%2592%2520Waza%2520%25E3%2581%25A7%25E8%25A9%2595%25E4%25BE%25A1%25E3%2581%2597%25E3%2581%25A6%2520APM%2520%25E3%2581%25A7%25E9%2585%258D%25E3%2582%258D%25E3%2581%2586%2521%25E3%2580%2590%25E3%2583%258F%25E3%2583%25BC%25E3%2583%258D%25E3%2582%25B9%25E3%2582%25A8%25E3%2583%25B3...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Naoki%2520Matsumoto%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2YxMjVkOWVmNWEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-05-06 16:31:53",
+    "ja_summary": "AIエージェントの指示書（SKILL.md）は、作成後の動作検証や品質評価が不可欠である。\nMicrosoftのOSS「Waza」で評価を自動化し、「APM」で適切に管理・配布することで品質を担保できる。\nAI開発において、指示の記述だけでなく運用・評価の仕組み化が重要となる。"
+  },
+  {
+    "title": "AIキャラで受付作ってみた",
+    "link": "https://speakerdeck.com/terisuke/aikiyaradeshou-fu-zuo-tutemita",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-05-06T03:08:13-04:00",
+    "summary": "https://www.genai-expo.com/",
+    "image": "https://files.speakerdeck.com/presentations/e9ab9cf1ccb4462fa90f2a3e40c2ff8b/preview_slide_0.jpg?39312037",
+    "fetched_at": "2026-05-06 16:31:55",
+    "ja_summary": "・AIキャラクターを活用した受付システムを体験・導入できる展示会。\n・最新の生成AI技術を実務（受付業務）に応用するソリューションを紹介。\n・DXを推進する企業向けに、次世代の接客・窓口自動化の知見を提供。"
+  },
+  {
     "title": "ChatGPT、“正確性”を向上した新デフォルトモデル「GPT-5.5 Instant」",
     "link": "https://www.watch.impress.co.jp/docs/news/2106577.html",
     "source": "Impress Watch",
@@ -978,25 +998,5 @@
     "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGNDAyODIyMyUyRnByb2ZpbGUtaW1hZ2VzJTJGMTc0MTE3NzAxMD9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9ZTA0OGYxNTEyODQxNzFlY2ZjNGM0N2YzMzFhNWUxNTM%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkY5MGI3ZDVlNmEwMmE1ODZkYWZjNDZhYTZhMzIxYWVhYzhhOGY0MzlkJTJGb3JpZ2luYWwuanBnJTNGMTc2NDU4NTExMT9peGxpYj1yYi00LjAuMCZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz1mNjNkNDY3NDNmYTNhNDA3MDFmNDZlN2Q5MzEzNjgzYQ%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D71f5cc6926a340ca91bc0805607f13ab?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgyJUIzJUUzJTgzJUJDJUUzJTgzJTg5JUUzJTgyJTkyMSVFOCVBMSU4QyVFMyU4MiU4MiVFOCVBQSVBRCVFMyU4MSVCRSVFMyU4MSU5QiVFMyU4MSU5QSVFMyU4MSVBQiVFMyU4MCU4MUFJJUUzJTgxJUFCJUU4JTg0JTg2JUU1JUJDJUIxJUU2JTgwJUE3JUUzJTgyJTkyMTAwJTI1JUU3JTg5JUI5JUU1JUFFJTlBJUUzJTgxJTk1JUUzJTgxJTlCJUUzJTgyJThCJUU2JTk2JUI5JUU2JUIzJTk1JUVGJUJDJTg4JUU3JTkwJTg2JUU4JUFCJTk2JUU3JUI3JUE4JUVGJUJDJTg5JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9NTNmYTI2YWM5YWIyMWFmZTE0NDQzZjljYWQ3NzVmMzY&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBoYXJ1cHl0aG9uJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9ZjYwNzI2NWViMThlZGI5YzE4NGUzZDA5N2NmODQzNGE&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=RGlzbmFuYQ&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=df7d124d197d80cc5008906ac0446223",
     "fetched_at": "2026-05-04 18:35:07",
     "ja_summary": "・ソースコードを直接AIに読ませるより、構造化したAST（抽象構文木）を渡す方がAIの解析精度は飛躍的に向上する。\n・プログラム内のデータ流出経路をグラフ理論で定義することで、脆弱性の高精度な特定が可能となる。\n・コードの量を減らし構造情報を抽出することが、AIの能力を最大化する鍵となる。"
-  },
-  {
-    "title": "【2026年4月更新】Claude Codeの役に立つフロントデザインのskills10選",
-    "link": "https://qiita.com/kamome_susume/items/41300417840aa107472e",
-    "source": "Qiita (Popular)",
-    "published": "2026-04-19T22:35:42+09:00",
-    "summary": "「Claude Codeに頼んでUIを作ってもらったのに、なんか普通すぎる…」と感じたことはありませんか？\nInterフォント、白背景に紫グラデーション、無難なカードレイアウト、これ、実は世界中のエンジニアが同じ悩みを抱えています。\n\nClaude Codeは非常に優秀なコーディングエージェントですが、**デフォルトのまま使うとデザインが\"AIっぽい平均点\"に収束してしまう**という問題があります",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYxNjkzMjQ4JTJGZDhlMmU1OWNiMDVmY2Y3MDQ3ZDgyN2ZjNDlkNDAwMTkzZTU5NDdjOSUyRnhfbGFyZ2UucG5nJTNGMTY4NjMxODg1ND9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9ZDRiNjcyYjg4ZWUxYTRkNjI1ZDRjOGFkMzVkMzQ5NjI%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Ddc9a014e564257547b64353543c58776?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJTkwMjAyNiVFNSVCOSVCNDQlRTYlOUMlODglRTYlOUIlQjQlRTYlOTYlQjAlRTMlODAlOTFDbGF1ZGUlMjBDb2RlJUUzJTgxJUFFJUU1JUJEJUI5JUUzJTgxJUFCJUU3JUFCJThCJUUzJTgxJUE0JUUzJTgzJTk1JUUzJTgzJUFEJUUzJTgzJUIzJUUzJTgzJTg4JUUzJTgzJTg3JUUzJTgyJUI2JUUzJTgyJUE0JUUzJTgzJUIzJUUzJTgxJUFFc2tpbGxzMTAlRTklODElQjgmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1kMTI3ZTg4NGU1NjJhZDNkMmUyMWJhMDMxNTZjYzg1Mw&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBrYW1vbWVfc3VzdW1lJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9ZGRiZTIzN2VhYmFmZjQ1YThiNWYzYWQyMWVhNzMzOTI&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=cfe95cba2a5e88ed715f0f1b1793457c",
-    "fetched_at": "2026-05-04 18:35:09",
-    "ja_summary": "・Claude Codeに任せるとデザインがAI特有の「無難な平均点」に陥りやすい。\n・独自性を出すには、AIのデフォルト設定を超えたフロントエンドの設計スキルが必要。\n・2026年4月現在の、AI生成の限界を突破して洗練されたUIを作る10の技術を紹介。"
-  },
-  {
-    "title": "AIがあなたの「コーストFIRE」の夢をリスクにさらすかもしれない",
-    "link": "https://www.businessinsider.jp/article/2605-retire-early-coast-fire-movement-ai-job-risks-financial-independence/",
-    "source": "Business Insider Japan",
-    "published": "Mon, 04 May 2026 06:00:00 GMT",
-    "summary": "「コーストFIRE」、この、貯蓄を続け、やがて「のんびり暮らせる」ようになるまで待つという早期退職戦略は、AIによってその流れが崩される可能性があると資産運用会社の幹部は述べています。",
-    "image": "https://media.loom-app.com/loom/2026/04/23/aed5139f-4c41-4cbd-b612-1c63d8aa00b2/original.jpg?w=1200&amp;h=630",
-    "fetched_at": "2026-05-04 16:21:54",
-    "ja_summary": "・「コーストFIRE（将来の資産運用による早期退職）」戦略が、AIの急速な普及により崩れる可能性がある。\n・AIが経済や雇用の前提を覆すことで、従来の資産計画がリスクにさらされると専門家が指摘。\n・将来の予測が難しくなる中、従来の長期的な貯蓄戦略を見直す必要性が高まっている。"
   }
 ]
