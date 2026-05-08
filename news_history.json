@@ -1,5 +1,35 @@
 [
   {
+    "title": "プロトンCEO、AI時代におけるプライバシーは「実現可能」--ただし唯一の問題も",
+    "link": "https://japan.zdnet.com/article/35247113/",
+    "source": "ZDNET Japan",
+    "published": "",
+    "summary": "ProtonのAndy Yen最高経営責任者（CEO）に大規模監視や子どもの保護、ローカルAI、そして、同社がユーザーを守れない唯一の問題について話を聞いた。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35247113/\"><img src=\"https://japan.zdnet.com/storage/2026/05/01/dd7d8f7e0672678a265e70a61baf1635/t/184/138/d/large-001-img-6383.jpg\" /></a>",
+    "image": "https://japan.zdnet.com/storage/2026/05/01/dd7d8f7e0672678a265e70a61baf1635/t/184/138/d/large-001-img-6383.jpg",
+    "fetched_at": "2026-05-09 01:44:02",
+    "ja_summary": "ProtonのCEOは、AI時代でもローカル処理などを活用すればプライバシー保護は実現可能だと主張している。\n一方で、政府による大規模監視や法規制の強化が、ユーザーのプライバシーを守る上での最大の壁となっている。\n企業による技術的対策だけでなく、監視社会に対する根本的な課題解決が求められている。"
+  },
+  {
+    "title": "Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber",
+    "link": "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber",
+    "source": "OpenAI",
+    "published": "Thu, 07 May 2026 13:00:00 GMT",
+    "summary": "OpenAI expands Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber, helping verified defenders accelerate vulnerability research and protect critical infrastructure.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/5JZQQtfzupvQaPZWeiyQJZ/77ed8a3e6c75c12b4a5a50b33b5ae8fd/seo-card-trusted-access.png?w=1600&amp;h=900&amp;fit=fill",
+    "fetched_at": "2026-05-09 01:44:06",
+    "ja_summary": "OpenAIがGPT-5.5とGPT-5.5-Cyberでサイバーセキュリティの信頼アクセスを拡大。\nこれにより、検証済み防御者は脆弱性調査を加速し、重要インフラを保護できる。"
+  },
+  {
+    "title": "[AI Heroes Turin May 7th] Build smarter mobile & web apps: Integrate Gemini using Firebase AI Logic",
+    "link": "https://speakerdeck.com/thatfiredev/ai-heroes-turin-may-7th-build-smarter-mobile-and-web-apps-integrate-gemini-using-firebase-ai-logic",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-05-08T12:37:39-04:00",
+    "summary": "As demand for intelligent features in mobile and web applications grows, developers face the challenge of securely integrating generative AI models without overcomplicating their backend infrastructure. In this session, we will explore Firebase AI Logic, a tool that gives you direct access to Google’s Gemini models through client-side SDKs.\n\nWe will dive into how Firebase AI Logic simplifies the implementation path for Android, Flutter, iOS and Web developers, allowing you to build features like multimodal chat, image generation, structured data output, live audio conversations, and hybrid inference entirely in the client-side.\n\n**Key takeaways include:**\n\n* **Client-Side simplicity:** How to use platform-specific SDKs to call Gemini APIs without managing a custom backend.\n* **Security Best Practices:** Utilizing **Firebase App Check** to protect your API keys and prevent abuse from unauthorized clients.\n* **Advanced Capabilities:** A look at leveraging multimodal inputs (text, images, audio, PDF), function calling, structured JSON outputs, voice interactions and hybrid on-device/cloud inference.\n* **Production Readiness:** Tips for updating model parameters dynamically and monitoring usage to stay within quotas.",
+    "image": "https://files.speakerdeck.com/presentations/ef3b3a4149cb48bc8770195ecba14203/preview_slide_0.jpg?39342526",
+    "fetched_at": "2026-05-09 01:44:34",
+    "ja_summary": "Firebase AI Logicで、Geminiモデルをアプリに簡単に組み込めます。\nコードをシンプルにし、マルチモーダル機能や生成AIをクライアントサイドで実現。\nセキュリティも強化し、開発効率とアプリのインテリジェンスを向上させます。"
+  },
+  {
     "title": "アップル次期CEOターナス氏が担う重責　AI時代の“ハード”な船出 (世界鳥瞰)",
     "link": "https://business.nikkei.com/atcl/NBD/19/world/00795/",
     "source": "日経ビジネス 最新",
@@ -968,35 +998,5 @@
     "image": "https://media.loom-app.com/loom/2026/05/06/2c6bd125-aaa8-414c-b136-4b60caa2d429/original.jpg?w=1200&amp;h=630",
     "fetched_at": "2026-05-08 07:01:26",
     "ja_summary": "要約の生成に失敗しました。"
-  },
-  {
-    "title": "会計コンサルのビッグ4、その幹部はAIをどのように活用しているのか…従業員へのAI導入に数十億ドルを投下中",
-    "link": "https://www.businessinsider.jp/article/2605-how-big-four-leaders-use-ai-pwc-ey-kpmg/",
-    "source": "Business Insider Japan",
-    "published": "Thu, 07 May 2026 21:35:00 GMT",
-    "summary": "PwC、EY、KPMGの幹部に対し、日々の業務においてAIをどのように活用しているかを聞きました。",
-    "image": "https://media.loom-app.com/loom/2026/04/30/8f6e57c1-3913-40d5-a294-cb276ca6886f/original.jpg?w=1200&amp;h=630",
-    "fetched_at": "2026-05-08 07:01:27",
-    "ja_summary": "要約の生成に失敗しました。"
-  },
-  {
-    "title": "GPT-Realtime-2 ・ GPT-Realtime-Translate ・ GPT-Realtime-Whisper の概要",
-    "link": "https://note.com/npaka/n/nade0d8498e64",
-    "source": "note (npaka)",
-    "published": "Fri, 08 May 2026 06:45:17 +0900",
-    "summary": "<p id=\"c140bf21-b433-4553-b164-6ac74a9002cf\" name=\"c140bf21-b433-4553-b164-6ac74a9002cf\">以下の記事が面白かったので、簡単にまとめました。</p><figure id=\"0022e78f-7583-49be-818f-77ab4d393854\" name=\"0022e78f-7583-49be-818f-77ab4d393854\"><blockquote><p id=\"28d9c5dd-1ddb-4f3b-a415-13ec6c4e9100\" name=\"28d9c5dd-1ddb-4f3b-a415-13ec6c4e9100\"><strong>・</strong><a href=\"https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api/\" rel=\"nofollow noopener\" target=\"_blank\"><strong>Advancing voice intelligence with new models in the API</strong></a></p></blockquote>\n<figcaption></figcaption></figure><br /><a href=\"https://note.com/npaka/n/nade0d8498e64\">続きをみる</a>",
-    "image": "https://assets.st-note.com/production/uploads/images/274020301/rectangle_large_type_2_76737066dfee49fb9f255747d80bbc02.png?width=800",
-    "fetched_at": "2026-05-08 07:01:31",
-    "ja_summary": "要約の生成に失敗しました。"
-  },
-  {
-    "title": "第2回：AIリスクは「3層構造」で考えよ--データ・実行・説明責任の落とし穴",
-    "link": "https://japan.zdnet.com/article/35247000/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "AI利用が情報検索からビジネス実行へ進化する中で、多くの企業が本格的でつまづく。その原因にあるデータを取り巻く環境と解決への方策を解説する。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35247000/\"><img src=\"https://japan.zdnet.com/storage/2026/04/14/5d250195e9b3b76c5bc299b47eefca08/t/184/138/d/260423_dataplatform_as_1280_1863450445.jpg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2026/04/14/5d250195e9b3b76c5bc299b47eefca08/t/184/138/d/260423_dataplatform_as_1280_1863450445.jpg",
-    "fetched_at": "2026-05-08 07:01:36",
-    "ja_summary": "AI活用がビジネス実行へ進む中、多くの企業がデータ管理で躓いている。\nリスクを「データ・実行・説明責任」の3層で捉えることが成功の鍵。\n各層の落とし穴を理解し、適切な対策を講じる必要性について解説。"
   }
 ]
