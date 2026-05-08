@@ -1,5 +1,45 @@
 [
   {
+    "title": "アップル次期CEOターナス氏が担う重責　AI時代の“ハード”な船出 (世界鳥瞰)",
+    "link": "https://business.nikkei.com/atcl/NBD/19/world/00795/",
+    "source": "日経ビジネス 最新",
+    "published": "",
+    "summary": "ジョン・ターナス氏が米アップルの次期最高経営責任者（CEO）に指名された。2026年9月に現CEOのティム・クック氏の後を継ぐ。AI対応が課題とされる同社でターナス氏の動向に注目が集まっている。",
+    "image": "https://business.nikkei.com/atcl/NBD/19/world/00795/fb.jpg",
+    "fetched_at": "2026-05-09 00:02:10",
+    "ja_summary": "アップル次期CEOにジョン・ターナス氏が就任。AI時代における同社の戦略が注目される。\n2026年9月、ティム・クック氏から経営を引き継ぎ、AI対応が最大の課題となる。\n新CEOの手腕が、アップルの未来を左右すると期待されている。"
+  },
+  {
+    "title": "ステップ1から4、可視化からAI導入に不可欠な標準化や自動化まで",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03594/042200004/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "変革のための土台づくりとなるのがステップ1の可視化、業務に「型」を定めて不要な部分をそぎ落とすのがステップ2の標準化・単純化、ステップ1、ステップ2の過程で自社で担うべきではないと判断した業務についてステップ3の外部化、同様に人手が不要と判断できるものがステップ4の自動化となる。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03594/042200004/topm.jpg?20220512",
+    "fetched_at": "2026-05-09 00:02:15",
+    "ja_summary": "1.業務の可視化と「型」の標準化で無駄を排除\n2.自社外で担うべき業務の外部化\n3.残った手作業の自動化による業務効率化の推進"
+  },
+  {
+    "title": "日産長期戦略「AI中核に」、E2E自動運転9割採用",
+    "link": "https://xtech.nikkei.com/atcl/nxt/mag/at/18/00004/00104/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "日産自動車はEnd-to-End（E2E）自動運転技術を今後の成長の柱に据える。将来的に全モデルの9割にE2E技術を採用する方針を明らかにした。新車の開発や部品調達についてはハードウエアとソフトウエアのプラットフォーム（PF）を集約し、部品の種類を7割削減する。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/mag/at/18/00004/00104/topm.jpg?20220512",
+    "fetched_at": "2026-05-09 00:02:16",
+    "ja_summary": "・日産がAIによる「E2E自動運転」を次世代戦略の核とし、将来的に全モデルの9割に採用。\n・車両開発のプラットフォームを集約し、部品点数を7割削減して効率化を推進。\n・ソフト・ハード両面での変革により、開発体制を大幅に刷新する方針。"
+  },
+  {
+    "title": "Copilot StudioをClaude Code化したら、Copilot Studio自身でPower Platformを構築できた話",
+    "link": "https://qiita.com/katohiro_fi/items/9acccd181ca2f1a75f3c",
+    "source": "Qiita (Popular)",
+    "published": "2026-05-07T11:36:12+09:00",
+    "summary": "> Microsoftの中の人が公開した「Copilot Studio Code」を、Power Platform コードファースト構築リポジトリと組み合わせると、**Copilot Studio が、Copilot Studio エージェントを含む Power Platform 環境を構築する側に回る** —— という、ちょっとメタな PoC をやってみた話です。\n\n\n## サマリー\n\n- Mi",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0MTk5OTk0JTJGY2M3NTU5MThkMjc4ZDc4ZjNlOGEzYjI5ZDBhMThmN2Q0ODRmMjI2MSUyRnhfbGFyZ2UucG5nJTNGMTc1ODk1NzEzMT9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9MTk3NTMxNzhkZjk5OTU0ZGM1MDIxNTUwYWE5NmY2MjQ%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkY2NjEzM2RhN2UyMmY1OGYxNzk1Y2UwMDBmYjE2ZDE5NjZmZTI0Mzc4JTJGb3JpZ2luYWwuanBnJTNGMTY2Njc4NDg4Nz9peGxpYj1yYi00LjAuMCZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz00YzhlODM1ZTc2YmVkYTk2OTkwZGZiNjM2YjE2ZjRiNg%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D9166e550b7c80ba7b57bf6fa541be3fb?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9Q29waWxvdCUyMFN0dWRpbyVFMyU4MiU5MkNsYXVkZSUyMENvZGUlRTUlOEMlOTYlRTMlODElOTclRTMlODElOUYlRTMlODIlODklRTMlODAlODFDb3BpbG90JTIwU3R1ZGlvJUU4JTg3JUFBJUU4JUJBJUFCJUUzJTgxJUE3UG93ZXIlMjBQbGF0Zm9ybSVFMyU4MiU5MiVFNiVBNyU4QiVFNyVBRiU4OSVFMyU4MSVBNyVFMyU4MSU4RCVFMyU4MSU5RiVFOCVBOSVCMSZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPWJmY2NkNDg1OTRlNjYxMTI5MDc4NTNmNWNiZTRkNTA5&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBrYXRvaGlyb19maSZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTljOTFjN2EwMWMyMWNhNjk3N2U0ZDQ2NDVlZDE0NzJl&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=SUJN&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=ab7fd400b3d66c5020a3f22693a59a9a",
+    "fetched_at": "2026-05-09 00:02:57",
+    "ja_summary": "- 「Copilot Studio Code」を活用し、Copilot Studio自身にPower Platform環境を構築させるメタな仕組みを検証。\n- AIエージェントが自ら開発・構築を行う、コードファーストな自動化の可能性を示した。\n- ツールがツールを作るという、開発プロセスの高度な自動化事例。"
+  },
+  {
     "title": "BMW、量産工程に人型ロボット　試験プロジェクトを開始",
     "link": "https://xtech.nikkei.com/atcl/nxt/mag/at/18/00006/00875/",
     "source": "日経クロステック 総合",
@@ -958,45 +998,5 @@
     "image": "https://japan.zdnet.com/storage/2026/04/14/5d250195e9b3b76c5bc299b47eefca08/t/184/138/d/260423_dataplatform_as_1280_1863450445.jpg",
     "fetched_at": "2026-05-08 07:01:36",
     "ja_summary": "AI活用がビジネス実行へ進む中、多くの企業がデータ管理で躓いている。\nリスクを「データ・実行・説明責任」の3層で捉えることが成功の鍵。\n各層の落とし穴を理解し、適切な対策を講じる必要性について解説。"
-  },
-  {
-    "title": "ネットスコープ・CPOが説く、「シングルベンダーSASE」の価値とAI時代への対応",
-    "link": "https://japan.zdnet.com/article/35247195/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "NetskopeのシングルベンダーSASEに関する取り組みや製品戦略、今後のSASEの発展の方向性について、最高製品責任者のパラグ・タコレ氏に聞いた。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35247195/\"><img src=\"https://japan.zdnet.com/storage/2026/05/07/58c8fc05fd1adcc1dd03ef6c608d50bd/t/184/138/d/260507_netskope_001.JPG\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2026/05/07/58c8fc05fd1adcc1dd03ef6c608d50bd/t/184/138/d/260507_netskope_001.JPG",
-    "fetched_at": "2026-05-08 07:01:36",
-    "ja_summary": "・Netskopeが提唱する「シングルベンダーSASE」の戦略と価値を解説。\n・AI時代を見据え、統合されたプラットフォームによるセキュリティの最適化を目指す。\n・製品責任者が今後のSASEの発展方向性と最新の技術対応を語る。"
-  },
-  {
-    "title": "プロトンCEO、AI時代におけるプライバシーは「実現可能」--ただし唯一の問題も",
-    "link": "https://japan.zdnet.com/article/35247113/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "ProtonのAndy Yen最高経営責任者（CEO）に大規模監視や子どもの保護、ローカルAI、そして、同社がユーザーを守れない唯一の問題について話を聞いた。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35247113/\"><img src=\"https://japan.zdnet.com/storage/2026/05/01/dd7d8f7e0672678a265e70a61baf1635/t/184/138/d/large-001-img-6383.jpg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2026/05/01/dd7d8f7e0672678a265e70a61baf1635/t/184/138/d/large-001-img-6383.jpg",
-    "fetched_at": "2026-05-08 07:01:36",
-    "ja_summary": "ProtonのCEOは、AI時代でもプライバシー保護は十分に可能だと強調した。\n鍵となるのは「ローカルAI」の活用だが、一方で法的介入など同社単独では防ぎきれない課題も残る。\n技術による解決と社会的な監視のバランスが、今後の重要な焦点となる。"
-  },
-  {
-    "title": "MacBook NeoにCodexを導入したら、キュートなマスコットが常駐した。Codex Petsが楽しい（CloseBox）",
-    "link": "https://www.techno-edge.net/article/2026/05/02/5040.html",
-    "source": "TechnoEdge",
-    "published": "Sat, 02 May 2026 22:16:47 +0900",
-    "summary": "ヴァイブコーディングで筆者がもっぱら使っているのはClaude Codeです。が、今日、ちょっとした異変が起きました。",
-    "image": "https://www.techno-edge.net/imgs/rss/31237.png",
-    "fetched_at": "2026-05-08 07:01:37",
-    "ja_summary": "AIコーディングツール「Claude Code」に「Codex Pets」を導入したところ、デスクトップにキュートなマスコットが常駐するようになった。実用的なコーディング環境に遊び心が加わり、開発体験がより楽しく進化している。"
-  },
-  {
-    "title": "Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber",
-    "link": "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber",
-    "source": "OpenAI",
-    "published": "Thu, 07 May 2026 13:00:00 GMT",
-    "summary": "OpenAI expands Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber, helping verified defenders accelerate vulnerability research and protect critical infrastructure.",
-    "image": "https://images.ctfassets.net/kftzwdyauwt9/5JZQQtfzupvQaPZWeiyQJZ/0f41e206019eb32f7901673fa55fec52/seo-card-trusted-access.png?w=1600&amp;h=900&amp;fit=fill",
-    "fetched_at": "2026-05-08 07:01:39",
-    "ja_summary": "・OpenAIがサイバー防衛支援の新モデル「GPT-5.5」「GPT-5.5-Cyber」を発表。\n・認定された防衛組織向けに、脆弱性調査やインフラ保護の迅速化を支援。\n・高度なAI活用でサイバーセキュリティ対策の効率と精度を向上させる。"
   }
 ]
