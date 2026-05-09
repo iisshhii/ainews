@@ -1,5 +1,15 @@
 [
   {
+    "title": "OpenAI、新音声モデル「GPT-Realtime-2」　即時翻訳や低遅延文字起こしも",
+    "link": "https://www.watch.impress.co.jp/docs/news/2107115.html",
+    "source": "Impress Watch",
+    "published": "",
+    "summary": "OpenAIは7日(米国時間)、リアルタイム音声エージェント向け「Realtime API」において、新たな音声モデルを発表した。音声対話向け「GPT-Realtime-2」、リアルタイム翻訳向け「GPT-Realtime-Translate」、ストリーミング音声認識向け「GPT-Realtime-Whisper」の3種で、開発者がより自然な音声アプリを構築できるようにする。",
+    "image": "https://www.watch.impress.co.jp/img/ipw/list/2107/115/01.jpg",
+    "fetched_at": "2026-05-10 05:07:02",
+    "ja_summary": "・OpenAIがリアルタイム音声対話用の新モデル3種（対話、翻訳、文字起こし）を発表。\n・低遅延かつ自然な音声処理が可能になり、より高精度なアプリ開発を支援する。\n・即時翻訳やストリーミング認識など、高度な音声AI機能の実装が容易になる。"
+  },
+  {
     "title": "ChatGPTに自傷・自殺懸念時の緊急連絡機能「Trusted Contact」",
     "link": "https://www.watch.impress.co.jp/docs/news/2107097.html",
     "source": "Impress Watch",
@@ -988,15 +998,5 @@
     "image": "https://files.speakerdeck.com/presentations/de1d8914d4754cc6ac1ce6fe1c9391d6/preview_slide_0.jpg?39326973",
     "fetched_at": "2026-05-08 16:18:46",
     "ja_summary": "生成AIは開発を加速させる一方、設計や保守といった工学的な課題を浮き彫りにした。\n今後はバイナリ管理よりも、AIを活用した設計や要求定義の重要性が高まる。\nこれに伴い、ソフトウェアの評価軸として「生成可能性」という新たな品質特性を提言する。"
-  },
-  {
-    "title": "20260507_中東有事後のグローバル資源需給_AI調査",
-    "link": "https://speakerdeck.com/doradora09/20260507-zhong-dong-you-shi-hou-nokuroharuzi-yuan-xu-gei-aidiao-cha",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-05-07T05:36:30-04:00",
-    "summary": "https://nobdata.connpass.com/event/392983/",
-    "image": "https://files.speakerdeck.com/presentations/63b370cec0c14c24ba9ceade3bffb49c/preview_slide_0.jpg?39326666",
-    "fetched_at": "2026-05-08 16:18:46",
-    "ja_summary": "・中東有事発生時のグローバル資源需給の変動をAIで分析・予測する勉強会。\n・AIモデルを活用した供給網への影響評価や、リスク分析の手法を解説。\n・資源エネルギー市場の最新動向とデータドリブンな意思決定のあり方を考察。"
   }
 ]
