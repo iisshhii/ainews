@@ -1,5 +1,15 @@
 [
   {
+    "title": "｢いかによく生きるか｣というケインズの永遠の課題が､今まさに私たちの前に立ちはだかっている | 政治・経済・投資 | 東洋経済オンライン",
+    "link": "https://toyokeizai.net/articles/-/943968?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+    "source": "東洋経済オンライン",
+    "published": "Sat, 09 May 2026 21:40:00 +0900",
+    "summary": "人類はかつてない技術革新により､労働から解放される未来へと近づいています。しかし､AI時代の到来が物質的豊かさを実現する一方で､｢いかによく生きるか｣というケインズの永遠の課題が､今まさに私たちの前…",
+    "image": "https://tk.ismcdn.jp/mwimgs/b/e/1200w/img_be943e8d707c0b0e3827cea950a6b542467026.jpg?nextgen=false",
+    "fetched_at": "2026-05-09 23:05:07",
+    "ja_summary": "・AI等の技術革新により、人類は労働から解放され物質的に豊かになる未来へ向かっている。\n・一方で、仕事を通じた役割を失う中、「いかに良く生きるか」という哲学的課題が浮上している。\n・経済的な充足が保障される時代だからこそ、人生の目的や時間の使い方を再定義する必要がある。"
+  },
+  {
     "title": "Claude Codeを\"使いこなす\"ための個人ルール設定 - 実際にやって効果が高かった設定",
     "link": "https://zenn.dev/dotdtech_blog/articles/92348ee48cc692",
     "source": "Zenn Trends",
@@ -988,15 +998,5 @@
     "image": "https://assets.st-note.com/production/uploads/images/273407933/rectangle_large_type_2_51caffbb80ee8dd5082bb656aa421f30.png?width=800",
     "fetched_at": "2026-05-08 14:51:57",
     "ja_summary": "・GoogleがAIモデル「Gemma 4」の推論を高速化する技術「Multi-Token Prediction (MTP) Drafters」を公開。\n・一度の処理で複数のトークンを予測することで、従来の1トークンずつ生成する手法より推論時間を大幅に短縮。\n・高い生成精度を維持しつつ、応答速度を向上させることで、AIの利便性と実用性を高める手法。"
-  },
-  {
-    "title": "自動運転E2Eモデルは何を見ているのか — Integrated Gradientsによる解釈",
-    "link": "https://zenn.dev/turing_motors/articles/5d0e3e86c91c46",
-    "source": "Zenn Trends",
-    "published": "Thu, 07 May 2026 06:08:20 GMT",
-    "summary": "はじめに\n\nIntegrated GradientsによるE2E自動運転モデルの判断根拠の可視化の様子。\n深層学習モデルは画像認識、自然言語処理、自動運転における行動予測など幅広い分野で人間を超える精度を達成しつつありますが、その判断根拠は依然としてブラックボックスです。「なぜこの予測になったのか？」をモデル自身に説明させる技術は XAI（Explainable AI / 説明可能なAI） と呼ばれ、モデルのデバッグ・信頼性向上・安全性担保の観点でますます重要性が高まっています。\n本記事では、XAI手法の中でも理論的な裏付けが明確で、実装もシンプルな Integrated Gradi...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--kdc2JKZk--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E8%2587%25AA%25E5%258B%2595%25E9%2581%258B%25E8%25BB%25A2E2E%25E3%2583%25A2%25E3%2583%2587%25E3%2583%25AB%25E3%2581%25AF%25E4%25BD%2595%25E3%2582%2592%25E8%25A6%258B%25E3%2581%25A6%25E3%2581%2584%25E3%2582%258B%25E3%2581%25AE%25E3%2581%258B%2520%25E2%2580%2594%2520Integrated%2520Gradients%25E3%2581%25AB%25E3%2582%2588%25E3%2582%258B%25E8%25A7%25A3%25E9%2587%2588%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:tmori%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2VhNmQ4MDk1OGQuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Tech%2520Blog%2520-%2520Turing%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUFjSFR0Zk5XalFySktHaWFtVzZkZTFwLTV4TGJjdlBZenBOazJDdnlxU3FLdjhpPXM5Ni1j%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-    "fetched_at": "2026-05-08 14:52:14",
-    "ja_summary": "・自動運転におけるAIの判断根拠はブラックボックス化しており、信頼性向上のためのXAI（説明可能なAI）技術が不可欠となっている。\n・本記事では、理論的裏付けが明確な「Integrated Gradients」手法を用いて、自動運転AIが何を重視して判断しているかを可視化する手法を解説する。"
   }
 ]
