@@ -1,5 +1,15 @@
 [
   {
+    "title": "The Tiniest Durable Agent",
+    "link": "https://speakerdeck.com/bibryam/the-tiniest-durable-agent",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-05-09T10:49:44-04:00",
+    "summary": "AI agents are easy to demo and still hard to operate in production. You can build a working agent in a few lines of code, but the moment you care about crashes, retries, state, identity, or observability, things get complicated fast.\n\nThis talk shows how to build the tiniest durable agent in 10 lines of code, an agent that can fail, restart, and resume without losing its mind. We’ll look at what actually makes an agent production-ready, why most agent frameworks fall apart under real-world conditions, and how durability changes the way agents should be designed.\n\nIn 15 minutes, you’ll see how a small amount of agent code, combined with durable execution and externalized infrastructure concerns, turns a fragile demo into something you can actually run in prod. All done with Dapr.",
+    "image": "https://files.speakerdeck.com/presentations/c2f352d38b544e188eace43f860e3dba/preview_slide_0.jpg?39353163",
+    "fetched_at": "2026-05-10 00:11:26",
+    "ja_summary": "・AIエージェントを本番運用する際の課題は、エラー時の再試行や状態保持の難しさにある。\n・「Dapr」を活用し、わずか10行のコードで障害に強く継続的な運用が可能なエージェント構築手法を解説。\n・耐久実行基盤を外部化することで、デモレベルの不安定なコードを実用的な本番環境向けに昇華させる。"
+  },
+  {
     "title": "｢いかによく生きるか｣というケインズの永遠の課題が､今まさに私たちの前に立ちはだかっている | 政治・経済・投資 | 東洋経済オンライン",
     "link": "https://toyokeizai.net/articles/-/943968?utm_source=rss&utm_medium=http&utm_campaign=link_back",
     "source": "東洋経済オンライン",
@@ -988,15 +998,5 @@
     "image": "https://assets.st-note.com/production/uploads/images/273412238/rectangle_large_type_2_4c24c6a0f94defc6f203e206e3f887f6.png?width=800",
     "fetched_at": "2026-05-08 14:51:57",
     "ja_summary": "・OpenAIが新モデル「GPT-5.5 Instant」を発表。\n・従来のモデルより知能が向上し、より明確でパーソナライズされた応答が可能。\n・処理速度と精度のバランスを最適化し、実用性を高めたモデル。"
-  },
-  {
-    "title": "Gemma 4 MTP Drafters の概要",
-    "link": "https://note.com/npaka/n/n7e64b803037c",
-    "source": "note (npaka)",
-    "published": "Wed, 06 May 2026 07:58:06 +0900",
-    "summary": "<p id=\"c602ea83-c066-489c-bc0a-97f409e77fcb\" name=\"c602ea83-c066-489c-bc0a-97f409e77fcb\">以下の記事が面白かったので、簡単にまとめました。</p><figure id=\"5916daca-9a76-48c3-b416-f1a1a61fbe6b\" name=\"5916daca-9a76-48c3-b416-f1a1a61fbe6b\"><blockquote><p id=\"bf65b196-cbad-4464-9870-d695ee2e84b7\" name=\"bf65b196-cbad-4464-9870-d695ee2e84b7\"><strong>・</strong><a href=\"https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/\" rel=\"nofollow noopener\" target=\"_blank\"><strong>Accelerating Gemma 4: faster inference with multi-token prediction drafters</strong></a></p></blockquote>\n<figcaption></figcaption></figure><br /><a href=\"https://note.com/npaka/n/n7e64b803037c\">続きをみる</a>",
-    "image": "https://assets.st-note.com/production/uploads/images/273407933/rectangle_large_type_2_51caffbb80ee8dd5082bb656aa421f30.png?width=800",
-    "fetched_at": "2026-05-08 14:51:57",
-    "ja_summary": "・GoogleがAIモデル「Gemma 4」の推論を高速化する技術「Multi-Token Prediction (MTP) Drafters」を公開。\n・一度の処理で複数のトークンを予測することで、従来の1トークンずつ生成する手法より推論時間を大幅に短縮。\n・高い生成精度を維持しつつ、応答速度を向上させることで、AIの利便性と実用性を高める手法。"
   }
 ]
