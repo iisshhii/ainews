@@ -1,5 +1,35 @@
 [
   {
+    "title": "ChatGPT、日本でも「広告」導入へ　無料プランなど",
+    "link": "https://www.watch.impress.co.jp/docs/news/2107354.html",
+    "source": "Impress Watch",
+    "published": "",
+    "summary": "OpenAIは7日、近日中に日本においても「ChatGPT」での広告パイロットプログラムを開始すると発表した。2月から米国などでスタートしていたが、日本と韓国、イギリス、メキシコ、ブラジルなどに拡大する。",
+    "image": "https://www.watch.impress.co.jp/img/ipw/list/2107/354/o01.jpg",
+    "fetched_at": "2026-05-09 10:21:33",
+    "ja_summary": "・OpenAIが「ChatGPT」への広告導入を日本など世界各国へ拡大する。\n・米国で先行開始していたパイロットプログラムを、無料プラン等に順次展開する。"
+  },
+  {
+    "title": "AI に「リポジトリの地図」を渡す — マルチレポを束ねるセントラルリポジトリ設計",
+    "link": "https://zenn.dev/loglass/articles/17e1df6be6aeba",
+    "source": "Zenn Trends",
+    "published": "Fri, 08 May 2026 02:57:05 GMT",
+    "summary": "!\nこの記事は毎週必ず記事がでるテックブログ Loglass Tech Blog Sprint  の142週目の記事です！3年間連続達成まで残り17週となりました！\n\nログラス プロダクト基盤チームの小林です。\n昨今、AI コーディングエージェントによりサービスの成長やチーム分割が加速していく中で、新しいリポジトリが次々と生まれる状況かもしれません。一方、「マルチリポジトリ環境」（以下、マルチレポと略）に特化した運用プラクティスとなると意外と事例が少ないように見えます。\n私たちは役割柄、複数のプロダクトや基盤をまたいで開発・運用を行う機会が多くあります。日常的に触れるリポジトリの数は、両...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--atKvXN8L--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%2520%25E3%2581%25AB%25E3%2580%258C%25E3%2583%25AA%25E3%2583%259D%25E3%2582%25B8%25E3%2583%2588%25E3%2583%25AA%25E3%2581%25AE%25E5%259C%25B0%25E5%259B%25B3%25E3%2580%258D%25E3%2582%2592%25E6%25B8%25A1%25E3%2581%2599%2520%25E2%2580%2594%2520%25E3%2583%259E%25E3%2583%25AB%25E3%2583%2581%25E3%2583%25AC%25E3%2583%259D%25E3%2582%2592%25E6%259D%259F%25E3%2581%25AD%25E3%2582%258B%25E3%2582%25BB%25E3%2583%25B3%25E3%2583%2588%25E3%2583%25A9%25E3%2583%25AB%25E3%2583%25AA%25E3%2583%259D%25E3%2582%25B8%25E3%2583%2588%25E3%2583%25AA%25E8%25A8%25AD%25E8%25A8%2588%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Satoshi%2520Kobayashi%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzRlNWQ4ZTRjZjguanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E6%25A0%25AA%25E5%25BC%258F%25E4%25BC%259A%25E7%25A4%25BE%25E3%2583%25AD%25E3%2582%25B0%25E3%2583%25A9%25E3%2582%25B9%2520%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2lCSkFzWHN1NXZzdExTTWYxWjhkR21YcmFsdGxtVWxGYkNIUjQwdFE9czI1MC1j%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-05-09 10:22:05",
+    "ja_summary": "AIコーディングエージェントの普及で増え続けるマルチリポジトリ環境を効率化するため、全体の構成を把握できる「セントラルリポジトリ（地図）」を導入。\n各リポジトリの役割や依存関係を一元管理することで、開発・運用の属人化を防ぎ、組織拡大に伴う複雑さを解消する手法を解説。"
+  },
+  {
+    "title": "Claude Codeの失敗をチームルールに昇格させる仕組み",
+    "link": "https://zenn.dev/dely_jp/articles/5bc3e9cf62d776",
+    "source": "Zenn Trends",
+    "published": "Thu, 07 May 2026 07:35:04 GMT",
+    "summary": "はじめに\nこんにちは、クラシルのレシチャレを開発しているkiyokuroです。\nこれまで、ルール設計・Safety Hook・サブエージェント・3エージェントハーネスのブログを書いてきました。前回の記事では3エージェントハーネスを取り入れて、実装のchunkを連鎖的に回すループまで辿り着きました。\nただし、回り始めたループから出てくる「失敗」をどう活かすかには触れていませんでした。この記事では、Evaluatorが拾った失敗を個人ローカルに蓄積し、3件以上たまればチームルールに昇格させ、さらにセッション全体を振り返る仕組みを紹介します。\nMitchell HashimotoがMy A...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--6QYB9B6M--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%25E3%2581%25AE%25E5%25A4%25B1%25E6%2595%2597%25E3%2582%2592%25E3%2583%2581%25E3%2583%25BC%25E3%2583%25A0%25E3%2583%25AB%25E3%2583%25BC%25E3%2583%25AB%25E3%2581%25AB%25E6%2598%2587%25E6%25A0%25BC%25E3%2581%2595%25E3%2581%259B%25E3%2582%258B%25E4%25BB%2595%25E7%25B5%2584%25E3%2581%25BF%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:kiyokuro%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzM3MDYyNjhkNmMuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Kurashiru%2520Tech%2520Blog%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jTG1YR05GVlBEbm1QdHJDM3U5NUxiLXAzZFJFM0gtWXpUcWxWTjVHbDBFeDdXWXhwQ2Jadz1zOTYtYw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-05-09 10:22:05",
+    "ja_summary": "Claude Codeによる開発で生じた「失敗」をEvaluatorが収集し、3件溜まると自動的にチームのルールへと昇格させる仕組みを構築。\n個人の試行錯誤を組織の知見へと変換し、AI開発のプロセス全体を継続的に改善するワークフローを実現した。"
+  },
+  {
     "title": "Mythos優勢と自ら認めるGPT　Cyber版提供の意味",
     "link": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/052100112/050700137/",
     "source": "日経クロステック 総合",
@@ -968,35 +998,5 @@
     "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20ShapeArrow&amp;backgroundColor=cactus",
     "fetched_at": "2026-05-08 08:11:05",
     "ja_summary": "・AIモデル「Claude」がクリエイティブ業務の効率化と品質向上を支援。\n・アイデア出しから文章作成、構成案の練り上げまで幅広く活用可能。\n・AIとの協働により、創造的な作業時間を短縮しアウトプットを最大化する。"
-  },
-  {
-    "title": "AIのPlan Modeをなんとなく承認しないために",
-    "link": "https://zenn.dev/lv/articles/9438e1678c873a",
-    "source": "Zenn Trends",
-    "published": "Thu, 07 May 2026 00:30:01 GMT",
-    "summary": "TL;DR\n\nPlan Modeでも、Planを承認してよいかを判断する基準は人間側に必要\nその基準として、まず受け入れ条件を整理し、Planがそれを満たす内容かを見る\nAIには受け入れ条件を決めさせず、既存情報から候補を抽出させ、人間が根拠つきで整理する\n最後はAIの「🤖 完了しました」ではなく、当初の受け入れ条件を満たしたかで判断する\n\n\n Plan Modeは便利だけど、そのPlanの正しさは別問題\nClaude CodeやCodexで実装するとき、Plan Modeを使う場面が増えてきました。\nいきなりファイルを書き換えられるより、先に実装計画を出してもらえるほうが安心です。...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--oPzi3cJR--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%25E3%2581%25AEPlan%2520Mode%25E3%2582%2592%25E3%2581%25AA%25E3%2582%2593%25E3%2581%25A8%25E3%2581%25AA%25E3%2581%258F%25E6%2589%25BF%25E8%25AA%258D%25E3%2581%2597%25E3%2581%25AA%25E3%2581%2584%25E3%2581%259F%25E3%2582%2581%25E3%2581%25AB%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:oga_aiichiro%25EF%25BC%2588%25E5%25A4%25A7%25E8%25B3%2580%25E6%2584%259B%25E4%25B8%2580%25E9%2583%258E%25EF%25BC%2589%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzNhMDEwODY1NzkuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-    "fetched_at": "2026-05-08 08:11:09",
-    "ja_summary": "・AIのPlan Modeを安易に承認せず、事前に定義した「受け入れ条件」を満たすか人間が判断する。\n・受け入れ条件はAIではなく人間が決め、AIには候補の抽出までを任せる。\n・AIの完了報告を鵜呑みにせず、当初の条件に照らして成果物の正当性を評価する。"
-  },
-  {
-    "title": "寝てる間に開発を全自動化したい、ってどんな開発の話なんだろう",
-    "link": "https://zenn.dev/jeeee/articles/2026-05-06-auto-dev-doubt",
-    "source": "Zenn Trends",
-    "published": "Wed, 06 May 2026 03:08:52 GMT",
-    "summary": "最近 AI 界隈で「プロンプトは終わった、これからはハーネスの時代だ」「メタハーネスが来る」「LangChain で組み合わせる」といった話をよく目にします。SNS では AI 研究者の主張をインフルエンサーが拡散していて、議論としては確かに面白い。\nただ、見ていてどうしてもモヤッとするのは 「で、それを実際の開発現場のどこで使うの?」 という話が抜け落ちていることです。主張そのものに反対したいわけではなくて、地続きの実装シーンが見えてこないので、自分の中で位置づけられないだけ。日記なので結論は出ないと思いますが、書きながら整理してみます。\n\n 自分が AI を使っている範囲\n仕事でも個...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--o2H64uWi--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E5%25AF%259D%25E3%2581%25A6%25E3%2582%258B%25E9%2596%2593%25E3%2581%25AB%25E9%2596%258B%25E7%2599%25BA%25E3%2582%2592%25E5%2585%25A8%25E8%2587%25AA%25E5%258B%2595%25E5%258C%2596%25E3%2581%2597%25E3%2581%259F%25E3%2581%2584%25E3%2580%2581%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%25A9%25E3%2582%2593%25E3%2581%25AA%25E9%2596%258B%25E7%2599%25BA%25E3%2581%25AE%25E8%25A9%25B1%25E3%2581%25AA%25E3%2582%2593%25E3%2581%25A0%25E3%2582%258D%25E3%2581%2586%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:jeeee%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzUzMTUxMjI0MTEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-    "fetched_at": "2026-05-08 08:11:10",
-    "ja_summary": "要約の生成に失敗しました。"
-  },
-  {
-    "title": "【Claude Code入門】今から追いつくClaude Code 徹底解説",
-    "link": "https://qiita.com/i-inose/items/e644e9b620ee1c8d3c1b",
-    "source": "Qiita (Popular)",
-    "published": "2026-04-27T18:58:22+09:00",
-    "summary": "\n## はじめに\n\nこの記事は、Claude Code を使い始めたいエンジニアのための入門ガイドです。\n\n「名前は聞いたことがあるけれど、なんとなく乗り遅れた気がして触れていない」という方に向けて書きました。Claude Code は 2025 年 3 月にベータ公開が始まり、今も活発に機能が追加され続けているツールです。今から始めても、十分に最前線を体験できます。\n\nこの記事の対象読者です。\n",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYyNzM3MDU1JTJGMmRhZmNlMzcyYjViYjhiYjVhMWM5ZWMwMmFkNzQyYzIwZjkzMjJiOCUyRnhfbGFyZ2UucG5nJTNGMTc1MTYxMzgyNj9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9ZDA0ZDI4ZjkyYTAzYTZhNjY0NjJhOGRmMDI4MDk1ZWQ%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYxZTIwZGI1ZTdlNDA3ZWFlN2I5NzBlYzk5OTg4MGRjOGMzY2MwZjY0JTJGb3JpZ2luYWwuanBnJTNGMTY2NzI3NDk2Mz9peGxpYj1yYi00LjAuMCZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz0xMzQ4OTg3MjlkMzMwYTdiNWRhMzRkOGU2MzVmZjIxOA%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D66b59b0ea406aee68a1154031be0c0be?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJTkwQ2xhdWRlJTIwQ29kZSVFNSU4NSVBNSVFOSU5NiU4MCVFMyU4MCU5MSVFNCVCQiU4QSVFMyU4MSU4QiVFMyU4MiU4OSVFOCVCRiVCRCVFMyU4MSU4NCVFMyU4MSVBNCVFMyU4MSU4RkNsYXVkZSUyMENvZGUlMjAlRTUlQkUlQjklRTUlQkElOTUlRTglQTclQTMlRTglQUElQUMmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz05ZmJjZTRiMDFiZjcyMDcyNmQ1YzQyMmUzYTI0ZWEwMg&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBpLWlub3NlJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9MmIxMzY4YTE4OWM3Yjg5NDQwYjM0ZWNmNTdjY2I5YTE&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=S0RESeOCouOCuOODo-OCpOODq-mWi-eZuuOCu-ODs-OCv-ODvOagquW8j-S8muekvg&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=283ec2bce88f6a89a40e5f13ce38f3c6",
-    "fetched_at": "2026-05-08 08:11:14",
-    "ja_summary": "・Claude Codeは現在も活発に開発が進むAIコーディング支援ツールであり、今からの導入でも最前線の技術を体験可能。\n・この記事は、導入を迷っていたエンジニアに向けた解説ガイドとして機能。\n・環境構築から活用法までを網羅しており、効率的な開発環境の構築をサポートする。"
   }
 ]
