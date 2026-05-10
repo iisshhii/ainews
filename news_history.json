@@ -1,5 +1,55 @@
 [
   {
+    "title": "Claude Mythos、Firefoxの271件のバグを修正　20年前のバグも",
+    "link": "https://www.watch.impress.co.jp/docs/news/2107200.html",
+    "source": "Impress Watch",
+    "published": "",
+    "summary": "Mozillaは、Anthropicの最上位モデル「Claude Mythos Preview」などのAIモデルを活用し、同団体のWebブラウザ「Firefox」の潜在的なセキュリティバグを多数特定・修正したと発表した。Firefox 150でClaude Mythos Previewが特定した271件のバグを修正したほか、149.0.2、150.0.1、150.0.2でも関連する修正パッチをリリースしている。",
+    "image": "https://www.watch.impress.co.jp/img/ipw/list/2107/200/01.jpg",
+    "fetched_at": "2026-05-10 18:11:50",
+    "ja_summary": "・MozillaがAI「Claude Mythos」を活用し、Firefoxのセキュリティバグ271件を特定・修正した。\n・中には20年前から放置されていた古いバグも含まれており、関連する修正パッチも配布中。\n・AIによるコード解析が、長期的な技術的負債の解消に大きく貢献した。"
+  },
+  {
+    "title": "【徹底解説】セキュリティスペシャリストが教える、セキュアプログラミングの教科書",
+    "link": "https://qiita.com/miruky/items/6fbb0c0e55835ea79e4d",
+    "source": "Qiita (Popular)",
+    "published": "2026-05-07T09:30:06+09:00",
+    "summary": "![セキュアプログラミング教科書](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3637204/a8128975-15c5-476f-b392-986356142aa2.png)\n\n\n## はじめに\n\nこんばんは、mirukyです。\n\n「セキュアプログラミング」という言葉をご存知でしょうか。意味としてはそのままで、セキュア",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGMzYzNzIwNCUyRnByb2ZpbGUtaW1hZ2VzJTJGMTc3NDQ0NTA3MD9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NWY2OTc3NjFmNDZhMTA4YTgyMjNmMDEzODFkMGVmZTY%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Db2bc8d820e2037057c6470791c40d1f8?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJTkwJUU1JUJFJUI5JUU1JUJBJTk1JUU4JUE3JUEzJUU4JUFBJUFDJUUzJTgwJTkxJUUzJTgyJUJCJUUzJTgyJUFEJUUzJTgzJUE1JUUzJTgzJUFBJUUzJTgzJTg2JUUzJTgyJUEzJUUzJTgyJUI5JUUzJTgzJTlBJUUzJTgyJUI3JUUzJTgzJUEzJUUzJTgzJUFBJUUzJTgyJUI5JUUzJTgzJTg4JUUzJTgxJThDJUU2JTk1JTk5JUUzJTgxJTg4JUUzJTgyJThCJUUzJTgwJTgxJUUzJTgyJUJCJUUzJTgyJUFEJUUzJTgzJUE1JUUzJTgyJUEyJUUzJTgzJTk3JUUzJTgzJUFEJUUzJTgyJUIwJUUzJTgzJUE5JUUzJTgzJTlGJUUzJTgzJUIzJUUzJTgyJUIwJUUzJTgxJUFFJUU2JTk1JTk5JUU3JUE3JTkxJUU2JTlCJUI4JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9OGMyOGRmOTgyODYzYmUyZGFmM2ZhMzg3YzYxYjViMWU&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBtaXJ1a3kmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1iMWMwZjM0MGFkNTI5NmU1ZmNjNDFiZDQxMGY0YWRjYw&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=f66dcfb95728761b32f6812c0fd6e8d0",
+    "fetched_at": "2026-05-10 18:12:28",
+    "ja_summary": "・セキュリティスペシャリストが、安全なプログラムを書くための実践的な手法を解説。\n・開発者が知るべきセキュアプログラミングの基礎と、具体的な実装知識を網羅。\n・脆弱性を防ぐための必須スキルを習得できる、エンジニア向けの学習ガイド。"
+  },
+  {
+    "title": "【Claude Code入門】Skills 徹底解説 - 仕組みの解説からハンズオンまで",
+    "link": "https://qiita.com/i-inose/items/14f212258dc350857a94",
+    "source": "Qiita (Popular)",
+    "published": "2026-04-28T12:32:01+09:00",
+    "summary": "## はじめに\n\n:::note warn\nこの記事は前回の Claude Code 入門記事を読んでいる前提で書いています。「Skill ってそもそも何？」という方は先にこちらをご覧ください。\n\nhttps://qiita.com/i-inose/items/e644e9b620ee1c8d3c1b\n:::\n\n以前の記事で Claude Code の全体像を紹介したとき、Skill については「",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYyNzM3MDU1JTJGMmRhZmNlMzcyYjViYjhiYjVhMWM5ZWMwMmFkNzQyYzIwZjkzMjJiOCUyRnhfbGFyZ2UucG5nJTNGMTc1MTYxMzgyNj9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9ZDA0ZDI4ZjkyYTAzYTZhNjY0NjJhOGRmMDI4MDk1ZWQ%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYxZTIwZGI1ZTdlNDA3ZWFlN2I5NzBlYzk5OTg4MGRjOGMzY2MwZjY0JTJGb3JpZ2luYWwuanBnJTNGMTY2NzI3NDk2Mz9peGxpYj1yYi00LjAuMCZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz0xMzQ4OTg3MjlkMzMwYTdiNWRhMzRkOGU2MzVmZjIxOA%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D66b59b0ea406aee68a1154031be0c0be?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJTkwQ2xhdWRlJTIwQ29kZSVFNSU4NSVBNSVFOSU5NiU4MCVFMyU4MCU5MVNraWxscyUyMCVFNSVCRSVCOSVFNSVCQSU5NSVFOCVBNyVBMyVFOCVBQSVBQyUyMC0lMjAlRTQlQkIlOTUlRTclQjUlODQlRTMlODElQkYlRTMlODElQUUlRTglQTclQTMlRTglQUElQUMlRTMlODElOEIlRTMlODIlODklRTMlODMlOEYlRTMlODMlQjMlRTMlODIlQkElRTMlODIlQUElRTMlODMlQjMlRTMlODElQkUlRTMlODElQTcmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1hMDE4M2Y3MDA3MjMyY2EwZjE0ZWY4NzlhMjY5YWQzYQ&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBpLWlub3NlJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9MmIxMzY4YTE4OWM3Yjg5NDQwYjM0ZWNmNTdjY2I5YTE&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=S0RESeOCouOCuOODo-OCpOODq-mWi-eZuuOCu-ODs-OCv-ODvOagquW8j-S8muekvg&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=3dfd0b4c71a9a6ccee2a86d5a12f6a2c",
+    "fetched_at": "2026-05-10 18:12:29",
+    "ja_summary": "Claude Codeの「Skills」の仕組みから実践までを解説したガイド。\n既存記事の知識を前提に、機能の深掘りと具体的な活用法を習得できる。\n導入後のさらなる使いこなしを目指すユーザーに向けた技術解説記事。"
+  },
+  {
+    "title": "GWも勉強したい方向けに、よくオススメされる技術書をカテゴリ別にまとめてみた",
+    "link": "https://qiita.com/miruky/items/c2df4f23d73a8e05f37f",
+    "source": "Qiita (Popular)",
+    "published": "2026-04-27T18:00:30+09:00",
+    "summary": "![ChatGPT Image 2026年4月27日 17_06_46 (1) (1).png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3637204/b254286e-41b6-4c21-97f6-deaca564ea87.png)\n\n## はじめに\n\nこんばんは、mirukyです。\n\nGWは、まとまった学習時間を",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGMzYzNzIwNCUyRnByb2ZpbGUtaW1hZ2VzJTJGMTc3NDQ0NTA3MD9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NWY2OTc3NjFmNDZhMTA4YTgyMjNmMDEzODFkMGVmZTY%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Db2bc8d820e2037057c6470791c40d1f8?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9R1clRTMlODIlODIlRTUlOEIlODklRTUlQkMlQjclRTMlODElOTclRTMlODElOUYlRTMlODElODQlRTYlOTYlQjklRTUlOTAlOTElRTMlODElOTElRTMlODElQUIlRTMlODAlODElRTMlODIlODglRTMlODElOEYlRTMlODIlQUElRTMlODIlQjklRTMlODIlQjklRTMlODMlQTElRTMlODElOTUlRTMlODIlOEMlRTMlODIlOEIlRTYlOEElODAlRTglQTElOTMlRTYlOUIlQjglRTMlODIlOTIlRTMlODIlQUIlRTMlODMlODYlRTMlODIlQjQlRTMlODMlQUElRTUlODglQTUlRTMlODElQUIlRTMlODElQkUlRTMlODElQTglRTMlODIlODElRTMlODElQTYlRTMlODElQkYlRTMlODElOUYmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz05ZmI4ZmIzMDI5OTk0NzU5NWUwNWU2MDg1YTA2ZjFkMQ&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBtaXJ1a3kmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1iMWMwZjM0MGFkNTI5NmU1ZmNjNDFiZDQxMGY0YWRjYw&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=e29506c65b1c5ed17c358fe1b647fa73",
+    "fetched_at": "2026-05-10 18:12:29",
+    "ja_summary": "ゴールデンウィークのまとまった時間を活用し、学習に取り組みたい人に向けた推奨技術書まとめ。\nエンジニアや学習者が読むべき定番の書籍を、カテゴリ別に整理して紹介。\n効率的なスキルアップを目指す層にとって、選書の手間を省くための有益なガイドとなっている。"
+  },
+  {
+    "title": "コードを1行も読ませずに、AIに脆弱性を100%特定させる方法（理論編）",
+    "link": "https://qiita.com/harupython/items/ed256553d10578cfec2a",
+    "source": "Qiita (Popular)",
+    "published": "2026-04-30T21:50:43+09:00",
+    "summary": "## 🚀 TL;DR\n * AI（LLM）に生のソースコードを読ませるのは、実は<font color=\"red\"><strong>効率の悪い「情報の暴力」</strong></font>である。\n * <strong>AST（抽象構文木）</strong>から「構造」だけを抽出したマップこそが、AIのIQを極限まで引き出す。\n * データの流入から破綻までをグラフ理論で定義すれば、理論上、<fo",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGNDAyODIyMyUyRnByb2ZpbGUtaW1hZ2VzJTJGMTc0MTE3NzAxMD9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9ZTA0OGYxNTEyODQxNzFlY2ZjNGM0N2YzMzFhNWUxNTM%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkY5MGI3ZDVlNmEwMmE1ODZkYWZjNDZhYTZhMzIxYWVhYzhhOGY0MzlkJTJGb3JpZ2luYWwuanBnJTNGMTc2NDU4NTExMT9peGxpYj1yYi00LjAuMCZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz1mNjNkNDY3NDNmYTNhNDA3MDFmNDZlN2Q5MzEzNjgzYQ%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D71f5cc6926a340ca91bc0805607f13ab?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgyJUIzJUUzJTgzJUJDJUUzJTgzJTg5JUUzJTgyJTkyMSVFOCVBMSU4QyVFMyU4MiU4MiVFOCVBQSVBRCVFMyU4MSVCRSVFMyU4MSU5QiVFMyU4MSU5QSVFMyU4MSVBQiVFMyU4MCU4MUFJJUUzJTgxJUFCJUU4JTg0JTg2JUU1JUJDJUIxJUU2JTgwJUE3JUUzJTgyJTkyMTAwJTI1JUU3JTg5JUI5JUU1JUFFJTlBJUUzJTgxJTk1JUUzJTgxJTlCJUUzJTgyJThCJUU2JTk2JUI5JUU2JUIzJTk1JUVGJUJDJTg4JUU3JTkwJTg2JUU4JUFCJTk2JUU3JUI3JUE4JUVGJUJDJTg5JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9NTNmYTI2YWM5YWIyMWFmZTE0NDQzZjljYWQ3NzVmMzY&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBoYXJ1cHl0aG9uJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9ZjYwNzI2NWViMThlZGI5YzE4NGUzZDA5N2NmODQzNGE&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=RGlzbmFuYQ&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=df7d124d197d80cc5008906ac0446223",
+    "fetched_at": "2026-05-10 18:12:30",
+    "ja_summary": "・ソースコードを直接AIに読ませるのは非効率。\n・コードの構造情報（AST）のみを渡すことで、AIの解析精度を最大化できる。\n・グラフ理論でデータの流れを可視化・定義することで、脆弱性を正確に特定する。"
+  },
+  {
     "title": "ネットの求人詐欺が急増中　AIで「安く速く簡単に」",
     "link": "https://japan.cnet.com/article/35247259/",
     "source": "CNET Japan",
@@ -948,55 +998,5 @@
     "image": "https://japan.cnet.com/storage/2026/05/07/66f1a94cd74439a6529ac930b2ffdafb/t/184/138/d/orbital-skyhook_1280x960.jpg",
     "fetched_at": "2026-05-08 17:53:13",
     "ja_summary": "・Google DeepMindが、人気MMO「EVE Online」をAIの訓練環境として活用する計画を発表。\n・広大な宇宙空間での複雑な意思決定や戦略的行動をAIに学習させ、能力向上を図る。"
-  },
-  {
-    "title": "定年間近のX世代男性、趣味のDIYで10年かけて「狭小住宅」を建てる。エアビーで年240万円の副収入を目指す",
-    "link": "https://www.businessinsider.jp/article/2605-how-a-genx-tech-salesman-built-tiny-home-for-45k/",
-    "source": "Business Insider Japan",
-    "published": "Fri, 08 May 2026 08:30:00 GMT",
-    "summary": "オハイオ州在住のジム・マケルウェイン氏は、趣味のDIYとしてタイニーハウスを建てました。彼はその家をエアビー（Airbnb）に掲載する予定です。",
-    "image": "https://media.loom-app.com/loom/2026/04/17/3154ac53-a190-4272-b059-dff93dfecdc7/original.jpg?w=1200&amp;h=630",
-    "fetched_at": "2026-05-08 17:53:14",
-    "ja_summary": "・オハイオ州のジム・マケルウェイン氏がDIYでタイニーハウスを10年かけ自作。\n・定年間近の同氏が、完成した家をAirbnbに掲載し運用を開始。\n・観光客向けの貸し出しにより、年間240万円の副収入獲得を目指す。"
-  },
-  {
-    "title": "金融向けAI アンソロピック発表",
-    "link": "https://news.yahoo.co.jp/pickup/6579040?source=rss",
-    "source": "Yahoo!ニュース IT・科学",
-    "published": "Wed, 06 May 2026 08:53:36 GMT",
-    "summary": "",
-    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/5/6/8136dd0af8a9d6def04a7caa2557e72715bf8db795c7335e7bc8bd1b97cc02cc.jpg",
-    "fetched_at": "2026-05-08 17:53:21",
-    "ja_summary": "・アンソロピックが金融業界特化型のAI活用基盤を新たに発表。\n・複雑な財務データや規制対応の分析において、高い精度と安全性を実現。\n・金融機関の業務効率化と意思決定の高度化を強力にサポート。"
-  },
-  {
-    "title": "OpenAIの「エージェントスマホ」は2027年発売？　デュアルNPUのMediaTekカスタムチップ搭載、タスク進捗並ぶ「ストリーム」UI採用　著名アナリストが報告",
-    "link": "https://www.techno-edge.net/article/2026/05/06/5043.html",
-    "source": "TechnoEdge",
-    "published": "Wed, 06 May 2026 16:44:13 +0900",
-    "summary": "サプライチェーン分析で実績を持つアナリスト、Ming-Chi Kuo氏は5月5日のレポートで、OpenAIが開発するAIエージェント特化スマートフォンは2027年前半にも量産開始の可能性が高まったと伝えています。",
-    "image": "https://www.techno-edge.net/imgs/rss/31243.jpg",
-    "fetched_at": "2026-05-08 17:53:23",
-    "ja_summary": "・OpenAIが開発するAIエージェント特化型スマホが、2027年前半に量産開始される見通し。\n・MediaTekのデュアルNPU搭載カスタムチップを採用する見込み。\n・タスクの進捗状況を可視化する独自の「ストリーム」UIが特徴となる。"
-  },
-  {
-    "title": "Parloa builds service agents customers want to talk to",
-    "link": "https://openai.com/index/parloa",
-    "source": "OpenAI",
-    "published": "Thu, 07 May 2026 11:00:00 GMT",
-    "summary": "Parloa leverages OpenAI models to power scalable, voice-driven AI customer service agents, enabling enterprises to design, simulate, and deploy reliable, real-time interactions.",
-    "image": "https://images.ctfassets.net/kftzwdyauwt9/AIhmC19juXLrDyAbpWliE/19b7fce51de7054c14135288545c43aa/oai_Parloa_SEO.png?w=1600&amp;h=900&amp;fit=fill",
-    "fetched_at": "2026-05-08 17:53:24",
-    "ja_summary": "・ParloaがOpenAIのモデルを活用し、人間味のある音声AIカスタマーサービスを開発。\n・企業は顧客と自然に対話できるAIエージェントの設計・構築・運用が可能。\n・リアルタイムかつ信頼性の高い自動対応で、顧客体験の向上と業務効率化を支援。"
-  },
-  {
-    "title": "Accelerating Maven Builds: From Snail's Pace 🐌 to Rocket Speed 🚀 (Devoxx UK)",
-    "link": "https://speakerdeck.com/mthmulders/accelerating-maven-builds-from-snails-pace-to-rocket-speed-devoxx-uk",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-05-07T06:57:06-04:00",
-    "summary": "Are you tired of watching Maven builds crawl at a snail’s pace, wasting precious development time? Spending too much time at the coffee machine, or fighting battles with wooden swords under the excuse “my code’s compiling”?\n\nJoin me to learn how to supercharge your Maven build! I’ll cover three main steps to start speeding up your project build. Learn how each speeds up your build, when they provide the biggest gains, and what pitfalls await.\n\nTake the next step in boosting your developer productivity by learning practical tips to decrease context switching and increase development speed and feedback cycle. Your journey from snail’s pace to rocket speed begins today!",
-    "image": "https://files.speakerdeck.com/presentations/2e6c026eb0ad4836b9cfe5c6881d573a/preview_slide_0.jpg?39327357",
-    "fetched_at": "2026-05-08 17:53:43",
-    "ja_summary": "・Mavenのビルド速度を劇的に改善するための実践的な3つの手法を解説する。\n・各手法の効果、適用すべきタイミング、注意すべき落とし穴を網羅的に紹介。\n・開発の待ち時間を減らし、生産性とフィードバックサイクルを向上させるコツを伝授する。"
   }
 ]
