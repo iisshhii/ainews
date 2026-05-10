@@ -1,5 +1,25 @@
 [
   {
+    "title": "Claude Code コマンド紹介集",
+    "link": "https://speakerdeck.com/mamodev/claude-code-komandoshao-jie-ji",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-05-10T11:37:41-04:00",
+    "summary": "Claude Code に用意されている操作・コマンドを一望するためのスライド集です。\n社内勉強会用に作成しました。\n\n  # 取り上げているテーマ\n\n  - Part 1. セッションを操作する\n    (/clear, /compact, /rewind, /branch, git worktree, /tasks, /btw など)\n  - Part 2. 状態・設定の確認\n    (/memory, /init, /config, /usage, /statusline, /permissions, /mcp)\n  - Part 3. 実装を進めるための操作\n    (指示の精度, /model, プランモード, /batch, /diff, /review,\n     /security-review, /simplify, ワークツリー, バックグラウンド退避)\n  - Part 4. ルール・スキル・サブエージェントを組む\n    (CLAUDE.md の階層, スキル vs サブエージェント, /agents, /skills,\n     /hooks, /loop, /schedule)\n  - Part 5. プラグイン・MCP・外部連携\n    (/plugin, /mcp, /teleport, /remote-control, ヘッドレス運用)\n  - Part 6. その他知っておくと便利なこと (キーボードショートカット小ネタ)\n\n  各コマンドには 「推奨:★〜★★★★」 の主観的な利用頻度レーティングを\n  付けています。\n\n  # こんな方向け\n\n  - Claude Code に触り始めて「他にどんな操作があるか」を俯瞰したい方\n  - 普段使っているコマンドの抜けや、再点検のヒントを探している方",
+    "image": "https://files.speakerdeck.com/presentations/e7dc9216faeb4a4faa35b3447f23d664/preview_slide_0.jpg?39357892",
+    "fetched_at": "2026-05-11 01:09:10",
+    "ja_summary": "・Claude Codeの全コマンドと機能を体系的に学べる社内勉強会向け資料。\n・セッション操作から高度なエージェント設定、MCP連携まで6部構成で網羅。\n・各コマンドに利用頻度の推奨度を記載し、効率的な使いこなしをサポート。"
+  },
+  {
+    "title": "Claude Codeを設計思想として読み解く",
+    "link": "https://speakerdeck.com/mamodev/claude-codewoshe-ji-si-xiang-tositedu-mijie-ku",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-05-10T09:25:58-04:00",
+    "summary": "Claude Code を「使い方」ではなく「どう作られているか」「なぜそう作られているか」という\n設計思想の側から読み解くスライド集です。\n  社内勉強会用に作成しました。\n\n  # 取り上げているテーマ\n\n  - Part 1. Claude Code はどう動いているか\n    (OS 的な土台, ターミナルへのマウント, プロンプト階層, 短期記憶の Skeptical Memory,\n     コンテキスト劣化と /compact, md に落とす作法, ツールアクセスのレバー,\n     確率的な LLM × 決定論的なツール, MCP, Bash/CLI 経由アクセス)\n  - Part 2. エージェントを加速する\n    (並行開発, 待ち時間とコストの最適化, サブエージェントによる粒度調整,\n     ヘッドレスモードでの部品化, 拡張機構の全体像)\n  - Part 3. 検証ループ\n    (Huang 2023「LLM は自己反省できない」, 外部信号があってこその反復改善,\n     explore → plan → code, hooks による自動化ループ, hooks から claude -p を呼ぶ)\n  - Part 4. エージェントを縛る\n    (なぜ縛る必要があるのか, 縛る道具を 4 レイヤー (モード / 指示 / 設定 / 隔離) で捉える,\n     揮発・お願いから永続・物理まで, evals による劣化の測定と段階的アプローチ)\n  - Part 5. まとめ\n    (押さえるべき 5 点)\n\n  Copilot 系 (補完の速度・正確性を最適化) との対比で、Claude Code が「長対話の中で\n  一貫した解決」を最適化しているという見立てを起点に組み立てています。\n\n  # こんな方向け\n\n  - Claude Code を「コマンド集」ではなく「設計判断の集合」として読み解きたい方\n  - Copilot 系との違いを、モチベーションを含めて言語化したい方\n  - LLM/エージェントを使うチームで、運用設計 (検証信号・縛る道具・evals) を考えたい方",
+    "image": "https://files.speakerdeck.com/presentations/2e01f515b29e464180ff244ce9d790b5/preview_slide_0.jpg?39357638",
+    "fetched_at": "2026-05-11 01:09:10",
+    "ja_summary": "Claude Codeを「コマンド集」ではなく「設計判断の集合」と捉え、その動作原理や開発思想を詳細に解説した技術資料。\nCopilot系との違いを「長対話での一貫した解決」と定義し、エージェントの実践的な運用設計や制御手法を体系化している。\nLLMを用いた開発環境の構築や、エージェントを制御・検証するためのアーキテクチャに関心がある層向けの内容。"
+  },
+  {
     "title": "限定公開のAI「Claude Mythos」、新たなサイバー防衛の枠組みも",
     "link": "https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/042100314/",
     "source": "日経クロステック 総合",
@@ -978,25 +998,5 @@
     "image": "https://business.nikkei.com/atcl/NBD/19/special/02489/fb.jpg",
     "fetched_at": "2026-05-08 20:50:12",
     "ja_summary": "・日本は戦略17分野のうち、AIや造船、創薬など5つの最前線に注力。\n・官民の巨額投資を通じ、世界で「不可欠な存在」となる産業の育成を目指す。\n・現場のデータ活用や新技術の協業で、日本企業の競争力強化と覇権獲得を図る。"
-  },
-  {
-    "title": "Advancing voice intelligence with new models in the API",
-    "link": "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api",
-    "source": "OpenAI",
-    "published": "Thu, 07 May 2026 10:00:00 GMT",
-    "summary": "Explore new realtime voice models in the OpenAI API that can reason, translate, and transcribe speech, enabling more natural and intelligent voice experiences.",
-    "image": "https://images.ctfassets.net/kftzwdyauwt9/CtzMayHtxIkcMPAo8BpqJ/966285cf3802995841337122190ec2fd/OAI_GPT-Realtime-2_Art_Card_16x9.png.png?w=1600&amp;h=900&amp;fit=fill",
-    "fetched_at": "2026-05-08 20:50:34",
-    "ja_summary": "・OpenAI APIに、リアルタイムで音声を処理する新モデルが追加。\n・音声の推論、翻訳、文字起こしを高精度かつ自然に実現。\n・より知的な音声対話システムを開発・実装することが可能に。"
-  },
-  {
-    "title": "Introducing Trusted Contact in ChatGPT",
-    "link": "https://openai.com/index/introducing-trusted-contact-in-chatgpt",
-    "source": "OpenAI",
-    "published": "Thu, 07 May 2026 00:00:00 GMT",
-    "summary": "Introducing Trusted Contact in ChatGPT, an optional safety feature that notifies someone you trust if serious self-harm concerns are detected.",
-    "image": "https://images.ctfassets.net/kftzwdyauwt9/717fkfVfad6sZoA19CqwrX/173d606c4088c58b077b6771ddaf8972/SEO-Trusted-Contact-1920x1080.png?w=1600&amp;h=900&amp;fit=fill",
-    "fetched_at": "2026-05-08 20:50:34",
-    "ja_summary": "ChatGPTに、深刻な自傷行為の懸念を検知した際に信頼できる連絡先へ通知を送る安全機能「Trusted Contact」が追加された。"
   }
 ]
