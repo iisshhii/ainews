@@ -1,5 +1,35 @@
 [
   {
+    "title": "限定公開のAI「Claude Mythos」、新たなサイバー防衛の枠組みも",
+    "link": "https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/042100314/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "Claude Mythos（クロード・ミュトス）は米Anthropic（アンソロピック）が発表した新しい大規模言語モデル（LLM）である。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/042100314/topm.jpg?20220512",
+    "fetched_at": "2026-05-11 00:12:31",
+    "ja_summary": "・米Anthropic社が新しい大規模言語モデル「Claude Mythos」を発表。\n・限定公開のモデルであり、新たなサイバー防衛の枠組みを備えている。"
+  },
+  {
+    "title": "Copilot搭載の「Edge」が情報収集を効率化、検索から対話へ",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/02737/042600057/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "Webブラウザーに対話型生成AI（人工知能）を組み込む動きが広がっている。例えばWindows標準のWebブラウザー「Edge」は、米Microsoft（マイクロソフト）の「Copilot」を搭載している。Webブラウザーに対話型AIを組み込むことにより、インターネットの情報収集が「検索してその結果の中から情報を探し出す」から「質問で回答を得る」に大きく変化する。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/02737/042600057/topm.jpg?20220512",
+    "fetched_at": "2026-05-11 00:12:32",
+    "ja_summary": "・Microsoft EdgeにAI「Copilot」が統合され、情報収集が効率化。\n・Web検索の手間が省け、質問に対して直接回答を得る形式へ変化。\n・検索から対話へと移行し、ネット利用のスタイルが大きく刷新された。"
+  },
+  {
+    "title": "【緊急】Cursorに「git clone」するだけでPCが乗っ取られる脆弱性！CVSS 9.9のヤバすぎる攻撃手法",
+    "link": "https://qiita.com/emi_ndk/items/8e6607a09cb8ff86c298",
+    "source": "Qiita (Popular)",
+    "published": "2026-05-06T15:44:14+09:00",
+    "summary": "**結論から言うと、Cursorユーザーは今すぐバージョン2.5以上にアップデートしてください。**\n\n2026年4月28日、AIコーディングツール「Cursor」に**CVSS 9.9（NVD評価）** の致命的な脆弱性が公開されました。\n\n悪意のあるリポジトリを開いて Cursor の AIエージェントに作業させるだけで、**ユーザーが何も承認しなくても**PC上で任意コードが実行されます。\n",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmF2YXRhcnMuZ2l0aHVidXNlcmNvbnRlbnQuY29tJTJGdSUyRjU0MTczODUwJTNGdiUzRDQ_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPTQ5ZGU0OTdkMjMwMjhmNWZmOTcwNmZlNGNmY2E5MDZm%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D29ced0e10c8c1d24806abaf93840cae7?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJTkwJUU3JUI3JThBJUU2JTgwJUE1JUUzJTgwJTkxQ3Vyc29yJUUzJTgxJUFCJUUzJTgwJThDZ2l0JTIwY2xvbmUlRTMlODAlOEQlRTMlODElOTklRTMlODIlOEIlRTMlODElQTAlRTMlODElOTElRTMlODElQTdQQyVFMyU4MSU4QyVFNCVCOSU5NyVFMyU4MSVBMyVFNSU4RiU5NiVFMyU4MiU4OSVFMyU4MiU4QyVFMyU4MiU4QiVFOCU4NCU4NiVFNSVCQyVCMSVFNiU4MCVBNyVFRiVCQyU4MUNWU1MlMjA5LjklRTMlODElQUUlRTMlODMlQTQlRTMlODMlOTAlRTMlODElOTklRTMlODElOEUlRTMlODIlOEIlRTYlOTQlQkIlRTYlOTIlODMlRTYlODklOEIlRTYlQjMlOTUmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1mNjU4YzgwZDFjOWMwODEyYTIzYjg4YWY4N2UzNDRkMQ&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBlbWlfbmRrJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9NzU0NDg1YzBhMGMzNTE3YTkwZWM1ZTU4MzFlOTQyMWY&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=49f5ab209b830984d232870fb446d630",
+    "fetched_at": "2026-05-11 00:13:09",
+    "ja_summary": "・AIコーディングツール「Cursor」にPCが乗っ取られる致命的な脆弱性（CVSS 9.9）が発覚。\n・悪意あるリポジトリを読み込ませるだけで、ユーザー無操作でコードを実行される危険がある。\n・全ユーザーは直ちにバージョン2.5以上にアップデートすること。"
+  },
+  {
     "title": "米企業の新型AI 危険視される能力",
     "link": "https://news.yahoo.co.jp/pickup/6579561?source=rss",
     "source": "Yahoo!ニュース IT・科学",
@@ -968,35 +998,5 @@
     "image": "https://images.ctfassets.net/kftzwdyauwt9/717fkfVfad6sZoA19CqwrX/173d606c4088c58b077b6771ddaf8972/SEO-Trusted-Contact-1920x1080.png?w=1600&amp;h=900&amp;fit=fill",
     "fetched_at": "2026-05-08 20:50:34",
     "ja_summary": "ChatGPTに、深刻な自傷行為の懸念を検知した際に信頼できる連絡先へ通知を送る安全機能「Trusted Contact」が追加された。"
-  },
-  {
-    "title": "Cortex Codeを組織で活用する際のポイント",
-    "link": "https://zenn.dev/intage_tech/articles/art018-intage-tech",
-    "source": "Zenn Trends",
-    "published": "Thu, 07 May 2026 10:00:10 GMT",
-    "summary": "はじめに\nこんにちは！インテージの児玉です。\nAIエージェントの技術進化が加速するなか、Snowflakeからも待望のAIエージェントとして 「Cortex Code」 が登場しました。\nCortex Codeは、個人の開発体験を劇的に向上させますが、組織の開発フローに組み込む際には、以下の観点が重要になります。\n\n自律実行の安全性担保と実行プロセスの透明化\nエージェントへのドメイン知識や開発規律の反映\n\n本記事では、私自身が感じたCortex Codeを組織で活用する際のポイントを紹介します。\n!\n本記事で紹介する内容\n\n\n①：ガバナンス設計とコスト制御\n権限管理（RBAC）とリソ...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--kH_ncR2v--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Cortex%2520Code%25E3%2582%2592%25E7%25B5%2584%25E7%25B9%2594%25E3%2581%25A7%25E6%25B4%25BB%25E7%2594%25A8%25E3%2581%2599%25E3%2582%258B%25E9%259A%259B%25E3%2581%25AE%25E3%2583%259D%25E3%2582%25A4%25E3%2583%25B3%25E3%2583%2588%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:kodama%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzZmOTUyMDVlZmYuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:INTAGE%2520TECH%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2I2MTA5ZDM4ZTAuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-    "fetched_at": "2026-05-08 20:50:48",
-    "ja_summary": "・SnowflakeのAIエージェント「Cortex Code」を組織導入する際は、自律実行の安全性確保と開発規律の反映が不可欠。\n・適切な権限管理（RBAC）やコスト制御といったガバナンス設計が重要。\n・技術活用と組織統制を両立させるためのポイントを解説。"
-  },
-  {
-    "title": "1年間の育休に備えて「勝手に賢くなる」AI情報収集基盤を作った",
-    "link": "https://zenn.dev/tokium_dev/articles/20260427_ai_tech_researcher",
-    "source": "Zenn Trends",
-    "published": "Thu, 07 May 2026 06:00:09 GMT",
-    "summary": "はじめに\nこんにちは、TOKIUMでEMをしているskです。\nもうすぐ1年間の育休に入ります👶🍼\n新生活がとても楽しみな一方で、ひとつ気がかりなことがあります。\nそれは生成AI周りの技術トレンド、1年離れたら完全に浦島太郎になるのでは？ という点です。\nこの領域は1週間単位でも新しいツールや手法がどんどん出てきます。\n1年後に復帰して「え、この作業って誰も手動でやっていないの？」「社内でxxというAIツールが流行っているけど一体何者なんだ、、？」などと困惑する未来が容易に想像できました。\nかといって、育休中にZennやQiitaを巡回する余裕はなさそうです。\nほしいのは 「放っておい...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--Fpzf6Frn--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:1%25E5%25B9%25B4%25E9%2596%2593%25E3%2581%25AE%25E8%2582%25B2%25E4%25BC%2591%25E3%2581%25AB%25E5%2582%2599%25E3%2581%2588%25E3%2581%25A6%25E3%2580%258C%25E5%258B%259D%25E6%2589%258B%25E3%2581%25AB%25E8%25B3%25A2%25E3%2581%258F%25E3%2581%25AA%25E3%2582%258B%25E3%2580%258DAI%25E6%2583%2585%25E5%25A0%25B1%25E5%258F%258E%25E9%259B%2586%25E5%259F%25BA%25E7%259B%25A4%25E3%2582%2592%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:sk%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzViNTEwYjI5ZjEuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:TOKIUM%25E3%2583%2597%25E3%2583%25AD%25E3%2583%2580%25E3%2582%25AF%25E3%2583%2588%25E3%2583%2581%25E3%2583%25BC%25E3%2583%25A0%2520%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2E2NDM1NDE3NmMuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-    "fetched_at": "2026-05-08 20:50:49",
-    "ja_summary": "・1年間の育休中、激しく変化する生成AIの技術トレンドから取り残される不安を解消するため、情報収集を自動化する仕組みを構築。\n・手間をかけずに最新情報を自動で整理・要約し、自分専用のナレッジベースを作成することで、復帰後の技術キャッチアップを容易にする。"
-  },
-  {
-    "title": "Building reliable AI systems in production",
-    "link": "https://speakerdeck.com/anandchowdhary/building-reliable-ai-systems-in-production",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-05-08T06:11:01-04:00",
-    "summary": "",
-    "image": "https://files.speakerdeck.com/presentations/a30717b0d4584720be7e7bdf5f3093c7/preview_slide_0.jpg?39339521",
-    "fetched_at": "2026-05-08 20:50:50",
-    "ja_summary": "AIを本番環境で安定運用するには、データ品質の維持、継続的なモニタリング、および発生時の迅速な復旧体制が不可欠です。\n開発段階だけでなく運用を見据えたアーキテクチャ設計を行い、自動化ツールを活用してリスクを最小限に抑えることが重要です。"
   }
 ]
