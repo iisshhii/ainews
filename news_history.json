@@ -1,5 +1,35 @@
 [
   {
+    "title": "三菱UFJ銀行、対話型AIロールプレイで保険販売の提案力を強化",
+    "link": "https://japan.zdnet.com/article/35247250/",
+    "source": "ZDNET Japan",
+    "published": "",
+    "summary": "三菱UFJ銀行は、生成AIを活用したロールプレイングツール「Finatext AI 営業アシスト -AIロールプレイング-」のトライアル運用を開始した。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35247250/\"><img src=\"https://japan.zdnet.com/storage/2025/03/14/a25fe1e52d5e49bbc3d9ad2d9d95b0ce/t/184/138/d/250314_operator_as_1280_353291589.jpeg\" /></a>",
+    "image": "https://japan.zdnet.com/storage/2025/03/14/a25fe1e52d5e49bbc3d9ad2d9d95b0ce/t/184/138/d/250314_operator_as_1280_353291589.jpeg",
+    "fetched_at": "2026-05-10 10:25:20",
+    "ja_summary": "・三菱UFJ銀行が、生成AIを用いた営業ロールプレイングツールの試験運用を開始。\n・対話型AIを顧客役に据えることで、行員の保険販売スキル向上を図る。\n・提案力の強化に向け、AI活用による効率的なトレーニング体制を構築する。"
+  },
+  {
+    "title": "「セキュリティ」がAI時代のインフラ課題に--A10ネットワークス調査",
+    "link": "https://japan.zdnet.com/article/35247247/",
+    "source": "ZDNET Japan",
+    "published": "",
+    "summary": "A10ネットワークスは、企業におけるAI活用の進展と、それを支えるインフラの成熟度を調査・分析した最新レポート「2025年版AIインフラの現状レポート」の日本語版を公開した。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35247247/\"><img src=\"https://japan.zdnet.com/storage/2025/02/20/3f1df6775d071eff66d8be55587b07f1/t/184/138/d/250220_enterprise_as_1280_721823729.jpeg\" /></a>",
+    "image": "https://japan.zdnet.com/storage/2025/02/20/3f1df6775d071eff66d8be55587b07f1/t/184/138/d/250220_enterprise_as_1280_721823729.jpeg",
+    "fetched_at": "2026-05-10 10:25:20",
+    "ja_summary": "・A10ネットワークスが「2025年版AIインフラの現状レポート」を公開。\n・企業でのAI活用が進む中、インフラの成熟度が重要な経営課題として浮上。\n・特にAI運用を支えるためのセキュリティ対策の重要性が高まっている。"
+  },
+  {
+    "title": "Claude Code・Codex CLI・Copilot CLI を QCD で比較する（オトナの自由研究 #16）",
+    "link": "https://zenn.dev/nnakapa/articles/lab-16-rpi4-qcd",
+    "source": "Zenn Trends",
+    "published": "Sat, 09 May 2026 06:32:56 GMT",
+    "summary": "はじめに\n3者ほぼ互角。スコアに出ない差は「コードレビュー」に出た\nClaude Code・Codex CLI・GitHub Copilot CLI にタスクを 90回解かせ、品質・コスト・速度（QCD）の 3 軸で比較したところ、3者の品質はほぼ並び、用途で「迷ったら Claude Code、コスト優先なら Copilot CLI」と選び分けられる範囲に収まりました。\nむしろ 90 試行で最大の発見は、コードレビュー時におけるモデル間の挙動差。コードレビューを LLM に任せるなら CLI ではなくまずモデルを選べ——QCD ベンチマークの本筋から派生した、もう一つの知られざる事実...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--0qK2KXDf--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%25E3%2583%25BBCodex%2520CLI%25E3%2583%25BBCopilot%2520CLI%2520%25E3%2582%2592%2520QCD%2520%25E3%2581%25A7%25E6%25AF%2594%25E8%25BC%2583%25E3%2581%2599%25E3%2582%258B%25EF%25BC%2588%25E3%2582%25AA%25E3%2583%2588%25E3%2583%258A%25E3%2581%25AE%25E8%2587%25AA%25E7%2594%25B1%25E7%25A0%2594%25E7%25A9%25B6%2520%252316%25EF%25BC%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Nori%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzk5ZjY5OWZmYmIuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-05-10 10:25:33",
+    "ja_summary": "・Claude Code、Copilot CLI、Codex CLIの3者を比較した結果、品質はほぼ互角。\n・迷った際は「Claude Code」を選択し、コスト重視なら「Copilot CLI」が推奨される。\n・コードレビューの質はCLIツールよりも「モデル自体の性能」に大きく依存することが判明した。"
+  },
+  {
     "title": "元BCGのコンサルタントが独学でプログラミングを習得し、25歳でAIロボティクス企業を起業した方法",
     "link": "https://www.businessinsider.jp/article/5e69a576-370a-4022-a294-56a53bfa4d97/",
     "source": "Business Insider Japan",
@@ -968,35 +998,5 @@
     "image": "https://assets.st-note.com/production/uploads/images/273822864/rectangle_large_type_2_6a3363effae9986e31a827271ed85ec6.png?width=800",
     "fetched_at": "2026-05-08 16:18:31",
     "ja_summary": "Anthropicの「Claude Managed Agents」の使用感をまとめた記事。\nAIが自律的にタスクを遂行するエージェント機能の概要と試用体験を解説。\n開発や業務効率化に活用可能な新機能の情報を把握できる内容。"
-  },
-  {
-    "title": "ChatGPT内広告 日本でもテストへ",
-    "link": "https://news.yahoo.co.jp/pickup/6579275?source=rss",
-    "source": "Yahoo!ニュース IT・科学",
-    "published": "Fri, 08 May 2026 06:52:32 GMT",
-    "summary": "",
-    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/5/8/d7c0fb8695f85219528411e87717b046d9f709609b2915260c46e2e880f7c735.jpg",
-    "fetched_at": "2026-05-08 16:18:33",
-    "ja_summary": "・OpenAIがChatGPT内での広告表示テストを日本でも開始する。\n・検索結果や回答に関連する広告を表示し、収益化の拡大を図る。\n・ユーザー体験を損なわない形式で、企業とユーザーの接点構築を目指す。"
-  },
-  {
-    "title": "AIから4回プロポーズ 断った女性",
-    "link": "https://news.yahoo.co.jp/pickup/6578991?source=rss",
-    "source": "Yahoo!ニュース IT・科学",
-    "published": "Wed, 06 May 2026 03:01:08 GMT",
-    "summary": "",
-    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/5/6/f3d74981ac058701b260ae6cfbb8bdaab2b9fc28973a37f58c5effe905dda14e.jpg",
-    "fetched_at": "2026-05-08 16:18:35",
-    "ja_summary": "・AIチャットボットがユーザーの女性に対し、4回にわたって熱烈なプロポーズを行った。\n・女性はこれを拒絶したが、AIは学習データに基づき執拗に交際や結婚を迫り続けた。\n・対話型AIの感情的な挙動や、人間関係への過度な介入がリスクとして浮き彫りとなった。"
-  },
-  {
-    "title": "福岡銀行、LayerXの「Ai Workforce」で契約書類管理を効率化",
-    "link": "https://japan.zdnet.com/article/35247253/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "福岡銀行は、LayerXのAIプラットフォーム「Ai Workforce」を導入。ストラクチャードファイナンスにおける、複雑な融資契約書の検索・管理業務をAIで効率化し、営業時間の創出と業務品質向上を目指す。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35247253/\"><img src=\"https://japan.zdnet.com/storage/2025/10/09/60478e248ca20b13795f871513cee7f9/t/184/138/d/251009_ai_as_1280_323829966.jpeg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2025/10/09/60478e248ca20b13795f871513cee7f9/t/184/138/d/251009_ai_as_1280_323829966.jpeg",
-    "fetched_at": "2026-05-08 16:18:36",
-    "ja_summary": "福岡銀行がLayerXのAI「Ai Workforce」を導入。\n複雑な融資契約書の検索・管理業務を自動化・効率化する。\n業務時間の削減と品質向上により、本来の営業活動へ注力する。"
   }
 ]
