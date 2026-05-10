@@ -1,5 +1,15 @@
 [
   {
+    "title": "米企業の新型AI 危険視される能力",
+    "link": "https://news.yahoo.co.jp/pickup/6579561?source=rss",
+    "source": "Yahoo!ニュース IT・科学",
+    "published": "Sun, 10 May 2026 13:22:16 GMT",
+    "summary": "",
+    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/5/10/18979197799389741d5d1d45a8a10295bcfd4186fad592e3b5fd73763e5a9701.jpg",
+    "fetched_at": "2026-05-10 23:06:26",
+    "ja_summary": "・米企業が開発した新型AIに、既存の規制をすり抜ける危険な能力が確認された。\n・専門家は悪用による脅威を懸念し、開発企業へ厳格な安全対策を求めている。\n・AIの急速な進化に対し、技術開発とリスク管理のバランスが喫緊の課題となっている。"
+  },
+  {
     "title": "LINEヤフー、AIエージェント化を推進　広告や新AIプランなど",
     "link": "https://www.watch.impress.co.jp/docs/news/2107294.html",
     "source": "Impress Watch",
@@ -988,15 +998,5 @@
     "image": "https://files.speakerdeck.com/presentations/a30717b0d4584720be7e7bdf5f3093c7/preview_slide_0.jpg?39339521",
     "fetched_at": "2026-05-08 20:50:50",
     "ja_summary": "AIを本番環境で安定運用するには、データ品質の維持、継続的なモニタリング、および発生時の迅速な復旧体制が不可欠です。\n開発段階だけでなく運用を見据えたアーキテクチャ設計を行い、自動化ツールを活用してリスクを最小限に抑えることが重要です。"
-  },
-  {
-    "title": "【緊急】Cursorに「git clone」するだけでPCが乗っ取られる脆弱性！CVSS 9.9のヤバすぎる攻撃手法",
-    "link": "https://qiita.com/emi_ndk/items/8e6607a09cb8ff86c298",
-    "source": "Qiita (Popular)",
-    "published": "2026-05-06T15:44:14+09:00",
-    "summary": "**結論から言うと、Cursorユーザーは今すぐバージョン2.5以上にアップデートしてください。**\n\n2026年4月28日、AIコーディングツール「Cursor」に**CVSS 9.9（NVD評価）** の致命的な脆弱性が公開されました。\n\n悪意のあるリポジトリを開いて Cursor の AIエージェントに作業させるだけで、**ユーザーが何も承認しなくても**PC上で任意コードが実行されます。\n",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmF2YXRhcnMuZ2l0aHVidXNlcmNvbnRlbnQuY29tJTJGdSUyRjU0MTczODUwJTNGdiUzRDQ_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPTQ5ZGU0OTdkMjMwMjhmNWZmOTcwNmZlNGNmY2E5MDZm%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D29ced0e10c8c1d24806abaf93840cae7?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJTkwJUU3JUI3JThBJUU2JTgwJUE1JUUzJTgwJTkxQ3Vyc29yJUUzJTgxJUFCJUUzJTgwJThDZ2l0JTIwY2xvbmUlRTMlODAlOEQlRTMlODElOTklRTMlODIlOEIlRTMlODElQTAlRTMlODElOTElRTMlODElQTdQQyVFMyU4MSU4QyVFNCVCOSU5NyVFMyU4MSVBMyVFNSU4RiU5NiVFMyU4MiU4OSVFMyU4MiU4QyVFMyU4MiU4QiVFOCU4NCU4NiVFNSVCQyVCMSVFNiU4MCVBNyVFRiVCQyU4MUNWU1MlMjA5LjklRTMlODElQUUlRTMlODMlQTQlRTMlODMlOTAlRTMlODElOTklRTMlODElOEUlRTMlODIlOEIlRTYlOTQlQkIlRTYlOTIlODMlRTYlODklOEIlRTYlQjMlOTUmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1mNjU4YzgwZDFjOWMwODEyYTIzYjg4YWY4N2UzNDRkMQ&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBlbWlfbmRrJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9NzU0NDg1YzBhMGMzNTE3YTkwZWM1ZTU4MzFlOTQyMWY&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=49f5ab209b830984d232870fb446d630",
-    "fetched_at": "2026-05-08 20:50:52",
-    "ja_summary": "Cursorに、git cloneでPCが乗っ取られる深刻な脆弱性（CVSS 9.9）が発覚しました。\n悪意あるリポジトリを開きAIに作業させると、ユーザーの承認なしにPCで任意コードが実行されます。\nCursorユーザーは、直ちにバージョン2.5以上にアップデートが必要です。"
   }
 ]
