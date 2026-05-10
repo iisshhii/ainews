@@ -1,5 +1,65 @@
 [
   {
+    "title": "定年間近のX世代男性、趣味のDIYで10年かけて「狭小住宅」を建てる。エアビーで年240万円の副収入を目指す",
+    "link": "https://www.businessinsider.jp/article/2605-how-a-genx-tech-salesman-built-tiny-home-for-45k/",
+    "source": "Business Insider Japan",
+    "published": "Fri, 08 May 2026 08:30:00 GMT",
+    "summary": "オハイオ州在住のジム・マケルウェイン氏は、趣味のDIYとしてタイニーハウスを建てました。彼はその家をエアビー（Airbnb）に掲載する予定です。",
+    "image": "https://media.loom-app.com/loom/2026/04/17/3154ac53-a190-4272-b059-dff93dfecdc7/original.jpg?w=1200&amp;h=630",
+    "fetched_at": "2026-05-10 19:37:16",
+    "ja_summary": "・オハイオ州のジム・マケルウェイン氏がDIYで10年かけタイニーハウスを建設。\n・定年間近の同氏は、この物件をAirbnbに登録予定。\n・宿泊事業により年間240万円の副収入獲得を目指す。"
+  },
+  {
+    "title": "OpenAIの「エージェントスマホ」は2027年発売？　デュアルNPUのMediaTekカスタムチップ搭載、タスク進捗並ぶ「ストリーム」UI採用　著名アナリストが報告",
+    "link": "https://www.techno-edge.net/article/2026/05/06/5043.html",
+    "source": "TechnoEdge",
+    "published": "Wed, 06 May 2026 16:44:13 +0900",
+    "summary": "サプライチェーン分析で実績を持つアナリスト、Ming-Chi Kuo氏は5月5日のレポートで、OpenAIが開発するAIエージェント特化スマートフォンは2027年前半にも量産開始の可能性が高まったと伝えています。",
+    "image": "https://www.techno-edge.net/imgs/rss/31243.jpg",
+    "fetched_at": "2026-05-10 19:37:21",
+    "ja_summary": "・OpenAIが開発するAIエージェント特化型スマホが2027年前半に量産開始の見通し。\n・MediaTek製のカスタムチップ（デュアルNPU）を搭載する見込み。\n・タスクの進捗状況を可視化する独自の「ストリーム」UIを採用する。"
+  },
+  {
+    "title": "Parloa builds service agents customers want to talk to",
+    "link": "https://openai.com/index/parloa",
+    "source": "OpenAI",
+    "published": "Thu, 07 May 2026 11:00:00 GMT",
+    "summary": "Parloa leverages OpenAI models to power scalable, voice-driven AI customer service agents, enabling enterprises to design, simulate, and deploy reliable, real-time interactions.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/AIhmC19juXLrDyAbpWliE/19b7fce51de7054c14135288545c43aa/oai_Parloa_SEO.png?w=1600&amp;h=900&amp;fit=fill",
+    "fetched_at": "2026-05-10 19:37:23",
+    "ja_summary": "・ParloaがOpenAIのモデルを活用し、対話型AIの顧客対応サービスを開発。\n・企業は高品質でリアルタイムな自動音声エージェントの設計・導入が可能。\n・スケーラブルなAI活用により、顧客体験を向上させる自動化を実現。"
+  },
+  {
+    "title": "CodexをローカルLLMで駆動する",
+    "link": "https://zenn.dev/robustonian/articles/codex_with_local_llm",
+    "source": "Zenn Trends",
+    "published": "Sun, 10 May 2026 07:47:08 GMT",
+    "summary": "はじめに\n本記事では、ローカルLLMを用いてCodex CLIを駆動するための方法についてまとめる。\n!\n検証環境はUbuntu 24.04 LTSで行っているが、一般的なLinuxや、Mac、WSL環境でもそのまま使えるかも。\n\n\n 背景\n私は生成AIのベンチマーク評価をすることが趣味の一つなのだが、最近はLLMとClaude CodeやCodexなどのハーネスを組み合わせた際のエージェント性能を評価することが多い。\n一般的なハーネスはOpenAI Compatible、すなわちChat Completion APIで動くものが殆どで、それ以外としてClaude CodeはAnth...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s---3c-iGH---/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Codex%25E3%2582%2592%25E3%2583%25AD%25E3%2583%25BC%25E3%2582%25AB%25E3%2583%25ABLLM%25E3%2581%25A7%25E9%25A7%2586%25E5%258B%2595%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E9%2587%2591%25E3%2581%25AE%25E3%2583%258B%25E3%2583%25AF%25E3%2583%2588%25E3%2583%25AA%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzQ1NmVjZjczNWIuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-05-10 19:37:29",
+    "ja_summary": "・ローカルLLMを活用し、本来OpenAI等のAPIを前提とする「Codex CLI」を環境構築する手法を解説。\n・Ubuntu等のLinux環境（MacやWSLも想定）において、生成AIエージェントの性能評価を行うための技術的知見を共有。"
+  },
+  {
+    "title": "Pythonプロジェクトを作るたびに同じ設定をコピペするのをやめたい（Copier使ってみた）",
+    "link": "https://zenn.dev/zaspa/articles/adf4230e859665",
+    "source": "Zenn Trends",
+    "published": "Sat, 09 May 2026 16:21:53 GMT",
+    "summary": "1. はじめに\n最近は、Claude CodeやCodexなどを使うことで、色々なアプリを作るハードルが下がってきました。\n一方で、毎回Pythonプロジェクトの初期設定をするのは、地味に面倒です。\n例えば、pyproject.toml に Ruff などの設定を書き、.editorconfig、Taskfile.yaml、.gitignore、README.md なども過去のプロジェクトからコピーして、プロジェクト名やパッケージ名だけ直す、という面倒な作業を繰り返していました。\nそのせいで、少し試したいことがあっても「また初期設定するのか」と感じ、新しい環境を作るハードルになってい...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--i_YqUfdI--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Python%25E3%2583%2597%25E3%2583%25AD%25E3%2582%25B8%25E3%2582%25A7%25E3%2582%25AF%25E3%2583%2588%25E3%2582%2592%25E4%25BD%259C%25E3%2582%258B%25E3%2581%259F%25E3%2581%25B3%25E3%2581%25AB%25E5%2590%258C%25E3%2581%2598%25E8%25A8%25AD%25E5%25AE%259A%25E3%2582%2592%25E3%2582%25B3%25E3%2583%2594%25E3%2583%259A%25E3%2581%2599%25E3%2582%258B%25E3%2581%25AE%25E3%2582%2592%25E3%2582%2584%25E3%2582%2581%25E3%2581%259F%25E3%2581%2584%25EF%25BC%2588Copier%25E4%25BD%25BF%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%25EF%25BC%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:zaspa%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzliMTM1NzFhMTYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-05-10 19:37:30",
+    "ja_summary": "Pythonプロジェクト立ち上げ時の設定コピー作業を自動化したい。\nテンプレート管理ツールの「Copier」を導入し、環境構築の効率化を図る。\n面倒な定型作業を排除することで、開発の着手ハードルを大幅に下げる。"
+  },
+  {
+    "title": "ISUNARABE合同演習2026とかいう最高のイベントに参加してきた",
+    "link": "https://zenn.dev/rail44/articles/932a22e70ef98d",
+    "source": "Zenn Trends",
+    "published": "Sat, 09 May 2026 14:29:17 GMT",
+    "summary": "@KOBA789さん主催のもと、ISUNARABE合同演習2026が開催されるというのを前日深夜に知り、面白そうだし勉強にもなりそうなんでシュッと参加してきました。\nパフォーマンスチューニング大会であるISUCONを、参加者全員AIエージェント無制限で行うと何がおきるのか、という趣旨のやつです。\n今、これを書きながら過去の自分のブログを調べてみたところ、非公式とはいえ ISUCON 2015 予選以来の11年ぶり2度目の模様。(語尾が「ジャバ」なのはなんなの)\n!\nネタバレ: ボロ負け\n\n!\nなので以下のタイムラインはあまり役に立たず、記事末の感想と反省がメインコンテンツとも言えます\n\n...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--de_of6ru--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:ISUNARABE%25E5%2590%2588%25E5%2590%258C%25E6%25BC%2594%25E7%25BF%25922026%25E3%2581%25A8%25E3%2581%258B%25E3%2581%2584%25E3%2581%2586%25E6%259C%2580%25E9%25AB%2598%25E3%2581%25AE%25E3%2582%25A4%25E3%2583%2599%25E3%2583%25B3%25E3%2583%2588%25E3%2581%25AB%25E5%258F%2582%25E5%258A%25A0%25E3%2581%2597%25E3%2581%25A6%25E3%2581%258D%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:rail44%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2E1NzIxM2E1YzkuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-05-10 19:37:30",
+    "ja_summary": "・AIエージェント無制限のISUCON形式イベント「ISUNARABE合同演習2026」に参加。\n・11年ぶりの参戦となったが、結果は惨敗。\n・技術的なノウハウよりも、AI活用に関する反省や感想がメインの体験記。"
+  },
+  {
     "title": "Claude Mythos、Firefoxの271件のバグを修正　20年前のバグも",
     "link": "https://www.watch.impress.co.jp/docs/news/2107200.html",
     "source": "Impress Watch",
@@ -938,65 +998,5 @@
     "image": "https://www.anthropic.com/api/opengraph-illustration?name=Node%20Globe&amp;backgroundColor=fig",
     "fetched_at": "2026-05-08 19:18:46",
     "ja_summary": "・AI「Claude」の利用上限が緩和され、より長時間の作業が可能に。\n・SpaceXとの計算リソース提供契約により、処理能力を強化。\n・利便性向上と技術基盤の拡充で、さらなるユーザー体験を追求。"
-  },
-  {
-    "title": "Building a new enterprise AI services company with Blackstone, Hellman & Friedman, and Goldman Sachs",
-    "link": "https://www.anthropic.com/news/enterprise-ai-services-company",
-    "source": "Anthropic (News)",
-    "published": "Mon, 04 May 2026 00:00:00 +0000",
-    "summary": "Building a new enterprise AI services company with Blackstone, Hellman & Friedman, and Goldman Sachs",
-    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20NodeLine&amp;backgroundColor=cactus",
-    "fetched_at": "2026-05-08 19:18:47",
-    "ja_summary": "・ブラックストーン、H&F、ゴールドマン・サックスが共同で新たなエンタープライズAIサービス企業を設立。\n・AI技術の導入支援を通じて、企業のDXと業務効率化を加速させるのが狙い。\n・世界最大級の投資家が参画し、大規模なビジネス展開が期待される。"
-  },
-  {
-    "title": "Anthropic names Theo Hourmouzis General Manager of Australia & New Zealand and officially opens Sydney office",
-    "link": "https://www.anthropic.com/news/theo-hourmouzis-general-manager-australia-new-zealand",
-    "source": "Anthropic (News)",
-    "published": "Mon, 27 Apr 2026 00:00:00 +0000",
-    "summary": "Anthropic names Theo Hourmouzis General Manager of Australia & New Zealand and officially opens Sydney office",
-    "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
-    "fetched_at": "2026-05-08 19:18:48",
-    "ja_summary": "・AI企業Anthropicがオーストラリア・ニュージーランド担当GMにTheo Hourmouzis氏を任命。\n・シドニーに公式オフィスを開設し、同地域での事業展開を本格化。"
-  },
-  {
-    "title": "えっ___まだ生成AIを24時間動かしてないんですか_.pdf",
-    "link": "https://speakerdeck.com/blueb/etu-madasheng-cheng-aiwo24shi-jian-dong-kasitenaindesuka",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-05-07T10:45:38-04:00",
-    "summary": "",
-    "image": "https://files.speakerdeck.com/presentations/b7401b051043414abffbeac0fea2cf91/preview_slide_0.jpg?39329133",
-    "fetched_at": "2026-05-08 19:18:51",
-    "ja_summary": "生成AIを24時間フル活用することで、業務効率が劇的に向上する。\nAIに定型業務を任せれば、人間は戦略的な思考に専念できる。\n今すぐ導入・常時稼働へ切り替え、競合に対する優位性を確保すべき。"
-  },
-  {
-    "title": "家電ブランド消す「富士通」と残す「日立」　消費者接点、希薄化リスクも (日の丸電機サバイバル)",
-    "link": "https://business.nikkei.com/atcl/gen/19/00112/050700238/",
-    "source": "日経ビジネス 最新",
-    "published": "",
-    "summary": "「2030年度には確実に売上高で1.5兆円に達する」。富士通の磯部武司CFO（最高財務責任者）は主力事業である「Uvance（ユーバンス）」について、そう意気込む。その額は25年度比で約2.5倍だ。国内電機・IT各社はAI需要を追い風に構造改革を進めてきており、果実を得る段階へと歩を進めている。",
-    "image": "https://business.nikkei.com/atcl/gen/19/00112/050700238/fb.jpg",
-    "fetched_at": "2026-05-08 17:53:02",
-    "ja_summary": "・富士通はITサービスへ回帰し家電ブランドを整理する一方、日立はブランドを維持する戦略をとる。\n・国内電機メーカーはAI需要を追い風に、構造改革から収益拡大へとフェーズを移行。\n・消費者向けブランドを縮小する企業は、顧客接点の希薄化という新たな経営リスクに直面する。"
-  },
-  {
-    "title": "「DXは流行遅れ、これからはAI」と妄言吐くSIer幹部　未来はないぞ (木村岳史の極言暴論！)",
-    "link": "https://business.nikkei.com/atcl/gen/19/00322/042000230/",
-    "source": "日経ビジネス 最新",
-    "published": "",
-    "summary": "ごく最近の話だ。某大手SIerの発表会に参加した際、違和感を覚えた。違和感の正体はDXという言葉が一度も登場しなかったことだ。SIerの経営幹部に理由を聞いてみたら、あまりに「古典的な理由」が返ってきたので腰を抜かしてしまったよ。",
-    "image": "https://business.nikkei.com/atcl/gen/19/00322/042000230/fb.jpg",
-    "fetched_at": "2026-05-08 17:53:03",
-    "ja_summary": "・大手SIerがDXという言葉を封印し、AIシフトを強調する姿勢に筆者が疑問を呈した。\n・DXを「流行遅れ」と見なす経営陣の古臭い思考こそが、企業の将来を危うくしている。\n・技術トレンドに振り回されるだけのSIerの体質を強く批判する内容。"
-  },
-  {
-    "title": "グーグルDeepMind、宇宙MMO「EVE Online」でAIを訓練へ",
-    "link": "https://japan.cnet.com/article/35247222/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "Google DeepMindは5月6日、人気のロールプレイングゲーム「EVE Online」をAIの訓練に使用する計画を発表した。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35247222/\"><img src=\"https://japan.cnet.com/storage/2026/05/07/66f1a94cd74439a6529ac930b2ffdafb/t/184/138/d/orbital-skyhook_1280x960.jpg\" /></a>",
-    "image": "https://japan.cnet.com/storage/2026/05/07/66f1a94cd74439a6529ac930b2ffdafb/t/184/138/d/orbital-skyhook_1280x960.jpg",
-    "fetched_at": "2026-05-08 17:53:13",
-    "ja_summary": "・Google DeepMindが、人気MMO「EVE Online」をAIの訓練環境として活用する計画を発表。\n・広大な宇宙空間での複雑な意思決定や戦略的行動をAIに学習させ、能力向上を図る。"
   }
 ]
