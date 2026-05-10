@@ -1,5 +1,35 @@
 [
   {
+    "title": "ChatGPT内広告 日本でもテストへ",
+    "link": "https://news.yahoo.co.jp/pickup/6579275?source=rss",
+    "source": "Yahoo!ニュース IT・科学",
+    "published": "Fri, 08 May 2026 06:52:32 GMT",
+    "summary": "",
+    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/5/8/d7c0fb8695f85219528411e87717b046d9f709609b2915260c46e2e880f7c735.jpg",
+    "fetched_at": "2026-05-10 13:59:11",
+    "ja_summary": "・OpenAIが「ChatGPT」内での広告表示テストを日本でも開始する。\n・検索結果や対話の中で関連製品を表示し、新たな収益源の確立を目指す。\n・ユーザー体験への影響や具体的な表示形式が今後の焦点となる。"
+  },
+  {
+    "title": "福岡銀行、LayerXの「Ai Workforce」で契約書類管理を効率化",
+    "link": "https://japan.zdnet.com/article/35247253/",
+    "source": "ZDNET Japan",
+    "published": "",
+    "summary": "福岡銀行は、LayerXのAIプラットフォーム「Ai Workforce」を導入。ストラクチャードファイナンスにおける、複雑な融資契約書の検索・管理業務をAIで効率化し、営業時間の創出と業務品質向上を目指す。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35247253/\"><img src=\"https://japan.zdnet.com/storage/2025/10/09/60478e248ca20b13795f871513cee7f9/t/184/138/d/251009_ai_as_1280_323829966.jpeg\" /></a>",
+    "image": "https://japan.zdnet.com/storage/2025/10/09/60478e248ca20b13795f871513cee7f9/t/184/138/d/251009_ai_as_1280_323829966.jpeg",
+    "fetched_at": "2026-05-10 13:59:13",
+    "ja_summary": "福岡銀行がLayerXのAI「Ai Workforce」を導入。\n複雑な融資契約書の検索・管理業務を自動化し、業務効率化と品質向上を実現する。\n事務負担を軽減し、本来の営業活動に集中できる体制を構築する。"
+  },
+  {
+    "title": "128GB超メモリMac専用の巨大LLMエンジン「ds4」はローカル推論の常識をどう書き換えるのか。284BのDeepSeek V4 FlashをM4 Max 128GB MacBook Proの自作AIに組み込んでみた（CloseBox）",
+    "link": "https://www.techno-edge.net/article/2026/05/10/5049.html",
+    "source": "TechnoEdge",
+    "published": "Sun, 10 May 2026 12:45:24 +0900",
+    "summary": "Redisの作者であるSalvatore Sanfilippo（antirez）が、5月初旬にGitHubへひっそりと新しいリポジトリを公開しました。名前は『ds4』。DeepSeek V4 Flash専用のローカル推論エンジンです。",
+    "image": "https://www.techno-edge.net/imgs/rss/31310.jpg",
+    "fetched_at": "2026-05-10 13:59:14",
+    "ja_summary": "・Redis作者が開発した新推論エンジン「ds4」が登場し、DeepSeek V4 Flashのローカル実行を最適化。\n・128GBメモリ搭載のMacにて、巨大なAIモデルを効率的に動かすことが可能。\n・ローカル環境でのAI推論の常識を覆す、画期的な技術として注目されている。"
+  },
+  {
     "title": "三菱UFJ銀行、対話型AIロールプレイで保険販売の提案力を強化",
     "link": "https://japan.zdnet.com/article/35247250/",
     "source": "ZDNET Japan",
@@ -968,35 +998,5 @@
     "image": "https://www.watch.impress.co.jp/img/ipw/list/2107/200/01.jpg",
     "fetched_at": "2026-05-08 16:18:23",
     "ja_summary": "・Mozillaが「Claude Mythos」を活用し、Firefoxのセキュリティバグ271件を特定・修正。\n・20年前から放置されていた古いバグもAIによって発見され、解消された。\n・最新版および関連パッチにて、修正プログラムが既にリリース済み。"
-  },
-  {
-    "title": "ネットの求人詐欺が急増中　AIで「安く速く簡単に」",
-    "link": "https://japan.cnet.com/article/35247259/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "求人情報が本物かどうかを確認し、詐欺に注意することがますます重要になっている。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35247259/\"><img src=\"https://japan.cnet.com/storage/2026/05/08/87293a629aa804a50a190a02a0a0d5cf/t/184/138/d/gettyimages-2238013922_1280x960.jpg\" /></a>",
-    "image": "https://japan.cnet.com/storage/2026/05/08/87293a629aa804a50a190a02a0a0d5cf/t/184/138/d/gettyimages-2238013922_1280x960.jpg",
-    "fetched_at": "2026-05-08 16:18:26",
-    "ja_summary": "・AI技術の悪用により、偽の求人詐欺が急増している。\n・「安く・速く・簡単に」稼げると謳う手口に注意が必要。\n・求人応募の際は内容が本物か慎重に確認することが不可欠。"
-  },
-  {
-    "title": "AIエージェント搭載スマホ「Natural AI Phone」実機レビュー　将来性はあるのだろうが現状は…",
-    "link": "https://japan.cnet.com/article/35247206/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "ソフトバンクが米Brain Technologiesと組んで4月17日に発表した「Natural AI Phone」は、AIボタン一つで画面の内容を読み取って次の行動を提案するAIエージェント搭載スマートフォンだ。触ってみると、発表会のビジョンと実機の挙動には小さくない落差があった。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35247206/\"><img src=\"https://japan.cnet.com/storage/2026/05/07/a0df6f9a143d95dcea4a31649211a619/t/184/138/d/01.jpg\" /></a>",
-    "image": "https://japan.cnet.com/storage/2026/05/07/a0df6f9a143d95dcea4a31649211a619/t/184/138/d/01.jpg",
-    "fetched_at": "2026-05-08 16:18:26",
-    "ja_summary": "・ソフトバンクが画面を読み取り行動を提案するAIスマホ「Natural AI Phone」を発表。\n・AIエージェントによる操作体験を打ち出しているが、現時点での実機性能は理想と乖離がある。\n・将来性は期待できるものの、現状ではまだ発展途上の段階にとどまっている。"
-  },
-  {
-    "title": "Claude Managed Agents を試す",
-    "link": "https://note.com/npaka/n/n190b39339bf9",
-    "source": "note (npaka)",
-    "published": "Thu, 07 May 2026 17:32:58 +0900",
-    "summary": "<p id=\"4734e683-8a4d-4514-aa1d-6f4501f5c586\" name=\"4734e683-8a4d-4514-aa1d-6f4501f5c586\">「Claude Managed Agents」を試したのでまとめました。</p><br /><br /><a href=\"https://note.com/npaka/n/n190b39339bf9\">続きをみる</a>",
-    "image": "https://assets.st-note.com/production/uploads/images/273822864/rectangle_large_type_2_6a3363effae9986e31a827271ed85ec6.png?width=800",
-    "fetched_at": "2026-05-08 16:18:31",
-    "ja_summary": "Anthropicの「Claude Managed Agents」の使用感をまとめた記事。\nAIが自律的にタスクを遂行するエージェント機能の概要と試用体験を解説。\n開発や業務効率化に活用可能な新機能の情報を把握できる内容。"
   }
 ]
