@@ -1,5 +1,25 @@
 [
   {
+    "title": "Google、約5gで1週間駆動のFitbit Air発表。Geminiが健康アドバイスするAIコーチを提供、Google Healthアプリに集約",
+    "link": "https://www.techno-edge.net/article/2026/05/08/5048.html",
+    "source": "TechnoEdge",
+    "published": "Fri, 08 May 2026 19:13:10 +0900",
+    "summary": "Googleがフィットネストラッカー Fitbit の新モデル『Google  Fitbit Air』 と、Fitbitアプリの『Google Health』 への刷新とヘルスケア機能集約、Geminiが健康の維持改善をアドバイスする機能『Google Health コーチ』など、ヘルスケア関連の新製品を一挙に発表しました。",
+    "image": "https://www.techno-edge.net/imgs/rss/31290.jpg",
+    "fetched_at": "2026-05-12 03:27:09",
+    "ja_summary": "・超軽量5gで1週間駆動の新型「Fitbit Air」を発表。\n・健康管理アプリを「Google Health」へ刷新し、機能を一元化。\n・Gemini搭載の「Google Healthコーチ」がAIで健康アドバイスを提供。"
+  },
+  {
+    "title": "Higher usage limits for Claude and a compute deal with SpaceX",
+    "link": "https://www.anthropic.com/news/higher-limits-spacex",
+    "source": "Anthropic (News)",
+    "published": "Wed, 06 May 2026 00:00:00 +0000",
+    "summary": "Higher usage limits for Claude and a compute deal with SpaceX",
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Node%20Globe&amp;backgroundColor=fig",
+    "fetched_at": "2026-05-12 03:27:13",
+    "ja_summary": "・AIモデル「Claude」の利用制限が緩和\n・SpaceX社と計算リソース確保に向けた提携を締結\n・利用上限の拡大とインフラ強化によりサービス性能を向上"
+  },
+  {
     "title": "今度はフランスに投資か､ソフトバンクグループの孫正義氏が｢大規模データセンター計画｣をマクロン大統領と協議 | 政治・経済・投資 | 東洋経済オンライン",
     "link": "https://toyokeizai.net/articles/-/944147?utm_source=rss&utm_medium=http&utm_campaign=link_back",
     "source": "東洋経済オンライン",
@@ -978,25 +998,5 @@
     "image": "https://xtech.nikkei.com/atcl/nxt/column/18/02737/042600057/topm.jpg?20220512",
     "fetched_at": "2026-05-11 00:12:32",
     "ja_summary": "・Microsoft EdgeにAI「Copilot」が統合され、情報収集が効率化。\n・Web検索の手間が省け、質問に対して直接回答を得る形式へ変化。\n・検索から対話へと移行し、ネット利用のスタイルが大きく刷新された。"
-  },
-  {
-    "title": "【緊急】Cursorに「git clone」するだけでPCが乗っ取られる脆弱性！CVSS 9.9のヤバすぎる攻撃手法",
-    "link": "https://qiita.com/emi_ndk/items/8e6607a09cb8ff86c298",
-    "source": "Qiita (Popular)",
-    "published": "2026-05-06T15:44:14+09:00",
-    "summary": "**結論から言うと、Cursorユーザーは今すぐバージョン2.5以上にアップデートしてください。**\n\n2026年4月28日、AIコーディングツール「Cursor」に**CVSS 9.9（NVD評価）** の致命的な脆弱性が公開されました。\n\n悪意のあるリポジトリを開いて Cursor の AIエージェントに作業させるだけで、**ユーザーが何も承認しなくても**PC上で任意コードが実行されます。\n",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmF2YXRhcnMuZ2l0aHVidXNlcmNvbnRlbnQuY29tJTJGdSUyRjU0MTczODUwJTNGdiUzRDQ_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPTQ5ZGU0OTdkMjMwMjhmNWZmOTcwNmZlNGNmY2E5MDZm%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D29ced0e10c8c1d24806abaf93840cae7?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJTkwJUU3JUI3JThBJUU2JTgwJUE1JUUzJTgwJTkxQ3Vyc29yJUUzJTgxJUFCJUUzJTgwJThDZ2l0JTIwY2xvbmUlRTMlODAlOEQlRTMlODElOTklRTMlODIlOEIlRTMlODElQTAlRTMlODElOTElRTMlODElQTdQQyVFMyU4MSU4QyVFNCVCOSU5NyVFMyU4MSVBMyVFNSU4RiU5NiVFMyU4MiU4OSVFMyU4MiU4QyVFMyU4MiU4QiVFOCU4NCU4NiVFNSVCQyVCMSVFNiU4MCVBNyVFRiVCQyU4MUNWU1MlMjA5LjklRTMlODElQUUlRTMlODMlQTQlRTMlODMlOTAlRTMlODElOTklRTMlODElOEUlRTMlODIlOEIlRTYlOTQlQkIlRTYlOTIlODMlRTYlODklOEIlRTYlQjMlOTUmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1mNjU4YzgwZDFjOWMwODEyYTIzYjg4YWY4N2UzNDRkMQ&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBlbWlfbmRrJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9NzU0NDg1YzBhMGMzNTE3YTkwZWM1ZTU4MzFlOTQyMWY&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=49f5ab209b830984d232870fb446d630",
-    "fetched_at": "2026-05-11 00:13:09",
-    "ja_summary": "・AIコーディングツール「Cursor」にPCが乗っ取られる致命的な脆弱性（CVSS 9.9）が発覚。\n・悪意あるリポジトリを読み込ませるだけで、ユーザー無操作でコードを実行される危険がある。\n・全ユーザーは直ちにバージョン2.5以上にアップデートすること。"
-  },
-  {
-    "title": "米企業の新型AI 危険視される能力",
-    "link": "https://news.yahoo.co.jp/pickup/6579561?source=rss",
-    "source": "Yahoo!ニュース IT・科学",
-    "published": "Sun, 10 May 2026 13:22:16 GMT",
-    "summary": "",
-    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/5/10/18979197799389741d5d1d45a8a10295bcfd4186fad592e3b5fd73763e5a9701.jpg",
-    "fetched_at": "2026-05-10 23:06:26",
-    "ja_summary": "・米企業が開発した新型AIに、既存の規制をすり抜ける危険な能力が確認された。\n・専門家は悪用による脅威を懸念し、開発企業へ厳格な安全対策を求めている。\n・AIの急速な進化に対し、技術開発とリスク管理のバランスが喫緊の課題となっている。"
   }
 ]
