@@ -1,5 +1,65 @@
 [
   {
+    "title": "人とAIエージェント協働は企業業務もソフトウェアと同パターンに　MS調査",
+    "link": "https://www.watch.impress.co.jp/docs/news/2107697.html",
+    "source": "Impress Watch",
+    "published": "",
+    "summary": "マイクロソフトは5日(米国時間)、AI時代における働き方の変化をまとめた年次報告書「2026 Work Trend Index」を公開した。ソフトウェア開発で進むAIとエージェントの協働と同じパターンで、「企業の他の業務領域」にも広がり始めているという。",
+    "image": "https://www.watch.impress.co.jp/img/ipw/list/2107/697/ms1.jpg",
+    "fetched_at": "2026-05-12 08:39:07",
+    "ja_summary": "・AIとエージェントの協働が、ソフトウェア開発以外の全業務領域へ拡大している。\n・人間とAIが協働するスタイルが、今後の企業活動の標準モデルとなる。\n・マイクロソフトの最新調査により、AI時代の働き方の変革が示された。"
+  },
+  {
+    "title": "Figure AIのロボットは、大抵の人間より素早くベッドメイキングができる…あなたはその意味を理解しているだろうか",
+    "link": "https://www.businessinsider.jp/article/2605-figure-ai-robots-humanoids-make-a-bed-video/",
+    "source": "Business Insider Japan",
+    "published": "Mon, 11 May 2026 23:00:00 GMT",
+    "summary": "Figure AI社は、2体のヒューマノイドロボットが協力してベッドメイキングをする動画を公開しました。一見簡単そうに見えますが、実際には協調性、視覚、器用さが試される、ロボットには難しい作業です。",
+    "image": "https://media.loom-app.com/loom/2026/05/11/3780718f-f53d-48c9-878b-a49e18b7029f/original.jpg?w=1200&amp;h=630",
+    "fetched_at": "2026-05-12 08:39:13",
+    "ja_summary": "・Figure AIのヒューマノイドが、高度な連携作業を要するベッドメイキングを高速で完遂。\n・視覚認識、器用さ、ロボット間の協調性を同時に実現した技術的な進歩。\n・汎用型ロボットが家庭や現場で実用化される未来が急速に近づいている。"
+  },
+  {
+    "title": "GPT-Realtime-2 ・ GPT-Realtime-Translate ・ GPT-Realtime-Whisper の概要",
+    "link": "https://note.com/npaka/n/nade0d8498e64",
+    "source": "note (npaka)",
+    "published": "Fri, 08 May 2026 06:45:17 +0900",
+    "summary": "<p id=\"c140bf21-b433-4553-b164-6ac74a9002cf\" name=\"c140bf21-b433-4553-b164-6ac74a9002cf\">以下の記事が面白かったので、簡単にまとめました。</p><figure id=\"0022e78f-7583-49be-818f-77ab4d393854\" name=\"0022e78f-7583-49be-818f-77ab4d393854\"><blockquote><p id=\"28d9c5dd-1ddb-4f3b-a415-13ec6c4e9100\" name=\"28d9c5dd-1ddb-4f3b-a415-13ec6c4e9100\"><strong>・</strong><a href=\"https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api/\" rel=\"nofollow noopener\" target=\"_blank\"><strong>Advancing voice intelligence with new models in the API</strong></a></p></blockquote>\n<figcaption></figcaption></figure><br /><a href=\"https://note.com/npaka/n/nade0d8498e64\">続きをみる</a>",
+    "image": "https://assets.st-note.com/production/uploads/images/274020301/rectangle_large_type_2_76737066dfee49fb9f255747d80bbc02.png?width=800",
+    "fetched_at": "2026-05-12 08:39:18",
+    "ja_summary": "OpenAIのAPIに音声AI技術（GPT-4o）を活用した3つの新機能が登場しました。\nリアルタイムな対話、言語翻訳、高精度な音声認識（Whisper）が提供されます。\n音声インタラクションの利便性が大幅に向上し、対話型サービスの開発が加速します。"
+  },
+  {
+    "title": "Running Codex safely at OpenAI",
+    "link": "https://openai.com/index/running-codex-safely",
+    "source": "OpenAI",
+    "published": "Fri, 08 May 2026 12:30:00 GMT",
+    "summary": "How OpenAI runs Codex securely with sandboxing, approvals, network policies, and agent-native telemetry to support safe and compliant coding agent adoption.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/6Z5UXg0cKSYxr2RGkNkMCl/3087a1569ea42e3aab6b3e4decd1b140/Frame4.png?w=1600&amp;h=900&amp;fit=fill",
+    "fetched_at": "2026-05-12 08:39:29",
+    "ja_summary": "OpenAIは、コード生成AI「Codex」を安全に運用するため、サンドボックス環境や厳格な承認プロセスを導入している。\nネットワーク制限やエージェント専用の監視体制を組み合わせることで、企業のセキュリティとコンプライアンス要件に対応する。\n安全なコーディング支援環境を提供し、企業によるAI導入を技術面から強力にサポートする。"
+  },
+  {
+    "title": "Claude Code コマンド紹介集",
+    "link": "https://speakerdeck.com/okmtx/claude-code-komandoshao-jie-ji",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-05-10T11:37:41-04:00",
+    "summary": "Claude Code に用意されている操作・コマンドを一望するためのスライド集です。\n社内勉強会用に作成しました。\n\n  # 取り上げているテーマ\n\n  - Part 1. セッションを操作する\n    (/clear, /compact, /rewind, /branch, git worktree, /tasks, /btw など)\n  - Part 2. 状態・設定の確認\n    (/memory, /init, /config, /usage, /statusline, /permissions, /mcp)\n  - Part 3. 実装を進めるための操作\n    (指示の精度, /model, プランモード, /batch, /diff, /review,\n     /security-review, /simplify, ワークツリー, バックグラウンド退避)\n  - Part 4. ルール・スキル・サブエージェントを組む\n    (CLAUDE.md の階層, スキル vs サブエージェント, /agents, /skills,\n     /hooks, /loop, /schedule)\n  - Part 5. プラグイン・MCP・外部連携\n    (/plugin, /mcp, /teleport, /remote-control, ヘッドレス運用)\n  - Part 6. その他知っておくと便利なこと (キーボードショートカット小ネタ)\n\n  各コマンドには 「推奨:★〜★★★★」 の主観的な利用頻度レーティングを\n  付けています。\n\n  # こんな方向け\n\n  - Claude Code に触り始めて「他にどんな操作があるか」を俯瞰したい方\n  - 普段使っているコマンドの抜けや、再点検のヒントを探している方",
+    "image": "https://files.speakerdeck.com/presentations/e7dc9216faeb4a4faa35b3447f23d664/preview_slide_0.jpg?39357892",
+    "fetched_at": "2026-05-12 08:39:50",
+    "ja_summary": "Claude Codeの全操作コマンドを網羅的に解説した学習用スライド集。\n基本操作から設定、高度なエージェント活用や外部連携まで6部構成で紹介。\n各コマンドに推奨頻度を付記しており、既存ユーザーの知識整理や機能の再点検に最適。"
+  },
+  {
+    "title": "Claude Codeを設計思想として読み解く",
+    "link": "https://speakerdeck.com/okmtx/claude-codewoshe-ji-si-xiang-tositedu-mijie-ku",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-05-10T09:25:58-04:00",
+    "summary": "Claude Code を「使い方」ではなく\n「どう作られているか」「なぜそう作られているか」という\n設計思想の側から読み解くスライドです。\n社内勉強会用に作成しました。\n\n  # 取り上げているテーマ\n\n  - Part 1. Claude Code はどう動いているか\n    (OS 的な土台, ターミナルへのマウント, プロンプト階層, 短期記憶の Skeptical Memory,\n     コンテキスト劣化と /compact, md に落とす作法, ツールアクセスのレバー,\n     確率的な LLM × 決定論的なツール, MCP, Bash/CLI 経由アクセス)\n  - Part 2. エージェントを加速する\n    (並行開発, 待ち時間とコストの最適化, サブエージェントによる粒度調整,\n     ヘッドレスモードでの部品化, 拡張機構の全体像)\n  - Part 3. 検証ループ\n    (Huang 2023「LLM は自己反省できない」, 外部信号があってこその反復改善,\n     explore → plan → code, hooks による自動化ループ, hooks から claude -p を呼ぶ)\n  - Part 4. エージェントを縛る\n    (なぜ縛る必要があるのか, 縛る道具を 4 レイヤー (モード / 指示 / 設定 / 隔離) で捉える,\n     揮発・お願いから永続・物理まで, evals による劣化の測定と段階的アプローチ)\n  - Part 5. まとめ\n    (押さえるべき 5 点)\n\n  Copilot 系 (補完の速度・正確性を最適化) との対比で、Claude Code が「長対話の中で\n  一貫した解決」を最適化しているという見立てを起点に組み立てています。\n\n  # こんな方向け\n\n  - Claude Code を「コマンド集」ではなく「設計判断の集合」として読み解きたい方\n  - Copilot 系との違いを、モチベーションを含めて言語化したい方\n  - LLM/エージェントを使うチームで、運用設計 (検証信号・縛る道具・evals) を考えたい方",
+    "image": "https://files.speakerdeck.com/presentations/2e01f515b29e464180ff244ce9d790b5/preview_slide_0.jpg?39357638",
+    "fetched_at": "2026-05-12 08:39:50",
+    "ja_summary": "Claude Codeの仕組みを「設計思想」の観点から深掘りし、Copilot系との違いを明確にする技術解説。\nLLMの動作原理、エージェントの最適化、検証ループの構築、安全な運用設計の4要素を体系的に網羅。\nエージェントの実践的な運用や、LLMを統合した開発フローの設計を目指すエンジニア向けの指針。"
+  },
+  {
     "title": "ソニー過去最高益の裏で進む半導体リスク　十時CEOが語る「TSMC提携」とフィジカルAIへの布石",
     "link": "https://www.itmedia.co.jp/business/articles/2605/12/news040.html",
     "source": "ITmedia ビジネス",
@@ -938,65 +998,5 @@
     "image": "https://res.cloudinary.com/zenn/image/upload/s--aTVPK-fg--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:ISUNARABE%25E5%2590%2588%25E5%2590%258C%25E6%25BC%2594%25E7%25BF%25922026%25E3%2581%25AB%25E5%258F%2582%25E5%258A%25A0%25E3%2581%2597%25E3%2581%25BE%25E3%2581%2597%25E3%2581%259F%2528INUCON%2520%25E3%2583%2581%25E3%2583%25BC%25E3%2583%25A0%2529%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:mazrean%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2NlZTE5ZGIxNDkuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
     "fetched_at": "2026-05-11 08:07:31",
     "ja_summary": "・ISUCON関連の合同演習「ISUNARABE 2026」にチーム「INUCON」として参加。\n・Grafana等の計測環境を自作ツールで構築して挑むも、参加者唯一のfailという結果に終わった。\n・本記事は、その挑戦の経緯と振り返りをまとめた参加記である。"
-  },
-  {
-    "title": "AIを使ったプロダクト開発も結局大量の意思決定だけが残ってしまった話、あるいは「作って学ぶ」話",
-    "link": "https://zenn.dev/kusuke/articles/1c3ffeecbb7761",
-    "source": "Zenn Trends",
-    "published": "Sun, 10 May 2026 03:39:56 GMT",
-    "summary": "前回、EmDashに触発されてWordpressの後継CMSを考えてみた話を書いたんですよ。\nhttps://zenn.dev/kusuke/articles/fd4229b84c57da\nで、実はせっかくなのでまぁ、作ってみるかということで作ってるんですが、全然終わらないんですよ。Claude CodeもCodexもよく頑張ってくれるんですが、人間の意思決定量がハンパない。Human in the loopなんだけどloopが高速すぎてHumanの限界なんですよ。\n\n どういうことか\nまず、こちらがAIに先の記事を読ませて作らせてからの仕様ディスカッション一覧です。もう34まできました...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--yvcWyVDB--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%25E3%2582%2592%25E4%25BD%25BF%25E3%2581%25A3%25E3%2581%259F%25E3%2583%2597%25E3%2583%25AD%25E3%2583%2580%25E3%2582%25AF%25E3%2583%2588%25E9%2596%258B%25E7%2599%25BA%25E3%2582%2582%25E7%25B5%2590%25E5%25B1%2580%25E5%25A4%25A7%25E9%2587%258F%25E3%2581%25AE%25E6%2584%258F%25E6%2580%259D%25E6%25B1%25BA%25E5%25AE%259A%25E3%2581%25A0%25E3%2581%2591%25E3%2581%258C%25E6%25AE%258B%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%2597%25E3%2581%25BE%25E3%2581%25A3%25E3%2581%259F%25E8%25A9%25B1%25E3%2580%2581%25E3%2581%2582%25E3%2582%258B%25E3%2581%2584%25E3%2581%25AF%25E3%2580%258C%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%25A6%25E5%25AD%25A6%25E3%2581%25B6%25E3%2580%258D%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Yusuke%2520Kawabata%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzFiNjBjMzBiZjEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-    "fetched_at": "2026-05-11 08:07:32",
-    "ja_summary": "・AIを活用したCMS開発に挑むも、AIの高速な提案に対し人間の意思決定が追いつかず、開発が停滞している。\n・AIはコーディングを強力に支援するが、最終的な仕様決定という「人間特有の判断」が膨大なボトルネックとなっている。\n・効率化の鍵は、AIの速度に合わせるための人間の決断力と、それを支える設計プロセスにある。"
-  },
-  {
-    "title": "Dirty Frag (CVE-2026-43284/43500) — Copy Failの暫定策が効かない理由と未パッチ期の管理者対応",
-    "link": "https://zenn.dev/linuxmaster/articles/dirty-frag-cve-2026-43284-43500",
-    "source": "Zenn Trends",
-    "published": "Sun, 10 May 2026 03:31:29 GMT",
-    "summary": "2026年5月8日（KST）、Linuxカーネルにまた新しいローカル権限昇格（LPE）の脆弱性が公表されました。通称「Dirty Frag」、CVE番号は2件チェーンで CVE-2026-43284（xfrm-ESP / IPsec ESP）と CVE-2026-43500（RxRPC）です。\n最初に書きたいのは、Copy Fail（CVE-2026-31431）の続報を待っていた方への結論です。\n\nCopy Fail で打った algif_aead のブラックリストは、Dirty Frag には効きません。 入口モジュールが違うからです。\n\n「先週やったから大丈夫」と思っているサーバー...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--aoyAaRyd--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Dirty%2520Frag%2520%2528CVE-2026-43284%252F43500%2529%2520%25E2%2580%2594%2520Copy%2520Fail%25E3%2581%25AE%25E6%259A%25AB%25E5%25AE%259A%25E7%25AD%2596%25E3%2581%258C%25E5%258A%25B9%25E3%2581%258B%25E3%2581%25AA%25E3%2581%2584%25E7%2590%2586%25E7%2594%25B1%25E3%2581%25A8...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E5%25AE%25AE%25E5%25B4%258E%25E6%2599%25BA%25E5%25BA%2583%2528Linuxmaster.JP%2529%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jS2ZMbGdRVzJKZGd0c1VtLWctOVpYdXNwbWhQaUZ2cHM5STFTWjhDRVB6UEtSdnpucldsQT1zMjUwLWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-    "fetched_at": "2026-05-11 08:07:32",
-    "ja_summary": "・Linuxカーネルに新たな権限昇格の脆弱性「Dirty Frag」が公表された。\n・過去の対策（Copy Fail用）では今回の脆弱性を防げないため、別の防御策が必要となる。\n・管理者はパッチ適用までの間、各モジュールの特性に応じた適切なセキュリティ対応が求められる。"
-  },
-  {
-    "title": "Claude Codeでの個人開発とセキュリティ管理",
-    "link": "https://zenn.dev/btiw/articles/4420d8b95d3e09",
-    "source": "Zenn Trends",
-    "published": "Sun, 10 May 2026 02:53:33 GMT",
-    "summary": "はじめに\n個人の健康データを収集・集約・分析するシステムを開発している（以前の記事）。7つのリポジトリ、Railsアプリ、Pythonスクリプト群、MCPサーバーからなるシステムで、開発にはClaude Codeを全面的に使っている。\nClaude Codeは強力なツールである。CLAUDE.mdにプロジェクトの設計方針を書いておけば、それを踏まえた実装を提案してくれる。個人開発でありながら、アーキテクチャを崩さずにシステムを拡張し続けられたのは、このツールに負うところが大きい。\n一方で、使い込む中で気になったこともあった。とりわけ秘密情報の扱いである。AIコーディングツールはファイ...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--EqnQr8Ix--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%25E3%2581%25A7%25E3%2581%25AE%25E5%2580%258B%25E4%25BA%25BA%25E9%2596%258B%25E7%2599%25BA%25E3%2581%25A8%25E3%2582%25BB%25E3%2582%25AD%25E3%2583%25A5%25E3%2583%25AA%25E3%2583%2586%25E3%2582%25A3%25E7%25AE%25A1%25E7%2590%2586%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:btiw%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2I5NGZhZGE1ZDQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-    "fetched_at": "2026-05-11 08:07:32",
-    "ja_summary": "・個人開発のシステム構築にClaude Codeを活用し、設計方針を維持したまま効率的な開発を実現。\n・AIツールによるコーディングには利便性が高い一方、機密情報の漏洩リスクに注意が必要。\n・セキュアな開発環境を保つための適切な管理体制や運用ルールの構築が重要。"
-  },
-  {
-    "title": "[Frontend Performance - Part 12] React最適化の完成：再レンダリング・メモ化・State設計を完全制覇",
-    "link": "https://qiita.com/tuanphan/items/b05513ade79cef735f90",
-    "source": "Qiita (Popular)",
-    "published": "2026-05-06T12:47:34+09:00",
-    "summary": "![ChatGPT Image May 6, 2026, 10_47_03 AM.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/4257107/ca3a8db2-af0d-4c6c-b6b8-b02c39a636d0.png)\n\n> 📝 **注意**\n> 本記事はAIの補助を受けて編集しています。\n> 内容は大規模",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0MjU3MTA3JTJGMTUwMjkwNzAwZTMxMWViOWIyMGFkZGU0OTljMzBkYTdiMTU0MmNiYyUyRnhfbGFyZ2UucG5nJTNGMTc3ODA0MjY0OT9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NTZiMjJiNDdmMTk1MGZhMTU5OTYxNGRkZmY0Yzc3ODE%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkZiNmZkNGVlODEwMGExN2E2YjEyOWU2MzE1MWM1OWU4M2RlNTNiOGIwJTJGb3JpZ2luYWwuanBnJTNGMTc2MjA1MjQ5MD9peGxpYj1yYi00LjAuMCZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz0xMGYwM2Y1MzdlZTc2Nzg0ZGY5ZGI4Y2Q0MWJkNjJmMw%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D4f5a4a3054814ab9732eb22413824da4?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JTVCRnJvbnRlbmQlMjBQZXJmb3JtYW5jZSUyMC0lMjBQYXJ0JTIwMTIlNUQlMjBSZWFjdCVFNiU5QyU4MCVFOSU4MSVBOSVFNSU4QyU5NiVFMyU4MSVBRSVFNSVBRSU4QyVFNiU4OCU5MCVFRiVCQyU5QSVFNSU4NiU4RCVFMyU4MyVBQyVFMyU4MyVCMyVFMyU4MyU4MCVFMyU4MyVBQSVFMyU4MyVCMyVFMyU4MiVCMCVFMyU4MyVCQiVFMyU4MyVBMSVFMyU4MyVBMiVFNSU4QyU5NiVFMyU4MyVCQlN0YXRlJUU4JUE4JUFEJUU4JUE4JTg4JUUzJTgyJTkyJUU1JUFFJThDJUU1JTg1JUE4JUUyJTgwJUE2JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9MTE4MDRiN2UzMWU3MjRmOGRkMmVjNzMzMzg3YjE4ZWY&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDB0dWFucGhhbiZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTRhMzA5NTM1MDgyMmFhNTViZGRhOWU1NzY0N2VkYmIx&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=5qCq5byP5Lya56S-VE9NT1NJQSBWSUVUIE5BTQ&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=25349fabecfa4134b14cd02d051bf233",
-    "fetched_at": "2026-05-11 08:07:34",
-    "ja_summary": "・Reactのパフォーマンス向上のための「再レンダリング制御」と「適切なメモ化」の手法を解説。\n・複雑なState設計を見直し、不要な更新を防ぐための実践的な最適化戦略を提示。\n・効率的なコンポーネント構成により、アプリケーションの表示速度を最大化する方法を網羅。"
-  },
-  {
-    "title": "【Claude Code入門】今から追いつくClaude Code 徹底解説",
-    "link": "https://qiita.com/i-inose/items/e644e9b620ee1c8d3c1b",
-    "source": "Qiita (Popular)",
-    "published": "2026-04-27T18:58:22+09:00",
-    "summary": "\n## はじめに\n\nこの記事は、Claude Code を使い始めたいエンジニアのための入門ガイドです。\n\n「名前は聞いたことがあるけれど、なんとなく乗り遅れた気がして触れていない」という方に向けて書きました。Claude Code は 2025 年 3 月にベータ公開が始まり、今も活発に機能が追加され続けているツールです。今から始めても、十分に最前線を体験できます。\n\nこの記事の対象読者です。\n",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYyNzM3MDU1JTJGMmRhZmNlMzcyYjViYjhiYjVhMWM5ZWMwMmFkNzQyYzIwZjkzMjJiOCUyRnhfbGFyZ2UucG5nJTNGMTc1MTYxMzgyNj9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9ZDA0ZDI4ZjkyYTAzYTZhNjY0NjJhOGRmMDI4MDk1ZWQ%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYxZTIwZGI1ZTdlNDA3ZWFlN2I5NzBlYzk5OTg4MGRjOGMzY2MwZjY0JTJGb3JpZ2luYWwuanBnJTNGMTY2NzI3NDk2Mz9peGxpYj1yYi00LjAuMCZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz0xMzQ4OTg3MjlkMzMwYTdiNWRhMzRkOGU2MzVmZjIxOA%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D66b59b0ea406aee68a1154031be0c0be?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJTkwQ2xhdWRlJTIwQ29kZSVFNSU4NSVBNSVFOSU5NiU4MCVFMyU4MCU5MSVFNCVCQiU4QSVFMyU4MSU4QiVFMyU4MiU4OSVFOCVCRiVCRCVFMyU4MSU4NCVFMyU4MSVBNCVFMyU4MSU4RkNsYXVkZSUyMENvZGUlMjAlRTUlQkUlQjklRTUlQkElOTUlRTglQTclQTMlRTglQUElQUMmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz05ZmJjZTRiMDFiZjcyMDcyNmQ1YzQyMmUzYTI0ZWEwMg&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBpLWlub3NlJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9MmIxMzY4YTE4OWM3Yjg5NDQwYjM0ZWNmNTdjY2I5YTE&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=S0RESeOCouOCuOODo-OCpOODq-mWi-eZuuOCu-ODs-OCv-ODvOagquW8j-S8muekvg&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=283ec2bce88f6a89a40e5f13ce38f3c6",
-    "fetched_at": "2026-05-11 08:07:37",
-    "ja_summary": "・Claude CodeはAIがターミナルで開発を支援する最新ツールで、今からでも十分に導入可能。\n・この記事は、基礎から活用法まで網羅したエンジニア向けの導入ガイド。\n・開発効率を高めたい層に向け、最新機能や活用ポイントを徹底解説。"
-  },
-  {
-    "title": "｢AIで国家財政問題は解決する｣は勘違い…AI主導の経済成長でも税収は下がり失業も増加､財政支出は増える | 政治・経済・投資 | 東洋経済オンライン",
-    "link": "https://toyokeizai.net/articles/-/943797?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-    "source": "東洋経済オンライン",
-    "published": "Mon, 11 May 2026 06:00:00 +0900",
-    "summary": "AIの進化がもたらす生産性の向上に､各国の財政赤字解消への期待が高まっています。しかし､実際には失業や税収減､規制不足といった深刻な副作用が噴出しつつあります。果たしてAIは本当に福音となるのでしょ…",
-    "image": "https://tk.ismcdn.jp/mwimgs/2/5/1200w/img_253cd07f6d3864b162c11aa535cca1ce20809.jpg?nextgen=false",
-    "fetched_at": "2026-05-11 07:02:51",
-    "ja_summary": "・AIによる生産性向上は経済成長を促す一方、税収減と失業増加を招く恐れがある。\n・社会保障などの財政支出は逆に増大し、国家財政の改善には直結しない。\n・AIは財政赤字の解決策ではなく、新たな副作用を伴う構造的な課題をもたらす。"
   }
 ]
