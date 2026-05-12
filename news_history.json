@@ -1,5 +1,55 @@
 [
   {
+    "title": "第一三共「世界トップ5」へ　AI活用で挑む「売上収益3兆円」「コスト2000億円削減」の青写真",
+    "link": "https://www.itmedia.co.jp/business/articles/2605/12/news089.html",
+    "source": "ITmedia ビジネス",
+    "published": "Tue, 12 May 2026 17:40:00 +0900",
+    "summary": "第一三共は、新たな中期経営計画の中で「2035年までに『がん治療』領域で世界トップ5の企業になる」という目標を掲げた。挑戦を支えるのがAIだ。同社はどのような青写真を描いているのか。",
+    "image": "https://image.itmedia.co.jp/business/articles/2605/12/cover_news089.jpg",
+    "fetched_at": "2026-05-12 19:13:58",
+    "ja_summary": "・第一三共が2035年に「がん治療」で世界トップ5入りを目指す新計画を発表。\n・売上収益3兆円の達成に向け、AI活用による革新的な事業成長を推進。\n・AI導入で業務効率を高め、2000億円規模のコスト削減を実現する。"
+  },
+  {
+    "title": "NTTデータ、データセンター冷却はAIが自律制御　省エネの切り札に (AIが起こすESG革命)",
+    "link": "https://business.nikkei.com/atcl/gen/19/00879/042700002/",
+    "source": "日経ビジネス 最新",
+    "published": "",
+    "summary": "高度な冷却能力と省エネ技術が、データセンターを選ぶ基準となりつつあります。NTTデータはAIを活用し、空調と液体冷却を統合的に制御する技術を開発しています。",
+    "image": "https://business.nikkei.com/atcl/gen/19/00879/042700002/fb.jpg",
+    "fetched_at": "2026-05-12 19:14:06",
+    "ja_summary": "・NTTデータがAIでデータセンターの空調と液体冷却を統合制御する技術を開発。\n・冷却効率の最適化により、省エネ性能を劇的に向上させる。\n・環境負荷低減が重視されるデータセンター選定において、新たな競争力となる。"
+  },
+  {
+    "title": "「Think 2026」が示した「AIファースト企業」への変革と組織づくり--AIは実験から実践へ",
+    "link": "https://japan.zdnet.com/article/35247229/",
+    "source": "ZDNET Japan",
+    "published": "",
+    "summary": "IBMの年次イベント「Think 2026」の2日目、IBMは「AIファースト企業」への変革をテーマに、「Architect the AI-first enterprise」「How enterprises excel in the AI era」と題した2つの基調講演を開催した。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35247229/\"><img src=\"https://japan.zdnet.com/storage/2026/05/12/b899768867661d704d621047544eb02e/t/184/138/d/260506_ibm_d2_k12_l.jpg\" /></a>",
+    "image": "https://japan.zdnet.com/storage/2026/05/12/b899768867661d704d621047544eb02e/t/184/138/d/260506_ibm_d2_k12_l.jpg",
+    "fetched_at": "2026-05-12 19:14:32",
+    "ja_summary": "IBMのイベント「Think 2026」にて、企業がAIを実験段階から実戦へ移行させる重要性が強調された。\n全社的な「AIファースト企業」への変革を促し、組織構造から戦略を再構築する手法が示された。"
+  },
+  {
+    "title": "SREの仕事は「壊さないこと」ではなくなった 〜自律化していくシステムに、責任と判断を与えるという価値〜 / 20260515 Naoki Shimada",
+    "link": "https://speakerdeck.com/shift_evolve/20260515-naoki-shimada",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-05-12T04:14:03-04:00",
+    "summary": "2026/5/15 クラウドネイティブ会議\nhttps://kaigi.cloudnativedays.jp/\n\n株式会社SHIFT\nAIアジャイル開発部 SRE\n島田 直樹",
+    "image": "https://files.speakerdeck.com/presentations/591f573424ae4146bc351a7065f9406c/preview_slide_0.jpg?39375800",
+    "fetched_at": "2026-05-12 19:15:00",
+    "ja_summary": "SREの役割は、システムを「壊さない」ことから、自律化するシステムに責任と判断を与えることへと変化。\nクラウドネイティブ時代、AI技術の進化に伴い、SREはより高度な意思決定を担う。\nシステム全体の信頼性を維持・向上させるために、自律的な運用と判断が重要になる。"
+  },
+  {
+    "title": "TransformerのSelf AttentionのQKVを直感的に解説する",
+    "link": "https://qiita.com/kenmatsu4/items/1b3853a3314ab66eb2a3",
+    "source": "Qiita (Popular)",
+    "published": "2026-05-10T08:52:36+09:00",
+    "summary": "こんにちは、DeNAでデータサイエンティストをやっているまつけんです。\n\n今回は、Transformerの中で重要な役割を果たしているSelf Attention、特にQKVの仕組みについて直感的に理解できるように解説してみます。\n\nTransformer、特にGPTなどの生成モデルでは\n\n```math\nO = \\mathrm{softmax}\\left(\\frac{QK^{\\mathrm{T}",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFtYXpvbmF3cy5jb20lMkYwJTJGNTA2NzAlMkZwcm9maWxlLWltYWdlcyUyRjE0NzM2OTIxODQ_aXhsaWI9cmItNC4xLjEmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPThjZDZjNWE4ZDRjMzZmYjc5MGYxMGQwZDMxYjFhYjZh%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D1fb379643999ed3b59475dd4d4b08ddb?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9VHJhbnNmb3JtZXIlRTMlODElQUVTZWxmJTIwQXR0ZW50aW9uJUUzJTgxJUFFUUtWJUUzJTgyJTkyJUU3JTlCJUI0JUU2JTg0JTlGJUU3JTlBJTg0JUUzJTgxJUFCJUU4JUE3JUEzJUU4JUFBJUFDJUUzJTgxJTk5JUUzJTgyJThCJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9NWU1ZDRmNWIxYjNiMGYyYTA1NDJmYWE1NmJiMDlhNzA&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBrZW5tYXRzdTQmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz01YzQ4MWE2NDc3NDA4YWRiOTk5Mjk4OWE2NmQ4ODRmZQ&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=acea437b4c8f993a2eb9254a8e95622b",
+    "fetched_at": "2026-05-12 19:15:01",
+    "ja_summary": "Transformerの核心技術である「Self Attention」におけるQ（Query）、K（Key）、V（Value）の役割を直感的に解説。\n文章内の関連性を計算し、各単語が他のどの単語に注目すべきかを判断する仕組みを平易に紐解く。\nGPTなどの生成モデルで重要な役割を果たす、Attentionの数式的な仕組みを視覚的・概念的に理解できる。"
+  },
+  {
     "title": "なぜ、今「会社に戻る」のか　フリーランス→正社員が2.8倍の背景",
     "link": "https://www.itmedia.co.jp/business/articles/2605/11/news015.html",
     "source": "ITmedia ビジネス",
@@ -948,55 +998,5 @@
     "image": "https://images.ctfassets.net/kftzwdyauwt9/7jgfj0ck26uG4g1nrzrA0Q/66561482da84669067710304a720a960/OpenAI_Campus_Network-_Student_club_interest_form.png?w=1600&amp;h=900&amp;fit=fill",
     "fetched_at": "2026-05-11 17:04:57",
     "ja_summary": "・OpenAIが世界中の学生クラブを繋ぐネットワークを開始\n・参加クラブはAIツールの利用権やイベント支援などの特典を獲得可能\n・AI技術を活用した大学内のコミュニティ構築を強力にサポート"
-  },
-  {
-    "title": "How enterprises are scaling AI",
-    "link": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
-    "source": "OpenAI",
-    "published": "Mon, 11 May 2026 10:00:00 GMT",
-    "summary": "How enterprises scale AI: from early experiments to compounding impact through trust, governance, workflow design, and quality at scale.",
-    "image": "https://images.ctfassets.net/kftzwdyauwt9/33wbWUELa8LqPj0SZWOxeL/86a395af69191bb11da7342b92a803d9/How_enterprises_are_scaling_AI.png?w=1600&amp;h=900&amp;fit=fill",
-    "fetched_at": "2026-05-11 17:04:57",
-    "ja_summary": "・企業がAIを拡大するには、実験段階から実用的なワークフローへの移行が不可欠。\n・信頼性とガバナンスを基盤に、品質を維持しながら運用を標準化する。\n・単発の導入に留まらず、複合的な価値を生み出す体制構築が重要。"
-  },
-  {
-    "title": "書籍のOCRにLLMを組み合わせることで精度を上げるだけでなく文書構造や図も表現した記録",
-    "link": "https://zenn.dev/phpmyadmin/articles/0dba6fef411e21",
-    "source": "Zenn Trends",
-    "published": "Sun, 10 May 2026 14:58:21 GMT",
-    "summary": "課題\n手元にあるビジネス書1冊 (縦書き和文、120ページ分) のページ画像をテキスト化したかった。\n入力は PNG 120 枚 (1ページ=1ファイル)、解像度は十分にきれい。図表はほぼなく、文章メイン。\n「専用OCR」「ローカルLLM」「両者の併用」の3手法を実装し、文字精度・処理時間・Markdown構造化要素の数で比較した。\n\n 結論\n\n\n\n手法\n正解類似度 (1849文字基準)\n120ページ処理時間\nMarkdown構造化要素\n\n\n\n\nQwen 単独 (qwen3.5:27b)\n89.82%\n約 80 分\n不安定 (ループあり)\n\n\nNDL OCR Lite 単独\n95.8...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--UVI0mwQu--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E6%259B%25B8%25E7%25B1%258D%25E3%2581%25AEOCR%25E3%2581%25ABLLM%25E3%2582%2592%25E7%25B5%2584%25E3%2581%25BF%25E5%2590%2588%25E3%2582%258F%25E3%2581%259B%25E3%2582%258B%25E3%2581%2593%25E3%2581%25A8%25E3%2581%25A7%25E7%25B2%25BE%25E5%25BA%25A6%25E3%2582%2592%25E4%25B8%258A%25E3%2581%2592%25E3%2582%258B%25E3%2581%25A0%25E3%2581%2591%25E3%2581%25A7%25E3%2581%25AA%25E3%2581%258F%25E6%2596%2587%25E6%259B%25B8%25E6%25A7%258B%25E9%2580%25A0%25E3%2582%2584%25E5%259B%25B3%25E3%2582%2582%25E8%25A1%25A8%25E7%258F%25BE%25E3%2581%2597%25E3%2581%259F%25E8%25A8%2598%25E9%258C%25B2%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:toyoshi%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzIyZjVkMWIwNTkuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-    "fetched_at": "2026-05-11 17:05:02",
-    "ja_summary": "書籍のテキスト化において、OCRとLLMの併用は文字精度と文書構造化のバランスが最も優れている。\n専用OCR（NDL OCR）は文字認識に特化し、LLMはMarkdown形式での構造化に強みを持つ。\n単純な単独手法より、精度と構造化を両立できるハイブリッドなアプローチが実用的である。"
-  },
-  {
-    "title": "Unfurling AI",
-    "link": "https://speakerdeck.com/c0d3xpl0it/unfurling-ai",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-05-09T14:23:20-04:00",
-    "summary": "",
-    "image": "https://files.speakerdeck.com/presentations/00ec6dbb532744a29858b7b9e8e5305b/preview_slide_0.jpg?39354399",
-    "fetched_at": "2026-05-11 17:05:05",
-    "ja_summary": "ご提示いただいた記事の概要（原文）が入力されておりませんが、一般的な「Unfurling AI（AIの展開・解明）」というテーマに基づき、想定される内容を要約します。\n\n・AI技術が急速に進化し、社会実装やビジネス活用が本格化している。\n・技術の透明性向上と倫理的な活用が、今後の普及における最重要課題。\n・企業はAIを競争力の源泉とするため、戦略的な導入と適応を急ぐ必要がある。\n\n※もし特定のニュース記事の要約をご希望の場合は、概要文を貼り付けていただけますと幸いです。"
-  },
-  {
-    "title": "The Tiniest Durable Agent",
-    "link": "https://speakerdeck.com/bibryam/the-tiniest-durable-agent",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-05-09T10:49:44-04:00",
-    "summary": "AI agents are easy to demo and still hard to operate in production. You can build a working agent in a few lines of code, but the moment you care about crashes, retries, state, identity, or observability, things get complicated fast.\n\nThis talk shows how to build the tiniest durable agent in 10 lines of code, an agent that can fail, restart, and resume without losing its mind. We’ll look at what actually makes an agent production-ready, why most agent frameworks fall apart under real-world conditions, and how durability changes the way agents should be designed.\n\nIn 15 minutes, you’ll see how a small amount of agent code, combined with durable execution and externalized infrastructure concerns, turns a fragile demo into something you can actually run in prod. All done with Dapr.",
-    "image": "https://files.speakerdeck.com/presentations/c2f352d38b544e188eace43f860e3dba/preview_slide_0.jpg?39353163",
-    "fetched_at": "2026-05-11 17:05:05",
-    "ja_summary": "・AIエージェントの商用化には、障害時の復旧や状態管理などの「耐久性」確保が不可欠。\n・Daprを活用し、わずか10行のコードで中断・再開可能な堅牢なエージェントを構築する手法を解説。\n・インフラ運用を外部化することで、脆いデモ用AIを実運用レベルへ引き上げる技術を紹介。"
-  },
-  {
-    "title": "こっそりAIを使用しトラブル続出…社員による｢シャドーAI｣見過ごせないリスクと\"具体的な対策法\" | キャリア・教育 | 東洋経済オンライン",
-    "link": "https://toyokeizai.net/articles/-/941086?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-    "source": "東洋経済オンライン",
-    "published": "Mon, 11 May 2026 11:30:00 +0900",
-    "summary": "生成AIの急速な普及とともに､従業員が個人的に生成AIを業務利用する｢シャドーAI｣が深刻なリスクを招いています。情報漏えいやコンプライアンス違反の危険性を企業はどう防ぐべきか——中小企業が今すぐ実…",
-    "image": "https://tk.ismcdn.jp/mwimgs/b/0/1200w/img_b04fc1aa3ab7dceaf1517eb1297bfd02246371.jpg?nextgen=false",
-    "fetched_at": "2026-05-11 13:33:45",
-    "ja_summary": "・業務で許可なく生成AIを使う「シャドーAI」により、情報漏えいやコンプライアンス違反のリスクが急増している。\n・企業は従業員の隠れたAI利用を放置せず、ガイドラインの策定や安全な公式ツールの導入を急ぐ必要がある。\n・禁止するだけでなく、適切なAI活用環境を整備することで、リスクを抑えつつ業務効率化を推進すべき。"
   }
 ]
