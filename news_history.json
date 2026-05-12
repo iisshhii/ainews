@@ -1,5 +1,65 @@
 [
   {
+    "title": "米グーグル、AIによるサイバー攻撃に警鐘　中国・北朝鮮系の動き活発化",
+    "link": "https://www.itmedia.co.jp/business/articles/2605/12/news054.html",
+    "source": "ITmedia ビジネス",
+    "published": "Tue, 12 May 2026 08:32:00 +0900",
+    "summary": "米グーグルは、AIによるサイバー攻撃が本格化している実態に警鐘を鳴らす調査結果を公表した。AIがシステム開発者よりも先に脆弱性を発見し、企業のサーバーから機密情報を盗んだり、製造設備を停止させたりするなど、被害を発生させる事例が広がりつつある。",
+    "image": "https://image.itmedia.co.jp/business/articles/2605/12/cover_news054.jpg",
+    "fetched_at": "2026-05-12 10:22:40",
+    "ja_summary": "・グーグルがAIによるサイバー攻撃の急増に警鐘を鳴らす\n・中国・北朝鮮系の攻撃者がAIを悪用し、脆弱性を突く事例が拡大中\n・情報流出や設備停止などの被害リスクが高まっており、対策が急務"
+  },
+  {
+    "title": "OpenAI、FDE特化の新会社　エンタープライズAI導入を本格支援",
+    "link": "https://www.watch.impress.co.jp/docs/news/2107725.html",
+    "source": "Impress Watch",
+    "published": "",
+    "summary": "OpenAIは11日(米国時間)、AI導入とともに業務変革を支援する企業向けサービスの強化に向けた新会社「OpenAI Deployment Company」を設立し、FDEによるエンタープライズ向けサービスを本格展開する。",
+    "image": "https://www.watch.impress.co.jp/img/ipw/list/2107/725/fde2.jpg",
+    "fetched_at": "2026-05-12 10:22:56",
+    "ja_summary": "・OpenAIが企業向けのAI導入・業務変革を専門とする新会社を設立。\n・FDE（特化型導入支援）を活用し、企業のAI活用を本格的にサポートする。\n・エンタープライズ領域におけるAI実装の加速を狙う。"
+  },
+  {
+    "title": "LINE生みの親、慎CPOインタビュー　「AIはLINE立ち上げ期と酷似している」",
+    "link": "https://japan.cnet.com/article/35247361/",
+    "source": "CNET Japan",
+    "published": "",
+    "summary": "「LINEヤフーは課題意識を持っている」──。4月20日、表舞台にあまり姿を見せないLINEヤフーCPO（最高プロダクト責任者）の慎ジュンホ氏は、自ら壇上に立ち、会場にこう訴えかけた。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35247361/\"><img src=\"https://japan.cnet.com/storage/2026/05/12/c06c3a43851daccb710444671302a891/t/184/138/d/930d4193-4770-4ca1-9b7e-d435cc450760.jpeg\" /></a>",
+    "image": "https://japan.cnet.com/storage/2026/05/12/c06c3a43851daccb710444671302a891/t/184/138/d/930d4193-4770-4ca1-9b7e-d435cc450760.jpeg",
+    "fetched_at": "2026-05-12 10:23:00",
+    "ja_summary": "LINEヤフーの慎CPOが公の場に登場し、現在のAIブームをLINEの立ち上げ期になぞらえて重要性を強調した。\n同社は現在AI活用に対して強い課題意識を持ち、サービス開発の転換点にあることを示唆している。"
+  },
+  {
+    "title": "Dirty Frag (CVE-2026-43284/43500) — Copy Failの暫定策が効かない理由と未パッチ期の管理者対応",
+    "link": "https://zenn.dev/linuxmaster/articles/dirty-frag-cve-2026-43284-43500",
+    "source": "Zenn Trends",
+    "published": "Sun, 10 May 2026 03:31:29 GMT",
+    "summary": "2026年5月8日（KST）、Linuxカーネルにまた新しいローカル権限昇格（LPE）の脆弱性が公表されました。通称「Dirty Frag」、CVE番号は2件チェーンで CVE-2026-43284（xfrm-ESP / IPsec ESP）と CVE-2026-43500（RxRPC）です。\n最初に書きたいのは、Copy Fail（CVE-2026-31431）の続報を待っていた方への結論です。\n\nCopy Fail で打った algif_aead のブラックリストは、Dirty Frag には効きません。 入口モジュールが違うからです。\n\n「先週やったから大丈夫」と思っているサーバー...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--aoyAaRyd--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Dirty%2520Frag%2520%2528CVE-2026-43284%252F43500%2529%2520%25E2%2580%2594%2520Copy%2520Fail%25E3%2581%25AE%25E6%259A%25AB%25E5%25AE%259A%25E7%25AD%2596%25E3%2581%258C%25E5%258A%25B9%25E3%2581%258B%25E3%2581%25AA%25E3%2581%2584%25E7%2590%2586%25E7%2594%25B1%25E3%2581%25A8...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E5%25AE%25AE%25E5%25B4%258E%25E6%2599%25BA%25E5%25BA%2583%2528Linuxmaster.JP%2529%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jS2ZMbGdRVzJKZGd0c1VtLWctOVpYdXNwbWhQaUZ2cHM5STFTWjhDRVB6UEtSdnpucldsQT1zMjUwLWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-05-12 10:23:35",
+    "ja_summary": "・Linuxカーネルに新脆弱性「Dirty Frag」が公表され、ローカル権限昇格の恐れがある。\n・過去の対策（Copy Failのブラックリスト）は今回の脆弱性に無効であり、新たな対応が必要。\n・パッチが未提供の期間は、脆弱性に関連するモジュールの読み込み制限などの対策を推奨。"
+  },
+  {
+    "title": "今だから言える(？) Q Developer Pro のクレジットが神ってた話",
+    "link": "https://speakerdeck.com/mu7889yoon/how-amazing-q-developer-pros-credits-were",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-05-11T20:21:27-04:00",
+    "summary": "https://kansai-cbs.connpass.com/event/390770/",
+    "image": "https://files.speakerdeck.com/presentations/bb7eef081ed646c2aeea8fe42b42358c/preview_slide_0.jpg?39372462",
+    "fetched_at": "2026-05-12 10:23:35",
+    "ja_summary": "・Amazon Q Developer Proの無料枠やクレジットが非常に強力であると紹介。\n・開発効率を劇的に向上させるAI活用術と、コストを抑える賢い運用方法を解説。\n・エンジニア向け勉強会での、コストメリットを最大化するための実践的な知見。"
+  },
+  {
+    "title": "[Frontend Performance - Part 12] React最適化の完成：再レンダリング・メモ化・State設計を完全制覇",
+    "link": "https://qiita.com/tuanphan/items/b05513ade79cef735f90",
+    "source": "Qiita (Popular)",
+    "published": "2026-05-06T12:47:34+09:00",
+    "summary": "![ChatGPT Image May 6, 2026, 10_47_03 AM.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/4257107/ca3a8db2-af0d-4c6c-b6b8-b02c39a636d0.png)\n\n> 📝 **注意**\n> 本記事はAIの補助を受けて編集しています。\n> 内容は大規模",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0MjU3MTA3JTJGMTUwMjkwNzAwZTMxMWViOWIyMGFkZGU0OTljMzBkYTdiMTU0MmNiYyUyRnhfbGFyZ2UucG5nJTNGMTc3ODA0MjY0OT9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9MjhlOTAyODQ0ZGM1Mjk0YmRhY2VmOTFhNDNlNWU4OTk%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkZiNmZkNGVlODEwMGExN2E2YjEyOWU2MzE1MWM1OWU4M2RlNTNiOGIwJTJGb3JpZ2luYWwuanBnJTNGMTc2MjA1MjQ5MD9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz02MGRhYmExYzU0N2I5YTc0YTI5ZTZmZTdlMjllYTJlOQ%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3Dfedfdcf3e147008e88f54468a0932ae7?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JTVCRnJvbnRlbmQlMjBQZXJmb3JtYW5jZSUyMC0lMjBQYXJ0JTIwMTIlNUQlMjBSZWFjdCVFNiU5QyU4MCVFOSU4MSVBOSVFNSU4QyU5NiVFMyU4MSVBRSVFNSVBRSU4QyVFNiU4OCU5MCVFRiVCQyU5QSVFNSU4NiU4RCVFMyU4MyVBQyVFMyU4MyVCMyVFMyU4MyU4MCVFMyU4MyVBQSVFMyU4MyVCMyVFMyU4MiVCMCVFMyU4MyVCQiVFMyU4MyVBMSVFMyU4MyVBMiVFNSU4QyU5NiVFMyU4MyVCQlN0YXRlJUU4JUE4JUFEJUU4JUE4JTg4JUUzJTgyJTkyJUU1JUFFJThDJUU1JTg1JUE4JUUyJTgwJUE2JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9Yzk0NzFjMjFkYjcyMjY1ZmVmZjUxMzQxNWMwODA1Mzg&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDB0dWFucGhhbiZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWIxNGE0ZDY3ZTEzY2Q3NzNmYjVhY2FlMTA3MmU1ZTBi&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=5qCq5byP5Lya56S-VE9NT1NJQSBWSUVUIE5BTQ&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=ed7340dfb10ccfac964a6ac183666cc2",
+    "fetched_at": "2026-05-12 10:23:38",
+    "ja_summary": "・Reactのパフォーマンス向上のため、不要な再レンダリングを防ぐメモ化技術を解説。\n・コンポーネントの分割やStateの適切な配置による、効率的な設計手法を提示。\n・大規模アプリ開発で必須となるレンダリング最適化のベストプラクティスを網羅。"
+  },
+  {
     "title": "人とAIエージェント協働は企業業務もソフトウェアと同パターンに　MS調査",
     "link": "https://www.watch.impress.co.jp/docs/news/2107697.html",
     "source": "Impress Watch",
@@ -938,65 +998,5 @@
     "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFtYXpvbmF3cy5jb20lMkYwJTJGMjU2NzUzJTJGcHJvZmlsZS1pbWFnZXMlMkYxNTM4MzAzMzIwP2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz00MzU1NDQ3NTE5OGE1OGM4NDBkNDRjODZkNjk1ZWU3ZQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D81dc0c63252239892e68edfe1cdca35d?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9Q2xhdWRlJTIwQ29kZSVFMyU4MiU5MjEyMCUyNSVFNCVCRCVCRiVFMyU4MSU4NCVFMyU4MSU5MyVFMyU4MSVBQSVFMyU4MSU5OSVFOCVBOCVBRCVFNSVBRSU5QTMlRTklODElQjglRTMlODAlOTBFQ0MlRTMlODMlQkJNZW1vcnkubWQlRTMlODMlQkJPYnNpZGlhbiVFOSU4MCVBMyVFNiU5MCVCQSVFMyU4MCU5MSZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTIzOWI2MWExMjExY2UxMWIwZWE4ODBiZWE4NDEzNWU4&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBtYW5jaGFuJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9ZTBkOTRmNTJhNzkyNjhiMDNkYzA5ODk4MjFjYzg2Mzg&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=443d5941a1459abb0374f9e40117a631",
     "fetched_at": "2026-05-11 09:07:35",
     "ja_summary": "・Memory.mdでプロジェクトの背景を固定し、説明の手間を削減\n・ECC（環境固有設定）を活用し、専門的なレビュー品質を底上げ\n・Obsidianとの連携で調査記録を一元管理し、知識の資産化を実現"
-  },
-  {
-    "title": "｢日経平均株価の上昇持続｣＋｢出遅れTOPIXの巻き返し｣で､今後カギを握る企業や業種は何か | 政治・経済・投資 | 東洋経済オンライン",
-    "link": "https://toyokeizai.net/articles/-/943996?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-    "source": "東洋経済オンライン",
-    "published": "Mon, 11 May 2026 07:30:00 +0900",
-    "summary": "日本株市場が歴史的高値を更新する一方で､AI関連への資金集中による過熱感と､主要指数間の乖離が拡大しています。短期的な加熱と長期的な成長という二面性を持つ現在の相場環境で､投資家が注視すべき本質とは…",
-    "image": "https://tk.ismcdn.jp/mwimgs/d/1/1200w/img_d1bb47d5c83b794e34386be6353b2e3e97666.jpg?nextgen=false",
-    "fetched_at": "2026-05-11 08:06:42",
-    "ja_summary": "・AI関連株の過熱で日本株に偏りが生じる中、出遅れているTOPIX構成銘柄の巻き返しが期待される。\n・短期的には過熱感があるものの、中長期的には日本株全体の上昇トレンドが維持されている。\n・投資家は、特定のテーマ株だけでなく、市場全体の相関性や業種間の出遅れ感を見極めることが重要。"
-  },
-  {
-    "title": "NEC×Anthropic協業は「想像以上の反響」　社長対談で語られた“日の丸AI”の戦い方【一問一答】",
-    "link": "https://www.itmedia.co.jp/business/articles/2605/11/news014.html",
-    "source": "ITmedia ビジネス",
-    "published": "Mon, 11 May 2026 07:00:00 +0900",
-    "summary": "電撃的協業を発表したNECとAnthropicの社長が対談した。そこで語られた、日本のAI開発と戦い方を抜粋して紹介する。",
-    "image": "https://image.itmedia.co.jp/business/articles/2605/11/cover_news014.jpg",
-    "fetched_at": "2026-05-11 08:06:44",
-    "ja_summary": "・NECとAnthropicが電撃的な協業を発表し、想定以上の反響を得ている。\n・両社トップが対談し、日本のビジネス環境に最適化したAI開発の戦略を明かした。\n・「日の丸AI」として、いかに世界基準の技術と日本の強みを掛け合わせるかが焦点。"
-  },
-  {
-    "title": "半導体もAIデータセンターも支える「緑のインキ」とは? 世界No.1太陽ホールディングスが創る未来[Sponsored]",
-    "link": "https://www.watch.impress.co.jp/docs/topic/special/2100159.html",
-    "source": "Impress Watch",
-    "published": "",
-    "summary": "ITの力で、世界は変わり続けています。スマホの誕生から約20年が経過し、さまざまなアプリやデータをクラウド上で扱うのが当たり前になりました。そして極め付きが、AIの台頭です。生成AIが十分実用的になり、既存の技術やサービスはAIでより便利に進化する。そんな時代が来ています。",
-    "image": "https://www.watch.impress.co.jp/img/ipw/list/2100/159/t00.jpg",
-    "fetched_at": "2026-05-11 08:07:00",
-    "ja_summary": "・太陽ホールディングスが、半導体やAIデータセンターの性能を支える特殊な「緑のインキ（ソルダーレジスト）」で世界シェア1位を誇る。\n・AIやクラウドの普及に伴い、高度化するデジタル社会のインフラに不可欠な材料として存在感を高めている。\n・同社は高い技術力で、次世代技術の発展を根底から支える未来のインフラ企業として注目されている。"
-  },
-  {
-    "title": "ChatGPT、日本でも「広告」導入へ　無料プランなど",
-    "link": "https://www.watch.impress.co.jp/docs/news/2107354.html",
-    "source": "Impress Watch",
-    "published": "",
-    "summary": "OpenAIは7日、近日中に日本においても「ChatGPT」での広告パイロットプログラムを開始すると発表した。2月から米国などでスタートしていたが、日本と韓国、イギリス、メキシコ、ブラジルなどに拡大する。",
-    "image": "https://www.watch.impress.co.jp/img/ipw/list/2107/354/o01.jpg",
-    "fetched_at": "2026-05-11 08:07:01",
-    "ja_summary": "・OpenAIは近日中に日本で「ChatGPT」の広告プログラムを開始する。\n・米国に続き、日本を含む世界各国へ順次拡大される。\n・無料プランなどを対象に、試験的な広告導入が進められる。"
-  },
-  {
-    "title": "“無修正コンテンツ”も生成できる？　無検閲オープンソース動画生成AI「Sulphur 2」登場（生成AIクローズアップ）",
-    "link": "https://www.techno-edge.net/article/2026/05/11/5051.html",
-    "source": "TechnoEdge",
-    "published": "Mon, 11 May 2026 07:34:45 +0900",
-    "summary": "今回は、2026年5月にHugging Face上で公開された、無検閲（Uncensored）オープンソース動画生成モデル「Sulphur 2」を取り上げます。",
-    "image": "https://www.techno-edge.net/imgs/rss/31311.png",
-    "fetched_at": "2026-05-11 08:07:12",
-    "ja_summary": "・検閲制限のないオープンソースの動画生成AI「Sulphur 2」が公開された。\n・従来の生成AIのような制限がなく、無修正コンテンツの生成も可能。\n・開発や表現の自由度は高い一方、悪用リスクなど安全性の課題が懸念される。"
-  },
-  {
-    "title": "ISUNARABE合同演習2026に参加しました(INUCON チーム)",
-    "link": "https://zenn.dev/mazrean/articles/27fc724fde1b88",
-    "source": "Zenn Trends",
-    "published": "Sun, 10 May 2026 06:52:17 GMT",
-    "summary": "@KOBA789 さん主催のISUNARABE 合同演習 2026 に参加しました。\nチーム名は INUCON(以下略)で、結果としては参加者唯一の fail でした…\nそのざっくり参加記です。\n\n 前提\n自分の場合、以前から Grafana を中心とした対 ISUCON 用のツール群を整備していました。\nざっくり説明すると、ローカルで Grafana・Prometheus・Pyroscope・Loki を docker により構築し、サーバーに fluentbit と自作の自動計装ツールで各種メトリクスを仕込むことで1発で完全な計測環境ができるというものです[1]。\nhttps://t...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--aTVPK-fg--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:ISUNARABE%25E5%2590%2588%25E5%2590%258C%25E6%25BC%2594%25E7%25BF%25922026%25E3%2581%25AB%25E5%258F%2582%25E5%258A%25A0%25E3%2581%2597%25E3%2581%25BE%25E3%2581%2597%25E3%2581%259F%2528INUCON%2520%25E3%2583%2581%25E3%2583%25BC%25E3%2583%25A0%2529%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:mazrean%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2NlZTE5ZGIxNDkuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-    "fetched_at": "2026-05-11 08:07:31",
-    "ja_summary": "・ISUCON関連の合同演習「ISUNARABE 2026」にチーム「INUCON」として参加。\n・Grafana等の計測環境を自作ツールで構築して挑むも、参加者唯一のfailという結果に終わった。\n・本記事は、その挑戦の経緯と振り返りをまとめた参加記である。"
   }
 ]
