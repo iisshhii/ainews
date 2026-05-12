@@ -1,5 +1,35 @@
 [
   {
+    "title": "Googlebook誕生　Geminiを前提とした新しいノートPCが今秋発売",
+    "link": "https://www.watch.impress.co.jp/docs/news/2107723.html",
+    "source": "Impress Watch",
+    "published": "",
+    "summary": "Googleは11日(米国時間)、新たなノートPCのプラットフォーム「Googlebook」を発表した。Geminiを中核としてノートパソコンを再設計したシリーズで、Acer、ASUS、Dell、HP、Lenovoらが協力して製品を開発。2026年秋の製品発売を予定している。",
+    "image": "https://www.watch.impress.co.jp/img/ipw/list/2107/723/gb0.jpg",
+    "fetched_at": "2026-05-13 02:30:50",
+    "ja_summary": "・GoogleがAI「Gemini」を中核に据えた新ノートPCプラットフォーム「Googlebook」を発表。\n・AcerやDellなど主要メーカーと連携し、AI特化型に再設計された製品群を展開予定。\n・2026年秋の発売を目指し、ハードウェアとAIの統合を加速させる。"
+  },
+  {
+    "title": "「Gemini Intelligence」登場　“意図”を理解するAndroidがノートPCにも拡大",
+    "link": "https://www.watch.impress.co.jp/docs/news/2107319.html",
+    "source": "Impress Watch",
+    "published": "",
+    "summary": "Googleは12日(米国時間)、Androidの最新情報や今後の展開を発表する「The Android Show: I/O Edition」を開催した。GeminiをAndroidの各機能に統合する「Gemini Intelligence」や「Android 17」の新機能、車載システム「Android Auto」の進化、そして、Androidエコシステムに新たに加わる新しいノートPC「Googlebook」などの新展開を発表した。",
+    "image": "https://www.watch.impress.co.jp/img/ipw/list/2107/319/a02.jpg",
+    "fetched_at": "2026-05-13 02:30:50",
+    "ja_summary": "・GoogleがAndroidの各機能にAI「Gemini Intelligence」を統合し、意図を汲み取る操作性を実現。\n・Android Autoの機能強化や次期OS「Android 17」の展望を発表。\n・Androidエコシステムに、新たにノートPC「Googlebook」が加わる。"
+  },
+  {
+    "title": "128GB超メモリMac専用の巨大LLMエンジン「DwarfStar 4」はローカル推論の常識をどう書き換えるのか。284BのDeepSeek V4 FlashをM4 Max 128GB MacBook Proの自作AIに組み込んでみた（CloseBox）",
+    "link": "https://www.techno-edge.net/article/2026/05/10/5049.html",
+    "source": "TechnoEdge",
+    "published": "Sun, 10 May 2026 12:45:24 +0900",
+    "summary": "Redisの作者であるSalvatore Sanfilippo（antirez）が、5月初旬にGitHubへひっそりと新しいリポジトリを公開しました。名前は『ds4』。DeepSeek V4 Flash専用のローカル推論エンジンです。",
+    "image": "https://www.techno-edge.net/imgs/rss/31310.jpg",
+    "fetched_at": "2026-05-13 02:31:05",
+    "ja_summary": "・Redis作者がMac（メモリ128GB以上）専用の軽量AI推論エンジン「DwarfStar 4」を公開。\n・284Bパラメータの「DeepSeek V4 Flash」をM4 Max MacBook Proでローカル実行可能にする。\n・高性能な巨大AIモデルをPCローカル環境で動かすための新たな技術的選択肢を提示。"
+  },
+  {
     "title": "NSKとNTN、27年統合で軸受世界トップ級に　対中国とフィジカルAI見据え",
     "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11732/",
     "source": "日経クロステック 総合",
@@ -968,35 +998,5 @@
     "image": "https://japan.cnet.com/storage/2026/05/11/fb00850b7b610af8742dec4b138cc588/t/184/138/d/top2.jpg",
     "fetched_at": "2026-05-11 20:34:58",
     "ja_summary": "・ソフトバンクがAIデータセンター事業へ本格参入し、苫小牧（2026年度）と堺（2027年度）に新設する。\n・既存のGPU計算基盤は完売しており、事業は既に投資段階から収益化フェーズへ移行した。\n・「ネオクラウド」戦略により、AI需要拡大に応じたインフラ供給を加速させる。"
-  },
-  {
-    "title": "経営陣は「AI活用しろ」と言いつつ「お手本」を示せていない　マイクロソフト報告書",
-    "link": "https://japan.cnet.com/article/35247352/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "AIを業務に取り入れるよう会社の経営陣から求められているかもしれない。しかし、その同じ経営陣が職場のAI導入を妨げている可能性があることが、マイクロソフトの新しい報告書で明らかになった。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35247352/\"><img src=\"https://japan.cnet.com/storage/2026/05/11/24d796472487a6387b23d2ba845c48ca/t/184/138/d/gettyimages-2247162855_1280x960.jpg\" /></a>",
-    "image": "https://japan.cnet.com/storage/2026/05/11/24d796472487a6387b23d2ba845c48ca/t/184/138/d/gettyimages-2247162855_1280x960.jpg",
-    "fetched_at": "2026-05-11 20:34:58",
-    "ja_summary": "・経営陣は部下にAI活用を求める一方、自らが活用のお手本を示せていない。\n・経営層の姿勢が、かえって職場のAI導入や定着を妨げる要因となっている。\n・AI推進には、経営陣自らが率先して活用し、指針を示すことが不可欠である。"
-  },
-  {
-    "title": "Claude Managed Agents を試す",
-    "link": "https://note.com/npaka/n/n190b39339bf9",
-    "source": "note (npaka)",
-    "published": "Thu, 07 May 2026 17:32:58 +0900",
-    "summary": "<p id=\"4734e683-8a4d-4514-aa1d-6f4501f5c586\" name=\"4734e683-8a4d-4514-aa1d-6f4501f5c586\">「Claude Managed Agents」を試したのでまとめました。</p><br /><br /><a href=\"https://note.com/npaka/n/n190b39339bf9\">続きをみる</a>",
-    "image": "https://assets.st-note.com/production/uploads/images/273822864/rectangle_large_type_2_6a3363effae9986e31a827271ed85ec6.png?width=800",
-    "fetched_at": "2026-05-11 20:35:07",
-    "ja_summary": "・Anthropicの最新機能「Claude Managed Agents」の試用レポート。\n・AIエージェントの構築や活用に関する実践的な知見をまとめたもの。\n・詳細は元記事にて確認可能。"
-  },
-  {
-    "title": "ソフトバンク、レアメタル不要の国産バッテリー製造に参入　シャープ堺工場跡にAIデータセンターとGXファクトリー新設、亜鉛ハロゲン電池で28年度にGWh規模の量産目指す",
-    "link": "https://www.techno-edge.net/article/2026/05/11/5052.html",
-    "source": "TechnoEdge",
-    "published": "Mon, 11 May 2026 18:07:30 +0900",
-    "summary": "ソフトバンクは2026年5月11日、AIデータセンターの電力需要に対応するため、バッテリーセルおよび蓄電システム（BESS）の国内製造事業に参入すると発表しました。<br />\n<br />\n大阪府堺市にある旧シャープ工場跡地に製造拠点を構え、2027年度の製造開始、2028年度をめどに年間ギガワット時（GWh）規模の量産体制確立を目指します。同事業の2030年度の売上目標は年間1,000億円以上としています。",
-    "image": "https://www.techno-edge.net/imgs/rss/31343.jpg",
-    "fetched_at": "2026-05-11 20:35:11",
-    "ja_summary": "・ソフトバンクが国産バッテリー製造に参入し、シャープ堺工場跡地で2028年度より量産を開始する。\n・レアメタル不要の「亜鉛ハロゲン電池」を採用し、急増するAIデータセンターの電力需要に対応する。\n・2030年度までに売上1,000億円以上を目指し、蓄電システム（BESS）の供給体制を構築する。"
   }
 ]
