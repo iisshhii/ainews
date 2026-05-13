@@ -1,5 +1,85 @@
 [
   {
+    "title": "Claude Cowork、法務対応を強化する拡張機能　業務別プラグインなど",
+    "link": "https://www.watch.impress.co.jp/docs/news/2108449.html",
+    "source": "Impress Watch",
+    "published": "",
+    "summary": "Anthropicは12日(米国時間)、「Claude Cowork」関連の法律業務利用の強化に向け、業界で使われるソフトウェアとClaudeを連携させる20種類以上のコネクターやプラグインなどを発表した。",
+    "image": "https://www.watch.impress.co.jp/img/ipw/list/2108/449/cl0.jpg",
+    "fetched_at": "2026-05-14 00:34:18",
+    "ja_summary": "AI「Claude」が法律業務を強化。\n20種類以上のコネクターやプラグインで、業界ソフトとの連携を可能に。\nこれにより、法律専門家がClaudeをより活用できるようになる。"
+  },
+  {
+    "title": "Googlebook誕生　Geminiを前提とした新しいノートPCが今秋発売",
+    "link": "https://www.watch.impress.co.jp/docs/news/2107723.html",
+    "source": "Impress Watch",
+    "published": "",
+    "summary": "Googleは11日(米国時間)、新たなノートPCのプラットフォーム「Googlebook」を発表した。Geminiを中核としてノートパソコンを再設計したシリーズで、Acer、ASUS、Dell、HP、Lenovoらが協力して製品を開発。2026年秋の製品発売を予定している。",
+    "image": "https://www.watch.impress.co.jp/img/ipw/list/2107/723/gb0.jpg",
+    "fetched_at": "2026-05-14 00:34:20",
+    "ja_summary": "GoogleがAI「Gemini」搭載の新ノートPCプラットフォーム「Googlebook」を発表。\nAcer、ASUSなど主要メーカーが協力し、2026年秋に発売予定。\nAIを前提とした次世代PCとして、パフォーマンス向上が期待される。"
+  },
+  {
+    "title": "「Gemini Intelligence」登場　“意図”を理解するAndroidがノートPCにも拡大",
+    "link": "https://www.watch.impress.co.jp/docs/news/2107319.html",
+    "source": "Impress Watch",
+    "published": "",
+    "summary": "Googleは12日(米国時間)、Androidの最新情報や今後の展開を発表する「The Android Show: I/O Edition」を開催した。GeminiをAndroidの各機能に統合する「Gemini Intelligence」や「Android 17」の新機能、車載システム「Android Auto」の進化、そして、Androidエコシステムに新たに加わる新しいノートPC「Googlebook」などの新展開を発表した。",
+    "image": "https://www.watch.impress.co.jp/img/ipw/list/2107/319/a02.jpg",
+    "fetched_at": "2026-05-14 00:34:21",
+    "ja_summary": "Googleが「Gemini Intelligence」を発表。\nAndroidスマホに続き、ノートPCにもAI機能が拡大。\n新OS「Android 17」や「Googlebook」も登場。"
+  },
+  {
+    "title": "Claude Managed Agents を試す",
+    "link": "https://note.com/npaka/n/n190b39339bf9",
+    "source": "note (npaka)",
+    "published": "Thu, 07 May 2026 17:32:58 +0900",
+    "summary": "<p id=\"4734e683-8a4d-4514-aa1d-6f4501f5c586\" name=\"4734e683-8a4d-4514-aa1d-6f4501f5c586\">「Claude Managed Agents」を試したのでまとめました。</p><br /><br /><a href=\"https://note.com/npaka/n/n190b39339bf9\">続きをみる</a>",
+    "image": "https://assets.st-note.com/production/uploads/images/273822864/rectangle_large_type_2_6a3363effae9986e31a827271ed85ec6.png?width=800",
+    "fetched_at": "2026-05-14 00:34:29",
+    "ja_summary": "・Anthropicの「Claude Managed Agents」の使用感を解説。\n・エージェント機能の活用方法や実機での検証内容を網羅。\n・AIによる業務自動化や自律的なタスク処理に関心がある層向けの情報。"
+  },
+  {
+    "title": "What Parameter Golf taught us about AI-assisted research",
+    "link": "https://openai.com/index/what-parameter-golf-taught-us",
+    "source": "OpenAI",
+    "published": "Tue, 12 May 2026 00:00:00 GMT",
+    "summary": "Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore AI-assisted machine learning research, coding agents, quantization, and novel model design under strict constraints.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/6PRLQARXtH3sfsTBcHlufc/ac545b82a82009609194d64e34538e62/SEO.png?w=1600&amp;h=900&amp;fit=fill",
+    "fetched_at": "2026-05-14 00:34:38",
+    "ja_summary": "・1,000人超が参加したAI研究プロジェクト「Parameter Golf」が開催された。\n・AIモデル設計やコーディング等の技術を、厳しい制約下で競い合う手法を検証。\n・制約下でのAI最適化や、AIによる研究支援の可能性を実証した。"
+  },
+  {
+    "title": "Advanced Signal Store: Structuring State for Real Angular Applications",
+    "link": "https://speakerdeck.com/fabiangosebrink/advanced-signal-store-structuring-state-for-real-angular-applications",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-05-13T09:11:20-04:00",
+    "summary": "Modern Angular applications grow quickly, and with that growth come new questions about how to structure and share state effectively. Signals make local state simple and expressive, but as applications evolve, architectural decisions around state become increasingly important.\n\nIn this talk, we go beyond the basics of the NgRx Signal Store and explore how it can be used as an architectural building block in real Angular applications. We look at practical scenarios and discuss where state belongs, how to define clear boundaries between components, features, and application wide concerns, and how Signal Store fits into that picture.\n\nWe dive deeper into advanced Signal Store concepts such as store composition, derived state, effects, and integration with Angular's dependency injection system, always from an architectural point of view rather than focusing only on the API.\n\nThis session is driven by experience and clear opinions. It focuses on sharing patterns, heuristics, and mental models that help teams structure state with confidence. You will leave with concrete ideas for designing maintainable and scalable Angular applications using Signal Store, grounded in real world constraints and everyday development.",
+    "image": "https://files.speakerdeck.com/presentations/e7ee69ddae8e429a82edf78bbd2c4b4c/preview_slide_0.jpg?39390635",
+    "fetched_at": "2026-05-14 00:34:55",
+    "ja_summary": "要約の生成に失敗しました。"
+  },
+  {
+    "title": "【徹底解説】セキュリティスペシャリストが教える、セキュアプログラミングの教科書",
+    "link": "https://qiita.com/miruky/items/6fbb0c0e55835ea79e4d",
+    "source": "Qiita (Popular)",
+    "published": "2026-05-07T09:30:06+09:00",
+    "summary": "![セキュアプログラミング教科書](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3637204/a8128975-15c5-476f-b392-986356142aa2.png)\n\n\n## はじめに\n\nこんばんは、mirukyです。\n\n「セキュアプログラミング」という言葉をご存知でしょうか。意味としてはそのままで、セキュア",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGMzYzNzIwNCUyRnByb2ZpbGUtaW1hZ2VzJTJGMTc3NDQ0NTA3MD9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NzhlNWJjOTliMzcxMjIzNTdjNWQ1N2EyMTc3MzQyMGQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D4251943b4cba54fb403a98b0c03f0bf4?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJTkwJUU1JUJFJUI5JUU1JUJBJTk1JUU4JUE3JUEzJUU4JUFBJUFDJUUzJTgwJTkxJUUzJTgyJUJCJUUzJTgyJUFEJUUzJTgzJUE1JUUzJTgzJUFBJUUzJTgzJTg2JUUzJTgyJUEzJUUzJTgyJUI5JUUzJTgzJTlBJUUzJTgyJUI3JUUzJTgzJUEzJUUzJTgzJUFBJUUzJTgyJUI5JUUzJTgzJTg4JUUzJTgxJThDJUU2JTk1JTk5JUUzJTgxJTg4JUUzJTgyJThCJUUzJTgwJTgxJUUzJTgyJUJCJUUzJTgyJUFEJUUzJTgzJUE1JUUzJTgyJUEyJUUzJTgzJTk3JUUzJTgzJUFEJUUzJTgyJUIwJUUzJTgzJUE5JUUzJTgzJTlGJUUzJTgzJUIzJUUzJTgyJUIwJUUzJTgxJUFFJUU2JTk1JTk5JUU3JUE3JTkxJUU2JTlCJUI4JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9NzU0MTIxM2IzMmZkODI1ZmZhYzc1ZTMzMjUwYWE2YTI&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBtaXJ1a3kmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz03OTk2NjQ5OGIxYWQ1NDQxNjI5ZjM2ZTYzYTY3MzliZg&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=f13d103ee1df96061b5ec36f435adc23",
+    "fetched_at": "2026-05-14 00:34:58",
+    "ja_summary": "セキュリティ専門家が、安全なプログラム作成のための知識を解説。\n脆弱性を防ぎ、サイバー攻撃からシステムを守るための実践的な教科書。\n開発者は必読、セキュアコーディングで信頼性の高いシステムを構築しよう。"
+  },
+  {
+    "title": "【Claude Code入門】Skills 徹底解説 - 仕組みの解説からハンズオンまで",
+    "link": "https://qiita.com/i-inose/items/14f212258dc350857a94",
+    "source": "Qiita (Popular)",
+    "published": "2026-04-28T12:32:01+09:00",
+    "summary": "## はじめに\n\n:::note warn\nこの記事は前回の Claude Code 入門記事を読んでいる前提で書いています。「Skill ってそもそも何？」という方は先にこちらをご覧ください。\n\nhttps://qiita.com/i-inose/items/e644e9b620ee1c8d3c1b\n:::\n\n以前の記事で Claude Code の全体像を紹介したとき、Skill については「",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYyNzM3MDU1JTJGMmRhZmNlMzcyYjViYjhiYjVhMWM5ZWMwMmFkNzQyYzIwZjkzMjJiOCUyRnhfbGFyZ2UucG5nJTNGMTc1MTYxMzgyNj9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9ZWUzNzcxMDU2MGNiYjE3Yjg0ZTMzMzNiYzFkNjE5MmE%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYxZTIwZGI1ZTdlNDA3ZWFlN2I5NzBlYzk5OTg4MGRjOGMzY2MwZjY0JTJGb3JpZ2luYWwuanBnJTNGMTY2NzI3NDk2Mz9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz04OTI0NDcwMDk1MDMyZjUxYmZlNzE3ZjVkOGUzYmE3ZA%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D93af156f222727262dec3e8b270c1aec?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJTkwQ2xhdWRlJTIwQ29kZSVFNSU4NSVBNSVFOSU5NiU4MCVFMyU4MCU5MVNraWxscyUyMCVFNSVCRSVCOSVFNSVCQSU5NSVFOCVBNyVBMyVFOCVBQSVBQyUyMC0lMjAlRTQlQkIlOTUlRTclQjUlODQlRTMlODElQkYlRTMlODElQUUlRTglQTclQTMlRTglQUElQUMlRTMlODElOEIlRTMlODIlODklRTMlODMlOEYlRTMlODMlQjMlRTMlODIlQkElRTMlODIlQUElRTMlODMlQjMlRTMlODElQkUlRTMlODElQTcmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz04MTNjMDcwNmUxZDhmMGI0OWY2YjZjYjQ5ZTA2OTE3Nw&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBpLWlub3NlJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9ODQ3OWMzMGY0MDM3NWZmODUzM2Y2YTkxMWU4MDI2ZTc&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=S0RESeOCouOCuOODo-OCpOODq-mWi-eZuuOCu-ODs-OCv-ODvOagquW8j-S8muekvg&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=cda32edfd9063ddf61bc8dc1d4bb1b51",
+    "fetched_at": "2026-05-14 00:34:59",
+    "ja_summary": "要約の生成に失敗しました。"
+  },
+  {
     "title": "最新AI｢ミュトス｣のアクセス権､日本の3メガバンクが確保できる見通し…日米間の連携を深めてサイバー攻撃に備える狙い | 政治・経済・投資 | 東洋経済オンライン",
     "link": "https://toyokeizai.net/articles/-/944443?utm_source=rss&utm_medium=http&utm_campaign=link_back",
     "source": "東洋経済オンライン",
@@ -918,85 +998,5 @@
     "image": "https://business.nikkei.com/atcl/audio/22/00001/051200873/fb.jpg",
     "fetched_at": "2026-05-13 05:57:16",
     "ja_summary": "・中国は原油高を背景にEV輸出が過去最高を記録。\n・日本は創薬力を活かし、国内製造への回帰で輸入依存からの脱却を図る。\n・米ストライプはAIによる超少額決済市場を見据え、OpenAIと連携を強化。"
-  },
-  {
-    "title": "決済大手米ストライプ、AIが買い物する少額決済に照準　オープンAIと蜜月 (AIディスラプション)",
-    "link": "https://business.nikkei.com/atcl/gen/19/00466/051200046/",
-    "source": "日経ビジネス 最新",
-    "published": "",
-    "summary": "決済大手米ストライプが米オープンAIや米グーグルなどAI企業と急接近している。金融サービスとAIエージェントを組み合わせて何をつくろうとしているのか。次の一手を探る。",
-    "image": "https://business.nikkei.com/atcl/gen/19/00466/051200046/fb.jpg",
-    "fetched_at": "2026-05-13 05:57:17",
-    "ja_summary": "・決済大手ストライプがオープンAI等と提携し、AIエージェントによる自動決済市場へ参入。\n・AIが自律的に買い物を行う「AI主導の少額決済」の仕組みを構築中。\n・AIと金融サービスの融合により、次世代の決済プラットフォームの主導権を狙う。"
-  },
-  {
-    "title": "今井むつみ氏「AIが自動翻訳してくれる時代に、なぜ英語を学ぶか」 (Books)",
-    "link": "https://business.nikkei.com/atcl/gen/19/00087/051100493/",
-    "source": "日経ビジネス 最新",
-    "published": "",
-    "summary": "AIが自動翻訳する時代に、なぜ私たちは英語を学ぶのか。認知科学者の今井むつみ氏が真正面から答える。",
-    "image": "https://business.nikkei.com/atcl/gen/19/00087/051100493/fb.jpg",
-    "fetched_at": "2026-05-13 05:57:18",
-    "ja_summary": "AI翻訳が進化しても、言語を学ぶことは「相手の文化的背景や文脈を深く理解する」ための脳のトレーニングになる。\n単なる情報伝達を超え、他者への深い共感と相互理解を築くための「思考の深さ」を養うことに本質的な意義がある。"
-  },
-  {
-    "title": "中国、イラン戦争による原油高でEV輸出最高　「電化」で米国産ガスに対抗 (イラン・AIが変えるエネルギー秩序)",
-    "link": "https://business.nikkei.com/atcl/gen/19/00874/050800002/",
-    "source": "日経ビジネス 最新",
-    "published": "",
-    "summary": "「今の中国はまさに1980年代の日本だ」。1970年代のオイルショックを受けて、日本の低燃費車が80年代に世界市場を席巻した。同じように、イラン戦争によるガソリン価格の上昇が、中国の廉価な電気自動車の需要を高めるという見方だ。",
-    "image": "https://business.nikkei.com/atcl/gen/19/00874/050800002/fb.jpg",
-    "fetched_at": "2026-05-13 05:57:19",
-    "ja_summary": "・中東情勢による原油高が、安価な中国製EVの世界的需要を押し上げている。\n・かつてのオイルショックで日本車が台頭した構図が、現在EV市場で再現。\n・中国はEV輸出を拡大し、米国産天然ガスなど既存のエネルギー秩序に対抗する。"
-  },
-  {
-    "title": "三井化学、現場のヒヤリハット学んだAIで労災6割減 (AIが起こすESG革命)",
-    "link": "https://business.nikkei.com/atcl/gen/19/00879/042700003/",
-    "source": "日経ビジネス 最新",
-    "published": "",
-    "summary": "三井化学は労働災害を経営課題と捉え、その管理にAIを活用しています。AIの活用が定着した職場では労災が56％減るなど、成果が表れ始めています。",
-    "image": "https://business.nikkei.com/atcl/gen/19/00879/042700003/fb.jpg",
-    "fetched_at": "2026-05-13 05:57:19",
-    "ja_summary": "・三井化学が労働災害対策にAIを活用し、現場のヒヤリハット事例を学習。\n・導入済み職場では労災が56％減少するなど、安全管理において高い成果を上げている。\n・AIによる安全管理の徹底で、ESG経営の推進を加速させている。"
-  },
-  {
-    "title": "Google検索の「AIモード」、対話形式でベスト回答を素早く引き出す",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03588/041400005/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "Google検索はGeminiとの統合が進み、AIの活用が急速に拡大している。最も大きな変化は、従来のウェブ検索画面からGeminiのAIチャットを実行できる「AIモード」が実装されたこと。AIとの会話で求める情報に最短でたどり着く方法を紹介する。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03588/041400005/topm.jpg?20220512",
-    "fetched_at": "2026-05-13 05:57:23",
-    "ja_summary": "・Google検索にAI「Gemini」が統合され、対話型検索が可能に。\n・従来の検索画面から直接AIと会話でき、情報の検索効率が大幅に向上。\n・AIとのやり取りを通じて、求める回答へ最短で到達できるようになった。"
-  },
-  {
-    "title": "Mythosが引き起こす「脆弱性の嵐」に備えよ、専門家250人が対策を提言",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00676/050700224/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "米Anthropicの「Claude Mythos Preview」が、これまでのセキュリティーの常識を変えようとしている。企業は、どのように対抗すればよいのか。Cloud Security Allianceが発行したドキュメントを基に考えてみよう。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/00676/050700224/topm.jpg?20220512",
-    "fetched_at": "2026-05-13 05:57:23",
-    "ja_summary": "・Anthropicの「Claude Mythos」登場により、従来のセキュリティ常識が通用しない新たな脅威が懸念されている。\n・Cloud Security Allianceが専門家250人の知見をまとめ、企業が備えるべき対策を提言した。\n・新たなAIモデルの脆弱性を理解し、最新の防御フレームワークを導入することが急務となっている。"
-  },
-  {
-    "title": "TeamsのAIワークフローを使う、トピック情報を集めて要約を生成",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/01787/050800220/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "Microsoft Teamsでは、「ワークフロー」アプリで定型の操作を自動化するフローを作成できる。作成方法には、テンプレートを使うもの、最初から作るもの、AIを使うものがある。今回は、その中からAIワークフローの使い方を紹介する。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/01787/050800220/topm.jpg?20220512",
-    "fetched_at": "2026-05-13 05:57:24",
-    "ja_summary": "・Teamsの「ワークフロー」アプリで定型業務を自動化可能。\n・AIを活用することで、トピック情報の収集や要約作成を効率化できる。\n・テンプレートやAI作成ツールを使い、誰でも簡単に自動化フローを構築可能。"
-  },
-  {
-    "title": "東芝、AIの異常検知の根拠を説明する技術　波形データで分かりやすく",
-    "link": "https://xtech.nikkei.com/atcl/nxt/news/24/03218/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "東芝は2026年5月11日、AI（人工知能）が異常と判断した根拠を説明する「反事実波形生成技術」を開発したと発表した。インフラ設備や製造装置に用いる異常検知AIと組み合わせて活用する。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/news/24/03218/topm.jpg?20220512",
-    "fetched_at": "2026-05-13 05:57:25",
-    "ja_summary": "・東芝がAIによる異常検知の根拠を提示する「反事実波形生成技術」を開発。\n・インフラや製造装置のデータに対し、なぜ異常と判断したかを分かりやすく説明。\n・AIの判断根拠を可視化することで、保守点検の効率化や信頼性向上に貢献する。"
   }
 ]
