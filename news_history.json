@@ -1,5 +1,75 @@
 [
   {
+    "title": "WhatsAppにMeta AIと秘密の会話ができる「Incognito Chat」機能。会話内容はMetaからも閲覧不可",
+    "link": "https://www.techno-edge.net/article/2026/05/14/5062.html",
+    "source": "TechnoEdge",
+    "published": "Thu, 14 May 2026 07:15:02 +0900",
+    "summary": "MetaはWhatsAppおよびMeta AIアプリにMeta自身も会話内容を閲覧できない完全プライベートなAIチャット機能「Incognito Chat」機能を導入します。この機能では、メッセージはデフォルトで保存されず、自動的に消去されます。",
+    "image": "https://www.techno-edge.net/imgs/rss/31402.jpg",
+    "fetched_at": "2026-05-15 04:04:59",
+    "ja_summary": "・WhatsAppとMeta AIに完全非公開の「Incognito Chat」機能が追加。\n・Meta社も会話内容を閲覧できず、プライバシーを厳格に保護。\n・メッセージは自動消去され、履歴が残らない仕様。"
+  },
+  {
+    "title": "Helping ChatGPT better recognize context in sensitive conversations",
+    "link": "https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations",
+    "source": "OpenAI",
+    "published": "Thu, 14 May 2026 00:00:00 GMT",
+    "summary": "Learn how new ChatGPT safety updates improve context awareness in sensitive conversations, helping detect risk over time and respond more safely.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/1dJ8mhpIbtQbsP5wzMfoRe/a1bd2866bd1b5afb6b3e9d4bda5a42c2/SEO_Safety.png?w=1600&amp;h=900&amp;fit=fill",
+    "fetched_at": "2026-05-15 04:05:00",
+    "ja_summary": "・ChatGPTの安全機能がアップデートされ、繊細な会話の文脈理解が向上。\n・リスク検知能力が高まり、長期的なやり取りにおいても安全な対話が可能に。\n・AIの応答品質と安全性強化により、より信頼性の高い利用を実現。"
+  },
+  {
+    "title": "Is Your AI Feature Actually Helping?",
+    "link": "https://speakerdeck.com/topspinj/is-your-ai-feature-actually-helping",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-05-14T14:38:05-04:00",
+    "summary": "",
+    "image": "https://files.speakerdeck.com/presentations/69b9d2cc51f447dda0aeff77a9b24bb5/preview_slide_0.jpg?39404145",
+    "fetched_at": "2026-05-15 04:05:11",
+    "ja_summary": "AI機能の導入が単なる流行の追随になっていないかを見極めるべき。\n顧客が真に抱える課題を解決できているかを再評価することが重要。\n目的が曖昧なAI機能の追加は、コストを増大させ価値を損なう恐れがある。"
+  },
+  {
+    "title": "Vibe teaching — Python training in the age of AI (PyCon US 2026, Education Summit)",
+    "link": "https://speakerdeck.com/reuven/vibe-teaching-python-training-in-the-age-of-ai-pycon-us-2026-education-summit",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-05-14T14:33:04-04:00",
+    "summary": "The future, in which people code by telling an AI agent what to do, rather than write the programs themselves? Actually, that's the present: A huge number of companies are encouraging their people to use Claude Code and similar tools in their day-to-day jobs. This raises a lot of questions for us as educators, including:\n\n- What skills do people really need to succeed as programmers? Or to get a job in software?\n- How important is knowledge of a particular programming language any more?\n- How do our syllabi and lessons need to change in the wake of these shifts?\n\nIn this talk, I described how my work teaching Python has changed over the last year, and how those changes have accelerated since the start of 2026. I'll describe the experiments I've been doing with my teaching, what has worked (and what hasn't), and how AI is playing a growing role — but doesn't change the need for mastering the fundamentals.",
+    "image": "https://files.speakerdeck.com/presentations/90f563efd8474f20876dd7e86ed891ce/preview_slide_0.jpg?39404103",
+    "fetched_at": "2026-05-15 04:05:11",
+    "ja_summary": "・AIエージェントによるコード生成が主流となる中、プログラミング教育のあり方が問われている。\n・Python教育現場での実践を通じ、AI時代に不可欠なスキルの見極めと授業内容の刷新が必要。\n・AIを活用しつつも、エンジニアとして成功するために「基礎知識の習得」は依然として重要である。"
+  },
+  {
+    "title": "Oracle Cloud Infrastructure presents managed, serverless MCP Servers for Oracle AI Database",
+    "link": "https://speakerdeck.com/thatjeffsmith/oracle-cloud-infrastructure-presents-managed-serverless-mcp-servers-for-oracle-ai-database",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-05-14T13:22:09-04:00",
+    "summary": "What is it?\n\nA fully managed, HTTPS-native MCP endpoint built into the OCI Database Tools Service. No servers to provision, no patching, full Oracle Premier Support — business users can query their Oracle AI Database in plain language through any MCP-compatible AI client. Supports both validated named SQL Reports for governed repeatable queries and NL2SQL ad hoc SQL for agent-driven open-ended questions.",
+    "image": "https://files.speakerdeck.com/presentations/bd02587362f8471a88954100b303092d/preview_slide_0.jpg?39403985",
+    "fetched_at": "2026-05-15 04:05:11",
+    "ja_summary": "・Oracle CloudがAI用のサーバーレスMCPサーバーを提供開始。\n・構築や運用が不要なフルマネージド環境で、AIからDBへ安全に接続可能。\n・自然言語によるSQL実行や定型レポート作成をAIエージェント経由で実現。"
+  },
+  {
+    "title": "Building an AI Vision Search Engine with MySQL HeatWave GenAI",
+    "link": "https://speakerdeck.com/freshdaz/building-an-ai-vision-search-engine-with-mysql-heatwave-genai",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-05-14T13:02:08-04:00",
+    "summary": "Modern AI systems increasingly rely on multimodal data: text, images, documents, audio, and video. Among these modalities, image understanding has become one of the most important capabilities for AI-powered applications. Traditionally, implementing these capabilities required specialized computer vision infrastructure, external vector databases, custom ML pipelines, and multiple frameworks.\nWith MySQL HeatWave GenAI, many of these capabilities can now be implemented directly inside SQL workflows using built-in AI routines. In this article, we will build the foundations of a Vision Model Evaluation Assistant using MySQL HeatWave GenAI.",
+    "image": "https://files.speakerdeck.com/presentations/09e7779cc2b74de4b9a26c8be3bcab0d/preview_slide_0.jpg?39403929",
+    "fetched_at": "2026-05-15 04:05:11",
+    "ja_summary": "MySQL HeatWave GenAIを活用することで、複雑な外部インフラを構築せずにSQL環境内で画像検索などのAI機能を実装可能。\n従来必要だった専用の機械学習パイプラインや外部ベクトルデータベースが不要になり、開発工数を大幅に削減できる。\n記事では、この技術を用いて画像モデルの評価アシスタントを構築する実践的な手法を解説。"
+  },
+  {
+    "title": "Copilot StudioをClaude Code化したら、Copilot Studio自身でPower Platformを構築できた話",
+    "link": "https://qiita.com/katohiro_fi/items/9acccd181ca2f1a75f3c",
+    "source": "Qiita (Popular)",
+    "published": "2026-05-07T11:36:12+09:00",
+    "summary": "> Microsoftの中の人が公開した「Copilot Studio Code」を、Power Platform コードファースト構築リポジトリと組み合わせると、**Copilot Studio が、Copilot Studio エージェントを含む Power Platform 環境を構築する側に回る** —— という、ちょっとメタな PoC をやってみた話です。\n\n\n## サマリー\n\n- Mi",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0MTk5OTk0JTJGY2M3NTU5MThkMjc4ZDc4ZjNlOGEzYjI5ZDBhMThmN2Q0ODRmMjI2MSUyRnhfbGFyZ2UucG5nJTNGMTc1ODk1NzEzMT9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9ZDk1YTgyZGI4OGFhMDk0YWE0YjM4OGRiZDQ2Yzk1N2U%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkY2NjEzM2RhN2UyMmY1OGYxNzk1Y2UwMDBmYjE2ZDE5NjZmZTI0Mzc4JTJGb3JpZ2luYWwuanBnJTNGMTY2Njc4NDg4Nz9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz02ZGFhNTViMzM1MGU5YjhkZDM2YjVkY2IxM2UxNmQ5Ng%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3Db60b376cd6c471a3fed0577589e56e66?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9Q29waWxvdCUyMFN0dWRpbyVFMyU4MiU5MkNsYXVkZSUyMENvZGUlRTUlOEMlOTYlRTMlODElOTclRTMlODElOUYlRTMlODIlODklRTMlODAlODFDb3BpbG90JTIwU3R1ZGlvJUU4JTg3JUFBJUU4JUJBJUFCJUUzJTgxJUE3UG93ZXIlMjBQbGF0Zm9ybSVFMyU4MiU5MiVFNiVBNyU4QiVFNyVBRiU4OSVFMyU4MSVBNyVFMyU4MSU4RCVFMyU4MSU5RiVFOCVBOSVCMSZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPWJlOGY1YzgxMmE3MjU2ZGIwMmI1MmE5MDc1M2E5MDA0&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBrYXRvaGlyb19maSZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTE0ZjQxYWU2MTk5NTFjZmEwOTlhZDlmZTE5ZjFlNThj&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=SUJN&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=b87525364e896f49af829f154cc877a8",
+    "fetched_at": "2026-05-15 04:05:13",
+    "ja_summary": "- Microsoftの「Copilot Studio Code」と構築リポジトリを連携させ、Copilot Studio自身がPower Platform環境を自動構築する仕組みを実現。\n- AIエージェントが自らの開発やデプロイを担う、開発プロセスのメタ化（自己構築）を実証した。"
+  },
+  {
     "title": "「ちょっとした数式が競争原理を変える」　フィジカルAI、アルゴリズムの力",
     "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03181/041700030/",
     "source": "日経クロステック 総合",
@@ -928,75 +998,5 @@
     "image": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020800017/050701432/topm.jpg?20220512",
     "fetched_at": "2026-05-14 07:37:13",
     "ja_summary": "・アクセンチュアとSAPが戦略提携を強化し、AI活用を前提としたERP導入を推進する。\n・導入期間を1年に短縮したパッケージを提供し、中堅・中小企業市場へ本格参入する。\n・AI技術を素早く実装できる環境を整え、基幹システムの刷新需要を取り込む。"
-  },
-  {
-    "title": "Google Cloudが新たなAI基盤　エージェント導入から活用まで包括支援",
-    "link": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020800017/050701431/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "米グーグルのクラウドサービス部門であるGoogle Cloudは、AI（人工知能）エージェントの構築や管理などを包括的に支援する「Gemini Enterprise Agent Platform」を発表した。企業がAIエージェントを導入・活用するために必要な機能をまとめた統合基盤サービスと位置付ける。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020800017/050701431/topm.jpg?20220512",
-    "fetched_at": "2026-05-14 07:37:14",
-    "ja_summary": "Google Cloudが、AIエージェントの構築から管理までを包括的に支援する新基盤「Gemini Enterprise Agent Platform」を発表しました。\n企業が自社専用のAIエージェントを効率的に導入・活用するための機能を一元化した統合サービスです。"
-  },
-  {
-    "title": "国内金融業界、Mythosに危機感　「攻撃激化へ」「対策にAIフル活用」",
-    "link": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020800017/050701434/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "米アンソロピックが発表した大規模言語モデル「Claude Mythos」を巡り、日本国内の金融業界で波紋が広がっている。Mythosはゼロデイ脆弱性の発見やエクスプロイト（攻撃コード）生成の能力が高まっており、AIによるサイバー攻撃の急増を懸念する声が上がっているためだ。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020800017/050701434/topm.jpg?20220512",
-    "fetched_at": "2026-05-14 07:37:15",
-    "ja_summary": "・新型AI「Claude Mythos」の登場で、金融業界でサイバー攻撃激化の懸念が拡大。\n・脆弱性発見や攻撃コード生成能力の高さが、新たな脅威として警戒されている。\n・業界内では、対抗策としてAIをフル活用した防御体制の強化が急務となっている。"
-  },
-  {
-    "title": "アンソロピックが「Claudeエバンジェリスト」を募集しており、年収は最大31万5,000ドル",
-    "link": "https://www.businessinsider.jp/article/anthropic-hiring-claude-evangelist-salary-2026-5/",
-    "source": "Business Insider Japan",
-    "published": "Wed, 13 May 2026 22:30:00 GMT",
-    "summary": "アンソロピックが「アプライドAI Claude エバンジェリスト）」の求人を掲載した。 この職種の年収は最大31万5,000ドルで、スタートアップ経験が求められる。 「Claudeエバンジェリスト」は、AI業界で次々と登場している新しい肩書きの一つだ。ほかにも「現場配備型AIアクセラレーター」のような職種が現れている。",
-    "image": "https://media.loom-app.com/loom/2026/05/13/ca5a965a-cd46-4f73-ab89-3b310a493b5b/original.jpg?w=1200&amp;h=630",
-    "fetched_at": "2026-05-14 07:37:23",
-    "ja_summary": "・アンソロピックが「Claudeエバンジェリスト」を募集、年収は最大31万5,000ドル。\n・応募にはスタートアップでの実務経験が必須条件。\n・AIの普及に伴い、専門的な役割を担う新しい肩書きの求人が増加している。"
-  },
-  {
-    "title": "「一人一職種」の時代は終わる…入山章栄「今企業が採用したいのは、暴走族のリーダー」",
-    "link": "https://www.businessinsider.jp/article/2605-multi-role-era-with-ai/",
-    "source": "Business Insider Japan",
-    "published": "Wed, 13 May 2026 21:30:00 GMT",
-    "summary": "エンジニアにAIを使い倒させる「トークンマキシング」により、組織のあり方が根本から変わると入山先生は解説します。いま、コーディングなどの中流工程がAIに代替される「スマイルカーブ現象」が進むなかで、人間には上流と下流の工程を幅広く担う能力が必要になっています。",
-    "image": "https://media.loom-app.com/loom/2026/05/11/1e434ae9-6b7b-413d-bb29-1b3e39305fe0/original.jpg?w=1200&amp;h=630",
-    "fetched_at": "2026-05-14 07:37:23",
-    "ja_summary": "・AIが中流工程を担う「スマイルカーブ」化で、従来の専門職偏重の時代は終焉を迎える。\n・今後は上流から下流まで幅広くカバーする、多能な人材への需要が急増。\n・既成概念にとらわれず、組織を束ねて変革を起こせる「リーダーシップ」を持つ人材が重宝される。"
-  },
-  {
-    "title": "3メガ銀 AIミュトス利用の見通し",
-    "link": "https://news.yahoo.co.jp/pickup/6580033?source=rss",
-    "source": "Yahoo!ニュース IT・科学",
-    "published": "Wed, 13 May 2026 22:14:43 GMT",
-    "summary": "",
-    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/5/14/bbaa05fe95e99036ebea99e05fd8571f05170989f4870aa91ff9fd7d0d3c5f42.jpg",
-    "fetched_at": "2026-05-14 07:37:29",
-    "ja_summary": "・3メガバンクが生成AI「ミストラル（Mistral）」の導入に向け検討を開始。\n・高度な日本語処理能力を生かし、行内業務の効率化やサービス向上を図る。\n・機密情報保護のため、安全性を確保した環境での活用を目指す。"
-  },
-  {
-    "title": "AIによるサイバー攻撃 Google警鐘",
-    "link": "https://news.yahoo.co.jp/pickup/6579717?source=rss",
-    "source": "Yahoo!ニュース IT・科学",
-    "published": "Mon, 11 May 2026 13:42:59 GMT",
-    "summary": "",
-    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/5/11/ba1610ec0ef4421f8b47cb5a1d2b5a054c480f2843934c24c5a927d1300f2df5.jpg",
-    "fetched_at": "2026-05-14 07:37:31",
-    "ja_summary": "・GoogleがAIを悪用した高度なサイバー攻撃の急増に警鐘を鳴らした。\n・AIにより攻撃の自動化や巧妙化が進み、防御側の対応が追いつかないリスクがある。\n・企業は従来の対策に加え、AI技術を駆使した先制的なセキュリティ強化が不可欠となっている。"
-  },
-  {
-    "title": "企業のAI変革を進めるビジネスアーキテクトの役割",
-    "link": "https://japan.zdnet.com/article/35247416/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "ビジネスアーキテクトや同様の役割を担う人材は、深い専門知識を培うことで、人間のスキルを向上させてくれる。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35247416/\"><img src=\"https://japan.zdnet.com/storage/2026/05/13/6bf06948e344269591768127d2c5b092/t/184/138/d/gettyimages-2170764925_l.jpg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2026/05/13/6bf06948e344269591768127d2c5b092/t/184/138/d/gettyimages-2170764925_l.jpg",
-    "fetched_at": "2026-05-14 07:37:33",
-    "ja_summary": "AI変革を推進するビジネスアーキテクトには、深い専門性が求められる。\n専門知識を磨くことで、AIを使いこなし人間のスキルを最大化できる。\n企業のAI活用を成功させる鍵は、こうした人材の育成にある。"
   }
 ]
