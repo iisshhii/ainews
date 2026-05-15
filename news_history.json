@@ -1,5 +1,75 @@
 [
   {
+    "title": "「AI導入による人員削減」はむしろ業績を悪化させる？　4月のAI注目論文",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/02801/051300035/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "AI導入に伴う人員削減は、企業にとってはコスト削減の合理的な選択肢になり得るが、社会全体にとって本当に最良の選択肢といえるのかーー。この疑問に1つの答えを示した2026年3月投稿の論文「The AI Layoff Trap（AI解雇の罠）」が、2026年4月のSNS言及数2位に入った。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/02801/051300035/topm.jpg?20220512",
+    "fetched_at": "2026-05-15 22:17:15",
+    "ja_summary": "・AI導入を理由とした人員削減は、短期的には合理的でも長期的には業績を悪化させるリスクがある。\n・「AI解雇の罠」と題された論文が、AI活用と雇用維持の重要性を指摘し注目を集めている。\n・企業は単なるコスト削減ではなく、AIを組織成長へ活かす戦略的な判断が求められている。"
+  },
+  {
+    "title": "3メガ銀 AIミュトス利用の見通し",
+    "link": "https://news.yahoo.co.jp/pickup/6580033?source=rss",
+    "source": "Yahoo!ニュース IT・科学",
+    "published": "Wed, 13 May 2026 22:14:43 GMT",
+    "summary": "",
+    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/5/14/bbaa05fe95e99036ebea99e05fd8571f05170989f4870aa91ff9fd7d0d3c5f42.jpg",
+    "fetched_at": "2026-05-15 22:17:31",
+    "ja_summary": "・3メガバンクがAI「ミュトス」の導入に向けた検討を開始\n・高度なデータ分析を活用し、業務効率化やサービスの高度化を図る\n・金融DXの推進による競争力強化とコスト削減が狙い"
+  },
+  {
+    "title": "WhatsAppにMeta AIと秘密の会話ができる「Incognito Chat」機能。会話内容はMetaからも閲覧不可",
+    "link": "https://www.techno-edge.net/article/2026/05/14/5062.html",
+    "source": "TechnoEdge",
+    "published": "Thu, 14 May 2026 07:15:02 +0900",
+    "summary": "MetaはWhatsAppおよびMeta AIアプリにMeta自身も会話内容を閲覧できない完全プライベートなAIチャット機能「Incognito Chat」機能を導入します。この機能では、メッセージはデフォルトで保存されず、自動的に消去されます。",
+    "image": "https://www.techno-edge.net/imgs/rss/31402.jpg",
+    "fetched_at": "2026-05-15 22:17:34",
+    "ja_summary": "・WhatsAppにMeta AIとの「Incognito Chat」機能が追加\n・会話内容は暗号化され、Meta社側も閲覧不可\n・メッセージは自動消去されるため、プライバシーが完全に保護される"
+  },
+  {
+    "title": "Work with Codex from anywhere",
+    "link": "https://openai.com/index/work-with-codex-from-anywhere",
+    "source": "OpenAI",
+    "published": "Thu, 14 May 2026 13:00:00 GMT",
+    "summary": "Use Codex anywhere with the ChatGPT mobile app. Monitor, steer, and approve coding tasks in real time across devices and remote environments.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/4i08f39LTE7HOZ0R3EKaKA/74f6008bbde015cfef96a14209f7673b/16_9.png?w=1600&amp;h=900&amp;fit=fill",
+    "fetched_at": "2026-05-15 22:17:36",
+    "ja_summary": "・ChatGPTのモバイルアプリで「Codex」がどこでも利用可能に\n・スマホからリアルタイムでコーディング作業の監視・指示・承認が可能\n・外出先やリモート環境での開発業務がより効率化へ"
+  },
+  {
+    "title": "Helping ChatGPT better recognize context in sensitive conversations",
+    "link": "https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations",
+    "source": "OpenAI",
+    "published": "Thu, 14 May 2026 00:00:00 GMT",
+    "summary": "Learn how new ChatGPT safety updates improve context awareness in sensitive conversations, helping detect risk over time and respond more safely.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/1dJ8mhpIbtQbsP5wzMfoRe/a1bd2866bd1b5afb6b3e9d4bda5a42c2/SEO_Safety.png?w=1600&amp;h=900&amp;fit=fill",
+    "fetched_at": "2026-05-15 22:17:37",
+    "ja_summary": "・ChatGPTが機密性の高い対話の文脈をより正確に理解できるようアップデートを実施。\n・継続的なリスク検知能力を向上させ、不適切な回答を抑止。\n・安全性と信頼性を高め、ビジネス等の繊細なやり取りにも対応。"
+  },
+  {
+    "title": "Claude Codeが高いのでOSSでローカル環境を作ってみた（Ollama × Continue）",
+    "link": "https://qiita.com/nishifeoda/items/58a38dbfdfc038ccb79a",
+    "source": "Qiita (Popular)",
+    "published": "2026-05-12T23:07:54+09:00",
+    "summary": "## 1. はじめに\n\n私は普段、Anthropicの提供する **Claude Code** を開発に活用しています。コード生成から実行、リファクタリングまで一貫して支援してくれるため、生産性の向上という点では非常に優秀なツールだと感じています。\n\nしかし一つだけ懸念点があります。継続的に使っていく中で気になっているのが「課金モデル」です。現在、Claudeには無料プランも用意されていますが、実",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnBicy50d2ltZy5jb20lMkZwcm9maWxlX2ltYWdlcyUyRjEzMjM1NTg3NzMlMkYyMDExMDQyNDIzMDAwMDAwX2JpZ2dlci5qcGc_aXhsaWI9cmItNC4xLjEmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPTNhOWU5MGQyM2JmZmE5OWNjYTEzNWI1OGI5NGUzZTA3%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D579f79dc746456d02c324682b10bfefc?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9Q2xhdWRlJTIwQ29kZSVFMyU4MSU4QyVFOSVBQiU5OCVFMyU4MSU4NCVFMyU4MSVBRSVFMyU4MSVBN09TUyVFMyU4MSVBNyVFMyU4MyVBRCVFMyU4MyVCQyVFMyU4MiVBQiVFMyU4MyVBQiVFNyU5MiVCMCVFNSVBMiU4MyVFMyU4MiU5MiVFNCVCRCU5QyVFMyU4MSVBMyVFMyU4MSVBNiVFMyU4MSVCRiVFMyU4MSU5RiVFRiVCQyU4OE9sbGFtYSUyMCVDMyU5NyUyMENvbnRpbnVlJUVGJUJDJTg5JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9MGRjNjQxOTJjNTVhNjI3YjdhOGNlZDk4MmYwMmE1ODk&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBuaXNoaWZlb2RhJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9ZDY5OWVlOTcyM2UwMGRhZTdjNTY4NGUzNTk1YWVmZjM&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=e99a4141418e7fe3a094ae3c96f10557",
+    "fetched_at": "2026-05-15 22:17:57",
+    "ja_summary": "Claude Codeの利用コストを抑えるため、OllamaとContinueを組み合わせたローカル開発環境を構築した。\n外部APIへの課金を気にせず、同等の開発支援機能を安価に利用することが可能。\nコストパフォーマンスを重視する開発者にとって、代替となる有力な選択肢となる。"
+  },
+  {
+    "title": "Copilot StudioをClaude Code化したら、Copilot Studio自身でPower Platformを構築できた話",
+    "link": "https://qiita.com/katohiro_fi/items/9acccd181ca2f1a75f3c",
+    "source": "Qiita (Popular)",
+    "published": "2026-05-07T11:36:12+09:00",
+    "summary": "> Microsoftの中の人が公開した「Copilot Studio Code」を、Power Platform コードファースト構築リポジトリと組み合わせると、**Copilot Studio が、Copilot Studio エージェントを含む Power Platform 環境を構築する側に回る** —— という、ちょっとメタな PoC をやってみた話です。\n\n\n## サマリー\n\n- Mi",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0MTk5OTk0JTJGY2M3NTU5MThkMjc4ZDc4ZjNlOGEzYjI5ZDBhMThmN2Q0ODRmMjI2MSUyRnhfbGFyZ2UucG5nJTNGMTc1ODk1NzEzMT9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9ZDk1YTgyZGI4OGFhMDk0YWE0YjM4OGRiZDQ2Yzk1N2U%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkY2NjEzM2RhN2UyMmY1OGYxNzk1Y2UwMDBmYjE2ZDE5NjZmZTI0Mzc4JTJGb3JpZ2luYWwuanBnJTNGMTY2Njc4NDg4Nz9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz02ZGFhNTViMzM1MGU5YjhkZDM2YjVkY2IxM2UxNmQ5Ng%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3Db60b376cd6c471a3fed0577589e56e66?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9Q29waWxvdCUyMFN0dWRpbyVFMyU4MiU5MkNsYXVkZSUyMENvZGUlRTUlOEMlOTYlRTMlODElOTclRTMlODElOUYlRTMlODIlODklRTMlODAlODFDb3BpbG90JTIwU3R1ZGlvJUU4JTg3JUFBJUU4JUJBJUFCJUUzJTgxJUE3UG93ZXIlMjBQbGF0Zm9ybSVFMyU4MiU5MiVFNiVBNyU4QiVFNyVBRiU4OSVFMyU4MSVBNyVFMyU4MSU4RCVFMyU4MSU5RiVFOCVBOSVCMSZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPWJlOGY1YzgxMmE3MjU2ZGIwMmI1MmE5MDc1M2E5MDA0&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBrYXRvaGlyb19maSZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTE0ZjQxYWU2MTk5NTFjZmEwOTlhZDlmZTE5ZjFlNThj&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=SUJN&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=b87525364e896f49af829f154cc877a8",
+    "fetched_at": "2026-05-15 22:17:58",
+    "ja_summary": "・「Copilot Studio Code」を活用し、Copilot Studio自身にPower Platform環境を構築させる技術検証を実施。\n・AIエージェントが自らエージェントを構築する、再帰的な開発プロセスの可能性を実証。\n・コードファーストのアプローチにより、Power Platform開発の自動化・効率化を大幅に引き上げる事例。"
+  },
+  {
     "title": "シャープ、テレビにAIキャラ搭載　会話やおすすめ番組の相談",
     "link": "https://www.watch.impress.co.jp/docs/news/2109168.html",
     "source": "Impress Watch",
@@ -928,75 +998,5 @@
     "image": "https://business.nikkei.com/atcl/gen/19/00109/051400376/fb.jpg",
     "fetched_at": "2026-05-15 05:43:25",
     "ja_summary": "・トヨタの2027年3月期営業利益は、米関税や地政学リスクにより前期比2割減の予想。\n・従来の「世界で製造・販売する」王道モデルが限界を迎え、業績と株価が低迷。\n・次なる成長に向け、ロボットやAI分野への事業転換を成功させられるかが焦点。"
-  },
-  {
-    "title": "ユニ・チャーム、生理管理アプリで悩み見える化　165万の「声」商品開発に (AIが起こすESG革命)",
-    "link": "https://business.nikkei.com/atcl/gen/19/00879/042700006/",
-    "source": "日経ビジネス 最新",
-    "published": "",
-    "summary": "生理前の心理的なストレスなど、不調や違和感は日常の中に埋もれてしまいがち。ユニ・チャームはAIを活用して顧客の本音をすくい上げ、商品やサービスの開発につなげています。",
-    "image": "https://business.nikkei.com/atcl/gen/19/00879/042700006/fb.jpg",
-    "fetched_at": "2026-05-15 05:43:25",
-    "ja_summary": "ユニ・チャームは生理管理アプリに蓄積された165万件のユーザーの声をAIで分析。\n潜在的な悩みや不調を可視化し、商品・サービス開発に活かす取り組みを推進している。\n顧客の本音をデータ駆動で吸い上げることで、新たな価値創造とESG経営の両立を目指す。"
-  },
-  {
-    "title": "AI活用で営業・業務改革　キーエンス、メルカリ、SHIFTら先進8社の実践事例 (テーマ別まとめ記事)",
-    "link": "https://business.nikkei.com/atcl/gen/19/00081/041700934/",
-    "source": "日経ビジネス 最新",
-    "published": "",
-    "summary": "営業の平準化、業務の棚卸し、さらには障害者雇用のスキル向上まで。生成AIはもはや効率化の枠を超え、組織の根幹を変えるフェーズに入った。メルカリやクレディセゾンなど、先行企業の成功事例と試行錯誤から、AIとヒトが共創する「次世代の働き方」の最適解を読み解いていく。",
-    "image": "https://business.nikkei.com/atcl/gen/19/00081/041700934/fb.jpg",
-    "fetched_at": "2026-05-15 05:43:26",
-    "ja_summary": "・キーエンス、メルカリ等先進8社の生成AI活用事例を網羅。\n・業務効率化を超え、営業改革や組織運営の根幹を変えるフェーズへ。\n・AIとヒトが共創する「次世代の働き方」の成功・失敗事例から最適解を学ぶ。"
-  },
-  {
-    "title": "KDDI、強化学習で通信基地局の稼働最適化　26年度全国展開",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03505/030500009/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "KDDIとKDDI総合研究所は通信基地局の稼働条件を効率よく最適化するAI（人工知能）技術を開発した。2026年度（2027年3月期）をめどに全国の基地局への導入を始める。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03505/030500009/SNS.jpg?20220512",
-    "fetched_at": "2026-05-15 05:43:28",
-    "ja_summary": "・KDDIがAIを用いた基地局の稼働最適化技術を開発\n・電力効率や通信品質の向上を図る\n・2026年度から全国の基地局へ順次導入予定"
-  },
-  {
-    "title": "アナログ・デバイセズ日本法人新代表「フィジカルAIに大きな商機」",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11711/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "米Analog Devices（ADI）日本法人のアナログ・デバイセズの新たな代表取締役に就いた齊藤秀明氏に話を聞いた。同氏はエンジニアではないが、25年以上にわたって半導体業界でセールスやマネジメントの職を担ってきた。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11711/m.jpg?20220512",
-    "fetched_at": "2026-05-15 05:43:29",
-    "ja_summary": "・アナログ・デバイセズ日本法人の新代表に齊藤秀明氏が就任。\n・半導体業界で25年以上の経験を持つ営業・マネジメントのプロ。\n・同社は今後「フィジカルAI」の領域に大きな商機を見出す。"
-  },
-  {
-    "title": "「AirTag」代わりに使えるダイソーの紛失防止タグ、検出精度はほぼ同じ",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03582/040800005/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "全世界の「iPhone」を利用しておおよその位置を特定できる「AirTag」は便利だが、価格が4980円と高い。そこで、ダイソーの「紛失防止タグ」試してみた。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03582/040800005/topm.jpg?20220512",
-    "fetched_at": "2026-05-15 05:43:29",
-    "ja_summary": "・ダイソーの「紛失防止タグ」は、4980円の「AirTag」とほぼ同等の検出精度を実現。\n・iPhoneのネットワークを活用し、安価に持ち物の位置特定が可能。\n・コストを抑えて紛失対策をしたいユーザーにとって有力な代替品となる。"
-  },
-  {
-    "title": "「Googleレンズ」に似たiOSのカメラ検索、画像生成もAI連携で進化",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03514/040800010/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "ビジュアルインテリジェンスは、調べたいものがあるときの最初の手段として試したい機能だ。「カメラ」アプリにも文章の翻訳や要約機能は用意されているが、ビジュアルインテリジェンスでは被写体を認識した上で、翻訳や要約、検索といった次の操作が自動的に提示され、少ない手順で結果にたどり着ける。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03514/040800010/topm.jpg?20220512",
-    "fetched_at": "2026-05-15 05:43:30",
-    "ja_summary": "iOSの新機能「ビジュアルインテリジェンス」は、カメラで写した対象をAIが即座に認識・検索・翻訳する。\n「Googleレンズ」同様に、被写体から直接、要約や検索などの操作へスムーズに移行できる。\n操作手順が最小化され、調べたい情報に素早くアクセス可能となる。"
-  },
-  {
-    "title": "謝罪文やお礼文に悩んだらGemini、敬語チェックまでこなす",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03588/041400007/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "お礼文や謝罪文などプレッシャーのかかるメールは、最初の書き出しから悩んでしまう。目上の人に送る際は、敬語の使い方にも気を配らなくてはならない。こうしたメールの悩みはAIに頼るのが解決の近道だ。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03588/041400007/topm.jpg?20220512",
-    "fetched_at": "2026-05-15 05:43:30",
-    "ja_summary": "・お礼や謝罪など作成に悩むメールは、AI（Gemini）に任せるのが効率的。\n・文面の作成から、ミスが許されない敬語のチェックまでAIがサポート。\n・ビジネス特有の心理的負担を減らし、メール作成時間を大幅に短縮できる。"
   }
 ]
