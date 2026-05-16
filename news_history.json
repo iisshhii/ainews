@@ -1,5 +1,45 @@
 [
   {
+    "title": "アンソロピックのAIは「夢を見る」…自己改善型エージェントの構築へ",
+    "link": "https://www.businessinsider.jp/article/2605-anthropic-dreaming-ai-agents/",
+    "source": "Business Insider Japan",
+    "published": "Sat, 16 May 2026 23:00:00 GMT",
+    "summary": "アンソロピックは、Claude Managed Agentsツール内でAIエージェントが自己改善するために「夢を見る」ことを導入しました。",
+    "image": "https://media.loom-app.com/loom/2026/05/06/284e38cf-8af6-47ac-a151-b7334f0aec67/original.jpg?w=1200&amp;h=630",
+    "fetched_at": "2026-05-17 08:06:59",
+    "ja_summary": "・アンソロピックがAIエージェントの自己改善手法として「夢を見る（Dreaming）」機能を導入。\n・AIが作業プロセスを反復学習し、自律的にパフォーマンスを最適化する仕組みを実現。\n・AIの判断力や効率性を向上させ、より高度な自動化エージェントの構築を目指す。"
+  },
+  {
+    "title": "CodexモバイルからUbuntuのCodex Appを操作する",
+    "link": "https://zenn.dev/robustonian/articles/codex_mobile_connect_to_ubuntu",
+    "source": "Zenn Trends",
+    "published": "Sat, 16 May 2026 07:35:06 GMT",
+    "summary": "はじめに\n本記事では、CodexモバイルからUbuntuのCodex Appを操作する方法を、できるだけ再現性を意識して備忘録的にまとめる。本記事の対象者は以下の通り。\n対象者\n\nUbuntuで開発している方\nVM上のCodex Appをスマホから操作したい方\n\n検証環境\n\nUbuntu 24.04.4 LTS（EVO-X2）\nUbuntu 26.04 LTS（VM）\n\n\n 具体的な手順\n\n ChatGPTのMFA設定（初回のみ）\nCodexのモバイル機能を使うためにはChatGPTアカウントの多要素認証が必要となる。\n途中で連携することもできるが、ややこしいので最初にやっておく。\n...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--F2GeuHx2--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Codex%25E3%2583%25A2%25E3%2583%2590%25E3%2582%25A4%25E3%2583%25AB%25E3%2581%258B%25E3%2582%2589Ubuntu%25E3%2581%25AECodex%2520App%25E3%2582%2592%25E6%2593%258D%25E4%25BD%259C%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E9%2587%2591%25E3%2581%25AE%25E3%2583%258B%25E3%2583%25AF%25E3%2583%2588%25E3%2583%25AA%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzQ1NmVjZjczNWIuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-05-17 08:07:28",
+    "ja_summary": "Ubuntu上のCodex Appをスマートフォンから操作するための設定手順を解説。\n初回にChatGPTの多要素認証（MFA）を済ませることで、円滑な連携が可能になる。\n開発環境（Ubuntu）とモバイル間を接続し、リモート操作を実現する備忘録。"
+  },
+  {
+    "title": "クラウドネイティブ会議にブース出展しました【Raycast Community Japan】",
+    "link": "https://zenn.dev/raycast_jp/articles/8825a543929300",
+    "source": "Zenn Trends",
+    "published": "Sat, 16 May 2026 02:05:09 GMT",
+    "summary": "Raycast Community Japan の kaita (@z63d_) です。\n名古屋で開催された クラウドネイティブ会議 でコミュニティブースを出展してきました。\n普段は Raycast Community Japan のメンバーとしてのコミュニティ運営、Raycast Ambassador としての活動を行っています。\nまた、本業は primeNumber という会社で SRE をやっています。\nこの記事ではカンファレンスにコミュニティとして初めてブース出展してみて感じたことなどを共有します。コミュニティ活動をされている方の参考になったり、Raycast に興味を持つきっか...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--tWNMJN6Z--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25AF%25E3%2583%25A9%25E3%2582%25A6%25E3%2583%2589%25E3%2583%258D%25E3%2582%25A4%25E3%2583%2586%25E3%2582%25A3%25E3%2583%2596%25E4%25BC%259A%25E8%25AD%25B0%25E3%2581%25AB%25E3%2583%2596%25E3%2583%25BC%25E3%2582%25B9%25E5%2587%25BA%25E5%25B1%2595%25E3%2581%2597%25E3%2581%25BE%25E3%2581%2597%25E3%2581%259F%25E3%2580%2590Raycast%2520Community%2520Japan%25E3%2580%2591%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:kaita%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzNiMDNhYzg3NmYuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Raycast%2520Community%2520Japan%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2ExMTEyYTA4OGIuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-05-17 08:07:28",
+    "ja_summary": "・Raycast Community Japanが名古屋の「クラウドネイティブ会議」で初のブース出展を実施。\n・コミュニティ運営者として、イベント出展を通じた体験談や気付きを共有。\n・Raycastの認知拡大やコミュニティ活動に関心がある人へ向けた活動報告。"
+  },
+  {
+    "title": "GitHub Copilot appで変わる GitHub Copilot CLI開発体験",
+    "link": "https://speakerdeck.com/tomokusaba/github-copilot-appdebian-waru-github-copilot-clikai-fa-ti-yan",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-05-16T18:31:10-04:00",
+    "summary": "GitHub Copilot appで変わる GitHub Copilot CLI開発体験\nGitHub Copilot CLI を装備せよ 〜実践テクニック共有会 LT Night〜\nhttps://findy.connpass.com/event/391200/",
+    "image": "https://files.speakerdeck.com/presentations/71fb5ae9f17247f0842f9aa80632d8d6/preview_slide_0.jpg?39424942",
+    "fetched_at": "2026-05-17 08:07:30",
+    "ja_summary": "・GitHub Copilot CLIの活用術を学ぶ勉強会が開催される。\n・コマンド操作や開発体験を向上させる実践テクニックを共有。\n・効率的な開発手法に関心があるエンジニア向けのオンラインイベント。"
+  },
+  {
     "title": "半導体大手エヌビディアのライバルAMD､最新決算が示した需要構造／メタ･オープンAIとの戦略提携も | 政治・経済・投資 | 東洋経済オンライン",
     "link": "https://toyokeizai.net/articles/-/943885?utm_source=rss&utm_medium=http&utm_campaign=link_back",
     "source": "東洋経済オンライン",
@@ -958,45 +998,5 @@
     "image": "https://media.loom-app.com/loom/2026/05/11/38c1c08d-c3c2-4347-a6e4-ca494b496f35/original.jpg?w=1200&amp;h=630",
     "fetched_at": "2026-05-15 18:23:44",
     "ja_summary": "・iPhone 17eとNothing Phone (4a)の性能差を実機で徹底比較。\n・操作性やAI、充電機能など、価格差を超えた使い勝手を検証。\n・スペックだけでなく、用途や好みに合わせた賢いスマホ選びを提案。"
-  },
-  {
-    "title": "企業のAnthropic採用率がついにOpenAIを上回った",
-    "link": "https://www.businessinsider.jp/article/cutting-edge-20260515-anthropic-openai-business-adoption-nvidia-stock/",
-    "source": "Business Insider Japan",
-    "published": "Fri, 15 May 2026 07:15:05 GMT",
-    "summary": "評価額9000億ドル超を前提に300億ドルの資金調達に向けて投資家と協議中と報じられたばかりのアンスロピック（Anthropic）が、ある重要な指標に関してついにライバルのオープン（Open）AIを追い抜いたとの話が聞こえてきました。",
-    "image": "https://media.loom-app.com/loom/2026/05/15/5e649fa2-4a21-4ea8-ba7d-5eee7fd61257/original.jpg?w=1200&amp;h=630",
-    "fetched_at": "2026-05-15 18:23:45",
-    "ja_summary": "・AI開発のアンスロピック社が、企業導入率でオープンAIを追い抜き首位に立った。\n・同社は現在、時価総額9000億ドル規模を見据えた大型の資金調達を協議中。\n・AI業界における両社のシェア争いが、導入現場レベルで激化している。"
-  },
-  {
-    "title": "パナソニックHD、2032年への成長戦略--AIインフラに5000億円投資へ",
-    "link": "https://japan.zdnet.com/article/35247569/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "パナソニック ホールディングスは、2032年に向けた「グループ成長戦略」を発表した。従来の中期経営計画から脱却し、長期視点での成長を描く。生成AI普及を追い風にAIインフラ領域へ5000億円を集中投資するほか、現場で稼働する自社製品（MIF）を起点としたサービス事業への転換で、持続的な高収益モデルの確立を目指す。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35247569/\"><img src=\"https://japan.zdnet.com/storage/2026/05/15/3f156bd16234a892cdf091a90ad4916f/t/184/138/d/260512_panasonic_l.jpg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2026/05/15/3f156bd16234a892cdf091a90ad4916f/t/184/138/d/260512_panasonic_l.jpg",
-    "fetched_at": "2026-05-15 18:23:51",
-    "ja_summary": "・パナソニックHDが2032年に向けた長期成長戦略を発表。\n・AIインフラへ5000億円を集中投資し、生成AIの波を成長へ繋げる。\n・既存製品の稼働データを活用したサービス事業へ転換し、高収益モデルを確立する。"
-  },
-  {
-    "title": "Agent Registry で動的に Harness (MCP/Skill) や A2A Agent を検索・実行する Agent の実装",
-    "link": "https://zenn.dev/aws_japan/articles/005-bedrock-agent-registry-dynamic-loading",
-    "source": "Zenn Trends",
-    "published": "Thu, 14 May 2026 22:04:24 GMT",
-    "summary": "はじめに\nAWS Japan AI/ML Specialist Solutions Architect の Kujirada です。\nPJ 内で開発した Agent (sub agent), MCP Server, Skills などの Harness をどのように組織の資産として横断利用するかは、Agent の開発・運用における重要な課題です。開発した Harness などのリソースを一元的に管理・検索する仕組みが無ければ、リソースを再利用できず、類似する機能を重複開発してしまう状況になります。特に、Skills は、その性質上個人の資産になる傾向が高く、組織全体での再利用は困難で...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--KHBT-qC0--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Agent%2520Registry%2520%25E3%2581%25A7%25E5%258B%2595%25E7%259A%2584%25E3%2581%25AB%2520Harness%2520%2528MCP%252FSkill%2529%2520%25E3%2582%2584%2520A2A%2520Agent%2520%25E3%2582%2592%25E6%25A4%259C%25E7%25B4%25A2%25E3%2583%25BB%25E5%25AE%259F...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Renya%2520Kujirada%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzZmZTY2NGI3N2IuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2582%25A2%25E3%2583%259E%25E3%2582%25BE%25E3%2583%25B3%2520%25E3%2582%25A6%25E3%2582%25A7%25E3%2583%2596%2520%25E3%2582%25B5%25E3%2583%25BC%25E3%2583%2593%25E3%2582%25B9%2520%25E3%2582%25B8%25E3%2583%25A3%25E3%2583%2591%25E3%2583%25B3%2520%2528%25E6%259C%2589%25E5%25BF%2597%2529%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzBiMTA3YWQ1YTEuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-    "fetched_at": "2026-05-15 18:24:12",
-    "ja_summary": "・組織内で開発されたAgentやMCPなどのツール（Harness）を中央管理する「Agent Registry」の導入を提唱。\n・リソースを可視化・検索可能にすることで、類似機能の重複開発を防ぎ、組織的な再利用を促進する。\n・開発資産を一元管理し、Agent間での横断的な連携や運用の効率化を実現する仕組み。"
-  },
-  {
-    "title": "ログラスにおけるAI時代の新卒エンジニアの研修設計",
-    "link": "https://zenn.dev/ohnoeight/articles/737f3226df1fb8",
-    "source": "Zenn Trends",
-    "published": "Thu, 14 May 2026 10:17:57 GMT",
-    "summary": "!\nこの記事は毎週必ず記事がでるテックブログ Loglass Tech Blog Sprint の143週目の記事です！\n3年間連続達成まで残り16週となりました！\n\nこんにちは、株式会社ログラス（以下、ログラス）技術基盤本部の大野です。\n現在、私は26卒のエンジニア研修の設計・運営担当を担っています。数ヶ月前から準備を始め、今まさに研修の真っ最中です。研修設計を担う中で私が考えてきたことを整理します。\n本記事では、具体的な研修については言及せず、研修設計の思想についてお話します。\n\n 対象読者\n\n社員の育成・若手エンジニア育成を担うマネージャー・メンター\nエンジニアに限らず、新卒や若手...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--7I7gdToQ--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%25AD%25E3%2582%25B0%25E3%2583%25A9%25E3%2582%25B9%25E3%2581%25AB%25E3%2581%258A%25E3%2581%2591%25E3%2582%258BAI%25E6%2599%2582%25E4%25BB%25A3%25E3%2581%25AE%25E6%2596%25B0%25E5%258D%2592%25E3%2582%25A8%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%258B%25E3%2582%25A2%25E3%2581%25AE%25E7%25A0%2594%25E4%25BF%25AE%25E8%25A8%25AD%25E8%25A8%2588%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%258A%25E3%2583%25BC%25E3%2581%25AEA%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSmJOLVRvSUpqbWpoWUtqcng4S3dwUnhWZ3hUakdyTklNZEJkZ212VlUtYWpxbTZtZz1zOTYtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-    "fetched_at": "2026-05-15 18:24:13",
-    "ja_summary": "ログラス社における「AI時代に対応した新卒エンジニア研修」の設計思想を解説。\n技術変化が速い中で、単なるスキル習得にとどまらない育成の考え方を共有。\n若手育成を担うマネージャーやメンターに向け、研修設計の本質的なポイントを提示。"
   }
 ]
