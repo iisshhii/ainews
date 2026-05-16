@@ -25,7 +25,7 @@ if GEMINI_API_KEY:
     print(f"Gemini API Key found (Prefix: {GEMINI_API_KEY[:5]}...)", flush=True)
     client = genai.Client(api_key=GEMINI_API_KEY)
     # モデルIDを指定
-    MODEL_ID = 'gemini-3.1-flash-lite-preview'
+    MODEL_ID = 'gemini-3.1-flash-lite'
 else:
     print("Warning: GEMINI_API_KEY not found in environment variables.", flush=True)
     client = None
@@ -212,7 +212,7 @@ def summarize_news(news_items):
 
     # 試行するモデルの優先順位リスト
     FALLBACK_MODELS = [
-        'gemini-3.1-flash-lite-preview',  # 本命
+        'gemini-3.1-flash-lite',          # 本命
         'gemini-2.5-flash-lite',          # 予備（ユーザー指定）
     ]
 
