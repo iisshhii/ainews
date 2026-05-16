@@ -1,5 +1,25 @@
 [
   {
+    "title": "レゾナック、中東リスク「全て価格に転嫁したい」　AI特需で「利益2.3倍」でも通期据え置き",
+    "link": "https://www.itmedia.co.jp/business/articles/2605/15/news062.html",
+    "source": "ITmedia ビジネス",
+    "published": "Fri, 15 May 2026 12:00:00 +0900",
+    "summary": "生成AI向け半導体材料の需要拡大を追い風に、レゾナック・ホールディングスの業績が急伸している。2026年12月期第1四半期決算では、半導体後工程材料の売上が過去最高を更新した。一方で、決算説明会では、中東情勢の緊迫化に伴う原材料調達や物流への警戒感も言及した。",
+    "image": "https://image.itmedia.co.jp/business/articles/2605/15/cover_news062.jpg",
+    "fetched_at": "2026-05-16 21:38:00",
+    "ja_summary": "・AI向け半導体材料の需要急増により、レゾナックの四半期業績が大幅に伸長。\n・後工程材料の売上が過去最高を更新し、利益は前年比2.3倍を達成。\n・中東情勢の緊迫化によるコスト増は、製品価格への転嫁で対応する方針。"
+  },
+  {
+    "title": "「客先常駐」も、OpenAIがAI導入の新会社　問われるIT部門やSIerの存在意義",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11746/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "米OpenAI（オープンAI）が投資ファンドなどと新会社を設立した。新会社はエンジニアを顧客企業に常駐させ、AI（人工知能）システムの導入を支援する。オープンAIなどが新会社を通じて、AIシステムの導入に深く関与することで、システム部門やシステムインテグレーター（SIer）の存在意義が改めて問われそうだ。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11746/topm.jpg?20220512",
+    "fetched_at": "2026-05-16 21:38:14",
+    "ja_summary": "・OpenAIが顧客企業にAIエンジニアを常駐させる新会社を設立。\n・AI導入の現場に直接関与することで、従来のSIerやIT部門の役割が問われる事態に。\n・専門家による直接的なAI実装が進むことで、既存のIT支援体制の価値が再定義される。"
+  },
+  {
     "title": "AIモデルの利用状況とコストを可視化　バクラクビジネスカード新機能",
     "link": "https://www.watch.impress.co.jp/docs/news/2109013.html",
     "source": "Impress Watch",
@@ -978,25 +998,5 @@
     "image": "https://files.speakerdeck.com/presentations/6f25ef6f9be54b2cbc2fc99fed0f0bee/preview_slide_0.jpg?39410624",
     "fetched_at": "2026-05-15 18:24:15",
     "ja_summary": "・開発者やアーキテクトに向けたプラットフォームエンジニアリングの核心と成功の要件を解説。\n・ソフトウェア開発ライフサイクル（SDLC）へのプラットフォーム導入の影響を分析。\n・AIエージェントが開発環境や業務効率にもたらすメリットとリスクを検証。"
-  },
-  {
-    "title": "いつの間にかデータエンジニア以外の業務も増えていたけど、意外と経験が役に立ってる",
-    "link": "https://speakerdeck.com/zozotech/next-step-of-dataengineers-career",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-05-15T01:36:59-04:00",
-    "summary": "2026/05/15 に「AI Agentを支えるデータエンジニアの仕事」で発表した登壇資料です。\nhttps://findy.connpass.com/event/390556/\nhttps://findy-code.io/events/KMaucp7DNkz2_\n\n株式会社ZOZO\nIT統括本部\n技術戦略部 CTOブロック\nテックリード\n塩崎 健弘\n\n#DCT_findy",
-    "image": "https://files.speakerdeck.com/presentations/e7d3d827041942c1bdf263532a114722/preview_slide_0.jpg?39408867",
-    "fetched_at": "2026-05-15 18:24:15",
-    "ja_summary": "・データエンジニアが本来の業務外の領域まで対応する中で、それらの経験が自身の技術力向上にどう活きているかを解説。\n・AI Agent時代におけるデータエンジニアの役割の広がりと、エンジニアとしてのキャリアの可能性を考察。\n・ZOZOテックリードが語る、現代のデータエンジニアに求められるスキルセットと価値についての登壇資料。"
-  },
-  {
-    "title": "Beyond the Hype: A Pragmatic Look at How Developers Actually Use AI",
-    "link": "https://speakerdeck.com/willingc/beyond-the-hype-a-pragmatic-look-at-how-developers-actually-use-ai",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-05-15T01:18:53-04:00",
-    "summary": "PyCon 2026 Long Beach, AI Track.  May 15, 2026.\n\nAI tooling is evolving faster than most teams can evaluate it, leaving developers caught between real productivity gains, constant change, and growing fatigue. Five practitioners — spanning open-source, data science, developer relations, and production engineering — share what actually works, what they've abandoned, and how they decide what's worth learning next. Attendees will leave with workflow patterns worth stealing, a sharper sense of which tools deserve their attention, and honest advice for developers at any career stage.\n\nPanelists\nCatherine Nelson:  Author, Data Scientist, Stealth\nJelle Zijlstra:  Python Core Team, OpenAI\nJodie Burchell: Data Scientist and ML Expert, JetBrains\nLaís Carvalho:  Growth Marketing and Developer Relations at Pydantic\nMaike Scherer:  Lead Data Scientist, American Airlines\n\nModerator\nCarol WIlling",
-    "image": "https://files.speakerdeck.com/presentations/616fb9e7ab124ea8b35e515ae35aba15/preview_slide_0.jpg?39408818",
-    "fetched_at": "2026-05-15 18:24:15",
-    "ja_summary": "・AIツールの進化が速すぎる現状に対し、5人の専門家が実務での活用法や導入基準を議論する。\n・生産性に貢献するツールと不要なツールの見極め方、現場で本当に使えるワークフローを共有。\n・AI疲れを感じる開発者が、効率的な学習とツール選定の指針を得るためのパネルディスカッション。"
   }
 ]
