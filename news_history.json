@@ -1,5 +1,45 @@
 [
   {
+    "title": "AIモデルの利用状況とコストを可視化　バクラクビジネスカード新機能",
+    "link": "https://www.watch.impress.co.jp/docs/news/2109013.html",
+    "source": "Impress Watch",
+    "published": "",
+    "summary": "LayerXは、法人向けビジネスカード「バクラクビジネスカード」において、AIサービスの利用状況やコスト管理を支援する「AIトークンアドバイザー」を提供開始する。AIサービスの支払い管理だけでなく、利用状況をユーザー単位、ツール単位、モデル単位で確認できるようにする。",
+    "image": "https://www.watch.impress.co.jp/img/ipw/list/2109/013/b01.jpg",
+    "fetched_at": "2026-05-16 20:30:22",
+    "ja_summary": "・バクラクビジネスカードにAI利用状況とコストを可視化する新機能を追加。\n・ユーザー、ツール、モデル単位でAIサービスの支払いや利用状況を詳細に把握可能。\n・企業によるAI活用コストの管理と最適化を支援する。"
+  },
+  {
+    "title": "動画AIのRunway、日本市場進出　4000万ドル投資",
+    "link": "https://www.watch.impress.co.jp/docs/news/2108960.html",
+    "source": "Impress Watch",
+    "published": "",
+    "summary": "米国のクリエイティブAIスタートアップRunway(ランウェイ)は14日、日本市場への進出を発表した。東京オフィスを開設し、日本での事業基盤構築に向けて初期投資として4,000万ドルを投じる。あわせて、日本事業を統括する責任者を採用する。",
+    "image": "https://www.watch.impress.co.jp/img/ipw/list/2108/960/1.jpg",
+    "fetched_at": "2026-05-16 20:30:23",
+    "ja_summary": "・動画AIのRunwayが日本市場へ本格参入し、東京オフィスを開設。\n・日本での事業基盤構築に向け、初期投資として4,000万ドルを投入。\n・日本事業の統括責任者を新たに採用し、現地体制を強化。"
+  },
+  {
+    "title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
+    "link": "https://openai.com/index/malta-chatgpt-plus-partnership",
+    "source": "OpenAI",
+    "published": "Sat, 16 May 2026 00:00:00 GMT",
+    "summary": "OpenAI and Malta partner to expand AI access, offering ChatGPT Plus and training to help citizens build practical AI skills and use AI responsibly.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/25iIHzkpMZU6D9guaSf5JD/fdbc74ef48943e248e832d406c68695c/SEO_Card__2_.png?w=1600&amp;h=900&amp;fit=fill",
+    "fetched_at": "2026-05-16 20:30:41",
+    "ja_summary": "・OpenAIとマルタ政府が提携し、全市民にChatGPT Plusを提供\n・AIの利活用を促進し、国民のスキル向上と責任ある運用を目指す\n・AI技術の普及によるデジタル教育と国全体の生産性向上を図る"
+  },
+  {
+    "title": "RAGナレッジベース作成を簡単にしたくてツールを作った",
+    "link": "https://zenn.dev/bathtimefish/articles/80a22a045795f0",
+    "source": "Zenn Trends",
+    "published": "Fri, 15 May 2026 09:47:21 GMT",
+    "summary": "はじめに\nRAGを利用したチャットボットの作成にはもっぱらDifyを利用してました。単純なRAGならドキュメントを放り込んでボタン押すだけでつくれるしチャットフローでのナレッジ設定も簡単なのでコード書くよりよっぽど楽です。\n一方で最近だとClaude DesktopやCodex、Gemini CLIと対話する時間が増えてきたので彼ら向けのナレッジベースをクイックに用意したいんだけど調べてもニーズに合うツールがなかったのでmragというツールを作りました。\nhttps://github.com/bathtimefish/mrag\n個人的に小規模なナレッジベースを作ってエージェントを業務...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--8J8sB18p--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:RAG%25E3%2583%258A%25E3%2583%25AC%25E3%2583%2583%25E3%2582%25B8%25E3%2583%2599%25E3%2583%25BC%25E3%2582%25B9%25E4%25BD%259C%25E6%2588%2590%25E3%2582%2592%25E7%25B0%25A1%25E5%258D%2598%25E3%2581%25AB%25E3%2581%2597%25E3%2581%259F%25E3%2581%258F%25E3%2581%25A6%25E3%2583%2584%25E3%2583%25BC%25E3%2583%25AB%25E3%2582%2592%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:bathtimefish%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzhiNjQyNThkN2IuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-05-16 20:31:03",
+    "ja_summary": "・Dify等の既存ツールよりも手軽に、AIエージェント向けのナレッジベースを作成できるCLIツール「mrag」を開発。\n・Claude DesktopやGemini CLIなど、日常的に利用するAIツールへの連携を想定。\n・小規模なナレッジベースを素早く構築し、業務効率化を図るために活用可能。"
+  },
+  {
     "title": "半導体メーカーの新規上場により、サム・アルトマンはさらに大金持ちになった",
     "link": "https://www.businessinsider.jp/article/2605-cerebras-ipo-openai-ceo-sam-altman-stake/",
     "source": "Business Insider Japan",
@@ -958,45 +998,5 @@
     "image": "https://files.speakerdeck.com/presentations/616fb9e7ab124ea8b35e515ae35aba15/preview_slide_0.jpg?39408818",
     "fetched_at": "2026-05-15 18:24:15",
     "ja_summary": "・AIツールの進化が速すぎる現状に対し、5人の専門家が実務での活用法や導入基準を議論する。\n・生産性に貢献するツールと不要なツールの見極め方、現場で本当に使えるワークフローを共有。\n・AI疲れを感じる開発者が、効率的な学習とツール選定の指針を得るためのパネルディスカッション。"
-  },
-  {
-    "title": "PdM・Eng・QAで進めるAI駆動開発の現在地/aidd-with-pdm-eng-qa",
-    "link": "https://speakerdeck.com/shota_kusaba/aidd-with-pdm-eng-qa",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-05-15T00:27:00-04:00",
-    "summary": "2026/05/15\nPdM・Eng・QAで進めるAI駆動開発の現在地（Agile Testing Night#28 ~AI駆動テスト分析・設計DeepDive~）\nhttps://wingarc1st-spqi.connpass.com/event/392390\n#WaAgileTesting",
-    "image": "https://files.speakerdeck.com/presentations/690bbca53ec74ab193487a6956445708/preview_slide_0.jpg?39407461",
-    "fetched_at": "2026-05-15 18:24:15",
-    "ja_summary": "・Agile Testing Night#28にて、PdM・Eng・QAが連携したAI駆動開発の最新事例を共有。\n・AIを活用したテスト分析・設計の深い知見と、開発現場での実践的なプロセスを解説。\n・組織全体でAIをどう活用し、開発・品質向上に繋げるかを考察するイベント。"
-  },
-  {
-    "title": "300ページのマニュアルも即回答､イベント会社が生成AIの活用で変えた会議とクライアント対応とは | ビジネス | 東洋経済オンライン",
-    "link": "https://toyokeizai.net/articles/-/943591?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-    "source": "東洋経済オンライン",
-    "published": "Fri, 15 May 2026 12:30:00 +0900",
-    "summary": "出展者マニュアルが数百ページにも及ぶイベント運営の現場。少人数で大規模案件を回すA&amp;L Projectは､生成AIの活用で資料作成や会議対応を効率化し､売上増を実現しています。AIは万能か､それとも…",
-    "image": "https://tk.ismcdn.jp/mwimgs/1/b/1200w/img_1bde1efe464b90a4ab0e593cd97d6722341606.jpg?nextgen=false",
-    "fetched_at": "2026-05-15 15:08:09",
-    "ja_summary": "イベント会社が数百ページに及ぶ膨大なマニュアル対応に生成AIを導入し、資料作成や会議を効率化。\n少人数での大規模案件対応が可能となり、生産性の向上と売上拡大を実現した。\nAIを業務のパートナーとして活用し、人間が本来の価値創造に集中できる体制を構築している。"
-  },
-  {
-    "title": "レゾナック、中東リスク「全て価格に転嫁したい」　AI特需で「利益2.3倍」でも通期据え置き",
-    "link": "https://www.itmedia.co.jp/business/articles/2605/15/news062.html",
-    "source": "ITmedia ビジネス",
-    "published": "Fri, 15 May 2026 12:00:00 +0900",
-    "summary": "生成AI向け半導体材料の需要拡大を追い風に、レゾナック・ホールディングスの業績が急伸している。2026年12月期第1四半期決算では、半導体後工程材料の売上が過去最高を更新した。一方で、決算説明会では、中東情勢の緊迫化に伴う原材料調達や物流への警戒感も言及した。",
-    "image": "https://image.itmedia.co.jp/business/articles/2605/15/cover_news062.jpg",
-    "fetched_at": "2026-05-15 15:08:11",
-    "ja_summary": "・生成AI向け半導体材料の需要急増で、レゾナックの四半期利益が2.3倍に伸長。\n・後工程材料が過去最高売上を記録する一方、中東情勢によるコスト増への警戒も強める。\n・原材料費や物流費の上昇分は、製品価格へ転嫁する方針を堅持。"
-  },
-  {
-    "title": "「客先常駐」も、OpenAIがAI導入の新会社　問われるIT部門やSIerの存在意義",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11746/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "米OpenAI（オープンAI）が投資ファンドなどと新会社を設立した。新会社はエンジニアを顧客企業に常駐させ、AI（人工知能）システムの導入を支援する。オープンAIなどが新会社を通じて、AIシステムの導入に深く関与することで、システム部門やシステムインテグレーター（SIer）の存在意義が改めて問われそうだ。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11746/topm.jpg?20220512",
-    "fetched_at": "2026-05-15 15:08:27",
-    "ja_summary": "OpenAIが技術者を顧客先に派遣する新会社を設立し、AI導入を直接支援する体制を構築した。\nこれに伴い、企業のIT部門や従来のSIer（システムインテグレーター）の介在価値が再考を迫られている。"
   }
 ]
