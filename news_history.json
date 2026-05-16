@@ -1,5 +1,25 @@
 [
   {
+    "title": "半導体大手エヌビディアのライバルAMD､最新決算が示した需要構造／メタ･オープンAIとの戦略提携も | 政治・経済・投資 | 東洋経済オンライン",
+    "link": "https://toyokeizai.net/articles/-/943885?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+    "source": "東洋経済オンライン",
+    "published": "Sun, 17 May 2026 07:00:00 +0900",
+    "summary": "AIインフラ投資が激変する中､AMDが発表した2026年Q1決算は､業界の将来を占う新たな材料に。Metaとの戦略提携やサーバーCPU市場の大幅見直し､AI需要の構造変化とは何を意味するのか。その核…",
+    "image": "https://tk.ismcdn.jp/mwimgs/5/5/1200w/img_555e6f9f69314f4823c2b544ca822b4092464.jpg?nextgen=false",
+    "fetched_at": "2026-05-17 07:03:27",
+    "ja_summary": "・AMDの最新決算により、AIインフラ投資の構造変化が浮き彫りに。\n・Metaとの戦略的提携やサーバーCPU市場の再編が今後の成長の鍵。\n・エヌビディアを追うAMDの動向が、AI業界全体の将来を左右する。"
+  },
+  {
+    "title": "根回し､会議､顧客の説得…AI時代のホワイトカラーは｢煩雑で人間くさい仕事｣だけが生き残る？  | 政治・経済・投資 | 東洋経済オンライン",
+    "link": "https://toyokeizai.net/articles/-/944668?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+    "source": "東洋経済オンライン",
+    "published": "Sun, 17 May 2026 06:00:00 +0900",
+    "summary": "AIツールの進化でホワイトカラーの仕事は劇的に効率化し､複数の企業で重要職を兼務する事例も登場しています。ただ､会議や社内調整といった\"人間くさい仕事\"はAIには任せられず､重要性を増しています。い…",
+    "image": "https://tk.ismcdn.jp/mwimgs/2/a/1200w/img_2a89bb3c4e54402f589bfa2ffca3516683094.jpg?nextgen=false",
+    "fetched_at": "2026-05-17 07:03:27",
+    "ja_summary": "・AIの進化で業務効率化が進み、個人の兼務が容易になった。\n・一方で、根回しや調整といった「人間特有の泥臭い業務」の価値が相対的に高まっている。\n・AI時代には、高度な人間関係の構築や説得力がビジネスの要となる。"
+  },
+  {
     "title": "\"中国製の蓄電システム\"に世界中から注文殺到 中東発エネルギー危機やAIの電力消費増加が追い風 | ビジネス | 東洋経済オンライン",
     "link": "https://toyokeizai.net/articles/-/944421?utm_source=rss&utm_medium=http&utm_campaign=link_back",
     "source": "東洋経済オンライン",
@@ -978,25 +998,5 @@
     "image": "https://res.cloudinary.com/zenn/image/upload/s--7I7gdToQ--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%25AD%25E3%2582%25B0%25E3%2583%25A9%25E3%2582%25B9%25E3%2581%25AB%25E3%2581%258A%25E3%2581%2591%25E3%2582%258BAI%25E6%2599%2582%25E4%25BB%25A3%25E3%2581%25AE%25E6%2596%25B0%25E5%258D%2592%25E3%2582%25A8%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%258B%25E3%2582%25A2%25E3%2581%25AE%25E7%25A0%2594%25E4%25BF%25AE%25E8%25A8%25AD%25E8%25A8%2588%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%258A%25E3%2583%25BC%25E3%2581%25AEA%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSmJOLVRvSUpqbWpoWUtqcng4S3dwUnhWZ3hUakdyTklNZEJkZ212VlUtYWpxbTZtZz1zOTYtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
     "fetched_at": "2026-05-15 18:24:13",
     "ja_summary": "ログラス社における「AI時代に対応した新卒エンジニア研修」の設計思想を解説。\n技術変化が速い中で、単なるスキル習得にとどまらない育成の考え方を共有。\n若手育成を担うマネージャーやメンターに向け、研修設計の本質的なポイントを提示。"
-  },
-  {
-    "title": "Claude Codeにリポジトリを1枚のワークフロー図にしてもらうプロンプト",
-    "link": "https://zenn.dev/acntechjp/articles/b82cebfa0e4d50",
-    "source": "Zenn Trends",
-    "published": "Wed, 13 May 2026 20:01:31 GMT",
-    "summary": "新しいリポジトリに入ったとき、コードを読む前に 全体像を1枚絵で見たい ことがあります。\nそこで、Claude Code に「リポジトリを読んで1枚のワークフロー図にして」と頼むプロンプトを作ってみました。\n\n できあがるもの\n対象ディレクトリを渡すと、flows.json と workflows.html の2ファイルが出ます。外部ライブラリゼロ、ダブルクリックで開けます。\nhttps://youtu.be/Fd2i3kFfgsg\n左でフローを選ぶと関連エッジだけが点灯し、下の注釈で番号をクリックすると該当ステップが派手に光ります。\n\n ちょっとした工夫\n書いてみてわかったのは、AIに...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--W_KvtTpN--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%25E3%2581%25AB%25E3%2583%25AA%25E3%2583%259D%25E3%2582%25B8%25E3%2583%2588%25E3%2583%25AA%25E3%2582%25921%25E6%259E%259A%25E3%2581%25AE%25E3%2583%25AF%25E3%2583%25BC%25E3%2582%25AF%25E3%2583%2595%25E3%2583%25AD%25E3%2583%25BC%25E5%259B%25B3%25E3%2581%25AB%25E3%2581%2597%25E3%2581%25A6%25E3%2582%2582%25E3%2582%2589%25E3%2581%2586%25E3%2583%2597%25E3%2583%25AD%25E3%2583%25B3%25E3%2583%2597%25E3%2583%2588%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:shinya.hara%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2U2ZDA4MDY5ODcuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Accenture%2520Japan%2520%2528%25E6%259C%2589%25E5%25BF%2597%2529%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzU4NWRkYWRjODQuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-    "fetched_at": "2026-05-15 18:24:14",
-    "ja_summary": "・Claude Codeを活用し、リポジトリの全体像を1枚のインタラクティブなワークフロー図に自動生成する手法。\n・出力されるHTMLファイルは外部依存ゼロで、ブラウザから直感的に各工程の関連性や詳細を確認可能。\n・初見のリポジトリでもコードを追う前に処理の流れを可視化でき、効率的な理解をサポートする。"
-  },
-  {
-    "title": "たった数行でコード品質がグッと上がる、CLAUDE.md / AGENTS.md にいつも追記してるやつ",
-    "link": "https://zenn.dev/peka2/articles/6dc7d5a87a99dd",
-    "source": "Zenn Trends",
-    "published": "Wed, 13 May 2026 15:55:58 GMT",
-    "summary": "Tanstack startかNext.jsで実装する前提で書いてますが、何にでも応用出来るかと思われまス\ncreate appしてリポジトリ立ち上げたときは、最初のルールと、最初のコードがどういう感じで書かれたかで、成果物の点数の99%が決まりますネ\nなぜならClaude codeもCodexも空気を読んで既存スタイルに合わせるからですネ\nボクは、最初は１画面・１機能だけ作らせて、コードが気に入らなかったら全消ししてcreate app直後からやり直してますヨ\nなので、最初の立ち上げ時、バイブコーディングのスタイルでも、いつも1時間くらいかかりまス\n\nそして以下で書いたルール、このルー...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--pZ-dG5gJ--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2581%259F%25E3%2581%25A3%25E3%2581%259F%25E6%2595%25B0%25E8%25A1%258C%25E3%2581%25A7%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2589%25E5%2593%2581%25E8%25B3%25AA%25E3%2581%258C%25E3%2582%25B0%25E3%2583%2583%25E3%2581%25A8%25E4%25B8%258A%25E3%2581%258C%25E3%2582%258B%25E3%2580%2581CLAUDE.md%2520%252F%2520AGENTS.md%2520%25E3%2581%25AB%25E3%2581%2584%25E3%2581%25A4%25E3%2582%2582%25E8%25BF%25BD%25E8%25A8%2598%25E3%2581%2597%25E3%2581%25A6%25E3%2582%258B%25E3%2582%2584%25E3%2581%25A4%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:peka2%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzA4N2U5YjdkNmQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-    "fetched_at": "2026-05-15 18:24:14",
-    "ja_summary": "・プロジェクト初期のルール設定とコード品質が成果物の99%を決定づける。\n・AIは既存コードのスタイルを模倣するため、最初の一歩で妥協せず作り直してでも基準を固める。\n・「CLAUDE.md」等に開発ルールを明記し、AIへ明確な指針を与えることで品質を大幅に向上させる。"
   }
 ]
