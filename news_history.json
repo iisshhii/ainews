@@ -1,5 +1,15 @@
 [
   {
+    "title": "ソニーの新フラッグシップスマホ「Xperia 1 VIII」の実機に触れた",
+    "link": "https://japan.cnet.com/article/35247590/",
+    "source": "CNET Japan",
+    "published": "",
+    "summary": "ソニーが6月11日に発売するフラッグシップスマートフォン「Xperia 1 VIII」は、シーンに応じて撮影表現を提案する「AIカメラアシスタント」、約4倍に大型化した望遠センサー、左右同一ユニットのステレオスピーカーを搭載する。体験会で各機能を試した。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35247590/\"><img src=\"https://japan.cnet.com/storage/2026/05/15/8ffb2bf65010efc1ae801dae21384aca/t/184/138/d/01.jpg\" /></a>",
+    "image": "https://japan.cnet.com/storage/2026/05/15/8ffb2bf65010efc1ae801dae21384aca/t/184/138/d/01.jpg",
+    "fetched_at": "2026-05-18 01:38:09",
+    "ja_summary": "・ソニーの新スマホ「Xperia 1 VI」が6月11日に発売。\n・AIによる撮影アシスト機能と、約4倍に大型化した望遠センサーを搭載。\n・左右同一ユニットのステレオスピーカー採用により、音響面も強化。"
+  },
+  {
     "title": "Codex in the ChatGPT mobile app の概要",
     "link": "https://note.com/npaka/n/n40bc7878909e",
     "source": "note (npaka)",
@@ -988,15 +998,5 @@
     "image": "https://res.cloudinary.com/zenn/image/upload/s--72pVZv-r--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%25E3%2581%25AE1000%2520%25E3%2582%25BB%25E3%2583%2583%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3%25E3%2582%2592%25E5%2588%2586%25E6%259E%2590%25E3%2581%2597%25E3%2581%25A6%25E3%2580%2581%25E4%25B8%2580%25E9%2580%25B1%25E9%2596%2593%25E7%259B%25AE%25E3%2581%25A7%25E3%2583%25AA%25E3%2583%25BC%25E3%2583%2589%25E3%2582%25BF%25E3%2582%25A4%25E3%2583%25A0%25E3%2582%259210%2525%25E7%25B8%25AE%25E3%2582%2581%25E3%2581%259F%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Developer%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzJkZmVkY2VkZTAuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:GLOBIS%2520Tech%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzMyYzY4NDk1Y2EuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
     "fetched_at": "2026-05-16 08:28:57",
     "ja_summary": "・グロービスがAIコーディングにClaude Codeを導入し、運用ログを分析してボトルネックを改善。\n・AIとの不要な確認作業を削減し、月100時間の開発工数削減とリードタイム10%短縮を達成。\n・AIの応答待ちや過剰な確認作業といった開発現場の無駄を排除した手法を共有。"
-  },
-  {
-    "title": "Comments on 「ソフトウェアの「設計原則」を、なぜ一部のエンジニアは生理的に嫌うのか」",
-    "link": "https://zenn.dev/ril/articles/8a58ccf870f25e",
-    "source": "Zenn Trends",
-    "published": "Fri, 15 May 2026 00:49:02 GMT",
-    "summary": "少し前に話題だった「ソフトウェアの「設計原則」を、なぜ一部のエンジニアは生理的に嫌うのか」を読んで。\nhttps://zenn.dev/torao/articles/20260502-differences-in-engrs-cognitive-strategies\n\n 引用した記事の要旨\nまず初めに引用した記事の要旨を示します。たくさんの仮説を提示しているので、その仮説を列挙する形で提示します（生成AIの類は使っていません）。\n\n仮説1. エンジニアは情報を「分割→圧縮→記録」という順で処理する。\n仮説2. 記録の方法には「保持」と「外化」の２種類がある。\n仮説3. 「保持」と「外化」...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--EsRHtiVe--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Comments%2520on%2520%25E3%2580%258C%25E3%2582%25BD%25E3%2583%2595%25E3%2583%2588%25E3%2582%25A6%25E3%2582%25A7%25E3%2582%25A2%25E3%2581%25AE%25E3%2580%258C%25E8%25A8%25AD%25E8%25A8%2588%25E5%258E%259F%25E5%2589%2587%25E3%2580%258D%25E3%2582%2592%25E3%2580%2581%25E3%2581%25AA%25E3%2581%259C%25E4%25B8%2580%25E9%2583%25A8%25E3%2581%25AE%25E3%2582%25A8%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%258B%25E3%2582%25A2%25E3%2581%25AF%25E7%2594%259F%25E7%2590%2586%25E7%259A%2584%25E3%2581%25AB%25E5%25AB%258C%25E3%2581%2586%25E3%2581%25AE%25E3%2581%258B%25E3%2580%258D%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:ril%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzM5MzExOWRlNDYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-    "fetched_at": "2026-05-16 08:28:57",
-    "ja_summary": "エンジニアが設計原則を嫌う背景には、情報の処理方法が「脳内での保持」か「外部への記録（外化）」かという認知特性の違いがある。\n設計原則は複雑な情報を整理するための「外化」手段だが、直感的に情報を処理する層にとっては、それがかえって思考の制約や負担と感じられる。\nこの認知スタイルの違いを理解し、相互のやり方を尊重することが、開発現場での対立解消につながる。"
   }
 ]
