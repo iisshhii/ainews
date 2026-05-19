@@ -1,5 +1,75 @@
 [
   {
+    "title": "催し物案内",
+    "link": "https://xtech.nikkei.com/atcl/nxt/mag/ncr/18/00009/051300309/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "防災、インフラマネジメント、センシングなどの分野へのデジタルツイン技術の活用に関する研究発表や、「土木×AI」をテーマにしたパネルディスカッションなどを行う。定員は会場70人、オンライン3000人。申し込み締め切りは5月27日　■ 無料",
+    "image": "https://xtech.nikkei.com/atcl/nxt/mag/ncr/18/00009/051300309/sns.jpg?20220512",
+    "fetched_at": "2026-05-20 02:58:15",
+    "ja_summary": "・デジタルツイン技術の防災・インフラ活用に関する研究発表やAI議論を行うイベントを開催\n・定員は会場70名・オンライン3000名（参加費無料）\n・申し込み締め切りは5月27日"
+  },
+  {
+    "title": "チャット履歴を基にAIが質問に回答",
+    "link": "https://xtech.nikkei.com/atcl/nxt/mag/ncr/18/00006/051300463/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "AI（人工知能）による音声認識サービスなどを提供するアドバンスト・メディア（東京・豊島）は、建設現場向けの情報共有システム「AmiVoice B-Work One（アミボイス・ビーワーク・ワン）」の提供を2026年4月9日に開始した。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/mag/ncr/18/00006/051300463/29_sns.jpg?20220512",
+    "fetched_at": "2026-05-20 02:58:16",
+    "ja_summary": "・アドバンスト・メディアが建設現場向け情報共有システムを提供開始。\n・チャット履歴をAIが学習し、現場の質問に自動回答する仕組み。\n・業務効率化を目的に2026年4月9日よりサービスを開始。"
+  },
+  {
+    "title": "Excel関数はうろ覚えでOK、ChatGPTにファイルを渡せば数式を自動入力",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03588/041400009/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "日経PC21は創刊以来30年にわたってExcel関数の使い方を解説してきたが、生成AIを使うとやりたいことを文章で伝えるだけで、適切な関数を自動入力したファイルを仕上げてくれる。いちいち自分で関数を入力する手間を省くことができるのだ。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03588/041400009/topm.jpg?20220512",
+    "fetched_at": "2026-05-20 02:58:17",
+    "ja_summary": "Excel関数を完璧に覚える必要はもうない。\nやりたいことをChatGPTに伝えるだけで、適切な数式が自動入力されたファイルが完成する。\n関数の入力作業をAIに任せることで、業務効率を大幅に短縮できる。"
+  },
+  {
+    "title": "半導体市場、28年にメモリー価格下落で縮小　米ガートナー",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11710/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "AI（人工知能）、特に生成AIブームを背景に世界半導体市場は目覚ましい成長を遂げている。その勢いは増すばかりだ。例えば、米Gartner（ガートナー）は2026年の世界半導体市場は前年比63.9％成長し、1兆3200億米ドル（約210兆円）に達すると予測している。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11710/m.jpg?20220512",
+    "fetched_at": "2026-05-20 02:58:18",
+    "ja_summary": "・AIブームにより、2026年の世界半導体市場は前年比63.9%増の約210兆円まで急成長する。\n・しかし、その後の2028年にはメモリー価格の下落が影響し、市場は縮小に転じる見通し。"
+  },
+  {
+    "title": "AnthropicがClaudeサブスク刷新　エージェント利用を別枠化、使い方で実質値上げも　6月15日から",
+    "link": "https://www.techno-edge.net/article/2026/05/14/5064.html",
+    "source": "TechnoEdge",
+    "published": "Thu, 14 May 2026 11:12:23 +0900",
+    "summary": "AnthropicがAIサービス Claude のサブスクリプション内容を大きく変更しました。<br />\n<br />\n従来はチャットや対話型のClaude Code利用と同じ枠から消費していたAgent SDKおよびclaude -pコマンドなど自動化利用が、改定後は毎月付与される別枠のクレジットから消費するようになります。",
+    "image": "https://www.techno-edge.net/imgs/rss/31404.jpg",
+    "fetched_at": "2026-05-20 02:58:42",
+    "ja_summary": "・AnthropicがClaudeのサブスク料金体系を6月15日に刷新。\n・自動化ツール（Agent SDK等）の利用分がチャット枠から切り離され、別枠のクレジット消費に変更。\n・利用内容によっては実質的な値上げとなるため注意が必要。"
+  },
+  {
+    "title": "Advancing content provenance for a safer, more transparent AI ecosystem",
+    "link": "https://openai.com/index/advancing-content-provenance",
+    "source": "OpenAI",
+    "published": "Tue, 19 May 2026 10:45:00 GMT",
+    "summary": "OpenAI advances AI content provenance with Content Credentials, SynthID, and a verification tool to help people identify and trust AI-generated media.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/7qrOAES4m86YSNSeLjDFI3/2a82d6af71882438b33811ad5c1e5fdc/SEO_Card_-_new_title.png?w=1600&amp;h=900&amp;fit=fill",
+    "fetched_at": "2026-05-20 02:58:43",
+    "ja_summary": "・OpenAIがAI生成コンテンツの識別技術（Content Credentials、SynthID）を導入\n・専用ツールを活用し、AI生成物であることを明示することで透明性を向上\n・AIコンテンツの信頼性を高め、安全なエコシステムの構築を目指す"
+  },
+  {
+    "title": "Faster FFI for Ruby",
+    "link": "https://speakerdeck.com/tenderlove/faster-ffi-for-ruby",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-05-19T12:27:36-04:00",
+    "summary": "Building a faster FFI for Ruby. Leveraging an FFI type DSL to generate C extensions that contain hints for the JIT compiler. CRuby gets faster because C extensions are faster than FFI. When the JIT is enabled calls get even faster",
+    "image": "https://files.speakerdeck.com/presentations/8bee425cb6154876ac907be5675ab0ab/preview_slide_0.jpg?39448298",
+    "fetched_at": "2026-05-20 02:58:55",
+    "ja_summary": "RubyのFFI（外部関数インターフェース）を高速化する新手法が開発された。\n独自のDSLでC拡張を生成し、JITコンパイラの最適化を促すことで実行速度を向上させる。\nC拡張経由で処理を行うため、従来のFFIよりも高速で効率的な呼び出しが可能になる。"
+  },
+  {
     "title": "Codex in the ChatGPT mobile app の概要",
     "link": "https://note.com/npaka/n/n40bc7878909e",
     "source": "note (npaka)",
@@ -928,75 +998,5 @@
     "image": "https://assets.st-note.com/production/uploads/images/277042351/rectangle_large_type_2_a311ed694a14f9defb5b454fe1ae37db.png?width=800",
     "fetched_at": "2026-05-19 06:36:41",
     "ja_summary": "AIモデル「Grok」が「Hermes Agent」と連携可能になりました。\nAIエージェントによる自動化や高度なタスク処理の強化が期待されます。\n詳細な連携手順や活用法は、x.aiの公式ニュースにて確認可能です。"
-  },
-  {
-    "title": "「人＋AI」協働の仕組みを訴求するアトラシアン、鍵は「コンテキストの醸成」",
-    "link": "https://japan.zdnet.com/article/35247594/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "AIの活用効果を個人の業務から組織規模に展開する課題感が高まる昨今、アトラシアンはAIの支援で協働を推進する「仕組み」の拡充と展開を加速されている。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35247594/\"><img src=\"https://japan.zdnet.com/storage/2026/05/15/639dd73c8add4dd877cd8bad3eb38a19/t/184/138/d/atlassian-team26-rept_l.jpg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2026/05/15/639dd73c8add4dd877cd8bad3eb38a19/t/184/138/d/atlassian-team26-rept_l.jpg",
-    "fetched_at": "2026-05-19 06:36:45",
-    "ja_summary": "アトラシアンは、AIを組織全体の業務に浸透させるため、AIと人間が協働する仕組みの拡充を加速させている。\n鍵となるのは「コンテキスト（文脈）の醸成」であり、個人の業務効率化を組織レベルの成果へとつなげる環境づくりを目指す。"
-  },
-  {
-    "title": "「パッチ適用」という悪循環--アプリセキュリティがもはや不十分な理由",
-    "link": "https://japan.zdnet.com/article/35247405/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "AI活用の開発や爆発的に増加する脆弱性のバックログがセキュリティのルールを変え、従来のアプリケーションセキュリティの手法が急速に通用しなくなっている。\n<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35247405/\"><img src=\"https://japan.zdnet.com/storage/2026/05/12/5ec27436b50abcd856c287850afda095/t/184/138/d/why-traditional-application-security-is-no-longer-enough_l.jpg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2026/05/12/5ec27436b50abcd856c287850afda095/t/184/138/d/why-traditional-application-security-is-no-longer-enough_l.jpg",
-    "fetched_at": "2026-05-19 06:36:45",
-    "ja_summary": "・AI開発の普及と脆弱性の急増により、従来のセキュリティ対策では対応が困難になっている。\n・パッチ適用に追われる現状の「いたちごっこ」的な手法は限界を迎えている。\n・今後はセキュリティの考え方を根本から見直す必要がある。"
-  },
-  {
-    "title": "アップル、WWDCで発表とうわさの新しいSiriにチャット履歴自動削除機能搭載か",
-    "link": "https://www.techno-edge.net/article/2026/05/18/5069.html",
-    "source": "TechnoEdge",
-    "published": "Mon, 18 May 2026 07:45:02 +0900",
-    "summary": "アップルは、Google Geminiを搭載するスタンドアロンのSiriアプリを、6月のWWDCで発表するとうわさされています。",
-    "image": "https://www.techno-edge.net/imgs/rss/31424.png",
-    "fetched_at": "2026-05-19 06:36:47",
-    "ja_summary": "・アップルが6月のWWDCで、Google Gemini搭載の新しいSiriを発表する見込み。\n・新Siriには、プライバシー保護のためのチャット履歴自動削除機能が搭載される模様。"
-  },
-  {
-    "title": "AIにコードを書かせ続けて気づいた、エンジニアの\"分かったつもり\"の怖さ",
-    "link": "https://qiita.com/jinxin4869/items/786af70f2697dfac4329",
-    "source": "Qiita (Popular)",
-    "published": "2026-05-14T10:00:06+09:00",
-    "summary": "## はじめに\n\n「なんでここでこの型を使ってるの？」\n同僚にそう聞かれたとき、自分の口から出たのは「一旦調べさせてください」だった。実装を担当しているのは自分なのに、その場でパッと説明できない。動いている。テストも通っている。でも、なぜそう書いたのかと聞かれると言葉に詰まる。AIコーディングツールが普及してから、AIによる実装が増えてきた弊害が少しずつ表れ始めている。\n\nAIコーディングツールを",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmF2YXRhcnMuZ2l0aHVidXNlcmNvbnRlbnQuY29tJTJGdSUyRjE2NjcxMTEyNCUzRnYlM0Q0P2l4bGliPXJiLTQuMS4xJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz1iMzE3OGMxN2Y5OTcwN2FjMzVjN2E4ZmZhYjRmNWJiYg%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkZhZmM0ZGJhZjAzNThlOGQwYjM0NmM4ZDc1ZWIwMzdiMjVmNjc4MDY5JTJGb3JpZ2luYWwuanBnJTNGMTYwNzc1NjU4OD9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz03NjRmYjE2ODMxYjQ2ZDU0NTgwMmI1MGMzYWMxODM2MQ%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D6cbf96e55ee88232670e5ccf914a715e?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9QUklRTMlODElQUIlRTMlODIlQjMlRTMlODMlQkMlRTMlODMlODklRTMlODIlOTIlRTYlOUIlQjglRTMlODElOEIlRTMlODElOUIlRTclQjYlOUElRTMlODElOTElRTMlODElQTYlRTYlQjAlOTclRTMlODElQTUlRTMlODElODQlRTMlODElOUYlRTMlODAlODElRTMlODIlQTglRTMlODMlQjMlRTMlODIlQjglRTMlODMlOEIlRTMlODIlQTIlRTMlODElQUUlMjIlRTUlODglODYlRTMlODElOEIlRTMlODElQTMlRTMlODElOUYlRTMlODElQTQlRTMlODIlODIlRTMlODIlOEElMjIlRTMlODElQUUlRTYlODAlOTYlRTMlODElOTUmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1jZWIwOTFiY2YzYWQ5ZmIzYTg4NDZjYTJmNTExZDQ5YQ&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBqaW54aW40ODY5JnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9MzNlMDU1OTgyZWZiMzI4ZGUwMjc2ZDE4YmJlYmI1OGY&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=5qCq5byP5Lya56S-44K344Oz44K344Ki&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=a947e7db690cd141a24249db8ac23508",
-    "fetched_at": "2026-05-19 06:37:10",
-    "ja_summary": "AIコーディングツールの多用で、動くコードを生成しても中身を理解できていない「分かったつもり」のエンジニアが増加している。\n自身の技術的理解が追いつかないままAIに依存すると、不具合対応や説明責任を果たせないリスクがある。\nAIを補助ツールとして活用しつつ、エンジニア自身がコードの根拠を言語化できるスキルを磨く必要がある。"
-  },
-  {
-    "title": "AIが書くpandasコード、だいたい地雷が混じっている話",
-    "link": "https://qiita.com/ALeX_EXVS/items/cd2c603abf8b48fc23a8",
-    "source": "Qiita (Popular)",
-    "published": "2026-05-11T17:45:56+09:00",
-    "summary": "## はじめに\n\nChatGPTやClaude、GitHub CopilotのようなAIアシスタントが普及して、コードを書くハードルはかなり下がりました。\n「pandasでこのデータを処理して」と投げれば、それなりのコードがすぐ返ってきます。たしかに便利です。\n\nただ、実務でそのまま使うには危ないコードも少なくありません。\n**動くけれど遅い。動くけれどメモリを食う。動くけれど結果が怪しい。**\n",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYzMDUwNzQ2JTJGYThhODQzN2FkNzMxMzkzNDU0OWEyZGY4ZjM0NjE2Y2MyNzQyZWI1YyUyRnhfbGFyZ2UucG5nJTNGMTczMjI0MjA5OD9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NTZlZDk3ZTA4MzBmNWZmMmI3ODhiZTBkM2NmMzBmOGU%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkZiMzhmZjU4MDQ0OWQ4NmQ3YmU5ODI2NGZiYTkyZWVlODU1MmE3MDY5JTJGb3JpZ2luYWwuanBnJTNGMTc3MjgwMzQ2Mj9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz05ZDhkOWU5OGRmMjhiZjEyOTRjNjM2NmZkNTU3ZmI2Mg%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3De0604a40563af4787bd1d012d797bf8d?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9QUklRTMlODElOEMlRTYlOUIlQjglRTMlODElOEZwYW5kYXMlRTMlODIlQjMlRTMlODMlQkMlRTMlODMlODklRTMlODAlODElRTMlODElQTAlRTMlODElODQlRTMlODElOUYlRTMlODElODQlRTUlOUMlQjAlRTklOUIlQjclRTMlODElOEMlRTYlQjclQjclRTMlODElOTglRTMlODElQTMlRTMlODElQTYlRTMlODElODQlRTMlODIlOEIlRTglQTklQjEmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1hYTIxYTIzZTMwNzY4ZDQ2YmZhMzYwZjdlMmMzMzM3OA&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBBTGVYX0VYVlMmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz0wZTIyZjQ1NWUxYzcxZDAyZGY5ODlkZDMyN2NhNGM5Yg&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=77ym77yw77y044K444Oj44OR44Oz44Ob44O844Or44OH44Kj44Oz44Kw44K55qCq5byP5Lya56S-&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=934d7ed9ce672d37c358e109557f5d3d",
-    "fetched_at": "2026-05-19 06:37:12",
-    "ja_summary": "AIが生成するpandasコードは手軽ですが、「処理が遅い」「メモリを過剰に消費する」「計算結果が不正確」といった地雷が含まれることが多々あります。\n実務でそのまま利用するのは危険であり、AIの回答を鵜呑みにせず、内容を精査して利用する必要があります。"
-  },
-  {
-    "title": "仏トタルが米国の洋上風力撤退、「三菱商事ショック」は日本だけではない (イラン・AIが変えるエネルギー秩序)",
-    "link": "https://business.nikkei.com/atcl/gen/19/00874/051500003/",
-    "source": "日経ビジネス 最新",
-    "published": "",
-    "summary": "フランスの資源メジャー、トタルエナジーズは米国の洋上風力発電から撤退することでトランプ米政権と合意した。トランプ政権はドローンからの防衛に風車が邪魔だと主張するが、トタルを動かしたのは洋上風力のコスト高だった。",
-    "image": "https://business.nikkei.com/atcl/gen/19/00874/051500003/fb.jpg",
-    "fetched_at": "2026-05-19 05:09:49",
-    "ja_summary": "・仏トタルが米国の洋上風力発電事業から撤退し、トランプ政権と合意。\n・表向きは国防上の理由だが、本質はコスト高による採算性の悪化。\n・欧州大手でも撤退を余儀なくされるほど、洋上風力ビジネスの環境が厳化。"
-  },
-  {
-    "title": "富士通、独自CPUで狙うソブリンAI　ラピダス味方にGPUと共存",
-    "link": "https://xtech.nikkei.com/atcl/nxt/mag/ne/18/00147/00002/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "富士通はAI（人工知能）市場の開拓に向けた次期CPU（中央演算処理装置）の開発に乗り出した。理化学研究所と開発するスーパーコンピューター「富岳NEXT」に搭載するが、AIサーバー分野の世界の顧客にも売り込む。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/mag/ne/18/00147/00002/topm.jpg?20220512",
-    "fetched_at": "2026-05-19 05:09:52",
-    "ja_summary": "・富士通が「富岳NEXT」向け次世代CPUを開発し、AIサーバー市場へ参入。\n・ラピダスの技術を活用し、GPUと共存可能な独自の「ソブリンAI」基盤を構築。\n・世界市場への売り込みを図り、AI開発の競争力強化を目指す。"
   }
 ]
