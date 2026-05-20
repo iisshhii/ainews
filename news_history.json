@@ -1,5 +1,45 @@
 [
   {
+    "title": "Gemini Omni の概要",
+    "link": "https://note.com/npaka/n/n7d37bbbd1681",
+    "source": "note (npaka)",
+    "published": "Wed, 20 May 2026 06:15:30 +0900",
+    "summary": "<p id=\"02c01f52-c0a3-45d9-8c40-c8b5b15fd73f\" name=\"02c01f52-c0a3-45d9-8c40-c8b5b15fd73f\">以下の記事が面白かったので、簡単にまとめました。</p><figure id=\"76720dac-790c-436c-9393-332731043a4a\" name=\"76720dac-790c-436c-9393-332731043a4a\"><blockquote><p id=\"d9f363be-4967-499c-be3a-4d0e0a82670e\" name=\"d9f363be-4967-499c-be3a-4d0e0a82670e\"><strong>・</strong><a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni/\" rel=\"nofollow noopener\" target=\"_blank\"><strong>Introducing Gemini Omni</strong></a></p></blockquote>\n<figcaption></figcaption></figure><br /><a href=\"https://note.com/npaka/n/n7d37bbbd1681\">続きをみる</a>",
+    "image": "https://assets.st-note.com/production/uploads/images/277684759/rectangle_large_type_2_444d6f0708171d591bb8fca9e0ad311d.jpeg?width=800",
+    "fetched_at": "2026-05-21 03:11:32",
+    "ja_summary": "・GoogleがマルチモーダルAIモデル「Gemini Omni」を発表。\n・音声、映像、テキストをリアルタイムで統合処理する高い応答性能を実現。\n・低遅延な対話を通じて、人間のような自然なコミュニケーションが可能。"
+  },
+  {
+    "title": "Google 無休で働くAI agentを発表",
+    "link": "https://news.yahoo.co.jp/pickup/6580888?source=rss",
+    "source": "Yahoo!ニュース IT・科学",
+    "published": "Tue, 19 May 2026 22:20:17 GMT",
+    "summary": "",
+    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/5/20/ffb641149da6041561ffb42a5244d39af3130db562c0db1ff32e70d0bb304019.jpg",
+    "fetched_at": "2026-05-21 03:11:34",
+    "ja_summary": "Googleが24時間無休で自律的に業務をこなす「AIエージェント」を発表。\nPC操作を代行し、タスクの実行から完了までを人間なしで完結させる。\n業務効率の劇的な向上が見込まれ、AIによる自動化が新たな段階へ移行。"
+  },
+  {
+    "title": "GoogleがWear OS 7を発表。バッテリー最大10%改善とGemini Intelligence搭載",
+    "link": "https://www.techno-edge.net/article/2026/05/20/5078.html",
+    "source": "TechnoEdge",
+    "published": "Wed, 20 May 2026 07:15:02 +0900",
+    "summary": "Googleは、スマートウォッチ向けプラットフォームの最新バージョン「Wear OS 7」を発表しました。",
+    "image": "https://www.techno-edge.net/imgs/rss/31484.jpg",
+    "fetched_at": "2026-05-21 03:11:39",
+    "ja_summary": "GoogleがWear OS 7を発表。\nバッテリー持ちが最大10%向上し、AI「Gemini」も搭載。\nスマートウォッチの機能がさらに進化。"
+  },
+  {
+    "title": "YouTubeが会話型検索「Ask YouTube」とAI動画リミックス機能を発表",
+    "link": "https://www.techno-edge.net/article/2026/05/20/5076.html",
+    "source": "TechnoEdge",
+    "published": "Wed, 20 May 2026 06:45:02 +0900",
+    "summary": "YouTubeは5月19日より、動画の検索・発見体験を刷新する会話型検索機能「Ask YouTube」と、AIモデル「Gemini Omni」を活用したShorts向けリミックス機能の提供を開始しました。",
+    "image": "https://www.techno-edge.net/imgs/rss/31479.jpg",
+    "fetched_at": "2026-05-21 03:11:39",
+    "ja_summary": "・YouTubeが会話型検索「Ask YouTube」を導入し、動画検索の利便性を向上。\n・AIモデル「Gemini Omni」を活用したShorts向け動画リミックス機能を追加。\n・検索体験とコンテンツ制作の両面でAIによる刷新を図る。"
+  },
+  {
     "title": "MetaのAIグラス日本発売はなぜ“いま”なのか 「視力補正」と「続ける意思」",
     "link": "https://www.watch.impress.co.jp/docs/topic/2110003.html",
     "source": "Impress Watch",
@@ -958,45 +998,5 @@
     "image": "https://www.watch.impress.co.jp/img/ipw/list/2110/026/o01.jpg",
     "fetched_at": "2026-05-20 07:38:25",
     "ja_summary": "・Googleが次世代AIモデル「Gemini Omni」を発表\n・テキストや画像など、あらゆるコンテンツ作成に対応\n・開発者会議「Google I/O 2026」にて公開"
-  },
-  {
-    "title": "【5分でわかる】Google I/O 2026発表まとめ--Gemini 3.5やSparkエージェント、スマートグラスなど",
-    "link": "https://japan.cnet.com/article/35247706/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "グーグルは5月19日（米国時間）、開発者会議「Google I/O」で、新AIモデル「Gemini 3.5」を中核に多くの新サービスを発表した。基盤モデルの世代交代から、24時間稼働の自律エージェント、動画生成AI、サムスンと共同開発するスマートグラス、検索の刷新まで、発表は多岐にわたる。主要な7本を要点でまとめた。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35247706/\"><img src=\"https://japan.cnet.com/storage/2026/05/20/468287aca5f55f2a8f646ecde8658a6b/t/184/138/d/2026-05-20_6.48の画像.jpeg\" /></a>",
-    "image": "https://japan.cnet.com/storage/2026/05/20/468287aca5f55f2a8f646ecde8658a6b/t/184/138/d/2026-05-20_6.48の画像.jpeg",
-    "fetched_at": "2026-05-20 07:38:31",
-    "ja_summary": "・Googleが新AI「Gemini 3.5」を発表し、検索や動画生成、自律型エージェントなどの機能を大幅強化。\n・自律的な24時間稼働AIや、サムスンと共同開発中のスマートグラスなど最新技術を公開。\n・AIモデルの刷新からデバイス開発まで、Googleの次世代AI戦略が網羅された発表内容。"
-  },
-  {
-    "title": "Geminiは「AIエージェント」に全振り、出遅れのコーディング分野でも挽回へ　Google I/O 2026",
-    "link": "https://japan.cnet.com/article/35247705/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "グーグルは5月19日（米国時間）、開発者会議「Google I/O」で、新しいAIモデルとツール群を一挙に発表した。共通するキーワードは、ユーザーに代わって自律的に動く「エージェント」だ。発表の柱は、新モデル「Gemini 3.5 Flash」、24時間動き続けるAIアシスタント「Gemini Spark」、そして開発プラットフォームを刷新した「Antigravity」の3本立て。上位モデル「Gemini 3.5 Pro」も来月投入する。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35247705/\"><img src=\"https://japan.cnet.com/storage/2026/05/20/b803fe82d25d12823aeea24ac13420d6/t/184/138/d/cnet-gemini-ai-1510.jpeg\" /></a>",
-    "image": "https://japan.cnet.com/storage/2026/05/20/b803fe82d25d12823aeea24ac13420d6/t/184/138/d/cnet-gemini-ai-1510.jpeg",
-    "fetched_at": "2026-05-20 07:38:31",
-    "ja_summary": "・Googleが「AIエージェント」を軸に開発者会議で新技術を多数発表。\n・24時間稼働の「Gemini Spark」や新モデル「Gemini 3.5」シリーズを展開。\n・開発プラットフォームの刷新により、コーディング分野での巻き返しを図る。"
-  },
-  {
-    "title": "OpenClawの開発者が1か月で130万ドル相当のAIトークンを使用し、AI界隈を騒然とさせた",
-    "link": "https://www.businessinsider.jp/article/2605-openclaw-peter-steinberger-ai-token-bill/",
-    "source": "Business Insider Japan",
-    "published": "Tue, 19 May 2026 22:00:00 GMT",
-    "summary": "ピーター・スタインバーガー氏は、勤務先のOpenAIが負担する、1日約2万ドルに上るトークン使用料の請求書のスクリーンショットを投稿しました。これは瞬く間に大きな話題となりました。\n天才的な開発者にとって、「AIを湯水のように使える」ことはそれ自体が企業の魅力につながる事例です。",
-    "image": "https://media.loom-app.com/loom/2026/05/19/926f1a8e-8f1c-4951-be19-6816c2e850f1/original.jpg?w=1200&amp;h=630",
-    "fetched_at": "2026-05-20 07:38:32",
-    "ja_summary": "OpenAIのエンジニアが1か月で130万ドル（約2億円）ものAI利用料を発生させ、その請求書を公開し話題となった。\n巨額の計算リソースを自由に使える環境は、優秀なエンジニアを惹きつける企業としての強力な魅力となっている。"
-  },
-  {
-    "title": "Gemini 3.5 Flash の概要",
-    "link": "https://note.com/npaka/n/n0c77f0c311ba",
-    "source": "note (npaka)",
-    "published": "Wed, 20 May 2026 06:45:32 +0900",
-    "summary": "<p id=\"9791d052-4523-4fe3-a065-923d4b09f104\" name=\"9791d052-4523-4fe3-a065-923d4b09f104\">以下の記事が面白かったので、簡単にまとめました。</p><figure id=\"8e9439bf-0aaa-4176-b5ee-907769e2798f\" name=\"8e9439bf-0aaa-4176-b5ee-907769e2798f\"><blockquote><p id=\"a2d568b2-d2ce-4833-9ed0-28d98e21d5a8\" name=\"a2d568b2-d2ce-4833-9ed0-28d98e21d5a8\"><strong>・</strong><a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/\" rel=\"nofollow noopener\" target=\"_blank\"><strong>Gemini 3.5: frontier intelligence with action</strong></a></p></blockquote>\n<figcaption></figcaption></figure><br /><a href=\"https://note.com/npaka/n/n0c77f0c311ba\">続きをみる</a>",
-    "image": "https://assets.st-note.com/production/uploads/images/277690989/rectangle_large_type_2_ded87e9edf6f990f9abfb56ea8d19efc.png?width=800",
-    "fetched_at": "2026-05-20 07:38:34",
-    "ja_summary": "・Googleの最新AIモデル「Gemini 3.5」シリーズが発表された。\n・「Gemini 3.5 Flash」は高速・低コストかつ高性能を実現し、実用性を重視。\n・従来のモデルと比較して推論能力とアクション実行能力が大幅に向上した。"
   }
 ]
