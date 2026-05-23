@@ -1,5 +1,45 @@
 [
   {
+    "title": "半導体大手クアルコムの決算が映した\"メモリー連鎖\" データセンターのAI需要が中国スマホの生産を絞らせている | 政治・経済・投資 | 東洋経済オンライン",
+    "link": "https://toyokeizai.net/articles/-/944711?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+    "source": "東洋経済オンライン",
+    "published": "Sun, 24 May 2026 07:00:00 +0900",
+    "summary": "半導体業界を揺るがす｢メモリー連鎖｣とは何か。クアルコムのチップ出荷が実需を大幅に下回る異常事態の裏には､AIデータセンター需要の急増という新たな潮流が潜んでいます。",
+    "image": "https://tk.ismcdn.jp/mwimgs/7/9/1200w/img_79af069f3f0ce6ce0a516af31d0f4d10104393.jpg?nextgen=false",
+    "fetched_at": "2026-05-24 07:35:24",
+    "ja_summary": "AIデータセンター向け半導体への需要集中が、スマホ向け供給を圧迫する「メモリー連鎖」を引き起こしている。\nクアルコムの出荷減は、AI投資の激化によって既存のスマホ向け半導体生産が後回しにされている現状を映している。\n半導体市場はAI需要を軸に構造変化しており、スマホ市場への供給懸念が強まっている。"
+  },
+  {
+    "title": "Gemini Omni の概要",
+    "link": "https://note.com/npaka/n/n7d37bbbd1681",
+    "source": "note (npaka)",
+    "published": "Wed, 20 May 2026 06:15:30 +0900",
+    "summary": "<p id=\"02c01f52-c0a3-45d9-8c40-c8b5b15fd73f\" name=\"02c01f52-c0a3-45d9-8c40-c8b5b15fd73f\">以下の記事が面白かったので、簡単にまとめました。</p><figure id=\"76720dac-790c-436c-9393-332731043a4a\" name=\"76720dac-790c-436c-9393-332731043a4a\"><blockquote><p id=\"d9f363be-4967-499c-be3a-4d0e0a82670e\" name=\"d9f363be-4967-499c-be3a-4d0e0a82670e\"><strong>・</strong><a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni/\" rel=\"nofollow noopener\" target=\"_blank\"><strong>Introducing Gemini Omni</strong></a></p></blockquote>\n<figcaption></figcaption></figure><br /><a href=\"https://note.com/npaka/n/n7d37bbbd1681\">続きをみる</a>",
+    "image": "https://assets.st-note.com/production/uploads/images/277684759/rectangle_large_type_2_444d6f0708171d591bb8fca9e0ad311d.jpeg?width=800",
+    "fetched_at": "2026-05-24 07:35:47",
+    "ja_summary": "・Googleが新しいAIモデル「Gemini Omni」を発表。\n・テキスト、音声、画像をリアルタイムで統合処理し、人間のような自然な対話を実現。\n・従来のモデルより応答速度とマルチモーダルな処理能力が大幅に向上。"
+  },
+  {
+    "title": "Grok の Hermes Agent 連携の概要",
+    "link": "https://note.com/npaka/n/nb637bcadd806",
+    "source": "note (npaka)",
+    "published": "Mon, 18 May 2026 06:37:08 +0900",
+    "summary": "<p id=\"7ae278e6-c428-4cc5-be96-263733e956de\" name=\"7ae278e6-c428-4cc5-be96-263733e956de\">「Grok」の「Hermes Agent 連携」の概要をまとめました。</p><figure id=\"f063783d-7fdb-4cb8-9177-88efd34f75e8\" name=\"f063783d-7fdb-4cb8-9177-88efd34f75e8\"><blockquote><p id=\"909c4291-14da-434e-884d-42ac9184e064\" name=\"909c4291-14da-434e-884d-42ac9184e064\"><strong>・</strong><a href=\"https://x.ai/news/grok-hermes\" rel=\"nofollow noopener\" target=\"_blank\"><strong>Connect Grok to Hermes Agent</strong></a></p></blockquote>\n<figcaption></figcaption></figure><br /><a href=\"https://note.com/npaka/n/nb637bcadd806\">続きをみる</a>",
+    "image": "https://assets.st-note.com/production/uploads/images/277042351/rectangle_large_type_2_a311ed694a14f9defb5b454fe1ae37db.png?width=800",
+    "fetched_at": "2026-05-24 07:35:47",
+    "ja_summary": "・AI「Grok」が「Hermes Agent」との連携機能に対応。\n・外部サービスやツールとの接続により、Grokの活用範囲や利便性が向上。\n・詳細は公式サイトにて公開されており、具体的な連携手順や仕様を確認可能。"
+  },
+  {
+    "title": "Karpathy CLAUDE.mdは本当に普遍解か？──Opus 4.7との構造的合致と、モデル依存性のはなし",
+    "link": "https://zenn.dev/earlgray_mk/articles/472ef76d9e9d3e",
+    "source": "Zenn Trends",
+    "published": "Sat, 23 May 2026 02:25:26 GMT",
+    "summary": "!\nこの記事は自分で調べて思ったことを元に、文章として読みやすいよう事実確認や校正などClaudeに手直ししてもらってます。\n\n\n TL;DR\n\nKarpathy CLAUDE.mdが急速に広まったのは偶然ではなく、Opus 4.7の言葉通りに解釈する挙動＋agentic stamina向上と構造的に噛み合ったから\nただし他のモデルに渡すと効き方が変わる。特に原則4（Goal-Driven Execution）はモデル依存度が高い。\nCLAUDE.mdは「コード」であり、モデルはランタイム。同じファイルでも実行環境が変われば挙動が変わる。\n組織でAI活用する場合、CLAUDE.mdを「育...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--lIm_4gkO--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Karpathy%2520CLAUDE.md%25E3%2581%25AF%25E6%259C%25AC%25E5%25BD%2593%25E3%2581%25AB%25E6%2599%25AE%25E9%2581%258D%25E8%25A7%25A3%25E3%2581%258B%25EF%25BC%259F%25E2%2594%2580%25E2%2594%2580Opus%25204.7%25E3%2581%25A8%25E3%2581%25AE%25E6%25A7%258B%25E9%2580%25A0%25E7%259A%2584%25E5%2590%2588%25E8%2587%25B4%25E3%2581%25A8%25E3%2580%2581%25E3%2583%25A2%25E3%2583%2587%25E3%2583%25AB%25E4%25BE%259D%25E5%25AD%2598%25E6%2580%25A7%25E3%2581%25AE%25E3%2581%25AF%25E3%2581%25AA%25E3%2581%2597%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%25BF%25E3%2583%25BC%25E3%2581%259F%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2Y3MjA1MWExYzEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-05-24 07:36:19",
+    "ja_summary": "・「Karpathy CLAUDE.md」が普及したのは、Claude 3 Opusの特性と論理構造が完璧に合致したため。\n・モデルごとに挙動が異なる「実行環境」のような存在であり、プロンプトをそのまま他モデルに流用しても同等の成果は得にくい。\n・組織導入時は、CLAUDE.mdを組織の「標準OS（または作法）」として継続的に育てる視点が不可欠。"
+  },
+  {
     "title": "AdventHealth advances whole-person care with OpenAI",
     "link": "https://openai.com/index/adventhealth",
     "source": "OpenAI",
@@ -958,45 +998,5 @@
     "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFtYXpvbmF3cy5jb20lMkYwJTJGMTI0OTc4JTJGcHJvZmlsZS1pbWFnZXMlMkYxNTEyNjU5Mjg3P2l4bGliPXJiLTQuMS4xJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz1jNGZjZGMyMDE2NjJhN2RkNGMzM2ZhOTJhNTc1ZTk1Mw%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Df56940c0c0eda22cc7e996b8f311d129?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9QUklRTMlODElOEMlRTUlODglODYlRTYlOUUlOTAlRTMlODElOTclRTMlODElQTYlRTMlODElOEYlRTMlODIlOEMlRTMlODIlOEIlRTYlOTklODIlRTQlQkIlQTMlRTMlODElQUIlRTMlODAlODElRTMlODElQUElRTMlODElOUMlRTMlODMlODclRTMlODMlQkMlRTMlODIlQkYlRTMlODIlQjUlRTMlODIlQTQlRTMlODIlQTglRTMlODMlQjMlRTMlODIlQjklRTMlODIlOTIlRTUlQUQlQTYlRTMlODElQjYlRTUlQkYlODUlRTglQTYlODElRTMlODElOEMlRTMlODElODIlRTMlODIlOEIlRTMlODElQUUlRTMlODElOEImdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz01YjljMmVmOGY4MjFhY2JmM2M4MjIwYzhhNDY4YTc5NQ&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBLYW5OaXNoaWRhJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9NGI5Y2U5NmI3NzU5NTY1NzBjYzE4YjY0YzI3OGFiNTQ&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=be9801f828c7e7a95c54394d1dbaa77f",
     "fetched_at": "2026-05-23 00:29:59",
     "ja_summary": "・AIが分析・洞察・レポート作成を代替する時代でも、その結果の「妥当性」や「文脈」を判断する能力は不可欠。\n・AIが出す回答の良し悪しを見抜き、ビジネス課題に合わせて正しく使いこなすためのリテラシーとしてデータサイエンスが重要。\n・ツールとしてのAIを活用し、組織やビジネスに真の価値をもたらすには、人間側がデータの本質を理解する視点が求められる。"
-  },
-  {
-    "title": "50兆円市場の米国でも水不足深刻、買収てこに大林組やクラレが救う (水が足りない　半導体・データセンターの急所、新たな商機に)",
-    "link": "https://business.nikkei.com/atcl/NBD/19/special/02503/",
-    "source": "日経ビジネス 最新",
-    "published": "",
-    "summary": "水不足やAI投資で膨らむ米国の水インフラ市場は50兆円超になる見込みだ。大林組、メタウォーター、クラレなどが現地企業の買収をてこに攻勢をかける。先を行く米国市場に入り込んで稼ぐ戦略は世界各地で応用可能だ。",
-    "image": "https://business.nikkei.com/atcl/NBD/19/special/02503/fb.jpg",
-    "fetched_at": "2026-05-22 21:25:46",
-    "ja_summary": "・米国の水インフラ市場が50兆円規模へ拡大し、水不足対策が急務となっている。\n・大林組やクラレなどは現地企業の買収により、半導体やデータセンター向けに参入。\n・米国での成功モデルを足掛かりに、世界市場への展開を加速させる戦略をとる。"
-  },
-  {
-    "title": "金融庁と日銀、AI悪用のサイバー攻撃に備え金融機関に要請",
-    "link": "https://www.watch.impress.co.jp/docs/news/2111091.html",
-    "source": "Impress Watch",
-    "published": "",
-    "summary": "金融庁と日本銀行は22日、フロンティアAIによるサイバー攻撃の脅威に対応するため、金融機関などに対する要請文書「フロンティアAIによる脅威変化を踏まえた金融機関等の短期的な対応」を公開した。",
-    "image": "https://www.watch.impress.co.jp/img/ipw/list/2111/091/01.jpg",
-    "fetched_at": "2026-05-22 21:25:52",
-    "ja_summary": "・金融庁と日銀が、AIを悪用した高度なサイバー攻撃への警戒を強化。\n・金融機関に対し、最新の脅威を見据えた短期的な対策実施を要請。\n・生成AI等の進化に伴う新たなリスクへの対応を緊急で促す内容。"
-  },
-  {
-    "title": "検索窓も25年ぶり刷新　Google検索トップに聞く「AIとエージェントと検索」の現在地",
-    "link": "https://www.watch.impress.co.jp/docs/topic/2110631.html",
-    "source": "Impress Watch",
-    "published": "",
-    "summary": "Googleの年次開発者会議「Google I/O 2026」では、エージェンティックAIからスマートグラスまで、様々なことが発表された。",
-    "image": "https://www.watch.impress.co.jp/img/ipw/list/2110/631/m00.jpg",
-    "fetched_at": "2026-05-22 21:25:53",
-    "ja_summary": "・Googleが「Google I/O 2026」でAI戦略の進化を発表。\n・25年ぶりに検索窓を刷新し、AIによる検索体験を大きく変革。\n・エージェンティックAIやスマートグラスなど、検索とAIの融合を加速。"
-  },
-  {
-    "title": "Gemini 3.5 Flash の概要",
-    "link": "https://note.com/npaka/n/n0c77f0c311ba",
-    "source": "note (npaka)",
-    "published": "Wed, 20 May 2026 06:45:32 +0900",
-    "summary": "<p id=\"9791d052-4523-4fe3-a065-923d4b09f104\" name=\"9791d052-4523-4fe3-a065-923d4b09f104\">以下の記事が面白かったので、簡単にまとめました。</p><figure id=\"8e9439bf-0aaa-4176-b5ee-907769e2798f\" name=\"8e9439bf-0aaa-4176-b5ee-907769e2798f\"><blockquote><p id=\"a2d568b2-d2ce-4833-9ed0-28d98e21d5a8\" name=\"a2d568b2-d2ce-4833-9ed0-28d98e21d5a8\"><strong>・</strong><a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/\" rel=\"nofollow noopener\" target=\"_blank\"><strong>Gemini 3.5: frontier intelligence with action</strong></a></p></blockquote>\n<figcaption></figcaption></figure><br /><a href=\"https://note.com/npaka/n/n0c77f0c311ba\">続きをみる</a>",
-    "image": "https://assets.st-note.com/production/uploads/images/277690989/rectangle_large_type_2_ded87e9edf6f990f9abfb56ea8d19efc.png?width=800",
-    "fetched_at": "2026-05-22 21:26:00",
-    "ja_summary": "Googleの最新AIモデル「Gemini 3.5」が発表されました。\n処理速度を重視した「Flash」などのモデルで性能が向上し、より複雑なタスクや推論に対応しています。\nモデルの知能と実用性が強化され、AIがユーザーの代わりにタスクを実行する能力が拡張されました。"
   }
 ]
