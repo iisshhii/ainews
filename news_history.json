@@ -1,5 +1,25 @@
 [
   {
+    "title": "Claude Code を社内導入する時の最低限ガードレール5項目 — 機密情報を漏らさない設定パターン",
+    "link": "https://qiita.com/ennagara128/items/aeaee3e64e75076503fe",
+    "source": "Qiita (Popular)",
+    "published": "2026-05-18T18:43:30+09:00",
+    "summary": "# はじめに\n\nQiita で「**Claude Code を社内で使うための『AIエージェントセキュリティ』実践編**」がトレンド入りしていました。\n\nClaude Code を組織で使い始める時、最も多い不安は **「機密情報がうっかり漏れないか」** です。\n\n実際にうちのチームで1年以上運用してきた経験から、**最低限これだけは設定しておけ** という5項目のガードレールを共有します。\n\n",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0MTU2NTc4JTJGYTgyYjkyMzUzMWRkYzIxYmZhMWY4MDhhY2QyMjM5Yzk2NjlkZjg4NSUyRnhfbGFyZ2UucG5nJTNGMTc3NjY1NTA1MT9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NGYxNjY0YWY5ZmI5NmJiZTZjYjRjMTFlMWFjNjVhNWQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D8d44234ba9198549fbf0016c0117ba44?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9Q2xhdWRlJTIwQ29kZSUyMCVFMyU4MiU5MiVFNyVBNCVCRSVFNSU4NiU4NSVFNSVCMCU4RSVFNSU4NSVBNSVFMyU4MSU5OSVFMyU4MiU4QiVFNiU5OSU4MiVFMyU4MSVBRSVFNiU5QyU4MCVFNCVCRCU4RSVFOSU5OSU5MCVFMyU4MiVBQyVFMyU4MyVCQyVFMyU4MyU4OSVFMyU4MyVBQyVFMyU4MyVCQyVFMyU4MyVBQjUlRTklQTAlODUlRTclOUIlQUUlMjAlRTIlODAlOTQlMjAlRTYlQTklOUYlRTUlQUYlODYlRTYlODMlODUlRTUlQTAlQjElRTMlODIlOTIlRTYlQkMlOEYlRTMlODIlODklRTMlODElOTUlRTMlODElQUElRTMlODElODQlRTglQTglQUQlRTUlQUUlOUElRTMlODMlOTElRTMlODIlQkYlRTMlODMlQkMlRTMlODMlQjMmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz0yNjVjMTVhY2I5NDBiZWI1MjAyZDQ1YzI3ZTY5NGQ3NA&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBlbm5hZ2FyYTEyOCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWUxNDBiMDk1ZGMwYjI5MGJlY2ZhNjZlMTM0NDk4NzVk&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=da8ce96f18c7c7adee0de53c34fe4fdf",
+    "fetched_at": "2026-05-24 02:42:45",
+    "ja_summary": "・Claude Codeの社内導入で懸念される機密情報の流出を防ぐための「最低限守るべき5つのガードレール」を解説。\n・1年以上の運用実績に基づき、安全にAIエージェントを活用するための具体的な設定パターンを提示。\n・組織での安全な導入を検討しているエンジニアや担当者向けの実践的なセキュリティ指針。"
+  },
+  {
+    "title": "社内カリキュラムが微妙だったので、「その前提知らないんだけど…」を解決する学習サイトを作った",
+    "link": "https://qiita.com/ari_init/items/d7a26696d724f6e83830",
+    "source": "Qiita (Popular)",
+    "published": "2026-05-18T14:19:50+09:00",
+    "summary": "## 「その前提知らないんだけど…」を解決するJava学習サイトを作り始めた\n![スクリーンショット 2026-05-15 14.00.08.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/4412857/46347751-9de5-4ece-82df-c89fcd835feb.png)\n\n\nhttps://tats",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGNDQxMjg1NyUyRnByb2ZpbGUtaW1hZ2VzJTJGMTc3NjgxODc1OT9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9ODMxYzU5YjM4ZmJjMThmYzVhMzU0NDM5ZGY2ZThkZmQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D16a5398244933fa2190439e3c778ca1e?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUU3JUE0JUJFJUU1JTg2JTg1JUUzJTgyJUFCJUUzJTgzJUFBJUUzJTgyJUFEJUUzJTgzJUE1JUUzJTgzJUE5JUUzJTgzJUEwJUUzJTgxJThDJUU1JUJFJUFFJUU1JUE2JTk5JUUzJTgxJUEwJUUzJTgxJUEzJUUzJTgxJTlGJUUzJTgxJUFFJUUzJTgxJUE3JUUzJTgwJTgxJUUzJTgwJThDJUUzJTgxJTlEJUUzJTgxJUFFJUU1JTg5JThEJUU2JThGJTkwJUU3JTlGJUE1JUUzJTgyJTg5JUUzJTgxJUFBJUUzJTgxJTg0JUUzJTgyJTkzJUUzJTgxJUEwJUUzJTgxJTkxJUUzJTgxJUE5JUUyJTgwJUE2JUUzJTgwJThEJUUzJTgyJTkyJUU4JUE3JUEzJUU2JUIxJUJBJUUzJTgxJTk5JUUzJTgyJThCJUU1JUFEJUE2JUU3JUJGJTkyJUUzJTgyJUI1JUUzJTgyJUE0JUUzJTgzJTg4JUUzJTgyJTkyJUU0JUJEJTlDJUUzJTgxJUEzJUUzJTgxJTlGJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9ZTQwOTZmOGNjMzA0M2I0ZWRiMDQyNTkzMmFkYTFjOWY&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBhcmlfaW5pdCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWU3NTE1YTAwOWEzZjVlOWQ5ZDA4NjdiMTdhNzg5NjMz&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=ab8915fc67df372a02240cc6fd7d6007",
+    "fetched_at": "2026-05-24 02:42:46",
+    "ja_summary": "・社内研修のカリキュラムが不十分だと感じ、Java学習の前提知識を補うためのサイトを自作した。\n・「前提知識が足りず理解できない」という受講者の悩みを解消することが狙い。\n・既存教材の不足を個人の創意工夫で改善し、学習効率を高める取り組み。"
+  },
+  {
     "title": "Oracle AI Data Platformのご紹介 (2026年5月版)",
     "link": "https://speakerdeck.com/oracle4engineer/oracle-ai-data-platformnogoshao-jie-2026nian-5yue-ban",
     "source": "Speaker Deck (Tech)",
@@ -978,25 +998,5 @@
     "image": "https://images.ctfassets.net/kftzwdyauwt9/6WJOhxvdNpC5hDvpiSAqE0/8a11ba6abdabb6a5a674de733cfa710d/SEO-Polynomial-Construction-16x9.png?w=1600&amp;h=900&amp;fit=fill",
     "fetched_at": "2026-05-22 21:26:07",
     "ja_summary": "・OpenAIのAIモデルが、80年間未解決だった数学の難問「単位距離問題」を解明。\n・離散幾何学における主要な予想が誤りであることを証明し、数学界に大きな転換点をもたらした。\n・AIが高度な数学的推論を行えることが示され、科学的発見の新たな可能性が拓かれた。"
-  },
-  {
-    "title": "SaaS で AI Agent を提供するあなたへ贈る、Bedrock AgentCore マルチテナント実装 - Runtime 編",
-    "link": "https://zenn.dev/aws_japan/articles/6640624910acc3",
-    "source": "Zenn Trends",
-    "published": "Wed, 20 May 2026 23:44:25 GMT",
-    "summary": "SaaS で AI Agent を提供するあなたへ贈る、Amazon Bedrock AgentCore マルチテナント実装 - Runtime 編\n初めまして、AWS Japan でソリューションアーキテクトをしている showish &amp; fukumo_to です。\n「テナントごとにリソースは分けた方がいいの！？」、「テナント分離ってどうすればいいの！？」 などなど、マルチテナントなサービスやシステムを開発する上で悩まれる方も多いのではないでしょうか？\n本記事では、Amazon Bedrock AgentCore Runtime を題材に、サイロモデルとプールモデルの 2 ...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--w2FbKcPj--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:SaaS%2520%25E3%2581%25A7%2520AI%2520Agent%2520%25E3%2582%2592%25E6%258F%2590%25E4%25BE%259B%25E3%2581%2599%25E3%2582%258B%25E3%2581%2582%25E3%2581%25AA%25E3%2581%259F%25E3%2581%25B8%25E8%25B4%2588%25E3%2582%258B%25E3%2580%2581Bedrock%2520AgentCore%2520%25E3%2583%259E%25E3%2583%25AB%25E3%2583%2581%25E3%2583%2586%25E3%2583%258A%25E3%2583%25B3%25E3%2583%2588%25E5%25AE%259F%25E8%25A3%2585%2520-...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:showish%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzZmZTY2NGI3N2IuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2582%25A2%25E3%2583%259E%25E3%2582%25BE%25E3%2583%25B3%2520%25E3%2582%25A6%25E3%2582%25A7%25E3%2583%2596%2520%25E3%2582%25B5%25E3%2583%25BC%25E3%2583%2593%25E3%2582%25B9%2520%25E3%2582%25B8%25E3%2583%25A3%25E3%2583%2591%25E3%2583%25B3%2520%2528%25E6%259C%2589%25E5%25BF%2597%2529%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSnRVNjBpSkV1OUV3R1NSdklLTE81eGhQLW50N0hYOGUwNWprNGFTVmd3NzBORHFBPXMyNTAtYw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-    "fetched_at": "2026-05-22 21:26:25",
-    "ja_summary": "SaaS型AIエージェント開発における、Amazon Bedrock AgentCoreのマルチテナント実装（ランタイム編）を解説。\nテナント分離に悩む開発者向けに、リソース管理の「サイロモデル」と「プールモデル」の選び方と実装方法を提示。\nシステム設計の指針として、最適な分離戦略と効率的な開発手法が学べる内容。"
-  },
-  {
-    "title": "Kiro WebとClaude CodeでReactアプリをさくっとデプロイ！",
-    "link": "https://speakerdeck.com/kubomasataka/kiro-webtoclaude-codedereactapuriwosakututodepuroi",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-05-22T07:34:46-04:00",
-    "summary": "",
-    "image": "https://files.speakerdeck.com/presentations/9f69b12b5111447ca5a3d8e6bbab6e2e/preview_slide_0.jpg?39481444",
-    "fetched_at": "2026-05-22 21:26:26",
-    "ja_summary": "AI開発ツール「Kiro Web」と「Claude Code」を組み合わせることで、Reactアプリの構築からデプロイまでの工程を大幅に効率化できる。\n複雑な作業をAIが自動化・支援するため、開発スピードの向上が期待できる。\nエンジニアの工数を削減し、迅速なアプリ公開を実現する新たな開発手法。"
   }
 ]
