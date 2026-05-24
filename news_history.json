@@ -1,5 +1,75 @@
 [
   {
+    "title": "Google Flow ・ Flow Music の新機能 - Gemini Omni ・ エージェント ・ モバイルアプリ",
+    "link": "https://note.com/npaka/n/n47ffe842981b",
+    "source": "note (npaka)",
+    "published": "Wed, 20 May 2026 07:27:00 +0900",
+    "summary": "<p id=\"c99fd941-9236-4824-8023-6112d4f8de3f\" name=\"c99fd941-9236-4824-8023-6112d4f8de3f\">以下の記事が面白かったので、簡単にまとめました。</p><figure id=\"790e2fb3-e185-47c0-bee6-24a56686591b\" name=\"790e2fb3-e185-47c0-bee6-24a56686591b\"><blockquote><p id=\"725b6c6e-b748-44af-8e07-c46ab942f0fa\" name=\"725b6c6e-b748-44af-8e07-c46ab942f0fa\"><strong>・</strong><a href=\"https://blog.google/innovation-and-ai/models-and-research/google-labs/flow-updates/\" rel=\"nofollow noopener\" target=\"_blank\"><strong>New agents, mobile apps and Gemini Omni for Google Flow and Google Flow Music</strong></a></p></blockquote>\n<figcaption></figcaption></figure><br /><a href=\"https://note.com/npaka/n/n47ffe842981b\">続きをみる</a>",
+    "image": "https://assets.st-note.com/production/uploads/images/277705615/rectangle_large_type_2_3637bf6e0fee8fb563c4076e6dfcd571.png?width=800",
+    "fetched_at": "2026-05-24 17:19:40",
+    "ja_summary": "Googleの実験的プロジェクト「Flow」に、高速なAIモデル「Gemini Omni」や自律的なエージェント機能、専用モバイルアプリが導入されました。\n音楽生成ツール「Flow Music」においても同様のアップデートが行われ、より直感的かつ多機能な制作環境へ進化しています。\nAIを活用した新しい創作・タスク自動化の体験が、より手軽で高度なものへと改善されました。"
+  },
+  {
+    "title": "AI搭載のエクソスケルトン「Hypershell Xシリーズ」新型3モデルが発売　TUV認証取得の世界初モデルも",
+    "link": "https://www.techno-edge.net/article/2026/05/24/5096.html",
+    "source": "TechnoEdge",
+    "published": "Sun, 24 May 2026 15:00:03 +0900",
+    "summary": "ウェアラブル外骨格メーカーのHypershellは、AI駆動の動作制御アルゴリズム「HyperIntuition」を搭載したエクソスケルトン（外骨格）新製品「New Hypershell Xシリーズ」3モデルを発表し、米国など9か国で販売を開始しました（日本では未発表）。",
+    "image": "https://www.techno-edge.net/imgs/rss/31603.jpg",
+    "fetched_at": "2026-05-24 17:19:46",
+    "ja_summary": "・AI制御アルゴリズム搭載の新型外骨格「Hypershell Xシリーズ」3モデルが発売。\n・TUV認証を世界で初めて取得した安全性の高い設計。\n・米国など9か国で販売開始（日本展開は未定）。"
+  },
+  {
+    "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
+    "link": "https://openai.com/index/gartner-2026-agentic-coding-leader",
+    "source": "OpenAI",
+    "published": "Fri, 22 May 2026 00:00:00 GMT",
+    "summary": "OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/hr58rtMzlkB728iDsV145/66097583e92664b8009d3f9f9d106c05/Gartner-MQ-SEO.png?w=1600&amp;h=900&amp;fit=fill",
+    "fetched_at": "2026-05-24 17:19:47",
+    "ja_summary": "・OpenAIがガートナーの「企業向けAIコーディングエージェント」分野でリーダーに選出\n・AIモデル「Codex」の革新性と、大規模な企業導入への対応力が高く評価\n・企業開発現場におけるAI活用支援において、業界の先駆者としての地位を確立"
+  },
+  {
+    "title": "【アーキテクチャ】大量の類似 Feature を持つ Enterprise なフロントエンド設計",
+    "link": "https://zenn.dev/yuitonn/articles/f88ddcf21ce172",
+    "source": "Zenn Trends",
+    "published": "Sat, 23 May 2026 17:17:57 GMT",
+    "summary": "はじめに\nReactのフロントエンド開発において、似たような画面が増えてくると必ずぶつかる問題があります。「ほぼ同じコードが複数箇所に存在する」「新しい画面を追加するたびに同じ作業が繰り返される」—この問題に対して、共通コンポーネントや既存のデザインパターンでは解決しきれないケースがあります。\nこの記事では、その問題を解決する『Feature Registry パターン』を紹介します。\n具体的な実装例を交えながら、このパターンの考え方とメリット、そしてAI時代のフロントエンド設計との関係まで掘り下げます。\n!\nこのパターンはServer-Driven UIと混同されますが、思想が異な...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--2HRV4du6--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590%25E3%2582%25A2%25E3%2583%25BC%25E3%2582%25AD%25E3%2583%2586%25E3%2582%25AF%25E3%2583%2581%25E3%2583%25A3%25E3%2580%2591%25E5%25A4%25A7%25E9%2587%258F%25E3%2581%25AE%25E9%25A1%259E%25E4%25BC%25BC%2520Feature%2520%25E3%2582%2592%25E6%258C%2581%25E3%2581%25A4%2520Enterprise%2520%25E3%2581%25AA%25E3%2583%2595%25E3%2583%25AD%25E3%2583%25B3%25E3%2583%2588%25E3%2582%25A8%25E3%2583%25B3%25E3%2583%2589%25E8%25A8%25AD%25E8%25A8%2588%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%2524_cat%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzUyMDA0MTkyNjYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-05-24 17:20:02",
+    "ja_summary": "・React開発で多発する「類似画面のコード重複」を解決する新手法「Feature Registry パターン」を解説。\n・共通コンポーネントで管理しきれない複雑な画面構成を、効率的かつ柔軟に設計可能。\n・Server-Driven UIとは異なる、AI時代の開発を見据えたフロントエンド設計思想を提示。"
+  },
+  {
+    "title": "AIコーディングエージェントの本当の攻撃面は設定ファイルだった",
+    "link": "https://zenn.dev/ju571n/articles/ai-agent-config-attack-surface",
+    "source": "Zenn Trends",
+    "published": "Sat, 23 May 2026 11:51:21 GMT",
+    "summary": "AIコーディングエージェント（Claude Code、Cursor、Gemini CLI など）のセキュリティリスクというと、「モデルが暴走して危険なコマンドを実行する」話を想像しがちです。ですが、この数ヶ月で実際に報告された深刻な事例は、どれもモデルが原因ではありませんでした。起点はすべて設定ファイルです。\nこの記事では TrustFall と AWS Kiro の事例から「設定ファイルがなぜ攻撃面になるのか」を見たうえで、その対策として作った OSS ツール Sigil を紹介します。\n\n 事例1：cloneして開くだけでRCE（TrustFall）\n2026年5月に Adversa...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--gP7piNjo--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2587%25E3%2582%25A3%25E3%2583%25B3%25E3%2582%25B0%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588%25E3%2581%25AE%25E6%259C%25AC%25E5%25BD%2593%25E3%2581%25AE%25E6%2594%25BB%25E6%2592%2583%25E9%259D%25A2%25E3%2581%25AF%25E8%25A8%25AD%25E5%25AE%259A%25E3%2583%2595%25E3%2582%25A1%25E3%2582%25A4%25E3%2583%25AB%25E3%2581%25A0%25E3%2581%25A3%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Justin%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jTC1aVHhfWEZ4QXZDcHZOeklXWTI5Mzl3aFRtektISEpRaE1IT1g3aHp1M0tTa1l2dz1zMjUwLWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-05-24 17:20:03",
+    "ja_summary": "・AIコーディングエージェントの真の脅威はモデルではなく、設定ファイルを悪用した攻撃にある。\n・リポジトリを開くだけで実行されるコード（RCE）など、設定ファイル経由の脆弱性が実害をもたらしている。\n・セキュリティ対策として、設定ファイルの安全性を検証するOSSツール「Sigil」が有効である。"
+  },
+  {
+    "title": "トークン84%減 + 長時間連続自走を実現したAIワーカーのCycle運用 (Codex CLI)",
+    "link": "https://zenn.dev/marvelousu/articles/codex-cli-cycle-ops",
+    "source": "Zenn Trends",
+    "published": "Sat, 23 May 2026 09:13:41 GMT",
+    "summary": "本記事は、個人開発中の HD-2D 探索アクションアドベンチャー Anemora の制作で組んでいる、Codex CLI のサブエージェント運用パターン「Cycle」の設計と数値結果を扱います。AI 協働のセッション間同期については先行記事 (Codex CLIの同期設計) を参照してください。\n\n\n TL;DR\n\n1 つの実装サイクルを「parent (gpt-5.5) が手順書を書く → cycle-worker サブエージェント (gpt-5.4-mini) が 1 ファイル (+ 明示した関連ファイル) を実装 → 4 フェーズのバッチで自動 commit/push」という形に...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--rajTxjgA--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2588%25E3%2583%25BC%25E3%2582%25AF%25E3%2583%25B384%2525%25E6%25B8%259B%2520%252B%2520%25E9%2595%25B7%25E6%2599%2582%25E9%2596%2593%25E9%2580%25A3%25E7%25B6%259A%25E8%2587%25AA%25E8%25B5%25B0%25E3%2582%2592%25E5%25AE%259F%25E7%258F%25BE%25E3%2581%2597%25E3%2581%259FAI%25E3%2583%25AF%25E3%2583%25BC%25E3%2582%25AB%25E3%2583%25BC%25E3%2581%25AECycle%25E9%2581%258B%25E7%2594%25A8%2520%2528Codex%2520CLI%2529%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Tom%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzZmOWVjOTE5YjEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-05-24 17:20:03",
+    "ja_summary": "・AI開発ツール「Codex CLI」を用い、GPT-5.5が計画し、軽量版が個別実装する分業体制を構築。\n・AIによる実装サイクルを自動化し、トークン消費量を84%削減しつつ長時間連続稼働を実現。\n・個人制作ゲーム開発において、AIとの協働効率を大幅に高めるワークフローを確立した。"
+  },
+  {
+    "title": "Wallet numérique & notions de cryptographie pour une souveraineté individuelle",
+    "link": "https://speakerdeck.com/rlifchitz/wallet-numerique-and-notions-de-cryptographie-pour-une-souverainete-individuelle",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-05-24T04:04:44-04:00",
+    "summary": "",
+    "image": "https://files.speakerdeck.com/presentations/a4ed2d0350304b95b2d9c74841976930/preview_slide_0.jpg?39497610",
+    "fetched_at": "2026-05-24 17:20:05",
+    "ja_summary": "・デジタルウォレットの活用と暗号技術の習得が、個人のデータ主権を守る鍵となる。\n・中央集権的なサービスに依存せず、自ら資産や情報を管理する重要性が高まっている。\n・個人の主権を確立するためには、技術的リテラシーの向上が不可欠である。"
+  },
+  {
     "title": "《30代男子の推し活リノベ》築50年･48平米の中古マンションを｢Kawaii空間｣に　ピンク主役の\"趣味全開\"部屋にSNS15万いいね！ | ライフ | 東洋経済オンライン",
     "link": "https://toyokeizai.net/articles/-/945294?utm_source=rss&utm_medium=http&utm_campaign=link_back",
     "source": "東洋経済オンライン",
@@ -928,75 +998,5 @@
     "image": "https://files.speakerdeck.com/presentations/b5b2150ee9fa47ed8f7862a9d236b16d/preview_slide_0.jpg?39485150",
     "fetched_at": "2026-05-23 05:47:24",
     "ja_summary": "・セキュリティ勉強会「Security.any #10」にて登壇した、AIとセキュリティをテーマにしたLT資料。\n・「愛（AI）したセキュリティ」をコンセプトに、セキュリティ実務におけるAI活用や考察を展開。\n・イベント登壇スライドがConnpassにて公開中。"
-  },
-  {
-    "title": "Spotify、AIでカバー・リミックス作成ツールを有料提供へ。UMGと提携",
-    "link": "https://www.techno-edge.net/article/2026/05/22/5087.html",
-    "source": "TechnoEdge",
-    "published": "Fri, 22 May 2026 06:30:02 +0900",
-    "summary": "SpotifyとUniversal Music Group（UMG）は、録音音楽および音楽出版に関するライセンス契約を締結し、ファンがアーティストや作詞作曲家の楽曲をもとにAIでカバーやリミックスを作成できる新ツールを提供すると発表しました。",
-    "image": "https://www.techno-edge.net/imgs/rss/31543.jpg",
-    "fetched_at": "2026-05-23 04:10:59",
-    "ja_summary": "・SpotifyとUMGがライセンス契約を締結。\n・AIを活用し、楽曲のカバーやリミックスを作成できるツールを開発。\n・新ツールは有料機能として提供される予定。"
-  },
-  {
-    "title": "Widening the conversation on frontier AI",
-    "link": "https://www.anthropic.com/news/widening-conversation-ai",
-    "source": "Anthropic (News)",
-    "published": "Tue, 19 May 2026 00:00:00 +0000",
-    "summary": "Widening the conversation on frontier AI",
-    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20Chat&amp;backgroundColor=sky",
-    "fetched_at": "2026-05-23 04:11:09",
-    "ja_summary": "・最先端AI（フロンティアAI）に関する議論の対象を多方面に拡大する動きが加速。\n・専門家だけでなく多様なステークホルダーを巻き込み、リスクと機会の包括的な検討を目指す。\n・AIの社会的影響やガバナンス構築に向け、議論の質と範囲の向上が求められている。"
-  },
-  {
-    "title": "GoogleのModern Web Guidanceに学ぶ、モダンCSSのDos / Don'ts大全",
-    "link": "https://zenn.dev/ubie_dev/articles/modern-css-dos-donts",
-    "source": "Zenn Trends",
-    "published": "Thu, 21 May 2026 07:31:37 GMT",
-    "summary": "Googleがリリースした「Modern Web Guidance」スキルを使うと、AIエージェントが最新のWeb機能でコードを書けるようになります。\nhttps://zenn.dev/ubie_dev/articles/modern-web-guidance\nスキルが参照するガイドラインはMarkdownで書かれており、Googleが推奨するWeb開発のDos / Don'ts、つまり「やるべきこと・やってはいけないこと」がまとまっています。Googleお墨付きの、モダンなフロントエンド開発の知見が詰まっています。AIエージェントを使う・使わないにかかわらず、ウェブ技術の勉強に使った...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--99dbMdAp--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Google%25E3%2581%25AEModern%2520Web%2520Guidance%25E3%2581%25AB%25E5%25AD%25A6%25E3%2581%25B6%25E3%2580%2581%25E3%2583%25A2%25E3%2583%2580%25E3%2583%25B3CSS%25E3%2581%25AEDos%2520%252F%2520Don%2527ts%25E5%25A4%25A7%25E5%2585%25A8%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E9%25B9%25BF%25E9%2587%258E%2520%25E5%25A3%25AE%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2VlOWMzMWRhODMuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Ubie%2520%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2hwRUMxbUtjVjZsX01lT2R6N1Nsejk1SXR4WUZoYjB2LTNOdzNjV3c9czI1MC1j%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-    "fetched_at": "2026-05-23 04:11:25",
-    "ja_summary": "Googleが公開した「Modern Web Guidance」は、最新のWeb開発における推奨手法（Dos/Don'ts）をまとめたガイドラインです。\nAIエージェントに読み込ませることで、Google基準に準拠した高品質なコード生成が可能になります。\nAI活用有無を問わず、モダンなフロントエンド開発の知見を学べる学習リソースとしても有効です。"
-  },
-  {
-    "title": "【PDF圧縮】約40年続く業界標準Ghostscriptを、Rust 自前実装で抜いた話",
-    "link": "https://zenn.dev/ikora/articles/b50ca6275eddc9",
-    "source": "Zenn Trends",
-    "published": "Thu, 21 May 2026 05:50:24 GMT",
-    "summary": "はじめに\n皆さん如何お過ごしでしょうか？\n最近はどの技術記事もAI一色で食傷気味の長嶋です。\nさて本日は、個人開発しているデスクトップアプリ Karui に PDF 圧縮機能を載せてみたら意外と深い穴にハマったので、 その記録です。\nhttps://karui.app/ja\nちなみにこのKaruiは Tauri v2で実装されており、Win/Mac両対応のデスクトップ画像圧縮アプリです。Tauriについては以前の記事で書いております。\nhttps://zenn.dev/genshi_ai/articles/fa96e541c480d2\nそして最初に結論。\n\n8 種類のテスト PDF（...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--dlK3sp5X--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590PDF%25E5%259C%25A7%25E7%25B8%25AE%25E3%2580%2591%25E7%25B4%258440%25E5%25B9%25B4%25E7%25B6%259A%25E3%2581%258F%25E6%25A5%25AD%25E7%2595%258C%25E6%25A8%2599%25E6%25BA%2596Ghostscript%25E3%2582%2592%25E3%2580%2581Rust%2520%25E8%2587%25AA%25E5%2589%258D%25E5%25AE%259F%25E8%25A3%2585%25E3%2581%25A7%25E6%258A%259C%25E3%2581%2584%25E3%2581%259F%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%25A0%25E3%2581%2584%25E3%2581%25A1%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzkyN2VkMjFjNDEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-    "fetched_at": "2026-05-23 04:11:26",
-    "ja_summary": "・デスクトップアプリ「Karui」にPDF圧縮機能を実装する際、Rustによる自前実装で業界標準の「Ghostscript」を上回る圧縮率を実現。\n・既存ツールの制約や課題を解消するため、Rustの特性を活かした独自開発の過程と成果を解説。\n・画像圧縮アプリの機能拡張を通じて、開発技術の深掘りと最適化のノウハウを共有。"
-  },
-  {
-    "title": "トヨタ･半導体に水不足／丸紅、「しくじりデータベース」／配信サービス乱立で混乱（2026年5月22日版） (日経ビジネスAUDIOモーニング)",
-    "link": "https://business.nikkei.com/atcl/audio/22/00001/052100880/",
-    "source": "日経ビジネス 最新",
-    "published": "",
-    "summary": "［新連載］トヨタ･半導体に忍び寄る水不足　2040年、河川施設6割老朽化／丸紅、「しくじりデータベース」公開　過去の投資失敗、AI活用で教訓化／NHKがNetflixに番組提供へ、乱立する配信サービス　視聴者は混乱、他",
-    "image": "https://business.nikkei.com/atcl/audio/22/00001/052100880/fb.jpg",
-    "fetched_at": "2026-05-23 02:23:47",
-    "ja_summary": "・トヨタは2040年を見据えた半導体製造のインフラ老朽化と水不足リスクに直面。\n・丸紅が過去の投資失敗をAIで分析し、教訓をデータベース化して公開。\n・NHKがNetflixへ番組提供を開始するなど、配信サービスの乱立で視聴環境が変容。"
-  },
-  {
-    "title": "丸紅、「しくじりデータベース」公開　過去の投資失敗、AI活用で教訓化 (人的資本の現場から)",
-    "link": "https://business.nikkei.com/atcl/gen/19/00636/052100090/",
-    "source": "日経ビジネス 最新",
-    "published": "",
-    "summary": "丸紅や味の素グループが、社内の失敗事例の社内公開化を進めている。社員の挑戦をたたえつつ、失敗事例を会社全体で、成長するための有益な資産とできるかが、企業の競争力を左右し始めている。",
-    "image": "https://business.nikkei.com/atcl/gen/19/00636/052100090/fb.jpg",
-    "fetched_at": "2026-05-23 02:23:48",
-    "ja_summary": "・丸紅などが過去の投資失敗事例を「データベース化」し社内共有を開始。\n・失敗を隠さず資産として活用することで、組織の成長と教訓化を促進。\n・失敗を許容し学習する企業文化が、現代の競争力強化に不可欠となっている。"
-  },
-  {
-    "title": "素材を生かした意匠性と調湿・消臭性を備えた内装材",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00120/01020/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "DAIKENは、木目柄や石目柄など素材の表情を引き出した意匠性と調湿・消臭性を備えた内装材「エアセレーノ」を2026年3月に発売した。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/00120/01020/sns.jpg?20220512",
-    "fetched_at": "2026-05-23 02:23:53",
-    "ja_summary": "DAIKENは、高い意匠性と調湿・消臭機能を両立した内装材「エアセレーノ」を2026年3月に発売。\n木目や石目の素材感を活かしたデザインで、快適な室内空間を実現する。"
   }
 ]
