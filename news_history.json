@@ -1,5 +1,35 @@
 [
   {
+    "title": "DevOps を閉じる ―― オブザーバビリティとは何か",
+    "link": "https://zenn.dev/ntk221/articles/ff6f235208cfcd",
+    "source": "Zenn Trends",
+    "published": "Sun, 24 May 2026 06:55:30 GMT",
+    "summary": "はじめに\n2026年1月、Charity Majors が Honeycomb のブログに一本の記事を投げ込んだ。タイトルは \"You Had One Job\": Why Twenty Years of DevOps Has Failed to Do it。彼女はこのテーマを、書籍 Observability Engineering 第2版(O'Reilly Early Release)でも詳しく展開している。本稿では両者から引用する。\n冒頭の一文はこうだ。\n\nI think the entire DevOps movement was a mighty, twenty year b...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--mFbGjjlD--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:DevOps%2520%25E3%2582%2592%25E9%2596%2589%25E3%2581%2598%25E3%2582%258B%2520%25E2%2580%2595%25E2%2580%2595%2520%25E3%2582%25AA%25E3%2583%2596%25E3%2582%25B6%25E3%2583%25BC%25E3%2583%2590%25E3%2583%2593%25E3%2583%25AA%25E3%2583%2586%25E3%2582%25A3%25E3%2581%25A8%25E3%2581%25AF%25E4%25BD%2595%25E3%2581%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:ntk%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2I0MmZiYzVlOTkuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-05-24 20:47:49",
+    "ja_summary": "・過去20年のDevOpsの取り組みは、本来の目的を達成できず失敗したと指摘されている。\n・システム運用の本質的な解決策として、単なる監視を超えた「オブザーバビリティ（可観測性）」の重要性が強調されている。\n・ソフトウェア開発と運用のあり方を再定義し、真のエンジニアリング文化へ移行する必要性を説いている。"
+  },
+  {
+    "title": "AI エージェントで意思決定を加速する ─ Power Platform × Copilot Studio × DecisionFlow",
+    "link": "https://zenn.dev/minoru365/articles/decisionflow-hackathon-2026",
+    "source": "Zenn Trends",
+    "published": "Sat, 23 May 2026 16:00:29 GMT",
+    "summary": "!\n本記事は Microsoft Agent Hackathon 2026 への応募作品として執筆しました。\n\n\n はじめに ─ AI 時代の最後のボトルネックは「意思決定」だ\nAI エージェントとエージェントワークフローが普及し、個人・チームのアウトプット速度と品質は劇的に上がりつつある。\n提案書は AI が書く。コードは AI が生成する。分析は AI が即時に出力する。\nしかし「その提案を承認するか」「この案件を進めるか」─ 判断だけが人間のペースで止まり続ける。\nAI がどれだけ速くアウトプットを出しても、意思決定が詰まれば組織全体のスループットは上がらない。\nアウトプットの加速...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--G6AcWK1j--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%2520%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588%25E3%2581%25A7%25E6%2584%258F%25E6%2580%259D%25E6%25B1%25BA%25E5%25AE%259A%25E3%2582%2592%25E5%258A%25A0%25E9%2580%259F%25E3%2581%2599%25E3%2582%258B%2520%25E2%2594%2580%2520Power%2520Platform%2520%25C3%2597%2520Copilot%2520Studio%2520%25C3%2597%2520D...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%25BF%25E3%2581%25AE%25E3%2582%258B%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSzZEMXFNWWtjeFlwb3pTM1BzaXFCdTBXRWpjTXAtZnRBR1dFQU03aU1RQUVvbzU3SlA9czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-05-24 20:47:50",
+    "ja_summary": "AIによる作業効率化が進む中、最後のボトルネックである「人間の意思決定」をAIエージェントで加速させる手法を提案。\nPower Platform、Copilot Studio、DecisionFlowを統合し、承認や判断のプロセスを自動化することで組織全体の生産性を向上させる。\nMicrosoft Agent Hackathon 2026に向けた、意思決定の高速化を実現するワークフロー構築の取り組み。"
+  },
+  {
+    "title": "Claude Codeのスキルが毎日勝手に改善されていく仕組みを作った",
+    "link": "https://zenn.dev/sonicgarden/articles/claude-code-self-improving-loop",
+    "source": "Zenn Trends",
+    "published": "Sat, 23 May 2026 15:00:05 GMT",
+    "summary": "この記事は Claude on SonicGarden の記事です。ソニックガーデンのプログラマが、Claude Codeの活用について書いています。#claude_on_sonicgarden\n\n\n きっかけ\n最近は dev-workflow というスキルでワークフロー化された開発をしているのですが、開発が一段落するたびに「今回の dev-workflow のここが微妙だったな」と感じる箇所を直してから次のタスクに行く、という流れを毎回繰り返していることに気づきました。\nそんな時に Claude Code の Routines が発表されて、これ使えば dev-workflow の改...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--hK7bYvyS--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%25E3%2581%25AE%25E3%2582%25B9%25E3%2582%25AD%25E3%2583%25AB%25E3%2581%258C%25E6%25AF%258E%25E6%2597%25A5%25E5%258B%259D%25E6%2589%258B%25E3%2581%25AB%25E6%2594%25B9%25E5%2596%2584%25E3%2581%2595%25E3%2582%258C%25E3%2581%25A6%25E3%2581%2584%25E3%2581%258F%25E4%25BB%2595%25E7%25B5%2584%25E3%2581%25BF%25E3%2582%2592%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:hiropon%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzQ3ZjRiNGZjZmIuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E6%25A0%25AA%25E5%25BC%258F%25E4%25BC%259A%25E7%25A4%25BE%25E3%2582%25BD%25E3%2583%258B%25E3%2583%2583%25E3%2582%25AF%25E3%2582%25AC%25E3%2583%25BC%25E3%2583%2587%25E3%2583%25B3%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzkwNWViODQ2NzMuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+    "fetched_at": "2026-05-24 20:47:50",
+    "ja_summary": "開発時のワークフローで感じた小さな不満を毎回修正する習慣を、Claude Codeの「Routines」機能で自動化・定型化。\n業務の振り返り内容を継続的に改善スキルへ反映させる仕組みを構築し、開発効率を向上させた。"
+  },
+  {
     "title": "トヨタ･半導体に水不足／丸紅、「しくじりデータベース」／配信サービス乱立で混乱（2026年5月22日版） (日経ビジネスAUDIOモーニング)",
     "link": "https://business.nikkei.com/atcl/audio/22/00001/052100880/",
     "source": "日経ビジネス 最新",
@@ -968,35 +998,5 @@
     "image": "https://media.loom-app.com/loom/2026/05/10/0586ae03-774d-4d99-a81c-05257f86da5d/original.jpg?w=1200&amp;h=630",
     "fetched_at": "2026-05-23 09:15:42",
     "ja_summary": "・FIRE達成者は、家計を大きく圧迫する「住居・交通・食費」等の三大支出の最適化を最優先している。\n・大きな支出をコントロールできれば、日々の細かな節約ストレスから解放され、資産形成が加速する。"
-  },
-  {
-    "title": "AIでベーグル店の宣伝をした。すると星1つのレビューが付き始めた",
-    "link": "https://www.businessinsider.jp/article/2605bagel-shop-owner-removes-ai-social-media-marketing/",
-    "source": "Business Insider Japan",
-    "published": "Thu, 21 May 2026 21:50:00 GMT",
-    "summary": "マイヤーズ・ベーグルズのアダム・ジョーンズ氏はAIでSNS投稿を編集しましたが、批判を受けて謝罪しました。ただしAI自体には反対していません。",
-    "image": "https://media.loom-app.com/loom/2026/05/20/46ec09ec-bfe3-4d4c-9985-ca298c3f141b/original.jpg?w=1200&amp;h=630",
-    "fetched_at": "2026-05-23 08:05:21",
-    "ja_summary": "・ベーグル店がAIで作成した宣伝投稿に対し、不自然さへの批判が殺到。\n・店側は謝罪したものの、AI活用自体を否定する姿勢は示していない。\n・生成AI利用時の「違和感」が、ブランドイメージに悪影響を及ぼした事例。"
-  },
-  {
-    "title": "生成AIで津田健次郎さん模倣 提訴",
-    "link": "https://news.yahoo.co.jp/pickup/6581302?source=rss",
-    "source": "Yahoo!ニュース IT・科学",
-    "published": "Fri, 22 May 2026 22:18:33 GMT",
-    "summary": "",
-    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/5/23/97bdbaf9ca4d3160c95cad3cb36b2e382b2e40614a65878781ebcd9535869f35.jpg",
-    "fetched_at": "2026-05-23 08:05:23",
-    "ja_summary": "・生成AIで声優・津田健次郎さんの声を無断で複製・利用したとして、本人が開発者らを提訴。\n・AIによる声の模倣を巡る法的責任を問う、国内初の試金石となる重要訴訟。\n・AI技術の悪用に対する権利保護のあり方が今後大きく議論される見通し。"
-  },
-  {
-    "title": "L.トーバルズ氏、「AIには愛も憎しみもある」と明かす",
-    "link": "https://japan.zdnet.com/article/35247851/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "「Linux」の生みの親は、プログラマーにとってAIが「諸刃の剣」だと見なしている。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35247851/\"><img src=\"https://japan.zdnet.com/storage/2026/05/21/280aa5b017d4c19c3cd1cc4d28b6ce6b/t/184/138/d/linus-and-dirk-20260520_l.jpg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2026/05/21/280aa5b017d4c19c3cd1cc4d28b6ce6b/t/184/138/d/linus-and-dirk-20260520_l.jpg",
-    "fetched_at": "2026-05-23 08:05:26",
-    "ja_summary": "Linux生みの親リーナス・トーバルズ氏は、AIをプログラミングにおける「諸刃の剣」と評価した。\n同氏はAIに愛着と嫌悪の両方の感情を抱いており、技術の二面性を強調している。"
   }
 ]
