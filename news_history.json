@@ -1,5 +1,85 @@
 [
   {
+    "title": "50兆円市場の米国も水不足、大林組やクラレが買収で狙うインフラやPFAS特需 (水が足りない)",
+    "link": "https://business.nikkei.com/atcl/gen/19/00877/052000002/",
+    "source": "日経ビジネス 最新",
+    "published": "",
+    "summary": "水不足とAI投資で、米国の水関連市場が50兆円超に膨らむ。大林組、メタウォーター、クラレ、荏原は現地買収をてこに、再生水やPFAS、データセンター需要を取り込む。",
+    "image": "https://business.nikkei.com/atcl/gen/19/00877/052000002/fb.jpg",
+    "fetched_at": "2026-05-26 00:34:17",
+    "ja_summary": "・米国で水不足とAI投資により水関連市場が50兆円規模に急拡大。\n・大林組やクラレなど日本企業が現地買収で参入を加速。\n・再生水、PFAS除去、データセンター向けインフラ需要を取り込む。"
+  },
+  {
+    "title": "ローカルLLMを使って得られる、5つのメリットを把握しよう",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03600/042100001/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "「ローカルLLM」とは、手元のパソコンなどで大規模言語モデル（LLM）を動かし、ChatGPTやGeminiのような生成AIのサービスを実現するシステムのことです。現在、エンジニアを中心に流行しています。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03600/042100001/topm.jpg?20220512",
+    "fetched_at": "2026-05-26 00:34:21",
+    "ja_summary": "・ローカルLLMは、PC内で直接AIを動かす技術でエンジニアを中心に普及中。\n・外部サーバーを介さないため、高い機密性とセキュリティを確保できる。\n・通信環境に依存せず、コストを抑えて自由に生成AIを活用可能。"
+  },
+  {
+    "title": "HDD「100TB超」時代へ　3社のロードマップ、熱アシスト＋αで容量競争",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11714/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "生成AI（人工知能）の需要急拡大によって、「ニアライン」と呼ばれるデータセンターなどに向けたHDD（ハードディスクドライブ）市場が再成長している。大規模なAIモデルの学習に必要な膨大なデータを保持するために、データセンターなどではストレージ容量の拡張が急務になっているからだ。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11714/topm.jpg?20220512",
+    "fetched_at": "2026-05-26 00:34:22",
+    "ja_summary": "・生成AIの普及でデータセンターの保存需要が急増し、HDD市場が再成長している。\n・ストレージ増設が急務となる中、HDDメーカー3社が容量100TB超えを目指す。\n・熱アシスト技術などを駆使し、大容量化に向けた激しい競争が加速している。"
+  },
+  {
+    "title": "OpenClaw 入門 (1) - 概要",
+    "link": "https://note.com/npaka/n/n562ebadce4b5",
+    "source": "note (npaka)",
+    "published": "Sat, 23 May 2026 11:02:42 +0900",
+    "summary": "<p id=\"5a9e43ea-348e-4386-ba29-a63cca44347e\" name=\"5a9e43ea-348e-4386-ba29-a63cca44347e\">「OpenClaw」とは何かを、ChatGPTとの違いから「常駐AI秘書」の仕組みとして解説します。</p><br /><br /><a href=\"https://note.com/npaka/n/n562ebadce4b5\">続きをみる</a>",
+    "image": "https://assets.st-note.com/production/uploads/images/278657559/rectangle_large_type_2_7430c909fd6558a0a72e07772658f672.png?width=800",
+    "fetched_at": "2026-05-26 00:34:30",
+    "ja_summary": "「OpenClaw」は、ChatGPTとは異なる「常駐型のAI秘書」として設計されたツールです。\n本記事では、その基本的な仕組みと概念について初心者向けに解説しています。"
+  },
+  {
+    "title": "Introducing OpenAI for Singapore",
+    "link": "https://openai.com/index/introducing-openai-for-singapore",
+    "source": "OpenAI",
+    "published": "Tue, 19 May 2026 20:30:00 GMT",
+    "summary": "OpenAI for Singapore launches a multi-year AI partnership to expand deployment, build local talent, and support businesses and public services with AI.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/7aPpcq7lYKo3JZBg2cAti2/40c003351401ac4d87962c84e8b93f67/release-og-frame-1.png?w=1600&amp;h=900&amp;fit=fill",
+    "fetched_at": "2026-05-26 00:34:37",
+    "ja_summary": "・OpenAIがシンガポールと複数年のAIパートナーシップを締結。\n・AI技術の導入拡大、現地の人材育成、企業や公共サービスの支援を推進。\n・シンガポールを拠点としたAI活用とエコシステムの構築を強化。"
+  },
+  {
+    "title": "Anthropic forms $200 million partnership with the Gates Foundation",
+    "link": "https://www.anthropic.com/news/gates-foundation-partnership",
+    "source": "Anthropic (News)",
+    "published": "Thu, 14 May 2026 00:00:00 +0000",
+    "summary": "Anthropic forms $200 million partnership with the Gates Foundation",
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20ShapeBuild&amp;backgroundColor=coral",
+    "fetched_at": "2026-05-26 00:34:52",
+    "ja_summary": "・Anthropicとビル＆メリンダ・ゲイツ財団が2億ドルの提携を発表。\n・AI技術を活用し、医療や公共分野の課題解決を目指す。\n・社会的インパクトのある領域でのAI活用が加速する見通し。"
+  },
+  {
+    "title": "PwC is deploying Claude to build technology, execute deals, and reinvent enterprise functions for clients",
+    "link": "https://www.anthropic.com/news/pwc-expanded-partnership",
+    "source": "Anthropic (News)",
+    "published": "Thu, 14 May 2026 00:00:00 +0000",
+    "summary": "PwC is deploying Claude to build technology, execute deals, and reinvent enterprise functions for clients",
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20CodeGlobe&amp;backgroundColor=sky",
+    "fetched_at": "2026-05-26 00:34:57",
+    "ja_summary": "・PwCが生成AI「Claude」を導入し、技術開発やM&A業務、企業機能の変革を支援。\n・クライアントの業務効率化と価値向上に向けたデジタルトランスフォーメーションを推進。\n・コンサルティング業務全般におけるAI活用を加速させ、サービス品質の再定義を図る。"
+  },
+  {
+    "title": "Claude Code x Accounting",
+    "link": "https://speakerdeck.com/kawaguti/claude-code-x-accounting",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-05-25T08:26:30-04:00",
+    "summary": "Claude に経理業務を任せてみたら、コードを書かないのに業務が自動化された話\n\n「AI で業務を効率化したい」と思っても、エンジニアでなければ何から始めればいいか分かりにくいのが正直なところです。Excel で頑張る、RPA を導入する、SaaS を契約する——どれも筋は悪くないのですが、業務ごとに別の道具を覚える必要があります。\n\nところが 2026 年に入って Anthropic から Claude Cowork が登場しました。これは「Claude Code を非コーディング用途で使うユーザーが増えていた」ことから生まれたツールで、フォルダにファイルを置いて Claude にお願いするだけで、突合・チェック・レポート生成などの事務作業を回せるようになりました。\n\n本セッションでは、RSGT・DevOpsDays Tokyo・Scrum Fest シリーズなど 9 イベント分の運営バックオフィスを、Claude と二人三脚で毎週回している事例を、実物のフォルダ・指示書（CLAUDE.md）・出力レポートを見せながら紹介します。\n\n扱う題材は次の2つです。\n\n協賛金の入金突合：Pretix 請求書 + マネーフォワード請求書 + 銀行 CSV を毎月突合する作業。カタカナ振込名義のずれ、まとめ振込、PayPal の資金移動、時系列ルールなど、地味だが落とせない処理を Claude に下書きさせています\n経費精算のルールチェック：毎月100〜200件の経費明細を、税区分・科目・出張日当・インボイス番号など 10 種類以上の観点で点検する作業。「要修正／要確認／参考」の 3 階層に自動分類して返ってきます\n「コードは Claude が書きます。私が書いたのは『業務のルールブック』だけです」——この体制で、月 30〜60 分かかっていた突合作業が 5〜10 分に短縮され、164 件の経費明細を全件チェックすることが当たり前になりました。\n\n技術的な前提知識は問いません。MF や銀行画面からコピペした内容を Claude にお願いするだけで何ができるのか、CLAUDE.md という指示書を「新人への引き継ぎ書」のつもりで書くと何が起こるのか、実際に動いている現場を見ながらお話しします。\nhttps://easg.connpass.com/event/393983/",
+    "image": "https://files.speakerdeck.com/presentations/716a36912cdf4e8896896e1c6aa712bb/preview_slide_0.jpg?39506889",
+    "fetched_at": "2026-05-26 00:34:59",
+    "ja_summary": "・エンジニアではない人でも「Claude Code」を活用し、事務作業を大幅に自動化できる。\n・業務ルールを指示書（CLAUDE.md）としてまとめるだけで、入金突合や経費精算などの煩雑な処理をClaudeに任せることが可能。\n・作業時間を約6分の1に短縮し、特別な技術知識なしで業務効率を劇的に改善する実践的な手法。"
+  },
+  {
     "title": "日経平均が史上初の6万5000円台乗せ､それ以上に重要な｢TOPIXが3カ月ぶり最高値更新｣が持つ意味と今後のシナリオ | 政治・経済・投資 | 東洋経済オンライン",
     "link": "https://toyokeizai.net/articles/-/945710?utm_source=rss&utm_medium=http&utm_campaign=link_back",
     "source": "東洋経済オンライン",
@@ -918,85 +998,5 @@
     "image": "https://tk.ismcdn.jp/mwimgs/2/3/1200w/img_2378dd47edb2ec0180819c09413e1b34106365.jpg?nextgen=false",
     "fetched_at": "2026-05-25 06:12:08",
     "ja_summary": "・東京・大阪に拠点を置く「急成長中堅企業」の売上高増加率ランキングTOP50を発表。\n・AI進化や人手不足などの激変する社会環境下で、日本経済を牽引する成長企業を網羅。\n・ストライクやチャーム・ケアなど、勢いのある企業の躍進ぶりが一目で分かる内容。"
-  },
-  {
-    "title": "シナモン･平野未来社長のAI活用法｢人には聞けない究極の質問をAIにすれば､自分の本当の意志が見えてくる｣ | ビジネス | 東洋経済オンライン",
-    "link": "https://toyokeizai.net/articles/-/945274?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-    "source": "東洋経済オンライン",
-    "published": "Mon, 25 May 2026 05:40:00 +0900",
-    "summary": "AIの進化は働き方やマネジメント､そして個人の意志の明確化にどう影響するのでしょうか。シナモン社長･平野未来氏が､AIとの対話で見えてくる本当の価値や課題について語ります。",
-    "image": "https://tk.ismcdn.jp/mwimgs/f/f/1200w/img_ffb503946cdab898b8826946e3cde02b279569.jpg?nextgen=false",
-    "fetched_at": "2026-05-25 06:12:08",
-    "ja_summary": "AIは単なる業務効率化の道具ではなく、人には言えない悩みをぶつける「壁打ち相手」として活用すべきである。\n対話を通じて自分の深層心理や本音を言語化することで、自分自身の本当の意志や進むべき方向性が明確になる。\nAIを思考のパートナーに据えることで、個人の意思決定の質を高め、迷いのないキャリア形成が可能となる。"
-  },
-  {
-    "title": "マネーフォワード･辻庸介社長を突き動かす危機感｢AIの波に乗り遅れたら本当に取り返しがつかないことになる｣ | ビジネス | 東洋経済オンライン",
-    "link": "https://toyokeizai.net/articles/-/945273?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-    "source": "東洋経済オンライン",
-    "published": "Mon, 25 May 2026 05:35:00 +0900",
-    "summary": "AIはもはや特別な存在ではなく､企業成長の原動力へ――。マネーフォワードの辻庸介社長は､全社的なAI導入により職種間の壁を低くし､生産性とアウトプットの質を劇的に向上させています。AIが組織や経営者…",
-    "image": "https://tk.ismcdn.jp/mwimgs/f/f/1200w/img_ff6913957ba4b4ad2f06b4f369d4dc6a178092.jpg?nextgen=false",
-    "fetched_at": "2026-05-25 06:12:08",
-    "ja_summary": "・マネーフォワードは全社的なAI導入を推進し、業務効率と成果物の質を飛躍的に向上させている。\n・辻庸介社長は、AIの波に乗り遅れることへの強い危機感を持ち、組織内の壁を取り払う手段として活用。\n・AIを単なるツールではなく、企業成長の原動力として経営の中核に据えている。"
-  },
-  {
-    "title": "〈いま読むべきAI本〉AIと企業戦略に精通する塩野誠が選び抜いたビジネスパーソンのための8冊 | ビジネス | 東洋経済オンライン",
-    "link": "https://toyokeizai.net/articles/-/945154?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-    "source": "東洋経済オンライン",
-    "published": "Mon, 25 May 2026 05:30:00 +0900",
-    "summary": "ビジネス現場で生成AIの導入が加速する今､現場を任されたあなたには何が必要か。本記事では､AI導入の基礎知識から実務､法的対応､さらにプロンプト活用まで､役立つ書籍8冊を厳選し紹介します。",
-    "image": "https://tk.ismcdn.jp/mwimgs/7/1/1200w/img_71a8afeb0b8b2c369c9ab34f0b5f890278409.jpg?nextgen=false",
-    "fetched_at": "2026-05-25 06:12:08",
-    "ja_summary": "・生成AI導入を担うビジネスパーソン向けに、実務・法的対応・活用法を学べる良書8冊を厳選。\n・AIの基礎から戦略的運用まで、現場で役立つ実践的な知識が身につく。\n・効率的な学習を通じ、ビジネス現場でのAI活用を加速させるための必読ガイド。"
-  },
-  {
-    "title": "なぜ、ノジマは“斜陽ビジネス”の買収を続けるのか　「日立家電」買収に潜む狙いと懸念",
-    "link": "https://www.itmedia.co.jp/business/articles/2605/25/news013.html",
-    "source": "ITmedia ビジネス",
-    "published": "Mon, 25 May 2026 05:00:00 +0900",
-    "summary": "ノジマが日立の家電事業を買収すると発表し、話題を呼んだ。同社はこれまで、VAIOの買収なども行っている。いずれも絶好調とは言えない事業だが、どのような狙いがあるのか。",
-    "image": "https://image.itmedia.co.jp/business/articles/2605/25/cover_news013.png",
-    "fetched_at": "2026-05-25 06:12:09",
-    "ja_summary": "・ノジマが業績不振の「日立の家電事業」を買収し、VAIOに続く再生戦略を加速。\n・既存の販売網と製造部門を垂直統合し、自社ブランドの強化と収益性向上を狙う。\n・一方で、斜陽化する事業の立て直しには、抜本的な構造改革が必要という懸念も残る。"
-  },
-  {
-    "title": "各社が積極採用、AIが生んだ7つの「新職種」…求められるスキルと報酬も紹介",
-    "link": "https://www.businessinsider.jp/article/2605-new-ai-jobs/",
-    "source": "Business Insider Japan",
-    "published": "Sun, 24 May 2026 21:00:00 GMT",
-    "summary": "AI導入を理由に人員削減を行う企業が増える一方で、AIに関する新たな職種の採用が増加しています。",
-    "image": "https://media.loom-app.com/loom/2026/05/17/457ce0d0-f837-4d76-b795-917846f1241f/original.jpg?w=1200&amp;h=630",
-    "fetched_at": "2026-05-25 06:12:28",
-    "ja_summary": "・AI導入による人員削減が進む一方、AI活用に特化した7つの新職種が急増中。\n・AI関連の専門スキルを持つ人材の採用が各社で活発化している。\n・新職種では高い報酬が提示されており、スキル習得がキャリア構築の鍵となる。"
-  },
-  {
-    "title": "AI攻撃の新たなスピードからネットワークを守る5つの方法",
-    "link": "https://japan.zdnet.com/article/35247696/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "サイバー攻撃者の手口がますます巧妙かつ執拗になるにつれ、IT担当者も対策を強化しなければならない。2026年にそれを実現する方法を紹介する。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35247696/\"><img src=\"https://japan.zdnet.com/storage/2026/05/19/baea282d79ff1616f70a0db37d98b037/t/184/138/d/image-1_l.jpg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2026/05/19/baea282d79ff1616f70a0db37d98b037/t/184/138/d/image-1_l.jpg",
-    "fetched_at": "2026-05-25 06:12:35",
-    "ja_summary": "AIを用いたサイバー攻撃の巧妙化に対し、2026年を見据えたIT環境の防御策が重要化。\n防御担当者は、進化する脅威に対抗するための新たなセキュリティ対策を強化する必要がある。\nネットワークを守るための5つの具体的な実践手法を提示。"
-  },
-  {
-    "title": "EIZO、JR西日本と共創したAIエッジコンピュータ--画像認識AIで異常を即時通知",
-    "link": "https://japan.zdnet.com/article/35247869/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "EIZOは、監視カメラ映像から混雑や侵入、転倒などの異常を即座に検知・通知する画像認識AIソリューションを実装したAIエッジコンピュータ「mitococa Edge」を販売することを発表した。同製品は、EIZOとJR西日本が設計ノウハウを持ち寄り、共同開発した。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35247869/\"><img src=\"https://japan.zdnet.com/storage/2026/05/22/dc97474819713322f2f02299f01d6c0e/t/184/138/d/260522_eizo_l.jpg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2026/05/22/dc97474819713322f2f02299f01d6c0e/t/184/138/d/260522_eizo_l.jpg",
-    "fetched_at": "2026-05-25 06:12:35",
-    "ja_summary": "EIZOとJR西日本は、監視カメラ映像から混雑や転倒などの異常を即座に検知するAIエッジコンピュータ「mitococa Edge」を共同開発しました。\nAI画像認識により異常をリアルタイムで通知し、安全管理や効率化を支援します。\n両社のノウハウを融合した本製品は、警備や設備監視の現場へ向けて販売が開始されます。"
-  },
-  {
-    "title": "次期AirPods Max？未発表のアップル製オーバーイヤーヘッドホン製品に関する資料が発見される",
-    "link": "https://www.techno-edge.net/article/2026/05/23/5092.html",
-    "source": "TechnoEdge",
-    "published": "Sat, 23 May 2026 15:29:27 +0900",
-    "summary": "米連邦通信委員会（FCC）のデータベースに新たに登録された書類から、アップルが向けに設計された未発表のBluetoothヘッドホンに関する資料が発見されました。",
-    "image": "https://www.techno-edge.net/imgs/rss/31568.jpg",
-    "fetched_at": "2026-05-25 06:12:37",
-    "ja_summary": "・米FCCのデータベースで、アップルの未発表Bluetoothヘッドホンの資料が発見された。\n・次期AirPods Maxの可能性がある新型モデルと推測されている。"
   }
 ]
