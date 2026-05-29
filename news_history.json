@@ -1,5 +1,65 @@
 [
   {
+    "title": "学歴･実績より翻訳力､採用される実務家の条件。アカデミックシフト 社会人から大学教授になる方法⑩ | キャリア・教育 | 東洋経済オンライン",
+    "link": "https://toyokeizai.net/articles/-/945854?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+    "source": "東洋経済オンライン",
+    "published": "Sat, 30 May 2026 07:00:00 +0900",
+    "summary": "社会人経験を活かして大学教員を目指す人が増える中､地方中小私立大学で実務家人材の需要が急拡大しています。AIやデータサイエンスなど新たな分野へのニーズや､企業連携を推進できる力が求められる今､どんな…",
+    "image": "https://tk.ismcdn.jp/mwimgs/f/9/1200w/img_f93bbfda8c707a135d0c8324bb5a29d5303286.jpg?nextgen=false",
+    "fetched_at": "2026-05-30 08:41:02",
+    "ja_summary": "・地方私大を中心に、学歴や研究実績よりも即戦力となる「実務家教員」の需要が急増。\n・AI・データサイエンス等の専門知識や、企業連携を主導できる実行力が重視される。\n・教育現場は理論から実践へとシフトしており、社会人の強みが新たなキャリアの武器となる。"
+  },
+  {
+    "title": "AIデータセンターの直流800V給電、登場は2027年か　米TI見通し",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11777/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "「現在はプロトタイプ段階で、採用は2027年からだ」。AI（人工知能）データセンター向け直流800V給電の開発状況についてこう語ったのは、米Texas Instruments（テキサス・インスツルメンツ、以下TI）パワーデザインサービス＆パワーデリバリー部門ゼネラルマネージャーのRobert Taylor（ロバート・テイラー）氏である。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11777/sns.jpg?20220512",
+    "fetched_at": "2026-05-30 08:41:16",
+    "ja_summary": "・米TI社が、AIデータセンター向けの直流800V給電技術を開発中。\n・現在はプロトタイプ段階であり、2027年からの本格採用を見込む。"
+  },
+  {
+    "title": "「AIで何かが本当に変わった」：ヨーロッパのテック系スタートアップ急増の内幕",
+    "link": "https://www.businessinsider.jp/article/2605europe-tech-startups-growth-ai-capital-lovable-legora-klarna-wayve/",
+    "source": "Business Insider Japan",
+    "published": "Thu, 28 May 2026 21:50:00 GMT",
+    "summary": "AIの進化とベンチャーキャピタルからの資金調達へのアクセス改善を背景に、レゴラやラバブルといった欧州スタートアップ企業が、アメリカのテクノロジー業界の覇権に挑戦しています。",
+    "image": "https://media.loom-app.com/loom/2026/05/25/76a8055b-e011-47b7-b183-314e703d675e/original.jpg?w=1200&amp;h=630",
+    "fetched_at": "2026-05-30 08:41:30",
+    "ja_summary": "・AIの進化と資金調達環境の改善により、欧州のテック系スタートアップが急増している。\n・レゴラやラバブルをはじめとする欧州勢が、米国の技術覇権に挑む動きを見せている。\n・欧州が世界的なテック競争で存在感を強め、勢力図が変化しつつある。"
+  },
+  {
+    "title": "LiteLLMをやめて自作Goバイナリに置き換えたら一気に軽くなりました - 「実践 AI エージェント開発」を実装してみた",
+    "link": "https://zenn.dev/okamyuji/articles/golang-litellm-alternative-single-binary",
+    "source": "Zenn Trends",
+    "published": "Thu, 28 May 2026 22:02:24 GMT",
+    "summary": "!\nオライリー・ジャパンから「実践 AI エージェント開発」として日本語版が出版されたことを記念して、今年の春に英語版の\"Building Applications with AI Agents\"を読んでいたので、本書が示す本番運用要件をそのままGoの単一バイナリAIエージェントに実装してみました。本記事では、まず自分の手元用に書き上げた最小構成を紹介し、そのあとで書籍を読んで補ったプロダクション向け機能を、書籍の章立てに対応する実装順で解説します。\n\n\n できあがったもの\nGo 1.25で書いたgo-llm-agentというシングルバイナリのAIエージェントを公開しました。CGO_EN...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--CXf9exAw--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:LiteLLM%25E3%2582%2592%25E3%2582%2584%25E3%2582%2581%25E3%2581%25A6%25E8%2587%25AA%25E4%25BD%259CGo%25E3%2583%2590%25E3%2582%25A4%25E3%2583%258A%25E3%2583%25AA%25E3%2581%25AB%25E7%25BD%25AE%25E3%2581%258D%25E6%258F%259B%25E3%2581%2588%25E3%2581%259F%25E3%2582%2589%25E4%25B8%2580%25E6%25B0%2597%25E3%2581%25AB%25E8%25BB%25BD%25E3%2581%258F%25E3%2581%25AA%25E3%2582%258A%25E3%2581%25BE%25E3%2581%2597%25E3%2581%259F%2520-%2520%25E3%2580%258C%25E5%25AE%259F%25E8%25B7%25B5%2520AI%2520%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588%25E9%2596%258B%25E7%2599%25BA%25E3%2580%258D%25E3%2582%2592%25E5%25AE%259F...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:okamyuji%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzY5YjFmNDYyYjkuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiGT",
+    "fetched_at": "2026-05-30 08:42:09",
+    "ja_summary": "・「実践 AI エージェント開発」の内容をベースに、Go言語で軽量なシングルバイナリのAIエージェントを自作。\n・既存のLiteLLMから自作ツールへ移行することで、動作を大幅に軽量化。\n・最小構成からプロダクション運用に必要な機能まで、実装プロセスを技術解説。"
+  },
+  {
+    "title": "楽しかったコーディングエージェントサブスク時代の終わり",
+    "link": "https://zenn.dev/tkithrta/articles/0378bc53599fb3",
+    "source": "Zenn Trends",
+    "published": "Thu, 28 May 2026 15:05:05 GMT",
+    "summary": "はじめに\n!\nこの記事は2026年4月2日から2026年5月29日までの公開情報をもとにしています。\n料金・プラン名・含まれる利用枠は頻繁に変わるため、導入時は必ず各社の公式ページで確認してください。\n\nGitHub Copilotから始まるAIコーディング支援ツールは、数年前まで「月額いくらで補完とチャットが使える」という、比較的わかりやすいサブスクリプションモデルとして理解できました。\n個人でChatGPT PlusやClaude Proを使っている限り、支払いの感覚は今でもそれに近いかもしれません。\nしかし、企業導入やエージェント型のコーディング支援まで含めて見ると、状況はかな...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--pmdYskLn--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E6%25A5%25BD%25E3%2581%2597%25E3%2581%258B%25E3%2581%25A3%25E3%2581%259F%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2587%25E3%2582%25A3%25E3%2583%25B3%25E3%2582%25B0%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588%25E3%2582%25B5%25E3%2583%2596%25E3%2582%25B9%25E3%2582%25AF%25E6%2599%2582%25E4%25BB%25A3%25E3%2581%25AE%25E7%25B5%2582%25E3%2582%258F%25E3%2582%258A%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E9%25BB%2592%25E3%2583%25B0%25E6%25A8%25B9%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzk4MTJmNzg3ZjYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiGT",
+    "fetched_at": "2026-05-30 08:42:10",
+    "ja_summary": "・かつて主流だった定額制AIコーディングツールは、企業導入やエージェント機能の普及により価格体系が複雑化している。\n・料金やプランが頻繁に変更されるため、導入時には必ず最新情報を確認する必要がある。\n・単純なサブスクモデルの時代は終わり、現在は利用枠や課金体系を慎重に見極めるべき段階にある。"
+  },
+  {
+    "title": "AIガバナンス実践 - 生成AIコネクタのデータ漏洩リスクと実務対策",
+    "link": "https://speakerdeck.com/knishioka/aigabanansushi-jian-sheng-cheng-aikonekutanodetalou-xie-risukutoshi-wu-dui-ce",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-05-29T19:07:03-04:00",
+    "summary": "AI社会実装勉強会第59回 (https://machine-learning-workshop.connpass.com/event/395133/) の発表資料です。",
+    "image": "https://files.speakerdeck.com/presentations/25daa6e2a8d34ca5bc1ba94d4ed9a4e7/preview_slide_0.jpg?39558613",
+    "fetched_at": "2026-05-30 08:42:11",
+    "ja_summary": "・生成AI連携ツール（コネクタ）経由でのデータ漏洩リスクを解説。\n・不適切なアクセス権限設定やログ管理の不備が主な原因。\n・安全なAI活用のために、組織的なガバナンス構築と技術的対策を提言。"
+  },
+  {
     "title": "｢今回のAIバブル｣は必ず破裂するが､なぜ今も膨らみ続けなかなか破裂しないのか? 今年崩壊に至る｢2つのシナリオ｣とは | 政治・経済・投資 | 東洋経済オンライン",
     "link": "https://toyokeizai.net/articles/-/946268?utm_source=rss&utm_medium=http&utm_campaign=link_back",
     "source": "東洋経済オンライン",
@@ -938,65 +998,5 @@
     "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGMTU4Mzk4JTJGcHJvZmlsZS1pbWFnZXMlMkYxNjc4Njg3MDY4P2l4bGliPXJiLTQuMS4xJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz0zNjE0MDIwYjM4ZGMwY2ZiNGE1NjVlYmY5MWRhMmE0ZQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D2638b3013ae63d905c99500cd1178af2?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9QUklRTMlODElQTclRTklOTYlOEIlRTclOTklQkElRTMlODElOEMlRTklODAlOUYlRTMlODElOEYlRTMlODElQUElRTMlODElQTMlRTMlODElOUYlRTMlODElQUUlRTMlODElQTclRTMlODAlODElRTUlOEYlOTclRTglQTglOTclRTklOTYlOEIlRTclOTklQkElRTMlODElQUUlRTQlQkUlQTElRTUlODAlQTQlRTMlODIlOTIlRTglODAlODMlRTMlODElODglRTclOUIlQjQlRTMlODElOTclRTMlODElQTYlRTMlODElQkYlRTMlODIlOEImdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz0wZDdlMDIxYzJlYTI0NjNlZWVlZTY3NmU3MjdiOTAxNA&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDB5b3NoaTEyMjAmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz0wODAwOGI2Mjk2MzJlMWMxZjg0YmUxOTVjNTdkYWZhOA&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=dd2d467e04bfe02b4a688fb3ff439430",
     "fetched_at": "2026-05-29 09:05:32",
     "ja_summary": "AIによるコーディング支援の進化で開発速度が飛躍的に向上した。\n今後は「工数」ではなく、付加価値や成果を重視する形へ受託開発の価値を見直す必要がある。"
-  },
-  {
-    "title": "〈AI×人生計画〉もはやFP要らず！住宅ローンも子どもの教育費の見通しも､家計のことはAIがすべて教えてくれる時代に | ビジネス | 東洋経済オンライン",
-    "link": "https://toyokeizai.net/articles/-/945153?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-    "source": "東洋経済オンライン",
-    "published": "Fri, 29 May 2026 06:30:00 +0900",
-    "summary": "家計管理から教育費の試算､日々の献立まで､AIの活用範囲はますます広がっています。手間のかかる作業を効率化し､将来の家計シミュレーションも瞬時に比較可能。AIをどう活用すれば､安心で賢い家計管理がで…",
-    "image": "https://tk.ismcdn.jp/mwimgs/2/3/1200w/img_23f29f9d5a71319f359edb14311a7511268394.jpg?nextgen=false",
-    "fetched_at": "2026-05-29 07:53:07",
-    "ja_summary": "AIを活用することで、家計管理や将来の資金計画が効率的かつ正確に行えるようになった。\n住宅ローンや教育費などの複雑なシミュレーションを瞬時に行い、最適な資産管理が可能。\n手間のかかる家計管理をAIに任せることで、賢く安心なライフプランの構築が実現する。"
-  },
-  {
-    "title": "新卒より生成AIがいい──初任給バブルの裏で、大手企業が進める“超厳選採用”は何をもたらすのか",
-    "link": "https://www.itmedia.co.jp/business/articles/2605/29/news030.html",
-    "source": "ITmedia ビジネス",
-    "published": "Fri, 29 May 2026 07:00:00 +0900",
-    "summary": "日本の雇用慣行において、長らく“最後の聖域”とされてきた「新卒一括採用」に、今すさまじい地殻変動が起きています。名だたる大手企業が相次いで新卒の「厳選採用」へ舵を切っているのです。",
-    "image": "https://image.itmedia.co.jp/business/articles/2605/29/cover_news030.jpg",
-    "fetched_at": "2026-05-29 07:53:08",
-    "ja_summary": "・大手企業が新卒一括採用を見直し、少数を精鋭化する「超厳選採用」へシフト。\n・生成AIの実用化により、未経験の新卒より即戦力を求める動きが加速。\n・日本型の雇用慣行が大きく崩れ、採用の質と効率を最優先する時代へ。"
-  },
-  {
-    "title": "「世界一は狙わない」NVIDIAと協業でAI時代の計算機へ",
-    "link": "https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00192/00001/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "理化学研究所と富士通、米NVIDIA（エヌビディア）が2030年ごろの稼働を目指し開発する次世代スーパーコンピューター「富岳NEXT」が、最初のマイルストーンを迎えた。アーキテクチャーの基本設計を2026年3月に終え、詳細設計へ移った。性能世界一へのこだわりを捨て、AI（人工知能）時代に「使われる計算機」の実現に比重を置く。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00192/00001/topm.jpg?20220512",
-    "fetched_at": "2026-05-29 07:53:20",
-    "ja_summary": "・理研、富士通、NVIDIAが次世代スパコン「富岳NEXT」の開発を推進中。\n・性能世界一の座は追わず、AI時代に実用的な「使われる計算機」を目指す。\n・2026年3月に基本設計を完了し、現在は詳細設計のフェーズへ移行。"
-  },
-  {
-    "title": "生成AIで橋梁の点検調書案を自動作成、NTTグループと建設コンサルが共同で",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02654/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "NTTドコモソリューションズ（東京・港）とNTTドコモ、溝田設計事務所（福岡県久留米市）の3社は、生成AI（人工知能）を活用して、国土交通省の道路橋定期点検要領の記録様式に準拠した書類（点検調書）の案を生成するシステムを開発した。点検技術者が橋の損傷状況などをまとめた点検票をサーバーにアップロードすると、AIがそれを基に診断し、調書案を作成する。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02654/SNS.jpg?20220512",
-    "fetched_at": "2026-05-29 07:53:21",
-    "ja_summary": "・NTTグループと溝田設計事務所が、生成AIによる橋梁点検調書の自動作成システムを開発。\n・現場の点検データをアップロードするだけで、国交省準拠の調書案が自動生成される。\n・手作業による書類作成の工数を削減し、点検業務の効率化と高度化を実現する。"
-  },
-  {
-    "title": "「AI銀行」を目指すGMOあおぞら銀　AIエージェント前提の組織と生成UI",
-    "link": "https://www.watch.impress.co.jp/docs/news/2112225.html",
-    "source": "Impress Watch",
-    "published": "",
-    "summary": "GMOあおぞらネット銀行は27日、「AI銀行」を目指した事業戦略説明会を開催した。小規模な法人向けで、高いシェアを持つ同行だが、次の5年間の成長に向けて「3つのAIエージェント化」を掲げ、AIを前提とした銀行サービス構築を目指す。",
-    "image": "https://www.watch.impress.co.jp/img/ipw/list/2112/225/gmo02.jpg",
-    "fetched_at": "2026-05-29 07:53:27",
-    "ja_summary": "・GMOあおぞらネット銀行が「AI銀行」への転換を宣言し、今後5年間の新戦略を発表。\n・AIを前提とした組織改革と生成UI導入により、サービス提供の仕組みを抜本的に刷新。\n・小規模法人向けで培った強みを活かし、AIエージェントによる効率的で高度な金融体験を目指す。"
-  },
-  {
-    "title": "Anthropic、「ミトス級AI」を数週間以内に一般公開へ　「Claude Opus 4.8」も発表",
-    "link": "https://japan.cnet.com/article/35248186/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "Anthropicは5月28日（米国時間）、生成AIモデル「Claude Opus 4.8」を公開した。前モデル「Opus 4.7」から「控えめだが確実な改善」を加えたという。あわせて同社は、現在Project Glasswingの一環として一部組織が利用している「Claude Mythos Preview」（ミトス）と同等クラスの能力を持つ「Mythos級モデル」について、数週間以内に全顧客へ提供できる見通しだと明らかにした。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35248186/\"><img src=\"https://japan.cnet.com/storage/2026/05/29/92478645ca9d8c4d73ca585f689e7e07/t/184/138/d/claude-3.jpeg\" /></a>",
-    "image": "https://japan.cnet.com/storage/2026/05/29/92478645ca9d8c4d73ca585f689e7e07/t/184/138/d/claude-3.jpeg",
-    "fetched_at": "2026-05-29 07:53:31",
-    "ja_summary": "・Anthropicが新AIモデル「Claude Opus 4.8」を公開。\n・最高性能の「Mythos級モデル」を数週間以内に全顧客へ提供予定。\n・既存モデルの着実な改善と、次世代モデルの一般開放が同時に進行。"
   }
 ]
