@@ -1,5 +1,65 @@
 [
   {
+    "title": "OpenAI、金融機関に「GPT-5.5-Cyber」提供　「日本サイバーアクションプラン」",
+    "link": "https://www.watch.impress.co.jp/docs/news/2113108.html",
+    "source": "Impress Watch",
+    "published": "",
+    "summary": "OpenAIは29日、日本におけるサイバーセキュリティ協力を「実装」へと進める取り組み「日本サイバー・アクションプラン(Japan Cyber Action Plan)」を発表した。金融機関に対して、サイバーセキュリティに特化した最新AIモデル「GPT-5.5-Cyber」を提供するほか、日本AIセーフティ・インスティテュート(AISI)との連携強化なども行なう。",
+    "image": "https://www.watch.impress.co.jp/img/ipw/list/2113/108/openai1.jpg",
+    "fetched_at": "2026-05-30 02:56:48",
+    "ja_summary": "・OpenAIが日本の金融機関向けに、サイバー対策特化型AI「GPT-5.5-Cyber」を提供開始。\n・日本におけるサイバーセキュリティ強化を目的とした「日本サイバー・アクションプラン」を発表。\n・日本AIセーフティ・インスティテュート（AISI）とも連携を深め、安全性を重視したAI活用を推進。"
+  },
+  {
+    "title": "Boston Children’s uses AI to unlock new diagnoses",
+    "link": "https://openai.com/index/boston-childrens-hospital",
+    "source": "OpenAI",
+    "published": "Fri, 29 May 2026 12:00:00 GMT",
+    "summary": "Boston Children’s Hospital uses OpenAI technology to improve patient care, reduce operational burden, and help diagnose more than 40 rare disease cases.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/30rCYJwrLmxJa0mwAW1suo/af215de4b370e0310026dadd6085431c/boston-childrens-seo.png?w=1600&amp;h=900&amp;fit=fill",
+    "fetched_at": "2026-05-30 02:57:10",
+    "ja_summary": "・ボストン小児病院がOpenAIの技術を導入し、業務効率化と患者ケアの向上を実現。\n・AIを活用することで、これまで困難だった40件以上の希少疾患の診断に成功。\n・医療現場へのAI活用が、診断精度と診療プロセスの改善に直結している。"
+  },
+  {
+    "title": "A shared playbook for trustworthy third party evaluations",
+    "link": "https://openai.com/index/trustworthy-third-party-evaluations-foundations",
+    "source": "OpenAI",
+    "published": "Fri, 29 May 2026 00:00:00 GMT",
+    "summary": "OpenAI shares guidance on third-party AI evaluations, covering how to assess model capabilities, safeguards, and validity for frontier systems.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/3iGaglpVIr4csE6CvQuo7Q/93f43160655131980374191eaed7b4c4/SEO-TechnicalFoundations.png?w=1600&amp;h=900&amp;fit=fill",
+    "fetched_at": "2026-05-30 02:57:11",
+    "ja_summary": "・OpenAIがAIモデルの性能や安全性を検証する「第三者評価」の指針を公開。\n・最先端AIを適正かつ透明に評価するための基準やフレームワークを提示。\n・外部機関による客観的な検証体制を構築し、AIの信頼性向上を目指す。"
+  },
+  {
+    "title": "【完全版】AIセキュリティ地獄絵図2026 - CVE・攻撃手法・防御策を全部解説する",
+    "link": "https://qiita.com/emi_ndk/items/a36051a97d3b0670bedd",
+    "source": "Qiita (Popular)",
+    "published": "2026-05-28T16:20:24+09:00",
+    "summary": "先日の記事「100万台のAIサービスをスキャンしたら史上最悪のセキュリティだった」が大きな反響をいただいた。\n\nこの記事では：\n- **CVE-2026-7482「Bleeding Llama」の技術的詳細**\n- **AI生成ゼロデイの完全分析**\n- **OWASP LLM Top 10 2026の全リスク解説**\n- **Ollama・n8n・Flowiseのエンタープライズ級ハードニング*",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmF2YXRhcnMuZ2l0aHVidXNlcmNvbnRlbnQuY29tJTJGdSUyRjU0MTczODUwJTNGdiUzRDQ_aXhsaWI9cmItNC4xLjEmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPWNkZmY0YjBhMDNjMTYyOTBkMzk5NWJmYzRkYTdjNmI1%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D26dd64066e4ec8934d87cd97ca579144?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJTkwJUU1JUFFJThDJUU1JTg1JUE4JUU3JTg5JTg4JUUzJTgwJTkxQUklRTMlODIlQkIlRTMlODIlQUQlRTMlODMlQTUlRTMlODMlQUElRTMlODMlODYlRTMlODIlQTMlRTUlOUMlQjAlRTclOEQlODQlRTclQjUlQjUlRTUlOUIlQjMyMDI2JTIwLSUyMENWRSVFMyU4MyVCQiVFNiU5NCVCQiVFNiU5MiU4MyVFNiU4OSU4QiVFNiVCMyU5NSVFMyU4MyVCQiVFOSU5OCVCMiVFNSVCRSVBMSVFNyVBRCU5NiVFMyU4MiU5MiVFNSU4NSVBOCVFOSU4MyVBOCVFOCVBNyVBMyVFOCVBQSVBQyVFMyU4MSU5OSVFMyU4MiU4QiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPWU4NGY1YzcxNTY1YWM3ODRmODU4ZGM0MGZlZjAzNjRh&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBlbWlfbmRrJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9ODEyY2UxNTIxOTMzYWFkOTY1ZTJhOWFiMGQxZDljOTg&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=a772cdd84ae30246702b7cc38f3d6f8b",
+    "fetched_at": "2026-05-30 02:57:29",
+    "ja_summary": "・2026年現在のAIセキュリティ脅威（脆弱性「Bleeding Llama」やAI生成ゼロデイ）を網羅的に解説。\n・OWASP LLM Top 10 2026に基づき、AI特有のリスクと対策を提示。\n・Ollamaやn8n等の主要ツールを対象とした、企業レベルの防御・最適化手法を詳述。"
+  },
+  {
+    "title": "【悲報】100万台のAIサービスをスキャンしたら「史上最悪のセキュリティ」だった件",
+    "link": "https://qiita.com/emi_ndk/items/0aac69d8a962d2413d9d",
+    "source": "Qiita (Popular)",
+    "published": "2026-05-24T16:44:12+09:00",
+    "summary": "## あなたのAIサーバー、今この瞬間も丸見えです\n\n「AIを使えば業務が効率化される」\n\nそう信じて、急いでOllamaやn8nをデプロイした会社は多いだろう。\n\n**でも、ちょっと待ってほしい。**\n\nセキュリティ企業Intruderが今月発表した調査結果が、業界に衝撃を与えている。**200万台以上のホスト**をスキャンし、**100万個の公開AIサービス**を分析した結果は——\n\n:::n",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmF2YXRhcnMuZ2l0aHVidXNlcmNvbnRlbnQuY29tJTJGdSUyRjU0MTczODUwJTNGdiUzRDQ_aXhsaWI9cmItNC4xLjEmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPWNkZmY0YjBhMDNjMTYyOTBkMzk5NWJmYzRkYTdjNmI1%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D26dd64066e4ec8934d87cd97ca579144?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJTkwJUU2JTgyJUIyJUU1JUEwJUIxJUUzJTgwJTkxMTAwJUU0JUI4JTg3JUU1JThGJUIwJUUzJTgxJUFFQUklRTMlODIlQjUlRTMlODMlQkMlRTMlODMlOTMlRTMlODIlQjklRTMlODIlOTIlRTMlODIlQjklRTMlODIlQUQlRTMlODMlQTMlRTMlODMlQjMlRTMlODElOTclRTMlODElOUYlRTMlODIlODklRTMlODAlOEMlRTUlOEYlQjIlRTQlQjglOEElRTYlOUMlODAlRTYlODIlQUElRTMlODElQUUlRTMlODIlQkIlRTMlODIlQUQlRTMlODMlQTUlRTMlODMlQUElRTMlODMlODYlRTMlODIlQTMlRTMlODAlOEQlRTMlODElQTAlRTMlODElQTMlRTMlODElOUYlRTQlQkIlQjYmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1jMzZhYjJmNzJjNzc1NTE3MWJkN2I4NmM0Y2NhOTUyNQ&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBlbWlfbmRrJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9ODEyY2UxNTIxOTMzYWFkOTY1ZTJhOWFiMGQxZDljOTg&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=9b41e312bbf5e0c5c79b4e8cac9f89f4",
+    "fetched_at": "2026-05-30 02:57:30",
+    "ja_summary": "・企業が急いで導入したAIサービスの多くで、適切なセキュリティ対策が放置されている。\n・調査対象の100万台以上のAIサーバーが外部から丸見えの状態であり、深刻な情報漏洩リスクに晒されている。\n・AI導入を急ぐあまり、認証やアクセス制限といった基本的な安全対策が疎かになっている現状が露呈した。"
+  },
+  {
+    "title": "Claude Code を社内導入する時の最低限ガードレール5項目 — 機密情報を漏らさない設定パターン",
+    "link": "https://qiita.com/ennagara128/items/aeaee3e64e75076503fe",
+    "source": "Qiita (Popular)",
+    "published": "2026-05-18T18:43:30+09:00",
+    "summary": "# はじめに\n\nQiita で「**Claude Code を社内で使うための『AIエージェントセキュリティ』実践編**」がトレンド入りしていました。\n\nClaude Code を組織で使い始める時、最も多い不安は **「機密情報がうっかり漏れないか」** です。\n\n実際にうちのチームで1年以上運用してきた経験から、**最低限これだけは設定しておけ** という5項目のガードレールを共有します。\n\n",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0MTU2NTc4JTJGYTgyYjkyMzUzMWRkYzIxYmZhMWY4MDhhY2QyMjM5Yzk2NjlkZjg4NSUyRnhfbGFyZ2UucG5nJTNGMTc3NjY1NTA1MT9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NGYxNjY0YWY5ZmI5NmJiZTZjYjRjMTFlMWFjNjVhNWQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D8d44234ba9198549fbf0016c0117ba44?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9Q2xhdWRlJTIwQ29kZSUyMCVFMyU4MiU5MiVFNyVBNCVCRSVFNSU4NiU4NSVFNSVCMCU4RSVFNSU4NSVBNSVFMyU4MSU5OSVFMyU4MiU4QiVFNiU5OSU4MiVFMyU4MSVBRSVFNiU5QyU4MCVFNCVCRCU4RSVFOSU5OSU5MCVFMyU4MiVBQyVFMyU4MyVCQyVFMyU4MyU4OSVFMyU4MyVBQyVFMyU4MyVCQyVFMyU4MyVBQjUlRTklQTAlODUlRTclOUIlQUUlMjAlRTIlODAlOTQlMjAlRTYlQTklOUYlRTUlQUYlODYlRTYlODMlODUlRTUlQTAlQjElRTMlODIlOTIlRTYlQkMlOEYlRTMlODIlODklRTMlODElOTUlRTMlODElQUElRTMlODElODQlRTglQTglQUQlRTUlQUUlOUElRTMlODMlOTElRTMlODIlQkYlRTMlODMlQkMlRTMlODMlQjMmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz0yNjVjMTVhY2I5NDBiZWI1MjAyZDQ1YzI3ZTY5NGQ3NA&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBlbm5hZ2FyYTEyOCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWUxNDBiMDk1ZGMwYjI5MGJlY2ZhNjZlMTM0NDk4NzVk&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=da8ce96f18c7c7adee0de53c34fe4fdf",
+    "fetched_at": "2026-05-30 02:57:30",
+    "ja_summary": "・Claude Code導入時の機密漏洩を防ぐため、最低限設定すべきセキュリティガードレール5項目を公開。\n・1年以上の実運用経験に基づいた、組織で安全にAIエージェントを活用するための設定ノウハウ。\n・社内導入を検討するエンジニアやチームリーダー向けの実践的なセキュリティ対策ガイド。"
+  },
+  {
     "title": "平均72歳を派遣する「高齢社」／超純水技術で株価56倍／AI面接官で“二度手間”（2026年5月29日版） (日経ビジネスAUDIOモーニング)",
     "link": "https://business.nikkei.com/atcl/audio/22/00001/052800885/",
     "source": "日経ビジネス 最新",
@@ -938,65 +998,5 @@
     "image": "https://japan.zdnet.com/storage/2026/05/28/b0327146eb2271c79b0b29807e9d8ada/t/184/138/d/1000027098_l.jpg",
     "fetched_at": "2026-05-29 07:53:42",
     "ja_summary": "・デルは、コスト抑制やデータ主権の観点から、AI活用にはオンプレミスを組み合わせたハイブリッド環境が不可欠と提唱。\n・AIエージェントの導入拡大を見据え、自社でインフラを制御できる環境の重要性が増している。"
-  },
-  {
-    "title": "XREALが新ブランド「xbx」(X by XREAL)発表、若者向け「xbx a01」を中国で発売　AI自動HDR化と空間ブレ補正対応",
-    "link": "https://www.techno-edge.net/article/2026/05/28/5116.html",
-    "source": "TechnoEdge",
-    "published": "Thu, 28 May 2026 09:33:44 +0900",
-    "summary": "XREALが若年層をターゲットにしたサブブランド「xbx（X by XREAL）」を正式に発表しました。初の製品となるARグラス「xbx a01」シリーズを販売します。",
-    "image": "https://www.techno-edge.net/imgs/rss/31766.jpg",
-    "fetched_at": "2026-05-29 07:53:44",
-    "ja_summary": "・XREALが若年層向けサブブランド「xbx」を新設し、初となるARグラス「xbx a01」を中国で発売。\n・AIによる自動HDR化や空間ブレ補正機能を搭載し、映像体験を強化。\n・若年層のニーズを捉え、高機能なARグラスの普及拡大を狙う。"
-  },
-  {
-    "title": "全府省庁の約18万人の政府職員を対象としたガバメントAI（源内）の大規模実証を開始しました",
-    "link": "https://www.digital.go.jp/news/fc155eba-e83d-4ecf-9c6a-a3c855e2e7b3",
-    "source": "デジタル庁",
-    "published": "Thu, 28 May 2026 12:00:09 +0900",
-    "summary": "",
-    "image": "https://www.digital.go.jp/themes/custom/gov_theme_da_2023/assets/images/ogp.png",
-    "fetched_at": "2026-05-29 07:53:44",
-    "ja_summary": "・全府省庁の職員約18万人を対象に、生成AI「ガバメントAI（源内）」の実証実験を開始。\n・業務効率化や行政サービスの質向上に向け、政府全体での大規模なAI活用を推進。\n・実証を通じて、セキュリティを確保しつつ最適な業務プロセスの構築を目指す。"
-  },
-  {
-    "title": "全府省庁の約18万人の政府職員を対象としたガバメントAI（源内）の大規模実証を開始します",
-    "link": "https://www.digital.go.jp/news/2d69c287-2897-46d8-a28f-ea5a1fc9bce9",
-    "source": "デジタル庁",
-    "published": "Tue, 26 May 2026 11:26:00 +0900",
-    "summary": "",
-    "image": "https://www.digital.go.jp/themes/custom/gov_theme_da_2023/assets/images/ogp.png",
-    "fetched_at": "2026-05-29 07:53:44",
-    "ja_summary": "・全府省庁の職員約18万人を対象に、政府専用の生成AI「ガバメントAI（源内）」の実証実験を開始。\n・行政事務の効率化や業務プロセスの高度化を目指し、大規模な導入効果を検証する。\n・中央省庁が一斉に活用することで、組織横断的な生産性向上を図る。"
-  },
-  {
-    "title": "ガバメントAIで試用する国内大規模言語モデル（LLM）の公募について",
-    "link": "https://www.digital.go.jp/news/1b093bba-a4c8-4001-8a92-ff3667a69198",
-    "source": "デジタル庁",
-    "published": "Fri, 22 May 2026 14:59:04 +0900",
-    "summary": "",
-    "image": "https://www.digital.go.jp/themes/custom/gov_theme_da_2023/assets/images/ogp.png",
-    "fetched_at": "2026-05-29 07:53:44",
-    "ja_summary": "政府は行政業務の効率化を目指し、試用する国産大規模言語モデル（LLM）を公募する。\n選定されたモデルはガバメントAIとして導入され、行政サービスの実装に向けた検証が行われる。\n国内技術の活用により、セキュリティと利便性を両立したAI行政サービスの構築を加速させる。"
-  },
-  {
-    "title": "思想と仕様を分けて要件定義する",
-    "link": "https://zenn.dev/rehabforjapan/articles/requirements-engineering",
-    "source": "Zenn Trends",
-    "published": "Thu, 28 May 2026 03:00:37 GMT",
-    "summary": "はじめに\nAIによって実装が速くなっていますが、そもそもの要件が決まらなければ実装できません。実装が速いことの価値は、上流が整っていてはじめて発揮されます。要件定義フェーズをスムーズに進めるにはどうすれば良いのかを考えました。\n\n 前提\n\nフェーズ: 0→1開発\nツール: Claude Code\n\n\n プロセスの全体像\n何が決まっていて何が決まっていないのかが曖昧で、要件定義が必要以上に時間がかかってしまうことがありました。そこで、何に時間がかかっているのか、何を合意すべきかを整理してみたら、概念整理 → 合意形成 → 仕様生成の3段階に分かれると考えました。\n\n\n\nステップ\nInp...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--UDmJElO7--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E6%2580%259D%25E6%2583%25B3%25E3%2581%25A8%25E4%25BB%2595%25E6%25A7%2598%25E3%2582%2592%25E5%2588%2586%25E3%2581%2591%25E3%2581%25A6%25E8%25A6%2581%25E4%25BB%25B6%25E5%25AE%259A%25E7%25BE%25A9%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:tara%2520is%2520ok%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzNkYzExOTgzNjguanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Rehab%2520Tech%2520Blog%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2E3YWQ2Yjk4MTkuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-    "fetched_at": "2026-05-29 07:54:19",
-    "ja_summary": "AIによる実装の高速化を活かすには、上流の要件定義を「概念整理」「合意形成」「仕様生成」の3段階に分けることが不可欠。\n何が未確定かを明確に整理することで、曖昧さを排除し、プロジェクトの停滞を防ぐ。\nツール（Claude Code等）を有効活用するためには、実装前の丁寧な論理設計が鍵となる。"
-  },
-  {
-    "title": "Codexを使い始めて長時間稼働させるまで",
-    "link": "https://zenn.dev/genda_jp/articles/b7fe56ce2fc60f",
-    "source": "Zenn Trends",
-    "published": "Thu, 28 May 2026 03:00:11 GMT",
-    "summary": "こんにちは、データマネジメント部でデータエンジニアをしています。山城です。\nClaude Codeがリリースされて早くも一年ちょっとが経ちました。恥ずかしながら今まで碌に使っていなかったので、ここ二か月ほどCodexをメインに使いながら設定を行っています。\n公式からリリースされた機能についてまとめた記事などは色々確認できるのですが、具体的な設定やファイルの中身などはあまり見かけないので、整理がてら記事にしていこうと思います。\n今回は設定したものの中でも、ある程度放置でも長時間実行できる環境にするための環境整備について書きます。理由はとても単純で、使っていくと投げたいタスクの粒度がだんだん...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--DroIBVk_--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Codex%25E3%2582%2592%25E4%25BD%25BF%25E3%2581%2584%25E5%25A7%258B%25E3%2582%2581%25E3%2581%25A6%25E9%2595%25B7%25E6%2599%2582%25E9%2596%2593%25E7%25A8%25BC%25E5%2583%258D%25E3%2581%2595%25E3%2581%259B%25E3%2582%258B%25E3%2581%25BE%25E3%2581%25A7%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:chika%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzNiM2M1MjhkNjguanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:GENDA%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSkU5eDRsT296OVNndVZiQ3NldEExenQyejhGM0NFbTFLX2hvYUNzczdnbUxBNHVGdUQ9czI1MC1j%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-    "fetched_at": "2026-05-29 07:54:19",
-    "ja_summary": "データエンジニアが、Claude Codeを長時間の自動タスクにも耐えうる環境へ構築するまでの実践記録。\n公式情報では不足しがちな具体的な設定手順や構成内容を整理して解説する。\n効率的な運用のために、放置して実行できる環境を整備するノウハウを共有する。"
   }
 ]
