@@ -1,5 +1,55 @@
 [
   {
+    "title": "XREALが新ブランド「xbx」(X by XREAL)発表、若者向け「xbx a01」を中国で発売　AI自動HDR化と空間ブレ補正対応",
+    "link": "https://www.techno-edge.net/article/2026/05/28/5116.html",
+    "source": "TechnoEdge",
+    "published": "Thu, 28 May 2026 09:33:44 +0900",
+    "summary": "XREALが若年層をターゲットにしたサブブランド「xbx（X by XREAL）」を正式に発表しました。初の製品となるARグラス「xbx a01」シリーズを販売します。",
+    "image": "https://www.techno-edge.net/imgs/rss/31766.jpg",
+    "fetched_at": "2026-05-30 05:14:30",
+    "ja_summary": "・XREALが若年層向け新ブランド「xbx」を立ち上げ。\n・第一弾製品としてARグラス「xbx a01」を中国で発売。\n・AIによるHDR自動調整や空間ブレ補正機能を搭載。"
+  },
+  {
+    "title": "全府省庁の約18万人の政府職員を対象としたガバメントAI（源内）の大規模実証を開始しました",
+    "link": "https://www.digital.go.jp/news/fc155eba-e83d-4ecf-9c6a-a3c855e2e7b3",
+    "source": "デジタル庁",
+    "published": "Thu, 28 May 2026 12:00:09 +0900",
+    "summary": "",
+    "image": "https://www.digital.go.jp/themes/custom/gov_theme_da_2023/assets/images/ogp.png",
+    "fetched_at": "2026-05-30 05:14:30",
+    "ja_summary": "・全府省庁の職員約18万人を対象に、生成AI「ガバメントAI（源内）」の実証実験を開始。\n・業務効率化と行政サービスの向上を目指し、組織的なAI活用を本格化。\n・公務現場でのAI導入により、政府全体のDX推進を加速させる狙い。"
+  },
+  {
+    "title": "全府省庁の約18万人の政府職員を対象としたガバメントAI（源内）の大規模実証を開始します",
+    "link": "https://www.digital.go.jp/news/2d69c287-2897-46d8-a28f-ea5a1fc9bce9",
+    "source": "デジタル庁",
+    "published": "Tue, 26 May 2026 11:26:00 +0900",
+    "summary": "",
+    "image": "https://www.digital.go.jp/themes/custom/gov_theme_da_2023/assets/images/ogp.png",
+    "fetched_at": "2026-05-30 05:14:30",
+    "ja_summary": "・政府は全府省庁の職員約18万人を対象に、独自の生成AI「ガバメントAI（源内）」の実証実験を開始する。\n・業務の効率化や高度化を図り、行政サービスの質向上と生産性向上を目指す。\n・国内開発環境を活用し、セキュリティを確保しながらAIの本格活用に向けた知見を蓄積する。"
+  },
+  {
+    "title": "How Braintrust turns customer requests into code with Codex",
+    "link": "https://openai.com/index/braintrust",
+    "source": "OpenAI",
+    "published": "Fri, 29 May 2026 12:00:00 GMT",
+    "summary": "How Braintrust engineers use Codex with GPT-5.5 to run experiments and code faster.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/5RgT3cPhA5Fs0Nm9sjhmwV/bfa31b3a64ed1689da20b7ae1fc8a3d1/oai_Braintrust_SEO.png?w=1600&amp;h=900&amp;fit=fill",
+    "fetched_at": "2026-05-30 05:14:32",
+    "ja_summary": "・Braintrustは「Codex」と「GPT-5.5」を組み合わせ、顧客要望のコード化を自動化。\n・AI活用により、開発実験の迅速化とプログラミング効率の劇的な向上を実現。\n・顧客ニーズから実装までのサイクルを短縮し、開発現場の生産性を最大化。"
+  },
+  {
+    "title": "思想と仕様を分けて要件定義する",
+    "link": "https://zenn.dev/rehabforjapan/articles/requirements-engineering",
+    "source": "Zenn Trends",
+    "published": "Thu, 28 May 2026 03:00:37 GMT",
+    "summary": "はじめに\nAIによって実装が速くなっていますが、そもそもの要件が決まらなければ実装できません。実装が速いことの価値は、上流が整っていてはじめて発揮されます。要件定義フェーズをスムーズに進めるにはどうすれば良いのかを考えました。\n\n 前提\n\nフェーズ: 0→1開発\nツール: Claude Code\n\n\n プロセスの全体像\n何が決まっていて何が決まっていないのかが曖昧で、要件定義が必要以上に時間がかかってしまうことがありました。そこで、何に時間がかかっているのか、何を合意すべきかを整理してみたら、概念整理 → 合意形成 → 仕様生成の3段階に分かれると考えました。\n\n\n\nステップ\nInp...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--UDmJElO7--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E6%2580%259D%25E6%2583%25B3%25E3%2581%25A8%25E4%25BB%2595%25E6%25A7%2598%25E3%2582%2592%25E5%2588%2586%25E3%2581%2591%25E3%2581%25A6%25E8%25A6%2581%25E4%25BB%25B6%25E5%25AE%259A%25E7%25BE%25A9%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:tara%2520is%2520ok%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzNkYzExOTgzNjguanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Rehab%2520Tech%2520Blog%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2E3YWQ2Yjk4MTkuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiGT",
+    "fetched_at": "2026-05-30 05:15:08",
+    "ja_summary": "・AI実装を加速させるには、上流の要件定義を「概念整理」「合意形成」「仕様生成」の3段階に分けることが有効。\n・何が決まっていないかを可視化することで、曖昧さを排除し、定義のスピードを向上させる。\n・「思想（目的）」と「仕様（手段）」を分離して進めることで、手戻りのないスムーズな開発を実現する。"
+  },
+  {
     "title": "OpenAI、金融機関に「GPT-5.5-Cyber」提供　「日本サイバーアクションプラン」",
     "link": "https://www.watch.impress.co.jp/docs/news/2113108.html",
     "source": "Impress Watch",
@@ -948,55 +998,5 @@
     "image": "https://media.loom-app.com/loom/2026/05/25/ae91c7ab-e91c-4c8d-95b0-cda20d4ad89e/original.jpg?w=1200&amp;h=630",
     "fetched_at": "2026-05-29 07:53:32",
     "ja_summary": "・AIの影響に関わらず、自身の市場価値を維持するための具体的な備えが必要。\n・将来のキャリア構築に向けて、現状から一歩踏み出すための対策を実践する。\n・変化を恐れず、AI時代に適応するスキルや戦略を身につけることが重要。"
-  },
-  {
-    "title": "3メガ銀 OpenAI新型モデル活用へ",
-    "link": "https://news.yahoo.co.jp/pickup/6582101?source=rss",
-    "source": "Yahoo!ニュース IT・科学",
-    "published": "Thu, 28 May 2026 21:43:04 GMT",
-    "summary": "",
-    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/5/29/6ec6269866717007ce1cb8933026785f80e109046ec7795becf565e954217871.jpg",
-    "fetched_at": "2026-05-29 07:53:36",
-    "ja_summary": "・国内3メガ銀行がOpenAIの最新AIモデルを業務に導入。\n・行内の書類作成やデータ分析などの業務効率化を推進。\n・セキュアな環境下で生成AIを活用し、生産性の向上を目指す。"
-  },
-  {
-    "title": "大手SIerの25年度決算から見える、SIerから「AIネイティブカンパニー」への構造転換",
-    "link": "https://japan.zdnet.com/article/35248071/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "大手SI会社の2025年度決算説明会から「システムインテグレータ」から「AIネイティブカンパニー」への構造転換を急ぐ姿がみえてきた。システム開発の生産性を大幅に向上させた生成AIの急速な進化が伝統的なSIモデルを終焉させつつあるからだ。各社の決算説明会から、業績とAIの取り組みを見る。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35248071/\"><img src=\"https://japan.zdnet.com/storage/2025/02/20/3f1df6775d071eff66d8be55587b07f1/t/184/138/d/250220_enterprise_as_1280_721823729.jpeg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2025/02/20/3f1df6775d071eff66d8be55587b07f1/t/184/138/d/250220_enterprise_as_1280_721823729.jpeg",
-    "fetched_at": "2026-05-29 07:53:42",
-    "ja_summary": "・生成AIの進化により、従来のシステム開発モデルが限界を迎えつつある。\n・大手SIerは「システム構築」から「AIネイティブ企業」への構造転換を急いでいる。\n・開発の生産性向上を軸に、各社は新たな収益モデルへの転換を模索している。"
-  },
-  {
-    "title": "IT専門職の96％がAIを利用--エージェント型AIの上位7用途と導入時の障壁とは",
-    "link": "https://japan.zdnet.com/article/35247899/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "新たな調査によれば、AI時代においてますます価値が高まっている新たなスキルセットとして、AIのアウトプットの結果を検証する能力が挙げられる。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35247899/\"><img src=\"https://japan.zdnet.com/storage/2026/05/22/250305765019807cf676c5c360ccfef9/t/184/138/d/large-shutterstock-2730692989.jpg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2026/05/22/250305765019807cf676c5c360ccfef9/t/184/138/d/large-shutterstock-2730692989.jpg",
-    "fetched_at": "2026-05-29 07:53:42",
-    "ja_summary": "・IT専門職の96％が既にAIを活用しており、業務効率化や自動化が進んでいる。\n・今後はAIが生成した成果物の内容を正しく検証するスキルが重要となる。\n・エージェント型AIの活用が広がる一方、導入には特有の障壁も存在している。"
-  },
-  {
-    "title": "AIが偽の決済へ誘導--注意すべき5つのポイントとは",
-    "link": "https://japan.zdnet.com/article/35247958/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "Visaの調査によれば、AIを利用した詐欺は「消費者被害の最も急速に拡大している原因」となっている。本稿では注意すべき点を紹介する。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35247958/\"><img src=\"https://japan.zdnet.com/storage/2026/05/25/0207d4f0fda7084e8ea02a9d9af0bb95/t/184/138/d/large-buynowkey-gettyimages-2270986884.jpg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2026/05/25/0207d4f0fda7084e8ea02a9d9af0bb95/t/184/138/d/large-buynowkey-gettyimages-2270986884.jpg",
-    "fetched_at": "2026-05-29 07:53:42",
-    "ja_summary": "AIを活用した詐欺が急増しており、消費者の大きな脅威となっている。\n偽の決済へ誘導される手口が増加しているため、事前の警戒が不可欠。\n被害を防ぐために、注意すべき5つのポイントを確認し対策を講じること。"
-  },
-  {
-    "title": "デルが提示した、「AIの未来がオンプレミスにある」理由",
-    "link": "https://japan.zdnet.com/article/35248144/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "デル・テクノロジーズの最新カンファレンスでは、コスト上昇や主権への要件、エージェント導入の拡大を背景に、企業AIのハイブリッドインフラ化に焦点が当てられた。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35248144/\"><img src=\"https://japan.zdnet.com/storage/2026/05/28/b0327146eb2271c79b0b29807e9d8ada/t/184/138/d/1000027098_l.jpg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2026/05/28/b0327146eb2271c79b0b29807e9d8ada/t/184/138/d/1000027098_l.jpg",
-    "fetched_at": "2026-05-29 07:53:42",
-    "ja_summary": "・デルは、コスト抑制やデータ主権の観点から、AI活用にはオンプレミスを組み合わせたハイブリッド環境が不可欠と提唱。\n・AIエージェントの導入拡大を見据え、自社でインフラを制御できる環境の重要性が増している。"
   }
 ]
