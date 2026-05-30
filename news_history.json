@@ -1,5 +1,25 @@
 [
   {
+    "title": "新卒より生成AIがいい──初任給バブルの裏で、大手企業が進める“超厳選採用”は何をもたらすのか",
+    "link": "https://www.itmedia.co.jp/business/articles/2605/29/news030.html",
+    "source": "ITmedia ビジネス",
+    "published": "Fri, 29 May 2026 07:00:00 +0900",
+    "summary": "日本の雇用慣行において、長らく“最後の聖域”とされてきた「新卒一括採用」に、今すさまじい地殻変動が起きています。名だたる大手企業が相次いで新卒の「厳選採用」へ舵を切っているのです。",
+    "image": "https://image.itmedia.co.jp/business/articles/2605/29/cover_news030.jpg",
+    "fetched_at": "2026-05-30 10:30:20",
+    "ja_summary": "・大手企業が新卒一括採用を見直し、少数を深く選抜する「超厳選採用」へシフト。\n・育成コストとリスクを避け、即戦力となる生成AI活用や高度人材を優先する傾向が強まった。\n・日本の伝統的な雇用慣行が崩れ、新卒市場の二極化と質の向上が加速している。"
+  },
+  {
+    "title": "Anthropic、「ミトス級AI」を数週間以内に一般公開へ　「Claude Opus 4.8」も発表",
+    "link": "https://japan.cnet.com/article/35248186/",
+    "source": "CNET Japan",
+    "published": "",
+    "summary": "Anthropicは5月28日（米国時間）、生成AIモデル「Claude Opus 4.8」を公開した。前モデル「Opus 4.7」から「控えめだが確実な改善」を加えたという。あわせて同社は、現在Project Glasswingの一環として一部組織が利用している「Claude Mythos Preview」（ミトス）と同等クラスの能力を持つ「Mythos級モデル」について、数週間以内に全顧客へ提供できる見通しだと明らかにした。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35248186/\"><img src=\"https://japan.cnet.com/storage/2026/05/29/92478645ca9d8c4d73ca585f689e7e07/t/184/138/d/claude-3.jpeg\" /></a>",
+    "image": "https://japan.cnet.com/storage/2026/05/29/92478645ca9d8c4d73ca585f689e7e07/t/184/138/d/claude-3.jpeg",
+    "fetched_at": "2026-05-30 10:30:40",
+    "ja_summary": "・Anthropicが生成AI「Claude Opus 4.8」を公開し、性能を小幅に向上させた。\n・「ミトス級」の高性能モデルを数週間以内に全顧客へ提供する見通し。"
+  },
+  {
     "title": "学歴･実績より翻訳力､採用される実務家の条件。アカデミックシフト 社会人から大学教授になる方法⑩ | キャリア・教育 | 東洋経済オンライン",
     "link": "https://toyokeizai.net/articles/-/945854?utm_source=rss&utm_medium=http&utm_campaign=link_back",
     "source": "東洋経済オンライン",
@@ -978,25 +998,5 @@
     "image": "https://japan.zdnet.com/storage/2026/05/29/0304f234fb0930522f7c6d7bdb2c77c7/t/184/138/d/shutterstock-editorial-2758959927_l.jpg",
     "fetched_at": "2026-05-29 09:04:58",
     "ja_summary": "・AnthropicがAIモデル「Opus 4.8」をリリース。\n・処理の高速化・高性能化に加え、「誠実さ」と「慎重さ」を強化。\n・複雑なコーディング作業に最適化されたモデル。"
-  },
-  {
-    "title": "「これAI画像？」検出機能がChromeやGoogle検索に統合　AI コンテンツ検出APIをプレビュー提供、SynthID透かし導入企業も拡大",
-    "link": "https://www.techno-edge.net/article/2026/05/27/5110.html",
-    "source": "TechnoEdge",
-    "published": "Wed, 27 May 2026 16:25:58 +0900",
-    "summary": "・GoogleのAI電子透かし技術「SynthID」の検証機能がSearchとChromeに拡張され、「これはAIで作られたか？」と問いかけるだけで確認できるようになる<br />\n・C2PAコンテンツクレデンシャルの検証機能がGeminiアプリに追加され、画像が未改ざんのオリジナルかどうかを確認可能に。SearchとChromeにも数カ月以内に展開予定<br />\n・Google CloudにAIコンテンツ検出APIを新たに提供開始し、Google製以外のモデルが生成したコンテンツも検出できる企業向けツールとして展開",
-    "image": "https://www.techno-edge.net/imgs/rss/31742.jpg",
-    "fetched_at": "2026-05-29 09:05:00",
-    "ja_summary": "・Google検索やChromeで、画像がAI生成か簡単に確認できる機能が導入されます。\n・画像が改ざんされていないか証明する「C2PA」の検証機能も順次拡大されます。\n・企業向けに他社モデルを含むAI生成物を検出するAPIの提供が始まりました。"
-  },
-  {
-    "title": "AIで開発が速くなったので、受託開発の価値を考え直してみる",
-    "link": "https://qiita.com/yoshi1220/items/0bfb5b4fc062e0290597",
-    "source": "Qiita (Popular)",
-    "published": "2026-05-15T20:04:32+09:00",
-    "summary": "## はじめに\n\nAI、特にコーディングエージェントの進化によって、ソフトウェア開発の進め方は大きく変わりつつあります。\n\n今までは数週間、数か月かかっていた実装や調査が、AIをうまく使うことで短時間で進められるようになってきました。もちろん、AIに任せれば何でも正しく作れるわけではありません。それでも、エンジニアがAIを前提に開発することで、以前よりも短期間で、品質の高いソフトウェアを作れる可能",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGMTU4Mzk4JTJGcHJvZmlsZS1pbWFnZXMlMkYxNjc4Njg3MDY4P2l4bGliPXJiLTQuMS4xJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz0zNjE0MDIwYjM4ZGMwY2ZiNGE1NjVlYmY5MWRhMmE0ZQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D2638b3013ae63d905c99500cd1178af2?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9QUklRTMlODElQTclRTklOTYlOEIlRTclOTklQkElRTMlODElOEMlRTklODAlOUYlRTMlODElOEYlRTMlODElQUElRTMlODElQTMlRTMlODElOUYlRTMlODElQUUlRTMlODElQTclRTMlODAlODElRTUlOEYlOTclRTglQTglOTclRTklOTYlOEIlRTclOTklQkElRTMlODElQUUlRTQlQkUlQTElRTUlODAlQTQlRTMlODIlOTIlRTglODAlODMlRTMlODElODglRTclOUIlQjQlRTMlODElOTclRTMlODElQTYlRTMlODElQkYlRTMlODIlOEImdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz0wZDdlMDIxYzJlYTI0NjNlZWVlZTY3NmU3MjdiOTAxNA&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDB5b3NoaTEyMjAmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz0wODAwOGI2Mjk2MzJlMWMxZjg0YmUxOTVjNTdkYWZhOA&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=dd2d467e04bfe02b4a688fb3ff439430",
-    "fetched_at": "2026-05-29 09:05:32",
-    "ja_summary": "AIによるコーディング支援の進化で開発速度が飛躍的に向上した。\n今後は「工数」ではなく、付加価値や成果を重視する形へ受託開発の価値を見直す必要がある。"
   }
 ]
