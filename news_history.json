@@ -1,5 +1,65 @@
 [
   {
+    "title": "「世界一は狙わない」NVIDIAと協業でAI時代の計算機へ",
+    "link": "https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00192/00001/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "理化学研究所と富士通、米NVIDIA（エヌビディア）が2030年ごろの稼働を目指し開発する次世代スーパーコンピューター「富岳NEXT」が、最初のマイルストーンを迎えた。アーキテクチャーの基本設計を2026年3月に終え、詳細設計へ移った。性能世界一へのこだわりを捨て、AI（人工知能）時代に「使われる計算機」の実現に比重を置く。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00192/00001/topm.jpg?20220512",
+    "fetched_at": "2026-05-30 23:46:44",
+    "ja_summary": "・理研、富士通、NVIDIAが次世代スパコン「富岳NEXT」の詳細設計へ移行。\n・世界一の性能を追わず、AI時代に実用的な「使われる計算機」を重視。\n・2030年ごろの稼働を目指し、開発フェーズを加速させる。"
+  },
+  {
+    "title": "生成AIで橋梁の点検調書案を自動作成、NTTグループと建設コンサルが共同で",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02654/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "NTTドコモソリューションズ（東京・港）とNTTドコモ、溝田設計事務所（福岡県久留米市）の3社は、生成AI（人工知能）を活用して、国土交通省の道路橋定期点検要領の記録様式に準拠した書類（点検調書）の案を生成するシステムを開発した。点検技術者が橋の損傷状況などをまとめた点検票をサーバーにアップロードすると、AIがそれを基に診断し、調書案を作成する。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02654/SNS.jpg?20220512",
+    "fetched_at": "2026-05-30 23:46:44",
+    "ja_summary": "・NTTグループと溝田設計事務所が、生成AIによる橋梁点検調書の自動作成システムを共同開発。\n・現場の点検データを取り込むだけで、国交省の様式に準拠した調書案をAIが自動生成。\n・点検業務の効率化と事務作業の負荷軽減を同時に実現。"
+  },
+  {
+    "title": "Microsoft 365 Copilot、デザイン大幅リニューアルで高速化",
+    "link": "https://www.watch.impress.co.jp/docs/news/2112852.html",
+    "source": "Impress Watch",
+    "published": "",
+    "summary": "米Microsoftは、Officeアプリで利用する生成AI「Microsoft 365 Copilot」のデザインを刷新する。クリーンで、素早く応答し、作業の流れに溶け込むデザインと謳っている。",
+    "image": "https://www.watch.impress.co.jp/img/ipw/list/2112/852/00.jpg",
+    "fetched_at": "2026-05-30 23:46:49",
+    "ja_summary": "・Microsoft 365 Copilotのデザインを刷新\n・応答速度が向上し、作業効率を改善\n・業務フローに自然に溶け込む操作性を実現"
+  },
+  {
+    "title": "ガバメントAI「源内」、全府省庁18万人に向けた実証実験開始",
+    "link": "https://www.watch.impress.co.jp/docs/news/2112863.html",
+    "source": "Impress Watch",
+    "published": "",
+    "summary": "デジタル庁は、生成AI利用環境プロジェクト名「源内(げんない)」の対象を拡大し、5月から大規模実証実験を開始した。29日時点では、約10万人の政府職員が源内を利用可能な状況となり、今後、順次対象府省庁・職員数を拡大し、全府省庁の約18万人が利用できるよう環境整備を進める。",
+    "image": "https://www.watch.impress.co.jp/img/ipw/list/2112/863/d07.jpg",
+    "fetched_at": "2026-05-30 23:46:50",
+    "ja_summary": "・デジタル庁が生成AI「源内（げんない）」の大規模実証実験を本格化。\n・現在約10万人が利用中で、今後全府省庁の職員約18万人まで順次拡大予定。\n・政府組織全体での生成AI活用による業務効率化に向けた環境整備を加速。"
+  },
+  {
+    "title": "15 years of Rails with Domain Driven Design - lessons learnt",
+    "link": "https://speakerdeck.com/andrzejkrzywda/15-years-of-rails-with-domain-driven-design-lessons-learnt",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-05-30T10:42:07-04:00",
+    "summary": "How to use AI to transform your Rails app towards a DDD application. The resulting architecture is AI-native and allows non-technical people to create some of the new features - especially read models.",
+    "image": "https://files.speakerdeck.com/presentations/28160e5e16f244a5893743ecb32d1a68/preview_slide_0.jpg?39564939",
+    "fetched_at": "2026-05-30 23:47:31",
+    "ja_summary": "・AIを活用し、15年続いた既存のRailsアプリをドメイン駆動設計（DDD）へ刷新する手法を解説。\n・AIネイティブなアーキテクチャを採用することで、システムの柔軟性を向上。\n・開発の難易度を下げ、エンジニア以外の非技術職でも新機能（特に読み取りモデル）の作成が可能になる。"
+  },
+  {
+    "title": "Hokkaido JUGのJCP Annual Awards授賞式 / JJUG CCC 2026 Spring LT",
+    "link": "https://speakerdeck.com/gishi_yama/jjug-ccc-2026-spring",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-05-30T10:15:40-04:00",
+    "summary": "https://jjug.doorkeeper.jp/events/196013",
+    "image": "https://files.speakerdeck.com/presentations/4c3bc9e81fa44a2784d91e03c46d404f/preview_slide_0.jpg?39564883",
+    "fetched_at": "2026-05-30 23:47:31",
+    "ja_summary": "・Hokkaido JUGがJCP Annual Awardsを受賞したことを報告。\n・JJUG CCC 2026 Springにて、受賞の経緯や活動内容に関するライトニングトークを実施。\n・北海道におけるJavaコミュニティの貢献と最新動向を共有するイベント。"
+  },
+  {
     "title": "アマゾン、AIで映像制作を支援　プライム・ビデオで配信予定の3作品とは",
     "link": "https://japan.cnet.com/article/35248145/",
     "source": "CNET Japan",
@@ -938,65 +998,5 @@
     "image": "https://res.cloudinary.com/zenn/image/upload/s--TeabMVlG--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590Laravel%252013%25E3%2580%2591Laravel%2520AI%2520SDK%2520%25E3%2582%2592%25E8%25A9%25A6%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:tatata-keshi%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzMyODFjNDczOTguanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2582%25BD%25E3%2583%25BC%25E3%2582%25B7%25E3%2583%25A3%25E3%2583%25AB%25E3%2583%2587%25E3%2583%25BC%25E3%2582%25BF%25E3%2583%2590%25E3%2583%25B3%25E3%2582%25AF%2520%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2M2Y2IzODcyOGQuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiGT",
     "fetched_at": "2026-05-29 17:29:14",
     "ja_summary": "・Laravel Live Japanにて発表された「Laravel AI SDK」の概要と活用について解説。\n・Taylor Otwell氏が登壇し、AI開発を容易にする最新の公式SDKを紹介。\n・LaravelエコシステムにおけるAI活用機能の詳細と導入ポイントを共有。"
-  },
-  {
-    "title": "スペック文書を「読みたくなるHTML」に変換するClaude Codeスキルを作った話",
-    "link": "https://zenn.dev/spacemarket/articles/6c4992227d0b0d",
-    "source": "Zenn Trends",
-    "published": "Thu, 28 May 2026 05:35:47 GMT",
-    "summary": "こんにちは！スペースマーケットの jin です🐶\n今回は、仕様書やスペック文書を人間が読みやすいHTMLレポートに変換するClaude Codeスキル「spec-to-readable-html」を作った話を書きます。\n作った動機、設計で考えたこと、実際に使ってみた結果などをまとめたので、Claude Codeスキルの開発に興味がある方の参考になれば嬉しいです。\n\n\n▲ 今回作成したスキルを使って個人プロジェクトをHTML化したサンプルの一部です\n\n きっかけ：「The Unreasonable Effectiveness of HTML」\nことの始まりは、Anthropic の Cla...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--7GLODekr--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25B9%25E3%2583%259A%25E3%2583%2583%25E3%2582%25AF%25E6%2596%2587%25E6%259B%25B8%25E3%2582%2592%25E3%2580%258C%25E8%25AA%25AD%25E3%2581%25BF%25E3%2581%259F%25E3%2581%258F%25E3%2581%25AA%25E3%2582%258BHTML%25E3%2580%258D%25E3%2581%25AB%25E5%25A4%2589%25E6%258F%259B%25E3%2581%2599%25E3%2582%258BClaude%2520Code%25E3%2582%25B9%25E3%2582%25AD%25E3%2583%25AB%25E3%2582%2592%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%259F%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:jin%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzBmNzVlZDJmMDUuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2582%25B9%25E3%2583%259A%25E3%2583%25BC%25E3%2582%25B9%25E3%2583%259E%25E3%2583%25BC%25E3%2582%25B1%25E3%2583%2583%25E3%2583%2588%2520Engineer%2520Blog%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jS1R2T3RVOUtfR3NHa0haYnVPRGtreF9oaVhJVzJkTGlYVjVld2xlTEJtSmlrV0lfRT1zOTYtYw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiGT",
-    "fetched_at": "2026-05-29 17:29:14",
-    "ja_summary": "・仕様書などのスペック文書を、人間が読みやすいHTMLレポートへ自動変換するClaude Codeスキルを開発。\n・「The Unreasonable Effectiveness of HTML」をヒントに、情報の視認性と活用性の向上を目指して制作。\n・開発の背景や設計思想を公開しており、Claude Codeスキル開発の参考事例として活用可能。"
-  },
-  {
-    "title": "When AI Agents Start Moving Money",
-    "link": "https://speakerdeck.com/zdne/when-ai-agents-star-t-moving-money",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-05-29T03:00:59-04:00",
-    "summary": "Keynote from UnBundled Fintech Week, Prague, May 2026. https://fintechweekcee.com/unbundled",
-    "image": "https://files.speakerdeck.com/presentations/f227929fb50e412a8fa5cd26b50607da/preview_slide_0.jpg?39550575",
-    "fetched_at": "2026-05-29 17:29:16",
-    "ja_summary": "・AIエージェントが自律的に金融取引を行う時代の到来に向けた論点整理。\n・2026年5月のフィンテック会議にて、AIによる決済や資産運用の変革を議論。\n・自動化された金融システムにおけるリスクと新たなビジネス機会を解説。"
-  },
-  {
-    "title": "AIにコードを書かせ続けて気づいた、エンジニアの\"分かったつもり\"の怖さ",
-    "link": "https://qiita.com/jinxin4869/items/786af70f2697dfac4329",
-    "source": "Qiita (Popular)",
-    "published": "2026-05-21T14:08:35+09:00",
-    "summary": "## はじめに\n\n「なんでここでこの型を使ってるの？」\n同僚にそう聞かれたとき、自分の口から出たのは「一旦調べさせてください」だった。実装を担当しているのは自分なのに、その場でパッと説明できない。動いている。テストも通っている。でも、なぜそう書いたのかと聞かれると言葉に詰まる。AIコーディングツールが普及してから、AIによる実装が増えてきた弊害が少しずつ表れ始めている。\n\nAIコーディングツールを",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmF2YXRhcnMuZ2l0aHVidXNlcmNvbnRlbnQuY29tJTJGdSUyRjE2NjcxMTEyNCUzRnYlM0Q0P2l4bGliPXJiLTQuMS4xJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz1iMzE3OGMxN2Y5OTcwN2FjMzVjN2E4ZmZhYjRmNWJiYg%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkZhZmM0ZGJhZjAzNThlOGQwYjM0NmM4ZDc1ZWIwMzdiMjVmNjc4MDY5JTJGb3JpZ2luYWwuanBnJTNGMTYwNzc1NjU4OD9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz03NjRmYjE2ODMxYjQ2ZDU0NTgwMmI1MGMzYWMxODM2MQ%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D6cbf96e55ee88232670e5ccf914a715e?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9QUklRTMlODElQUIlRTMlODIlQjMlRTMlODMlQkMlRTMlODMlODklRTMlODIlOTIlRTYlOUIlQjglRTMlODElOEIlRTMlODElOUIlRTclQjYlOUElRTMlODElOTElRTMlODElQTYlRTYlQjAlOTclRTMlODElQTUlRTMlODElODQlRTMlODElOUYlRTMlODAlODElRTMlODIlQTglRTMlODMlQjMlRTMlODIlQjglRTMlODMlOEIlRTMlODIlQTIlRTMlODElQUUlMjIlRTUlODglODYlRTMlODElOEIlRTMlODElQTMlRTMlODElOUYlRTMlODElQTQlRTMlODIlODIlRTMlODIlOEElMjIlRTMlODElQUUlRTYlODAlOTYlRTMlODElOTUmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1jZWIwOTFiY2YzYWQ5ZmIzYTg4NDZjYTJmNTExZDQ5YQ&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBqaW54aW40ODY5JnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9MzNlMDU1OTgyZWZiMzI4ZGUwMjc2ZDE4YmJlYmI1OGY&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=5qCq5byP5Lya56S-44K344Oz44K344Ki&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=a947e7db690cd141a24249db8ac23508",
-    "fetched_at": "2026-05-29 17:29:18",
-    "ja_summary": "AIのコード生成に頼りすぎることで、エンジニアが仕組みを理解しないまま実装する「分かったつもり」の弊害が増加している。\n自身のコードを説明できない状況は、開発のブラックボックス化や技術的負債を招くリスクがある。\nAIを補助ツールとして活用しつつ、エンジニア自身がコードの根拠を理解し続ける姿勢が不可欠である。"
-  },
-  {
-    "title": "就活生のIT人気企業1位は？　「AIを社内で使えない会社は不安」",
-    "link": "https://www.itmedia.co.jp/business/articles/2605/29/news035.html",
-    "source": "ITmedia ビジネス",
-    "published": "Fri, 29 May 2026 09:00:00 +0900",
-    "summary": "就活生同士のコミュニティサイトを運営するみん就は、2027年卒業予定の就活生を対象に「2027年卒 みんなのIT業界新卒就職人気企業ランキング」を発表した。その結果……。",
-    "image": "https://image.itmedia.co.jp/business/articles/2605/29/cover_news035.jpg",
-    "fetched_at": "2026-05-29 13:40:31",
-    "ja_summary": "・2027年卒のIT業界人気企業ランキングが発表され、AI活用への関心が就活生の企業選びを大きく左右している。\n・「AIを社内で使えない企業には不安を感じる」との意見が目立ち、最新技術の導入状況が就職先の選択基準として重視されている。"
-  },
-  {
-    "title": "「AI開発、外部の監視不可欠」 アンソロピック共同創業者、ローマ教皇の書簡受け (Views)",
-    "link": "https://business.nikkei.com/atcl/seminar/19/00030/052800774/",
-    "source": "日経ビジネス 最新",
-    "published": "",
-    "summary": "高性能人工知能（AI）「クロード」を開発した米新興企業アンソロピックの共同創業者クリス・オラ氏は25日、AI開発をテック企業だけに委ねることはできないと述べ、宗教指導者、政府、市民社会による監視の強化を要望した。",
-    "image": "https://business.nikkei.com/atcl/seminar/19/00030/052800774/fb.jpg",
-    "fetched_at": "2026-05-29 13:40:37",
-    "ja_summary": "・AI開発をテック企業に委ねず、外部による監視体制の構築が不可欠。\n・アンソロピック共同創業者が、政府や市民社会などの介入を提唱。\n・宗教指導者を含む多様な立場からの監視強化を求める方針を表明。"
-  },
-  {
-    "title": "「来るべきものが来た」、AnthropicがMythosクラスのAIモデルを一般公開へ",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03623/052900006/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "米Anthropicは2026年5月28日（米国時間）、同社が開発した「Claude Mythos Preview」と同水準の性能を備えるAI（人工知能）モデルを一般公開すると明らかにした。「Mythosクラス」のAIモデルの一般公開を巡っては、幅広い企業でサイバーセキュリティー対策が進むという期待と、悪用に対する懸念が交錯する。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03623/052900006/topm.jpg?20220512",
-    "fetched_at": "2026-05-29 13:40:39",
-    "ja_summary": "・Anthropicが最高性能の「Mythosクラス」AIモデルを一般公開。\n・業務効率化やサイバーセキュリティー向上への期待が高まる一方、悪用リスクも懸念。\n・最先端AIの普及が本格化し、企業には改めて安全対策が求められる局面へ。"
   }
 ]
