@@ -1,5 +1,35 @@
 [
   {
+    "title": "ソフトバンクグループがフランスで欧州最大のデータセンター建設､最大750億ユーロ（約14兆円）を投じる方針 | 政治・経済・投資 | 東洋経済オンライン",
+    "link": "https://toyokeizai.net/articles/-/946310?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+    "source": "東洋経済オンライン",
+    "published": "Sun, 31 May 2026 07:35:00 +0900",
+    "summary": "ソフトバンクグループは､フランスでの大規模な人工知能（AI）関連施設の構築に最大750億ユーロ（約14兆円）を投じる方針だと､英フィナンシャル･タイムズ（FT）が報じた。実現すれば欧州最大のデータセ…",
+    "image": "https://tk.ismcdn.jp/mwimgs/8/c/1200w/img_8ce34784e98d412e7e918692e2150f11507627.jpg?nextgen=false",
+    "fetched_at": "2026-05-31 08:40:41",
+    "ja_summary": "・ソフトバンクグループがフランスに欧州最大のAIデータセンターを建設する方針。\n・投資額は最大750億ユーロ（約14兆円）にのぼる見込み。\n・AI基盤の構築により、欧州におけるデジタル戦略を大幅に強化する。"
+  },
+  {
+    "title": "MLエンジニアのための本質から理解するLLM推論: LLM Inference Benchmarking",
+    "link": "https://zenn.dev/kaz20/articles/8034f0587633f3",
+    "source": "Zenn Trends",
+    "published": "Sat, 30 May 2026 05:57:21 GMT",
+    "summary": "はじめに\n東京科学大学 博士課程の藤井です。本記事では、LLM Inferenceの速度等をBenchmarkingする際に理解しておくべき基礎的な知識について解説します。多くの論文、Technical Blog等でいかに提案手法によりLLM Inferenceを高速化/最適化できたのか正しく理解するためには、基礎的な知識を有していることが重要です。もちろん概要を\"なんとなく\"理解することも可能ですが、少し時間を取って基礎から振り返りを行うのも良いのではないでしょうか？\n\n LLM Inference の動作\n以下ではAutoRegressive Decoder Only Trans...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--auGbbam_--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:ML%25E3%2582%25A8%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%258B%25E3%2582%25A2%25E3%2581%25AE%25E3%2581%259F%25E3%2582%2581%25E3%2581%25AE%25E6%259C%25AC%25E8%25B3%25AA%25E3%2581%258B%25E3%2582%2589%25E7%2590%2586%25E8%25A7%25A3%25E3%2581%2599%25E3%2582%258BLLM%25E6%258E%25A8%25E8%25AB%2596%253A%2520LLM%2520Inference%2520Benchmarking%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Kazuki%2520Fujii%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzE4NTI2ZGY5MjUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiGT",
+    "fetched_at": "2026-05-31 08:41:41",
+    "ja_summary": "・LLMの推論速度を正しく評価・比較するために不可欠な基礎知識を解説する技術記事。\n・AutoRegressiveなLLMの動作原理に基づき、ベンチマークにおける技術的背景を詳説。\n・提案手法による高速化・最適化の是非を技術的に正しく判断するための指標を提供。"
+  },
+  {
+    "title": "Cursor: GPT 5.5 が優秀でコスパ最強",
+    "link": "https://zenn.dev/hidenori3/articles/cba47a06140440",
+    "source": "Zenn Trends",
+    "published": "Fri, 29 May 2026 19:25:40 GMT",
+    "summary": "私は新しいモデルが発表されるたびに試しに使ってみていますが、ここ1ヶ月ほどはGPT 5.5だけを使っています。\nモデルが優秀で難しい数学の問題を理解して解けるとかよりも、実際の自分の業務、目的、スタイルに合ったちょうどいいモデルを探すのが大切かなと思います（例. 個人の日常業務では長時間のAgent的なタスクはあまり必要ない）。\n（私はCursorが好きかつ既存コードに対する修正はこっちの方がやりやすいため、Codexやclaudeは基本使ってないです）\n\n GPT-5.5 Medium でちょうど良い\nほぼ全ての業務はGPT-5.5 Mediumで完結できており、High以上は今のとこ...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--NQ-64CA2--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Cursor%253A%2520GPT%25205.5%2520%25E3%2581%258C%25E5%2584%25AA%25E7%25A7%2580%25E3%2581%25A7%25E3%2582%25B3%25E3%2582%25B9%25E3%2583%2591%25E6%259C%2580%25E5%25BC%25B7%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Hidenori%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzYyZDZiOWUwYmIuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiGT",
+    "fetched_at": "2026-05-31 08:41:42",
+    "ja_summary": "・開発ツール「Cursor」では、GPT-5.5 Mediumモデルが実務に最適でコスパも最強。\n・高度な計算能力より、自身の業務スタイルに合致した使い勝手の良さが重要。\n・日常業務の大半はMediumで完結し、それ以上のスペックは現状不要。"
+  },
+  {
     "title": "OpenAI’s Frontier Governance Framework",
     "link": "https://openai.com/index/openai-frontier-governance-framework",
     "source": "OpenAI",
@@ -968,35 +998,5 @@
     "image": "https://japan.cnet.com/storage/2026/05/29/9459c7784a9560f66b41bdfdfa206635/t/184/138/d/cnet-x-perplex-3_1280x960.jpg",
     "fetched_at": "2026-05-29 17:28:42",
     "ja_summary": "・CNNが著作権侵害でAI検索エンジンのパープレキシティを提訴。\n・パープレキシティ側は「事実そのものに著作権は存在しない」と反論。\n・生成AIによるニュース利用の是非を巡り、法廷闘争へ発展。"
-  },
-  {
-    "title": "OpenClaw 入門 (1) - 概要",
-    "link": "https://note.com/npaka/n/n562ebadce4b5",
-    "source": "note (npaka)",
-    "published": "Sat, 23 May 2026 11:02:42 +0900",
-    "summary": "<p id=\"5a9e43ea-348e-4386-ba29-a63cca44347e\" name=\"5a9e43ea-348e-4386-ba29-a63cca44347e\">「OpenClaw」とは何かを、ChatGPTとの違いから「常駐AI秘書」の仕組みとして解説します。</p><br /><br /><a href=\"https://note.com/npaka/n/n562ebadce4b5\">続きをみる</a>",
-    "image": "https://assets.st-note.com/production/uploads/images/278657559/rectangle_large_type_2_7430c909fd6558a0a72e07772658f672.png?width=800",
-    "fetched_at": "2026-05-29 17:28:47",
-    "ja_summary": "「OpenClaw」は、従来のChatGPTとは異なる「常駐型のAI秘書」として機能する仕組みです。本記事では、そのコンセプトや具体的な仕組みについて分かりやすく解説しています。"
-  },
-  {
-    "title": "ガバメントAI 全府省庁で実証開始",
-    "link": "https://news.yahoo.co.jp/pickup/6582074?source=rss",
-    "source": "Yahoo!ニュース IT・科学",
-    "published": "Thu, 28 May 2026 11:18:39 GMT",
-    "summary": "",
-    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/5/28/c6341f05c922faeb182b31ee242be6cfa0f01856602ada11077508d5d839f7c8.jpg",
-    "fetched_at": "2026-05-29 17:28:51",
-    "ja_summary": "・全府省庁で生成AIの実証実験が開始された\n・行政業務の効率化と高度化を目指す\n・本格導入に向けた効果や課題を検証する"
-  },
-  {
-    "title": "YouTube、AI生成コンテンツ自動検出を強化。ラベル表示位置も変更",
-    "link": "https://www.techno-edge.net/article/2026/05/28/5112.html",
-    "source": "TechnoEdge",
-    "published": "Thu, 28 May 2026 06:30:03 +0900",
-    "summary": "YouTubeは、AIで生成・改変されたコンテンツに付与するラベルの表示位置を変更するとともに、クリエイターからの申告がなくてもAIが使われている場合それを自動検出してラベル付けする機能を強化します。",
-    "image": "https://www.techno-edge.net/imgs/rss/31753.jpg",
-    "fetched_at": "2026-05-29 17:28:54",
-    "ja_summary": "・YouTubeがAI生成コンテンツのラベル表示を刷新し、視認性を向上。\n・クリエイターの申告なしでも、AI利用を自動検出する機能を強化。\n・透明性を高め、視聴者がAI生成物を見分けやすい環境を整備。"
   }
 ]
