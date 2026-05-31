@@ -1,5 +1,45 @@
 [
   {
+    "title": "Meta、新たにAIペンダントを開発中のうわさ。新スマートグラスも年内に4製品？",
+    "link": "https://www.techno-edge.net/article/2026/05/31/5125.html",
+    "source": "TechnoEdge",
+    "published": "Sun, 31 May 2026 17:00:03 +0900",
+    "summary": "Metaが、今年の終わりまでの間に最大4種類のスマートグラス製品を発売予定で、さらにAIペンダント製品も開発中だとのうわさが報じられています",
+    "image": "https://www.techno-edge.net/imgs/rss/31894.png",
+    "fetched_at": "2026-05-31 18:23:13",
+    "ja_summary": "・Metaが年内に最大4種類の新型スマートグラスを発売予定。\n・さらに、新たなAIペンダントデバイスも開発中との情報。\n・ウェアラブルAI分野への注力を加速させている。"
+  },
+  {
+    "title": "5億ドル請求されないようにOllamaのCloudを使う。",
+    "link": "https://zenn.dev/yumayx/articles/c69ac22ce07bea",
+    "source": "Zenn Trends",
+    "published": "Sat, 30 May 2026 15:01:41 GMT",
+    "summary": "つれづれなるままに、1日中コンピューターに向かって、思ったことを書いてみる。\n!\nこの記事の内容は、コンピューターのハードウェアリソースを積めばLLMの回答は速くなるし、それをOllama Cloudは無料で提供するなんて、すごいことやってるなあと、驚いた話である。他の媒体には、同じような記事があったが、Zennで、\"ollama cloud\"を検索してもヒットしなかったので、書いてみる。\n\nLLMが出てきた頃から、ずっと思ってる仮説は、プログラムの改善を無限回繰り返し行えば、プログラム・ソフトウェアは最適になる、というのがある。\n貧乏であるから、フロンティアモデルに課金するお金も無い。...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--ugxqH73h--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:5%25E5%2584%2584%25E3%2583%2589%25E3%2583%25AB%25E8%25AB%258B%25E6%25B1%2582%25E3%2581%2595%25E3%2582%258C%25E3%2581%25AA%25E3%2581%2584%25E3%2582%2588%25E3%2581%2586%25E3%2581%25ABOllama%25E3%2581%25AECloud%25E3%2582%2592%25E4%25BD%25BF%25E3%2581%2586%25E3%2580%2582%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Yuma%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2FlNTRhNDk5ZGUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiGT",
+    "fetched_at": "2026-05-31 18:23:38",
+    "ja_summary": "・Ollama Cloudは高性能なハードウェアリソースを無料で提供しており、LLMの応答速度を劇的に改善できる。\n・高額なフロンティアモデルへの課金が不要となるため、低コストで開発環境を最適化したい個人に最適である。\n・既存のプラットフォームで情報が不足していたため、実用的な知見として共有された。"
+  },
+  {
+    "title": "ローカルLLM（Qwen3.6 / Gemma4 / DeepSeek V4 Flash）+ Claude ベンチマーク比較",
+    "link": "https://zenn.dev/keitayamamoto/articles/4380d3f64c8bf1",
+    "source": "Zenn Trends",
+    "published": "Fri, 29 May 2026 16:43:07 GMT",
+    "summary": "ローカルLLMの性能が気になる\nローカルLLMの性能がどんなもんか気になったのでベンチマークをとってみました。\n主にコーディング用途を意識していて、コーディング系でコンパクトな Aider Polyglot というベンチマークのサブセットを使っています。\n\n 計測対象モデル\n\n\n\nモデル\n量子化\nサイズ\n推論エンジン\n\n\n\n\nDeepSeek V4 Flash\nq2-imatrix\n81GB\nds4\n\n\nQwen3.6 35B A3B\nQ4_K_M\n22GB\nLM Studio\n\n\nGemma 4 26B A4B\nQ4_K_M\n18GB\nLM Studio\n\n\nClaude Sonn...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--xSxqoLZt--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%25AD%25E3%2583%25BC%25E3%2582%25AB%25E3%2583%25ABLLM%25EF%25BC%2588Qwen3.6%2520%252F%2520Gemma4%2520%252F%2520DeepSeek%2520V4%2520Flash%25EF%25BC%2589%252B%2520Claude%2520%25E3%2583%2599%25E3%2583%25B3%25E3%2583%2581...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Keita%2520Yamamoto%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jS2NzLWl6ZmZMM0J6R1ZMRkp3WUQxNU5mNW9YSGthRzNXZ2RtOFRRcUtpMU1BYVpCRDg9czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiGT",
+    "fetched_at": "2026-05-31 18:23:40",
+    "ja_summary": "・最新のローカルLLM（DeepSeek V4 Flash、Qwen3.6、Gemma 4）のコーディング性能をベンチマークで比較検証。\n・実用的なコーディング評価セット「Aider Polyglot」を用い、Claude等の主要モデルと比較。\n・自身の用途に最適なモデル選定のための客観的な性能指標を提示。"
+  },
+  {
+    "title": "AI と創る新たな世界 / A New World Created with AI",
+    "link": "https://speakerdeck.com/ks91/a-new-world-created-with-ai",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-05-31T02:34:47-04:00",
+    "summary": "早稲田大学商学部「サイバーフィジカル社会と金融の未来」2026 春の第7回で使用したスライドです。",
+    "image": "https://files.speakerdeck.com/presentations/09c21ee9d73746b3b92ebea4de765dc2/preview_slide_0.jpg?39567426",
+    "fetched_at": "2026-05-31 18:23:40",
+    "ja_summary": "・早稲田大学商学部の講義「サイバーフィジカル社会と金融の未来」で使用されたAIに関するスライド資料。\n・AI技術が変革をもたらす社会像や、今後の金融のあり方について概説。\n・2026年春時点でのAI活用による新たな経済・社会パラダイムを提示。"
+  },
+  {
     "title": "アズビル、「おしゃべりベテラン」が活躍　生成AIが変える技術継承 (シニア覚醒　「静かな退職」を防ぐ人事戦略)",
     "link": "https://business.nikkei.com/atcl/NBD/19/special/02512/",
     "source": "日経ビジネス 最新",
@@ -958,45 +998,5 @@
     "image": "https://www.techno-edge.net/imgs/rss/31680.jpg",
     "fetched_at": "2026-05-29 20:46:32",
     "ja_summary": "・生成AI「HiDream-O1」の公式ワークフローを改良し、実写と見紛うクオリティを実現。\n・前回ComfyUI未対応で非公式だった環境を、正式な手順に基づき最適化。\n・プロカメラマンの視点で、AIグラビア制作の最新手法を解説。"
-  },
-  {
-    "title": "Strengthening societal resilience with Rosalind Biodefense",
-    "link": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense",
-    "source": "OpenAI",
-    "published": "Fri, 29 May 2026 03:00:00 GMT",
-    "summary": "OpenAI launches Rosalind Biodefense, expanding trusted access to GPT-Rosalind for vetted developers and U.S. government partners advancing biodefense, public health, and pandemic preparedness through frontier AI.",
-    "image": "https://images.ctfassets.net/kftzwdyauwt9/4G9yT6eLqfff8i0BP7GP3m/f6fd8c7e07934e3815a0c83239233f3f/16x9.png?w=1600&amp;h=900&amp;fit=fill",
-    "fetched_at": "2026-05-29 20:46:33",
-    "ja_summary": "・OpenAIが生物防衛や公衆衛生の強化を目的とした「Rosalind Biodefense」を始動。\n・選定された開発者や米国政府パートナーに対し、AIモデル「GPT-Rosalind」へのアクセスを提供。\n・最先端AIを活用し、パンデミック対策やバイオセキュリティの向上を支援する。"
-  },
-  {
-    "title": "Anthropic raises $65B in Series H funding at $965B post-money valuation",
-    "link": "https://www.anthropic.com/news/series-h",
-    "source": "Anthropic (News)",
-    "published": "Thu, 28 May 2026 00:00:00 +0000",
-    "summary": "Anthropic raises $65B in Series H funding at $965B post-money valuation",
-    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20Growth&amp;backgroundColor=coral",
-    "fetched_at": "2026-05-29 20:46:34",
-    "ja_summary": "・AI企業のAnthropicがシリーズHラウンドで650億ドル（約10兆円）を調達。\n・今回の資金調達後の企業評価額は9,650億ドル（約145兆円）に到達。\n・生成AI市場への巨額投資が継続し、同社の市場価値が極めて高い水準に急騰。"
-  },
-  {
-    "title": "Introducing Claude Opus 4.8",
-    "link": "https://www.anthropic.com/news/claude-opus-4-8",
-    "source": "Anthropic (News)",
-    "published": "Thu, 28 May 2026 00:00:00 +0000",
-    "summary": "Introducing Claude Opus 4.8",
-    "image": "https://cdn.sanity.io/images/4zrzovbb/website/0eaa0ed2dce9810169112e1c77de2585fcf1f5c2-2880x1620.jpg",
-    "fetched_at": "2026-05-29 20:46:40",
-    "ja_summary": "・最新モデル「Claude Opus 4.8」が発表された。\n・従来のモデルを上回る高度な性能や機能向上を実現。\n・業務効率化や複雑なタスク処理のさらなる高度化が期待される。"
-  },
-  {
-    "title": "Anthropic appoints KiYoung Choi as Representative Director of Korea ahead of Seoul office opening",
-    "link": "https://www.anthropic.com/news/kiyoung-choi-representative-director-anthropic-korea",
-    "source": "Anthropic (News)",
-    "published": "Tue, 26 May 2026 00:00:00 +0000",
-    "summary": "Anthropic appoints KiYoung Choi as Representative Director of Korea ahead of Seoul office opening",
-    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20Globe&amp;backgroundColor=sky",
-    "fetched_at": "2026-05-29 20:46:46",
-    "ja_summary": "・Anthropicがソウル拠点開設に向け、韓国法人代表にチェ・ギヨン氏を任命。\n・韓国市場での事業本格化と、現地でのAI展開を加速させる狙い。"
   }
 ]
