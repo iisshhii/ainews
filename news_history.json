@@ -1,5 +1,85 @@
 [
   {
+    "title": "中外製薬、抗体特化のプロテインAI独自開発　アステラスは拡散モデルに着目",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03575/051900006/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "プロテインAI（人工知能）には、スタートアップだけではなく製薬企業も積極的に取り組む。日本では、中外製薬とアステラス製薬が先進的なプロテインAIの開発に挑んでいる。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03575/051900006/topm.jpg?20220512",
+    "fetched_at": "2026-06-01 00:45:54",
+    "ja_summary": "・中外製薬とアステラス製薬が、創薬の効率化を目指し独自のAI開発を本格化。\n・中外製薬は抗体に特化したAIを、アステラス製薬は拡散モデルを活用した技術を開発中。\n・スタートアップに続き、大手製薬企業がAIによる創薬イノベーションを主導している。"
+  },
+  {
+    "title": "山善やツムラなど、人型ロボでタッグ　2026年7月にデータ収集センター稼働",
+    "link": "https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00012/00392/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "フィジカルAI（人工知能）で制御する人型ロボットの社会実装が、日本で横断的に加速し始めている。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00012/00392/topm.jpg?20220512",
+    "fetched_at": "2026-06-01 00:45:55",
+    "ja_summary": "・山善やツムラなど複数企業が連携し、人型ロボットの社会実装を加速させる。\n・2026年7月、人型ロボットの制御に必要なデータを収集するセンターが稼働予定。\n・フィジカルAIを活用したロボットの活用を、日本全体で本格的に推進する。"
+  },
+  {
+    "title": "OpenAI、金融機関に「GPT-5.5-Cyber」提供　「日本サイバーアクションプラン」",
+    "link": "https://www.watch.impress.co.jp/docs/news/2113108.html",
+    "source": "Impress Watch",
+    "published": "",
+    "summary": "OpenAIは29日、日本におけるサイバーセキュリティ協力を「実装」へと進める取り組み「日本サイバー・アクションプラン(Japan Cyber Action Plan)」を発表した。金融機関に対して、サイバーセキュリティに特化した最新AIモデル「GPT-5.5-Cyber」を提供するほか、日本AIセーフティ・インスティテュート(AISI)との連携強化なども行なう。",
+    "image": "https://www.watch.impress.co.jp/img/ipw/list/2113/108/openai1.jpg",
+    "fetched_at": "2026-06-01 00:45:57",
+    "ja_summary": "・OpenAIが日本の金融機関向けに、サイバーセキュリティ特化型AI「GPT-5.5-Cyber」を提供開始。\n・「日本サイバー・アクションプラン」を策定し、国内のセキュリティ強化を本格的に支援する。\n・日本AIセーフティ・インスティテュート（AISI）とも連携を深め、AIの安全性を確保する。"
+  },
+  {
+    "title": "Boston Children’s uses AI to unlock new diagnoses",
+    "link": "https://openai.com/index/boston-childrens-hospital",
+    "source": "OpenAI",
+    "published": "Fri, 29 May 2026 12:00:00 GMT",
+    "summary": "Boston Children’s Hospital uses OpenAI technology to improve patient care, reduce operational burden, and help diagnose more than 40 rare disease cases.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/30rCYJwrLmxJa0mwAW1suo/af215de4b370e0310026dadd6085431c/boston-childrens-seo.png?w=1600&amp;h=900&amp;fit=fill",
+    "fetched_at": "2026-06-01 00:46:13",
+    "ja_summary": "・ボストン小児病院がOpenAIの技術を導入し、業務効率化と患者ケアを改善。\n・AI活用により、これまで困難だった40件以上の希少疾患の診断に成功。\n・医療現場におけるAI活用が、診断精度の向上と負担軽減に大きく貢献している。"
+  },
+  {
+    "title": "How Braintrust turns customer requests into code with Codex",
+    "link": "https://openai.com/index/braintrust",
+    "source": "OpenAI",
+    "published": "Fri, 29 May 2026 12:00:00 GMT",
+    "summary": "How Braintrust engineers use Codex with GPT-5.5 to run experiments and code faster.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/5RgT3cPhA5Fs0Nm9sjhmwV/bfa31b3a64ed1689da20b7ae1fc8a3d1/oai_Braintrust_SEO.png?w=1600&amp;h=900&amp;fit=fill",
+    "fetched_at": "2026-06-01 00:46:14",
+    "ja_summary": "・BraintrustはAI（CodexとGPT-5.5）を活用し、顧客要望のコード化を自動化。\n・AIによる実験の高速化で、開発効率を大幅に向上。\n・迅速な機能実装とフィードバックのサイクルを実現。"
+  },
+  {
+    "title": "A shared playbook for trustworthy third party evaluations",
+    "link": "https://openai.com/index/trustworthy-third-party-evaluations-foundations",
+    "source": "OpenAI",
+    "published": "Fri, 29 May 2026 00:00:00 GMT",
+    "summary": "OpenAI shares guidance on third-party AI evaluations, covering how to assess model capabilities, safeguards, and validity for frontier systems.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/3iGaglpVIr4csE6CvQuo7Q/61c51a8c408555907d6b0588f8d40172/SEO-shared-playbook-for-trustworthy-third-party-evaluations.png?w=1600&amp;h=900&amp;fit=fill",
+    "fetched_at": "2026-06-01 00:46:15",
+    "ja_summary": "・OpenAIがAIモデルの性能や安全性を検証する「第三者評価」の指針を公開。\n・最先端AIを適正に評価するための枠組みや検証手法を共有。\n・AI開発における透明性と信頼性の向上を目指す共通基準として提示。"
+  },
+  {
+    "title": "【完全版】AIセキュリティ地獄絵図2026 - CVE・攻撃手法・防御策を全部解説する",
+    "link": "https://qiita.com/emi_ndk/items/a36051a97d3b0670bedd",
+    "source": "Qiita (Popular)",
+    "published": "2026-05-28T16:20:24+09:00",
+    "summary": "先日の記事「100万台のAIサービスをスキャンしたら史上最悪のセキュリティだった」が大きな反響をいただいた。\n\nこの記事では：\n- **CVE-2026-7482「Bleeding Llama」の技術的詳細**\n- **AI生成ゼロデイの完全分析**\n- **OWASP LLM Top 10 2026の全リスク解説**\n- **Ollama・n8n・Flowiseのエンタープライズ級ハードニング*",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmF2YXRhcnMuZ2l0aHVidXNlcmNvbnRlbnQuY29tJTJGdSUyRjU0MTczODUwJTNGdiUzRDQ_aXhsaWI9cmItNC4xLjEmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPWNkZmY0YjBhMDNjMTYyOTBkMzk5NWJmYzRkYTdjNmI1%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D26dd64066e4ec8934d87cd97ca579144?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJTkwJUU1JUFFJThDJUU1JTg1JUE4JUU3JTg5JTg4JUUzJTgwJTkxQUklRTMlODIlQkIlRTMlODIlQUQlRTMlODMlQTUlRTMlODMlQUElRTMlODMlODYlRTMlODIlQTMlRTUlOUMlQjAlRTclOEQlODQlRTclQjUlQjUlRTUlOUIlQjMyMDI2JTIwLSUyMENWRSVFMyU4MyVCQiVFNiU5NCVCQiVFNiU5MiU4MyVFNiU4OSU4QiVFNiVCMyU5NSVFMyU4MyVCQiVFOSU5OCVCMiVFNSVCRSVBMSVFNyVBRCU5NiVFMyU4MiU5MiVFNSU4NSVBOCVFOSU4MyVBOCVFOCVBNyVBMyVFOCVBQSVBQyVFMyU4MSU5OSVFMyU4MiU4QiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPWU4NGY1YzcxNTY1YWM3ODRmODU4ZGM0MGZlZjAzNjRh&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBlbWlfbmRrJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9ODEyY2UxNTIxOTMzYWFkOTY1ZTJhOWFiMGQxZDljOTg&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=a772cdd84ae30246702b7cc38f3d6f8b",
+    "fetched_at": "2026-06-01 00:46:39",
+    "ja_summary": "2026年版のAIセキュリティ最新脅威（「Bleeding Llama」等の脆弱性や生成AIのゼロデイ攻撃）を網羅的に解説。\nOWASP LLM Top 10の最新リスクを整理し、企業向けAIインフラ（Ollama、n8n等）を安全に運用するための具体的な対策を提示。\nAIシステムの脆弱性リスクを理解し、実戦的な防御策を導入したい技術者・担当者必読の内容。"
+  },
+  {
+    "title": "【悲報】100万台のAIサービスをスキャンしたら「史上最悪のセキュリティ」だった件",
+    "link": "https://qiita.com/emi_ndk/items/0aac69d8a962d2413d9d",
+    "source": "Qiita (Popular)",
+    "published": "2026-05-24T16:44:12+09:00",
+    "summary": "## あなたのAIサーバー、今この瞬間も丸見えです\n\n「AIを使えば業務が効率化される」\n\nそう信じて、急いでOllamaやn8nをデプロイした会社は多いだろう。\n\n**でも、ちょっと待ってほしい。**\n\nセキュリティ企業Intruderが今月発表した調査結果が、業界に衝撃を与えている。**200万台以上のホスト**をスキャンし、**100万個の公開AIサービス**を分析した結果は——\n\n:::n",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmF2YXRhcnMuZ2l0aHVidXNlcmNvbnRlbnQuY29tJTJGdSUyRjU0MTczODUwJTNGdiUzRDQ_aXhsaWI9cmItNC4xLjEmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPWNkZmY0YjBhMDNjMTYyOTBkMzk5NWJmYzRkYTdjNmI1%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D26dd64066e4ec8934d87cd97ca579144?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJTkwJUU2JTgyJUIyJUU1JUEwJUIxJUUzJTgwJTkxMTAwJUU0JUI4JTg3JUU1JThGJUIwJUUzJTgxJUFFQUklRTMlODIlQjUlRTMlODMlQkMlRTMlODMlOTMlRTMlODIlQjklRTMlODIlOTIlRTMlODIlQjklRTMlODIlQUQlRTMlODMlQTMlRTMlODMlQjMlRTMlODElOTclRTMlODElOUYlRTMlODIlODklRTMlODAlOEMlRTUlOEYlQjIlRTQlQjglOEElRTYlOUMlODAlRTYlODIlQUElRTMlODElQUUlRTMlODIlQkIlRTMlODIlQUQlRTMlODMlQTUlRTMlODMlQUElRTMlODMlODYlRTMlODIlQTMlRTMlODAlOEQlRTMlODElQTAlRTMlODElQTMlRTMlODElOUYlRTQlQkIlQjYmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1jMzZhYjJmNzJjNzc1NTE3MWJkN2I4NmM0Y2NhOTUyNQ&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBlbWlfbmRrJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9ODEyY2UxNTIxOTMzYWFkOTY1ZTJhOWFiMGQxZDljOTg&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=9b41e312bbf5e0c5c79b4e8cac9f89f4",
+    "fetched_at": "2026-06-01 00:46:39",
+    "ja_summary": "・企業が導入したAIサービスの多くが、セキュリティ設定不備により外部から丸見えの状態であることが判明した。\n・調査対象の100万台のAIサービスで深刻な脆弱性が確認され、情報漏洩の大きなリスクとなっている。\n・AI導入を急ぐあまり、適切な保護対策が疎かになっている現状に警鐘が鳴らされている。"
+  },
+  {
     "title": "平均72歳を派遣する「高齢社」／超純水技術で株価56倍／AI面接官で“二度手間”（2026年5月29日版） (日経ビジネスAUDIOモーニング)",
     "link": "https://business.nikkei.com/atcl/audio/22/00001/052800885/",
     "source": "日経ビジネス 最新",
@@ -918,85 +998,5 @@
     "image": "https://media.loom-app.com/loom/2026/05/25/76a8055b-e011-47b7-b183-314e703d675e/original.jpg?w=1200&amp;h=630",
     "fetched_at": "2026-05-30 08:41:30",
     "ja_summary": "・AIの進化と資金調達環境の改善により、欧州のテック系スタートアップが急増している。\n・レゴラやラバブルをはじめとする欧州勢が、米国の技術覇権に挑む動きを見せている。\n・欧州が世界的なテック競争で存在感を強め、勢力図が変化しつつある。"
-  },
-  {
-    "title": "LiteLLMをやめて自作Goバイナリに置き換えたら一気に軽くなりました - 「実践 AI エージェント開発」を実装してみた",
-    "link": "https://zenn.dev/okamyuji/articles/golang-litellm-alternative-single-binary",
-    "source": "Zenn Trends",
-    "published": "Thu, 28 May 2026 22:02:24 GMT",
-    "summary": "!\nオライリー・ジャパンから「実践 AI エージェント開発」として日本語版が出版されたことを記念して、今年の春に英語版の\"Building Applications with AI Agents\"を読んでいたので、本書が示す本番運用要件をそのままGoの単一バイナリAIエージェントに実装してみました。本記事では、まず自分の手元用に書き上げた最小構成を紹介し、そのあとで書籍を読んで補ったプロダクション向け機能を、書籍の章立てに対応する実装順で解説します。\n\n\n できあがったもの\nGo 1.25で書いたgo-llm-agentというシングルバイナリのAIエージェントを公開しました。CGO_EN...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--CXf9exAw--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:LiteLLM%25E3%2582%2592%25E3%2582%2584%25E3%2582%2581%25E3%2581%25A6%25E8%2587%25AA%25E4%25BD%259CGo%25E3%2583%2590%25E3%2582%25A4%25E3%2583%258A%25E3%2583%25AA%25E3%2581%25AB%25E7%25BD%25AE%25E3%2581%258D%25E6%258F%259B%25E3%2581%2588%25E3%2581%259F%25E3%2582%2589%25E4%25B8%2580%25E6%25B0%2597%25E3%2581%25AB%25E8%25BB%25BD%25E3%2581%258F%25E3%2581%25AA%25E3%2582%258A%25E3%2581%25BE%25E3%2581%2597%25E3%2581%259F%2520-%2520%25E3%2580%258C%25E5%25AE%259F%25E8%25B7%25B5%2520AI%2520%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588%25E9%2596%258B%25E7%2599%25BA%25E3%2580%258D%25E3%2582%2592%25E5%25AE%259F...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:okamyuji%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzY5YjFmNDYyYjkuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiGT",
-    "fetched_at": "2026-05-30 08:42:09",
-    "ja_summary": "・「実践 AI エージェント開発」の内容をベースに、Go言語で軽量なシングルバイナリのAIエージェントを自作。\n・既存のLiteLLMから自作ツールへ移行することで、動作を大幅に軽量化。\n・最小構成からプロダクション運用に必要な機能まで、実装プロセスを技術解説。"
-  },
-  {
-    "title": "楽しかったコーディングエージェントサブスク時代の終わり",
-    "link": "https://zenn.dev/tkithrta/articles/0378bc53599fb3",
-    "source": "Zenn Trends",
-    "published": "Thu, 28 May 2026 15:05:05 GMT",
-    "summary": "はじめに\n!\nこの記事は2026年4月2日から2026年5月29日までの公開情報をもとにしています。\n料金・プラン名・含まれる利用枠は頻繁に変わるため、導入時は必ず各社の公式ページで確認してください。\n\nGitHub Copilotから始まるAIコーディング支援ツールは、数年前まで「月額いくらで補完とチャットが使える」という、比較的わかりやすいサブスクリプションモデルとして理解できました。\n個人でChatGPT PlusやClaude Proを使っている限り、支払いの感覚は今でもそれに近いかもしれません。\nしかし、企業導入やエージェント型のコーディング支援まで含めて見ると、状況はかな...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--pmdYskLn--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E6%25A5%25BD%25E3%2581%2597%25E3%2581%258B%25E3%2581%25A3%25E3%2581%259F%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2587%25E3%2582%25A3%25E3%2583%25B3%25E3%2582%25B0%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588%25E3%2582%25B5%25E3%2583%2596%25E3%2582%25B9%25E3%2582%25AF%25E6%2599%2582%25E4%25BB%25A3%25E3%2581%25AE%25E7%25B5%2582%25E3%2582%258F%25E3%2582%258A%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E9%25BB%2592%25E3%2583%25B0%25E6%25A8%25B9%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzk4MTJmNzg3ZjYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiGT",
-    "fetched_at": "2026-05-30 08:42:10",
-    "ja_summary": "・かつて主流だった定額制AIコーディングツールは、企業導入やエージェント機能の普及により価格体系が複雑化している。\n・料金やプランが頻繁に変更されるため、導入時には必ず最新情報を確認する必要がある。\n・単純なサブスクモデルの時代は終わり、現在は利用枠や課金体系を慎重に見極めるべき段階にある。"
-  },
-  {
-    "title": "AIガバナンス実践 - 生成AIコネクタのデータ漏洩リスクと実務対策",
-    "link": "https://speakerdeck.com/knishioka/aigabanansushi-jian-sheng-cheng-aikonekutanodetalou-xie-risukutoshi-wu-dui-ce",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-05-29T19:07:03-04:00",
-    "summary": "AI社会実装勉強会第59回 (https://machine-learning-workshop.connpass.com/event/395133/) の発表資料です。",
-    "image": "https://files.speakerdeck.com/presentations/25daa6e2a8d34ca5bc1ba94d4ed9a4e7/preview_slide_0.jpg?39558613",
-    "fetched_at": "2026-05-30 08:42:11",
-    "ja_summary": "・生成AI連携ツール（コネクタ）経由でのデータ漏洩リスクを解説。\n・不適切なアクセス権限設定やログ管理の不備が主な原因。\n・安全なAI活用のために、組織的なガバナンス構築と技術的対策を提言。"
-  },
-  {
-    "title": "｢今回のAIバブル｣は必ず破裂するが､なぜ今も膨らみ続けなかなか破裂しないのか? 今年崩壊に至る｢2つのシナリオ｣とは | 政治・経済・投資 | 東洋経済オンライン",
-    "link": "https://toyokeizai.net/articles/-/946268?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-    "source": "東洋経済オンライン",
-    "published": "Sat, 30 May 2026 06:30:00 +0900",
-    "summary": "バブルが膨らむ理由と、破裂しない理由は、重なっているが異なる。分けて考える必要がある。しかし、どちらの話も、ほぼ語り尽くした。この連載でも、「『トランプ大統領の終わり』と『アメリカ社会バブルの終わり…",
-    "image": "https://tk.ismcdn.jp/mwimgs/4/4/1200w/img_4472f9b151b1d2a73e6dd822f752ebff117280.jpg?nextgen=false",
-    "fetched_at": "2026-05-30 07:04:32",
-    "ja_summary": "AIバブルは膨張と維持の要因が混在しており、分析は出尽くした。\n今後は「トランプ政権の終焉」と「米国社会のバブル崩壊」という2つのシナリオが破裂の引き金となる。\n投資家はこれらを見極め、崩壊への備えを急ぐ必要がある。"
-  },
-  {
-    "title": "3メガ銀 OpenAI新型モデル活用へ",
-    "link": "https://news.yahoo.co.jp/pickup/6582101?source=rss",
-    "source": "Yahoo!ニュース IT・科学",
-    "published": "Thu, 28 May 2026 21:43:04 GMT",
-    "summary": "",
-    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/5/29/6ec6269866717007ce1cb8933026785f80e109046ec7795becf565e954217871.jpg",
-    "fetched_at": "2026-05-30 07:05:02",
-    "ja_summary": "・3メガバンクがOpenAIの新型AIモデルを導入し、業務効率化を推進\n・行内の文書作成やデータ分析などの事務作業をAIが大幅にサポート\n・人手不足や生産性向上という課題に対し、生成AI活用を本格化させる"
-  },
-  {
-    "title": "XREALが新ブランド「xbx」(X by XREAL)発表、若者向け「xbx a01」を中国で発売　AI自動HDR化と空間ブレ補正対応",
-    "link": "https://www.techno-edge.net/article/2026/05/28/5116.html",
-    "source": "TechnoEdge",
-    "published": "Thu, 28 May 2026 09:33:44 +0900",
-    "summary": "XREALが若年層をターゲットにしたサブブランド「xbx（X by XREAL）」を正式に発表しました。初の製品となるARグラス「xbx a01」シリーズを販売します。",
-    "image": "https://www.techno-edge.net/imgs/rss/31766.jpg",
-    "fetched_at": "2026-05-30 05:14:30",
-    "ja_summary": "・XREALが若年層向け新ブランド「xbx」を立ち上げ。\n・第一弾製品としてARグラス「xbx a01」を中国で発売。\n・AIによるHDR自動調整や空間ブレ補正機能を搭載。"
-  },
-  {
-    "title": "全府省庁の約18万人の政府職員を対象としたガバメントAI（源内）の大規模実証を開始しました",
-    "link": "https://www.digital.go.jp/news/fc155eba-e83d-4ecf-9c6a-a3c855e2e7b3",
-    "source": "デジタル庁",
-    "published": "Thu, 28 May 2026 12:00:09 +0900",
-    "summary": "",
-    "image": "https://www.digital.go.jp/themes/custom/gov_theme_da_2023/assets/images/ogp.png",
-    "fetched_at": "2026-05-30 05:14:30",
-    "ja_summary": "・全府省庁の職員約18万人を対象に、生成AI「ガバメントAI（源内）」の実証実験を開始。\n・業務効率化と行政サービスの向上を目指し、組織的なAI活用を本格化。\n・公務現場でのAI導入により、政府全体のDX推進を加速させる狙い。"
-  },
-  {
-    "title": "全府省庁の約18万人の政府職員を対象としたガバメントAI（源内）の大規模実証を開始します",
-    "link": "https://www.digital.go.jp/news/2d69c287-2897-46d8-a28f-ea5a1fc9bce9",
-    "source": "デジタル庁",
-    "published": "Tue, 26 May 2026 11:26:00 +0900",
-    "summary": "",
-    "image": "https://www.digital.go.jp/themes/custom/gov_theme_da_2023/assets/images/ogp.png",
-    "fetched_at": "2026-05-30 05:14:30",
-    "ja_summary": "・政府は全府省庁の職員約18万人を対象に、独自の生成AI「ガバメントAI（源内）」の実証実験を開始する。\n・業務の効率化や高度化を図り、行政サービスの質向上と生産性向上を目指す。\n・国内開発環境を活用し、セキュリティを確保しながらAIの本格活用に向けた知見を蓄積する。"
   }
 ]
