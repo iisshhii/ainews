@@ -1,5 +1,95 @@
 [
   {
+    "title": "Claude Code の dynamic workflows の概要",
+    "link": "https://note.com/npaka/n/ne4ec7f5bfc1b",
+    "source": "note (npaka)",
+    "published": "Fri, 29 May 2026 08:36:41 +0900",
+    "summary": "<p id=\"86fb9baa-924b-462c-b6fa-a7f62725fad3\" name=\"86fb9baa-924b-462c-b6fa-a7f62725fad3\">以下の記事が面白かったので、簡単にまとめました。</p><figure id=\"61f12dcb-e446-4389-914b-d7fbf7da3e1b\" name=\"61f12dcb-e446-4389-914b-d7fbf7da3e1b\"><blockquote><p id=\"0484e4fc-909f-4b61-a800-4daadc043740\" name=\"0484e4fc-909f-4b61-a800-4daadc043740\"><strong>・</strong><a href=\"https://claude.com/blog/introducing-dynamic-workflows-in-claude-code\" rel=\"nofollow noopener\" target=\"_blank\"><strong>Introducing dynamic workflows in Claude Code</strong></a></p></blockquote>\n<figcaption></figcaption></figure><br /><a href=\"https://note.com/npaka/n/ne4ec7f5bfc1b\">続きをみる</a>",
+    "image": "https://assets.st-note.com/production/uploads/images/280466458/rectangle_large_type_2_de88936ea448a9fd8965c1f6953b6f55.png?width=800",
+    "fetched_at": "2026-06-05 03:10:02",
+    "ja_summary": "Claude Codeに、開発タスクに合わせてAIが最適な手順を自律的に判断・実行する「Dynamic Workflows」が導入されました。\n従来の固定的なプロセスから脱却し、複雑なコーディング作業をより柔軟かつ効率的に自動化できるようになります。\nAIが状況を動的に分析して最適なワークフローを構築するため、開発者の負担が大幅に軽減されます。"
+  },
+  {
+    "title": "Claude Opus 4.8 の概要",
+    "link": "https://note.com/npaka/n/n9cb4d1f22b08",
+    "source": "note (npaka)",
+    "published": "Fri, 29 May 2026 08:09:26 +0900",
+    "summary": "<p id=\"9bacb134-b010-4e3c-8aa5-6adb0b9c53cb\" name=\"9bacb134-b010-4e3c-8aa5-6adb0b9c53cb\">以下の記事が面白かったので、簡単にまとめました。</p><figure id=\"b2a89969-0ca8-4886-85a0-61fcdb665819\" name=\"b2a89969-0ca8-4886-85a0-61fcdb665819\"><blockquote><p id=\"812b1495-e15e-423e-b001-64aee67cb4bf\" name=\"812b1495-e15e-423e-b001-64aee67cb4bf\"><strong>・</strong><a href=\"https://www.anthropic.com/news/claude-opus-4-8\" rel=\"nofollow noopener\" target=\"_blank\"><strong>Introducing Claude Opus 4.8</strong></a></p></blockquote>\n<figcaption></figcaption></figure><br /><a href=\"https://note.com/npaka/n/n9cb4d1f22b08\">続きをみる</a>",
+    "image": "https://assets.st-note.com/production/uploads/images/280460091/rectangle_large_type_2_c54e024c0ffeea05dd2c82888b23415a.png?width=800",
+    "fetched_at": "2026-06-05 03:10:02",
+    "ja_summary": "・Anthropic社がAIモデル「Claude Opus 4.8」を発表。\n・前モデルから推論能力や処理速度が大幅に向上。\n・複雑なタスクへの対応力が強化され、実用性がさらに高まった。"
+  },
+  {
+    "title": "ガバメントAIで使用する国産基盤モデルの公募について（予告）",
+    "link": "https://www.digital.go.jp/news/207cadc2-c218-42f6-92ec-c0eda476b49c",
+    "source": "デジタル庁",
+    "published": "Fri, 29 May 2026 10:00:13 +0900",
+    "summary": "",
+    "image": "https://www.digital.go.jp/themes/custom/gov_theme_da_2023/assets/images/ogp.png",
+    "fetched_at": "2026-06-05 03:10:11",
+    "ja_summary": "政府が行政業務の効率化を目指し、活用する「国産基盤モデル」の開発事業者を公募する（予告）。\n今後は国内の技術力を活かし、セキュアで高精度なAI環境の構築を目指す。\n詳細な募集要項等は後日発表される予定。"
+  },
+  {
+    "title": "Dreaming: Better memory for a more helpful ChatGPT",
+    "link": "https://openai.com/index/chatgpt-memory-dreaming",
+    "source": "OpenAI",
+    "published": "Thu, 04 Jun 2026 09:00:00 GMT",
+    "summary": "ChatGPT introduces a new memory system to better remember preferences, keeping context fresh and relevant across conversations.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/41T8ZOansyDZGCqmwOkuOY/3cdeb6ab147c08fa9b313b677fb5318e/16x9_SEO__1_.png?w=1600&amp;h=900&amp;fit=fill",
+    "fetched_at": "2026-06-05 03:10:12",
+    "ja_summary": "・ChatGPTがユーザーの好みや文脈を記憶する新機能を導入\n・対話のたびに情報を教え直す手間を削減\n・やり取りを重ねるほどパーソナライズされた回答が可能に"
+  },
+  {
+    "title": "A blueprint for democratic governance of frontier AI",
+    "link": "https://openai.com/index/frontier-safety-blueprint",
+    "source": "OpenAI",
+    "published": "Wed, 03 Jun 2026 10:00:00 GMT",
+    "summary": "OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/12H0oNoMHSCzsQ7eaQdFnT/7351b082ab1e1639c48c992bc0453cc4/Frame-1.png?w=1600&amp;h=900&amp;fit=fill",
+    "fetched_at": "2026-06-05 03:10:13",
+    "ja_summary": "・OpenAIが米政府に対し、最先端AIの安全性と国家安全保障を確保する新たな規制枠組みを提案。\n・連邦政府による一元的な監督体制の構築を求め、AI開発の責任ある管理を目指す。\n・AI技術の急速な発展に伴うリスクを軽減し、国際的な競争力と安全性を両立させる狙い。"
+  },
+  {
+    "title": "OpenAI public policy agenda",
+    "link": "https://openai.com/index/public-policy-agenda",
+    "source": "OpenAI",
+    "published": "Wed, 03 Jun 2026 10:00:00 GMT",
+    "summary": "OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/5biIV8BMiZ5j93ClAOEg1T/2a734d5aee55236aba471fc32a7470ba/Frame-1.png?w=1600&amp;h=900&amp;fit=fill",
+    "fetched_at": "2026-06-05 03:10:13",
+    "ja_summary": "・OpenAIがAI開発の公共政策アジェンダを発表。\n・安全性向上、若年層保護、労働環境の変化への対応を重点化。\n・AIの社会的利益を最大化するための国際的な共通基準の策定を目指す。"
+  },
+  {
+    "title": "Introducing the Services Track and Partner Hub of the Claude Partner Network",
+    "link": "https://www.anthropic.com/news/services-track-partner-hub",
+    "source": "Anthropic (News)",
+    "published": "Wed, 03 Jun 2026 00:00:00 +0000",
+    "summary": "Introducing the Services Track and Partner Hub of the Claude Partner Network",
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20ShapeBuild&amp;backgroundColor=fig",
+    "fetched_at": "2026-06-05 03:10:22",
+    "ja_summary": "・Anthropicが「Claude Partner Network」にサービス専門枠とパートナー専用ポータルを開設。\n・企業がClaudeを導入・活用する際、専門的支援を受けやすい体制を強化。\n・パートナー企業は、リソース共有や共同提案を通じてビジネス成長を加速可能。"
+  },
+  {
+    "title": "ClaudeCodeとCodexにコーディングを全て任せて商用レベルのUnityゲーム開発を行う【後編】",
+    "link": "https://qiita.com/archeleeds/items/6ec24ba4942973a1ce0b",
+    "source": "Qiita (Popular)",
+    "published": "2026-06-01T12:21:29+09:00",
+    "summary": "# ClaudeCodeとCodexにコーディングを全て任せて商用レベルのUnityゲーム開発を行う【後編】\n\nこんにちは、Liseと申します。\n\n現在のゲーム開発現場では恐らく、どんな会社でもどんなプロジェクトでも、ClaudeCodeやCodexを利用した開発のAI補助を行っていたり、ゲームジャム等のイベントで「試しにAIに小規模なゲームプログラミングをさせてみよう」みたいな動きがあると思いま",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGMTU0Mzc3JTJGcHJvZmlsZS1pbWFnZXMlMkYxNTU5MjU3NjM2P2l4bGliPXJiLTQuMS4xJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz04YTVkZjYwNGE0NjQzM2U3MWNiY2M2ZTE3NmQ3YjE0Ng%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D27802d45ae7e7507e2567039ad0e8714?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9Q2xhdWRlQ29kZSVFMyU4MSVBOENvZGV4JUUzJTgxJUFCJUUzJTgyJUIzJUUzJTgzJUJDJUUzJTgzJTg3JUUzJTgyJUEzJUUzJTgzJUIzJUUzJTgyJUIwJUUzJTgyJTkyJUU1JTg1JUE4JUUzJTgxJUE2JUU0JUJCJUJCJUUzJTgxJTlCJUUzJTgxJUE2JUU1JTk1JTg2JUU3JTk0JUE4JUUzJTgzJUFDJUUzJTgzJTk5JUUzJTgzJUFCJUUzJTgxJUFFVW5pdHklRTMlODIlQjIlRTMlODMlQkMlRTMlODMlQTAlRTklOTYlOEIlRTclOTklQkElRTMlODIlOTIlRTglQTElOEMlRTMlODElODYlRTMlODAlOTAlRTUlQkUlOEMlRTclQjclQTglRTMlODAlOTEmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1iYjA4NjRlODUyN2I5MWYzZDFkNzkyZjBmMzZjNDVjMA&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBhcmNoZWxlZWRzJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9NmI3ZTlmOGJhMzJhZGZiYzA5OTRmZDMyNmY5MzllMGY&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=9ed5bb5469c8d2e08f1d437d9514def3",
+    "fetched_at": "2026-06-05 03:10:37",
+    "ja_summary": "ClaudeCodeやCodexなどのAIを活用し、コーディングをすべて任せて商用レベルのUnityゲームを開発する手法を解説。\nAI補助による開発フローや実践的な活用事例を通じ、プログラミング作業の効率化と自動化を検証する。\n現代のゲーム開発におけるAI活用の最前線と、その実用的な可能性を後編として詳述する。"
+  },
+  {
+    "title": "出たてほやほやのClaude Opus 4.8を整理してみた",
+    "link": "https://qiita.com/kaichan_dot/items/a5234436a61194e24df7",
+    "source": "Qiita (Popular)",
+    "published": "2026-06-04T13:57:22+09:00",
+    "summary": "![Claude Opus 4.8（Anthropic公式発表より）](https://www-cdn.anthropic.com/images/4zrzovbb/website/0eaa0ed2dce9810169112e1c77de2585fcf1f5c2-2880x1620.jpg)\n*出典：[Anthropic公式ブログ「Introducing Claude Opus 4.8」](http",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0MTY1MTg1JTJGYzU3ZjhjYTViNzg0ODE2NTNhYmM1YjJmMzVlZDAzN2M1ZTkxNzkzNCUyRnhfbGFyZ2UucG5nJTNGMTc1NTE2MTk2MT9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9Y2NhZWFlMDJhNjY4ODg0N2I5M2Q5M2ViYWJkNzM1NGI%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYxZTIwZGI1ZTdlNDA3ZWFlN2I5NzBlYzk5OTg4MGRjOGMzY2MwZjY0JTJGb3JpZ2luYWwuanBnJTNGMTY2NzI3NDk2Mz9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz04OTI0NDcwMDk1MDMyZjUxYmZlNzE3ZjVkOGUzYmE3ZA%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D149273cab78fdac85810e86478f8ac5b?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUU1JTg3JUJBJUUzJTgxJTlGJUUzJTgxJUE2JUUzJTgxJUJCJUUzJTgyJTg0JUUzJTgxJUJCJUUzJTgyJTg0JUUzJTgxJUFFQ2xhdWRlJTIwT3B1cyUyMDQuOCVFMyU4MiU5MiVFNiU5NSVCNCVFNyU5MCU4NiVFMyU4MSU5NyVFMyU4MSVBNiVFMyU4MSVCRiVFMyU4MSU5RiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTA1YzdiNjJiMmFjYmM5M2FmMGQyOWIwZGM2ODVlY2Q2&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBrYWljaGFuX2RvdCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWZlODY5MjFmY2JkN2UyZTQyYzVhZjU5MTdkZWY4YTg5&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=S0RESeOCouOCuOODo-OCpOODq-mWi-eZuuOCu-ODs-OCv-ODvOagquW8j-S8muekvg&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=83e08d2c34ea36cd8a484a5bb741f797",
+    "fetched_at": "2026-06-05 03:10:37",
+    "ja_summary": "・Anthropic社が最新AIモデル「Claude Opus 4.8」を発表。\n・従来モデルから性能や精度が大幅に向上。\n・公式ブログにて詳細が公開されており、業務効率化や高度なタスク処理に期待。"
+  },
+  {
     "title": "メルカリ、ウーバーが弁護士登用　新興企業の道しるべ　ルールメークで一役 (攻めの法務　CLOを成長の伴走役に)",
     "link": "https://business.nikkei.com/atcl/NBD/19/special/02522/",
     "source": "日経ビジネス 最新",
@@ -908,95 +998,5 @@
     "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03585/052600010/topm.jpg?20220512",
     "fetched_at": "2026-06-04 05:27:49",
     "ja_summary": "AIエージェントの活用により、顧客インタビューや営業事務の自動化が進んでいる。\n最新ソリューションの展示を通じて、マーケティングと営業業務の効率化を促進する。"
-  },
-  {
-    "title": "KDDIが挑んだシャープ堺工場のDC転換、「できたときには陳腐化」との闘い",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03444/060300025/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "とてつもなく大きい工場だな――。2024年7月。KDDIの先端技術統括本部先端技術企画本部AIプラットフォーム企画部部長である桜井敦史は、工場の中を歩きながら息をのんだ。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03444/060300025/topm.jpg?20220512",
-    "fetched_at": "2026-06-04 05:27:50",
-    "ja_summary": "・KDDIがシャープの旧堺工場を大規模データセンターへ転換するプロジェクトに着手。\n・AI需要の急拡大に伴うインフラ不足を解消し、電力と空間を確保するのが狙い。\n・完成までの技術陳腐化を防ぎ、いかに迅速にAI拠点として稼働させるかが最大の課題。"
-  },
-  {
-    "title": "NVIDIA Cosmos 3 の概要",
-    "link": "https://note.com/npaka/n/n807ad9dfc98f",
-    "source": "note (npaka)",
-    "published": "Mon, 01 Jun 2026 17:35:46 +0900",
-    "summary": "<p id=\"704649b3-5e64-4835-965f-0dfebbaff759\" name=\"704649b3-5e64-4835-965f-0dfebbaff759\">以下の記事が面白かったので、簡単にまとめました。</p><figure id=\"9a6d574e-92c4-431e-89b1-8119cc95ef9a\" name=\"9a6d574e-92c4-431e-89b1-8119cc95ef9a\"><blockquote><p id=\"19854253-1b3a-4aee-8b0a-50fca74ddf19\" name=\"19854253-1b3a-4aee-8b0a-50fca74ddf19\"><strong>・</strong><a href=\"https://huggingface.co/blog/nvidia/cosmos-3-for-physical-ai\" rel=\"nofollow noopener\" target=\"_blank\"><strong>Welcome NVIDIA Cosmos 3: The First Open Omni-model for Physical AI Reasoning and Action</strong></a></p></blockquote>\n<figcaption></figcaption></figure><br /><a href=\"https://note.com/npaka/n/n807ad9dfc98f\">続きをみる</a>",
-    "image": "https://assets.st-note.com/production/uploads/images/281510548/rectangle_large_type_2_8ea882b8792b6a8c9d8338a0c10dfeb8.png?width=800",
-    "fetched_at": "2026-06-04 05:28:01",
-    "ja_summary": "・NVIDIAが物理AI推論・行動のための初のオープンな「Omni-model」である「Cosmos 3」を発表。\n・マルチモーダルな入力を統合的に処理し、物理的な環境で複雑なタスクを実行するAI開発を支援。\n・実世界の物理法則を理解した高度な判断を可能にし、自律エージェントの進化を加速させる。"
-  },
-  {
-    "title": "Genesis World 1.0 の概要",
-    "link": "https://note.com/npaka/n/n87ef886262e4",
-    "source": "note (npaka)",
-    "published": "Thu, 28 May 2026 16:03:11 +0900",
-    "summary": "<p id=\"9e5981f3-45d0-4627-9fae-26258b67900e\" name=\"9e5981f3-45d0-4627-9fae-26258b67900e\">以下の記事が面白かったので、簡単にまとめました。</p><figure id=\"df361c80-8064-459c-992c-c5c1c4f787c0\" name=\"df361c80-8064-459c-992c-c5c1c4f787c0\"><blockquote><p id=\"97b2efab-f9a1-4f75-8895-2cacad52214e\" name=\"97b2efab-f9a1-4f75-8895-2cacad52214e\"><strong>・</strong><a href=\"https://www.genesis.ai/blog/the-role-of-simulation-in-scalable-robotics-genesis-world-10-and-the-path-forward\" rel=\"nofollow noopener\" target=\"_blank\"><strong>The Role of Simulation in Scalable Robotics, Genesis World 1.0, and the Path Forward</strong></a></p></blockquote>\n<figcaption></figcaption></figure><br /><a href=\"https://note.com/npaka/n/n87ef886262e4\">続きをみる</a>",
-    "image": "https://assets.st-note.com/production/uploads/images/280277096/rectangle_large_type_2_ca90ba4160be6d2229717b914014f752.png?width=800",
-    "fetched_at": "2026-06-04 05:28:01",
-    "ja_summary": "・AI開発企業Genesis AIが、ロボット学習用の高精度シミュレーション環境「Genesis World 1.0」を公開。\n・物理現象を忠実に再現し、ロボットの動作訓練やスケーラブルな強化学習を効率化するプラットフォーム。\n・現実世界での試行錯誤を減らし、実用的なロボット開発を加速させるための基盤技術として期待されている。"
-  },
-  {
-    "title": "OpenClaw 入門 (6) - Ollama",
-    "link": "https://note.com/npaka/n/n0540ab566f02",
-    "source": "note (npaka)",
-    "published": "Wed, 27 May 2026 15:29:07 +0900",
-    "summary": "<p id=\"52bb9723-2fae-471b-9204-a7f97b1d56fd\" name=\"52bb9723-2fae-471b-9204-a7f97b1d56fd\">「OpenClaw」で「Ollama」経由でローカルLLMを使う手順をまとめました。</p><br /><br /><a href=\"https://note.com/npaka/n/n0540ab566f02\">続きをみる</a>",
-    "image": "https://assets.st-note.com/production/uploads/images/279961176/rectangle_large_type_2_10f741103cc58c084e501c97de9bc99e.png?width=800",
-    "fetched_at": "2026-06-04 05:28:01",
-    "ja_summary": "・「OpenClaw」を活用し、ローカル環境でLLM（大規模言語モデル）を動かす手順を解説。\n・「Ollama」を介することで、手元のPC内で手軽にAIモデルの利用が可能。\n・ローカルLLM構築のステップが整理されており、導入検討に最適。"
-  },
-  {
-    "title": "NVIDIA、AAAゲームが1440p 100fpsで動く薄型Windowsノート向けSoC「RTX Spark」発表　120BモデルAIエージェントをローカル実行",
-    "link": "https://www.techno-edge.net/article/2026/06/01/5130.html",
-    "source": "TechnoEdge",
-    "published": "Mon, 01 Jun 2026 17:46:41 +0900",
-    "summary": "・NVIDIAが1ペタフロップのAI性能と最大128GBの統合メモリを持つ新スーパーチップ「RTX Spark」を発表<br />\n・NVIDIAとMicrosoftが協業し、WindowsネイティブのセキュアなオンデバイスAIエージェント環境を構築<br />\n・ASUS・Dell・HP・Lenovo・Microsoft Surface・MSIなどから2025年秋に搭載ノートPC・デスクトップが発売予定",
-    "image": "https://www.techno-edge.net/imgs/rss/31911.jpg",
-    "fetched_at": "2026-06-04 05:28:07",
-    "ja_summary": "・NVIDIAが超高性能AIチップ「RTX Spark」を発表。薄型PCでAAAゲームを1440p・100fpsで動かす高いグラフィックス性能と、大規模AIのローカル実行を実現。\n・Microsoftと連携し、Windows上で高度なAIエージェントをセキュアに動作させる環境を構築。\n・主要メーカーから搭載PCが2025年秋に発売予定。"
-  },
-  {
-    "title": "Travelers deploys AI-powered claims countrywide with OpenAI",
-    "link": "https://openai.com/index/travelers",
-    "source": "OpenAI",
-    "published": "Tue, 02 Jun 2026 12:00:00 GMT",
-    "summary": "Travelers built an AI-powered Claim Assistant with OpenAI to guide customers through filing claims, provide 24/7 support, and scale operations during peak demand.",
-    "image": "https://images.ctfassets.net/kftzwdyauwt9/1TKzfygwesdyzOr4VDrizK/11ece0fda61af10b34d4127f7a977eac/oai_Travelers_SEO.png?w=1600&amp;h=900&amp;fit=fill",
-    "fetched_at": "2026-06-04 05:28:09",
-    "ja_summary": "・米保険大手トラベラーズが、OpenAIを活用したAI保険金請求アシスタントを全米で導入。\n・24時間体制の顧客サポートや請求手続きの案内を自動化し、利便性を向上。\n・災害時などの請求件数急増にも対応できる体制を構築し、業務効率を最大化する。"
-  },
-  {
-    "title": "Codex for every role, tool, and workflow",
-    "link": "https://openai.com/index/codex-for-every-role-tool-workflow",
-    "source": "OpenAI",
-    "published": "Tue, 02 Jun 2026 09:00:00 GMT",
-    "summary": "Discover new Codex plugins, sites, and annotations that help analysts, marketers, designers, investors, and other teams get more done with AI.",
-    "image": "https://images.ctfassets.net/kftzwdyauwt9/4Dvw4ZQ90swvHAxpe8tf49/b38745978bd83b554ac8e4f5865cee37/16x9_SEO_Preview.png?w=1600&amp;h=900&amp;fit=fill",
-    "fetched_at": "2026-06-04 05:28:09",
-    "ja_summary": "・Codexの活用を促進する新プラグインやサイト、注釈機能が公開。\n・アナリスト、マーケター、デザイナーなど職種別のAI活用を支援。\n・各業務フローに最適化されたツール群で生産性を最大化。"
-  },
-  {
-    "title": "Advancing youth safety and opportunity through global leadership",
-    "link": "https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership",
-    "source": "OpenAI",
-    "published": "Tue, 02 Jun 2026 07:00:00 GMT",
-    "summary": "OpenAI calls for global action on youth AI safety, proposing an international institute to strengthen safeguards, standards, and opportunities for young people.",
-    "image": "https://images.ctfassets.net/kftzwdyauwt9/2IaU9HljDTpAUcw36nZL4C/d869594af4e3f9bbfbfa9797e393bcd4/oai_16x9__1_.png?w=1600&amp;h=900&amp;fit=fill",
-    "fetched_at": "2026-06-04 05:28:10",
-    "ja_summary": "OpenAIが若年層のAI利用における安全性確保と機会創出を提唱。\n国際的なAI研究・評価機関の設立を各国に呼びかけている。\n世界共通の安全基準と教育環境の整備を目指す方針。"
-  },
-  {
-    "title": "ソフトバンク、AIスマホ競争に号砲　「アプリの死」を予感させる1個のボタン (ニュースを突く)",
-    "link": "https://business.nikkei.com/atcl/NBD/19/00108/00385/",
-    "source": "日経ビジネス 最新",
-    "published": "",
-    "summary": "スマートフォンの世界に「アプリの死」が迫る。号砲を鳴らしたのは米グーグルでも米アップルでもなくソフトバンク。勝算はあるか。",
-    "image": "https://business.nikkei.com/atcl/NBD/19/00108/00385/fb.jpg",
-    "fetched_at": "2026-06-04 02:14:31",
-    "ja_summary": "ソフトバンクが「アプリの死」を予感させるAI機能を搭載したスマホを発表した。\n複雑なアプリ操作をAIが代行する新UIで、スマホ体験の根本的変革を狙う。\nグーグルやアップルを出し抜く先行戦略であり、普及に向けた勝算が注目されている。"
   }
 ]
