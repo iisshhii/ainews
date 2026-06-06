@@ -1,5 +1,65 @@
 [
   {
+    "title": "心を理解するAIとそうでない機械　異物同士が同居するメリット",
+    "link": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/052100112/060100139/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "現在のAI（人工知能）はコンピューターの上で動く。だが、AIとコンピューターは挙動が全く異なる。例えば人間関係の相談をどう処理するかを考えてみよう。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/052100112/060100139/topm.jpg?20220512",
+    "fetched_at": "2026-06-06 17:10:22",
+    "ja_summary": "現在のAIはコンピューター上で動くが、両者は根本的に挙動が異なる。\nAIと従来の機械という異なる性質を持つものが共存することで、新しい価値が生まれる可能性がある。\n人間関係の相談といった複雑な事象を処理する際、この異質な組み合わせが強みを発揮する。"
+  },
+  {
+    "title": "LLMにどこまで委ねるか　AIエージェントの「非決定論」問題",
+    "link": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/052100111/060400178/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "AI（人工知能）が人間に代わって業務を遂行する「AIエージェント」について、相対する意見を耳にするようになった。焦点となっているのは、業務の進め方に関する判断をLLM（大規模言語モデル）に委ねるか否かという問題だ。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/052100111/060400178/topm.jpg?20220512",
+    "fetched_at": "2026-06-06 17:10:22",
+    "ja_summary": "AIエージェントの業務遂行において、判断をどこまでLLMに委ねるべきかという「非決定論」の問題が議論されている。\n自律的な判断を許容すべきか、人間が制御すべきかという開発・運用のあり方が焦点となっている。"
+  },
+  {
+    "title": "アンスロピックとOpenAIに新たな競争：どちらが先に鐘を鳴らすか",
+    "link": "https://www.businessinsider.jp/article/202606-openai-anthropic-ipo-timing/",
+    "source": "Business Insider Japan",
+    "published": "Thu, 04 Jun 2026 23:00:00 GMT",
+    "summary": "「市場に回ってくる資金には限りがあるため、先に上場した方が良い」というのが通説だ。しかし、もし2番目に上場した方が良いとしたらどうだろうか？",
+    "image": "https://media.loom-app.com/loom/2026/06/03/a10b2bd0-5032-44d4-ae6e-0ffbe2492567/original.jpg?w=1200&amp;h=630",
+    "fetched_at": "2026-06-06 17:10:34",
+    "ja_summary": "・AI大手のアンスロピックとOpenAIの間で、株式上場の先陣争いが過熱している。\n・定石は「先行優位」だが、あえて市場環境を見極める「後発優位」の可能性も浮上。\n・両社のどちらが先に上場し、市場の主導権を握るのかが注目されている。"
+  },
+  {
+    "title": "関西に縁あるMicrosoft MVPsが語るCopilotの未来",
+    "link": "https://speakerdeck.com/kasada/guan-xi-niyuan-arumicrosoft-mvpsgayu-rucopilotnowei-lai",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-06-06T04:05:00-04:00",
+    "summary": "なんでもCopilot 特別回「なんコパが大阪にやってくる！初の出張会！」の「関西に縁あるMicrosoft MVPsが語るCopilotの未来」セッション資料",
+    "image": "https://files.speakerdeck.com/presentations/e2ec5f01b2b149d1b2b299c28941f58a/preview_slide_0.jpg?39629327",
+    "fetched_at": "2026-06-06 17:10:58",
+    "ja_summary": "・関西ゆかりのMicrosoft MVPがCopilotの今後の展望を解説\n・大阪で開催された「なんでもCopilot」出張イベントの登壇資料\n・最新のCopilot活用術や未来の技術トレンドを網羅した内容"
+  },
+  {
+    "title": "PHP と TypeScript の型システム比較：AI 時代の「型」は誰のためにあるのか？ #frontend_phpcon_do / frontend_phpcon_do_2026",
+    "link": "https://speakerdeck.com/shogogg/frontend-phpcon-do-2026",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-06-06T02:37:08-04:00",
+    "summary": "2026年6月6日に行われたフロントエンド・PHPカンファレンス北海道2026の登壇資料です",
+    "image": "https://files.speakerdeck.com/presentations/d2452d62fea04943a2e826f894651ab2/preview_slide_0.jpg?39628653",
+    "fetched_at": "2026-06-06 17:10:58",
+    "ja_summary": "・PHPとTypeScriptの型システムの特性を比較し、現代の開発環境における型の役割を解説。\n・AIによるコード生成が普及する中で、人間とAI双方にとって「型」が持つ価値を再定義。\n・堅牢なシステム構築と生産性向上の両立に向けた、型システムの戦略的活用法を提示。"
+  },
+  {
+    "title": "GitHub Copilot Dev Days 2026",
+    "link": "https://speakerdeck.com/afroboy/github-copilot-dev-days-2026",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-06-06T01:50:58-04:00",
+    "summary": "These are the slides I used for the different GitHub Copilot Dev Days across the 10 cities and campuses \n\nMore Info: https://www.linkedin.com/posts/ronnie-linslay-atuhaire-116108bb_myself-github-githubcopilot-ugcPost-7467284763435876353-ZITx/?utm_source=share&amp;utm_medium=member_desktop&amp;rcm=ACoAABl3cqIB403Y_HmUUiTbw_XBkKQa5KJtONA",
+    "image": "https://files.speakerdeck.com/presentations/5776f302b8304da7946b79201b51d64f/preview_slide_0.jpg?39628248",
+    "fetched_at": "2026-06-06 17:10:58",
+    "ja_summary": "・世界10都市で開催された開発者向けイベント「GitHub Copilot Dev Days 2026」の登壇資料が公開された。\n・GitHub Copilotの最新活用術や技術トレンドが網羅されている。\n・詳細はリンク先の投稿から確認可能。"
+  },
+  {
     "title": "優秀な部下を潰す｢三流上司のNGフィードバック｣とは？部下に｢AIの方がマシ｣と笑われない指摘の鉄則 | キャリア・教育 | 東洋経済オンライン",
     "link": "https://toyokeizai.net/articles/-/946599?utm_source=rss&utm_medium=http&utm_campaign=link_back",
     "source": "東洋経済オンライン",
@@ -938,65 +998,5 @@
     "image": "https://www.watch.impress.co.jp/img/ipw/list/2114/380/meta1.jpg",
     "fetched_at": "2026-06-05 09:19:16",
     "ja_summary": "・ソフトバンクがMetaのAIグラス「Ray-Ban Meta(Gen 2)」を6月4日に発売。\n・国内の通信事業者では初となる取り扱いで、店頭でのサポートも提供。"
-  },
-  {
-    "title": "Meta最新AIモデル「Muse Spark」、APIまだ公開されず　「まもなく」予告から2カ月",
-    "link": "https://japan.cnet.com/article/35248473/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "Metaが4月に発表した高度な大規模言語モデル「Muse Spark」は、APIの明確な公開日が決まっていないという。The Wall Street Journalが報じた。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35248473/\"><img src=\"https://japan.cnet.com/storage/2026/06/05/cf308e56f2d950d71f5030d7939d924d/t/184/138/d/meta-connect-2025-take-superintelligence-seriously_1280x960.jpg\" /></a>",
-    "image": "https://japan.cnet.com/storage/2026/06/05/cf308e56f2d950d71f5030d7939d924d/t/184/138/d/meta-connect-2025-take-superintelligence-seriously_1280x960.jpg",
-    "fetched_at": "2026-06-05 09:19:17",
-    "ja_summary": "Metaの新型AI「Muse Spark」は、4月の発表から2ヶ月経過してもAPIの公開日が未定のままである。\n「まもなく公開」との予告以降、具体的な進展がない状況をThe Wall Street Journalが報じた。"
-  },
-  {
-    "title": "高性能AIを巡る米大統領令 狙い",
-    "link": "https://news.yahoo.co.jp/pickup/6582906?source=rss",
-    "source": "Yahoo!ニュース IT・科学",
-    "published": "Thu, 04 Jun 2026 04:01:58 GMT",
-    "summary": "",
-    "image": "https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/satohitoshi/02637284/title-1780486576556.jpeg?exp=10800",
-    "fetched_at": "2026-06-05 09:19:24",
-    "ja_summary": "・バイデン政権がAIの安全性確保に向けた初の大統領令を策定\n・高性能AIの開発企業に対し、安全テスト結果の政府報告を義務化\n・AIの悪用リスクを抑制しつつ、米国の技術的優位性を維持する狙い"
-  },
-  {
-    "title": "16GB RAMで高性能エージェントが動くGemma 4 12B、Google DeepMindが公開　26B MoEに迫る推論性能、エンコーダなしのマルチモーダル",
-    "link": "https://www.techno-edge.net/article/2026/06/04/5144.html",
-    "source": "TechnoEdge",
-    "published": "Thu, 04 Jun 2026 14:10:44 +0900",
-    "summary": "・Gemma 4 12Bはノート PC上で動作可能な高性能マルチモーダルAIモデルで、16GBのVRAMまたは統合メモリで動作する<br />\n・エンコーダーフリーのユニファイドアーキテクチャを採用し、視覚・音声入力をLLMバックボーンに直接統合することで低遅延・低メモリを実現<br />\n・Apache 2.0ライセンスで公開され、Hugging Face・Kaggle・各種推論フレームワークに対応",
-    "image": "https://www.techno-edge.net/imgs/rss/32010.jpg",
-    "fetched_at": "2026-06-05 09:19:27",
-    "ja_summary": "・GoogleがノートPC（16GBメモリ）で動作する高性能AI「Gemma 4 12B」を公開。\n・視覚・音声入力を直接処理する新構造により、低遅延かつ省メモリな推論を実現。\n・商用利用可能なApache 2.0ライセンスで、主要プラットフォームから即時利用可能。"
-  },
-  {
-    "title": "PR 前後で AI レビューを2段構えにしたら、レビュー待ちが約70%減った話",
-    "link": "https://zenn.dev/estie/articles/4f06bde08a90d4",
-    "source": "Zenn Trends",
-    "published": "Wed, 03 Jun 2026 23:22:47 GMT",
-    "summary": "はじめに\nこんにちは！\n株式会社estie（エスティ） でソフトウェアエンジニアをしている rebonire です。\nみなさん、開発に AI Agent 活用していますか？\n私が所属する開発チームでは、2025年後半から AI Agent を本格的に活用するようになりました。\nAI Agent の導入によって実装速度は上がり Happy である一方、人間によるコードレビューのキャパは急には増えません...!!\nその結果、PR は以前より多く作られるようになったものの、レビュー待ちが開発フロー上のボトルネックとして目立つようになりました。\n本記事では、そうした状況に対して Claude...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--KQBTvXWD--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:PR%2520%25E5%2589%258D%25E5%25BE%258C%25E3%2581%25A7%2520AI%2520%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25E3%2582%25922%25E6%25AE%25B5%25E6%25A7%258B%25E3%2581%2588%25E3%2581%25AB%25E3%2581%2597%25E3%2581%259F%25E3%2582%2589%25E3%2580%2581%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25E5%25BE%2585%25E3%2581%25A1%25E3%2581%258C%25E7%25B4%258470%2525%25E6%25B8%259B%25E3%2581%25A3%25E3%2581%259F%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:rebonire%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzUwYzZlODUxOGQuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:estie%2520%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2M0NThkOTQ3ZGYuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "fetched_at": "2026-06-05 09:19:47",
-    "ja_summary": "・AI導入で開発速度が上がりPRが増加した結果、レビュー待ちがボトルネック化。\n・PR作成の前後でAIによる2段階レビューを導入。\n・人的リソースを圧迫せずにレビュー待ちを約70%削減することに成功。"
-  },
-  {
-    "title": "Gemini・Claude・ChatGPT・Copilot の4つのAIにそれらの使い分けを聞いたら、全員が自分をハブだと思っていた",
-    "link": "https://zenn.dev/minipoisson/articles/ai-self-cognition",
-    "source": "Zenn Trends",
-    "published": "Wed, 03 Jun 2026 22:13:57 GMT",
-    "summary": "きっかけ：「自分の使い分け」をAIに聞くとどうなるか\nGemini・Claude・ChatGPT・Copilot——これら4つのAIのチャット履歴をすべて一つのNotebookLMノートブックに統合したところで、ふと思いつきました。\n「各AIは自分を他のAIとどう使い分けるよう勧めているのだろう？　そして、その自己評価は他のAIの評価と一致しているのだろうか？」\nそれぞれのAIに「他のAIとの使い分け」を聞くと、当然ながら自分の視点からの答えが返ってきます。一方、NotebookLMには4つ全員の実際の発言ログが入っています。NotebookLMならば、各AIが自分についてどう語り、...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--vGOiRGBQ--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Gemini%25E3%2583%25BBClaude%25E3%2583%25BBChatGPT%25E3%2583%25BBCopilot%2520%25E3%2581%25AE4%25E3%2581%25A4%25E3%2581%25AEAI%25E3%2581%25AB%25E3%2581%259D%25E3%2582%258C%25E3%2582%2589%25E3%2581%25AE%25E4%25BD%25BF%25E3%2581%2584%25E5%2588%2586%25E3%2581%2591%25E3%2582%2592%25E8%2581%259E%25E3%2581%2584%25E3%2581%259F%25E3%2582%2589%25E3%2580%2581%25E5%2585%25A8%25E5%2593%25A1%25E3%2581%258C%25E8%2587%25AA%25E5%2588%2586%25E3%2582%2592...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:minipoisson%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzg3YjBmMDBjZTguanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "fetched_at": "2026-06-05 09:19:47",
-    "ja_summary": "主要な4つのAIに「最適な使い分け」を尋ねたところ、全員が自分をハブ（中心）と位置づける回答をした。\nNotebookLMで各AIの自己評価を比較した結果、AI自身の客観的な視点はなく、自らを万能だと認識していることが判明した。\nユーザーはAIの自己PRを鵜呑みにせず、各モデルの特性を理解した上で併用する必要がある。"
-  },
-  {
-    "title": "生成AIへのキャリア相談「人より相談しやすい」6割　「今後10年どう生きればいいか」悩み打ち明ける人も",
-    "link": "https://www.itmedia.co.jp/business/articles/2606/05/news042.html",
-    "source": "ITmedia ビジネス",
-    "published": "Fri, 05 Jun 2026 07:00:00 +0900",
-    "summary": "NEXERとRSGが実施した調査によると、生成AIへのキャリア相談経験者は8.2％にとどまった。一方で経験者の約6割が「人より相談しやすい」と回答。AIの助言をきっかけに実際の行動へ移した人も過半数に上った。",
-    "image": "https://image.itmedia.co.jp/business/articles/2606/05/cover_news042.jpg",
-    "fetched_at": "2026-06-05 08:09:00",
-    "ja_summary": "・生成AIへのキャリア相談はまだ少数派だが、利用者の約6割が「人より相談しやすい」と評価。\n・AIのアドバイスをきっかけに、半数以上が実際の行動へ移している。\n・キャリアの悩みなど、対人では相談しにくい内容をAIで解決する動きが見られる。"
   }
 ]
