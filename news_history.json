@@ -1,5 +1,35 @@
 [
   {
+    "title": "自宅ルーターのポート443を開放したら、ISPによる遮断(推定)でインターネットが死んだ話",
+    "link": "https://zenn.dev/c4n4242/articles/5ab1f510d8c946",
+    "source": "Zenn Trends",
+    "published": "Fri, 05 Jun 2026 17:41:29 GMT",
+    "summary": "【免責事項（Disclaimer）】\n本記事に記載されているファイアウォールやDPI(Deep Packet Inspection)の迂回手法は、あくまでネットワークの挙動検証および自宅インフラのセキュアな設計を考察するための技術的な実験の記録です。\nこれを読んだ貴方が所属する組織(学校や企業など)のネットワークポリシーを意図的に侵害することを推奨するものではありません。実際の環境に適用させる場合は、必ず管理者の許可を得るか、自身の管理下にあるテストネットワーク内で実施してください。\n\n 1. はじめに（背景と目的）\n私は普段から自宅(下宿ですが、便宜上ここでは自宅とします)や実家に...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--0wjEqkty--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E8%2587%25AA%25E5%25AE%2585%25E3%2583%25AB%25E3%2583%25BC%25E3%2582%25BF%25E3%2583%25BC%25E3%2581%25AE%25E3%2583%259D%25E3%2583%25BC%25E3%2583%2588443%25E3%2582%2592%25E9%2596%258B%25E6%2594%25BE%25E3%2581%2597%25E3%2581%259F%25E3%2582%2589%25E3%2580%2581ISP%25E3%2581%25AB%25E3%2582%2588%25E3%2582%258B%25E9%2581%25AE%25E6%2596%25AD%2528%25E6%258E%25A8%25E5%25AE%259A%2529%25E3%2581%25A7%25E3%2582%25A4%25E3%2583%25B3%25E3%2582%25BF%25E3%2583%25BC%25E3%2583%258D%25E3%2583%2583%25E3%2583%2588%25E3%2581%258C%25E6%25AD%25BB%25E3%2582%2593%25E3%2581%25A0%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%25AB%25E3%2583%258E%25E3%2583%25B3%2540Zenn%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzMyMTUxOTVhZWEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-06-06 22:12:17",
+    "ja_summary": "自宅でポート443を開放した際、ISP（プロバイダ）による通信遮断が発生した技術的実験の記録。\n一般的にWeb通信で使われるポート443の利用は、ISP側の検知や制限を招くリスクがあることを示唆している。\nネットワークの挙動検証を目的とした内容であり、組織等の規約遵守とテスト環境での実施が推奨される。"
+  },
+  {
+    "title": "元オンプレ屋がAWS運用監視設計で最初に間違えたこと—「正常を定義する」が先だった",
+    "link": "https://zenn.dev/aa_taka/articles/e835abca466897",
+    "source": "Zenn Trends",
+    "published": "Thu, 04 Jun 2026 21:48:46 GMT",
+    "summary": "本記事の執筆にはAIを活用しています。\n\n\n はじめに\n前回の記事（元オンプレ屋が疑似AWS環境のログをGemiclawに確認してもらうまで）で、GemiclawにLocalStackのログを確認してもらったとき、出てきたのはこれだけでした。\nSTART RequestId: ccefc143-7e11-4371-8472-5e8eac510bbd Version: $LATEST\nEND RequestId: ccefc143-7e11-4371-8472-5e8eac510bbd\nREPORT RequestId: ccefc143-7e11-4371-8472-5e8eac510...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--mPEGk8Zr--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E5%2585%2583%25E3%2582%25AA%25E3%2583%25B3%25E3%2583%2597%25E3%2583%25AC%25E5%25B1%258B%25E3%2581%258CAWS%25E9%2581%258B%25E7%2594%25A8%25E7%259B%25A3%25E8%25A6%2596%25E8%25A8%25AD%25E8%25A8%2588%25E3%2581%25A7%25E6%259C%2580%25E5%2588%259D%25E3%2581%25AB%25E9%2596%2593%25E9%2581%2595%25E3%2581%2588%25E3%2581%259F%25E3%2581%2593%25E3%2581%25A8%25E2%2580%2594%25E3%2580%258C%25E6%25AD%25A3%25E5%25B8%25B8%25E3%2582%2592%25E5%25AE%259A%25E7%25BE%25A9%25E3%2581%2599%25E3%2582%258B%25E3%2580%258D%25E3%2581%258C%25E5%2585%2588%25E3%2581%25A0%25E3%2581%25A3%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:aataka%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzM5MTFiNzgyMzQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-06-06 22:12:18",
+    "ja_summary": "AWSの運用監視設計において、「監視対象の正常な状態」を定義する前にツール導入を先行させたことが失敗の要因であった。\nオンプレミス経験者がクラウド移行時に陥りやすい、設計手順の重要性を説く教訓的な内容。"
+  },
+  {
+    "title": "Claude Opus 4.8 のプロンプティング・ベストプラクティス — 公式ガイドの要点",
+    "link": "https://qiita.com/y-morimatsu/items/ea44baec84417d36b85d",
+    "source": "Qiita (Popular)",
+    "published": "2026-06-01T17:41:09+09:00",
+    "summary": "# グラレコ\n![image.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3949991/b043b31e-c67f-45d4-8bd1-3e8eeb957808.png)\n\n# はじめに 🎯\n\nAnthropic が公開しているプロンプトエンジニアリングの公式ガイドに、**Claude Opus 4.8 向けの",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYzOTQ5OTkxJTJGNGViNmY2MDdiOWJhOTQ3NzRiODI3NDhiOTRiNzYzMzE1NjA5NDBjOSUyRnhfbGFyZ2UucG5nJTNGMTczMzEwNDg2OT9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9MWFiODliZjQzMGRlZTQ0ZGFhMzBlMjJjYThlMGFjNzA%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkZkMjc2MTgwMWFiMzM1MjEyNTNiOWZhZDk4MWMzZmExMzc2OTgxM2JmJTJGb3JpZ2luYWwuanBnJTNGMTU5Njc4NjAzND9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz1iZGJhNTk0N2U2ZmZjN2YyZmU5ZGUzNjY1ZDkxOTE4OA%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D1d100ec0a58c6bdc9f474bba68d70e97?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9Q2xhdWRlJTIwT3B1cyUyMDQuOCUyMCVFMyU4MSVBRSVFMyU4MyU5NyVFMyU4MyVBRCVFMyU4MyVCMyVFMyU4MyU5NyVFMyU4MyU4NiVFMyU4MiVBMyVFMyU4MyVCMyVFMyU4MiVCMCVFMyU4MyVCQiVFMyU4MyU5OSVFMyU4MiVCOSVFMyU4MyU4OCVFMyU4MyU5NyVFMyU4MyVBOSVFMyU4MiVBRiVFMyU4MyU4NiVFMyU4MiVBMyVFMyU4MiVCOSUyMCVFMiU4MCU5NCUyMCVFNSU4NSVBQyVFNSVCQyU4RiVFMyU4MiVBQyVFMyU4MiVBNCVFMyU4MyU4OSVFMyU4MSVBRSVFOCVBNiU4MSVFNyU4MiVCOSZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTU2NGVmZDQ4Zjk0MzIyMGI1NTBlZTQ2MDQyMDMxMmNi&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDB5LW1vcmltYXRzdSZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWI1ZWM0ZjQ0ZDY2Y2YwOTY0OTY3OTdhZjEwYTE1ZWFm&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=TkVD44K944Oq44Ol44O844K344On44Oz44Kk44OO44OZ44O844K_5qCq5byP5Lya56S-&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=d65bab9a30931d1935a528af7597aacb",
+    "fetched_at": "2026-06-06 22:12:21",
+    "ja_summary": "・Anthropic公式ガイドに基づくClaude 3.5 Sonnet（Opus等）の性能を引き出すプロンプト術を解説。\n・役割定義、情報の構造化、思考過程の明示により、出力の精度と一貫性を向上させる。\n・複雑な指示はタスク分解し、具体例を提示することで、モデルの理解度を最大化する。"
+  },
+  {
     "title": "How Endava is redesigning software delivery around AI agents",
     "link": "https://openai.com/index/endava-frontiers",
     "source": "OpenAI",
@@ -968,35 +998,5 @@
     "image": "https://assets.st-note.com/production/uploads/images/282592905/rectangle_large_type_2_4e88353db49d454c7e5cf4656ef52087.png?width=800",
     "fetched_at": "2026-06-05 13:54:08",
     "ja_summary": "ChatGPTの記憶機能が、単なる「メモ」の蓄積から、対話の背景を汲み取る「文脈理解」へと進化しました。\nこれにより、ユーザーごとの好みや文脈を深く反映した、より自然でパーソナライズされた応答が可能になります。\nAIとの対話の質と効率が向上し、ビジネスや日常での利便性が高まります。"
-  },
-  {
-    "title": "米AI計画に日本が800億円拠出へ",
-    "link": "https://news.yahoo.co.jp/pickup/6583003?source=rss",
-    "source": "Yahoo!ニュース IT・科学",
-    "published": "Fri, 05 Jun 2026 00:36:07 GMT",
-    "summary": "",
-    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/6/5/79ac128e42db5ea6092c84f1f011700d42e626e6776e4e368ee3141a0ac3de29.jpg",
-    "fetched_at": "2026-06-05 13:54:09",
-    "ja_summary": "・日本政府が米国のAI研究開発プロジェクトに800億円を拠出する。\n・日米の大学や企業が連携し、最先端AIの技術開発を加速させる。\n・経済安保の観点から、日米同盟を軸としたAI開発の主導権確保を狙う。"
-  },
-  {
-    "title": "リコー、オンプレ対応マルチモーダルLLMを開発--軽量モデルでクラウドAI級の日本語推論性能を実現",
-    "link": "https://japan.zdnet.com/article/35248504/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "リコーは、日本語での高度な推論能力を備えたマルチモーダル大規模言語モデル（LMM）「Qwen3.6-Ricoh-27B-20260522」と軽量版「Qwen3.5-Ricoh-9B-20260522」を開発したと発表した。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35248504/\"><img src=\"https://japan.zdnet.com/storage/2025/11/12/5cadf4324701568dcc16628edb007a35/t/184/138/d/251112_data_stream_as_1280_1611251254.jpg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2025/11/12/5cadf4324701568dcc16628edb007a35/t/184/138/d/251112_data_stream_as_1280_1611251254.jpg",
-    "fetched_at": "2026-06-05 13:54:14",
-    "ja_summary": "・リコーが、日本語の推論性能が高いマルチモーダルLLMの独自モデルを開発。\n・軽量モデルでありながら、クラウドAIに匹敵する性能をオンプレミス環境で実現。\n・社内環境で安全かつ高度なAI活用が可能となり、ビジネス導入を加速させる。"
-  },
-  {
-    "title": "JA全農ひろしま、紙・FAX中心の農業現場を「kintone」で効率化",
-    "link": "https://japan.zdnet.com/article/35248491/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "JA全農ひろしまは、現場主導による市民開発体制の構築、kintoneを活用したシフト自動作成システムや農作物出荷計画アプリの作成、kintoneと生成AIを連携させた問い合わせ対応など、農業現場の効率化に取り組んでいる。6月4日、kintoneを提供するサイボウズが発表した。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35248491/\"><img src=\"https://japan.zdnet.com/storage/2025/04/10/5586585dd30a24a47124a0e8a53fa004/t/184/138/d/250410_paper_as_1280_112436812.jpg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2025/04/10/5586585dd30a24a47124a0e8a53fa004/t/184/138/d/250410_paper_as_1280_112436812.jpg",
-    "fetched_at": "2026-06-05 13:54:14",
-    "ja_summary": "JA全農ひろしまは、現場主導で「kintone」を導入し、紙・FAX中心だった業務をデジタル化しました。\nシフト自動作成や出荷計画アプリの構築に加え、生成AIとの連携で問い合わせ業務も効率化しています。\n現場発の市民開発体制により、農業現場のDXを迅速に推進しています。"
   }
 ]
