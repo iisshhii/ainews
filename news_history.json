@@ -1,5 +1,25 @@
 [
   {
+    "title": "Gemma 4 12B の概要",
+    "link": "https://note.com/npaka/n/n7bdf1e232831",
+    "source": "note (npaka)",
+    "published": "Thu, 04 Jun 2026 06:48:37 +0900",
+    "summary": "<p id=\"16c6ec3b-8f54-4120-a399-4822f428854b\" name=\"16c6ec3b-8f54-4120-a399-4822f428854b\">「Gemma 4 12B」の概要をまとめました。</p><figure id=\"08618792-f942-4877-8979-ed1d45e541a0\" name=\"08618792-f942-4877-8979-ed1d45e541a0\"><blockquote><p id=\"eb6aa3b9-7295-45b8-b3b8-bad045cef5ed\" name=\"eb6aa3b9-7295-45b8-b3b8-bad045cef5ed\"><strong>・</strong><a href=\"https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/\" rel=\"nofollow noopener\" target=\"_blank\"><strong>Introducing Gemma 4 12B: a unified, encoder-free multimodal model</strong></a></p></blockquote>\n<figcaption></figcaption></figure><br /><a href=\"https://note.com/npaka/n/n7bdf1e232831\">続きをみる</a>",
+    "image": "https://assets.st-note.com/production/uploads/images/282272920/rectangle_large_type_2_867b4f598bc99edfe69618b0cce1cc51.jpeg?width=800",
+    "fetched_at": "2026-06-06 10:32:35",
+    "ja_summary": "Googleが軽量かつ高性能なマルチモーダルモデル「Gemma 4 12B」を発表しました。\n本モデルはエンコーダー不要の統合的なアーキテクチャを採用しているのが特徴です。\n開発者向けの新しいAIツールとして、効率的な運用が期待されています。"
+  },
+  {
+    "title": "AI 支援研究開発におけるコードレビューの役割と限界",
+    "link": "https://speakerdeck.com/moongift/ai-zhi-yuan-yan-jiu-kai-fa-niokerukotorehiyunoyi-ge-toxian-jie",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-06-05T19:54:35-04:00",
+    "summary": "第8回日本メディカルAI学会学術集会での発表資料です。\n\nhttps://www.jmai2026.jp/",
+    "image": "https://files.speakerdeck.com/presentations/ecb52fce1d95448c9097b298d893ac9a/preview_slide_0.jpg?39625038",
+    "fetched_at": "2026-06-06 10:32:56",
+    "ja_summary": "・AIを活用した開発では、効率化の一方でコードの品質担保や誤検知が課題。\n・自動生成コードの精査には、AI特有の挙動を理解した人間によるレビューが不可欠。\n・AIと人間の役割分担を明確にし、開発リスクを管理する体制構築が重要。"
+  },
+  {
     "title": "「Word」「Excel」「PowerPoint」で「Claude」を活用する方法",
     "link": "https://japan.zdnet.com/article/35248236/",
     "source": "ZDNET Japan",
@@ -978,25 +998,5 @@
     "image": "https://media.loom-app.com/loom/2026/06/03/a10b2bd0-5032-44d4-ae6e-0ffbe2492567/original.jpg?w=1200&amp;h=630",
     "fetched_at": "2026-06-05 08:09:21",
     "ja_summary": "・AI開発の先行企業であるアンスロピックとOpenAIが、株式上場のタイミングを巡り戦略的な駆け引きを行っている。\n・「先手必勝」が定石とされるが、後発が市場環境や先行企業の動向を見て有利に働く可能性も浮上している。\n・両社のIPO戦略は、限られた市場資金をどちらが効率的に獲得できるかが焦点となっている。"
-  },
-  {
-    "title": "大手半導体企業CEOが明かす、ヒューマノイドロボの難題…「推論ではなく反射こそが課題だ」【COMPUTEX】",
-    "link": "https://www.businessinsider.jp/article/2606-semiconductor-ceo-discusses-physical-ai-challenges/",
-    "source": "Business Insider Japan",
-    "published": "Thu, 04 Jun 2026 22:30:00 GMT",
-    "summary": "半導体大手NXPのCEOは、COMPUTEX 2026の基調講演で、フィジカルAIの難題として、人間の神経系に似た物理的なAIアーキテクチャを構築する方法をスピーチしました。",
-    "image": "https://media.loom-app.com/loom/2026/06/04/2b13c341-7a12-49ad-ba6e-7a78b3d51df7/original.png?w=1200&amp;h=630",
-    "fetched_at": "2026-06-05 08:09:22",
-    "ja_summary": "・NXP CEOが、ヒューマノイド開発の壁は高度な推論ではなく、人間の反射神経のような物理的な応答速度だと指摘。\n・AIが現実世界で即座に反応する「物理的な神経系」の構築が今後の技術開発の最重要課題。\n・COMPUTEX 2026において、フィジカルAI実現に向けたハードウェア設計の重要性が浮き彫りに。"
-  },
-  {
-    "title": "AI企業の好調な決算が「利益バブル」という逆説的な株価上昇を煽っている",
-    "link": "https://www.businessinsider.jp/article/ai-bubble-wallstreet-earnings/",
-    "source": "Business Insider Japan",
-    "published": "Thu, 04 Jun 2026 22:00:00 GMT",
-    "summary": "第1四半期の企業決算が予想を上回ったことを受け、株式市場は過去最高値を更新したが、ウォール街は拡大しつつある利益バブルを見落としている可能性がある。",
-    "image": "https://media.loom-app.com/loom/2026/06/03/2f9945c8-6002-4f6b-9536-c0faa4d20f88/original.jpg?w=1200&amp;h=630",
-    "fetched_at": "2026-06-05 08:09:23",
-    "ja_summary": "・企業決算の好調を背景に株価は過去最高値を更新中。\n・AI関連の成長が株高を牽引する一方、「利益バブル」化への懸念が浮上。\n・市場は好調な業績に沸いているが、将来的な反動リスクを見落としている可能性がある。"
   }
 ]
