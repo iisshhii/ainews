@@ -1,5 +1,75 @@
 [
   {
+    "title": "米俳優組合 AIから俳優守る新契約",
+    "link": "https://news.yahoo.co.jp/pickup/6583253?source=rss",
+    "source": "Yahoo!ニュース IT・科学",
+    "published": "Sat, 06 Jun 2026 23:19:48 GMT",
+    "summary": "",
+    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/6/7/3bfa3f2d24dbaa6d6725ba3ba78179360e1ec55271a0b8996132aa2808457775.jpg",
+    "fetched_at": "2026-06-07 08:42:26",
+    "ja_summary": "・米俳優組合がスタジオ側とAI利用を制限する新契約を締結\n・俳優の肖像権やデジタル複製権を保護し、無断利用を防止\n・AI生成物に対しても適切な報酬や同意を義務付ける画期的合意"
+  },
+  {
+    "title": "ChatGPTのメモリ機能が刷新、好みや状況を常に分析・記憶する「Dreaming V3」全ユーザーに導入",
+    "link": "https://www.techno-edge.net/article/2026/06/05/5150.html",
+    "source": "TechnoEdge",
+    "published": "Fri, 05 Jun 2026 17:35:07 +0900",
+    "summary": "OpenAIは2026年6月4日、ChatGPTのメモリ（記憶）機能を大幅に刷新した新システム「Dreaming V3」を発表しました。",
+    "image": "https://www.techno-edge.net/imgs/rss/32038.jpg",
+    "fetched_at": "2026-06-07 08:42:31",
+    "ja_summary": "・OpenAIがChatGPTの記憶機能を刷新した「Dreaming V3」を全ユーザーに導入。\n・ユーザーの好みや状況をシステムがリアルタイムで分析・記憶。\n・対話のたびに指示し直す手間が省け、より最適化された体験が可能に。"
+  },
+  {
+    "title": "乗るだけ体組成計スマートバスマットに新モデル、AIで体重変動を先読み　交換マット無料や二台め30%オフ特典の発売記念キャンペーン実施",
+    "link": "https://www.techno-edge.net/article/2026/06/05/5149.html",
+    "source": "TechnoEdge",
+    "published": "Fri, 05 Jun 2026 16:22:02 +0900",
+    "summary": "日本のスタートアップ issin が販売するスマート体重計・体組成計 スマートバスマットに、機能をアップデートした新モデル「スマートバスマット(2026)」が加わりました。",
+    "image": "https://www.techno-edge.net/imgs/rss/32036.jpg",
+    "fetched_at": "2026-06-07 08:42:31",
+    "ja_summary": "・issinの「スマートバスマット」に、体重変動をAIが予測する新モデルが登場。\n・交換マット無料や2台目30%OFFなど、発売記念キャンペーンを実施中。\n・乗るだけで健康管理ができる手軽さはそのままに、機能が強化された。"
+  },
+  {
+    "title": "Claude Code と Codex を使い比べて見えた設計思想の違い",
+    "link": "https://zenn.dev/tark_ann/articles/e8b09c6db73bfb",
+    "source": "Zenn Trends",
+    "published": "Sat, 06 Jun 2026 11:00:05 GMT",
+    "summary": "この記事は、今まで Claude Code 1本でやってきていたエンジニアが、Opus 4.7 の体験が悪く、Codex に浮気してみて気づいたことのまとめである。\n実際に触った感想は多くの人がまとめているが、その振る舞いが起こる理由について考察している人はあまり見かけなかった。\nそのため本記事では、\n\nClaude Code と Codex の公式情報\n実際に利用して観測した振る舞い\nそこから考えた仮説\n\nを整理してみる。\n!\n本記事の観測対象は Claude Code (Opus 4.7) と Codex (GPT-5.5) である。\nそのため、ここで書いている差分には：\n\nエージェ...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--nLxpPyN9--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%2520%25E3%2581%25A8%2520Codex%2520%25E3%2582%2592%25E4%25BD%25BF%25E3%2581%2584%25E6%25AF%2594%25E3%2581%25B9%25E3%2581%25A6%25E8%25A6%258B%25E3%2581%2588%25E3%2581%259F%25E8%25A8%25AD%25E8%25A8%2588%25E6%2580%259D%25E6%2583%25B3%25E3%2581%25AE%25E9%2581%2595%25E3%2581%2584%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%25BF%25E3%2583%25BC%25E3%2582%25AF%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzM5MDIzNjM1YjAuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-06-07 08:43:02",
+    "ja_summary": "Claude CodeとCodexの振る舞いの違いを、公式情報と実体験から考察した比較記事。\n両者の設計思想やエージェントとしての動作特性の差を独自の視点で分析。\nツール選びの指標となるよう、AIの挙動の背景にある理由を深掘りしている。"
+  },
+  {
+    "title": "AI時代のサーバーサイド開発を考えて、Next.jsフルスタックからRustへ移行した話",
+    "link": "https://zenn.dev/shtrchkw/articles/438accc201f16a",
+    "source": "Zenn Trends",
+    "published": "Sat, 06 Jun 2026 09:24:43 GMT",
+    "summary": "私たち株式会社Eye Universe は、美容サロン向けにAIエージェントをノーコードで構築できるプラットフォームを中心に、予約や物流など美容サロンの業務を支えるプロダクトを開発・運営しているスタートアップです。\nもともとは開発速度を重視し、Next.jsをフルスタックに使う構成で開発してきました。しかし、ユーザー数やユースケースが増え、WebアプリだけでなくiOSアプリからも使われるサーバーサイドの責務が大きくなるにつれて、主要なサーバーサイド処理をRustで書いたAPIサーバーへ移行しました。\nこの記事では、Rustを採用した理由を「高速だから」という観点だけではなく、AIコーディ...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--cGodyVsI--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%25E6%2599%2582%25E4%25BB%25A3%25E3%2581%25AE%25E3%2582%25B5%25E3%2583%25BC%25E3%2583%2590%25E3%2583%25BC%25E3%2582%25B5%25E3%2582%25A4%25E3%2583%2589%25E9%2596%258B%25E7%2599%25BA%25E3%2582%2592%25E8%2580%2583%25E3%2581%2588%25E3%2581%25A6%25E3%2580%2581Next.js%25E3%2583%2595%25E3%2583%25AB%25E3%2582%25B9%25E3%2582%25BF%25E3%2583%2583%25E3%2582%25AF%25E3%2581%258B%25E3%2582%2589Rust%25E3%2581%25B8%25E7%25A7%25BB%25E8%25A1%258C%25E3%2581%2597%25E3%2581%259F%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%259F%25E3%2582%258D%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzMzMmU1MDZkYmUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-06-07 08:43:02",
+    "ja_summary": "・美容サロン向けAIプラットフォームを運営する同社が、開発速度重視のNext.jsからRustへ移行。\n・アプリの利用拡大やサーバー側の責務増大に伴い、堅牢性とスケーラビリティを確保。\n・単なる高速化だけでなく、複雑なAI処理や保守性を考慮した技術選定の詳細を解説。"
+  },
+  {
+    "title": "Claude Code Skill「cc-rsg」をWeb化した話 — OpenHandsという発見",
+    "link": "https://zenn.dev/daishiro/articles/openhands-cc-rsg-webapp",
+    "source": "Zenn Trends",
+    "published": "Sat, 06 Jun 2026 00:58:41 GMT",
+    "summary": "はじめに\nこんにちは、daishir0です。\n普段はClaude Codeを趣味や開発でガシガシ使っていて、副産物として小さなSkillをいくつか作って公開しています。GitHubはこちらです。\n今回の記事は、自作のClaude Code Skillである cc-rsg（リバース仕様書ジェネレータ）を、Webアプリケーションとして提供できる形に作り直した経緯の話です。OpenHandsという基盤を使ったらこれが想像以上にハマって、ついでに「これって自分のAgentic AI基盤の作り方そのものが変わるな…」と気づいた、というところまでを書きます。\n実装の細かい話と、最後に所感を少しだ...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--w1lxDtXp--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%2520Skill%25E3%2580%258Ccc-rsg%25E3%2580%258D%25E3%2582%2592Web%25E5%258C%2596%25E3%2581%2597%25E3%2581%259F%25E8%25A9%25B1%2520%25E2%2580%2594%2520OpenHands%25E3%2581%25A8%25E3%2581%2584%25E3%2581%2586%25E7%2599%25BA%25E8%25A6%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:daishir0%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSlBxd2JLc3oyalFvNmMxQldPLUEtSW15QU5mLUt3aEEwWEdUdFF2eUQ3WndhaUQta05wUT1zOTYtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-06-07 08:43:03",
+    "ja_summary": "・Claude Codeの自作ツール「cc-rsg」を、OpenHandsを活用してWebアプリ化。\n・OpenHandsを採用したことで、開発効率とAIエージェントの構築手法が劇的に向上。\n・単なるツール移行にとどまらず、自身の開発基盤や今後のAI活用方針に大きな転換をもたらした体験談。"
+  },
+  {
+    "title": "フロントエンド開発で使えるMCPサーバーを徹底的にまとめてみた",
+    "link": "https://zenn.dev/actbe_tech/articles/a0f1f3609cfc9d",
+    "source": "Zenn Trends",
+    "published": "Fri, 05 Jun 2026 08:30:05 GMT",
+    "summary": "はじめに\n以前Chrome DevTools MCPとCursorとの連携について書きましたが、MCP（Model Context Protocol）に対応したサーバーは他にもどんどん増えてきています。「コードを書く」だけだったAIエージェントが、ブラウザを操作したり、デザインを読んだり、テストを回したりと、できることの幅が一気に広がってきました。\n今回はフロントエンド開発で実際に役立つMCPサーバーを、設定方法・できること・実践的な使い方・注意点まで含めて、なるべく濃くまとめていきます。長くなりますが、自分の備忘録も兼ねて一気にいきます。\n\n そもそもMCPとは\nMCPは、Anth...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--FXqdHy4x--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2595%25E3%2583%25AD%25E3%2583%25B3%25E3%2583%2588%25E3%2582%25A8%25E3%2583%25B3%25E3%2583%2589%25E9%2596%258B%25E7%2599%25BA%25E3%2581%25A7%25E4%25BD%25BF%25E3%2581%2588%25E3%2582%258BMCP%25E3%2582%25B5%25E3%2583%25BC%25E3%2583%2590%25E3%2583%25BC%25E3%2582%2592%25E5%25BE%25B9%25E5%25BA%2595%25E7%259A%2584%25E3%2581%25AB%25E3%2581%25BE%25E3%2581%25A8%25E3%2582%2581%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E5%25A4%25A7%25E9%2587%258E%25EF%25BD%259CACTBE%2520Inc.%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2U5YmIyMzU3NzIuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E6%25A0%25AA%25E5%25BC%258F%25E4%25BC%259A%25E7%25A4%25BE%25E3%2582%25A2%25E3%2582%25AF%25E3%2583%2588%25E3%2583%2593%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzg5MTBiZDdjYTkuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-06-07 08:43:04",
+    "ja_summary": "・MCP（Model Context Protocol）により、AIがブラウザ操作やテスト実行などフロントエンド開発の幅広い業務に対応可能になった。\n・実務で役立つ主要なMCPサーバーの設定や実践的な活用法を網羅的に解説。\n・AI開発環境の構築と活用範囲を拡大したいエンジニア向けの必読ガイド。"
+  },
+  {
     "title": "アメリカ最大の小売企業｢ウォルマート｣の変貌…AI買い物エージェント｢Sparky｣が浸透､利益の3分の1は小売以外 | 政治・経済・投資 | 東洋経済オンライン",
     "link": "https://toyokeizai.net/articles/-/945955?utm_source=rss&utm_medium=http&utm_campaign=link_back",
     "source": "東洋経済オンライン",
@@ -928,75 +998,5 @@
     "image": "https://www.watch.impress.co.jp/img/ipw/list/2114/812/1.jpg",
     "fetched_at": "2026-06-05 17:38:58",
     "ja_summary": "・ソースネクストがAIエージェント「Genspark Team」の国内法人向け販売を開始\n・利用料は1人あたり月額4,800円（2人以上から契約可能）\n・法人利用に不可欠な請求書払いにも対応"
-  },
-  {
-    "title": "政府、国会答弁に生成AIを活用へ　批判に対する松本デジタル大臣の回答は",
-    "link": "https://japan.cnet.com/article/35248462/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "国会答弁書の作成に政府が生成AIを活用するとした方針をめぐり、読売新聞が5月31日の社説で「答弁は単なる政策の説明ではなく新たな政策決定であり、それ自体創造的な行為」「いずれは省庁や国会の不要論も招きかねない」などと批判した。これに対しSNS（X）で反論していた松本尚デジタル大臣が、6月2日の記者会見で改めて自身の立場を説明した。「AIが作ったものをそのままアウトプットすることはできる限り控える」としつつ、社説の理解には「多少誤解もあるかな」と指摘した。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35248462/\"><img src=\"https://japan.cnet.com/storage/2026/06/04/3cb96b14159bf25d1ea5f7d2d0965d68/t/184/138/d/2026-06-04_17.18の画像.jpeg\" /></a>",
-    "image": "https://japan.cnet.com/storage/2026/06/04/3cb96b14159bf25d1ea5f7d2d0965d68/t/184/138/d/2026-06-04_17.18の画像.jpeg",
-    "fetched_at": "2026-06-05 17:39:02",
-    "ja_summary": "政府の国会答弁への生成AI活用方針に対し、読売新聞が「創造的な行為の放棄」と批判。\n松本デジタル大臣は「AIの出力をそのまま使うことは控える」と反論し、報道側の理解に誤解があると指摘した。\n政府は業務効率化を目指すが、AI活用範囲の適正化が今後の議論の焦点となる。"
-  },
-  {
-    "title": "マイクロソフトのAIデータセンター建設に抗議の声、ナデラCEOは「地域との共生」を強調",
-    "link": "https://japan.cnet.com/article/35248458/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "企業の貪欲さや環境汚染を描いたカラフルな看板とともに、AIデータセンターに反対する抗議者たちが、マイクロソフトの年次カンファレンス「Build」の会場に集まった。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35248458/\"><img src=\"https://japan.cnet.com/storage/2026/06/04/23294c39cc876fcb13abf7ff8279d36f/t/184/138/d/20260602-152711_1280x960.jpg\" /></a>",
-    "image": "https://japan.cnet.com/storage/2026/06/04/23294c39cc876fcb13abf7ff8279d36f/t/184/138/d/20260602-152711_1280x960.jpg",
-    "fetched_at": "2026-06-05 17:39:02",
-    "ja_summary": "マイクロソフトのAIデータセンター建設に対し、環境負荷や企業姿勢を懸念する抗議活動が年次カンファレンスで発生した。\nナデラCEOは批判を受けつつも、地域社会との共生を重視する姿勢を強調し、理解を求めた。\nAIインフラ拡大に伴う地域環境への配慮が、同社の今後の重要な課題となっている。"
-  },
-  {
-    "title": "トランプ氏 AI規制強化で大統領令",
-    "link": "https://news.yahoo.co.jp/pickup/6582763?source=rss",
-    "source": "Yahoo!ニュース IT・科学",
-    "published": "Wed, 03 Jun 2026 02:57:25 GMT",
-    "summary": "",
-    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/6/3/cafd8a894a61d354fd9b6f2af9ce1adee889a6fd6e429ba7e97714978066ce96.jpg",
-    "fetched_at": "2026-06-05 17:39:13",
-    "ja_summary": "・トランプ氏がAI規制を強化する大統領令に署名。\n・開発企業への監視を強め、AIの安全性とリスク管理を徹底する方針。\n・技術革新を維持しつつ、国家安全保障上の懸念に対応する狙い。"
-  },
-  {
-    "title": "高性能AI なぜ政府がアクセス要請",
-    "link": "https://news.yahoo.co.jp/pickup/6582779?source=rss",
-    "source": "Yahoo!ニュース IT・科学",
-    "published": "Wed, 03 Jun 2026 04:58:46 GMT",
-    "summary": "",
-    "image": "https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/satohitoshi/02636414/title-1780385424022.jpeg?exp=10800",
-    "fetched_at": "2026-06-05 17:39:14",
-    "ja_summary": "・政府がAI開発企業に対し、安全性評価のため高性能AIモデルへのアクセスを要請。\n・技術的な独占や安全上のリスクを防ぎ、官民連携で適切な監視体制を構築する狙い。\n・AIの急速な発展に伴う悪用リスクや社会への影響を、国家レベルで管理する方針。"
-  },
-  {
-    "title": "日立製作所、Anthropicの「Project Glasswing」に参加",
-    "link": "https://japan.zdnet.com/article/35248520/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "日立製作所は、Anthropicを中心としたソフトウェア脆弱性対策プロジェクト「Project Glasswing」に参加する。\n<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35248520/\"><img src=\"https://japan.zdnet.com/storage/2026/05/19/347f4b4af9b277eb858c8381fb838cfa/t/184/138/d/hitachi-anthropic_l.jpg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2026/05/19/347f4b4af9b277eb858c8381fb838cfa/t/184/138/d/hitachi-anthropic_l.jpg",
-    "fetched_at": "2026-06-05 17:39:15",
-    "ja_summary": "日立製作所が、Anthropic主導のソフトウェア脆弱性対策プロジェクト「Project Glasswing」に参加。\nAI技術を活用し、サイバーセキュリティの強化とシステム上の弱点解決を目指す。"
-  },
-  {
-    "title": "「BoxはAIエージェントが機能するコンテンツ基盤」--レヴィンCEOが会見",
-    "link": "https://japan.zdnet.com/article/35248510/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "Boxが都内で年次イベントを開催し、アーロン・レヴィンCEOは「業務でのAIエージェント活用を担うインテリジェントなコンテンツ基盤を推進する」と語った。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35248510/\"><img src=\"https://japan.zdnet.com/storage/2026/06/05/e420fe1bfa0ad98e1d08f83451905cd1/t/184/138/d/boxworkstyo_l.jpg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2026/06/05/e420fe1bfa0ad98e1d08f83451905cd1/t/184/138/d/boxworkstyo_l.jpg",
-    "fetched_at": "2026-06-05 17:39:15",
-    "ja_summary": "・Boxの年次イベントでレヴィンCEOが登壇。\n・AIエージェントが業務を遂行するための「インテリジェントなコンテンツ基盤」の構築を推進する方針を発表した。"
-  },
-  {
-    "title": "AIとERPを融合し、「信頼できるチームメンバー」へ--ワークスアプリケーションズ",
-    "link": "https://japan.zdnet.com/article/35248514/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "ワークスアプリケーションズは、ERPパッケージ「HUE」をAI-driven Platformへと進化させると同時に、新事業として企業変革に伴走するサービス事業「OXYG（オクシグ）」を本格始動し、2本柱の事業モデルを確立すると発表した。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35248514/\"><img src=\"https://japan.zdnet.com/storage/2026/06/05/4f6a27c1a17638a7d31669073e86a11a/t/184/138/d/260604_works_00l.JPG\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2026/06/05/4f6a27c1a17638a7d31669073e86a11a/t/184/138/d/260604_works_00l.JPG",
-    "fetched_at": "2026-06-05 17:39:15",
-    "ja_summary": "・ワークスアプリケーションズがERP「HUE」をAI主導型プラットフォームへと刷新。\n・新事業「OXYG」を立ち上げ、企業変革に伴走するコンサルティングを本格始動。\n・ERP製品と伴走支援サービスの2本柱で、企業のDX推進を強力にサポートする体制を確立。"
   }
 ]
