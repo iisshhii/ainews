@@ -1,5 +1,55 @@
 [
   {
+    "title": "優秀な部下を潰す｢三流上司のNGフィードバック｣とは？部下に｢AIの方がマシ｣と笑われない指摘の鉄則 | キャリア・教育 | 東洋経済オンライン",
+    "link": "https://toyokeizai.net/articles/-/946599?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+    "source": "東洋経済オンライン",
+    "published": "Sat, 06 Jun 2026 12:00:00 +0900",
+    "summary": "多様な職場で活躍する萩原雅裕氏が提唱する､仕事を停滞させない｢たたき台｣の活用術。未完成なアウトプットをどう評価し､部下の成長や組織の成果につなげるか―。優秀な部下を伸ばし､離職を防ぐ上司の必須スキ…",
+    "image": "https://tk.ismcdn.jp/mwimgs/2/d/1200w/img_2d050efde7b4d7ea701fb79193109a96687930.jpg?nextgen=false",
+    "fetched_at": "2026-06-06 14:39:10",
+    "ja_summary": "・部下の未完成な「たたき台」を否定せず、改善の起点として活用する。\n・完成度を求めるのではなく、対話を通じて部下の思考を深め成長を促す。\n・AIとの比較もされる現代において、上司は否定役ではなく伴走者となるべき。"
+  },
+  {
+    "title": "【Snowflake Summit 2026】AIはデータのある場所で動かす ─ GitLabが示した設計思想と実装アプローチ",
+    "link": "https://zenn.dev/finatext/articles/47595dcc2fc914",
+    "source": "Zenn Trends",
+    "published": "Fri, 05 Jun 2026 06:28:01 GMT",
+    "summary": "!\nナウキャストのSnowflake Summit 2026参加記の一覧は以下でご覧ください。\nhttps://zenn.dev/finatext/articles/snowflake-summit-2026-summary-nowcast\n\n※ 本記事は Snowflake Summit 2026 のセッション「How GitLab Saved 90% in Engineering Costs by Keeping AI Inside Snowflake」(AI256) を現地で聴講したメモを元にした参加レポートです。スライドの図と、登壇内容の要約を再構成しています。\n\n セッション概...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--UwzvkeT4--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590Snowflake%2520Summit%25202026%25E3%2580%2591AI%25E3%2581%25AF%25E3%2583%2587%25E3%2583%25BC%25E3%2582%25BF%25E3%2581%25AE%25E3%2581%2582%25E3%2582%258B%25E5%25A0%25B4%25E6%2589%2580%25E3%2581%25A7%25E5%258B%2595%25E3%2581%258B%25E3%2581%2599%2520%25E2%2594%2580%2520GitLab%25E3%2581%258C%25E7%25A4%25BA%25E3%2581%2597%25E3%2581%259F%25E8%25A8%25AD%25E8%25A8%2588%25E6%2580%259D%25E6%2583%25B3%25E3%2581%25A8%25E5%25AE%259F...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:mari%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2NjOTE1NmJhMjEuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Finatext%2520Tech%2520Blog%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzA0MDVhOGZmNjcuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-06-06 14:40:02",
+    "ja_summary": "・GitLabはAIをSnowflake内で実行するアーキテクチャを採用し、エンジニアリングコストを90%削減した。\n・「データを移動させず、データのある場所でAIを動かす」設計思想により、効率化とセキュリティを両立。\n・Snowflake上で完結するAI活用モデルは、コスト最適化と運用負荷軽減の有効なアプローチとして注目される。"
+  },
+  {
+    "title": "Claude を使って Gemini 議事録から必要な情報を抽出する仕組み",
+    "link": "https://zenn.dev/tokium_dev/articles/d806c7ad4fd458",
+    "source": "Zenn Trends",
+    "published": "Fri, 05 Jun 2026 05:55:45 GMT",
+    "summary": "はじめに\nGoogle Meet の Gemini 議事録は便利ですが、Google Drive に増えていくだけでは会議後の作業につながりません。\nこの記事では、Claude を使って Gemini 議事録から決定事項や TODO を抽出し、業務に必要な情報へ変える仕組みを紹介します。\nこの仕組みを作ると、会議後に誰かが議事録を読み直し、必要な情報を整理する負担を減らせます。\nまた、決定事項や TODO が Slack や Jira に残るため、あとから「何が決まったのか」「次に誰が何をするのか」を追いやすくなります。\n想定している読者は次のような人です。\n\nGemini の議事録...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--Q_IycC6B--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520%25E3%2582%2592%25E4%25BD%25BF%25E3%2581%25A3%25E3%2581%25A6%2520Gemini%2520%25E8%25AD%25B0%25E4%25BA%258B%25E9%258C%25B2%25E3%2581%258B%25E3%2582%2589%25E5%25BF%2585%25E8%25A6%2581%25E3%2581%25AA%25E6%2583%2585%25E5%25A0%25B1%25E3%2582%2592%25E6%258A%25BD%25E5%2587%25BA%25E3%2581%2599%25E3%2582%258B%25E4%25BB%2595%25E7%25B5%2584%25E3%2581%25BF%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E3%2581%2597%25E3%2582%2587%25E3%2583%25BC%25E3%2581%2595%25E3%2582%2593%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzViNTEwYjI5ZjEuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:TOKIUM%25E3%2583%2597%25E3%2583%25AD%25E3%2583%2580%25E3%2582%25AF%25E3%2583%2588%25E3%2583%2581%25E3%2583%25BC%25E3%2583%25A0%2520%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzlkMzExMTE0OTcuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-06-06 14:40:02",
+    "ja_summary": "Google MeetのGemini議事録をClaudeで自動解析し、決定事項やTODOを抽出・整理する仕組みを解説。\n手作業による情報整理の負担を削減し、SlackやJiraへの自動連携でタスクの追跡を容易にする。\n会議後の事務作業を自動化し、業務効率と情報の共有精度を向上させる手法。"
+  },
+  {
+    "title": "せっかく作ったアプリが「AIっぽい」だけで避けられないようにするには？ ── /frontend-designだけじゃ足りなかった話",
+    "link": "https://zenn.dev/tokium_dev/articles/04387b258ba54e",
+    "source": "Zenn Trends",
+    "published": "Thu, 04 Jun 2026 05:48:02 GMT",
+    "summary": "導入（茶番）\n突然ですが以下のアプリ画面をご覧ください。これは私が温かみのある手打ちで作成したTodoアプリの画面です。\n\n...流石になんだか味気ないし、使いづらそうですよね。フォントはデフォルト、CSSで設定しているプロパティもbackground-colorやpadding等の基本的なものだけです。\nどうやら最近はコーディングAIとやらにお願いするとコードを実装してくれるらしいです。Claude Codeくんに「オシャレなCSSを作って！」とお願いしてみましょう。\n\nなんかすごいケバいのが出てきた🤯\nこれこそが昨今問題となっている「AIスロップ」というもので、パッと見の印象はよ...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--WSsa9Jh7--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2581%259B%25E3%2581%25A3%25E3%2581%258B%25E3%2581%258F%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%259F%25E3%2582%25A2%25E3%2583%2597%25E3%2583%25AA%25E3%2581%258C%25E3%2580%258CAI%25E3%2581%25A3%25E3%2581%25BD%25E3%2581%2584%25E3%2580%258D%25E3%2581%25A0%25E3%2581%2591%25E3%2581%25A7%25E9%2581%25BF%25E3%2581%2591%25E3%2582%2589%25E3%2582%258C%25E3%2581%25AA%25E3%2581%2584%25E3%2582%2588%25E3%2581%2586%25E3%2581%25AB%25E3%2581%2599%25E3%2582%258B%25E3%2581%25AB%25E3%2581%25AF%25EF%25BC%259F%2520%25E2%2594%2580%25E2%2594%2580%2520%252Ffrontend-design%25E3%2581%25A0%25E3%2581%2591...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E3%2583%2581%25E3%2583%2593%25E3%2582%25B9%25E3%2583%25A9%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzViNTEwYjI5ZjEuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:TOKIUM%25E3%2583%2597%25E3%2583%25AD%25E3%2583%2580%25E3%2582%25AF%25E3%2583%2588%25E3%2583%2581%25E3%2583%25BC%25E3%2583%25A0%2520%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSkR5ODZIR0k0dXhRY2dLYUlTTk0zLW04VHBMOVM4LXNsVU01TG9FcEhQeHZNeG12TXQ9czk2LWM=%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-06-06 14:40:03",
+    "ja_summary": "AI生成コードは見た目が派手なだけで実用性や独自性に欠ける「AIスロップ（粗製乱造）」になりがちである。\nAI任せのデザインは「それっぽい」だけで中身が伴わないため、単なるコピペで済ませず人間による細かな調整が不可欠。\n技術とデザインの意図を理解した上でAIを活用しなければ、ユーザーから敬遠される使いにくいアプリになってしまう。"
+  },
+  {
+    "title": "openSUSE OSC 2026 Sendai",
+    "link": "https://speakerdeck.com/ftake/opensuse-osc-2026-sendai",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-06-05T21:29:26-04:00",
+    "summary": "",
+    "image": "https://files.speakerdeck.com/presentations/2ce80a52ed0744909e355710016048d1/preview_slide_0.jpg?39625674",
+    "fetched_at": "2026-06-06 14:40:04",
+    "ja_summary": "OSC（オープンソースカンファレンス）2026の仙台開催が決定。\nオープンソースコミュニティ「openSUSE」が主催・参加。\n最新技術の共有やエンジニア同士の交流の場として開催予定。"
+  },
+  {
     "title": "Gemma 4 12B の概要",
     "link": "https://note.com/npaka/n/n7bdf1e232831",
     "source": "note (npaka)",
@@ -948,55 +998,5 @@
     "image": "https://image.itmedia.co.jp/business/articles/2606/05/cover_news042.jpg",
     "fetched_at": "2026-06-05 08:09:00",
     "ja_summary": "・生成AIへのキャリア相談はまだ少数派だが、利用者の約6割が「人より相談しやすい」と評価。\n・AIのアドバイスをきっかけに、半数以上が実際の行動へ移している。\n・キャリアの悩みなど、対人では相談しにくい内容をAIで解決する動きが見られる。"
-  },
-  {
-    "title": "AI創薬は幻想なのか？　「研究が加速」期待から数年、いまだ劇的な変化が起きないワケ　AI企業トップの見解は",
-    "link": "https://www.itmedia.co.jp/business/articles/2606/04/news056.html",
-    "source": "ITmedia ビジネス",
-    "published": "Thu, 04 Jun 2026 07:00:00 +0900",
-    "summary": "AlphaFoldの登場などAI創薬に対する期待が高まったが、いまだに劇的な変化が起きていないという。「AI創薬」とは幻想だったのか？　AI企業トップに見解を聞いた。",
-    "image": "https://image.itmedia.co.jp/business/articles/2606/04/cover_news056.jpg",
-    "fetched_at": "2026-06-05 08:09:01",
-    "ja_summary": "・AI創薬は期待されたほどの劇的な成果を上げられていないのが現状。\n・データ不足や検証の難しさが壁となり、過度な幻想との指摘も出ている。\n・AI企業トップは、創薬プロセスの複雑さを認めつつ、長期的な変革に注力する姿勢。"
-  },
-  {
-    "title": "要約だけじゃない！　「Gemini in Chrome」でリサーチを効率化する3つのユニークな使い方",
-    "link": "https://www.itmedia.co.jp/business/articles/2606/04/news054.html",
-    "source": "ITmedia ビジネス",
-    "published": "Thu, 04 Jun 2026 06:00:00 +0900",
-    "summary": "Chromeのブラウザ内でGeminiが使えるようになりましたが、どんなときに役立ちますか？",
-    "image": "https://image.itmedia.co.jp/business/articles/2606/04/cover_news054.png",
-    "fetched_at": "2026-06-05 08:09:01",
-    "ja_summary": "・アドレスバーから「@gemini」と入力するだけで、タブ切り替えなしでAIに直接質問が可能。\n・Webページの内容要約だけでなく、文章の推敲や複雑な情報の整理をブラウザ上で即座に実行できる。\n・リサーチ業務の効率を大幅に高め、ブラウザ操作のシームレスなAI活用を実現する。"
-  },
-  {
-    "title": "心を理解するAIとそうでない機械　異物同士が同居するメリット",
-    "link": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/052100112/060100139/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "現在のAI（人工知能）はコンピューターの上で動く。だが、AIとコンピューターは挙動が全く異なる。例えば人間関係の相談をどう処理するかを考えてみよう。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/052100112/060100139/topm.jpg?20220512",
-    "fetched_at": "2026-06-05 08:09:10",
-    "ja_summary": "・AIの思考プロセスとハードウェアであるコンピューターの挙動は本質的に異なる。\n・両者の「異物」としての性質を理解し組み合わせることで、新たな価値が生まれる。\n・対人相談のような複雑な処理を通じ、AIと機械の協調の可能性を模索すべきである。"
-  },
-  {
-    "title": "LLMにどこまで委ねるか　AIエージェントの「非決定論」問題",
-    "link": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/052100111/060400178/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "AI（人工知能）が人間に代わって業務を遂行する「AIエージェント」について、相対する意見を耳にするようになった。焦点となっているのは、業務の進め方に関する判断をLLM（大規模言語モデル）に委ねるか否かという問題だ。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/052100111/060400178/topm.jpg?20220512",
-    "fetched_at": "2026-06-05 08:09:10",
-    "ja_summary": "AIエージェントの業務遂行において、判断をどこまでLLMに委ねるべきかという「非決定論」が議論の焦点となっている。\nAIの自律的な判断は効率化をもたらすが、プロセス制御の難しさが課題として浮上している。\nビジネス活用において、AIの柔軟性と制御可能性をどう両立させるかが重要な判断基準となる。"
-  },
-  {
-    "title": "アンスロピックとOpenAIに新たな競争：どちらが先に鐘を鳴らすか",
-    "link": "https://www.businessinsider.jp/article/202606-openai-anthropic-ipo-timing/",
-    "source": "Business Insider Japan",
-    "published": "Thu, 04 Jun 2026 23:00:00 GMT",
-    "summary": "「市場に回ってくる資金には限りがあるため、先に上場した方が良い」というのが通説だ。しかし、もし2番目に上場した方が良いとしたらどうだろうか？",
-    "image": "https://media.loom-app.com/loom/2026/06/03/a10b2bd0-5032-44d4-ae6e-0ffbe2492567/original.jpg?w=1200&amp;h=630",
-    "fetched_at": "2026-06-05 08:09:21",
-    "ja_summary": "・AI開発の先行企業であるアンスロピックとOpenAIが、株式上場のタイミングを巡り戦略的な駆け引きを行っている。\n・「先手必勝」が定石とされるが、後発が市場環境や先行企業の動向を見て有利に働く可能性も浮上している。\n・両社のIPO戦略は、限られた市場資金をどちらが効率的に獲得できるかが焦点となっている。"
   }
 ]
