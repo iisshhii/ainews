@@ -1,5 +1,35 @@
 [
   {
+    "title": "How Endava is redesigning software delivery around AI agents",
+    "link": "https://openai.com/index/endava-frontiers",
+    "source": "OpenAI",
+    "published": "Thu, 04 Jun 2026 12:00:00 GMT",
+    "summary": "Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate workflows, and build an AI-native culture across the enterprise.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/4gxDAOkxUXKVkAcM8eGhNj/03482b84b74c225d36ad173865b67b14/oai_Endava_SEO.png?w=1600&amp;h=900&amp;fit=fill",
+    "fetched_at": "2026-06-06 20:51:00",
+    "ja_summary": "EndavaはAIエージェントやChatGPT Enterprise等の技術を活用し、ソフトウェア開発の高速化とワークフローの自動化を推進している。\n単なるツール導入にとどまらず、全社的な「AIネイティブな企業文化」の醸成を目指している。"
+  },
+  {
+    "title": "【完全版】AIセキュリティ地獄絵図2026 - CVE・攻撃手法・防御策を全部解説する",
+    "link": "https://qiita.com/emi_ndk/items/a36051a97d3b0670bedd",
+    "source": "Qiita (Popular)",
+    "published": "2026-05-28T16:20:24+09:00",
+    "summary": "先日の記事「100万台のAIサービスをスキャンしたら史上最悪のセキュリティだった」が大きな反響をいただいた。\n\nこの記事では：\n- **CVE-2026-7482「Bleeding Llama」の技術的詳細**\n- **AI生成ゼロデイの完全分析**\n- **OWASP LLM Top 10 2026の全リスク解説**\n- **Ollama・n8n・Flowiseのエンタープライズ級ハードニング*",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmF2YXRhcnMuZ2l0aHVidXNlcmNvbnRlbnQuY29tJTJGdSUyRjU0MTczODUwJTNGdiUzRDQ_aXhsaWI9cmItNC4xLjEmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPWNkZmY0YjBhMDNjMTYyOTBkMzk5NWJmYzRkYTdjNmI1%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D26dd64066e4ec8934d87cd97ca579144?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJTkwJUU1JUFFJThDJUU1JTg1JUE4JUU3JTg5JTg4JUUzJTgwJTkxQUklRTMlODIlQkIlRTMlODIlQUQlRTMlODMlQTUlRTMlODMlQUElRTMlODMlODYlRTMlODIlQTMlRTUlOUMlQjAlRTclOEQlODQlRTclQjUlQjUlRTUlOUIlQjMyMDI2JTIwLSUyMENWRSVFMyU4MyVCQiVFNiU5NCVCQiVFNiU5MiU4MyVFNiU4OSU4QiVFNiVCMyU5NSVFMyU4MyVCQiVFOSU5OCVCMiVFNSVCRSVBMSVFNyVBRCU5NiVFMyU4MiU5MiVFNSU4NSVBOCVFOSU4MyVBOCVFOCVBNyVBMyVFOCVBQSVBQyVFMyU4MSU5OSVFMyU4MiU4QiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPWU4NGY1YzcxNTY1YWM3ODRmODU4ZGM0MGZlZjAzNjRh&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBlbWlfbmRrJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9ODEyY2UxNTIxOTMzYWFkOTY1ZTJhOWFiMGQxZDljOTg&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=a772cdd84ae30246702b7cc38f3d6f8b",
+    "fetched_at": "2026-06-06 20:51:21",
+    "ja_summary": "・AIサービスにおける脆弱性や最新攻撃手法、OWASP LLM Top 10の2026年版リスクを網羅的に解説。\n・特に深刻なCVE-2026-7482「Bleeding Llama」やAI生成ゼロデイ攻撃の技術詳細を分析。\n・OllamaやFlowiseなど、主要ツールを企業レベルで安全に運用するための具体的な防御・対策を提示。"
+  },
+  {
+    "title": "【悲報】100万台のAIサービスをスキャンしたら「史上最悪のセキュリティ」だった件",
+    "link": "https://qiita.com/emi_ndk/items/0aac69d8a962d2413d9d",
+    "source": "Qiita (Popular)",
+    "published": "2026-05-24T16:44:12+09:00",
+    "summary": "## あなたのAIサーバー、今この瞬間も丸見えです\n\n「AIを使えば業務が効率化される」\n\nそう信じて、急いでOllamaやn8nをデプロイした会社は多いだろう。\n\n**でも、ちょっと待ってほしい。**\n\nセキュリティ企業Intruderが今月発表した調査結果が、業界に衝撃を与えている。**200万台以上のホスト**をスキャンし、**100万個の公開AIサービス**を分析した結果は——\n\n:::n",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmF2YXRhcnMuZ2l0aHVidXNlcmNvbnRlbnQuY29tJTJGdSUyRjU0MTczODUwJTNGdiUzRDQ_aXhsaWI9cmItNC4xLjEmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPWNkZmY0YjBhMDNjMTYyOTBkMzk5NWJmYzRkYTdjNmI1%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D26dd64066e4ec8934d87cd97ca579144?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJTkwJUU2JTgyJUIyJUU1JUEwJUIxJUUzJTgwJTkxMTAwJUU0JUI4JTg3JUU1JThGJUIwJUUzJTgxJUFFQUklRTMlODIlQjUlRTMlODMlQkMlRTMlODMlOTMlRTMlODIlQjklRTMlODIlOTIlRTMlODIlQjklRTMlODIlQUQlRTMlODMlQTMlRTMlODMlQjMlRTMlODElOTclRTMlODElOUYlRTMlODIlODklRTMlODAlOEMlRTUlOEYlQjIlRTQlQjglOEElRTYlOUMlODAlRTYlODIlQUElRTMlODElQUUlRTMlODIlQkIlRTMlODIlQUQlRTMlODMlQTUlRTMlODMlQUElRTMlODMlODYlRTMlODIlQTMlRTMlODAlOEQlRTMlODElQTAlRTMlODElQTMlRTMlODElOUYlRTQlQkIlQjYmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1jMzZhYjJmNzJjNzc1NTE3MWJkN2I4NmM0Y2NhOTUyNQ&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBlbWlfbmRrJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9ODEyY2UxNTIxOTMzYWFkOTY1ZTJhOWFiMGQxZDljOTg&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=9b41e312bbf5e0c5c79b4e8cac9f89f4",
+    "fetched_at": "2026-06-06 20:51:21",
+    "ja_summary": "・企業が導入したAIサービスの多くが適切な保護措置を怠っており、極めて深刻なセキュリティリスクに晒されている。\n・Intruder社の調査で100万台の公開AIサービスをスキャンした結果、管理不備によるデータ流出の危険性が浮き彫りになった。\n・AI導入を急ぐあまり安全性を後回しにしている現状に対し、早急なアクセス制限と設定の見直しが推奨される。"
+  },
+  {
     "title": "生成AIへのキャリア相談「人より相談しやすい」6割　「今後10年どう生きればいいか」悩み打ち明ける人も",
     "link": "https://www.itmedia.co.jp/business/articles/2606/05/news042.html",
     "source": "ITmedia ビジネス",
@@ -968,35 +998,5 @@
     "image": "https://japan.zdnet.com/storage/2025/04/10/5586585dd30a24a47124a0e8a53fa004/t/184/138/d/250410_paper_as_1280_112436812.jpg",
     "fetched_at": "2026-06-05 13:54:14",
     "ja_summary": "JA全農ひろしまは、現場主導で「kintone」を導入し、紙・FAX中心だった業務をデジタル化しました。\nシフト自動作成や出荷計画アプリの構築に加え、生成AIとの連携で問い合わせ業務も効率化しています。\n現場発の市民開発体制により、農業現場のDXを迅速に推進しています。"
-  },
-  {
-    "title": "日立、品質保証業務を効率化するAIエージェントを提供",
-    "link": "https://japan.zdnet.com/article/35248488/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "日立は、膨大な過去の品質関連データから最適な知見を導き出し、製造業の品質保証業務を大幅に効率化するAIエージェント「品質ナレッジシステム」をHMAX Industryのラインアップとして提供開始したことを発表した。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35248488/\"><img src=\"https://japan.zdnet.com/storage/2025/03/12/170c2c97864618f3f179d8a2c8bdb781/t/184/138/d/250312_bigdata_as_1280_1057663535.jpeg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2025/03/12/170c2c97864618f3f179d8a2c8bdb781/t/184/138/d/250312_bigdata_as_1280_1057663535.jpeg",
-    "fetched_at": "2026-06-05 13:54:14",
-    "ja_summary": "日立が製造業の品質保証を効率化するAI「品質ナレッジシステム」の提供を開始。\n過去の膨大なデータを分析し、最適な知見を導き出すことで業務を大幅に改善する。\n同社の産業用プラットフォーム「HMAX Industry」の新たなラインアップとして展開。"
-  },
-  {
-    "title": "テプコ、アクセンチュアとパートナーシップ契約を締結--AIを中心に据えた変革推進へ",
-    "link": "https://japan.zdnet.com/article/35248485/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "東京電力グループの受託業務を担うテプコ・ソリューション・アドバンス（Tepco-sa）とアクセンチュアは、Tepco-saがAIをはじめとする最新テクノロジーの活用を前提とした業務運営へと移行することを目的として、5年間の変革パートナーシップ契約を締結した。6月4日、アクセンチュアが発表した。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35248485/\"><img src=\"https://japan.zdnet.com/storage/2025/03/17/05d4257d2a795da2665b7b6e977934d2/t/184/138/d/250317_worker_as_1280_8707039.jpeg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2025/03/17/05d4257d2a795da2665b7b6e977934d2/t/184/138/d/250317_worker_as_1280_8707039.jpeg",
-    "fetched_at": "2026-06-05 13:54:14",
-    "ja_summary": "・テプコ・ソリューション・アドバンスとアクセンチュアが5年間の変革パートナーシップ契約を締結。\n・AIなどの最新技術を活用し、受託業務の効率化と運営体制の刷新を目指す。\n・デジタル技術を軸とした、グループ全体の業務プロセスの高度化を図る。"
-  },
-  {
-    "title": "トレンドマイクロ、Anthropicの「Project Glasswing」に参加",
-    "link": "https://japan.zdnet.com/article/35248494/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "トレンドマイクロは、Anthropicを中心としたソフトウェア脆弱性対策プロジェクト「Project Glasswing」に参加する。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35248494/\"><img src=\"https://japan.zdnet.com/storage/2026/06/05/c4529dfacea9a37469d7508ac0265398/t/184/138/d/pjgw_l.jpg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2026/06/05/c4529dfacea9a37469d7508ac0265398/t/184/138/d/pjgw_l.jpg",
-    "fetched_at": "2026-06-05 13:54:14",
-    "ja_summary": "・トレンドマイクロが、Anthropic主導の脆弱性対策プロジェクト「Project Glasswing」に参加。\n・AIを活用したソフトウェアの脆弱性発見および修正の効率化を目指す。"
   }
 ]
