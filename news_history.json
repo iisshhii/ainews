@@ -1,5 +1,35 @@
 [
   {
+    "title": "GPT-5・Claudeに迫る超巨大ローカルLLMまとめ",
+    "link": "https://note.com/npaka/n/ndb5d275de74e",
+    "source": "note (npaka)",
+    "published": "Thu, 04 Jun 2026 23:48:34 +0900",
+    "summary": "<p id=\"8eb063f6-7220-4ab8-9456-852f83c70889\" name=\"8eb063f6-7220-4ab8-9456-852f83c70889\">200B以上のGPT-5・Claudeに迫る超巨大ローカルLLMについてまとめました。</p><br /><br /><a href=\"https://note.com/npaka/n/ndb5d275de74e\">続きをみる</a>",
+    "image": "https://assets.st-note.com/production/uploads/images/282524306/rectangle_large_type_2_a38b5a1c80b8791c5da2cb241524af34.jpeg?width=800",
+    "fetched_at": "2026-06-07 21:59:20",
+    "ja_summary": "・GPT-5やClaudeに匹敵する性能を持つ、200Bパラメーター超の超巨大ローカルLLMを紹介。\n・外部サーバー不要で運用可能な、高性能オープンモデルの最新動向を網羅。\n・ビジネスで活用可能な次世代ローカルAIの選択肢を把握できる。"
+  },
+  {
+    "title": "ultracode でアイデア出しを安く回す — Claude Code の workflow コストを実測で約7割削る手法",
+    "link": "https://zenn.dev/marvelousu/articles/claude-dynamic-workflows-cost",
+    "source": "Zenn Trends",
+    "published": "Sat, 06 Jun 2026 09:47:41 GMT",
+    "summary": "Claude Code の dynamic workflows、いわゆる ultracode は、通常のセッションよりずっと多くのトークンを消費します。この記事は、架空のお題で 5 段のパイプラインを何度も回し、トークン・コスト・実時間・品質を実測して、どこを変えるとどれだけ安くなるかを 1 つずつ切り分けた記録です。最終的に勧める構成と、効くと思って外した施策まで書きます。\n\n\n TL;DR\n\n効く順に 3 つのレバーがあります。単価を下げる (工程ごとにモデルの価格帯を変える)、数を減らす (採点を 1 体にまとめる)、キャッシュを温める (同じ文脈を時間的に近く反復する)。この ...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--pGD4TVlP--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:ultracode%2520%25E3%2581%25A7%25E3%2582%25A2%25E3%2582%25A4%25E3%2583%2587%25E3%2582%25A2%25E5%2587%25BA%25E3%2581%2597%25E3%2582%2592%25E5%25AE%2589%25E3%2581%258F%25E5%259B%259E%25E3%2581%2599%2520%25E2%2580%2594%2520Claude%2520Code%2520%25E3%2581%25AE%2520workflow%2520%25E3%2582%25B3%25E3%2582%25B9%25E3%2583%2588%25E3%2582%2592%25E5%25AE%259F%25E6%25B8%25AC%25E3%2581%25A7%25E7%25B4%25847...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Tom%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzZmOWVjOTE5YjEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-06-07 21:59:37",
+    "ja_summary": "・Claude Codeの「ultracode」実行において、モデルの使い分け、タスク集約、キャッシュ活用でコストを約7割削減できる。\n・工程ごとに適したモデルを選定し、採点プロセスを効率化することで、品質を維持しつつ大幅な費用対効果の向上が可能。\n・試行錯誤に基づく検証の結果、コスト削減に直結する具体的なレバーと効果の薄い施策を明確化した。"
+  },
+  {
+    "title": "ソフトウェアの開発と保守 / Software Development and Maintenance",
+    "link": "https://speakerdeck.com/ks91/software-development-and-maintenance-d09fdfaa-8c33-423a-81b6-41bcdb7016fc",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-06-07T07:39:59-04:00",
+    "summary": "早稲田大学大学院経営管理研究科「サイバーセキュリティ」2026夏のオンデマンド教材 第14回で使用したスライドです。",
+    "image": "https://files.speakerdeck.com/presentations/2689b82a5b8646f2994a38f6079ca36f/preview_slide_0.jpg?39635709",
+    "fetched_at": "2026-06-07 21:59:39",
+    "ja_summary": "早稲田大学大学院のサイバーセキュリティ講義（2026年夏）で使用された、ソフトウェアの開発・保守に関する専門スライド資料。システムライフサイクル全般におけるセキュリティ要件や運用の重要性を解説している。"
+  },
+  {
     "title": "What we learned mapping a year’s worth of AI-enabled cyber threats",
     "link": "https://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack",
     "source": "Anthropic (News)",
@@ -968,35 +998,5 @@
     "image": "https://www.watch.impress.co.jp/img/ipw/list/2114/822/00.jpg",
     "fetched_at": "2026-06-05 20:47:29",
     "ja_summary": "・LINEヤフーのAI「Agent i」に画像生成とパーソナライズ機能を追加。\n・専門特化型のAIエージェントを拡充し、計15領域に対応。\n・ユーザーに合わせた高度なAI体験を強化。"
-  },
-  {
-    "title": "ミュトスがあれば安全なのか　LayerXが語るAIサイバー防御",
-    "link": "https://www.watch.impress.co.jp/docs/news/2114908.html",
-    "source": "Impress Watch",
-    "published": "",
-    "summary": "LayerXは5日、AIによるサイバーセキュリティ環境の変化をテーマとした報道関係者向け勉強会を開催した。Anthropicのフロンティアモデル「Claude Mythos(ミュトス)」の登場に象徴されるAIモデルの進化により、サイバー攻撃に応用可能なAIの能力が高まっている現状と、防御側がとるべき対策について解説された。",
-    "image": "https://www.watch.impress.co.jp/img/ipw/list/2114/908/02.jpg",
-    "fetched_at": "2026-06-05 20:47:30",
-    "ja_summary": "・AIの進化によりサイバー攻撃の能力が高度化している。\n・高性能モデル「Claude Mythos」等の登場で脅威が増大中。\n・企業はAIを活用した次世代の防御体制構築が急務である。"
-  },
-  {
-    "title": "AIがいまだに「自動化可能な」仕事のすべてを奪っていないのはなぜか？",
-    "link": "https://www.businessinsider.jp/article/2605-why-ai-hasnt-replaced-every-automatable-job-yet/",
-    "source": "Business Insider Japan",
-    "published": "Fri, 05 Jun 2026 10:00:00 GMT",
-    "summary": "ベンジャミン・トッドはAIがまだ多くの仕事を代替するに至っていない理由として、大半の職務にAIには対応できない、煩雑で人間しかできないタスクが依然として含まれていることを挙げています。",
-    "image": "https://media.loom-app.com/loom/2026/05/27/60b27745-637a-4890-9104-12da9d7bc1aa/original.jpg?w=1200&amp;h=630",
-    "fetched_at": "2026-06-05 20:47:35",
-    "ja_summary": "・多くの職務にはAIで代替困難な煩雑なタスクが含まれている。\n・人間特有の判断や対応が必要な業務が残っているため、AIによる完全な自動化は進んでいない。"
-  },
-  {
-    "title": "OPPOのスマホ「Find X9」レビュー：カメラとバッテリーもちが光る、日常で使いやすいハイエンド機",
-    "link": "https://www.businessinsider.jp/article/2606-oppo-find-x9-review/",
-    "source": "Business Insider Japan",
-    "published": "Fri, 05 Jun 2026 09:30:00 GMT",
-    "summary": "「OPPO Find X9」をレビューしました。ハッセルブラッド共同開発のカメラやAI機能、大容量バッテリーを備え、日常使いでのバランスに優れたハイエンドスマートフォンです。",
-    "image": "https://media.loom-app.com/loom/2026/06/05/30792a04-b757-4a29-95b4-fd9aac16d839/original.jpg?w=1200&amp;h=630",
-    "fetched_at": "2026-06-05 20:47:36",
-    "ja_summary": "・ハッセルブラッド共同開発の高性能カメラとAI機能を搭載。\n・大容量バッテリーを備え、日常使いに最適なハイエンド機。\n・撮影性能とスタミナのバランスに優れた、実用的な一台。"
   }
 ]
