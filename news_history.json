@@ -1,5 +1,25 @@
 [
   {
+    "title": "Introducing the Services Track and Partner Hub of the Claude Partner Network",
+    "link": "https://www.anthropic.com/news/services-track-partner-hub",
+    "source": "Anthropic (News)",
+    "published": "Wed, 03 Jun 2026 00:00:00 +0000",
+    "summary": "Introducing the Services Track and Partner Hub of the Claude Partner Network",
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20ShapeBuild&amp;backgroundColor=fig",
+    "fetched_at": "2026-06-08 03:55:49",
+    "ja_summary": "Anthropicが「Claude Partner Network」に、技術導入支援を行う「Services Track」と、パートナー向けポータル「Partner Hub」を新設。\n企業がClaudeを活用したソリューションを構築・導入しやすくなるよう、エコシステムを強化する。\nパートナー企業は、専門知識の共有やリソースへのアクセスを通じて、顧客へのAI導入支援を加速させることが可能。"
+  },
+  {
+    "title": "GitHub Copilotの料金改定で大騒ぎになっているので、トークン削減の最新手法をまとめてみた",
+    "link": "https://qiita.com/shinkai_/items/626dfa7857f2d554784e",
+    "source": "Qiita (Popular)",
+    "published": "2026-06-07T14:32:57+09:00",
+    "summary": "2026年6月1日から GitHub Copilot の課金体系が変わりました。\n\nX（Twitter）では日本でも海外でも辛辣な意見ばかり出ています。Claude Sonnetのクレジット消費量が旧制度の9倍、Claude Opusにいたっては27倍という数字が一部ユーザーから報告されていて、Agent modeを日常的に使っていた人には事実上の大幅値上げです。\n\nこの騒ぎを受けて「そもそもトー",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYxMjAzMDIyJTJGMGIxMTAwMjI1ZTY5ZmU3YzVkZWYxYzFlNDVlNzk5M2M3MjU0MTU4MyUyRnhfbGFyZ2UucG5nJTNGMTY3MDk5NjkzMj9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9ZGZiNzlkYTk4ZTljMjBiMmQ1MzhmOTNiNDhjN2UyYWI%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Dbd0ca793ffeb8f6099b8a44174ec6110?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9R2l0SHViJTIwQ29waWxvdCVFMyU4MSVBRSVFNiU5NiU5OSVFOSU4NyU5MSVFNiU5NCVCOSVFNSVBRSU5QSVFMyU4MSVBNyVFNSVBNCVBNyVFOSVBOCU5MiVFMyU4MSU4RSVFMyU4MSVBQiVFMyU4MSVBQSVFMyU4MSVBMyVFMyU4MSVBNiVFMyU4MSU4NCVFMyU4MiU4QiVFMyU4MSVBRSVFMyU4MSVBNyVFMyU4MCU4MSVFMyU4MyU4OCVFMyU4MyVCQyVFMyU4MiVBRiVFMyU4MyVCMyVFNSU4OSU4QSVFNiVCOCU5QiVFMyU4MSVBRSVFNiU5QyU4MCVFNiU5NiVCMCVFNiU4OSU4QiVFNiVCMyU5NSVFMyU4MiU5MiVFMyU4MSVCRSVFMyU4MSVBOCVFMyU4MiU4MSVFMyU4MSVBNiVFMyU4MSVCRiVFMyU4MSU5RiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTVlNjYwMmI1MjBlMTQzNTUzZjQzNDk0MWIxYjUyZWI3&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBzaGlua2FpXyZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWYxYjY3MWE3NWQ4ZWQ1OTJjMjhkMzA4NTlmNGMxM2Jk&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=5dba5c847eb5df605720a71257170be8",
+    "fetched_at": "2026-06-08 03:56:14",
+    "ja_summary": "GitHub Copilotの料金改定で、Claudeモデルのクレジット消費量が最大27倍に激増し、実質的な大幅値上げとして不満が噴出している。\nこの状況を受け、コストを抑えるための効率的なトークン削減手法の需要が急速に高まっている。"
+  },
+  {
     "title": "ClaudeCodeとCodexにコーディングを全て任せて商用レベルのUnityゲーム開発を行う【後編】",
     "link": "https://qiita.com/archeleeds/items/6ec24ba4942973a1ce0b",
     "source": "Qiita (Popular)",
@@ -978,25 +998,5 @@
     "image": "https://images.ctfassets.net/kftzwdyauwt9/41T8ZOansyDZGCqmwOkuOY/3cdeb6ab147c08fa9b313b677fb5318e/16x9_SEO__1_.png?w=1600&amp;h=900&amp;fit=fill",
     "fetched_at": "2026-06-05 23:28:28",
     "ja_summary": "・ChatGPTがユーザーの好みや文脈を記憶する新機能を導入\n・対話のたびに情報を教え直す手間が省け、利便性が向上\n・過去の経緯を踏まえた、よりパーソナライズされた回答が可能に"
-  },
-  {
-    "title": "A blueprint for democratic governance of frontier AI",
-    "link": "https://openai.com/index/frontier-safety-blueprint",
-    "source": "OpenAI",
-    "published": "Wed, 03 Jun 2026 10:00:00 GMT",
-    "summary": "OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security.",
-    "image": "https://images.ctfassets.net/kftzwdyauwt9/12H0oNoMHSCzsQ7eaQdFnT/7351b082ab1e1639c48c992bc0453cc4/Frame-1.png?w=1600&amp;h=900&amp;fit=fill",
-    "fetched_at": "2026-06-05 23:28:29",
-    "ja_summary": "・OpenAIが米国のAI統治に向けた「フロンティアAIのガバナンス構想」を提言。\n・連邦政府による安全基準の策定と、国家安全保障を強化する枠組みを提案。\n・急速に発展するAI技術を、公共の安全と経済成長の両立を図りながら管理する方針。"
-  },
-  {
-    "title": "OpenAI public policy agenda",
-    "link": "https://openai.com/index/public-policy-agenda",
-    "source": "OpenAI",
-    "published": "Wed, 03 Jun 2026 10:00:00 GMT",
-    "summary": "OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society.",
-    "image": "https://images.ctfassets.net/kftzwdyauwt9/5biIV8BMiZ5j93ClAOEg1T/2a734d5aee55236aba471fc32a7470ba/Frame-1.png?w=1600&amp;h=900&amp;fit=fill",
-    "fetched_at": "2026-06-05 23:28:29",
-    "ja_summary": "・OpenAIがAI開発の公共政策アジェンダを発表。\n・安全性向上、若年層の保護、労働市場への適応が重点項目。\n・AIの社会的利益を最大化するための国際的な基準策定を目指す。"
   }
 ]
