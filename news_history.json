@@ -1,5 +1,55 @@
 [
   {
+    "title": "OpenAIがChatGPTを刷新へ 報道",
+    "link": "https://news.yahoo.co.jp/pickup/6583325?source=rss",
+    "source": "Yahoo!ニュース IT・科学",
+    "published": "Sun, 07 Jun 2026 09:31:14 GMT",
+    "summary": "",
+    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/6/7/dd32ef12924874493374d81beef08717766c36f355bff51d963fc52327889fd9.jpg",
+    "fetched_at": "2026-06-07 18:44:14",
+    "ja_summary": "・OpenAIが「ChatGPT」の大規模な刷新を計画中と報じられた。\n・AIがより人間らしく推論し、複雑なタスクをこなせる次世代モデルが期待される。\n・競合との競争が激化する中、対話型AIの性能を飛躍的に高める狙いがある。"
+  },
+  {
+    "title": "インターネットの技術 (TCP/IP の鉄道モデル) / Internet Technology (The TCP/IP Railway Model)",
+    "link": "https://speakerdeck.com/ks91/ip-railway-model-417a3847-d718-48de-8c00-6b81c85278dc",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-06-07T02:45:32-04:00",
+    "summary": "早稲田大学大学院経営管理研究科「サイバーセキュリティ」2026夏のオンデマンド教材 第4回で使用したスライドです。",
+    "image": "https://files.speakerdeck.com/presentations/b7f60cc4771344d68455917c01a85e21/preview_slide_0.jpg?39634973",
+    "fetched_at": "2026-06-07 18:44:34",
+    "ja_summary": "・インターネットの通信規約「TCP/IP」の仕組みを、鉄道システムに例えて解説。\n・複雑な通信プロトコルの階層構造を直感的に理解するための教育用教材。\n・早稲田大学大学院のサイバーセキュリティ講義で使用された専門的知見。"
+  },
+  {
+    "title": "Taking back control of your AI development",
+    "link": "https://speakerdeck.com/inesmontani/taking-back-control-of-your-ai-development",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-06-07T03:40:20-04:00",
+    "summary": "Short presentation from the <a href=\"https://feministai.party/\" target=\"_blank\">Feminist AI</a> unconference at PyData London, covering the current focus of my work.",
+    "image": "https://files.speakerdeck.com/presentations/b0776dc633054c27a6f3cc91813ac1ad/preview_slide_0.jpg?39635074",
+    "fetched_at": "2026-06-07 18:44:34",
+    "ja_summary": "・PyData Londonのカンファレンスにて「Feminist AI」の活動を紹介。\n・大手企業主導のAI開発から、開発の主体性を取り戻す取り組みを解説。\n・公平で多様性を重視したAI開発のあり方を提言する内容。"
+  },
+  {
+    "title": "AIエージェントのトークン代を節約するNetflixのエンジニアが作ったツール「Headroom」について調べてみた",
+    "link": "https://qiita.com/shinkai_/items/61b10d10c63db47a64e7",
+    "source": "Qiita (Popular)",
+    "published": "2026-06-07T14:33:35+09:00",
+    "summary": "Claude CodeなどのAIエージェントを日常的に使っていると、あっという間に制限に引っ掛かることがありませんか？\n\nNetflixのシニアエンジニアがオープンソースとしてリリースした「**Headroom**」というトークン削減ツールが、数日で **6k stars・400 forks** を超えて(2026/06/03現在)話題になっています。\n\nちなみに公式ベンチマークによると、**ビル",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYxMjAzMDIyJTJGMGIxMTAwMjI1ZTY5ZmU3YzVkZWYxYzFlNDVlNzk5M2M3MjU0MTU4MyUyRnhfbGFyZ2UucG5nJTNGMTY3MDk5NjkzMj9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9ZGZiNzlkYTk4ZTljMjBiMmQ1MzhmOTNiNDhjN2UyYWI%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Dbd0ca793ffeb8f6099b8a44174ec6110?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9QUklRTMlODIlQTglRTMlODMlQkMlRTMlODIlQjglRTMlODIlQTclRTMlODMlQjMlRTMlODMlODglRTMlODElQUUlRTMlODMlODglRTMlODMlQkMlRTMlODIlQUYlRTMlODMlQjMlRTQlQkIlQTMlRTMlODIlOTIlRTclQUYlODAlRTclQjQlODQlRTMlODElOTklRTMlODIlOEJOZXRmbGl4JUUzJTgxJUFFJUUzJTgyJUE4JUUzJTgzJUIzJUUzJTgyJUI4JUUzJTgzJThCJUUzJTgyJUEyJUUzJTgxJThDJUU0JUJEJTlDJUUzJTgxJUEzJUUzJTgxJTlGJUUzJTgzJTg0JUUzJTgzJUJDJUUzJTgzJUFCJUUzJTgwJThDSGVhZHJvb20lRTMlODAlOEQlRTMlODElQUIlRTMlODElQTQlRTMlODElODQlRTMlODElQTYlRTglQUElQkYlRTMlODElQjklRTIlODAlQTYmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz0wM2VjMDM5ZWVlMDMwMWE1MjI5MWEzY2Y2MjllOGMzYw&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBzaGlua2FpXyZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWYxYjY3MWE3NWQ4ZWQ1OTJjMjhkMzA4NTlmNGMxM2Jk&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=7189d00c2b3cbfaaab781087229b53a1",
+    "fetched_at": "2026-06-07 18:44:35",
+    "ja_summary": "Netflixのエンジニアが開発した「Headroom」は、AIエージェントのトークン消費量を劇的に抑えるオープンソースツール。\nAIのAPI利用料を節約しつつ、効率的なコーディングを支援することで公開直後から高い注目を集めている。\nAPI制限やコストを気にせず、AI開発をより快適に進めたいエンジニアにとって強力な選択肢となる。"
+  },
+  {
+    "title": "あれほど頼れるAIが、しょっぱいテストケースを作ってくる理由を考えた",
+    "link": "https://qiita.com/yurizono/items/43a93d8ff3f7046b31e3",
+    "source": "Qiita (Popular)",
+    "published": "2026-05-22T07:03:09+09:00",
+    "summary": "# はじめに\n\nNewsPicks で QA エンジニアをしています、西薗（[@yurizono](https://x.com/yurizono)）です。本稿では、私が取り組んでいるAI4QAの話をします。\n\n私なんかよりよっぽどしっかりしたコードを書いてくれるLLM君ですが、QAっぽいタスクになった途端、頼りなく見えます。これは私がQAエンジニアで自分の仕事に誇りを持っているからなのか、それとも",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnBicy50d2ltZy5jb20lMkZwcm9maWxlX2ltYWdlcyUyRjExNjY3OTkwMjQlMkZJbWFnZTAyNTFfYmlnZ2VyLmpwZz9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9ODExYTcwOTcwN2FhNTMxZWVkZjQ0MGE1MDUzODExZjA%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkY4MGJhZjcyOWUwYjJjMDllYWJhOTE0ZDNlZWVkYmQ1NmI5MDZlZjEyJTJGb3JpZ2luYWwuanBnJTNGMTYyMjc4NjE0Mj9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz05MTM3MGY1ZTllZjQwMjg0MjAwMWU3YTBlMTQwZDhjZg%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D99dba1a91ec987f2717261c86829c00a?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgxJTgyJUUzJTgyJThDJUUzJTgxJUJCJUUzJTgxJUE5JUU5JUEwJUJDJUUzJTgyJThDJUUzJTgyJThCQUklRTMlODElOEMlRTMlODAlODElRTMlODElOTclRTMlODIlODclRTMlODElQTMlRTMlODElQjElRTMlODElODQlRTMlODMlODYlRTMlODIlQjklRTMlODMlODglRTMlODIlQjElRTMlODMlQkMlRTMlODIlQjklRTMlODIlOTIlRTQlQkQlOUMlRTMlODElQTMlRTMlODElQTYlRTMlODElOEYlRTMlODIlOEIlRTclOTAlODYlRTclOTQlQjElRTMlODIlOTIlRTglODAlODMlRTMlODElODglRTMlODElOUYmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1hMzc4NDM5YjgzNjgyYmNlNWQ4MTIzYTU2OGRkYjM1ZQ&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDB5dXJpem9ubyZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWJkNjYwNzI4ZGRmNTQ0MThiNTJhMjBkYzg0NjE3Mzgz&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=TmV3c1BpY2tz&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=ee4b519fb35b9923dbc3a2d074744163",
+    "fetched_at": "2026-06-07 18:44:37",
+    "ja_summary": "・高いコーディング能力を持つLLMでも、テストケース作成といったQAタスクでは期待外れな結果になりやすい。\n・その原因は、LLMがQAの専門的なコンテキストや品質保証の勘所を十分に捉えられていないことにある。\n・AI4QAの最適化には、AIの能力不足をただ嘆くのではなく、QAエンジニア特有の視点をいかにAIへ組み込むかが鍵となる。"
+  },
+  {
     "title": "日立、ミュトスのアクセス権を取得　社会インフラ防御に活用",
     "link": "https://www.watch.impress.co.jp/docs/news/2114844.html",
     "source": "Impress Watch",
@@ -948,55 +998,5 @@
     "image": "https://assets.st-note.com/production/uploads/images/282524306/rectangle_large_type_2_a38b5a1c80b8791c5da2cb241524af34.jpeg?width=800",
     "fetched_at": "2026-06-05 20:47:40",
     "ja_summary": "・GPT-5やClaudeに匹敵する性能を持つ、200B（2000億）パラメータ超の巨大ローカルLLMの最新動向を網羅。\n・外部サーバーを介さず利用可能な超高性能モデルの現状を整理。\n・プライバシーやセキュリティを重視する環境での活用に向けた最新の技術選択肢を解説。"
-  },
-  {
-    "title": "What we learned mapping a year’s worth of AI-enabled cyber threats",
-    "link": "https://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack",
-    "source": "Anthropic (News)",
-    "published": "Wed, 03 Jun 2026 00:00:00 +0000",
-    "summary": "What we learned mapping a year’s worth of AI-enabled cyber threats",
-    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object-LaptopSecure&amp;backgroundColor=cactus",
-    "fetched_at": "2026-06-05 20:47:51",
-    "ja_summary": "・AI技術の悪用により、サイバー攻撃の自動化や高度化が加速している。\n・攻撃者は生成AIを活用し、フィッシングやマルウェア作成を効率化している。\n・防御側には、AIトレンドを先読みした新たなセキュリティ対策の構築が求められる。"
-  },
-  {
-    "title": "エージェントに「脆弱性を探して」はなぜ失敗するのか──Cloudflareが50+リポで示したharnessの正体",
-    "link": "https://zenn.dev/aiwatch_jp/articles/agent-vuln-hunting-harness-glasswing",
-    "source": "Zenn Trends",
-    "published": "Thu, 04 Jun 2026 13:29:28 GMT",
-    "summary": "!\n最先端AIを技術の中身まで日本語で読み解く「AIウォッチ」の深掘り記事です。題材は Cloudflare の \"Project Glasswing: what Mythos showed us\"（2026-05-18）。一次情報（Cloudflare 公式ブログ）の全文を当たって書いています。\n\n「コーディングエージェントを自社リポジトリに向けて、『脆弱性を探して』と頼む」──直感的でしょう。でもこれ、ちゃんと失敗します。Cloudflare が Anthropic のセキュリティ特化モデル Mythos Preview を使い、自社の 50 以上のリポジトリ（ランタイム、エッジのデ...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--pG6BQoys--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588%25E3%2581%25AB%25E3%2580%258C%25E8%2584%2586%25E5%25BC%25B1%25E6%2580%25A7%25E3%2582%2592%25E6%258E%25A2%25E3%2581%2597%25E3%2581%25A6%25E3%2580%258D%25E3%2581%25AF%25E3%2581%25AA%25E3%2581%259C%25E5%25A4%25B1%25E6%2595%2597%25E3%2581%2599%25E3%2582%258B%25E3%2581%25AE%25E3%2581%258B%25E2%2594%2580%25E2%2594%2580Cloudflare%25E3%2581%258C50%252B%25E3%2583%25AA%25E3%2583%259D%25E3%2581%25A7%25E7%25A4%25BA%25E3%2581%2597%25E3%2581%259Fharness%25E3%2581%25AE%25E6%25AD%25A3%25E4%25BD%2593%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:AI%25E3%2582%25A6%25E3%2582%25A9%25E3%2583%2583%25E3%2583%2581%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jS3RXRmNhLTF3ai1FSnZ5c0EtZEtlbVhlMGRZSlhLMVdMVU12XzRQLW9ORG5qMjFBPXMyNTAtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "fetched_at": "2026-06-05 20:47:53",
-    "ja_summary": "AIに「脆弱性を探せ」と指示しても失敗する理由は、AIが文脈を理解できず誤検知や無意味な指摘を繰り返すため。\nCloudflareの検証で、AIが単にツールを使うだけでなく、複雑なシステム構造を正しく把握する能力が不可欠だと判明。\n今後は「AIに丸投げ」ではなく、AIと人間が連携して特定の箇所を詳細に分析させる手法への転換が必要。"
-  },
-  {
-    "title": "Claude Managed Agentsで「まずエンジニアに聞こう」を「まずbotに聞こう」に変えた",
-    "link": "https://zenn.dev/dinii/articles/d7be3acc43d868",
-    "source": "Zenn Trends",
-    "published": "Thu, 04 Jun 2026 03:34:04 GMT",
-    "summary": "はじめに\nダイニーでは、開発チーム宛ての質問（社内では dev-help と呼んでいます）が日に8件ほど来ます。1件 10 分でも、積み上がれば月に数十時間が消えていきます。前回の記事では、過去の dev-help チケットを RAG（過去の文書を意味検索で引っ張ってくる仕組み）で引いて関連事例をスレッドに貼る bot を作り、リードタイム中央値を 10 日から 5 時間まで縮めました。\nただし、構造上どうしても拾えない層が残っていました。「いまのデータ・ログ・コードを、人が読みに行かないと答えが出ない」 タイプの問い合わせです。\n今回作った @ask-anything は、この層を...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--RxieB_66--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Managed%2520Agents%25E3%2581%25A7%25E3%2580%258C%25E3%2581%25BE%25E3%2581%259A%25E3%2582%25A8%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%258B%25E3%2582%25A2%25E3%2581%25AB%25E8%2581%259E%25E3%2581%2593%25E3%2581%2586%25E3%2580%258D%25E3%2582%2592%25E3%2580%258C%25E3%2581%25BE%25E3%2581%259Abot%25E3%2581%25AB%25E8%2581%259E%25E3%2581%2593%25E3%2581%2586%25E3%2580%258D%25E3%2581%25AB%25E5%25A4%2589%25E3%2581%2588%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E3%2581%25BE%25E3%2582%258A%25E3%2582%258B%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzZhNTVhMGJiNDIuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Dinii%2520Tech%2520Blog%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzczNzEwZWYxNWMuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "fetched_at": "2026-06-05 20:47:54",
-    "ja_summary": "開発チームへの質問対応で生じる月数十時間の工数を削減するため、過去のRAG活用に加え、最新のデータやログを自律的に参照・回答する「Claude Managed Agents」を導入。人が介在する必要があった複雑な問い合わせまで自動化し、エンジニアの負荷軽減と回答速度の向上を両立した。"
-  },
-  {
-    "title": "Claude Code (Opus 4.8) で全ツール呼び出しが壊れる — 日本語環境で踏みやすい未修正バグと回避策",
-    "link": "https://zenn.dev/edhiblemeer/articles/claude-code-opus48-tool-corruption",
-    "source": "Zenn Trends",
-    "published": "Wed, 03 Jun 2026 14:11:27 GMT",
-    "summary": "長時間・常時起動でClaude Codeを使っていると、ある時からすべてのツール呼び出しが壊れて動かなくなることがある。日本語環境で複数のセッションを何時間も回していて、実際にこれを踏んだ。原因と回避策が分かったので、特に日本語ユーザーが踏みやすい点を含めて共有する。\n\n 起きること\n\nfunction callの開始タグが count / court など意味不明なトークンに化ける\n\n引数が生テキストとして会話に漏れる（ファイル名などがそのまま出力される）\nMCP接続は正常（/mcp は Connected）＝ツール/サーバー側の問題ではない\n\n一度始まると自己修復しない。モデルが履歴...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--gxAaXu3L--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%2520%2528Opus%25204.8%2529%2520%25E3%2581%25A7%25E5%2585%25A8%25E3%2583%2584%25E3%2583%25BC%25E3%2583%25AB%25E5%2591%25BC%25E3%2581%25B3%25E5%2587%25BA%25E3%2581%2597%25E3%2581%258C%25E5%25A3%258A%25E3%2582%258C%25E3%2582%258B%2520%25E2%2580%2594%2520%25E6%2597%25A5%25E6%259C%25AC%25E8%25AA%259E%25E7%2592%25B0%25E5%25A2%2583%25E3%2581%25A7%25E8%25B8%258F%25E3%2581%25BF%25E3%2582%2584%25E3%2581%2599%25E3%2581%2584%25E6%259C%25AA%25E4%25BF%25AE%25E6%25AD%25A3%25E3%2583%2590%25E3%2582%25B0%25E3%2581%25A8%25E5%259B%259E%25E9%2581%25BF%25E7%25AD%2596%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:yoshi%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSUlNTndyWXA4SHpUR3FEX2QtOTJqdHJ2aFUtc2J3c1ViZFpnYzVpMlBJc3kwSEpUNklfdz1zOTYtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "fetched_at": "2026-06-05 20:47:55",
-    "ja_summary": "・Claude Codeを長時間起動するとツール呼び出しが壊れ、引数が会話に漏洩する不具合が発生する。\n・原因は日本語環境下でトークンが誤変換されることによるモデルの認識エラー。\n・一度発生すると自己修復しないため、不調時はセッションの再起動が必要。"
-  },
-  {
-    "title": "もりもり新機能を一挙紹介！ AgentCoreに入門して、AWS上にAIエージェントを構築しよう",
-    "link": "https://speakerdeck.com/minorun365/morimorixin-ji-neng-wo-ju-shao-jie-agentcoreniru-men-site-awsshang-niaiezientowogou-zhu-siyou",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-06-05T06:57:11-04:00",
-    "summary": "製造業でも生成AI活用したい！名古屋LLM Meetup #12\nhttps://kinto-technologies.connpass.com/event/388207/",
-    "image": "https://files.speakerdeck.com/presentations/4b32da19f03b4c849d8abd49530059f2/preview_slide_0.jpg?39622761",
-    "fetched_at": "2026-06-05 20:47:56",
-    "ja_summary": "・AWS上でAIエージェントを構築できるフレームワーク「AgentCore」の活用法を紹介。\n・製造業など現場での実用を想定した生成AIの実装ノウハウを解説。\n・名古屋LLM Meetup第12回として、AI導入を検討するビジネスパーソン向けに開催。"
   }
 ]
