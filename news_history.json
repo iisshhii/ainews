@@ -1,5 +1,55 @@
 [
   {
+    "title": "米アンソロピックが「ミュトス級」生成AIの提供停止、なぜ？",
+    "link": "https://www.itmedia.co.jp/business/articles/2606/13/news029.html",
+    "source": "ITmedia ビジネス",
+    "published": "Sat, 13 Jun 2026 19:00:00 +0900",
+    "summary": "AI開発を手がける米新興企業アンソロピックは、最先端の生成AIモデル「クロード・ミュトス5」と、同等の性能を持ち「ミュトス級」と呼ばれる「クロード・フェイブル5」の提供を停止すると発表した。",
+    "image": "https://image.itmedia.co.jp/business/articles/2606/13/cover_news029.jpg",
+    "fetched_at": "2026-06-13 20:32:30",
+    "ja_summary": "・米アンソロピック社が最新AI「クロード・ミュトス5」等の提供を停止\n・「ミュトス級」と呼ばれる高性能モデルが対象\n・具体的な停止理由は明かされていない"
+  },
+  {
+    "title": "Claude Fable 5が突然使えなくなった(輸出管理指令によるアクセス停止)",
+    "link": "https://zenn.dev/yamadatt/articles/20260613-fable5-access-suspended",
+    "source": "Zenn Trends",
+    "published": "Sat, 13 Jun 2026 02:00:00 GMT",
+    "summary": "何が起きたか\nClaude Codeで新しいSkillを作ろうとしたら、いきなりこのメッセージが出ました。\n\nThere's an issue with the selected model (claude-fable-5).\nIt may not exist or you may not have access to it.\nRun /model to pick a different model.\n「モデルが存在しないか、アクセス権がない」。\nついさっきまで普通に使えていた claude-fable-5 です。/model を開くとFable 5自体は一覧に出ていて選択もできるの...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--rCeBdMab--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Fable%25205%25E3%2581%258C%25E7%25AA%2581%25E7%2584%25B6%25E4%25BD%25BF%25E3%2581%2588%25E3%2581%25AA%25E3%2581%258F%25E3%2581%25AA%25E3%2581%25A3%25E3%2581%259F%2528%25E8%25BC%25B8%25E5%2587%25BA%25E7%25AE%25A1%25E7%2590%2586%25E6%258C%2587%25E4%25BB%25A4%25E3%2581%25AB%25E3%2582%2588%25E3%2582%258B%25E3%2582%25A2%25E3%2582%25AF%25E3%2582%25BB%25E3%2582%25B9%25E5%2581%259C%25E6%25AD%25A2%2529%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:yamadatt%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly96ZW5uLWRldi5naXRodWIuaW8vZGVmYXVsdC1hdmF0YXJzL2RhcmsveS5wbmc=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-06-13 20:33:17",
+    "ja_summary": "・Claude Codeで「claude-fable-5」が突然使用不能になり、アクセス権限エラーが発生。\n・モデル選択一覧には表示されるものの、実行しようとすると「モデルが存在しない」と警告される。\n・輸出管理指令等の影響により、一部地域やアカウントでの利用が突如制限された可能性がある。"
+  },
+  {
+    "title": "散らばるAI開発ログを一か所へ：agentsviewで検索・コスト確認・振り返り",
+    "link": "https://zenn.dev/53able/articles/6514f44e72be7f",
+    "source": "Zenn Trends",
+    "published": "Fri, 12 Jun 2026 17:36:49 GMT",
+    "summary": "AI コーディングエージェントとは、Claude Code、Codex、Cursor、Gemini CLI のように、コードの調査、修正、生成、コマンド実行を手伝ってくれる開発用 AI ツールのことです。\n使い始めは、とにかく便利です。エラーの原因を調べる。修正案を出してもらう。設計を相談する。別案を試す。ただ、しばらく使っていると別の問題が出てきます。\n「あのエラー、前にも調べたはずなのに見つからない」「どのエージェントに頼んだ作業か思い出せない」「先月の AI 利用コストがなぜ増えたのか説明しにくい」。これは AI の回答品質だけの問題ではありません。作業ログの置き場所が、ツールごと...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--wBENAkag--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E6%2595%25A3%25E3%2582%2589%25E3%2581%25B0%25E3%2582%258BAI%25E9%2596%258B%25E7%2599%25BA%25E3%2583%25AD%25E3%2582%25B0%25E3%2582%2592%25E4%25B8%2580%25E3%2581%258B%25E6%2589%2580%25E3%2581%25B8%25EF%25BC%259Aagentsview%25E3%2581%25A7%25E6%25A4%259C%25E7%25B4%25A2%25E3%2583%25BB%25E3%2582%25B3%25E3%2582%25B9%25E3%2583%2588%25E7%25A2%25BA%25E8%25AA%258D%25E3%2583%25BB%25E6%258C%25AF%25E3%2582%258A%25E8%25BF%2594%25E3%2582%258A%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:53able%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzFiZWE2OGI5M2YuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-06-13 20:33:17",
+    "ja_summary": "・開発ツールごとに散らばるAIの実行ログやコストを一元管理できる「agentsview」が登場。\n・「以前の作業の振り返り」や「AIコストの分析」が困難という現場の課題を解消する。\n・AIコーディングエージェントの利用状況を可視化し、開発効率と管理コストの最適化を支援する。"
+  },
+  {
+    "title": "高性能モデルの使いどころは『実装者』でなく『レビュアー』 — Fable 5 実機評価",
+    "link": "https://zenn.dev/znet/articles/2026-stronger-model-as-reviewer",
+    "source": "Zenn Trends",
+    "published": "Fri, 12 Jun 2026 09:56:30 GMT",
+    "summary": "最強と評された Mythos 5 のガードレール版として、Claude Fable 5 が登場しました。実務でこれまで最強格だった Opus 4.8 と比べて、どこまで優秀なのか。事前アナウンスの段階でトークン単価は Opus の約 2 倍とされ、今の使い方のままではコスト懸念が大きい。だとすれば問いは「速いか・賢いか」ではなく、どの場面・どの対応で使うべきかの見極めです。\n筆者は個人の自動売買システムの開発で、この見極めを実機評価で行いました。本稿はその設計と、決め手になった一件——実装側モデルが創作した実在しない API フィールドを、Fable 5 が公式仕様を自分で取得して潰した...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--aWc_IYDS--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E9%25AB%2598%25E6%2580%25A7%25E8%2583%25BD%25E3%2583%25A2%25E3%2583%2587%25E3%2583%25AB%25E3%2581%25AE%25E4%25BD%25BF%25E3%2581%2584%25E3%2581%25A9%25E3%2581%2593%25E3%2582%258D%25E3%2581%25AF%25E3%2580%258E%25E5%25AE%259F%25E8%25A3%2585%25E8%2580%2585%25E3%2580%258F%25E3%2581%25A7%25E3%2581%25AA%25E3%2581%258F%25E3%2580%258E%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2582%25A2%25E3%2583%25BC%25E3%2580%258F%2520%25E2%2580%2594%2520Fable%25205%2520%25E5%25AE%259F%25E6%25A9%259F%25E8%25A9%2595%25E4%25BE%25A1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Shiros%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSm8wdmhXc2hoSTVWdGQtT2tneWJqLWFBbmNkaDlhMndTUnlFR2MwYmZfMjIwZFZYdVRHdz1zMjUwLWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-06-13 20:33:18",
+    "ja_summary": "・高コストな「Claude Fable 5」は、実装担当ではなくコードの誤りを修正・検証する「レビュアー」として活用すべき。\n・実機検証では、実装モデルが捏造した架空のAPI仕様を、Fable 5が公式ドキュメントを参照して正確に修正する高い能力を確認。\n・業務でのコスト対効果を最大化するためには、安価なモデルと高性能モデルを役割分担させる戦略が不可欠である。"
+  },
+  {
+    "title": "出たてほやほやのClaude Opus 4.8を整理してみた",
+    "link": "https://qiita.com/kaichan_dot/items/a5234436a61194e24df7",
+    "source": "Qiita (Popular)",
+    "published": "2026-06-04T13:57:22+09:00",
+    "summary": "![Claude Opus 4.8（Anthropic公式発表より）](https://www-cdn.anthropic.com/images/4zrzovbb/website/0eaa0ed2dce9810169112e1c77de2585fcf1f5c2-2880x1620.jpg)\n*出典：[Anthropic公式ブログ「Introducing Claude Opus 4.8」](http",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0MTY1MTg1JTJGYzU3ZjhjYTViNzg0ODE2NTNhYmM1YjJmMzVlZDAzN2M1ZTkxNzkzNCUyRnhfbGFyZ2UucG5nJTNGMTc1NTE2MTk2MT9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9Y2NhZWFlMDJhNjY4ODg0N2I5M2Q5M2ViYWJkNzM1NGI%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYxZTIwZGI1ZTdlNDA3ZWFlN2I5NzBlYzk5OTg4MGRjOGMzY2MwZjY0JTJGb3JpZ2luYWwuanBnJTNGMTY2NzI3NDk2Mz9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz04OTI0NDcwMDk1MDMyZjUxYmZlNzE3ZjVkOGUzYmE3ZA%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D149273cab78fdac85810e86478f8ac5b?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUU1JTg3JUJBJUUzJTgxJTlGJUUzJTgxJUE2JUUzJTgxJUJCJUUzJTgyJTg0JUUzJTgxJUJCJUUzJTgyJTg0JUUzJTgxJUFFQ2xhdWRlJTIwT3B1cyUyMDQuOCVFMyU4MiU5MiVFNiU5NSVCNCVFNyU5MCU4NiVFMyU4MSU5NyVFMyU4MSVBNiVFMyU4MSVCRiVFMyU4MSU5RiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTA1YzdiNjJiMmFjYmM5M2FmMGQyOWIwZGM2ODVlY2Q2&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBrYWljaGFuX2RvdCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWZlODY5MjFmY2JkN2UyZTQyYzVhZjU5MTdkZWY4YTg5&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=S0RESeOCouOCuOODo-OCpOODq-mWi-eZuuOCu-ODs-OCv-ODvOagquW8j-S8muekvg&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=83e08d2c34ea36cd8a484a5bb741f797",
+    "fetched_at": "2026-06-13 20:33:22",
+    "ja_summary": "・Anthropicが最新モデル「Claude Opus 4.8」を発表。\n・前モデルから推論能力や精度が大幅に向上。\n・開発者やビジネス現場での複雑なタスク処理能力が強化された。"
+  },
+  {
     "title": "トヨタ超えのキオクシア、半値になったフジクラ　同じAI銘柄なのに明暗が分かれた理由",
     "link": "https://www.itmedia.co.jp/business/articles/2606/11/news037.html",
     "source": "ITmedia ビジネス",
@@ -948,55 +998,5 @@
     "image": "https://www.watch.impress.co.jp/img/ipw/list/2116/745/01.jpg",
     "fetched_at": "2026-06-12 18:01:57",
     "ja_summary": "・NECと米Anthropicが金融機関7社と連携し、AIの活用・実装に向けた共創を開始。\n・高い安全性と正確性が求められる金融業界で、信頼性の高いAIの導入を推進。\n・AIによる金融分野の新たな価値創出と実用化を目指す。"
-  },
-  {
-    "title": "DiffusionGemma の概要",
-    "link": "https://note.com/npaka/n/n0c5a1dd4a0e8",
-    "source": "note (npaka)",
-    "published": "Thu, 11 Jun 2026 13:29:36 +0900",
-    "summary": "<p id=\"2653c680-9c4d-4e53-a0b4-712a268cd4c0\" name=\"2653c680-9c4d-4e53-a0b4-712a268cd4c0\">以下の記事が面白かったので、簡単にまとめました。</p><figure id=\"cd54ff51-e87d-493b-a717-7fcb057148ba\" name=\"cd54ff51-e87d-493b-a717-7fcb057148ba\"><blockquote><p id=\"cc8d31b7-47ea-4b29-a6d4-c8bddea24d68\" name=\"cc8d31b7-47ea-4b29-a6d4-c8bddea24d68\"><strong>・</strong><a href=\"https://blog.google/innovation-and-ai/technology/developers-tools/diffusion-gemma-faster-text-generation/\" rel=\"nofollow noopener\" target=\"_blank\"><strong>DiffusionGemma: 4x faster text generation</strong></a></p></blockquote>\n<figcaption></figcaption></figure><br /><a href=\"https://note.com/npaka/n/n0c5a1dd4a0e8\">続きをみる</a>",
-    "image": "https://assets.st-note.com/production/uploads/images/284426917/rectangle_large_type_2_dea365f4344f4931c1f8fff1f95164a7.png?width=800",
-    "fetched_at": "2026-06-12 18:02:06",
-    "ja_summary": "・Googleが、テキスト生成の推論速度を最大4倍に高速化する新手法「DiffusionGemma」を公開。\n・拡散モデルの仕組みをテキスト生成に応用することで、計算効率を大幅に向上。\n・従来のモデルと比較し、高品質を維持したまま生成の待ち時間を劇的に短縮可能。"
-  },
-  {
-    "title": "「行政の進化と革新のための生成AIの調達・利活用に係るガイドライン」の改定案に対する意見募集の結果が公表されました",
-    "link": "https://www.digital.go.jp/news/418ff7e5-6ca8-49d2-a2d2-42e972b07ff7",
-    "source": "デジタル庁",
-    "published": "Fri, 12 Jun 2026 15:00:00 +0900",
-    "summary": "",
-    "image": "https://www.digital.go.jp/themes/custom/gov_theme_da_2023/assets/images/ogp.png",
-    "fetched_at": "2026-06-12 18:02:13",
-    "ja_summary": "・政府が生成AIの行政利用に向けたガイドライン改定案への意見募集結果を公表。\n・寄せられた意見を踏まえ、実務現場での安全かつ効率的な活用ルールを整備。\n・今後はAI導入を通じた行政サービスの高度化と業務効率化が加速する見込み。"
-  },
-  {
-    "title": "（受付終了）「行政の進化と革新のための生成AIの調達・利活用に係るガイドライン」の改定案に関する意見募集を行います",
-    "link": "https://www.digital.go.jp/news/dc6a64ec-e7c1-4f9f-83a2-18578b1f59ff",
-    "source": "デジタル庁",
-    "published": "Fri, 12 Jun 2026 15:00:00 +0900",
-    "summary": "",
-    "image": "https://www.digital.go.jp/themes/custom/gov_theme_da_2023/assets/images/ogp.png",
-    "fetched_at": "2026-06-12 18:02:13",
-    "ja_summary": "・政府の生成AI活用ガイドライン改定に向けた意見募集（パブリックコメント）が開始された。\n・行政におけるAI調達や利活用をより進化させるための改定案が対象。\n・現在は募集受付が終了している。"
-  },
-  {
-    "title": "How Preply combines AI and human tutors to personalize learning",
-    "link": "https://openai.com/index/preply",
-    "source": "OpenAI",
-    "published": "Fri, 12 Jun 2026 00:00:00 GMT",
-    "summary": "Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises.",
-    "image": "https://images.ctfassets.net/kftzwdyauwt9/4TlUSJyvzcUk3f3wPzVmtY/e69435b271f2e2c44c1fe621dae9d24f/oai_Preply_SEO.png?w=1600&amp;h=900&amp;fit=fill",
-    "fetched_at": "2026-06-12 18:02:15",
-    "ja_summary": "・語学学習プラットフォーム「Preply」がOpenAIの技術を導入。\n・AIによるレッスン要約、個別フィードバック、専用練習問題を生成。\n・AIと人間講師の強みを組み合わせ、学習のパーソナライズ化を強化。"
-  },
-  {
-    "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
-    "link": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
-    "source": "OpenAI",
-    "published": "Thu, 11 Jun 2026 00:00:00 GMT",
-    "summary": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
-    "image": "https://images.ctfassets.net/kftzwdyauwt9/2nHP3xnASZcBNZlIiE1QsM/c7de0b335c1c6a7c5c6bad6813fcf355/Frame.png?w=1600&amp;h=900&amp;fit=fill",
-    "fetched_at": "2026-06-12 18:02:15",
-    "ja_summary": "・OpenAIがEUのAIコンテンツ透明性ガイドラインを支持\n・AI生成物の出所を明示する技術標準の導入を推進\n・信頼できるAIエコシステムの構築に向け欧州と連携"
   }
 ]
