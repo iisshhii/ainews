@@ -1,5 +1,35 @@
 [
   {
+    "title": "BeRealはNG、なのにAI議事録はスルー……　日本企業が目を背ける情報漏えい対策の限界",
+    "link": "https://www.itmedia.co.jp/business/articles/2606/12/news015.html",
+    "source": "ITmedia ビジネス",
+    "published": "Fri, 12 Jun 2026 08:00:00 +0900",
+    "summary": "BeRealなどのSNSにおける情報漏えいが相次いでいる。AIの活用が急速に進み、さまざまなものを記録することが当たり前になりつつある今、企業はどうあるべきなのか？",
+    "image": "https://image.itmedia.co.jp/business/articles/2606/12/cover_news015.jpg",
+    "fetched_at": "2026-06-15 04:55:49",
+    "ja_summary": "・SNSでの情報漏えいが多発する一方、AI議事録ツール等の企業利用は野放しになっている。\n・記録が容易な現代において、従来の制限や禁止策だけでは情報漏えい対策に限界がある。\n・企業は禁止ではなく、新たな技術やツールを前提とした根本的なセキュリティ体制の構築が急務。"
+  },
+  {
+    "title": "「ググる」が死語になる日　Google検索が“入口”ではなくなった背景",
+    "link": "https://www.itmedia.co.jp/business/articles/2606/12/news012.html",
+    "source": "ITmedia ビジネス",
+    "published": "Fri, 12 Jun 2026 08:00:00 +0900",
+    "summary": "Google検索よりもSNSやAIを使う傾向が、若い世代で強くなっている。Google検索においても、検索結果のAI要約機能により、個別のWebサイトへの誘導効果が低下。ビジネスでは検索順位よりも、AIやSNSを通じて商品などを発見されることが重要になりつつある。",
+    "image": "https://image.itmedia.co.jp/business/articles/2606/12/cover_news012.jpg",
+    "fetched_at": "2026-06-15 04:55:49",
+    "ja_summary": "・若年層を中心に検索行動がGoogleからSNSやAIへ移行。\n・AIによる検索結果要約で、従来型のWebサイト誘導効果が低下。\n・今後は検索順位よりも、AIやSNSを通じた発見の重要性が増している。"
+  },
+  {
+    "title": "アンソロピック、Fable 5などミュトス級AIモデルを公開停止　米国政府が指令",
+    "link": "https://www.watch.impress.co.jp/docs/news/2116932.html",
+    "source": "Impress Watch",
+    "published": "",
+    "summary": "米国政府は12日(米国時間)、国家安全保障上の権限を理由に、Anthropic(アンソロピック)に対し、外国籍者による「Claude Fable 5」と「Claude Mythos 5」へのアクセスを停止するよう求める輸出管理指令を発出した。この指令は米国内外を問わず、Anthropicの従業員も含まれる。",
+    "image": "https://www.watch.impress.co.jp/img/ipw/list/2116/932/ant1.jpg",
+    "fetched_at": "2026-06-15 04:56:02",
+    "ja_summary": "・米国政府がアンソロピックに対し、AIモデル「Claude Fable 5」「Mythos 5」の外国籍者による利用停止を指令。\n・国家安全保障上の理由による輸出管理措置で、米国内外の全従業員も対象。\n・AI技術の流出を懸念した、政府による厳格な利用制限。"
+  },
+  {
     "title": "Google「NotebookLM」のソースに教科書を指定可能に？ 実現ならすべての学生に朗報か",
     "link": "https://japan.cnet.com/article/35248838/",
     "source": "CNET Japan",
@@ -968,35 +998,5 @@
     "image": "https://res.cloudinary.com/zenn/image/upload/s--jBeI4MIr--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2581%2584%25E3%2581%258B%25E3%2581%25AB%25E3%2581%2597%25E3%2581%25A6%25E6%2597%25A2%25E5%25AD%2598%25E3%2581%25AE%25E8%2587%25AA%25E5%25BE%258BLLM%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588%25E3%2582%2592%25E8%25B6%2585%25E3%2581%2588%25E3%2582%258B%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588%25E3%2582%2592%25E3%2581%25A4%25E3%2581%258F%25E3%2582%258B%25E3%2581%258B%2520-%2520%25E8%25A9%25A6%25E8%25A1%258C%25E9%258C%25AF%25E8%25AA%25A4%25E3%2581%25AE%25E7%2597%2595%25E8%25B7%25A1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:minamorl%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzI4OWE1NDUxMDYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
     "fetched_at": "2026-06-13 15:41:37",
     "ja_summary": "・既存のコーディングエージェントの限界を突破し、より高性能な自律型エージェントを構築するための実践的知見を共有。\n・Chat Completion以前の技術変遷を振り返り、現在のエージェントの動作メカニズムを再定義。\n・RAG（検索拡張生成）の枠組みを超えた、自律的なコーディングシステム実現のノウハウを解説。"
-  },
-  {
-    "title": "Claude Code × Trivy MCPで依存ライブラリの脆弱性を検出→修正→再スキャンする",
-    "link": "https://zenn.dev/virtualcraft/articles/claude-code-trivy-mcp-security-check",
-    "source": "Zenn Trends",
-    "published": "Fri, 12 Jun 2026 04:31:13 GMT",
-    "summary": "はじめに\nAIがコードを書く時代になって、困りごとが1つ増えました。書くスピードが上がったぶん、「いま書いたコード、本当に安全か」を確かめる手間が追いつきません。依存ライブラリに既知の脆弱性が混ざっていても、生成された瞬間は気づけないことが多いものです。\nだったら、確かめる作業も同じAIに任せてしまえばいい。コードを書いたAIに、その場でスキャナを呼ばせて、脆弱性を見つけさせて、直すところまで一往復でやってもらう。これがこの記事のテーマです。\nただし「AIに全部おまかせ」にはしません。ここで役割をはっきり分けておきます。\n\nスキャナ（Trivy）は事実を出す。決定論的で、何度やっても...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--zzdXXfK7--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%2520%25C3%2597%2520Trivy%2520MCP%25E3%2581%25A7%25E4%25BE%259D%25E5%25AD%2598%25E3%2583%25A9%25E3%2582%25A4%25E3%2583%2596%25E3%2583%25A9%25E3%2583%25AA%25E3%2581%25AE%25E8%2584%2586%25E5%25BC%25B1%25E6%2580%25A7%25E3%2582%2592%25E6%25A4%259C%25E5%2587%25BA%25E2%2586%2592%25E4%25BF%25AE%25E6%25AD%25A3%25E2%2586%2592%25E5%2586%258D%25E3%2582%25B9%25E3%2582%25AD%25E3%2583%25A3%25E3%2583%25B3%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:jmurayama%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2U4YjM4NTE1NTMuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Virtual%2520Craft%2520Tech%2520Blog%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly96ZW5uLWRldi5naXRodWIuaW8vZGVmYXVsdC1hdmF0YXJzL2Rhcmsvai5wbmc=%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "fetched_at": "2026-06-13 15:41:37",
-    "ja_summary": "AIによるコーディングで生じがちな依存ライブラリの脆弱性を、AI自身に検出・修正・再スキャンさせる自動化手法を解説。\nTrivy（スキャナ）で事実を特定し、Claude Code（AI）で修正を行う役割分担により、安全なコード生成を効率化する。\nAIに確認作業まで任せることで、コーディングの高速化とセキュリティ維持を両立させる仕組み。"
-  },
-  {
-    "title": "AWSシリコン最前線 〜AI時代のチップ選択を読み解く〜",
-    "link": "https://speakerdeck.com/htokoyo/20260613-jaws-tohoku-aws-silicon",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-06-13T02:15:55-04:00",
-    "summary": "2026年6月13日に開催された JAWS-UG東北 にて登壇の機会をいただきました。\nhttps://jaws-tohoku.connpass.com/event/392064/",
-    "image": "https://files.speakerdeck.com/presentations/32c58bc2720f4717a38ecf0122fbd48c/preview_slide_0.jpg?39699482",
-    "fetched_at": "2026-06-13 15:41:39",
-    "ja_summary": "2026年6月13日開催のJAWS-UG東北にて、AI時代におけるAWSシリコン活用の最適解を解説する登壇を実施。\nAIの進化に伴うチップ選択の重要性と、ビジネスでの活用戦略を深掘りする内容。\nイベント詳細はconnpassの告知ページで確認可能。"
-  },
-  {
-    "title": "2026.06.13_AI時代に事業会社が「SIer出身エンジニア」を求める理由 / Why Businesses Seek Engineers with a System Integrator Background in the AI ​​Era",
-    "link": "https://speakerdeck.com/jumtech/why-businesses-seek-engineers-with-a-system-integrator-background-in-the-ai-era",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-06-12T22:41:03-04:00",
-    "summary": "https://findy.connpass.com/event/392608/",
-    "image": "https://files.speakerdeck.com/presentations/54d98f5431c8412b94f3b9082e1edaac/preview_slide_0.jpg?39698557",
-    "fetched_at": "2026-06-13 15:41:39",
-    "ja_summary": "・AI活用が進む中、システム全体を俯瞰し実装までやり遂げるSIer出身エンジニアの需要が急増。\n・要件定義から運用までの一貫した経験が、事業会社でのAIプロダクト開発の現場で高く評価されている。\n・技術的な実装力とプロジェクト推進力を併せ持つ人材の重要性を解説するイベント。"
   }
 ]
