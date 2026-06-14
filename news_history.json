@@ -1,5 +1,35 @@
 [
   {
+    "title": "NVIDIAとインテル、エージェント型AIでは「CPU重要」　CEO競演",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03633/060200002/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "アジア最大級のIT（情報技術）見本市「COMPUTEX TAIPEI 2026」（2026年6月2～5日、台北市）ではエージェント型AI（人工知能）、すなわち自律動作するAIが話題の中心だった。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03633/060200002/chu.jpg?20220512",
+    "fetched_at": "2026-06-15 01:52:58",
+    "ja_summary": "・台湾のIT見本市で、自律動作する「エージェント型AI」が焦点に。\n・NVIDIAとインテルの両CEOが、AIの実行にはCPUの重要性が高まると強調。\n・AI進化に伴い、GPUだけでなくCPUの役割が改めて注目されている。"
+  },
+  {
+    "title": "Anthropic ミュトス級AI提供停止",
+    "link": "https://news.yahoo.co.jp/pickup/6584060?source=rss",
+    "source": "Yahoo!ニュース IT・科学",
+    "published": "Sat, 13 Jun 2026 02:07:22 GMT",
+    "summary": "",
+    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/6/13/91bb73483e760fda142ac19daa15ba7bdcdca1c0a478ec85219cb92aa8b6eef6.jpg",
+    "fetched_at": "2026-06-15 01:53:14",
+    "ja_summary": "・Anthropic社が「Claude 3 Opus」などの高性能モデル提供を一部制限・停止。\n・システム負荷の増大やリソース最適化が主な要因と見られる。\n・利用者は代替モデルへの切り替えや、制限解除まで待機が必要。"
+  },
+  {
+    "title": "AIに代替されるフリーランス、AIを操りチームを導くリーダー。運命を分ける『AI-DLC』とインテントマネジメント/Intent is All We Need",
+    "link": "https://speakerdeck.com/yoshidashingo/intent-is-all-we-need",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-06-12T22:13:35-04:00",
+    "summary": "2026.6.13 ProTechOne @ Cluster (VR)",
+    "image": "https://files.speakerdeck.com/presentations/337f763facfb4484b39c144a276c5ddd/preview_slide_0.jpg?39698501",
+    "fetched_at": "2026-06-15 01:53:34",
+    "ja_summary": "・AIに代替される層と、AIを使いこなしチームを統率するリーダー層で格差が拡大。\n・成功の鍵は、AIの出力を制御する「AI-DLC」という手法と、目的を明確化する「インテントマネジメント」にある。\n・2026年6月13日、VR空間（Cluster）にて、これからのフリーランスの生存戦略を解説するイベントが開催。"
+  },
+  {
     "title": "「AIを使うほど人はバカになる」は本当か？　研究が示す思考力低下のリスクと3つの対策",
     "link": "https://www.itmedia.co.jp/business/articles/2606/13/news006.html",
     "source": "ITmedia ビジネス",
@@ -968,35 +998,5 @@
     "image": "https://www.watch.impress.co.jp/img/ipw/list/2116/932/ant1.jpg",
     "fetched_at": "2026-06-13 11:37:22",
     "ja_summary": "・米政府が国家安全保障を理由に、Anthropicの高性能AIモデルへの外国籍者のアクセス禁止を指令\n・対象は「Claude Fable 5」および「Claude Mythos 5」で、米内外の全従業員にも適用\n・先端AI技術の流出を防ぐための強力な輸出管理措置として実施される"
-  },
-  {
-    "title": "Google「NotebookLM」のソースに教科書を指定可能に？ 実現ならすべての学生に朗報か",
-    "link": "https://japan.cnet.com/article/35248838/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "米Googleの「NotebookLM」に、新たなソースとして「教科書」が追加される可能性が浮上した。実現すれば、学習用AIツールとしての存在感はさらに増しそうだ。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35248838/\"><img src=\"https://japan.cnet.com/storage/2026/06/12/d0c90f3416a5c631d8ac9b9651a76a96/t/184/138/d/notebooklm-3.jpeg\" /></a>",
-    "image": "https://japan.cnet.com/storage/2026/06/12/d0c90f3416a5c631d8ac9b9651a76a96/t/184/138/d/notebooklm-3.jpeg",
-    "fetched_at": "2026-06-13 11:37:26",
-    "ja_summary": "GoogleのAIツール「NotebookLM」に、ソースとして教科書を追加できる機能が検討されています。実現すれば学習の効率化が飛躍的に進み、教育ツールとしての利便性が大幅に向上する見込みです。"
-  },
-  {
-    "title": "マスク氏のSpaceX「AI衛星100万基」構想　宇宙がゴミだらけになる懸念　専門家の見方は",
-    "link": "https://japan.cnet.com/article/35248835/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "米SpaceXが掲げる「宇宙にデータセンター100万基」構想が、SFの域を越えて現実に近づきつつある。一方で、宇宙ゴミへの懸念が強まっている。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35248835/\"><img src=\"https://japan.cnet.com/storage/2026/06/12/0eee708cdb87c4d5127eaa312e16f1f4/t/184/138/d/space-junk__1_.jpeg\" /></a>",
-    "image": "https://japan.cnet.com/storage/2026/06/12/0eee708cdb87c4d5127eaa312e16f1f4/t/184/138/d/space-junk__1_.jpeg",
-    "fetched_at": "2026-06-13 11:37:26",
-    "ja_summary": "・SpaceXが宇宙空間にAIデータセンターを100万基配備する構想を推進中。\n・実現すれば飛躍的な技術進歩となる一方、宇宙ゴミの急増が懸念されている。\n・利便性の向上と宇宙環境の持続可能性の両立が、専門家からも注目されている。"
-  },
-  {
-    "title": "SpaceXが史上最大級のIPOへ、調達額は約12兆円",
-    "link": "https://japan.cnet.com/article/35248834/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "イーロン・マスク氏の事業のうち、テスラ以外の奇妙な寄せ集めともいえる企業が、世界最大級の上場企業になろうとしている。SpaceXという社名からはロケット事業が思い浮かぶが、その中にはインターネットプロバイダー、ソーシャルメディア、そしてAI開発企業も含まれる。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35248834/\"><img src=\"https://japan.cnet.com/storage/2026/06/12/20411a5876df6eca3e49db5884657a08/t/184/138/d/gettyimages-2278970792_1280x960.jpg\" /></a>",
-    "image": "https://japan.cnet.com/storage/2026/06/12/20411a5876df6eca3e49db5884657a08/t/184/138/d/gettyimages-2278970792_1280x960.jpg",
-    "fetched_at": "2026-06-13 11:37:26",
-    "ja_summary": "SpaceXが史上最大規模となる約12兆円のIPO（新規株式公開）を計画している。\n同社はロケット事業のみならず、通信、SNS、AIなど多角的な事業を展開している。\nテスラに次ぐ巨大企業として、世界市場で存在感を大きく高めようとしている。"
   }
 ]
