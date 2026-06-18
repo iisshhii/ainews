@@ -1,5 +1,85 @@
 [
   {
+    "title": "Anthropicが米政権と会談へ 報道",
+    "link": "https://news.yahoo.co.jp/pickup/6584328?source=rss",
+    "source": "Yahoo!ニュース IT・科学",
+    "published": "Mon, 15 Jun 2026 06:14:42 GMT",
+    "summary": "",
+    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/6/15/f83bd348721743751040d70bdb631938038b168650e6fae9d8b88f3608cee302.jpg",
+    "fetched_at": "2026-06-18 21:35:46",
+    "ja_summary": "・AI開発企業Anthropicの幹部が、米政府当局者と会談する見通し。\n・安全性の確保やAI規制に向けた政府との協力関係を強化する狙い。\n・生成AIの急速な発展に伴い、米政権による対話と監視の動きが加速している。"
+  },
+  {
+    "title": "DXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on",
+    "link": "https://www.anthropic.com/news/dxc-anthropic-alliance",
+    "source": "Anthropic (News)",
+    "published": "Thu, 11 Jun 2026 00:00:00 +0000",
+    "summary": "DXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on",
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Megaphone&amp;backgroundColor=coral",
+    "fetched_at": "2026-06-18 21:36:05",
+    "ja_summary": "・DXCテクノロジーが、銀行や航空会社など規制の厳しい業界向けシステムにAI「Claude」を統合。\n・高度なセキュリティとコンプライアンスが求められる基幹システムへのAI導入を推進。\n・エンタープライズ領域での生成AI活用を加速させ、業務効率化とデジタル変革を支援する。"
+  },
+  {
+    "title": "マークダウンやHTMLをSlackで共有するのが辛すぎて社内ツールを作った話",
+    "link": "https://zenn.dev/tokium_dev/articles/tokium-share-pages",
+    "source": "Zenn Trends",
+    "published": "Thu, 18 Jun 2026 01:43:55 GMT",
+    "summary": "最近、めっきりNotionを書かなくなりました。代わりに増えたのが、Claude Code で作ったHTMLのダッシュボードやMarkdownのレポートを、そのままSlackに貼って共有するスタイルです。\nただ、これがそのままだと地味に辛いんですよね。Slackに貼ってもプレビューが効かないので、受け取った相手は毎回ダウンロードして、ブラウザやエディタで開き直すことになる。出先でスマホからパッと確認することもできなくて、読み手のことを考えてスクショを別途添えたりしていて、これはどうにかならんものかとげんなりすることが多かったです。\nなので、マークダウン/HTML をドラッグ&amp;ドロ...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--EVGnUqAW--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%259E%25E3%2583%25BC%25E3%2582%25AF%25E3%2583%2580%25E3%2582%25A6%25E3%2583%25B3%25E3%2582%2584HTML%25E3%2582%2592Slack%25E3%2581%25A7%25E5%2585%25B1%25E6%259C%2589%25E3%2581%2599%25E3%2582%258B%25E3%2581%25AE%25E3%2581%258C%25E8%25BE%259B%25E3%2581%2599%25E3%2581%258E%25E3%2581%25A6%25E7%25A4%25BE%25E5%2586%2585%25E3%2583%2584%25E3%2583%25BC%25E3%2583%25AB%25E3%2582%2592%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%259F%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E3%2583%25A8%25E3%2582%25A6%25E3%2583%2598%25E3%2582%25A4%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzViNTEwYjI5ZjEuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:TOKIUM%25E3%2583%2597%25E3%2583%25AD%25E3%2583%2580%25E3%2582%25AF%25E3%2583%2588%25E3%2583%2581%25E3%2583%25BC%25E3%2583%25A0%2520%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2ZhODgxODE3N2EuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-06-18 21:36:09",
+    "ja_summary": "SlackでHTMLやMarkdownを共有する際、プレビュー不可で閲覧に手間がかかる課題を解決。\nファイルをドラッグ＆ドロップするだけでWeb閲覧可能な形式に変換する社内ツールを開発。\n共有の利便性を高め、受け手の閲覧負担を大幅に軽減することに成功した。"
+  },
+  {
+    "title": "自己改善エージェントはなぜ前提を覆せないのか ― 局所最適とハーネスでの脱出",
+    "link": "https://zenn.dev/layerx/articles/b36ceffe6b5e20",
+    "source": "Zenn Trends",
+    "published": "Wed, 17 Jun 2026 02:00:06 GMT",
+    "summary": "Ai Workforce事業部FDE部エンジニアの堤(@ozro_223)です。\n本記事では、AgentにAI Workflowを自己改善させるときに起きる「最初の前提を覆せない」問題について考えます。\n入力データと正解データを用意し、Agentに実行結果を改善させていくと、途中までは順調に精度が伸びます。一方で、改善の中身を見ると、プロンプトの加筆やコードでの出力正規化（単なる文字列置換や正規表現）の追加に留まり、処理の順序や設計そのものを変える提案はあまり出てきません。\nこの記事では、この現象を整理したうえで、既存の研究でどのような解決策が取られているのかを紹介し、どのように実務に応...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--85tthWqm--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E8%2587%25AA%25E5%25B7%25B1%25E6%2594%25B9%25E5%2596%2584%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588%25E3%2581%25AF%25E3%2581%25AA%25E3%2581%259C%25E5%2589%258D%25E6%258F%2590%25E3%2582%2592%25E8%25A6%2586%25E3%2581%259B%25E3%2581%25AA%25E3%2581%2584%25E3%2581%25AE%25E3%2581%258B%2520%25E2%2580%2595%2520%25E5%25B1%2580%25E6%2589%2580%25E6%259C%2580%25E9%2581%25A9%25E3%2581%25A8%25E3%2583%258F%25E3%2583%25BC%25E3%2583%258D%25E3%2582%25B9%25E3%2581%25A7%25E3%2581%25AE%25E8%2584%25B1%25E5%2587%25BA%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:223%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2E2OTFlNjE4YzcuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:LayerX%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzAwNjA5YTdlZmMuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-06-18 21:36:10",
+    "ja_summary": "AIエージェントに業務改善を指示しても、表面的な修正に留まり根本的な設計変更ができない問題が発生する。\nこの「前提を覆せない」現象の原因を局所最適の観点から整理し、AIによる抜本的な改善を促すための解決策を解説する。"
+  },
+  {
+    "title": "小さく始める AI 活用推進 ― 日経電子版 Web チームの事例/nikkei-tech-talk47",
+    "link": "https://speakerdeck.com/nikkei_engineer_recruiting/nikkei-tech-talk47",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-06-18T08:00:53-04:00",
+    "summary": "2026/06/18開催、NIKKEI Tech Talkで日本経済新聞社 デジタル編成ユニット Webチームの東條 晃博さんが発表しました。発表スライドです\nhttps://nikkei.connpass.com/event/394429/",
+    "image": "https://files.speakerdeck.com/presentations/8bf99682be1d4106819ca3c47f69e3d1/preview_slide_0.jpg?39746363",
+    "fetched_at": "2026-06-18 21:36:11",
+    "ja_summary": "・日経電子版Webチームが、AI活用を大規模導入ではなく「小さく始める」手法で推進。\n・現場レベルで着実な成果を出しながら、組織にAIを定着させる実践知を共有。\n・NIKKEI Tech Talkにて、具体的な導入事例と運用のポイントを解説。"
+  },
+  {
+    "title": "AI駆動開発を通して感じた、 AI時代のデザイナーの役割変化",
+    "link": "https://speakerdeck.com/whisaiyo/whidevelopers-linklight20260618",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-06-18T07:15:17-04:00",
+    "summary": "AI駆動開発のワークショップを体験して感じた、AIによる影響、\nデザイナーの役割変化について共有いたします。",
+    "image": "https://files.speakerdeck.com/presentations/1058da3b94b74318a21d0c34b7aa892e/preview_slide_0.jpg?39746072",
+    "fetched_at": "2026-06-18 21:36:11",
+    "ja_summary": "・AI駆動開発の普及により、デザイナーの業務プロセスや役割が変化している。\n・ワークショップを通じて、AIを実務に組み込むための実践的な知見が得られる。\n・AI時代におけるデザイナーの新たな価値創造のあり方を考察する。"
+  },
+  {
+    "title": "白金鉱業Meetup_Vol.24_「AIエージェントは分けるほど良い」は本当か？ / Is it true that “the more you divide AI agents, the better”?",
+    "link": "https://speakerdeck.com/brainpadpr/is-it-true-that-the-more-you-divide-ai-agents-the-better",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-06-18T06:13:24-04:00",
+    "summary": "2026年6月18日に実施した、白金鉱業 Meetup Vol.24@六本木（若手データサイエンティスト交流編）\nでの株式会社 ブレインパッド中西の登壇スライドです。\n\n\nイベントURL\nhttps://brainpad-meetup.connpass.com/event/392729/",
+    "image": "https://files.speakerdeck.com/presentations/2660ff886ada4da795a4b54a90c7f92b/preview_slide_0.jpg?39745370",
+    "fetched_at": "2026-06-18 21:36:11",
+    "ja_summary": "・AIエージェントを細分化するアプローチの有効性と限界を議論した勉強会資料\n・複雑なタスクにおけるエージェント分割のメリット・デメリットを専門的視点で解説\n・若手データサイエンティスト向けに、AI構築の最適解を探る知見を共有"
+  },
+  {
+    "title": "AIエージェントのトークン代を節約する CLAUDE.md と copilot-instructions.md 実践ガイド  AIエージェントでは毎ターン何が起きているのか",
+    "link": "https://qiita.com/shinkai_/items/8f88307b7cb13b748e57",
+    "source": "Qiita (Popular)",
+    "published": "2026-06-08T08:17:13+09:00",
+    "summary": "CLAUDE.md や copilot-instructions.md は、AIエージェントに「このプロジェクトのルールを最初から教える」ためのファイルです。\n一度書いたら終わり、という扱いをしている人が多いと思いますが、実はこれが **毎ターン・毎リクエストにしれっとコンテキストへ乗り続ける** という性質を持っています。\n\nここを正しく整備すれば、「設計書→コード」「コード→設計書」という重た",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Ftech-festa-ogp-background-4b5015b2c518c7e6b9062a7c9f5f5e90.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYxMjAzMDIyJTJGMGIxMTAwMjI1ZTY5ZmU3YzVkZWYxYzFlNDVlNzk5M2M3MjU0MTU4MyUyRnhfbGFyZ2UucG5nJTNGMTY3MDk5NjkzMj9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9ZGZiNzlkYTk4ZTljMjBiMmQ1MzhmOTNiNDhjN2UyYWI%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D544a40a92d09585955e91b571bfa7e7f?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9QUklRTMlODIlQTglRTMlODMlQkMlRTMlODIlQjglRTMlODIlQTclRTMlODMlQjMlRTMlODMlODglRTMlODElQUUlRTMlODMlODglRTMlODMlQkMlRTMlODIlQUYlRTMlODMlQjMlRTQlQkIlQTMlRTMlODIlOTIlRTclQUYlODAlRTclQjQlODQlRTMlODElOTklRTMlODIlOEIlMjBDTEFVREUubWQlMjAlRTMlODElQTglMjBjb3BpbG90LWluc3RydWN0aW9ucy5tZCUyMCVFNSVBRSU5RiVFOCVCNyVCNSVFMyU4MiVBQyVFMyU4MiVBNCVFMyU4MyU4OSUyMCUyMEFJJUUzJTgyJUE4JUUzJTgzJUJDJUUyJTgwJUE2JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjNGRkZGRkYmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9ZjhhMjZjZDFmMmFhM2FiZDExY2RjYTZkNzg0M2U1ZTE&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBzaGlua2FpXyZ0eHQtY29sb3I9JTIzRkZGRkZGJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTNhZTI4MTQ1ZDAzZjliYWM0MmZiMTg0N2U0YmE4NGEy&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=49fa23c3275030a22178482ce66f932f",
+    "fetched_at": "2026-06-18 21:36:14",
+    "ja_summary": "AIエージェントの指示ファイル（CLAUDE.md等）は毎リクエスト送信されるため、記述内容がコストに直結する。\n不要な情報を削り、ルールを最適化することで、トークン消費を抑えつつAIの精度を向上できる。\n設計書やコードのやり取りを効率化する上で、指示ファイルの定期的な見直しと整理が不可欠である。"
+  },
+  {
     "title": "AI時代でもSIerは人月商売　老朽システムで「浦島太郎」となる技術者の悲惨 (木村岳史の極言暴論！)",
     "link": "https://business.nikkei.com/atcl/gen/19/00322/060100235/",
     "source": "日経ビジネス 最新",
@@ -918,85 +998,5 @@
     "image": "https://media.loom-app.com/loom/2026/06/17/04859a90-62e9-44ca-948c-60db3c14547b/original.jpg?w=1200&amp;h=630",
     "fetched_at": "2026-06-18 01:27:15",
     "ja_summary": "・GoogleがAI「Gemini」搭載のスマートスピーカーを発売。\n・家電操作や対話性能を強化し、他社に先駆けて家庭向けAI市場を攻略。\n・Google Home Premiumとの連携で、AIによるスマートホームの利便性を加速。"
-  },
-  {
-    "title": "Palantir とは",
-    "link": "https://note.com/npaka/n/n0c5046f3d792",
-    "source": "note (npaka)",
-    "published": "Mon, 15 Jun 2026 10:58:33 +0900",
-    "summary": "<p id=\"d7e90fd8-59fe-4ed3-b028-92938ee292ed\" name=\"d7e90fd8-59fe-4ed3-b028-92938ee292ed\">AI時代の意思決定インフラを担う、政府・国防機関・大企業向けソフトウェア企業「Palantir」についてまとめました。</p><br /><br /><a href=\"https://note.com/npaka/n/n0c5046f3d792\">続きをみる</a>",
-    "image": "https://assets.st-note.com/production/uploads/images/285579921/rectangle_large_type_2_2771aa556c9c5d8c05b94d94a66bd318.jpeg?width=800",
-    "fetched_at": "2026-06-18 01:27:16",
-    "ja_summary": "・Palantirは政府・国防機関・大企業向けの意思決定を支援するソフトウェア企業。\n・膨大なデータを統合・分析し、AI時代の高度な判断を支える基盤を提供している。\n・組織のデータ活用を最適化する「意思決定インフラ」として注目されている。"
-  },
-  {
-    "title": "テレビにAI 始まった2つの賭け",
-    "link": "https://news.yahoo.co.jp/pickup/6584639?source=rss",
-    "source": "Yahoo!ニュース IT・科学",
-    "published": "Wed, 17 Jun 2026 12:53:11 GMT",
-    "summary": "",
-    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/6/17/ee15092a8422e8af105c1072199bc48c10614076cc9e4cdb3a33eae4106f918b.jpg",
-    "fetched_at": "2026-06-18 01:27:17",
-    "ja_summary": "・テレビメーカーがAIを搭載し、画質向上や番組レコメンドなどの新機能を強化。\n・視聴体験の最適化で付加価値を高め、市場の低迷を打破する狙い。\n・AIによるコンテンツ生成や体験変化が、テレビの再定義に繋がるか注目される。"
-  },
-  {
-    "title": "デジタル社会推進標準ガイドライン：「DS-920 行政の進化と革新のための生成AIの調達・利活用に係るガイドライン 」を更新しました",
-    "link": "https://www.digital.go.jp/resources/standard_guidelines",
-    "source": "デジタル庁",
-    "published": "Fri, 12 Jun 2026 07:53:37 +0900",
-    "summary": "",
-    "image": "https://www.digital.go.jp/themes/custom/gov_theme_da_2023/assets/images/ogp.png",
-    "fetched_at": "2026-06-18 01:27:22",
-    "ja_summary": "行政が生成AIを安全かつ効果的に調達・活用するためのガイドラインが改訂されました。\n最新の技術動向やリスク管理基準を反映し、適正な利活用を促す内容となっています。\n官民連携でのデジタル化推進に向け、具体的な導入・運用指針が示されています。"
-  },
-  {
-    "title": "New OpenAI Academy courses for the next era of work",
-    "link": "https://openai.com/index/academy-courses-applying-ai-at-work",
-    "source": "OpenAI",
-    "published": "Fri, 12 Jun 2026 10:00:00 GMT",
-    "summary": "OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflows, and apply agents in everyday work.",
-    "image": "https://images.ctfassets.net/kftzwdyauwt9/3uhZVST93Uain15J19fqjF/544b8b12c44fb2035c96b419c5196013/Frame.png?w=1600&amp;h=900&amp;fit=fill",
-    "fetched_at": "2026-06-18 01:27:24",
-    "ja_summary": "OpenAIがAI活用スキルを習得できる3つの新講座を開講。\n実践的なスキルの習得から業務効率化、AIエージェントの導入までを網羅。\nAIを日常業務に即戦力として組み込みたいビジネスパーソン向けの内容。"
-  },
-  {
-    "title": "BBVA puts AI at the core of banking with OpenAI",
-    "link": "https://openai.com/index/bbva",
-    "source": "OpenAI",
-    "published": "Thu, 11 Jun 2026 00:00:00 GMT",
-    "summary": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
-    "image": "https://images.ctfassets.net/kftzwdyauwt9/6aZ6IYFFucrCH6XAzgfWch/598c66ed8e8c99885ea6cf34c27f2258/oai_BBVA_SEO.png?w=1600&amp;h=900&amp;fit=fill",
-    "fetched_at": "2026-06-18 01:27:26",
-    "ja_summary": "・スペインのBBVA銀行が全従業員10万人にChatGPT Enterpriseを導入。\n・OpenAIとの提携により、業務効率化とAI主導の次世代バンキングへの転換を加速。\n・生成AIを中核に据えた世界規模での銀行業務改革を推進。"
-  },
-  {
-    "title": "Anthropic opens Seoul office and announces new partnerships across the Korean AI ecosystem",
-    "link": "https://www.anthropic.com/news/seoul-office-partnerships-korean-ai-ecosystem",
-    "source": "Anthropic (News)",
-    "published": "Wed, 17 Jun 2026 00:00:00 +0000",
-    "summary": "Anthropic opens Seoul office and announces new partnerships across the Korean AI ecosystem",
-    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20Globe&amp;backgroundColor=heather",
-    "fetched_at": "2026-06-18 01:27:27",
-    "ja_summary": "・Anthropicがソウルに新拠点を設立し、韓国市場へ本格参入。\n・現地のAIエコシステムと連携を強化し、事業展開を加速。\n・日本に続くアジア戦略の一環として、韓国でのプレゼンスを拡大。"
-  },
-  {
-    "title": "TCS and Anthropic partner to bring Claude to regulated industries",
-    "link": "https://www.anthropic.com/news/tcs-anthropic-partnership",
-    "source": "Anthropic (News)",
-    "published": "Fri, 12 Jun 2026 00:00:00 +0000",
-    "summary": "TCS and Anthropic partner to bring Claude to regulated industries",
-    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20NodeLine&amp;backgroundColor=olive",
-    "fetched_at": "2026-06-18 01:27:30",
-    "ja_summary": "TCSとAnthropicが提携し、AIモデル「Claude」を金融や医療などの規制の厳しい業界へ導入する。\n両社の技術を組み合わせ、高いセキュリティとコンプライアンスを維持しながら業務効率化を支援する。\nAI活用の障壁となっている法的・規制的課題を解決し、企業のデジタルトランスフォーメーションを加速させる。"
-  },
-  {
-    "title": "Results from the first Anthropic Public Record",
-    "link": "https://www.anthropic.com/news/anthropic-public-record",
-    "source": "Anthropic (News)",
-    "published": "Fri, 12 Jun 2026 00:00:00 +0000",
-    "summary": "Results from the first Anthropic Public Record",
-    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Globe&amp;backgroundColor=heather",
-    "fetched_at": "2026-06-18 01:27:34",
-    "ja_summary": "・AnthropicがAIの安全性と倫理基準を明示する初の「パブリック・レコード」を公開。\n・AIモデルの性能、安全性評価、および責任ある開発プロセスの詳細を公表。\n・透明性を高めることで、AIの信頼性向上と社会への説明責任を果たす狙い。"
   }
 ]
