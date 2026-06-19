@@ -1,5 +1,105 @@
 [
   {
+    "title": "テレビにAI 始まった2つの賭け",
+    "link": "https://news.yahoo.co.jp/pickup/6584639?source=rss",
+    "source": "Yahoo!ニュース IT・科学",
+    "published": "Wed, 17 Jun 2026 12:53:11 GMT",
+    "summary": "",
+    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/6/17/ee15092a8422e8af105c1072199bc48c10614076cc9e4cdb3a33eae4106f918b.jpg",
+    "fetched_at": "2026-06-19 23:23:50",
+    "ja_summary": "・テレビメーカー各社がAI機能を搭載し、画質向上や番組検索の利便性を高める新戦略を始動。\n・「高画質化」による付加価値の追求と、「AIによる視聴体験の最適化」という2つの軸で市場開拓を目指す。\n・低迷するテレビ市場において、AIの導入が新たな購買動機となり得るかが勝負の分かれ目となる。"
+  },
+  {
+    "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
+    "link": "https://openai.com/index/diagnose-rare-childhood-diseases",
+    "source": "OpenAI",
+    "published": "Thu, 18 Jun 2026 08:00:00 GMT",
+    "summary": "Researchers used an OpenAI reasoning model to help diagnose rare diseases, identifying 18 new diagnoses in previously unsolved cases.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/42SsGr6pOo6F7fcF0VZGGV/25583b98cb667d103adb7bf0476cafc5/SEO_Card_new.png?w=1600&amp;h=900&amp;fit=fill",
+    "fetched_at": "2026-06-19 23:23:55",
+    "ja_summary": "・OpenAIの推論モデルを活用し、小児の希少疾患の診断を支援する研究を実施。\n・これまで未解決だった症例に対し、新たに18件の診断を確定させることに成功。\n・AIが医師の診断をサポートすることで、難病特定を迅速化する可能性を示した。"
+  },
+  {
+    "title": "Anthropic opens Seoul office and announces new partnerships across the Korean AI ecosystem",
+    "link": "https://www.anthropic.com/news/seoul-office-partnerships-korean-ai-ecosystem",
+    "source": "Anthropic (News)",
+    "published": "Wed, 17 Jun 2026 00:00:00 +0000",
+    "summary": "Anthropic opens Seoul office and announces new partnerships across the Korean AI ecosystem",
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20Globe&amp;backgroundColor=heather",
+    "fetched_at": "2026-06-19 23:23:57",
+    "ja_summary": "・Anthropicがソウルに新オフィスを開設し、韓国市場へ本格参入。\n・韓国のAIエコシステムにおける複数のパートナーシップ締結を発表。\n・現地企業との連携を強化し、グローバルでのAI事業展開を加速。"
+  },
+  {
+    "title": "TCS and Anthropic partner to bring Claude to regulated industries",
+    "link": "https://www.anthropic.com/news/tcs-anthropic-partnership",
+    "source": "Anthropic (News)",
+    "published": "Fri, 12 Jun 2026 00:00:00 +0000",
+    "summary": "TCS and Anthropic partner to bring Claude to regulated industries",
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20NodeLine&amp;backgroundColor=olive",
+    "fetched_at": "2026-06-19 23:23:58",
+    "ja_summary": "・TCSとAnthropicが提携し、生成AI「Claude」を規制の厳しい業界へ提供。\n・金融やヘルスケアなど、高いセキュリティとコンプライアンスが求められる領域での活用を促進。\n・企業が安全にAIを導入し、業務効率化やイノベーションを図れる環境を構築する。"
+  },
+  {
+    "title": "Results from the first Anthropic Public Record",
+    "link": "https://www.anthropic.com/news/anthropic-public-record",
+    "source": "Anthropic (News)",
+    "published": "Fri, 12 Jun 2026 00:00:00 +0000",
+    "summary": "Results from the first Anthropic Public Record",
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Globe&amp;backgroundColor=heather",
+    "fetched_at": "2026-06-19 23:23:59",
+    "ja_summary": "・Anthropic社がAIの安全性や開発状況を透明化する初の「パブリックレコード」を公開。\n・AIモデルの性能評価やリスク管理、ガバナンス体制に関する重要指標を報告。\n・AI開発における責任ある透明性の確保を目的とした継続的な情報開示の第一歩。"
+  },
+  {
+    "title": "DXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on",
+    "link": "https://www.anthropic.com/news/dxc-anthropic-alliance",
+    "source": "Anthropic (News)",
+    "published": "Thu, 11 Jun 2026 00:00:00 +0000",
+    "summary": "DXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on",
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Megaphone&amp;backgroundColor=coral",
+    "fetched_at": "2026-06-19 23:24:05",
+    "ja_summary": "・DXCテクノロジーが、銀行や航空会社など規制の厳しい業界向けシステムにAI「Claude」を統合。\n・高度なセキュリティ環境下での業務効率化や、意思決定の迅速化を支援する。\n・規制遵守が求められる企業においても、安全な生成AI活用の導入が加速する見込み。"
+  },
+  {
+    "title": "Apple container で docker compose を動かす",
+    "link": "https://zenn.dev/7kaji/articles/370a8dd7f678d1",
+    "source": "Zenn Trends",
+    "published": "Thu, 18 Jun 2026 17:00:10 GMT",
+    "summary": "この記事でやること\nApple 純正のコンテナCLI container の新機能 container machine（v1.0 で追加された永続Linux VM。WSL2 的に使える）の中で、docker engine と docker-compose を完全に動かす手順を、ゼロから再現できる形でまとめます。\n\n✅ docker / docker compose（-p ポート公開・コンテナ間通信）\n✅ machine 起動と同時に dockerd を自動起動（systemd）\n✅ Mac の localhost:ポート でコンテナに到達（Docker Desktop 相当の体験）\n...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--L5rXGF-W--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Apple%2520container%2520%25E3%2581%25A7%2520docker%2520compose%2520%25E3%2582%2592%25E5%258B%2595%25E3%2581%258B%25E3%2581%2599%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:7kaji%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2ZmZTU5NjJjMmMuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-06-19 23:24:07",
+    "ja_summary": "Appleの「container machine」上でDockerとdocker-composeを構築し、Docker Desktop同等の環境を再現する手順を解説。\nsystemdによる自動起動やポートフォワーディングの設定を含め、WSL2のように快適に利用可能な構成を実現する。"
+  },
+  {
+    "title": "【Eve】AIエージェントは\"ディレクトリ\"になる — Vercel発のエージェントフレームワークを触ってみた",
+    "link": "https://zenn.dev/sc30gsw/articles/a03d6a17af036c",
+    "source": "Zenn Trends",
+    "published": "Thu, 18 Jun 2026 12:11:12 GMT",
+    "summary": "!\nこの記事の草稿は、本文で紹介している Eve 製の「記事執筆エージェント」自身が書きました。その草稿を筆者本人が最終レビューし、エージェントと協業しながら修正・加筆しています。「Eve の部品を解説する記事を、その部品で組んだエージェントが書く」という二層構造でお届けします。\n\n\n はじめに\n2026年6月、Vercel がオープンソースの agent framework Eve を公開しました。\nhttps://vercel.com/eve\nEve が面白いのは、エージェントを動くプロトタイプ」ではなく「本番で回るもの」として最初から設計している点です。\n具体的には、エージェントに...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--pN0iuEW5--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590Eve%25E3%2580%2591AI%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588%25E3%2581%25AF%2522%25E3%2583%2587%25E3%2582%25A3%25E3%2583%25AC%25E3%2582%25AF%25E3%2583%2588%25E3%2583%25AA%2522%25E3%2581%25AB%25E3%2581%25AA%25E3%2582%258B%2520%25E2%2580%2594%2520Vercel%25E7%2599%25BA%25E3%2581%25AE%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588%25E3%2583%2595%25E3%2583%25AC%25E3%2583%25BC%25E3%2583%25A0%25E3%2583%25AF%25E3%2583%25BC%25E3%2582%25AF%25E3%2582%2592%25E8%25A7%25A6%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:kaito%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2VmZDZhMGM5YWUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-06-19 23:24:08",
+    "ja_summary": "Vercelが公開したAIエージェントフレームワーク「Eve」は、プロトタイプではなく本番運用を前提に設計されている。\n本記事自体もEveで構築した「記事執筆エージェント」が作成しており、エージェントとの協業によるコンテンツ制作の可能性を示している。\n開発現場において、エージェントを実用的な「ディレクトリ（基盤）」として活用するための実践的な手法を解説している。"
+  },
+  {
+    "title": "1コマンドでClaude Codeが開発チームになる「ccteams」を作った",
+    "link": "https://zenn.dev/yui/articles/4f54a98ad94fe5",
+    "source": "Zenn Trends",
+    "published": "Thu, 18 Jun 2026 10:01:40 GMT",
+    "summary": "毎回エージェントをコピペしていた\nClaude Code のサブエージェントは最高なんですが、使っているうちに、同じ作業を繰り返していることに気がつきました。新しいプロジェクトを始めるたびに、同じエージェント集団 ——実装担当、レビュー担当、スタックの規約を守る担当—— を毎回コピペしている。そこそこ良い構成なのに、1つのリポジトリに閉じていて、再利用できない。\nまた、新しい技術スタックで開発する場合、また新しいサブエージェントを考え直さないといけない。\nそこで ccteams を作りました。エージェントチームのパッケージマネージャーです。1コマンドで、用意済みの Claude Co...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--APS5gJGV--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:1%25E3%2582%25B3%25E3%2583%259E%25E3%2583%25B3%25E3%2583%2589%25E3%2581%25A7Claude%2520Code%25E3%2581%258C%25E9%2596%258B%25E7%2599%25BA%25E3%2583%2581%25E3%2583%25BC%25E3%2583%25A0%25E3%2581%25AB%25E3%2581%25AA%25E3%2582%258B%25E3%2580%258Cccteams%25E3%2580%258D%25E3%2582%2592%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:yui%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzVjMGIyNzFhZWUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-06-19 23:24:08",
+    "ja_summary": "・Claude Codeのサブエージェント設定の再利用性を高めるツール「ccteams」を開発。\n・毎回手動で行っていたエージェント設定のコピペ作業を、1コマンドで完結させる。\n・技術スタックごとのチーム構成をパッケージとして管理・共有できる。"
+  },
+  {
+    "title": "20260619 私の日常業務での生成 AI 活用",
+    "link": "https://speakerdeck.com/masaruogura/20260619-si-nori-chang-ye-wu-denosheng-cheng-ai-huo-yong",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-06-19T08:51:55-04:00",
+    "summary": "2026/6/19 第8回 札幌すごいAI会の登壇資料です。\nhttps://sapporo-sugoi-ai.connpass.com/event/393985/",
+    "image": "https://files.speakerdeck.com/presentations/e62d1620f6df48e7b8b1cac73a1c9df0/preview_slide_0.jpg?39756379",
+    "fetched_at": "2026-06-19 23:24:09",
+    "ja_summary": "・「第8回 札幌すごいAI会」にて、生成AIを活用した日常業務の効率化手法を公開。\n・実際の業務フローにおける具体的なAI活用事例や、生産性向上のノウハウを共有。\n・登壇資料を通じて、実務へのAI導入と活用のヒントを提示。"
+  },
+  {
     "title": "日経平均7万円突破　動画で振り返る時価総額ランキング10年　トヨタ1強時代の終幕 (会計・財務のサイエンス)",
     "link": "https://business.nikkei.com/atcl/gen/19/00611/061900050/",
     "source": "日経ビジネス 最新",
@@ -898,105 +998,5 @@
     "image": "https://www.digital.go.jp/themes/custom/gov_theme_da_2023/assets/images/ogp.png",
     "fetched_at": "2026-06-19 03:34:49",
     "ja_summary": "・政府が行政業務への生成AI導入を促進するため、利用指針を改定（第2.0版）した。\n・AIの調達から利活用までの一貫したガイドラインを提示し、実務での安全な運用を支援する。\n・行政のDX推進を加速させ、業務効率化と質の向上を図る狙いがある。"
-  },
-  {
-    "title": "第4回先進的AI利活用アドバイザリーボードの会議資料等を掲載しました",
-    "link": "https://www.digital.go.jp/councils/ai-advisory-board/6e7f7b9d-360f-4e4d-bf91-4250a496cf4f",
-    "source": "デジタル庁",
-    "published": "Fri, 12 Jun 2026 12:00:43 +0900",
-    "summary": "",
-    "image": "https://www.digital.go.jp/themes/custom/gov_theme_da_2023/assets/images/ogp.png",
-    "fetched_at": "2026-06-19 03:34:49",
-    "ja_summary": "・「第4回 先進的AI利活用アドバイザリーボード」の会議資料が公開された。\n・AI利活用に関する専門的な議論の内容や、今後の検討材料を確認できる。\n・詳細は政府公式サイトの当該ページから閲覧可能。"
-  },
-  {
-    "title": "Improving health intelligence in ChatGPT",
-    "link": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
-    "source": "OpenAI",
-    "published": "Thu, 18 Jun 2026 11:00:00 GMT",
-    "summary": "Learn how GPT-5.5 Instant improves ChatGPT’s health and wellness responses with stronger reasoning, better context, clearer communication, and physician-informed evaluations.",
-    "image": "https://images.ctfassets.net/kftzwdyauwt9/4yWq9ysTsvnlOm2FZUVYQ1/bec481613bb7762c6afbd6bec2edbdae/16x9_Health_SEO_1.png?w=1600&amp;h=900&amp;fit=fill",
-    "fetched_at": "2026-06-19 03:34:50",
-    "ja_summary": "・GPT-5.5 Instantにより、ChatGPTの健康・ウェルネス分野の回答精度が向上。\n・論理的推論と文脈理解の強化に加え、医師の監修による評価で信頼性を担保。\n・より明確かつ正確な情報提供が可能となり、ヘルスケア対話の質が大きく改善。"
-  },
-  {
-    "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
-    "link": "https://openai.com/index/ai-chemist-improves-reaction",
-    "source": "OpenAI",
-    "published": "Wed, 17 Jun 2026 10:00:00 GMT",
-    "summary": "OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research.",
-    "image": "https://images.ctfassets.net/kftzwdyauwt9/4NBFdbusKgYSDZQu73MAR9/2f84206eba72f43384d4bb005b97f8c3/molecule-one-SEO-Card.png?w=1600&amp;h=900&amp;fit=fill",
-    "fetched_at": "2026-06-19 03:34:50",
-    "ja_summary": "・OpenAIとMolecule.oneが、AIを活用して医薬品製造の複雑な化学反応を効率化することに成功。\n・GPT-4o（※記事のGPT-5.4は誤記と想定）を搭載した「自律型AI化学者」が、従来困難だった反応の最適化を実現。\n・AIによる化学実験の自動化が進展し、新薬開発スピードの飛躍的な向上が期待される。"
-  },
-  {
-    "title": "Predicting model behavior before release by simulating deployment",
-    "link": "https://openai.com/index/deployment-simulation",
-    "source": "OpenAI",
-    "published": "Tue, 16 Jun 2026 00:00:00 GMT",
-    "summary": "OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy.",
-    "image": "https://images.ctfassets.net/kftzwdyauwt9/4nRyRNS5bPvePGSTz5xlQE/ea4b18c80061d14d480d6a20d57a14eb/SEO_Card.png?w=1600&amp;h=900&amp;fit=fill",
-    "fetched_at": "2026-06-19 03:34:51",
-    "ja_summary": "・OpenAIがAIモデルのリリース前挙動を予測する「デプロイメント・シミュレーション」を導入。\n・実会話データを用いて、リリース前に精度の高い安全性評価と検証が可能に。\n・AIモデルの安全性向上と、デプロイ後の不測の事態を防ぐための新手法。"
-  },
-  {
-    "title": "AI駆動開発のセキュリティ、結局どこまでやればいい？",
-    "link": "https://qiita.com/udowanllc/items/1713372648eb543e6980",
-    "source": "Qiita (Popular)",
-    "published": "2026-06-16T00:15:15+09:00",
-    "summary": "## 目次\n\n- [はじめに](#はじめに)\n- [前提：AI駆動開発ならではのリスクを知っておく](#前提ai駆動開発ならではのリスクを知っておく)\n- [レベル1：一般的なセキュリティレベル](#レベル1一般的なセキュリティレベル)\n- [レベル2：厳格に情報を管理したい場合](#レベル2厳格に情報を管理したい場合)\n- [レベル3：最厳格（規制業種）](#レベル3最厳格規制業種)\n- [3レ",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0NDQ1NzkwJTJGOTNjYWJkNzI5MmE3YzJiNDJlYzM2OGJmNGM4OWY5MzIwMGMxMGEwZCUyRmxhcmdlLnBuZyUzRjE3ODExMDQwNTE_aXhsaWI9cmItNC4xLjEmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPTExNDA1M2EzZmNlM2VlZTFkZDI0ZDhiMjdlYzMyMzIw%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D187ae6dffcca3782de1c09f3976edbe8?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9QUklRTklQTclODYlRTUlOEIlOTUlRTklOTYlOEIlRTclOTklQkElRTMlODElQUUlRTMlODIlQkIlRTMlODIlQUQlRTMlODMlQTUlRTMlODMlQUElRTMlODMlODYlRTMlODIlQTMlRTMlODAlODElRTclQjUlOTAlRTUlQjElODAlRTMlODElQTklRTMlODElOTMlRTMlODElQkUlRTMlODElQTclRTMlODIlODQlRTMlODIlOEMlRTMlODElQjAlRTMlODElODQlRTMlODElODQlRUYlQkMlOUYmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz0xZmQwMzQ0M2M3YWFkMTU4YWFmMTk4ZWI5NGM2OTI3NQ&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDB1ZG93YW5sbGMmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz0yYzljZmYzYjZlZmQ0MmY5NmMxZjFiMTc1MmZjNzMxOA&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=16872242e95e4589cb64d28b4d257459",
-    "fetched_at": "2026-06-19 03:35:09",
-    "ja_summary": "・AI駆動開発には特有のセキュリティリスクが存在し、業種や機密レベルに応じた対策が必要。\n・一般的な開発から規制業種まで、求めるセキュリティ強度に応じて3段階の対策基準を設ける。\n・組織のリスク許容度を明確にし、自社に最適な管理レベルを選択することが重要。"
-  },
-  {
-    "title": "3年間、AI要件定義に取り組んできた全記録",
-    "link": "https://qiita.com/kumai_yu/items/831717856fd24981799d",
-    "source": "Qiita (Popular)",
-    "published": "2026-06-14T09:44:34+09:00",
-    "summary": "## AI駆動開発で要件定義はどう変わったか。\n\nこんにちは。主にXにてAI駆動開発について発信している熊井悠です！\n現在はAIスタートアップ企業のCEO兼CTOをしています！\n\nhttps://x.com/qumaiu\n\n僕は前職であるSIer、ITコンサルティング企業で上流工程に関わる機会が多くありました。\n\nそのため、生成AIが登場したとき、真っ先に「**これは要件定義・上流工程の領域を大き",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnBicy50d2ltZy5jb20lMkZwcm9maWxlX2ltYWdlcyUyRjE4MDgxODkwMDcyOTk0Nzc1MDQlMkZObmZsLXNXMF9iaWdnZXIuanBnP2l4bGliPXJiLTQuMS4xJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz02OTczODhkZjcyOGQ3Y2I1ZjRlMjhjYWVkMTA5ZDc2ZQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D2bd3760aec5a9c618ba8317347adb258?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9MyVFNSVCOSVCNCVFOSU5NiU5MyVFMyU4MCU4MUFJJUU4JUE2JTgxJUU0JUJCJUI2JUU1JUFFJTlBJUU3JUJFJUE5JUUzJTgxJUFCJUU1JThGJTk2JUUzJTgyJThBJUU3JUI1JTg0JUUzJTgyJTkzJUUzJTgxJUE3JUUzJTgxJThEJUUzJTgxJTlGJUU1JTg1JUE4JUU4JUE4JTk4JUU5JThDJUIyJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9Yjc5YjEwOTA3MjFmNjlhMTFjYWQ4Njk2ZjA0ZTQ5ZjY&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBrdW1haV95dSZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTViY2E2MDhkMGYwZjkxOTRjYzAwYzY4NWMzZGE1M2Ez&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=06d7a9be7b71ae045beab5ef70e73d2f",
-    "fetched_at": "2026-06-19 03:35:11",
-    "ja_summary": "・AIスタートアップのCEO兼CTOが、3年間にわたるAI駆動型の要件定義手法を体系化。\n・従来の上流工程における生成AIの活用法と、現場での実践経験を網羅的に解説。\n・AI導入による開発プロセスの変革点と、コンサルティング経験に基づく実践的な知見を公開。"
-  },
-  {
-    "title": "【解説】実際の値をもとに、ベクトル化などのRAGの仕組みを根本から理解しましょう",
-    "link": "https://qiita.com/miruky/items/c3d6277ff99afb214b19",
-    "source": "Qiita (Popular)",
-    "published": "2026-06-13T23:05:19+09:00",
-    "summary": "![RAGの仕組み解説サムネイル.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3637204/929bb375-e296-4dfe-80f6-f90b97892b63.png)\n\n## はじめに\n\nこんばんは、mirukyです。\n\n生成AIを業務で使おうとすると、かなり高い確率でRAGという言葉に出会います。RA",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Ftech-festa-ogp-background-4b5015b2c518c7e6b9062a7c9f5f5e90.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGMzYzNzIwNCUyRnByb2ZpbGUtaW1hZ2VzJTJGMTc3NDQ0NTA3MD9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NzhlNWJjOTliMzcxMjIzNTdjNWQ1N2EyMTc3MzQyMGQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Da7705fc7df33667a8cdd3e7891b5d7cf?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJTkwJUU4JUE3JUEzJUU4JUFBJUFDJUUzJTgwJTkxJUU1JUFFJTlGJUU5JTlBJTlCJUUzJTgxJUFFJUU1JTgwJUE0JUUzJTgyJTkyJUUzJTgyJTgyJUUzJTgxJUE4JUUzJTgxJUFCJUUzJTgwJTgxJUUzJTgzJTk5JUUzJTgyJUFGJUUzJTgzJTg4JUUzJTgzJUFCJUU1JThDJTk2JUUzJTgxJUFBJUUzJTgxJUE5JUUzJTgxJUFFUkFHJUUzJTgxJUFFJUU0JUJCJTk1JUU3JUI1JTg0JUUzJTgxJUJGJUUzJTgyJTkyJUU2JUEwJUI5JUU2JTlDJUFDJUUzJTgxJThCJUUzJTgyJTg5JUU3JTkwJTg2JUU4JUE3JUEzJUUzJTgxJTk3JUUzJTgxJUJFJUUzJTgxJTk3JUUzJTgyJTg3JUUzJTgxJTg2JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjNGRkZGRkYmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9MjdjODU1YzZjNmU1ODM2NThjMGZiY2MxYWNkZTVkMTU&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBtaXJ1a3kmdHh0LWNvbG9yPSUyM0ZGRkZGRiZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1hNGJlMjUyODM1ZTViYmVmNjY5OWU5NDNkNjEzM2VlZQ&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=8dd24ecf2b04f73a5aba3d307aa1409a",
-    "fetched_at": "2026-06-19 03:35:11",
-    "ja_summary": "生成AI活用で必須となる技術「RAG」について、具体的な数値やプロセスを用いて仕組みを根本から解説。\nベクトル化などの専門的な処理の流れを可視化し、技術的な理解を深める内容。\nRAGの基礎知識を整理したいエンジニアやビジネスパーソン向けの記事。"
-  },
-  {
-    "title": "全銀協 AI脅威にATM停止など想定",
-    "link": "https://news.yahoo.co.jp/pickup/6584758?source=rss",
-    "source": "Yahoo!ニュース 経済",
-    "published": "Thu, 18 Jun 2026 13:12:28 GMT",
-    "summary": "",
-    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/6/18/24c3ac14fae8feb5c29ed6663d58f7bf0f1467949c990eb9108c520fddb375fb.jpg",
-    "fetched_at": "2026-06-19 01:05:02",
-    "ja_summary": "全銀協はAI悪用によるサイバー攻撃のリスクに対し、ATMの一時停止を含む被害軽減策の指針を策定。\n金融機関に対し、不正送金やシステム障害への早期対応とBCP（事業継続計画）の再整備を要請。\n高度化するAI犯罪から顧客の資産を守るため、セキュリティ対策の強化を急ぐ。"
-  },
-  {
-    "title": "アドビ、Creative Cloud全体にAIエージェント導入へ",
-    "link": "https://www.watch.impress.co.jp/docs/news/2118355.html",
-    "source": "Impress Watch",
-    "published": "",
-    "summary": "アドビは18日、Adobe Creative Cloudアプリ全体に独自のクリエイティブエージェントを搭載したAIアシスタント機能を導入すると発表した。まずはPremiereやPhotoshop、Illustrator、InDesign、Frame.ioでパブリックベータ版を提供開始する。",
-    "image": "https://www.watch.impress.co.jp/img/ipw/list/2118/355/01.jpg",
-    "fetched_at": "2026-06-19 01:05:22",
-    "ja_summary": "・アドビがCreative Cloudの主要アプリにAIエージェント機能を順次導入\n・PremiereやPhotoshopなど計5製品でパブリックベータ版を提供開始\n・独自のAIがクリエイティブ作業をサポートし、業務効率化を促進する"
-  },
-  {
-    "title": "Palantir とは",
-    "link": "https://note.com/npaka/n/n0c5046f3d792",
-    "source": "note (npaka)",
-    "published": "Mon, 15 Jun 2026 10:58:33 +0900",
-    "summary": "<p id=\"d7e90fd8-59fe-4ed3-b028-92938ee292ed\" name=\"d7e90fd8-59fe-4ed3-b028-92938ee292ed\">AI時代の意思決定インフラを担う、政府・国防機関・大企業向けソフトウェア企業「Palantir」についてまとめました。</p><br /><br /><a href=\"https://note.com/npaka/n/n0c5046f3d792\">続きをみる</a>",
-    "image": "https://assets.st-note.com/production/uploads/images/285579921/rectangle_large_type_2_2771aa556c9c5d8c05b94d94a66bd318.jpeg?width=800",
-    "fetched_at": "2026-06-19 01:05:36",
-    "ja_summary": "・Palantirは、政府・国防・大企業向けのデータ分析ソフトウェアを提供する企業。\n・AIを活用した高度なデータ統合により、組織の迅速な意思決定を支援する。\n・次世代の意思決定インフラとして、現在世界的に注目を集めている。"
   }
 ]
