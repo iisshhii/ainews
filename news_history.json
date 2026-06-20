@@ -1,5 +1,35 @@
 [
   {
+    "title": "Security in Model Context Protocol: An Analysis of the OWASP MCP Top 10",
+    "link": "https://speakerdeck.com/jmortega/security-in-model-context-protocol-an-analysis-of-the-owasp-mcp-top-10",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-06-20T11:33:43-04:00",
+    "summary": "The Model Context Protocol (MCP) is an open standard developed by Anthropic that seeks to standardize the way artificial intelligence applications, especially those based on large language models, interact with external data sources and tools.\n\nThe session will focus on the emerging risks identified by the OWASP Model Context Protocol (MCP) Top 10 project, an essential guide for developers and architects working on AI model development. We will explore common vulnerabilities, highlighting how configuration flaws in authentication, authorization, and payload validation can compromise the integrity and confidentiality of the models and the environment data.\n\nKey discussion points will include:\n- Introduction to Model Context Protocols\n- Analysis of the main risks in the OWASP MCP Top 10\n- Security audits and best practices for mitigating vulnerabilities",
+    "image": "https://files.speakerdeck.com/presentations/70a07b2571e94195ae16719856309307/preview_slide_0.jpg?39764309",
+    "fetched_at": "2026-06-21 01:59:32",
+    "ja_summary": "・Anthropicが策定したAI接続標準「MCP」における主要なセキュリティリスクを解説。\n・認証や権限設定等の不備がAIモデルやデータに与える脅威と脆弱性を分析。\n・開発者向けに、OWASP MCP Top 10に基づいた安全な実装と監査のベストプラクティスを提言。"
+  },
+  {
+    "title": "【完全ローカル】AIに記憶を持たせる5ステップ — Ollama×RAGでつくる長期記憶チャットボット",
+    "link": "https://qiita.com/hatsukaze/items/192403c9ff6a433fe0b6",
+    "source": "Qiita (Popular)",
+    "published": "2026-06-15T18:21:46+09:00",
+    "summary": "## はじめに\n\nこんにちは。開発部の雨です。\n\n今回は、ローカル環境で動く「長期記憶付きチャットボット」をゼロから実装する方法を紹介します。\n最初はシンプルに「全会話履歴をそのままLLMに渡す」素朴な実装からスタートし、その問題点を実際に確認しながら、RAG（Retrieval-Augmented Generation）とChromaDBを使って段階的に改善していきます。最終的には、会話がどれだ",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYzNTE3MzMyJTJGZWRiY2M1NzBkOGNiMjRiYzI5NGYxYzdlNGM2NTNhNTNiNDI3NmRkOCUyRnhfbGFyZ2UucG5nJTNGMTY4OTkwOTU1NT9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9Y2I1NzYxYzNhMTJiZTRjOGFmNzJiNjI1Njc5MThmZWU%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Dcd5201c890e96bdbaecf6fd0c9aa6f6d?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJTkwJUU1JUFFJThDJUU1JTg1JUE4JUUzJTgzJUFEJUUzJTgzJUJDJUUzJTgyJUFCJUUzJTgzJUFCJUUzJTgwJTkxQUklRTMlODElQUIlRTglQTglOTglRTYlODYlQjYlRTMlODIlOTIlRTYlOEMlODElRTMlODElOUYlRTMlODElOUIlRTMlODIlOEI1JUUzJTgyJUI5JUUzJTgzJTg2JUUzJTgzJTgzJUUzJTgzJTk3JTIwJUUyJTgwJTk0JTIwT2xsYW1hJUMzJTk3UkFHJUUzJTgxJUE3JUUzJTgxJUE0JUUzJTgxJThGJUUzJTgyJThCJUU5JTk1JUI3JUU2JTlDJTlGJUU4JUE4JTk4JUU2JTg2JUI2JUUzJTgzJTgxJUUzJTgzJUEzJUUzJTgzJTgzJUUzJTgzJTg4JUUzJTgzJTlDJUUzJTgzJTgzJUUzJTgzJTg4JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9ZDYwMzc4YTc3NmU1MTE5MWJlMDNiNDMxN2UwMTg0YTY&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBoYXRzdWthemUmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1hNGU4YjliMzI0M2I0NDY0ZTViMzgwYzI5NjU5OWY4OQ&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=cdb89ef0184c9489e158e3529c5fc282",
+    "fetched_at": "2026-06-21 01:59:35",
+    "ja_summary": "・ローカル環境で「長期記憶を持つAIチャットボット」を構築する手法を解説。\n・全会話履歴を渡す手法から、RAGとChromaDBを活用した効率的な手法へ段階的に改善。\n・プライバシーを保ちつつ、AIに過去の文脈を理解させる実装ノウハウを5ステップで紹介。"
+  },
+  {
+    "title": "AI時代、「作れる」より「何を作るか」が面白くなってきた",
+    "link": "https://qiita.com/muu3/items/19f39c1f113830e3d902",
+    "source": "Qiita (Popular)",
+    "published": "2026-06-05T23:30:36+09:00",
+    "summary": "## はじめに\n\n私は現在、大型開発案件でエンジニア兼スクラムマスター（SM）として働いています。\n先日、チームの開発者と話していたときにこんな声が上がりました。\n\n> PBI管理が面倒すぎるｗ辞めたいｗ\n> AI駆動開発ならアジャイルよりウォーターフォールの方が相性良くない？\n> SlackでPOと会話しながら、そのまま設計・実装まで進めたい\n\n最初に聞いたときの感想は、\n「たしかに、めっちゃ分",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Ftech-festa-ogp-background-4b5015b2c518c7e6b9062a7c9f5f5e90.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYzOTMyNzcxJTJGYzBiZmUyOGZlYzBmODRlODExNzQxM2UzMTgzZTY4Y2RhMWY5Njc3ZSUyRnhfbGFyZ2UucG5nJTNGMTczMTMyMjQxND9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NWY5M2M3MmVkYWJmNTJhYjMyYWM3ZDM5NWZhZjJjZmE%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Ddd9e7e35b9fccde761712f0c524e05b5?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9QUklRTYlOTklODIlRTQlQkIlQTMlRTMlODAlODElRTMlODAlOEMlRTQlQkQlOUMlRTMlODIlOEMlRTMlODIlOEIlRTMlODAlOEQlRTMlODIlODglRTMlODIlOEElRTMlODAlOEMlRTQlQkQlOTUlRTMlODIlOTIlRTQlQkQlOUMlRTMlODIlOEIlRTMlODElOEIlRTMlODAlOEQlRTMlODElOEMlRTklOUQlQTIlRTclOTklQkQlRTMlODElOEYlRTMlODElQUElRTMlODElQTMlRTMlODElQTYlRTMlODElOEQlRTMlODElOUYmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyM0ZGRkZGRiZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz04NmZhZWRjYjE0ZWM2ZDEzN2IzMzMxY2MwMDcxMjFiNA&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBtdXUzJnR4dC1jb2xvcj0lMjNGRkZGRkYmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9Mzk5MTYwZjM4MzEzZjZmYmYyNGVlZTZhYmFlNjM2Zjc&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=8c52b98a851f13b1208bed3d175053ad",
+    "fetched_at": "2026-06-21 01:59:37",
+    "ja_summary": "・AIによるコーディング自動化で、開発手法はアジャイルよりウォーターフォールが適しているという意見が浮上。\n・「作る」ことの負荷が下がり、エンジニアの役割は「何を作るか（企画・設計）」の重要性へとシフト。\n・AI時代においては、開発プロセスの管理よりも、目的を明確にするスキルがより重要になっている。"
+  },
+  {
     "title": "日鉄、USスチール買収1年／オラクル、受注100兆円／利益追求（2026年6月18日版） (日経ビジネスAUDIOモーニング)",
     "link": "https://business.nikkei.com/atcl/audio/22/00001/061700899/",
     "source": "日経ビジネス 最新",
@@ -968,35 +998,5 @@
     "image": "https://res.cloudinary.com/zenn/image/upload/s--6CA6CieD--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E7%25A4%25BE%25E5%2586%2585MCP%25E3%2582%2592%2522%25E7%25B4%25A0%25E6%2597%25A9%25E3%2581%258F%25E5%25AE%2589%25E5%2585%25A8%25E3%2581%25AB%2522%25E5%25A2%2597%25E3%2582%2584%25E3%2581%2599%25E3%2581%259F%25E3%2582%2581%25E3%2581%25AB%25E3%2580%2581%25E3%2581%25A1%25E3%2582%2583%25E3%2582%2593%25E3%2581%25A8%25E3%2581%2597%25E3%2581%25A6%25E3%2581%258A%25E3%2581%258D%25E3%2581%259F%25E3%2581%2584%25E5%2585%25B1%25E9%2580%259A%25E5%259F%25BA%25E7%259B%25A4%25EF%25BC%2588%25E8%25AA%258D%25E8%25A8%25BC%25E3%2583%25BB%25E8%25AA%258D%25E5%258F%25AF%25E3%2583%25BB%25E3%2583%25AD%25E3%2582%25B0%25E3%2581%25AE%25E8%25A9%25B1%25EF%25BC%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:obiyuta%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2M2MmIxMmJjY2YuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:TRIBEAU%2520Tech%2520Blog%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzVjODU3NzQ2MWMuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
     "fetched_at": "2026-06-19 15:58:55",
     "ja_summary": "・社内システムをAIで活用するMCPサーバーを全社展開する際、安全・効率的な運用には共通基盤の整備が不可欠。\n・認証・認可・ログ管理を標準化することで、MCPを安全かつ迅速にスケールさせることが可能。\n・AI前提の業務再構築に向け、組織全体でMCPを安定運用するための土台作りのポイントを解説。"
-  },
-  {
-    "title": "Databricks発OSSのメタハーネス『Omnigent』を触ってみた！🪸⭐",
-    "link": "https://zenn.dev/nttdata_tech/articles/2fe14c8819557c",
-    "source": "Zenn Trends",
-    "published": "Wed, 17 Jun 2026 08:33:47 GMT",
-    "summary": "はじめに\nこんにちは、Databricksビジネス推進室の澁谷です。\nDatabricksのブログで紹介されていたOSS「Omnigent」が気になったので、実際にローカル環境で触ってみました。\nhttps://www.databricks.com/jp/blog/introducing-omnigent-meta-harness-combine-control-and-share-your-agents\nOmnigentは、Claude Code、Codex、自作エージェントなど、複数のAIエージェントをまとめて扱うための「メタハーネス」です。\n要するに、既存のハーネスやモデルで動...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--kuSaZBbm--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Databricks%25E7%2599%25BAOSS%25E3%2581%25AE%25E3%2583%25A1%25E3%2582%25BF%25E3%2583%258F%25E3%2583%25BC%25E3%2583%258D%25E3%2582%25B9%25E3%2580%258EOmnigent%25E3%2580%258F%25E3%2582%2592%25E8%25A7%25A6%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%25EF%25BC%2581%2520%2520%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Yurika%2520Shibuya%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2Q1ZjRhYzE4MTIuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:NTT%2520DATA%2520TECH%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2Y0ZjViODY2MDAuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "fetched_at": "2026-06-19 15:58:56",
-    "ja_summary": "・Databricksが公開したOSS「Omnigent」は、複数のAIエージェントを統合管理・制御するためのメタハーネス。\n・Claude Codeや各種モデルなど、異なるエージェントを一つの環境で柔軟に連携・実行できる。\n・AIエージェントの運用を効率化し、開発者がツールを横断して活用しやすくするフレームワーク。"
-  },
-  {
-    "title": "コロッケそばAgentが名古屋の猛暑からあなたを守る機能仕様",
-    "link": "https://speakerdeck.com/happysamurai294/korotukesobaagentgaming-gu-wu-nomeng-shu-karaanatawoshou-ruji-neng-shi-yang",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-06-19T00:13:53-04:00",
-    "summary": "名古屋市の気温を自律監視し、ロボホンと LINE を通じてユーザーへ通知する見守り AI エージェントの機能仕様書です。ローカル LLM（Ollama+Google Gema4:26b）& Hermes Agentを中核に、Human-in-the-Loop / Human-on-the-Loop による人間の関与と、エージェント自身による自己進化（skill 自動生成）を組み合わせた構成になっています。",
-    "image": "https://files.speakerdeck.com/presentations/f5fcc8e72dc14bcdb9f43dba40d3f910/preview_slide_0.jpg?39750672",
-    "fetched_at": "2026-06-19 15:58:57",
-    "ja_summary": "・名古屋の猛暑をAIが常時監視し、ロボホンとLINEで即座に危険を通知する見守りシステム。\n・ローカルLLMと自律型エージェントを核に、人間と連携しつつAIが自らスキルを生成・進化させる仕組みを構築。\n・高度な自動判断と学習機能を備え、暑さからユーザーを能動的に保護する仕様。"
-  },
-  {
-    "title": "生成 AI 実践ガイド (概略版) AIガバナンス編",
-    "link": "https://speakerdeck.com/asei/sheng-cheng-ai-shi-jian-gaido-gai-lue-ban-aigabanansubian",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-06-19T00:02:33-04:00",
-    "summary": "AIGA StandUp 登壇時の資料です",
-    "image": "https://files.speakerdeck.com/presentations/2d35b1a4cf4948cb84ea0c765f5e821e/preview_slide_0.jpg?39750631",
-    "fetched_at": "2026-06-19 15:58:57",
-    "ja_summary": "生成AI導入時に必須となるAIガバナンスの基本と実践指針を解説。\nリスク管理の枠組みや適正な運用体制の構築ポイントを網羅。\n実務で活用できるAI利活用のルール策定と安全な運用の手引き。"
   }
 ]
