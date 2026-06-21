@@ -1,5 +1,45 @@
 [
   {
+    "title": "「この写真を復元して」と入力するだけ、ChatGPTが過激な画像を生成する抜け穴が発覚",
+    "link": "https://japan.cnet.com/article/35249158/",
+    "source": "CNET Japan",
+    "published": "",
+    "summary": "「ChatGPT」が「この写真を復元して」というプロンプトによって、性的で生々しい暴力表現を含む画像を容易に生成していたことが分かった。AIサイバーセキュリティ・調査会社であるMindgardが報告書を公開した。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35249158/\"><img src=\"https://japan.cnet.com/storage/2026/06/19/2f69c7e1c9e263f278871bf1f2fe1bbb/t/184/138/d/chatgpt-openai-logo-gettyimages-2208674774_1280x960.jpg\" /></a>",
+    "image": "https://japan.cnet.com/storage/2026/06/19/2f69c7e1c9e263f278871bf1f2fe1bbb/t/184/138/d/chatgpt-openai-logo-gettyimages-2208674774_1280x960.jpg",
+    "fetched_at": "2026-06-21 16:27:15",
+    "ja_summary": "・「この写真を復元して」と入力するだけで、ChatGPTが性的・暴力的な画像を生成する脆弱性が判明。\n・AIセキュリティ企業Mindgardが報告し、本来の安全制限が回避される仕様が浮き彫りとなった。"
+  },
+  {
+    "title": "Anthropicの「Claude Design」が進化、ブランドに沿ったコンテンツ制作が容易に",
+    "link": "https://japan.cnet.com/article/35249086/",
+    "source": "CNET Japan",
+    "published": "",
+    "summary": "Anthropicが「Claude Design」のアップデートを発表した。自社のブランドガイドラインに沿ったAIコンテンツの制作を容易にするものだ。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35249086/\"><img src=\"https://japan.cnet.com/storage/2025/09/10/c390a3f6fc0736afdf6da2ce68be99bd/t/184/138/d/claude-3_1280x960.jpg\" /></a>",
+    "image": "https://japan.cnet.com/storage/2025/09/10/c390a3f6fc0736afdf6da2ce68be99bd/t/184/138/d/claude-3_1280x960.jpg",
+    "fetched_at": "2026-06-21 16:27:15",
+    "ja_summary": "Anthropicの「Claude Design」が進化し、自社のブランドガイドラインに沿ったコンテンツ制作がより簡単になりました。\nブランドのトーンやスタイルを維持した高品質な文章作成をAIが強力にサポートします。\nビジネス現場での一貫した情報発信と、コンテンツ作成の効率化が同時に実現可能です。"
+  },
+  {
+    "title": "Claude Desktop の Cowork を Amazon Bedrock 経由で Windows にセットアップ",
+    "link": "https://zenn.dev/aws_japan/articles/claude-cowork-on-bedrock-windows-setup",
+    "source": "Zenn Trends",
+    "published": "Sat, 20 Jun 2026 07:44:06 GMT",
+    "summary": "はじめに\nこんにちは！ AWS でソリューションアーキテクトをしている齋藤 拓巳です。\nClaude Desktop は、Anthropic が提供するデスクトップアプリケーションです。Cowork（エージェント機能）や Claude Code（コーディング支援）を GUI 上で利用できます。\nこの記事では、Claude Desktop の Cowork 機能を Amazon Bedrock 経由で Windows にセットアップする 手順をご紹介します。\n作業は 2 つの役割に分かれます。\n\n\nAWS 管理者: IAM リソースの作成と API Key の払い出し、利用者への共有\n...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--Skbdj7xX--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Desktop%2520%25E3%2581%25AE%2520Cowork%2520%25E3%2582%2592%2520Amazon%2520Bedrock%2520%25E7%25B5%258C%25E7%2594%25B1%25E3%2581%25A7%2520Windows%2520%25E3%2581%25AB%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588%25E3%2582%25A2%25E3%2583%2583%25E3%2583%2597%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Takumi%2520Saito%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzZmZTY2NGI3N2IuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2582%25A2%25E3%2583%259E%25E3%2582%25BE%25E3%2583%25B3%2520%25E3%2582%25A6%25E3%2582%25A7%25E3%2583%2596%2520%25E3%2582%25B5%25E3%2583%25BC%25E3%2583%2593%25E3%2582%25B9%2520%25E3%2582%25B8%25E3%2583%25A3%25E3%2583%2591%25E3%2583%25B3%2520%2528%25E6%259C%2589%25E5%25BF%2597%2529%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly96ZW5uLWRldi5naXRodWIuaW8vZGVmYXVsdC1hdmF0YXJzL2Rhcmsvbi5wbmc=%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-06-21 16:27:48",
+    "ja_summary": "・Claude Desktopの「Cowork」機能を、AWSのAmazon Bedrock経由でWindows環境に導入する手順を解説。\n・AWS管理者によるIAM設定とAPIキー発行を経て、利用者側がアプリへ接続する流れを説明。\n・GUI上でエージェント機能やコーディング支援を安全に活用するためのセットアップガイド。"
+  },
+  {
+    "title": "AIエージェントのトークン代を節約する CLAUDE.md と copilot-instructions.md 実践ガイド  AIエージェントでは毎ターン何が起きているのか",
+    "link": "https://qiita.com/shinkai_/items/8f88307b7cb13b748e57",
+    "source": "Qiita (Popular)",
+    "published": "2026-06-08T08:17:13+09:00",
+    "summary": "CLAUDE.md や copilot-instructions.md は、AIエージェントに「このプロジェクトのルールを最初から教える」ためのファイルです。\n一度書いたら終わり、という扱いをしている人が多いと思いますが、実はこれが **毎ターン・毎リクエストにしれっとコンテキストへ乗り続ける** という性質を持っています。\n\nここを正しく整備すれば、「設計書→コード」「コード→設計書」という重た",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Ftech-festa-ogp-background-4b5015b2c518c7e6b9062a7c9f5f5e90.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYxMjAzMDIyJTJGMGIxMTAwMjI1ZTY5ZmU3YzVkZWYxYzFlNDVlNzk5M2M3MjU0MTU4MyUyRnhfbGFyZ2UucG5nJTNGMTY3MDk5NjkzMj9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9ZGZiNzlkYTk4ZTljMjBiMmQ1MzhmOTNiNDhjN2UyYWI%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D544a40a92d09585955e91b571bfa7e7f?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9QUklRTMlODIlQTglRTMlODMlQkMlRTMlODIlQjglRTMlODIlQTclRTMlODMlQjMlRTMlODMlODglRTMlODElQUUlRTMlODMlODglRTMlODMlQkMlRTMlODIlQUYlRTMlODMlQjMlRTQlQkIlQTMlRTMlODIlOTIlRTclQUYlODAlRTclQjQlODQlRTMlODElOTklRTMlODIlOEIlMjBDTEFVREUubWQlMjAlRTMlODElQTglMjBjb3BpbG90LWluc3RydWN0aW9ucy5tZCUyMCVFNSVBRSU5RiVFOCVCNyVCNSVFMyU4MiVBQyVFMyU4MiVBNCVFMyU4MyU4OSUyMCUyMEFJJUUzJTgyJUE4JUUzJTgzJUJDJUUyJTgwJUE2JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjNGRkZGRkYmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9ZjhhMjZjZDFmMmFhM2FiZDExY2RjYTZkNzg0M2U1ZTE&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBzaGlua2FpXyZ0eHQtY29sb3I9JTIzRkZGRkZGJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTNhZTI4MTQ1ZDAzZjliYWM0MmZiMTg0N2U0YmE4NGEy&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=49fa23c3275030a22178482ce66f932f",
+    "fetched_at": "2026-06-21 16:27:54",
+    "ja_summary": "・「CLAUDE.md」等の指示書は全ターンで読み込まれるため、内容が過剰だとトークン代が膨らむ。\n・指示を最適化・整理することで、AIの精度を維持したまま余分なコストを大幅に削減できる。\n・プロジェクトの性質に合わせ、AIへの指示内容を適宜見直すことがコスト抑制の鍵となる。"
+  },
+  {
     "title": "Gemini搭載「Google Home スピーカー」登場、1万6800円で予約開始",
     "link": "https://japan.cnet.com/article/35249076/",
     "source": "CNET Japan",
@@ -958,45 +998,5 @@
     "image": "https://japan.cnet.com/storage/2026/06/18/3a60c19d837779c7557be70e5d90477b/t/184/138/d/claude-4.jpeg",
     "fetched_at": "2026-06-19 20:22:37",
     "ja_summary": "・生成AI「Claude」で大規模なシステム障害が発生した。\n・ユーザーから利用不可との報告が相次いだが、現在は復旧済み。"
-  },
-  {
-    "title": "25歳が見た｢AI✕介護｣の現在。実は「6300万人が家族を介護」…アメリカで進行する深刻な高齢化",
-    "link": "https://www.businessinsider.jp/article/2606-ai-tech-aging-older-americans-conference-takeaways/",
-    "source": "Business Insider Japan",
-    "published": "Fri, 19 Jun 2026 10:00:00 GMT",
-    "summary": "高齢化問題に直面するアメリカでは、AIやロボティクスなど先端テクノロジーを介護にどう活用しているのでしょうか。米最大級の高齢化関連会議を取材しました。",
-    "image": "https://media.loom-app.com/loom/2026/05/05/451433bb-4187-4f27-97d3-6da9292828bf/original.jpg?w=1200&amp;h=630",
-    "fetched_at": "2026-06-19 20:22:38",
-    "ja_summary": "・アメリカの深刻な高齢化に伴い、6300万人が家族介護を担う事態に直面している。\n・高齢化問題の解決策として、AIやロボット等の先端技術の活用が急速に進んでいる。\n・米最大級の会議から、介護の現場にテクノロジーを導入する最新動向を報告。"
-  },
-  {
-    "title": "AIトレードは、最新の60/40ポートフォリオの「軸」となる――。アポロのチーフエコノミストは語る",
-    "link": "https://www.businessinsider.jp/article/2606-ai-trade-60-40-portfolio-stock-market-bonds-torsten-slok/",
-    "source": "Business Insider Japan",
-    "published": "Fri, 19 Jun 2026 07:15:00 GMT",
-    "summary": "AIの時代において、株式や債券がますますこの技術の影響を受けるようになっています。そのため、60対40のポートフォリオの見直しが必要だと、トルステン・スローク氏は述べています。",
-    "image": "https://media.loom-app.com/loom/2026/06/19/4ef19bc9-83f5-4cbd-8f89-03a0001a87db/original.jpg?w=1200&amp;h=630",
-    "fetched_at": "2026-06-19 20:22:40",
-    "ja_summary": "・AIの影響で株式と債券の相関性が変化しており、従来の「60対40」の資産配分は見直しが必要。\n・今後はAI活用によるトレード戦略をポートフォリオの新たな「軸」に据えるべき。\n・投資環境の変化に適応するため、従来型の運用手法をアップデートする時期に来ている。"
-  },
-  {
-    "title": "ChatGPTに定期タスク実行の新機能「スケジュール」、入荷確認や毎朝のまとめを自動化して通知　使い方はかんたん",
-    "link": "https://www.techno-edge.net/article/2026/06/19/5205.html",
-    "source": "TechnoEdge",
-    "published": "Fri, 19 Jun 2026 17:33:43 +0900",
-    "summary": "OpenAI が ChatGPT に新機能「タスク」(Scheduled Tasks)を追加しました。現在 iOS / Android モバイルアプリとWeb版、macOSアプリで利用可能です。",
-    "image": "https://www.techno-edge.net/imgs/rss/32423.jpg",
-    "fetched_at": "2026-06-19 20:22:47",
-    "ja_summary": "・ChatGPTに「スケジュール」機能が追加され、タスクの自動実行が可能に。\n・入荷確認や毎朝の要約作成などを、指定した日時に自動で行える。\n・iOS、Android、Web、macOSの各プラットフォームで利用開始。"
-  },
-  {
-    "title": "デザインシステムのskillの精度が上がった8つの方法",
-    "link": "https://zenn.dev/pksha/articles/7a7db5c105f396",
-    "source": "Zenn Trends",
-    "published": "Thu, 18 Jun 2026 07:22:12 GMT",
-    "summary": "初めまして！PKSHA Technology デザイナーの清水と申します。普段はデザイナーとしてXで発信しているのですが、今日は人生で初めてテックブログを書いてみたので、よければご覧ください。（この記事は、デザイントークンを扱うデザイナー・エンジニアを主な対象にしていますが、AI にデザイン実装を任せてみたいという方にも読んでいただけるよう、専門用語には適宜補足を入れています。）\nテックブログの内容としては、同じファイルを色んなデザイントークンの skill を使ってひたすら改善し、その中で良かった方法を8つご紹介します。サンプル数はまだ少なく精緻な情報ではないので、そこだけご容赦くださ...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--uhulKJFV--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2587%25E3%2582%25B6%25E3%2582%25A4%25E3%2583%25B3%25E3%2582%25B7%25E3%2582%25B9%25E3%2583%2586%25E3%2583%25A0%25E3%2581%25AEskill%25E3%2581%25AE%25E7%25B2%25BE%25E5%25BA%25A6%25E3%2581%258C%25E4%25B8%258A%25E3%2581%258C%25E3%2581%25A3%25E3%2581%259F8%25E3%2581%25A4%25E3%2581%25AE%25E6%2596%25B9%25E6%25B3%2595%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E6%25B8%2585%25E6%25B0%25B4%25E3%2581%25AF%25E3%2582%258B%25E3%2581%258B%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzJlOTZhNTRiYWMuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:PKSHA%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2520%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2VlZjI1MDMxOTIuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "fetched_at": "2026-06-19 20:23:05",
-    "ja_summary": "・デザイントークンを活用したデザインシステム改善の知見を8つ紹介。\n・AIによるデザイン実装に関心がある人にも役立つ内容。\n・実戦的な改善プロセスを通じ、効率的な設計手法を提示。"
   }
 ]
