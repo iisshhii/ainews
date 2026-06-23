@@ -1,5 +1,65 @@
 [
   {
+    "title": "サムスン電子、韓国の全社員と世界のDX部門に「ChatGPT Enterprise」「Codex」を展開へ",
+    "link": "https://japan.cnet.com/article/35249228/",
+    "source": "CNET Japan",
+    "published": "",
+    "summary": "OpenAIは、同社のAIツールである「ChatGPT Enterprise」と「Codex」を韓国のサムスン電子が大規模に導入すると発表した。OpenAIにとって過去最大級の企業向け展開の1つだという。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35249228/\"><img src=\"https://japan.cnet.com/storage/2025/04/08/f4bed2ae65276e52af9c5d13edccbd6b/t/184/138/d/chatgpt-00000_1280x960.jpg\" /></a>",
+    "image": "https://japan.cnet.com/storage/2025/04/08/f4bed2ae65276e52af9c5d13edccbd6b/t/184/138/d/chatgpt-00000_1280x960.jpg",
+    "fetched_at": "2026-06-23 23:30:51",
+    "ja_summary": "サムスン電子がOpenAIの「ChatGPT Enterprise」と「Codex」を全社的に導入する。\n韓国の全社員および世界のDX部門を対象とした、OpenAIにとって過去最大級の企業導入事例となる。\n業務効率化と開発力の強化を目的に、AI活用を大規模に推進する。"
+  },
+  {
+    "title": "Introducing Claude Corps",
+    "link": "https://www.anthropic.com/news/claude-corps",
+    "source": "Anthropic (News)",
+    "published": "Thu, 11 Jun 2026 00:00:00 +0000",
+    "summary": "Introducing Claude Corps",
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/eb5d94573805e24cb381cd0676527cfada75c177-3840x2160.jpg",
+    "fetched_at": "2026-06-23 23:31:17",
+    "ja_summary": "Anthropic社が、企業向けに特化した新AIサービス「Claude Corps」を発表。\n業務効率化とセキュリティを強化し、企業のAI活用を支援するソリューション。\n組織内での生産性向上と、安全なAI導入を加速させることを目的としている。"
+  },
+  {
+    "title": "アプリエンジニアのためのAWS Blocksハンズオン",
+    "link": "https://zenn.dev/ppgm/books/aws-blocks-mini-support-desk",
+    "source": "Zenn Trends",
+    "published": "Mon, 22 Jun 2026 15:26:02 GMT",
+    "summary": "AWS Blocks を使って、Cognito 認証・Database・FileBucket・Observability・AsyncJob・CronJob・EmailClient・CDK layer（SQS / Step Functions / CloudWatch）・Pipeline・Bedrock RAG（KnowledgeBase / Agent）を段階的に学ぶ TypeScript ハンズオンです。ローカルモックだけで動かせます。",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--IlhwPRjY--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYm9va19jb3Zlci9jOTEyMWY4YzNkLnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg?_a=BACMTiAE",
+    "fetched_at": "2026-06-23 23:31:17",
+    "ja_summary": "AWSの主要機能や開発環境をTypeScriptで体系的に学べる実践ハンズオン。\n認証からAI基盤まで10以上の機能を網羅し、ローカル環境のみで完結。\nクラウド開発を効率的に習得したいエンジニア向けの学習プログラム。"
+  },
+  {
+    "title": "事業会社における 機械学習・推薦システム技術の活用事例と必要な能力 / ml-recsys-in-layerx-wantedly-2026",
+    "link": "https://speakerdeck.com/yuya4/ml-recsys-in-layerx-wantedly-2026",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-06-23T08:24:27-04:00",
+    "summary": "2026年06月23日 の兵庫県立大学の講義「社会データ分析」における講演資料です。\n\n機械学習や推薦システムなどのAI技術が事業会社におけるプロダクト開発でどのように活用されているのか、データサイエンティストや機械学習エンジニアという職種の人間は具体的にどのように実践しているのか、LayerXのバクラク請求書やウォンテッドリーのWantedly Visit の例を使って紹介しました。",
+    "image": "https://files.speakerdeck.com/presentations/3596d9bcc68d447f9457a2c77cef3ac8/preview_slide_0.jpg?39792785",
+    "fetched_at": "2026-06-23 23:31:19",
+    "ja_summary": "事業会社における機械学習・推薦システムの活用事例と、現場で求められる実践的なスキルを解説。\nLayerXの請求書処理やWantedlyの求人マッチングを具体例に、プロダクト開発への実装プロセスを詳述。\nデータサイエンティストや機械学習エンジニアがビジネス価値を創出するために必要な能力を整理。"
+  },
+  {
+    "title": "【AI駆動開発】AIに「図を描いて」と頼むと“それっぽいけど使えない図”が出てくる問題を、draw.io生成スキルで倒した",
+    "link": "https://qiita.com/enomoso_pm/items/68d1a29728e5ee339779",
+    "source": "Qiita (Popular)",
+    "published": "2026-06-18T02:16:47+09:00",
+    "summary": "## はじめに\n\n受託開発やSESの現場にいると、**とにかく「図」を作る場面が多い**んですよね。\n\n業務フロー図、システム構成図、ER図、シーケンス図、画面遷移図、体制図、CI/CDパイプライン……。設計書のページをめくるたびに図、図、図。しかもこれ、お客様に出す資料だったりするので、雑には作れません。\n\n「じゃあAIに描かせればいいじゃん」と思うじゃないですか。僕もそう思ってました。\n\nでも",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGNDE5NzQyOCUyRnByb2ZpbGUtaW1hZ2VzJTJGMTc2MTc1ODE5Mz9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NzE3YWRkZWFiMTZjNWMzYTgxMzU1OTM5NjYwNDg0NGU%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D4ec77b39af33aa7e840bf906b087cb5b?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJTkwQUklRTklQTclODYlRTUlOEIlOTUlRTklOTYlOEIlRTclOTklQkElRTMlODAlOTFBSSVFMyU4MSVBQiVFMyU4MCU4QyVFNSU5QiVCMyVFMyU4MiU5MiVFNiU4RiU4RiVFMyU4MSU4NCVFMyU4MSVBNiVFMyU4MCU4RCVFMyU4MSVBOCVFOSVBMCVCQyVFMyU4MiU4MCVFMyU4MSVBOCVFMiU4MCU5QyVFMyU4MSU5RCVFMyU4MiU4QyVFMyU4MSVBMyVFMyU4MSVCRCVFMyU4MSU4NCVFMyU4MSU5MSVFMyU4MSVBOSVFNCVCRCVCRiVFMyU4MSU4OCVFMyU4MSVBQSVFMyU4MSU4NCVFNSU5QiVCMyVFMiU4MCU5RCVFMyU4MSU4QyVFNSU4NyVCQSVFMyU4MSVBNiVFMyU4MSU4RiVFMyU4MiU4QiVFNSU5NSU4RiVFOSVBMSU4QyVFMyU4MiU5MiVFMyU4MCU4MWRyYXcuaW8lRTclOTQlOUYlRTYlODglOTAlRTIlODAlQTYmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1lZDEyMDY4NTU5YTM3NzYzNjEyNmEzMzk4NDRjYjFmZA&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBlbm9tb3NvX3BtJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9N2YzYjgxMTVhOGE4MjVkMjMzMGY3NzA5YTdkNTFkNTc&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=5d5ae79157c38f6c5ba8cd5e15df5f49",
+    "fetched_at": "2026-06-23 23:31:22",
+    "ja_summary": "・AI生成の図は「見た目は良いが実用性が低い」という課題がある。\n・draw.io形式のコード生成スキルを活用することで、修正可能な実用的図面を作成可能。\n・図解作成の手間をAIで効率化しつつ、品質と修正の容易さを両立させる手法。"
+  },
+  {
+    "title": "【完全ローカル】AIに記憶を持たせる5ステップ — Ollama×RAGでつくる長期記憶チャットボット",
+    "link": "https://qiita.com/hatsukaze/items/192403c9ff6a433fe0b6",
+    "source": "Qiita (Popular)",
+    "published": "2026-06-15T18:21:46+09:00",
+    "summary": "## はじめに\n\nこんにちは。開発部の雨です。\n\n今回は、ローカル環境で動く「長期記憶付きチャットボット」をゼロから実装する方法を紹介します。\n最初はシンプルに「全会話履歴をそのままLLMに渡す」素朴な実装からスタートし、その問題点を実際に確認しながら、RAG（Retrieval-Augmented Generation）とChromaDBを使って段階的に改善していきます。最終的には、会話がどれだ",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYzNTE3MzMyJTJGZWRiY2M1NzBkOGNiMjRiYzI5NGYxYzdlNGM2NTNhNTNiNDI3NmRkOCUyRnhfbGFyZ2UucG5nJTNGMTY4OTkwOTU1NT9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9Y2I1NzYxYzNhMTJiZTRjOGFmNzJiNjI1Njc5MThmZWU%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Dcd5201c890e96bdbaecf6fd0c9aa6f6d?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJTkwJUU1JUFFJThDJUU1JTg1JUE4JUUzJTgzJUFEJUUzJTgzJUJDJUUzJTgyJUFCJUUzJTgzJUFCJUUzJTgwJTkxQUklRTMlODElQUIlRTglQTglOTglRTYlODYlQjYlRTMlODIlOTIlRTYlOEMlODElRTMlODElOUYlRTMlODElOUIlRTMlODIlOEI1JUUzJTgyJUI5JUUzJTgzJTg2JUUzJTgzJTgzJUUzJTgzJTk3JTIwJUUyJTgwJTk0JTIwT2xsYW1hJUMzJTk3UkFHJUUzJTgxJUE3JUUzJTgxJUE0JUUzJTgxJThGJUUzJTgyJThCJUU5JTk1JUI3JUU2JTlDJTlGJUU4JUE4JTk4JUU2JTg2JUI2JUUzJTgzJTgxJUUzJTgzJUEzJUUzJTgzJTgzJUUzJTgzJTg4JUUzJTgzJTlDJUUzJTgzJTgzJUUzJTgzJTg4JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9ZDYwMzc4YTc3NmU1MTE5MWJlMDNiNDMxN2UwMTg0YTY&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBoYXRzdWthemUmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1hNGU4YjliMzI0M2I0NDY0ZTViMzgwYzI5NjU5OWY4OQ&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=cdb89ef0184c9489e158e3529c5fc282",
+    "fetched_at": "2026-06-23 23:31:23",
+    "ja_summary": "・ローカル環境でLLMに長期記憶を持たせるチャットボットの実装方法を解説。\n・全会話履歴を渡す手法の限界を指摘し、RAGとChromaDBによる段階的な改善手法を紹介。\n・構築プロセスを5ステップで体系化し、実用的な記憶保持システムを構築可能にする。"
+  },
+  {
     "title": "マネックス、資産分析「MONEX VISION」にAI活用のパーソナルアドバイス",
     "link": "https://www.watch.impress.co.jp/docs/news/2119420.html",
     "source": "Impress Watch",
@@ -938,65 +998,5 @@
     "image": "https://res.cloudinary.com/zenn/image/upload/s--Y-WMnLZl--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%2520%25E3%2581%25AB%25E3%2580%258C7%25E4%25BA%25BA%25E3%2581%25AE%25E6%2584%258F%25E5%259C%25B0%25E6%2582%25AA%25E3%2581%25AAQA%25E3%2580%258D%25E3%2582%2592%25E4%25BB%2595%25E8%25BE%25BC%25E3%2582%2593%25E3%2581%25A7%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E3%2582%25B1%25E3%2583%25BC%25E3%2582%25B9%25E3%2581%25AE%25E8%25A6%25B3%25E7%2582%25B9%25E6%25BC%258F%25E3%2582%258C%25E3%2582%2592%25E6%25BD%25B0%25E3%2581%2597%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Ayaka%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2U0ZGE2N2U3OWYuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Nexta%2520Tech%2520Blog%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzExNzEwZWE5ZmUuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
     "fetched_at": "2026-06-23 01:01:19",
     "ja_summary": "AIによるテストケース作成で生じる「観点の偏り」や「品質のバラつき」を解消するため、あえて「意地悪なQA」という特定の役割をAIに付与する手法を導入。\n役割を定義してAI（Claude Code）に指示することで、テストの抜け漏れを防ぎ、AI作成のテストケースの質を均一化することに成功した。"
-  },
-  {
-    "title": "2026年5月のIMEに関するできごと",
-    "link": "https://zenn.dev/komatsuh/articles/komatsuh_ime_news_2026_05",
-    "source": "Zenn Trends",
-    "published": "Sun, 21 Jun 2026 15:30:00 GMT",
-    "summary": "初稿: 2026-06-22\n小松弘幸 (@komatsuh:bsky, @komatsuh:twitter)\n\n2026年4月分\n\n\n 主なニュース\n\n Colipot Keyboard が機能更新\nCopilot Keyboard が大型アップデート。辞書のインポート/エクスポート、日付入力などを追加\n\nCopilot Keyboard — GA 後はじめての大型アップデートをお届けします - Windows Blog for Japan\n\nhttps://blogs.windows.com/japan/2026/05/29/copilot-keyboard-ga-後はじめての大型ア...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--I4SU4iPE--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:2026%25E5%25B9%25B45%25E6%259C%2588%25E3%2581%25AEIME%25E3%2581%25AB%25E9%2596%25A2%25E3%2581%2599%25E3%2582%258B%25E3%2581%25A7%25E3%2581%258D%25E3%2581%2594%25E3%2581%25A8%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Hiroyuki%2520Komatsu%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2RjYTQ4NTllODguanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "fetched_at": "2026-06-23 01:01:19",
-    "ja_summary": "・Copilot Keyboardが正式リリース後初の大型アップデートを実施。\n・辞書のインポート/エクスポート機能や、日付入力機能が新たに追加。"
-  },
-  {
-    "title": "「成長しなければ」と焦る若手、「パワハラ」におびえる上司　すれ違いの実態",
-    "link": "https://www.itmedia.co.jp/business/articles/2606/22/news130.html",
-    "source": "ITmedia ビジネス",
-    "published": "Mon, 22 Jun 2026 17:45:00 +0900",
-    "summary": "AIの進化と不確実な時代を背景に、若手社員の間で「成長しなければ生き残れない」という焦りが強まっている。一方、上司はパワハラへの懸念から指導に踏み込めない。離職実態調査から見えた、育成現場の深刻なギャップを追った。",
-    "image": "https://image.itmedia.co.jp/business/articles/2606/22/cover_news130.png",
-    "fetched_at": "2026-06-22 20:13:06",
-    "ja_summary": "若手は「成長への焦り」を抱き、上司は「パワハラ懸念」で指導を控える職場環境が広がっている。\n互いの意識にズレが生じ、育成が機能しない深刻なギャップが離職の要因となっている。\n不確実な時代において、指導の在り方とコミュニケーションの再構築が急務である。"
-  },
-  {
-    "title": "「仕事のための仕事」を撲滅せよ　95％失敗するAI導入、Notionが語る「レベル2の壁」とは？",
-    "link": "https://www.itmedia.co.jp/business/articles/2606/22/news132.html",
-    "source": "ITmedia ビジネス",
-    "published": "Mon, 22 Jun 2026 17:14:00 +0900",
-    "summary": "エンタープライズAI導入の95％が失敗する理由とは？　Notionが提唱する「AI駆動型イノベーション」を解説。情報検索などの「仕事のための仕事」をAIに任せ、全社員が便利さを即実感する「レベル2」の突破法と実践事例に迫る。",
-    "image": "https://image.itmedia.co.jp/business/articles/2606/22/cover_news132.png",
-    "fetched_at": "2026-06-22 20:13:06",
-    "ja_summary": "・企業のAI導入が失敗する最大の要因は、AIが「仕事のための仕事（事務作業）」を解決できていない点にある。\n・Notionは、AIに情報検索などの定型業務を任せ、全社員が恩恵を即実感できる状態を「レベル2」と定義。\n・単なるツール導入ではなく、現場の生産性を底上げする「AI駆動型イノベーション」への転換が成功の鍵。"
-  },
-  {
-    "title": "「AIの明るい未来」を語るグーグル元CEOに米大学生が激怒した理由 (AIリーダーズ)",
-    "link": "https://business.nikkei.com/atcl/gen/19/00711/061900033/",
-    "source": "日経ビジネス 最新",
-    "published": "",
-    "summary": "AI（人工知能）が仕事を奪う──。そんな不安を抱く米国の大学生たちが怒りをあらわにした。背景にはAIによってキャリアの「入り口」が消えつつあるという切実な危機感がある。コンサルティング会社やIT企業のエントリーレベルの求人が減少する中、「AIはチャンスだ」と説く側と、「現実は全く違う」と憤る若者たちの断絶を追った。",
-    "image": "https://business.nikkei.com/atcl/gen/19/00711/061900033/fb.jpg",
-    "fetched_at": "2026-06-22 20:13:09",
-    "ja_summary": "AIによる求人減少でキャリアの入り口を失う米国の学生が、楽観論を説くAI識者に猛反発している。\n若年層にとってAIは「雇用の機会」ではなく「職を奪う脅威」として切実に捉えられている。\nAI推進を語るリーダー層と、現実の就職難に直面する若者との間で認識の大きな断絶が生じている。"
-  },
-  {
-    "title": "ファミマと楽天がポイント還元で連携　データとAIの活用も視野に (日経クロステック)",
-    "link": "https://business.nikkei.com/atcl/gen/19/00297/060100287/",
-    "source": "日経ビジネス 最新",
-    "published": "",
-    "summary": "「楽天市場」のポイント還元率を引き上げるプログラム「SPU」に、ファミリーマートが参加します。ファミリーマートと楽天グループは以前から協力関係にあります。今回の連携が、より踏み込んだ取り組みに進展する可能性はあるのでしょうか。",
-    "image": "https://business.nikkei.com/atcl/gen/19/00297/060100287/fb.jpg",
-    "fetched_at": "2026-06-22 20:13:10",
-    "ja_summary": "・ファミリーマートが楽天のポイント還元プログラム「SPU」に参加。\n・両社の連携強化により、楽天ポイントの利便性と経済圏が拡大。\n・将来的にはデータやAIを活用した新たな販促施策の展開も視野。"
-  },
-  {
-    "title": "人月商売のIT業界がついに死滅する、たった3カ月で誰の目にも明らかに",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00148/061700440/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "「生成AI（人工知能）にとっての未来とは3カ月後のことだ」と誰かが言っていたが、まさにその通りだと思うよ。3カ月前にはまだ、生成AIがSIerらの人月商売を滅ぼすとまでは言えなかったが、今ではSIerからも「人月商売はもう終わり」との声が聞こえてくるようになったからね。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/00148/061700440/topm.jpg?20220512",
-    "fetched_at": "2026-06-22 20:13:14",
-    "ja_summary": "生成AIの急速な進化により、IT業界の根幹である「人月商売」が崩壊の危機に直面している。\nSIer業界内部からもビジネスモデルの限界を認める声が上がり、市場構造の転換が不可避となっている。\n短期間で状況が激変した今、従来の受託開発モデルは終焉を迎えつつある。"
   }
 ]
