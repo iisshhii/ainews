@@ -1,5 +1,145 @@
 [
   {
+    "title": "「最初は壊れ過ぎてビビった」──1220億円投じたソフトバンク「AIスパコン」、それでもNVIDIAのGPUを選ぶワケ",
+    "link": "https://www.itmedia.co.jp/business/articles/2606/24/news059.html",
+    "source": "ITmedia ビジネス",
+    "published": "Wed, 24 Jun 2026 07:00:00 +0900",
+    "summary": "AIブームの波に乗って時価総額世界1位に躍り出たNVIDIA。一体なぜ、AIインフラにNVIDIA製GPUが採用されるのか。その理由をAIスパコン開発者に聞いた。",
+    "image": "https://image.itmedia.co.jp/business/articles/2606/24/cover_news059.jpg",
+    "fetched_at": "2026-06-24 07:36:43",
+    "ja_summary": "・ソフトバンクが1220億円を投じるAIスパコンに、NVIDIA製GPUを採用し続ける理由は圧倒的な性能と信頼性にある。\n・開発現場では当初の扱いにくさに苦戦しつつも、現状では代替不可能なエコシステムと高度な演算能力が選定の決め手となっている。\n・AIインフラの構築において、NVIDIAの技術優位性が他社を突き放す重要な鍵となっている。"
+  },
+  {
+    "title": "「賞金1000万円」コンテストに「AI番付」　サイバーエージェントが明かす、AIを使い倒させる仕組み作り",
+    "link": "https://www.itmedia.co.jp/business/articles/2606/24/news027.html",
+    "source": "ITmedia ビジネス",
+    "published": "Wed, 24 Jun 2026 07:00:00 +0900",
+    "summary": "AI活用を一部の意欲的な社員にとどめず、組織全体の競争力へとつなげるには何が必要なのか。全社的にAI活用を進めているサイバーエージェント AIオペレーション室長の上野千紘氏と、フリー 常務執行役員の前村菜緒氏が語った。",
+    "image": "https://image.itmedia.co.jp/business/articles/2606/24/cover_news027.jpg",
+    "fetched_at": "2026-06-24 07:36:43",
+    "ja_summary": "サイバーエージェントは、全社的なAI活用の底上げを図るため、高額賞金や社内番付といった仕組みを導入している。\nAIを一部の先行者だけでなく組織全体の競争力に変えるための、意欲を高める環境作りと評価手法を解説。"
+  },
+  {
+    "title": "「AI活用100％」でも生産性は上がりきらない？　メルカリCTOが“人事”と“AI”のトップを兼任した狙い",
+    "link": "https://www.itmedia.co.jp/business/articles/2606/23/news023.html",
+    "source": "ITmedia ビジネス",
+    "published": "Tue, 23 Jun 2026 06:00:00 +0900",
+    "summary": "メルカリではCTO（最高技術責任者）の木村俊也氏が、CHRO（最高人事責任者）とCAIO（最高AI責任者）を兼任する体制がスタートした。背景には「生成AI活用」だけでは、生産性が上がり切らないのでは？　という木村氏の見立てがある。",
+    "image": "https://image.itmedia.co.jp/business/articles/2606/23/cover_news023.jpg",
+    "fetched_at": "2026-06-24 07:36:44",
+    "ja_summary": "・メルカリのCTOがCHROとCAIOを兼任し、技術・人事・AIの統括体制へ移行。\n・AI導入だけでは生産性に限界があると考え、組織や人材の変革を並行して推進。\n・テクノロジーと人事の両面から、真の生産性向上と全社的なAI活用を目指す。"
+  },
+  {
+    "title": "改定続く生成AI料金　エージェントで負担増",
+    "link": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/061700555/061700002/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "生成AI（人工知能）サービスの提供企業が相次いで利用料金を改定。AIエージェントや自動化用途を別枠で管理したり、定額プランに従量制を加えたりした。生成AIを使いこなしている企業ほどコスト負担が増える可能性がある。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/061700555/061700002/topm.jpg?20220512",
+    "fetched_at": "2026-06-24 07:36:53",
+    "ja_summary": "・生成AIの料金改定が相次ぎ、定額制に加えて従量課金などが導入されている。\n・AIエージェント等の自動化利用が別枠管理となり、活用が進むほどコストが増加傾向にある。\n・企業はAI活用の深化に伴う費用負担の増大に備える必要がある。"
+  },
+  {
+    "title": "変形する自動車開発に6.5億ドル",
+    "link": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/040900481/061800031/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "車型をカスタマイズできる電気自動車のスタートアップが6億5000万ドルを調達。2026年後半の生産準備へ、次の生産段階へと移行する。試行錯誤を重ねて学習するAI（人工知能）を手掛ける企業も大型調達を果たした。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/040900481/061800031/topm.jpg?20220512",
+    "fetched_at": "2026-06-24 07:36:53",
+    "ja_summary": "・変形自在なEVを開発するスタートアップが、6.5億ドルを調達。\n・2026年後半の量産開始に向け、生産体制を本格化させる。\n・AI分野でも大型調達が相次ぎ、次世代技術への投資が加速中。"
+  },
+  {
+    "title": "主要15社の2025年サービス売上高　AIの恩恵不足か、1桁増にとどまる",
+    "link": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020600008/061800222/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "国内中心に事業を展開するIT企業上位15社について、2025年度のITサービス売上高をランキングした。2024年度の結果と比べると上位6社は変わらない。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020600008/061800222/topm.jpg?20220512",
+    "fetched_at": "2026-06-24 07:36:54",
+    "ja_summary": "・国内IT大手15社の2025年度サービス売上高は、1桁成長にとどまる見通し。\n・上位6社の顔ぶれに変動はなく、市場シェアは安定している。\n・AI関連の需要増があるものの、全体的な業績押し上げには至っていない。"
+  },
+  {
+    "title": "AIで「短期プロジェクト増加」は38％　テスト実行・結果確認はAIで時間低減",
+    "link": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020600010/061800227/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "ITエンジニアプラットフォーム事業を展開するTWOSTONE＆Sonsは、AI（人工知能）を活用する開発エンジニアの業務変容に関する実態調査を実施した。AIツールまたはAIエージェントを直近6カ月以内に開発業務で使用したエンジニア108人を対象とした。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020600010/061800227/topm.jpg?20220512",
+    "fetched_at": "2026-06-24 07:36:55",
+    "ja_summary": "・エンジニアの38％がAI活用により短期プロジェクトの増加を実感。\n・テスト実行や結果確認の効率化により、開発工数が大幅に削減。\n・AI導入が開発サイクルの高速化と業務効率化を促進している。"
+  },
+  {
+    "title": "アマゾン、初めてChatGPTに広告出稿も、OpneAIに自社データは渡さない",
+    "link": "https://www.businessinsider.jp/article/2606-amazon-first-chatgpt-ads-ai-strategy-openai-data/",
+    "source": "Business Insider Japan",
+    "published": "Tue, 23 Jun 2026 21:30:00 GMT",
+    "summary": "アマゾンがChatGPTに広告を出稿し、より多くの買い物客にリーチする一方で、自社のショッピングデータへのOpneAIのアクセスは制限しています。",
+    "image": "https://media.loom-app.com/loom/2026/06/23/6a3cc782-3b32-49d4-9d31-71df3e0f50c7/original.jpg?w=1200&amp;h=630",
+    "fetched_at": "2026-06-24 07:37:04",
+    "ja_summary": "・AmazonがChatGPTへの広告出稿を開始し、新たな顧客獲得を狙う。\n・一方で、自社の貴重な購買データはOpenAI側に提供しない方針を維持。\n・広告によるリーチ拡大と、自社資産（データ）の保護を両立させる戦略。"
+  },
+  {
+    "title": "GLM-5.2とは何か？シリコンバレーが注目するもう一つの中国製“オープンウェイトAI”モデル",
+    "link": "https://www.businessinsider.jp/article/2606-what-is-glm-5-2-chinese-ai-coding-model/",
+    "source": "Business Insider Japan",
+    "published": "Tue, 23 Jun 2026 21:25:00 GMT",
+    "summary": "長文のプログラミング・タスクに対応した新しいオープンウェイトの中国製AIモデル「GLM-5.2」が、シリコンバレーのAIエリートたちの注目を集めています。",
+    "image": "https://media.loom-app.com/loom/2026/06/23/0d048ce6-2a38-4ee4-8777-e6b4bc3f0af8/original.jpg?w=1200&amp;h=630",
+    "fetched_at": "2026-06-24 07:37:05",
+    "ja_summary": "・中国発のオープンウェイトAI「GLM-5.2」がシリコンバレーで注目を集めている。\n・長文のプログラミングタスクに特化した高い処理能力が評価されている。\n・米国のAIエリート層が中国製モデルの実力に強い関心を寄せている。"
+  },
+  {
+    "title": "AIエージェント導入時の4つのポイント--スピードと慎重さの両立が重要",
+    "link": "https://japan.zdnet.com/article/35249268/",
+    "source": "ZDNET Japan",
+    "published": "",
+    "summary": "AIエージェントを導入する際は、迅速に動きつつ慎重に進めることが重要である。大手企業のIT部門で責任者を務める2人が語った、AIの導入とその勢いを維持する取り組みを、4つのポイントにまとめた。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35249268/\"><img src=\"https://japan.zdnet.com/storage/2026/06/23/d3edfd6a5bf7f067878f7d9957a4a3cd/t/184/138/d/large-gettyimages-2211415896.jpg\" /></a>",
+    "image": "https://japan.zdnet.com/storage/2026/06/23/d3edfd6a5bf7f067878f7d9957a4a3cd/t/184/138/d/large-gettyimages-2211415896.jpg",
+    "fetched_at": "2026-06-24 07:37:11",
+    "ja_summary": "AIエージェント導入時は、スピード感を持って進めつつ慎重さも両立させることが不可欠。\n大手企業の責任者が推奨する、導入の勢いを維持するための4つのポイントが重要となる。\nビジネスの現場でAIを効果的に活用するための戦略的なアプローチが解説されている。"
+  },
+  {
+    "title": "韓国セキュリティ企業S2W、日本市場に参入--ダークウェブ分析AIモデルを開発",
+    "link": "https://japan.zdnet.com/article/35249291/",
+    "source": "ZDNET Japan",
+    "published": "",
+    "summary": "韓国のセキュリティ企業のS2Wは、日本法人を設立して日本市場へ本格参入すると発表した。東アジア地域に関する脅威インテリジェンスに強みがあるという。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35249291/\"><img src=\"https://japan.zdnet.com/storage/2026/06/23/d42a4309ed767d04781d4be8d3993883/t/184/138/d/s2w_l.jpg\" /></a>",
+    "image": "https://japan.zdnet.com/storage/2026/06/23/d42a4309ed767d04781d4be8d3993883/t/184/138/d/s2w_l.jpg",
+    "fetched_at": "2026-06-24 07:37:11",
+    "ja_summary": "韓国のセキュリティ企業S2Wが日本法人を設立し、日本市場へ本格参入する。\n同社はダークウェブ分析に特化したAIモデルを活用し、東アジア地域の脅威インテリジェンス提供に強みを持つ。"
+  },
+  {
+    "title": "Meta、299ドルからのAIスマートグラス新製品「Metaグラス」を発表。EssilorLuxotticaとのパートナーシップ",
+    "link": "https://www.techno-edge.net/article/2026/06/24/5215.html",
+    "source": "TechnoEdge",
+    "published": "Wed, 24 Jun 2026 07:00:02 +0900",
+    "summary": "Metaは、イタリアのアイウェアメーカーEssilorLuxottica（エシロールルックスオティカ）とのパートナーシップによるAIグラスの新製品「Meta グラス」を発表しました。",
+    "image": "https://www.techno-edge.net/imgs/rss/32471.jpg",
+    "fetched_at": "2026-06-24 07:37:12",
+    "ja_summary": "・Metaがエシロールルックスオティカと協業し、新型AIスマートグラスを発表\n・価格は299ドルから\n・AI機能を搭載し、アイウェアとしてのデザイン性と利便性を両立した製品"
+  },
+  {
+    "title": "Getty ImagesがOpenAIと複数年契約、ChatGPTにライセンス画像を提供へ",
+    "link": "https://www.techno-edge.net/article/2026/06/23/5211.html",
+    "source": "TechnoEdge",
+    "published": "Tue, 23 Jun 2026 06:30:03 +0900",
+    "summary": "Getty Imagesは、OpenAIとの複数年にわたるパートナーシップ締結を発表しました。この契約により、Gettyのライセンス済みコンテンツライブラリがOpenAIのサービスに提供され、OpenAIの検索機能およびChatGPTの回答内にGettyの画像が表示されるようになります。",
+    "image": "https://www.techno-edge.net/imgs/rss/32449.jpg",
+    "fetched_at": "2026-06-24 07:37:12",
+    "ja_summary": "・Getty ImagesとOpenAIが複数年のパートナーシップを締結。\n・OpenAIはGettyの高品質なライセンス画像をAI学習や回答に活用。\n・ChatGPTの検索結果や回答内にGettyの画像が表示されるようになる。"
+  },
+  {
+    "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+    "link": "https://openai.com/index/patch-the-planet",
+    "source": "OpenAI",
+    "published": "Mon, 22 Jun 2026 10:00:00 GMT",
+    "summary": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/28CORR4fvsUacNtm39ZFFM/f57721baa5b429689844d619a4f1e5dd/SEO_Card__1_.png?w=1600&amp;h=900&amp;fit=fill",
+    "fetched_at": "2026-06-24 07:37:15",
+    "ja_summary": "・OpenAIがオープンソースの脆弱性対策を支援する「Patch the Planet」を開始。\n・AIと専門家のレビューを組み合わせ、脆弱性の特定から修正までをサポート。\n・オープンソースソフトウェアの安全性と持続可能性の向上を目指す。"
+  },
+  {
     "title": "｢AI脅威論｣で急落した日系コンサル､ベイカレント株は買いか　超大口顧客深耕､成長源の防衛･サイバーで不安払拭へ | 政治・経済・投資 | 東洋経済オンライン",
     "link": "https://toyokeizai.net/articles/-/948893?utm_source=rss&utm_medium=http&utm_campaign=link_back",
     "source": "東洋経済オンライン",
@@ -858,145 +998,5 @@
     "image": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/061700554/061700005/topm.jpg?20220512",
     "fetched_at": "2026-06-23 08:13:24",
     "ja_summary": "・中外製薬やアステラス製薬など、国内製薬大手がAIを用いたタンパク質解析技術の開発を加速。\n・独自のAIモデル開発や拡散モデルの活用により、創薬プロセスの効率化を目指す。\n・製薬企業だけでなく、電機・クラウド事業者も参入し、日本国内で関連ビジネスが拡大している。"
-  },
-  {
-    "title": "pLMと機械学習併用　最新AIにこだわらず",
-    "link": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/061700554/061700004/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "タンパク質医薬品開発のレボルカは東北大学発のスタートアップだ。最先端のAIだけにこだわらず、新旧の技術を適材適所で使い分ける。同社の技術は抗体だけでなく酵素の設計にも利用できる。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/061700554/061700004/topm.jpg?20220512",
-    "fetched_at": "2026-06-23 08:13:25",
-    "ja_summary": "・東北大発のレボルカは、最新AI（pLM）と従来技術を適材適所で使い分ける手法でタンパク質医薬品を開発。\n・抗体だけでなく酵素の設計にも対応可能な柔軟な技術基盤を持つ。\n・先端技術への過度な依存を避け、効率的な開発体制を構築している。"
-  },
-  {
-    "title": "抗体LLMを独自開発　「失敗」データも学習",
-    "link": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/061700554/061700003/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "日本のプロテインAIは2社のスタートアップが牽引している。その1社がMOLCURE（モルキュア）だ。生物学の常識にとらわれることなくプロテインAIを開発している。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/061700554/061700003/topm.jpg?20220512",
-    "fetched_at": "2026-06-23 08:13:26",
-    "ja_summary": "・MOLCUREが独自の抗体生成AIを開発。\n・生物学の常識にとらわれないアプローチを採用。\n・成功事例だけでなく「失敗」データも学習させることで精度を向上。"
-  },
-  {
-    "title": "プロテインAIとは？　7つの疑問でひも解く",
-    "link": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/061700554/061700002/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "プロテインAIを理解するには、様々な前提知識が必要になる。普段は生物学や医療に接していない読者も多いだろう。7つの素朴な疑問を通して、プロテインAIの実態をひも解いていく。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/061700554/061700002/topm.jpg?20220512",
-    "fetched_at": "2026-06-23 08:13:27",
-    "ja_summary": "・タンパク質の構造や機能を予測・設計するAI技術の基本を7つの疑問で解説。\n・専門知識がない層に向けて、生物学や医療におけるAIの役割を分かりやすく紐解く。\n・創薬や生命科学の未来を切り拓く「プロテインAI」の基礎知識が網羅的に理解できる。"
-  },
-  {
-    "title": "ビッグテックも大注目　フィジカルAIの次",
-    "link": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/061700554/061700001/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "現在、生成AIの対象として「タンパク質（プロテイン）」が注目を集めている。プロテインAIが狙うのは、約70兆円とされるタンパク質医薬品市場だ。フィジカルAIの次なる出口として、資金調達合戦が始まっている。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/061700554/061700001/topm.jpg?20220512",
-    "fetched_at": "2026-06-23 08:13:27",
-    "ja_summary": "・生成AIの次なる潮流として、70兆円規模の「タンパク質医薬品市場」を狙う「プロテインAI」が注目されている。\n・フィジカルAIの新たな出口として大手テック企業が参入し、開発に向けた資金調達競争が激化している。"
-  },
-  {
-    "title": "ジェフ・ベゾス、「AIは大量失業ではなく労働力不足を招く」と語る",
-    "link": "https://www.businessinsider.jp/article/2606-jeff-bezos-ai-will-create-labor-shortage-not-mass-unemployment/",
-    "source": "Business Insider Japan",
-    "published": "Mon, 22 Jun 2026 22:30:00 GMT",
-    "summary": "AIが雇用を消し去るのではという懸念が高まるなか、アマゾン創業者のジェフ・ベゾスは、AIが人間を不要にするという見方に真っ向から反論しています。",
-    "image": "https://media.loom-app.com/loom/2026/06/22/4b42f55a-bb20-4005-b0be-8a6e4c10928c/original.jpg?w=1200&amp;h=630",
-    "fetched_at": "2026-06-23 08:13:36",
-    "ja_summary": "・ジェフ・ベゾスは、AIが大量失業を招くという懸念を否定。\n・むしろAIは労働力不足を補う解決策になると主張。\n・AIは人間を不要にするのではなく、労働のあり方を変えると見解。"
-  },
-  {
-    "title": "Google、AI界の最重要人物をOpenAIに奪われる",
-    "link": "https://www.businessinsider.jp/article/2606-google-veteran-founded-characterai-is-jumping-to-openai-talent-war/",
-    "source": "Business Insider Japan",
-    "published": "Mon, 22 Jun 2026 22:00:00 GMT",
-    "summary": "Geminiの共同リードでCharacter.AI創業者のノーム・シャジール氏が、グーグルを離れOpenAIに加わります。激化するAI人材争奪戦の最新の動きです。",
-    "image": "https://media.loom-app.com/loom/2026/06/22/1b8e609d-7a07-4f31-8a55-31404d27c19a/original.jpg?w=1200&amp;h=630",
-    "fetched_at": "2026-06-23 08:13:36",
-    "ja_summary": "・GoogleのAI開発のキーマン、ノーム・シャジール氏が退社しOpenAIへ移籍。\n・同氏はGeminiの共同リードであり、AI業界における重要人物の一人。\n・加速するAI人材の争奪戦において、Googleにとって大きな痛手となる動き。"
-  },
-  {
-    "title": "RTOって何？…AIスタートアップの従業員は「在宅で勤務」せず、「職場で帰宅」している",
-    "link": "https://www.businessinsider.jp/article/e5b55054-93ba-4894-befa-9184c371accf/",
-    "source": "Business Insider Japan",
-    "published": "Mon, 22 Jun 2026 22:00:00 GMT",
-    "summary": "AIスタートアップの創業者や職場環境の専門家によると、コロナ禍後に設立されたAI企業には、対面勤務を求める非常に結束力の強い独自の職場文化があるそうです。",
-    "image": "https://media.loom-app.com/loom/2026/06/14/705ecb02-60d6-49e9-be4b-26dd42918466/original.jpg?w=1200&amp;h=630",
-    "fetched_at": "2026-06-23 08:13:36",
-    "ja_summary": "・コロナ禍以降設立のAIスタートアップ界隈で「オフィス回帰（RTO）」が加速\n・高い結束力と独自の職場文化維持のため、対面勤務を必須とする企業が増加\n・リモートワークが主流だったIT業界の潮流が、一部で逆行し始めている"
-  },
-  {
-    "title": "欧州に学ぶ日本のデジタル主権確立への道、高まる米中依存リスク",
-    "link": "https://japan.zdnet.com/article/35249164/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "生成AIの急速な普及と劇的な性能向上が、特定の国や巨大IT企業への過度な依存による地政学的リスクを顕在化させるとともに、デジタル主権を失う恐れが高まっている。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35249164/\"><img src=\"https://japan.zdnet.com/storage/2026/06/19/f03171b3d1dd712847c8d090fad589f5/t/184/138/d/20260615_sp21okame_1280x960.jpg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2026/06/19/f03171b3d1dd712847c8d090fad589f5/t/184/138/d/20260615_sp21okame_1280x960.jpg",
-    "fetched_at": "2026-06-23 08:13:42",
-    "ja_summary": "生成AIの台頭で米中や巨大IT企業への依存が深まり、日本の「デジタル主権」喪失のリスクが高まっている。\n特定国への過度な依存による地政学的リスクに対し、欧州の事例を参考に独自のデジタル基盤を確立することが急務である。"
-  },
-  {
-    "title": "新しい「Siri AI」を「Mac」で使ってみた--10項目のテストの結果は",
-    "link": "https://japan.zdnet.com/article/35249103/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "年次開発者向け会議「WWDC 2026」で発表された「Siri AI」はより会話的で、反応がよく、エラーが少ないとうたわれている。本稿では、開発者向けベータ版の「iOS 27」をインストールして、新しいSiriを試してみた結果を報告する。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35249103/\"><img src=\"https://japan.zdnet.com/storage/2026/06/18/f938971b9f2c6cafc8149257395c61df/t/184/138/d/large-figure-top-i-tried-chatting-with-the-new-siri-ai-on-my-mac-heres-how-it-faired.jpg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2026/06/18/f938971b9f2c6cafc8149257395c61df/t/184/138/d/large-figure-top-i-tried-chatting-with-the-new-siri-ai-on-my-mac-heres-how-it-faired.jpg",
-    "fetched_at": "2026-06-23 08:13:42",
-    "ja_summary": "・WWDC 2026で発表された新Siriを、iOS 27ベータ版で10項目のテストを実施。\n・従来よりも会話が自然で反応速度が向上し、エラーも減少していることを確認。\n・進化したSiriの対話能力や実用性を検証したレポート記事。"
-  },
-  {
-    "title": "Google、A24と映画制作向けAIツール開発で提携。7500万ドル（約121億円）を出資",
-    "link": "https://www.techno-edge.net/article/2026/06/23/5212.html",
-    "source": "TechnoEdge",
-    "published": "Tue, 23 Jun 2026 07:00:02 +0900",
-    "summary": "Google DeepMindとハリウッドの映画会社 A24 は、映画制作向けAIツールの研究開発に向けた提携を発表しました。この提携ではGoogleがA24に対して約7500万ドル（約121億円）出資します。",
-    "image": "https://www.techno-edge.net/imgs/rss/32452.jpg",
-    "fetched_at": "2026-06-23 08:13:43",
-    "ja_summary": "・Googleが映画会社A24と提携し、映像制作向けのAIツールを共同開発する。\n・Googleは開発に向け、A24へ約7500万ドル（約121億円）を出資する。\n・最先端技術と映画製作の知見を融合し、新たな制作プロセスの構築を目指す。"
-  },
-  {
-    "title": "Anthropic opens Seoul office and announces new partnerships across the Korean AI ecosystem",
-    "link": "https://www.anthropic.com/news/seoul-office-partnerships-korean-ai-ecosystem",
-    "source": "Anthropic (News)",
-    "published": "Wed, 17 Jun 2026 00:00:00 +0000",
-    "summary": "Anthropic opens Seoul office and announces new partnerships across the Korean AI ecosystem",
-    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20Globe&amp;backgroundColor=heather",
-    "fetched_at": "2026-06-23 08:13:50",
-    "ja_summary": "・Anthropicがソウルに新オフィスを開設し、韓国市場へ本格参入。\n・韓国のAIエコシステムと連携し、現地のニーズに合わせたAI開発を加速。\n・大手企業との戦略的パートナーシップを通じて、グローバル展開を強化。"
-  },
-  {
-    "title": "TCS and Anthropic partner to bring Claude to regulated industries",
-    "link": "https://www.anthropic.com/news/tcs-anthropic-partnership",
-    "source": "Anthropic (News)",
-    "published": "Fri, 12 Jun 2026 00:00:00 +0000",
-    "summary": "TCS and Anthropic partner to bring Claude to regulated industries",
-    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20NodeLine&amp;backgroundColor=olive",
-    "fetched_at": "2026-06-23 08:13:53",
-    "ja_summary": "・TCSとAnthropicが提携し、生成AI「Claude」の企業導入を支援。\n・金融やヘルスケアなど、厳格な規制を受ける業界での活用を推進。\n・コンプライアンスを確保しつつ、業務効率化とAI活用を加速させる。"
-  },
-  {
-    "title": "Results from the first Anthropic Public Record",
-    "link": "https://www.anthropic.com/news/anthropic-public-record",
-    "source": "Anthropic (News)",
-    "published": "Fri, 12 Jun 2026 00:00:00 +0000",
-    "summary": "Results from the first Anthropic Public Record",
-    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Globe&amp;backgroundColor=heather",
-    "fetched_at": "2026-06-23 08:13:54",
-    "ja_summary": "・AI企業Anthropicが初の「パブリックレコード（公開報告書）」を発表。\n・AIモデルの安全性、信頼性、および社会的影響に関する最新の評価結果を公開。\n・技術開発の透明性を高め、AIの倫理的な運用体制を提示する狙い。"
-  },
-  {
-    "title": "DXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on",
-    "link": "https://www.anthropic.com/news/dxc-anthropic-alliance",
-    "source": "Anthropic (News)",
-    "published": "Thu, 11 Jun 2026 00:00:00 +0000",
-    "summary": "DXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on",
-    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Megaphone&amp;backgroundColor=coral",
-    "fetched_at": "2026-06-23 08:13:58",
-    "ja_summary": "・DXCテクノロジーが、銀行や航空会社などの基幹システムにAI「Claude」を統合。\n・規制が厳格な業界向けに、高度なセキュリティとAI活用を両立したDX支援を実現。\n・業務効率化や意思決定の迅速化を目指し、エンタープライズ領域でのAI導入を加速。"
   }
 ]
