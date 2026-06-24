@@ -1,5 +1,55 @@
 [
   {
+    "title": "Anthropic、日本でClaudeコミュニティアンバサダー募集開始　イベント資金やAPIクレジット提供、開発者以外もOK",
+    "link": "https://www.techno-edge.net/article/2026/06/24/5218.html",
+    "source": "TechnoEdge",
+    "published": "Wed, 24 Jun 2026 20:52:42 +0900",
+    "summary": "・AnthropicがClaudeの地域コミュニティ構築を担う「Claude Community Ambassadors」プログラムを開始し、世界各地から参加者を募集している<br />\n・アンバサダーにはイベント資金・月次APIクレジット・限定グッズなどが無償提供され、プレリリース機能へのアクセスやプロダクトチームへのフィードバック機会も得られる<br />\n・開発者の肩書きは不要で、コミュニティビルダー・技術系ユーザー・Claudeアドボケイトの3タイプを対象に、同一都市からの複数名参加も歓迎している",
+    "image": "https://www.techno-edge.net/imgs/rss/32499.jpg",
+    "fetched_at": "2026-06-24 22:36:26",
+    "ja_summary": "・AnthropicがClaudeの地域コミュニティを牽引するアンバサダーを世界で募集開始。\n・選出者はイベント資金やAPIクレジット、製品開発への関与などの支援特典が得られる。\n・開発者以外も応募可能で、コミュニティ運営や普及活動に関心のある幅広い層が対象。"
+  },
+  {
+    "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
+    "link": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
+    "source": "OpenAI",
+    "published": "Wed, 24 Jun 2026 06:00:00 GMT",
+    "summary": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/4DeZq8e24W4qgIrtAu4Xmg/54189176ae1c6150d94cac02fb104f79/openai-broadcom-jalapeno-inference-chip-image-16_9.png?w=1600&amp;h=900&amp;fit=fill",
+    "fetched_at": "2026-06-24 22:36:27",
+    "ja_summary": "・OpenAIとBroadcomがLLM推論専用のAIチップ「Jalapeño」を共同開発。\n・AIモデルの推論性能と電力効率を大幅に向上させる。\n・大規模AIシステムの運用効率化とスケーラビリティの確保を目指す。"
+  },
+  {
+    "title": "Introducing Claude Tag",
+    "link": "https://www.anthropic.com/news/introducing-claude-tag",
+    "source": "Anthropic (News)",
+    "published": "Tue, 23 Jun 2026 00:00:00 +0000",
+    "summary": "Introducing Claude Tag",
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/b9ba85fd4d8beaf4efe04a4cf6cec14761e52c78-2400x1260.jpg",
+    "fetched_at": "2026-06-24 22:36:30",
+    "ja_summary": "Anthropicが「Claude Tag」を導入。\nチャット上の会話やコンテンツをタグ付けし、整理・分類できる新機能。\n情報を効率的に管理し、必要な項目を即座に呼び出すことが可能。"
+  },
+  {
+    "title": "MulmoClaudeで自分専用の天気アプリをVibe Craftingしてみた",
+    "link": "https://zenn.dev/michiof/articles/mulmoclaude-weather-app",
+    "source": "Zenn Trends",
+    "published": "Wed, 24 Jun 2026 02:01:46 GMT",
+    "summary": "MulmoClaudeの6月のアップデートで、MulmoClaude上で自分専用のアプリが開発できるようになりました。複数のツールを行き来する手間も、アーキテクチャを考える手間もなく、MulmoClaudeがあれば。一箇所で自分専用のアプリが出来上がることに、初めてそれを見た時には大きな感動を覚えました。この記事では、その実例として自分専用の天気予報アプリを作った手順を、再現用プロンプト付きで共有します。\n\n Claude Codeを使っていると自分専用のツールを作りたくなる\nClaude Codeをコーディングだけでなく、日々のタスク管理、アイディアの壁打ち、面倒な雑作業など、生活の一...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--OaWxYi6H--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:MulmoClaude%25E3%2581%25A7%25E8%2587%25AA%25E5%2588%2586%25E5%25B0%2582%25E7%2594%25A8%25E3%2581%25AE%25E5%25A4%25A9%25E6%25B0%2597%25E3%2582%25A2%25E3%2583%2597%25E3%2583%25AA%25E3%2582%2592Vibe%2520Crafting%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Michio%2520Fujii%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzZiOTgxMGFmNzIuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-06-24 22:36:37",
+    "ja_summary": "・MulmoClaudeのアップデートにより、外部ツールや設計不要で自分専用アプリの開発が可能になった。\n・単なるコーディングだけでなく、日常のタスク管理や作業効率化のツールを短時間で作成できる。\n・実例として、すぐに試せる「天気予報アプリ」の作成手順と再現用プロンプトを公開している。"
+  },
+  {
+    "title": "なぜ LLM に大喜利が難しいのか",
+    "link": "https://zenn.dev/nttdata_tech/articles/3241a46dca47b2",
+    "source": "Zenn Trends",
+    "published": "Tue, 23 Jun 2026 08:44:57 GMT",
+    "summary": "!\nこの記事はほぼ人力で書かれています\n\n\n 最初はちょっとした好奇心のつもりだった\nChatGPT や Claude の笑いのセンスは、ぼくとは合わない気がする。特に Claude とは、普段は友達のように分かり合えているのに、大喜利では全然分かり合えない。けれど本当はできるはずなんだ。そういう素朴な気持ちから全ては始まった。\n当時は、 Claude の Agent skills が無茶苦茶盛り上がっていた。 Skills を作れば、 Claude は何の専門家にでもなれる。それなら大喜利のプロにだってなれるはずだ。\n\n Chain of Thought (CoT) の魔法\nLLM に...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--wSVnsJoQ--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2581%25AA%25E3%2581%259C%2520LLM%2520%25E3%2581%25AB%25E5%25A4%25A7%25E5%2596%259C%25E5%2588%25A9%25E3%2581%258C%25E9%259B%25A3%25E3%2581%2597%25E3%2581%2584%25E3%2581%25AE%25E3%2581%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:gyu-don%2520%257C%2520Takumi%2520Kato%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2Q1ZjRhYzE4MTIuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:NTT%2520DATA%2520TECH%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzY0M2E4MWQ4NjYuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-06-24 22:36:38",
+    "ja_summary": "LLMに大喜利を習得させるため、専門スキルの付与や思考プロセス（CoT）の強化を試みた。\nしかし、言語化能力は高くても「笑いのセンス」を論理的に再現することには大きな壁がある。\n記事は、AIが人間のユーモアを理解し習得するまでの限界と可能性を検証した内容である。"
+  },
+  {
     "title": "「AIで雇用大崩壊が起きるという予測は間違い」オープンAIのアルトマン氏 (AIリーダーズ)",
     "link": "https://business.nikkei.com/atcl/gen/19/00711/061900034/",
     "source": "日経ビジネス 最新",
@@ -948,55 +998,5 @@
     "image": "https://assets.st-note.com/production/uploads/images/287316065/rectangle_large_type_2_116c7efaa415a5e22ba90a423d99d73f.png?width=800",
     "fetched_at": "2026-06-24 06:11:41",
     "ja_summary": "Unityは、AI技術をゲーム開発に活用するためのプラットフォーム統合やツール群を展開しています。\n生成AIによるアセット制作や、ゲーム内のAIキャラクター制御などを効率化します。\n開発者の生産性を高め、より高度で動的なゲーム体験の構築を支援するものです。"
-  },
-  {
-    "title": "DiffusionGemma の概要",
-    "link": "https://note.com/npaka/n/n0c5a1dd4a0e8",
-    "source": "note (npaka)",
-    "published": "Thu, 11 Jun 2026 13:29:36 +0900",
-    "summary": "<p id=\"2653c680-9c4d-4e53-a0b4-712a268cd4c0\" name=\"2653c680-9c4d-4e53-a0b4-712a268cd4c0\">以下の記事が面白かったので、簡単にまとめました。</p><figure id=\"cd54ff51-e87d-493b-a717-7fcb057148ba\" name=\"cd54ff51-e87d-493b-a717-7fcb057148ba\"><blockquote><p id=\"cc8d31b7-47ea-4b29-a6d4-c8bddea24d68\" name=\"cc8d31b7-47ea-4b29-a6d4-c8bddea24d68\"><strong>・</strong><a href=\"https://blog.google/innovation-and-ai/technology/developers-tools/diffusion-gemma-faster-text-generation/\" rel=\"nofollow noopener\" target=\"_blank\"><strong>DiffusionGemma: 4x faster text generation</strong></a></p></blockquote>\n<figcaption></figcaption></figure><br /><a href=\"https://note.com/npaka/n/n0c5a1dd4a0e8\">続きをみる</a>",
-    "image": "https://assets.st-note.com/production/uploads/images/284426917/rectangle_large_type_2_dea365f4344f4931c1f8fff1f95164a7.png?width=800",
-    "fetched_at": "2026-06-24 06:11:41",
-    "ja_summary": "Googleが公開した「DiffusionGemma」は、画像生成モデルの仕組みを応用することで、テキスト生成を従来の約4倍高速化する技術です。\n小規模なモデルでも効率的に推論を行えるのが特徴で、デバイス上での高速なAI動作に適しています。\n応答速度の向上が求められるアプリケーション開発において、大きな利便性をもたらします。"
-  },
-  {
-    "title": "HPEのプライベートクラウド戦略--AIインフラの「主権」とトークン価値観の変化",
-    "link": "https://japan.zdnet.com/article/35249145/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "HPEは、年次カンファレンスで企業用AI基盤に関し複数の発表を行ったが、特に「HPE Private Cloud AI」の進化が大きな注目を集めた。2人の担当者に詳細を聞く。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35249145/\"><img src=\"https://japan.zdnet.com/storage/2026/06/19/f04dcdf9ff9db416127d2ed75ddabecb/t/184/138/d/hpe-interview-discover26_l.jpg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2026/06/19/f04dcdf9ff9db416127d2ed75ddabecb/t/184/138/d/hpe-interview-discover26_l.jpg",
-    "fetched_at": "2026-06-24 06:11:44",
-    "ja_summary": "HPEは企業向けAI基盤「HPE Private Cloud AI」を強化し、AIインフラの主権確保とデータ価値の最大化を支援する戦略を発表しました。\nプライベートクラウド環境でのAI活用を推進し、企業が自社データを用いて安全かつ効率的にAIを運用できる基盤を提供します。"
-  },
-  {
-    "title": "Helping build shared standards for advanced AI",
-    "link": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
-    "source": "OpenAI",
-    "published": "Tue, 23 Jun 2026 13:00:00 GMT",
-    "summary": "OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation.",
-    "image": "https://images.ctfassets.net/kftzwdyauwt9/5QquFbmHjfSUovww9EUMcm/07e61e7f25fa04044767e9a0c11237e1/helping-build-shared-standards-for-advanced-ai-16_9.png?w=1600&amp;h=900&amp;fit=fill",
-    "fetched_at": "2026-06-24 06:11:47",
-    "ja_summary": "・OpenAIが「Appia Foundation」を通じ、AIの共有基準策定を支援。\n・評価フレームワークの構築や安全なAI運用の指針作成を主導。\n・世界規模での協力体制を強化し、高度なAIの安全性を確保する。"
-  },
-  {
-    "title": "Daybreak: Tools for securing every organization in the world",
-    "link": "https://openai.com/index/daybreak-securing-the-world",
-    "source": "OpenAI",
-    "published": "Mon, 22 Jun 2026 10:00:00 GMT",
-    "summary": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
-    "image": "https://images.ctfassets.net/kftzwdyauwt9/6cfZttLA6PlFuCVypDeSh/5a3deeb70010cdf58dd7b78547850092/SEO_Card__4_.png?w=1600&amp;h=900&amp;fit=fill",
-    "fetched_at": "2026-06-24 06:11:48",
-    "ja_summary": "OpenAIが組織の脆弱性対策を自動化する新ツール群「Daybreak」を発表。\nCodex SecurityとGPT-5.5-Cyberを活用し、脅威の検知から修正までを大規模に実行可能。\n世界中の組織がセキュリティ対策を効率化・強化できる環境を提供する。"
-  },
-  {
-    "title": "ChatGPTに定期タスク実行の新機能「スケジュール」、入荷確認や毎朝のまとめを自動化して通知　使い方はかんたん",
-    "link": "https://www.techno-edge.net/article/2026/06/19/5205.html",
-    "source": "TechnoEdge",
-    "published": "Fri, 19 Jun 2026 17:33:43 +0900",
-    "summary": "OpenAI が ChatGPT に新機能「タスク」(Scheduled Tasks)を追加しました。現在 iOS / Android モバイルアプリとWeb版、macOSアプリで利用可能です。",
-    "image": "https://www.techno-edge.net/imgs/rss/32423.jpg",
-    "fetched_at": "2026-06-24 04:17:51",
-    "ja_summary": "ChatGPTに定期的なタスク実行機能が追加され、毎朝のまとめや在庫確認などを自動化可能に。\niOS/Android、Web、macOSの各プラットフォームで利用でき、設定も簡単。\nルーチンワークを自動化し、通知を受け取ることで作業効率を向上できる。"
   }
 ]
