@@ -1,5 +1,35 @@
 [
   {
+    "title": "AI時代、社長は何を決め、何を残すべきか？　サイバーエージェントとfreeeのトップが語る「社長の仕事」",
+    "link": "https://www.itmedia.co.jp/business/articles/2606/25/news022.html",
+    "source": "ITmedia ビジネス",
+    "published": "Thu, 25 Jun 2026 07:00:00 +0900",
+    "summary": "2025年末にサイバーエージェントの創業者・藤田晋氏から経営を引き継いだ山内隆裕社長と、創業以来14年にわたりフリーを率いてきた佐々木大輔CEO。両氏が「社長の仕事」をテーマに、日々の意思決定や組織運営、AI時代の経営について語った。",
+    "image": "https://image.itmedia.co.jp/business/articles/2606/25/cover_news022.jpg",
+    "fetched_at": "2026-06-26 04:23:08",
+    "ja_summary": "・サイバーエージェントとfreeeのトップがAI時代の経営論を対談。\n・AI活用が進む環境下で、社長が担うべき意思決定と組織運営の要諦を議論。\n・技術革新のスピードが速まる中で、経営者が守るべき役割と進化のあり方を提示。"
+  },
+  {
+    "title": "味の素、“万能DX人材”増員へ　育成のきっかけは新規プロジェクトの苦い経験",
+    "link": "https://www.itmedia.co.jp/business/articles/2606/25/news021.html",
+    "source": "ITmedia ビジネス",
+    "published": "Thu, 25 Jun 2026 07:00:00 +0900",
+    "summary": "味の素が、AIを活用して「フルスタック人財」の育成を目指している。DX推進のキーパーソンにする狙いだ。既に300時間の工数削減例も生まれている。一体どう育成したのか。",
+    "image": "https://image.itmedia.co.jp/business/articles/2606/25/cover_news021.jpg",
+    "fetched_at": "2026-06-26 04:23:08",
+    "ja_summary": "・味の素がAIを活用し、全方位的なスキルを持つ「フルスタックDX人材」の育成を強化。\n・新規プロジェクトでの課題を教訓に、実践的なスキル習得と組織的なDX推進を目指す。\n・既に業務効率化で300時間の工数削減を達成するなど、具体的な成果が出ている。"
+  },
+  {
+    "title": "「Fable 5」発表も3日で提供停止　米政府が安全懸念、「脱獄」問題浮上か",
+    "link": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020800017/061801451/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "米アンソロピックが手掛ける最新のAIモデル「Claude Fable 5（クロード・フェイブル5）」をめぐる動向が、目まぐるしく変化している。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020800017/061801451/topm.jpg?20220512",
+    "fetched_at": "2026-06-26 04:23:15",
+    "ja_summary": "・米アンソロピックの最新AI「Claude Fable 5」が公開から3日で提供停止。\n・米政府による安全性の懸念が主な理由。\n・AIの制限を回避する「脱獄（ジェイルブレイク）」問題が浮上している。"
+  },
+  {
     "title": "マイクロソフトが事業再設計　業務用AIエージェントを起点に",
     "link": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020800017/061801457/",
     "source": "日経クロステック 総合",
@@ -968,35 +998,5 @@
     "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Megaphone&amp;backgroundColor=coral",
     "fetched_at": "2026-06-25 08:50:23",
     "ja_summary": "・IT大手DXCが、金融や航空などの規制業界向けシステムにAI「Claude」を統合。\n・高度なセキュリティが求められる環境で、業務効率化やAI活用を推進。\n・産業特化型のシステム刷新と生成AI導入を同時に加速させる狙い。"
-  },
-  {
-    "title": "バイブコーディングが「RPA問題」を再演している。属人化・重複・ブラックボックスを防ぐ最小ガバナンス設計",
-    "link": "https://qiita.com/hirashima-gmoconnect/items/cfe5ba40a56b3dbf6a4b",
-    "source": "Qiita (Popular)",
-    "published": "2026-06-22T12:12:13+09:00",
-    "summary": "# はじめに\n\nGMOコネクトの平島です。\n\nチームで Claude Code を使い始めてから、便利になったのと引き換えに困ったことが起きています。「誰かが作ったらしいSlack通知ツール」「似たような集計スクリプトが3本ある」「作った本人がいないと何もわからない」😇\n\nこの光景、2019年頃のRPA普及期にも見た気がします。あのときどう乗り越えたかを参考に、バイブコーディング時代のオーケストレ",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGNDIwMjIwNCUyRnByb2ZpbGUtaW1hZ2VzJTJGMTc1OTE5NjQyNj9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9YTdiYmU2MDJkM2M4MjlmNDQzZDMyZmViZjc0ZjkyMjQ%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkZlYmQ5Njg3Yjk0MzAwMWI5NzlkNmU0YWY1MGFiYWU4YTc5MWE4ZGE1JTJGb3JpZ2luYWwuanBnJTNGMTc1NjE4NjM1Mz9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz1hOTMyMDU4NWNlNzJmY2QyNGJiNGQ0MDNkYTA2MGM1OA%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D20ac04f62b081f68cfdc5bfbdfaacaba?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgzJTkwJUUzJTgyJUE0JUUzJTgzJTk2JUUzJTgyJUIzJUUzJTgzJUJDJUUzJTgzJTg3JUUzJTgyJUEzJUUzJTgzJUIzJUUzJTgyJUIwJUUzJTgxJThDJUUzJTgwJThDUlBBJUU1JTk1JThGJUU5JUExJThDJUUzJTgwJThEJUUzJTgyJTkyJUU1JTg2JThEJUU2JUJDJTk0JUUzJTgxJTk3JUUzJTgxJUE2JUUzJTgxJTg0JUUzJTgyJThCJUUzJTgwJTgyJUU1JUIxJTlFJUU0JUJBJUJBJUU1JThDJTk2JUUzJTgzJUJCJUU5JTg3JThEJUU4JUE0JTg3JUUzJTgzJUJCJUUzJTgzJTk2JUUzJTgzJUE5JUUzJTgzJTgzJUUzJTgyJUFGJUUzJTgzJTlDJUUzJTgzJTgzJUUzJTgyJUFGJUUzJTgyJUI5JUUzJTgyJTkyJUU5JTk4JUIyJUUzJTgxJTkwJUU2JTlDJTgwJUU1JUIwJThGJUUzJTgyJUFDJUUzJTgzJTkwJUUzJTgzJThBJUUzJTgzJUIzJUUzJTgyJUI5JUUyJTgwJUE2JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9MmFhNzhiZDQwNmUxYmJhZGMxMTM3Yjc3YTM1ZGEzYjU&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBoaXJhc2hpbWEtZ21vY29ubmVjdCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWY5Y2VhMzFlNTlkN2IyZjI1ZDgyMDUwMzQ4NGE1ZTRi&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=R01P44Kz44ON44Kv44OI5qCq5byP5Lya56S-&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=c91fe38bc1bc5abd1617095380d0e963",
-    "fetched_at": "2026-06-25 08:50:27",
-    "ja_summary": "AIによるコード生成（バイブコーディング）の普及で、過去のRPAと同様に属人化やコードの乱立・ブラックボックス化が問題化している。\nこれらを防ぐには、AIツール導入時におけるルールの明文化や管理体制の整備といった「最小限のガバナンス設計」が不可欠である。"
-  },
-  {
-    "title": "Claude Code × Codex × Obsidian Vault ― AI 二刀流で作る「何でも相談」環境の全設定公開",
-    "link": "https://qiita.com/htani0817/items/5c5bffcbb53241ed5b54",
-    "source": "Qiita (Popular)",
-    "published": "2026-06-17T00:05:47+09:00",
-    "summary": "# Claude Code × Codex × Obsidian Vault ― AI 二刀流で作る「何でも相談」環境の全設定公開\n\n> **2026-04-29 追記**: 初稿から約2週間運用した結果、スキル体制・MCP構成・CLAUDE.md の中身がかなり変わりました。各セクションに取消線＋追記で差分を残しています。\n>\n> **2026-05-18 追記**: モデルを Sonnet 4",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Ftech-festa-ogp-background-4b5015b2c518c7e6b9062a7c9f5f5e90.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0MDk4MjM2JTJGYTI2OGI2ZjZkYjYyMjg4ODc4NTdhZTU3MzIwNzAxYzhmOWRjYjFkNCUyRmxhcmdlLnBuZyUzRjE3NDgyNzY3NzU_aXhsaWI9cmItNC4xLjEmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPTA4ODc0N2ExZjBiN2EzYWEyNjUxNzMzNDRjZjMzZjg4%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D64011d4cf50491c6a5c5aca1f74bdbe4?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9Q2xhdWRlJTIwQ29kZSUyMCVDMyU5NyUyMENvZGV4JTIwJUMzJTk3JTIwT2JzaWRpYW4lMjBWYXVsdCUyMCVFMiU4MCU5NSUyMEFJJTIwJUU0JUJBJThDJUU1JTg4JTgwJUU2JUI1JTgxJUUzJTgxJUE3JUU0JUJEJTlDJUUzJTgyJThCJUUzJTgwJThDJUU0JUJEJTk1JUUzJTgxJUE3JUUzJTgyJTgyJUU3JTlCJUI4JUU4JUFCJTg3JUUzJTgwJThEJUU3JTkyJUIwJUU1JUEyJTgzJUUzJTgxJUFFJUU1JTg1JUE4JUU4JUE4JUFEJUU1JUFFJTlBJUU1JTg1JUFDJUU5JTk2JThCJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjNGRkZGRkYmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9NWY0M2Y1N2M4ZjIwOGY0MDMxMjRkODNiYTUzMTQ1N2E&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBodGFuaTA4MTcmdHh0LWNvbG9yPSUyM0ZGRkZGRiZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz0wZDg2OWIyZWZmNjM0MzA1OTczZmIyMTZiMzk5NTg5Mg&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=3a75c6e343cb2682c209f1ee4705641f",
-    "fetched_at": "2026-06-25 08:50:30",
-    "ja_summary": "・Claude CodeとObsidianを連携させ、AIが自身のローカル知識を即座に参照・回答できる「何でも相談」環境を構築。\n・運用を通じたMCP構成や設定ファイル（CLAUDE.md）の最適化プロセスを公開。\n・最新モデル（Sonnet 4等）を活用し、業務効率を最大化するAI活用術を網羅的に解説。"
-  },
-  {
-    "title": "AI駆動開発のセキュリティ、結局どこまでやればいい？",
-    "link": "https://qiita.com/udowanllc/items/1713372648eb543e6980",
-    "source": "Qiita (Popular)",
-    "published": "2026-06-16T00:15:15+09:00",
-    "summary": "## 目次\n\n- [はじめに](#はじめに)\n- [前提：AI駆動開発ならではのリスクを知っておく](#前提ai駆動開発ならではのリスクを知っておく)\n- [レベル1：一般的なセキュリティレベル](#レベル1一般的なセキュリティレベル)\n- [レベル2：厳格に情報を管理したい場合](#レベル2厳格に情報を管理したい場合)\n- [レベル3：最厳格（規制業種）](#レベル3最厳格規制業種)\n- [3レ",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0NDQ1NzkwJTJGOTNjYWJkNzI5MmE3YzJiNDJlYzM2OGJmNGM4OWY5MzIwMGMxMGEwZCUyRmxhcmdlLnBuZyUzRjE3ODExMDQwNTE_aXhsaWI9cmItNC4xLjEmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPTExNDA1M2EzZmNlM2VlZTFkZDI0ZDhiMjdlYzMyMzIw%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D187ae6dffcca3782de1c09f3976edbe8?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9QUklRTklQTclODYlRTUlOEIlOTUlRTklOTYlOEIlRTclOTklQkElRTMlODElQUUlRTMlODIlQkIlRTMlODIlQUQlRTMlODMlQTUlRTMlODMlQUElRTMlODMlODYlRTMlODIlQTMlRTMlODAlODElRTclQjUlOTAlRTUlQjElODAlRTMlODElQTklRTMlODElOTMlRTMlODElQkUlRTMlODElQTclRTMlODIlODQlRTMlODIlOEMlRTMlODElQjAlRTMlODElODQlRTMlODElODQlRUYlQkMlOUYmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz0xZmQwMzQ0M2M3YWFkMTU4YWFmMTk4ZWI5NGM2OTI3NQ&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDB1ZG93YW5sbGMmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz0yYzljZmYzYjZlZmQ0MmY5NmMxZjFiMTc1MmZjNzMxOA&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=16872242e95e4589cb64d28b4d257459",
-    "fetched_at": "2026-06-25 08:50:30",
-    "ja_summary": "AI駆動開発には特有のリスクが存在するため、業種や機密レベルに応じた対策の使い分けが重要です。\n「一般的な開発」「厳格な情報管理」「規制業種向けの最高レベル」の3段階でセキュリティ要件を整理すべきです。\n自社の求めるセキュリティ基準とAI活用のバランスを理解し、適切な管理体制を構築しましょう。"
   }
 ]
