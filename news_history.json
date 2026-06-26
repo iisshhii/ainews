@@ -1,5 +1,55 @@
 [
   {
+    "title": "AIが課題や解答の生成からレビューまで実施、判定もAIにお任せ",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03630/052700003/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "アプリケーションを使ってみましょう。Windowsの「コマンドプロンプト」を開き、cdコマンドでprojectディレクトリに移動します。そして、以下のコマンドを実行してWebサーバーを起動します。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03630/052700003/topm.jpg?20220512",
+    "fetched_at": "2026-06-27 02:13:51",
+    "ja_summary": "AIが課題の作成から解答、レビュー、判定までを一貫して行うシステムが公開された。\n利用者は、提供されたコマンドを実行するだけでWebサーバー上でアプリを起動できる。"
+  },
+  {
+    "title": "Copilot＋ PCのWindows 11に専用のAI機能、今後も増えていく",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03610/051200009/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "Copilot＋ PCのWindows 11には専用のAI機能が多く含まれる。11の機能をフルに使いたい人はCopilot＋ PCに注目だ。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03610/051200009/topm.jpg?20220512",
+    "fetched_at": "2026-06-27 02:13:52",
+    "ja_summary": "・Copilot＋ PCにはWindows 11専用のAI機能が多数搭載されている。\n・最新のAI機能をフル活用したいユーザーにとって重要な選択肢となる。\n・今後も専用AI機能は拡充される見込み。"
+  },
+  {
+    "title": "AIで半導体設計作業を効率化、開発プロセスを変革する「AI活用半導体設計」",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03088/062300022/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "社会が抱える課題の解決を目指すスタートアップの動きからは、業界の未来を見通せる。本連載ではZuva（ズウバ、東京・新宿）のデータベースを基に、特定分野で最先端を走るスタートアップを5社選定し、解説する。今回のテーマは「AI活用半導体設計」だ。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03088/062300022/topm.jpg?20220512",
+    "fetched_at": "2026-06-27 02:13:52",
+    "ja_summary": "・AIを活用し、複雑な半導体設計プロセスを効率化・自動化する動きが加速している。\n・最先端スタートアップの知見を通じ、次世代の半導体開発のあり方を解説する。\n・AI導入が業界の競争力を左右する鍵として注目されている。"
+  },
+  {
+    "title": "Previewing GPT-5.6 Sol: a next-generation model",
+    "link": "https://openai.com/index/previewing-gpt-5-6-sol",
+    "source": "OpenAI",
+    "published": "Fri, 26 Jun 2026 10:00:00 GMT",
+    "summary": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/48XpR5dxhE6jJQ03HTUnWZ/ac68fbfb7761fa72ac7442c6744dba56/_.png?w=1600&amp;h=900&amp;fit=fill",
+    "fetched_at": "2026-06-27 02:14:10",
+    "ja_summary": "・OpenAIが次世代モデル「GPT-5.6 Sol」を公開。\n・コーディング、科学、サイバーセキュリティの能力が大幅に向上。\n・同社史上最高レベルの安全性を備えたモデル。"
+  },
+  {
+    "title": "バイブコーディングが「RPA問題」を再演している。属人化・重複・ブラックボックスを防ぐ最小ガバナンス設計",
+    "link": "https://qiita.com/hirashima-gmoconnect/items/cfe5ba40a56b3dbf6a4b",
+    "source": "Qiita (Popular)",
+    "published": "2026-06-22T12:12:13+09:00",
+    "summary": "# はじめに\n\nGMOコネクトの平島です。\n\nチームで Claude Code を使い始めてから、便利になったのと引き換えに困ったことが起きています。「誰かが作ったらしいSlack通知ツール」「似たような集計スクリプトが3本ある」「作った本人がいないと何もわからない」😇\n\nこの光景、2019年頃のRPA普及期にも見た気がします。あのときどう乗り越えたかを参考に、バイブコーディング時代のオーケストレ",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGNDIwMjIwNCUyRnByb2ZpbGUtaW1hZ2VzJTJGMTc1OTE5NjQyNj9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9YTdiYmU2MDJkM2M4MjlmNDQzZDMyZmViZjc0ZjkyMjQ%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkZlYmQ5Njg3Yjk0MzAwMWI5NzlkNmU0YWY1MGFiYWU4YTc5MWE4ZGE1JTJGb3JpZ2luYWwuanBnJTNGMTc1NjE4NjM1Mz9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz1hOTMyMDU4NWNlNzJmY2QyNGJiNGQ0MDNkYTA2MGM1OA%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D20ac04f62b081f68cfdc5bfbdfaacaba?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgzJTkwJUUzJTgyJUE0JUUzJTgzJTk2JUUzJTgyJUIzJUUzJTgzJUJDJUUzJTgzJTg3JUUzJTgyJUEzJUUzJTgzJUIzJUUzJTgyJUIwJUUzJTgxJThDJUUzJTgwJThDUlBBJUU1JTk1JThGJUU5JUExJThDJUUzJTgwJThEJUUzJTgyJTkyJUU1JTg2JThEJUU2JUJDJTk0JUUzJTgxJTk3JUUzJTgxJUE2JUUzJTgxJTg0JUUzJTgyJThCJUUzJTgwJTgyJUU1JUIxJTlFJUU0JUJBJUJBJUU1JThDJTk2JUUzJTgzJUJCJUU5JTg3JThEJUU4JUE0JTg3JUUzJTgzJUJCJUUzJTgzJTk2JUUzJTgzJUE5JUUzJTgzJTgzJUUzJTgyJUFGJUUzJTgzJTlDJUUzJTgzJTgzJUUzJTgyJUFGJUUzJTgyJUI5JUUzJTgyJTkyJUU5JTk4JUIyJUUzJTgxJTkwJUU2JTlDJTgwJUU1JUIwJThGJUUzJTgyJUFDJUUzJTgzJTkwJUUzJTgzJThBJUUzJTgzJUIzJUUzJTgyJUI5JUUyJTgwJUE2JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9MmFhNzhiZDQwNmUxYmJhZGMxMTM3Yjc3YTM1ZGEzYjU&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBoaXJhc2hpbWEtZ21vY29ubmVjdCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWY5Y2VhMzFlNTlkN2IyZjI1ZDgyMDUwMzQ4NGE1ZTRi&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=R01P44Kz44ON44Kv44OI5qCq5byP5Lya56S-&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=c91fe38bc1bc5abd1617095380d0e963",
+    "fetched_at": "2026-06-27 02:14:42",
+    "ja_summary": "AIによる自動コーディング（バイブコーディング）の普及で、過去のRPA同様に「属人化・乱立・ブラックボックス化」が再発している。\nツール導入の利便性を活かしつつ、開発の標準化や管理体制といった最小限のガバナンス設計が必要である。\n過去のRPA運用の教訓を参考に、組織的な開発ルールを整備することが持続可能な運用の鍵となる。"
+  },
+  {
     "title": "野村総合研究所・柳澤花芽社長「DXからAI変革企業に進化」 (編集長インタビュー)",
     "link": "https://business.nikkei.com/atcl/NBD/19/00119/00342/",
     "source": "日経ビジネス 最新",
@@ -948,55 +998,5 @@
     "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20NodeLine&amp;backgroundColor=olive",
     "fetched_at": "2026-06-26 07:44:59",
     "ja_summary": "TCSとAnthropicが提携し、金融や医療など規制の厳しい業界向けにClaudeの導入支援を開始。\nコンプライアンスを重視しつつ、安全で効率的なAI活用をサポートする。\n両社の連携により、高度なセキュリティ環境下でのAI業務変革が加速する。"
-  },
-  {
-    "title": "Results from the first Anthropic Public Record",
-    "link": "https://www.anthropic.com/news/anthropic-public-record",
-    "source": "Anthropic (News)",
-    "published": "Fri, 12 Jun 2026 00:00:00 +0000",
-    "summary": "Results from the first Anthropic Public Record",
-    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Globe&amp;backgroundColor=heather",
-    "fetched_at": "2026-06-26 07:45:01",
-    "ja_summary": "・AI企業Anthropicが初の公開レポート「Public Record」を公表。\n・AIモデルの安全性、透明性、および社会的影響に関する検証結果を報告。\n・AI開発における責任ある取り組みと、今後の透明性向上の指針を明示。"
-  },
-  {
-    "title": "DXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on",
-    "link": "https://www.anthropic.com/news/dxc-anthropic-alliance",
-    "source": "Anthropic (News)",
-    "published": "Thu, 11 Jun 2026 00:00:00 +0000",
-    "summary": "DXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on",
-    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Megaphone&amp;backgroundColor=coral",
-    "fetched_at": "2026-06-26 07:45:04",
-    "ja_summary": "IT大手のDXCが、銀行や航空など規制の厳しい業界向けシステムにAI「Claude」を統合する。\n企業は高セキュリティな環境下で、業務効率化やデータ分析への生成AI活用が可能になる。\n法規制や安全性への配慮が求められる重要インフラ領域で、AIの実装が加速する。"
-  },
-  {
-    "title": "OntologyとLLMOps",
-    "link": "https://speakerdeck.com/shibuiwilliam/ontologytollmops",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-06-25T17:16:19-04:00",
-    "summary": "2026/06/26 『LLMOps — PoCの壁を越える現場のリアル[Tokyo AI(TAI)]』登壇資料\nhttps://tokyoai.connpass.com/event/396618/",
-    "image": "https://files.speakerdeck.com/presentations/b09c5657bb96438d92ea1a845821e4d8/preview_slide_0.jpg?39816243",
-    "fetched_at": "2026-06-26 07:45:07",
-    "ja_summary": "・LLMの実運用におけるPoC（概念実証）から本番導入への移行課題を解説。\n・システム構築の鍵となる「Ontology（概念体系）」の設計と導入の重要性を詳述。\n・LLMOpsの知見を通じ、現場レベルでの開発・運用の最適化手法を提示。"
-  },
-  {
-    "title": "〈初の7万円台〉東京エレクトロンや太陽誘電などAIインフラ銘柄が演出…わずか34日間で1万円上昇した日経平均 | ビジネス | 東洋経済オンライン",
-    "link": "https://toyokeizai.net/articles/-/949192?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-    "source": "東洋経済オンライン",
-    "published": "Fri, 26 Jun 2026 05:30:00 +0900",
-    "summary": "日経平均株価が史上初の7万円台を突破した背景には｢AIインフラ銘柄｣の急騰がありました。しかし､急ピッチで進む株価上昇の持続性には懸念も残ります。",
-    "image": "https://tk.ismcdn.jp/mwimgs/6/7/1200w/img_6724e7f27fb76d9bdae46afedbf8fc51362102.jpg?nextgen=false",
-    "fetched_at": "2026-06-26 06:09:32",
-    "ja_summary": "・日経平均が史上初の7万円台を突破。\n・東京エレクトロンなどAIインフラ関連銘柄の急騰が主要因。\n・短期間での急激な上昇に対し、今後の持続性には慎重な見方も強い。"
-  },
-  {
-    "title": "中国バイドゥ、データ生産からモデル開発まで運用　エンボディドAI向け",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/02653/061900075/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "中国インターネット検索最大手の百度（バイドゥ）のクラウドサービス「百度智能雲（バイドゥAIクラウド）」は、広東省東莞市のデータ収集・標注（アノテーション）産業園に、エンボディドAIデータ採集アノテーション実験室を開設し、運用を開始した。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/02653/061900075/topm.jpg?20220512",
-    "fetched_at": "2026-06-26 06:09:44",
-    "ja_summary": "・百度（バイドゥ）がエンボディドAI（身体性AI）向けのデータ収集・標注実験室を開設。\n・データ生成からモデル開発までの一貫した運用体制を構築。\n・AIロボット開発の効率化と高度化を加速させる狙い。"
   }
 ]
