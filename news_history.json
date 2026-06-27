@@ -1,5 +1,15 @@
 [
   {
+    "title": "並列で思考を分けたら、AIレビューの精度もコンテキスト効率も同時に上がった話",
+    "link": "https://qiita.com/fwatanab/items/345691e0d2260d5f34a5",
+    "source": "Qiita (Popular)",
+    "published": "2026-06-24T16:23:20+09:00",
+    "summary": "## はじめに\n\nAIにコードレビューをやらせるとき「1つのエージェントに全部チェックさせる」のをやめて、**複数の専門エージェントに並列で分業させる** 構成に変えたら、精度が体感で大きく上がりました。\n\nただ、本当の収穫は精度向上そのものより、**「並列で思考を分ける」こと自体が、コンテキスト効率とハルシネーション対策を同時に解決していた** ことに気づけたことでした。\n\n---\n\n## 1人",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0MzQ0NzI5JTJGZDExYWZlMWMyMWY2NjA1MjY4NjlmNTY3ZWUxYmEzZjI0YmM3MzNlMCUyRnhfbGFyZ2UucG5nJTNGMTc2OTQwMDc2Nz9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NzhmYTQ0MmYwZGU4Yzg4MWVlYWQ0NTliYmIyMDY0NDg%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkZhZmM0ZGJhZjAzNThlOGQwYjM0NmM4ZDc1ZWIwMzdiMjVmNjc4MDY5JTJGb3JpZ2luYWwuanBnJTNGMTYwNzc1NjU4OD9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz03NjRmYjE2ODMxYjQ2ZDU0NTgwMmI1MGMzYWMxODM2MQ%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3Dbefd1b21d8e139ac8038c4181e7d5d18?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUU0JUI4JUE2JUU1JTg4JTk3JUUzJTgxJUE3JUU2JTgwJTlEJUU4JTgwJTgzJUUzJTgyJTkyJUU1JTg4JTg2JUUzJTgxJTkxJUUzJTgxJTlGJUUzJTgyJTg5JUUzJTgwJTgxQUklRTMlODMlQUMlRTMlODMlOTMlRTMlODMlQTUlRTMlODMlQkMlRTMlODElQUUlRTclQjIlQkUlRTUlQkElQTYlRTMlODIlODIlRTMlODIlQjMlRTMlODMlQjMlRTMlODMlODYlRTMlODIlQUQlRTMlODIlQjklRTMlODMlODglRTUlOEElQjklRTclOEUlODclRTMlODIlODIlRTUlOTAlOEMlRTYlOTklODIlRTMlODElQUIlRTQlQjglOEElRTMlODElOEMlRTMlODElQTMlRTMlODElOUYlRTglQTklQjEmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz02MjU5YmZjMTRhNTRhZWRjODUzNTY4MzhmYTk5YTM3OA&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBmd2F0YW5hYiZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWRjZjgzMzE2MGQ1MDdkMjE0NGZjNzgyYjQzODk1YTg5&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=5qCq5byP5Lya56S-44K344Oz44K344Ki&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=a3cc4c7ccb469dbe83a04a94abc43da2",
+    "fetched_at": "2026-06-27 23:56:39",
+    "ja_summary": "・AIによるコードレビューを単一エージェントから専門別の並列分業体制に変更した。\n・役割分担により精度が向上しただけでなく、情報の整理効率が改善した。\n・コンテキストの最適化とハルシネーション（誤情報）抑制を同時に実現できた。"
+  },
+  {
     "title": "Spring Boot で Claude API 呼び出しを OpenTelemetry で計測する",
     "link": "https://zenn.dev/propagandist/articles/0004-spring-boot-otel-claude-observability",
     "source": "Zenn Trends",
@@ -988,15 +998,5 @@
     "image": "https://assets.st-note.com/production/uploads/images/285579921/rectangle_large_type_2_2771aa556c9c5d8c05b94d94a66bd318.jpeg?width=800",
     "fetched_at": "2026-06-26 16:42:55",
     "ja_summary": "・Palantirは、政府・国防・大企業向けのデータ分析ソフトウェアを提供する企業。\n・AIを活用し、膨大なデータから迅速な意思決定を支援するインフラを構築している。\n・AI時代の高度な業務効率化を支える重要ツールとして注目を集めている。"
-  },
-  {
-    "title": "How agents are transforming work",
-    "link": "https://openai.com/index/how-agents-are-transforming-work",
-    "source": "OpenAI",
-    "published": "Thu, 25 Jun 2026 02:00:00 GMT",
-    "summary": "A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles.",
-    "image": "https://images.ctfassets.net/kftzwdyauwt9/3JAh8VK98LHki9m4sr8KIR/3580b8ab65aca167342a3c674847531e/SEO_Card__2_.png?w=1600&amp;h=900&amp;fit=fill",
-    "fetched_at": "2026-06-26 16:43:05",
-    "ja_summary": "・OpenAIの研究で、AIエージェントが複雑かつ長期的なタスクを自律的に遂行可能であることが判明。\n・個人の役割を超えた生産性向上が実現し、業務の進め方が根本から変革されている。\n・AIは単なる補助ツールから、複雑なプロセスを完遂する実務パートナーへと進化している。"
   }
 ]
