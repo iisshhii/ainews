@@ -1,5 +1,65 @@
 [
   {
+    "title": "Spring Boot で Claude API 呼び出しを OpenTelemetry で計測する",
+    "link": "https://zenn.dev/propagandist/articles/0004-spring-boot-otel-claude-observability",
+    "source": "Zenn Trends",
+    "published": "Sat, 27 Jun 2026 08:43:31 GMT",
+    "summary": "この記事について\n\n\n対象読者：Spring Boot から Claude API を呼んでいて、そのレイテンシ・トークン・コスト・失敗を可視化したい人／LLM 呼び出しに OpenTelemetry を入れる最小の型を知りたい人\n\n得られること：Spring Boot 3 標準の Micrometer Observation を OpenTelemetry（OTLP）で送り出し、Claude 呼び出しを 1 本の span として計測する方法。さらにトークン数と推定コストをメトリクス化し、ローカルの OTel Collector → Jaeger・Prometheus・Grafan...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--zXmeZdMt--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Spring%2520Boot%2520%25E3%2581%25A7%2520Claude%2520API%2520%25E5%2591%25BC%25E3%2581%25B3%25E5%2587%25BA%25E3%2581%2597%25E3%2582%2592%2520OpenTelemetry%2520%25E3%2581%25A7%25E8%25A8%2588%25E6%25B8%25AC%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:PROPAGANDIST%2520CORPO...%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzI3YTYxNDM0MjMuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-06-27 22:15:18",
+    "ja_summary": "Spring BootからClaude APIを呼び出す際、Micrometer Observationを活用してレイテンシやコストを可視化する方法を解説。\nOpenTelemetryを用いてLLM呼び出しを計測し、JaegerやGrafana等でモニタリングするための最小構成を紹介。\nトークン消費量や推定コストの追跡手法を学び、LLM運用の最適化を図るための実装ガイド。"
+  },
+  {
+    "title": "コードを書かずに、MulmoClaude で note 記事をアニメーション付き動画にする",
+    "link": "https://zenn.dev/singularity/articles/2026-06-26-mulmoclaude-html-tailwind-animation",
+    "source": "Zenn Trends",
+    "published": "Sat, 27 Jun 2026 06:23:06 GMT",
+    "summary": "!\nこの記事は、MulmoClaude を使って note の記事を 1 本のプレゼン動画に仕立てた記録です。記事そのものも、MulmoClaude と一緒に書きました。\n\n\n はじめに\n気になった note の記事を、MulmoClaude でナレーション付きのプレゼン動画にしてみました。日本語で指示しながら、スライドが動く動画まで仕上げていった過程をまとめます。\nそもそも MulmoClaude とは何か。中島聡主導で開発が進む MulmoClaude は、従来の「各アプリに LLM を組み込む」やり方ではなく、『人間の言葉を理解する AI がいることを前提に、AI ネイティブなコン...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--PgQtYtzj--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2589%25E3%2582%2592%25E6%259B%25B8%25E3%2581%258B%25E3%2581%259A%25E3%2581%25AB%25E3%2580%2581MulmoClaude%2520%25E3%2581%25A7%2520note%2520%25E8%25A8%2598%25E4%25BA%258B%25E3%2582%2592%25E3%2582%25A2%25E3%2583%258B%25E3%2583%25A1%25E3%2583%25BC%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3%25E4%25BB%2598%25E3%2581%258D%25E5%258B%2595%25E7%2594%25BB%25E3%2581%25AB%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Yasutaka%2520Nishii%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzZiNjM5MTg4YzEuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2582%25B7%25E3%2583%25B3%25E3%2582%25AE%25E3%2583%25A5%25E3%2583%25A9%25E3%2583%25AA%25E3%2583%2586%25E3%2582%25A3%25E3%2583%25BB%25E3%2582%25BD%25E3%2582%25B5%25E3%2582%25A8%25E3%2583%2586%25E3%2582%25A3%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2M1ZGU2NjYyZDEuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-06-27 22:15:18",
+    "ja_summary": "・AIツール「MulmoClaude」を活用し、コードを書かずにnote記事からプレゼン動画を自動生成する手法を解説。\n・記事の執筆からナレーション付き動画への変換まで、AIとの対話のみで完結させるプロセスを紹介。\n・AIネイティブな設計思想に基づいたツールで、コンテンツ制作の効率化と自動化を実現。"
+  },
+  {
+    "title": "シニアエンジニアがコードをほぼ書かなくなった理由",
+    "link": "https://zenn.dev/acntechjp/articles/22f7b6f9258008",
+    "source": "Zenn Trends",
+    "published": "Fri, 26 Jun 2026 09:45:05 GMT",
+    "summary": "「AIはコードを書く。人間はコードを読む。」\n\n私はソフトウェアエンジニアとして15年のキャリアがある。コードを書くことが仕事だと思っていた。\n今は違う。コードを書くのはAIで、私は仕様を書いている。\n今、私が書くコードは体感で全体の1%に満たない。業務もプライベートも関係なく、コードを書くのはAIだ。\n残業時間は大幅に削減され、生産性は飛躍的に向上した。\nこれは私に起きた変化の記録だ。\n\n\n TL;DR\n\n\n仕様書を書く — ClaudeにはSpec.mdを渡す。あいまいな指示はあいまいなコードを生む\n\nAIが書いたコードを読む — 全承認は品質の低下。コードを読む力が今一番大事なス...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--mh3UlMlQ--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25B7%25E3%2583%258B%25E3%2582%25A2%25E3%2582%25A8%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%258B%25E3%2582%25A2%25E3%2581%258C%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2589%25E3%2582%2592%25E3%2581%25BB%25E3%2581%25BC%25E6%259B%25B8%25E3%2581%258B%25E3%2581%25AA%25E3%2581%258F%25E3%2581%25AA%25E3%2581%25A3%25E3%2581%259F%25E7%2590%2586%25E7%2594%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:ShintaroAmaike%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2U2ZDA4MDY5ODcuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Accenture%2520Japan%2520%2528%25E6%259C%2589%25E5%25BF%2597%2529%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzVmNWYzMmE0MWIuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-06-27 22:15:19",
+    "ja_summary": "・AIがコード作成を担い、エンジニアは仕様設計とコードのレビューに専念するスタイルへ移行した。\n・AI活用により残業が大幅に減少し、生産性が飛躍的に向上した。\n・コードを書く能力以上に、AI生成物を検証し品質を担保する「読む力」が重要となっている。"
+  },
+  {
+    "title": "画像から読み取り",
+    "link": "https://speakerdeck.com/norikotakiguchi/hua-xiang-karadu-miqu-ri",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-06-27T07:33:14-04:00",
+    "summary": "画像から読み取り\n~ Build native Android app in Google AI Studio ~\n~ Chat with Gemma4 ~\n\nGoogle I/O Extended 2026 in Kyoto\nLT発表資料",
+    "image": "https://files.speakerdeck.com/presentations/1c9087eea68c462d9733c297e8138b2d/preview_slide_0.jpg?39831162",
+    "fetched_at": "2026-06-27 22:15:19",
+    "ja_summary": "・Google AI Studioを活用したAndroidネイティブアプリ開発手法を紹介\n・次世代モデル「Gemma 4」との対話機能を実装する技術的アプローチ\n・Google I/O Extended 2026 in Kyotoでの登壇資料の要旨"
+  },
+  {
+    "title": "AIでおしゃれな画面を作るためのデザインシステムを学ぼう！",
+    "link": "https://qiita.com/yusuke_ando_vj/items/dd17a285217a15841a3a",
+    "source": "Qiita (Popular)",
+    "published": "2026-06-24T20:51:08+09:00",
+    "summary": "Webサイトのデザインを、AIやデザイナーに「おしゃれにしてください」「いい感じにしてください」だけで依頼すると、完成イメージが大きくズレます。\n\nなぜなら、Webデザインには「どんな情報を・どの順番で・どんなレイアウトで・どんな雰囲気で・どんな色で・どんな文字で・どんな部品で・スマホではどう」という**複数の観点**があるからです。\n\nこの記事では、AIでおしゃれな画面を作るために知っておきたい",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmxoMy5nb29nbGV1c2VyY29udGVudC5jb20lMkZhJTJGQUNnOG9jSlEySi00V2JmcGtIRUJQd0psbWJiSDl2ejVqMjRBLTliQ04tWUR0WWNueC1kMW1BJTNEczk2LWM_aXhsaWI9cmItNC4xLjEmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPTVkNGI5NWFlMzA1Njk3NzA3ZTZkMzUyZDYwZTU5ZTQ5%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkY0YjhiYzU1OGU0ZTliOTk1Nzc5NDIxMGUxY2NmY2MzY2RkNmI3ZGRiJTJGb3JpZ2luYWwuanBnJTNGMTY3Njc5NjQyMj9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz0xNWI1ZjczNjlmYzk2MmFmNmE3MTcxMmUxMGRmYWFhOQ%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D3bac63bdb957e1de0b1095ea971d5eb3?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9QUklRTMlODElQTclRTMlODElOEElRTMlODElOTclRTMlODIlODMlRTMlODIlOEMlRTMlODElQUElRTclOTQlQkIlRTklOUQlQTIlRTMlODIlOTIlRTQlQkQlOUMlRTMlODIlOEIlRTMlODElOUYlRTMlODIlODElRTMlODElQUUlRTMlODMlODclRTMlODIlQjYlRTMlODIlQTQlRTMlODMlQjMlRTMlODIlQjclRTMlODIlQjklRTMlODMlODYlRTMlODMlQTAlRTMlODIlOTIlRTUlQUQlQTYlRTMlODElQkMlRTMlODElODYlRUYlQkMlODEmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1lMDM1MGQyMmM5MTA2MTViY2FlOWU1YjgxM2UwYTMzMA&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDB5dXN1a2VfYW5kb192aiZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWYzZjU1MzRjOWUyNDBmOTcwZDQyZDMyMWM2NmI2ZGI5&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=5qCq5byP5Lya56S-VklTSU9OQVJZIEpBUEFO&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=8fd438a9bb203f8b9d432ac0f8dc5a72",
+    "fetched_at": "2026-06-27 22:15:21",
+    "ja_summary": "・AIへの曖昧な指示は完成イメージとの乖離を招く。\n・デザインにはレイアウトや色など複数の構成要素が必要。\n・AIで理想の画面を作るには「デザインシステム」の理解が不可欠。"
+  },
+  {
+    "title": "【AI駆動開発】AIに「図を描いて」と頼むと“それっぽいけど使えない図”が出てくる問題を、draw.io生成スキルで倒した",
+    "link": "https://qiita.com/enomoso_pm/items/68d1a29728e5ee339779",
+    "source": "Qiita (Popular)",
+    "published": "2026-06-18T02:16:47+09:00",
+    "summary": "## はじめに\n\n受託開発やSESの現場にいると、**とにかく「図」を作る場面が多い**んですよね。\n\n業務フロー図、システム構成図、ER図、シーケンス図、画面遷移図、体制図、CI/CDパイプライン……。設計書のページをめくるたびに図、図、図。しかもこれ、お客様に出す資料だったりするので、雑には作れません。\n\n「じゃあAIに描かせればいいじゃん」と思うじゃないですか。僕もそう思ってました。\n\nでも",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGNDE5NzQyOCUyRnByb2ZpbGUtaW1hZ2VzJTJGMTc2MTc1ODE5Mz9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NzE3YWRkZWFiMTZjNWMzYTgxMzU1OTM5NjYwNDg0NGU%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D4ec77b39af33aa7e840bf906b087cb5b?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJTkwQUklRTklQTclODYlRTUlOEIlOTUlRTklOTYlOEIlRTclOTklQkElRTMlODAlOTFBSSVFMyU4MSVBQiVFMyU4MCU4QyVFNSU5QiVCMyVFMyU4MiU5MiVFNiU4RiU4RiVFMyU4MSU4NCVFMyU4MSVBNiVFMyU4MCU4RCVFMyU4MSVBOCVFOSVBMCVCQyVFMyU4MiU4MCVFMyU4MSVBOCVFMiU4MCU5QyVFMyU4MSU5RCVFMyU4MiU4QyVFMyU4MSVBMyVFMyU4MSVCRCVFMyU4MSU4NCVFMyU4MSU5MSVFMyU4MSVBOSVFNCVCRCVCRiVFMyU4MSU4OCVFMyU4MSVBQSVFMyU4MSU4NCVFNSU5QiVCMyVFMiU4MCU5RCVFMyU4MSU4QyVFNSU4NyVCQSVFMyU4MSVBNiVFMyU4MSU4RiVFMyU4MiU4QiVFNSU5NSU4RiVFOSVBMSU4QyVFMyU4MiU5MiVFMyU4MCU4MWRyYXcuaW8lRTclOTQlOUYlRTYlODglOTAlRTIlODAlQTYmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1lZDEyMDY4NTU5YTM3NzYzNjEyNmEzMzk4NDRjYjFmZA&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBlbm9tb3NvX3BtJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9N2YzYjgxMTVhOGE4MjVkMjMzMGY3NzA5YTdkNTFkNTc&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=5d5ae79157c38f6c5ba8cd5e15df5f49",
+    "fetched_at": "2026-06-27 22:15:23",
+    "ja_summary": "・開発現場で必須の図解作成をAIに任せると、見た目だけで実用性が低い問題が発生する。\n・この課題に対し、draw.ioの編集可能な形式でAIに出力させる技術により解決を図った。\n・AI生成物の修正コストを抑え、実務でそのまま活用可能な資料作成を実現する。"
+  },
+  {
     "title": "Gensparkが7月に大規模アップデートを予告。累計1000億円調達のAI新興企業が日韓市場を狙うワケ",
     "link": "https://www.businessinsider.jp/article/2606-genspark-workspace-6-ai-workspace/",
     "source": "Business Insider Japan",
@@ -938,65 +998,5 @@
     "image": "https://images.ctfassets.net/kftzwdyauwt9/3JAh8VK98LHki9m4sr8KIR/3580b8ab65aca167342a3c674847531e/SEO_Card__2_.png?w=1600&amp;h=900&amp;fit=fill",
     "fetched_at": "2026-06-26 16:43:05",
     "ja_summary": "・OpenAIの研究で、AIエージェントが複雑かつ長期的なタスクを自律的に遂行可能であることが判明。\n・個人の役割を超えた生産性向上が実現し、業務の進め方が根本から変革されている。\n・AIは単なる補助ツールから、複雑なプロセスを完遂する実務パートナーへと進化している。"
-  },
-  {
-    "title": "AI-DLCを “そのまま導入しなかった”話 ~組織に合わせてアジャストした 私たちの実践共有~",
-    "link": "https://speakerdeck.com/hiroramos4/aidlc-casestudy",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-06-26T03:22:19-04:00",
-    "summary": "AWS Summit Japan 2026 の Builders Community Lounge のチョークトーク枠で話をした資料です。",
-    "image": "https://files.speakerdeck.com/presentations/b04df623b4de4ddebe7029751f74317d/preview_slide_0.jpg?39821895",
-    "fetched_at": "2026-06-26 16:43:19",
-    "ja_summary": "・AWSのAI-DLCをそのまま利用せず、組織の要件に合わせて最適化した実践事例。\n・汎用的な技術を導入する際、組織課題に合わせた調整の重要性と具体的手法を解説。\n・技術導入における「標準採用」と「現場適応」のバランスを学ぶ内容。"
-  },
-  {
-    "title": "PostgreSQL 19 新機能概要 OSC Hokkaido 2026",
-    "link": "https://speakerdeck.com/nori_shinoda/postgresql-19-xin-ji-neng-gai-yao-osc-hokkaido-2026",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-06-26T03:07:07-04:00",
-    "summary": "PostgreSQL 19 New Features Summary @ OSC Hokkaido 2026",
-    "image": "https://files.speakerdeck.com/presentations/5a142c96c62148bcb72aaa0782f8e452/preview_slide_0.jpg?39821772",
-    "fetched_at": "2026-06-26 16:43:19",
-    "ja_summary": "OSC Hokkaido 2026にて、次期バージョンPostgreSQL 19の主要な新機能が発表された。\nデータベースのパフォーマンス向上や運用管理の効率化に焦点を当てた機能強化が図られている。\n最新技術動向の把握に向け、開発者やDB管理者必見の内容となっている。"
-  },
-  {
-    "title": "自分が詳しくない領域でAIを使う #プロヒス2026",
-    "link": "https://speakerdeck.com/konifar/zi-fen-gaxiang-sikunailing-yu-deaiwoshi-u",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-06-26T02:18:22-04:00",
-    "summary": "PRODUCT HISTORY CONFERENCE 2026\nhttps://lp-prohis.youtrust.jp/",
-    "image": "https://files.speakerdeck.com/presentations/a2cfa29cad72498298aab4a4e9922bad/preview_slide_0.jpg?39820870",
-    "fetched_at": "2026-06-26 16:43:19",
-    "ja_summary": "・専門外の領域でもAIを活用し、成果を出すための実践的な手法を学ぶ。\n・PRODUCT HISTORY CONFERENCE 2026にて、AI時代の新たな働き方やスキル習得法を共有。\n・未経験分野へのAI導入を加速させたいビジネスパーソン向けに知見を公開。"
-  },
-  {
-    "title": "Agile and AI Redmine Japan 2026",
-    "link": "https://speakerdeck.com/hiranabe/agile-and-ai-redmine-japan-2026",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-06-26T00:46:50-04:00",
-    "summary": "Redmine Japan 2026 アジャイルと開発の場づくり�〜暗黙知の逆襲〜",
-    "image": "https://files.speakerdeck.com/presentations/f704de625d6f4aef82ee9ab4b83801b7/preview_slide_0.jpg?39819632",
-    "fetched_at": "2026-06-26 16:43:19",
-    "ja_summary": "・Redmine Japan 2026が「アジャイルと開発の場づくり」をテーマに開催決定\n・AI活用とアジャイル開発を軸に、組織の暗黙知をいかに価値へ変えるかを探求\n・開発現場の生産性とナレッジ共有の最適化を目指すイベント"
-  },
-  {
-    "title": "「勝手に広まる」人気 AI エージェントを爆速で作ろう！（AWS Summit Japan 2026講演資料）",
-    "link": "https://speakerdeck.com/minorun365/sheng-shou-niguang-maru-ren-qi-ai-ezientowobao-su-dezuo-rou-aws-summit-japan-2026jiang-yan-zi-liao",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-06-24T09:14:06-04:00",
-    "summary": "AWS Summit Japan 2026\nhttps://aws.amazon.com/jp/events/summits/japan/",
-    "image": "https://files.speakerdeck.com/presentations/a5bf566483bf4f239d2e85c033744122/preview_slide_0.jpg?39801874",
-    "fetched_at": "2026-06-26 16:43:19",
-    "ja_summary": "・AIが自律的にタスクを遂行する「AIエージェント」の効率的な開発手法を解説\n・AWSのツールを活用し、短期間で高品質なAIエージェントを構築するノウハウを紹介\n・ビジネスの自動化を加速させ、勝手に価値を生み出す仕組みづくりの指針を提示"
-  },
-  {
-    "title": "並列で思考を分けたら、AIレビューの精度もコンテキスト効率も同時に上がった話",
-    "link": "https://qiita.com/fwatanab/items/345691e0d2260d5f34a5",
-    "source": "Qiita (Popular)",
-    "published": "2026-06-24T16:23:20+09:00",
-    "summary": "## はじめに\n\nAIにコードレビューをやらせるとき「1つのエージェントに全部チェックさせる」のをやめて、**複数の専門エージェントに並列で分業させる** 構成に変えたら、精度が体感で大きく上がりました。\n\nただ、本当の収穫は精度向上そのものより、**「並列で思考を分ける」こと自体が、コンテキスト効率とハルシネーション対策を同時に解決していた** ことに気づけたことでした。\n\n---\n\n## 1人",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0MzQ0NzI5JTJGZDExYWZlMWMyMWY2NjA1MjY4NjlmNTY3ZWUxYmEzZjI0YmM3MzNlMCUyRnhfbGFyZ2UucG5nJTNGMTc2OTQwMDc2Nz9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NzhmYTQ0MmYwZGU4Yzg4MWVlYWQ0NTliYmIyMDY0NDg%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkZhZmM0ZGJhZjAzNThlOGQwYjM0NmM4ZDc1ZWIwMzdiMjVmNjc4MDY5JTJGb3JpZ2luYWwuanBnJTNGMTYwNzc1NjU4OD9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz03NjRmYjE2ODMxYjQ2ZDU0NTgwMmI1MGMzYWMxODM2MQ%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3Dbefd1b21d8e139ac8038c4181e7d5d18?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUU0JUI4JUE2JUU1JTg4JTk3JUUzJTgxJUE3JUU2JTgwJTlEJUU4JTgwJTgzJUUzJTgyJTkyJUU1JTg4JTg2JUUzJTgxJTkxJUUzJTgxJTlGJUUzJTgyJTg5JUUzJTgwJTgxQUklRTMlODMlQUMlRTMlODMlOTMlRTMlODMlQTUlRTMlODMlQkMlRTMlODElQUUlRTclQjIlQkUlRTUlQkElQTYlRTMlODIlODIlRTMlODIlQjMlRTMlODMlQjMlRTMlODMlODYlRTMlODIlQUQlRTMlODIlQjklRTMlODMlODglRTUlOEElQjklRTclOEUlODclRTMlODIlODIlRTUlOTAlOEMlRTYlOTklODIlRTMlODElQUIlRTQlQjglOEElRTMlODElOEMlRTMlODElQTMlRTMlODElOUYlRTglQTklQjEmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz02MjU5YmZjMTRhNTRhZWRjODUzNTY4MzhmYTk5YTM3OA&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBmd2F0YW5hYiZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWRjZjgzMzE2MGQ1MDdkMjE0NGZjNzgyYjQzODk1YTg5&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=5qCq5byP5Lya56S-44K344Oz44K344Ki&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=a3cc4c7ccb469dbe83a04a94abc43da2",
-    "fetched_at": "2026-06-26 16:43:20",
-    "ja_summary": "・AIによるコードレビューを単一から複数専門エージェントの並列分業型へ変更。\n・役割を分担することで、レビュー精度が大幅に向上。\n・並列化によりコンテキストの効率化とハルシネーション抑制が同時に実現。"
   }
 ]
