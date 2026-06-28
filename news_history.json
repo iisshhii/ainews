@@ -1,5 +1,55 @@
 [
   {
+    "title": "AI特需が生んだIPOブーム…〈AIデータセンター増設→電力需要急増〉で新興エネルギー企業に資金が殺到 | 政治・経済・投資 | 東洋経済オンライン",
+    "link": "https://toyokeizai.net/articles/-/949577?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+    "source": "東洋経済オンライン",
+    "published": "Sun, 28 Jun 2026 21:00:00 +0900",
+    "summary": "AIブームが進む中､膨大な電力需要が新たな市場を生み､ウォール街は電力関連企業への投資に沸いています。",
+    "image": "https://tk.ismcdn.jp/mwimgs/b/2/1200w/img_b2e2c0059fef3e5217e835c877404ee8238215.jpg?nextgen=false",
+    "fetched_at": "2026-06-28 23:14:09",
+    "ja_summary": "・AIデータセンターの急増で電力需要が爆発的に増加。\n・電力不足が新たな市場を生み、投資家が新興エネルギー企業へ殺到。\n・ウォール街で電力関連銘柄がIPOブームの中心となり、投資先として注目を集めている。"
+  },
+  {
+    "title": "Helping build shared standards for advanced AI",
+    "link": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
+    "source": "OpenAI",
+    "published": "Tue, 23 Jun 2026 13:00:00 GMT",
+    "summary": "OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/5QquFbmHjfSUovww9EUMcm/07e61e7f25fa04044767e9a0c11237e1/helping-build-shared-standards-for-advanced-ai-16_9.png?w=1600&amp;h=900&amp;fit=fill",
+    "fetched_at": "2026-06-28 23:14:37",
+    "ja_summary": "・OpenAIが「Appia Foundation」を通じ、AIの評価基準や安全性のガイドライン策定を主導。\n・高度なAI開発における国際的な標準化と安全な運用体制の構築を支援する。\n・世界規模の連携を強化し、AIの健全な発展とリスク管理の両立を目指す。"
+  },
+  {
+    "title": "How Omio is building the future of conversational travel",
+    "link": "https://openai.com/index/omio",
+    "source": "OpenAI",
+    "published": "Tue, 23 Jun 2026 00:00:00 GMT",
+    "summary": "Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/6wFIgOcT1xK5IvZQIDJ2xQ/edf82561f00cdb27cf3ffcfcad7cd215/oai_Omio_SEO.png?w=1600&amp;h=900&amp;fit=fill",
+    "fetched_at": "2026-06-28 23:14:38",
+    "ja_summary": "・旅行予約サイトOmioがOpenAIの技術を導入し、対話型（AI）旅行体験の提供を開始。\n・AI活用により製品開発を迅速化させ、AIネイティブ企業への転換を加速。\n・検索から予約までをAIがサポートする、次世代の旅行予約プラットフォームを構築。"
+  },
+  {
+    "title": "Claude Codeのセッションを見下ろし型オフィスとして可視化するツールを作った",
+    "link": "https://zenn.dev/breakbot/articles/53e7f1c6564f26",
+    "source": "Zenn Trends",
+    "published": "Sat, 27 Jun 2026 21:11:42 GMT",
+    "summary": "作ったもの\nClaude Code のセッションを、見下ろし型のオフィスとして眺められるデスクトップアプリを作りました。\n\nローカルの ~/.claude/ を監視していて、エージェントを社員、動いているセッションをオーケストレーターとして描いています。誰が今なにをしているか、どの hooks がいつ発火したか、といったものがリアルタイムで動く、というものです。\nリポジトリはこちら。macOS 専用です。\nhttps://github.com/t-soda/claude-code-park\n\n なぜ作ったのか\n既存のプロジェクトを Claude Code で触っていると、チーム固有の...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--z5RZxP1e--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%25E3%2581%25AE%25E3%2582%25BB%25E3%2583%2583%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3%25E3%2582%2592%25E8%25A6%258B%25E4%25B8%258B%25E3%2582%258D%25E3%2581%2597%25E5%259E%258B%25E3%2582%25AA%25E3%2583%2595%25E3%2582%25A3%25E3%2582%25B9%25E3%2581%25A8%25E3%2581%2597%25E3%2581%25A6%25E5%258F%25AF%25E8%25A6%2596%25E5%258C%2596%25E3%2581%2599%25E3%2582%258B%25E3%2583%2584%25E3%2583%25BC%25E3%2583%25AB%25E3%2582%2592%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:breakbot%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly96ZW5uLWRldi5naXRodWIuaW8vZGVmYXVsdC1hdmF0YXJzL2RhcmsvYi5wbmc=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-06-28 23:15:00",
+    "ja_summary": "Claude Codeの動作状況を、オフィス内の社員や業務のように見下ろし型で可視化するmacOS用デスクトップアプリが公開されました。\nローカルのセッションやフックの動きをリアルタイムで監視し、エージェントの活動状況を直感的に把握できます。\n開発中の状況を俯瞰することで、チームでの開発効率や運用フローの理解を促進するツールです。"
+  },
+  {
+    "title": "スマホのみでWebアプリ開発。Codexで作って公開した話",
+    "link": "https://zenn.dev/bit_and_coffee/articles/gexam-practice-app",
+    "source": "Zenn Trends",
+    "published": "Sat, 27 Jun 2026 14:08:03 GMT",
+    "summary": "作ったもの\nG検定の受験対策として、ブラウザだけで動く模擬試験Webアプリを作りました。\n公開URL: https://gexam-practice.web.app\nただ、この記事で一番書きたいのはアプリの機能ではありません。\n今回のポイントは、スマホからChatGPTアプリでCodexにアクセスし、Codex経由で自宅の開発用PCを操作しながら作業したことです。\nスマホでコードを直接書いたわけではありません。スマホから指示を出し、実際のファイル確認・編集・生成・整理は、自宅PC上のCodexに任せました。\n\n 流れを図にすると\n今回の作業イメージはこうです。\n\n流れとしては、次のよ...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--zL6kYOtn--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25B9%25E3%2583%259E%25E3%2583%259B%25E3%2581%25AE%25E3%2581%25BF%25E3%2581%25A7Web%25E3%2582%25A2%25E3%2583%2597%25E3%2583%25AA%25E9%2596%258B%25E7%2599%25BA%25E3%2580%2582Codex%25E3%2581%25A7%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%25A6%25E5%2585%25AC%25E9%2596%258B%25E3%2581%2597%25E3%2581%259F%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Urapy%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzJmZDNhMWVmN2YuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-06-28 23:15:01",
+    "ja_summary": "スマホを活用し、自宅PC上のCodex（AI）へ指示を出すことで、外出先からG検定対策のWebアプリを開発・公開した。\nコードを直接書くのではなく、AIにPCを操作させる手法で開発効率化を実現。\nスマホのみでの遠隔開発という、新しいAI活用事例を示した。"
+  },
+  {
     "title": "Introducing Claude Tag",
     "link": "https://www.anthropic.com/news/introducing-claude-tag",
     "source": "Anthropic (News)",
@@ -948,55 +998,5 @@
     "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0NDQ1NzkwJTJGOTNjYWJkNzI5MmE3YzJiNDJlYzM2OGJmNGM4OWY5MzIwMGMxMGEwZCUyRmxhcmdlLnBuZyUzRjE3ODExMDQwNTE_aXhsaWI9cmItNC4xLjEmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPTExNDA1M2EzZmNlM2VlZTFkZDI0ZDhiMjdlYzMyMzIw%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D187ae6dffcca3782de1c09f3976edbe8?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9QUklRTklQTclODYlRTUlOEIlOTUlRTklOTYlOEIlRTclOTklQkElRTMlODElQUUlRTMlODIlQkIlRTMlODIlQUQlRTMlODMlQTUlRTMlODMlQUElRTMlODMlODYlRTMlODIlQTMlRTMlODAlODElRTclQjUlOTAlRTUlQjElODAlRTMlODElQTklRTMlODElOTMlRTMlODElQkUlRTMlODElQTclRTMlODIlODQlRTMlODIlOEMlRTMlODElQjAlRTMlODElODQlRTMlODElODQlRUYlQkMlOUYmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz0xZmQwMzQ0M2M3YWFkMTU4YWFmMTk4ZWI5NGM2OTI3NQ&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDB1ZG93YW5sbGMmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz0yYzljZmYzYjZlZmQ0MmY5NmMxZjFiMTc1MmZjNzMxOA&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=16872242e95e4589cb64d28b4d257459",
     "fetched_at": "2026-06-27 00:16:52",
     "ja_summary": "AI駆動開発には特有のリスクが存在するため、情報の重要度に応じて対策を3段階に分けるのが有効です。\n一般的な開発、厳格な情報管理、および規制業種レベルの最厳格な管理という、組織ごとの対応基準を整理しています。\nセキュリティ方針を策定する際、自社に必要な保護レベルを明確化し、段階的に適用することが推奨されます。"
-  },
-  {
-    "title": "「発明したのに1位じゃない」──キオクシア社長がこぼした悔しさ　ストレージ市場制覇の展望は【一問一答】",
-    "link": "https://www.itmedia.co.jp/business/articles/2606/25/news118.html",
-    "source": "ITmedia ビジネス",
-    "published": "Thu, 25 Jun 2026 19:19:00 +0900",
-    "summary": "AI需要を追い風に躍進を続ける、半導体メモリ大手のキオクシアホールディングス。シェア1位奪取を見据える同社の経営陣が、今後の市況や競合との競争について、6月25日の株主総会で見解を語った。",
-    "image": "https://image.itmedia.co.jp/business/articles/2606/25/cover_news118.jpg",
-    "fetched_at": "2026-06-26 21:33:12",
-    "ja_summary": "・AI需要を背景に成長するキオクシアが、半導体メモリ市場でのシェア1位奪取を表明。\n・かつてNAND型フラッシュメモリを発明した企業としての悔しさを滲ませつつ、成長戦略を強調。\n・株主総会にて、激化する市場競争への対応と今後の展望について経営陣が見解を示した。"
-  },
-  {
-    "title": "開発が進む「GW級データセンター」、投資額10兆円で48兆円の価値は本当か",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00692/062500191/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "現在世界中で、消費電力がギガワット（GW）を超えるAI（人工知能）用のデータセンターの開発プロジェクトが進行中だ。米NVIDIAのファンCEOによれば、1GW級データセンターの投資額は近い将来、800億ドルから1000億ドル（約13兆円から約16兆円）という水準に達する見込みなのだという。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/00692/062500191/topm.jpg?20220512",
-    "fetched_at": "2026-06-26 21:33:26",
-    "ja_summary": "・AI需要拡大に伴い、消費電力1GW級の超巨大データセンター開発が世界で加速。\n・NVIDIAの予測では、1拠点あたりの投資額は将来的に最大約16兆円規模に達する。\n・巨額投資に見合う経済価値の創出が今後の市場拡大の鍵となる。"
-  },
-  {
-    "title": "Unity AI の概要",
-    "link": "https://note.com/npaka/n/n4434920529b7",
-    "source": "note (npaka)",
-    "published": "Sun, 21 Jun 2026 10:07:15 +0900",
-    "summary": "<p id=\"ebe56a18-9297-4a13-b94e-d1a66a67c59a\" name=\"ebe56a18-9297-4a13-b94e-d1a66a67c59a\">「Unity AI」の概要をまとめました。</p><br /><br /><a href=\"https://note.com/npaka/n/n4434920529b7\">続きをみる</a>",
-    "image": "https://assets.st-note.com/production/uploads/images/287316065/rectangle_large_type_2_116c7efaa415a5e22ba90a423d99d73f.png?width=800",
-    "fetched_at": "2026-06-26 21:33:34",
-    "ja_summary": "・Unityは開発環境にAIを統合し、ワークフローの効率化とゲームのインテリジェンス向上を支援する機能を提供。\n・生成AIによるアセット作成や、NPCの高度な行動制御など、開発の生産性を高める様々なAIツールを展開。\n・開発者はUnityのAIプラットフォームを活用することで、迅速なコンテンツ制作と没入感のある体験構築が可能。"
-  },
-  {
-    "title": "Apple製品が一斉値上げ、iPadやMacほか20～75%上昇　iPhoneやWatchは含まず",
-    "link": "https://www.techno-edge.net/article/2026/06/26/5226.html",
-    "source": "TechnoEdge",
-    "published": "Fri, 26 Jun 2026 00:09:22 +0900",
-    "summary": "・AppleはMac・iPad・HomePod・Apple TV・Vision Proを対象に一斉値上げ。iPhoneは今回対象外。<br />\n・値上げの背景はAI需要急増によるDRAM・ストレージチップの供給不足と円安の進行。<br />\n・Mac Studioは最大9万1000円増と最大の値上げ幅。Appleは今後も追加改定を示唆。",
-    "image": "https://www.techno-edge.net/imgs/rss/32556.jpg",
-    "fetched_at": "2026-06-26 21:33:42",
-    "ja_summary": "・MacやiPadなど主要製品が一斉値上げ。iPhoneとApple Watchは対象外。\n・AI需要による部品不足と円安が影響し、最大9万円超の価格上昇も。\n・Appleは今後もさらなる価格改定を示唆しており、購入タイミングに注意が必要。"
-  },
-  {
-    "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
-    "link": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
-    "source": "OpenAI",
-    "published": "Wed, 24 Jun 2026 06:00:00 GMT",
-    "summary": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.",
-    "image": "https://images.ctfassets.net/kftzwdyauwt9/4DeZq8e24W4qgIrtAu4Xmg/54189176ae1c6150d94cac02fb104f79/openai-broadcom-jalapeno-inference-chip-image-16_9.png?w=1600&amp;h=900&amp;fit=fill",
-    "fetched_at": "2026-06-26 21:33:44",
-    "ja_summary": "・OpenAIとBroadcomがLLM推論専用のAIチップ「Jalapeño」を共同開発。\n・AIモデルの推論性能と効率を大幅に向上させ、スケーラビリティを強化。\n・大規模なAIシステム運用におけるコストとパフォーマンスの最適化を目指す。"
   }
 ]
