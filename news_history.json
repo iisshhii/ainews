@@ -1,5 +1,35 @@
 [
   {
+    "title": "「AIを使うと他社と似てしまう」課題をどう乗り越える？　「プロダクトの差別化」の要点",
+    "link": "https://www.itmedia.co.jp/business/articles/2606/26/news076.html",
+    "source": "ITmedia ビジネス",
+    "published": "Fri, 26 Jun 2026 18:15:00 +0900",
+    "summary": "生成AIの普及は製品の没個性化や、個人の生産性向上によるチームの分断という課題を生んでいる。米Figmaはカンファレンスで、AI出力を人間が微調整する「素材」として扱う手法を提示。自社ルールを組織全体で共有する仕組みを実装した。個人の暗黙知を資産化する取り組みは、現場の属人化を防ぐだけでなく、無駄なAIコストを最大30％削減し価値創造を支えるものだ。",
+    "image": "https://image.itmedia.co.jp/business/articles/2606/26/cover_news076.jpg",
+    "fetched_at": "2026-06-28 19:37:56",
+    "ja_summary": "・生成AIによる製品の没個性化を防ぐため、AI出力を素材として人間が微調整する手法が有効。\n・組織独自のナレッジを共有・資産化することで、属人化を解消し業務を標準化できる。\n・ルール整備によりAI活用のムダを最大30％削減し、製品の差別化と効率化を両立できる。"
+  },
+  {
+    "title": "米ブラックストーン、データセンターに25兆円投資　「AIはまだまだ序盤」 (AIデータセンター・エフェクト)",
+    "link": "https://business.nikkei.com/atcl/gen/19/00887/062500010/",
+    "source": "日経ビジネス 最新",
+    "published": "",
+    "summary": "米投資ファンドのブラックストーンは、1600億ドル（約25兆円）規模のデータセンター投資を計画中だ。同社日本法人で不動産部門を率いる橘田大輔氏は、急膨張するAIインフラ市場について「まだまだ序盤だ」と意気込む。",
+    "image": "https://business.nikkei.com/atcl/gen/19/00887/062500010/fb.jpg",
+    "fetched_at": "2026-06-28 19:37:59",
+    "ja_summary": "・米ブラックストーンがAI需要拡大を見込み、データセンターへ約25兆円を投じる計画を発表。\n・同社はAIインフラ市場を「まだ序盤」と捉え、今後もさらなる急成長を予測。\n・世界的なデータセンター不足を背景に、不動産・インフラ投資を加速させている。"
+  },
+  {
+    "title": "オムロンがBedrock活用で知財AIエージェント内製、特許関連工数を50％減",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03664/062600003/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "オムロンは2026年6月26日のAWS Summit Japanで、自社開発したAI（人工知能）エージェントとAI基盤について講演した。Amazon Web Services（AWS）の生成AI基盤「Amazon Bedrock」などを活用し、特許出願前の先行技術調査や説明書作成といった業務に要する工数を50％削減した。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03664/062600003/topm.jpg?20220512",
+    "fetched_at": "2026-06-28 19:38:02",
+    "ja_summary": "・オムロンがAmazon Bedrockを活用し、特許業務を支援するAIエージェントを自社開発。\n・先行技術調査や説明書作成といった特許関連の業務工数を50％削減。\n・生成AIの活用により、知財部門の業務効率化と内製化を推進。"
+  },
+  {
     "title": "ドローン飛行禁止エリア、周囲300m→1000mに拡大　国会や空港・原発など対象",
     "link": "https://japan.cnet.com/article/35249438/",
     "source": "CNET Japan",
@@ -968,35 +998,5 @@
     "image": "https://images.ctfassets.net/kftzwdyauwt9/6wFIgOcT1xK5IvZQIDJ2xQ/edf82561f00cdb27cf3ffcfcad7cd215/oai_Omio_SEO.png?w=1600&amp;h=900&amp;fit=fill",
     "fetched_at": "2026-06-26 21:33:45",
     "ja_summary": "・OmioがOpenAIの技術を導入し、対話型AIによる旅行予約サービスへ転換。\n・AI活用により製品開発を加速させ、AIネイティブな企業への変革を推進。\n・対話を通じたより直感的でシームレスな旅行体験の提供を目指す。"
-  },
-  {
-    "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
-    "link": "https://openai.com/index/patch-the-planet",
-    "source": "OpenAI",
-    "published": "Mon, 22 Jun 2026 10:00:00 GMT",
-    "summary": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
-    "image": "https://images.ctfassets.net/kftzwdyauwt9/28CORR4fvsUacNtm39ZFFM/f57721baa5b429689844d619a4f1e5dd/SEO_Card__1_.png?w=1600&amp;h=900&amp;fit=fill",
-    "fetched_at": "2026-06-26 21:33:45",
-    "ja_summary": "・OpenAIがオープンソースの脆弱性対策を支援する「Patch the Planet」を開始。\n・AIと専門家のレビューを組み合わせ、脆弱性の発見から修正までをサポート。\n・オープンソースソフトウェアの安全性向上とメンテナンスの負担軽減を目指す。"
-  },
-  {
-    "title": "Introducing Claude Tag",
-    "link": "https://www.anthropic.com/news/introducing-claude-tag",
-    "source": "Anthropic (News)",
-    "published": "Tue, 23 Jun 2026 00:00:00 +0000",
-    "summary": "Introducing Claude Tag",
-    "image": "https://cdn.sanity.io/images/4zrzovbb/website/b9ba85fd4d8beaf4efe04a4cf6cec14761e52c78-2400x1260.jpg",
-    "fetched_at": "2026-06-26 21:33:45",
-    "ja_summary": "Anthropicが新機能「Claude Tag」を発表。\nタグ付け機能により、チャット内の特定のやり取りやトピックを効率的に管理・整理可能。\n情報の検索性とプロジェクトの整理能力が向上し、ワークフローを最適化する。"
-  },
-  {
-    "title": "AI 不只幫你寫 Code： 當專案從 300 暴增到 1500， 我們如何撐住 DevOps",
-    "link": "https://speakerdeck.com/appleboy/ai-bu-zhi-bang-ni-xie-code-dang-zhuan-an-cong-300-bao-zeng-dao-1500-wo-men-ru-he-cheng-zhu-devops",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-06-26T07:01:30-04:00",
-    "summary": "AI Agent 浪潮席捲企業，帶來的不只是開發效率的提升，還有一個很多人沒預料到的副作用 — 公司的專案數量從 300 個在短時間內暴增到 1500 個。\n\n當每個單位都在用 AI 快速產出服務，DevOps 的壓力不是線性成長，而是指數級爆炸。\n\n這場演講要分享的，是我們如何在這波暴風式成長中，建立起一套可規模化的 DevOps 體系，讓品質不會因為速度而崩盤。\n\n第一，讓 AI 守住每一個 PR 的品質底線。 \n\n1500 個專案，靠人力 Review 已經不可能。\n\n我們在 PR 流程中導入 AI 驅動的架構審查與資安審查，讓每個專案不管大小，都有一道自動化的品質防線。\n\n這不是錦上添花，而是在這個規模下唯一能活的方式。\n\n第二，讓新團隊兩週內跑起來，而不是三個月。 \n\n面對大量湧入的新專案與新單位，我們不可能每次都花三個月手把手導入開發流程。\n\n透過 AI 輔助，團隊導入標準化流程的時間從三個月壓縮到兩週，讓 DevOps 的推廣速度跟得上專案的增長速度。\n\n第三，用 GitOps 打造 MCP 服務的自動化上架流水線。 \n\n當 AI Agent 本身成為需要部署的服務，我們用 Gitea、API 與 Gitea Action 建立了一套 GitOps 驅動的 MCP 上架流程。\n\n一次 git push，從程式碼到服務上線全自動完成。\n\n人幫 AI 建 DevOps，這件事已經不是未來式，而是我們的日常。\n\n這場演講不講理論，只講真實戰場上的決策、取捨與教訓。\n\n如果你的組織也正在面對 AI 帶來的爆發式成長，這場分享會讓你看到一條走過驗證的路。\n\n\n\n聽眾收穫：\n\n學會如何用 AI 驅動 PR 審查，在專案數量暴增時仍能守住品質與資安底線\n了解如何將新團隊導入標準化開發流程的時間從三個月壓縮到兩週\n掌握以 GitOps 驅動 MCP 服務自動化上架的流水線實作方式\n獲得一套經過 300→1500 專案規模驗證的 DevOps 擴展策略與實戰經驗\n\nhttps://devopsdays.tw/2026/session/4709",
-    "image": "https://files.speakerdeck.com/presentations/cba7d7fb06094d0faa1c4f979fa15871/preview_slide_0.jpg?39824527",
-    "fetched_at": "2026-06-26 21:33:51",
-    "ja_summary": "・AI導入で急増した開発プロジェクト（300から1500件）に対し、AIを活用した自動化でDevOpsの負荷を吸収。\n・AIによるコードレビュー・セキュリティチェックの自動化と、標準化プロセスの導入により、開発の品質維持と立ち上げ期間の短縮（3ヶ月から2週間）を両立。\n・GitOpsを用いた全自動デプロイパイプラインを構築し、AIサービスを迅速かつ継続的に提供できる体制を実現。"
   }
 ]
