@@ -1,5 +1,25 @@
 [
   {
+    "title": "「AIの使いすぎ」は逆効果？ 調査が明かす「トークンマキシング」の落とし穴",
+    "link": "https://www.businessinsider.jp/article/2605-ai-tokenmaxxing-fails-as-productivity-strategy-jellyfish/",
+    "source": "Business Insider Japan",
+    "published": "Fri, 26 Jun 2026 10:00:00 GMT",
+    "summary": "ジェリーフィッシュ（Jellyfish）のデータによると、AIによる「トークンマックス」はコーディングの生産性を高める一方で、トークンを過度に使用すると企業にとって収益の逓減をもたらすことが示されているます。",
+    "image": "https://media.loom-app.com/loom/2026/05/07/d9fe2904-838a-4a63-897e-80f030acb555/original.jpg?w=1200&amp;h=630",
+    "fetched_at": "2026-06-29 01:47:26",
+    "ja_summary": "・AIによるコーディング支援は生産性を高めるが、トークンの過剰使用は収益効率を低下させる。\n・AIへの依存度が高すぎると「収益の逓減」が起こるリスクがある。\n・ツール活用においては、生産性とコストのバランスを最適化する視点が不可欠。"
+  },
+  {
+    "title": "Claude Code × Codex × Obsidian Vault ― AI 二刀流で作る「何でも相談」環境の全設定公開",
+    "link": "https://qiita.com/htani0817/items/5c5bffcbb53241ed5b54",
+    "source": "Qiita (Popular)",
+    "published": "2026-06-28T15:58:20+09:00",
+    "summary": "> **2026-04-29 追記**: 初稿から約2週間運用した結果、スキル体制・MCP構成・CLAUDE.md の中身がかなり変わりました。各セクションに取消線＋追記で差分を残しています。\n>\n> **2026-05-18 追記**: モデルを Sonnet 4.6 に変更・`effortLevel` 削除・フック2本追加（機密ファイル保護 / frontmatter チェック）・`claud",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Ftech-festa-ogp-background-4b5015b2c518c7e6b9062a7c9f5f5e90.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0MDk4MjM2JTJGYTI2OGI2ZjZkYjYyMjg4ODc4NTdhZTU3MzIwNzAxYzhmOWRjYjFkNCUyRmxhcmdlLnBuZyUzRjE3NDgyNzY3NzU_aXhsaWI9cmItNC4xLjEmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPTA4ODc0N2ExZjBiN2EzYWEyNjUxNzMzNDRjZjMzZjg4%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D64011d4cf50491c6a5c5aca1f74bdbe4?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9Q2xhdWRlJTIwQ29kZSUyMCVDMyU5NyUyMENvZGV4JTIwJUMzJTk3JTIwT2JzaWRpYW4lMjBWYXVsdCUyMCVFMiU4MCU5NSUyMEFJJTIwJUU0JUJBJThDJUU1JTg4JTgwJUU2JUI1JTgxJUUzJTgxJUE3JUU0JUJEJTlDJUUzJTgyJThCJUUzJTgwJThDJUU0JUJEJTk1JUUzJTgxJUE3JUUzJTgyJTgyJUU3JTlCJUI4JUU4JUFCJTg3JUUzJTgwJThEJUU3JTkyJUIwJUU1JUEyJTgzJUUzJTgxJUFFJUU1JTg1JUE4JUU4JUE4JUFEJUU1JUFFJTlBJUU1JTg1JUFDJUU5JTk2JThCJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjNGRkZGRkYmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9NWY0M2Y1N2M4ZjIwOGY0MDMxMjRkODNiYTUzMTQ1N2E&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBodGFuaTA4MTcmdHh0LWNvbG9yPSUyM0ZGRkZGRiZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz0wZDg2OWIyZWZmNjM0MzA1OTczZmIyMTZiMzk5NTg5Mg&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=3a75c6e343cb2682c209f1ee4705641f",
+    "fetched_at": "2026-06-29 01:48:00",
+    "ja_summary": "・Claude CodeとObsidianを連携させ、AIが自身の知識ベースを参照して回答する「何でも相談」環境を構築。\n・運用の知見を反映し、MCP設定やセキュリティフック、モデル最適化などの詳細な構成を公開。\n・継続的にアップデートされる実戦的なAI開発環境の構築手法を解説。"
+  },
+  {
     "title": "「発明したのに1位じゃない」──キオクシア社長がこぼした悔しさ　ストレージ市場制覇の展望は【一問一答】",
     "link": "https://www.itmedia.co.jp/business/articles/2606/25/news118.html",
     "source": "ITmedia ビジネス",
@@ -978,25 +998,5 @@
     "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGNDIwMjIwNCUyRnByb2ZpbGUtaW1hZ2VzJTJGMTc1OTE5NjQyNj9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9YTdiYmU2MDJkM2M4MjlmNDQzZDMyZmViZjc0ZjkyMjQ%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkZlYmQ5Njg3Yjk0MzAwMWI5NzlkNmU0YWY1MGFiYWU4YTc5MWE4ZGE1JTJGb3JpZ2luYWwuanBnJTNGMTc1NjE4NjM1Mz9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz1hOTMyMDU4NWNlNzJmY2QyNGJiNGQ0MDNkYTA2MGM1OA%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D20ac04f62b081f68cfdc5bfbdfaacaba?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgzJTkwJUUzJTgyJUE0JUUzJTgzJTk2JUUzJTgyJUIzJUUzJTgzJUJDJUUzJTgzJTg3JUUzJTgyJUEzJUUzJTgzJUIzJUUzJTgyJUIwJUUzJTgxJThDJUUzJTgwJThDUlBBJUU1JTk1JThGJUU5JUExJThDJUUzJTgwJThEJUUzJTgyJTkyJUU1JTg2JThEJUU2JUJDJTk0JUUzJTgxJTk3JUUzJTgxJUE2JUUzJTgxJTg0JUUzJTgyJThCJUUzJTgwJTgyJUU1JUIxJTlFJUU0JUJBJUJBJUU1JThDJTk2JUUzJTgzJUJCJUU5JTg3JThEJUU4JUE0JTg3JUUzJTgzJUJCJUUzJTgzJTk2JUUzJTgzJUE5JUUzJTgzJTgzJUUzJTgyJUFGJUUzJTgzJTlDJUUzJTgzJTgzJUUzJTgyJUFGJUUzJTgyJUI5JUUzJTgyJTkyJUU5JTk4JUIyJUUzJTgxJTkwJUU2JTlDJTgwJUU1JUIwJThGJUUzJTgyJUFDJUUzJTgzJTkwJUUzJTgzJThBJUUzJTgzJUIzJUUzJTgyJUI5JUUyJTgwJUE2JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9MmFhNzhiZDQwNmUxYmJhZGMxMTM3Yjc3YTM1ZGEzYjU&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBoaXJhc2hpbWEtZ21vY29ubmVjdCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWY5Y2VhMzFlNTlkN2IyZjI1ZDgyMDUwMzQ4NGE1ZTRi&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=R01P44Kz44ON44Kv44OI5qCq5byP5Lya56S-&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=c91fe38bc1bc5abd1617095380d0e963",
     "fetched_at": "2026-06-27 02:14:42",
     "ja_summary": "AIによる自動コーディング（バイブコーディング）の普及で、過去のRPA同様に「属人化・乱立・ブラックボックス化」が再発している。\nツール導入の利便性を活かしつつ、開発の標準化や管理体制といった最小限のガバナンス設計が必要である。\n過去のRPA運用の教訓を参考に、組織的な開発ルールを整備することが持続可能な運用の鍵となる。"
-  },
-  {
-    "title": "野村総合研究所・柳澤花芽社長「DXからAI変革企業に進化」 (編集長インタビュー)",
-    "link": "https://business.nikkei.com/atcl/NBD/19/00119/00342/",
-    "source": "日経ビジネス 最新",
-    "published": "",
-    "summary": "金融機関や製造業を中心に企業のデジタルトランスフォーメーション（DX）支援で成長してきた。AI（人工知能）エージェントをフル活用し、システム開発の高度化や顧客の事業変革を加速する。顧客の暗黙知を生かしシステムインテグレーターとして独自の地位を築く。",
-    "image": "https://business.nikkei.com/atcl/NBD/19/00119/00342/fb.jpg",
-    "fetched_at": "2026-06-27 00:15:53",
-    "ja_summary": "・野村総合研究所はDX支援を強みに、AIエージェントを活用した「AI変革企業」へ進化する。\n・システム開発の高度化と顧客の事業変革を加速させ、競争力を高める。\n・顧客の暗黙知をシステムに落とし込む独自の手法で、市場での確固たる地位を築く。"
-  },
-  {
-    "title": "キリンHDは戦略会議に「12人のAI役員」が同席　AIが経営を決める日　圧倒的勝者と敗者は誰 (第2特集)",
-    "link": "https://business.nikkei.com/atcl/NBD/19/00117/00418/",
-    "source": "日経ビジネス 最新",
-    "published": "",
-    "summary": "高性能化が進む人工知能（AI）が、新たな労働力として経営の前提を変えつつある。事業の中枢に組み込めるかどうかで企業は勝者と敗者に二分される危機が迫る。経営判断や組織、事業のあり方を見直した先駆的企業の挑戦から針路を探る。",
-    "image": "https://business.nikkei.com/atcl/NBD/19/00117/00418/fb.jpg",
-    "fetched_at": "2026-06-27 00:15:54",
-    "ja_summary": "キリンHDが戦略会議に「AI役員」を導入するなど、AIが経営判断に直結する時代が到来している。\n事業の中枢へAIを組み込めるかどうかが、企業の生存を分ける決定的な差となる。\n先駆的な企業の事例を参考に、AI時代の組織と経営の在り方を再定義すべきである。"
   }
 ]
