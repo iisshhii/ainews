@@ -1,5 +1,55 @@
 [
   {
+    "title": "〈マネジメント 再設計のススメ②〉管理職の仕事の6割が消える？AI発展の先に残る仕事は｢判断のルールブックの言語化｣だ | キャリア・教育 | 東洋経済オンライン",
+    "link": "https://toyokeizai.net/articles/-/949334?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+    "source": "東洋経済オンライン",
+    "published": "Sun, 28 Jun 2026 09:00:00 +0900",
+    "summary": "AIの進化が管理職の仕事に変革をもたらしています。しかし｢効率化｣のはずが作業時間は減らず､むしろ仕事量が増えたと感じる声も。なぜAIは管理職の負担を軽減しきれないのか？その根本原因と､AI時代に求…",
+    "image": "https://tk.ismcdn.jp/mwimgs/0/d/1200w/img_0ddba0f81e0929b612ff7b2fc13d233c223838.jpg?nextgen=false",
+    "fetched_at": "2026-06-28 13:47:25",
+    "ja_summary": "AI活用で業務効率化が進むはずが管理職の負担が増加する逆転現象が発生。\n今後は定型業務ではなく、AIが判断を下すための「判断基準の言語化」が管理職の最重要スキルになる。\nAIを単なる効率化ツールではなく、判断のルールを標準化・明確化するためのパートナーとして再定義すべき。"
+  },
+  {
+    "title": "Opus 4.8に肉薄するオープンソースモデル「GLM-5.2」、VRAM4.5GBで動くコーディング特化AI「Gemma4-12B-Coder」など生成AI技術5つを解説（生成AIウィークリー）",
+    "link": "https://www.techno-edge.net/article/2026/06/28/5232.html",
+    "source": "TechnoEdge",
+    "published": "Sun, 28 Jun 2026 11:35:30 +0900",
+    "summary": "この1週間の気になる生成AI技術・研究をいくつかピックアップして解説する今回の「生成AIウィークリー」（第149回）は、Opus 4.8に肉薄するオープンソースモデル「GLM-5.2」や、テキストや画像から動き回れるゲーム世界を創るAI「DreamX-World 1.0」を取り上げます。",
+    "image": "https://www.techno-edge.net/imgs/rss/32571.png",
+    "fetched_at": "2026-06-28 13:47:51",
+    "ja_summary": "・高性能なオープンソースモデル「GLM-5.2」や、低VRAMで動くコーディング特化AI「Gemma4-12B-Coder」が登場。\n・テキストや画像から動的なゲーム世界を生成する「DreamX-World 1.0」など、最新の生成AI技術5選を紹介。\n・生成AIの進化が加速しており、軽量性と実用性を両立したモデル開発がトレンドとなっている。"
+  },
+  {
+    "title": "hoge+fuga@example.com は「エイリアス」ではない",
+    "link": "https://zenn.dev/mai_llj/articles/3eefb32e632563",
+    "source": "Zenn Trends",
+    "published": "Sat, 27 Jun 2026 15:07:10 GMT",
+    "summary": "はじめに\n先日、このような投稿を見かけました。\nメールサーバをセルフホストして、サービスごとに別々のアドレスを割り当てている方のところに、とあるお寿司チェーンにしか教えていないはずのアドレス宛にフィッシングメールが届いたそうです。おかげで、どこから漏れたのかが一発でわかった、という話でした。アドレスの出どころを切り分けられる運用自体はすごく良いと思います。\n問題はそのあとです。反応には「Gmailのエイリアスを使えばいい」という声が並び、投稿主ご本人も「厳密にはCatch-Allではなくエイリアスで運用している、区切り文字をピリオドにしているので弾かれにくい」と補足していました。\nこ...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--t7B7-WTu--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:hoge%252Bfuga%2540example.com%2520%25E3%2581%25AF%25E3%2580%258C%25E3%2582%25A8%25E3%2582%25A4%25E3%2583%25AA%25E3%2582%25A2%25E3%2582%25B9%25E3%2580%258D%25E3%2581%25A7%25E3%2581%25AF%25E3%2581%25AA%25E3%2581%2584%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%25BE%25E3%2581%2584%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzdmNTEzN2E4NDMuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-06-28 13:48:04",
+    "ja_summary": "・「hoge+fuga@example.com」形式はGmail等の「サブアドレス」であり、技術的には「エイリアス」とは別物である。\n・サービスごとにアドレスを変える運用は漏洩経路の特定に有効だが、両者の混同は設定や仕様上の誤解を招く恐れがある。\n・正確な理解と適切な使い分けが、セキュリティ運用において重要である。"
+  },
+  {
+    "title": "Claude Code と Codex のレビュー機能は脆弱性をどれだけ見つけられるかをOWASP Benchmark で検証",
+    "link": "https://zenn.dev/yukkie1114/articles/3d927e8c28e085",
+    "source": "Zenn Trends",
+    "published": "Sat, 27 Jun 2026 08:55:23 GMT",
+    "summary": "はじめに\nAI にコードレビューをさせる――少し前なら半信半疑だった使い方が、いまではAIにレビューさせている人も多いのではないでしょうか。\n便利だと思う一方で、前からずっと引っかかっていたことがあります。\n\n「結局、どのレビュー方式が一番、脆弱性を見逃さないんだろう？」\n\nClaude Code にはレビュー用のコマンドが何種類かあります（/code-review、/security-review、/review）。\nCodex にも /review があります。\nそこで、この4つを 答え（正解ラベル）がはっきり決まっているデータを使って測ってみることにしました。\n\n なぜ「Cla...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--LTHi7qbz--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%2520%25E3%2581%25A8%2520Codex%2520%25E3%2581%25AE%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25E6%25A9%259F%25E8%2583%25BD%25E3%2581%25AF%25E8%2584%2586%25E5%25BC%25B1%25E6%2580%25A7%25E3%2582%2592%25E3%2581%25A9%25E3%2582%258C%25E3%2581%25A0%25E3%2581%2591%25E8%25A6%258B%25E3%2581%25A4%25E3%2581%2591%25E3%2582%2589%25E3%2582%258C%25E3%2582%258B%25E3%2581%258B%25E3%2582%2592OWASP%2520Benchma...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Shinoda%2520Yukihiro%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzJjNGNjMDlhMjUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-06-28 13:48:04",
+    "ja_summary": "Claude CodeとCodexの各レビュー機能について、正解が明確なOWASP Benchmarkを用いて脆弱性の検出精度を検証した。\nAIのコードレビューにおける信頼性を客観的なデータで評価し、どの機能が最も見逃しが少ないかを明らかにしている。"
+  },
+  {
+    "title": "【初学者向け】Google AI Studioでwebアプリを作ってみよう",
+    "link": "https://zenn.dev/kanaru/articles/a8fc555cdbb6b0",
+    "source": "Zenn Trends",
+    "published": "Sat, 27 Jun 2026 04:49:22 GMT",
+    "summary": "Google AI Studioとは？\nGoogleが提供するアプリ開発のプラットフォームです。\nwebアプリやandroidアプリを作って公開できます。\nアプリにGeminiのAIを組み込んだり、GoogleカレンダーやSpreadSheetなどのGoogleサービスと連携したアプリを作れます。\n\n\n やること\n\nGoogle AI Studioで日本語の指示でwebアプリを作る\n共有URLで他人に共有する\n\n!\nGoogle AI Studioで作ったものをプロダクトとして公開するには従量課金の有効化が必要なのでこの記事では解説しません。\n個人的にはGoogle AI Studi...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--jSv8Aso6--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590%25E5%2588%259D%25E5%25AD%25A6%25E8%2580%2585%25E5%2590%2591%25E3%2581%2591%25E3%2580%2591Google%2520AI%2520Studio%25E3%2581%25A7web%25E3%2582%25A2%25E3%2583%2597%25E3%2583%25AA%25E3%2582%2592%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%25BF%25E3%2582%2588%25E3%2581%2586%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Kanaru%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzY5N2Y3N2JhM2EuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-06-28 13:48:05",
+    "ja_summary": "・Google AI Studioは、GeminiやGoogleサービスと連携したアプリを簡単に開発できるプラットフォーム。\n・日本語の指示でWebアプリを作成し、共有URLを通じて他者へ公開することが可能。\n・開発の基礎を学べる内容だが、商用公開には従量課金設定が必要となる点に注意。"
+  },
+  {
     "title": "半導体マイクロン･テクノロジー｢キャンセルできない5年契約｣が拡大…最新決算が映すメモリー市場の変化 | 政治・経済・投資 | 東洋経済オンライン",
     "link": "https://toyokeizai.net/articles/-/949500?utm_source=rss&utm_medium=http&utm_campaign=link_back",
     "source": "東洋経済オンライン",
@@ -948,55 +998,5 @@
     "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03664/062600003/topm.jpg?20220512",
     "fetched_at": "2026-06-26 19:38:34",
     "ja_summary": "・オムロンがAmazon Bedrockを活用し、特許業務を支援するAIエージェントを自社開発。\n・先行技術調査や説明書作成といった特許関連業務の工数を50％削減。\n・生成AIの活用により、知的財産部門の業務効率化と内製化を実現。"
-  },
-  {
-    "title": "ドローン飛行禁止エリア、周囲300m→1000mに拡大　国会や空港・原発など対象",
-    "link": "https://japan.cnet.com/article/35249438/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "ドローン飛行禁止エリア、主要施設の周囲「300m」→「1000m」に拡大　国会や空港・原発など対象<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35249438/\"><img src=\"https://japan.cnet.com/storage/2026/06/25/49e0d4bf247db6bdde0647896e8eccca/t/184/138/d/r8_kaisei__1_.jpeg\" /></a>",
-    "image": "https://japan.cnet.com/storage/2026/06/25/49e0d4bf247db6bdde0647896e8eccca/t/184/138/d/r8_kaisei__1_.jpeg",
-    "fetched_at": "2026-06-26 19:38:38",
-    "ja_summary": "・国会、空港、原発などの周辺におけるドローン飛行禁止区域が拡大\n・現行の半径300mから1000mへ規制範囲を大幅に引き上げ\n・テロ対策等の安全確保を目的に、規制強化が実施される"
-  },
-  {
-    "title": "「AIの使いすぎ」は逆効果？ 調査が明かす「トークンマキシング」の落とし穴",
-    "link": "https://www.businessinsider.jp/article/4c4d6766-b40d-4eb8-abe9-1c82027a3620/",
-    "source": "Business Insider Japan",
-    "published": "Fri, 26 Jun 2026 10:00:00 GMT",
-    "summary": "Jellyfish data shows that while AI &quot;tokenmaxxing&quot; boosts coding output, extreme token use delivers diminishing returns for companies.",
-    "image": "https://media.loom-app.com/loom/2026/05/07/d9fe2904-838a-4a63-897e-80f030acb555/original.jpg?w=1200&amp;h=630",
-    "fetched_at": "2026-06-26 19:38:39",
-    "ja_summary": "・AIによるコード生成は量こそ増えるが、過剰な利用は生産性の低下を招く。\n・トークン消費量を増やしても成果には限界があり、費用対効果が悪化する。\n・品質を維持するためには、AIの過度な依存を避け、適度な活用が重要。"
-  },
-  {
-    "title": "AI懐疑派ジャーナリスト、IPO前にオープンAIの財務へ警鐘を鳴らす。それに対して投資のプロはこう語る",
-    "link": "https://www.businessinsider.jp/article/2606-openai-ipo-ed-zitron-ai-losses-compute-spending/",
-    "source": "Business Insider Japan",
-    "published": "Fri, 26 Jun 2026 08:30:00 GMT",
-    "summary": "今月、エド・ジトロンがオープンAI（OpenAI）の財務詳細を明らかにした投稿は、ChatGPTの開発元である同社の待望のIPOを控えて、警戒感を呼び起こしました。",
-    "image": "https://media.loom-app.com/loom/2026/06/26/ab107dfb-6549-4732-8f1e-654cf649033a/original.jpg?w=1200&amp;h=630",
-    "fetched_at": "2026-06-26 19:38:40",
-    "ja_summary": "・ジャーナリストがOpenAIの財務状況に懸念を表明し、IPOに向けた警戒感が浮上している。\n・AI懐疑派の指摘に対し、投資専門家らがどのような見解を示すかに注目が集まっている。"
-  },
-  {
-    "title": "芸能人肖像 AIで無断使用4万件超",
-    "link": "https://news.yahoo.co.jp/pickup/6585623?source=rss",
-    "source": "Yahoo!ニュース IT・科学",
-    "published": "Thu, 25 Jun 2026 07:39:26 GMT",
-    "summary": "",
-    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/6/25/3e8d4abc9fb5be61bd90fbfe8673cf5df37901312fb9bc4c381659075ed89c42.jpg",
-    "fetched_at": "2026-06-26 19:38:45",
-    "ja_summary": "・AIにより芸能人の顔を無断使用した画像や動画が4万件以上確認された。\n・なりすまし広告や詐欺への悪用が懸念され、被害が深刻化している。\n・生成AIの普及に伴い、権利保護や法的規制の強化が急務となっている。"
-  },
-  {
-    "title": "マイクラを声で動かそうとしたら令和の「ピカチュウげんきでちゅう」になった話",
-    "link": "https://zenn.dev/m2lab/articles/koe-craft-agent-amivoice",
-    "source": "Zenn Trends",
-    "published": "Thu, 25 Jun 2026 22:11:25 GMT",
-    "summary": "!\nこの記事は、Minecraft を声で操作する自作 MOD の開発記録です。\n平成一桁生まれが、昔遊んだ「ピカチュウげんきでちゅう」のスイカ割りをふと思い出しながら書いています。\nとはいえ、思い出話だけの記事ではありません。\nAmiVoice API、音声入力のノイズ対策、生成 AI fallback、Minecraft 内での実行計画をどう分けたか、という実装の話をします。\n\n\n\n 🎙️ 物語のはじまり\nMinecraft を声で動かしたい。\n最初は、ただそれだけだった。\nキーボードもマウスも使わずに、\n\n「まっすぐ進んで」\n「木のツルハシ作って」\n「石のツルハシ作って」\n\nと言っ...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--5FKBfoww--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%259E%25E3%2582%25A4%25E3%2582%25AF%25E3%2583%25A9%25E3%2582%2592%25E5%25A3%25B0%25E3%2581%25A7%25E5%258B%2595%25E3%2581%258B%25E3%2581%259D%25E3%2581%2586%25E3%2581%25A8%25E3%2581%2597%25E3%2581%259F%25E3%2582%2589%25E4%25BB%25A4%25E5%2592%258C%25E3%2581%25AE%25E3%2580%258C%25E3%2583%2594%25E3%2582%25AB%25E3%2583%2581%25E3%2583%25A5%25E3%2582%25A6%25E3%2581%2592%25E3%2582%2593%25E3%2581%258D%25E3%2581%25A7%25E3%2581%25A1%25E3%2582%2585%25E3%2581%2586%25E3%2580%258D%25E3%2581%25AB%25E3%2581%25AA%25E3%2581%25A3%25E3%2581%259F%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Masa0209%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzA4ZWJkMzI1Y2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "fetched_at": "2026-06-26 19:39:07",
-    "ja_summary": "・Minecraftを音声のみで操作する自作MODの開発記録。\n・AmiVoice APIや生成AIを活用し、音声入力から実行までのシステムを構築。\n・往年の名作「ピカチュウげんきでちゅう」のような操作体験を実現する技術的アプローチを解説。"
   }
 ]
