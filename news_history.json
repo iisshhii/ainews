@@ -1,5 +1,25 @@
 [
   {
+    "title": "「AIを使うと他社と似てしまう」課題をどう乗り越える？　「プロダクトの差別化」の要点",
+    "link": "https://www.itmedia.co.jp/business/articles/2606/26/news076.html",
+    "source": "ITmedia ビジネス",
+    "published": "Fri, 26 Jun 2026 18:15:00 +0900",
+    "summary": "生成AIの普及は製品の没個性化や、個人の生産性向上によるチームの分断という課題を生んでいる。米Figmaはカンファレンスで、AI出力を人間が微調整する「素材」として扱う手法を提示。自社ルールを組織全体で共有する仕組みを実装した。個人の暗黙知を資産化する取り組みは、現場の属人化を防ぐだけでなく、無駄なAIコストを最大30％削減し価値創造を支えるものだ。",
+    "image": "https://image.itmedia.co.jp/business/articles/2606/26/cover_news076.jpg",
+    "fetched_at": "2026-06-30 03:20:58",
+    "ja_summary": "・AIの画一化による「没個性」を防ぐには、AI出力を素材として人間が微調整する手法が有効。\n・組織独自のナレッジを共有・資産化することで、属人化を排除しつつ一貫性のある製品開発が可能。\n・仕組み化により、無駄なAI生成コストを最大30％削減し、生産性と付加価値の向上を実現する。"
+  },
+  {
+    "title": "Introducing Claude Tag",
+    "link": "https://www.anthropic.com/news/introducing-claude-tag",
+    "source": "Anthropic (News)",
+    "published": "Tue, 23 Jun 2026 00:00:00 +0000",
+    "summary": "Introducing Claude Tag",
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/b9ba85fd4d8beaf4efe04a4cf6cec14761e52c78-2400x1260.jpg",
+    "fetched_at": "2026-06-30 03:21:34",
+    "ja_summary": "Claudeに新機能「Claude Tag」が導入されました。\n会話内で特定の情報をタグ付けし、文脈の管理や整理を効率化します。\nユーザーの利便性を高め、やり取りの生産性を向上させる機能です。"
+  },
+  {
     "title": "SAMURAI BLUEの選手が渋谷に出現!?　ロンドンで年商200億円を叩き出す「XRエンタメ」の勝機",
     "link": "https://www.itmedia.co.jp/business/articles/2606/29/news101.html",
     "source": "ITmedia ビジネス",
@@ -978,25 +998,5 @@
     "image": "https://images.ctfassets.net/kftzwdyauwt9/4DeZq8e24W4qgIrtAu4Xmg/54189176ae1c6150d94cac02fb104f79/openai-broadcom-jalapeno-inference-chip-image-16_9.png?w=1600&amp;h=900&amp;fit=fill",
     "fetched_at": "2026-06-29 00:40:53",
     "ja_summary": "・OpenAIとBroadcomがLLM推論専用のAIチップ「Jalapeño」を共同開発。\n・AIシステム全体の処理性能、効率、拡張性を大幅に向上させる狙い。\n・自社特化型のハードウェアにより、LLM運用のコスト低減と高速化を実現。"
-  },
-  {
-    "title": "AI特需が生んだIPOブーム…〈AIデータセンター増設→電力需要急増〉で新興エネルギー企業に資金が殺到 | 政治・経済・投資 | 東洋経済オンライン",
-    "link": "https://toyokeizai.net/articles/-/949577?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-    "source": "東洋経済オンライン",
-    "published": "Sun, 28 Jun 2026 21:00:00 +0900",
-    "summary": "AIブームが進む中､膨大な電力需要が新たな市場を生み､ウォール街は電力関連企業への投資に沸いています。",
-    "image": "https://tk.ismcdn.jp/mwimgs/b/2/1200w/img_b2e2c0059fef3e5217e835c877404ee8238215.jpg?nextgen=false",
-    "fetched_at": "2026-06-28 23:14:09",
-    "ja_summary": "・AIデータセンターの急増で電力需要が爆発的に増加。\n・電力不足が新たな市場を生み、投資家が新興エネルギー企業へ殺到。\n・ウォール街で電力関連銘柄がIPOブームの中心となり、投資先として注目を集めている。"
-  },
-  {
-    "title": "Helping build shared standards for advanced AI",
-    "link": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
-    "source": "OpenAI",
-    "published": "Tue, 23 Jun 2026 13:00:00 GMT",
-    "summary": "OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation.",
-    "image": "https://images.ctfassets.net/kftzwdyauwt9/5QquFbmHjfSUovww9EUMcm/07e61e7f25fa04044767e9a0c11237e1/helping-build-shared-standards-for-advanced-ai-16_9.png?w=1600&amp;h=900&amp;fit=fill",
-    "fetched_at": "2026-06-28 23:14:37",
-    "ja_summary": "・OpenAIが「Appia Foundation」を通じ、AIの評価基準や安全性のガイドライン策定を主導。\n・高度なAI開発における国際的な標準化と安全な運用体制の構築を支援する。\n・世界規模の連携を強化し、AIの健全な発展とリスク管理の両立を目指す。"
   }
 ]
