@@ -1,5 +1,85 @@
 [
   {
+    "title": "SAMURAI BLUEの選手が渋谷に出現!?　ロンドンで年商200億円を叩き出す「XRエンタメ」の勝機",
+    "link": "https://www.itmedia.co.jp/business/articles/2606/29/news101.html",
+    "source": "ITmedia ビジネス",
+    "published": "Mon, 29 Jun 2026 22:00:00 +0900",
+    "summary": "2026年のFIFAワールドカップ開幕に合わせ、渋谷・MIYASHITA PARKで、サッカー日本代表の選手たちが、その場所にいるかのように現れるプロジェクトが始動した。「シェアード・リアリティ」とは最先端の空間映像・通信技術を用いて、同じ空間や体験を多くの人々と同時に分かち合う没入型のテクノロジーや空間概念を指す。仕掛け人に、シェアード・リアリティビジネスの展望と、収益モデルを聞いた。",
+    "image": "https://image.itmedia.co.jp/business/articles/2606/29/cover_news101.jpg",
+    "fetched_at": "2026-06-30 01:08:06",
+    "ja_summary": "・2026年W杯に向け、渋谷でサッカー日本代表が実在するかのように現れる「シェアード・リアリティ」体験が始動。\n・最先端の空間映像技術を用い、大人数が同じ場所で没入型コンテンツを同時共有する。\n・ロンドンで年商200億円規模を築いた新興エンタメモデルを軸に、次世代の体験型ビジネスを展開。"
+  },
+  {
+    "title": "Opus 4.8に肉薄するオープンソースモデル「GLM-5.2」、VRAM4.5GBで動くコーディング特化AI「Gemma4-12B-Coder」など生成AI技術5つを解説（生成AIウィークリー）",
+    "link": "https://www.techno-edge.net/article/2026/06/28/5232.html",
+    "source": "TechnoEdge",
+    "published": "Sun, 28 Jun 2026 11:35:30 +0900",
+    "summary": "この1週間の気になる生成AI技術・研究をいくつかピックアップして解説する今回の「生成AIウィークリー」（第149回）は、Opus 4.8に肉薄するオープンソースモデル「GLM-5.2」や、テキストや画像から動き回れるゲーム世界を創るAI「DreamX-World 1.0」を取り上げます。",
+    "image": "https://www.techno-edge.net/imgs/rss/32571.png",
+    "fetched_at": "2026-06-30 01:08:37",
+    "ja_summary": "・高性能なオープンソースモデル「GLM-5.2」や、低メモリで動作するコーディング特化型AI「Gemma4-12B-Coder」が登場。\n・テキストや画像から動的なゲーム世界を生成する「DreamX-World 1.0」など、最新の生成AI技術5選を紹介。\n・生成AIの進化が加速しており、軽量化と高精度化の両立が重要なトレンドとなっている。"
+  },
+  {
+    "title": "Claude Codeに同じバグを3回出すと、自動でルール化される話",
+    "link": "https://zenn.dev/nexta_/articles/858e92ee22b4a4",
+    "source": "Zenn Trends",
+    "published": "Mon, 29 Jun 2026 02:00:09 GMT",
+    "summary": "こんにちは。製造業向けSaaSを開発しているエンジニアです。\nAIエージェントを使い込むと、誰もが必ずぶつかる壁があります。「同じ失敗を、何度もAIに繰り返される」ことと、その対策で記録を増やすと今度は 「記憶が肥大化して、肝心なルールがノイズに埋もれる」ことです。\n私はこの2つを、セッション履歴を 「一次資料」 として扱い、アジャイル開発のふりかえりのようにAI自身の振る舞いを少しずつルール化していく学習機構（cc-retrospective-learner）で解こうとしました。仕組み自体は大げさなものではなく、自分の .claude 環境で開発の区切りごとに /retrospecti...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--gB-0iH6f--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%25E3%2581%25AB%25E5%2590%258C%25E3%2581%2598%25E3%2583%2590%25E3%2582%25B0%25E3%2582%25923%25E5%259B%259E%25E5%2587%25BA%25E3%2581%2599%25E3%2581%25A8%25E3%2580%2581%25E8%2587%25AA%25E5%258B%2595%25E3%2581%25A7%25E3%2583%25AB%25E3%2583%25BC%25E3%2583%25AB%25E5%258C%2596%25E3%2581%2595%25E3%2582%258C%25E3%2582%258B%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:bik%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2U0ZGE2N2U3OWYuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Nexta%2520Tech%2520Blog%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2E5NjU1MTIwMzUuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-06-30 01:08:50",
+    "ja_summary": "AIエージェントの「同じ失敗を繰り返す」かつ「ルールが肥大化して機能しない」という課題に対し、セッション履歴から失敗を学習し、自動でルール化する仕組みを開発した。開発区切りごとにAIの振り返りを行うことで、指示のノイズを抑えつつ効率的なAI運用を実現している。"
+  },
+  {
+    "title": "UnityプロジェクトでAIを効率よく使うためのトークン節約術",
+    "link": "https://zenn.dev/gamedev_toollab/articles/a7364d37455a50",
+    "source": "Zenn Trends",
+    "published": "Mon, 29 Jun 2026 01:00:09 GMT",
+    "summary": "はじめに\n開発中、または運用中のUnityプロジェクトでAIコーディングエージェントを使うと、調査・実装・レビューの速度はかなり上がります。\n一方で、プロジェクトが大きくなるほど次の問題が起きやすくなります。\n\n関係ないフォルダまで読みに行く\n\nLibrary/ や Temp/ などの生成物を読もうとする\nScene / Prefab / ScriptableObject の巨大YAMLを丸ごと読む\nAddressablesの生成物やログを読み込んでトークンを消費する\n毎回同じプロジェクト説明をチャットで繰り返す\n\nAGENTS.md / CLAUDE.md に書きすぎて、逆に守られ...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--wYQk4bB8--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Unity%25E3%2583%2597%25E3%2583%25AD%25E3%2582%25B8%25E3%2582%25A7%25E3%2582%25AF%25E3%2583%2588%25E3%2581%25A7AI%25E3%2582%2592%25E5%258A%25B9%25E7%258E%2587%25E3%2582%2588%25E3%2581%258F%25E4%25BD%25BF%25E3%2581%2586%25E3%2581%259F%25E3%2582%2581%25E3%2581%25AE%25E3%2583%2588%25E3%2583%25BC%25E3%2582%25AF%25E3%2583%25B3%25E7%25AF%2580%25E7%25B4%2584%25E8%25A1%2593%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:GameDev%2520Tool%2520Lab%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jTEh3ZHc0dlFfSHJUUmJ0R0JhN0V4aVg0am45MXJBYWw2eUdzaFV0am55RFY0cHVBPXMyNTAtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-06-30 01:08:50",
+    "ja_summary": "UnityプロジェクトでAIを活用する際、不要なファイルや巨大なYAMLの読み込みがトークンを浪費する原因となる。\nAIが参照する範囲を制限し、プロジェクトの構造を整理することで、コストを抑えつつ開発効率を最大化できる。\n無駄な情報を読み込ませない設定やガイドラインの最適化が、AIコーディングの鍵となる。"
+  },
+  {
+    "title": "AIエージェントをUIにすることで、誰でも地理データを扱えるWebGISができた。",
+    "link": "https://zenn.dev/shimizu/articles/c1d19c39202eb3",
+    "source": "Zenn Trends",
+    "published": "Mon, 29 Jun 2026 00:21:17 GMT",
+    "summary": "概要\nGIS(地理情報システム)ソフトは難しい。\nまず、ボタンがたくさんあってどれを押せば良いのかわからない。\n\nQGIS\n知っておかねばならない前提知識も難しい。\n指定した地点の半径5kmにある喫茶店の数を数えたいだけなのに「このデータの単位は度数なのでメートル単位の座標系に変換してから5kmのバッファを作る必要が…」とか訳のわからないことを言われる。\nとても辛い。\nこれこそAIの力を使うべきなのでは？と思ってQGISをAIに操作させるMCPやプラグインを試してみたけれど、そもそもQGISが多機能すぎてこちらのやりたいことに対してAIが複雑すぎる手順を選択してしまったり、プロンプト...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--J1lHjdNw--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588%25E3%2582%2592UI%25E3%2581%25AB%25E3%2581%2599%25E3%2582%258B%25E3%2581%2593%25E3%2581%25A8%25E3%2581%25A7%25E3%2580%2581%25E8%25AA%25B0%25E3%2581%25A7%25E3%2582%2582%25E5%259C%25B0%25E7%2590%2586%25E3%2583%2587%25E3%2583%25BC%25E3%2582%25BF%25E3%2582%2592%25E6%2589%25B1%25E3%2581%2588%25E3%2582%258BWebGIS%25E3%2581%258C%25E3%2581%25A7%25E3%2581%258D%25E3%2581%259F%25E3%2580%2582%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:shimizu%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2JkYTIyNGNkOWQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-06-30 01:08:51",
+    "ja_summary": "専門知識が必要で操作が複雑な地理情報システム（GIS）を、AIエージェントをUIに組み込むことで誰でも扱えるWebGISを開発。\n従来は難解な設定や操作が必要だったデータ解析が、AIとの対話によって直感的に実行可能。\n複雑な専門ツールを使わずとも、目的の地理データを簡便に抽出・分析できる環境を実現した。"
+  },
+  {
+    "title": "Claude Codeの設計詰めスキル『grilling』の紹介",
+    "link": "https://zenn.dev/sato_frontend/articles/1a85841505b9bb",
+    "source": "Zenn Trends",
+    "published": "Sun, 28 Jun 2026 15:53:02 GMT",
+    "summary": "!\ngrillingはまだ使い始めたばかりなので、今後より良い使い方や運用が見えてきたら、随時この記事をアップデートしていきます。\n\n\n はじめに\nClaude Codeを使っていると、実装そのものよりも「実装前にどこまで設計を詰められているか」のほうが成果物に効く場面が増えてきました。\n実装後にQAで「この条件はどうなりますか？」「このケースは想定していますか？」と指摘されると、単なる修正では済まず、データ構造や画面設計まで戻ることがあります。納期が決まっているプロジェクトだと、この手戻りがかなりきついです。\nそこで最近使ってよかったのが、Matt Pocockさんが公開しているCla...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--IaOy-7tv--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%25E3%2581%25AE%25E8%25A8%25AD%25E8%25A8%2588%25E8%25A9%25B0%25E3%2582%2581%25E3%2582%25B9%25E3%2582%25AD%25E3%2583%25AB%25E3%2580%258Egrilling%25E3%2580%258F%25E3%2581%25AE%25E7%25B4%25B9%25E4%25BB%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:sato_frontend%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2EwNzYyOThkNTMuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-06-30 01:08:51",
+    "ja_summary": "・実装後の手戻りを防ぐため、実装前にClaude Codeを用いて設計を徹底的に詰める手法「grilling」が有効。\n・仕様の漏れや不整合を事前に洗い出すことで、プロジェクトの工数削減と品質向上が期待できる。\n・実装前に設計の精度を高めることが、現在の開発環境において最も成果に直結する重要なプロセスである。"
+  },
+  {
+    "title": "Our AI Agents Are Finally in Production -- And Now What? - OpenSouthCode 2026",
+    "link": "https://speakerdeck.com/deors/our-ai-agents-are-finally-in-production-and-now-what-opensouthcode-2026",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-06-29T11:25:00-04:00",
+    "summary": "Slides for the talk I delivered with José María Gutiérrez during OpenSouthCode 2026 (27 June 2026).",
+    "image": "https://files.speakerdeck.com/presentations/13d268dcdab84c60a2cc924c122dadd1/preview_slide_0.jpg?39847462",
+    "fetched_at": "2026-06-30 01:08:52",
+    "ja_summary": "・OpenSouthCode 2026でのAIエージェント実用化に関する講演資料。\n・現場導入が完了した後の、運用の在り方や次なる課題を解説。\n・実運用フェーズにおけるAI活用の指針を提示。"
+  },
+  {
+    "title": "Agentic Coding for Mobile Developers",
+    "link": "https://speakerdeck.com/peterfriese/agentic-coding-for-mobile-developers",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-06-29T10:19:12-04:00",
+    "summary": "Software engineering has changed dramatically. In just a few months, we’ve gone from AI-assisted code completion to fully autonomous coding agents that can build entire applications from simple prompts.\n\n*Or can they?*\n\nIn this talk, I am going to explain what coding agents are, how they work, and how you can use them most efficiently for your work.\n\nYou will learn\n\n– How coding agents work (inner / outer loop)\n– The role of AGENTS.md\n– What skills are, and why they are essential for coding agents\n– The importance of writing a clear specification\n– How to use all of this in your own projects\n\nThroughout the talk, I will demonstrate the key concepts by vibe-engineering a food-ordering app, backed by Firebase. You will walk away with a concrete recipe for using agentic coding in your own projects.",
+    "image": "https://files.speakerdeck.com/presentations/9c578e31908843e696ec3867277b0ed7/preview_slide_0.jpg?39847239",
+    "fetched_at": "2026-06-30 01:08:52",
+    "ja_summary": "・AIが単なるコード補完から、プロンプトだけでアプリを構築する自律型エージェントへと劇的に進化。\n・エージェントの仕組みや「AGENTS.md」等の必須スキルを解説し、開発効率を最大化する手法を伝授。\n・フード注文アプリの構築実演を通じ、自律型AIを実務に導入するための具体的な実践プロセスを学べる。"
+  },
+  {
     "title": "リコーとライズ・コンサルティング・グループが新会社、AI活用を伴走支援",
     "link": "https://xtech.nikkei.com/atcl/nxt/news/24/03278/",
     "source": "日経クロステック 総合",
@@ -918,85 +998,5 @@
     "image": "https://images.ctfassets.net/kftzwdyauwt9/5QquFbmHjfSUovww9EUMcm/07e61e7f25fa04044767e9a0c11237e1/helping-build-shared-standards-for-advanced-ai-16_9.png?w=1600&amp;h=900&amp;fit=fill",
     "fetched_at": "2026-06-28 23:14:37",
     "ja_summary": "・OpenAIが「Appia Foundation」を通じ、AIの評価基準や安全性のガイドライン策定を主導。\n・高度なAI開発における国際的な標準化と安全な運用体制の構築を支援する。\n・世界規模の連携を強化し、AIの健全な発展とリスク管理の両立を目指す。"
-  },
-  {
-    "title": "How Omio is building the future of conversational travel",
-    "link": "https://openai.com/index/omio",
-    "source": "OpenAI",
-    "published": "Tue, 23 Jun 2026 00:00:00 GMT",
-    "summary": "Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company.",
-    "image": "https://images.ctfassets.net/kftzwdyauwt9/6wFIgOcT1xK5IvZQIDJ2xQ/edf82561f00cdb27cf3ffcfcad7cd215/oai_Omio_SEO.png?w=1600&amp;h=900&amp;fit=fill",
-    "fetched_at": "2026-06-28 23:14:38",
-    "ja_summary": "・旅行予約サイトOmioがOpenAIの技術を導入し、対話型（AI）旅行体験の提供を開始。\n・AI活用により製品開発を迅速化させ、AIネイティブ企業への転換を加速。\n・検索から予約までをAIがサポートする、次世代の旅行予約プラットフォームを構築。"
-  },
-  {
-    "title": "Claude Codeのセッションを見下ろし型オフィスとして可視化するツールを作った",
-    "link": "https://zenn.dev/breakbot/articles/53e7f1c6564f26",
-    "source": "Zenn Trends",
-    "published": "Sat, 27 Jun 2026 21:11:42 GMT",
-    "summary": "作ったもの\nClaude Code のセッションを、見下ろし型のオフィスとして眺められるデスクトップアプリを作りました。\n\nローカルの ~/.claude/ を監視していて、エージェントを社員、動いているセッションをオーケストレーターとして描いています。誰が今なにをしているか、どの hooks がいつ発火したか、といったものがリアルタイムで動く、というものです。\nリポジトリはこちら。macOS 専用です。\nhttps://github.com/t-soda/claude-code-park\n\n なぜ作ったのか\n既存のプロジェクトを Claude Code で触っていると、チーム固有の...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--z5RZxP1e--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%25E3%2581%25AE%25E3%2582%25BB%25E3%2583%2583%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3%25E3%2582%2592%25E8%25A6%258B%25E4%25B8%258B%25E3%2582%258D%25E3%2581%2597%25E5%259E%258B%25E3%2582%25AA%25E3%2583%2595%25E3%2582%25A3%25E3%2582%25B9%25E3%2581%25A8%25E3%2581%2597%25E3%2581%25A6%25E5%258F%25AF%25E8%25A6%2596%25E5%258C%2596%25E3%2581%2599%25E3%2582%258B%25E3%2583%2584%25E3%2583%25BC%25E3%2583%25AB%25E3%2582%2592%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:breakbot%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly96ZW5uLWRldi5naXRodWIuaW8vZGVmYXVsdC1hdmF0YXJzL2RhcmsvYi5wbmc=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "fetched_at": "2026-06-28 23:15:00",
-    "ja_summary": "Claude Codeの動作状況を、オフィス内の社員や業務のように見下ろし型で可視化するmacOS用デスクトップアプリが公開されました。\nローカルのセッションやフックの動きをリアルタイムで監視し、エージェントの活動状況を直感的に把握できます。\n開発中の状況を俯瞰することで、チームでの開発効率や運用フローの理解を促進するツールです。"
-  },
-  {
-    "title": "スマホのみでWebアプリ開発。Codexで作って公開した話",
-    "link": "https://zenn.dev/bit_and_coffee/articles/gexam-practice-app",
-    "source": "Zenn Trends",
-    "published": "Sat, 27 Jun 2026 14:08:03 GMT",
-    "summary": "作ったもの\nG検定の受験対策として、ブラウザだけで動く模擬試験Webアプリを作りました。\n公開URL: https://gexam-practice.web.app\nただ、この記事で一番書きたいのはアプリの機能ではありません。\n今回のポイントは、スマホからChatGPTアプリでCodexにアクセスし、Codex経由で自宅の開発用PCを操作しながら作業したことです。\nスマホでコードを直接書いたわけではありません。スマホから指示を出し、実際のファイル確認・編集・生成・整理は、自宅PC上のCodexに任せました。\n\n 流れを図にすると\n今回の作業イメージはこうです。\n\n流れとしては、次のよ...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--zL6kYOtn--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25B9%25E3%2583%259E%25E3%2583%259B%25E3%2581%25AE%25E3%2581%25BF%25E3%2581%25A7Web%25E3%2582%25A2%25E3%2583%2597%25E3%2583%25AA%25E9%2596%258B%25E7%2599%25BA%25E3%2580%2582Codex%25E3%2581%25A7%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%25A6%25E5%2585%25AC%25E9%2596%258B%25E3%2581%2597%25E3%2581%259F%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Urapy%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzJmZDNhMWVmN2YuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "fetched_at": "2026-06-28 23:15:01",
-    "ja_summary": "スマホを活用し、自宅PC上のCodex（AI）へ指示を出すことで、外出先からG検定対策のWebアプリを開発・公開した。\nコードを直接書くのではなく、AIにPCを操作させる手法で開発効率化を実現。\nスマホのみでの遠隔開発という、新しいAI活用事例を示した。"
-  },
-  {
-    "title": "Introducing Claude Tag",
-    "link": "https://www.anthropic.com/news/introducing-claude-tag",
-    "source": "Anthropic (News)",
-    "published": "Tue, 23 Jun 2026 00:00:00 +0000",
-    "summary": "Introducing Claude Tag",
-    "image": "https://cdn.sanity.io/images/4zrzovbb/website/b9ba85fd4d8beaf4efe04a4cf6cec14761e52c78-2400x1260.jpg",
-    "fetched_at": "2026-06-28 21:08:10",
-    "ja_summary": "Claudeの新機能「Claude Tag」が発表されました。\n本機能の詳細は現時点で公開されておらず、順次アップデートされる予定です。"
-  },
-  {
-    "title": "時代は再び中世へ テクノ封建制の暗黒から、自律的コモンズによる「新たなルネサンス」への軌跡",
-    "link": "https://speakerdeck.com/nagatsu/shi-dai-hazai-bizhong-shi-he-tekunofeng-jian-zhi-noan-hei-kara-zi-lu-de-komonzuniyoru-xin-tanarunesansu-henogui-ji",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-06-28T06:38:35-04:00",
-    "summary": "海外における「新しい中世」と「テクノ封建制」研究、および「新たなルネサンス」への自治の実践レポート\n概要\n本レポートは、現代社会を「新しい中世」という仮設の枠組みで捉え、テクノロジーによる不可視の支配構造（テクノ封建制）を可視化するとともに、その暗黒を乗り越えるための「新たなルネサンス（分散型自治の実験）」のグローバルな動向を多角的に分析したリサーチレポートです。\n--------------------------------------------------------------------------------\nSection 1: テクノ封建制（Technofeudalism）と「クラウド農奴」の現実\n1.1 ヤニス・バルファキスによる『テクノ封建制』理論\nギリシャの経済学者で元財務大臣のヤニス・バルファキス（Yanis Varoufakis）は、著書『Technofeudalism: What Killed Capitalism』（2023年）において、現代社会は資本主義を超え、**「テクノ封建制（Technofeudalism）」**という新たな搾取モデルに移行したと論じています。\n資本（Capital）から「クラウド資本（Cloud Capital）」へ： 産業資本（トラクターや機械など）は単なる生産手段ですが、クラウド資本（アルゴリズム、AI、ビッグデータ、サーバー網、ハードウェア）は「人間の行動変容を促す手段（means of behavioral modification）」としての独自の第三の性質を持ちます。私たちの知覚、注意、欲望を直接的にハックし、行動をプログラムします。\n利潤（Profits）から「地代（Rents）」へ： 現代のプラットフォーマーは、市場で競合して利潤を得るのではなく、自らの「デジタル領地（fiefs）」を支配し、そこから手数料やデータという形で莫大な「地代（Rents）」を抽出しています。\n「クラウド農奴（Cloud Serfs）」としての私たち： 私たちは、スマートフォンやSNS（Instagram、TikTokなど）を無償でスクロールし、写真やレビュー、位置データ、検索履歴、テキストを投稿し続けています。この私たちの自発的かつ無報酬 of デジタル労働（データという名の「果実」の提供）こそが、プラットフォーマーの領地を耕し、彼らのクラウド資本を毎日増幅させています。\n「クラウド無産階級（Cloud Proles）」と「地上資本家（Terrestrial Capitalists）」：\nクラウド無産階級：アルゴリズムによる徹底した管理と監視のもと、安価な出来高払いで労働を搾取されるギグワーカー（Uber, Lyftなど）。\n地上資本家：自分の製品を売るために、クラウド領主のプラットフォーム（App Store、Amazon）に手数料という名の重い地代（最大30%）を支払わざるを得ない、従来のビジネスオーナー。\n--------------------------------------------------------------------------------\nSection 2: プラットフォーム協同組合主義（Platform Cooperativism）― ギルドの再発明\n現代の「クラウド農奴制」からドロップアウトし、自分たちの職能と自治を守るための強力なオルタナティブとして、**「プラットフォーム協同組合主義（Platform Cooperativism）」**という運動が注目されています。これは、中世の「ギルド（職能による相互扶助と自治組織）」をデジタル技術を用いて再発明する試みです。\nトレバー・ショルツ（Trebor Scholz）による提唱： ニュー・スクール大学の教授らが提唱。巨大なベンチャーキャピタルが所有する搾取的なプラットフォーム（UberやTaskrabbitなど）に対抗し、**「労働者やユーザー自身が共同所有し、民主的に運営するデジタルプラットフォーム」**を構築します。\n具体的な実践事例：\nCoopCycle（コープサイクル）： ヨーロッパを中心に展開する、自転車配達員の国際協同組合連合。彼らは巨大テック企業のアルゴリズムに依存せず、オープンソースの独自配達管理プロトコルを共同所有・管理し、ローカルな自律的デリバリーギルドを世界各地で運営しています。\nUp & Go（アップ＆ゴー）： ニューヨークの清掃労働者たちが共同所有するマッチングアプリ。大手の仲介アプリのようにマージンを外部のベンチャーキャピタルに吸い上げられるのではなく、利益 of 95%を直接労働者に還元し、残りの5%をプラットフォーム自体の維持運営に回すことで、安全で尊厳のある労働環境を「自治」しています。\n--------------------------------------------------------------------------------\nSection 3: DAOとWeb3による「分散型公共財調達（Public Goods）」― デジタルコモンズの創出\n中世の修道院や共同管理地（コモンズ）が、国家や王権から半ば独立した「自治のセーフティネット」として機能していたように、現代のWeb3やDAO（分散型自律組織）の世界では、国家や巨大プラットフォームに依存しない**「分散型デジタルコモンズ」**の構築実験が進んでいます。\nQuadratic Funding（二次の資金調達 / QF）： イーサリアムの提唱者Vitalik Buterinらが考案した、極めて民主的な資金分配の数理モデル。富の一極集中を排し、「どれだけ多くの人がその公共財を支持しているか」を数理的に評価してマッチングプールから資金を傾斜配分します。\nGitcoin DAO（ギットコインDAO）： オープンソースソフトウェアや、プライバシー保護、教育、気候変動対策といったデジタル公共財（Public Goods）を、国家の税金や巨大テック企業の慈善活動に頼ることなく、コミュニティ主導で1億5000万ドル以上（2026年時点）を調達・分配してきた最大の分散型ファンドプラットフォーム。\nCommons Stack / Gardens： 地域社会や自律的コミュニティが、国家から独立したマイクロエコノミー（トークン・コモンズ）を構築するための、スマートコントラクトをベースとした自律的統治フレームワーク。\n--------------------------------------------------------------------------------\n結論：新しい中世から「自治の再発明」へ\nリサーチが示すのは、現代社会における真の抵抗（ルネサンスの萌芽）は、巨大プラットフォームの改善を求めることでも、近代的な国家の法的規制だけに頼ることでもない、という事実です。\nそれは、私たちが「クラウド農奴」として搾取されている現実を直視した上で、「自律的なデジタルギルド（コープ）」や「分散型デジタルコモンズ（DAO、QF）」を自らの手で編み直し、巨大システムの隙間で「分散ドロップアウト（主権の奪還）」を主体的に選択していくことに他なりません。これこそが、新しい中世の闇をハックし、その先にある「新たなルネサンス」を自分たちで掴み取るための唯一の脱出経路です。\n--------------------------------------------------------------------------------\nリサーチ実施日：2026年6月28日",
-    "image": "https://files.speakerdeck.com/presentations/d36634d49a6d488c8f264a0111bc9307/preview_slide_0.jpg?39836781",
-    "fetched_at": "2026-06-28 21:08:28",
-    "ja_summary": "現代社会は巨大テック企業が支配する「テクノ封建制」であり、利用者は無償労働で搾取される「クラウド農奴」と化している。\nこれに対抗し、労働者が共同所有する「デジタルギルド」や、DAOによる「分散型公共財」の構築で自律的な経済圏を形成する動きが加速している。\n巨大システムから主権を奪還し、分散型の仕組みで社会を再構築する「新たなルネサンス」への転換が求められている。"
-  },
-  {
-    "title": "「AIを使うと他社と似てしまう」課題をどう乗り越える？　「プロダクトの差別化」の要点",
-    "link": "https://www.itmedia.co.jp/business/articles/2606/26/news076.html",
-    "source": "ITmedia ビジネス",
-    "published": "Fri, 26 Jun 2026 18:15:00 +0900",
-    "summary": "生成AIの普及は製品の没個性化や、個人の生産性向上によるチームの分断という課題を生んでいる。米Figmaはカンファレンスで、AI出力を人間が微調整する「素材」として扱う手法を提示。自社ルールを組織全体で共有する仕組みを実装した。個人の暗黙知を資産化する取り組みは、現場の属人化を防ぐだけでなく、無駄なAIコストを最大30％削減し価値創造を支えるものだ。",
-    "image": "https://image.itmedia.co.jp/business/articles/2606/26/cover_news076.jpg",
-    "fetched_at": "2026-06-28 19:37:56",
-    "ja_summary": "・生成AIによる製品の没個性化を防ぐため、AI出力を素材として人間が微調整する手法が有効。\n・組織独自のナレッジを共有・資産化することで、属人化を解消し業務を標準化できる。\n・ルール整備によりAI活用のムダを最大30％削減し、製品の差別化と効率化を両立できる。"
-  },
-  {
-    "title": "米ブラックストーン、データセンターに25兆円投資　「AIはまだまだ序盤」 (AIデータセンター・エフェクト)",
-    "link": "https://business.nikkei.com/atcl/gen/19/00887/062500010/",
-    "source": "日経ビジネス 最新",
-    "published": "",
-    "summary": "米投資ファンドのブラックストーンは、1600億ドル（約25兆円）規模のデータセンター投資を計画中だ。同社日本法人で不動産部門を率いる橘田大輔氏は、急膨張するAIインフラ市場について「まだまだ序盤だ」と意気込む。",
-    "image": "https://business.nikkei.com/atcl/gen/19/00887/062500010/fb.jpg",
-    "fetched_at": "2026-06-28 19:37:59",
-    "ja_summary": "・米ブラックストーンがAI需要拡大を見込み、データセンターへ約25兆円を投じる計画を発表。\n・同社はAIインフラ市場を「まだ序盤」と捉え、今後もさらなる急成長を予測。\n・世界的なデータセンター不足を背景に、不動産・インフラ投資を加速させている。"
-  },
-  {
-    "title": "オムロンがBedrock活用で知財AIエージェント内製、特許関連工数を50％減",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03664/062600003/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "オムロンは2026年6月26日のAWS Summit Japanで、自社開発したAI（人工知能）エージェントとAI基盤について講演した。Amazon Web Services（AWS）の生成AI基盤「Amazon Bedrock」などを活用し、特許出願前の先行技術調査や説明書作成といった業務に要する工数を50％削減した。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03664/062600003/topm.jpg?20220512",
-    "fetched_at": "2026-06-28 19:38:02",
-    "ja_summary": "・オムロンがAmazon Bedrockを活用し、特許業務を支援するAIエージェントを自社開発。\n・先行技術調査や説明書作成といった特許関連の業務工数を50％削減。\n・生成AIの活用により、知財部門の業務効率化と内製化を推進。"
   }
 ]
