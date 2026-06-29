@@ -1,5 +1,55 @@
 [
   {
+    "title": "鍵は「ソフト定義とAI」にあり、初出展で工作機械の存在感をアピール",
+    "link": "https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00195/00010/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "DMG森精機が、「HANNOVER MESSE2026（HM26）」に初出展した。初出展の背景には、製造現場で加速するSDA（Software Defined Automation：ソフト定義オートメーション）と、業界団体における規制緩和がある。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00195/00010/topm.jpg?20220512",
+    "fetched_at": "2026-06-30 05:20:26",
+    "ja_summary": "・DMG森精機がドイツの国際見本市「HANNOVER MESSE2026」に初出展。\n・製造現場のデジタル化加速を受け、「ソフト定義」と「AI」による自動化技術を強調。\n・工作機械業界の規制緩和を追い風に、新たな市場での存在感向上を目指す。"
+  },
+  {
+    "title": "AIで実現する「究極の柔軟性」、ここまできた自律型工場",
+    "link": "https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00195/00008/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "ドイツSiemensが2025年の「HANNOVER MESSE」で披露した生成AIによる作業支援や仮想PLCの試験導入は、1年で次の段階へと進んだ。2026年、同社はAIエージェントによるエンジニアリング作業の自律実行や、未知の状況に機械が自ら対応するフィジカルAIの実装を発表した。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00195/00008/topm.jpg?20220512",
+    "fetched_at": "2026-06-30 05:20:27",
+    "ja_summary": "・シーメンスが自律型工場の開発を加速し、AIエージェントによるエンジニアリングの自動化を実現。\n・未知の状況に機械が自ら判断・対応する「フィジカルAI」の実装へと進化。\n・生産現場の柔軟性と効率を飛躍的に高める次世代の製造体制を構築。"
+  },
+  {
+    "title": "AWS、製造業向けAIエージェント　個別生産・工程変更へ柔軟に対応",
+    "link": "https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00195/00007/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "米AWS（アマゾン・ウェブ・サービス）は、製造業向けに独自のフィジカルAI 戦略を提案する。設備やロボットを動かすフィジカルAIとAIエージェントを協調制御させ、複雑な製造プロセスに適用できるようにした。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00195/00007/topm.jpg?20220512",
+    "fetched_at": "2026-06-30 05:20:27",
+    "ja_summary": "・AWSが製造業向けに、AIエージェントとロボットを統合制御する「フィジカルAI」戦略を発表。\n・AIが現場の設備を自律的に操作し、個別生産や工程変更に柔軟かつ迅速に対応する。\n・製造プロセスの複雑なタスクをAIで効率化し、生産現場の高度な自動化を実現する。"
+  },
+  {
+    "title": "ゴールは「自律的な工場」、フィジカルAI実現へデータを集約",
+    "link": "https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00195/00006/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "米Microsoft（マイクロソフト）が製造業で思い描くフィジカルAIの全貌が見えてきた。製造現場の統合データ基盤「Microsoft Fabric」と、フィジカルAIの連携を強化した。最終的に目指す姿は、統合データ基盤を下地にAIで制御する「自律的な工場」の実現だ。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00195/00006/topm.jpg?20220512",
+    "fetched_at": "2026-06-30 05:20:28",
+    "ja_summary": "マイクロソフトは製造現場のデータ基盤「Microsoft Fabric」とAIを統合し、工場を自動制御する「フィジカルAI」の活用を強化。\n最終目標は、収集したデータを基にAIが自律的に稼働する「自律的な工場」の実現にある。"
+  },
+  {
+    "title": "AIは作業支援から自律制御へ、未知の状況にも柔軟に対応",
+    "link": "https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00195/00004/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "ドイツSiemensがAI（人工知能）活用を、デジタル空間でのシミュレーションや作業支援から、製造現場での機械制御や自律的実行へと引き上げる。「HANNOVER MESSE 2026」で同社デジタルインダストリーズ部門最高経営責任者のCedrik Neike氏は「AIが瓶から飛び出して現実世界とつながった」と述べ、AIの現場実装が進んでいると強調した。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00195/00004/topm.jpg?20220512",
+    "fetched_at": "2026-06-30 05:20:29",
+    "ja_summary": "・シーメンスが製造現場におけるAI活用を、従来の作業支援から自律的な機械制御へと高度化。\n・AIがシミュレーション空間を超え、現実世界の製造プロセスに直接実装・統合される段階へ移行。\n・未知の状況にも柔軟に対応する「自律型AI」により、製造現場の自動化と効率化を劇的に推進。"
+  },
+  {
     "title": "「AIを使うと他社と似てしまう」課題をどう乗り越える？　「プロダクトの差別化」の要点",
     "link": "https://www.itmedia.co.jp/business/articles/2606/26/news076.html",
     "source": "ITmedia ビジネス",
@@ -948,55 +998,5 @@
     "image": "https://media.loom-app.com/loom/2026/05/07/d9fe2904-838a-4a63-897e-80f030acb555/original.jpg?w=1200&amp;h=630",
     "fetched_at": "2026-06-29 01:47:26",
     "ja_summary": "・AIによるコーディング支援は生産性を高めるが、トークンの過剰使用は収益効率を低下させる。\n・AIへの依存度が高すぎると「収益の逓減」が起こるリスクがある。\n・ツール活用においては、生産性とコストのバランスを最適化する視点が不可欠。"
-  },
-  {
-    "title": "Claude Code × Codex × Obsidian Vault ― AI 二刀流で作る「何でも相談」環境の全設定公開",
-    "link": "https://qiita.com/htani0817/items/5c5bffcbb53241ed5b54",
-    "source": "Qiita (Popular)",
-    "published": "2026-06-28T15:58:20+09:00",
-    "summary": "> **2026-04-29 追記**: 初稿から約2週間運用した結果、スキル体制・MCP構成・CLAUDE.md の中身がかなり変わりました。各セクションに取消線＋追記で差分を残しています。\n>\n> **2026-05-18 追記**: モデルを Sonnet 4.6 に変更・`effortLevel` 削除・フック2本追加（機密ファイル保護 / frontmatter チェック）・`claud",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Ftech-festa-ogp-background-4b5015b2c518c7e6b9062a7c9f5f5e90.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0MDk4MjM2JTJGYTI2OGI2ZjZkYjYyMjg4ODc4NTdhZTU3MzIwNzAxYzhmOWRjYjFkNCUyRmxhcmdlLnBuZyUzRjE3NDgyNzY3NzU_aXhsaWI9cmItNC4xLjEmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPTA4ODc0N2ExZjBiN2EzYWEyNjUxNzMzNDRjZjMzZjg4%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D64011d4cf50491c6a5c5aca1f74bdbe4?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9Q2xhdWRlJTIwQ29kZSUyMCVDMyU5NyUyMENvZGV4JTIwJUMzJTk3JTIwT2JzaWRpYW4lMjBWYXVsdCUyMCVFMiU4MCU5NSUyMEFJJTIwJUU0JUJBJThDJUU1JTg4JTgwJUU2JUI1JTgxJUUzJTgxJUE3JUU0JUJEJTlDJUUzJTgyJThCJUUzJTgwJThDJUU0JUJEJTk1JUUzJTgxJUE3JUUzJTgyJTgyJUU3JTlCJUI4JUU4JUFCJTg3JUUzJTgwJThEJUU3JTkyJUIwJUU1JUEyJTgzJUUzJTgxJUFFJUU1JTg1JUE4JUU4JUE4JUFEJUU1JUFFJTlBJUU1JTg1JUFDJUU5JTk2JThCJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjNGRkZGRkYmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9NWY0M2Y1N2M4ZjIwOGY0MDMxMjRkODNiYTUzMTQ1N2E&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBodGFuaTA4MTcmdHh0LWNvbG9yPSUyM0ZGRkZGRiZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz0wZDg2OWIyZWZmNjM0MzA1OTczZmIyMTZiMzk5NTg5Mg&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=3a75c6e343cb2682c209f1ee4705641f",
-    "fetched_at": "2026-06-29 01:48:00",
-    "ja_summary": "・Claude CodeとObsidianを連携させ、AIが自身の知識ベースを参照して回答する「何でも相談」環境を構築。\n・運用の知見を反映し、MCP設定やセキュリティフック、モデル最適化などの詳細な構成を公開。\n・継続的にアップデートされる実戦的なAI開発環境の構築手法を解説。"
-  },
-  {
-    "title": "「発明したのに1位じゃない」──キオクシア社長がこぼした悔しさ　ストレージ市場制覇の展望は【一問一答】",
-    "link": "https://www.itmedia.co.jp/business/articles/2606/25/news118.html",
-    "source": "ITmedia ビジネス",
-    "published": "Thu, 25 Jun 2026 19:19:00 +0900",
-    "summary": "AI需要を追い風に躍進を続ける、半導体メモリ大手のキオクシアホールディングス。シェア1位奪取を見据える同社の経営陣が、今後の市況や競合との競争について、6月25日の株主総会で見解を語った。",
-    "image": "https://image.itmedia.co.jp/business/articles/2606/25/cover_news118.jpg",
-    "fetched_at": "2026-06-29 00:40:27",
-    "ja_summary": "・半導体メモリ大手のキオクシアが、AI需要を追い風にシェア1位奪取を目指す。\n・社長はフラッシュメモリを発明した先駆者としての自負と、現状への悔しさを吐露。\n・今後の市況を見極めつつ、競合との激しい競争に打ち勝つ成長戦略を強調した。"
-  },
-  {
-    "title": "Unity AI の概要",
-    "link": "https://note.com/npaka/n/n4434920529b7",
-    "source": "note (npaka)",
-    "published": "Sun, 21 Jun 2026 10:07:15 +0900",
-    "summary": "<p id=\"ebe56a18-9297-4a13-b94e-d1a66a67c59a\" name=\"ebe56a18-9297-4a13-b94e-d1a66a67c59a\">「Unity AI」の概要をまとめました。</p><br /><br /><a href=\"https://note.com/npaka/n/n4434920529b7\">続きをみる</a>",
-    "image": "https://assets.st-note.com/production/uploads/images/287316065/rectangle_large_type_2_116c7efaa415a5e22ba90a423d99d73f.png?width=800",
-    "fetched_at": "2026-06-29 00:40:44",
-    "ja_summary": "・Unity AIは、ゲームやアプリ開発の効率化を支援するAI活用プラットフォーム。\n・開発プロセス全般において、生成AIを活用した機能統合と生産性向上を目指す。\n・Unity環境下でのAI活用事例や技術的な詳細が網羅されている。"
-  },
-  {
-    "title": "Apple製品が一斉値上げ、iPadやMacほか20～75%上昇　iPhoneやWatchは含まず",
-    "link": "https://www.techno-edge.net/article/2026/06/26/5226.html",
-    "source": "TechnoEdge",
-    "published": "Fri, 26 Jun 2026 00:09:22 +0900",
-    "summary": "・AppleはMac・iPad・HomePod・Apple TV・Vision Proを対象に一斉値上げ。iPhoneは今回対象外。<br />\n・値上げの背景はAI需要急増によるDRAM・ストレージチップの供給不足と円安の進行。<br />\n・Mac Studioは最大9万1000円増と最大の値上げ幅。Appleは今後も追加改定を示唆。",
-    "image": "https://www.techno-edge.net/imgs/rss/32556.jpg",
-    "fetched_at": "2026-06-29 00:40:51",
-    "ja_summary": "・MacやiPadなど主要製品が一斉値上げ。iPhoneとApple Watchは対象外。\n・円安とAI需要による半導体不足が要因で、最大9万1000円の値上げも。\n・今後もさらなる価格改定の可能性があるため、購入検討時は注意が必要。"
-  },
-  {
-    "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
-    "link": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
-    "source": "OpenAI",
-    "published": "Wed, 24 Jun 2026 06:00:00 GMT",
-    "summary": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.",
-    "image": "https://images.ctfassets.net/kftzwdyauwt9/4DeZq8e24W4qgIrtAu4Xmg/54189176ae1c6150d94cac02fb104f79/openai-broadcom-jalapeno-inference-chip-image-16_9.png?w=1600&amp;h=900&amp;fit=fill",
-    "fetched_at": "2026-06-29 00:40:53",
-    "ja_summary": "・OpenAIとBroadcomがLLM推論専用のAIチップ「Jalapeño」を共同開発。\n・AIシステム全体の処理性能、効率、拡張性を大幅に向上させる狙い。\n・自社特化型のハードウェアにより、LLM運用のコスト低減と高速化を実現。"
   }
 ]
