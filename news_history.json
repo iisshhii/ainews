@@ -1,5 +1,55 @@
 [
   {
+    "title": "Palantir とは",
+    "link": "https://note.com/npaka/n/n0c5046f3d792",
+    "source": "note (npaka)",
+    "published": "Mon, 15 Jun 2026 10:58:33 +0900",
+    "summary": "<p id=\"d7e90fd8-59fe-4ed3-b028-92938ee292ed\" name=\"d7e90fd8-59fe-4ed3-b028-92938ee292ed\">AI時代の意思決定インフラを担う、政府・国防機関・大企業向けソフトウェア企業「Palantir」についてまとめました。</p><br /><br /><a href=\"https://note.com/npaka/n/n0c5046f3d792\">続きをみる</a>",
+    "image": "https://assets.st-note.com/production/uploads/images/285579921/rectangle_large_type_2_2771aa556c9c5d8c05b94d94a66bd318.jpeg?width=800",
+    "fetched_at": "2026-07-01 04:05:52",
+    "ja_summary": "・Palantirは政府、国防、大企業向けに特化したAI意思決定ソフトウェア企業。\n・複雑なデータを統合・解析し、組織の高度な判断を支援するインフラを提供。\n・AI時代における戦略的データ基盤として、世界的に注目されている。"
+  },
+  {
+    "title": "Mapping Europe’s AI Workforce Opportunity",
+    "link": "https://openai.com/index/mapping-ai-jobs-transition-eu",
+    "source": "OpenAI",
+    "published": "Mon, 29 Jun 2026 07:00:00 GMT",
+    "summary": "A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/2p06ZCpbXiQhTAbOY9J6OH/2f69f47125b18f9ced9c6000a0bcee0b/mapping-europes-ai-workforce-opportunity-seo-card.png?w=1600&amp;h=900&amp;fit=fill",
+    "fetched_at": "2026-07-01 04:06:01",
+    "ja_summary": "・OpenAIがEUの労働市場におけるAIの影響を分析した最新レポートを公開。\n・AIによって自動化・業務変革・成長が見込まれる職種の分布を可視化。\n・欧州全域でのAI活用に伴う雇用構造の変化とビジネス機会を提示。"
+  },
+  {
+    "title": "Claude Science, an AI workbench for scientists, is now available",
+    "link": "https://www.anthropic.com/news/claude-science-ai-workbench",
+    "source": "Anthropic (News)",
+    "published": "Tue, 30 Jun 2026 00:00:00 +0000",
+    "summary": "Claude Science, an AI workbench for scientists, is now available",
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+    "fetched_at": "2026-07-01 04:06:05",
+    "ja_summary": "・科学者向けのAI作業環境「Claude Science」がリリースされた。\n・AIを活用して、科学研究の効率化や高度な分析を支援する。\n・専門的な研究プロセスをAIで効率化する新しいワークベンチである。"
+  },
+  {
+    "title": "Introducing Claude Sonnet 5",
+    "link": "https://www.anthropic.com/news/claude-sonnet-5",
+    "source": "Anthropic (News)",
+    "published": "Tue, 30 Jun 2026 00:00:00 +0000",
+    "summary": "Introducing Claude Sonnet 5",
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/458ea645ef6b729f6847cba16932716e6b547f2f-2880x1620.png",
+    "fetched_at": "2026-07-01 04:06:05",
+    "ja_summary": "・Anthropic社が最新AIモデル「Claude Sonnet 3.5」の後継となる「Claude 3.5 Sonnet」をリリース。\n・推論能力やコーディング性能が大幅に向上し、業界トップクラスのベンチマークを達成。\n・新機能「Computer Use」により、AIがPC画面を操作して人間のようにタスクを完遂することが可能に。"
+  },
+  {
+    "title": "腕時計ローカルAIｽﾀｯｸﾁｬﾝを作ったら組み込み開発の罠にハマった話",
+    "link": "https://speakerdeck.com/hawkymisc/wan-shi-ji-rokaruaisutatukutiyanwozuo-tutarazu-miip-mikai-fa-nomin-nihamatutahua",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-06-30T13:44:22-04:00",
+    "summary": "2026.6.28 ローカルAIと向き合う展⽰会 Vol.2 のLTで発表した内容です。\n発表時の台詞に合わせて当日のスライドから若干修正しています。",
+    "image": "https://files.speakerdeck.com/presentations/1d46a32110954f6a9924dc617005f830/preview_slide_0.jpg?39859492",
+    "fetched_at": "2026-07-01 04:06:20",
+    "ja_summary": "腕時計型AIロボット「スタックチャン」の自作過程で遭遇した、組み込み開発特有の技術的な罠と解決策を解説。\n限られたリソースでのAI実装における制約や、ハードウェア制御の難しさについて実体験ベースで共有。\n小型デバイス開発において直面しやすいトラブルと、それを乗り越えるための知見をまとめた技術レポート。"
+  },
+  {
     "title": "How ChatGPT adoption has expanded",
     "link": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
     "source": "OpenAI",
@@ -948,55 +998,5 @@
     "image": "https://res.cloudinary.com/zenn/image/upload/s--IaOy-7tv--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%25E3%2581%25AE%25E8%25A8%25AD%25E8%25A8%2588%25E8%25A9%25B0%25E3%2582%2581%25E3%2582%25B9%25E3%2582%25AD%25E3%2583%25AB%25E3%2580%258Egrilling%25E3%2580%258F%25E3%2581%25AE%25E7%25B4%25B9%25E4%25BB%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:sato_frontend%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2EwNzYyOThkNTMuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
     "fetched_at": "2026-06-30 01:08:51",
     "ja_summary": "・実装後の手戻りを防ぐため、実装前にClaude Codeを用いて設計を徹底的に詰める手法「grilling」が有効。\n・仕様の漏れや不整合を事前に洗い出すことで、プロジェクトの工数削減と品質向上が期待できる。\n・実装前に設計の精度を高めることが、現在の開発環境において最も成果に直結する重要なプロセスである。"
-  },
-  {
-    "title": "Our AI Agents Are Finally in Production -- And Now What? - OpenSouthCode 2026",
-    "link": "https://speakerdeck.com/deors/our-ai-agents-are-finally-in-production-and-now-what-opensouthcode-2026",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-06-29T11:25:00-04:00",
-    "summary": "Slides for the talk I delivered with José María Gutiérrez during OpenSouthCode 2026 (27 June 2026).",
-    "image": "https://files.speakerdeck.com/presentations/13d268dcdab84c60a2cc924c122dadd1/preview_slide_0.jpg?39847462",
-    "fetched_at": "2026-06-30 01:08:52",
-    "ja_summary": "・OpenSouthCode 2026でのAIエージェント実用化に関する講演資料。\n・現場導入が完了した後の、運用の在り方や次なる課題を解説。\n・実運用フェーズにおけるAI活用の指針を提示。"
-  },
-  {
-    "title": "Agentic Coding for Mobile Developers",
-    "link": "https://speakerdeck.com/peterfriese/agentic-coding-for-mobile-developers",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-06-29T10:19:12-04:00",
-    "summary": "Software engineering has changed dramatically. In just a few months, we’ve gone from AI-assisted code completion to fully autonomous coding agents that can build entire applications from simple prompts.\n\n*Or can they?*\n\nIn this talk, I am going to explain what coding agents are, how they work, and how you can use them most efficiently for your work.\n\nYou will learn\n\n– How coding agents work (inner / outer loop)\n– The role of AGENTS.md\n– What skills are, and why they are essential for coding agents\n– The importance of writing a clear specification\n– How to use all of this in your own projects\n\nThroughout the talk, I will demonstrate the key concepts by vibe-engineering a food-ordering app, backed by Firebase. You will walk away with a concrete recipe for using agentic coding in your own projects.",
-    "image": "https://files.speakerdeck.com/presentations/9c578e31908843e696ec3867277b0ed7/preview_slide_0.jpg?39847239",
-    "fetched_at": "2026-06-30 01:08:52",
-    "ja_summary": "・AIが単なるコード補完から、プロンプトだけでアプリを構築する自律型エージェントへと劇的に進化。\n・エージェントの仕組みや「AGENTS.md」等の必須スキルを解説し、開発効率を最大化する手法を伝授。\n・フード注文アプリの構築実演を通じ、自律型AIを実務に導入するための具体的な実践プロセスを学べる。"
-  },
-  {
-    "title": "リコーとライズ・コンサルティング・グループが新会社、AI活用を伴走支援",
-    "link": "https://xtech.nikkei.com/atcl/nxt/news/24/03278/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "リコーとライズ・コンサルティング・グループは2026年6月29日、AI（人工知能）活用の構想から実装・定着までを支援する新会社「リコーAIコンサルティング」を設立したと発表した。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/news/24/03278/topm.jpg?20220512",
-    "fetched_at": "2026-06-29 21:10:40",
-    "ja_summary": "・リコーとライズ社が、AI活用支援の新会社「リコーAIコンサルティング」を設立。\n・AIの構想策定から実装、定着までを一貫して伴走型でサポートする。"
-  },
-  {
-    "title": "AIでコスト半減うたう「コンポーザブルCDP」、primeNumberが提供開始",
-    "link": "https://xtech.nikkei.com/atcl/nxt/news/24/03277/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "企業向けのデータ活用支援を手掛けるprimeNumberは2026年6月29日、短期・低コストを売りにしたCDP（カスタマー・データ・プラットフォーム）の新サービスの提供を始めた。既存の競合他社に比べて、導入コストを2～4割、導入期間を5割削減できるとうたう。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/news/24/03277/topm.jpg?20220512",
-    "fetched_at": "2026-06-29 21:10:41",
-    "ja_summary": "・primeNumberが低コストかつ短期導入が可能な新CDPを提供開始。\n・既存サービス比で導入コストを2～4割、導入期間を5割削減。\n・AI活用により、企業のデータ活用における効率性と経済性を向上させる。"
-  },
-  {
-    "title": "Yahoo!ニュース「ヤフコメまとめ」開始　論点を要約・グラフで可視化",
-    "link": "https://www.watch.impress.co.jp/docs/news/2120926.html",
-    "source": "Impress Watch",
-    "published": "",
-    "summary": "LINEヤフーは、「Yahoo!ニュース」の「Yahoo!ニュース コメント」(ヤフコメ)において、生成AIによるコメント要約機能を拡充した「ヤフコメまとめ」を29日から順次開始する。",
-    "image": "https://www.watch.impress.co.jp/img/ipw/list/2120/926/ya1.jpg",
-    "fetched_at": "2026-06-29 21:10:45",
-    "ja_summary": "・Yahoo!ニュースのコメント欄に生成AIによる「ヤフコメまとめ」機能が導入される。\n・AIがコメントの論点を要約し、意見の傾向をグラフで可視化する。\n・29日から順次提供を開始し、膨大なコメント内容を効率的に把握可能にする。"
   }
 ]
