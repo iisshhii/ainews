@@ -1,5 +1,145 @@
 [
   {
+    "title": "LINEヤフー、投資判断を支援するAIエージェント「ファイナンス」",
+    "link": "https://www.watch.impress.co.jp/docs/news/2121161.html",
+    "source": "Impress Watch",
+    "published": "",
+    "summary": "LINEヤフーは、AIエージェント「Agent i」の新機能として、6月30日に「ファイナンス」エージェントを提供開始した。また6月29日に「お買い物」「おでかけ」「クルマ選び」などの領域エージェントの機能アップデートを実施した。Agent iにおける領域エージェントは累計22領域(β版含む)となる。",
+    "image": "https://www.watch.impress.co.jp/img/ipw/list/2121/161/agent_00.jpg",
+    "fetched_at": "2026-06-30 15:41:08",
+    "ja_summary": "・LINEヤフーは、AIエージェント「Agent i」に投資判断を支援する「ファイナンス」機能を追加。\n・「お買い物」や「クルマ選び」など計22領域へ機能を拡充し、利便性を向上。\n・AIが専門的な判断をサポートする領域を広げ、サービス強化を図る。"
+  },
+  {
+    "title": "Geminiが「あなた好みの画像」を生成する機能、無料版にも開放　まず米国で",
+    "link": "https://japan.cnet.com/article/35249781/",
+    "source": "CNET Japan",
+    "published": "",
+    "summary": "グーグルは「Gemini」アプリのパーソナライズされた画像生成機能を、米国のユーザーに無料で提供開始したと発表した。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35249781/\"><img src=\"https://japan.cnet.com/storage/2025/10/10/d9ae653624d95648ac68fb98814834a2/t/184/138/d/cnet-gemini-ai-1456_1280x960.jpg\" /></a>",
+    "image": "https://japan.cnet.com/storage/2025/10/10/d9ae653624d95648ac68fb98814834a2/t/184/138/d/cnet-gemini-ai-1456_1280x960.jpg",
+    "fetched_at": "2026-06-30 15:41:11",
+    "ja_summary": "・GoogleのAI「Gemini」で、自分好みの画像を生成できる機能が無料開放された。\n・まずは米国ユーザー向けに提供が開始された。"
+  },
+  {
+    "title": "GPT-5.6 Sol ・ Terra ・ Luna の概要",
+    "link": "https://note.com/npaka/n/nd656159a93c3",
+    "source": "note (npaka)",
+    "published": "Sat, 27 Jun 2026 05:24:58 +0900",
+    "summary": "<p id=\"d9827876-f1a4-463b-9cf8-a4fc20d3b516\" name=\"d9827876-f1a4-463b-9cf8-a4fc20d3b516\">以下の記事が面白かったので、簡単にまとめました。</p><figure id=\"3d21ffc9-be9b-469f-bf76-4b011b14406a\" name=\"3d21ffc9-be9b-469f-bf76-4b011b14406a\"><blockquote><p id=\"30c451c4-da79-4d00-870a-1b940fc87171\" name=\"30c451c4-da79-4d00-870a-1b940fc87171\"><strong>・</strong><a href=\"https://openai.com/index/previewing-gpt-5-6-sol/\" rel=\"nofollow noopener\" target=\"_blank\"><strong>Previewing GPT‑5.6 Sol: a next-generation model</strong></a></p></blockquote>\n<figcaption></figcaption></figure><br /><a href=\"https://note.com/npaka/n/nd656159a93c3\">続きをみる</a>",
+    "image": "https://assets.st-note.com/production/uploads/images/289080964/rectangle_large_type_2_4bf25931b1add2bb944507919364744b.jpeg?width=800",
+    "fetched_at": "2026-06-30 15:41:15",
+    "ja_summary": "・OpenAIが次世代AIモデル「GPT-5.6 Sol」「Terra」「Luna」のプレビューを発表。\n・各モデルは用途や性能が最適化されており、従来モデルを上回る高度な推論と生成能力を実現。\n・AI開発の次なるフェーズとして、特定のタスクや環境に応じた専門的な活用が期待されている。"
+  },
+  {
+    "title": "花王、AI-OCR導入で帳票のシステム入力工数を7割削減",
+    "link": "https://japan.zdnet.com/article/35249779/",
+    "source": "ZDNET Japan",
+    "published": "",
+    "summary": "花王は、パレット伝票の管理工数削減に向けて、次世代型光学的文字認識（OCR）「route-D AIデータ入力」を導入した。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35249779/\"><img src=\"https://japan.zdnet.com/storage/2025/02/13/a79d190ed078238bb849c8f1683cd326/t/184/138/d/250213_bigdata_as_1280_1088481721.jpeg\" /></a>",
+    "image": "https://japan.zdnet.com/storage/2025/02/13/a79d190ed078238bb849c8f1683cd326/t/184/138/d/250213_bigdata_as_1280_1088481721.jpeg",
+    "fetched_at": "2026-06-30 15:41:19",
+    "ja_summary": "花王が伝票処理にAI-OCRを導入。\nシステム入力作業を7割削減することに成功。\n事務業務の効率化と管理工数の大幅な短縮を実現した。"
+  },
+  {
+    "title": "OpenTelemetry に reasoning.level 属性を追加しました",
+    "link": "https://zenn.dev/studist/articles/opentelemetry-genai-reasoning-level",
+    "source": "Zenn Trends",
+    "published": "Mon, 29 Jun 2026 23:00:11 GMT",
+    "summary": "!\nこの記事は、 2026年6月のスタディストブログリレー の記事です。\n\n\n はじめに\n最近、私が出した open-telemetry/semantic-conventions-genai に対する gen_ai.request.reasoning.level という属性を追加する PR #258 がマージされました。\nこの記事では、なぜこの属性が必要だと考えたのか、Issue → PR → マージに至る過程で得た学びを共有します。\n\n open-telemetry/semantic-conventions-genai とは\nOpenTelemetry は、分散トレーシング・メトリクス...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--tFoq8lAJ--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:OpenTelemetry%2520%25E3%2581%25AB%2520reasoning.level%2520%25E5%25B1%259E%25E6%2580%25A7%25E3%2582%2592%25E8%25BF%25BD%25E5%258A%25A0%25E3%2581%2597%25E3%2581%25BE%25E3%2581%2597%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Katsuhisa%2520Kitano%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzNkYzhkNDkyZTQuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2582%25B9%25E3%2582%25BF%25E3%2583%2587%25E3%2582%25A3%25E3%2582%25B9%25E3%2583%2588%2520Tech%2520Blog%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2dDLXBIdjhQNXozNUtaVUZGaDlsRENMSGdScFI1VmVNZUo2Mi1MPXMyNTAtYw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-06-30 15:41:42",
+    "ja_summary": "OpenTelemetryの生成AI向け標準仕様に、推論レベルを記録する「gen_ai.request.reasoning.level」属性が追加された。\n本記事では、この属性が必要とされた背景から、Issue提案からマージに至るまでの開発プロセスと知見を解説している。"
+  },
+  {
+    "title": "Claude Code の Agent Teams による、複数課題を同時並行で処理し自己改善を繰り返すAIチーム（PM＋作業者）の構築",
+    "link": "https://zenn.dev/acntechjp/articles/6f74e9a6aef835",
+    "source": "Zenn Trends",
+    "published": "Mon, 29 Jun 2026 23:00:10 GMT",
+    "summary": "!\nこの記事は、筆者の試行錯誤のメモを AI（Claude）を用いて整理・執筆 したものです。\n\n\n はじめに（この記事の立ち位置）\n筆者は開発作業をやるうえで、TAKT などを使って作業順序を決め打ちにすることで品質を上げていました。決まった流れに沿わせれば、抜け漏れが減って結果が安定します。\nただ、課題が増えるにつれて困りごとが出てきました。\n\n\n複数の課題を同時並行で進めないと回らない場面が増えた。 TAKT を複数立ち上げると、お互いがぶつかったり、片方で得た知見をもう片方に渡すのが難しかったりしました。\n\n毎回決まりきった流れだと、複雑な課題に融通が利かない。 手順が固定されて...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--yG7oAbv6--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%2520%25E3%2581%25AE%2520Agent%2520Teams%2520%25E3%2581%25AB%25E3%2582%2588%25E3%2582%258B%25E3%2580%2581%25E8%25A4%2587%25E6%2595%25B0%25E8%25AA%25B2%25E9%25A1%258C%25E3%2582%2592%25E5%2590%258C%25E6%2599%2582%25E4%25B8%25A6%25E8%25A1%258C%25E3%2581%25A7%25E5%2587%25A6%25E7%2590%2586%25E3%2581%2597%25E8%2587%25AA%25E5%25B7%25B1%25E6%2594%25B9%25E5%2596%2584%25E3%2582%2592%25E7%25B9%25B0%25E3%2582%258A%25E8%25BF%2594%25E3%2581%2599AI%25E3%2583%2581%25E3%2583%25BC%25E3%2583%25A0...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Ryo%2520Tsukuda%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2U2ZDA4MDY5ODcuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Accenture%2520Japan%2520%2528%25E6%259C%2589%25E5%25BF%2597%2529%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2ZhNDM4Njc5N2YuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-06-30 15:41:42",
+    "ja_summary": "・複数の開発課題を同時並行で進める際、固定的な作業手順では限界が生じている。\n・「Claude Code」のAgent Teamsを活用し、PMと作業者を備えたAIチームを構築することで、課題間の知見共有や柔軟な対応を実現する。\n・AIによる自己改善プロセスを取り入れ、複雑なタスク処理の効率と品質を向上させる試み。"
+  },
+  {
+    "title": "AI時代に、自動化についてもう一度考える",
+    "link": "https://zenn.dev/namoo_san/articles/3cc632399946e5",
+    "source": "Zenn Trends",
+    "published": "Mon, 29 Jun 2026 15:09:42 GMT",
+    "summary": "AI時代に、自動化についてもう一度考える\nAIツールによって、自動化のハードルがかなり下がりました。\n以前であれば、API連携を考えたり、スクリプトを書いたりしないと難しかったことも\n今ではAIエージェントやノーコードツールを使うことで、比較的すぐに形にすることができます。\n今回は「自動化しやすくなったこと」と「業務が楽になること」は少し違うよ、という話を書いていきます。\n部分最適な自動化は、TOIL（つまり繰り返し発生する手作業や運用負荷）を減らすどころか、増やしてしまうんじゃないの という話です。\n\n 読んでほしい人\n\nAIツールを使って業務自動化を始めた人\n自動化を増やした結果...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--50ohdEIz--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%25E6%2599%2582%25E4%25BB%25A3%25E3%2581%25AB%25E3%2580%2581%25E8%2587%25AA%25E5%258B%2595%25E5%258C%2596%25E3%2581%25AB%25E3%2581%25A4%25E3%2581%2584%25E3%2581%25A6%25E3%2582%2582%25E3%2581%2586%25E4%25B8%2580%25E5%25BA%25A6%25E8%2580%2583%25E3%2581%2588%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:namoo-san%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2hVSXZFRDB6dk40Qld6UHozTmhCSzMtX1FwT0FqS0lvWFc3QldEM2xRPXM5Ni1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-06-30 15:41:43",
+    "ja_summary": "・AIやノーコードの普及で自動化の導入は容易になったが、手軽な自動化がかえって業務を複雑化させるリスクがある。\n・部分最適のみを追求すると、かえって維持管理の手間（TOIL）を増やし、現場の負担を重くしてしまう。\n・自動化の目的を見失わず、業務全体の効率化に繋がる設計を再考することが重要である。"
+  },
+  {
+    "title": "LLMエージェントを『コスパ良く・高精度に』組む技術：Clearwingのワークフロー設計に学ぶ",
+    "link": "https://zenn.dev/khale/articles/llm-agent-cost-accuracy-clearwing",
+    "source": "Zenn Trends",
+    "published": "Mon, 29 Jun 2026 15:04:56 GMT",
+    "summary": "はじめに\nLLM エージェントを実務に乗せようとすると、必ず 2 つの壁にぶつかります。\n\nコスト：全部を賢いモデルに投げると破産する。遅い。\n精度：LLM は平気で「それっぽい嘘」をつく（ハルシネーション）。\n\nしかもこの 2 つはトレードオフに見えます。精度を上げようと巨大モデルで全部処理すれば高コスト、コストを削れば精度が落ちる、という直感です。\nところが、この両立を「ワークフローの組み方」でかなりのところまで解こうとしている実例があります。Lazarus AI の OSS、Clearwing（LLM ベースの自律型脆弱性ハンター）です。\nClearwing は Anthrop...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--GCK_83l3--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:LLM%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588%25E3%2582%2592%25E3%2580%258E%25E3%2582%25B3%25E3%2582%25B9%25E3%2583%2591%25E8%2589%25AF%25E3%2581%258F%25E3%2583%25BB%25E9%25AB%2598%25E7%25B2%25BE%25E5%25BA%25A6%25E3%2581%25AB%25E3%2580%258F%25E7%25B5%2584%25E3%2582%2580%25E6%258A%2580%25E8%25A1%2593%25EF%25BC%259AClearwing%25E3%2581%25AE%25E3%2583%25AF%25E3%2583%25BC%25E3%2582%25AF%25E3%2583%2595%25E3%2583%25AD%25E3%2583%25BC%25E8%25A8%25AD%25E8%25A8%2588%25E3%2581%25AB%25E5%25AD%25A6%25E3%2581%25B6%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:khale%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzFjMGJhZTZjOTcuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-06-30 15:41:43",
+    "ja_summary": "LLMエージェントの課題である「コスト」と「精度」のトレードオフは、高度なワークフロー設計で解決可能です。\nOSS「Clearwing」の事例のように、モデルの使い分けや処理手順を最適化することで、安価かつ高精度な実装が実現できます。\n高コストな大型モデルに依存せず、賢いワークフロー構築で実務レベルの性能を引き出す手法が注目されています。"
+  },
+  {
+    "title": "【CCA-F学習ログ #2】基礎編：Anthropic Academy のレベル100で土台を固める",
+    "link": "https://zenn.dev/yujmatsu/articles/20260629_cca_foundations_02_basics",
+    "source": "Zenn Trends",
+    "published": "Mon, 29 Jun 2026 11:00:08 GMT",
+    "summary": "はじめに\nこの記事は、Claude Certified Architect – Foundations（CCA-F）合格を目指す学習ログの第2弾です。\n#1（概要編）では、CCA-F がどういう試験か・どのコースを使って学ぶかの地図を整理しました。#2 の本記事では、試験ドメインに入る前の土台を固めます。具体的には、Anthropic Academy のレベル100コース（基礎）5つのうち「考え方の土台」と「手を動かす土台」に分けて整理し、Claude API の最小実装から順に動くコードを積み上げていきます。\nこの記事で扱う範囲のスコープ\n基礎編はレベル100の「土台」に絞ります。...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--iwnGjwRL--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590CCA-F%25E5%25AD%25A6%25E7%25BF%2592%25E3%2583%25AD%25E3%2582%25B0%2520%25232%25E3%2580%2591%25E5%259F%25BA%25E7%25A4%258E%25E7%25B7%25A8%25EF%25BC%259AAnthropic%2520Academy%2520%25E3%2581%25AE%25E3%2583%25AC%25E3%2583%2599%25E3%2583%25AB100%25E3%2581%25A7%25E5%259C%259F%25E5%258F%25B0%25E3%2582%2592%25E5%259B%25BA%25E3%2582%2581%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:yujmatsu%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzFmZDRmY2VjMmUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-06-30 15:41:44",
+    "ja_summary": "Claude認定アーキテクト（CCA-F）合格に向けた学習ログの第2弾。\nAnthropic Academyのレベル100コースを活用し、APIの最小実装を通じて技術の土台を構築する。\n試験の専門ドメインに入る前の、基礎知識と実践スキルの習得に焦点を当てた学習プロセスを解説。"
+  },
+  {
+    "title": "そのハーネス、本当に境界になっていますか？ AIエージェント時代の実行環境設計【MEGU-Meet #4】",
+    "link": "https://speakerdeck.com/cscengineer/ai-agent-harness-security-boundary",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-06-30T00:25:44-04:00",
+    "summary": "AI Coding Agentは、もはや「チャットで回答を返す存在」ではなく、ファイル編集、shell実行、依存関係の追加、CI/CDやクラウド環境への操作まで行う“実行主体”になりつつあります。\n\n本資料では、AIエージェントに外部能力を接続し、実行させるための制御層を「ハーネス」と定義し、そのハーネスを本当にセキュリティ境界として扱えているのかを考えます。\n\nPrompt InjectionやTool Misuse、Sensitive Info Disclosureなどのリスクは、モデルの出力だけでなく、エージェントが何を実行できるかという権限・環境設計の問題でもあります。\n\n許可プロンプトやルールだけに頼るのではなく、sandbox、filesystem isolation、network isolation、egress制御、最小権限、監査ログなどの強制制御を組み合わせ、AIエージェント時代の実行環境をどう設計すべきかを整理します。\n\nMEGU-Meet #4「AI-Generated Vulnerabilities LT」での登壇資料です。",
+    "image": "https://files.speakerdeck.com/presentations/42b210c9bc224e6aa54be45573848edd/preview_slide_0.jpg?39852610",
+    "fetched_at": "2026-06-30 15:41:44",
+    "ja_summary": "AIエージェントがファイル操作や環境実行を行う時代、従来の権限管理だけでは不十分なリスクが増大している。\nAIを安全に運用するには、指示やルールへの依存を脱却し、サンドボックスやネットワーク制限等の物理的な制御層（ハーネス）の構築が不可欠である。\nセキュリティ事故を防ぐため、AIに与える権限の最小化と環境分離による強制的なガードレールの設計が重要となる。"
+  },
+  {
+    "title": "HookでSAST、CIでSAST、SCAでどうにかしている話 / layered-security-for-ai-written-code-with-sast-and-sca",
+    "link": "https://speakerdeck.com/yamaguchitk333/layered-security-for-ai-written-code-with-sast-and-sca",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-06-29T23:15:08-04:00",
+    "summary": "AIがコードを書く時代でも、セキュリティの基本は変わりません。1つのツールだけでは守り切れないからこそ、ローカル（PUSH前）・PR/CI（マージ前）・定期スキャンの「3層＋3」で多層防御を実現しています。本発表では、Claude CodeのStop HookでのSAST、PR時のSAST/SCA、Snykダッシュボードでの定期確認まで、実際にやっていることを紹介します。\n\n▼関連リンク\n・AIが書いたコードは安全か？（Snyk）\nhttps://snyk.io/jp/blog/security-risks-coding-with-ai/\n\n・前回の発表：DevSecOpsにおける持続可能なセキュリティ対策を考える\nhttps://speakerdeck.com/yamaguchitk333/considering-sustainable-security-measures-in-devsecops-left-loop-and-right-loop-perspectives\n\n・OWASP Benchmark Java 1.2 での評価（参考記事）\nhttps://zenn.dev/yukkie1114/articles/3d927e8c28e085",
+    "image": "https://files.speakerdeck.com/presentations/abd1d5f7a3a04258b63e82e22e2367c0/preview_slide_0.jpg?39851710",
+    "fetched_at": "2026-06-30 15:41:44",
+    "ja_summary": "AI生成コードの安全性確保のため、ローカル・CI・定期スキャンの「3層＋3」で多層防御を構築。\nClaude CodeのHook活用やSAST/SCAを組み合わせ、開発プロセスの各段階でセキュリティを強化する手法を紹介。\n単一ツールに頼らず、開発初期から継続的に脆弱性を検知・排除する実践的な運用体制を解説。"
+  },
+  {
+    "title": "正直に言う。お前のClaude Codeの使い方は間違っている",
+    "link": "https://qiita.com/tehito/items/356e5f1dba112a075be1",
+    "source": "Qiita (Popular)",
+    "published": "2026-06-25T22:43:35+09:00",
+    "summary": "「Claude Code、思ったより速くならないな」と感じているなら、原因はモデルでもプランでもない。**お前の使い方だ。**\n\nきつい言い方をして悪い。だが3ヶ月、毎日Claude Codeと殴り合いながらExpo + Supabase + Swiftネイティブの通話アプリを個人開発して、確信した。\n\n> 速くならない人間は、全員同じ7つのミスをしている。\n\nこの記事はポエムでも宣伝でもない。*",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYzODAxMzM3JTJGODg1YjIwODhlY2FkOTc4NDllMThkNjBhMTc4NDkxNjgyMTUxZjgzZSUyRnhfbGFyZ2UucG5nJTNGMTc4MTAwMjkyMT9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9YWI1ZTk2M2U2NmNlMzVjYzM1M2NkYjYxZDBlZDRmZTU%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Df248deb266070c4524731a5e3fb4e24c?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUU2JUFEJUEzJUU3JTlCJUI0JUUzJTgxJUFCJUU4JUE4JTgwJUUzJTgxJTg2JUUzJTgwJTgyJUUzJTgxJThBJUU1JTg5JThEJUUzJTgxJUFFQ2xhdWRlJTIwQ29kZSVFMyU4MSVBRSVFNCVCRCVCRiVFMyU4MSU4NCVFNiU5NiVCOSVFMyU4MSVBRiVFOSU5NiU5MyVFOSU4MSU5NSVFMyU4MSVBMyVFMyU4MSVBNiVFMyU4MSU4NCVFMyU4MiU4QiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTEwMDRjODc5ODYxMGJmODc2ZTRjZGUzZjZhNWJjNzk1&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDB0ZWhpdG8mdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz0yM2JlYWYwMTYwMzQwY2VlMDZiOTlmZjlhMTBjZDVjMg&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=35ce81ed6fbfbdc4773a37b80ca222a9",
+    "fetched_at": "2026-06-30 15:41:45",
+    "ja_summary": "Claude Codeで開発速度が上がらないのは、7つの典型的なミスが原因である。\n実体験に基づき、開発効率を劇的に改善するための具体的な運用術を解説する。\n効率を最大化し、AIとの共同開発を最適化するための指南書。"
+  },
+  {
+    "title": "商業書籍の出版をCodexで爆速化するノウハウ",
+    "link": "https://qiita.com/minorun365/items/9059f26629e0976bc0e2",
+    "source": "Qiita (Popular)",
+    "published": "2026-06-21T20:55:41+09:00",
+    "summary": "私はこれまで、ありがたいことに複数の商業技術書を出版させてもらう機会に恵まれました。\n長年ライターをやっていたりするわけではなく、エンジニア業務の傍ら、半分趣味で2年ほど執筆を行なっています。\n\nhttps://www.amazon.co.jp/stores/author/B0D4VSWS9P\n\n元々Qiitaを書き慣れていて筆が速いというのもありますが、特にここ半年ほどは、Claude Code",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Ftech-festa-ogp-background-4b5015b2c518c7e6b9062a7c9f5f5e90.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYxNjMzODU2JTJGYzIyNmJjMzRhYzZjNDVhMjFmNWU1MTJkMWM3MmE2ZjA5NzQ5NDU3OCUyRnhfbGFyZ2UucG5nJTNGMTY5OTk1NDk3Nj9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9MTlhZDI4ODRkNmQ2MzEyNjMxZDJkNTBjOTZmOTA5ZjU%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYxZTIwZGI1ZTdlNDA3ZWFlN2I5NzBlYzk5OTg4MGRjOGMzY2MwZjY0JTJGb3JpZ2luYWwuanBnJTNGMTY2NzI3NDk2Mz9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz04OTI0NDcwMDk1MDMyZjUxYmZlNzE3ZjVkOGUzYmE3ZA%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3Dbb59006175a60e1b630ed499046d0424?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUU1JTk1JTg2JUU2JUE1JUFEJUU2JTlCJUI4JUU3JUIxJThEJUUzJTgxJUFFJUU1JTg3JUJBJUU3JTg5JTg4JUUzJTgyJTkyQ29kZXglRTMlODElQTclRTclODglODYlRTklODAlOUYlRTUlOEMlOTYlRTMlODElOTklRTMlODIlOEIlRTMlODMlOEUlRTMlODIlQTYlRTMlODMlOEYlRTMlODIlQTYmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyM0ZGRkZGRiZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz0zYmMwYWRjYTg3YmRkYzljOWM2NDM4YmE4YmM1MTkzZA&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBtaW5vcnVuMzY1JnR4dC1jb2xvcj0lMjNGRkZGRkYmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9NDNhZjg0MGViODE0MzBhMmQyODM2OGUyY2Y0NjIwMTY&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=S0RESeOCouOCuOODo-OCpOODq-mWi-eZuuOCu-ODs-OCv-ODvOagquW8j-S8muekvg&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%23FFFFFF&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=5a2d659a75805090f9b6b2d211df861a",
+    "fetched_at": "2026-06-30 15:41:47",
+    "ja_summary": "エンジニアがAIツール「Claude Code」を活用し、商業技術書の執筆・出版スピードを飛躍的に向上させるノウハウを公開。\nQiitaで培った執筆スキルとAIを掛け合わせることで、短期間での高品質な書籍制作を可能にしている。\n実体験に基づいた効率的な執筆環境の構築方法について解説。"
+  },
+  {
+    "title": "RAGを本当に使うために、処理段階ごとに優秀手法を整理してみた",
+    "link": "https://qiita.com/engchina/items/3060140b10a9a35021f4",
+    "source": "Qiita (Popular)",
+    "published": "2026-06-20T20:27:41+09:00",
+    "summary": "\n## 初めに\n\n最近、RAG の実装例はかなり増えました。\n\nDify、RAGFlow、LlamaIndex、LangChain、GraphRAG、LightRAG、Docling、Marker、Unstructured、RAG-Anything、ColPali、PageIndex、Ragas、AutoRAG、DSPy など、優秀な OSS / フレームワーク / 研究実装がたくさんあります。\n",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYzOTMyNzgxJTJGOTA5ODgyYWQ5YTcwNWVmZjI2ZmM5NDBmMzg0MzQwMWU3OWQyNjY4YyUyRnhfbGFyZ2UucG5nJTNGMTc2OTAzODc0OD9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NjlhZjBhYTliMGQ4ZGI2ODU0N2Q1MmJiNzIxZjNhOWQ%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYzMDk1NWZhN2YwMzlhODVjNDQ5ZmY0ODBhMmE3ZGJjNWQ5ZmY1YWIwJTJGb3JpZ2luYWwuanBnJTNGMTQ1MjE0NTY4Mz9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz0xOTg4ZGUxMGZjNzNiMDdiMDBhNTQzZjdkYWZjODJmMg%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3Db3daa221c0818ddefc40c67fb4514088?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9UkFHJUUzJTgyJTkyJUU2JTlDJUFDJUU1JUJEJTkzJUUzJTgxJUFCJUU0JUJEJUJGJUUzJTgxJTg2JUUzJTgxJTlGJUUzJTgyJTgxJUUzJTgxJUFCJUUzJTgwJTgxJUU1JTg3JUE2JUU3JTkwJTg2JUU2JUFFJUI1JUU5JTlBJThFJUUzJTgxJTk0JUUzJTgxJUE4JUUzJTgxJUFCJUU1JTg0JUFBJUU3JUE3JTgwJUU2JTg5JThCJUU2JUIzJTk1JUUzJTgyJTkyJUU2JTk1JUI0JUU3JTkwJTg2JUUzJTgxJTk3JUUzJTgxJUE2JUUzJTgxJUJGJUUzJTgxJTlGJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9Zjg2OTljNzg0NzA0MDM0YTU3MGIzOTM1YmY5YzNlMTY&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBlbmdjaGluYSZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWJjNzFmYTUzNmUwM2I1OWMzMmYzZjlmMDM3ZTI5MTcz&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=5pel5pys44Kq44Op44Kv44Or5qCq5byP5Lya56S-&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=86398ef9914c0fccc8c84ff5e1992b6e",
+    "fetched_at": "2026-06-30 15:41:47",
+    "ja_summary": "RAGの実装には多くのツールや手法が存在するが、それらを処理段階ごとに整理することで最適なシステム構築が可能となる。\n本記事は、多岐にわたるOSSやフレームワークの特性を分類し、実用的なRAG構築のための知見をまとめたものである。"
+  },
+  {
     "title": "Ray-Ban Metaを支える深圳が今度は自社AIグラスで日本市場へ攻勢､その供給網で何が起きているのか | ビジネス | 東洋経済オンライン",
     "link": "https://toyokeizai.net/articles/-/948932?utm_source=rss&utm_medium=http&utm_campaign=link_back",
     "source": "東洋経済オンライン",
@@ -858,145 +998,5 @@
     "image": "https://www.techno-edge.net/imgs/rss/32569.jpg",
     "fetched_at": "2026-06-29 11:41:48",
     "ja_summary": "・AnthropicがAIモデル「Claude Mythos 5」の一部提供再開を米政府から許可された\n・対象は一部の信頼できるパートナー企業や組織に限定\n・政府の承認により、特定の主要組織へのAI提供が再開される見通し"
-  },
-  {
-    "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
-    "link": "https://openai.com/index/hp-frontier-partnership",
-    "source": "OpenAI",
-    "published": "Sun, 28 Jun 2026 17:00:00 GMT",
-    "summary": "HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations.",
-    "image": "https://images.ctfassets.net/kftzwdyauwt9/27SeSwGzXJ8BQXlEobHQIG/6cd70adfdfd93e9ba1b41bc38e0f01be/HP-16_9.png?w=1600&amp;h=900&amp;fit=fill",
-    "fetched_at": "2026-06-29 11:41:50",
-    "ja_summary": "・HPがOpenAIと戦略的パートナーシップを締結。\n・顧客体験、ソフト開発、社内業務の全領域にAIを導入。\n・AI活用による業務効率化とサービス品質の向上を推進。"
-  },
-  {
-    "title": "Claude Code に任せっぱなしだった git コマンドを理解してみた（基礎編）",
-    "link": "https://zenn.dev/tetsu_don/articles/b91d2977c7fe70",
-    "source": "Zenn Trends",
-    "published": "Sun, 28 Jun 2026 05:26:46 GMT",
-    "summary": "Claude Code に任せっぱなしだった git コマンドを自分で理解してみた（基礎編）\n\n はじめに\nてつどんです。データエンジニアとして日々精進しております。\n最近 Claude Code を使う機会が増えてきました。開発中に「これ push しておいて」「PR 作って」と Claude Code に頼むだけで git 操作が完結していました。便利な反面、自分では何も理解していないという状態が続いていました。\n今回、改めてgithubに関することを学ぶために、Claude Codeにハンズオン形式で勉強していきました。そして、そのログとしてこの記事を書いています。\nClaud...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--artfzxFt--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%2520%25E3%2581%25AB%25E4%25BB%25BB%25E3%2581%259B%25E3%2581%25A3%25E3%2581%25B1%25E3%2581%25AA%25E3%2581%2597%25E3%2581%25A0%25E3%2581%25A3%25E3%2581%259F%2520git%2520%25E3%2582%25B3%25E3%2583%259E%25E3%2583%25B3%25E3%2583%2589%25E3%2582%2592%25E7%2590%2586%25E8%25A7%25A3%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%25EF%25BC%2588%25E5%259F%25BA%25E7%25A4%258E%25E7%25B7%25A8%25EF%25BC%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%25A6%25E3%2581%25A4%25E3%2581%25A9%25E3%2582%2593%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzU2ZTE0ZTNlNGUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "fetched_at": "2026-06-29 11:42:13",
-    "ja_summary": "AI（Claude Code）によるGit操作の自動化に依存していた筆者が、仕組みを理解するために基礎を学習し直した体験記。\nAI任せの環境から脱却し、技術的な裏付けを持って開発を行うための学びの記録。\nGit操作の自動化が便利な反面、基礎知識の欠如を痛感しているエンジニアに向けた再入門の推奨。"
-  },
-  {
-    "title": "ハーネスエンジニアリングは、AI時代のチームビルディングだった",
-    "link": "https://zenn.dev/ttaniguchi/articles/hands-on-harness-engineering",
-    "source": "Zenn Trends",
-    "published": "Sun, 28 Jun 2026 03:19:25 GMT",
-    "summary": "はじめに\nAIを使って開発していれば、必ずと言っていいほど ハーネスエンジニアリング という言葉にぶつかります。\n馬具のハーネスから連想される、「AIを暴走させないための手綱」のようなイメージ。わりと言葉だけが独り歩きをしていて、AIによる完全自動化や過度な期待と一緒に語られる印象があり、個人的にはあまり好きな表現ではありませんでした。\nですが、2026年5月に発表されたある論文を目にして、その印象がガラリと変わりました。\nモヤッとした流行り言葉に 実務的な定義と明確な用語 が当てられており、とても腑に落ちました。今回読んだ論文はこちらです。\nhttps://arxiv.org/ab...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--zHrBGgMw--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%258F%25E3%2583%25BC%25E3%2583%258D%25E3%2582%25B9%25E3%2582%25A8%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%258B%25E3%2582%25A2%25E3%2583%25AA%25E3%2583%25B3%25E3%2582%25B0%25E3%2581%25AF%25E3%2580%2581AI%25E6%2599%2582%25E4%25BB%25A3%25E3%2581%25AE%25E3%2583%2581%25E3%2583%25BC%25E3%2583%25A0%25E3%2583%2593%25E3%2583%25AB%25E3%2583%2587%25E3%2582%25A3%25E3%2583%25B3%25E3%2582%25B0%25E3%2581%25A0%25E3%2581%25A3%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:ttaniguchi%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzVjMGYxMTNiMTYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "fetched_at": "2026-06-29 11:42:13",
-    "ja_summary": "「AIの暴走を防ぐ手綱」と誤解されがちな「ハーネスエンジニアリング」だが、最新の研究により、AIと人間が協調して成果を出すための「実務的なチームビルディング手法」として再定義された。AIの完全自動化を目指すのではなく、AIを制御・補完する設計こそが、現代の開発現場における最適解である。"
-  },
-  {
-    "title": "【めざせカードマスター】Kaggleコンペ紹介 Pokémon Trading Card Game AI Battle Challenge",
-    "link": "https://zenn.dev/kkj/articles/85a3a0a08f193c",
-    "source": "Zenn Trends",
-    "published": "Sat, 27 Jun 2026 23:20:31 GMT",
-    "summary": "Kaggleで「The Pokemon Company - PTCG AI Battle Challenge」が始まりました。ポケモンカードといえば、初期のオーキド博士が強かった想い出があります。\nhttps://ptcg-abc.pokemon.co.jp/\nhttps://www.youtube.com/watch?v=nQqv5dGrJ1A\n\n コンペ概要\nこのコンペは、ポケモンカードゲームで対戦するAIエージェントを開発し、その強さと戦略を競うコンテストです。株式会社ポケモン・HEROZ株式会社・株式会社松尾研究所の3社共催で、現金賞金だけで最大32万ドル規模の大会です。\n\n コ...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--h9v1FybB--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590%25E3%2582%2581%25E3%2581%2596%25E3%2581%259B%25E3%2582%25AB%25E3%2583%25BC%25E3%2583%2589%25E3%2583%259E%25E3%2582%25B9%25E3%2582%25BF%25E3%2583%25BC%25E3%2580%2591Kaggle%25E3%2582%25B3%25E3%2583%25B3%25E3%2583%259A%25E7%25B4%25B9%25E4%25BB%258B%2520Pok%25C3%25A9mon%2520Trading%2520Card%2520Game%2520AI%2520Batt...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:kkj%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUxtNXd1MklxdFFYOF8zZGh0M0hDS3FMUG9tZS1MWVlWSVZjUjQ4SXRRYlk9czk2LWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "fetched_at": "2026-06-29 11:42:14",
-    "ja_summary": "・ポケモンカードゲームの対戦AIを開発・競い合うKaggleコンペが開催。\n・ポケモン社ら3社共催で、賞金総額は最大32万ドル規模。\n・強さと戦略を競うAI開発の世界的コンテスト。"
-  },
-  {
-    "title": "Tech-Verse 2026_Keynote",
-    "link": "https://speakerdeck.com/lycorptech_jp/tech-verse-2026-keynote",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-06-28T05:14:21-04:00",
-    "summary": "\"We will present our technology strategy for pioneering a new future of creation, including the concept behind our new AI agent brand “Agent i” and our AX (AI Transformation) initiatives, which are transforming our development environment and even our organizational structure on the premise of AI.\nThrough these efforts, we will illustrate how LY Corporation will continue to evolve in this rapidly accelerating age of AI, outlining both where we stand today and the key milestones ahead.",
-    "image": "https://files.speakerdeck.com/presentations/6b3d39b967894963bcfb51c2767f6a98/preview_slide_0.jpg?39836796",
-    "fetched_at": "2026-06-29 11:42:15",
-    "ja_summary": "・新AIブランド「Agent i」を発表し、AIを前提とした開発環境と組織体制への刷新（AX）を推進する。\n・AI時代におけるLY Corporationの現在地と、今後の成長に向けた主要なロードマップを提示。\n・技術戦略を通じて、AIによる創造の未来を切り拓く企業姿勢を明確化する。"
-  },
-  {
-    "title": "AIフレンドリーなプロダクトに向けて",
-    "link": "https://speakerdeck.com/nearme_tech/toward-ai-friendly-products",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-06-28T22:26:20-04:00",
-    "summary": "",
-    "image": "https://files.speakerdeck.com/presentations/8ab24ff1a7144c5f8c77ed6bf5be73fd/preview_slide_0.jpg?39840662",
-    "fetched_at": "2026-06-29 11:42:15",
-    "ja_summary": "・AIが扱いやすいデータ構造やUIを備えた「AIフレンドリー」な製品設計が重要。\n・AI連携を前提とすることで、業務効率化や製品の付加価値向上を実現。\n・今後はAI活用を前提とした開発体制やインターフェースの整備が競争力の鍵となる。"
-  },
-  {
-    "title": "AI・ロボティクスと自動化社会 / AI, Robotics, and the Automated Society",
-    "link": "https://speakerdeck.com/ks91/ai-robotics-and-the-automated-society",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-06-28T21:11:28-04:00",
-    "summary": "早稲田大学商学部「サイバーフィジカル社会と金融の未来」2026 春の第11回で使用したスライドです。",
-    "image": "https://files.speakerdeck.com/presentations/0435a8f727c44b1691e9d87cdb72801f/preview_slide_0.jpg?39840155",
-    "fetched_at": "2026-06-29 11:42:15",
-    "ja_summary": "・AIとロボティクス技術の進化がもたらす自動化社会の到来を概観。\n・サイバーフィジカルシステム（CPS）が社会構造に与える変革を考察。\n・テクノロジーの進展が金融市場やビジネスの未来に及ぼす影響を分析。"
-  },
-  {
-    "title": "BPaaSで進むAIオペレーションの現在地 AI実装が効く領域とスケーラビリティの選定と実装",
-    "link": "https://speakerdeck.com/kubell_hr/260627-fujii",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-06-28T20:01:27-04:00",
-    "summary": "2026年6月27日(土)に実施された「PRODUCT HISTORY CONFERENCE 2026」での発表資料です。\nイベントページ：https://lp-prohis.youtrust.jp/\n登壇者：株式会社kubell 藤井 謙太郎",
-    "image": "https://files.speakerdeck.com/presentations/3e0a005ce12d4b9f97a91db5aa8fa66c/preview_slide_0.jpg?39838309",
-    "fetched_at": "2026-06-29 11:42:15",
-    "ja_summary": "・AIを活用した業務プロセス代行（BPaaS）における、実装すべき領域の特定と拡張性の確保手法を解説。\n・2026年開催のカンファレンスにて、株式会社kubellの藤井氏が実践知を共有。\n・AIオペレーションの最適化とビジネススケーリングを目指すための要点を網羅。"
-  },
-  {
-    "title": "キャッチアップしないと不安。── AI時代のエンジニアが罹る病 「FOMO」 と付き合う。",
-    "link": "https://qiita.com/tomoki-miso/items/8290227346c099e84b1c",
-    "source": "Qiita (Popular)",
-    "published": "2026-06-22T18:36:07+09:00",
-    "summary": "## その気持ち、FOMO かも\n\n毎日、毎時間、何かが出る。\n新しいモデル、新しいフレームワーク。\n誰かの「これ知らないとヤバい」。\nタイムラインを開くたびに、自分が少しずつ取り残されていく感覚がある。\n\nこの感情には名前が付いている。\n**FOMO ── Fear of Missing Out**。つまり、取り残される恐怖。\n\n正直に言うと、最近これがずっとつらい。\n追いつこうとするほど、追い",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Ftech-festa-ogp-background-4b5015b2c518c7e6b9062a7c9f5f5e90.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGNDI3NjIxOCUyRnByb2ZpbGUtaW1hZ2VzJTJGMTc2NDY0MDE5Mz9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9ZjM4M2Q0MDViYTk5NTE2MDgwMmRjMGI3YzE3OTc4MjE%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkZhZWZkYTJjNWM0YTM5MTI1ZDg2NDk2ZjY2YzRlM2E5ZTc0MGM2NzQ0JTJGb3JpZ2luYWwuanBnJTNGMTc2NDA2OTQ4Nz9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz0wZjhiYzQ2YjY3MTZkNTc5OTEzYWE0ODk0MTgyMWU0MQ%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D791f252db911012556b61824e0d5aae0?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgyJUFEJUUzJTgzJUEzJUUzJTgzJTgzJUUzJTgzJTgxJUUzJTgyJUEyJUUzJTgzJTgzJUUzJTgzJTk3JUUzJTgxJTk3JUUzJTgxJUFBJUUzJTgxJTg0JUUzJTgxJUE4JUU0JUI4JThEJUU1JUFFJTg5JUUzJTgwJTgyJUUyJTk0JTgwJUUyJTk0JTgwJTIwQUklRTYlOTklODIlRTQlQkIlQTMlRTMlODElQUUlRTMlODIlQTglRTMlODMlQjMlRTMlODIlQjglRTMlODMlOEIlRTMlODIlQTIlRTMlODElOEMlRTclQkQlQjklRTMlODIlOEIlRTclOTclODUlMjAlRTMlODAlOENGT01PJUUzJTgwJThEJTIwJUUzJTgxJUE4JUU0JUJCJTk4JUUzJTgxJThEJUU1JTkwJTg4JUUzJTgxJTg2JUUzJTgwJTgyJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjNGRkZGRkYmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9OTQ4MDI3MDk4ZjM3ZGQxMWY3Y2I5Mzc5NDQzZmRjNWQ&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDB0b21va2ktbWlzbyZ0eHQtY29sb3I9JTIzRkZGRkZGJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTIzMjRiNGU5MzUzYTU5MTcyZDk1MzM1NzA1ZWUyOTMy&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=5qCq5byP5Lya56S-44OJ44OD44OI44Ot44Kw&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%23FFFFFF&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=8901647fa8d38139b4efbc96f934b263",
-    "fetched_at": "2026-06-29 11:42:17",
-    "ja_summary": "・AI技術の急速な進化により、新しい情報に追いつけない「FOMO（取り残される恐怖）」を感じるエンジニアが増加している。\n・絶え間ない情報更新に焦燥感を抱くのは現代特有の悩みだが、すべてを追うことは現実的ではない。\n・「追いかけなければ」という強迫観念を自覚し、自分のペースで技術と付き合うマインドセットが重要である。"
-  },
-  {
-    "title": "東電出資に意欲　孫正義氏が「国内データセンター誘致」で狙うインフラ戦略",
-    "link": "https://www.itmedia.co.jp/business/articles/2606/27/news024.html",
-    "source": "ITmedia ビジネス",
-    "published": "Sat, 27 Jun 2026 08:00:00 +0900",
-    "summary": "ソフトバンクグループ株主総会で、会長兼社長の孫正義氏が、将来的な目標として「純資産価値1000兆円」の展望を語った。AIインフラの最大のボトルネックである「電力確保」を巡り、子会社のソフトバンクが東京電力の次期オーナー候補に名乗りを上げている事実にも言及した。最先端データセンターを日本へ呼び戻そうとするインフラ戦略に迫る。",
-    "image": "https://image.itmedia.co.jp/business/articles/2606/27/cover_news024.jpg",
-    "fetched_at": "2026-06-29 08:47:02",
-    "ja_summary": "・孫正義氏が純資産価値1000兆円を目指し、AIインフラの要となる電力確保へ動く。\n・ソフトバンクが東電への出資を視野に入れ、次期オーナー候補として名乗りを上げた。\n・最先端データセンターを日本へ誘致し、国家レベルのインフラ再構築を狙う。"
-  },
-  {
-    "title": "【PR】「量子×AI」が次の地殻変動を引き起こす",
-    "link": "https://xtech.nikkei.com/atcl/nxt/special/18/00001/061600085/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "量子コンピューターの開発で世界のトップを行くのがIBMだ。ハードウェアの開発だけでなく、ソフトウェアやアルゴリズム、顧客支援など幅広くサポート体制を取るのが強みだ。日本IBMコンサルティング事業本部理事の西林泰如氏に、量子技術とAIの関係性やビジネスの変革について話を聞いた。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/special/18/00001/061600085/topm.jpg?20220512",
-    "fetched_at": "2026-06-29 08:47:10",
-    "ja_summary": "・量子コンピューティングで世界をリードするIBMが、ハードからソフトまで包括的に技術支援を展開。\n・量子技術とAIの融合が、今後のビジネス環境に大きな変革をもたらすと予測。\n・日本IBMの西林氏が、量子×AIが引き起こす新たなイノベーションの可能性を解説。"
-  },
-  {
-    "title": "【西田宗千佳のイマトミライ】「AIを使う人はまだ少なすぎる」　Gensparkが目指す“ちょうどいい”AI文書作成",
-    "link": "https://www.watch.impress.co.jp/docs/series/nishida/2120628.html",
-    "source": "Impress Watch",
-    "published": "",
-    "summary": "先週、筆者は米カリフォルニア州・パロアルトで取材をしていた。向かった先は、AIサービスを提供する「Genspark」の本社だ。",
-    "image": "https://www.watch.impress.co.jp/img/ipw/list/2120/628/m00.jpg",
-    "fetched_at": "2026-06-29 08:47:15",
-    "ja_summary": "・AI活用が未だ限定的である現状に対し、Gensparkは実用的な文書作成ツールを提供。\n・複雑な操作を排除し、誰もが日常業務で使いこなせる「ちょうどいい」AI環境を目指す。\n・米パロアルト発の同社は、AIの普及と実用化の橋渡し役を担う。"
-  },
-  {
-    "title": "Anthropic、「Mythos 5」提供再開　米国の重要インフラ組織限定　Fable 5再開は依然協議中",
-    "link": "https://japan.cnet.com/article/35249560/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "米Anthropicは6月27日、AIモデル「Mythos 5」を米国の一部組織に向けて提供再開すると、公式X（旧Twitter）アカウントへの投稿で明らかにした。米政府が同日、重要インフラの運用や防衛にあたる米国の組織群に対し、Mythos 5を再展開してよいと通知したという。同社はこれらの組織向けに速やかにアクセスを復旧させるとしている。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35249560/\"><img src=\"https://japan.cnet.com/storage/2026/06/29/128d9861138c6903b72bf5bdbbeab913/t/184/138/d/anthropic-claude-logo-gettyimages-2269811684.jpg\" /></a>",
-    "image": "https://japan.cnet.com/storage/2026/06/29/128d9861138c6903b72bf5bdbbeab913/t/184/138/d/anthropic-claude-logo-gettyimages-2269811684.jpg",
-    "fetched_at": "2026-06-29 08:47:19",
-    "ja_summary": "・米AnthropicがAIモデル「Mythos 5」の提供を米国の一部組織向けに再開。\n・米政府が重要インフラや防衛関連組織への展開を承認したため。\n・「Fable 5」の提供再開については、引き続き協議が継続されている。"
-  },
-  {
-    "title": "Autodesk Flow Studio の無料オンラインセミナーやります",
-    "link": "https://note.com/npaka/n/n342d4c6bcf16",
-    "source": "note (npaka)",
-    "published": "Thu, 25 Jun 2026 08:40:17 +0900",
-    "summary": "<p id=\"cb2e98fc-a3ec-404a-8fec-b6379fd30e95\" name=\"cb2e98fc-a3ec-404a-8fec-b6379fd30e95\">7/15（水）15:00〜、「<a href=\"https://www.autodesk.com/jp/products/flow-studio/overview\" rel=\"nofollow noopener\" target=\"_blank\"><strong>Autodesk Flow Studio</strong></a>」の無料オンラインセミナーやります。</p><figure id=\"0ffb75e5-3c04-4cc4-bdab-aa1ebdc930a4\" name=\"0ffb75e5-3c04-4cc4-bdab-aa1ebdc930a4\"> <a href=\"https://www.borndigital.co.jp/seminar/flowstudio_first_sem/\" rel=\"nofollow noopener\" target=\"_blank\"><strong>はじめてのAutodesk Flow Studio：AI映像制作の最前線をnpaka氏と検証 | 株式会社ボーンデジタル</strong><em>注目のAI映像制作ツール「Autodesk Flow Studio」の活用ウェビナー。基本概要に加え、テック系クリエイター</em><em>www.borndigital.co.jp</em></a><a href=\"https://www.borndigital.co.jp/seminar/flowstudio_first_sem/\" rel=\"nofollow noopener\" target=\"_blank\"></a> </figure><br /><a href=\"https://note.com/npaka/n/n342d4c6bcf16\">続きをみる</a>",
-    "image": "https://assets.st-note.com/production/uploads/images/288522338/rectangle_large_type_2_54650e5135b4c382b86b7fa6926ffa21.jpeg?width=800",
-    "fetched_at": "2026-06-29 08:47:23",
-    "ja_summary": "7月15日（水）15:00より、AI映像制作ツール「Autodesk Flow Studio」の無料オンラインセミナーが開催されます。\n基本概要に加え、テック系クリエイターのnpaka氏を招き、AI映像制作の最前線を検証する内容です。\n詳細はボーンデジタルのセミナーページから確認・申し込みが可能です。"
   }
 ]
