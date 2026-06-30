@@ -1,5 +1,115 @@
 [
   {
+    "title": "OpenAIのサム・アルトマン、育児のお供はChatGPT「うちの子はなぜまだハイハイしない？」",
+    "link": "https://www.businessinsider.jp/article/2606-tech-ceo-parenting-advice-screen-time-chores-for-kids/",
+    "source": "Business Insider Japan",
+    "published": "Tue, 30 Jun 2026 12:00:00 GMT",
+    "summary": "テック界の超大物たちの「子育て哲学」をいくつか覗いてみましょう。",
+    "image": "https://media.loom-app.com/loom/2026/05/27/5ecaf39e-6f93-4434-aaed-9089a0371ddb/original.jpg?w=1200&amp;h=630",
+    "fetched_at": "2026-06-30 21:28:39",
+    "ja_summary": "・OpenAIのサム・アルトマン氏ら著名テック経営者が、育児にAIを活用する実態が明らかに。\n・アルトマン氏はChatGPTを育児相談相手として使い、子どもの成長不安などを解消。\n・最先端の技術を個人のライフハックにも積極的に取り入れるテック界の日常が浮き彫りに。"
+  },
+  {
+    "title": "米政府、Anthropic「Mythos 5」を一部パートナー企業・組織に公開許可",
+    "link": "https://www.techno-edge.net/article/2026/06/27/5231.html",
+    "source": "TechnoEdge",
+    "published": "Sat, 27 Jun 2026 11:50:02 +0900",
+    "summary": "AIスタートアップのAnthropicは、米政府から同社のAIモデル「Claude Mythos 5」を一部の信頼できるパートナー企業・組織に対して提供再開する許可を受けました。",
+    "image": "https://www.techno-edge.net/imgs/rss/32569.jpg",
+    "fetched_at": "2026-06-30 21:28:49",
+    "ja_summary": "・Anthropic社のAIモデル「Claude Mythos 5」の提供が一部再開。\n・米政府から信頼できるパートナー企業・組織への提供許可を取得。\n・特定の対象者に限定して利用が再開される見通し。"
+  },
+  {
+    "title": "エージェントOS化するClaude CodeをOS機能との類推などで理解していく",
+    "link": "https://zenn.dev/uehaj/articles/claude-code-fork-branch-rewind-btw",
+    "source": "Zenn Trends",
+    "published": "Tue, 30 Jun 2026 01:33:15 GMT",
+    "summary": "!\n本記事の内容は筆者個人の見解であり、所属する会社を代表するものではありません。\n記述は執筆時点のClaude Codeの最新版に基づいています。\n\n\n TL;DR\n\n\nClaude Code はエージェントアプリのための OS と見立てることができます。\n\n\nこの見立てのもとでは、「枝分かれ」系機能（/fork、/branch、/rewind、/btw、サブエージェント、動的ワークフロー）も OS の操作になぞらえて整理できます。サブエージェント起動はプロセス生成（fork や spawn）、/branch、/resume、/rewind は git のブランチや履歴操作、エージェン...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--Q3LohLfh--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588OS%25E5%258C%2596%25E3%2581%2599%25E3%2582%258BClaude%2520Code%25E3%2582%2592OS%25E6%25A9%259F%25E8%2583%25BD%25E3%2581%25A8%25E3%2581%25AE%25E9%25A1%259E%25E6%258E%25A8%25E3%2581%25AA%25E3%2581%25A9%25E3%2581%25A7%25E7%2590%2586%25E8%25A7%25A3%25E3%2581%2597%25E3%2581%25A6%25E3%2581%2584%25E3%2581%258F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Junji%2520Uehara%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2pxNHd0RGFSTVNVZHhYUHk1dmVfYWpnOWlqUkhyOHlwT2hEUUREPXMyNTAtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-06-30 21:29:17",
+    "ja_summary": "・Claude Codeを「エージェントのためのOS」と見立てることで、複雑な機能を直感的に理解できる。\n・/forkやサブエージェント起動は「プロセス管理」、/branchや/rewindは「状態・履歴管理」として整理可能。\n・OSの操作体系になぞらえることで、エージェント特有の動的なワークフローを構造的に把握できる。"
+  },
+  {
+    "title": "世界史データベースチームの開発手法",
+    "link": "https://zenn.dev/coten/articles/6e1d0b8e14eaf3",
+    "source": "Zenn Trends",
+    "published": "Tue, 30 Jun 2026 00:05:55 GMT",
+    "summary": "はじめに\nこんにちは。株式会社COTENでエンジニアをしているkotonoとmizutakuです。kotonoはプロダクト開発チーム、mizutakuはデータプラットフォーム開発チームに所属しています。本記事は2人の共同執筆で、それぞれが自分のチームの内容を担当しました。\nCOTENの2つの開発チームは、どちらも生成AIを前提とした開発スタイルへと大きく舵を切っている最中です。一方で、チームによって扱うシステムの性質が異なるため、AIの取り入れ方やワークフローには違いも生まれています。本記事では、タスク管理・設計・実装のフローやAIツールの活用方法など、両チームそれぞれの開発手法を紹...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--Nzm8hj24--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E4%25B8%2596%25E7%2595%258C%25E5%258F%25B2%25E3%2583%2587%25E3%2583%25BC%25E3%2582%25BF%25E3%2583%2599%25E3%2583%25BC%25E3%2582%25B9%25E3%2583%2581%25E3%2583%25BC%25E3%2583%25A0%25E3%2581%25AE%25E9%2596%258B%25E7%2599%25BA%25E6%2589%258B%25E6%25B3%2595%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:kotono%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzhhNTA3MmI3YjAuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E6%25A0%25AA%25E5%25BC%258F%25E4%25BC%259A%25E7%25A4%25BECOTEN%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2E4NjAwOTY0Y2IuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-06-30 21:29:18",
+    "ja_summary": "COTENのプロダクト開発とデータプラットフォーム開発の2チームが、生成AIを前提とした開発体制へ移行中。\nチームの性質に合わせてタスク管理や設計、実装フローにAIを最適化して導入している。\n両チームの実践的なAI活用術やワークフローの違いを具体的に紹介する。"
+  },
+  {
+    "title": "AIをフル活用してオンコール機能のプロトタイプを2日で作った話 / Building an AI-Powered On-Call Prototype in Just Two Days",
+    "link": "https://speakerdeck.com/nari_ex/building-an-ai-powered-on-call-prototype-in-just-two-days",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-06-30T07:34:34-04:00",
+    "summary": "ゆるAI 第一回での登壇資料です。\nhttps://yuru-ai.connpass.com/event/392834/",
+    "image": "https://files.speakerdeck.com/presentations/f823a4120ce74044873f67344ce358bf/preview_slide_0.jpg?39857227",
+    "fetched_at": "2026-06-30 21:29:19",
+    "ja_summary": "・生成AIを活用し、本来数週間かかるオンコール管理システムのプロトタイプをわずか2日で開発。\n・AIによるコード生成や構成設計の効率化により、短期間での実用的な機能実装を実現。\n・技術選定や開発プロセスの工夫を共有し、開発のスピードとAI活用の可能性を実証。"
+  },
+  {
+    "title": "GKEトラブルシューティングに向けた安全なAIエージェント活用設計 / Designing the Safe Use of AI Agents for GKE Troubleshooting",
+    "link": "https://speakerdeck.com/iselegant/designing-the-safe-use-of-ai-agents-for-gke-troubleshooting",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-06-30T07:15:06-04:00",
+    "summary": "",
+    "image": "https://files.speakerdeck.com/presentations/4a6b8f817fa4420ea701e7d27edd77ad/preview_slide_0.jpg?39856977",
+    "fetched_at": "2026-06-30 21:29:19",
+    "ja_summary": "・GKEのトラブルシューティングを効率化するAIエージェントの安全な設計手法を解説。\n・権限管理やガードレールの構築により、リスクを抑えつつ運用を自動化する仕組みを提示。\n・AIによる迅速な障害復旧と、セキュアな開発環境の両立を実現するベストプラクティス。"
+  },
+  {
+    "title": "#エンジニアBooks 30分でわかる 「技術記事を書く技術」  / engineer-books 2026-06-30",
+    "link": "https://speakerdeck.com/jnchito/engineer-books-2026-06-30",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-06-30T06:54:14-04:00",
+    "summary": "下記イベントの登壇スライドです。\n\nエンジニアBooks 30分でわかる『技術記事を書く技術』 \nhttps://infra-eng-books.connpass.com/event/393801/\n\n-----\n\n【Rails】給湯器のサンプルアプリで学ぶDelegatedType\nhttps://qiita.com/jnchito/items/180292de6cbb83a9672b\n\n「ギターもベースも同じでしょ」と思っていたギタリストがベースを買ったら想像以上に別の楽器だった件\nhttps://blog.jnito.com/entry/2026/06/19/122417",
+    "image": "https://files.speakerdeck.com/presentations/9fc49aa6413042b0abdd8435deb7cf9a/preview_slide_0.jpg?39856715",
+    "fetched_at": "2026-06-30 21:29:19",
+    "ja_summary": "エンジニアが技術記事を分かりやすく、読まれる内容にするための執筆ノウハウを30分で解説。\n読み手に伝わる構成や書き方のポイントを、実例を交えて効率的に学習できる資料。\n技術アウトプットの質と継続性を高めたいエンジニアにとって有益なガイドライン。"
+  },
+  {
+    "title": "フルAIで個人開発して学んだあれこれ / yuruai vol.1",
+    "link": "https://speakerdeck.com/isaoshimizu/yuruai-vol-dot-1",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-06-30T06:50:15-04:00",
+    "summary": "ゆるAI勉強会 #1\n2026/06/30(火)\nhttps://yuru-ai.connpass.com/event/392834/",
+    "image": "https://files.speakerdeck.com/presentations/7bce2f19d7bd4e398709b09860064b81/preview_slide_0.jpg?39856639",
+    "fetched_at": "2026-06-30 21:29:19",
+    "ja_summary": "・2026/06/30開催の「ゆるAI勉強会 #1」のイベント告知\n・フルAI開発での個人開発における実践的な知見を共有\n・AI活用に関心がある層向けの技術勉強会・交流イベント"
+  },
+  {
+    "title": "AI Agentをシステムに組み込む前にゆるく向き合ってみる",
+    "link": "https://speakerdeck.com/hayama17/ai-agentwosisutemunizu-miip-muqian-niyurukuxiang-kihe-tutemiru",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-06-30T06:12:40-04:00",
+    "summary": "",
+    "image": "https://files.speakerdeck.com/presentations/fbeab3fed2734eac9e2b905639f03347/preview_slide_0.jpg?39856316",
+    "fetched_at": "2026-06-30 21:29:19",
+    "ja_summary": "AIエージェントの導入には、複雑なシステムへの組み込みを急がず、まずは手軽なツールで試用して特性を把握することが重要である。\n段階的な検証を通じてAIの挙動や限界を理解することで、実務への最適な適応とリスク回避が可能となる。"
+  },
+  {
+    "title": "AIでおしゃれな画面を作るためのデザインシステムを学ぼう！",
+    "link": "https://qiita.com/yusuke_ando_vj/items/dd17a285217a15841a3a",
+    "source": "Qiita (Popular)",
+    "published": "2026-06-24T20:51:08+09:00",
+    "summary": "Webサイトのデザインを、AIやデザイナーに「おしゃれにしてください」「いい感じにしてください」だけで依頼すると、完成イメージが大きくズレます。\n\nなぜなら、Webデザインには「どんな情報を・どの順番で・どんなレイアウトで・どんな雰囲気で・どんな色で・どんな文字で・どんな部品で・スマホではどう」という**複数の観点**があるからです。\n\nこの記事では、AIでおしゃれな画面を作るために知っておきたい",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmxoMy5nb29nbGV1c2VyY29udGVudC5jb20lMkZhJTJGQUNnOG9jSlEySi00V2JmcGtIRUJQd0psbWJiSDl2ejVqMjRBLTliQ04tWUR0WWNueC1kMW1BJTNEczk2LWM_aXhsaWI9cmItNC4xLjEmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPTVkNGI5NWFlMzA1Njk3NzA3ZTZkMzUyZDYwZTU5ZTQ5%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkY0YjhiYzU1OGU0ZTliOTk1Nzc5NDIxMGUxY2NmY2MzY2RkNmI3ZGRiJTJGb3JpZ2luYWwuanBnJTNGMTY3Njc5NjQyMj9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz0xNWI1ZjczNjlmYzk2MmFmNmE3MTcxMmUxMGRmYWFhOQ%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D3bac63bdb957e1de0b1095ea971d5eb3?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9QUklRTMlODElQTclRTMlODElOEElRTMlODElOTclRTMlODIlODMlRTMlODIlOEMlRTMlODElQUElRTclOTQlQkIlRTklOUQlQTIlRTMlODIlOTIlRTQlQkQlOUMlRTMlODIlOEIlRTMlODElOUYlRTMlODIlODElRTMlODElQUUlRTMlODMlODclRTMlODIlQjYlRTMlODIlQTQlRTMlODMlQjMlRTMlODIlQjclRTMlODIlQjklRTMlODMlODYlRTMlODMlQTAlRTMlODIlOTIlRTUlQUQlQTYlRTMlODElQkMlRTMlODElODYlRUYlQkMlODEmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1lMDM1MGQyMmM5MTA2MTViY2FlOWU1YjgxM2UwYTMzMA&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDB5dXN1a2VfYW5kb192aiZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWYzZjU1MzRjOWUyNDBmOTcwZDQyZDMyMWM2NmI2ZGI5&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=5qCq5byP5Lya56S-VklTSU9OQVJZIEpBUEFO&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=8fd438a9bb203f8b9d432ac0f8dc5a72",
+    "fetched_at": "2026-06-30 21:29:23",
+    "ja_summary": "AIへの依頼で「おまかせ」が失敗する原因は、デザインに必要な構成・配色・レイアウト等の要素が言語化されていないためです。\nAIに理想のデザインを出力させるには、デザインシステムに基づいた具体的な指示出しが不可欠です。\n本記事では、AI活用で高品質なWebサイトを効率的に作るための、論理的なデザイン指示のコツを解説します。"
+  },
+  {
+    "title": "【AI駆動開発】AIに「図を描いて」と頼むと“それっぽいけど使えない図”が出てくる問題を、draw.io生成スキルで倒した",
+    "link": "https://qiita.com/enomoso_pm/items/68d1a29728e5ee339779",
+    "source": "Qiita (Popular)",
+    "published": "2026-06-18T02:16:47+09:00",
+    "summary": "## はじめに\n\n受託開発やSESの現場にいると、**とにかく「図」を作る場面が多い**んですよね。\n\n業務フロー図、システム構成図、ER図、シーケンス図、画面遷移図、体制図、CI/CDパイプライン……。設計書のページをめくるたびに図、図、図。しかもこれ、お客様に出す資料だったりするので、雑には作れません。\n\n「じゃあAIに描かせればいいじゃん」と思うじゃないですか。僕もそう思ってました。\n\nでも",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGNDE5NzQyOCUyRnByb2ZpbGUtaW1hZ2VzJTJGMTc2MTc1ODE5Mz9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NzE3YWRkZWFiMTZjNWMzYTgxMzU1OTM5NjYwNDg0NGU%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D4ec77b39af33aa7e840bf906b087cb5b?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJTkwQUklRTklQTclODYlRTUlOEIlOTUlRTklOTYlOEIlRTclOTklQkElRTMlODAlOTFBSSVFMyU4MSVBQiVFMyU4MCU4QyVFNSU5QiVCMyVFMyU4MiU5MiVFNiU4RiU4RiVFMyU4MSU4NCVFMyU4MSVBNiVFMyU4MCU4RCVFMyU4MSVBOCVFOSVBMCVCQyVFMyU4MiU4MCVFMyU4MSVBOCVFMiU4MCU5QyVFMyU4MSU5RCVFMyU4MiU4QyVFMyU4MSVBMyVFMyU4MSVCRCVFMyU4MSU4NCVFMyU4MSU5MSVFMyU4MSVBOSVFNCVCRCVCRiVFMyU4MSU4OCVFMyU4MSVBQSVFMyU4MSU4NCVFNSU5QiVCMyVFMiU4MCU5RCVFMyU4MSU4QyVFNSU4NyVCQSVFMyU4MSVBNiVFMyU4MSU4RiVFMyU4MiU4QiVFNSU5NSU4RiVFOSVBMSU4QyVFMyU4MiU5MiVFMyU4MCU4MWRyYXcuaW8lRTclOTQlOUYlRTYlODglOTAlRTIlODAlQTYmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1lZDEyMDY4NTU5YTM3NzYzNjEyNmEzMzk4NDRjYjFmZA&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBlbm9tb3NvX3BtJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9N2YzYjgxMTVhOGE4MjVkMjMzMGY3NzA5YTdkNTFkNTc&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=5d5ae79157c38f6c5ba8cd5e15df5f49",
+    "fetched_at": "2026-06-30 21:29:24",
+    "ja_summary": "・AIに図の作成を依頼すると実用性に欠ける出力になりがち。\n・draw.ioの編集スキルを併用することで、AIの生成物を現場で使える品質に昇華させる。\n・資料作成の効率を上げつつ、品質も担保する現実的な活用法を提案。"
+  },
+  {
     "title": "「ChatGPT広告」が日本上陸　AIが揺さぶるマーケティングの常識 (ManAIgement（マネイジメント）～AIが革新する経営)",
     "link": "https://business.nikkei.com/atcl/gen/19/00876/062900005/",
     "source": "日経ビジネス 最新",
@@ -888,115 +998,5 @@
     "image": "https://www.watch.impress.co.jp/img/ipw/list/2120/720/2.jpg",
     "fetched_at": "2026-06-29 16:15:31",
     "ja_summary": "・Metaのスマートグラスがアップデートし、ライブ翻訳機能が日本語に対応。\n・スローモーションやハイパーラプス撮影、会話フォーカス機能が日本でも利用可能に。\n・Meta AIアプリ経由で最新ソフトへ順次アップデート可能。"
-  },
-  {
-    "title": "経験「のうむ」を「濃霧→の有無」に正しく変換--ATOKスマホ版が強化",
-    "link": "https://japan.cnet.com/article/35249654/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "ジャストシステムは6月29日、日本語入力システム「ATOK Passport」で使える文章作成アシスタント「ATOK MiRA（エイトックミラ）」のmacOS、Android、iOS版の提供を始めた。これまでWindows版だけだった生成AIによる文章支援が、Macやスマートフォンでも使えるようになる。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35249654/\"><img src=\"https://japan.cnet.com/storage/2026/06/29/8c76ce64ac7c873dea527e30891f8e52/t/184/138/d/2025-11-26_16.49の画像.jpg\" /></a>",
-    "image": "https://japan.cnet.com/storage/2026/06/29/8c76ce64ac7c873dea527e30891f8e52/t/184/138/d/2025-11-26_16.49の画像.jpg",
-    "fetched_at": "2026-06-29 16:15:35",
-    "ja_summary": "・ジャストシステムは、生成AIによる文章作成アシスタント「ATOK MiRA」をmacOS、Android、iOS版でも提供開始。\n・Windows限定だったAI変換・校正機能が、スマホやMacでも利用可能になった。\n・同音異義語の誤変換修正など、精度の高い入力環境をマルチデバイスで実現する。"
-  },
-  {
-    "title": "睡眠状態に合わせてAIが香りを届ける、最新の快眠支援デバイス「Kimba」とは",
-    "link": "https://japan.cnet.com/article/35249589/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "「Kimba」はAIを活用した睡眠支援デバイスだ。個人に合わせた香りを放出し、より良い睡眠をサポートする。その仕組みを紹介する。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35249589/\"><img src=\"https://japan.cnet.com/storage/2026/06/29/983854c2cbb2b6ff0f39814e616bfd2d/t/184/138/d/kimba-in-use_1280x960.jpg\" /></a>",
-    "image": "https://japan.cnet.com/storage/2026/06/29/983854c2cbb2b6ff0f39814e616bfd2d/t/184/138/d/kimba-in-use_1280x960.jpg",
-    "fetched_at": "2026-06-29 16:15:35",
-    "ja_summary": "・AIが睡眠状態を解析し、最適な香りを放出する快眠支援デバイス「Kimba」が登場。\n・個人の眠りに合わせた香りで、睡眠の質向上をサポートする。\n・テクノロジーを活用した、新しい睡眠環境の改善ソリューション。"
-  },
-  {
-    "title": "ソニー明言「aiboはやめません」",
-    "link": "https://news.yahoo.co.jp/pickup/6585876?source=rss",
-    "source": "Yahoo!ニュース IT・科学",
-    "published": "Sat, 27 Jun 2026 06:43:03 GMT",
-    "summary": "",
-    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/6/27/3670b94cff58f483e368f390fccd39967f785c0d9e1d3bf0bd61fd28bba0c46b.jpg",
-    "fetched_at": "2026-06-29 16:15:42",
-    "ja_summary": "・ソニーは「aibo」の事業継続を明言し、終了の噂を否定\n・今後も愛着を持って長く付き合える製品として開発を継続\n・ファンやユーザーの不安を払拭し、ブランド維持の姿勢を強調"
-  },
-  {
-    "title": "OpenAI GPT-5.6シリーズを発表",
-    "link": "https://news.yahoo.co.jp/pickup/6585874?source=rss",
-    "source": "Yahoo!ニュース IT・科学",
-    "published": "Sat, 27 Jun 2026 06:24:21 GMT",
-    "summary": "",
-    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/6/27/131846d970d5d592e729126db84f7cd4770356e8e53575f5482087b3478dcc4b.jpg",
-    "fetched_at": "2026-06-29 16:15:43",
-    "ja_summary": "OpenAIが最新モデル「GPT-5.6」シリーズを発表。\n従来モデルより推論能力や処理速度が大幅に向上。\n業務効率化や高度なタスク処理のさらなる進化が期待される。"
-  },
-  {
-    "title": "リコーとライズ・コンサルティング、AI実装支援の新会社設立--業務運用に生成AIを活用",
-    "link": "https://japan.zdnet.com/article/35249604/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "リコーとAI・デジタル領域のコンサルティングを手掛けるライズ・コンサルティング・グループは、企業のAIトランスフォーメーション（AX）推進を支援する合弁会社「リコーAIコンサルティング株式会社」を設立したと発表した。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35249604/\"><img src=\"https://japan.zdnet.com/storage/2025/10/09/60478e248ca20b13795f871513cee7f9/t/184/138/d/251009_ai_as_1280_323829966.jpeg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2025/10/09/60478e248ca20b13795f871513cee7f9/t/184/138/d/251009_ai_as_1280_323829966.jpeg",
-    "fetched_at": "2026-06-29 16:15:47",
-    "ja_summary": "・リコーとライズ・コンサルティングが、企業のAI導入を支援する新会社「リコーAIコンサルティング」を設立。\n・業務の効率化や変革を目指す企業に対し、生成AIの実装から運用までをトータルでサポート。\n・AIトランスフォーメーション（AX）推進により、企業のDX実現を加速させる狙い。"
-  },
-  {
-    "title": "AI時代でスマホ離れ？ASUSがPCに注力したCOMPUTEX 2026ブース (山根康宏)",
-    "link": "https://www.techno-edge.net/article/2026/06/29/5235.html",
-    "source": "TechnoEdge",
-    "published": "Mon, 29 Jun 2026 12:38:45 +0900",
-    "summary": "ASUSはCOMPUTEXでスマホ展示を撤退し、AIやゲーミングPCに注力。スマホ事業は事実上終了し、将来的な再展開も難しいと見られる。",
-    "image": "https://www.techno-edge.net/imgs/rss/32601.jpg",
-    "fetched_at": "2026-06-29 16:15:49",
-    "ja_summary": "・ASUSがCOMPUTEXでスマホ展示を終了し、AI・ゲーミングPC事業へ完全に注力。\n・スマホ事業は事実上の撤退となり、将来的な再開の可能性も極めて低い。\n・メーカー戦略が「モバイル」から「高性能PC・AI分野」へ大きく転換した。"
-  },
-  {
-    "title": "超便利なClaude Designの実践的な活用方法",
-    "link": "https://zenn.dev/branbran/articles/5730c47e1abac9",
-    "source": "Zenn Trends",
-    "published": "Mon, 29 Jun 2026 00:30:05 GMT",
-    "summary": "はじめに\n先日Claudeから登場したデザインプラットフォーム Claude Design を、ここ数週間にわたって一通り使ってみました。本記事では、その中で見つけた実践的な使い方を紹介します。\nこれから Claude Designを使ってみたい方、あるいは Figma Makeなどのツールから乗り換えを検討している方の参考になれば幸いです。\n!\n本記事は、英語学習アプリ（仮）を題材に、実際の操作画面やデモ動画を交えて解説していきます。各セクションのキャプチャ・動画とあわせてご覧ください。\n\n\n Claude Designの基本\n詳しい活用方法に入る前に、まずは基本的な始め方を簡単に...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--oQpiYm7l--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E8%25B6%2585%25E4%25BE%25BF%25E5%2588%25A9%25E3%2581%25AAClaude%2520Design%25E3%2581%25AE%25E5%25AE%259F%25E8%25B7%25B5%25E7%259A%2584%25E3%2581%25AA%25E6%25B4%25BB%25E7%2594%25A8%25E6%2596%25B9%25E6%25B3%2595%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Atsuki02%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzYxZjg2ZTA4ZDIuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "fetched_at": "2026-06-29 16:16:09",
-    "ja_summary": "・Claude Designの実践的な活用ノウハウを、英語学習アプリの制作例をもとに解説。\n・Figma Make等の既存ツールと比較し、初心者や乗り換え検討者に向けた操作法を紹介。\n・実際のデモ画面や動画を交え、効率的なデザイン制作の具体的な手法を提示。"
-  },
-  {
-    "title": "ReactiveProperty.R3 を公開しました",
-    "link": "https://zenn.dev/okazuki/articles/reactiveproperty-r3-overview",
-    "source": "Zenn Trends",
-    "published": "Sun, 28 Jun 2026 05:43:55 GMT",
-    "summary": "はじめに\n先日、重い腰を上げて ReactiveProperty.R3 を公開しました。(まだプレビューですが)\nReactiveProperty は、今後も最新の .NET がサポートされるようにメンテナンスをしたり、問題の報告が issue で行われたら対応する予定です。ですが、ReactiveProperty が依存している System.Reactive パッケージは、ちょっとずつ進歩しているものの例外が出てハンドリングを忘れたら LINQ で組み立てたパイプラインが止まってしまうという仕様があったり async/await が出る前に設計されたので最新の C# と比べるとち...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--nw36f--J--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:ReactiveProperty.R3%2520%25E3%2582%2592%25E5%2585%25AC%25E9%2596%258B%25E3%2581%2597%25E3%2581%25BE%25E3%2581%2597%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Kazuki%2520Ota%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzhmNzg3NDJjNDQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "fetched_at": "2026-06-29 16:16:10",
-    "ja_summary": "・既存の「ReactiveProperty」を刷新した「ReactiveProperty.R3」のプレビュー版が公開された。\n・従来のSystem.Reactiveが抱える非同期処理や例外ハンドリングの課題を解決する。\n・今後は既存のReactivePropertyも継続維持しつつ、最新の.NET環境に最適化していく。"
-  },
-  {
-    "title": "Claudeに「オントロジー」を持たせたら、コスト半分・3倍速になるかも",
-    "link": "https://zenn.dev/takupeso/articles/claude-ontology-knowledge-structuring",
-    "source": "Zenn Trends",
-    "published": "Sat, 27 Jun 2026 16:49:46 GMT",
-    "summary": "Komlock lab VPoE阿部(@takupeso)です。\nClaudeCodeに既存設計・コードに関するナレッジを渡すとき、僕はずっと同じやり方をしていました。@でファイルを指定し、CLAUDE.mdにルールを足し、.claudeを整備していました。\nこれももちろん有効な手法です。ただ、AIの調子でアウトプットの精度にブレが出ます。同じナレッジを渡しても、関連する事実をうまく結びつけてくれる日もあれば、そうでない日もあります。もっと安定して効く情報整理の手法はないのかな、と思っていました。\nそこで「オントロジー」について調べてみました。情報整理の文脈でたまに聞くものの、正体も導入...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--ipoT6Cpk--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%25E3%2581%25AB%25E3%2580%258C%25E3%2582%25AA%25E3%2583%25B3%25E3%2583%2588%25E3%2583%25AD%25E3%2582%25B8%25E3%2583%25BC%25E3%2580%258D%25E3%2582%2592%25E6%258C%2581%25E3%2581%259F%25E3%2581%259B%25E3%2581%259F%25E3%2582%2589%25E3%2580%2581%25E3%2582%25B3%25E3%2582%25B9%25E3%2583%2588%25E5%258D%258A%25E5%2588%2586%25E3%2583%25BB3%25E5%2580%258D%25E9%2580%259F%25E3%2581%25AB%25E3%2581%25AA%25E3%2582%258B%25E3%2581%258B%25E3%2582%2582%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:takupeso%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzcxNzllYjQzODUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "fetched_at": "2026-06-29 16:16:11",
-    "ja_summary": "AIの回答精度を安定させるため、体系的な知識構造である「オントロジー」を活用する手法を提案。\nAIにナレッジを効率的に伝達することで、開発コストの半減と処理速度の3倍向上を目指す。\n既存のファイル指定やルール追加だけでは難しかったアウトプットのブレを抑え、精度を最大化する。"
-  },
-  {
-    "title": "製造現場での生成AIの活用、およびエージェントAIの実装のあり方、AVEVAの取り組み",
-    "link": "https://speakerdeck.com/iotcomjpadmin/zhi-zao-xian-chang-denosheng-cheng-ainohuo-yong-oyobiezientoainoshi-zhuang-noarifang-avevanoqu-rizu-mi",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-06-29T02:07:15-04:00",
-    "summary": "",
-    "image": "https://files.speakerdeck.com/presentations/1e0f626953a646e5bbc2a2090c543eb1/preview_slide_0.jpg?39843020",
-    "fetched_at": "2026-06-29 16:16:12",
-    "ja_summary": "・AVEVAが製造現場における生成AI活用と、自律的に判断・実行するエージェントAIの実装を推進。\n・AIが現場データを分析し、業務の効率化や意思決定の迅速化を支援する仕組みを構築。\n・製造業のデジタル変革を加速させ、生産性向上と技術継承の課題解決を目指す。"
-  },
-  {
-    "title": "Fabricをフル活用する  AI Agent Hub -製造業特化AIエージェントの設計",
-    "link": "https://speakerdeck.com/iotcomjpadmin/fabricwohuruhuo-yong-suru-ai-agent-hub-zhi-zao-ye-te-hua-aiezientonoshe-ji",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-06-29T02:05:49-04:00",
-    "summary": "",
-    "image": "https://files.speakerdeck.com/presentations/4d8cc8c1f850447497f09655f7b57cf1/preview_slide_0.jpg?39842979",
-    "fetched_at": "2026-06-29 16:16:12",
-    "ja_summary": "・Microsoft Fabricを活用し、製造業の業務プロセスを自動化する「AI Agent Hub」を構築する。\n・専門知識を組み込んだAIエージェントにより、製造現場の効率化と意思決定を高度化する。\n・データ基盤の統合からエージェント設計まで、製造業に特化したAI活用の実践手法を提示する。"
   }
 ]
