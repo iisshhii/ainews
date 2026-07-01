@@ -1,5 +1,85 @@
 [
   {
+    "title": "「ChatGPT広告」が日本上陸　AIが揺さぶるマーケティングの常識 (ManAIgement（マネイジメント）～AIが革新する経営)",
+    "link": "https://business.nikkei.com/atcl/gen/19/00876/062900005/",
+    "source": "日経ビジネス 最新",
+    "published": "",
+    "summary": "コンテンツ制作やターゲット層の絞り込み、顧客接点の創出、効果検証まで、AIツールによる広告やマーケティング業務の効率化が加速している。「ChatGPT広告」が日本に上陸する一方で、既存のビジネスツールや広告代理店への依存度を減らす「SaaSの死」「広告内製化」の動きも広がる。現場はAIがもたらす劇的な変化への対応と、本質的な成果につなげる手法の確立を迫られている。",
+    "image": "https://business.nikkei.com/atcl/gen/19/00876/062900005/fb.jpg",
+    "fetched_at": "2026-07-01 22:22:44",
+    "ja_summary": "・「ChatGPT広告」の導入でマーケティング業務の効率化が加速。\n・広告運用やコンテンツ制作の内製化が進み、従来型代理店への依存が低下。\n・企業はAI活用による変化に適応し、実効性の高い手法の確立を迫られている。"
+  },
+  {
+    "title": "10 か月 CLI で使ってきた Claude Code を、Desktop メインに移行した 12 の理由",
+    "link": "https://zenn.dev/canly/articles/428767121d7dc2",
+    "source": "Zenn Trends",
+    "published": "Wed, 01 Jul 2026 04:18:01 GMT",
+    "summary": "本記事は、カンリー社内で実施している AI 共有会で話した内容を記事化したものです(2026 年 6 月時点の macOS 版 Claude Desktop アプリの実機運用に基づく感想記事)。\n\n\n はじめに\n皆さんは Claude Code をどう起動して使っていますか？\nターミナルで claude を叩く CLI 起動を思い浮かべる方が多いかもしれません。Claude Code はもともと CLI ツールとして登場したこともあり、「Claude Code といえばターミナル」という印象は根強いように思います。\nただ実際には呼び出す手段はもう少し広がっていて、CLI / IDE 拡...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--t0xG5qKr--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:10%2520%25E3%2581%258B%25E6%259C%2588%2520CLI%2520%25E3%2581%25A7%25E4%25BD%25BF%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%258D%25E3%2581%259F%2520Claude%2520Code%2520%25E3%2582%2592%25E3%2580%2581Desktop%2520%25E3%2583%25A1%25E3%2582%25A4%25E3%2583%25B3%25E3%2581%25AB%25E7%25A7%25BB%25E8%25A1%258C%25E3%2581%2597%25E3%2581%259F%252012%2520%25E3%2581%25AE%25E7%2590%2586%25E7%2594%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E3%2581%25B5%25E3%2581%258F%25E3%2581%25A0%25EF%25BC%2588fukuda%2520ryu%25EF%25BC%2589%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2EwYjI3NWVjYTkuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2582%25AB%25E3%2583%25B3%25E3%2583%25AA%25E3%2583%25BC%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzEyMjRmMTIyZTMuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-07-01 22:23:25",
+    "ja_summary": "・CLIで利用されていたClaude CodeをDesktopアプリへ移行した実体験の解説記事。\n・macOS版Claude Desktopの運用に基づき、移行に至った12のメリットを提示。\n・ターミナル作業中心のユーザーに向け、Desktop版への切り替え判断を支援する内容。"
+  },
+  {
+    "title": "投機的デコーディングによる推論高速化（Eagle3・DFlash・DSpark）",
+    "link": "https://zenn.dev/syurenuko/articles/b31d9d63035c9c",
+    "source": "Zenn Trends",
+    "published": "Wed, 01 Jul 2026 04:09:25 GMT",
+    "summary": "ここ最近、立て続けに投機的デコーディングの手法が出てきているので、備忘録も兼ねて記事にまとめました。投機的デコーディングの概要をふまえた上で、EAGLE-3、DFlash、DSpark という3つの発展的な手法について紹介します。\n\n はじめに：投機的デコーディングとは何か？\n投機的デコーディング（Speculative Decoding）は、大規模言語モデル（LLM）の推論を高速化するための手法で、2022年末から2023年初頭にかけてGoogle Research と DeepMind（Google Brain統合前） の2つの研究グループから提案されました。\n投機的デコーディングの...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--fqSITpc9--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E6%258A%2595%25E6%25A9%259F%25E7%259A%2584%25E3%2583%2587%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2587%25E3%2582%25A3%25E3%2583%25B3%25E3%2582%25B0%25E3%2581%25AB%25E3%2582%2588%25E3%2582%258B%25E6%258E%25A8%25E8%25AB%2596%25E9%25AB%2598%25E9%2580%259F%25E5%258C%2596%25EF%25BC%2588Eagle3%25E3%2583%25BBDFlash%25E3%2583%25BBDSpark%25EF%25BC%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:syurenuko%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzY5ODMxZThmYjIuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-07-01 22:23:26",
+    "ja_summary": "・LLMの推論速度を向上させる技術「投機的デコーディング」の最新動向を解説。\n・従来の仕組みに加え、発展的な新手法「EAGLE-3」「DFlash」「DSpark」の概要を紹介。\n・大規模言語モデルをより効率的かつ高速に運用するための手法が網羅された備忘録。"
+  },
+  {
+    "title": "優秀な人ばかりなのに、組織が重い ── AI時代に複利で膨らむ『認識負債』の話",
+    "link": "https://zenn.dev/canly/articles/0c01a3124b8480",
+    "source": "Zenn Trends",
+    "published": "Tue, 30 Jun 2026 23:00:12 GMT",
+    "summary": "こんにちは、株式会社カンリーの波多野（@hatamasa1988）です。\n同じ言葉を使っているのに、話が通じない。\n最近、技術負債よりも厄介だと感じている負債の話をします。それが今回書く「認識負債」です。\n私はカンリー店舗集客プロダクトのエンジニアリングマネージャー（EM）をしています。前回は「AI時代のEMの仕事は、組織のハーネスエンジニアリングである」という記事を書いたんですが、今回はその裏側でずっと感じていたモヤモヤを、ひとつの言葉にしてみます。\n前回の記事はこちら。\nhttps://zenn.dev/canly/articles/fbf3a3277ad5a5\nざっくり先にひとこと...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--g9GzMYnZ--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E5%2584%25AA%25E7%25A7%2580%25E3%2581%25AA%25E4%25BA%25BA%25E3%2581%25B0%25E3%2581%258B%25E3%2582%258A%25E3%2581%25AA%25E3%2581%25AE%25E3%2581%25AB%25E3%2580%2581%25E7%25B5%2584%25E7%25B9%2594%25E3%2581%258C%25E9%2587%258D%25E3%2581%2584%2520%25E2%2594%2580%25E2%2594%2580%2520AI%25E6%2599%2582%25E4%25BB%25A3%25E3%2581%25AB%25E8%25A4%2587%25E5%2588%25A9%25E3%2581%25A7%25E8%2586%25A8%25E3%2582%2589%25E3%2582%2580%25E3%2580%258E%25E8%25AA%258D%25E8%25AD%2598%25E8%25B2%25A0%25E5%2582%25B5%25E3%2580%258F%25E3%2581%25AE%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:hatamasa%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2EwYjI3NWVjYTkuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2582%25AB%25E3%2583%25B3%25E3%2583%25AA%25E3%2583%25BC%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2ZiMDdjNWMzMTkuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-07-01 22:23:27",
+    "ja_summary": "優秀な人材が揃っていても会話が噛み合わない状態を「認識負債」と定義し、それが組織の機動力を阻害している。\n技術負債以上に深刻なこの課題を解決するためには、AI時代に適した認識のすり合わせ（ハーネスエンジニアリング）が重要となる。\n組織の停滞を防ぐには、言語化を通じた前提の共有と、認識のズレを解消する仕組み作りが不可欠である。"
+  },
+  {
+    "title": "打造你的 AI 工作流：Agent Skill + MCP 實戰工作坊",
+    "link": "https://speakerdeck.com/appleboy/da-zao-ni-de-ai-gong-zuo-liu-agent-skill-plus-mcp-shi-zhan-gong-zuo-fang",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-07-01T08:17:15-04:00",
+    "summary": "當 AI 已經能寫 code，工程師的價值在哪裡？答案是：往上移了一層。從「把功能做出來」，變成「把問題定義清楚、把流程設計好，再交給 AI 執行」。這場 90 分鐘的實戰工作坊，就是要讓你親身經歷這場思維轉變。\n\n我們不空談理論。你會以一個真實的專案為練習場——可以是 AuthGate（OAuth 2.0 開源專案），也可以是你手上公司內部的專案——用 Claude Code 搭配 Agent Skill 與 MCP，完整跑過一輪軟體開發生命週期（SDLC）——從規劃、開發，到自動化 Review 與提交。過程中你會清楚分辨：Agent Skill 決定 AI「怎麼做」，MCP 讓 AI 接上外部服務（Jira、Gitea、Confluence 等），兩者結合，AI 才能既懂流程、又能在你的開發環境裡真正動手。\n\n更重要的是兩個你會親身撞見的轉變。透過模糊指令與精準規格的對照實驗，你會看見「寫規格」如何取代「寫程式」成為新的核心競爭力；而當你親手修改一個 Skill、把團隊的最佳實踐封裝成可複用的資產，你會體會到工程師如何從「執行者」升級為「策略者」——影響力不再是一次性的執行，而是可規模化的流程設計。會寫 code 的人很多，但能把問題拆清楚、把團隊智慧封裝成 Skill 的人很稀缺。這堂課，帶你成為後者。\n\n課程目標\n本工作坊的核心，不是教 OAuth、也不是教 Go，而是讓工程師親身經歷一場思維典範的轉移：當 AI 能寫 code，工程師的價值往上移了一層——從「把它做出來」變成「把它定義清楚、設計好流程、再交給 AI 執行」。\n\n完成本課程後，學員將能夠：\n\n一、理解 Agent Skill 與 MCP 的定位與互補關係。 清楚分辨 Skill 決定「怎麼做」、MCP 讓 AI 接上 Jira、Gitea、Confluence 等外部服務，並知道兩者結合後，AI 才能既懂流程、又能在真實開發環境裡實際動手。\n\n二、用 AI 跑完一輪完整的 SDLC。 以真實專案（AuthGate 或自己手上的專案）為練習場，串起規劃、開發、Review、提交四個環節，體驗 AI 如何介入軟體開發生命週期的每一步。\n\n三、體會「從寫程式到寫規格」的能力轉移。 透過模糊指令與精準規格的對照實驗，親眼看見規格品質如何決定產出品質，理解「把問題定義清楚」正在成為工程師新的核心競爭力。\n\n四、領悟「從執行者到策略者」的角色升級。 透過實際修改一個 Skill，體會把團隊最佳實踐封裝成可複用資產的意義——你的影響力從一次性執行，變成可規模化的策略。\n\n課程綱要\n模組一｜開場與環境就緒\n\n定調整場主軸：今天學的是 AI 如何重塑開發工作流，任何夠真實的專案都可以是練習場。確認學員環境就緒（Claude Code、已準備好可以動手改的專案並成功 build），並安裝 skill marketplace 與四個 skill（commit-message、copilot-review、pr-prepare、plan-feature），作為後續所有練習的前提。\n\n\n\n模組二｜概念對齊：Agent Skill vs MCP\n\n釐清兩者定位與互補關係，並攤開本場核心錨點——「舊典範 vs 新典範」對照圖：左邊是工程師埋頭寫 code、靠人盯 review；右邊是工程師寫規格、定義 skill、AI 執行、人把關。以 AuthGate 的分層架構與 CLAUDE.md 作為示範素材，讓學員看見一個正式專案的樣貌；學員也可對照自己手上的專案思考如何套用。\n\n\n\n模組三｜練習一：規劃 + 開發\n\n體驗主題：寫規格 > 寫程式\n\n設定範圍可控的任務（例如為 /health 回應加入版本資訊並補上對應測試）。設計模糊指令與精準規格的對照實驗，讓學員兩次產出的落差，親身印證「規格能力就是新的核心競爭力」。過程中觀察 AI 如何在多檔案間建立上下文，以及人在計畫階段的把關如何提升品質。\n\n\n\n模組四｜練習二：Review + 提交\n\n體驗主題：執行者 > 策略者\n\n實際操作兩個 skill 串起閉環。先跑 copilot-review 體驗 AI 自我審查、發現問題、自動修正的「檢查—修正」循環；再跑 commit-message 體驗依 staged 變更自動產生 conventional commit 訊息。中段打開 skill 原始檔，引導學員意識到：你正在「執行」別人定義的規範——那麼，你願不願意當那個定義規範的人？\n\n\n\n模組五｜收尾：客製化與思維轉變\n\n體驗主題：把智慧封裝成資產\n\n示範如何修改一個 skill 使其符合自己團隊的規範（例如調整 commit 格式、加入 issue 編號規則）。學員親手改 skill 的那一刻，就是從執行者躍升為策略者的具體證明。邀請學員分享「如果要把你團隊的某個重複工作寫成 skill，會是什麼？」，最後以核心訊息收束全場。\n\nhttps://cloudsummit.ithome.com.tw/2026/lab/4794",
+    "image": "https://files.speakerdeck.com/presentations/fdf92ad2a2424d4eb0ec23ec6f44dc4d/preview_slide_0.jpg?39868876",
+    "fetched_at": "2026-07-01 22:23:28",
+    "ja_summary": "・AI時代のエンジニアは「コードを書く人」から、AIへの指示や業務フローを設計する「戦略者」への転換が求められる。\n・Agent Skill（手順の定義）とMCP（外部ツール連携）を活用し、企画から実装・レビューまでAIで完結する開発環境を構築する。\n・単なるコーディングではなく、問題定義や仕様策定、チームのベストプラクティスを再利用可能な資産へと昇華させるスキルを学ぶ。"
+  },
+  {
+    "title": "從觀望到全公司落地：AI Agentic Coding 導入實戰 — 流程整合與安全治理",
+    "link": "https://speakerdeck.com/appleboy/cong-guan-wang-dao-quan-gong-si-luo-di-ai-agentic-coding-dao-ru-shi-zhan-liu-cheng-zheng-he-yu-an-quan-zhi-li",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-07-01T08:15:38-04:00",
+    "summary": "活動資訊\n\n日期：2026.07.01\n活動：2026 Cloud Summit 台灣雲端大會\n講者：appleboy\n摘要\n2025 - 2026 年 AI Agentic Coding 時代全面爆發，軟體開發正經歷前所未有的典範轉移。本場演講將分享講者帶領團隊從最初的觀望與不敢嘗試，到全員導入 AI 開發工具的實戰歷程。\n\n內容涵蓋\n\n團隊轉型的關鍵挑戰：如何克服成員對 AI 工具的疑慮與抗拒，建立信任並逐步推動採用\n實際導入策略：從個人試用到團隊標準化流程的落地方法\n流程整合與安全治理：不論是 CLI 工具還是 MCP 服務，所有工具串接內部系統都必須透過統一認證機制管理，讓全公司能安心、快速地使用 AI 工具\n開發效益與轉變：導入前後在程式碼品質、開發速度與團隊協作上的具體變化\n加速部署迭代：如何運用 AI 工具優化從開發、測試到部署的完整軟體交付流程\n\n適合對象\n\n正在評估 AI 工具的技術主管\n想推動團隊轉型的工程師\n\n講師簡介\n\n現任聯發科技後端架構工程師，負責公司內部 Technology Platform 開發與維運。擅長以 Go 語言構建微服務架構，熱衷導入 DevOps 與自動化流程改善團隊協作效率。長期貢獻於 Open Source 專案，曾擔任多場技術研討會講師。目前專注於 AI 工具導入，探索 AI 能為軟體團隊帶來多少價值，加速開發流程與決策效率。\n\nGitHub: https://github.com/appleboy\nSpeakerdeck: https://speakerdeck.com/appleboy\n\nhttps://cloudsummit.ithome.com.tw/2026/session/4553",
+    "image": "https://files.speakerdeck.com/presentations/c106a6c7b10c499e81e0cfdfab1955ed/preview_slide_0.jpg?39868848",
+    "fetched_at": "2026-07-01 22:23:28",
+    "ja_summary": "・聯發科工程師分享AI Agentic Coding導入全公司的心路歷程，包含克服團隊抗拒及建立信任的實戰經驗。\n・重點解析如何透過統一認證機制，安全整合CLI與MCP工具，實現標準化開發流程。\n・具體說明導入後在開發速度、程式碼品質及自動化交付流程上的顯著效益。"
+  },
+  {
+    "title": "組織における AI-DLC 実践",
+    "link": "https://speakerdeck.com/askul/zu-zhi-niokeru-ai-dlc-shi-jian",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-07-01T07:42:10-04:00",
+    "summary": "",
+    "image": "https://files.speakerdeck.com/presentations/273dd53747034ac88e9d91e074036444/preview_slide_0.jpg?39868559",
+    "fetched_at": "2026-07-01 22:23:28",
+    "ja_summary": "申し訳ありません。対象となる「概要」のテキストが入力されていないようです。\n\nもしよろしければ、**概要の内容（または記事の本文）**を貼り付けていただけますでしょうか。内容を確認次第、すぐに要約を作成いたします。"
+  },
+  {
+    "title": "AIでおしゃれな画面を作るためのデザインシステムを学ぼう！",
+    "link": "https://qiita.com/yusuke_ando_vj/items/dd17a285217a15841a3a",
+    "source": "Qiita (Popular)",
+    "published": "2026-06-24T20:51:08+09:00",
+    "summary": "Webサイトのデザインを、AIやデザイナーに「おしゃれにしてください」「いい感じにしてください」だけで依頼すると、完成イメージが大きくズレます。\n\nなぜなら、Webデザインには「どんな情報を・どの順番で・どんなレイアウトで・どんな雰囲気で・どんな色で・どんな文字で・どんな部品で・スマホではどう」という**複数の観点**があるからです。\n\nこの記事では、AIでおしゃれな画面を作るために知っておきたい",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmxoMy5nb29nbGV1c2VyY29udGVudC5jb20lMkZhJTJGQUNnOG9jSlEySi00V2JmcGtIRUJQd0psbWJiSDl2ejVqMjRBLTliQ04tWUR0WWNueC1kMW1BJTNEczk2LWM_aXhsaWI9cmItNC4xLjEmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPTVkNGI5NWFlMzA1Njk3NzA3ZTZkMzUyZDYwZTU5ZTQ5%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkY0YjhiYzU1OGU0ZTliOTk1Nzc5NDIxMGUxY2NmY2MzY2RkNmI3ZGRiJTJGb3JpZ2luYWwuanBnJTNGMTY3Njc5NjQyMj9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz0xNWI1ZjczNjlmYzk2MmFmNmE3MTcxMmUxMGRmYWFhOQ%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D3bac63bdb957e1de0b1095ea971d5eb3?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9QUklRTMlODElQTclRTMlODElOEElRTMlODElOTclRTMlODIlODMlRTMlODIlOEMlRTMlODElQUElRTclOTQlQkIlRTklOUQlQTIlRTMlODIlOTIlRTQlQkQlOUMlRTMlODIlOEIlRTMlODElOUYlRTMlODIlODElRTMlODElQUUlRTMlODMlODclRTMlODIlQjYlRTMlODIlQTQlRTMlODMlQjMlRTMlODIlQjclRTMlODIlQjklRTMlODMlODYlRTMlODMlQTAlRTMlODIlOTIlRTUlQUQlQTYlRTMlODElQkMlRTMlODElODYlRUYlQkMlODEmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1lMDM1MGQyMmM5MTA2MTViY2FlOWU1YjgxM2UwYTMzMA&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDB5dXN1a2VfYW5kb192aiZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWYzZjU1MzRjOWUyNDBmOTcwZDQyZDMyMWM2NmI2ZGI5&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=5qCq5byP5Lya56S-VklTSU9OQVJZIEpBUEFO&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=8fd438a9bb203f8b9d432ac0f8dc5a72",
+    "fetched_at": "2026-07-01 22:23:32",
+    "ja_summary": "・AIへの指示に「いい感じに」等の曖昧な表現を使うと、完成イメージに大きなズレが生じる。\n・デザインには構成や色、レイアウトなど考慮すべき複数の要素が存在する。\n・AIから理想のデザインを引き出すには、デザインシステムの基礎知識を理解する必要がある。"
+  },
+  {
     "title": "AIエージェント「Gemini Spark」がmacOSに　連携アプリも拡大",
     "link": "https://www.watch.impress.co.jp/docs/news/2121643.html",
     "source": "Impress Watch",
@@ -918,85 +998,5 @@
     "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Ftech-festa-ogp-background-4b5015b2c518c7e6b9062a7c9f5f5e90.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0MTY1MTg1JTJGYzU3ZjhjYTViNzg0ODE2NTNhYmM1YjJmMzVlZDAzN2M1ZTkxNzkzNCUyRnhfbGFyZ2UucG5nJTNGMTc1NTE2MTk2MT9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9Y2NhZWFlMDJhNjY4ODg0N2I5M2Q5M2ViYWJkNzM1NGI%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkZhZWZkYTJjNWM0YTM5MTI1ZDg2NDk2ZjY2YzRlM2E5ZTc0MGM2NzQ0JTJGb3JpZ2luYWwuanBnJTNGMTc2NDA2OTQ4Nz9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz0wZjhiYzQ2YjY3MTZkNTc5OTEzYWE0ODk0MTgyMWU0MQ%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D3c0ddb38c06e402378e3c4bf607f2dcd?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgyJUIwJUUzJTgzJUE5JUUzJTgzJUIzJUUzJTgzJUExJUUzJTgyJUJFJUUzJTgzJUIzJUU2JTlEJUIxJUU0JUJBJUFDJUUzJTgyJTkyJUU4JUE2JUIzJUUzJTgxJTlGJUU1JUJFJThDJUUzJTgxJUFCTWljcm9zb2Z0JUUzJTgxJUFFJUU3JUE0JUJFJUU5JTk1JUI3JUUzJTgxJThDJUU0JUJEJTk1JUUzJTgyJTkyJUU4JUE4JTgwJUUzJTgxJUEzJUUzJTgxJUE2JUUzJTgxJTg0JUUzJTgyJThCJUUzJTgxJUFFJUUzJTgxJThCJUU1JUFFJThDJUU1JTg1JUE4JUU3JTkwJTg2JUU4JUE3JUEzJUUzJTgxJTk3JUUzJTgxJTlGJUU0JUJCJUI2JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjNGRkZGRkYmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9MjIxMmNmNzhlYWRmMjk1YzFkNDhkYTgxNmFjMjg0MWE&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBrYWljaGFuX2RvdCZ0eHQtY29sb3I9JTIzRkZGRkZGJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTAyMDNlNTI3YzYyZThmNDRjMzQ0MDNiNTMwMjllMjI3&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=5qCq5byP5Lya56S-44OJ44OD44OI44Ot44Kw&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%23FFFFFF&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=de05929794ee378c51ba7674ff06b93b",
     "fetched_at": "2026-07-01 02:15:19",
     "ja_summary": "・『グランメゾン東京』の物語を通じ、ナデラ氏が語る「AIと人間の境界線」の本質を考察。\n・「一段上の階層で許されないことは、一段下でも許されない」という倫理的な一貫性の重要性を解説。\n・技術革新が進む中で、AIをどう活用し、どのような責任を負うべきかという哲学的な指針を提示。"
-  },
-  {
-    "title": "経験「のうむ」を「濃霧→の有無」に正しく変換--ATOKスマホ版が強化",
-    "link": "https://japan.cnet.com/article/35249654/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "ジャストシステムは6月29日、日本語入力システム「ATOK Passport」で使える文章作成アシスタント「ATOK MiRA（エイトックミラ）」のmacOS、Android、iOS版の提供を始めた。これまでWindows版だけだった生成AIによる文章支援が、Macやスマートフォンでも使えるようになる。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35249654/\"><img src=\"https://japan.cnet.com/storage/2026/06/29/8c76ce64ac7c873dea527e30891f8e52/t/184/138/d/2025-11-26_16.49の画像.jpg\" /></a>",
-    "image": "https://japan.cnet.com/storage/2026/06/29/8c76ce64ac7c873dea527e30891f8e52/t/184/138/d/2025-11-26_16.49の画像.jpg",
-    "fetched_at": "2026-07-01 00:10:43",
-    "ja_summary": "ジャストシステムは、生成AIによる文章支援機能「ATOK MiRA」をMacとスマホ（iOS/Android）にも提供開始しました。\n入力ミスや変換候補の精度向上が図られ、Windows版のみだった環境が全デバイスに拡大されます。\n「ATOK Passport」ユーザーは、PC・モバイル問わず高品質な文章作成サポートを利用可能になります。"
-  },
-  {
-    "title": "睡眠状態に合わせてAIが香りを届ける、最新の快眠支援デバイス「Kimba」とは",
-    "link": "https://japan.cnet.com/article/35249589/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "「Kimba」はAIを活用した睡眠支援デバイスだ。個人に合わせた香りを放出し、より良い睡眠をサポートする。その仕組みを紹介する。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35249589/\"><img src=\"https://japan.cnet.com/storage/2026/06/29/983854c2cbb2b6ff0f39814e616bfd2d/t/184/138/d/kimba-in-use_1280x960.jpg\" /></a>",
-    "image": "https://japan.cnet.com/storage/2026/06/29/983854c2cbb2b6ff0f39814e616bfd2d/t/184/138/d/kimba-in-use_1280x960.jpg",
-    "fetched_at": "2026-07-01 00:10:43",
-    "ja_summary": "AI搭載の睡眠支援デバイス「Kimba」が登場。\n個人の睡眠状態をAIが分析し、最適な香りを放出して良質な睡眠へ導く。\n香りの力で睡眠の質向上をサポートする最新ガジェット。"
-  },
-  {
-    "title": "リコーとライズ・コンサルティング、AI実装支援の新会社設立--業務運用に生成AIを活用",
-    "link": "https://japan.zdnet.com/article/35249604/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "リコーとAI・デジタル領域のコンサルティングを手掛けるライズ・コンサルティング・グループは、企業のAIトランスフォーメーション（AX）推進を支援する合弁会社「リコーAIコンサルティング株式会社」を設立したと発表した。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35249604/\"><img src=\"https://japan.zdnet.com/storage/2025/10/09/60478e248ca20b13795f871513cee7f9/t/184/138/d/251009_ai_as_1280_323829966.jpeg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2025/10/09/60478e248ca20b13795f871513cee7f9/t/184/138/d/251009_ai_as_1280_323829966.jpeg",
-    "fetched_at": "2026-07-01 00:10:51",
-    "ja_summary": "・リコーとライズ・コンサルティングが、企業のAI導入を支援する新会社「リコーAIコンサルティング」を設立。\n・生成AIを活用した業務効率化やAIトランスフォーメーション（AX）の推進を専門的にサポートする。"
-  },
-  {
-    "title": "AI時代でスマホ離れ？ASUSがPCに注力したCOMPUTEX 2026ブース (山根康宏)",
-    "link": "https://www.techno-edge.net/article/2026/06/29/5235.html",
-    "source": "TechnoEdge",
-    "published": "Mon, 29 Jun 2026 12:38:45 +0900",
-    "summary": "ASUSはCOMPUTEXでスマホ展示を撤退し、AIやゲーミングPCに注力。スマホ事業は事実上終了し、将来的な再展開も難しいと見られる。",
-    "image": "https://www.techno-edge.net/imgs/rss/32601.jpg",
-    "fetched_at": "2026-07-01 00:10:52",
-    "ja_summary": "・ASUSがCOMPUTEXでスマホ展示を終了し、AI・ゲーミングPC事業へ完全に軸足を移した。\n・スマホ市場からの撤退は決定的であり、今後の再参入も極めて困難な状況。\n・AI時代を見据え、成長領域であるPC・周辺機器へ経営資源を集中させる方針。"
-  },
-  {
-    "title": "OpenAIのサム・アルトマン、育児のお供はChatGPT「うちの子はなぜまだハイハイしない？」",
-    "link": "https://www.businessinsider.jp/article/2606-tech-ceo-parenting-advice-screen-time-chores-for-kids/",
-    "source": "Business Insider Japan",
-    "published": "Tue, 30 Jun 2026 12:00:00 GMT",
-    "summary": "テック界の超大物たちの「子育て哲学」をいくつか覗いてみましょう。",
-    "image": "https://media.loom-app.com/loom/2026/05/27/5ecaf39e-6f93-4434-aaed-9089a0371ddb/original.jpg?w=1200&amp;h=630",
-    "fetched_at": "2026-06-30 21:28:39",
-    "ja_summary": "・OpenAIのサム・アルトマン氏ら著名テック経営者が、育児にAIを活用する実態が明らかに。\n・アルトマン氏はChatGPTを育児相談相手として使い、子どもの成長不安などを解消。\n・最先端の技術を個人のライフハックにも積極的に取り入れるテック界の日常が浮き彫りに。"
-  },
-  {
-    "title": "米政府、Anthropic「Mythos 5」を一部パートナー企業・組織に公開許可",
-    "link": "https://www.techno-edge.net/article/2026/06/27/5231.html",
-    "source": "TechnoEdge",
-    "published": "Sat, 27 Jun 2026 11:50:02 +0900",
-    "summary": "AIスタートアップのAnthropicは、米政府から同社のAIモデル「Claude Mythos 5」を一部の信頼できるパートナー企業・組織に対して提供再開する許可を受けました。",
-    "image": "https://www.techno-edge.net/imgs/rss/32569.jpg",
-    "fetched_at": "2026-06-30 21:28:49",
-    "ja_summary": "・Anthropic社のAIモデル「Claude Mythos 5」の提供が一部再開。\n・米政府から信頼できるパートナー企業・組織への提供許可を取得。\n・特定の対象者に限定して利用が再開される見通し。"
-  },
-  {
-    "title": "エージェントOS化するClaude CodeをOS機能との類推などで理解していく",
-    "link": "https://zenn.dev/uehaj/articles/claude-code-fork-branch-rewind-btw",
-    "source": "Zenn Trends",
-    "published": "Tue, 30 Jun 2026 01:33:15 GMT",
-    "summary": "!\n本記事の内容は筆者個人の見解であり、所属する会社を代表するものではありません。\n記述は執筆時点のClaude Codeの最新版に基づいています。\n\n\n TL;DR\n\n\nClaude Code はエージェントアプリのための OS と見立てることができます。\n\n\nこの見立てのもとでは、「枝分かれ」系機能（/fork、/branch、/rewind、/btw、サブエージェント、動的ワークフロー）も OS の操作になぞらえて整理できます。サブエージェント起動はプロセス生成（fork や spawn）、/branch、/resume、/rewind は git のブランチや履歴操作、エージェン...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--Q3LohLfh--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588OS%25E5%258C%2596%25E3%2581%2599%25E3%2582%258BClaude%2520Code%25E3%2582%2592OS%25E6%25A9%259F%25E8%2583%25BD%25E3%2581%25A8%25E3%2581%25AE%25E9%25A1%259E%25E6%258E%25A8%25E3%2581%25AA%25E3%2581%25A9%25E3%2581%25A7%25E7%2590%2586%25E8%25A7%25A3%25E3%2581%2597%25E3%2581%25A6%25E3%2581%2584%25E3%2581%258F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Junji%2520Uehara%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2pxNHd0RGFSTVNVZHhYUHk1dmVfYWpnOWlqUkhyOHlwT2hEUUREPXMyNTAtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "fetched_at": "2026-06-30 21:29:17",
-    "ja_summary": "・Claude Codeを「エージェントのためのOS」と見立てることで、複雑な機能を直感的に理解できる。\n・/forkやサブエージェント起動は「プロセス管理」、/branchや/rewindは「状態・履歴管理」として整理可能。\n・OSの操作体系になぞらえることで、エージェント特有の動的なワークフローを構造的に把握できる。"
-  },
-  {
-    "title": "世界史データベースチームの開発手法",
-    "link": "https://zenn.dev/coten/articles/6e1d0b8e14eaf3",
-    "source": "Zenn Trends",
-    "published": "Tue, 30 Jun 2026 00:05:55 GMT",
-    "summary": "はじめに\nこんにちは。株式会社COTENでエンジニアをしているkotonoとmizutakuです。kotonoはプロダクト開発チーム、mizutakuはデータプラットフォーム開発チームに所属しています。本記事は2人の共同執筆で、それぞれが自分のチームの内容を担当しました。\nCOTENの2つの開発チームは、どちらも生成AIを前提とした開発スタイルへと大きく舵を切っている最中です。一方で、チームによって扱うシステムの性質が異なるため、AIの取り入れ方やワークフローには違いも生まれています。本記事では、タスク管理・設計・実装のフローやAIツールの活用方法など、両チームそれぞれの開発手法を紹...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--Nzm8hj24--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E4%25B8%2596%25E7%2595%258C%25E5%258F%25B2%25E3%2583%2587%25E3%2583%25BC%25E3%2582%25BF%25E3%2583%2599%25E3%2583%25BC%25E3%2582%25B9%25E3%2583%2581%25E3%2583%25BC%25E3%2583%25A0%25E3%2581%25AE%25E9%2596%258B%25E7%2599%25BA%25E6%2589%258B%25E6%25B3%2595%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:kotono%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzhhNTA3MmI3YjAuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E6%25A0%25AA%25E5%25BC%258F%25E4%25BC%259A%25E7%25A4%25BECOTEN%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2E4NjAwOTY0Y2IuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "fetched_at": "2026-06-30 21:29:18",
-    "ja_summary": "COTENのプロダクト開発とデータプラットフォーム開発の2チームが、生成AIを前提とした開発体制へ移行中。\nチームの性質に合わせてタスク管理や設計、実装フローにAIを最適化して導入している。\n両チームの実践的なAI活用術やワークフローの違いを具体的に紹介する。"
   }
 ]
