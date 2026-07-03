@@ -1,5 +1,45 @@
 [
   {
+    "title": "「AIがホワイトカラーの半分を代替」と豪語したフォードの誤算　熟練技術者350人をひそかに再雇用した理由",
+    "link": "https://japan.cnet.com/article/35249907/",
+    "source": "CNET Japan",
+    "published": "",
+    "summary": "自動車メーカーのフォードは、AIを過信するとどうなるかを示す典型的な例となった。350人のベテランエンジニアを呼び戻し、品質管理システムに「まともな車」を作る方法を教え込ませている。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35249907/\"><img src=\"https://japan.cnet.com/storage/2026/07/02/c6a1309da36b35781b640ea39bc6f3cf/t/184/138/d/maverick-promo_1280x960.jpg\" /></a>",
+    "image": "https://japan.cnet.com/storage/2026/07/02/c6a1309da36b35781b640ea39bc6f3cf/t/184/138/d/maverick-promo_1280x960.jpg",
+    "fetched_at": "2026-07-03 19:48:56",
+    "ja_summary": "・フォードはAI導入により業務自動化を進めたが、品質低下の課題に直面。\n・AIへの過信を反省し、熟練エンジニア350人を再雇用して品質管理を立て直し中。\n・「AIがホワイトカラーを代替する」という当初の思惑が外れた教訓的事例となった。"
+  },
+  {
+    "title": "Unity AI の概要",
+    "link": "https://note.com/npaka/n/n4434920529b7",
+    "source": "note (npaka)",
+    "published": "Sun, 21 Jun 2026 10:07:15 +0900",
+    "summary": "<p id=\"ebe56a18-9297-4a13-b94e-d1a66a67c59a\" name=\"ebe56a18-9297-4a13-b94e-d1a66a67c59a\">「Unity AI」の概要をまとめました。</p><br /><br /><a href=\"https://note.com/npaka/n/n4434920529b7\">続きをみる</a>",
+    "image": "https://assets.st-note.com/production/uploads/images/287316065/rectangle_large_type_2_116c7efaa415a5e22ba90a423d99d73f.png?width=800",
+    "fetched_at": "2026-07-03 19:49:02",
+    "ja_summary": "・Unity AIは、ゲームやアプリ開発にAI技術を統合し、制作の効率化とコンテンツの高度化を実現するツール群。\n・AIによる自動生成や最適化機能により、開発速度の向上と複雑な表現の簡素化を支援。\n・Unityプラットフォーム内でAIを直接活用することで、より直感的かつ創造的な開発環境を提供する。"
+  },
+  {
+    "title": "Anthropic、Claude Fable 5の明日復帰を予告。Opus 4.8よりちょい下のSonnet 5はすぐに使える（CloseBox）",
+    "link": "https://www.techno-edge.net/article/2026/07/01/5241.html",
+    "source": "TechnoEdge",
+    "published": "Wed, 01 Jul 2026 10:14:16 +0900",
+    "summary": "米商務省の許諾が得られたということで、AnthropicはFable 5およびMythos 5の米国以外への提供を明日開始すると発表しました。",
+    "image": "https://www.techno-edge.net/imgs/rss/32649.png",
+    "fetched_at": "2026-07-03 19:49:04",
+    "ja_summary": "・Anthropicの「Fable 5」「Mythos 5」が、米国以外の地域でも明日から提供開始。\n・商務省の許諾により実現し、順次利用可能になる。\n・「Sonnet 5」は現在即時利用が可能。"
+  },
+  {
+    "title": "攻撃者がいなくてもAIエージェントはインシデントを起こす",
+    "link": "https://speakerdeck.com/nomizone/gong-ji-zhe-gainakutemoaiezientohainsidentowoqi-kosu",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-07-03T04:28:45-04:00",
+    "summary": "Hardening Designers Conference 2026 Day2 OpenMicの資料です\nZANSINを使ってAIエージェントがやらかしそうなことを実験しました。\n\nHardening Designers Conference 2026\nhttps://hardening.doorkeeper.jp/events/196978\n\nZANSIN\nhttps://github.com/ZANSIN-sec/ZANSIN",
+    "image": "https://files.speakerdeck.com/presentations/1bfec5c39a0842449c3988ecca4a1ea5/preview_slide_0.jpg?39886116",
+    "fetched_at": "2026-07-03 19:49:24",
+    "ja_summary": "AIエージェントは外部攻撃者がいなくても、自律的な動作によってシステム障害やセキュリティ上の問題を引き起こす可能性がある。\nOSSツール「ZANSIN」を用いた実証実験で、AIが予期せぬ挙動を起こすリスクが示された。\nAI活用時は、悪意ある攻撃だけでなく、AI自身の誤作動に対する防御策（AIガバナンス）の策定が不可欠である。"
+  },
+  {
     "title": "次のキオクシアはどの銘柄？ 大型株でも\"テンバガー\"を狙える時代にNISAで買いたい日本株｢徹底分析｣ | ビジネス | 東洋経済オンライン",
     "link": "https://toyokeizai.net/articles/-/950060?utm_source=rss&utm_medium=http&utm_campaign=link_back",
     "source": "東洋経済オンライン",
@@ -958,45 +998,5 @@
     "image": "https://files.speakerdeck.com/presentations/1427cb0f76b34d31bdcea515f4dfcda7/preview_slide_0.jpg?39875673",
     "fetched_at": "2026-07-02 19:31:37",
     "ja_summary": "・AIによるPull Requestの自動レビューをどこまで実務に導入すべきかを議論する勉強会の資料。\n・開発プロセスの効率化を目指し、AIに任せるべき領域と人間が担うべき役割の境界線を考察。\n・AI時代における最適なコードレビュー体制と、開発現場での具体的な活用方法を提案。"
-  },
-  {
-    "title": "正直に言う。お前のClaude Codeの使い方は間違っている",
-    "link": "https://qiita.com/tehito/items/356e5f1dba112a075be1",
-    "source": "Qiita (Popular)",
-    "published": "2026-06-25T22:43:35+09:00",
-    "summary": "「Claude Code、思ったより速くならないな」と感じているなら、原因はモデルでもプランでもない。**お前の使い方だ。**\n\nきつい言い方をして悪い。だが3ヶ月、毎日Claude Codeと殴り合いながらExpo + Supabase + Swiftネイティブの通話アプリを個人開発して、確信した。\n\n> 速くならない人間は、全員同じ7つのミスをしている。\n\nこの記事はポエムでも宣伝でもない。*",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYzODAxMzM3JTJGODg1YjIwODhlY2FkOTc4NDllMThkNjBhMTc4NDkxNjgyMTUxZjgzZSUyRnhfbGFyZ2UucG5nJTNGMTc4MTAwMjkyMT9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9YWI1ZTk2M2U2NmNlMzVjYzM1M2NkYjYxZDBlZDRmZTU%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Df248deb266070c4524731a5e3fb4e24c?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUU2JUFEJUEzJUU3JTlCJUI0JUUzJTgxJUFCJUU4JUE4JTgwJUUzJTgxJTg2JUUzJTgwJTgyJUUzJTgxJThBJUU1JTg5JThEJUUzJTgxJUFFQ2xhdWRlJTIwQ29kZSVFMyU4MSVBRSVFNCVCRCVCRiVFMyU4MSU4NCVFNiU5NiVCOSVFMyU4MSVBRiVFOSU5NiU5MyVFOSU4MSU5NSVFMyU4MSVBMyVFMyU4MSVBNiVFMyU4MSU4NCVFMyU4MiU4QiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTEwMDRjODc5ODYxMGJmODc2ZTRjZGUzZjZhNWJjNzk1&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDB0ZWhpdG8mdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz0yM2JlYWYwMTYwMzQwY2VlMDZiOTlmZjlhMTBjZDVjMg&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=35ce81ed6fbfbdc4773a37b80ca222a9",
-    "fetched_at": "2026-07-02 19:31:38",
-    "ja_summary": "Claude Codeで開発が速くならないのは、モデルやプランのせいではなく「7つの使い方のミス」が原因である。\n筆者が3ヶ月間の実戦で培った、生産性を最大化するための正しい運用手法を解説する。"
-  },
-  {
-    "title": "商業書籍の出版をCodexで爆速化するノウハウ",
-    "link": "https://qiita.com/minorun365/items/9059f26629e0976bc0e2",
-    "source": "Qiita (Popular)",
-    "published": "2026-06-21T20:55:41+09:00",
-    "summary": "私はこれまで、ありがたいことに複数の商業技術書を出版させてもらう機会に恵まれました。\n長年ライターをやっていたりするわけではなく、エンジニア業務の傍ら、半分趣味で2年ほど執筆を行なっています。\n\nhttps://www.amazon.co.jp/stores/author/B0D4VSWS9P\n\n元々Qiitaを書き慣れていて筆が速いというのもありますが、特にここ半年ほどは、Claude Code",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Ftech-festa-ogp-background-4b5015b2c518c7e6b9062a7c9f5f5e90.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYxNjMzODU2JTJGYzIyNmJjMzRhYzZjNDVhMjFmNWU1MTJkMWM3MmE2ZjA5NzQ5NDU3OCUyRnhfbGFyZ2UucG5nJTNGMTY5OTk1NDk3Nj9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9MTlhZDI4ODRkNmQ2MzEyNjMxZDJkNTBjOTZmOTA5ZjU%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYxZTIwZGI1ZTdlNDA3ZWFlN2I5NzBlYzk5OTg4MGRjOGMzY2MwZjY0JTJGb3JpZ2luYWwuanBnJTNGMTY2NzI3NDk2Mz9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz04OTI0NDcwMDk1MDMyZjUxYmZlNzE3ZjVkOGUzYmE3ZA%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3Dbb59006175a60e1b630ed499046d0424?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUU1JTk1JTg2JUU2JUE1JUFEJUU2JTlCJUI4JUU3JUIxJThEJUUzJTgxJUFFJUU1JTg3JUJBJUU3JTg5JTg4JUUzJTgyJTkyQ29kZXglRTMlODElQTclRTclODglODYlRTklODAlOUYlRTUlOEMlOTYlRTMlODElOTklRTMlODIlOEIlRTMlODMlOEUlRTMlODIlQTYlRTMlODMlOEYlRTMlODIlQTYmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyM0ZGRkZGRiZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz0zYmMwYWRjYTg3YmRkYzljOWM2NDM4YmE4YmM1MTkzZA&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBtaW5vcnVuMzY1JnR4dC1jb2xvcj0lMjNGRkZGRkYmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9NDNhZjg0MGViODE0MzBhMmQyODM2OGUyY2Y0NjIwMTY&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=S0RESeOCouOCuOODo-OCpOODq-mWi-eZuuOCu-ODs-OCv-ODvOagquW8j-S8muekvg&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%23FFFFFF&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=5a2d659a75805090f9b6b2d211df861a",
-    "fetched_at": "2026-07-02 19:31:40",
-    "ja_summary": "エンジニアが「Claude Code」を活用し、商業技術書の執筆スピードを劇的に向上させるノウハウを公開。\nQiitaで培った執筆習慣にAIツールを組み合わせることで、業務の傍らでも効率的な出版を実現する手法を紹介している。"
-  },
-  {
-    "title": "RAGを本当に使うために、処理段階ごとに優秀手法を整理してみた",
-    "link": "https://qiita.com/engchina/items/3060140b10a9a35021f4",
-    "source": "Qiita (Popular)",
-    "published": "2026-06-20T20:27:41+09:00",
-    "summary": "\n## 初めに\n\n最近、RAG の実装例はかなり増えました。\n\nDify、RAGFlow、LlamaIndex、LangChain、GraphRAG、LightRAG、Docling、Marker、Unstructured、RAG-Anything、ColPali、PageIndex、Ragas、AutoRAG、DSPy など、優秀な OSS / フレームワーク / 研究実装がたくさんあります。\n",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYzOTMyNzgxJTJGOTA5ODgyYWQ5YTcwNWVmZjI2ZmM5NDBmMzg0MzQwMWU3OWQyNjY4YyUyRnhfbGFyZ2UucG5nJTNGMTc2OTAzODc0OD9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NjlhZjBhYTliMGQ4ZGI2ODU0N2Q1MmJiNzIxZjNhOWQ%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYzMDk1NWZhN2YwMzlhODVjNDQ5ZmY0ODBhMmE3ZGJjNWQ5ZmY1YWIwJTJGb3JpZ2luYWwuanBnJTNGMTQ1MjE0NTY4Mz9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz0xOTg4ZGUxMGZjNzNiMDdiMDBhNTQzZjdkYWZjODJmMg%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3Db3daa221c0818ddefc40c67fb4514088?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9UkFHJUUzJTgyJTkyJUU2JTlDJUFDJUU1JUJEJTkzJUUzJTgxJUFCJUU0JUJEJUJGJUUzJTgxJTg2JUUzJTgxJTlGJUUzJTgyJTgxJUUzJTgxJUFCJUUzJTgwJTgxJUU1JTg3JUE2JUU3JTkwJTg2JUU2JUFFJUI1JUU5JTlBJThFJUUzJTgxJTk0JUUzJTgxJUE4JUUzJTgxJUFCJUU1JTg0JUFBJUU3JUE3JTgwJUU2JTg5JThCJUU2JUIzJTk1JUUzJTgyJTkyJUU2JTk1JUI0JUU3JTkwJTg2JUUzJTgxJTk3JUUzJTgxJUE2JUUzJTgxJUJGJUUzJTgxJTlGJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9Zjg2OTljNzg0NzA0MDM0YTU3MGIzOTM1YmY5YzNlMTY&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBlbmdjaGluYSZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWJjNzFmYTUzNmUwM2I1OWMzMmYzZjlmMDM3ZTI5MTcz&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=5pel5pys44Kq44Op44Kv44Or5qCq5byP5Lya56S-&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=86398ef9914c0fccc8c84ff5e1992b6e",
-    "fetched_at": "2026-07-02 19:31:40",
-    "ja_summary": "RAGの実装には多種多様なフレームワークや研究手法が存在する。\n本記事は、それらの手法を処理段階ごとに整理し、実用的な選定基準を提示している。\n開発の効率化と精度の向上を目指すエンジニアに向けた、RAG活用ガイドである。"
-  },
-  {
-    "title": "Ollamaで月額0円のローカルLLM環境を構築してみた",
-    "link": "https://qiita.com/Hinata-H/items/ff98d92ca5eafee31226",
-    "source": "Qiita (Popular)",
-    "published": "2026-06-20T10:21:29+09:00",
-    "summary": "\n## はじめに\n\nChatGPTは便利ですが、有料版は月額3000円必要です。また、無料版でも機能制限があります。加えて、ローカル環境で動かしたい、プライベートなデータを扱いたい、インターネット接続がない環境で使いたい、という場面もあります。\n\nこうした場面で活躍するのが「ローカルLLM」です。自分のパソコンの中だけでAIモデルを動かす方法があります。その中でも、**Ollamaはセットアップが",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0NDUxMjczJTJGZmY5MzQ0MjU4YTNjODRhOTBjOWRiNDc0YjlhM2I3MmZhMDNmNWUxMSUyRmxhcmdlLnBuZyUzRjE3ODE4NjUxMjg_aXhsaWI9cmItNC4xLjEmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPTRjYzY3Y2IyMzJmMGZhNTI1MzQzZmZkMzJjZjZlZDUz%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Dd64b9b25066d7d57f4c841301b433a22?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9T2xsYW1hJUUzJTgxJUE3JUU2JTlDJTg4JUU5JUExJThEMCVFNSU4NiU4NiVFMyU4MSVBRSVFMyU4MyVBRCVFMyU4MyVCQyVFMyU4MiVBQiVFMyU4MyVBQkxMTSVFNyU5MiVCMCVFNSVBMiU4MyVFMyU4MiU5MiVFNiVBNyU4QiVFNyVBRiU4OSVFMyU4MSU5NyVFMyU4MSVBNiVFMyU4MSVCRiVFMyU4MSU5RiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTkzMzAwMTc2NTdkZmQ3NzcxYTQyYTFlZDQ1YThkZDFi&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBIaW5hdGEtSCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWUxNGQ0NzgwNjE0YmNhYjZjNTU5ZGFiYmZjOTMzOWZi&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=7ed15a0bad63c3d12f3729c9f51acabc",
-    "fetched_at": "2026-07-02 19:31:41",
-    "ja_summary": "・「Ollama」を使えば、PC内で完結するローカルLLM環境を無料で構築可能。\n・外部接続不要かつプライベートなデータも扱えるため、機密情報の利用に最適。\n・ChatGPTの料金や制限に縛られず、自由なAI環境を構築できる。"
   }
 ]
