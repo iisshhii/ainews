@@ -1,5 +1,35 @@
 [
   {
+    "title": "｢知を誰が管理するのか｣ AI時代における切実な問い　ウンベルト･エーコ『薔薇の名前』を読む（上） | ライフ | 東洋経済オンライン",
+    "link": "https://toyokeizai.net/articles/-/950087?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+    "source": "東洋経済オンライン",
+    "published": "Sat, 04 Jul 2026 12:00:00 +0900",
+    "summary": "『薔薇の名前』を衣川理花氏が読み解きます（上編）。<br />中世イタリアの修道院を舞台とする知的ミステリー『薔薇の名前』は､世界的な記号学者ウンベルト･エーコによる空前絶後のアカデミック小説でもあります。…",
+    "image": "https://tk.ismcdn.jp/mwimgs/4/2/1200w/img_427c42e808de9257169cd0dc96259fb8209890.jpg?nextgen=false",
+    "fetched_at": "2026-07-04 13:08:42",
+    "ja_summary": "・ウンベルト・エーコの小説『薔薇の名前』を通じ、AI時代の「知識の管理と権力」を考察する。\n・中世の修道院を舞台にした知的ミステリーから、情報が独占されるリスクを読み解く。\n・知の公共性が問われる現代において、情報のあり方を再考する重要性を提起している。"
+  },
+  {
+    "title": "Generative UIとそれを実現するOpenUIのイメージを掴む！",
+    "link": "https://zenn.dev/peishim/articles/37ff4d894f8fbc",
+    "source": "Zenn Trends",
+    "published": "Fri, 03 Jul 2026 11:30:29 GMT",
+    "summary": "はじめに\nGenerative UIって何なのか理解しようと思うと、いろんな新しい単語があったりして難しそうに感じると思います。自分も難しいと感じた一人なので、Generative UIを実現するためのフレームワークの1つであるOpenUIを試しつつ、Generative UIのイメージを掴んでもらえるような記事にしていきたいと思います。OpenUI自体はクイックスタートなどで簡単に試すことができ、面白いと感じる部分があったので、そのあたりも共有していこうと思います。\n\n まず、Generative UIがないAIからの回答表示\nGenerative UIがない場合、マークダウン形式...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--bhhHHEV0--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Generative%2520UI%25E3%2581%25A8%25E3%2581%259D%25E3%2582%258C%25E3%2582%2592%25E5%25AE%259F%25E7%258F%25BE%25E3%2581%2599%25E3%2582%258BOpenUI%25E3%2581%25AE%25E3%2582%25A4%25E3%2583%25A1%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%2592%25E6%258E%25B4%25E3%2582%2580%25EF%25BC%2581%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:peishim%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzdlNmIxNjYxMDkuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-07-04 13:09:32",
+    "ja_summary": "・AIがテキストやマークダウンで回答する従来のUIに対し、対話に応じて画面構成を動的に生成するのが「Generative UI」。\n・「OpenUI」を活用すれば、この次世代UIの構築プロセスを誰でも容易に体験可能。\n・AIがユーザーの要求に合わせてリアルタイムで画面UIを作成する、新しい開発手法のイメージを解説する記事。"
+  },
+  {
+    "title": "人間とAIエージェントの協調を実務に組み込む",
+    "link": "https://speakerdeck.com/nagatsu/ren-jian-toaiezientonoxie-diao-woshi-wu-nizu-miip-mu",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-07-03T22:11:07-04:00",
+    "summary": "表紙: 人間とAIエージェントの協調を実務に組み込む\n従来のHITLにおける課題: 手動管理による一覧性と連携のフリクション\n解決のアプローチ: ドキュメント自体を「意思決定を同期するインターフェース」へ転換\n解決策①：解決ゲート (Resolution-Gated Updates): 未解決の確認スレッドによる強引な更新の防止\n解決策②：オート・ラウンドトリップ (Auto-Roundtrip): ローカル通信を利用した「コピペ不要」な自動送信ループ\n解決策③：構造化レイアウト: 選択肢を明確にするデシジョンマトリクスと『Plan Preview』\n結論: すべてのCSSや画像を埋め込んだ「自己完結HTML（Publish & Download）」による成果物の資産化",
+    "image": "https://files.speakerdeck.com/presentations/afeb34eaede04b07a1928aa33c4d64df/preview_slide_0.jpg?39892729",
+    "fetched_at": "2026-07-04 13:09:34",
+    "ja_summary": "・AIとの共同作業における意思決定の摩擦を、ドキュメントを同期インターフェース化することで解消する。\n・未解決事項の確認制限、自動連携、選択肢の可視化により、AIと人間の円滑な合意形成を実現する。\n・成果物はすべて自己完結型のHTMLとして資産化し、管理・再利用の効率を最大化する。"
+  },
+  {
     "title": "AI時代における最適なQA組織の作り方",
     "link": "https://speakerdeck.com/ymty/aishi-dai-niokeruzui-shi-naqazu-zhi-nozuo-rifang",
     "source": "Speaker Deck (Tech)",
@@ -968,35 +998,5 @@
     "image": "https://www.watch.impress.co.jp/img/ipw/list/2121/643/01.jpg",
     "fetched_at": "2026-07-03 03:22:49",
     "ja_summary": "・AIエージェント「Gemini Spark」がmacOSアプリに対応。\n・連携可能な外部アプリの種類を拡大し、利便性を向上。\n・リアルタイムでのトピック追跡機能を強化し、本日より順次提供開始。"
-  },
-  {
-    "title": "AIでおしゃれな画面を作るためのデザインシステムを学ぼう！",
-    "link": "https://qiita.com/yusuke_ando_vj/items/dd17a285217a15841a3a",
-    "source": "Qiita (Popular)",
-    "published": "2026-06-24T20:51:08+09:00",
-    "summary": "Webサイトのデザインを、AIやデザイナーに「おしゃれにしてください」「いい感じにしてください」だけで依頼すると、完成イメージが大きくズレます。\n\nなぜなら、Webデザインには「どんな情報を・どの順番で・どんなレイアウトで・どんな雰囲気で・どんな色で・どんな文字で・どんな部品で・スマホではどう」という**複数の観点**があるからです。\n\nこの記事では、AIでおしゃれな画面を作るために知っておきたい",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmxoMy5nb29nbGV1c2VyY29udGVudC5jb20lMkZhJTJGQUNnOG9jSlEySi00V2JmcGtIRUJQd0psbWJiSDl2ejVqMjRBLTliQ04tWUR0WWNueC1kMW1BJTNEczk2LWM_aXhsaWI9cmItNC4xLjEmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPTVkNGI5NWFlMzA1Njk3NzA3ZTZkMzUyZDYwZTU5ZTQ5%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkY0YjhiYzU1OGU0ZTliOTk1Nzc5NDIxMGUxY2NmY2MzY2RkNmI3ZGRiJTJGb3JpZ2luYWwuanBnJTNGMTY3Njc5NjQyMj9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz0xNWI1ZjczNjlmYzk2MmFmNmE3MTcxMmUxMGRmYWFhOQ%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D3bac63bdb957e1de0b1095ea971d5eb3?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9QUklRTMlODElQTclRTMlODElOEElRTMlODElOTclRTMlODIlODMlRTMlODIlOEMlRTMlODElQUElRTclOTQlQkIlRTklOUQlQTIlRTMlODIlOTIlRTQlQkQlOUMlRTMlODIlOEIlRTMlODElOUYlRTMlODIlODElRTMlODElQUUlRTMlODMlODclRTMlODIlQjYlRTMlODIlQTQlRTMlODMlQjMlRTMlODIlQjclRTMlODIlQjklRTMlODMlODYlRTMlODMlQTAlRTMlODIlOTIlRTUlQUQlQTYlRTMlODElQkMlRTMlODElODYlRUYlQkMlODEmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1lMDM1MGQyMmM5MTA2MTViY2FlOWU1YjgxM2UwYTMzMA&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDB5dXN1a2VfYW5kb192aiZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWYzZjU1MzRjOWUyNDBmOTcwZDQyZDMyMWM2NmI2ZGI5&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=5qCq5byP5Lya56S-VklTSU9OQVJZIEpBUEFO&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=8fd438a9bb203f8b9d432ac0f8dc5a72",
-    "fetched_at": "2026-07-03 03:23:23",
-    "ja_summary": "AIに「お任せ」でデザインを依頼するとイメージがズレるのは、考慮すべき視点が多すぎるためです。\n一貫した「デザインシステム」の知識を持つことで、AIへの指示が明確になり、理想のデザインを実現できます。\n高品質なアウトプットを引き出すには、レイアウトや色、構成要素などの具体的要件を整理して伝えることが不可欠です。"
-  },
-  {
-    "title": "死にゆくSaaSを取り込め　M＆Aで転生に活路 (AIに淘汰されるな　NEC、セールスフォース、SHIFTの大転換)",
-    "link": "https://business.nikkei.com/atcl/NBD/19/special/02566/",
-    "source": "日経ビジネス 最新",
-    "published": "",
-    "summary": "「SaaSの死」はチャンスでもある。企業価値が下がれば、M＆A（合併・買収）を仕掛けやすくなるからだ。東証グロース市場に上場するSaaS企業トヨクモは、これまでの戦略から一転、同業他社を買収する戦略に転換した。",
-    "image": "https://business.nikkei.com/atcl/NBD/19/special/02566/fb.jpg",
-    "fetched_at": "2026-07-03 01:48:00",
-    "ja_summary": "・SaaSの市場環境変化に伴う企業価値の低下を、買収の好機と捉える動きが加速。\n・成長戦略として、自社開発のみならず同業他社を買収するM&A戦略への転換が進む。\n・NECやセールスフォース等も注視する中、市場の淘汰を成長の足掛かりにする転生戦略が浮上。"
-  },
-  {
-    "title": "AIの普及で採用の大幅減が始まった　台頭する「SE不要論」　人材戦略の進化促す (AIに淘汰されるな　NEC、セールスフォース、SHIFTの大転換)",
-    "link": "https://business.nikkei.com/atcl/NBD/19/special/02565/",
-    "source": "日経ビジネス 最新",
-    "published": "",
-    "summary": "AIはコーディングや不具合の検知まで担うようになってきた。大量採用を強みとしてきたSHIFTは募集を減らし、求めるスキルも変えた。存在感を高める職種も生まれる中、人材戦略の見直しは待ったなしだ。",
-    "image": "https://business.nikkei.com/atcl/NBD/19/special/02565/fb.jpg",
-    "fetched_at": "2026-07-03 01:48:01",
-    "ja_summary": "・AIがコーディング等を担うことで、IT業界の大量採用モデルが転換期を迎えた。\n・SHIFTなどの主要企業は採用を絞り、求めるスキルセットを大幅に見直している。\n・AIによる淘汰を回避するため、エンジニアには戦略的な人材転換が急務である。"
   }
 ]
