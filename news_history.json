@@ -1,5 +1,75 @@
 [
   {
+    "title": "死にゆくSaaSを取り込め　M＆Aで転生に活路 (AIに淘汰されるな　NEC、セールスフォース、SHIFTの大転換)",
+    "link": "https://business.nikkei.com/atcl/NBD/19/special/02566/",
+    "source": "日経ビジネス 最新",
+    "published": "",
+    "summary": "「SaaSの死」はチャンスでもある。企業価値が下がれば、M＆A（合併・買収）を仕掛けやすくなるからだ。東証グロース市場に上場するSaaS企業トヨクモは、これまでの戦略から一転、同業他社を買収する戦略に転換した。",
+    "image": "https://business.nikkei.com/atcl/NBD/19/special/02566/fb.jpg",
+    "fetched_at": "2026-07-04 16:12:50",
+    "ja_summary": "・「SaaSの死」を逆手に取り、価値の下がった企業をM&Aで買収する戦略が活発化。\n・トヨクモをはじめ、苦境のSaaSを取り込むことで新たな成長の活路を見出す企業が増加。\n・市場淘汰が進む中、買収による事業再編がSaaS企業の生存戦略の鍵となっている。"
+  },
+  {
+    "title": "AIの普及で採用の大幅減が始まった　台頭する「SE不要論」　人材戦略の進化促す (AIに淘汰されるな　NEC、セールスフォース、SHIFTの大転換)",
+    "link": "https://business.nikkei.com/atcl/NBD/19/special/02565/",
+    "source": "日経ビジネス 最新",
+    "published": "",
+    "summary": "AIはコーディングや不具合の検知まで担うようになってきた。大量採用を強みとしてきたSHIFTは募集を減らし、求めるスキルも変えた。存在感を高める職種も生まれる中、人材戦略の見直しは待ったなしだ。",
+    "image": "https://business.nikkei.com/atcl/NBD/19/special/02565/fb.jpg",
+    "fetched_at": "2026-07-04 16:12:51",
+    "ja_summary": "・AIがコーディングや検知を自動化し、IT業界で「SE不要論」が台頭。\n・大量採用モデルの企業が採用を抑制し、求められるスキルも激変。\n・AI時代に適応するため、企業は従来の採用・人材戦略の抜本的な見直しを迫られている。"
+  },
+  {
+    "title": "C++の謎めいたHello WorldをPythonで再実装して理解を深めよう",
+    "link": "https://zenn.dev/sirasagi62/articles/59db634940ba80",
+    "source": "Zenn Trends",
+    "published": "Fri, 03 Jul 2026 12:26:37 GMT",
+    "summary": "C++という言語があります。現在普及しているオブジェクト指向を世界的に普及させた最初期の言語[1]でWindows,Chrome,Unreal Engineなどの様々なプロジェクトで利用されています。\nそんなC++ですが、現在ではHello Worldのスタイルが独特で、しばしば初学者を混乱させます。\n#include &lt;iostream&gt;\n\nint main() {\n    // Hello, World!と表示\n    std::cout &lt;&lt; \"Hello, World!\" &lt;&lt; std::endl;\n    \n    // 数字も表示できちゃう...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--M1UglUjZ--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:C%252B%252B%25E3%2581%25AE%25E8%25AC%258E%25E3%2582%2581%25E3%2581%2584%25E3%2581%259FHello%2520World%25E3%2582%2592Python%25E3%2581%25A7%25E5%2586%258D%25E5%25AE%259F%25E8%25A3%2585%25E3%2581%2597%25E3%2581%25A6%25E7%2590%2586%25E8%25A7%25A3%25E3%2582%2592%25E6%25B7%25B1%25E3%2582%2581%25E3%2582%2588%25E3%2581%2586%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Sirasagi62%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2QyYzk2MDQwZjMuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-07-04 16:13:35",
+    "ja_summary": "C++の「Hello World」は独特で初学者の壁になりがちです。\nPythonで同じ処理を再実装することで、複雑なC++の仕組みを分かりやすく解説します。\n言語の垣根を超えてプログラミングの基礎的な理解を深める内容です。"
+  },
+  {
+    "title": ".env に API キーを書きたくないので 軽いCLI を作った",
+    "link": "https://zenn.dev/trknhr/articles/42c20e11812217",
+    "source": "Zenn Trends",
+    "published": "Fri, 03 Jul 2026 08:25:45 GMT",
+    "summary": "ローカル開発では .env に API キーを置きがちです。\nOPENAI_API_KEY=sk-...\nDATABASE_URL=postgres://...\nこれは昔からある普通の運用ですが、AI agent をローカルで動かすことが増えてから少し気になるようになりました。\nAI agent にリポジトリを触らせるということは、かなり雑に言うと「別の人に自分の作業ディレクトリを触ってもらう」ことに近いです。もちろん agent や実行環境ごとに安全性は違いますが、少なくとも .env にそのまま secret が入っていると、誤って読ませたり、ログに出したり、スクリーンショットやコピ...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--oHJhrzNq--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:.env%2520%25E3%2581%25AB%2520API%2520%25E3%2582%25AD%25E3%2583%25BC%25E3%2582%2592%25E6%259B%25B8%25E3%2581%258D%25E3%2581%259F%25E3%2581%258F%25E3%2581%25AA%25E3%2581%2584%25E3%2581%25AE%25E3%2581%25A7%2520%25E8%25BB%25BD%25E3%2581%2584CLI%2520%25E3%2582%2592%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:trknhr%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzQwODcwYzQxZjkuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-07-04 16:13:36",
+    "ja_summary": "・ローカル開発で`.env`に機密情報を直書きするリスクが増大\n・AIエージェントによる誤読や流出を防ぐための軽量CLIを開発\n・APIキーを安全に管理し、意図しない外部露出を防止する運用へ移行"
+  },
+  {
+    "title": "とある部長のObsidian",
+    "link": "https://zenn.dev/canly/articles/173479ac3e9824",
+    "source": "Zenn Trends",
+    "published": "Fri, 03 Jul 2026 06:28:32 GMT",
+    "summary": "まえがき\nカンリーのプロダクトマネジメント部の部長をしている越智（X：@ochi__san）です。\nAIが日常の当たり前になってから久しいですが、私ももれなく日々の業務にどうAIを取り込み、いかに生産性高くふるまい続けられるかを考えています。今回は実務というよりはその周辺にあるタスクやふりかえりに焦点をあて、どのようにAIを使っているかをご紹介します。\n\n はじめに\n弊社CTO小出が重い腰を上げX（@koid_thinks）を開始し、さらに個人ブログを立ち上げました。なんということでしょう。\n記念すべき1回目の投稿でObsidianに触れていたため、私もObsidian × Clau...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--jPFVDoeA--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2581%25A8%25E3%2581%2582%25E3%2582%258B%25E9%2583%25A8%25E9%2595%25B7%25E3%2581%25AEObsidian%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:ochisan%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2EwYjI3NWVjYTkuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2582%25AB%25E3%2583%25B3%25E3%2583%25AA%25E3%2583%25BC%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzc5NTRlMWRhOWYuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-07-04 16:13:36",
+    "ja_summary": "・カンリーのPM部長が、AIを業務周辺のタスク管理や振り返りに活用する方法を公開。\n・ObsidianとAI（Claude等）を組み合わせた、生産性を高めるためのツール利用術を紹介。\n・CTOの個人ブログ開設をきっかけに、自らの効率的なタスク管理手法を共有する内容。"
+  },
+  {
+    "title": "Text-to-SQLをAgentCoreで実現し、生成されるSQLの精度を定量的に評価する",
+    "link": "https://speakerdeck.com/yakumo/text-to-sqlwoagentcoredeshi-xian-si-sheng-cheng-sarerusqlnojing-du-woding-liang-de-niping-jia-suru",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-07-04T00:11:52-04:00",
+    "summary": "JAWS ミート 2026\nhttps://jaws-ug-tokaido.connpass.com/event/392910/",
+    "image": "https://files.speakerdeck.com/presentations/5e3bfe5da2f342658e8a52dd3686c96f/preview_slide_0.jpg?39892897",
+    "fetched_at": "2026-07-04 16:13:37",
+    "ja_summary": "・自然言語をSQLに変換する「Text-to-SQL」技術をAgentCoreで実装する手法を解説。\n・生成されたSQLの正確性をどのように定量評価すべきか、具体的なアプローチを提示。\n・JAWS-UG東海にて、LLMを活用したデータ分析基盤の構築や精度向上の知見を共有。"
+  },
+  {
+    "title": "AIでおしゃれな画面を作るためのデザインシステムを学ぼう！",
+    "link": "https://qiita.com/yusuke_ando_vj/items/dd17a285217a15841a3a",
+    "source": "Qiita (Popular)",
+    "published": "2026-06-24T20:51:08+09:00",
+    "summary": "Webサイトのデザインを、AIやデザイナーに「おしゃれにしてください」「いい感じにしてください」だけで依頼すると、完成イメージが大きくズレます。\n\nなぜなら、Webデザインには「どんな情報を・どの順番で・どんなレイアウトで・どんな雰囲気で・どんな色で・どんな文字で・どんな部品で・スマホではどう」という**複数の観点**があるからです。\n\nこの記事では、AIでおしゃれな画面を作るために知っておきたい",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmxoMy5nb29nbGV1c2VyY29udGVudC5jb20lMkZhJTJGQUNnOG9jSlEySi00V2JmcGtIRUJQd0psbWJiSDl2ejVqMjRBLTliQ04tWUR0WWNueC1kMW1BJTNEczk2LWM_aXhsaWI9cmItNC4xLjEmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPTVkNGI5NWFlMzA1Njk3NzA3ZTZkMzUyZDYwZTU5ZTQ5%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkY0YjhiYzU1OGU0ZTliOTk1Nzc5NDIxMGUxY2NmY2MzY2RkNmI3ZGRiJTJGb3JpZ2luYWwuanBnJTNGMTY3Njc5NjQyMj9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz0xNWI1ZjczNjlmYzk2MmFmNmE3MTcxMmUxMGRmYWFhOQ%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D3bac63bdb957e1de0b1095ea971d5eb3?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9QUklRTMlODElQTclRTMlODElOEElRTMlODElOTclRTMlODIlODMlRTMlODIlOEMlRTMlODElQUElRTclOTQlQkIlRTklOUQlQTIlRTMlODIlOTIlRTQlQkQlOUMlRTMlODIlOEIlRTMlODElOUYlRTMlODIlODElRTMlODElQUUlRTMlODMlODclRTMlODIlQjYlRTMlODIlQTQlRTMlODMlQjMlRTMlODIlQjclRTMlODIlQjklRTMlODMlODYlRTMlODMlQTAlRTMlODIlOTIlRTUlQUQlQTYlRTMlODElQkMlRTMlODElODYlRUYlQkMlODEmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1lMDM1MGQyMmM5MTA2MTViY2FlOWU1YjgxM2UwYTMzMA&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDB5dXN1a2VfYW5kb192aiZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWYzZjU1MzRjOWUyNDBmOTcwZDQyZDMyMWM2NmI2ZGI5&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=5qCq5byP5Lya56S-VklTSU9OQVJZIEpBUEFO&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=8fd438a9bb203f8b9d432ac0f8dc5a72",
+    "fetched_at": "2026-07-04 16:13:41",
+    "ja_summary": "・AIやデザイナーへの曖昧な指示は認識のズレを生む原因となる。\n・Webデザインには情報構成、レイアウト、配色など複数の要素が不可欠。\n・高品質な成果物を得るには、デザインの「設計ルール（システム）」を理解し、言語化して伝える必要がある。"
+  },
+  {
     "title": "｢知を誰が管理するのか｣ AI時代における切実な問い　ウンベルト･エーコ『薔薇の名前』を読む（上） | ライフ | 東洋経済オンライン",
     "link": "https://toyokeizai.net/articles/-/950087?utm_source=rss&utm_medium=http&utm_campaign=link_back",
     "source": "東洋経済オンライン",
@@ -928,75 +998,5 @@
     "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03646/061900006/topm.jpg?20220512",
     "fetched_at": "2026-07-03 06:09:30",
     "ja_summary": "・AI市場の変化は日本企業にとって新たな事業機会。\n・「ソブリンAI」実現のため、推論基盤の国産化が不可欠。\n・技術と企業の連携により、成長の好循環を生み出す道筋を議論する。"
-  },
-  {
-    "title": "AIを相談相手にして判断材料を増やそう、うまい尋ね方が新たな業務スキルに",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/02737/062900061/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "生成AI（人工知能）の価値は単に作業を任せるだけにあるわけではない。仕事の相談相手として使うことで、考えを整理し判断の材料を増やすこともできる。状況に応じて生成AIにうまく尋ねることが新しい業務スキルになるだろう。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/02737/062900061/topm.jpg?20220512",
-    "fetched_at": "2026-07-03 06:09:30",
-    "ja_summary": "生成AIは単なる作業代行だけでなく、相談相手として活用することで思考整理や判断の質を高められる。\n状況に応じた「問いかけの技術」を磨くことが、現代のビジネスパーソンにとって必須のスキルとなる。"
-  },
-  {
-    "title": "コーディングエージェントは不要、事業部門の社員がAI活用でアプリ開発者に",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00692/070200192/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "生成AI（人工知能）の活用に熱心な日本のユーザー企業で、IT部門ではない事業部門の従業員が、業務に必要なアプリケーションを自らつくり始めている。ただし「Claude Code」に代表されるコーディングエージェントは、利用を禁止している。これがセキュリティー面を考慮した「アプリ開発民主化」の現実解になりそうだ。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/00692/070200192/topm.jpg?20220512",
-    "fetched_at": "2026-07-03 06:09:31",
-    "ja_summary": "・事業部門の社員が生成AIを活用し、自ら業務アプリを内製する動きが加速している。\n・セキュリティリスクを考慮し、コーディングエージェントの利用はあえて制限する方針。\n・技術専門家を介さない「安全なアプリ開発の民主化」が新たなトレンドとなっている。"
-  },
-  {
-    "title": "NVIDIAがいない隙間市場狙う、韓国のオンデバイスAI半導体プロジェクトが始動",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/01231/00156/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "AI（人工知能）ブームをけん引する米NVIDIA（エヌビディア）のGPU（画像処理半導体）の爆発的な売れ行きは、韓国のSK hynix（SKハイニックス）やSamsung Electronis（サムスン電子）が製造するメモリー半導体「HBM（High Bandwidth Memory）」の需要を押し上げ、韓国経済に莫大な利益をもたらしている。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/01231/00156/topm.jpg?20220512",
-    "fetched_at": "2026-07-03 06:09:31",
-    "ja_summary": "・韓国がNVIDIA不在の隙間を狙い、オンデバイスAI向け半導体開発を本格始動。\n・HBM市場で好調なSKハイニックスやサムスンが、新たな成長軸としてAI半導体を強化。\n・半導体大国の地位維持に向け、AIブームの恩恵をさらに拡大させる狙い。"
-  },
-  {
-    "title": "3大クラウドを日本パートナーが評価、AIが加わりユーザーの選択が難しく",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03655/062600005/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "AI（人工知能）活用でしのぎを削る3大クラウド。米Amazon Web Service、米Google、米Microsoftが次々と繰り出すサービスや強み・弱みを、日本のパートナー企業はどう捉えているのか。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03655/062600005/topm.jpg?20220512",
-    "fetched_at": "2026-07-03 06:09:32",
-    "ja_summary": "・AWS、Google、Microsoftの3大クラウドがAI開発で激しい競争を展開中。\n・各社のサービスや強みの違いが複雑化し、企業の選択が困難になっている。\n・日本のパートナー企業が、これら3社の特徴や強み・弱みを分析・評価している。"
-  },
-  {
-    "title": "もうプロンプトは書かなくていい…管理職も活躍できる「ループ・エンジニアリング」の時代がやって来た",
-    "link": "https://www.businessinsider.jp/article/2607-what-are-loops-ai-engineering-tips/",
-    "source": "Business Insider Japan",
-    "published": "Thu, 02 Jul 2026 21:00:00 GMT",
-    "summary": "AI分野のトップエンジニアの間でいま最も熱く語られている「ループ・エンジニアリング」。手書きプロンプトの時代は終わりを迎えつつあるのでしょうか。",
-    "image": "https://media.loom-app.com/loom/2026/06/24/564c7899-c0e6-4083-8949-4765cff944d7/original.jpg?w=1200&amp;h=630",
-    "fetched_at": "2026-07-03 06:09:37",
-    "ja_summary": "・プロンプトを手入力する時代が終わり、「ループ・エンジニアリング」が台頭。\n・AIが自律的に試行錯誤を繰り返す手法により、専門知識のない管理職でもAIを高度に活用可能。\n・AIとの対話ではなく、AIのプロセスを管理する役割へとシフトが始まる。"
-  },
-  {
-    "title": "メルカリが「AI利用率100%」で満足しないワケ。技術トップが人事トップも兼務する理由",
-    "link": "https://www.businessinsider.jp/article/2607-why-mercari-appointed-cto-as-hr-head/",
-    "source": "Business Insider Japan",
-    "published": "Thu, 02 Jul 2026 20:30:00 GMT",
-    "summary": "メルカリは、技術部門を率いてきた木村俊也氏がCHROとCAIOを兼務する体制に移行しました。AI活用を個人の効率化にとどめず、組織や人事制度の変革につなげる狙いを聞きました。",
-    "image": "https://media.loom-app.com/loom/2026/07/01/88cfedec-3684-47a1-af42-32336d0ccce3/original.png?w=1200&amp;h=630",
-    "fetched_at": "2026-07-03 06:09:39",
-    "ja_summary": "・メルカリが技術トップをCHRO兼CAIOに据え、AI活用を組織変革の核へ移行。\n・個人の効率化にとどまらず、AI導入を前提とした人事制度の刷新を目指す。\n・技術と人事の融合により、AI時代に適応した組織づくりを加速させる狙い。"
-  },
-  {
-    "title": "AIエージェント「Gemini Spark」がmacOSに　連携アプリも拡大",
-    "link": "https://www.watch.impress.co.jp/docs/news/2121643.html",
-    "source": "Impress Watch",
-    "published": "",
-    "summary": "Googleは30日(米国時間)、AIエージェント「Gemini Spark」のアップデートとして、macOSアプリへの対応、連携アプリの拡大、リアルタイムでのトピック追跡機能の強化を発表した。各アップデートは本日から順次提供を開始する。",
-    "image": "https://www.watch.impress.co.jp/img/ipw/list/2121/643/01.jpg",
-    "fetched_at": "2026-07-03 03:22:49",
-    "ja_summary": "・AIエージェント「Gemini Spark」がmacOSアプリに対応。\n・連携可能な外部アプリの種類を拡大し、利便性を向上。\n・リアルタイムでのトピック追跡機能を強化し、本日より順次提供開始。"
   }
 ]
