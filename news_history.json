@@ -1,5 +1,15 @@
 [
   {
+    "title": "Testing AI Agents — Automated Evaluation for Chatbots & RAG Systems",
+    "link": "https://speakerdeck.com/messeb/testing-ai-agents-automated-evaluation-for-chatbots-and-rag-systems",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-07-05T12:44:29-04:00",
+    "summary": "AI agents, chatbots, and RAG systems are easy to prototype — but hard to test reliably. A tweaked prompt, a new model version, or a re-indexed knowledge base can silently change behavior, and classic assertions (string matching, snapshots) can't capture what actually matters: correctness, relevance, and grounded answers.\n\nThis talk walks from real-world failures (the $1 Chevy Tahoe, Air Canada's chatbot) to a practical evaluation workflow you can adopt on Monday:\n\n• Why chatbots have become agentic systems — and where prompt injection hides\n• The AI Agent Testing Pyramid: deterministic checks → metrics → LLM-as-a-Judge → humans\n• LLM-as-a-Judge with DeepEval — evaluating meaning, not exact matches, right inside pytest\n• Faithfulness, thresholds, and quality gates for RAG answers\n• Running evals in CI and on a daily schedule to catch drift\n• Wrapping evaluations in BDD/Gherkin so product owners and content editors can write tests too\n\nYou'll leave with a reusable blueprint for automated AI evaluation — from local runs to CI pipelines.\nSlides & demo project: https://github.com/messeb/py-deepeval-behave-bdd-testing-example\nTalk given at WeAreDevelopers World Congress 2026 (Europe) by Sebastian Messingfeld, Eurowings Digital.",
+    "image": "https://files.speakerdeck.com/presentations/25b49228c52a47c4940907ff4837580f/preview_slide_0.jpg?39903568",
+    "fetched_at": "2026-07-06 02:45:17",
+    "ja_summary": "・AIエージェントやRAGの品質維持には、従来の単純な文字列一致検証では不十分。\n・LLMを評価者とする「LLM-as-a-Judge」や、BDDを用いたテストの自動化が不可欠。\n・CI環境への組み込みと継続的なモニタリングで、回答の正確性と品質の劣化を防ぐ手法を提案。"
+  },
+  {
     "title": "【ハンズオン】AgentCore最新機能でRAG & AIエージェント構築に入門！",
     "link": "https://qiita.com/minorun365/items/7d06434cf830df9c54ff",
     "source": "Qiita (Popular)",
@@ -988,15 +998,5 @@
     "image": "https://images.ctfassets.net/kftzwdyauwt9/2p06ZCpbXiQhTAbOY9J6OH/2f69f47125b18f9ced9c6000a0bcee0b/mapping-europes-ai-workforce-opportunity-seo-card.png?w=1600&amp;h=900&amp;fit=fill",
     "fetched_at": "2026-07-03 10:15:53",
     "ja_summary": "・OpenAIがEUにおけるAIと労働市場の影響を分析するレポートを発表。\n・職種ごとに自動化のリスクや、業務効率化・成長の可能性をマッピング。\n・今後の労働環境の変化と、AIによる雇用構造の再編予測を網羅。"
-  },
-  {
-    "title": "More details on Fable 5’s cyber safeguards and our jailbreak framework",
-    "link": "https://www.anthropic.com/news/fable-safeguards-jailbreak-framework",
-    "source": "Anthropic (News)",
-    "published": "Thu, 02 Jul 2026 00:00:00 +0000",
-    "summary": "More details on Fable 5’s cyber safeguards and our jailbreak framework",
-    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Lock&amp;backgroundColor=cactus",
-    "fetched_at": "2026-07-03 10:15:58",
-    "ja_summary": "・Fable 5におけるサイバーセキュリティ対策の詳細を公開。\n・AIの脆弱性を突く「ジェイルブレイク（脱獄）」への防御フレームワークを導入。\n・AIモデルの安全性向上と不正利用防止に向けた技術的アプローチを解説。"
   }
 ]
