@@ -1,5 +1,25 @@
 [
   {
+    "title": "“全部コピーしない”ファイルデータの活用 ： — FSx for ONTAP × S3 Tables × Icebergで作るメタデータカタログ",
+    "link": "https://speakerdeck.com/yoshiki0705/quan-bu-kopisinai-huairudetanohuo-yong-fsx-for-ontap-x-s3-tables-x-icebergdezuo-rumetadetakatarogu",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-07-04T19:58:03-04:00",
+    "summary": "2026/07/04開催 の JAWS ミート 2026 の15分登壇した資料です。当日は、セッション枠の15分で収まらないので端折っています。フルでやるとしたら、30分程度掛け合いをしながら、紹介していきたい内容です。\n* イベントページ： https://jaws-ug-tokaido.connpass.com/event/392910/\n\n本セッションでは、「NAS上のRawデータをすべてS3へコピーする」のではなく、FSx for ONTAPをソース・オブ・トゥルースとして扱い、S3 Access Points経由で分析・ETL・AI連携のread pathを広げる。そのうえで、品質・lineage・PII・AI分類・エンジン互換性などのHot MetadataをS3 Tables / Icebergで管理する設計アイデアを紹介しています。\n\nまた、Delta / Iceberg / Hudi の transactional write path がそのまま適用しづらい理由を整理し、Rawデータは FSx for ONTAP に残しつつ、Bronze / Silver / Gold の curated layer やメタデータカタログを Amazon S3 Tables / Apache Iceberg 側で設計する “Hot Metadata × Cold Data” の考え方を解説しています。\n\n「ゼロコピーで全部できる」ではなく、「向き不向きを理解し、品質・来歴・利用可否・curated table の置き場所を設計する」ための、FSx for ONTAP × S3 Access Points × Lakehouse の現時点での現実解です。",
+    "image": "https://files.speakerdeck.com/presentations/e722e289b02640a5b454c1ecf3cc934b/preview_slide_0.jpg?39898502",
+    "fetched_at": "2026-07-05 10:24:48",
+    "ja_summary": "NAS上のデータをすべてS3へコピーせず、FSx for ONTAPをデータ源としつつ、メタデータのみをS3 Tables/Icebergで管理するハイブリッド設計を提案。\nRawデータはNASに保持し、分析やAI活用に必要な「Hot Metadata」をS3側で整理することで、効率的なレイクハウス環境を実現する。\n「全てをゼロコピー化」するのではなく、データの特性に応じて配置先と管理手法を最適化する、現実的なデータ基盤の構築手法を解説。"
+  },
+  {
+    "title": "バイブコーディングで本当にアプリはリリースできるのか？エンジニアが実際にアプリをリリースして感じたこと",
+    "link": "https://qiita.com/yutaka_kozuka/items/cc3be5930b972130885d",
+    "source": "Qiita (Popular)",
+    "published": "2026-07-03T12:06:16+09:00",
+    "summary": "## TL;DR\n\nQ: バイブコーディングで本当にアプリをリリースできるのか？  \nA: できました。ただし「商用・セキュア」という条件では、非エンジニアにはまだ厳しいと感じました。\n\n- AI英語学習アプリをゼロから個人開発し、Web・iOS App Store の両方でリリースできました\n- AIは「コードを書くこと」を代替できますが、「何を確認すべきか」の判断は代替できません\n- 一番大変",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Ftech-festa-ogp-background-4b5015b2c518c7e6b9062a7c9f5f5e90.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0MDQ3Mzg5JTJGYjlkMDJiOWVlMWFmYWI4ODNlM2I0ZjQ2ZTg3ZDA3ZjFkNjA5YzlkNSUyRnhfbGFyZ2UucG5nJTNGMTc0MzUxMjU5ND9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9OWRlOWYzMjMyZWQ3ZWExZWY5ZmI2MzRiYzc4YjZiZTg%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D662b8f23d55b88eb8b2ea06fc3953dae?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgzJTkwJUUzJTgyJUE0JUUzJTgzJTk2JUUzJTgyJUIzJUUzJTgzJUJDJUUzJTgzJTg3JUUzJTgyJUEzJUUzJTgzJUIzJUUzJTgyJUIwJUUzJTgxJUE3JUU2JTlDJUFDJUU1JUJEJTkzJUUzJTgxJUFCJUUzJTgyJUEyJUUzJTgzJTk3JUUzJTgzJUFBJUUzJTgxJUFGJUUzJTgzJUFBJUUzJTgzJUFBJUUzJTgzJUJDJUUzJTgyJUI5JUUzJTgxJUE3JUUzJTgxJThEJUUzJTgyJThCJUUzJTgxJUFFJUUzJTgxJThCJUVGJUJDJTlGJUUzJTgyJUE4JUUzJTgzJUIzJUUzJTgyJUI4JUUzJTgzJThCJUUzJTgyJUEyJUUzJTgxJThDJUU1JUFFJTlGJUU5JTlBJTlCJUUzJTgxJUFCJUUzJTgyJUEyJUUzJTgzJTk3JUUzJTgzJUFBJUUzJTgyJTkyJUUzJTgzJUFBJUUzJTgzJUFBJUUzJTgzJUJDJUUzJTgyJUI5JUUzJTgxJTk3JUUzJTgxJUE2JUU2JTg0JTlGJUUzJTgxJTk4JUUzJTgxJTlGJUUzJTgxJTkzJUUzJTgxJUE4JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjNGRkZGRkYmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9YzNhZGUzNGU1NTM0OGNjMzY2N2RhMWQ5ODQxMGU0NzQ&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDB5dXRha2Ffa296dWthJnR4dC1jb2xvcj0lMjNGRkZGRkYmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9YWUwZTJkMGM3NTIwYjEwYjA2MThjNWUyODg0ZTI4MDI&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=6169a42946bc61deb8f8aa23381db164",
+    "fetched_at": "2026-07-05 10:24:50",
+    "ja_summary": "・バイブコーディング（AI対話型開発）によるアプリの個人開発・リリースは十分に可能。\n・AIはコーディングを代替するが、品質やセキュリティの判断は依然として人間が必要。\n・商用・セキュアな開発にはエンジニアレベルの知見が欠かせないため、非エンジニアにはまだハードルが高い。"
+  },
+  {
     "title": "意思決定をAIに委ねる人々…「認知的降伏」に専門家が警鐘",
     "link": "https://www.businessinsider.jp/article/2606-ai-reliance-decision-making-life-advice-cognitive-surrender/",
     "source": "Business Insider Japan",
@@ -978,25 +998,5 @@
     "image": "https://media.loom-app.com/loom/2026/07/02/4dfac509-e27d-4182-abd0-32306a11ca4b/original.jpg?w=1200&amp;h=630",
     "fetched_at": "2026-07-03 07:17:37",
     "ja_summary": "・AI関連株の急騰はドットコム・バブル前夜と類似しており、警戒が必要。\n・ハードウェア銘柄への偏った資金流入で、市場内のパフォーマンス乖離が拡大中。\n・JPモルガンは現在の市場動向に対し、投資家へ慎重な姿勢を促している。"
-  },
-  {
-    "title": "バイブコーディングは、非エンジニアにとって最大のブレークスルーになり得ると注目されている。これらの9つのスタートアップ企業は、数十億ドルもの資金を調達している",
-    "link": "https://www.businessinsider.jp/article/2607startups-raising-billions-vibe-coding-boom-cursor-lovable-replit-emergent/",
-    "source": "Business Insider Japan",
-    "published": "Thu, 02 Jul 2026 21:50:00 GMT",
-    "summary": "これらのスタートアップ企業は、オープンAI、アンソロピック、マイクロソフトといった、独自のAI搭載コーディングツールを手がけるはるかに大規模なプレーヤーと競合しています。",
-    "image": "https://media.loom-app.com/loom/2026/07/01/c88b9554-1c24-40f6-8968-d6e8e9a1b72e/original.jpg?w=1200&amp;h=630",
-    "fetched_at": "2026-07-03 07:17:37",
-    "ja_summary": "・非エンジニアでも開発可能な「バイブコーディング」が注目を集めている。\n・新興スタートアップ9社が、AIコーディングツールで大手企業と競合。\n・これらの企業は既に数十億ドルの資金調達に成功し、市場を牽引している。"
-  },
-  {
-    "title": "AIは人員削減を加速させているのか？このレポートによると、そうとも言えない",
-    "link": "https://www.businessinsider.jp/article/2026-07-ai-layoff-report-bigtech/",
-    "source": "Business Insider Japan",
-    "published": "Thu, 02 Jul 2026 21:40:00 GMT",
-    "summary": "新たな研究によると、AIへの支出が最も多い企業は雇用を削減しておらず、それどころか同業他社よりも速いペースで採用を進めていることが明らかになった。",
-    "image": "https://media.loom-app.com/loom/2026/06/30/d2a6a6ae-b1cf-4e23-95c0-d4f7de1d7c97/original.jpg?w=1200&amp;h=630",
-    "fetched_at": "2026-07-03 07:17:39",
-    "ja_summary": "・AIに積極投資している企業ほど、人員削減を行わず採用を加速させている。\n・AIは雇用を奪うだけでなく、むしろ成長を支える手段として活用されている。\n・現時点では、AI投資が直ちに解雇の増加に直結している事実は確認できない。"
   }
 ]
