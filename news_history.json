@@ -1,5 +1,55 @@
 [
   {
+    "title": "開発進む「GW級データセンター」　8兆円投資でリターンは45兆円？",
+    "link": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/052100111/070200180/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "現在世界中で、消費電力がギガワット（GW）を超えるAI（人工知能）用データセンター（DC）の開発が進行中だ。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/052100111/070200180/topm.jpg?20220512",
+    "fetched_at": "2026-07-05 17:29:35",
+    "ja_summary": "・世界中でGW級の超巨大AIデータセンターの開発が加速している。\n・総額8兆円規模の巨額投資が行われており、45兆円超の経済効果が見込まれる。\n・AI需要の拡大に伴い、データセンターが巨大投資先として注目されている。"
+  },
+  {
+    "title": "AI相場に揺らぎ インド株再評価も",
+    "link": "https://news.yahoo.co.jp/pickup/6586811?source=rss",
+    "source": "Yahoo!ニュース IT・科学",
+    "published": "Sun, 05 Jul 2026 07:12:16 GMT",
+    "summary": "",
+    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/7/5/4a04a72221d46dac152ee995ff25b66cc396e298d72129e4a11cac1233c1eda0.jpg",
+    "fetched_at": "2026-07-05 17:29:49",
+    "ja_summary": "・AI関連株への過熱感から市場に揺らぎが生じている。\n・投資家の関心は、成長が続くインド市場の再評価へと向かいつつある。\n・AI依存のリスクを背景に、投資先の分散とインド株へのシフトが加速。"
+  },
+  {
+    "title": "Claude Code (Opus 4.8) が数分固まる問題、188セッション実測したら原因はAPIでもネットワークでもなかった",
+    "link": "https://zenn.dev/yuki_fujisawa/articles/a155d388e61acc",
+    "source": "Zenn Trends",
+    "published": "Sat, 04 Jul 2026 10:26:56 GMT",
+    "summary": "はじめに\nClaude Code を使っていると、応答が数分間「無音」になる停滞に遭遇することがあります。特にOpus 4.8で頻発していたため、体感や推測ではなくセッションログの実測で原因を特定しました。\nこの記事で分かること\n\nClaude Code の停滞を定量調査する方法(ログの場所と集計の考え方)\n「固まって見える」現象の意外な正体\n停滞を減らすための、標準機能ベースの実装(コード付き)\n\n対象読者: Claude Code を日常的に使うエンジニア、subagent / hooks をまだ活用していない人。\n\n TL;DR\n\n60秒超の停滞 376件のうち、本当の「API...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--xjHFgtyz--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%2520%2528Opus%25204.8%2529%2520%25E3%2581%258C%25E6%2595%25B0%25E5%2588%2586%25E5%259B%25BA%25E3%2581%25BE%25E3%2582%258B%25E5%2595%258F%25E9%25A1%258C%25E3%2580%2581188%25E3%2582%25BB%25E3%2583%2583%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3%25E5%25AE%259F%25E6%25B8%25AC%25E3%2581%2597%25E3%2581%259F%25E3%2582%2589%25E5%258E%259F%25E5%259B%25A0%25E3%2581%25AFAPI%25E3%2581%25A7%25E3%2582%2582%25E3%2583%258D%25E3%2583%2583%25E3%2583%2588%25E3%2583%25AF...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E8%2597%25A4%25E6%25BE%25A4%25E5%258B%2587%25E6%25A8%25B9%2528Yuki%2520Fujisawa%2529%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2YyOWNiMTQyZjcuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-07-05 17:30:16",
+    "ja_summary": "Claude Code（Opus 4.8）で頻発する数分間の応答停滞を実測調査した結果、原因はAPIやネットワークの遅延ではなかった。\n停滞の正体はエージェントの内部処理にあり、subagentやhooksを活用した実装で改善可能である。\nログを用いた定量分析手法と、停滞を回避するための具体的な設定・実装方法を解説している。"
+  },
+  {
+    "title": "コードレビュー指摘300件を3ヶ月分類したら効いていたのは2種類だけだった",
+    "link": "https://zenn.dev/kenimo49/articles/code-review-300-comments-2-effective-categories",
+    "source": "Zenn Trends",
+    "published": "Sat, 04 Jul 2026 09:57:02 GMT",
+    "summary": "私は3ヶ月かけて300件のレビュー指摘を全部直した。PRがnit:で埋まり、開発が止まった。AIレビューを増やしたら、人間も含めたレビュー疲れがピークに達した。\n自分のレビューが信用できなくなって、ふと気になった。「この300件のうち、本当に効いたのは何件だろう」。\n数えてみたら、Bug指摘とSpec指摘の2種類だけだった。残り4種類は、自動化するか、PR以前の段階に追い出す方がチームのためになる。\n!\n本記事の前提となる「3層モデル」と「6段階レビュー」は別記事で扱った設計図側の話。今回はその先、指摘そのもののROI計測を扱う。\n\n6段階レビューを3ヶ月回したら、人間の出番は1段階だけ...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--OJPOv-A---/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2589%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25E6%258C%2587%25E6%2591%2598300%25E4%25BB%25B6%25E3%2582%25923%25E3%2583%25B6%25E6%259C%2588%25E5%2588%2586%25E9%25A1%259E%25E3%2581%2597%25E3%2581%259F%25E3%2582%2589%25E5%258A%25B9%25E3%2581%2584%25E3%2581%25A6%25E3%2581%2584%25E3%2581%259F%25E3%2581%25AE%25E3%2581%25AF2%25E7%25A8%25AE%25E9%25A1%259E%25E3%2581%25A0%25E3%2581%2591%25E3%2581%25A0%25E3%2581%25A3%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E4%25BA%2595%25E6%259C%25AC%2520%25E8%25B3%25A2%2520%257C%2520WebRTC%25C3%2597%25E9%259F%25B3%25E5%25A3%25B0AI...%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzkwM2I0ZGQyNjAuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-07-05 17:30:16",
+    "ja_summary": "・300件のコードレビュー指摘を分析した結果、本当に価値があったのは「バグ」と「仕様」の指摘のみだった。\n・それ以外の指摘は自動化か事前検討で解決可能であり、人手で行うのは非効率で開発を停滞させる要因になる。\n・レビューの質とROIを高めるためには、人間の作業を最小限の段階に絞り込むべきである。"
+  },
+  {
+    "title": "Codexが年640TBをSSDに書いていた、原因のTRACEログを追う",
+    "link": "https://zenn.dev/okssusucha/articles/20260701-openai-codex-sqlite-trace-log-ssd-wear",
+    "source": "Zenn Trends",
+    "published": "Sat, 04 Jul 2026 04:35:18 GMT",
+    "summary": "手元のSSDが、キー入力していない時間帯まで一定のペースで削られていく。プロセスを追い詰めると、犯人はエディタでもブラウザでもなく、常駐させていたOpenAI Codex CLIのログ機構だった。あるユーザーの計測では、約21日の連続稼働でSSDへの書き込みが約37TBに達し、そのほとんどをCodexのSQLiteログが占めていた。年換算でおよそ640TB。1TBのSSDなら1年で約640回、ドライブ全体を上書きし尽くす計算になる。\nこの話が怖いのは、バグそのものよりも「静かさ」だ。エラーも警告も出ないまま、消耗品であるNANDフラッシュの寿命だけが削られる。報告はopenai/code...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--hI7QnKu_--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Codex%25E3%2581%258C%25E5%25B9%25B4640TB%25E3%2582%2592SSD%25E3%2581%25AB%25E6%259B%25B8%25E3%2581%2584%25E3%2581%25A6%25E3%2581%2584%25E3%2581%259F%25E3%2580%2581%25E5%258E%259F%25E5%259B%25A0%25E3%2581%25AETRACE%25E3%2583%25AD%25E3%2582%25B0%25E3%2582%2592%25E8%25BF%25BD%25E3%2581%2586%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%25A8%25E3%2581%2586%25E3%2582%2582%25E3%2582%258D%25E3%2581%2593%25E3%2581%2597%25E8%258C%25B6%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSW96UXYxMFhOSmoybmNYTlZkQzFRV1IxV2UxZHVyMy1FeHlhd19tTno1MkZJT3NyRzFzQT1zOTYtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-07-05 17:30:17",
+    "ja_summary": "・常駐させていたOpenAI Codex CLIが、過剰なログ出力を繰り返す不具合によりSSDの寿命を急速に消費していた。\n・エラーや警告を出さずバックグラウンドで書き込みが続くため、気づかぬうちに年間約640TBもの負荷をかけていた。\n・ハードウェアの消耗という「静かな故障」を招くリスクがあり、常駐ソフトの隠れた挙動には注意が必要。"
+  },
+  {
     "title": "AWS Transform Continuous Modernization - AI-DLC時代の新しい仲間",
     "link": "https://speakerdeck.com/sato4mi/aws-transform-continuous-modernization-ai-dlcshi-dai-noxin-siizhong-jian",
     "source": "Speaker Deck (Tech)",
@@ -948,55 +998,5 @@
     "image": "https://cdn.sanity.io/images/4zrzovbb/website/0c547c61b24e6ad4985c64f04f212c7411609bfa-2880x1620.png",
     "fetched_at": "2026-07-03 08:34:15",
     "ja_summary": "・科学者向けのAI作業環境「Claude Science」が公開された。\n・AIを活用して、研究やデータ分析の効率化を支援する。\n・専門的な科学研究のワークフローを最適化できるツール。"
-  },
-  {
-    "title": "Introducing Claude Sonnet 5",
-    "link": "https://www.anthropic.com/news/claude-sonnet-5",
-    "source": "Anthropic (News)",
-    "published": "Tue, 30 Jun 2026 00:00:00 +0000",
-    "summary": "Introducing Claude Sonnet 5",
-    "image": "https://cdn.sanity.io/images/4zrzovbb/website/458ea645ef6b729f6847cba16932716e6b547f2f-2880x1620.png",
-    "fetched_at": "2026-07-03 08:34:15",
-    "ja_summary": "・Anthropic社が最新AIモデル「Claude Sonnet 3.5」の後継となる「Claude 3.5 Sonnet」を公開。\n・推論能力やコーディング性能が大幅に向上し、実用性が強化。\n・WebブラウザやAPI経由で即時利用が可能。"
-  },
-  {
-    "title": "日本のバブル期にそっくり､米株高の危うい現実…｢AIで爆発的成長｣の期待が現実にならなければ､暴落は不可避 | 政治・経済・投資 | 東洋経済オンライン",
-    "link": "https://toyokeizai.net/articles/-/949937?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-    "source": "東洋経済オンライン",
-    "published": "Fri, 03 Jul 2026 07:00:00 +0900",
-    "summary": "BRICという言葉が誕生してから約25年､世界経済の重心は東へとシフトし､中国とインドは予想以上の成長を遂げました。しかし､アメリカの株式市場には実体経済との乖離が見られます。",
-    "image": "https://tk.ismcdn.jp/mwimgs/2/0/1200w/img_2075c93cbe505a18cb92b5d9ba62b88557644.jpg?nextgen=false",
-    "fetched_at": "2026-07-03 07:17:21",
-    "ja_summary": "・米株高はAI成長への過度な期待に支えられており、日本のバブル期と類似した危うい状態にある。\n・実体経済と株価の乖離が拡大しており、AIブームが期待外れに終われば暴落は避けられない。"
-  },
-  {
-    "title": "AIで巧妙化するフィッシング　件数は20％減でも被害額は3倍",
-    "link": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/052100113/063000189/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "有名企業をかたった偽メールなどで偽サイトにユーザーを誘導し、個人情報などを盗むフィッシング。生成AI（人工知能）の登場により、フィッシングを実施するハードルは大きく下がった。だが、セキュリティー企業の米ゼットスケーラーによると、2025年に確認したフィッシングの件数は2024年と比べて約20％減少したという。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/052100113/063000189/topm.jpg?20220512",
-    "fetched_at": "2026-07-03 07:17:29",
-    "ja_summary": "・AIの悪用でフィッシング詐欺の手口が巧妙化。\n・全体の発生件数は前年比20％減だが、被害額は3倍に増加。\n・件数が減っても個々の被害が深刻化しているため、より一層の警戒が必要。"
-  },
-  {
-    "title": "「超知能」を開発してはいけないのか",
-    "link": "https://xtech.nikkei.com/atcl/nxt/mag/nnw/18/091900173/061700034/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "2026年のゴールデンウイークに『超知能AIをつくれば人類は絶滅する』を読んだ。なかなかに挑戦的なタイトルである。筆者らは米国の非営利団体Machine Intelligence Research Instituteの共同代表で、長らくAGIの研究に携わってきた。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/mag/nnw/18/091900173/061700034/topm.jpg?20220512",
-    "fetched_at": "2026-07-03 07:17:30",
-    "ja_summary": "・AGI（汎用人工知能）研究の第一人者が、超知能AIがもたらす人類絶滅のリスクを警告する書籍。\n・AIの急速な進化が制御不能な事態を招く危険性を、専門的見地から論じている。\n・技術開発の是非を問い、人類の存続を脅かしかねないAIの脅威に警鐘を鳴らす内容。"
-  },
-  {
-    "title": "プログラミング能力はもう不要？　むしろ希少価値は高まっている",
-    "link": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/052100112/062900141/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "最近、世間のプログラミング学習に対する関心が薄れたように感じている。おそらく原因は、プログラムコードの出力が可能な生成AI（人工知能）の普及だろう。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/052100112/062900141/topm.jpg?20220512",
-    "fetched_at": "2026-07-03 07:17:30",
-    "ja_summary": "生成AIの普及によりプログラミング学習への関心は低下傾向にある。\nしかし、AIがコードを出力できる時代だからこそ、実装能力を持つ人材の希少価値はむしろ高まっている。"
   }
 ]
