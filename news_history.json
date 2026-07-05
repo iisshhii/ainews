@@ -1,5 +1,25 @@
 [
   {
+    "title": "AWS Transform Continuous Modernization - AI-DLC時代の新しい仲間",
+    "link": "https://speakerdeck.com/sato4mi/aws-transform-continuous-modernization-ai-dlcshi-dai-noxin-siizhong-jian",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-07-04T22:31:39-04:00",
+    "summary": "",
+    "image": "https://files.speakerdeck.com/presentations/c8d729e906164adeb729dabf8eefbd73/preview_slide_0.jpg?39899556",
+    "fetched_at": "2026-07-05 14:31:17",
+    "ja_summary": "・AWSがAI開発のライフサイクル（AI-DLC）全体を支える新モダナイゼーション戦略を推進\n・AIモデルの開発から運用までを自動化・効率化するツールと手法を統合的に提供\n・企業はAI導入を迅速化し、継続的なシステム更新と競争力強化が可能に"
+  },
+  {
+    "title": "小さいから、全部わかる。— 常駐AI \"xangi\" のすすめ",
+    "link": "https://speakerdeck.com/sugupoko/xiao-saikara-quan-bu-wakaru-chang-zhu-ai-xangi-nosusume",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-07-04T22:17:54-04:00",
+    "summary": "常駐AI bot「xangi」（からあげ先生作／中身はClaude）を、Discordで話しかけるだけの\"相棒\"として使う入門スライド。\nhttps://github.com/karaage0703/xangi\n\n健康管理を看板の実例に——\n① 双方向だから続く、② 答えだけでなく\"原理\"も教わる、③ 小さいから全部わかって信頼できる、\nを紹介。\n\n企画・文章・図解・PDF化まで、このスライド自体も\nxangi × Discord だけで制作しています。",
+    "image": "https://files.speakerdeck.com/presentations/caf693b57f8b420a815bc0c8e1b2cac4/preview_slide_0.jpg?39899546",
+    "fetched_at": "2026-07-05 14:31:17",
+    "ja_summary": "・DiscordでClaudeを常駐させ、健康管理などの対話を通じて学べるAI活用術の入門スライド。\n・双方向のやり取りと原理の理解、AIの仕組みが把握できる透明性の高さが特徴。\n・スライド自体の企画から制作まで、すべてこのAI環境を活用して作成されている。"
+  },
+  {
     "title": "“全部コピーしない”ファイルデータの活用 ： — FSx for ONTAP × S3 Tables × Icebergで作るメタデータカタログ",
     "link": "https://speakerdeck.com/yoshiki0705/quan-bu-kopisinai-huairudetanohuo-yong-fsx-for-ontap-x-s3-tables-x-icebergdezuo-rumetadetakatarogu",
     "source": "Speaker Deck (Tech)",
@@ -978,25 +998,5 @@
     "image": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/052100112/062900141/topm.jpg?20220512",
     "fetched_at": "2026-07-03 07:17:30",
     "ja_summary": "生成AIの普及によりプログラミング学習への関心は低下傾向にある。\nしかし、AIがコードを出力できる時代だからこそ、実装能力を持つ人材の希少価値はむしろ高まっている。"
-  },
-  {
-    "title": "開発進む「GW級データセンター」　8兆円投資でリターンは45兆円？",
-    "link": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/052100111/070200180/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "現在世界中で、消費電力がギガワット（GW）を超えるAI（人工知能）用データセンター（DC）の開発が進行中だ。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/052100111/070200180/topm.jpg?20220512",
-    "fetched_at": "2026-07-03 07:17:31",
-    "ja_summary": "・世界中でAI向けギガワット級データセンターの開発が急ピッチで進行中。\n・総額8兆円規模の巨額投資に対し、45兆円もの経済効果が見込まれている。"
-  },
-  {
-    "title": "AI関連相場は「ドットコム・バブル前夜と類似している」。JPモルガンの最新分析と警告",
-    "link": "https://www.businessinsider.jp/article/2026-07-jpmorgan-ai-dotcom-bubble/",
-    "source": "Business Insider Japan",
-    "published": "Thu, 02 Jul 2026 22:00:00 GMT",
-    "summary": "JPモルガンは、AI関連相場で、ハードウエア株が急騰する一方、市場のもう一つの中核を担う銘柄群から投資家資金が流出し、両者のパフォーマンスの乖離が拡大していると指摘しました。",
-    "image": "https://media.loom-app.com/loom/2026/07/02/4dfac509-e27d-4182-abd0-32306a11ca4b/original.jpg?w=1200&amp;h=630",
-    "fetched_at": "2026-07-03 07:17:37",
-    "ja_summary": "・AI関連株の急騰はドットコム・バブル前夜と類似しており、警戒が必要。\n・ハードウェア銘柄への偏った資金流入で、市場内のパフォーマンス乖離が拡大中。\n・JPモルガンは現在の市場動向に対し、投資家へ慎重な姿勢を促している。"
   }
 ]
