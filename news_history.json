@@ -1,5 +1,65 @@
 [
   {
+    "title": "ついにClaude Fable 5が復帰。復活祭は7月7日までで、以降はサブスク勢も追加課金が必要に（CloseBox）",
+    "link": "https://www.techno-edge.net/article/2026/07/02/5243.html",
+    "source": "TechnoEdge",
+    "published": "Thu, 02 Jul 2026 06:11:11 +0900",
+    "summary": "一般ユーザーが使える、現時点で最高峰のフロンティアAIであるClaude Fable 5が帰ってきました。",
+    "image": "https://www.techno-edge.net/imgs/rss/32676.png",
+    "fetched_at": "2026-07-05 21:03:18",
+    "ja_summary": "・最高峰AI「Claude Fable 5」が一般向けに利用再開。\n・7月7日までは無料だが、以降はサブスク会員でも追加課金が必要。"
+  },
+  {
+    "title": "How ChatGPT adoption has expanded",
+    "link": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+    "source": "OpenAI",
+    "published": "Tue, 30 Jun 2026 09:00:00 GMT",
+    "summary": "New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/7pYrohTaJusmMwISBrPGF3/8d3e678444d2b6a22ba62085b9a3bb8b/Frame-1.png?w=1600&amp;h=900&amp;fit=fill",
+    "fetched_at": "2026-07-05 21:03:19",
+    "ja_summary": "・OpenAIの最新データにより、ChatGPTの世界的な利用拡大が判明。\n・利用者の増加に加え、活用領域の拡大や多言語化が成長を牽引。\n・全世界の地域・言語でChatGPTの浸透と利活用が加速している。"
+  },
+  {
+    "title": "Introducing GeneBench-Pro",
+    "link": "https://openai.com/index/introducing-genebench-pro",
+    "source": "OpenAI",
+    "published": "Tue, 30 Jun 2026 00:00:00 GMT",
+    "summary": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/6ISCsbFZAwfE8rca32ZXSt/7958029f06d5bf872217476430f12549/GenebenchPro_Blog_SEO.png?w=1600&amp;h=900&amp;fit=fill",
+    "fetched_at": "2026-07-05 21:03:20",
+    "ja_summary": "・ゲノミクスや生物学、科学研究におけるAIの性能を評価する新ベンチマーク「GeneBench-Pro」が登場。\n・複雑な実世界のデータセットを用いて、AIの専門的な推論能力を測定。\n・科学分野におけるAI活用とモデル開発の高度化を支援する。"
+  },
+  {
+    "title": "Core dump epidemiology: fixing an 18-year-old bug",
+    "link": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
+    "source": "OpenAI",
+    "published": "Tue, 30 Jun 2026 00:00:00 GMT",
+    "summary": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/6q0IdzKwG7IjuMl4cLWzIy/7e4d7c42d2961b1432fc3909cb2c68d2/Rockset___SEO_card__1_.png?w=1600&amp;h=900&amp;fit=fill",
+    "fetched_at": "2026-07-05 21:03:20",
+    "ja_summary": "OpenAIが大規模なコアダンプ解析を行い、長年放置されていた18年前のソフトウェアバグとハードウェア故障を特定。\nインフラの稀なクラッシュ原因を突き止め、技術的な課題を解決した。\nシステムの堅牢性向上に向けた、高度なデバッグ事例。"
+  },
+  {
+    "title": "Claude Science, an AI workbench for scientists, is now available",
+    "link": "https://www.anthropic.com/news/claude-science-ai-workbench",
+    "source": "Anthropic (News)",
+    "published": "Tue, 30 Jun 2026 00:00:00 +0000",
+    "summary": "Claude Science, an AI workbench for scientists, is now available",
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/0c547c61b24e6ad4985c64f04f212c7411609bfa-2880x1620.png",
+    "fetched_at": "2026-07-05 21:03:27",
+    "ja_summary": "・科学研究に特化したAIワークベンチ「Claude Science」が提供開始\n・データ分析や論文作成など、研究者の作業を効率化する専門ツール\n・AIが科学的プロセスの補助・自動化をサポートし、研究開発を加速させる"
+  },
+  {
+    "title": "Building AI Agents with ADK (Agent Development Kit) for Java",
+    "link": "https://speakerdeck.com/glaforge/building-ai-agents-with-adk-agent-development-kit-for-java",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-07-05T07:58:26-04:00",
+    "summary": "Buzzword of the year, AI agents are becoming mainstream. You don’t even need to use Python to create agents, you can develop them using Java! In this presentation, we’ll focus in particular on one framework: ADK, the Agent Development Kit released by Google.\n\nAI Agents perceive, decide, and act to achieve goals using LLMs and tools. We’ll explore the various tools at our disposal, including built-in ones like Google Search or sandboxed code execution, as well as custom Java code, or MCP servers. To make agents even smarter, skills can teach them the right knowledge and procedures to follow for complex actions.\n\nMulti-agent systems can be built by delegating tasks to more specialized sub-agents. We’ll see the various patterns at play to organize agents to work together, using sequential, parallel, or loop flows. Or how you can interact with remote A2A (Agent2Agent Protocol) agents or expose your own via A2A. Also, some multi-agent scenarios require more agency, and Goal Oriented Action Planning gives more flexibility to your systems.\n\nThat’s not all, we’ll also look into how callbacks allow you to plug into the AI agent workflow (including for hooking up guardrails), or how state can be shared and manipulated, and how events flow in our agentic systems or how they are persisted in memory.\n\nAt the end of this presentation, you’ll know everything about ADK for Java, and you’ll be able to build your first AI agents in no time!",
+    "image": "https://files.speakerdeck.com/presentations/e9b9f57f2dd4408b96282090d54fc687/preview_slide_0.jpg?39901989",
+    "fetched_at": "2026-07-05 21:03:47",
+    "ja_summary": "・GoogleのJava向けフレームワーク「ADK」を活用し、Pythonを使わずにAIエージェントを開発する方法を解説。\n・外部ツール連携や自作コード、複雑なタスクを分担するマルチエージェントシステムの構築手法を網羅。\n・ワークフロー制御や状態管理、ガードレールの実装など、実用的なエージェント開発に必要な技術を習得可能。"
+  },
+  {
     "title": "AIで巧妙化するフィッシング　件数は20％減でも被害額は3倍",
     "link": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/052100113/063000189/",
     "source": "日経クロステック 総合",
@@ -938,65 +998,5 @@
     "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Ftech-festa-ogp-background-4b5015b2c518c7e6b9062a7c9f5f5e90.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYxNjMzODU2JTJGYzIyNmJjMzRhYzZjNDVhMjFmNWU1MTJkMWM3MmE2ZjA5NzQ5NDU3OCUyRnhfbGFyZ2UucG5nJTNGMTY5OTk1NDk3Nj9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9MTlhZDI4ODRkNmQ2MzEyNjMxZDJkNTBjOTZmOTA5ZjU%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYxZTIwZGI1ZTdlNDA3ZWFlN2I5NzBlYzk5OTg4MGRjOGMzY2MwZjY0JTJGb3JpZ2luYWwuanBnJTNGMTY2NzI3NDk2Mz9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz04OTI0NDcwMDk1MDMyZjUxYmZlNzE3ZjVkOGUzYmE3ZA%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3Dbb59006175a60e1b630ed499046d0424?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJTkwJUUzJTgzJThGJUUzJTgzJUIzJUUzJTgyJUJBJUUzJTgyJUFBJUUzJTgzJUIzJUUzJTgwJTkxQWdlbnRDb3JlJUU2JTlDJTgwJUU2JTk2JUIwJUU2JUE5JTlGJUU4JTgzJUJEJUUzJTgxJUE3UkFHJTIwJTI2JTIwQUklRTMlODIlQTglRTMlODMlQkMlRTMlODIlQjglRTMlODIlQTclRTMlODMlQjMlRTMlODMlODglRTYlQTclOEIlRTclQUYlODklRTMlODElQUIlRTUlODUlQTUlRTklOTYlODAlRUYlQkMlODEmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyM0ZGRkZGRiZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1iNWM0NmE2MWVjMTA1NjdkNjQyNzYxZWQxZmU1ZWUzNQ&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBtaW5vcnVuMzY1JnR4dC1jb2xvcj0lMjNGRkZGRkYmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9NDNhZjg0MGViODE0MzBhMmQyODM2OGUyY2Y0NjIwMTY&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=S0RESeOCouOCuOODo-OCpOODq-mWi-eZuuOCu-ODs-OCv-ODvOagquW8j-S8muekvg&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%23FFFFFF&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=4e7cf7aeafdf1fc5c0f3e8a98fdde5fe",
     "fetched_at": "2026-07-03 10:16:13",
     "ja_summary": "・「AgentCore」を活用し、RAGやAIエージェントをローコードで構築できる体験型チュートリアル。\n・30分〜1時間で完了する構成で、誰でも好きなタイミングで学習可能。\n・AI開発の基礎を効率的に習得したい人向けのハンズオン教材。"
-  },
-  {
-    "title": "シンガポールのドンキで飛ぶように売れる　1パック2000円の「日本産イチゴ」を支える技術とビジネスモデルとは",
-    "link": "https://www.itmedia.co.jp/business/articles/2607/03/news013.html",
-    "source": "ITmedia ビジネス",
-    "published": "Fri, 03 Jul 2026 07:30:00 +0900",
-    "summary": "品種開発から販売までを一貫して手がける農業スタートアップ、CULTA。AIと人工環境を使う高速育種でイチゴの品種開発を大幅に短縮し、独自品種を東南アジアなどに輸出する。手本は、キウイで世界市場を築いたゼスプリ。品種開発とマーケティングを一体で握る「垂直統合」で、農業の構造転換に挑む。",
-    "image": "https://image.itmedia.co.jp/business/articles/2607/03/cover_news013.jpg",
-    "fetched_at": "2026-07-03 08:33:42",
-    "ja_summary": "・農業スタートアップCULTAが、AI活用で短期間に高品質なイチゴを品種開発。\n・ゼスプリをモデルに、開発から販売までを一貫して行う「垂直統合」で高付加価値化。\n・独自ブランドとして東南アジアへ輸出を展開し、農業の新しいビジネスモデルを確立。"
-  },
-  {
-    "title": "みずほはなぜ「中小企業」に向き合うのか　銀行が埋めようとする“空白地帯”",
-    "link": "https://www.itmedia.co.jp/business/articles/2607/03/news020.html",
-    "source": "ITmedia ビジネス",
-    "published": "Fri, 03 Jul 2026 07:00:00 +0900",
-    "summary": "みずほフィナンシャルグループは、中小企業向け金融サービスに本格参入した。安価なネット型口座と手厚い支援型という従来の二極化を、UPSIDERとの連携によるAI与信で超えようとしている。銀行の構造転換の試みだ。",
-    "image": "https://image.itmedia.co.jp/business/articles/2607/03/cover_news020.jpg",
-    "fetched_at": "2026-07-03 08:33:43",
-    "ja_summary": "みずほFGが中小企業向け金融へ本格参入し、従来の「低価格ネット型」と「手厚い支援型」の二極化を打破する。\nUPSIDERとの提携によるAI与信を活用し、銀行が対応しきれていなかった中小企業金融の「空白地帯」を埋める。\nデジタル技術を用いた与信モデルの導入で、銀行の構造的なビジネスモデル転換を目指す。"
-  },
-  {
-    "title": "【7月1日から】未達成なら月5万円　「障害者雇用率2.5％&#10132;2.7％」引き上げへの処方箋",
-    "link": "https://www.itmedia.co.jp/business/articles/2607/03/news001.html",
-    "source": "ITmedia ビジネス",
-    "published": "Fri, 03 Jul 2026 07:00:00 +0900",
-    "summary": "7月1日、企業に義務付けられている障害者の法定雇用率が2.5％から2.7％へ引き上げられました。AI活用などで労働環境が変わりつつある昨今、企業は障害者雇用にどう取り組めばいいのでしょうか。社会保険労務士が解説します。",
-    "image": "https://image.itmedia.co.jp/business/articles/2607/03/cover_news001.jpg",
-    "fetched_at": "2026-07-03 08:33:43",
-    "ja_summary": "・7月1日より障害者の法定雇用率が2.5％から2.7％へ引き上げられた。\n・未達成企業には月額5万円の納付金が発生し、対応が急務となっている。\n・AI等の技術活用を視野に入れ、合理的配慮に基づいた環境整備が求められる。"
-  },
-  {
-    "title": "【鈴木淳也のPay Attention】エージェント化するECの未来　Visaが示す「人間不在まで3年」の道筋",
-    "link": "https://www.watch.impress.co.jp/docs/series/suzukij/2122030.html",
-    "source": "Impress Watch",
-    "published": "",
-    "summary": "AIエージェントを介した金融取引に関する議論や活動が活発化している。特にAIエージェントがEC上での購買行動を担う「エージェンティック・コマース(Agentic Commerce)」について、本連載でも何度か話題を取り扱っているが、非常に動きが速くトレンドを適切にキャッチアップするのが非常に難しい。",
-    "image": "https://www.watch.impress.co.jp/img/ipw/list/2122/030/j05.jpg",
-    "fetched_at": "2026-07-03 08:33:59",
-    "ja_summary": "・AIが消費者の代わりに買い物を行う「エージェンティック・コマース」が急速に台頭。\n・Visaも注力しており、今後3年で人間が介在しない金融取引が本格化する見通し。\n・技術進化が非常に速いため、ビジネスパーソンには早期の動向把握が不可欠。"
-  },
-  {
-    "title": "Visa、「AIエージェントが本物のECサイトで買い物開始」と発表",
-    "link": "https://japan.cnet.com/article/35249941/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "Visaは7月2日（現地時間）、AIエージェントが利用者に代わって買い物をする「エージェントコマース」の実取引が欧州で始まったと発表した。AIエージェントがカード保有者の指示にもとづき、参加加盟店のECサイトで商品を探し、選び、購入までを実行する。管理された実験用店舗でのテストを越えて、実際の加盟店と取引する段階に進んだという。パリで開催した「Visa Payments Forum」で明らかにした。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35249941/\"><img src=\"https://japan.cnet.com/storage/2026/07/03/950be0dde38656c4d1dafb5fad7c060f/t/184/138/d/01122.jpg\" /></a>",
-    "image": "https://japan.cnet.com/storage/2026/07/03/950be0dde38656c4d1dafb5fad7c060f/t/184/138/d/01122.jpg",
-    "fetched_at": "2026-07-03 08:34:04",
-    "ja_summary": "・Visaが、AIエージェントが利用者の代わりにECサイトで商品検索から購入までを行う「エージェントコマース」の実運用を開始。\n・実験段階を脱し、実際の加盟店での取引が欧州でスタートした。\n・個人の指示に基づき、AIが自動で買い物決済を完結させる新時代の仕組み。"
-  },
-  {
-    "title": "BCC、アクセンチュアに「リスク負担」が求められるAI時代。報酬体系変更は、コンサル業界の経済モデルを変え始めている",
-    "link": "https://www.businessinsider.jp/article/2026-07-consulting-client-ai-price/",
-    "source": "Business Insider Japan",
-    "published": "Thu, 02 Jul 2026 22:30:00 GMT",
-    "summary": "BCGやアクセンチュアといったコンサル大手は、固定料金から成果報酬型へと舵を切っています。AI導入のリスクをコンサル側にも背負わせたいという、顧客企業からの強い要望があるためです。",
-    "image": "https://media.loom-app.com/loom/2026/06/29/7f7b993e-293b-4467-a302-527fb595952f/original.jpg?w=1200&amp;h=630",
-    "fetched_at": "2026-07-03 08:34:05",
-    "ja_summary": "・AI導入のリスクを懸念する顧客の要望により、コンサル業界で成果報酬型への移行が加速。\n・固定報酬からリスク分担型へ契約形態が変化し、コンサル業界の経済モデル自体が変容している。"
   }
 ]
