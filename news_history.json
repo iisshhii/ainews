@@ -1,5 +1,45 @@
 [
   {
+    "title": "Introducing GeneBench-Pro",
+    "link": "https://openai.com/index/introducing-genebench-pro",
+    "source": "OpenAI",
+    "published": "Tue, 30 Jun 2026 00:00:00 GMT",
+    "summary": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/6ISCsbFZAwfE8rca32ZXSt/7958029f06d5bf872217476430f12549/GenebenchPro_Blog_SEO.png?w=1600&amp;h=900&amp;fit=fill",
+    "fetched_at": "2026-07-07 03:32:24",
+    "ja_summary": "・AIのゲノム・生物学分野における推論能力を測定する新ベンチマーク「GeneBench-Pro」が登場。\n・実際の複雑な科学研究データを用いることで、実用的なAI性能の評価が可能に。\n・科学研究の高度化やライフサイエンス領域でのAI活用を支援。"
+  },
+  {
+    "title": "Core dump epidemiology: fixing an 18-year-old bug",
+    "link": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
+    "source": "OpenAI",
+    "published": "Tue, 30 Jun 2026 00:00:00 GMT",
+    "summary": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/6q0IdzKwG7IjuMl4cLWzIy/7e4d7c42d2961b1432fc3909cb2c68d2/Rockset___SEO_card__1_.png?w=1600&amp;h=900&amp;fit=fill",
+    "fetched_at": "2026-07-07 03:32:24",
+    "ja_summary": "・OpenAIが大規模なコアダンプ解析を行い、長年放置されていたインフラの不具合を特定・修正した。\n・調査の結果、18年間未解決だったソフトウェアのバグと、ハードウェア障害の双方が原因と判明。\n・大規模なログ分析が、複雑なシステム障害の根本原因解明に極めて有効であることを証明した。"
+  },
+  {
+    "title": "Claude Science, an AI workbench for scientists, is now available",
+    "link": "https://www.anthropic.com/news/claude-science-ai-workbench",
+    "source": "Anthropic (News)",
+    "published": "Tue, 30 Jun 2026 00:00:00 +0000",
+    "summary": "Claude Science, an AI workbench for scientists, is now available",
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/0c547c61b24e6ad4985c64f04f212c7411609bfa-2880x1620.png",
+    "fetched_at": "2026-07-07 03:32:40",
+    "ja_summary": "・科学者専用のAIワークベンチ「Claude Science」が提供開始\n・AIが科学研究の分析や作業を強力にサポート\n・研究の効率化と生産性向上を実現する新ツールが登場"
+  },
+  {
+    "title": "Building AI Agents with ADK (Agent Development Kit) for Java",
+    "link": "https://speakerdeck.com/glaforge/building-ai-agents-with-adk-agent-development-kit-for-java",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-07-05T07:58:26-04:00",
+    "summary": "Buzzword of the year, AI agents are becoming mainstream. You don’t even need to use Python to create agents, you can develop them using Java! In this presentation, we’ll focus in particular on one framework: ADK, the Agent Development Kit released by Google.\n\nAI Agents perceive, decide, and act to achieve goals using LLMs and tools. We’ll explore the various tools at our disposal, including built-in ones like Google Search or sandboxed code execution, as well as custom Java code, or MCP servers. To make agents even smarter, skills can teach them the right knowledge and procedures to follow for complex actions.\n\nMulti-agent systems can be built by delegating tasks to more specialized sub-agents. We’ll see the various patterns at play to organize agents to work together, using sequential, parallel, or loop flows. Or how you can interact with remote A2A (Agent2Agent Protocol) agents or expose your own via A2A. Also, some multi-agent scenarios require more agency, and Goal Oriented Action Planning gives more flexibility to your systems.\n\nThat’s not all, we’ll also look into how callbacks allow you to plug into the AI agent workflow (including for hooking up guardrails), or how state can be shared and manipulated, and how events flow in our agentic systems or how they are persisted in memory.\n\nAt the end of this presentation, you’ll know everything about ADK for Java, and you’ll be able to build your first AI agents in no time!",
+    "image": "https://files.speakerdeck.com/presentations/e9b9f57f2dd4408b96282090d54fc687/preview_slide_0.jpg?39901989",
+    "fetched_at": "2026-07-07 03:32:52",
+    "ja_summary": "・GoogleのJava向けフレームワーク「ADK」を活用し、Pythonを使わずにAIエージェントを開発する方法を解説。\n・外部ツール連携や自作コード、MCPサーバー、マルチエージェント構成による複雑なタスク処理を実現。\n・ワークフロー制御や状態管理、Goal Oriented Action Planningなど、実用的なエージェント構築の全貌を網羅。"
+  },
+  {
     "title": "日常も海外出張も完璧にこなす!　AIボイスレコーダー「Notta Memo」がType-Cで進化[Sponsored]",
     "link": "https://www.watch.impress.co.jp/docs/topic/special/2116124.html",
     "source": "Impress Watch",
@@ -958,45 +998,5 @@
     "image": "https://www.watch.impress.co.jp/img/ipw/list/2122/030/j05.jpg",
     "fetched_at": "2026-07-05 23:06:47",
     "ja_summary": "・AIが購買行動を代行する「エージェンティック・コマース」が急速に台頭。\n・Visaが示すロードマップでは、わずか3年で人間不在の取引が実現する見通し。\n・金融・EC市場の構造がAI主体へと劇的に変化しており、早期の対応が不可欠。"
-  },
-  {
-    "title": "Visa、「AIエージェントが本物のECサイトで買い物開始」と発表",
-    "link": "https://japan.cnet.com/article/35249941/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "Visaは7月2日（現地時間）、AIエージェントが利用者に代わって買い物をする「エージェントコマース」の実取引が欧州で始まったと発表した。AIエージェントがカード保有者の指示にもとづき、参加加盟店のECサイトで商品を探し、選び、購入までを実行する。管理された実験用店舗でのテストを越えて、実際の加盟店と取引する段階に進んだという。パリで開催した「Visa Payments Forum」で明らかにした。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35249941/\"><img src=\"https://japan.cnet.com/storage/2026/07/03/950be0dde38656c4d1dafb5fad7c060f/t/184/138/d/01122.jpg\" /></a>",
-    "image": "https://japan.cnet.com/storage/2026/07/03/950be0dde38656c4d1dafb5fad7c060f/t/184/138/d/01122.jpg",
-    "fetched_at": "2026-07-05 23:06:50",
-    "ja_summary": "・VisaがAIエージェントによる自動買い物「エージェントコマース」の実取引を欧州で開始。\n・AIが利用者の指示に基づき、実際のECサイトで商品の選定から決済までを代行。\n・実験段階を脱し、実際の加盟店と連携した実用フェーズへ移行した。"
-  },
-  {
-    "title": "AIに外部脳を持たせて1ヶ月運用した全記録",
-    "link": "https://zenn.dev/nobu666/articles/ai-external-brain-digest",
-    "source": "Zenn Trends",
-    "published": "Sat, 04 Jul 2026 14:55:45 GMT",
-    "summary": "AIにコードや文章を書かせている人なら、一度は感じたことがあると思う。セッションが変わると、前回の続きが話せない。前に指摘したことも、決めた前提も、好みも、全部リセットされて最初から説明し直しになる。優秀なのに、毎回初対面の担当者に電話しているような感覚だ。\n公式のメモリ機能もあるにはあるが、使っていて不満が4つ溜まった。\n\n何を覚えているか中身が見えない\n記憶する基準がAI任せで、自分でルールを決められない\nそのAIの中に閉じていて、他のツールに持ち出せない\n全部が一つの記憶に混ざって、プロジェクトごとに分けられない\n\nだったら自分で外部脳を作ればいい。そう思って、Obsidianのv...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--ch3JTrhz--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%25E3%2581%25AB%25E5%25A4%2596%25E9%2583%25A8%25E8%2584%25B3%25E3%2582%2592%25E6%258C%2581%25E3%2581%259F%25E3%2581%259B%25E3%2581%25A61%25E3%2583%25B6%25E6%259C%2588%25E9%2581%258B%25E7%2594%25A8%25E3%2581%2597%25E3%2581%259F%25E5%2585%25A8%25E8%25A8%2598%25E9%258C%25B2%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:nobu666%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jTFhjeVJ6Ulk0cmxzSnhudnYzUnhuYklYb1haMUdBbDhTeHBwY3BjZm9EMFhHZHBEYVE9czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "fetched_at": "2026-07-05 23:07:27",
-    "ja_summary": "AIの記憶保持機能に不満を感じた著者が、自身のメモツールObsidianを活用して、管理・再利用可能な「外部脳」を自作した運用記録。"
-  },
-  {
-    "title": "ついにClaude Fable 5が復帰。復活祭は7月7日までで、以降はサブスク勢も追加課金が必要に（CloseBox）",
-    "link": "https://www.techno-edge.net/article/2026/07/02/5243.html",
-    "source": "TechnoEdge",
-    "published": "Thu, 02 Jul 2026 06:11:11 +0900",
-    "summary": "一般ユーザーが使える、現時点で最高峰のフロンティアAIであるClaude Fable 5が帰ってきました。",
-    "image": "https://www.techno-edge.net/imgs/rss/32676.png",
-    "fetched_at": "2026-07-05 21:03:18",
-    "ja_summary": "・最高峰AI「Claude Fable 5」が一般向けに利用再開。\n・7月7日までは無料だが、以降はサブスク会員でも追加課金が必要。"
-  },
-  {
-    "title": "How ChatGPT adoption has expanded",
-    "link": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
-    "source": "OpenAI",
-    "published": "Tue, 30 Jun 2026 09:00:00 GMT",
-    "summary": "New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages.",
-    "image": "https://images.ctfassets.net/kftzwdyauwt9/7pYrohTaJusmMwISBrPGF3/8d3e678444d2b6a22ba62085b9a3bb8b/Frame-1.png?w=1600&amp;h=900&amp;fit=fill",
-    "fetched_at": "2026-07-05 21:03:19",
-    "ja_summary": "・OpenAIの最新データにより、ChatGPTの世界的な利用拡大が判明。\n・利用者の増加に加え、活用領域の拡大や多言語化が成長を牽引。\n・全世界の地域・言語でChatGPTの浸透と利活用が加速している。"
   }
 ]
