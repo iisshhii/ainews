@@ -1,5 +1,75 @@
 [
   {
+    "title": "Unity AI の概要",
+    "link": "https://note.com/npaka/n/n4434920529b7",
+    "source": "note (npaka)",
+    "published": "Sun, 21 Jun 2026 10:07:15 +0900",
+    "summary": "<p id=\"ebe56a18-9297-4a13-b94e-d1a66a67c59a\" name=\"ebe56a18-9297-4a13-b94e-d1a66a67c59a\">「Unity AI」の概要をまとめました。</p><br /><br /><a href=\"https://note.com/npaka/n/n4434920529b7\">続きをみる</a>",
+    "image": "https://assets.st-note.com/production/uploads/images/287316065/rectangle_large_type_2_116c7efaa415a5e22ba90a423d99d73f.png?width=800",
+    "fetched_at": "2026-07-06 10:22:14",
+    "ja_summary": "UnityのAI活用基盤「Unity AI」の機能と導入メリットを網羅的に解説。\nゲーム開発の効率化や運用を支援する最新ツール群の概要を整理。\n開発プロセスへのAI活用を検討する際に役立つ技術リソースまとめ。"
+  },
+  {
+    "title": "Anthropic、Claude Fable 5の明日復帰を予告。Opus 4.8よりちょい下のSonnet 5はすぐに使える（CloseBox）",
+    "link": "https://www.techno-edge.net/article/2026/07/01/5241.html",
+    "source": "TechnoEdge",
+    "published": "Wed, 01 Jul 2026 10:14:16 +0900",
+    "summary": "米商務省の許諾が得られたということで、AnthropicはFable 5およびMythos 5の米国以外への提供を明日開始すると発表しました。",
+    "image": "https://www.techno-edge.net/imgs/rss/32649.png",
+    "fetched_at": "2026-07-06 10:22:18",
+    "ja_summary": "・Anthropicの「Fable 5」「Mythos 5」が、米国以外でも明日から提供開始。\n・「Sonnet 5」は現在すでに利用可能。\n・米商務省の許諾を受け、グローバル展開が解禁。"
+  },
+  {
+    "title": "JavaScriptのメソッドチェインが遅い理由",
+    "link": "https://zenn.dev/dameyodamedame/articles/0bd949354baf6e",
+    "source": "Zenn Trends",
+    "published": "Sun, 05 Jul 2026 10:58:57 GMT",
+    "summary": "序\n以前Qiitaにあげていた記事の更新版です(Iterator Helpersが標準入りし、メンテナンス期間のnode.js LTSで使えるようになったので)。\nRustとJavaScriptで似たような書き方のメソッドチェインを比較します。\n\n Rust\nhttps://github.com/marudedameo2019/lazy-stream-examples/blob/main/lazy_stream.rs\nコンパイルと出力はこんな感じになります。\n$ rustc -g lazy_stream.rs\n$ ./lazy_stream\nmap: 0\nfor_each: 0\nma...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--NDOQqkHh--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:JavaScript%25E3%2581%25AE%25E3%2583%25A1%25E3%2582%25BD%25E3%2583%2583%25E3%2583%2589%25E3%2583%2581%25E3%2582%25A7%25E3%2582%25A4%25E3%2583%25B3%25E3%2581%258C%25E9%2581%2585%25E3%2581%2584%25E7%2590%2586%25E7%2594%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:dameyodamedame%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly96ZW5uLWRldi5naXRodWIuaW8vZGVmYXVsdC1hdmF0YXJzL2RhcmsvZC5wbmc=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-07-06 10:22:40",
+    "ja_summary": "JavaScriptのメソッドチェインが遅い理由を、Rustとの比較を通じて解説。\nNode.jsで「Iterator Helpers」が利用可能になったことを受け、処理効率の差異を検証。\n言語間の実行モデルの違いから、パフォーマンス最適化の考え方を再整理する内容。"
+  },
+  {
+    "title": "dotfiles のススメ; mise と Renovate で開発環境を安全に最新に保つ編",
+    "link": "https://zenn.dev/himkt/articles/b811e1ea846f99",
+    "source": "Zenn Trends",
+    "published": "Sun, 05 Jul 2026 04:20:39 GMT",
+    "summary": "小ネタです。\n\n dotfiles リポジトリ\n私は自分の NixOS / macOS 用の設定ファイル群を GitHub で管理しています。NeoVim の設定から Claude Code の設定、そして OS の設定まで GitHub のリポジトリに置いておくことで、新しい端末のセットアップを素早く・楽にできるのでおすすめです。\nhttps://github.com/himkt/config\n\n mise-en-place\nツールの管理には mise を使っています。 mise はプロジェクトで利用するツールやタスクを管理するために利用されることが多い印象ですが、グローバルなツールの...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--9ZorNeA6--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:dotfiles%2520%25E3%2581%25AE%25E3%2582%25B9%25E3%2582%25B9%25E3%2583%25A1%253B%2520mise%2520%25E3%2581%25A8%2520Renovate%2520%25E3%2581%25A7%25E9%2596%258B%25E7%2599%25BA%25E7%2592%25B0%25E5%25A2%2583%25E3%2582%2592%25E5%25AE%2589%25E5%2585%25A8%25E3%2581%25AB%25E6%259C%2580%25E6%2596%25B0%25E3%2581%25AB%25E4%25BF%259D%25E3%2581%25A4%25E7%25B7%25A8%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:himkt%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2dQRmRRSEIxekpSaVVlSVA1VU1Pa0JyN1cxVW5VMEU4VEM4QnhiVE1jPXM5Ni1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-07-06 10:22:40",
+    "ja_summary": "・dotfilesで設定をGitHub管理すれば、端末の乗り換えやセットアップが劇的に高速化する。\n・ツール管理に「mise」を活用し、環境の一貫性を担保する。\n・Renovateによる自動更新を組み合わせ、開発環境を常に安全かつ最新の状態に保つ。"
+  },
+  {
+    "title": "正直に言う。お前のClaude Codeの使い方は間違っている",
+    "link": "https://qiita.com/tehito/items/356e5f1dba112a075be1",
+    "source": "Qiita (Popular)",
+    "published": "2026-06-25T22:43:35+09:00",
+    "summary": "「Claude Code、思ったより速くならないな」と感じているなら、原因はモデルでもプランでもない。**お前の使い方だ。**\n\nきつい言い方をして悪い。だが3ヶ月、毎日Claude Codeと殴り合いながらExpo + Supabase + Swiftネイティブの通話アプリを個人開発して、確信した。\n\n> 速くならない人間は、全員同じ7つのミスをしている。\n\nこの記事はポエムでも宣伝でもない。*",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYzODAxMzM3JTJGODg1YjIwODhlY2FkOTc4NDllMThkNjBhMTc4NDkxNjgyMTUxZjgzZSUyRnhfbGFyZ2UucG5nJTNGMTc4MTAwMjkyMT9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9YWI1ZTk2M2U2NmNlMzVjYzM1M2NkYjYxZDBlZDRmZTU%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Df248deb266070c4524731a5e3fb4e24c?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUU2JUFEJUEzJUU3JTlCJUI0JUUzJTgxJUFCJUU4JUE4JTgwJUUzJTgxJTg2JUUzJTgwJTgyJUUzJTgxJThBJUU1JTg5JThEJUUzJTgxJUFFQ2xhdWRlJTIwQ29kZSVFMyU4MSVBRSVFNCVCRCVCRiVFMyU4MSU4NCVFNiU5NiVCOSVFMyU4MSVBRiVFOSU5NiU5MyVFOSU4MSU5NSVFMyU4MSVBMyVFMyU4MSVBNiVFMyU4MSU4NCVFMyU4MiU4QiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTEwMDRjODc5ODYxMGJmODc2ZTRjZGUzZjZhNWJjNzk1&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDB0ZWhpdG8mdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz0yM2JlYWYwMTYwMzQwY2VlMDZiOTlmZjlhMTBjZDVjMg&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=35ce81ed6fbfbdc4773a37b80ca222a9",
+    "fetched_at": "2026-07-06 10:22:45",
+    "ja_summary": "・Claude Codeが速くならないのは、ツールではなく個人の使い方が原因である。\n・個人開発で得た知見に基づき、生産性を劇的に下げる「7つの共通ミス」を指摘する。\n・正しい活用術を習得することで、開発スピードを大幅に向上させるための実践ガイド。"
+  },
+  {
+    "title": "商業書籍の出版をCodexで爆速化するノウハウ",
+    "link": "https://qiita.com/minorun365/items/9059f26629e0976bc0e2",
+    "source": "Qiita (Popular)",
+    "published": "2026-06-21T20:55:41+09:00",
+    "summary": "私はこれまで、ありがたいことに複数の商業技術書を出版させてもらう機会に恵まれました。\n長年ライターをやっていたりするわけではなく、エンジニア業務の傍ら、半分趣味で2年ほど執筆を行なっています。\n\nhttps://www.amazon.co.jp/stores/author/B0D4VSWS9P\n\n元々Qiitaを書き慣れていて筆が速いというのもありますが、特にここ半年ほどは、Claude Code",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Ftech-festa-ogp-background-4b5015b2c518c7e6b9062a7c9f5f5e90.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYxNjMzODU2JTJGYzIyNmJjMzRhYzZjNDVhMjFmNWU1MTJkMWM3MmE2ZjA5NzQ5NDU3OCUyRnhfbGFyZ2UucG5nJTNGMTY5OTk1NDk3Nj9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9MTlhZDI4ODRkNmQ2MzEyNjMxZDJkNTBjOTZmOTA5ZjU%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYxZTIwZGI1ZTdlNDA3ZWFlN2I5NzBlYzk5OTg4MGRjOGMzY2MwZjY0JTJGb3JpZ2luYWwuanBnJTNGMTY2NzI3NDk2Mz9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz04OTI0NDcwMDk1MDMyZjUxYmZlNzE3ZjVkOGUzYmE3ZA%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3Dbb59006175a60e1b630ed499046d0424?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUU1JTk1JTg2JUU2JUE1JUFEJUU2JTlCJUI4JUU3JUIxJThEJUUzJTgxJUFFJUU1JTg3JUJBJUU3JTg5JTg4JUUzJTgyJTkyQ29kZXglRTMlODElQTclRTclODglODYlRTklODAlOUYlRTUlOEMlOTYlRTMlODElOTklRTMlODIlOEIlRTMlODMlOEUlRTMlODIlQTYlRTMlODMlOEYlRTMlODIlQTYmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyM0ZGRkZGRiZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz0zYmMwYWRjYTg3YmRkYzljOWM2NDM4YmE4YmM1MTkzZA&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBtaW5vcnVuMzY1JnR4dC1jb2xvcj0lMjNGRkZGRkYmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9NDNhZjg0MGViODE0MzBhMmQyODM2OGUyY2Y0NjIwMTY&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=S0RESeOCouOCuOODo-OCpOODq-mWi-eZuuOCu-ODs-OCv-ODvOagquW8j-S8muekvg&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%23FFFFFF&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=5a2d659a75805090f9b6b2d211df861a",
+    "fetched_at": "2026-07-06 10:22:47",
+    "ja_summary": "エンジニアが商業技術書を短期間で執筆するためのノウハウを公開。\nQiitaでの執筆経験に加え、AIツール「Claude Code」を活用することで執筆スピードを劇的に向上させた。\n具体的な活用手法と実績を提示し、効率的な書籍出版のプロセスを解説している。"
+  },
+  {
+    "title": "RAGを本当に使うために、処理段階ごとに優秀手法を整理してみた",
+    "link": "https://qiita.com/engchina/items/3060140b10a9a35021f4",
+    "source": "Qiita (Popular)",
+    "published": "2026-06-20T20:27:41+09:00",
+    "summary": "\n## 初めに\n\n最近、RAG の実装例はかなり増えました。\n\nDify、RAGFlow、LlamaIndex、LangChain、GraphRAG、LightRAG、Docling、Marker、Unstructured、RAG-Anything、ColPali、PageIndex、Ragas、AutoRAG、DSPy など、優秀な OSS / フレームワーク / 研究実装がたくさんあります。\n",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYzOTMyNzgxJTJGOTA5ODgyYWQ5YTcwNWVmZjI2ZmM5NDBmMzg0MzQwMWU3OWQyNjY4YyUyRnhfbGFyZ2UucG5nJTNGMTc2OTAzODc0OD9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NjlhZjBhYTliMGQ4ZGI2ODU0N2Q1MmJiNzIxZjNhOWQ%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYzMDk1NWZhN2YwMzlhODVjNDQ5ZmY0ODBhMmE3ZGJjNWQ5ZmY1YWIwJTJGb3JpZ2luYWwuanBnJTNGMTQ1MjE0NTY4Mz9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz0xOTg4ZGUxMGZjNzNiMDdiMDBhNTQzZjdkYWZjODJmMg%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3Db3daa221c0818ddefc40c67fb4514088?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9UkFHJUUzJTgyJTkyJUU2JTlDJUFDJUU1JUJEJTkzJUUzJTgxJUFCJUU0JUJEJUJGJUUzJTgxJTg2JUUzJTgxJTlGJUUzJTgyJTgxJUUzJTgxJUFCJUUzJTgwJTgxJUU1JTg3JUE2JUU3JTkwJTg2JUU2JUFFJUI1JUU5JTlBJThFJUUzJTgxJTk0JUUzJTgxJUE4JUUzJTgxJUFCJUU1JTg0JUFBJUU3JUE3JTgwJUU2JTg5JThCJUU2JUIzJTk1JUUzJTgyJTkyJUU2JTk1JUI0JUU3JTkwJTg2JUUzJTgxJTk3JUUzJTgxJUE2JUUzJTgxJUJGJUUzJTgxJTlGJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9Zjg2OTljNzg0NzA0MDM0YTU3MGIzOTM1YmY5YzNlMTY&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBlbmdjaGluYSZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWJjNzFmYTUzNmUwM2I1OWMzMmYzZjlmMDM3ZTI5MTcz&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=5pel5pys44Kq44Op44Kv44Or5qCq5byP5Lya56S-&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=86398ef9914c0fccc8c84ff5e1992b6e",
+    "fetched_at": "2026-07-06 10:22:47",
+    "ja_summary": "RAGの活用が広がる中、多種多様なツールやフレームワークが登場しています。\n本記事は、各処理段階に応じた最適な手法を整理し、実務で使えるRAG構築の指針を提示しています。\n多様な技術の中から目的や状況に合わせて、適切な技術選定を行うためのガイドラインです。"
+  },
+  {
     "title": "162円のライン突破した円相場　通貨当局は「覆面介入」しているのか (上野泰也の先読みマーケット)",
     "link": "https://business.nikkei.com/atcl/seminar/19/00122/00288/",
     "source": "日経ビジネス 最新",
@@ -928,75 +998,5 @@
     "image": "https://images.ctfassets.net/kftzwdyauwt9/27SeSwGzXJ8BQXlEobHQIG/6cd70adfdfd93e9ba1b41bc38e0f01be/HP-16_9.png?w=1600&amp;h=900&amp;fit=fill",
     "fetched_at": "2026-07-04 01:44:38",
     "ja_summary": "・HPがOpenAIと戦略的パートナーシップを締結。\n・顧客体験、ソフト開発、社内業務の全域でAI導入を加速。\n・生成AIの活用により、HPのサービスと事業運営の効率化を図る。"
-  },
-  {
-    "title": "Anthropic opens Seoul office and announces new partnerships across the Korean AI ecosystem",
-    "link": "https://www.anthropic.com/news/seoul-office-partnerships-korean-ai-ecosystem",
-    "source": "Anthropic (News)",
-    "published": "Wed, 17 Jun 2026 00:00:00 +0000",
-    "summary": "Anthropic opens Seoul office and announces new partnerships across the Korean AI ecosystem",
-    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20Globe&amp;backgroundColor=heather",
-    "fetched_at": "2026-07-04 01:44:50",
-    "ja_summary": "・AI企業Anthropicがソウルに拠点を設立し、韓国市場へ本格参入。\n・現地のAIエコシステムと連携し、韓国企業とのパートナーシップを強化。\n・韓国市場におけるAI開発とサービス展開を加速させる狙い。"
-  },
-  {
-    "title": "キャッチアップしないと不安。── AI時代のエンジニアが罹る病 「FOMO」 と付き合う。",
-    "link": "https://qiita.com/tomoki-miso/items/8290227346c099e84b1c",
-    "source": "Qiita (Popular)",
-    "published": "2026-06-22T18:36:07+09:00",
-    "summary": "## その気持ち、FOMO かも\n\n毎日、毎時間、何かが出る。\n新しいモデル、新しいフレームワーク。\n誰かの「これ知らないとヤバい」。\nタイムラインを開くたびに、自分が少しずつ取り残されていく感覚がある。\n\nこの感情には名前が付いている。\n**FOMO ── Fear of Missing Out**。つまり、取り残される恐怖。\n\n正直に言うと、最近これがずっとつらい。\n追いつこうとするほど、追い",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Ftech-festa-ogp-background-4b5015b2c518c7e6b9062a7c9f5f5e90.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGNDI3NjIxOCUyRnByb2ZpbGUtaW1hZ2VzJTJGMTc2NDY0MDE5Mz9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9ZjM4M2Q0MDViYTk5NTE2MDgwMmRjMGI3YzE3OTc4MjE%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkZhZWZkYTJjNWM0YTM5MTI1ZDg2NDk2ZjY2YzRlM2E5ZTc0MGM2NzQ0JTJGb3JpZ2luYWwuanBnJTNGMTc2NDA2OTQ4Nz9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz0wZjhiYzQ2YjY3MTZkNTc5OTEzYWE0ODk0MTgyMWU0MQ%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D791f252db911012556b61824e0d5aae0?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgyJUFEJUUzJTgzJUEzJUUzJTgzJTgzJUUzJTgzJTgxJUUzJTgyJUEyJUUzJTgzJTgzJUUzJTgzJTk3JUUzJTgxJTk3JUUzJTgxJUFBJUUzJTgxJTg0JUUzJTgxJUE4JUU0JUI4JThEJUU1JUFFJTg5JUUzJTgwJTgyJUUyJTk0JTgwJUUyJTk0JTgwJTIwQUklRTYlOTklODIlRTQlQkIlQTMlRTMlODElQUUlRTMlODIlQTglRTMlODMlQjMlRTMlODIlQjglRTMlODMlOEIlRTMlODIlQTIlRTMlODElOEMlRTclQkQlQjklRTMlODIlOEIlRTclOTclODUlMjAlRTMlODAlOENGT01PJUUzJTgwJThEJTIwJUUzJTgxJUE4JUU0JUJCJTk4JUUzJTgxJThEJUU1JTkwJTg4JUUzJTgxJTg2JUUzJTgwJTgyJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjNGRkZGRkYmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9OTQ4MDI3MDk4ZjM3ZGQxMWY3Y2I5Mzc5NDQzZmRjNWQ&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDB0b21va2ktbWlzbyZ0eHQtY29sb3I9JTIzRkZGRkZGJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTIzMjRiNGU5MzUzYTU5MTcyZDk1MzM1NzA1ZWUyOTMy&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=5qCq5byP5Lya56S-44OJ44OD44OI44Ot44Kw&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%23FFFFFF&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=8901647fa8d38139b4efbc96f934b263",
-    "fetched_at": "2026-07-04 01:44:54",
-    "ja_summary": "AI技術の進化が速すぎて取り残される不安（FOMO）を感じるエンジニアが増えている。\n次々と登場する新技術をすべて追うのは不可能であり、精神的な負荷となっている。\n焦燥感と適切に向き合い、自分に必要な情報を見極めるマインドセットが重要である。"
-  },
-  {
-    "title": "会話から行動へ　15周年のLINEが目指す「ホーム」進化と「日常AI」",
-    "link": "https://www.watch.impress.co.jp/docs/news/2121989.html",
-    "source": "Impress Watch",
-    "published": "",
-    "summary": "LINEヤフーは2日、「LINE」のサービス開始15周年を記念した発表会「LINE 15th Anniversary Event -Connect the Next-」を開催した。LINEとPayPayのアカウント連携の開始や、LINEからPayPay送金、新エージェント機能「Agent i in chat」、「LYPプレミアム」の新プランなどを発表したほか、「会話」から「行動」につなげる新たなLINEの取り組みを紹介した。",
-    "image": "https://www.watch.impress.co.jp/img/ipw/list/2121/989/line00.jpg",
-    "fetched_at": "2026-07-04 00:02:55",
-    "ja_summary": "・LINEが15周年を迎え、PayPayとの連携強化により「会話から行動へ」つなげる新機能を発表。\n・LINE上でのPayPay送金や新AIエージェント機能、LYPプレミアムの新プランなどを導入。\n・サービスを「日常AI」へと進化させ、ユーザーの利便性と生活支援の向上を図る。"
-  },
-  {
-    "title": "LINE、トークルームで話してカレンダー登録　「行動」する新エージェント",
-    "link": "https://www.watch.impress.co.jp/docs/news/2121879.html",
-    "source": "Impress Watch",
-    "published": "",
-    "summary": "LINEヤフーは、LINEのトークルームでAIエージェント「Agent i」を呼び出して、質問の回答やタスク管理を支援する新機能「Agent i in Chat」を発表した。26年内の提供開始を予定している。",
-    "image": "https://www.watch.impress.co.jp/img/ipw/list/2121/879/ai02.jpg",
-    "fetched_at": "2026-07-04 00:02:56",
-    "ja_summary": "・LINEでAIエージェント「Agent i」が利用可能に\n・会話内容からタスク管理やカレンダー登録を自動化\n・2026年内のサービス提供開始を予定"
-  },
-  {
-    "title": "Snowflakeの開発にCoCo(旧Cortex Code)をおすすめする理由",
-    "link": "https://zenn.dev/dataheroes/articles/why-coco-for-snowflake-dev",
-    "source": "Zenn Trends",
-    "published": "Fri, 03 Jul 2026 05:22:27 GMT",
-    "summary": "この記事について\nCoCo（旧Cortex Code）は使えば便利なのに、汎用のコーディングエージェントと何が違うのかがあまり知られていないと感じています。もったいないので、実際に使っている立場から整理してみます。特に以下の疑問を持っている人に向けて書いています。\n\n使い慣れたコーディングエージェントがあるのに、わざわざCoCoを使う理由がわからない\n汎用のコーディングエージェントはサブスク定額なのに対して、CoCoは従量課金。費用対効果が合うのか不安\n結局同じ汎用モデル（Claude等）が裏で動いているなら、別にCoCoじゃなくてよくないか\nSnowflakeの知識なんてAGENT...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--NFZODYeG--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Snowflake%25E3%2581%25AE%25E9%2596%258B%25E7%2599%25BA%25E3%2581%25ABCoCo%2528%25E6%2597%25A7Cortex%2520Code%2529%25E3%2582%2592%25E3%2581%258A%25E3%2581%2599%25E3%2581%2599%25E3%2582%2581%25E3%2581%2599%25E3%2582%258B%25E7%2590%2586%25E7%2594%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E3%2581%25BA%25E3%2581%2584%2528pei0804%2529%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzUxNDFkYTVlNTUuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Snowflake%2520Data%2520Heroes%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzViZTM2ZTM2MTMuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "fetched_at": "2026-07-04 00:03:20",
-    "ja_summary": "・CoCoはSnowflake環境に特化したコーディングエージェントであり、汎用AIにはないSnowflakeのメタデータや構成の深い理解が強み。\n・汎用AIと異なり、Snowflake内での作業に最適化されているため、コードの正確性と開発効率が大幅に向上する。\n・従量課金制かつ専用機能による時短効果により、Snowflakeユーザーにとっては高い費用対効果が期待できる。"
-  },
-  {
-    "title": "Claude Fable 5 が使えるうちに Agent SOP を導入して整備させる",
-    "link": "https://zenn.dev/ryu1maniwa25/articles/fable5-agent-sop-setup",
-    "source": "Zenn Trends",
-    "published": "Thu, 02 Jul 2026 22:41:43 GMT",
-    "summary": "はじめに\nClaude Fable 5 が復活しましたね。皆さん使ってみましたでしょうか。\n\n筆者も Claude Code で使ってみましたが、明確に指示していないことでも適切な判断で進めてくれるため、使っていてとても気持ちが良かったです。\nただ、サブスクプランで使えるのは 2026 年 7 月 7 日 (太平洋時間) まで、しかも週間利用上限の 50% までです。実際、筆者の環境では軽く使っただけで 5 時間あたりの制限の半分が消費されました。この記事を読まれている方の中には、既に利用制限が来てしまい使えなくなってしまった方がいるかもしれません。\nこの限られた枠で何をやらせるかが...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--zmzG7ZE7--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Fable%25205%2520%25E3%2581%258C%25E4%25BD%25BF%25E3%2581%2588%25E3%2582%258B%25E3%2581%2586%25E3%2581%25A1%25E3%2581%25AB%2520Agent%2520SOP%2520%25E3%2582%2592%25E5%25B0%258E%25E5%2585%25A5%25E3%2581%2597%25E3%2581%25A6%25E6%2595%25B4%25E5%2582%2599%25E3%2581%2595%25E3%2581%259B%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:ryu1maniwa%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzFiZjc2NTZiY2IuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "fetched_at": "2026-07-04 00:03:21",
-    "ja_summary": "高性能な「Claude Fable 5」は利用期限と回数制限があるため、無駄なく活用すべきである。\n単なる作業代行ではなく、業務手順書（SOP）を導入・整備させることが重要。\n限られたリソースを最大限活かし、AIによる業務効率化を仕組み化するべきである。"
-  },
-  {
-    "title": "Fable 5をトークン破産させずに使い倒す — オーケストレーターに徹させる運用",
-    "link": "https://zenn.dev/yui/articles/740da24e9ee419",
-    "source": "Zenn Trends",
-    "published": "Thu, 02 Jul 2026 22:24:25 GMT",
-    "summary": "はじめに\nClaude Fable 5、今までのモデルと比べても頭ひとつ飛び出るぐらい賢いですよね。\n以前出た時にすぐメインモデルに設定して、実装からデバッグから雑務まで全部やらせた結果、トークンが凄い勢いで食われていくので対策しました。\nFable 5 の賢さは活かしつつトークンは食わせないようにオーケストレーターに徹させる運用に切り替えた結果、Fable の消費がはっきり減り、しかも長時間セッションでの判断のブレが減りました。その構成と、それを1コマンドで組む方法を共有します。\n\n なぜオーケストレーション設定が必要なのか\nClaude Codeはもちろんオーケストレーション設定...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--RIKtd41h--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Fable%25205%25E3%2582%2592%25E3%2583%2588%25E3%2583%25BC%25E3%2582%25AF%25E3%2583%25B3%25E7%25A0%25B4%25E7%2594%25A3%25E3%2581%2595%25E3%2581%259B%25E3%2581%259A%25E3%2581%25AB%25E4%25BD%25BF%25E3%2581%2584%25E5%2580%2592%25E3%2581%2599%2520%25E2%2580%2594%2520%25E3%2582%25AA%25E3%2583%25BC%25E3%2582%25B1%25E3%2582%25B9%25E3%2583%2588%25E3%2583%25AC%25E3%2583%25BC%25E3%2582%25BF%25E3%2583%25BC%25E3%2581%25AB%25E5%25BE%25B9%25E3%2581%2595%25E3%2581%259B%25E3%2582%258B%25E9%2581%258B%25E7%2594%25A8%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:yui%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzVjMGIyNzFhZWUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "fetched_at": "2026-07-04 00:03:21",
-    "ja_summary": "・Claude 3.5 Sonnet（Fable 5）を直接作業させるのではなく、判断を行う「オーケストレーター」に徹させることで、トークン消費を大幅に削減。\n・複雑な実装やデバッグは他のモデルに任せ、上位モデルは指示や方針決定に集中させることで、長時間セッションでの精度の安定も実現。\n・この効率的な運用構成を、1コマンドで即座に構築できる環境を共有。"
   }
 ]
