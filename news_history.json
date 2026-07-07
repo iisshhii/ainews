@@ -1,5 +1,95 @@
 [
   {
+    "title": "SHIFT採用停止の狙い／富士山降灰リスクへの備え／広がるPFAS規制対応（2026年7月8日版） (日経ビジネスAUDIOモーニング)",
+    "link": "https://business.nikkei.com/atcl/audio/22/00001/070700913/",
+    "source": "日経ビジネス 最新",
+    "published": "",
+    "summary": "SHIFT、440人の採用ストップ　新卒はAI活用で10年分スキルを1年で習得／キヤノンMJ「予兆で幹部は避難」　富士山降灰リスク、備えは4分の１止まり／［新連載］マクドナルド、紙製バッグ切り替え　包装から半導体まで広がるPFAS規制対応、他",
+    "image": "https://business.nikkei.com/atcl/audio/22/00001/070700913/fb.jpg",
+    "fetched_at": "2026-07-08 05:21:34",
+    "ja_summary": "・SHIFTが採用を440人停止し、AI活用による新人育成の超速化へ舵を切る。\n・富士山噴火の降灰リスクに対し、企業側の備えは4分の1にとどまる現状が浮き彫りに。\n・マクドナルドの紙製バッグ切り替えなど、包装材まで拡大するPFAS規制への対応が急務。"
+  },
+  {
+    "title": "SHIFT、440人の採用ストップ　新卒はAI活用で10年分スキルを1年で習得 (AIに淘汰されるな)",
+    "link": "https://business.nikkei.com/atcl/gen/19/00898/063000006/",
+    "source": "日経ビジネス 最新",
+    "published": "",
+    "summary": "AIはコーディングや不具合の検知まで担うようになってきた。大量採用を強みとしてきたSHIFTは募集を減らし、求めるスキルも変えた。存在感を高める職種も生まれる中、人材戦略の見直しは待ったなしだ。",
+    "image": "https://business.nikkei.com/atcl/gen/19/00898/063000006/fb.jpg",
+    "fetched_at": "2026-07-08 05:21:35",
+    "ja_summary": "・SHIFTがAI活用による業務効率化に伴い、大量採用から方針を転換し440人の募集を停止。\n・新卒にはAIを使いこなす能力を求め、10年分のスキルを1年で習得させる教育へシフト。\n・AIの台頭で仕事の役割が激変する中、企業には従来型の採用戦略の見直しが不可欠となっている。"
+  },
+  {
+    "title": "LLMがLED点灯パターンを生成、電子回路と組み合わせる",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03638/060900003/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "Raspberry Piの特徴の一つは、LEDやセンサーなどの電子部品を接続して制御できることです。そこで、LLM-8850 Cardと、LLM（Qwen3-1.7B）、電子部品を組み合わせてみましょう。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03638/060900003/topm.jpg?20220512",
+    "fetched_at": "2026-07-08 05:21:39",
+    "ja_summary": "・Raspberry PiとLLMを組み合わせ、電子部品の制御を試みる。\n・Qwen3-1.7Bモデルを活用し、LEDの点灯パターンをAIが生成。\n・LLMを用いたハードウェア制御の可能性を検証する。"
+  },
+  {
+    "title": "「AI駆動型ワーム」の脅威　自律的に脆弱性を見つけて感染、特定率は8割超",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00676/070100228/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "大きな被害をもたらしてきたサイバー攻撃の1つが「ワーム」である。ワームは、特定の脆弱性を悪用して感染を広げるので、その脆弱性を修正すれば感染拡大を阻止できる。だが、AIを使って自律的に脆弱性を探すワームが開発された。どのようなワームなのだろうか。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/00676/070100228/topm.jpg?20220512",
+    "fetched_at": "2026-07-08 05:21:40",
+    "ja_summary": "・AIが自律的に脆弱性を探し出し、感染を広げる新型ワームが出現した。\n・従来の対策をすり抜ける可能性があり、高い特定率で攻撃を行う。\n・既存の防御モデルを脅かす新たなサイバー攻撃のリスクとして警戒が必要。"
+  },
+  {
+    "title": "DMG森が工作機械向けフィジカルAI開発へ、100TBのデータ収集目指す",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03352/070500019/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "DMG森精機が、工作機械向けフィジカルAIの開発に向けて動き出した。産業技術総合研究所（産総研）と組み、工作機械を主体とする生産設備データエコシステムを構築。ここで収集した大規模データを基に異常検知AIや品質予想AIなどの高度なAIを造るほか、工作機械向けフィジカルAIモデルの開発を目指す。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03352/070500019/topm.jpg?20220512",
+    "fetched_at": "2026-07-08 05:21:41",
+    "ja_summary": "・DMG森精機が産総研と組み、工作機械向け「フィジカルAI」の開発に着手。\n・100TB規模のデータを収集し、異常検知や品質予測の高度化を目指す。\n・生産設備のデータエコシステムを構築し、次世代の製造AI技術を確立する。"
+  },
+  {
+    "title": "AI武装で「財務経理部」が経営参謀に　富士通はデータ統合で業績先読み",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03604/070600009/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "お金という経営資源をどう扱うかは企業の成長戦略の要だ。数字をつかさどる財務経理部門の役割は、会社の現在地を示すことにとどまらない。膨大なデータから機会や変調をいち早く捉え、経営に先手を促す。人工知能（AI）を携えることで、こんな高度な機能を磨きつつある。不適切会計が相次ぐ中で、経理の信頼性を高める「AI監査」も広がってきた。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03604/070600009/fb.jpg?20220512",
+    "fetched_at": "2026-07-08 05:21:42",
+    "ja_summary": "・財務経理部門はAIを活用し、単なる集計役から経営の先行きを予測する「経営参謀」へと進化している。\n・膨大なデータからリスクや機会をいち早く察知し、経営判断を高度化させる役割が期待されている。\n・AI監査の導入により、経理業務の正確性と信頼性を高める動きも加速している。"
+  },
+  {
+    "title": "ムーンショット新PD國吉氏、米中にない「発達認知ロボティクス」を切り札に",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03538/062300008/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "ムーンショット型研究開発事業のプログラム・ディレクターに就任した東京大学教授の國吉康夫氏は、40年にわたり研究を続けてきた身体性発達認知ロボティクスの知見を生かしつつ、社会で人と共生できるAIヒューマノイドの完成を狙う。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03538/062300008/LLM2_08_sns.jpg?20220512",
+    "fetched_at": "2026-07-08 05:21:42",
+    "ja_summary": "・國吉康夫氏がムーンショット型研究開発のPDに就任。\n・40年の研究実績を持つ「身体性発達認知ロボティクス」を核に据える。\n・社会で人間と共生可能なAIヒューマノイドの実現を目指す。"
+  },
+  {
+    "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
+    "link": "https://openai.com/index/australian-payments-plus",
+    "source": "OpenAI",
+    "published": "Tue, 07 Jul 2026 00:00:00 GMT",
+    "summary": "See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity. AP+ saves time, improves quality, and keeps human judgment central.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/4dOzo0MCH8IYZpHDieNgbg/8c27d9ee088b65ed45bef5a097c800e6/oai_Australian_Payments_Plus_1x1.png?w=1600&amp;h=900&amp;fit=fill",
+    "fetched_at": "2026-07-08 05:22:02",
+    "ja_summary": "・豪決済大手AP+がChatGPT EnterpriseとCodexを導入\n・決済システムの複雑な開発プロセスを効率化し、開発速度と品質を向上\n・AIを活用しつつも、意思決定には人間の判断を介在させる体制を維持"
+  },
+  {
+    "title": "Core dump epidemiology: fixing an 18-year-old bug",
+    "link": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
+    "source": "OpenAI",
+    "published": "Tue, 30 Jun 2026 00:00:00 GMT",
+    "summary": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/6q0IdzKwG7IjuMl4cLWzIy/7e4d7c42d2961b1432fc3909cb2c68d2/Rockset___SEO_card__1_.png?w=1600&amp;h=900&amp;fit=fill",
+    "fetched_at": "2026-07-08 05:22:03",
+    "ja_summary": "・OpenAIが大規模なコアダンプ解析を実施し、発生頻度の低いインフラ障害を調査。\n・ハードウェアの故障と、18年間放置されていたソフトウェアのバグを特定。\n・徹底的なデータ解析により、長年未解決だったシステムの根源的な問題を解消。"
+  },
+  {
     "title": "Claude Science, an AI workbench for scientists, is now available",
     "link": "https://www.anthropic.com/news/claude-science-ai-workbench",
     "source": "Anthropic (News)",
@@ -908,95 +998,5 @@
     "image": "https://business.nikkei.com/atcl/gen/19/00898/063000004/fb.jpg",
     "fetched_at": "2026-07-07 05:33:12",
     "ja_summary": "・AIはSaaSを駆逐せず、むしろ「AI執事」としての付加価値を高め、飛躍の機会を生む。\n・SaaS企業が生き残るには、従来のビジネスモデルからの方向転換（覚醒）が不可欠。\n・AIを脅威ではなく「価値増幅」の武器として取り込むことが成長の鍵となる。"
-  },
-  {
-    "title": "人気LLM「Qwen3」を起動、動作する主なモデルを押さえる",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03638/060900002/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "ここからはLLMの話に入ります。まずラズパイ5＋LLM-8850 CardでどのようなLLMのモデルが動くのかを確認しましょう。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03638/060900002/topm.jpg?20220512",
-    "fetched_at": "2026-07-07 05:33:15",
-    "ja_summary": "・ラズパイ5とLLM-8850カードを用いて動作するLLMの検証を実施\n・最新の「Qwen3」を含め、実行可能な主要モデルを確認する内容"
-  },
-  {
-    "title": "OpenClawは「自分をよく分かっている友人」、人間の価値観も可視化",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00138/070302064/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "「例えるならば、自分のことをよく分かっている友人」。KDDIアジャイル開発センター（KAG）の近藤悠斗ソフトウェアエンジニアは、プライベートで自ら開発し活用しているAIエージェントについてこう表現する。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/00138/070302064/topm.jpg?20220512",
-    "fetched_at": "2026-07-07 05:33:15",
-    "ja_summary": "・KDDIのエンジニアが、個人の価値観や性格を深く理解するAIエージェント「OpenClaw」を開発。\n・単なる作業ツールではなく、自分の思考や価値観を整理・可視化してくれる「親友のような存在」として活用。"
-  },
-  {
-    "title": "AirDropは写真だけじゃない、iPhoneとMacでWebページやPDFも共有",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03607/061000005/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "AirDropは手軽な共有機能として広く知られているが、近年は使い方や仕組みが一段と進化している。「iPhone」を「Mac」のカメラとして使う連係カメラも含め、その活用法を紹介する。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03607/061000005/topm.jpg?20220512",
-    "fetched_at": "2026-07-07 05:33:16",
-    "ja_summary": "・AirDropは写真以外にWebページやPDFなどの共有にも活用可能。\n・iPhoneをMacのWebカメラにするなど、デバイス間の連携機能が進化している。\n・Apple製品同士のシームレスな共有・連携により作業効率を向上できる。"
-  },
-  {
-    "title": "パナソニック、AIがレシピ考え自動調理　寄り添って「楽しさ持続」",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11865/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "パナソニックが調理家電への人工知能（AI）活用に力を入れている。スマートフォンアプリ上で対話（チャット）型AIが献立を提案したり、調理機器に加熱温度などの設定を送ったりして調理を助ける。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11865/topm.jpg?20220512",
-    "fetched_at": "2026-07-07 05:33:16",
-    "ja_summary": "・パナソニックがAIを活用した調理サポート機能を強化\n・スマホアプリの対話型AIが献立提案から調理設定まで自動化\n・家事負担を軽減し、料理の楽しさを継続させる体験を提供"
-  },
-  {
-    "title": "AIでシールド機を自動運転、大成建設　鹿児島県のトンネルで初適用",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00107/00274/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "大成建設は鹿児島東西道路のトンネル工事の一部で、AI（人工知能）を活用したシールド機の自動運転技術を初めて適用した。過去の施工データをAIに学習させ、シールド機の掘進方向を自動で制御。オペレーターによる手動操作を上回る精度の掘進を実現した。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/00107/00274/SNS.jpg?20220512",
-    "fetched_at": "2026-07-07 05:33:17",
-    "ja_summary": "・大成建設が鹿児島県のトンネル工事で、AIによるシールド機の自動運転を初適用。\n・過去のデータを学習したAIが掘進方向を自動制御。\n・手動操作を上回る高精度な施工を実現した。"
-  },
-  {
-    "title": "ついにClaude Fable 5が復帰。復活祭は7月7日までで、以降はサブスク勢も追加課金が必要に（CloseBox）",
-    "link": "https://www.techno-edge.net/article/2026/07/02/5243.html",
-    "source": "TechnoEdge",
-    "published": "Thu, 02 Jul 2026 06:11:11 +0900",
-    "summary": "一般ユーザーが使える、現時点で最高峰のフロンティアAIであるClaude Fable 5が帰ってきました。",
-    "image": "https://www.techno-edge.net/imgs/rss/32676.png",
-    "fetched_at": "2026-07-07 05:33:30",
-    "ja_summary": "・最高峰のAI「Claude Fable 5」が提供を再開。\n・7月7日までの期間限定で無料利用が可能。\n・以降はサブスク会員であっても追加課金が必要となる。"
-  },
-  {
-    "title": "How ChatGPT adoption has expanded",
-    "link": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
-    "source": "OpenAI",
-    "published": "Tue, 30 Jun 2026 09:00:00 GMT",
-    "summary": "New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages.",
-    "image": "https://images.ctfassets.net/kftzwdyauwt9/7pYrohTaJusmMwISBrPGF3/8d3e678444d2b6a22ba62085b9a3bb8b/Frame-1.png?w=1600&amp;h=900&amp;fit=fill",
-    "fetched_at": "2026-07-07 05:33:32",
-    "ja_summary": "・ChatGPTの利用が世界規模で拡大し、ユーザーの利用頻度や活用機能の幅が向上。\n・特定の地域や言語に留まらず、全方位で成長が加速している。\n・OpenAIの最新データにより、世界的な普及と利活用の深化が裏付けられた。"
-  },
-  {
-    "title": "Government of Alberta uses Claude to find and fix cybersecurity vulnerabilities across government systems",
-    "link": "https://www.anthropic.com/news/alberta-government-claude-cybersecurity",
-    "source": "Anthropic (News)",
-    "published": "Mon, 06 Jul 2026 00:00:00 +0000",
-    "summary": "Government of Alberta uses Claude to find and fix cybersecurity vulnerabilities across government systems",
-    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object-LaptopSecure&amp;backgroundColor=sky",
-    "fetched_at": "2026-07-07 05:33:38",
-    "ja_summary": "アルバータ州政府が政府システムの脆弱性対策に生成AI「Claude」を導入。\nセキュリティ上の欠陥を迅速に特定し、修正プロセスを効率化する。\n行政サービスの安全性を高め、サイバー脅威に対する防御体制を強化する。"
-  },
-  {
-    "title": "Introducing GeneBench-Pro",
-    "link": "https://openai.com/index/introducing-genebench-pro",
-    "source": "OpenAI",
-    "published": "Tue, 30 Jun 2026 00:00:00 GMT",
-    "summary": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.",
-    "image": "https://images.ctfassets.net/kftzwdyauwt9/6ISCsbFZAwfE8rca32ZXSt/7958029f06d5bf872217476430f12549/GenebenchPro_Blog_SEO.png?w=1600&amp;h=900&amp;fit=fill",
-    "fetched_at": "2026-07-07 03:32:24",
-    "ja_summary": "・AIのゲノム・生物学分野における推論能力を測定する新ベンチマーク「GeneBench-Pro」が登場。\n・実際の複雑な科学研究データを用いることで、実用的なAI性能の評価が可能に。\n・科学研究の高度化やライフサイエンス領域でのAI活用を支援。"
   }
 ]
