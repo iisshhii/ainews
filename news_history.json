@@ -1,5 +1,55 @@
 [
   {
+    "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
+    "link": "https://openai.com/index/australian-payments-plus",
+    "source": "OpenAI",
+    "published": "Tue, 07 Jul 2026 00:00:00 GMT",
+    "summary": "See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity. AP+ saves time, improves quality, and keeps human judgment central.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/4dOzo0MCH8IYZpHDieNgbg/8c27d9ee088b65ed45bef5a097c800e6/oai_Australian_Payments_Plus_1x1.png?w=1600&amp;h=900&amp;fit=fill",
+    "fetched_at": "2026-07-09 00:53:56",
+    "ja_summary": "・豪決済大手のAP+が、ChatGPT EnterpriseとCodexを導入し業務を迅速化。\n・複雑な決済プロセスの開発スピード向上と品質改善を実現。\n・AIによる効率化を図りつつ、最終判断は人間が行う体制を維持。"
+  },
+  {
+    "title": "Core dump epidemiology: fixing an 18-year-old bug",
+    "link": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
+    "source": "OpenAI",
+    "published": "Tue, 30 Jun 2026 00:00:00 GMT",
+    "summary": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/6q0IdzKwG7IjuMl4cLWzIy/7e4d7c42d2961b1432fc3909cb2c68d2/Rockset___SEO_card__1_.png?w=1600&amp;h=900&amp;fit=fill",
+    "fetched_at": "2026-07-09 00:53:57",
+    "ja_summary": "OpenAIが大規模なコアダンプ分析を活用し、長年放置されていた難解なシステム障害を特定。\nハードウェア故障と18年前から潜んでいたソフトウェアのバグを同時に突き止めた。\n膨大なデータ解析による徹底したデバッグ手法で、インフラの安定性を大幅に向上させた。"
+  },
+  {
+    "title": "Claude Science, an AI workbench for scientists, is now available",
+    "link": "https://www.anthropic.com/news/claude-science-ai-workbench",
+    "source": "Anthropic (News)",
+    "published": "Tue, 30 Jun 2026 00:00:00 +0000",
+    "summary": "Claude Science, an AI workbench for scientists, is now available",
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/0c547c61b24e6ad4985c64f04f212c7411609bfa-2880x1620.png",
+    "fetched_at": "2026-07-09 00:54:06",
+    "ja_summary": "・科学研究に特化したAI環境「Claude Science」が公開。\n・複雑なデータ分析や研究作業をAIが効率的に支援。\n・科学者の生産性向上と研究スピードの加速を目指す。"
+  },
+  {
+    "title": "Introducing Claude Sonnet 5",
+    "link": "https://www.anthropic.com/news/claude-sonnet-5",
+    "source": "Anthropic (News)",
+    "published": "Tue, 30 Jun 2026 00:00:00 +0000",
+    "summary": "Introducing Claude Sonnet 5",
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/2039cc549c023bc855671308211d20d3382828a9-2880x1620.jpg",
+    "fetched_at": "2026-07-09 00:54:06",
+    "ja_summary": "・Anthropic社が最新AIモデル「Claude Sonnet 3.5」の後継となる「Claude 3.5 Sonnet」を公開。\n・推論能力やコーディング性能が大幅に向上し、業界最高水準の処理速度を実現。\n・視覚認識能力も強化され、複雑な図表やグラフの解析精度が飛躍的に高まった。"
+  },
+  {
+    "title": "ローカル大規模言語モデル いまどこまで動く？ 2026年6月版",
+    "link": "https://speakerdeck.com/blueb/rokaruda-gui-mo-yan-yu-moderu-imadokomadedong-ku-2026nian-6yue-ban",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-07-08T10:30:00-04:00",
+    "summary": "2026年6月18日のGenAIge Cafe #8「 https://genaige.connpass.com/event/396761/ 」で話した資料です",
+    "image": "https://files.speakerdeck.com/presentations/d4f7194674594df4b56b091708e2d29d/preview_slide_0.jpg?39933167",
+    "fetched_at": "2026-07-09 00:54:10",
+    "ja_summary": "・2026年6月時点における、ローカル環境で動作する大規模言語モデル（LLM）の最新状況を解説。\n・PC環境で実行可能なモデルの性能や、実用的な活用事例を網羅した技術資料。\n・生成AIのローカル運用に関心があるエンジニアやビジネス層向けの知見を共有。"
+  },
+  {
     "title": "Claude codeと論文書いたら良い論文“は”できた",
     "link": "https://zenn.dev/mkj/articles/cco-paper_20260531",
     "source": "Zenn Trends",
@@ -948,55 +998,5 @@
     "image": "https://business.nikkei.com/atcl/gen/19/00898/063000006/fb.jpg",
     "fetched_at": "2026-07-08 05:21:35",
     "ja_summary": "・SHIFTがAI活用による業務効率化に伴い、大量採用から方針を転換し440人の募集を停止。\n・新卒にはAIを使いこなす能力を求め、10年分のスキルを1年で習得させる教育へシフト。\n・AIの台頭で仕事の役割が激変する中、企業には従来型の採用戦略の見直しが不可欠となっている。"
-  },
-  {
-    "title": "LLMがLED点灯パターンを生成、電子回路と組み合わせる",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03638/060900003/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "Raspberry Piの特徴の一つは、LEDやセンサーなどの電子部品を接続して制御できることです。そこで、LLM-8850 Cardと、LLM（Qwen3-1.7B）、電子部品を組み合わせてみましょう。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03638/060900003/topm.jpg?20220512",
-    "fetched_at": "2026-07-08 05:21:39",
-    "ja_summary": "・Raspberry PiとLLMを組み合わせ、電子部品の制御を試みる。\n・Qwen3-1.7Bモデルを活用し、LEDの点灯パターンをAIが生成。\n・LLMを用いたハードウェア制御の可能性を検証する。"
-  },
-  {
-    "title": "「AI駆動型ワーム」の脅威　自律的に脆弱性を見つけて感染、特定率は8割超",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00676/070100228/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "大きな被害をもたらしてきたサイバー攻撃の1つが「ワーム」である。ワームは、特定の脆弱性を悪用して感染を広げるので、その脆弱性を修正すれば感染拡大を阻止できる。だが、AIを使って自律的に脆弱性を探すワームが開発された。どのようなワームなのだろうか。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/00676/070100228/topm.jpg?20220512",
-    "fetched_at": "2026-07-08 05:21:40",
-    "ja_summary": "・AIが自律的に脆弱性を探し出し、感染を広げる新型ワームが出現した。\n・従来の対策をすり抜ける可能性があり、高い特定率で攻撃を行う。\n・既存の防御モデルを脅かす新たなサイバー攻撃のリスクとして警戒が必要。"
-  },
-  {
-    "title": "DMG森が工作機械向けフィジカルAI開発へ、100TBのデータ収集目指す",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03352/070500019/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "DMG森精機が、工作機械向けフィジカルAIの開発に向けて動き出した。産業技術総合研究所（産総研）と組み、工作機械を主体とする生産設備データエコシステムを構築。ここで収集した大規模データを基に異常検知AIや品質予想AIなどの高度なAIを造るほか、工作機械向けフィジカルAIモデルの開発を目指す。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03352/070500019/topm.jpg?20220512",
-    "fetched_at": "2026-07-08 05:21:41",
-    "ja_summary": "・DMG森精機が産総研と組み、工作機械向け「フィジカルAI」の開発に着手。\n・100TB規模のデータを収集し、異常検知や品質予測の高度化を目指す。\n・生産設備のデータエコシステムを構築し、次世代の製造AI技術を確立する。"
-  },
-  {
-    "title": "AI武装で「財務経理部」が経営参謀に　富士通はデータ統合で業績先読み",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03604/070600009/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "お金という経営資源をどう扱うかは企業の成長戦略の要だ。数字をつかさどる財務経理部門の役割は、会社の現在地を示すことにとどまらない。膨大なデータから機会や変調をいち早く捉え、経営に先手を促す。人工知能（AI）を携えることで、こんな高度な機能を磨きつつある。不適切会計が相次ぐ中で、経理の信頼性を高める「AI監査」も広がってきた。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03604/070600009/fb.jpg?20220512",
-    "fetched_at": "2026-07-08 05:21:42",
-    "ja_summary": "・財務経理部門はAIを活用し、単なる集計役から経営の先行きを予測する「経営参謀」へと進化している。\n・膨大なデータからリスクや機会をいち早く察知し、経営判断を高度化させる役割が期待されている。\n・AI監査の導入により、経理業務の正確性と信頼性を高める動きも加速している。"
-  },
-  {
-    "title": "ムーンショット新PD國吉氏、米中にない「発達認知ロボティクス」を切り札に",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03538/062300008/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "ムーンショット型研究開発事業のプログラム・ディレクターに就任した東京大学教授の國吉康夫氏は、40年にわたり研究を続けてきた身体性発達認知ロボティクスの知見を生かしつつ、社会で人と共生できるAIヒューマノイドの完成を狙う。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03538/062300008/LLM2_08_sns.jpg?20220512",
-    "fetched_at": "2026-07-08 05:21:42",
-    "ja_summary": "・國吉康夫氏がムーンショット型研究開発のPDに就任。\n・40年の研究実績を持つ「身体性発達認知ロボティクス」を核に据える。\n・社会で人間と共生可能なAIヒューマノイドの実現を目指す。"
   }
 ]
