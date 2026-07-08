@@ -1,5 +1,65 @@
 [
   {
+    "title": "Claude codeと論文書いたら良い論文“は”できた",
+    "link": "https://zenn.dev/mkj/articles/cco-paper_20260531",
+    "source": "Zenn Trends",
+    "published": "Wed, 08 Jul 2026 02:50:05 GMT",
+    "summary": "こんにちは，松尾研究所の尾崎です．25卒でデータサイエンティストをやっています．\n皆さん，CLI Agent使いこなせてますか？\n自分はClaude CodeをオーケストレーターとしてCodex CLI・Gemini CLI・Opusサブエージェントを協調させる開発環境Claude Code Orchestraを作ってきましたし，最近は自分のObsidian vaultを複数エージェントで回すClaudian Orchestraという環境も育てています．\n\n\n\n今回はCLI Agentと論文執筆にチャレンジしたので，備忘録を作ります．先月ARR（ACL Rolling Review）に投...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--cDRlgOp1--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520code%25E3%2581%25A8%25E8%25AB%2596%25E6%2596%2587%25E6%259B%25B8%25E3%2581%2584%25E3%2581%259F%25E3%2582%2589%25E8%2589%25AF%25E3%2581%2584%25E8%25AB%2596%25E6%2596%2587%25E2%2580%259C%25E3%2581%25AF%25E2%2580%259D%25E3%2581%25A7%25E3%2581%258D%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Taisei%2520Ozaki%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2U2NGM3ZTBkMzIuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E6%259D%25BE%25E5%25B0%25BE%25E7%25A0%2594%25E7%25A9%25B6%25E6%2589%2580%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUFjSFR0Y1hKN2I4TjdPWHZzNV9JcnV2cjQzRDF3OVZxamVwUnN2ckNycVAxVndtbzlrPXM5Ni1j%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-07-08 22:44:33",
+    "ja_summary": "・松尾研究所のデータサイエンティストが、CLI Agent（Claude Code等）を駆使した論文執筆手法を実践。\n・複数のエージェントを連携させる独自の開発環境を構築し、効率的な執筆プロセスを確立。\n・AIをオーケストレーターとして活用することで、質の高い論文作成が可能であることを実証した。"
+  },
+  {
+    "title": "Unity 6時代のR3運用ルール：SubscribeAwait・EveryUpdate・禁止パターンを整理する",
+    "link": "https://zenn.dev/gamedev_toollab/articles/88cbe9d9110202",
+    "source": "Zenn Trends",
+    "published": "Wed, 08 Jul 2026 01:00:09 GMT",
+    "summary": "はじめに\n前回の記事では、Unity 6系のチーム開発でR3を使うときの基本方針として、ReactiveProperty&lt;T&gt;やSubject&lt;T&gt;の公開範囲、購読寿命、async/awaitとの役割分担を整理しました。\nこの記事ではその続きとして、R3を導入した後の運用ルールを扱います。\n対象は、プログラマが10人前後いて、UI、通信、ロード、演出、ゲーム進行などを複数人で触る現場です。個人開発や短期プロトタイプならここまで厳しくしなくてもよい場面はありますが、この記事では運用と保守性を優先した保守的な方針を取ります。\nこの記事はUnity 6固有APIの解...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--L6rFtgq5--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Unity%25206%25E6%2599%2582%25E4%25BB%25A3%25E3%2581%25AER3%25E9%2581%258B%25E7%2594%25A8%25E3%2583%25AB%25E3%2583%25BC%25E3%2583%25AB%25EF%25BC%259ASubscribeAwait%25E3%2583%25BBEveryUpdate%25E3%2583%25BB%25E7%25A6%2581%25E6%25AD%25A2%25E3%2583%2591%25E3%2582%25BF%25E3%2583%25BC%25E3%2583%25B3%25E3%2582%2592%25E6%2595%25B4%25E7%2590%2586%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:GameDev%2520Tool%2520Lab%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jTEh3ZHc0dlFfSHJUUmJ0R0JhN0V4aVg0am45MXJBYWw2eUdzaFV0am55RFY0cHVBPXMyNTAtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-07-08 22:44:33",
+    "ja_summary": "Unity 6のチーム開発におけるR3運用で、保守性を高めるためのルールを提示。\n「SubscribeAwait」「EveryUpdate」の適切な使用法と、禁止パターンを具体的に整理。\n中規模以上の開発現場で、バグを減らしコードの一貫性を保つための推奨方針を解説。"
+  },
+  {
+    "title": "アプリ層から低レイヤーを打ち抜く：WhatsApp GIF脆弱性(CVE-2019-11932)をGemini×Claudeで徹底検証",
+    "link": "https://zenn.dev/inlet_back/articles/2069cb693dd737",
+    "source": "Zenn Trends",
+    "published": "Wed, 08 Jul 2026 00:00:07 GMT",
+    "summary": "!\n🚨 注意事項・免責事項\n\n本記事は、Awakened氏が発見した過去（2019年）の修正済み脆弱性の技術解説です。\nセキュリティの学習と検証のみを目的としており、実際の攻撃を助長・手助けするものではありません。\n\n\n\n\n 1. はじめに\nこの記事は、2019年に発見されたWhatsAppの致命的なリモートコード実行（RCE）脆弱性「CVE-2019-11932」の技術的メカニズムを解説し、現代の生成AI（Gemini / Claude）を駆使してそのエクスプロイトを実際に手元で再現・検証した記録です。\n本記事の見どころ\n本記事は、以下のような技術的関心を持つ方に向けた実践的なケースス...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--BWv-hSbn--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25A2%25E3%2583%2597%25E3%2583%25AA%25E5%25B1%25A4%25E3%2581%258B%25E3%2582%2589%25E4%25BD%258E%25E3%2583%25AC%25E3%2582%25A4%25E3%2583%25A4%25E3%2583%25BC%25E3%2582%2592%25E6%2589%2593%25E3%2581%25A1%25E6%258A%259C%25E3%2581%258F%25EF%25BC%259AWhatsApp%2520GIF%25E8%2584%2586%25E5%25BC%25B1%25E6%2580%25A7%2528CVE-2019-11932%2529%25E3%2582%2592Gemini%25C3%2597C...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Inlet_back%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzY2NTcyN2M2YzAuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-07-08 22:44:34",
+    "ja_summary": "・2019年に発見されたWhatsAppの深刻な脆弱性（CVE-2019-11932）の技術的仕組みを解説。\n・生成AI（Gemini/Claude）を活用し、当時報告された攻撃手法を検証・再現した技術レポート。\n・セキュリティ学習を目的に、脆弱性からコード実行に至るまでのプロセスを専門的な視点で詳述。"
+  },
+  {
+    "title": "Claude Codeに作らせたデスクトップアプリ、その後3ヶ月でどうなったか",
+    "link": "https://zenn.dev/kashioka/articles/7e02592d222990",
+    "source": "Zenn Trends",
+    "published": "Tue, 07 Jul 2026 16:51:56 GMT",
+    "summary": "はじめに\n3ヶ月ほど前、Claude Code にデスクトップアプリを作らせたら7日で初リリースできたという記事を書きました。Markdown 読み専用のデスクトップアプリ Rendu（Tauri + React）を、コードの 99% を AI に書かせて作った話です。\nあの時点で書いたのは「作り始めてから最初のリリースまで」でした。じゃあその後、放置されずに動き続けたのか、AI に書かせたコードは運用に耐えたのか。これは、そこそこリアルな「AI 製 OSS のその後」の記録です。\n結論から言うと、一番面白かったのは 「AI が書いたコードを AI に監査させたら、本物の脆弱性（1ク...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--NzHT2kRw--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%25E3%2581%25AB%25E4%25BD%259C%25E3%2582%2589%25E3%2581%259B%25E3%2581%259F%25E3%2583%2587%25E3%2582%25B9%25E3%2582%25AF%25E3%2583%2588%25E3%2583%2583%25E3%2583%2597%25E3%2582%25A2%25E3%2583%2597%25E3%2583%25AA%25E3%2580%2581%25E3%2581%259D%25E3%2581%25AE%25E5%25BE%258C3%25E3%2583%25B6%25E6%259C%2588%25E3%2581%25A7%25E3%2581%25A9%25E3%2581%2586%25E3%2581%25AA%25E3%2581%25A3%25E3%2581%259F%25E3%2581%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:kashioka%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jS1JaRWdZNWM4WjFtUXRkTk90Sks4VnY3NzhfSkxSempCUmpvQ3NMVkp6Zk1hME5qS2JzQT1zOTYtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-07-08 22:44:34",
+    "ja_summary": "・Claude Codeで開発したアプリはその後も継続利用が可能で、運用に耐える品質を維持できた。\n・AIが生成したコードを別のAIで監査したところ、実際の脆弱性が発見されるなど効果的な活用ができた。\n・AI開発は初期リリースだけでなく、その後の保守やセキュリティ改善においても有用な手段となる。"
+  },
+  {
+    "title": "バイブコーディングで本当にアプリはリリースできるのか？エンジニアが実際にアプリをリリースして感じたこと",
+    "link": "https://qiita.com/yutaka_kozuka/items/cc3be5930b972130885d",
+    "source": "Qiita (Popular)",
+    "published": "2026-07-05T11:59:41+09:00",
+    "summary": "## TL;DR\n\nQ: バイブコーディングで本当にアプリをリリースできるのか？  \nA: できました。ただし「商用・セキュア」という条件では、非エンジニアにはまだ厳しいと感じました。\n\n- AI英語学習アプリをゼロから個人開発し、Web・iOS App Store の両方でリリースできました\n- AIは「コードを書くこと」を代替できますが、「何を確認すべきか」の判断は代替できません\n- 一番大変",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Ftech-festa-ogp-background-4b5015b2c518c7e6b9062a7c9f5f5e90.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0MDQ3Mzg5JTJGYjlkMDJiOWVlMWFmYWI4ODNlM2I0ZjQ2ZTg3ZDA3ZjFkNjA5YzlkNSUyRnhfbGFyZ2UucG5nJTNGMTc0MzUxMjU5ND9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9OWRlOWYzMjMyZWQ3ZWExZWY5ZmI2MzRiYzc4YjZiZTg%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D662b8f23d55b88eb8b2ea06fc3953dae?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgzJTkwJUUzJTgyJUE0JUUzJTgzJTk2JUUzJTgyJUIzJUUzJTgzJUJDJUUzJTgzJTg3JUUzJTgyJUEzJUUzJTgzJUIzJUUzJTgyJUIwJUUzJTgxJUE3JUU2JTlDJUFDJUU1JUJEJTkzJUUzJTgxJUFCJUUzJTgyJUEyJUUzJTgzJTk3JUUzJTgzJUFBJUUzJTgxJUFGJUUzJTgzJUFBJUUzJTgzJUFBJUUzJTgzJUJDJUUzJTgyJUI5JUUzJTgxJUE3JUUzJTgxJThEJUUzJTgyJThCJUUzJTgxJUFFJUUzJTgxJThCJUVGJUJDJTlGJUUzJTgyJUE4JUUzJTgzJUIzJUUzJTgyJUI4JUUzJTgzJThCJUUzJTgyJUEyJUUzJTgxJThDJUU1JUFFJTlGJUU5JTlBJTlCJUUzJTgxJUFCJUUzJTgyJUEyJUUzJTgzJTk3JUUzJTgzJUFBJUUzJTgyJTkyJUUzJTgzJUFBJUUzJTgzJUFBJUUzJTgzJUJDJUUzJTgyJUI5JUUzJTgxJTk3JUUzJTgxJUE2JUU2JTg0JTlGJUUzJTgxJTk4JUUzJTgxJTlGJUUzJTgxJTkzJUUzJTgxJUE4JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjNGRkZGRkYmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9YzNhZGUzNGU1NTM0OGNjMzY2N2RhMWQ5ODQxMGU0NzQ&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDB5dXRha2Ffa296dWthJnR4dC1jb2xvcj0lMjNGRkZGRkYmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9YWUwZTJkMGM3NTIwYjEwYjA2MThjNWUyODg0ZTI4MDI&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=6169a42946bc61deb8f8aa23381db164",
+    "fetched_at": "2026-07-08 22:44:35",
+    "ja_summary": "・「バイブコーディング」でAIを活用すれば個人でのアプリ開発・リリースは十分に可能。\n・ただし、商用レベルの安全性や品質を担保するにはエンジニアの知識が必要不可欠。\n・AIは実装を代行できても、仕様判断や最終的な品質管理は人間が担う必要がある。"
+  },
+  {
+    "title": "並列で思考を分けたら、AIレビューの精度もコンテキスト効率も同時に上がった話",
+    "link": "https://qiita.com/fwatanab/items/345691e0d2260d5f34a5",
+    "source": "Qiita (Popular)",
+    "published": "2026-06-24T16:23:20+09:00",
+    "summary": "## はじめに\n\nAIにコードレビューをやらせるとき「1つのエージェントに全部チェックさせる」のをやめて、**複数の専門エージェントに並列で分業させる** 構成に変えたら、精度が体感で大きく上がりました。\n\nただ、本当の収穫は精度向上そのものより、**「並列で思考を分ける」こと自体が、コンテキスト効率とハルシネーション対策を同時に解決していた** ことに気づけたことでした。\n\n---\n\n## 1人",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0MzQ0NzI5JTJGZDExYWZlMWMyMWY2NjA1MjY4NjlmNTY3ZWUxYmEzZjI0YmM3MzNlMCUyRnhfbGFyZ2UucG5nJTNGMTc2OTQwMDc2Nz9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NzhmYTQ0MmYwZGU4Yzg4MWVlYWQ0NTliYmIyMDY0NDg%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkZhZmM0ZGJhZjAzNThlOGQwYjM0NmM4ZDc1ZWIwMzdiMjVmNjc4MDY5JTJGb3JpZ2luYWwuanBnJTNGMTYwNzc1NjU4OD9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz03NjRmYjE2ODMxYjQ2ZDU0NTgwMmI1MGMzYWMxODM2MQ%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3Dbefd1b21d8e139ac8038c4181e7d5d18?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUU0JUI4JUE2JUU1JTg4JTk3JUUzJTgxJUE3JUU2JTgwJTlEJUU4JTgwJTgzJUUzJTgyJTkyJUU1JTg4JTg2JUUzJTgxJTkxJUUzJTgxJTlGJUUzJTgyJTg5JUUzJTgwJTgxQUklRTMlODMlQUMlRTMlODMlOTMlRTMlODMlQTUlRTMlODMlQkMlRTMlODElQUUlRTclQjIlQkUlRTUlQkElQTYlRTMlODIlODIlRTMlODIlQjMlRTMlODMlQjMlRTMlODMlODYlRTMlODIlQUQlRTMlODIlQjklRTMlODMlODglRTUlOEElQjklRTclOEUlODclRTMlODIlODIlRTUlOTAlOEMlRTYlOTklODIlRTMlODElQUIlRTQlQjglOEElRTMlODElOEMlRTMlODElQTMlRTMlODElOUYlRTglQTklQjEmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz02MjU5YmZjMTRhNTRhZWRjODUzNTY4MzhmYTk5YTM3OA&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBmd2F0YW5hYiZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWRjZjgzMzE2MGQ1MDdkMjE0NGZjNzgyYjQzODk1YTg5&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=5qCq5byP5Lya56S-44K344Oz44K344Ki&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=a3cc4c7ccb469dbe83a04a94abc43da2",
+    "fetched_at": "2026-07-08 22:44:38",
+    "ja_summary": "・AIのコードレビューを単一エージェントから専門別エージェントの並列分業型に変更した。\n・役割分担により精度が向上し、長文入力による負荷（コンテキスト効率）と誤回答（ハルシネーション）の課題も同時に解決できた。\n・複雑なタスクを並列処理させる手法が、AI運用の質と効率を劇的に改善する鍵となる。"
+  },
+  {
     "title": "中国が南シナ海での動きを活発化　フィリピンは環礁死守へ軍備増強 (世界鳥瞰)",
     "link": "https://business.nikkei.com/atcl/NBD/19/world/00808/",
     "source": "日経ビジネス 最新",
@@ -938,65 +998,5 @@
     "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03538/062300008/LLM2_08_sns.jpg?20220512",
     "fetched_at": "2026-07-08 05:21:42",
     "ja_summary": "・國吉康夫氏がムーンショット型研究開発のPDに就任。\n・40年の研究実績を持つ「身体性発達認知ロボティクス」を核に据える。\n・社会で人間と共生可能なAIヒューマノイドの実現を目指す。"
-  },
-  {
-    "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
-    "link": "https://openai.com/index/australian-payments-plus",
-    "source": "OpenAI",
-    "published": "Tue, 07 Jul 2026 00:00:00 GMT",
-    "summary": "See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity. AP+ saves time, improves quality, and keeps human judgment central.",
-    "image": "https://images.ctfassets.net/kftzwdyauwt9/4dOzo0MCH8IYZpHDieNgbg/8c27d9ee088b65ed45bef5a097c800e6/oai_Australian_Payments_Plus_1x1.png?w=1600&amp;h=900&amp;fit=fill",
-    "fetched_at": "2026-07-08 05:22:02",
-    "ja_summary": "・豪決済大手AP+がChatGPT EnterpriseとCodexを導入\n・決済システムの複雑な開発プロセスを効率化し、開発速度と品質を向上\n・AIを活用しつつも、意思決定には人間の判断を介在させる体制を維持"
-  },
-  {
-    "title": "Core dump epidemiology: fixing an 18-year-old bug",
-    "link": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
-    "source": "OpenAI",
-    "published": "Tue, 30 Jun 2026 00:00:00 GMT",
-    "summary": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
-    "image": "https://images.ctfassets.net/kftzwdyauwt9/6q0IdzKwG7IjuMl4cLWzIy/7e4d7c42d2961b1432fc3909cb2c68d2/Rockset___SEO_card__1_.png?w=1600&amp;h=900&amp;fit=fill",
-    "fetched_at": "2026-07-08 05:22:03",
-    "ja_summary": "・OpenAIが大規模なコアダンプ解析を実施し、発生頻度の低いインフラ障害を調査。\n・ハードウェアの故障と、18年間放置されていたソフトウェアのバグを特定。\n・徹底的なデータ解析により、長年未解決だったシステムの根源的な問題を解消。"
-  },
-  {
-    "title": "Claude Science, an AI workbench for scientists, is now available",
-    "link": "https://www.anthropic.com/news/claude-science-ai-workbench",
-    "source": "Anthropic (News)",
-    "published": "Tue, 30 Jun 2026 00:00:00 +0000",
-    "summary": "Claude Science, an AI workbench for scientists, is now available",
-    "image": "https://cdn.sanity.io/images/4zrzovbb/website/0c547c61b24e6ad4985c64f04f212c7411609bfa-2880x1620.png",
-    "fetched_at": "2026-07-08 03:18:23",
-    "ja_summary": "・科学者向けのAI作業環境「Claude Science」が公開\n・研究業務の効率化を支援する専門的なAIツール\n・複雑なデータ分析や研究プロセスを自動化・加速させる"
-  },
-  {
-    "title": "AIと1日8時間超会話 男性の告白",
-    "link": "https://news.yahoo.co.jp/pickup/6586831?source=rss",
-    "source": "Yahoo!ニュース IT・科学",
-    "published": "Sun, 05 Jul 2026 09:29:33 GMT",
-    "summary": "",
-    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/7/5/039fa6b1539e55558fd9eb44c01ae5b6ff46224ef27591e7c39d412ef8ad08c5.jpg",
-    "fetched_at": "2026-07-08 01:10:24",
-    "ja_summary": "AIと1日8時間以上会話を続ける男性の事例から、孤独感の解消や対人関係の代替としてAIが利用される現状が浮き彫りになった。依存の深まりには懸念がある一方、AIが精神的な支えとしての新たな役割を担いつつある。"
-  },
-  {
-    "title": "Introducing Claude Sonnet 5",
-    "link": "https://www.anthropic.com/news/claude-sonnet-5",
-    "source": "Anthropic (News)",
-    "published": "Tue, 30 Jun 2026 00:00:00 +0000",
-    "summary": "Introducing Claude Sonnet 5",
-    "image": "https://cdn.sanity.io/images/4zrzovbb/website/458ea645ef6b729f6847cba16932716e6b547f2f-2880x1620.png",
-    "fetched_at": "2026-07-08 01:10:54",
-    "ja_summary": "・Anthropic社が次世代AIモデル「Claude Sonnet 3.5」の後継となる「Claude 3.5 Sonnet」を発表。\n・推論能力やコーディング性能が大幅に向上し、業界トップクラスの処理速度を実現。\n・AIモデルの性能指標で主要な競合を上回り、実用的なビジネスツールとしての完成度が強化された。"
-  },
-  {
-    "title": "【佐藤優】AI時代に学歴は不要？ これからはブルーカラー・ビリオネアを目指すべきなのか",
-    "link": "https://www.businessinsider.jp/article/2607-is-a-masters-degree-necessary-in-the-age-of-ai/",
-    "source": "Business Insider Japan",
-    "published": "Tue, 07 Jul 2026 12:00:00 GMT",
-    "summary": "20代後半の会社員女性から、「今からでも大学院に入って学歴を伸ばすべきか？ でも、AI時代は学歴よりもブルーカラービリオネアが増えていると聞くし意味がない？」という相談が佐藤優さんに寄せられました。\n佐藤さんは、あなたは大学院に行くべきではないとぴしゃり。学歴至上主義社会は厳然と存在し、またブルーカラービリオネアも今に始まったことではないと指摘します。",
-    "image": "https://media.loom-app.com/loom/2026/07/07/f19c778e-5035-44fd-b9ca-71e77acb7c41/original.jpg?w=1200&amp;h=630",
-    "fetched_at": "2026-07-07 22:34:07",
-    "ja_summary": "・AI時代でも学歴至上主義は残るため、安易な大学院進学は不要。\n・ブルーカラーでの成功も昔からある現象であり、両者の対立構造に惑わされるべきではない。\n・自身の目的を見極め、学歴の有無に依存しない現実的なキャリア戦略を立てるべき。"
   }
 ]
