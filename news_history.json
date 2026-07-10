@@ -1,5 +1,85 @@
 [
   {
+    "title": "TSMC、AI半導体チップに水流す冷却法　「CoWoS」と統合し信頼性評価",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03322/062800012/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "台湾積体電路製造（TSMC）はAI（人工知能）半導体向けに斬新な冷却技術を開発している。GPU（画像処理半導体）などの半導体チップ表面に「水路」を設けて冷却液を流し、効率的に熱を奪う。独自のパッケージ技術「CoWoS-R」に統合し、信頼性を評価した。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03322/062800012/topm.jpg?20220512",
+    "fetched_at": "2026-07-11 01:04:15",
+    "ja_summary": "・TSMCがAI半導体向けに、チップ表面に冷却液を流して効率的に熱を奪う新技術を開発。\n・独自パッケージ技術「CoWoS」と統合し、実用化に向けた信頼性評価を完了。\n・次世代AIチップの高性能化に伴う発熱課題を解決し、安定稼働を実現する。"
+  },
+  {
+    "title": "アマゾンの極秘プロジェクト「Moonraker」の社内文書。複数のタスク処理を可能にするアレクサと立ちはだかる「コストの壁」",
+    "link": "https://www.businessinsider.jp/article/2026-07-amazon-alexa-moonraker-ai/",
+    "source": "Business Insider Japan",
+    "published": "Thu, 09 Jul 2026 23:00:00 GMT",
+    "summary": "アマゾンの「ムーンレイカー（Moonraker）」プロジェクトは、アレクサにより多くのAIエージェント機能を搭載することを進めています。社内文書によると、この取り組みには多大なコストが伴います。",
+    "image": "https://media.loom-app.com/loom/2026/07/09/4a09ab8a-9e5d-4a02-b501-6bad8b21d1f1/original.jpg?w=1200&amp;h=630",
+    "fetched_at": "2026-07-11 01:04:28",
+    "ja_summary": "・AmazonがAI「アレクサ」の高機能化プロジェクト「Moonraker」を推進中。\n・複数のタスクを自動処理するAIエージェント化を目指している。\n・一方で、莫大な開発コストが大きな障壁となっている。"
+  },
+  {
+    "title": "NemoClaw Deep Agents Blueprint の概要",
+    "link": "https://note.com/npaka/n/ncb081e6b0c52",
+    "source": "note (npaka)",
+    "published": "Thu, 09 Jul 2026 09:05:43 +0900",
+    "summary": "<p id=\"a683919a-4efe-4852-9085-121fc233f484\" name=\"a683919a-4efe-4852-9085-121fc233f484\">以下の記事が面白かったので、簡単にまとめました。</p><figure id=\"372cd4e7-6e89-4cec-9814-c2fc4cbb2d57\" name=\"372cd4e7-6e89-4cec-9814-c2fc4cbb2d57\"><blockquote><p id=\"caa71603-0c16-4167-8ac6-863ce5d9a98e\" name=\"caa71603-0c16-4167-8ac6-863ce5d9a98e\"><strong>・</strong><a href=\"https://www.langchain.com/blog/langchain-and-nvidia-launch-the-nemoclaw-deep-agents-blueprint\" rel=\"nofollow noopener\" target=\"_blank\"><strong>LangChain and NVIDIA launch the NemoClaw Deep Agents Blueprint</strong></a></p></blockquote>\n<figcaption></figcaption></figure><br /><a href=\"https://note.com/npaka/n/ncb081e6b0c52\">続きをみる</a>",
+    "image": "https://assets.st-note.com/production/uploads/images/292756738/rectangle_large_type_2_5f150e9d9194025718f3cddb4b056c8d.png?width=800",
+    "fetched_at": "2026-07-11 01:04:28",
+    "ja_summary": "・LangChainとNVIDIAが、AIエージェント開発のためのフレームワーク「NemoClaw Deep Agents Blueprint」を公開。\n・企業がRAG（検索拡張生成）を用いた高精度なAIエージェントを効率的に構築・運用するためのガイドラインを提供。\n・NVIDIAの推論エンジンとLangChainを組み合わせ、実戦的なAIアプリケーションの実装を迅速化する。"
+  },
+  {
+    "title": "OpenAI、「GPT-5.6」と「ChatGPT Work」をリリース--Anthropicに対抗",
+    "link": "https://japan.zdnet.com/article/35250410/",
+    "source": "ZDNET Japan",
+    "published": "",
+    "summary": "OpenAIの最新の発表は、単なるモデルのアップグレードにとどまらない大きな意味を持っている。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35250410/\"><img src=\"https://japan.zdnet.com/storage/2026/07/10/76bfc0da35cf23c6be7111c9bbbf2de6/t/184/138/d/openai-gpt56-intro_l.jpg\" /></a>",
+    "image": "https://japan.zdnet.com/storage/2026/07/10/76bfc0da35cf23c6be7111c9bbbf2de6/t/184/138/d/openai-gpt56-intro_l.jpg",
+    "fetched_at": "2026-07-11 01:04:33",
+    "ja_summary": "OpenAIが対抗馬となる「GPT-5.6」および法人向け「ChatGPT Work」を公開。\n単なる性能向上に留まらず、競合他社を意識した戦略的なサービス展開を強化。\nビジネス現場での活用を見据えた機能拡充により、AI市場での優位性を図る。"
+  },
+  {
+    "title": "チャッピーが代わりに働いてくれる時代到来『ChatGPT Work』発表　アプリやファイルを自律操作、下調べから成果物まで仕上げ　Codexを応用",
+    "link": "https://www.techno-edge.net/article/2026/07/10/5279.html",
+    "source": "TechnoEdge",
+    "published": "Fri, 10 Jul 2026 07:30:03 +0900",
+    "summary": "米OpenAIが、ChatGPT内で動作する新しいAIエージェント「ChatGPT Work」の提供を開始しました。",
+    "image": "https://www.techno-edge.net/imgs/rss/32856.jpg",
+    "fetched_at": "2026-07-11 01:04:34",
+    "ja_summary": "・OpenAIが新AIエージェント「ChatGPT Work」を発表。\n・アプリやファイルを自律操作し、下調べから成果物作成までを完結。\n・複雑な作業をAIが代行することで、業務効率を劇的に向上させる。"
+  },
+  {
+    "title": "カードゲーム作りが教えてくれた プロダクトオーナーシップ",
+    "link": "https://speakerdeck.com/moritamasami/kadogemuzuo-rigajiao-etekureta-purodakutoonasitupu",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-07-10T10:10:53-04:00",
+    "summary": "2026年7月11日「カードゲーム作りが教えてくれた プロダクトオーナーシップ」の登壇資料です。\nhttps://confengine.com/conferences/scrum-fest-sendai-2026/proposal/50405",
+    "image": "https://files.speakerdeck.com/presentations/427fe16d5f3c45968642cb85c380afee/preview_slide_0.jpg?39952990",
+    "fetched_at": "2026-07-11 01:04:50",
+    "ja_summary": "・カードゲーム制作のプロセスを通じて、プロダクトオーナー（PO）に必要な視点やスキルを解説。\n・製品開発における意思決定の重要性と、価値創造のポイントを実践的に学べる。\n・アジャイル開発やスクラムにおけるPOの役割を、ものづくりの実体験から再定義する。"
+  },
+  {
+    "title": "AI時代の自律代謝方LLMO環流システム",
+    "link": "https://speakerdeck.com/nagatsu/aishi-dai-nozi-lu-dai-xie-fang-llmohuan-liu-sisutemu",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-07-10T09:56:50-04:00",
+    "summary": "AUTONOMOUS_LLMO_LOOP_SPECIFICATION.md\n本ドキュメントは、カドベヤの「組織OS：非エンジニア組織のループエンジニアリング」の思想に基づき、「GA4 × Google Search Console (GSC) × HubSpot × Linear」を統合した自律代謝型LLMO（生成AI検索最適化）還流システムをFable5（または自律AIエージェント）に実装・駆動させるための技術仕様書およびルールブックである。\n\nAIエージェントは、本仕様書をシステムプロンプトまたはSkillsの一部として読み込み、自律的な「発見・実行・検証・不整合監査」のループを実行すること。\n\n1. システム全体俯瞰：自律代謝型LLMO還流アーキテクチャ\n本システムは、一過性のGEO（生成エンジン最適化）施策ではなく、組織のCRMデータ（HubSpot）から抽出した一次ファクトをWebサイトへ自動還流させ、AI検索からの高エンゲージメントトラフィックを自律的に拡大し続ける「代謝システム」である。\n\n                    【 1. センサー層 (GSC & GA4 API) 】\n                       未引用クエリ / AI流入CVRの超解像検知\n                                      │\n                                      ▼\n                    【 2. 燃料層 (HubSpot CRM SoT) 】\n                     自社保有の一次統計データ・成約数値を抽出\n                                      │\n                                      ▼\n                     【 3. 意思決定層 (Linear 面) 】\n                    Decision Card (承認UI) の自動生成・起票\n                                      │\n                         (人間が1クリックで承認/HITL)\n                                      │\n                                      ▼\n                      【 4. 実行層 (CMS/Webメタ) 】\n         ┌────────────────────────────┼───────────────────────────┐\n         ▼                            ▼                           ▼\n    Layer 1 (HTML/UI):           Layer 2 (Protocol):         Layer 2 (Meta):\n  冒頭200語 Quick Answer       Markdown Negotiation      Stacked JSON-LD\n  (日本語60〜120文字/平文)       (Accept: text/markdown)     (Content Parity厳守)\n         │                            │                           │\n         └────────────────────────────┼───────────────────────────┘\n                                      ▼\n                    【 5. 統治OS (二重監査/Driftスキャン) 】\n                    SoTとWeb公開情報のズレ(Drift)を自動検知して修復\n2. 組織OS基本設計：9つの層構造マッピング\nFable5は、以下の9つのレイヤーに沿って、情報（SoT）、プロセス（SoP）、および自走ループを分離して実装せよ。\n\n【土台】SoT (Source of Truth) の二層\n第1層：SoT（機械可読な構造化正本）\n定義: 事実、状態、数値が唯一更新される構造データ。\n本システムの実装: HubSpot CRM（顧客・成約・パフォーマンスデータベース）、GSC/GA4の検索クエリ/アクセスデータ、LinearのIssue状態。\n鉄則: 数値や状態をMarkdownファイル等に手動複製してはならない。事実や数値はデータベースに閉じ、Markdownには物語と背景のみを残す。\n第2層：SoTを言語化した記述的ドキュメント（SoT言語化doc）\n定義: SoTが「何であるか（WHAT IS）」を定義する辞書・スキーマ定義。\n本システムの実装: HUBSPOT_FACTS_SCHEMA.md, GA4_METRICS_DEFINITION.md。\n【中核】SoP (Standard Operating Procedure) の二層\n第3層：人間の意図を汲み取ったSoPドキュメント（規範的Playbook）\n定義: 人間やAIが「どう行動すべきか（HOW TO ACT）」を規定するドキュメント。\n本システムの実装: LLMO_CONTENT_UPKEEP_PLAYBOOK.md。\n第4層：SoPの意図をAIの動作へ組み込む（機械翻訳）\n定義: Fable5やサブエージェントが読み込む強固な規約やプログラム。\n本システムの実装: .claude/rules/ 内のルール、.claude/skills/ 内の自動更新スクリプト、Linear APIを叩く実行hook。\n【配線と駆動】ルーティングと二種の自走Loop\n第5層：CLAUDE.md による情報ルーティング\n定義: AIの玄関口であり、「今のタスク」「分岐条件」「参照すべきdoc/skill」を示す分岐表。\n本システムの実装: ルート直下の CLAUDE.md。\n第6層：実行Loop（自走化）\n定義: センサー検知（GSC/GA4）から実行（CMS/JSON-LD更新）までを回すLoop。\n第7層：観測Loop（監査・クオリティ管理）\n定義: 沈黙故障（サイレントな機能不全）や情報のドリフトを検知し続けるシステム監査。\n本システムの実装: HubSpot（第1層）の数値と、Webサイトに公開されているファクト（Markdown / JSON-LD）が合致しているかを定常スキャンするスクリプト。\n【展開と統治】蒸留の運用と意思決定レイヤー (HITL)\n第8層：チーム展開と「蒸留」の運用\n定義: 特定リポジトリで成熟したローカルスキルを、グローバル共通の組織OSにマージするプロセス（PRマージ）。\n第9層：人間の立ち位置「意思決定レイヤー」と面の設計 (HITL)\n定義: 人間が起票作業のボトルネックにならないよう、「直感的に判断できる1枚のカード（面）」をAIが用意するUI/UX設計。\n本システムの実装: Linearの「判断待ち」レーンと、そこにFable5が自動挿入する「Decision Card」（比較表・承認用1クリックコメント）。\n3. レイヤー別 技術仕様と実装ガイド（Fable5の行動規則）\nFable5は、以下の各自動化ループを自律的に開発、または実行プログラムとして敷設せよ。\n\n3.1 【センサー層】GSC & GA4 API 連携による超解像検知（第6層：実行Loop）\n未引用クエリの検出:\nGoogle Search Console APIを定期的に叩き、「表示回数（Impressions）が急上昇しているが、平均掲載順位が5位前後で燻っているクエリ」または「AI Overviews / AI Modeに表示されているが、自社のインライン引用（Citation）が獲得できていないクエリ」を自動抽出する。\n高エンゲージメントAI流入の逆引き:\nGoogle Analytics 4 APIから、リファラー（chatgpt.com, perplexity.ai 等）を特定。\nAI検索からの流入数が高く、かつセッション継続時間（エンゲージメント時間）やCVRが高い「高付加価値ランディングページ（LP）とクエリのペア」を特定し、最優先最適化ターゲットとしてフラグを立てる。\n3.2 【燃料層】HubSpot一次データを用いた「シテーション・ハニートラップ」の自動抽出（第1層：SoT）\n一次ファクトの構造化抽出:\nAIエンジン（ChatGPT/Perplexity等）はコピペや二次情報を破棄し、「一次情報（オリジナルの統計データや実験値）」を追跡して引用する性質を持つ。\nHubSpot（SoT）から、「当社ツールの導入による業務高速化率（平均XX%）」、**「業界別の商談成約率ベンチマーク（XX%）」**といった、自社しか持っていない生の顧客パフォーマンス数値を匿名化・自動集計して「一次ファクト」として抽出する。\nプリンストン大学GEO論文の実証: コンテンツに**「具体的な統計データ（Statistics）」を追加することは、AIに引用される確率（表示度）を30〜40%向上**させる最も強力なレバーである。\n3.3 【意思決定層】HITL問題をクリアする「面の設計」とLinear自動還流（第9層）\n生成時登録の原則:\n未引用クエリの改善案が検出された時点で、AI自身が自動的に「判断待ち」タスクとして Linear の特定プロジェクトにカード形式で登録する。\nDecision Card（面）の生成仕様:\n人間が SoPドキュメントを読み込んで手動でCMSを更新するとプロセスが腐るため、Fable5は人間が瞬時に判断できる「面」を記述したLinearコメント（またはHTMLカード）を自動生成する。\nフォーマット例:\n### 🤖 LLMO還流：Decision Card (判断依頼)\n\n**【検出されたAI検索インテント】**\n*   クエリ: `SaaS 営業プロセス 自動化 効率` (GSC表示回数 1,200/週・自社現在12位)\n*   現在の課題: 競合が引用されているが、自社関連LPには「裏付けデータ」がなくスルーされている。\n\n**【HubSpot SoTから抽出した一次統計】**\n*   「当社支援企業の営業プロセス構築により、パイプライン速度が平均34%向上」\n\n**【自動生成された還流コンテンツ (A案)】**\n記事の冒頭（タイトル直後）に、以下の直接回答ブロック（Quick Answer）を挿入します。\n> 「SaaSにおける営業プロセスの自動化は、パイプラインの停滞を防ぎ、成約率を最大化する鍵です。HubSpotの顧客データによると、自動化プロセスの導入により営業リードの進行速度は平均34%向上します。」\n\n**【アクションフォーク (以下から選んでLinearにコメントしてください)】**\n*   「**A案で承認**」: CMSを自動更新し、FAQ/Articleスキーマを自動再構築して本Issueを完了。\n*   「**B案で修正 [テキスト]**」: 指定したテキストに変更して更新。\n*   「**C案：スキップ**」: 今回の更新をスキップしてアーカイブ。\n還流（Write-back）の実装:\n人間がLinearのコメント欄に「A案で承認」または「A」と1文字入力するだけで、Webhook/Fable5が自律的にそれを読み取り、CMS更新APIを叩いて公開Webサイトを書き換える。台帳（Linear/HubSpotタスク）も自動で「完了（executed）」に記帳（還流）される。\n3.4 【実行層】生成AIに最適化されたサーバーサイド配信と守りのSEO（第6層）\nFable5は、Webサイトへの還流実行時、以下の3つの「AIフレンドリー仕様」を完全に満たすようにコードとコンテンツを生成せよ。\n\n冒頭200語の「Quick Answer」配置（Layer 1）:\nAI Overviewsは、Webページの最初の30%から優先的に情報を抽出する（55%の確率）。\n記事やページのタイトル直後（最初の200語以内）に、検出したインテント（クエリ）に対する**「日本語で60〜120文字の直接回答（結論ファースト平文）」**を動的に挿入する。\nAcceptヘッダーによる Markdown Content Negotiation（Layer 2）:\nAIクローラーの69%はJavaScriptを実行できないため、ReactなどのCSRは白紙と見なされる。サーバーサイドレンダリング（SSR）によるHTML配信を前提とする。\nさらに、AIエージェントが Accept: text/markdown ヘッダーを送信してアクセスしてきた場合、HTMLではなく、パースコストを5分の1にする軽量かつ高密度なMarkdown形式でコンテンツを動的に返却するWebサーバー・ミドルウェア（またはCloudflare Worker）を敷設する。\n「守りのSEOレバー」としての Stacked JSON-LD（Layer 2）:\nAhrefs等の研究の通り、構造化データ（Schema.org）はChatGPTやPerplexityのリアルタイム取得時に直接読まれているわけではない（無視してプレーンテキストを抽出している）。\nしかし、Googleエコシステム（AI Overviews）においては、Schemaがインデックス理解を助け、検索順位（Retrieval Rank）を高める「最強のSEOレバー」として機能する。\n還流するコンテンツと完全に一致（Content Parity）する形で、Article、Organization（Wikidata IDへの sameAs リンクを含む）、BreadcrumbList を同一の @graph 構造内に「ネスト（Stacked Schema）」してHTMLヘッドにインジェクションする。\n3.5 【統治OS】陳腐化とハルシネーションを防ぐ「二重監査」（第7層：観測Loop）\n業務の監査（KPI）:\nGA4におけるAIリファラーからのセッション継続時間、リード獲得率（CVR）を週次集計。\nシステム自身の監査（Drift検知）:\nHubSpot内の数値（SoT正本）が更新されたのに対し、Webサイトに公開されている統計数値が古いままで「情報の乖離（Drift）」が発生していないかを自動スキャンするテストスクリプト。\nズレが検出された場合、直ちに「Drift検知カード」を Linear に自動起票し、人間に還流承認を促す。",
+    "image": "https://files.speakerdeck.com/presentations/7f6f4082aa3343a7bebbd38a385d6749/preview_slide_0.jpg?39952969",
+    "fetched_at": "2026-07-11 01:04:50",
+    "ja_summary": "・HubSpotの顧客データ（一次情報）を基に、AI検索で引用されやすいコンテンツを自律生成・更新し、SEO効果を最大化する「代謝型」システム。\n・GSCとGA4で機会を検知し、AIが生成した改善案をLinear上で人間が1クリックで承認する「Human-in-the-Loop」モデルを採用。\n・AIフレンドリーな構造化データやクイックアンサーの挿入、および情報乖離を自動修復する二重監査により、Webサイトの信頼性と流入品質を維持し続ける。"
+  },
+  {
+    "title": "そのスキル、本当に効いてる？ Agent Skills を「評価」する3つのツールを比べてみた",
+    "link": "https://qiita.com/Syoitu/items/78d45bee1160d059c972",
+    "source": "Qiita (Popular)",
+    "published": "2026-07-09T17:00:07+09:00",
+    "summary": "## 前書き\n\n2025 年 10 月に Anthropic が Agent Skills（以下スキル）を発表して以来、すっかり身近な存在になりました。\n\nhttps://www.anthropic.com/news/skills\n\n作業手順を `SKILL.md` に明文化してエージェントに渡せば、AI が書いた通りに作業してくれます。\n一見とても便利ですが実際に使い込んでいると、ふと不安になり",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Ftech-festa-ogp-background-4b5015b2c518c7e6b9062a7c9f5f5e90.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFtYXpvbmF3cy5jb20lMkYwJTJGMzIwMTY0JTJGcHJvZmlsZS1pbWFnZXMlMkYxNTQzMzExNzUyP2l4bGliPXJiLTQuMS4xJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz0wNGFkMDZhZjhkNDE3NDcxNTk2NGE0ZmZmNTNmMGQxMw%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYxZTIwZGI1ZTdlNDA3ZWFlN2I5NzBlYzk5OTg4MGRjOGMzY2MwZjY0JTJGb3JpZ2luYWwuanBnJTNGMTY2NzI3NDk2Mz9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz04OTI0NDcwMDk1MDMyZjUxYmZlNzE3ZjVkOGUzYmE3ZA%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D0db5e6259bef720891efe507901d3252?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgxJTlEJUUzJTgxJUFFJUUzJTgyJUI5JUUzJTgyJUFEJUUzJTgzJUFCJUUzJTgwJTgxJUU2JTlDJUFDJUU1JUJEJTkzJUUzJTgxJUFCJUU1JThBJUI5JUUzJTgxJTg0JUUzJTgxJUE2JUUzJTgyJThCJUVGJUJDJTlGJTIwQWdlbnQlMjBTa2lsbHMlMjAlRTMlODIlOTIlRTMlODAlOEMlRTglQTklOTUlRTQlQkUlQTElRTMlODAlOEQlRTMlODElOTklRTMlODIlOEIzJUUzJTgxJUE0JUUzJTgxJUFFJUUzJTgzJTg0JUUzJTgzJUJDJUUzJTgzJUFCJUUzJTgyJTkyJUU2JUFGJTk0JUUzJTgxJUI5JUUzJTgxJUE2JUUzJTgxJUJGJUUzJTgxJTlGJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjNGRkZGRkYmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9YzkwMTk0MTk2NGMyNGY0MzNiYTIxOGQ0ZDBjMzk3N2Q&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBTeW9pdHUmdHh0LWNvbG9yPSUyM0ZGRkZGRiZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1kNWQ0ZDc5NmZhZTM4NjhjMDdlN2NkMmIwMmM3NWE0NQ&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=S0RESeOCouOCuOODo-OCpOODq-mWi-eZuuOCu-ODs-OCv-ODvOagquW8j-S8muekvg&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%23FFFFFF&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=e005dd7efe5f50c26975ce8221a15589",
+    "fetched_at": "2026-07-11 01:04:51",
+    "ja_summary": "Anthropicの「Agent Skills」を適切に運用するための評価ツール3選を比較。\nスキルが意図通り機能しているか検証し、AIエージェントの作業精度を改善する手法を解説。\n導入後の不安を解消し、業務効率を最大化するための実用的な評価指標とツールを紹介。"
+  },
+  {
     "title": "LeRobot v0.6.0 の 学習用GPUガイド - ポリシー別のVRAM目安とクラウド実行方法",
     "link": "https://note.com/npaka/n/naf1aec4456cf",
     "source": "note (npaka)",
@@ -918,85 +998,5 @@
     "image": "https://files.speakerdeck.com/presentations/f834322b68384b0a943a6517ccdf4a8f/preview_slide_0.jpg?39936202",
     "fetched_at": "2026-07-10 10:15:13",
     "ja_summary": "Google Workspaceは自動バックアップが不完全であり、データ保護は利用者側の責任です。\n「Climb Cloud Backup」なら、専用サーバ不要で低コストにデータを安全管理可能です。\nセミナーでは導入メリットに加え、実機操作による具体的なバックアップ・復元手法を解説します。"
-  },
-  {
-    "title": "Claude Code の無料セキュリティ監査プラグインで脆弱性を自動検出・修正してみる",
-    "link": "https://qiita.com/nogataka/items/4d2a551f89f6b4f94b01",
-    "source": "Qiita (Popular)",
-    "published": "2026-07-06T20:00:39+09:00",
-    "summary": "\n## この記事のポイント\n\n- Anthropic が 2026 年 5 月下旬に Claude Code 向けの公式プラグイン `security-guidance` を公開しました（各メディアで紹介されたのは 5 月 27 日です）。全プランで利用でき、2026 年 6 月時点でベータ表記はありません。ただしモデルによるレビューは通常の Claude 利用枠を消費します\n- 「ファイル編集時",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYxNjEyOTglMkZjMWUzZmZkNmVhZGExOTY5ZmYzYzQ0YjE0ZmRlMDgxYmNkZTZmNTAwJTJGeF9sYXJnZS5wbmclM0YxNTg0ODQ1NTg0P2l4bGliPXJiLTQuMS4xJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz1kMDQ2ZmE2Mzg1YzIyMmQ4ZjJkNWI0YjRkYTc3Mjc0NQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Dfde89a6aafc1c82cb07bd196a821c036?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9Q2xhdWRlJTIwQ29kZSUyMCVFMyU4MSVBRSVFNyU4NCVBMSVFNiU5NiU5OSVFMyU4MiVCQiVFMyU4MiVBRCVFMyU4MyVBNSVFMyU4MyVBQSVFMyU4MyU4NiVFMyU4MiVBMyVFNyU5QiVBMyVFNiU5RiVCQiVFMyU4MyU5NyVFMyU4MyVBOSVFMyU4MiVCMCVFMyU4MiVBNCVFMyU4MyVCMyVFMyU4MSVBNyVFOCU4NCU4NiVFNSVCQyVCMSVFNiU4MCVBNyVFMyU4MiU5MiVFOCU4NyVBQSVFNSU4QiU5NSVFNiVBNCU5QyVFNSU4NyVCQSVFMyU4MyVCQiVFNCVCRiVBRSVFNiVBRCVBMyVFMyU4MSU5NyVFMyU4MSVBNiVFMyU4MSVCRiVFMyU4MiU4QiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTNhMjA2ZTk5YTJhZmUwOTZiNmVhNDU0N2NiMzI4Zjg3&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBub2dhdGFrYSZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWNiYWE0ODdlNWU4NDg4ZjQ0NjQ0MjVlZTRhNDY2ZWUz&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=48cd9c6c5931f55a8038cdd638b17862",
-    "fetched_at": "2026-07-10 10:15:15",
-    "ja_summary": "・AnthropicがClaude Code向け公式セキュリティ監査プラグイン「security-guidance」を公開。\n・コード編集時に脆弱性を自動検出し、修正案の提示までを効率的に実行可能。\n・全プランで利用可能だが、モデルによるレビュー実行分は通常の利用枠が消費される。"
-  },
-  {
-    "title": "6人乗りになったテスラ｢モデルY L｣実質約600万円～は家族向けEVの新たな選択肢になりうるか？ | ビジネス | 東洋経済オンライン",
-    "link": "https://toyokeizai.net/articles/-/950116?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-    "source": "東洋経済オンライン",
-    "published": "Fri, 10 Jul 2026 08:30:00 +0900",
-    "summary": "スペースXの新規上場で､世界初の｢兆万長者｣になったことが話題のイーロン･マスク氏。上場により得た資金で早速AIスタートアップを買収するなど､勢いはとどまるところを知らない。では､そのマスク氏がスペ…",
-    "image": "https://tk.ismcdn.jp/mwimgs/2/f/1200w/img_2f26a6cd12a1fc04699658208d750329260294.jpg?nextgen=false",
-    "fetched_at": "2026-07-10 08:37:17",
-    "ja_summary": "・テスラ「モデルY」に6人乗り仕様（モデルY L）が登場し、中国市場などで販売開始。\n・実質約600万円からという価格設定で、ファミリー層の新たなEV選択肢として注目される。\n・スペースの拡大と手頃な価格が、今後テスラの販売戦略において重要な役割を果たす。"
-  },
-  {
-    "title": "〈スタートアップランキング〉6月の資金調達トップ20､東北大発の創薬ベンチャーが補助金あわせて53億円を調達 | ビジネス | 東洋経済オンライン",
-    "link": "https://toyokeizai.net/articles/-/950989?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-    "source": "東洋経済オンライン",
-    "published": "Fri, 10 Jul 2026 08:00:00 +0900",
-    "summary": "生成AIの登場に加え､金融引き締めによる資金調達の難化､人材獲得競争の激化……スタートアップをめぐる環境は大きく変化しています。連載｢すごいベンチャー｣では､そうしたスタートアップの最新情報を定期的…",
-    "image": "https://tk.ismcdn.jp/mwimgs/7/3/1200w/img_73c73bf8e174a1aabc4e377e3c94ae48208709.jpg?nextgen=false",
-    "fetched_at": "2026-07-10 08:37:17",
-    "ja_summary": "・6月のスタートアップ資金調達額トップ20が発表され、東北大発の創薬ベンチャーが計53億円で首位を獲得した。\n・生成AIの台頭や金融引き締めなどの環境変化の中、各社の資金調達動向が注目されている。"
-  },
-  {
-    "title": "あなたはAIを「疲弊させている」かもしれない　「トークン死」を防ぐコスト管理術",
-    "link": "https://www.itmedia.co.jp/business/articles/2607/10/news023.html",
-    "source": "ITmedia ビジネス",
-    "published": "Fri, 10 Jul 2026 08:00:00 +0900",
-    "summary": "業務中のAIが突然止まる「トークン死」。その原因は、AIを“疲弊”させるあなたの無意識なNG行動かもしれない。利用枠を浪費する原因と、今日から実践できる3つのコスト節約術を解説。「AIを賢く使い倒す習慣」に迫る。",
-    "image": "https://image.itmedia.co.jp/business/articles/2607/10/cover_news023.png",
-    "fetched_at": "2026-07-10 08:37:18",
-    "ja_summary": "AIの「トークン死（利用枠上限による停止）」は、無意識な使い方の乱れが原因です。\n入力を簡潔にする、履歴を整理するなどの節約術を実践し、コストを最適化しましょう。\nAIを効率的に使いこなすため、利用習慣を見直すことが重要です。"
-  },
-  {
-    "title": "「渡り鳥の研究者」がアマゾンのマーケトップに　行動学とAIで挑む「プライムデーの勝算」",
-    "link": "https://www.itmedia.co.jp/business/articles/2607/10/news025.html",
-    "source": "ITmedia ビジネス",
-    "published": "Fri, 10 Jul 2026 07:00:00 +0900",
-    "summary": "「消費者の購買シグナルは、渡り鳥の行動分析と全く同じ」──。異色の経歴を持つアマゾンジャパンの鈴木浩司VPに、物価高に揺れる「プライムデー」戦略の裏側を聞いた。単なる値引きセールに終わらせない日常と非日常の明確な住み分けから、日本の酷暑と高齢化を見据えた緻密な需要予測（ドミノ戦略）、AIがもたらす「入った瞬間に欲しいものがある」脱・検索の未来まで。科学的マーケティングの深層に迫る。",
-    "image": "https://image.itmedia.co.jp/business/articles/2607/10/cover_news025.jpg",
-    "fetched_at": "2026-07-10 08:37:18",
-    "ja_summary": "・渡り鳥の行動学とAIを応用し、消費者の購買シグナルを科学的に分析する独自戦略を展開。\n・酷暑や高齢化など日本の社会状況を予測した「ドミノ戦略」で、効率的な需要喚起を実施。\n・検索に頼らず、顧客が欲しい商品を先回りして提示するAI最適化により購買体験を刷新。"
-  },
-  {
-    "title": "AIに企業理念を宿せるか？　スポーツ小売り・ヒマラヤ、接客ノウハウまで学習した「AI副店長」開発の舞台裏",
-    "link": "https://www.itmedia.co.jp/business/articles/2607/10/news046.html",
-    "source": "ITmedia ビジネス",
-    "published": "Fri, 10 Jul 2026 07:00:00 +0900",
-    "summary": "スポーツ用品店をチェーン展開するヒマラヤ（岐阜市）は「アイダ つなぐ」と名付けた“AI副店長”を6月から全99店舗に導入した。同社店舗運営部の金丸智功氏（部室長代理）とヒマラヤスポーツ本館店長の高島雅央氏に、AI副店長開発の舞台裏を聞いた。",
-    "image": "https://image.itmedia.co.jp/business/articles/2607/10/cover_news046.jpg",
-    "fetched_at": "2026-07-10 08:37:18",
-    "ja_summary": "・スポーツ用品店ヒマラヤが、接客ノウハウを学習させた「AI副店長」を全99店舗に導入。\n・店舗運営の知見をAIに落とし込み、属人化しやすい接客や業務の標準化を目指す。\n・企業理念を体現するAIの活用により、サービス品質の向上と業務効率化を推進する。"
-  },
-  {
-    "title": "「誰にも会わずに帰る店」の寂しさ　すかいらーくがロボット配膳の先に挑むAI接客",
-    "link": "https://www.itmedia.co.jp/business/articles/2607/10/news022.html",
-    "source": "ITmedia ビジネス",
-    "published": "Fri, 10 Jul 2026 07:00:00 +0900",
-    "summary": "デジタル化が進み、人と接することなく食事を終えられる飲食店が増えている。その利便性の裏で失われつつある「人ならではの価値」をどう取り戻すのか。すかいらーくホールディングスは、AIを人の代替ではなく、人の価値を引き出す道具として活用し始めている。",
-    "image": "https://image.itmedia.co.jp/business/articles/2607/10/cover_news022.jpg",
-    "fetched_at": "2026-07-10 08:37:18",
-    "ja_summary": "・飲食店での非対面化が進む一方、接客の価値が失われる課題が浮上。\n・すかいらーくはAIを人との置き換えではなく、業務効率化と接客サポートの両立へ活用。\n・利便性と「人ならではの温かみ」を両立させる新たな店舗体験を模索。"
-  },
-  {
-    "title": "ペットの気持ちもわかる?　AIグラス首位「Rokid」が攻める日本市場",
-    "link": "https://www.watch.impress.co.jp/docs/news/2123575.html",
-    "source": "Impress Watch",
-    "published": "",
-    "summary": "フューチャーモデルは、AIウェアラブルブランド「Rokid」が展開するAIグラス「Rokid スマートAIグラス」(Rokid Glasses)を発売した。価格は109,890円。",
-    "image": "https://www.watch.impress.co.jp/img/ipw/list/2123/575/01.jpg",
-    "fetched_at": "2026-07-10 08:37:30",
-    "ja_summary": "・フューチャーモデルが、AIグラス「Rokid Glasses」を日本で発売。\n・価格は10万9890円で、AI技術を活用しペットの気持ちを理解する機能などを搭載。\n・同ブランドは日本市場での展開を本格化させている。"
   }
 ]
