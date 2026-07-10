@@ -1,5 +1,75 @@
 [
   {
+    "title": "LeRobot v0.6.0 の 学習用GPUガイド - ポリシー別のVRAM目安とクラウド実行方法",
+    "link": "https://note.com/npaka/n/naf1aec4456cf",
+    "source": "note (npaka)",
+    "published": "Wed, 08 Jul 2026 08:52:50 +0900",
+    "summary": "<p id=\"8dd5c010-60c1-4912-92dd-276484691a95\" name=\"8dd5c010-60c1-4912-92dd-276484691a95\">以下の記事が面白かったので、簡単にまとめました。</p><figure id=\"ca0d2950-728f-47fa-98ef-0a6122384b5a\" name=\"ca0d2950-728f-47fa-98ef-0a6122384b5a\"><blockquote><p id=\"6d1f0c26-ffb5-4803-97f6-6c2ae47b159c\" name=\"6d1f0c26-ffb5-4803-97f6-6c2ae47b159c\"><strong>・</strong><a href=\"https://huggingface.co/docs/lerobot/v0.6.0/hardware_guide\" rel=\"nofollow noopener\" target=\"_blank\"><strong>Compute HW Guide for LeRobot Training</strong></a></p></blockquote>\n<figcaption></figcaption></figure><br /><a href=\"https://note.com/npaka/n/naf1aec4456cf\">続きをみる</a>",
+    "image": "https://assets.st-note.com/production/uploads/images/292453367/rectangle_large_type_2_ad03d7748602843bac27d145ca93d9c3.png?width=800",
+    "fetched_at": "2026-07-10 22:34:07",
+    "ja_summary": "・LeRobot v0.6.0の学習に必要なGPU性能（ポリシー別のVRAM目安）が公開された。\n・各モデルに適したハードウェア構成と、クラウド環境での実行方法を網羅。\n・ロボット学習の開発効率を高めるための推奨スペックを確認できる。"
+  },
+  {
+    "title": "ChatGPTの音声AI新モデルを公開",
+    "link": "https://news.yahoo.co.jp/pickup/6587250?source=rss",
+    "source": "Yahoo!ニュース IT・科学",
+    "published": "Wed, 08 Jul 2026 23:22:09 GMT",
+    "summary": "",
+    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/7/9/c80fa73ba3a540b1d95b5e7bd2fb2e09e1a64cb2a4eddcfb06b27a99c9a2e280.jpg",
+    "fetched_at": "2026-07-10 22:34:09",
+    "ja_summary": "・OpenAIがChatGPTの新たな音声AIモデルを公開\n・人間のように自然な対話と感情表現が可能に\n・応答速度が大幅に向上し、リアルタイムでの会話が実現"
+  },
+  {
+    "title": "Meta「Muse Spark 1.1」を一般公開。AIコーディング市場に算入",
+    "link": "https://www.techno-edge.net/article/2026/07/10/5278.html",
+    "source": "TechnoEdge",
+    "published": "Fri, 10 Jul 2026 06:45:02 +0900",
+    "summary": "Meta Superintelligence Labsは、マルチモーダル推論AIモデル「Muse Spark 1.1」を発表しました。4月に発表された最初のモデルからエージェントタスク、コーディング、マルチモーダル理解の各分野での改善が盛り込まれたアップグレード版です。",
+    "image": "https://www.techno-edge.net/imgs/rss/32863.jpg",
+    "fetched_at": "2026-07-10 22:34:12",
+    "ja_summary": "・MetaがマルチモーダルAI「Muse Spark 1.1」を一般公開。\n・コーディングやエージェントタスクの性能を大幅に向上。\n・AIコーディング市場へ本格参入し、開発効率化を促進する。"
+  },
+  {
+    "title": "SpaceXAI、新AIモデル「Grok 4.5」を正式公開　Cursorと共同トレーニング",
+    "link": "https://www.techno-edge.net/article/2026/07/10/5277.html",
+    "source": "TechnoEdge",
+    "published": "Fri, 10 Jul 2026 06:30:02 +0900",
+    "summary": "xAI改めSpaceXAIは、最新AIモデル「Grok 4.5」を正式に一般公開しました。",
+    "image": "https://www.techno-edge.net/imgs/rss/32848.jpg",
+    "fetched_at": "2026-07-10 22:34:12",
+    "ja_summary": "・SpaceXAIが最新AIモデル「Grok 4.5」を正式公開。\n・コーディングエディタ「Cursor」と共同でトレーニングを実施。\n・最新モデルの一般提供を開始し、開発環境との連携を強化。"
+  },
+  {
+    "title": "正直に言う。お前のClaude Codeの使い方は間違っている",
+    "link": "https://qiita.com/tehito/items/356e5f1dba112a075be1",
+    "source": "Qiita (Popular)",
+    "published": "2026-06-25T22:43:35+09:00",
+    "summary": "「Claude Code、思ったより速くならないな」と感じているなら、原因はモデルでもプランでもない。**お前の使い方だ。**\n\nきつい言い方をして悪い。だが3ヶ月、毎日Claude Codeと殴り合いながらExpo + Supabase + Swiftネイティブの通話アプリを個人開発して、確信した。\n\n> 速くならない人間は、全員同じ7つのミスをしている。\n\nこの記事はポエムでも宣伝でもない。*",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYzODAxMzM3JTJGODg1YjIwODhlY2FkOTc4NDllMThkNjBhMTc4NDkxNjgyMTUxZjgzZSUyRnhfbGFyZ2UucG5nJTNGMTc4MTAwMjkyMT9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9YWI1ZTk2M2U2NmNlMzVjYzM1M2NkYjYxZDBlZDRmZTU%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Df248deb266070c4524731a5e3fb4e24c?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUU2JUFEJUEzJUU3JTlCJUI0JUUzJTgxJUFCJUU4JUE4JTgwJUUzJTgxJTg2JUUzJTgwJTgyJUUzJTgxJThBJUU1JTg5JThEJUUzJTgxJUFFQ2xhdWRlJTIwQ29kZSVFMyU4MSVBRSVFNCVCRCVCRiVFMyU4MSU4NCVFNiU5NiVCOSVFMyU4MSVBRiVFOSU5NiU5MyVFOSU4MSU5NSVFMyU4MSVBMyVFMyU4MSVBNiVFMyU4MSU4NCVFMyU4MiU4QiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTEwMDRjODc5ODYxMGJmODc2ZTRjZGUzZjZhNWJjNzk1&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDB0ZWhpdG8mdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz0yM2JlYWYwMTYwMzQwY2VlMDZiOTlmZjlhMTBjZDVjMg&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=35ce81ed6fbfbdc4773a37b80ca222a9",
+    "fetched_at": "2026-07-10 22:34:44",
+    "ja_summary": "Claude Codeの生産性が上がらない原因は、モデルの性能ではなく「誤った使い方」にある。\n開発効率を劇的に高めるためには、多くのユーザーが陥っている共通の「7つのミス」を正す必要がある。\n著者が実体験を通じて導き出した、Claude Codeを最適化するための具体的な運用テクニックを解説。"
+  },
+  {
+    "title": "キャッチアップしないと不安。── AI時代のエンジニアが罹る病 「FOMO」 と付き合う。",
+    "link": "https://qiita.com/tomoki-miso/items/8290227346c099e84b1c",
+    "source": "Qiita (Popular)",
+    "published": "2026-06-22T18:36:07+09:00",
+    "summary": "## その気持ち、FOMO かも\n\n毎日、毎時間、何かが出る。\n新しいモデル、新しいフレームワーク。\n誰かの「これ知らないとヤバい」。\nタイムラインを開くたびに、自分が少しずつ取り残されていく感覚がある。\n\nこの感情には名前が付いている。\n**FOMO ── Fear of Missing Out**。つまり、取り残される恐怖。\n\n正直に言うと、最近これがずっとつらい。\n追いつこうとするほど、追い",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Ftech-festa-ogp-background-4b5015b2c518c7e6b9062a7c9f5f5e90.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGNDI3NjIxOCUyRnByb2ZpbGUtaW1hZ2VzJTJGMTc2NDY0MDE5Mz9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9ZjM4M2Q0MDViYTk5NTE2MDgwMmRjMGI3YzE3OTc4MjE%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkZhZWZkYTJjNWM0YTM5MTI1ZDg2NDk2ZjY2YzRlM2E5ZTc0MGM2NzQ0JTJGb3JpZ2luYWwuanBnJTNGMTc2NDA2OTQ4Nz9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz0wZjhiYzQ2YjY3MTZkNTc5OTEzYWE0ODk0MTgyMWU0MQ%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D791f252db911012556b61824e0d5aae0?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgyJUFEJUUzJTgzJUEzJUUzJTgzJTgzJUUzJTgzJTgxJUUzJTgyJUEyJUUzJTgzJTgzJUUzJTgzJTk3JUUzJTgxJTk3JUUzJTgxJUFBJUUzJTgxJTg0JUUzJTgxJUE4JUU0JUI4JThEJUU1JUFFJTg5JUUzJTgwJTgyJUUyJTk0JTgwJUUyJTk0JTgwJTIwQUklRTYlOTklODIlRTQlQkIlQTMlRTMlODElQUUlRTMlODIlQTglRTMlODMlQjMlRTMlODIlQjglRTMlODMlOEIlRTMlODIlQTIlRTMlODElOEMlRTclQkQlQjklRTMlODIlOEIlRTclOTclODUlMjAlRTMlODAlOENGT01PJUUzJTgwJThEJTIwJUUzJTgxJUE4JUU0JUJCJTk4JUUzJTgxJThEJUU1JTkwJTg4JUUzJTgxJTg2JUUzJTgwJTgyJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjNGRkZGRkYmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9OTQ4MDI3MDk4ZjM3ZGQxMWY3Y2I5Mzc5NDQzZmRjNWQ&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDB0b21va2ktbWlzbyZ0eHQtY29sb3I9JTIzRkZGRkZGJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTIzMjRiNGU5MzUzYTU5MTcyZDk1MzM1NzA1ZWUyOTMy&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=5qCq5byP5Lya56S-44OJ44OD44OI44Ot44Kw&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%23FFFFFF&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=8901647fa8d38139b4efbc96f934b263",
+    "fetched_at": "2026-07-10 22:34:45",
+    "ja_summary": "AI技術の進化が速すぎるあまり、新しい情報を追いきれない不安や焦燥感「FOMO（取り残される恐怖）」を感じるエンジニアが増えている。\n情報の取捨選択を諦め、すべてを追おうとしない心構えを持つことが、AI時代の精神的な健康を保つために必要である。"
+  },
+  {
+    "title": "商業書籍の出版をCodexで爆速化するノウハウ",
+    "link": "https://qiita.com/minorun365/items/9059f26629e0976bc0e2",
+    "source": "Qiita (Popular)",
+    "published": "2026-06-21T20:55:41+09:00",
+    "summary": "私はこれまで、ありがたいことに複数の商業技術書を出版させてもらう機会に恵まれました。\n長年ライターをやっていたりするわけではなく、エンジニア業務の傍ら、半分趣味で2年ほど執筆を行なっています。\n\nhttps://www.amazon.co.jp/stores/author/B0D4VSWS9P\n\n元々Qiitaを書き慣れていて筆が速いというのもありますが、特にここ半年ほどは、Claude Code",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Ftech-festa-ogp-background-4b5015b2c518c7e6b9062a7c9f5f5e90.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYxNjMzODU2JTJGYzIyNmJjMzRhYzZjNDVhMjFmNWU1MTJkMWM3MmE2ZjA5NzQ5NDU3OCUyRnhfbGFyZ2UucG5nJTNGMTY5OTk1NDk3Nj9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9MTlhZDI4ODRkNmQ2MzEyNjMxZDJkNTBjOTZmOTA5ZjU%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYxZTIwZGI1ZTdlNDA3ZWFlN2I5NzBlYzk5OTg4MGRjOGMzY2MwZjY0JTJGb3JpZ2luYWwuanBnJTNGMTY2NzI3NDk2Mz9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz04OTI0NDcwMDk1MDMyZjUxYmZlNzE3ZjVkOGUzYmE3ZA%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3Dbb59006175a60e1b630ed499046d0424?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUU1JTk1JTg2JUU2JUE1JUFEJUU2JTlCJUI4JUU3JUIxJThEJUUzJTgxJUFFJUU1JTg3JUJBJUU3JTg5JTg4JUUzJTgyJTkyQ29kZXglRTMlODElQTclRTclODglODYlRTklODAlOUYlRTUlOEMlOTYlRTMlODElOTklRTMlODIlOEIlRTMlODMlOEUlRTMlODIlQTYlRTMlODMlOEYlRTMlODIlQTYmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyM0ZGRkZGRiZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz0zYmMwYWRjYTg3YmRkYzljOWM2NDM4YmE4YmM1MTkzZA&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBtaW5vcnVuMzY1JnR4dC1jb2xvcj0lMjNGRkZGRkYmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9NDNhZjg0MGViODE0MzBhMmQyODM2OGUyY2Y0NjIwMTY&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=S0RESeOCouOCuOODo-OCpOODq-mWi-eZuuOCu-ODs-OCv-ODvOagquW8j-S8muekvg&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%23FFFFFF&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=5a2d659a75805090f9b6b2d211df861a",
+    "fetched_at": "2026-07-10 22:34:46",
+    "ja_summary": "・エンジニアが副業で商業技術書を短期間に複数出版するノウハウを公開。\n・Qiitaでの執筆経験を活かしつつ、AIツール「Claude Code」を活用して執筆を爆速化。\n・AIを導入することで、働きながら効率的に質の高い書籍を書き上げる手法を紹介。"
+  },
+  {
     "title": "NEC変えた統治改革／海底ケーブル切断リスク／ハンズマン、死に筋商品生かす（2026年7月10日版） (日経ビジネスAUDIOモーニング)",
     "link": "https://business.nikkei.com/atcl/audio/22/00001/070900915/",
     "source": "日経ビジネス 最新",
@@ -928,75 +998,5 @@
     "image": "https://www.watch.impress.co.jp/img/ipw/list/2123/575/01.jpg",
     "fetched_at": "2026-07-10 08:37:30",
     "ja_summary": "・フューチャーモデルが、AIグラス「Rokid Glasses」を日本で発売。\n・価格は10万9890円で、AI技術を活用しペットの気持ちを理解する機能などを搭載。\n・同ブランドは日本市場での展開を本格化させている。"
-  },
-  {
-    "title": "ChatGPTの音声対話を一新　ほぼ“本物の会話”の音声モデル「GPT-Live」",
-    "link": "https://www.watch.impress.co.jp/docs/news/2123658.html",
-    "source": "Impress Watch",
-    "published": "",
-    "summary": "OpenAIは、\"本物の会話”に近いやり取りが行なえる新世代の音声モデル「GPT‑Live」を発表した。ChatGPTの音声機能「ChatGPT Voice」を一新し、聞き取りと発話を同時に行なうことでより自然な会話を実現できるという。",
-    "image": "https://www.watch.impress.co.jp/img/ipw/list/2123/658/open1.jpg",
-    "fetched_at": "2026-07-10 08:37:32",
-    "ja_summary": "・OpenAIが新音声モデル「GPT-Live」を発表。\n・聞き取りと発話を同時に行い、人間のような自然な会話を実現。\n・従来の「ChatGPT Voice」を刷新し、対話の質を大幅に向上。"
-  },
-  {
-    "title": "OpenAI、次世代モデル「GPT-5.6」を7月9日に一般公開",
-    "link": "https://japan.cnet.com/article/35250340/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "米OpenAIは7月8日、次世代モデル「GPT-5.6」を現地時間の今週木曜日（7月9日）に一般公開すると、公式X（旧Twitter）で明らかにした。最上位の「Sol」、日常業務向けの「Terra」、高速・低価格の「Luna」の3モデルが対象となる。あわせて、プレビューの利用枠を世界へ広げるとした。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35250340/\"><img src=\"https://japan.cnet.com/storage/2026/07/08/749adef3789dcfaca0627248ddb241cf/t/184/138/d/2026-06-27_5.29の画像.jpg\" /></a>",
-    "image": "https://japan.cnet.com/storage/2026/07/08/749adef3789dcfaca0627248ddb241cf/t/184/138/d/2026-06-27_5.29の画像.jpg",
-    "fetched_at": "2026-07-10 08:37:33",
-    "ja_summary": "・OpenAIが次世代モデル「GPT-5.6」を7月9日に一般公開する。\n・性能別の「Sol」「Terra」「Luna」の3モデルが提供される。\n・各モデルのプレビュー利用枠が世界規模へ拡大される。"
-  },
-  {
-    "title": "アマゾンの極秘プロジェクト「Moonraker」の社内文書。複数のタスク処理を可能にするアレクサと立ちはだかる「コストの壁」",
-    "link": "https://www.businessinsider.jp/article/2026-07-amazon-alexa-moonraker-ai/",
-    "source": "Business Insider Japan",
-    "published": "Thu, 09 Jul 2026 23:00:00 GMT",
-    "summary": "アマゾンの「ムーンレイカー（Moonraker）」プロジェクトは、アレクサにより多くのAIエージェント機能を搭載することを進めています。社内文書によると、この取り組みには多大なコストが伴います。",
-    "image": "https://media.loom-app.com/loom/2026/07/09/4a09ab8a-9e5d-4a02-b501-6bad8b21d1f1/original.jpg?w=1200&amp;h=630",
-    "fetched_at": "2026-07-10 08:37:33",
-    "ja_summary": "・AmazonはAIエージェント機能を強化する新プロジェクト「Moonraker」を推進中。\n・Alexaの多機能化を目指すが、実現には莫大な運用コストが課題となっている。"
-  },
-  {
-    "title": "NemoClaw Deep Agents Blueprint の概要",
-    "link": "https://note.com/npaka/n/ncb081e6b0c52",
-    "source": "note (npaka)",
-    "published": "Thu, 09 Jul 2026 09:05:43 +0900",
-    "summary": "<p id=\"a683919a-4efe-4852-9085-121fc233f484\" name=\"a683919a-4efe-4852-9085-121fc233f484\">以下の記事が面白かったので、簡単にまとめました。</p><figure id=\"372cd4e7-6e89-4cec-9814-c2fc4cbb2d57\" name=\"372cd4e7-6e89-4cec-9814-c2fc4cbb2d57\"><blockquote><p id=\"caa71603-0c16-4167-8ac6-863ce5d9a98e\" name=\"caa71603-0c16-4167-8ac6-863ce5d9a98e\"><strong>・</strong><a href=\"https://www.langchain.com/blog/langchain-and-nvidia-launch-the-nemoclaw-deep-agents-blueprint\" rel=\"nofollow noopener\" target=\"_blank\"><strong>LangChain and NVIDIA launch the NemoClaw Deep Agents Blueprint</strong></a></p></blockquote>\n<figcaption></figcaption></figure><br /><a href=\"https://note.com/npaka/n/ncb081e6b0c52\">続きをみる</a>",
-    "image": "https://assets.st-note.com/production/uploads/images/292756738/rectangle_large_type_2_5f150e9d9194025718f3cddb4b056c8d.png?width=800",
-    "fetched_at": "2026-07-10 08:37:36",
-    "ja_summary": "・LangChainとNVIDIAが、自律型AIエージェント開発のための新フレームワーク「NemoClaw」を発表。\n・高度な推論とツール活用を行うAIエージェントの構築を効率化し、開発を容易にするための設計図を提供。\n・エンタープライズ環境での実用的なAIエージェント開発を加速させることが期待される。"
-  },
-  {
-    "title": "OpenAI、「GPT-5.6」と「ChatGPT Work」をリリース--Anthropicに対抗",
-    "link": "https://japan.zdnet.com/article/35250410/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "OpenAIの最新の発表は、単なるモデルのアップグレードにとどまらない大きな意味を持っている。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35250410/\"><img src=\"https://japan.zdnet.com/storage/2026/07/10/76bfc0da35cf23c6be7111c9bbbf2de6/t/184/138/d/openai-gpt56-intro_l.jpg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2026/07/10/76bfc0da35cf23c6be7111c9bbbf2de6/t/184/138/d/openai-gpt56-intro_l.jpg",
-    "fetched_at": "2026-07-10 08:37:39",
-    "ja_summary": "・OpenAIが新モデル「GPT-5.6」と法人向け新サービス「ChatGPT Work」をリリース。\n・競合のAnthropicに対抗し、モデルの性能向上だけでなく業務活用を強化。\n・単なるアップグレードを超えた、ビジネス領域でのシェア拡大を狙う戦略的な発表。"
-  },
-  {
-    "title": "日本の製造業、AI活用で意欲は高いが展開では遅れ--ロックウェル調査",
-    "link": "https://japan.zdnet.com/article/35250403/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "ロックウェル・オートメーションが実施した調査によると、「スマート製造」やAIの取り組みが世界的には本番展開に進む一方で、日本は意欲が高いものの展開が遅れている。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35250403/\"><img src=\"https://japan.zdnet.com/storage/2026/07/09/0be22a923f74ac87a99d4427182321b1/t/184/138/d/rockweljpn_l.jpg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2026/07/09/0be22a923f74ac87a99d4427182321b1/t/184/138/d/rockweljpn_l.jpg",
-    "fetched_at": "2026-07-10 08:37:39",
-    "ja_summary": "・日本の製造業はAI活用への意欲は高いものの、実際の導入・展開は世界的に遅れている。\n・ロックウェル・オートメーションの調査により、他国と日本のスマート製造における進捗の差が浮き彫りとなった。"
-  },
-  {
-    "title": "チャッピーが代わりに働いてくれる時代到来『ChatGPT Work』発表　アプリやファイルを自律操作、下調べから成果物まで仕上げ　Codexを応用",
-    "link": "https://www.techno-edge.net/article/2026/07/10/5279.html",
-    "source": "TechnoEdge",
-    "published": "Fri, 10 Jul 2026 07:30:03 +0900",
-    "summary": "米OpenAIが、ChatGPT内で動作する新しいAIエージェント「ChatGPT Work」の提供を開始しました。",
-    "image": "https://www.techno-edge.net/imgs/rss/32856.jpg",
-    "fetched_at": "2026-07-10 08:37:40",
-    "ja_summary": "・OpenAIがAIエージェント「ChatGPT Work」を発表。\n・アプリやファイルを自律操作し、調査から成果物の作成まで自動実行。\n・人間が指示するだけで複雑なタスクを完結できる業務効率化ツールが登場。"
   }
 ]
