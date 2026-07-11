@@ -1,5 +1,25 @@
 [
   {
+    "title": "TikTokがAI生成スパム対策強化　C2PAに参加",
+    "link": "https://www.watch.impress.co.jp/docs/news/2124354.html",
+    "source": "Impress Watch",
+    "published": "",
+    "summary": "TikTokは10日、AI生成コンテンツを見分けて理解するための新たな施策を発表した。AIリテラシー向上に向けた教育コンテンツの導入、AI生成スパムを投稿するアカウントの検出改善、標準化団体C2PAの運営委員会への参加を進める。",
+    "image": "https://www.watch.impress.co.jp/img/ipw/list/2124/354/1.jpg",
+    "fetched_at": "2026-07-12 02:39:30",
+    "ja_summary": "・TikTokがAI生成スパムの対策を強化し、検出精度を改善。\n・AIの仕組みを学ぶ教育コンテンツを導入し、ユーザーのリテラシー向上を図る。\n・標準化団体「C2PA」へ参加し、AIコンテンツの判別技術を推進。"
+  },
+  {
+    "title": "GPT-5.6 Sol ・ Terra ・ Luna のリリース",
+    "link": "https://note.com/npaka/n/n5cc5fc5ad25f",
+    "source": "note (npaka)",
+    "published": "Fri, 10 Jul 2026 02:25:40 +0900",
+    "summary": "<p id=\"792be65f-8b15-4dac-b87d-bca0a0dcf43f\" name=\"792be65f-8b15-4dac-b87d-bca0a0dcf43f\">以下の記事が面白かったので、簡単にまとめました。</p><figure id=\"7f52065a-4a71-4071-b7b9-2515b606277b\" name=\"7f52065a-4a71-4071-b7b9-2515b606277b\"><blockquote><p id=\"507798e5-7ed0-4e30-98a0-cb82e6b01979\" name=\"507798e5-7ed0-4e30-98a0-cb82e6b01979\"><strong>・</strong><a href=\"https://openai.com/index/gpt-5-6/\" rel=\"nofollow noopener\" target=\"_blank\"><strong>GPT-5.6: Frontier intelligence that scales with your ambition</strong></a> </p></blockquote>\n<figcaption></figcaption></figure><br /><a href=\"https://note.com/npaka/n/n5cc5fc5ad25f\">続きをみる</a>",
+    "image": "https://assets.st-note.com/production/uploads/images/292986741/rectangle_large_type_2_232e0ad8396e6105e236930924cc2861.jpeg?width=800",
+    "fetched_at": "2026-07-12 02:39:36",
+    "ja_summary": "OpenAIが次世代AIモデル「GPT-5.6」シリーズ（Sol、Terra、Luna）を発表しました。\nそれぞれ異なる用途や規模に最適化された、スケーラブルな高性能モデル群です。\n最新のフロンティアインテリジェンスとして、幅広いビジネスニーズへの対応を目指しています。"
+  },
+  {
     "title": "まだ続くFable 5祭り、Claudeが特例で使用量リセット　競合OpenAIのGPT-5.6 / ChatGPT Work提供直前",
     "link": "https://www.techno-edge.net/article/2026/07/10/5282.html",
     "source": "TechnoEdge",
@@ -978,25 +998,5 @@
     "image": "https://business.nikkei.com/atcl/gen/19/00800/070200029/fb.jpg",
     "fetched_at": "2026-07-10 20:31:42",
     "ja_summary": "・日本のデジタル経済は海底ケーブルという「見えない大動脈」に過度に依存している。\n・ケーブル損傷はAI・金融・クラウドを停止させかねない重大なリスクである。\n・海底ケーブルの防衛こそが、AI時代の国家的な競争力を左右する鍵となる。"
-  },
-  {
-    "title": "ウーブン、自動運転AI開発に7工程　走行データ選別にAI検索",
-    "link": "https://xtech.nikkei.com/atcl/nxt/mag/at/18/00006/00892/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "トヨタ自動車子会社のウーブン・バイ・トヨタ（東京・中央）が自動運転AI（人工知能）の学習データ作成環境について明らかにした。走行車両から収集したデータを7つの工程に分けてAIモデルに学習させ、AIモデルの性能を高める。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/mag/at/18/00006/00892/topm.jpg?20220512",
-    "fetched_at": "2026-07-10 20:31:47",
-    "ja_summary": "・ウーブン・バイ・トヨタが自動運転AIの学習データ作成プロセスを刷新。\n・走行データを7つの工程に分け、AI検索を活用して効率的に選別・学習。\n・精度の高いデータを体系的に抽出することで、AIモデルの性能を最大化する。"
-  },
-  {
-    "title": "NVIDIA経済圏、E2Eで広がるか　中国勢はSoC内製で依存解消へ",
-    "link": "https://xtech.nikkei.com/atcl/nxt/mag/at/18/00006/00894/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "米NVIDIA（エヌビディア）がEnd-to-End（E2E）自動運転のエコシステム（経済圏）構築に力を入れている。E2E向けのAI（人工知能）半導体で高いシェアを持ち、AIモデルにも事業領域を広げつつある。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/mag/at/18/00006/00894/topm.jpg?20220512",
-    "fetched_at": "2026-07-10 20:31:48",
-    "ja_summary": "・NVIDIAが自動運転のAI半導体からモデル開発まで一貫したエコシステム構築を強化。\n・市場シェアを武器に事業領域を拡大し、自動運転開発の主導権を握る狙い。\n・対照的に、中国メーカーは半導体の内製化（SoC）を進め、NVIDIA依存からの脱却を急ぐ。"
   }
 ]
