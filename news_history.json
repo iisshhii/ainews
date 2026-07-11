@@ -1,5 +1,35 @@
 [
   {
+    "title": "ウーブン、自動運転AI開発に7工程　走行データ選別にAI検索",
+    "link": "https://xtech.nikkei.com/atcl/nxt/mag/at/18/00006/00892/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "トヨタ自動車子会社のウーブン・バイ・トヨタ（東京・中央）が自動運転AI（人工知能）の学習データ作成環境について明らかにした。走行車両から収集したデータを7つの工程に分けてAIモデルに学習させ、AIモデルの性能を高める。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/mag/at/18/00006/00892/topm.jpg?20220512",
+    "fetched_at": "2026-07-12 03:33:38",
+    "ja_summary": "・トヨタ傘下のウーブンが自動運転AIの学習プロセスを7工程に体系化\n・走行データをAIで効率的に選別・学習させ、モデル性能を向上\n・膨大なデータ処理を自動化し、開発を加速させる狙い"
+  },
+  {
+    "title": "NVIDIA経済圏、E2Eで広がるか　中国勢はSoC内製で依存解消へ",
+    "link": "https://xtech.nikkei.com/atcl/nxt/mag/at/18/00006/00894/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "米NVIDIA（エヌビディア）がEnd-to-End（E2E）自動運転のエコシステム（経済圏）構築に力を入れている。E2E向けのAI（人工知能）半導体で高いシェアを持ち、AIモデルにも事業領域を広げつつある。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/mag/at/18/00006/00894/topm.jpg?20220512",
+    "fetched_at": "2026-07-12 03:33:39",
+    "ja_summary": "・NVIDIAが自動運転のAI半導体からモデル開発まで一貫した経済圏を構築中。\n・高いシェアを武器にEnd-to-End（E2E）自動運転の主導権を握る狙い。\n・対照的に、中国勢は独自のSoC内製化を進め、NVIDIA依存からの脱却を急ぐ。"
+  },
+  {
+    "title": "アステモ、E2E基盤で日立と協業　「2ステージAIでNOA」",
+    "link": "https://xtech.nikkei.com/atcl/nxt/mag/at/18/00006/00893/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "Astemo（アステモ）はAI（人工知能）を全面的に活用するEnd-to-End（E2E）技術の開発基盤を日立製作所と共同で構築する。アステモがこれまで培ってきたソフトウエア定義車両（SDV）向けの開発基盤をベースに、日立のデジタルツイン技術などを組み合わせ、先進運転支援システム（ADAS）の高度化を目指す。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/mag/at/18/00006/00893/topm.jpg?20220512",
+    "fetched_at": "2026-07-12 03:33:39",
+    "ja_summary": "・アステモと日立が、AIを活用した「End-to-End」開発基盤の共同構築で連携。\n・日立のデジタルツイン技術等を活用し、運転支援システム（ADAS）の高度化を加速。\n・ソフトウエア定義車両（SDV）向けの開発体制を強化し、自動運転技術の実用化を目指す。"
+  },
+  {
     "title": "TikTokがAI生成スパム対策強化　C2PAに参加",
     "link": "https://www.watch.impress.co.jp/docs/news/2124354.html",
     "source": "Impress Watch",
@@ -968,35 +998,5 @@
     "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Ftech-festa-ogp-background-4b5015b2c518c7e6b9062a7c9f5f5e90.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGNDI3NjIxOCUyRnByb2ZpbGUtaW1hZ2VzJTJGMTc2NDY0MDE5Mz9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9ZjM4M2Q0MDViYTk5NTE2MDgwMmRjMGI3YzE3OTc4MjE%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkZhZWZkYTJjNWM0YTM5MTI1ZDg2NDk2ZjY2YzRlM2E5ZTc0MGM2NzQ0JTJGb3JpZ2luYWwuanBnJTNGMTc2NDA2OTQ4Nz9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz0wZjhiYzQ2YjY3MTZkNTc5OTEzYWE0ODk0MTgyMWU0MQ%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D791f252db911012556b61824e0d5aae0?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgyJUFEJUUzJTgzJUEzJUUzJTgzJTgzJUUzJTgzJTgxJUUzJTgyJUEyJUUzJTgzJTgzJUUzJTgzJTk3JUUzJTgxJTk3JUUzJTgxJUFBJUUzJTgxJTg0JUUzJTgxJUE4JUU0JUI4JThEJUU1JUFFJTg5JUUzJTgwJTgyJUUyJTk0JTgwJUUyJTk0JTgwJTIwQUklRTYlOTklODIlRTQlQkIlQTMlRTMlODElQUUlRTMlODIlQTglRTMlODMlQjMlRTMlODIlQjglRTMlODMlOEIlRTMlODIlQTIlRTMlODElOEMlRTclQkQlQjklRTMlODIlOEIlRTclOTclODUlMjAlRTMlODAlOENGT01PJUUzJTgwJThEJTIwJUUzJTgxJUE4JUU0JUJCJTk4JUUzJTgxJThEJUU1JTkwJTg4JUUzJTgxJTg2JUUzJTgwJTgyJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjNGRkZGRkYmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9OTQ4MDI3MDk4ZjM3ZGQxMWY3Y2I5Mzc5NDQzZmRjNWQ&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDB0b21va2ktbWlzbyZ0eHQtY29sb3I9JTIzRkZGRkZGJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTIzMjRiNGU5MzUzYTU5MTcyZDk1MzM1NzA1ZWUyOTMy&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=5qCq5byP5Lya56S-44OJ44OD44OI44Ot44Kw&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%23FFFFFF&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=8901647fa8d38139b4efbc96f934b263",
     "fetched_at": "2026-07-10 22:34:45",
     "ja_summary": "AI技術の進化が速すぎるあまり、新しい情報を追いきれない不安や焦燥感「FOMO（取り残される恐怖）」を感じるエンジニアが増えている。\n情報の取捨選択を諦め、すべてを追おうとしない心構えを持つことが、AI時代の精神的な健康を保つために必要である。"
-  },
-  {
-    "title": "商業書籍の出版をCodexで爆速化するノウハウ",
-    "link": "https://qiita.com/minorun365/items/9059f26629e0976bc0e2",
-    "source": "Qiita (Popular)",
-    "published": "2026-06-21T20:55:41+09:00",
-    "summary": "私はこれまで、ありがたいことに複数の商業技術書を出版させてもらう機会に恵まれました。\n長年ライターをやっていたりするわけではなく、エンジニア業務の傍ら、半分趣味で2年ほど執筆を行なっています。\n\nhttps://www.amazon.co.jp/stores/author/B0D4VSWS9P\n\n元々Qiitaを書き慣れていて筆が速いというのもありますが、特にここ半年ほどは、Claude Code",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Ftech-festa-ogp-background-4b5015b2c518c7e6b9062a7c9f5f5e90.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYxNjMzODU2JTJGYzIyNmJjMzRhYzZjNDVhMjFmNWU1MTJkMWM3MmE2ZjA5NzQ5NDU3OCUyRnhfbGFyZ2UucG5nJTNGMTY5OTk1NDk3Nj9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9MTlhZDI4ODRkNmQ2MzEyNjMxZDJkNTBjOTZmOTA5ZjU%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYxZTIwZGI1ZTdlNDA3ZWFlN2I5NzBlYzk5OTg4MGRjOGMzY2MwZjY0JTJGb3JpZ2luYWwuanBnJTNGMTY2NzI3NDk2Mz9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz04OTI0NDcwMDk1MDMyZjUxYmZlNzE3ZjVkOGUzYmE3ZA%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3Dbb59006175a60e1b630ed499046d0424?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUU1JTk1JTg2JUU2JUE1JUFEJUU2JTlCJUI4JUU3JUIxJThEJUUzJTgxJUFFJUU1JTg3JUJBJUU3JTg5JTg4JUUzJTgyJTkyQ29kZXglRTMlODElQTclRTclODglODYlRTklODAlOUYlRTUlOEMlOTYlRTMlODElOTklRTMlODIlOEIlRTMlODMlOEUlRTMlODIlQTYlRTMlODMlOEYlRTMlODIlQTYmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyM0ZGRkZGRiZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz0zYmMwYWRjYTg3YmRkYzljOWM2NDM4YmE4YmM1MTkzZA&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBtaW5vcnVuMzY1JnR4dC1jb2xvcj0lMjNGRkZGRkYmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9NDNhZjg0MGViODE0MzBhMmQyODM2OGUyY2Y0NjIwMTY&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=S0RESeOCouOCuOODo-OCpOODq-mWi-eZuuOCu-ODs-OCv-ODvOagquW8j-S8muekvg&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%23FFFFFF&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=5a2d659a75805090f9b6b2d211df861a",
-    "fetched_at": "2026-07-10 22:34:46",
-    "ja_summary": "・エンジニアが副業で商業技術書を短期間に複数出版するノウハウを公開。\n・Qiitaでの執筆経験を活かしつつ、AIツール「Claude Code」を活用して執筆を爆速化。\n・AIを導入することで、働きながら効率的に質の高い書籍を書き上げる手法を紹介。"
-  },
-  {
-    "title": "NEC変えた統治改革／海底ケーブル切断リスク／ハンズマン、死に筋商品生かす（2026年7月10日版） (日経ビジネスAUDIOモーニング)",
-    "link": "https://business.nikkei.com/atcl/audio/22/00001/070900915/",
-    "source": "日経ビジネス 最新",
-    "published": "",
-    "summary": "［新連載］NEC、「中小企業集団」を変えた統治改革　1000億円未満M＆Aは執行に権限／海底ケーブル切断でAIもクラウドも止まる　狙われる「データのシーレーン」／ハンズマン大薗社長の経営教室「7割の死に筋商品で『絶対何かある』店作り」、他",
-    "image": "https://business.nikkei.com/atcl/audio/22/00001/070900915/fb.jpg",
-    "fetched_at": "2026-07-10 20:31:42",
-    "ja_summary": "・NECが1000億円未満のM&A権限を現場に移譲し、統治改革を推進。\n・AIやクラウドの基盤となる海底ケーブルの切断リスクと「データのシーレーン」防衛の重要性を解説。\n・ホームセンター「ハンズマン」が、あえて売れない商品を並べる独自戦略で集客力を高める秘策を公開。"
-  },
-  {
-    "title": "海底ケーブル切断でAIもクラウドも止まる　狙われる「データのシーレーン」 (分断時代の経済安保)",
-    "link": "https://business.nikkei.com/atcl/gen/19/00800/070200029/",
-    "source": "日経ビジネス 最新",
-    "published": "",
-    "summary": "日本のデジタル経済は、海底ケーブルが1本切れただけで止まりうる。AIもクラウドも金融も、すべては“見えないシーレーン”に依存している。今、その大動脈が世界で損傷し、攻撃対象として浮上している。海底ケーブルを守れる国だけが、AI時代の競争力を持ち続ける。",
-    "image": "https://business.nikkei.com/atcl/gen/19/00800/070200029/fb.jpg",
-    "fetched_at": "2026-07-10 20:31:42",
-    "ja_summary": "・日本のデジタル経済は海底ケーブルという「見えない大動脈」に過度に依存している。\n・ケーブル損傷はAI・金融・クラウドを停止させかねない重大なリスクである。\n・海底ケーブルの防衛こそが、AI時代の国家的な競争力を左右する鍵となる。"
   }
 ]
