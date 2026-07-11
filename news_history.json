@@ -1,5 +1,45 @@
 [
   {
+    "title": "LingBot の6つのロボットAIモデルまとめ",
+    "link": "https://note.com/npaka/n/n75896ac486a7",
+    "source": "note (npaka)",
+    "published": "Sat, 11 Jul 2026 23:34:27 +0900",
+    "summary": "<p id=\"6ed4fb7a-5a90-4eb9-aed8-44ffc77ccf8d\" name=\"6ed4fb7a-5a90-4eb9-aed8-44ffc77ccf8d\">「LingBot」の6つのロボットAIモデルについてまとめました。</p><br /><br /><a href=\"https://note.com/npaka/n/n75896ac486a7\">続きをみる</a>",
+    "image": "https://assets.st-note.com/production/uploads/images/293527894/rectangle_large_type_2_8331dd3883c774de3efffee4fcd488ea.png?width=800",
+    "fetched_at": "2026-07-11 23:44:26",
+    "ja_summary": "・「LingBot」が開発した6つのロボット用AIモデルの特徴を解説。\n・ロボット制御やタスク実行に特化した各AIモデルの性能を整理。\n・詳細は元記事にて、各モデルの概要と活用可能性を確認可能。"
+  },
+  {
+    "title": "AIはどのように考えて話すのか？ ― 言葉と知能の不思議",
+    "link": "https://speakerdeck.com/chokkan/how-ai-thinks-and-responds",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-07-11T10:26:23-04:00",
+    "summary": "ChatGPTの登場によって、AIはまるで「考えながら話している」ように振る舞う時代になりました。しかも、その能力は飛躍的に向上し、今では人間の代わりにプログラムを書いたり、難しい数学の問題を解くまでになっています。では、AIはどのように言葉を理解し、考えているのでしょうか。本講義では、言葉を扱う人工知能の仕組みを手がかりに、「知能とは何か」という不思議な問いに迫ります。また、最先端のAI研究と、高校で学ぶ数学・情報・英語などの知識との意外なつながりについても紹介します。",
+    "image": "https://files.speakerdeck.com/presentations/9d47dece280b4a0ab41f203554dd2f4b/preview_slide_0.jpg?39961601",
+    "fetched_at": "2026-07-11 23:44:49",
+    "ja_summary": "・ChatGPT等のAIが高度な推論を行う仕組みを、言葉の理解という視点から解説する。\n・AI研究の裏側にある「知能の本質」を、高校レベルの学習内容との関連から紐解く。\n・技術の仕組みを学ぶことで、AIと人間の知能の違いや可能性を考察する。"
+  },
+  {
+    "title": "kintone の AI コワーカーを、 Anthropic にエージェントを\"ホストさせて\"作った話  #devkinmeetup",
+    "link": "https://speakerdeck.com/sugimomoto/kintone-no-ai-kowakawo-anthropic-niezientowo-hosutosasete-zuo-tutahua-number-devkinmeetup",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-07-11T10:16:55-04:00",
+    "summary": "Cowork Agent for kintone\nhttps://sugimomoto.github.io/CoworkAgentForKintone/\n\nGithub\nhttps://github.com/sugimomoto/CoworkAgentForKintone",
+    "image": "https://files.speakerdeck.com/presentations/6999c4b0bbf24cf0bad1486c03bb257f/preview_slide_0.jpg?39961571",
+    "fetched_at": "2026-07-11 23:44:49",
+    "ja_summary": "kintone上の業務をAIが自動支援する「Cowork Agent」を、Anthropic社のAPIを用いて構築する技術手法を公開。\nkintoneを基盤としつつ、AIエージェントを外部ホストさせることで柔軟な自動化を実現。\n実装コードや設計思想はGitHubにてオープンソースとして提供されている。"
+  },
+  {
+    "title": "バイブコーディングが「RPA問題」を再演している。属人化・重複・ブラックボックスを防ぐ最小ガバナンス設計",
+    "link": "https://qiita.com/hirashima-gmoconnect/items/cfe5ba40a56b3dbf6a4b",
+    "source": "Qiita (Popular)",
+    "published": "2026-06-22T12:12:13+09:00",
+    "summary": "# はじめに\n\nGMOコネクトの平島です。\n\nチームで Claude Code を使い始めてから、便利になったのと引き換えに困ったことが起きています。「誰かが作ったらしいSlack通知ツール」「似たような集計スクリプトが3本ある」「作った本人がいないと何もわからない」😇\n\nこの光景、2019年頃のRPA普及期にも見た気がします。あのときどう乗り越えたかを参考に、バイブコーディング時代のオーケストレ",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Ftech-festa-ogp-background-4b5015b2c518c7e6b9062a7c9f5f5e90.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGNDIwMjIwNCUyRnByb2ZpbGUtaW1hZ2VzJTJGMTc1OTE5NjQyNj9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9YTdiYmU2MDJkM2M4MjlmNDQzZDMyZmViZjc0ZjkyMjQ%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkZlYmQ5Njg3Yjk0MzAwMWI5NzlkNmU0YWY1MGFiYWU4YTc5MWE4ZGE1JTJGb3JpZ2luYWwuanBnJTNGMTc1NjE4NjM1Mz9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz1hOTMyMDU4NWNlNzJmY2QyNGJiNGQ0MDNkYTA2MGM1OA%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D30f4d39a2fdbc7fb217c18f4665005cf?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgzJTkwJUUzJTgyJUE0JUUzJTgzJTk2JUUzJTgyJUIzJUUzJTgzJUJDJUUzJTgzJTg3JUUzJTgyJUEzJUUzJTgzJUIzJUUzJTgyJUIwJUUzJTgxJThDJUUzJTgwJThDUlBBJUU1JTk1JThGJUU5JUExJThDJUUzJTgwJThEJUUzJTgyJTkyJUU1JTg2JThEJUU2JUJDJTk0JUUzJTgxJTk3JUUzJTgxJUE2JUUzJTgxJTg0JUUzJTgyJThCJUUzJTgwJTgyJUU1JUIxJTlFJUU0JUJBJUJBJUU1JThDJTk2JUUzJTgzJUJCJUU5JTg3JThEJUU4JUE0JTg3JUUzJTgzJUJCJUUzJTgzJTk2JUUzJTgzJUE5JUUzJTgzJTgzJUUzJTgyJUFGJUUzJTgzJTlDJUUzJTgzJTgzJUUzJTgyJUFGJUUzJTgyJUI5JUUzJTgyJTkyJUU5JTk4JUIyJUUzJTgxJTkwJUU2JTlDJTgwJUU1JUIwJThGJUUzJTgyJUFDJUUzJTgzJTkwJUUzJTgzJThBJUUzJTgzJUIzJUUzJTgyJUI5JUUyJTgwJUE2JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjNGRkZGRkYmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9NWIyYzFkZDQ1MTZlYWE0YzE0Y2RiMDJmMDJjZWE5ODg&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBoaXJhc2hpbWEtZ21vY29ubmVjdCZ0eHQtY29sb3I9JTIzRkZGRkZGJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTcxMmUzNzVlYzQ0ZDllMzZkMzFlMmM5MzNiYjM1ZWRl&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=R01P44Kz44ON44Kv44OI5qCq5byP5Lya56S-&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%23FFFFFF&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=f4de3265a8d6bd8e3c3fefc7bc25d01b",
+    "fetched_at": "2026-07-11 23:44:53",
+    "ja_summary": "AIによる開発（バイブコーディング）の普及で「誰が何を作ったか不明」「類似ツールの乱立」「ブラックボックス化」といったRPA時代の課題が再燃している。\n属人化や重複を防ぐには、当時の教訓を活かした「最小限のガバナンス設計」が不可欠である。\nAI活用の利便性を享受しつつ、チーム開発としての持続可能性を維持する体制構築が求められている。"
+  },
+  {
     "title": "新型ファミマ登場？　「試着室」「店外カウンター」を備えた麻布台の旗艦店、その狙いとは",
     "link": "https://www.itmedia.co.jp/business/articles/2607/10/news104.html",
     "source": "ITmedia ビジネス",
@@ -958,45 +998,5 @@
     "image": "https://images.ctfassets.net/kftzwdyauwt9/7Bf5twKHcGsjM0T5u43cg6/35ba64ea71cbb3590f551f7727c6cf71/Frame-1.png?w=1600&amp;h=900&amp;fit=fill",
     "fetched_at": "2026-07-10 20:32:04",
     "ja_summary": "・Microsoft 365 Copilotに最新AIモデル「GPT-5.6」が導入されました。\n・Word、Excel、PowerPointなどの操作がより高速かつ高品質になります。\n・AI機能の強化により、業務効率と生産性が大幅に向上します。"
-  },
-  {
-    "title": "GPT-5.5 Bio Bug Bounty",
-    "link": "https://openai.com/index/bio-bug-bounty",
-    "source": "OpenAI",
-    "published": "Thu, 09 Jul 2026 10:00:00 GMT",
-    "summary": "Details about the OpenAI Bio Bounty program",
-    "image": "https://images.ctfassets.net/kftzwdyauwt9/3dibW4TSEOQpjByxBjnpr2/6ba1a2ed9346620e8788b3e013594469/bug_bounty_16_9.png?w=1600&amp;h=900&amp;fit=fill",
-    "fetched_at": "2026-07-10 20:32:04",
-    "ja_summary": "・OpenAIがAIの生物学的脅威を抑止するため、セキュリティ専門家を対象とした報奨金制度を開始。\n・AIモデルが生物兵器の作成に悪用されるリスクを特定・評価し、安全性向上を図る。\n・専門家の知見を活用し、モデルの脆弱性対策を強化することが目的。"
-  },
-  {
-    "title": "Ben Bernanke appointed to Anthropic’s Long-Term Benefit Trust",
-    "link": "https://www.anthropic.com/news/ben-bernanke",
-    "source": "Anthropic (News)",
-    "published": "Thu, 09 Jul 2026 00:00:00 +0000",
-    "summary": "Ben Bernanke appointed to Anthropic’s Long-Term Benefit Trust",
-    "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
-    "fetched_at": "2026-07-10 20:32:10",
-    "ja_summary": "・元FRB議長のベン・バーナンキ氏が、AI企業Anthropicの「長期利益信託」の理事に就任。\n・同信託は、AIの安全性を最優先しつつ社会的利益を最大化するための統治機関。\n・同氏の経済・ガバナンスの知見を通じ、AI開発の責任ある管理体制を強化する狙い。"
-  },
-  {
-    "title": "Cloudflareだけで独自ドメインメールをGmailから送受信できるようになってた",
-    "link": "https://zenn.dev/9m/articles/d08dcc093e1bbf",
-    "source": "Zenn Trends",
-    "published": "Fri, 10 Jul 2026 02:33:47 GMT",
-    "summary": "TL;DR\n\nメールの受信は Cloudflare Email Routing\nメールの送信は Cloudflare Email Sending\nメールの閲覧・作成には普段使っているGmailを利用\n\nCloudflareがSMTPをしゃべれるようになったので、Gmailのエイリアスに追加できるぞ！\n\n 独自ドメインのメールアドレスにお金かけたくない問題\n個人開発をやっているとポコポコ独自ドメインが増えていきますが、メールの送受信は頭が痛い問題です(費用面で)。Google Workspaceを契約するのが一番理想なのですが、ドメインごとに毎月800円も払っていられません。\nそのため...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--s4_9GMo5--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Cloudflare%25E3%2581%25A0%25E3%2581%2591%25E3%2581%25A7%25E7%258B%25AC%25E8%2587%25AA%25E3%2583%2589%25E3%2583%25A1%25E3%2582%25A4%25E3%2583%25B3%25E3%2583%25A1%25E3%2583%25BC%25E3%2583%25AB%25E3%2582%2592Gmail%25E3%2581%258B%25E3%2582%2589%25E9%2580%2581%25E5%258F%2597%25E4%25BF%25A1%25E3%2581%25A7%25E3%2581%258D%25E3%2582%258B%25E3%2582%2588%25E3%2581%2586%25E3%2581%25AB%25E3%2581%25AA%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:9m%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2dHQ3VDelZlZU90aTBlSmRwc1VqWGFsdHB1Tlc3VmUyV0QtS1FGZkE9czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "fetched_at": "2026-07-10 20:32:20",
-    "ja_summary": "Cloudflareが新たにSMTP送信に対応したことで、メール受信（Email Routing）と組み合わせ、Gmail上で独自ドメインの送受信を無料で完結可能になった。\nGoogle Workspace等の有料サービスを利用せずとも、個人開発者や運用コストを抑えたいユーザーが独自ドメインメールを安価に運用できる。"
-  },
-  {
-    "title": "AI が自分の結論を正当化してくるので、デバイアスして自律的にFable 5 にセカンドオピニオンを聞くSkill を作った",
-    "link": "https://zenn.dev/atrae/articles/08f2b2c3f2217d",
-    "source": "Zenn Trends",
-    "published": "Thu, 09 Jul 2026 22:15:05 GMT",
-    "summary": "はじめに\n\n AI を入れても速くならない\nAI で開発すると、短時間でものすごい量のコードが生成されます。それをいちから確認するのは極めて大変です。\n以前は、手を動かして計画・実装している間に脳内を整理できていました。しかし今では、理解が追いつく前に成果物ができてしまいます。認知負荷が上がり、大量に吐き出されるコードの理解が追いつかなくなっていました。\n\n 「自分の判断は正しいのか？」という不安\nAI によって、得意でない領域や最近さわっていなかった領域も開発できるようになりました。一方で、「本当にこれで大丈夫なのか？」という不安もつきまといます。\n本来、そういうときは複数人にレビ...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--UTfsA8fG--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%2520%25E3%2581%258C%25E8%2587%25AA%25E5%2588%2586%25E3%2581%25AE%25E7%25B5%2590%25E8%25AB%2596%25E3%2582%2592%25E6%25AD%25A3%25E5%25BD%2593%25E5%258C%2596%25E3%2581%2597%25E3%2581%25A6%25E3%2581%258F%25E3%2582%258B%25E3%2581%25AE%25E3%2581%25A7%25E3%2580%2581%25E3%2583%2587%25E3%2583%2590%25E3%2582%25A4%25E3%2582%25A2%25E3%2582%25B9%25E3%2581%2597%25E3%2581%25A6%25E8%2587%25AA%25E5%25BE%258B%25E7%259A%2584%25E3%2581%25ABFable%25205%2520%25E3%2581%25AB%25E3%2582%25BB%25E3%2582%25AB%25E3%2583%25B3%25E3%2583%2589%25E3%2582%25AA%25E3%2583%2594%25E3%2583%258B%25E3%2582%25AA%25E3%2583%25B3%25E3%2582%2592%25E8%2581%259E%25E3%2581%258FSkill...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Yusuke%2520Aono%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzNkNjlkZmQ0ZmYuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Atrae%2520Tech%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly96ZW5uLWRldi5naXRodWIuaW8vZGVmYXVsdC1hdmF0YXJzL2RhcmsveS5wbmc=%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "fetched_at": "2026-07-10 20:32:21",
-    "ja_summary": "AIによるコード生成で認知負荷が増大し、判断の妥当性に不安が生じる課題が発生。\nAIが自ら出した結論を「デバイアス（偏見除去）」し、別のAIに検証させる仕組みを構築。\n自律的なセカンドオピニオン環境を導入することで、開発の品質向上と不安の解消を実現した。"
   }
 ]
