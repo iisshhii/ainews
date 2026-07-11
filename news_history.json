@@ -1,5 +1,35 @@
 [
   {
+    "title": "GPT-5.5 Bio Bug Bounty",
+    "link": "https://openai.com/index/bio-bug-bounty",
+    "source": "OpenAI",
+    "published": "Thu, 09 Jul 2026 10:00:00 GMT",
+    "summary": "Details about the OpenAI Bio Bounty program",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/3dibW4TSEOQpjByxBjnpr2/6ba1a2ed9346620e8788b3e013594469/bug_bounty_16_9.png?w=1600&amp;h=900&amp;fit=fill",
+    "fetched_at": "2026-07-12 00:37:59",
+    "ja_summary": "・OpenAIがAIの生物学的脅威を防ぐための報奨金制度「Bio Bounty」を開始。\n・AIモデルが生物兵器作成に悪用されるリスクを専門家が検証し、報告することで報酬を得られる。\n・AIの安全性を強化し、悪用を未然に防ぐことが主な目的。"
+  },
+  {
+    "title": "Ben Bernanke appointed to Anthropic’s Long-Term Benefit Trust",
+    "link": "https://www.anthropic.com/news/ben-bernanke",
+    "source": "Anthropic (News)",
+    "published": "Thu, 09 Jul 2026 00:00:00 +0000",
+    "summary": "Ben Bernanke appointed to Anthropic’s Long-Term Benefit Trust",
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+    "fetched_at": "2026-07-12 00:38:04",
+    "ja_summary": "・元FRB議長のベン・バーナンキ氏が、AI企業Anthropicの「長期利益信託」の理事に就任。\n・同信託は、AI開発における安全性と倫理的な責任を監督する目的で設置されている。\n・世界的な経済の権威を迎え入れることで、AIの社会的リスク管理体制の強化を図る狙い。"
+  },
+  {
+    "title": "Cloudflareだけで独自ドメインメールをGmailから送受信できるようになってた",
+    "link": "https://zenn.dev/9m/articles/d08dcc093e1bbf",
+    "source": "Zenn Trends",
+    "published": "Fri, 10 Jul 2026 02:33:47 GMT",
+    "summary": "TL;DR\n\nメールの受信は Cloudflare Email Routing\nメールの送信は Cloudflare Email Sending\nメールの閲覧・作成には普段使っているGmailを利用\n\nCloudflareがSMTPをしゃべれるようになったので、Gmailのエイリアスに追加できるぞ！\n\n 独自ドメインのメールアドレスにお金かけたくない問題\n個人開発をやっているとポコポコ独自ドメインが増えていきますが、メールの送受信は頭が痛い問題です(費用面で)。Google Workspaceを契約するのが一番理想なのですが、ドメインごとに毎月800円も払っていられません。\nそのため...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--dOrDMAiR--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Cloudflare%25E3%2581%25A0%25E3%2581%2591%25E3%2581%25A7%25E7%258B%25AC%25E8%2587%25AA%25E3%2583%2589%25E3%2583%25A1%25E3%2582%25A4%25E3%2583%25B3%25E3%2583%25A1%25E3%2583%25BC%25E3%2583%25AB%25E3%2582%2592Gmail%25E3%2581%258B%25E3%2582%2589%25E9%2580%2581%25E5%258F%2597%25E4%25BF%25A1%25E3%2581%25A7%25E3%2581%258D%25E3%2582%258B%25E3%2582%2588%25E3%2581%2586%25E3%2581%25AB%25E3%2581%25AA%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25F0%259D%2598%25AC%25F0%259D%2598%25B0%25F0%259D%2598%25B4%25F0%259D%2598%25B6%25F0%259D%2598%25A8%25F0%259D%2598%25A6%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzgzNDU3MzM1MTcuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-07-12 00:38:11",
+    "ja_summary": "Cloudflareがメール送信機能に対応したことで、受信と送信の両方がCloudflare経由で可能になりました。\nこれを利用し、普段使いのGmailで独自ドメインメールの送受信を無料で行えるようになります。\nGoogle Workspaceを契約せずにコストを抑えたい個人開発者にとって最適な解決策です。"
+  },
+  {
     "title": "LingBot の6つのロボットAIモデルまとめ",
     "link": "https://note.com/npaka/n/n75896ac486a7",
     "source": "note (npaka)",
@@ -968,35 +998,5 @@
     "image": "https://assets.st-note.com/production/uploads/images/292986741/rectangle_large_type_2_232e0ad8396e6105e236930924cc2861.jpeg?width=800",
     "fetched_at": "2026-07-10 20:31:58",
     "ja_summary": "OpenAIが最新モデル「GPT-5.6」シリーズ（Sol、Terra、Luna）を発表。\nそれぞれのモデルは用途に応じた拡張性を備え、より高度な知能と柔軟なスケーリングを実現。\nビジネスの課題解決やプロジェクトの推進を支援する次世代のAI性能へ進化。"
-  },
-  {
-    "title": "まだ続くFable 5祭り、Claudeが特例で使用量リセット　競合OpenAIのGPT-5.6 / ChatGPT Work提供直前",
-    "link": "https://www.techno-edge.net/article/2026/07/10/5282.html",
-    "source": "TechnoEdge",
-    "published": "Fri, 10 Jul 2026 17:51:56 +0900",
-    "summary": "Anthropicは日本時間7月10日、公式X「ClaudeDevs」で、Claudeの全ユーザーを対象に5時間ごとおよび週単位の利用量制限をリセットしたと発表しました。",
-    "image": "https://www.techno-edge.net/imgs/rss/32889.jpg",
-    "fetched_at": "2026-07-10 20:32:02",
-    "ja_summary": "・AnthropicがClaude全ユーザーの利用制限を一時的にリセット\n・競合であるOpenAIの次世代モデル発表直前に向けた対抗措置\n・現在SNSなどで「Fable 5」関連の話題が過熱し利用が急増中"
-  },
-  {
-    "title": "How Deutsche Telekom is rewiring telecommunications with AI",
-    "link": "https://openai.com/index/deutsche-telekom",
-    "source": "OpenAI",
-    "published": "Fri, 10 Jul 2026 07:00:00 GMT",
-    "summary": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice.",
-    "image": "https://images.ctfassets.net/kftzwdyauwt9/2e4pj37nFOyJzOAIMC10VM/2d7a76659ae8bb37e21d3d7e838a8bd8/oai_Deutsche_Telekom_SEO.png?w=1600&amp;h=900&amp;fit=fill",
-    "fetched_at": "2026-07-10 20:32:03",
-    "ja_summary": "・ドイツテレコムがOpenAIと提携し、AIネイティブな通信事業者への転換を推進。\n・顧客対応からネットワーク運用、社内業務まで、AI活用による広範な効率化を実現。\n・音声通信の未来を見据え、ビジネスの基盤全体をAIで刷新する戦略を展開。"
-  },
-  {
-    "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
-    "link": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
-    "source": "OpenAI",
-    "published": "Thu, 09 Jul 2026 13:00:00 GMT",
-    "summary": "Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work.",
-    "image": "https://images.ctfassets.net/kftzwdyauwt9/7Bf5twKHcGsjM0T5u43cg6/35ba64ea71cbb3590f551f7727c6cf71/Frame-1.png?w=1600&amp;h=900&amp;fit=fill",
-    "fetched_at": "2026-07-10 20:32:04",
-    "ja_summary": "・Microsoft 365 Copilotに最新AIモデル「GPT-5.6」が導入されました。\n・Word、Excel、PowerPointなどの操作がより高速かつ高品質になります。\n・AI機能の強化により、業務効率と生産性が大幅に向上します。"
   }
 ]
