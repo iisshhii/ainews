@@ -1,5 +1,55 @@
 [
   {
+    "title": "TSMC、AI半導体チップに水流す冷却法　「CoWoS」と統合し信頼性評価",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03322/062800012/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "台湾積体電路製造（TSMC）はAI（人工知能）半導体向けに斬新な冷却技術を開発している。GPU（画像処理半導体）などの半導体チップ表面に「水路」を設けて冷却液を流し、効率的に熱を奪う。独自のパッケージ技術「CoWoS-R」に統合し、信頼性を評価した。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03322/062800012/topm.jpg?20220512",
+    "fetched_at": "2026-07-12 08:27:56",
+    "ja_summary": "・TSMCがAI半導体向けに、チップ表面に冷却液を流す新技術を開発\n・独自パッケージ「CoWoS」への統合により、高い冷却効率と信頼性を実現\n・GPU等の発熱を直接制御することで、AI処理能力の向上と安定稼働を両立へ"
+  },
+  {
+    "title": "「世界初」のAIアート美術館に行ってみた…美しく、不気味で、想像以上に考えさせられる空間だった",
+    "link": "https://www.businessinsider.jp/article/2607-dataland-worlds-first-ai-art-museum-in-la-photos/",
+    "source": "Business Insider Japan",
+    "published": "Sat, 11 Jul 2026 23:00:00 GMT",
+    "summary": "「世界初」のAIアート美術館「データランド」がロサンゼルスに開館しました。作品は美しいものが多かったものの、あまり心が動かされない部分もありました。",
+    "image": "https://media.loom-app.com/loom/2026/07/05/be45d861-19c0-409f-aa7c-152a42300b98/original.jpg?w=1200&amp;h=630",
+    "fetched_at": "2026-07-12 08:28:03",
+    "ja_summary": "・ロサンゼルスに世界初のAIアート美術館「データランド」が開館。\n・作品の美しさは評価される一方、感情的な響きには課題も残る。\n・AI技術と芸術の融合がもたらす新たな体験として注目を集めている。"
+  },
+  {
+    "title": "NemoClaw Deep Agents Blueprint の概要",
+    "link": "https://note.com/npaka/n/ncb081e6b0c52",
+    "source": "note (npaka)",
+    "published": "Thu, 09 Jul 2026 09:05:43 +0900",
+    "summary": "<p id=\"a683919a-4efe-4852-9085-121fc233f484\" name=\"a683919a-4efe-4852-9085-121fc233f484\">以下の記事が面白かったので、簡単にまとめました。</p><figure id=\"372cd4e7-6e89-4cec-9814-c2fc4cbb2d57\" name=\"372cd4e7-6e89-4cec-9814-c2fc4cbb2d57\"><blockquote><p id=\"caa71603-0c16-4167-8ac6-863ce5d9a98e\" name=\"caa71603-0c16-4167-8ac6-863ce5d9a98e\"><strong>・</strong><a href=\"https://www.langchain.com/blog/langchain-and-nvidia-launch-the-nemoclaw-deep-agents-blueprint\" rel=\"nofollow noopener\" target=\"_blank\"><strong>LangChain and NVIDIA launch the NemoClaw Deep Agents Blueprint</strong></a></p></blockquote>\n<figcaption></figcaption></figure><br /><a href=\"https://note.com/npaka/n/ncb081e6b0c52\">続きをみる</a>",
+    "image": "https://assets.st-note.com/production/uploads/images/292756738/rectangle_large_type_2_5f150e9d9194025718f3cddb4b056c8d.png?width=800",
+    "fetched_at": "2026-07-12 08:28:05",
+    "ja_summary": "・LangChainとNVIDIAが、AIエージェント開発基盤「NemoClaw Deep Agents Blueprint」を公開。\n・企業が複雑な推論やツール利用を行うAIエージェントを、効率的に構築・展開するためのリファレンスアーキテクチャ。\n・NVIDIAの推論エンジンとLangChainのフレームワークを統合し、エンタープライズレベルの開発を加速させる。"
+  },
+  {
+    "title": "チャッピーが代わりに働いてくれる時代到来『ChatGPT Work』発表　アプリやファイルを自律操作、下調べから成果物まで仕上げ　Codexを応用",
+    "link": "https://www.techno-edge.net/article/2026/07/10/5279.html",
+    "source": "TechnoEdge",
+    "published": "Fri, 10 Jul 2026 07:30:03 +0900",
+    "summary": "米OpenAIが、ChatGPT内で動作する新しいAIエージェント「ChatGPT Work」の提供を開始しました。",
+    "image": "https://www.techno-edge.net/imgs/rss/32856.jpg",
+    "fetched_at": "2026-07-12 08:28:10",
+    "ja_summary": "・OpenAIがAIエージェント「ChatGPT Work」を発表。\n・アプリやファイルを自律操作し、下調べから成果物作成までを自動実行。\n・Codex応用により、複雑な作業をAIが代行する新時代の業務環境を実現。"
+  },
+  {
+    "title": "Claude Code の無料セキュリティ監査プラグインで脆弱性を自動検出・修正してみる",
+    "link": "https://qiita.com/nogataka/items/4d2a551f89f6b4f94b01",
+    "source": "Qiita (Popular)",
+    "published": "2026-07-06T20:00:39+09:00",
+    "summary": "\n## この記事のポイント\n\n- Anthropic が 2026 年 5 月下旬に Claude Code 向けの公式プラグイン `security-guidance` を公開しました（各メディアで紹介されたのは 5 月 27 日です）。全プランで利用でき、2026 年 6 月時点でベータ表記はありません。ただしモデルによるレビューは通常の Claude 利用枠を消費します\n- 「ファイル編集時",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYxNjEyOTglMkZjMWUzZmZkNmVhZGExOTY5ZmYzYzQ0YjE0ZmRlMDgxYmNkZTZmNTAwJTJGeF9sYXJnZS5wbmclM0YxNTg0ODQ1NTg0P2l4bGliPXJiLTQuMS4xJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz1kMDQ2ZmE2Mzg1YzIyMmQ4ZjJkNWI0YjRkYTc3Mjc0NQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Dfde89a6aafc1c82cb07bd196a821c036?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9Q2xhdWRlJTIwQ29kZSUyMCVFMyU4MSVBRSVFNyU4NCVBMSVFNiU5NiU5OSVFMyU4MiVCQiVFMyU4MiVBRCVFMyU4MyVBNSVFMyU4MyVBQSVFMyU4MyU4NiVFMyU4MiVBMyVFNyU5QiVBMyVFNiU5RiVCQiVFMyU4MyU5NyVFMyU4MyVBOSVFMyU4MiVCMCVFMyU4MiVBNCVFMyU4MyVCMyVFMyU4MSVBNyVFOCU4NCU4NiVFNSVCQyVCMSVFNiU4MCVBNyVFMyU4MiU5MiVFOCU4NyVBQSVFNSU4QiU5NSVFNiVBNCU5QyVFNSU4NyVCQSVFMyU4MyVCQiVFNCVCRiVBRSVFNiVBRCVBMyVFMyU4MSU5NyVFMyU4MSVBNiVFMyU4MSVCRiVFMyU4MiU4QiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTNhMjA2ZTk5YTJhZmUwOTZiNmVhNDU0N2NiMzI4Zjg3&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBub2dhdGFrYSZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWNiYWE0ODdlNWU4NDg4ZjQ0NjQ0MjVlZTRhNDY2ZWUz&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=48cd9c6c5931f55a8038cdd638b17862",
+    "fetched_at": "2026-07-12 08:28:27",
+    "ja_summary": "・AnthropicがClaude Code向け公式セキュリティプラグイン「security-guidance」を公開。\n・コード編集時に脆弱性を自動検出し、修正案まで提示することで開発の安全性を向上。\n・全プランで利用可能だが、モデルによるレビュー分は通常のClaude利用枠を消費する。"
+  },
+  {
     "title": "「ChatGPT」を銀行と接続、今では定番の金融アプリに--その方法と理由",
     "link": "https://japan.zdnet.com/article/35250338/",
     "source": "ZDNET Japan",
@@ -948,55 +998,5 @@
     "image": "https://www.digital.go.jp/themes/custom/gov_theme_da_2023/assets/images/ogp.png",
     "fetched_at": "2026-07-11 04:37:14",
     "ja_summary": "・政府が行政業務への生成AI活用・調達に関するガイドライン第2.0版を策定。\n・生成AIの導入による行政の効率化と、安全性・信頼性の確保を両立させるための指針を提示。\n・技術進展に応じた利活用ルールの明確化により、行政のデジタル革新を加速させる狙い。"
-  },
-  {
-    "title": "「行政の進化と革新のための生成AIの調達・利活用に係るガイドライン」を策定しました",
-    "link": "https://www.digital.go.jp/news/3579c42d-b11c-4756-b66e-3d3e35175623",
-    "source": "デジタル庁",
-    "published": "Tue, 07 Jul 2026 15:00:00 +0900",
-    "summary": "",
-    "image": "https://www.digital.go.jp/themes/custom/gov_theme_da_2023/assets/images/ogp.png",
-    "fetched_at": "2026-07-11 04:37:14",
-    "ja_summary": "政府が行政における生成AIの安全かつ効果的な活用を目指し、導入・運用に関するガイドラインを策定。\n情報漏洩防止や適切な活用基準を明確化し、行政事務の効率化と品質向上を推進する。\n各府省庁は本指針に基づき、リスク管理を徹底した上で生成AIの本格導入を進める。"
-  },
-  {
-    "title": "UST is bringing Claude to physical AI",
-    "link": "https://www.anthropic.com/news/ust-claude",
-    "source": "Anthropic (News)",
-    "published": "Thu, 09 Jul 2026 00:00:00 +0000",
-    "summary": "UST is bringing Claude to physical AI",
-    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Build&amp;backgroundColor=coral",
-    "fetched_at": "2026-07-11 04:37:20",
-    "ja_summary": "・ITサービス企業のUSTが、Anthropic社のAI「Claude」を物理的なAIシステムへ統合する。\n・ロボットや産業機器にClaudeの知能を組み込み、複雑なタスクの自動化や効率化を目指す。\n・物理環境で高度な対話・推論能力を活用し、産業界のデジタルトランスフォーメーションを加速させる。"
-  },
-  {
-    "title": "あなたはAIを「疲弊させている」かもしれない　「トークン死」を防ぐコスト管理術",
-    "link": "https://www.itmedia.co.jp/business/articles/2607/10/news023.html",
-    "source": "ITmedia ビジネス",
-    "published": "Fri, 10 Jul 2026 08:00:00 +0900",
-    "summary": "業務中のAIが突然止まる「トークン死」。その原因は、AIを“疲弊”させるあなたの無意識なNG行動かもしれない。利用枠を浪費する原因と、今日から実践できる3つのコスト節約術を解説。「AIを賢く使い倒す習慣」に迫る。",
-    "image": "https://image.itmedia.co.jp/business/articles/2607/10/cover_news023.png",
-    "fetched_at": "2026-07-11 02:59:23",
-    "ja_summary": "AIの利用制限（トークン死）は、無意識のNG行動が原因の可能性がある。\nプロンプトの簡潔化や履歴の整理など、コストを抑える工夫が不可欠。\n業務効率を維持するため、AIを賢く使い倒す節約術を習慣化しよう。"
-  },
-  {
-    "title": "「渡り鳥の研究者」がアマゾンのマーケトップに　行動学とAIで挑む「プライムデーの勝算」",
-    "link": "https://www.itmedia.co.jp/business/articles/2607/10/news025.html",
-    "source": "ITmedia ビジネス",
-    "published": "Fri, 10 Jul 2026 07:00:00 +0900",
-    "summary": "「消費者の購買シグナルは、渡り鳥の行動分析と全く同じ」──。異色の経歴を持つアマゾンジャパンの鈴木浩司VPに、物価高に揺れる「プライムデー」戦略の裏側を聞いた。単なる値引きセールに終わらせない日常と非日常の明確な住み分けから、日本の酷暑と高齢化を見据えた緻密な需要予測（ドミノ戦略）、AIがもたらす「入った瞬間に欲しいものがある」脱・検索の未来まで。科学的マーケティングの深層に迫る。",
-    "image": "https://image.itmedia.co.jp/business/articles/2607/10/cover_news025.jpg",
-    "fetched_at": "2026-07-11 02:59:23",
-    "ja_summary": "・渡り鳥の行動学とAIを活用し、消費者の購買行動を科学的に分析するアマゾンの新戦略。\n・気候や高齢化など社会動向を先読みした需要予測により、セールを単なる値引きに留めない「ドミノ戦略」を展開。\n・検索の手間を省き、AIが個々のニーズを先回りして提示する「個客体験」の最大化を目指す。"
-  },
-  {
-    "title": "AIに企業理念を宿せるか？　スポーツ小売り・ヒマラヤ、接客ノウハウまで学習した「AI副店長」開発の舞台裏",
-    "link": "https://www.itmedia.co.jp/business/articles/2607/10/news046.html",
-    "source": "ITmedia ビジネス",
-    "published": "Fri, 10 Jul 2026 07:00:00 +0900",
-    "summary": "スポーツ用品店をチェーン展開するヒマラヤ（岐阜市）は「アイダ つなぐ」と名付けた“AI副店長”を6月から全99店舗に導入した。同社店舗運営部の金丸智功氏（部室長代理）とヒマラヤスポーツ本館店長の高島雅央氏に、AI副店長開発の舞台裏を聞いた。",
-    "image": "https://image.itmedia.co.jp/business/articles/2607/10/cover_news046.jpg",
-    "fetched_at": "2026-07-11 02:59:23",
-    "ja_summary": "・スポーツ用品店のヒマラヤが、全99店舗に「AI副店長」を導入した。\n・AIに企業の理念や接客ノウハウを学習させ、店舗運営の質向上を図る。\n・開発の背景には、現場の知見をAIへ継承する仕組み作りの狙いがある。"
   }
 ]
