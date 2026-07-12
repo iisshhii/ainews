@@ -1,5 +1,55 @@
 [
   {
+    "title": "AIが生む富を誰が受け取るのか――税による再分配か資本共有か､アメリカで動き出すAI時代の新たな分配構想 | 政治・経済・投資 | 東洋経済オンライン",
+    "link": "https://toyokeizai.net/articles/-/950844?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+    "source": "東洋経済オンライン",
+    "published": "Sun, 12 Jul 2026 16:00:00 +0900",
+    "summary": "AIの普及が進むアメリカでは､雇用減少や所得税の減収への懸念を背景に､新たな税のあり方についての模索が始まっています。何が起きているのでしょうか。",
+    "image": "https://tk.ismcdn.jp/mwimgs/e/d/1200w/img_ed55845c0a50fab291c62c957bb1f631245509.jpg?nextgen=false",
+    "fetched_at": "2026-07-12 16:14:07",
+    "ja_summary": "・AI普及による雇用減少や税収減を見越し、米国で新たな富の再分配策が模索されている。\n・AIが生む莫大な利益をどう分配するか、増税による還元や資本共有といった案が議論の焦点。\n・技術革新に伴う経済構造の変化に対し、国家主導の持続可能な分配システム構築が急務となっている。"
+  },
+  {
+    "title": "AI玩具は親子の絆を弱め、子どもの発達に悪影響を及ぼす…ベストセラー『不安の世代』著者が警鐘",
+    "link": "https://www.businessinsider.jp/article/2606-ai-toys-could-weaken-parent-child-bond-anxious-generation-author/",
+    "source": "Business Insider Japan",
+    "published": "Sun, 12 Jul 2026 06:00:00 GMT",
+    "summary": "AI搭載のぬいぐるみやチャットボットが、親以上に子どもに寄り添う存在になったとしたら…。その子の発達に悪影響を与える、と著名な社会心理学者が警鐘を鳴らしています。",
+    "image": "https://media.loom-app.com/loom/2026/06/05/e728a227-1b3c-4cc7-8a54-c2ed2828ccc3/original.jpg?w=1200&amp;h=630",
+    "fetched_at": "2026-07-12 16:14:30",
+    "ja_summary": "AI玩具が親の代わりとなることで、子どもの健全な発達が阻害される恐れがある。\n専門家は、AIとの過度な交流が親子の絆を弱めると警鐘を鳴らしている。\n親はテクノロジーへの依存が子どもに与える負の影響を認識する必要がある。"
+  },
+  {
+    "title": "Apple 営業秘密流用でOpenAI提訴",
+    "link": "https://news.yahoo.co.jp/pickup/6587501?source=rss",
+    "source": "Yahoo!ニュース IT・科学",
+    "published": "Fri, 10 Jul 2026 23:26:40 GMT",
+    "summary": "",
+    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/7/11/56058923687898c01712e6408e822680197c311c9ec22cf25b8a5eeda71faee0.jpg",
+    "fetched_at": "2026-07-12 16:14:34",
+    "ja_summary": "・AppleがOpenAIに対し、自社の営業秘密を不正に流用したとして提訴。\n・AI開発における機密情報の持ち出しや技術流用が争点となる見通し。\n・世界的な大手テック企業間での法廷闘争へ発展。"
+  },
+  {
+    "title": "「Linux」で「Claude Code」のデスクトップアプリを試してみた--競合と比較した結果は",
+    "link": "https://japan.zdnet.com/article/35250273/",
+    "source": "ZDNET Japan",
+    "published": "",
+    "summary": "「Claude Code」の公式の「Linux」デスクトップアプリが登場した。素晴らしい選択肢ではあるものの、ローカルAIを利用しようとすると少し厄介な問題に直面することになる。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35250273/\"><img src=\"https://japan.zdnet.com/storage/2026/07/07/1120bb825978ad920e02773a4fcb1bb1/t/184/138/d/large-claudedesktophero.jpg\" /></a>",
+    "image": "https://japan.zdnet.com/storage/2026/07/07/1120bb825978ad920e02773a4fcb1bb1/t/184/138/d/large-claudedesktophero.jpg",
+    "fetched_at": "2026-07-12 16:14:37",
+    "ja_summary": "・「Claude Code」の公式Linux版デスクトップアプリが公開された。\n・優れたツールだが、ローカルAI環境との連携には課題が残る。\n・競合と比較すると、導入や活用において考慮すべき点がある。"
+  },
+  {
+    "title": "Markdownをpushするだけで社内資料PDFを常に最新に — WIF×Google Driveで鍵レス自動配信",
+    "link": "https://zenn.dev/o2wsu9/articles/36dea065f5d73c",
+    "source": "Zenn Trends",
+    "published": "Sat, 11 Jul 2026 12:31:50 GMT",
+    "summary": "社内向けドキュメントを Markdown のまま Git で管理し、push するだけで Google Drive 上の PDF を最新化する仕組みを、鍵レス認証（Workload Identity Federation）で構築する手順を解説します。\n\n TL;DR\n\nMarkdown を main に push すると、PDF が自動生成されて Google Drive の同じファイルが上書きされます。共有リンクは変わらず、開けば常に最新版です。\n正本は GitHub（履歴管理・レビュー）、表示は Drive（PDF）。「書き出して上げ直して周知する」という共有作業が消えます。\n認証は...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--IoMNjH5J--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Markdown%25E3%2582%2592push%25E3%2581%2599%25E3%2582%258B%25E3%2581%25A0%25E3%2581%2591%25E3%2581%25A7%25E7%25A4%25BE%25E5%2586%2585%25E8%25B3%2587%25E6%2596%2599PDF%25E3%2582%2592%25E5%25B8%25B8%25E3%2581%25AB%25E6%259C%2580%25E6%2596%25B0%25E3%2581%25AB%2520%25E2%2580%2594%2520WIF%25C3%2597Google%2520Drive%25E3%2581%25A7%25E9%258D%25B5%25E3%2583%25AC%25E3%2582%25B9%25E8%2587%25AA%25E5%258B%2595%25E9%2585%258D%25E4%25BF%25A1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:o2wsu9%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzdjMTFhNDRkZTYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-07-12 16:14:52",
+    "ja_summary": "・MarkdownをGitHubにpushするだけで、Google Drive上のPDFが自動更新される。\n・共有リンクは不変のため、配布の手間を省き常に最新版を社内に提供できる。\n・鍵レス認証（WIF）を採用し、セキュリティと利便性を両立した仕組みを実現する。"
+  },
+  {
     "title": "Metaの新AIツール「Muse Image」でインスタ投稿の画像生成を禁じる設定方法",
     "link": "https://japan.zdnet.com/article/35250421/",
     "source": "ZDNET Japan",
@@ -948,55 +998,5 @@
     "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Ftech-festa-ogp-background-4b5015b2c518c7e6b9062a7c9f5f5e90.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0MDQ3Mzg5JTJGYjlkMDJiOWVlMWFmYWI4ODNlM2I0ZjQ2ZTg3ZDA3ZjFkNjA5YzlkNSUyRnhfbGFyZ2UucG5nJTNGMTc0MzUxMjU5ND9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9OWRlOWYzMjMyZWQ3ZWExZWY5ZmI2MzRiYzc4YjZiZTg%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D662b8f23d55b88eb8b2ea06fc3953dae?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgzJTkwJUUzJTgyJUE0JUUzJTgzJTk2JUUzJTgyJUIzJUUzJTgzJUJDJUUzJTgzJTg3JUUzJTgyJUEzJUUzJTgzJUIzJUUzJTgyJUIwJUUzJTgxJUE3JUU2JTlDJUFDJUU1JUJEJTkzJUUzJTgxJUFCJUUzJTgyJUEyJUUzJTgzJTk3JUUzJTgzJUFBJUUzJTgxJUFGJUUzJTgzJUFBJUUzJTgzJUFBJUUzJTgzJUJDJUUzJTgyJUI5JUUzJTgxJUE3JUUzJTgxJThEJUUzJTgyJThCJUUzJTgxJUFFJUUzJTgxJThCJUVGJUJDJTlGJUUzJTgyJUE4JUUzJTgzJUIzJUUzJTgyJUI4JUUzJTgzJThCJUUzJTgyJUEyJUUzJTgxJThDJUU1JUFFJTlGJUU5JTlBJTlCJUUzJTgxJUFCJUUzJTgyJUEyJUUzJTgzJTk3JUUzJTgzJUFBJUUzJTgyJTkyJUUzJTgzJUFBJUUzJTgzJUFBJUUzJTgzJUJDJUUzJTgyJUI5JUUzJTgxJTk3JUUzJTgxJUE2JUU2JTg0JTlGJUUzJTgxJTk4JUUzJTgxJTlGJUUzJTgxJTkzJUUzJTgxJUE4JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjNGRkZGRkYmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9YzNhZGUzNGU1NTM0OGNjMzY2N2RhMWQ5ODQxMGU0NzQ&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDB5dXRha2Ffa296dWthJnR4dC1jb2xvcj0lMjNGRkZGRkYmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9YWUwZTJkMGM3NTIwYjEwYjA2MThjNWUyODg0ZTI4MDI&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=6169a42946bc61deb8f8aa23381db164",
     "fetched_at": "2026-07-11 13:57:38",
     "ja_summary": "・AIを活用した「バイブコーディング」でアプリ開発とリリースは可能。\n・AIはコード作成を代行できるが、品質やセキュリティの判断は依然として人の知識が不可欠。\n・非エンジニアが商用レベルの安全なアプリを開発するには、まだ高いハードルが存在する。"
-  },
-  {
-    "title": "並列で思考を分けたら、AIレビューの精度もコンテキスト効率も同時に上がった話",
-    "link": "https://qiita.com/fwatanab/items/345691e0d2260d5f34a5",
-    "source": "Qiita (Popular)",
-    "published": "2026-06-24T16:23:20+09:00",
-    "summary": "## はじめに\n\nAIにコードレビューをやらせるとき「1つのエージェントに全部チェックさせる」のをやめて、**複数の専門エージェントに並列で分業させる** 構成に変えたら、精度が体感で大きく上がりました。\n\nただ、本当の収穫は精度向上そのものより、**「並列で思考を分ける」こと自体が、コンテキスト効率とハルシネーション対策を同時に解決していた** ことに気づけたことでした。\n\n---\n\n## 1人",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0MzQ0NzI5JTJGZDExYWZlMWMyMWY2NjA1MjY4NjlmNTY3ZWUxYmEzZjI0YmM3MzNlMCUyRnhfbGFyZ2UucG5nJTNGMTc2OTQwMDc2Nz9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NzhmYTQ0MmYwZGU4Yzg4MWVlYWQ0NTliYmIyMDY0NDg%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkZhZmM0ZGJhZjAzNThlOGQwYjM0NmM4ZDc1ZWIwMzdiMjVmNjc4MDY5JTJGb3JpZ2luYWwuanBnJTNGMTYwNzc1NjU4OD9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz03NjRmYjE2ODMxYjQ2ZDU0NTgwMmI1MGMzYWMxODM2MQ%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3Dbefd1b21d8e139ac8038c4181e7d5d18?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUU0JUI4JUE2JUU1JTg4JTk3JUUzJTgxJUE3JUU2JTgwJTlEJUU4JTgwJTgzJUUzJTgyJTkyJUU1JTg4JTg2JUUzJTgxJTkxJUUzJTgxJTlGJUUzJTgyJTg5JUUzJTgwJTgxQUklRTMlODMlQUMlRTMlODMlOTMlRTMlODMlQTUlRTMlODMlQkMlRTMlODElQUUlRTclQjIlQkUlRTUlQkElQTYlRTMlODIlODIlRTMlODIlQjMlRTMlODMlQjMlRTMlODMlODYlRTMlODIlQUQlRTMlODIlQjklRTMlODMlODglRTUlOEElQjklRTclOEUlODclRTMlODIlODIlRTUlOTAlOEMlRTYlOTklODIlRTMlODElQUIlRTQlQjglOEElRTMlODElOEMlRTMlODElQTMlRTMlODElOUYlRTglQTklQjEmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz02MjU5YmZjMTRhNTRhZWRjODUzNTY4MzhmYTk5YTM3OA&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBmd2F0YW5hYiZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWRjZjgzMzE2MGQ1MDdkMjE0NGZjNzgyYjQzODk1YTg5&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=5qCq5byP5Lya56S-44K344Oz44K344Ki&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=a3cc4c7ccb469dbe83a04a94abc43da2",
-    "fetched_at": "2026-07-11 13:57:40",
-    "ja_summary": "AIコードレビューにおいて、1つのAIに全て任せるのではなく、役割を分担した複数のエージェントに並列で処理させる手法が有効。\nこのアプローチにより、レビューの精度が向上するだけでなく、AIの入力制限（コンテキスト効率）を最適化し、ハルシネーション（誤回答）も抑制できる。\n専門家ごとに思考を分業させることで、リソースの効率化と品質担保を同時に実現できる。"
-  },
-  {
-    "title": "AIでおしゃれな画面を作るためのデザインシステムを学ぼう！",
-    "link": "https://qiita.com/yusuke_ando_vj/items/dd17a285217a15841a3a",
-    "source": "Qiita (Popular)",
-    "published": "2026-06-24T20:51:08+09:00",
-    "summary": "Webサイトのデザインを、AIやデザイナーに「おしゃれにしてください」「いい感じにしてください」だけで依頼すると、完成イメージが大きくズレます。\n\nなぜなら、Webデザインには「どんな情報を・どの順番で・どんなレイアウトで・どんな雰囲気で・どんな色で・どんな文字で・どんな部品で・スマホではどう」という**複数の観点**があるからです。\n\nこの記事では、AIでおしゃれな画面を作るために知っておきたい",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmxoMy5nb29nbGV1c2VyY29udGVudC5jb20lMkZhJTJGQUNnOG9jSlEySi00V2JmcGtIRUJQd0psbWJiSDl2ejVqMjRBLTliQ04tWUR0WWNueC1kMW1BJTNEczk2LWM_aXhsaWI9cmItNC4xLjEmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPTVkNGI5NWFlMzA1Njk3NzA3ZTZkMzUyZDYwZTU5ZTQ5%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkY0YjhiYzU1OGU0ZTliOTk1Nzc5NDIxMGUxY2NmY2MzY2RkNmI3ZGRiJTJGb3JpZ2luYWwuanBnJTNGMTY3Njc5NjQyMj9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz0xNWI1ZjczNjlmYzk2MmFmNmE3MTcxMmUxMGRmYWFhOQ%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D3bac63bdb957e1de0b1095ea971d5eb3?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9QUklRTMlODElQTclRTMlODElOEElRTMlODElOTclRTMlODIlODMlRTMlODIlOEMlRTMlODElQUElRTclOTQlQkIlRTklOUQlQTIlRTMlODIlOTIlRTQlQkQlOUMlRTMlODIlOEIlRTMlODElOUYlRTMlODIlODElRTMlODElQUUlRTMlODMlODclRTMlODIlQjYlRTMlODIlQTQlRTMlODMlQjMlRTMlODIlQjclRTMlODIlQjklRTMlODMlODYlRTMlODMlQTAlRTMlODIlOTIlRTUlQUQlQTYlRTMlODElQkMlRTMlODElODYlRUYlQkMlODEmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1lMDM1MGQyMmM5MTA2MTViY2FlOWU1YjgxM2UwYTMzMA&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDB5dXN1a2VfYW5kb192aiZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWYzZjU1MzRjOWUyNDBmOTcwZDQyZDMyMWM2NmI2ZGI5&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=5qCq5byP5Lya56S-VklTSU9OQVJZIEpBUEFO&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=8fd438a9bb203f8b9d432ac0f8dc5a72",
-    "fetched_at": "2026-07-11 13:57:41",
-    "ja_summary": "・「いい感じに」といった曖昧な指示では、AIやデザイナーとの認識ズレが生じる。\n・Webデザインは情報構成や色、レイアウト等の多角的な要素で成り立っている。\n・AIで理想の画面を作るには、これらの構成要素（デザインシステム）を体系的に理解する必要がある。"
-  },
-  {
-    "title": "アップルが企業秘密の盗用でOpenAIを提訴…最高ハードウエア責任者のタン･タン氏も被告に | 政治・経済・投資 | 東洋経済オンライン",
-    "link": "https://toyokeizai.net/articles/-/951239?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-    "source": "東洋経済オンライン",
-    "published": "Sat, 11 Jul 2026 10:35:00 +0900",
-    "summary": "AI業界の巨頭アップルが､営業秘密の盗用を理由にOpenAIを提訴しました。",
-    "image": "https://tk.ismcdn.jp/mwimgs/1/9/1200w/img_19de6197ac7c79c6b0170d13c4aa1ac1292819.jpg?nextgen=false",
-    "fetched_at": "2026-07-11 10:52:19",
-    "ja_summary": "・アップルが営業秘密の盗用でOpenAIを提訴\n・アップルの元最高ハードウエア責任者タン・タン氏も被告に含まれる\n・AI開発を巡る両社の対立が法廷闘争へと発展した"
-  },
-  {
-    "title": "プライムデー開催!　ところでアマゾンのAI「ルーファス」は頑張ってほしい",
-    "link": "https://www.watch.impress.co.jp/docs/topic/watchplus/2124102.html",
-    "source": "Impress Watch",
-    "published": "",
-    "summary": "Impress Watchニュースレターに掲載した記事です。ニュースレターは無料で、毎週編集部員が会員向けのコラムなどをお送りしています。登録はこちらから。",
-    "image": "https://www.watch.impress.co.jp/img/ipw/list/2124/102/a01.jpg",
-    "fetched_at": "2026-07-11 10:52:31",
-    "ja_summary": "・Amazonのビッグセール「プライムデー」が開催される。\n・買い物の検索や比較をサポートするAI「ルーファス」の精度向上に期待が寄せられている。\n・本記事はニュースレター向けのコラムを紹介する内容である。"
-  },
-  {
-    "title": "Agent Skills自動最適化の研究、中身はほぼ深層学習の訓練ループだった",
-    "link": "https://zenn.dev/layerx/articles/9f25ec86a31730",
-    "source": "Zenn Trends",
-    "published": "Wed, 08 Jul 2026 08:00:06 GMT",
-    "summary": "Ai Workforce事業部FDE部エンジニアの堤(@ozro_223)です。\n本記事では、Coding Agent（以降、エージェントと呼びます）に持たせるスキルを、ハーネスの工夫でエージェントの実行経験から学習させる2026年上半期の研究動向を紹介します。ここでいうスキルは、Agent Skillsに代表される、SKILL.mdを含むフォルダを指します。\n先に種明かしをすると、どの研究も、訓練データ・損失関数・勾配・学習率にあたる部品を1つずつテキストに置き換えた、深層学習の訓練ループとほとんど同じ形をしていました。\n\nいま、AI界隈ではLoop Engineeringという言葉が...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--E2g8BHeK--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Agent%2520Skills%25E8%2587%25AA%25E5%258B%2595%25E6%259C%2580%25E9%2581%25A9%25E5%258C%2596%25E3%2581%25AE%25E7%25A0%2594%25E7%25A9%25B6%25E3%2580%2581%25E4%25B8%25AD%25E8%25BA%25AB%25E3%2581%25AF%25E3%2581%25BB%25E3%2581%25BC%25E6%25B7%25B1%25E5%25B1%25A4%25E5%25AD%25A6%25E7%25BF%2592%25E3%2581%25AE%25E8%25A8%2593%25E7%25B7%25B4%25E3%2583%25AB%25E3%2583%25BC%25E3%2583%2597%25E3%2581%25A0%25E3%2581%25A3%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:223%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2E2OTFlNjE4YzcuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:LayerX%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzAwNjA5YTdlZmMuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "fetched_at": "2026-07-11 10:52:54",
-    "ja_summary": "AIエージェントのスキル自動最適化手法は、実質的に深層学習の訓練ループをテキストベースで再構築したものと捉えられる。\n学習データや損失関数などの要素を言語モデルの実行経験から抽出・更新する「Loop Engineering」が、最新の研究トレンドとなっている。"
   }
 ]
