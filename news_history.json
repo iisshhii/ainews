@@ -1,5 +1,75 @@
 [
   {
+    "title": "アップル、OpenAIを提訴　ハードウェア開発で情報を不正入手",
+    "link": "https://www.watch.impress.co.jp/docs/news/2124412.html",
+    "source": "Impress Watch",
+    "published": "",
+    "summary": "Appleは、元従業員2名とOpenAIらを営業秘密の侵害と契約違反で、カリフォルニア州北部地区連邦地裁に訴訟を提起した。ハードウェア開発を進めるOpenAIがAppleの情報を不正に利用していると訴えている。",
+    "image": "https://www.watch.impress.co.jp/img/ipw/list/2124/412/appleoai1.jpg",
+    "fetched_at": "2026-07-12 19:57:28",
+    "ja_summary": "・AppleがOpenAIと元従業員2名を提訴\n・ハードウェア開発における営業秘密の不正流用と契約違反が理由\n・Appleの技術がOpenAI側に無断利用された疑いがある"
+  },
+  {
+    "title": "情報漏洩に敏感な金融機関で、Claude・Gemini・ChatGPTを導入した話",
+    "link": "https://zenn.dev/seiuchi3939/articles/b12d6746d9f187",
+    "source": "Zenn Trends",
+    "published": "Sun, 12 Jul 2026 01:36:49 GMT",
+    "summary": "はじめに\n私は国内の金融機関で、社内の情報システム・セキュリティに関わる業務をしています。この記事では、情報漏洩リスクに人一倍敏感な金融機関という環境で、Claude・Gemini・ChatGPTという複数の生成AIサービスを全社導入するに至った経緯と、その際にどうリスクを整理したかをまとめます。\n「生成AIを導入したいけど、リスク部門の理解が得られない」「情報漏洩が怖くて一歩を踏み出せない」——同じような壁にぶつかっている企業の担当者の方に、何かひとつでも参考になれば嬉しいです。\n\n 1. 導入前の状況:前向きな現場と、慎重にならざるを得ないリスク部門\n金融機関である以上、情報漏洩...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--SebjjJMy--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E6%2583%2585%25E5%25A0%25B1%25E6%25BC%258F%25E6%25B4%25A9%25E3%2581%25AB%25E6%2595%258F%25E6%2584%259F%25E3%2581%25AA%25E9%2587%2591%25E8%259E%258D%25E6%25A9%259F%25E9%2596%25A2%25E3%2581%25A7%25E3%2580%2581Claude%25E3%2583%25BBGemini%25E3%2583%25BBChatGPT%25E3%2582%2592%25E5%25B0%258E%25E5%2585%25A5%25E3%2581%2597%25E3%2581%259F%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%25A6%25E3%2581%258F%25E3%2581%25A6%25E3%2581%258F%25E3%2582%25A8%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%258B%25E3%2582%25A2%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2ZmNzRhZDllZmEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-07-12 19:57:50",
+    "ja_summary": "・情報漏洩リスクに極めて厳しい金融機関が、全社的な生成AI（Claude・Gemini・ChatGPT）導入を実現。\n・現場の活用意欲とリスク部門の慎重論という対立構造に対し、明確なリスク整理と安全策を提示。\n・生成AI導入を阻むセキュリティの壁をいかに乗り越えたか、そのノウハウを共有する内容。"
+  },
+  {
+    "title": "Rust + Tauri で古い Mac 風のシステムモニタを作ってみた",
+    "link": "https://zenn.dev/m2lab/articles/rust-tauri-sysgauge",
+    "source": "Zenn Trends",
+    "published": "Sat, 11 Jul 2026 21:46:59 GMT",
+    "summary": "作ったもの\nsysgauge という、Mac / Windows で動くシステムモニタを作りました。\nRust（Tauri v2）でマシンの数値を取って、画面は React です。見た目は今どきのダッシュボードにはせず、古い Mac のウィンドウに寄せています。\n\nCPU 使用率（全体とコア別）\nメモリ（used / available / free / swap）\nディスク使用量\n温度（sysinfo の Components）\n\n手元の Mac（Apple Silicon）では、npm run tauri dev で起動したときに温度も出ました。ブラウザで Vite を開いただけ...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--HMFtXEDG--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Rust%2520%252B%2520Tauri%2520%25E3%2581%25A7%25E5%258F%25A4%25E3%2581%2584%2520Mac%2520%25E9%25A2%25A8%25E3%2581%25AE%25E3%2582%25B7%25E3%2582%25B9%25E3%2583%2586%25E3%2583%25A0%25E3%2583%25A2%25E3%2583%258B%25E3%2582%25BF%25E3%2582%2592%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Masa0209%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzA4ZWJkMzI1Y2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-07-12 19:57:50",
+    "ja_summary": "・RustとTauri v2を使用し、CPUやメモリ等の数値を可視化するクロスプラットフォーム対応のシステムモニタ「sysgauge」を開発。\n・Reactを用いたフロントエンドにより、あえてレトロなMac風のUIデザインを採用。\n・CPUコア別の使用率や温度監視など、主要なシステム情報のリアルタイムモニタリングに対応。"
+  },
+  {
+    "title": "OpenFugu×ローカルLLM群でマルチAI駆動を検証① Multi-Agent System as a Model の再現",
+    "link": "https://zenn.dev/znet/articles/2026-openfugu-local-multiagent-part1",
+    "source": "Zenn Trends",
+    "published": "Sat, 11 Jul 2026 18:34:18 GMT",
+    "summary": "複数の LLM を協調させるマルチエージェントシステムは、普通は「人間が書いたルールとワークフロー」で駆動します。どのモデルに何を任せるか、失敗したらどうするか——この采配部分を、Sakana AI の Fugu はまるごと 1 つの学習済みモデルにしました。彼らはこれを「Multi-Agent System as a Model」と呼んでいます。\n本シリーズの目的は、この概念の検証と再現です。Fugu 本体はプロプライエタリ（モデル・コード非公開・ローカル LLM 非対応）なので、公開再実装の OpenFugu を使い、手元の Ollama モデル群だけで「采配を学習するモデル」が本当...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--8HqyPVx6--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:OpenFugu%25C3%2597%25E3%2583%25AD%25E3%2583%25BC%25E3%2582%25AB%25E3%2583%25ABLLM%25E7%25BE%25A4%25E3%2581%25A7%25E3%2583%259E%25E3%2583%25AB%25E3%2583%2581AI%25E9%25A7%2586%25E5%258B%2595%25E3%2582%2592%25E6%25A4%259C%25E8%25A8%25BC%25E2%2591%25A0%2520Multi-Agent%2520System%2520as%2520a%2520Mod...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Shiros%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSm8wdmhXc2hoSTVWdGQtT2tneWJqLWFBbmNkaDlhMndTUnlFR2MwYmZfMjIwZFZYdVRHdz1zMjUwLWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-07-12 19:57:51",
+    "ja_summary": "Sakana AIが提唱した「複数のAIを一つのモデルで制御する手法」を、公開実装のOpenFuguとローカルLLMで再現する技術検証。\n人手によるワークフロー設定が不要な、AI自身がAIを采配するシステムの実用性を手元の環境で検証する。"
+  },
+  {
+    "title": "Cloudflare Registrar + R2 で個人開発アプリの公開基盤を構築した記録",
+    "link": "https://zenn.dev/unsoluble_sugar/articles/a6fb2c3efd5a66",
+    "source": "Zenn Trends",
+    "published": "Sat, 11 Jul 2026 13:30:03 GMT",
+    "summary": "はじめに\n現在、個人開発でWebアプリを作っています。プロダクト自体は未リリースのため具体的なアプリ名は伏せますが、「独自ドメイン取得〜公開基盤の構築」までを数時間で一気に進めたので、その際の手順・設定値・ハマりどころを記事として残しておきます。\n!\n未リリースのプロダクトのため、本記事ではドメインを myapp.app、アセット配信用サブドメインを assets.myapp.app という仮名で表記します。\n\n作業には Claude Code（Fable 5）を活用しました。Cloudflare を使うのは今回が初めてで、ダッシュボードの画面や設定項目に馴染みがなく迷う場面も多かっ...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--EINbp5QG--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Cloudflare%2520Registrar%2520%252B%2520R2%2520%25E3%2581%25A7%25E5%2580%258B%25E4%25BA%25BA%25E9%2596%258B%25E7%2599%25BA%25E3%2582%25A2%25E3%2583%2597%25E3%2583%25AA%25E3%2581%25AE%25E5%2585%25AC%25E9%2596%258B%25E5%259F%25BA%25E7%259B%25A4%25E3%2582%2592%25E6%25A7%258B%25E7%25AF%2589%25E3%2581%2597%25E3%2581%259F%25E8%25A8%2598%25E9%258C%25B2%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E6%2598%259F%25E5%25BD%25B1%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzEwZDE4YjgwZTkuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-07-12 19:57:51",
+    "ja_summary": "・Cloudflare Registrarでドメインを取得し、R2を活用して個人開発アプリの公開基盤を数時間で構築。\n・AIツール（Claude Code）を活用し、未経験のCloudflare設定から公開までの手順を記録。\n・初めてのサービス利用時に直面した設定の迷いどころや、具体的な手順を網羅的に解説。"
+  },
+  {
+    "title": "AI時代の闇と光",
+    "link": "https://speakerdeck.com/tatsuya1970/aishi-dai-noan-toguang",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-07-12T06:20:27-04:00",
+    "summary": "2026.7.11 高校生ICT Conference 2026 in 広島にて\nhttps://www.good-net.jp/ict-conference/2026/hiroshima2026/",
+    "image": "https://files.speakerdeck.com/presentations/9fb3985095ba48e297565aafc674cbef/preview_slide_0.jpg?39967564",
+    "fetched_at": "2026-07-12 19:57:52",
+    "ja_summary": "・2026年7月11日、広島にて高校生ICT Conference 2026を開催。\n・AI技術がもたらす社会の利便性（光）と、リスクや課題（闇）について議論。\n・次世代を担う高校生が、AI時代の未来のあり方を多角的に考察する。"
+  },
+  {
+    "title": "バイブコーディングで本当にアプリはリリースできるのか？エンジニアが実際にアプリをリリースして感じたこと",
+    "link": "https://qiita.com/yutaka_kozuka/items/cc3be5930b972130885d",
+    "source": "Qiita (Popular)",
+    "published": "2026-07-05T11:59:41+09:00",
+    "summary": "## TL;DR\n\nQ: バイブコーディングで本当にアプリをリリースできるのか？  \nA: できました。ただし「商用・セキュア」という条件では、非エンジニアにはまだ厳しいと感じました。\n\n- AI英語学習アプリをゼロから個人開発し、Web・iOS App Store の両方でリリースできました\n- AIは「コードを書くこと」を代替できますが、「何を確認すべきか」の判断は代替できません\n- 一番大変",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Ftech-festa-ogp-background-4b5015b2c518c7e6b9062a7c9f5f5e90.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0MDQ3Mzg5JTJGYjlkMDJiOWVlMWFmYWI4ODNlM2I0ZjQ2ZTg3ZDA3ZjFkNjA5YzlkNSUyRnhfbGFyZ2UucG5nJTNGMTc0MzUxMjU5ND9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9OWRlOWYzMjMyZWQ3ZWExZWY5ZmI2MzRiYzc4YjZiZTg%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D662b8f23d55b88eb8b2ea06fc3953dae?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgzJTkwJUUzJTgyJUE0JUUzJTgzJTk2JUUzJTgyJUIzJUUzJTgzJUJDJUUzJTgzJTg3JUUzJTgyJUEzJUUzJTgzJUIzJUUzJTgyJUIwJUUzJTgxJUE3JUU2JTlDJUFDJUU1JUJEJTkzJUUzJTgxJUFCJUUzJTgyJUEyJUUzJTgzJTk3JUUzJTgzJUFBJUUzJTgxJUFGJUUzJTgzJUFBJUUzJTgzJUFBJUUzJTgzJUJDJUUzJTgyJUI5JUUzJTgxJUE3JUUzJTgxJThEJUUzJTgyJThCJUUzJTgxJUFFJUUzJTgxJThCJUVGJUJDJTlGJUUzJTgyJUE4JUUzJTgzJUIzJUUzJTgyJUI4JUUzJTgzJThCJUUzJTgyJUEyJUUzJTgxJThDJUU1JUFFJTlGJUU5JTlBJTlCJUUzJTgxJUFCJUUzJTgyJUEyJUUzJTgzJTk3JUUzJTgzJUFBJUUzJTgyJTkyJUUzJTgzJUFBJUUzJTgzJUFBJUUzJTgzJUJDJUUzJTgyJUI5JUUzJTgxJTk3JUUzJTgxJUE2JUU2JTg0JTlGJUUzJTgxJTk4JUUzJTgxJTlGJUUzJTgxJTkzJUUzJTgxJUE4JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjNGRkZGRkYmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9YzNhZGUzNGU1NTM0OGNjMzY2N2RhMWQ5ODQxMGU0NzQ&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDB5dXRha2Ffa296dWthJnR4dC1jb2xvcj0lMjNGRkZGRkYmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9YWUwZTJkMGM3NTIwYjEwYjA2MThjNWUyODg0ZTI4MDI&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=6169a42946bc61deb8f8aa23381db164",
+    "fetched_at": "2026-07-12 19:57:53",
+    "ja_summary": "・AIのみでアプリ開発・リリースは可能だが、商用レベルの安全性確保にはエンジニアの知見が必須。\n・AIはコーディングを代替できるが、品質管理や技術判断の最終責任は人間が負う必要がある。\n・非エンジニアが実用的なアプリを公開するには、依然として高いハードルが存在する。"
+  },
+  {
     "title": "プライムデー開催!　ところでアマゾンのAI「ルーファス」は頑張ってほしい",
     "link": "https://www.watch.impress.co.jp/docs/topic/watchplus/2124102.html",
     "source": "Impress Watch",
@@ -928,75 +998,5 @@
     "image": "https://xtech.nikkei.com/atcl/nxt/mag/rob/18/00006/00199/og.jpg?20220512",
     "fetched_at": "2026-07-11 16:09:23",
     "ja_summary": "・Brain Corpが自走ロボットと画像AIを活用し、店舗内の実在庫を自動で把握・分析するサービスを開始。\n・ロボットが移動しながらスキャンを行うことで、効率的な在庫管理を実現。\n・小売業の業務効率化と人手不足解消を支援する。"
-  },
-  {
-    "title": "ChatGPT Work クイックスタート",
-    "link": "https://note.com/npaka/n/ne1f9886fd98d",
-    "source": "note (npaka)",
-    "published": "Fri, 10 Jul 2026 09:59:44 +0900",
-    "summary": "<p id=\"597b4d52-7362-4a40-ad8f-d8c83fe9cdae\" name=\"597b4d52-7362-4a40-ad8f-d8c83fe9cdae\">「ChatGPT Work」クイックスタートをまとめました。</p><br /><br /><a href=\"https://note.com/npaka/n/ne1f9886fd98d\">続きをみる</a>",
-    "image": "https://assets.st-note.com/production/uploads/images/293042128/rectangle_large_type_2_7605746bc4202ab358565bab1475740f.png?width=800",
-    "fetched_at": "2026-07-11 16:09:35",
-    "ja_summary": "ChatGPT Workの利用開始に必要な手順や設定をまとめたガイドが公開されました。\n業務での導入・活用を検討しているユーザー向けのクイックスタート記事です。"
-  },
-  {
-    "title": "飲食店にAIが何度も予約電話 なぜ",
-    "link": "https://news.yahoo.co.jp/pickup/6587403?source=rss",
-    "source": "Yahoo!ニュース IT・科学",
-    "published": "Fri, 10 Jul 2026 03:33:42 GMT",
-    "summary": "",
-    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/7/10/cb3f00a35a4a49c7ad1ace6d60b87167a009a919e00cc09d1175bc2b3fb9b324.jpg",
-    "fetched_at": "2026-07-11 16:09:39",
-    "ja_summary": "・AIが飲食店に自動で何度も予約電話をかけ、業務を妨げるトラブルが急増している。\n・AIによる自動予約代行サービスが、店舗の電話対応状況を学習するために無断で着信させていることが主因。\n・店側にはメリットがない一方、営業妨害や人手不足の悪化を招いており、対策や法規制が求められている。"
-  },
-  {
-    "title": "ガバメントAI 源内における国産クラウド上での国産基盤モデルの試用開始について",
-    "link": "https://www.digital.go.jp/news/7eef939d-1c58-4229-b210-7b5adc9af590",
-    "source": "デジタル庁",
-    "published": "Fri, 10 Jul 2026 13:28:27 +0900",
-    "summary": "",
-    "image": "https://www.digital.go.jp/themes/custom/gov_theme_da_2023/assets/images/ogp.png",
-    "fetched_at": "2026-07-11 16:09:42",
-    "ja_summary": "・政府専用のAI環境「ガバメントAI 源内」で、国産基盤モデルの試用を開始。\n・国産クラウドを活用し、安全性の高い環境でのAI利活用を推進。\n・行政業務への適応性や性能を検証し、政府のAI活用基盤の整備を図る。"
-  },
-  {
-    "title": "Government of Alberta uses Claude to find and fix cybersecurity vulnerabilities across government systems",
-    "link": "https://www.anthropic.com/news/alberta-government-claude-cybersecurity",
-    "source": "Anthropic (News)",
-    "published": "Mon, 06 Jul 2026 00:00:00 +0000",
-    "summary": "Government of Alberta uses Claude to find and fix cybersecurity vulnerabilities across government systems",
-    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object-LaptopSecure&amp;backgroundColor=sky",
-    "fetched_at": "2026-07-11 16:09:58",
-    "ja_summary": "・アルバータ州政府が政府システムの脆弱性診断・修復にAI「Claude」を導入。\n・AIを活用することで、サイバーセキュリティ対策の効率化と迅速化を実現。\n・政府レベルでのAIによるセキュリティ運用の先進的な事例となる。"
-  },
-  {
-    "title": "DGX Spark (GB10) でローカルLLMを7本ベンチマークした【2026年7月】",
-    "link": "https://zenn.dev/phpmyadmin/articles/f243076e9ec1fe",
-    "source": "Zenn Trends",
-    "published": "Fri, 10 Jul 2026 11:23:33 GMT",
-    "summary": "NVIDIA DGX Spark(MSI EdgeXpert、GB10 / ユニファイドメモリ128GB)を入手したので、2026年7月時点の最新オープンウェイトLLMを一通り動かしてベンチマークしました。「128GBで何がどこまで動くか」の参考に。\n\n 環境\n\n\n\n項目\n値\n\n\n\n\nマシン\nMSI EdgeXpert(NVIDIA DGX Spark)\n\n\nSoC\nNVIDIA GB10(Grace Blackwell)\n\n\nメモリ\n128GB ユニファイド(実効 121GB)\n\n\nOS\nUbuntu 24.04.4 LTS(DGX OS)\n\n\nドライバ / CUDA\n580.159....",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--F4UMNp49--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:DGX%2520Spark%2520%2528GB10%2529%2520%25E3%2581%25A7%25E3%2583%25AD%25E3%2583%25BC%25E3%2582%25AB%25E3%2583%25ABLLM%25E3%2582%25927%25E6%259C%25AC%25E3%2583%2599%25E3%2583%25B3%25E3%2583%2581%25E3%2583%259E%25E3%2583%25BC%25E3%2582%25AF%25E3%2581%2597%25E3%2581%259F%25E3%2580%25902026%25E5%25B9%25B47%25E6%259C%2588%25E3%2580%2591%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:toyoshi%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzIyZjVkMWIwNTkuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "fetched_at": "2026-07-11 16:10:02",
-    "ja_summary": "・NVIDIAの最新SoC「GB10」搭載機で、主要LLM 7種の性能をベンチマークした。\n・128GBのユニファイドメモリ環境において、モデルの動作限界と実行性能を検証。\n・ローカルLLM運用における実用的な指標として、最新モデルの処理能力を提示。"
-  },
-  {
-    "title": "Claude Codeに「昨日の続き」を思い出させるローカル知識ベースCLI「lk」を作った",
-    "link": "https://zenn.dev/syarihu/articles/a811f2d2d9f149",
-    "source": "Zenn Trends",
-    "published": "Fri, 10 Jul 2026 10:47:30 GMT",
-    "summary": "はじめに\nこんにちは。Androidエンジニアの@syarihuです。\n普段からClaude Codeでコードを書いているのですが、使っているうちにずっと引っかかっていたことがありました。セッションが変わるたびに、前回さんざん読み解いたはずのモジュールを、また最初から読み直すことになる、という点です。同じファイルを開き、同じ関数を追いかけ、同じトークンを消費する。人間なら「あ、これ前に見たやつだ」で済むところを、毎回ゼロからやり直しているわけです。もったいないですよね。\nそこで、Claude Codeのためのローカルな永続知識層があればいいのでは、と考えて作ったのが、今回紹介するlo...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--_xUOL3om--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%25E3%2581%25AB%25E3%2580%258C%25E6%2598%25A8%25E6%2597%25A5%25E3%2581%25AE%25E7%25B6%259A%25E3%2581%258D%25E3%2580%258D%25E3%2582%2592%25E6%2580%259D%25E3%2581%2584%25E5%2587%25BA%25E3%2581%2595%25E3%2581%259B%25E3%2582%258B%25E3%2583%25AD%25E3%2583%25BC%25E3%2582%25AB%25E3%2583%25AB%25E7%259F%25A5%25E8%25AD%2598%25E3%2583%2599%25E3%2583%25BC%25E3%2582%25B9CLI%25E3%2580%258Clk%25E3%2580%258D%25E3%2582%2592%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:syarihu%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2lYdU9CWDA3aExLSENiMzJXYVJlSHBDQ2paVXJpLUVveVlIcnpremhvPXMyNTAtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "fetched_at": "2026-07-11 16:10:02",
-    "ja_summary": "・Claude Codeがセッションごとに情報を忘れる課題を解決するCLIツール「lk」を開発。\n・ローカルに知識ベースを構築し、過去の解析結果を永続的に参照できるようにした。\n・AIの再学習コストとトークン消費を抑え、効率的な開発体験を実現。"
-  },
-  {
-    "title": "Loop Engineeringで失敗しないためのハーネス設計",
-    "link": "https://zenn.dev/kamo78/articles/kaji-guarded-loop-engineering",
-    "source": "Zenn Trends",
-    "published": "Fri, 10 Jul 2026 09:09:43 GMT",
-    "summary": "「動きました！」（動いてない）\n「全テストパスしました！」（通るように書いたテストが、通っただけ）\n「完了しました ✅」（何も完了していない）\nAI coding agent を業務で使っている人なら、どれか一つは見覚えがあるはずです。私は全部、見覚えがあります。これは個人の体験談だけの話でもありません。\nClaude Code の現行ドキュメントでも、CLAUDE.md / AGENTS.md のような project instructions は「読ませる文脈」であって、強制設定ではないと説明されています。確実に止めたい挙動は hook のような決定論的な制御に寄せる。テストを書かせ...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--N7eqeDps--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Loop%2520Engineering%25E3%2581%25A7%25E5%25A4%25B1%25E6%2595%2597%25E3%2581%2597%25E3%2581%25AA%25E3%2581%2584%25E3%2581%259F%25E3%2582%2581%25E3%2581%25AE%25E3%2583%258F%25E3%2583%25BC%25E3%2583%258D%25E3%2582%25B9%25E8%25A8%25AD%25E8%25A8%2588%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:kamo%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jS0VJZjZzamhKRGJ4c2F1andwMVBQaldsd2ItbDgwQ3M1ai1GZXYwV250azNNaz1zOTYtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "fetched_at": "2026-07-11 16:10:03",
-    "ja_summary": "AIエージェントの出力はミスを含みやすいため、成功報告を鵜呑みにせず疑う必要がある。\n指示書（プロンプト）による制御には限界があるため、強制力のあるフックや決定論的な仕組みで挙動を制限すべき。\n自律的な開発支援を導入する際は、コードの品質担保にテストの自動化とガードレール的な制御を組み合わせるのが鉄則。"
   }
 ]
