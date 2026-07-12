@@ -1,5 +1,55 @@
 [
   {
+    "title": "プライムデー開催!　ところでアマゾンのAI「ルーファス」は頑張ってほしい",
+    "link": "https://www.watch.impress.co.jp/docs/topic/watchplus/2124102.html",
+    "source": "Impress Watch",
+    "published": "",
+    "summary": "Impress Watchニュースレターに掲載した記事です。ニュースレターは無料で、毎週編集部員が会員向けのコラムなどをお送りしています。登録はこちらから。",
+    "image": "https://www.watch.impress.co.jp/img/ipw/list/2124/102/a01.jpg",
+    "fetched_at": "2026-07-12 18:16:17",
+    "ja_summary": "Amazonの大型セール「プライムデー」が開催される中、同社が提供する生成AIショッピングアシスタント「ルーファス」の今後のさらなる進化と活用に期待が集まっている。"
+  },
+  {
+    "title": "政府 AI分野で同志国との協力加速",
+    "link": "https://news.yahoo.co.jp/pickup/6587691?source=rss",
+    "source": "Yahoo!ニュース IT・科学",
+    "published": "Sun, 12 Jul 2026 08:22:34 GMT",
+    "summary": "",
+    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/7/12/63af947617e42d5ce807ea15acaa96fc98ade3a9bc91e75041e0a27dde3a3e0b.jpg",
+    "fetched_at": "2026-07-12 18:16:25",
+    "ja_summary": "・政府はAI分野での国際的なルール作りや技術開発で同志国との連携を強化する。\n・安全なAI活用のための国際枠組みを主導し、対中国・ロシア等の技術覇権に対抗する。\n・民間企業による国際共同開発を後押しし、AI経済圏での競争力を高める狙い。"
+  },
+  {
+    "title": "戸田奈津子氏 AIに映画字幕は無理",
+    "link": "https://news.yahoo.co.jp/pickup/6587686?source=rss",
+    "source": "Yahoo!ニュース IT・科学",
+    "published": "Sun, 12 Jul 2026 07:49:25 GMT",
+    "summary": "",
+    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/7/12/efe873b46fed274d89b827c7d6995ff56ede91d97fc2a6757b8dc054edfad292.jpg",
+    "fetched_at": "2026-07-12 18:16:26",
+    "ja_summary": "映画字幕翻訳家の戸田奈津子氏が、映画特有の「行間」や「感情」を汲み取る翻訳はAIには不可能だと主張した。\nAIは言葉を直訳することはできても、文脈やニュアンスを完全に再現することはできないと指摘している。\n同氏は、字幕翻訳には人間の深い洞察と感性が不可欠であるとの見解を示した。"
+  },
+  {
+    "title": "並列で思考を分けたら、AIレビューの精度もコンテキスト効率も同時に上がった話",
+    "link": "https://qiita.com/fwatanab/items/345691e0d2260d5f34a5",
+    "source": "Qiita (Popular)",
+    "published": "2026-06-24T16:23:20+09:00",
+    "summary": "## はじめに\n\nAIにコードレビューをやらせるとき「1つのエージェントに全部チェックさせる」のをやめて、**複数の専門エージェントに並列で分業させる** 構成に変えたら、精度が体感で大きく上がりました。\n\nただ、本当の収穫は精度向上そのものより、**「並列で思考を分ける」こと自体が、コンテキスト効率とハルシネーション対策を同時に解決していた** ことに気づけたことでした。\n\n---\n\n## 1人",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0MzQ0NzI5JTJGZDExYWZlMWMyMWY2NjA1MjY4NjlmNTY3ZWUxYmEzZjI0YmM3MzNlMCUyRnhfbGFyZ2UucG5nJTNGMTc2OTQwMDc2Nz9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NzhmYTQ0MmYwZGU4Yzg4MWVlYWQ0NTliYmIyMDY0NDg%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkZhZmM0ZGJhZjAzNThlOGQwYjM0NmM4ZDc1ZWIwMzdiMjVmNjc4MDY5JTJGb3JpZ2luYWwuanBnJTNGMTYwNzc1NjU4OD9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz03NjRmYjE2ODMxYjQ2ZDU0NTgwMmI1MGMzYWMxODM2MQ%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3Dbefd1b21d8e139ac8038c4181e7d5d18?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUU0JUI4JUE2JUU1JTg4JTk3JUUzJTgxJUE3JUU2JTgwJTlEJUU4JTgwJTgzJUUzJTgyJTkyJUU1JTg4JTg2JUUzJTgxJTkxJUUzJTgxJTlGJUUzJTgyJTg5JUUzJTgwJTgxQUklRTMlODMlQUMlRTMlODMlOTMlRTMlODMlQTUlRTMlODMlQkMlRTMlODElQUUlRTclQjIlQkUlRTUlQkElQTYlRTMlODIlODIlRTMlODIlQjMlRTMlODMlQjMlRTMlODMlODYlRTMlODIlQUQlRTMlODIlQjklRTMlODMlODglRTUlOEElQjklRTclOEUlODclRTMlODIlODIlRTUlOTAlOEMlRTYlOTklODIlRTMlODElQUIlRTQlQjglOEElRTMlODElOEMlRTMlODElQTMlRTMlODElOUYlRTglQTklQjEmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz02MjU5YmZjMTRhNTRhZWRjODUzNTY4MzhmYTk5YTM3OA&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBmd2F0YW5hYiZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWRjZjgzMzE2MGQ1MDdkMjE0NGZjNzgyYjQzODk1YTg5&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=5qCq5byP5Lya56S-44K344Oz44K344Ki&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=a3cc4c7ccb469dbe83a04a94abc43da2",
+    "fetched_at": "2026-07-12 18:16:54",
+    "ja_summary": "・AIによるコードレビューを単一から複数エージェントの並列分業制に変更。\n・専門特化させることで、レビュー精度とコンテキスト効率が同時に向上。\n・処理の並列化により、AIのハルシネーション（誤情報）対策としても高い効果を発揮。"
+  },
+  {
+    "title": "AIでおしゃれな画面を作るためのデザインシステムを学ぼう！",
+    "link": "https://qiita.com/yusuke_ando_vj/items/dd17a285217a15841a3a",
+    "source": "Qiita (Popular)",
+    "published": "2026-06-24T20:51:08+09:00",
+    "summary": "Webサイトのデザインを、AIやデザイナーに「おしゃれにしてください」「いい感じにしてください」だけで依頼すると、完成イメージが大きくズレます。\n\nなぜなら、Webデザインには「どんな情報を・どの順番で・どんなレイアウトで・どんな雰囲気で・どんな色で・どんな文字で・どんな部品で・スマホではどう」という**複数の観点**があるからです。\n\nこの記事では、AIでおしゃれな画面を作るために知っておきたい",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmxoMy5nb29nbGV1c2VyY29udGVudC5jb20lMkZhJTJGQUNnOG9jSlEySi00V2JmcGtIRUJQd0psbWJiSDl2ejVqMjRBLTliQ04tWUR0WWNueC1kMW1BJTNEczk2LWM_aXhsaWI9cmItNC4xLjEmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPTVkNGI5NWFlMzA1Njk3NzA3ZTZkMzUyZDYwZTU5ZTQ5%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkY0YjhiYzU1OGU0ZTliOTk1Nzc5NDIxMGUxY2NmY2MzY2RkNmI3ZGRiJTJGb3JpZ2luYWwuanBnJTNGMTY3Njc5NjQyMj9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz0xNWI1ZjczNjlmYzk2MmFmNmE3MTcxMmUxMGRmYWFhOQ%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D3bac63bdb957e1de0b1095ea971d5eb3?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9QUklRTMlODElQTclRTMlODElOEElRTMlODElOTclRTMlODIlODMlRTMlODIlOEMlRTMlODElQUElRTclOTQlQkIlRTklOUQlQTIlRTMlODIlOTIlRTQlQkQlOUMlRTMlODIlOEIlRTMlODElOUYlRTMlODIlODElRTMlODElQUUlRTMlODMlODclRTMlODIlQjYlRTMlODIlQTQlRTMlODMlQjMlRTMlODIlQjclRTMlODIlQjklRTMlODMlODYlRTMlODMlQTAlRTMlODIlOTIlRTUlQUQlQTYlRTMlODElQkMlRTMlODElODYlRUYlQkMlODEmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1lMDM1MGQyMmM5MTA2MTViY2FlOWU1YjgxM2UwYTMzMA&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDB5dXN1a2VfYW5kb192aiZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWYzZjU1MzRjOWUyNDBmOTcwZDQyZDMyMWM2NmI2ZGI5&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=5qCq5byP5Lya56S-VklTSU9OQVJZIEpBUEFO&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=8fd438a9bb203f8b9d432ac0f8dc5a72",
+    "fetched_at": "2026-07-12 18:16:55",
+    "ja_summary": "・AIに丸投げしたデザインが失敗するのは、必要な指示（構成、配色、レイアウト等）が網羅されていないため。\n・高品質なアウトプットを引き出すには、Webデザインにおける「デザインシステム」の理解が不可欠。\n・デザインの構成要素を言語化し、AIへ適切に指示出しするノウハウを学ぶことが成功の鍵。"
+  },
+  {
     "title": "AIが生む富を誰が受け取るのか――税による再分配か資本共有か､アメリカで動き出すAI時代の新たな分配構想 | 政治・経済・投資 | 東洋経済オンライン",
     "link": "https://toyokeizai.net/articles/-/950844?utm_source=rss&utm_medium=http&utm_campaign=link_back",
     "source": "東洋経済オンライン",
@@ -948,55 +998,5 @@
     "image": "https://res.cloudinary.com/zenn/image/upload/s--N7eqeDps--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Loop%2520Engineering%25E3%2581%25A7%25E5%25A4%25B1%25E6%2595%2597%25E3%2581%2597%25E3%2581%25AA%25E3%2581%2584%25E3%2581%259F%25E3%2582%2581%25E3%2581%25AE%25E3%2583%258F%25E3%2583%25BC%25E3%2583%258D%25E3%2582%25B9%25E8%25A8%25AD%25E8%25A8%2588%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:kamo%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jS0VJZjZzamhKRGJ4c2F1andwMVBQaldsd2ItbDgwQ3M1ai1GZXYwV250azNNaz1zOTYtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
     "fetched_at": "2026-07-11 16:10:03",
     "ja_summary": "AIエージェントの出力はミスを含みやすいため、成功報告を鵜呑みにせず疑う必要がある。\n指示書（プロンプト）による制御には限界があるため、強制力のあるフックや決定論的な仕組みで挙動を制限すべき。\n自律的な開発支援を導入する際は、コードの品質担保にテストの自動化とガードレール的な制御を組み合わせるのが鉄則。"
-  },
-  {
-    "title": "BunはZig 53万行をどう11日でRustに書き換えたのか。64並列Claude Codeの事例から学べたこと、まだ真似できないこと",
-    "link": "https://zenn.dev/assign/articles/bun-rust-rewrite-harness-engineering",
-    "source": "Zenn Trends",
-    "published": "Fri, 10 Jul 2026 08:15:49 GMT",
-    "summary": "はじめに\nこんにちは、株式会社アサインでエンジニアをしているうちほり（@showichiro0123）です。\n本記事では、BunをRustにフルリプレイスする（bun.com/blog/bun-in-rust）という記事を読み、その意思決定や取り組みの詳細を分析することで、一般的なプロダクト開発への応用可能性を探ることを目的とします。\nBunは、Node.jsと並ぶJavaScript/TypeScriptのサーバーサイドランタイムです。そのBunが、2026年5月3日から14日までの11日間で、コメントを除いて53万5,496行あったZig実装をRustへ書き換えました。diffは...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--gZ5xhS-H--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Bun%25E3%2581%25AFZig%252053%25E4%25B8%2587%25E8%25A1%258C%25E3%2582%2592%25E3%2581%25A9%25E3%2581%258611%25E6%2597%25A5%25E3%2581%25A7Rust%25E3%2581%25AB%25E6%259B%25B8%25E3%2581%258D%25E6%258F%259B%25E3%2581%2588%25E3%2581%259F%25E3%2581%25AE%25E3%2581%258B%25E3%2580%258264%25E4%25B8%25A6%25E5%2588%2597Claude%2520Code%25E3%2581%25AE%25E4%25BA%258B%25E4%25BE%258B%25E3%2581%258B%25E3%2582%2589%25E5%25AD%25A6%25E3%2581%25B9%25E3%2581%259F%25E3%2581%2593%25E3%2581%25A8...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E3%2581%2586%25E3%2581%25A1%25E3%2581%25BB%25E3%2582%258A%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzE4YmMzMGUwOGIuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2582%25A2%25E3%2582%25B5%25E3%2582%25A4%25E3%2583%25B3%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzczODNkNjk0N2IuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "fetched_at": "2026-07-11 16:10:03",
-    "ja_summary": "・JavaScriptランタイム「Bun」が、53万行のZig実装をわずか11日間でRustへ全面移行した。\n・64並列で稼働させたAIツール「Claude Code」を駆使した、前例のない大規模なコード変換事例である。\n・AIによるコード変換は強力だが、検証コストやアーキテクチャの理解といった点で、現時点では完全な模倣が困難な技術水準にある。"
-  },
-  {
-    "title": "ClickHouse + HyperDX で作るセルフホストなオブザーバビリティ基盤",
-    "link": "https://zenn.dev/genax_corp/articles/a88f9fa2026107",
-    "source": "Zenn Trends",
-    "published": "Fri, 10 Jul 2026 05:19:22 GMT",
-    "summary": "はじめに\nコンタクトセンター業務を支援する自律型AIオペレーター「X-Ghost（クロスゴースト）」のインフラを担当している岡田です。\nX-Ghost は、SaaS 提供の他に、お客様契約のクラウド環境での動作（Bring Your Own Cloud, BYOC）をサポートしています。\n環境ごとの制約が違っても同じように調査できる状態を作るため、私たちはオブザーバビリティ基盤のバックエンドとして ClickHouse + HyperDX を導入しました。\nログ・メトリクス・トレース（以降まとめてテレメトリと表記します）を ClickHouse に集約し、調査とアラートの UI には...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--nsEXSDa1--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:ClickHouse%2520%252B%2520HyperDX%2520%25E3%2581%25A7%25E4%25BD%259C%25E3%2582%258B%25E3%2582%25BB%25E3%2583%25AB%25E3%2583%2595%25E3%2583%259B%25E3%2582%25B9%25E3%2583%2588%25E3%2581%25AA%25E3%2582%25AA%25E3%2583%2596%25E3%2582%25B6%25E3%2583%25BC%25E3%2583%2590%25E3%2583%2593%25E3%2583%25AA%25E3%2583%2586%25E3%2582%25A3%25E5%259F%25BA%25E7%259B%25A4%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Sho%2520Okada%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2FlODFkNTk1ZTEuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Gen-AX%2520tech%2520blog%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzYyOGM0MDZjZDMuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "fetched_at": "2026-07-11 16:10:03",
-    "ja_summary": "AIオペレーター「X-Ghost」の運用で、多様な環境下でも一元的な調査を可能にするためClickHouseとHyperDXを用いたオブザーバビリティ基盤を構築。\nログ・メトリクス・トレースをClickHouseに集約し、分析とアラートのUIにHyperDXを採用することで、効率的な運用監視体制を実現した。"
-  },
-  {
-    "title": "知性は言葉や記号だけで成り立つか､身体なきAIに真実は宿るのか　ウンベルト･エーコ『薔薇の名前』を読む（下） | ライフ | 東洋経済オンライン",
-    "link": "https://toyokeizai.net/articles/-/950928?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-    "source": "東洋経済オンライン",
-    "published": "Sat, 11 Jul 2026 12:00:00 +0900",
-    "summary": "ビジネスに効く名著のエッセンスを識者がコンパクトに解説。今回は､『薔薇の名前』を衣川理花氏が読み解きます（下編）。",
-    "image": "https://tk.ismcdn.jp/mwimgs/2/6/1200w/img_26153792a5ecbf6a12778337e469eafd209890.jpg?nextgen=false",
-    "fetched_at": "2026-07-11 13:56:52",
-    "ja_summary": "・知性は言葉や記号だけで構成されるのか、身体を持たないAIに真実は宿るのかという哲学的問いを提示。\n・ウンベルト・エーコの『薔薇の名前』を通じ、情報や記号の背後にある「実体」の意味を再考する。\n・AI時代において、知識の表面的な処理を超えた深い洞察や身体的体験の重要性を説く。"
-  },
-  {
-    "title": "アップル、OpenAIを提訴　ハードウェア開発で情報を不正入手",
-    "link": "https://www.watch.impress.co.jp/docs/news/2124412.html",
-    "source": "Impress Watch",
-    "published": "",
-    "summary": "Appleは、元従業員2名とOpenAIらを営業秘密の侵害と契約違反で、カリフォルニア州北部地区連邦地裁に訴訟を提起した。ハードウェア開発を進めるOpenAIがAppleの情報を不正に利用していると訴えている。",
-    "image": "https://www.watch.impress.co.jp/img/ipw/list/2124/412/appleoai1.jpg",
-    "fetched_at": "2026-07-11 13:57:04",
-    "ja_summary": "・Appleが元従業員とOpenAIを相手取り、営業秘密の侵害と契約違反で提訴。\n・OpenAIがハードウェア開発においてAppleの不正な情報を利用していると主張。\n・カリフォルニア州の連邦地裁にて法的な争いに発展。"
-  },
-  {
-    "title": "バイブコーディングで本当にアプリはリリースできるのか？エンジニアが実際にアプリをリリースして感じたこと",
-    "link": "https://qiita.com/yutaka_kozuka/items/cc3be5930b972130885d",
-    "source": "Qiita (Popular)",
-    "published": "2026-07-05T11:59:41+09:00",
-    "summary": "## TL;DR\n\nQ: バイブコーディングで本当にアプリをリリースできるのか？  \nA: できました。ただし「商用・セキュア」という条件では、非エンジニアにはまだ厳しいと感じました。\n\n- AI英語学習アプリをゼロから個人開発し、Web・iOS App Store の両方でリリースできました\n- AIは「コードを書くこと」を代替できますが、「何を確認すべきか」の判断は代替できません\n- 一番大変",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Ftech-festa-ogp-background-4b5015b2c518c7e6b9062a7c9f5f5e90.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0MDQ3Mzg5JTJGYjlkMDJiOWVlMWFmYWI4ODNlM2I0ZjQ2ZTg3ZDA3ZjFkNjA5YzlkNSUyRnhfbGFyZ2UucG5nJTNGMTc0MzUxMjU5ND9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9OWRlOWYzMjMyZWQ3ZWExZWY5ZmI2MzRiYzc4YjZiZTg%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D662b8f23d55b88eb8b2ea06fc3953dae?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgzJTkwJUUzJTgyJUE0JUUzJTgzJTk2JUUzJTgyJUIzJUUzJTgzJUJDJUUzJTgzJTg3JUUzJTgyJUEzJUUzJTgzJUIzJUUzJTgyJUIwJUUzJTgxJUE3JUU2JTlDJUFDJUU1JUJEJTkzJUUzJTgxJUFCJUUzJTgyJUEyJUUzJTgzJTk3JUUzJTgzJUFBJUUzJTgxJUFGJUUzJTgzJUFBJUUzJTgzJUFBJUUzJTgzJUJDJUUzJTgyJUI5JUUzJTgxJUE3JUUzJTgxJThEJUUzJTgyJThCJUUzJTgxJUFFJUUzJTgxJThCJUVGJUJDJTlGJUUzJTgyJUE4JUUzJTgzJUIzJUUzJTgyJUI4JUUzJTgzJThCJUUzJTgyJUEyJUUzJTgxJThDJUU1JUFFJTlGJUU5JTlBJTlCJUUzJTgxJUFCJUUzJTgyJUEyJUUzJTgzJTk3JUUzJTgzJUFBJUUzJTgyJTkyJUUzJTgzJUFBJUUzJTgzJUFBJUUzJTgzJUJDJUUzJTgyJUI5JUUzJTgxJTk3JUUzJTgxJUE2JUU2JTg0JTlGJUUzJTgxJTk4JUUzJTgxJTlGJUUzJTgxJTkzJUUzJTgxJUE4JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjNGRkZGRkYmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9YzNhZGUzNGU1NTM0OGNjMzY2N2RhMWQ5ODQxMGU0NzQ&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDB5dXRha2Ffa296dWthJnR4dC1jb2xvcj0lMjNGRkZGRkYmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9YWUwZTJkMGM3NTIwYjEwYjA2MThjNWUyODg0ZTI4MDI&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=6169a42946bc61deb8f8aa23381db164",
-    "fetched_at": "2026-07-11 13:57:38",
-    "ja_summary": "・AIを活用した「バイブコーディング」でアプリ開発とリリースは可能。\n・AIはコード作成を代行できるが、品質やセキュリティの判断は依然として人の知識が不可欠。\n・非エンジニアが商用レベルの安全なアプリを開発するには、まだ高いハードルが存在する。"
   }
 ]
