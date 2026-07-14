@@ -1,5 +1,35 @@
 [
   {
+    "title": "ガバメントAI「源内」商標およびブランドガイドラインを掲載しました",
+    "link": "https://www.digital.go.jp/policies/genai",
+    "source": "デジタル庁",
+    "published": "Fri, 10 Jul 2026 09:33:11 +0900",
+    "summary": "",
+    "image": "https://www.digital.go.jp/assets/contents/node/basic_page/field_thumbnail_image/cef0122b-0598-47f8-8a48-dc2c57d407c1/d8639adc/kv_gennai_260216.png",
+    "fetched_at": "2026-07-14 22:13:10",
+    "ja_summary": "政府向けAIサービス「源内」の商標およびブランドガイドラインを公開しました。\n利用者や開発者は、ロゴや名称を使用する際のルールを遵守する必要があります。\n詳細は公式のガイドラインページから確認が可能です。"
+  },
+  {
+    "title": "Copilot / Claude Code 両方で使えるスキル・ハーネスの紹介 - Claude Codeスキル・ハーネス社内勉強会",
+    "link": "https://speakerdeck.com/colopl/skills-and-harnesses-that-work-with-both-copilot-and-claude-code",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-07-13T03:55:50-04:00",
+    "summary": "コロプラの社内勉強会「Claude Code スキル・ハーネス勉強会」での発表資料です。",
+    "image": "https://files.speakerdeck.com/presentations/1c6d12aaee0545438ac23cd1317472b8/preview_slide_0.jpg?39974812",
+    "fetched_at": "2026-07-14 22:13:27",
+    "ja_summary": "・CopilotとClaude Codeの両方で活用可能な「スキル・ハーネス」の活用法を紹介\n・社内勉強会で共有された、開発効率を高めるための実践的なノウハウ\n・エンジニアが開発ツールを横断して生産性を向上させるための技術的知見"
+  },
+  {
+    "title": "Claude Code 再入門 会話の渡し方の4つの道具 - Claude Codeスキル・ハーネス社内勉強会",
+    "link": "https://speakerdeck.com/colopl/claude-code-revisited-4-tools-for-passing-context-to-your-conversation-fabb4432-7302-4ae8-8ebd-1185f1da64bf",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-07-13T03:54:34-04:00",
+    "summary": "コロプラの社内勉強会「Claude Code スキル・ハーネス勉強会」での発表資料です。",
+    "image": "https://files.speakerdeck.com/presentations/1a60a53ccf2d437788ce15d49effe0de/preview_slide_0.jpg?39974795",
+    "fetched_at": "2026-07-14 22:13:27",
+    "ja_summary": "・コロプラ社の勉強会で、Claude Codeを効率的に使いこなすための4つの会話手法を解説。\n・AIとの対話において、タスクの精度を向上させる具体的な指示の出し方を提示。\n・開発現場での生産性向上を目指すエンジニア向けの実践的なスキル共有。"
+  },
+  {
     "title": "ファミマ、旗艦店限定のFAMIMA商品を全国展開",
     "link": "https://www.watch.impress.co.jp/docs/news/2125105.html",
     "source": "Impress Watch",
@@ -968,35 +998,5 @@
     "image": "https://business.nikkei.com/atcl/gen/19/00297/062400291/fb.jpg",
     "fetched_at": "2026-07-13 19:51:16",
     "ja_summary": "・Appleが「Gemini」との連携により、AI「Siri」の高度化に向けた基盤を構築した。\n・「Apple Intelligence」の進化で利便性は向上するが、実用化にはなお多くの課題が残る。"
-  },
-  {
-    "title": "ソフトバンクと安川電機、GPUクラウド活用のロボット操作実証",
-    "link": "https://www.watch.impress.co.jp/docs/news/2124707.html",
-    "source": "Impress Watch",
-    "published": "",
-    "summary": "ソフトバンクと安川電機は13日、NVIDIAの協力の下、「AIデータセンター GPUクラウド」を活用した柔軟物体ハンドリングシステムの実証結果を発表した。ロボットの動作データ収集からAI(人工知能)モデルの学習・評価、実機への適用までを一元化し、ワイヤーハーネスを箱へ収納するタスクで安定した動作を確認した。",
-    "image": "https://www.watch.impress.co.jp/img/ipw/list/2124/707/1.jpg",
-    "fetched_at": "2026-07-13 19:51:25",
-    "ja_summary": "・ソフトバンクと安川電機が、NVIDIAのGPUクラウドを活用したロボット制御の実証実験に成功。\n・AIモデルの学習から実機への適用までを一元化し、難易度の高いワイヤーハーネスの収納を自動化。\n・製造現場におけるロボットの柔軟な操作と、開発工程の大幅な効率化が期待される。"
-  },
-  {
-    "title": "『世紀の空売り』マイケル・バーリ、AIトレードの中核に大きな矛盾があると指摘",
-    "link": "https://www.businessinsider.jp/article/2607-michael-burry-ai-trade-nvidia-short-hyperscalers-tech-stocks-nvda/",
-    "source": "Business Insider Japan",
-    "published": "Mon, 13 Jul 2026 08:30:00 GMT",
-    "summary": "マイケル・バーリは、AIチップに対する無限の需要とハイパースケーラーによる投資減少が両立する世界を願う投資家に、現実を見ろと警告しています。",
-    "image": "https://media.loom-app.com/loom/2026/07/10/cba8934d-3aa5-4ada-8cac-d3ae010d33bb/original.jpg?w=1200&amp;h=630",
-    "fetched_at": "2026-07-13 19:51:28",
-    "ja_summary": "・『世紀の空売り』で知られるマイケル・バーリが、AI投資熱の過熱に警鐘を鳴らした。\n・AIチップへの膨大な需要と、IT大手による投資縮小が共存するという市場の楽観論を否定。\n・AI関連銘柄の現在の相場には根本的な矛盾があり、現実を直視すべきと警告している。"
-  },
-  {
-    "title": "戸田奈津子氏 AIに映画字幕は無理",
-    "link": "https://news.yahoo.co.jp/pickup/6587686?source=rss",
-    "source": "Yahoo!ニュース IT・科学",
-    "published": "Sun, 12 Jul 2026 07:49:25 GMT",
-    "summary": "",
-    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/7/12/efe873b46fed274d89b827c7d6995ff56ede91d97fc2a6757b8dc054edfad292.jpg",
-    "fetched_at": "2026-07-13 19:51:32",
-    "ja_summary": "・字幕翻訳家の戸田奈津子氏が、映画字幕におけるAI活用には限界があると指摘。\n・AIは単なる言葉の置き換えは可能だが、映画特有の行間やニュアンスの翻訳は困難。\n・「翻訳は言葉ではなく、その背後にある文化や感情を伝えるもの」と重要性を強調。"
   }
 ]
