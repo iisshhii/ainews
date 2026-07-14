@@ -1,5 +1,75 @@
 [
   {
+    "title": "ファミマ、旗艦店限定のFAMIMA商品を全国展開",
+    "link": "https://www.watch.impress.co.jp/docs/news/2125105.html",
+    "source": "Impress Watch",
+    "published": "",
+    "summary": "ファミリーマートは14日、旗艦店「FAMIMA PARK AZABUDAI」で先行販売した「FAMIMA」関連商品を、全国のファミリーマート約16,400店で順次発売する。数量限定で、価格は350円～1,998円。一部店舗では取り扱いのない商品がある。",
+    "image": "https://www.watch.impress.co.jp/img/ipw/list/2125/105/2.jpg",
+    "fetched_at": "2026-07-14 20:51:32",
+    "ja_summary": "・ファミマの旗艦店限定商品が、全国の約16,400店舗で順次発売決定。\n・価格帯は350円〜1,998円で、数量限定での展開。\n・一部取り扱いのない店舗があるため注意が必要。"
+  },
+  {
+    "title": "NemoClaw Deep Agents Blueprint の概要",
+    "link": "https://note.com/npaka/n/ncb081e6b0c52",
+    "source": "note (npaka)",
+    "published": "Thu, 09 Jul 2026 09:05:43 +0900",
+    "summary": "<p id=\"a683919a-4efe-4852-9085-121fc233f484\" name=\"a683919a-4efe-4852-9085-121fc233f484\">以下の記事が面白かったので、簡単にまとめました。</p><figure id=\"372cd4e7-6e89-4cec-9814-c2fc4cbb2d57\" name=\"372cd4e7-6e89-4cec-9814-c2fc4cbb2d57\"><blockquote><p id=\"caa71603-0c16-4167-8ac6-863ce5d9a98e\" name=\"caa71603-0c16-4167-8ac6-863ce5d9a98e\"><strong>・</strong><a href=\"https://www.langchain.com/blog/langchain-and-nvidia-launch-the-nemoclaw-deep-agents-blueprint\" rel=\"nofollow noopener\" target=\"_blank\"><strong>LangChain and NVIDIA launch the NemoClaw Deep Agents Blueprint</strong></a></p></blockquote>\n<figcaption></figcaption></figure><br /><a href=\"https://note.com/npaka/n/ncb081e6b0c52\">続きをみる</a>",
+    "image": "https://assets.st-note.com/production/uploads/images/292756738/rectangle_large_type_2_5f150e9d9194025718f3cddb4b056c8d.png?width=800",
+    "fetched_at": "2026-07-14 20:51:43",
+    "ja_summary": "・LangChainとNVIDIAが、AIエージェント開発のための「NemoClaw Deep Agents Blueprint」を共同公開。\n・企業がRAG（検索拡張生成）などのAI機能を実装する際、最適化されたフレームワークを提供することで開発を効率化する。\n・NVIDIAの推論エンジンやLangChainの技術を統合し、実運用レベルのAIエージェント構築を支援する。"
+  },
+  {
+    "title": "How data science teams use ChatGPT Work",
+    "link": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+    "source": "OpenAI",
+    "published": "Tue, 14 Jul 2026 00:00:00 GMT",
+    "summary": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/3pOt7hjYa1nUIIMMXdoEhD/b6493d0ba6756155a3ef880758e0a0b0/Academy-SEO.png?w=1600&amp;h=900&amp;fit=fill",
+    "fetched_at": "2026-07-14 20:51:50",
+    "ja_summary": "・データサイエンスチーム向け「ChatGPT Work」の活用法を紹介。\n・分析業務の入力データから、レポートや仕様書などの文書作成を自動化。\n・分析プロセスの効率化と成果物作成のスピードアップを実現。"
+  },
+  {
+    "title": "How sales teams use ChatGPT Work",
+    "link": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+    "source": "OpenAI",
+    "published": "Tue, 14 Jul 2026 00:00:00 GMT",
+    "summary": "See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/3pOt7hjYa1nUIIMMXdoEhD/b6493d0ba6756155a3ef880758e0a0b0/Academy-SEO.png?w=1600&amp;h=900&amp;fit=fill",
+    "fetched_at": "2026-07-14 20:51:51",
+    "ja_summary": "・ChatGPT Workを活用し、商談準備やパイプライン管理、売上予測などの営業業務を効率化する方法を解説。\n・実際の業務データを基に、アカウントプラン作成や停滞案件の診断などを自動化・高度化できる。\n・営業チームの生産性を向上させ、戦略的な意思決定を支援するツールとしての活用法を紹介。"
+  },
+  {
+    "title": "UST is bringing Claude to physical AI",
+    "link": "https://www.anthropic.com/news/ust-claude",
+    "source": "Anthropic (News)",
+    "published": "Thu, 09 Jul 2026 00:00:00 +0000",
+    "summary": "UST is bringing Claude to physical AI",
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Build&amp;backgroundColor=coral",
+    "fetched_at": "2026-07-14 20:52:06",
+    "ja_summary": "ITコンサルティング企業のUSTが、AIモデル「Claude」を物理的なロボティクスや産業機器に応用する技術開発を推進。AIと物理空間の連携により、現場業務の自動化や効率化を加速させる。"
+  },
+  {
+    "title": "AIエージェントに「ノベルティ収集等」を任せたら、営業の承認フローと同じだった話",
+    "link": "https://speakerdeck.com/yama3133/aiezientoni-noberuteishou-ji-deng-woren-setara-ying-ye-nocheng-ren-hurototong-zidatutahua",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-07-14T07:27:57-04:00",
+    "summary": "",
+    "image": "https://files.speakerdeck.com/presentations/19c6a09a3e4b480c8a4faa42973035f5/preview_slide_0.jpg?39985953",
+    "fetched_at": "2026-07-14 20:52:10",
+    "ja_summary": "AIエージェントにノベルティ手配を自動化させた結果、社内の承認プロセスが営業活動と同様の複雑なワークフローであると判明した。\n本来、機械的であるべき事務作業も人間社会の「合意形成」がボトルネックとなり、完全自動化には高度な調整が必要である。\n業務効率化において、ツール導入以上に「非効率な社内ルールの整理」こそが重要であることを示唆している。"
+  },
+  {
+    "title": "AIが変えるDevSecOps―開発速度とセキュリティの両立へ / 20260714 Mitsutoshi Matsuo",
+    "link": "https://speakerdeck.com/shift_evolve/20260714-mitsutoshi-matsuo",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-07-14T06:47:50-04:00",
+    "summary": "2026/7/14　JAWS-UG Sales #7 AWS Summit Japan 2026をSales的に振り返る\nhttps://jawsug-sales.connpass.com/event/392156/\n\n株式会社SHIFT\n松尾光敏",
+    "image": "https://files.speakerdeck.com/presentations/84c57d426dd4498c9f33883340256c2b/preview_slide_0.jpg?39985577",
+    "fetched_at": "2026-07-14 20:52:10",
+    "ja_summary": "・AI活用でDevSecOpsを最適化し、開発スピードとセキュリティを高度に両立させる手法を解説。\n・AWS Summit Japan 2026の動向を「セールス視点」で振り返り、最新の市場トレンドを分析。\n・SHIFTの松尾光敏氏が、ビジネス現場におけるDevSecOpsの実装と価値提供のポイントを提示。"
+  },
+  {
     "title": "金利上昇のいま住宅ローン選ぶなら固定or変動？／日銀の利上げ“連発”で変動金利が負ける！？／変動金利派は長期分散の積立投資を活用せよ！／森本アナがAIも駆使して専門家とガチ討論！ | ビジネス | 東洋経済オンライン",
     "link": "https://toyokeizai.net/articles/-/951528?utm_source=rss&utm_medium=http&utm_campaign=link_back",
     "source": "東洋経済オンライン",
@@ -928,75 +998,5 @@
     "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/7/12/efe873b46fed274d89b827c7d6995ff56ede91d97fc2a6757b8dc054edfad292.jpg",
     "fetched_at": "2026-07-13 19:51:32",
     "ja_summary": "・字幕翻訳家の戸田奈津子氏が、映画字幕におけるAI活用には限界があると指摘。\n・AIは単なる言葉の置き換えは可能だが、映画特有の行間やニュアンスの翻訳は困難。\n・「翻訳は言葉ではなく、その背後にある文化や感情を伝えるもの」と重要性を強調。"
-  },
-  {
-    "title": "Apple 営業秘密流用でOpenAI提訴",
-    "link": "https://news.yahoo.co.jp/pickup/6587501?source=rss",
-    "source": "Yahoo!ニュース IT・科学",
-    "published": "Fri, 10 Jul 2026 23:26:40 GMT",
-    "summary": "",
-    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/7/11/56058923687898c01712e6408e822680197c311c9ec22cf25b8a5eeda71faee0.jpg",
-    "fetched_at": "2026-07-13 19:51:34",
-    "ja_summary": "・AppleがOpenAIを相手取り、営業秘密の不正流用で提訴した。\n・AI開発に関わる機密情報が流出した疑いがあり、Appleは法的措置を講じた。\n・両社の技術競争が激化する中、知的財産権を巡る対立が深刻化している。"
-  },
-  {
-    "title": "安川電機とソフトバンク、フィジカルAIで柔軟物体ハンドリングシステムを検証",
-    "link": "https://japan.zdnet.com/article/35250504/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "安川電機とソフトバンクは、ソフトバンクの「AIデータセンター GPUクラウド」を用いて、柔軟な物体を取り扱うロボット操作技術を検証した。フィジカルAIに活用する。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35250504/\"><img src=\"https://japan.zdnet.com/storage/2026/07/13/33585bf9dc1918141c11bcb4b3e615df/t/184/138/d/yasukawa-sb_l.jpg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2026/07/13/33585bf9dc1918141c11bcb4b3e615df/t/184/138/d/yasukawa-sb_l.jpg",
-    "fetched_at": "2026-07-13 19:51:35",
-    "ja_summary": "安川電機とソフトバンクが、柔軟な物体を扱うロボット技術を共同検証した。\nソフトバンクのGPUクラウド環境を活用し、物理環境で動くAIの開発を加速させる。\n製造や物流現場で、これまで困難だった不定形物の自動化実現を目指す。"
-  },
-  {
-    "title": "ガバメントAI「源内」商標およびブランドガイドラインを掲載しました",
-    "link": "https://www.digital.go.jp/policies/genai",
-    "source": "デジタル庁",
-    "published": "Fri, 10 Jul 2026 09:33:11 +0900",
-    "summary": "",
-    "image": "https://www.digital.go.jp/assets/contents/node/basic_page/field_thumbnail_image/cef0122b-0598-47f8-8a48-dc2c57d407c1/d8639adc/kv_gennai_260216.png",
-    "fetched_at": "2026-07-13 19:51:37",
-    "ja_summary": "政府専用AI「源内」の商標およびブランドガイドラインが公開されました。\n今後はこの指針に基づき、適正なブランド利用とロゴ等の活用が可能となります。\n関係者は公式サイトからガイドラインの詳細を確認してください。"
-  },
-  {
-    "title": "「行政の進化と革新のための生成AIの調達·利活用に係るガイドライン（第2.0版）」を策定しました",
-    "link": "https://www.digital.go.jp/news/decb64eb-f26e-41cb-8d37-f3dd173108b8",
-    "source": "デジタル庁",
-    "published": "Tue, 07 Jul 2026 15:00:00 +0900",
-    "summary": "",
-    "image": "https://www.digital.go.jp/themes/custom/gov_theme_da_2023/assets/images/ogp.png",
-    "fetched_at": "2026-07-13 19:51:37",
-    "ja_summary": "デジタル庁は、行政における生成AIの安全かつ効果的な活用に向けた新指針「第2.0版」を策定した。\nAI調達時のセキュリティ対策やリスク管理の基準を明確化し、業務効率化を推進する。\n行政機関がAIを導入・運用する際の具体的なルールと手順を体系的に整理している。"
-  },
-  {
-    "title": "Copilot / Claude Code 両方で使えるスキル・ハーネスの紹介 - Claude Codeスキル・ハーネス社内勉強会",
-    "link": "https://speakerdeck.com/colopl/skills-and-harnesses-that-work-with-both-copilot-and-claude-code",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-07-13T03:55:50-04:00",
-    "summary": "コロプラの社内勉強会「Claude Code スキル・ハーネス勉強会」での発表資料です。",
-    "image": "https://files.speakerdeck.com/presentations/1c6d12aaee0545438ac23cd1317472b8/preview_slide_0.jpg?39974812",
-    "fetched_at": "2026-07-13 19:51:59",
-    "ja_summary": "・「Copilot」と「Claude Code」の両方で活用可能な「スキル・ハーネス」の活用術を解説。\n・コロプラの社内勉強会で共有された、開発効率を高めるための実践的な手法を紹介。\n・異なるAIツール間でスキルを共通化し、開発ワークフローを最適化するノウハウを提示。"
-  },
-  {
-    "title": "Claude Code 再入門 会話の渡し方の4つの道具 - Claude Codeスキル・ハーネス社内勉強会",
-    "link": "https://speakerdeck.com/colopl/claude-code-revisited-4-tools-for-passing-context-to-your-conversation-fabb4432-7302-4ae8-8ebd-1185f1da64bf",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-07-13T03:54:34-04:00",
-    "summary": "コロプラの社内勉強会「Claude Code スキル・ハーネス勉強会」での発表資料です。",
-    "image": "https://files.speakerdeck.com/presentations/1a60a53ccf2d437788ce15d49effe0de/preview_slide_0.jpg?39974795",
-    "fetched_at": "2026-07-13 19:51:59",
-    "ja_summary": "・コロプラ社内の勉強会にて、AI開発ツール「Claude Code」の効果的な活用法を解説。\n・AIとの対話精度を高めるための「4つの道具（プロンプト手法）」を紹介。\n・開発現場ですぐに実践できる、AIへの指示出しスキルとノウハウを共有。"
-  },
-  {
-    "title": "ruby.wasmとPicoRuby.wasmに対応した仮想DOMライブラリを作ってる話 #kaigieffect_kaigi",
-    "link": "https://speakerdeck.com/sue445/kaigieffect-kaigi-2026",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-07-10T05:50:10-04:00",
-    "summary": "<a href=\"https://andpad.connpass.com/event/395551/\">KaigiEffect Kaigi 2026</a> の発表資料です",
-    "image": "https://files.speakerdeck.com/presentations/24dc257e0a4e487c871a843b44953612/preview_slide_0.jpg?39976059",
-    "fetched_at": "2026-07-13 19:51:59",
-    "ja_summary": "RubyをWebブラウザで動かす技術（ruby.wasm/PicoRuby.wasm）を活用し、ブラウザ上で動作する仮想DOMライブラリを開発中。\nJSを使わずRubyのみでフロントエンド開発を実現することを目指した技術的な取り組み。\nKaigiEffect Kaigi 2026にて、その設計思想と実装手法が発表された。"
   }
 ]
