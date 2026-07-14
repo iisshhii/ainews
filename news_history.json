@@ -1,5 +1,25 @@
 [
   {
+    "title": "Gemini活用で「Siri AI」がついに実現　だがアップルが越えるべき壁は多い (日経クロステック)",
+    "link": "https://business.nikkei.com/atcl/gen/19/00297/062400291/",
+    "source": "日経ビジネス 最新",
+    "published": "",
+    "summary": "米Appleは米Googleの「Gemini」を活用し、AIプラットフォーム「Apple Intelligence」を強化しました。それにより、AIエージェント「Siri AI」の実現に向けた道筋をつけました。ですが、その利用を拡大するには課題が山積しています。",
+    "image": "https://business.nikkei.com/atcl/gen/19/00297/062400291/fb.jpg",
+    "fetched_at": "2026-07-15 01:37:09",
+    "ja_summary": "・AppleがGoogleの「Gemini」を採用し、AI「Siri」の高度化に向けて大きく前進。\n・「Apple Intelligence」の強化でAIエージェント化を目指す方針を明確化。\n・本格的な普及には、技術や運用面など解決すべき課題が依然として山積している。"
+  },
+  {
+    "title": "Introducing Claude for Teachers",
+    "link": "https://www.anthropic.com/news/claude-for-teachers",
+    "source": "Anthropic (News)",
+    "published": "Tue, 14 Jul 2026 00:00:00 +0000",
+    "summary": "Introducing Claude for Teachers",
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+    "fetched_at": "2026-07-15 01:37:43",
+    "ja_summary": "・Anthropic社が教育者向けのClaude活用ガイドを公開。\n・授業計画の作成や教材開発、事務作業の効率化手法を提案。\n・AIを活用した業務負荷の軽減と教育の質向上を支援する。"
+  },
+  {
     "title": "Anthropic commits $10 million to Canadian AI research",
     "link": "https://www.anthropic.com/news/canadian-ai-research",
     "source": "Anthropic (News)",
@@ -978,25 +998,5 @@
     "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object-LaptopSecure&amp;backgroundColor=sky",
     "fetched_at": "2026-07-13 22:13:18",
     "ja_summary": "・カナダのアルバータ州政府が、行政システムの脆弱性診断と修正にAI「Claude」を導入。\n・AIを活用してサイバーセキュリティ対策を効率化し、政府システムの安全性を強化。\n・行政機関におけるAI活用によるセキュリティ運用の高度化事例として注目される。"
-  },
-  {
-    "title": "情報漏洩に敏感な金融機関で、Claude・Gemini・ChatGPTを導入した話",
-    "link": "https://zenn.dev/seiuchi3939/articles/b12d6746d9f187",
-    "source": "Zenn Trends",
-    "published": "Sun, 12 Jul 2026 01:36:49 GMT",
-    "summary": "はじめに\n私は国内の金融機関で、社内の情報システム・セキュリティに関わる業務をしています。この記事では、情報漏洩リスクに人一倍敏感な金融機関という環境で、Claude・Gemini・ChatGPTという複数の生成AIサービスを全社導入するに至った経緯と、その際にどうリスクを整理したかをまとめます。\n「生成AIを導入したいけど、リスク部門の理解が得られない」「情報漏洩が怖くて一歩を踏み出せない」——同じような壁にぶつかっている企業の担当者の方に、何かひとつでも参考になれば嬉しいです。\n\n 1. 導入前の状況:前向きな現場と、慎重にならざるを得ないリスク部門\n金融機関である以上、情報漏洩...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--SebjjJMy--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E6%2583%2585%25E5%25A0%25B1%25E6%25BC%258F%25E6%25B4%25A9%25E3%2581%25AB%25E6%2595%258F%25E6%2584%259F%25E3%2581%25AA%25E9%2587%2591%25E8%259E%258D%25E6%25A9%259F%25E9%2596%25A2%25E3%2581%25A7%25E3%2580%2581Claude%25E3%2583%25BBGemini%25E3%2583%25BBChatGPT%25E3%2582%2592%25E5%25B0%258E%25E5%2585%25A5%25E3%2581%2597%25E3%2581%259F%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%25A6%25E3%2581%258F%25E3%2581%25A6%25E3%2581%258F%25E3%2582%25A8%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%258B%25E3%2582%25A2%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2ZmNzRhZDllZmEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "fetched_at": "2026-07-13 22:13:23",
-    "ja_summary": "・情報漏洩リスクに極めて厳しい金融機関において、生成AI（Claude・Gemini・ChatGPT）を全社導入した事例を紹介。\n・現場の活用意欲とリスク部門の慎重姿勢という対立を解消するため、リスクを適切に整理・対策した経緯を解説。\n・セキュリティ課題で生成AI導入に足踏みしている企業の担当者へ向け、具体的な導入プロセスや検討のヒントを提示。"
-  },
-  {
-    "title": "バイブコーディングで本当にアプリはリリースできるのか？エンジニアが実際にアプリをリリースして感じたこと",
-    "link": "https://qiita.com/yutaka_kozuka/items/cc3be5930b972130885d",
-    "source": "Qiita (Popular)",
-    "published": "2026-07-05T11:59:41+09:00",
-    "summary": "## TL;DR\n\nQ: バイブコーディングで本当にアプリをリリースできるのか？  \nA: できました。ただし「商用・セキュア」という条件では、非エンジニアにはまだ厳しいと感じました。\n\n- AI英語学習アプリをゼロから個人開発し、Web・iOS App Store の両方でリリースできました\n- AIは「コードを書くこと」を代替できますが、「何を確認すべきか」の判断は代替できません\n- 一番大変",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Ftech-festa-ogp-background-4b5015b2c518c7e6b9062a7c9f5f5e90.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0MDQ3Mzg5JTJGYjlkMDJiOWVlMWFmYWI4ODNlM2I0ZjQ2ZTg3ZDA3ZjFkNjA5YzlkNSUyRnhfbGFyZ2UucG5nJTNGMTc0MzUxMjU5ND9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9OWRlOWYzMjMyZWQ3ZWExZWY5ZmI2MzRiYzc4YjZiZTg%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D662b8f23d55b88eb8b2ea06fc3953dae?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgzJTkwJUUzJTgyJUE0JUUzJTgzJTk2JUUzJTgyJUIzJUUzJTgzJUJDJUUzJTgzJTg3JUUzJTgyJUEzJUUzJTgzJUIzJUUzJTgyJUIwJUUzJTgxJUE3JUU2JTlDJUFDJUU1JUJEJTkzJUUzJTgxJUFCJUUzJTgyJUEyJUUzJTgzJTk3JUUzJTgzJUFBJUUzJTgxJUFGJUUzJTgzJUFBJUUzJTgzJUFBJUUzJTgzJUJDJUUzJTgyJUI5JUUzJTgxJUE3JUUzJTgxJThEJUUzJTgyJThCJUUzJTgxJUFFJUUzJTgxJThCJUVGJUJDJTlGJUUzJTgyJUE4JUUzJTgzJUIzJUUzJTgyJUI4JUUzJTgzJThCJUUzJTgyJUEyJUUzJTgxJThDJUU1JUFFJTlGJUU5JTlBJTlCJUUzJTgxJUFCJUUzJTgyJUEyJUUzJTgzJTk3JUUzJTgzJUFBJUUzJTgyJTkyJUUzJTgzJUFBJUUzJTgzJUFBJUUzJTgzJUJDJUUzJTgyJUI5JUUzJTgxJTk3JUUzJTgxJUE2JUU2JTg0JTlGJUUzJTgxJTk4JUUzJTgxJTlGJUUzJTgxJTkzJUUzJTgxJUE4JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjNGRkZGRkYmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9YzNhZGUzNGU1NTM0OGNjMzY2N2RhMWQ5ODQxMGU0NzQ&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDB5dXRha2Ffa296dWthJnR4dC1jb2xvcj0lMjNGRkZGRkYmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9YWUwZTJkMGM3NTIwYjEwYjA2MThjNWUyODg0ZTI4MDI&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=6169a42946bc61deb8f8aa23381db164",
-    "fetched_at": "2026-07-13 22:13:26",
-    "ja_summary": "・AIを用いた「バイブコーディング」でアプリの個人開発・リリースは十分に可能である。\n・ただし、技術的な判断や品質確認にはエンジニアの知見が不可欠で、非エンジニアが商用レベルを扱うにはまだハードルが高い。\n・AIはコーディングを代替するが、開発の舵取りや問題解決の責任は依然として人間にある。"
   }
 ]
