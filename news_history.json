@@ -1,5 +1,25 @@
 [
   {
+    "title": "ローカル LLM を構築した",
+    "link": "https://zenn.dev/neet/articles/11bafab8645995",
+    "source": "Zenn Trends",
+    "published": "Tue, 14 Jul 2026 08:13:16 GMT",
+    "summary": "!\nAI 利用の開示：この記事を書くにあたっての調査やブレインストーミング、校正には AI を用いましたが、本文の執筆やコードの実装、および出典の確認はすべて人間が行いました。\n\n\n AI は好きだが AI 企業は嫌いだ\nこんにちは。みなさんは AI を使いこなしていますか？　私は正直、あまり乗れていません。もちろん AI は非常に便利な道具だと思うし、使わない日はありません。しかし、その非決定論的な性質を考えると、いささか過大評価されているように感じます。\nAI 企業の倫理的な問題も気になります。 Anthropic の CEO であるダリオ・アモディ氏はわざと恐怖心を煽るような宣伝を...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--_ldBwQuz--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%25AD%25E3%2583%25BC%25E3%2582%25AB%25E3%2583%25AB%2520LLM%2520%25E3%2582%2592%25E6%25A7%258B%25E7%25AF%2589%25E3%2581%2597%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Ry%25C5%258D%2520Igarashi%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzViNmY4MzRlMDUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-07-15 22:24:56",
+    "ja_summary": "AIの有用性は認めるものの、大手AI企業の倫理観や過度な宣伝に不信感を抱いた著者が、自らローカル環境でLLMを構築した。\n既存のAIサービスに依存せず、自身の管理下で技術を活用するための試みである。"
+  },
+  {
+    "title": "Claude Codeでレガシーシステムの刷新を進めた方法",
+    "link": "https://zenn.dev/knowledgesense/articles/67c61463d9c664",
+    "source": "Zenn Trends",
+    "published": "Tue, 14 Jul 2026 01:04:12 GMT",
+    "summary": "導入\nこんにちは、株式会社ナレッジセンスの須藤英寿です。\n今回は、「Claude Code」を用いて、カナダの州政府が運用する大規模なシステムの刷新を進めた手法を紹介します。\nhttps://www.anthropic.com/news/alberta-government-claude-cybersecurity\nhttps://thevelocitywhitepapers.com/\n\n サマリー\nシステムを運用する上で常に課題になるのが、古くなったシステムの運用です。長年にわたって改修が積み重なり、全体像が把握しにくいまま稼働を続けるシステムはたくさんあります。カナダ・アルバータ...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--gsSTFS3R--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%25E3%2581%25A7%25E3%2583%25AC%25E3%2582%25AC%25E3%2582%25B7%25E3%2583%25BC%25E3%2582%25B7%25E3%2582%25B9%25E3%2583%2586%25E3%2583%25A0%25E3%2581%25AE%25E5%2588%25B7%25E6%2596%25B0%25E3%2582%2592%25E9%2580%25B2%25E3%2582%2581%25E3%2581%259F%25E6%2596%25B9%25E6%25B3%2595%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:sasakuna%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly96ZW5uLmRldi9pbWFnZXMvZGVmYXVsdC1wdWJsaWNhdGlvbi1hdmF0YXIucG5n%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2583%258A%25E3%2583%25AC%25E3%2583%2583%25E3%2582%25B8%25E3%2582%25BB%25E3%2583%25B3%25E3%2582%25B9%2520-%2520%25E7%2594%259F%25E6%2588%2590AI%25E3%2581%25A8RAG%25E3%2581%25AE%25E5%25AE%259F%25E8%25A3%2585...%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2ZkMzU2MDA4YWUuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-07-15 22:24:57",
+    "ja_summary": "カナダ・アルバータ州政府が、複雑化したレガシーシステムの刷新に「Claude Code」を活用。\nAIによるコード解析や修正支援を通じて、全体像の把握が困難なシステムの改修効率を大幅に向上させた。\n長年蓄積された古いシステムの保守・モダン化において、AIが極めて有効な解決策となることを実証した。"
+  },
+  {
     "title": "LingBot の6つのロボットAIモデルまとめ",
     "link": "https://note.com/npaka/n/n75896ac486a7",
     "source": "note (npaka)",
@@ -978,25 +998,5 @@
     "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Build&amp;backgroundColor=coral",
     "fetched_at": "2026-07-14 20:52:06",
     "ja_summary": "ITコンサルティング企業のUSTが、AIモデル「Claude」を物理的なロボティクスや産業機器に応用する技術開発を推進。AIと物理空間の連携により、現場業務の自動化や効率化を加速させる。"
-  },
-  {
-    "title": "AIエージェントに「ノベルティ収集等」を任せたら、営業の承認フローと同じだった話",
-    "link": "https://speakerdeck.com/yama3133/aiezientoni-noberuteishou-ji-deng-woren-setara-ying-ye-nocheng-ren-hurototong-zidatutahua",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-07-14T07:27:57-04:00",
-    "summary": "",
-    "image": "https://files.speakerdeck.com/presentations/19c6a09a3e4b480c8a4faa42973035f5/preview_slide_0.jpg?39985953",
-    "fetched_at": "2026-07-14 20:52:10",
-    "ja_summary": "AIエージェントにノベルティ手配を自動化させた結果、社内の承認プロセスが営業活動と同様の複雑なワークフローであると判明した。\n本来、機械的であるべき事務作業も人間社会の「合意形成」がボトルネックとなり、完全自動化には高度な調整が必要である。\n業務効率化において、ツール導入以上に「非効率な社内ルールの整理」こそが重要であることを示唆している。"
-  },
-  {
-    "title": "AIが変えるDevSecOps―開発速度とセキュリティの両立へ / 20260714 Mitsutoshi Matsuo",
-    "link": "https://speakerdeck.com/shift_evolve/20260714-mitsutoshi-matsuo",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-07-14T06:47:50-04:00",
-    "summary": "2026/7/14　JAWS-UG Sales #7 AWS Summit Japan 2026をSales的に振り返る\nhttps://jawsug-sales.connpass.com/event/392156/\n\n株式会社SHIFT\n松尾光敏",
-    "image": "https://files.speakerdeck.com/presentations/84c57d426dd4498c9f33883340256c2b/preview_slide_0.jpg?39985577",
-    "fetched_at": "2026-07-14 20:52:10",
-    "ja_summary": "・AI活用でDevSecOpsを最適化し、開発スピードとセキュリティを高度に両立させる手法を解説。\n・AWS Summit Japan 2026の動向を「セールス視点」で振り返り、最新の市場トレンドを分析。\n・SHIFTの松尾光敏氏が、ビジネス現場におけるDevSecOpsの実装と価値提供のポイントを提示。"
   }
 ]
