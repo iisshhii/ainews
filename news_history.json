@@ -1,5 +1,65 @@
 [
   {
+    "title": "LingBot の6つのロボットAIモデルまとめ",
+    "link": "https://note.com/npaka/n/n75896ac486a7",
+    "source": "note (npaka)",
+    "published": "Sat, 11 Jul 2026 23:34:27 +0900",
+    "summary": "<p id=\"6ed4fb7a-5a90-4eb9-aed8-44ffc77ccf8d\" name=\"6ed4fb7a-5a90-4eb9-aed8-44ffc77ccf8d\">「LingBot」の6つのロボットAIモデルについてまとめました。</p><br /><br /><a href=\"https://note.com/npaka/n/n75896ac486a7\">続きをみる</a>",
+    "image": "https://assets.st-note.com/production/uploads/images/293527894/rectangle_large_type_2_8331dd3883c774de3efffee4fcd488ea.png?width=800",
+    "fetched_at": "2026-07-15 20:56:43",
+    "ja_summary": "・LingBotが開発した6つのロボット制御用AIモデルを整理。\n・ロボットの動作や対話に必要な各AIモデルの特性を解説。\n・詳細は元記事にて確認可能。"
+  },
+  {
+    "title": "GPT-5.6 Sol ・ Terra ・ Luna のリリース",
+    "link": "https://note.com/npaka/n/n5cc5fc5ad25f",
+    "source": "note (npaka)",
+    "published": "Fri, 10 Jul 2026 02:25:40 +0900",
+    "summary": "<p id=\"792be65f-8b15-4dac-b87d-bca0a0dcf43f\" name=\"792be65f-8b15-4dac-b87d-bca0a0dcf43f\">以下の記事が面白かったので、簡単にまとめました。</p><figure id=\"7f52065a-4a71-4071-b7b9-2515b606277b\" name=\"7f52065a-4a71-4071-b7b9-2515b606277b\"><blockquote><p id=\"507798e5-7ed0-4e30-98a0-cb82e6b01979\" name=\"507798e5-7ed0-4e30-98a0-cb82e6b01979\"><strong>・</strong><a href=\"https://openai.com/index/gpt-5-6/\" rel=\"nofollow noopener\" target=\"_blank\"><strong>GPT-5.6: Frontier intelligence that scales with your ambition</strong></a> </p></blockquote>\n<figcaption></figcaption></figure><br /><a href=\"https://note.com/npaka/n/n5cc5fc5ad25f\">続きをみる</a>",
+    "image": "https://assets.st-note.com/production/uploads/images/292986741/rectangle_large_type_2_232e0ad8396e6105e236930924cc2861.jpeg?width=800",
+    "fetched_at": "2026-07-15 20:56:43",
+    "ja_summary": "・OpenAIが新モデル「GPT-5.6」シリーズ（Sol、Terra、Luna）をリリース。\n・各モデルはユーザーの目的や規模に合わせて最適化されたスケーラブルな性能を実現。\n・詳細は公開元の公式サイトおよび解説記事にて確認可能。"
+  },
+  {
+    "title": "[2026-07-15] AI Ready なはずだったアーキテクチャと、見えてきた課題・次に目指す状態",
+    "link": "https://speakerdeck.com/wxyzzz/2026-07-15-ai-ready-nahasutatutaakitekutiyato-jian-etekitake-ti-ci-nimu-zhi-suzhuang-tai",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-07-15T07:05:25-04:00",
+    "summary": "「AI Ready組織を見据えた データ基盤戦略とは」( https://findy.connpass.com/event/398555/ ) 登壇時資料です。",
+    "image": "https://files.speakerdeck.com/presentations/2ed88c87f80a4480b06fbb9f10bb760d/preview_slide_0.jpg?39996581",
+    "fetched_at": "2026-07-15 20:56:59",
+    "ja_summary": "・AI活用を見据えたデータ基盤構築を目指したものの、運用や拡張性において新たな課題が浮き彫りになった。\n・AI Readyな組織を実現するために必要な、データ基盤の現状と克服すべき壁を整理。\n・課題解決に向けた次なる戦略と、目指すべき理想的なアーキテクチャの方向性を提示。"
+  },
+  {
+    "title": "AIレビューはどこまで任せられるのか？自動化と人が背負うレビューの境界",
+    "link": "https://speakerdeck.com/sansantech/260715",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-07-15T06:31:14-04:00",
+    "summary": "■ イベント\nレビュー、どこまでAIに任せられる？ — AIコードレビューツールの選択肢と実践\nhttps://techplay.jp/event/997847\n\n■登壇概要\nタイトル：AIレビューはどこまで任せられるのか？自動化と人が背負うレビューの境界\n登壇者：技術本部 Bill One Engineering Unit 小木 大嗣\n\n■ 技術本部 採用情報\nhttps://media.sansan-engineering.com",
+    "image": "https://files.speakerdeck.com/presentations/b0e2ad9a73cf4e098307577cbb028dcb/preview_slide_0.jpg?39996220",
+    "fetched_at": "2026-07-15 20:56:59",
+    "ja_summary": "・AIによるコードレビューの活用範囲と自動化の限界を解説\n・AIと人間が担当すべきレビュー領域の境界線を明確化\n・効率的な開発体制を築くための実践的な知見を共有"
+  },
+  {
+    "title": "DatabricksにおけるMCPソリューション",
+    "link": "https://speakerdeck.com/taka_aki/databricksniokerumcpsoriyusiyon",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-07-15T04:34:27-04:00",
+    "summary": "MCP Developer LabでのLTで使用した資料です。\n\nMCP Developer Lab | MCPで切り開くAgentic AIワークフロー https://devlab.geodesiccap.com/",
+    "image": "https://files.speakerdeck.com/presentations/576e9b110744480591db174ed8e10d35/preview_slide_0.jpg?39994912",
+    "fetched_at": "2026-07-15 20:56:59",
+    "ja_summary": "・Databricks環境におけるMCP（Model Context Protocol）を活用したAIエージェント構築手法の解説資料。\n・外部データやツールとLLMを安全かつ効率的に接続し、業務を自動化するワークフローを提示。\n・Agentic AIの導入を検討しているエンジニアや技術リーダー向けの実践的ガイド。"
+  },
+  {
+    "title": "Claude Code の無料セキュリティ監査プラグインで脆弱性を自動検出・修正してみる",
+    "link": "https://qiita.com/nogataka/items/4d2a551f89f6b4f94b01",
+    "source": "Qiita (Popular)",
+    "published": "2026-07-06T20:00:39+09:00",
+    "summary": "\n## この記事のポイント\n\n- Anthropic が 2026 年 5 月下旬に Claude Code 向けの公式プラグイン `security-guidance` を公開しました（各メディアで紹介されたのは 5 月 27 日です）。全プランで利用でき、2026 年 6 月時点でベータ表記はありません。ただしモデルによるレビューは通常の Claude 利用枠を消費します\n- 「ファイル編集時",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYxNjEyOTglMkZjMWUzZmZkNmVhZGExOTY5ZmYzYzQ0YjE0ZmRlMDgxYmNkZTZmNTAwJTJGeF9sYXJnZS5wbmclM0YxNTg0ODQ1NTg0P2l4bGliPXJiLTQuMS4xJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz1kMDQ2ZmE2Mzg1YzIyMmQ4ZjJkNWI0YjRkYTc3Mjc0NQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Dfde89a6aafc1c82cb07bd196a821c036?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9Q2xhdWRlJTIwQ29kZSUyMCVFMyU4MSVBRSVFNyU4NCVBMSVFNiU5NiU5OSVFMyU4MiVCQiVFMyU4MiVBRCVFMyU4MyVBNSVFMyU4MyVBQSVFMyU4MyU4NiVFMyU4MiVBMyVFNyU5QiVBMyVFNiU5RiVCQiVFMyU4MyU5NyVFMyU4MyVBOSVFMyU4MiVCMCVFMyU4MiVBNCVFMyU4MyVCMyVFMyU4MSVBNyVFOCU4NCU4NiVFNSVCQyVCMSVFNiU4MCVBNyVFMyU4MiU5MiVFOCU4NyVBQSVFNSU4QiU5NSVFNiVBNCU5QyVFNSU4NyVCQSVFMyU4MyVCQiVFNCVCRiVBRSVFNiVBRCVBMyVFMyU4MSU5NyVFMyU4MSVBNiVFMyU4MSVCRiVFMyU4MiU4QiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTNhMjA2ZTk5YTJhZmUwOTZiNmVhNDU0N2NiMzI4Zjg3&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBub2dhdGFrYSZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWNiYWE0ODdlNWU4NDg4ZjQ0NjQ0MjVlZTRhNDY2ZWUz&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=48cd9c6c5931f55a8038cdd638b17862",
+    "fetched_at": "2026-07-15 20:57:03",
+    "ja_summary": "・AnthropicがClaude Code向け公式プラグイン「security-guidance」を公開。\n・全プランで利用可能で、コード編集時に脆弱性の自動検出と修正を実行できる。\n・利用にはモデルのトークン枠を消費するが、手動レビューの手間を大幅に削減可能。"
+  },
+  {
     "title": "【今さら聞けない骨太の方針】“高市カラー”で初の大方針／金利上昇で市場が警戒？／責任ある積極財政の中身／半導体・AIなど17分野の投資効果／悪い円安、インフレへの備え | ビジネス | 東洋経済オンライン",
     "link": "https://toyokeizai.net/articles/-/951678?utm_source=rss&utm_medium=http&utm_campaign=link_back",
     "source": "東洋経済オンライン",
@@ -938,65 +998,5 @@
     "image": "https://files.speakerdeck.com/presentations/84c57d426dd4498c9f33883340256c2b/preview_slide_0.jpg?39985577",
     "fetched_at": "2026-07-14 20:52:10",
     "ja_summary": "・AI活用でDevSecOpsを最適化し、開発スピードとセキュリティを高度に両立させる手法を解説。\n・AWS Summit Japan 2026の動向を「セールス視点」で振り返り、最新の市場トレンドを分析。\n・SHIFTの松尾光敏氏が、ビジネス現場におけるDevSecOpsの実装と価値提供のポイントを提示。"
-  },
-  {
-    "title": "金利上昇のいま住宅ローン選ぶなら固定or変動？／日銀の利上げ“連発”で変動金利が負ける！？／変動金利派は長期分散の積立投資を活用せよ！／森本アナがAIも駆使して専門家とガチ討論！ | ビジネス | 東洋経済オンライン",
-    "link": "https://toyokeizai.net/articles/-/951528?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-    "source": "東洋経済オンライン",
-    "published": "Tue, 14 Jul 2026 19:00:00 +0900",
-    "summary": "6月に日銀が利上げを決定し政策金利は1.0%に。これに伴って10月には住宅ローンの変動金利も上昇する見通しだ。金利上昇の今、住宅ローンで固定金利と変動金利のどちらを選べばよいのかディベート！<br />対戦者…",
-    "image": "https://tk.ismcdn.jp/mwimgs/7/d/1200w/img_7df65bd4e55518c696d8149fd8d5fc17220254.jpg?nextgen=false",
-    "fetched_at": "2026-07-14 19:23:10",
-    "ja_summary": "日銀の利上げに伴い住宅ローンの変動金利上昇が現実味を帯びている。\n固定か変動かの選択は個人のリスク許容度が鍵となる。\n変動金利を選ぶ場合は、金利上昇に備えて積立投資による資産運用でリスクヘッジすべきだ。"
-  },
-  {
-    "title": "AI時代に「消えない仕事」と「危ない仕事」…テック業界が苦戦する一方、いま最も「安定している」職種とは？",
-    "link": "https://www.businessinsider.jp/article/2607-career-security-healthcare-skilled-trades-job-risk/",
-    "source": "Business Insider Japan",
-    "published": "Tue, 14 Jul 2026 10:00:00 GMT",
-    "summary": "医療や専門技能職は、リスクの高いテクノロジー職に比べて、雇用が安定しています。",
-    "image": "https://media.loom-app.com/loom/2026/06/29/350bea1e-4d54-45d8-b680-6922168428e4/original.jpg?w=1200&amp;h=630",
-    "fetched_at": "2026-07-14 19:23:28",
-    "ja_summary": "・AIの影響を受けにくいのは、医療や専門技能を要する職種。\n・IT・テック系はAI導入による雇用の変動リスクが高い。\n・高い専門性が求められる対人・熟練業務ほど、時代を問わず安定している。"
-  },
-  {
-    "title": "日本なぜAIで遅れ 巻き返しの鍵は",
-    "link": "https://news.yahoo.co.jp/pickup/6587754?source=rss",
-    "source": "Yahoo!ニュース IT・科学",
-    "published": "Mon, 13 Jul 2026 02:15:36 GMT",
-    "summary": "",
-    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/7/13/2de063067de4be927c292738de6a42c6325d75918a3637b2076794b6bbb98265.jpg",
-    "fetched_at": "2026-07-14 19:23:34",
-    "ja_summary": "・日本はAI開発の基盤となる計算資源や人材の不足で世界から遅れをとっている。\n・巻き返しには、企業による積極的な投資と、国主導のインフラ整備が不可欠。\n・技術革新のスピードに対応した柔軟な規制緩和と産学官連携の強化が鍵となる。"
-  },
-  {
-    "title": "ローカル LLM を構築した",
-    "link": "https://zenn.dev/neet/articles/11bafab8645995",
-    "source": "Zenn Trends",
-    "published": "Tue, 14 Jul 2026 08:13:16 GMT",
-    "summary": "!\nAI 利用の開示：この記事を書くにあたっての調査やブレインストーミング、校正には AI を用いましたが、本文の執筆やコードの実装、および出典の確認はすべて人間が行いました。\n\n\n AI は好きだが AI 企業は嫌いだ\nこんにちは。みなさんは AI を使いこなしていますか？　私は正直、あまり乗れていません。もちろん AI は非常に便利な道具だと思うし、使わない日はありません。しかし、その非決定論的な性質を考えると、いささか過大評価されているように感じます。\nAI 企業の倫理的な問題も気になります。 Anthropic の CEO であるダリオ・アモディ氏はスケアモンガリング（恐怖をあお...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--_ldBwQuz--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%25AD%25E3%2583%25BC%25E3%2582%25AB%25E3%2583%25AB%2520LLM%2520%25E3%2582%2592%25E6%25A7%258B%25E7%25AF%2589%25E3%2581%2597%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Ry%25C5%258D%2520Igarashi%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzViNmY4MzRlMDUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "fetched_at": "2026-07-14 19:23:52",
-    "ja_summary": "・AIの利便性は認めつつも、その過大評価や運営企業の倫理面に疑問を抱く筆者が、自身のコントロール下にある「ローカルLLM」の構築を試みた。\n・外部AIサービスに依存しない環境を追求し、AI技術との新しい関わり方を模索する過程を綴った記事。"
-  },
-  {
-    "title": "Claude Codeでレガシーシステムの刷新を進めた方法",
-    "link": "https://zenn.dev/knowledgesense/articles/67c61463d9c664",
-    "source": "Zenn Trends",
-    "published": "Tue, 14 Jul 2026 01:04:12 GMT",
-    "summary": "導入\nこんにちは、株式会社ナレッジセンスの須藤英寿です。\n今回は、「Claude Code」を用いて、カナダの州政府が運用する大規模なシステムの刷新を進めた手法を紹介します。\nhttps://www.anthropic.com/news/alberta-government-claude-cybersecurity\nhttps://thevelocitywhitepapers.com/\n\n サマリー\nシステムを運用する上で常に課題になるのが、古くなったシステムの運用です。長年にわたって改修が積み重なり、全体像が把握しにくいまま稼働を続けるシステムはたくさんあります。カナダ・アルバータ...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--gsSTFS3R--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%25E3%2581%25A7%25E3%2583%25AC%25E3%2582%25AC%25E3%2582%25B7%25E3%2583%25BC%25E3%2582%25B7%25E3%2582%25B9%25E3%2583%2586%25E3%2583%25A0%25E3%2581%25AE%25E5%2588%25B7%25E6%2596%25B0%25E3%2582%2592%25E9%2580%25B2%25E3%2582%2581%25E3%2581%259F%25E6%2596%25B9%25E6%25B3%2595%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:sasakuna%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly96ZW5uLmRldi9pbWFnZXMvZGVmYXVsdC1wdWJsaWNhdGlvbi1hdmF0YXIucG5n%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2583%258A%25E3%2583%25AC%25E3%2583%2583%25E3%2582%25B8%25E3%2582%25BB%25E3%2583%25B3%25E3%2582%25B9%2520-%2520%25E7%2594%259F%25E6%2588%2590AI%25E3%2581%25A8RAG%25E3%2581%25AE%25E5%25AE%259F%25E8%25A3%2585...%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2ZkMzU2MDA4YWUuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "fetched_at": "2026-07-14 19:23:52",
-    "ja_summary": "カナダのアルバータ州政府が、複雑化してブラックボックス化したレガシーシステムの刷新に「Claude Code」を活用した。\nAIがコード解析やリファクタリングを支援することで、属人化した技術負債の解消と開発効率の向上を両立させた。\n大規模システムの改修におけるAI活用の先行事例として、技術刷新の新たな手法を提示している。"
-  },
-  {
-    "title": "AI時代のObservability設計 - PIIとAIの検索性を両立させ、自動修復する（実践編）",
-    "link": "https://zenn.dev/aircloset/articles/3b8e60fcaab4b7",
-    "source": "Zenn Trends",
-    "published": "Mon, 13 Jul 2026 23:51:06 GMT",
-    "summary": "!\nEnglish Version is here\n\nみなさまこんにちは！エアークローゼットでCTOをしている辻です。\n設計編では、アプリケーション / インフラ / CI / LLMの4軸を、それぞれの問いの性質に合わせて別々の形でObservableにする話を書きました。ここまでで観測スタックの書き込み側は一旦区切ったところです。\nただし、「Observableにしただけ」で話は終わりません。観測スタックには本番データが流れる以上、ここにPIIが混入する経路を断たないといけない ── これはAIとは無関係に、observability設計で手を抜くと漏洩事故に直結する古典的な問題です...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--tksGZeB4--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%25E6%2599%2582%25E4%25BB%25A3%25E3%2581%25AEObservability%25E8%25A8%25AD%25E8%25A8%2588%2520-%2520PII%25E3%2581%25A8AI%25E3%2581%25AE%25E6%25A4%259C%25E7%25B4%25A2%25E6%2580%25A7%25E3%2582%2592%25E4%25B8%25A1%25E7%25AB%258B%25E3%2581%2595%25E3%2581%259B%25E3%2580%2581%25E8%2587%25AA%25E5%258B%2595%25E4%25BF%25AE%25E5%25BE%25A9%25E3%2581%2599%25E3%2582%258B%25EF%25BC%2588%25E5%25AE%259F%25E8%25B7%25B5%25E7%25B7%25A8%25EF%25BC%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E8%25BE%25BB%2520%25E4%25BA%25AE%25E4%25BD%2591%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzkxZjY1NmYzNDQuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2582%25A8%25E3%2582%25A2%25E3%2583%25BC%25E3%2582%25AF%25E3%2583%25AD%25E3%2583%25BC%25E3%2582%25BC%25E3%2583%2583%25E3%2583%2588%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2EyNzdkMDFjYWQuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "fetched_at": "2026-07-14 19:23:53",
-    "ja_summary": "・システムの可観測性（Observability）を構築する際、PII（個人情報）の流出防止は必須のセキュリティ課題である。\n・AIやLLMを活用した検索システムでも、PIIを適切に遮断しつつ運用可能な状態を維持する設計が求められる。\n・観測データを安全に扱うための、PII対策と自動修復を両立させる実践的な手法を解説する。"
   }
 ]
