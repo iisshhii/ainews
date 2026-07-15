@@ -1,5 +1,45 @@
 [
   {
+    "title": "NemoClaw Deep Agents Blueprint の概要",
+    "link": "https://note.com/npaka/n/ncb081e6b0c52",
+    "source": "note (npaka)",
+    "published": "Thu, 09 Jul 2026 09:05:43 +0900",
+    "summary": "<p id=\"a683919a-4efe-4852-9085-121fc233f484\" name=\"a683919a-4efe-4852-9085-121fc233f484\">以下の記事が面白かったので、簡単にまとめました。</p><figure id=\"372cd4e7-6e89-4cec-9814-c2fc4cbb2d57\" name=\"372cd4e7-6e89-4cec-9814-c2fc4cbb2d57\"><blockquote><p id=\"caa71603-0c16-4167-8ac6-863ce5d9a98e\" name=\"caa71603-0c16-4167-8ac6-863ce5d9a98e\"><strong>・</strong><a href=\"https://www.langchain.com/blog/langchain-and-nvidia-launch-the-nemoclaw-deep-agents-blueprint\" rel=\"nofollow noopener\" target=\"_blank\"><strong>LangChain and NVIDIA launch the NemoClaw Deep Agents Blueprint</strong></a></p></blockquote>\n<figcaption></figcaption></figure><br /><a href=\"https://note.com/npaka/n/ncb081e6b0c52\">続きをみる</a>",
+    "image": "https://assets.st-note.com/production/uploads/images/292756738/rectangle_large_type_2_5f150e9d9194025718f3cddb4b056c8d.png?width=800",
+    "fetched_at": "2026-07-16 02:54:13",
+    "ja_summary": "・LangChainとNVIDIAが、AIエージェント開発のための「NemoClaw Deep Agents Blueprint」を共同公開。\n・企業が独自データを用いた高精度なAIエージェントを、効率的に構築・展開するための技術基盤を提供。\n・NVIDIAのGPUスタックとLangChainのフレームワークを統合し、開発スピードとシステム性能の最大化を目指す。"
+  },
+  {
+    "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
+    "link": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+    "source": "OpenAI",
+    "published": "Wed, 15 Jul 2026 10:00:00 GMT",
+    "summary": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/3ACfFRKDhuNzU4isOGxHRv/26f7f9bded23de64ea183a9ec19904c5/SEO_Card.png?w=1600&amp;h=900&amp;fit=fill",
+    "fetched_at": "2026-07-16 02:54:17",
+    "ja_summary": "・OpenAIがAIの安全性向上に向けた自動レッドチーミングシステム「GPT-Red」を開発。\n・AI同士が対戦（セルフプレイ）することで、プロンプト攻撃への耐性を自己学習で強化。\n・AIモデルの安全性と整合性を効率的かつ自動的に高める新たな仕組み。"
+  },
+  {
+    "title": "How data science teams use ChatGPT Work",
+    "link": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+    "source": "OpenAI",
+    "published": "Tue, 14 Jul 2026 00:00:00 GMT",
+    "summary": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/3pOt7hjYa1nUIIMMXdoEhD/b6493d0ba6756155a3ef880758e0a0b0/Academy-SEO.png?w=1600&amp;h=900&amp;fit=fill",
+    "fetched_at": "2026-07-16 02:54:19",
+    "ja_summary": "・データサイエンスチームが「ChatGPT Work」を活用し、分析業務を効率化する方法を解説。\n・根拠資料、分析レポート、KPIメモ、仕様書などを実データから自動生成可能。\n・分析プロセスの短縮とドキュメント作成の迅速化を実現する。"
+  },
+  {
+    "title": "How sales teams use ChatGPT Work",
+    "link": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+    "source": "OpenAI",
+    "published": "Tue, 14 Jul 2026 00:00:00 GMT",
+    "summary": "See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/3pOt7hjYa1nUIIMMXdoEhD/b6493d0ba6756155a3ef880758e0a0b0/Academy-SEO.png?w=1600&amp;h=900&amp;fit=fill",
+    "fetched_at": "2026-07-16 02:54:20",
+    "ja_summary": "・ChatGPTを活用し、商談準備やパイプライン管理などの営業タスクを効率化。\n・実際の業務データを入力することで、アカウント計画や失注診断などが即座に作成可能。\n・営業チームの作業時間を短縮し、売上最大化のための戦略立案に注力できる環境を実現。"
+  },
+  {
     "title": "エヌビディアCEOが15日夜に神田の居酒屋を訪れて日本の経営者らと懇談…日本企業との提携をあす発表 | 政治・経済・投資 | 東洋経済オンライン",
     "link": "https://toyokeizai.net/articles/-/951676?utm_source=rss&utm_medium=http&utm_campaign=link_back",
     "source": "東洋経済オンライン",
@@ -958,45 +998,5 @@
     "image": "https://www.anthropic.com/api/opengraph-illustration?name=Node%20Globe&amp;backgroundColor=cactus",
     "fetched_at": "2026-07-15 00:02:52",
     "ja_summary": "・Anthropic社がカナダのAI研究へ1,000万ドル（約15億円）の投資を決定。\n・カナダのAIエコシステム支援と研究開発の推進が目的。\n・同社のカナダ拠点設立や地域連携を強化する動き。"
-  },
-  {
-    "title": "ガバメントAI「源内」商標およびブランドガイドラインを掲載しました",
-    "link": "https://www.digital.go.jp/policies/genai",
-    "source": "デジタル庁",
-    "published": "Fri, 10 Jul 2026 09:33:11 +0900",
-    "summary": "",
-    "image": "https://www.digital.go.jp/assets/contents/node/basic_page/field_thumbnail_image/cef0122b-0598-47f8-8a48-dc2c57d407c1/d8639adc/kv_gennai_260216.png",
-    "fetched_at": "2026-07-14 22:13:10",
-    "ja_summary": "政府向けAIサービス「源内」の商標およびブランドガイドラインを公開しました。\n利用者や開発者は、ロゴや名称を使用する際のルールを遵守する必要があります。\n詳細は公式のガイドラインページから確認が可能です。"
-  },
-  {
-    "title": "Copilot / Claude Code 両方で使えるスキル・ハーネスの紹介 - Claude Codeスキル・ハーネス社内勉強会",
-    "link": "https://speakerdeck.com/colopl/skills-and-harnesses-that-work-with-both-copilot-and-claude-code",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-07-13T03:55:50-04:00",
-    "summary": "コロプラの社内勉強会「Claude Code スキル・ハーネス勉強会」での発表資料です。",
-    "image": "https://files.speakerdeck.com/presentations/1c6d12aaee0545438ac23cd1317472b8/preview_slide_0.jpg?39974812",
-    "fetched_at": "2026-07-14 22:13:27",
-    "ja_summary": "・CopilotとClaude Codeの両方で活用可能な「スキル・ハーネス」の活用法を紹介\n・社内勉強会で共有された、開発効率を高めるための実践的なノウハウ\n・エンジニアが開発ツールを横断して生産性を向上させるための技術的知見"
-  },
-  {
-    "title": "Claude Code 再入門 会話の渡し方の4つの道具 - Claude Codeスキル・ハーネス社内勉強会",
-    "link": "https://speakerdeck.com/colopl/claude-code-revisited-4-tools-for-passing-context-to-your-conversation-fabb4432-7302-4ae8-8ebd-1185f1da64bf",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-07-13T03:54:34-04:00",
-    "summary": "コロプラの社内勉強会「Claude Code スキル・ハーネス勉強会」での発表資料です。",
-    "image": "https://files.speakerdeck.com/presentations/1a60a53ccf2d437788ce15d49effe0de/preview_slide_0.jpg?39974795",
-    "fetched_at": "2026-07-14 22:13:27",
-    "ja_summary": "・コロプラ社の勉強会で、Claude Codeを効率的に使いこなすための4つの会話手法を解説。\n・AIとの対話において、タスクの精度を向上させる具体的な指示の出し方を提示。\n・開発現場での生産性向上を目指すエンジニア向けの実践的なスキル共有。"
-  },
-  {
-    "title": "ファミマ、旗艦店限定のFAMIMA商品を全国展開",
-    "link": "https://www.watch.impress.co.jp/docs/news/2125105.html",
-    "source": "Impress Watch",
-    "published": "",
-    "summary": "ファミリーマートは14日、旗艦店「FAMIMA PARK AZABUDAI」で先行販売した「FAMIMA」関連商品を、全国のファミリーマート約16,400店で順次発売する。数量限定で、価格は350円～1,998円。一部店舗では取り扱いのない商品がある。",
-    "image": "https://www.watch.impress.co.jp/img/ipw/list/2125/105/2.jpg",
-    "fetched_at": "2026-07-14 20:51:32",
-    "ja_summary": "・ファミマの旗艦店限定商品が、全国の約16,400店舗で順次発売決定。\n・価格帯は350円〜1,998円で、数量限定での展開。\n・一部取り扱いのない店舗があるため注意が必要。"
   }
 ]
