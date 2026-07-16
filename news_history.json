@@ -1,5 +1,85 @@
 [
   {
+    "title": "”実用的”AIスマートグラス「INMO GO3」　98言語翻訳対応",
+    "link": "https://www.watch.impress.co.jp/docs/news/2125850.html",
+    "source": "Impress Watch",
+    "published": "",
+    "summary": "イノモ日本は、AIスマートグラス「INMO GO3」を7月30日に発売する。価格は99,800円。7月17日から予約開始する。",
+    "image": "https://www.watch.impress.co.jp/img/ipw/list/2125/850/04.jpg",
+    "fetched_at": "2026-07-16 21:07:50",
+    "ja_summary": "・AIスマートグラス「INMO GO3」が7月30日に99,800円で発売\n・98言語のリアルタイム翻訳に対応した実用モデル\n・7月17日より予約受付を開始"
+  },
+  {
+    "title": "「切なさ」はアルゴリズムで書けるか。初期ユーミン様式のバラード生成マシンをClaude Fable 5と作って考えたこと（CloseBox）",
+    "link": "https://www.techno-edge.net/article/2026/07/15/5297.html",
+    "source": "TechnoEdge",
+    "published": "Wed, 15 Jul 2026 18:17:54 +0900",
+    "summary": "切ない曲ってどんなものでしょうか。Sunoで切ないバラードを生成したいときは、sentimental ballad, heart-aching, sorrowful, emotionalといった表現を使いますが、それが意味するところは？",
+    "image": "https://www.techno-edge.net/imgs/rss/32980.png",
+    "fetched_at": "2026-07-16 21:08:01",
+    "ja_summary": "AIに「切なさ」をどう言語化し指示すれば、初期ユーミン風の楽曲が再現できるかを検証。\nSunoなどの生成AIで感情を表現する際、具体的な形容詞の組み合わせが鍵になることを考察。\nアルゴリズムによる情緒的な音楽制作の可能性と、人間が感じる「切なさ」の正体を分析した。"
+  },
+  {
+    "title": "第5回先進的AI利活用アドバイザリーボードの会議資料等を掲載しました",
+    "link": "https://www.digital.go.jp/councils/ai-advisory-board/770d4c48-7f40-49a6-a49d-56a763800a42",
+    "source": "デジタル庁",
+    "published": "Tue, 14 Jul 2026 16:08:31 +0900",
+    "summary": "",
+    "image": "https://www.digital.go.jp/themes/custom/gov_theme_da_2023/assets/images/ogp.png",
+    "fetched_at": "2026-07-16 21:08:02",
+    "ja_summary": "政府の「第5回先進的AI利活用アドバイザリーボード」の会議資料が公開された。\nAI利活用の推進に向けた論点や最新の検討状況が確認できる。\n詳細は政府公式サイトから閲覧可能。"
+  },
+  {
+    "title": "【衝撃】GPT-5.6のReact習熟度を測った結果……",
+    "link": "https://zenn.dev/uhyo/articles/react-profession-bench-11",
+    "source": "Zenn Trends",
+    "published": "Thu, 16 Jul 2026 00:50:56 GMT",
+    "summary": "皆さんこんにちは。React習熟度シリーズの11記事目です。今回は、先日登場したGPT-5.6のReact習熟度を測ってみました。Effort=highとmaxでのベンチマークを予定していますが、この記事ではhighでの結果をお届けします。\n前回の記事はこちらです。\nhttps://zenn.dev/uhyo/articles/react-profession-bench-10\n\n 結果\n今回はGPT-5.6の3種類のモデル、Sol, Terra, Lunaのそれぞれのスコアを計測しました。Effortはすべてhighに統一しています。\nまずスコアランキングをお見せします。\nHaiku ...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--Z-ZjF5up--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590%25E8%25A1%259D%25E6%2592%2583%25E3%2580%2591GPT-5.6%25E3%2581%25AEReact%25E7%25BF%2592%25E7%2586%259F%25E5%25BA%25A6%25E3%2582%2592%25E6%25B8%25AC%25E3%2581%25A3%25E3%2581%259F%25E7%25B5%2590%25E6%259E%259C%25E2%2580%25A6%25E2%2580%25A6%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:uhyo%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzVjYjFlMDJlNGQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-07-16 21:08:20",
+    "ja_summary": "最新AI「GPT-5.6」のReact習熟度を3つのモデル（Sol, Terra, Luna）で比較検証。\n「Effort=high」設定におけるベンチマークスコアの結果を公開。\nエンジニアの実務に直結する、AIのコーディング能力の現状を把握できる。"
+  },
+  {
+    "title": "LLM の可観測性ツールを決めきれないので、OpenTelemetry で決めない構成にした",
+    "link": "https://zenn.dev/optimisuke/articles/8f2ce41b9a7d30",
+    "source": "Zenn Trends",
+    "published": "Wed, 15 Jul 2026 11:00:06 GMT",
+    "summary": "はじめに\nLLM API を呼ぶアプリを作っていると、「さっきの生成、どのプロンプトで何が返ってきてたんやろ」ってのを後から見返したくなります。自分の場合は、子ども向けワークショップ用の4コマ漫画アプリ（人が1・3コマ目を描き、AI が2・4コマ目を作る）を開発中で、プロンプトをあれこれ変えながら試しているうちに、どのプロンプトでどれが生成されたかわからん、という状態になっていました。\n!\nアプリ自体の話は、そのうち別の記事に書くかもしれません。このイベントで使う予定なので、気になる人はぜひ。\n\nということで、LLM の可観測性ツールの最近の事情を調べ始めたんですが、Langfuse...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--VaWbFeur--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:LLM%2520%25E3%2581%25AE%25E5%258F%25AF%25E8%25A6%25B3%25E6%25B8%25AC%25E6%2580%25A7%25E3%2583%2584%25E3%2583%25BC%25E3%2583%25AB%25E3%2582%2592%25E6%25B1%25BA%25E3%2582%2581%25E3%2581%258D%25E3%2582%258C%25E3%2581%25AA%25E3%2581%2584%25E3%2581%25AE%25E3%2581%25A7%25E3%2580%2581OpenTelemetry%2520%25E3%2581%25A7%25E6%25B1%25BA%25E3%2582%2581%25E3%2581%25AA%25E3%2581%2584%25E6%25A7%258B%25E6%2588%2590%25E3%2581%25AB%25E3%2581%2597%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Naosuke%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzQ3MGQ3ZTQ5MmUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-07-16 21:08:20",
+    "ja_summary": "・LLMアプリ開発時のプロンプト管理や挙動追跡の必要性が高まっている。\n・専用の可観測性ツールが多く乱立しているため、特定ツールへの依存を避ける。\n・汎用的なオープン規格「OpenTelemetry」を採用し、ツールに依存しない柔軟な構成を実現した。"
+  },
+  {
+    "title": "GPT-Live の「自然さ」を生かした英会話学習法",
+    "link": "https://zenn.dev/takanari_dev/articles/2026-07-14-english-practice-with-gpt-live",
+    "source": "Zenn Trends",
+    "published": "Wed, 15 Jul 2026 10:37:14 GMT",
+    "summary": "GPT-Live とかいう新機能\n2026年7月8日、GPT に新機能「GPT-Live」が追加された。\nhttps://openai.com/ja-JP/index/introducing-gpt-live\nこれはこれまでの「カスケード型」や「ターン制」ではなく、「全二重アーキテクチャ（フルデュプレックス型）」を採用している。詳しいことは上の公式の内容を参照してもらいたいが、入力と出力を同時並行（二重）に動かすことで自然な会話を実現している。\nこれによって会話途中であっても自然な相槌を適宜してくれたり、割り込みによる中断、同時通訳なども可能にしており、実際使ってみると驚くほど自然な...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--coC66gAe--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:GPT-Live%2520%25E3%2581%25AE%25E3%2580%258C%25E8%2587%25AA%25E7%2584%25B6%25E3%2581%2595%25E3%2580%258D%25E3%2582%2592%25E7%2594%259F%25E3%2581%258B%25E3%2581%2597%25E3%2581%259F%25E8%258B%25B1%25E4%25BC%259A%25E8%25A9%25B1%25E5%25AD%25A6%25E7%25BF%2592%25E6%25B3%2595%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:takanari%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzNmNDg2NWU2NGUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-07-16 21:08:20",
+    "ja_summary": "・GPTの新機能「GPT-Live」は、入力と出力を同時処理する「全二重アーキテクチャ」により、人間のような自然な会話を実現。\n・会話途中での割り込みや相槌、同時通訳が可能となり、従来よりも極めてスムーズな双方向コミュニケーションが可能になった。"
+  },
+  {
+    "title": "雑に作る→ラディカルなリファクタリングを行う",
+    "link": "https://zenn.dev/acomagu/articles/9744fc2a605528",
+    "source": "Zenn Trends",
+    "published": "Wed, 15 Jul 2026 10:00:49 GMT",
+    "summary": "いろいろなデータを DB に読み込むソースコードを業務で LLM に書かせている。もう少し具体的に言うと、「いろいろなデータソースから地理情報を集めてきてPostGISにぶち込み、Mapboxにアップロードする」みたいな CLI だ。\nこれは最初から LLM に書かせているのだが、データソースの種類が増えるに従いどんどんコードが爆発してきた。\nコードを見ると、特に SQL がヤバい。コードのあらゆる場所で自由に DB を触り、SQL が散らばっている。あと、データソースごとに同じようなコードが重複している。\nこういうとき LLM に単にリファクタリングしてと言うと同様のコードを関数でまと...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--UB_CAa_u--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E9%259B%2591%25E3%2581%25AB%25E4%25BD%259C%25E3%2582%258B%25E2%2586%2592%25E3%2583%25A9%25E3%2583%2587%25E3%2582%25A3%25E3%2582%25AB%25E3%2583%25AB%25E3%2581%25AA%25E3%2583%25AA%25E3%2583%2595%25E3%2582%25A1%25E3%2582%25AF%25E3%2582%25BF%25E3%2583%25AA%25E3%2583%25B3%25E3%2582%25B0%25E3%2582%2592%25E8%25A1%258C%25E3%2581%2586%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:acomagu%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2dIVTdQZ2RDZEgtNEdwc0VwT0JiX3JZeGczNmJxQllXUktTUkloOW9nPXM5Ni1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-07-16 21:08:20",
+    "ja_summary": "・LLMに任せたコードがデータソースの増加で肥大化・複雑化し、SQLの散乱や重複が課題となっている。\n・単純なリファクタリング指示では不十分なため、まずは「雑に作る」ことで全体像を把握する。\n・その後に構造を見直す「ラディカル（抜本的）なリファクタリング」を行うことで効率的なコードへ改善する。"
+  },
+  {
+    "title": "そのスキル、本当に効いてる？ Agent Skills を「評価」する3つのツールを比べてみた",
+    "link": "https://qiita.com/Syoitu/items/78d45bee1160d059c972",
+    "source": "Qiita (Popular)",
+    "published": "2026-07-09T17:00:07+09:00",
+    "summary": "## 前書き\n\n2025 年 10 月に Anthropic が Agent Skills（以下スキル）を発表して以来、すっかり身近な存在になりました。\n\nhttps://www.anthropic.com/news/skills\n\n作業手順を `SKILL.md` に明文化してエージェントに渡せば、AI が書いた通りに作業してくれます。\n一見とても便利ですが実際に使い込んでいると、ふと不安になり",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Ftech-festa-ogp-background-4b5015b2c518c7e6b9062a7c9f5f5e90.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFtYXpvbmF3cy5jb20lMkYwJTJGMzIwMTY0JTJGcHJvZmlsZS1pbWFnZXMlMkYxNTQzMzExNzUyP2l4bGliPXJiLTQuMS4xJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz0wNGFkMDZhZjhkNDE3NDcxNTk2NGE0ZmZmNTNmMGQxMw%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYxZTIwZGI1ZTdlNDA3ZWFlN2I5NzBlYzk5OTg4MGRjOGMzY2MwZjY0JTJGb3JpZ2luYWwuanBnJTNGMTY2NzI3NDk2Mz9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz04OTI0NDcwMDk1MDMyZjUxYmZlNzE3ZjVkOGUzYmE3ZA%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D0db5e6259bef720891efe507901d3252?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgxJTlEJUUzJTgxJUFFJUUzJTgyJUI5JUUzJTgyJUFEJUUzJTgzJUFCJUUzJTgwJTgxJUU2JTlDJUFDJUU1JUJEJTkzJUUzJTgxJUFCJUU1JThBJUI5JUUzJTgxJTg0JUUzJTgxJUE2JUUzJTgyJThCJUVGJUJDJTlGJTIwQWdlbnQlMjBTa2lsbHMlMjAlRTMlODIlOTIlRTMlODAlOEMlRTglQTklOTUlRTQlQkUlQTElRTMlODAlOEQlRTMlODElOTklRTMlODIlOEIzJUUzJTgxJUE0JUUzJTgxJUFFJUUzJTgzJTg0JUUzJTgzJUJDJUUzJTgzJUFCJUUzJTgyJTkyJUU2JUFGJTk0JUUzJTgxJUI5JUUzJTgxJUE2JUUzJTgxJUJGJUUzJTgxJTlGJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjNGRkZGRkYmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9YzkwMTk0MTk2NGMyNGY0MzNiYTIxOGQ0ZDBjMzk3N2Q&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBTeW9pdHUmdHh0LWNvbG9yPSUyM0ZGRkZGRiZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1kNWQ0ZDc5NmZhZTM4NjhjMDdlN2NkMmIwMmM3NWE0NQ&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=S0RESeOCouOCuOODo-OCpOODq-mWi-eZuuOCu-ODs-OCv-ODvOagquW8j-S8muekvg&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%23FFFFFF&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=e005dd7efe5f50c26975ce8221a15589",
+    "fetched_at": "2026-07-16 21:08:24",
+    "ja_summary": "・Anthropicの「Agent Skills」は手順書を渡すだけでAIが作業を代行する便利な機能。\n・しかし、そのスキルが正しく機能しているか評価する手法が必要となる。\n・記事では、Agent Skillsの精度を検証・評価するための主要な3ツールを比較紹介。"
+  },
+  {
     "title": "富士通・ファナック・安川・川崎重工が結集　エヌビディアと「フィジカルAI」始動",
     "link": "https://www.itmedia.co.jp/business/articles/2607/16/news097.html",
     "source": "ITmedia ビジネス",
@@ -918,85 +998,5 @@
     "image": "https://res.cloudinary.com/zenn/image/upload/s--gsSTFS3R--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%25E3%2581%25A7%25E3%2583%25AC%25E3%2582%25AC%25E3%2582%25B7%25E3%2583%25BC%25E3%2582%25B7%25E3%2582%25B9%25E3%2583%2586%25E3%2583%25A0%25E3%2581%25AE%25E5%2588%25B7%25E6%2596%25B0%25E3%2582%2592%25E9%2580%25B2%25E3%2582%2581%25E3%2581%259F%25E6%2596%25B9%25E6%25B3%2595%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:sasakuna%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly96ZW5uLmRldi9pbWFnZXMvZGVmYXVsdC1wdWJsaWNhdGlvbi1hdmF0YXIucG5n%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2583%258A%25E3%2583%25AC%25E3%2583%2583%25E3%2582%25B8%25E3%2582%25BB%25E3%2583%25B3%25E3%2582%25B9%2520-%2520%25E7%2594%259F%25E6%2588%2590AI%25E3%2581%25A8RAG%25E3%2581%25AE%25E5%25AE%259F%25E8%25A3%2585...%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2ZkMzU2MDA4YWUuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
     "fetched_at": "2026-07-15 22:24:57",
     "ja_summary": "カナダ・アルバータ州政府が、複雑化したレガシーシステムの刷新に「Claude Code」を活用。\nAIによるコード解析や修正支援を通じて、全体像の把握が困難なシステムの改修効率を大幅に向上させた。\n長年蓄積された古いシステムの保守・モダン化において、AIが極めて有効な解決策となることを実証した。"
-  },
-  {
-    "title": "LingBot の6つのロボットAIモデルまとめ",
-    "link": "https://note.com/npaka/n/n75896ac486a7",
-    "source": "note (npaka)",
-    "published": "Sat, 11 Jul 2026 23:34:27 +0900",
-    "summary": "<p id=\"6ed4fb7a-5a90-4eb9-aed8-44ffc77ccf8d\" name=\"6ed4fb7a-5a90-4eb9-aed8-44ffc77ccf8d\">「LingBot」の6つのロボットAIモデルについてまとめました。</p><br /><br /><a href=\"https://note.com/npaka/n/n75896ac486a7\">続きをみる</a>",
-    "image": "https://assets.st-note.com/production/uploads/images/293527894/rectangle_large_type_2_8331dd3883c774de3efffee4fcd488ea.png?width=800",
-    "fetched_at": "2026-07-15 20:56:43",
-    "ja_summary": "・LingBotが開発した6つのロボット制御用AIモデルを整理。\n・ロボットの動作や対話に必要な各AIモデルの特性を解説。\n・詳細は元記事にて確認可能。"
-  },
-  {
-    "title": "GPT-5.6 Sol ・ Terra ・ Luna のリリース",
-    "link": "https://note.com/npaka/n/n5cc5fc5ad25f",
-    "source": "note (npaka)",
-    "published": "Fri, 10 Jul 2026 02:25:40 +0900",
-    "summary": "<p id=\"792be65f-8b15-4dac-b87d-bca0a0dcf43f\" name=\"792be65f-8b15-4dac-b87d-bca0a0dcf43f\">以下の記事が面白かったので、簡単にまとめました。</p><figure id=\"7f52065a-4a71-4071-b7b9-2515b606277b\" name=\"7f52065a-4a71-4071-b7b9-2515b606277b\"><blockquote><p id=\"507798e5-7ed0-4e30-98a0-cb82e6b01979\" name=\"507798e5-7ed0-4e30-98a0-cb82e6b01979\"><strong>・</strong><a href=\"https://openai.com/index/gpt-5-6/\" rel=\"nofollow noopener\" target=\"_blank\"><strong>GPT-5.6: Frontier intelligence that scales with your ambition</strong></a> </p></blockquote>\n<figcaption></figcaption></figure><br /><a href=\"https://note.com/npaka/n/n5cc5fc5ad25f\">続きをみる</a>",
-    "image": "https://assets.st-note.com/production/uploads/images/292986741/rectangle_large_type_2_232e0ad8396e6105e236930924cc2861.jpeg?width=800",
-    "fetched_at": "2026-07-15 20:56:43",
-    "ja_summary": "・OpenAIが新モデル「GPT-5.6」シリーズ（Sol、Terra、Luna）をリリース。\n・各モデルはユーザーの目的や規模に合わせて最適化されたスケーラブルな性能を実現。\n・詳細は公開元の公式サイトおよび解説記事にて確認可能。"
-  },
-  {
-    "title": "[2026-07-15] AI Ready なはずだったアーキテクチャと、見えてきた課題・次に目指す状態",
-    "link": "https://speakerdeck.com/wxyzzz/2026-07-15-ai-ready-nahasutatutaakitekutiyato-jian-etekitake-ti-ci-nimu-zhi-suzhuang-tai",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-07-15T07:05:25-04:00",
-    "summary": "「AI Ready組織を見据えた データ基盤戦略とは」( https://findy.connpass.com/event/398555/ ) 登壇時資料です。",
-    "image": "https://files.speakerdeck.com/presentations/2ed88c87f80a4480b06fbb9f10bb760d/preview_slide_0.jpg?39996581",
-    "fetched_at": "2026-07-15 20:56:59",
-    "ja_summary": "・AI活用を見据えたデータ基盤構築を目指したものの、運用や拡張性において新たな課題が浮き彫りになった。\n・AI Readyな組織を実現するために必要な、データ基盤の現状と克服すべき壁を整理。\n・課題解決に向けた次なる戦略と、目指すべき理想的なアーキテクチャの方向性を提示。"
-  },
-  {
-    "title": "AIレビューはどこまで任せられるのか？自動化と人が背負うレビューの境界",
-    "link": "https://speakerdeck.com/sansantech/260715",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-07-15T06:31:14-04:00",
-    "summary": "■ イベント\nレビュー、どこまでAIに任せられる？ — AIコードレビューツールの選択肢と実践\nhttps://techplay.jp/event/997847\n\n■登壇概要\nタイトル：AIレビューはどこまで任せられるのか？自動化と人が背負うレビューの境界\n登壇者：技術本部 Bill One Engineering Unit 小木 大嗣\n\n■ 技術本部 採用情報\nhttps://media.sansan-engineering.com",
-    "image": "https://files.speakerdeck.com/presentations/b0e2ad9a73cf4e098307577cbb028dcb/preview_slide_0.jpg?39996220",
-    "fetched_at": "2026-07-15 20:56:59",
-    "ja_summary": "・AIによるコードレビューの活用範囲と自動化の限界を解説\n・AIと人間が担当すべきレビュー領域の境界線を明確化\n・効率的な開発体制を築くための実践的な知見を共有"
-  },
-  {
-    "title": "DatabricksにおけるMCPソリューション",
-    "link": "https://speakerdeck.com/taka_aki/databricksniokerumcpsoriyusiyon",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-07-15T04:34:27-04:00",
-    "summary": "MCP Developer LabでのLTで使用した資料です。\n\nMCP Developer Lab | MCPで切り開くAgentic AIワークフロー https://devlab.geodesiccap.com/",
-    "image": "https://files.speakerdeck.com/presentations/576e9b110744480591db174ed8e10d35/preview_slide_0.jpg?39994912",
-    "fetched_at": "2026-07-15 20:56:59",
-    "ja_summary": "・Databricks環境におけるMCP（Model Context Protocol）を活用したAIエージェント構築手法の解説資料。\n・外部データやツールとLLMを安全かつ効率的に接続し、業務を自動化するワークフローを提示。\n・Agentic AIの導入を検討しているエンジニアや技術リーダー向けの実践的ガイド。"
-  },
-  {
-    "title": "Claude Code の無料セキュリティ監査プラグインで脆弱性を自動検出・修正してみる",
-    "link": "https://qiita.com/nogataka/items/4d2a551f89f6b4f94b01",
-    "source": "Qiita (Popular)",
-    "published": "2026-07-06T20:00:39+09:00",
-    "summary": "\n## この記事のポイント\n\n- Anthropic が 2026 年 5 月下旬に Claude Code 向けの公式プラグイン `security-guidance` を公開しました（各メディアで紹介されたのは 5 月 27 日です）。全プランで利用でき、2026 年 6 月時点でベータ表記はありません。ただしモデルによるレビューは通常の Claude 利用枠を消費します\n- 「ファイル編集時",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYxNjEyOTglMkZjMWUzZmZkNmVhZGExOTY5ZmYzYzQ0YjE0ZmRlMDgxYmNkZTZmNTAwJTJGeF9sYXJnZS5wbmclM0YxNTg0ODQ1NTg0P2l4bGliPXJiLTQuMS4xJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz1kMDQ2ZmE2Mzg1YzIyMmQ4ZjJkNWI0YjRkYTc3Mjc0NQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Dfde89a6aafc1c82cb07bd196a821c036?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9Q2xhdWRlJTIwQ29kZSUyMCVFMyU4MSVBRSVFNyU4NCVBMSVFNiU5NiU5OSVFMyU4MiVCQiVFMyU4MiVBRCVFMyU4MyVBNSVFMyU4MyVBQSVFMyU4MyU4NiVFMyU4MiVBMyVFNyU5QiVBMyVFNiU5RiVCQiVFMyU4MyU5NyVFMyU4MyVBOSVFMyU4MiVCMCVFMyU4MiVBNCVFMyU4MyVCMyVFMyU4MSVBNyVFOCU4NCU4NiVFNSVCQyVCMSVFNiU4MCVBNyVFMyU4MiU5MiVFOCU4NyVBQSVFNSU4QiU5NSVFNiVBNCU5QyVFNSU4NyVCQSVFMyU4MyVCQiVFNCVCRiVBRSVFNiVBRCVBMyVFMyU4MSU5NyVFMyU4MSVBNiVFMyU4MSVCRiVFMyU4MiU4QiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTNhMjA2ZTk5YTJhZmUwOTZiNmVhNDU0N2NiMzI4Zjg3&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBub2dhdGFrYSZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWNiYWE0ODdlNWU4NDg4ZjQ0NjQ0MjVlZTRhNDY2ZWUz&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=48cd9c6c5931f55a8038cdd638b17862",
-    "fetched_at": "2026-07-15 20:57:03",
-    "ja_summary": "・AnthropicがClaude Code向け公式プラグイン「security-guidance」を公開。\n・全プランで利用可能で、コード編集時に脆弱性の自動検出と修正を実行できる。\n・利用にはモデルのトークン枠を消費するが、手動レビューの手間を大幅に削減可能。"
-  },
-  {
-    "title": "【今さら聞けない骨太の方針】“高市カラー”で初の大方針／金利上昇で市場が警戒？／責任ある積極財政の中身／半導体・AIなど17分野の投資効果／悪い円安、インフレへの備え | ビジネス | 東洋経済オンライン",
-    "link": "https://toyokeizai.net/articles/-/951678?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-    "source": "東洋経済オンライン",
-    "published": "Wed, 15 Jul 2026 19:00:00 +0900",
-    "summary": "高市政権発足後、初となる経済財政運営と改革の基本方針、通称「骨太の方針」が７月に閣議決定される見通しだ。国の借金が約1100兆円にものぼる中、政権が掲げるのは「責任ある積極財政」。今後の成長に向けて…",
-    "image": "https://tk.ismcdn.jp/mwimgs/8/a/1200w/img_8a295efeb96fb474ea30c52ced1498b2215655.jpg?nextgen=false",
-    "fetched_at": "2026-07-15 19:27:02",
-    "ja_summary": "・7月に「骨太の方針」が閣議決定され、高市氏の主張を反映した「責任ある積極財政」が本格化する。\n・半導体・AIなど17分野へ集中的に投資し、成長力の底上げを図る。\n・金利上昇やインフレへの警戒が高まる中、財政支出の質と市場への影響が焦点となる。"
-  },
-  {
-    "title": "Spotify、音楽やポッドキャストについて「AIに質問できる」新機能を追加",
-    "link": "https://japan.cnet.com/article/35250616/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "音楽ストリーミングサービスのSpotifyは、新たなAIアシスタント機能を追加する。視聴中のコンテンツなどについて質問できるもので、ベータ版として提供が始まっている。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35250616/\"><img src=\"https://japan.cnet.com/storage/2026/07/15/60ad02e71cac76303993e623935b8234/t/184/138/d/for-the-record-blog-header_1280x960.jpg\" /></a>",
-    "image": "https://japan.cnet.com/storage/2026/07/15/60ad02e71cac76303993e623935b8234/t/184/138/d/for-the-record-blog-header_1280x960.jpg",
-    "fetched_at": "2026-07-15 19:27:21",
-    "ja_summary": "・Spotifyが音楽やポッドキャストについて対話できる新AIアシスタントを導入。\n・視聴中のコンテンツに関する質問や詳細情報をAIに尋ねることが可能。\n・まずはベータ版として提供を開始し、利便性を向上させる。"
   }
 ]
