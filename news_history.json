@@ -1,5 +1,75 @@
 [
   {
+    "title": "自然言語でWebサイトやアプリ作成「Canvaコード 2.0」",
+    "link": "https://www.watch.impress.co.jp/docs/news/2125454.html",
+    "source": "Impress Watch",
+    "published": "",
+    "summary": "Canvaは15日、AIによるバイブコーディングが可能な「Canvaコード 2.0」を提供開始した。すべてのユーザーが無料で利用でき、自然言語の指示からWebサイトやアプリ、インタラクティブなランディングページなどを作成できる。",
+    "image": "https://www.watch.impress.co.jp/img/ipw/list/2125/454/01.jpg",
+    "fetched_at": "2026-07-16 09:08:28",
+    "ja_summary": "・CanvaがAIによる「Canvaコード 2.0」を提供開始。\n・自然言語の指示だけでWebサイトやアプリ、LPが作成可能。\n・全ユーザーが無料で利用できる。"
+  },
+  {
+    "title": "「Google Store 表参道」8月13日オープン 米国外初のグーグル直営店",
+    "link": "https://www.watch.impress.co.jp/docs/news/2125547.html",
+    "source": "Impress Watch",
+    "published": "",
+    "summary": "Googleは16日、東京・表参道に米国外初となる直営店「Google Store 表参道」のオープン日を8月13日に決定した。Google Pixelの最新端末などを体験・購入できるほか、最新のAIなどのGoogle体験をリアル店舗で提供していく。",
+    "image": "https://www.watch.impress.co.jp/img/ipw/list/2125/547/omo1.jpg",
+    "fetched_at": "2026-07-16 09:08:29",
+    "ja_summary": "・米国外初のGoogle直営店が8月13日に表参道でオープン。\n・最新のGoogle Pixel端末の体験と購入が可能。\n・最新AIなど、Googleの技術を体感できるリアル店舗を展開。"
+  },
+  {
+    "title": "連載「歌うテックニュース」第9回：Transformer論文を読めば、倦怠期カップルも愛を取り戻せるはずなのだ（西川善司）",
+    "link": "https://www.techno-edge.net/article/2026/07/15/5294.html",
+    "source": "TechnoEdge",
+    "published": "Wed, 15 Jul 2026 08:30:34 +0900",
+    "summary": "今回の楽曲は、先日掲載された、ローカルSLMに対応したNVIDIAのゲーム向けAI技術のACEの記事にちなんだ歌です。",
+    "image": "https://www.techno-edge.net/imgs/rss/32943.png",
+    "fetched_at": "2026-07-16 09:08:40",
+    "ja_summary": "NVIDIAのゲーム向けAI技術「ACE」とローカルSLMをテーマにした連載「歌うテックニュース」の第9回。\n技術解説と音楽を融合させた独自の切り口で、最新のAI活用トレンドを読み解く。\nTransformer技術がもたらすAIの進化を、ユニークな視点で楽しく学べる内容。"
+  },
+  {
+    "title": "WSL Containers（wslc）入門｜Docker Desktop不要",
+    "link": "https://zenn.dev/var/articles/wsl-containers-windows-wslc-hands-on",
+    "source": "Zenn Trends",
+    "published": "Wed, 15 Jul 2026 00:06:05 GMT",
+    "summary": "WSL 2.9.3で公開プレビューになったwslc.exeを使うと、Docker Desktopをインストールせずに、Windows上でLinuxコンテナをビルド・実行できます。本記事では、hello-worldの実行、nginxのポート公開、Containerfileからのイメージビルドまでを、実際にWindows 11で動かして確かめます。\nDockerを普段使っているWindows開発者向けに、docker runからwslc runへ最短で移れるよう、実行したコマンドと出力、そしてDocker Desktopとの違いをまとめます。公開プレビューのため仕様は変わることがあります（G...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--Qw5p36L2--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:WSL%2520Containers%25EF%25BC%2588wslc%25EF%25BC%2589%25E5%2585%25A5%25E9%2596%2580%25EF%25BD%259CDocker%2520Desktop%25E4%25B8%258D%25E8%25A6%2581%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:RareTECH%25EF%25BC%2588%25E3%2583%25AC%25E3%2582%25A2%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25EF%25BC%2589%257C%2520%25E5%25B8%258C...%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzZiZjAxOWJkY2IuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-07-16 09:09:06",
+    "ja_summary": "・WSL 2.9.3の新機能「wslc.exe」により、Docker Desktop不要でLinuxコンテナのビルド・実行が可能になった。\n・Dockerと同様の操作感で、イメージのビルドからポート公開までをWindows上で完結できる。\n・開発環境の軽量化やコスト削減を目指すWindows開発者向けの、実用的な新機能である。"
+  },
+  {
+    "title": "AIにルールファイルを数ヶ月自動更新させ続けたら、ルールは\"良く\"育ったのか",
+    "link": "https://zenn.dev/r_kaga/articles/c9fcb75f1ff284",
+    "source": "Zenn Trends",
+    "published": "Mon, 13 Jul 2026 22:51:53 GMT",
+    "summary": "コードが変わると、エージェントが読むルールや手順も古くなります。\nAIに実装を任せるほどPRの数は増え、古いパスや消えたコマンドを信じたままの実装が、次のPRに混ざりやすくなります。地味ですが、何度か踏むと嫌になる。\nそれなら、ルールファイルやスキルファイルもAIに直させ続ければいいのではないか！！！という発想になりますよね。\nそんな古い参照や矛盾を見つけて直したり、繰り返す失敗をルール化するAgentic Automationを数ヶ月回してみました。\nそんな振り返り的な記事です。\n\n 前提\nCLAUDE.mdやAGENTS.mdを、「インデックスと、モデルが推測できない差分」 を置く場...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--p_o-eZkM--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%25E3%2581%25AB%25E3%2583%25AB%25E3%2583%25BC%25E3%2583%25AB%25E3%2583%2595%25E3%2582%25A1%25E3%2582%25A4%25E3%2583%25AB%25E3%2582%2592%25E6%2595%25B0%25E3%2583%25B6%25E6%259C%2588%25E8%2587%25AA%25E5%258B%2595%25E6%259B%25B4%25E6%2596%25B0%25E3%2581%2595%25E3%2581%259B%25E7%25B6%259A%25E3%2581%2591%25E3%2581%259F%25E3%2582%2589%25E3%2580%2581%25E3%2583%25AB%25E3%2583%25BC%25E3%2583%25AB%25E3%2581%25AF%2522%25E8%2589%25AF%25E3%2581%258F%2522%25E8%2582%25B2%25E3%2581%25A3%25E3%2581%259F%25E3%2581%25AE%25E3%2581%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:r.kagaya%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2FlZTNjYzY3MDYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-07-16 09:09:07",
+    "ja_summary": "・コード変更に伴い陳腐化するルールファイルを、AIエージェントに自動更新させる「Agentic Automation」を数ヶ月間運用した。\n・AIが古い参照や矛盾を自動修正し、繰り返される失敗をルール化することで、保守コストの低減と実装の品質維持を実現した。\n・AIによる自律的なドキュメント更新は、開発プロセスの信頼性を高める有効な手段となる。"
+  },
+  {
+    "title": "コードを書かせるだけは、正直もったいない。Claude Codeを「先生」として使い倒す5つのプロンプト",
+    "link": "https://qiita.com/jqit_suwa/items/2f38d32328996d826d48",
+    "source": "Qiita (Popular)",
+    "published": "2026-07-15T08:29:02+09:00",
+    "summary": "## はじめに\n\nClaude Code、コードを書かせるだけで使ってませんか？それ、正直めちゃくちゃもったいないです。\n\nClaude Code のすごいところは、手を動かしてくれる相棒であると同時に、**隣に座ってる先生**でもあること。実装を丸投げするんじゃなくて、「教えてもらう」「シニアの頭の中を盗む」道具として使うと、成長スピードが本当に変わります。\n\n昔の自分はこうでした。何か新しいこ",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnNlY3VyZS5ncmF2YXRhci5jb20lMkZhdmF0YXIlMkZjNmQ4NDJlM2YyMDE1MjliYjg1M2Y3NzYyOWQxYjcxZD9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9MjkyNjY2OTFlOGFlOTcxNjBjMDIzOWUyYjdlYzdhN2Q%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYyMDc3NzA2NTMzODkzMmUyMWVjMjk3MjI5ZDVkZmI5NDk5MWI5YzFhJTJGb3JpZ2luYWwuanBnJTNGMTc2OTAwMDk3MD9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz1lYjc1ZTQzMzAzYTdlNTkzNDQ4Yjc4NDZiMjljYTgxZA%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D0cd6c1f2ec94e0a16039eb69802eb11c?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgyJUIzJUUzJTgzJUJDJUUzJTgzJTg5JUUzJTgyJTkyJUU2JTlCJUI4JUUzJTgxJThCJUUzJTgxJTlCJUUzJTgyJThCJUUzJTgxJUEwJUUzJTgxJTkxJUUzJTgxJUFGJUUzJTgwJTgxJUU2JUFEJUEzJUU3JTlCJUI0JUUzJTgyJTgyJUUzJTgxJUEzJUUzJTgxJTlGJUUzJTgxJTg0JUUzJTgxJUFBJUUzJTgxJTg0JUUzJTgwJTgyQ2xhdWRlJTIwQ29kZSVFMyU4MiU5MiVFMyU4MCU4QyVFNSU4NSU4OCVFNyU5NCU5RiVFMyU4MCU4RCVFMyU4MSVBOCVFMyU4MSU5NyVFMyU4MSVBNiVFNCVCRCVCRiVFMyU4MSU4NCVFNSU4MCU5MiVFMyU4MSU5OTUlRTMlODElQTQlRTMlODElQUUlRTMlODMlOTclRTMlODMlQUQlRTMlODMlQjMlRTMlODMlOTclRTMlODMlODgmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1jZGNjYWQ5NDlkYzg5NDQ5OTE3ZDZhNTdjYzc2OGU4Nw&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBqcWl0X3N1d2EmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz0wYWE2OTJkMmQwMzE0Yzg2ZDIzMGMyOWU5Njg2ZGUyMg&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=5qCq5byP5Lya56S-SlFJVA&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=61d68f28bdb0390de7fcb8aa5f118f80",
+    "fetched_at": "2026-07-16 09:09:09",
+    "ja_summary": "・Claude Codeを単なる実装ツールではなく、学習やスキルアップのための「指導者」として活用する。\n・指示出しだけでなく、思考プロセスや技術的な意図を問いかけることで成長を加速させる。\n・コード生成を丸投げせず、シニアエンジニアの知見を吸収するパートナーとして使い倒す。"
+  },
+  {
+    "title": "【ハンズオン】AgentCore最新機能でRAG & AIエージェント構築に入門！",
+    "link": "https://qiita.com/minorun365/items/7d06434cf830df9c54ff",
+    "source": "Qiita (Popular)",
+    "published": "2026-07-02T16:51:13+09:00",
+    "summary": "このイベント用のハンズオン手順ですが、どなたでも好きなときに試せます！（30分〜1時間目安）\n\nhttps://jawsug.connpass.com/event/398118/\n\nこれをローコードでサクッと作ります。\n\n![スクリーンショット 2026-07-02 1.29.29.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Ftech-festa-ogp-background-4b5015b2c518c7e6b9062a7c9f5f5e90.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYxNjMzODU2JTJGYzIyNmJjMzRhYzZjNDVhMjFmNWU1MTJkMWM3MmE2ZjA5NzQ5NDU3OCUyRnhfbGFyZ2UucG5nJTNGMTY5OTk1NDk3Nj9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9MTlhZDI4ODRkNmQ2MzEyNjMxZDJkNTBjOTZmOTA5ZjU%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYxZTIwZGI1ZTdlNDA3ZWFlN2I5NzBlYzk5OTg4MGRjOGMzY2MwZjY0JTJGb3JpZ2luYWwuanBnJTNGMTY2NzI3NDk2Mz9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz04OTI0NDcwMDk1MDMyZjUxYmZlNzE3ZjVkOGUzYmE3ZA%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3Dbb59006175a60e1b630ed499046d0424?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJTkwJUUzJTgzJThGJUUzJTgzJUIzJUUzJTgyJUJBJUUzJTgyJUFBJUUzJTgzJUIzJUUzJTgwJTkxQWdlbnRDb3JlJUU2JTlDJTgwJUU2JTk2JUIwJUU2JUE5JTlGJUU4JTgzJUJEJUUzJTgxJUE3UkFHJTIwJTI2JTIwQUklRTMlODIlQTglRTMlODMlQkMlRTMlODIlQjglRTMlODIlQTclRTMlODMlQjMlRTMlODMlODglRTYlQTclOEIlRTclQUYlODklRTMlODElQUIlRTUlODUlQTUlRTklOTYlODAlRUYlQkMlODEmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyM0ZGRkZGRiZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1iNWM0NmE2MWVjMTA1NjdkNjQyNzYxZWQxZmU1ZWUzNQ&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBtaW5vcnVuMzY1JnR4dC1jb2xvcj0lMjNGRkZGRkYmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9NDNhZjg0MGViODE0MzBhMmQyODM2OGUyY2Y0NjIwMTY&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=S0RESeOCouOCuOODo-OCpOODq-mWi-eZuuOCu-ODs-OCv-ODvOagquW8j-S8muekvg&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%23FFFFFF&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=4e7cf7aeafdf1fc5c0f3e8a98fdde5fe",
+    "fetched_at": "2026-07-16 09:09:11",
+    "ja_summary": "・AgentCoreを活用したRAG＆AIエージェント構築の体験教材が公開。\n・ローコードで誰でも短時間（30分〜1時間）で構築を学べる。\n・オンラインでいつでも学習可能な自習用ハンズオン。"
+  },
+  {
     "title": "Anthropicと組んだNEC　それでも森田社長が「4つの主権」にこだわる真意",
     "link": "https://www.itmedia.co.jp/business/articles/2607/16/news025.html",
     "source": "ITmedia ビジネス",
@@ -928,75 +998,5 @@
     "image": "https://www.techno-edge.net/imgs/rss/32905.png",
     "fetched_at": "2026-07-15 12:58:15",
     "ja_summary": "・「Vibe Coding」連載第2回として、OpenAIのCodexインストール手順を解説。\n・プログラミング以外の活用法として、Gmailとの連携による自動化を紹介。\n・コードを書かずにAIを活用し、業務効率化を実現する手法を学ぶ。"
-  },
-  {
-    "title": "herdr を活用した Codex とのオーケストレーション用 Claude Code Plugin を作ってみた",
-    "link": "https://zenn.dev/genda_jp/articles/46745564b7a9dd",
-    "source": "Zenn Trends",
-    "published": "Tue, 14 Jul 2026 09:42:25 GMT",
-    "summary": "はじめに\n株式会社GENDA 開発部エンジニアの奥山です。\n先日、「Claude Code サブエージェントのネスト機能で .claude/agents/ の定義が効いた話」を書きました。\nあちらはサブエージェントを「深さ方向」に積む話でしたが、今回は「並走」の話を含んでいます。\nhttps://zenn.dev/genda_jp/articles/16d35ffa464d65\nClaude Code をメインに業務している私ですが、直近その作業セッションの隣に Codex を常駐させて相談役にするオーケストレーションを herdr という terminal multiplexer ...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--BMZI7gcA--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:herdr%2520%25E3%2582%2592%25E6%25B4%25BB%25E7%2594%25A8%25E3%2581%2597%25E3%2581%259F%2520Codex%2520%25E3%2581%25A8%25E3%2581%25AE%25E3%2582%25AA%25E3%2583%25BC%25E3%2582%25B1%25E3%2582%25B9%25E3%2583%2588%25E3%2583%25AC%25E3%2583%25BC%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3%25E7%2594%25A8%2520Claude%2520Code%2520Plugin%2520%25E3%2582%2592%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:okkun0524%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzNiM2M1MjhkNjguanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:GENDA%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzk3MWE5ZDFmMzcuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "fetched_at": "2026-07-15 12:58:37",
-    "ja_summary": "・Claude Codeの作業中に、別のAI「Codex」を相談役として並走させる仕組みを構築。\n・ターミナルマルチプレクサ「herdr」を活用し、複数のAIを同時にオーケストレーションする手法を紹介。\n・サブエージェントのネストとは異なる、AI同士の並行的な連携による効率化事例。"
-  },
-  {
-    "title": "【Claude Code】鹿野さんに聞く 私の推しの並行開発環境 大公開  / claude-code-parallel-2026-07-15",
-    "link": "https://speakerdeck.com/tonkotsuboy_com/claude-code-parallel-2026-07-15",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-07-14T22:51:29-04:00",
-    "summary": "【Claude Code】並行開発、どう回してる？ 鹿野さんに聞く 私の推しの並行開発環境 大公開\nhttps://offers-jp.connpass.com/event/395255/\nの登壇資料です",
-    "image": "https://files.speakerdeck.com/presentations/705f3000bcd04057b7ab5e46f244b3c2/preview_slide_0.jpg?39991850",
-    "fetched_at": "2026-07-15 12:58:39",
-    "ja_summary": "・Claude Codeを活用した効率的な並行開発環境の構築手法を解説\n・鹿野氏が実践する具体的な開発フローや推奨ツールを公開\n・複数のタスクを並行処理するための生産性向上術を学べる登壇資料"
-  },
-  {
-    "title": "AIを「積極活用」する中小企業は3割にとどまる　「AI必要ない」と考えている職種は？",
-    "link": "https://www.itmedia.co.jp/business/articles/2607/15/news010.html",
-    "source": "ITmedia ビジネス",
-    "published": "Wed, 15 Jul 2026 08:30:00 +0900",
-    "summary": "ラクスルは、中小企業でのAIの活用実態に関する調査を発表した。意外にも「AIを必要ない」と考えている層には意思決定層や部署が多いことが分かった。",
-    "image": "https://image.itmedia.co.jp/business/articles/2607/15/cover_news010.jpg",
-    "fetched_at": "2026-07-15 09:58:33",
-    "ja_summary": "・中小企業でAIを「積極活用」しているのは3割にとどまる。\n・意思決定層や特定部署の間で「AIは不要」と考える傾向が強い。\n・活用には認識のギャップを埋めることが課題となっている。"
-  },
-  {
-    "title": "鋼橋の塗装劣化をAIで確認、大阪市が本格導入に向けた検討業務を発注",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02711/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "大阪市は、橋梁の維持管理でのAI（人工知能）活用に向け、実証実験で運用方針などを検討する業務を発注する。委託期間は2026年秋ごろから28年3月31日までの予定。鋼橋の塗装劣化などを検知するAI技術を検証し、維持管理にかかるコスト削減などの効果を確認する。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02711/SNS.jpg?20220512",
-    "fetched_at": "2026-07-15 09:58:42",
-    "ja_summary": "・大阪市が鋼橋の塗装劣化を検知するAI活用に向けた検討業務を発注。\n・2026年秋から実証実験を行い、導入による維持管理コストの削減効果を検証。\n・老朽化するインフラ管理の効率化と運用方針の策定を目指す。"
-  },
-  {
-    "title": "「アクセンチュアはパワポコンサルにあらず」、CEOが語る自らの再創造",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03648/070300002/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "米Accenture（アクセンチュア）は2026年6月18日（米国時間）、2026年8月通期の業績見通しを下方修正した。株価は年初から4割以上下落しており、AI（人工知能）がコンサルティングサービスの「破壊」を突きつけている格好だ。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03648/070300002/topm.jpg?20220512",
-    "fetched_at": "2026-07-15 09:58:42",
-    "ja_summary": "・アクセンチュアの業績見通しが下方修正され、株価も年初から4割超下落。\n・AIの台頭により、従来の「資料作成型コンサル」の価値が揺らいでいる。\n・CEOは同社のビジネスモデルを根本から再構築する転換期を迎えている。"
-  },
-  {
-    "title": "ChatGPTで障害か--アクセスできず",
-    "link": "https://japan.cnet.com/article/35250568/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "7月15日午前9時現在、OpenAIの「ChatGPT」で障害が起きている模様だ。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35250568/\"><img src=\"https://japan.cnet.com/storage/2026/07/15/d797ddba2fc8987f07a44348b7eccef9/t/184/138/d/IMG_3040.jpg\" /></a>",
-    "image": "https://japan.cnet.com/storage/2026/07/15/d797ddba2fc8987f07a44348b7eccef9/t/184/138/d/IMG_3040.jpg",
-    "fetched_at": "2026-07-15 09:58:49",
-    "ja_summary": "・7月15日午前9時現在、ChatGPTでシステム障害が発生中\n・現在サービスにアクセスできない状態が続いている\n・利用者は復旧まで待機が必要な状況"
-  },
-  {
-    "title": "折りたたみスマホの「折り目」が目立ちにくく　サムスンが新技術「Flex Titanium」発表",
-    "link": "https://japan.cnet.com/article/35250564/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "サムスン電子は7月15日、折りたたみスマートフォン向けの新しい画面技術「Flex Titanium」を発表した。次のGalaxy折りたたみ端末に搭載する。画面の折り目が目立ちにくくなり、薄さと丈夫さも増すという。端末の詳細は7月開催のイベント「Galaxy Unpacked」で明らかにする。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35250564/\"><img src=\"https://japan.cnet.com/storage/2026/07/15/199742f0dada9c7adde851edceb9be74/t/184/138/d/Samsung-Mobile-Flex-Titanium-Technology-Foldable-Displays_Main1.jpeg\" /></a>",
-    "image": "https://japan.cnet.com/storage/2026/07/15/199742f0dada9c7adde851edceb9be74/t/184/138/d/Samsung-Mobile-Flex-Titanium-Technology-Foldable-Displays_Main1.jpeg",
-    "fetched_at": "2026-07-15 09:58:49",
-    "ja_summary": "・サムスンが折りたたみスマホの新技術「Flex Titanium」を発表。\n・画面の折り目が目立ちにくくなり、強度と薄さも向上する。\n・詳細は7月の「Galaxy Unpacked」イベントにて公開予定。"
   }
 ]
