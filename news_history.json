@@ -1,5 +1,75 @@
 [
   {
+    "title": "グーグル・ディープマインドの研究者が国防総省とのAI軍事契約をめぐり辞職。「良心に従うと、留まることができなかった」",
+    "link": "https://www.businessinsider.jp/article/202607-google-deepmind-ai-pentagon-contract/",
+    "source": "Business Insider Japan",
+    "published": "Thu, 16 Jul 2026 22:30:00 GMT",
+    "summary": "グーグル・ディープマインド（Google DeepMind）の研究科学者であるアレックス・ターナーは、国防総省との協業について、グーグル幹部たちの考えを変えようと試みたと述べました。",
+    "image": "https://media.loom-app.com/loom/2026/07/16/2ed1729a-ab66-4f5b-b989-852941dfd4fd/original.jpg?w=1200&amp;h=630",
+    "fetched_at": "2026-07-17 22:15:59",
+    "ja_summary": "・Google DeepMindの研究者が、国防総省との軍事AI開発に反対し辞職。\n・幹部への説得を試みたが方針変更に至らず、「良心に従った」決断と表明。\n・軍事転用をめぐるAI倫理や企業姿勢の是非が改めて問われている。"
+  },
+  {
+    "title": "エヌビディアでさえもAIチップ不足が深刻化。ジェンスン・フアン自身がチップをめぐる社内調整に介入",
+    "link": "https://www.businessinsider.jp/article/202607-nvidia-chip-ai-resource-automotive/",
+    "source": "Business Insider Japan",
+    "published": "Thu, 16 Jul 2026 22:00:00 GMT",
+    "summary": "エヌビディアの自動車部門トップによると、需要が供給を上回り続ける中、社内チームはコンピューティングパワー（計算リソース）をめぐって毎週のように競い合っているという。",
+    "image": "https://media.loom-app.com/loom/2026/07/15/08bd40cd-023d-4ed9-9077-d684c428ebc8/original.jpg?w=1200&amp;h=630",
+    "fetched_at": "2026-07-17 22:16:00",
+    "ja_summary": "・AIチップの需要が供給を大幅に上回り、社内で計算リソースの奪い合いが激化。\n・不足解消のため、CEOのジェンスン・フアン自らが社内の優先順位付けに介入。\n・深刻な供給難により、社内調整が毎週行われる異常事態となっている。"
+  },
+  {
+    "title": "サクッと始めるAIワークフロー構築【Jinba】",
+    "link": "https://zenn.dev/umi_mori/books/ai-workflow-jinba",
+    "source": "Zenn Trends",
+    "published": "Fri, 17 Jul 2026 09:23:55 GMT",
+    "summary": "AIエージェントに任せすぎると、トークンは膨らみ、挙動は揺らぎ、想定どおり動いているかも分からなくなります。そこで効くのが『決まった手順は決めておく』というAIワークフローの考え方です。この本では、プログラミングをしない市民開発者（非エンジニア）の方に向けて、自然言語でAIワークフローを構築できる、日本語で使えるノーコードツール『Jinba（人馬）』の知識と使い方を体系的にまとめました。\n\n 【概要】\n ・内容：AIワークフローとは？（AIエージェントとの違い）、Jinbaの概要と始め方、Jinba Flowの使い方、Jinba Appの使い方、Jinba Toolboxの概要、Jinba App Neo（Beta）の概要、Jinbaの強みと弱み（他ツール比較）、Jinbaを用いた5つのユースケース事例、AIワークフロー構築のTIPS\n ・所要時間：約105分\n ・必須条件：生成AIの基礎知識（ChatGPTを使ったことがある程度）\n ・推奨OS：macOS / Windows\n ・レベル：★★☆☆☆",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--rtsickE9--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYm9va19jb3Zlci9iZWQ5NWM4MjU4LnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg?_a=BACMTiAE",
+    "fetched_at": "2026-07-17 22:16:38",
+    "ja_summary": "・AIの挙動を安定させコストを抑えるための「AIワークフロー」構築を解説したガイドブック。\n・非エンジニア向けノーコードツール「Jinba」を使い、実務フローを自動化する方法を習得できる。\n・概念から具体的な活用事例、構築のコツまでを体系的に学べる（学習所要時間約105分）。"
+  },
+  {
+    "title": "AIに「レビューして」はもう古い？「敵対的検証」のすすめ",
+    "link": "https://zenn.dev/loglass/articles/6aa18c80496ec6",
+    "source": "Zenn Trends",
+    "published": "Fri, 17 Jul 2026 05:56:17 GMT",
+    "summary": "!\nこの記事は毎週必ず記事がでるテックブログ Loglass Tech Blog Sprint の152週目の記事です！\n3年間連続達成まで残り7週となりました！\n\nこんにちは、ログラスの松岡(@little_hand_s)です。\n\n\n 3行まとめ\n\n「レビューして」でも指摘は返ってくる。「敵対的検証して」は課題がある前提で反証を試み、判定と根拠まで返してくるのが違い\n敵対的検証はClaude Code公式も推奨するパターン。筆者のClaude Code環境では、一言でサブエージェントによる多視点検証が走った\n指摘は鵜呑みにしない。採否を決めるのは人間。この記事自身も敵対的検証を通して書...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s---aO5m0K2--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%25E3%2581%25AB%25E3%2580%258C%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25E3%2581%2597%25E3%2581%25A6%25E3%2580%258D%25E3%2581%25AF%25E3%2582%2582%25E3%2581%2586%25E5%258F%25A4%25E3%2581%2584%25EF%25BC%259F%25E3%2580%258C%25E6%2595%25B5%25E5%25AF%25BE%25E7%259A%2584%25E6%25A4%259C%25E8%25A8%25BC%25E3%2580%258D%25E3%2581%25AE%25E3%2581%2599%25E3%2581%2599%25E3%2582%2581%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:little_hands%2528%25E6%259D%25BE%25E5%25B2%25A1%2540Lo...%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzRlNWQ4ZTRjZjguanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E6%25A0%25AA%25E5%25BC%258F%25E4%25BC%259A%25E7%25A4%25BE%25E3%2583%25AD%25E3%2582%25B0%25E3%2583%25A9%25E3%2582%25B9%2520%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzAxNjQwZGFkNjEuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-07-17 22:16:39",
+    "ja_summary": "・「レビューして」と頼むのではなく、「敵対的検証して」と指示することで、AIが課題を前提とした反証や根拠を提示するようになり、検証の質が高まる。\n・Claude Code等で活用できる手法で、AIがサブエージェントとして多角的な視点から精査を行うため、従来の受動的なレビューより深い指摘が得られる。\n・AIの指摘を鵜呑みにせず、最終的に採否を人間が判断することが重要であり、このプロセス自体を記事作成にも応用している。"
+  },
+  {
+    "title": "\"LLMに「読み進められる説明文」を書かせる設計：cognitive-rhythm-writingの構造を読む\"",
+    "link": "https://zenn.dev/nobmake/articles/394d8b42da48a1",
+    "source": "Zenn Trends",
+    "published": "Thu, 16 Jul 2026 22:38:53 GMT",
+    "summary": "正しい。情報もそろっている。それでも、なぜか先へ進みにくい説明文があります。\n「読みやすく書いて」「緩急をつけて」と指示しても、今度は短文や問いかけが増え、内容より演出が目立つこともあります。\nこの問題を、単なる文体指定ではなく、状態管理、階層別ルール、検査、修正のループとして扱っているのが、k16shikanoさんが公開している次のAgent Skillです。\n\nこの記事では、この cognitive-rhythm-writing がLLMの文書作成をどのような構造で制御しようとしているのかを読み解きます。\nなお、本稿は2026年7月16日時点のGistを構造的に読み解いたものです。「...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--OJEZQ_QN--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%2522LLM%25E3%2581%25AB%25E3%2580%258C%25E8%25AA%25AD%25E3%2581%25BF%25E9%2580%25B2%25E3%2582%2581%25E3%2582%2589%25E3%2582%258C%25E3%2582%258B%25E8%25AA%25AC%25E6%2598%258E%25E6%2596%2587%25E3%2580%258D%25E3%2582%2592%25E6%259B%25B8%25E3%2581%258B%25E3%2581%259B%25E3%2582%258B%25E8%25A8%25AD%25E8%25A8%2588%25EF%25BC%259Acognitive-rhythm-writing%25E3%2581%25AE%25E6%25A7%258B%25E9%2580%25A0%25E3%2582%2592%25E8%25AA%25AD%25E3%2582%2580%2522%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%25AE%25E3%2581%25B6%25E3%2581%2595%25E3%2582%2593%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2RlZjhlMWQ5YTcuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-07-17 22:16:39",
+    "ja_summary": "単なる文体指定では解決しない「読み進めにくい説明文」の問題を、状態管理や階層別ルールを用いた制御手法（cognitive-rhythm-writing）で解消するアプローチを解説。\nLLMに対し、文章の構造設計と修正のループを組み込むことで、内容の質を保ちながら読者に寄り添う「読み進められる説明文」を生成させる。"
+  },
+  {
+    "title": "頂上決戦！　effort=max同士の対決でGPT-5.6はClaudeに勝てるのか（React習熟度ベンチマーク）",
+    "link": "https://zenn.dev/uhyo/articles/react-profession-bench-12",
+    "source": "Zenn Trends",
+    "published": "Thu, 16 Jul 2026 15:02:58 GMT",
+    "summary": "皆さんこんにちは。React習熟度シリーズの12記事目です。今回は、前回予告した通り、effort=maxでのGPT-5.6のベンチマーク結果をお伝えします。前回の記事では、GPT-5.6 Solの総合スコアがClaude Sonnet 5程度で、Claudeの上位モデルには届いていないことを明らかにしました。そのため、effort=maxでの挽回が可能かどうかが注目されていました。\n前回の記事はこちらです。\nhttps://zenn.dev/uhyo/articles/react-profession-bench-11\n次回の記事はこちらです。\nhttps://zenn.dev/uhy...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--FFnEnUpT--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E9%25A0%2582%25E4%25B8%258A%25E6%25B1%25BA%25E6%2588%25A6%25EF%25BC%2581%25E3%2580%2580effort%253Dmax%25E5%2590%258C%25E5%25A3%25AB%25E3%2581%25AE%25E5%25AF%25BE%25E6%25B1%25BA%25E3%2581%25A7GPT-5.6%25E3%2581%25AFClaude%25E3%2581%25AB%25E5%258B%259D%25E3%2581%25A6%25E3%2582%258B%25E3%2581%25AE%25E3%2581%258B%25EF%25BC%2588React%25E7%25BF%2592%25E7%2586%259F%25E5%25BA%25A6%25E3%2583%2599%25E3%2583%25B3%25E3%2583%2581%25E3%2583%259E%25E3%2583%25BC%25E3%2582%25AF%25EF%25BC%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:uhyo%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzVjYjFlMDJlNGQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-07-17 22:16:39",
+    "ja_summary": "Reactの習熟度を測るベンチマークにおいて、実力を最大限発揮した（effort=max）GPT-5.6とClaudeの頂上決戦を実施。\n前回の検証ではClaudeの上位モデルに及ばなかったGPT-5.6が、設定を強めることでどこまで性能差を詰められるかを検証している。"
+  },
+  {
+    "title": "Event-driven AI - Build Autonomous Agents That Think Asynchronously | APIDays Munich 2026",
+    "link": "https://speakerdeck.com/hguerrero/event-driven-ai-build-autonomous-agents-that-think-asynchronously-apidays-munich-2026",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-07-17T08:20:50-04:00",
+    "summary": "In this presentation, we explore the transition from synchronous AI chatbots to autonomous agents that function as asynchronous actors within an event-driven architecture. We explain how these agents maintain real-time awareness by subscribing to streaming state changes through change context capture patterns rather than relying on static prompts. By utilizing event streams as a durable commit log, we demonstrate how to provide agents with ordered memory that supports observability and governance for mission-critical operations. This approach allows building a resilient and scalable agentic mesh that avoids the limitations of traditional request-response systems",
+    "image": "https://files.speakerdeck.com/presentations/1b21a338d96e483c9df284026bea2fbf/preview_slide_0.jpg?40017454",
+    "fetched_at": "2026-07-17 22:16:40",
+    "ja_summary": "・従来の対話型AIから、イベント駆動で自律的に動作するAIエージェントへの移行を解説。\n・ストリーミングデータで常時状況を把握し、静的なプロンプトに頼らないリアルタイム性を実現。\n・イベントログを記憶として活用することで、ミッションクリティカルな現場にも耐えうる堅牢なAI網を構築する手法。"
+  },
+  {
     "title": "ChatGPT Work のクイックスタート",
     "link": "https://note.com/npaka/n/ne1f9886fd98d",
     "source": "note (npaka)",
@@ -928,75 +998,5 @@
     "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Ftech-festa-ogp-background-4b5015b2c518c7e6b9062a7c9f5f5e90.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYxNjMzODU2JTJGYzIyNmJjMzRhYzZjNDVhMjFmNWU1MTJkMWM3MmE2ZjA5NzQ5NDU3OCUyRnhfbGFyZ2UucG5nJTNGMTY5OTk1NDk3Nj9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9MTlhZDI4ODRkNmQ2MzEyNjMxZDJkNTBjOTZmOTA5ZjU%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYxZTIwZGI1ZTdlNDA3ZWFlN2I5NzBlYzk5OTg4MGRjOGMzY2MwZjY0JTJGb3JpZ2luYWwuanBnJTNGMTY2NzI3NDk2Mz9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz04OTI0NDcwMDk1MDMyZjUxYmZlNzE3ZjVkOGUzYmE3ZA%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3Dbb59006175a60e1b630ed499046d0424?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJTkwJUUzJTgzJThGJUUzJTgzJUIzJUUzJTgyJUJBJUUzJTgyJUFBJUUzJTgzJUIzJUUzJTgwJTkxQWdlbnRDb3JlJUU2JTlDJTgwJUU2JTk2JUIwJUU2JUE5JTlGJUU4JTgzJUJEJUUzJTgxJUE3UkFHJTIwJTI2JTIwQUklRTMlODIlQTglRTMlODMlQkMlRTMlODIlQjglRTMlODIlQTclRTMlODMlQjMlRTMlODMlODglRTYlQTclOEIlRTclQUYlODklRTMlODElQUIlRTUlODUlQTUlRTklOTYlODAlRUYlQkMlODEmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyM0ZGRkZGRiZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1iNWM0NmE2MWVjMTA1NjdkNjQyNzYxZWQxZmU1ZWUzNQ&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBtaW5vcnVuMzY1JnR4dC1jb2xvcj0lMjNGRkZGRkYmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9NDNhZjg0MGViODE0MzBhMmQyODM2OGUyY2Y0NjIwMTY&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=S0RESeOCouOCuOODo-OCpOODq-mWi-eZuuOCu-ODs-OCv-ODvOagquW8j-S8muekvg&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%23FFFFFF&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=4e7cf7aeafdf1fc5c0f3e8a98fdde5fe",
     "fetched_at": "2026-07-17 08:37:00",
     "ja_summary": "・「AgentCore」を活用し、RAGとAIエージェントをローコードで構築できる無料のハンズオン教材が公開。\n・30分〜1時間で完了する内容で、誰でも好きなタイミングで学習・体験が可能。\n・AI開発の入門として、効率的に構築手法を習得できる。"
-  },
-  {
-    "title": "｢福祉国家という比較優位｣欧州がAI時代の勝ち組になる…消費税主導の再分配政策は｢AI失業｣で真価を発揮 | 政治・経済・投資 | 東洋経済オンライン",
-    "link": "https://toyokeizai.net/articles/-/951766?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-    "source": "東洋経済オンライン",
-    "published": "Fri, 17 Jul 2026 07:00:00 +0900",
-    "summary": "AI革命の波に押され､中国やアメリカに後れを取る欧州。しかし､厳しい現実の裏側で､｢余暇や生活を重視する社会システム｣と強固な再分配政策が､むしろAI時代の新たな価値となる可能性が浮かび上がります。",
-    "image": "https://tk.ismcdn.jp/mwimgs/9/2/1200w/img_92db7cf4e00b37da3e3f56654e3008c151407.jpg?nextgen=false",
-    "fetched_at": "2026-07-17 07:38:14",
-    "ja_summary": "・AI技術で先行する米中に遅れをとる欧州だが、強固な社会保障と再分配政策がAIによる失業リスクのセーフティネットとなる。\n・「労働より余暇や生活を重視する」欧州の価値観が、AIによる自動化が進む時代の新たな強みとして評価されている。\n・福祉国家としてのシステムが、AI時代の社会不安を抑え、持続可能な経済成長を支える切り札になると期待されている。"
-  },
-  {
-    "title": "副業人材を“数合わせ”に使う企業はもう手遅れ!?　生成AI時代の採用難に負けない、IT人材戦略のイロハ",
-    "link": "https://www.itmedia.co.jp/business/articles/2607/17/news003.html",
-    "source": "ITmedia ビジネス",
-    "published": "Fri, 17 Jul 2026 07:00:00 +0900",
-    "summary": "副業エンジニアの受け入れに関心はあるものの、一歩を踏み出せていない企業は少なくありません。新しい副業時代において、企業が人材難に陥らないための考え方や、人材戦略の再設計について考察します。",
-    "image": "https://image.itmedia.co.jp/business/articles/2607/17/cover_news003.jpg",
-    "fetched_at": "2026-07-17 07:38:15",
-    "ja_summary": "・生成AI時代の深刻な採用難に対し、副業人材を「数合わせ」と見なす従来の安易な活用法では太刀打ちできない。\n・副業エンジニアの活用には、単なる外部リソース補充ではなく、組織戦略としての再設計が不可欠。\n・持続可能な人材獲得のため、企業は副業受け入れを通じた戦略的な組織づくりへと転換すべきである。"
-  },
-  {
-    "title": "Anthropicと組んだNEC　それでも森田社長が「4つの主権」にこだわる真意",
-    "link": "https://www.itmedia.co.jp/business/articles/2607/16/news025.html",
-    "source": "ITmedia ビジネス",
-    "published": "Thu, 16 Jul 2026 07:00:00 +0900",
-    "summary": "米Anthropicとわずか3週間で電撃提携し、日本企業初のパートナーとなったNEC。最新AI「Mythos」が誇るバグ発見能力を巡り、サイバー悪用のリスクへ各国の懸念が高まる中、いかにして「実装」の壁を越え、自らを守るのか。森田隆之社長が語る「4つの主権（ソブリン）」の真意と、AI時代の防衛線と世界戦略の核心を明かす。",
-    "image": "https://image.itmedia.co.jp/business/articles/2607/16/cover_news025.jpg",
-    "fetched_at": "2026-07-17 07:38:17",
-    "ja_summary": "NECが米Anthropicと提携し、最新AIの日本導入を加速。\nサイバーリスクが懸念される中、森田社長は「4つの主権」を掲げ、安全性と自律性を確保したAI実装を目指す。\n世界戦略と防衛線を両立させ、AI時代の競争優位性を確立する狙い。"
-  },
-  {
-    "title": "グーグル陣営のノーベル賞科学者　アンソロピックに移籍の波紋",
-    "link": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/052100112/070700142/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "タンパク質に関するAI（人工知能）、いわゆる「プロテインAI」が注目されている。2024年のノーベル化学賞はプロテインAIを手がける3人の科学者が受賞した。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/052100112/070700142/topm.jpg?20220512",
-    "fetched_at": "2026-07-17 07:38:25",
-    "ja_summary": "・2024年ノーベル化学賞は「プロテインAI」の研究者が受賞し、技術への注目が急騰。\n・Google陣営の科学者がライバル企業のアンソロピックへ移籍し、業界に波紋。\n・プロテインAIの技術覇権を巡る、トップ人材の引き抜き競争が激化している。"
-  },
-  {
-    "title": "AI BOM（AI Bill of Materials）",
-    "link": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020600009/070700227/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "AI BOMとは、AIモデルを含むシステムについて、構成要素を一覧化・管理する仕組みのこと。ソフトウエア管理に用いられるSBOMをAI向けに拡張したもの。利用するモデルや学習データ、モデルの重みやファインチューニングの有無などを記載する。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020600009/070700227/topm.jpg?20220512",
-    "fetched_at": "2026-07-17 07:38:26",
-    "ja_summary": "・AIの構成要素（モデル、学習データ、調整履歴など）を一覧化・管理する仕組み。\n・ソフトウエア管理の「SBOM」をAI向けに拡張し、透明性と信頼性を確保する。\n・AI開発や運用の安全性向上を目的に、システム構成を可視化するもの。"
-  },
-  {
-    "title": "「AI駆動型ワーム」の脅威　自律的に脆弱性を見つけて感染",
-    "link": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/052100113/070700190/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "大きな被害をもたらしてきたサイバー攻撃の1つが「ワーム」である。ワームは、特定の脆弱性を悪用して感染を広げる。そのため、修正プログラム（パッチ）を適用するなどして該当の脆弱性を修正すれば、通常はワームの感染拡大を防げる。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/052100113/070700190/topm.jpg?20220512",
-    "fetched_at": "2026-07-17 07:38:27",
-    "ja_summary": "・AIが自律的に脆弱性を見つけ出し感染を広げる「AI駆動型ワーム」の脅威が増大している。\n・従来のワームは既知の脆弱性への対策で防げたが、AI型はより高度な攻撃が可能。\n・AI技術を悪用した新たなサイバー攻撃への備えと警戒が必要となっている。"
-  },
-  {
-    "title": "生成AIバブルの崩壊は「必然」　それでも気にする必要がない訳",
-    "link": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020600007/070700221/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "「今の生成AI（人工知能）ブームはバブルですか」と聞かれれば、私は「バブルに決まっています」と答えることにしている。そして「バブルは崩壊しますか」と聞かれれば「崩壊するに決まっています」と答える。ただし、これは人によってだが、「気にする必要はありません」とも付け加えるようにしている。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020600007/070700221/topm.jpg?20220512",
-    "fetched_at": "2026-07-17 07:38:27",
-    "ja_summary": "・現在の生成AIブームはバブルであり、いずれ崩壊することは避けられない。\n・しかし、その崩壊は技術進化の過程に過ぎず、過度に恐れる必要はない。\n・長期的な視点で見れば、AIが社会やビジネスに不可欠な存在である事実に変わりはない。"
   }
 ]
