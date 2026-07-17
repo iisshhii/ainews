@@ -1,5 +1,25 @@
 [
   {
+    "title": "iPhone 17シリーズが価格改定　1.3万～2.5万円値上げ",
+    "link": "https://www.watch.impress.co.jp/docs/news/2126284.html",
+    "source": "Impress Watch",
+    "published": "",
+    "summary": "アップルは18日、iPhone 17シリーズを価格改定した。iPhone 17は1.3万円、iPhone 17 Proは1.5万～2万円、iPhone 17 Pro Maxは2万～2.5万円の値上げとなる。また、iPhone Airも1.8万円値上げされる。",
+    "image": "https://www.watch.impress.co.jp/img/ipw/list/2126/284/i01.jpg",
+    "fetched_at": "2026-07-18 02:23:01",
+    "ja_summary": "・iPhone 17シリーズ全機種で価格改定を実施\n・各モデル1.3万〜2.5万円の大幅値上げ\n・iPhone Airを含む全ラインナップが対象"
+  },
+  {
+    "title": "[Droidcon Orlando '26] The Android Lens: Applying Mobile Forensics to AI Performance",
+    "link": "https://speakerdeck.com/amanda_hinchman/droidcon-orlando-26-the-android-lens-applying-mobile-forensics-to-ai-performance",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-07-17T11:57:23-04:00",
+    "summary": "Modern LLMs like Ollama are technically ground-breaking but suffer from significant thermal and energy inefficiencies on resource-constrained hardware. This is often an overlooked cost of LLM's deterministic nature of token generation along with the heavy, unoptimized CPU operations within the underlying math engines.\n\nHigh energy demand translates to high water usage and thermal dissipation needs. For many communities, this environmental footprint makes local AI inaccessible or unsustainable. To solve this, we must adopt a more \"frugal\" philosophy, the way Android development does.\n\nThis talk explores the forensics of loading Llama 3.2 (1B) onto a Raspberry Pi 4 to emulate resource constraint conditions. Through the lens of Android and Kotlin multiplatform development - molded and developed in its nature of resource-constrained hardware - we will audit Ollama's source code and profile how it performs in real time. We will move past the high-level Go wrappers and into the unforgiving C++ threading and memory management, identifying the leaks and bottlenecks leading AI to drown in thermal throttling and hallucinations. \n\nAttendees will learn:\n- How to apply mobile performance patterns (like scoped locking) to AI engines.\n- How to monitor real-time hardware telemetry (thermal/RAM) against token generation speed.\n- Why \"frugal computing philosophy\" is an ethical necessity for sustainable AI deployment needed to save our fresh water resources.",
+    "image": "https://files.speakerdeck.com/presentations/0f74a12aa3284670bd1a01260a262416/preview_slide_0.jpg?40019402",
+    "fetched_at": "2026-07-18 02:23:42",
+    "ja_summary": "・AIのLLM（大規模言語モデル）が抱える高負荷な電力・熱消費の問題を、モバイル開発の知見で最適化する手法を解説。\n・Raspberry Pi上でLlama 3.2を解析し、メモリ管理やスレッド処理のボトルネックを特定・改善する技術を紹介。\n・リソース制限下での効率化「節約型コンピューティング」を提唱し、持続可能なAI運用の実現を目指す。"
+  },
+  {
     "title": "コードを書かせるだけは、正直もったいない。Claude Codeを「先生」として使い倒す5つのプロンプト",
     "link": "https://qiita.com/jqit_suwa/items/2f38d32328996d826d48",
     "source": "Qiita (Popular)",
@@ -978,25 +998,5 @@
     "image": "https://www.watch.impress.co.jp/img/ipw/list/2125/584/gs4.jpg",
     "fetched_at": "2026-07-17 08:36:25",
     "ja_summary": "・GoogleのAIエージェント「Gemini Spark」が日本で提供開始。\n・情報収集やスケジュール調整、旅行手配などを24時間自動で代行。\n・「Gemini」アプリのUltraプラン（月額14,500円〜）にて順次利用可能。"
-  },
-  {
-    "title": "NVIDIAフアンCEO、日本について熱弁　一問一答（全文）",
-    "link": "https://japan.cnet.com/article/35250691/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "「今の日本経済の制約は人の数だ」――。米NVIDIAのジェンスン・フアンCEOは7月16日、国産AI基盤モデルを開発する国家プロジェクト「FRONTia（フロンティア）」のキックオフイベント後、日本メディアの囲み取材に応じ、日本がAIとロボティクスによって再び産業の主導権を握ると述べた。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35250691/\"><img src=\"https://japan.cnet.com/storage/2026/07/17/7d49db29539c5383130255b6c989c428/t/184/138/d/IMG_2191.jpeg\" /></a>",
-    "image": "https://japan.cnet.com/storage/2026/07/17/7d49db29539c5383130255b6c989c428/t/184/138/d/IMG_2191.jpeg",
-    "fetched_at": "2026-07-17 08:36:27",
-    "ja_summary": "・NVIDIAのフアンCEOは、日本がAIとロボティクスを活用することで産業の主導権を再び握れると展望を示した。\n・人口減少が経済の制約となっている日本にとって、AIによる生産性向上が不可欠であると指摘。\n・国産AI開発プロジェクトを通じ、技術革新による日本経済の再浮上に期待を寄せた。"
-  },
-  {
-    "title": "「AIは動画をちゃんと見ない」問題を解決する「claude-real-video」、WebサイトにAI組み込める軽量ライブラリ「ternlight」など生成AI技術5つを解説（生成AIウィークリー）",
-    "link": "https://www.techno-edge.net/article/2026/07/17/5304.html",
-    "source": "TechnoEdge",
-    "published": "Fri, 17 Jul 2026 07:51:53 +0900",
-    "summary": "今回の「生成AIウィークリー」（第152回）は、テンセントの2950億パラメータAIモデル「Hy3」や、AIに“しっかり”視聴させるツール「claude-real-video」を取り上げます。",
-    "image": "https://www.techno-edge.net/imgs/rss/32995.jpg",
-    "fetched_at": "2026-07-17 08:36:32",
-    "ja_summary": "・AIの動画理解を向上させる「claude-real-video」やWeb組込用ライブラリ「ternlight」が登場。\n・テンセントの巨大モデル「Hy3」など、最新の生成AI技術5選を詳しく解説。\n・生成AIの技術トレンドと実用的なツールを網羅した週刊アップデート。"
   }
 ]
