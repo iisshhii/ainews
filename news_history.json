@@ -1,5 +1,185 @@
 [
   {
+    "title": "富士通・ファナック・安川・川崎重工が結集　エヌビディアと「フィジカルAI」始動",
+    "link": "https://www.itmedia.co.jp/business/articles/2607/16/news097.html",
+    "source": "ITmedia ビジネス",
+    "published": "Thu, 16 Jul 2026 17:59:00 +0900",
+    "summary": "富士通は16日、ファナック、安川電機、川崎重工業の3社とともにAIが自律的にロボットを制御する「フィジカルAI」分野で、半導体大手エヌビディアの技術などを用い協業すると発表した。",
+    "image": "https://image.itmedia.co.jp/business/articles/2607/16/cover_news097.jpg",
+    "fetched_at": "2026-07-17 15:34:26",
+    "ja_summary": "・富士通とロボット大手3社が、エヌビディアと「フィジカルAI」開発で連携\n・AIが自律的にロボットを制御する次世代技術の確立を目指す\n・産業用ロボットの高度化と製造現場の自動化を加速させる狙い"
+  },
+  {
+    "title": "みずほFGがAIエージェント3000体構想、銀行業務全体をAI前提で再設計へ",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11900/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "みずほフィナンシャルグループがAIエージェントの導入を加速させている。一部業務の自動化にとどまらず、業務プロセス全体をAI前提で再設計する「AIネイティブプロセス」と呼ぶ取り組みに着手。15領域・100業務プロセスで3000体以上のAIエージェントを導入する方針を表明した。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11900/topm.jpg?20220512",
+    "fetched_at": "2026-07-17 15:34:33",
+    "ja_summary": "・みずほFGが「AIネイティブ」へ業務プロセスを抜本的に再設計。\n・15領域・100業務で3000体以上のAIエージェントを導入へ。\n・一部の自動化にとどまらず、銀行業務全体をAI前提の仕組みへ移行。"
+  },
+  {
+    "title": "国産AI開発のノエトラ、NVIDIAのGPU2万7500基で「実世界モデル」構築へ",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03688/071700006/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "ソフトバンクやNEC、ソニーグループ、ホンダの4社を中核企業として立ち上がったNoetra（ノエトラ）が、フィジカルAI向けの「実世界モデル」を構築する。言語・画像・音声・動画・センシングを理解できる、1兆パラメーター規模の推論基盤を持ったマルチモーダル基盤モデルだ。米エヌビディアのGPUを約2万7500基使ったデータセンターなどで開発する。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03688/071700006/topm.jpg?20220512",
+    "fetched_at": "2026-07-17 15:34:34",
+    "ja_summary": "・ソフトバンク、NEC、ソニー、ホンダが新会社「Noetra」を設立。\n・NVIDIAのGPU2万7500基を活用し、1兆パラメーター規模の巨大AI基盤を構築。\n・言語や映像、センシングを統合理解する「実世界モデル」により、フィジカルAIの実現を目指す。"
+  },
+  {
+    "title": "ChatGPT Workとはなにか　AIエージェントが変える“仕事”のあり方",
+    "link": "https://www.watch.impress.co.jp/docs/topic/2125914.html",
+    "source": "Impress Watch",
+    "published": "",
+    "summary": "ChatGPTと\"コーディングエージェント”の「Codex」が統合した新しい「ChatGPT」デスクトップアプリが10日に登場した。",
+    "image": "https://www.watch.impress.co.jp/img/ipw/list/2125/914/cw01.jpg",
+    "fetched_at": "2026-07-17 15:34:37",
+    "ja_summary": "・デスクトップ版ChatGPTにコーディングエージェント「Codex」が統合された新アプリが登場。\n・AIが単なる対話ツールから、自律的に業務を遂行するエージェントへと進化。\n・AIが作業を代行することで、今後の仕事の進め方やあり方が大きく変化する。"
+  },
+  {
+    "title": "欧州DMA、Androidに“代替AI”開放要求　Googleは反発",
+    "link": "https://www.watch.impress.co.jp/docs/news/2126071.html",
+    "source": "Impress Watch",
+    "published": "",
+    "summary": "欧州委員会は、デジタル市場法(DMA)に基づき、Googleに対して2つの拘束力のあるガイドラインを提示した。ひとつはAndroid上でのサードパーティ製AIの取扱いについてで、もうひとつはGoogleの検索データにサードパーティ製検索エンジンがアクセスできるようにすること。どちらも競争環境の確保や“バランスの再調整”を念頭に置いたものとしている。Googleは、プライバシーやセキュリティを危険に晒すとして反発している。",
+    "image": "https://www.watch.impress.co.jp/img/ipw/list/2126/071/eug00.jpg",
+    "fetched_at": "2026-07-17 15:34:37",
+    "ja_summary": "・欧州委員会がDMAに基づき、Googleにサードパーティ製AIや検索データの開放を要求。\n・競争環境の是正を目的とするが、Googleはセキュリティ上の懸念から強く反発している。\n・欧州での独占禁止規制が、GoogleのAI・検索戦略に大きな影響を及ぼしつつある。"
+  },
+  {
+    "title": "ChatGPTに「敬語で話す」人の割合は？ ドコモ調査",
+    "link": "https://japan.cnet.com/article/35250733/",
+    "source": "CNET Japan",
+    "published": "",
+    "summary": "NTTドコモのモバイル社会研究所は7月16日、生成AIへの話しかけ方に関する調査結果を発表した。ChatGPTなどの生成AIに「敬語で話す」人は15%、「あだ名をつけている」人は9%。単なる道具ではなく、会話の相手のように接する人が1〜2割いることがわかった。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35250733/\"><img src=\"https://japan.cnet.com/storage/2026/07/17/48e8cb5036f488352bb5483fd202cd0d/t/184/138/d/large_.jpg\" /></a>",
+    "image": "https://japan.cnet.com/storage/2026/07/17/48e8cb5036f488352bb5483fd202cd0d/t/184/138/d/large_.jpg",
+    "fetched_at": "2026-07-17 15:34:40",
+    "ja_summary": "・ドコモの調査で、生成AIに敬語を使う人は15%、あだ名を付ける人は9%と判明。\n・ユーザーの1〜2割が、生成AIを単なるツールではなく対話相手として扱っている。"
+  },
+  {
+    "title": "グーグルのAI動画ツール「Vids」にGemini Omni導入、「自分が登場する動画」も簡単に",
+    "link": "https://japan.cnet.com/article/35250727/",
+    "source": "CNET Japan",
+    "published": "",
+    "summary": "グーグルは、AI動画作成ツール「Google Vids」の2つのアップデートを発表した。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35250727/\"><img src=\"https://japan.cnet.com/storage/2026/07/17/f99066e202fca64f946cff940dffc49b/t/184/138/d/googleworkspace-video_1280x960.jpg\" /></a>",
+    "image": "https://japan.cnet.com/storage/2026/07/17/f99066e202fca64f946cff940dffc49b/t/184/138/d/googleworkspace-video_1280x960.jpg",
+    "fetched_at": "2026-07-17 15:34:40",
+    "ja_summary": "・グーグルのAI動画作成ツール「Google Vids」に高性能モデル「Gemini Omni」が導入。\n・AIが指示に応じて動画を自動生成し、自分自身が登場する動画も簡単に作成可能に。\n・業務効率化を支援する機能強化により、プロ並みの動画制作がより手軽になる。"
+  },
+  {
+    "title": "ChatGPT Sites のクイックスタート",
+    "link": "https://note.com/npaka/n/n731339e77c27",
+    "source": "note (npaka)",
+    "published": "Mon, 13 Jul 2026 07:31:44 +0900",
+    "summary": "<p id=\"851c5238-09ad-4d4b-b9b3-3dfb887ce014\" name=\"851c5238-09ad-4d4b-b9b3-3dfb887ce014\">ChatGPT Sites のクイックスタートをまとめました。</p><br /><br /><a href=\"https://note.com/npaka/n/n731339e77c27\">続きをみる</a>",
+    "image": "https://assets.st-note.com/production/uploads/images/293885718/rectangle_large_type_2_6f3a9c59801259968c59d089228fb891.png?width=800",
+    "fetched_at": "2026-07-17 15:34:45",
+    "ja_summary": "OpenAIの「ChatGPT Sites」の利用開始に向けた手順がまとめられたガイド。\nウェブサイトの作成や管理をChatGPT上で効率的に行うためのクイックスタート情報。\n詳細は記載のnote記事にて確認可能。"
+  },
+  {
+    "title": "LingBot の6つのロボットAIモデルまとめ",
+    "link": "https://note.com/npaka/n/n75896ac486a7",
+    "source": "note (npaka)",
+    "published": "Sat, 11 Jul 2026 23:34:27 +0900",
+    "summary": "<p id=\"6ed4fb7a-5a90-4eb9-aed8-44ffc77ccf8d\" name=\"6ed4fb7a-5a90-4eb9-aed8-44ffc77ccf8d\">「LingBot」の6つのロボットAIモデルについてまとめました。</p><br /><br /><a href=\"https://note.com/npaka/n/n75896ac486a7\">続きをみる</a>",
+    "image": "https://assets.st-note.com/production/uploads/images/293527894/rectangle_large_type_2_8331dd3883c774de3efffee4fcd488ea.png?width=800",
+    "fetched_at": "2026-07-17 15:34:45",
+    "ja_summary": "・AIエージェント「LingBot」が展開する6つのロボット制御用AIモデルを整理。\n・各モデルの特性や役割を把握し、用途に応じた使い分けが可能。\n・ロボット開発におけるAIモデル選定の参考情報として活用できる。"
+  },
+  {
+    "title": "GPT-5.6 Sol ・ Terra ・ Luna のリリース",
+    "link": "https://note.com/npaka/n/n5cc5fc5ad25f",
+    "source": "note (npaka)",
+    "published": "Fri, 10 Jul 2026 02:25:40 +0900",
+    "summary": "<p id=\"792be65f-8b15-4dac-b87d-bca0a0dcf43f\" name=\"792be65f-8b15-4dac-b87d-bca0a0dcf43f\">以下の記事が面白かったので、簡単にまとめました。</p><figure id=\"7f52065a-4a71-4071-b7b9-2515b606277b\" name=\"7f52065a-4a71-4071-b7b9-2515b606277b\"><blockquote><p id=\"507798e5-7ed0-4e30-98a0-cb82e6b01979\" name=\"507798e5-7ed0-4e30-98a0-cb82e6b01979\"><strong>・</strong><a href=\"https://openai.com/index/gpt-5-6/\" rel=\"nofollow noopener\" target=\"_blank\"><strong>GPT-5.6: Frontier intelligence that scales with your ambition</strong></a> </p></blockquote>\n<figcaption></figcaption></figure><br /><a href=\"https://note.com/npaka/n/n5cc5fc5ad25f\">続きをみる</a>",
+    "image": "https://assets.st-note.com/production/uploads/images/292986741/rectangle_large_type_2_232e0ad8396e6105e236930924cc2861.jpeg?width=800",
+    "fetched_at": "2026-07-17 15:34:45",
+    "ja_summary": "OpenAIが最新モデル「GPT-5.6」シリーズ（Sol、Terra、Luna）を発表。\nそれぞれのモデルは用途や規模に応じた性能を備え、高度な推論能力を実現。\n個人の野心やビジネスの目標に合わせて最適な知能を選択・活用可能。"
+  },
+  {
+    "title": "国産AI開発 現場データに勝ち筋",
+    "link": "https://news.yahoo.co.jp/pickup/6588259?source=rss",
+    "source": "Yahoo!ニュース IT・科学",
+    "published": "Fri, 17 Jul 2026 04:29:49 GMT",
+    "summary": "",
+    "image": "https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/satohitoshi/02667874/title-1784207222092.jpeg?exp=10800",
+    "fetched_at": "2026-07-17 15:34:46",
+    "ja_summary": "・国産AIは、汎用的なモデルではなく各現場特有の「実データ」を活用することで競争力を高める戦略をとる。\n・日本の製造やサービス現場に蓄積された高品質なデータとAIを融合させ、専門性を強みに独自価値を創出する。\n・グローバル企業との単純な規模競争を避け、現場ニーズへの適合性を武器にした開発が今後の勝ち筋となる。"
+  },
+  {
+    "title": "自律するAIエージェントの本番投入に潜むリスク、PwCが示す統制保証水準「AI-CAL」",
+    "link": "https://japan.zdnet.com/article/35250726/",
+    "source": "ZDNET Japan",
+    "published": "",
+    "summary": "PwCコンサルティングとトレンドマイクロは、共同レポート「自律するAIの時代－AIエージェントのサイバーリスクと実践的ガバナンス」を発表し、報道機関向けに説明会を開催した。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35250726/\"><img src=\"https://japan.zdnet.com/storage/2026/02/06/d5d96cb5bc07bf313ebcd01839572c67/t/184/138/d/260206_agentsecurity_as_1280_1888484814.jpg\" /></a>",
+    "image": "https://japan.zdnet.com/storage/2026/02/06/d5d96cb5bc07bf313ebcd01839572c67/t/184/138/d/260206_agentsecurity_as_1280_1888484814.jpg",
+    "fetched_at": "2026-07-17 15:34:48",
+    "ja_summary": "PwCとトレンドマイクロは、自律型AIエージェントの導入に伴うサイバーリスクを警告する共同レポートを発表した。\nAIの自律的な判断がもたらす脅威に対し、新たな統制保証枠組み「AI-CAL」を提唱。\nAIを本番環境へ安全に実装するための、実践的なガバナンスの必要性を説いている。"
+  },
+  {
+    "title": "【ガバメントAI 源内活用事例】冨安デジタル審議官が語る「源内は相棒」を掲載しました",
+    "link": "https://www.digital.go.jp/policies/genai/movie_20260717",
+    "source": "デジタル庁",
+    "published": "Fri, 17 Jul 2026 15:00:00 +0900",
+    "summary": "",
+    "image": "https://www.digital.go.jp/assets/contents/node/basic_page/field_thumbnail_image/fb6a915b-928b-4f70-878b-6525c9875071/1145099a/260717__customer%20success.jpg",
+    "fetched_at": "2026-07-17 15:34:50",
+    "ja_summary": "・デジタル庁の生成AIサービス「源内」の活用事例が公開された。\n・冨安デジタル審議官が、業務効率化の「相棒」としての活用法を語っている。\n・行政業務におけるAI導入の具体的な効果と活用実態が示された。"
+  },
+  {
+    "title": "第5回先進的AI利活用アドバイザリーボードの会議資料等を掲載しました",
+    "link": "https://www.digital.go.jp/councils/ai-advisory-board/770d4c48-7f40-49a6-a49d-56a763800a42",
+    "source": "デジタル庁",
+    "published": "Tue, 14 Jul 2026 16:08:31 +0900",
+    "summary": "",
+    "image": "https://www.digital.go.jp/themes/custom/gov_theme_da_2023/assets/images/ogp.png",
+    "fetched_at": "2026-07-17 15:34:51",
+    "ja_summary": "・第5回「先進的AI利活用アドバイザリーボード」の会議資料が公開された\n・AI利活用の推進に向けた議論の内容や検討資料を確認できる\n・詳細は内閣府の公式サイトにて閲覧可能"
+  },
+  {
+    "title": "The US is advancing AI safety through state and federal action",
+    "link": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
+    "source": "OpenAI",
+    "published": "Wed, 15 Jul 2026 12:00:00 GMT",
+    "summary": "OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/C8LVPcOuyeD3G5OalCrVN/16094efa3ff169506c97c14ec2b71f8a/Frame.png?w=1600&amp;h=900&amp;fit=fill",
+    "fetched_at": "2026-07-17 15:34:52",
+    "ja_summary": "・OpenAIが「逆連邦主義」に基づくAI規制のアプローチを提唱。\n・州単位の規制を先行・蓄積し、国家レベルの統一的なAI枠組みを構築する。\n・安全で民主的なAI開発に向け、連邦と州が連携するガバナンスを目指す。"
+  },
+  {
+    "title": "UST is bringing Claude to physical AI",
+    "link": "https://www.anthropic.com/news/ust-claude",
+    "source": "Anthropic (News)",
+    "published": "Thu, 09 Jul 2026 00:00:00 +0000",
+    "summary": "UST is bringing Claude to physical AI",
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Build&amp;backgroundColor=coral",
+    "fetched_at": "2026-07-17 15:35:08",
+    "ja_summary": "・ITサービス企業のUSTが、生成AI「Claude」を物理的なロボットやデバイスに応用する技術を導入。\n・物理空間での作業や操作に高度なAI推論を統合し、現場業務の自動化・効率化を促進。\n・企業が物理的AIを導入・活用するための環境とソリューション提供を強化する。"
+  },
+  {
+    "title": "「作って終わり」を卒業する  『MLflowで実践するLLMOps』著者と学ぶ もくもく会",
+    "link": "https://speakerdeck.com/taka_aki/zuo-tutezhong-wari-wozu-ye-suru-mlflowdeshi-jian-surullmops-zhu-zhe-toxue-bu-mokumokuhui",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-07-17T01:03:14-04:00",
+    "summary": "「作って終わり」を卒業する──著者と学ぶMLflow LLMOpsもくもく会 - connpass https://jedai.connpass.com/event/399094/\n\nこちらのイベントの座学資料です。",
+    "image": "https://files.speakerdeck.com/presentations/c30e04b0dccd4f7c87c033da699c5c12/preview_slide_0.jpg?40012678",
+    "fetched_at": "2026-07-17 15:35:10",
+    "ja_summary": "・LLMアプリの開発・運用（LLMOps）の実践手法を学ぶ勉強会。\n・MLflowを活用し、モデルを「作って終わり」にしない運用基盤の構築を目指す。\n・書籍の著者と共に、ハンズオン形式で技術を習得するコミュニティイベント。"
+  },
+  {
+    "title": "そのスキル、本当に効いてる？ Agent Skills を「評価」する3つのツールを比べてみた",
+    "link": "https://qiita.com/Syoitu/items/78d45bee1160d059c972",
+    "source": "Qiita (Popular)",
+    "published": "2026-07-09T17:00:07+09:00",
+    "summary": "## 前書き\n\n2025 年 10 月に Anthropic が Agent Skills（以下スキル）を発表して以来、すっかり身近な存在になりました。\n\nhttps://www.anthropic.com/news/skills\n\n作業手順を `SKILL.md` に明文化してエージェントに渡せば、AI が書いた通りに作業してくれます。\n一見とても便利ですが実際に使い込んでいると、ふと不安になり",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Ftech-festa-ogp-background-4b5015b2c518c7e6b9062a7c9f5f5e90.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFtYXpvbmF3cy5jb20lMkYwJTJGMzIwMTY0JTJGcHJvZmlsZS1pbWFnZXMlMkYxNTQzMzExNzUyP2l4bGliPXJiLTQuMS4xJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz0wNGFkMDZhZjhkNDE3NDcxNTk2NGE0ZmZmNTNmMGQxMw%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYxZTIwZGI1ZTdlNDA3ZWFlN2I5NzBlYzk5OTg4MGRjOGMzY2MwZjY0JTJGb3JpZ2luYWwuanBnJTNGMTY2NzI3NDk2Mz9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz04OTI0NDcwMDk1MDMyZjUxYmZlNzE3ZjVkOGUzYmE3ZA%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D0db5e6259bef720891efe507901d3252?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgxJTlEJUUzJTgxJUFFJUUzJTgyJUI5JUUzJTgyJUFEJUUzJTgzJUFCJUUzJTgwJTgxJUU2JTlDJUFDJUU1JUJEJTkzJUUzJTgxJUFCJUU1JThBJUI5JUUzJTgxJTg0JUUzJTgxJUE2JUUzJTgyJThCJUVGJUJDJTlGJTIwQWdlbnQlMjBTa2lsbHMlMjAlRTMlODIlOTIlRTMlODAlOEMlRTglQTklOTUlRTQlQkUlQTElRTMlODAlOEQlRTMlODElOTklRTMlODIlOEIzJUUzJTgxJUE0JUUzJTgxJUFFJUUzJTgzJTg0JUUzJTgzJUJDJUUzJTgzJUFCJUUzJTgyJTkyJUU2JUFGJTk0JUUzJTgxJUI5JUUzJTgxJUE2JUUzJTgxJUJGJUUzJTgxJTlGJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjNGRkZGRkYmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9YzkwMTk0MTk2NGMyNGY0MzNiYTIxOGQ0ZDBjMzk3N2Q&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBTeW9pdHUmdHh0LWNvbG9yPSUyM0ZGRkZGRiZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1kNWQ0ZDc5NmZhZTM4NjhjMDdlN2NkMmIwMmM3NWE0NQ&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=S0RESeOCouOCuOODo-OCpOODq-mWi-eZuuOCu-ODs-OCv-ODvOagquW8j-S8muekvg&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%23FFFFFF&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=e005dd7efe5f50c26975ce8221a15589",
+    "fetched_at": "2026-07-17 15:35:13",
+    "ja_summary": "AIエージェントの作業精度を向上させる「Agent Skills」の評価ツール3種を比較検証。\nスキルが正しく機能しているかを定量的に判断するための手法を解説。\n運用の不安を解消し、業務効率を最大化するための選定基準を提示。"
+  },
+  {
     "title": "AIをすべての人の道具へ､ChatGPTでもClaudeでもない｢仕事を終わらせるAI｣の正体に迫る | ビジネス | 東洋経済オンライン",
     "link": "https://toyokeizai.net/articles/-/951619?utm_source=rss&utm_medium=http&utm_campaign=link_back",
     "source": "東洋経済オンライン",
@@ -818,185 +998,5 @@
     "image": "https://xtech.nikkei.com/atcl/nxt/mag/ne/18/00151/00003/topm.jpg?20220512",
     "fetched_at": "2026-07-17 05:33:34",
     "ja_summary": "・シーメンスが製造現場でのAI活用を、従来の支援から「機械の自律制御」へと進化させる。\n・AIが現場の状況をリアルタイムで判断し、未知の事態にも柔軟かつ自律的に対応する。\n・工場の最適化と生産効率の抜本的な向上を目指す。"
-  },
-  {
-    "title": "BMWが車3万台の製造に人型ロボット、シェフラーは基幹部品の設計に知見応用",
-    "link": "https://xtech.nikkei.com/atcl/nxt/mag/ne/18/00151/00002/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "BMWグループやSchaeffler（シェフラー）といったドイツの大手メーカーが自社工場への人型ロボット（ヒューマノイド）をはじめとする「フィジカルAI（人工知能）」の導入を本格化している。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/mag/ne/18/00151/00002/topm.jpg?20220512",
-    "fetched_at": "2026-07-17 05:33:34",
-    "ja_summary": "・BMWやシェフラーなどの独大手メーカーが、工場への人型ロボット導入を本格化。\n・AIを物理的な動作に応用する「フィジカルAI」の活用を推進。\n・製造プロセスの自動化と効率化に向けた取り組みを加速させている。"
-  },
-  {
-    "title": "米マイクロン、1.5兆円投じ広島で最先端HBM　CEO「かつてない需要」",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11875/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "米半導体大手のMicron Technology（マイクロン・テクノロジー）は広島工場（広島県東広島市）で新製造棟を起工した。人工知能（AI）サーバー向けに、短期記憶用のDRAMやそれを使うHBM（広帯域メモリー）を量産する。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11875/topm.JPG?20220512",
-    "fetched_at": "2026-07-17 05:33:35",
-    "ja_summary": "・米マイクロンが広島工場に新棟を建設し、AIサーバー向け半導体（DRAM・HBM）を量産へ。\n・投資額は1.5兆円規模で、AI市場の爆発的な需要拡大に対応する。\n・最先端メモリーの供給体制を強化し、次世代AI開発を支える重要拠点となる。"
-  },
-  {
-    "title": "何をどう判断しどう行動したのか、AIエージェントを「追跡」するログ設計",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03687/071000003/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "AIエージェントのセキュリティー運用の核心は「ログ設計・運用」と「逸脱検知」にある。ログは「委任境界から逆算」して、なぜその処理をしたのかを説明できる証跡として設計する。運用フェーズでは「継続評価→検知→ログ収集」の3層構造で逸脱を監視し続ける。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03687/071000003/topm.jpg?20220512",
-    "fetched_at": "2026-07-17 05:33:36",
-    "ja_summary": "・AIエージェントの運用は、判断根拠を説明できる「ログ設計」が核心。\n・「委任境界」から逆算し、なぜその処理をしたのか追跡可能な証跡を残す。\n・運用時は「継続評価・検知・収集」の3層構造で、常に逸脱を監視する。"
-  },
-  {
-    "title": "バイブコーディングで本当にアプリはリリースできるのか？エンジニアが実際にアプリをリリースして感じたこと",
-    "link": "https://qiita.com/yutaka_kozuka/items/cc3be5930b972130885d",
-    "source": "Qiita (Popular)",
-    "published": "2026-07-05T11:59:41+09:00",
-    "summary": "## TL;DR\n\nQ: バイブコーディングで本当にアプリをリリースできるのか？  \nA: できました。ただし「商用・セキュア」という条件では、非エンジニアにはまだ厳しいと感じました。\n\n- AI英語学習アプリをゼロから個人開発し、Web・iOS App Store の両方でリリースできました\n- AIは「コードを書くこと」を代替できますが、「何を確認すべきか」の判断は代替できません\n- 一番大変",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Ftech-festa-ogp-background-4b5015b2c518c7e6b9062a7c9f5f5e90.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0MDQ3Mzg5JTJGYjlkMDJiOWVlMWFmYWI4ODNlM2I0ZjQ2ZTg3ZDA3ZjFkNjA5YzlkNSUyRnhfbGFyZ2UucG5nJTNGMTc0MzUxMjU5ND9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9OWRlOWYzMjMyZWQ3ZWExZWY5ZmI2MzRiYzc4YjZiZTg%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D662b8f23d55b88eb8b2ea06fc3953dae?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgzJTkwJUUzJTgyJUE0JUUzJTgzJTk2JUUzJTgyJUIzJUUzJTgzJUJDJUUzJTgzJTg3JUUzJTgyJUEzJUUzJTgzJUIzJUUzJTgyJUIwJUUzJTgxJUE3JUU2JTlDJUFDJUU1JUJEJTkzJUUzJTgxJUFCJUUzJTgyJUEyJUUzJTgzJTk3JUUzJTgzJUFBJUUzJTgxJUFGJUUzJTgzJUFBJUUzJTgzJUFBJUUzJTgzJUJDJUUzJTgyJUI5JUUzJTgxJUE3JUUzJTgxJThEJUUzJTgyJThCJUUzJTgxJUFFJUUzJTgxJThCJUVGJUJDJTlGJUUzJTgyJUE4JUUzJTgzJUIzJUUzJTgyJUI4JUUzJTgzJThCJUUzJTgyJUEyJUUzJTgxJThDJUU1JUFFJTlGJUU5JTlBJTlCJUUzJTgxJUFCJUUzJTgyJUEyJUUzJTgzJTk3JUUzJTgzJUFBJUUzJTgyJTkyJUUzJTgzJUFBJUUzJTgzJUFBJUUzJTgzJUJDJUUzJTgyJUI5JUUzJTgxJTk3JUUzJTgxJUE2JUU2JTg0JTlGJUUzJTgxJTk4JUUzJTgxJTlGJUUzJTgxJTkzJUUzJTgxJUE4JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjNGRkZGRkYmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9YzNhZGUzNGU1NTM0OGNjMzY2N2RhMWQ5ODQxMGU0NzQ&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDB5dXRha2Ffa296dWthJnR4dC1jb2xvcj0lMjNGRkZGRkYmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9YWUwZTJkMGM3NTIwYjEwYjA2MThjNWUyODg0ZTI4MDI&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=6169a42946bc61deb8f8aa23381db164",
-    "fetched_at": "2026-07-17 05:34:23",
-    "ja_summary": "・AIによる「バイブコーディング」でアプリの個人開発・リリースは十分に可能。\n・ただし、商用やセキュリティの観点では専門的な判断が必要なため、非エンジニアには依然としてハードルが高い。\n・AIはコーディングを代行できても、システムの不具合や要件の妥当性を評価するエンジニアのスキルは不可欠。"
-  },
-  {
-    "title": "AI半導体やデータセンターの水養う、ネイチャーポジティブは地域単位で",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03685/071000003/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "AI（人工知能）の急速な進化に合わせて、産業集積が進む熊本や千葉の自治体で、グリーンインフラやネイチャーポジティブを継続的に推進するための産官学の中間支援組織が地域単位で生まれている。整備効果を経済価値に変えるクレジット化も担う。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03685/071000003/sns_41.jpg?20220512",
-    "fetched_at": "2026-07-17 04:38:51",
-    "ja_summary": "・AI産業の拡大に伴い、熊本や千葉などで産官学が連携した地域密着型の中間支援組織が設立された。\n・データセンター等の水資源確保に向け、グリーンインフラやネイチャーポジティブを推進する。\n・整備による環境改善効果を経済価値に変えるクレジット化の仕組み作りも担う。"
-  },
-  {
-    "title": "AIエージェントのID管理に4つの課題、過剰な権限を持たせず「小さく」設計",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03687/071000002/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "AIエージェント時代のID管理には4つの課題がある。解決の鍵は「目的」と「特性」の2軸でエージェントを整理すること。自律レベルが高いほど、権限範囲・承認条件・停止条件を厳密に設計する必要がある。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03687/071000002/topm.jpg?20220512",
-    "fetched_at": "2026-07-17 04:38:51",
-    "ja_summary": "AIエージェントのID管理には4つの課題があり、目的と特性に応じた整理が不可欠。\n自律性が高いAIほど、権限や承認・停止条件を厳密かつ最小限に設計する。\n過剰な権限付与を避け、安全性を担保した「小さく」賢い運用が重要。"
-  },
-  {
-    "title": "〈44社が出資〉国産AI開発のソフトバンク連合｢ノエトラ｣､エヌビディアの次世代GPUを導入して大型データセンター建設 | 政治・経済・投資 | 東洋経済オンライン",
-    "link": "https://toyokeizai.net/articles/-/951830?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-    "source": "東洋経済オンライン",
-    "published": "Fri, 17 Jul 2026 02:17:00 +0900",
-    "summary": "日本政府と民間企業が進める国産AI基盤開発プロジェクトは､エヌビディアの画像処理半導体（GPU）｢ルービン｣を2万7500個超を搭載する次世代AIサーバーを導入する計画だ。計算資源を確保し､国産AI…",
-    "image": "https://tk.ismcdn.jp/mwimgs/e/3/1200w/img_e374c8dead70ce3673d9bfb383d1728a277622.jpg?nextgen=false",
-    "fetched_at": "2026-07-17 03:17:48",
-    "ja_summary": "・ソフトバンク連合のAI開発企業「ノエトラ」が、44社の出資を得て次世代AIサーバーを構築。\n・エヌビディアの最新GPU「ルービン」を2万7500個以上導入し、国内最大級の計算資源を確保。\n・国産AIの開発基盤を強化し、生成AI等の高度な演算需要に対応する。"
-  },
-  {
-    "title": "Anthropic commits $10 million to Canadian AI research",
-    "link": "https://www.anthropic.com/news/canadian-ai-research",
-    "source": "Anthropic (News)",
-    "published": "Tue, 14 Jul 2026 00:00:00 +0000",
-    "summary": "Anthropic commits $10 million to Canadian AI research",
-    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Node%20Globe&amp;backgroundColor=cactus",
-    "fetched_at": "2026-07-17 03:18:34",
-    "ja_summary": "・米AI企業のAnthropicがカナダのAI研究へ1,000万ドル（約15億円）を投資\n・同国におけるAI技術の発展とエコシステム強化を支援\n・北米での開発基盤拡大とAI分野での影響力強化が狙い"
-  },
-  {
-    "title": "Introducing Claude for Teachers",
-    "link": "https://www.anthropic.com/news/claude-for-teachers",
-    "source": "Anthropic (News)",
-    "published": "Tue, 14 Jul 2026 00:00:00 +0000",
-    "summary": "Introducing Claude for Teachers",
-    "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
-    "fetched_at": "2026-07-17 03:18:34",
-    "ja_summary": "・Anthropic社が教育現場向けにAI「Claude for Teachers」を提供開始。\n・授業計画の作成や教材開発、学習支援など教員の業務効率化をサポート。\n・教育におけるAI活用を推進し、教師の事務負担軽減と指導の質向上を目指す。"
-  },
-  {
-    "title": "NemoClaw Deep Agents Blueprint の概要",
-    "link": "https://note.com/npaka/n/ncb081e6b0c52",
-    "source": "note (npaka)",
-    "published": "Thu, 09 Jul 2026 09:05:43 +0900",
-    "summary": "<p id=\"a683919a-4efe-4852-9085-121fc233f484\" name=\"a683919a-4efe-4852-9085-121fc233f484\">以下の記事が面白かったので、簡単にまとめました。</p><figure id=\"372cd4e7-6e89-4cec-9814-c2fc4cbb2d57\" name=\"372cd4e7-6e89-4cec-9814-c2fc4cbb2d57\"><blockquote><p id=\"caa71603-0c16-4167-8ac6-863ce5d9a98e\" name=\"caa71603-0c16-4167-8ac6-863ce5d9a98e\"><strong>・</strong><a href=\"https://www.langchain.com/blog/langchain-and-nvidia-launch-the-nemoclaw-deep-agents-blueprint\" rel=\"nofollow noopener\" target=\"_blank\"><strong>LangChain and NVIDIA launch the NemoClaw Deep Agents Blueprint</strong></a></p></blockquote>\n<figcaption></figcaption></figure><br /><a href=\"https://note.com/npaka/n/ncb081e6b0c52\">続きをみる</a>",
-    "image": "https://assets.st-note.com/production/uploads/images/292756738/rectangle_large_type_2_5f150e9d9194025718f3cddb4b056c8d.png?width=800",
-    "fetched_at": "2026-07-17 02:05:28",
-    "ja_summary": "・LangChainとNVIDIAが、自律型AIエージェント開発用の新枠組み「NemoClaw」を発表。\n・高度な推論とツール活用を行うAIエージェントの構築を効率化し、開発を容易にする。\n・NVIDIAの推論技術とLangChainの柔軟性を組み合わせ、実用的なAIシステムの実装を支援する。"
-  },
-  {
-    "title": "ガバメントAI「源内」商標およびブランドガイドラインを掲載しました",
-    "link": "https://www.digital.go.jp/policies/genai",
-    "source": "デジタル庁",
-    "published": "Fri, 10 Jul 2026 09:33:11 +0900",
-    "summary": "",
-    "image": "https://www.digital.go.jp/assets/contents/node/basic_page/field_thumbnail_image/cef0122b-0598-47f8-8a48-dc2c57d407c1/d8639adc/kv_gennai_260216.png",
-    "fetched_at": "2026-07-17 02:05:33",
-    "ja_summary": "政府専用AI「源内」の商標およびブランドガイドラインが公開されました。\n今後は各自治体などが「源内」の名称やロゴを使用する際のルールが適用されます。\n導入を検討する自治体や関係者は、公表されたガイドラインの確認が必要です。"
-  },
-  {
-    "title": "Why teens deserve access to safe AI",
-    "link": "https://openai.com/index/why-teens-deserve-access-safe-ai",
-    "source": "OpenAI",
-    "published": "Thu, 16 Jul 2026 16:00:00 GMT",
-    "summary": "Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.",
-    "image": "https://images.ctfassets.net/kftzwdyauwt9/4NGTbmWC5Q6asKYmOTchmz/8fde35f181e02c0dcf3b7334db08d394/why-teens-seo.jpg?w=1600&amp;h=900&amp;fit=fill",
-    "fetched_at": "2026-07-17 02:05:34",
-    "ja_summary": "・OpenAIがChatGPTに10代向けの安全対策を導入\n・年齢に応じた学習ツールやペアレンタルコントロールを強化\n・専門家との連携により、安全かつ教育的な利用環境を整備"
-  },
-  {
-    "title": "How Cars24 scales conversations and builds faster with OpenAI",
-    "link": "https://openai.com/index/cars24",
-    "source": "OpenAI",
-    "published": "Thu, 16 Jul 2026 00:00:00 GMT",
-    "summary": "Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company.",
-    "image": "https://images.ctfassets.net/kftzwdyauwt9/7CDBt34djpI5pY21NFpVyc/c2acb8f59210c75f3ca156a8249cdded/cars24-seo.png?w=1600&amp;h=900&amp;fit=fill",
-    "fetched_at": "2026-07-17 02:05:34",
-    "ja_summary": "・中古車販売のCars24がOpenAIの技術を活用し、月間100万分以上の顧客対話を自動化。\n・AIによる音声・チャット対応で失注リードの12%を回復し、業務効率を大幅に向上。\n・全社レベルで自律型エージェントを導入し、迅速な意思決定と開発体制を構築。"
-  },
-  {
-    "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
-    "link": "https://openai.com/index/unlocking-self-improvement-gpt-red",
-    "source": "OpenAI",
-    "published": "Wed, 15 Jul 2026 10:00:00 GMT",
-    "summary": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.",
-    "image": "https://images.ctfassets.net/kftzwdyauwt9/3ACfFRKDhuNzU4isOGxHRv/26f7f9bded23de64ea183a9ec19904c5/SEO_Card.png?w=1600&amp;h=900&amp;fit=fill",
-    "fetched_at": "2026-07-17 02:05:34",
-    "ja_summary": "・OpenAIがAIの安全性向上に向けた自動レッドチーミングシステム「GPT-Red」を開発。\n・AI同士の対戦（セルフプレイ）を通じて、AIの堅牢性や不正操作への耐性を自動で強化。\n・AIモデルの安全性とアライメントの最適化を自動化し、開発効率と精度の向上を実現。"
-  },
-  {
-    "title": "先端半導体製造へ秘策　TSMCに挑む野望と焦り　「タウの法則」の成否 (ファーウェイの逆襲　トヨタも車載OSで頼る　半導体はTSMCに挑む)",
-    "link": "https://business.nikkei.com/atcl/NBD/19/special/02583/",
-    "source": "日経ビジネス 最新",
-    "published": "",
-    "summary": "ファーウェイがAI（人工知能）インフラの中核を担う半導体の覇権をもくろむ。製造に参入し、台湾積体電路製造（TSMC）に比肩する技術の獲得を目指す。独自の半導体進化論「タウの法則」を打ち出してTSMCを追いかける構想だ。",
-    "image": "https://business.nikkei.com/atcl/NBD/19/special/02583/fb.jpg",
-    "fetched_at": "2026-07-17 00:53:02",
-    "ja_summary": "・ファーウェイが独自理論「タウの法則」を掲げ、TSMCに匹敵する先端半導体の自社製造を目指す。\n・AIインフラの覇権を狙い、TSMCの独占体制に挑戦する野望と焦りが背景にある。\n・トヨタも採用する車載OSなどで影響力を強め、中国発の技術基盤で巻き返しを図る。"
-  },
-  {
-    "title": "ファーウェイとトヨタの共通点 (編集長の視点／取材の現場から)",
-    "link": "https://business.nikkei.com/atcl/NBD/19/00107/00394/",
-    "source": "日経ビジネス 最新",
-    "published": "",
-    "summary": "今やレアアースやAIの最新モデルにまで対象が広がった米中の貿易摩擦ですが、激化のきっかけは2018年、華為技術（ファーウェイ）創業者の娘、当時CFO（最高財務責任者）だった孟晩舟副会長の拘束でした。",
-    "image": "https://business.nikkei.com/atcl/NBD/19/00107/00394/fb.jpg",
-    "fetched_at": "2026-07-17 00:53:02",
-    "ja_summary": "2018年のファーウェイ孟晩舟氏拘束を機に激化した米中貿易摩擦は、現在レアアースやAI分野まで拡大している。\n本稿では、世界的企業であるファーウェイとトヨタの共通点を通じ、地政学リスク下の経営課題を読み解く。"
-  },
-  {
-    "title": "ビル・エモット氏「AIブームは『非合理的な熱狂』。グリーンスパン氏の教訓に学べ」 (賢人の警鐘)",
-    "link": "https://business.nikkei.com/atcl/NBD/19/00121/00364/",
-    "source": "日経ビジネス 最新",
-    "published": "",
-    "summary": "これは稀有な瞬間だ。先日100歳で逝去した中央銀行家兼経済学者の足跡をたどることで今後数十年間、いや1世紀にわたって社会や経済を一変させ得る、急速に進化する技術の将来像について、より首尾一貫した考察を深められるからだ。",
-    "image": "https://business.nikkei.com/atcl/NBD/19/00121/00364/fb.jpg",
-    "fetched_at": "2026-07-17 00:53:03",
-    "ja_summary": "・AIブームは過去の市場バブルと同様に「非合理的な熱狂」の側面がある。\n・歴史的教訓に基づき、技術の進化が社会や経済に与える影響を冷静に見極めるべき。\n・盲目的な期待を避け、長期的な視点から将来像を慎重に考察することが重要。"
-  },
-  {
-    "title": "OpenAI 初のハードウェアを販売",
-    "link": "https://news.yahoo.co.jp/pickup/6588199?source=rss",
-    "source": "Yahoo!ニュース IT・科学",
-    "published": "Thu, 16 Jul 2026 14:20:31 GMT",
-    "summary": "",
-    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/7/16/ab7d3cf02c8dfbaf387e587172c33dad5a8bdff50ad63d9bbd9384ee12174105.jpg",
-    "fetched_at": "2026-07-17 00:53:22",
-    "ja_summary": "・OpenAIが初の独自ハードウェアとなるAI搭載デバイスの販売を開始。\n・具体的な製品の詳細は明かされていないが、AI技術を外部ハードへと拡張する方針へ転換。\n・同社の技術を日常的なハードウェアで利用可能にする新たな市場戦略を展開する。"
   }
 ]
