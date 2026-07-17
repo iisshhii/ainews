@@ -1,5 +1,35 @@
 [
   {
+    "title": "ChatGPT Work のクイックスタート",
+    "link": "https://note.com/npaka/n/ne1f9886fd98d",
+    "source": "note (npaka)",
+    "published": "Fri, 10 Jul 2026 09:59:44 +0900",
+    "summary": "<p id=\"597b4d52-7362-4a40-ad8f-d8c83fe9cdae\" name=\"597b4d52-7362-4a40-ad8f-d8c83fe9cdae\">「ChatGPT Work」のクイックスタートをまとめました。</p><br /><br /><a href=\"https://note.com/npaka/n/ne1f9886fd98d\">続きをみる</a>",
+    "image": "https://assets.st-note.com/production/uploads/images/293042128/rectangle_large_type_2_7605746bc4202ab358565bab1475740f.png?width=800",
+    "fetched_at": "2026-07-17 20:56:44",
+    "ja_summary": "・ChatGPT Workの導入・基本設定手順を解説したガイドが公開されました。\n・業務での活用に向けた、最初に行うべき設定と使い方のポイントがまとめられています。"
+  },
+  {
+    "title": "GoogleのAI研究ツール「NotebookLM」が「Gemini Notebook」に改称、コード実行機能も追加",
+    "link": "https://www.techno-edge.net/article/2026/07/17/5303.html",
+    "source": "TechnoEdge",
+    "published": "Fri, 17 Jul 2026 07:00:03 +0900",
+    "summary": "Googleが、AIリサーチアシスタント「NotebookLM」を「Gemini Notebook」に改名すると発表しました。",
+    "image": "https://www.techno-edge.net/imgs/rss/33006.jpg",
+    "fetched_at": "2026-07-17 20:56:49",
+    "ja_summary": "・AIリサーチツール「NotebookLM」が「Gemini Notebook」へ名称変更\n・コード実行機能が新たに追加され、分析能力が向上\n・GoogleのAI活用プラットフォームとしての利便性が強化"
+  },
+  {
+    "title": "Claude Code の Plan モードをループエンジニアリングで楽にする",
+    "link": "https://zenn.dev/k_yoshiya/articles/claude-code-plan-mode-loop",
+    "source": "Zenn Trends",
+    "published": "Thu, 16 Jul 2026 07:40:05 GMT",
+    "summary": "はじめに\nClaude Code の Plan モードを、人間の労力を少なくして使いこなすためのループエンジニアリングをしてみました。この記事を読むと、hook を使って Plan モードに「質問による要件詰め」「実装のサブエージェント委譲」「計画の HTML 確認」を自動で組み込む方法がわかります。\n\n ねらい\nPlan モードの運用に、次の 3 つを組み込みます。うち 1 と 3 の一部（reject 時の再生成サイクル）が反復＝ループ、2 はモデル/セッションの割り当て設計（いわゆるハーネス寄り）です。\n\nPlan モードの初回プロンプト以降のタイピング負荷を AskUserQ...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--yYwQSoYv--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%2520%25E3%2581%25AE%2520Plan%2520%25E3%2583%25A2%25E3%2583%25BC%25E3%2583%2589%25E3%2582%2592%25E3%2583%25AB%25E3%2583%25BC%25E3%2583%2597%25E3%2582%25A8%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%258B%25E3%2582%25A2%25E3%2583%25AA%25E3%2583%25B3%25E3%2582%25B0%25E3%2581%25A7%25E6%25A5%25BD%25E3%2581%25AB%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Yoshiya%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2Y5YzEzOTQ2ZTEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-07-17 20:57:23",
+    "ja_summary": "Claude CodeのPlanモードを自動化・効率化する「ループエンジニアリング」の手法を解説。\n要件定義・サブエージェントへの委譲・計画のHTML確認を自動で組み込むことで、手作業を削減。\nAIとの対話や再生成プロセスを自動化し、開発工数を大幅に短縮する仕組みを紹介。"
+  },
+  {
     "title": "逆襲のファーウェイ／就活生、面接も試験もAI頼み／ロシア製ドローンに日本部品（2026年7月17日版） (日経ビジネスAUDIOモーニング)",
     "link": "https://business.nikkei.com/atcl/audio/22/00001/071600921/",
     "source": "日経ビジネス 最新",
@@ -968,35 +998,5 @@
     "image": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020600007/070700221/topm.jpg?20220512",
     "fetched_at": "2026-07-17 07:38:27",
     "ja_summary": "・現在の生成AIブームはバブルであり、いずれ崩壊することは避けられない。\n・しかし、その崩壊は技術進化の過程に過ぎず、過度に恐れる必要はない。\n・長期的な視点で見れば、AIが社会やビジネスに不可欠な存在である事実に変わりはない。"
-  },
-  {
-    "title": "コーディングエージェントは不要　現場がAI活用でアプリ開発者に",
-    "link": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/052100111/071300181/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "生成AI（人工知能）の活用に熱心な日本のユーザー企業で、情報システム部門ではない事業部門の従業員が、業務に必要なアプリケーションを自らつくり始めている。ただし「Claude Code」に代表されるコーディングエージェントは、利用を禁止している。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/052100111/071300181/topm.jpg?20220512",
-    "fetched_at": "2026-07-17 07:38:28",
-    "ja_summary": "・日本の事業部門で、非エンジニアによる業務アプリの内製化が加速している。\n・一方で、自動コーディングツール「コーディングエージェント」の利用は禁止されている。\n・専門外の従業員がAIを活用し、主体的に開発を行う動きが広がっている。"
-  },
-  {
-    "title": "グーグル・ディープマインドの研究者が国防総省とのAI軍事契約をめぐり辞職。「良心に従うと、留まることができなかった」",
-    "link": "https://www.businessinsider.jp/article/202607-google-deepmind-ai-pentagon-contract/",
-    "source": "Business Insider Japan",
-    "published": "Thu, 16 Jul 2026 22:30:00 GMT",
-    "summary": "グーグル・ディープマインド（Google DeepMind）の研究科学者であるアレックス・ターナーは、国防総省との協業について、グーグル幹部たちの考えを変えようと試みたと述べました。",
-    "image": "https://media.loom-app.com/loom/2026/07/16/2ed1729a-ab66-4f5b-b989-852941dfd4fd/original.jpg?w=1200&amp;h=630",
-    "fetched_at": "2026-07-17 07:38:35",
-    "ja_summary": "・Google DeepMindの研究者が国防総省とのAI軍事契約に反対し辞職。\n・幹部に対し契約中止を働きかけたものの、方針変更には至らなかった。\n・「良心に従った」として、軍事目的のAI利用に強く抗議した形。"
-  },
-  {
-    "title": "エヌビディアでさえもAIチップ不足が深刻化。ジェンスン・フアン自身がチップをめぐる社内調整に介入",
-    "link": "https://www.businessinsider.jp/article/202607-nvidia-chip-ai-resource-automotive/",
-    "source": "Business Insider Japan",
-    "published": "Thu, 16 Jul 2026 22:00:00 GMT",
-    "summary": "エヌビディアの自動車部門トップによると、需要が供給を上回り続ける中、社内チームはコンピューティングパワー（計算リソース）をめぐって毎週のように競い合っているという。",
-    "image": "https://media.loom-app.com/loom/2026/07/15/08bd40cd-023d-4ed9-9077-d684c428ebc8/original.jpg?w=1200&amp;h=630",
-    "fetched_at": "2026-07-17 07:38:37",
-    "ja_summary": "・AIチップの需要が供給を大幅に上回り、深刻な不足状態が続いている。\n・社内で計算リソースの奪い合いが発生し、効率的な配分が課題となっている。\n・CEOのジェンスン・フアン自らが介入し、優先順位の調整を主導している。"
   }
 ]
