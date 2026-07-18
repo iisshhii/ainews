@@ -1,5 +1,15 @@
 [
   {
+    "title": "そのスキル、本当に効いてる？ Agent Skills を「評価」する3つのツールを比べてみた",
+    "link": "https://qiita.com/Syoitu/items/78d45bee1160d059c972",
+    "source": "Qiita (Popular)",
+    "published": "2026-07-09T17:00:07+09:00",
+    "summary": "## 前書き\n\n2025 年 10 月に Anthropic が Agent Skills（以下スキル）を発表して以来、すっかり身近な存在になりました。\n\nhttps://www.anthropic.com/news/skills\n\n作業手順を `SKILL.md` に明文化してエージェントに渡せば、AI が書いた通りに作業してくれます。\n一見とても便利ですが実際に使い込んでいると、ふと不安になり",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Ftech-festa-ogp-background-4b5015b2c518c7e6b9062a7c9f5f5e90.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFtYXpvbmF3cy5jb20lMkYwJTJGMzIwMTY0JTJGcHJvZmlsZS1pbWFnZXMlMkYxNTQzMzExNzUyP2l4bGliPXJiLTQuMS4xJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz0wNGFkMDZhZjhkNDE3NDcxNTk2NGE0ZmZmNTNmMGQxMw%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYxZTIwZGI1ZTdlNDA3ZWFlN2I5NzBlYzk5OTg4MGRjOGMzY2MwZjY0JTJGb3JpZ2luYWwuanBnJTNGMTY2NzI3NDk2Mz9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz04OTI0NDcwMDk1MDMyZjUxYmZlNzE3ZjVkOGUzYmE3ZA%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D0db5e6259bef720891efe507901d3252?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgxJTlEJUUzJTgxJUFFJUUzJTgyJUI5JUUzJTgyJUFEJUUzJTgzJUFCJUUzJTgwJTgxJUU2JTlDJUFDJUU1JUJEJTkzJUUzJTgxJUFCJUU1JThBJUI5JUUzJTgxJTg0JUUzJTgxJUE2JUUzJTgyJThCJUVGJUJDJTlGJTIwQWdlbnQlMjBTa2lsbHMlMjAlRTMlODIlOTIlRTMlODAlOEMlRTglQTklOTUlRTQlQkUlQTElRTMlODAlOEQlRTMlODElOTklRTMlODIlOEIzJUUzJTgxJUE0JUUzJTgxJUFFJUUzJTgzJTg0JUUzJTgzJUJDJUUzJTgzJUFCJUUzJTgyJTkyJUU2JUFGJTk0JUUzJTgxJUI5JUUzJTgxJUE2JUUzJTgxJUJGJUUzJTgxJTlGJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjNGRkZGRkYmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9YzkwMTk0MTk2NGMyNGY0MzNiYTIxOGQ0ZDBjMzk3N2Q&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBTeW9pdHUmdHh0LWNvbG9yPSUyM0ZGRkZGRiZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1kNWQ0ZDc5NmZhZTM4NjhjMDdlN2NkMmIwMmM3NWE0NQ&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=S0RESeOCouOCuOODo-OCpOODq-mWi-eZuuOCu-ODs-OCv-ODvOagquW8j-S8muekvg&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%23FFFFFF&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=e005dd7efe5f50c26975ce8221a15589",
+    "fetched_at": "2026-07-18 21:37:21",
+    "ja_summary": "・Anthropicが導入した「Agent Skills」は、手順書に従いAIが自動作業を行う便利な機能。\n・しかし、指示通りに正しく実行されているかを確認・検証する必要がある。\n・AIのスキル精度を客観的に評価するための3つのツールを比較検証。"
+  },
+  {
     "title": "NECがTNFD対応のAIサービスを26年9月に提供開始、調査の作業時間を9割削減",
     "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03682/071500009/",
     "source": "日経クロステック 総合",
@@ -988,15 +998,5 @@
     "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Build&amp;backgroundColor=coral",
     "fetched_at": "2026-07-17 15:35:08",
     "ja_summary": "・ITサービス企業のUSTが、生成AI「Claude」を物理的なロボットやデバイスに応用する技術を導入。\n・物理空間での作業や操作に高度なAI推論を統合し、現場業務の自動化・効率化を促進。\n・企業が物理的AIを導入・活用するための環境とソリューション提供を強化する。"
-  },
-  {
-    "title": "「作って終わり」を卒業する  『MLflowで実践するLLMOps』著者と学ぶ もくもく会",
-    "link": "https://speakerdeck.com/taka_aki/zuo-tutezhong-wari-wozu-ye-suru-mlflowdeshi-jian-surullmops-zhu-zhe-toxue-bu-mokumokuhui",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-07-17T01:03:14-04:00",
-    "summary": "「作って終わり」を卒業する──著者と学ぶMLflow LLMOpsもくもく会 - connpass https://jedai.connpass.com/event/399094/\n\nこちらのイベントの座学資料です。",
-    "image": "https://files.speakerdeck.com/presentations/c30e04b0dccd4f7c87c033da699c5c12/preview_slide_0.jpg?40012678",
-    "fetched_at": "2026-07-17 15:35:10",
-    "ja_summary": "・LLMアプリの開発・運用（LLMOps）の実践手法を学ぶ勉強会。\n・MLflowを活用し、モデルを「作って終わり」にしない運用基盤の構築を目指す。\n・書籍の著者と共に、ハンズオン形式で技術を習得するコミュニティイベント。"
   }
 ]
