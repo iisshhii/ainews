@@ -1,5 +1,55 @@
 [
   {
+    "title": "Fable 5、20日以降もMaxプランではサブスク提供　Proは従量制に",
+    "link": "https://www.watch.impress.co.jp/docs/news/2126296.html",
+    "source": "Impress Watch",
+    "published": "",
+    "summary": "Anthropicは18日、最上位AIモデル「Claude Fable 5」(フェイブル5)のサブスクリプションでの提供を7月19日(太平洋時間)で変更すると発表した。原則従量制のFable 5の利用で一定期間はサブスクで利用可能としていたが、20日以降はMax(月額100ドル～)プランとTeam Premiumプランのみが対象となり、Pro(月額20ドル)プランなどは従量課金となる。",
+    "image": "https://www.watch.impress.co.jp/img/ipw/list/2126/296/cl1.jpg",
+    "fetched_at": "2026-07-18 14:51:16",
+    "ja_summary": "・AIモデル「Claude Fable 5」の提供形態が、7月20日より変更される。\n・月額100ドル以上の「Max」および「Team Premium」プランのみ、引き続きサブスクで利用可能。\n・「Pro」プランを含むその他のプランは、利用量に応じた従量課金制へ移行する。"
+  },
+  {
+    "title": "メモリリークの正体は glibc malloc だった ── Python 以外でも効く LD_PRELOAD 1 行のアロケータ差し替え",
+    "link": "https://zenn.dev/pksha/articles/python-memory-leak-jemalloc",
+    "source": "Zenn Trends",
+    "published": "Fri, 17 Jul 2026 05:27:27 GMT",
+    "summary": "要約\n\nFastAPI サーバで、メモリ使用率が単調増加し、OOM が発生する現象に遭遇した。同じアプリケーションコードと負荷試験内容のまま jemalloc に差し替えると OOM が発生しなくなったため、主要因は glibc malloc（ptmalloc2 由来）側のメモリ管理だと判断した\n導入は jemalloc の共有ライブラリを追加し、環境変数 LD_PRELOAD を 1 行設定するだけ\n\n本対策は Python 以外でも使える。 Linux 上の Ruby on Rails や Node.js のアプリケーションでも、メモリ増加が glibc malloc に起因する...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--PkOmkxdu--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%25A1%25E3%2583%25A2%25E3%2583%25AA%25E3%2583%25AA%25E3%2583%25BC%25E3%2582%25AF%25E3%2581%25AE%25E6%25AD%25A3%25E4%25BD%2593%25E3%2581%25AF%2520glibc%2520malloc%2520%25E3%2581%25A0%25E3%2581%25A3%25E3%2581%259F%2520%25E2%2594%2580%25E2%2594%2580%2520Python%2520%25E4%25BB%25A5%25E5%25A4%2596%25E3%2581%25A7%25E3%2582%2582%25E5%258A%25B9%25E3%2581%258F%2520LD_PRELOAD%25201...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Arumakan1727%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzJlOTZhNTRiYWMuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:PKSHA%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2520%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzY0NmU0ZDllYTYuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-07-18 14:51:48",
+    "ja_summary": "・FastAPI等で発生するメモリリークは、glibcのメモリ管理が原因である可能性が高い。\n・`LD_PRELOAD`でjemallocに差し替えるだけで、コード変更なしにOOMを解消できる。\n・この手法はPythonに限らず、Linux上のRubyやNode.jsなど幅広い環境で有効。"
+  },
+  {
+    "title": "生成AI×AWS CDK×AWS FISで\"振り返れる\"ミニGameDayをつくろう",
+    "link": "https://speakerdeck.com/yoshimi0227/sheng-cheng-aixaws-cdkxaws-fisde-zhen-rifan-reru-minigamedaywotukurou",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-07-18T00:12:54-04:00",
+    "summary": "AWS CDK Conference 2026で登壇した資料です。ClaudeCodeとAWS CDKとAWS FISを使っています。",
+    "image": "https://files.speakerdeck.com/presentations/b7308b38cae849d2a184baea274935ae/preview_slide_0.jpg?40021557",
+    "fetched_at": "2026-07-18 14:51:49",
+    "ja_summary": "・生成AI（ClaudeCode）、AWS CDK、AWS FISを活用した「振り返り可能なミニGameDay」の構築手法。\n・AWS CDK Conference 2026での登壇資料。\n・インフラ構成の自動化と障害実験を組み合わせた、学習・検証に適した環境づくりを解説。"
+  },
+  {
+    "title": "AI⇔人間 がdiff上にコメントを書き合える「hunk」がすごい",
+    "link": "https://qiita.com/kuma_3838/items/14df505c7023f665c585",
+    "source": "Qiita (Popular)",
+    "published": "2026-07-13T13:27:10+09:00",
+    "summary": "## はじめに\n\nAIが生成したコードに質問や修正依頼をするとき、\nわざわざファイルパスやコードをコピーしてAIに渡した経験はないですか？\n\n私もまさにそうでした。なにを隠そう、究極のめんどくさがり屋なので、このひと手間が地味にストレスだったんです。\n\nそれだけではありません。\n逆にAIが説明している内容がコードのどこの話なのかを、\nIDEのファイル検索や単語検索で特定しに行くのも手間だと感じてい",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYzNTc5MDQxJTJGYzc1OThmNzMwMmQ1YzZmZmRmNmY2ZTM0ZjUyNTFlYzhlNDZjMDczZiUyRmxhcmdlLnBuZyUzRjE3NDIwNDYxNzI_aXhsaWI9cmItNC4xLjEmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPWI5M2ExOWM2Mjk1NzQyYmJlOTU0MGZkZWQxNmM4Mjcy%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkZhZmM0ZGJhZjAzNThlOGQwYjM0NmM4ZDc1ZWIwMzdiMjVmNjc4MDY5JTJGb3JpZ2luYWwuanBnJTNGMTYwNzc1NjU4OD9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz03NjRmYjE2ODMxYjQ2ZDU0NTgwMmI1MGMzYWMxODM2MQ%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D629b5eadc6112769e3f5b2414ddda0c5?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9QUklRTIlODclOTQlRTQlQkElQkElRTklOTYlOTMlMjAlRTMlODElOENkaWZmJUU0JUI4JThBJUUzJTgxJUFCJUUzJTgyJUIzJUUzJTgzJUExJUUzJTgzJUIzJUUzJTgzJTg4JUUzJTgyJTkyJUU2JTlCJUI4JUUzJTgxJThEJUU1JTkwJTg4JUUzJTgxJTg4JUUzJTgyJThCJUUzJTgwJThDaHVuayVFMyU4MCU4RCVFMyU4MSU4QyVFMyU4MSU5OSVFMyU4MSU5NCVFMyU4MSU4NCZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTFmYWYwMzVkNDVjYjNmNjY1OTFiNWE4ZTc4MzEzZTU4&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBrdW1hXzM4MzgmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1mZDg2NmEwMjYzNzQ2N2RlOGUzM2NmNjFmOWQ0ZmUzYQ&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=5qCq5byP5Lya56S-44K344Oz44K344Ki&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=e59c61915499ae29fedd176c73a589e8",
+    "fetched_at": "2026-07-18 14:51:52",
+    "ja_summary": "・AIとのコードやり取りで発生する「コピー＆ペースト」や「場所の特定」の手間を解消。\n・diff（差分）上に直接コメントを書き込む形式で、AIと効率的に対話・修正が可能。\n・ファイル操作のストレスを減らし、開発フローを直感的かつスムーズにするツール。"
+  },
+  {
+    "title": "15年前の『アジャイルサムライ』、AI時代に古びたのは\"作るコスト\"の教えだけだった",
+    "link": "https://qiita.com/tatsuya582/items/88508215a8e22b169166",
+    "source": "Qiita (Popular)",
+    "published": "2026-07-10T09:58:51+09:00",
+    "summary": "## はじめに\n\n15年前の定番書『アジャイルサムライ』の教えは、AIがコードを書く時代でも通用するのか。読み終えたあと、本の教えを「古びたもの」と「まだ効くもの」に仕分けてみたところ、結果はタイトルの通りきれいに割れました。\n\n『アジャイルサムライ』（Jonathan Rasmusson 著、原著2010年・日本語版2011年）はアジャイル開発の入門書として定番中の定番です。ただ出版から15年以",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmF2YXRhcnMuZ2l0aHVidXNlcmNvbnRlbnQuY29tJTJGdSUyRjE0NTMzMjE5MyUzRnYlM0Q0P2l4bGliPXJiLTQuMS4xJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz0xZGNkMzUwOGY1ZmNmYTQwYmVmMDU2OThhZGEwODc3Mw%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkZhZmM0ZGJhZjAzNThlOGQwYjM0NmM4ZDc1ZWIwMzdiMjVmNjc4MDY5JTJGb3JpZ2luYWwuanBnJTNGMTYwNzc1NjU4OD9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz03NjRmYjE2ODMxYjQ2ZDU0NTgwMmI1MGMzYWMxODM2MQ%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3Db08d7c3a2250492224ec72443292039a?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9MTUlRTUlQjklQjQlRTUlODklOEQlRTMlODElQUUlRTMlODAlOEUlRTMlODIlQTIlRTMlODIlQjglRTMlODMlQTMlRTMlODIlQTQlRTMlODMlQUIlRTMlODIlQjUlRTMlODMlQTAlRTMlODMlQTklRTMlODIlQTQlRTMlODAlOEYlRTMlODAlODFBSSVFNiU5OSU4MiVFNCVCQiVBMyVFMyU4MSVBQiVFNSU4RiVBNCVFMyU4MSVCMyVFMyU4MSU5RiVFMyU4MSVBRSVFMyU4MSVBRiUyMiVFNCVCRCU5QyVFMyU4MiU4QiVFMyU4MiVCMyVFMyU4MiVCOSVFMyU4MyU4OCUyMiVFMyU4MSVBRSVFNiU5NSU5OSVFMyU4MSU4OCVFMyU4MSVBMCVFMyU4MSU5MSVFMyU4MSVBMCVFMyU4MSVBMyVFMyU4MSU5RiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTEwZTAzOWNmYzM1ZWFhNGU1NDk3NWJlM2I2YjFmYjBh&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDB0YXRzdXlhNTgyJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9NTQyNmMwYzUyNzMwMGMxYTE2NTZkMjQ2MDdiNzQ4MzM&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=5qCq5byP5Lya56S-44K344Oz44K344Ki&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=49722e81921804e6366ef1186b06e106",
+    "fetched_at": "2026-07-18 14:51:53",
+    "ja_summary": "15年前の名著『アジャイルサムライ』の教えを現代のAI時代に照らし合わせると、開発コストに関する手法のみが陳腐化した。\n一方で、アジャイルの本質である「価値の提供」や「チームのあり方」といったマインドセットは現在も変わらず有効である。\nAIによる自動化が進む現代においても、プロジェクトの目的を達成するための根本思想は色褪せていない。"
+  },
+  {
     "title": "ITエンジニアの6割が実感する「AI格差」　AIスキルの差は「何に」影響する？",
     "link": "https://www.itmedia.co.jp/business/articles/2607/17/news011.html",
     "source": "ITmedia ビジネス",
@@ -948,55 +998,5 @@
     "image": "https://japan.zdnet.com/storage/2026/07/17/158be4da2295464677e67949b97f7622/t/184/138/d/claude-corps-final_1280.jpg",
     "fetched_at": "2026-07-17 13:22:29",
     "ja_summary": "・Anthropic社が、AIを活用する若手人材と全米のNPOを繋ぐ1年間のフェローシッププログラムを開始。\n・参加者には給与と活動支援に加え、同社の生成AI「Claude」の利用枠が潤沢に提供される。\n・AI技術を用いた社会課題の解決と、若手人材の育成を同時に推進する狙い。"
-  },
-  {
-    "title": "Ben Bernanke appointed to Anthropic’s Long-Term Benefit Trust",
-    "link": "https://www.anthropic.com/news/ben-bernanke",
-    "source": "Anthropic (News)",
-    "published": "Thu, 09 Jul 2026 00:00:00 +0000",
-    "summary": "Ben Bernanke appointed to Anthropic’s Long-Term Benefit Trust",
-    "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
-    "fetched_at": "2026-07-17 13:22:41",
-    "ja_summary": "・元FRB議長のベン・バーナンキ氏が、AI企業Anthropicの「長期利益信託」の理事に就任。\n・同信託は、AI開発が社会に害を及ぼさないよう監視し、安全性と公益性を担保する役割を担う。\n・AIの社会的責任を重視する同社のガバナンス体制を、経済・政策の専門家の知見で強化する狙い。"
-  },
-  {
-    "title": "AI もデータ基盤のユーザーになる時代の、BigQuery コストとの向き合い方",
-    "link": "https://zenn.dev/linda/articles/1f48bad4d84747",
-    "source": "Zenn Trends",
-    "published": "Thu, 16 Jul 2026 01:00:09 GMT",
-    "summary": "本記事は MEDLEY Summer Tech Blog Relay 4 日目 の記事です。\nhttps://developer.medley.jp/entry/2026/07/09/234777/\n\n はじめに\nメドレーでは「AI for ALL」を掲げ、全職種・全業務での AI 活用を進めています。データ活用の裾野が広がるほど、人だけでなく AI エージェントもデータを取りに行くようになり、データ基盤の利用機会は着実に増えています。\n私は、メドレーの人材プラットフォーム領域で、BigQuery を中心としたデータ基盤（dbt によるデータモデリングを含む）の開発・運用を担当しています...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--gHTmfBu9--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%2520%25E3%2582%2582%25E3%2583%2587%25E3%2583%25BC%25E3%2582%25BF%25E5%259F%25BA%25E7%259B%25A4%25E3%2581%25AE%25E3%2583%25A6%25E3%2583%25BC%25E3%2582%25B6%25E3%2583%25BC%25E3%2581%25AB%25E3%2581%25AA%25E3%2582%258B%25E6%2599%2582%25E4%25BB%25A3%25E3%2581%25AE%25E3%2580%2581BigQuery%2520%25E3%2582%25B3%25E3%2582%25B9%25E3%2583%2588%25E3%2581%25A8%25E3%2581%25AE%25E5%2590%2591%25E3%2581%258D%25E5%2590%2588%25E3%2581%2584%25E6%2596%25B9%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%258A%25E3%2582%2593%25E3%2581%25A0%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly96ZW5uLWRldi5naXRodWIuaW8vZGVmYXVsdC1hdmF0YXJzL2RhcmsvbC5wbmc=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "fetched_at": "2026-07-17 13:22:50",
-    "ja_summary": "・AI活用の拡大により、データ基盤（BigQuery）の利用機会とコストが急速に増加している。\n・AIエージェントによる自動アクセスを見据えた、持続可能な基盤運用が必要。\n・dbtを用いた効率的なデータモデリングと、適切なコスト管理の両立が重要。"
-  },
-  {
-    "title": "10年目を迎えた「ABEMA」がどのように AI 活用を推進して、AI 駆動開発にシフトしているのか / How ABEMA, entering its 10th year, is promoting the use of AI and shifting toward AI-driven development",
-    "link": "https://speakerdeck.com/miyukki/how-abema-entering-its-10th-year-is-promoting-the-use-of-ai-and-shifting-toward-ai-driven-development",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-07-17T00:05:27-04:00",
-    "summary": "10年目を迎えた「ABEMA」は、プロダクト開発や事業運営の在り方を AI 前提へとアップデートしています。本セッションでは、ABEMA における AI 活用の現在地と、開発現場で進む AI 駆動開発へのシフト、さらにビジネス側を含めた ABEMA 全体でのAI活用の推進と制御について紹介します。コード生成やレビュー支援にとどまらず、設計、実装、検証、運用、ナレッジ共有、業務プロセス改善まで、AI をどのように現場へ組み込んでいるのか。組織として AI 活用を広げるための仕組みづくり、リスクや品質をコントロールするための取り組み、現場で得られた学び、これからの ABEMA の開発・事業組織の姿についてお話しします。",
-    "image": "https://files.speakerdeck.com/presentations/45e18dfc23494c12b4d941ef522fe8a6/preview_slide_0.jpg?40012330",
-    "fetched_at": "2026-07-17 13:22:51",
-    "ja_summary": "・10年目を迎えるABEMAが、開発から業務プロセスまで全社的にAI前提の組織体制へと転換。\n・コード生成や設計、運用等の各工程にAIを組み込み、生産性と品質を最大化する「AI駆動開発」を推進。\n・組織としてAIを定着させるための仕組みづくりや、リスク管理、現場の知見を共有する戦略を解説。"
-  },
-  {
-    "title": "「人が使うDB」から「AIが使うDB」へ。ClickHouseで実現する超高速データ基盤",
-    "link": "https://speakerdeck.com/mikimatsumoto/ren-gashi-udb-kara-aigashi-udb-he-clickhousedeshi-xian-suruchao-gao-su-detaji-pan",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-07-16T23:26:41-04:00",
-    "summary": "これまでのDBは「人が使う画面」のためにありました。しかし、AI Agentが自分で動くこれからの時代、DBは「AIが自分でアクセスし、超高速でデータを読み書きする場所」へと変わります。AIが何度も自動でクエリを投げまくるため、今までのDBでは処理が追いつかず、インフラ費用も跳ね上がります。 本セッションでは、圧倒的な速さを誇るデータベース「ClickHouse」を使い、このスピードとコストの壁をどう突破するかを解説。また、実践的なノウハウやユースケースも含めてお届けします。",
-    "image": "https://files.speakerdeck.com/presentations/f60f513361354f99b96c6bfcbef1a549/preview_slide_0.jpg?40012118",
-    "fetched_at": "2026-07-17 13:22:51",
-    "ja_summary": "AIが自律的に大量のデータを扱う新時代に向け、従来のDBでは処理速度とコストに限界が生じています。\n圧倒的な高速処理を誇る「ClickHouse」を活用することで、AI時代のデータ基盤の課題を克服可能です。\n本セッションでは、AI運用に最適なDB構築の実践的なノウハウや活用事例を解説します。"
-  },
-  {
-    "title": "ComfyUI × 動画生成AI × Codex で、ゲーム用スプライトアニメを量産するパイプラインを作った話",
-    "link": "https://qiita.com/archeleeds/items/2efad73069b54288deb4",
-    "source": "Qiita (Popular)",
-    "published": "2026-07-15T00:08:46+09:00",
-    "summary": "こんにちは、Liseと申します。\n\nみなさんはゲームのアセットをAIで作ろうとしたことはあるでしょうか？\nX(Twitter)を見ていると怪しげな従量課金のゲームアセット生成サービスがポコポコ流れてくるのですが、ワンショットのアセットならともかく、大量にキャラクターのアセットが欲しい場合にどうも非効率というか向いていないように思えます。お金もかかりますし。\n\nそこで彼らに出来るのなら自分でも作れる",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGMTU0Mzc3JTJGcHJvZmlsZS1pbWFnZXMlMkYxNTU5MjU3NjM2P2l4bGliPXJiLTQuMS4xJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz04YTVkZjYwNGE0NjQzM2U3MWNiY2M2ZTE3NmQ3YjE0Ng%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D27802d45ae7e7507e2567039ad0e8714?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9Q29tZnlVSSUyMCVDMyU5NyUyMCVFNSU4QiU5NSVFNyU5NCVCQiVFNyU5NCU5RiVFNiU4OCU5MEFJJTIwJUMzJTk3JTIwQ29kZXglMjAlRTMlODElQTclRTMlODAlODElRTMlODIlQjIlRTMlODMlQkMlRTMlODMlQTAlRTclOTQlQTglRTMlODIlQjklRTMlODMlOTclRTMlODMlQTklRTMlODIlQTQlRTMlODMlODglRTMlODIlQTIlRTMlODMlOEIlRTMlODMlQTElRTMlODIlOTIlRTklODclOEYlRTclOTQlQTMlRTMlODElOTklRTMlODIlOEIlRTMlODMlOTElRTMlODIlQTQlRTMlODMlOTclRTMlODMlQTklRTMlODIlQTQlRTMlODMlQjMlRTMlODIlOTIlRTQlQkQlOUMlRTMlODElQTMlRTMlODElOUYlRTglQTklQjEmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz0xNWNjZTYyNDZhZTJmNmM0MGRmNzU5Y2JlYWRmZmRkOQ&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBhcmNoZWxlZWRzJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9NmI3ZTlmOGJhMzJhZGZiYzA5OTRmZDMyNmY5MzllMGY&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=6962e3a19ecf025b48528b91825a6d2f",
-    "fetched_at": "2026-07-17 13:22:52",
-    "ja_summary": "・ゲーム用スプライトアニメを効率的に量産するため、ComfyUIと動画生成AI、Codexを組み合わせた自動生成パイプラインを構築。\n・既存の有料アセット生成サービスが抱えるコストや効率面の課題を、自作パイプラインで解決することを目指す。"
   }
 ]
