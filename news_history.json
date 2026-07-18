@@ -1,5 +1,35 @@
 [
   {
+    "title": "Ben Bernanke appointed to Anthropic’s Long-Term Benefit Trust",
+    "link": "https://www.anthropic.com/news/ben-bernanke",
+    "source": "Anthropic (News)",
+    "published": "Thu, 09 Jul 2026 00:00:00 +0000",
+    "summary": "Ben Bernanke appointed to Anthropic’s Long-Term Benefit Trust",
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+    "fetched_at": "2026-07-18 16:29:48",
+    "ja_summary": "元FRB議長のベン・バーナンキ氏が、AI企業Anthropicの「長期利益信託（Long-Term Benefit Trust）」の理事に就任した。\n同組織は、AI開発が社会に害を及ぼさないよう監視し、企業の理念と安全性を担保する役割を担う。\n金融政策の専門家である同氏を迎え入れ、AIガバナンスと責任ある開発体制の強化を図る。"
+  },
+  {
+    "title": "生成 AI 時代にいま一度「問い合わせ」について考えてみる",
+    "link": "https://speakerdeck.com/kazzpapa3/sheng-cheng-ai-shi-dai-niima-du-wen-ihe-wase-nituitekao-etemiru",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-07-18T02:10:46-04:00",
+    "summary": "2026年7月18日に開催された JAWS-UG広島 第27回勉強会（JAWS-UG クラウド女子会コラボ！）での登壇資料となります。\n\nイベント URL：https://jawsug-hiroshima.connpass.com/event/395385/\nハッシュタグ：#jawsughiroshima #cloudgirl #jawsug",
+    "image": "https://files.speakerdeck.com/presentations/94041477489744da920c74a6c6c7f549/preview_slide_0.jpg?40022381",
+    "fetched_at": "2026-07-18 16:29:57",
+    "ja_summary": "生成AIが普及する環境下で、既存の「問い合わせ」業務のあり方を再考する勉強会の登壇資料。\nAI活用による効率化や、問い合わせ対応の質をどう変化させるべきかに焦点を当てる。\nJAWS-UG広島のイベントで発表された、クラウド時代の新しいコミュニケーション論。"
+  },
+  {
+    "title": "ComfyUI × 動画生成AI × Codex で、ゲーム用スプライトアニメを量産するパイプラインを作った話",
+    "link": "https://qiita.com/archeleeds/items/2efad73069b54288deb4",
+    "source": "Qiita (Popular)",
+    "published": "2026-07-15T00:08:46+09:00",
+    "summary": "こんにちは、Liseと申します。\n\nみなさんはゲームのアセットをAIで作ろうとしたことはあるでしょうか？\nX(Twitter)を見ていると怪しげな従量課金のゲームアセット生成サービスがポコポコ流れてくるのですが、ワンショットのアセットならともかく、大量にキャラクターのアセットが欲しい場合にどうも非効率というか向いていないように思えます。お金もかかりますし。\n\nそこで彼らに出来るのなら自分でも作れる",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGMTU0Mzc3JTJGcHJvZmlsZS1pbWFnZXMlMkYxNTU5MjU3NjM2P2l4bGliPXJiLTQuMS4xJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz04YTVkZjYwNGE0NjQzM2U3MWNiY2M2ZTE3NmQ3YjE0Ng%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D27802d45ae7e7507e2567039ad0e8714?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9Q29tZnlVSSUyMCVDMyU5NyUyMCVFNSU4QiU5NSVFNyU5NCVCQiVFNyU5NCU5RiVFNiU4OCU5MEFJJTIwJUMzJTk3JTIwQ29kZXglMjAlRTMlODElQTclRTMlODAlODElRTMlODIlQjIlRTMlODMlQkMlRTMlODMlQTAlRTclOTQlQTglRTMlODIlQjklRTMlODMlOTclRTMlODMlQTklRTMlODIlQTQlRTMlODMlODglRTMlODIlQTIlRTMlODMlOEIlRTMlODMlQTElRTMlODIlOTIlRTklODclOEYlRTclOTQlQTMlRTMlODElOTklRTMlODIlOEIlRTMlODMlOTElRTMlODIlQTQlRTMlODMlOTclRTMlODMlQTklRTMlODIlQTQlRTMlODMlQjMlRTMlODIlOTIlRTQlQkQlOUMlRTMlODElQTMlRTMlODElOUYlRTglQTklQjEmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz0xNWNjZTYyNDZhZTJmNmM0MGRmNzU5Y2JlYWRmZmRkOQ&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBhcmNoZWxlZWRzJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9NmI3ZTlmOGJhMzJhZGZiYzA5OTRmZDMyNmY5MzllMGY&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=6962e3a19ecf025b48528b91825a6d2f",
+    "fetched_at": "2026-07-18 16:29:59",
+    "ja_summary": "・既存の有料ゲームアセット生成サービスは大量生産に不向きで非効率。\n・ComfyUIと動画生成AI、Codexを組み合わせた独自の自動生成パイプラインを構築。\n・低コストかつ効率的に、ゲーム用スプライトアニメを大量生産する手法を確立。"
+  },
+  {
     "title": "Fable 5、20日以降もMaxプランではサブスク提供　Proは従量制に",
     "link": "https://www.watch.impress.co.jp/docs/news/2126296.html",
     "source": "Impress Watch",
@@ -968,35 +998,5 @@
     "image": "https://media.loom-app.com/loom/2026/07/17/15bebba2-f7d9-4765-9e55-def539e45aea/original.jpg?w=1200&amp;h=630",
     "fetched_at": "2026-07-17 13:22:25",
     "ja_summary": "AIの普及で余暇が増えるのではなく、むしろ人間にしかできない「問いを立てる力」や「意志決定」の重要性が高まっている。\n成功する組織が求める人材像は、知識量よりも複雑な状況下での人間的な判断力や交渉力へとシフトしている。\nAIをツールとして使いこなし、人間にしか担えない付加価値を創出できるかが、今後のキャリアの分かれ目となる。"
-  },
-  {
-    "title": "「フィジカルAI」国産で勝機狙う",
-    "link": "https://news.yahoo.co.jp/pickup/6588240?source=rss",
-    "source": "Yahoo!ニュース IT・科学",
-    "published": "Fri, 17 Jul 2026 02:19:27 GMT",
-    "summary": "",
-    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/7/17/d448b8550a8e259c4365a9b12ce1d26d083c676ed3be97333cf6a69f8fb659c6.jpg",
-    "fetched_at": "2026-07-17 13:22:27",
-    "ja_summary": "・日本企業がロボット等の物理空間で動作する「フィジカルAI」の国産開発を加速\n・海外勢が先行する市場において、産業機器や製造現場での実用化で勝機を狙う\n・独自技術の確立で、産業競争力の強化と新たなビジネスチャンス創出を目指す"
-  },
-  {
-    "title": "Sakana AI、1兆パラメーター級AI開発基盤にさくらインターネットの「高火力 PHY」を採用",
-    "link": "https://japan.zdnet.com/article/35250722/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "さくらインターネットは、同社が提供するベアメタル型GPUクラウドサービス「高火力 PHY」が、Sakana AIの大規模AI開発プロジェクトに採用されたと発表した。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35250722/\"><img src=\"https://japan.zdnet.com/storage/2025/11/12/5cadf4324701568dcc16628edb007a35/t/184/138/d/251112_data_stream_as_1280_1611251254.jpg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2025/11/12/5cadf4324701568dcc16628edb007a35/t/184/138/d/251112_data_stream_as_1280_1611251254.jpg",
-    "fetched_at": "2026-07-17 13:22:29",
-    "ja_summary": "・Sakana AIの1兆パラメーター級AI開発基盤として、さくらインターネットのGPUクラウド「高火力 PHY」が採用された。\n・国内スタートアップによる大規模AI開発に向け、国産クラウドインフラが重要な役割を担う。"
-  },
-  {
-    "title": "Anthropic、AIを活用する若手人材とNPOを結ぶ支援プログラム開始",
-    "link": "https://japan.zdnet.com/article/35250710/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "Anthropicが、全米のNPOと若手人材のマッチングを目的に「Claude Corps」フェローシッププログラムを開始する。参加者には1年間給与が支給されるほか、各種のサポートや潤沢な「Claude」のトークンなども用意されるという。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35250710/\"><img src=\"https://japan.zdnet.com/storage/2026/07/17/158be4da2295464677e67949b97f7622/t/184/138/d/claude-corps-final_1280.jpg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2026/07/17/158be4da2295464677e67949b97f7622/t/184/138/d/claude-corps-final_1280.jpg",
-    "fetched_at": "2026-07-17 13:22:29",
-    "ja_summary": "・Anthropic社が、AIを活用する若手人材と全米のNPOを繋ぐ1年間のフェローシッププログラムを開始。\n・参加者には給与と活動支援に加え、同社の生成AI「Claude」の利用枠が潤沢に提供される。\n・AI技術を用いた社会課題の解決と、若手人材の育成を同時に推進する狙い。"
   }
 ]
