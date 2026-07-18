@@ -1,5 +1,45 @@
 [
   {
+    "title": "グーグルのAI動画ツール「Vids」にGemini Omni導入、「自分が登場する動画」も簡単に",
+    "link": "https://japan.cnet.com/article/35250727/",
+    "source": "CNET Japan",
+    "published": "",
+    "summary": "グーグルは、AI動画作成ツール「Google Vids」の2つのアップデートを発表した。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35250727/\"><img src=\"https://japan.cnet.com/storage/2026/07/17/f99066e202fca64f946cff940dffc49b/t/184/138/d/googleworkspace-video_1280x960.jpg\" /></a>",
+    "image": "https://japan.cnet.com/storage/2026/07/17/f99066e202fca64f946cff940dffc49b/t/184/138/d/googleworkspace-video_1280x960.jpg",
+    "fetched_at": "2026-07-19 08:07:51",
+    "ja_summary": "・グーグルのAI動画作成ツール「Google Vids」がGemini Omniを搭載し、性能が向上。\n・AIによる動画生成に加え、自分の姿が登場する動画も簡単に作成可能に。\n・業務効率化を促進する新機能が順次追加される。"
+  },
+  {
+    "title": "ChatGPT Sites のクイックスタート",
+    "link": "https://note.com/npaka/n/n731339e77c27",
+    "source": "note (npaka)",
+    "published": "Mon, 13 Jul 2026 07:31:44 +0900",
+    "summary": "<p id=\"851c5238-09ad-4d4b-b9b3-3dfb887ce014\" name=\"851c5238-09ad-4d4b-b9b3-3dfb887ce014\">ChatGPT Sites のクイックスタートをまとめました。</p><br /><br /><a href=\"https://note.com/npaka/n/n731339e77c27\">続きをみる</a>",
+    "image": "https://assets.st-note.com/production/uploads/images/293885718/rectangle_large_type_2_6f3a9c59801259968c59d089228fb891.png?width=800",
+    "fetched_at": "2026-07-19 08:07:56",
+    "ja_summary": "ChatGPTを使ってWebサイトを構築・管理できる「ChatGPT Sites」の導入・活用ガイドが公開されました。\n基本的なセットアップ手順から運用方法までが簡潔にまとめられています。\n詳細な利用手順については、紹介されている記事から直接確認できます。"
+  },
+  {
+    "title": "オープンLLMをLambdaで動かしてみる",
+    "link": "https://zenn.dev/edash_tech_blog/articles/528ab6bd044c35",
+    "source": "Zenn Trends",
+    "published": "Sat, 18 Jul 2026 03:00:52 GMT",
+    "summary": "はじめに\nZenn 読者のみなさん、こんにちは。e-dash VPoE の伊藤です。\n最近、AI コーディングエージェントや LLM ベースの自動化を業務に組み込む機会がぐっと増えました。非常に便利なのですが、コストも肥大化しがちです。\n\n有償 LLM の API は、ローカルで利用できるサブスクモデルとは異なり、使えば使うほどお金がかかる。\n弊社でも活用している Devin の Ask Devin や Review 機能が有料化された。\n「コミットメッセージの整形」「diff の要約」「軽い分類」といった簡単なタスクまで高価なモデルで実行するのはもったいない。\n\nそこで考えたのが、...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--c6vnI1uC--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25AA%25E3%2583%25BC%25E3%2583%2597%25E3%2583%25B3LLM%25E3%2582%2592Lambda%25E3%2581%25A7%25E5%258B%2595%25E3%2581%258B%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25BF%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:a2-ito%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzNkZWM5ZjExNTcuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:e-dash%2520Tech%2520Blog%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzU3ODkyNmJlMDEuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-07-19 08:08:15",
+    "ja_summary": "・高コストな有償LLMのAPI利用を抑えるため、軽量なタスクを低コストな環境へ移行したい。\n・AWS Lambdaを活用し、オープンソースのLLMを動かすことで、業務自動化のコスト削減を目指す。"
+  },
+  {
+    "title": "Claude Codeのスキル×サブエージェントで開発ワークフローを丸ごと自動化したらデリバリー速度が3倍になった",
+    "link": "https://zenn.dev/arufian/articles/4676070054c347",
+    "source": "Zenn Trends",
+    "published": "Fri, 17 Jul 2026 06:54:45 GMT",
+    "summary": "はじめに\nフリーランスとして、日本の大手コンサルティングファームのAI駆動開発を支援しています。そこで「Claude Codeのスキルとサブエージェントを組み合わせて、設計からデプロイまでを丸ごとオーケストレーションするワークフロー」を作ったところ、案件のデリバリー速度が 約3倍 になりました。\nこの記事では、そのスキルをどういう考え方で設計したのか、オーケストレーションの仕組みをどう組んだのか、そして運用しながらどう育てていったのかを紹介します。アーキテクチャと設計パターンは汎用的なものなので、どんなドメインにも応用できるはずです。\n\n 背景：AI駆動開発を導入したけど、成果物がバ...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--9-ozVlHy--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%25E3%2581%25AE%25E3%2582%25B9%25E3%2582%25AD%25E3%2583%25AB%25C3%2597%25E3%2582%25B5%25E3%2583%2596%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588%25E3%2581%25A7%25E9%2596%258B%25E7%2599%25BA%25E3%2583%25AF%25E3%2583%25BC%25E3%2582%25AF%25E3%2583%2595%25E3%2583%25AD%25E3%2583%25BC%25E3%2582%2592%25E4%25B8%25B8%25E3%2581%2594%25E3%2581%25A8%25E8%2587%25AA%25E5%258B%2595%25E5%258C%2596%25E3%2581%2597%25E3%2581%259F%25E3%2582%2589%25E3%2583%2587%25E3%2583%25AA%25E3%2583%2590%25E3%2583%25AA%25E3%2583%25BC%25E9%2580%259F%25E5%25BA%25A6%25E3%2581%258C3%25E5%2580%258D%25E3%2581%25AB%25E3%2581%25AA%25E3%2581%25A3%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Alfian%2520Busyro%2520%25EF%25BC%2588%25E3%2582%25A2%25E3%2583%25AB%25E3%2583%2595...%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzczMzhhNTE5MzguanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-07-19 08:08:16",
+    "ja_summary": "・Claude Codeのスキルとサブエージェントを組み合わせ、設計からデプロイまでを自動化するワークフローを構築。\n・AIによるオーケストレーションを導入した結果、プロジェクトのデリバリー速度が約3倍に向上。\n・汎用的なアーキテクチャと設計パターンを解説しており、他ドメインのAI駆動開発にも応用可能。"
+  },
+  {
     "title": "LingBot の6つのロボットAIモデルまとめ",
     "link": "https://note.com/npaka/n/n75896ac486a7",
     "source": "note (npaka)",
@@ -958,45 +998,5 @@
     "image": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11900/topm.jpg?20220512",
     "fetched_at": "2026-07-17 15:34:33",
     "ja_summary": "・みずほFGが「AIネイティブ」へ業務プロセスを抜本的に再設計。\n・15領域・100業務で3000体以上のAIエージェントを導入へ。\n・一部の自動化にとどまらず、銀行業務全体をAI前提の仕組みへ移行。"
-  },
-  {
-    "title": "国産AI開発のノエトラ、NVIDIAのGPU2万7500基で「実世界モデル」構築へ",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03688/071700006/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "ソフトバンクやNEC、ソニーグループ、ホンダの4社を中核企業として立ち上がったNoetra（ノエトラ）が、フィジカルAI向けの「実世界モデル」を構築する。言語・画像・音声・動画・センシングを理解できる、1兆パラメーター規模の推論基盤を持ったマルチモーダル基盤モデルだ。米エヌビディアのGPUを約2万7500基使ったデータセンターなどで開発する。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03688/071700006/topm.jpg?20220512",
-    "fetched_at": "2026-07-17 15:34:34",
-    "ja_summary": "・ソフトバンク、NEC、ソニー、ホンダが新会社「Noetra」を設立。\n・NVIDIAのGPU2万7500基を活用し、1兆パラメーター規模の巨大AI基盤を構築。\n・言語や映像、センシングを統合理解する「実世界モデル」により、フィジカルAIの実現を目指す。"
-  },
-  {
-    "title": "ChatGPT Workとはなにか　AIエージェントが変える“仕事”のあり方",
-    "link": "https://www.watch.impress.co.jp/docs/topic/2125914.html",
-    "source": "Impress Watch",
-    "published": "",
-    "summary": "ChatGPTと\"コーディングエージェント”の「Codex」が統合した新しい「ChatGPT」デスクトップアプリが10日に登場した。",
-    "image": "https://www.watch.impress.co.jp/img/ipw/list/2125/914/cw01.jpg",
-    "fetched_at": "2026-07-17 15:34:37",
-    "ja_summary": "・デスクトップ版ChatGPTにコーディングエージェント「Codex」が統合された新アプリが登場。\n・AIが単なる対話ツールから、自律的に業務を遂行するエージェントへと進化。\n・AIが作業を代行することで、今後の仕事の進め方やあり方が大きく変化する。"
-  },
-  {
-    "title": "欧州DMA、Androidに“代替AI”開放要求　Googleは反発",
-    "link": "https://www.watch.impress.co.jp/docs/news/2126071.html",
-    "source": "Impress Watch",
-    "published": "",
-    "summary": "欧州委員会は、デジタル市場法(DMA)に基づき、Googleに対して2つの拘束力のあるガイドラインを提示した。ひとつはAndroid上でのサードパーティ製AIの取扱いについてで、もうひとつはGoogleの検索データにサードパーティ製検索エンジンがアクセスできるようにすること。どちらも競争環境の確保や“バランスの再調整”を念頭に置いたものとしている。Googleは、プライバシーやセキュリティを危険に晒すとして反発している。",
-    "image": "https://www.watch.impress.co.jp/img/ipw/list/2126/071/eug00.jpg",
-    "fetched_at": "2026-07-17 15:34:37",
-    "ja_summary": "・欧州委員会がDMAに基づき、Googleにサードパーティ製AIや検索データの開放を要求。\n・競争環境の是正を目的とするが、Googleはセキュリティ上の懸念から強く反発している。\n・欧州での独占禁止規制が、GoogleのAI・検索戦略に大きな影響を及ぼしつつある。"
-  },
-  {
-    "title": "ChatGPTに「敬語で話す」人の割合は？ ドコモ調査",
-    "link": "https://japan.cnet.com/article/35250733/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "NTTドコモのモバイル社会研究所は7月16日、生成AIへの話しかけ方に関する調査結果を発表した。ChatGPTなどの生成AIに「敬語で話す」人は15%、「あだ名をつけている」人は9%。単なる道具ではなく、会話の相手のように接する人が1〜2割いることがわかった。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35250733/\"><img src=\"https://japan.cnet.com/storage/2026/07/17/48e8cb5036f488352bb5483fd202cd0d/t/184/138/d/large_.jpg\" /></a>",
-    "image": "https://japan.cnet.com/storage/2026/07/17/48e8cb5036f488352bb5483fd202cd0d/t/184/138/d/large_.jpg",
-    "fetched_at": "2026-07-17 15:34:40",
-    "ja_summary": "・ドコモの調査で、生成AIに敬語を使う人は15%、あだ名を付ける人は9%と判明。\n・ユーザーの1〜2割が、生成AIを単なるツールではなく対話相手として扱っている。"
   }
 ]
