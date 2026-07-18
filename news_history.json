@@ -1,5 +1,25 @@
 [
   {
+    "title": "NECがTNFD対応のAIサービスを26年9月に提供開始、調査の作業時間を9割削減",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03682/071500009/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "NECは2026年9月、クラウドサービス「NEC Sustainability Intelligence for TNFD」の提供を開始する。国際的な枠組みであるTNFD（自然関連財務情報開示タスクフォース）への対応を支援するAI（人工知能）サービスだ。自社の公開情報をAIで解析し、どの項目の記載が不十分か、どの領域で改善が必要かなどを明確化できる。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03682/071500009/topm.jpg?20220512",
+    "fetched_at": "2026-07-18 20:35:43",
+    "ja_summary": "・NECがTNFD対応を支援するAIサービスを2026年9月に提供開始。\n・企業の公開情報をAIが自動解析し、開示項目の不足や改善点を明確化。\n・自然関連情報の開示にかかる調査時間を最大9割削減する。"
+  },
+  {
+    "title": "Claude Codeと取り組んだ大規模レガシー移行の記録",
+    "link": "https://zenn.dev/luup_developers/articles/server-jang-20260716",
+    "source": "Zenn Trends",
+    "published": "Fri, 17 Jul 2026 11:43:49 GMT",
+    "summary": "こんにちは、LuupのUser Product Group Backend Teamのバックエンドエンジニア、Jang(チャン)です。\n「成功しても何も起きない」が正しい結果になる仕事、というものがあります。追加38,000行・削除13,000行におよぶレガシー移行を、外部から観測できる動作に未承認の差分を1つも作らずにやり切る。今回Claude Codeと一緒に取り組んだのは、そういうプロジェクトでした。この記事は、その1か月の記録です。うまくいったことだけでなく、AIエージェントに足をすくわれかけたことも含めて書きます。\n\n TL;DR\n課題： あるドメインのコードがDDD Modu...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--UQgyeLZU--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%25E3%2581%25A8%25E5%258F%2596%25E3%2582%258A%25E7%25B5%2584%25E3%2582%2593%25E3%2581%25A0%25E5%25A4%25A7%25E8%25A6%258F%25E6%25A8%25A1%25E3%2583%25AC%25E3%2582%25AC%25E3%2582%25B7%25E3%2583%25BC%25E7%25A7%25BB%25E8%25A1%258C%25E3%2581%25AE%25E8%25A8%2598%25E9%258C%25B2%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Luup%2520Developers%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzliNWQ4OTQzNDYuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Luup%2520Developers%2520Blog%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2VmZjBlZjliNDYuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-07-18 20:36:29",
+    "ja_summary": "・LuupのエンジニアがClaude Codeを活用し、3.8万行の追加と1.3万行の削除を伴う大規模なレガシーコード移行を完遂。\n・外部仕様を一切変えずにリファクタリングを行う過程で、AIエージェントの有効性とリスクの両面を実体験。\n・技術的な成果に加え、AI支援による開発の勘所や失敗事例を共有する1か月の記録。"
+  },
+  {
     "title": "富士通がファナックなどとフィジカルAIで提携、NVIDIA協力　長期成長へ足場",
     "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11902/",
     "source": "日経クロステック 総合",
@@ -978,25 +998,5 @@
     "image": "https://files.speakerdeck.com/presentations/c30e04b0dccd4f7c87c033da699c5c12/preview_slide_0.jpg?40012678",
     "fetched_at": "2026-07-17 15:35:10",
     "ja_summary": "・LLMアプリの開発・運用（LLMOps）の実践手法を学ぶ勉強会。\n・MLflowを活用し、モデルを「作って終わり」にしない運用基盤の構築を目指す。\n・書籍の著者と共に、ハンズオン形式で技術を習得するコミュニティイベント。"
-  },
-  {
-    "title": "そのスキル、本当に効いてる？ Agent Skills を「評価」する3つのツールを比べてみた",
-    "link": "https://qiita.com/Syoitu/items/78d45bee1160d059c972",
-    "source": "Qiita (Popular)",
-    "published": "2026-07-09T17:00:07+09:00",
-    "summary": "## 前書き\n\n2025 年 10 月に Anthropic が Agent Skills（以下スキル）を発表して以来、すっかり身近な存在になりました。\n\nhttps://www.anthropic.com/news/skills\n\n作業手順を `SKILL.md` に明文化してエージェントに渡せば、AI が書いた通りに作業してくれます。\n一見とても便利ですが実際に使い込んでいると、ふと不安になり",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Ftech-festa-ogp-background-4b5015b2c518c7e6b9062a7c9f5f5e90.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFtYXpvbmF3cy5jb20lMkYwJTJGMzIwMTY0JTJGcHJvZmlsZS1pbWFnZXMlMkYxNTQzMzExNzUyP2l4bGliPXJiLTQuMS4xJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz0wNGFkMDZhZjhkNDE3NDcxNTk2NGE0ZmZmNTNmMGQxMw%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYxZTIwZGI1ZTdlNDA3ZWFlN2I5NzBlYzk5OTg4MGRjOGMzY2MwZjY0JTJGb3JpZ2luYWwuanBnJTNGMTY2NzI3NDk2Mz9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz04OTI0NDcwMDk1MDMyZjUxYmZlNzE3ZjVkOGUzYmE3ZA%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D0db5e6259bef720891efe507901d3252?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgxJTlEJUUzJTgxJUFFJUUzJTgyJUI5JUUzJTgyJUFEJUUzJTgzJUFCJUUzJTgwJTgxJUU2JTlDJUFDJUU1JUJEJTkzJUUzJTgxJUFCJUU1JThBJUI5JUUzJTgxJTg0JUUzJTgxJUE2JUUzJTgyJThCJUVGJUJDJTlGJTIwQWdlbnQlMjBTa2lsbHMlMjAlRTMlODIlOTIlRTMlODAlOEMlRTglQTklOTUlRTQlQkUlQTElRTMlODAlOEQlRTMlODElOTklRTMlODIlOEIzJUUzJTgxJUE0JUUzJTgxJUFFJUUzJTgzJTg0JUUzJTgzJUJDJUUzJTgzJUFCJUUzJTgyJTkyJUU2JUFGJTk0JUUzJTgxJUI5JUUzJTgxJUE2JUUzJTgxJUJGJUUzJTgxJTlGJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjNGRkZGRkYmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9YzkwMTk0MTk2NGMyNGY0MzNiYTIxOGQ0ZDBjMzk3N2Q&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBTeW9pdHUmdHh0LWNvbG9yPSUyM0ZGRkZGRiZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1kNWQ0ZDc5NmZhZTM4NjhjMDdlN2NkMmIwMmM3NWE0NQ&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=S0RESeOCouOCuOODo-OCpOODq-mWi-eZuuOCu-ODs-OCv-ODvOagquW8j-S8muekvg&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%23FFFFFF&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=e005dd7efe5f50c26975ce8221a15589",
-    "fetched_at": "2026-07-17 15:35:13",
-    "ja_summary": "AIエージェントの作業精度を向上させる「Agent Skills」の評価ツール3種を比較検証。\nスキルが正しく機能しているかを定量的に判断するための手法を解説。\n運用の不安を解消し、業務効率を最大化するための選定基準を提示。"
-  },
-  {
-    "title": "AIをすべての人の道具へ､ChatGPTでもClaudeでもない｢仕事を終わらせるAI｣の正体に迫る | ビジネス | 東洋経済オンライン",
-    "link": "https://toyokeizai.net/articles/-/951619?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-    "source": "東洋経済オンライン",
-    "published": "Fri, 17 Jul 2026 13:00:00 +0900",
-    "summary": "AIは｢技術｣から｢道具｣へ——パロアルト発の新興企業Gensparkは､70以上のAIモデルを使い分け､多くの企業で\"AI時代のMicrosoft Office\"と評されるほど急成長を遂げている。…",
-    "image": "https://tk.ismcdn.jp/mwimgs/a/6/1200w/img_a64f35ff19cd1e069f77b6044c50111889732.jpg?nextgen=false",
-    "fetched_at": "2026-07-17 13:22:05",
-    "ja_summary": "・70以上のAIモデルを最適に使い分け、業務を完遂させる新興ツール「Genspark」が急成長中。\n・AIを単なる技術から実用的な「道具」へ変革し、次世代のビジネス標準ツールとして注目を集めている。\n・AI同士を適材適所で連携させることで、従来のチャット型AIにはない効率的な仕事術を実現する。"
   }
 ]
