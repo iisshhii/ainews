@@ -1,5 +1,65 @@
 [
   {
+    "title": "「東京から新潟まで」もAI対応へ--JR東日本が「みどりの窓口」でAIサービスの実証実験",
+    "link": "https://japan.cnet.com/article/35250736/",
+    "source": "CNET Japan",
+    "published": "",
+    "summary": "JR東日本は、「みどりの窓口AI対応サービス（仮称）」の実証実験を、7月に大宮駅と立川駅で実施する。実験開始に先立ち、大宮駅で本サービス機器が報道公開された。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35250736/\"><img src=\"https://japan.cnet.com/storage/2026/07/17/fe43e986bf8d8cf9b51f0a62e26c8c7e/t/184/138/d/aim_000.jpg\" /></a>",
+    "image": "https://japan.cnet.com/storage/2026/07/17/fe43e986bf8d8cf9b51f0a62e26c8c7e/t/184/138/d/aim_000.jpg",
+    "fetched_at": "2026-07-19 20:30:02",
+    "ja_summary": "JR東日本は、「みどりの窓口」の業務をAIが支援する実証実験を7月から大宮駅と立川駅で開始する。\n有人窓口の混雑緩和と効率化を目指し、AIによる対面サポート機能の検証を行う。\n今後、さらなるサービス拡大に向けて大宮駅で専用機器の報道公開が実施された。"
+  },
+  {
+    "title": "中国の最新AIモデル「Kimi K3」、部分的にClaude Fable 5を上回る　2.8兆パラメーター",
+    "link": "https://japan.cnet.com/article/35250737/",
+    "source": "CNET Japan",
+    "published": "",
+    "summary": "中国のAI企業Moonshot AIは7月17日、AIモデル「Kimi K3」を発表した。パラメータ数は2.8兆で、モデルの中身を公開する「オープンモデル」としては世界初の3兆クラスをうたう。チャットサービス「Kimi」のアプリや開発者向けAPIで同日から使える。モデルの重み（ウェイト）も7月27日までに公開する予定だ。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35250737/\"><img src=\"https://japan.cnet.com/storage/2026/07/17/df56f1214c051f56bd1f6ee197d32d8f/t/184/138/d/1d9ccb76dcmosb3rn6vk0.jpeg\" /></a>",
+    "image": "https://japan.cnet.com/storage/2026/07/17/df56f1214c051f56bd1f6ee197d32d8f/t/184/138/d/1d9ccb76dcmosb3rn6vk0.jpeg",
+    "fetched_at": "2026-07-19 20:30:02",
+    "ja_summary": "・中国Moonshot AIが最新AI「Kimi K3（2.8兆パラメータ）」を発表。\n・一部性能で「Claude Fable 5」を上回り、オープンモデルとして世界初の3兆クラス規模を実現。\n・同日からアプリやAPIで利用可能となり、モデルの重みも7月27日までに公開予定。"
+  },
+  {
+    "title": "ChatGPTで始める衛星画像処理入門",
+    "link": "https://zenn.dev/syu_tan/books/chatgpt-satellite-image-intro",
+    "source": "Zenn Trends",
+    "published": "Sun, 19 Jul 2026 05:29:55 GMT",
+    "summary": "生成AIで対話のみの成果物で知識なしでも JAXA の公式配信経路やSTACからデータを取得し、Google Colab で処理します。\n用意した題材に、生成AIへ任せてよいこと、人間とコードで検証すべきことを整理します。事前データがあるので、衛星画像処理の入門書としても活用できます。",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--jREQ4Mf5--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYm9va19jb3Zlci85ZmRmNjVjNmQ3LmpwZWc=%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg?_a=BACMTiAE",
+    "fetched_at": "2026-07-19 20:30:30",
+    "ja_summary": "・生成AIを活用し、専門知識なしで衛星データの取得から解析までを実行可能。\n・AIに任せる作業と人間が検証すべき領域を整理し、安全かつ効率的な活用法を解説。\n・実践的なデータとコードを用いた入門書として、衛星画像処理を即座に開始できる。"
+  },
+  {
+    "title": "codexの独自用語乱立･曖昧問題への対策",
+    "link": "https://zenn.dev/u1/articles/codex-referent-before-label",
+    "source": "Zenn Trends",
+    "published": "Sun, 19 Jul 2026 04:23:22 GMT",
+    "summary": "この記事はXの元記事をZenn向けに再掲載したものです。\n\n codexで起きやすい問題\ncodexでよく起きる問題として､言葉の定義を適当にして設計や実装をしてしまう問題があります｡経験上､claudeだと少し起きづらいのですがcodexの場合､5.5のときからも駄目で5.6にしてもやはり継続して起きていて困っていた件への対策です｡\n例えば､調査レポートの一節に「圧縮時点」という見出しがありました。本文を読むと、その語は「会話履歴が設定量に達したこと」「自動要約を始めるしきい値」「実際に要約が始まる時」の三つを行き来していました。\n文章は流暢で、技術的な説明らしく見えます。\nしかし、一...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--vRI351rT--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:codex%25E3%2581%25AE%25E7%258B%25AC%25E8%2587%25AA%25E7%2594%25A8%25E8%25AA%259E%25E4%25B9%25B1%25E7%25AB%258B%25EF%25BD%25A5%25E6%259B%2596%25E6%2598%25A7%25E5%2595%258F%25E9%25A1%258C%25E3%2581%25B8%25E3%2581%25AE%25E5%25AF%25BE%25E7%25AD%2596%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Yuichi%2520Uemura%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzMwM2U1NDBiMzUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-07-19 20:30:30",
+    "ja_summary": "・Codex等のAIは定義が曖昧な独自用語を多用し、誤解を招く設計や実装を引き起こしやすい。\n・言葉の定義が文脈で揺らぐと、技術文書として成立しなくなる問題がある。\n・AIモデルごとの傾向を把握し、用語定義を厳密に管理する対策が不可欠である。"
+  },
+  {
+    "title": "ImportLintの紹介: import専門の高速なリンター",
+    "link": "https://zenn.dev/uhyo/articles/import-lint-intro",
+    "source": "Zenn Trends",
+    "published": "Sun, 19 Jul 2026 03:46:26 GMT",
+    "summary": "皆さんこんにちは。今回は、筆者が最近Claude Fable 5さんと一緒に開発したImportLintを紹介します。\nhttps://github.com/uhyo/import-lint\n\n eslint-plugin-import-accessを知っている・使っている方向けの概要\nImportLintは、筆者がESLintプラグインとして公開していたeslint-plugin-import-accessを移植し、Rust製の独立したCLIツールとして再実装したものです。eslint-plugin-import-accessの全てのオプションをサポートしており、簡単に移行できます。\n...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--a5Rp8niQ--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:ImportLint%25E3%2581%25AE%25E7%25B4%25B9%25E4%25BB%258B%253A%2520import%25E5%25B0%2582%25E9%2596%2580%25E3%2581%25AE%25E9%25AB%2598%25E9%2580%259F%25E3%2581%25AA%25E3%2583%25AA%25E3%2583%25B3%25E3%2582%25BF%25E3%2583%25BC%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:uhyo%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzVjYjFlMDJlNGQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-07-19 20:30:30",
+    "ja_summary": "・importの制御ツール「eslint-plugin-import-access」が、Rust製の高速な独立CLIツール「ImportLint」として刷新。\n・既存の全オプションを継承しており、eslint-plugin-import-accessからの移行もスムーズ。\n・import管理を効率化し、開発環境のさらなる高速化を実現する。"
+  },
+  {
+    "title": "ループエンジニアリングの次は本当に「グラフ」なのか考えてみた",
+    "link": "https://zenn.dev/jodycraft/articles/dfe38e73e1ef8a",
+    "source": "Zenn Trends",
+    "published": "Sat, 18 Jul 2026 13:56:58 GMT",
+    "summary": "📋 この記事の前提\n\n前回記事「ループエンジニアリングをGitHub Copilotで組めるか調べてみた」を読んでいると話が早い\n「ハーネスエンジニアリング」「ループエンジニアリング」という言葉を見聞きしたことがある\nこの記事は2026年7月18日時点、生まれて1日も経っていない議論を扱っている。数日後には前提が変わっている可能性がある\n\n\n 結論: グラフは配線図、品質を決めるのは配線の交差点\n先に結論を書く。\n「ループの次はグラフだ」という言い方は、半分正しくて半分は言葉が足りない。グラフは複数のループを束ねる配線図としては確かに上位概念だが、配線をどれだけ賢くしても、各交差点で下す...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--IIcDVQTE--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%25AB%25E3%2583%25BC%25E3%2583%2597%25E3%2582%25A8%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%258B%25E3%2582%25A2%25E3%2583%25AA%25E3%2583%25B3%25E3%2582%25B0%25E3%2581%25AE%25E6%25AC%25A1%25E3%2581%25AF%25E6%259C%25AC%25E5%25BD%2593%25E3%2581%25AB%25E3%2580%258C%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%2595%25E3%2580%258D%25E3%2581%25AA%25E3%2581%25AE%25E3%2581%258B%25E8%2580%2583%25E3%2581%2588%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:JodyCraft%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSXdMa1VNVFFwTDF0eFJLblhPTGdmWEhveW52Vmp4UVUzUldWa1h3YUNxdkswdUpPdzlrZz1zMjUwLWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-07-19 20:30:31",
+    "ja_summary": "「ループ」の次は「グラフ」という議論があるが、それは配線図としての一側面に過ぎない。\n本質的な品質は、配線そのものよりも、各交差点で下される判断や処理の質に依存する。\n単なる構造の複雑化ではなく、接点における判断の精度を高めることが重要である。"
+  },
+  {
     "title": "「見ているぞ！」活動家グループがMetaスマートグラスに監視されていると警告する広告を設置",
     "link": "https://www.techno-edge.net/article/2026/07/17/5306.html",
     "source": "TechnoEdge",
@@ -938,65 +998,5 @@
     "image": "https://res.cloudinary.com/zenn/image/upload/s--ZKEdaadp--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:SQL%2520MCP%2520Server%2520%25E3%2581%258C%2520GA%2520%25E3%2581%2597%25E3%2581%259F%25E3%2582%2589%25E3%2581%2597%25E3%2581%2584%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:takashi%2520honma%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2MzZDNiN2I3OGYuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Microsoft%2520%2528%25E6%259C%2589%25E5%25BF%2597%2529%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSks3d0dSTngxRnJrcngzWlJWNXlhMDVzOXM0ZFFxNjVwd0NyWmw5UFJselZhWFl3PXM5Ni1j%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
     "fetched_at": "2026-07-17 19:40:10",
     "ja_summary": "・SQL MCP Serverがひっそりと正式リリース（GA）。\n・Data API Builderを活用し、主要データベースのREST/GraphQL API化を支援する機能。\n・GitHub Copilot等の支援を受けつつ、開発環境への導入や検証を進めることが可能。"
-  },
-  {
-    "title": "非同期パーソナルエージェントのススメ",
-    "link": "https://zenn.dev/mkj/articles/7a8f55591e6baf",
-    "source": "Zenn Trends",
-    "published": "Thu, 16 Jul 2026 02:50:05 GMT",
-    "summary": "松尾研究所シニアデータサイエンティストの太田です。普段はLLMの事後学習や、社内向けのエージェント開発まわりに関わっています。\n先日弊社の尾崎さんの記事でも紹介がありましたが、現在松尾研究所では各個人がパーソナルエージェントの開発と業務の効率化に取り組んでいます。今回は自分が構築しているパーソナルエージェントについて、「非同期性」に焦点を当てて紹介したいと思います。\nエージェントにおける同期型のインタラクションがチャットUIやTUIを始めとした人とエージェントの一対一の会話（キャッチボール）であるとすると、非同期型のインタラクションは「ユーザーが指示するタイミングとエージェントが実行する...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--fz7S3FOA--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E9%259D%259E%25E5%2590%258C%25E6%259C%259F%25E3%2583%2591%25E3%2583%25BC%25E3%2582%25BD%25E3%2583%258A%25E3%2583%25AB%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588%25E3%2581%25AE%25E3%2582%25B9%25E3%2582%25B9%25E3%2583%25A1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:mikio%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2U2NGM3ZTBkMzIuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E6%259D%25BE%25E5%25B0%25BE%25E7%25A0%2594%25E7%25A9%25B6%25E6%2589%2580%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSlMzYUdUQi0wYTN2ZFRMNXJmd0hYR25lNzFVempxTlFMbFhrZDFRdE9ldWo5TlZsNTE9czk2LWM=%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "fetched_at": "2026-07-17 19:40:10",
-    "ja_summary": "・松尾研究所では個人の業務効率化のため、パーソナルエージェントの開発と活用を推進している。\n・従来の対話型（同期）に対し、指示と実行のタイミングを分ける「非同期型」の活用を提唱。\n・ユーザーがその場にいなくてもタスクが自律的に進む仕組みを構築し、生産性の向上を目指す。"
-  },
-  {
-    "title": "Claude Codeのskillをskillでレビューする ― 静的チェック×LLMレビュー×git hooksの3層ゲート",
-    "link": "https://zenn.dev/aldagram_tech/articles/c407ae672c9c0e",
-    "source": "Zenn Trends",
-    "published": "Thu, 16 Jul 2026 01:00:09 GMT",
-    "summary": "こんにちは！アルダグラムでQAエンジニアをしている千葉です。\n私たちのQAチームでは、テスト分析からテスト設計までのQAプロセスをClaude Codeのskill（スキル）として整備し、チームで共同運用しています。\nその中心が、これらのQAプロセスを丸ごと任せられるAIエージェント「qa-orchestrator」です。\n仕組みと効果は、弊社QAメンバーが記事にしていますのでそちらもご参考ください。\nhttps://zenn.dev/aldagram_tech/articles/4aea4b13671ae3\n今ではqa-orchestratorの存在を前提に、固定制インプロセスQAから...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--405xuZJW--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%25E3%2581%25AEskill%25E3%2582%2592skill%25E3%2581%25A7%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25E3%2581%2599%25E3%2582%258B%2520%25E2%2580%2595%2520%25E9%259D%2599%25E7%259A%2584%25E3%2583%2581%25E3%2582%25A7%25E3%2583%2583%25E3%2582%25AF%25C3%2597LLM%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25C3%2597git%2520hooks...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:chiba_k%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2JiM2FkMDk1NzUuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2582%25A2%25E3%2583%25AB%25E3%2583%2580%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%25A0%2520Tech%2520Blog%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSVI1MlRZR09MX3c2WUx4aTBRV2UzWXVHVXBUaHVuQmQ2d3ZNNkh3MkNvRmxDSUNnPXM5Ni1j%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "fetched_at": "2026-07-17 19:40:11",
-    "ja_summary": "・アルダグラム社のQAチームは、テスト工程を担うAIエージェント「qa-orchestrator」を導入。\n・Claude Codeのskillを活用し、静的チェック・LLMレビュー・git hooksの3層構造で品質を担保。\n・AIを前提としたQA体制の構築により、効率的なプロセス運用を実現している。"
-  },
-  {
-    "title": "AI時代のYAGNI：「爆速で無駄になった機能」からの学び / 20260720 Naoki Takahashi",
-    "link": "https://speakerdeck.com/shift_evolve/20260720-naoki-takahashi",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-07-17T05:24:37-04:00",
-    "summary": "2026/7/20 PHP Conference Japan 2026\nhttps://phpcon.php.gr.jp/\n\n株式会社SHIFT\n製造ソリューションサービス部\n髙橋 直規",
-    "image": "https://files.speakerdeck.com/presentations/4483e198301f4610b7b7a5aa367a4755/preview_slide_0.jpg?40015719",
-    "fetched_at": "2026-07-17 19:40:11",
-    "ja_summary": "AI時代において、過剰な機能開発を避ける「YAGNI」の重要性が増している。\n事前の作り込みが「爆速で無駄な機能」を生むリスクを指摘し、技術革新が早い環境下での最適な開発戦略を提言する。\nPHP Conference Japan 2026にて、エンジニアが陥りやすい罠と持続可能な開発のあり方を解説。"
-  },
-  {
-    "title": "エヌビディアCEO「日本よ、もっと速く」　国産基盤始動、フィジカルAIで連携 (日の丸電機サバイバル)",
-    "link": "https://business.nikkei.com/atcl/gen/19/00112/071700242/",
-    "source": "日経ビジネス 最新",
-    "published": "",
-    "summary": "エヌビディアが富士通、ファナックなどとの連携を拡大し、日本でフィジカルAIの実装を急ぐ。一方、国産基盤モデル開発プロジェクト「FRONTia」も始動。ただ、先行する海外勢との差は大きく、参画企業には期待と慎重論が交錯する。",
-    "image": "https://business.nikkei.com/atcl/gen/19/00112/071700242/fb.jpg",
-    "fetched_at": "2026-07-17 17:55:07",
-    "ja_summary": "・エヌビディアが日本企業と連携し、物理空間で機能する「フィジカルAI」の実装を加速。\n・国産AI基盤モデル「FRONTia」も始動したが、海外勢との技術差は依然として大きい。\n・参画する国内メーカーの間では、市場競争への期待と先行者との差に対する懸念が交錯している。"
-  },
-  {
-    "title": "先端半導体製造へ秘策　TSMCに挑む野望と焦り　「タウの法則」の成否 (ファーウェイの逆襲　トヨタも車載OSで頼る　半導体はTSMCに挑む)",
-    "link": "https://business.nikkei.com/atcl/NBD/19/special/02583/",
-    "source": "日経ビジネス 最新",
-    "published": "",
-    "summary": "ファーウェイがAI（人工知能）インフラの中核を担う半導体の覇権をもくろむ。製造に参入し、台湾積体電路製造（TSMC）に比肩する技術の獲得を目指す。独自の半導体進化論「タウの法則」を打ち出してTSMCを追いかける構想だ。",
-    "image": "https://business.nikkei.com/atcl/NBD/19/special/02583/fb.jpg",
-    "fetched_at": "2026-07-17 17:55:09",
-    "ja_summary": "・ファーウェイが独自理論「タウの法則」を掲げ、先端半導体の製造でTSMCへの追随と覇権奪取を目指す。\n・AIインフラの心臓部となる半導体の内製化を急ぎ、車載OSなど幅広い産業での影響力拡大を狙う。\n・米国の制裁下で、技術的優位を確立できるかどうかが同社の成長を左右する分水嶺となる。"
-  },
-  {
-    "title": "ファーウェイとトヨタの共通点 (編集長の視点／取材の現場から)",
-    "link": "https://business.nikkei.com/atcl/NBD/19/00107/00394/",
-    "source": "日経ビジネス 最新",
-    "published": "",
-    "summary": "今やレアアースやAIの最新モデルにまで対象が広がった米中の貿易摩擦ですが、激化のきっかけは2018年、華為技術（ファーウェイ）創業者の娘、当時CFO（最高財務責任者）だった孟晩舟副会長の拘束でした。",
-    "image": "https://business.nikkei.com/atcl/NBD/19/00107/00394/fb.jpg",
-    "fetched_at": "2026-07-17 17:55:10",
-    "ja_summary": "・2018年のファーウェイ副会長拘束が、米中貿易摩擦激化の大きな発端となった。\n・貿易摩擦の対象は現在、レアアースや最新AI技術にまで拡大している。\n・ファーウェイとトヨタの共通点を軸に、現在の対立構造の原点と影響を考察する。"
   }
 ]
