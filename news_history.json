@@ -1,5 +1,45 @@
 [
   {
+    "title": "国産AI開発のノエトラ、NVIDIAのGPU2万7500基で「実世界モデル」構築へ",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03688/071700006/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "ソフトバンクやNEC、ソニーグループ、ホンダの4社を中核企業として立ち上がったNoetra（ノエトラ）が、フィジカルAI向けの「実世界モデル」を構築する。言語・画像・音声・動画・センシングを理解できる、1兆パラメーター規模の推論基盤を持ったマルチモーダル基盤モデルだ。米エヌビディアのGPUを約2万7500基使ったデータセンターなどで開発する。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03688/071700006/topm.jpg?20220512",
+    "fetched_at": "2026-07-19 09:07:25",
+    "ja_summary": "・ソフトバンク、NEC、ソニー、ホンダの4社が新会社「ノエトラ」を設立\n・NVIDIAのGPU約2.7万基を投入し、1兆パラメータ規模の「実世界モデル」を開発\n・言語や動画など多角的な情報を理解する、フィジカルAI向けマルチモーダル基盤を構築する"
+  },
+  {
+    "title": "ChatGPT Workとはなにか　AIエージェントが変える“仕事”のあり方",
+    "link": "https://www.watch.impress.co.jp/docs/topic/2125914.html",
+    "source": "Impress Watch",
+    "published": "",
+    "summary": "ChatGPTと\"コーディングエージェント”の「Codex」が統合した新しい「ChatGPT」デスクトップアプリが10日に登場した。",
+    "image": "https://www.watch.impress.co.jp/img/ipw/list/2125/914/cw01.jpg",
+    "fetched_at": "2026-07-19 09:07:31",
+    "ja_summary": "・ChatGPTのデスクトップ版にコーディングAI「Codex」が統合された新アプリが登場。\n・AIエージェントが自律的に作業を支援し、従来の仕事のあり方を大きく変える。\n・開発や事務作業の自動化が進み、業務効率が劇的に向上する可能性がある。"
+  },
+  {
+    "title": "欧州DMA、Androidに“代替AI”開放要求　Googleは反発",
+    "link": "https://www.watch.impress.co.jp/docs/news/2126071.html",
+    "source": "Impress Watch",
+    "published": "",
+    "summary": "欧州委員会は、デジタル市場法(DMA)に基づき、Googleに対して2つの拘束力のあるガイドラインを提示した。ひとつはAndroid上でのサードパーティ製AIの取扱いについてで、もうひとつはGoogleの検索データにサードパーティ製検索エンジンがアクセスできるようにすること。どちらも競争環境の確保や“バランスの再調整”を念頭に置いたものとしている。Googleは、プライバシーやセキュリティを危険に晒すとして反発している。",
+    "image": "https://www.watch.impress.co.jp/img/ipw/list/2126/071/eug00.jpg",
+    "fetched_at": "2026-07-19 09:07:32",
+    "ja_summary": "・欧州委がDMAに基づき、Androidでの外部AI導入や検索データの開放をGoogleに要求。\n・競争環境の是正を目的とするが、Googleはセキュリティ上の懸念から反発。\n・巨大IT企業の市場独占を抑制する欧州の規制強化が加速している。"
+  },
+  {
+    "title": "ChatGPTに「敬語で話す」人の割合は？ ドコモ調査",
+    "link": "https://japan.cnet.com/article/35250733/",
+    "source": "CNET Japan",
+    "published": "",
+    "summary": "NTTドコモのモバイル社会研究所は7月16日、生成AIへの話しかけ方に関する調査結果を発表した。ChatGPTなどの生成AIに「敬語で話す」人は15%、「あだ名をつけている」人は9%。単なる道具ではなく、会話の相手のように接する人が1〜2割いることがわかった。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35250733/\"><img src=\"https://japan.cnet.com/storage/2026/07/17/48e8cb5036f488352bb5483fd202cd0d/t/184/138/d/large_.jpg\" /></a>",
+    "image": "https://japan.cnet.com/storage/2026/07/17/48e8cb5036f488352bb5483fd202cd0d/t/184/138/d/large_.jpg",
+    "fetched_at": "2026-07-19 09:07:33",
+    "ja_summary": "・ドコモの調査で、生成AIに敬語を使う人は15%、あだ名を付ける人は9%と判明。\n・ユーザーの1〜2割がAIを単なる道具ではなく、会話相手として接している。"
+  },
+  {
     "title": "グーグルのAI動画ツール「Vids」にGemini Omni導入、「自分が登場する動画」も簡単に",
     "link": "https://japan.cnet.com/article/35250727/",
     "source": "CNET Japan",
@@ -958,45 +998,5 @@
     "image": "https://files.speakerdeck.com/presentations/c7b864b6b4e54edf988cf1ba5275ca4c/preview_slide_0.jpg?40014619",
     "fetched_at": "2026-07-17 17:55:58",
     "ja_summary": "・kintoneとAIツール「Copilot Cowork」を連携し、営業の商談前後業務を自動化する方法を解説。\n・自然言語による指示で顧客情報の収集や記録、次アクションの作成が完結し、効率が飛躍的に向上。\n・導入に必要な設定やセキュリティ対策を、ライブデモを交えて網羅的に紹介するウェビナー。"
-  },
-  {
-    "title": "既存プロダクトのRSpec カバレッジを 40% から100% にした話",
-    "link": "https://speakerdeck.com/optim/20260716-railstokyo-skytomo",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-07-17T04:00:51-04:00",
-    "summary": "2026/07/16 開催「RailsTokyo#5」でのオプティム skytomoの発表資料です。\n\nhttps://railstokyo.connpass.com/event/393733/",
-    "image": "https://files.speakerdeck.com/presentations/f29edf3991264ed390539c9f3969ce98/preview_slide_0.jpg?40014337",
-    "fetched_at": "2026-07-17 17:55:58",
-    "ja_summary": "・既存RailsプロダクトのRSpecカバレッジを40%から100%へ引き上げた手法を解説。\n・大規模なテスト修正における戦略や、品質担保のための実践的な知見を共有。\n・レガシーコードの改善やテスト環境の強化を目指すエンジニア向けの事例。"
-  },
-  {
-    "title": "バイブコーディングで本当にアプリはリリースできるのか？エンジニアが実際にアプリをリリースして感じたこと",
-    "link": "https://qiita.com/yutaka_kozuka/items/cc3be5930b972130885d",
-    "source": "Qiita (Popular)",
-    "published": "2026-07-05T11:59:41+09:00",
-    "summary": "## TL;DR\n\nQ: バイブコーディングで本当にアプリをリリースできるのか？  \nA: できました。ただし「商用・セキュア」という条件では、非エンジニアにはまだ厳しいと感じました。\n\n- AI英語学習アプリをゼロから個人開発し、Web・iOS App Store の両方でリリースできました\n- AIは「コードを書くこと」を代替できますが、「何を確認すべきか」の判断は代替できません\n- 一番大変",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Ftech-festa-ogp-background-4b5015b2c518c7e6b9062a7c9f5f5e90.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0MDQ3Mzg5JTJGYjlkMDJiOWVlMWFmYWI4ODNlM2I0ZjQ2ZTg3ZDA3ZjFkNjA5YzlkNSUyRnhfbGFyZ2UucG5nJTNGMTc0MzUxMjU5ND9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9OWRlOWYzMjMyZWQ3ZWExZWY5ZmI2MzRiYzc4YjZiZTg%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D662b8f23d55b88eb8b2ea06fc3953dae?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgzJTkwJUUzJTgyJUE0JUUzJTgzJTk2JUUzJTgyJUIzJUUzJTgzJUJDJUUzJTgzJTg3JUUzJTgyJUEzJUUzJTgzJUIzJUUzJTgyJUIwJUUzJTgxJUE3JUU2JTlDJUFDJUU1JUJEJTkzJUUzJTgxJUFCJUUzJTgyJUEyJUUzJTgzJTk3JUUzJTgzJUFBJUUzJTgxJUFGJUUzJTgzJUFBJUUzJTgzJUFBJUUzJTgzJUJDJUUzJTgyJUI5JUUzJTgxJUE3JUUzJTgxJThEJUUzJTgyJThCJUUzJTgxJUFFJUUzJTgxJThCJUVGJUJDJTlGJUUzJTgyJUE4JUUzJTgzJUIzJUUzJTgyJUI4JUUzJTgzJThCJUUzJTgyJUEyJUUzJTgxJThDJUU1JUFFJTlGJUU5JTlBJTlCJUUzJTgxJUFCJUUzJTgyJUEyJUUzJTgzJTk3JUUzJTgzJUFBJUUzJTgyJTkyJUUzJTgzJUFBJUUzJTgzJUFBJUUzJTgzJUJDJUUzJTgyJUI5JUUzJTgxJTk3JUUzJTgxJUE2JUU2JTg0JTlGJUUzJTgxJTk4JUUzJTgxJTlGJUUzJTgxJTkzJUUzJTgxJUE4JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjNGRkZGRkYmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9YzNhZGUzNGU1NTM0OGNjMzY2N2RhMWQ5ODQxMGU0NzQ&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDB5dXRha2Ffa296dWthJnR4dC1jb2xvcj0lMjNGRkZGRkYmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9YWUwZTJkMGM3NTIwYjEwYjA2MThjNWUyODg0ZTI4MDI&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=6169a42946bc61deb8f8aa23381db164",
-    "fetched_at": "2026-07-17 17:56:02",
-    "ja_summary": "・AI活用による「バイブコーディング」でアプリの個人開発・リリースは十分に可能。\n・AIは実装を代替できるが、品質管理や技術的判断には依然としてエンジニアの知識が必要。\n・商用・セキュアなアプリを非エンジニアが単独で完結させるには、まだ高い壁がある。"
-  },
-  {
-    "title": "富士通・ファナック・安川・川崎重工が結集　エヌビディアと「フィジカルAI」始動",
-    "link": "https://www.itmedia.co.jp/business/articles/2607/16/news097.html",
-    "source": "ITmedia ビジネス",
-    "published": "Thu, 16 Jul 2026 17:59:00 +0900",
-    "summary": "富士通は16日、ファナック、安川電機、川崎重工業の3社とともにAIが自律的にロボットを制御する「フィジカルAI」分野で、半導体大手エヌビディアの技術などを用い協業すると発表した。",
-    "image": "https://image.itmedia.co.jp/business/articles/2607/16/cover_news097.jpg",
-    "fetched_at": "2026-07-17 15:34:26",
-    "ja_summary": "・富士通とロボット大手3社が、エヌビディアと「フィジカルAI」開発で連携\n・AIが自律的にロボットを制御する次世代技術の確立を目指す\n・産業用ロボットの高度化と製造現場の自動化を加速させる狙い"
-  },
-  {
-    "title": "みずほFGがAIエージェント3000体構想、銀行業務全体をAI前提で再設計へ",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11900/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "みずほフィナンシャルグループがAIエージェントの導入を加速させている。一部業務の自動化にとどまらず、業務プロセス全体をAI前提で再設計する「AIネイティブプロセス」と呼ぶ取り組みに着手。15領域・100業務プロセスで3000体以上のAIエージェントを導入する方針を表明した。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11900/topm.jpg?20220512",
-    "fetched_at": "2026-07-17 15:34:33",
-    "ja_summary": "・みずほFGが「AIネイティブ」へ業務プロセスを抜本的に再設計。\n・15領域・100業務で3000体以上のAIエージェントを導入へ。\n・一部の自動化にとどまらず、銀行業務全体をAI前提の仕組みへ移行。"
   }
 ]
