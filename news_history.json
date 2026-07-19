@@ -1,5 +1,15 @@
 [
   {
+    "title": "逆襲のファーウェイ／就活生、面接も試験もAI頼み／ロシア製ドローンに日本部品（2026年7月17日版） (日経ビジネスAUDIOモーニング)",
+    "link": "https://business.nikkei.com/atcl/audio/22/00001/071600921/",
+    "source": "日経ビジネス 最新",
+    "published": "",
+    "summary": "［新連載］逆襲のファーウェイ、トヨタが車載OS採用　EV・半導体で狙う新覇権／今どきの就活生、面接も試験もAI頼み　「不正」の線引き難しく／ウクライナ撃墜のロシア製ドローン、搭載部品の過半が米国製　日本企業も10社、他",
+    "image": "https://business.nikkei.com/atcl/audio/22/00001/071600921/fb.jpg",
+    "fetched_at": "2026-07-20 02:13:21",
+    "ja_summary": "・ファーウェイがトヨタへの車載OS供給などでEV・半導体分野の覇権拡大を狙う。\n・就活でのAI利用が常態化し、不正の線引きが課題となる新たな実態。\n・ウクライナで回収されたロシア製ドローンに、米国や日本企業の部品が多数含まれていた。"
+  },
+  {
     "title": "今どきの就活生、面接も試験もAI頼み　「不正」の線引き難しく (人的資本の現場から)",
     "link": "https://business.nikkei.com/atcl/gen/19/00636/071500101/",
     "source": "日経ビジネス 最新",
@@ -988,15 +998,5 @@
     "image": "https://www.techno-edge.net/imgs/rss/33006.jpg",
     "fetched_at": "2026-07-17 20:56:49",
     "ja_summary": "・AIリサーチツール「NotebookLM」が「Gemini Notebook」へ名称変更\n・コード実行機能が新たに追加され、分析能力が向上\n・GoogleのAI活用プラットフォームとしての利便性が強化"
-  },
-  {
-    "title": "Claude Code の Plan モードをループエンジニアリングで楽にする",
-    "link": "https://zenn.dev/k_yoshiya/articles/claude-code-plan-mode-loop",
-    "source": "Zenn Trends",
-    "published": "Thu, 16 Jul 2026 07:40:05 GMT",
-    "summary": "はじめに\nClaude Code の Plan モードを、人間の労力を少なくして使いこなすためのループエンジニアリングをしてみました。この記事を読むと、hook を使って Plan モードに「質問による要件詰め」「実装のサブエージェント委譲」「計画の HTML 確認」を自動で組み込む方法がわかります。\n\n ねらい\nPlan モードの運用に、次の 3 つを組み込みます。うち 1 と 3 の一部（reject 時の再生成サイクル）が反復＝ループ、2 はモデル/セッションの割り当て設計（いわゆるハーネス寄り）です。\n\nPlan モードの初回プロンプト以降のタイピング負荷を AskUserQ...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--yYwQSoYv--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%2520%25E3%2581%25AE%2520Plan%2520%25E3%2583%25A2%25E3%2583%25BC%25E3%2583%2589%25E3%2582%2592%25E3%2583%25AB%25E3%2583%25BC%25E3%2583%2597%25E3%2582%25A8%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%258B%25E3%2582%25A2%25E3%2583%25AA%25E3%2583%25B3%25E3%2582%25B0%25E3%2581%25A7%25E6%25A5%25BD%25E3%2581%25AB%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Yoshiya%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2Y5YzEzOTQ2ZTEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "fetched_at": "2026-07-17 20:57:23",
-    "ja_summary": "Claude CodeのPlanモードを自動化・効率化する「ループエンジニアリング」の手法を解説。\n要件定義・サブエージェントへの委譲・計画のHTML確認を自動で組み込むことで、手作業を削減。\nAIとの対話や再生成プロセスを自動化し、開発工数を大幅に短縮する仕組みを紹介。"
   }
 ]
