@@ -1,5 +1,45 @@
 [
   {
+    "title": "ついに iPhoneも値上げ、Pro Maxは最安21万円超・廉価版17eも10万円台　AirPodsとApple Watchも (新旧価格表)",
+    "link": "https://www.techno-edge.net/article/2026/07/18/5307.html",
+    "source": "TechnoEdge",
+    "published": "Sat, 18 Jul 2026 07:49:19 +0900",
+    "summary": "Appleが7月18日、日本のApple StoreでiPhone、Apple Watch、AirPodsの販売価格を引き上げました。事前の告知はなく、オンラインストアの表示価格が同日付で改定される形で実施されています。対象は現行モデルに加え、前世代のiPhone 16シリーズにも及びます。",
+    "image": "https://www.techno-edge.net/imgs/rss/33018.jpg",
+    "fetched_at": "2026-07-20 21:29:33",
+    "ja_summary": "・Appleが7月18日、日本国内のiPhone、Apple Watch、AirPodsを一斉に値上げ\n・告知なしの突然の価格改定で、iPhone 16シリーズを含む幅広い現行・旧モデルが対象\n・最上位のPro Maxは21万円超、廉価版も10万円台に突入し、実質的な販売価格が上昇"
+  },
+  {
+    "title": "コーディングエージェントにオーケストレーションを任せる",
+    "link": "https://zenn.dev/himkt/articles/865063822ef701",
+    "source": "Zenn Trends",
+    "published": "Sun, 19 Jul 2026 14:19:34 GMT",
+    "summary": "開発しているコーディングエージェントオーケストレータ cafleet の基本思想について整理するために記事を書きます（よかったら GitHub のリポジトリにスターをください。とっても励みになります）。\nhttps://github.com/himkt/cafleet\nhttps://himkt.github.io/cafleet/\n\n cafleet 開発のきっかけ（Agent Teams との出会い）\n私が cafleet （当時は hikyaku という名前だった）の開発を始めたのは 2026 年の 3 月末でした。 2 月に Claude Code に Agent Teams と...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--FPOj0d3j--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2587%25E3%2582%25A3%25E3%2583%25B3%25E3%2582%25B0%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588%25E3%2581%25AB%25E3%2582%25AA%25E3%2583%25BC%25E3%2582%25B1%25E3%2582%25B9%25E3%2583%2588%25E3%2583%25AC%25E3%2583%25BC%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3%25E3%2582%2592%25E4%25BB%25BB%25E3%2581%259B%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:himkt%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2dQRmRRSEIxekpSaVVlSVA1VU1Pa0JyN1cxVW5VMEU4VEM4QnhiVE1jPXM5Ni1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-07-20 21:29:56",
+    "ja_summary": "開発者向けコーディングエージェントのオーケストレーションツール「cafleet」の基本思想と開発背景を解説。\n複数のエージェントを連携させて作業効率を高める「Agent Teams」の概念に基づき設計されている。\nツール詳細はGitHubおよび公式ドキュメントで公開されており、現在も開発と改善が進められている。"
+  },
+  {
+    "title": "あなたの技術ブログの「AI臭さ」を抜くスキル公開します",
+    "link": "https://qiita.com/minorun365/items/699e89544da8b0de300d",
+    "source": "Qiita (Popular)",
+    "published": "2026-07-13T09:57:44+09:00",
+    "summary": ":::note\n以下の内容をそのままコピペして、Claude CodeやCodexに「ユーザースコープのスキルに追加しといて」と頼めばOK。\n:::\n\n```\n---\nname: writing-guide\ndescription: AI臭さを消す汎用執筆ガイド。ブログ・スライドなど、あらゆる書き物で使える文章スタイルルール\nuser-invocable: true\nmodel: opus\n---",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Ftech-festa-ogp-background-4b5015b2c518c7e6b9062a7c9f5f5e90.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYxNjMzODU2JTJGYzIyNmJjMzRhYzZjNDVhMjFmNWU1MTJkMWM3MmE2ZjA5NzQ5NDU3OCUyRnhfbGFyZ2UucG5nJTNGMTY5OTk1NDk3Nj9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9MTlhZDI4ODRkNmQ2MzEyNjMxZDJkNTBjOTZmOTA5ZjU%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYxZTIwZGI1ZTdlNDA3ZWFlN2I5NzBlYzk5OTg4MGRjOGMzY2MwZjY0JTJGb3JpZ2luYWwuanBnJTNGMTY2NzI3NDk2Mz9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz04OTI0NDcwMDk1MDMyZjUxYmZlNzE3ZjVkOGUzYmE3ZA%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3Dbb59006175a60e1b630ed499046d0424?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgxJTgyJUUzJTgxJUFBJUUzJTgxJTlGJUUzJTgxJUFFJUU2JThBJTgwJUU4JUExJTkzJUUzJTgzJTk2JUUzJTgzJUFEJUUzJTgyJUIwJUUzJTgxJUFFJUUzJTgwJThDQUklRTglODclQUQlRTMlODElOTUlRTMlODAlOEQlRTMlODIlOTIlRTYlOEElOUMlRTMlODElOEYlRTMlODIlQjklRTMlODIlQUQlRTMlODMlQUIlRTUlODUlQUMlRTklOTYlOEIlRTMlODElOTclRTMlODElQkUlRTMlODElOTkmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyM0ZGRkZGRiZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz05NzdlYzA2YTQwYmIzNmNiZTkxZGEzNTk0ZDYyMjNhOQ&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBtaW5vcnVuMzY1JnR4dC1jb2xvcj0lMjNGRkZGRkYmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9NDNhZjg0MGViODE0MzBhMmQyODM2OGUyY2Y0NjIwMTY&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=S0RESeOCouOCuOODo-OCpOODq-mWi-eZuuOCu-ODs-OCv-ODvOagquW8j-S8muekvg&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%23FFFFFF&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=28be5c3c25dfa531a19ae482900dd5db",
+    "fetched_at": "2026-07-20 21:30:00",
+    "ja_summary": "提示された指示をClaude等のAIツールに追加することで、AI特有の回りくどい言い回しを排除し、簡潔で実用的なビジネス文書を作成できるようになります。"
+  },
+  {
+    "title": "「15歳とChatGPT」より、4万6812件が退会させられたシステムについて考えたい",
+    "link": "https://qiita.com/ZiYuCai1984/items/636c7c15cd666e987a90",
+    "source": "Qiita (Popular)",
+    "published": "2026-07-12T16:15:00+09:00",
+    "summary": "> 本記事は筆者の考えをベースに、**ChatGPT 5.6** を用いて構成・推敲したものです。\n> 内容の主張と判断は筆者によるものであり、文章表現の整理に ChatGPT 5.6 を活用しています。\n\n15歳の高校生が、動画配信サービス「バンダイチャンネル」にサイバー攻撃を行い、4万6812件の会員アカウントを本人の意図に反して退会処理させた疑いで逮捕されたと、[TBS NEWS DIGが報",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmF2YXRhcnMuZ2l0aHVidXNlcmNvbnRlbnQuY29tJTJGdSUyRjY0MjAwMTk2JTNGdiUzRDQ_aXhsaWI9cmItNC4xLjEmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPWI3NDM1ZjI4ZWVhNTA1YTgyYjA0ZjIwYzk4YjNkN2E0%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D506e4e96c98ba7d2c577f3d2ef2cd733?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJThDMTUlRTYlQUQlQjMlRTMlODElQThDaGF0R1BUJUUzJTgwJThEJUUzJTgyJTg4JUUzJTgyJThBJUUzJTgwJTgxNCVFNCVCOCU4NzY4MTIlRTQlQkIlQjYlRTMlODElOEMlRTklODAlODAlRTQlQkMlOUElRTMlODElOTUlRTMlODElOUIlRTMlODIlODklRTMlODIlOEMlRTMlODElOUYlRTMlODIlQjclRTMlODIlQjklRTMlODMlODYlRTMlODMlQTAlRTMlODElQUIlRTMlODElQTQlRTMlODElODQlRTMlODElQTYlRTglODAlODMlRTMlODElODglRTMlODElOUYlRTMlODElODQmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz0xZDA5OTAxM2FjMzYyZGQzNzFiNzc3ODc1N2I0ZGM4ZQ&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBaaVl1Q2FpMTk4NCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTJiNjUyZjAxODViNzFlNDc2ZWRiMDMzNjJmN2Q3YTNl&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=f0778ae907694bc352ff2c68a165384e",
+    "fetched_at": "2026-07-20 21:30:01",
+    "ja_summary": "・15歳の高校生が「バンダイチャンネル」へ不正アクセスし、約4.7万件のアカウントを強制退会させた疑いで逮捕。\n・本件を題材に、AI（ChatGPT）を活用しながら、若年層によるサイバー攻撃の背景やシステムの脆弱性について考察する内容。"
+  },
+  {
     "title": "【ヒット記事まとめ】ChatGPT、Gemini、Copilot……生成AIツールの「使い分け」最適解は？【無料配布】",
     "link": "https://www.itmedia.co.jp/business/articles/2607/17/news012.html",
     "source": "ITmedia ビジネス",
@@ -958,45 +998,5 @@
     "image": "https://www.watch.impress.co.jp/img/ipw/list/2126/233/g01.jpg",
     "fetched_at": "2026-07-18 09:15:03",
     "ja_summary": "・Google検索のAIモードが外部サービスと連携強化\n・Canva、Instacart、YouTube Musicなどが利用可能に\n・米国を皮切りに順次提供を開始"
-  },
-  {
-    "title": "歌謡曲の巨匠サウンドをアルゴリズムで。ローカル生成するブラウザアプリをClaude Fable 5で作ってみた（CloseBox）",
-    "link": "https://www.techno-edge.net/article/2026/07/17/5305.html",
-    "source": "TechnoEdge",
-    "published": "Fri, 17 Jul 2026 09:15:36 +0900",
-    "summary": "これまで、ビートルズ（ポール・マッカートニー、ジョン・レノン、ジョージ・ハリスン）、ユーミン（荒井由実時代）の作風をアルゴリズムとして組み込んだブラウザアプリを作ってきましたが、次は歌謡曲にチャンレンジしてみます。ターゲットは大好きな作曲家である筒美京平先生。果たしてどの程度できるのか？",
-    "image": "https://www.techno-edge.net/imgs/rss/33009.png",
-    "fetched_at": "2026-07-18 09:15:24",
-    "ja_summary": "・ブラウザ上で特定の作曲家の作風を再現する音楽生成アプリを開発中。\n・今回は筒美京平氏の歌謡曲サウンドのアルゴリズム化に挑戦。\n・過去にはビートルズやユーミンの作風を再現するアプリも制作。"
-  },
-  {
-    "title": "Introducing a way to reflect on how you use Claude",
-    "link": "https://www.anthropic.com/news/reflect-with-claude",
-    "source": "Anthropic (News)",
-    "published": "Thu, 09 Jul 2026 00:00:00 +0000",
-    "summary": "Introducing a way to reflect on how you use Claude",
-    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Quill&amp;backgroundColor=cactus",
-    "fetched_at": "2026-07-18 09:15:42",
-    "ja_summary": "・Claudeの使用状況を振り返る新機能が登場。\n・利用パターンや対話の傾向を分析し、活用方法の改善をサポート。\n・ユーザーの生産性向上やAI活用の最適化を促進する。"
-  },
-  {
-    "title": "“それは自分の仕事じゃない\"を�越えて行け",
-    "link": "https://speakerdeck.com/yuukiyo/go-beyond-thats-not-my-job",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-07-17T19:33:38-04:00",
-    "summary": "KAG AI WEEK Summer : Final Night Offline Meetup!での登壇スライドです。\nhttps://kddi-agile.connpass.com/event/398190/",
-    "image": "https://files.speakerdeck.com/presentations/e2f4df7aed9f4b6695d86b87ded5f661/preview_slide_0.jpg?40020441",
-    "fetched_at": "2026-07-18 09:15:55",
-    "ja_summary": "・「それは自分の仕事ではない」という境界線を越え、領域を広げて価値を創出するマインドセットを解説。\n・担当範囲に固執せず、自律的に課題へ取り組むことが個人の市場価値と組織の成果に繋がる。\n・既存の役割にとらわれず、柔軟に動き出すための具体的な考え方と行動指針を提示。"
-  },
-  {
-    "title": "アップル、iPhoneを日本で一斉値上げ　半導体不足ではなく円安要因か",
-    "link": "https://japan.cnet.com/article/35250747/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "アップルは7月18日までに、iPhoneの国内販売価格を全モデルで引き上げた。公式サイトの表示価格が同日未明までに改定されたもので、事前の告知はなかった。値上げ幅はモデルと容量により8000円〜2万5000円。あわせてApple WatchやAirPodsの大半のモデルも値上げされている。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35250747/\"><img src=\"https://japan.cnet.com/storage/2025/09/19/382cbf97e2ba3ff562a2873f536da0ae/t/184/138/d/hero-img-2903_1280x960.jpg\" /></a>",
-    "image": "https://japan.cnet.com/storage/2025/09/19/382cbf97e2ba3ff562a2873f536da0ae/t/184/138/d/hero-img-2903_1280x960.jpg",
-    "fetched_at": "2026-07-18 08:24:45",
-    "ja_summary": "・アップルが日本国内のiPhone全モデルを一斉値上げ\n・値上げ幅は8,000円〜25,000円、Apple Watch等も対象\n・急激な円安が主な要因と見られ、事前告知なしでの改定となった"
   }
 ]
