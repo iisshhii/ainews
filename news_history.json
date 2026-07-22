@@ -1,5 +1,65 @@
 [
   {
+    "title": "グーグル「Gemini 3.6 Flash」公開　効率・品質バランスに優れた主力モデル",
+    "link": "https://www.watch.impress.co.jp/docs/news/2126749.html",
+    "source": "Impress Watch",
+    "published": "",
+    "summary": "Googleは21日(米国時間)、「Gemini 3.6 Flash」、「Gemini 3.5 Flash-Lite」、「Gemini 3.5 Flash Cyber」の3つの新モデルを発表した。Gemini 3.5 Flashを基盤とし、エージェント型ワークフローに適した、効率と品質の最適なバランスを特徴とする。",
+    "image": "https://www.watch.impress.co.jp/img/ipw/list/2126/749/g01.jpg",
+    "fetched_at": "2026-07-22 10:05:15",
+    "ja_summary": "・GoogleがAI新モデル「Gemini 3.6 Flash」など3種を発表。\n・基盤モデルを改良し、効率性と品質のバランスを最適化。\n・エージェント型ワークフローでの活用に適した性能を実現。"
+  },
+  {
+    "title": "アンソロピックに10億ドルを投資してきたVCが、含み益130億ドルに達した現在も後悔していること",
+    "link": "https://www.businessinsider.jp/article/cutting-edge-20260722-inside-menlos-early-anthropic-investment-that-broke-all-the-rules/",
+    "source": "Business Insider Japan",
+    "published": "Wed, 22 Jul 2026 00:25:00 GMT",
+    "summary": "アンスロピック（Anthropic）へのごくわずかな投資機会を捉え、ついには巨額の利益を生み出したメンロー・ベンチャーズ（Menlo Ventures）のマット・マーフィー氏が、当時の葛藤や苦悩、転換点となった出来事など、投資判断をめぐる舞台裏を語りました。",
+    "image": "https://media.loom-app.com/loom/2026/07/22/a8b1e15e-7a76-4f72-a16f-585162b1ad96/original.jpg?w=1200&amp;h=630",
+    "fetched_at": "2026-07-22 10:05:21",
+    "ja_summary": "・メンロー・ベンチャーズがアンソロピックへの早期投資で130億ドルの含み益を達成。\n・巨額利益を得た一方で、投資家は当時の判断プロセスやリスクへの葛藤を回顧。\n・成功の裏にあった舞台裏と、投資家として何を学び、何を後悔しているかを明かした。"
+  },
+  {
+    "title": "Anthropic commits $10 million to Canadian AI research",
+    "link": "https://www.anthropic.com/news/canadian-ai-research",
+    "source": "Anthropic (News)",
+    "published": "Tue, 14 Jul 2026 00:00:00 +0000",
+    "summary": "Anthropic commits $10 million to Canadian AI research",
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Node%20Globe&amp;backgroundColor=cactus",
+    "fetched_at": "2026-07-22 10:05:32",
+    "ja_summary": "・AI開発企業のAnthropicがカナダのAI研究に対し1,000万ドルを投資する。\n・カナダのAI研究エコシステムの発展と技術革新を支援する狙い。\n・北米におけるAI開発の拠点を強化し、競争力を高める動き。"
+  },
+  {
+    "title": "Introducing Claude for Teachers",
+    "link": "https://www.anthropic.com/news/claude-for-teachers",
+    "source": "Anthropic (News)",
+    "published": "Tue, 14 Jul 2026 00:00:00 +0000",
+    "summary": "Introducing Claude for Teachers",
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+    "fetched_at": "2026-07-22 10:05:33",
+    "ja_summary": "・Anthropicが教育関係者向けに最適化されたAI活用ガイド「Claude for Teachers」を公開。\n・授業計画の作成、採点補助、教材開発など、教員の事務負担を大幅に軽減する手法を提供。\n・生成AIを教育現場で安全かつ効果的に活用するためのベストプラクティスを網羅。"
+  },
+  {
+    "title": "変更し続けられるシステムをどう保つか — AI時代のSSoTという設計原則",
+    "link": "https://speakerdeck.com/kawauso/bian-geng-sisok-kerarerusisutemuwodoubao-tuka-aishi-dai-nossottoiushe-ji-yuan-ze",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-07-19T10:06:35-04:00",
+    "summary": "# 概要\nAIにより実装速度が上がる一方、システムは複雑化し変更頻度も加速しています。問われるのは「変更し続けられる構造」をどう保つかです。Dress Codeでは、修正コストが再構築コストを上回る今、仕様・意思決定・イベントといった事実をSSoT（Single Source of Truth）として残し、「壊して作り直せる」という思想のもと設計しています。全データの唯一の情報源となるCore DBやEvent Sourcingの実践を通じ、変更容易性と開発生産性をどう両立しているかをご紹介します。\n\n# プロフィール\n河村 勇樹 / Dress Code株式会社 / Product & Technology テックリード / <a href=\"https://x.com/_syoryu89\">かわうそ（@_syoryu89）</a>\n\n2019年に新卒で大手事業会社に入社し、航空気象サービスの開発に携わる。2021年にレバレジーズ株式会社に中途入社。レバテックCTO室のテックリードとして「レバテック」の開発・組織を牽引。レバテックのリアーキテクトやTiDBの導入を推進。2024年11月にDress Code株式会社に中途入社。アーキテクチャを中心にフルスタックに開発。ドメイン駆動設計やEvent Sourcing・CQRSを推進。採用や技術広報・組織設計にも携わる。趣味はお酒とゴルフとカワウソ鑑賞。",
+    "image": "https://files.speakerdeck.com/presentations/90003014db9e4f39b303634eb3d8d49b/preview_slide_0.jpg?40043279",
+    "fetched_at": "2026-07-22 10:06:00",
+    "ja_summary": "・AI時代に複雑化するシステムでは、修正コストを抑えるために「壊して作り直せる」設計が不可欠。\n・仕様や意思決定などの事実をSSoT（単一の正実源）として集約し、変更に強い構造を維持する。\n・Core DBやEvent Sourcingの実践を通じ、変更容易性と開発生産性の両立を目指す。"
+  },
+  {
+    "title": "CLAUDE.md 設計パターン集──プロジェクト規模別に使い分ける7つのテンプレート",
+    "link": "https://qiita.com/hikariclaude01/items/e54c70c90c6aa84d0f66",
+    "source": "Qiita (Popular)",
+    "published": "2026-07-20T10:01:57+09:00",
+    "summary": "\n## 結論：Claude Code の出力品質を最も左右するのはプロンプトでもモデルでもなく、CLAUDE.md の書き方だった。\n\nClaude Code を導入したチームの中で「期待通りのコードが出る」チームと「毎回手直しが必要」なチームの差を調べると、**CLAUDE.md の設計品質**に行き着きます。\n\nこの記事では、プロジェクト規模別に使い分ける **7つの CLAUDE.md テン",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmxoMy5nb29nbGV1c2VyY29udGVudC5jb20lMkZhJTJGQUNnOG9jTGk1aVE4T3piMTlUelk5Q3RaVGtaVkpuenZXbFExamRodlE0Y0wzR052M0tFbjFRJTNEczk2LWM_aXhsaWI9cmItNC4xLjEmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPTg3YmI3Y2UxNzBhYmZiM2MxOGUwMTNkNDIzNzg3NjY3%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D33ccc99d6ec24d5656ce3ff8c27cc671?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9Q0xBVURFLm1kJTIwJUU4JUE4JUFEJUU4JUE4JTg4JUUzJTgzJTkxJUUzJTgyJUJGJUUzJTgzJUJDJUUzJTgzJUIzJUU5JTlCJTg2JUUyJTk0JTgwJUUyJTk0JTgwJUUzJTgzJTk3JUUzJTgzJUFEJUUzJTgyJUI4JUUzJTgyJUE3JUUzJTgyJUFGJUUzJTgzJTg4JUU4JUE2JThGJUU2JUE4JUExJUU1JTg4JUE1JUUzJTgxJUFCJUU0JUJEJUJGJUUzJTgxJTg0JUU1JTg4JTg2JUUzJTgxJTkxJUUzJTgyJThCNyVFMyU4MSVBNCVFMyU4MSVBRSVFMyU4MyU4NiVFMyU4MyVCMyVFMyU4MyU5NyVFMyU4MyVBQyVFMyU4MyVCQyVFMyU4MyU4OCZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPWJkZDc2MWUxYmIwYjM3OGFlN2Y2OWRhMWM5ZWVkYzVj&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBoaWthcmljbGF1ZGUwMSZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTdhNjg4MGM3Y2EyODZkZDgzMTYyNmI3MjEzZTJjNWNj&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=9e373a5b4db208d1a4fc95d870eec208",
+    "fetched_at": "2026-07-22 10:06:02",
+    "ja_summary": "・Claude Codeの出力品質はプロンプトやモデルより「CLAUDE.md」の設計に依存する。\n・チームの生産性を高めるため、プロジェクト規模別に最適化した7つのテンプレートを紹介。\n・適切な設計指針を記述することで、手直し不要な精度の高いコード生成を実現する。"
+  },
+  {
     "title": "NTT、ソフトバンク、サカナAI――国産AI開発「成功組」の“ある共通点”",
     "link": "https://www.itmedia.co.jp/business/articles/2607/21/news036.html",
     "source": "ITmedia ビジネス",
@@ -938,65 +998,5 @@
     "image": "https://images.ctfassets.net/kftzwdyauwt9/4NGTbmWC5Q6asKYmOTchmz/8fde35f181e02c0dcf3b7334db08d394/why-teens-seo.jpg?w=1600&amp;h=900&amp;fit=fill",
     "fetched_at": "2026-07-21 13:29:18",
     "ja_summary": "・OpenAIがChatGPTに10代向けの安全機能を導入。\n・年齢に応じた保護機能、学習ツール、ペアレンタルコントロールを整備。\n・専門家と連携し、安全かつ教育的なAI利用環境を構築。"
-  },
-  {
-    "title": "ChatGPTで始める衛星画像処理入門",
-    "link": "https://zenn.dev/syu_tan/books/chatgpt-satellite-image-intro",
-    "source": "Zenn Trends",
-    "published": "Sun, 19 Jul 2026 05:29:55 GMT",
-    "summary": "生成AIで対話のみの成果物で知識なしでも JAXA の公式配信経路やSTACからデータを取得し、Google Colab で処理します。\n用意した題材に、生成AIへ任せてよいこと、人間とコードで検証すべきことを整理します。事前データがあるので、衛星画像処理の入門書としても活用できます。",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--jREQ4Mf5--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYm9va19jb3Zlci85ZmRmNjVjNmQ3LmpwZWc=%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg?_a=BACMTiAE",
-    "fetched_at": "2026-07-21 13:29:35",
-    "ja_summary": "・ChatGPTを活用し、専門知識がなくてもJAXA等の衛星データ取得から画像処理までを実践可能。\n・生成AIに任せる作業と人間が検証すべき作業を明確に切り分け、効率的な開発手法を習得できる。\n・事前データ付きのため、衛星画像処理を学びたい初心者の入門書としても最適。"
-  },
-  {
-    "title": "20260715 AWS Trainium / Neuron SDK 最新アップデート",
-    "link": "https://speakerdeck.com/htokoyo/20260715-neuron-community-trainium-updates",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-07-20T23:10:56-04:00",
-    "summary": "2026/7/15に開催された Neuron Community 2026 Vol.1 イベントから：\nAWS Trainium / Neuron SDK 最新アップデート",
-    "image": "https://files.speakerdeck.com/presentations/c3eed87378d84b61b693c62327c767ed/preview_slide_0.jpg?40038321",
-    "fetched_at": "2026-07-21 13:29:35",
-    "ja_summary": "・AWS Trainiumの性能とNeuron SDKの機能が最新アップデートで強化された。\n・Neuron Community 2026 Vol.1にて、開発効率と実行パフォーマンス向上の詳細が発表。\n・AI学習・推論のコスト最適化と、対応モデルのさらなる拡大が実現。"
-  },
-  {
-    "title": "「顧客の声を聞かなければ何も始まらない」 ── 顧客の声から生まれた『AI返信補助機能』の開発プロセス / AICon2026_shikata_imai",
-    "link": "https://speakerdeck.com/rakus_dev/aicon2026-shikata-imai",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-07-20T21:15:52-04:00",
-    "summary": "",
-    "image": "https://files.speakerdeck.com/presentations/aa05ef091a284ee981e1ac5b0c41e778/preview_slide_0.jpg?40038040",
-    "fetched_at": "2026-07-21 13:29:35",
-    "ja_summary": "・「顧客の声」を起点としたAI返信補助機能の開発プロセスを解説。\n・現場の課題を徹底的にヒアリングし、実用的なソリューションへ昇華。\n・顧客のニーズを深掘りすることで、価値あるAI活用を実現する手法を提示。"
-  },
-  {
-    "title": "仕様駆動開発、導入半年。「本当に速くなってるの?」にデータで答える / AICon2026_hirakawa",
-    "link": "https://speakerdeck.com/rakus_dev/aicon2026-hirakawa",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-07-20T21:15:18-04:00",
-    "summary": "",
-    "image": "https://files.speakerdeck.com/presentations/220456eeb0814d1a8e5e357e56248049/preview_slide_0.jpg?40038005",
-    "fetched_at": "2026-07-21 13:29:35",
-    "ja_summary": "・仕様駆動開発導入から半年、開発速度の向上を客観的なデータで検証・証明。\n・主観的な「速さ」を数値化し、生産性向上の根拠としてチームで可視化。\n・データに基づく振り返りにより、開発プロセスの改善と組織的な納得感を醸成。"
-  },
-  {
-    "title": "複数プロダクトで進めるAI機能実装 ── 実践から得たリアルな学びとロードマップ実現への挑戦 / AICon2026_yanari",
-    "link": "https://speakerdeck.com/rakus_dev/aicon2026-yanari",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-07-20T21:14:59-04:00",
-    "summary": "",
-    "image": "https://files.speakerdeck.com/presentations/9652bfda735b45b0b9e32f1e4a47ea25/preview_slide_0.jpg?40037980",
-    "fetched_at": "2026-07-21 13:29:35",
-    "ja_summary": "・複数プロダクトへのAI機能実装を通じた実践的な知見と課題を共有\n・AI活用をプロダクト開発に組み込むためのロードマップ策定手法を解説\n・実運用で得られた教訓を基に、導入成功の鍵を具体的に提示"
-  },
-  {
-    "title": "伝票作成AIエージェントを支える、LLMOpsとインフラの選択肢 / AICon2026_takeda",
-    "link": "https://speakerdeck.com/rakus_dev/aicon2026-takeda",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-07-20T21:14:14-04:00",
-    "summary": "",
-    "image": "https://files.speakerdeck.com/presentations/b27499ff63ad45daaaa8f927251a9671/preview_slide_0.jpg?40037937",
-    "fetched_at": "2026-07-21 13:29:35",
-    "ja_summary": "・伝票作成を自動化するAIエージェント開発における、LLMOpsの実装手法を解説。\n・業務効率化を実現するための最適なインフラ選定と技術構成のポイントを提示。\n・AI導入の安定稼働と運用コスト最適化に向けた実践的な知見を共有。"
   }
 ]
