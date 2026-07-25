@@ -1,5 +1,25 @@
 [
   {
+    "title": "CLAUDE.md 設計パターン集──プロジェクト規模別に使い分ける7つのテンプレート",
+    "link": "https://qiita.com/hikariclaude01/items/e54c70c90c6aa84d0f66",
+    "source": "Qiita (Popular)",
+    "published": "2026-07-20T10:01:57+09:00",
+    "summary": "\n## 結論：Claude Code の出力品質を最も左右するのはプロンプトでもモデルでもなく、CLAUDE.md の書き方だった。\n\nClaude Code を導入したチームの中で「期待通りのコードが出る」チームと「毎回手直しが必要」なチームの差を調べると、**CLAUDE.md の設計品質**に行き着きます。\n\nこの記事では、プロジェクト規模別に使い分ける **7つの CLAUDE.md テン",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmxoMy5nb29nbGV1c2VyY29udGVudC5jb20lMkZhJTJGQUNnOG9jTGk1aVE4T3piMTlUelk5Q3RaVGtaVkpuenZXbFExamRodlE0Y0wzR052M0tFbjFRJTNEczk2LWM_aXhsaWI9cmItNC4xLjEmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPTg3YmI3Y2UxNzBhYmZiM2MxOGUwMTNkNDIzNzg3NjY3%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D33ccc99d6ec24d5656ce3ff8c27cc671?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9Q0xBVURFLm1kJTIwJUU4JUE4JUFEJUU4JUE4JTg4JUUzJTgzJTkxJUUzJTgyJUJGJUUzJTgzJUJDJUUzJTgzJUIzJUU5JTlCJTg2JUUyJTk0JTgwJUUyJTk0JTgwJUUzJTgzJTk3JUUzJTgzJUFEJUUzJTgyJUI4JUUzJTgyJUE3JUUzJTgyJUFGJUUzJTgzJTg4JUU4JUE2JThGJUU2JUE4JUExJUU1JTg4JUE1JUUzJTgxJUFCJUU0JUJEJUJGJUUzJTgxJTg0JUU1JTg4JTg2JUUzJTgxJTkxJUUzJTgyJThCNyVFMyU4MSVBNCVFMyU4MSVBRSVFMyU4MyU4NiVFMyU4MyVCMyVFMyU4MyU5NyVFMyU4MyVBQyVFMyU4MyVCQyVFMyU4MyU4OCZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPWJkZDc2MWUxYmIwYjM3OGFlN2Y2OWRhMWM5ZWVkYzVj&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBoaWthcmljbGF1ZGUwMSZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTdhNjg4MGM3Y2EyODZkZDgzMTYyNmI3MjEzZTJjNWNj&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=9e373a5b4db208d1a4fc95d870eec208",
+    "fetched_at": "2026-07-26 01:47:20",
+    "ja_summary": "・Claude Codeの出力品質は、プロンプトやモデル以上に「CLAUDE.md」の設計が決定づける。\n・チーム間の生産性の差は、この設計ファイルの品質で生まれる。\n・プロジェクト規模別に最適な「7つのテンプレート」を使い分けることが成功の鍵。"
+  },
+  {
+    "title": "AIにコードを書かせるなら技術スタックは何がいい？たどり着いたのはTypeScript中心＋必要な部分だけPython/Go",
+    "link": "https://qiita.com/nogataka/items/3be907bb38b545cf4a9e",
+    "source": "Qiita (Popular)",
+    "published": "2026-07-14T09:22:31+09:00",
+    "summary": "\n![AIアシスタントが書いたコードを中心の言語から2つの専門サービスへ分岐させる、AI駆動開発の技術スタックのイメージ図](https://cdn.jsdelivr.net/gh/nogataka/qiita-images@main/ai-driven-development-tech-stack-eyecatch.png)\n\n## はじめに\n\nこの記事では、AIエージェントにコードを書かせる「",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYxNjEyOTglMkZjMWUzZmZkNmVhZGExOTY5ZmYzYzQ0YjE0ZmRlMDgxYmNkZTZmNTAwJTJGeF9sYXJnZS5wbmclM0YxNTg0ODQ1NTg0P2l4bGliPXJiLTQuMS4xJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz1kMDQ2ZmE2Mzg1YzIyMmQ4ZjJkNWI0YjRkYTc3Mjc0NQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Dfde89a6aafc1c82cb07bd196a821c036?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9QUklRTMlODElQUIlRTMlODIlQjMlRTMlODMlQkMlRTMlODMlODklRTMlODIlOTIlRTYlOUIlQjglRTMlODElOEIlRTMlODElOUIlRTMlODIlOEIlRTMlODElQUElRTMlODIlODklRTYlOEElODAlRTglQTElOTMlRTMlODIlQjklRTMlODIlQkYlRTMlODMlODMlRTMlODIlQUYlRTMlODElQUYlRTQlQkQlOTUlRTMlODElOEMlRTMlODElODQlRTMlODElODQlRUYlQkMlOUYlRTMlODElOUYlRTMlODElQTklRTMlODIlOEElRTclOUQlODAlRTMlODElODQlRTMlODElOUYlRTMlODElQUUlRTMlODElQUZUeXBlU2NyaXB0JUU0JUI4JUFEJUU1JUJGJTgzJUVGJUJDJThCJUU1JUJGJTg1JUU4JUE2JTgxJUUzJTgxJUFBJUU5JTgzJUE4JUU1JTg4JTg2JUUzJTgxJUEwJUUzJTgxJTkxUCVFMiU4MCVBNiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTk4NTJhMjc5M2E5OTBmZjkyOGY2Y2U1ZTZiMDk3YWI0&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBub2dhdGFrYSZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWNiYWE0ODdlNWU4NDg4ZjQ0NjQ0MjVlZTRhNDY2ZWUz&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=97bbcb27975ee28615c9c1096c14c72c",
+    "fetched_at": "2026-07-26 01:47:22",
+    "ja_summary": "・AI開発ではTypeScriptを主軸とし、特定機能にPython/Goを使い分ける構成が最適。\n・AIにコードを書かせる際、言語を絞ることでAIの出力精度と保守性を高められる。\n・AI駆動開発に適した技術スタック構築で、開発の効率化とスピードアップを実現する。"
+  },
+  {
     "title": "IR発信力・初登場のキオクシア　立ち見の株主総会で「苦言」に透けた現在地 (IR発信力ランキング2026)",
     "link": "https://business.nikkei.com/atcl/gen/19/00904/072300002/",
     "source": "日経ビジネス 最新",
@@ -978,25 +998,5 @@
     "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
     "fetched_at": "2026-07-24 20:23:56",
     "ja_summary": "・Anthropic社が教員向けにClaudeの活用を支援する新リソースを公開。\n・授業案の作成や教材の評価など、教員の業務効率化をサポート。\n・AIを教育現場で安全かつ効果的に活用するためのガイドラインを提供。"
-  },
-  {
-    "title": "LiteLLM によるAI gateway を公式実装でデプロイして Claude Code で動かしてみた",
-    "link": "https://zenn.dev/aws_japan/articles/e536274dc77a4f",
-    "source": "Zenn Trends",
-    "published": "Thu, 23 Jul 2026 14:50:55 GMT",
-    "summary": "はじめに\n前回の記事で Claude Apps Gateway を検証した際、比較表でインターネット経由で使いたい組織の候補として挙げたのが Multi-Provider Generative AI Gateway on AWS です。\n本記事ではこれを公式のデフォルト構成のままデプロイし、SSO なしでのメンバー登録とセルフサーブのキー発行、別 VPC の EC2 上の Claude Code からの Claude Sonnet / Opus / Haiku、Qwen3、GLM-4.7、DeepSeek-V3.2 の 6 モデルの呼び出し、予算 CAP による遮断、Admin UI...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--sIABCDTR--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:LiteLLM%2520%25E3%2581%25AB%25E3%2582%2588%25E3%2582%258BAI%2520gateway%2520%25E3%2582%2592%25E5%2585%25AC%25E5%25BC%258F%25E5%25AE%259F%25E8%25A3%2585%25E3%2581%25A7%25E3%2583%2587%25E3%2583%2597%25E3%2583%25AD%25E3%2582%25A4%25E3%2581%2597%25E3%2581%25A6%2520Claude%2520Code%2520%25E3%2581%25A7%25E5%258B%2595%25E3%2581%258B%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Hikotty%2520%252F%2520Hikoto%2520I...%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzZmZTY2NGI3N2IuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2582%25A2%25E3%2583%259E%25E3%2582%25BE%25E3%2583%25B3%2520%25E3%2582%25A6%25E3%2582%25A7%25E3%2583%2596%2520%25E3%2582%25B5%25E3%2583%25BC%25E3%2583%2593%25E3%2582%25B9%2520%25E3%2582%25B8%25E3%2583%25A3%25E3%2583%2591%25E3%2583%25B3%2520%2528%25E6%259C%2589%25E5%25BF%2597%2529%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUdObXl4WVNNaFRxWVB5WVNCeUVqTGZraDZ4VHgtU1llQ3dzcDVjMEZMdnA9czk2LWM=%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "fetched_at": "2026-07-24 20:23:57",
-    "ja_summary": "AWS公式の生成AIゲートウェイを導入し、セルフサービスでのAPIキー発行や複数モデル（Claude 3.5、DeepSeek V3等）の利用環境を構築した。\n組織内での利用を想定し、EC2上の「Claude Code」から安全かつ一元的にAPIを呼び出し、予算制限によるコスト管理も実現した。\n公式構成のままデプロイすることで、認証や管理機能を含むセキュアなAIゲートウェイ環境を迅速に構築できることを実証した。"
-  },
-  {
-    "title": "Node.js バージョン管理、Volta から mise へ移行した。Python は uv 管理のままにした。",
-    "link": "https://zenn.dev/takna/articles/volta-to-mise-migration",
-    "source": "Zenn Trends",
-    "published": "Thu, 23 Jul 2026 09:51:16 GMT",
-    "summary": "Volta から mise への移行メモです。\nNode.js のバージョン管理には数年 Volta を使ってきました。ただ、リリースが v2.0.2（2024 年 12 月）で止まっているのがずっと気になっていて、他のツールへ移りたい気持ちはありつつ、動いている環境を壊してまで、とは思えず先延ばしにしていました。\n重い腰を上げたきっかけは、GitHub の README に追加されていたこの一文です。\n\nVolta is unmaintained.\n\n今動くものは当面動くけれど、OS やエコシステムの変化による破損には対応できない、という趣旨の注意書きです。さらにピン留めされた Iss...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--_SKXNokA--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Node.js%2520%25E3%2583%2590%25E3%2583%25BC%25E3%2582%25B8%25E3%2583%25A7%25E3%2583%25B3%25E7%25AE%25A1%25E7%2590%2586%25E3%2580%2581Volta%2520%25E3%2581%258B%25E3%2582%2589%2520mise%2520%25E3%2581%25B8%25E7%25A7%25BB%25E8%25A1%258C%25E3%2581%2597%25E3%2581%259F%25E3%2580%2582Python%2520%25E3%2581%25AF%2520uv%2520%25E7%25AE%25A1%25E7%2590%2586%25E3%2581%25AE%25E3%2581%25BE%25E3%2581%25BE%25E3%2581%25AB%25E3%2581%2597%25E3%2581%259F%25E3%2580%2582%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%25AA%25E3%2581%258C%25E3%2581%259F%25E3%2581%258F%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2NhMTdlMmFmNjYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "fetched_at": "2026-07-24 20:23:57",
-    "ja_summary": "開発停止が明言されたNode.js管理ツール「Volta」から「mise」へ移行した。\nPython環境は引き続き高速な「uv」による管理を維持する。\nエコシステムの健全性を考慮し、メンテナンスが止まったツールの見直しを実施した。"
   }
 ]
