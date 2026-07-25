@@ -1,5 +1,25 @@
 [
   {
+    "title": "Microsoft、Excelなどで自社AI活用拡大　GPT-5.6の品質を低コストで",
+    "link": "https://www.watch.impress.co.jp/docs/news/2127683.html",
+    "source": "Impress Watch",
+    "published": "",
+    "summary": "Microsoftは23日(米国時間)、AIモデル群「MAI」について、GitHub CopilotとExcelでの活用成果を公表した。GitHub Copilotでは同規模の他モデルより少ないトークン数で高い性能を示し、Excelでは一般的なタスクでGPT-5.6と同等の品質を、より低コストで実現したという。",
+    "image": "https://www.watch.impress.co.jp/img/ipw/list/2127/683/01.jpg",
+    "fetched_at": "2026-07-25 20:57:55",
+    "ja_summary": "・MicrosoftのAI「MAI」がGitHub CopilotとExcelで高い活用成果を記録。\n・ExcelではGPT-4o（GPT-5.6相当）と同等の品質を低コストで実現。\n・少ないデータ量で高性能を発揮し、業務効率化とコスト削減を両立。"
+  },
+  {
+    "title": "Launching Health in ChatGPT",
+    "link": "https://openai.com/index/health-in-chatgpt",
+    "source": "OpenAI",
+    "published": "Thu, 23 Jul 2026 00:00:00 GMT",
+    "summary": "Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/4MfwY6ER1qh4OTf0QkI0p8/31fc4cfae157e5c755368e9dd3440b11/16_9_SEO_Blog.jpg?w=1600&amp;h=900&amp;fit=fill",
+    "fetched_at": "2026-07-25 20:58:03",
+    "ja_summary": "・米国のChatGPT利用者が医療データやApple Healthと連携可能に\n・個人の健康データを基にしたパーソナライズされた分析を提供\n・自身の健康状態への深い理解と、より正確なインサイトの把握を実現"
+  },
+  {
     "title": "要件決めの前に「保護ニーズ」を知ろう、対策のジャンルはLLMで把握",
     "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03679/070800003/",
     "source": "日経クロステック 総合",
@@ -978,25 +998,5 @@
     "image": "https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/ishitanimasaki/02672423/title-1784636803655.jpeg?exp=10800",
     "fetched_at": "2026-07-24 18:31:28",
     "ja_summary": "・中国のAI企業Moonshot AIが、長文処理に優れた次世代モデル「Kimi k1.5」を投入。\n・最大200万字の文脈理解が可能で、OpenAIなどの先行勢に対抗する技術力を誇示。\n・AI覇権争いにおいて、中国が独自の進化を加速させ国際的な存在感を強めている。"
-  },
-  {
-    "title": "Google、パスワードを忘れても「自撮り動画でログイン」可能に。スマホを紛失しても利用可能、年齢確認やAIアバターにも活用",
-    "link": "https://www.techno-edge.net/article/2026/07/24/5330.html",
-    "source": "TechnoEdge",
-    "published": "Fri, 24 Jul 2026 18:00:03 +0900",
-    "summary": "Googleは、ユーザーがアカウントにサインインするための方法に、自撮り動画を使うオプションを追加すると発表しました。",
-    "image": "https://www.techno-edge.net/imgs/rss/33156.jpg",
-    "fetched_at": "2026-07-24 18:31:29",
-    "ja_summary": "・Googleがパスワード不要の「自撮り動画ログイン」を導入。\n・スマホ紛失時も認証可能となり、利便性とセキュリティが向上。\n・本人確認やAIアバター生成など、幅広い活用も視野に入れている。"
-  },
-  {
-    "title": "Claudeの音声モードが進化、Opus / Sonnet と会話可能に　「Slackの議論を三行にまとめて読んで」も",
-    "link": "https://www.techno-edge.net/article/2026/07/24/5329.html",
-    "source": "TechnoEdge",
-    "published": "Fri, 24 Jul 2026 17:21:39 +0900",
-    "summary": "Anthropicは7月23日、Claudeの音声対話機能「Voice mode」を刷新し、高性能モデルのOpusおよびSonnetに対応したと発表しました。",
-    "image": "https://www.techno-edge.net/imgs/rss/33160.jpg",
-    "fetched_at": "2026-07-24 18:31:29",
-    "ja_summary": "・Claudeの音声対話機能が刷新され、高性能な「Opus」「Sonnet」と会話可能に。\n・精度の高い音声認識により、複雑な議論の要約や指示出しを対話形式で実行できる。\n・ビジネスシーンにおける情報共有やタスク効率化がさらに向上。"
   }
 ]
