@@ -1,5 +1,65 @@
 [
   {
+    "title": "要件決めの前に「保護ニーズ」を知ろう、対策のジャンルはLLMで把握",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03679/070800003/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "今回はステップ（3）保護ニーズの整理と、ステップ（4）対策の理解に注目します。ステップ（3）の保護ニーズの整理では、大きく2つのことに取り組みます。1つは、リスクを評価して優先順位を付けること。もう1つは順位付けの結果を基に保護ニーズを言語化することです。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03679/070800003/topm.jpg?20220512",
+    "fetched_at": "2026-07-25 19:50:33",
+    "ja_summary": "・対策を講じる前に、リスク評価を行い保護すべきニーズを明確に言語化する。\n・優先順位を整理することで、最適なセキュリティ対策を導き出す。\n・対策のジャンル把握にはLLMを活用し、効率的に選定を進める。"
+  },
+  {
+    "title": "「ガバメントAI 源内OSS Ver 2.0の計画に関するオンライン説明会」の開催について（ご案内）",
+    "link": "https://www.digital.go.jp/news/b6d94913-60d0-450d-ab46-8e89659f1fc6",
+    "source": "デジタル庁",
+    "published": "Fri, 24 Jul 2026 15:00:00 +0900",
+    "summary": "",
+    "image": "https://www.digital.go.jp/assets/contents/node/information/field_thumbnail_image/b6d94913-60d0-450d-ab46-8e89659f1fc6/dee92357/20260723_04.png",
+    "fetched_at": "2026-07-25 19:50:51",
+    "ja_summary": "・行政向け生成AI「ガバメントAI 源内OSS Ver 2.0」の開発計画に関するオンライン説明会が開催される。\n・自治体や関係者へ向け、新バージョンの機能強化や今後のロードマップを共有する。\n・参加希望者は、公式サイトより事前申し込みが必要。"
+  },
+  {
+    "title": "How news organizations are using AI to advance their vital missions",
+    "link": "https://openai.com/index/how-news-organizations-are-using-ai",
+    "source": "OpenAI",
+    "published": "Wed, 22 Jul 2026 13:00:00 GMT",
+    "summary": "News organizations are using AI to strengthen reporting, grow audiences, and improve business operations, with OpenAI tools supporting journalists and publishers worldwide.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/4KPHlygXSOVWJHJlSNVU1N/574f3d3fc5309307943d657bd5000a20/how_news_orgs_use_AI_16x9.png?w=1600&amp;h=900&amp;fit=fill",
+    "fetched_at": "2026-07-25 19:50:52",
+    "ja_summary": "・ニュース組織がAIを活用し、取材力強化、読者獲得、業務効率化を実現\n・OpenAIの技術が世界中のジャーナリストや出版社を支援\n・報道機関がAIを戦略的に導入し、ミッション遂行を加速させている"
+  },
+  {
+    "title": "Ask Claude about the Anthropic Economic Index",
+    "link": "https://www.anthropic.com/news/anthropic-economic-index-connector",
+    "source": "Anthropic (News)",
+    "published": "Wed, 22 Jul 2026 00:00:00 +0000",
+    "summary": "Ask Claude about the Anthropic Economic Index",
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20NodeBook&amp;backgroundColor=coral",
+    "fetched_at": "2026-07-25 19:50:53",
+    "ja_summary": "AIモデル「Claude」で、Anthropic社が独自に分析する経済指標（Anthropic Economic Index）の確認・質問が可能になった。\n最新の経済データをClaudeに直接尋ねることで、分析や市場調査を効率化できる。"
+  },
+  {
+    "title": "クオンツはテクニカル分析を寄与度分解の中で見ている",
+    "link": "https://zenn.dev/gamella/articles/7e1af53f19d94d",
+    "source": "Zenn Trends",
+    "published": "Sat, 25 Jul 2026 01:46:14 GMT",
+    "summary": "AlpacaTechの北山です。最近Noteもはじめました。\nhttps://note.com/tomoya_kitayama\nちょっとおもしろいネタがあったので、ブログにまとめようとおもいました。\n2026年7月、テクニカル分析の有用性を巡る議論がXで再燃しました。今回の発端が生成AIによる分析というのが新しかったです。\n起点は @syakkin3 さんの実験報告です。東証20年分のデータをAI（fable5とcodex）に与え、トークンを大量に消費しながら、窓埋めや三尊といった定番パターンに優位性があるかを総当たりで検証した、というものでした。\nhttps://x.com/syakk...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--z47-iSBC--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25AF%25E3%2582%25AA%25E3%2583%25B3%25E3%2583%2584%25E3%2581%25AF%25E3%2583%2586%25E3%2582%25AF%25E3%2583%258B%25E3%2582%25AB%25E3%2583%25AB%25E5%2588%2586%25E6%259E%2590%25E3%2582%2592%25E5%25AF%2584%25E4%25B8%258E%25E5%25BA%25A6%25E5%2588%2586%25E8%25A7%25A3%25E3%2581%25AE%25E4%25B8%25AD%25E3%2581%25A7%25E8%25A6%258B%25E3%2581%25A6%25E3%2581%2584%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Tomoya%2520Kitayama%2520%257C%2520...%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzQ0MTFiOWQ1NzguanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-07-25 19:50:54",
+    "ja_summary": "・生成AIを用いて東証20年分のデータでテクニカル分析の有効性を検証したところ、定番パターンに優位性は認められなかった。\n・クオンツ（計量分析者）はテクニカル分析を単体ではなく、要因ごとの寄与度分解の一部として捉えている。\n・テクニカル分析の有用性を巡る議論がAI分析を機に再燃し、従来の分析手法の価値が改めて問われている。"
+  },
+  {
+    "title": "Terraform / Kubernetes の構築で、初心者がよく指摘されるポイントのまとめ",
+    "link": "https://zenn.dev/scalar_sol_blog/articles/6fa517a84cb7ff",
+    "source": "Zenn Trends",
+    "published": "Fri, 24 Jul 2026 01:05:30 GMT",
+    "summary": "弊社では、AWS、Azure、GCP に対応した kubernetes ベースの Scalar製品を展開するインフラのテンプレートを開発しています。この開発をエンジニア歴の浅い二人にお願いしており、二人からあがってくるマージリクエスト（MR）のレビューを重ねると、指摘の多くは毎回異なる「新しい問題」ではなく、同じパターンの再発であることが分かってきます。\nそこで、繰り返し指摘している事項をまとめました。\n\n 対象読者\n\nTerraform / Kubernetes を使ったインフラ構築を始めたばかりのエンジニア\nIaC の MR がなかなかレビューを通らず、指摘の傾向を知りたい方\nAI ...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--a34O7Mu9--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Terraform%2520%252F%2520Kubernetes%2520%25E3%2581%25AE%25E6%25A7%258B%25E7%25AF%2589%25E3%2581%25A7%25E3%2580%2581%25E5%2588%259D%25E5%25BF%2583%25E8%2580%2585%25E3%2581%258C%25E3%2582%2588%25E3%2581%258F%25E6%258C%2587%25E6%2591%2598%25E3%2581%2595%25E3%2582%258C%25E3%2582%258B%25E3%2583%259D%25E3%2582%25A4%25E3%2583%25B3%25E3%2583%2588%25E3%2581%25AE%25E3%2581%25BE%25E3%2581%25A8%25E3%2582%2581%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:wfukatsu%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzIyYWQ5MTcyZjMuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Scalar%2520Solution%2520Engi...%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzBhZjQwOTk3NDYuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-07-25 19:50:55",
+    "ja_summary": "・Terraform/Kubernetesの構築において、初心者が陥りやすい共通のミスをパターン別に整理。\n・繰り返される指摘事項をまとめることで、レビュー通過率の向上と学習効率を改善。\n・IaC（Infrastructure as Code）の品質向上を目指すエンジニアに向けた実用的なガイド。"
+  },
+  {
     "title": "新「ChatGPT Voice」がデスクトップ対応　本物の会話に近い音声機能",
     "link": "https://www.watch.impress.co.jp/docs/news/2127560.html",
     "source": "Impress Watch",
@@ -938,65 +998,5 @@
     "image": "https://www.techno-edge.net/imgs/rss/33160.jpg",
     "fetched_at": "2026-07-24 18:31:29",
     "ja_summary": "・Claudeの音声対話機能が刷新され、高性能な「Opus」「Sonnet」と会話可能に。\n・精度の高い音声認識により、複雑な議論の要約や指示出しを対話形式で実行できる。\n・ビジネスシーンにおける情報共有やタスク効率化がさらに向上。"
-  },
-  {
-    "title": "Launching Health in ChatGPT",
-    "link": "https://openai.com/index/health-in-chatgpt",
-    "source": "OpenAI",
-    "published": "Thu, 23 Jul 2026 00:00:00 GMT",
-    "summary": "Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health.",
-    "image": "https://images.ctfassets.net/kftzwdyauwt9/4MfwY6ER1qh4OTf0QkI0p8/31fc4cfae157e5c755368e9dd3440b11/16_9_SEO_Blog.jpg?w=1600&amp;h=900&amp;fit=fill",
-    "fetched_at": "2026-07-24 18:31:30",
-    "ja_summary": "・ChatGPTが米国の医療データやApple Healthと連携可能に\n・個人の健康情報を基にしたパーソナライズされた分析を提供\n・自身の健康状態への理解を深めるサポート機能が追加"
-  },
-  {
-    "title": "事業成長とAI活用を止めないデータ基盤アーキテクチャの設計思想",
-    "link": "https://speakerdeck.com/hiracky16/shi-ye-cheng-chang-toaihuo-yong-wozhi-menaidetaji-pan-akitekutiyanoshe-ji-si-xiang",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-07-24T05:20:42-04:00",
-    "summary": "https://findy.connpass.com/event/399253/",
-    "image": "https://files.speakerdeck.com/presentations/68251de425304dc298c42d2d783030ab/preview_slide_0.jpg?40088415",
-    "fetched_at": "2026-07-24 18:31:54",
-    "ja_summary": "・事業成長とAI活用を加速させるための、柔軟かつ持続可能なデータ基盤の設計原則を解説。\n・技術的負債を回避し、変化に強いアーキテクチャを実現する具体的な戦略を提示。\n・データ活用を止めることなく、迅速に価値を生み出し続けるためのシステム構築手法を学ぶ。"
-  },
-  {
-    "title": "【Loop Engineeringの次に来る？】�人間中心デザインをもとにした�Inquiry Engineeringを提唱したい",
-    "link": "https://speakerdeck.com/kotahisafuru/loop-engineeringnoci-nilai-ru-ren-jian-zhong-xin-dezainwomotonisita-inquiry-engineeringwoti-chang-sitai",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-07-24T04:56:46-04:00",
-    "summary": "KAG AI Week 2026 Summer DAY 5 - Offline Meetup! での登壇内容です。",
-    "image": "https://files.speakerdeck.com/presentations/de30245c4f044ccf98eac6a47bcb3fb2/preview_slide_0.jpg?40088299",
-    "fetched_at": "2026-07-24 18:31:54",
-    "ja_summary": "・AI時代に向け、人間中心のデザイン思考を深化させた新たなアプローチ「Inquiry Engineering」を提唱。\n・従来のLoop Engineeringを超え、問いの質を追求する設計思想への転換を目指す。\n・KAG AI Week 2026での登壇を通じ、技術と人間性を両立させる次世代のエンジニアリング像を提示。"
-  },
-  {
-    "title": "大 AI 時代におけるC# の事情 ～ぶっちゃけトークを交えながら～",
-    "link": "https://speakerdeck.com/nenonaninu/da-ai-shi-dai-niokeruc-number-noshi-qing-bututiyaketokuwojiao-enagara",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-07-24T03:31:36-04:00",
-    "summary": "AI Dev Day 2026 にて利用したスライド\nhttps://aidevday.com/sessions/c-sharp-kaigi",
-    "image": "https://files.speakerdeck.com/presentations/312ff19c4fc44db2add706652efe7210/preview_slide_0.jpg?40087538",
-    "fetched_at": "2026-07-24 18:31:54",
-    "ja_summary": "・AI全盛期におけるC#の現在地と将来性を解説\n・開発現場での実務的な活用法や立ち位置を本音で議論\n・AI技術との共存や、C#プログラマーが取るべき戦略を提示"
-  },
-  {
-    "title": "Microsoft、Excelなどで自社AI活用拡大　GPT-5.6の品質を低コストで",
-    "link": "https://www.watch.impress.co.jp/docs/news/2127683.html",
-    "source": "Impress Watch",
-    "published": "",
-    "summary": "Microsoftは23日(米国時間)、AIモデル群「MAI」について、GitHub CopilotとExcelでの活用成果を公表した。GitHub Copilotでは同規模の他モデルより少ないトークン数で高い性能を示し、Excelでは一般的なタスクでGPT-5.6と同等の品質を、より低コストで実現したという。",
-    "image": "https://www.watch.impress.co.jp/img/ipw/list/2127/683/01.jpg",
-    "fetched_at": "2026-07-24 16:08:30",
-    "ja_summary": "・MicrosoftのAI「MAI」がGitHub CopilotとExcelで活用され、高い成果を達成。\n・ExcelではGPT-4o（GPT-5.6相当）と同等の品質を、より低コストで実現。\n・同規模の他モデルと比較しても、少ないリソースで高効率な性能を発揮。"
-  },
-  {
-    "title": "顔写真からビックリマン風キャラ生成　Tシャツ・アクキーなど本格展開",
-    "link": "https://www.watch.impress.co.jp/docs/news/2127397.html",
-    "source": "Impress Watch",
-    "published": "",
-    "summary": "ロッテは、アルと共同で、生成AIサービス「ビックリマンAIグッズメーカー」を開発し、7月29日より提供を開始する。",
-    "image": "https://www.watch.impress.co.jp/img/ipw/list/2127/397/lotte00.jpg",
-    "fetched_at": "2026-07-24 16:08:33",
-    "ja_summary": "ロッテが生成AIを活用した「ビックリマンAIグッズメーカー」を7月29日に提供開始。\n顔写真から自分だけのビックリマン風キャラクターを生成できる。\n作成したキャラはTシャツやアクリルキーホルダーなどのグッズとして購入可能。"
   }
 ]
