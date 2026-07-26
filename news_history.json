@@ -1,5 +1,15 @@
 [
   {
+    "title": "「AIの提案」を妄信する人、疑える人――“眼力ある人材”を育てる絶対条件",
+    "link": "https://www.itmedia.co.jp/business/articles/2607/24/news015.html",
+    "source": "ITmedia ビジネス",
+    "published": "Fri, 24 Jul 2026 07:00:00 +0900",
+    "summary": "プロンプト一つでUIやコードが数秒で量産される時代、人間の役割は「制作」から「目利き」へと変わる。しかし手を動かさなくなることで、AIの提案を無批判に受け入れてしまうリスクも漂う。米Figmaのロレダナ・クリサンCDOは「AIは過去しか見ない。世界を明日へ押し進めるのは人間だ」と断言。良い案に達するための「悪い案の量産」や手触り感の重要性を説く。AI時代にプロダクトへ魂を注ぎ続けるための思考法を語る。",
+    "image": "https://image.itmedia.co.jp/business/articles/2607/24/cover_news015.jpg",
+    "fetched_at": "2026-07-27 00:45:51",
+    "ja_summary": "・AIが成果物を量産する時代、人間の役割は「制作」から、AIの提案を評価する「目利き」へシフトする。\n・AIは過去のデータに基づくため、人間はあえて失敗を重ねる過程や手触り感を大切にし、批判的思考を忘れてはならない。\n・AIを使いこなしつつ、自らの意志で未来を創る「魂を注ぐ思考法」を持つ人材こそが価値を持つ。"
+  },
+  {
     "title": "「iOS 27」の過小評価されている5つの機能で「iPhone」を使いやすく--だたし「Siri AI」は含まず",
     "link": "https://japan.zdnet.com/article/35250804/",
     "source": "ZDNET Japan",
@@ -988,15 +998,5 @@
     "image": "https://www.techno-edge.net/imgs/rss/33164.jpg",
     "fetched_at": "2026-07-25 08:57:01",
     "ja_summary": "・Anthropicが新モデル「Claude Opus 5」を提供開始。\n・従来より性能が向上しつつ価格は半額、エージェントとしての実務能力を強化。\n・GPT-5.6 Solの投入から2週間という短期間での対抗リリースとなる。"
-  },
-  {
-    "title": "月18万行のコーディングを走り切った話",
-    "link": "https://zenn.dev/innovation/articles/98142c37004f21",
-    "source": "Zenn Trends",
-    "published": "Tue, 21 Jul 2026 06:00:07 GMT",
-    "summary": "タイトルの「月18万行」はリファクタリングに伴うコードの移動や削除も含んだ数字なので、生産性の指標としてはあまり参考になりません。キャッチーなのでタイトルに使いましたが、インパクト重視の数字だと思って読んでください。本記事で伝えたいのは行数ではなく、「AIをパンクさせないためには何を整えるべきか」 という話です。\n\n\n はじめに\nこんにちは、ミッシーと申します。株式会社イノベーションでEMとして複数チームのマネジメントをしています。\n今回はITトレンドマネー/みんなのマネースコアの開発プロジェクトで、2ヶ月かかる想定だった機能をコードベースのリファクタリング込みで1ヶ月でリリースした際...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--G_Mkz6CI--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E6%259C%258818%25E4%25B8%2587%25E8%25A1%258C%25E3%2581%25AE%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2587%25E3%2582%25A3%25E3%2583%25B3%25E3%2582%25B0%25E3%2582%2592%25E8%25B5%25B0%25E3%2582%258A%25E5%2588%2587%25E3%2581%25A3%25E3%2581%259F%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E3%2581%25BF%25E3%2581%25A3%25E3%2581%2597%25E3%2583%25BC%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzFkYjgxMTIyYzAuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E6%25A0%25AA%25E5%25BC%258F%25E4%25BC%259A%25E7%25A4%25BE%25E3%2582%25A4%25E3%2583%258E%25E3%2583%2599%25E3%2583%25BC%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3%2520Tech%2520Blog%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSlA3R3ZURV9KQlhRb1FXbGNNbUQ4SnRVaFc5SGpQWUtxWVVnLUR0SkVYbzlFVVlnPXM5Ni1j%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "fetched_at": "2026-07-25 08:57:06",
-    "ja_summary": "・「月18万行」のコーディングはリファクタリング等の移動も含んだ数字であり、生産性の指標としては不適切。\n・本来の目的は、AIを効率的に活用し、2ヶ月かかる機能を1ヶ月でリリースするための開発環境の整備。\n・AIに負担をかけず最大限に活用するための、システム設計や準備の重要性を説く記事。"
   }
 ]
