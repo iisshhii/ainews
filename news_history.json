@@ -1,5 +1,25 @@
 [
   {
+    "title": "Opus5が思考が浅いように感じる問題への対策",
+    "link": "https://zenn.dev/u1/articles/claude5-rules-collapse-and-fix",
+    "source": "Zenn Trends",
+    "published": "Sun, 26 Jul 2026 03:01:36 GMT",
+    "summary": "Claude Code を Opus 5 に切り替えた直後から、応答の散文傾向が急に強まり、思考が浅くなる (構造化して考えられない) 変化が出ました。長年育ててきた rules (CLAUDE.md や常時ロードの指示ファイル群) は何も変えていないのに、です。調べていくと、モデルが悪いのでも rules が壊れたのでもなく、Claude 5 世代で Opus 5 に配られる本体 system prompt が大きく変わり、旧来の rules がその前提で書かれていなかったのが原因でした。\nこの記事は、その切り分けと、rules を新しい system prompt に合う形へ直すまで...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--SEL4lWhY--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Opus5%25E3%2581%258C%25E6%2580%259D%25E8%2580%2583%25E3%2581%258C%25E6%25B5%2585%25E3%2581%2584%25E3%2582%2588%25E3%2581%2586%25E3%2581%25AB%25E6%2584%259F%25E3%2581%2598%25E3%2582%258B%25E5%2595%258F%25E9%25A1%258C%25E3%2581%25B8%25E3%2581%25AE%25E5%25AF%25BE%25E7%25AD%2596%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Yuichi%2520Uemura%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzMwM2U1NDBiMzUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-07-26 22:02:01",
+    "ja_summary": "Claude CodeでOpus 5使用時に思考が浅くなった原因は、モデルの変更に伴うシステムプロンプトの刷新と旧来のルール設定との不整合にあった。\n解決には、新しいシステムプロンプトの前提に合わせて、既存の「CLAUDE.md」などのルール定義を再構築する必要がある。"
+  },
+  {
+    "title": "What Is New and Coming for Managing Cloud-Native Identities in Keycloak",
+    "link": "https://speakerdeck.com/ahus1/new-and-coming-for-cloud-native-identities-in-keycloak",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-07-26T08:40:28-04:00",
+    "summary": "Identities are the key to accessing applications and their data, and Keycloak is a leading tool to meet the needs of the cloud-native ecosystem. \n\nThis talk highlights how to use the features Keycloak already supports, what’s new, and what we are working on. \n\nThis ranges from machine identities and how to leverage SPIFFE/SPIRE or Kubernetes service account tokens, authenticating humans with strong authentication like Passkeys, or synchronizing user and groups across domains and applications via SCIM. \n\nJoin this session to see hear about Keycloak's features and how they can help you building a capable cloud-native platform for your organization!",
+    "image": "https://files.speakerdeck.com/presentations/79ec63eeb27f4000941f081d2f98604e/preview_slide_0.jpg?40105398",
+    "fetched_at": "2026-07-26 22:02:03",
+    "ja_summary": "・Keycloakを活用した、クラウドネイティブ環境における最新のID管理手法を解説。\n・マシン認証（SPIFFE/SPIRE等）やパスキー、SCIMによるユーザー連携機能を網羅。\n・組織のID管理基盤を強化し、安全なプラットフォームを構築するための実践的セッション。"
+  },
+  {
     "title": "サムスン、新Galaxyすべてに「Snapdragon」--自社チップ「Exynos」はどうなったのか",
     "link": "https://japan.cnet.com/article/35250918/",
     "source": "CNET Japan",
@@ -978,25 +998,5 @@
     "image": "https://image.itmedia.co.jp/business/articles/2607/24/cover_news015.jpg",
     "fetched_at": "2026-07-25 07:54:12",
     "ja_summary": "AI時代には、制作作業からAIの提案を吟味する「目利き」の力が不可欠になる。\nAIは過去の学習データに依存するため、革新には人間の試行錯誤や手触り感が重要となる。\nAIを無批判に受け入れず、主体的な思考でプロダクトに魂を注ぐ姿勢こそが求められる。"
-  },
-  {
-    "title": "「iOS 27」の過小評価されている5つの機能で「iPhone」を使いやすく--だたし「Siri AI」は含まず",
-    "link": "https://japan.zdnet.com/article/35250804/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "「iOS 27」へのアップデートは、「iOS 26」のときのような大規模刷新ではない。AIアシスタントの「Siri AI」や、新しい写真編集ツールは派手な目玉機能であるが、より控えめな5つの機能が日常生活に大きな違いをもたらしている。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35250804/\"><img src=\"https://japan.zdnet.com/storage/2026/07/21/c39960f23bc8296ca5117c1279d56cf3/t/184/138/d/large-img-20260717-175749.jpg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2026/07/21/c39960f23bc8296ca5117c1279d56cf3/t/184/138/d/large-img-20260717-175749.jpg",
-    "fetched_at": "2026-07-25 07:54:31",
-    "ja_summary": "iOS 27は大型アップデートではないが、派手なAI機能以外にも日々の使い勝手を向上させる「隠れた実用機能」が5つ存在する。\n目立つ新機能に埋もれがちだが、これらを使うことでiPhoneの操作性がより快適になる。\nビジネスシーンや日常利用において、作業効率を底上げする機能として活用が推奨される。"
-  },
-  {
-    "title": "Anthropic is donating another $20 million to Public First Action",
-    "link": "https://www.anthropic.com/news/donation-public-first-action",
-    "source": "Anthropic (News)",
-    "published": "Tue, 21 Jul 2026 00:00:00 +0000",
-    "summary": "Anthropic is donating another $20 million to Public First Action",
-    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Stack&amp;backgroundColor=oat",
-    "fetched_at": "2026-07-25 07:54:34",
-    "ja_summary": "・AnthropicがPublic First Actionに対し、新たに2,000万ドルを寄付\n・同団体への資金提供は継続的な取り組みの一環\n・AI開発や政策提言を支援する目的と見られる"
   }
 ]
