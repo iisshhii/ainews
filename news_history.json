@@ -1,5 +1,35 @@
 [
   {
+    "title": "生成AI時代に重要性が高まるサンドボックス、仕組みから包括的に解説する",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/02805/071700031/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "マルウエアの正体を突き止める王道の手法は、逆アセンブルやデバッガーを使った手動解析だ。ただし、高度な専門知識を要する上、手間もかかる。これを肩代わりするのが「サンドボックス」だ。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/02805/071700031/topm.jpg?20220512",
+    "fetched_at": "2026-07-28 02:54:06",
+    "ja_summary": "・高度な専門知識を要するマルウェアの手動解析は、時間と手間がかかる。\n・「サンドボックス」は解析を自動化し、効率的に正体を突き止めるツール。\n・生成AIの普及に伴い、脅威が増す中でその重要性がさらに高まっている。"
+  },
+  {
+    "title": "Cognizant and Anthropic expand their partnership to bring Claude to enterprise clients",
+    "link": "https://www.anthropic.com/news/cognizant-anthropic",
+    "source": "Anthropic (News)",
+    "published": "Mon, 27 Jul 2026 00:00:00 +0000",
+    "summary": "Cognizant and Anthropic expand their partnership to bring Claude to enterprise clients",
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+    "fetched_at": "2026-07-28 02:54:23",
+    "ja_summary": "・CognizantとAnthropicが提携を拡大。\n・企業向けにClaudeのAIソリューションを本格導入。\n・エンタープライズ顧客の業務効率化とAI活用を支援。"
+  },
+  {
+    "title": "AI ENGINEER WORLD'S FAIR 2026 - We Cut 94% of Our AI Coding Tokens With a Local Code Index",
+    "link": "https://speakerdeck.com/rajkumarsakthi/ai-engineer-worlds-fair-2026-we-cut-94-percent-of-our-ai-coding-tokens-with-a-local-code-index",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-07-26T15:38:19-04:00",
+    "summary": "AI ENGINEER WORLD'S FAIR 2026 - We Cut 94% of Our AI Coding Tokens With a Local Code Index",
+    "image": "https://files.speakerdeck.com/presentations/3e27264627a7409bb1c42794ea6a184e/preview_slide_0.jpg?40107230",
+    "fetched_at": "2026-07-28 02:54:26",
+    "ja_summary": "・AI開発において、ローカルコードインデックスを活用する新手法を導入。\n・AIコーディングに必要なトークン数を94%削減することに成功。\n・コストの大幅カットとAI開発の効率化を同時に実現する技術。"
+  },
+  {
     "title": "NVIDIA、オープンなAIセキュリティで新連合　MSやIBM、SpaceXAIら参加",
     "link": "https://www.watch.impress.co.jp/docs/news/2128306.html",
     "source": "Impress Watch",
@@ -968,35 +998,5 @@
     "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03684/071000005/topm.jpg?20220512",
     "fetched_at": "2026-07-27 05:09:24",
     "ja_summary": "・ベテランの勘や経験（暗黙知）を誰でも再現可能な「思考の型」として構造化する。\n・属人化していた知見を組織の資産へ変換し、業務効率を改善する。\n・AIを活用してこの思考プロセスを共有し、組織全体の能力を底上げする。"
-  },
-  {
-    "title": "SUMCO社長、AI特需「3～5年続く」　ウエハーの増産急がず質を死守",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03634/070800005/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "AI向けの半導体市場が急成長する一方で、母材となるシリコンウエハーは新型コロナウイルス禍の影響を引きずり供給過剰が続く。シリコンウエハー大手のSUMCOは2026年3月、佐賀県の新工場建設を延期し既存工場の設備を高度化する方針へ切り替えた。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03634/070800005/topm.jpg?20220512",
-    "fetched_at": "2026-07-27 05:09:25",
-    "ja_summary": "・SUMCOはAI需要は今後3〜5年続くと予測する一方、現在はウエハー供給過剰のため新工場建設を延期。\n・無理な増産は避け、既存工場の設備高度化による「品質維持」を最優先する方針。"
-  },
-  {
-    "title": "ルネサス、クルマ依存脱却　AI支える事業「30年に売上高5倍超」",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11869/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "半導体大手のルネサスエレクトロニクスが新たな中長期成長戦略を発表した。AI（人工知能）の進化を支えるソリューションを中核に据え、2040年ごろに向け3段階で成長を目指す。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11869/1-m.jpg?20220512",
-    "fetched_at": "2026-07-27 05:09:25",
-    "ja_summary": "・ルネサスが車載依存からの脱却を目指し、AI関連事業を成長の柱に据える。\n・2030年までにAI関連の売上高を現在の5倍超に拡大する目標を掲げた。\n・2040年を見据えた3段階の戦略で、次世代技術の主要サプライヤーを目指す。"
-  },
-  {
-    "title": "複数アプリを横断操作する「Natural AI」、予定確認や飲食店予約も",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/01679/061000287/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "米Brain Technologiesが開発したAIエージェント機能。AIがユーザーのやりたいことを理解して、スマホ上の複数のアプリを横断的に操作し、目的のタスクを自動で実行する。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/01679/061000287/topm.jpg?20220512",
-    "fetched_at": "2026-07-27 05:09:26",
-    "ja_summary": "・AIがスマホ内の複数アプリを横断し、タスクを自動実行する機能「Natural AI」が登場。\n・予定確認や飲食店予約など、ユーザーの要望を汲み取り一括操作が可能。\n・アプリを切り替える手間を省き、スマホ操作の効率を大幅に向上させる。"
   }
 ]
