@@ -1,5 +1,35 @@
 [
   {
+    "title": "NVIDIA、オープンなAIセキュリティで新連合　MSやIBM、SpaceXAIら参加",
+    "link": "https://www.watch.impress.co.jp/docs/news/2128306.html",
+    "source": "Impress Watch",
+    "published": "",
+    "summary": "NVIDIAは27日(米国時間)、AIを活用したサイバーセキュリティのためのオープンな技術やツールの構築と共有を目的とした団体「Open Secure AI Alliance」を創設した。オープンソースを活用し、単一障害点のない、大規模に分散されたコミュニティ主導かつ自律的な防御のための基盤づくりに取り組むとしている。",
+    "image": "https://www.watch.impress.co.jp/img/ipw/list/2128/306/os1.jpg",
+    "fetched_at": "2026-07-28 01:02:01",
+    "ja_summary": "・NVIDIAがAIを活用したセキュリティの技術共有団体「Open Secure AI Alliance」を創設\n・Microsoft、IBM、SpaceXのAI部門などが参加し、オープンソースで強固な防御基盤を構築\n・分散型コミュニティ主導による、単一障害点のない自律的なAIセキュリティの実現を目指す"
+  },
+  {
+    "title": "Anthropic is donating another $20 million to Public First Action",
+    "link": "https://www.anthropic.com/news/donation-public-first-action",
+    "source": "Anthropic (News)",
+    "published": "Tue, 21 Jul 2026 00:00:00 +0000",
+    "summary": "Anthropic is donating another $20 million to Public First Action",
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Stack&amp;backgroundColor=oat",
+    "fetched_at": "2026-07-28 01:02:18",
+    "ja_summary": "・AnthropicがPublic First Actionに対し、新たに2,000万ドル（約30億円）を寄付した。\n・同社はAI分野の公共政策や社会への影響力を強化する動きを加速させている。"
+  },
+  {
+    "title": "Opus5が思考が浅いように感じる問題への対策",
+    "link": "https://zenn.dev/u1/articles/claude5-rules-collapse-and-fix",
+    "source": "Zenn Trends",
+    "published": "Sun, 26 Jul 2026 03:01:36 GMT",
+    "summary": "Claude Code を Opus 5 に切り替えた直後から、応答の散文傾向が急に強まり、思考が浅くなる (構造化して考えられない) 変化が出ました。長年育ててきた rules (CLAUDE.md や常時ロードの指示ファイル群) は何も変えていないのに、です。調べていくと、モデルが悪いのでも rules が壊れたのでもなく、Claude 5 世代で Opus 5 に配られる本体 system prompt が大きく変わり、旧来の rules がその前提で書かれていなかったのが原因でした。\nこの記事は、その切り分けと、rules を新しい system prompt に合う形へ直すまで...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--SEL4lWhY--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Opus5%25E3%2581%258C%25E6%2580%259D%25E8%2580%2583%25E3%2581%258C%25E6%25B5%2585%25E3%2581%2584%25E3%2582%2588%25E3%2581%2586%25E3%2581%25AB%25E6%2584%259F%25E3%2581%2598%25E3%2582%258B%25E5%2595%258F%25E9%25A1%258C%25E3%2581%25B8%25E3%2581%25AE%25E5%25AF%25BE%25E7%25AD%2596%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Yuichi%2520Uemura%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzMwM2U1NDBiMzUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-07-28 01:02:20",
+    "ja_summary": "Claude CodeでOpus 5使用時に思考が浅くなるのは、モデルの変更により「システムプロンプト」と既存の「rules」の前提が噛み合わなくなったことが原因。解決には、新しいシステムプロンプトの仕様に合わせて既存のルール群を再定義・調整する必要がある。"
+  },
+  {
     "title": "「生成AIは友人」増 活用か依存か",
     "link": "https://news.yahoo.co.jp/pickup/6589523?source=rss",
     "source": "Yahoo!ニュース IT・科学",
@@ -968,35 +998,5 @@
     "image": "https://xtech.nikkei.com/atcl/nxt/column/18/01679/061000287/topm.jpg?20220512",
     "fetched_at": "2026-07-27 05:09:26",
     "ja_summary": "・AIがスマホ内の複数アプリを横断し、タスクを自動実行する機能「Natural AI」が登場。\n・予定確認や飲食店予約など、ユーザーの要望を汲み取り一括操作が可能。\n・アプリを切り替える手間を省き、スマホ操作の効率を大幅に向上させる。"
-  },
-  {
-    "title": "生成AI時代に重要性が高まるサンドボックス、仕組みから包括的に解説する",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/02805/071700031/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "マルウエアの正体を突き止める王道の手法は、逆アセンブルやデバッガーを使った手動解析だ。ただし、高度な専門知識を要する上、手間もかかる。これを肩代わりするのが「サンドボックス」だ。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/02805/071700031/topm.jpg?20220512",
-    "fetched_at": "2026-07-27 05:09:27",
-    "ja_summary": "・マルウェア解析は高度な専門知識と手間を要するが、「サンドボックス」を使えば自動化が可能。\n・生成AIの普及に伴い、脅威の高度化に対応する手段としてその重要性が再認識されている。"
-  },
-  {
-    "title": "AI ENGINEER WORLD'S FAIR 2026 - We Cut 94% of Our AI Coding Tokens With a Local Code Index",
-    "link": "https://speakerdeck.com/rajkumarsakthi/ai-engineer-worlds-fair-2026-we-cut-94-percent-of-our-ai-coding-tokens-with-a-local-code-index",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-07-26T15:38:19-04:00",
-    "summary": "AI ENGINEER WORLD'S FAIR 2026 - We Cut 94% of Our AI Coding Tokens With a Local Code Index",
-    "image": "https://files.speakerdeck.com/presentations/3e27264627a7409bb1c42794ea6a184e/preview_slide_0.jpg?40107230",
-    "fetched_at": "2026-07-27 05:09:46",
-    "ja_summary": "・AI開発で、ローカル環境にコードインデックスを構築する手法を導入。\n・AIコーディング時のトークン消費量を94%削減することに成功。\n・コスト効率と開発パフォーマンスを劇的に向上させる新知見。"
-  },
-  {
-    "title": "「AIの提案」を妄信する人、疑える人――“眼力ある人材”を育てる絶対条件",
-    "link": "https://www.itmedia.co.jp/business/articles/2607/24/news015.html",
-    "source": "ITmedia ビジネス",
-    "published": "Fri, 24 Jul 2026 07:00:00 +0900",
-    "summary": "プロンプト一つでUIやコードが数秒で量産される時代、人間の役割は「制作」から「目利き」へと変わる。しかし手を動かさなくなることで、AIの提案を無批判に受け入れてしまうリスクも漂う。米Figmaのロレダナ・クリサンCDOは「AIは過去しか見ない。世界を明日へ押し進めるのは人間だ」と断言。良い案に達するための「悪い案の量産」や手触り感の重要性を説く。AI時代にプロダクトへ魂を注ぎ続けるための思考法を語る。",
-    "image": "https://image.itmedia.co.jp/business/articles/2607/24/cover_news015.jpg",
-    "fetched_at": "2026-07-27 00:45:51",
-    "ja_summary": "・AIが成果物を量産する時代、人間の役割は「制作」から、AIの提案を評価する「目利き」へシフトする。\n・AIは過去のデータに基づくため、人間はあえて失敗を重ねる過程や手触り感を大切にし、批判的思考を忘れてはならない。\n・AIを使いこなしつつ、自らの意志で未来を創る「魂を注ぐ思考法」を持つ人材こそが価値を持つ。"
   }
 ]
