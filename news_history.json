@@ -1,5 +1,35 @@
 [
   {
+    "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
+    "link": "https://openai.com/index/chatgpt-for-academic-researchers",
+    "source": "OpenAI",
+    "published": "Wed, 29 Jul 2026 10:00:00 GMT",
+    "summary": "OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/2G2SR0DTkiabzzbrMZIW5Q/cb55c63d82440eaee372292302d5f2b3/academic-research-og.png?w=1600&amp;h=900&amp;fit=fill",
+    "fetched_at": "2026-07-30 03:02:01",
+    "ja_summary": "・OpenAIが学術研究者10万人に最新AIモデルを無償提供\n・研究スピードの向上と分野横断的なコラボレーションを促進\n・AI活用により科学的発見の加速を支援する狙い"
+  },
+  {
+    "title": "AIエージェントがあれば技術書なんてすぐ書けるでしょ、と思ったが無理だった",
+    "link": "https://qiita.com/watany/items/11358e8e8966d5e48a09",
+    "source": "Qiita (Popular)",
+    "published": "2026-07-25T15:46:06+09:00",
+    "summary": "## はじめに\n\n2026年5月2日に『Agentic Coding 生成AI時代のシステム開発入門』という単著を出しました。生成AI×システム開発の情報がネットの場当たり的なものばかりで困っている人、エージェントの使い方をどこから学べばいいか分からない人、そして自分は大丈夫でもチームメンバに渡す本が無い人に向けた本です。\n\nhttps://www.sbcr.jp/product/48156365",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY1Mjg0NTQlMkYxOTcxZjYwZmExM2U5YzBlNTk2N2RlMTVjZjQ1YWNmYzVkYTI2M2JiJTJGeF9sYXJnZS5wbmclM0YxNTcyOTk3NzQ2P2l4bGliPXJiLTQuMS4xJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz1iMTBiMzZjMDA4NTlhYmIyY2RiNTE0NjZjNGM3ZjgwZg%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Dc85540a1cb0da85551b07acbbedd5fc4?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9QUklRTMlODIlQTglRTMlODMlQkMlRTMlODIlQjglRTMlODIlQTclRTMlODMlQjMlRTMlODMlODglRTMlODElOEMlRTMlODElODIlRTMlODIlOEMlRTMlODElQjAlRTYlOEElODAlRTglQTElOTMlRTYlOUIlQjglRTMlODElQUElRTMlODIlOTMlRTMlODElQTYlRTMlODElOTklRTMlODElOTAlRTYlOUIlQjglRTMlODElOTElRTMlODIlOEIlRTMlODElQTclRTMlODElOTclRTMlODIlODclRTMlODAlODElRTMlODElQTglRTYlODAlOUQlRTMlODElQTMlRTMlODElOUYlRTMlODElOEMlRTclODQlQTElRTclOTAlODYlRTMlODElQTAlRTMlODElQTMlRTMlODElOUYmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz0yZjM3ZWNkMDVhZjU4ZjlhNTg5NmVmOWE3M2RiY2I0NA&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDB3YXRhbnkmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz0xMmQ5NWVhZWY5YzUzOTA3MGQyZTcxOWE3MjMzYWZhMQ&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=e101174e39b334b39ce3504c85ddf0fc",
+    "fetched_at": "2026-07-30 03:02:08",
+    "ja_summary": "生成AIとシステム開発を解説する技術書『Agentic Coding』を執筆。\nネット上の断片的な情報に課題を感じ、体系的な学習教材として出版。\nチーム共有やAIエージェントの活用法を学びたいエンジニアに最適。"
+  },
+  {
+    "title": "ComfyUI × 動画生成AI × Codex で、ゲーム用スプライトアニメを量産するパイプラインを作った話",
+    "link": "https://qiita.com/archeleeds/items/2efad73069b54288deb4",
+    "source": "Qiita (Popular)",
+    "published": "2026-07-15T00:08:46+09:00",
+    "summary": "こんにちは、Liseと申します。\n\nみなさんはゲームのアセットをAIで作ろうとしたことはあるでしょうか？\nX(Twitter)を見ていると怪しげな従量課金のゲームアセット生成サービスがポコポコ流れてくるのですが、ワンショットのアセットならともかく、大量にキャラクターのアセットが欲しい場合にどうも非効率というか向いていないように思えます。お金もかかりますし。\n\nそこで彼らに出来るのなら自分でも作れる",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGMTU0Mzc3JTJGcHJvZmlsZS1pbWFnZXMlMkYxNTU5MjU3NjM2P2l4bGliPXJiLTQuMS4xJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz04YTVkZjYwNGE0NjQzM2U3MWNiY2M2ZTE3NmQ3YjE0Ng%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D27802d45ae7e7507e2567039ad0e8714?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9Q29tZnlVSSUyMCVDMyU5NyUyMCVFNSU4QiU5NSVFNyU5NCVCQiVFNyU5NCU5RiVFNiU4OCU5MEFJJTIwJUMzJTk3JTIwQ29kZXglMjAlRTMlODElQTclRTMlODAlODElRTMlODIlQjIlRTMlODMlQkMlRTMlODMlQTAlRTclOTQlQTglRTMlODIlQjklRTMlODMlOTclRTMlODMlQTklRTMlODIlQTQlRTMlODMlODglRTMlODIlQTIlRTMlODMlOEIlRTMlODMlQTElRTMlODIlOTIlRTklODclOEYlRTclOTQlQTMlRTMlODElOTklRTMlODIlOEIlRTMlODMlOTElRTMlODIlQTQlRTMlODMlOTclRTMlODMlQTklRTMlODIlQTQlRTMlODMlQjMlRTMlODIlOTIlRTQlQkQlOUMlRTMlODElQTMlRTMlODElOUYlRTglQTklQjEmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz0xNWNjZTYyNDZhZTJmNmM0MGRmNzU5Y2JlYWRmZmRkOQ&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBhcmNoZWxlZWRzJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9NmI3ZTlmOGJhMzJhZGZiYzA5OTRmZDMyNmY5MzllMGY&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=6962e3a19ecf025b48528b91825a6d2f",
+    "fetched_at": "2026-07-30 03:02:11",
+    "ja_summary": "・ComfyUIと動画生成AI、Codexを組み合わせ、ゲーム用スプライトアニメを自動生成する効率的なパイプラインを構築。\n・既存の有料ゲームアセット生成サービスの非効率さとコスト高を解消し、大量のキャラクター素材を安価に量産可能。\n・AI技術を統合し、開発環境を自前で構築することで、ゲーム制作のワークフローを最適化。"
+  },
+  {
     "title": "セキュリティーからエッジAIまで、「仲介」機能を生かして拡大するCDN",
     "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03697/072200003/",
     "source": "日経クロステック 総合",
@@ -968,35 +998,5 @@
     "image": "https://japan.cnet.com/storage/2026/07/28/e956fc02b32936bfaf96b7dfcc27f305/t/184/138/d/2026-07-28_10.27の画像.jpeg",
     "fetched_at": "2026-07-29 08:13:51",
     "ja_summary": "・KDDIとGoogleが国内AIスタートアップ支援プログラムを開始。\n・採択企業に対し、両社による共同出資を実施。\n・Googleの最新AI「Gemini」の早期利用環境を提供し、開発を加速させる。"
-  },
-  {
-    "title": "「AIではなく、人間が作った」が売りになるかもしれない…アンチAI派のためのサービスも登場",
-    "link": "https://www.businessinsider.jp/article/2607-substack-anti-ai-slop-plan-label/",
-    "source": "Business Insider Japan",
-    "published": "Tue, 28 Jul 2026 21:00:00 GMT",
-    "summary": "AIがどこにでもある時代だからこそ、「AIを使わない」製品やサービスに価値を感じる人が増えるかもしれません。ニュースレター配信プラットフォームを展開するサブスタックは、そこに勝機を見出しています。",
-    "image": "https://media.loom-app.com/loom/2026/07/22/6af38642-078c-4ae7-ad06-756f3ca933d1/original.jpg?w=1200",
-    "fetched_at": "2026-07-29 08:13:51",
-    "ja_summary": "AIの普及に伴い、「人間が作った」という付加価値が見直されている。\nサブスタックなどの企業は、あえて「AI不使用」を売りにしたサービスで差別化を図る動きを見せている。\nAI一辺倒の市場において、人間の手仕事によるコンテンツや製品への新たな需要が高まっている。"
-  },
-  {
-    "title": "ChatGPT Desktop で Blender MCP を試す",
-    "link": "https://note.com/npaka/n/nf4f1b11bf395",
-    "source": "note (npaka)",
-    "published": "Sat, 25 Jul 2026 14:41:09 +0900",
-    "summary": "<p id=\"bf5287a4-117c-4421-831d-724fc3ad04bb\" name=\"bf5287a4-117c-4421-831d-724fc3ad04bb\">「ChatGPT Desktop」で「Blender MCP」を試してみたのでまとめました。</p><br /><br /><a href=\"https://note.com/npaka/n/nf4f1b11bf395\">続きをみる</a>",
-    "image": "https://assets.st-note.com/production/uploads/images/297385970/rectangle_large_type_2_98ee204344254eff25c77747e1768456.png?width=800",
-    "fetched_at": "2026-07-29 08:13:51",
-    "ja_summary": "ChatGPT DesktopからBlenderを操作できる「Blender MCP」の導入手順と検証結果を解説。\nAIを介して3Dソフトの操作を自動化・効率化する方法を紹介する技術記事。"
-  },
-  {
-    "title": "音声合成ランキングで1位を獲得したAI「Qwen-Audio-3.0-TTS」をアリババが公開。日本語対応、音声クローンも可能（生成AIクローズアップ）",
-    "link": "https://www.techno-edge.net/article/2026/07/27/5335.html",
-    "source": "TechnoEdge",
-    "published": "Mon, 27 Jul 2026 08:49:43 +0900",
-    "summary": "今回は、Alibaba傘下の研究機関Tongyi Lab（Qwenの開発元）が発表した、テキスト音声合成（text-to-speech）モデル「Qwen-Audio-3.0-TTS」を取り上げます。",
-    "image": "https://www.techno-edge.net/imgs/rss/33176.jpg",
-    "fetched_at": "2026-07-29 08:13:59",
-    "ja_summary": "・アリババが最新音声合成AI「Qwen-Audio-3.0-TTS」を公開し、業界ランキングで1位を獲得。\n・日本語対応に加え、特定の声を再現する音声クローン機能も搭載。\n・テキストから自然な音声を生成できる高性能モデルとして注目を集めている。"
   }
 ]
