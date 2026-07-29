@@ -1,5 +1,35 @@
 [
   {
+    "title": "マイクロソフトの現役エンジニアが、AIに仕事を奪われないと確信する理由",
+    "link": "https://www.businessinsider.jp/article/2607-microsoft-software-engineer-ai-hallucinates-deadlines-job-less-stressful-tech/",
+    "source": "Business Insider Japan",
+    "published": "Tue, 28 Jul 2026 22:00:00 GMT",
+    "summary": "AIはまだミスを犯すこともあるが、それでも仕事のストレスは軽減された――マイクロソフトのエンジニアはこのように語ります。",
+    "image": "https://media.loom-app.com/loom/2026/07/22/965af749-8a4b-4437-bb23-f71ef1ef2ebb/original.jpg?w=1200",
+    "fetched_at": "2026-07-30 04:40:28",
+    "ja_summary": "・AIは時にミスをするが、業務のストレス軽減には大きく貢献している。\n・現役エンジニアは、AIに仕事を奪われる懸念よりも業務効率化の利点を重視。\n・AIは「競合」ではなく、人間をサポートする強力なツールとして共存できる。"
+  },
+  {
+    "title": "ChatGPT Desktop で Blender MCP を試す",
+    "link": "https://note.com/npaka/n/nf4f1b11bf395",
+    "source": "note (npaka)",
+    "published": "Sat, 25 Jul 2026 14:41:09 +0900",
+    "summary": "<p id=\"bf5287a4-117c-4421-831d-724fc3ad04bb\" name=\"bf5287a4-117c-4421-831d-724fc3ad04bb\">「ChatGPT Desktop」で「Blender MCP」を試してみたのでまとめました。</p><br /><br /><a href=\"https://note.com/npaka/n/nf4f1b11bf395\">続きをみる</a>",
+    "image": "https://assets.st-note.com/production/uploads/images/297385970/rectangle_large_type_2_98ee204344254eff25c77747e1768456.png?width=800",
+    "fetched_at": "2026-07-30 04:40:28",
+    "ja_summary": "・ChatGPT DesktopとBlender MCPの連携方法を解説。\n・AIを活用してBlenderの操作やワークフローを効率化する手法を紹介。"
+  },
+  {
+    "title": "[MIRU26] To What Extent Does MLLM-as-a-Judge Exhibit Cross-Model Preference Bias?",
+    "link": "https://speakerdeck.com/keio_smilab/miru26-to-what-extent-does-mllm-as-a-judge-exhibit-cross-model-preference-bias",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-07-29T13:59:44-04:00",
+    "summary": "",
+    "image": "https://files.speakerdeck.com/presentations/78873779043844aba447c70b9ecd7444/preview_slide_0.jpg?40142621",
+    "fetched_at": "2026-07-30 04:40:38",
+    "ja_summary": "・AIモデルが別のAIの回答を評価する際、特定のモデルを好む「偏り（バイアス）」が存在するかを検証。\n・マルチモーダル大規模言語モデル（MLLM）の評価手法において、客観性や公平性に影響を与える要因を特定。\n・AI評価の信頼性を高めるために、評価モデルの選定や判定基準の最適化が重要であることを示唆。"
+  },
+  {
     "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
     "link": "https://openai.com/index/chatgpt-for-academic-researchers",
     "source": "OpenAI",
@@ -968,35 +998,5 @@
     "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYyMTUxMjglMkZjZDcxOTM0ZjMxOGIwMGYwZGQ0OTU3YjU4NTBiYzk4MGM5MjEwNGVkJTJGeF9sYXJnZS5wbmclM0YxNjM4NzU1ODYzP2l4bGliPXJiLTQuMS4xJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz1lMDhiYmM5MzJlMTE2NDA3YTY4MmY0ZWQyNTA1Nzg0Nw%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D05a90f6a0cfd4ac041aa6e8649c9441c?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgxJUIyJUUzJTgxJUE4JUUzJTgxJTkzJUUzJTgxJUE4JUUzJTgxJUE3JUUzJTgwJTgxJUU4JUE4JTgwJUUzJTgxJTg4JUUzJTgwJTgyJUVGJUJEJTlFJUUzJTgyJUI5JUUzJTgzJUE5JUUzJTgyJUE0JUUzJTgzJTg5JUUzJTgyJTkyQUklRTMlODElQTclRTQlQkQlOUMlRTMlODIlOEElRTclOUIlQjQlRTMlODElOTclRTMlODElOUYlRTMlODIlODklRTMlODIlOEYlRTMlODElOEIlRTMlODIlOEElRTMlODElQUIlRTMlODElOEYlRTMlODElOEYlRTMlODElQUElRTMlODElQTMlRTMlODElOUYlRTglQTklQjElRUYlQkQlOUUmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz05MWNhYmYwZGY1YWRhZmQwZDMwZmRlYzc4NmE5OGQ5OQ&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBXZGtuV2RrbiZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTUzYWI2ZTI2ODZiMTllNjc1Y2M0ZjQyY2VlYjRjZDg1&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=68ced5e3f9613d10cbbe2ed9d4253e5e",
     "fetched_at": "2026-07-29 09:09:23",
     "ja_summary": "AIでスライドを作り直した結果、かえって内容が分かりにくくなった失敗談。\nAIによる自動化に頼りすぎず、伝えるべき要点を削ぎ落とす重要性を説く。\n情報の詰め込みを避け、シンプルに「ひとことで」伝える技術の必要性を提唱。"
-  },
-  {
-    "title": "「AI役員、導入しました」のウソ・ホント　運用中のSMBC、キリンHDが“AIに委ねなかったもの”とは",
-    "link": "https://www.itmedia.co.jp/business/articles/2607/29/news016.html",
-    "source": "ITmedia ビジネス",
-    "published": "Wed, 29 Jul 2026 07:00:00 +0900",
-    "summary": "SMBCグループやキリンホールディングスなどで導入が進む「AI役員」。話題を集める一方、AIが本当に経営判断を担っている事例はほとんどない。先進企業の事例を基に「AI役員」の実態と、人とAIが担うべき経営の役割を解説する。",
-    "image": "https://image.itmedia.co.jp/business/articles/2607/29/cover_news016.jpg",
-    "fetched_at": "2026-07-29 08:13:36",
-    "ja_summary": "・「AI役員」はあくまで業務支援ツールであり、経営判断の最終決定は人間が行っている。\n・データ分析や効率化はAIが担う一方、責任を伴う意思決定は人間が担うべき役割として残る。\n・先進企業の実態から、AI活用は経営の代替ではなく「補完」にあることが浮き彫りとなっている。"
-  },
-  {
-    "title": "川重の乗れる多脚ロボット「コルレオ」　開発は仮想空間とフィジカルAI活用",
-    "link": "https://www.watch.impress.co.jp/docs/news/2128633.html",
-    "source": "Impress Watch",
-    "published": "",
-    "summary": "川崎重工は7月28日、2025年日本国際博覧会(大阪・関西万博)で公開した、四脚歩行型のオフロード・パーソナルモビリティのコンセプトモデル「CORLEO(コルレオ)」のロードマップを紹介した。",
-    "image": "https://www.watch.impress.co.jp/img/ipw/list/2128/633/IMG_20260728_133410.jpg",
-    "fetched_at": "2026-07-29 08:13:48",
-    "ja_summary": "・川崎重工が四脚歩行の乗れるロボット「コルレオ」の開発ロードマップを公開。\n・仮想空間とフィジカルAIを駆使し、オフロードでの走行性能を追求。\n・大阪・関西万博で発表されたコンセプトモデルの社会実装を目指す。"
-  },
-  {
-    "title": "KDDIとGoogle、国内AIスタートアップを共同支援　出資に加え「Gemini」早期アクセスも",
-    "link": "https://japan.cnet.com/article/35251010/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "KDDIは7月28日、Googleの投資ファンド「Google AI Futures Fund」と連携し、国内スタートアップ向けの「AIスタートアップ支援プログラム by KDDI＆Google AI Futures Fund」を始めると発表した。採択したスタートアップには両社が共同で出資するほか、「Gemini」などGoogle DeepMindの最新AIモデルを早期に利用できる環境を提供する。応募受付は同日、特設サイトで始めた。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35251010/\"><img src=\"https://japan.cnet.com/storage/2026/07/28/e956fc02b32936bfaf96b7dfcc27f305/t/184/138/d/2026-07-28_10.27の画像.jpeg\" /></a>",
-    "image": "https://japan.cnet.com/storage/2026/07/28/e956fc02b32936bfaf96b7dfcc27f305/t/184/138/d/2026-07-28_10.27の画像.jpeg",
-    "fetched_at": "2026-07-29 08:13:51",
-    "ja_summary": "・KDDIとGoogleが国内AIスタートアップ支援プログラムを開始。\n・採択企業に対し、両社による共同出資を実施。\n・Googleの最新AI「Gemini」の早期利用環境を提供し、開発を加速させる。"
   }
 ]
