@@ -1,5 +1,85 @@
 [
   {
+    "title": "中国AIは米国に追い付いた？　コスト面では既に優位",
+    "link": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/052100111/072300182/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "中国製AI（人工知能）モデルの性能は、米国製にどこまで追い付いたのか。中国製AIモデルの開発元は既に追い付いたと主張する一方、まだ差は大きいとの指摘もある。議論が混迷する背景には、AIモデルの性能を測るベンチマークが抱える問題もあるようだ。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/052100111/072300182/topm.jpg?20220512",
+    "fetched_at": "2026-07-31 23:54:54",
+    "ja_summary": "・中国AIの性能については「米国に並んだ」との主張と「まだ差がある」との見方が混在している。\n・中国製は特にコスト面で米国に対し優位性を確立している。\n・現状のベンチマーク（性能指標）に課題があり、真の比較が難しくなっている。"
+  },
+  {
+    "title": "AI企業の幹部が過重労働とストレスで辞任…10人のビジネスリーダーに学ぶバーンアウト対策",
+    "link": "https://www.businessinsider.jp/article/2607-how-business-leaders-avoid-burnout-work-life-balance-lilian-weng/",
+    "source": "Business Insider Japan",
+    "published": "Thu, 30 Jul 2026 21:00:00 GMT",
+    "summary": "「絶え間ないストレスと業務量によって、健康を維持できる限界を超えてしまったことを認めざるを得ない」。シンキング・マシンズ・ラボ共同創業者のウェンは、同僚宛てのメッセージにこう記した。",
+    "image": "https://media.loom-app.com/loom/2026/07/28/05e276a1-84d6-4190-9f68-9039da790e8b/original.jpg?w=1200",
+    "fetched_at": "2026-07-31 23:55:01",
+    "ja_summary": "・AI企業幹部が過重労働によるバーンアウトで辞任を表明。\n・絶え間ないストレスと業務量が健康維持の限界を超えたことが要因。\n・ビジネスリーダーたちが実践するバーンアウト防止対策の重要性が高まっている。"
+  },
+  {
+    "title": "EUが生成AIの監督強化 暴走を抑止",
+    "link": "https://news.yahoo.co.jp/pickup/6590082?source=rss",
+    "source": "Yahoo!ニュース IT・科学",
+    "published": "Fri, 31 Jul 2026 13:53:43 GMT",
+    "summary": "",
+    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/7/31/1a38de72a37ae444f91a944fde781c1f27bc519020bdf774c3b66f45659b3cdc.jpg",
+    "fetched_at": "2026-07-31 23:55:03",
+    "ja_summary": "・EUが生成AIの規制を強化し、暴走を抑止するための新ルールを導入。\n・AI開発企業に対し、安全性確保と透明性の向上を義務付ける。\n・リスクの高いAI運用を監視し、不正利用や誤情報の拡散を防止する。"
+  },
+  {
+    "title": "メテオフォール開発",
+    "link": "https://zenn.dev/hisaju01/books/meteorfall-development",
+    "source": "Zenn Trends",
+    "published": "Fri, 31 Jul 2026 06:16:08 GMT",
+    "summary": "AIエージェントで粗い初期実装をまず落とし、人間が観測・分解・修正していく開発手法「メテオフォール開発」の考え方と実践をまとめた本。依頼設計・レビュー・タスク分解・ジュニア参加・品質ゲート・ケーススタディ・テンプレートまでを扱う。",
+    "image": null,
+    "fetched_at": "2026-07-31 23:55:30",
+    "ja_summary": "AIエージェントに初期実装を任せ、人間が観測・修正して完成度を高める「メテオフォール開発」の解説本。\nタスク分解から品質管理、テンプレート活用まで実践的な手法を網羅。\nAIを開発パートナーとして活用し、効率的に高品質な成果物を生み出すためのノウハウを凝縮。"
+  },
+  {
+    "title": "生成AIにおけるHTML/画像出力の必要性と改善案としてのRHW(reviewable-html-workbench)の紹介",
+    "link": "https://zenn.dev/u1/articles/rhw-reviewable-html-workbench",
+    "source": "Zenn Trends",
+    "published": "Thu, 30 Jul 2026 12:16:48 GMT",
+    "summary": "この記事はXの元記事をZenn向けに再掲載したものです。\n\n 要約 (TL;DR)\nモデルが 1 回に出す量は増え続けており、読む側の処理能力は変わりません。\nこの差をどこまで埋められるかで AI との協調の質が決まります。\n認知負荷の研究を土台に、Claude Code 標準の Artifact tool がどこまで答えていて、どこが足りないかを整理し、その不足を埋めるRHW https://github.com/u-ichi/reviewable-html-workbench を紹介します。\n\n はじめに\nClaude Code には Artifact tool が標準で入っています...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--R5gIqEJI--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E7%2594%259F%25E6%2588%2590AI%25E3%2581%25AB%25E3%2581%258A%25E3%2581%2591%25E3%2582%258BHTML%252F%25E7%2594%25BB%25E5%2583%258F%25E5%2587%25BA%25E5%258A%259B%25E3%2581%25AE%25E5%25BF%2585%25E8%25A6%2581%25E6%2580%25A7%25E3%2581%25A8%25E6%2594%25B9%25E5%2596%2584%25E6%25A1%2588%25E3%2581%25A8%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25AERHW%2528reviewable-html-workbenc...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Yuichi%2520Uemura%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzMwM2U1NDBiMzUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-07-31 23:55:30",
+    "ja_summary": "・AIの出力増大による認知負荷を軽減し、効率的な協調を実現することが重要。\n・Claude Codeの標準機能「Artifact」の限界を整理し、その不足を補う「RHW」を提案。\n・RHWを活用することで、AI生成物の確認・修正プロセスを最適化できる。"
+  },
+  {
+    "title": "変化に強くなる！ソフトウェア定義型生産ラインの道標",
+    "link": "https://speakerdeck.com/yudaiono/bian-hua-niqiang-kunaru-sohutoueading-yi-xing-sheng-chan-rainnodao-biao",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-07-31T08:57:03-04:00",
+    "summary": "2026.07.31 フィジカルAI開発Conference 2026\n登壇資料\n\nAIエージェントによるフィジカルシステムのCI/CDについてお話ししました。",
+    "image": "https://files.speakerdeck.com/presentations/8439a562fa834a2cb5ba35de2eb7697f/preview_slide_0.jpg?40165830",
+    "fetched_at": "2026-07-31 23:55:32",
+    "ja_summary": "・AIエージェントを活用し、製造ラインをソフトウェアのように継続的に更新・改善する手法を解説。\n・物理システムに「CI/CD」の概念を導入し、市場の変化に即応できる柔軟な生産体制を提案。\n・物理AI開発の最新知見に基づき、製造現場のDXを加速させる道標を提示。"
+  },
+  {
+    "title": "바이브풀 라이프",
+    "link": "https://speakerdeck.com/arawn/baibeupul-raipeu",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-07-31T08:35:12-04:00",
+    "summary": "바이브 코딩이 한창 화제인데 AI와 함께할 수 있는 게 정말 코딩뿐일까 하는 질문에서 출발해서 진행한 발표입니다. 개발할 때는 바이브 코딩, 일할 때는 바이브 워킹, 삶으로 넓히면 바이브 에브리띵이라는 이야기를 풀어냈습니다.\n\n어려운 기술 이야기도 아니고, 특정 도구를 어떻게 쓰는지 알려주는 발표도 아닙니다. 그저 지난 1년 동안 AI 에이전트와 부대끼며 무엇을 겪고 무엇을 배웠는지, 그 경험과 태도를 담은 이야기입니다. 그래서 거창한 이론 없이 실제로 AI와 투닥거리면서 얻은 것들을 편하게 나눠봤습니다.",
+    "image": "https://files.speakerdeck.com/presentations/5547e6ab749046dba3039f9f996fd3ca/preview_slide_0.jpg?40165566",
+    "fetched_at": "2026-07-31 23:55:32",
+    "ja_summary": "AIを単なるコーディングツールに留めず、仕事から生活全般のパートナーへと拡張する「バイブ・エブリシング」という考え方を提唱。\n特定の技術やツールの解説ではなく、1年間AIエージェントと共生して得た実践的な知見や向き合い方を共有。\nAIを理論としてではなく、日常の相棒として使いこなすためのマインドセットと経験談をまとめた発表。"
+  },
+  {
+    "title": "AI時代の凡事徹底～真夏の夜のセキュリティ～",
+    "link": "https://speakerdeck.com/nomizone/thorough-practice-of-the-fundamentals-in-the-ai-era-e066bb3d-5f44-435a-b70b-5819f2083463",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-07-31T08:31:10-04:00",
+    "summary": "2026年7月31日 VS AI ― 攻撃するAIから守るプロダクトセキュリティ登壇資料です\nhttps://forkwell.connpass.com/event/399251/",
+    "image": "https://files.speakerdeck.com/presentations/81a55a8902214c4ea807798f2ead510d/preview_slide_0.jpg?40165484",
+    "fetched_at": "2026-07-31 23:55:32",
+    "ja_summary": "・AIを活用したサイバー攻撃が急増する中での、プロダクトセキュリティの重要性を解説。\n・攻撃者のAI技術に対抗するための、基本的なセキュリティ対策（凡事徹底）の再定義を提言。\n・エンジニアやセキュリティ担当者が押さえるべき、最新の防御戦略と実践的な知見を共有。"
+  },
+  {
     "title": "Codex Micro の使い方",
     "link": "https://note.com/npaka/n/n077409095a5a",
     "source": "note (npaka)",
@@ -918,85 +998,5 @@
     "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGMzYzNzIwNCUyRnByb2ZpbGUtaW1hZ2VzJTJGMTc3NDQ0NTA3MD9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NzhlNWJjOTliMzcxMjIzNTdjNWQ1N2EyMTc3MzQyMGQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D4251943b4cba54fb403a98b0c03f0bf4?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJTkwJUU1JUJFJUI5JUU1JUJBJTk1JUU4JUE3JUEzJUU4JUFBJUFDJUUzJTgwJTkxJUU2JTk2JTg3JUU3JUIzJUJCJUUzJTgxJUE3JUUzJTgyJTgyJUUzJTgyJThGJUUzJTgxJThCJUUzJTgyJThCJUVGJUJDJTgxJUU2JUE5JTlGJUU2JUEyJUIwJUU1JUFEJUE2JUU3JUJGJTkyJUUzJTgxJUFCJUU1JTg1JUE1JUU5JTk2JTgwJUUzJTgxJTk3JUUzJTgyJTg4JUUzJTgxJTg2JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9Y2M4NTZiZWVhMGU3OGZhNGU2NzY5YWFlM2E5ZWE2MjY&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBtaXJ1a3kmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz03OTk2NjQ5OGIxYWQ1NDQxNjI5ZjM2ZTYzYTY3MzliZg&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=6e86ac1253cc4dc77ed6a9b436015521",
     "fetched_at": "2026-07-31 10:01:46",
     "ja_summary": "・文系出身者でも挫折せずに機械学習の基礎を理解できる入門ガイド。\n・難解な数式を避け、初心者向けに概念や仕組みをわかりやすく解説。\n・機械学習に苦手意識がある人でも、概念を掴んで学習の一歩を踏み出せる内容。"
-  },
-  {
-    "title": "Claude Codeで技術面接の壁打ち相手を作ってみませんか",
-    "link": "https://qiita.com/kuma_3838/items/e07a4d45ca5cf2ff14ef",
-    "source": "Qiita (Popular)",
-    "published": "2026-07-16T08:39:44+09:00",
-    "summary": "## はじめに\n\n先日、Xで技術面接の質問集を紹介するポストが流れてきました。\n\n>「SQLインジェクションが発生する仕組みと対策を説明してください。」\n「TypeScriptにおける anyと unknownの違いと、それぞれをどのような場面で使うべきか説明してください。」\n\n眺めてみると、なんとなくは分かるんです。\nでも「面接官の前で、自信を持って口頭で説明できるか？」と自問すると、答えられる",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYzNTc5MDQxJTJGYzc1OThmNzMwMmQ1YzZmZmRmNmY2ZTM0ZjUyNTFlYzhlNDZjMDczZiUyRmxhcmdlLnBuZyUzRjE3NDIwNDYxNzI_aXhsaWI9cmItNC4xLjEmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPWI5M2ExOWM2Mjk1NzQyYmJlOTU0MGZkZWQxNmM4Mjcy%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkZhZmM0ZGJhZjAzNThlOGQwYjM0NmM4ZDc1ZWIwMzdiMjVmNjc4MDY5JTJGb3JpZ2luYWwuanBnJTNGMTYwNzc1NjU4OD9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz03NjRmYjE2ODMxYjQ2ZDU0NTgwMmI1MGMzYWMxODM2MQ%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D629b5eadc6112769e3f5b2414ddda0c5?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9Q2xhdWRlJTIwQ29kZSVFMyU4MSVBNyVFNiU4QSU4MCVFOCVBMSU5MyVFOSU5RCVBMiVFNiU4RSVBNSVFMyU4MSVBRSVFNSVBMyU4MSVFNiU4OSU5MyVFMyU4MSVBMSVFNyU5QiVCOCVFNiU4OSU4QiVFMyU4MiU5MiVFNCVCRCU5QyVFMyU4MSVBMyVFMyU4MSVBNiVFMyU4MSVCRiVFMyU4MSVCRSVFMyU4MSU5QiVFMyU4MiU5MyVFMyU4MSU4QiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPWQ0M2IzYjliOGE1YmViZjczZDhlMzg0MzljMDhkNjk2&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBrdW1hXzM4MzgmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1mZDg2NmEwMjYzNzQ2N2RlOGUzM2NmNjFmOWQ0ZmUzYQ&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=5qCq5byP5Lya56S-44K344Oz44K344Ki&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=98a042b85e809c7dbac9dab41697d23c",
-    "fetched_at": "2026-07-31 10:01:47",
-    "ja_summary": "Claude Codeを活用し、技術面接の頻出質問に対する口頭説明の練習環境を構築する方法を紹介。AIを面接官に見立てることで、自信を持って回答するスキルを効率的に磨ける。"
-  },
-  {
-    "title": "日立が「SI全工程」をAI化　仕様確定で「最大240倍」効率化のワケ",
-    "link": "https://www.itmedia.co.jp/business/articles/2607/31/news049.html",
-    "source": "ITmedia ビジネス",
-    "published": "Fri, 31 Jul 2026 07:00:00 +0900",
-    "summary": "日立は、エンジニア不足やシステム複雑化に対応するため、SIの全工程にAIを全面適用する「Agentic AI Integration Platform」を開発した。最先端AIと独自ノウハウを融合し、社内検証では画面仕様確定で最大240倍などの効率化を実証。顧客固有の暗黙知を蓄積しながら自律進化する仕組みを構築した。2027年度に工程全体で30％の生産性向上を目指し、金融や社会インフラなど大規模レガシーシステムの刷新を推進する。",
-    "image": "https://image.itmedia.co.jp/business/articles/2607/31/cover_news049.jpg",
-    "fetched_at": "2026-07-31 08:16:47",
-    "ja_summary": "・日立がSI全工程をAI化する新基盤を開発し、仕様確定などで最大240倍の効率化を実証。\n・顧客ごとの暗黙知をAIに学習させ、複雑なレガシーシステムの刷新を自律的にサポートする。\n・2027年度までに工程全体の生産性30％向上を目指し、社会インフラ等のDXを加速させる。"
-  },
-  {
-    "title": "「コードを何万行書いても意味はない」 Microsoftが進める本物の成果を生むAI",
-    "link": "https://www.watch.impress.co.jp/docs/topic/2129372.html",
-    "source": "Impress Watch",
-    "published": "",
-    "summary": "7月29日(現地時間)、米マイクロソフトは、2026年度第4四半期(4～6月)の決算を発表した。",
-    "image": "https://www.watch.impress.co.jp/img/ipw/list/2129/372/ms00.jpg",
-    "fetched_at": "2026-07-31 08:16:58",
-    "ja_summary": "・マイクロソフトの決算発表にて、コード量よりもAIによる実質的な成果創出を重視する方針が示された。\n・開発効率の指標が「記述コード数」から「ビジネスへの貢献度」へと転換している。\n・AI活用により、従来のプログラミング偏重から本質的な価値提供へのシフトが加速している。"
-  },
-  {
-    "title": "OpenAI、研究者10万人にChatGPTを無償提供　日本も対象",
-    "link": "https://www.watch.impress.co.jp/docs/news/2129202.html",
-    "source": "Impress Watch",
-    "published": "",
-    "summary": "OpenAIは29日、対象となる大学などの研究者にAIモデルやツールを無料提供する「ChatGPT for Academic Researchers」の募集を開始した。科学、数学、工学分野の研究者が対象で、今夏は1万人から始め、2027年までに10万人へ拡大する。",
-    "image": "https://www.watch.impress.co.jp/img/ipw/list/2129/202/01.jpg",
-    "fetched_at": "2026-07-31 08:17:00",
-    "ja_summary": "・OpenAIが科学・工学分野の研究者向けにChatGPTの無償提供を開始。\n・対象は大学等の研究者で、日本も含まれる。\n・2027年までに利用枠を10万人まで段階的に拡大する。"
-  },
-  {
-    "title": "食事をドローンでお届け、米DoorDashが独自配送でFAAの認可取得",
-    "link": "https://japan.cnet.com/article/35251112/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "米連邦航空局（FAA）は料理宅配大手DoorDashに対し、独自のドローンサービスを運用する認可を与えた。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35251112/\"><img src=\"https://japan.cnet.com/storage/2026/07/30/9593a998e640566c8108ee4c01db365a/t/184/138/d/aircraft-nose_1280x960.jpg\" /></a>",
-    "image": "https://japan.cnet.com/storage/2026/07/30/9593a998e640566c8108ee4c01db365a/t/184/138/d/aircraft-nose_1280x960.jpg",
-    "fetched_at": "2026-07-31 08:17:01",
-    "ja_summary": "・料理宅配大手の米DoorDashが、独自のドローン配送サービスを開始する。\n・米連邦航空局（FAA）から正式な運用認可を取得した。\n・今後はドローンを活用した効率的なフードデリバリーが本格化する見通し。"
-  },
-  {
-    "title": "AI利用は「時間節約」から「自律型」へ--マイクロソフト決算に見るAI投資の現在地",
-    "link": "https://japan.cnet.com/article/35251107/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "マイクロソフトのソフトウェアを使う労働者は、「Outlook」や「Teams」で人と会話するのと同じくらい、AI「Copilot」と会話しているようだ。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35251107/\"><img src=\"https://japan.cnet.com/storage/2026/07/30/b8af756548ed37abdb959c3acb8fb33c/t/184/138/d/AdobeStock_1976455834_Editorial_Use_Only_1280x960.jpeg\" /></a>",
-    "image": "https://japan.cnet.com/storage/2026/07/30/b8af756548ed37abdb959c3acb8fb33c/t/184/138/d/AdobeStock_1976455834_Editorial_Use_Only_1280x960.jpeg",
-    "fetched_at": "2026-07-31 08:17:01",
-    "ja_summary": "・マイクロソフトのAI「Copilot」の利用が、単なる時間短縮ツールから業務を自律的にこなす相棒へと進化。\n・ユーザーはOutlookやTeamsでの対人コミュニケーションと同様に、日常的にAIと対話している。\n・企業のAI投資は、補助的な活用から業務プロセスそのものを担う「自律型」フェーズへ移行している。"
-  },
-  {
-    "title": "理想のコーヒーをボタン1つで！ デロンギ「リヴェリア 全自動コーヒーマシン」",
-    "link": "https://japan.cnet.com/article/35250585/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "計16メニューをワンタッチで作れるデロンギの「リヴェリア全自動コーヒーマシン」。豆量・抽出量などはメニューごとに調整可能、さらにその設定をユーザーごと（最大4人）に保存できる。理想の1杯をいつでも思いのままに楽しめる？<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35250585/\"><img src=\"https://japan.cnet.com/storage/2026/07/15/953270c577857bbad2dc85a2336efded/t/184/138/d/1783944709461_ck2jaiv9ecc2woaxr48wwzdc.jpg\" /></a>",
-    "image": "https://japan.cnet.com/storage/2026/07/15/953270c577857bbad2dc85a2336efded/t/184/138/d/1783944709461_ck2jaiv9ecc2woaxr48wwzdc.jpg",
-    "fetched_at": "2026-07-31 08:17:01",
-    "ja_summary": "デロンギの全自動コーヒーマシン「リヴェリア」は、ボタン1つで16種類のメニューを抽出可能。\n豆量や抽出量を好みで調整でき、最大4人分まで設定を個別保存できる。\n自分好みの理想の1杯を、誰でも簡単に再現できるのが特徴。"
-  },
-  {
-    "title": "「AI投資は報われる」--MetaのザッカーバーグCEO、AIの未来に全賭け",
-    "link": "https://japan.cnet.com/article/35251103/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "MetaはAIに大きく賭けている。しかし、ザッカーバーグCEOが進めるAIへの投資は、最終的に実を結ぶのだろうか。決算説明会後に残った大きな疑問の1つがそれだ。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35251103/\"><img src=\"https://japan.cnet.com/storage/2026/07/30/bdda0268446c099eb79ec466aefd340f/t/184/138/d/GettyImages-2284791453_1280x960.jpg\" /></a>",
-    "image": "https://japan.cnet.com/storage/2026/07/30/bdda0268446c099eb79ec466aefd340f/t/184/138/d/GettyImages-2284791453_1280x960.jpg",
-    "fetched_at": "2026-07-31 08:17:01",
-    "ja_summary": "MetaのザッカーバーグCEOがAI開発に巨額投資を行う中、投資家からはその収益性に対して疑問の声が上がっている。\n同社はAIの将来性に全賭けする姿勢を鮮明にしており、今後の投資回収が経営の焦点となる。"
   }
 ]
