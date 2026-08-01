@@ -1,5 +1,25 @@
 [
   {
+    "title": "【ClaudeCode】コスト発生要因から考えるトークン消費最適化術【トークン】",
+    "link": "https://qiita.com/Nana_777/items/1766dd6bbd308222f71b",
+    "source": "Qiita (Popular)",
+    "published": "2026-07-28T06:07:03+09:00",
+    "summary": "## はじめに\n\nClaude Codeをはじめとする AI コーディングエージェントを使っていると、「トークン消費を減らすには？」というTipsは世の中にたくさん転がっています。「CLAUDE.mdを短くしよう」「`/clear`しよう」「サブエージェントを使おう」。どれも間違いではないのですが、Tipsを闇雲に集めるだけだと、\n\n- なぜそれが効くのか分からないまま導入してしまう\n- 逆効果に",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYxOTI5NDklMkYxYmVjZGE4YTRmMWRiOWU5OTQyZDljOGMwYjZkZDA3NjkwMTM2NjgwJTJGbGFyZ2UucG5nJTNGMTc0MTQ4MzQxMD9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9MDZlM2QxY2EzNTVhN2Y4N2M2ZTQxY2RlYzdmN2M0ODI%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYxZTIwZGI1ZTdlNDA3ZWFlN2I5NzBlYzk5OTg4MGRjOGMzY2MwZjY0JTJGb3JpZ2luYWwuanBnJTNGMTY2NzI3NDk2Mz9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz04OTI0NDcwMDk1MDMyZjUxYmZlNzE3ZjVkOGUzYmE3ZA%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D0db13b4aef231a19bc684897cf15021a?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJTkwQ2xhdWRlQ29kZSVFMyU4MCU5MSVFMyU4MiVCMyVFMyU4MiVCOSVFMyU4MyU4OCVFNyU5OSVCQSVFNyU5NCU5RiVFOCVBNiU4MSVFNSU5QiVBMCVFMyU4MSU4QiVFMyU4MiU4OSVFOCU4MCU4MyVFMyU4MSU4OCVFMyU4MiU4QiVFMyU4MyU4OCVFMyU4MyVCQyVFMyU4MiVBRiVFMyU4MyVCMyVFNiVCNiU4OCVFOCVCMiVCQiVFNiU5QyU4MCVFOSU4MSVBOSVFNSU4QyU5NiVFOCVBMSU5MyVFMyU4MCU5MCVFMyU4MyU4OCVFMyU4MyVCQyVFMyU4MiVBRiVFMyU4MyVCMyVFMyU4MCU5MSZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTE2MjI1NDQ5NTg0ZGJjZjNmZTBkZDk5OWQ3ZDIzYjk4&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBOYW5hXzc3NyZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTg1YzQ4MzUyMmVkMGVhNmYxYjhkZjU5MjVjYzhiNjQz&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=S0RESeOCouOCuOODo-OCpOODq-mWi-eZuuOCu-ODs-OCv-ODvOagquW8j-S8muekvg&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=41fdb4144ad4e61884d3e57aa869ad9f",
+    "fetched_at": "2026-08-01 12:47:00",
+    "ja_summary": "AIコーディングエージェントのトークン消費を抑えるには、単なるTipsの暗記ではなく、トークンが消費される仕組み（コスト構造）を理解することが重要です。\n根拠のない最適化は逆効果になるリスクがあるため、根本的な仕組みから最適化手法を学び、適切に運用することが推奨されています。"
+  },
+  {
+    "title": "個人開発に活かせる、動画生成AIで需要を確かめてから作成するという発想",
+    "link": "https://qiita.com/sumomoo/items/700e37b3240717217b37",
+    "source": "Qiita (Popular)",
+    "published": "2026-07-22T17:16:40+09:00",
+    "summary": "![動画生成AI需要確認_サムネ_圧縮.jpg](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/4138952/eb09e7e4-18e4-4aef-b684-9c3a77ba0550.jpeg)\n\n\nはじめまして。株式会社PRUMでエンジニアをしている、すもも🍑です\n日々、プログラミング学習や実務の中で、つまずきやすいポイ",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0MTM4OTUyJTJGY2EyODE2OTgwNjA4ZGZjZDljYTZmYjJmZThjMDg1Y2MwYzIzZWYyMCUyRnhfbGFyZ2UucG5nJTNGMTc3MzM4Mzk0MT9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9ZTJmZjY2YzM4OGFmZDhkMGFhNWJjMGJmZjFlYjRjOGU%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYzMzEyZmE3ZDk1NjJkYTc1ZTFmOGE1ZmQxODljN2UzN2FlNzZhMjc0JTJGb3JpZ2luYWwuanBnJTNGMTc1NzU2OTIyMz9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz02ZjkzZjY0NGI1ZDk0MjNmMjMxMDhjOGEzZjllZDE0Mw%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D3085d9881a1f2f75f9ab7d8ee8a1bfc5?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUU1JTgwJThCJUU0JUJBJUJBJUU5JTk2JThCJUU3JTk5JUJBJUUzJTgxJUFCJUU2JUI0JUJCJUUzJTgxJThCJUUzJTgxJTlCJUUzJTgyJThCJUUzJTgwJTgxJUU1JThCJTk1JUU3JTk0JUJCJUU3JTk0JTlGJUU2JTg4JTkwQUklRTMlODElQTclRTklOUMlODAlRTglQTYlODElRTMlODIlOTIlRTclQTIlQkElRTMlODElOEIlRTMlODIlODElRTMlODElQTYlRTMlODElOEIlRTMlODIlODklRTQlQkQlOUMlRTYlODglOTAlRTMlODElOTklRTMlODIlOEIlRTMlODElQTglRTMlODElODQlRTMlODElODYlRTclOTklQkElRTYlODMlQjMmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1kMzhlMWJiMDNhYTZlMjZkZDBjMjBkNjUzZTMwYmRiMA&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBzdW1vbW9vJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9NzAzMjU0OTZhNzA0NmEwZGQ4OWZkNGM1YjdlNjRlOGE&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=5qCq5byP5Lya56S-UFJVTQ&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=f53bc01a4eed53d13e619ccedd43776e",
+    "fetched_at": "2026-08-01 12:47:01",
+    "ja_summary": "・動画生成AIを活用し、本制作前に需要を検証することで、個人開発の失敗リスクを軽減できる。\n・事前にSNSなどで反応を見ることで、作りたいものと市場のニーズを効率的にすり合わせる。\n・無駄な工数を省き、確実に求められるサービスやコンテンツの開発にリソースを集中させる。"
+  },
+  {
     "title": "キオクシア、1カ月で株価が3分の1に下落　世界的な半導体売り、今日の決算はどうなる？",
     "link": "https://www.itmedia.co.jp/business/articles/2607/31/news038.html",
     "source": "ITmedia ビジネス",
@@ -978,25 +998,5 @@
     "image": "https://files.speakerdeck.com/presentations/bdf0b105f1c64bb481930db1fcdd95ef/preview_slide_0.jpg?40159585",
     "fetched_at": "2026-07-31 13:36:35",
     "ja_summary": "・Google CloudのADKとSlack Botを組み合わせ、社内業務を自動化するAIエージェントの構築手法を解説。\n・社内Wiki検索（RAG）や顧客情報管理（SFA/CRM）など、現場ですぐ使える実践的な活用事例を紹介。\n・MCPやGemini Enterprise Agent Platformを最適に使い分け、業務効率化を即座に実現する構成を提示。"
-  },
-  {
-    "title": "PLaMoを毎日の開発で使い育てていく",
-    "link": "https://speakerdeck.com/pfn/20260730_pfn_llm_4_plamo_dogfooding",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-07-30T22:34:57-04:00",
-    "summary": "2026年7月30日に開催された「PFN LLMオープンハウス」での講演資料です。",
-    "image": "https://files.speakerdeck.com/presentations/dce0b5182a394fe1936b5b5a9c8a0fe6/preview_slide_0.jpg?40158683",
-    "fetched_at": "2026-07-31 13:36:35",
-    "ja_summary": "・PFNの独自LLM「PLaMo」を日々の開発業務に実戦導入する手法を解説。\n・実際の開発環境でPLaMoを使い、改善・育成していく取り組みを紹介。\n・LLMを現場のツールとして定着させるための実践的な知見を共有。"
-  },
-  {
-    "title": "plamo-3-translateの開発",
-    "link": "https://speakerdeck.com/pfn/20260730_pfn_llm_3_plamo-3-translate",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-07-30T22:31:28-04:00",
-    "summary": "2026年7月30日に開催された「PFN LLMオープンハウス」での講演資料です。",
-    "image": "https://files.speakerdeck.com/presentations/d77e729b009145c985b6ea1dae45a1a2/preview_slide_0.jpg?40158579",
-    "fetched_at": "2026-07-31 13:36:35",
-    "ja_summary": "・PFNのLLM「plamo-3-translate」開発に関する最新の講演資料。\n・2026年7月30日開催のオープンハウスで公開された技術動向。\n・翻訳特化型LLMの設計や性能向上に向けた取り組みを解説。"
   }
 ]
