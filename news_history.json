@@ -1,5 +1,35 @@
 [
   {
+    "title": "フィールドサービス企業のAI採用率は95％に、離職増など課題も--調査結果",
+    "link": "https://japan.zdnet.com/article/35251163/",
+    "source": "ZDNET Japan",
+    "published": "",
+    "summary": "世界9カ国のフィールドサービスプロフェッショナルを対象にしたSalesforceの調査「State of Field Service」の結果が発表され、95％の企業がすでに人工知能（AI）を利用し、85％が今後2年間で投資を増やす予定であることがわかった。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35251163/\"><img src=\"https://japan.zdnet.com/storage/2026/07/31/9891edc092d02cadb094c395e6713dde/t/184/138/d/gettyimages-1420443136_1280.jpg\" /></a>",
+    "image": "https://japan.zdnet.com/storage/2026/07/31/9891edc092d02cadb094c395e6713dde/t/184/138/d/gettyimages-1420443136_1280.jpg",
+    "fetched_at": "2026-08-01 23:10:48",
+    "ja_summary": "・フィールドサービス企業の95％がすでにAIを導入済みで、85％が今後2年で投資を拡大する方針。\n・業務効率化が進む一方、人材の離職増加などが新たな課題として浮上している。"
+  },
+  {
+    "title": "空飛ぶカメラの新型 HOVERAir Versa発表　手持ちジンバルカメラがプロペラ装着で空撮対応、360度3D再構成やAI自動構図にも対応",
+    "link": "https://www.techno-edge.net/article/2026/07/31/5355.html",
+    "source": "TechnoEdge",
+    "published": "Fri, 31 Jul 2026 10:44:19 +0900",
+    "summary": "空飛ぶカメラ「HOVERAir」のZERO ZERO ROBOTICSが、新製品「HOVERAir VERSA」を発表しました。",
+    "image": "https://www.techno-edge.net/imgs/rss/33299.png",
+    "fetched_at": "2026-08-01 23:10:50",
+    "ja_summary": "・ZERO ZERO ROBOTICSが新型「HOVERAir VERSA」を発表\n・手持ちジンバルカメラにプロペラを装着し、空撮機へ変形可能\n・360度3D再構成やAI自動構図機能を搭載した多機能ドローン"
+  },
+  {
+    "title": "ラズパイ×ローカルLLMで“MAGIシステム”を作る 〜3体のAIによる合議制マルチエージェント〜/magibypi",
+    "link": "https://speakerdeck.com/noriyukitakei/magibypi",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-08-01T08:42:04-04:00",
+    "summary": "",
+    "image": "https://files.speakerdeck.com/presentations/3f438f4dde2443db847facfe13f99893/preview_slide_0.jpg?40172756",
+    "fetched_at": "2026-08-01 23:10:55",
+    "ja_summary": "・Raspberry Piを使い、3体のAIが議論して結論を出す「MAGIシステム」を構築。\n・各AIに異なる役割を与え、合議制をとることで回答の精度と納得感を向上。\n・ローカル環境で動作するため、外部通信不要で安全かつ高度なAI判断が可能。"
+  },
+  {
     "title": "AI フレンドリーな CLI を開発するテクニック",
     "link": "https://zenn.dev/shunsuke_suzuki/articles/make-cli-ai-friendly",
     "source": "Zenn Trends",
@@ -968,35 +998,5 @@
     "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/7/31/e6255497159702998543172f6de82dc51a0ebf88e0236bfd868bd125ae5af93c.jpg",
     "fetched_at": "2026-07-31 13:36:26",
     "ja_summary": "・Google Chromeに13年以上前から存在する深刻な脆弱性が、AIを用いた調査で新たに発見された。\n・この脆弱性はブラウザのメモリー管理に関連し、攻撃を受けると情報漏洩などの危険がある。\n・Googleは既に修正パッチを公開しており、ユーザーは最新版へのアップデートが必要。"
-  },
-  {
-    "title": "アンソロピックAI 3社に不正侵入",
-    "link": "https://news.yahoo.co.jp/pickup/6589997?source=rss",
-    "source": "Yahoo!ニュース IT・科学",
-    "published": "Fri, 31 Jul 2026 01:51:10 GMT",
-    "summary": "",
-    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/7/31/625d4067b90eb01dfd9214bbc6f7ad55e33f18ea3d211e6901ffbb91cbef2f28.jpg",
-    "fetched_at": "2026-07-31 13:36:27",
-    "ja_summary": "・米AI大手アンソロピックが、第三者による不正アクセス被害を受けたことを公表\n・社内システムの一部が影響を受けたが、AIモデルの学習データへの影響は否定\n・現時点で顧客情報の流出は確認されておらず、詳細な調査が継続中"
-  },
-  {
-    "title": "AIはサイバー攻撃の“支援者”から“実行者”へ--チェック・ポイント、「AIセキュリティレポート」",
-    "link": "https://japan.zdnet.com/article/35251172/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "チェック・ポイント・ソフトウェア・テクノロジーズは、2026年版AIセキュリティレポートを発表した。調査から、「この1年でAIが攻撃者を支援する存在から、攻撃そのものを主体的に実行する存在へと変わったという、決定的な変化」が見られたという。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35251172/\"><img src=\"https://japan.zdnet.com/storage/2026/07/31/0758d2dcf7a831f6fc9e2a864474745e/t/184/138/d/0729_check_001.JPG\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2026/07/31/0758d2dcf7a831f6fc9e2a864474745e/t/184/138/d/0729_check_001.JPG",
-    "fetched_at": "2026-07-31 13:36:28",
-    "ja_summary": "・AIがサイバー攻撃を補助する段階から、主体的に実行する段階へ進化。\n・チェック・ポイントの最新レポートにより、攻撃手法の決定的な変化が明らかに。\n・AI悪用による脅威が一段と高度化・自律化している点に警戒が必要。"
-  },
-  {
-    "title": "パナソニックHD、第1四半期は41年ぶり最高益--AI・データセンター特需が周辺事業へ波及",
-    "link": "https://japan.zdnet.com/article/35251126/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "パナソニック ホールディングスは2026年度第1四半期決算を発表し、営業利益が1825億円と41年ぶりの過去最高を記録した。生成AIとデータセンター関連の旺盛な需要が幅広い事業へと波及し、業績を強力に牽引している。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35251126/\"><img src=\"https://japan.zdnet.com/storage/2026/07/31/eb658b42c400b8082adbc74a2625d454/t/184/138/d/260730_panasonic_l.jpg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2026/07/31/eb658b42c400b8082adbc74a2625d454/t/184/138/d/260730_panasonic_l.jpg",
-    "fetched_at": "2026-07-31 13:36:28",
-    "ja_summary": "・パナソニックHDの第1四半期営業利益が1825億円となり、41年ぶりの過去最高益を達成。\n・生成AIやデータセンター関連の需要が拡大し、幅広い事業の業績を牽引した。\n・特需が周辺事業へ波及したことで、グループ全体で強力な成長を実現している。"
   }
 ]
