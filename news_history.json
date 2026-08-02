@@ -1,5 +1,15 @@
 [
   {
+    "title": "「AI導入しても評価されない問題」は解決できるのか",
+    "link": "https://www.watch.impress.co.jp/docs/topic/watchplus/2129414.html",
+    "source": "Impress Watch",
+    "published": "",
+    "summary": "Impress Watchニュースレターに掲載した記事です。ニュースレターは無料で、毎週編集部員が会員向けのコラムなどをお送りしています。登録はこちらから。",
+    "image": "https://www.watch.impress.co.jp/img/ipw/list/2129/414/ms10.jpg",
+    "fetched_at": "2026-08-02 10:13:18",
+    "ja_summary": "・企業がAIを導入しても、成果や評価に結びつかない現状が課題となっている。\n・AI活用の障壁をいかに突破し、組織的な評価に繋げるかが問われている。\n・AI導入の成功に向けた解決策や考え方を、ニュースレターにて解説する。"
+  },
+  {
     "title": "時価総額日本一から1カ月で株価半値へ乱高下､｢キオクシア相場｣が物語るAI時代でも逃れられない半導体業界の悲しき宿命 | 政治・経済・投資 | 東洋経済オンライン",
     "link": "https://toyokeizai.net/articles/-/953054?utm_source=rss&utm_medium=http&utm_campaign=link_back",
     "source": "東洋経済オンライン",
@@ -988,15 +998,5 @@
     "image": "https://res.cloudinary.com/zenn/image/upload/s--iOAapwM5--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%25AA%25E3%2583%25AA%25E3%2583%25BC%25E3%2582%25B9%25E5%2589%258D%25E3%2583%2581%25E3%2582%25A7%25E3%2583%2583%25E3%2582%25AF%25E3%2582%2592AI%25E3%2581%25A7%25E8%25A1%258C%25E3%2581%2586%25E3%2580%258C%25E3%2583%2597%25E3%2583%25AD%25E3%2583%2580%25E3%2582%25AF%25E3%2583%2588%25E3%2583%25AA%25E3%2583%25AA%25E3%2583%25BC%25E3%2582%25B9%25E3%2583%258F%25E3%2583%25BC%25E3%2583%258D%25E3%2582%25B9%25E3%2580%258D%25E3%2581%25AE%25E3%2581%25A4%25E3%2581%258F%25E3%2582%258A%25E6%2596%25B9%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Nari%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzUwYzZlODUxOGQuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:estie%2520%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzBmN2NjMzg5NzMuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
     "fetched_at": "2026-07-31 16:33:10",
     "ja_summary": "・リリース前の確認項目は膨大で、ヒューマンエラーが起きやすい。\n・AIにチェックリストを読み込ませることで、個人情報の流出などを自動検知する仕組みを構築。\n・リリース時の負担と不安を軽減し、見落としのない安全なプロダクト公開を実現する。"
-  },
-  {
-    "title": "GitHub Actionsのコストが増えているなら、Namespaceを使えばいいじゃない",
-    "link": "https://zenn.dev/aircloset/articles/6b47018589df0f",
-    "source": "Zenn Trends",
-    "published": "Wed, 29 Jul 2026 23:52:26 GMT",
-    "summary": "!\nEnglish Version is here\n\nみなさまこんにちは！エアークローゼットでCTOをしている辻です。\nGitHub ActionsのランナーをGitHub hosted→Blacksmith→Namespaceと2回乗り換えました。結果を先に言うと:\n\nCIコストはGitHub hosted時代の約1/4\n遅い処理（p90）でも37%短縮\nCIが完了しない事故は32件→0件\n移行作業は1行変えるだけ\n\nこの記事はその実測記録です。乗り換え判断の材料になるよう、測り方も失敗談も込みで公開します。\n\n AIで開発すると、CIは静かに膨らみ続ける\nまず課題感から。AIエージェ...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--pt8Ilv_5--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:GitHub%2520Actions%25E3%2581%25AE%25E3%2582%25B3%25E3%2582%25B9%25E3%2583%2588%25E3%2581%258C%25E5%25A2%2597%25E3%2581%2588%25E3%2581%25A6%25E3%2581%2584%25E3%2582%258B%25E3%2581%25AA%25E3%2582%2589%25E3%2580%2581Namespace%25E3%2582%2592%25E4%25BD%25BF%25E3%2581%2588%25E3%2581%25B0%25E3%2581%2584%25E3%2581%2584%25E3%2581%2598%25E3%2582%2583%25E3%2581%25AA%25E3%2581%2584%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E8%25BE%25BB%2520%25E4%25BA%25AE%25E4%25BD%2591%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzkxZjY1NmYzNDQuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2582%25A8%25E3%2582%25A2%25E3%2583%25BC%25E3%2582%25AF%25E3%2583%25AD%25E3%2583%25BC%25E3%2582%25BC%25E3%2583%2583%25E3%2583%2588%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2EyNzdkMDFjYWQuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "fetched_at": "2026-07-31 16:33:10",
-    "ja_summary": "・GitHub ActionsのランナーをNamespaceへ移行し、コストを約1/4に削減。\n・処理速度が最大37%向上し、CIの失敗もゼロに改善。\n・移行作業は設定を1行変えるだけで完了し、CIコスト増の課題を劇的に解決。"
   }
 ]
