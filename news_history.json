@@ -1,5 +1,35 @@
 [
   {
+    "title": "自分と妻の歌声をAIボーカルシンセ「DiffSinger」に進化させた。もうボイチェン不要。アルゴリズムベースの自動作曲ソフトとも統合（CloseBox）",
+    "link": "https://www.techno-edge.net/article/2026/08/02/5356.html",
+    "source": "TechnoEdge",
+    "published": "Sun, 02 Aug 2026 11:25:34 +0900",
+    "summary": "前回は、ゼロショットSVS（Singing Voice Synthesis、歌唱合成）の「SoulX-Singer」を妻の歌声で実験してみました。英語と中国語でしか使えないこのAIボーカルシンセに日本語をなんとか歌わせるところまではできました。では、次の段階へ。",
+    "image": "https://www.techno-edge.net/imgs/rss/33312.png",
+    "fetched_at": "2026-08-02 13:37:26",
+    "ja_summary": "AI歌唱合成技術「DiffSinger」を用い、自分と妻の声を学習させることで、ボイチェンなしで自然な歌声を再現することに成功。\n自動作曲ソフトとも統合し、日本語での歌唱や楽曲制作への活用を実現。\n従来のツールを越える、高品質でパーソナライズされたAIボーカル環境を構築。"
+  },
+  {
+    "title": "ローカルタスク管理アプリを設計してみた",
+    "link": "https://zenn.dev/headwaters/articles/76f20490b76952",
+    "source": "Zenn Trends",
+    "published": "Fri, 31 Jul 2026 23:36:46 GMT",
+    "summary": "背景\n今まではタスクは自分の頭で整理するか、メモ帳のようなものに書き留めていました。\nそれくらいの管理で十分でした。\nしかし最近、案件業務・社内業務とタスクが増え、整理していかないと厳しい状態になってきました。\n\n 課題\n課題なのが、私自身タスク管理というものが苦手ということ。アプリを開いたり記入したりするのが面倒になりがちで、何かにメモしておこうとしてもベタ書き（用件だけ書いて締め切りなどは書かない、など）になってしまいがちです。\n\n 解決策\nこれを解決するために、音声入力 + 文章整形 + 保存ができれば良いのではないかと思いました。\nそこで今回取り入れたのが Claude Co...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--FWL23qvr--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%25AD%25E3%2583%25BC%25E3%2582%25AB%25E3%2583%25AB%25E3%2582%25BF%25E3%2582%25B9%25E3%2582%25AF%25E7%25AE%25A1%25E7%2590%2586%25E3%2582%25A2%25E3%2583%2597%25E3%2583%25AA%25E3%2582%2592%25E8%25A8%25AD%25E8%25A8%2588%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:takito%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzZjNGExY2UxMDYuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2583%2598%25E3%2583%2583%25E3%2583%2589%25E3%2582%25A6%25E3%2582%25A9%25E3%2583%25BC%25E3%2582%25BF%25E3%2583%25BC%25E3%2582%25B9%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzcxZTMxZmM4ZDQuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-08-02 13:37:30",
+    "ja_summary": "タスク増加による管理の限界に対し、苦手意識を克服するためのタスク管理アプリを自作。\n音声入力とAIによる文章整形を自動化し、入力の手間を最小限に抑える仕組みを構築。\n直感的な操作と自動化で、タスク管理の継続的な運用を目指す。"
+  },
+  {
+    "title": "「経験がないから」を言い訳にしなくていい時代になった",
+    "link": "https://qiita.com/sumomoo/items/122f9a34360e256bf042",
+    "source": "Qiita (Popular)",
+    "published": "2026-07-27T17:09:33+09:00",
+    "summary": "![すもも_AIでなんでもできる令和の時代_サムネ.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/4138952/52c3ff3e-24ac-4991-8e7b-10cdd4768269.png)\n<br>\n\nはじめまして。株式会社PRUMでエンジニアをしている、すもも🍑です\n日々、プログラミング学習や実務の",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0MTM4OTUyJTJGY2EyODE2OTgwNjA4ZGZjZDljYTZmYjJmZThjMDg1Y2MwYzIzZWYyMCUyRnhfbGFyZ2UucG5nJTNGMTc3MzM4Mzk0MT9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9ZTJmZjY2YzM4OGFmZDhkMGFhNWJjMGJmZjFlYjRjOGU%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYzMzEyZmE3ZDk1NjJkYTc1ZTFmOGE1ZmQxODljN2UzN2FlNzZhMjc0JTJGb3JpZ2luYWwuanBnJTNGMTc1NzU2OTIyMz9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz02ZjkzZjY0NGI1ZDk0MjNmMjMxMDhjOGEzZjllZDE0Mw%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D3085d9881a1f2f75f9ab7d8ee8a1bfc5?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJThDJUU3JUI1JThDJUU5JUE4JTkzJUUzJTgxJThDJUUzJTgxJUFBJUUzJTgxJTg0JUUzJTgxJThCJUUzJTgyJTg5JUUzJTgwJThEJUUzJTgyJTkyJUU4JUE4JTgwJUUzJTgxJTg0JUU4JUE4JUIzJUUzJTgxJUFCJUUzJTgxJTk3JUUzJTgxJUFBJUUzJTgxJThGJUUzJTgxJUE2JUUzJTgxJTg0JUUzJTgxJTg0JUU2JTk5JTgyJUU0JUJCJUEzJUUzJTgxJUFCJUUzJTgxJUFBJUUzJTgxJUEzJUUzJTgxJTlGJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9NTA1Mzg2M2U2NTVmNzY3MTY1OWFkZDIxMjI3NzAzMzU&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBzdW1vbW9vJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9NzAzMjU0OTZhNzA0NmEwZGQ4OWZkNGM1YjdlNjRlOGE&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=5qCq5byP5Lya56S-UFJVTQ&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=86ca1a29e89d778d165dd3249a958494",
+    "fetched_at": "2026-08-02 13:37:36",
+    "ja_summary": "AIの進化により、経験がない分野でもツールを活用して成果を出しやすくなった。\n過去の経歴に縛られず、未経験からでも新しい技術やスキルに挑戦できる時代である。\n「経験不足」を言い訳にせず、AIを武器にして積極的に取り組む姿勢が重要だ。"
+  },
+  {
     "title": "「AI導入しても評価されない問題」は解決できるのか",
     "link": "https://www.watch.impress.co.jp/docs/topic/watchplus/2129414.html",
     "source": "Impress Watch",
@@ -968,35 +998,5 @@
     "image": "https://cdn.sanity.io/images/4zrzovbb/website/54b7ab1d2c2521f83ae5d2da5f9d99321c370d24-2880x1620.png",
     "fetched_at": "2026-07-31 16:33:08",
     "ja_summary": "・Anthropic社がAIモデルの最新版「Claude Opus 5」を発表\n・従来モデルから性能や推論能力が大幅に向上\n・AI活用による業務効率化と高度なタスク処理を実現"
-  },
-  {
-    "title": "Anthropic is donating another $20 million to Public First Action",
-    "link": "https://www.anthropic.com/news/donation-public-first-action",
-    "source": "Anthropic (News)",
-    "published": "Tue, 21 Jul 2026 00:00:00 +0000",
-    "summary": "Anthropic is donating another $20 million to Public First Action",
-    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Stack&amp;backgroundColor=oat",
-    "fetched_at": "2026-07-31 16:33:09",
-    "ja_summary": "・AI企業のAnthropicが、政策シンクタンク「Public First Action」へ2,000万ドルを追加寄付。\n・AI分野における政策提言や社会基盤の構築を支援する狙い。\n・企業としてAIの安全な普及に向けた社会的関与を強化。"
-  },
-  {
-    "title": "Apply for Anthropic’s AI for Science rare disease research grants",
-    "link": "https://www.anthropic.com/news/rare-disease-research-grants",
-    "source": "Anthropic (News)",
-    "published": "Mon, 20 Jul 2026 00:00:00 +0000",
-    "summary": "Apply for Anthropic’s AI for Science rare disease research grants",
-    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20NodeShield&amp;backgroundColor=heather",
-    "fetched_at": "2026-07-31 16:33:09",
-    "ja_summary": "・Anthropic社が希少疾患の研究を支援する助成金プログラムを開始。\n・AI技術を活用した革新的な研究プロジェクトを対象に資金提供を行う。\n・現在、同社のWebサイトにて公募の受付中。"
-  },
-  {
-    "title": "リリース前チェックをAIで行う「プロダクトリリースハーネス」のつくり方",
-    "link": "https://zenn.dev/estie/articles/c5503dfe56f7a1",
-    "source": "Zenn Trends",
-    "published": "Thu, 30 Jul 2026 00:45:05 GMT",
-    "summary": "こんにちは、株式会社estie（エスティ） 取締役CTO の Nari（@tiwanari）です。\nみなさんは、新しいプロダクトを世に出す前に、「抜け漏れ」がないか不安になった経験はないですか？\n先日、あるプロダクトのリリース前チェックで「個人情報がエラー監視ツールへ送られる実装になっている」と指摘されました。見つけたのは人間ではなく、リリース前チェックリストを読ませた AI のスキャンです。\nよく考えるとケアしなければいけない当たり前なことでも、リリース前の慌ただしい時期にあらゆる観点を思い出すことはとても大変です。ゼロからプロダクトを開発してリリースした経験のある方なら、XSS（クロ...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--iOAapwM5--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%25AA%25E3%2583%25AA%25E3%2583%25BC%25E3%2582%25B9%25E5%2589%258D%25E3%2583%2581%25E3%2582%25A7%25E3%2583%2583%25E3%2582%25AF%25E3%2582%2592AI%25E3%2581%25A7%25E8%25A1%258C%25E3%2581%2586%25E3%2580%258C%25E3%2583%2597%25E3%2583%25AD%25E3%2583%2580%25E3%2582%25AF%25E3%2583%2588%25E3%2583%25AA%25E3%2583%25AA%25E3%2583%25BC%25E3%2582%25B9%25E3%2583%258F%25E3%2583%25BC%25E3%2583%258D%25E3%2582%25B9%25E3%2580%258D%25E3%2581%25AE%25E3%2581%25A4%25E3%2581%258F%25E3%2582%258A%25E6%2596%25B9%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Nari%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzUwYzZlODUxOGQuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:estie%2520%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzBmN2NjMzg5NzMuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "fetched_at": "2026-07-31 16:33:10",
-    "ja_summary": "・リリース前の確認項目は膨大で、ヒューマンエラーが起きやすい。\n・AIにチェックリストを読み込ませることで、個人情報の流出などを自動検知する仕組みを構築。\n・リリース時の負担と不安を軽減し、見落としのない安全なプロダクト公開を実現する。"
   }
 ]
