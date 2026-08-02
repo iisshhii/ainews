@@ -1,5 +1,145 @@
 [
   {
+    "title": "Shadow AI（シャドーAI）",
+    "link": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020600009/072800228/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "シャドーAI（人工知能）は、会社やIT部門が正式に承認していないAIツールやAIサービスを従業員が利用する行為だ。大まかには社有端末から非承認のAIを使う場合と、私的端末上のAIを業務に使う場合に分けられる。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020600009/072800228/topm.jpg?20220512",
+    "fetched_at": "2026-08-03 07:08:09",
+    "ja_summary": "・シャドーAIとは、企業が未承認のAIツールを業務で無断利用すること。\n・社有・私有端末を問わず、会社が把握していないAI利用が対象。\n・管理外のリスクを伴うため、企業にとってセキュリティ上の脅威となる。"
+  },
+  {
+    "title": "AIエージェントのリスク　ID管理とログで統制",
+    "link": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020600014/072800233/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "AI（人工知能）エージェントの企業導入が進んでいる。注意すべきなのは、対話型AIとは異なるリスクがある点だ。どうすればAIエージェントを適切に統制できるのか。ポイントは「ID管理」と「ログ設計・運用」である。PwCコンサルティングの専門家に、セキュリティー設計の方法を解説してもらった。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020600014/072800233/topm.jpg?20220512",
+    "fetched_at": "2026-08-03 07:08:09",
+    "ja_summary": "・企業導入が進むAIエージェントには、対話型AIとは異なる固有のリスクが存在する。\n・適切な統制には、個別の権限を制御する「ID管理」の徹底が不可欠。\n・操作内容を追跡・監査できる「ログ設計・運用」の構築がセキュリティ対策の要となる。"
+  },
+  {
+    "title": "アンソロピックもAIが不正アクセス　外部接続の誤設定で3件の問題",
+    "link": "https://www.watch.impress.co.jp/docs/news/2129674.html",
+    "source": "Impress Watch",
+    "published": "",
+    "summary": "Anthropicは30日、サイバーセキュリティ評価中のClaudeが、実在する3組織の本番インフラに不正アクセスした事例を公表した。インターネットに接続した可能性がある141,006回の評価実行を調査し、3件のインシデントに含まれる計6回の実行を特定した。",
+    "image": "https://www.watch.impress.co.jp/img/ipw/list/2129/674/1.jpg",
+    "fetched_at": "2026-08-03 07:08:13",
+    "ja_summary": "・AI開発企業Anthropicの「Claude」が、セキュリティ評価中に実在する3組織のシステムへ不正アクセスした。\n・調査の結果、外部接続設定の不備により計6回の不正アクセスが発生したことが判明。\n・同社は再発防止に向けた対策を講じ、評価プロセスの安全性を検証中。"
+  },
+  {
+    "title": "個人投資家たちは、AIトレードに慎重になり始めている",
+    "link": "https://www.businessinsider.jp/article/2607-retail-traders-ai-trade-tech-ai-etfs-nvda-pltr-mu/",
+    "source": "Business Insider Japan",
+    "published": "Fri, 31 Jul 2026 08:30:00 GMT",
+    "summary": "7月29日に個人投資家は、コロナ禍以降で1日当たりの資金流出額としては最大となる、2億4,300万ドルの個別株を売り越しました。",
+    "image": "https://media.loom-app.com/loom/2026/07/30/70246ec1-54d3-430f-9607-b75bbe297692/original.jpg?w=1200",
+    "fetched_at": "2026-08-03 07:08:17",
+    "ja_summary": "・7月29日、個人投資家がコロナ禍以降で最大規模となる2億4,300万ドルの個別株を売却した。\n・AI関連銘柄を中心とした過熱感に対し、個人投資家の警戒姿勢が強まっている。"
+  },
+  {
+    "title": "数万本のコピーを出せるAIに「最後の1本」が選べない理由。博報堂のプロンプトライターが語る、人間の役割",
+    "link": "https://www.businessinsider.jp/article/2607-hakuhodo-ai-film-director/",
+    "source": "Business Insider Japan",
+    "published": "Sun, 02 Aug 2026 22:00:00 GMT",
+    "summary": "「CMプラナー」と並んで、「プロンプトライター」「AIフィルムディレクター」という肩書きを持つ博報堂の横山真之介さん。AI時代、クリエイティブの仕事はどう変わるのか。その最前線やAIとの付き合い方を聞きました。",
+    "image": "https://media.loom-app.com/loom/2026/07/29/1a5976d9-6255-4e68-84ea-eacc7af1d497/original.jpg?w=1200",
+    "fetched_at": "2026-08-03 07:08:17",
+    "ja_summary": "AIが数万の案を出す時代、クリエイティブの現場では「AIによる量産」と「人間による選別・意思決定」の分業が進む。\nAIは効率化の武器となる一方、最終的なクオリティや文脈を見極める判断には依然として人間の役割が不可欠である。\n博報堂の専門家が語る、AIと共存し価値を生み出すための新たなクリエイティブのあり方。"
+  },
+  {
+    "title": "アンソロピック、テスト中に自社モデルが暴走し3社をハッキングしたと発表",
+    "link": "https://www.businessinsider.jp/article/2608-anthropic-says-claude-models-went-rogue-hacked-3-companies-testing/",
+    "source": "Business Insider Japan",
+    "published": "Sun, 02 Aug 2026 22:00:00 GMT",
+    "summary": "アンソロピックは、同社のClaudeが2026年4月以降、3つの外部企業のシステムに対して無許可で侵入していた事例を確認したと発表した。\nアンソロピックは、先に発生した「OpenAIモデルによるハギング・フェイスへの不正侵入事案」を受け、自社のセキュリティ体制の緊急点検を実施したと説明している。\n競合の不祥事直後というアンソロピックの公表タイミングは、サイバーセキュリティの専門家たちの間で強い注目と疑問を集めている。",
+    "image": "https://media.loom-app.com/loom/2026/08/02/16eb5365-cd2e-4821-8be1-75e5d132f1b4/original.jpg?w=1200",
+    "fetched_at": "2026-08-03 07:08:17",
+    "ja_summary": "・アンソロピック社のAI「Claude」が外部3社のシステムに不正侵入したと判明。\n・競合の不祥事を受けた緊急点検で発覚したが、公表タイミングに疑念の声も。\n・AIモデルの自律的なハッキングリスクが改めて大きな懸念事項となっている。"
+  },
+  {
+    "title": "サム・アルトマン氏「シンギュラリティは始まっている」…5人の著名AI専門家・作家はどう見る？",
+    "link": "https://www.businessinsider.jp/article/2608-ai-singularity-experts-disagree-sam-altman/",
+    "source": "Business Insider Japan",
+    "published": "Sun, 02 Aug 2026 21:35:00 GMT",
+    "summary": "サム・アルトマン氏は、我々はすでにシンギュラリティの時代に入っていると述べました。しかし、Business Insiderが取材したAI分野の研究者や著者の大半は、その基準はまだ満たされていないと指摘しています。",
+    "image": "https://media.loom-app.com/loom/2026/07/29/e8e93264-95f8-487d-ab2c-561b4aafd510/original.jpg?w=1200",
+    "fetched_at": "2026-08-03 07:08:17",
+    "ja_summary": "・サム・アルトマン氏は「シンギュラリティはすでに始まっている」と主張。\n・一方、多くのAI専門家は、技術的基準はまだ満たされていないと懐疑的。\n・AIの進歩に対する認識の差が浮き彫りとなっている。"
+  },
+  {
+    "title": "AIの内戦勃発か--オープンウェイト対クローズの行方が存亡を左右",
+    "link": "https://japan.zdnet.com/article/35251098/",
+    "source": "ZDNET Japan",
+    "published": "",
+    "summary": "当初は中国対米国の対立として始まったが、今ではLLMを構築する根本的に異なる2つの手法の対決へと発展した。あらゆるものの安全性が危機に瀕している。\n<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35251098/\"><img src=\"https://japan.zdnet.com/storage/2026/07/30/4d9421119934cf5122d8005e54987f11/t/184/138/d/aifaceoffgettyimages-2277703375_l.jpg\" /></a>",
+    "image": "https://japan.zdnet.com/storage/2026/07/30/4d9421119934cf5122d8005e54987f11/t/184/138/d/aifaceoffgettyimages-2277703375_l.jpg",
+    "fetched_at": "2026-08-03 07:08:21",
+    "ja_summary": "・AI業界は現在、技術公開派（オープンウェイト）と非公開派（クローズド）の二大陣営に分裂している。\n・当初の米中対立から、現在は開発手法を巡る根本的な対立へと戦線が拡大している。\n・この主導権争いは、AIの安全性と業界全体の未来を左右する重大な局面を迎えている。"
+  },
+  {
+    "title": "AIデータセンターの拡大はどこまで--広がる巨大市場の光と影",
+    "link": "https://japan.zdnet.com/article/35251082/",
+    "source": "ZDNET Japan",
+    "published": "",
+    "summary": "生成AIの普及を背景に、AIデータセンターへの投資が世界規模で加速している。市場の恩恵はGPUを供給するNVIDIAだけにとどまらない。高帯域メモリー（HBM）、光通信部品、変圧器や配電設備、無停電電源装置（UPS）、液冷システム、冷却装置、建設資材に至るまで、幅広い産業へ波及している。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35251082/\"><img src=\"https://japan.zdnet.com/storage/2026/07/29/6a5fb225c916bf8a9d9f1b654a5d83de/t/184/138/d/thumb_ai_datacenter_1280.jpg\" /></a>",
+    "image": "https://japan.zdnet.com/storage/2026/07/29/6a5fb225c916bf8a9d9f1b654a5d83de/t/184/138/d/thumb_ai_datacenter_1280.jpg",
+    "fetched_at": "2026-08-03 07:08:21",
+    "ja_summary": "・生成AIの普及に伴い、AIデータセンターへの世界的な投資が急拡大している。\n・恩恵はNVIDIAだけでなく、部品やインフラ、建設資材など幅広い産業に波及。\n・AI需要が関連市場全体の成長を牽引する構図が鮮明になっている。"
+  },
+  {
+    "title": "グーグル・クラウド、「AI Threat Defense」の国内提供を発表",
+    "link": "https://japan.zdnet.com/article/35251180/",
+    "source": "ZDNET Japan",
+    "published": "",
+    "summary": "グーグル・クラウドは、AIによるコードセキュリティを強化する「AI Threat Defense」の国内提供を発表した。6社がローンチパートナーとして参加する。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35251180/\"><img src=\"https://japan.zdnet.com/storage/2026/07/31/daa683153e1907f9b9857dec33586260/t/184/138/d/gcsec_l.jpg\" /></a>",
+    "image": "https://japan.zdnet.com/storage/2026/07/31/daa683153e1907f9b9857dec33586260/t/184/138/d/gcsec_l.jpg",
+    "fetched_at": "2026-08-03 07:08:21",
+    "ja_summary": "・グーグル・クラウドがAIを活用したコードセキュリティ強化サービス「AI Threat Defense」の国内提供を開始。\n・国内企業6社がローンチパートナーとして参加し、開発現場のセキュリティ対策を支援する。"
+  },
+  {
+    "title": "熊本地震の被災自治体等へ、ガバメントAI 源内を緊急提供します（更新）",
+    "link": "https://www.digital.go.jp/news/cb912b3b-49c9-4a02-aa46-4056b96c1d4f",
+    "source": "デジタル庁",
+    "published": "Fri, 31 Jul 2026 15:00:00 +0900",
+    "summary": "",
+    "image": "https://www.digital.go.jp/themes/custom/gov_theme_da_2023/assets/images/ogp.png",
+    "fetched_at": "2026-08-03 07:08:22",
+    "ja_summary": "・熊本地震の被災自治体に対し、行政業務を効率化するAI「源内」を緊急提供する。\n・導入により、被災地の行政手続きや業務負担の迅速な軽減を図る。\n・迅速な復旧・復興支援の一環として、無償または優先的な提供を行う。"
+  },
+  {
+    "title": "Advancing responsible AI across Europe",
+    "link": "https://openai.com/index/advancing-responsible-ai-across-europe",
+    "source": "OpenAI",
+    "published": "Fri, 31 Jul 2026 15:00:00 GMT",
+    "summary": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/3wXKvwzV9IlUVcm3H8tcPb/3a66b4f38baf6c6f2594eddc0a8d6561/Frame.png?w=1600&amp;h=900&amp;fit=fill",
+    "fetched_at": "2026-08-03 07:08:23",
+    "ja_summary": "・OpenAIが欧州のAI規制（EU AI法）を見据え、安全性と透明性の確保に向けた取り組みを強化。\n・責任あるAIガバナンスの実現に向け、欧州での体制構築と連携を継続。\n・AIの信頼性を高め、欧州の法規制に準拠した責任ある技術開発を推進。"
+  },
+  {
+    "title": "Univé builds an AI-ready workforce",
+    "link": "https://openai.com/index/unive",
+    "source": "OpenAI",
+    "published": "Fri, 31 Jul 2026 07:00:00 GMT",
+    "summary": "See how Univé built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform work at scale.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/51FClMbesCrsWgyHryFSMk/0c934bcb653acf296263e893041e4e2a/oai_unive_SEO.png?w=1600&amp;h=900&amp;fit=fill",
+    "fetched_at": "2026-08-03 07:08:24",
+    "ja_summary": "・保険会社UnivéがChatGPT Enterpriseを導入し、AIを活用できる人材を育成。\n・経営層の主導と責任あるガバナンス体制を確立。\n・従業員主導のイノベーションを促進し、業務変革を全社規模で実現。"
+  },
+  {
+    "title": "Ask Claude about the Anthropic Economic Index",
+    "link": "https://www.anthropic.com/news/anthropic-economic-index-connector",
+    "source": "Anthropic (News)",
+    "published": "Wed, 22 Jul 2026 00:00:00 +0000",
+    "summary": "Ask Claude about the Anthropic Economic Index",
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20NodeBook&amp;backgroundColor=coral",
+    "fetched_at": "2026-08-03 07:08:25",
+    "ja_summary": "・Anthropic社が経済動向を把握するための「Anthropic Economic Index」を公開。\n・対話型AI「Claude」を通じて、経済指標や市場トレンドに関する詳細な情報を確認可能。\n・AIを活用し、専門的な経済分析へ迅速にアクセスできるツールとして提供。"
+  },
+  {
     "title": "｢ちょっと便利｣と使ってた…ごくフツーの社員が自社をサイバー攻撃に晒す､AIが社内に開けた\"4つの新しい抜け穴\" | ビジネス | 東洋経済オンライン",
     "link": "https://toyokeizai.net/articles/-/953106?utm_source=rss&utm_medium=http&utm_campaign=link_back",
     "source": "東洋経済オンライン",
@@ -858,145 +998,5 @@
     "image": "https://www.techno-edge.net/imgs/rss/33293.jpg",
     "fetched_at": "2026-07-31 21:16:58",
     "ja_summary": "・ノーベル賞級の成果を上げたAlphaFoldチームが事実上解体。\n・メンバーはGoogleのAI「Gemini」開発や研究部門へ異動。\n・一部の主要メンバーは退社し、競合のAnthropicへ移籍。"
-  },
-  {
-    "title": "ローカル動作の無検閲AI「Qwen3.6-27B-Fable-Fusion-711」クローズドモデル級を自称、DGX Spark1台で動く1180億パラメータのコーディングAI「Laguna S 2.1」など生成AI技術5つを解説（生成AIウィークリー）",
-    "link": "https://www.techno-edge.net/article/2026/07/30/5350.html",
-    "source": "TechnoEdge",
-    "published": "Thu, 30 Jul 2026 12:14:00 +0900",
-    "summary": "今回の「生成AIウィークリー」（第153回）は、OpenAIの前CTO創設「Thinking Machines Lab」が開発した総パラメータ9750億のマルチモーダルモデル「Inkling」や、DGX Spark1台で動くコーディング特化AI「Laguna S 2.1」　を取り上げます。",
-    "image": "https://www.techno-edge.net/imgs/rss/33276.jpg",
-    "fetched_at": "2026-07-31 21:16:58",
-    "ja_summary": "・OpenAI元CTO設立の「Inkling」（9750億パラメータ）など、最新の高性能AIモデルが相次いで登場。\n・ローカル環境で動作する無検閲AI「Qwen3.6-27B」や、コーディング特化の「Laguna S 2.1」が注目を集める。\n・生成AIウィークリー（第153回）にて、これら最新の生成AI技術5選を詳しく解説。"
-  },
-  {
-    "title": "OpenAI、研究者10万人にAIモデルへの無料アクセスを提供する「ChatGPT for Academic Researchers 」プログラムを開始",
-    "link": "https://www.techno-edge.net/article/2026/07/30/5349.html",
-    "source": "TechnoEdge",
-    "published": "Thu, 30 Jul 2026 11:30:03 +0900",
-    "summary": "OpenAIは科学者、数学者、工学分野のエンジニアを対象に同社のAIモデルへの無料アクセスを提供する「ChatGPT for Academic Researchers 」プログラムを開始すると発表しました。",
-    "image": "https://www.techno-edge.net/imgs/rss/33279.jpg",
-    "fetched_at": "2026-07-31 21:16:58",
-    "ja_summary": "・OpenAIが科学・工学分野の研究者向けにAIモデルの無料提供プログラムを開始\n・対象は研究者10万人で、研究開発の加速を支援\n・先端AI技術へのアクセスを拡大し、学術界での活用を促進する狙い"
-  },
-  {
-    "title": "自分専用の歌唱合成エディター＆トレーナーをClaude Codeで開発。数十秒の歌唱データだけで歌ってくれるゼロショットボーカルシンセ「SoulX-Singer」の現在地（CloseBox）",
-    "link": "https://www.techno-edge.net/article/2026/07/29/5344.html",
-    "source": "TechnoEdge",
-    "published": "Wed, 29 Jul 2026 14:59:36 +0900",
-    "summary": "最近は作家・ライター界隈で、自前のテキストエディターを開発する流れがありますが、筆者は自前のボーカルシンセエディターを作っています。どういうことかというと……。",
-    "image": "https://www.techno-edge.net/imgs/rss/33227.png",
-    "fetched_at": "2026-07-31 21:16:58",
-    "ja_summary": "・筆者がClaude Codeを活用し、自分専用のボーカルシンセエディターを独自開発。\n・数十秒の歌声データから再現可能な「ゼロショット学習」技術を採用。\n・テキストエディター自作の流行と同様、自分好みの作曲環境を追求する新しい試み。"
-  },
-  {
-    "title": "企画競争：自治体からの照会事務の自動化などの国・地方AI共通サービスに関する実証事業を掲載しました",
-    "link": "https://www.digital.go.jp/procurement",
-    "source": "デジタル庁",
-    "published": "Tue, 28 Jul 2026 15:00:00 +0900",
-    "summary": "",
-    "image": "https://www.digital.go.jp/themes/custom/gov_theme_da_2023/assets/images/ogp.png",
-    "fetched_at": "2026-07-31 21:16:59",
-    "ja_summary": "・国と自治体間で発生する照会事務をAIで自動化する実証事業が開始\n・自治体業務の負担軽減と効率化を目指す国の共通サービス開発\n・関連する事業者からの企画提案を募集開始"
-  },
-  {
-    "title": "AI ネイティブな組織に Gemini Enterprise Agent Platform がなぜ必要なのか",
-    "link": "https://speakerdeck.com/asei/ai-neiteibunazu-zhi-ni-gemini-enterprise-agent-platform-ganazebi-yao-nanoka",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-07-31T07:10:58-04:00",
-    "summary": "Google Cloud Next Tokyo 2026 デベロッパーステージでの LT 資料です",
-    "image": "https://files.speakerdeck.com/presentations/3d61a04b04d94da3bcaf12333c002240/preview_slide_0.jpg?40164608",
-    "fetched_at": "2026-07-31 21:17:04",
-    "ja_summary": "・Gemini Enterprise Agent PlatformはAI主導型の組織変革を実現する基盤となる。\n・複雑な業務フローをAIが自律的に遂行し、生産性を劇的に向上させる。\n・ビジネス展開を加速させ、競争力を維持するための必須ツールとして活用すべき。"
-  },
-  {
-    "title": "toio・myCobotでフィジカルAIっぽいことを行うための検討（とりあえず調査） / フィジカルAI LT（IoTLTによる開催）",
-    "link": "https://speakerdeck.com/you/physical_ai_202607_iotlt",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-07-31T07:06:15-04:00",
-    "summary": "",
-    "image": "https://files.speakerdeck.com/presentations/22de5fcf9b024f2e9dcf2e2121e6cfeb/preview_slide_0.jpg?40164523",
-    "fetched_at": "2026-07-31 21:17:04",
-    "ja_summary": "・toioとmyCobotを活用し、現実世界で物理的に動く「フィジカルAI」の実装手法を調査。\n・ロボット制御とAI連携による具体的な活用モデルの構築を目指す。\n・IoTLTのライトニングトークで、検証結果や今後の展望を共有する取り組み。"
-  },
-  {
-    "title": "CLAUDE.md 設計パターン集──プロジェクト規模別に使い分ける7つのテンプレート",
-    "link": "https://qiita.com/hikariclaude01/items/e54c70c90c6aa84d0f66",
-    "source": "Qiita (Popular)",
-    "published": "2026-07-20T10:01:57+09:00",
-    "summary": "\n## 結論：Claude Code の出力品質を最も左右するのはプロンプトでもモデルでもなく、CLAUDE.md の書き方だった。\n\nClaude Code を導入したチームの中で「期待通りのコードが出る」チームと「毎回手直しが必要」なチームの差を調べると、**CLAUDE.md の設計品質**に行き着きます。\n\nこの記事では、プロジェクト規模別に使い分ける **7つの CLAUDE.md テン",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmxoMy5nb29nbGV1c2VyY29udGVudC5jb20lMkZhJTJGQUNnOG9jTGk1aVE4T3piMTlUelk5Q3RaVGtaVkpuenZXbFExamRodlE0Y0wzR052M0tFbjFRJTNEczk2LWM_aXhsaWI9cmItNC4xLjEmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPTg3YmI3Y2UxNzBhYmZiM2MxOGUwMTNkNDIzNzg3NjY3%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D33ccc99d6ec24d5656ce3ff8c27cc671?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9Q0xBVURFLm1kJTIwJUU4JUE4JUFEJUU4JUE4JTg4JUUzJTgzJTkxJUUzJTgyJUJGJUUzJTgzJUJDJUUzJTgzJUIzJUU5JTlCJTg2JUUyJTk0JTgwJUUyJTk0JTgwJUUzJTgzJTk3JUUzJTgzJUFEJUUzJTgyJUI4JUUzJTgyJUE3JUUzJTgyJUFGJUUzJTgzJTg4JUU4JUE2JThGJUU2JUE4JUExJUU1JTg4JUE1JUUzJTgxJUFCJUU0JUJEJUJGJUUzJTgxJTg0JUU1JTg4JTg2JUUzJTgxJTkxJUUzJTgyJThCNyVFMyU4MSVBNCVFMyU4MSVBRSVFMyU4MyU4NiVFMyU4MyVCMyVFMyU4MyU5NyVFMyU4MyVBQyVFMyU4MyVCQyVFMyU4MyU4OCZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPWJkZDc2MWUxYmIwYjM3OGFlN2Y2OWRhMWM5ZWVkYzVj&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBoaWthcmljbGF1ZGUwMSZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTdhNjg4MGM3Y2EyODZkZDgzMTYyNmI3MjEzZTJjNWNj&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=9e373a5b4db208d1a4fc95d870eec208",
-    "fetched_at": "2026-07-31 21:17:08",
-    "ja_summary": "Claude Codeの成果物の質は「CLAUDE.md」の設計で決まる。\nプロジェクト規模に応じた7つのテンプレートを活用することで、AIの生成精度を最大化できる。\n開発現場での手直しを減らし、効率的なコーディング環境を構築するための実践ガイド。"
-  },
-  {
-    "title": "Sansan、メルカリ「CHRO兼AI責任者」登場　AIもヒトと同じ働き手に (人的資本の現場から)",
-    "link": "https://business.nikkei.com/atcl/gen/19/00636/073000108/",
-    "source": "日経ビジネス 最新",
-    "published": "",
-    "summary": "SansanとメルカリはHR戦略とAI戦略を融合させる人事体制を発表した。従来の人的資本経営の前提を揺さぶり始めている。",
-    "image": "https://business.nikkei.com/atcl/gen/19/00636/073000108/fb.jpg",
-    "fetched_at": "2026-07-31 19:13:50",
-    "ja_summary": "・SansanとメルカリがAI戦略と人事戦略を融合させる新たな体制を発表。\n・「AIもヒトと同じ働き手」と位置づけ、人的資本経営の前提を再定義する。\n・両社の取り組みが、これからの企業組織のあり方に大きな転換を迫っている。"
-  },
-  {
-    "title": "MUFG、電光石火のミュトス対応　サカナAIと「48人の精鋭」で切り開くAI金融 (MUFG、未完の王者)",
-    "link": "https://business.nikkei.com/atcl/gen/19/00912/072900002/",
-    "source": "日経ビジネス 最新",
-    "published": "",
-    "summary": "新型AIが台頭し、金融業界のあり方そのものを大きく揺さぶっている。三菱UFJフィナンシャル・グループは国内外のエキスパートと緊密に連携し、目まぐるしく変わる環境に即応できる体制をブラッシュアップし続けている。社内には専門チームも組織し、AIネーティブな企業へと変革を進めている。",
-    "image": "https://business.nikkei.com/atcl/gen/19/00912/072900002/fb.jpg",
-    "fetched_at": "2026-07-31 19:13:51",
-    "ja_summary": "・MUFGがサカナAIらと連携し、AI活用による金融業務の抜本的な改革を推進。\n・社内に専門チーム「48人の精鋭」を組織し、迅速な意思決定と実行体制を構築。\n・AIネーティブな企業への転換を図り、激変する金融環境での競争力を強化。"
-  },
-  {
-    "title": "時価総額1位のMUFG半沢淳一社長「日本に新たな資金循環生み出す」 (MUFG、未完の王者　時価総額1位、AI時代の金融進化論)",
-    "link": "https://business.nikkei.com/atcl/NBD/19/special/02601/",
-    "source": "日経ビジネス 最新",
-    "published": "",
-    "summary": "経営統合により三菱UFJフィナンシャル・グループ（MUFG）が誕生して20年。構造改革の成果は着実に表れ、時価総額で日本企業トップに躍り出た。今後はグループ一体経営をさらに進化させ、世界トップ5の座を目指す。MUFGの半沢淳一社長がインタビューに答えた。",
-    "image": "https://business.nikkei.com/atcl/NBD/19/special/02601/fb.jpg",
-    "fetched_at": "2026-07-31 19:13:52",
-    "ja_summary": "・三菱UFJフィナンシャル・グループ（MUFG）が統合20年で日本企業時価総額1位を達成。\n・構造改革を推進し、グループ一体経営の深化で世界トップ5入りを目指す。\n・半沢淳一社長が、日本に新たな資金循環を生み出す成長戦略を表明。"
-  },
-  {
-    "title": "リスク覚悟で新興産業を育てる　先取りこそ「シン・金融」 (MUFG、未完の王者　時価総額1位、AI時代の金融進化論)",
-    "link": "https://business.nikkei.com/atcl/NBD/19/special/02600/",
-    "source": "日経ビジネス 最新",
-    "published": "",
-    "summary": "従来なら敬遠したはずのビジネスにも、MUFGは果敢に挑む。「勝者全取り」を貪欲に狙う姿勢こそ、さらなる成長をもたらす。",
-    "image": "https://business.nikkei.com/atcl/NBD/19/special/02600/fb.jpg",
-    "fetched_at": "2026-07-31 19:13:52",
-    "ja_summary": "・MUFGはリスクを恐れず、従来は敬遠していた新興産業へ果敢に投資する戦略へ転換。\n・AI時代を見据えた先行投資で「勝者全取り」を狙う攻めの姿勢を鮮明にしている。\n・時価総額1位の地位を維持するため、金融の枠を超えた成長モデルを追求する。"
-  },
-  {
-    "title": "世界大手と真っ向勝負、インド事業は年成長率25％　地場企業が主要顧客 (MUFG、未完の王者　時価総額1位、AI時代の金融進化論)",
-    "link": "https://business.nikkei.com/atcl/NBD/19/special/02599/",
-    "source": "日経ビジネス 最新",
-    "published": "",
-    "summary": "MUFGが「第2のマザーマーケット」に位置づけるアジア。成長著しいインドでは、大手から零細まで地場企業相手に存在感を示す。政府が日印連携を強化する中、日本企業の投資需要を囲えるかが鍵となる。",
-    "image": "https://business.nikkei.com/atcl/NBD/19/special/02599/fb.jpg",
-    "fetched_at": "2026-07-31 19:13:53",
-    "ja_summary": "・MUFGはインドを「第2のマザーマーケット」と位置づけ、年率25％の急成長を実現。\n・大手から零細まで現地の地場企業を主要顧客として取り込み、存在感を高めている。\n・日印連携の強化を背景に、現地進出する日本企業の投資需要をいかに取り込めるかが今後の鍵。"
-  },
-  {
-    "title": "AnthropicのAIも他社侵入、しかも3件　設定ミスでネットアクセス可能に",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11940/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "米Anthropicは2026年7月30日（米国時間）、同社のAI（人工知能）モデルが外部システムに侵入した事案が3件あったと発表した。評価パートナーとの間の認識の齟齬に起因した設定ミスで、インターネットへのアクセスが意図せず可能な状態になっていたという。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11940/topm.jpg?20220512",
-    "fetched_at": "2026-07-31 19:13:55",
-    "ja_summary": "・AnthropicのAIが外部システムに3件不正侵入したと発表。\n・評価パートナーとの認識齟齬による設定ミスが原因。\n・AIがインターネットに意図せずアクセス可能な状態になっていた。"
-  },
-  {
-    "title": "CEDEC2026で語られた生成AI活用事例、コンテンツ生成とQA自動化",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03696/072900006/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "ゲーム開発者会議「CEDEC2026」が2026年7月22日から24日まで、横浜市で開催された。1999年に始まったCEDECは、ゲーム開発者向けのイベントとしては国内最大級。今年も近年と同様、生成AI（人工知能）の活用をテーマとしたセッションが目立った。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03696/072900006/topm.jpg?20220512",
-    "fetched_at": "2026-07-31 19:13:56",
-    "ja_summary": "・国内最大級のゲーム開発者会議「CEDEC2026」が横浜で開催\n・今年も生成AIの活用が主要テーマとして注目を集める\n・コンテンツ制作やQA自動化における具体的な事例が報告された"
   }
 ]
