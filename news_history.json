@@ -1,5 +1,75 @@
 [
   {
+    "title": "Google Cloud、AI時代のセキュリティ基盤「AI Threat Defense」",
+    "link": "https://www.watch.impress.co.jp/docs/news/2129668.html",
+    "source": "Impress Watch",
+    "published": "",
+    "summary": "Google Cloudは7月30日から31日にかけて、同社の最新ソリューションや活用事例を紹介する年次カンファレンス「Google Cloud Next Tokyo」を東京ビッグサイトで開催した。会場では、AIを活用したセキュリティ基盤「Google AI Threat Defense」に関する報道関係者向け説明会も行なわれた。",
+    "image": "https://www.watch.impress.co.jp/img/ipw/list/2129/668/01.jpg",
+    "fetched_at": "2026-08-03 09:10:15",
+    "ja_summary": "・Google CloudがAIを活用した次世代セキュリティ基盤「AI Threat Defense」を発表。\n・AI時代における高度な脅威やサイバー攻撃への防御力強化を目指す。\n・年次イベント「Google Cloud Next Tokyo」にて詳細が公表された。"
+  },
+  {
+    "title": "Codex Micro の使い方",
+    "link": "https://note.com/npaka/n/n077409095a5a",
+    "source": "note (npaka)",
+    "published": "Mon, 27 Jul 2026 09:42:45 +0900",
+    "summary": "<p id=\"e0b7ad65-0427-4b33-a158-d8e0ff92f568\" name=\"e0b7ad65-0427-4b33-a158-d8e0ff92f568\">「Codex Micro」の使い方をまとめました。</p><figure id=\"4523e323-e388-4d27-8288-b8a4f1b0cf78\" name=\"4523e323-e388-4d27-8288-b8a4f1b0cf78\"><blockquote><p id=\"f12e558d-dd62-4508-b835-45a931013e7e\" name=\"f12e558d-dd62-4508-b835-45a931013e7e\"><strong>・</strong><a href=\"https://openai.com/ja-JP/supply/co-lab/work-louder/\" rel=\"nofollow noopener\" target=\"_blank\"><strong>Codex Micro</strong></a><strong><br />・</strong><a href=\"https://worklouder.cc/openai-micro-setup\" rel=\"nofollow noopener\" target=\"_blank\"><strong>Codex Micro Setup</strong></a></p></blockquote>\n<figcaption></figcaption></figure><br /><a href=\"https://note.com/npaka/n/n077409095a5a\">続きをみる</a>",
+    "image": "https://assets.st-note.com/production/uploads/images/297913777/rectangle_large_type_2_0ae9785f1695914b669feb8efbbb5c92.png?width=800",
+    "fetched_at": "2026-08-03 09:10:20",
+    "ja_summary": "・OpenAIとWork Louderが共同開発したキーボード「Codex Micro」の解説記事。\n・製品の概要と、セットアップ方法の手順がまとめられている。\n・詳細はリンク先から確認可能。"
+  },
+  {
+    "title": "Google DeepMind、ノーベル賞受賞プロジェクト「AlphaFold」チームを解散。メンバーの一部はAnthropicへ",
+    "link": "https://www.techno-edge.net/article/2026/07/31/5353.html",
+    "source": "TechnoEdge",
+    "published": "Fri, 31 Jul 2026 06:30:03 +0900",
+    "summary": "Google DeepMindが開発したタンパク質構造予測AIプログラム「AlphaFold」を手がけたチームが、事実上解体されたことがFinancial Timesの報道で明らかになりました。Google DeepMindは一部のメンバーをGemini関連プロジェクトや科学研究部門へ異動させており、他のメンバーはすでに同社を退社しているとのことです。",
+    "image": "https://www.techno-edge.net/imgs/rss/33293.jpg",
+    "fetched_at": "2026-08-03 09:10:25",
+    "ja_summary": "・ノーベル賞級の成果を上げた「AlphaFold」開発チームが事実上解体された。\n・メンバーはGoogle内の他プロジェクトへ異動したほか、一部はAnthropicへ流出した。\n・DeepMindは組織再編により、開発からGemini等の優先事業へリソースを集中させる。"
+  },
+  {
+    "title": "Building abundant intelligence",
+    "link": "https://openai.com/index/building-abundant-intelligence",
+    "source": "OpenAI",
+    "published": "Fri, 31 Jul 2026 15:00:00 GMT",
+    "summary": "A full-stack approach to making advanced AI more capable, more affordable, and more widely useful.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/2nex5TzYgCDCspDRG54rgh/2be09e779b11b569ce391490323e86bb/Frame__8_.png?w=1600&amp;h=900&amp;fit=fill",
+    "fetched_at": "2026-08-03 09:10:26",
+    "ja_summary": "・AIの性能向上、コスト削減、普及促進を包括的に推進\n・開発から運用までをカバーするフルスタックアプローチを採用\n・AIをより高度で身近な技術へと進化させる取り組み"
+  },
+  {
+    "title": "Disrupting a Criminal Scam Operation",
+    "link": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
+    "source": "OpenAI",
+    "published": "Fri, 31 Jul 2026 00:00:00 GMT",
+    "summary": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/dmuaSeo4bAASzMWH9WOJ02MC5neBx/2ae54d71251640bbdcd8a8b9dc43cc0d/16x9___SCAM__Criminal_scam_operation.png?w=1600&amp;h=900&amp;fit=fill",
+    "fetched_at": "2026-08-03 09:10:27",
+    "ja_summary": "・OpenAIがカンボジア拠点の詐欺グループを特定し、ChatGPTのアカウントを停止した。\n・同グループは投資や恋愛、なりすましなど多様な詐欺活動にAIを悪用していた。\n・悪質なAI利用に対するセキュリティ対策とプラットフォームの健全化を強化。"
+  },
+  {
+    "title": "メテオフォール開発",
+    "link": "https://zenn.dev/hisaju01/books/meteorfall-development",
+    "source": "Zenn Trends",
+    "published": "Fri, 31 Jul 2026 06:16:08 GMT",
+    "summary": "AIエージェントで粗い初期実装をまず落とし、人間が観測・分解・修正していく開発手法「メテオフォール開発」の考え方と実践をまとめた本。依頼設計・レビュー・タスク分解・ジュニア参加・品質ゲート・ケーススタディ・テンプレートまでを扱う。",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--9PxzUX3I--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYm9va19jb3Zlci9jZDEwMzYwMzM0LnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg?_a=BACMTiAE",
+    "fetched_at": "2026-08-03 09:10:29",
+    "ja_summary": "AIが初期実装を迅速に行い、人間が分解・修正・品質管理を行う新手法「メテオフォール開発」の解説書。\nタスク設計からレビュー、ジュニア層の育成、実践テンプレートまでを網羅している。\nAIを強力なパートナーとして活用し、開発プロセスを効率化するための包括的なガイド。"
+  },
+  {
+    "title": "Better Authという選択──AI時代に認証基盤のコードを持つ意味とは / better-auth-ai-era",
+    "link": "https://speakerdeck.com/iktakahiro/better-auth-ai-era",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-07-31T11:01:50-04:00",
+    "summary": "",
+    "image": "https://files.speakerdeck.com/presentations/ca718f39b98747e7a2c3ffee8364b6ce/preview_slide_0.jpg?40166575",
+    "fetched_at": "2026-08-03 09:10:30",
+    "ja_summary": "・AIによるコード生成が標準化する時代に、認証基盤を外部サービスに頼らず自前で構築・管理する価値を解説。\n・複雑な認証実装を容易にするライブラリ「Better Auth」を通じ、セキュリティと柔軟性の両立を目指す。\n・自社プロダクトの根幹となる認証コードを制御下に置くことで、長期的な開発の優位性を確保する戦略。"
+  },
+  {
     "title": "｢半値8掛け2割引｣の｢捨て値｣まで売られたキオクシア､それでも｢中長期で相場は終わっていない｣と言える理由 | 政治・経済・投資 | 東洋経済オンライン",
     "link": "https://toyokeizai.net/articles/-/953477?utm_source=rss&utm_medium=http&utm_campaign=link_back",
     "source": "東洋経済オンライン",
@@ -928,75 +998,5 @@
     "image": "https://japan.zdnet.com/storage/2025/11/12/5cadf4324701568dcc16628edb007a35/t/184/138/d/251112_data_stream_as_1280_1611251254.jpg",
     "fetched_at": "2026-08-01 04:49:35",
     "ja_summary": "・ベリサーブが機密データを外部に出さない「ローカルLLM基盤」の運用を開始。\n・顧客環境内で生成AIを活用し、セキュリティを確保しながら業務効率化を推進。\n・高い機密性が求められる企業に対し、安全なAI活用による品質保証サービスを提供する。"
-  },
-  {
-    "title": "AIによる「ランサムウエア攻撃」　侵入から脅迫まで全自動",
-    "link": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/052100113/072300191/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "セキュリティー企業の米シスディグは2026年7月上旬、ネットワークへの侵入からデータの暗号化、そして脅迫までを自律的に実施する、AI（人工知能）エージェントによるランサムウエア攻撃を確認したと公表した。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/052100113/072300191/topm.jpg?20220512",
-    "fetched_at": "2026-08-01 03:08:28",
-    "ja_summary": "・AIが侵入から脅迫まで全自動で行う新型ランサムウエア攻撃が確認された。\n・人間が介在せず自律的に攻撃を行うため、被害の迅速化や拡大が懸念される。\n・セキュリティ企業が実態を公表し、脅威の高度化に対し警戒を呼びかけている。"
-  },
-  {
-    "title": "ガバメントAI 源内の公式ロゴをリリースしました",
-    "link": "https://www.digital.go.jp/news/bfe6c5a3-8f12-4555-a98d-8a3502a307df",
-    "source": "デジタル庁",
-    "published": "Wed, 29 Jul 2026 15:50:00 +0900",
-    "summary": "",
-    "image": "https://www.digital.go.jp/themes/custom/gov_theme_da_2023/assets/images/ogp.png",
-    "fetched_at": "2026-08-01 03:08:40",
-    "ja_summary": "政府のAIプラットフォーム「ガバメントAI 源内」の公式ロゴが発表されました。\n今後はこのロゴが「源内」に関連する各種サービスや広報活動に使用されます。\n行政のAI活用推進に向けたブランディングの一環として展開されます。"
-  },
-  {
-    "title": "Backlog × AIエージェント連携で開発業務を回す5つの活用例【bee + Agent Skills】",
-    "link": "https://qiita.com/tie_rrific/items/8df560b1cb27945bd4c9",
-    "source": "Qiita (Popular)",
-    "published": "2026-07-21T11:07:37+09:00",
-    "summary": "## はじめに\n\n最近では、GitHub CopilotやClaude CodeなどのAIエージェントにコードを書かせる開発スタイルが広がりつつあります。\n\nしかし、実際の開発業務には、要件や背景の把握、実装後の報告、知見のドキュメント化など、コードを書く以外にも多くの作業があります。実装だけが速くなっても、業務全体にはまだ効率化の余地があります。\n\n私の業務では、プロジェクト管理に[Backlo",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0MjU2MDM5JTJGNjI1NzhmZTcyMDQzZmU3MjZkOTU0MjY2Yzc5MmM0YThiNTgyMjI4MSUyRnhfbGFyZ2UucG5nJTNGMTc2MzI2NTQxNT9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9MTc3MzY4NjhmOGZhMTgxZGUyYjNhYjRkNGMxNTllZjE%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkZlODVmODlmMDg5NjI5ODcwZThmMjJjMzRjNWQ5OGI2OWFkNTlkYjlhJTJGb3JpZ2luYWwuanBnJTNGMTY5MDUxNTcyMD9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz0zNTRjMWM4MmQ4ZDQ1MzA1ZTRkNGZjN2MzZjBlYWI5Ng%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D246719ed8204a0934792f39d6e41fb73?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9QmFja2xvZyUyMCVDMyU5NyUyMEFJJUUzJTgyJUE4JUUzJTgzJUJDJUUzJTgyJUI4JUUzJTgyJUE3JUUzJTgzJUIzJUUzJTgzJTg4JUU5JTgwJUEzJUU2JTkwJUJBJUUzJTgxJUE3JUU5JTk2JThCJUU3JTk5JUJBJUU2JUE1JUFEJUU1JThCJTk5JUUzJTgyJTkyJUU1JTlCJTlFJUUzJTgxJTk5NSVFMyU4MSVBNCVFMyU4MSVBRSVFNiVCNCVCQiVFNyU5NCVBOCVFNCVCRSU4QiVFMyU4MCU5MGJlZSUyMCUyQiUyMEFnZW50JTIwU2tpbGxzJUUzJTgwJTkxJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9Y2Q0ODBhYmM4N2MwODE3MDkzZjE5MjI4ZjkwNWYxNTg&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDB0aWVfcnJpZmljJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9YjljNzIzY2Q1ODY2ZjljOGQ3MWU4MzExMzg3ZDMyNTU&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=44OI44Oo44K_44OG44Kv44OL44Kr44Or44OH44Kj44OZ44Ot44OD44OX44Oh44Oz44OI5qCq5byP5Lya56S-&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=5367ea52205e39cd5eac9480c228dc4a",
-    "fetched_at": "2026-08-01 03:08:53",
-    "ja_summary": "・開発効率化の鍵は「実装」以外の報告やドキュメント作成等の周辺業務にある。\n・BacklogとAIエージェントを連携し、プロジェクト管理を含めた業務全体を自動化。\n・実装以外のタスクを削減し、開発フローの最適化を実現する5つの活用例を紹介。"
-  },
-  {
-    "title": "【徹底解説】文系でもわかる！機械学習に入門しよう",
-    "link": "https://qiita.com/miruky/items/42b892805eb1d754109c",
-    "source": "Qiita (Popular)",
-    "published": "2026-07-18T17:14:07+09:00",
-    "summary": "![機械学習サムネ.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3637204/d021a48b-614b-484f-85a8-bc8f7f870968.png)\n\n## はじめに\n\nこんばんは、元ゴリゴリ文系（ゴリ文）のmirukyです。\n\n機械学習、と聞くと「うげっ」と拒否反応を示す半年前の自分がいました。大",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGMzYzNzIwNCUyRnByb2ZpbGUtaW1hZ2VzJTJGMTc3NDQ0NTA3MD9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NzhlNWJjOTliMzcxMjIzNTdjNWQ1N2EyMTc3MzQyMGQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D4251943b4cba54fb403a98b0c03f0bf4?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJTkwJUU1JUJFJUI5JUU1JUJBJTk1JUU4JUE3JUEzJUU4JUFBJUFDJUUzJTgwJTkxJUU2JTk2JTg3JUU3JUIzJUJCJUUzJTgxJUE3JUUzJTgyJTgyJUUzJTgyJThGJUUzJTgxJThCJUUzJTgyJThCJUVGJUJDJTgxJUU2JUE5JTlGJUU2JUEyJUIwJUU1JUFEJUE2JUU3JUJGJTkyJUUzJTgxJUFCJUU1JTg1JUE1JUU5JTk2JTgwJUUzJTgxJTk3JUUzJTgyJTg4JUUzJTgxJTg2JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9Y2M4NTZiZWVhMGU3OGZhNGU2NzY5YWFlM2E5ZWE2MjY&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBtaXJ1a3kmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz03OTk2NjQ5OGIxYWQ1NDQxNjI5ZjM2ZTYzYTY3MzliZg&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=6e86ac1253cc4dc77ed6a9b436015521",
-    "fetched_at": "2026-08-01 03:08:54",
-    "ja_summary": "・文系出身者でも機械学習の基礎概念を理解し、学習の第一歩を踏み出せる内容。\n・専門的な拒否反応を払拭し、初心者にも分かりやすく噛み砕いて解説。\n・機械学習を学びたいが何から手をつけるべきか迷っている人に最適。"
-  },
-  {
-    "title": "日立が「SI全工程」をAI化　仕様確定で「最大240倍」効率化のワケ",
-    "link": "https://www.itmedia.co.jp/business/articles/2607/31/news049.html",
-    "source": "ITmedia ビジネス",
-    "published": "Fri, 31 Jul 2026 07:00:00 +0900",
-    "summary": "日立は、エンジニア不足やシステム複雑化に対応するため、SIの全工程にAIを全面適用する「Agentic AI Integration Platform」を開発した。最先端AIと独自ノウハウを融合し、社内検証では画面仕様確定で最大240倍などの効率化を実証。顧客固有の暗黙知を蓄積しながら自律進化する仕組みを構築した。2027年度に工程全体で30％の生産性向上を目指し、金融や社会インフラなど大規模レガシーシステムの刷新を推進する。",
-    "image": "https://image.itmedia.co.jp/business/articles/2607/31/cover_news049.jpg",
-    "fetched_at": "2026-08-01 01:39:57",
-    "ja_summary": "・日立がSI開発の全工程にAIを導入する新プラットフォームを開発。\n・仕様策定などの作業をAIで効率化し、最大240倍の生産性向上を確認。\n・2027年度までに全体で30％の効率化を図り、複雑なシステム刷新を加速させる。"
-  },
-  {
-    "title": "AIがソースを見ずにソフト再実装　全自動レガマイの夢は実現するか",
-    "link": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/052100112/072300143/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "現在の生成AI（人工知能）は、「こんなソフトウエアが欲しい」と伝えるだけでプログラムコードを書いてくれる。であれば、ソースコードを伏せてソフトウエアの挙動だけを見せても、そのソフトウエアを再現できるはずだ。その能力を測定する「MirrorCode」というベンチマークが登場した。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/052100112/072300143/topm.jpg?20220512",
-    "fetched_at": "2026-08-01 01:40:10",
-    "ja_summary": "AIがソフトの挙動からソースコードを再現できるかを測定する新ベンチマーク「MirrorCode」が登場した。\n生成AIによる古いシステムの自動刷新（レガシーマイグレーション）の実現可能性を検証する試みである。"
-  },
-  {
-    "title": "食事をドローンでお届け、米DoorDashが独自配送でFAAの認可取得",
-    "link": "https://japan.cnet.com/article/35251112/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "米連邦航空局（FAA）は料理宅配大手DoorDashに対し、独自のドローンサービスを運用する認可を与えた。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35251112/\"><img src=\"https://japan.cnet.com/storage/2026/07/30/9593a998e640566c8108ee4c01db365a/t/184/138/d/aircraft-nose_1280x960.jpg\" /></a>",
-    "image": "https://japan.cnet.com/storage/2026/07/30/9593a998e640566c8108ee4c01db365a/t/184/138/d/aircraft-nose_1280x960.jpg",
-    "fetched_at": "2026-08-01 01:40:18",
-    "ja_summary": "米フードデリバリー大手DoorDashが、ドローンによる独自配送サービスの運用認可を米連邦航空局（FAA）から取得した。今後、ドローンを活用した効率的な料理配送の実現に向けた取り組みが加速する。"
   }
 ]
