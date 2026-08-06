@@ -1,5 +1,105 @@
 [
   {
+    "title": "米国が“最先端AI”に制限をかけたワケ　投資額は20分の1なのに、なぜ「中国AI」を恐れるのか",
+    "link": "https://www.itmedia.co.jp/business/articles/2608/05/news018.html",
+    "source": "ITmedia ビジネス",
+    "published": "Wed, 05 Aug 2026 05:30:00 +0900",
+    "summary": "最先端AIを海外で利用できなくした米国政府。その背景には、AIの安全保障上の懸念に加え、急速に存在感を高める中国AIへの警戒があった。",
+    "image": "https://image.itmedia.co.jp/business/articles/2608/05/cover_news018.jpg",
+    "fetched_at": "2026-08-06 09:49:05",
+    "ja_summary": "・米国が最先端AIの海外利用を制限し、中国の技術的台頭を警戒。\n・AIは安全保障の核心であり、投資額に関わらず中国の進展を脅威と判断。\n・軍事転用や技術流出を防ぐため、米政府はAIの囲い込みを加速させている。"
+  },
+  {
+    "title": "OpenAI、Appleの提訴に全面反論「雑で攻撃的で、妙に個人的な訴訟」　メールやiMessageも公開",
+    "link": "https://japan.cnet.com/article/35251275/",
+    "source": "CNET Japan",
+    "published": "",
+    "summary": "OpenAIは8月3日（現地時間）、Appleが同社を相手取って起こした訴訟に全面的に反論する声明を発表した。タイトルは「Apple is getting this wrong（Appleは間違っている）」。Appleの主張には事実誤認があるとして、両社のメールのやり取りや、Apple社員と元社員のiMessageも公開した。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35251275/\"><img src=\"https://japan.cnet.com/storage/2026/08/05/1b6a959b9230c858f2132d453bb191e1/t/184/138/d/IMG_2918.jpeg\" /></a>",
+    "image": "https://japan.cnet.com/storage/2026/08/05/1b6a959b9230c858f2132d453bb191e1/t/184/138/d/IMG_2918.jpeg",
+    "fetched_at": "2026-08-06 09:49:24",
+    "ja_summary": "OpenAIがAppleによる提訴に反論し、「事実誤認に基づく攻撃的な訴訟」と批判した。\nAppleとのメールやiMessageを証拠として公開し、自社の正当性を強く主張している。\n両社の対立が深まっており、今後法廷での争いが本格化する見通し。"
+  },
+  {
+    "title": "ウェイモのCEO、シリコンバレーで最も有名なマントラを無視する理由を語る",
+    "link": "https://www.businessinsider.jp/article/2608-waymo-ceo-move-fast-break-things-bad-mantra/",
+    "source": "Business Insider Japan",
+    "published": "Wed, 05 Aug 2026 23:00:00 GMT",
+    "summary": "ウェイモのドミトリー・ドルゴフ共同CEOは、現実世界で作動するフィジカルAIにおいては、開発スピードよりも安全性を絶対的に優先すべきだと強調した。\n「物理世界には、エラーを『元に戻す』ボタンや『やり直す』ボタンなど存在しないからだ」と同氏は語った。\n昨今相次ぐAIの深刻なセキュリティ侵害・自律ハッキング事案は、より厳格な安全規制と監督体制の構築がいかに急務であるかを鮮やかに浮き彫りにしている。",
+    "image": "https://media.loom-app.com/loom/2026/08/04/9c60bba9-a74d-4874-b365-63af5a4da329/original.jpg?w=1200",
+    "fetched_at": "2026-08-06 09:49:24",
+    "ja_summary": "・ウェイモCEOは、物理世界で稼働するAIにおいては、開発スピードより安全性が絶対優先であると強調。\n・デジタル世界と異なり、物理的なエラーは「やり直し」が効かないため、より厳格な規制と監視が必要。\n・相次ぐAIハッキング事案を受け、現実世界のAI開発における安全体制の構築が急務となっている。"
+  },
+  {
+    "title": "売却すべきか、それとも保有すべきか…グーグルとメタが直面するAIコンピューティングのジレンマ",
+    "link": "https://www.businessinsider.jp/article/2608-meta-google-ai-compute-sell-keep-chips-microsoft-big-tech/",
+    "source": "Business Insider Japan",
+    "published": "Wed, 05 Aug 2026 21:00:00 GMT",
+    "summary": "巨大テック企業によるAIへの巨額投資が財務を圧迫し始める中、コンピュートを販売すれば資金繰りは改善できるとされていますが、そのコンピュートはAI開発で優位に立つために企業自身にとっても必要とされるものです。",
+    "image": "https://media.loom-app.com/loom/2026/07/30/f3390fa2-23d6-4986-8ace-9d8814b53b8a/original.jpg?w=1200",
+    "fetched_at": "2026-08-06 09:49:24",
+    "ja_summary": "・AI投資の増大で巨額のコスト負担が経営を圧迫。\n・余剰コンピュートを売却すれば資金繰りは改善する。\n・しかし自社のAI競争力を維持するには、そのリソースを自ら使い切る必要があり、戦略的な板挟みに直面している。"
+  },
+  {
+    "title": "How we built a realtime system for responsive voice AI in six months",
+    "link": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+    "source": "OpenAI",
+    "published": "Mon, 03 Aug 2026 07:00:00 GMT",
+    "summary": "GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/yTlvMCvVXsIfkU2OOi99f/157c83857ebe75544195add9e1f75039/gpt-live-responsive-seo-card.png?w=1600&amp;h=900&amp;fit=fill",
+    "fetched_at": "2026-08-06 09:49:32",
+    "ja_summary": "・6ヶ月でリアルタイム応答が可能な音声AIシステムを開発\n・ターンレス（会話の区切りを待たない）モデルで自然な対話を実現\n・低遅延なアーキテクチャにより、応答速度を劇的に向上"
+  },
+  {
+    "title": "Microsoft 謹製 デスクトップアプリ「Skill Recorder」で業務効率化スキル（SKILL.md）の作成が捗る？",
+    "link": "https://zenn.dev/benjuwan/articles/c2ba48e7662f92",
+    "source": "Zenn Trends",
+    "published": "Tue, 04 Aug 2026 04:57:19 GMT",
+    "summary": "はじめに\nスキル（SKILL.md）で定型業務をAIに移譲したり、特定業務の自動化・半自動化を実現したりといった状況は珍しくなくなってきたと思います。\n例えば、ブラウザ操作のトレースはplaywright-mcpまたはplaywright-cliで行い、そのトレース結果からAIに業務効率化のスキル作成までをしてもらうのも一般的でしょう。\nとはいえ、あくまでブラウザ操作ベースでの話になります。\nここ最近、ローカルPCのアプリケーションやソフトといったPC操作ベースでの業務効率化スキルを作成できる術を探していたところ、今回紹介するmicrosoft/skill-recorderを知りまし...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--goPwC68q--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Microsoft%2520%25E8%25AC%25B9%25E8%25A3%25BD%2520%25E3%2583%2587%25E3%2582%25B9%25E3%2582%25AF%25E3%2583%2588%25E3%2583%2583%25E3%2583%2597%25E3%2582%25A2%25E3%2583%2597%25E3%2583%25AA%25E3%2580%258CSkill%2520Recorder%25E3%2580%258D%25E3%2581%25A7%25E6%25A5%25AD%25E5%258B%2599%25E5%258A%25B9%25E7%258E%2587%25E5%258C%2596%25E3%2582%25B9%25E3%2582%25AD%25E3%2583%25AB%25EF%25BC%2588SKILL.md%25EF%25BC%2589...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:benjuwan%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSnd2XzJhLTN4SnJmSkN0Ql9wMkkwWUlVaVlTY1ozLTFQZFZoNkxsaUIyRmc9czk2LWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-08-06 09:49:35",
+    "ja_summary": "Microsoft製の「Skill Recorder」は、PC上のアプリ操作を記録してAI向け業務効率化ファイル（SKILL.md）を自動生成できるツール。\nブラウザ操作だけでなく、ローカルアプリの作業手順もデータ化できるため、定型業務のAI移譲や自動化が容易になる。"
+  },
+  {
+    "title": "生成AIの品質保証をどう設計する？ ― 「全部QAで見る」をやめて、機械とAIと人に分けた話",
+    "link": "https://zenn.dev/wn_engineering/articles/95911ca28a7b1f",
+    "source": "Zenn Trends",
+    "published": "Tue, 04 Aug 2026 03:00:06 GMT",
+    "summary": "はじめに\n初めまして、ウェルスナビでQAを担当しています大久保です。\nハルシネーションまみれのAIから数年、最近はAIの進化の速度に驚かされる日々を送っています。\n本記事では、AI事業者ガイドラインを起点に生成AIを組み込んだ機能のテスト観点を作り、\nPoCで直面した課題をもとに、品質保証のプロセスを組み直した過程を紹介します。\n\n生成AIの品質保証と言われた時に、QAではどんなテストをすれば良いでしょうか。\n私たちは最初、PoCで考えられるAIリスクを洗い出し、それをすべてQAで確認しました。\nその中で、確認工数だけでなく判定基準やリリース判断との結びつきにも課題が見えてきました。...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--G52ffn2c--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E7%2594%259F%25E6%2588%2590AI%25E3%2581%25AE%25E5%2593%2581%25E8%25B3%25AA%25E4%25BF%259D%25E8%25A8%25BC%25E3%2582%2592%25E3%2581%25A9%25E3%2581%2586%25E8%25A8%25AD%25E8%25A8%2588%25E3%2581%2599%25E3%2582%258B%25EF%25BC%259F%2520%25E2%2580%2595%2520%25E3%2580%258C%25E5%2585%25A8%25E9%2583%25A8QA%25E3%2581%25A7%25E8%25A6%258B%25E3%2582%258B%25E3%2580%258D%25E3%2582%2592%25E3%2582%2584%25E3%2582%2581%25E3%2581%25A6%25E3%2580%2581%25E6%25A9%259F%25E6%25A2%25B0%25E3%2581%25A8AI%25E3%2581%25A8%25E4%25BA%25BA%25E3%2581%25AB%25E5%2588%2586%25E3%2581%2591%25E3%2581%259F%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E5%25A4%25A7%25E4%25B9%2585%25E4%25BF%259D%2520%25E6%25A4%258B%25E4%25B9%259F%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzE3MzZjZWRmZjIuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:WealthNavi%2520Engineeri...%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzkwNWNlYmFiZTkuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-08-06 09:49:36",
+    "ja_summary": "・生成AIの品質保証において「すべてをQAが確認する」手法は工数や判定基準に課題が生じる。\n・AIリスクを整理した上で、機械・AI・人の役割を最適に分担するプロセスへと刷新した。\n・ガイドラインを起点にテスト観点を構造化し、効率的かつ確実な品質担保を実現した。"
+  },
+  {
+    "title": "ボトムアップ文化が強い組織で セキュリティをどう根付かせていくかの現在進行形の話 / Making Security Stick in a Bottom-Up Organization",
+    "link": "https://speakerdeck.com/yamaguchitk333/making-security-stick-in-a-bottom-up-organization",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-08-05T19:56:03-04:00",
+    "summary": "ボトムアップ文化の強い組織で、EOL対応をきっかけに脆弱性管理を見直し、Snykの導入、セキュリティロードマップの策定、ASM・CSPMを含む成熟度ロードマップへの引き直しまで進めた、現在進行形の事例を紹介します。\n\nボトムアップは、全社方針を待たずに現場の課題から素早く動き出せる一方、善意と個人の専門性に依存しやすい側面があります。今回は、アーキテクチャ・クラウド・セキュリティを横断できる人材が1線と2線の間をつないだことで活動が形になりました。\n\nボトムアップの強みと限界、そして個人の実践をセキュリティチャンピオン、ガイドライン、継続的な意思決定プロセスへ移し、セキュリティを組織に根付かせていくための現在地を共有します。\n\nSnykについては以下を参照\nhttps://snyk.io/jp/\nhttps://speakerdeck.com/yamaguchitk333/considering-sustainable-security-measures-in-devsecops-left-loop-and-right-loop-perspectives\nhttps://speakerdeck.com/yamaguchitk333/getting-started-with-snyk-vulnerability-response",
+    "image": "https://files.speakerdeck.com/presentations/2443742fb8cb4c9ab81bf391adef9da2/preview_slide_0.jpg?40217343",
+    "fetched_at": "2026-08-06 09:49:36",
+    "ja_summary": "・ボトムアップ文化の組織において、現場主導で脆弱性管理ツール（Snyk）導入やセキュリティロードマップ策定を実現。\n・属人的な活動を、専門人材による橋渡しとガイドライン整備により、組織的なプロセスへと昇華。\n・個人の意欲に頼るだけでなく、継続的な意思決定の仕組みを構築し、セキュリティを文化として根付かせる試み。"
+  },
+  {
+    "title": "「経験がないから」を言い訳にしなくていい時代になった",
+    "link": "https://qiita.com/sumomoo/items/122f9a34360e256bf042",
+    "source": "Qiita (Popular)",
+    "published": "2026-07-27T17:09:33+09:00",
+    "summary": "![すもも_AIでなんでもできる令和の時代_サムネ.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/4138952/52c3ff3e-24ac-4991-8e7b-10cdd4768269.png)\n<br>\n\nはじめまして。株式会社PRUMでエンジニアをしている、すもも🍑です\n日々、プログラミング学習や実務の",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0MTM4OTUyJTJGY2EyODE2OTgwNjA4ZGZjZDljYTZmYjJmZThjMDg1Y2MwYzIzZWYyMCUyRnhfbGFyZ2UucG5nJTNGMTc3MzM4Mzk0MT9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9ZTJmZjY2YzM4OGFmZDhkMGFhNWJjMGJmZjFlYjRjOGU%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYzMzEyZmE3ZDk1NjJkYTc1ZTFmOGE1ZmQxODljN2UzN2FlNzZhMjc0JTJGb3JpZ2luYWwuanBnJTNGMTc1NzU2OTIyMz9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz02ZjkzZjY0NGI1ZDk0MjNmMjMxMDhjOGEzZjllZDE0Mw%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D3085d9881a1f2f75f9ab7d8ee8a1bfc5?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJThDJUU3JUI1JThDJUU5JUE4JTkzJUUzJTgxJThDJUUzJTgxJUFBJUUzJTgxJTg0JUUzJTgxJThCJUUzJTgyJTg5JUUzJTgwJThEJUUzJTgyJTkyJUU4JUE4JTgwJUUzJTgxJTg0JUU4JUE4JUIzJUUzJTgxJUFCJUUzJTgxJTk3JUUzJTgxJUFBJUUzJTgxJThGJUUzJTgxJUE2JUUzJTgxJTg0JUUzJTgxJTg0JUU2JTk5JTgyJUU0JUJCJUEzJUUzJTgxJUFCJUUzJTgxJUFBJUUzJTgxJUEzJUUzJTgxJTlGJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9NTA1Mzg2M2U2NTVmNzY3MTY1OWFkZDIxMjI3NzAzMzU&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBzdW1vbW9vJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9NzAzMjU0OTZhNzA0NmEwZGQ4OWZkNGM1YjdlNjRlOGE&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=5qCq5byP5Lya56S-UFJVTQ&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=86ca1a29e89d778d165dd3249a958494",
+    "fetched_at": "2026-08-06 09:49:39",
+    "ja_summary": "AIの活用により、未経験分野への挑戦が容易な時代になった。\nスキル不足を言い訳にせず、ツールを駆使して早期に成果を出すことが重要。\n変化を恐れず、AIを活用して積極的に実務や学習に取り組むべきである。"
+  },
+  {
+    "title": "AIエージェントがあれば技術書なんてすぐ書けるでしょ、と思ったが無理だった",
+    "link": "https://qiita.com/watany/items/11358e8e8966d5e48a09",
+    "source": "Qiita (Popular)",
+    "published": "2026-07-25T15:46:06+09:00",
+    "summary": "## はじめに\n\n2026年5月2日に『Agentic Coding 生成AI時代のシステム開発入門』という単著を出しました。生成AI×システム開発の情報がネットの場当たり的なものばかりで困っている人、エージェントの使い方をどこから学べばいいか分からない人、そして自分は大丈夫でもチームメンバに渡す本が無い人に向けた本です。\n\nhttps://www.sbcr.jp/product/48156365",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY1Mjg0NTQlMkYxOTcxZjYwZmExM2U5YzBlNTk2N2RlMTVjZjQ1YWNmYzVkYTI2M2JiJTJGeF9sYXJnZS5wbmclM0YxNTcyOTk3NzQ2P2l4bGliPXJiLTQuMS4xJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz1iMTBiMzZjMDA4NTlhYmIyY2RiNTE0NjZjNGM3ZjgwZg%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Dc85540a1cb0da85551b07acbbedd5fc4?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9QUklRTMlODIlQTglRTMlODMlQkMlRTMlODIlQjglRTMlODIlQTclRTMlODMlQjMlRTMlODMlODglRTMlODElOEMlRTMlODElODIlRTMlODIlOEMlRTMlODElQjAlRTYlOEElODAlRTglQTElOTMlRTYlOUIlQjglRTMlODElQUElRTMlODIlOTMlRTMlODElQTYlRTMlODElOTklRTMlODElOTAlRTYlOUIlQjglRTMlODElOTElRTMlODIlOEIlRTMlODElQTclRTMlODElOTclRTMlODIlODclRTMlODAlODElRTMlODElQTglRTYlODAlOUQlRTMlODElQTMlRTMlODElOUYlRTMlODElOEMlRTclODQlQTElRTclOTAlODYlRTMlODElQTAlRTMlODElQTMlRTMlODElOUYmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz0yZjM3ZWNkMDVhZjU4ZjlhNTg5NmVmOWE3M2RiY2I0NA&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDB3YXRhbnkmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz0xMmQ5NWVhZWY5YzUzOTA3MGQyZTcxOWE3MjMzYWZhMQ&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=e101174e39b334b39ce3504c85ddf0fc",
+    "fetched_at": "2026-08-06 09:49:40",
+    "ja_summary": "生成AIとシステム開発を網羅的に学べる技術書『Agentic Coding』を出版した。\nネット上の断片的な情報に頼らず、体系的にAIエージェントの活用法を習得できる。\nチーム開発におけるAI導入の教科書として、初心者からエンジニアまで幅広く活用可能。"
+  },
+  {
     "title": "「売上増なのに資金がない」　 創業105年、老舗納豆メーカーの危機を救ったAI時代の資金調達",
     "link": "https://www.itmedia.co.jp/business/articles/2608/06/news020.html",
     "source": "ITmedia ビジネス",
@@ -898,105 +998,5 @@
     "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
     "fetched_at": "2026-08-05 08:56:39",
     "ja_summary": "・CognizantとAnthropicが提携を拡大し、企業向けに生成AI「Claude」の導入支援を強化。\n・両社の技術を融合させ、企業クライアントの業務効率化とAI活用を推進。\n・コンサルティングから実装までをトータルでサポートし、企業のDXを加速させる。"
-  },
-  {
-    "title": "Introducing Claude Opus 5",
-    "link": "https://www.anthropic.com/news/claude-opus-5",
-    "source": "Anthropic (News)",
-    "published": "Fri, 24 Jul 2026 00:00:00 +0000",
-    "summary": "Introducing Claude Opus 5",
-    "image": "https://cdn.sanity.io/images/4zrzovbb/website/54b7ab1d2c2521f83ae5d2da5f9d99321c370d24-2880x1620.png",
-    "fetched_at": "2026-08-05 08:56:39",
-    "ja_summary": "・次世代AIモデル「Claude Opus 5」を発表\n・従来モデルを上回る推論能力と精度を実現\n・複雑なタスク処理や高度なコーディングを効率化"
-  },
-  {
-    "title": "Anthropic is donating another $20 million to Public First Action",
-    "link": "https://www.anthropic.com/news/donation-public-first-action",
-    "source": "Anthropic (News)",
-    "published": "Tue, 21 Jul 2026 00:00:00 +0000",
-    "summary": "Anthropic is donating another $20 million to Public First Action",
-    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Stack&amp;backgroundColor=oat",
-    "fetched_at": "2026-08-05 08:56:39",
-    "ja_summary": "・Anthropic社がPublic First Actionに対し、新たに2,000万ドルの寄付を実施。\n・AI政策や規制の議論を推進する団体への資金提供を継続。\n・AI開発における責任あるガバナンスと社会的影響への関与を強化。"
-  },
-  {
-    "title": "オントロジーで AI に業務知識を渡す — AWS の OSS「Context Ontology Accelerator」を試してみた",
-    "link": "https://zenn.dev/aws_japan/articles/context-ontology-accelerator-deploy",
-    "source": "Zenn Trends",
-    "published": "Mon, 03 Aug 2026 05:26:48 GMT",
-    "summary": "はじめに\nこんにちは、AWS Japan でソリューションアーキテクトをしているいなりくです。\nAI エージェントを業務に入れようとすると、必ず同じ壁にぶつかります。データはあるのに、業務の意味が渡っていないという壁です。\n\n「売上」は total_amount の合計なのか、送料込みなのか、キャンセル分を引くのか\n「この注文はキャンセルできる？」に答えるには、注文テーブルの状態とキャンセルポリシー文書の両方が必要\n「アクティブ顧客」の定義は部署ごとに違うかもしれない\n\nこれらは人間の頭と社内ドキュメントの中にあり、information_schema には存在しません。LLM がい...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--tBnwPxIJ--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25AA%25E3%2583%25B3%25E3%2583%2588%25E3%2583%25AD%25E3%2582%25B8%25E3%2583%25BC%25E3%2581%25A7%2520AI%2520%25E3%2581%25AB%25E6%25A5%25AD%25E5%258B%2599%25E7%259F%25A5%25E8%25AD%2598%25E3%2582%2592%25E6%25B8%25A1%25E3%2581%2599%2520%25E2%2580%2594%2520AWS%2520%25E3%2581%25AE%2520OSS%25E3%2580%258CContext%2520Ontology%2520Accelera...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E3%2581%2584%25E3%2581%25AA%25E3%2582%258A%25E3%2581%258F%2520%252F%2520Riku%2520Inada%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzZmZTY2NGI3N2IuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2582%25A2%25E3%2583%259E%25E3%2582%25BE%25E3%2583%25B3%2520%25E3%2582%25A6%25E3%2582%25A7%25E3%2583%2596%2520%25E3%2582%25B5%25E3%2583%25BC%25E3%2583%2593%25E3%2582%25B9%2520%25E3%2582%25B8%25E3%2583%25A3%25E3%2583%2591%25E3%2583%25B3%2520%2528%25E6%259C%2589%25E5%25BF%2597%2529%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jTFB2am5INFd2dWRBT2p6Tm9JUEpQR3lNYmt4eWFuVlVXbEJZT3ZmVE1DRlFlTnh6Zz1zOTYtYw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "fetched_at": "2026-08-05 08:56:43",
-    "ja_summary": "・AIに業務固有の専門知識や定義を正確に伝えるためのOSSツール「Context Ontology Accelerator」を紹介。\n・社内に散在する暗黙知をオントロジーで整理し、LLMに渡すことで業務判断の精度向上を実現。\n・情報が断片化している企業が、AIエージェントを実業務へ導入する際の「意味理解の壁」を解決する。"
-  },
-  {
-    "title": "「私がウダウダしゃべるより聞きやすい」　三菱重工、決算説明に“AIジュリア”起用の本音",
-    "link": "https://www.itmedia.co.jp/business/articles/2608/05/news042.html",
-    "source": "ITmedia ビジネス",
-    "published": "Wed, 05 Aug 2026 07:00:00 +0900",
-    "summary": "三菱重工が、決算説明にAIナレーター「ジュリア」を起用した。導入の狙いを問われた西尾浩CFOが、笑顔で語った理由とは。",
-    "image": "https://image.itmedia.co.jp/business/articles/2608/05/cover_news042.jpg",
-    "fetched_at": "2026-08-05 07:53:46",
-    "ja_summary": "三菱重工が決算説明にAIナレーター「ジュリア」を導入。\nCFOが「自身の説明より聞きやすい」と語るなど、効率的で分かりやすい情報発信を狙う。\n親しみやすさと伝達力を重視した、AI活用の新しい試み。"
-  },
-  {
-    "title": "15周年を迎えたLINE、AIエージェントとLYPプレミアムに次の成長を託す (日経クロステック)",
-    "link": "https://business.nikkei.com/atcl/gen/19/00297/071300294/",
-    "source": "日経ビジネス 最新",
-    "published": "",
-    "summary": "LINEヤフーは、メッセンジャーアプリ「LINE」の15周年記念イベントにおいて、新たな成長戦略を説明しました。今後、LINEはどこに商機を見いだし成長しようとしているのでしょうか。",
-    "image": "https://business.nikkei.com/atcl/gen/19/00297/071300294/fb.jpg",
-    "fetched_at": "2026-08-05 07:53:52",
-    "ja_summary": "・LINEは15周年を機に、生成AIを活用した「AIエージェント」の展開を強化。\n・有料会員サービス「LYPプレミアム」との連携を深め、収益の柱として育成。\n・AIによる利便性向上と会員経済圏の拡大で、次なる成長と顧客基盤の強化を図る。"
-  },
-  {
-    "title": "パートナー企業が告白　企業のAI活用支援を",
-    "link": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/072800563/072800003/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "3大クラウドが次々と繰り出すサービスを、日本のパートナー企業はどう捉えているのか。クラスメソッド、KDDIアイレット、日本ビジネスシステムズに評価を聞いた。各社に共通するのは、AI活用の具体策に悩む顧客企業への支援策を求める声だ。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/072800563/072800003/topm.jpg?20220512",
-    "fetched_at": "2026-08-05 07:53:53",
-    "ja_summary": "・3大クラウドのAIサービスが急増する中、導入企業は具体的な活用方法に苦慮している。\n・支援パートナー企業各社は、顧客の課題解決に向けたより実践的なサポート体制を求めている。"
-  },
-  {
-    "title": "半導体にAIモデルも　異次元の投資合戦",
-    "link": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/072800563/072800002/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "半導体からデータセンター、半導体、パートナーとの協業まで。グーグル、AWS、MSはAIエージェントを動かす基盤としてクラウド強化を競い合う。その争いは、兆円規模の投資が飛び交う異次元のレベルに突入している。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/072800563/072800002/topm.jpg?20220512",
-    "fetched_at": "2026-08-05 07:53:54",
-    "ja_summary": "・Google、AWS、MicrosoftがAI基盤の覇権を争い、兆円規模の巨額投資が常態化\n・半導体からデータセンターまでクラウドインフラの増強が加速\n・AIエージェントの実用化を見据え、異次元の投資合戦に突入している"
-  },
-  {
-    "title": "AIによる「冤罪」は避けられない？",
-    "link": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/040900481/072800034/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "生成AIで書かれた文章かどうかを判定する「AI文章検出器」を検証した論文に注目が集まった。人間が書いた文章をAI生成と誤判定する偽陽性率の高さが、これまでも実証研究で報告されてきた。非ネーティブ話者が執筆したエッセーを評価すると、検出器ごとの偽陽性率は平均で61％に達した。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/040900481/072800034/topm.jpg?20220512",
-    "fetched_at": "2026-08-05 07:53:54",
-    "ja_summary": "・AI文章検出器は人間が書いた文章を誤判定する「偽陽性」の割合が高い。\n・特に非ネイティブ話者の文章では、誤判定率が平均61％に達するケースもある。\n・AIによる冤罪の懸念が拭えず、判定ツールの精度と利用には重大な課題がある。"
-  },
-  {
-    "title": "加熱する開発競争　焦点は管理基盤に",
-    "link": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/072800563/072800001/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "マイクロソフト、グーグル、AWSのクラウド3強によるAI分野の開発競争が過熱している。各社が今とりわけ力を注ぐのが、AIエージェントの管理基盤の拡充だ。1社で数千体のAIエージェントが、社員の手となり同僚となって動作する将来を見据える。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/072800563/072800001/topm.jpg?20220512",
-    "fetched_at": "2026-08-05 07:53:55",
-    "ja_summary": "・米IT大手3社がAI開発競争を激化させ、現在はAIエージェントの管理基盤強化に注力している。\n・将来的に1社で数千体のAIが業務を担う、自律型AIが協働する環境の構築を目指している。"
-  },
-  {
-    "title": "SpaceX上場後初の決算、売上高トップはStarlink　AIも急伸　ロケット部門は最小に",
-    "link": "https://japan.cnet.com/article/35251278/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "SpaceXは米国時間8月4日、2026年第2四半期（4〜6月）の決算を発表した。6月にNasdaqへ上場してから初の決算となる。売上高は前年同期比92%増の78億1400万ドルだった。純損失は5億4100万ドルで、前年同期の10億800万ドルからほぼ半減した。部門別ではAI部門の売上高が約3.5倍に伸びた。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35251278/\"><img src=\"https://japan.cnet.com/storage/2023/01/18/464e3d9bf035532fa66a46e80b2e70f5/t/184/138/d/spacex45715171884-624136120f-ka_1280x960.jpg\" /></a>",
-    "image": "https://japan.cnet.com/storage/2023/01/18/464e3d9bf035532fa66a46e80b2e70f5/t/184/138/d/spacex45715171884-624136120f-ka_1280x960.jpg",
-    "fetched_at": "2026-08-05 07:54:00",
-    "ja_summary": "・SpaceXの上場後初決算は、売上高が前年比92%増の約78億ドルと大幅成長。\n・主力事業は衛星通信「Starlink」が牽引し、AI部門も売上約3.5倍と急伸。\n・ロケット部門の比率は最小化し、赤字幅も前年同期比で約半減させた。"
   }
 ]
