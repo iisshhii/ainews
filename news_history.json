@@ -1,5 +1,55 @@
 [
   {
+    "title": "「優れた答え」より「正しい問い」が企業の力に　AI時代のリフレーミング経営 (グローバルインテリジェンス)",
+    "link": "https://business.nikkei.com/atcl/NBD/19/00150/073100157/",
+    "source": "日経ビジネス 最新",
+    "published": "",
+    "summary": "生成AIが誰にでも発想力を与える時代が到来し、アイデアはもはや希少資源ではなくなった。企業の競争力を左右するのは「優れた答え」ではなく、問題を捉え直す「正しい問い」にある。",
+    "image": "https://business.nikkei.com/atcl/NBD/19/00150/073100157/fb.jpg",
+    "fetched_at": "2026-08-07 20:39:03",
+    "ja_summary": "生成AIの普及でアイデアの価値が低下する中、企業の競争力は「優れた答え」を出すことではなく、課題の本質を捉え直す「正しい問い」を立てる能力に移行している。"
+  },
+  {
+    "title": "Fable 5、生物学の安全対策を緩和　健康・教育など日常利用が可能に",
+    "link": "https://www.watch.impress.co.jp/docs/news/2131700.html",
+    "source": "Impress Watch",
+    "published": "",
+    "summary": "Anthropicは7日(米国時間)、最上位のAIモデル「Claude Fable 5」の生物学分野における安全対策を更新し、誤検知を大幅に削減した。これにより、Fable 5ユーザーは、生物学関連の質問をした際にシステムがOpus 5など性能の劣るモデルに切り替わる「フォールバック」がこれまでより遥かに少なくなる。",
+    "image": "https://www.watch.impress.co.jp/img/ipw/list/2131/700/fable1.jpg",
+    "fetched_at": "2026-08-07 20:39:11",
+    "ja_summary": "・AnthropicがAIモデル「Claude Fable 5」の生物学分野における安全制限を緩和。\n・誤検知によるモデル切り替え（フォールバック）が減り、高性能な状態での回答が可能に。\n・健康や教育などの日常的な生物学の質問が、よりスムーズに利用できるよう改善された。"
+  },
+  {
+    "title": "「かなりイケてる」KDDI社長が推すAI　auショップ全店の業務負荷を大幅低減",
+    "link": "https://japan.cnet.com/article/35251431/",
+    "source": "CNET Japan",
+    "published": "",
+    "summary": "auショップのスタッフはもう分厚いマニュアルと格闘しなくていい。KDDIが導入したAIエージェントが複雑な問い合わせに30秒で回答し、人材定着の妨げとなってきた「情報習得の重荷」を軽減しつつある。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35251431/\"><img src=\"https://japan.cnet.com/storage/2026/08/07/817462dc19b80d18856e91abd9bafc5e/t/184/138/d/b01_top.jpg\" /></a>",
+    "image": "https://japan.cnet.com/storage/2026/08/07/817462dc19b80d18856e91abd9bafc5e/t/184/138/d/b01_top.jpg",
+    "fetched_at": "2026-08-07 20:39:16",
+    "ja_summary": "KDDIがauショップ全店にAIエージェントを導入し、複雑な問い合わせへの即時回答を実現。\nスタッフの膨大なマニュアル確認作業を代替することで、業務負荷を大幅に軽減する。\n習得負担を減らし、現場スタッフの定着率向上とサービス品質の強化を図る。"
+  },
+  {
+    "title": "Mariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer",
+    "link": "https://www.anthropic.com/news/tino-cuellar",
+    "source": "Anthropic (News)",
+    "published": "Tue, 04 Aug 2026 00:00:00 +0000",
+    "summary": "Mariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer",
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+    "fetched_at": "2026-08-07 20:39:27",
+    "ja_summary": "・元カリフォルニア州最高裁判事のTino Cuéllar氏が、AI企業Anthropicの最高グローバル問題責任者（CGAO）に就任。\n・同社のAI開発における政策提携やグローバルなガバナンス体制の強化を主導する。\n・AIの安全性と倫理的な活用に向けた外部との連携を加速させる狙い。"
+  },
+  {
+    "title": "58% の Pull Request を AI が承認するようになった",
+    "link": "https://zenn.dev/she_techblog/articles/937836550dfdf3",
+    "source": "Zenn Trends",
+    "published": "Thu, 06 Aug 2026 21:10:44 GMT",
+    "summary": "SHE株式会社の開発責任者を務めている @qsona です。\nAI コーディングの普及で開発速度は速くなったが、価値の創出はそこまで速くなっていない、というのは、多くの開発組織が感じている課題でしょう。Four Keys で測れるような(狭義の)開発生産性だけをみても、コードレビューやテストといった、品質担保のアクションがボトルネックになってきがちです。弊社 SHE においても、Pull Request レビューがボトルネックになりがちであるという議論が、半年ほど前からされていました。\nそこで、この状況に対して、AIがコードレビューおよび approve 判断まで行う仕組みを実装しました...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--pO2ry0vy--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:58%2525%2520%25E3%2581%25AE%2520Pull%2520Request%2520%25E3%2582%2592%2520AI%2520%25E3%2581%258C%25E6%2589%25BF%25E8%25AA%258D%25E3%2581%2599%25E3%2582%258B%25E3%2582%2588%25E3%2581%2586%25E3%2581%25AB%25E3%2581%25AA%25E3%2581%25A3%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:qsona%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2YyZjVjMWE4NWMuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:SHE%2520Tech%2520Blog%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2ctNEdEcmdOOW80SFFEbjVsaENxT29lOHVwYzMyRkRySlZsREVOPXMyNTAtYw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-08-07 20:39:31",
+    "ja_summary": "・開発のボトルネックとなっていたコードレビューをAIが自動化。\n・PRの約58%をAIが自律的に承認する仕組みを構築した。\n・コードレビュー負荷を軽減し、開発スピードと価値創出の向上を図る。"
+  },
+  {
     "title": "Codex Micro の使い方",
     "link": "https://note.com/npaka/n/n077409095a5a",
     "source": "note (npaka)",
@@ -948,55 +998,5 @@
     "image": "https://images.ctfassets.net/kftzwdyauwt9/6CQ3mqxKiApPHF2wTXSybs/5e0f83d5d5817dbac9b7e7f440e692ed/openai-and-apa-advance-responsible-ai-for-youth-16_9.png?w=1600&amp;h=900&amp;fit=fill",
     "fetched_at": "2026-08-07 09:36:16",
     "ja_summary": "・OpenAIと米国心理学会（APA）が提携し、AIの若年層への影響に関する指針を策定\n・AIの安全な利活用に向けたエビデンスに基づくガイドラインやリソースを開発\n・若者のメンタルヘルス保護を最優先したAI開発・運用の枠組みを構築"
-  },
-  {
-    "title": "From asking to doing: How the world is putting ChatGPT to work",
-    "link": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
-    "source": "OpenAI",
-    "published": "Thu, 06 Aug 2026 00:00:00 GMT",
-    "summary": "New OpenAI Signals data shows how people use ChatGPT worldwide, with country-level insights on adoption, usage trends, and evolving behavior.",
-    "image": "https://images.ctfassets.net/kftzwdyauwt9/5qbXuYJxwp7q4YnQENtCCP/0d1dd2519af8128544b23560c7fd7dca/SEO_Card__10_.png?w=1600&amp;h=900&amp;fit=fill",
-    "fetched_at": "2026-08-07 09:36:16",
-    "ja_summary": "OpenAIの新データにより、ChatGPTの世界的な利用状況や国別の活用トレンドが明らかに。\n単なる質問ツールから、業務や日常生活における実務遂行手段へと利用目的が変化。\n各地域のユーザー行動や導入傾向を分析し、AI活用の進化を可視化している。"
-  },
-  {
-    "title": "New ways to learn and teach with ChatGPT Work and Codex",
-    "link": "https://openai.com/index/learn-teach-chatgpt-work-codex",
-    "source": "OpenAI",
-    "published": "Tue, 04 Aug 2026 00:00:00 GMT",
-    "summary": "Explore new education plugins for ChatGPT Work and Codex that help K–12 teachers, college educators, and students learn, teach, research, and build.",
-    "image": "https://images.ctfassets.net/kftzwdyauwt9/2ucoEDJhFKCnvweCx2DR4/d28e7c8e8acabba775c448de631a1276/16_9_SEO_Blog.jpg?w=1600&amp;h=900&amp;fit=fill",
-    "fetched_at": "2026-08-07 09:36:19",
-    "ja_summary": "ChatGPT WorkとCodexに、教育現場向けの新しいプラグインが導入されました。\n小中高から大学まで、教員や学生が学習・指導・研究・開発に幅広く活用可能になります。\n教育の効率化とスキルの向上を支援する新たなツールセットが提供されます。"
-  },
-  {
-    "title": "ずぼらAI駆動開発、爆誕",
-    "link": "https://qiita.com/nobu34/items/224f55bc85b813930f61",
-    "source": "Qiita (Popular)",
-    "published": "2026-08-05T09:22:29+09:00",
-    "summary": "# スキル、自分で作るのめんどくさくないですか？\n\n同僚の @masa-asa さんが [AI を活用した開発に「いちエンジニア」が向き合い、実践している 3 つの仕組み](https://qiita.com/masa-asa/items/343dd140ee519a8d62bd) という記事を上げていました。\n\n素直にすごいと思いつつ、正直な気持ちはこうです。\n\n「そこまで綺麗に設計する気力、自",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0MDkzMjczJTJGZWU4NzczNWI0MTgzY2IzODRlMDA0ZDRjMDE0YTFjNDc2NmM1YzUyYSUyRmxhcmdlLnBuZyUzRjE3NDgzMzAzOTI_aXhsaWI9cmItNC4xLjEmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPTEyMTAwMjNiOTVlZjE5Y2U1ZDc5MTFkYWZmNTU0NWRi%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkZlYzNmNjg0OWI0ZjZlMTQ0YzgwYzQ1MGIyYjc4MDFhOTM0N2VkZDgyJTJGb3JpZ2luYWwuanBnJTNGMTc0Nzk1NDYyMT9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz1lZmI4ZDk1MWQwYzkwZWNkYzE1YWQyOTMwMTEwYzJlNw%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D5c137c7149cccd97a3a493249e439841?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgxJTlBJUUzJTgxJUJDJUUzJTgyJTg5QUklRTklQTclODYlRTUlOEIlOTUlRTklOTYlOEIlRTclOTklQkElRTMlODAlODElRTclODglODYlRTglQUElOTUmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz04MzdmOGJiMTg5NDRiZjIyNDRjMzQ3OTdmMjc4ZTljNA&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBub2J1MzQmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz01Y2MzNDRjMzUzYzk1YWIxNTU4ZTc1MDNlZTY4MWJlZQ&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=S2Fv44Ko44Oz44K444OL44Ki44Kz44Of44Ol44OL44OG44KjzrI&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=83f0a32a251cbadbd3d8b676a190d5e7",
-    "fetched_at": "2026-08-07 09:36:24",
-    "ja_summary": "AI活用開発の効率化を目指し、過度な設計や準備を省く「ずぼらAI駆動開発」を提唱。\n既存の緻密なAI開発手法に対し、気力を使わず楽をすることを最優先にするアプローチ。\n「面倒くさい」という感情を起点に、最小限の工数で成果を出す開発スタイルを追求。"
-  },
-  {
-    "title": "日本精工・市井社長が語るNTNとの経営統合「ベアリングは成熟から進化へ」 (編集長インタビュー)",
-    "link": "https://business.nikkei.com/atcl/NBD/19/00119/00346/",
-    "source": "日経ビジネス 最新",
-    "published": "",
-    "summary": "ベアリング（軸受け）首位の老舗が、業界再編の大勝負に打って出た。2位NTNとの経営統合だ。成熟市場を乗り越え、フィジカルAI（人工知能）ロボットなど新たな技術に次の100年を託す。「ビヨンド（超える）」を合言葉に産業機械のコメに新たな価値を吹き込めるか。",
-    "image": "https://business.nikkei.com/atcl/NBD/19/00119/00346/fb.jpg",
-    "fetched_at": "2026-08-07 00:40:35",
-    "ja_summary": "・ベアリング大手である日本精工とNTNが経営統合し、業界再編に踏み切る。\n・成熟する市場から脱却し、AIやロボットなど新技術を融合させ次世代の成長を目指す。\n・「ビヨンド」を掲げ、産業の根幹を支える製品に新たな価値を創造する戦略。"
-  },
-  {
-    "title": "ANAHD片野坂会長「本人以上に優秀な『AI会長』に自分を託したいと思わない」 (賢人の警鐘)",
-    "link": "https://business.nikkei.com/atcl/NBD/19/00121/00367/",
-    "source": "日経ビジネス 最新",
-    "published": "",
-    "summary": "人工知能（AI）の活用が経営者の間に広がっている。生成AIや、AIで機械やロボットを自律的に動かすフィジカルAIは、業務効率を飛躍的に高めるだけでなく、ビジネスモデルの変革を可能にするもので、既に多くの企業で実装が始まっている。さらに経営者の中には、自らの分身としてAI社長を作り出す方も出てきた。",
-    "image": "https://business.nikkei.com/atcl/NBD/19/00121/00367/fb.jpg",
-    "fetched_at": "2026-08-07 00:40:36",
-    "ja_summary": "AI活用が進む中、経営の意思決定にAIを導入する動きが加速している。\nしかし、ANAHD片野坂会長は「優秀なAIであっても自身の分身として託すことはない」と指摘。\n効率化や変革には不可欠だが、最終的な経営判断と責任は人間が担うべきという警鐘を鳴らしている。"
   }
 ]
