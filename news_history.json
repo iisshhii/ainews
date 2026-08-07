@@ -1,5 +1,65 @@
 [
   {
+    "title": "書店に「3000冊の発注」、AI企業が古書を買いあさる？　Anthropicも数百万冊をスキャン・破棄　実態明らかに",
+    "link": "https://www.itmedia.co.jp/business/articles/2608/06/news060.html",
+    "source": "ITmedia ビジネス",
+    "published": "Thu, 06 Aug 2026 17:30:00 +0900",
+    "summary": "オランダの古書店に、3000冊の注文が入った。届け先は、中国のAI企業。AI学習用データにするとみられる。Anthropicも数百万冊をスキャンした後、破棄している。その実態が明らかになった。",
+    "image": "https://image.itmedia.co.jp/business/articles/2608/06/cover_news060.jpg",
+    "fetched_at": "2026-08-07 17:57:48",
+    "ja_summary": "・中国のAI企業がAI学習目的で古書を大量購入している実態が判明。\n・Anthropic社も数百万冊の書籍をスキャン後に破棄していたことが明らかに。\n・AI開発におけるデータ収集手法と著作物利用の是非が浮き彫りとなっている。"
+  },
+  {
+    "title": "「Googleマップに相談」日本でスタート　Geminiで複雑な質問に回答",
+    "link": "https://www.watch.impress.co.jp/docs/news/2131621.html",
+    "source": "Impress Watch",
+    "published": "",
+    "summary": "Googleは、Geminiを融合し、これまで難しかった複雑な疑問にも答えることができるGoogle マップの新機能「マップに相談」の提供を日本で順次開始した。今後数週間かけて提供される。",
+    "image": "https://www.watch.impress.co.jp/img/ipw/list/2131/621/google00.jpg",
+    "fetched_at": "2026-08-07 17:57:59",
+    "ja_summary": "・Googleマップに生成AI「Gemini」が統合され、複雑な検索が可能に。\n・行きたい場所や用途を相談すると、AIが最適なスポットを提案。\n・日本国内で順次提供が開始され、数週間以内に全ユーザーが利用可能。"
+  },
+  {
+    "title": "スペースXの前に、道を開いたのはPayPayだった——。日本の個人が「米国株IPO」を買えるようになるまで",
+    "link": "https://www.businessinsider.jp/article/2608-japan-investors-us-ipo-access/",
+    "source": "Business Insider Japan",
+    "published": "Fri, 07 Aug 2026 08:30:00 GMT",
+    "summary": "PayPay証券が、米国株IPOへ日本の個人投資家がオンラインで応募できる道を拓きました。オープンAI（OpenAI）などの大型IPO期待が高まる中、個人投資家が参加できる機会の民主化が一段と進んでいます。",
+    "image": "https://media.loom-app.com/loom/2026/08/06/4a9ec5ad-68f8-47da-a601-78151e5a68cb/original.jpg?w=1200",
+    "fetched_at": "2026-08-07 17:58:03",
+    "ja_summary": "・PayPay証券が米国株IPOへ個人が直接応募できる仕組みを実現。\n・OpenAIなどの大型案件にも個人が参加可能となり、投資の民主化が加速。\n・オンラインで手軽に米国株IPOへ投資できる新たな道が開かれた。"
+  },
+  {
+    "title": "フロンティアAIで迫られる日本企業のセキュリティ課題への対処",
+    "link": "https://japan.zdnet.com/article/35251423/",
+    "source": "ZDNET Japan",
+    "published": "",
+    "summary": "アクセンチュアは、フロンティアAIモデルの登場が日本企業のセキュリティ対策にもたらしている影響と対処方法を解説した。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35251423/\"><img src=\"https://japan.zdnet.com/storage/2026/08/07/f53c77efd233e653b936bbc5009ca5cb/t/184/138/d/accenture001.jpg\" /></a>",
+    "image": "https://japan.zdnet.com/storage/2026/08/07/f53c77efd233e653b936bbc5009ca5cb/t/184/138/d/accenture001.jpg",
+    "fetched_at": "2026-08-07 17:58:07",
+    "ja_summary": "・高度な「フロンティアAI」の普及により、日本企業は新たなセキュリティ対策を迫られている。\n・アクセンチュアが、AI活用に伴うリスクへの具体的な対処方法を解説した。\n・技術進化に合わせた、企業ごとのセキュリティ体制の見直しが急務となっている。"
+  },
+  {
+    "title": "AIコーディングの次。コードレビューと理解負荷を解消して組織の開発生産性を高める",
+    "link": "https://speakerdeck.com/moongift/aikoteinkunoci-kotorehiyutoli-jie-fu-he-wojie-xiao-sitezu-zhi-nokai-fa-sheng-chan-xing-wogao-meru",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-08-07T04:46:15-04:00",
+    "summary": "第1回 AI駆動開発勉強会 札幌支部\nhttps://aid.connpass.com/event/399546/\n\nの発表資料です。",
+    "image": "https://files.speakerdeck.com/presentations/b1c870362b954fb081cc9d2151de2706/preview_slide_0.jpg?40233909",
+    "fetched_at": "2026-08-07 17:58:13",
+    "ja_summary": "・AIによるコード生成後の「レビュー負荷」や「理解の難しさ」が組織の課題となっている。\n・コードレビューと理解コストを解消するための具体的なアプローチと手法を解説。\n・AI駆動開発を導入しつつ、開発組織全体の生産性を最大化する知見を共有する。"
+  },
+  {
+    "title": "モノリス Rails でも日中に  rails db:migrate を走らせたい！ / Daytime rails db:migrate on Monolithic Rails!",
+    "link": "https://speakerdeck.com/euglena1215/daytime-rails-db-migrate-on-monolithic-rails",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-08-06T06:38:12-04:00",
+    "summary": "Omotesando.rb #124 × Roppongi.rb #45 の発表資料です。\nhttps://roppongirb.connpass.com/event/400169/\n\nスライドで紹介した記事はこちら\nhttps://tech.timee.co.jp/entry/2026/07/09/100000",
+    "image": "https://files.speakerdeck.com/presentations/c9a0da3741154719b5e05c3f509ab7b7/preview_slide_0.jpg?40226950",
+    "fetched_at": "2026-08-07 17:58:13",
+    "ja_summary": "・巨大なRailsアプリでも、デプロイやサービス停止なしで安全にデータベースのマイグレーションを実行する手法を解説。\n・ロック競合や長時間処理を防ぐための具体的な実装パターンや、ベストプラクティスを紹介。\n・運用中のサービス環境下において、ダウンタイムを発生させずに効率的に開発を行うための技術的知見を共有。"
+  },
+  {
     "title": "225社2700人の開示スキル分析　AI記載はわずか8社、「全マル取締役」は29人 (Business Intelligence)",
     "link": "https://business.nikkei.com/atcl/gen/19/00869/080400016/",
     "source": "日経ビジネス 最新",
@@ -938,65 +998,5 @@
     "image": "https://assets.st-note.com/production/uploads/images/297913777/rectangle_large_type_2_0ae9785f1695914b669feb8efbbb5c92.png?width=800",
     "fetched_at": "2026-08-06 22:17:39",
     "ja_summary": "OpenAIとWork Louderがコラボしたキーボード「Codex Micro」の製品紹介および導入手順をまとめたガイドです。\n詳細な仕様やセットアップ方法は、提示された公式サイトおよび解説記事から確認できます。"
-  },
-  {
-    "title": "政府AIを被災自治体に提供 利点は",
-    "link": "https://news.yahoo.co.jp/pickup/6590639?source=rss",
-    "source": "Yahoo!ニュース IT・科学",
-    "published": "Wed, 05 Aug 2026 12:55:06 GMT",
-    "summary": "",
-    "image": "https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/ishitanimasaki/02683382/title-1785853749066.jpeg?exp=10800",
-    "fetched_at": "2026-08-06 22:17:43",
-    "ja_summary": "・政府が被災自治体へAIシステムを無償提供し、事務作業を迅速化する\n・罹災証明書の発行や避難所運営などの負担を大幅に軽減\n・人手不足の自治体をサポートし、効率的な復旧・復興を後押しする"
-  },
-  {
-    "title": "DESIGN.md を置くと、どこまで「いい感じ」になるのか — 74件を測って確かめた",
-    "link": "https://zenn.dev/ait/articles/google-design-md-measured",
-    "source": "Zenn Trends",
-    "published": "Wed, 05 Aug 2026 18:49:06 GMT",
-    "summary": "AI に UI を作らせると、毎回ちょっとずつ違うものが出てきます。\n「モダンで、クリーンで、信頼感のある感じで」と頼む。悪くないものが出る。翌日また頼む。また悪くないものが出る。でも昨日のとは違う。\nGoogle Labs が公開した DESIGN.md は、この「毎回違う」を止めるためのファイル形式です。デザインの意図を1ファイルに書いて、AI に毎回読ませます。\n実際に導入して、どこまで効くのかを測りました。結論から書きます。\n\n この記事の内容\n\n\n\n\n\n\n\n\n\n効くところと効かないところ\n先に結論\n\n\nそもそも何のファイルなのか\n出自と、Google 自身の説明\n\n\n実物を74...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--jMnkgfHm--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:DESIGN.md%2520%25E3%2582%2592%25E7%25BD%25AE%25E3%2581%258F%25E3%2581%25A8%25E3%2580%2581%25E3%2581%25A9%25E3%2581%2593%25E3%2581%25BE%25E3%2581%25A7%25E3%2580%258C%25E3%2581%2584%25E3%2581%2584%25E6%2584%259F%25E3%2581%2598%25E3%2580%258D%25E3%2581%25AB%25E3%2581%25AA%25E3%2582%258B%25E3%2581%25AE%25E3%2581%258B%2520%25E2%2580%2594%252074%25E4%25BB%25B6%25E3%2582%2592%25E6%25B8%25AC%25E3%2581%25A3%25E3%2581%25A6%25E7%25A2%25BA%25E3%2581%258B%25E3%2582%2581%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:aito%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2ZlNzFlNDU3YjMuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "fetched_at": "2026-08-06 22:17:50",
-    "ja_summary": "AI生成UIのブレを防ぐGoogleの設計定義ファイル「DESIGN.md」を74件検証。\n一貫したデザインを維持する効果がある一方、細かいレイアウト指示には限界がある。\nデザインの意図を明文化しAIに読み込ませることで、開発の再現性を高める手法として有効。"
-  },
-  {
-    "title": "プロンプトエンジニアリングのすすめかた",
-    "link": "https://zenn.dev/nrs/articles/70db94beb7b76d",
-    "source": "Zenn Trends",
-    "published": "Tue, 04 Aug 2026 10:40:05 GMT",
-    "summary": "!\nTAKT を Product Hunt に出します！\n8/9 に公開されます。\nProduct Hunt はローンチ当日の反応でランキングが決まり、上位に入るほど海外の開発者に届きます。\n当日、見に来て応援してもらえると嬉しいです。\nhttps://www.producthunt.com/products/takt-3?launch=takt-3\n\n最近 AI が暴走して他社に攻撃してしまった。\nそんな話が耳に入りつつ、自分とは関係ないことだと思っていました。\nそう、過去形です。\n実は私はここのところ、ずっとモデルの性能アップと格闘していました。\nモデルの精度が上がり、指示への遵守性...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--TIp9c0wG--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2597%25E3%2583%25AD%25E3%2583%25B3%25E3%2583%2597%25E3%2583%2588%25E3%2582%25A8%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%258B%25E3%2582%25A2%25E3%2583%25AA%25E3%2583%25B3%25E3%2582%25B0%25E3%2581%25AE%25E3%2581%2599%25E3%2581%2599%25E3%2582%2581%25E3%2581%258B%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:nrs%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2UzODcxZGFkYjEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "fetched_at": "2026-08-06 22:17:52",
-    "ja_summary": "・AIツール「TAKT」を8月9日にProduct Huntで世界展開するため、当日の応援を募集。\n・高精度化したAIモデルの挙動と向き合う中で、プロンプトエンジニアリングの重要性を痛感。\n・開発の背景や知見を通じ、AI制御の難しさと可能性について発信。"
-  },
-  {
-    "title": "ソフトバンクG、投資利益1.8兆円を支えた「OpenAIではない“あの半導体メーカー”」の正体",
-    "link": "https://www.itmedia.co.jp/business/articles/2608/06/news084.html",
-    "source": "ITmedia ビジネス",
-    "published": "Thu, 06 Aug 2026 19:30:00 +0900",
-    "summary": "ソフトバンクGは、第1四半期の投資利益が1兆8594億円だったと発表した。投資利益を押し上げたのは、OpenAIでもArmでもない。歴史的な経営難に陥っていた“あの半導体メーカー”だった。",
-    "image": "https://image.itmedia.co.jp/business/articles/2608/06/cover_news084.jpg",
-    "fetched_at": "2026-08-06 20:40:06",
-    "ja_summary": "・ソフトバンクGの第1四半期投資利益は1兆8594億円。\n・利益を牽引したのはArmやOpenAIではなく、経営難から復活した半導体メーカー。\n・この特定の企業の業績回復が、同グループの収益を大きく押し上げた。"
-  },
-  {
-    "title": "AI時代の「タイピング不要生活」、音声入力で手を動かさずに文字を入力 (日経クロステック)",
-    "link": "https://business.nikkei.com/atcl/gen/19/00297/073100306/",
-    "source": "日経ビジネス 最新",
-    "published": "",
-    "summary": "メールや企画書を書く、会議の内容をまとめるなど、デスクワークではパソコンの文字入力作業が不可欠になっています。AI（人工知能）の進歩による音声入力や音声対話の機能が発達が、今後「キーボードで文字を入力する」という常識を覆す可能性が浮上しています。",
-    "image": "https://business.nikkei.com/atcl/gen/19/00297/073100306/fb.jpg",
-    "fetched_at": "2026-08-06 20:40:11",
-    "ja_summary": "AIの進化により、音声入力や対話機能がキーボード操作に取って代わる可能性がある。\nデスクワークにおける「タイピング不可欠」という常識が覆されようとしている。\n今後は手を動かさずに文書作成や議事録作成ができる時代へ移行する。"
-  },
-  {
-    "title": "Software Design 2026年9月号 - いま注目のローカルLLM特集",
-    "link": "https://note.com/npaka/n/n09447d05bbfc",
-    "source": "note (npaka)",
-    "published": "Tue, 04 Aug 2026 13:47:08 +0900",
-    "summary": "<p id=\"c1031e83-d6b4-448b-85c7-78f5d3024258\" name=\"c1031e83-d6b4-448b-85c7-78f5d3024258\">『<strong>Software Design 2026年9月号</strong>』は、いま注目を集めている<strong>ローカルLLM</strong>の特集号です。</p><p id=\"0ac061fc-c0ba-4cab-9f24-f1c5ce80bff4\" name=\"0ac061fc-c0ba-4cab-9f24-f1c5ce80bff4\">最近は、「Kimi K3」「DeepSeek-V4-Flash-0731」などの高性能なローカルLLMが次々と登場し、個人PCや社内サーバでも実用的なLLMを動かせるようになってきました。</p><br /><a href=\"https://note.com/npaka/n/n09447d05bbfc\">続きをみる</a>",
-    "image": "https://assets.st-note.com/production/uploads/images/300335575/rectangle_large_type_2_c62e3dc5364eb033f13cc82d788ae7a1.jpeg?width=800",
-    "fetched_at": "2026-08-06 20:40:26",
-    "ja_summary": "『Software Design』9月号は、個人PC等で運用可能な「ローカルLLM」を特集しています。\n最新モデルの台頭により、手元の環境で実用的なAI活用が可能になっている現状を解説しています。"
   }
 ]
