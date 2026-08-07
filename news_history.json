@@ -1,5 +1,45 @@
 [
   {
+    "title": "Codex Micro の使い方",
+    "link": "https://note.com/npaka/n/n077409095a5a",
+    "source": "note (npaka)",
+    "published": "Mon, 27 Jul 2026 09:42:45 +0900",
+    "summary": "<p id=\"e0b7ad65-0427-4b33-a158-d8e0ff92f568\" name=\"e0b7ad65-0427-4b33-a158-d8e0ff92f568\">「Codex Micro」の使い方をまとめました。</p><figure id=\"4523e323-e388-4d27-8288-b8a4f1b0cf78\" name=\"4523e323-e388-4d27-8288-b8a4f1b0cf78\"><blockquote><p id=\"f12e558d-dd62-4508-b835-45a931013e7e\" name=\"f12e558d-dd62-4508-b835-45a931013e7e\"><strong>・</strong><a href=\"https://openai.com/ja-JP/supply/co-lab/work-louder/\" rel=\"nofollow noopener\" target=\"_blank\"><strong>Codex Micro</strong></a><strong><br />・</strong><a href=\"https://worklouder.cc/openai-micro-setup\" rel=\"nofollow noopener\" target=\"_blank\"><strong>Codex Micro Setup</strong></a></p></blockquote>\n<figcaption></figcaption></figure><br /><a href=\"https://note.com/npaka/n/n077409095a5a\">続きをみる</a>",
+    "image": "https://assets.st-note.com/production/uploads/images/297913777/rectangle_large_type_2_0ae9785f1695914b669feb8efbbb5c92.png?width=800",
+    "fetched_at": "2026-08-07 19:54:27",
+    "ja_summary": "・OpenAIとWork Louderがコラボしたキーボード「Codex Micro」の解説記事。\n・製品概要および初期セットアップの手順がまとめられている。\n・詳細はリンク先から確認可能。"
+  },
+  {
+    "title": "Software Supply Chain Attackからクラウド環境を守るためにできること",
+    "link": "https://speakerdeck.com/lhazy/software-supply-chain-attackkarakuraudohuan-jing-woshou-rutamenidekirukoto",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-08-07T06:15:06-04:00",
+    "summary": "現代のソフトウェア開発において、Software Supply Chain Attack (SSCA) は見過ごせない脅威です。本資料では、SSCAによって窃取されたクレデンシャルが悪用され、クラウド環境が侵害されるリスクに焦点を当てます。\n\n供給元や依存関係を完全に制御することは困難であるという前提に立ち、混入を最小限に防ぐための工夫と、万が一の侵入を想定した「環境の要塞化」という戦略的アプローチを解説します。\n\nhttps://cloudsecjp.connpass.com/event/393141/\n#cloudsecjp",
+    "image": "https://files.speakerdeck.com/presentations/c2198204110845dfbdf20dd07c2f7549/preview_slide_0.jpg?40234903",
+    "fetched_at": "2026-08-07 19:54:39",
+    "ja_summary": "ソフトウェア供給網攻撃（SSCA）によるクラウド侵害のリスクに対し、侵入を前提とした対策が重要です。\n開発プロセスの混入対策とあわせて、侵入されても被害を最小化する「環境の要塞化」が戦略の鍵となります。\n本資料では、制御困難な依存関係を考慮した、現実的な防衛アプローチを解説します。"
+  },
+  {
+    "title": "【ClaudeCode】コスト発生要因から考えるトークン消費最適化術【トークン】",
+    "link": "https://qiita.com/Nana_777/items/1766dd6bbd308222f71b",
+    "source": "Qiita (Popular)",
+    "published": "2026-07-28T06:07:03+09:00",
+    "summary": "## はじめに\n\nClaude Codeをはじめとする AI コーディングエージェントを使っていると、「トークン消費を減らすには？」というTipsは世の中にたくさん転がっています。「CLAUDE.mdを短くしよう」「`/clear`しよう」「サブエージェントを使おう」。どれも間違いではないのですが、Tipsを闇雲に集めるだけだと、\n\n- なぜそれが効くのか分からないまま導入してしまう\n- 逆効果に",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYxOTI5NDklMkYxYmVjZGE4YTRmMWRiOWU5OTQyZDljOGMwYjZkZDA3NjkwMTM2NjgwJTJGbGFyZ2UucG5nJTNGMTc0MTQ4MzQxMD9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9MDZlM2QxY2EzNTVhN2Y4N2M2ZTQxY2RlYzdmN2M0ODI%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYxZTIwZGI1ZTdlNDA3ZWFlN2I5NzBlYzk5OTg4MGRjOGMzY2MwZjY0JTJGb3JpZ2luYWwuanBnJTNGMTY2NzI3NDk2Mz9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz04OTI0NDcwMDk1MDMyZjUxYmZlNzE3ZjVkOGUzYmE3ZA%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D0db13b4aef231a19bc684897cf15021a?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJTkwQ2xhdWRlQ29kZSVFMyU4MCU5MSVFMyU4MiVCMyVFMyU4MiVCOSVFMyU4MyU4OCVFNyU5OSVCQSVFNyU5NCU5RiVFOCVBNiU4MSVFNSU5QiVBMCVFMyU4MSU4QiVFMyU4MiU4OSVFOCU4MCU4MyVFMyU4MSU4OCVFMyU4MiU4QiVFMyU4MyU4OCVFMyU4MyVCQyVFMyU4MiVBRiVFMyU4MyVCMyVFNiVCNiU4OCVFOCVCMiVCQiVFNiU5QyU4MCVFOSU4MSVBOSVFNSU4QyU5NiVFOCVBMSU5MyVFMyU4MCU5MCVFMyU4MyU4OCVFMyU4MyVCQyVFMyU4MiVBRiVFMyU4MyVCMyVFMyU4MCU5MSZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTE2MjI1NDQ5NTg0ZGJjZjNmZTBkZDk5OWQ3ZDIzYjk4&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBOYW5hXzc3NyZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTg1YzQ4MzUyMmVkMGVhNmYxYjhkZjU5MjVjYzhiNjQz&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=S0RESeOCouOCuOODo-OCpOODq-mWi-eZuuOCu-ODs-OCv-ODvOagquW8j-S8muekvg&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=41fdb4144ad4e61884d3e57aa869ad9f",
+    "fetched_at": "2026-08-07 19:54:42",
+    "ja_summary": "AIコーディングエージェントのトークン消費を抑えるには、単なるTipsの暗記ではなく、コスト発生の仕組みを理解することが不可欠。\n場当たり的な対策を避け、プロンプトの設計やエージェントの運用を構造的に見直すことが最適化の鍵。\n根拠に基づいたアプローチを学ぶことで、コストを抑制しつつ効率的な開発環境を維持できる。"
+  },
+  {
+    "title": "個人開発に活かせる、動画生成AIで需要を確かめてから作成するという発想",
+    "link": "https://qiita.com/sumomoo/items/700e37b3240717217b37",
+    "source": "Qiita (Popular)",
+    "published": "2026-07-22T17:16:40+09:00",
+    "summary": "![動画生成AI需要確認_サムネ_圧縮.jpg](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/4138952/eb09e7e4-18e4-4aef-b684-9c3a77ba0550.jpeg)\n\n\nはじめまして。株式会社PRUMでエンジニアをしている、すもも🍑です\n日々、プログラミング学習や実務の中で、つまずきやすいポイ",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0MTM4OTUyJTJGY2EyODE2OTgwNjA4ZGZjZDljYTZmYjJmZThjMDg1Y2MwYzIzZWYyMCUyRnhfbGFyZ2UucG5nJTNGMTc3MzM4Mzk0MT9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9ZTJmZjY2YzM4OGFmZDhkMGFhNWJjMGJmZjFlYjRjOGU%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYzMzEyZmE3ZDk1NjJkYTc1ZTFmOGE1ZmQxODljN2UzN2FlNzZhMjc0JTJGb3JpZ2luYWwuanBnJTNGMTc1NzU2OTIyMz9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz02ZjkzZjY0NGI1ZDk0MjNmMjMxMDhjOGEzZjllZDE0Mw%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D3085d9881a1f2f75f9ab7d8ee8a1bfc5?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUU1JTgwJThCJUU0JUJBJUJBJUU5JTk2JThCJUU3JTk5JUJBJUUzJTgxJUFCJUU2JUI0JUJCJUUzJTgxJThCJUUzJTgxJTlCJUUzJTgyJThCJUUzJTgwJTgxJUU1JThCJTk1JUU3JTk0JUJCJUU3JTk0JTlGJUU2JTg4JTkwQUklRTMlODElQTclRTklOUMlODAlRTglQTYlODElRTMlODIlOTIlRTclQTIlQkElRTMlODElOEIlRTMlODIlODElRTMlODElQTYlRTMlODElOEIlRTMlODIlODklRTQlQkQlOUMlRTYlODglOTAlRTMlODElOTklRTMlODIlOEIlRTMlODElQTglRTMlODElODQlRTMlODElODYlRTclOTklQkElRTYlODMlQjMmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1kMzhlMWJiMDNhYTZlMjZkZDBjMjBkNjUzZTMwYmRiMA&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBzdW1vbW9vJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9NzAzMjU0OTZhNzA0NmEwZGQ4OWZkNGM1YjdlNjRlOGE&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=5qCq5byP5Lya56S-UFJVTQ&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=f53bc01a4eed53d13e619ccedd43776e",
+    "fetched_at": "2026-08-07 19:54:43",
+    "ja_summary": "・動画生成AIを活用し、本制作の前にSNS等で需要を検証することで、個人開発の失敗リスクを低減できる。\n・ユーザーの反応が良い企画のみを製品化・本格制作することで、開発リソースの無駄を省く。\n・「先に作ってから売る」のではなく「需要を確認してから作る」という効率的な開発フローの提案。"
+  },
+  {
     "title": "ソフトバンクG、投資利益1.8兆円を支えた「OpenAIではない“あの半導体メーカー”」の正体",
     "link": "https://www.itmedia.co.jp/business/articles/2608/06/news084.html",
     "source": "ITmedia ビジネス",
@@ -958,45 +998,5 @@
     "image": "https://business.nikkei.com/atcl/NBD/19/00121/00367/fb.jpg",
     "fetched_at": "2026-08-07 00:40:36",
     "ja_summary": "AI活用が進む中、経営の意思決定にAIを導入する動きが加速している。\nしかし、ANAHD片野坂会長は「優秀なAIであっても自身の分身として託すことはない」と指摘。\n効率化や変革には不可欠だが、最終的な経営判断と責任は人間が担うべきという警鐘を鳴らしている。"
-  },
-  {
-    "title": "「優れた答え」より「正しい問い」が企業の力に　AI時代のリフレーミング経営 (グローバルインテリジェンス)",
-    "link": "https://business.nikkei.com/atcl/NBD/19/00150/073100157/",
-    "source": "日経ビジネス 最新",
-    "published": "",
-    "summary": "生成AIが誰にでも発想力を与える時代が到来し、アイデアはもはや希少資源ではなくなった。企業の競争力を左右するのは「優れた答え」ではなく、問題を捉え直す「正しい問い」にある。",
-    "image": "https://business.nikkei.com/atcl/NBD/19/00150/073100157/fb.jpg",
-    "fetched_at": "2026-08-07 00:40:37",
-    "ja_summary": "・生成AIの普及により、アイデア（優れた答え）の価値は相対的に低下した。\n・企業の競争力の源泉は、問題を再定義する「正しい問い」を立てる力へ移行している。\n・AI時代においては、課題の本質を見抜く「リフレーミング」のスキルこそが不可欠である。"
-  },
-  {
-    "title": "Mariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer",
-    "link": "https://www.anthropic.com/news/tino-cuellar",
-    "source": "Anthropic (News)",
-    "published": "Tue, 04 Aug 2026 00:00:00 +0000",
-    "summary": "Mariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer",
-    "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
-    "fetched_at": "2026-08-07 00:41:03",
-    "ja_summary": "・元カリフォルニア州最高裁判事のTino Cuéllar氏が、AI企業Anthropicの最高グローバル問題責任者（CGAO）に就任。\n・同氏はAIの安全性や倫理、政策対応を主導し、グローバルな規制環境への適応を強化する役割を担う。"
-  },
-  {
-    "title": "その“隠したつもり”が命取り ── 自前と平文をやめて「正解」に委ねる",
-    "link": "https://speakerdeck.com/kuroneko13/sono-yin-sitatumori-gaming-qu-ri-zi-qian-toping-wen-woyamete-zheng-jie-niwei-neru",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-08-05T11:18:14-04:00",
-    "summary": "「MD5 + 固定ソルト」で保存したパスワードは、逆引きサービスに入れた瞬間に平文へ戻ります。`.env` にベタ書きした APP_KEY や AWS キーは、あとで `git rm --cached` しても履歴に残り続けます。守り方も置き場所も、\"隠したつもり\"が命取りになります。\n\n社内エンジニア向けセキュリティ勉強会（全6回）の第4回です。暗号・データ保護・シークレット管理という広いテーマを「秘密には守り方（どう保管するか）と置き場所（どこに置くか）の両方が要る」という2枚看板で束ね、共通の敗因＝自前実装と平文、共通の正解＝検証済みのフレームワーク／マネージドサービスに委ねる、という一本の思想に収束させます。Laravel 13.x と FuelPHP 1.x／PHP 標準の両方で、危険なコードと安全なコードを並べます。\n\n疑似デモは2つ。md5(\"password\") のハッシュ値を逆引きに投げて一瞬で平文に戻るところ（\"複雑そう\"な P@ssw0rd も同様）。そして .env をコミットしてから削除しても、`git show <過去コミット>:.env` に平文の鍵がそのまま残るところ。だから対策は「削除」ではなく「ローテーション」だ、という結論まで持っていきます。\n\n扱うトピック\n- 前提整理：ハッシュ（一方向・照合向け）と暗号（可逆・鍵で戻せる）は別物。「パスワードを暗号化」も「データをハッシュ」も誤り\n- パスワードの守り方：MD5/SHA1 が保存に向かない理由（速い＝総当たり向き／ソルト無しはレインボーテーブルで一括／衝突既知）、ソルト・ストレッチング（work factor）・専用アルゴリズムの3つの武器、OWASP 第一推奨の Argon2id と bcrypt、Laravel の Hash::make / check / needsRehash、PHP 標準の password_hash / verify / needs_rehash\n- 可逆データの守り方：Laravel Crypt（AES-256-CBC + MAC）と APP_KEY による Cookie・セッションの暗号化、そして APP_KEY が漏れれば暗号は全部無効になるという急所\n- 秘密の置き場所：.env は .gitignore ＋ 共有は変数名だけの .env.example、Git の不変履歴、AWS Secrets Manager / Parameter Store への集約と使い分け、IAM 最小権限（特定 ARN に限定）、鍵ローテーション\n\n持ち帰る3つの結論\n1. パスワードは Hash::make に委ね、MD5 で保存しない\n2. 可逆データは Crypt で暗号化し、APP_KEY を守る\n3. 秘密はマネージドに置き、最小権限 ＋ ローテーション\n\nレガシー保守（FuelPHP 1.x）でも「明日からできる」棚卸しと設定確認まで示します（自前ハッシュの grep、.env の履歴確認、本番の鍵を1つマネージドへ）。Appendix には Argon2id/bcrypt の推奨パラメータ、Secrets Manager と Parameter Store の詳細比較、git 履歴から秘密を除去する手順も付けています。\n\n想定読者：「平文じゃないから安全」と思っていた\"ちょっと前の自分\"。\n分類：OWASP A02:2021 Cryptographic Failures、CWE-327/328（脆弱な暗号・ハッシュ）、CWE-259/798（資格情報のハードコード）、CWE-312（機密情報の平文保存）",
-    "image": "https://files.speakerdeck.com/presentations/b93df366a936454aaa488c47b3aa14e6/preview_slide_0.jpg?40216182",
-    "fetched_at": "2026-08-07 00:41:07",
-    "ja_summary": "・パスワードや鍵の自前実装は脆弱性の温床であり、MD5等の低強度なハッシュや平文での管理は厳禁。\n・強固なハッシュ関数（Argon2id等）やマネージドサービスを標準利用し、自前でアルゴリズムを組まない。\n・機密情報はGit等に含めず、ローテーションや最小権限管理が可能な外部サービスへ集約させる。"
-  },
-  {
-    "title": "Fluid Detected",
-    "link": "https://speakerdeck.com/s2b/fluid-detected",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-08-03T13:44:18-04:00",
-    "summary": "Next Gen Templating in TYPO3 14\n\nTYPO3 14 introduces important new features in Fluid that are relevant for both integrators and frontend developers. Combined with modern frontend tooling, they can transform how we approach templating in TYPO3 projects.\n\nThis talk brings together new ViewHelpers, Fluid Components, and Vite, showing how these pieces fit into a more streamlined and maintainable frontend workflow. As a result, TYPO3 becomes easier to approach for frontend developers by using familiar concepts from modern frontend stacks.\n\n#t3dd #t3dd26 #typo3 #fluid",
-    "image": "https://files.speakerdeck.com/presentations/6f78663e1b89417f8b33b70da47e1f03/preview_slide_0.jpg?40226144",
-    "fetched_at": "2026-08-07 00:41:07",
-    "ja_summary": "・TYPO3 14では、新機能「Fluid Components」や新ViewHelperによりテンプレート構築が大幅に効率化される。\n・Viteなどのモダンなフロントエンドツールと連携し、開発ワークフローがよりメンテナンスしやすく進化。\n・使い慣れたモダンスタックの概念を取り入れることで、フロントエンド開発者がTYPO3を導入しやすくなる。"
   }
 ]
