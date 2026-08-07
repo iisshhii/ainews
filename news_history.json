@@ -1,5 +1,65 @@
 [
   {
+    "title": "OpenAIが開発中のスマートスピーカーはリング型、価格300～400ドルになるとのうわさ",
+    "link": "https://www.techno-edge.net/article/2026/08/07/5371.html",
+    "source": "TechnoEdge",
+    "published": "Fri, 07 Aug 2026 08:15:02 +0900",
+    "summary": "OpenAIが元アップルのデザイナー、ジョナサン・アイブ氏と共同開発しているAI搭載ハードウェアは、「基本的にディスプレイを持たないスマートスピーカー」と言える製品になる模様です。",
+    "image": "https://www.techno-edge.net/imgs/rss/33409.jpg",
+    "fetched_at": "2026-08-07 22:47:50",
+    "ja_summary": "・OpenAIが元Appleのジョナサン・アイブ氏とAI搭載のリング型スマートスピーカーを開発中。\n・画面を持たない設計で、価格は300〜400ドル程度になる見込み。\n・OpenAIがハードウェア市場へ本格参入する初の主要製品として注目されている。"
+  },
+  {
+    "title": "ChatGPT、FreeおよびGoプランのテキストチャット制限を撤廃。「GPT-5.6 Luna」を標準モデルに採用",
+    "link": "https://www.techno-edge.net/article/2026/08/07/5370.html",
+    "source": "TechnoEdge",
+    "published": "Fri, 07 Aug 2026 07:00:03 +0900",
+    "summary": "OpenAIは2026年8月6日、ChatGPTのFreeプランおよびGoプランユーザーを対象に、テキストベースのチャットに設けていた利用制限を撤廃すると発表しました。",
+    "image": "https://www.techno-edge.net/imgs/rss/33407.jpg",
+    "fetched_at": "2026-08-07 22:47:50",
+    "ja_summary": "・ChatGPTのFreeおよびGoプランで、テキストチャットの利用制限が撤廃\n・新モデル「GPT-5.6 Luna」が標準採用\n・OpenAIが2026年8月6日に発表"
+  },
+  {
+    "title": "Anthropic、独自のAIチップ設計チーム構築のための人材を募集中",
+    "link": "https://www.techno-edge.net/article/2026/08/06/5367.html",
+    "source": "TechnoEdge",
+    "published": "Thu, 06 Aug 2026 06:30:03 +0900",
+    "summary": "Anthropicは、自社技術による高速かつ効率的なカスタムAIチップの開発を目指し、ハードウェアとAIモデルを共同設計するチームを構築するための人材を募集しています。",
+    "image": "https://www.techno-edge.net/imgs/rss/33382.jpg",
+    "fetched_at": "2026-08-07 22:47:50",
+    "ja_summary": "・AnthropicがAIモデルに最適化された独自のカスタムチップ開発に着手\n・ハードウェアとAIモデルを共同設計する専門チームを新設\n・自社技術によるAI処理の高速化と効率化を目指し人材募集を開始"
+  },
+  {
+    "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
+    "link": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+    "source": "OpenAI",
+    "published": "Thu, 06 Aug 2026 10:00:00 GMT",
+    "summary": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/5ufNl1zzui8XrAogWs5j89/13fdcb619e5f1e31a3efd34f425477ac/Art_Card_16x9__1_.png?w=1600&amp;h=900&amp;fit=fill",
+    "fetched_at": "2026-08-07 22:47:51",
+    "ja_summary": "・高性能モデル「GPT-5.6 Sol」の精度と一貫性が向上\n・無料ユーザーも「GPT-5.6 Luna」が無制限で利用可能に\n・全ユーザー向けに最新モデルのアクセス権を拡大"
+  },
+  {
+    "title": "Working with the American Psychological Association on youth mental health and AI",
+    "link": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
+    "source": "OpenAI",
+    "published": "Thu, 06 Aug 2026 06:00:00 GMT",
+    "summary": "OpenAI and the American Psychological Association advance evidence-based guidance, resources, and safeguards for responsible AI use and youth mental health.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/6CQ3mqxKiApPHF2wTXSybs/5e0f83d5d5817dbac9b7e7f440e692ed/openai-and-apa-advance-responsible-ai-for-youth-16_9.png?w=1600&amp;h=900&amp;fit=fill",
+    "fetched_at": "2026-08-07 22:47:51",
+    "ja_summary": "OpenAIとアメリカ心理学会が提携し、AI利用が若者のメンタルヘルスに与える影響を調査。\n科学的根拠に基づいたガイドラインや安全対策の策定を共同で進める。\nAIの健全な普及に向け、若者にとって安全なAI環境の構築を目指す。"
+  },
+  {
+    "title": "CLAUDE.md を厚くしても意味がなかった話",
+    "link": "https://qiita.com/jqit_suwa/items/2dee3e3d53080c3676a0",
+    "source": "Qiita (Popular)",
+    "published": "2026-08-03T09:56:25+09:00",
+    "summary": "**36.2%。**\n\nこれ、何の数字だと思いますか。\n\nAIエージェントに「このルールを守って作業して」と指示書を渡したとき、**実際にちゃんと守れた割合**です。しかも、これが**一番マシだったモデルのスコア**。ほとんどのモデルは25%を下回りました。\n\n2026年7月28日に arXiv に上がった論文の結果です。読んだとき、正直「うわ、やっぱりか」と思いました。\n\n---\n\n## そのフ",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0NDMwNjExJTJGYTRlNGFiZDZjNWNkZmM5NzkzMTk2ZmUwZDFjZjYyMGY1ZWYxMTY5NCUyRnhfbGFyZ2UucG5nJTNGMTc4NTI4OTU5Nj9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NGE5ZmNiZmE4OTM5NWU1MWY1N2FiYjJkYzI1ZTFmZDQ%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYyMDc3NzA2NTMzODkzMmUyMWVjMjk3MjI5ZDVkZmI5NDk5MWI5YzFhJTJGb3JpZ2luYWwuanBnJTNGMTc2OTAwMDk3MD9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz1lYjc1ZTQzMzAzYTdlNTkzNDQ4Yjc4NDZiMjljYTgxZA%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D237198914e54e0e7e727d16c4cfb7823?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9Q0xBVURFLm1kJTIwJUUzJTgyJTkyJUU1JThFJTlBJUUzJTgxJThGJUUzJTgxJTk3JUUzJTgxJUE2JUUzJTgyJTgyJUU2JTg0JThGJUU1JTkxJUIzJUUzJTgxJThDJUUzJTgxJUFBJUUzJTgxJThCJUUzJTgxJUEzJUUzJTgxJTlGJUU4JUE5JUIxJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9NjhhMTEwYzQyZDk3NWI0MjM1OGUzMTcxMjI4MWZhODc&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBqcWl0X3N1d2EmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz0wYWE2OTJkMmQwMzE0Yzg2ZDIzMGMyOWU5Njg2ZGUyMg&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=5qCq5byP5Lya56S-SlFJVA&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=9e45de4e0d88141f81b67a295827dc79",
+    "fetched_at": "2026-08-07 22:47:58",
+    "ja_summary": "AIエージェントに指示書（CLAUDE.md等）を渡しても、ルールを遵守できる割合は最大でも36.2%にとどまり、大半は25%未満という低い結果が論文で示された。\n詳細なルールを記述しても期待通りの制御は難しく、AIへの過信は禁物である。"
+  },
+  {
     "title": "日本精工・市井社長が語るNTNとの経営統合「ベアリングは成熟から進化へ」 (編集長インタビュー)",
     "link": "https://business.nikkei.com/atcl/NBD/19/00119/00346/",
     "source": "日経ビジネス 最新",
@@ -938,65 +998,5 @@
     "image": "https://media.loom-app.com/loom/2026/08/05/6752923a-d525-498a-9651-3a4124b80768/original.jpg?w=1200",
     "fetched_at": "2026-08-07 09:36:07",
     "ja_summary": "・モルガン・スタンレーはAIの将来を3つのシナリオで予測。\n・どのシナリオでもエヌビディアと大手クラウド事業者が最大の勝者となる。\n・AI基盤を支えるハードとインフラの提供者が、市場を独占的に支配する構造。"
-  },
-  {
-    "title": "AIレースに勝つために最高のモデルは必要ないことを、アマゾンが証明しつつある",
-    "link": "https://www.businessinsider.jp/article/2608-amazon-earnings-andy-jassy-aws-win-without-top-ai-model/",
-    "source": "Business Insider Japan",
-    "published": "Thu, 06 Aug 2026 21:35:00 GMT",
-    "summary": "AI開発競争はこれまで、誰が最高のモデルを持っているかが争点でした。しかし、その状況は変わりつつあり、アマゾンはその恩恵を受けるのに絶好の立場にあります。",
-    "image": "https://media.loom-app.com/loom/2026/08/02/cc9e1b3c-4b0c-4def-8e5c-dc2b10a9390a/original.jpg?w=1200",
-    "fetched_at": "2026-08-07 09:36:07",
-    "ja_summary": "・AI競争は「最高性能のモデル」を競う段階から、実用性とビジネス適応へシフトしている。\n・アマゾンはAWSを通じて多様なモデルを利用可能な環境を整え、市場の恩恵を享受している。\n・高性能モデルそのものを持たずとも、プラットフォームとしての立ち位置で勝者になれる可能性が浮上。"
-  },
-  {
-    "title": "ピラミッドからオベリスク型へ…ClaudeとChatGPTが変える法律実務の新しいカタチ",
-    "link": "https://www.businessinsider.jp/article/202608-lawyer-office-pyramid-ai/",
-    "source": "Business Insider Japan",
-    "published": "Thu, 06 Aug 2026 22:30:00 GMT",
-    "summary": "クイン・エマニュエル（Quinn Emanuel）で17年間過ごした後、クリストファー・カーチャーは、AIが弁護士による迅速かつ低コストなサービスの提供を支援できるという理念のもと、自身の法律事務所を立ち上げました。",
-    "image": "https://media.loom-app.com/loom/2026/08/05/35e9c155-2a39-4150-8448-2472bb5b8619/original.jpg?w=1200",
-    "fetched_at": "2026-08-07 09:36:07",
-    "ja_summary": "・ベテラン弁護士が、AIを活用し低コストかつ迅速なリーガルサービスを提供する新事務所を設立。\n・AI導入により、従来の「ピラミッド型」の業務構造から「オベリスク型」へと実務が変革。\n・AIが弁護士を支援することで、法律業務の効率化と新たな価値提供が実現している。"
-  },
-  {
-    "title": "秋田にAIデータセンター建設へ",
-    "link": "https://news.yahoo.co.jp/pickup/6590818?source=rss",
-    "source": "Yahoo!ニュース IT・科学",
-    "published": "Thu, 06 Aug 2026 22:48:51 GMT",
-    "summary": "",
-    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/8/7/04e73cfbbc8045caff2c99e74716e3bbb59e49734fa376d90c5043674b6ca0d6.jpg",
-    "fetched_at": "2026-08-07 09:36:09",
-    "ja_summary": "秋田県にAI運用に特化した大規模なデータセンターが建設される。\n生成AIなどの普及に伴う需要増に対応し、地域の新たな産業拠点となる。\n電力供給や冷涼な気候を活かし、次世代のITインフラ整備を推進する。"
-  },
-  {
-    "title": "AI生成の脆弱性パッチの7割以上に問題あり--過信の危険性",
-    "link": "https://japan.zdnet.com/article/35251389/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "1Passwordの調査からは、期待されるセキュリティ対策へのAI導入を一歩引いて熟考すべき事実が明るみなった。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35251389/\"><img src=\"https://japan.zdnet.com/storage/2026/08/07/0bfb54dfcd32929d9c48242ea7949dd2/t/184/138/d/gettyimages-2262157542_l.jpg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2026/08/07/0bfb54dfcd32929d9c48242ea7949dd2/t/184/138/d/gettyimages-2262157542_l.jpg",
-    "fetched_at": "2026-08-07 09:36:13",
-    "ja_summary": "・AIが生成した脆弱性パッチの7割以上に不備があることが1Passwordの調査で判明。\n・AIによる自動修復を過信することには重大なセキュリティリスクが伴う。\n・セキュリティ対策へのAI導入は慎重に検討・判断すべきである。"
-  },
-  {
-    "title": "「AI主権」の前に「IT主権」の確立が不可欠--日本TCS、AI主導型テクノロジーサービス企業へ",
-    "link": "https://japan.zdnet.com/article/35251378/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "日本タタ・コンサルタンシー・サービシズ（日本TCS）は、事業戦略説明会を開催し、生成AIの急速な成熟と普及に対応した事業戦略について発表した。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35251378/\"><img src=\"https://japan.zdnet.com/storage/2026/08/06/1ee3d7c31d8294d58ad56aa2948fc357/t/184/138/d/260806_tcs_001.jpg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2026/08/06/1ee3d7c31d8294d58ad56aa2948fc357/t/184/138/d/260806_tcs_001.jpg",
-    "fetched_at": "2026-08-07 09:36:13",
-    "ja_summary": "・日本TCSが生成AI活用を見据えた新事業戦略を発表。\n・「AI主権」の実現には、足元の基盤となる「IT主権」の確立が不可欠と提言。\n・AI主導型のテクノロジーサービス企業への転換を加速させる。"
-  },
-  {
-    "title": "アドビ、「ChatGPT」内で制作が完結するプラグインを発表--「リサイズして」で自動適用",
-    "link": "https://japan.zdnet.com/article/35251369/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "アドビは、生成AIを活用して制作工程を変える「ChatGPT向けアドビプラグイン」を発表した。これにより、創作から編集までの全てを「ChatGPT」内で完結できる。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35251369/\"><img src=\"https://japan.zdnet.com/storage/2026/08/06/93c4d1338f9b1e63344630c59c8475de/t/184/138/d/260806_adobe_l.jpg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2026/08/06/93c4d1338f9b1e63344630c59c8475de/t/184/138/d/260806_adobe_l.jpg",
-    "fetched_at": "2026-08-07 09:36:13",
-    "ja_summary": "・アドビがChatGPTで画像制作・編集が完結する新プラグインを発表。\n・「リサイズして」などの指示をチャットで送るだけで自動的に画像処理が可能。\n・創作から編集までをChatGPT上の対話のみで完結できる環境を実現。"
   }
 ]
