@@ -1,5 +1,15 @@
 [
   {
+    "title": "自作BIツール × DWHで挑むデータの民主化",
+    "link": "https://zenn.dev/finatext/articles/crest-bi-dwh-data-democratization",
+    "source": "Zenn Trends",
+    "published": "Fri, 07 Aug 2026 02:00:39 GMT",
+    "summary": "はじめに\nこんにちは！株式会社ナウキャストでデータエンジニアをしている浅宮です。普段は、グループ企業の株式会社スマートプラスクレジットが提供するクレジットインフラ「Crest」向けの分析基盤(DWH)を、Snowflake 上で構築・整備しています。\nこの記事は、2026 年 5 月に行われた社内 AI コンテストに、Crest-BI×DWH という 4 名のチームで参加した体験記です。基盤を作るナウキャストメンバーと、業務システムである Crest を作るスマートプラスクレジットのエンジニアが一緒にチームを組み、「非エンジニアがDWH にGUIでクエリできる自作 BI ツール」 の...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--6CoWtp1c--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E8%2587%25AA%25E4%25BD%259CBI%25E3%2583%2584%25E3%2583%25BC%25E3%2583%25AB%2520%25C3%2597%2520DWH%25E3%2581%25A7%25E6%258C%2591%25E3%2582%2580%25E3%2583%2587%25E3%2583%25BC%25E3%2582%25BF%25E3%2581%25AE%25E6%25B0%2591%25E4%25B8%25BB%25E5%258C%2596%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:bigmegaphone%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2NjOTE1NmJhMjEuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Finatext%2520Tech%2520Blog%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUdObXl4WWN1SHZDWWwwUkxXU2NYLXh3eXRMblVMamVMSzNFV2YtWHlSNkJKQT1zOTYtYw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-08-08 21:30:00",
+    "ja_summary": "・ナウキャストとスマートプラスクレジットの合同チームが、社内AIコンテストへ参加。\n・非エンジニアがGUIでDWHのデータを扱える「自作BIツール」を開発。\n・エンジニアと業務システム担当が連携し、社内のデータ民主化に挑戦した体験記。"
+  },
+  {
     "title": "Invisible to AI? Making TYPO3 Sites Quotable by AI Search Systems",
     "link": "https://speakerdeck.com/wolfgangwagner/invisible-to-ai-making-typo3-sites-quotable-by-ai-search-systems",
     "source": "Speaker Deck (Tech)",
@@ -988,15 +998,5 @@
     "image": "https://res.cloudinary.com/zenn/image/upload/s--EFGMQoka--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E9%259D%25A2%25E7%2599%25BD%25E3%2581%258F%25E3%2581%25AA%25E3%2581%2584%25E8%2587%25AA%25E4%25BD%259C%25E3%2583%2591%25E3%2582%25BA%25E3%2583%25AB%25E3%2582%2592AI%25E3%2581%25AB8%252C000%25E5%259B%259E%25E3%2583%2597%25E3%2583%25AC%25E3%2582%25A4%25E3%2581%2595%25E3%2581%259B%25E3%2581%259F%25E3%2582%2589%25E5%258E%259F%25E5%259B%25A0%25E3%2581%258C%25E3%2582%258F%25E3%2581%258B%25E3%2581%25A3%25E3%2581%259F%25EF%25BC%2581%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:canecco%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2ZjYmIwM2VhZTQuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:xtone%2520tech%2520blog%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzg3Yzk4NDcxNDYuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
     "fetched_at": "2026-08-07 14:22:24",
     "ja_summary": "・自作パズルゲームの面白さを検証するため、AIに8,000回プレイさせてデータを分析した。\n・AIの挙動から、同じ色を重ねると盤面が詰まるという「理不尽な難易度」が面白さを阻害する原因だと特定した。\n・データに基づく客観的な分析により、ゲームデザインの改善点を見つけ出した。"
-  },
-  {
-    "title": "LLM Wikiパターンの標準化 OKF(Open Knowledge Format)",
-    "link": "https://zenn.dev/finatext/articles/2ea88e4b1c2e5b",
-    "source": "Zenn Trends",
-    "published": "Thu, 06 Aug 2026 02:00:05 GMT",
-    "summary": "Open Knowledge Format（OKF）— LLM Wikiパターンの標準化\nナウキャストで長期LLMインターンをしている北川です。LLM系のタスクのキャッチアップをする中で、最近「OKF」という技術を耳にする機会が増えました。\nOKFはまだ登場したばかりの仕様で、その概念を理解するにはRAGやLLM wikiといった周辺技術への理解が欠かせません。しかし、OKF関連の記事の多くはOKF単体の説明にとどまっており、それだけでは体系的に理解しづらいと感じています。OKFはこうした周辺技術を前提として設計された概念でもあるため、それらへの理解があって初めて実感を持って捉えられ...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--Vk6HlSkB--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:LLM%2520Wiki%25E3%2583%2591%25E3%2582%25BF%25E3%2583%25BC%25E3%2583%25B3%25E3%2581%25AE%25E6%25A8%2599%25E6%25BA%2596%25E5%258C%2596%2520OKF%2528Open%2520Knowledge%2520Format%2529%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:NemoS%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2NjOTE1NmJhMjEuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Finatext%2520Tech%2520Blog%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzQ1ZThiZDc0OTkuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "fetched_at": "2026-08-07 14:22:25",
-    "ja_summary": "LLMを用いた知識活用における新仕様「OKF（Open Knowledge Format）」の解説。\nRAGやLLM Wikiといった周辺技術を体系化し、標準化を目指す概念として注目されている。\n断片的な情報を整理し、LLM開発における知識管理の共通基盤を理解するための技術資料。"
   }
 ]
