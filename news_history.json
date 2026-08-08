@@ -1,5 +1,15 @@
 [
   {
+    "title": "LLM Wikiパターンの標準化 OKF(Open Knowledge Format)",
+    "link": "https://zenn.dev/finatext/articles/2ea88e4b1c2e5b",
+    "source": "Zenn Trends",
+    "published": "Thu, 06 Aug 2026 02:00:05 GMT",
+    "summary": "Open Knowledge Format（OKF）— LLM Wikiパターンの標準化\nナウキャストで長期LLMインターンをしている北川です。LLM系のタスクのキャッチアップをする中で、最近「OKF」という技術を耳にする機会が増えました。\nOKFはまだ登場したばかりの仕様で、その概念を理解するにはRAGやLLM wikiといった周辺技術への理解が欠かせません。しかし、OKF関連の記事の多くはOKF単体の説明にとどまっており、それだけでは体系的に理解しづらいと感じています。OKFはこうした周辺技術を前提として設計された概念でもあるため、それらへの理解があって初めて実感を持って捉えられ...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--Vk6HlSkB--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:LLM%2520Wiki%25E3%2583%2591%25E3%2582%25BF%25E3%2583%25BC%25E3%2583%25B3%25E3%2581%25AE%25E6%25A8%2599%25E6%25BA%2596%25E5%258C%2596%2520OKF%2528Open%2520Knowledge%2520Format%2529%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:NemoS%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2NjOTE1NmJhMjEuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Finatext%2520Tech%2520Blog%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzQ1ZThiZDc0OTkuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-08-08 22:27:56",
+    "ja_summary": "・LLM Wikiパターンの形式を統一する新規格「OKF（Open Knowledge Format）」が登場。\n・RAG等の周辺技術を前提とした設計であり、体系的な理解には関連知識の習得が必要。\n・断片化していたLLMのナレッジ管理を標準化し、利便性を高めることを目指す技術。"
+  },
+  {
     "title": "自作BIツール × DWHで挑むデータの民主化",
     "link": "https://zenn.dev/finatext/articles/crest-bi-dwh-data-democratization",
     "source": "Zenn Trends",
@@ -988,15 +998,5 @@
     "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Stack&amp;backgroundColor=oat",
     "fetched_at": "2026-08-07 14:22:24",
     "ja_summary": "・AI企業のAnthropicが、政策シンクタンク「Public First Action」へ新たに2,000万ドルを寄付。\n・同団体への資金提供を継続し、AI政策や社会的影響に関する調査・提言を支援する。"
-  },
-  {
-    "title": "面白くない自作パズルをAIに8,000回プレイさせたら原因がわかった！",
-    "link": "https://zenn.dev/xtone/articles/masshiro-ai-playtest",
-    "source": "Zenn Trends",
-    "published": "Thu, 06 Aug 2026 10:27:14 GMT",
-    "summary": "はじめに\nunity1week（お題「しろ」）に落ち物パズルを投稿しました。光の三原色を重ねて「白」を作るゲームです。\nhttps://unityroom.com/games/masshiro\n6列×12段の盤面に、赤・緑・青の光る玉が2〜4個のかたまりで落ちてきます。プレイヤーがやるのは落とす列を選ぶことだけで、回転はありません。\n同じマスで重なった玉は光が混ざります。赤＋緑で黄、緑＋青でシアン、赤＋青でマゼンタ。3色そろうと白になって消えます。逆に同じ色を重ねると光を失って、灰色の玉が盤面に居座ります。\n白ができると、隣り合った灰色の玉も浄化されて消えます。空いたマスに上の玉が落...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--EFGMQoka--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E9%259D%25A2%25E7%2599%25BD%25E3%2581%258F%25E3%2581%25AA%25E3%2581%2584%25E8%2587%25AA%25E4%25BD%259C%25E3%2583%2591%25E3%2582%25BA%25E3%2583%25AB%25E3%2582%2592AI%25E3%2581%25AB8%252C000%25E5%259B%259E%25E3%2583%2597%25E3%2583%25AC%25E3%2582%25A4%25E3%2581%2595%25E3%2581%259B%25E3%2581%259F%25E3%2582%2589%25E5%258E%259F%25E5%259B%25A0%25E3%2581%258C%25E3%2582%258F%25E3%2581%258B%25E3%2581%25A3%25E3%2581%259F%25EF%25BC%2581%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:canecco%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2ZjYmIwM2VhZTQuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:xtone%2520tech%2520blog%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzg3Yzk4NDcxNDYuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "fetched_at": "2026-08-07 14:22:24",
-    "ja_summary": "・自作パズルゲームの面白さを検証するため、AIに8,000回プレイさせてデータを分析した。\n・AIの挙動から、同じ色を重ねると盤面が詰まるという「理不尽な難易度」が面白さを阻害する原因だと特定した。\n・データに基づく客観的な分析により、ゲームデザインの改善点を見つけ出した。"
   }
 ]
