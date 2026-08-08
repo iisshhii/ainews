@@ -1,5 +1,45 @@
 [
   {
+    "title": "OpenAI次世代モデル「Astra」の開発を一時制限　高いサイバー能力に懸念",
+    "link": "https://www.watch.impress.co.jp/docs/news/2131759.html",
+    "source": "Impress Watch",
+    "published": "",
+    "summary": "OpenAIは7日(米国時間)、次世代モデル「Astra」について、社内評価で高い進歩を示す一方で、サイバー攻撃能力が社内の安全ガイドラインで最上位の「Critical(クリティカル)」になる可能性が否定できないと公表し、一部開発を停止。社内においても隔離されたテスト環境以外での利用を一時停止した。",
+    "image": "https://www.watch.impress.co.jp/img/ipw/list/2131/759/open1.jpg",
+    "fetched_at": "2026-08-08 14:08:29",
+    "ja_summary": "・OpenAIが次世代モデル「Astra」の開発を一部制限。\n・サイバー攻撃能力が極めて高く、安全上の懸念が生じたため。\n・隔離された環境を除き、モデルの利用を一時停止して安全性を精査。"
+  },
+  {
+    "title": "Claude Opus 5 の概要",
+    "link": "https://note.com/npaka/n/n43bce8f77785",
+    "source": "note (npaka)",
+    "published": "Sun, 26 Jul 2026 11:14:07 +0900",
+    "summary": "<p id=\"4ceb1f05-7f96-4faf-bb6e-98537aca9d99\" name=\"4ceb1f05-7f96-4faf-bb6e-98537aca9d99\">「Claude Opus 5」の概要をまとめました。</p><figure id=\"85773469-ebfb-4d2f-9214-65917db194b5\" name=\"85773469-ebfb-4d2f-9214-65917db194b5\"><blockquote><p id=\"05cbb163-f195-4de5-8502-e468cfed8bc2\" name=\"05cbb163-f195-4de5-8502-e468cfed8bc2\"><strong>・</strong><a href=\"https://www.anthropic.com/news/claude-opus-5\" rel=\"nofollow noopener\" target=\"_blank\"><strong>Introducing Claude Opus 5</strong></a></p></blockquote>\n<figcaption></figcaption></figure><br /><a href=\"https://note.com/npaka/n/n43bce8f77785\">続きをみる</a>",
+    "image": "https://assets.st-note.com/production/uploads/images/297627617/rectangle_large_type_2_8e549fcf90c95907a2cfed7cdd476ee0.png?width=800",
+    "fetched_at": "2026-08-08 14:08:35",
+    "ja_summary": "・Anthropic社がAIモデル「Claude Opus 3.5」の後継となる新モデルを発表。\n・推論能力やコーディングなどの性能がさらに向上。\n・公式情報に基づき、新機能や改善点の概要をまとめたもの。"
+  },
+  {
+    "title": "日本オラクル、エージェント型アプリケーション実現の鍵は“単一データモデル”",
+    "link": "https://japan.zdnet.com/article/35251411/",
+    "source": "ZDNET Japan",
+    "published": "",
+    "summary": "日本オラクルは、「Oracle Fusion Applications」内でエージェント型アプリケーションを構築・実行するAIネイティブのビルダーエクスペリエンスについて発表した。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35251411/\"><img src=\"https://japan.zdnet.com/storage/2026/08/07/c04f4d717d4b80b2b3133e400bdeeea1/t/184/138/d/260730_oracle_001.JPG\" /></a>",
+    "image": "https://japan.zdnet.com/storage/2026/08/07/c04f4d717d4b80b2b3133e400bdeeea1/t/184/138/d/260730_oracle_001.JPG",
+    "fetched_at": "2026-08-08 14:08:41",
+    "ja_summary": "日本オラクルが、AIが自律的に動く「エージェント型アプリ」を開発・実行できる新機能を発表。\n「単一データモデル」を活用することで、企業システム内でのスムーズなAI運用を可能にする。\n業務効率化に向けた、AIネイティブなアプリケーション構築環境を提供する。"
+  },
+  {
+    "title": "[Claude Code] AIの説明が「それっぽいだけ」で終わる問題を、Skill設計で解決した話",
+    "link": "https://zenn.dev/ncdc/articles/56d60cb79319b2",
+    "source": "Zenn Trends",
+    "published": "Fri, 07 Aug 2026 09:18:18 GMT",
+    "summary": "はじめに\n以前、新しく参画するプロジェクトのキャッチアップに、AIを使ったことがあります。\n「このリポジトリを読んで、アーキテクチャをまとめて」と気軽にお願いしたら、それらしいレポートが思ったより早く出てきました。\nただ、実際に読んでみると\n\n「ECSでバックエンドを動かしています」\n\nこれで終わりました。\nいや、それは知ってる。\n聞きたいのは「じゃあどう動いてるの？」の方です。ALBを経由しているのか、セキュリティグループはどう制限されているのか、そこが全然分からず知りたい情報に辿り着けませんでした。\n読んだ気にはなるのに、次の作業に進めるだけの具体性が一切ない。\n今回、自分用に「...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--imxf39Ro--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%255BClaude%2520Code%255D%2520AI%25E3%2581%25AE%25E8%25AA%25AC%25E6%2598%258E%25E3%2581%258C%25E3%2580%258C%25E3%2581%259D%25E3%2582%258C%25E3%2581%25A3%25E3%2581%25BD%25E3%2581%2584%25E3%2581%25A0%25E3%2581%2591%25E3%2580%258D%25E3%2581%25A7%25E7%25B5%2582%25E3%2582%258F%25E3%2582%258B%25E5%2595%258F%25E9%25A1%258C%25E3%2582%2592%25E3%2580%2581Skill%25E8%25A8%25AD%25E8%25A8%2588%25E3%2581%25A7%25E8%25A7%25A3%25E6%25B1%25BA%25E3%2581%2597%25E3%2581%259F%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E3%2582%2588%25E3%2581%25A3%25E3%2581%25A1%25E3%2582%2583%25E3%2582%2593%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzNhODZhNDA5ZDMuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:NCDC%2520%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2VjYmFjOWEzNmYuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-08-08 14:08:46",
+    "ja_summary": "・AIの回答は「それっぽいが具体性に欠ける」という課題がある。\n・AIに具体的な設計情報を引き出すため、目的に特化した「Skill設計」を導入。\n・AIの深掘り能力を高めることで、実務で使えるレベルのコード理解・解析を実現。"
+  },
+  {
     "title": "Mythos級ローカルLLMまとめ - Kimi K3・Qwen3.8-Max・GLM-5.2・DeepSeek-V4 Flash",
     "link": "https://note.com/npaka/n/n1d08ec975c9f",
     "source": "note (npaka)",
@@ -958,45 +998,5 @@
     "image": "https://www.watch.impress.co.jp/img/ipw/list/2130/880/ai.jpg",
     "fetched_at": "2026-08-07 12:37:29",
     "ja_summary": "・AI利用調査でGeminiが8割、ChatGPTが68%の利用率を記録した。\n・639件の回答から、主要な生成AIサービスの活用状況が明らかになった。"
-  },
-  {
-    "title": "太陽表面を過去最高の解像度で観測　理論予測の渦「ケルビン・ヘルムホルツ不安定性」を初確認",
-    "link": "https://japan.cnet.com/article/35251407/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "米国立科学財団（NSF）の国立太陽天文台（NSO）は8月5日（現地時間）、太陽の表面で「ケルビン・ヘルムホルツ不安定性」と呼ばれる渦巻き現象を初めて観測したと発表した。世界最大の太陽望遠鏡「ダニエル・K・イノウエ太陽望遠鏡」の観測データと、コンピューターシミュレーションを突き合わせて確認した。成果は科学誌「Nature」に掲載された。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35251407/\"><img src=\"https://japan.cnet.com/storage/2026/08/07/a52f4382f3eeb2a79e7019d354b108ba/t/184/138/d/Main-Inouye-Image-Horizontal.jpeg\" /></a>",
-    "image": "https://japan.cnet.com/storage/2026/08/07/a52f4382f3eeb2a79e7019d354b108ba/t/184/138/d/Main-Inouye-Image-Horizontal.jpeg",
-    "fetched_at": "2026-08-07 12:37:33",
-    "ja_summary": "世界最大の太陽望遠鏡を用い、太陽表面で理論上の渦「ケルビン・ヘルムホルツ不安定性」を初めて観測した。\n最新の観測データとシミュレーションを照合することで、長年の予測が実証された。\n本成果は科学誌「Nature」に掲載され、太陽の表面構造の解明に大きな一歩となる。"
-  },
-  {
-    "title": "無料版「ChatGPT」で無限の会話が可能に、新モデル「GPT‑5.6 Luna」も開放",
-    "link": "https://japan.cnet.com/article/35251396/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "OpenAIは、無料版ChatGPTでテキストチャットを無制限に利用できるようにすると発表した。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35251396/\"><img src=\"https://japan.cnet.com/storage/2026/04/15/2a6b55cebde5827ed09ad7d3fe0f68bd/t/184/138/d/gptgpt-4_1280x960.jpg\" /></a>",
-    "image": "https://japan.cnet.com/storage/2026/04/15/2a6b55cebde5827ed09ad7d3fe0f68bd/t/184/138/d/gptgpt-4_1280x960.jpg",
-    "fetched_at": "2026-08-07 12:37:33",
-    "ja_summary": "・無料版ChatGPTのテキストチャットが無制限に利用可能へ\n・新モデル「GPT-5.6 Luna」も無料ユーザーに開放\n・機能制限が大幅に緩和され、誰でも自由に最新AIを活用可能に"
-  },
-  {
-    "title": "「ここはクレイジーだ」…元Appleエンジニアのメッセージが明かす、OpenAIの職場文化とAI活用法",
-    "link": "https://www.businessinsider.jp/article/2608-apple-openai-trade-secrets-lawsuit-texts-reveal-ai/",
-    "source": "Business Insider Japan",
-    "published": "Fri, 07 Aug 2026 01:30:00 GMT",
-    "summary": "アップルが起こした営業秘密侵害訴訟に対し、オープンAIが一連のテキストメッセージを公開して反論しました。",
-    "image": "https://media.loom-app.com/loom/2026/08/04/2ed3fdef-48b8-45f6-8b97-97fb7cdca54a/original.jpg?w=1200",
-    "fetched_at": "2026-08-07 12:37:33",
-    "ja_summary": "・Appleによる営業秘密侵害訴訟に対し、OpenAIが内部メッセージを公開して反論。\n・公開されたメッセージからは、OpenAIの過熱した職場環境やAI開発の裏側が露呈。\n・両社の対立が深まる中、AI技術を巡る企業間の競争と法廷闘争が激化している。"
-  },
-  {
-    "title": "建機大手キャタピラーがS&amp;P500種の最高値更新に大役を果たした納得の理由。AI含みの二刀流は強かった",
-    "link": "https://www.businessinsider.jp/article/cutting-edge-20260807-caterpillar-stock-price-q2-earnings-ai-trade-surprise-winner/",
-    "source": "Business Insider Japan",
-    "published": "Fri, 07 Aug 2026 00:40:00 GMT",
-    "summary": "一見しただけでは、AIトレードに関連していると想像もつかない銘柄がいくつも存在していて、多くの一般投資家は、株価が前触れもなく急上昇した時にそれと気づかされるものです。",
-    "image": "https://media.loom-app.com/loom/2026/08/07/1e87e260-2ff7-4ba1-8e91-019b56afab61/original.jpg?w=1200",
-    "fetched_at": "2026-08-07 12:37:33",
-    "ja_summary": "・建設機械大手キャタピラーが好調な業績でS&P500最高値更新を牽引。\n・一見AI無関係に見える銘柄も、実態はAI活用と本業の「二刀流」で成長。\n・株価急騰の裏にはAIによる事業効率化が潜んでいるため、銘柄選定に注意が必要。"
   }
 ]
