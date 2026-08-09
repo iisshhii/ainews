@@ -1,5 +1,55 @@
 [
   {
+    "title": "「タウの法則」でTSMCに挑戦",
+    "link": "https://xtech.nikkei.com/atcl/nxt/mag/at/18/00145/00003/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "通信機器大手の中国・華為技術（ファーウェイ）がAI（人工知能）インフラの中核を担う半導体で覇権をもくろむ。これまで設計を手がけていたが新たに製造に参入し、台湾積体電路製造（TSMC）に比肩する技術の獲得を目指す。ただし米国の規制で最先端の製造装置を入手できない。独自の半導体進化論「タウの法則」を打ち出してTSMCを追いかける構想だ。成否はいかに。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/mag/at/18/00145/00003/topm.jpg?20220512",
+    "fetched_at": "2026-08-10 05:21:18",
+    "ja_summary": "・ファーウェイが独自理論「タウの法則」を掲げ、TSMCに対抗する半導体製造に参入。\n・米国の規制により最先端装置が使えない中、独自技術で生産能力の確立を目指す。\n・AI半導体の覇権を狙う同社の戦略が、技術的制約を乗り越えられるかが焦点。"
+  },
+  {
+    "title": "エヌビディアとトヨタ、AI・ソフトで協業拡大",
+    "link": "https://xtech.nikkei.com/atcl/nxt/mag/at/18/00004/00107/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "米NVIDIA（エヌビディア）はトヨタ自動車との提携を拡大したと発表した。かねて進めていた自動運転向けの車載AI（人工知能）半導体に加え、ソフトウエア開発や実験都市「Woven City（ウーブン・シティ）」（静岡県裾野市）などで協業する。自動運転やAI・ソフト開発、車両製造の効率や競争力を高める。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/mag/at/18/00004/00107/topm.jpg?20220512",
+    "fetched_at": "2026-08-10 05:21:19",
+    "ja_summary": "・エヌビディアとトヨタが提携を拡大し、自動運転向け半導体に加えAI・ソフト開発でも協力する。\n・静岡県の実験都市「ウーブン・シティ」での活用も進め、開発から製造までの効率化を図る。\n・両社の技術を融合させ、次世代の車両開発における競争力を強化する。"
+  },
+  {
+    "title": "マツダ、英セカンドマインドのAI活用し開発コスト削減　設計領域を可視化、新たな候補を見つけられる可能性も　ほか",
+    "link": "https://xtech.nikkei.com/atcl/nxt/mag/at/18/00015/00103/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "マツダは英Secondmind（セカンドマインド）のAI（人工知能）技術を活用し、車両開発の効率化を進めている。現在、要求性能を満たす設計領域をAIで探索するセカンドマインドの「DSE（Design Space Exploration）」を評価・検証しており、開発コスト削減を期待している。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/mag/at/18/00015/00103/topm.jpg?20220512",
+    "fetched_at": "2026-08-10 05:21:20",
+    "ja_summary": "・マツダが英セカンドマインド社のAI技術を導入し、車両開発の効率化に着手。\n・AIが設計領域を探索・可視化することで、最適な設計案の発見を加速させる。\n・開発プロセスの最適化により、大幅なコスト削減を目指す。"
+  },
+  {
+    "title": "マルチモーダル基盤モデルの技術展望、FRONTiaプロジェクトが目指すもの",
+    "link": "https://xtech.nikkei.com/atcl/nxt/mag/rob/18/00007/00102/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "経済産業省とNEDOは、2026年7月16日に開催されたイベントにおいて、「FRONTia（フロンティア）」プロジェクトを発表した。フィジカルAIの基盤となる国産マルチモーダル基盤モデルを開発するプロジェクトであり、言語だけでなく、画像、映像、音声、センサ情報などを統合して実世界を理解し、その場で行動できるAIを実現することを目標としている。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/mag/rob/18/00007/00102/og.jpg?20220512",
+    "fetched_at": "2026-08-10 05:21:21",
+    "ja_summary": "・経産省とNEDOが、実世界で自律的に行動できる「フィジカルAI」開発の「FRONTia」プロジェクトを開始。\n・言語・画像・音・センサなど多角的な情報を統合する、国産のマルチモーダル基盤モデルを構築。\n・AIが現場の状況をリアルタイムに理解し、実用的な作業を実行可能な技術の実現を目指す。"
+  },
+  {
+    "title": "米AI新興のアプライドがE2E、日産「ソフト開発基盤を検討中」",
+    "link": "https://xtech.nikkei.com/atcl/nxt/mag/at/18/00006/00910/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "米人工知能（AI）新興のApplied Intuition（アプライド・インテュイション）は、乗用車向けのEnd-to-End（E2E）自動運転システム「Self-Driving System（SDS）」の提供を日本で始めた。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/mag/at/18/00006/00910/topm.jpg?20220512",
+    "fetched_at": "2026-08-10 05:21:22",
+    "ja_summary": "・米アプライドが乗用車向けE2E自動運転システムを日本で提供開始\n・日産自動車が同社のソフト開発基盤の採用を検討中\n・自動運転技術の構築を支援し、国内の車両開発を加速させる狙い"
+  },
+  {
     "title": "2度の上方修正を超え、過去最高益のメルカリ　山田CEOが語るAIで会社が“劇的に変わった”1年",
     "link": "https://www.itmedia.co.jp/business/articles/2608/06/news066.html",
     "source": "ITmedia ビジネス",
@@ -948,55 +998,5 @@
     "image": "https://xtech.nikkei.com/atcl/nxt/column/18/00989/080300216/topm.jpg?20220512",
     "fetched_at": "2026-08-07 16:58:31",
     "ja_summary": "・改正個人情報保護法が成立し、AI開発等で本人同意なしにデータ活用可能な「統計特例」が導入された。\n・医療データ等の活用促進が期待される一方、運用の不透明さによる懸念の払拭が課題となっている。\n・今後の利活用に向け、プライバシー保護とデータ活用のバランスをどう整えるかが焦点となる。"
-  },
-  {
-    "title": "音楽生成AIのSuno、著作権問題を受け楽曲に「電子透かし」導入へ",
-    "link": "https://japan.cnet.com/article/35251421/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "AI楽曲生成プラットフォーム「Suno」は、楽曲が同社のツールで作られたものかどうかを、より簡単に判別できるようにする計画だ。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35251421/\"><img src=\"https://japan.cnet.com/storage/2026/08/07/d7f4ec59ad7f7a8c2411219aaf22ba47/t/184/138/d/GettyImages-2278960510_1280x960.jpg\" /></a>",
-    "image": "https://japan.cnet.com/storage/2026/08/07/d7f4ec59ad7f7a8c2411219aaf22ba47/t/184/138/d/GettyImages-2278960510_1280x960.jpg",
-    "fetched_at": "2026-08-07 16:58:39",
-    "ja_summary": "・音楽生成AI「Suno」が、自社ツールで作成された楽曲を判別するための「電子透かし」を導入。\n・著作権保護や不正利用対策を強化し、生成物の出所を明確にする狙い。"
-  },
-  {
-    "title": "Googleマップと会話しながら場所を探せる「マップに相談」--日本で提供開始",
-    "link": "https://japan.cnet.com/article/35251418/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "Googleは8月7日、Googleマップの新機能「マップに相談」の提供を日本で開始した。Geminiと連携した会話型の機能で、マップに話しかけるように質問すると、条件に合う場所や行き方を探して答えてくれる。同日から数週間かけて順次利用できるようになる。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35251418/\"><img src=\"https://japan.cnet.com/storage/2026/08/07/9a46ba287031363ba9edcb6ef882b057/t/184/138/d/Ask_Maps_hero.width-2200.format-webp.jpeg\" /></a>",
-    "image": "https://japan.cnet.com/storage/2026/08/07/9a46ba287031363ba9edcb6ef882b057/t/184/138/d/Ask_Maps_hero.width-2200.format-webp.jpeg",
-    "fetched_at": "2026-08-07 16:58:39",
-    "ja_summary": "・GoogleマップでAI「Gemini」を活用した新機能「マップに相談」の提供を日本で開始。\n・自然な会話で質問するだけで、条件に合う場所やルートをAIが提案してくれる。\n・8月7日より順次展開され、今後数週間で全ユーザーが利用可能となる。"
-  },
-  {
-    "title": "「Gemini」利用者を10倍にした首都高の泥臭いDX。背景に「9割が見ても使わない」動画研修の失敗",
-    "link": "https://www.businessinsider.jp/article/2608-shutoko-google-gemini-dx-adoption/",
-    "source": "Business Insider Japan",
-    "published": "Fri, 07 Aug 2026 06:40:00 GMT",
-    "summary": "首都高速道路では、グーグル「Gemini」の必修動画を9割超が受講したものの、業務への定着にはつながりませんでした。そこで終日の対面研修を実施し、高頻度利用者を約10倍に増やしました。",
-    "image": "https://media.loom-app.com/loom/2026/08/06/365f3871-4f8f-4181-90a3-cd9b96358ab1/original.png?w=1200",
-    "fetched_at": "2026-08-07 16:58:40",
-    "ja_summary": "・首都高が導入した「Gemini」の動画研修は、9割が受講するも業務定着に失敗。\n・「対面研修」へ切り替える泥臭い施策で、高頻度利用者を約10倍に増加させた。\n・DX推進には座学だけでなく、実務に即した伴走型のサポートが不可欠である。"
-  },
-  {
-    "title": "AIはエヌビディアを無敵にしたソフトウェアを書き換え始めている",
-    "link": "https://www.businessinsider.jp/article/2608nvidia-cuda-new-threats-ai-coding-agents/",
-    "source": "Business Insider Japan",
-    "published": "Thu, 06 Aug 2026 21:15:00 GMT",
-    "summary": "エヌビディアはCUDAで長年優位を築いてきました。しかし今は、AIソフトの進化により、スタートアップや大手がその牙城を揺るがしています。",
-    "image": "https://media.loom-app.com/loom/2026/08/04/a9ad2689-9ec4-419b-8a26-2dae0f9ad99f/original.jpg?w=1200",
-    "fetched_at": "2026-08-07 16:58:40",
-    "ja_summary": "・エヌビディアが長年独占してきたAI基盤「CUDA」の支配力が揺らいでいる。\n・AIソフト技術の進化により、競合他社や新興企業が独自の開発環境を構築中。\n・ハードウェアのみならず、ソフトウェア層でも競争が激化し、牙城が崩れ始めている。"
-  },
-  {
-    "title": "グーグル幹部退社 AI競争に危機感",
-    "link": "https://news.yahoo.co.jp/pickup/6590866?source=rss",
-    "source": "Yahoo!ニュース IT・科学",
-    "published": "Fri, 07 Aug 2026 07:16:41 GMT",
-    "summary": "",
-    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/8/7/ef0913450cec444b7d559eb9b6018e27add330071c84ce91060e403fa818c42e.jpg",
-    "fetched_at": "2026-08-07 16:58:41",
-    "ja_summary": "・グーグルのAI部門幹部らが相次いで退社し、社内の流動性が高まっている。\n・OpenAI等の台頭でAI競争が激化する中、技術流出や人材確保が課題となっている。\n・業界内での競争力維持と、抜本的な組織改革が急務となっている。"
   }
 ]
