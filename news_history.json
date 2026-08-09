@@ -1,5 +1,35 @@
 [
   {
+    "title": "ChatGPT、無料で最新の「GPT-5.6 Luna」提供",
+    "link": "https://www.watch.impress.co.jp/docs/news/2131464.html",
+    "source": "Impress Watch",
+    "published": "",
+    "summary": "OpenAIは6日(米国時間)、ChatGPTにおいて、無料ユーザー向けの「GPT-5.6 Luna」の利用拡大や、有料ユーザー向けの「GPT-5.6 Sol」の性能向上を発表した。",
+    "image": "https://www.watch.impress.co.jp/img/ipw/list/2131/464/00.jpg",
+    "fetched_at": "2026-08-09 15:26:55",
+    "ja_summary": "・OpenAIがChatGPTのモデルを更新し、無料版で最新の「GPT-5.6 Luna」が利用可能に。\n・有料版では「GPT-5.6 Sol」の性能を向上。\n・ユーザー層ごとに新モデルの提供拡大と機能強化を実施。"
+  },
+  {
+    "title": "SRE_PFE から AI ハーネスへ - タイミー新組織の挑戦から探る、AI 時代の運用とキャリアの進化",
+    "link": "https://speakerdeck.com/kazutb/sre-pfe-kara-ai-hanesuhe-taimixin-zu-zhi-notiao-zhan-karatan-ru-ai-shi-dai-noyun-yong-tokiyarianojin-hua",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-08-09T01:46:17-04:00",
+    "summary": "",
+    "image": "https://files.speakerdeck.com/presentations/bd222578714e4bfb84554888d4233c5c/preview_slide_0.jpg?40242958",
+    "fetched_at": "2026-08-09 15:27:07",
+    "ja_summary": "・タイミーがSRE・PFEチームを統合し、AI活用を推進する「AIハーネス」組織へ再編。\n・AI時代に最適化されたエンジニア組織へと進化し、運用と開発の境界を刷新。\n・技術スタックの転換と、それに伴うエンジニアのキャリア形成の新たな指針を提示。"
+  },
+  {
+    "title": "生成 AI の基礎 〜 サンプル実装で学ぶ基本原理",
+    "link": "https://speakerdeck.com/enakai00/sheng-cheng-ai-noji-chu-sanpurushi-zhuang-dexue-buji-ben-yuan-li",
+    "source": "Speaker Deck (Tech)",
+    "published": "2023-07-16T20:18:17-04:00",
+    "summary": "",
+    "image": "https://files.speakerdeck.com/presentations/f1391994fc25424fab7db20226c0b53b/preview_slide_0.jpg?40242587",
+    "fetched_at": "2026-08-09 15:27:07",
+    "ja_summary": "・生成AIの仕組みを、サンプル実装を通じて実践的に学ぶための入門ガイド。\n・AIがどのようにデータを学習し、新しいコンテンツを生成するかの基本原理を解説。\n・技術的な基礎を固め、生成AIの実用的な活用を検討したいビジネスパーソン向けの内容。"
+  },
+  {
     "title": "Claude Code で「ループエンジニアリング」を実践してみた",
     "link": "https://zenn.dev/tetsu_don/articles/e40b95dfc726ac",
     "source": "Zenn Trends",
@@ -968,35 +998,5 @@
     "image": "https://tk.ismcdn.jp/mwimgs/6/5/1200w/img_65beeddef904a6bb9d065a0e1339c4d8237076.jpg?nextgen=false",
     "fetched_at": "2026-08-07 14:21:54",
     "ja_summary": "・生成AIの普及で新規事業開発のハードルが下がり、誰でも短期間で製品を市場投入できるようになった。\n・単なる「作成」ではなく、AIを使いこなして独自の価値や差別化を図れるかが成功の分かれ目となる。\n・「サラリーマンは新規事業に向かない」という既存の常識は崩壊し、個人の実行力が問われる時代へ変化した。"
-  },
-  {
-    "title": "待望の動画生成AI「Seedance 2.5」、おじさんのダンスを美女が再現",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03711/080500009/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "最近、SNSなどで目を奪われるほど高画質な生成AI（人工知能）動画を見かけることが増えてきた。中でも目についたのが、動画生成AI「Seedance」シリーズで作られた動画だ。そこでSeedance 2.5を実際に使ってみた。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03711/080500009/topm.jpg?20220512",
-    "fetched_at": "2026-08-07 14:22:06",
-    "ja_summary": "・高画質な動画生成AI「Seedance 2.5」が登場。\n・おじさんのダンスを美女の動きに変換するなど、高い再現性を実現。\n・SNSで話題の次世代AIとして、実用的な動画生成ツールが注目されている。"
-  },
-  {
-    "title": "ついに明かされたKimi K3の全貌とインパクト、7月の注目論文",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/02801/080600038/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "論文でKimiチームの最も強調していたのは、AIモデルのパラメーターを公開するオープンウエート陣営が、ChatGPTやGemini、Claudeといったクローズド勢が優位だった「事前学習のスケーリング」について、ついにクローズド勢に肉薄した、との主張である。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/02801/080600038/topm.jpg?20220512",
-    "fetched_at": "2026-08-07 14:22:07",
-    "ja_summary": "・オープンモデル（Kimi K3）が、事前学習のスケーリングでクローズドモデルに肉薄した。\n・AIモデル開発において、公開型モデルが閉鎖型モデルの優位性を切り崩す転換点となった。\n・7月のAI界で最も注目される、技術的パラダイムシフトを示す重要論文。"
-  },
-  {
-    "title": "オムロン、NVIDIAと磨く半導体実装検査技術　AIエージェントで効率化",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11946/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "オムロンは米NVIDIA（エヌビディア）の技術を活用し、半導体パッケージ基板の検査事業を強化する。パッケージ基板の3次元（3D）検査技術と、デジタルツインやAI（人工知能）を組み合わせた技術を開発する。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11946/topm.jpg?20220512",
-    "fetched_at": "2026-08-07 14:22:08",
-    "ja_summary": "・オムロンがNVIDIAと提携し、半導体基板の検査技術を強化\n・AIエージェントやデジタルツインを活用し、製造工程を効率化\n・次世代の3D検査技術を確立し、市場競争力を高める狙い"
   }
 ]
