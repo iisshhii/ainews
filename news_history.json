@@ -1,5 +1,35 @@
 [
   {
+    "title": "Raspberry Pi 5でClaude Codeを動かす",
+    "link": "https://zenn.dev/gsy0911/articles/a4dc76f0639576",
+    "source": "Zenn Trends",
+    "published": "Sat, 08 Aug 2026 13:14:38 GMT",
+    "summary": "はじめに\n本記事ではRaspberry Pi 5 で Claude Code を常時起動し、外部から常時アクセス可能にします。低消費電力で 24 時間つけっぱなしにできる Pi 5 は、Agent の常駐場所として手頃です。母艦の Mac とは切り離された専用機なので、多少強い権限を与えても隔離された中で完結します。\nClaude Code を常駐させて外部からアクセスするだけなら、Mac でも問題なくできます。ただ、私の手元には MacBook Pro しかなく、MacBook Pro を閉じたりスリープに入ったりすると動作が不安定になってしまいます。常時起動させておける専用機が欲...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--PJUVSUF9--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Raspberry%2520Pi%25205%25E3%2581%25A7Claude%2520Code%25E3%2582%2592%25E5%258B%2595%25E3%2581%258B%25E3%2581%2599%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:gsy0911%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzVlMGRlMGE1YTcuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-08-09 21:01:23",
+    "ja_summary": "・Raspberry Pi 5をClaude Codeの常時稼働用サーバーとして活用する。\n・PCのスリープや持ち出しに左右されない安定した開発環境を低電力で構築。\n・母艦と環境を分離することで、セキュリティを保ちつつ外部からの常時アクセスを実現。"
+  },
+  {
+    "title": "経費精算アプリもExcelも捨てる。Claude Desktop（MCP）＋マネーフォワードAPIで経理を完全自動化した話",
+    "link": "https://zenn.dev/yuichirominato/articles/dc8cf3915f1c6f",
+    "source": "Zenn Trends",
+    "published": "Sat, 08 Aug 2026 02:14:37 GMT",
+    "summary": "はじめに\n業務効率化のために「便利なSaaS」や「Excelのマクロ」を導入したものの、結局データを転記したり、確認したりする「人間の手間」が残っていませんか？\n私自身、以前はマネーフォワードクラウドを中心に、経費精算アプリや売掛管理用の債務整理、その他源泉徴収などExcel（スプレッドシート）を併用する典型的なスタイルでした。しかし、Claude と MCP（Model Context Protocol） を本格的に導入してから、経理運用の前提がガラリと変わりました。\n結論から言うと、あんなに頼っていた経費精算アプリもExcelも要らなくなり、マネーフォワードの画面（UI）すらほと...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--tjQyOS2I--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E7%25B5%258C%25E8%25B2%25BB%25E7%25B2%25BE%25E7%25AE%2597%25E3%2582%25A2%25E3%2583%2597%25E3%2583%25AA%25E3%2582%2582Excel%25E3%2582%2582%25E6%258D%25A8%25E3%2581%25A6%25E3%2582%258B%25E3%2580%2582Claude%2520Desktop%25EF%25BC%2588MCP%25EF%25BC%2589%25EF%25BC%258B%25E3%2583%259E%25E3%2583%258D%25E3%2583%25BC%25E3%2583%2595%25E3%2582%25A9%25E3%2583%25AF%25E3%2583%25BC%25E3%2583%2589API%25E3%2581%25A7%25E7%25B5%258C%25E7%2590%2586%25E3%2582%2592%25E5%25AE%258C%25E5%2585%25A8%25E8%2587%25AA%25E5%258B%2595...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:YuichiroMinato%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzc1YjBmMWE0NjAuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-08-09 21:01:23",
+    "ja_summary": "・Claude DesktopとMCPを活用し、経理業務をAIで完全自動化。\n・経費精算アプリやExcelでの転記作業が不要になり、手入力の手間を排除。\n・マネーフォワードAPIと連携することで、UI画面を介さず経理処理が完結する仕組みを実現。"
+  },
+  {
+    "title": "Cloudflare Walletsは何を提供するのか",
+    "link": "https://zenn.dev/komlock_lab/articles/cloudflare-wallets-agent-payments",
+    "source": "Zenn Trends",
+    "published": "Fri, 07 Aug 2026 09:26:26 GMT",
+    "summary": "こんにちは。ブロックチェーン×AI Agentで自律経済圏を創るKomlock labでCTOをしている山口夏生（@0x_natto）です。\n2026年8月4日、Cloudflare が Cloudflare Wallets と cloudflare.pay を発表しました。\nhttps://blog.cloudflare.com/wallets/\n決済プロダクトの発表として読むと、たいして中身がありません。動くのはハンドルの予約だけで、developers.cloudflare.com/wallets/ は今日アクセスすると404が返ってきます。対応チェーンもステーブルコインの銘柄も手...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--tU1Vjj_F--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Cloudflare%2520Wallets%25E3%2581%25AF%25E4%25BD%2595%25E3%2582%2592%25E6%258F%2590%25E4%25BE%259B%25E3%2581%2599%25E3%2582%258B%25E3%2581%25AE%25E3%2581%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Natsuki%2520Yamaguchi%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzM4OTQ5NWM0ZmEuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Komlock%2520lab%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzE1MDIwNzIxNzIuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-08-09 21:01:24",
+    "ja_summary": "・Cloudflareが「Cloudflare Wallets」と「cloudflare.pay」を発表したが、現時点ではハンドル予約のみで機能は未実装。\n・決済プロダクトとしての詳細は不明瞭であり、開発者向けドキュメントも未公開の状態。\n・今後の仕様や対応チェーン等の詳細な情報公開が待たれる段階。"
+  },
+  {
     "title": "オムロン、NVIDIAと磨く半導体実装検査技術　AIエージェントで効率化",
     "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11946/",
     "source": "日経クロステック 総合",
@@ -968,35 +998,5 @@
     "image": "https://assets.st-note.com/production/uploads/images/299159224/rectangle_large_type_2_e6b6a8b0dd124008224b5d682711279b.png?width=800",
     "fetched_at": "2026-08-07 15:41:48",
     "ja_summary": "・Googleの最新AIモデル「Gemini」を活用した次世代ロボット「ER 2」が発表。\n・高度な推論・認識能力により、複雑な指示への対応やタスクの自律実行が可能。\n・従来のロボット制御をAIで刷新し、より人間に近い柔軟な動作と判断を実現。"
-  },
-  {
-    "title": "メタAIモデルも外部システム侵入",
-    "link": "https://news.yahoo.co.jp/pickup/6590734?source=rss",
-    "source": "Yahoo!ニュース IT・科学",
-    "published": "Thu, 06 Aug 2026 05:00:16 GMT",
-    "summary": "",
-    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/8/6/5e639fca552303769183c8dc70e21dc62bc994814ac6ab7cad6c5c69d9f58a73.jpg",
-    "fetched_at": "2026-08-07 15:41:51",
-    "ja_summary": "・メタ社のAIモデルがサイバー攻撃の標的となり、外部システムの不正侵入を招く脆弱性が発見された。\n・攻撃者はAIの制御を奪う手法を用い、機密情報の漏洩やシステム乗っ取りを試みる恐れがある。\n・企業はAI導入時のセキュリティ対策を強化し、悪用を防ぐための早急な監視体制の構築が求められる。"
-  },
-  {
-    "title": "Cognizant and Anthropic expand their partnership to bring Claude to enterprise clients",
-    "link": "https://www.anthropic.com/news/cognizant-anthropic",
-    "source": "Anthropic (News)",
-    "published": "Mon, 27 Jul 2026 00:00:00 +0000",
-    "summary": "Cognizant and Anthropic expand their partnership to bring Claude to enterprise clients",
-    "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
-    "fetched_at": "2026-08-07 15:41:59",
-    "ja_summary": "・IT大手CognizantとAI企業Anthropicが提携を拡大。\n・企業向けに生成AI「Claude」の導入支援を本格化させる。\n・業務効率化やDX推進を求める法人顧客へのAI実装を加速する。"
-  },
-  {
-    "title": "Ask Claude about the Anthropic Economic Index",
-    "link": "https://www.anthropic.com/news/anthropic-economic-index-connector",
-    "source": "Anthropic (News)",
-    "published": "Wed, 22 Jul 2026 00:00:00 +0000",
-    "summary": "Ask Claude about the Anthropic Economic Index",
-    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20NodeBook&amp;backgroundColor=coral",
-    "fetched_at": "2026-08-07 15:42:00",
-    "ja_summary": "Anthropicが独自の「経済指標（Anthropic Economic Index）」を公開。\nClaudeを通じて、特定の経済データやトレンドについて直接質問・分析が可能になった。\nAIを活用した最新の経済情報の収集・考察を効率化できる。"
   }
 ]
