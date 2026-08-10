@@ -1,5 +1,25 @@
 [
   {
+    "title": "マルチモーダル基盤モデルの技術展望、FRONTiaプロジェクトが目指すもの",
+    "link": "https://xtech.nikkei.com/atcl/nxt/mag/rob/18/00007/00102/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "経済産業省とNEDOは、2026年7月16日に開催されたイベントにおいて、「FRONTia（フロンティア）」プロジェクトを発表した。フィジカルAIの基盤となる国産マルチモーダル基盤モデルを開発するプロジェクトであり、言語だけでなく、画像、映像、音声、センサ情報などを統合して実世界を理解し、その場で行動できるAIを実現することを目標としている。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/mag/rob/18/00007/00102/og.jpg?20220512",
+    "fetched_at": "2026-08-11 04:13:52",
+    "ja_summary": "・経産省とNEDOが「FRONTia」プロジェクトを開始し、国産マルチモーダル基盤モデルを開発。\n・言語に加え、画像やセンサ情報など多様なデータを統合し、実世界を理解・行動するAIを目指す。\n・物理空間で機能する「フィジカルAI」の基盤構築を目的とした国家プロジェクト。"
+  },
+  {
+    "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
+    "link": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
+    "source": "OpenAI",
+    "published": "Mon, 10 Aug 2026 10:00:00 GMT",
+    "summary": "Meet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/126iXrjsNVMlUR3pgI1PbS/80445f60ec21f0b051acb893fdf5dac4/16x9_SEO.png?w=1600&amp;h=900&amp;fit=fill",
+    "fetched_at": "2026-08-11 04:14:04",
+    "ja_summary": "OpenAIがサイバーセキュリティ専用モデル「GPT-5.6-Cyber」を公開。\n脆弱性調査や攻撃検証、セキュリティテストを支援する「Daybreak Red」で利用可能。\n専門的なセキュリティ業務の効率化と高度化を実現する。"
+  },
+  {
     "title": "Gemini Robotics ER 2 の概要",
     "link": "https://note.com/npaka/n/n7910aa0ceb7f",
     "source": "note (npaka)",
@@ -978,25 +998,5 @@
     "image": "https://xtech.nikkei.com/atcl/nxt/mag/at/18/00145/00003/topm.jpg?20220512",
     "fetched_at": "2026-08-10 05:21:18",
     "ja_summary": "・ファーウェイが独自理論「タウの法則」を掲げ、TSMCに対抗する半導体製造に参入。\n・米国の規制により最先端装置が使えない中、独自技術で生産能力の確立を目指す。\n・AI半導体の覇権を狙う同社の戦略が、技術的制約を乗り越えられるかが焦点。"
-  },
-  {
-    "title": "エヌビディアとトヨタ、AI・ソフトで協業拡大",
-    "link": "https://xtech.nikkei.com/atcl/nxt/mag/at/18/00004/00107/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "米NVIDIA（エヌビディア）はトヨタ自動車との提携を拡大したと発表した。かねて進めていた自動運転向けの車載AI（人工知能）半導体に加え、ソフトウエア開発や実験都市「Woven City（ウーブン・シティ）」（静岡県裾野市）などで協業する。自動運転やAI・ソフト開発、車両製造の効率や競争力を高める。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/mag/at/18/00004/00107/topm.jpg?20220512",
-    "fetched_at": "2026-08-10 05:21:19",
-    "ja_summary": "・エヌビディアとトヨタが提携を拡大し、自動運転向け半導体に加えAI・ソフト開発でも協力する。\n・静岡県の実験都市「ウーブン・シティ」での活用も進め、開発から製造までの効率化を図る。\n・両社の技術を融合させ、次世代の車両開発における競争力を強化する。"
-  },
-  {
-    "title": "マツダ、英セカンドマインドのAI活用し開発コスト削減　設計領域を可視化、新たな候補を見つけられる可能性も　ほか",
-    "link": "https://xtech.nikkei.com/atcl/nxt/mag/at/18/00015/00103/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "マツダは英Secondmind（セカンドマインド）のAI（人工知能）技術を活用し、車両開発の効率化を進めている。現在、要求性能を満たす設計領域をAIで探索するセカンドマインドの「DSE（Design Space Exploration）」を評価・検証しており、開発コスト削減を期待している。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/mag/at/18/00015/00103/topm.jpg?20220512",
-    "fetched_at": "2026-08-10 05:21:20",
-    "ja_summary": "・マツダが英セカンドマインド社のAI技術を導入し、車両開発の効率化に着手。\n・AIが設計領域を探索・可視化することで、最適な設計案の発見を加速させる。\n・開発プロセスの最適化により、大幅なコスト削減を目指す。"
   }
 ]
