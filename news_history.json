@@ -1,5 +1,25 @@
 [
   {
+    "title": "Claude Code で「ループエンジニアリング」を実践してみた",
+    "link": "https://zenn.dev/tetsu_don/articles/e40b95dfc726ac",
+    "source": "Zenn Trends",
+    "published": "Sat, 08 Aug 2026 04:39:01 GMT",
+    "summary": "Claude Code で「ループエンジニアリング」を実践し、Maker-Checker構成で本物のバグを検出できた話\n\n はじめに\nてつどんです。データエンジニアとして 日々業務をこなしております。\n最近、バズワードのように、いろんなところで「ループエンジニアリング」というのを聞くことが多くなりました。\nそこで、今回、ループエンジニアリングというのはなんなのか、どういう使い方をするのかというのをClaudeと壁打ちして、実践してみました。\n正直、全くよく分かってない状況なので、認識として間違ってるかもしれないですが、やったことを残してみます。\n2026年6月にGoogleのエンジニ...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--dsPI-H4B--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%2520%25E3%2581%25A7%25E3%2580%258C%25E3%2583%25AB%25E3%2583%25BC%25E3%2583%2597%25E3%2582%25A8%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%258B%25E3%2582%25A2%25E3%2583%25AA%25E3%2583%25B3%25E3%2582%25B0%25E3%2580%258D%25E3%2582%2592%25E5%25AE%259F%25E8%25B7%25B5%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%25A6%25E3%2581%25A4%25E3%2581%25A9%25E3%2582%2593%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzU2ZTE0ZTNlNGUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-08-10 19:59:55",
+    "ja_summary": "Claude Codeを活用し、AIにコード作成と検証を繰り返させる「ループエンジニアリング」を実践。\nMaker（作成）とChecker（検証）の役割をAIに分担させる構成で、実務レベルのバグ検出に成功した。\nAIを自律的な反復プロセスに組み込むことで、開発品質と効率を向上させる手法を実証した。"
+  },
+  {
+    "title": "生成 AI の基礎 〜 サンプル実装で学ぶ基本原理",
+    "link": "https://speakerdeck.com/enakai00/sheng-cheng-ai-noji-chu-sanpurushi-zhuang-dexue-buji-ben-yuan-li",
+    "source": "Speaker Deck (Tech)",
+    "published": "2023-07-16T20:18:17-04:00",
+    "summary": "",
+    "image": "https://files.speakerdeck.com/presentations/f1391994fc25424fab7db20226c0b53b/preview_slide_0.jpg?40242587",
+    "fetched_at": "2026-08-10 19:59:56",
+    "ja_summary": "生成AIの仕組みを、サンプル実装を通じて実践的に解説する内容。\nAIがテキストを生成する基本原理を、技術的な基礎から理解できる。\nビジネス活用に必要なAIの技術的リテラシーを効率的に習得可能。"
+  },
+  {
     "title": "楽天市場、検索AIが流通総額を押し上げ--購入意図を判別、年128億円の効果",
     "link": "https://japan.cnet.com/article/35251480/",
     "source": "CNET Japan",
@@ -978,25 +998,5 @@
     "image": "https://xtech.nikkei.com/atcl/nxt/column/18/02801/080600038/topm.jpg?20220512",
     "fetched_at": "2026-08-09 16:30:37",
     "ja_summary": "・「Kimi K3」の登場で、オープンモデルが事前学習のスケーリングにおいてクローズド勢に肉薄した。\n・AIモデル開発において、パラメーター公開型が商用モデルとの性能差を劇的に縮めた点が最大の特徴。\n・7月のAI業界における重要な転換点として、技術開発の勢力図に大きなインパクトを与えている。"
-  },
-  {
-    "title": "ChatGPT、無料で最新の「GPT-5.6 Luna」提供",
-    "link": "https://www.watch.impress.co.jp/docs/news/2131464.html",
-    "source": "Impress Watch",
-    "published": "",
-    "summary": "OpenAIは6日(米国時間)、ChatGPTにおいて、無料ユーザー向けの「GPT-5.6 Luna」の利用拡大や、有料ユーザー向けの「GPT-5.6 Sol」の性能向上を発表した。",
-    "image": "https://www.watch.impress.co.jp/img/ipw/list/2131/464/00.jpg",
-    "fetched_at": "2026-08-09 15:26:55",
-    "ja_summary": "・OpenAIがChatGPTのモデルを更新し、無料版で最新の「GPT-5.6 Luna」が利用可能に。\n・有料版では「GPT-5.6 Sol」の性能を向上。\n・ユーザー層ごとに新モデルの提供拡大と機能強化を実施。"
-  },
-  {
-    "title": "SRE_PFE から AI ハーネスへ - タイミー新組織の挑戦から探る、AI 時代の運用とキャリアの進化",
-    "link": "https://speakerdeck.com/kazutb/sre-pfe-kara-ai-hanesuhe-taimixin-zu-zhi-notiao-zhan-karatan-ru-ai-shi-dai-noyun-yong-tokiyarianojin-hua",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-08-09T01:46:17-04:00",
-    "summary": "",
-    "image": "https://files.speakerdeck.com/presentations/bd222578714e4bfb84554888d4233c5c/preview_slide_0.jpg?40242958",
-    "fetched_at": "2026-08-09 15:27:07",
-    "ja_summary": "・タイミーがSRE・PFEチームを統合し、AI活用を推進する「AIハーネス」組織へ再編。\n・AI時代に最適化されたエンジニア組織へと進化し、運用と開発の境界を刷新。\n・技術スタックの転換と、それに伴うエンジニアのキャリア形成の新たな指針を提示。"
   }
 ]
