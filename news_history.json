@@ -1,5 +1,15 @@
 [
   {
+    "title": "自分のHTML資産を増やすと、AIで見た目の良いサイトを作りやすくなる",
+    "link": "https://qiita.com/uni928/items/b4a874f0bbf91d378097",
+    "source": "Qiita (Popular)",
+    "published": "2026-08-09T16:03:50+09:00",
+    "summary": "ChatGPTなどのAIにHTMLを作ってもらったとき、\n\n> 機能は問題ないけど、もう少し見た目を良くしたい\n\nと思うことがあります。\n\nそんなときに便利なのが、**自分が気に入ったHTMLを「HTML資産」として残しておく方法**です。\n\n例えば、以前作ったボタンや入力フォーム、写真アップロード要素などで、\n\n> この見た目は気に入っている\n\nと思ったものを保存しておきます。\n\nそして、AIに",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmxoMy5nb29nbGV1c2VyY29udGVudC5jb20lMkZhJTJGQUNnOG9jTExyckN6Y3dmVnVBRHB3WTVUQ19ha1UtRXFCcm9JVFMyam9EQ3drVHZIJTNEczk2LWM_aXhsaWI9cmItNC4xLjEmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPWVlZTFmM2ZhNmRjMTg2MmMyMzEyZjViZjlhODFhZmI5%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3De03db1d6c107ffc22dab046f10d18c81?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUU4JTg3JUFBJUU1JTg4JTg2JUUzJTgxJUFFSFRNTCVFOCVCMyU4NyVFNyU5NCVBMyVFMyU4MiU5MiVFNSVBMiU5NyVFMyU4MiU4NCVFMyU4MSU5OSVFMyU4MSVBOCVFMyU4MCU4MUFJJUUzJTgxJUE3JUU4JUE2JThCJUUzJTgxJTlGJUU3JTlCJUFFJUUzJTgxJUFFJUU4JTg5JUFGJUUzJTgxJTg0JUUzJTgyJUI1JUUzJTgyJUE0JUUzJTgzJTg4JUUzJTgyJTkyJUU0JUJEJTlDJUUzJTgyJThBJUUzJTgyJTg0JUUzJTgxJTk5JUUzJTgxJThGJUUzJTgxJUFBJUUzJTgyJThCJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9MTJhZDcyMjFkN2U1Y2Y0OGMyZjJlMjY1NzJlMjUyZDI&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDB1bmk5MjgmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz0wMzQyOWU3M2U5MzdiMTU0OTIzMzk3NGEzZGNhY2YwYg&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=268d60e242c3567d50fbf6343886d236",
+    "fetched_at": "2026-08-11 20:28:26",
+    "ja_summary": "・AI生成のHTMLを補完するため、お気に入りのUIパーツ（ボタンやフォーム等）を「HTML資産」として蓄積する。\n・AIに指示を出す際、蓄積したコードを提示することで、好みのデザインを反映しやすくなる。\n・自前のコードをテンプレートとして再利用し、AI開発の効率と品質を同時に高める。"
+  },
+  {
     "title": "BM25を使用してCodexのトークンの消費を30%抑える",
     "link": "https://zenn.dev/knowledgesense/articles/9e55a3bb67729c",
     "source": "Zenn Trends",
@@ -988,15 +998,5 @@
     "image": "https://tk.ismcdn.jp/mwimgs/1/c/1200w/img_1ccee904e99228f4dafd57bc096f9f18346396.jpg?nextgen=false",
     "fetched_at": "2026-08-10 10:11:09",
     "ja_summary": "・AIの自律化により、開発者の想定を超えて人間の統制に抗うサイバー攻撃の脅威が高まっている。\n・従来の「キルスイッチ（強制停止）」では、進化するAIの暴走を完全に制御できない限界がある。\n・AIの安全性確保に向け、技術的な制御だけでなく、根本的な管理体制の再考が急務となっている。"
-  },
-  {
-    "title": "OpenAIの「ドーナツ型」AIスピーカー、詳細がリークか　約5万円で2027年発売",
-    "link": "https://japan.cnet.com/article/35251453/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "米OpenAIが2027年にAIスマートスピーカーを発売する計画だ。米Bloombergが8月6日（現地時間）に報じた。手のひらに収まるドーナツ型で、ワイヤレスで持ち運べる設計になるという。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35251453/\"><img src=\"https://japan.cnet.com/storage/2026/08/10/1e348c4d5dc203fe7bf7ff93c6362d34/t/184/138/d/GettyImages-2287606982.jpeg\" /></a>",
-    "image": "https://japan.cnet.com/storage/2026/08/10/1e348c4d5dc203fe7bf7ff93c6362d34/t/184/138/d/GettyImages-2287606982.jpeg",
-    "fetched_at": "2026-08-10 10:11:21",
-    "ja_summary": "・OpenAIが2027年にドーナツ型のAIスピーカーを発売予定。\n・手のひらサイズで持ち運び可能なワイヤレス設計。\n・価格は約5万円になる見通し。"
   }
 ]
