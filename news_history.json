@@ -1,5 +1,55 @@
 [
   {
+    "title": "テスラ「テラファブ」計画の衝撃",
+    "link": "https://xtech.nikkei.com/atcl/nxt/mag/at/18/00012/00227/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "AI（人工知能）エージェントの爆発的普及に伴い、最先端の推論用AI半導体を製造するファウンドリー（半導体受託製造会社）の生産能力が逼迫している。最大手の台湾積体電路製造（TSMC）に注文が殺到する中、米Tesla（テスラ）は米Intel（インテル）と組み、自社製造に活路を見いだす。韓国Samsung Electronics（サムスン電子）を活用する動きも広がる。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/mag/at/18/00012/00227/topm.jpg?20220512",
+    "fetched_at": "2026-08-11 14:40:28",
+    "ja_summary": "・AI向け半導体の世界的な供給不足を受け、テスラが自社製造へ舵を切る。\n・TSMCへの依存を避けるため、インテルやサムスンと連携し生産能力を確保する。\n・AI需要の急増を背景に、主要テック企業による半導体調達の囲い込みが激化している。"
+  },
+  {
+    "title": "Codex Micro の使い方",
+    "link": "https://note.com/npaka/n/n077409095a5a",
+    "source": "note (npaka)",
+    "published": "Mon, 27 Jul 2026 09:42:45 +0900",
+    "summary": "<p id=\"e0b7ad65-0427-4b33-a158-d8e0ff92f568\" name=\"e0b7ad65-0427-4b33-a158-d8e0ff92f568\">「Codex Micro」の使い方をまとめました。</p><figure id=\"4523e323-e388-4d27-8288-b8a4f1b0cf78\" name=\"4523e323-e388-4d27-8288-b8a4f1b0cf78\"><blockquote><p id=\"f12e558d-dd62-4508-b835-45a931013e7e\" name=\"f12e558d-dd62-4508-b835-45a931013e7e\"><strong>・</strong><a href=\"https://openai.com/ja-JP/supply/co-lab/work-louder/\" rel=\"nofollow noopener\" target=\"_blank\"><strong>Codex Micro</strong></a><strong><br />・</strong><a href=\"https://worklouder.cc/openai-micro-setup\" rel=\"nofollow noopener\" target=\"_blank\"><strong>Codex Micro Setup</strong></a></p></blockquote>\n<figcaption></figcaption></figure><br /><a href=\"https://note.com/npaka/n/n077409095a5a\">続きをみる</a>",
+    "image": "https://assets.st-note.com/production/uploads/images/297913777/rectangle_large_type_2_0ae9785f1695914b669feb8efbbb5c92.png?width=800",
+    "fetched_at": "2026-08-11 14:40:35",
+    "ja_summary": "・「Codex Micro」の基本的な使い方とセットアップ手順をまとめたガイド記事。\n・公式サイトおよび設定詳細ページのリンクを掲載。\n・詳細はリンク先から確認可能。"
+  },
+  {
+    "title": "AI「暴走」自律的攻撃に米危機感",
+    "link": "https://news.yahoo.co.jp/pickup/6591142?source=rss",
+    "source": "Yahoo!ニュース IT・科学",
+    "published": "Sun, 09 Aug 2026 22:17:32 GMT",
+    "summary": "",
+    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/8/10/f9a97506953d223dac9468f3a3f7c161a68bd794810b55a1d2aa376bee9daee9.jpg",
+    "fetched_at": "2026-08-11 14:40:38",
+    "ja_summary": "・AIが自律的に攻撃を行う「AI暴走」のリスクに対し、米政府が深刻な危機感を抱いている。\n・AI兵器の制御不能な拡散を懸念し、国際的な規制や安全対策の強化が急務となっている。\n・軍事転用のリスクを抑えるため、開発段階からの厳格な管理が議論の焦点となっている。"
+  },
+  {
+    "title": "Mariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer",
+    "link": "https://www.anthropic.com/news/tino-cuellar",
+    "source": "Anthropic (News)",
+    "published": "Tue, 04 Aug 2026 00:00:00 +0000",
+    "summary": "Mariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer",
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+    "fetched_at": "2026-08-11 14:40:44",
+    "ja_summary": "・元カリフォルニア州最高裁判事のTino Cuéllar氏が、AI企業Anthropicの最高グローバル問題責任者（CGAO）に就任。\n・同氏は今後、AIの安全な開発に向けたガバナンス、政策、国際的な連携を主導する。\n・Anthropicは、責任あるAI開発の推進に向けた体制強化を図る。"
+  },
+  {
+    "title": "【ClaudeCode】コスト発生要因から考えるトークン消費最適化術【トークン】",
+    "link": "https://qiita.com/Nana_777/items/1766dd6bbd308222f71b",
+    "source": "Qiita (Popular)",
+    "published": "2026-07-28T06:07:03+09:00",
+    "summary": "## はじめに\n\nClaude Codeをはじめとする AI コーディングエージェントを使っていると、「トークン消費を減らすには？」というTipsは世の中にたくさん転がっています。「CLAUDE.mdを短くしよう」「`/clear`しよう」「サブエージェントを使おう」。どれも間違いではないのですが、Tipsを闇雲に集めるだけだと、\n\n- なぜそれが効くのか分からないまま導入してしまう\n- 逆効果に",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYxOTI5NDklMkYxYmVjZGE4YTRmMWRiOWU5OTQyZDljOGMwYjZkZDA3NjkwMTM2NjgwJTJGbGFyZ2UucG5nJTNGMTc0MTQ4MzQxMD9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9MDZlM2QxY2EzNTVhN2Y4N2M2ZTQxY2RlYzdmN2M0ODI%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYxZTIwZGI1ZTdlNDA3ZWFlN2I5NzBlYzk5OTg4MGRjOGMzY2MwZjY0JTJGb3JpZ2luYWwuanBnJTNGMTY2NzI3NDk2Mz9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz04OTI0NDcwMDk1MDMyZjUxYmZlNzE3ZjVkOGUzYmE3ZA%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D0db13b4aef231a19bc684897cf15021a?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJTkwQ2xhdWRlQ29kZSVFMyU4MCU5MSVFMyU4MiVCMyVFMyU4MiVCOSVFMyU4MyU4OCVFNyU5OSVCQSVFNyU5NCU5RiVFOCVBNiU4MSVFNSU5QiVBMCVFMyU4MSU4QiVFMyU4MiU4OSVFOCU4MCU4MyVFMyU4MSU4OCVFMyU4MiU4QiVFMyU4MyU4OCVFMyU4MyVCQyVFMyU4MiVBRiVFMyU4MyVCMyVFNiVCNiU4OCVFOCVCMiVCQiVFNiU5QyU4MCVFOSU4MSVBOSVFNSU4QyU5NiVFOCVBMSU5MyVFMyU4MCU5MCVFMyU4MyU4OCVFMyU4MyVCQyVFMyU4MiVBRiVFMyU4MyVCMyVFMyU4MCU5MSZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTE2MjI1NDQ5NTg0ZGJjZjNmZTBkZDk5OWQ3ZDIzYjk4&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBOYW5hXzc3NyZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTg1YzQ4MzUyMmVkMGVhNmYxYjhkZjU5MjVjYzhiNjQz&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=S0RESeOCouOCuOODo-OCpOODq-mWi-eZuuOCu-ODs-OCv-ODvOagquW8j-S8muekvg&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=41fdb4144ad4e61884d3e57aa869ad9f",
+    "fetched_at": "2026-08-11 14:40:51",
+    "ja_summary": "AIコーディングエージェントのトークン消費を抑えるには、単なるTipsの暗記ではなくコスト発生の仕組みを理解することが不可欠。\n仕組みを把握することで、場当たり的ではない最適化が可能となり、コスト増のリスクや逆効果を防げる。\n効率的な運用には、エージェントの特性に応じた適切な情報整理と管理が重要。"
+  },
+  {
     "title": "自律型AIモデルが人間の直接的な監督なしで暴走した場合､いったい誰が法的責任を負うのか | 政治・経済・投資 | 東洋経済オンライン",
     "link": "https://toyokeizai.net/articles/-/954515?utm_source=rss&utm_medium=http&utm_campaign=link_back",
     "source": "東洋経済オンライン",
@@ -948,55 +998,5 @@
     "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0MDkzMjczJTJGZWU4NzczNWI0MTgzY2IzODRlMDA0ZDRjMDE0YTFjNDc2NmM1YzUyYSUyRmxhcmdlLnBuZyUzRjE3NDgzMzAzOTI_aXhsaWI9cmItNC4xLjEmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPTEyMTAwMjNiOTVlZjE5Y2U1ZDc5MTFkYWZmNTU0NWRi%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkZlYzNmNjg0OWI0ZjZlMTQ0YzgwYzQ1MGIyYjc4MDFhOTM0N2VkZDgyJTJGb3JpZ2luYWwuanBnJTNGMTc0Nzk1NDYyMT9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz1lZmI4ZDk1MWQwYzkwZWNkYzE1YWQyOTMwMTEwYzJlNw%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D5c137c7149cccd97a3a493249e439841?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgxJTlBJUUzJTgxJUJDJUUzJTgyJTg5QUklRTklQTclODYlRTUlOEIlOTUlRTklOTYlOEIlRTclOTklQkElRTMlODAlODElRTclODglODYlRTglQUElOTUmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz04MzdmOGJiMTg5NDRiZjIyNDRjMzQ3OTdmMjc4ZTljNA&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBub2J1MzQmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz01Y2MzNDRjMzUzYzk1YWIxNTU4ZTc1MDNlZTY4MWJlZQ&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=S2Fv44Ko44Oz44K444OL44Ki44Kz44Of44Ol44OL44OG44KjzrI&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=83f0a32a251cbadbd3d8b676a190d5e7",
     "fetched_at": "2026-08-10 08:22:30",
     "ja_summary": "・AI開発の自動化・効率化を追求する「ずぼらAI駆動開発」を提唱。\n・高度な設計や環境構築の手間を省き、AI活用でいかに楽をするかに重点を置く。\n・複雑な作業を極力減らし、AIを最大限に頼る効率的な開発スタイルを模索。"
-  },
-  {
-    "title": "CLAUDE.md を厚くしても意味がなかった話",
-    "link": "https://qiita.com/jqit_suwa/items/2dee3e3d53080c3676a0",
-    "source": "Qiita (Popular)",
-    "published": "2026-08-03T09:56:25+09:00",
-    "summary": "**36.2%。**\n\nこれ、何の数字だと思いますか。\n\nAIエージェントに「このルールを守って作業して」と指示書を渡したとき、**実際にちゃんと守れた割合**です。しかも、これが**一番マシだったモデルのスコア**。ほとんどのモデルは25%を下回りました。\n\n2026年7月28日に arXiv に上がった論文の結果です。読んだとき、正直「うわ、やっぱりか」と思いました。\n\n---\n\n## そのフ",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0NDMwNjExJTJGYTRlNGFiZDZjNWNkZmM5NzkzMTk2ZmUwZDFjZjYyMGY1ZWYxMTY5NCUyRnhfbGFyZ2UucG5nJTNGMTc4NTI4OTU5Nj9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NGE5ZmNiZmE4OTM5NWU1MWY1N2FiYjJkYzI1ZTFmZDQ%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYyMDc3NzA2NTMzODkzMmUyMWVjMjk3MjI5ZDVkZmI5NDk5MWI5YzFhJTJGb3JpZ2luYWwuanBnJTNGMTc2OTAwMDk3MD9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz1lYjc1ZTQzMzAzYTdlNTkzNDQ4Yjc4NDZiMjljYTgxZA%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D237198914e54e0e7e727d16c4cfb7823?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9Q0xBVURFLm1kJTIwJUUzJTgyJTkyJUU1JThFJTlBJUUzJTgxJThGJUUzJTgxJTk3JUUzJTgxJUE2JUUzJTgyJTgyJUU2JTg0JThGJUU1JTkxJUIzJUUzJTgxJThDJUUzJTgxJUFBJUUzJTgxJThCJUUzJTgxJUEzJUUzJTgxJTlGJUU4JUE5JUIxJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9NjhhMTEwYzQyZDk3NWI0MjM1OGUzMTcxMjI4MWZhODc&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBqcWl0X3N1d2EmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz0wYWE2OTJkMmQwMzE0Yzg2ZDIzMGMyOWU5Njg2ZGUyMg&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=5qCq5byP5Lya56S-SlFJVA&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=9e45de4e0d88141f81b67a295827dc79",
-    "fetched_at": "2026-08-10 08:22:31",
-    "ja_summary": "AIへの指示書（CLAUDE.md等）をどれだけ詳細に記述しても、指示を守れる確率は最大でも36.2%にとどまり、大半は25%以下であることが最新の研究で判明した。"
-  },
-  {
-    "title": "中国AI「DeepSeek」、設立3年・残業ゼロで「ChatGPTのライバル」にのし上がった若き創業者の手腕",
-    "link": "https://www.itmedia.co.jp/business/articles/2608/10/news027.html",
-    "source": "ITmedia ビジネス",
-    "published": "Mon, 10 Aug 2026 07:00:00 +0900",
-    "summary": "中国のAI大手DeepSeekは、残業ゼロで「ChatGPTのライバル」と言わしめる立場にまで登り詰めた。若き創業者の驚くべき経営手腕とは。",
-    "image": "https://image.itmedia.co.jp/business/articles/2608/10/cover_news027.jpg",
-    "fetched_at": "2026-08-10 07:47:28",
-    "ja_summary": "・中国のAI新興企業「DeepSeek」が、設立3年でChatGPTの強力なライバルに急成長。\n・「残業ゼロ」という異例の環境下で、若き創業者が驚異的な経営手腕を発揮。\n・効率的な組織運営と技術開発により、AI業界の勢力図を塗り替えつつある。"
-  },
-  {
-    "title": "「かなりイケてる」KDDI社長が推すAI　auショップ全店の業務負荷を大幅低減",
-    "link": "https://japan.cnet.com/article/35251431/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "auショップのスタッフはもう分厚いマニュアルと格闘しなくていい。KDDIが導入したAIエージェントが複雑な問い合わせに30秒で回答し、人材定着の妨げとなってきた「情報習得の重荷」を軽減しつつある。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35251431/\"><img src=\"https://japan.cnet.com/storage/2026/08/07/817462dc19b80d18856e91abd9bafc5e/t/184/138/d/b01_top.jpg\" /></a>",
-    "image": "https://japan.cnet.com/storage/2026/08/07/817462dc19b80d18856e91abd9bafc5e/t/184/138/d/b01_top.jpg",
-    "fetched_at": "2026-08-10 07:47:41",
-    "ja_summary": "KDDIがauショップ全店にAIエージェントを導入し、複雑な問い合わせへの即時回答を実現。\nスタッフの業務負担となっていたマニュアル確認の手間を省き、生産性を大幅に向上させた。\n現場の負担軽減により、人材定着率の改善とサービス品質の向上を目指す。"
-  },
-  {
-    "title": "OpenAI、アップルの企業秘密訴訟は実質的にAI人材獲得競争での敗北が理由だと主張",
-    "link": "https://www.businessinsider.jp/article/2608-openai-apple-lawsuit-trade-secrets-ai-talent-war/",
-    "source": "Business Insider Japan",
-    "published": "Sun, 09 Aug 2026 22:00:00 GMT",
-    "summary": "OpenAIは、裁判所へ新たに提出した準備書面の中で、AI人材獲得競争で激しく苦戦するアップルの失態に対する容赦ない皮肉をさりげなく盛り込んだ。\n大手テック企業と新興AIスタートアップ各社は、世界最高峰のトップエンジニアの獲得をめぐって熾烈極まる引き抜き合戦を繰り広げている。\nアップルは2026年7月、ChatGPTの開発元であるOpenAIを企業秘密の不法窃盗・不正流用で提訴する大型訴訟を起こしていた。",
-    "image": "https://media.loom-app.com/loom/2026/08/09/d39bda93-a5b4-4910-8839-233e5c527fce/original.jpg?w=1200",
-    "fetched_at": "2026-08-10 07:47:41",
-    "ja_summary": "・AppleがOpenAIを企業秘密の窃盗で提訴した裁判で、OpenAIは「実質的な敗因はAI人材の獲得競争におけるAppleの失態である」と反論した。\n・両社を含むテック業界では、トップエンジニアを巡る熾烈な引き抜き合戦が繰り広げられている。\n・OpenAIは訴訟を、Apple側の競争力不足を棚に上げたものだと皮肉交じりに主張している。"
-  },
-  {
-    "title": "私はAIデータセンターを建設している。それらを人目につかない存在にしたいと思っている",
-    "link": "https://www.businessinsider.jp/article/2608-nvidia-ai-data-center-designer-engineer-more-efficient-less-visible/",
-    "source": "Business Insider Japan",
-    "published": "Sun, 09 Aug 2026 22:15:00 GMT",
-    "summary": "ショーン・ジェームズ氏は、エヌビディアのエネルギーシステム担当ディスティングイッシュト・エンジニアであり、AIデータセンターへの電力供給・エネルギーインフラを専門としている。\nジェームズ氏は米海軍の潜水艦電気技師としてそのキャリアをスタートさせ、その後マイクロソフトで25年間にわたりデータセンターの設計・構築に従事してきた。\n同氏は、AIデータセンターが目立ちすぎることなく風景の一部として溶け込み、社会にとってごく当たり前の「空気のような存在」へと昇華していく必要があると訴えている。",
-    "image": "https://media.loom-app.com/loom/2026/08/09/bdc7236a-0231-4faf-aa4f-400a62ddab72/original.jpg?w=1200",
-    "fetched_at": "2026-08-10 07:47:41",
-    "ja_summary": "・元MSのインフラ専門家が、AIデータセンターのあり方を提言。\n・建物が目立たず風景に溶け込む設計を追求すべきと主張。\n・社会に不可欠な「空気のような存在」としての定着を目指す。"
   }
 ]
