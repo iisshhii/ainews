@@ -1,5 +1,45 @@
 [
   {
+    "title": "｢宿題しなさい！｣｢あとでやる！｣の親子バトルがなくなった…夏休みこそ試したい《AI家庭教師》驚きの使い方 | ライフ | 東洋経済オンライン",
+    "link": "https://toyokeizai.net/articles/-/952920?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+    "source": "東洋経済オンライン",
+    "published": "Tue, 11 Aug 2026 09:00:00 +0900",
+    "summary": "子どもの宿題に口出しするたび､親子ゲンカに発展してしまう―そんな悩みを劇的に変えるカギがAIにありました。親子の宿題バトル､その終止符の打ち方とは？",
+    "image": "https://tk.ismcdn.jp/mwimgs/3/8/1200w/img_387cedd1c4480128cead55079eeb7ba7254468.jpg?nextgen=false",
+    "fetched_at": "2026-08-11 10:04:12",
+    "ja_summary": "・「宿題をしなさい」という親の口出しが親子ゲンカの原因になりがち。\n・AIを家庭教師として活用することで、親の指示なしに子どもが自発的に学習する仕組みが作れる。\n・AIを「叱る役」から「相談相手」に変えることで、家庭内のストレスを軽減できる。"
+  },
+  {
+    "title": "被災男性のAI加工画像が拡散 憤り",
+    "link": "https://news.yahoo.co.jp/pickup/6591286?source=rss",
+    "source": "Yahoo!ニュース IT・科学",
+    "published": "Tue, 11 Aug 2026 00:37:19 GMT",
+    "summary": "",
+    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/8/11/3cf9c21bede83350935e9192112f1c22febcf1edbf1c3e0931c2558b7ceb976b.jpg",
+    "fetched_at": "2026-08-11 10:04:30",
+    "ja_summary": "・被災地の男性を写したAI加工画像がSNSで拡散され、本人や周囲が強い憤りを示している。\n・事実と異なる偽画像が意図せず広まることで、被災者の尊厳が傷つけられる深刻な問題となっている。\n・生成AIによる不適切な画像利用への倫理的責任と、ネット上の情報の真偽を見極める姿勢が問われている。"
+  },
+  {
+    "title": "Agent Plugins 1.0.0 は何を標準化し、何を標準化しなかったのか",
+    "link": "https://zenn.dev/aws_japan/articles/agent-plugins-1-0-deep-dive",
+    "source": "Zenn Trends",
+    "published": "Mon, 10 Aug 2026 09:06:44 GMT",
+    "summary": "はじめに\nこんにちは、 AWS Japan でソリューションアーキテクトをしているいなりくです。\n2026 年 8 月 6 日、AI エージェントの拡張機能をパッケージングするオープン標準 Agent Plugins Specification 1.0.0 が公開されました。 OpenAI が AWS・Cursor・GitHub・VS Code・Vercel とともに策定したもので、発表ポストは公開から 1 日で 110 万ビューを超えたと報じられています。 OpenAI からは紹介動画も公開されています。\nhttps://x.com/OpenAIDevs/status/208539...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--6kz1WsmK--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Agent%2520Plugins%25201.0.0%2520%25E3%2581%25AF%25E4%25BD%2595%25E3%2582%2592%25E6%25A8%2599%25E6%25BA%2596%25E5%258C%2596%25E3%2581%2597%25E3%2580%2581%25E4%25BD%2595%25E3%2582%2592%25E6%25A8%2599%25E6%25BA%2596%25E5%258C%2596%25E3%2581%2597%25E3%2581%25AA%25E3%2581%258B%25E3%2581%25A3%25E3%2581%259F%25E3%2581%25AE%25E3%2581%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E3%2581%2584%25E3%2581%25AA%25E3%2582%258A%25E3%2581%258F%2520%252F%2520Riku%2520Inada%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzZmZTY2NGI3N2IuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2582%25A2%25E3%2583%259E%25E3%2582%25BE%25E3%2583%25B3%2520%25E3%2582%25A6%25E3%2582%25A7%25E3%2583%2596%2520%25E3%2582%25B5%25E3%2583%25BC%25E3%2583%2593%25E3%2582%25B9%2520%25E3%2582%25B8%25E3%2583%25A3%25E3%2583%2591%25E3%2583%25B3%2520%2528%25E6%259C%2589%25E5%25BF%2597%2529%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jTFB2am5INFd2dWRBT2p6Tm9JUEpQR3lNYmt4eWFuVlVXbEJZT3ZmVE1DRlFlTnh6Zz1zOTYtYw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-08-11 10:04:38",
+    "ja_summary": "・OpenAIらがAIエージェントの拡張機能を統一する新規格「Agent Plugins 1.0.0」を公開した。\n・AWSやGitHubなど主要プラットフォームが策定に参画し、AIツール間の相互運用性の向上が期待される。\n・本規格は「標準化した領域」と「あえて標準化しなかった領域」が明確に定義されており、今後のAIエコシステム構築の指針となる。"
+  },
+  {
+    "title": "自分専用の仕事用デスクトップアプリを作って自分に適した情報網を作ろう",
+    "link": "https://zenn.dev/nana/articles/9d2f3c85ef3692",
+    "source": "Zenn Trends",
+    "published": "Sun, 09 Aug 2026 04:49:15 GMT",
+    "summary": "自分専用の仕事用デスクトップアプリを作る 〜ローカルに閉じた情報網のすすめ〜\n\n はじめに\n仕事で扱う情報の置き場所、みなさんはどうしているだろうか。\nドキュメントはNotion、動作確認用のクエリはメモ帳、レビュー状況はGitHub、AIへの質問はターミナルかClaude Desktop……と、情報と操作があちこちに散らばっている人は多いはず。\nそこで最近、自分のパソコンの中だけで完結する「自分専用の仕事用デスクトップアプリ」 を作るというアプローチを取っている。これがかなり快適だったので、考え方と設計のポイントを紹介したい。\n\n 課題:仕事の情報は「共有前提」にすると重くなる\n仕...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--XMV2gl40--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E8%2587%25AA%25E5%2588%2586%25E5%25B0%2582%25E7%2594%25A8%25E3%2581%25AE%25E4%25BB%2595%25E4%25BA%258B%25E7%2594%25A8%25E3%2583%2587%25E3%2582%25B9%25E3%2582%25AF%25E3%2583%2588%25E3%2583%2583%25E3%2583%2597%25E3%2582%25A2%25E3%2583%2597%25E3%2583%25AA%25E3%2582%2592%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%25A6%25E8%2587%25AA%25E5%2588%2586%25E3%2581%25AB%25E9%2581%25A9%25E3%2581%2597%25E3%2581%259F%25E6%2583%2585%25E5%25A0%25B1%25E7%25B6%25B2%25E3%2582%2592%25E4%25BD%259C%25E3%2582%258D%25E3%2581%2586%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Ugo%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2E3OGQxMTFjYmUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-08-11 10:04:39",
+    "ja_summary": "・散らばった業務ツールや情報を統合するため、自分専用のデスクトップアプリを自作する。\n・「共有」を意識せず個人環境に特化させることで、運用負荷を下げ生産性を向上させる。\n・ローカルで完結する専用環境を構築し、自分好みの快適な情報網を作ることを推奨。"
+  },
+  {
     "title": "フロンティアAIの登場により金融機関に求められている対応はどのようなものか",
     "link": "https://xtech.nikkei.com/atcl/nxt/mag/rob/18/00008/00102/",
     "source": "日経クロステック 総合",
@@ -958,45 +998,5 @@
     "image": "https://images.ctfassets.net/kftzwdyauwt9/5FS18GD9sd11U3iFcDFKSG/41b77f8496a19d63bedb99677527bd61/oai_HSPGruppe_SEO.png?w=1600&amp;h=900&amp;fit=fill",
     "fetched_at": "2026-08-10 07:02:50",
     "ja_summary": "・HSP GRUPPEがChatGPT Enterpriseを導入し、税務アドバイザリー業務を効率化。\n・AI活用により業務品質の向上と生産性の飛躍的な改善を実現。\n・創出されたリソースを顧客への高度なサービス提供へと集約。"
-  },
-  {
-    "title": "応答率90％超、年6.6万時間削減も　「コールセンター改革」事例おすすめ記事3選【無料PDF】",
-    "link": "https://www.itmedia.co.jp/business/articles/2608/10/news006.html",
-    "source": "ITmedia ビジネス",
-    "published": "Mon, 10 Aug 2026 06:13:00 +0900",
-    "summary": "コンタクトセンターでは、他分野に先がけてAI活用が進んでいる。今回はコンタクトセンターの改革に成功した3つの事例を、PDFパンフレットにまとめてご紹介。",
-    "image": "https://image.itmedia.co.jp/business/articles/2608/10/KO1635237_2607pdf_001_w190.jpg",
-    "fetched_at": "2026-08-10 06:36:12",
-    "ja_summary": "・コンタクトセンターのAI活用による改革成功事例をまとめた資料を配布。\n・応答率90％超や年間6.6万時間の業務削減など、具体的な成果を紹介。\n・業務効率化を目指す企業向けのノウハウを無料PDFで公開中。"
-  },
-  {
-    "title": "「ダウンロードして満足」から脱却　大量の“積ん読”を業務知識に変える、Gemini Notebook活用の3ステップ",
-    "link": "https://www.itmedia.co.jp/business/articles/2608/10/news013.html",
-    "source": "ITmedia ビジネス",
-    "published": "Mon, 10 Aug 2026 06:00:00 +0900",
-    "summary": "役に立ちそうな資料を取りあえずダウンロードしたものの、読まないまま貯まっています。時間をかけずに活用する方法はありますか？",
-    "image": "https://image.itmedia.co.jp/business/articles/2608/10/cover_news013.png",
-    "fetched_at": "2026-08-10 06:36:13",
-    "ja_summary": "・ダウンロードして放置しがちな資料をGeminiのNotebook機能に集約する。\n・AIに内容を要約・分析させることで、短時間で効率よく知識を抽出する。\n・必要な情報を対話形式で引き出し、業務への実践的な活用へつなげる。"
-  },
-  {
-    "title": "テスラ「テラファブ」計画の衝撃",
-    "link": "https://xtech.nikkei.com/atcl/nxt/mag/at/18/00012/00227/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "AI（人工知能）エージェントの爆発的普及に伴い、最先端の推論用AI半導体を製造するファウンドリー（半導体受託製造会社）の生産能力が逼迫している。最大手の台湾積体電路製造（TSMC）に注文が殺到する中、米Tesla（テスラ）は米Intel（インテル）と組み、自社製造に活路を見いだす。韓国Samsung Electronics（サムスン電子）を活用する動きも広がる。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/mag/at/18/00012/00227/topm.jpg?20220512",
-    "fetched_at": "2026-08-10 06:36:18",
-    "ja_summary": "・AI用半導体の需要急増でTSMCの供給能力が逼迫。\n・テスラはインテルとの提携やサムスン活用で自社製造を模索。\n・AI半導体の確保に向け、大手メーカーに頼らない調達網の再構築が加速。"
-  },
-  {
-    "title": "AIエージェントへの広告配信をめぐり、リスクと報酬をめぐる議論が高まっている",
-    "link": "https://www.businessinsider.jp/article/2608ads-ai-agents-marketing-industry-debate/",
-    "source": "Business Insider Japan",
-    "published": "Sun, 09 Aug 2026 21:15:00 GMT",
-    "summary": "人間の消費者ではなく、AIエージェントに働きかけることを意図した広告が、新たなマーケティングチャネルとして登場しつつあります。果たして、AIプラットフォーム側はこれに応じるのでしょうか。",
-    "image": "https://media.loom-app.com/loom/2026/08/07/f5eda61f-1845-4946-832e-b3d3edb27d91/original.jpg?w=1200",
-    "fetched_at": "2026-08-10 06:36:25",
-    "ja_summary": "・AIが意思決定を代行する時代、人間ではなくAIに向けた広告配信が新たな市場として浮上。\n・AIプラットフォームがこれを許容するか、リスクと収益性の観点から議論が加速している。\n・企業は従来の人間向けマーケティングに加え、AIをターゲットにした戦略的対応を迫られている。"
   }
 ]
