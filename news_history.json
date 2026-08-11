@@ -1,5 +1,15 @@
 [
   {
+    "title": "【便利】 Claude Codeの覚えておきたいスラッシュコマンドまとめ",
+    "link": "https://qiita.com/tamashiro_nobuyuki/items/573178ed3b8a6a22ebb1",
+    "source": "Qiita (Popular)",
+    "published": "2026-08-07T17:14:06+09:00",
+    "summary": "## Claude Codeの覚えておきたいスラッシュコマンドまとめ\n\nClaude Codeを使っていて「コマンド何だっけ?」となることが多かったので、よく使うスラッシュコマンドを用途別に整理しました。\n\n### 早見表\n\n| コマンド | 何をするか |\n|---|---|\n| `/compact` | 会話を要約して圧縮し、継続する |\n| `/clear` | 会話を完全にリセットする |",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmxoMy5nb29nbGV1c2VyY29udGVudC5jb20lMkZhJTJGQUNnOG9jSVpOcG9KbUxlWjJHQWFwY1BfMzJvU0tVUTVjZzl1Nnl4THVVTmRHaVlwOE5SeiUzRHM5Ni1jP2l4bGliPXJiLTQuMS4xJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz1jNDRmMzZlNjA4OWZhZGE0NjUzNTQwNWVmYjJiYjAwZg%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYwZDI2NDAxZDJiYjJhNzgxZWI4YWU4MGNmNWM2NmUxNzlhNmMzMjMzJTJGb3JpZ2luYWwuanBnJTNGMTcyNzgyODEzMz9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz1jNmJiYmFjMjgwMjVkMTk3OTdkOThiYzI1NDFkYTc1OQ%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D6ff3c4852ece3c4243bf155971aa9ba3?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJTkwJUU0JUJFJUJGJUU1JTg4JUE5JUUzJTgwJTkxJTIwQ2xhdWRlJTIwQ29kZSVFMyU4MSVBRSVFOCVBNiU5QSVFMyU4MSU4OCVFMyU4MSVBNiVFMyU4MSU4QSVFMyU4MSU4RCVFMyU4MSU5RiVFMyU4MSU4NCVFMyU4MiVCOSVFMyU4MyVBOSVFMyU4MyU4MyVFMyU4MiVCNyVFMyU4MyVBNSVFMyU4MiVCMyVFMyU4MyU5RSVFMyU4MyVCMyVFMyU4MyU4OSVFMyU4MSVCRSVFMyU4MSVBOCVFMyU4MiU4MSZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPThjOGU2Y2QyMzMwN2Q3YmViYzIzMTY3YTU4MzM2NTI2&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDB0YW1hc2hpcm9fbm9idXl1a2kmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1lMjVjZDc3ZTcxYWM0NjA2OTYyNjQxYWZlNTMwNDM3MQ&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=5qCq5byP5Lya56S-TkVYVCBURUNITk9MT0dZ&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=fcc7f86bb128f04e5e84943adc73e30f",
+    "fetched_at": "2026-08-12 04:44:19",
+    "ja_summary": "・`/compact`：会話を要約・圧縮して継続する\n・`/clear`：会話履歴を完全にリセットする\nClaude Code利用時に頻出するこれら2つのコマンドを覚えておくと便利。"
+  },
+  {
     "title": "Generative KI, Ethik und Nachhaltigkeit",
     "link": "https://speakerdeck.com/oliverklee/generative-ki-ethik-und-nachhaltigkeit",
     "source": "Speaker Deck (Tech)",
@@ -988,15 +998,5 @@
     "image": "https://www.techno-edge.net/imgs/rss/33459.png",
     "fetched_at": "2026-08-10 12:18:25",
     "ja_summary": "・モーツァルトの逸話に着想を得て、サイコロで作曲できるアプリをAI（Claude）で短時間開発。\n・AIを活用することで、プログラミング知識がなくてもアイデアを即座に形にすることが可能。\n・遊び心ある音楽制作ツールを、生成AIを用いて手軽に実現した事例。"
-  },
-  {
-    "title": "本物と偽物を混ぜた演奏も。エリック・サティ様式の自動生成アプリ「無限サティ機関」をClaude Codeで作って公開した（CloseBox）",
-    "link": "https://www.techno-edge.net/article/2026/08/08/5373.html",
-    "source": "TechnoEdge",
-    "published": "Sat, 08 Aug 2026 07:36:58 +0900",
-    "summary": "エリック・サティ様式の自動生成機関を作りました。",
-    "image": "https://www.techno-edge.net/imgs/rss/33426.png",
-    "fetched_at": "2026-08-10 12:18:25",
-    "ja_summary": "・エリック・サティ風の楽曲を自動生成するアプリ「無限サティ機関」を開発・公開。\n・Claude Codeを活用して制作され、本物とAI生成の楽曲を混ぜた演奏も可能。\n・サティの音楽スタイルを再現した自動演奏システムとして注目される。"
   }
 ]
