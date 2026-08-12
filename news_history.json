@@ -1,5 +1,25 @@
 [
   {
+    "title": "【注目記事まとめ】NEC、日立、富士通――Anthropicとの電撃的協業、その舞台裏　経営陣の狙いは？",
+    "link": "https://www.itmedia.co.jp/business/articles/2608/13/news025.html",
+    "source": "ITmedia ビジネス",
+    "published": "Thu, 13 Aug 2026 07:30:00 +0900",
+    "summary": "NEC、日立製作所、富士通が相次いでAnthropicとの協業を発表した。その舞台裏とは。経営陣の狙いとは。注目の記事をまとめてお届けする。",
+    "image": "https://image.itmedia.co.jp/business/articles/2608/13/cover_news025.jpg",
+    "fetched_at": "2026-08-13 08:40:23",
+    "ja_summary": "・NEC、日立、富士通がAI企業Anthropicとの協業を相次いで発表。\n・国内大手ITベンダーがこぞって同社と組む戦略的背景と経営陣の狙いを解説。\n・生成AI導入で先行するAnthropicの技術を活用し、国内市場での競争力を強化する狙い。"
+  },
+  {
+    "title": "AIエージェントの「Manus」、Metaから離れて独立運営に　データ移行を案内",
+    "link": "https://www.watch.impress.co.jp/docs/news/2132426.html",
+    "source": "Impress Watch",
+    "published": "",
+    "summary": "AIエージェントを展開するManusは、独立企業としての運営に戻るため、一部のユーザーに対してデータのバックアップなどを行なうよう告知した。",
+    "image": "https://www.watch.impress.co.jp/img/ipw/list/2132/426/mn1.jpg",
+    "fetched_at": "2026-08-13 08:40:32",
+    "ja_summary": "・AIエージェントの「Manus」がMetaの傘下を離れ、独立運営へと移行。\n・ユーザーに対し、サービス独立に伴うデータバックアップを推奨。\n・利用者は自身のデータ移行手続きが必要となるため注意。"
+  },
+  {
     "title": "日本発AI「Sakana Fugu」は何がすごい？　“小さなAIの群れ”で巨大AIに挑む",
     "link": "https://www.itmedia.co.jp/business/articles/2608/12/news027.html",
     "source": "ITmedia ビジネス",
@@ -978,25 +998,5 @@
     "image": "https://www.techno-edge.net/imgs/rss/33494.jpg",
     "fetched_at": "2026-08-12 07:03:13",
     "ja_summary": "・GoogleのAIアプリ「Gemini」の月間利用者が10億人を突破\n・スンダー・ピチャイCEOが公式に発表\n・ChatGPTに続き、AI市場で巨大なユーザー基盤を確立"
-  },
-  {
-    "title": "「Agent Plugins 1.0.0」発表、異なるAIエージェント間でもスキルやMCPサーバ設定が共通化へ。Microsoft、OpenAI、AWS、Googleらが支持するが、そこにAnthropicはいない（Publickey）",
-    "link": "https://www.techno-edge.net/article/2026/08/10/5378.html",
-    "source": "TechnoEdge",
-    "published": "Mon, 10 Aug 2026 12:08:11 +0900",
-    "summary": "AWS、マイクロソフト、OpenAI、Anysphere、Vercelの各社は、AIエージェントのスキルやMCPサーバの設定を、AIエージェントが異なっていても共有できる業界標準の仕様「Agent Plugins 1.0.0」を発表しました。またGoogleもAgent Pluginsへの対応を発表しています。",
-    "image": "https://www.techno-edge.net/imgs/rss/33465.png",
-    "fetched_at": "2026-08-12 07:03:13",
-    "ja_summary": "・AIエージェント間のスキルや設定を共通化する新規格「Agent Plugins 1.0.0」が発表された。\n・Microsoft、OpenAI、AWS、Googleなどが支持を表明し、業界標準化を目指す。\n・主要IT大手が名を連ねる中、Anthropicは参画しておらず今後の動向が注目される。"
-  },
-  {
-    "title": "Daybreak models are now available on AWS",
-    "link": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
-    "source": "OpenAI",
-    "published": "Tue, 11 Aug 2026 10:00:00 GMT",
-    "summary": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows.",
-    "image": "https://images.ctfassets.net/kftzwdyauwt9/6RITuNETzGy8qYTRq0ePqm/e2efee656f610e90b2b2713625aa0de1/SEO.png?w=1600&amp;h=900&amp;fit=fill",
-    "fetched_at": "2026-08-12 07:03:15",
-    "ja_summary": "・AWSの「Amazon Bedrock」でOpenAIのサイバーセキュリティ機能「Daybreak」が利用可能に。\n・企業はAWS上でOpenAIの高度なセキュリティ分析をワークフローに組み込めるようになる。\n・セキュリティ運用業務の効率化と自動化を強力にサポート。"
   }
 ]
