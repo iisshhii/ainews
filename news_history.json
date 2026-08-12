@@ -1,5 +1,55 @@
 [
   {
+    "title": "From assistance to execution: How enterprises put AI to work",
+    "link": "https://openai.com/index/how-enterprises-put-ai-to-work",
+    "source": "OpenAI",
+    "published": "Wed, 12 Aug 2026 06:00:00 GMT",
+    "summary": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/2If00wbX68BibN4DuBTlxC/32dc95f1c054f1c46a91179fef80b55c/Frame.png?w=1600&amp;h=900&amp;fit=fill",
+    "fetched_at": "2026-08-12 22:13:59",
+    "ja_summary": "・企業によるAI活用は、単なる支援から自律的な「エージェント型AI」の導入へ移行している。\n・ChatGPTやCodexを活用し、実務を自ら遂行させる動きが加速。\n・先進的な企業ほどAI導入の取り組みを本格化させ、他社との差を広げている。"
+  },
+  {
+    "title": "Mariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer",
+    "link": "https://www.anthropic.com/news/tino-cuellar",
+    "source": "Anthropic (News)",
+    "published": "Tue, 04 Aug 2026 00:00:00 +0000",
+    "summary": "Mariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer",
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+    "fetched_at": "2026-08-12 22:14:03",
+    "ja_summary": "・元カリフォルニア州最高裁判事のT・クエヤル氏がAnthropicの最高グローバル政策責任者に就任。\n・AIの安全性やガバナンス強化に向け、政策・法務領域の統括を担当。\n・グローバルな規制対応や倫理的開発の推進を目指す。"
+  },
+  {
+    "title": "ナレッジワークにおけるAI活用をベースとしたQAプロセスの最適化",
+    "link": "https://zenn.dev/knowledgework/articles/2114d46c201da3",
+    "source": "Zenn Trends",
+    "published": "Wed, 12 Aug 2026 02:50:05 GMT",
+    "summary": "はじめに\nナレッジワークのQAエンジニアのtettanです。ナレッジワークでは、マネージャーではなく、いちQAエンジニアという立場で、プロダクトのQA業務や品質施策の横断的な活動を行っています。\n2026年8月5日に開催された「QA Test Talk Vol.8」で、「ナレッジワークにおけるAI活用をベースとしたQAプロセスの最適化」というタイトルで発表させていただきました。この記事は、その内容を加筆したものです。\n久しぶりの業務直結の発表でした。今回は半年ほどかけてナレッジワークで取り組んできたQAの施策がまとまってきたので、シェアできればと思います。発表は15分で、後半はかなり...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--9dQELnrA--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%258A%25E3%2583%25AC%25E3%2583%2583%25E3%2582%25B8%25E3%2583%25AF%25E3%2583%25BC%25E3%2582%25AF%25E3%2581%25AB%25E3%2581%258A%25E3%2581%2591%25E3%2582%258BAI%25E6%25B4%25BB%25E7%2594%25A8%25E3%2582%2592%25E3%2583%2599%25E3%2583%25BC%25E3%2582%25B9%25E3%2581%25A8%25E3%2581%2597%25E3%2581%259FQA%25E3%2583%2597%25E3%2583%25AD%25E3%2582%25BB%25E3%2582%25B9%25E3%2581%25AE%25E6%259C%2580%25E9%2581%25A9%25E5%258C%2596%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:tettan%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2E4MWZhOWNhZmYuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E6%25A0%25AA%25E5%25BC%258F%25E4%25BC%259A%25E7%25A4%25BE%25E3%2583%258A%25E3%2583%25AC%25E3%2583%2583%25E3%2582%25B8%25E3%2583%25AF%25E3%2583%25BC%25E3%2582%25AF%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jTFpFSTRwaU9EY0pwTFo3bWVsRm1vMGRrZlZNbDhaX21aRkt3bzlyOGFuSGMybndVY1A9czk2LWM=%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-08-12 22:14:04",
+    "ja_summary": "・ナレッジワークのQAエンジニアが、半年かけて取り組んだAI活用によるQAプロセス最適化の施策を共有。\n・マネージャーではなく現場のエンジニア主導で、プロダクト品質向上のための横断的な改善を推進。\n・「QA Test Talk Vol.8」での発表内容をベースに、具体的な業務効率化と品質向上の取り組みを解説。"
+  },
+  {
+    "title": "Next.js BFFの認証を考察して、シンプルにする方法を考える",
+    "link": "https://zenn.dev/naofumik/articles/4fdfcbb5cf083e",
+    "source": "Zenn Trends",
+    "published": "Tue, 11 Aug 2026 14:12:33 GMT",
+    "summary": "Next.js BFFの認証をシンプルに考える\n\nNext.js BFFのAPIサーバにRuby on Railsを使用した場合、Rails側が既に認証機能を持っているケースも多い。\nその場合、Next.jsに認証やセッション管理機能を持たせるのは不要な複雑化やセキュリティの懸念を招くだけで、不要な可能性がある。\nそこで本ポストではNext.jsの役割をcookieやtokenのプロキシ(中継役)のみに制限したシンプルな認証の仕組みを紹介する。\nこれははGMOペパボやカミナシからも紹介されているものと同様であり、現場で実際に利用されているものである。\n\nNext.js SSRの認証に...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--Oc9W47TA--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Next.js%2520BFF%25E3%2581%25AE%25E8%25AA%258D%25E8%25A8%25BC%25E3%2582%2592%25E8%2580%2583%25E5%25AF%259F%25E3%2581%2597%25E3%2581%25A6%25E3%2580%2581%25E3%2582%25B7%25E3%2583%25B3%25E3%2583%2597%25E3%2583%25AB%25E3%2581%25AB%25E3%2581%2599%25E3%2582%258B%25E6%2596%25B9%25E6%25B3%2595%25E3%2582%2592%25E8%2580%2583%25E3%2581%2588%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Naofumi%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUxtNXd1M2REcDFoU0toZ2VzbmhuSl9mQmNyYU1vNnR1dHJrWUYyY3hld2JGUT1zOTYtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-08-12 22:14:05",
+    "ja_summary": "・Next.jsで認証を完結させず、バックエンド（Rails等）に任せる構成が推奨される。\n・Next.jsはCookieやTokenの中継役に徹することで、認証の複雑化や脆弱性を防ぐ。\n・大手企業でも採用されている「プロキシ型」の構成により、シンプルで堅牢な認証を実現する。"
+  },
+  {
+    "title": "【ClaudeCode】コスト発生要因から考えるトークン消費最適化術【トークン】",
+    "link": "https://qiita.com/Nana_777/items/1766dd6bbd308222f71b",
+    "source": "Qiita (Popular)",
+    "published": "2026-07-28T06:07:03+09:00",
+    "summary": "## はじめに\n\nClaude Codeをはじめとする AI コーディングエージェントを使っていると、「トークン消費を減らすには？」というTipsは世の中にたくさん転がっています。「CLAUDE.mdを短くしよう」「`/clear`しよう」「サブエージェントを使おう」。どれも間違いではないのですが、Tipsを闇雲に集めるだけだと、\n\n- なぜそれが効くのか分からないまま導入してしまう\n- 逆効果に",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYxOTI5NDklMkYxYmVjZGE4YTRmMWRiOWU5OTQyZDljOGMwYjZkZDA3NjkwMTM2NjgwJTJGbGFyZ2UucG5nJTNGMTc0MTQ4MzQxMD9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9MDZlM2QxY2EzNTVhN2Y4N2M2ZTQxY2RlYzdmN2M0ODI%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYxZTIwZGI1ZTdlNDA3ZWFlN2I5NzBlYzk5OTg4MGRjOGMzY2MwZjY0JTJGb3JpZ2luYWwuanBnJTNGMTY2NzI3NDk2Mz9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz04OTI0NDcwMDk1MDMyZjUxYmZlNzE3ZjVkOGUzYmE3ZA%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D0db13b4aef231a19bc684897cf15021a?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJTkwQ2xhdWRlQ29kZSVFMyU4MCU5MSVFMyU4MiVCMyVFMyU4MiVCOSVFMyU4MyU4OCVFNyU5OSVCQSVFNyU5NCU5RiVFOCVBNiU4MSVFNSU5QiVBMCVFMyU4MSU4QiVFMyU4MiU4OSVFOCU4MCU4MyVFMyU4MSU4OCVFMyU4MiU4QiVFMyU4MyU4OCVFMyU4MyVCQyVFMyU4MiVBRiVFMyU4MyVCMyVFNiVCNiU4OCVFOCVCMiVCQiVFNiU5QyU4MCVFOSU4MSVBOSVFNSU4QyU5NiVFOCVBMSU5MyVFMyU4MCU5MCVFMyU4MyU4OCVFMyU4MyVCQyVFMyU4MiVBRiVFMyU4MyVCMyVFMyU4MCU5MSZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTE2MjI1NDQ5NTg0ZGJjZjNmZTBkZDk5OWQ3ZDIzYjk4&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBOYW5hXzc3NyZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTg1YzQ4MzUyMmVkMGVhNmYxYjhkZjU5MjVjYzhiNjQz&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=S0RESeOCouOCuOODo-OCpOODq-mWi-eZuuOCu-ODs-OCv-ODvOagquW8j-S8muekvg&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=41fdb4144ad4e61884d3e57aa869ad9f",
+    "fetched_at": "2026-08-12 22:14:10",
+    "ja_summary": "Claude CodeなどのAIエージェントのトークン消費を抑えるには、Tipsの暗記ではなく「なぜ消費されるか」という仕組みの理解が不可欠。\n場当たり的な対応を避け、コスト発生の根本要因を把握することで、効果的かつ逆効果を防ぐ最適化が可能になる。"
+  },
+  {
     "title": "Software Design 2026年9月号 - いま注目のローカルLLM特集",
     "link": "https://note.com/npaka/n/n09447d05bbfc",
     "source": "note (npaka)",
@@ -948,55 +998,5 @@
     "image": "https://res.cloudinary.com/zenn/image/upload/s--4C51A2pA--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E6%259B%2596%25E6%2598%25A7%25E3%2581%25AB%25E4%25BD%25BF%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%2584%25E3%2581%259FAI%25E5%2591%25A8%25E3%2582%258A%25E3%2581%25AE%25E8%25A8%2580%25E8%2591%2589%25E3%2582%2592%25E7%2590%2586%25E8%25A7%25A3%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%2588%25E3%2581%2597%25E3%2581%25BD%25E3%2582%2593%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzdiMmJlNTNlZWQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
     "fetched_at": "2026-08-11 15:33:38",
     "ja_summary": "・「AI」という言葉が曖昧に使われがちな現状を整理し、技術的な仕組みを正しく理解する。\n・AI、モデル等の用語を定義し、個々の役割や具体例を明確化する。\n・技術的な全体像を把握することで、業務でのAI利活用を最適化する。"
-  },
-  {
-    "title": "CLI 上の Claude Code で Computer Use を再現する（追加課金ゼロ、441 行のエージェント）",
-    "link": "https://zenn.dev/tokium_dev/articles/gui-agent-zero-extra-cost",
-    "source": "Zenn Trends",
-    "published": "Mon, 10 Aug 2026 04:59:12 GMT",
-    "summary": "!\nこの記事は何の話か（3 行まとめ）\n\nComputer Use（AI がスクリーンを見てマウス・キーボードを操作する）を試したいけれど、API の従量課金は使いたくない。その制約のもとで Windows 11 のネイティブ GUI を自律操作するエージェントを自作しました\nポイントは1つで、エージェントの「頭脳」を API を呼ぶコードではなく、いま開いている Claude Code の対話セッションそのものにすること。実装は API を一切呼ばないヘルパー CLI 2 本（合計441行）だけです\n\n追加課金は構造的にゼロで実機検証（メモ帳への入力）まで動作を確認しましたが、Bash...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--Reil7qDH--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:CLI%2520%25E4%25B8%258A%25E3%2581%25AE%2520Claude%2520Code%2520%25E3%2581%25A7%2520Computer%2520Use%2520%25E3%2582%2592%25E5%2586%258D%25E7%258F%25BE%25E3%2581%2599%25E3%2582%258B%25EF%25BC%2588%25E8%25BF%25BD%25E5%258A%25A0%25E8%25AA%25B2%25E9%2587%2591%25E3%2582%25BC%25E3%2583%25AD%25E3%2580%2581441%2520%25E8%25A1%258C%25E3%2581%25AE%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588%25EF%25BC%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:ikedan%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzViNTEwYjI5ZjEuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:TOKIUM%25E3%2583%2597%25E3%2583%25AD%25E3%2583%2580%25E3%2582%25AF%25E3%2583%2588%25E3%2583%2581%25E3%2583%25BC%25E3%2583%25A0%2520%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2UyOWE4YTA5ZmEuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "fetched_at": "2026-08-11 15:33:39",
-    "ja_summary": "・API従量課金ゼロで、AIがPC操作（Computer Use）を行うエージェントを自作。\n・Claude Codeの対話セッションをAIの頭脳として利用し、外部APIを一切呼ばない仕組みを実現。\n・441行のヘルパーCLIのみで構成し、Windows 11上の実機操作（メモ帳への入力等）に成功。"
-  },
-  {
-    "title": "Next.js + Cloudflareで「サボる」ためのWebツール集を個人開発した",
-    "link": "https://zenn.dev/ikuosaito1989/articles/47a9b4d4177d87",
-    "source": "Zenn Trends",
-    "published": "Mon, 10 Aug 2026 01:59:52 GMT",
-    "summary": "個人開発で neglegere（ネグレゲレ） というWebサービスを作っています。\nhttps://neglegere.com/\nコンセプトは、\n\n地味に時間を取られる作業を少しだけ任せて、大事なところに力を残す\n\nです。\n最初は、自分の声を使って文章を読み上げる「AIボイス」から始めました。\nそこから、\n\n音声加工\n背景除去\n画像変換\nPDF\nOCR\n読み上げ\n電子サイン\nマイク\nカメラ\nrPPG\nAI要約\n文字起こし\n\nなど、ブラウザでできそうなものを少しずつ増やしています。\n現在は主に、\n\nAIボイス\n鬼ボイス\n背景メーカー\n画像変換\n音読アシスト\n手書き電子サイン\nことばレンズ\n...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--iTr8bTw2--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Next.js%2520%252B%2520Cloudflare%25E3%2581%25A7%25E3%2580%258C%25E3%2582%25B5%25E3%2583%259C%25E3%2582%258B%25E3%2580%258D%25E3%2581%259F%25E3%2582%2581%25E3%2581%25AEWeb%25E3%2583%2584%25E3%2583%25BC%25E3%2583%25AB%25E9%259B%2586%25E3%2582%2592%25E5%2580%258B%25E4%25BA%25BA%25E9%2596%258B%25E7%2599%25BA%25E3%2581%2597%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%2595%25E3%2581%2584%25E3%2581%25A8%25E3%2581%2586%25E3%2581%2595%25E3%2582%2593%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2lfSWtOLVUtWERjcF9LSklSbUpld2RMTFVrR0NUNVdncXdUYl9ZNXc9czk2LWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "fetched_at": "2026-08-11 15:33:39",
-    "ja_summary": "・個人開発のWebサービス「neglegere」は、日常の細かい作業をブラウザ上で効率化するツール集。\n・AIボイス、画像変換、電子サイン、文字起こしなど、多機能なツール群を提供。\n・地味な作業を自動化・効率化し、ユーザーが本来の重要な業務に集中できる環境を支援。"
-  },
-  {
-    "title": "CLAUDE.md を厚くしても意味がなかった話",
-    "link": "https://qiita.com/jqit_suwa/items/2dee3e3d53080c3676a0",
-    "source": "Qiita (Popular)",
-    "published": "2026-08-03T09:56:25+09:00",
-    "summary": "**36.2%。**\n\nこれ、何の数字だと思いますか。\n\nAIエージェントに「このルールを守って作業して」と指示書を渡したとき、**実際にちゃんと守れた割合**です。しかも、これが**一番マシだったモデルのスコア**。ほとんどのモデルは25%を下回りました。\n\n2026年7月28日に arXiv に上がった論文の結果です。読んだとき、正直「うわ、やっぱりか」と思いました。\n\n---\n\n## そのフ",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0NDMwNjExJTJGYTRlNGFiZDZjNWNkZmM5NzkzMTk2ZmUwZDFjZjYyMGY1ZWYxMTY5NCUyRnhfbGFyZ2UucG5nJTNGMTc4NTI4OTU5Nj9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NGE5ZmNiZmE4OTM5NWU1MWY1N2FiYjJkYzI1ZTFmZDQ%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYyMDc3NzA2NTMzODkzMmUyMWVjMjk3MjI5ZDVkZmI5NDk5MWI5YzFhJTJGb3JpZ2luYWwuanBnJTNGMTc2OTAwMDk3MD9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz1lYjc1ZTQzMzAzYTdlNTkzNDQ4Yjc4NDZiMjljYTgxZA%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D237198914e54e0e7e727d16c4cfb7823?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9Q0xBVURFLm1kJTIwJUUzJTgyJTkyJUU1JThFJTlBJUUzJTgxJThGJUUzJTgxJTk3JUUzJTgxJUE2JUUzJTgyJTgyJUU2JTg0JThGJUU1JTkxJUIzJUUzJTgxJThDJUUzJTgxJUFBJUUzJTgxJThCJUUzJTgxJUEzJUUzJTgxJTlGJUU4JUE5JUIxJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9NjhhMTEwYzQyZDk3NWI0MjM1OGUzMTcxMjI4MWZhODc&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBqcWl0X3N1d2EmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz0wYWE2OTJkMmQwMzE0Yzg2ZDIzMGMyOWU5Njg2ZGUyMg&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=5qCq5byP5Lya56S-SlFJVA&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=9e45de4e0d88141f81b67a295827dc79",
-    "fetched_at": "2026-08-11 15:33:42",
-    "ja_summary": "・AIにルールを守らせる指示書（CLAUDE.md等）をどれだけ充実させても、実際の遵守率は最大で36.2%に留まる。\n・大半のAIモデルでは遵守率が25%を下回るという研究結果が報告された。\n・プロンプトによる制約付けには限界があり、AIへの指示の信頼性には依然として大きな課題がある。"
-  },
-  {
-    "title": "テスラ「テラファブ」計画の衝撃",
-    "link": "https://xtech.nikkei.com/atcl/nxt/mag/at/18/00012/00227/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "AI（人工知能）エージェントの爆発的普及に伴い、最先端の推論用AI半導体を製造するファウンドリー（半導体受託製造会社）の生産能力が逼迫している。最大手の台湾積体電路製造（TSMC）に注文が殺到する中、米Tesla（テスラ）は米Intel（インテル）と組み、自社製造に活路を見いだす。韓国Samsung Electronics（サムスン電子）を活用する動きも広がる。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/mag/at/18/00012/00227/topm.jpg?20220512",
-    "fetched_at": "2026-08-11 14:40:28",
-    "ja_summary": "・AI向け半導体の世界的な供給不足を受け、テスラが自社製造へ舵を切る。\n・TSMCへの依存を避けるため、インテルやサムスンと連携し生産能力を確保する。\n・AI需要の急増を背景に、主要テック企業による半導体調達の囲い込みが激化している。"
-  },
-  {
-    "title": "Codex Micro の使い方",
-    "link": "https://note.com/npaka/n/n077409095a5a",
-    "source": "note (npaka)",
-    "published": "Mon, 27 Jul 2026 09:42:45 +0900",
-    "summary": "<p id=\"e0b7ad65-0427-4b33-a158-d8e0ff92f568\" name=\"e0b7ad65-0427-4b33-a158-d8e0ff92f568\">「Codex Micro」の使い方をまとめました。</p><figure id=\"4523e323-e388-4d27-8288-b8a4f1b0cf78\" name=\"4523e323-e388-4d27-8288-b8a4f1b0cf78\"><blockquote><p id=\"f12e558d-dd62-4508-b835-45a931013e7e\" name=\"f12e558d-dd62-4508-b835-45a931013e7e\"><strong>・</strong><a href=\"https://openai.com/ja-JP/supply/co-lab/work-louder/\" rel=\"nofollow noopener\" target=\"_blank\"><strong>Codex Micro</strong></a><strong><br />・</strong><a href=\"https://worklouder.cc/openai-micro-setup\" rel=\"nofollow noopener\" target=\"_blank\"><strong>Codex Micro Setup</strong></a></p></blockquote>\n<figcaption></figcaption></figure><br /><a href=\"https://note.com/npaka/n/n077409095a5a\">続きをみる</a>",
-    "image": "https://assets.st-note.com/production/uploads/images/297913777/rectangle_large_type_2_0ae9785f1695914b669feb8efbbb5c92.png?width=800",
-    "fetched_at": "2026-08-11 14:40:35",
-    "ja_summary": "・「Codex Micro」の基本的な使い方とセットアップ手順をまとめたガイド記事。\n・公式サイトおよび設定詳細ページのリンクを掲載。\n・詳細はリンク先から確認可能。"
   }
 ]
