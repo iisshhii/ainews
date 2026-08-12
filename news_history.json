@@ -1,5 +1,15 @@
 [
   {
+    "title": "自分のHTML資産を増やすと、AIで見た目の良いサイトを作りやすくなる",
+    "link": "https://qiita.com/uni928/items/b4a874f0bbf91d378097",
+    "source": "Qiita (Popular)",
+    "published": "2026-08-09T16:03:50+09:00",
+    "summary": "ChatGPTなどのAIにHTMLを作ってもらったとき、\n\n> 機能は問題ないけど、もう少し見た目を良くしたい\n\nと思うことがあります。\n\nそんなときに便利なのが、**自分が気に入ったHTMLを「HTML資産」として残しておく方法**です。\n\n例えば、以前作ったボタンや入力フォーム、写真アップロード要素などで、\n\n> この見た目は気に入っている\n\nと思ったものを保存しておきます。\n\nそして、AIに",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYzNzUyODg2JTJGYmU4ZDZhOWM0MjdkZGQ1NmQwNmEwMDZkZWU3MWEwMTI2MGVkZjcxOSUyRnhfbGFyZ2UucG5nJTNGMTc4NjQ5MjUyMD9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NDY3NzQ1MzhkNDg0MGU5MDE5MmMxMGE3NWFjNzQ3NjE%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D9848fa31374d9fe6ebad5a6b02c56c22?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUU4JTg3JUFBJUU1JTg4JTg2JUUzJTgxJUFFSFRNTCVFOCVCMyU4NyVFNyU5NCVBMyVFMyU4MiU5MiVFNSVBMiU5NyVFMyU4MiU4NCVFMyU4MSU5OSVFMyU4MSVBOCVFMyU4MCU4MUFJJUUzJTgxJUE3JUU4JUE2JThCJUUzJTgxJTlGJUU3JTlCJUFFJUUzJTgxJUFFJUU4JTg5JUFGJUUzJTgxJTg0JUUzJTgyJUI1JUUzJTgyJUE0JUUzJTgzJTg4JUUzJTgyJTkyJUU0JUJEJTlDJUUzJTgyJThBJUUzJTgyJTg0JUUzJTgxJTk5JUUzJTgxJThGJUUzJTgxJUFBJUUzJTgyJThCJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9MTJhZDcyMjFkN2U1Y2Y0OGMyZjJlMjY1NzJlMjUyZDI&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDB1bmk5MjgmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz0wMzQyOWU3M2U5MzdiMTU0OTIzMzk3NGEzZGNhY2YwYg&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=6aeda86e0d2ff76710cf14be92f366bc",
+    "fetched_at": "2026-08-13 04:46:30",
+    "ja_summary": "・AIが生成したWebサイトの見た目を改善するには、過去に作成した「気に入ったHTMLパーツ」を資産として蓄積しておくのが有効。\n・AIにパーツのコードを読み込ませることで、自身の好みのデザインや構成を効率的に再現できる。\n・自分専用のHTMLテンプレート集を構築することで、AIによるサイト開発の質とスピードが向上する。"
+  },
+  {
     "title": "AIに書かせた文はバレる時代へ。EU AI法にClaudeも対応、編集しても残る見えないテキスト透かしを導入",
     "link": "https://www.techno-edge.net/article/2026/08/11/5382.html",
     "source": "TechnoEdge",
@@ -988,15 +998,5 @@
     "image": "https://files.speakerdeck.com/presentations/3f0a41f1629d4ad0a8a0db676d207adf/preview_slide_0.jpg?40258883",
     "fetched_at": "2026-08-12 03:33:24",
     "ja_summary": "・生成AIの普及が進む一方、メーカーは倫理的課題や環境負荷のリスクを軽視している。\n・AI導入時は、利便性だけでなく、これら潜在的なリスクを十分に認識する必要がある。\n・利用目的の是非を問い直し、より意識的かつ責任あるAI活用を目指すことが重要。"
-  },
-  {
-    "title": "Testing ads in ChatGPT",
-    "link": "https://openai.com/index/testing-ads-in-chatgpt",
-    "source": "OpenAI",
-    "published": "Tue, 11 Aug 2026 10:00:00 GMT",
-    "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
-    "image": "https://images.ctfassets.net/kftzwdyauwt9/21TdmlEzFwgoo7ZER7SNCV/001b3d542fd4d025a2dcd1a5ab9417fe/OAI_AdsTest_Blog_OpenGraph_1200x630.png?w=1600&amp;h=900&amp;fit=fill",
-    "fetched_at": "2026-08-12 01:33:07",
-    "ja_summary": "・OpenAIがChatGPTでの広告表示テストを開始\n・無料ユーザーへのサービス維持と収益化が目的\n・プライバシー保護と透明性を重視し、回答の独立性を維持する方針"
   }
 ]
