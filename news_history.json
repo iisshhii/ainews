@@ -1,5 +1,15 @@
 [
   {
+    "title": "ずぼらAI駆動開発、爆誕",
+    "link": "https://qiita.com/nobu34/items/224f55bc85b813930f61",
+    "source": "Qiita (Popular)",
+    "published": "2026-08-05T09:22:29+09:00",
+    "summary": "# スキル、自分で作るのめんどくさくないですか？\n\n同僚の @masa-asa さんが [AI を活用した開発に「いちエンジニア」が向き合い、実践している 3 つの仕組み](https://qiita.com/masa-asa/items/343dd140ee519a8d62bd) という記事を上げていました。\n\n素直にすごいと思いつつ、正直な気持ちはこうです。\n\n「そこまで綺麗に設計する気力、自",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0MDkzMjczJTJGZWU4NzczNWI0MTgzY2IzODRlMDA0ZDRjMDE0YTFjNDc2NmM1YzUyYSUyRmxhcmdlLnBuZyUzRjE3NDgzMzAzOTI_aXhsaWI9cmItNC4xLjEmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPTEyMTAwMjNiOTVlZjE5Y2U1ZDc5MTFkYWZmNTU0NWRi%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkZlYzNmNjg0OWI0ZjZlMTQ0YzgwYzQ1MGIyYjc4MDFhOTM0N2VkZDgyJTJGb3JpZ2luYWwuanBnJTNGMTc0Nzk1NDYyMT9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz1lZmI4ZDk1MWQwYzkwZWNkYzE1YWQyOTMwMTEwYzJlNw%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D5c137c7149cccd97a3a493249e439841?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgxJTlBJUUzJTgxJUJDJUUzJTgyJTg5QUklRTklQTclODYlRTUlOEIlOTUlRTklOTYlOEIlRTclOTklQkElRTMlODAlODElRTclODglODYlRTglQUElOTUmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz04MzdmOGJiMTg5NDRiZjIyNDRjMzQ3OTdmMjc4ZTljNA&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBub2J1MzQmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz01Y2MzNDRjMzUzYzk1YWIxNTU4ZTc1MDNlZTY4MWJlZQ&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=S2Fv44Ko44Oz44K444OL44Ki44Kz44Of44Ol44OL44OG44KjzrI&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=83f0a32a251cbadbd3d8b676a190d5e7",
+    "fetched_at": "2026-08-13 00:35:59",
+    "ja_summary": "・AI開発における過度な設計や準備を省く「ずぼらAI駆動開発」を提唱。\n・エンジニアの心理的ハードルを下げ、気楽にAIを活用する手法を提案。\n・完璧主義を捨て、AIを気軽に活用して開発効率を上げるための考え方。"
+  },
+  {
     "title": "グーグル「Pixel 11 Pro」登場　決定機を逃さない新カメラやGemini新機能",
     "link": "https://www.watch.impress.co.jp/docs/news/2132115.html",
     "source": "Impress Watch",
@@ -988,15 +998,5 @@
     "image": "https://www.techno-edge.net/imgs/rss/33487.jpg",
     "fetched_at": "2026-08-11 17:44:49",
     "ja_summary": "・Anthropicが、Claudeで生成した文章を識別する電子透かし技術を導入。\n・EU AI法への対応やAI生成物の透明性確保が目的。\n・編集しても痕跡が残る仕組みで、AIによる作成物の判別が容易になる。"
-  },
-  {
-    "title": "Google AI概要がインディゲームの未発表情報を漏洩？開発者は非公開のGoogleドキュメント上にしかない情報と主張",
-    "link": "https://www.techno-edge.net/article/2026/08/10/5376.html",
-    "source": "TechnoEdge",
-    "published": "Mon, 10 Aug 2026 08:00:03 +0900",
-    "summary": "インディーゲーム『Operation Octo』を開発するClub Kofta Studioが、Googleの検索AIが自身の非公開なGoogle Docsに記載していた未発表キャラクター名を正確に回答したとRedditに投稿し、物議を醸しています。",
-    "image": "https://www.techno-edge.net/imgs/rss/33462.jpg",
-    "fetched_at": "2026-08-11 16:52:08",
-    "ja_summary": "・Googleの検索AIが、インディーゲームの未発表キャラクター名を正確に回答。\n・開発者はその情報が非公開のGoogleドキュメント内にしか存在しなかったと主張。\n・AIによる個人情報や機密情報の漏洩懸念として物議を醸している。"
   }
 ]
