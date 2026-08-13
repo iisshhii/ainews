@@ -1,5 +1,65 @@
 [
   {
+    "title": "世界を変えるような奇抜なアイデアが、AIによって駆逐されるかもしれない",
+    "link": "https://www.businessinsider.jp/article/2607-ai-could-squeeze-out-original-thinking-innovation-theorist/",
+    "source": "Business Insider Japan",
+    "published": "Thu, 13 Aug 2026 10:00:00 GMT",
+    "summary": "人類のブレークスルーを支えてきた「外れ値」的な発想が、AIによって生まれにくくなる可能性がある――イノベーション理論家のジョン・ノスタはこのように指摘します。",
+    "image": "https://media.loom-app.com/loom/2026/07/26/88f0340c-ba17-4212-bff8-855b6b331241/original.jpg?w=1200",
+    "fetched_at": "2026-08-13 19:42:47",
+    "ja_summary": "AIが「普通」を重視し、革新的な「奇抜なアイデア」を生みにくくする恐れがある。\nイノベーション理論家は、AIが人類のブレークスルーを支えてきた「外れ値」的発想を排除しかねないと警鐘を鳴らす。\nAI時代に、新たな発想を生むための工夫が求められる。"
+  },
+  {
+    "title": "Introducing Claude Opus 5",
+    "link": "https://www.anthropic.com/news/claude-opus-5",
+    "source": "Anthropic (News)",
+    "published": "Fri, 24 Jul 2026 00:00:00 +0000",
+    "summary": "Introducing Claude Opus 5",
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/54b7ab1d2c2521f83ae5d2da5f9d99321c370d24-2880x1620.png",
+    "fetched_at": "2026-08-13 19:42:53",
+    "ja_summary": "・Anthropic社が次世代AIモデル「Claude Opus 5」を発表\n・従来モデルから推論能力と処理速度が大幅に向上\n・複雑なタスクの自動化や高度な分析をより高精度に実現"
+  },
+  {
+    "title": "Anthropic is donating another $20 million to Public First Action",
+    "link": "https://www.anthropic.com/news/donation-public-first-action",
+    "source": "Anthropic (News)",
+    "published": "Tue, 21 Jul 2026 00:00:00 +0000",
+    "summary": "Anthropic is donating another $20 million to Public First Action",
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Stack&amp;backgroundColor=oat",
+    "fetched_at": "2026-08-13 19:42:53",
+    "ja_summary": "・Anthropic社が「Public First Action」に対し、2,000万ドルの追加寄付を実施。\n・AI分野における政策的提言や社会的対話の促進が目的。\n・同団体への支援を強化し、AI開発の透明性と公共性を重視する姿勢を鮮明化。"
+  },
+  {
+    "title": "AIエージェントと進めるソフトウェア開発",
+    "link": "https://zenn.dev/hako_hako/books/nexus-product-new-development",
+    "source": "Zenn Trends",
+    "published": "Thu, 13 Aug 2026 08:10:07 GMT",
+    "summary": "AIエージェントは、プロダクト開発のどこまでを担えるのか。社内向け案件管理アプリRADARを題材に、Claude CodeとNexus Architectとの壁打ちから、仮説検証、設計、Issue分解、実装、レビュー、実運用後の改善まで、人が判断しながら開発を前へ進める方法を実例で解説します。",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--APLJpRfA--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYm9va19jb3Zlci8xYzhhM2QyYTljLnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg?_a=BACMTiAE",
+    "fetched_at": "2026-08-13 19:42:54",
+    "ja_summary": "・AIエージェントを活用したソフトウェア開発の全工程を、社内アプリの実例で解説。\n・設計や実装、レビューに至るまで、AIと人が対話しながら開発を推進する手法を紹介。\n・仮説検証から運用後の改善まで、AIを駆使した効率的な開発プロセスの実践ガイド。"
+  },
+  {
+    "title": "自宅サーバーではじめる ローカルLLM入門 第1巻 基礎・構築編",
+    "link": "https://zenn.dev/murasanlab/books/dcf7ed4826a797",
+    "source": "Zenn Trends",
+    "published": "Tue, 11 Aug 2026 12:25:59 GMT",
+    "summary": "生成AIを使って文章を書いたり、調べものをしたり、考えを整理したり……\nそのAIを「自宅のPCで動かす」という選択肢があることをご存じですか？\n\n本書は、ローカルLLMをまったく知らない方が、自宅のミニPCやデスクトップPCを「自分専用のAIが動くサーバー」へとステップアップさせるための入門書です。UbuntuとNVIDIA GPUを基本構成として、OllamaとGemma 4を導入し、家庭内の別のPCから利用できる環境を、一緒に構築していきます。GPUを持っていない方に向けて、CPUとシステムメモリで試す方法も用意しています。\n\nコマンドを丸暗記するのではなく、「LLMはどのように文章を生成するのか」「量子化とは何か」「なぜその設定が必要なのか」を一つずつ丁寧に解説します。モデルの性能やメモリの考え方から、Ubuntuの準備、GPUドライバー、モデルの導入、安全なLAN内利用、基本的な運用とトラブル対応まで、この1冊でローカルLLMの土台を築くことができます。\n\nクラウドのAIを使うだけでなく、自分の環境でAIを動かす世界へ。\nローカルLLMへの第一歩を、ここから始めてみませんか。",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--J0vpXkWG--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYm9va19jb3Zlci8wMTJiYTEzNGI1LmpwZWc=%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg?_a=BACMTiAE",
+    "fetched_at": "2026-08-13 19:42:56",
+    "ja_summary": "自宅PCでAIを動かす「ローカルLLM」入門書。\nUbuntuとGPU、Ollama、Gemma 4を使い、AIサーバー構築から運用までを解説。\nクラウドだけでなく、自分だけのAI環境を手に入れる方法が学べる。"
+  },
+  {
+    "title": "50音を全部作って繋いだのに、（　´∀｀）になった話",
+    "link": "https://qiita.com/taguchi_sapeet/items/f2da1003b168b52f5770",
+    "source": "Qiita (Popular)",
+    "published": "2026-08-04T10:15:18+09:00",
+    "summary": "<br>\n\n## まず、これを聴いてください\n\n**音声①：自作したTTSで「こんにちは」**\n\n\n<br>\n\n<iframe\n  src=\"https://drive.google.com/file/d/1T_QqDgJ1u2mnkIBaXDOikPe-Q_Iyq6Bk/preview\"\n  width=\"100%\"\n  height=\"88\"\n  allow=\"autoplay\"\n></ifr",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0NDQ1NDk3JTJGZDVkNDFkMGQ4M2VhM2Y1NzNhZDU1NWU4MDhhMDhkMTljMzViYjY2MCUyRmxhcmdlLnBuZyUzRjE3ODA5ODYxMDY_aXhsaWI9cmItNC4xLjEmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPWUxYmEwNmE5NmJlNTYxYzQxYjJlNzI1YjNjZDNlYmQw%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkZlMDc4NjNmNDFmNjI3NDE1MTE3OTkwNTM4YTllMjNkZTIxOGYyY2IwJTJGb3JpZ2luYWwuanBnJTNGMTc2MjQ4MTQwMT9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz01NWUyMTdiYThkODE2MWFiMDVmMjM5OThmNjc1OGY3OQ%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D05663bf4906760d54c165d9f9f7d5fdc?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9NTAlRTklOUYlQjMlRTMlODIlOTIlRTUlODUlQTglRTklODMlQTglRTQlQkQlOUMlRTMlODElQTMlRTMlODElQTYlRTclQjklOEIlRTMlODElODQlRTMlODElQTAlRTMlODElQUUlRTMlODElQUIlRTMlODAlODElRUYlQkMlODglRTMlODAlODAlQzIlQjQlRTIlODglODAlRUYlQkQlODAlRUYlQkMlODklRTMlODElQUIlRTMlODElQUElRTMlODElQTMlRTMlODElOUYlRTglQTklQjEmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz01MTc4YTU0ODVlMmVkNDdhMWEwZTFmNzUyZTAxZGZmMQ&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDB0YWd1Y2hpX3NhcGVldCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWI0MzEyMjc1NmNkOTA3YjljMGY0OTVlNzUwNDAxMWQw&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=5qCq5byP5Lya56S-U2FwZWV0&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=2336f3aa1169accc055f57bab865c326",
+    "fetched_at": "2026-08-13 19:42:59",
+    "ja_summary": "・50音すべての音声を自作して音声合成システム（TTS）を構築した。\n・作成した音声で「こんにちは」と再生してみた結果、予想外の音質になった。\n・技術的な試行錯誤の末に起きた、コミカルな失敗談と検証プロセス。"
+  },
+  {
     "title": "「歴史は繰り返されている」：『世紀の空売り』マイケル・バーリが、“エンロン”について読む時だと語る",
     "link": "https://www.businessinsider.jp/article/2608-michael-burry-big-short-enron-fraud-book-ai-stocks-investing/",
     "source": "Business Insider Japan",
@@ -938,65 +998,5 @@
     "image": "https://images.ctfassets.net/kftzwdyauwt9/2uFbydWeRIYgmgAqjUVskz/f2672582154a6c597e42e7319059adbc/gov_abbott_letter_9x16.png?w=1600&amp;h=900&amp;fit=fill",
     "fetched_at": "2026-08-12 12:10:18",
     "ja_summary": "・OpenAIがテキサス州知事に書簡を送付\n・州内での責任あるAIインフラ構築へのコミットメントを表明\n・透明性を確保しつつ、州の利益となる持続的な成長を支援する方針"
-  },
-  {
-    "title": "OpenAI、次世代AI「Astra」の開発を一部停止　高いサイバー攻撃能力を懸念",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11960/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "米OpenAIは2026年8月9日（米国時間）までに、次世代AIモデル「Astra」の開発を一部停止すると発表した。Astraが既存モデルを大幅に上回るサイバー攻撃能力を備えており、悪用の懸念が拭えないからだ。既に明らかになっている米Hugging FaceのAI開発プラットフォームへの攻撃にAstraは関与していないという。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11960/topm.jpg?20220512",
-    "fetched_at": "2026-08-12 09:42:30",
-    "ja_summary": "OpenAIは、次世代AI「Astra」の開発を一部停止すると発表した。\n高いサイバー攻撃能力を有し、悪用リスクが懸念されるため。\nなお、既存のプラットフォーム攻撃への関与は否定されている。"
-  },
-  {
-    "title": "Meta、ノートPCで動くAIエージェント向け新モデル「Muse Glimmer」を公開",
-    "link": "https://japan.cnet.com/article/35251497/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "Metaは、AIエージェント向けに特化して開発した最新モデル「Muse Glimmer」を公開した。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35251497/\"><img src=\"https://japan.cnet.com/storage/2026/08/12/66b9fecfa1bb4dcf05b764f77ada0ba0/t/184/138/d/AdobeStock_2015437130_Editorial_Use_Only_1280x960.jpeg\" /></a>",
-    "image": "https://japan.cnet.com/storage/2026/08/12/66b9fecfa1bb4dcf05b764f77ada0ba0/t/184/138/d/AdobeStock_2015437130_Editorial_Use_Only_1280x960.jpeg",
-    "fetched_at": "2026-08-12 09:42:38",
-    "ja_summary": "MetaがAIエージェント向け新モデル「Muse Glimmer」を公開。\n一般的なノートPCでも動作するように最適化されている。\nPC上で直接動作するAI機能の活用が進む可能性がある。"
-  },
-  {
-    "title": "Claudeが生成した文章に「電子透かし」、全世界で導入へ",
-    "link": "https://japan.cnet.com/article/35251494/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "Anthropicは今週、Claudeが生成するテキストに、AI生成物だと分かるよう電子透かしを入れると発表した。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35251494/\"><img src=\"https://japan.cnet.com/storage/2025/05/23/abf1bac31aeb177923dc375ba95286a9/t/184/138/d/claude-ai-9831_1280x960.jpg\" /></a>",
-    "image": "https://japan.cnet.com/storage/2025/05/23/abf1bac31aeb177923dc375ba95286a9/t/184/138/d/claude-ai-9831_1280x960.jpg",
-    "fetched_at": "2026-08-12 09:42:38",
-    "ja_summary": "・Anthropic社は、生成AI「Claude」が作成した文章に電子透かしを導入すると発表。\n・AIが生成したテキストであることを判別可能にし、信頼性の向上を図る。\n・世界規模で順次導入が進められる予定。"
-  },
-  {
-    "title": "楽天市場、検索AIが流通総額を押し上げ--購入意図を判別、年128億円の効果",
-    "link": "https://japan.cnet.com/article/35251480/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "楽天グループは8月10日、決算説明会で、「楽天市場」の検索へのAI活用の成果を説明した。LLM（大規模言語モデル）でユーザーの検索クエリの文脈を理解し、情報を集めている探索段階か、購入の意思決定段階かを判別して検索結果を最適化する。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35251480/\"><img src=\"https://japan.cnet.com/storage/2026/08/10/58f0c5772b674a21089dcb97f142c7fd/t/184/138/d/c02_top.jpg\" /></a>",
-    "image": "https://japan.cnet.com/storage/2026/08/10/58f0c5772b674a21089dcb97f142c7fd/t/184/138/d/c02_top.jpg",
-    "fetched_at": "2026-08-12 09:42:38",
-    "ja_summary": "・楽天市場が検索にLLMを導入し、ユーザーの購入意図を正確に判別。\n・検索結果を最適化したことで、年間128億円の流通総額押し上げ効果を実現。\n・AIによる検索精度の向上が、ECサイトの収益拡大に直結している。"
-  },
-  {
-    "title": "「AIに頼りすぎた」人気ユーチューバーが反省、活動を縮小へ",
-    "link": "https://japan.cnet.com/article/35251470/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "ネットで精力的に活動するクリエイターのハンク・グリーン氏は、自身のAI利用をじっくり見直したと語り、「（大規模言語モデルに）助言や編集、情報源探しの面で頼りすぎていた」と認めた。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35251470/\"><img src=\"https://japan.cnet.com/storage/2026/08/10/2d89aa4ba0bc4c4b65cd6dae9b5a6009/t/184/138/d/videoframe_39908_1280x960.jpg\" /></a>",
-    "image": "https://japan.cnet.com/storage/2026/08/10/2d89aa4ba0bc4c4b65cd6dae9b5a6009/t/184/138/d/videoframe_39908_1280x960.jpg",
-    "fetched_at": "2026-08-12 09:42:38",
-    "ja_summary": "人気ユーチューバーのハンク・グリーン氏が、AIへの依存度が高すぎたことを認め活動縮小を表明。\n助言や情報収集などをAIに頼りすぎていた現状を反省し、創作スタイルを見直す方針。"
-  },
-  {
-    "title": "NEC、部長も部下も「すべてAI」の新部門",
-    "link": "https://japan.cnet.com/article/35251472/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "NECは8月10日、部門長から社員まですべての役割をAIが担う社内組織「コーポレートAI・Workforce部門」を新設したと発表した。設立は8月1日付。業務はAIが自律的に進め、最終的な評価や意思決定、品質・ガバナンスの統制は人が受け持つ。従業員数万人規模の国内企業では初の取り組みとなるという。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35251472/\"><img src=\"https://japan.cnet.com/storage/2026/08/10/a396b9c615f4d07bca9d8ad7b17caa7b/t/184/138/d/2026-08-10_16.37の画像.jpeg\" /></a>",
-    "image": "https://japan.cnet.com/storage/2026/08/10/a396b9c615f4d07bca9d8ad7b17caa7b/t/184/138/d/2026-08-10_16.37の画像.jpeg",
-    "fetched_at": "2026-08-12 09:42:38",
-    "ja_summary": "・NECが部長から部下まで全てAIで構成される組織を新設。\n・業務はAIが自律的に遂行し、人は最終的な意思決定や品質管理を担当。\n・国内の数万人規模の企業では初の試みとして、AIによる業務プロセス変革を目指す。"
   }
 ]
