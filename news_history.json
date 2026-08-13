@@ -1,5 +1,25 @@
 [
   {
+    "title": "自民党･木原誠二氏が仕掛ける｢令和の金融ビッグバン｣…AIとオンチェーン化が壊す銀行･証券･保険の壁 | ビジネス | 東洋経済オンライン",
+    "link": "https://toyokeizai.net/articles/-/954085?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+    "source": "東洋経済オンライン",
+    "published": "Fri, 14 Aug 2026 05:40:00 +0900",
+    "summary": "――今回の金融商品取引法の改正をどう意義づけていますか。ブロックチェーン上のステーブルコイン、トークン化預金、債券や株式などのトークン化資産は今後、金融取引のど真ん中に位置づけられていくだろう。暗号…",
+    "image": "https://tk.ismcdn.jp/mwimgs/8/3/1200w/img_83bc5e339da10840c21057d5df8f6f94136196.jpg?nextgen=false",
+    "fetched_at": "2026-08-14 06:10:48",
+    "ja_summary": "・木原誠二氏が主導する金融商品取引法改正で、金融のデジタル化を推進。\n・ブロックチェーンを活用し、通貨や資産をトークン化する「令和の金融ビッグバン」を目指す。\n・銀行・証券・保険の垣根を超えた取引を可能にし、日本の金融市場の構造改革を狙う。"
+  },
+  {
+    "title": "AIが奪うのは「仕事」ではなく「給料」？ …最新調査でわかった賃金低下のリアル",
+    "link": "https://www.businessinsider.jp/article/2608-ai-could-lower-workers-pay-job-market-impact/",
+    "source": "Business Insider Japan",
+    "published": "Thu, 13 Aug 2026 21:00:00 GMT",
+    "summary": "アポロ・グローバル・マネジメントの新たな調査報告書によると、AIの影響を強く受ける職種では、近年、実質賃金が大幅に低下しています。",
+    "image": "https://media.loom-app.com/loom/2026/07/30/f40c0e3e-df11-40e1-a1a7-bc74d49f517b/original.jpg?w=1200",
+    "fetched_at": "2026-08-14 06:11:07",
+    "ja_summary": "・AI導入が進む職種では、業務内容の消失以上に「実質賃金」の低下が顕著である。\n・最新調査により、AIが雇用を奪うだけでなく、給与水準を押し下げるリスクが浮き彫りとなった。"
+  },
+  {
     "title": "Gemini Robotics ER 2 の概要",
     "link": "https://note.com/npaka/n/n7910aa0ceb7f",
     "source": "note (npaka)",
@@ -978,25 +998,5 @@
     "image": "https://xtech.nikkei.com/atcl/nxt/mag/rob/18/00007/00102/og.jpg?20220512",
     "fetched_at": "2026-08-12 15:14:29",
     "ja_summary": "・経産省とNEDOが、実世界を理解して物理的な行動を伴うAIを開発する「FRONTia」プロジェクトを開始。\n・言語に加え画像やセンサ情報などを統合した、国産のマルチモーダル基盤モデルの構築を目指す。\n・物理空間で自律的に動作する「フィジカルAI」の実現を主要な目的としている。"
-  },
-  {
-    "title": "案件に一番詳しいAIを Amazon Bedrock AgentCore で作る ― 知見が知見を生むチームへ / Compounding Knowledge with AgentCore",
-    "link": "https://speakerdeck.com/yusukeshimizu/compounding-knowledge-with-agentcore",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-08-12T00:19:31-04:00",
-    "summary": "2026年8月12日、NRIネットコム社内勉強会「Tech and Design Study」での発表資料です。（ユースケのユースケース Case9 / #nncstudy）\n\nチームにAIツールを配っても、案件の知見までは配られません。同じ「この設計をレビューして」でも、案件を知っている人ほど前提を添えられるので、返ってくるものが変わります。差を作っているのはAIではなく、入力に乗った案件知識です。\n\n案件の知見をAIが読める形で貯め、使い、学びを書き戻す「知見の複利」を軸に、Amazon Bedrock AgentCore / Amazon Bedrock Knowledge Bases / Slack で「案件に一番詳しいAI」を作る構成を扱います。\n\n- AIは配ったが、案件の知見は配られていない（DORA 2025）\n- 知見の複利 ― 蓄積なし / 単利 / 複利 の3類型と、回り続ける3条件\n- 詳しさ ＝ 広さ × 確かさ。技術が「可能にする」ものと、運用が「育てる」もの\n- 構成と、知見が正本に入る経路\n- なぜ各自の Claude Code ではなく、共用エージェントを Slack に置くのか\n- 複利が回った先の歪みと、判断を人に残す3段階の権限設計\n\nデモで使っているデータは完全に架空の案件です。実在の顧客名・案件名は含みません。",
-    "image": "https://files.speakerdeck.com/presentations/78193563f83b476d982361cf9dfd5699/preview_slide_0.jpg?40260298",
-    "fetched_at": "2026-08-12 15:14:46",
-    "ja_summary": "AIに案件の文脈を学習させ、知識を蓄積・循環させる「知見の複利」を実現するAI活用術。\nAmazon Bedrock等を活用し、Slack上でチームの案件知識を共有・強化できるAIエージェントの構築手法を解説。\nAIに依存するのではなく、運用で知識を育て、最終判断を人が行うことで、チーム全体の生産性を高める設計思想。"
-  },
-  {
-    "title": "NEC、部門長も現場もAI　新社内組織「コーポレートAI・Workforce部門」",
-    "link": "https://www.watch.impress.co.jp/docs/news/2132221.html",
-    "source": "Impress Watch",
-    "published": "",
-    "summary": "NECは、部門長から社員まですべての役割をAIが担う社内組織「コーポレートAI・Workforce部門」を8月1日付で新設した。同組織ではAIが業務遂行を担当し、最終的な評価・意思決定、品質・ガバナンスの統制は人が担う。",
-    "image": "https://www.watch.impress.co.jp/img/ipw/list/2132/221/n01.jpg",
-    "fetched_at": "2026-08-12 13:58:56",
-    "ja_summary": "・NECが8月1日、部門長から社員まで全役割をAIが担う新組織を設立。\n・AIが実際の業務を遂行し、人間は最終的な意思決定と統制に専念する。\n・AI活用による組織運営の自動化と効率化を本格的に推進する。"
   }
 ]
