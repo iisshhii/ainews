@@ -1,5 +1,45 @@
 [
   {
+    "title": "OpenAI、次世代AI「Astra」の開発を一部停止　高いサイバー攻撃能力を懸念",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11960/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "米OpenAIは2026年8月9日（米国時間）までに、次世代AIモデル「Astra」の開発を一部停止すると発表した。Astraが既存モデルを大幅に上回るサイバー攻撃能力を備えており、悪用の懸念が拭えないからだ。既に明らかになっている米Hugging FaceのAI開発プラットフォームへの攻撃にAstraは関与していないという。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11960/topm.jpg?20220512",
+    "fetched_at": "2026-08-13 20:27:15",
+    "ja_summary": "・OpenAIが次世代AI「Astra」の開発を一部停止。\n・強力すぎるサイバー攻撃能力による悪用リスクが懸念材料。\n・Hugging Faceへの攻撃関与は否定。"
+  },
+  {
+    "title": "Meta、ノートPCで動くAIエージェント向け新モデル「Muse Glimmer」を公開",
+    "link": "https://japan.cnet.com/article/35251497/",
+    "source": "CNET Japan",
+    "published": "",
+    "summary": "Metaは、AIエージェント向けに特化して開発した最新モデル「Muse Glimmer」を公開した。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35251497/\"><img src=\"https://japan.cnet.com/storage/2026/08/12/66b9fecfa1bb4dcf05b764f77ada0ba0/t/184/138/d/AdobeStock_2015437130_Editorial_Use_Only_1280x960.jpeg\" /></a>",
+    "image": "https://japan.cnet.com/storage/2026/08/12/66b9fecfa1bb4dcf05b764f77ada0ba0/t/184/138/d/AdobeStock_2015437130_Editorial_Use_Only_1280x960.jpeg",
+    "fetched_at": "2026-08-13 20:27:22",
+    "ja_summary": "・MetaがAIエージェント向け新モデル「Muse Glimmer」を公開。\n・一般的なノートPCでも動作するように最適化されているのが特徴。\n・AIエージェントの活用が身近な端末でより手軽に行えるようになる。"
+  },
+  {
+    "title": "Claudeが生成した文章に「電子透かし」、全世界で導入へ",
+    "link": "https://japan.cnet.com/article/35251494/",
+    "source": "CNET Japan",
+    "published": "",
+    "summary": "Anthropicは今週、Claudeが生成するテキストに、AI生成物だと分かるよう電子透かしを入れると発表した。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35251494/\"><img src=\"https://japan.cnet.com/storage/2025/05/23/abf1bac31aeb177923dc375ba95286a9/t/184/138/d/claude-ai-9831_1280x960.jpg\" /></a>",
+    "image": "https://japan.cnet.com/storage/2025/05/23/abf1bac31aeb177923dc375ba95286a9/t/184/138/d/claude-ai-9831_1280x960.jpg",
+    "fetched_at": "2026-08-13 20:27:22",
+    "ja_summary": "・Anthropic社は「Claude」が作成した文章にAI生成であることを示す電子透かしを導入する。\n・全世界のユーザー向けに順次適用し、AIコンテンツの判別を容易にする。"
+  },
+  {
+    "title": "楽天市場、検索AIが流通総額を押し上げ--購入意図を判別、年128億円の効果",
+    "link": "https://japan.cnet.com/article/35251480/",
+    "source": "CNET Japan",
+    "published": "",
+    "summary": "楽天グループは8月10日、決算説明会で、「楽天市場」の検索へのAI活用の成果を説明した。LLM（大規模言語モデル）でユーザーの検索クエリの文脈を理解し、情報を集めている探索段階か、購入の意思決定段階かを判別して検索結果を最適化する。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35251480/\"><img src=\"https://japan.cnet.com/storage/2026/08/10/58f0c5772b674a21089dcb97f142c7fd/t/184/138/d/c02_top.jpg\" /></a>",
+    "image": "https://japan.cnet.com/storage/2026/08/10/58f0c5772b674a21089dcb97f142c7fd/t/184/138/d/c02_top.jpg",
+    "fetched_at": "2026-08-13 20:27:22",
+    "ja_summary": "・楽天市場が検索にAI（LLM）を導入し、ユーザーの購入意図を正確に判別。\n・検索結果を最適化することで、年間128億円の流通総額押し上げ効果を実現。\n・AIが探索段階と購入決定段階を見極め、購買行動を効率的に促進している。"
+  },
+  {
     "title": "世界を変えるような奇抜なアイデアが、AIによって駆逐されるかもしれない",
     "link": "https://www.businessinsider.jp/article/2607-ai-could-squeeze-out-original-thinking-innovation-theorist/",
     "source": "Business Insider Japan",
@@ -958,45 +998,5 @@
     "image": "https://www.watch.impress.co.jp/img/ipw/list/2132/123/meta0.jpg",
     "fetched_at": "2026-08-12 12:10:08",
     "ja_summary": "MetaはAIの超知能を一部組織が独占するのではなく、個人へ広く普及させる方針を表明。\n特定の企業が技術を囲い込むのではなく、オープンモデルを推進し民主化を図る。\nザッカーバーグCEOは、AIによる「パーソナル超知能」の実現を目指す。"
-  },
-  {
-    "title": "JPモルガン、S&amp;P 500目標を8000へ引き上げ。AIの設備投資が「ついに」成果を示す",
-    "link": "https://www.businessinsider.jp/article/2608-stock-market-outlook-jpmorgan-sp500-target-ai-capex-big-tech/",
-    "source": "Business Insider Japan",
-    "published": "Wed, 12 Aug 2026 02:00:00 GMT",
-    "summary": "JPモルガンがS&amp;P 500の目標値を8000へ引き上げました。AIの設備投資がようやく成果を示し始め、収益化が支出を上回るペースで加速するとの期待が背景にあります。一方でフリーキャッシュフローの赤字など市場のリスクも残ると指摘しています。",
-    "image": "https://media.loom-app.com/loom/2026/08/11/5de6af0d-88b8-4060-b32a-ff819cd64d2a/original.jpg?w=1200",
-    "fetched_at": "2026-08-12 12:10:12",
-    "ja_summary": "・JPモルガンがS&P 500の目標株価を8000へ引き上げ。\n・AI投資の収益化が本格化し、業績成長を牽引するとの強気な見方。\n・ただし、フリーキャッシュフローの悪化など潜在的な市場リスクには警戒が必要。"
-  },
-  {
-    "title": "Geminiアプリ ユーザー月10億超",
-    "link": "https://news.yahoo.co.jp/pickup/6591407?source=rss",
-    "source": "Yahoo!ニュース IT・科学",
-    "published": "Wed, 12 Aug 2026 03:04:25 GMT",
-    "summary": "",
-    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/8/12/76e9d2134d7f0c65001e2f3d0168d0de10e38a0ae6dcf3a788cf5a92f8d9a08c.jpg",
-    "fetched_at": "2026-08-12 12:10:13",
-    "ja_summary": "GoogleのAI「Gemini」の月間アクティブユーザー数が10億人を突破。\nモバイルアプリ版の普及が牽引し、生成AIサービスの利用が急速に拡大している。\n検索や業務効率化のツールとして、AIの日常的な活用が定着しつつある。"
-  },
-  {
-    "title": "Word・Excel・PDFなどの文書をAIが読みやすいMarkdownに爆速変換する「anydoc」がオープンソース公開（生成AIクローズアップ）",
-    "link": "https://www.techno-edge.net/article/2026/08/12/5385.html",
-    "source": "TechnoEdge",
-    "published": "Wed, 12 Aug 2026 10:41:12 +0900",
-    "summary": "今回は、WordやPDFといった多様な文書をMarkdown（GitHub-Flavored Markdown）に高速変換するRust製ライブラリ「anydoc」を取り上げます。",
-    "image": "https://www.techno-edge.net/imgs/rss/33512.png",
-    "fetched_at": "2026-08-12 12:10:17",
-    "ja_summary": "・WordやPDF等の文書をAIが扱いやすいMarkdown形式へ爆速変換するRust製ライブラリ「anydoc」が公開された。\n・変換速度と精度の高さが特徴で、オープンソースとして利用可能。\n・AIへの文書入力やデータ整理の効率化に貢献するツール。"
-  },
-  {
-    "title": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
-    "link": "https://openai.com/index/responsible-ai-infrastructure-texas",
-    "source": "OpenAI",
-    "published": "Mon, 10 Aug 2026 14:00:00 GMT",
-    "summary": "OpenAI sent Governor Greg Abbott a letter outlining its commitment to responsible AI infrastructure in Texas. The letter supports reliable, transparent growth that benefits Texans.",
-    "image": "https://images.ctfassets.net/kftzwdyauwt9/2uFbydWeRIYgmgAqjUVskz/f2672582154a6c597e42e7319059adbc/gov_abbott_letter_9x16.png?w=1600&amp;h=900&amp;fit=fill",
-    "fetched_at": "2026-08-12 12:10:18",
-    "ja_summary": "・OpenAIがテキサス州知事に書簡を送付\n・州内での責任あるAIインフラ構築へのコミットメントを表明\n・透明性を確保しつつ、州の利益となる持続的な成長を支援する方針"
   }
 ]
