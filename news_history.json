@@ -1,5 +1,35 @@
 [
   {
+    "title": "OpenAI、最大14倍高速な「ウルトラファストモード」　GPT-5.6 Sol",
+    "link": "https://www.watch.impress.co.jp/docs/news/2132760.html",
+    "source": "Impress Watch",
+    "published": "",
+    "summary": "OpenAIは14日、「GPT-5.6 Sol」を標準処理より最大14倍高速に動作させる「ウルトラファストモード(Ultrafast)」を、一部ユーザー向けに限定プレビューとして提供開始した。OpenAI APIから展開し、最大で1秒あたり750出力トークンを生成する。",
+    "image": "https://www.watch.impress.co.jp/img/ipw/list/2132/760/1.jpg",
+    "fetched_at": "2026-08-14 14:00:31",
+    "ja_summary": "・OpenAIが新モデル「GPT-5.6 Sol」向けに、最大14倍高速な「ウルトラファストモード」を一部提供開始。\n・API経由で1秒あたり最大750トークンの高速生成が可能。\n・現在は限定プレビュー版として展開中。"
+  },
+  {
+    "title": "Software Design 2026年9月号 - いま注目のローカルLLM特集",
+    "link": "https://note.com/npaka/n/n09447d05bbfc",
+    "source": "note (npaka)",
+    "published": "Tue, 04 Aug 2026 13:47:08 +0900",
+    "summary": "<p id=\"c1031e83-d6b4-448b-85c7-78f5d3024258\" name=\"c1031e83-d6b4-448b-85c7-78f5d3024258\">『<strong>Software Design 2026年9月号</strong>』は、いま注目を集めている<strong>ローカルLLM</strong>の特集号です。</p><p id=\"0ac061fc-c0ba-4cab-9f24-f1c5ce80bff4\" name=\"0ac061fc-c0ba-4cab-9f24-f1c5ce80bff4\">最近は、「Kimi K3」「DeepSeek-V4-Flash-0731」などの高性能なローカルLLMが次々と登場し、個人PCや社内サーバでも実用的なLLMを動かせるようになってきました。</p><br /><a href=\"https://note.com/npaka/n/n09447d05bbfc\">続きをみる</a>",
+    "image": "https://assets.st-note.com/production/uploads/images/300335575/rectangle_large_type_2_c62e3dc5364eb033f13cc82d788ae7a1.jpeg?width=800",
+    "fetched_at": "2026-08-14 14:00:36",
+    "ja_summary": "『Software Design』9月号は、個人環境で実用的なAIを動かせる「ローカルLLM」を特集しています。\n最新の高性能モデル登場により、手元のPCや社内サーバでの活用が現実的になっています。\n技術の現状や活用に関心があるエンジニアや開発者向けの注目号です。"
+  },
+  {
+    "title": "もうGemini 3.7 Flash登場、先代から3週間　コーディングとエージェント性能向上で年内半額　Gemini SparkとAPIから提供",
+    "link": "https://www.techno-edge.net/article/2026/08/14/5392.html",
+    "source": "TechnoEdge",
+    "published": "Fri, 14 Aug 2026 13:08:52 +0900",
+    "summary": "Googleが生成AIモデル「Gemini 3.7 Flash」を発表しました。すでにGemini API や Google AI Studio、Geminiアプリの「Spark」などで利用できます。",
+    "image": "https://www.techno-edge.net/imgs/rss/33560.jpg",
+    "fetched_at": "2026-08-14 14:00:38",
+    "ja_summary": "・Googleが次世代AIモデル「Gemini 3.7 Flash」をリリース。\n・コーディング能力とエージェント機能が向上し、年内はAPI利用料が半額に。\n・Gemini APIやGoogle AI Studio、アプリ内の「Spark」ですぐに利用可能。"
+  },
+  {
     "title": "脆弱性発見から悪用まで｢1.6日｣､攻撃者もAIを使う時代にグーグルが打ち出した｢人手では追いつけない｣防御の仕組み | ビジネス | 東洋経済オンライン",
     "link": "https://toyokeizai.net/articles/-/954314?utm_source=rss&utm_medium=http&utm_campaign=link_back",
     "source": "東洋経済オンライン",
@@ -968,35 +998,5 @@
     "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
     "fetched_at": "2026-08-12 22:14:03",
     "ja_summary": "・元カリフォルニア州最高裁判事のT・クエヤル氏がAnthropicの最高グローバル政策責任者に就任。\n・AIの安全性やガバナンス強化に向け、政策・法務領域の統括を担当。\n・グローバルな規制対応や倫理的開発の推進を目指す。"
-  },
-  {
-    "title": "ナレッジワークにおけるAI活用をベースとしたQAプロセスの最適化",
-    "link": "https://zenn.dev/knowledgework/articles/2114d46c201da3",
-    "source": "Zenn Trends",
-    "published": "Wed, 12 Aug 2026 02:50:05 GMT",
-    "summary": "はじめに\nナレッジワークのQAエンジニアのtettanです。ナレッジワークでは、マネージャーではなく、いちQAエンジニアという立場で、プロダクトのQA業務や品質施策の横断的な活動を行っています。\n2026年8月5日に開催された「QA Test Talk Vol.8」で、「ナレッジワークにおけるAI活用をベースとしたQAプロセスの最適化」というタイトルで発表させていただきました。この記事は、その内容を加筆したものです。\n久しぶりの業務直結の発表でした。今回は半年ほどかけてナレッジワークで取り組んできたQAの施策がまとまってきたので、シェアできればと思います。発表は15分で、後半はかなり...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--9dQELnrA--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%258A%25E3%2583%25AC%25E3%2583%2583%25E3%2582%25B8%25E3%2583%25AF%25E3%2583%25BC%25E3%2582%25AF%25E3%2581%25AB%25E3%2581%258A%25E3%2581%2591%25E3%2582%258BAI%25E6%25B4%25BB%25E7%2594%25A8%25E3%2582%2592%25E3%2583%2599%25E3%2583%25BC%25E3%2582%25B9%25E3%2581%25A8%25E3%2581%2597%25E3%2581%259FQA%25E3%2583%2597%25E3%2583%25AD%25E3%2582%25BB%25E3%2582%25B9%25E3%2581%25AE%25E6%259C%2580%25E9%2581%25A9%25E5%258C%2596%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:tettan%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2E4MWZhOWNhZmYuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E6%25A0%25AA%25E5%25BC%258F%25E4%25BC%259A%25E7%25A4%25BE%25E3%2583%258A%25E3%2583%25AC%25E3%2583%2583%25E3%2582%25B8%25E3%2583%25AF%25E3%2583%25BC%25E3%2582%25AF%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jTFpFSTRwaU9EY0pwTFo3bWVsRm1vMGRrZlZNbDhaX21aRkt3bzlyOGFuSGMybndVY1A9czk2LWM=%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "fetched_at": "2026-08-12 22:14:04",
-    "ja_summary": "・ナレッジワークのQAエンジニアが、半年かけて取り組んだAI活用によるQAプロセス最適化の施策を共有。\n・マネージャーではなく現場のエンジニア主導で、プロダクト品質向上のための横断的な改善を推進。\n・「QA Test Talk Vol.8」での発表内容をベースに、具体的な業務効率化と品質向上の取り組みを解説。"
-  },
-  {
-    "title": "Next.js BFFの認証を考察して、シンプルにする方法を考える",
-    "link": "https://zenn.dev/naofumik/articles/4fdfcbb5cf083e",
-    "source": "Zenn Trends",
-    "published": "Tue, 11 Aug 2026 14:12:33 GMT",
-    "summary": "Next.js BFFの認証をシンプルに考える\n\nNext.js BFFのAPIサーバにRuby on Railsを使用した場合、Rails側が既に認証機能を持っているケースも多い。\nその場合、Next.jsに認証やセッション管理機能を持たせるのは不要な複雑化やセキュリティの懸念を招くだけで、不要な可能性がある。\nそこで本ポストではNext.jsの役割をcookieやtokenのプロキシ(中継役)のみに制限したシンプルな認証の仕組みを紹介する。\nこれははGMOペパボやカミナシからも紹介されているものと同様であり、現場で実際に利用されているものである。\n\nNext.js SSRの認証に...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--Oc9W47TA--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Next.js%2520BFF%25E3%2581%25AE%25E8%25AA%258D%25E8%25A8%25BC%25E3%2582%2592%25E8%2580%2583%25E5%25AF%259F%25E3%2581%2597%25E3%2581%25A6%25E3%2580%2581%25E3%2582%25B7%25E3%2583%25B3%25E3%2583%2597%25E3%2583%25AB%25E3%2581%25AB%25E3%2581%2599%25E3%2582%258B%25E6%2596%25B9%25E6%25B3%2595%25E3%2582%2592%25E8%2580%2583%25E3%2581%2588%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Naofumi%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUxtNXd1M2REcDFoU0toZ2VzbmhuSl9mQmNyYU1vNnR1dHJrWUYyY3hld2JGUT1zOTYtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "fetched_at": "2026-08-12 22:14:05",
-    "ja_summary": "・Next.jsで認証を完結させず、バックエンド（Rails等）に任せる構成が推奨される。\n・Next.jsはCookieやTokenの中継役に徹することで、認証の複雑化や脆弱性を防ぐ。\n・大手企業でも採用されている「プロキシ型」の構成により、シンプルで堅牢な認証を実現する。"
-  },
-  {
-    "title": "【ClaudeCode】コスト発生要因から考えるトークン消費最適化術【トークン】",
-    "link": "https://qiita.com/Nana_777/items/1766dd6bbd308222f71b",
-    "source": "Qiita (Popular)",
-    "published": "2026-07-28T06:07:03+09:00",
-    "summary": "## はじめに\n\nClaude Codeをはじめとする AI コーディングエージェントを使っていると、「トークン消費を減らすには？」というTipsは世の中にたくさん転がっています。「CLAUDE.mdを短くしよう」「`/clear`しよう」「サブエージェントを使おう」。どれも間違いではないのですが、Tipsを闇雲に集めるだけだと、\n\n- なぜそれが効くのか分からないまま導入してしまう\n- 逆効果に",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYxOTI5NDklMkYxYmVjZGE4YTRmMWRiOWU5OTQyZDljOGMwYjZkZDA3NjkwMTM2NjgwJTJGbGFyZ2UucG5nJTNGMTc0MTQ4MzQxMD9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9MDZlM2QxY2EzNTVhN2Y4N2M2ZTQxY2RlYzdmN2M0ODI%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYxZTIwZGI1ZTdlNDA3ZWFlN2I5NzBlYzk5OTg4MGRjOGMzY2MwZjY0JTJGb3JpZ2luYWwuanBnJTNGMTY2NzI3NDk2Mz9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz04OTI0NDcwMDk1MDMyZjUxYmZlNzE3ZjVkOGUzYmE3ZA%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D0db13b4aef231a19bc684897cf15021a?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJTkwQ2xhdWRlQ29kZSVFMyU4MCU5MSVFMyU4MiVCMyVFMyU4MiVCOSVFMyU4MyU4OCVFNyU5OSVCQSVFNyU5NCU5RiVFOCVBNiU4MSVFNSU5QiVBMCVFMyU4MSU4QiVFMyU4MiU4OSVFOCU4MCU4MyVFMyU4MSU4OCVFMyU4MiU4QiVFMyU4MyU4OCVFMyU4MyVCQyVFMyU4MiVBRiVFMyU4MyVCMyVFNiVCNiU4OCVFOCVCMiVCQiVFNiU5QyU4MCVFOSU4MSVBOSVFNSU4QyU5NiVFOCVBMSU5MyVFMyU4MCU5MCVFMyU4MyU4OCVFMyU4MyVCQyVFMyU4MiVBRiVFMyU4MyVCMyVFMyU4MCU5MSZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTE2MjI1NDQ5NTg0ZGJjZjNmZTBkZDk5OWQ3ZDIzYjk4&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBOYW5hXzc3NyZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTg1YzQ4MzUyMmVkMGVhNmYxYjhkZjU5MjVjYzhiNjQz&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=S0RESeOCouOCuOODo-OCpOODq-mWi-eZuuOCu-ODs-OCv-ODvOagquW8j-S8muekvg&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=41fdb4144ad4e61884d3e57aa869ad9f",
-    "fetched_at": "2026-08-12 22:14:10",
-    "ja_summary": "Claude CodeなどのAIエージェントのトークン消費を抑えるには、Tipsの暗記ではなく「なぜ消費されるか」という仕組みの理解が不可欠。\n場当たり的な対応を避け、コスト発生の根本要因を把握することで、効果的かつ逆効果を防ぐ最適化が可能になる。"
   }
 ]
