@@ -1,5 +1,25 @@
 [
   {
+    "title": "Google版AirTag、紛失防止トラッカーPixel Tag発表　新技術『Bluetooth CS』で高精度、UWBも搭載",
+    "link": "https://www.techno-edge.net/article/2026/08/14/5393.html",
+    "source": "TechnoEdge",
+    "published": "Fri, 14 Aug 2026 19:22:17 +0900",
+    "summary": "Googleは8月12日、同社初の紛失防止トラッカー「Google Pixel Tag」を発表しました。日本での発売は11月予定で、価格は単品5,010円、4個セット16,940円です。",
+    "image": "https://www.techno-edge.net/imgs/rss/33565.jpg",
+    "fetched_at": "2026-08-14 20:09:23",
+    "ja_summary": "・Google初の紛失防止トラッカー「Pixel Tag」が発表、11月発売。\n・新技術「Bluetooth CS」とUWB搭載で、従来より高精度な位置特定が可能。\n・価格は単品5,010円、4個セット16,940円で展開。"
+  },
+  {
+    "title": "【便利】 Claude Codeの覚えておきたいスラッシュコマンドまとめ",
+    "link": "https://qiita.com/tamashiro_nobuyuki/items/573178ed3b8a6a22ebb1",
+    "source": "Qiita (Popular)",
+    "published": "2026-08-07T17:14:06+09:00",
+    "summary": "## Claude Codeの覚えておきたいスラッシュコマンドまとめ\n\nClaude Codeを使っていて「コマンド何だっけ?」となることが多かったので、よく使うスラッシュコマンドを用途別に整理しました。\n\n### 早見表\n\n| コマンド | 何をするか |\n|---|---|\n| `/compact` | 会話を要約して圧縮し、継続する |\n| `/clear` | 会話を完全にリセットする |",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmxoMy5nb29nbGV1c2VyY29udGVudC5jb20lMkZhJTJGQUNnOG9jSVpOcG9KbUxlWjJHQWFwY1BfMzJvU0tVUTVjZzl1Nnl4THVVTmRHaVlwOE5SeiUzRHM5Ni1jP2l4bGliPXJiLTQuMS4xJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz1jNDRmMzZlNjA4OWZhZGE0NjUzNTQwNWVmYjJiYjAwZg%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYwZDI2NDAxZDJiYjJhNzgxZWI4YWU4MGNmNWM2NmUxNzlhNmMzMjMzJTJGb3JpZ2luYWwuanBnJTNGMTcyNzgyODEzMz9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz1jNmJiYmFjMjgwMjVkMTk3OTdkOThiYzI1NDFkYTc1OQ%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D6ff3c4852ece3c4243bf155971aa9ba3?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJTkwJUU0JUJFJUJGJUU1JTg4JUE5JUUzJTgwJTkxJTIwQ2xhdWRlJTIwQ29kZSVFMyU4MSVBRSVFOCVBNiU5QSVFMyU4MSU4OCVFMyU4MSVBNiVFMyU4MSU4QSVFMyU4MSU4RCVFMyU4MSU5RiVFMyU4MSU4NCVFMyU4MiVCOSVFMyU4MyVBOSVFMyU4MyU4MyVFMyU4MiVCNyVFMyU4MyVBNSVFMyU4MiVCMyVFMyU4MyU5RSVFMyU4MyVCMyVFMyU4MyU4OSVFMyU4MSVCRSVFMyU4MSVBOCVFMyU4MiU4MSZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPThjOGU2Y2QyMzMwN2Q3YmViYzIzMTY3YTU4MzM2NTI2&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDB0YW1hc2hpcm9fbm9idXl1a2kmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1lMjVjZDc3ZTcxYWM0NjA2OTYyNjQxYWZlNTMwNDM3MQ&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=5qCq5byP5Lya56S-TkVYVCBURUNITk9MT0dZ&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=fcc7f86bb128f04e5e84943adc73e30f",
+    "fetched_at": "2026-08-14 20:09:29",
+    "ja_summary": "Claude Codeの主要スラッシュコマンドは以下の通り。\n・`/compact`：会話を要約・圧縮して継続する\n・`/clear`：会話履歴を完全にリセットする"
+  },
+  {
     "title": "自分のHTML資産を増やすと、AIで見た目の良いサイトを作りやすくなる",
     "link": "https://qiita.com/uni928/items/b4a874f0bbf91d378097",
     "source": "Qiita (Popular)",
@@ -978,25 +998,5 @@
     "image": "https://media.loom-app.com/loom/2026/08/12/8f3de708-090a-4801-8c0f-dc11e6e41bca/original.jpg?w=1200",
     "fetched_at": "2026-08-13 07:08:49",
     "ja_summary": "・ブッキングCEOは、AI導入が避けられない雇用への悪影響（人的コスト）を伴うと警告。\n・全従業員に対し、将来的な失業リスクに備えた「AIリテラシー」の習得を義務付け。\n・AIによる自動化が金融やテック業界を含む広範な雇用構造を変えると予測。"
-  },
-  {
-    "title": "NEC、AIマーケティング支援「BestMove」を本格展開--AIペルソナで新事業創出",
-    "link": "https://japan.zdnet.com/article/35251417/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "NECは、実購買データを基に高解像度なAIペルソナを生成し、企業のマーケティング施策立案を支援するツール「BestMove」の事業拡大を本格化する。デジタル空間でのAIアンケートや壁打ちにより、従来数カ月を要した市場調査を最短1週間に短縮する。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35251417/\"><img src=\"https://japan.zdnet.com/storage/2026/08/07/22626466d2dd8e791c7e798a3bd688e2/t/184/138/d/260807_nec_l.jpg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2026/08/07/22626466d2dd8e791c7e798a3bd688e2/t/184/138/d/260807_nec_l.jpg",
-    "fetched_at": "2026-08-13 07:08:53",
-    "ja_summary": "・NECがAIマーケティング支援ツール「BestMove」を本格展開。\n・実購買データに基づくAIペルソナを活用し、新事業創出をサポート。\n・AIとの対話で市場調査を数カ月から最短1週間に大幅短縮。"
-  },
-  {
-    "title": "How RingCentral builds AI-native work from engineering to ops",
-    "link": "https://openai.com/index/ringcentral",
-    "source": "OpenAI",
-    "published": "Wed, 12 Aug 2026 00:00:00 GMT",
-    "summary": "See how RingCentral uses ChatGPT Work and Codex to accelerate AI product development and centralize operational intelligence across engineering and operations.",
-    "image": "https://images.ctfassets.net/kftzwdyauwt9/2k1A67ewu2PHI2pt2Wh6zG/b0e09c92f1db264476fd343a1dfd63a8/ringcentral-drive-seo.png?w=1600&amp;h=900&amp;fit=fill",
-    "fetched_at": "2026-08-13 07:08:55",
-    "ja_summary": "・RingCentralはChatGPT WorkとCodexを活用し、AI製品の開発スピードを加速させている。\n・エンジニアリングからオペレーションまでAIを統合し、組織全体の知見を集約。\n・AIネイティブなワークフローを構築することで、開発と運用の効率を最大化している。"
   }
 ]
