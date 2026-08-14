@@ -1,5 +1,15 @@
 [
   {
+    "title": "How Claude’s text watermark works",
+    "link": "https://www.anthropic.com/news/claude-text-watermark",
+    "source": "Anthropic (News)",
+    "published": "Fri, 14 Aug 2026 00:00:00 +0000",
+    "summary": "How Claude’s text watermark works",
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Quill&amp;backgroundColor=heather",
+    "fetched_at": "2026-08-15 04:54:53",
+    "ja_summary": "・Claudeの生成テキストには、AIによる作成か判別するための不可視の電子透かしが埋め込まれている。\n・特定の統計的手法を用い、通常の文章分布に微細な偏りを加えることで、AIの生成物であることを特定する。\n・この仕組みにより、AI生成コンテンツの透明性向上と不正利用の検知を両立させている。"
+  },
+  {
     "title": "NEC、AIマーケティング支援「BestMove」を本格展開--AIペルソナで新事業創出",
     "link": "https://japan.zdnet.com/article/35251417/",
     "source": "ZDNET Japan",
@@ -988,15 +998,5 @@
     "image": "https://www.watch.impress.co.jp/img/ipw/list/2132/426/mn1.jpg",
     "fetched_at": "2026-08-13 08:40:32",
     "ja_summary": "・AIエージェントの「Manus」がMetaの傘下を離れ、独立運営へと移行。\n・ユーザーに対し、サービス独立に伴うデータバックアップを推奨。\n・利用者は自身のデータ移行手続きが必要となるため注意。"
-  },
-  {
-    "title": "日本発AI「Sakana Fugu」は何がすごい？　“小さなAIの群れ”で巨大AIに挑む",
-    "link": "https://www.itmedia.co.jp/business/articles/2608/12/news027.html",
-    "source": "ITmedia ビジネス",
-    "published": "Wed, 12 Aug 2026 05:30:00 +0900",
-    "summary": "日本発のAIベンチャーSakana AIが、新たなAIシステム「Sakana Fugu」を公開した。米国や中国のAI企業が巨大なAIモデルの開発を競う中、同社はどう戦うのか。",
-    "image": "https://image.itmedia.co.jp/business/articles/2608/12/cover_news027.jpg",
-    "fetched_at": "2026-08-13 07:58:17",
-    "ja_summary": "・日本のSakana AIが、独自の「Fugu」モデルを公開。\n・巨大モデルを構築する米中に対抗し、小さなAIを複数組み合わせる手法を採用。\n・効率的な「群れ」の連携で、AI開発の新たな潮流を作る。"
   }
 ]
