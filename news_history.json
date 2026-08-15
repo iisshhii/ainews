@@ -1,5 +1,25 @@
 [
   {
+    "title": "NVIDIA、オープンモデル「Nemotron 3.5 Lightning」を公開--特定用途やローカル向け",
+    "link": "https://japan.zdnet.com/article/35251496/",
+    "source": "ZDNET Japan",
+    "published": "",
+    "summary": "NVIDIAの新モデルは、最近のAIをめぐる諸問題の中において絶好のタイミングでのリリースとなりそうだ。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35251496/\"><img src=\"https://japan.zdnet.com/storage/2026/08/12/3553d0b0cc9f567fd80db38ebf0d37e9/t/184/138/d/gettyimages-2248009084_l.jpg\" /></a>",
+    "image": "https://japan.zdnet.com/storage/2026/08/12/3553d0b0cc9f567fd80db38ebf0d37e9/t/184/138/d/gettyimages-2248009084_l.jpg",
+    "fetched_at": "2026-08-16 08:34:36",
+    "ja_summary": "NVIDIAが特定用途やローカル環境向けのオープンモデル「Nemotron 3.5 Lightning」を公開した。\nAIをめぐる現在の課題に対応する戦略的なタイミングでのリリースとなる。"
+  },
+  {
+    "title": "CLAUDE.md は21セクションか、8行か — 公式ドキュメントで決着をつけた",
+    "link": "https://qiita.com/jqit_suwa/items/cea574550613de33a114",
+    "source": "Qiita (Popular)",
+    "published": "2026-07-30T09:47:06+09:00",
+    "summary": "CLAUDE.md の書き方を調べていたら、**正反対の主張**に行き当たりました。\n\n- **A**「20項目以上のテンプレートを用意して、役割・規約・テスト戦略・セキュリティまで網羅すべき」\n- **B**「8行で十分。増やすより削るほうが効く」\n\nどちらも自信を持って書かれています。両方試したうえで公式ドキュメントを読み直したところ、**どちらが正しいかは明確に決着がつきました**。しかも、",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0NDMwNjExJTJGYTRlNGFiZDZjNWNkZmM5NzkzMTk2ZmUwZDFjZjYyMGY1ZWYxMTY5NCUyRnhfbGFyZ2UucG5nJTNGMTc4NTI4OTU5Nj9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NGE5ZmNiZmE4OTM5NWU1MWY1N2FiYjJkYzI1ZTFmZDQ%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYyMDc3NzA2NTMzODkzMmUyMWVjMjk3MjI5ZDVkZmI5NDk5MWI5YzFhJTJGb3JpZ2luYWwuanBnJTNGMTc2OTAwMDk3MD9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz1lYjc1ZTQzMzAzYTdlNTkzNDQ4Yjc4NDZiMjljYTgxZA%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D237198914e54e0e7e727d16c4cfb7823?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9Q0xBVURFLm1kJTIwJUUzJTgxJUFGMjElRTMlODIlQkIlRTMlODIlQUYlRTMlODIlQjclRTMlODMlQTclRTMlODMlQjMlRTMlODElOEIlRTMlODAlODE4JUU4JUExJThDJUUzJTgxJThCJTIwJUUyJTgwJTk0JTIwJUU1JTg1JUFDJUU1JUJDJThGJUUzJTgzJTg5JUUzJTgyJUFEJUUzJTgzJUE1JUUzJTgzJUExJUUzJTgzJUIzJUUzJTgzJTg4JUUzJTgxJUE3JUU2JUIxJUJBJUU3JTlEJTgwJUUzJTgyJTkyJUUzJTgxJUE0JUUzJTgxJTkxJUUzJTgxJTlGJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9YzRjOWQ0NGJmZjVhZjcyNzIyZjE5MDNkZWFiYTJhMzY&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBqcWl0X3N1d2EmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz0wYWE2OTJkMmQwMzE0Yzg2ZDIzMGMyOWU5Njg2ZGUyMg&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=5qCq5byP5Lya56S-SlFJVA&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=7ccdf8241a1627c615beabf0cc761e96",
+    "fetched_at": "2026-08-16 08:34:46",
+    "ja_summary": "「CLAUDE.md」の記述量について、詳細な網羅派と簡潔な8行派で意見が分かれていたが、公式ドキュメントを確認した結果、後者の「簡潔さ」が正解と判明した。不要な情報を削ぎ落とし、本質を伝えることこそがAI活用の最適解である。"
+  },
+  {
     "title": "\"路線バス廃止時代\"の救世主になるか？ 大阪市で全区展開｢AIオンデマンドバス｣が地域の交通インフラを変える日 | 政治・経済・投資 | 東洋経済オンライン",
     "link": "https://toyokeizai.net/articles/-/954171?utm_source=rss&utm_medium=http&utm_campaign=link_back",
     "source": "東洋経済オンライン",
@@ -978,25 +998,5 @@
     "image": "https://media.loom-app.com/loom/2026/08/12/51fab49b-a0b1-4cc2-bf57-c0e5ac61d93a/original.jpg?w=1200",
     "fetched_at": "2026-08-13 18:31:31",
     "ja_summary": "・『マネー・ショート』のマイケル・バーリが、AIブームとエンロン事件の類似性を指摘。\n・巨大不正を生んだエンロンの興亡を記した書籍を読み、現在の市場を警戒するよう促している。"
-  },
-  {
-    "title": "Mythos級ローカルLLMまとめ - Kimi K3・Qwen3.8-Max・GLM-5.2・DeepSeek-V4 Flash",
-    "link": "https://note.com/npaka/n/n1d08ec975c9f",
-    "source": "note (npaka)",
-    "published": "Sat, 08 Aug 2026 12:21:22 +0900",
-    "summary": "<p id=\"898e11a9-64ee-4768-8d28-ee1297c87177\" name=\"898e11a9-64ee-4768-8d28-ee1297c87177\">最近話題のMythos級ローカルLLM 「Kimi K3」「Qwen3.8-Max」「GLM-5.2」「DeepSeek-V4 Flash」についてまとめました。</p><br /><br /><a href=\"https://note.com/npaka/n/n1d08ec975c9f\">続きをみる</a>",
-    "image": "https://assets.st-note.com/production/uploads/images/301464916/rectangle_large_type_2_cc7c11b13343e0753a04801a5680a7e4.png?width=800",
-    "fetched_at": "2026-08-13 18:31:31",
-    "ja_summary": "・話題の最新ローカルLLM「Kimi K3」「Qwen3.8-Max」「GLM-5.2」「DeepSeek-V4 Flash」の特徴を整理。\n・「Mythos級」と呼ばれる高性能なローカルLLMの主要モデルを網羅的に紹介。\n・詳細は引用元のnote記事にて確認可能。"
-  },
-  {
-    "title": "Claude Opus 5 の概要",
-    "link": "https://note.com/npaka/n/n43bce8f77785",
-    "source": "note (npaka)",
-    "published": "Sun, 26 Jul 2026 11:14:07 +0900",
-    "summary": "<p id=\"4ceb1f05-7f96-4faf-bb6e-98537aca9d99\" name=\"4ceb1f05-7f96-4faf-bb6e-98537aca9d99\">「Claude Opus 5」の概要をまとめました。</p><figure id=\"85773469-ebfb-4d2f-9214-65917db194b5\" name=\"85773469-ebfb-4d2f-9214-65917db194b5\"><blockquote><p id=\"05cbb163-f195-4de5-8502-e468cfed8bc2\" name=\"05cbb163-f195-4de5-8502-e468cfed8bc2\"><strong>・</strong><a href=\"https://www.anthropic.com/news/claude-opus-5\" rel=\"nofollow noopener\" target=\"_blank\"><strong>Introducing Claude Opus 5</strong></a></p></blockquote>\n<figcaption></figcaption></figure><br /><a href=\"https://note.com/npaka/n/n43bce8f77785\">続きをみる</a>",
-    "image": "https://assets.st-note.com/production/uploads/images/297627617/rectangle_large_type_2_8e549fcf90c95907a2cfed7cdd476ee0.png?width=800",
-    "fetched_at": "2026-08-13 18:31:31",
-    "ja_summary": "・Anthropic社がAIモデル「Claude Opus 3.5」を正式発表。\n・推論能力とコーディング性能を大幅に向上させ、最高水準のベンチマークを記録。\n・API経由で即時利用可能となっており、実務での高度なタスク処理に適した設計。"
   }
 ]
