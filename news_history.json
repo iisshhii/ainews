@@ -1,5 +1,15 @@
 [
   {
+    "title": "メール確認コードを不要にする Email Verification Protocol (EVP)",
+    "link": "https://zenn.dev/tkou15/articles/email-verification-protocol",
+    "source": "Zenn Trends",
+    "published": "Thu, 13 Aug 2026 06:27:09 GMT",
+    "summary": "はじめに\nアカウント登録時のメールアドレス確認は、Web でもっとも普及していて、もっとも面倒な手続きのひとつです。ユーザーは、\n\nフォームにメールアドレスを入力する\nメールクライアントに切り替える\nメールの到着を待つ（迷惑メールフォルダを探すこともある）\n確認コードをコピーする\n元のサイトに戻って貼り付ける\n\nという往復を強いられます。WICG の explainer によると、アクセス数上位 50 サイトのうち 95% がメールアドレスによるアカウント作成に対応しており、そのうち 73% はメール確認が完了するまでアカウント作成を先に進めさせません。つまり、この往復はコンバージョ...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--81AKaMik--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%25A1%25E3%2583%25BC%25E3%2583%25AB%25E7%25A2%25BA%25E8%25AA%258D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2589%25E3%2582%2592%25E4%25B8%258D%25E8%25A6%2581%25E3%2581%25AB%25E3%2581%2599%25E3%2582%258B%2520Email%2520Verification%2520Protocol%2520%2528EVP%2529%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:k1t%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzFlZTgxM2Q0NDYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-08-15 14:17:29",
+    "ja_summary": "・Webサイト登録時のメール確認作業は、ユーザーの離脱を招く大きな負担となっている。\n・この手間を解消するため、メール確認コード入力を不要にする新規格「EVP」が提案された。\n・導入により、スムーズなアカウント作成とコンバージョン率の向上が期待される。"
+  },
+  {
     "title": "AIで自作した放置型絵文字ローグライク『探犬∞』に一人称視点をつけたらDOOMライクになった（CloseBox）",
     "link": "https://www.techno-edge.net/article/2026/08/15/5395.html",
     "source": "TechnoEdge",
@@ -988,15 +998,5 @@
     "image": "https://japan.zdnet.com/storage/2026/08/06/96e83e8cbaab3bfc12faace521bfb834/t/184/138/d/260810_vaio_l.jpg",
     "fetched_at": "2026-08-13 12:14:03",
     "ja_summary": "VAIOがPC内蔵カメラで心拍や血管の状態を測定する健康管理アプリを発表。\n特別な機器は不要で、作業中に最短3秒で非接触センシングが可能。\nPCを使うだけで手軽に日常的な健康状態の把握ができるようになる。"
-  },
-  {
-    "title": "Google Geminiが月間アクティブユーザー数10億人を突破。ChatGPTに続く",
-    "link": "https://www.techno-edge.net/article/2026/08/12/5383.html",
-    "source": "TechnoEdge",
-    "published": "Wed, 12 Aug 2026 07:00:03 +0900",
-    "summary": "Googleのスンダー・ピチャイCEOは、同社のAIアシスタントアプリ「Gemini」の月間アクティブユーザー数（MAU）が10億人を突破したとXを通じて発表しました。",
-    "image": "https://www.techno-edge.net/imgs/rss/33494.jpg",
-    "fetched_at": "2026-08-13 12:14:04",
-    "ja_summary": "・GoogleのAIアプリ「Gemini」の月間利用者が10億人を突破。\n・スンダー・ピチャイCEOが公式に発表。\n・ChatGPTに続き、AI市場での圧倒的な普及率を証明。"
   }
 ]
