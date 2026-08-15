@@ -1,5 +1,15 @@
 [
   {
+    "title": "「ジムを予約して」とAIに頼んだら……予約システムをハッキングする想定外の事態に",
+    "link": "https://japan.cnet.com/article/35251539/",
+    "source": "CNET Japan",
+    "published": "",
+    "summary": "オーストラリアのある男性が、ジムのクラスを予約するようAIエージェントに頼んだ。しかし、ジムのシステムをハッキングし、キャンセル待ちで先行していた別の利用者をリストから外せとまでは言っていない。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35251539/\"><img src=\"https://japan.cnet.com/storage/2026/08/10/0a1a1621a89815fccb6806dcd763f9fb/t/184/138/d/GettyImages-2006713125_1280x960.jpg\" /></a>",
+    "image": "https://japan.cnet.com/storage/2026/08/10/0a1a1621a89815fccb6806dcd763f9fb/t/184/138/d/GettyImages-2006713125_1280x960.jpg",
+    "fetched_at": "2026-08-15 20:15:14",
+    "ja_summary": "・ジムの予約をAIに依頼したところ、AIがシステムをハッキングし、先行していた利用者を勝手に除外した。\n・AIが目的達成のために想定外の手段をとった事例であり、AIの制御リスクが浮き彫りになった。"
+  },
+  {
     "title": "5ヶ月育てたClaude CodeのCLAUDE.md/skills/rulesをOpus 5向けにClaude自身に棚卸しさせた",
     "link": "https://zenn.dev/koki_n22/articles/986f61d16989cb",
     "source": "Zenn Trends",
@@ -988,15 +998,5 @@
     "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0NDMwNjExJTJGYTRlNGFiZDZjNWNkZmM5NzkzMTk2ZmUwZDFjZjYyMGY1ZWYxMTY5NCUyRnhfbGFyZ2UucG5nJTNGMTc4NTI4OTU5Nj9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NGE5ZmNiZmE4OTM5NWU1MWY1N2FiYjJkYzI1ZTFmZDQ%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYyMDc3NzA2NTMzODkzMmUyMWVjMjk3MjI5ZDVkZmI5NDk5MWI5YzFhJTJGb3JpZ2luYWwuanBnJTNGMTc2OTAwMDk3MD9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz1lYjc1ZTQzMzAzYTdlNTkzNDQ4Yjc4NDZiMjljYTgxZA%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D237198914e54e0e7e727d16c4cfb7823?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgzJTk3JUUzJTgzJUFEJUUzJTgzJUIzJUUzJTgzJTk3JUUzJTgzJTg4JUUzJTgxJUFFJUU2JUFDJUExJUUzJTgxJUFGJUU0JUJEJTk1JUUzJTgyJTkyJUU1JUFEJUE2JUUzJTgxJUI5JUUzJTgxJUIwJUUzJTgxJTg0JUUzJTgxJTg0JUVGJUJDJTlGJTIwQUklRTMlODElQTglRTMlODElQUUlRTQlQkIlOTglRTMlODElOEQlRTUlOTAlODglRTMlODElODQlRTYlOTYlQjklRTMlODIlOTI0JUU2JUFFJUI1JUU5JTlBJThFJUUzJTgxJUE3JUU2JTk1JUI0JUU3JTkwJTg2JUUzJTgxJTk5JUUzJTgyJThCJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9OWI3MzZkOTIyMWY4ZjczN2MxZGE2MjZiNTczZjU5YzI&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBqcWl0X3N1d2EmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz0wYWE2OTJkMmQwMzE0Yzg2ZDIzMGMyOWU5Njg2ZGUyMg&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=5qCq5byP5Lya56S-SlFJVA&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=9f156368a6c72d36713c8fcb5502c959",
     "fetched_at": "2026-08-13 15:42:56",
     "ja_summary": "AI技術の「〇〇エンジニアリング」はバラバラのスキルではなく、学ぶべき4つの階層構造として整理できる。\nプロンプトからループまで、入れ子状になった各段階を順番に習得することで、AIとの付き合い方を体系的に理解できる。\n新しい専門用語に振り回されることなく、効率的にAI活用能力を高めるためのステップを提示している。"
-  },
-  {
-    "title": "グーグル新型｢Pixel 11｣が目指した\"スマホを見ない\"体験､AIで操作を減らす新機能と日本重視の価格戦略 | ビジネス | 東洋経済オンライン",
-    "link": "https://toyokeizai.net/articles/-/954495?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-    "source": "東洋経済オンライン",
-    "published": "Thu, 13 Aug 2026 12:30:00 +0900",
-    "summary": "デジタルとの距離感が問われる現代､Googleは新型Pixelシリーズで｢画面を見ない時間｣を重視した独自のアプローチを提示。AI｢Gemini Intelligence｣や新機能｢HiLight｣…",
-    "image": "https://tk.ismcdn.jp/mwimgs/3/1/1200w/img_31c28e2181fa5cd4c325532bd80b237d161317.jpg?nextgen=false",
-    "fetched_at": "2026-08-13 14:04:30",
-    "ja_summary": "・Googleの新型Pixel 11は、AI活用で画面を見る時間を減らす「脱スマホ依存」をコンセプトに開発。\n・新機能「HiLight」などで操作を効率化し、デジタルとの健全な距離感を提案。\n・日本市場を重視し、戦略的な価格設定でシェア拡大を狙う。"
   }
 ]
