@@ -1,5 +1,15 @@
 [
   {
+    "title": "Aida（あいだ）— 離婚後の子育てを、AIが「あいだ」に立って支える｜AI HACK 2026",
+    "link": "https://speakerdeck.com/sugimomoto/aida-aida-rikongo-no-kosodate-o-ai-ga-aida-ni-ta-te-sasaeru-ai-hack-2026",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-08-15T01:48:13-04:00",
+    "summary": "離婚した父母が、別々に暮らしながら子どもを一緒に育てていくためのアプリ「Aida（あいだ）」です。\nAI HACK 2026 提出作品。\n\n父はAIと話し、母もAIと話します。\nAIが、責める言い回しや感情の部分を取り除いて、決めるために要る事実だけを相手に伝えます。\n\n── 例 ──\n入力（父が書いたもの）\n  月3万が限界。こっちだって仕事切られて必死なんだよ。少しは考えろ\n\n母の画面に届くもの\n  養育費について、月額3万円までを希望されているそうです。\n  背景として、現在は職を失っているとのことです。\n────────\n\n大事なのは「必死なんだよ」が届かなかったことではありません。\n月3万円という希望と、仕事を失ったという事情が、相手に届いたことです。\n\nこのままの言葉では送れません。送れば話し合いはそこで止まります。\nだから多くの人は送らない。そして何も決まらない。\nAida がやるのは、送れなかったものを、送れる形にして届けることです。\n\n\n■ なぜ作ったか\n\n国の調査で、養育費の取り決めをしない理由の第1位は「相手と関わりたくない」です。\n裁判所や代理人が入れば取り決め率は 43.6% → 81.2% に上がりますが、\n離婚の 87.5% を占める協議離婚には、誰も入ってきません。\n\n人がやると成立しない条件——非同期・24時間・低単価——で、\nあいだに入る役割を果たせるか。それがこのプロダクトの問いです。\n\n■ 技術的な要点\n\n・LLM に文章を書かせず、論点ごとに決めた型を埋めさせています\n  （LLM に渡す型は全部 string。「6万円」は 60000 ではなく「6万円」のまま受け取る）\n・相手に届く文章は、検査を通った要素を定型の枠に流し込んで組み立てています\n・越境の直前に実行時の検査（逐語一致／ホワイトリスト／伝聞形）\n・対になる2つの検査 — 文章は原文と一致してはならない、値は原文に書かれていなければならない\n・養育費の金額は裁判所の算定表から決定的に引き、条項はひな形の置換のみ（LLM 不使用）\n\n技術的な詳細はブログに書きました。\nhttps://qiita.com/sugimomoto/items/663ac81...\n\nGithub\nhttps://github.com/sugimomoto/AIHack\n\nLLM ゲートウェイに OrcaRouter（AI HACK 2026 スポンサー）を使用しています。",
+    "image": "https://files.speakerdeck.com/presentations/6d5bbcc478b9453bb6c666117a56aa4c/preview_slide_0.jpg?40285760",
+    "fetched_at": "2026-08-15 15:22:43",
+    "ja_summary": "離婚後の父母が感情を排して養育費や教育等の協議を行えるアプリ「Aida」が開発された。\nAIが入力文から感情的な言葉を除き、必要な事実のみを定型文に変換して相手に伝達する。\n協議離婚で課題となる「相手と関わりたくない」心理を解消し、円滑な合意形成を支援する。"
+  },
+  {
     "title": "メール確認コードを不要にする Email Verification Protocol (EVP)",
     "link": "https://zenn.dev/tkou15/articles/email-verification-protocol",
     "source": "Zenn Trends",
@@ -988,15 +998,5 @@
     "image": "https://media.loom-app.com/loom/2026/06/08/8c6e5c40-fd52-4a04-b9ca-4d49cf257a38/original.jpg?w=1200",
     "fetched_at": "2026-08-13 12:13:54",
     "ja_summary": "・学歴や成績より、変化に対応する適応力が重要。\n・AI時代は「学び続ける姿勢」と「自ら課題を見つける力」が必須。\n・既存のスキルに固執せず、未経験分野への好奇心を持つことがキャリアを拓く。"
-  },
-  {
-    "title": "PCが従業員の健康を見守る「VAIO ウェルネスケア」--内蔵カメラで最短3秒、健康見守り",
-    "link": "https://japan.zdnet.com/article/35251335/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "VAIOは、PC内蔵カメラを通じてユーザーの健康状態を非接触でセンシングするアプリケーション「VAIO ウェルネスケア」を発表した。特別なデバイスを装着することなく、日々のPC作業の中で「血管情報」と「心拍情報」を測定できる。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35251335/\"><img src=\"https://japan.zdnet.com/storage/2026/08/06/96e83e8cbaab3bfc12faace521bfb834/t/184/138/d/260810_vaio_l.jpg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2026/08/06/96e83e8cbaab3bfc12faace521bfb834/t/184/138/d/260810_vaio_l.jpg",
-    "fetched_at": "2026-08-13 12:14:03",
-    "ja_summary": "VAIOがPC内蔵カメラで心拍や血管の状態を測定する健康管理アプリを発表。\n特別な機器は不要で、作業中に最短3秒で非接触センシングが可能。\nPCを使うだけで手軽に日常的な健康状態の把握ができるようになる。"
   }
 ]
