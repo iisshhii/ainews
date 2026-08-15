@@ -1,5 +1,15 @@
 [
   {
+    "title": "米軍AIシステム「メイブン」とは",
+    "link": "https://news.yahoo.co.jp/pickup/6591883?source=rss",
+    "source": "Yahoo!ニュース IT・科学",
+    "published": "Sat, 15 Aug 2026 14:22:11 GMT",
+    "summary": "",
+    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/8/15/6ab08075a92b9e64e518097d92809759fedf793d7e985d2aa6ffae74670ecaae.jpg",
+    "fetched_at": "2026-08-15 23:45:31",
+    "ja_summary": "・「メイブン」は米軍が導入したAI画像解析システムで、ドローン映像から標的を自動識別する。\n・膨大な偵察データから人間では見落としがちな脅威を瞬時に特定し、判断を支援する。\n・軍の作戦効率と速度を飛躍的に向上させる一方、倫理的課題やAI兵器化への議論も呼んでいる。"
+  },
+  {
     "title": "インド なぜ若者1000万人にAI研修",
     "link": "https://news.yahoo.co.jp/pickup/6591881?source=rss",
     "source": "Yahoo!ニュース IT・科学",
@@ -988,15 +998,5 @@
     "image": "https://res.cloudinary.com/zenn/image/upload/s--npAeFqkq--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590Go%25E3%2580%2591Dockerfile%2520%25E3%2581%25AB%2520air%2520%25E3%2581%25AF%25E4%25B8%258D%25E8%25A6%2581%25EF%25BC%259F%2520Use%2520Compose%2520Watch%2520%25E3%2582%2592%25E5%2589%258D%25E6%258F%2590%25E3%2581%25AB%25E3%2581%2597%25E3%2581%259F%25E3%2582%25B3%25E3%2583%25B3%25E3%2583%2586%25E3%2583%258A%25E6%25A7%258B%25E7%25AF%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%258A%25E3%2583%25BC%25E3%2581%259F%25E3%2581%258B%25E3%2581%2593%25E3%2583%25BC%25E3%2581%259F%25E3%2582%258D%25E3%2583%25BC%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzNlODRhZTM5M2MuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
     "fetched_at": "2026-08-13 15:42:53",
     "ja_summary": "・Dockerの「Compose Watch」機能を使えば、外部ツール（air等）なしでGoのホットリロード環境が構築可能。\n・開発と本番でDockerfileを共通化できるため、構成がシンプルになる。\n・`compose.yaml`で`develop`設定を行うだけで実現できる。"
-  },
-  {
-    "title": "中古サーバ用GPUでローカルLLM環境を作る試算（MI50 / P40 / P100 / V100 / CMP 170HX）",
-    "link": "https://zenn.dev/phpmyadmin/articles/used-server-gpu-local-llm",
-    "source": "Zenn Trends",
-    "published": "Tue, 11 Aug 2026 05:19:22 GMT",
-    "summary": "追記：2026年8月11日 MI50とP40の情報を加えました。表では触れていますが本文ではあまり触れられていません。\nデータセンターやマイニングで役目を終えた GPU が中古市場に流れている。Tesla P100 (16GB)は 2万円、Tesla V100 （32GB）は 12万円、CMP 170HX （64GB）は22万円程度でメルカリやヤフオクで買える。同じ 32GB を積む新品の RTX 5090 は 77.4万円、ユニファイドメモリで128GBのDGX Sparkは98万円する。\nメモリ 1GB あたりの価格に直すと大きな差になる。\n\n最安は Radeon Instinct ...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--nQxXRHsZ--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E4%25B8%25AD%25E5%258F%25A4%25E3%2582%25B5%25E3%2583%25BC%25E3%2583%2590%25E7%2594%25A8GPU%25E3%2581%25A7%25E3%2583%25AD%25E3%2583%25BC%25E3%2582%25AB%25E3%2583%25ABLLM%25E7%2592%25B0%25E5%25A2%2583%25E3%2582%2592%25E4%25BD%259C%25E3%2582%258B%25E8%25A9%25A6%25E7%25AE%2597%25EF%25BC%2588MI50%2520%252F%2520P40%2520%252F%2520P100%2520%252F%2520V100%2520%252F%2520CMP%25201...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:toyoshi%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzIyZjVkMWIwNTkuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "fetched_at": "2026-08-13 15:42:54",
-    "ja_summary": "中古のデータセンター向けGPU（P40/V100/CMP 170HX等）は、最新の新品GPUに比べメモリ容量あたりの単価が圧倒的に安く、ローカルLLM環境の構築に最適です。\n数万円から購入可能な中古品を活用すれば、高額な最新ハイエンド機や専用機に頼らずとも、大容量メモリを搭載したAI環境を低コストで構築できます。"
   }
 ]
