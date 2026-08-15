@@ -1,5 +1,15 @@
 [
   {
+    "title": "自作アプリからCodex CLIを呼び出す方法",
+    "link": "https://note.com/npaka/n/na1241d876cbb",
+    "source": "note (npaka)",
+    "published": "Sat, 15 Aug 2026 23:55:06 +0900",
+    "summary": "<p id=\"292ad740-7998-4011-b2f8-1e5c7f497b27\" name=\"292ad740-7998-4011-b2f8-1e5c7f497b27\">ChatGPTサブスクを契約したアカウントでログイン済みの「Codex CLI」を、自作アプリから呼び出す方法を紹介します。</p><br /><br /><a href=\"https://note.com/npaka/n/na1241d876cbb\">続きをみる</a>",
+    "image": "https://assets.st-note.com/production/uploads/images/303840025/rectangle_large_type_2_b1eafb819c299d7d13874d1a766a24d7.png?width=800",
+    "fetched_at": "2026-08-16 00:00:28",
+    "ja_summary": "ChatGPTのサブスク契約済みアカウントでログインした「Codex CLI」を、自作アプリから呼び出す手法を解説。\n既存の認証情報を活用することで、プログラム経由での利用が可能になる。\n詳細な手順はリンク先の記事にて確認できる。"
+  },
+  {
     "title": "米軍AIシステム「メイブン」とは",
     "link": "https://news.yahoo.co.jp/pickup/6591883?source=rss",
     "source": "Yahoo!ニュース IT・科学",
@@ -988,15 +998,5 @@
     "image": "https://res.cloudinary.com/zenn/image/upload/s--BQ6yKX4L--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520%25E3%2581%258C%25E3%2583%2586%25E3%2582%25AD%25E3%2582%25B9%25E3%2583%2588%25E3%2581%25AB%25E9%259B%25BB%25E5%25AD%2590%25E9%2580%258F%25E3%2581%258B%25E3%2581%2597%25E3%2582%2592%25E5%2585%25A5%25E3%2582%258C%25E5%25A7%258B%25E3%2582%2581%25E3%2581%259F%25E3%2581%25AE%25E3%2581%25A7%25E3%2580%2581LLM%2520%25E3%2582%25A6%25E3%2582%25A9%25E3%2583%25BC%25E3%2582%25BF%25E3%2583%25BC%25E3%2583%259E%25E3%2583%25BC%25E3%2582%25AD%25E3%2583%25B3%25E3%2582%25B0%25E3%2581%25AE%25E4%25BB%2595%25E7%25B5%2584%25E3%2581%25BF%25E3%2582%2592%25E8%25AA%25BF%25E3%2581%25B9%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Kaito%2520Sugimoto%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzYxMTZhZmU1YmMuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
     "fetched_at": "2026-08-13 15:42:52",
     "ja_summary": "・Anthropic社は2026年8月以降、Claudeが生成するすべてのテキストに機械可読な「電子透かし」を導入。\n・EU AI法などの規制順守が目的であり、この措置はEU圏外を含む世界中で適用される。\n・AI生成コンテンツの透明性を確保し、偽造や悪用を判別可能にすることが狙い。"
-  },
-  {
-    "title": "【Go】Dockerfile に air は不要？ Use Compose Watch を前提にしたコンテナ構築",
-    "link": "https://zenn.dev/otakakot/articles/693a8367fd5f01",
-    "source": "Zenn Trends",
-    "published": "Wed, 12 Aug 2026 01:00:05 GMT",
-    "summary": "はじめに\nあんまり解説記事なさそうなので、メモがてらの投稿です。（私が最近記事を見なくなっただけかもです。）\nhttps://docs.docker.com/compose/how-tos/file-watch/\n\n TL;DR\n!\ndocker compose watch および compose.yaml の develop を設定することで air などに依存しないホットリロード環境を作れます。これにより、開発および本番で共通の Dockerfile を構築することが可能です。\n\n\n よく見る Dockerfile と compose.yaml\nhttps://github.co...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--npAeFqkq--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590Go%25E3%2580%2591Dockerfile%2520%25E3%2581%25AB%2520air%2520%25E3%2581%25AF%25E4%25B8%258D%25E8%25A6%2581%25EF%25BC%259F%2520Use%2520Compose%2520Watch%2520%25E3%2582%2592%25E5%2589%258D%25E6%258F%2590%25E3%2581%25AB%25E3%2581%2597%25E3%2581%259F%25E3%2582%25B3%25E3%2583%25B3%25E3%2583%2586%25E3%2583%258A%25E6%25A7%258B%25E7%25AF%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%258A%25E3%2583%25BC%25E3%2581%259F%25E3%2581%258B%25E3%2581%2593%25E3%2583%25BC%25E3%2581%259F%25E3%2582%258D%25E3%2583%25BC%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzNlODRhZTM5M2MuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "fetched_at": "2026-08-13 15:42:53",
-    "ja_summary": "・Dockerの「Compose Watch」機能を使えば、外部ツール（air等）なしでGoのホットリロード環境が構築可能。\n・開発と本番でDockerfileを共通化できるため、構成がシンプルになる。\n・`compose.yaml`で`develop`設定を行うだけで実現できる。"
   }
 ]
