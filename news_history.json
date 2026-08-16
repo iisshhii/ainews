@@ -1,5 +1,25 @@
 [
   {
+    "title": "オープンAI 経営幹部が相次ぎ退社",
+    "link": "https://news.yahoo.co.jp/pickup/6592006?source=rss",
+    "source": "Yahoo!ニュース IT・科学",
+    "published": "Sun, 16 Aug 2026 15:00:50 GMT",
+    "summary": "",
+    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/8/16/63285a70e2c6877e003d95ceb7bcc36539bcc2cbcb615152b616f90f0e616d12.jpg",
+    "fetched_at": "2026-08-17 00:13:07",
+    "ja_summary": "・OpenAIで技術トップや主要幹部の退社が相次いでいる。\n・経営方針や組織の方向性を巡る社内の混乱が背景にあると推測される。\n・同社の急速な成長とAI開発体制の大きな転換期における重要ポストの空席が懸念されている。"
+  },
+  {
+    "title": "ローカルLLMクラスターで 色々やってたら ワイの存在意義認識できた",
+    "link": "https://speakerdeck.com/terisuke/rokaru-llm-kura-suta-de-iroiro-ya-tetara-wai-no-sonzai-igi-ninshiki-dekita",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-08-16T10:56:00-04:00",
+    "summary": "https://engineercafe.connpass.com/event/401137",
+    "image": "https://files.speakerdeck.com/presentations/a7e64d3e3b3849f39f28efefb03b0686/preview_slide_0.jpg?40293320",
+    "fetched_at": "2026-08-17 00:13:17",
+    "ja_summary": "・ローカルLLMクラスターを活用した技術検証と実践的な活用法を解説。\n・生成AIの環境構築から、自己の価値や役割を再定義するヒントを提示。\n・技術的な知見を深め、AI時代における個人の存在意義を探求する勉強会。"
+  },
+  {
     "title": "デスクトップUIフレームワーク15種のメモリ使用量計測",
     "link": "https://zenn.dev/mizugeeks/articles/1019cf2353d343",
     "source": "Zenn Trends",
@@ -978,25 +998,5 @@
     "image": "https://www.techno-edge.net/imgs/rss/33512.png",
     "fetched_at": "2026-08-13 21:08:21",
     "ja_summary": "・Word、Excel、PDF等をAIが読みやすいMarkdown形式へ爆速変換するRust製ライブラリ「anydoc」が公開。\n・AIモデルへの入力データ作成を効率化するオープンソースツール。\n・多様な文書フォーマットを迅速に変換し、AI活用の開発スピードを向上させる。"
-  },
-  {
-    "title": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
-    "link": "https://openai.com/index/responsible-ai-infrastructure-texas",
-    "source": "OpenAI",
-    "published": "Mon, 10 Aug 2026 14:00:00 GMT",
-    "summary": "OpenAI sent Governor Greg Abbott a letter outlining its commitment to responsible AI infrastructure in Texas. The letter supports reliable, transparent growth that benefits Texans.",
-    "image": "https://images.ctfassets.net/kftzwdyauwt9/2uFbydWeRIYgmgAqjUVskz/f2672582154a6c597e42e7319059adbc/gov_abbott_letter_9x16.png?w=1600&amp;h=900&amp;fit=fill",
-    "fetched_at": "2026-08-13 21:08:22",
-    "ja_summary": "・OpenAIがテキサス州知事に書簡を送付\n・州内でのAIインフラ整備における責任ある開発を表明\n・透明性を確保し、州の発展に貢献する方針を強調"
-  },
-  {
-    "title": "OpenAI、次世代AI「Astra」の開発を一部停止　高いサイバー攻撃能力を懸念",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11960/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "米OpenAIは2026年8月9日（米国時間）までに、次世代AIモデル「Astra」の開発を一部停止すると発表した。Astraが既存モデルを大幅に上回るサイバー攻撃能力を備えており、悪用の懸念が拭えないからだ。既に明らかになっている米Hugging FaceのAI開発プラットフォームへの攻撃にAstraは関与していないという。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11960/topm.jpg?20220512",
-    "fetched_at": "2026-08-13 20:27:15",
-    "ja_summary": "・OpenAIが次世代AI「Astra」の開発を一部停止。\n・強力すぎるサイバー攻撃能力による悪用リスクが懸念材料。\n・Hugging Faceへの攻撃関与は否定。"
   }
 ]
