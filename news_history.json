@@ -1,5 +1,65 @@
 [
   {
+    "title": "Google Meet、\"対面”会議でもメモ作成が可能に",
+    "link": "https://www.watch.impress.co.jp/docs/news/2132958.html",
+    "source": "Impress Watch",
+    "published": "",
+    "summary": "Googleは13日(米国時間)、Web会議サービス「Google Meet」において、\"対面”の会議でも「メモ」を作成できる機能を追加した。Google WorkspaceのBusiness Standard/PlusやEnterprise Standard/Plus、Google AI Pro/Ultraなどの契約者向けに提供する。",
+    "image": "https://www.watch.impress.co.jp/img/ipw/list/2132/958/g01.jpg",
+    "fetched_at": "2026-08-17 08:12:33",
+    "ja_summary": "・Google Meetで対面会議のメモ作成機能が利用可能に。\n・Google Workspace等の対象プラン契約者が利用可能。\n・会議室での対面会議の内容も効率的に記録・共有できる。"
+  },
+  {
+    "title": "Claudeの隠された電子透かしに、テック業界関係者は懸念を抱いている。アンソロピックはいくつかの回答を示した",
+    "link": "https://www.businessinsider.jp/article/2608-anthropic-claude-text-watermark-concerns-tech-community-answers/",
+    "source": "Business Insider Japan",
+    "published": "Sun, 16 Aug 2026 23:00:00 GMT",
+    "summary": "アンソロピックは、Claudeが生成したコンテンツと人間が執筆した文章とを識別・区別するのに役立つ、新たな電子透かし技術を発表した。\n一部のテック業界関係者や開発者の間からは、著作権の帰属やデジタルのプライバシー保護をめぐり懸念や疑問の声が上がっている。\nアンソロピックは、検知用ツールの提供予定を含め、これらの懸念の一部についてビジネスインサイダーの取材に対し回答を寄せた。",
+    "image": "https://media.loom-app.com/loom/2026/08/14/931489c3-6f8b-465f-9641-07e3782b6bb1/original.jpg?w=1200",
+    "fetched_at": "2026-08-17 08:12:39",
+    "ja_summary": "・アンソロピックが、Claudeの生成物を見分けるための新たな電子透かし技術を発表。\n・著作権やプライバシーへの懸念に対し、同社は検知ツールの提供などの方針を示した。\n・業界関係者からは技術の実用性と影響を注視する声が上がっている。"
+  },
+  {
+    "title": "AI エージェントの「認可疲れ」に効く処方箋 : 理論から実装まで",
+    "link": "https://zenn.dev/aws_japan/articles/2b62886aa8735e",
+    "source": "Zenn Trends",
+    "published": "Sun, 16 Aug 2026 13:18:26 GMT",
+    "summary": "皆さんは仕事でどれぐらいのアプリケーションを使用するでしょうか。 GitHub、Slack、Notion、Outlook/Gmail・・・などの SaaS はもちろん、社内の業務システムもあるでしょう。AI エージェントに仕事を任せるとき、これらのサービスと連携させたくなるのは自然です。その時ハードルになることの一つが、連携させるための「認可」です。GitHub のための認可、Slack のための認可、認可、認可・・・と手間が増えるのは避けたいものです。\n本記事では、AI エージェントと連携するサービスが増えても認証を最初の一回のみで OK とする方法について解説します。もちろん、これは...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--i9H9lknT--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%2520%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588%25E3%2581%25AE%25E3%2580%258C%25E8%25AA%258D%25E5%258F%25AF%25E7%2596%25B2%25E3%2582%258C%25E3%2580%258D%25E3%2581%25AB%25E5%258A%25B9%25E3%2581%258F%25E5%2587%25A6%25E6%2596%25B9%25E7%25AE%258B%2520%253A%2520%25E7%2590%2586%25E8%25AB%2596%25E3%2581%258B%25E3%2582%2589%25E5%25AE%259F%25E8%25A3%2585%25E3%2581%25BE%25E3%2581%25A7%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:icoxfog417%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzZmZTY2NGI3N2IuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2582%25A2%25E3%2583%259E%25E3%2582%25BE%25E3%2583%25B3%2520%25E3%2582%25A6%25E3%2582%25A7%25E3%2583%2596%2520%25E3%2582%25B5%25E3%2583%25BC%25E3%2583%2593%25E3%2582%25B9%2520%25E3%2582%25B8%25E3%2583%25A3%25E3%2583%2591%25E3%2583%25B3%2520%2528%25E6%259C%2589%25E5%25BF%2597%2529%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2h5QjhFd2U0T2hxWU1oR1dPX1lPNXhBT1JhSWdUZDRNN3BCN2JYLWc9czk2LWM=%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-08-17 08:12:51",
+    "ja_summary": "AIエージェントに業務アプリを連携させる際、個別に必要な「認可」の手間がボトルネックとなっています。\n本記事では、サービスごとに認可を繰り返す煩雑さを解消し、初回の一回のみで済ませるための理論と実装手法を解説します。\n管理の手間を最小限に抑え、AIエージェントの利便性を向上させるための技術的解決策を提示します。"
+  },
+  {
+    "title": "MacBook Air M5 RAM32GBで実用的なローカルLLMを探す 生成速度測定編",
+    "link": "https://zenn.dev/koki_n22/articles/493f85b9f875ca",
+    "source": "Zenn Trends",
+    "published": "Sun, 16 Aug 2026 07:19:18 GMT",
+    "summary": "対象読者\n\nMacBook Air M5 32GBでローカルLLMを使いたい人\nOllamaでコーディング用途のローカルLLMを探している人\nRAM32GBでどの程度のモデルが実用的な速度で動くのか気になる人\n\n\n モチベーション\n\nMacBook Air M5 RAM 32GBで実用的に使えそうなローカルLLMを知りたかった\n最初に試した27Bモデルが6〜7 tokens/s程度しか出ず、品質以前に速度で候補を絞る必要があると感じた\nそこで、コーディング性能などを比較する前に「そもそも快適な速度で動くのか」を測ることにした\n\n\n 結論\n\n最初に試した27.8B denseのqwen...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--ffTnQTqz--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:MacBook%2520Air%2520M5%2520RAM32GB%25E3%2581%25A7%25E5%25AE%259F%25E7%2594%25A8%25E7%259A%2584%25E3%2581%25AA%25E3%2583%25AD%25E3%2583%25BC%25E3%2582%25AB%25E3%2583%25ABLLM%25E3%2582%2592%25E6%258E%25A2%25E3%2581%2599%2520%25E7%2594%259F%25E6%2588%2590%25E9%2580%259F%25E5%25BA%25A6%25E6%25B8%25AC%25E5%25AE%259A%25E7%25B7%25A8%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:koki_n22%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUFUWEFKdzJOTE9mR0hiLTctLUlPODdCTWxucHBQMG16NFNfUGpTazBrMEU9czk2LWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-08-17 08:12:51",
+    "ja_summary": "MacBook Air M5（RAM 32GB）で実用的なローカルLLMを検証。\nコーディング用途を想定し、品質以前に快適な生成速度が出るモデルを抽出。\n27Bクラスのモデルでは速度不足のため、実用性を重視したモデル選定が必要との結論。"
+  },
+  {
+    "title": "Jujutsu (jj) のつらみ Git前提の世界とAIコーディングエージェント",
+    "link": "https://zenn.dev/rozurozu/articles/20260815_jujutsu_tsurami",
+    "source": "Zenn Trends",
+    "published": "Sat, 15 Aug 2026 08:41:37 GMT",
+    "summary": "TL;DR\n\n\nJujutsu (jj) 自体はめっちゃいい。 使いやすいし、思想も好き。\nつらいのは jj ではなく、世の中が Git 前提すぎること。\n特に AIコーディングエージェントと Git 前提の周辺ツールでつまずく。\n結論、「変更は jj、閲覧は Git ツール」の二刀流が現状の最適解。\nただ、そこまでして乗り換える必要があるかと言われると……Git でいいかもね！\n\nでも盛り上がって欲しい。\n\n\n はじめに\n以前、Jujutsu (jj) の良さみ という記事を書きました。\n世の jj 記事は、\n\nGit より簡単！\n\njj undo 最強！\nコンフリクトが怖くない！...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--yE1Xcb5r--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Jujutsu%2520%2528jj%2529%2520%25E3%2581%25AE%25E3%2581%25A4%25E3%2582%2589%25E3%2581%25BF%2520Git%25E5%2589%258D%25E6%258F%2590%25E3%2581%25AE%25E4%25B8%2596%25E7%2595%258C%25E3%2581%25A8AI%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2587%25E3%2582%25A3%25E3%2583%25B3%25E3%2582%25B0%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%258D%25E3%2582%2593%25E3%2581%25A1%25E3%2582%2583%25E3%2582%2593%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2I3YWQ4Y2E0NzEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-08-17 08:12:52",
+    "ja_summary": "・Jujutsu (jj) は非常に優れた操作感を持つが、Git前提の周辺環境やAIツールとの連携に課題がある。\n・現状は「変更はjj、閲覧はGit」の二刀流が最適解だが、乗り換えのコストに見合うかは判断が分かれる。\n・今後に期待しつつも、実用面では既存のGit環境で十分という結論。"
+  },
+  {
+    "title": "42日でバックエンドエンジニアの基礎を完全に理解する #8 - インデックスと検索高速化",
+    "link": "https://zenn.dev/kipcop/articles/b42-go-08-index",
+    "source": "Zenn Trends",
+    "published": "Sat, 15 Aug 2026 06:01:15 GMT",
+    "summary": "この記事で学ぶこと\nデータが増えると検索が遅くなります。それを解決するのがインデックスです。\nただし「とりあえず貼れば速くなる」ものではありません。貼っても効かないケースがあり、貼りすぎると逆に遅くなります。この記事では原理から判断基準まで扱います。\nこの記事を終えると以下ができるようになります。\n\nなぜ検索が遅くなるのかを説明できる\nインデックスがなぜ速いのか、原理を説明できる\n\nEXPLAIN で「インデックスが使われているか」を確認できる\nインデックスが効かないケースを見分けられる\n複合インデックスの順番の意味を説明できる\nどのカラムに貼るべきか判断できる\n\n!\nこの回は言語に...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--tbcasukk--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:42%25E6%2597%25A5%25E3%2581%25A7%25E3%2583%2590%25E3%2583%2583%25E3%2582%25AF%25E3%2582%25A8%25E3%2583%25B3%25E3%2583%2589%25E3%2582%25A8%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%258B%25E3%2582%25A2%25E3%2581%25AE%25E5%259F%25BA%25E7%25A4%258E%25E3%2582%2592%25E5%25AE%258C%25E5%2585%25A8%25E3%2581%25AB%25E7%2590%2586%25E8%25A7%25A3%25E3%2581%2599%25E3%2582%258B%2520%25238%2520-%2520%25E3%2582%25A4%25E3%2583%25B3%25E3%2583%2587%25E3%2583%2583%25E3%2582%25AF%25E3%2582%25B9%25E3%2581%25A8%25E6%25A4%259C%25E7%25B4%25A2%25E9%25AB%2598%25E9%2580%259F%25E5%258C%2596%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:k.ike%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSzB5X0dHdXdYN0R2NUdXamlMU0FaLTI5OHhBcFBSLW9pMEhMY2lEZ2dBSHVVdDdESHM9czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-08-17 08:12:52",
+    "ja_summary": "・データ量増加に伴う検索遅延を解決する「インデックス」の仕組みと原理を解説。\n・単に貼るだけでは逆効果になる理由や、インデックスが効かないケースを学習。\n・EXPLAINを用いた検証方法や、最適なインデックス設計とカラム選定の基準を習得。"
+  },
+  {
     "title": "マイクロソフト、「Copilot」と「Copilot 365」を統合版アプリに移行",
     "link": "https://japan.zdnet.com/article/35251549/",
     "source": "ZDNET Japan",
@@ -938,65 +998,5 @@
     "image": "https://www.watch.impress.co.jp/img/ipw/list/2132/694/g00.jpg",
     "fetched_at": "2026-08-14 12:12:07",
     "ja_summary": "・Googleが最新モデル「Gemini 3.7 Flash」を公開し、コーディングとエージェント機能を強化。\n・前モデルからわずか3週間での高速アップデートで、性能が大幅に向上。\n・APIに加え、有料プラン（AI Pro/Ultra）の「Gemini Spark」経由で利用可能。"
-  },
-  {
-    "title": "Twitch、配信内容をアマゾンのAI訓練に利用--「デフォルトで有効」なので要注意",
-    "link": "https://japan.cnet.com/article/35251557/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "ライブ配信サービス「Twitch」は、コンテンツを親会社アマゾンのAIモデルの学習に利用しているとの報道を認めた。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35251557/\"><img src=\"https://japan.cnet.com/storage/2026/08/14/46fee96258ebeb5eedeb8e1de766482a/t/184/138/d/GettyImages-2278204188_1280x960.jpg\" /></a>",
-    "image": "https://japan.cnet.com/storage/2026/08/14/46fee96258ebeb5eedeb8e1de766482a/t/184/138/d/GettyImages-2278204188_1280x960.jpg",
-    "fetched_at": "2026-08-14 12:12:10",
-    "ja_summary": "・Twitchの配信内容が親会社AmazonのAI学習に利用されていることが判明。\n・設定はデフォルトで「有効」となっているため注意が必要。\n・自身の配信を学習に使われたくない場合は設定の見直しを推奨。"
-  },
-  {
-    "title": "Linux版「ChatGPT」公式アプリが登場、UbuntuやDebianなどに対応",
-    "link": "https://japan.cnet.com/article/35251554/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "OpenAIは、Linux向けに「ChatGPT」デスクトップアプリの提供を開始した。現在はプレビュー版で、Linux上でChatGPT、「ChatGPT Work」、「Codex」を利用できる。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35251554/\"><img src=\"https://japan.cnet.com/storage/2026/08/14/4ffbd57a8b856711a3dfaccc013bd41a/t/184/138/d/gettyimages-2271060320_8392b5_1280x960.jpg\" /></a>",
-    "image": "https://japan.cnet.com/storage/2026/08/14/4ffbd57a8b856711a3dfaccc013bd41a/t/184/138/d/gettyimages-2271060320_8392b5_1280x960.jpg",
-    "fetched_at": "2026-08-14 12:12:10",
-    "ja_summary": "・OpenAIがLinux向け「ChatGPT」公式デスクトップアプリ（プレビュー版）を公開。\n・UbuntuやDebianなどの主要なLinux環境に対応。\n・ChatGPTのほか、WorkプランやCodex機能がデスクトップ上で利用可能。"
-  },
-  {
-    "title": "ChatGPTで「担当外」の仕事をする人たち。80万件の利用データから見えた3つの仕事",
-    "link": "https://www.businessinsider.jp/article/2608-chatgpt-users-beyond-their-job-roles/",
-    "source": "Business Insider Japan",
-    "published": "Fri, 14 Aug 2026 00:59:21 GMT",
-    "summary": "ChatGPTに送られた仕事関連の入力のうち、16.8％は利用者本人とは別の職種の仕事でした。OpenAIが80万件を分析した調査から、金融計算やITトラブル対応など、職種を越えて扱われている仕事の具体像が見えてきました。",
-    "image": "https://media.loom-app.com/loom/2026/08/13/e2b8b0f8-d3db-466c-b381-ea0189f58d2a/original.jpg?w=1200",
-    "fetched_at": "2026-08-14 12:12:10",
-    "ja_summary": "・ChatGPTの利用入力の約17％が、本来の担当外業務である。\n・金融計算やIT対応など、職種を越えた活用が日常化している。\n・AIにより、専門外の業務を自ら補完する働き方が広がっている。"
-  },
-  {
-    "title": "“ラスボス”エヌビディアの決算発表を前に、ふたたび「AIトレード」が勢いを増す",
-    "link": "https://www.businessinsider.jp/article/2608-ai-infrastructure-trade-gets-a-boost-coreweave-nebius-nvidia-earnings/",
-    "source": "Business Insider Japan",
-    "published": "Fri, 14 Aug 2026 02:45:00 GMT",
-    "summary": "AIインフラトレードが復調の兆しを見せています。",
-    "image": "https://media.loom-app.com/loom/2026/08/13/ae98b8a2-59c1-4e78-aebc-ccf26aedc836/original.jpg?w=1200",
-    "fetched_at": "2026-08-14 12:12:10",
-    "ja_summary": "・エヌビディアの決算発表を控え、AI関連銘柄への投資熱が再燃している。\n・AIインフラ投資の機運が市場で再び高まり、相場の復調傾向が鮮明に。\n・投資家は次なる成長の先行指標として、同社の決算動向を注視している。"
-  },
-  {
-    "title": "OpenAI、「Linux」向けに「ChatGPT」デスクトップアプリのプレビュー版を公開",
-    "link": "https://japan.zdnet.com/article/35251553/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "「ChatGPT Desktop for Linux」のプレビュー版が公開された。「Ubuntu」「Debian」「Fedora」に対応している。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35251553/\"><img src=\"https://japan.zdnet.com/storage/2026/08/14/0e8514747260049f34a153585ece61f3/t/184/138/d/gettyimages-2257858694_l.jpg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2026/08/14/0e8514747260049f34a153585ece61f3/t/184/138/d/gettyimages-2257858694_l.jpg",
-    "fetched_at": "2026-08-14 12:12:12",
-    "ja_summary": "・OpenAIがLinux向け「ChatGPT」デスクトップアプリのプレビュー版を公開。\n・Ubuntu、Debian、Fedoraの主要なLinuxディストリビューションに対応。\n・デスクトップ環境からChatGPTへ直接アクセス可能に。"
-  },
-  {
-    "title": "新人エンジニア、AIがないと役に立たないハリボテ人間にならないか不安",
-    "link": "https://qiita.com/prumnn/items/b3302efec6a8d8b50197",
-    "source": "Qiita (Popular)",
-    "published": "2026-08-10T14:46:52+09:00",
-    "summary": "![フィジカルロボットとは？.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/4458573/ff73a124-56b7-40fb-8477-161e0d91091c.png)\n\n<br>\n\n## はじめに\n>エラーが出たら、考える前にまずAIにコピペする。それが当たり前になっていたぷらむんが、AIが数十分使えな",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0NDU4NTczJTJGZjdiNzg1NDM4ODU2MTAyY2YxOWUwYTY0MDRkMTQzMWMxYzg2Y2NhNCUyRnhfbGFyZ2UucG5nJTNGMTc4MzMxMDkyMD9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9MTY5N2NhODkwNmQ1NzM0ZmE4MGVjYzllMTdhY2M4YzY%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYzMzEyZmE3ZDk1NjJkYTc1ZTFmOGE1ZmQxODljN2UzN2FlNzZhMjc0JTJGb3JpZ2luYWwuanBnJTNGMTc1NzU2OTIyMz9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz02ZjkzZjY0NGI1ZDk0MjNmMjMxMDhjOGEzZjllZDE0Mw%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3Ddb0c0fdd520bcb1f15379f24886da19b?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUU2JTk2JUIwJUU0JUJBJUJBJUUzJTgyJUE4JUUzJTgzJUIzJUUzJTgyJUI4JUUzJTgzJThCJUUzJTgyJUEyJUUzJTgwJTgxQUklRTMlODElOEMlRTMlODElQUElRTMlODElODQlRTMlODElQTglRTUlQkQlQjklRTMlODElQUIlRTclQUIlOEIlRTMlODElOUYlRTMlODElQUElRTMlODElODQlRTMlODMlOEYlRTMlODMlQUElRTMlODMlOUMlRTMlODMlODYlRTQlQkElQkElRTklOTYlOTMlRTMlODElQUIlRTMlODElQUElRTMlODIlODklRTMlODElQUElRTMlODElODQlRTMlODElOEIlRTQlQjglOEQlRTUlQUUlODkmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz04N2MyNDliYTg5MWExZjUxYzk5ZTE5NmJmNTE5ZGU5Mg&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBwcnVtbm4mdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz0zZGJlZTBmNWZjZGQwNGZlMmQ3MTg0ODRkMDAxMzBmYw&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=5qCq5byP5Lya56S-UFJVTQ&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=f14b6396b40b0a7fd1d5e916b4de3ee8",
-    "fetched_at": "2026-08-14 12:12:20",
-    "ja_summary": "・AIへの依存により、自身の思考力が低下し「AIなしでは働けない」状態になることに新人エンジニアが不安を感じている。\n・エラー対応などをAIに丸投げする習慣が定着し、AIが利用できない状況での対応力に危機感が高まっている。\n・AIを便利に使いつつも、技術の基礎や自力で解決する力を養う重要性が再認識されている。"
   }
 ]
