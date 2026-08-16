@@ -1,5 +1,35 @@
 [
   {
+    "title": "OpenAI、最大14倍高速な「ウルトラファストモード」　GPT-5.6 Sol",
+    "link": "https://www.watch.impress.co.jp/docs/news/2132760.html",
+    "source": "Impress Watch",
+    "published": "",
+    "summary": "OpenAIは14日、「GPT-5.6 Sol」を標準処理より最大14倍高速に動作させる「ウルトラファストモード(Ultrafast)」を、一部ユーザー向けに限定プレビューとして提供開始した。OpenAI APIから展開し、最大で1秒あたり750出力トークンを生成する。",
+    "image": "https://www.watch.impress.co.jp/img/ipw/list/2132/760/1.jpg",
+    "fetched_at": "2026-08-17 08:54:43",
+    "ja_summary": "・OpenAIが「GPT-5.6 Sol」向けに、標準より最大14倍高速な「ウルトラファストモード」を公開。\n・API経由で提供され、1秒あたり最大750トークンの高速生成が可能。\n・現在は一部ユーザー限定のプレビュー版として展開中。"
+  },
+  {
+    "title": "Gemini 3.7 Flash公開　主力モデルを3週間で更新、性能も大幅向上",
+    "link": "https://www.watch.impress.co.jp/docs/news/2132694.html",
+    "source": "Impress Watch",
+    "published": "",
+    "summary": "Googleは13日(米国時間)、コーディングやエージェント機能を強化した主力モデル「Gemini 3.7 Flash」を公開した。前バージョンのGemini 3.6 Flashから3週間で新モデルが登場したこととなる。 Gemini APIのほか、Google AI Pro(2,900円)/Ultra(14,500円)ユーザーは、パーソナル エージェント「Gemini Spark」を通じて利用できる。",
+    "image": "https://www.watch.impress.co.jp/img/ipw/list/2132/694/g00.jpg",
+    "fetched_at": "2026-08-17 08:54:43",
+    "ja_summary": "・Googleが主力AI「Gemini 3.7 Flash」を公開、前モデルからわずか3週間で性能を大幅強化。\n・コーディング能力やエージェント機能が向上。\n・APIに加え、有料プランの「Gemini Spark」を通じて利用可能。"
+  },
+  {
+    "title": "Google Meet、リアル会議の議事録生成も可能に　スマホ1つで録音→要約",
+    "link": "https://japan.cnet.com/article/35251588/",
+    "source": "CNET Japan",
+    "published": "",
+    "summary": "Googleは8月13日、Google Meetの自動メモ機能「Take notes for me」を対面の会議でも使えるようにしたと発表した。ビデオ通話に入らなくても、ウェブ版かモバイルアプリのホーム画面から録音を始めるだけで、Geminiが会議の要約や文字起こしを作り、Googleドキュメントに保存する。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35251588/\"><img src=\"https://japan.cnet.com/storage/2026/08/17/4126fdc84406d6e324af9da0f2958806/t/184/138/d/2026-08-17_8.35の画像.jpeg\" /></a>",
+    "image": "https://japan.cnet.com/storage/2026/08/17/4126fdc84406d6e324af9da0f2958806/t/184/138/d/2026-08-17_8.35の画像.jpeg",
+    "fetched_at": "2026-08-17 08:54:45",
+    "ja_summary": "Google Meetの「Take notes for me」が対面会議にも対応しました。\nビデオ通話不要で、スマホ等から録音するだけでAIが会議内容を文字起こし・要約します。\n生成された議事録はGoogleドキュメントに自動保存されるため、事務作業を大幅に効率化できます。"
+  },
+  {
     "title": "ChatGPT、Macでのクリックや文字入力を記憶する新機能--「あのファイルはどこ？」にも回答",
     "link": "https://japan.cnet.com/article/35251587/",
     "source": "CNET Japan",
@@ -968,35 +998,5 @@
     "image": "https://res.cloudinary.com/zenn/image/upload/s--Fj-TDWBT--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2581%25AA%25E3%2581%259CAI%25E6%2599%2582%25E4%25BB%25A3%25E3%2581%25ABGo%25E3%2581%258C%25E6%259C%2580%25E9%2581%25A9%25E3%2581%25AA%25E8%25A8%2580%25E8%25AA%259E%25E3%2581%25AA%25E3%2581%25AE%25E3%2581%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:IwatsukaYura%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2I2Y2Y1MzQ4MzAuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
     "fetched_at": "2026-08-14 15:40:19",
     "ja_summary": "・GoogleのPMらがAI時代におけるGo言語の優位性を解説した記事の紹介。\n・GoはAIを活用したソフトウェア開発と相性が良く、最適であると主張。\n・堅牢かつ高速な開発が求められる現代において、Goが選ばれる理由を紐解く。"
-  },
-  {
-    "title": "ナレッジワークにおけるAI活用をベースとしたQAプロセスの最適化",
-    "link": "https://zenn.dev/knowledgework/articles/2114d46c201da3",
-    "source": "Zenn Trends",
-    "published": "Wed, 12 Aug 2026 02:50:05 GMT",
-    "summary": "はじめに\nナレッジワークのQAエンジニアのtettanです。ナレッジワークでは、マネージャーではなく、いちQAエンジニアという立場で、プロダクトのQA業務や品質施策の横断的な活動を行っています。\n2026年8月5日に開催された「QA Test Talk Vol.8」で、「ナレッジワークにおけるAI活用をベースとしたQAプロセスの最適化」というタイトルで発表させていただきました。この記事は、その内容を加筆したものです。\n久しぶりの業務直結の発表でした。今回は半年ほどかけてナレッジワークで取り組んできたQAの施策がまとまってきたので、シェアできればと思います。発表は15分で、後半はかなり...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--9dQELnrA--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%258A%25E3%2583%25AC%25E3%2583%2583%25E3%2582%25B8%25E3%2583%25AF%25E3%2583%25BC%25E3%2582%25AF%25E3%2581%25AB%25E3%2581%258A%25E3%2581%2591%25E3%2582%258BAI%25E6%25B4%25BB%25E7%2594%25A8%25E3%2582%2592%25E3%2583%2599%25E3%2583%25BC%25E3%2582%25B9%25E3%2581%25A8%25E3%2581%2597%25E3%2581%259FQA%25E3%2583%2597%25E3%2583%25AD%25E3%2582%25BB%25E3%2582%25B9%25E3%2581%25AE%25E6%259C%2580%25E9%2581%25A9%25E5%258C%2596%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:tettan%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2E4MWZhOWNhZmYuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E6%25A0%25AA%25E5%25BC%258F%25E4%25BC%259A%25E7%25A4%25BE%25E3%2583%258A%25E3%2583%25AC%25E3%2583%2583%25E3%2582%25B8%25E3%2583%25AF%25E3%2583%25BC%25E3%2582%25AF%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jTFpFSTRwaU9EY0pwTFo3bWVsRm1vMGRrZlZNbDhaX21aRkt3bzlyOGFuSGMybndVY1A9czk2LWM=%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "fetched_at": "2026-08-14 15:40:20",
-    "ja_summary": "ナレッジワークでは、QAエンジニアが主体となり半年かけてAIを活用したQAプロセスの最適化を推進した。\n本記事では、この横断的な品質改善施策の詳細と、その成果をまとめた内容を公開している。\n個別のプロダクト業務を超え、組織全体のQA品質向上に寄与する具体的なアプローチを解説。"
-  },
-  {
-    "title": "AIペネトレーションテスト・ セキュリティ検証「AgenticSec」紹介資料",
-    "link": "https://speakerdeck.com/laysakura/aizi-dong-pentesuto-rapidpen-goshao-jie-zi-liao",
-    "source": "Speaker Deck (Tech)",
-    "published": "2025-11-19T03:20:03-05:00",
-    "summary": "AIペネトレーションテスト・ セキュリティ検証「AgenticSec」紹介資料\n\n会社・プロダクトサイト: https://agenticsec.tech/\n採用情報: https://agenticsec.tech/jobs",
-    "image": "https://files.speakerdeck.com/presentations/da07d579335440f3b6e6a62d1cf37767/preview_slide_0.jpg?40276668",
-    "fetched_at": "2026-08-14 15:40:21",
-    "ja_summary": "・AIが自律的にセキュリティの脆弱性を診断するペネトレーションテストサービス「AgenticSec」を展開。\n・最新のAI技術を活用し、効率的かつ高度なセキュリティ検証を自動化して提供。\n・現在、事業拡大に伴いさらなる開発体制強化に向けた人材採用を強化中。"
-  },
-  {
-    "title": "【ClaudeCode】コスト発生要因から考えるトークン消費最適化術【トークン】",
-    "link": "https://qiita.com/Nana_777/items/1766dd6bbd308222f71b",
-    "source": "Qiita (Popular)",
-    "published": "2026-07-28T06:07:03+09:00",
-    "summary": "## はじめに\n\nClaude Codeをはじめとする AI コーディングエージェントを使っていると、「トークン消費を減らすには？」というTipsは世の中にたくさん転がっています。「CLAUDE.mdを短くしよう」「`/clear`しよう」「サブエージェントを使おう」。どれも間違いではないのですが、Tipsを闇雲に集めるだけだと、\n\n- なぜそれが効くのか分からないまま導入してしまう\n- 逆効果に",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYxOTI5NDklMkYxYmVjZGE4YTRmMWRiOWU5OTQyZDljOGMwYjZkZDA3NjkwMTM2NjgwJTJGbGFyZ2UucG5nJTNGMTc0MTQ4MzQxMD9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9MDZlM2QxY2EzNTVhN2Y4N2M2ZTQxY2RlYzdmN2M0ODI%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYxZTIwZGI1ZTdlNDA3ZWFlN2I5NzBlYzk5OTg4MGRjOGMzY2MwZjY0JTJGb3JpZ2luYWwuanBnJTNGMTY2NzI3NDk2Mz9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz04OTI0NDcwMDk1MDMyZjUxYmZlNzE3ZjVkOGUzYmE3ZA%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D0db13b4aef231a19bc684897cf15021a?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJTkwQ2xhdWRlQ29kZSVFMyU4MCU5MSVFMyU4MiVCMyVFMyU4MiVCOSVFMyU4MyU4OCVFNyU5OSVCQSVFNyU5NCU5RiVFOCVBNiU4MSVFNSU5QiVBMCVFMyU4MSU4QiVFMyU4MiU4OSVFOCU4MCU4MyVFMyU4MSU4OCVFMyU4MiU4QiVFMyU4MyU4OCVFMyU4MyVCQyVFMyU4MiVBRiVFMyU4MyVCMyVFNiVCNiU4OCVFOCVCMiVCQiVFNiU5QyU4MCVFOSU4MSVBOSVFNSU4QyU5NiVFOCVBMSU5MyVFMyU4MCU5MCVFMyU4MyU4OCVFMyU4MyVCQyVFMyU4MiVBRiVFMyU4MyVCMyVFMyU4MCU5MSZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTE2MjI1NDQ5NTg0ZGJjZjNmZTBkZDk5OWQ3ZDIzYjk4&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBOYW5hXzc3NyZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTg1YzQ4MzUyMmVkMGVhNmYxYjhkZjU5MjVjYzhiNjQz&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=S0RESeOCouOCuOODo-OCpOODq-mWi-eZuuOCu-ODs-OCv-ODvOagquW8j-S8muekvg&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=41fdb4144ad4e61884d3e57aa869ad9f",
-    "fetched_at": "2026-08-14 15:40:25",
-    "ja_summary": "Claude Codeのトークン消費を抑えるには、Tipsの暗記ではなく、コスト発生の仕組みを理解して適切に運用することが重要である。\n無計画な対策は逆効果になるリスクがあるため、根本的な要因を把握し、効率的なツール利用を心がける必要がある。"
   }
 ]
