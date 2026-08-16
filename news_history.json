@@ -1,5 +1,75 @@
 [
   {
+    "title": "仕様駆動開発（Spec-Driven Development）",
+    "link": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020600009/080700229/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "仕様駆動開発とは、AI（人工知能）エージェントにソフトウエア開発を指示する前に、自然言語で「仕様」を作成し、それを基準としてコードの実装やテストを進める開発手法を指す。スペック駆動開発とも呼ぶ。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020600009/080700229/topm.jpg?20220512",
+    "fetched_at": "2026-08-17 07:11:37",
+    "ja_summary": "・AIに指示を出す前に、自然言語で詳細な「仕様」を定義する開発手法。\n・仕様を基準にAIがコード実装やテストを行うことで、開発効率を高める。\n・「スペック駆動開発」とも呼ばれ、AI活用時代に適した手法として注目されている。"
+  },
+  {
+    "title": "KDDI堺データセンター、シャープ堺工場を転換",
+    "link": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/032500539/080700002/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "シャープの液晶パネルの基幹工場だった堺工場を、AI（人工知能）データセンターに転換させたKDDI。譲渡契約の締結から1年足らずで稼働にこぎ着けた。担当者たちが闘っていた相手は「できたときには陳腐化」という世界のスピード感だった。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/032500539/080700002/topm.jpg?20220512",
+    "fetched_at": "2026-08-17 07:11:38",
+    "ja_summary": "・KDDIがシャープ堺工場をAIデータセンターへ転換し、1年未満で稼働開始。\n・急速に進化するAI市場に対応するため、異例のスピードでプロジェクトを完遂。\n・旧液晶工場の資産を活用し、最新技術の陳腐化を防ぐ迅速な開発体制を構築。"
+  },
+  {
+    "title": "JPモルガンCEO、巨額のAI投資を楽観視…「最終的には成果をもたらす」",
+    "link": "https://www.businessinsider.jp/article/2608-jamie-dimon-data-center-spending-economy-impact/",
+    "source": "Business Insider Japan",
+    "published": "Sun, 16 Aug 2026 21:35:00 GMT",
+    "summary": "ジェイミー・ダイモン氏は、データセンターへの投資がアメリカ経済を活性化させ、雇用を創出し、建設資材への需要を生み出していると述べました。",
+    "image": "https://media.loom-app.com/loom/2026/08/09/0807d9b3-efcc-4e2d-852b-b573f89ed646/original.jpg?w=1200",
+    "fetched_at": "2026-08-17 07:11:46",
+    "ja_summary": "・JPモルガンのダイモンCEOが巨額のAI投資を強く支持。\n・データセンター建設が米経済の活性化と雇用創出を牽引。\n・短期的負担を認めつつも、長期的には大きな成果をもたらすと強調。"
+  },
+  {
+    "title": "設立から1年バーティブ・ジャパンが描く「AIデータセンター」最前線と冷却・電力の最適解",
+    "link": "https://japan.zdnet.com/article/35251184/",
+    "source": "ZDNET Japan",
+    "published": "",
+    "summary": "生成AIの急速な普及により、データセンタ市場は大きな転換期を迎えている。日本法人設立から約1年が経過したバーティブ・ジャパンは、AIインフラのボトルネックとなる「電力と冷却」の課題に対し、一気通貫のソリューションを提供。カントリープレジデントの倉橋健氏に、同社の現在地と今後の戦略を聞いた。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35251184/\"><img src=\"https://japan.zdnet.com/storage/2026/07/31/6cf8915a70c71a19be49a2a1994699fc/t/184/138/d/260721_vertiv_l.jpg\" /></a>",
+    "image": "https://japan.zdnet.com/storage/2026/07/31/6cf8915a70c71a19be49a2a1994699fc/t/184/138/d/260721_vertiv_l.jpg",
+    "fetched_at": "2026-08-17 07:11:49",
+    "ja_summary": "・生成AIの普及でデータセンターの電力・冷却需要が急増。\n・設立1年のバーティブ・ジャパンが、AIインフラの課題に対し一気通貫で解決策を提供。\n・日本市場における同社の現在地と、今後の成長戦略を展開。"
+  },
+  {
+    "title": "「AI部品表」に注目--EUサイバーセキュリティ規制対応が背景",
+    "link": "https://japan.zdnet.com/article/35251566/",
+    "source": "ZDNET Japan",
+    "published": "",
+    "summary": "AIを活用した製品やサービスの開発が加速する中、「AI部品表」に関心が高まっている。その背景にあるのが、欧州連合（EU）のサイバーセキュリティ規制「Cyber Resilience Act」（CRA）だ。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35251566/\"><img src=\"https://japan.zdnet.com/storage/2026/08/14/6ac126c284a283f525c2cca8443ba4ea/t/184/138/d/20260817_ai_parts_1280x960.jpg\" /></a>",
+    "image": "https://japan.zdnet.com/storage/2026/08/14/6ac126c284a283f525c2cca8443ba4ea/t/184/138/d/20260817_ai_parts_1280x960.jpg",
+    "fetched_at": "2026-08-17 07:11:49",
+    "ja_summary": "・EUのサイバーセキュリティ規制（CRA）への対応を背景に「AI部品表」への注目が急増している。\n・AI製品・サービスの開発加速に伴い、透明性確保やリスク管理の重要性が高まっている。\n・企業は規制遵守のため、AI構成要素を明示する仕組みの導入を迫られている。"
+  },
+  {
+    "title": "主要国の動向から考えるフロンティアAIがもたらすサイバーリスクとの向き合い方",
+    "link": "https://japan.zdnet.com/article/35251493/",
+    "source": "ZDNET Japan",
+    "published": "",
+    "summary": "米Anthropicによる「Claude Mythos Preview」発表から数カ月が経過した。主要各国機関の動向などを踏まえて、フロンティアAIがもたらすサイバーリスクとどのように向き合っていくべきかを検討してみたい。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35251493/\"><img src=\"https://japan.zdnet.com/storage/2020/05/19/ab90fb382dfec9cd0b111353aa2b400e/t/184/138/d/bizsecurity-risk.jpg\" /></a>",
+    "image": "https://japan.zdnet.com/storage/2020/05/19/ab90fb382dfec9cd0b111353aa2b400e/t/184/138/d/bizsecurity-risk.jpg",
+    "fetched_at": "2026-08-17 07:11:49",
+    "ja_summary": "・最新のフロンティアAIがもたらす新たなサイバーリスクを分析。\n・各国機関の動向を踏まえ、企業がとるべき防御戦略を検討。\n・AIの進化に伴う脅威を理解し、適切な向き合い方を整理する。"
+  },
+  {
+    "title": "Anthropicの電子透かし導入発表直後に登場した透かし剥がしOSS「watermarks-remover」がClaude・Gemini・OpenAIに対応（生成AIクローズアップ）",
+    "link": "https://www.techno-edge.net/article/2026/08/17/5398.html",
+    "source": "TechnoEdge",
+    "published": "Mon, 17 Aug 2026 07:09:31 +0900",
+    "summary": "今回は、AIで書かれたことを表す電子透かしやメタデータを除去するオープンソースツール「watermarks-remover」を取り上げます。",
+    "image": "https://www.techno-edge.net/imgs/rss/33613.png",
+    "fetched_at": "2026-08-17 07:11:50",
+    "ja_summary": "・Anthropic等のAI電子透かしを無効化するOSSツールが登場。\n・Claude、Gemini、OpenAIの出力に対応し、メタデータ等を除去。\n・AI生成物の検知技術と回避技術のいたちごっこが加速している。"
+  },
+  {
     "title": "｢AI導入､今すぐやれ｣→4週間後｢やっぱナシで｣　それはさすがにキツイわ…ワンマン社長に振り回される43歳部長の悲鳴 | ライフ | 東洋経済オンライン",
     "link": "https://toyokeizai.net/articles/-/954715?utm_source=rss&utm_medium=http&utm_campaign=link_back",
     "source": "東洋経済オンライン",
@@ -928,75 +998,5 @@
     "image": "https://japan.zdnet.com/storage/2026/08/12/00f50008ed567cba377ec7683b2d4b50/t/184/138/d/girloldpcss-gettyimages-1081009610_l.jpg",
     "fetched_at": "2026-08-14 08:42:33",
     "ja_summary": "約35年前の「Word 1.1a」を最新のWindows 11環境で動作させることに開発者が成功した。\n余計な機能やAIを搭載していない、初期のシンプルなWordが現代で再び利用可能になった。"
-  },
-  {
-    "title": "“梅干し職人”のためツール自作　老舗漬物店のClaude活用、「チャット+コピペ」で成果を出せたワケ",
-    "link": "https://www.itmedia.co.jp/business/articles/2608/14/news053.html",
-    "source": "ITmedia ビジネス",
-    "published": "Fri, 14 Aug 2026 07:15:00 +0900",
-    "summary": "明治創業の老舗漬物店が、AI活用で成果を出している。Claudeを活用して「梅干し職人向けツール」などを開発。PCが苦手な人にも使いやすいツールをどのように作っているのか。",
-    "image": "https://image.itmedia.co.jp/business/articles/2608/14/cover_news053.jpg",
-    "fetched_at": "2026-08-14 07:59:09",
-    "ja_summary": "明治創業の老舗漬物店が、PCが苦手な職人でも扱える「梅干し業務支援ツール」をAIで自作。\n対話型AI「Claude」を活用し、複雑な設定不要の「チャットとコピペ」だけで完結する仕組みを構築。\n専門知識不要でAIを現場へ導入し、DXによる業務効率化に成功した事例。"
-  },
-  {
-    "title": "「AI駆動型国家」の落とし穴　「自治体システム標準化」の“失敗”を繰り返さないための教訓とは",
-    "link": "https://www.itmedia.co.jp/business/articles/2608/14/news014.html",
-    "source": "ITmedia ビジネス",
-    "published": "Fri, 14 Aug 2026 07:00:00 +0900",
-    "summary": "自治体システム標準化の次に、政府が描くのは「AI駆動型」の行政だ。AIエージェントによって行政はどう変わるのか。標準化の経験から、その可能性と懸念を考える。",
-    "image": "https://image.itmedia.co.jp/business/articles/2608/14/cover_news014.jpg",
-    "fetched_at": "2026-08-14 07:59:10",
-    "ja_summary": "・政府は自治体システム標準化に続き、AIを活用した「AI駆動型行政」への移行を推進している。\n・標準化で生じた混乱の教訓を踏まえ、AI導入においても慎重な検討が必要。\n・AIエージェントによる行政変革の可能性と、それに伴うリスク・懸念を再考する。"
-  },
-  {
-    "title": "企業導入はアンソロピック、稼ぐ力はOpenAI。最新調査が明らかにしたAI競争の新たな構図",
-    "link": "https://www.businessinsider.jp/article/202608-anthropic-openai-ramp-aiindex/",
-    "source": "Business Insider Japan",
-    "published": "Thu, 13 Aug 2026 22:30:00 GMT",
-    "summary": "OpenAIは企業による導入でアンソロピックに後れを取っているものの、2026年7月には最先端モデル「GPT-5.6 Sol」で収益をめぐる競争に勝利しました。",
-    "image": "https://media.loom-app.com/loom/2026/08/13/a6db5d5e-a42a-4a34-997f-28c482f0fda8/original.jpg?w=1200",
-    "fetched_at": "2026-08-14 07:59:24",
-    "ja_summary": "・企業導入数ではアンソロピックが優勢\n・収益面ではOpenAIがリードする構図へ\n・2026年「GPT-5.6 Sol」でOpenAIが競争を制した"
-  },
-  {
-    "title": "AIは候補者が24時間いつでも面接を受けられるようにすることで、就職面接を変えつつある",
-    "link": "https://www.businessinsider.jp/article/202608-ai-interview-hr-hiring/",
-    "source": "Business Insider Japan",
-    "published": "Thu, 13 Aug 2026 21:40:00 GMT",
-    "summary": "リボン社は、同社の音声ベースのAI採用プラットフォームツールにより柔軟な時間帯での面接が可能となり、多くの人がAIで面接を受けるようになったと述べました。",
-    "image": "https://media.loom-app.com/loom/2026/08/11/73fc9c2c-4c99-444d-b7e3-b360302ffc6f/original.jpg?w=1200",
-    "fetched_at": "2026-08-14 07:59:24",
-    "ja_summary": "・リボン社の音声AI採用ツールにより、24時間いつでも面接が可能になった。\n・場所や時間に縛られない面接の普及が進み、採用プロセスが効率化されている。"
-  },
-  {
-    "title": "ゴールドマンの最新分析。「AIの設備投資急増の経済影響について強気派も弱気派も間違っている」",
-    "link": "https://www.businessinsider.jp/article/202608-ai-market-bulls-bears-goldman/",
-    "source": "Business Insider Japan",
-    "published": "Thu, 13 Aug 2026 22:00:00 GMT",
-    "summary": "ゴールドマンのエコノミストらによれば、AI支出がGDPに与える影響は誇張されている一方で、Aiのテクノロジーは他の投資を圧迫していないといいます。",
-    "image": "https://media.loom-app.com/loom/2026/08/11/bad95e70-a69b-48f1-a0b2-062fa53cd84a/original.jpg?w=1200",
-    "fetched_at": "2026-08-14 07:59:24",
-    "ja_summary": "・AIへの巨額投資がGDPを押し上げるという期待は過大評価されている。\n・一方で、AI投資が他分野への投資を阻害しているという懸念も当たらない。\n・AI支出の経済効果は、強気・弱気双方の予測の極端な見方から外れている。"
-  },
-  {
-    "title": "[MOAI#1]私が、BeHigashiを作るまで",
-    "link": "https://speakerdeck.com/tyukei/moai-1-behigashi-o-tsukuru-made",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-08-13T18:55:53-04:00",
-    "summary": "Free LLMを[Be Higashi]をOpenWebUI, Ollama, Tailscaleで作りました！\nFree Wifiならぬ、Free LLMを作ろうと思った裏話を交え発表しました。\nhttps://ai-agent-okinawa.connpass.com/event/402920/",
-    "image": "https://files.speakerdeck.com/presentations/e43d7b8e039047aa8877346b1a661a42/preview_slide_0.jpg?40274226",
-    "fetched_at": "2026-08-14 07:59:36",
-    "ja_summary": "・「Free LLM（BeHigashi）」をOpenWebUI、Ollama、Tailscaleで自作。\n・「Free Wifi」のように誰でも使えるAIを目指した開発の裏話を公開。\n・詳細はAI Agent Okinawaのイベントページ（connpass）で確認可能。"
-  },
-  {
-    "title": "さらば日経ソフトウエア　AI時代に生き残る「入門書」とは",
-    "link": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/052100112/080500144/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "日経BPが隔月で発行しているプログラミング雑誌「日経ソフトウエア」が、2026年9月末に発売する11月号を最後に休刊する。私は同誌の編集部に在籍していたことがあり、寂しさを感じている。ただ、休刊が意外だとは思わない。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/052100112/080500144/topm.jpg?20220512",
-    "fetched_at": "2026-08-14 07:00:35",
-    "ja_summary": "プログラミング雑誌「日経ソフトウエア」が、2026年9月の発売分をもって休刊する。\n長年親しまれた専門誌だが、AIの台頭など時代の変化に伴いその役割を終えた。\n情報の入手手段や学習環境が大きく変わり、紙の入門書の存在意義が問われている。"
   }
 ]
