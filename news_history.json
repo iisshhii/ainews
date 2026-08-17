@@ -1,5 +1,35 @@
 [
   {
+    "title": "「あなたはAIエージェントに買い物を任せたいですか」 Visaが調査した結果--消費者の回答は",
+    "link": "https://japan.cnet.com/article/35251620/",
+    "source": "CNET Japan",
+    "published": "",
+    "summary": "ビザ・ワールドワイド・ジャパンは8月17日、オンラインでの買い物にAIやAIエージェントをどこまで任せられるかを尋ねた消費者調査の結果を発表した。AIを活用した購買体験への関心は高まる一方、購入判断や決済までAIに委ねることへの受け入れは「極めて限定的」だったという。普及には利便性だけでなく「信頼と安心」と、利用者が自分で管理・選べる仕組みが求められるとしている。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35251620/\"><img src=\"https://japan.cnet.com/storage/2026/08/17/4595f612461febb8cf1ff3042362cd4f/t/184/138/d/01122.jpg\" /></a>",
+    "image": "https://japan.cnet.com/storage/2026/08/17/4595f612461febb8cf1ff3042362cd4f/t/184/138/d/01122.jpg",
+    "fetched_at": "2026-08-17 16:51:34",
+    "ja_summary": "・AIを活用した買い物には関心が高まっているが、決済などの最終判断を任せることには消費者の抵抗感が強い。\n・普及の鍵は、利便性よりも「信頼と安心感」の確保にある。\n・ユーザー自身がコントロール権を持ち、管理・選択できる仕組みが不可欠である。"
+  },
+  {
+    "title": "How RingCentral builds AI-native work from engineering to ops",
+    "link": "https://openai.com/index/ringcentral",
+    "source": "OpenAI",
+    "published": "Wed, 12 Aug 2026 00:00:00 GMT",
+    "summary": "See how RingCentral uses ChatGPT Work and Codex to accelerate AI product development and centralize operational intelligence across engineering and operations.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/2k1A67ewu2PHI2pt2Wh6zG/b0e09c92f1db264476fd343a1dfd63a8/ringcentral-drive-seo.png?w=1600&amp;h=900&amp;fit=fill",
+    "fetched_at": "2026-08-17 16:51:40",
+    "ja_summary": "・RingCentralが「ChatGPT Work」や「Codex」を活用し、AI製品の開発スピードを加速。\n・開発部門と運用部門の知見をAIで一元化し、業務効率を向上。\n・AIネイティブなワークフローを構築し、エンジニアリングからオペレーションまでを最適化。"
+  },
+  {
+    "title": "How Claude’s text watermark works",
+    "link": "https://www.anthropic.com/news/claude-text-watermark",
+    "source": "Anthropic (News)",
+    "published": "Fri, 14 Aug 2026 00:00:00 +0000",
+    "summary": "How Claude’s text watermark works",
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Quill&amp;backgroundColor=heather",
+    "fetched_at": "2026-08-17 16:51:40",
+    "ja_summary": "・Claudeが生成したテキストには、AIによる作成を識別するための「電子透かし」が埋め込まれている。\n・特定の統計的パターンを利用することで、文章の改変や削除があっても高い精度でAI生成物と特定できる。\n・この仕組みにより、AIの悪用防止やコンテンツの信頼性確保を強化している。"
+  },
+  {
     "title": "デル・テクノロジーズ、日本法人社長にロボトム氏が就任--AI事業の成長加速",
     "link": "https://japan.zdnet.com/article/35251618/",
     "source": "ZDNET Japan",
@@ -968,35 +998,5 @@
     "image": "https://www.techno-edge.net/imgs/rss/33588.png",
     "fetched_at": "2026-08-15 13:21:18",
     "ja_summary": "・AIで自作した放置型絵文字ゲーム『探犬∞』に一人称視点を実装。\n・2Dの絵文字空間が、まるで往年のFPS『DOOM』のようなゲームに変貌。\n・当初の「眺める」目的とは異なる、没入感のある体験へと進化した。"
-  },
-  {
-    "title": "Claudeで生成した文章に「電子透かし」導入　編集しても残る",
-    "link": "https://www.watch.impress.co.jp/docs/news/2132925.html",
-    "source": "Impress Watch",
-    "published": "",
-    "summary": "Anthropicは、今後「Claude」のAIモデルの出力として「透かし」が入ったテキストを生成すると公表した。欧州のAI規制法(EU AI Act)に対応するためのもので、主要なAIプロバイダー各社も対応。全世界のClaudeの出力に透かしを付与していく。11日に透かし導入の方針を公表していたが、14日にその詳細を公表した。",
-    "image": "https://www.watch.impress.co.jp/img/ipw/list/2132/925/claude1.jpg",
-    "fetched_at": "2026-08-15 12:13:07",
-    "ja_summary": "・Anthropic社は「Claude」が生成する文章に、改変しても消えない「電子透かし」の導入を開始。\n・EUのAI規制法（EU AI Act）への対応が目的で、全世界の生成テキストが対象。\n・AI生成物であることを識別可能にすることで、透明性と安全性の向上を図る。"
-  },
-  {
-    "title": "動画生成AI「MiniMax-H3」のComfyUI向け軽量版が登場、少ないVRAMでも動作、スマホ完結でサクサク動く軽量AIエージェント「LFM2.5-2.6B」など生成AI技術5つを解説（生成AIウィークリー）",
-    "link": "https://www.techno-edge.net/article/2026/08/15/5394.html",
-    "source": "TechnoEdge",
-    "published": "Sat, 15 Aug 2026 11:47:51 +0900",
-    "summary": "今回の「生成AIウィークリー」（第155回）は、動画生成AI「MiniMax-H3」のComfyUI向け再配布版や、映像が届いたそばから編集できるリアルタイム動画編集AI「JoyAI-Video-Edit」を取り上げます。",
-    "image": "https://www.techno-edge.net/imgs/rss/33578.png",
-    "fetched_at": "2026-08-15 12:13:15",
-    "ja_summary": "・動画生成AI「MiniMax-H3」の軽量版が登場し、低スペック環境でも利用可能に。\n・スマホで完結する軽量AIエージェント「LFM2.5-2.6B」など、次世代モデルを解説。\n・リアルタイム動画編集AI「JoyAI-Video-Edit」など、生成AIの最新技術5選を紹介。"
-  },
-  {
-    "title": "Databricks の Declarative Automation Bundles を用いた機械学習データセット作成基盤の構築",
-    "link": "https://zenn.dev/colum2131/articles/46b5560dce0e3a",
-    "source": "Zenn Trends",
-    "published": "Fri, 14 Aug 2026 09:00:05 GMT",
-    "summary": "チューリングの MLOps エンジニアの岩政です。\nチューリングでは、センサ入力から車両の将来の行動を一貫して推定する学習ベースのモデルとして End-to-End (E2E) 自動運転 AI を開発しています。E2E 自動運転 AI の学習にはデータセットが必要です。私の所属する MLOps チームが、これを作成するためのデータ基盤の開発を行っています。\nMLOps チームでは車両に搭載したカメラなどのセンサから走行データを収集し、Data Lake に格納しています。更に ETL (Extract, Transform, Load) パイプラインを通じて、数千時間以上の走行データに相...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--8ZEATJ96--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Databricks%2520%25E3%2581%25AE%2520Declarative%2520Automation%2520Bundles%2520%25E3%2582%2592%25E7%2594%25A8%25E3%2581%2584%25E3%2581%259F%25E6%25A9%259F%25E6%25A2%25B0%25E5%25AD%25A6%25E7%25BF%2592%25E3%2583%2587%25E3%2583%25BC%25E3%2582%25BF%25E3%2582%25BB%25E3%2583%2583...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:colum2131%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2RhZDZiMjhmMmEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "fetched_at": "2026-08-15 10:25:17",
-    "ja_summary": "チューリングは、End-to-End自動運転AIの開発に向け、Databricksの「Declarative Automation Bundles」を活用した効率的な機械学習データセット作成基盤を構築しています。\n収集した膨大な走行データをETLパイプラインで自動処理することで、データセット生成の迅速化とMLOps環境の整備を実現しました。"
   }
 ]
