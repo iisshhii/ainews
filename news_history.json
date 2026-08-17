@@ -1,5 +1,45 @@
 [
   {
+    "title": "The Defender’s Window",
+    "link": "https://openai.com/index/the-defenders-window",
+    "source": "OpenAI",
+    "published": "Mon, 17 Aug 2026 05:30:00 GMT",
+    "summary": "AI is reshaping cybersecurity for attackers and defenders alike. Learn how OpenAI is strengthening its defenses and what security teams can do now.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/yYqBqvM2uvc7B9HulIW4O/a3fa616ce523411cc59534295c4e6ec9/the-defenders-window-seo.png?w=1600&amp;h=900&amp;fit=fill",
+    "fetched_at": "2026-08-17 22:14:25",
+    "ja_summary": "・AIはサイバー攻撃と防御の両面を劇的に変化させている。\n・OpenAIはAIを活用した防御体制の強化に注力。\n・セキュリティ担当者は、AI時代の脅威に備えた新たな防御戦略の策定が急務。"
+  },
+  {
+    "title": "OpenAI joins PORTS-Pike project",
+    "link": "https://openai.com/index/openai-joins-ports-pike-project",
+    "source": "OpenAI",
+    "published": "Mon, 17 Aug 2026 05:00:00 GMT",
+    "summary": "OpenAI joins PORTS-Pike project, expanding community investment and supporting thousands of Southern Ohio jobs",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/7lncHUlLeigB0CzEnnpkvX/79fb3bd6db518d2946417c35a981d973/openai-joins-ports-pike-project-seo-v001.png?w=1600&amp;h=900&amp;fit=fill",
+    "fetched_at": "2026-08-17 22:14:25",
+    "ja_summary": "・OpenAIが「PORTS-Pikeプロジェクト」に参画。\n・地域社会への投資を拡大し、オハイオ州南部で数千人の雇用を支援。\n・技術開発を通じた地域経済への貢献を強化。"
+  },
+  {
+    "title": "Codexを効率よく使う方法（ChatGPT + GitHub）",
+    "link": "https://zenn.dev/aun_phonogram/articles/3f8c1a7b5d902e",
+    "source": "Zenn Trends",
+    "published": "Sun, 16 Aug 2026 22:30:05 GMT",
+    "summary": "対象読者\n\nCodex を効率よく使う方法を知りたい方\nChatGPT を契約しているけど、開発では Codex ばかり使っている方\nClaude Code を使っているけど、Codex にも興味がある方\n\n\n はじめに\nCodex を使って開発していると、調査や実装計画、コード変更、レビューなど、さまざまな工程をそのまま Codex にお願いしたくなります。また、Codex には利用枠があるため、「このタスク、完走できるかな？」「あと○日あるけど大丈夫かな？」と気になることもあります。\nそこで私は、作業内容に応じて ChatGPT と Codex を使い分けています。GitHubプ...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--8Hozs9bV--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Codex%25E3%2582%2592%25E5%258A%25B9%25E7%258E%2587%25E3%2582%2588%25E3%2581%258F%25E4%25BD%25BF%25E3%2581%2586%25E6%2596%25B9%25E6%25B3%2595%25EF%25BC%2588ChatGPT%2520%252B%2520GitHub%25EF%25BC%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E5%2590%2589%25E5%25B2%25A1%2520%25E8%25A3%2595%25E8%25B2%25B4%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzUwM2RkNmMyMzkuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:AUN%2520Tech%2520Blog%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2ZhMTYxYmQzZmIuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-08-17 22:14:28",
+    "ja_summary": "・Codexの利用制限を意識し、調査や実装などの工程に合わせてChatGPTと適切に使い分ける。\n・GitHubとの連携を軸に、タスクごとに最適なツールを選択することで開発効率を最大化する。\n・リソースを効率的に運用し、開発の完走率を高めるための実用的なノウハウを解説。"
+  },
+  {
+    "title": "DGX SparkをSwitchBotで遠隔復旧する構成と電力測定を試した",
+    "link": "https://zenn.dev/karaage0703/articles/dgx-spark-switchbot-power-monitor",
+    "source": "Zenn Trends",
+    "published": "Sun, 16 Aug 2026 13:25:24 GMT",
+    "summary": "外出中に自宅のDGX Sparkが止まり、家族に電源を入れ直してもらうことがありました。\nSSHもTailscaleも届かない状態になると、ソフトウェア側からできることはありません。そこで、SwitchBot プラグミニ（JP）を使って遠隔から電源を入れ直す構成を検討し、消費電力の記録を試しました。\n\n SwitchBot プラグミニを選んだ理由\nSwitchBot プラグミニ（JP）は、次の機能を1台で使えます。\n\nWi-Fi内蔵で、ハブなしでも外出先からON/OFFできる\nリアルタイムの消費電力と過去の履歴を確認できる\n定格は100V・最大15A・1500W\nBluetoothにも対...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--vRVBDkgg--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:DGX%2520Spark%25E3%2582%2592SwitchBot%25E3%2581%25A7%25E9%2581%25A0%25E9%259A%2594%25E5%25BE%25A9%25E6%2597%25A7%25E3%2581%2599%25E3%2582%258B%25E6%25A7%258B%25E6%2588%2590%25E3%2581%25A8%25E9%259B%25BB%25E5%258A%259B%25E6%25B8%25AC%25E5%25AE%259A%25E3%2582%2592%25E8%25A9%25A6%25E3%2581%2597%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%258B%25E3%2582%2589%25E3%2581%2582%25E3%2581%2592%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2hDZEtvakJfZXdDTjNCV1Z0WXIteFNIZ0hmRjlXZmt3QzI5c0Y0aXYwPXMyNTAtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-08-17 22:14:28",
+    "ja_summary": "・外出先でDGX Sparkが応答不能になった際の復旧策として、SwitchBotプラグミニによる遠隔電源操作を導入。\n・Wi-Fi接続でハブ不要かつ、リアルタイムの消費電力測定も可能なため、運用の安定性と効率化を実現。\n・ハードウェアがハングアップしても電源を物理的に入れ直すことで、リモート環境でのトラブル対応を解決。"
+  },
+  {
     "title": "生成AIで標章偽造の疑い 書類送検",
     "link": "https://news.yahoo.co.jp/pickup/6592107?source=rss",
     "source": "Yahoo!ニュース IT・科学",
@@ -958,45 +998,5 @@
     "image": "https://tk.ismcdn.jp/mwimgs/8/c/1200w/img_8c5b136d052cd62e9343abbb7b732744111541.jpg?nextgen=false",
     "fetched_at": "2026-08-16 08:13:51",
     "ja_summary": "・バスの減便・廃止が進む中、大阪市でAIオンデマンドバスの本格運行が開始された。\n・予約に応じて走行ルートを最適化する仕組みで、交通インフラ維持の解決策として注目される。\n・全国の地域交通が抱える運転手不足や利便性低下への有効な打開策となる可能性がある。"
-  },
-  {
-    "title": "Spotify、AI生成アーティストに「AI Persona」バッジ表示",
-    "link": "https://www.watch.impress.co.jp/docs/news/2132544.html",
-    "source": "Impress Watch",
-    "published": "",
-    "summary": "Spotifyは9月中旬から、AI生成アーティストの可能性があるプロフィールに「AI Persona」バッジを表示する。アーティストプロフィールのほか、検索結果やプレイリスト内のトラック項目にも表示し、実在の人物を表していない可能性があることを利用者に示す。",
-    "image": "https://www.watch.impress.co.jp/img/ipw/list/2132/544/1.jpg",
-    "fetched_at": "2026-08-16 08:14:07",
-    "ja_summary": "・Spotifyが9月中旬からAI生成アーティストに「AI Persona」バッジを表示。\n・検索結果やプロフィール等で、実在の人物ではない可能性を明確化。\n・ユーザーがAI生成コンテンツであることを即座に識別できるようにする。"
-  },
-  {
-    "title": "お金がないけどAIコーディングしたい",
-    "link": "https://zenn.dev/dev_jp/articles/da537a095f13da",
-    "source": "Zenn Trends",
-    "published": "Fri, 14 Aug 2026 00:35:05 GMT",
-    "summary": "初めに\n\nアルゴリズムとかプログラミング言語とかインフラとか、自分で調べて試すのは楽しい。しかも大半がお金かからない。\nAIコーディングも自分でコードをかかないという意味ではコーディングの面白さは少ないかもしれない。\nしかし、いかにAIにコーディング作業をうまくさせられるかの探索という楽しさもある。\n現在進行形でモデルも手法も変わっていっていろいろ試したくなる。\nLLM API プロバイダの無料枠で遊んでもすぐに終わってしまう。\n課金せずに、長めに遊べる方法を探してみた。\n\n\n 制約と対策\nしょぼい環境でAIにたくさん働いてもらうためにどうすればいいのか、AIと相談＋Xとかで見かけた...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--HKQ0N2MJ--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2581%258A%25E9%2587%2591%25E3%2581%258C%25E3%2581%25AA%25E3%2581%2584%25E3%2581%2591%25E3%2581%25A9AI%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2587%25E3%2582%25A3%25E3%2583%25B3%25E3%2582%25B0%25E3%2581%2597%25E3%2581%259F%25E3%2581%2584%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Dev%2520JP%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSk9tTzREUjN2QV9XTHZPSXQtdllidFVlNFV1NDlod0VaV3dINk1uWmpqUGxlbHNnPXM5Ni1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "fetched_at": "2026-08-16 08:14:20",
-    "ja_summary": "AIコーディングを低コストで楽しむため、無料枠に縛られず、スペックが低い環境でも効率的にAIを活用する手法を模索する試み。"
-  },
-  {
-    "title": "AIの最新研究から見るゲーム開発とプレイヤー体験の未来",
-    "link": "https://note.com/npaka/n/n4ebba7cee7aa",
-    "source": "note (npaka)",
-    "published": "Sun, 16 Aug 2026 07:37:42 +0900",
-    "summary": "<p id=\"2cdcf1b8-16fe-4bfc-a50c-df97967084d4\" name=\"2cdcf1b8-16fe-4bfc-a50c-df97967084d4\">最新の研究論文や技術報告をもとに、ゲーム開発とプレイヤー体験の未来を整理します。</p><br /><br /><a href=\"https://note.com/npaka/n/n4ebba7cee7aa\">続きをみる</a>",
-    "image": "https://assets.st-note.com/production/uploads/images/303899601/rectangle_large_type_2_030b3452d5bd702dd6ce5b9819c6db4c.png?width=800",
-    "fetched_at": "2026-08-16 07:56:36",
-    "ja_summary": "・最新の研究に基づき、AIがゲーム開発とプレイヤー体験をどう変えるかを解説。\n・生成AI等の技術進化が、開発効率の向上と新しい遊び方の創出に寄与。\n・今後のゲーム制作のあり方や、プレイヤーが受ける体験の変化を展望。"
-  },
-  {
-    "title": "第2回U18 AIチャンピオンシップにおいて、デジタル大臣奨励賞を交付しました",
-    "link": "https://www.digital.go.jp/policies/digital_human_resources/award/20260807",
-    "source": "デジタル庁",
-    "published": "Mon, 10 Aug 2026 15:00:00 +0900",
-    "summary": "",
-    "image": "https://www.digital.go.jp/themes/custom/gov_theme_da_2023/assets/images/ogp.png",
-    "fetched_at": "2026-08-16 07:56:42",
-    "ja_summary": "第2回U18 AIチャンピオンシップで優秀な成績を収めた学生に対し、デジタル大臣奨励賞が授与されました。\nAI技術の活用能力を次世代の若者に奨励し、デジタル人材の育成を促進する狙いがあります。\n若手クリエイターの優れた発想と技術力が表彰され、今後の活躍が期待されています。"
   }
 ]
