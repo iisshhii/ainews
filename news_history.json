@@ -1,5 +1,35 @@
 [
   {
+    "title": "ChatGPT、Macの操作を記憶する「Computer History」",
+    "link": "https://www.watch.impress.co.jp/docs/news/2132844.html",
+    "source": "Impress Watch",
+    "published": "",
+    "summary": "OpenAIは14日、macOS版ChatGPTデスクトップアプリで「Computer History」を提供開始した。対象はChatGPT Pro(16,800円/月)とBusiness、Enterpriseのユーザー。Proでは利用者が機能をオンにでき、BusinessとEnterpriseでは管理者によるアクセス許可後に各ユーザーが有効化する。利用にはChatGPTのメモリ機能も必要となる。",
+    "image": "https://www.watch.impress.co.jp/img/ipw/list/2132/844/1.jpg",
+    "fetched_at": "2026-08-17 14:27:51",
+    "ja_summary": "・macOS版ChatGPTに、PC操作を記憶・活用する「Computer History」機能が登場。\n・対象はPro、Business、Enterpriseプランのユーザーで、メモリ機能の有効化が必要。\n・業務効率化を目的とし、管理者設定により組織内での利用も可能。"
+  },
+  {
+    "title": "「ChatGPT」新機能の「コンピューター履歴」、プライバシーリスクとなるのか",
+    "link": "https://japan.zdnet.com/article/35251613/",
+    "source": "ZDNET Japan",
+    "published": "",
+    "summary": "「ChatGPT」の「Mac」アプリに搭載された「コンピューター履歴」機能は、Mac上でのアプリやウェブサイト全体のアクティビティーを時系列で作成する。\n<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35251613/\"><img src=\"https://japan.zdnet.com/storage/2026/08/17/6fd8b2d77a179147c9d5a85558c92bf0/t/184/138/d/chatgpt-mac-app_l.jpg\" /></a>",
+    "image": "https://japan.zdnet.com/storage/2026/08/17/6fd8b2d77a179147c9d5a85558c92bf0/t/184/138/d/chatgpt-mac-app_l.jpg",
+    "fetched_at": "2026-08-17 14:27:56",
+    "ja_summary": "・ChatGPTのMac版に、PC上の全操作履歴を記録・保存する新機能が追加された。\n・利便性が向上する一方、詳細な行動データが記録されることによるプライバシー侵害のリスクが懸念されている。"
+  },
+  {
+    "title": "ずぼらAI駆動開発、爆誕",
+    "link": "https://qiita.com/nobu34/items/224f55bc85b813930f61",
+    "source": "Qiita (Popular)",
+    "published": "2026-08-05T09:22:29+09:00",
+    "summary": "# スキル、自分で作るのめんどくさくないですか？\n\n同僚の @masa-asa さんが [AI を活用した開発に「いちエンジニア」が向き合い、実践している 3 つの仕組み](https://qiita.com/masa-asa/items/343dd140ee519a8d62bd) という記事を上げていました。\n\n素直にすごいと思いつつ、正直な気持ちはこうです。\n\n「そこまで綺麗に設計する気力、自",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0MDkzMjczJTJGZWU4NzczNWI0MTgzY2IzODRlMDA0ZDRjMDE0YTFjNDc2NmM1YzUyYSUyRmxhcmdlLnBuZyUzRjE3NDgzMzAzOTI_aXhsaWI9cmItNC4xLjEmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPTEyMTAwMjNiOTVlZjE5Y2U1ZDc5MTFkYWZmNTU0NWRi%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkZlYzNmNjg0OWI0ZjZlMTQ0YzgwYzQ1MGIyYjc4MDFhOTM0N2VkZDgyJTJGb3JpZ2luYWwuanBnJTNGMTc0Nzk1NDYyMT9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz1lZmI4ZDk1MWQwYzkwZWNkYzE1YWQyOTMwMTEwYzJlNw%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D5c137c7149cccd97a3a493249e439841?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgxJTlBJUUzJTgxJUJDJUUzJTgyJTg5QUklRTklQTclODYlRTUlOEIlOTUlRTklOTYlOEIlRTclOTklQkElRTMlODAlODElRTclODglODYlRTglQUElOTUmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz04MzdmOGJiMTg5NDRiZjIyNDRjMzQ3OTdmMjc4ZTljNA&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBub2J1MzQmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz01Y2MzNDRjMzUzYzk1YWIxNTU4ZTc1MDNlZTY4MWJlZQ&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=S2Fv44Ko44Oz44K444OL44Ki44Kz44Of44Ol44OL44OG44KjzrI&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=83f0a32a251cbadbd3d8b676a190d5e7",
+    "fetched_at": "2026-08-17 14:28:06",
+    "ja_summary": "AIを活用した開発において、あえて手間をかけず「ずぼら」に実装する手法を提案。\n緻密な設計や構築を最小化し、AIの力を借りて効率的に開発を進める姿勢を重視。\n完璧主義を捨て、肩の力を抜いてAIと共存するエンジニアリングスタイルを提唱している。"
+  },
+  {
     "title": "生成AIを全社員に配っても｢使われない｣企業が多い中､損保ジャパンとSkyが利用率98％を実現できた仕掛け | ビジネス | 東洋経済オンライン",
     "link": "https://toyokeizai.net/articles/-/954315?utm_source=rss&utm_medium=http&utm_campaign=link_back",
     "source": "東洋経済オンライン",
@@ -968,35 +998,5 @@
     "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYzNzUyODg2JTJGYmU4ZDZhOWM0MjdkZGQ1NmQwNmEwMDZkZWU3MWEwMTI2MGVkZjcxOSUyRnhfbGFyZ2UucG5nJTNGMTc4NjQ5MjUyMD9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NDY3NzQ1MzhkNDg0MGU5MDE5MmMxMGE3NWFjNzQ3NjE%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D9848fa31374d9fe6ebad5a6b02c56c22?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUU4JTg3JUFBJUU1JTg4JTg2JUUzJTgxJUFFSFRNTCVFOCVCMyU4NyVFNyU5NCVBMyVFMyU4MiU5MiVFNSVBMiU5NyVFMyU4MiU4NCVFMyU4MSU5OSVFMyU4MSVBOCVFMyU4MCU4MUFJJUUzJTgxJUE3JUU4JUE2JThCJUUzJTgxJTlGJUU3JTlCJUFFJUUzJTgxJUFFJUU4JTg5JUFGJUUzJTgxJTg0JUUzJTgyJUI1JUUzJTgyJUE0JUUzJTgzJTg4JUUzJTgyJTkyJUU0JUJEJTlDJUUzJTgyJThBJUUzJTgyJTg0JUUzJTgxJTk5JUUzJTgxJThGJUUzJTgxJUFBJUUzJTgyJThCJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9MTJhZDcyMjFkN2U1Y2Y0OGMyZjJlMjY1NzJlMjUyZDI&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDB1bmk5MjgmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz0wMzQyOWU3M2U5MzdiMTU0OTIzMzk3NGEzZGNhY2YwYg&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=6aeda86e0d2ff76710cf14be92f366bc",
     "fetched_at": "2026-08-14 19:15:44",
     "ja_summary": "AIで作成したサイトの見た目を改善したい場合、気に入ったHTMLを「HTML資産」として保存しておくと便利です。\nこれらの資産をAIに指示することで、よりデザイン性の高いサイトを容易に作成できます。"
-  },
-  {
-    "title": "蓄電池の数量規制緩和でデータセンター立地促進へ",
-    "link": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00006/080400727/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "AI（人工知能）データセンターの立地促進に向けて、規制改革が進みそうだ。政府の規制改革推進会議は2026年6月に取りまとめた答申で、施設に不可欠なリチウムイオン蓄電池について、消防法や建築基準法における数量規制を緩和するよう、総務省消防庁や国土交通省に求めた。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00006/080400727/top_sns_newsjiji.jpg?20220512",
-    "fetched_at": "2026-08-14 18:11:47",
-    "ja_summary": "・政府がAIデータセンター整備のため、リチウムイオン蓄電池の設置規制緩和を提言。\n・消防法や建築基準法の見直しを通じ、蓄電池の大量設置を可能にする狙い。\n・データセンターの電力供給能力を向上させ、国内への立地を促進する。"
-  },
-  {
-    "title": "屋上に森を載せたファミマの旗艦店",
-    "link": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00007/080400299/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "ファミリーマートが、東京都港区に同社の次世代コンビニエンスストアと位置付ける初の旗艦店「FAMIMA PARK AZABUDAI（ファミマパーク麻布台）」を出店した。アパレル専用の売り場や試着室を備えるなど、これまでにない店舗体験を提供し、他店との差異化を図る。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00007/080400299/sns_20.jpg?20220512",
-    "fetched_at": "2026-08-14 18:11:48",
-    "ja_summary": "・ファミマが港区に次世代旗艦店「ファミマパーク麻布台」をオープン。\n・屋上緑化に加え、アパレル売り場や試着室を導入した新たな店舗体験を提供。\n・従来のコンビニの枠を超え、独自の付加価値で他社との差別化を図る。"
-  },
-  {
-    "title": "ワイヤレスモニター付テレビドアホン（外でもドアホン）",
-    "link": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00014/080400985/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "フルモデルチェンジしたモニター付きのテレビドアホン。AI（人工知能）による顔認証や玄関先の見守り機能を搭載した。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00014/080400985/sns_80a.jpg?20220512",
-    "fetched_at": "2026-08-14 18:11:48",
-    "ja_summary": "・AI顔認証と見守り機能を搭載した新型テレビドアホンが登場。\n・外出先からでも来訪者を確認・対応が可能。\n・防犯性能を大幅に強化したフルモデルチェンジ製品。"
   }
 ]
