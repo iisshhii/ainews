@@ -1,5 +1,35 @@
 [
   {
+    "title": "Yahoo!ニュースの専門家をAI化「エキスパートAI」　第1弾はレシピ",
+    "link": "https://www.watch.impress.co.jp/docs/news/2133211.html",
+    "source": "Impress Watch",
+    "published": "",
+    "summary": "LINEヤフーは、「Yahoo!ニュース エキスパート」に参加する専門家の知見を活かしたAIエージェント「エキスパートAI」を提供開始した。AIエージェント「Agent i」内で利用できる。",
+    "image": "https://www.watch.impress.co.jp/img/ipw/list/2133/211/01.jpg",
+    "fetched_at": "2026-08-17 17:32:53",
+    "ja_summary": "・LINEヤフーが専門家の知見を学習したAI「エキスパートAI」の提供を開始。\n・AIエージェント「Agent i」上で利用可能。\n・第1弾として、Yahoo!ニュース エキスパートによるレシピ提案機能が利用できる。"
+  },
+  {
+    "title": "Claudeで生成した文章に「電子透かし」導入　編集しても残る",
+    "link": "https://www.watch.impress.co.jp/docs/news/2132925.html",
+    "source": "Impress Watch",
+    "published": "",
+    "summary": "Anthropicは、今後「Claude」のAIモデルの出力として「透かし」が入ったテキストを生成すると公表した。欧州のAI規制法(EU AI Act)に対応するためのもので、主要なAIプロバイダー各社も対応。全世界のClaudeの出力に透かしを付与していく。11日に透かし導入の方針を公表していたが、14日にその詳細を公表した。",
+    "image": "https://www.watch.impress.co.jp/img/ipw/list/2132/925/claude1.jpg",
+    "fetched_at": "2026-08-17 17:32:55",
+    "ja_summary": "・Anthropic社は「Claude」で生成される全文章に、編集後も残る「電子透かし」の導入を決定した。\n・欧州のAI規制法（EU AI Act）への対応が目的で、今後世界中の出力に順次適用される。\n・AIによる生成物であることを識別可能にし、安全性と透明性の確保を図る。"
+  },
+  {
+    "title": "動画生成AI「MiniMax-H3」のComfyUI向け軽量版が登場、少ないVRAMでも動作、スマホ完結でサクサク動く軽量AIエージェント「LFM2.5-2.6B」など生成AI技術5つを解説（生成AIウィークリー）",
+    "link": "https://www.techno-edge.net/article/2026/08/15/5394.html",
+    "source": "TechnoEdge",
+    "published": "Sat, 15 Aug 2026 11:47:51 +0900",
+    "summary": "今回の「生成AIウィークリー」（第155回）は、動画生成AI「MiniMax-H3」のComfyUI向け再配布版や、映像が届いたそばから編集できるリアルタイム動画編集AI「JoyAI-Video-Edit」を取り上げます。",
+    "image": "https://www.techno-edge.net/imgs/rss/33578.png",
+    "fetched_at": "2026-08-17 17:33:03",
+    "ja_summary": "・動画生成AI「MiniMax-H3」の軽量版がComfyUIで利用可能になり、低スペック環境でも動作を実現。\n・スマホ完結型の軽量AIエージェント「LFM2.5-2.6B」や、リアルタイム動画編集AI「JoyAI-Video-Edit」が登場。\n・生成AIの最新技術5選として、効率化と利便性を高めるツールが注目されている。"
+  },
+  {
     "title": "「あなたはAIエージェントに買い物を任せたいですか」 Visaが調査した結果--消費者の回答は",
     "link": "https://japan.cnet.com/article/35251620/",
     "source": "CNET Japan",
@@ -968,35 +998,5 @@
     "image": "https://files.speakerdeck.com/presentations/4901c9e1e1a741d28f2991f5df5034b5/preview_slide_0.jpg?40285875",
     "fetched_at": "2026-08-15 16:05:22",
     "ja_summary": "・AI通信の高速化に向け、次世代Ethernetの基盤となるSerDes技術が進化中。\n・TEF2025から2026年にかけての最新の技術アップデートと動向を網羅。\n・AIサーバー間通信のボトルネックを解消する、最新の通信規格と実装技術を解説。"
-  },
-  {
-    "title": "Aida（あいだ）— 離婚後の子育てを、AIが「あいだ」に立って支える｜AI HACK 2026",
-    "link": "https://speakerdeck.com/sugimomoto/aida-aida-rikongo-no-kosodate-o-ai-ga-aida-ni-ta-te-sasaeru-ai-hack-2026",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-08-15T01:48:13-04:00",
-    "summary": "離婚した父母が、別々に暮らしながら子どもを一緒に育てていくためのアプリ「Aida（あいだ）」です。\nAI HACK 2026 提出作品。\n\n父はAIと話し、母もAIと話します。\nAIが、責める言い回しや感情の部分を取り除いて、決めるために要る事実だけを相手に伝えます。\n\n── 例 ──\n入力（父が書いたもの）\n  月3万が限界。こっちだって仕事切られて必死なんだよ。少しは考えろ\n\n母の画面に届くもの\n  養育費について、月額3万円までを希望されているそうです。\n  背景として、現在は職を失っているとのことです。\n────────\n\n大事なのは「必死なんだよ」が届かなかったことではありません。\n月3万円という希望と、仕事を失ったという事情が、相手に届いたことです。\n\nこのままの言葉では送れません。送れば話し合いはそこで止まります。\nだから多くの人は送らない。そして何も決まらない。\nAida がやるのは、送れなかったものを、送れる形にして届けることです。\n\n\n■ なぜ作ったか\n\n国の調査で、養育費の取り決めをしない理由の第1位は「相手と関わりたくない」です。\n裁判所や代理人が入れば取り決め率は 43.6% → 81.2% に上がりますが、\n離婚の 87.5% を占める協議離婚には、誰も入ってきません。\n\n人がやると成立しない条件——非同期・24時間・低単価——で、\nあいだに入る役割を果たせるか。それがこのプロダクトの問いです。\n\n■ 技術的な要点\n\n・LLM に文章を書かせず、論点ごとに決めた型を埋めさせています\n  （LLM に渡す型は全部 string。「6万円」は 60000 ではなく「6万円」のまま受け取る）\n・相手に届く文章は、検査を通った要素を定型の枠に流し込んで組み立てています\n・越境の直前に実行時の検査（逐語一致／ホワイトリスト／伝聞形）\n・対になる2つの検査 — 文章は原文と一致してはならない、値は原文に書かれていなければならない\n・養育費の金額は裁判所の算定表から決定的に引き、条項はひな形の置換のみ（LLM 不使用）\n\n技術的な詳細はブログに書きました。\nhttps://qiita.com/sugimomoto/items/663ac81...\n\nGithub\nhttps://github.com/sugimomoto/AIHack\n\nLLM ゲートウェイに OrcaRouter（AI HACK 2026 スポンサー）を使用しています。",
-    "image": "https://files.speakerdeck.com/presentations/6d5bbcc478b9453bb6c666117a56aa4c/preview_slide_0.jpg?40285760",
-    "fetched_at": "2026-08-15 15:22:43",
-    "ja_summary": "離婚後の父母が感情を排して養育費や教育等の協議を行えるアプリ「Aida」が開発された。\nAIが入力文から感情的な言葉を除き、必要な事実のみを定型文に変換して相手に伝達する。\n協議離婚で課題となる「相手と関わりたくない」心理を解消し、円滑な合意形成を支援する。"
-  },
-  {
-    "title": "メール確認コードを不要にする Email Verification Protocol (EVP)",
-    "link": "https://zenn.dev/tkou15/articles/email-verification-protocol",
-    "source": "Zenn Trends",
-    "published": "Thu, 13 Aug 2026 06:27:09 GMT",
-    "summary": "はじめに\nアカウント登録時のメールアドレス確認は、Web でもっとも普及していて、もっとも面倒な手続きのひとつです。ユーザーは、\n\nフォームにメールアドレスを入力する\nメールクライアントに切り替える\nメールの到着を待つ（迷惑メールフォルダを探すこともある）\n確認コードをコピーする\n元のサイトに戻って貼り付ける\n\nという往復を強いられます。WICG の explainer によると、アクセス数上位 50 サイトのうち 95% がメールアドレスによるアカウント作成に対応しており、そのうち 73% はメール確認が完了するまでアカウント作成を先に進めさせません。つまり、この往復はコンバージョ...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--81AKaMik--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%25A1%25E3%2583%25BC%25E3%2583%25AB%25E7%25A2%25BA%25E8%25AA%258D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2589%25E3%2582%2592%25E4%25B8%258D%25E8%25A6%2581%25E3%2581%25AB%25E3%2581%2599%25E3%2582%258B%2520Email%2520Verification%2520Protocol%2520%2528EVP%2529%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:k1t%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzFlZTgxM2Q0NDYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "fetched_at": "2026-08-15 14:17:29",
-    "ja_summary": "・Webサイト登録時のメール確認作業は、ユーザーの離脱を招く大きな負担となっている。\n・この手間を解消するため、メール確認コード入力を不要にする新規格「EVP」が提案された。\n・導入により、スムーズなアカウント作成とコンバージョン率の向上が期待される。"
-  },
-  {
-    "title": "AIで自作した放置型絵文字ローグライク『探犬∞』に一人称視点をつけたらDOOMライクになった（CloseBox）",
-    "link": "https://www.techno-edge.net/article/2026/08/15/5395.html",
-    "source": "TechnoEdge",
-    "published": "Sat, 15 Aug 2026 13:20:49 +0900",
-    "summary": "前回、漢字と絵文字だけでできた放置型ローグライク『探犬∞』を公開して、「しばらくこの迷宮を眺めて暮らそう」と書きましたが、その生活はその日のうちに、いや数十分で終わりました。",
-    "image": "https://www.techno-edge.net/imgs/rss/33588.png",
-    "fetched_at": "2026-08-15 13:21:18",
-    "ja_summary": "・AIで自作した放置型絵文字ゲーム『探犬∞』に一人称視点を実装。\n・2Dの絵文字空間が、まるで往年のFPS『DOOM』のようなゲームに変貌。\n・当初の「眺める」目的とは異なる、没入感のある体験へと進化した。"
   }
 ]
