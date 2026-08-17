@@ -1,5 +1,25 @@
 [
   {
+    "title": "Critical Engineering: The Myth of Ireneo Funes — Redefining the SDLC, Operations (SRE), and Engineering Education",
+    "link": "https://speakerdeck.com/almo/critical-engineering-the-myth-of-ireneo-funes-redefining-the-sdlc-operations-sre-and-engineering-education",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-08-15T09:36:01-04:00",
+    "summary": "“To think is to forget differences, to generalize, to abstract. In Funes’s crowded world, there were only details, almost immediate ones.” — Jorge Luis Borges\n\nWhen autonomous agents make writing code nearly free, the cost of verifying and integrating that code becomes infinite. This presentation examines the modern computing crisis: running AI-scale agentic workloads on legacy, human-centric architectures.\n\nAs AI code generation accelerates into a high-throughput firehose, traditional CI/CD pipelines, SRE verification methods, and syntax-heavy academic curricula are defaulting under the weight of unbridled technical debt.\n\nThe talk introduces Adversarial & Critical Engineering—a paradigm shift moving engineers from line-by-line coders to system architects who enforce strict structural invariants, machine-scale verification, and zero-trust delivery pipelines\n\nKey Themes & Takeaways\n<ul>\n<li><strong>The Agentic Shift & The Accumulation Fallacy:</strong> Why flooding repositories with unmanaged AI-generated code leads to systemic breakdown rather than linear productivity gains.  </li>\n<li><strong>Broken CI/CD & SRE Pipelines: </strong>The urgent need to evolve Site Reliability Engineering with automated canary analysis (ACA), automated chaos engineering loops, and machine-scale validation gates.  </li>\n<li><strong>Academic Bankruptcy: </strong>The growing gap between university curricula focusing on syntax (\"bricks\") and modern industry demands for system architecture and abstraction (\"skyscrapers\").  </li>\n<li><strong>Adversarial Engineering Framework: </strong>Enforcing hard architectural invariants, isolated sandboxes (e.g., eBPF, sandboxed runtimes), and immutable Policy-as-Code (PaC).  </li>\n<li><strong>The Critical Engineer’s Manifesto:</strong> Shifting focus from syntax mastery to systemic verification, abstraction, and deliberate boundary enforcement.  </li>\n</ul>\n\n#SoftwareEngineering #SRE #GenerativeAI #DevOps #SystemDesign #AgenticWorkflows #CNEISI2026",
+    "image": "https://files.speakerdeck.com/presentations/b1578d0417f34ab78ce06acdebf29a52/preview_slide_0.jpg?40288604",
+    "fetched_at": "2026-08-17 19:46:57",
+    "ja_summary": "AIによるコード生成の急増で、従来の開発・運用手法は技術的負債の増大により破綻の危機にある。\nエンジニアは単なるコーダーから脱却し、機械による大規模検証や厳格なアーキテクチャ設計を担う「クリティカル・エンジニア」へ進化すべきである。\n今後は個別のコード記述より、ゼロトラストな自動検証パイプラインと抽象化によるシステム全体の一貫性維持が重要となる。"
+  },
+  {
+    "title": "プロンプトの次は何を学べばいい？ AIとの付き合い方を4段階で整理する",
+    "link": "https://qiita.com/jqit_suwa/items/cb785917d2661858f7b7",
+    "source": "Qiita (Popular)",
+    "published": "2026-08-06T10:10:35+09:00",
+    "summary": "\n最近「〇〇エンジニアリング」という言葉が増えました。\n\nプロンプトエンジニアリング。コンテキストエンジニアリング。ハーネスエンジニアリング。ループエンジニアリング。\n\n**新しい言葉が出るたびに「また覚えることが増えた」と思っていました。**\n\nでも調べてみたら、これらは**バラバラの手法ではなく、入れ子になった4つの層**でした。しかも順番に学べばいい構造になっている。\n\nこの記事では、その4",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0NDMwNjExJTJGYTRlNGFiZDZjNWNkZmM5NzkzMTk2ZmUwZDFjZjYyMGY1ZWYxMTY5NCUyRnhfbGFyZ2UucG5nJTNGMTc4NTI4OTU5Nj9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NGE5ZmNiZmE4OTM5NWU1MWY1N2FiYjJkYzI1ZTFmZDQ%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYyMDc3NzA2NTMzODkzMmUyMWVjMjk3MjI5ZDVkZmI5NDk5MWI5YzFhJTJGb3JpZ2luYWwuanBnJTNGMTc2OTAwMDk3MD9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz1lYjc1ZTQzMzAzYTdlNTkzNDQ4Yjc4NDZiMjljYTgxZA%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D237198914e54e0e7e727d16c4cfb7823?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgzJTk3JUUzJTgzJUFEJUUzJTgzJUIzJUUzJTgzJTk3JUUzJTgzJTg4JUUzJTgxJUFFJUU2JUFDJUExJUUzJTgxJUFGJUU0JUJEJTk1JUUzJTgyJTkyJUU1JUFEJUE2JUUzJTgxJUI5JUUzJTgxJUIwJUUzJTgxJTg0JUUzJTgxJTg0JUVGJUJDJTlGJTIwQUklRTMlODElQTglRTMlODElQUUlRTQlQkIlOTglRTMlODElOEQlRTUlOTAlODglRTMlODElODQlRTYlOTYlQjklRTMlODIlOTI0JUU2JUFFJUI1JUU5JTlBJThFJUUzJTgxJUE3JUU2JTk1JUI0JUU3JTkwJTg2JUUzJTgxJTk5JUUzJTgyJThCJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9OWI3MzZkOTIyMWY4ZjczN2MxZGE2MjZiNTczZjU5YzI&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBqcWl0X3N1d2EmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz0wYWE2OTJkMmQwMzE0Yzg2ZDIzMGMyOWU5Njg2ZGUyMg&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=5qCq5byP5Lya56S-SlFJVA&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=9f156368a6c72d36713c8fcb5502c959",
+    "fetched_at": "2026-08-17 19:47:00",
+    "ja_summary": "・プロンプト関連の専門用語は、単なる個別手法ではなく「4層の入れ子構造」として整理できる。\n・これらは基礎から応用へと順番に学ぶことで、AI活用能力を体系的に高められる。\n・次々と現れる新語に惑わされず、この4段階のフレームワークを習得することがAI活用の近道となる。"
+  },
+  {
     "title": "NTTドコモビジネスとエクサウィザーズ、「クローズドAIエージェント」を提供開始",
     "link": "https://japan.zdnet.com/article/35251625/",
     "source": "ZDNET Japan",
@@ -978,25 +998,5 @@
     "image": "https://assets.st-note.com/production/uploads/images/303840025/rectangle_large_type_2_b1eafb819c299d7d13874d1a766a24d7.png?width=800",
     "fetched_at": "2026-08-16 00:00:28",
     "ja_summary": "ChatGPTのサブスク契約済みアカウントでログインした「Codex CLI」を、自作アプリから呼び出す手法を解説。\n既存の認証情報を活用することで、プログラム経由での利用が可能になる。\n詳細な手順はリンク先の記事にて確認できる。"
-  },
-  {
-    "title": "米軍AIシステム「メイブン」とは",
-    "link": "https://news.yahoo.co.jp/pickup/6591883?source=rss",
-    "source": "Yahoo!ニュース IT・科学",
-    "published": "Sat, 15 Aug 2026 14:22:11 GMT",
-    "summary": "",
-    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/8/15/6ab08075a92b9e64e518097d92809759fedf793d7e985d2aa6ffae74670ecaae.jpg",
-    "fetched_at": "2026-08-15 23:45:31",
-    "ja_summary": "・「メイブン」は米軍が導入したAI画像解析システムで、ドローン映像から標的を自動識別する。\n・膨大な偵察データから人間では見落としがちな脅威を瞬時に特定し、判断を支援する。\n・軍の作戦効率と速度を飛躍的に向上させる一方、倫理的課題やAI兵器化への議論も呼んでいる。"
-  },
-  {
-    "title": "インド なぜ若者1000万人にAI研修",
-    "link": "https://news.yahoo.co.jp/pickup/6591881?source=rss",
-    "source": "Yahoo!ニュース IT・科学",
-    "published": "Sat, 15 Aug 2026 14:09:50 GMT",
-    "summary": "",
-    "image": "https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/satohitoshi/02694197/title-1786790511170.jpeg?exp=10800",
-    "fetched_at": "2026-08-15 23:20:24",
-    "ja_summary": "・インド政府が将来のAI大国化を目指し、若年層1000万人へのAI教育プログラムを開始。\n・高度なIT人材を大量育成することで、国際競争力の強化と国内産業のDXを加速させる狙い。\n・世界最大級の労働人口を活かし、AI開発や活用のハブとして経済成長の基盤を確立する戦略。"
   }
 ]
