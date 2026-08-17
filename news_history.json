@@ -1,5 +1,45 @@
 [
   {
+    "title": "デル・テクノロジーズ、日本法人社長にロボトム氏が就任--AI事業の成長加速",
+    "link": "https://japan.zdnet.com/article/35251618/",
+    "source": "ZDNET Japan",
+    "published": "",
+    "summary": "デル・テクノロジーズは8月17日、Jon Robottom氏が同日付で日本法人の代表取締役社長に就任したと発表した。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35251618/\"><img src=\"https://japan.zdnet.com/storage/2025/06/10/ed1fc572ec82cb4a0650e36212a868dc/t/184/138/d/250610_dell_l.jpg\" /></a>",
+    "image": "https://japan.zdnet.com/storage/2025/06/10/ed1fc572ec82cb4a0650e36212a868dc/t/184/138/d/250610_dell_l.jpg",
+    "fetched_at": "2026-08-17 15:58:09",
+    "ja_summary": "・デル・テクノロジーズ日本法人の新社長に、ジョン・ロボトム氏が8月17日付で就任。\n・新体制のもと、同社の成長戦略の柱であるAI事業のさらなる加速を目指す。"
+  },
+  {
+    "title": "Raspberry Pi in Alcohol Brewing Modernizing Craft Processes with IoT",
+    "link": "https://speakerdeck.com/masafumi_ohta/raspberry-pi-in-alcohol-brewing-modernizing-craft-processes-with-iot",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-08-17T02:47:30-04:00",
+    "summary": "I talked at HKOSCON26 about sake with AI -we could make sake with AI,  but it needs helps by Toji  - brew meister to brew especially in its fermentation process. AI cannot behave like Toji - the detailed human behaviors.",
+    "image": "https://files.speakerdeck.com/presentations/6b20bde57c13462fb79518f0e9613dbe/preview_slide_0.jpg?40298194",
+    "fetched_at": "2026-08-17 15:58:16",
+    "ja_summary": "・酒造りの発酵工程において、AIは杜氏の精密な職人技を完全には代替できない。\n・高品質な酒造りには、AIによるデータ管理と杜氏の経験知の連携が不可欠である。\n・Raspberry Piを活用したIoT技術により、伝統的な酒造プロセスの現代化を目指す。"
+  },
+  {
+    "title": "自分のHTML資産を増やすと、AIで見た目の良いサイトを作りやすくなる",
+    "link": "https://qiita.com/uni928/items/b4a874f0bbf91d378097",
+    "source": "Qiita (Popular)",
+    "published": "2026-08-09T16:03:50+09:00",
+    "summary": "ChatGPTなどのAIにHTMLを作ってもらったとき、\n\n> 機能は問題ないけど、もう少し見た目を良くしたい\n\nと思うことがあります。\n\nそんなときに便利なのが、**自分が気に入ったHTMLを「HTML資産」として残しておく方法**です。\n\n例えば、以前作ったボタンや入力フォーム、写真アップロード要素などで、\n\n> この見た目は気に入っている\n\nと思ったものを保存しておきます。\n\nそして、AIに",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYzNzUyODg2JTJGYmU4ZDZhOWM0MjdkZGQ1NmQwNmEwMDZkZWU3MWEwMTI2MGVkZjcxOSUyRnhfbGFyZ2UucG5nJTNGMTc4NjQ5MjUyMD9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NDY3NzQ1MzhkNDg0MGU5MDE5MmMxMGE3NWFjNzQ3NjE%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D9848fa31374d9fe6ebad5a6b02c56c22?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUU4JTg3JUFBJUU1JTg4JTg2JUUzJTgxJUFFSFRNTCVFOCVCMyU4NyVFNyU5NCVBMyVFMyU4MiU5MiVFNSVBMiU5NyVFMyU4MiU4NCVFMyU4MSU5OSVFMyU4MSVBOCVFMyU4MCU4MUFJJUUzJTgxJUE3JUU4JUE2JThCJUUzJTgxJTlGJUU3JTlCJUFFJUUzJTgxJUFFJUU4JTg5JUFGJUUzJTgxJTg0JUUzJTgyJUI1JUUzJTgyJUE0JUUzJTgzJTg4JUUzJTgyJTkyJUU0JUJEJTlDJUUzJTgyJThBJUUzJTgyJTg0JUUzJTgxJTk5JUUzJTgxJThGJUUzJTgxJUFBJUUzJTgyJThCJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9MTJhZDcyMjFkN2U1Y2Y0OGMyZjJlMjY1NzJlMjUyZDI&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDB1bmk5MjgmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz0wMzQyOWU3M2U5MzdiMTU0OTIzMzk3NGEzZGNhY2YwYg&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=6aeda86e0d2ff76710cf14be92f366bc",
+    "fetched_at": "2026-08-17 15:58:18",
+    "ja_summary": "・AI作成サイトの見た目を改善するには、過去の良質なHTMLコードを「資産」として蓄積しておくのが有効。\n・気に入ったボタンやフォームの部品を保存し、AIへの指示時にそれらを組み込むよう指定する。\n・既存の資産を活用することで、AI生成サイトのクオリティと開発効率を大幅に向上させられる。"
+  },
+  {
+    "title": "【便利】 Claude Codeの覚えておきたいスラッシュコマンドまとめ",
+    "link": "https://qiita.com/tamashiro_nobuyuki/items/573178ed3b8a6a22ebb1",
+    "source": "Qiita (Popular)",
+    "published": "2026-08-07T17:14:06+09:00",
+    "summary": "## Claude Codeの覚えておきたいスラッシュコマンドまとめ\n\nClaude Codeを使っていて「コマンド何だっけ?」となることが多かったので、よく使うスラッシュコマンドを用途別に整理しました。\n\n### 早見表\n\n| コマンド | 何をするか |\n|---|---|\n| `/compact` | 会話を要約して圧縮し、継続する |\n| `/clear` | 会話を完全にリセットする |",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmxoMy5nb29nbGV1c2VyY29udGVudC5jb20lMkZhJTJGQUNnOG9jSVpOcG9KbUxlWjJHQWFwY1BfMzJvU0tVUTVjZzl1Nnl4THVVTmRHaVlwOE5SeiUzRHM5Ni1jP2l4bGliPXJiLTQuMS4xJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz1jNDRmMzZlNjA4OWZhZGE0NjUzNTQwNWVmYjJiYjAwZg%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYwZDI2NDAxZDJiYjJhNzgxZWI4YWU4MGNmNWM2NmUxNzlhNmMzMjMzJTJGb3JpZ2luYWwuanBnJTNGMTcyNzgyODEzMz9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz1jNmJiYmFjMjgwMjVkMTk3OTdkOThiYzI1NDFkYTc1OQ%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D6ff3c4852ece3c4243bf155971aa9ba3?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJTkwJUU0JUJFJUJGJUU1JTg4JUE5JUUzJTgwJTkxJTIwQ2xhdWRlJTIwQ29kZSVFMyU4MSVBRSVFOCVBNiU5QSVFMyU4MSU4OCVFMyU4MSVBNiVFMyU4MSU4QSVFMyU4MSU4RCVFMyU4MSU5RiVFMyU4MSU4NCVFMyU4MiVCOSVFMyU4MyVBOSVFMyU4MyU4MyVFMyU4MiVCNyVFMyU4MyVBNSVFMyU4MiVCMyVFMyU4MyU5RSVFMyU4MyVCMyVFMyU4MyU4OSVFMyU4MSVCRSVFMyU4MSVBOCVFMyU4MiU4MSZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPThjOGU2Y2QyMzMwN2Q3YmViYzIzMTY3YTU4MzM2NTI2&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDB0YW1hc2hpcm9fbm9idXl1a2kmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1lMjVjZDc3ZTcxYWM0NjA2OTYyNjQxYWZlNTMwNDM3MQ&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=5qCq5byP5Lya56S-TkVYVCBURUNITk9MT0dZ&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=fcc7f86bb128f04e5e84943adc73e30f",
+    "fetched_at": "2026-08-17 15:58:18",
+    "ja_summary": "・`/compact`：会話を要約・圧縮して継続する\n・`/clear`：会話履歴を完全にリセットする\nClaude Code利用時に頻出するこれら2つのコマンドを覚えておくと便利。"
+  },
+  {
     "title": "OpenAI、ChatGPTを“日常の相棒”として描く日本初広告",
     "link": "https://www.watch.impress.co.jp/docs/news/2133129.html",
     "source": "Impress Watch",
@@ -958,45 +998,5 @@
     "image": "https://res.cloudinary.com/zenn/image/upload/s--8ZEATJ96--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Databricks%2520%25E3%2581%25AE%2520Declarative%2520Automation%2520Bundles%2520%25E3%2582%2592%25E7%2594%25A8%25E3%2581%2584%25E3%2581%259F%25E6%25A9%259F%25E6%25A2%25B0%25E5%25AD%25A6%25E7%25BF%2592%25E3%2583%2587%25E3%2583%25BC%25E3%2582%25BF%25E3%2582%25BB%25E3%2583%2583...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:colum2131%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2RhZDZiMjhmMmEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
     "fetched_at": "2026-08-15 10:25:17",
     "ja_summary": "チューリングは、End-to-End自動運転AIの開発に向け、Databricksの「Declarative Automation Bundles」を活用した効率的な機械学習データセット作成基盤を構築しています。\n収集した膨大な走行データをETLパイプラインで自動処理することで、データセット生成の迅速化とMLOps環境の整備を実現しました。"
-  },
-  {
-    "title": "How Claude’s text watermark works",
-    "link": "https://www.anthropic.com/news/claude-text-watermark",
-    "source": "Anthropic (News)",
-    "published": "Fri, 14 Aug 2026 00:00:00 +0000",
-    "summary": "How Claude’s text watermark works",
-    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Quill&amp;backgroundColor=heather",
-    "fetched_at": "2026-08-15 04:54:53",
-    "ja_summary": "・Claudeの生成テキストには、AIによる作成か判別するための不可視の電子透かしが埋め込まれている。\n・特定の統計的手法を用い、通常の文章分布に微細な偏りを加えることで、AIの生成物であることを特定する。\n・この仕組みにより、AI生成コンテンツの透明性向上と不正利用の検知を両立させている。"
-  },
-  {
-    "title": "NEC、AIマーケティング支援「BestMove」を本格展開--AIペルソナで新事業創出",
-    "link": "https://japan.zdnet.com/article/35251417/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "NECは、実購買データを基に高解像度なAIペルソナを生成し、企業のマーケティング施策立案を支援するツール「BestMove」の事業拡大を本格化する。デジタル空間でのAIアンケートや壁打ちにより、従来数カ月を要した市場調査を最短1週間に短縮する。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35251417/\"><img src=\"https://japan.zdnet.com/storage/2026/08/07/22626466d2dd8e791c7e798a3bd688e2/t/184/138/d/260807_nec_l.jpg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2026/08/07/22626466d2dd8e791c7e798a3bd688e2/t/184/138/d/260807_nec_l.jpg",
-    "fetched_at": "2026-08-14 20:54:49",
-    "ja_summary": "・NECがAIマーケティング支援ツール「BestMove」を本格展開。\n・実購買データに基づくAIペルソナを活用し、市場調査や企画立案を支援。\n・従来数カ月かかっていた市場調査を最短1週間に短縮し、事業創出を加速させる。"
-  },
-  {
-    "title": "How RingCentral builds AI-native work from engineering to ops",
-    "link": "https://openai.com/index/ringcentral",
-    "source": "OpenAI",
-    "published": "Wed, 12 Aug 2026 00:00:00 GMT",
-    "summary": "See how RingCentral uses ChatGPT Work and Codex to accelerate AI product development and centralize operational intelligence across engineering and operations.",
-    "image": "https://images.ctfassets.net/kftzwdyauwt9/2k1A67ewu2PHI2pt2Wh6zG/b0e09c92f1db264476fd343a1dfd63a8/ringcentral-drive-seo.png?w=1600&amp;h=900&amp;fit=fill",
-    "fetched_at": "2026-08-14 20:54:52",
-    "ja_summary": "・RingCentralがChatGPT WorkとCodexを活用し、AI製品開発を加速。\n・開発から運用まで全社的な知見を統合・効率化。\n・AIネイティブなワークフローを構築し、生産性を向上。"
-  },
-  {
-    "title": "Google版AirTag、紛失防止トラッカーPixel Tag発表　新技術『Bluetooth CS』で高精度、UWBも搭載",
-    "link": "https://www.techno-edge.net/article/2026/08/14/5393.html",
-    "source": "TechnoEdge",
-    "published": "Fri, 14 Aug 2026 19:22:17 +0900",
-    "summary": "Googleは8月12日、同社初の紛失防止トラッカー「Google Pixel Tag」を発表しました。日本での発売は11月予定で、価格は単品5,010円、4個セット16,940円です。",
-    "image": "https://www.techno-edge.net/imgs/rss/33565.jpg",
-    "fetched_at": "2026-08-14 20:09:23",
-    "ja_summary": "・Google初の紛失防止トラッカー「Pixel Tag」が発表、11月発売。\n・新技術「Bluetooth CS」とUWB搭載で、従来より高精度な位置特定が可能。\n・価格は単品5,010円、4個セット16,940円で展開。"
   }
 ]
