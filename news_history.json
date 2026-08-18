@@ -1,5 +1,45 @@
 [
   {
+    "title": "オードリー・タンが警鐘　AIを「親友」にしてはいけない (AIリーダーズ)",
+    "link": "https://business.nikkei.com/atcl/gen/19/00711/081300039/",
+    "source": "日経ビジネス 最新",
+    "published": "",
+    "summary": "オードリー・タン氏が警鐘。AIを「親友」と錯覚せず、人間の判断を支える道具として使うべきだ。",
+    "image": "https://business.nikkei.com/atcl/gen/19/00711/081300039/fb.jpg",
+    "fetched_at": "2026-08-18 17:25:03",
+    "ja_summary": "・AIを親友のように錯覚せず、あくまで人間の判断を補佐する「道具」として扱うべき。\n・AIへの過度な依存や擬人化を避け、主体的な思考を維持することが重要。"
+  },
+  {
+    "title": "「あなたはAIエージェントに買い物を任せたいですか」 Visaが調査--消費者の回答は",
+    "link": "https://japan.cnet.com/article/35251620/",
+    "source": "CNET Japan",
+    "published": "",
+    "summary": "ビザ・ワールドワイド・ジャパンは8月17日、オンラインでの買い物にAIやAIエージェントをどこまで任せられるかを尋ねた消費者調査の結果を発表した。AIを活用した購買体験への関心は高まる一方、購入判断や決済までAIに委ねることへの受け入れは「極めて限定的」だったという。普及には利便性だけでなく「信頼と安心」と、利用者が自分で管理・選べる仕組みが求められるとしている。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35251620/\"><img src=\"https://japan.cnet.com/storage/2026/08/17/4595f612461febb8cf1ff3042362cd4f/t/184/138/d/01122.jpg\" /></a>",
+    "image": "https://japan.cnet.com/storage/2026/08/17/4595f612461febb8cf1ff3042362cd4f/t/184/138/d/01122.jpg",
+    "fetched_at": "2026-08-18 17:25:16",
+    "ja_summary": "・Visaの調査で、消費者はAIによる買い物支援には関心があるものの、購入や決済の自動化には慎重であることが判明。\n・普及には利便性だけでなく、安全性への信頼と、ユーザーが主導権を持てる仕組みが不可欠。\n・AIエージェントの活用拡大には、技術への安心感醸成が今後の鍵となる。"
+  },
+  {
+    "title": "AWSジャパン、「LEAP」で産官学金の連携加速へ--地域企業のAI導入を最大5万ドル支援",
+    "link": "https://japan.zdnet.com/article/35251645/",
+    "source": "ZDNET Japan",
+    "published": "",
+    "summary": "アマゾン ウェブ サービス ジャパン（AWSジャパン）は、地域創生支援に関する新プログラム「LEAP by AWSジャパン」を発表した。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35251645/\"><img src=\"https://japan.zdnet.com/storage/2026/08/18/b84d196489475f0ffa934f0efad69952/t/184/138/d/260818_aws_001.jpg\" /></a>",
+    "image": "https://japan.zdnet.com/storage/2026/08/18/b84d196489475f0ffa934f0efad69952/t/184/138/d/260818_aws_001.jpg",
+    "fetched_at": "2026-08-18 17:25:22",
+    "ja_summary": "AWSジャパンが地域企業のAI導入を支援する新プログラム「LEAP」を開始。\n産官学金と連携し、対象企業に最大5万ドルの支援金を提供。\n地方創生と地域経済のデジタル変革を加速させる狙い。"
+  },
+  {
+    "title": "How Claude’s text watermark works",
+    "link": "https://www.anthropic.com/news/claude-text-watermark",
+    "source": "Anthropic (News)",
+    "published": "Fri, 14 Aug 2026 00:00:00 +0000",
+    "summary": "How Claude’s text watermark works",
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Quill&amp;backgroundColor=heather",
+    "fetched_at": "2026-08-18 17:25:29",
+    "ja_summary": "・AI「Claude」が生成するテキストに、AI製であることを見分けるための不可視の透かし（ウォーターマーク）を埋め込む仕組み。\n・統計的なパターンを調整することで、AI特有の出力を識別し、不正利用や誤情報の拡散を抑制する。\n・将来的なAIの安全性向上と、人間とAIが生成したコンテンツの境界を明確にするための技術基盤。"
+  },
+  {
     "title": "WDと東北大学、大容量ストレージ技術開発に向け「AIデータインフラ共創研究所」設立",
     "link": "https://japan.zdnet.com/article/35251651/",
     "source": "ZDNET Japan",
@@ -958,45 +998,5 @@
     "image": "https://japan.zdnet.com/storage/2022/02/03/ec0cb62056b104269bb1b720f8fbaba3/t/184/138/d/thumb_ithr_1280.jpg",
     "fetched_at": "2026-08-17 18:22:43",
     "ja_summary": "・企業のデジタル人材育成の重点が、単なる技術活用から「AIリテラシー教育」へシフトしている。\n・技術導入だけでなく、それを使いこなす「人」への投資を重視する企業が増加している。"
-  },
-  {
-    "title": "AIで自作した放置型絵文字ローグライク『探犬∞』に一人称視点をつけたらDOOMライクになった（CloseBox）",
-    "link": "https://www.techno-edge.net/article/2026/08/15/5395.html",
-    "source": "TechnoEdge",
-    "published": "Sat, 15 Aug 2026 13:20:49 +0900",
-    "summary": "前回、漢字と絵文字だけでできた放置型ローグライク『探犬∞』を公開して、「しばらくこの迷宮を眺めて暮らそう」と書きましたが、その生活はその日のうちに、いや数十分で終わりました。",
-    "image": "https://www.techno-edge.net/imgs/rss/33588.png",
-    "fetched_at": "2026-08-17 18:22:44",
-    "ja_summary": "・AI開発の放置型ローグライク『探犬∞』に一人称視点を実装。\n・ゲーム画面がレトロなFPS「DOOM」のような雰囲気に一変。\n・放置ゲームから探索型ゲームへと劇的な変化を遂げた。"
-  },
-  {
-    "title": "Yahoo!ニュースの専門家をAI化「エキスパートAI」　第1弾はレシピ",
-    "link": "https://www.watch.impress.co.jp/docs/news/2133211.html",
-    "source": "Impress Watch",
-    "published": "",
-    "summary": "LINEヤフーは、「Yahoo!ニュース エキスパート」に参加する専門家の知見を活かしたAIエージェント「エキスパートAI」を提供開始した。AIエージェント「Agent i」内で利用できる。",
-    "image": "https://www.watch.impress.co.jp/img/ipw/list/2133/211/01.jpg",
-    "fetched_at": "2026-08-17 17:32:53",
-    "ja_summary": "・LINEヤフーが専門家の知見を学習したAI「エキスパートAI」の提供を開始。\n・AIエージェント「Agent i」上で利用可能。\n・第1弾として、Yahoo!ニュース エキスパートによるレシピ提案機能が利用できる。"
-  },
-  {
-    "title": "Claudeで生成した文章に「電子透かし」導入　編集しても残る",
-    "link": "https://www.watch.impress.co.jp/docs/news/2132925.html",
-    "source": "Impress Watch",
-    "published": "",
-    "summary": "Anthropicは、今後「Claude」のAIモデルの出力として「透かし」が入ったテキストを生成すると公表した。欧州のAI規制法(EU AI Act)に対応するためのもので、主要なAIプロバイダー各社も対応。全世界のClaudeの出力に透かしを付与していく。11日に透かし導入の方針を公表していたが、14日にその詳細を公表した。",
-    "image": "https://www.watch.impress.co.jp/img/ipw/list/2132/925/claude1.jpg",
-    "fetched_at": "2026-08-17 17:32:55",
-    "ja_summary": "・Anthropic社は「Claude」で生成される全文章に、編集後も残る「電子透かし」の導入を決定した。\n・欧州のAI規制法（EU AI Act）への対応が目的で、今後世界中の出力に順次適用される。\n・AIによる生成物であることを識別可能にし、安全性と透明性の確保を図る。"
-  },
-  {
-    "title": "動画生成AI「MiniMax-H3」のComfyUI向け軽量版が登場、少ないVRAMでも動作、スマホ完結でサクサク動く軽量AIエージェント「LFM2.5-2.6B」など生成AI技術5つを解説（生成AIウィークリー）",
-    "link": "https://www.techno-edge.net/article/2026/08/15/5394.html",
-    "source": "TechnoEdge",
-    "published": "Sat, 15 Aug 2026 11:47:51 +0900",
-    "summary": "今回の「生成AIウィークリー」（第155回）は、動画生成AI「MiniMax-H3」のComfyUI向け再配布版や、映像が届いたそばから編集できるリアルタイム動画編集AI「JoyAI-Video-Edit」を取り上げます。",
-    "image": "https://www.techno-edge.net/imgs/rss/33578.png",
-    "fetched_at": "2026-08-17 17:33:03",
-    "ja_summary": "・動画生成AI「MiniMax-H3」の軽量版がComfyUIで利用可能になり、低スペック環境でも動作を実現。\n・スマホ完結型の軽量AIエージェント「LFM2.5-2.6B」や、リアルタイム動画編集AI「JoyAI-Video-Edit」が登場。\n・生成AIの最新技術5選として、効率化と利便性を高めるツールが注目されている。"
   }
 ]
