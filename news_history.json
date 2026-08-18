@@ -1,5 +1,35 @@
 [
   {
+    "title": "WDと東北大学、大容量ストレージ技術開発に向け「AIデータインフラ共創研究所」設立",
+    "link": "https://japan.zdnet.com/article/35251651/",
+    "source": "ZDNET Japan",
+    "published": "",
+    "summary": "ウエスタンデジタルと東北大学は、次世代ストレージ技術の開発とAIインフラを支える人材の育成を目的とした共同研究拠点「WD×東北大学 AIデータインフラ共創研究所」を設立した。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35251651/\"><img src=\"https://japan.zdnet.com/storage/2026/08/18/6f24ce8ebcd82490d55157dc48e84268/t/184/138/d/260818_wd_l.jpg\" /></a>",
+    "image": "https://japan.zdnet.com/storage/2026/08/18/6f24ce8ebcd82490d55157dc48e84268/t/184/138/d/260818_wd_l.jpg",
+    "fetched_at": "2026-08-18 16:53:52",
+    "ja_summary": "・ウエスタンデジタルと東北大学が、次世代ストレージ技術の共同開発を行う「AIデータインフラ共創研究所」を設立。\n・AI社会を支える大容量ストレージ技術の革新を目指す。\n・先端技術の研究に加え、AIインフラを担う高度な専門人材の育成も推進する。"
+  },
+  {
+    "title": "Raspberry Pi in Alcohol Brewing Modernizing Craft Processes with IoT",
+    "link": "https://speakerdeck.com/masafumi_ohta/raspberry-pi-in-alcohol-brewing-modernizing-craft-processes-with-iot",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-08-17T02:47:30-04:00",
+    "summary": "I talked at HKOSCON26 about sake with AI -we could make sake with AI,  but it needs helps by Toji  - brew meister to brew especially in its fermentation process. AI cannot behave like Toji - the detailed human behaviors.",
+    "image": "https://files.speakerdeck.com/presentations/6b20bde57c13462fb79518f0e9613dbe/preview_slide_0.jpg?40298194",
+    "fetched_at": "2026-08-18 16:53:59",
+    "ja_summary": "・Raspberry Piを活用したIoT技術で、クラフト酒造りの近代化を推進。\n・発酵などの繊細な工程には、AIだけでなく杜氏の職人技が不可欠。\n・AIによる効率化と熟練のノウハウを融合させることで、酒造りの進化を目指す。"
+  },
+  {
+    "title": "自分のHTML資産を増やすと、AIで見た目の良いサイトを作りやすくなる",
+    "link": "https://qiita.com/uni928/items/b4a874f0bbf91d378097",
+    "source": "Qiita (Popular)",
+    "published": "2026-08-09T16:03:50+09:00",
+    "summary": "ChatGPTなどのAIにHTMLを作ってもらったとき、\n\n> 機能は問題ないけど、もう少し見た目を良くしたい\n\nと思うことがあります。\n\nそんなときに便利なのが、**自分が気に入ったHTMLを「HTML資産」として残しておく方法**です。\n\n例えば、以前作ったボタンや入力フォーム、写真アップロード要素などで、\n\n> この見た目は気に入っている\n\nと思ったものを保存しておきます。\n\nそして、AIに",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYzNzUyODg2JTJGYmM4OTc4NjJmNTRlYTNjZDkzM2JhN2NiNjMyZjMxMTljZDUyNjQ0ZSUyRnhfbGFyZ2UucG5nJTNGMTc4NzAyNDYzMj9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9MzNjODJmYjI5OWM0NTI3MzRlODE1OWVmZWRmZWZkNDE%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D4ab315f6feee264da03c98e43bf501d6?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUU4JTg3JUFBJUU1JTg4JTg2JUUzJTgxJUFFSFRNTCVFOCVCMyU4NyVFNyU5NCVBMyVFMyU4MiU5MiVFNSVBMiU5NyVFMyU4MiU4NCVFMyU4MSU5OSVFMyU4MSVBOCVFMyU4MCU4MUFJJUUzJTgxJUE3JUU4JUE2JThCJUUzJTgxJTlGJUU3JTlCJUFFJUUzJTgxJUFFJUU4JTg5JUFGJUUzJTgxJTg0JUUzJTgyJUI1JUUzJTgyJUE0JUUzJTgzJTg4JUUzJTgyJTkyJUU0JUJEJTlDJUUzJTgyJThBJUUzJTgyJTg0JUUzJTgxJTk5JUUzJTgxJThGJUUzJTgxJUFBJUUzJTgyJThCJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9MTJhZDcyMjFkN2U1Y2Y0OGMyZjJlMjY1NzJlMjUyZDI&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDB1bmk5MjgmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz0wMzQyOWU3M2U5MzdiMTU0OTIzMzk3NGEzZGNhY2YwYg&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=aca22419410ac4c8fb756208e90eed2b",
+    "fetched_at": "2026-08-18 16:54:01",
+    "ja_summary": "・AI生成のWebサイトの質を高めるため、好みのHTMLパーツを「資産」として蓄積する。\n・AIへの指示時にそれらの資産を提示することで、理想のデザインを効率的に反映できる。\n・過去の成果物を再利用することで、AI開発のクオリティと作業効率を大幅に向上させる。"
+  },
+  {
     "title": "答えが一つではないテーマに寄り添うAIエージェント「PKSHA Dialogue」",
     "link": "https://www.watch.impress.co.jp/docs/news/2133512.html",
     "source": "Impress Watch",
@@ -968,35 +998,5 @@
     "image": "https://www.techno-edge.net/imgs/rss/33578.png",
     "fetched_at": "2026-08-17 17:33:03",
     "ja_summary": "・動画生成AI「MiniMax-H3」の軽量版がComfyUIで利用可能になり、低スペック環境でも動作を実現。\n・スマホ完結型の軽量AIエージェント「LFM2.5-2.6B」や、リアルタイム動画編集AI「JoyAI-Video-Edit」が登場。\n・生成AIの最新技術5選として、効率化と利便性を高めるツールが注目されている。"
-  },
-  {
-    "title": "「あなたはAIエージェントに買い物を任せたいですか」 Visaが調査した結果--消費者の回答は",
-    "link": "https://japan.cnet.com/article/35251620/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "ビザ・ワールドワイド・ジャパンは8月17日、オンラインでの買い物にAIやAIエージェントをどこまで任せられるかを尋ねた消費者調査の結果を発表した。AIを活用した購買体験への関心は高まる一方、購入判断や決済までAIに委ねることへの受け入れは「極めて限定的」だったという。普及には利便性だけでなく「信頼と安心」と、利用者が自分で管理・選べる仕組みが求められるとしている。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35251620/\"><img src=\"https://japan.cnet.com/storage/2026/08/17/4595f612461febb8cf1ff3042362cd4f/t/184/138/d/01122.jpg\" /></a>",
-    "image": "https://japan.cnet.com/storage/2026/08/17/4595f612461febb8cf1ff3042362cd4f/t/184/138/d/01122.jpg",
-    "fetched_at": "2026-08-17 16:51:34",
-    "ja_summary": "・AIを活用した買い物には関心が高まっているが、決済などの最終判断を任せることには消費者の抵抗感が強い。\n・普及の鍵は、利便性よりも「信頼と安心感」の確保にある。\n・ユーザー自身がコントロール権を持ち、管理・選択できる仕組みが不可欠である。"
-  },
-  {
-    "title": "How RingCentral builds AI-native work from engineering to ops",
-    "link": "https://openai.com/index/ringcentral",
-    "source": "OpenAI",
-    "published": "Wed, 12 Aug 2026 00:00:00 GMT",
-    "summary": "See how RingCentral uses ChatGPT Work and Codex to accelerate AI product development and centralize operational intelligence across engineering and operations.",
-    "image": "https://images.ctfassets.net/kftzwdyauwt9/2k1A67ewu2PHI2pt2Wh6zG/b0e09c92f1db264476fd343a1dfd63a8/ringcentral-drive-seo.png?w=1600&amp;h=900&amp;fit=fill",
-    "fetched_at": "2026-08-17 16:51:40",
-    "ja_summary": "・RingCentralが「ChatGPT Work」や「Codex」を活用し、AI製品の開発スピードを加速。\n・開発部門と運用部門の知見をAIで一元化し、業務効率を向上。\n・AIネイティブなワークフローを構築し、エンジニアリングからオペレーションまでを最適化。"
-  },
-  {
-    "title": "How Claude’s text watermark works",
-    "link": "https://www.anthropic.com/news/claude-text-watermark",
-    "source": "Anthropic (News)",
-    "published": "Fri, 14 Aug 2026 00:00:00 +0000",
-    "summary": "How Claude’s text watermark works",
-    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Quill&amp;backgroundColor=heather",
-    "fetched_at": "2026-08-17 16:51:40",
-    "ja_summary": "・Claudeが生成したテキストには、AIによる作成を識別するための「電子透かし」が埋め込まれている。\n・特定の統計的パターンを利用することで、文章の改変や削除があっても高い精度でAI生成物と特定できる。\n・この仕組みにより、AIの悪用防止やコンテンツの信頼性確保を強化している。"
   }
 ]
