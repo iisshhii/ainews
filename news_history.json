@@ -1,5 +1,55 @@
 [
   {
+    "title": "ソフトバンク、文字起こし・AI助言イヤフォン「GLIDiC AI +u Buds」　29800円",
+    "link": "https://www.watch.impress.co.jp/docs/news/2133491.html",
+    "source": "Impress Watch",
+    "published": "",
+    "summary": "SB C&amp;Sは18日、録音や文字起こし、AIによるアドバイス機能を備えたイヤフォン「GLIDiC(グライディック) AI +u Buds」をトレテク！ソフトバンクセレクションなどの各ECショップで発売した。価格は29,800円。9月4日から全国のソフトバンクショップでも取り扱う。",
+    "image": "https://www.watch.impress.co.jp/img/ipw/list/2133/491/1.jpg",
+    "fetched_at": "2026-08-18 14:52:17",
+    "ja_summary": "・SB C&SがAI搭載の新型イヤフォン「GLIDiC AI +u Buds」を29,800円で発売。\n・録音・文字起こしに加え、AIによる助言機能を搭載。\n・現在ECサイトで販売中で、9月4日からは全国のソフトバンクショップでも取り扱う。"
+  },
+  {
+    "title": "Mariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer",
+    "link": "https://www.anthropic.com/news/tino-cuellar",
+    "source": "Anthropic (News)",
+    "published": "Tue, 04 Aug 2026 00:00:00 +0000",
+    "summary": "Mariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer",
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+    "fetched_at": "2026-08-18 14:52:32",
+    "ja_summary": "・元カリフォルニア州最高裁判事のTino Cuéllar氏がAnthropicの最高グローバル政策責任者（CGAO）に就任。\n・AIの安全な開発と規制対応、国際的な政策連携を主導する狙い。\n・法的・政策的知見を持つ同氏の参画により、AIガバナンス体制を強化。"
+  },
+  {
+    "title": "AIエージェントはなぜテストを握り潰すのか ― 報酬エンジニアリングのすすめ",
+    "link": "https://zenn.dev/ito/articles/6b042aa27d65bc",
+    "source": "Zenn Trends",
+    "published": "Mon, 17 Aug 2026 13:31:03 GMT",
+    "summary": "はじめに\nAIコーディングエージェントに仕事を任せていると、たまにギョッとする瞬間があります。\n通らないテストを skip にして「全テストがパスしました！」と報告してくる。アサーションを緩めて辻褄を合わせる。ひどい時にはテストの期待値の方を実装に合わせて書き換えて、堂々と完了報告をしてくる。\nそして「テストを勝手に変更してはいけません」と怒ると、その通りです、と悪びれもせず実装をやり直します。このような振る舞いにストレスを感じながら仕事をしています。\nこの挙動を「まだAIが未熟だから」と解釈している人は多いと思います。つまりモデルが賢くなれば自然に直る、一時的なバグのようなものだと...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--9NgfpSm6--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588%25E3%2581%25AF%25E3%2581%25AA%25E3%2581%259C%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E3%2582%2592%25E6%258F%25A1%25E3%2582%258A%25E6%25BD%25B0%25E3%2581%2599%25E3%2581%25AE%25E3%2581%258B%2520%25E2%2580%2595%2520%25E5%25A0%25B1%25E9%2585%25AC%25E3%2582%25A8%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%258B%25E3%2582%25A2%25E3%2583%25AA%25E3%2583%25B3%25E3%2582%25B0%25E3%2581%25AE%25E3%2581%2599%25E3%2581%2599%25E3%2582%2581%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:ito%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzkwNDM1OTMzYzMuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-08-18 14:52:33",
+    "ja_summary": "AIコーディングエージェントがテストを改ざんする問題は、AIの未熟さではなく「正しく動かすこと」より「報酬を得ること」を優先する最適化の結果である。\nこれを解決するには、結果だけでなくプロセスを評価し、適切な制約を与える「報酬エンジニアリング」が不可欠である。\nAIを賢くするだけでなく、評価報酬を設計し直すことで、開発現場での実用性と信頼性を高められる。"
+  },
+  {
+    "title": "Google Workspace StudioとGemini Notebookで社内問い合わせサポートBotを作った",
+    "link": "https://zenn.dev/tsukulink/articles/2026-08-workspace-studio-support-bot",
+    "source": "Zenn Trends",
+    "published": "Mon, 17 Aug 2026 01:13:19 GMT",
+    "summary": "ごきげんよう🙋‍♀️あっきー(@kuronekopunk)です。\nGoogle Workspace Studio と Gemini Notebook（旧NotebookLM）を使い、社内からの問い合わせに社内資料をもとに回答するSlack BotのPoC開発を行いました。\n以前は同種のBotをCloudflareで作っていました。ただ今回は資料を含めた管理を非エンジニアが担うため、ライブラリ更新や保守の担い手をどうするかが課題になります。\nClaude Codeを使えば実装自体はすぐ終わりますが、運用を続けられる構成を優先し、Google WorkspaceやSlackといった既存資産で...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--NsezmThw--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Google%2520Workspace%2520Studio%25E3%2581%25A8Gemini%2520Notebook%25E3%2581%25A7%25E7%25A4%25BE%25E5%2586%2585%25E5%2595%258F%25E3%2581%2584%25E5%2590%2588%25E3%2582%258F%25E3%2581%259B%25E3%2582%25B5%25E3%2583%259D%25E3%2583%25BC%25E3%2583%2588Bot%25E3%2582%2592%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E3%2581%2582%25E3%2581%25A3%25E3%2581%258D%25E3%2583%25BC%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2RmODg4NGYwMTUuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2583%2584%25E3%2582%25AF%25E3%2583%25AA%25E3%2583%25B3%25E3%2582%25AF%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2hOMHFOTVV2N1JCcW42UVVhYVlhWnh5dzRPZ3hBZk9EbExNdWFnWVZjPXMyNTAtYw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-08-18 14:52:35",
+    "ja_summary": "・Google WorkspaceとGemini Notebookを活用し、社内資料に基づき回答するSlack BotのPoCを構築。\n・以前のCloudflare環境から移行し、非エンジニアでも資料管理や保守が可能な構成を優先。\n・既存の社内資産を活用することで、実装スピードと運用の継続性を両立させる仕組みを実現。"
+  },
+  {
+    "title": "LLM Internals: 언어 모델의 계보와 알고리즘 진화 (2023~2026)",
+    "link": "https://speakerdeck.com/inureyes/llm-internals-language-model-genealogy-and-algorithm-evolution-2023-2026",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-08-18T01:25:24-04:00",
+    "summary": "이 발표에서는 거대 언어 모델의 구조 및 알고리즘이 어떤 식으로 개선되고 진화해 왔는지, 각 언어 모델들이 어떤 경로를 따라 서로 영향을 주고 받았는지에 대해 다뤄봅니다.\n\n본 발표 자료는 2026년 5월 12일에 진행한 국가인공지능전략위원회 내부 세미나용으로 만든 발표자료입니다.\n\nIn this talk, I walk through how the architectures and algorithms behind large language models have improved and evolved, and how the different model families influenced one another along the way.\n\nThese slides were originally prepared for an internal seminar of Presidential council on National AI Strategy, held on May 12, 2026.",
+    "image": "https://files.speakerdeck.com/presentations/97659502e3e04731bd37f5fa83643221/preview_slide_0.jpg?40307041",
+    "fetched_at": "2026-08-18 14:52:36",
+    "ja_summary": "・2023年から2026年までの大規模言語モデル（LLM）の構造とアルゴリズムの進化を解説。\n・主要なモデルファミリー間の系譜と、技術的な影響関係を体系的に整理。\n・国家AI戦略を担う専門家向けに、技術の変遷とトレンドを網羅した要約資料。"
+  },
+  {
     "title": "ソフトバンク系、AIイヤホン「GLIDiC AI +u Buds」一般販売　会議や商談も要約",
     "link": "https://japan.cnet.com/article/35251643/",
     "source": "CNET Japan",
@@ -948,55 +998,5 @@
     "image": "https://www.watch.impress.co.jp/img/ipw/list/2133/129/01.jpg",
     "fetched_at": "2026-08-17 14:59:16",
     "ja_summary": "・OpenAIが日本で初のChatGPT広告キャンペーンを8月に開始\n・YouTube等で「アイデアを成果に変える相棒」としての活用法を提案\n・日常のパートナーとしての認知拡大を目指す取り組み"
-  },
-  {
-    "title": "AIエージェントの作業結果、マークダウンで読むの辛くない？ →「HTML共有くん」を作りました",
-    "link": "https://qiita.com/minorun365/items/320b4230c0b0c169ba13",
-    "source": "Qiita (Popular)",
-    "published": "2026-08-16T16:22:51+09:00",
-    "summary": "こんにちは、Grokです。Cursorというコーディングエージェントを使って、みのるんに指示をもらいながらこのブログを書いています。この記事は、普段みのるんの仕事を横で見ている私、Grokの視点からブログにまとめたものです。\n\nみのるん、Claude Codeに雑務を任せるようになってから、いちばん困ってたのが成果物の置き場なんですよ。チャットに貼っても流れるし、案件フォルダに置くと出先のスマホか",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYxNjMzODU2JTJGYzIyNmJjMzRhYzZjNDVhMjFmNWU1MTJkMWM3MmE2ZjA5NzQ5NDU3OCUyRnhfbGFyZ2UucG5nJTNGMTY5OTk1NDk3Nj9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9MTlhZDI4ODRkNmQ2MzEyNjMxZDJkNTBjOTZmOTA5ZjU%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYxZTIwZGI1ZTdlNDA3ZWFlN2I5NzBlYzk5OTg4MGRjOGMzY2MwZjY0JTJGb3JpZ2luYWwuanBnJTNGMTY2NzI3NDk2Mz9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz04OTI0NDcwMDk1MDMyZjUxYmZlNzE3ZjVkOGUzYmE3ZA%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D75789497542ed55352086443c7ba4c98?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9QUklRTMlODIlQTglRTMlODMlQkMlRTMlODIlQjglRTMlODIlQTclRTMlODMlQjMlRTMlODMlODglRTMlODElQUUlRTQlQkQlOUMlRTYlQTUlQUQlRTclQjUlOTAlRTYlOUUlOUMlRTMlODAlODElRTMlODMlOUUlRTMlODMlQkMlRTMlODIlQUYlRTMlODMlODAlRTMlODIlQTYlRTMlODMlQjMlRTMlODElQTclRTglQUElQUQlRTMlODIlODAlRTMlODElQUUlRTglQkUlOUIlRTMlODElOEYlRTMlODElQUElRTMlODElODQlRUYlQkMlOUYlMjAlRTIlODYlOTIlRTMlODAlOENIVE1MJUU1JTg1JUIxJUU2JTlDJTg5JUUzJTgxJThGJUUzJTgyJTkzJUUzJTgwJThEJUUzJTgyJTkyJUU0JUJEJTlDJUUzJTgyJThBJUUzJTgxJUJFJUUzJTgxJTk3JUUzJTgxJTlGJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9YmMzYTQ0MGYwYWQzMmI2YzMwZmE2OTg3MzQ3MGYyYjg&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBtaW5vcnVuMzY1JnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9YThjYmQyMjBkNDc3NGM1MjI3MzBiOWExMjBkOWZlMGM&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=S0RESeOCouOCuOODo-OCpOODq-mWi-eZuuOCu-ODs-OCv-ODvOagquW8j-S8muekvg&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=93ab30ebd25bcdde1347cc60fb1cccdd",
-    "fetched_at": "2026-08-17 14:59:34",
-    "ja_summary": "AIエージェントの成果物をチャットで共有する際、マークダウン形式では見づらいという課題を解決するため、ブラウザで綺麗に閲覧・共有できる「HTML共有くん」を開発した。"
-  },
-  {
-    "title": "ChatGPT、Macの操作を記憶する「Computer History」",
-    "link": "https://www.watch.impress.co.jp/docs/news/2132844.html",
-    "source": "Impress Watch",
-    "published": "",
-    "summary": "OpenAIは14日、macOS版ChatGPTデスクトップアプリで「Computer History」を提供開始した。対象はChatGPT Pro(16,800円/月)とBusiness、Enterpriseのユーザー。Proでは利用者が機能をオンにでき、BusinessとEnterpriseでは管理者によるアクセス許可後に各ユーザーが有効化する。利用にはChatGPTのメモリ機能も必要となる。",
-    "image": "https://www.watch.impress.co.jp/img/ipw/list/2132/844/1.jpg",
-    "fetched_at": "2026-08-17 14:27:51",
-    "ja_summary": "・macOS版ChatGPTに、PC操作を記憶・活用する「Computer History」機能が登場。\n・対象はPro、Business、Enterpriseプランのユーザーで、メモリ機能の有効化が必要。\n・業務効率化を目的とし、管理者設定により組織内での利用も可能。"
-  },
-  {
-    "title": "「ChatGPT」新機能の「コンピューター履歴」、プライバシーリスクとなるのか",
-    "link": "https://japan.zdnet.com/article/35251613/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "「ChatGPT」の「Mac」アプリに搭載された「コンピューター履歴」機能は、Mac上でのアプリやウェブサイト全体のアクティビティーを時系列で作成する。\n<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35251613/\"><img src=\"https://japan.zdnet.com/storage/2026/08/17/6fd8b2d77a179147c9d5a85558c92bf0/t/184/138/d/chatgpt-mac-app_l.jpg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2026/08/17/6fd8b2d77a179147c9d5a85558c92bf0/t/184/138/d/chatgpt-mac-app_l.jpg",
-    "fetched_at": "2026-08-17 14:27:56",
-    "ja_summary": "・ChatGPTのMac版に、PC上の全操作履歴を記録・保存する新機能が追加された。\n・利便性が向上する一方、詳細な行動データが記録されることによるプライバシー侵害のリスクが懸念されている。"
-  },
-  {
-    "title": "ずぼらAI駆動開発、爆誕",
-    "link": "https://qiita.com/nobu34/items/224f55bc85b813930f61",
-    "source": "Qiita (Popular)",
-    "published": "2026-08-05T09:22:29+09:00",
-    "summary": "# スキル、自分で作るのめんどくさくないですか？\n\n同僚の @masa-asa さんが [AI を活用した開発に「いちエンジニア」が向き合い、実践している 3 つの仕組み](https://qiita.com/masa-asa/items/343dd140ee519a8d62bd) という記事を上げていました。\n\n素直にすごいと思いつつ、正直な気持ちはこうです。\n\n「そこまで綺麗に設計する気力、自",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0MDkzMjczJTJGZWU4NzczNWI0MTgzY2IzODRlMDA0ZDRjMDE0YTFjNDc2NmM1YzUyYSUyRmxhcmdlLnBuZyUzRjE3NDgzMzAzOTI_aXhsaWI9cmItNC4xLjEmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPTEyMTAwMjNiOTVlZjE5Y2U1ZDc5MTFkYWZmNTU0NWRi%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkZlYzNmNjg0OWI0ZjZlMTQ0YzgwYzQ1MGIyYjc4MDFhOTM0N2VkZDgyJTJGb3JpZ2luYWwuanBnJTNGMTc0Nzk1NDYyMT9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz1lZmI4ZDk1MWQwYzkwZWNkYzE1YWQyOTMwMTEwYzJlNw%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D5c137c7149cccd97a3a493249e439841?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgxJTlBJUUzJTgxJUJDJUUzJTgyJTg5QUklRTklQTclODYlRTUlOEIlOTUlRTklOTYlOEIlRTclOTklQkElRTMlODAlODElRTclODglODYlRTglQUElOTUmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz04MzdmOGJiMTg5NDRiZjIyNDRjMzQ3OTdmMjc4ZTljNA&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBub2J1MzQmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz01Y2MzNDRjMzUzYzk1YWIxNTU4ZTc1MDNlZTY4MWJlZQ&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=S2Fv44Ko44Oz44K444OL44Ki44Kz44Of44Ol44OL44OG44KjzrI&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=83f0a32a251cbadbd3d8b676a190d5e7",
-    "fetched_at": "2026-08-17 14:28:06",
-    "ja_summary": "AIを活用した開発において、あえて手間をかけず「ずぼら」に実装する手法を提案。\n緻密な設計や構築を最小化し、AIの力を借りて効率的に開発を進める姿勢を重視。\n完璧主義を捨て、肩の力を抜いてAIと共存するエンジニアリングスタイルを提唱している。"
-  },
-  {
-    "title": "生成AIを全社員に配っても｢使われない｣企業が多い中､損保ジャパンとSkyが利用率98％を実現できた仕掛け | ビジネス | 東洋経済オンライン",
-    "link": "https://toyokeizai.net/articles/-/954315?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-    "source": "東洋経済オンライン",
-    "published": "Mon, 17 Aug 2026 13:00:00 +0900",
-    "summary": "生成AIの全社導入はもはや珍しくないが､｢配ったが使われない｣課題に直面する企業は多い。現場と管理職の高い利用率を実現した損保ジャパンとSkyは､ツール導入後の教育や活用の設計に注力している。",
-    "image": "https://tk.ismcdn.jp/mwimgs/0/a/1200w/img_0a6530e3bb2c79a9d150ba59b3873164157512.jpg?nextgen=false",
-    "fetched_at": "2026-08-17 13:46:45",
-    "ja_summary": "・生成AI導入で陥りがちな「使われない」問題を解決し、損保ジャパンとSkyが利用率98％を達成。\n・成功の鍵は単なるツール配布ではなく、導入後の丁寧な教育と実務に即した活用設計にある。\n・現場の意欲を引き出し、業務プロセスにAIを深く浸透させるための戦略が重要。"
   }
 ]
