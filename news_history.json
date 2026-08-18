@@ -1,5 +1,35 @@
 [
   {
+    "title": "億万長者ガンドラック氏が警告、「AIチップのアセットクラス化」は市場の天井のサインかもしれない",
+    "link": "https://www.businessinsider.jp/article/2608-jeff-gundlach-warns-ai-chip-strategy-may-signal-market-peak/",
+    "source": "Business Insider Japan",
+    "published": "Tue, 18 Aug 2026 22:30:00 GMT",
+    "summary": "「債券王」として知られる投資家ガンドラック氏は、急速に進化するテクノロジーを長期借り入れの担保に使うことの妥当性に疑問を呈しています。",
+    "image": "https://media.loom-app.com/loom/2026/08/18/0192c628-55ad-4130-97f4-fdd39f95cb4c/original.jpg?w=1200",
+    "fetched_at": "2026-08-19 07:47:42",
+    "ja_summary": "「債券王」ガンドラック氏が、AIチップを担保に資金調達する現状に警鐘。\n投機的な熱狂を背景としたこの動きは、市場が天井に達したサインの可能性がある。\n過度なテクノロジー依存の資金調達に対し、資産価値の妥当性を厳しく疑問視している。"
+  },
+  {
+    "title": "Anthropicの電子透かし導入発表直後に登場した透かし剥がしOSS「watermarks-remover」がClaude・Gemini・OpenAIに対応（生成AIクローズアップ）",
+    "link": "https://www.techno-edge.net/article/2026/08/17/5398.html",
+    "source": "TechnoEdge",
+    "published": "Mon, 17 Aug 2026 07:09:31 +0900",
+    "summary": "今回は、AIで書かれたことを表す電子透かしやメタデータを除去するオープンソースツール「watermarks-remover」を取り上げます。",
+    "image": "https://www.techno-edge.net/imgs/rss/33613.png",
+    "fetched_at": "2026-08-19 07:47:48",
+    "ja_summary": "Anthropicの電子透かし発表直後に、それを無効化するツール「watermarks-remover」が登場。\nClaude、Gemini、OpenAIの各AIが生成したテキストの透かしやメタデータを一括除去可能。\nAI判別対策のいたちごっこが加速しており、企業やクリエイターは今後の動向に注意が必要。"
+  },
+  {
+    "title": "なぜ、AI時代においてC#は最適な言語の1つなのか？",
+    "link": "https://qiita.com/tomokusaba/items/45b66545bb7ea88e8403",
+    "source": "Qiita (Popular)",
+    "published": "2026-08-14T18:37:58+09:00",
+    "summary": "## はじめに\n\nAI が開発現場に入り込んだ今、私たちは「どの言語で書けば、AI と一緒に生産性を上げられるか」をあらためて考える必要があります。\n\nその問いに対して、私は C# をとても強く推したいです。\n\n理由はシンプルです。C# は、AI が生成するコードの質を**人間が早く見抜き、なおかつ安全に運用できる**ように設計された言語だからです。\n\nAI には、たとえ文法は正しくても、意味が崩",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmF2YXRhcnMuZ2l0aHVidXNlcmNvbnRlbnQuY29tJTJGdSUyRjQ2NTIzOTI0JTNGdiUzRDQ_aXhsaWI9cmItNC4xLjEmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPWE5MTY2YmFjZjY5ZDA0NDIzYmU2NjZlYTUyNjk2YzA4%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYwYTgwNDgwMTkwOGEyZjUyZjJlNmMwMjFlYTczM2NmMDhmZjE2MTA0JTJGb3JpZ2luYWwuanBnJTNGMTcyNjE5MDEyMD9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz1lMTNhZjBiNTcyNmFmNmU2ZDA4ZTc5YzE0ODQ4NjE2NQ%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3Da3f360d92e0185ef55780fbc45e879ff?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgxJUFBJUUzJTgxJTlDJUUzJTgwJTgxQUklRTYlOTklODIlRTQlQkIlQTMlRTMlODElQUIlRTMlODElOEElRTMlODElODQlRTMlODElQTZDJTIzJUUzJTgxJUFGJUU2JTlDJTgwJUU5JTgxJUE5JUUzJTgxJUFBJUU4JUE4JTgwJUU4JUFBJTlFJUUzJTgxJUFFMSVFMyU4MSVBNCVFMyU4MSVBQSVFMyU4MSVBRSVFMyU4MSU4QiVFRiVCQyU5RiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPWM3ZGM1YjgyN2I1OGE1YmRhMzNhMDU1ZWM5MTZlNTUx&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDB0b21va3VzYWJhJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9MjBiMWVkMzkzMTExNTI5MWJjYTU3MzE1ZTg5NDkxNGY&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=RnV0dXJlT25l5qCq5byP5Lya56S-&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=7b5975ec26dbaea7580556a3e6f40f04",
+    "fetched_at": "2026-08-19 07:47:58",
+    "ja_summary": "・C#はAI生成コードの品質を素早く見抜き、安全に運用できるよう設計された言語である。\n・AIがコードを生成する現代において、開発者の生産性を最大化するツールとして最適。\n・文法だけでなく論理的な正確性が求められるAI時代に、高い信頼性と保守性を提供する。"
+  },
+  {
     "title": "継続のIBMとNEC　AI時代に適応へ",
     "link": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/080600564/080600003/",
     "source": "日経クロステック 総合",
@@ -968,35 +998,5 @@
     "image": "https://res.cloudinary.com/zenn/image/upload/s--yE1Xcb5r--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Jujutsu%2520%2528jj%2529%2520%25E3%2581%25AE%25E3%2581%25A4%25E3%2582%2589%25E3%2581%25BF%2520Git%25E5%2589%258D%25E6%258F%2590%25E3%2581%25AE%25E4%25B8%2596%25E7%2595%258C%25E3%2581%25A8AI%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2587%25E3%2582%25A3%25E3%2583%25B3%25E3%2582%25B0%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%258D%25E3%2582%2593%25E3%2581%25A1%25E3%2582%2583%25E3%2582%2593%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2I3YWQ4Y2E0NzEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
     "fetched_at": "2026-08-18 11:29:16",
     "ja_summary": "・Jujutsu（jj）は非常に優秀だが、世の中がGit前提のため周辺ツールとの連携に課題がある。\n・現状の最適解は「jjで編集し、Gitツールで閲覧する」という二刀流の運用。\n・利便性は高いが、Git環境との兼ね合いを考えると、万人への乗り換え推奨には至らない。"
-  },
-  {
-    "title": "Webサービスのスクショ付きガイドブックをPlaywright + LLMで自動生成・更新できるようにした",
-    "link": "https://zenn.dev/dev_commune/articles/acb91817341f8f",
-    "source": "Zenn Trends",
-    "published": "Mon, 17 Aug 2026 09:25:27 GMT",
-    "summary": "こんにちは、コミューンでプロダクトマネージャーをしているひぐ(@zerebom_3)です。\nWebサービスを多くの方に使っていただくには、わかりやすく網羅的なガイドブックが欠かせません。\nhttps://learn.hex.tech/docs\nhttps://code.claude.com/docs/ja/overview\nhttps://linear.app/docs\n(↑わかりやすく網羅的なガイドブックの皆様)\nしかし、ガイドブックを作り、メンテナンスし続けることには多くの労力がかかります。\nそこで、ブラウザ自動操作ツールとLLMを使って、ガイドブックを自動生成できないか試してみまし...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--wY0Wnu7p--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Web%25E3%2582%25B5%25E3%2583%25BC%25E3%2583%2593%25E3%2582%25B9%25E3%2581%25AE%25E3%2582%25B9%25E3%2582%25AF%25E3%2582%25B7%25E3%2583%25A7%25E4%25BB%2598%25E3%2581%258D%25E3%2582%25AC%25E3%2582%25A4%25E3%2583%2589%25E3%2583%2596%25E3%2583%2583%25E3%2582%25AF%25E3%2582%2592Playwright%2520%252B%2520LLM%25E3%2581%25A7%25E8%2587%25AA%25E5%258B%2595%25E7%2594%259F%25E6%2588%2590%25E3%2583%25BB%25E6%259B%25B4%25E6%2596%25B0%25E3%2581%25A7%25E3%2581%258D%25E3%2582%258B%25E3%2582%2588%25E3%2581%2586%25E3%2581%25AB%25E3%2581%2597%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:zerebom%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2Y1MTE3MTI5NDIuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2582%25B3%25E3%2583%259F%25E3%2583%25A5%25E3%2583%25BC%25E3%2583%25B3%25E6%25A0%25AA%25E5%25BC%258F%25E4%25BC%259A%25E7%25A4%25BE%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzUwN2FmMmVhNDMuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "fetched_at": "2026-08-18 10:13:39",
-    "ja_summary": "・Webサービスのガイドブック作成と保守の負担を減らすため、自動生成システムを開発。\n・ブラウザ操作ツール「Playwright」とLLMを組み合わせることで、スクリーンショット付きの解説作成を自動化。\n・ガイドブックの網羅性とメンテナンスの効率化を同時に実現する手法を提示。"
-  },
-  {
-    "title": "Claude Code の hook で作る「書いたら直る」ループ — 日本語明晰化プラグインを題材に",
-    "link": "https://zenn.dev/bamboo_nova/articles/ee2fbc5daf4f45",
-    "source": "Zenn Trends",
-    "published": "Sun, 16 Aug 2026 12:45:09 GMT",
-    "summary": "概要\n例えば、Claude Code に日本語のドキュメントを書かせると、読解負荷の高い文がまぎれ込みます。二重否定や長すぎる一文、「重要なのは〜」のような定型句です。CLAUDE.md に「読みやすく書いて」と指示しても、毎回守られる保証はありません。指示はモデルの判断を経由するからです。\nそこで hook を使います。hook はライフサイクルの決まった時点でシェルコマンドを実行する仕組みで、モデルの判断を経由しません。この記事では、hook によるフィードバックループの設計手順を説明します。題材は、日本語明晰化プラグイン meiseki に実装した「Markdown を書いた瞬...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--gR_i4JZ9--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%2520%25E3%2581%25AE%2520hook%2520%25E3%2581%25A7%25E4%25BD%259C%25E3%2582%258B%25E3%2580%258C%25E6%259B%25B8%25E3%2581%2584%25E3%2581%259F%25E3%2582%2589%25E7%259B%25B4%25E3%2582%258B%25E3%2580%258D%25E3%2583%25AB%25E3%2583%25BC%25E3%2583%2597%2520%25E2%2580%2594%2520%25E6%2597%25A5%25E6%259C%25AC%25E8%25AA%259E%25E6%2598%258E%25E6%2599%25B0%25E5%258C%2596%25E3%2583%2597%25E3%2583%25A9%25E3%2582%25B0%25E3%2582%25A4%25E3%2583%25B3%25E3%2582%2592%25E9%25A1%258C%25E6%259D%2590%25E3%2581%25AB%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E8%25A1%2580%25E5%25A8%2581%25E8%258F%25AF%25E6%2588%2591%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzZiMmY0NjM5OTEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "fetched_at": "2026-08-18 10:13:40",
-    "ja_summary": "Claude Codeのhook機能を使い、文章作成時に自動で外部コマンドを走らせることで、AIの指示漏れを防ぐ「自動添削ループ」を構築できる。\nAIの判断を介さずルールを強制できるため、日本語の冗長な表現や読みづらさを、ファイルを保存した瞬間に自動で修正可能になる。\n本稿では、この仕組みを活用した日本語明晰化プラグイン「meiseki」の実装手順を通じて、効率的な執筆フローの改善方法を解説する。"
-  },
-  {
-    "title": "hachimaki37/20260817-aI-day",
-    "link": "https://speakerdeck.com/hachimaki37/20260817-ai-day",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-08-17T21:00:42-04:00",
-    "summary": "社内LTで発表した資料です。\n\nDeNA社が2026年3月の「AI Day 2026」で、AIオールイン宣言から1年の振り返りを話していて、面白かったので題材にしました。生産性20倍や法務チェック−90%など、数字だけ見るとすごい成果ですが、南場さんの話の中に「作業が楽になった分、自分たちで仕事を詰め込んでいた」という一節があり、そこが今回の本題です。",
-    "image": "https://files.speakerdeck.com/presentations/2df2d5a180cd42e0b35122aedbe651ce/preview_slide_0.jpg?40304937",
-    "fetched_at": "2026-08-18 10:13:41",
-    "ja_summary": "DeNAのAI活用で生産性20倍や法務業務90%削減という大きな成果を達成。\nしかし、効率化で生まれた余裕を自ら仕事で埋めてしまい、本来の価値創造に向けた変革が課題となっている。\nAI導入の真価は単なる作業効率化ではなく、創出された時間をどう活用するかの意識改革にある。"
   }
 ]
