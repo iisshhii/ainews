@@ -1,5 +1,25 @@
 [
   {
+    "title": "「Google Workspace」で「Gemini」によるデータアクセスを制限する方法",
+    "link": "https://japan.zdnet.com/article/35251633/",
+    "source": "ZDNET Japan",
+    "published": "",
+    "summary": "「Google Workspace」では、「Gemini」がすべてのサービスにデフォルトでアクセスできる。この記事では、自社のWorkspaceでアクセス許可を無効にする方法を紹介する。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35251633/\"><img src=\"https://japan.zdnet.com/storage/2026/08/18/b64da7324f4d29f6cb86a35bd1cf4cab/t/184/138/d/gettyimages-2282307451_1280.jpg\" /></a>",
+    "image": "https://japan.zdnet.com/storage/2026/08/18/b64da7324f4d29f6cb86a35bd1cf4cab/t/184/138/d/gettyimages-2282307451_1280.jpg",
+    "fetched_at": "2026-08-18 11:29:06",
+    "ja_summary": "「Google Workspace」で「Gemini」がデフォルトで全データにアクセスする設定を、管理者が無効化する方法を解説。\n企業等の機密情報を守るため、必要に応じてアクセス許可を制御する手順が把握できる。"
+  },
+  {
+    "title": "Jujutsu (jj) のつらみ Git前提の世界とAIコーディングエージェント",
+    "link": "https://zenn.dev/rozurozu/articles/20260815_jujutsu_tsurami",
+    "source": "Zenn Trends",
+    "published": "Sat, 15 Aug 2026 08:41:37 GMT",
+    "summary": "TL;DR\n\n\nJujutsu (jj) 自体はめっちゃいい。 使いやすいし、思想も好き。\nつらいのは jj ではなく、世の中が Git 前提すぎること。\n特に AIコーディングエージェントと Git 前提の周辺ツールでつまずく。\n結論、「変更は jj、閲覧は Git ツール」の二刀流が現状の最適解。\nただ、そこまでして乗り換える必要があるかと言われると……Git でいいかもね！\n\nでも盛り上がって欲しい。\n\n\n はじめに\n以前、Jujutsu (jj) の良さみ という記事を書きました。\n世の jj 記事は、\n\nGit より簡単！\n\njj undo 最強！\nコンフリクトが怖くない！...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--yE1Xcb5r--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Jujutsu%2520%2528jj%2529%2520%25E3%2581%25AE%25E3%2581%25A4%25E3%2582%2589%25E3%2581%25BF%2520Git%25E5%2589%258D%25E6%258F%2590%25E3%2581%25AE%25E4%25B8%2596%25E7%2595%258C%25E3%2581%25A8AI%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2587%25E3%2582%25A3%25E3%2583%25B3%25E3%2582%25B0%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%258D%25E3%2582%2593%25E3%2581%25A1%25E3%2582%2583%25E3%2582%2593%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2I3YWQ4Y2E0NzEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-08-18 11:29:16",
+    "ja_summary": "・Jujutsu（jj）は非常に優秀だが、世の中がGit前提のため周辺ツールとの連携に課題がある。\n・現状の最適解は「jjで編集し、Gitツールで閲覧する」という二刀流の運用。\n・利便性は高いが、Git環境との兼ね合いを考えると、万人への乗り換え推奨には至らない。"
+  },
+  {
     "title": "Webサービスのスクショ付きガイドブックをPlaywright + LLMで自動生成・更新できるようにした",
     "link": "https://zenn.dev/dev_commune/articles/acb91817341f8f",
     "source": "Zenn Trends",
@@ -978,25 +998,5 @@
     "image": "https://www.watch.impress.co.jp/img/ipw/list/2132/958/g01.jpg",
     "fetched_at": "2026-08-17 08:12:33",
     "ja_summary": "・Google Meetで対面会議のメモ作成機能が利用可能に。\n・Google Workspace等の対象プラン契約者が利用可能。\n・会議室での対面会議の内容も効率的に記録・共有できる。"
-  },
-  {
-    "title": "Claudeの隠された電子透かしに、テック業界関係者は懸念を抱いている。アンソロピックはいくつかの回答を示した",
-    "link": "https://www.businessinsider.jp/article/2608-anthropic-claude-text-watermark-concerns-tech-community-answers/",
-    "source": "Business Insider Japan",
-    "published": "Sun, 16 Aug 2026 23:00:00 GMT",
-    "summary": "アンソロピックは、Claudeが生成したコンテンツと人間が執筆した文章とを識別・区別するのに役立つ、新たな電子透かし技術を発表した。\n一部のテック業界関係者や開発者の間からは、著作権の帰属やデジタルのプライバシー保護をめぐり懸念や疑問の声が上がっている。\nアンソロピックは、検知用ツールの提供予定を含め、これらの懸念の一部についてビジネスインサイダーの取材に対し回答を寄せた。",
-    "image": "https://media.loom-app.com/loom/2026/08/14/931489c3-6f8b-465f-9641-07e3782b6bb1/original.jpg?w=1200",
-    "fetched_at": "2026-08-17 08:12:39",
-    "ja_summary": "・アンソロピックが、Claudeの生成物を見分けるための新たな電子透かし技術を発表。\n・著作権やプライバシーへの懸念に対し、同社は検知ツールの提供などの方針を示した。\n・業界関係者からは技術の実用性と影響を注視する声が上がっている。"
-  },
-  {
-    "title": "AI エージェントの「認可疲れ」に効く処方箋 : 理論から実装まで",
-    "link": "https://zenn.dev/aws_japan/articles/2b62886aa8735e",
-    "source": "Zenn Trends",
-    "published": "Sun, 16 Aug 2026 13:18:26 GMT",
-    "summary": "皆さんは仕事でどれぐらいのアプリケーションを使用するでしょうか。 GitHub、Slack、Notion、Outlook/Gmail・・・などの SaaS はもちろん、社内の業務システムもあるでしょう。AI エージェントに仕事を任せるとき、これらのサービスと連携させたくなるのは自然です。その時ハードルになることの一つが、連携させるための「認可」です。GitHub のための認可、Slack のための認可、認可、認可・・・と手間が増えるのは避けたいものです。\n本記事では、AI エージェントと連携するサービスが増えても認証を最初の一回のみで OK とする方法について解説します。もちろん、これは...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--i9H9lknT--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%2520%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588%25E3%2581%25AE%25E3%2580%258C%25E8%25AA%258D%25E5%258F%25AF%25E7%2596%25B2%25E3%2582%258C%25E3%2580%258D%25E3%2581%25AB%25E5%258A%25B9%25E3%2581%258F%25E5%2587%25A6%25E6%2596%25B9%25E7%25AE%258B%2520%253A%2520%25E7%2590%2586%25E8%25AB%2596%25E3%2581%258B%25E3%2582%2589%25E5%25AE%259F%25E8%25A3%2585%25E3%2581%25BE%25E3%2581%25A7%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:icoxfog417%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzZmZTY2NGI3N2IuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2582%25A2%25E3%2583%259E%25E3%2582%25BE%25E3%2583%25B3%2520%25E3%2582%25A6%25E3%2582%25A7%25E3%2583%2596%2520%25E3%2582%25B5%25E3%2583%25BC%25E3%2583%2593%25E3%2582%25B9%2520%25E3%2582%25B8%25E3%2583%25A3%25E3%2583%2591%25E3%2583%25B3%2520%2528%25E6%259C%2589%25E5%25BF%2597%2529%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2h5QjhFd2U0T2hxWU1oR1dPX1lPNXhBT1JhSWdUZDRNN3BCN2JYLWc9czk2LWM=%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "fetched_at": "2026-08-17 08:12:51",
-    "ja_summary": "AIエージェントに業務アプリを連携させる際、個別に必要な「認可」の手間がボトルネックとなっています。\n本記事では、サービスごとに認可を繰り返す煩雑さを解消し、初回の一回のみで済ませるための理論と実装手法を解説します。\n管理の手間を最小限に抑え、AIエージェントの利便性を向上させるための技術的解決策を提示します。"
   }
 ]
