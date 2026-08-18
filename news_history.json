@@ -1,5 +1,35 @@
 [
   {
+    "title": "答えが一つではないテーマに寄り添うAIエージェント「PKSHA Dialogue」",
+    "link": "https://www.watch.impress.co.jp/docs/news/2133512.html",
+    "source": "Impress Watch",
+    "published": "",
+    "summary": "PKSHA Technologyは、対話AIエージェント構築ソリューション「PKSHA Dialogue」(パークシャダイアログ)の本格提供を開始した。",
+    "image": "https://www.watch.impress.co.jp/img/ipw/list/2133/512/pk00.jpg",
+    "fetched_at": "2026-08-18 16:13:27",
+    "ja_summary": "・PKSHA Technologyが、正解のない対話にも対応するAI構築ツールを提供開始。\n・企業の顧客対応や相談業務など、柔軟なコミュニケーションを実現。\n・複雑な対話ニーズに応える新たなAIエージェントソリューション。"
+  },
+  {
+    "title": "【GCC2026】大規模言語モデルを活用した内製検索サービスの社内展開や業務活用",
+    "link": "https://speakerdeck.com/bandainamcostudios/gcc2026-daikibo-gengo-moderu-o-katsuyou-shita-uchisei-kensaku-sabisu-no-shanai-tenkai-ya-gyoumu-katsuyou",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-08-17T23:28:35-04:00",
+    "summary": "2026年3月28日(土)に行われた『GAME CREATORS CONFERENCE ’26』の講演資料です。\n\nChatGPTに代表される大規模言語モデル（LLM）サービスの登場以降、ゲーム開発の現場では、業務への活用や内製サービスの開発が進んでいることと思います。\n\nバンダイナムコスタジオでは、LLMの活用が将来の開発現場の効率化に広く浸透していくと考え、職種や組織を横断した導入活動を行っています。その一例として、社内ナレッジを検索するRAGサービスをグループ企業と共同で内製して展開しています。このサービスは、大量のドキュメントから必要な情報を取得や読解の支援ができるよう機能を提供するものとなっています。具体的には、各種規約ドキュメントの検索、仕様の検索、日々の会議の意思決定の過程の検索や要約、内容理解を支援しています。\n\n本セッションでは、バンダイナムコスタジオ内で展開している社内サービスを通したLLMサービスの活用事例をご紹介しながら、皆様の現場でも業務効率の改善やクリエイティブ支援につながるアイデアなどの参考になれば幸いです。",
+    "image": "https://files.speakerdeck.com/presentations/e18962517d454c54ac8d860fad98a345/preview_slide_0.jpg?40305763",
+    "fetched_at": "2026-08-18 16:13:44",
+    "ja_summary": "・バンダイナムコスタジオが、開発効率化を目指しLLMを活用した社内向けRAG検索サービスを内製・展開。\n・規約や仕様、会議記録などの膨大なドキュメントから情報を即座に抽出・要約し、業務を支援。\n・職種を横断した導入活動を通じて、開発現場の業務効率化とクリエイティブ支援を推進している。"
+  },
+  {
+    "title": "【便利】 Claude Codeの覚えておきたいスラッシュコマンドまとめ",
+    "link": "https://qiita.com/tamashiro_nobuyuki/items/573178ed3b8a6a22ebb1",
+    "source": "Qiita (Popular)",
+    "published": "2026-08-07T17:14:06+09:00",
+    "summary": "## Claude Codeの覚えておきたいスラッシュコマンドまとめ\n\nClaude Codeを使っていて「コマンド何だっけ?」となることが多かったので、よく使うスラッシュコマンドを用途別に整理しました。\n\n### 早見表\n\n| コマンド | 何をするか |\n|---|---|\n| `/compact` | 会話を要約して圧縮し、継続する |\n| `/clear` | 会話を完全にリセットする |",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmxoMy5nb29nbGV1c2VyY29udGVudC5jb20lMkZhJTJGQUNnOG9jSVpOcG9KbUxlWjJHQWFwY1BfMzJvU0tVUTVjZzl1Nnl4THVVTmRHaVlwOE5SeiUzRHM5Ni1jP2l4bGliPXJiLTQuMS4xJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz1jNDRmMzZlNjA4OWZhZGE0NjUzNTQwNWVmYjJiYjAwZg%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYwZDI2NDAxZDJiYjJhNzgxZWI4YWU4MGNmNWM2NmUxNzlhNmMzMjMzJTJGb3JpZ2luYWwuanBnJTNGMTcyNzgyODEzMz9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz1jNmJiYmFjMjgwMjVkMTk3OTdkOThiYzI1NDFkYTc1OQ%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D6ff3c4852ece3c4243bf155971aa9ba3?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJTkwJUU0JUJFJUJGJUU1JTg4JUE5JUUzJTgwJTkxJTIwQ2xhdWRlJTIwQ29kZSVFMyU4MSVBRSVFOCVBNiU5QSVFMyU4MSU4OCVFMyU4MSVBNiVFMyU4MSU4QSVFMyU4MSU4RCVFMyU4MSU5RiVFMyU4MSU4NCVFMyU4MiVCOSVFMyU4MyVBOSVFMyU4MyU4MyVFMyU4MiVCNyVFMyU4MyVBNSVFMyU4MiVCMyVFMyU4MyU5RSVFMyU4MyVCMyVFMyU4MyU4OSVFMyU4MSVCRSVFMyU4MSVBOCVFMyU4MiU4MSZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPThjOGU2Y2QyMzMwN2Q3YmViYzIzMTY3YTU4MzM2NTI2&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDB0YW1hc2hpcm9fbm9idXl1a2kmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1lMjVjZDc3ZTcxYWM0NjA2OTYyNjQxYWZlNTMwNDM3MQ&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=5qCq5byP5Lya56S-TkVYVCBURUNITk9MT0dZ&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=fcc7f86bb128f04e5e84943adc73e30f",
+    "fetched_at": "2026-08-18 16:13:47",
+    "ja_summary": "・Claude Codeの重要コマンドを整理。\n・`/compact`：会話を要約し、文脈を圧縮して継続。\n・`/clear`：会話履歴を完全にリセット。"
+  },
+  {
     "title": "AIエージェントの作業結果、マークダウンで読むの辛くない？ →「HTML共有くん」を作りました",
     "link": "https://qiita.com/minorun365/items/320b4230c0b0c169ba13",
     "source": "Qiita (Popular)",
@@ -968,35 +998,5 @@
     "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Quill&amp;backgroundColor=heather",
     "fetched_at": "2026-08-17 16:51:40",
     "ja_summary": "・Claudeが生成したテキストには、AIによる作成を識別するための「電子透かし」が埋め込まれている。\n・特定の統計的パターンを利用することで、文章の改変や削除があっても高い精度でAI生成物と特定できる。\n・この仕組みにより、AIの悪用防止やコンテンツの信頼性確保を強化している。"
-  },
-  {
-    "title": "デル・テクノロジーズ、日本法人社長にロボトム氏が就任--AI事業の成長加速",
-    "link": "https://japan.zdnet.com/article/35251618/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "デル・テクノロジーズは8月17日、Jon Robottom氏が同日付で日本法人の代表取締役社長に就任したと発表した。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35251618/\"><img src=\"https://japan.zdnet.com/storage/2025/06/10/ed1fc572ec82cb4a0650e36212a868dc/t/184/138/d/250610_dell_l.jpg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2025/06/10/ed1fc572ec82cb4a0650e36212a868dc/t/184/138/d/250610_dell_l.jpg",
-    "fetched_at": "2026-08-17 15:58:09",
-    "ja_summary": "・デル・テクノロジーズ日本法人の新社長に、ジョン・ロボトム氏が8月17日付で就任。\n・新体制のもと、同社の成長戦略の柱であるAI事業のさらなる加速を目指す。"
-  },
-  {
-    "title": "Raspberry Pi in Alcohol Brewing Modernizing Craft Processes with IoT",
-    "link": "https://speakerdeck.com/masafumi_ohta/raspberry-pi-in-alcohol-brewing-modernizing-craft-processes-with-iot",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-08-17T02:47:30-04:00",
-    "summary": "I talked at HKOSCON26 about sake with AI -we could make sake with AI,  but it needs helps by Toji  - brew meister to brew especially in its fermentation process. AI cannot behave like Toji - the detailed human behaviors.",
-    "image": "https://files.speakerdeck.com/presentations/6b20bde57c13462fb79518f0e9613dbe/preview_slide_0.jpg?40298194",
-    "fetched_at": "2026-08-17 15:58:16",
-    "ja_summary": "・酒造りの発酵工程において、AIは杜氏の精密な職人技を完全には代替できない。\n・高品質な酒造りには、AIによるデータ管理と杜氏の経験知の連携が不可欠である。\n・Raspberry Piを活用したIoT技術により、伝統的な酒造プロセスの現代化を目指す。"
-  },
-  {
-    "title": "自分のHTML資産を増やすと、AIで見た目の良いサイトを作りやすくなる",
-    "link": "https://qiita.com/uni928/items/b4a874f0bbf91d378097",
-    "source": "Qiita (Popular)",
-    "published": "2026-08-09T16:03:50+09:00",
-    "summary": "ChatGPTなどのAIにHTMLを作ってもらったとき、\n\n> 機能は問題ないけど、もう少し見た目を良くしたい\n\nと思うことがあります。\n\nそんなときに便利なのが、**自分が気に入ったHTMLを「HTML資産」として残しておく方法**です。\n\n例えば、以前作ったボタンや入力フォーム、写真アップロード要素などで、\n\n> この見た目は気に入っている\n\nと思ったものを保存しておきます。\n\nそして、AIに",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYzNzUyODg2JTJGYmU4ZDZhOWM0MjdkZGQ1NmQwNmEwMDZkZWU3MWEwMTI2MGVkZjcxOSUyRnhfbGFyZ2UucG5nJTNGMTc4NjQ5MjUyMD9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NDY3NzQ1MzhkNDg0MGU5MDE5MmMxMGE3NWFjNzQ3NjE%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D9848fa31374d9fe6ebad5a6b02c56c22?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUU4JTg3JUFBJUU1JTg4JTg2JUUzJTgxJUFFSFRNTCVFOCVCMyU4NyVFNyU5NCVBMyVFMyU4MiU5MiVFNSVBMiU5NyVFMyU4MiU4NCVFMyU4MSU5OSVFMyU4MSVBOCVFMyU4MCU4MUFJJUUzJTgxJUE3JUU4JUE2JThCJUUzJTgxJTlGJUU3JTlCJUFFJUUzJTgxJUFFJUU4JTg5JUFGJUUzJTgxJTg0JUUzJTgyJUI1JUUzJTgyJUE0JUUzJTgzJTg4JUUzJTgyJTkyJUU0JUJEJTlDJUUzJTgyJThBJUUzJTgyJTg0JUUzJTgxJTk5JUUzJTgxJThGJUUzJTgxJUFBJUUzJTgyJThCJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9MTJhZDcyMjFkN2U1Y2Y0OGMyZjJlMjY1NzJlMjUyZDI&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDB1bmk5MjgmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz0wMzQyOWU3M2U5MzdiMTU0OTIzMzk3NGEzZGNhY2YwYg&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=6aeda86e0d2ff76710cf14be92f366bc",
-    "fetched_at": "2026-08-17 15:58:18",
-    "ja_summary": "・AI作成サイトの見た目を改善するには、過去の良質なHTMLコードを「資産」として蓄積しておくのが有効。\n・気に入ったボタンやフォームの部品を保存し、AIへの指示時にそれらを組み込むよう指定する。\n・既存の資産を活用することで、AI生成サイトのクオリティと開発効率を大幅に向上させられる。"
   }
 ]
