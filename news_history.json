@@ -1,5 +1,45 @@
 [
   {
+    "title": "「ティーン向けChatGPT」登場、依存リスクを軽減し学習を支援",
+    "link": "https://japan.cnet.com/article/35251667/",
+    "source": "CNET Japan",
+    "published": "",
+    "summary": "OpenAIは、若年層による生成AIツールの利用をめぐって懸念が高まる中、「ティーン向けChatGPT」の提供を開始したと発表した。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35251667/\"><img src=\"https://japan.cnet.com/storage/2026/08/19/38ca44beb9591f37ebce74fb32d0d842/t/184/138/d/Parental-Controls-1_1280x960.jpg\" /></a>",
+    "image": "https://japan.cnet.com/storage/2026/08/19/38ca44beb9591f37ebce74fb32d0d842/t/184/138/d/Parental-Controls-1_1280x960.jpg",
+    "fetched_at": "2026-08-19 08:13:59",
+    "ja_summary": "・OpenAIが若年層向けに「ティーン向けChatGPT」の提供を開始。\n・依存リスクを軽減しつつ、学習をサポートする安全な環境を提供。\n・生成AI利用への懸念に応え、若年層の利用環境を適切に管理する狙い。"
+  },
+  {
+    "title": "How NVIDIA scales expertise with ChatGPT Work",
+    "link": "https://openai.com/index/nvidia/chatgpt-work",
+    "source": "OpenAI",
+    "published": "Tue, 18 Aug 2026 00:00:00 GMT",
+    "summary": "NVIDIA teams use ChatGPT Work to reduce manual tasks, connect fast-moving signals, and scale successful workflows globally.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/6RhjxQ1ewqWaktRVBFH3xn/3c48b64407347215ebdb47b70e16bac9/oai_NVIDIA_SEO__2_.png?w=1600&amp;h=900&amp;fit=fill",
+    "fetched_at": "2026-08-19 08:14:07",
+    "ja_summary": "・NVIDIAはChatGPT Workを活用し、手作業の削減と業務フローの効率化を実現。\n・迅速な情報連携により、社内の知見や成功事例をグローバル規模で共有・活用。\n・生産性の向上を図り、専門性の高い業務への集中を促進。"
+  },
+  {
+    "title": "Webサービスのスクショ付きガイドブックをPlaywright + LLMで自動生成・更新できるようにした",
+    "link": "https://zenn.dev/dev_commune/articles/acb91817341f8f",
+    "source": "Zenn Trends",
+    "published": "Mon, 17 Aug 2026 09:25:27 GMT",
+    "summary": "こんにちは、コミューンでプロダクトマネージャーをしているひぐ(@zerebom_3)です。\nWebサービスを多くの方に使っていただくには、わかりやすく網羅的なガイドブックが欠かせません。\nhttps://learn.hex.tech/docs\nhttps://code.claude.com/docs/ja/overview\nhttps://linear.app/docs\n(↑わかりやすく網羅的なガイドブックの皆様)\nしかし、ガイドブックを作り、メンテナンスし続けることには多くの労力がかかります。\nそこで、ブラウザ自動操作ツールとLLMを使って、ガイドブックを自動生成できないか試してみまし...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--wY0Wnu7p--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Web%25E3%2582%25B5%25E3%2583%25BC%25E3%2583%2593%25E3%2582%25B9%25E3%2581%25AE%25E3%2582%25B9%25E3%2582%25AF%25E3%2582%25B7%25E3%2583%25A7%25E4%25BB%2598%25E3%2581%258D%25E3%2582%25AC%25E3%2582%25A4%25E3%2583%2589%25E3%2583%2596%25E3%2583%2583%25E3%2582%25AF%25E3%2582%2592Playwright%2520%252B%2520LLM%25E3%2581%25A7%25E8%2587%25AA%25E5%258B%2595%25E7%2594%259F%25E6%2588%2590%25E3%2583%25BB%25E6%259B%25B4%25E6%2596%25B0%25E3%2581%25A7%25E3%2581%258D%25E3%2582%258B%25E3%2582%2588%25E3%2581%2586%25E3%2581%25AB%25E3%2581%2597%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:zerebom%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2Y1MTE3MTI5NDIuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2582%25B3%25E3%2583%259F%25E3%2583%25A5%25E3%2583%25BC%25E3%2583%25B3%25E6%25A0%25AA%25E5%25BC%258F%25E4%25BC%259A%25E7%25A4%25BE%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzUwN2FmMmVhNDMuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-08-19 08:14:10",
+    "ja_summary": "・Webサービスの運用において負担の大きいガイドブック作成と更新を自動化する仕組みを構築。\n・ブラウザ自動操作ツール「Playwright」と「LLM」を組み合わせ、スクリーンショット付きのガイドを効率的に生成。\n・メンテナンスコストを大幅に削減し、網羅的で最新のドキュメント維持を可能にする手法。"
+  },
+  {
+    "title": "hachimaki37/20260817-aI-day",
+    "link": "https://speakerdeck.com/hachimaki37/20260817-ai-day",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-08-17T21:00:42-04:00",
+    "summary": "社内LTで発表した資料です。\n\nDeNA社が2026年3月の「AI Day 2026」で、AIオールイン宣言から1年の振り返りを話していて、面白かったので題材にしました。生産性20倍や法務チェック−90%など、数字だけ見るとすごい成果ですが、南場さんの話の中に「作業が楽になった分、自分たちで仕事を詰め込んでいた」という一節があり、そこが今回の本題です。",
+    "image": "https://files.speakerdeck.com/presentations/2df2d5a180cd42e0b35122aedbe651ce/preview_slide_0.jpg?40304937",
+    "fetched_at": "2026-08-19 08:14:11",
+    "ja_summary": "DeNAのAI活用で生産性が劇的に向上したが、効率化で空いた時間が新たな業務で埋まり、労働密度の高止まりが課題となっている。\nAI導入の真の目的は単なる作業効率化ではなく、創出された時間をどう活用するかという「仕事の質」の変革にある。\n数字上の成果に踊らされず、AIがもたらす余白をどう戦略的に使うべきかを問い直す内容。"
+  },
+  {
     "title": "億万長者ガンドラック氏が警告、「AIチップのアセットクラス化」は市場の天井のサインかもしれない",
     "link": "https://www.businessinsider.jp/article/2608-jeff-gundlach-warns-ai-chip-strategy-may-signal-market-peak/",
     "source": "Business Insider Japan",
@@ -958,45 +998,5 @@
     "image": "https://media.loom-app.com/loom/2026/08/17/9c7d7df9-2e1a-4a96-aa31-e282b50dcb22/original.jpg?w=1200",
     "fetched_at": "2026-08-18 12:22:45",
     "ja_summary": "・AIへの不信感は、業界の過大な期待と実態の乖離が原因。\n・信頼獲得には、単なるPRではなく重大な科学的進歩が必要。\n・AI企業は、現状を正しく伝え真摯な開発姿勢を示すべき。"
-  },
-  {
-    "title": "AI事業者向け政府知財保護案 判明",
-    "link": "https://news.yahoo.co.jp/pickup/6592154?source=rss",
-    "source": "Yahoo!ニュース IT・科学",
-    "published": "Tue, 18 Aug 2026 02:38:17 GMT",
-    "summary": "",
-    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/8/18/60064fb833a3c54bd20ff1fdbad418f959df331eaa8e690a54c5d5e853b6b61d.jpg",
-    "fetched_at": "2026-08-18 12:22:47",
-    "ja_summary": "政府はAI開発時の著作権保護ルールを策定する方針を固めました。\n学習データが著作権を侵害する場合の判断基準を明確化し、事業者側の法的リスクを軽減します。\n透明性の確保と権利者への配慮を両立させ、AI開発を促進する狙いです。"
-  },
-  {
-    "title": "AI エージェントの「認可疲れ」に効く処方箋 : 理論から実装まで",
-    "link": "https://zenn.dev/aws_japan/articles/2b62886aa8735e",
-    "source": "Zenn Trends",
-    "published": "Sun, 16 Aug 2026 13:18:26 GMT",
-    "summary": "皆さんは仕事でどれぐらいのアプリケーションを使用するでしょうか。 GitHub、Slack、Notion、Outlook/Gmail・・・などの SaaS はもちろん、社内の業務システムもあるでしょう。AI エージェントに仕事を任せるとき、これらのサービスと連携させたくなるのは自然です。その時ハードルになることの一つが、連携させるための「認可」です。GitHub のための認可、Slack のための認可、認可、認可・・・と手間が増えるのは避けたいものです。\n本記事では、AI エージェントと連携するサービスが増えても認証を最初の一回のみで OK とする方法について解説します。もちろん、これは...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--i9H9lknT--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%2520%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588%25E3%2581%25AE%25E3%2580%258C%25E8%25AA%258D%25E5%258F%25AF%25E7%2596%25B2%25E3%2582%258C%25E3%2580%258D%25E3%2581%25AB%25E5%258A%25B9%25E3%2581%258F%25E5%2587%25A6%25E6%2596%25B9%25E7%25AE%258B%2520%253A%2520%25E7%2590%2586%25E8%25AB%2596%25E3%2581%258B%25E3%2582%2589%25E5%25AE%259F%25E8%25A3%2585%25E3%2581%25BE%25E3%2581%25A7%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:icoxfog417%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzZmZTY2NGI3N2IuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2582%25A2%25E3%2583%259E%25E3%2582%25BE%25E3%2583%25B3%2520%25E3%2582%25A6%25E3%2582%25A7%25E3%2583%2596%2520%25E3%2582%25B5%25E3%2583%25BC%25E3%2583%2593%25E3%2582%25B9%2520%25E3%2582%25B8%25E3%2583%25A3%25E3%2583%2591%25E3%2583%25B3%2520%2528%25E6%259C%2589%25E5%25BF%2597%2529%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2h5QjhFd2U0T2hxWU1oR1dPX1lPNXhBT1JhSWdUZDRNN3BCN2JYLWc9czk2LWM=%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "fetched_at": "2026-08-18 12:22:56",
-    "ja_summary": "AIエージェントと多数の外部サービスを連携する際、個別に必要な「認可」の手間がボトルネックとなっています。\n本記事では、複数サービスの認証を初回の一度だけで完結させるための手法を理論と実装の両面から解説します。\n煩雑な認証フローを解消し、AIエージェントの利便性を高めるための実用的な解決策を提示します。"
-  },
-  {
-    "title": "「Google Workspace」で「Gemini」によるデータアクセスを制限する方法",
-    "link": "https://japan.zdnet.com/article/35251633/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "「Google Workspace」では、「Gemini」がすべてのサービスにデフォルトでアクセスできる。この記事では、自社のWorkspaceでアクセス許可を無効にする方法を紹介する。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35251633/\"><img src=\"https://japan.zdnet.com/storage/2026/08/18/b64da7324f4d29f6cb86a35bd1cf4cab/t/184/138/d/gettyimages-2282307451_1280.jpg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2026/08/18/b64da7324f4d29f6cb86a35bd1cf4cab/t/184/138/d/gettyimages-2282307451_1280.jpg",
-    "fetched_at": "2026-08-18 11:29:06",
-    "ja_summary": "「Google Workspace」で「Gemini」がデフォルトで全データにアクセスする設定を、管理者が無効化する方法を解説。\n企業等の機密情報を守るため、必要に応じてアクセス許可を制御する手順が把握できる。"
-  },
-  {
-    "title": "Jujutsu (jj) のつらみ Git前提の世界とAIコーディングエージェント",
-    "link": "https://zenn.dev/rozurozu/articles/20260815_jujutsu_tsurami",
-    "source": "Zenn Trends",
-    "published": "Sat, 15 Aug 2026 08:41:37 GMT",
-    "summary": "TL;DR\n\n\nJujutsu (jj) 自体はめっちゃいい。 使いやすいし、思想も好き。\nつらいのは jj ではなく、世の中が Git 前提すぎること。\n特に AIコーディングエージェントと Git 前提の周辺ツールでつまずく。\n結論、「変更は jj、閲覧は Git ツール」の二刀流が現状の最適解。\nただ、そこまでして乗り換える必要があるかと言われると……Git でいいかもね！\n\nでも盛り上がって欲しい。\n\n\n はじめに\n以前、Jujutsu (jj) の良さみ という記事を書きました。\n世の jj 記事は、\n\nGit より簡単！\n\njj undo 最強！\nコンフリクトが怖くない！...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--yE1Xcb5r--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Jujutsu%2520%2528jj%2529%2520%25E3%2581%25AE%25E3%2581%25A4%25E3%2582%2589%25E3%2581%25BF%2520Git%25E5%2589%258D%25E6%258F%2590%25E3%2581%25AE%25E4%25B8%2596%25E7%2595%258C%25E3%2581%25A8AI%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2587%25E3%2582%25A3%25E3%2583%25B3%25E3%2582%25B0%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%258D%25E3%2582%2593%25E3%2581%25A1%25E3%2582%2583%25E3%2582%2593%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2I3YWQ4Y2E0NzEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "fetched_at": "2026-08-18 11:29:16",
-    "ja_summary": "・Jujutsu（jj）は非常に優秀だが、世の中がGit前提のため周辺ツールとの連携に課題がある。\n・現状の最適解は「jjで編集し、Gitツールで閲覧する」という二刀流の運用。\n・利便性は高いが、Git環境との兼ね合いを考えると、万人への乗り換え推奨には至らない。"
   }
 ]
