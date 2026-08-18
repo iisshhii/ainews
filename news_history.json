@@ -1,5 +1,35 @@
 [
   {
+    "title": "Webサービスのスクショ付きガイドブックをPlaywright + LLMで自動生成・更新できるようにした",
+    "link": "https://zenn.dev/dev_commune/articles/acb91817341f8f",
+    "source": "Zenn Trends",
+    "published": "Mon, 17 Aug 2026 09:25:27 GMT",
+    "summary": "こんにちは、コミューンでプロダクトマネージャーをしているひぐ(@zerebom_3)です。\nWebサービスを多くの方に使っていただくには、わかりやすく網羅的なガイドブックが欠かせません。\nhttps://learn.hex.tech/docs\nhttps://code.claude.com/docs/ja/overview\nhttps://linear.app/docs\n(↑わかりやすく網羅的なガイドブックの皆様)\nしかし、ガイドブックを作り、メンテナンスし続けることには多くの労力がかかります。\nそこで、ブラウザ自動操作ツールとLLMを使って、ガイドブックを自動生成できないか試してみまし...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--wY0Wnu7p--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Web%25E3%2582%25B5%25E3%2583%25BC%25E3%2583%2593%25E3%2582%25B9%25E3%2581%25AE%25E3%2582%25B9%25E3%2582%25AF%25E3%2582%25B7%25E3%2583%25A7%25E4%25BB%2598%25E3%2581%258D%25E3%2582%25AC%25E3%2582%25A4%25E3%2583%2589%25E3%2583%2596%25E3%2583%2583%25E3%2582%25AF%25E3%2582%2592Playwright%2520%252B%2520LLM%25E3%2581%25A7%25E8%2587%25AA%25E5%258B%2595%25E7%2594%259F%25E6%2588%2590%25E3%2583%25BB%25E6%259B%25B4%25E6%2596%25B0%25E3%2581%25A7%25E3%2581%258D%25E3%2582%258B%25E3%2582%2588%25E3%2581%2586%25E3%2581%25AB%25E3%2581%2597%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:zerebom%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2Y1MTE3MTI5NDIuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2582%25B3%25E3%2583%259F%25E3%2583%25A5%25E3%2583%25BC%25E3%2583%25B3%25E6%25A0%25AA%25E5%25BC%258F%25E4%25BC%259A%25E7%25A4%25BE%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzUwN2FmMmVhNDMuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-08-18 10:13:39",
+    "ja_summary": "・Webサービスのガイドブック作成と保守の負担を減らすため、自動生成システムを開発。\n・ブラウザ操作ツール「Playwright」とLLMを組み合わせることで、スクリーンショット付きの解説作成を自動化。\n・ガイドブックの網羅性とメンテナンスの効率化を同時に実現する手法を提示。"
+  },
+  {
+    "title": "Claude Code の hook で作る「書いたら直る」ループ — 日本語明晰化プラグインを題材に",
+    "link": "https://zenn.dev/bamboo_nova/articles/ee2fbc5daf4f45",
+    "source": "Zenn Trends",
+    "published": "Sun, 16 Aug 2026 12:45:09 GMT",
+    "summary": "概要\n例えば、Claude Code に日本語のドキュメントを書かせると、読解負荷の高い文がまぎれ込みます。二重否定や長すぎる一文、「重要なのは〜」のような定型句です。CLAUDE.md に「読みやすく書いて」と指示しても、毎回守られる保証はありません。指示はモデルの判断を経由するからです。\nそこで hook を使います。hook はライフサイクルの決まった時点でシェルコマンドを実行する仕組みで、モデルの判断を経由しません。この記事では、hook によるフィードバックループの設計手順を説明します。題材は、日本語明晰化プラグイン meiseki に実装した「Markdown を書いた瞬...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--gR_i4JZ9--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%2520%25E3%2581%25AE%2520hook%2520%25E3%2581%25A7%25E4%25BD%259C%25E3%2582%258B%25E3%2580%258C%25E6%259B%25B8%25E3%2581%2584%25E3%2581%259F%25E3%2582%2589%25E7%259B%25B4%25E3%2582%258B%25E3%2580%258D%25E3%2583%25AB%25E3%2583%25BC%25E3%2583%2597%2520%25E2%2580%2594%2520%25E6%2597%25A5%25E6%259C%25AC%25E8%25AA%259E%25E6%2598%258E%25E6%2599%25B0%25E5%258C%2596%25E3%2583%2597%25E3%2583%25A9%25E3%2582%25B0%25E3%2582%25A4%25E3%2583%25B3%25E3%2582%2592%25E9%25A1%258C%25E6%259D%2590%25E3%2581%25AB%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E8%25A1%2580%25E5%25A8%2581%25E8%258F%25AF%25E6%2588%2591%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzZiMmY0NjM5OTEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-08-18 10:13:40",
+    "ja_summary": "Claude Codeのhook機能を使い、文章作成時に自動で外部コマンドを走らせることで、AIの指示漏れを防ぐ「自動添削ループ」を構築できる。\nAIの判断を介さずルールを強制できるため、日本語の冗長な表現や読みづらさを、ファイルを保存した瞬間に自動で修正可能になる。\n本稿では、この仕組みを活用した日本語明晰化プラグイン「meiseki」の実装手順を通じて、効率的な執筆フローの改善方法を解説する。"
+  },
+  {
+    "title": "hachimaki37/20260817-aI-day",
+    "link": "https://speakerdeck.com/hachimaki37/20260817-ai-day",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-08-17T21:00:42-04:00",
+    "summary": "社内LTで発表した資料です。\n\nDeNA社が2026年3月の「AI Day 2026」で、AIオールイン宣言から1年の振り返りを話していて、面白かったので題材にしました。生産性20倍や法務チェック−90%など、数字だけ見るとすごい成果ですが、南場さんの話の中に「作業が楽になった分、自分たちで仕事を詰め込んでいた」という一節があり、そこが今回の本題です。",
+    "image": "https://files.speakerdeck.com/presentations/2df2d5a180cd42e0b35122aedbe651ce/preview_slide_0.jpg?40304937",
+    "fetched_at": "2026-08-18 10:13:41",
+    "ja_summary": "DeNAのAI活用で生産性20倍や法務業務90%削減という大きな成果を達成。\nしかし、効率化で生まれた余裕を自ら仕事で埋めてしまい、本来の価値創造に向けた変革が課題となっている。\nAI導入の真価は単なる作業効率化ではなく、創出された時間をどう活用するかの意識改革にある。"
+  },
+  {
     "title": "「欧州のAI主権」任された“34歳の天才”　パリの新星、AI企業Mistralは「救世主」になれるのか",
     "link": "https://www.itmedia.co.jp/business/articles/2608/17/news037.html",
     "source": "ITmedia ビジネス",
@@ -968,35 +998,5 @@
     "image": "https://res.cloudinary.com/zenn/image/upload/s--i9H9lknT--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%2520%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588%25E3%2581%25AE%25E3%2580%258C%25E8%25AA%258D%25E5%258F%25AF%25E7%2596%25B2%25E3%2582%258C%25E3%2580%258D%25E3%2581%25AB%25E5%258A%25B9%25E3%2581%258F%25E5%2587%25A6%25E6%2596%25B9%25E7%25AE%258B%2520%253A%2520%25E7%2590%2586%25E8%25AB%2596%25E3%2581%258B%25E3%2582%2589%25E5%25AE%259F%25E8%25A3%2585%25E3%2581%25BE%25E3%2581%25A7%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:icoxfog417%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzZmZTY2NGI3N2IuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2582%25A2%25E3%2583%259E%25E3%2582%25BE%25E3%2583%25B3%2520%25E3%2582%25A6%25E3%2582%25A7%25E3%2583%2596%2520%25E3%2582%25B5%25E3%2583%25BC%25E3%2583%2593%25E3%2582%25B9%2520%25E3%2582%25B8%25E3%2583%25A3%25E3%2583%2591%25E3%2583%25B3%2520%2528%25E6%259C%2589%25E5%25BF%2597%2529%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2h5QjhFd2U0T2hxWU1oR1dPX1lPNXhBT1JhSWdUZDRNN3BCN2JYLWc9czk2LWM=%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
     "fetched_at": "2026-08-17 08:12:51",
     "ja_summary": "AIエージェントに業務アプリを連携させる際、個別に必要な「認可」の手間がボトルネックとなっています。\n本記事では、サービスごとに認可を繰り返す煩雑さを解消し、初回の一回のみで済ませるための理論と実装手法を解説します。\n管理の手間を最小限に抑え、AIエージェントの利便性を向上させるための技術的解決策を提示します。"
-  },
-  {
-    "title": "MacBook Air M5 RAM32GBで実用的なローカルLLMを探す 生成速度測定編",
-    "link": "https://zenn.dev/koki_n22/articles/493f85b9f875ca",
-    "source": "Zenn Trends",
-    "published": "Sun, 16 Aug 2026 07:19:18 GMT",
-    "summary": "対象読者\n\nMacBook Air M5 32GBでローカルLLMを使いたい人\nOllamaでコーディング用途のローカルLLMを探している人\nRAM32GBでどの程度のモデルが実用的な速度で動くのか気になる人\n\n\n モチベーション\n\nMacBook Air M5 RAM 32GBで実用的に使えそうなローカルLLMを知りたかった\n最初に試した27Bモデルが6〜7 tokens/s程度しか出ず、品質以前に速度で候補を絞る必要があると感じた\nそこで、コーディング性能などを比較する前に「そもそも快適な速度で動くのか」を測ることにした\n\n\n 結論\n\n最初に試した27.8B denseのqwen...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--ffTnQTqz--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:MacBook%2520Air%2520M5%2520RAM32GB%25E3%2581%25A7%25E5%25AE%259F%25E7%2594%25A8%25E7%259A%2584%25E3%2581%25AA%25E3%2583%25AD%25E3%2583%25BC%25E3%2582%25AB%25E3%2583%25ABLLM%25E3%2582%2592%25E6%258E%25A2%25E3%2581%2599%2520%25E7%2594%259F%25E6%2588%2590%25E9%2580%259F%25E5%25BA%25A6%25E6%25B8%25AC%25E5%25AE%259A%25E7%25B7%25A8%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:koki_n22%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUFUWEFKdzJOTE9mR0hiLTctLUlPODdCTWxucHBQMG16NFNfUGpTazBrMEU9czk2LWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "fetched_at": "2026-08-17 08:12:51",
-    "ja_summary": "MacBook Air M5（RAM 32GB）で実用的なローカルLLMを検証。\nコーディング用途を想定し、品質以前に快適な生成速度が出るモデルを抽出。\n27Bクラスのモデルでは速度不足のため、実用性を重視したモデル選定が必要との結論。"
-  },
-  {
-    "title": "Jujutsu (jj) のつらみ Git前提の世界とAIコーディングエージェント",
-    "link": "https://zenn.dev/rozurozu/articles/20260815_jujutsu_tsurami",
-    "source": "Zenn Trends",
-    "published": "Sat, 15 Aug 2026 08:41:37 GMT",
-    "summary": "TL;DR\n\n\nJujutsu (jj) 自体はめっちゃいい。 使いやすいし、思想も好き。\nつらいのは jj ではなく、世の中が Git 前提すぎること。\n特に AIコーディングエージェントと Git 前提の周辺ツールでつまずく。\n結論、「変更は jj、閲覧は Git ツール」の二刀流が現状の最適解。\nただ、そこまでして乗り換える必要があるかと言われると……Git でいいかもね！\n\nでも盛り上がって欲しい。\n\n\n はじめに\n以前、Jujutsu (jj) の良さみ という記事を書きました。\n世の jj 記事は、\n\nGit より簡単！\n\njj undo 最強！\nコンフリクトが怖くない！...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--yE1Xcb5r--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Jujutsu%2520%2528jj%2529%2520%25E3%2581%25AE%25E3%2581%25A4%25E3%2582%2589%25E3%2581%25BF%2520Git%25E5%2589%258D%25E6%258F%2590%25E3%2581%25AE%25E4%25B8%2596%25E7%2595%258C%25E3%2581%25A8AI%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2587%25E3%2582%25A3%25E3%2583%25B3%25E3%2582%25B0%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%258D%25E3%2582%2593%25E3%2581%25A1%25E3%2582%2583%25E3%2582%2593%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2I3YWQ4Y2E0NzEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "fetched_at": "2026-08-17 08:12:52",
-    "ja_summary": "・Jujutsu (jj) は非常に優れた操作感を持つが、Git前提の周辺環境やAIツールとの連携に課題がある。\n・現状は「変更はjj、閲覧はGit」の二刀流が最適解だが、乗り換えのコストに見合うかは判断が分かれる。\n・今後に期待しつつも、実用面では既存のGit環境で十分という結論。"
-  },
-  {
-    "title": "42日でバックエンドエンジニアの基礎を完全に理解する #8 - インデックスと検索高速化",
-    "link": "https://zenn.dev/kipcop/articles/b42-go-08-index",
-    "source": "Zenn Trends",
-    "published": "Sat, 15 Aug 2026 06:01:15 GMT",
-    "summary": "この記事で学ぶこと\nデータが増えると検索が遅くなります。それを解決するのがインデックスです。\nただし「とりあえず貼れば速くなる」ものではありません。貼っても効かないケースがあり、貼りすぎると逆に遅くなります。この記事では原理から判断基準まで扱います。\nこの記事を終えると以下ができるようになります。\n\nなぜ検索が遅くなるのかを説明できる\nインデックスがなぜ速いのか、原理を説明できる\n\nEXPLAIN で「インデックスが使われているか」を確認できる\nインデックスが効かないケースを見分けられる\n複合インデックスの順番の意味を説明できる\nどのカラムに貼るべきか判断できる\n\n!\nこの回は言語に...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--tbcasukk--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:42%25E6%2597%25A5%25E3%2581%25A7%25E3%2583%2590%25E3%2583%2583%25E3%2582%25AF%25E3%2582%25A8%25E3%2583%25B3%25E3%2583%2589%25E3%2582%25A8%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%258B%25E3%2582%25A2%25E3%2581%25AE%25E5%259F%25BA%25E7%25A4%258E%25E3%2582%2592%25E5%25AE%258C%25E5%2585%25A8%25E3%2581%25AB%25E7%2590%2586%25E8%25A7%25A3%25E3%2581%2599%25E3%2582%258B%2520%25238%2520-%2520%25E3%2582%25A4%25E3%2583%25B3%25E3%2583%2587%25E3%2583%2583%25E3%2582%25AF%25E3%2582%25B9%25E3%2581%25A8%25E6%25A4%259C%25E7%25B4%25A2%25E9%25AB%2598%25E9%2580%259F%25E5%258C%2596%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:k.ike%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSzB5X0dHdXdYN0R2NUdXamlMU0FaLTI5OHhBcFBSLW9pMEhMY2lEZ2dBSHVVdDdESHM9czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "fetched_at": "2026-08-17 08:12:52",
-    "ja_summary": "・データ量増加に伴う検索遅延を解決する「インデックス」の仕組みと原理を解説。\n・単に貼るだけでは逆効果になる理由や、インデックスが効かないケースを学習。\n・EXPLAINを用いた検証方法や、最適なインデックス設計とカラム選定の基準を習得。"
   }
 ]
