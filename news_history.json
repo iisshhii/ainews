@@ -1,5 +1,45 @@
 [
   {
+    "title": "OpenAI、開発中AIモデル向けの新たな安全対策を発表。Hugging Face事件受け不正の監視を強化",
+    "link": "https://www.techno-edge.net/article/2026/08/19/5402.html",
+    "source": "TechnoEdge",
+    "published": "Wed, 19 Aug 2026 07:00:03 +0900",
+    "summary": "OpenAIがAIモデルの開発・テスト中に発生しうるセキュリティインシデントへの対処を目的とした新たな安全対策を発表しました。この対策には、開発プロセス中のモデル監視の詳細化、トレーニング後のプロセスにおける整合性とセキュリティの強化が含まれます。",
+    "image": "https://www.techno-edge.net/imgs/rss/33640.jpg",
+    "fetched_at": "2026-08-20 08:57:11",
+    "ja_summary": "・OpenAIがAI開発時のセキュリティ対策を強化。\n・Hugging Faceでの不正利用を受け、モデルの監視体制を刷新。\n・開発から学習後の工程まで、不正利用を防ぐ整合性チェックを導入。"
+  },
+  {
+    "title": "Cognizant and Anthropic expand their partnership to bring Claude to enterprise clients",
+    "link": "https://www.anthropic.com/news/cognizant-anthropic",
+    "source": "Anthropic (News)",
+    "published": "Mon, 27 Jul 2026 00:00:00 +0000",
+    "summary": "Cognizant and Anthropic expand their partnership to bring Claude to enterprise clients",
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+    "fetched_at": "2026-08-20 08:57:14",
+    "ja_summary": "・CognizantとAnthropicが提携を拡大し、企業向けに生成AI「Claude」の導入支援を開始。\n・Cognizantのコンサルティング能力とClaudeの技術を組み合わせ、企業の業務効率化やAI活用を加速。\n・企業クライアントに対し、安全でスケーラブルなAIソリューションの実装環境を提供。"
+  },
+  {
+    "title": "Cursorを使ってデザイナーがハンドコーディングでデザインシステムを作ってみた",
+    "link": "https://zenn.dev/pksha/articles/e5c8f9b2a41d73",
+    "source": "Zenn Trends",
+    "published": "Wed, 19 Aug 2026 02:38:42 GMT",
+    "summary": "初めまして！PKSHA Technology デザイナーの清水と申します。普段はデザイナーとしてXで発信しています。今日は、Cursor を使ってデザイナーが自分でハンドコーディングしてデザインシステムを実装した事例をご紹介します。（この記事は、デザインシステムの実装に関わるデザイナー・エンジニアを主な対象にしていますが、AI コーディングツールを使った実装に挑戦してみたいデザイナーの方にも読んでいただけるよう、専門用語には適宜補足を入れています。）\n\n用語の補足\nハンドコーディングとは、AI にコードを生成させるのではなく、自分でコードを打ちながら実装するスタイルです。この記事では「わ...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--dscOPJAe--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Cursor%25E3%2582%2592%25E4%25BD%25BF%25E3%2581%25A3%25E3%2581%25A6%25E3%2583%2587%25E3%2582%25B6%25E3%2582%25A4%25E3%2583%258A%25E3%2583%25BC%25E3%2581%258C%25E3%2583%258F%25E3%2583%25B3%25E3%2583%2589%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2587%25E3%2582%25A3%25E3%2583%25B3%25E3%2582%25B0%25E3%2581%25A7%25E3%2583%2587%25E3%2582%25B6%25E3%2582%25A4%25E3%2583%25B3%25E3%2582%25B7%25E3%2582%25B9%25E3%2583%2586%25E3%2583%25A0%25E3%2582%2592%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E6%25B8%2585%25E6%25B0%25B4%25E3%2581%25AF%25E3%2582%258B%25E3%2581%258B%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzJlOTZhNTRiYWMuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:PKSHA%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2520%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2VlZjI1MDMxOTIuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-08-20 08:57:15",
+    "ja_summary": "デザイナーがAIコーディングツール「Cursor」を活用し、自らハンドコーディングでデザインシステムを実装した事例を紹介。\n専門的な実装工程を分かりやすく解説しており、AIをツールとして使いこなすデザイナーやエンジニアの参考になる内容。\nデザイナー自らがコードを書いて実装することで、デザインと実装の橋渡しを円滑にするプロセスを学べる。"
+  },
+  {
+    "title": "XRミーティング 20260819",
+    "link": "https://speakerdeck.com/1ftseabass/xr-meeting-20260819",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-08-19T07:22:43-04:00",
+    "summary": "XRミーティング 20260819「Even G2 で OpenAI のリアルタイム音声入力なんとかできた試行錯誤」の登壇資料です。 \n\n◆スライド内の素材は以下を使用させていただいております。ありがとうございます！\n\n・シルエットデザイン http://kage-design.com/\n・human pictogram 2.0 http://pictogram2.com\n・ICOOON MONO http://icooon-mono.com/\n・Adobe Stock https://stock.adobe.com/jp",
+    "image": "https://files.speakerdeck.com/presentations/8242edf3d9094d2da593b6ae0dc5e4a3/preview_slide_0.jpg?40321734",
+    "fetched_at": "2026-08-20 08:57:17",
+    "ja_summary": "「Even G2」デバイスでOpenAIのリアルタイム音声入力機能を実装した際の試行錯誤をまとめた登壇資料。\n開発プロセスにおける技術的な工夫や課題解決のノウハウを共有している。"
+  },
+  {
     "title": "1年分のAI予算をわずか数カ月で“使い倒した”米Uber　CTOが気付いた「脱・トークン浪費」の方法",
     "link": "https://www.itmedia.co.jp/business/articles/2608/19/news032.html",
     "source": "ITmedia ビジネス",
@@ -958,45 +998,5 @@
     "image": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/040900481/080700035/topm.jpg?20220512",
     "fetched_at": "2026-08-19 22:24:25",
     "ja_summary": "・中国DeepSeekが1兆2000億円を調達し、評価額が8兆円を突破。\n・自社環境での運用や改変が可能なオープンなモデルが最大の特徴。\n・米OpenAIなどの競合を脅かし、世界のAI勢力図を塗り替える可能性がある。"
-  },
-  {
-    "title": "億万長者ガンドラック氏が警告、「AIチップのアセットクラス化」は市場の天井のサインかもしれない",
-    "link": "https://www.businessinsider.jp/article/2608-jeff-gundlach-warns-ai-chip-strategy-may-signal-market-peak/",
-    "source": "Business Insider Japan",
-    "published": "Tue, 18 Aug 2026 22:30:00 GMT",
-    "summary": "「債券王」として知られる投資家ガンドラック氏は、急速に進化するテクノロジーを長期借り入れの担保に使うことの妥当性に疑問を呈しています。",
-    "image": "https://media.loom-app.com/loom/2026/08/18/0192c628-55ad-4130-97f4-fdd39f95cb4c/original.jpg?w=1200",
-    "fetched_at": "2026-08-19 22:24:32",
-    "ja_summary": "・「債券王」ガンドラック氏が、AIチップを担保にした融資の急増に警鐘を鳴らしている。\n・投機的な最新技術を資産価値として過大評価する動きは、市場の過熱と天井のサインである可能性が高い。\n・バブル崩壊のリスクを示唆しており、過度な楽観論に対する投資家の慎重な姿勢を促している。"
-  },
-  {
-    "title": "Anthropicの電子透かし導入発表直後に登場した透かし剥がしOSS「watermarks-remover」がClaude・Gemini・OpenAIに対応（生成AIクローズアップ）",
-    "link": "https://www.techno-edge.net/article/2026/08/17/5398.html",
-    "source": "TechnoEdge",
-    "published": "Mon, 17 Aug 2026 07:09:31 +0900",
-    "summary": "今回は、AIで書かれたことを表す電子透かしやメタデータを除去するオープンソースツール「watermarks-remover」を取り上げます。",
-    "image": "https://www.techno-edge.net/imgs/rss/33613.png",
-    "fetched_at": "2026-08-19 22:24:38",
-    "ja_summary": "AI生成テキストの電子透かしやメタデータを削除するOSS「watermarks-remover」が公開された。\n本ツールはAnthropic、Claude、Gemini、OpenAIの出力に対応している。\nAI判定や追跡を回避するツールが登場したことで、AI利用の透明性と技術的対策のいたちごっこが加速している。"
-  },
-  {
-    "title": "なぜ、AI時代においてC#は最適な言語の1つなのか？",
-    "link": "https://qiita.com/tomokusaba/items/45b66545bb7ea88e8403",
-    "source": "Qiita (Popular)",
-    "published": "2026-08-14T18:37:58+09:00",
-    "summary": "## はじめに\n\nAI が開発現場に入り込んだ今、私たちは「どの言語で書けば、AI と一緒に生産性を上げられるか」をあらためて考える必要があります。\n\nその問いに対して、私は C# をとても強く推したいです。\n\n理由はシンプルです。C# は、AI が生成するコードの質を**人間が早く見抜き、なおかつ安全に運用できる**ように設計された言語だからです。\n\nAI には、たとえ文法は正しくても、意味が崩",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmF2YXRhcnMuZ2l0aHVidXNlcmNvbnRlbnQuY29tJTJGdSUyRjQ2NTIzOTI0JTNGdiUzRDQ_aXhsaWI9cmItNC4xLjEmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPWE5MTY2YmFjZjY5ZDA0NDIzYmU2NjZlYTUyNjk2YzA4%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYwYTgwNDgwMTkwOGEyZjUyZjJlNmMwMjFlYTczM2NmMDhmZjE2MTA0JTJGb3JpZ2luYWwuanBnJTNGMTcyNjE5MDEyMD9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz1lMTNhZjBiNTcyNmFmNmU2ZDA4ZTc5YzE0ODQ4NjE2NQ%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3Da3f360d92e0185ef55780fbc45e879ff?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgxJUFBJUUzJTgxJTlDJUUzJTgwJTgxQUklRTYlOTklODIlRTQlQkIlQTMlRTMlODElQUIlRTMlODElOEElRTMlODElODQlRTMlODElQTZDJTIzJUUzJTgxJUFGJUU2JTlDJTgwJUU5JTgxJUE5JUUzJTgxJUFBJUU4JUE4JTgwJUU4JUFBJTlFJUUzJTgxJUFFMSVFMyU4MSVBNCVFMyU4MSVBQSVFMyU4MSVBRSVFMyU4MSU4QiVFRiVCQyU5RiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPWM3ZGM1YjgyN2I1OGE1YmRhMzNhMDU1ZWM5MTZlNTUx&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDB0b21va3VzYWJhJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9MjBiMWVkMzkzMTExNTI5MWJjYTU3MzE1ZTg5NDkxNGY&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=RnV0dXJlT25l5qCq5byP5Lya56S-&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=7b5975ec26dbaea7580556a3e6f40f04",
-    "fetched_at": "2026-08-19 22:24:45",
-    "ja_summary": "・C#はAI生成コードの品質を素早く判別し、安全に運用できる設計が強み。\n・AI時代において、生産性と信頼性を両立させる最適な開発言語の一つ。\n・コードの文法的・意味的な整合性を確保しやすく、AIとの協働に適している。"
-  },
-  {
-    "title": "富士通機残り500台　20数社が方針未定",
-    "link": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/080600564/080600002/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "富士通メインフレームからの移行が進み、この2年足らずで約150台減った。富士通は、移行方針を決め切れない20数社に決断を促す。日本IBMとの協業やAIの活用により、モダナイズを加速したい考えだ。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/080600564/080600002/topm.jpg?20220512",
-    "fetched_at": "2026-08-19 21:27:21",
-    "ja_summary": "・富士通のメインフレーム利用は2年で約150台減少し、残り500台となった。\n・移行方針未定の20数社に対し、富士通は早期の決断を促している。\n・IBMとの協業やAI活用により、システムの近代化（モダナイズ）を加速させる。"
   }
 ]
