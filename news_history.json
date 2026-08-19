@@ -1,5 +1,45 @@
 [
   {
+    "title": "ご家庭のGPU1台で動くMeta開発AIエージェント「Muse Glimmer」、5分間のボーカル付き楽曲を作れる音楽生成AI「MiniMax Music 3」など生成AI技術5つを解説（生成AIウィークリー）",
+    "link": "https://www.techno-edge.net/article/2026/08/19/5403.html",
+    "source": "TechnoEdge",
+    "published": "Wed, 19 Aug 2026 11:08:09 +0900",
+    "summary": "今回の「生成AIウィークリー」（第156回）は、5分間のボーカル付き楽曲を作れる音楽生成AI「MiniMax Music 3」や、一部評価でOpus 4.6 Max上回るローカル動作のAI「Qwen3.8-27B」を取り上げます。",
+    "image": "https://www.techno-edge.net/imgs/rss/33622.jpg",
+    "fetched_at": "2026-08-20 00:54:46",
+    "ja_summary": "・5分間のボーカル付き楽曲を作成可能な「MiniMax Music 3」が登場\n・家庭用GPUで動作し、高性能なローカルLLM「Qwen3.8-27B」などが注目\n・Meta開発のAIエージェント「Muse Glimmer」など最新AI技術5選を解説"
+  },
+  {
+    "title": "熊本地震の被災自治体等へ、ガバメントAI 源内を緊急提供します（更新）",
+    "link": "https://www.digital.go.jp/news/cb912b3b-49c9-4a02-aa46-4056b96c1d4f",
+    "source": "デジタル庁",
+    "published": "Wed, 19 Aug 2026 10:18:06 +0900",
+    "summary": "",
+    "image": "https://www.digital.go.jp/themes/custom/gov_theme_da_2023/assets/images/ogp.png",
+    "fetched_at": "2026-08-20 00:54:46",
+    "ja_summary": "・熊本地震の被災自治体に対し、AI搭載の行政事務支援システム「源内」を緊急提供\n・AI活用により、罹災証明書発行等の事務処理を迅速化し、被災者の負担を軽減\n・自治体の業務効率化と被災地支援のスピードアップを同時に実現する取り組み"
+  },
+  {
+    "title": "GenAIge Cafe #10 生成AIとここまで、これから。",
+    "link": "https://speakerdeck.com/blueb/genaige-cafe-10-seisei-ai-to-koko-made-korekara",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-08-19T11:49:04-04:00",
+    "summary": "2026年8月20日開催された GenAIge Cafe #10 で行った、ChatGPTのサービス開始から今日までを振り返る資料です。",
+    "image": "https://files.speakerdeck.com/presentations/69c44931ba7740da8ccf24f746e6b2c0/preview_slide_0.jpg?40322684",
+    "fetched_at": "2026-08-20 00:54:53",
+    "ja_summary": "・ChatGPT公開から現在までの生成AIの進化と歴史を振り返る総括資料。\n・技術の発展過程と、今後の展望を整理した内容。\n・2026年8月開催のイベント「GenAIge Cafe #10」での発表資料。"
+  },
+  {
+    "title": "新人エンジニア、AIがないと役に立たないハリボテ人間にならないか不安",
+    "link": "https://qiita.com/prumnn/items/b3302efec6a8d8b50197",
+    "source": "Qiita (Popular)",
+    "published": "2026-08-10T14:46:52+09:00",
+    "summary": "![フィジカルロボットとは？.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/4458573/ff73a124-56b7-40fb-8477-161e0d91091c.png)\n\n<br>\n\n## はじめに\n>エラーが出たら、考える前にまずAIにコピペする。それが当たり前になっていたぷらむんが、AIが数十分使えな",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0NDU4NTczJTJGZjdiNzg1NDM4ODU2MTAyY2YxOWUwYTY0MDRkMTQzMWMxYzg2Y2NhNCUyRnhfbGFyZ2UucG5nJTNGMTc4MzMxMDkyMD9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9MTY5N2NhODkwNmQ1NzM0ZmE4MGVjYzllMTdhY2M4YzY%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYzMzEyZmE3ZDk1NjJkYTc1ZTFmOGE1ZmQxODljN2UzN2FlNzZhMjc0JTJGb3JpZ2luYWwuanBnJTNGMTc1NzU2OTIyMz9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz02ZjkzZjY0NGI1ZDk0MjNmMjMxMDhjOGEzZjllZDE0Mw%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3Ddb0c0fdd520bcb1f15379f24886da19b?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUU2JTk2JUIwJUU0JUJBJUJBJUUzJTgyJUE4JUUzJTgzJUIzJUUzJTgyJUI4JUUzJTgzJThCJUUzJTgyJUEyJUUzJTgwJTgxQUklRTMlODElOEMlRTMlODElQUElRTMlODElODQlRTMlODElQTglRTUlQkQlQjklRTMlODElQUIlRTclQUIlOEIlRTMlODElOUYlRTMlODElQUElRTMlODElODQlRTMlODMlOEYlRTMlODMlQUElRTMlODMlOUMlRTMlODMlODYlRTQlQkElQkElRTklOTYlOTMlRTMlODElQUIlRTMlODElQUElRTMlODIlODklRTMlODElQUElRTMlODElODQlRTMlODElOEIlRTQlQjglOEQlRTUlQUUlODkmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz04N2MyNDliYTg5MWExZjUxYzk5ZTE5NmJmNTE5ZGU5Mg&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBwcnVtbm4mdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz0zZGJlZTBmNWZjZGQwNGZlMmQ3MTg0ODRkMDAxMzBmYw&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=5qCq5byP5Lya56S-UFJVTQ&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=f14b6396b40b0a7fd1d5e916b4de3ee8",
+    "fetched_at": "2026-08-20 00:54:55",
+    "ja_summary": "・AIへの依存により、自身の思考力が低下し「AIなしでは業務がこなせない」という新人エンジニアの不安が増大している。\n・エラー対応を即座にAIへ丸投げする習慣が、基礎的な技術力や問題解決能力の育成を阻害する懸念がある。\n・AIを「便利な道具」として使いこなしつつ、自ら深く考える力を維持・向上させる重要性が問われている。"
+  },
+  {
     "title": "｢Pixel｣が世界シェア1％しかないのに､モノ売りより\"AI体験\"に懸けることにした《グーグル･表参道新旗艦店》の目論見 | ビジネス | 東洋経済オンライン",
     "link": "https://toyokeizai.net/articles/-/954631?utm_source=rss&utm_medium=http&utm_campaign=link_back",
     "source": "東洋経済オンライン",
@@ -958,45 +998,5 @@
     "image": "https://www.watch.impress.co.jp/img/ipw/list/2133/713/open1.jpg",
     "fetched_at": "2026-08-19 11:13:28",
     "ja_summary": "・OpenAIが次世代AIの開発ペースを一時的に減速。\n・最優先事項として安全対策の強化を図る方針。\n・技術開発よりも安全性確保へ戦略をシフトする。"
-  },
-  {
-    "title": "マネックス証券、ChatGPTに話しかけて「評価損益」などを確認できる新機能　主要証券で初",
-    "link": "https://japan.cnet.com/article/35251689/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "マネックス証券は8月19日、「ChatGPT」や「Claude」から同社の口座情報を確認できる「MONEX MCP Server」の提供を始めた。AIに「現在の資産状況を教えて」「今月の入出金履歴を確認したい」と話しかけるだけで、同社のウェブサイトやアプリを開かずに必要な情報を確認できる。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35251689/\"><img src=\"https://japan.cnet.com/storage/2026/08/19/eefdfba8ee068a8d996382d8ce5b08f5/t/184/138/d/2026-08-19_10.16の画像.jpeg\" /></a>",
-    "image": "https://japan.cnet.com/storage/2026/08/19/eefdfba8ee068a8d996382d8ce5b08f5/t/184/138/d/2026-08-19_10.16の画像.jpeg",
-    "fetched_at": "2026-08-19 11:13:33",
-    "ja_summary": "・マネックス証券がChatGPT等から口座情報を確認できる新機能を主要証券で初めて導入。\n・AIに話しかけるだけで、サイトやアプリを開かずに資産状況や入出金履歴を確認可能。\n・外部AIサービスを活用し、証券口座の利便性を向上させる。"
-  },
-  {
-    "title": "自力で修理できる究極のエコスマホ「Fairphone (Gen. 6+)」発売",
-    "link": "https://japan.cnet.com/article/35251673/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "モジュール式で修理しやすく、競合製品よりもサステナブルなスマートフォンをうたう「Fairphone (Gen. 6+)」が米国で発売された。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35251673/\"><img src=\"https://japan.cnet.com/storage/2026/08/19/288456a81f330904ae065898ab6d43f9/t/184/138/d/55470912782_3a3832debd_k_1280x960.jpg\" /></a>",
-    "image": "https://japan.cnet.com/storage/2026/08/19/288456a81f330904ae065898ab6d43f9/t/184/138/d/55470912782_3a3832debd_k_1280x960.jpg",
-    "fetched_at": "2026-08-19 11:13:33",
-    "ja_summary": "・自分で修理可能なモジュール式スマホ「Fairphone (Gen. 6+)」が米国で発売。\n・部品交換が容易で、環境負荷を最小限に抑えたサステナブルな設計が特徴。\n・長く使い続けられる究極のエコ端末として、競合製品との差別化を図る。"
-  },
-  {
-    "title": "AIは「デフレ要因」のはずが。インフラ投資が生むインフレと株価への逆風",
-    "link": "https://www.businessinsider.jp/article/2608-ai-inflationary-capex-bearish-stocks/",
-    "source": "Business Insider Japan",
-    "published": "Tue, 18 Aug 2026 02:30:00 GMT",
-    "summary": "「AIがもたらすとされるインフレ鈍化効果は、もう少し待つ必要がある」とバンク・オブ・アメリカは指摘します。AIのインフラ投資は足元の物価を押し上げ、金利上昇を通じて株式市場の逆風になりつつあります。",
-    "image": "https://media.loom-app.com/loom/2026/08/17/50de8b7d-28ec-4d19-9eb6-6e66bacd4575/original.jpg?w=1200",
-    "fetched_at": "2026-08-19 11:13:33",
-    "ja_summary": "・AI導入によるインフレ抑制効果はまだ先で、現在はインフラ投資が物価を押し上げている。\n・投資に伴う金利上昇が株式市場の重荷となり、逆風となっている。"
-  },
-  {
-    "title": "セールスフォース、MuleSoftでAIエージェントの乱立やコスト管理に対処",
-    "link": "https://japan.zdnet.com/article/35251640/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "セールスフォースは、MuleSoftの機能強化を通じて企業でのAIエージェントの乱立とトークンコスト上昇の2つの課題に対処した。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35251640/\"><img src=\"https://japan.zdnet.com/storage/2026/08/18/7ff2d9dd292691a835eec13720aa3480/t/184/138/d/salesforce-mulesoft.jpg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2026/08/18/7ff2d9dd292691a835eec13720aa3480/t/184/138/d/salesforce-mulesoft.jpg",
-    "fetched_at": "2026-08-19 11:13:38",
-    "ja_summary": "・セールスフォースがMuleSoftを強化し、AIエージェントの乱立を抑制。\n・AI利用に伴うトークンコストの上昇にも適切に対処する。\n・複雑化する企業内のAI運用管理を効率化し、最適化を図る。"
   }
 ]
