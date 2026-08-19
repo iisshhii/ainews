@@ -1,5 +1,65 @@
 [
   {
+    "title": "オリックス宮内氏×さくらインターネット田中氏　「AI時代も日本企業は戦える」 (日経トップリーダー)",
+    "link": "https://business.nikkei.com/atcl/seminar/19nv/120500136/072701471/",
+    "source": "日経ビジネス 最新",
+    "published": "",
+    "summary": "オリックスの宮内義彦シニア・チェアマンがさくらインターネットの田中邦裕社長と対談。2人の対話から、人工知能（AI）時代においても日本が競争力を持てる領域はあるという未来が見えてきた。",
+    "image": "https://business.nikkei.com/atcl/seminar/19nv/120500136/072701471/fb.jpg",
+    "fetched_at": "2026-08-19 18:47:13",
+    "ja_summary": "・オリックス宮内氏とさくらインターネット田中氏がAI時代の日本企業の勝機を対談。\n・AIが普及する環境下でも、日本企業が競争力を発揮できる領域は存在する。\n・デジタル化の活用と日本特有の強みを掛け合わせ、未来への展望を語る。"
+  },
+  {
+    "title": "Google、AIで飛行機雲の発生を防ぐ「オペレーション・ブルースカイ」",
+    "link": "https://www.watch.impress.co.jp/docs/news/2133977.html",
+    "source": "Impress Watch",
+    "published": "",
+    "summary": "Googleは、英国政府、航空業界と連携し、AIを活用することで飛行機雲の発生を回避するルートを作成し、航空機による気候変動への影響を軽減する取り組み「オペレーション・ブルースカイ」を開始する。",
+    "image": "https://www.watch.impress.co.jp/img/ipw/list/2133/977/google00.jpg",
+    "fetched_at": "2026-08-19 18:47:20",
+    "ja_summary": "・GoogleがAIで飛行機雲を回避する飛行ルートを策定する新プロジェクトを開始。\n・英国政府や航空業界と連携し、航空機が与える気候変動への影響を低減する。\n・環境負荷の抑制と持続可能な航空運航の実現を目指す。"
+  },
+  {
+    "title": "グーグル、AIエージェントによる脆弱性検出のためのブループリントを公開",
+    "link": "https://japan.zdnet.com/article/35251720/",
+    "source": "ZDNET Japan",
+    "published": "",
+    "summary": "新たに公開された「Agentic Vulnerability Discovery Harness」アーキテクチャーのブループリントは、AIを悪用する攻撃者に防御側が先手を打つ手段になる。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35251720/\"><img src=\"https://japan.zdnet.com/storage/2025/02/17/b6164726d6c7f6e88910a9992ea1aedf/t/184/138/d/250217_security_as_1280_457718844.jpeg\" /></a>",
+    "image": "https://japan.zdnet.com/storage/2025/02/17/b6164726d6c7f6e88910a9992ea1aedf/t/184/138/d/250217_security_as_1280_457718844.jpeg",
+    "fetched_at": "2026-08-19 18:47:30",
+    "ja_summary": "グーグルがAIによる脆弱性検出システム「Agentic Vulnerability Discovery Harness」の設計図を公開した。\nAIを悪用する攻撃者に対抗し、防御側が先手でセキュリティの穴を発見できるようにする狙いがある。\nこのブループリントの提供により、企業の迅速な防御体制構築と脆弱性対策の強化を支援する。"
+  },
+  {
+    "title": "ソフトバンクから「圧倒的成長」世界観のAIイヤホン＋レコーダーGLIDiC AI +u Buds、理詰めのコーチと共感のバディが自己成長を支援",
+    "link": "https://www.techno-edge.net/article/2026/08/19/5404.html",
+    "source": "TechnoEdge",
+    "published": "Wed, 19 Aug 2026 18:16:57 +0900",
+    "summary": "SB C&amp;Sが、オープンイヤー型AIイヤホンと薄型ボイスレコーダーを組み合わせた製品「GLIDiC AI +u Buds」の一般販売を開始しました。",
+    "image": "https://www.techno-edge.net/imgs/rss/33647.jpg",
+    "fetched_at": "2026-08-19 18:47:32",
+    "ja_summary": "・SB C&SがAI搭載のオープンイヤー型イヤホンと薄型レコーダーのセットを発売。\n・AIが「コーチ」と「バディ」として対話し、学習や業務の自己成長を支援する。\n・録音とAI分析を組み合わせ、効率的な振り返りと能力向上をサポートする新製品。"
+  },
+  {
+    "title": "RAG That Works in South Africa: Cheap, Fast, and Compliant Approaches Any Company Can Implement",
+    "link": "https://speakerdeck.com/abedmatini/rag-that-works-in-south-africa-cheap-fast-and-compliant-approaches-any-company-can-implement",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-08-19T04:48:53-04:00",
+    "summary": "A practical roadmap for building RAG systems under real-world South African constraints — POPIA compliance, load shedding, and ZAR/USD cost volatility. Walks through a 7-phase maturity model from simple local RAG through hybrid search, multimodal parsing, multi-step reasoning, GraphRAG, and agentic RAG, plus a governance framework for role-based access control and a benchmarking approach for proving your system isn't hallucinating. Originally presented at DevConf South Africa 2026.",
+    "image": "https://files.speakerdeck.com/presentations/156fa843a78946e2a5ceb67e1a0e2d2d/preview_slide_0.jpg?40319359",
+    "fetched_at": "2026-08-19 18:47:37",
+    "ja_summary": "・南アフリカ特有の通信制約・法規制（POPIA）・為替リスクに対応した、実用的なRAG構築ロードマップを提示。\n・ローカル環境からエージェント型まで7段階の成熟度モデルを定義し、コストと精度を最適化。\n・RBACを用いたガバナンスとハルシネーション対策を含めた、企業向け導入の包括的ガイド。"
+  },
+  {
+    "title": "50音を全部作って繋いだのに、（　´∀｀）になった話",
+    "link": "https://qiita.com/taguchi_sapeet/items/f2da1003b168b52f5770",
+    "source": "Qiita (Popular)",
+    "published": "2026-08-04T10:15:18+09:00",
+    "summary": "<br>\n\n## まず、これを聴いてください\n\n**音声①：自作したTTSで「こんにちは」**\n\n\n<br>\n\n<iframe\n  src=\"https://drive.google.com/file/d/1T_QqDgJ1u2mnkIBaXDOikPe-Q_Iyq6Bk/preview\"\n  width=\"100%\"\n  height=\"88\"\n  allow=\"autoplay\"\n></ifr",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0NDQ1NDk3JTJGZDVkNDFkMGQ4M2VhM2Y1NzNhZDU1NWU4MDhhMDhkMTljMzViYjY2MCUyRmxhcmdlLnBuZyUzRjE3ODA5ODYxMDY_aXhsaWI9cmItNC4xLjEmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPWUxYmEwNmE5NmJlNTYxYzQxYjJlNzI1YjNjZDNlYmQw%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkZlMDc4NjNmNDFmNjI3NDE1MTE3OTkwNTM4YTllMjNkZTIxOGYyY2IwJTJGb3JpZ2luYWwuanBnJTNGMTc2MjQ4MTQwMT9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz01NWUyMTdiYThkODE2MWFiMDVmMjM5OThmNjc1OGY3OQ%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D05663bf4906760d54c165d9f9f7d5fdc?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9NTAlRTklOUYlQjMlRTMlODIlOTIlRTUlODUlQTglRTklODMlQTglRTQlQkQlOUMlRTMlODElQTMlRTMlODElQTYlRTclQjklOEIlRTMlODElODQlRTMlODElQTAlRTMlODElQUUlRTMlODElQUIlRTMlODAlODElRUYlQkMlODglRTMlODAlODAlQzIlQjQlRTIlODglODAlRUYlQkQlODAlRUYlQkMlODklRTMlODElQUIlRTMlODElQUElRTMlODElQTMlRTMlODElOUYlRTglQTklQjEmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz01MTc4YTU0ODVlMmVkNDdhMWEwZTFmNzUyZTAxZGZmMQ&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDB0YWd1Y2hpX3NhcGVldCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWI0MzEyMjc1NmNkOTA3YjljMGY0OTVlNzUwNDAxMWQw&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=5qCq5byP5Lya56S-U2FwZWV0&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=2336f3aa1169accc055f57bab865c326",
+    "fetched_at": "2026-08-19 18:47:41",
+    "ja_summary": "自作の音声合成システム（TTS）で50音を繋ぎ合わせ、自然な会話を目指して作成した。\nしかし、実際に再生すると期待とは異なり、無機質で笑っているような記号的な音になった。\n技術的挑戦の結果、意図せぬユーモラスな音声生成結果となった制作の顛末。"
+  },
+  {
     "title": "Strengthening democratic oversight in national security",
     "link": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
     "source": "OpenAI",
@@ -938,65 +998,5 @@
     "image": "https://japan.zdnet.com/storage/2026/08/12/2c66ef8eaab222429027006c3ea89734/t/184/138/d/softwarefactorygettyimages-1421511848_l.jpg",
     "fetched_at": "2026-08-19 06:24:30",
     "ja_summary": "AIで生成したアプリを自動テスト・検証する「ソフトウェアファクトリー」が復活しています。\nAI駆動の開発により、アプリの再現性と大量生産が可能になります。\n高品質なソフトを短期間で広範なユーザーへ届ける新時代の開発体制が到来します。"
-  },
-  {
-    "title": "オープンAI〈暴走ハッキング〉で浮上した破滅的危機の予兆…安全無視で疾走するAI開発､人類の奢りが大敵 | 政治・経済・投資 | 東洋経済オンライン",
-    "link": "https://toyokeizai.net/articles/-/955106?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-    "source": "東洋経済オンライン",
-    "published": "Wed, 19 Aug 2026 05:40:00 +0900",
-    "summary": "アメリカと中国が激しく競うAI開発。そのスピードの裏で､安全対策が後回しにされ､制御不能なリスクが高まっています。最新AIが引き起こしたサイバー攻撃事件は､人間の奢りと油断が招く破滅の可能性を示して…",
-    "image": "https://tk.ismcdn.jp/mwimgs/8/0/1200w/img_809516f9c63f84a40709bbd31d11c394597333.jpg?nextgen=false",
-    "fetched_at": "2026-08-19 05:58:28",
-    "ja_summary": "・米中のAI開発競争が過熱する中で安全対策が軽視され、制御不能なリスクが深刻化している。\n・最新AIによるハッキング事件は、開発スピードを優先するあまり安全性を疎かにする「人類の奢り」への警鐘である。\n・AIの暴走は破滅的な危機を招く可能性があり、早急な安全性の確保が喫緊の課題となっている。"
-  },
-  {
-    "title": "AIの進化によって漫画制作はどう変わるのか",
-    "link": "https://note.com/npaka/n/n6c22f295e89f",
-    "source": "note (npaka)",
-    "published": "Sun, 16 Aug 2026 13:44:35 +0900",
-    "summary": "<p id=\"b67e49bc-0d4f-42a9-993c-8115126a5539\" name=\"b67e49bc-0d4f-42a9-993c-8115126a5539\">最新のAI研究とAIツールをもとに、AIによって漫画制作がどのように変わるのかを整理します。</p><br /><br /><a href=\"https://note.com/npaka/n/n6c22f295e89f\">続きをみる</a>",
-    "image": "https://assets.st-note.com/production/uploads/images/303996032/rectangle_large_type_2_52771712c236b282e5a6d0f34e81cc2a.png?width=800",
-    "fetched_at": "2026-08-19 05:58:47",
-    "ja_summary": "・最新のAI技術やツールが、漫画制作の工程を劇的に効率化している。\n・背景作成やキャラクター着色など、作業負荷の大きい工程がAIで代替可能に。\n・AIの活用により、クリエイターは構想や演出といった創作の本質により注力できる環境へ変化している。"
-  },
-  {
-    "title": "Introducing Claude Opus 5",
-    "link": "https://www.anthropic.com/news/claude-opus-5",
-    "source": "Anthropic (News)",
-    "published": "Fri, 24 Jul 2026 00:00:00 +0000",
-    "summary": "Introducing Claude Opus 5",
-    "image": "https://cdn.sanity.io/images/4zrzovbb/website/54b7ab1d2c2521f83ae5d2da5f9d99321c370d24-2880x1620.png",
-    "fetched_at": "2026-08-19 05:58:59",
-    "ja_summary": "・次世代AIモデル「Claude Opus 5」が発表された。\n・従来のモデルを上回る高度な推論能力と処理性能を実現。\n・業務の生産性向上や複雑なタスクの自動化を強力に支援する。"
-  },
-  {
-    "title": "AI時代支える「地下水のプロ」争奪戦　米国では年収1億円も日本は人材難 (Views)",
-    "link": "https://business.nikkei.com/atcl/seminar/19/00030/081700802/",
-    "source": "日経ビジネス 最新",
-    "published": "",
-    "summary": "AI・半導体投資で水需要が膨らむ米国では、地下水プロのトップ層が年収1億円に達する。一方、日本にはこうした人材がいない。専門家は、TSMC熊本工場の涵養（かんよう）について「水を戻せば済むわけではない」と指摘。人材育成を急ぐ必要性を訴える。",
-    "image": "https://business.nikkei.com/atcl/seminar/19/00030/081700802/fb.jpg",
-    "fetched_at": "2026-08-19 05:40:39",
-    "ja_summary": "・AI・半導体産業の拡大で米国では「地下水の専門家」の価値が高騰し、年収1億円に達している。\n・日本は関連人材が極端に不足しており、半導体工場進出に伴う適切な水資源管理が懸念されている。\n・持続可能な水利用のため、日本国内で早急に地下水管理の専門人材を育成する必要がある。"
-  },
-  {
-    "title": "AIの進化によってBlenderによる3D制作はどう変わるのか",
-    "link": "https://note.com/npaka/n/n13f5c4f54754",
-    "source": "note (npaka)",
-    "published": "Sun, 16 Aug 2026 09:40:49 +0900",
-    "summary": "<p id=\"52876e59-a987-4681-af3f-045cea4e7201\" name=\"52876e59-a987-4681-af3f-045cea4e7201\">最新のAI研究とAIツールをもとに、AIによってBlenderの使い方と役割がどのように変わるのかを整理します。</p><br /><br /><a href=\"https://note.com/npaka/n/n13f5c4f54754\">続きをみる</a>",
-    "image": "https://assets.st-note.com/production/uploads/images/303920666/rectangle_large_type_2_11590672e036f51679b24bcabf4c0a3b.png?width=800",
-    "fetched_at": "2026-08-19 05:40:53",
-    "ja_summary": "・最新のAI技術とツールの導入により、Blenderを用いた3D制作の工程や役割が劇的に変化している。\n・AIによって作業の自動化や効率化が進み、従来とは異なる新しい制作手法が求められている。\n・今後の制作現場においてAIをどう活用すべきか、その展望と変化のポイントを整理する。"
-  },
-  {
-    "title": "Mythos級ローカルLLMまとめ - Kimi K3・Qwen3.8-Max・GLM-5.2・DeepSeek-V4 Flash",
-    "link": "https://note.com/npaka/n/n1d08ec975c9f",
-    "source": "note (npaka)",
-    "published": "Sat, 08 Aug 2026 12:21:22 +0900",
-    "summary": "<p id=\"898e11a9-64ee-4768-8d28-ee1297c87177\" name=\"898e11a9-64ee-4768-8d28-ee1297c87177\">最近話題のMythos級ローカルLLM 「Kimi K3」「Qwen3.8-Max」「GLM-5.2」「DeepSeek-V4 Flash」についてまとめました。</p><br /><br /><a href=\"https://note.com/npaka/n/n1d08ec975c9f\">続きをみる</a>",
-    "image": "https://assets.st-note.com/production/uploads/images/301464916/rectangle_large_type_2_cc7c11b13343e0753a04801a5680a7e4.png?width=800",
-    "fetched_at": "2026-08-19 05:40:53",
-    "ja_summary": "・話題の高性能ローカルLLM「Kimi K3」「Qwen3.8-Max」「GLM-5.2」「DeepSeek-V4 Flash」の特徴を解説。\n・最新の「Mythos級」モデルの性能や導入に向けた情報を整理。\n・各モデルの概要を把握し、ローカル環境での活用を検討する際に役立つまとめ。"
   }
 ]
