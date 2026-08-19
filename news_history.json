@@ -1,5 +1,55 @@
 [
   {
+    "title": "Google GeminiとBTSがコラボ、ファン用語含む韓国語コーチや愛用プロンプト例など　各メンバーの短編映像も公開",
+    "link": "https://www.techno-edge.net/article/2026/08/19/5405.html",
+    "source": "TechnoEdge",
+    "published": "Wed, 19 Aug 2026 19:49:01 +0900",
+    "summary": "Google Geminiは、韓国のボーイズグループBTSとコラボレーションした4つのインタラクティブ機能をGeminiアプリ内で提供開始しました。",
+    "image": "https://www.techno-edge.net/imgs/rss/33658.jpg",
+    "fetched_at": "2026-08-19 19:53:06",
+    "ja_summary": "・Google GeminiがBTSとコラボし、4つの新機能をアプリ内で提供開始。\n・BTSメンバーが登場する映像や、ファン用語を用いた韓国語学習機能などを追加。\n・AIを活用し、ファン体験と韓国語学習を融合させたインタラクティブな企画を展開。"
+  },
+  {
+    "title": "Ask Claude about the Anthropic Economic Index",
+    "link": "https://www.anthropic.com/news/anthropic-economic-index-connector",
+    "source": "Anthropic (News)",
+    "published": "Wed, 22 Jul 2026 00:00:00 +0000",
+    "summary": "Ask Claude about the Anthropic Economic Index",
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20NodeBook&amp;backgroundColor=coral",
+    "fetched_at": "2026-08-19 19:53:09",
+    "ja_summary": "・Anthropic社が独自の経済指標「Anthropic Economic Index」を公開。\n・Claudeに質問することで、経済指標の内容や詳細を確認可能。\n・経済データの分析や洞察をClaudeを通じて手軽に活用できる。"
+  },
+  {
+    "title": "Claude Codeに見せない技術: AIに入力できないデータを分析する",
+    "link": "https://zenn.dev/green_tea/articles/a994964786cb4f",
+    "source": "Zenn Trends",
+    "published": "Tue, 18 Aug 2026 02:55:05 GMT",
+    "summary": "!\n本記事では、単にsettings.jsonにdenyを書くだけではなく、5層：\n\nデータ分離\npermissions\nsandbox\nhooks\n運用ルール\n\nで、機密情報をAIに「見せられない」状態を作ります。あわせて、その設定漏れ・劣化[1]を自動検知する仕組みも用意します。\n\n!\nClaude Codeは更新が速く、設定キーやフックの仕様は変わり得ます。導入時は公式ドキュメントで最新仕様を確認し、記事後半の「すり抜けテスト」で動作検証をしてから運用してください。本記事の記述は2026年8月時点のドキュメントに基づいています。\n\n\n 先に結論: 要点と環境構築\n!\n本記事は私の力...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--9wAIZ6Z1--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%25E3%2581%25AB%25E8%25A6%258B%25E3%2581%259B%25E3%2581%25AA%25E3%2581%2584%25E6%258A%2580%25E8%25A1%2593%253A%2520AI%25E3%2581%25AB%25E5%2585%25A5%25E5%258A%259B%25E3%2581%25A7%25E3%2581%258D%25E3%2581%25AA%25E3%2581%2584%25E3%2583%2587%25E3%2583%25BC%25E3%2582%25BF%25E3%2582%2592%25E5%2588%2586%25E6%259E%2590%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:redtea%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzIzM2I4MmRkNzEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-08-19 19:53:10",
+    "ja_summary": "・Claude CodeなどのAIツールに機密情報を漏らさないための「5層防御（分離・権限・サンドボックス・フック・運用）」を解説。\n・設定の形骸化を防ぐため、自動検知や「すり抜けテスト」による検証を導入する。\n・AIツールの仕様変更は激しいため、最新の公式ドキュメント確認と運用前の動作検証が必須。"
+  },
+  {
+    "title": "DMARC 集計レポートを Claude Code で分解して p=reject に到達するまで",
+    "link": "https://zenn.dev/finatext/articles/0d1e6dd99ec34d",
+    "source": "Zenn Trends",
+    "published": "Tue, 18 Aug 2026 00:29:01 GMT",
+    "summary": "Finatextグループの証券会社である株式会社スマートプラスの保有するドメインについて、DMARC ポリシーの reject への移行を完了した。このドメインは既に様々な箇所からメールを送っている実績があるため、DMARC レコードを書き換えるだけでは済まない。本記事は、大量の DMARC 集計レポートを調査・分類し、運用可能な状態に落とし込むまでの記録である。なお、対象ドメインは example.co.jp と表記し、利用製品のベンダー名を含むホスト名・DKIM セレクタも仮名に置き換えている。\n\n 約 3,000 通の fail を分類する必要があった\n証券業界では、2025 年 ...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--if5SGVNY--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:DMARC%2520%25E9%259B%2586%25E8%25A8%2588%25E3%2583%25AC%25E3%2583%259D%25E3%2583%25BC%25E3%2583%2588%25E3%2582%2592%2520Claude%2520Code%2520%25E3%2581%25A7%25E5%2588%2586%25E8%25A7%25A3%25E3%2581%2597%25E3%2581%25A6%2520p%253Dreject%2520%25E3%2581%25AB%25E5%2588%25B0%25E9%2581%2594%25E3%2581%2599%25E3%2582%258B%25E3%2581%25BE%25E3%2581%25A7%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:s4ichi%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2NjOTE1NmJhMjEuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Finatext%2520Tech%2520Blog%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2NlZDFkMGVkOTguanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-08-19 19:53:11",
+    "ja_summary": "・スマートプラス社が保有するドメインのDMARCポリシーを「reject（拒否）」へ移行完了。\n・約3,000件のメール送信失敗（fail）をClaude Codeで分析・分類し、運用体制を構築。\n・既存のメール送信環境を維持しながら、安全にセキュリティ要件を満たすプロセスを解説。"
+  },
+  {
+    "title": "【AI×DevOps Study #20】AI Agent のための RAG System１（全2回）",
+    "link": "https://speakerdeck.com/scalar/aixdevops-study-20-ai-agent-no-tame-no-rag-system-chon-2-kai",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-08-19T04:52:39-04:00",
+    "summary": "■AI×DevOps Study #20の概要\n2026年8月19日に開催した「AI×DevOps Study」第20回のアーカイブ動画です。\n\n「AI×DevOps Study」は、AI駆動開発やそこに関係するマイクロサービスについて理解を深める場になります。\n株式会社ScalarではAIを使ったチーム開発を進めており、参画しているメンバーや協力会社の方から、具体的なAI駆動開発を実施する方法、その中で生まれたマイクロサービスアーキテクチャを使用したAI駆動開発の事例や実際に使えるエージェントについてお話頂き、参加者の皆様と知識の共有や交換を目的としています。\n（弊社製品であるScalarDBも絡んだお話も一部出てきますが、汎用的な内容となっておりますのでフラットにお楽しみいいただけます）\n\n■今回のテーマ \n今回のテーマは、AI Agent のための RAG Systemです。 \n※本勉強会は全2回で構成されています。※\n\n1回目の今回は「RAGの作成」を軸にRAG の基礎と日本語実装についてお話しします。\n RAGの必要性からRAGの精度を上げるためのポイント、日本語のRAGを構築する際のハードルや実装について説明します。\n\n■登壇者情報（敬称略）\n深津航\n株式会社Scalar Founder & CEO。日本オラクル株式会社、決済系のスタートアップを経て、株式会社Scalarを創業。\n\n■関連コンテンツ\n・Youtube（過去の勉強会動画も公開中！）\nwww.youtube.com/@scalar-labs\n\n・Zenn ブログ\nhttps://zenn.dev/p/scalar_sol_blog\n\n・イベントページ（connpass）\nhttps://scalar.connpass.com/",
+    "image": "https://files.speakerdeck.com/presentations/d4a30ca1879541ac9928ff541c5423dd/preview_slide_0.jpg?40319397",
+    "fetched_at": "2026-08-19 19:53:11",
+    "ja_summary": "・AI駆動開発をテーマにした勉強会のアーカイブ動画で、AIエージェントに必要な「RAGシステム」の構築が主題。\n・全2回の前編として、RAGの基礎知識、精度向上のポイント、日本語実装における課題と解決策を解説。\n・Scalar社での実践事例を交えつつ、汎用的な知見としてAI開発やマイクロサービスに関心がある層に向けた内容。"
+  },
+  {
     "title": "AIの進化によって漫画制作はどう変わるのか",
     "link": "https://note.com/npaka/n/n6c22f295e89f",
     "source": "note (npaka)",
@@ -948,55 +998,5 @@
     "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
     "fetched_at": "2026-08-19 06:58:58",
     "ja_summary": "・CognizantとAnthropicが提携を拡大。\n・企業向けに生成AI「Claude」の導入を支援する。\n・両社の技術を統合し、企業の業務効率化とDXを加速させる。"
-  },
-  {
-    "title": "1年分のAI予算をわずか数カ月で“使い倒した”米Uber　CTOが気付いた「脱・トークン浪費」の方法",
-    "link": "https://www.itmedia.co.jp/business/articles/2608/19/news032.html",
-    "source": "ITmedia ビジネス",
-    "published": "Wed, 19 Aug 2026 06:00:00 +0900",
-    "summary": "配車サービス大手の米Uberは、AI技術に割り当てた2026年の予算を年初からわずか数カ月で使い果たしたことを受け、AIへの支出問題を解決する方法を見つけたと考えている。",
-    "image": "https://image.itmedia.co.jp/business/articles/2608/19/cover_news032.jpg",
-    "fetched_at": "2026-08-19 06:44:28",
-    "ja_summary": "・UberがAI予算を数カ月で使い果たし、急激な支出増が課題となった。\n・CTOは無駄なトークン消費を抑える最適化手法により解決を図った。\n・コスト効率を最大化するAI運用の重要性が浮き彫りになった。"
-  },
-  {
-    "title": "なぜメルカリの「AIフル活用広告」は成果が出たのか　\"質の低い広告枠\"に追いやられないための「2つのアクション」",
-    "link": "https://www.itmedia.co.jp/business/articles/2608/19/news021.html",
-    "source": "ITmedia ビジネス",
-    "published": "Wed, 19 Aug 2026 06:00:00 +0900",
-    "summary": "メルカリが配信した動画広告「やさしいメル&#64017;」は、キャラクターデザインからシナリオや動画の制作までAIをフル活用している。YouTube Works Awards Japan 2026のBest Use of Google AI部門で「Gold」（最高賞）を受賞するなど、高い評価を受けたが、AIで作成した広告は“似たり寄ったり”になってしまわないのか。人間にとって魅力的な広告を生み出し、良い広告枠を勝ち取るためのポイントを、メルカリの石渡貴大氏が語った。",
-    "image": "https://image.itmedia.co.jp/business/articles/2608/19/cover_news021.jpg",
-    "fetched_at": "2026-08-19 06:44:28",
-    "ja_summary": "・メルカリは生成AIをフル活用した動画広告で高い成果と評価を獲得。\n・AI特有の凡庸さを避けるため、独自の「型」の構築とAIへの高度な指示（プロンプト）を重視。\n・人間がクリエイティブの核心を担うことで、広告の質を高め、優れた掲載枠を確保した。"
-  },
-  {
-    "title": "【無料PDF】リピート率「94％」なのに「口コミ」が増えない　ドモホルンリンクルは“沈黙するファン”をどう動かした？【おすすめ事例3選】",
-    "link": "https://www.itmedia.co.jp/business/articles/2608/18/news033.html",
-    "source": "ITmedia ビジネス",
-    "published": "Tue, 18 Aug 2026 06:00:00 +0900",
-    "summary": "商品やブランドのファンを育て、顧客との関係性を深めるアプローチとして「ファンコミュニティー」に注目が集まっている。本PDFでは、独自の工夫で巨大なファンコミュニティーを形成し、売り上げ向上や商品開発・CX向上へとつなげている「ドモホルンリンクル」「DAISO」「ヱビスビール」の事例記事をPDFパンフレットにまとめた。",
-    "image": "https://image.itmedia.co.jp/business/articles/2608/18/KO1635237_2607pdf_001_w190.jpg",
-    "fetched_at": "2026-08-19 06:44:29",
-    "ja_summary": "・「ドモホルンリンクル」等のファンコミュニティ構築事例をまとめた無料PDFを公開。\n・高いリピート率でも口コミが増えない課題に対し、ファンを動かすヒントを提示。\n・「DAISO」「ヱビスビール」を含め、売上やCX向上につなげる戦略を学べる。"
-  },
-  {
-    "title": "既存部門ではもう管理できない？…EYが「AI価値実現オフィス」を新設する理由",
-    "link": "https://www.businessinsider.jp/article/2608-big-four-ey-creates-ai-value-realization-office/",
-    "source": "Business Insider Japan",
-    "published": "Tue, 18 Aug 2026 21:35:00 GMT",
-    "summary": "AIは既存のどの部門でも管理できないため、四大監査法人の一つであるEYは新たな部門を設立しました。その名称は「AI価値実現オフィス」です。",
-    "image": "https://media.loom-app.com/loom/2026/08/16/a66c0304-6029-4ded-95cc-fcad879b98e6/original.jpg?w=1200",
-    "fetched_at": "2026-08-19 06:44:46",
-    "ja_summary": "・EYがAI導入と活用を専門に担う新組織「AI価値実現オフィス」を設立。\n・AIは既存の各部署では管理しきれない特性があるため、横断的な専任体制を構築。\n・全社的なAI戦略の推進と、具体的なビジネス価値の創出を加速させる狙い。"
-  },
-  {
-    "title": "AIで「採用を止めた」ソラコム。CEOとエンジニアトップに聞く「アフターAIの会社」の作り方",
-    "link": "https://www.businessinsider.jp/article/2608-soracom-interview-ai-hiring-strategy/",
-    "source": "Business Insider Japan",
-    "published": "Tue, 18 Aug 2026 21:10:00 GMT",
-    "summary": "生成AIの進化で「今まで通り採るのはリスク」と判断し、採用をいったん止めたソラコム。少人数開発や評価基準、AI時代の組織づくりについて、玉川憲氏と片山暁雄氏に聞きました。",
-    "image": "https://media.loom-app.com/loom/2026/08/18/045ffca2-f773-4db7-bafe-0a4b68858761/original.jpg?w=1200",
-    "fetched_at": "2026-08-19 06:44:46",
-    "ja_summary": "・生成AIの普及により、従来の採用方針がリスクになると判断し一時停止。\n・少人数でも高効率な開発体制へシフトし、AI時代に適した組織変革を断行。\n・AI活用を前提とした新たな評価基準と業務プロセスの構築を目指す。"
   }
 ]
