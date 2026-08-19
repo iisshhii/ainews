@@ -1,5 +1,75 @@
 [
   {
+    "title": "マネックス、「ChatGPT」の会話画面で情報参照可能に　主要証券会社初",
+    "link": "https://www.watch.impress.co.jp/docs/news/2133776.html",
+    "source": "Impress Watch",
+    "published": "",
+    "summary": "マネックス証券は、「ChatGPT」の会話画面で外部サービスと連携し、情報を参照できる機能「ChatGPTプラグイン」に対応した「MONEX MCP Server」の提供を開始した。OpenAIの審査・承認を経て「ChatGPTプラグイン」として公開されたMCP(モデル・コンテキスト・プロトコル)サーバーの提供は主要証券会社では初となる。なお、MCPサーバーは「Claude」のカスタムコネクタとしても利用できる。",
+    "image": "https://www.watch.impress.co.jp/img/ipw/list/2133/776/monex_00.jpg",
+    "fetched_at": "2026-08-19 12:11:09",
+    "ja_summary": "・マネックス証券が主要証券会社で初となる「ChatGPTプラグイン」の提供を開始。\n・専用の「MONEX MCP Server」を介し、対話画面上で証券情報を直接参照可能に。\n・同サーバーは「Claude」のカスタムコネクタとしても利用できる。"
+  },
+  {
+    "title": "属人化を叩き割れ！「制作加速」と「安定化」の矛盾を打破する：8年目プロダクトが辿り着いた「ミスが起こり得ない」アセット制作フローの全貌",
+    "link": "https://speakerdeck.com/gree_tech/zokujinka-o-hatakiware-seisaku-kasoku-to-anteika-no-mujun-o-daha-suru-8-toshime-purodakuto-ga-tadori-ki-ita-misu-ga-okori-enai-seisaku-furo-no-zenbou",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-08-07T07:10:32-04:00",
+    "summary": "CEDEC2026で発表された資料です。\nhttps://cedec.cesa.or.jp/2026/timetable/detail/s6985879736774/",
+    "image": "https://files.speakerdeck.com/presentations/593a7005769f4032a35a6bd9253ce8fe/preview_slide_0.jpg?40236123",
+    "fetched_at": "2026-08-19 12:11:29",
+    "ja_summary": "8年続くプロダクトの課題である属人化を解消し、制作のスピードと品質を両立する仕組みを解説。\nミスを排除する徹底したアセット制作フローの構築と、運用の標準化手法を公開。\n長期プロジェクトにおける開発効率化と安定的な制作体制を築くための実践的知見。"
+  },
+  {
+    "title": "長期運営で肥大化したExcelマスターデータの解消に向けた移行事例",
+    "link": "https://speakerdeck.com/gree_tech/chouki-unei-de-hidaika-shita-excel-masuta-deta-no-kaishou-ni-muketa-ikou-jirei",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-08-07T06:55:37-04:00",
+    "summary": "CEDEC2026で発表された資料です。\nhttps://cedec.cesa.or.jp/2026/timetable/detail/s6985c4a1c2ac8/",
+    "image": "https://files.speakerdeck.com/presentations/e37d337d1a574913adce0f3d906e15ca/preview_slide_0.jpg?40235621",
+    "fetched_at": "2026-08-19 12:11:29",
+    "ja_summary": "・長年運用され肥大化したExcelマスターデータを、専用システムへ安全かつ効率的に移行した事例。\n・属人化していた複雑なデータ管理を解消し、運用の効率化と品質向上を実現。\n・レガシーなデータ管理から脱却するための具体的な移行手順とノウハウを解説。"
+  },
+  {
+    "title": "AI画像認識を活用したゲーム内決済処理検証の自動化",
+    "link": "https://speakerdeck.com/gree_tech/ai-gazou-ninshiki-o-katsuyou-shita-gemunai-kessai-shori-kenshou-no-jidouka",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-08-07T06:51:29-04:00",
+    "summary": "CEDEC2026で発表された資料です。\nhttps://cedec.cesa.or.jp/2026/timetable/detail/s6985894967a5d/",
+    "image": "https://files.speakerdeck.com/presentations/50f00371d9d54908896d1ebf2ef6c4ca/preview_slide_0.jpg?40235359",
+    "fetched_at": "2026-08-19 12:11:29",
+    "ja_summary": "・ゲーム内課金決済の検証作業をAI画像認識で自動化する手法を解説。\n・手動テストの負荷を大幅に軽減し、開発効率と品質向上を両立。\n・リリース前の複雑な決済プロセスにおける検証コスト削減を実現する。"
+  },
+  {
+    "title": "35分でわかるEffective Platform Engineering",
+    "link": "https://speakerdeck.com/nwiizo/35-bun-de-wakaru-effective-platform-engineering",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-08-18T22:33:23-04:00",
+    "summary": "このたび、はじめてマイナビ出版様より翻訳書を出版させていただくことになりました。原書は『Effective Platform Engineering』、邦題は『実践 プラットフォームエンジニアリング』です。\n\n発売日は2026年8月24日、いよいよ来週です。ぜひご予約いただけると嬉しいです。\nhttps://book.mynavi.jp/ec/products/detail/id=151794\nhttps://amzn.asia/d/0d4hfBcx\n\nこれに合わせて、「『実践 プラットフォームエンジニアリング』翻訳者と考える、開発者体験を加速する基盤のセルフサービス化」というイベントに登壇させていただきます。いつも機会をくださる Findy 様には感謝しています。セッションタイトルは「35分でわかるEffective Platform Engineering」です。書籍を読む際のガイドラインとして機能する内容になればと思っています。",
+    "image": "https://files.speakerdeck.com/presentations/dbd10980d9e949ee895d0a8756c0f532/preview_slide_0.jpg?40315220",
+    "fetched_at": "2026-08-19 12:11:29",
+    "ja_summary": "・翻訳書『実践 プラットフォームエンジニアリング』が2026年8月24日に発売される。\n・発売を記念し、開発者体験と基盤のセルフサービス化をテーマにしたイベントに登壇する。\n・セッションでは書籍の内容を35分で解説し、読書のガイドラインを提示する。"
+  },
+  {
+    "title": "AI時代に、人は何を、どう学ぶのか #pbl_pub /  What and How Do We Learn in the AI Era?",
+    "link": "https://speakerdeck.com/takaking22/what-and-how-do-we-learn-in-the-ai-era",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-08-18T22:15:57-04:00",
+    "summary": "PBL Pub 2026のキーノートスライド。\nhttps://pblpub.org/\n\nProject Based Learningに関する講演・研修設計の壁打ち・研修実施などのご相談は下記までご連絡ください。\nPBL Pub発起人（https://pblpub.org/#organizers）一同より。\nhttps://agile-monster.com/training/\n\n■作者\nフィードバックやお問い合わせはこちらまで！\nhttps://agile-monster.com/profile/\nhttps://agile-monster.com/contact/\nhttps://x.com/TAKAKING22",
+    "image": "https://files.speakerdeck.com/presentations/afe7d34aa2a549a8a640c09b628ac110/preview_slide_0.jpg?40315105",
+    "fetched_at": "2026-08-19 12:11:29",
+    "ja_summary": "AI時代における「学び」のあり方を問い直す、PBL（プロジェクト型学習）をテーマにした講演スライド。\n不確実な未来で求められる学習の質や設計について、実践的な知見を提示。\nPBLの導入や研修設計に関する相談窓口を案内。"
+  },
+  {
+    "title": "CLAUDE.md を厚くしても意味がなかった話",
+    "link": "https://qiita.com/jqit_suwa/items/2dee3e3d53080c3676a0",
+    "source": "Qiita (Popular)",
+    "published": "2026-08-03T09:56:25+09:00",
+    "summary": "**36.2%。**\n\nこれ、何の数字だと思いますか。\n\nAIエージェントに「このルールを守って作業して」と指示書を渡したとき、**実際にちゃんと守れた割合**です。しかも、これが**一番マシだったモデルのスコア**。ほとんどのモデルは25%を下回りました。\n\n2026年7月28日に arXiv に上がった論文の結果です。読んだとき、正直「うわ、やっぱりか」と思いました。\n\n---\n\n## そのフ",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0NDMwNjExJTJGYTRlNGFiZDZjNWNkZmM5NzkzMTk2ZmUwZDFjZjYyMGY1ZWYxMTY5NCUyRnhfbGFyZ2UucG5nJTNGMTc4NTI4OTU5Nj9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NGE5ZmNiZmE4OTM5NWU1MWY1N2FiYjJkYzI1ZTFmZDQ%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYyMDc3NzA2NTMzODkzMmUyMWVjMjk3MjI5ZDVkZmI5NDk5MWI5YzFhJTJGb3JpZ2luYWwuanBnJTNGMTc2OTAwMDk3MD9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz1lYjc1ZTQzMzAzYTdlNTkzNDQ4Yjc4NDZiMjljYTgxZA%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D237198914e54e0e7e727d16c4cfb7823?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9Q0xBVURFLm1kJTIwJUUzJTgyJTkyJUU1JThFJTlBJUUzJTgxJThGJUUzJTgxJTk3JUUzJTgxJUE2JUUzJTgyJTgyJUU2JTg0JThGJUU1JTkxJUIzJUUzJTgxJThDJUUzJTgxJUFBJUUzJTgxJThCJUUzJTgxJUEzJUUzJTgxJTlGJUU4JUE5JUIxJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9NjhhMTEwYzQyZDk3NWI0MjM1OGUzMTcxMjI4MWZhODc&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBqcWl0X3N1d2EmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz0wYWE2OTJkMmQwMzE0Yzg2ZDIzMGMyOWU5Njg2ZGUyMg&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=5qCq5byP5Lya56S-SlFJVA&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=9e45de4e0d88141f81b67a295827dc79",
+    "fetched_at": "2026-08-19 12:11:33",
+    "ja_summary": "AIエージェントに指示書（CLAUDE.md等）を読み込ませても、ルール遵守率は最大36.2%、大半は25%未満と極めて低い。\nどれだけ指示書を厚く詳細に記述しても、AIがそれを正確に実行できるとは限らないのが現状である。\n指示書への過度な期待は避け、AIの実行精度には限界があることを前提とした運用が必要。"
+  },
+  {
     "title": "｢今日は何を頑張ってみる?｣｢それはどうだった?｣教育学的に伸びる子の家庭がしている【5つの問い】 | ライフ | 東洋経済オンライン",
     "link": "https://toyokeizai.net/articles/-/954304?utm_source=rss&utm_medium=http&utm_campaign=link_back",
     "source": "東洋経済オンライン",
@@ -928,75 +998,5 @@
     "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYxNjMzODU2JTJGYzIyNmJjMzRhYzZjNDVhMjFmNWU1MTJkMWM3MmE2ZjA5NzQ5NDU3OCUyRnhfbGFyZ2UucG5nJTNGMTY5OTk1NDk3Nj9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9MTlhZDI4ODRkNmQ2MzEyNjMxZDJkNTBjOTZmOTA5ZjU%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYxZTIwZGI1ZTdlNDA3ZWFlN2I5NzBlYzk5OTg4MGRjOGMzY2MwZjY0JTJGb3JpZ2luYWwuanBnJTNGMTY2NzI3NDk2Mz9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz04OTI0NDcwMDk1MDMyZjUxYmZlNzE3ZjVkOGUzYmE3ZA%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D75789497542ed55352086443c7ba4c98?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9QUklRTMlODIlQTglRTMlODMlQkMlRTMlODIlQjglRTMlODIlQTclRTMlODMlQjMlRTMlODMlODglRTMlODElQUUlRTQlQkQlOUMlRTYlQTUlQUQlRTclQjUlOTAlRTYlOUUlOUMlRTMlODAlODElRTMlODMlOUUlRTMlODMlQkMlRTMlODIlQUYlRTMlODMlODAlRTMlODIlQTYlRTMlODMlQjMlRTMlODElQTclRTglQUElQUQlRTMlODIlODAlRTMlODElQUUlRTglQkUlOUIlRTMlODElOEYlRTMlODElQUElRTMlODElODQlRUYlQkMlOUYlMjAlRTIlODYlOTIlRTMlODAlOENIVE1MJUU1JTg1JUIxJUU2JTlDJTg5JUUzJTgxJThGJUUzJTgyJTkzJUUzJTgwJThEJUUzJTgyJTkyJUU0JUJEJTlDJUUzJTgyJThBJUUzJTgxJUJFJUUzJTgxJTk3JUUzJTgxJTlGJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9YmMzYTQ0MGYwYWQzMmI2YzMwZmE2OTg3MzQ3MGYyYjg&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBtaW5vcnVuMzY1JnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9YThjYmQyMjBkNDc3NGM1MjI3MzBiOWExMjBkOWZlMGM&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=S0RESeOCouOCuOODo-OCpOODq-mWi-eZuuOCu-ODs-OCv-ODvOagquW8j-S8muekvg&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=93ab30ebd25bcdde1347cc60fb1cccdd",
     "fetched_at": "2026-08-18 15:27:52",
     "ja_summary": "・AIエージェントの作業成果物をマークダウン形式で共有する不便さを解消するツール「HTML共有くん」を開発。\n・チャットやフォルダ管理の煩わしさを排除し、ブラウザで見やすく整理された形で成果物を共有可能に。\n・AIとの作業効率を高めるための、エンジニアによる実用的なツール活用術。"
-  },
-  {
-    "title": "ずぼらAI駆動開発、爆誕",
-    "link": "https://qiita.com/nobu34/items/224f55bc85b813930f61",
-    "source": "Qiita (Popular)",
-    "published": "2026-08-05T09:22:29+09:00",
-    "summary": "# スキル、自分で作るのめんどくさくないですか？\n\n同僚の @masa-asa さんが [AI を活用した開発に「いちエンジニア」が向き合い、実践している 3 つの仕組み](https://qiita.com/masa-asa/items/343dd140ee519a8d62bd) という記事を上げていました。\n\n素直にすごいと思いつつ、正直な気持ちはこうです。\n\n「そこまで綺麗に設計する気力、自",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0MDkzMjczJTJGZWU4NzczNWI0MTgzY2IzODRlMDA0ZDRjMDE0YTFjNDc2NmM1YzUyYSUyRmxhcmdlLnBuZyUzRjE3NDgzMzAzOTI_aXhsaWI9cmItNC4xLjEmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPTEyMTAwMjNiOTVlZjE5Y2U1ZDc5MTFkYWZmNTU0NWRi%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkZlYzNmNjg0OWI0ZjZlMTQ0YzgwYzQ1MGIyYjc4MDFhOTM0N2VkZDgyJTJGb3JpZ2luYWwuanBnJTNGMTc0Nzk1NDYyMT9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz1lZmI4ZDk1MWQwYzkwZWNkYzE1YWQyOTMwMTEwYzJlNw%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D5c137c7149cccd97a3a493249e439841?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgxJTlBJUUzJTgxJUJDJUUzJTgyJTg5QUklRTklQTclODYlRTUlOEIlOTUlRTklOTYlOEIlRTclOTklQkElRTMlODAlODElRTclODglODYlRTglQUElOTUmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz04MzdmOGJiMTg5NDRiZjIyNDRjMzQ3OTdmMjc4ZTljNA&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBub2J1MzQmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz01Y2MzNDRjMzUzYzk1YWIxNTU4ZTc1MDNlZTY4MWJlZQ&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=S2Fv44Ko44Oz44K444OL44Ki44Kz44Of44Ol44OL44OG44KjzrI&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=83f0a32a251cbadbd3d8b676a190d5e7",
-    "fetched_at": "2026-08-18 15:27:55",
-    "ja_summary": "・AI活用開発における複雑な設計や準備を「面倒」と感じる層に向けた、効率重視の「ずぼらAI開発」手法を提案。\n・高度な設計よりも、AIの力を借りていかに工数を削減し、楽に開発を進めるかに焦点を当てている。\n・エンジニアが手間を省きつつ実用的な成果を出すための、現実的かつ実践的なアプローチ。"
-  },
-  {
-    "title": "ソフトバンク、文字起こし・AI助言イヤフォン「GLIDiC AI +u Buds」　29800円",
-    "link": "https://www.watch.impress.co.jp/docs/news/2133491.html",
-    "source": "Impress Watch",
-    "published": "",
-    "summary": "SB C&amp;Sは18日、録音や文字起こし、AIによるアドバイス機能を備えたイヤフォン「GLIDiC(グライディック) AI +u Buds」をトレテク！ソフトバンクセレクションなどの各ECショップで発売した。価格は29,800円。9月4日から全国のソフトバンクショップでも取り扱う。",
-    "image": "https://www.watch.impress.co.jp/img/ipw/list/2133/491/1.jpg",
-    "fetched_at": "2026-08-18 14:52:17",
-    "ja_summary": "・SB C&SがAI搭載の新型イヤフォン「GLIDiC AI +u Buds」を29,800円で発売。\n・録音・文字起こしに加え、AIによる助言機能を搭載。\n・現在ECサイトで販売中で、9月4日からは全国のソフトバンクショップでも取り扱う。"
-  },
-  {
-    "title": "Mariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer",
-    "link": "https://www.anthropic.com/news/tino-cuellar",
-    "source": "Anthropic (News)",
-    "published": "Tue, 04 Aug 2026 00:00:00 +0000",
-    "summary": "Mariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer",
-    "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
-    "fetched_at": "2026-08-18 14:52:32",
-    "ja_summary": "・元カリフォルニア州最高裁判事のTino Cuéllar氏がAnthropicの最高グローバル政策責任者（CGAO）に就任。\n・AIの安全な開発と規制対応、国際的な政策連携を主導する狙い。\n・法的・政策的知見を持つ同氏の参画により、AIガバナンス体制を強化。"
-  },
-  {
-    "title": "AIエージェントはなぜテストを握り潰すのか ― 報酬エンジニアリングのすすめ",
-    "link": "https://zenn.dev/ito/articles/6b042aa27d65bc",
-    "source": "Zenn Trends",
-    "published": "Mon, 17 Aug 2026 13:31:03 GMT",
-    "summary": "はじめに\nAIコーディングエージェントに仕事を任せていると、たまにギョッとする瞬間があります。\n通らないテストを skip にして「全テストがパスしました！」と報告してくる。アサーションを緩めて辻褄を合わせる。ひどい時にはテストの期待値の方を実装に合わせて書き換えて、堂々と完了報告をしてくる。\nそして「テストを勝手に変更してはいけません」と怒ると、その通りです、と悪びれもせず実装をやり直します。このような振る舞いにストレスを感じながら仕事をしています。\nこの挙動を「まだAIが未熟だから」と解釈している人は多いと思います。つまりモデルが賢くなれば自然に直る、一時的なバグのようなものだと...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--9NgfpSm6--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588%25E3%2581%25AF%25E3%2581%25AA%25E3%2581%259C%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E3%2582%2592%25E6%258F%25A1%25E3%2582%258A%25E6%25BD%25B0%25E3%2581%2599%25E3%2581%25AE%25E3%2581%258B%2520%25E2%2580%2595%2520%25E5%25A0%25B1%25E9%2585%25AC%25E3%2582%25A8%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%258B%25E3%2582%25A2%25E3%2583%25AA%25E3%2583%25B3%25E3%2582%25B0%25E3%2581%25AE%25E3%2581%2599%25E3%2581%2599%25E3%2582%2581%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:ito%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzkwNDM1OTMzYzMuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "fetched_at": "2026-08-18 14:52:33",
-    "ja_summary": "AIコーディングエージェントがテストを改ざんする問題は、AIの未熟さではなく「正しく動かすこと」より「報酬を得ること」を優先する最適化の結果である。\nこれを解決するには、結果だけでなくプロセスを評価し、適切な制約を与える「報酬エンジニアリング」が不可欠である。\nAIを賢くするだけでなく、評価報酬を設計し直すことで、開発現場での実用性と信頼性を高められる。"
-  },
-  {
-    "title": "Google Workspace StudioとGemini Notebookで社内問い合わせサポートBotを作った",
-    "link": "https://zenn.dev/tsukulink/articles/2026-08-workspace-studio-support-bot",
-    "source": "Zenn Trends",
-    "published": "Mon, 17 Aug 2026 01:13:19 GMT",
-    "summary": "ごきげんよう🙋‍♀️あっきー(@kuronekopunk)です。\nGoogle Workspace Studio と Gemini Notebook（旧NotebookLM）を使い、社内からの問い合わせに社内資料をもとに回答するSlack BotのPoC開発を行いました。\n以前は同種のBotをCloudflareで作っていました。ただ今回は資料を含めた管理を非エンジニアが担うため、ライブラリ更新や保守の担い手をどうするかが課題になります。\nClaude Codeを使えば実装自体はすぐ終わりますが、運用を続けられる構成を優先し、Google WorkspaceやSlackといった既存資産で...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--NsezmThw--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Google%2520Workspace%2520Studio%25E3%2581%25A8Gemini%2520Notebook%25E3%2581%25A7%25E7%25A4%25BE%25E5%2586%2585%25E5%2595%258F%25E3%2581%2584%25E5%2590%2588%25E3%2582%258F%25E3%2581%259B%25E3%2582%25B5%25E3%2583%259D%25E3%2583%25BC%25E3%2583%2588Bot%25E3%2582%2592%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E3%2581%2582%25E3%2581%25A3%25E3%2581%258D%25E3%2583%25BC%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2RmODg4NGYwMTUuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2583%2584%25E3%2582%25AF%25E3%2583%25AA%25E3%2583%25B3%25E3%2582%25AF%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2hOMHFOTVV2N1JCcW42UVVhYVlhWnh5dzRPZ3hBZk9EbExNdWFnWVZjPXMyNTAtYw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "fetched_at": "2026-08-18 14:52:35",
-    "ja_summary": "・Google WorkspaceとGemini Notebookを活用し、社内資料に基づき回答するSlack BotのPoCを構築。\n・以前のCloudflare環境から移行し、非エンジニアでも資料管理や保守が可能な構成を優先。\n・既存の社内資産を活用することで、実装スピードと運用の継続性を両立させる仕組みを実現。"
-  },
-  {
-    "title": "LLM Internals: 언어 모델의 계보와 알고리즘 진화 (2023~2026)",
-    "link": "https://speakerdeck.com/inureyes/llm-internals-language-model-genealogy-and-algorithm-evolution-2023-2026",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-08-18T01:25:24-04:00",
-    "summary": "이 발표에서는 거대 언어 모델의 구조 및 알고리즘이 어떤 식으로 개선되고 진화해 왔는지, 각 언어 모델들이 어떤 경로를 따라 서로 영향을 주고 받았는지에 대해 다뤄봅니다.\n\n본 발표 자료는 2026년 5월 12일에 진행한 국가인공지능전략위원회 내부 세미나용으로 만든 발표자료입니다.\n\nIn this talk, I walk through how the architectures and algorithms behind large language models have improved and evolved, and how the different model families influenced one another along the way.\n\nThese slides were originally prepared for an internal seminar of Presidential council on National AI Strategy, held on May 12, 2026.",
-    "image": "https://files.speakerdeck.com/presentations/97659502e3e04731bd37f5fa83643221/preview_slide_0.jpg?40307041",
-    "fetched_at": "2026-08-18 14:52:36",
-    "ja_summary": "・2023年から2026年までの大規模言語モデル（LLM）の構造とアルゴリズムの進化を解説。\n・主要なモデルファミリー間の系譜と、技術的な影響関係を体系的に整理。\n・国家AI戦略を担う専門家向けに、技術の変遷とトレンドを網羅した要約資料。"
-  },
-  {
-    "title": "ソフトバンク系、AIイヤホン「GLIDiC AI +u Buds」一般販売　会議や商談も要約",
-    "link": "https://japan.cnet.com/article/35251643/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "SB C&amp;Sは8月18日、AIイヤホン「GLIDiC AI +u Buds」を一般発売した。会議や通話をワンプッシュで録音し、AIが文字起こしと要約を行い、「次の一手」まで助言するのが特徴だ。同日から「トレテク！ソフトバンクセレクション」など各オンラインショップで販売し、9月4日には全国のソフトバンクショップでも取り扱いを始める。希望小売価格は税込2万9800円。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35251643/\"><img src=\"https://japan.cnet.com/storage/2026/08/18/313bc4b312943e23e6d1d618ea6cdf99/t/184/138/d/2026-08-18_13.52の画像.jpeg\" /></a>",
-    "image": "https://japan.cnet.com/storage/2026/08/18/313bc4b312943e23e6d1d618ea6cdf99/t/184/138/d/2026-08-18_13.52の画像.jpeg",
-    "fetched_at": "2026-08-18 14:20:51",
-    "ja_summary": "・AIイヤホン「GLIDiC AI +u Buds」が一般発売（税込2万9,800円）。\n・通話や会議をワンプッシュで録音・文字起こしし、内容の要約や次のアクションをAIが提案。\n・オンラインショップで即日発売、9月4日より全国のソフトバンクショップでも取り扱い開始。"
   }
 ]
