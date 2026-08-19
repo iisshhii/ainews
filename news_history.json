@@ -1,5 +1,35 @@
 [
   {
+    "title": "PROLICA LIGHT",
+    "link": "https://xtech.nikkei.com/atcl/nxt/mag/ncr/18/00008/080700577/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "GRIFFYは、建設現場向けAI（人工知能）侵入検知ソリューション「PROLICA LIGHT」のレンタルを開始した。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/mag/ncr/18/00008/080700577/90-03_sns.jpg?20220512",
+    "fetched_at": "2026-08-20 02:18:53",
+    "ja_summary": "・GRIFFYが建設現場向けAI侵入検知「PROLICA LIGHT」のレンタルを開始。\n・現場のセキュリティ対策を、導入しやすいレンタル形式で提供。"
+  },
+  {
+    "title": "読者から",
+    "link": "https://xtech.nikkei.com/atcl/nxt/mag/ncr/18/00009/080700316/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "米国のZ世代でブルーカラーへの関心が高まっているという。深刻な人手不足に伴う待遇改善や、生成AI（人工知能）の台頭によるホワイトカラーの雇用不安が背景にあるようだ。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/mag/ncr/18/00009/080700316/sns.jpg?20220512",
+    "fetched_at": "2026-08-20 02:18:54",
+    "ja_summary": "・米Z世代でブルーカラー職の人気が上昇中。\n・人手不足による待遇改善と、AI台頭によるホワイトカラーの雇用不安が背景。\n・働き方の価値観が、AIに代わられない「手に職」へと変化している。"
+  },
+  {
+    "title": "Offering Zero Data Retention for frontier models",
+    "link": "https://openai.com/index/our-commitment-to-zero-data-retention",
+    "source": "OpenAI",
+    "published": "Wed, 19 Aug 2026 19:00:00 GMT",
+    "summary": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/4bH42IUP1LSYL5WNIs0ya1/ed6b0e324c8f142d964229474d7ee601/codex-seo-private-intelligence-v3-1787157696296.png?w=1600&amp;h=900&amp;fit=fill",
+    "fetched_at": "2026-08-20 02:19:13",
+    "ja_summary": "・OpenAIはAPI利用企業のデータ保持ゼロ（Zero Data Retention）方針を再確認。\n・入力データを学習に使用しない「Private Safety Processing」を導入。\n・プライバシーを保護しつつ、高度なAI安全対策を両立する仕組みを拡充。"
+  },
+  {
     "title": "｢今日は何を頑張ってみる?｣｢それはどうだった?｣教育学的に伸びる子の家庭がしている【5つの問い】 | ライフ | 東洋経済オンライン",
     "link": "https://toyokeizai.net/articles/-/954304?utm_source=rss&utm_medium=http&utm_campaign=link_back",
     "source": "東洋経済オンライン",
@@ -968,35 +998,5 @@
     "image": "https://files.speakerdeck.com/presentations/593a7005769f4032a35a6bd9253ce8fe/preview_slide_0.jpg?40236123",
     "fetched_at": "2026-08-19 12:11:29",
     "ja_summary": "8年続くプロダクトの課題である属人化を解消し、制作のスピードと品質を両立する仕組みを解説。\nミスを排除する徹底したアセット制作フローの構築と、運用の標準化手法を公開。\n長期プロジェクトにおける開発効率化と安定的な制作体制を築くための実践的知見。"
-  },
-  {
-    "title": "長期運営で肥大化したExcelマスターデータの解消に向けた移行事例",
-    "link": "https://speakerdeck.com/gree_tech/chouki-unei-de-hidaika-shita-excel-masuta-deta-no-kaishou-ni-muketa-ikou-jirei",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-08-07T06:55:37-04:00",
-    "summary": "CEDEC2026で発表された資料です。\nhttps://cedec.cesa.or.jp/2026/timetable/detail/s6985c4a1c2ac8/",
-    "image": "https://files.speakerdeck.com/presentations/e37d337d1a574913adce0f3d906e15ca/preview_slide_0.jpg?40235621",
-    "fetched_at": "2026-08-19 12:11:29",
-    "ja_summary": "・長年運用され肥大化したExcelマスターデータを、専用システムへ安全かつ効率的に移行した事例。\n・属人化していた複雑なデータ管理を解消し、運用の効率化と品質向上を実現。\n・レガシーなデータ管理から脱却するための具体的な移行手順とノウハウを解説。"
-  },
-  {
-    "title": "AI画像認識を活用したゲーム内決済処理検証の自動化",
-    "link": "https://speakerdeck.com/gree_tech/ai-gazou-ninshiki-o-katsuyou-shita-gemunai-kessai-shori-kenshou-no-jidouka",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-08-07T06:51:29-04:00",
-    "summary": "CEDEC2026で発表された資料です。\nhttps://cedec.cesa.or.jp/2026/timetable/detail/s6985894967a5d/",
-    "image": "https://files.speakerdeck.com/presentations/50f00371d9d54908896d1ebf2ef6c4ca/preview_slide_0.jpg?40235359",
-    "fetched_at": "2026-08-19 12:11:29",
-    "ja_summary": "・ゲーム内課金決済の検証作業をAI画像認識で自動化する手法を解説。\n・手動テストの負荷を大幅に軽減し、開発効率と品質向上を両立。\n・リリース前の複雑な決済プロセスにおける検証コスト削減を実現する。"
-  },
-  {
-    "title": "35分でわかるEffective Platform Engineering",
-    "link": "https://speakerdeck.com/nwiizo/35-bun-de-wakaru-effective-platform-engineering",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-08-18T22:33:23-04:00",
-    "summary": "このたび、はじめてマイナビ出版様より翻訳書を出版させていただくことになりました。原書は『Effective Platform Engineering』、邦題は『実践 プラットフォームエンジニアリング』です。\n\n発売日は2026年8月24日、いよいよ来週です。ぜひご予約いただけると嬉しいです。\nhttps://book.mynavi.jp/ec/products/detail/id=151794\nhttps://amzn.asia/d/0d4hfBcx\n\nこれに合わせて、「『実践 プラットフォームエンジニアリング』翻訳者と考える、開発者体験を加速する基盤のセルフサービス化」というイベントに登壇させていただきます。いつも機会をくださる Findy 様には感謝しています。セッションタイトルは「35分でわかるEffective Platform Engineering」です。書籍を読む際のガイドラインとして機能する内容になればと思っています。",
-    "image": "https://files.speakerdeck.com/presentations/dbd10980d9e949ee895d0a8756c0f532/preview_slide_0.jpg?40315220",
-    "fetched_at": "2026-08-19 12:11:29",
-    "ja_summary": "・翻訳書『実践 プラットフォームエンジニアリング』が2026年8月24日に発売される。\n・発売を記念し、開発者体験と基盤のセルフサービス化をテーマにしたイベントに登壇する。\n・セッションでは書籍の内容を35分で解説し、読書のガイドラインを提示する。"
   }
 ]
