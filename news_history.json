@@ -1,5 +1,35 @@
 [
   {
+    "title": "「ティーン向けChatGPT」登場、依存リスクを軽減し学習を支援",
+    "link": "https://japan.cnet.com/article/35251667/",
+    "source": "CNET Japan",
+    "published": "",
+    "summary": "OpenAIは、若年層による生成AIツールの利用をめぐって懸念が高まる中、「ティーン向けChatGPT」の提供を開始したと発表した。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35251667/\"><img src=\"https://japan.cnet.com/storage/2026/08/19/38ca44beb9591f37ebce74fb32d0d842/t/184/138/d/Parental-Controls-1_1280x960.jpg\" /></a>",
+    "image": "https://japan.cnet.com/storage/2026/08/19/38ca44beb9591f37ebce74fb32d0d842/t/184/138/d/Parental-Controls-1_1280x960.jpg",
+    "fetched_at": "2026-08-19 23:04:18",
+    "ja_summary": "・OpenAIが若年層向け「ティーン版ChatGPT」の提供を開始。\n・AIへの過度な依存を防ぎつつ、学習を効果的にサポートする設計。\n・若年層の安全な利用環境を確保し、利用上の懸念を軽減する狙い。"
+  },
+  {
+    "title": "AI事業者向け政府知財保護案 判明",
+    "link": "https://news.yahoo.co.jp/pickup/6592154?source=rss",
+    "source": "Yahoo!ニュース IT・科学",
+    "published": "Tue, 18 Aug 2026 02:38:17 GMT",
+    "summary": "",
+    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/8/18/60064fb833a3c54bd20ff1fdbad418f959df331eaa8e690a54c5d5e853b6b61d.jpg",
+    "fetched_at": "2026-08-19 23:04:21",
+    "ja_summary": "政府はAI開発時の著作権保護ルールを策定し、権利者との対話促進や透明性確保を企業に求める方針。\n生成AIによる著作権侵害のリスクを抑えつつ、AI産業の健全な育成を図る環境整備を進める。\n今後はガイドラインを具体化し、企業が守るべき知財保護の指針として早期の導入を目指す。"
+  },
+  {
+    "title": "Bypassing the Multimodal Tax: Framework-Free Hybrid RAG, Raw SQL RRF, and Live UI Telemetry",
+    "link": "https://speakerdeck.com/abedmatini/bypassing-the-multimodal-tax-framework-free-hybrid-rag-raw-sql-rrf-and-live-ui-telemetry",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-08-19T09:31:50-04:00",
+    "summary": "A framework-free approach to production RAG: parsing documents locally to avoid the \"multimodal tax\" of vision-API costs, running hybrid dense + sparse retrieval directly in PostgreSQL with Reciprocal Rank Fusion (no vector database, no LangChain), and wiring up full observability with Langfuse. Covers the schema, the raw SQL, agent mode vs. direct RAG, upload and query-time guardrails, and the economics of architecture-first optimization over prompt engineering. Fully reproducible via GitHub Codespaces.\nOriginally presented at AI Engineer World's Fair 2026, Online Track.",
+    "image": "https://files.speakerdeck.com/presentations/37f6d8cfb73548f285aa86d226a047dc/preview_slide_0.jpg?40322201",
+    "fetched_at": "2026-08-19 23:04:30",
+    "ja_summary": "・RAG構築において、高額なVision APIを使わずローカルで文書解析を行う手法でコストを大幅削減。\n・ベクトルDBやLangChainに依存せず、PostgreSQL上で直接SQLを走らせることでシステムを簡素化。\n・Langfuseによる可視化やガードレールの実装を網羅し、GitHubで即座に検証可能な再現性を確保。"
+  },
+  {
     "title": "継続のIBMとNEC　AI時代に適応へ",
     "link": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/080600564/080600003/",
     "source": "日経クロステック 総合",
@@ -968,35 +998,5 @@
     "image": "https://tk.ismcdn.jp/mwimgs/a/4/1200w/img_a47870a33ef8e2ffc95a8051277fc04298271.jpg?nextgen=false",
     "fetched_at": "2026-08-19 09:52:26",
     "ja_summary": "・AI時代の今、情報を単に分析する能力だけでは不十分。\n・東大入試の思考プロセスから学ぶべきは、自ら問いを立て決断する力。\n・「分析」で終わらず「決断」まで導ける人間こそが、真の競争力を手にする。"
-  },
-  {
-    "title": "【AI→｢高偏差値の価値｣は大暴落】｢正解を早く出せる人｣はもう評価されない…企業と大学が求める｢頭のいい人｣の新基準 | キャリア・教育 | 東洋経済オンライン",
-    "link": "https://toyokeizai.net/articles/-/953538?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-    "source": "東洋経済オンライン",
-    "published": "Wed, 19 Aug 2026 09:00:00 +0900",
-    "summary": "生成AIが瞬時に正解を出す時代､人間に求められる｢本当の頭のよさ｣とは何か？ その答えとなる｢一生食える地頭力｣の正体に迫ります。",
-    "image": "https://tk.ismcdn.jp/mwimgs/a/a/1200w/img_aaec0b21544ede6fadf63cb6c06cbc2f209160.jpg?nextgen=false",
-    "fetched_at": "2026-08-19 09:52:26",
-    "ja_summary": "・AIが正解を出す時代、単なる知識量や処理速度の価値は暴落している。\n・これからの人材には、AIを活用して問いを立てる力や、独自の視点を持つ「地頭力」が不可欠。\n・企業や大学が求める能力の基準が「正解を出す」ことから「正解を創る」ことへ変化している。"
-  },
-  {
-    "title": "アンソロピックのダリオ・アモデイCEO、AIへの世間の見方を変えるには重大な科学的ブレークスルーが必要だと語る",
-    "link": "https://www.businessinsider.jp/article/2608anthropic-ceo-dario-amodei-ai-public-opinion-cure-cancer/",
-    "source": "Business Insider Japan",
-    "published": "Tue, 18 Aug 2026 02:15:00 GMT",
-    "summary": "アンソロピックのアモデイCEOは、世間がAIを信頼していないと認め、AI企業は過大な約束をし、実力を十分に伝えてこなかったと述べました。",
-    "image": "https://media.loom-app.com/loom/2026/08/17/9c7d7df9-2e1a-4a96-aa31-e282b50dcb22/original.jpg?w=1200",
-    "fetched_at": "2026-08-19 09:52:45",
-    "ja_summary": "・AIへの信頼不足は、企業による過大広告と実力の不透明さが原因である。\n・信頼を獲得するには、単なる売り込みではなく重大な科学的進歩が必要だ。\n・AI業界は、実態を正確に伝え、技術的成果で信頼を構築すべきである。"
-  },
-  {
-    "title": "OpenAIの2人語る 注目の職種FDE",
-    "link": "https://news.yahoo.co.jp/pickup/6592242?source=rss",
-    "source": "Yahoo!ニュース IT・科学",
-    "published": "Wed, 19 Aug 2026 00:04:04 GMT",
-    "summary": "",
-    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/8/19/93956c8a240d6f8f530c107e2dbf14e5ed253f730a0a60cae683b79a82ef601a.jpg",
-    "fetched_at": "2026-08-19 09:52:47",
-    "ja_summary": "OpenAIが注目する「FDE（フルスタック・ディープラーニング・エンジニア）」は、AIモデルの構築から製品化までを一人で完結できる人材。\n技術力に加え、プロダクト思考と迅速な試行錯誤が求められ、AI時代の開発現場で最も必要とされる職種となっている。"
   }
 ]
