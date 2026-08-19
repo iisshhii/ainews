@@ -1,5 +1,55 @@
 [
   {
+    "title": "継続のIBMとNEC　AI時代に適応へ",
+    "link": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/080600564/080600003/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "日本IBMとNECは自前のメインフレームの提供を継続する。オープン環境やクラウドと適材適所で使い分ける方針だ。AIを活用しメインフレームのメンテナンスやモダナイズの効率化を図る。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/080600564/080600003/topm.jpg?20220512",
+    "fetched_at": "2026-08-19 22:24:23",
+    "ja_summary": "・日本IBMとNECがメインフレームの提供継続を決定\n・クラウドやオープン環境とAIを組み合わせた適材適所の活用を推進\n・AIによる保守・近代化の効率化で、時代に合わせた運用を目指す"
+  },
+  {
+    "title": "DeepSeekが外部調達で1兆円",
+    "link": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/040900481/080700035/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "中国DeepSeek（ディープシーク）が1兆2000億円を調達し、評価額は8兆円を超えたという。基盤モデルを公開しているため、米OpenAIなどと異なり企業が自社環境で運用できるのが特徴だ。改変や商用利用も可能な同モデルは、世界のAI勢力図を塗り替えるきっかけとなるのか。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/040900481/080700035/topm.jpg?20220512",
+    "fetched_at": "2026-08-19 22:24:25",
+    "ja_summary": "・中国DeepSeekが1兆2000億円を調達し、評価額が8兆円を突破。\n・自社環境での運用や改変が可能なオープンなモデルが最大の特徴。\n・米OpenAIなどの競合を脅かし、世界のAI勢力図を塗り替える可能性がある。"
+  },
+  {
+    "title": "億万長者ガンドラック氏が警告、「AIチップのアセットクラス化」は市場の天井のサインかもしれない",
+    "link": "https://www.businessinsider.jp/article/2608-jeff-gundlach-warns-ai-chip-strategy-may-signal-market-peak/",
+    "source": "Business Insider Japan",
+    "published": "Tue, 18 Aug 2026 22:30:00 GMT",
+    "summary": "「債券王」として知られる投資家ガンドラック氏は、急速に進化するテクノロジーを長期借り入れの担保に使うことの妥当性に疑問を呈しています。",
+    "image": "https://media.loom-app.com/loom/2026/08/18/0192c628-55ad-4130-97f4-fdd39f95cb4c/original.jpg?w=1200",
+    "fetched_at": "2026-08-19 22:24:32",
+    "ja_summary": "・「債券王」ガンドラック氏が、AIチップを担保にした融資の急増に警鐘を鳴らしている。\n・投機的な最新技術を資産価値として過大評価する動きは、市場の過熱と天井のサインである可能性が高い。\n・バブル崩壊のリスクを示唆しており、過度な楽観論に対する投資家の慎重な姿勢を促している。"
+  },
+  {
+    "title": "Anthropicの電子透かし導入発表直後に登場した透かし剥がしOSS「watermarks-remover」がClaude・Gemini・OpenAIに対応（生成AIクローズアップ）",
+    "link": "https://www.techno-edge.net/article/2026/08/17/5398.html",
+    "source": "TechnoEdge",
+    "published": "Mon, 17 Aug 2026 07:09:31 +0900",
+    "summary": "今回は、AIで書かれたことを表す電子透かしやメタデータを除去するオープンソースツール「watermarks-remover」を取り上げます。",
+    "image": "https://www.techno-edge.net/imgs/rss/33613.png",
+    "fetched_at": "2026-08-19 22:24:38",
+    "ja_summary": "AI生成テキストの電子透かしやメタデータを削除するOSS「watermarks-remover」が公開された。\n本ツールはAnthropic、Claude、Gemini、OpenAIの出力に対応している。\nAI判定や追跡を回避するツールが登場したことで、AI利用の透明性と技術的対策のいたちごっこが加速している。"
+  },
+  {
+    "title": "なぜ、AI時代においてC#は最適な言語の1つなのか？",
+    "link": "https://qiita.com/tomokusaba/items/45b66545bb7ea88e8403",
+    "source": "Qiita (Popular)",
+    "published": "2026-08-14T18:37:58+09:00",
+    "summary": "## はじめに\n\nAI が開発現場に入り込んだ今、私たちは「どの言語で書けば、AI と一緒に生産性を上げられるか」をあらためて考える必要があります。\n\nその問いに対して、私は C# をとても強く推したいです。\n\n理由はシンプルです。C# は、AI が生成するコードの質を**人間が早く見抜き、なおかつ安全に運用できる**ように設計された言語だからです。\n\nAI には、たとえ文法は正しくても、意味が崩",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmF2YXRhcnMuZ2l0aHVidXNlcmNvbnRlbnQuY29tJTJGdSUyRjQ2NTIzOTI0JTNGdiUzRDQ_aXhsaWI9cmItNC4xLjEmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPWE5MTY2YmFjZjY5ZDA0NDIzYmU2NjZlYTUyNjk2YzA4%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYwYTgwNDgwMTkwOGEyZjUyZjJlNmMwMjFlYTczM2NmMDhmZjE2MTA0JTJGb3JpZ2luYWwuanBnJTNGMTcyNjE5MDEyMD9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz1lMTNhZjBiNTcyNmFmNmU2ZDA4ZTc5YzE0ODQ4NjE2NQ%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3Da3f360d92e0185ef55780fbc45e879ff?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgxJUFBJUUzJTgxJTlDJUUzJTgwJTgxQUklRTYlOTklODIlRTQlQkIlQTMlRTMlODElQUIlRTMlODElOEElRTMlODElODQlRTMlODElQTZDJTIzJUUzJTgxJUFGJUU2JTlDJTgwJUU5JTgxJUE5JUUzJTgxJUFBJUU4JUE4JTgwJUU4JUFBJTlFJUUzJTgxJUFFMSVFMyU4MSVBNCVFMyU4MSVBQSVFMyU4MSVBRSVFMyU4MSU4QiVFRiVCQyU5RiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPWM3ZGM1YjgyN2I1OGE1YmRhMzNhMDU1ZWM5MTZlNTUx&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDB0b21va3VzYWJhJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9MjBiMWVkMzkzMTExNTI5MWJjYTU3MzE1ZTg5NDkxNGY&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=RnV0dXJlT25l5qCq5byP5Lya56S-&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=7b5975ec26dbaea7580556a3e6f40f04",
+    "fetched_at": "2026-08-19 22:24:45",
+    "ja_summary": "・C#はAI生成コードの品質を素早く判別し、安全に運用できる設計が強み。\n・AI時代において、生産性と信頼性を両立させる最適な開発言語の一つ。\n・コードの文法的・意味的な整合性を確保しやすく、AIとの協働に適している。"
+  },
+  {
     "title": "富士通機残り500台　20数社が方針未定",
     "link": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/080600564/080600002/",
     "source": "日経クロステック 総合",
@@ -948,55 +998,5 @@
     "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/8/19/93956c8a240d6f8f530c107e2dbf14e5ed253f730a0a60cae683b79a82ef601a.jpg",
     "fetched_at": "2026-08-19 09:52:47",
     "ja_summary": "OpenAIが注目する「FDE（フルスタック・ディープラーニング・エンジニア）」は、AIモデルの構築から製品化までを一人で完結できる人材。\n技術力に加え、プロダクト思考と迅速な試行錯誤が求められ、AI時代の開発現場で最も必要とされる職種となっている。"
-  },
-  {
-    "title": "AI事業者向け政府知財保護案 判明",
-    "link": "https://news.yahoo.co.jp/pickup/6592154?source=rss",
-    "source": "Yahoo!ニュース IT・科学",
-    "published": "Tue, 18 Aug 2026 02:38:17 GMT",
-    "summary": "",
-    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/8/18/60064fb833a3c54bd20ff1fdbad418f959df331eaa8e690a54c5d5e853b6b61d.jpg",
-    "fetched_at": "2026-08-19 08:36:37",
-    "ja_summary": "政府はAI事業者向けに、学習データの著作権侵害リスクを軽減するための知財保護指針を策定する。\n開発者が適法に学習を行うための判断基準を明確にし、権利者との摩擦を避ける環境を整える狙い。\nイノベーションを促進しつつ、クリエイターの権利保護との両立を目指す新たな枠組みとなる。"
-  },
-  {
-    "title": "「ティーン向けChatGPT」登場、依存リスクを軽減し学習を支援",
-    "link": "https://japan.cnet.com/article/35251667/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "OpenAIは、若年層による生成AIツールの利用をめぐって懸念が高まる中、「ティーン向けChatGPT」の提供を開始したと発表した。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35251667/\"><img src=\"https://japan.cnet.com/storage/2026/08/19/38ca44beb9591f37ebce74fb32d0d842/t/184/138/d/Parental-Controls-1_1280x960.jpg\" /></a>",
-    "image": "https://japan.cnet.com/storage/2026/08/19/38ca44beb9591f37ebce74fb32d0d842/t/184/138/d/Parental-Controls-1_1280x960.jpg",
-    "fetched_at": "2026-08-19 08:13:59",
-    "ja_summary": "・OpenAIが若年層向けに「ティーン向けChatGPT」の提供を開始。\n・依存リスクを軽減しつつ、学習をサポートする安全な環境を提供。\n・生成AI利用への懸念に応え、若年層の利用環境を適切に管理する狙い。"
-  },
-  {
-    "title": "How NVIDIA scales expertise with ChatGPT Work",
-    "link": "https://openai.com/index/nvidia/chatgpt-work",
-    "source": "OpenAI",
-    "published": "Tue, 18 Aug 2026 00:00:00 GMT",
-    "summary": "NVIDIA teams use ChatGPT Work to reduce manual tasks, connect fast-moving signals, and scale successful workflows globally.",
-    "image": "https://images.ctfassets.net/kftzwdyauwt9/6RhjxQ1ewqWaktRVBFH3xn/3c48b64407347215ebdb47b70e16bac9/oai_NVIDIA_SEO__2_.png?w=1600&amp;h=900&amp;fit=fill",
-    "fetched_at": "2026-08-19 08:14:07",
-    "ja_summary": "・NVIDIAはChatGPT Workを活用し、手作業の削減と業務フローの効率化を実現。\n・迅速な情報連携により、社内の知見や成功事例をグローバル規模で共有・活用。\n・生産性の向上を図り、専門性の高い業務への集中を促進。"
-  },
-  {
-    "title": "Webサービスのスクショ付きガイドブックをPlaywright + LLMで自動生成・更新できるようにした",
-    "link": "https://zenn.dev/dev_commune/articles/acb91817341f8f",
-    "source": "Zenn Trends",
-    "published": "Mon, 17 Aug 2026 09:25:27 GMT",
-    "summary": "こんにちは、コミューンでプロダクトマネージャーをしているひぐ(@zerebom_3)です。\nWebサービスを多くの方に使っていただくには、わかりやすく網羅的なガイドブックが欠かせません。\nhttps://learn.hex.tech/docs\nhttps://code.claude.com/docs/ja/overview\nhttps://linear.app/docs\n(↑わかりやすく網羅的なガイドブックの皆様)\nしかし、ガイドブックを作り、メンテナンスし続けることには多くの労力がかかります。\nそこで、ブラウザ自動操作ツールとLLMを使って、ガイドブックを自動生成できないか試してみまし...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--wY0Wnu7p--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Web%25E3%2582%25B5%25E3%2583%25BC%25E3%2583%2593%25E3%2582%25B9%25E3%2581%25AE%25E3%2582%25B9%25E3%2582%25AF%25E3%2582%25B7%25E3%2583%25A7%25E4%25BB%2598%25E3%2581%258D%25E3%2582%25AC%25E3%2582%25A4%25E3%2583%2589%25E3%2583%2596%25E3%2583%2583%25E3%2582%25AF%25E3%2582%2592Playwright%2520%252B%2520LLM%25E3%2581%25A7%25E8%2587%25AA%25E5%258B%2595%25E7%2594%259F%25E6%2588%2590%25E3%2583%25BB%25E6%259B%25B4%25E6%2596%25B0%25E3%2581%25A7%25E3%2581%258D%25E3%2582%258B%25E3%2582%2588%25E3%2581%2586%25E3%2581%25AB%25E3%2581%2597%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:zerebom%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2Y1MTE3MTI5NDIuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2582%25B3%25E3%2583%259F%25E3%2583%25A5%25E3%2583%25BC%25E3%2583%25B3%25E6%25A0%25AA%25E5%25BC%258F%25E4%25BC%259A%25E7%25A4%25BE%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzUwN2FmMmVhNDMuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "fetched_at": "2026-08-19 08:14:10",
-    "ja_summary": "・Webサービスの運用において負担の大きいガイドブック作成と更新を自動化する仕組みを構築。\n・ブラウザ自動操作ツール「Playwright」と「LLM」を組み合わせ、スクリーンショット付きのガイドを効率的に生成。\n・メンテナンスコストを大幅に削減し、網羅的で最新のドキュメント維持を可能にする手法。"
-  },
-  {
-    "title": "hachimaki37/20260817-aI-day",
-    "link": "https://speakerdeck.com/hachimaki37/20260817-ai-day",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-08-17T21:00:42-04:00",
-    "summary": "社内LTで発表した資料です。\n\nDeNA社が2026年3月の「AI Day 2026」で、AIオールイン宣言から1年の振り返りを話していて、面白かったので題材にしました。生産性20倍や法務チェック−90%など、数字だけ見るとすごい成果ですが、南場さんの話の中に「作業が楽になった分、自分たちで仕事を詰め込んでいた」という一節があり、そこが今回の本題です。",
-    "image": "https://files.speakerdeck.com/presentations/2df2d5a180cd42e0b35122aedbe651ce/preview_slide_0.jpg?40304937",
-    "fetched_at": "2026-08-19 08:14:11",
-    "ja_summary": "DeNAのAI活用で生産性が劇的に向上したが、効率化で空いた時間が新たな業務で埋まり、労働密度の高止まりが課題となっている。\nAI導入の真の目的は単なる作業効率化ではなく、創出された時間をどう活用するかという「仕事の質」の変革にある。\n数字上の成果に踊らされず、AIがもたらす余白をどう戦略的に使うべきかを問い直す内容。"
   }
 ]
