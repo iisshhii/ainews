@@ -1,5 +1,55 @@
 [
   {
+    "title": "ティーン向けChatGPT開始　“解答だけ出さない”学習機能",
+    "link": "https://www.watch.impress.co.jp/docs/news/2133797.html",
+    "source": "Impress Watch",
+    "published": "",
+    "summary": "OpenAIは、13〜17歳のユーザーを対象とした「ティーン向けChatGPT(ChatGPT for Teens)」を導入する。学習支援機能や年齢に応じた安全対策を標準で備え、システムがユーザーを18歳未満と推定した場合、または13〜17歳だと申告した場合に自動的に適用する。",
+    "image": "https://www.watch.impress.co.jp/img/ipw/list/2133/797/00.jpg",
+    "fetched_at": "2026-08-20 06:17:29",
+    "ja_summary": "・OpenAIが13〜17歳向けに「ティーン版ChatGPT」を導入。\n・答えを教えるのではなく、学習を促すサポート機能を搭載。\n・年齢に応じた安全対策が自動適用される仕組み。"
+  },
+  {
+    "title": "「Claude Code vs. Codex」、両方を使う場合と必要に応じて選ぶ方法",
+    "link": "https://japan.zdnet.com/article/35251534/",
+    "source": "ZDNET Japan",
+    "published": "",
+    "summary": "「Claude Code」とOpenAIの「Codex」は高性能だが、サブスクリプション、コーディング環境、隠れたエコシステムの利点によりどちらかがより適している場合もある。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35251534/\"><img src=\"https://japan.zdnet.com/storage/2026/08/13/4364aa8f79fa028a4081d4bef9c7a9c4/t/184/138/d/icons-use_l.jpg\" /></a>",
+    "image": "https://japan.zdnet.com/storage/2026/08/13/4364aa8f79fa028a4081d4bef9c7a9c4/t/184/138/d/icons-use_l.jpg",
+    "fetched_at": "2026-08-20 06:17:39",
+    "ja_summary": "・Claude CodeとCodexはそれぞれ強みが異なり、用途に応じて使い分けが必要。\n・コストや開発環境、エコシステムへの適合性を比較して選択すべき。\n・両者の特徴を理解することで、業務効率を最大化する最適なツール選定が可能になる。"
+  },
+  {
+    "title": "IBM、AI投資とビジネス成果を結びつけて可視化する新機能を発表",
+    "link": "https://japan.zdnet.com/article/35251674/",
+    "source": "ZDNET Japan",
+    "published": "",
+    "summary": "米Apptioは、AI投資対効果の測定を支援する新機能「IBM Apptio AI Value ＆ ROI」のパブリックプレビュー版の提供を開始した。「IBM Apptio AI TCO ＆ Usage」か「IBM Apptio Costing Standard」を利用するユーザー企業が利用できる。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35251674/\"><img src=\"https://japan.zdnet.com/storage/2026/08/19/9725bf7d7820be0ad800ceb7cc027a29/t/184/138/d/20260819_adobestock_502220085_startup_1280x960.jpg\" /></a>",
+    "image": "https://japan.zdnet.com/storage/2026/08/19/9725bf7d7820be0ad800ceb7cc027a29/t/184/138/d/20260819_adobestock_502220085_startup_1280x960.jpg",
+    "fetched_at": "2026-08-20 06:17:39",
+    "ja_summary": "・IBM傘下のApptioが、AI投資によるビジネス成果やROIを可視化する新機能を発表。\n・既存のApptio利用企業向けにパブリックプレビュー版の提供を開始。\n・AI導入にかかるコストや費用対効果を客観的に測定し、経営判断を支援する。"
+  },
+  {
+    "title": "ChatGPT Ads expands across Europe",
+    "link": "https://openai.com/index/chatgpt-ads-expands-across-europe",
+    "source": "OpenAI",
+    "published": "Tue, 18 Aug 2026 22:00:00 GMT",
+    "summary": "ChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach people as they explore, compare options, and make decisions.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/OvScmX8CxThRRwHLDcyAt/6db3028c57d0866137a4b3fcac0e3166/chatgpt-ads-europe-readable-seo.png?w=1600&amp;h=900&amp;fit=fill",
+    "fetched_at": "2026-08-20 06:17:42",
+    "ja_summary": "・ChatGPTの広告サービスが欧州31カ国へ拡大\n・ユーザーの検索・検討・意思決定プロセスに合わせた広告配信が可能\n・広告主は欧州の広範な市場で顧客へのリーチ強化が実現"
+  },
+  {
+    "title": "How Claude’s text watermark works",
+    "link": "https://www.anthropic.com/news/claude-text-watermark",
+    "source": "Anthropic (News)",
+    "published": "Fri, 14 Aug 2026 00:00:00 +0000",
+    "summary": "How Claude’s text watermark works",
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Quill&amp;backgroundColor=heather",
+    "fetched_at": "2026-08-20 06:17:43",
+    "ja_summary": "・AI「Claude」が生成したテキストを判別するための電子透かし技術を解説。\n・文章内の単語選択に微細な統計的パターンを埋め込み、AI製であることを高精度に検知。\n・人間には気付かれない自然な文章を維持しつつ、AIの悪用防止と信頼性向上を図る。"
+  },
+  {
     "title": "〈アップルも採用検討か〉中国メモリーメーカーYMTCがキオクシア超え世界シェア3位に浮上､技術力と生産能力のすごみ | ビジネス | 東洋経済オンライン",
     "link": "https://toyokeizai.net/articles/-/955115?utm_source=rss&utm_medium=http&utm_campaign=link_back",
     "source": "東洋経済オンライン",
@@ -948,55 +998,5 @@
     "image": "https://japan.zdnet.com/storage/2026/08/19/1ea30c941fefd7e4b3b496f85226b781/t/184/138/d/20260819_adobestock_516309943_1280x960.jpg",
     "fetched_at": "2026-08-19 15:03:04",
     "ja_summary": "NECは、ウェブ業務を自動化するAIエージェント「NEC cotomi Agent」の販売をMicrosoft Marketplaceで開始した。\n同社の独自技術「cotomi Act」を活用し、ウェブ操作に伴う作業の効率化を実現する。"
-  },
-  {
-    "title": "ソフトバンクと日本気象協会、気象データとAIで食品ロスを削減--廃棄量13％減",
-    "link": "https://japan.zdnet.com/article/35251704/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "一般財団法人日本気象協会とソフトバンクは8月19日、バローホールディングスおよび中部フーズと共同で実施した食品ロス削減の実証実験において、総菜部門の食品廃棄量を約13％削減し、発注・計画作業時間を約37％短縮する成果を確認したと発表した。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35251704/\"><img src=\"https://japan.zdnet.com/storage/2025/02/10/cbe82b136bd57af088bfa8de89b014a2/t/184/138/d/250210_retail_as_128083139402.jpeg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2025/02/10/cbe82b136bd57af088bfa8de89b014a2/t/184/138/d/250210_retail_as_128083139402.jpeg",
-    "fetched_at": "2026-08-19 15:03:04",
-    "ja_summary": "・ソフトバンクと日本気象協会が、AIと気象データを活用した食品ロス削減の実証実験を実施。\n・スーパーの総菜部門において、廃棄量を約13％削減することに成功。\n・発注や計画作成にかかる作業時間も約37％短縮し、業務効率化を実証した。"
-  },
-  {
-    "title": "生成AIグラビアをグラビアカメラマンが作るとどうなる？第72回：MiniMax H3は動画が最高なだけじゃない。画像も生成してみよう（西川和久）",
-    "link": "https://www.techno-edge.net/article/2026/08/15/5396.html",
-    "source": "TechnoEdge",
-    "published": "Sat, 15 Aug 2026 16:00:32 +0900",
-    "summary": "今年の夏はMiniMax H3、そしてLTX-2.5とオープンな動画祭りに。",
-    "image": "https://www.techno-edge.net/imgs/rss/33597.jpg",
-    "fetched_at": "2026-08-19 15:03:05",
-    "ja_summary": "・動画生成AIとして注目の「MiniMax H3」が画像生成でも高い性能を発揮。\n・プロカメラマンが実際に活用し、その表現力を検証。\n・動画だけでなく画像制作においても有力な選択肢となる可能性を示唆。"
-  },
-  {
-    "title": "【PHP9】PHP9がリリースされた",
-    "link": "https://qiita.com/rana_kualu/items/8b350ada6dc831207d14",
-    "source": "Qiita (Popular)",
-    "published": "2026-08-03T19:50:25+09:00",
-    "summary": "マジかよ知らんかったぜ。\n\n![01.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/26088/4e904b82-64cc-4895-99d3-7f853f801e04.png)\n\n# https://code.aetheria.jp/13974/\n\n:::note\nPHP 9は、これまでのPHP 8シリーズが築き",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGMjYwODglMkZwcm9maWxlLWltYWdlcyUyRjE1NjUwMTU3NDQ_aXhsaWI9cmItNC4xLjEmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPWU4NTNlYWEzYmRiNDU0YTE3ZDJmOWE3NGZmYTY0MmNh%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D1014fde940d1ad4a7e7e578242b4719f?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJTkwUEhQOSVFMyU4MCU5MVBIUDklRTMlODElOEMlRTMlODMlQUElRTMlODMlQUElRTMlODMlQkMlRTMlODIlQjklRTMlODElOTUlRTMlODIlOEMlRTMlODElOUYmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1lODdkMGIzZTczY2VjMTI1MWVmNDEyMGExODdhODgwZA&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDByYW5hX2t1YWx1JnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9YzM5MmIxZDJhNmEwNGExZjM0NWNmZWM3YjdkMWYwZTg&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=f20af3edcdb935d3dbbc088a06571bd8",
-    "fetched_at": "2026-08-19 15:03:15",
-    "ja_summary": "PHP 9が新たにリリースされました。\nPHP 8シリーズから進化した最新バージョンとなります。\n詳細は公式サイトから確認可能です。"
-  },
-  {
-    "title": "欲しいものが「もう揃ってる」へ　「ヤフショ」AIエージェントの世界",
-    "link": "https://www.watch.impress.co.jp/docs/news/2133650.html",
-    "source": "Impress Watch",
-    "published": "",
-    "summary": "LINEヤフーは18日、「Yahoo!ショッピング」で2月から提供している「Yahoo!ショッピング AIエージェント」について、今秋に追加する新機能や、ストア運営者向け機能を明らかにした。",
-    "image": "https://www.watch.impress.co.jp/img/ipw/list/2133/650/pic-100.jpg",
-    "fetched_at": "2026-08-19 14:44:14",
-    "ja_summary": "・LINEヤフーが「Yahoo!ショッピング」のAIエージェント機能を今秋拡充。\n・ユーザーには商品選びを最適化し、ストア運営者には業務効率化ツールを提供。\n・欲しいものが即座に揃う買い物体験の実現を目指す。"
-  },
-  {
-    "title": "Partnering with CodeAI to prepare the first AI generation",
-    "link": "https://openai.com/index/partnering-with-codeai",
-    "source": "OpenAI",
-    "published": "Tue, 18 Aug 2026 11:00:00 GMT",
-    "summary": "OpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly.",
-    "image": "https://images.ctfassets.net/kftzwdyauwt9/5rhd6nhvVokZZ5L6uu2tz9/daaf6fd9186ebe2c1914adaaaac65cf4/a11y-seo-v002.png?w=1600&amp;h=900&amp;fit=fill",
-    "fetched_at": "2026-08-19 14:44:25",
-    "ja_summary": "・OpenAIとCodeAIが提携し、学生向けのAI教育プログラムを開始。\n・AIリテラシーの向上と、技術を責任を持って活用・開発するスキルを育成。\n・次世代のAI人材輩出に向けた教育的基盤の構築を目指す。"
   }
 ]
