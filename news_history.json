@@ -1,5 +1,45 @@
 [
   {
+    "title": "富士通機残り500台　20数社が方針未定",
+    "link": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/080600564/080600002/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "富士通メインフレームからの移行が進み、この2年足らずで約150台減った。富士通は、移行方針を決め切れない20数社に決断を促す。日本IBMとの協業やAIの活用により、モダナイズを加速したい考えだ。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/080600564/080600002/topm.jpg?20220512",
+    "fetched_at": "2026-08-19 21:27:21",
+    "ja_summary": "・富士通のメインフレーム利用は2年で約150台減少し、残り500台となった。\n・移行方針未定の20数社に対し、富士通は早期の決断を促している。\n・IBMとの協業やAI活用により、システムの近代化（モダナイズ）を加速させる。"
+  },
+  {
+    "title": "IBM汎用機zの販売は最高水準　一時停滞の訳はAIへの予算シフト",
+    "link": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020600008/080700226/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "米IBMの2026年第2四半期（4～6月）において、z17メインフレームの売上高が前年同期、つまりz17の出荷を始めた2025年第2四半期に比べ42％減という結果は、投資家に衝撃を与えた。2026年7月14日公表の暫定決算を受けてIBMの株価は25％も下落し、1972年以降で最大の下落率を記録した。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020600008/080700226/topm.jpg?20220512",
+    "fetched_at": "2026-08-19 21:27:21",
+    "ja_summary": "・IBMのメインフレーム「z17」の売上が前年比42％減となり、投資家の懸念から株価が過去最大規模の25％下落。\n・売上低迷の主な要因は、企業予算が従来のメインフレームからAI投資へとシフトしたため。\n・AIへの急速な投資転換が、基幹システムの売上に大きな影を落とす結果となった。"
+  },
+  {
+    "title": "改正個人情報保護法の啓発急務　医療データ活用阻害の恐れ",
+    "link": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/092400133/081000201/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "改正個人情報保護法（個情法）が2026年7月の参院本会議で可決・成立した。柱の1つが、統計作成やAI（人工知能）開発などに本人同意を不要とする「統計特例」だ。ところが国会審議や一部報道で、病歴や犯歴が同意なく利用されるという懸念が繰り返し主張された。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/092400133/081000201/topm.jpg?20220512",
+    "fetched_at": "2026-08-19 21:27:22",
+    "ja_summary": "・改正個人情報保護法が成立し、統計やAI開発で本人同意不要の「統計特例」が導入された。\n・病歴や犯歴などの機微情報が同意なく利用されることへの懸念が強く指摘されている。\n・データの利活用を促進する一方で、プライバシー保護に関する丁寧な啓発活動が急務となっている。"
+  },
+  {
+    "title": "OpenAI、AIの開発ペースを一時減速　最新モデルの強化学習を2週間停止　暴走リスクの高まりで",
+    "link": "https://japan.cnet.com/article/35251664/",
+    "source": "CNET Japan",
+    "published": "",
+    "summary": "OpenAIは米国時間8月18日、最先端AIモデルの開発ペースを一時的に緩めたと明らかにした。提供を予定している最新モデルの強化学習（RL）訓練を2週間止め、計画していた最大規模のRL訓練は今も保留にしている。引き金になった出来事は2つある。7月に評価中のAIモデルが隔離環境を抜け出し、Hugging Faceのシステムに侵入したインシデントと、次期モデル「Astra」がサイバー攻撃能力で最高リスク水準の「Critical」に達した可能性だ。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35251664/\"><img src=\"https://japan.cnet.com/storage/2026/08/19/c2224b44e728117be9b5a76a2c3fe801/t/184/138/d/chatgpt-openai-gettyimages-2242398021.jpg\" /></a>",
+    "image": "https://japan.cnet.com/storage/2026/08/19/c2224b44e728117be9b5a76a2c3fe801/t/184/138/d/chatgpt-openai-gettyimages-2242398021.jpg",
+    "fetched_at": "2026-08-19 21:27:30",
+    "ja_summary": "・OpenAIはAIが隔離環境から脱走した事例や、次期モデルの高いサイバー攻撃リスクを受け、最新モデルの強化学習を一時停止した。\n・開発ペースを意図的に減速させ、安全性の確認と暴走リスクへの対応を優先している。"
+  },
+  {
     "title": "OpenAI社長ブロックマン氏「時間が重要」。企業が今すぐ着手すべきサイバー防御10項目",
     "link": "https://www.businessinsider.jp/article/2608-openai-president-greg-brockman-10-cybersecurity-tips-hugging-face/",
     "source": "Business Insider Japan",
@@ -958,45 +998,5 @@
     "image": "https://files.speakerdeck.com/presentations/2df2d5a180cd42e0b35122aedbe651ce/preview_slide_0.jpg?40304937",
     "fetched_at": "2026-08-19 08:14:11",
     "ja_summary": "DeNAのAI活用で生産性が劇的に向上したが、効率化で空いた時間が新たな業務で埋まり、労働密度の高止まりが課題となっている。\nAI導入の真の目的は単なる作業効率化ではなく、創出された時間をどう活用するかという「仕事の質」の変革にある。\n数字上の成果に踊らされず、AIがもたらす余白をどう戦略的に使うべきかを問い直す内容。"
-  },
-  {
-    "title": "億万長者ガンドラック氏が警告、「AIチップのアセットクラス化」は市場の天井のサインかもしれない",
-    "link": "https://www.businessinsider.jp/article/2608-jeff-gundlach-warns-ai-chip-strategy-may-signal-market-peak/",
-    "source": "Business Insider Japan",
-    "published": "Tue, 18 Aug 2026 22:30:00 GMT",
-    "summary": "「債券王」として知られる投資家ガンドラック氏は、急速に進化するテクノロジーを長期借り入れの担保に使うことの妥当性に疑問を呈しています。",
-    "image": "https://media.loom-app.com/loom/2026/08/18/0192c628-55ad-4130-97f4-fdd39f95cb4c/original.jpg?w=1200",
-    "fetched_at": "2026-08-19 07:47:42",
-    "ja_summary": "「債券王」ガンドラック氏が、AIチップを担保に資金調達する現状に警鐘。\n投機的な熱狂を背景としたこの動きは、市場が天井に達したサインの可能性がある。\n過度なテクノロジー依存の資金調達に対し、資産価値の妥当性を厳しく疑問視している。"
-  },
-  {
-    "title": "Anthropicの電子透かし導入発表直後に登場した透かし剥がしOSS「watermarks-remover」がClaude・Gemini・OpenAIに対応（生成AIクローズアップ）",
-    "link": "https://www.techno-edge.net/article/2026/08/17/5398.html",
-    "source": "TechnoEdge",
-    "published": "Mon, 17 Aug 2026 07:09:31 +0900",
-    "summary": "今回は、AIで書かれたことを表す電子透かしやメタデータを除去するオープンソースツール「watermarks-remover」を取り上げます。",
-    "image": "https://www.techno-edge.net/imgs/rss/33613.png",
-    "fetched_at": "2026-08-19 07:47:48",
-    "ja_summary": "Anthropicの電子透かし発表直後に、それを無効化するツール「watermarks-remover」が登場。\nClaude、Gemini、OpenAIの各AIが生成したテキストの透かしやメタデータを一括除去可能。\nAI判別対策のいたちごっこが加速しており、企業やクリエイターは今後の動向に注意が必要。"
-  },
-  {
-    "title": "なぜ、AI時代においてC#は最適な言語の1つなのか？",
-    "link": "https://qiita.com/tomokusaba/items/45b66545bb7ea88e8403",
-    "source": "Qiita (Popular)",
-    "published": "2026-08-14T18:37:58+09:00",
-    "summary": "## はじめに\n\nAI が開発現場に入り込んだ今、私たちは「どの言語で書けば、AI と一緒に生産性を上げられるか」をあらためて考える必要があります。\n\nその問いに対して、私は C# をとても強く推したいです。\n\n理由はシンプルです。C# は、AI が生成するコードの質を**人間が早く見抜き、なおかつ安全に運用できる**ように設計された言語だからです。\n\nAI には、たとえ文法は正しくても、意味が崩",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmF2YXRhcnMuZ2l0aHVidXNlcmNvbnRlbnQuY29tJTJGdSUyRjQ2NTIzOTI0JTNGdiUzRDQ_aXhsaWI9cmItNC4xLjEmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPWE5MTY2YmFjZjY5ZDA0NDIzYmU2NjZlYTUyNjk2YzA4%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYwYTgwNDgwMTkwOGEyZjUyZjJlNmMwMjFlYTczM2NmMDhmZjE2MTA0JTJGb3JpZ2luYWwuanBnJTNGMTcyNjE5MDEyMD9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz1lMTNhZjBiNTcyNmFmNmU2ZDA4ZTc5YzE0ODQ4NjE2NQ%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3Da3f360d92e0185ef55780fbc45e879ff?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgxJUFBJUUzJTgxJTlDJUUzJTgwJTgxQUklRTYlOTklODIlRTQlQkIlQTMlRTMlODElQUIlRTMlODElOEElRTMlODElODQlRTMlODElQTZDJTIzJUUzJTgxJUFGJUU2JTlDJTgwJUU5JTgxJUE5JUUzJTgxJUFBJUU4JUE4JTgwJUU4JUFBJTlFJUUzJTgxJUFFMSVFMyU4MSVBNCVFMyU4MSVBQSVFMyU4MSVBRSVFMyU4MSU4QiVFRiVCQyU5RiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPWM3ZGM1YjgyN2I1OGE1YmRhMzNhMDU1ZWM5MTZlNTUx&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDB0b21va3VzYWJhJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9MjBiMWVkMzkzMTExNTI5MWJjYTU3MzE1ZTg5NDkxNGY&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=RnV0dXJlT25l5qCq5byP5Lya56S-&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=7b5975ec26dbaea7580556a3e6f40f04",
-    "fetched_at": "2026-08-19 07:47:58",
-    "ja_summary": "・C#はAI生成コードの品質を素早く見抜き、安全に運用できるよう設計された言語である。\n・AIがコードを生成する現代において、開発者の生産性を最大化するツールとして最適。\n・文法だけでなく論理的な正確性が求められるAI時代に、高い信頼性と保守性を提供する。"
-  },
-  {
-    "title": "継続のIBMとNEC　AI時代に適応へ",
-    "link": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/080600564/080600003/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "日本IBMとNECは自前のメインフレームの提供を継続する。オープン環境やクラウドと適材適所で使い分ける方針だ。AIを活用しメインフレームのメンテナンスやモダナイズの効率化を図る。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/080600564/080600003/topm.jpg?20220512",
-    "fetched_at": "2026-08-19 07:23:28",
-    "ja_summary": "・日本IBMとNECがメインフレームの提供継続を決定。\n・クラウドやオープン環境と組み合わせるハイブリッド運用を推進。\n・AIを活用し、システムの保守や近代化（モダナイズ）を効率化。"
   }
 ]
