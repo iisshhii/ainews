@@ -1,5 +1,15 @@
 [
   {
+    "title": "ウーバーのCOO、5年後には従業員数が減っている可能性があると「言いたい誘惑に駆られる」",
+    "link": "https://www.businessinsider.jp/article/2608-uber-coo-employees-five-years/",
+    "source": "Business Insider Japan",
+    "published": "Wed, 19 Aug 2026 22:15:00 GMT",
+    "summary": "配車サービス大手ウーバーの最高執行責任者であるアンドリュー・マクドナルド氏は、5年後には同社の従業員数が現在より減少している可能性があると考えている。\nマクドナルド氏は、AIが一部の職務を補強し、最終的には置き換える可能性があると語った。\n一方で同氏は、AIによって開かれる未来のチャンスを掴むため、結果的により多くの人員が必要になる可能性もあると述べた。",
+    "image": "https://media.loom-app.com/loom/2026/08/19/11eeb7d6-7295-46bf-9b37-60544e2fe4da/original.jpg?w=1200",
+    "fetched_at": "2026-08-21 02:00:31",
+    "ja_summary": "・ウーバーのCOOは、AIの普及により5年後の従業員数が現在より減少する可能性を示唆。\n・AIが業務を代替・効率化することで人員削減が進む一方、新たなビジネス創出により採用増となる可能性も残る。\n・AI活用による人員構成の大きな変化を想定した経営方針を明らかにしている。"
+  },
+  {
     "title": "AI時代の「自治体Webサイト」の在り方とは？　「3クリックルール」と「市民に探させる」からの脱却",
     "link": "https://www.itmedia.co.jp/business/articles/2608/20/news020.html",
     "source": "ITmedia ビジネス",
@@ -988,15 +998,5 @@
     "image": "https://cdn.sanity.io/images/4zrzovbb/website/54b7ab1d2c2521f83ae5d2da5f9d99321c370d24-2880x1620.png",
     "fetched_at": "2026-08-20 08:15:10",
     "ja_summary": "・Anthropic社が次世代AIモデル「Claude Opus 5」を発表。\n・前モデルから推論能力や精度が飛躍的に向上。\n・複雑なタスクの解決や高度なデータ分析に最適化。"
-  },
-  {
-    "title": "RAG That Works in South Africa: Cheap, Fast, and Compliant Approaches Any Company Can Implement",
-    "link": "https://speakerdeck.com/abedmatini/rag-that-works-in-south-africa-cheap-fast-and-compliant-approaches-any-company-can-implement",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-08-19T04:48:53-04:00",
-    "summary": "A practical roadmap for building RAG systems under real-world South African constraints — POPIA compliance, load shedding, and ZAR/USD cost volatility. Walks through a 7-phase maturity model from simple local RAG through hybrid search, multimodal parsing, multi-step reasoning, GraphRAG, and agentic RAG, plus a governance framework for role-based access control and a benchmarking approach for proving your system isn't hallucinating. Originally presented at DevConf South Africa 2026.",
-    "image": "https://files.speakerdeck.com/presentations/156fa843a78946e2a5ceb67e1a0e2d2d/preview_slide_0.jpg?40319359",
-    "fetched_at": "2026-08-20 08:15:13",
-    "ja_summary": "南アフリカ特有のインフラ制約や法規制（POPIA）下で、RAGシステムを低コストかつ高速に構築・運用するための実践的ロードマップ。\n単純な検索からAIエージェント活用までの7段階の成熟度モデルを提示し、コスト変動リスクやハルシネーション対策を網羅。\n実用的なガバナンスとアクセス制御を含め、企業が直面する課題を克服し、信頼性の高いAI基盤を実現する技術指針。"
   }
 ]
