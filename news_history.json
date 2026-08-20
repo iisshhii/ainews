@@ -1,5 +1,65 @@
 [
   {
+    "title": "1年分のAI予算をわずか数カ月で“使い倒した”米Uber　CTOが気付いた「脱・トークン浪費」の方法",
+    "link": "https://www.itmedia.co.jp/business/articles/2608/19/news032.html",
+    "source": "ITmedia ビジネス",
+    "published": "Wed, 19 Aug 2026 06:00:00 +0900",
+    "summary": "配車サービス大手の米Uberは、AI技術に割り当てた2026年の予算を年初からわずか数カ月で使い果たしたことを受け、AIへの支出問題を解決する方法を見つけたと考えている。",
+    "image": "https://image.itmedia.co.jp/business/articles/2608/19/cover_news032.jpg",
+    "fetched_at": "2026-08-21 06:50:46",
+    "ja_summary": "・Uberが2026年分のAI予算を数カ月で使い果たし、急激な支出増に直面。\n・AIモデルの推論コストを最適化する「脱・トークン浪費」の手法を導入。\n・過剰な計算資源の使用を見直し、AI投資の効率化とコスト削減を両立させる。"
+  },
+  {
+    "title": "なぜメルカリの「AIフル活用広告」は成果が出たのか　“質の低い広告枠”に追いやられないための「2つのアクション」",
+    "link": "https://www.itmedia.co.jp/business/articles/2608/19/news021.html",
+    "source": "ITmedia ビジネス",
+    "published": "Wed, 19 Aug 2026 06:00:00 +0900",
+    "summary": "メルカリが配信した動画広告「やさしいメル崎」は、キャラクターデザインからシナリオや動画の制作までAIをフル活用している。YouTube Works Awards Japan 2026のBest Use of Google AI部門で「Gold」（最高賞）を受賞するなど、高い評価を受けたが、AIで作成した広告は“似たり寄ったり”になってしまわないのか。人間にとって魅力的な広告を生み出し、良い広告枠を勝ち取るためのポイントを、メルカリの石渡貴大氏が語った。",
+    "image": "https://image.itmedia.co.jp/business/articles/2608/19/cover_news021.jpg",
+    "fetched_at": "2026-08-21 06:50:46",
+    "ja_summary": "メルカリは動画広告の企画から制作までAIをフル活用し、高い広告効果と評価を獲得した。\nAI特有の凡庸さを避けるため、「AIへの明確な指示（プロンプト）」と「人間による厳密な品質管理」の2点を徹底。\nAIの効率性と人の感性を組み合わせることで、高品質な広告枠を勝ち取る戦略を成功させた。"
+  },
+  {
+    "title": "OpenAI、開発中AIモデル向けの新たな安全対策を発表。Hugging Face事件受け不正の監視を強化",
+    "link": "https://www.techno-edge.net/article/2026/08/19/5402.html",
+    "source": "TechnoEdge",
+    "published": "Wed, 19 Aug 2026 07:00:03 +0900",
+    "summary": "OpenAIがAIモデルの開発・テスト中に発生しうるセキュリティインシデントへの対処を目的とした新たな安全対策を発表しました。この対策には、開発プロセス中のモデル監視の詳細化、トレーニング後のプロセスにおける整合性とセキュリティの強化が含まれます。",
+    "image": "https://www.techno-edge.net/imgs/rss/33640.jpg",
+    "fetched_at": "2026-08-21 06:51:11",
+    "ja_summary": "・OpenAIが開発・テスト段階のAIモデルに対する新たな安全対策を導入。\n・モデル開発中の監視体制を詳細化し、トレーニング後の整合性とセキュリティを強化。\n・Hugging Faceでの不正アクセス事件を受け、AI開発プロセスの監視を抜本的に強化する狙い。"
+  },
+  {
+    "title": "Cognizant and Anthropic expand their partnership to bring Claude to enterprise clients",
+    "link": "https://www.anthropic.com/news/cognizant-anthropic",
+    "source": "Anthropic (News)",
+    "published": "Mon, 27 Jul 2026 00:00:00 +0000",
+    "summary": "Cognizant and Anthropic expand their partnership to bring Claude to enterprise clients",
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+    "fetched_at": "2026-08-21 06:51:16",
+    "ja_summary": "・コグニザントとAnthropicが提携を拡大。\n・Anthropicの生成AI「Claude」を企業向けシステムに統合・導入。\n・エンタープライズ領域におけるAI活用の利便性と開発効率を向上。"
+  },
+  {
+    "title": "Cursorを使ってデザイナーがハンドコーディングでデザインシステムを作ってみた",
+    "link": "https://zenn.dev/pksha/articles/e5c8f9b2a41d73",
+    "source": "Zenn Trends",
+    "published": "Wed, 19 Aug 2026 02:38:42 GMT",
+    "summary": "初めまして！PKSHA Technology デザイナーの清水と申します。普段はデザイナーとしてXで発信しています。今日は、Cursor を使ってデザイナーが自分でハンドコーディングしてデザインシステムを実装した事例をご紹介します。（この記事は、デザインシステムの実装に関わるデザイナー・エンジニアを主な対象にしていますが、AI コーディングツールを使った実装に挑戦してみたいデザイナーの方にも読んでいただけるよう、専門用語には適宜補足を入れています。）\n\n用語の補足\nハンドコーディングとは、AI にコードを生成させるのではなく、自分でコードを打ちながら実装するスタイルです。この記事では「わ...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--dscOPJAe--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Cursor%25E3%2582%2592%25E4%25BD%25BF%25E3%2581%25A3%25E3%2581%25A6%25E3%2583%2587%25E3%2582%25B6%25E3%2582%25A4%25E3%2583%258A%25E3%2583%25BC%25E3%2581%258C%25E3%2583%258F%25E3%2583%25B3%25E3%2583%2589%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2587%25E3%2582%25A3%25E3%2583%25B3%25E3%2582%25B0%25E3%2581%25A7%25E3%2583%2587%25E3%2582%25B6%25E3%2582%25A4%25E3%2583%25B3%25E3%2582%25B7%25E3%2582%25B9%25E3%2583%2586%25E3%2583%25A0%25E3%2582%2592%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E6%25B8%2585%25E6%25B0%25B4%25E3%2581%25AF%25E3%2582%258B%25E3%2581%258B%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzJlOTZhNTRiYWMuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:PKSHA%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2520%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2VlZjI1MDMxOTIuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-08-21 06:51:18",
+    "ja_summary": "デザイナーがAIコーディングツール「Cursor」を活用し、自らハンドコーディングでデザインシステムを実装した事例を紹介。AIを補助に使いつつ、デザイナーが実装プロセスに関わる実践的な知見を解説しています。"
+  },
+  {
+    "title": "なぜ、AI時代においてC#は最適な言語の1つなのか？",
+    "link": "https://qiita.com/tomokusaba/items/45b66545bb7ea88e8403",
+    "source": "Qiita (Popular)",
+    "published": "2026-08-14T18:37:58+09:00",
+    "summary": "## はじめに\n\nAI が開発現場に入り込んだ今、私たちは「どの言語で書けば、AI と一緒に生産性を上げられるか」をあらためて考える必要があります。\n\nその問いに対して、私は C# をとても強く推したいです。\n\n理由はシンプルです。C# は、AI が生成するコードの質を**人間が早く見抜き、なおかつ安全に運用できる**ように設計された言語だからです。\n\nAI には、たとえ文法は正しくても、意味が崩",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmF2YXRhcnMuZ2l0aHVidXNlcmNvbnRlbnQuY29tJTJGdSUyRjQ2NTIzOTI0JTNGdiUzRDQ_aXhsaWI9cmItNC4xLjEmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPWE5MTY2YmFjZjY5ZDA0NDIzYmU2NjZlYTUyNjk2YzA4%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYwYTgwNDgwMTkwOGEyZjUyZjJlNmMwMjFlYTczM2NmMDhmZjE2MTA0JTJGb3JpZ2luYWwuanBnJTNGMTcyNjE5MDEyMD9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz1lMTNhZjBiNTcyNmFmNmU2ZDA4ZTc5YzE0ODQ4NjE2NQ%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3Da3f360d92e0185ef55780fbc45e879ff?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgxJUFBJUUzJTgxJTlDJUUzJTgwJTgxQUklRTYlOTklODIlRTQlQkIlQTMlRTMlODElQUIlRTMlODElOEElRTMlODElODQlRTMlODElQTZDJTIzJUUzJTgxJUFGJUU2JTlDJTgwJUU5JTgxJUE5JUUzJTgxJUFBJUU4JUE4JTgwJUU4JUFBJTlFJUUzJTgxJUFFMSVFMyU4MSVBNCVFMyU4MSVBQSVFMyU4MSVBRSVFMyU4MSU4QiVFRiVCQyU5RiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPWM3ZGM1YjgyN2I1OGE1YmRhMzNhMDU1ZWM5MTZlNTUx&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDB0b21va3VzYWJhJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9MjBiMWVkMzkzMTExNTI5MWJjYTU3MzE1ZTg5NDkxNGY&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=RnV0dXJlT25l5qCq5byP5Lya56S-&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=7b5975ec26dbaea7580556a3e6f40f04",
+    "fetched_at": "2026-08-21 06:51:23",
+    "ja_summary": "AI時代において、C#はAI生成コードの品質を素早く検証し、安全に運用するための設計がなされているため、生産性向上の観点で最適な言語の一つである。"
+  },
+  {
     "title": "石油､木材､電力…AI特需に沸くマレーシアで日本も関わってきた80年以上続く｢開発｣の問題と｢資源奪取｣の構造 | 政治・経済・投資 | 東洋経済オンライン",
     "link": "https://toyokeizai.net/articles/-/955353?utm_source=rss&utm_medium=http&utm_campaign=link_back",
     "source": "東洋経済オンライン",
@@ -938,65 +998,5 @@
     "image": "https://japan.zdnet.com/storage/2025/09/30/e3d5360845f24894b778caaf811bdbc7/t/184/138/d/250930_engineer_as_1280_726498075.jpg",
     "fetched_at": "2026-08-20 11:16:14",
     "ja_summary": "・NICPと日本IBMが「IBM Bob」を活用し、複雑なExcelマクロの処理ロジックを可視化。\n・属人化していた業務知識を整理し、ウェブアプリへの再構築を効率的に実施。\n・AIによる開発支援で、レガシー資産の継承とシステムモダナイゼーションを推進。"
-  },
-  {
-    "title": "「Firefox」の新しい「Smart Window」機能を試用--AI活用におすすめ",
-    "link": "https://japan.zdnet.com/article/35251741/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "モジラが「Firefox」にAI機能「Smart Window」を追加した。柔軟な設定やメモリー機能などを備え、ブラウザーでのAI活用をより便利にする機能だ。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35251741/\"><img src=\"https://japan.zdnet.com/storage/2026/08/20/2b7519445bad036775ee2b24bd7aa79c/t/184/138/d/smartwindowhero_1280.jpg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2026/08/20/2b7519445bad036775ee2b24bd7aa79c/t/184/138/d/smartwindowhero_1280.jpg",
-    "fetched_at": "2026-08-20 11:16:14",
-    "ja_summary": "・FirefoxにAI活用を効率化する新機能「Smart Window」が追加された。\n・柔軟な設定やメモリー機能を備え、ブラウザでのAI利用がより便利になる。"
-  },
-  {
-    "title": "「令和8年版 情報通信白書」から読み解く「生成AIのリスク対策」",
-    "link": "https://japan.zdnet.com/article/35251700/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "総務省が、日本のICT産業における現状や課題をまとめた「令和8年版 情報通信白書」を公表した。その中で、生成AIのリスクについての話が興味深かったので、今回はその内容を取り上げる。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35251700/\"><img src=\"https://japan.zdnet.com/storage/2026/08/19/c61a4dac64345d41d10991201723bdf4/t/184/138/d/20260819_adobestock_1293283060_1280x960.jpg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2026/08/19/c61a4dac64345d41d10991201723bdf4/t/184/138/d/20260819_adobestock_1293283060_1280x960.jpg",
-    "fetched_at": "2026-08-20 11:16:14",
-    "ja_summary": "・総務省の「令和8年版 情報通信白書」が公表され、ICT産業の現状と課題が提示された。\n・特に生成AIの利活用に伴うリスク対策が重点的に取り上げられている。\n・急速に普及する生成AIに対して、社会全体でどのような対応が必要かが議論の焦点。"
-  },
-  {
-    "title": "現場回帰したデータエンジニアが考える AI 時代のキャリア開発 / Career Development in the Age of AI Perspectives from a Hands-on Data Engineer",
-    "link": "https://speakerdeck.com/medley/career-development-in-the-age-of-ai-perspectives-from-a-hands-on-data-engineer",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-08-19T21:23:40-04:00",
-    "summary": "2026/08/19 開催の Data Engineering Night 〜Sansan ×MEDLEY が語るデータエンジニアのリアル〜 での登壇資料です。\n登壇者 : 人材プラットフォーム本部 CTO 室データマネジメントグループ 山邉哲生\nイベント URL : https://sansan.connpass.com/event/398213/",
-    "image": "https://files.speakerdeck.com/presentations/3071788aa844479bb44a5cbf1260611c/preview_slide_0.jpg?40323980",
-    "fetched_at": "2026-08-20 11:16:22",
-    "ja_summary": "AI時代のデータエンジニアに求められるキャリア開発について、現役エンジニアが現場視点で語る登壇資料。\nSansanとMEDLEYの合同イベントにて、技術者がAI活用時代をどう生き抜くかの知見を共有。\nデータエンジニアのリアルな実務経験に基づいたキャリア戦略が学べる内容。"
-  },
-  {
-    "title": "値からデータ構造を⽴ち上げる",
-    "link": "https://speakerdeck.com/sansantech/260819-2",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-08-19T21:20:47-04:00",
-    "summary": "■ イベント\ngolang.tokyo #44\nhttps://golangtokyo.connpass.com/event/399472/\n\n■登壇概要\nタイトル：値からデータ構造を⽴ち上げる\n登壇者：技術本部 CTO室 AI Solution Development グループ ⿑藤 拓⼰\n\n■ 技術本部 採用情報\nhttps://media.sansan-engineering.com",
-    "image": "https://files.speakerdeck.com/presentations/61e3e5bef28e450b9f9404dd68f1cbe5/preview_slide_0.jpg?40323939",
-    "fetched_at": "2026-08-20 11:16:22",
-    "ja_summary": "・Golangの勉強会「golang.tokyo #44」にて、Sansanの齊藤拓己氏が登壇。\n・「値からデータ構造を立ち上げる」をテーマに、実装における設計手法を解説。\n・Sansan技術本部が主催するコミュニティイベントおよび採用情報の紹介。"
-  },
-  {
-    "title": "Bypassing the Multimodal Tax: Framework-Free Hybrid RAG, Raw SQL RRF, and Live UI Telemetry",
-    "link": "https://speakerdeck.com/abedmatini/bypassing-the-multimodal-tax-framework-free-hybrid-rag-raw-sql-rrf-and-live-ui-telemetry",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-08-19T09:31:50-04:00",
-    "summary": "A framework-free approach to production RAG: parsing documents locally to avoid the \"multimodal tax\" of vision-API costs, running hybrid dense + sparse retrieval directly in PostgreSQL with Reciprocal Rank Fusion (no vector database, no LangChain), and wiring up full observability with Langfuse. Covers the schema, the raw SQL, agent mode vs. direct RAG, upload and query-time guardrails, and the economics of architecture-first optimization over prompt engineering. Fully reproducible via GitHub Codespaces.\nOriginally presented at AI Engineer World's Fair 2026, Online Track.",
-    "image": "https://files.speakerdeck.com/presentations/37f6d8cfb73548f285aa86d226a047dc/preview_slide_0.jpg?40322201",
-    "fetched_at": "2026-08-20 11:16:22",
-    "ja_summary": "・画像解析APIのコストを回避し、ローカル処理でマルチモーダルRAGを低コスト化する手法を解説。\n・外部ライブラリ（LangChain等）やベクトルDBを使わず、PostgreSQL上のSQL操作だけで高度な検索を実現。\n・Langfuseを用いた可視化やガードレールの構築法を含め、プロンプト調整よりも設計最適化を重視した実用的な構成。"
-  },
-  {
-    "title": "安全な自動運転に必要な「AI」と「走る経験」 ウェイモ東京上陸へ自信",
-    "link": "https://www.watch.impress.co.jp/docs/news/2134035.html",
-    "source": "Impress Watch",
-    "published": "",
-    "summary": "自動運転ロボタクシーを展開する米Alphabet傘下の「Waymo(ウェイモ)」は19日、完全自動運転を実現するWaymoの技術紹介とともに日本展開について説明した。同社では、25年から日本交通とタクシーアプリの「GO」と協力し、東京で自動運転タクシーのテストを実施しているが、「検証が終わり、承認が得られ次第サービス開始したい」という。",
-    "image": "https://www.watch.impress.co.jp/img/ipw/list/2134/035/w11.jpg",
-    "fetched_at": "2026-08-20 09:57:59",
-    "ja_summary": "・米Waymoが日本での自動運転タクシー展開に意欲を示した。\n・2025年から「GO」と連携して東京で実証実験を開始する。\n・検証と承認が完了次第、早期の本格サービス開始を目指す。"
   }
 ]
