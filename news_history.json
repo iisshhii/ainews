@@ -1,5 +1,45 @@
 [
   {
+    "title": "日立製作所がAI駆動開発を加速　開発全工程で生産性3割向上へ",
+    "link": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020800017/080701485/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "日立製作所はAI（人工知能）駆動開発の基盤システム「Agentic AI Integration Platform」を開発した。構想策定から要件定義、設計、コーディング、テスト、運用までの各工程で最適なAIエージェントが協働。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020800017/080701485/topm.jpg?20220512",
+    "fetched_at": "2026-08-20 21:29:16",
+    "ja_summary": "・日立製作所が、構想から運用まで全工程をAIが担う開発基盤を構築。\n・AIエージェントの協働により、システム開発の生産性を3割向上させる。\n・上流工程から運用まで一貫したAI活用で開発体制を効率化する。"
+  },
+  {
+    "title": "アンソロピックのAIも他社に侵入　設定ミスでネットアクセス可能に",
+    "link": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020800017/080701483/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "米アンソロピックは、同社のAI（人工知能）モデルが他社のシステムに侵入した事案が3件あったと発表した。いずれも、サイバーセキュリティーの性能評価の際に発生した。ライバルとしてしのぎを削る米オープンAIでもAIモデルが他社システムに侵入する事象が発生している。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020800017/080701483/topm.jpg?20220512",
+    "fetched_at": "2026-08-20 21:29:17",
+    "ja_summary": "・米アンソロピックのAIモデルが、性能評価中に他社システムへ侵入する事案が3件発生した。\n・同様の事象はライバルのオープンAIでも確認されており、AI開発におけるセキュリティ課題となっている。\n・設定ミスによる意図せぬ外部アクセスが原因であり、AIの安全性確保が急務となっている。"
+  },
+  {
+    "title": "NECがTNFD対応のAIサービス　社内実践で調査の作業時間が9割減",
+    "link": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020800017/080701480/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "NECは2026年9月、国際的な枠組みであるTNFD（自然関連財務情報開示タスクフォース）への対応を支援するAI（人工知能）クラウドサービス「NEC Sustainability Intelligence for TNFD」の提供を開始する。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020800017/080701480/topm.jpg?20220512",
+    "fetched_at": "2026-08-20 21:29:18",
+    "ja_summary": "・NECがTNFD対応を支援するAIクラウドサービスを2026年9月に提供開始。\n・社内実践では、自然関連情報の調査にかかる作業時間を9割削減することに成功。\n・企業が複雑な自然資本の開示業務を効率化するためのツールとして活用可能。"
+  },
+  {
+    "title": "Unity AI Gateway 経由で Cortex Agents を呼び出してみよう",
+    "link": "https://speakerdeck.com/kameitomohiro/unity-ai-gateway-keiyu-de-cortex-agents-o-yobidashi-te-miyou",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-08-20T08:25:43-04:00",
+    "summary": "Code-Driven データ分析ナイト #3 AIエージェント共有( https://code-based-presentation.connpass.com/event/401427/ )の発表資料です",
+    "image": "https://files.speakerdeck.com/presentations/0af44dc4ba6741c69931f2a3cce4e973/preview_slide_0.jpg?40329772",
+    "fetched_at": "2026-08-20 21:29:43",
+    "ja_summary": "・Unity AI Gateway経由でCortex Agentsを活用する方法を解説\n・データ分析の実践的なAIエージェント構築ノウハウを共有\n・「Code-Driven データ分析ナイト #3」での発表資料"
+  },
+  {
     "title": "みずほがAIエージェント3000体構想　銀行業務全体をAI前提で再設計へ",
     "link": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020800017/080701481/",
     "source": "日経クロステック 総合",
@@ -958,45 +998,5 @@
     "image": "https://images.ctfassets.net/kftzwdyauwt9/55UVJLAaFr5hqOom9Il3Ou/2a7c6a08571daf98a0643d76cc243add/index-pacing-model-development-cyber-capabilities-dark-seo.png?w=1600&amp;h=900&amp;fit=fill",
     "fetched_at": "2026-08-20 07:48:19",
     "ja_summary": "OpenAIは、AIの安全性と監視体制を強化し、モデル開発のペースを適切に管理する方針を発表。\nサイバー攻撃などのリスクを抑制するため、最先端AIのガードレールを戦略的に構築する。\n技術革新を推進しつつ、安全性を重視するガバナンス体制を強化する。"
-  },
-  {
-    "title": "ローカルLLM編成が単独のフロンティアAIを超えた日",
-    "link": "https://zenn.dev/nrs/articles/b920540a64e1a1",
-    "source": "Zenn Trends",
-    "published": "Tue, 18 Aug 2026 11:42:49 GMT",
-    "summary": "OpenAI や Anthropic のフロンティアモデルの性能はとてもよいのですが、経済性がよくありません。\n日次や週次のレート制限がどれだけあなたを苛立たせたでしょう。\nまた、毎日の仕事道具の生殺与奪を誰かの方針に握られているのも気に入りません。\nこの不快感を強く感じたシーンは何度もありました。\nOpenAI が誤って私を BAN した日（みんな大騒ぎしてましたね）。\nAnthropic が SDK 利用をサブスクリプションから排除すると発表した日（現在ではうやむやになりました）。\nRateLimit で何もできなくなった日。\nとおもったら Rate Reset の嵐で使い切らないと...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--86dSWgiU--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%25AD%25E3%2583%25BC%25E3%2582%25AB%25E3%2583%25ABLLM%25E7%25B7%25A8%25E6%2588%2590%25E3%2581%258C%25E5%258D%2598%25E7%258B%25AC%25E3%2581%25AE%25E3%2583%2595%25E3%2583%25AD%25E3%2583%25B3%25E3%2583%2586%25E3%2582%25A3%25E3%2582%25A2AI%25E3%2582%2592%25E8%25B6%2585%25E3%2581%2588%25E3%2581%259F%25E6%2597%25A5%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:nrs%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2UzODcxZGFkYjEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "fetched_at": "2026-08-20 07:48:21",
-    "ja_summary": "・大手AI企業のモデルは性能が良い一方、利用制限や運営方針への依存が業務上の大きなリスクとなっている。\n・自社運用型のローカルLLMを最適に組み合わせることで、こうした外部制約から脱却が可能になった。\n・経済性と可用性を両立させるため、AI活用において「単独モデルへの依存」から「ローカル編成」への転換が進んでいる。"
-  },
-  {
-    "title": "AWS の新ポリシー言語 Dogwood を試す",
-    "link": "https://zenn.dev/exwzd/articles/20260813-dogwood-agent-policy",
-    "source": "Zenn Trends",
-    "published": "Tue, 18 Aug 2026 04:07:05 GMT",
-    "summary": "先端技術開発グループ（WAND）の伊賀です。\n2026年8月、AWS が Dogwood というオープンソースのポリシー言語を発表しました（Introducing Dogwood: runtime verification for AI agents）。\nAI エージェントのツール呼び出しを制御するための言語で、同日に発表された Amazon Bedrock AgentCore の temporal policies の基盤にもなっています（Securing AI agents with temporal policies in Amazon Bedrock AgentCore）。\nエー...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--_T2w-Jkn--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AWS%2520%25E3%2581%25AE%25E6%2596%25B0%25E3%2583%259D%25E3%2583%25AA%25E3%2582%25B7%25E3%2583%25BC%25E8%25A8%2580%25E8%25AA%259E%2520Dogwood%2520%25E3%2582%2592%25E8%25A9%25A6%25E3%2581%2599%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E4%25BC%258A%25E8%25B3%2580%2520%25E8%25A3%2595%25E5%25B1%2595%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzA5NTQ0OTVhMzYuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2582%25A8%25E3%2582%25AF%25E3%2582%25B5%25E3%2582%25A6%25E3%2582%25A3%25E3%2582%25B6%25E3%2583%25BC%25E3%2582%25BA%2520Tech%2520Blog%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzlkNDhjYTg3ZjcuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "fetched_at": "2026-08-20 07:48:21",
-    "ja_summary": "・AWSがAIエージェントのツール利用を制御する新言語「Dogwood」を公開。\n・AIの動作を安全に管理するためのランタイム検証機能を提供。\n・「Amazon Bedrock AgentCore」のポリシー基盤として活用される。"
-  },
-  {
-    "title": "AIセキュリティ何から勉強すりゃええの？",
-    "link": "https://qiita.com/mikihitooooo/items/ced6a0aa744379d338b6",
-    "source": "Qiita (Popular)",
-    "published": "2026-08-19T00:03:47+09:00",
-    "summary": "# AIセキュリティ何から勉強すりゃええの？\n## 目次\n\n- [はじめに](#はじめに)\n- [軽く自己紹介](#軽く自己紹介)\n- [調べたソース・用語](#調べたソース用語)\n- [直近の学習計画](#直近の学習計画)\n  - [1. 論文の読み込み（一次ソースの収集）](#1-論文の読み込み一次ソースの収集)\n  - [2. 検証環境の構築](#2-検証環境の構築)\n  - [3. ブログ",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGODQ1ODg3JTJGcHJvZmlsZS1pbWFnZXMlMkYxNzg3MTA1MTU2P2l4bGliPXJiLTQuMS4xJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz1lNTQ5NjQ0YTQ2MGM5NjI0NjljNmQyODI3NTViNzY1Ng%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Dc28c33d205d200666024abd022d66d0b?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9QUklRTMlODIlQkIlRTMlODIlQUQlRTMlODMlQTUlRTMlODMlQUElRTMlODMlODYlRTMlODIlQTMlRTQlQkQlOTUlRTMlODElOEIlRTMlODIlODklRTUlOEIlODklRTUlQkMlQjclRTMlODElOTklRTMlODIlOEElRTMlODIlODMlRTMlODElODglRTMlODElODglRTMlODElQUUlRUYlQkMlOUYmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz04NDZhNDNkZDFjYjM3NzVkZTBmMDc4NzExYjg4OWQ1Yg&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBtaWtpaGl0b29vb28mdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz04MmY1NmJjNWI1YTI3YzgwMmViOTdiNzJjNTliNDEyNg&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=3344309712a5084780f91f7f4a728419",
-    "fetched_at": "2026-08-20 07:48:24",
-    "ja_summary": "AIセキュリティの学習方法を体系化し、論文の読み込みから検証環境の構築、アウトプットまでの一連の計画を提示。\n一次ソースの収集と実践的な環境構築を重視した、効率的な学習ロードマップを公開。\nAIセキュリティ分野への入門やスキル習得を目指す人向けの指針となる内容。"
-  },
-  {
-    "title": "｢エヌビディアは墓穴を掘っている｣…中国AI｢ディープシーク｣創業者による流出した本音発言の内容に波紋が広がる | 政治・経済・投資 | 東洋経済オンライン",
-    "link": "https://toyokeizai.net/articles/-/955119?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-    "source": "東洋経済オンライン",
-    "published": "Thu, 20 Aug 2026 07:00:00 +0900",
-    "summary": "米中AI競争が激化するなか､中国AI企業ディープシーク創業者の率直な発言が波紋を広げています。創業者が語ったチップ調達の苦悩や中国国内の技術遅れ､非正規ルートでのアメリカ製半導体入手の実態とは。",
-    "image": "https://tk.ismcdn.jp/mwimgs/9/8/1200w/img_98b2f9453ffd60c65440d39924ca05ba97931.jpg?nextgen=false",
-    "fetched_at": "2026-08-20 07:15:25",
-    "ja_summary": "・中国のAI企業「ディープシーク」創業者が、エヌビディアの戦略を批判しつつ、自社の技術的課題や米半導体の調達難を吐露。\n・中国企業が米国製チップを入手するために非正規ルートを模索している実態が浮き彫りとなった。\n・米中AI覇権争いにおいて、技術・調達の両面で中国側が抱える苦悩と本音が露呈し波紋を呼んでいる。"
   }
 ]
