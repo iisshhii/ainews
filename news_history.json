@@ -1,5 +1,25 @@
 [
   {
+    "title": "Pacing model development in an era of cyber-critical capabilities",
+    "link": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+    "source": "OpenAI",
+    "published": "Tue, 18 Aug 2026 11:00:00 GMT",
+    "summary": "OpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/55UVJLAaFr5hqOom9Il3Ou/2a7c6a08571daf98a0643d76cc243add/index-pacing-model-development-cyber-capabilities-dark-seo.png?w=1600&amp;h=900&amp;fit=fill",
+    "fetched_at": "2026-08-20 23:07:28",
+    "ja_summary": "OpenAIは最先端AIの開発において、監視体制と安全性の強化を最優先事項に据える。\nサイバー攻撃等のリスクを抑止しつつ、段階的な安全性検証を通じて開発ペースを管理する。\n高度なAI機能の実現に向け、倫理的な整合性とセキュリティ対策を開発プロセスに統合する。"
+  },
+  {
+    "title": "Claude Code の設定でハマる箇所まとめ",
+    "link": "https://qiita.com/jqit_suwa/items/d49739b934606d4abdbd",
+    "source": "Qiita (Popular)",
+    "published": "2026-08-20T09:31:57+09:00",
+    "summary": "\nClaude Code を使っていて、こういう目に遭ったことはないでしょうか。\n\n- 公式に「既定でON」と書いてある機能が、なぜか使えない\n- 昨日まで出ていたタスクリストが、いつの間にか出なくなった\n- 設定を書いたのに、何も起きない。エラーも出ない\n\n**原因の多くは、公式ドキュメントに載っていない環境変数**でした。\n\nこの1週間で踏んだものを、**症状から引ける形**でまとめます。全部",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0NDMwNjExJTJGYTRlNGFiZDZjNWNkZmM5NzkzMTk2ZmUwZDFjZjYyMGY1ZWYxMTY5NCUyRnhfbGFyZ2UucG5nJTNGMTc4NTI4OTU5Nj9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NGE5ZmNiZmE4OTM5NWU1MWY1N2FiYjJkYzI1ZTFmZDQ%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYyMDc3NzA2NTMzODkzMmUyMWVjMjk3MjI5ZDVkZmI5NDk5MWI5YzFhJTJGb3JpZ2luYWwuanBnJTNGMTc2OTAwMDk3MD9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz1lYjc1ZTQzMzAzYTdlNTkzNDQ4Yjc4NDZiMjljYTgxZA%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D237198914e54e0e7e727d16c4cfb7823?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9Q2xhdWRlJTIwQ29kZSUyMCVFMyU4MSVBRSVFOCVBOCVBRCVFNSVBRSU5QSVFMyU4MSVBNyVFMyU4MyU4RiVFMyU4MyU5RSVFMyU4MiU4QiVFNyVBRSU4NyVFNiU4OSU4MCVFMyU4MSVCRSVFMyU4MSVBOCVFMyU4MiU4MSZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTJhNDFmZWFjYTQ5ODIwMTQ4MTEzMjI3NGU0ODc0Mzg4&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBqcWl0X3N1d2EmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz0wYWE2OTJkMmQwMzE0Yzg2ZDIzMGMyOWU5Njg2ZGUyMg&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=5qCq5byP5Lya56S-SlFJVA&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=84e2cf2d542d69ed08c8f44844e91f39",
+    "fetched_at": "2026-08-20 23:07:33",
+    "ja_summary": "・Claude Codeの動作不良の多くは、公式ドキュメント外の環境変数が原因。\n・設定が反映されない、機能が使えないといったトラブルを症状別に整理。\n・詰まりやすい設定箇所を網羅し、解決策を提示するガイド。"
+  },
+  {
     "title": "｢エヌビディアは墓穴を掘っている｣…中国AI｢ディープシーク｣創業者による流出した本音発言の内容に波紋が広がる | 政治・経済・投資 | 東洋経済オンライン",
     "link": "https://toyokeizai.net/articles/-/955119?utm_source=rss&utm_medium=http&utm_campaign=link_back",
     "source": "東洋経済オンライン",
@@ -978,25 +998,5 @@
     "image": "https://media.loom-app.com/loom/2026/08/19/11eeb7d6-7295-46bf-9b37-60544e2fe4da/original.jpg?w=1200",
     "fetched_at": "2026-08-20 07:48:11",
     "ja_summary": "・ウーバーのCOOが、AIの普及により5年後の従業員数が減少する可能性に言及。\n・AIが業務を代替する一方で、新たな事業機会の創出により人員増が必要になる可能性も指摘。\n・AI活用がもたらす人員配置の変革を、将来の成長戦略として示唆。"
-  },
-  {
-    "title": "AIの最新研究から見るゲーム開発とプレイヤー体験の未来",
-    "link": "https://note.com/npaka/n/n4ebba7cee7aa",
-    "source": "note (npaka)",
-    "published": "Sun, 16 Aug 2026 07:37:42 +0900",
-    "summary": "<p id=\"2cdcf1b8-16fe-4bfc-a50c-df97967084d4\" name=\"2cdcf1b8-16fe-4bfc-a50c-df97967084d4\">最新の研究論文や技術報告をもとに、ゲーム開発とプレイヤー体験の未来を整理します。</p><br /><br /><a href=\"https://note.com/npaka/n/n4ebba7cee7aa\">続きをみる</a>",
-    "image": "https://assets.st-note.com/production/uploads/images/303899601/rectangle_large_type_2_030b3452d5bd702dd6ce5b9819c6db4c.png?width=800",
-    "fetched_at": "2026-08-20 07:48:12",
-    "ja_summary": "・最新のAI研究を基に、ゲーム開発の効率化とプレイヤー体験の進化を展望。\n・開発現場へのAI導入がもたらすプロセスや体験の変化を整理。\n・次世代のゲーム制作においてAIが果たす役割と将来像を解説。"
-  },
-  {
-    "title": "自作アプリからCodex CLIを呼び出す方法",
-    "link": "https://note.com/npaka/n/na1241d876cbb",
-    "source": "note (npaka)",
-    "published": "Sat, 15 Aug 2026 23:55:06 +0900",
-    "summary": "<p id=\"292ad740-7998-4011-b2f8-1e5c7f497b27\" name=\"292ad740-7998-4011-b2f8-1e5c7f497b27\">ChatGPTサブスクを契約したアカウントでログイン済みの「Codex CLI」を、自作アプリから呼び出す方法を紹介します。</p><br /><br /><a href=\"https://note.com/npaka/n/na1241d876cbb\">続きをみる</a>",
-    "image": "https://assets.st-note.com/production/uploads/images/303840025/rectangle_large_type_2_b1eafb819c299d7d13874d1a766a24d7.png?width=800",
-    "fetched_at": "2026-08-20 07:48:12",
-    "ja_summary": "・ChatGPT契約済みアカウントでログインした「Codex CLI」を自作アプリから呼び出す手法を解説。\n・CLIツールを外部プログラムから連携・活用するための具体的な手順がまとめられている。"
   }
 ]
