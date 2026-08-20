@@ -1,5 +1,45 @@
 [
   {
+    "title": "Mariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer",
+    "link": "https://www.anthropic.com/news/tino-cuellar",
+    "source": "Anthropic (News)",
+    "published": "Tue, 04 Aug 2026 00:00:00 +0000",
+    "summary": "Mariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer",
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+    "fetched_at": "2026-08-20 15:30:09",
+    "ja_summary": "・元カリフォルニア州最高裁判事のTino Cuéllar氏が、Anthropicの最高グローバル担当責任者に就任。\n・同氏はAIの政策、ガバナンス、社会的影響の領域を統括する。\n・AnthropicはAI開発における責任ある体制強化と国際的な対話を推進する狙い。"
+  },
+  {
+    "title": "AIエージェントの作業結果、マークダウンで読むの辛くない？ →「HTML共有くん」を作りました",
+    "link": "https://qiita.com/minorun365/items/320b4230c0b0c169ba13",
+    "source": "Qiita (Popular)",
+    "published": "2026-08-16T16:22:51+09:00",
+    "summary": "こんにちは、Grokです。Cursorというコーディングエージェントを使って、みのるんに指示をもらいながらこのブログを書いています。この記事は、普段みのるんの仕事を横で見ている私、Grokの視点からブログにまとめたものです。\n\nみのるん、Claude Codeに雑務を任せるようになってから、いちばん困ってたのが成果物の置き場なんですよ。チャットに貼っても流れるし、案件フォルダに置くと出先のスマホか",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYxNjMzODU2JTJGYzIyNmJjMzRhYzZjNDVhMjFmNWU1MTJkMWM3MmE2ZjA5NzQ5NDU3OCUyRnhfbGFyZ2UucG5nJTNGMTY5OTk1NDk3Nj9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9MTlhZDI4ODRkNmQ2MzEyNjMxZDJkNTBjOTZmOTA5ZjU%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYxZTIwZGI1ZTdlNDA3ZWFlN2I5NzBlYzk5OTg4MGRjOGMzY2MwZjY0JTJGb3JpZ2luYWwuanBnJTNGMTY2NzI3NDk2Mz9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz04OTI0NDcwMDk1MDMyZjUxYmZlNzE3ZjVkOGUzYmE3ZA%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D75789497542ed55352086443c7ba4c98?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9QUklRTMlODIlQTglRTMlODMlQkMlRTMlODIlQjglRTMlODIlQTclRTMlODMlQjMlRTMlODMlODglRTMlODElQUUlRTQlQkQlOUMlRTYlQTUlQUQlRTclQjUlOTAlRTYlOUUlOUMlRTMlODAlODElRTMlODMlOUUlRTMlODMlQkMlRTMlODIlQUYlRTMlODMlODAlRTMlODIlQTYlRTMlODMlQjMlRTMlODElQTclRTglQUElQUQlRTMlODIlODAlRTMlODElQUUlRTglQkUlOUIlRTMlODElOEYlRTMlODElQUElRTMlODElODQlRUYlQkMlOUYlMjAlRTIlODYlOTIlRTMlODAlOENIVE1MJUU1JTg1JUIxJUU2JTlDJTg5JUUzJTgxJThGJUUzJTgyJTkzJUUzJTgwJThEJUUzJTgyJTkyJUU0JUJEJTlDJUUzJTgyJThBJUUzJTgxJUJFJUUzJTgxJTk3JUUzJTgxJTlGJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9YmMzYTQ0MGYwYWQzMmI2YzMwZmE2OTg3MzQ3MGYyYjg&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBtaW5vcnVuMzY1JnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9YThjYmQyMjBkNDc3NGM1MjI3MzBiOWExMjBkOWZlMGM&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=S0RESeOCouOCuOODo-OCpOODq-mWi-eZuuOCu-ODs-OCv-ODvOagquW8j-S8muekvg&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=93ab30ebd25bcdde1347cc60fb1cccdd",
+    "fetched_at": "2026-08-20 15:30:13",
+    "ja_summary": "AIエージェントの成果物がMarkdown形式で管理しにくい課題を解決するため、HTML形式で閲覧・共有できるツール「HTML共有くん」を開発した。チャットツールやフォルダ管理の手間を省き、スマホなどどこからでも成果物を確認できるようになる。"
+  },
+  {
+    "title": "自分のHTML資産を増やすと、AIで見た目の良いサイトを作りやすくなる",
+    "link": "https://qiita.com/uni928/items/b4a874f0bbf91d378097",
+    "source": "Qiita (Popular)",
+    "published": "2026-08-09T16:03:50+09:00",
+    "summary": "ChatGPTなどのAIにHTMLを作ってもらったとき、\n\n> 機能は問題ないけど、もう少し見た目を良くしたい\n\nと思うことがあります。\n\nそんなときに便利なのが、**自分が気に入ったHTMLを「HTML資産」として残しておく方法**です。\n\n例えば、以前作ったボタンや入力フォーム、写真アップロード要素などで、\n\n> この見た目は気に入っている\n\nと思ったものを保存しておきます。\n\nそして、AIに",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYzNzUyODg2JTJGYmM4OTc4NjJmNTRlYTNjZDkzM2JhN2NiNjMyZjMxMTljZDUyNjQ0ZSUyRnhfbGFyZ2UucG5nJTNGMTc4NzAyNDYzMj9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9MzNjODJmYjI5OWM0NTI3MzRlODE1OWVmZWRmZWZkNDE%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D4ab315f6feee264da03c98e43bf501d6?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUU4JTg3JUFBJUU1JTg4JTg2JUUzJTgxJUFFSFRNTCVFOCVCMyU4NyVFNyU5NCVBMyVFMyU4MiU5MiVFNSVBMiU5NyVFMyU4MiU4NCVFMyU4MSU5OSVFMyU4MSVBOCVFMyU4MCU4MUFJJUUzJTgxJUE3JUU4JUE2JThCJUUzJTgxJTlGJUU3JTlCJUFFJUUzJTgxJUFFJUU4JTg5JUFGJUUzJTgxJTg0JUUzJTgyJUI1JUUzJTgyJUE0JUUzJTgzJTg4JUUzJTgyJTkyJUU0JUJEJTlDJUUzJTgyJThBJUUzJTgyJTg0JUUzJTgxJTk5JUUzJTgxJThGJUUzJTgxJUFBJUUzJTgyJThCJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9MTJhZDcyMjFkN2U1Y2Y0OGMyZjJlMjY1NzJlMjUyZDI&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDB1bmk5MjgmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz0wMzQyOWU3M2U5MzdiMTU0OTIzMzk3NGEzZGNhY2YwYg&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=aca22419410ac4c8fb756208e90eed2b",
+    "fetched_at": "2026-08-20 15:30:14",
+    "ja_summary": "・AIが生成したHTMLを好みのデザインにするには、自作の「お気に入りパーツ集」を資産として蓄積しておく。\n・AIへの指示出し時に「保存したコード」を参考に提示することで、理想のデザインを効率的に再現できる。\n・過去の成果物をストックし再利用することで、AIによるサイト制作の質とスピードを向上させる。"
+  },
+  {
+    "title": "【便利】 Claude Codeの覚えておきたいスラッシュコマンドまとめ",
+    "link": "https://qiita.com/tamashiro_nobuyuki/items/573178ed3b8a6a22ebb1",
+    "source": "Qiita (Popular)",
+    "published": "2026-08-07T17:14:06+09:00",
+    "summary": "## Claude Codeの覚えておきたいスラッシュコマンドまとめ\n\nClaude Codeを使っていて「コマンド何だっけ?」となることが多かったので、よく使うスラッシュコマンドを用途別に整理しました。\n\n### 早見表\n\n| コマンド | 何をするか |\n|---|---|\n| `/compact` | 会話を要約して圧縮し、継続する |\n| `/clear` | 会話を完全にリセットする |",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmxoMy5nb29nbGV1c2VyY29udGVudC5jb20lMkZhJTJGQUNnOG9jSVpOcG9KbUxlWjJHQWFwY1BfMzJvU0tVUTVjZzl1Nnl4THVVTmRHaVlwOE5SeiUzRHM5Ni1jP2l4bGliPXJiLTQuMS4xJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz1jNDRmMzZlNjA4OWZhZGE0NjUzNTQwNWVmYjJiYjAwZg%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYwZDI2NDAxZDJiYjJhNzgxZWI4YWU4MGNmNWM2NmUxNzlhNmMzMjMzJTJGb3JpZ2luYWwuanBnJTNGMTcyNzgyODEzMz9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz1jNmJiYmFjMjgwMjVkMTk3OTdkOThiYzI1NDFkYTc1OQ%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D6ff3c4852ece3c4243bf155971aa9ba3?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJTkwJUU0JUJFJUJGJUU1JTg4JUE5JUUzJTgwJTkxJTIwQ2xhdWRlJTIwQ29kZSVFMyU4MSVBRSVFOCVBNiU5QSVFMyU4MSU4OCVFMyU4MSVBNiVFMyU4MSU4QSVFMyU4MSU4RCVFMyU4MSU5RiVFMyU4MSU4NCVFMyU4MiVCOSVFMyU4MyVBOSVFMyU4MyU4MyVFMyU4MiVCNyVFMyU4MyVBNSVFMyU4MiVCMyVFMyU4MyU5RSVFMyU4MyVCMyVFMyU4MyU4OSVFMyU4MSVCRSVFMyU4MSVBOCVFMyU4MiU4MSZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPThjOGU2Y2QyMzMwN2Q3YmViYzIzMTY3YTU4MzM2NTI2&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDB0YW1hc2hpcm9fbm9idXl1a2kmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1lMjVjZDc3ZTcxYWM0NjA2OTYyNjQxYWZlNTMwNDM3MQ&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=5qCq5byP5Lya56S-TkVYVCBURUNITk9MT0dZ&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=fcc7f86bb128f04e5e84943adc73e30f",
+    "fetched_at": "2026-08-20 15:30:14",
+    "ja_summary": "・`/compact`：会話を要約・圧縮して継続する\n・`/clear`：会話履歴を完全にリセットする\nClaude Code利用時の操作を効率化する主要コマンドの早見表。"
+  },
+  {
     "title": "エヌビディア、AMD逆転／EV失速で方針転換／JERAの酒入CFO（2026年8月20日版） (日経ビジネスAUDIOモーニング)",
     "link": "https://business.nikkei.com/atcl/audio/22/00001/081900939/",
     "source": "日経ビジネス 最新",
@@ -958,45 +998,5 @@
     "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Quill&amp;backgroundColor=heather",
     "fetched_at": "2026-08-20 06:17:43",
     "ja_summary": "・AI「Claude」が生成したテキストを判別するための電子透かし技術を解説。\n・文章内の単語選択に微細な統計的パターンを埋め込み、AI製であることを高精度に検知。\n・人間には気付かれない自然な文章を維持しつつ、AIの悪用防止と信頼性向上を図る。"
-  },
-  {
-    "title": "〈アップルも採用検討か〉中国メモリーメーカーYMTCがキオクシア超え世界シェア3位に浮上､技術力と生産能力のすごみ | ビジネス | 東洋経済オンライン",
-    "link": "https://toyokeizai.net/articles/-/955115?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-    "source": "東洋経済オンライン",
-    "published": "Thu, 20 Aug 2026 05:40:00 +0900",
-    "summary": "AI需要の高まりでNAND型フラッシュメモリー市場が活況を呈する中､中国のYMTCが販売数量で世界シェア3位に躍り出ました。独自技術や急速な生産体制拡大で､日韓大手も警戒を強める存在に。中国YMTC…",
-    "image": "https://tk.ismcdn.jp/mwimgs/6/d/1200w/img_6d125ec241f5e8b8d03bebc5ec01a418363239.jpg?nextgen=false",
-    "fetched_at": "2026-08-20 05:51:16",
-    "ja_summary": "・中国のYMTCが独自技術と生産拡大により、NAND型フラッシュメモリーの世界シェア3位に躍進。\n・AI需要の急増を背景に販売数量を伸ばしており、Appleへの供給検討も浮上。\n・日韓の主要メーカーにとって、YMTCは無視できない脅威かつ強力な競合相手となっている。"
-  },
-  {
-    "title": "営業利益28倍！〈爆益〉キオクシアの異次元の絶好調はいつまで続くのか…今後を占う3つの焦点 | ビジネス | 東洋経済オンライン",
-    "link": "https://toyokeizai.net/articles/-/955224?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-    "source": "東洋経済オンライン",
-    "published": "Thu, 20 Aug 2026 05:30:00 +0900",
-    "summary": "2026年に一時､時価総額国内首位へ躍り出たキオクシア。AI需要を追い風に利益規模は異次元の世界に突入したが､今後は市場の変動性や中国勢の追い上げなど課題も山積み。｢爆益｣の勢いはどこまで続くのか､…",
-    "image": "https://tk.ismcdn.jp/mwimgs/a/6/1200w/img_a63d9464513c64c66eda9ffbb21f8d11105879.jpg?nextgen=false",
-    "fetched_at": "2026-08-20 05:51:16",
-    "ja_summary": "・キオクシアがAI需要を追い風に営業利益28倍の爆益を記録し、時価総額で国内首位級へ躍進した。\n・業績は絶好調だが、半導体市場の変動や中国企業の台頭など先行きには不透明な要素も多い。\n・今後の持続的な成長には、市場競争と外部環境の変化にどう対応するかが焦点となる。"
-  },
-  {
-    "title": "AI自動運転newmo、CTOはメルカリ出身　「PayPayと競った経験」が生きる",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03181/080300034/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "newmo（ニューモ）はタクシー会社を傘下に持つ異色の自動運転スタートアップだ。2028年に運転者の監視がいらない「レベル4」のロボタクシーの実用化を目指す。同社CTOの曾川景介氏の経歴も独特で、LINEやメルカリで決済サービスを手掛けてきた。異分野から自動運転に挑戦することにした経緯やニューモの戦略を聞いた。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03181/080300034/topm.jpg?20220512",
-    "fetched_at": "2026-08-20 05:51:28",
-    "ja_summary": "・タクシー会社を傘下に持つスタートアップnewmoが、2028年の自動運転レベル4実現を目指す。\n・LINEやメルカリで決済基盤を支えた曾川景介氏をCTOに迎え、事業拡大を加速させる。\n・異分野で培った大規模サービス運用の知見を、ロボタクシーの社会実装に活用する。"
-  },
-  {
-    "title": "マネックス、「ChatGPT」の会話画面で情報参照可能に　主要証券会社初",
-    "link": "https://www.watch.impress.co.jp/docs/news/2133776.html",
-    "source": "Impress Watch",
-    "published": "",
-    "summary": "マネックス証券は、「ChatGPT」の会話画面で外部サービスと連携し、情報を参照できる機能「ChatGPTプラグイン」に対応した「MONEX MCP Server」の提供を開始した。OpenAIの審査・承認を経て「ChatGPTプラグイン」として公開されたMCP(モデル・コンテキスト・プロトコル)サーバーの提供は主要証券会社では初となる。なお、MCPサーバーは「Claude」のカスタムコネクタとしても利用できる。",
-    "image": "https://www.watch.impress.co.jp/img/ipw/list/2133/776/monex_00.jpg",
-    "fetched_at": "2026-08-20 05:51:35",
-    "ja_summary": "・マネックス証券が主要証券会社で初となる「ChatGPTプラグイン」を提供開始。\n・ChatGPTの会話画面上で、同社の投資情報やデータを直接参照可能になった。\n・同機能は「Claude」のカスタムコネクタとしても利用できる。"
   }
 ]
