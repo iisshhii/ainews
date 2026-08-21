@@ -1,5 +1,25 @@
 [
   {
+    "title": "KDDI、日本発スタートアップの米国進出を支援する新プログラム　第1期はAI新興5社",
+    "link": "https://japan.cnet.com/article/35251785/",
+    "source": "CNET Japan",
+    "published": "",
+    "summary": "KDDIは8月20日、日本発スタートアップの米国進出を支援するアクセラレータープログラム「KDDI Beyond Borders Accelerator」を始めると発表した。第1期にはAIスタートアップ5社が参加し、米サンフランシスコに1カ月間滞在する。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35251785/\"><img src=\"https://japan.cnet.com/storage/2026/08/21/3553f664fed39021e16177b0d831ffb2/t/184/138/d/01.jpg\" /></a>",
+    "image": "https://japan.cnet.com/storage/2026/08/21/3553f664fed39021e16177b0d831ffb2/t/184/138/d/01.jpg",
+    "fetched_at": "2026-08-21 22:38:23",
+    "ja_summary": "KDDIが日本のスタートアップの米国進出を支援する新プログラムを開始。\n第1期はAIスタートアップ5社が選出され、サンフランシスコに1カ月滞在する。\n日本発のAI技術の海外展開と現地での事業成長を全面的にバックアップする。"
+  },
+  {
+    "title": "Oracle MCP Servers Explained",
+    "link": "https://speakerdeck.com/thatjeffsmith/oracle-mcp-servers-explained",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-08-21T08:51:04-04:00",
+    "summary": "Watch vs Read - https://youtu.be/RvvBh0IDgoI \n\nAI + databases are changing how developers explore data, build applications, and get work done. In this 45-minute deep dive, I’ll introduce the Model Context Protocol (MCP), explain why it matters for Oracle AI Database, and walk through practical ways to use AI safely and effectively with your database.\nYou’ll learn:\n\nWhat MCP is and how it connects AI tools to data and services\nReal-world use cases for AI with Oracle Database and enterprise data\nHow Oracle’s MCP servers help bring database context to AI workflows\n\nA closer look at:\n   SQLcl MCP Server (local, STDIO)\n   OCI MCP Service (cloud managed, HTTPS)\n   ORDS MCP Server (remote, HTTPS)\n\nWhether you’re a database developer, DBA, data engineer, AI builder, or simply exploring what’s possible with Oracle Database and generative AI, this video gives you a practical starting point.\n\n#OracleDatabase #OracleAI #MCP #ModelContextProtocol #AI #Database #Data #SQL #SQLcl #ORDS #OCI",
+    "image": "https://files.speakerdeck.com/presentations/bf9729ec48a3446f958936dbf3418cda/preview_slide_0.jpg?40341205",
+    "fetched_at": "2026-08-21 22:38:37",
+    "ja_summary": "・OracleデータベースとAIを連携させる「Model Context Protocol（MCP）」の仕組みと重要性を解説。\n・SQLcl、OCI、ORDSの各MCPサーバーを活用し、安全かつ効率的にAIワークフローへデータを統合する方法を紹介。\n・データベース開発者やAI構築担当者向けに、実用的な接続手法とユースケースを網羅。"
+  },
+  {
     "title": "claude のメモリを棚卸しする",
     "link": "https://zenn.dev/cureapp/articles/c1e963064d05fd",
     "source": "Zenn Trends",
@@ -978,25 +998,5 @@
     "image": "https://image.itmedia.co.jp/business/articles/2608/21/cover_news038.jpg",
     "fetched_at": "2026-08-21 07:51:44",
     "ja_summary": "・SBIが生成AI「Claude」のAnthropicと全社提携し、業務のAI化を最優先戦略に掲げる。\n・証券部門で5億円をAIエージェント開発に投じ、顧客対応強化で27億円の増収を狙う。\n・北尾会長は「孫正義氏はOpenAIだが自分はAnthropic」とし、独自戦略での勝算を強調。"
-  },
-  {
-    "title": "Stripe、AIモデルゲートウェイのOpenRouterを買収",
-    "link": "https://www.watch.impress.co.jp/docs/news/2134389.html",
-    "source": "Impress Watch",
-    "published": "",
-    "summary": "決済プラットフォームを展開するStripeは19日(米国時間)、AIモデルのゲートウェイやルーティングプラットフォームを提供する「OpenRouter」の買収に合意したと発表した。",
-    "image": "https://www.watch.impress.co.jp/img/ipw/list/2134/389/os1.jpg",
-    "fetched_at": "2026-08-21 07:51:56",
-    "ja_summary": "・決済大手StripeがAIモデル連携プラットフォーム「OpenRouter」を買収\n・多様なAIモデルを容易に利用できるゲートウェイ技術を獲得\n・AI活用を促進し、決済プラットフォームとしての付加価値を強化する狙い"
-  },
-  {
-    "title": "SwitchBot、会話を記憶･ToDo化する「AIマインドクリップ」",
-    "link": "https://www.watch.impress.co.jp/docs/news/2133943.html",
-    "source": "Impress Watch",
-    "published": "",
-    "summary": "SWITCHBOTは20日、会話やアイデアを記録し、AIで文字起こしや要約、ToDoの抽出ができるウェアラブルAIアシスタント「SwitchBot AIマインドクリップ」を発売した。各ECサイトで販売し、価格は19,980円。カラーはディープスペースとルナホワイトの2色。",
-    "image": "https://www.watch.impress.co.jp/img/ipw/list/2133/943/8.jpg",
-    "fetched_at": "2026-08-21 07:51:58",
-    "ja_summary": "・SwitchBotがウェアラブルAI「AIマインドクリップ」を発売\n・会話の録音・文字起こし・要約・ToDo抽出を自動化\n・価格は19,980円、アイデアやタスク管理の効率化を支援"
   }
 ]
