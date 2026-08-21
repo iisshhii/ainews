@@ -1,5 +1,15 @@
 [
   {
+    "title": "AI Agentに社内知識をオンボーディングする：SkillsとEvalの設計",
+    "link": "https://zenn.dev/mkj/articles/aad5698672aef3",
+    "source": "Zenn Trends",
+    "published": "Thu, 20 Aug 2026 02:50:05 GMT",
+    "summary": "こんにちは、松尾研究所 データサイエンスチームのマネージャーの浮田です。\n最近のAI Agentは、一般的な調査や実装であればかなり高い水準でこなせるようになってきました。一方で、実際の社内業務に必要な社内固有の知識は持っておらず、非常に優秀だが、まだオンボーディングを受けていない新入社員に近い状態です。\n例えば、\n\nプロジェクト開始時に、誰がどのアカウントや権限を用意するのか\n経費はどのシステムから申請し、誰の承認を得るのか\n\nといった、会社固有の知識をAgentは知りません[1]。\nそこで今回、社内Notionに整備してある新入社員向けのオンボーディング文書をもとに、AI Agent...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--4t0G1MGs--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%2520Agent%25E3%2581%25AB%25E7%25A4%25BE%25E5%2586%2585%25E7%259F%25A5%25E8%25AD%2598%25E3%2582%2592%25E3%2582%25AA%25E3%2583%25B3%25E3%2583%259C%25E3%2583%25BC%25E3%2583%2587%25E3%2582%25A3%25E3%2583%25B3%25E3%2582%25B0%25E3%2581%2599%25E3%2582%258B%25EF%25BC%259ASkills%25E3%2581%25A8Eval%25E3%2581%25AE%25E8%25A8%25AD%25E8%25A8%2588%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:ukita%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2U2NGM3ZTBkMzIuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E6%259D%25BE%25E5%25B0%25BE%25E7%25A0%2594%25E7%25A9%25B6%25E6%2589%2580%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSWtFREpiRTFERFIwY0syRzVSNExhbkJhMkQ2Yktfeld6T1ZTMHJnZlc0Y0U5OUxQQT1zOTYtYw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-08-22 06:58:48",
+    "ja_summary": "・AI Agentは汎用的な能力は高いが、社内固有の手続きや知識が不足しており実務には適応できていない。\n・社内ドキュメントを活用してAIに独自の知識を学習させる必要がある。\n・実務運用に向け、AIのスキル定義（Skills）と性能評価（Eval）を設計することが重要である。"
+  },
+  {
     "title": "｢何がなんだかわからない今の市場｣の｢正体｣とは……｢21世紀最大の金融危機｣が目の前に迫っているといっても過言ではない | 政治・経済・投資 | 東洋経済オンライン",
     "link": "https://toyokeizai.net/articles/-/955587?utm_source=rss&utm_medium=http&utm_campaign=link_back",
     "source": "東洋経済オンライン",
@@ -988,15 +998,5 @@
     "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2026/5/29/e8eac8cbae83d51e14509358139639e09855f11a44f5621f30bc5c8937f217c0.jpg",
     "fetched_at": "2026-08-21 08:17:37",
     "ja_summary": "・政府が日本独自の国産AIシステムの開発と実証実験を開始。\n・海外製への依存を減らし、AIの競争力と経済安全保障を強化する狙い。\n・官民が連携し、社会実装に向けた技術開発を本格的に推進する。"
-  },
-  {
-    "title": "OpenAIの2人語る 注目の職種FDE",
-    "link": "https://news.yahoo.co.jp/pickup/6592242?source=rss",
-    "source": "Yahoo!ニュース IT・科学",
-    "published": "Wed, 19 Aug 2026 00:04:04 GMT",
-    "summary": "",
-    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/8/19/93956c8a240d6f8f530c107e2dbf14e5ed253f730a0a60cae683b79a82ef601a.jpg",
-    "fetched_at": "2026-08-21 08:17:39",
-    "ja_summary": "OpenAIが注目する「FDE（フルスタック・ディープラーニング・エンジニア）」は、AIモデルの開発から製品への実装までを包括的に担う新職種。\nAI活用の普及に伴い、モデル単体ではなくプロダクト全体を最適化できる、技術と製品開発の両方に精通した人材の需要が急増している。\n今後は専門領域の垣根を超え、AIモデルを実用的な価値に変換できるエンジニアの重要性が一層高まる。"
   }
 ]
