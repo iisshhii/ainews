@@ -1,5 +1,25 @@
 [
   {
+    "title": "古い「Android」端末を「Raspberry Pi」の代わりにする方法",
+    "link": "https://japan.zdnet.com/article/35251631/",
+    "source": "ZDNET Japan",
+    "published": "",
+    "summary": "AI需要によるメモリー不足で「Raspberry Pi」の価格が急騰する中、古い「Android」スマートフォンでポータブルな高性能マシンとして代替活用する方法を紹介する。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35251631/\"><img src=\"https://japan.zdnet.com/storage/2026/08/18/2e047cea57934487c5780cef5d820308/t/184/138/d/img-5471_l.jpg\" /></a>",
+    "image": "https://japan.zdnet.com/storage/2026/08/18/2e047cea57934487c5780cef5d820308/t/184/138/d/img-5471_l.jpg",
+    "fetched_at": "2026-08-22 08:15:33",
+    "ja_summary": "・Raspberry Piの価格高騰を受け、古いAndroidスマホを代替機として活用する方法が注目されている。\n・スマホは高性能かつポータブルなため、小型コンピューターとして再利用が可能。\n・余っている端末を有効活用することで、コストを抑えつつ開発環境などを構築できる。"
+  },
+  {
+    "title": "新人AI禁止のあと、「新人AI制御教育ハーネス」を配った結果（Skill原文あり）",
+    "link": "https://qiita.com/WdknWdkn/items/fe4b1810f45e4b6df166",
+    "source": "Qiita (Popular)",
+    "published": "2026-08-20T14:59:32+09:00",
+    "summary": "## はじめに\n\nいえらぶＧＲＯＵＰの開発部で執行役員を務めています、和田です。わだけんです。\n\n去年、新人にAIを一時的に禁止した話を書きました。1週間で1,000行持ってきたのに「なぜこう書いたか」が「AIがそう言ったので」で、コメント800件を超えても理解が進まず、一旦止めて毎日100行ずつ書かせたやつ。\n\nhttps://qiita.com/WdknWdkn/items/9b7dea889",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYyMTUxMjglMkZjZDcxOTM0ZjMxOGIwMGYwZGQ0OTU3YjU4NTBiYzk4MGM5MjEwNGVkJTJGeF9sYXJnZS5wbmclM0YxNjM4NzU1ODYzP2l4bGliPXJiLTQuMS4xJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz1lMDhiYmM5MzJlMTE2NDA3YTY4MmY0ZWQyNTA1Nzg0Nw%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D05a90f6a0cfd4ac041aa6e8649c9441c?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUU2JTk2JUIwJUU0JUJBJUJBQUklRTclQTYlODElRTYlQUQlQTIlRTMlODElQUUlRTMlODElODIlRTMlODElQTglRTMlODAlODElRTMlODAlOEMlRTYlOTYlQjAlRTQlQkElQkFBSSVFNSU4OCVCNiVFNSVCRSVBMSVFNiU5NSU5OSVFOCU4MiVCMiVFMyU4MyU4RiVFMyU4MyVCQyVFMyU4MyU4RCVFMyU4MiVCOSVFMyU4MCU4RCVFMyU4MiU5MiVFOSU4NSU4RCVFMyU4MSVBMyVFMyU4MSU5RiVFNyVCNSU5MCVFNiU5RSU5QyVFRiVCQyU4OFNraWxsJUU1JThFJTlGJUU2JTk2JTg3JUUzJTgxJTgyJUUzJTgyJThBJUVGJUJDJTg5JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9MjgxZDk3N2NhMWZhOTkzZjNjOTRmZDNjYTgxOWMzNTE&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBXZGtuV2RrbiZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTUzYWI2ZTI2ODZiMTllNjc1Y2M0ZjQyY2VlYjRjZDg1&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=8422429048df3ebae89f8fcb9ada4c5f",
+    "fetched_at": "2026-08-22 08:15:46",
+    "ja_summary": "・AIの出力内容を理解せず利用する新人の指導のため、一時的にAI利用を禁止し基礎力を育成。\n・その後、AIを安全に活用するための「制御教育ハーネス（ガイドライン）」を導入。\n・AI依存を防ぎつつ、考えながらツールとして活用するプロセスを徹底させた。"
+  },
+  {
     "title": "Uber Eats黒字化の立役者　Airbnb新社長が明かす「脱・インバウンド依存」の勝算",
     "link": "https://www.itmedia.co.jp/business/articles/2608/22/news013.html",
     "source": "ITmedia ビジネス",
@@ -978,25 +998,5 @@
     "image": "https://www.techno-edge.net/imgs/rss/33622.jpg",
     "fetched_at": "2026-08-21 08:47:46",
     "ja_summary": "・Metaの軽量AI「Muse Glimmer」や高性能な小型モデル「Qwen3.8-27B」など、ローカル環境で動くAI技術が進化。\n・「MiniMax Music 3」が最大5分間のボーカル付き楽曲生成を実現するなど、音楽生成AIの質も向上。\n・生成AIウィークリー第156回として、今週の注目AI技術5選を詳細に解説。"
-  },
-  {
-    "title": "熊本地震の被災自治体等へ、ガバメントAI 源内を緊急提供します（更新）",
-    "link": "https://www.digital.go.jp/news/cb912b3b-49c9-4a02-aa46-4056b96c1d4f",
-    "source": "デジタル庁",
-    "published": "Wed, 19 Aug 2026 10:18:06 +0900",
-    "summary": "",
-    "image": "https://www.digital.go.jp/themes/custom/gov_theme_da_2023/assets/images/ogp.png",
-    "fetched_at": "2026-08-21 08:47:46",
-    "ja_summary": "・熊本地震の被災自治体に対し、生成AI「ガバメントAI 源内」を緊急提供する。\n・被災地の業務効率化と迅速な復旧・復興支援を目的とする。\n・庁内の情報整理や文書作成をAIでサポートし、自治体の負担を軽減する。"
-  },
-  {
-    "title": "Offering Zero Data Retention for frontier models",
-    "link": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
-    "source": "OpenAI",
-    "published": "Wed, 19 Aug 2026 19:00:00 GMT",
-    "summary": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
-    "image": "https://images.ctfassets.net/kftzwdyauwt9/4bH42IUP1LSYL5WNIs0ya1/ed6b0e324c8f142d964229474d7ee601/codex-seo-private-intelligence-v3-1787157696296.png?w=1600&amp;h=900&amp;fit=fill",
-    "fetched_at": "2026-08-21 08:47:48",
-    "ja_summary": "・OpenAIはAPI利用企業のデータ保持ゼロを改めて保証\n・データプライバシーを保護しつつ高度な安全性評価を可能にする新手法を導入へ\n・法人利用の機密性を高め、エンタープライズ層の安全なAI活用を促進"
   }
 ]
