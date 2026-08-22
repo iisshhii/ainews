@@ -1,5 +1,15 @@
 [
   {
+    "title": "AI時代だからこそ｢1日15分のお節介｣を――84歳のPR会社創業者が説く､自分も世界もちょっぴり変わる生き方 | ライフ | 東洋経済オンライン",
+    "link": "https://toyokeizai.net/articles/-/955241?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+    "source": "東洋経済オンライン",
+    "published": "Sun, 23 Aug 2026 07:00:00 +0900",
+    "summary": "核家族化や人間関係の希薄化が進む現代社会で､お節介という優しさが見直されています。84歳の高橋恵さんが率いるおせっかい協会は､｢OSEKKAI｣を世界共通語に――という夢のもと､見返りを求めず一歩踏…",
+    "image": "https://tk.ismcdn.jp/mwimgs/0/0/1200w/img_0023dbd6559d34c1ad4df3dc828288fc613810.jpg?nextgen=false",
+    "fetched_at": "2026-08-23 07:18:00",
+    "ja_summary": "・人間関係が希薄な現代において、見返りを求めない「1日15分のお節介」が自分と世界を良くする。\n・84歳の創業者が率いる「おせっかい協会」は、この精神を世界共通の文化にすることを目指している。\n・AI時代だからこそ、人と人の温かな関わり合いが社会をより良くする鍵となる。"
+  },
+  {
     "title": "Claude Code の設定でハマる箇所まとめ",
     "link": "https://qiita.com/jqit_suwa/items/d49739b934606d4abdbd",
     "source": "Qiita (Popular)",
@@ -988,15 +998,5 @@
     "image": "https://res.cloudinary.com/zenn/image/upload/s--_TKMrJGc--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E9%25A6%2596%25E6%258E%259B%25E3%2581%2591%25E5%259E%258B%25E3%2582%25A6%25E3%2582%25A7%25E3%2582%25A2%25E3%2583%25A9%25E3%2583%2596%25E3%2583%25AB%2520THINKLET%2520%25E3%2581%25A8%2520OpenAI%2520Realtime%2520API%2520%25E3%2581%25A7%25E3%2580%258C%25E7%259B%25AE%25E3%2581%25AE%25E5%2589%258D%25E3%2582%2592%25E4%25B8%2580%25E7%25B7%2592%25E3%2581%25AB%25E8%25A6%258B%25E3%2581%25AA%25E3%2581%258C%25E3%2582%2589%25E7%259B%25B8%25E8%25AB%2587...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:yujif%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzMwMGNiNjczN2IuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
     "fetched_at": "2026-08-21 14:25:03",
     "ja_summary": "・首掛け型ウェアラブル「THINKLET」とOpenAIのAPIを連携し、視界を共有しながら対話できるシステムを開発。\n・カメラとマイクで状況を認識し、目の前の課題をリアルタイムで相談可能な「相方」として機能。\n・ソースコードをOSSとして公開しており、誰でも活用・カスタマイズが可能。"
-  },
-  {
-    "title": "ローカルLLM編成が単独のフロンティアAIを超えた日",
-    "link": "https://zenn.dev/nrs/articles/b920540a64e1a1",
-    "source": "Zenn Trends",
-    "published": "Tue, 18 Aug 2026 11:42:49 GMT",
-    "summary": "OpenAI や Anthropic のフロンティアモデルの性能はとてもよいのですが、経済性がよくありません。\n日次や週次のレート制限がどれだけあなたを苛立たせたでしょう。\nまた、毎日の仕事道具の生殺与奪を誰かの方針に握られているのも気に入りません。\nこの不快感を強く感じたシーンは何度もありました。\nOpenAI が誤って私を BAN した日（みんな大騒ぎしてましたね）。\nAnthropic が SDK 利用をサブスクリプションから排除すると発表した日（現在ではうやむやになりました）。\nRateLimit で何もできなくなった日。\nとおもったら Rate Reset の嵐で使い切らないと...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--86dSWgiU--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%25AD%25E3%2583%25BC%25E3%2582%25AB%25E3%2583%25ABLLM%25E7%25B7%25A8%25E6%2588%2590%25E3%2581%258C%25E5%258D%2598%25E7%258B%25AC%25E3%2581%25AE%25E3%2583%2595%25E3%2583%25AD%25E3%2583%25B3%25E3%2583%2586%25E3%2582%25A3%25E3%2582%25A2AI%25E3%2582%2592%25E8%25B6%2585%25E3%2581%2588%25E3%2581%259F%25E6%2597%25A5%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:nrs%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2UzODcxZGFkYjEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "fetched_at": "2026-08-21 14:25:04",
-    "ja_summary": "・フロンティアAIは高性能だが、コストやレート制限、運営側の仕様変更による業務中断のリスクが課題である。\n・単一の巨大モデルに依存するのではなく、ローカルLLMを最適に組み合わせる手法が現実的な選択肢となっている。\n・業務の自律性と安定性を確保するため、外部依存を脱却し「自分で制御できる環境」への移行が重要である。"
   }
 ]
