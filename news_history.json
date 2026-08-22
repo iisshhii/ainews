@@ -1,5 +1,15 @@
 [
   {
+    "title": "How Claude’s text watermark works",
+    "link": "https://www.anthropic.com/news/claude-text-watermark",
+    "source": "Anthropic (News)",
+    "published": "Fri, 14 Aug 2026 00:00:00 +0000",
+    "summary": "How Claude’s text watermark works",
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Quill&amp;backgroundColor=heather",
+    "fetched_at": "2026-08-22 16:44:16",
+    "ja_summary": "・AnthropicはAI生成テキストを識別するため、文字の並び方に微細な偏りを持たせる「ウォーターマーク」技術を採用している。\n・この仕組みは特定の統計的パターンを埋め込むことで、元のモデルによる生成物か否かを後から検証可能にする。\n・堅牢性を高めるため、テキストの一部が改変されても高い精度でAI生成を検知できる設計となっている。"
+  },
+  {
     "title": "「ほんだし」炎上の本質　消費者が怒ったのは「AIの使用」ではなく「自社商品への愛のなさ」だ",
     "link": "https://www.itmedia.co.jp/business/articles/2608/21/news045.html",
     "source": "ITmedia ビジネス",
@@ -988,15 +998,5 @@
     "image": "https://japan.cnet.com/storage/2026/08/20/b4aec857ba5811e23f403c84964e5493/t/184/138/d/about-amazon-hero-prime-air-amazon-news-wl-20260817_1280x960.jpg",
     "fetched_at": "2026-08-21 12:27:46",
     "ja_summary": "・アマゾンがドローン配送「Prime Air」の対象地域を米国内約500都市へ拡大する。\n・2026年末までに現在の6倍の規模へと提供エリアを広げる。"
-  },
-  {
-    "title": "ChatGPT Ads expands across Europe",
-    "link": "https://openai.com/index/chatgpt-ads-expands-across-europe",
-    "source": "OpenAI",
-    "published": "Tue, 18 Aug 2026 22:00:00 GMT",
-    "summary": "ChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach people as they explore, compare options, and make decisions.",
-    "image": "https://images.ctfassets.net/kftzwdyauwt9/OvScmX8CxThRRwHLDcyAt/6db3028c57d0866137a4b3fcac0e3166/chatgpt-ads-europe-readable-seo.png?w=1600&amp;h=900&amp;fit=fill",
-    "fetched_at": "2026-08-21 12:27:53",
-    "ja_summary": "・ChatGPTの広告サービスが欧州31カ国へ拡大。\n・ユーザーが検索・比較・意思決定を行う過程で広告を表示可能。\n・欧州市場での新たなマーケティングチャネルとして活用が期待される。"
   }
 ]
