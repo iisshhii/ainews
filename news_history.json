@@ -1,5 +1,15 @@
 [
   {
+    "title": "Claude Code の設定でハマる箇所まとめ",
+    "link": "https://qiita.com/jqit_suwa/items/d49739b934606d4abdbd",
+    "source": "Qiita (Popular)",
+    "published": "2026-08-20T09:31:57+09:00",
+    "summary": "\nClaude Code を使っていて、こういう目に遭ったことはないでしょうか。\n\n- 公式に「既定でON」と書いてある機能が、なぜか使えない\n- 昨日まで出ていたタスクリストが、いつの間にか出なくなった\n- 設定を書いたのに、何も起きない。エラーも出ない\n\n**原因の多くは、公式ドキュメントに載っていない環境変数**でした。\n\nこの1週間で踏んだものを、**症状から引ける形**でまとめます。全部",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0NDMwNjExJTJGYTRlNGFiZDZjNWNkZmM5NzkzMTk2ZmUwZDFjZjYyMGY1ZWYxMTY5NCUyRnhfbGFyZ2UucG5nJTNGMTc4NTI4OTU5Nj9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NGE5ZmNiZmE4OTM5NWU1MWY1N2FiYjJkYzI1ZTFmZDQ%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYyMDc3NzA2NTMzODkzMmUyMWVjMjk3MjI5ZDVkZmI5NDk5MWI5YzFhJTJGb3JpZ2luYWwuanBnJTNGMTc2OTAwMDk3MD9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz1lYjc1ZTQzMzAzYTdlNTkzNDQ4Yjc4NDZiMjljYTgxZA%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D237198914e54e0e7e727d16c4cfb7823?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9Q2xhdWRlJTIwQ29kZSUyMCVFMyU4MSVBRSVFOCVBOCVBRCVFNSVBRSU5QSVFMyU4MSVBNyVFMyU4MyU4RiVFMyU4MyU5RSVFMyU4MiU4QiVFNyVBRSU4NyVFNiU4OSU4MCVFMyU4MSVCRSVFMyU4MSVBOCVFMyU4MiU4MSZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTJhNDFmZWFjYTQ5ODIwMTQ4MTEzMjI3NGU0ODc0Mzg4&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBqcWl0X3N1d2EmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz0wYWE2OTJkMmQwMzE0Yzg2ZDIzMGMyOWU5Njg2ZGUyMg&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=5qCq5byP5Lya56S-SlFJVA&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=84e2cf2d542d69ed08c8f44844e91f39",
+    "fetched_at": "2026-08-22 23:20:06",
+    "ja_summary": "・Claude Codeで設定が反映されないトラブルの多くは、公式にない隠れた環境変数が原因。\n・「機能が動かない」「タスクリストが出ない」といった症状別に、回避策を網羅的に解説。\n・公式ドキュメント外の知見をまとめた、開発効率を上げるためのトラブルシューティング集。"
+  },
+  {
     "title": "Slack Code開始　ClaudeやChatGPTをSlackチャンネルで操作",
     "link": "https://www.watch.impress.co.jp/docs/news/2134510.html",
     "source": "Impress Watch",
@@ -988,15 +998,5 @@
     "image": "https://res.cloudinary.com/zenn/image/upload/s--86dSWgiU--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%25AD%25E3%2583%25BC%25E3%2582%25AB%25E3%2583%25ABLLM%25E7%25B7%25A8%25E6%2588%2590%25E3%2581%258C%25E5%258D%2598%25E7%258B%25AC%25E3%2581%25AE%25E3%2583%2595%25E3%2583%25AD%25E3%2583%25B3%25E3%2583%2586%25E3%2582%25A3%25E3%2582%25A2AI%25E3%2582%2592%25E8%25B6%2585%25E3%2581%2588%25E3%2581%259F%25E6%2597%25A5%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:nrs%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2UzODcxZGFkYjEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
     "fetched_at": "2026-08-21 14:25:04",
     "ja_summary": "・フロンティアAIは高性能だが、コストやレート制限、運営側の仕様変更による業務中断のリスクが課題である。\n・単一の巨大モデルに依存するのではなく、ローカルLLMを最適に組み合わせる手法が現実的な選択肢となっている。\n・業務の自律性と安定性を確保するため、外部依存を脱却し「自分で制御できる環境」への移行が重要である。"
-  },
-  {
-    "title": "AI時代のアウトプット――変わったこと、変わらないこと / Devsumi 2026 Kansai #devsumi",
-    "link": "https://speakerdeck.com/jnchito/devsumi-2026-kansai-number-devsumi",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-08-21T01:13:57-04:00",
-    "summary": "Developers Summit 2026 KANSAI（デブサミ2026関西）で使った登壇資料です。\nhttps://event.shoeisha.jp/devsumi/20260821/session/6957\n\n技術記事を書く技術 ITエンジニアの価値を高めるアウトプットのすべて（伊藤 淳一）｜翔泳社の本 \nhttps://www.shoeisha.co.jp/book/detail/9784798177045\n\n世界で闘う エンジニア・アウトプット力を鍛える本 | マイナビブックス \nhttps://book.mynavi.jp/ec/products/detail/id=152427\n\nプロを目指す人のためのRuby入門［改訂2版⁠］⁠ 言語仕様からテスト駆動開発・デバッグ技法まで | 技術評論社 \nhttps://gihyo.jp/book/2021/978-4-297-12437-3",
-    "image": "https://files.speakerdeck.com/presentations/001633a81df241389df873c045fd8aff/preview_slide_0.jpg?40335992",
-    "fetched_at": "2026-08-21 14:25:05",
-    "ja_summary": "AIが普及しても、エンジニアにとって価値あるアウトプットの基本は変わらない。\nAIを強力なツールとして活用しつつ、経験に基づいた独自の知見を発信することが自身の市場価値向上に繋がる。\n良質なアウトプットを継続する技術を磨き、個人の専門性を高めていくことが重要。"
   }
 ]
