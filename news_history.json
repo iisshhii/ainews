@@ -1,5 +1,25 @@
 [
   {
+    "title": "「Meta AI」のMacデスクトップアプリがリリース。画面共有・広告分析連携など業務向け機能を搭載",
+    "link": "https://www.techno-edge.net/article/2026/08/20/5407.html",
+    "source": "TechnoEdge",
+    "published": "Thu, 20 Aug 2026 07:00:03 +0900",
+    "summary": "Metaは、AI アシスタント「Meta AI」のMac版デスクトップアプリを公開しました。Apple Silicon搭載のMacおよびmacOS 15以降に対応しています。",
+    "image": "https://www.techno-edge.net/imgs/rss/33676.jpg",
+    "fetched_at": "2026-08-22 21:23:29",
+    "ja_summary": "・MetaがMac用「Meta AI」デスクトップアプリを公開。\n・Apple Silicon搭載機（macOS 15以降）に対応。\n・画面共有や広告分析連携など、業務効率化に特化した機能を搭載。"
+  },
+  {
+    "title": "RTX 5090でFreeTokenを試してみた。35Bでは不要、120B級MoEでは話が変わる",
+    "link": "https://zenn.dev/holy_fox/articles/53b82eed45f956",
+    "source": "Zenn Trends",
+    "published": "Sat, 22 Aug 2026 07:44:27 GMT",
+    "summary": "2026年8月22日時点のFreeToken 0.1.2を、RTX 5090 32GBとRAM 128GBのPCで試しました。\nFreeTokenは、Mixture-of-Experts（MoE）モデルのexpertをホストRAMへ置き、必要なexpertだけをGPUへキャッシュしながら推論するサービングエンジンです。狙いはvLLMやllama.cppを単純に高速化することではなく、VRAMに収まらない巨大なMoEをコンシューマ向けGPUで実用速度で動かすことにあります。\n実際に試すと、この立ち位置がかなり明確に出ました。23.5GBのOrnith 1.5ではllama.cppとvLLM...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--AGs6k9Vn--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:RTX%25205090%25E3%2581%25A7FreeToken%25E3%2582%2592%25E8%25A9%25A6%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%25E3%2580%258235B%25E3%2581%25A7%25E3%2581%25AF%25E4%25B8%258D%25E8%25A6%2581%25E3%2580%2581120B%25E7%25B4%259AMoE%25E3%2581%25A7%25E3%2581%25AF%25E8%25A9%25B1%25E3%2581%258C%25E5%25A4%2589%25E3%2582%258F%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%25BB%25E3%2583%25BC%25E3%2582%258A%25E3%2583%25BC%25E3%2581%25B5%25E3%2581%2589%25E3%2581%25A3%25E3%2581%258F%25E3%2581%2599%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzZlMmM2MjU5ZmQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-08-22 21:23:32",
+    "ja_summary": "・FreeTokenは、巨大なMoEモデルの専門家（Expert）をホストRAMに配置し、必要分のみGPUへ転送する推論エンジン。\n・VRAM容量を超える巨大モデルを、コンシューマ向けGPUでも実用的な速度で動作させることが可能。\n・小規模モデルでは従来の手法と差が出ないが、VRAMに収まらない巨大モデルで真価を発揮する。"
+  },
+  {
     "title": "架空の党員をAIで作成 立憲苦言",
     "link": "https://news.yahoo.co.jp/pickup/6592700?source=rss",
     "source": "Yahoo!ニュース IT・科学",
@@ -978,25 +998,5 @@
     "image": "https://www.watch.impress.co.jp/img/ipw/list/2134/488/o1.jpg",
     "fetched_at": "2026-08-21 13:08:54",
     "ja_summary": "・Mac版ChatGPTが「Appleメッセージ」と連携。\n・アプリ内から直接メッセージの送信や検索が可能に。\n・OpenAIのアップデートにより作業効率が向上。"
-  },
-  {
-    "title": "特殊詐欺被害は右肩上がり、日本が詐欺の先進国に--トレンドマイクロ調査",
-    "link": "https://japan.zdnet.com/article/35251800/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "トレンドマイクロは、「個人セキュリティ脅威動向レポート 2026 上半期」を公開した。同レポートは2026年1～6月の国内の脅威動向を、個人利用者に被害をもたらす「詐欺」と「AIのリスク」の2つの観点から、トレンドマイクロの観測データと独自調査をもとにまとめたもの。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35251800/\"><img src=\"https://japan.zdnet.com/storage/2026/08/21/6262b24ee0de83579d4ef049c1ab392f/t/184/138/d/260820_trend_001.JPG\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2026/08/21/6262b24ee0de83579d4ef049c1ab392f/t/184/138/d/260820_trend_001.JPG",
-    "fetched_at": "2026-08-21 13:09:02",
-    "ja_summary": "・2026年上半期、日本国内で特殊詐欺被害が深刻化し、「詐欺の先進国」と呼ばれる状況にある。\n・トレンドマイクロの調査により、個人を狙う詐欺の手口やAIを悪用した新たな脅威が拡大していることが判明。\n・個人のセキュリティ対策の重要性がかつてないほど高まっている。"
-  },
-  {
-    "title": "AI投資がついに本命に--中堅中小企業の約7割がAIに100万円超を投入",
-    "link": "https://japan.zdnet.com/article/35251801/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "デル・テクノロジーズは、日本の中堅・中小企業のIT担当者を対象に実施した「中堅中小企業向けIT投資動向調査2026」の結果を発表した。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35251801/\"><img src=\"https://japan.zdnet.com/storage/2025/11/07/1d70c6b3fd209b9551e1dc5ec9352c1e/t/184/138/d/251107_diagram_as_1280_316504896.jpg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2025/11/07/1d70c6b3fd209b9551e1dc5ec9352c1e/t/184/138/d/251107_diagram_as_1280_316504896.jpg",
-    "fetched_at": "2026-08-21 13:09:02",
-    "ja_summary": "・日本の中堅・中小企業の約7割が、AIへ100万円超の投資を行っている。\n・AI活用が企業投資の「本命」となり、本格的な導入フェーズに突入した。\n・デル・テクノロジーズが実施したIT投資動向調査で明らかになった。"
   }
 ]
