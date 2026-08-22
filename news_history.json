@@ -1,5 +1,35 @@
 [
   {
+    "title": "SpaceX、100万機のAI衛星「スターマインド」計画は実現するか?",
+    "link": "https://www.watch.impress.co.jp/docs/topic/2133658.html",
+    "source": "Impress Watch",
+    "published": "",
+    "summary": "2026年8月4日、SpaceXは軌道上AIデータセンター衛星の構想を「Starmind(スターマインド)」と名付け、第1世代衛星「AI1」にNVIDIAのRubin GPUとVera CPUを採用すると発表しました。AIの普及で地上のデータセンターが電力と冷却の制約に直面するなか、SpaceXが描くのは、天候に左右されない軌道上で太陽光を得て、真空へ熱を捨てながらAI計算を行なう、最大100万機規模の衛星群です。",
+    "image": "https://www.watch.impress.co.jp/img/ipw/list/2133/658/star04.jpg",
+    "fetched_at": "2026-08-22 12:12:49",
+    "ja_summary": "・SpaceXが軌道上でAI計算を行う衛星群「スターマインド」計画を発表。\n・NVIDIAの高性能チップを搭載し、地上の電力・冷却問題を宇宙空間で解消する。\n・最大100万機の衛星を打ち上げ、データセンターを宇宙へ展開する構想。"
+  },
+  {
+    "title": "GEN-1.5 の概要",
+    "link": "https://note.com/npaka/n/n309d7c94b59f",
+    "source": "note (npaka)",
+    "published": "Fri, 21 Aug 2026 08:49:58 +0900",
+    "summary": "<p id=\"e1a64dec-b3a3-4edd-b43f-3eb3cb0eea43\" name=\"e1a64dec-b3a3-4edd-b43f-3eb3cb0eea43\">「GEN-1.5」の概要をまとめました。</p><figure id=\"15d66f86-988a-47f2-bf0b-6de0dd8cc6cf\" name=\"15d66f86-988a-47f2-bf0b-6de0dd8cc6cf\"><blockquote><p id=\"87c56db7-e085-4625-a87b-ba62d3b6888a\" name=\"87c56db7-e085-4625-a87b-ba62d3b6888a\"><strong>・</strong><a href=\"https://generalistai.com/blog/gen-1.5\" rel=\"nofollow noopener\" target=\"_blank\"><strong>GEN-1.5: Embodied Foundation Models are One-Shot Learners</strong></a></p></blockquote>\n<figcaption></figcaption></figure><br /><a href=\"https://note.com/npaka/n/n309d7c94b59f\">続きをみる</a>",
+    "image": "https://assets.st-note.com/production/uploads/images/305488461/rectangle_large_type_2_5c55e23f5cfa9c898433f8db2a005725.png?width=800",
+    "fetched_at": "2026-08-22 12:12:51",
+    "ja_summary": "・ロボット操作のための基盤モデル「GEN-1.5」の解説記事。\n・一度の指示で学習・適応する「ワンショット学習」能力を強化。\n・複雑なロボットタスクへの高い汎用性と適応性を実現している。"
+  },
+  {
+    "title": "タイ政府 500万人にAI無料提供",
+    "link": "https://news.yahoo.co.jp/pickup/6592496?source=rss",
+    "source": "Yahoo!ニュース IT・科学",
+    "published": "Fri, 21 Aug 2026 00:33:06 GMT",
+    "summary": "",
+    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/8/21/3e06f21483de18b26e028095c3604a53e0df0b6a6a6c6c3493ae438f405ea83f.jpg",
+    "fetched_at": "2026-08-22 12:12:54",
+    "ja_summary": "・タイ政府が国民500万人を対象にAIの無料提供を開始。\n・デジタル格差の是正と、国民のAI活用スキルの向上を目指す。\n・官民連携で技術導入を加速し、国全体のDXを推進する狙い。"
+  },
+  {
     "title": "「定型業務の切り出し」に頼らない障害者雇用　AI時代に社員の強みを引き出す“3つの業務設計アプローチ”",
     "link": "https://www.itmedia.co.jp/business/articles/2608/21/news025.html",
     "source": "ITmedia ビジネス",
@@ -968,35 +998,5 @@
     "image": "https://files.speakerdeck.com/presentations/13fcf855219149df838cfaa716bb8e3a/preview_slide_0.jpg?40327047",
     "fetched_at": "2026-08-21 11:19:10",
     "ja_summary": "・DatadogのAgent Observabilityを活用したAIチャットボットの内製・運用ノウハウを解説。\n・MCP ServerやBits AIを用いた実践的な開発事例を共有。\n・AI運用の最前線における監視・改善の知見をまとめた大阪開催のセミナー内容。"
-  },
-  {
-    "title": "AIエージェントの作業結果、マークダウンで読むの辛くない？ →「HTML共有くん」を作りました",
-    "link": "https://qiita.com/minorun365/items/320b4230c0b0c169ba13",
-    "source": "Qiita (Popular)",
-    "published": "2026-08-16T16:22:51+09:00",
-    "summary": "こんにちは、Grokです。Cursorというコーディングエージェントを使って、みのるんに指示をもらいながらこのブログを書いています。この記事は、普段みのるんの仕事を横で見ている私、Grokの視点からブログにまとめたものです。\n\nみのるん、Claude Codeに雑務を任せるようになってから、いちばん困ってたのが成果物の置き場なんですよ。チャットに貼っても流れるし、案件フォルダに置くと出先のスマホか",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYxNjMzODU2JTJGYzIyNmJjMzRhYzZjNDVhMjFmNWU1MTJkMWM3MmE2ZjA5NzQ5NDU3OCUyRnhfbGFyZ2UucG5nJTNGMTY5OTk1NDk3Nj9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9MTlhZDI4ODRkNmQ2MzEyNjMxZDJkNTBjOTZmOTA5ZjU%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYxZTIwZGI1ZTdlNDA3ZWFlN2I5NzBlYzk5OTg4MGRjOGMzY2MwZjY0JTJGb3JpZ2luYWwuanBnJTNGMTY2NzI3NDk2Mz9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz04OTI0NDcwMDk1MDMyZjUxYmZlNzE3ZjVkOGUzYmE3ZA%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D75789497542ed55352086443c7ba4c98?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9QUklRTMlODIlQTglRTMlODMlQkMlRTMlODIlQjglRTMlODIlQTclRTMlODMlQjMlRTMlODMlODglRTMlODElQUUlRTQlQkQlOUMlRTYlQTUlQUQlRTclQjUlOTAlRTYlOUUlOUMlRTMlODAlODElRTMlODMlOUUlRTMlODMlQkMlRTMlODIlQUYlRTMlODMlODAlRTMlODIlQTYlRTMlODMlQjMlRTMlODElQTclRTglQUElQUQlRTMlODIlODAlRTMlODElQUUlRTglQkUlOUIlRTMlODElOEYlRTMlODElQUElRTMlODElODQlRUYlQkMlOUYlMjAlRTIlODYlOTIlRTMlODAlOENIVE1MJUU1JTg1JUIxJUU2JTlDJTg5JUUzJTgxJThGJUUzJTgyJTkzJUUzJTgwJThEJUUzJTgyJTkyJUU0JUJEJTlDJUUzJTgyJThBJUUzJTgxJUJFJUUzJTgxJTk3JUUzJTgxJTlGJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9YmMzYTQ0MGYwYWQzMmI2YzMwZmE2OTg3MzQ3MGYyYjg&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBtaW5vcnVuMzY1JnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9YThjYmQyMjBkNDc3NGM1MjI3MzBiOWExMjBkOWZlMGM&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=S0RESeOCouOCuOODo-OCpOODq-mWi-eZuuOCu-ODs-OCv-ODvOagquW8j-S8muekvg&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=93ab30ebd25bcdde1347cc60fb1cccdd",
-    "fetched_at": "2026-08-21 11:19:12",
-    "ja_summary": "AIエージェントの成果物がMarkdown形式で見づらい課題を解決するため、HTML形式で閲覧・共有できるツール「HTML共有くん」を開発した。チャット欄やファイル管理での煩雑さを解消し、ブラウザ上で直感的に成果物を確認できる。"
-  },
-  {
-    "title": "自分のHTML資産を増やすと、AIで見た目の良いサイトを作りやすくなる",
-    "link": "https://qiita.com/uni928/items/b4a874f0bbf91d378097",
-    "source": "Qiita (Popular)",
-    "published": "2026-08-09T16:03:50+09:00",
-    "summary": "ChatGPTなどのAIにHTMLを作ってもらったとき、\n\n> 機能は問題ないけど、もう少し見た目を良くしたい\n\nと思うことがあります。\n\nそんなときに便利なのが、**自分が気に入ったHTMLを「HTML資産」として残しておく方法**です。\n\n例えば、以前作ったボタンや入力フォーム、写真アップロード要素などで、\n\n> この見た目は気に入っている\n\nと思ったものを保存しておきます。\n\nそして、AIに",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYzNzUyODg2JTJGYmM4OTc4NjJmNTRlYTNjZDkzM2JhN2NiNjMyZjMxMTljZDUyNjQ0ZSUyRnhfbGFyZ2UucG5nJTNGMTc4NzAyNDYzMj9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9MzNjODJmYjI5OWM0NTI3MzRlODE1OWVmZWRmZWZkNDE%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D4ab315f6feee264da03c98e43bf501d6?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUU4JTg3JUFBJUU1JTg4JTg2JUUzJTgxJUFFSFRNTCVFOCVCMyU4NyVFNyU5NCVBMyVFMyU4MiU5MiVFNSVBMiU5NyVFMyU4MiU4NCVFMyU4MSU5OSVFMyU4MSVBOCVFMyU4MCU4MUFJJUUzJTgxJUE3JUU4JUE2JThCJUUzJTgxJTlGJUU3JTlCJUFFJUUzJTgxJUFFJUU4JTg5JUFGJUUzJTgxJTg0JUUzJTgyJUI1JUUzJTgyJUE0JUUzJTgzJTg4JUUzJTgyJTkyJUU0JUJEJTlDJUUzJTgyJThBJUUzJTgyJTg0JUUzJTgxJTk5JUUzJTgxJThGJUUzJTgxJUFBJUUzJTgyJThCJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9MTJhZDcyMjFkN2U1Y2Y0OGMyZjJlMjY1NzJlMjUyZDI&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDB1bmk5MjgmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz0wMzQyOWU3M2U5MzdiMTU0OTIzMzk3NGEzZGNhY2YwYg&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=aca22419410ac4c8fb756208e90eed2b",
-    "fetched_at": "2026-08-21 11:19:13",
-    "ja_summary": "・AIが生成したコードに、お気に入りの「HTML資産（ボタンやフォーム等）」を組み合わせて指示する。\n・自分好みのデザインパターンを蓄積・再利用することで、AI生成サイトのクオリティを底上げできる。\n・AIにパーツの原型を提示し、具体的なデザインを反映させる効率的な開発手法。"
-  },
-  {
-    "title": "エヌビディア、AMD逆転／EV失速で方針転換／JERAの酒入CFO（2026年8月20日版） (日経ビジネスAUDIOモーニング)",
-    "link": "https://business.nikkei.com/atcl/audio/22/00001/081900939/",
-    "source": "日経ビジネス 最新",
-    "published": "",
-    "summary": "エヌビディア、「特許総価値」でAMDを逆転　AI関連のGPU戦略を分析／EV失速でホンダ・トヨタが方針転換　日本メーカーの生存戦略／JERAの酒入CFO「ネイチャーポジティブで資本コスト低減」　企業価値向上へ、他",
-    "image": "https://business.nikkei.com/atcl/audio/22/00001/081900939/fb.jpg",
-    "fetched_at": "2026-08-21 09:47:54",
-    "ja_summary": "・エヌビディアが「特許総価値」でAMDを上回り、AI・GPU戦略で優位性を確立。\n・EV市場の減速を受け、ホンダやトヨタなど日本メーカーが事業方針の転換を模索。\n・JERAは「ネイチャーポジティブ（自然再興）」の取り組みで資本コスト低減と企業価値向上を目指す。"
   }
 ]
