@@ -1,5 +1,25 @@
 [
   {
+    "title": "Mariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer",
+    "link": "https://www.anthropic.com/news/tino-cuellar",
+    "source": "Anthropic (News)",
+    "published": "Tue, 04 Aug 2026 00:00:00 +0000",
+    "summary": "Mariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer",
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+    "fetched_at": "2026-08-22 13:23:54",
+    "ja_summary": "・元カリフォルニア州最高裁判事のTino Cuéllar氏が、AI企業Anthropicの最高グローバル担当責任者に就任。\n・同氏はAIの安全性や倫理的開発、世界的な政策戦略を統括する。\n・技術開発と社会的責任のバランス強化を狙った重要な人事。"
+  },
+  {
+    "title": "時相論理の形式仕様の Quint を使って、denoland/celld の二重 writer バグを見つけた",
+    "link": "https://zenn.dev/mizchi/articles/quint-application-modeling",
+    "source": "Zenn Trends",
+    "published": "Wed, 19 Aug 2026 07:44:30 GMT",
+    "summary": "本記事は、AIに分散システムのバグを探させて、そのレポートを自分が理解できるように整形させたものです。\n実際に見つかったバグは以下の Issues で、現在修正済みです。\nhttps://github.com/denoland/celld/issues/132\nこれをどうやって見つけたのか、それを解説します。\nただし、形式仕様によるバグ検査は2026/08現在 Claude/ChatGPT のガードレールが発動しやすくなっています。自分は Anthropic Cyber Verifaction を取得しており、その環境で Claude 5 Opus を使った記録になります。\nhttps:...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--XBpfMOJt--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E6%2599%2582%25E7%259B%25B8%25E8%25AB%2596%25E7%2590%2586%25E3%2581%25AE%25E5%25BD%25A2%25E5%25BC%258F%25E4%25BB%2595%25E6%25A7%2598%25E3%2581%25AE%2520Quint%2520%25E3%2582%2592%25E4%25BD%25BF%25E3%2581%25A3%25E3%2581%25A6%25E3%2580%2581denoland%252Fcelld%2520%25E3%2581%25AE%25E4%25BA%258C%25E9%2587%258D%2520writer%2520%25E3%2583%2590%25E3%2582%25B0%25E3%2582%2592%25E8%25A6%258B%25E3%2581%25A4%25E3%2581%2591%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:mizchi%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2liclRHT052Z3d3ay1fNGxlcVk4TGNGSlNuX0FoWnpEWVlKaXJNcWc9czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-08-22 13:23:57",
+    "ja_summary": "AIを活用し、分散システム「celld」の二重書き込みバグを時相論理仕様記述言語「Quint」を用いて発見した手法の解説。\n専門的な検証環境下でLLMを駆使し、複雑なシステムの論理的な不整合を特定することに成功した。\n現在は報告されたバグは修正済みであり、高度なAIを用いた形式手法によるバグ検出の有効性を示している。"
+  },
+  {
     "title": "エヌビディア、AMD逆転／EV失速で方針転換／JERAの酒入CFO（2026年8月20日版） (日経ビジネスAUDIOモーニング)",
     "link": "https://business.nikkei.com/atcl/audio/22/00001/081900939/",
     "source": "日経ビジネス 最新",
@@ -978,25 +998,5 @@
     "image": "https://japan.zdnet.com/storage/2026/08/20/e4a73373d4a3010f662dcebd475aa708/t/184/138/d/20260821_matsuoka_1280x960.jpg",
     "fetched_at": "2026-08-21 11:19:01",
     "ja_summary": "・IIJが全社共通のAIプラットフォーム構築に着手。\n・AI活用の基盤を整えることで、業務効率化や新規サービスの創出を目指す。\n・AWSジャパンと協力し、インフラからAI活用までを一体で推進する戦略。"
-  },
-  {
-    "title": "ChatGPTにアップルのメッセージアプリ連携機能。OpenAIがプラグイン公開",
-    "link": "https://www.techno-edge.net/article/2026/08/21/5412.html",
-    "source": "TechnoEdge",
-    "published": "Fri, 21 Aug 2026 10:30:03 +0900",
-    "summary": "OpenAIは、アップルのメッセージアプリ（iMessage）の受信箱をChatGPTと連携させるプラグインを公開しました。ユーザーはChatGPTのインターフェース上から、メッセージの整理・分析・編集・送信・削除などを行えるようになります。",
-    "image": "https://www.techno-edge.net/imgs/rss/33712.jpg",
-    "fetched_at": "2026-08-21 11:19:02",
-    "ja_summary": "・OpenAIがChatGPTとiMessageを連携させるプラグインを公開。\n・ChatGPTの画面上からメッセージの整理、分析、編集、送信、削除が可能に。\n・AIを通じたメッセージ管理により、コミュニケーション効率が向上する。"
-  },
-  {
-    "title": "作曲からリップシンクMV制作までがローカルだけで完結するようになった。MiniMax H3、LTX 2.5、ACE-Step、Qwen 3.8 27BをiPhoneから連結し動かすワークフロー（CloseBox）",
-    "link": "https://www.techno-edge.net/article/2026/08/21/5411.html",
-    "source": "TechnoEdge",
-    "published": "Fri, 21 Aug 2026 09:49:14 +0900",
-    "summary": "初音ミクが登場し、ボカロP（松尾P）となって以来の念願だった、リップシンク動画が、ついに俺史上最も手軽にできるようになりました。MiniMax H3とRTX 5090、そしてClaude Code with Fable 5のおかげ。",
-    "image": "https://www.techno-edge.net/imgs/rss/33693.jpg",
-    "fetched_at": "2026-08-21 11:19:02",
-    "ja_summary": "・最新のAIツールをiPhoneから連結し、作曲からリップシンクMV制作までをローカル環境で完結させるワークフローを確立。\n・MiniMax H3やRTX 5090等の高性能AI・ハードウェアの活用により、個人制作が飛躍的に効率化。\n・専門的な制作工程が極めて簡便化され、誰もが手軽に高品質な音楽動画を作れる環境が実現。"
   }
 ]
