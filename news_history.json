@@ -1,5 +1,35 @@
 [
   {
+    "title": "米パランティア、防衛向けオントロジー技術を民生分野に展開",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03700/080500003/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "防衛の分野では近年、AIを用いて作戦意思決定を支援するようになった。人工衛星、無人機、センサー、部隊、気象などの多様なデータを統合し、意思決定を支援する情報基盤を提供するのが米Palantir（パランティア）である。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03700/080500003/DEF_03_sns.jpg?20220512",
+    "fetched_at": "2026-08-23 13:21:09",
+    "ja_summary": "・米パランティアが、防衛分野で培った膨大なデータを統合・分析して意思決定を支援する技術を、民生用にも展開する。\n・AIを活用し、センサーや気象などの多様な情報を統合することで、企業の高度な判断を支える情報基盤を提供する。"
+  },
+  {
+    "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
+    "link": "https://openai.com/index/stampli",
+    "source": "OpenAI",
+    "published": "Thu, 20 Aug 2026 00:00:00 GMT",
+    "summary": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/7hfd4vHZo2TJaamnedJgMp/6c8bc17d7e3acbee99a8971ad9aac0a2/stampli-seo-16x9-v2-ribbed.png?w=1600&amp;h=900&amp;fit=fill",
+    "fetched_at": "2026-08-23 13:21:23",
+    "ja_summary": "・StampliがChatGPT Workを活用し、製品ローンチの準備期間を数週間から数日へ短縮。\n・リソース不足とタイトな納期という課題を、AIによる生産性向上で解決。\n・開発やデザイン作業を効率化し、工数を68%削減することに成功。"
+  },
+  {
+    "title": "Azure CAFで考えるAIエージェント導入の進め方",
+    "link": "https://speakerdeck.com/tomokusaba/azure-caf-de-kangaeru-ai-ejento-dounyuu-no-susumekata",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-08-23T00:05:43-04:00",
+    "summary": "Azure CAFで考えるAIエージェント導入の進め方\n.NETラボ 勉強会 2026年8月]\nhttps://dotnetlab.connpass.com/event/396232/",
+    "image": "https://files.speakerdeck.com/presentations/b197cdab01334b7db93adb29a966fd47/preview_slide_0.jpg?40350804",
+    "fetched_at": "2026-08-23 13:21:27",
+    "ja_summary": "・Azureの導入フレームワーク（CAF）を活用したAIエージェントの実装手法を解説。\n・戦略策定から技術基盤の構築まで、組織への導入プロセスを体系的に網羅。\n・.NETラボ勉強会（2026年8月）にて、実践的な導入ガイドラインを提示。"
+  },
+  {
     "title": "「Claude Code」で未経験者はどこまでアプリを作れるか、試してみた",
     "link": "https://xtech.nikkei.com/atcl/nxt/column/18/02737/081800064/",
     "source": "日経クロステック 総合",
@@ -968,35 +998,5 @@
     "image": "https://media.loom-app.com/loom/2026/08/19/4dfe6d0e-359d-4b1b-a602-95d905b983d1/original.jpg?w=1200",
     "fetched_at": "2026-08-21 14:55:32",
     "ja_summary": "・新型Surface 2機種は、Snapdragon搭載でバッテリーや静音性が大幅に向上。\n・MacBook Airと比較しても引けを取らない高い完成度を実現。\n・一方で、価格面でのコストパフォーマンスが導入における最大の課題。"
-  },
-  {
-    "title": "AIの最新研究から見るゲーム開発とプレイヤー体験の未来",
-    "link": "https://note.com/npaka/n/n4ebba7cee7aa",
-    "source": "note (npaka)",
-    "published": "Sun, 16 Aug 2026 07:37:42 +0900",
-    "summary": "<p id=\"2cdcf1b8-16fe-4bfc-a50c-df97967084d4\" name=\"2cdcf1b8-16fe-4bfc-a50c-df97967084d4\">最新の研究論文や技術報告をもとに、ゲーム開発とプレイヤー体験の未来を整理します。</p><br /><br /><a href=\"https://note.com/npaka/n/n4ebba7cee7aa\">続きをみる</a>",
-    "image": "https://assets.st-note.com/production/uploads/images/303899601/rectangle_large_type_2_030b3452d5bd702dd6ce5b9819c6db4c.png?width=800",
-    "fetched_at": "2026-08-21 14:55:32",
-    "ja_summary": "・最新のAI研究を応用し、ゲーム開発の効率化と品質向上が進む。\n・生成AI等の活用により、プレイヤー一人ひとりに合わせた体験が可能になる。\n・AI技術の進化が、今後のゲーム制作と体験のあり方を大きく変える。"
-  },
-  {
-    "title": "自作アプリからCodex CLIを呼び出す方法",
-    "link": "https://note.com/npaka/n/na1241d876cbb",
-    "source": "note (npaka)",
-    "published": "Sat, 15 Aug 2026 23:55:06 +0900",
-    "summary": "<p id=\"292ad740-7998-4011-b2f8-1e5c7f497b27\" name=\"292ad740-7998-4011-b2f8-1e5c7f497b27\">ChatGPTサブスクを契約したアカウントでログイン済みの「Codex CLI」を、自作アプリから呼び出す方法を紹介します。</p><br /><br /><a href=\"https://note.com/npaka/n/na1241d876cbb\">続きをみる</a>",
-    "image": "https://assets.st-note.com/production/uploads/images/303840025/rectangle_large_type_2_b1eafb819c299d7d13874d1a766a24d7.png?width=800",
-    "fetched_at": "2026-08-21 14:55:32",
-    "ja_summary": "・ChatGPT有料アカウントで認証済みの「Codex CLI」を自作アプリから利用する方法を解説。\n・外部プログラムからコマンドライン経由で機能を呼び出し、連携させる手順を提示。"
-  },
-  {
-    "title": "Introducing AI Futures",
-    "link": "https://openai.com/index/introducing-ai-futures",
-    "source": "OpenAI",
-    "published": "Thu, 20 Aug 2026 07:00:00 GMT",
-    "summary": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
-    "image": "https://images.ctfassets.net/kftzwdyauwt9/6WlY42vdkXE14U0aa8nt0V/cd49d61e13eca65e29063d298ca8cec8/introducing-ai-futures-seo-ocean-blue-1920x1080.png?w=1600&amp;h=900&amp;fit=fill",
-    "fetched_at": "2026-08-21 14:55:40",
-    "ja_summary": "・OpenAIが新ブログ「AI Futures」を開設\n・AIが社会の権力構造、統治、経済、個人の自由に与える影響を考察\n・AIの変革が未来にもたらす変化を深く探求する内容"
   }
 ]
