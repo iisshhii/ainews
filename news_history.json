@@ -1,5 +1,25 @@
 [
   {
+    "title": "Z.ai エコシステム実践解説 — エンジニア向けテクニカルリファレンス",
+    "link": "https://speakerdeck.com/x5gtrn/the-z-ai-ecosystem-in-practice-a-technical-reference-for-engineers-ja",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-08-23T12:14:55-04:00",
+    "summary": "このスライドは、Z.aiのフラッグシップモデル「GLM-5.3」、専用開発環境「ZCode」、業務自動化エージェント「AutoClaw」の3製品を全21ページで解説するエンジニア向けリファレンスです。前半はGLM-5.3の仕様（743B・1Mコンテキスト・常時推論）と訓練基盤、Terminal Bench 3.0やCyberGymなどのベンチマーク、Coding Planの料金とAPI設定を深掘り。中盤はZCodeの機能と導入手順、AutoClawの6大機能とユースケースを紹介。終盤はClaude Code・Codex・OSSエージェント・OpenClawとの比較と使い分けガイドで締め、技術選定を支援します。\n\nこのスライドはGLM-5.3で作成しました。",
+    "image": "https://files.speakerdeck.com/presentations/f71ebab60b964b88b2f3b4ea0ac9d1c9/preview_slide_0.jpg?40351916",
+    "fetched_at": "2026-08-24 01:24:06",
+    "ja_summary": "・エンジニア向けにZ.aiのAIモデル・開発環境・自動化エージェントを網羅した詳細リファレンス。\n・高性能モデル「GLM-5.3」の技術仕様やAPI設定、専用環境「ZCode」の導入手順を解説。\n・既存の主要AIツールとの比較・使い分けガイドを掲載し、現場の技術選定を支援する内容。"
+  },
+  {
+    "title": "The Z.ai Ecosystem in Practice — A Technical Reference for Engineers",
+    "link": "https://speakerdeck.com/x5gtrn/the-z-ai-ecosystem-in-practice-a-technical-reference-for-engineers",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-08-23T12:06:25-04:00",
+    "summary": "<a href=\"https://speakerdeck.com/x5gtrn/the-z-ai-ecosystem-in-practice-a-technical-reference-for-engineers-ja\">Japanese Edition</a>\n\nThis slide is a 21-slide technical reference for engineers covering Z.ai's GLM-5.3 model, the ZCode development environment, and the AutoClaw business agent. It digs into specs, benchmarks, pricing and workflows, then compares Claude Code, Codex and OSS rivals to guide your tool selection.\n\nThis slide was created by GLM-5.3.",
+    "image": "https://files.speakerdeck.com/presentations/d5831b409422456e90509122d8ec2e03/preview_slide_0.jpg?40351893",
+    "fetched_at": "2026-08-24 01:24:06",
+    "ja_summary": "・Z.aiの最新モデル「GLM-5.3」の性能や開発環境、業務エージェントの技術仕様を解説。\n・ベンチマークや料金体系を網羅し、Claude Code等の競合ツールと比較。\n・AI開発者向けに、自社環境に適したツール選定の指針となる技術資料。"
+  },
+  {
     "title": "Appleのスマートホーム製品情報が流出--9月にも発表が予想される新デバイスは",
     "link": "https://japan.zdnet.com/article/35251808/",
     "source": "ZDNET Japan",
@@ -978,25 +998,5 @@
     "image": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11964/m.jpg?20220512",
     "fetched_at": "2026-08-21 16:27:11",
     "ja_summary": "・NVIDIAが大手EDAベンダーと連携し、AIを活用した半導体設計の効率化を推進。\n・自社のAIプロセッサやソフトを組み合わせ、設計プロセスの劇的な短縮を実現。\n・AIエージェントの導入により、設計現場の自動化と生産性向上が加速する見通し。"
-  },
-  {
-    "title": "【書評】 Claude Cowork スゴイ活用術",
-    "link": "https://note.com/npaka/n/n1754cbfc3fd8",
-    "source": "note (npaka)",
-    "published": "Fri, 21 Aug 2026 15:41:58 +0900",
-    "summary": "<p id=\"8fab689a-4db2-4787-949f-92117dbd9000\" name=\"8fab689a-4db2-4787-949f-92117dbd9000\">生成AIを仕事で使っていても、実際には「質問して答えをもらう」使い方にとどまっている人も多いかと思います。<br />そんな使い方を一段進めてくれるのが、「<strong>Claude Cowork</strong>」です。</p><p id=\"d2133961-d066-4eb8-b216-4b0eed5135c1\" name=\"d2133961-d066-4eb8-b216-4b0eed5135c1\">今回紹介する『<strong>Claude Cowork スゴイ活用術</strong>』（AI部 著）は、Coworkの基本から実践、自動化、組織導入までを体系的にまとめた一冊です。</p><br /><a href=\"https://note.com/npaka/n/n1754cbfc3fd8\">続きをみる</a>",
-    "image": "https://assets.st-note.com/production/uploads/images/305582537/rectangle_large_type_2_3c94f039e69cc1c27b2a4b6fcbc8831c.jpeg?width=800",
-    "fetched_at": "2026-08-21 16:27:18",
-    "ja_summary": "生成AIを単なる質問ツール以上に活用したい人向けに「Claude Cowork」の基本から実践、自動化までを解説した一冊。\nAIによる業務効率化や組織導入のノウハウを体系的に学べる。\n仕事の生産性を一段階引き上げるための具体的な活用術が網羅されている。"
-  },
-  {
-    "title": "AIの進化によって漫画制作はどう変わるのか",
-    "link": "https://note.com/npaka/n/n6c22f295e89f",
-    "source": "note (npaka)",
-    "published": "Sun, 16 Aug 2026 13:44:35 +0900",
-    "summary": "<p id=\"b67e49bc-0d4f-42a9-993c-8115126a5539\" name=\"b67e49bc-0d4f-42a9-993c-8115126a5539\">最新のAI研究とAIツールをもとに、AIによって漫画制作がどのように変わるのかを整理します。</p><br /><br /><a href=\"https://note.com/npaka/n/n6c22f295e89f\">続きをみる</a>",
-    "image": "https://assets.st-note.com/production/uploads/images/303996032/rectangle_large_type_2_52771712c236b282e5a6d0f34e81cc2a.png?width=800",
-    "fetched_at": "2026-08-21 16:27:18",
-    "ja_summary": "・AI技術の進化により、漫画制作の工程や手法が大きく変容しつつある。\n・最新の研究やツールを活用することで、制作効率の向上や新たな表現が可能になる。\n・AIが漫画制作の現場にどのような変化をもたらすのか、現状の活用方法を整理・解説している。"
   }
 ]
