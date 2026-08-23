@@ -1,5 +1,55 @@
 [
   {
+    "title": "「社内用語」がAI分析を邪魔する……ニトリが“力技”で解決　「赤羽店の寝具の売上高を出して」可能にできたワケ",
+    "link": "https://www.itmedia.co.jp/business/articles/2608/24/news058.html",
+    "source": "ITmedia ビジネス",
+    "published": "Mon, 24 Aug 2026 07:10:00 +0900",
+    "summary": "AI分析しようにも「社内用語」が壁になる――多くの企業が抱えるこの課題に、ニトリが挑んだ。地道な作業を積み重ねてつかんだのは、誰もが使いやすいデータ分析基盤だった。",
+    "image": "https://image.itmedia.co.jp/business/articles/2608/24/cover_news058.jpg",
+    "fetched_at": "2026-08-24 07:44:57",
+    "ja_summary": "・AI分析を阻んでいた「社内固有の用語」を、ニトリが地道なデータ整備で解消。\n・自然な言葉で問いかけるだけで、誰もが売上データ等を引き出せる環境を実現。\n・専門知識不要で分析可能な基盤を構築し、社内の意思決定スピードを向上させた。"
+  },
+  {
+    "title": "口コミ増やしたい、でも“AIが書いた感”は抑えめに……カインズ、「自社商品の投稿」促すAI機能どう開発した？",
+    "link": "https://www.itmedia.co.jp/business/articles/2608/24/news059.html",
+    "source": "ITmedia ビジネス",
+    "published": "Mon, 24 Aug 2026 07:05:00 +0900",
+    "summary": "カインズは、ユーザーによる口コミ投稿の作文をAIでサポートしている。その機能を開発する上で「AI代筆の文章はユーザーの声なのか」という問いに直面。どのように解決したのだろうか。",
+    "image": "https://image.itmedia.co.jp/business/articles/2608/24/cover_news059.jpg",
+    "fetched_at": "2026-08-24 07:44:57",
+    "ja_summary": "・カインズが口コミ投稿を支援するAI機能を開発。\n・「AI代筆による不自然さ」を課題とし、個人の体験談らしさを損なわない工夫を導入。\n・ユーザー自身の言葉を引き出しつつ、投稿の心理的ハードルを下げる仕組みを実現。"
+  },
+  {
+    "title": "高松、白馬への旅行者急増、なぜ？　インバウンドの“旅先選び”の背景にAI、“選ばれる地方”の条件",
+    "link": "https://www.itmedia.co.jp/business/articles/2608/24/news033.html",
+    "source": "ITmedia ビジネス",
+    "published": "Mon, 24 Aug 2026 07:00:00 +0900",
+    "summary": "インバウンドの旅行先選びが「有名だから行く」から「自分に合う場所を探す」へと変わり始めている。その背景にあるのが、急速に進化するAIだ。旅行者の行動はどう変化しているのか。",
+    "image": "https://image.itmedia.co.jp/business/articles/2608/24/cover_news033.jpg",
+    "fetched_at": "2026-08-24 07:44:58",
+    "ja_summary": "・インバウンドの旅行先選びが「知名度」重視から、AIを活用した「自分への適合性」重視へ変化している。\n・高松や白馬など、AI検索で個人の嗜好にマッチする地域に観光客が急増している。\n・地方が選ばれるためには、自地域の魅力がAIに学習・提案されやすい環境作りが重要となっている。"
+  },
+  {
+    "title": "謎めいた無料のAIモデルが、開発者たちを驚かせている。そして、それを作ったのが誰なのかは、誰にも分かっていない",
+    "link": "https://www.businessinsider.jp/article/2608-ox-alpha-ai-model-mystery/",
+    "source": "Business Insider Japan",
+    "published": "Sun, 23 Aug 2026 22:15:00 GMT",
+    "summary": "謎に包まれた最新AIモデル「Ox Alpha」が8月20日、「OpenRouter」上に突如デビューした。\nその開発元や出所は一切不明だ。中国のAI研究所によるものと推測する声がある一方、マイクロソフトとの関連を指摘する見方もある。\n出所がどこであれ、「Ox Alpha」の圧倒的な性能はシリコンバレーのテックリーダーたちを唸らせている。",
+    "image": "https://media.loom-app.com/loom/2026/08/22/98ed7404-48a6-4dc3-8014-ee592a411733/original.jpg?w=1200",
+    "fetched_at": "2026-08-24 07:45:09",
+    "ja_summary": "・開発元不明の高性能AI「Ox Alpha」が突如登場し、テック界で話題に。\n・中国製やマイクロソフト関連など憶測を呼ぶものの、正体は依然として謎。\n・圧倒的な性能が注目を集めており、開発者の間で関心が急騰している。"
+  },
+  {
+    "title": "AI Agentに社内知識をオンボーディングする：SkillsとEvalの設計",
+    "link": "https://zenn.dev/mkj/articles/aad5698672aef3",
+    "source": "Zenn Trends",
+    "published": "Thu, 20 Aug 2026 02:50:05 GMT",
+    "summary": "こんにちは、松尾研究所 データサイエンスチームのマネージャーの浮田です。\n最近のAI Agentは、一般的な調査や実装であればかなり高い水準でこなせるようになってきました。一方で、実際の社内業務に必要な社内固有の知識は持っておらず、非常に優秀だが、まだオンボーディングを受けていない新入社員に近い状態です。\n例えば、\n\nプロジェクト開始時に、誰がどのアカウントや権限を用意するのか\n経費はどのシステムから申請し、誰の承認を得るのか\n\nといった、会社固有の知識をAgentは知りません[1]。\nそこで今回、社内Notionに整備してある新入社員向けのオンボーディング文書をもとに、AI Agent...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--4t0G1MGs--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%2520Agent%25E3%2581%25AB%25E7%25A4%25BE%25E5%2586%2585%25E7%259F%25A5%25E8%25AD%2598%25E3%2582%2592%25E3%2582%25AA%25E3%2583%25B3%25E3%2583%259C%25E3%2583%25BC%25E3%2583%2587%25E3%2582%25A3%25E3%2583%25B3%25E3%2582%25B0%25E3%2581%2599%25E3%2582%258B%25EF%25BC%259ASkills%25E3%2581%25A8Eval%25E3%2581%25AE%25E8%25A8%25AD%25E8%25A8%2588%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:ukita%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2U2NGM3ZTBkMzIuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E6%259D%25BE%25E5%25B0%25BE%25E7%25A0%2594%25E7%25A9%25B6%25E6%2589%2580%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSWtFREpiRTFERFIwY0syRzVSNExhbkJhMkQ2Yktfeld6T1ZTMHJnZlc0Y0U5OUxQQT1zOTYtYw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-08-24 07:45:19",
+    "ja_summary": "・AI Agentは汎用的な能力は高いが、社内固有のルールや手続き等の知識が不足している。\n・新入社員と同様に、社内ドキュメントを活用してAIに独自の業務知識を学習させる必要がある。\n・本記事では、社内Notionを活用したAI Agentへの知識習得（Skills）と評価（Eval）の設計手法を解説する。"
+  },
+  {
     "title": "KDDI、日本発スタートアップの米国進出を支援する新プログラム　第1期はAI新興5社",
     "link": "https://japan.cnet.com/article/35251785/",
     "source": "CNET Japan",
@@ -948,55 +998,5 @@
     "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYyMTUxMjglMkZjZDcxOTM0ZjMxOGIwMGYwZGQ0OTU3YjU4NTBiYzk4MGM5MjEwNGVkJTJGeF9sYXJnZS5wbmclM0YxNjM4NzU1ODYzP2l4bGliPXJiLTQuMS4xJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz1lMDhiYmM5MzJlMTE2NDA3YTY4MmY0ZWQyNTA1Nzg0Nw%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D05a90f6a0cfd4ac041aa6e8649c9441c?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUU2JTk2JUIwJUU0JUJBJUJBQUklRTclQTYlODElRTYlQUQlQTIlRTMlODElQUUlRTMlODElODIlRTMlODElQTglRTMlODAlODElRTMlODAlOEMlRTYlOTYlQjAlRTQlQkElQkFBSSVFNSU4OCVCNiVFNSVCRSVBMSVFNiU5NSU5OSVFOCU4MiVCMiVFMyU4MyU4RiVFMyU4MyVCQyVFMyU4MyU4RCVFMyU4MiVCOSVFMyU4MCU4RCVFMyU4MiU5MiVFOSU4NSU4RCVFMyU4MSVBMyVFMyU4MSU5RiVFNyVCNSU5MCVFNiU5RSU5QyVFRiVCQyU4OFNraWxsJUU1JThFJTlGJUU2JTk2JTg3JUUzJTgxJTgyJUUzJTgyJThBJUVGJUJDJTg5JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9MjgxZDk3N2NhMWZhOTkzZjNjOTRmZDNjYTgxOWMzNTE&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBXZGtuV2RrbiZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTUzYWI2ZTI2ODZiMTllNjc1Y2M0ZjQyY2VlYjRjZDg1&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=8422429048df3ebae89f8fcb9ada4c5f",
     "fetched_at": "2026-08-22 08:15:46",
     "ja_summary": "・AIの出力内容を理解せず利用する新人の指導のため、一時的にAI利用を禁止し基礎力を育成。\n・その後、AIを安全に活用するための「制御教育ハーネス（ガイドライン）」を導入。\n・AI依存を防ぎつつ、考えながらツールとして活用するプロセスを徹底させた。"
-  },
-  {
-    "title": "Uber Eats黒字化の立役者　Airbnb新社長が明かす「脱・インバウンド依存」の勝算",
-    "link": "https://www.itmedia.co.jp/business/articles/2608/22/news013.html",
-    "source": "ITmedia ビジネス",
-    "published": "Sat, 22 Aug 2026 07:00:00 +0900",
-    "summary": "記録的なインバウンド特需に沸くAirbnb。だが為替や国際情勢に依存する成長モデルに危機感を抱き「脱・インバウンド依存」へとかじを切る。2月にトップに就任したUber Eats Japan黒字化の立役者・中川晋太郎代表取締役が狙うのは、26兆円規模の国内旅行・消費市場だ。ホテルとの消耗戦を避け、イベント連携や体験・サービスへの領域拡張によって日本人に新たな滞在習慣を根付かせる「巨大プラットフォーム化」の勝算に迫る。",
-    "image": "https://image.itmedia.co.jp/business/articles/2608/22/cover_news013.jpg",
-    "fetched_at": "2026-08-22 07:47:43",
-    "ja_summary": "・Airbnb日本法人がインバウンド依存からの脱却を目指し、国内旅行・消費市場へ本格参入。\n・Uber Eatsの黒字化を牽引した新社長が、イベントや体験サービスを拡充して日本人の「滞在習慣」を変革。\n・ホテルとの差別化を図り、巨大プラットフォーム化することで持続的な成長モデルを構築する。"
-  },
-  {
-    "title": "あるAIトレーニング企業はあなたが所有する業務文書に最大3万ドルを支払いたいと考えている",
-    "link": "https://www.businessinsider.jp/article/202608-ai-training-handshakeai-pay/",
-    "source": "Business Insider Japan",
-    "published": "Thu, 20 Aug 2026 22:30:00 GMT",
-    "summary": "ハンドシェイクAI（Handshake AI）は、「高品質」な業務文書に対して1ページあたり6ドルを支払うといいます。これに対し、データプライバシーを専門とする弁護士は懸念を抱いていると語りました。",
-    "image": "https://media.loom-app.com/loom/2026/08/19/9b50e5a3-22d4-4a8f-9155-518409d1f672/original.jpg?w=1200",
-    "fetched_at": "2026-08-22 07:48:04",
-    "ja_summary": "・AI企業がAI学習用の業務文書を1ページ6ドル（最大3万ドル）で買い取り中。\n・企業側は高品質なデータを収集する狙いだが、専門家は情報の機密漏洩に懸念を示す。\n・報酬と引き換えに機密情報が流出するリスクがあるため、慎重な判断が必要。"
-  },
-  {
-    "title": "国産AIシステムの実証始動 政府",
-    "link": "https://news.yahoo.co.jp/pickup/6592378?source=rss",
-    "source": "Yahoo!ニュース IT・科学",
-    "published": "Thu, 20 Aug 2026 02:31:02 GMT",
-    "summary": "",
-    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2026/5/29/e8eac8cbae83d51e14509358139639e09855f11a44f5621f30bc5c8937f217c0.jpg",
-    "fetched_at": "2026-08-22 07:48:07",
-    "ja_summary": "政府が国産AIシステムの開発・実証実験を本格始動。\n海外製への依存を減らし、行政や企業での活用を目指す。\n技術的な自立とデータ主権の確保が狙い。"
-  },
-  {
-    "title": "FANZA、成人向けAIコンテンツを作成→公開できる新サービス「スタジオ」24日から先行体験",
-    "link": "https://japan.cnet.com/article/35251821/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "デジタルコマースは8月17日、成人向けエンタメプラットフォーム「FANZA」で新サービス「FANZAスタジオ」を提供すると発表した。運営はデジタル・リンクが担う。つくり手はAIで成人向け作品をつくり、そのまま公開してファンに届けられる。正式ローンチを前に、8月24日から先行体験の参加者を募る。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35251821/\"><img src=\"https://japan.cnet.com/storage/2026/08/22/40636cbe5161f1ba383dd188bf5f6518/t/184/138/d/2026-08-22_6.47の画像.jpeg\" /></a>",
-    "image": "https://japan.cnet.com/storage/2026/08/22/40636cbe5161f1ba383dd188bf5f6518/t/184/138/d/2026-08-22_6.47の画像.jpeg",
-    "fetched_at": "2026-08-22 07:23:26",
-    "ja_summary": "・FANZAがAIによる成人向けコンテンツの作成・公開が可能な新サービス「FANZAスタジオ」を発表。\n・クリエイターはAIで制作した作品をそのままプラットフォーム上でファンへ販売可能。\n・8月24日より先行体験参加者の募集を開始する。"
-  },
-  {
-    "title": "OpenAIの2人語る 注目の職種FDE",
-    "link": "https://news.yahoo.co.jp/pickup/6592242?source=rss",
-    "source": "Yahoo!ニュース IT・科学",
-    "published": "Wed, 19 Aug 2026 00:04:04 GMT",
-    "summary": "",
-    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/8/19/93956c8a240d6f8f530c107e2dbf14e5ed253f730a0a60cae683b79a82ef601a.jpg",
-    "fetched_at": "2026-08-22 07:23:28",
-    "ja_summary": "・OpenAIが重要視する「FDE（フルスタック・ディプロイメント・エンジニア）」が新たな注目職種として浮上。\n・コードを書くだけでなく、製品の設計から展開までを単独で完遂できる「自走力」が求められる。\n・AI技術が進化する中、エンジニアには専門領域を超えた包括的な視点と実行力が不可欠となっている。"
   }
 ]
