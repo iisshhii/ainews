@@ -1,5 +1,15 @@
 [
   {
+    "title": "Dylib Hijacking on macOS: Dead or Alive?",
+    "link": "https://speakerdeck.com/patrickwardle/dylib-hijacking-on-macos-dead-or-alive-66e98af6-a27a-4bcc-b749-fd0f22f7e2c6",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-08-23T09:02:12-04:00",
+    "summary": "Over a decade ago, a much younger Patrick showed that macOS (then OS X) was vulnerable to what had long been considered a Windows-only attack: dynamic library hijacking. By planting malicious libraries in the right place, attackers could achieve stealthy persistence, inject code into trusted processes, and even bypass core Apple security mechanisms.\n\nToday, an older (and hopefully wiser) Patrick revisits that work to answer a simple question: is dylib hijacking truly dead on modern macOS, or has Apple’s decade of defenses, including Gatekeeper, App Translocation, Notarization, and the Hardened Runtime, simply made it harder?\n\nThis talk revisits the technique in 2026, analyzing these mitigations and evaluating their real-world effectiveness. While the attack surface has been significantly reduced, we show dylib hijacking remains possible under the right conditions. Through real-world examples and live demos, we explore how modern applications can still be coerced into loading attacker-controlled libraries, enabling code execution within trusted processes and bypassing controls such as TCC.\n\nFinally, we present practical detection and defense strategies, including novel approaches leveraging Endpoint Security to detect (and block!) malicious library loads at runtime.",
+    "image": "https://files.speakerdeck.com/presentations/9dcb495b381946ad8f9f4bceb054567a/preview_slide_0.jpg?40351633",
+    "fetched_at": "2026-08-23 22:19:10",
+    "ja_summary": "・macOSの脆弱性「Dylib Hijacking」は、Appleの度重なる防御策により困難にはなったが、現代でも特定の条件下で依然として有効。\n・攻撃者は依然として信頼されたプロセスへのコード注入やセキュリティ制御の回避が可能であり、実演を通じてその脅威を検証。\n・Endpoint Securityを活用した実行時の不正ライブラリ読み込みの検知・ブロックなど、現代的な防御戦略の重要性が高まっている。"
+  },
+  {
     "title": "「ファーウェイ、レベル4を超える自律型ネットワークに注力」など5本",
     "link": "https://xtech.nikkei.com/atcl/nxt/column/18/02928/081800109/",
     "source": "日経クロステック 総合",
@@ -988,15 +998,5 @@
     "image": "https://japan.zdnet.com/storage/2026/08/21/200518e3d9c3e3833546808fbbae7819/t/184/138/d/large-apple-ipad-10th-gen-blue.jpg",
     "fetched_at": "2026-08-21 16:27:23",
     "ja_summary": "Appleが新たなスマートハブ製品を開発中である可能性が浮上した。\nSiriのAI強化と合わせ、9月にも新デバイスとして発表される可能性がある。\nスマートホーム市場におけるAppleの新たな戦略の一環として注目が集まる。"
-  },
-  {
-    "title": "Strengthening democratic oversight in national security",
-    "link": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
-    "source": "OpenAI",
-    "published": "Tue, 18 Aug 2026 19:00:00 GMT",
-    "summary": "OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise.",
-    "image": "https://images.ctfassets.net/kftzwdyauwt9/6HEG4BoWGKBEoSJWCReHz0/1b1c0b24720bb3faec4a71e48e8ceef7/openai-democratic-oversight-page-seo-v004.png?w=1600&amp;h=900&amp;fit=fill",
-    "fetched_at": "2026-08-21 16:27:29",
-    "ja_summary": "・OpenAIが国家安全保障におけるAI利用の民主的監視を強化する新方針を発表。\n・政府機関に対し、AI活用に関するツール提供や専門的な研修・助言を実施。\n・AI技術を安全かつ適正に管理するためのガバナンス体制を構築へ。"
   }
 ]
