@@ -1,5 +1,25 @@
 [
   {
+    "title": "大塚商会社長「AIで営業日報をつくらない」　文書の癖で現場を感じる (大塚商会　ぶれない二代目)",
+    "link": "https://business.nikkei.com/atcl/seminar/21nv/00016/080300030/",
+    "source": "日経ビジネス 最新",
+    "published": "",
+    "summary": "人工知能（AI）について、大塚商会の大塚裕司社長の基本的な使い方は、いわゆる「壁打ち」。考えを整理したいときに使っており、「外から見たらどう見えるか」や「自分では気付かない見方を知りたい」といったことが多いという。",
+    "image": "https://business.nikkei.com/atcl/seminar/21nv/00016/080300030/fb.jpg",
+    "fetched_at": "2026-08-24 02:13:23",
+    "ja_summary": "・大塚商会の大塚社長は、AIを自らの思考を整理する「壁打ち」相手として活用している。\n・営業日報にはあえてAIを使わず、社員が書く文書の癖から現場の空気感を感じ取ることを重視。\n・デジタル技術を補助的に使いつつ、経営判断の根幹には人間ならではの感覚を大切にする。"
+  },
+  {
+    "title": "NVIDIA、AIやMPUで半導体設計を効率化　EDAベンダーと連携",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11964/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "米NVIDIA（エヌビディア）は同社のAI（人工知能）処理向けプロセッサーやソフトウエアを使って半導体設計を効率化できるとアピールしている。大手EDA（電子設計自動化）ベンダーと連携し、双方の製品や技術を組み合わせることで効率化した例を複数挙げる。AIエージェントの活用例が目を引く。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11964/m.jpg?20220512",
+    "fetched_at": "2026-08-24 02:13:28",
+    "ja_summary": "・NVIDIAが大手EDAベンダーと連携し、AIを活用した半導体設計の効率化を推進。\n・自社のAIプロセッサやソフト技術を設計フローに組み込み、開発期間を大幅に短縮。\n・AIエージェントの導入により、設計業務の自動化や生産性向上が加速している。"
+  },
+  {
     "title": "【書評】 Claude Cowork スゴイ活用術",
     "link": "https://note.com/npaka/n/n1754cbfc3fd8",
     "source": "note (npaka)",
@@ -978,25 +998,5 @@
     "image": "https://image.itmedia.co.jp/business/articles/2608/21/cover_news020.jpg",
     "fetched_at": "2026-08-21 17:03:54",
     "ja_summary": "・ZIPAIRがビックカメラで和牛を販売し、航空券以外の新たな収益源を確保。\n・訪日客との接点を増やし、ブランド認知と顧客体験の向上を狙う。\n・座席数に限界がある航空会社の制約を越え、副業で「プラス1席分」の売上を目指す。"
-  },
-  {
-    "title": "Tripo P2.0 の概要",
-    "link": "https://note.com/npaka/n/n57d9bfa3ecc2",
-    "source": "note (npaka)",
-    "published": "Fri, 21 Aug 2026 16:11:05 +0900",
-    "summary": "<p id=\"215e62bb-d4f7-4716-a408-4193243cba5b\" name=\"215e62bb-d4f7-4716-a408-4193243cba5b\">「Tripo P2.0」の概要をまとめました。</p><figure id=\"643bc923-b64c-4b4c-8ec6-fdff4206cbf9\" name=\"643bc923-b64c-4b4c-8ec6-fdff4206cbf9\"><blockquote><p id=\"5d2f33e2-fd67-448a-b436-2f70dfb8039e\" name=\"5d2f33e2-fd67-448a-b436-2f70dfb8039e\"><strong>・</strong><a href=\"https://www.tripo3d.ai/blog/tripo-p2-0-preview\" rel=\"nofollow noopener\" target=\"_blank\"><strong>Tripo P2.0 Preview: A Major Breakthrough for Production-Ready 3D Assets</strong></a></p></blockquote>\n<figcaption></figcaption></figure><br /><a href=\"https://note.com/npaka/n/n57d9bfa3ecc2\">続きをみる</a>",
-    "image": "https://assets.st-note.com/production/uploads/images/305593643/rectangle_large_type_2_0db4276bdbb0ba11f5e5b4fd214110d2.png?width=800",
-    "fetched_at": "2026-08-21 17:04:09",
-    "ja_summary": "・3Dモデル生成AI「Tripo P2.0」のプレビュー版が公開された。\n・実用レベルの品質を備えた3Dアセットの生成が可能となり、制作現場での活用が期待される。\n・AIによる3Dモデル作成の効率化と高品質化における大きな進歩である。"
-  },
-  {
-    "title": "Ask Claude about the Anthropic Economic Index",
-    "link": "https://www.anthropic.com/news/anthropic-economic-index-connector",
-    "source": "Anthropic (News)",
-    "published": "Wed, 22 Jul 2026 00:00:00 +0000",
-    "summary": "Ask Claude about the Anthropic Economic Index",
-    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20NodeBook&amp;backgroundColor=coral",
-    "fetched_at": "2026-08-21 17:04:17",
-    "ja_summary": "AI「Claude」が、独自の経済指標「Anthropic Economic Index」に関する質問に対応を開始。\n経済データや市場動向について、Claudeを通じて即座に分析・照会が可能となった。\nビジネスにおける迅速な意思決定やデータ分析の効率化をサポートする新機能。"
   }
 ]
