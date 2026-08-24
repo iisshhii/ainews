@@ -1,5 +1,65 @@
 [
   {
+    "title": "利用ライブラリの処理を理解、2つの文書をまとめて要約してみる",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03692/072200002/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "Gemini APIによる要約処理の基礎について、ライブラリgoogle-genaiを中心に解説します。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03692/072200002/topm.jpg?20220512",
+    "fetched_at": "2026-08-25 05:19:48",
+    "ja_summary": "・google-genaiライブラリを用いたGemini APIによる要約処理の基礎を解説。\n・2つの文書を統合して要約する具体的な実装手順を紹介。"
+  },
+  {
+    "title": "光電融合の業界地図、NVIDIAとブロードコムが先陣　「基本」の22社",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03716/080700002/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "光電融合は生成AI（人工知能）の普及が起爆剤となり、AIの計算処理が集中するデータセンターでの大規模な導入が見込まれている。光電融合デバイスの設計に関与する中核企業に絞った「基本」の業界地図を描いた。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03716/080700002/chu.jpg?20220512",
+    "fetched_at": "2026-08-25 05:19:48",
+    "ja_summary": "・生成AIの普及に伴い、データセンターでの「光電融合」技術の導入が急拡大。\n・NVIDIAやブロードコムが先頭に立ち、市場の主導権を握る。\n・光電融合デバイスを牽引する中核企業22社の動向をまとめた業界地図が公表。"
+  },
+  {
+    "title": "AIリスクが発生する根本要因は？　従来のソフトウエア品質管理が通用せず",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03713/00003/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "AIの活用が進むほどリスクの問題も増えています。そもそもなぜAIにリスクが生じるのでしょうか。原因はAIの開発に用いている「帰納的アプローチ」と、人間に似通った能力を持っている、あるいは持っていると思われている性質にあります。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03713/00003/topm.jpg?20220512",
+    "fetched_at": "2026-08-25 05:19:49",
+    "ja_summary": "AI特有の「帰納的アプローチ」と人間的特性の模倣が、従来の品質管理を困難にしリスクを招いている。\n開発手法が従来と異なるため、既存の管理手法では対応できない。\nAIリスクを制御するには、新たな品質管理の枠組みが必要となっている。"
+  },
+  {
+    "title": "DGX Sparkの本命用途は「ローカル推論」、GUIを使った操作も可能に",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03726/081900002/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "米NVIDIA（エヌビディア）のAI（Artificial Intelligence：人工知能）専用パソコン「DGX Spark」。その本命の使い方は、ローカル環境で推論サーバーとして使うことだろう。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03726/081900002/topm.jpg?20220512",
+    "fetched_at": "2026-08-25 05:19:50",
+    "ja_summary": "・NVIDIAのAI専用PC「DGX Spark」は、ローカル環境での推論サーバー利用が本命。\n・GUIによる操作にも対応し、専門知識がなくても扱いやすい。\n・社内環境で安全かつ手軽にAI推論を実行できる製品。"
+  },
+  {
+    "title": "トヨタ、E2E自動運転も独自「ハイブリッド」　説明可能性を追求",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03721/081700007/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "トヨタがE2E自動運転の内製化に本腰を入れている。独自のアーキテクチャーで構成したAIモデルを開発する。テスラなどが目指す認識から制御までを単一のAIが担う「完全E2E」に踏み込まず、モジュラー型のAIモデルとルールベースの「ガードレール」を組み合わせるハイブリッド構成を取る。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03721/081700007/topm.jpg?20220512",
+    "fetched_at": "2026-08-25 05:19:51",
+    "ja_summary": "・トヨタが自動運転のAI開発を内製化し、独自のハイブリッド方式を採用する。\n・全工程をAIが担う「完全E2E」ではなく、安全性重視のモジュールと制御を組み合わせる。\n・AIの判断根拠を説明可能にすることで、信頼性と安全性を両立させる。"
+  },
+  {
+    "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
+    "link": "https://openai.com/index/gpt-5-6-in-kiro",
+    "source": "OpenAI",
+    "published": "Mon, 24 Aug 2026 12:00:00 GMT",
+    "summary": "GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/6r1E6E5mcdQEGztu6B1TI6/7e1ab3332eb5440e41cb64ba59c65d2b/OAI_Kiro_Partnership_16x9_SEO_Official_Full_Lockup_3840x2160.png?w=1600&amp;h=900&amp;fit=fill",
+    "fetched_at": "2026-08-25 05:20:04",
+    "ja_summary": "・開発プラットフォーム「Kiro」で最新モデル「GPT-5.6」が利用可能に。\n・ソフトウェア開発における計画からテストまでの全工程をサポート。\n・従来のモデルよりコストパフォーマンスが向上し、開発効率が改善。"
+  },
+  {
     "title": "【書評】 Claude Cowork スゴイ活用術",
     "link": "https://note.com/npaka/n/n1754cbfc3fd8",
     "source": "note (npaka)",
@@ -938,65 +998,5 @@
     "image": "https://xtech.nikkei.com/atcl/nxt/column/18/01679/062500291/topm.jpg?20220512",
     "fetched_at": "2026-08-24 05:13:15",
     "ja_summary": "・高度な汎用AI「フロンティアAI」がサイバー攻撃に悪用されるリスクが急浮上。\n・悪用時の被害拡大が懸念され、各国政府や業界が対策を急いでいる。\n・利便性の高さと引き換えに、セキュリティ上の重大な脅威として警戒が必要。"
-  },
-  {
-    "title": "見えてきた「究極のARグラス」、広視野角フルカラーで超軽量　光学系に革新",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03720/082000004/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "急速に売れ始めた人工知能（AI）グラスや拡張現実（AR）グラス、そしてその両方の特徴を備えたAR＋AIグラスだが、50g以下に軽量化するには、フルカラーの映像表示機能や広い視野角（FOV）を諦めるしかなかった。最近になって、広いFOV、フルカラーで高精細かつ明るい映像表示、そして50g以下を満たした「究極のAR＋AIグラス」の実現が見えてきた。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03720/082000004/topL.jpg?20220512",
-    "fetched_at": "2026-08-24 05:13:16",
-    "ja_summary": "・AI・ARグラスは従来、軽量化のために視野角や画質を犠牲にする必要があった。\n・新たな光学技術により、高精細なフルカラー表示と広視野角の両立が可能に。\n・50g以下の超軽量かつ高性能な「究極のARグラス」の実現が目前に迫っている。"
-  },
-  {
-    "title": "Claudeの「透かし」導入、なぜ批判？ AI利用開示は当然の責務だ",
-    "link": "https://japan.cnet.com/article/35251814/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "私はこれまで何年にもわたり生成AIについて取材してきた。それだけに、AI「Claude」で生成したテキストに透かしを入れるというAnthropicの最近の発表が、一部の熱烈なAI支持者から激しい反発を招いたことには驚いた。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35251814/\"><img src=\"https://japan.cnet.com/storage/2026/08/21/0fc86c3c57b6f1d978c35dd3e57145ff/t/184/138/d/GettyImages-2271847602_1280x960.jpg\" /></a>",
-    "image": "https://japan.cnet.com/storage/2026/08/21/0fc86c3c57b6f1d978c35dd3e57145ff/t/184/138/d/GettyImages-2271847602_1280x960.jpg",
-    "fetched_at": "2026-08-24 03:54:45",
-    "ja_summary": "・AI「Claude」が生成物に透かしを入れる方針を発表し、一部ユーザーから反発を招いている。\n・著者はAI利用の透明性を確保するための透かし導入を、当然の責務として支持している。\n・AIの利用実態を明示する動きに対し、推進派・批判派間で議論が分かれている。"
-  },
-  {
-    "title": "Ornith-1.5 の概要",
-    "link": "https://note.com/npaka/n/n654b6af6387b",
-    "source": "note (npaka)",
-    "published": "Fri, 21 Aug 2026 17:14:13 +0900",
-    "summary": "<p id=\"602b7ca0-b130-4691-b5fe-893af8c417d8\" name=\"602b7ca0-b130-4691-b5fe-893af8c417d8\">「Ornith-1.5」の概要をまとめました。</p><figure id=\"de236178-eea2-40c3-9adf-77125494c085\" name=\"de236178-eea2-40c3-9adf-77125494c085\"><blockquote><p id=\"340eec92-00e7-4d07-8262-cdcc8081c9a6\" name=\"340eec92-00e7-4d07-8262-cdcc8081c9a6\"><strong>・</strong><a href=\"https://ornith.ai/ornith_1_5.html\" rel=\"nofollow noopener\" target=\"_blank\"><strong>Ornith-1.5: From Self-Scaffolding to Self-Improvement</strong></a></p></blockquote>\n<figcaption></figcaption></figure><br /><a href=\"https://note.com/npaka/n/n654b6af6387b\">続きをみる</a>",
-    "image": "https://assets.st-note.com/production/uploads/images/305607685/rectangle_large_type_2_42b9a79a37fb5cde9a1e4450f2124044.jpeg?width=800",
-    "fetched_at": "2026-08-24 03:16:34",
-    "ja_summary": "・「Ornith-1.5」は、自己足場形成（Self-Scaffolding）から自己改善（Self-Improvement）へと進化させた新しいAIモデルです。\n・従来のモデルと比較し、自律的な学習と性能向上に焦点を当てた仕組みが特徴です。\n・詳細は公開された技術レポートや解説記事から確認できます。"
-  },
-  {
-    "title": "なぜ、AI時代においてC#は最適な言語の1つなのか？",
-    "link": "https://qiita.com/tomokusaba/items/45b66545bb7ea88e8403",
-    "source": "Qiita (Popular)",
-    "published": "2026-08-14T18:37:58+09:00",
-    "summary": "## はじめに\n\nAI が開発現場に入り込んだ今、私たちは「どの言語で書けば、AI と一緒に生産性を上げられるか」をあらためて考える必要があります。\n\nその問いに対して、私は C# をとても強く推したいです。\n\n理由はシンプルです。C# は、AI が生成するコードの質を**人間が早く見抜き、なおかつ安全に運用できる**ように設計された言語だからです。\n\nAI には、たとえ文法は正しくても、意味が崩",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmF2YXRhcnMuZ2l0aHVidXNlcmNvbnRlbnQuY29tJTJGdSUyRjQ2NTIzOTI0JTNGdiUzRDQ_aXhsaWI9cmItNC4xLjEmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPWE5MTY2YmFjZjY5ZDA0NDIzYmU2NjZlYTUyNjk2YzA4%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYwYTgwNDgwMTkwOGEyZjUyZjJlNmMwMjFlYTczM2NmMDhmZjE2MTA0JTJGb3JpZ2luYWwuanBnJTNGMTcyNjE5MDEyMD9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz1lMTNhZjBiNTcyNmFmNmU2ZDA4ZTc5YzE0ODQ4NjE2NQ%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3Da3f360d92e0185ef55780fbc45e879ff?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgxJUFBJUUzJTgxJTlDJUUzJTgwJTgxQUklRTYlOTklODIlRTQlQkIlQTMlRTMlODElQUIlRTMlODElOEElRTMlODElODQlRTMlODElQTZDJTIzJUUzJTgxJUFGJUU2JTlDJTgwJUU5JTgxJUE5JUUzJTgxJUFBJUU4JUE4JTgwJUU4JUFBJTlFJUUzJTgxJUFFMSVFMyU4MSVBNCVFMyU4MSVBQSVFMyU4MSVBRSVFMyU4MSU4QiVFRiVCQyU5RiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPWM3ZGM1YjgyN2I1OGE1YmRhMzNhMDU1ZWM5MTZlNTUx&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDB0b21va3VzYWJhJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9MjBiMWVkMzkzMTExNTI5MWJjYTU3MzE1ZTg5NDkxNGY&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=RnV0dXJlT25l5qCq5byP5Lya56S-&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=7b5975ec26dbaea7580556a3e6f40f04",
-    "fetched_at": "2026-08-24 02:55:22",
-    "ja_summary": "C#はAIが生成したコードの品質を人間が素早く判別し、安全に運用できるよう設計された言語である。\nAIによる開発が主流となる中で、生産性と安全性を両立させるための最適な選択肢となる。\n文法的な正しさだけでなく、意味の正確性を担保しやすい点が開発現場で高く評価されている。"
-  },
-  {
-    "title": "Tripo P2.0 の概要",
-    "link": "https://note.com/npaka/n/n57d9bfa3ecc2",
-    "source": "note (npaka)",
-    "published": "Fri, 21 Aug 2026 16:11:05 +0900",
-    "summary": "<p id=\"215e62bb-d4f7-4716-a408-4193243cba5b\" name=\"215e62bb-d4f7-4716-a408-4193243cba5b\">「Tripo P2.0」の概要をまとめました。</p><figure id=\"643bc923-b64c-4b4c-8ec6-fdff4206cbf9\" name=\"643bc923-b64c-4b4c-8ec6-fdff4206cbf9\"><blockquote><p id=\"5d2f33e2-fd67-448a-b436-2f70dfb8039e\" name=\"5d2f33e2-fd67-448a-b436-2f70dfb8039e\"><strong>・</strong><a href=\"https://www.tripo3d.ai/blog/tripo-p2-0-preview\" rel=\"nofollow noopener\" target=\"_blank\"><strong>Tripo P2.0 Preview: A Major Breakthrough for Production-Ready 3D Assets</strong></a></p></blockquote>\n<figcaption></figcaption></figure><br /><a href=\"https://note.com/npaka/n/n57d9bfa3ecc2\">続きをみる</a>",
-    "image": "https://assets.st-note.com/production/uploads/images/305593643/rectangle_large_type_2_0db4276bdbb0ba11f5e5b4fd214110d2.png?width=800",
-    "fetched_at": "2026-08-24 02:34:15",
-    "ja_summary": "・3D生成AI「Tripo P2.0」のプレビュー版が公開された。\n・実務レベルの品質を備えた3Dアセット生成において大きな進歩を遂げている。\n・短時間で高品質な3Dモデルを生成できる点が最大の特徴。"
-  },
-  {
-    "title": "Ask Claude about the Anthropic Economic Index",
-    "link": "https://www.anthropic.com/news/anthropic-economic-index-connector",
-    "source": "Anthropic (News)",
-    "published": "Wed, 22 Jul 2026 00:00:00 +0000",
-    "summary": "Ask Claude about the Anthropic Economic Index",
-    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20NodeBook&amp;backgroundColor=coral",
-    "fetched_at": "2026-08-24 02:34:22",
-    "ja_summary": "Anthropic社が経済指標データを分析・可視化する「Anthropic Economic Index」を公開した。\nAI（Claude）を活用することで、複雑な経済データの解釈やトレンド分析が容易になる。\nビジネスにおける迅速な意思決定や市場調査のツールとして活用が可能。"
   }
 ]
