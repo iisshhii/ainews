@@ -1,5 +1,25 @@
 [
   {
+    "title": "アンソロピックのAI透かし発表直後、除去ツールを公開。予想外の反響に見舞われた起業家の告白",
+    "link": "https://www.businessinsider.jp/article/2608-created-viral-ai-watermark-remover-after-anthropics-announcement/",
+    "source": "Business Insider Japan",
+    "published": "Mon, 24 Aug 2026 21:30:00 GMT",
+    "summary": "あるテック起業家が、アンソロピックのAI透かし導入計画に一石を投じるかたちで、透かしを除去するオープンソースプロジェクトを開発しました。想定外のバイラルな反響と、その裏にある問題意識を本人が語ります。",
+    "image": "https://media.loom-app.com/loom/2026/08/24/0a878d0c-1149-4d98-91be-39666f147e09/original.jpg?w=1200",
+    "fetched_at": "2026-08-25 06:51:19",
+    "ja_summary": "アンソロピックのAI透かし導入に対し、ある起業家が除去ツールを公開し大きな反響を呼んだ。\n技術的な抵抗を試みたこのプロジェクトの裏には、AIの検閲や制御に対する強い懸念がある。\nAIの安全策とプライバシーのバランスを巡る、開発者コミュニティの議論が加速している。"
+  },
+  {
+    "title": "新人エンジニア、AIがないと役に立たないハリボテ人間にならないか不安",
+    "link": "https://qiita.com/prumnn/items/b3302efec6a8d8b50197",
+    "source": "Qiita (Popular)",
+    "published": "2026-08-10T14:46:52+09:00",
+    "summary": "![フィジカルロボットとは？.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/4458573/ff73a124-56b7-40fb-8477-161e0d91091c.png)\n\n<br>\n\n## はじめに\n>エラーが出たら、考える前にまずAIにコピペする。それが当たり前になっていたぷらむんが、AIが数十分使えな",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0NDU4NTczJTJGZjdiNzg1NDM4ODU2MTAyY2YxOWUwYTY0MDRkMTQzMWMxYzg2Y2NhNCUyRnhfbGFyZ2UucG5nJTNGMTc4MzMxMDkyMD9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9MTY5N2NhODkwNmQ1NzM0ZmE4MGVjYzllMTdhY2M4YzY%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYzMzEyZmE3ZDk1NjJkYTc1ZTFmOGE1ZmQxODljN2UzN2FlNzZhMjc0JTJGb3JpZ2luYWwuanBnJTNGMTc1NzU2OTIyMz9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz02ZjkzZjY0NGI1ZDk0MjNmMjMxMDhjOGEzZjllZDE0Mw%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3Ddb0c0fdd520bcb1f15379f24886da19b?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUU2JTk2JUIwJUU0JUJBJUJBJUUzJTgyJUE4JUUzJTgzJUIzJUUzJTgyJUI4JUUzJTgzJThCJUUzJTgyJUEyJUUzJTgwJTgxQUklRTMlODElOEMlRTMlODElQUElRTMlODElODQlRTMlODElQTglRTUlQkQlQjklRTMlODElQUIlRTclQUIlOEIlRTMlODElOUYlRTMlODElQUElRTMlODElODQlRTMlODMlOEYlRTMlODMlQUElRTMlODMlOUMlRTMlODMlODYlRTQlQkElQkElRTklOTYlOTMlRTMlODElQUIlRTMlODElQUElRTMlODIlODklRTMlODElQUElRTMlODElODQlRTMlODElOEIlRTQlQjglOEQlRTUlQUUlODkmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz04N2MyNDliYTg5MWExZjUxYzk5ZTE5NmJmNTE5ZGU5Mg&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBwcnVtbm4mdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz0zZGJlZTBmNWZjZGQwNGZlMmQ3MTg0ODRkMDAxMzBmYw&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=5qCq5byP5Lya56S-UFJVTQ&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=f14b6396b40b0a7fd1d5e916b4de3ee8",
+    "fetched_at": "2026-08-25 06:51:37",
+    "ja_summary": "AIへの依存により自力で問題解決できなくなる「ハリボテエンジニア」化を懸念する声が上がっている。\nツールを使いこなす一方で、エラーをAIに丸投げする習慣が自身の思考力を奪うリスクを指摘。\n今後はAIを効率的に活用しつつ、基礎的な技術力や論理的思考を養うバランスが重要となる。"
+  },
+  {
     "title": "中国メモリー半導体大手｢CXMT｣の時価総額が一時90兆円超え AI投資ブーム追い風に中国株式市場で時価総額トップに | ビジネス | 東洋経済オンライン",
     "link": "https://toyokeizai.net/articles/-/955475?utm_source=rss&utm_medium=http&utm_campaign=link_back",
     "source": "東洋経済オンライン",
@@ -978,25 +998,5 @@
     "image": "https://media.loom-app.com/loom/2026/08/19/37ad8bd7-aea7-446b-bce1-aed70e64ff04/original.jpg?w=1200",
     "fetched_at": "2026-08-24 06:57:00",
     "ja_summary": "・freeeは各部署にAI活用相談役「AIBP」を配置し、現場主導でAI導入を推進。\n・制度を先行させるのではなく、現場の需要を先に作り出し、その後に安全な仕組みを構築。\n・現場の熱量を活かしてからルールを整備する、ボトムアップ型のAI活用手法を実践。"
-  },
-  {
-    "title": "claude のメモリを棚卸しする",
-    "link": "https://zenn.dev/cureapp/articles/c1e963064d05fd",
-    "source": "Zenn Trends",
-    "published": "Fri, 21 Aug 2026 04:28:26 GMT",
-    "summary": "https://x.com/kenn/status/2090438812854087756?s=20\nこのツイート見て「やべ、なんも意識してなかった」となったのがきっかけ\nよしなにやってくれてるんだろうくらいだったので、この際ちゃんと調べて棚卸しした\n\n そもそも claude のメモリとは\n理解しているつもりだったけどちゃんと調べてなかったので調べた\nhttps://code.claude.com/docs/en/memory\nプロジェクトごとに保存（~/.claude/projects/&lt;プロジェクト名&gt;/memory/ 配下）してくれているっぽい（setting の a...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--AoqxSpcX--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:claude%2520%25E3%2581%25AE%25E3%2583%25A1%25E3%2583%25A2%25E3%2583%25AA%25E3%2582%2592%25E6%25A3%259A%25E5%258D%25B8%25E3%2581%2597%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Tatsunori%2520Nakano%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2M1MThkMWZlMzkuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:CureApp%2520%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzhhNDg0ZDExOTguanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "fetched_at": "2026-08-24 06:43:12",
-    "ja_summary": "・Claudeのメモリ機能が各プロジェクトごとにローカル（~/.claude/以下）へ自動保存されていることを確認。\n・これまで意識せず利用していたメモリ設定を、改めて仕様に基づき整理・棚卸しした。\n・プロジェクトごとのデータ管理状況を把握し、適切に運用するための備忘録。"
-  },
-  {
-    "title": "ハッカーの｢オフ会｣発祥､世界最大セキュリティイベント｢Black Hat｣で注目された\"AI暴走\"の次に問題となるサイバー脅威 | ビジネス | 東洋経済オンライン",
-    "link": "https://toyokeizai.net/articles/-/955166?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-    "source": "東洋経済オンライン",
-    "published": "Mon, 24 Aug 2026 06:00:00 +0900",
-    "summary": "Black Hat USA 2026は､かつてないほど官民連携やAI攻防の最前線に焦点が移りました。セキュリティ業界は今後､どんな課題と変化に直面していくのでしょうか？",
-    "image": "https://tk.ismcdn.jp/mwimgs/2/2/1200w/img_22fc5f7d2d36a2a6b0c18b64e9ad3bf8193153.jpg?nextgen=false",
-    "fetched_at": "2026-08-24 06:17:43",
-    "ja_summary": "・世界最大のセキュリティ会議「Black Hat」で、AI活用と官民連携の深化が主要テーマに浮上。\n・AIの悪用による脅威が加速する中、企業は従来の防御を超えた新たな対策を迫られている。\n・業界全体が「AI攻防戦」のフェーズへ移行し、サイバーセキュリティの構造的な転換が始まった。"
   }
 ]
