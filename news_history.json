@@ -1,5 +1,25 @@
 [
   {
+    "title": "Hamed Behrouzi — Digital Identity Graph System",
+    "link": "https://speakerdeck.com/hamedbehrouzi/hamed-behrouzi-digital-identity-graph-system-e3f66805-d57c-4141-af16-f25be8e67102",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-08-24T04:23:26-04:00",
+    "summary": "This presentation introduces the Digital Identity Graph System of Hamed Behrouzi — a structured, machine-readable identity framework connecting VFX animation work, AI motion systems, procedural animation tools, and research artifacts.\n\nIt links verified nodes such as IMDb, LinkedIn, Zenodo, ORCID, Google Scholar, ResearchGate, and official identity pages to create a consistent cross-platform identity signal for search engines and AI systems.\n\nExplore the full identity graph:\nhttps://hamedbehrouzi.com",
+    "image": "https://files.speakerdeck.com/presentations/2cd5c5700dbc46b09d887418fdf539c3/preview_slide_0.jpg?40355894",
+    "fetched_at": "2026-08-24 20:50:58",
+    "ja_summary": "・VFX、AI、研究成果を統合管理する「デジタルIDグラフシステム」を公開。\n・IMDbや論文サイト等の各IDを連結し、検索エンジンやAIが本人を正しく識別可能。\n・専門スキルと研究実績を横断的に証明し、信頼性の高いデジタルアイデンティティを構築。"
+  },
+  {
+    "title": "Z.ai エコシステム実践解説 — エンジニア向けテクニカルリファレンス",
+    "link": "https://speakerdeck.com/x5gtrn/the-z-ai-ecosystem-in-practice-a-technical-reference-for-engineers-ja",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-08-23T12:14:55-04:00",
+    "summary": "https://daisuke.masuda.tokyo/article-2026-08-24-0212\n\nこのスライドは、Z.aiのフラッグシップモデル「GLM-5.3」、専用開発環境「ZCode」、業務自動化エージェント「AutoClaw」の3製品を全21ページで解説するエンジニア向けリファレンスです。前半はGLM-5.3の仕様（743B・1Mコンテキスト・常時推論）と訓練基盤、Terminal Bench 3.0やCyberGymなどのベンチマーク、Coding Planの料金とAPI設定を深掘り。中盤はZCodeの機能と導入手順、AutoClawの6大機能とユースケースを紹介。終盤はClaude Code・Codex・OSSエージェント・OpenClawとの比較と使い分けガイドで締め、技術選定を支援します。\n\nこのスライドはGLM-5.3で作成しました。",
+    "image": "https://files.speakerdeck.com/presentations/f71ebab60b964b88b2f3b4ea0ac9d1c9/preview_slide_0.jpg?40351916",
+    "fetched_at": "2026-08-24 20:50:58",
+    "ja_summary": "・Z.aiの最新モデル「GLM-5.3」の仕様から訓練基盤、API設定までを網羅した技術リファレンス。\n・専用開発環境「ZCode」や自動化エージェント「AutoClaw」の機能と活用法を解説。\n・既存のAIツールやOSSとの比較・使い分けガイドを提示し、技術選定をサポート。"
+  },
+  {
     "title": "Strengthening democratic oversight in national security",
     "link": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
     "source": "OpenAI",
@@ -978,25 +998,5 @@
     "image": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11964/m.jpg?20220512",
     "fetched_at": "2026-08-24 02:13:28",
     "ja_summary": "・NVIDIAが大手EDAベンダーと連携し、AIを活用した半導体設計の効率化を推進。\n・自社のAIプロセッサやソフト技術を設計フローに組み込み、開発期間を大幅に短縮。\n・AIエージェントの導入により、設計業務の自動化や生産性向上が加速している。"
-  },
-  {
-    "title": "【書評】 Claude Cowork スゴイ活用術",
-    "link": "https://note.com/npaka/n/n1754cbfc3fd8",
-    "source": "note (npaka)",
-    "published": "Fri, 21 Aug 2026 15:41:58 +0900",
-    "summary": "<p id=\"8fab689a-4db2-4787-949f-92117dbd9000\" name=\"8fab689a-4db2-4787-949f-92117dbd9000\">生成AIを仕事で使っていても、実際には「質問して答えをもらう」使い方にとどまっている人も多いかと思います。<br />そんな使い方を一段進めてくれるのが、「<strong>Claude Cowork</strong>」です。</p><p id=\"d2133961-d066-4eb8-b216-4b0eed5135c1\" name=\"d2133961-d066-4eb8-b216-4b0eed5135c1\">今回紹介する『<strong>Claude Cowork スゴイ活用術</strong>』（AI部 著）は、Coworkの基本から実践、自動化、組織導入までを体系的にまとめた一冊です。</p><br /><a href=\"https://note.com/npaka/n/n1754cbfc3fd8\">続きをみる</a>",
-    "image": "https://assets.st-note.com/production/uploads/images/305582537/rectangle_large_type_2_3c94f039e69cc1c27b2a4b6fcbc8831c.jpeg?width=800",
-    "fetched_at": "2026-08-24 01:48:39",
-    "ja_summary": "「Claude Cowork」の基本から自動化、組織活用までを網羅した解説書。\n単なる質問ツールを超えた、業務効率化やAI活用のステップアップ法を学べる。\n生成AIを実務のパートナーとして本格的に使いこなしたいビジネスパーソンに最適。"
-  },
-  {
-    "title": "AIの進化によって漫画制作はどう変わるのか",
-    "link": "https://note.com/npaka/n/n6c22f295e89f",
-    "source": "note (npaka)",
-    "published": "Sun, 16 Aug 2026 13:44:35 +0900",
-    "summary": "<p id=\"b67e49bc-0d4f-42a9-993c-8115126a5539\" name=\"b67e49bc-0d4f-42a9-993c-8115126a5539\">最新のAI研究とAIツールをもとに、AIによって漫画制作がどのように変わるのかを整理します。</p><br /><br /><a href=\"https://note.com/npaka/n/n6c22f295e89f\">続きをみる</a>",
-    "image": "https://assets.st-note.com/production/uploads/images/303996032/rectangle_large_type_2_52771712c236b282e5a6d0f34e81cc2a.png?width=800",
-    "fetched_at": "2026-08-24 01:48:39",
-    "ja_summary": "・最新のAI研究やツールが、漫画制作の工程を劇的に効率化している。\n・AI導入によって、制作現場の分業やワークフローが根本から変化しつつある。\n・生成AIの進化が、今後の漫画制作のあり方や表現の可能性を大きく変える。"
   }
 ]
