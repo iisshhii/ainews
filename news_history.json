@@ -1,5 +1,35 @@
 [
   {
+    "title": "Strengthening democratic oversight in national security",
+    "link": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
+    "source": "OpenAI",
+    "published": "Tue, 18 Aug 2026 19:00:00 GMT",
+    "summary": "OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/6HEG4BoWGKBEoSJWCReHz0/1b1c0b24720bb3faec4a71e48e8ceef7/openai-democratic-oversight-page-seo-v004.png?w=1600&amp;h=900&amp;fit=fill",
+    "fetched_at": "2026-08-24 20:19:22",
+    "ja_summary": "・OpenAIが国家安全保障分野におけるAIの民主的な監視体制を強化する取り組みを開始。\n・政府機関に対し、AI活用に必要なツールや専門知識、トレーニングを提供。\n・AIの安全かつ適切な運用に向けたガバナンス構築を支援する。"
+  },
+  {
+    "title": "AIでイベントカタログを279件自動生成し、成果物の検証を設計した話",
+    "link": "https://zenn.dev/tribeau/articles/d7cd180e53f719",
+    "source": "Zenn Trends",
+    "published": "Mon, 24 Aug 2026 02:50:05 GMT",
+    "summary": "トリビューでリードエンジニアをしています、志甫 (@shihochan_jp) です。\n弊社では、美容医療アプリ「トリビュー」の4リポジトリ（iOS、Android、Webフロントエンド、バックエンド）から、Google Analytics・Braze・Adjustの計測定義279エントリ（イベントのほか、ユーザー属性や配信トリガーの定義も含む）を横断するカタログを、AIで自動生成する仕組みを運用しています[1]。\nAIにコードを読ませてドキュメントを生成させると、次の2つが問題になります。\n\n実行のたびに出力が微妙に揺れて、変更差分が読めなくなる\nコードに存在しないイベント名が、もっと...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--FjYqsOvG--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%25E3%2581%25A7%25E3%2582%25A4%25E3%2583%2599%25E3%2583%25B3%25E3%2583%2588%25E3%2582%25AB%25E3%2582%25BF%25E3%2583%25AD%25E3%2582%25B0%25E3%2582%2592279%25E4%25BB%25B6%25E8%2587%25AA%25E5%258B%2595%25E7%2594%259F%25E6%2588%2590%25E3%2581%2597%25E3%2580%2581%25E6%2588%2590%25E6%259E%259C%25E7%2589%25A9%25E3%2581%25AE%25E6%25A4%259C%25E8%25A8%25BC%25E3%2582%2592%25E8%25A8%25AD%25E8%25A8%2588%25E3%2581%2597%25E3%2581%259F%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:shihochan%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2M2MmIxMmJjY2YuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:TRIBEAU%2520Tech%2520Blog%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jTFlGUW9tVWJSTExISUhoQTk0cWt3cFJuZkpVdWxqdXVFZ3pWalRLY0hNVHB3S1Z1WXc9czI1MC1j%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-08-24 20:19:23",
+    "ja_summary": "・美容医療アプリ「トリビュー」にて、AIを活用し279件の計測定義カタログを自動生成する仕組みを構築。\n・AI特有の「出力の揺れ」や「誤情報の混入」という課題に対し、検証設計を行うことで精度と信頼性を確保。\n・コードベースから正確な計測ドキュメントを自動生成し、開発効率と管理の品質を向上させた。"
+  },
+  {
+    "title": "デザイナーが作る仕様駆動型デザインシステム",
+    "link": "https://zenn.dev/katsumata/articles/014affaeb272d00aeae6",
+    "source": "Zenn Trends",
+    "published": "Mon, 24 Aug 2026 01:39:09 GMT",
+    "summary": "デザイナーだけでデザインシステムの実装までするという理想\n!\nこの記事の対象読者\nデザインシステムを仕様駆動で開発してみたい稀なデザイナー\n\nデザインシステムに、必要なコンポーネントが足りない。\n追加したいものがあるのに、フロントエンドエンジニアの工数を確保できない。\n私の職場のデザインシステム運営が、その状態でした。\nFigmaのライブラリなら、デザイナーの自分だけで拡張できますが、実装が伴わなければプロダクトでは使えません。\nデザイナーが増やせるのはFigmaの中だけで、そこから先はいつもエンジニアの手が空くのを待つことになります。\n2026年のはじめ、Claude Codeが流...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--R_ed5ma2--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2587%25E3%2582%25B6%25E3%2582%25A4%25E3%2583%258A%25E3%2583%25BC%25E3%2581%258C%25E4%25BD%259C%25E3%2582%258B%25E4%25BB%2595%25E6%25A7%2598%25E9%25A7%2586%25E5%258B%2595%25E5%259E%258B%25E3%2583%2587%25E3%2582%25B6%25E3%2582%25A4%25E3%2583%25B3%25E3%2582%25B7%25E3%2582%25B9%25E3%2583%2586%25E3%2583%25A0%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Katsumata%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2JjMzJkMjVkOWMuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-08-24 20:19:24",
+    "ja_summary": "・エンジニアの工数不足でデザインシステムの拡張が止まる課題を、デザイナー自身が実装まで行うことで解消。\n・AIツール（Claude Code等）を活用し、デザイナーがコード実装まで担う「仕様駆動型」の開発手法を実践。\n・Figmaだけでなく実装まで完結させることで、プロダクトへの反映速度と自律的なシステム構築を実現する。"
+  },
+  {
     "title": "【資産3億円を築いた“投資の極意”】IPOは最大70社の証券口座で応募／オープンAIなど米国の注目IPOに申し込むには？／生成AIは「周年銘柄」分析などに活用／株主優待を効率的にゲットする裏技 | ビジネス | 東洋経済オンライン",
     "link": "https://toyokeizai.net/articles/-/955756?utm_source=rss&utm_medium=http&utm_campaign=link_back",
     "source": "東洋経済オンライン",
@@ -968,35 +998,5 @@
     "image": "https://assets.st-note.com/production/uploads/images/303996032/rectangle_large_type_2_52771712c236b282e5a6d0f34e81cc2a.png?width=800",
     "fetched_at": "2026-08-24 01:48:39",
     "ja_summary": "・最新のAI研究やツールが、漫画制作の工程を劇的に効率化している。\n・AI導入によって、制作現場の分業やワークフローが根本から変化しつつある。\n・生成AIの進化が、今後の漫画制作のあり方や表現の可能性を大きく変える。"
-  },
-  {
-    "title": "Z.ai エコシステム実践解説 — エンジニア向けテクニカルリファレンス",
-    "link": "https://speakerdeck.com/x5gtrn/the-z-ai-ecosystem-in-practice-a-technical-reference-for-engineers-ja",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-08-23T12:14:55-04:00",
-    "summary": "このスライドは、Z.aiのフラッグシップモデル「GLM-5.3」、専用開発環境「ZCode」、業務自動化エージェント「AutoClaw」の3製品を全21ページで解説するエンジニア向けリファレンスです。前半はGLM-5.3の仕様（743B・1Mコンテキスト・常時推論）と訓練基盤、Terminal Bench 3.0やCyberGymなどのベンチマーク、Coding Planの料金とAPI設定を深掘り。中盤はZCodeの機能と導入手順、AutoClawの6大機能とユースケースを紹介。終盤はClaude Code・Codex・OSSエージェント・OpenClawとの比較と使い分けガイドで締め、技術選定を支援します。\n\nこのスライドはGLM-5.3で作成しました。",
-    "image": "https://files.speakerdeck.com/presentations/f71ebab60b964b88b2f3b4ea0ac9d1c9/preview_slide_0.jpg?40351916",
-    "fetched_at": "2026-08-24 01:24:06",
-    "ja_summary": "・エンジニア向けにZ.aiのAIモデル・開発環境・自動化エージェントを網羅した詳細リファレンス。\n・高性能モデル「GLM-5.3」の技術仕様やAPI設定、専用環境「ZCode」の導入手順を解説。\n・既存の主要AIツールとの比較・使い分けガイドを掲載し、現場の技術選定を支援する内容。"
-  },
-  {
-    "title": "The Z.ai Ecosystem in Practice — A Technical Reference for Engineers",
-    "link": "https://speakerdeck.com/x5gtrn/the-z-ai-ecosystem-in-practice-a-technical-reference-for-engineers",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-08-23T12:06:25-04:00",
-    "summary": "<a href=\"https://speakerdeck.com/x5gtrn/the-z-ai-ecosystem-in-practice-a-technical-reference-for-engineers-ja\">Japanese Edition</a>\n\nThis slide is a 21-slide technical reference for engineers covering Z.ai's GLM-5.3 model, the ZCode development environment, and the AutoClaw business agent. It digs into specs, benchmarks, pricing and workflows, then compares Claude Code, Codex and OSS rivals to guide your tool selection.\n\nThis slide was created by GLM-5.3.",
-    "image": "https://files.speakerdeck.com/presentations/d5831b409422456e90509122d8ec2e03/preview_slide_0.jpg?40351893",
-    "fetched_at": "2026-08-24 01:24:06",
-    "ja_summary": "・Z.aiの最新モデル「GLM-5.3」の性能や開発環境、業務エージェントの技術仕様を解説。\n・ベンチマークや料金体系を網羅し、Claude Code等の競合ツールと比較。\n・AI開発者向けに、自社環境に適したツール選定の指針となる技術資料。"
-  },
-  {
-    "title": "Appleのスマートホーム製品情報が流出--9月にも発表が予想される新デバイスは",
-    "link": "https://japan.zdnet.com/article/35251808/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "新しい「Siri AI」のリリースが待たれる中、Appleから新たなスマートハブ製品が登場する可能性がある。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35251808/\"><img src=\"https://japan.zdnet.com/storage/2026/08/21/200518e3d9c3e3833546808fbbae7819/t/184/138/d/large-apple-ipad-10th-gen-blue.jpg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2026/08/21/200518e3d9c3e3833546808fbbae7819/t/184/138/d/large-apple-ipad-10th-gen-blue.jpg",
-    "fetched_at": "2026-08-23 23:15:05",
-    "ja_summary": "・Appleがスマートホーム向けの新たなハブ製品を開発中。\n・「Siri AI」と連動する新デバイスとして注目されている。\n・早ければ9月にも発表される可能性がある。"
   }
 ]
