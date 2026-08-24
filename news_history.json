@@ -1,5 +1,15 @@
 [
   {
+    "title": "[PR]「ブラウザが AI アシスタントになる時代」に生産性とセキュリティを両立する方法とは？",
+    "link": "https://japan.zdnet.com/pickup/chrome_enterprise_premium_tu_12/35250846/",
+    "source": "ZDNET Japan",
+    "published": "",
+    "summary": "生成 AI の波は、ビジネスの現場を急速に変えつつある。中でも注目すべきは、日常的に使うブラウザそのものに AI が統合される動きだ。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/pickup/chrome_enterprise_premium_tu_12/35250846/\"><img src=\"https://japan.zdnet.com/storage/2026/08/19/fc16e803ba47bd0f37db5d20cc3bb8c6/t/184/138/d/thumb_google_12.jpg\" /></a>",
+    "image": "https://japan.zdnet.com/storage/2026/08/19/fc16e803ba47bd0f37db5d20cc3bb8c6/t/184/138/d/thumb_google_12.jpg",
+    "fetched_at": "2026-08-24 16:43:23",
+    "ja_summary": "ブラウザへのAI統合が加速し、業務効率化が急速に進んでいる。\nビジネス現場では、AI活用と高度なセキュリティの両立が求められている。\nブラウザをAIアシスタント化することで、生産性と安全性を同時に高める手法が注目されている。"
+  },
+  {
     "title": "Claude Code の設定でハマる箇所まとめ",
     "link": "https://qiita.com/jqit_suwa/items/d49739b934606d4abdbd",
     "source": "Qiita (Popular)",
@@ -988,15 +998,5 @@
     "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnNlY3VyZS5ncmF2YXRhci5jb20lMkZhdmF0YXIlMkZlZmFkYWUwZDMxMjJiZGNlOTkxYzg4YjE2ZmM4MTk4Yz9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9ZGJlZGM2YTdhN2IxYjJiZmMwNjNkZDVkMDc1OGFkNTI%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYyMDc3NzA2NTMzODkzMmUyMWVjMjk3MjI5ZDVkZmI5NDk5MWI5YzFhJTJGb3JpZ2luYWwuanBnJTNGMTc2OTAwMDk3MD9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz1lYjc1ZTQzMzAzYTdlNTkzNDQ4Yjc4NDZiMjljYTgxZA%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3Dfcc2f8f247c1360f8c89b4dc3364e1ed?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9UUElRTMlODIlQTglRTMlODMlQjMlRTMlODIlQjglRTMlODMlOEIlRTMlODIlQTIlRTMlODElQUUlRTQlQkIlOTUlRTQlQkElOEIlRTMlODElOEMlRTUlQTQlODklRTMlODIlOEYlRTMlODElQTMlRTMlODElOUYlRTIlODAlOTQlRTIlODAlOTRDbGF1ZGUlMjBDb2RlJUUzJTgxJUE4UGxheXdyaWdodCVFMyU4MSVBNyVFMyU4MCU4MSVFMyU4MyU4NiVFMyU4MiVCOSVFMyU4MyU4OCVFMyU4MSU4QiVFMyU4MiU4OSVFMyU4MyU4MSVFMyU4MiVCMSVFMyU4MyU4MyVFMyU4MyU4OCVFNyVBRSVBMSVFNyU5MCU4NiVFMyU4MSVCRSVFMyU4MSVBNyVFNSU4NSVBOCVFOSU4MyVBOEFJJUUyJTgwJUE2JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9YTFiMGUwMjQzMTRiYTk1ZGUzMTRhYjhlMWE1MWJhNTE&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBhX3NhdG9fSlFJVCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTQzNjEzOTg1YTZjNDMyMTcxOTAzMTczNzNlNGM3YmM4&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=5qCq5byP5Lya56S-SlFJVA&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=d7d5367eb88dc8e6953e8be4741dbc92",
     "fetched_at": "2026-08-23 11:36:28",
     "ja_summary": "・Claude CodeとPlaywrightを組み合わせることで、テスト作成からチケット管理までのQA業務をAIに自動化させた。\n・従来の手動運用から脱却し、エンジニアの業務スタイルを抜本的に変革することに成功した。\n・AI活用により、ソフトウェアの品質保証プロセスを劇的に効率化できる可能性が示された。"
-  },
-  {
-    "title": "〈マネジメント 再設計のススメ⑥〉変貌を遂げる｢2040年の管理職｣企業と個人はいまから何に取り組むべきなのか | ビジネス | 東洋経済オンライン",
-    "link": "https://toyokeizai.net/articles/-/955374?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-    "source": "東洋経済オンライン",
-    "published": "Sun, 23 Aug 2026 09:00:00 +0900",
-    "summary": "2040年､日本の管理職は人口減少とAI革新により大きく再編されます。従来の年功序列や階層構造は崩壊し､AIと協働しながら自ら｢結果と責任を引き受ける意思｣が求められる時代へ。あなたはこの変化にどう…",
-    "image": "https://tk.ismcdn.jp/mwimgs/6/9/1200w/img_69925c22c96fce969e3d29f2af18fe07162931.jpg?nextgen=false",
-    "fetched_at": "2026-08-23 10:03:27",
-    "ja_summary": "・2040年までに人口減少とAI普及で管理職のあり方が根本から再編される。\n・従来の年功序列や階層管理は通用せず、AIを使いこなす能力が不可欠となる。\n・成果と責任を自ら引き受けるプロフェッショナルとしての自律が、今すぐ求められている。"
   }
 ]
