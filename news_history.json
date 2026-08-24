@@ -1,5 +1,45 @@
 [
   {
+    "title": "架空の党員をAIで作成 立憲苦言",
+    "link": "https://news.yahoo.co.jp/pickup/6592700?source=rss",
+    "source": "Yahoo!ニュース IT・科学",
+    "published": "Sat, 22 Aug 2026 11:52:56 GMT",
+    "summary": "",
+    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/8/22/f4e2c845a4827704b7ffad5ca09a6db2c84e3656f28ff118f9af28998189339e.jpg",
+    "fetched_at": "2026-08-24 14:08:57",
+    "ja_summary": "立憲民主党の地方議員が、AIで作成した架空の人物を「党員」としてSNSで発信していたことが判明。\n同党は党の信用を損なう行為だとして、当該議員に厳重注意を行うとともに公表を控えるよう苦言を呈した。\n党員の実在性が問われる事態を受け、党全体でSNS利用に関する管理体制の再徹底が求められている。"
+  },
+  {
+    "title": "NOCCA×NOCCAの完全解析を独立再現してみた",
+    "link": "https://zenn.dev/keison8864/articles/nocca-strongly-solving-reproduction",
+    "source": "Zenn Trends",
+    "published": "Sun, 23 Aug 2026 07:54:16 GMT",
+    "summary": "!\nこの記事は、山本・保木（2022）によるNOCCA×NOCCAの強解決を、別実装で追試した個人プロジェクトの記録です。新しい強解決の主張ではなく、実装と検証の過程を中心に紹介します。\n\n\n はじめに：なんとなくやりたかったことに、手が出せるようになった\nきっかけは2つありました。\nひとつは、最近 NOCCA×NOCCA（ノッカノッカ） というボードゲームで遊ぶ機会があったこと。将棋やチェスほど複雑でなく、「これって完全解析されてるんだろうか？」とふと気になりました。\nもうひとつは、Claude Code Max（5xプラン）に加入したこと。Claude Fable 5の一般公開もあり...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--0yM9Gp8p--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:NOCCA%25C3%2597NOCCA%25E3%2581%25AE%25E5%25AE%258C%25E5%2585%25A8%25E8%25A7%25A3%25E6%259E%2590%25E3%2582%2592%25E7%258B%25AC%25E7%25AB%258B%25E5%2586%258D%25E7%258F%25BE%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:keison%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2E2YjQwZWI1YWMuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-08-24 14:09:02",
+    "ja_summary": "ボードゲーム「NOCCA×NOCCA」の既存の完全解析結果を、別実装を用いて個人で追試・検証したプロジェクト。\nAIコーディングツールを活用し、解析プロセスの再現と実装の過程を記録した。\n新たな攻略法の提案ではなく、検証を通じた技術的な試行に焦点を当てている。"
+  },
+  {
+    "title": "RTX 5090でFreeTokenを試してみた。35Bでは不要、120B級MoEでは話が変わる",
+    "link": "https://zenn.dev/holy_fox/articles/53b82eed45f956",
+    "source": "Zenn Trends",
+    "published": "Sat, 22 Aug 2026 07:44:27 GMT",
+    "summary": "2026年8月22日時点のFreeToken 0.1.2を、RTX 5090 32GBとRAM 128GBのPCで試しました。\nFreeTokenは、Mixture-of-Experts（MoE）モデルのexpertをホストRAMへ置き、必要なexpertだけをGPUへキャッシュしながら推論するサービングエンジンです。狙いはvLLMやllama.cppを単純に高速化することではなく、VRAMに収まらない巨大なMoEをコンシューマ向けGPUで実用速度で動かすことにあります。\n実際に試すと、この立ち位置がかなり明確に出ました。23.5GBのOrnith 1.5ではllama.cppとvLLM...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--AGs6k9Vn--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:RTX%25205090%25E3%2581%25A7FreeToken%25E3%2582%2592%25E8%25A9%25A6%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%25E3%2580%258235B%25E3%2581%25A7%25E3%2581%25AF%25E4%25B8%258D%25E8%25A6%2581%25E3%2580%2581120B%25E7%25B4%259AMoE%25E3%2581%25A7%25E3%2581%25AF%25E8%25A9%25B1%25E3%2581%258C%25E5%25A4%2589%25E3%2582%258F%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%25BB%25E3%2583%25BC%25E3%2582%258A%25E3%2583%25BC%25E3%2581%25B5%25E3%2581%2589%25E3%2581%25A3%25E3%2581%258F%25E3%2581%2599%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzZlMmM2MjU5ZmQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-08-24 14:09:04",
+    "ja_summary": "・「FreeToken」は、巨大なMoEモデルの専門層をホストRAMに退避させ、必要な分だけGPUに読み込むことで、VRAM容量を超えるモデルを実用速度で動かすエンジン。\n・RTX 5090環境で検証した結果、35Bクラスでは恩恵が薄いが、120Bクラスの巨大モデルでは従来手法に対し明確な優位性がある。\n・コンシューマー向けPCでも超大規模モデルを実用的に運用できる可能性を示唆。"
+  },
+  {
+    "title": "AIセキュリティ何から勉強すりゃええの？",
+    "link": "https://qiita.com/mikihitooooo/items/ced6a0aa744379d338b6",
+    "source": "Qiita (Popular)",
+    "published": "2026-08-20T17:31:50+09:00",
+    "summary": "# AIセキュリティ何から勉強すりゃええの？\n## 目次\n\n- [はじめに](#はじめに)\n- [軽く自己紹介](#軽く自己紹介)\n- [調べたソース・用語](#調べたソース用語)\n- [直近の学習計画](#直近の学習計画)\n- [理想の学習サイクル](#理想の学習サイクル)\n- [さいごに](#さいごに)\n\n\n## はじめに\n\n「AI活用で業務効率化！」「AI駆動開発で爆速コーディング！」\n\n最",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGODQ1ODg3JTJGcHJvZmlsZS1pbWFnZXMlMkYxNzg3MTA1MTU2P2l4bGliPXJiLTQuMS4xJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz1lNTQ5NjQ0YTQ2MGM5NjI0NjljNmQyODI3NTViNzY1Ng%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Dc28c33d205d200666024abd022d66d0b?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9QUklRTMlODIlQkIlRTMlODIlQUQlRTMlODMlQTUlRTMlODMlQUElRTMlODMlODYlRTMlODIlQTMlRTQlQkQlOTUlRTMlODElOEIlRTMlODIlODklRTUlOEIlODklRTUlQkMlQjclRTMlODElOTklRTMlODIlOEElRTMlODIlODMlRTMlODElODglRTMlODElODglRTMlODElQUUlRUYlQkMlOUYmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz04NDZhNDNkZDFjYjM3NzVkZTBmMDc4NzExYjg4OWQ1Yg&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBtaWtpaGl0b29vb28mdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz04MmY1NmJjNWI1YTI3YzgwMmViOTdiNzJjNTliNDEyNg&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=3344309712a5084780f91f7f4a728419",
+    "fetched_at": "2026-08-24 14:09:06",
+    "ja_summary": "AIセキュリティの学習方法を模索するエンジニアに向け、体系的な学習リソースや用語、理想的な学習サイクルを提案。\n直近の学習計画から実践的なサイクル構築まで、AI活用時代に不可欠なセキュリティ知識の習得法を網羅したガイド。"
+  },
+  {
     "title": "アンソロピック、AIの使い方を学べる「Claude Academy」　日本語対応",
     "link": "https://www.watch.impress.co.jp/docs/news/2134964.html",
     "source": "Impress Watch",
@@ -958,45 +998,5 @@
     "image": "https://files.speakerdeck.com/presentations/971aaae81a2e4b61afb625d84d557517/preview_slide_0.jpg?40350352",
     "fetched_at": "2026-08-23 07:45:31",
     "ja_summary": "・AIの知識がゼロの状態から、フィジカルAIの活用に挑戦した実践レポート。\n・生成AIを活用することで、未経験者でも短期間で成果物を作成可能であることを実証。\n・8月22日開催の「生成AI -LT 広島 vol.3」にて、そのノウハウや体験を共有。"
-  },
-  {
-    "title": "AI時代だからこそ｢1日15分のお節介｣を――84歳のPR会社創業者が説く､自分も世界もちょっぴり変わる生き方 | ライフ | 東洋経済オンライン",
-    "link": "https://toyokeizai.net/articles/-/955241?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-    "source": "東洋経済オンライン",
-    "published": "Sun, 23 Aug 2026 07:00:00 +0900",
-    "summary": "核家族化や人間関係の希薄化が進む現代社会で､お節介という優しさが見直されています。84歳の高橋恵さんが率いるおせっかい協会は､｢OSEKKAI｣を世界共通語に――という夢のもと､見返りを求めず一歩踏…",
-    "image": "https://tk.ismcdn.jp/mwimgs/0/0/1200w/img_0023dbd6559d34c1ad4df3dc828288fc613810.jpg?nextgen=false",
-    "fetched_at": "2026-08-23 07:18:00",
-    "ja_summary": "・人間関係が希薄な現代において、見返りを求めない「1日15分のお節介」が自分と世界を良くする。\n・84歳の創業者が率いる「おせっかい協会」は、この精神を世界共通の文化にすることを目指している。\n・AI時代だからこそ、人と人の温かな関わり合いが社会をより良くする鍵となる。"
-  },
-  {
-    "title": "Claude Code の設定でハマる箇所まとめ",
-    "link": "https://qiita.com/jqit_suwa/items/d49739b934606d4abdbd",
-    "source": "Qiita (Popular)",
-    "published": "2026-08-20T09:31:57+09:00",
-    "summary": "\nClaude Code を使っていて、こういう目に遭ったことはないでしょうか。\n\n- 公式に「既定でON」と書いてある機能が、なぜか使えない\n- 昨日まで出ていたタスクリストが、いつの間にか出なくなった\n- 設定を書いたのに、何も起きない。エラーも出ない\n\n**原因の多くは、公式ドキュメントに載っていない環境変数**でした。\n\nこの1週間で踏んだものを、**症状から引ける形**でまとめます。全部",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0NDMwNjExJTJGYTRlNGFiZDZjNWNkZmM5NzkzMTk2ZmUwZDFjZjYyMGY1ZWYxMTY5NCUyRnhfbGFyZ2UucG5nJTNGMTc4NTI4OTU5Nj9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NGE5ZmNiZmE4OTM5NWU1MWY1N2FiYjJkYzI1ZTFmZDQ%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYyMDc3NzA2NTMzODkzMmUyMWVjMjk3MjI5ZDVkZmI5NDk5MWI5YzFhJTJGb3JpZ2luYWwuanBnJTNGMTc2OTAwMDk3MD9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz1lYjc1ZTQzMzAzYTdlNTkzNDQ4Yjc4NDZiMjljYTgxZA%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D237198914e54e0e7e727d16c4cfb7823?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9Q2xhdWRlJTIwQ29kZSUyMCVFMyU4MSVBRSVFOCVBOCVBRCVFNSVBRSU5QSVFMyU4MSVBNyVFMyU4MyU4RiVFMyU4MyU5RSVFMyU4MiU4QiVFNyVBRSU4NyVFNiU4OSU4MCVFMyU4MSVCRSVFMyU4MSVBOCVFMyU4MiU4MSZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTJhNDFmZWFjYTQ5ODIwMTQ4MTEzMjI3NGU0ODc0Mzg4&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBqcWl0X3N1d2EmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz0wYWE2OTJkMmQwMzE0Yzg2ZDIzMGMyOWU5Njg2ZGUyMg&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=5qCq5byP5Lya56S-SlFJVA&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=84e2cf2d542d69ed08c8f44844e91f39",
-    "fetched_at": "2026-08-22 23:20:06",
-    "ja_summary": "・Claude Codeで設定が反映されないトラブルの多くは、公式にない隠れた環境変数が原因。\n・「機能が動かない」「タスクリストが出ない」といった症状別に、回避策を網羅的に解説。\n・公式ドキュメント外の知見をまとめた、開発効率を上げるためのトラブルシューティング集。"
-  },
-  {
-    "title": "Slack Code開始　ClaudeやChatGPTをSlackチャンネルで操作",
-    "link": "https://www.watch.impress.co.jp/docs/news/2134510.html",
-    "source": "Impress Watch",
-    "published": "",
-    "summary": "Salesforceは、Slack上でAIエージェントとチームが共同でソフトウェア開発を行なえる「Slack Code」を提供開始した。すべてのSlackプランで利用できるが、連携する各パートナーのAIエージェントへのアクセス権が別途必要となる。",
-    "image": "https://www.watch.impress.co.jp/img/ipw/list/2134/510/1.jpg",
-    "fetched_at": "2026-08-22 22:58:21",
-    "ja_summary": "・Slack上でAIエージェントと連携し、ソフトウェア開発が可能になる「Slack Code」が登場。\n・ClaudeやChatGPTをSlackチャンネル内で直接操作して作業効率を向上。\n・全プランで利用可能だが、各AIサービスの別途アクセス権が必要。"
-  },
-  {
-    "title": "ChatGPT Work、MacからApple「メッセージ」の送信や検索に対応",
-    "link": "https://www.watch.impress.co.jp/docs/news/2134488.html",
-    "source": "Impress Watch",
-    "published": "",
-    "summary": "OpenAIは20日、ChatGPTとCodexをアップデートし、新たにMacのChatGPT WorkとCodexからアップルのメッセージサービス「Apple Messages(メッセージ)」に対応した。",
-    "image": "https://www.watch.impress.co.jp/img/ipw/list/2134/488/o1.jpg",
-    "fetched_at": "2026-08-22 22:42:51",
-    "ja_summary": "・Mac版ChatGPTが「Appleメッセージ」と連携し、直接送信や検索が可能に。\n・OpenAIのアップデートにより、Mac内での作業効率が向上。"
   }
 ]
