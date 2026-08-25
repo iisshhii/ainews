@@ -1,5 +1,65 @@
 [
   {
+    "title": "シャープ、対話AIロボ「ポケとも」第2弾 　時にはユーザーを叱る“おれさま”タイプ",
+    "link": "https://www.watch.impress.co.jp/docs/news/2135361.html",
+    "source": "Impress Watch",
+    "published": "",
+    "summary": "シャープは25日、対話AIキャラクター「ポケとも」の第2弾「おれさまタイプ」を発表し、同日から予約販売を開始した。発売は12月を予定し、価格は49,500円。月額利用料は第1弾と同じ4プラン(495円/月～)を用意する。",
+    "image": "https://www.watch.impress.co.jp/img/ipw/list/2135/361/01.jpg",
+    "fetched_at": "2026-08-25 15:31:16",
+    "ja_summary": "・シャープが対話AIロボ「ポケとも」の第2弾として、ユーザーを叱る性格の「おれさまタイプ」を発表。\n・12月発売予定で価格は49,500円、本日より予約販売を開始。\n・利用料は従来同様、月額495円からの4プランが用意されている。"
+  },
+  {
+    "title": "AI「Grok」が一時暴走、意味不明な回答を連発",
+    "link": "https://japan.cnet.com/article/35251853/",
+    "source": "CNET Japan",
+    "published": "",
+    "summary": "チャットボット「Grok Lite」を先週に利用した人は、まったく意味をなさない長大な回答にさぞ驚いたはずだ。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35251853/\"><img src=\"https://japan.cnet.com/storage/2026/08/24/9d146db49f15d49b5992b918f8b10718/t/184/138/d/4b5e37f5-a8b5-4537-829d-85ae20b7989a_1280x960.jpg\" /></a>",
+    "image": "https://japan.cnet.com/storage/2026/08/24/9d146db49f15d49b5992b918f8b10718/t/184/138/d/4b5e37f5-a8b5-4537-829d-85ae20b7989a_1280x960.jpg",
+    "fetched_at": "2026-08-25 15:31:18",
+    "ja_summary": "・AIチャットボット「Grok Lite」が一時的に不具合を起こし、支離滅裂な長文回答を連発した。\n・ユーザーから困惑の声が上がる事態となった。"
+  },
+  {
+    "title": "第5回先進的AI利活用アドバイザリーボードの議事要旨を掲載しました",
+    "link": "https://www.digital.go.jp/councils/ai-advisory-board/770d4c48-7f40-49a6-a49d-56a763800a42",
+    "source": "デジタル庁",
+    "published": "Tue, 25 Aug 2026 15:00:00 +0900",
+    "summary": "",
+    "image": "https://www.digital.go.jp/themes/custom/gov_theme_da_2023/assets/images/ogp.png",
+    "fetched_at": "2026-08-25 15:31:22",
+    "ja_summary": "第5回「先進的AI利活用アドバイザリーボード」の議事要旨が公開されました。\nAIの利活用に関する専門的な議論の内容や、今後の検討方針が確認可能です。\n詳細は公式サイトにて公開されています。"
+  },
+  {
+    "title": "CData Arc v26.3 アップデート徹底解説",
+    "link": "https://speakerdeck.com/cdataj/cdata-arc-v26-3-appudeto-tettei-kaisetsu",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-08-25T02:13:13-04:00",
+    "summary": "B2Bデータ連携ツール「CData Arc」のv26.3 のアップデートウェビナーです。\n「セキュリティやガバナンスを固めたいけれど、日々の運用の手間も減らしたい」——そんな課題を、CData Arc v26.3 の新機能・改善点で解決する方法を、スライド解説とライブデモを交えて紹介します。\nhttps://youtu.be/MejmBI-TcGo\n\nすでに CData Arc をお使いの方にはアップグレードすべきかどうかの判断材料として、パートナー様にはお客様へのご案内・保守サポート材料としてお役立てください。\n\n▼ 本動画で紹介する主な内容\n\n✅ AI活用・自動化基盤\n　→ Arc組み込みの「Remote MCP Server」（追加インストール不要・既定で有効）で、Claude Desktop 等のAIクライアントから自然言語でエラー調査・ログ確認が可能に（読み取り専用、デモあり）。ヘルプドキュメントもAI活用に対応。\n\n✅ 実装・開発の柔軟性拡大\n　→ Pythonコネクタでフロー内に直接Pythonスクリプトを配置可能に。JOINデザイナーでGUI上での複数テーブル結合が可能に（デモあり）。APIプロファイルがコアコネクタとして接続一覧に統合。\n\n✅ セキュリティ・ガバナンス強化\n　→ アプリケーションレベルの保存時暗号化（Encryption at Rest、4モード）、システム連携専用の「サービスアカウント」、接続・Flow APIの権限をポリシーで制御できるRBAC強化。\n\n✅ 運用効率化・パフォーマンス\n　→ スケジュール機能の強化（次回実行時刻の表示など）、外部DBへのアプリケーションデータベース移行ユーティリティ、リモートリポジトリ不要のローカルバージョン管理。\n\n⏱ チャプター\n\n0:00 オープニング・v26.3リリース概要\n2:36 【第1部】AI活用・自動化基盤：Remote MCP Server（デモ）・ヘルプドキュメント刷新\n10:04 【第2部】実装・開発の柔軟性拡大：Pythonコネクタ・JOINデザイナー（デモ）・APIプロファイル統合\n18:54 【第3部】セキュリティ・ガバナンス強化：保存時暗号化・サービスアカウント・RBAC強化\n23:15 【第4部】運用効率化・パフォーマンス：スケジュール強化・DB移行・ローカルバージョン管理\n28:17 アップグレード時の注意事項・まとめ\n\n📝 関連ブログ記事\n\n▼ CData Arc v26.3（2026 Q3）アップデート詳細解説\n\n・CData Arc Q3 2026 リリース：保存時の暗号化、AI 診断、バージョン管理、データベース移行　\nhttps://jp.cdata.com/blog/cdata-arc-release-q3-2026/\n\n・CData Arc - 組み込みMCP サーバー　\nhttps://jp.cdata.com/blog/cdataarc-2026q3-features-builtin-mcpserver/\n\n・CData Arc - Python コネクタの追加　\nhttps://jp.cdata.com/blog/cdataarc-2026q3-features-python/\n\n・CData Arc - UI 上でのJOIN 句のサポート　\nhttps://jp.cdata.com/blog/cdataarc-2026q3-features-join-query/\n\n・CData Arc - API Profile コネクタ　\nhttps://jp.cdata.com/blog/cdataarc-2026q3-features-apiprofile/\n\n▼ あわせて読みたい\n\n・CData Arc V26：エンタープライズコントロール、AI駆動ワークフロー、モダナイズされた統合　\nhttps://jp.cdata.com/blog/cdata-arc-release-q1-2026/\n\n・CData Arc Q2 2026 リリース：OAuth 2.0、AI コネクタ一般提供開始、プラットフォーム全面刷新　\nhttps://jp.cdata.com/blog/cdata-arc-release-q2-2026/\n\n・【MCP とは？】API の仕様から一つ一つ紐解くMCP 入門　\nhttps://jp.cdata.com/blog/mcp-introduction/\n\n🔗 関連リンク\n\n・CData Arc 製品ページ：https://arc.cdata.com/jp/\n・CData Arc 無料トライアル：https://arc.cdata.com/jp/trial/\n・CData Software Japan 公式サイト：https://jp.cdata.com/\n\n#CData #CDataArc #MCP #生成AI #AIエージェント #Python #統合基盤 #EDI #セキュリティ #RBAC #データ連携",
+    "image": "https://files.speakerdeck.com/presentations/1c93a09a05f24b7cb971fa5151ecdd33/preview_slide_0.jpg?40366764",
+    "fetched_at": "2026-08-25 15:31:29",
+    "ja_summary": "・CData Arc v26.3ではAI（MCP）連携やPythonスクリプトの実装強化により、開発・運用が大幅に効率化されました。\n・保存時の暗号化や細かな権限管理（RBAC）の導入で、セキュリティとガバナンスが強化されています。\n・新機能による運用の手間削減や安定稼働に向け、既存ユーザーはアップグレードを検討すべき内容となっています。"
+  },
+  {
+    "title": "LLMアプリ、 雰囲気で運用してませんか？ 〜LLMOpsの現在地〜",
+    "link": "https://speakerdeck.com/taka_aki/llm-funiki-de-unyou-shi-temasen-ka-llmops-no-genzaichi",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-08-25T01:59:20-04:00",
+    "summary": "第115回 Machine Learning 15minutes! Hybrid - connpass https://machine-learning15minutes.connpass.com/event/401182/",
+    "image": "https://files.speakerdeck.com/presentations/38edadc557cc4bebb5de97aff0da7557/preview_slide_0.jpg?40366479",
+    "fetched_at": "2026-08-25 15:31:29",
+    "ja_summary": "・LLMアプリ開発における「雰囲気」での運用からの脱却を提言\n・安定稼働と継続的な品質維持を実現するLLMOpsの現状を解説\n・開発から監視・評価までの体系的な運用手法を学ぶための技術セミナー"
+  },
+  {
+    "title": "Mermaidで書いた過去記事の図を、話題の図解スキルに食わせてみた — 色指定が全部捨てられた",
+    "link": "https://qiita.com/jqit_suwa/items/3906db61d153fe8691aa",
+    "source": "Qiita (Popular)",
+    "published": "2026-08-20T08:10:56+09:00",
+    "summary": "\n\nQiita で Mermaid を使うと、日本語で崩れます。\n\n- ノードのラベルが変な位置で折り返される\n- ダークテーマで文字が見えなくなる\n- `subgraph` のラベルが枠を突き抜ける\n\n自分は毎回これを踏んでいて、対策として `<br/>` で改行位置を指定したり、`color:#000000` を全ノードに書いたりしていました。\n\nそんなときに `cathrynlavery/d",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0NDMwNjExJTJGYTRlNGFiZDZjNWNkZmM5NzkzMTk2ZmUwZDFjZjYyMGY1ZWYxMTY5NCUyRnhfbGFyZ2UucG5nJTNGMTc4NTI4OTU5Nj9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NGE5ZmNiZmE4OTM5NWU1MWY1N2FiYjJkYzI1ZTFmZDQ%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYyMDc3NzA2NTMzODkzMmUyMWVjMjk3MjI5ZDVkZmI5NDk5MWI5YzFhJTJGb3JpZ2luYWwuanBnJTNGMTc2OTAwMDk3MD9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz1lYjc1ZTQzMzAzYTdlNTkzNDQ4Yjc4NDZiMjljYTgxZA%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D237198914e54e0e7e727d16c4cfb7823?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9TWVybWFpZCVFMyU4MSVBNyVFNiU5QiVCOCVFMyU4MSU4NCVFMyU4MSU5RiVFOSU4MSU4RSVFNSU4RSVCQiVFOCVBOCU5OCVFNCVCQSU4QiVFMyU4MSVBRSVFNSU5QiVCMyVFMyU4MiU5MiVFMyU4MCU4MSVFOCVBOSVCMSVFOSVBMSU4QyVFMyU4MSVBRSVFNSU5QiVCMyVFOCVBNyVBMyVFMyU4MiVCOSVFMyU4MiVBRCVFMyU4MyVBQiVFMyU4MSVBQiVFOSVBMyU5RiVFMyU4MiU4RiVFMyU4MSU5QiVFMyU4MSVBNiVFMyU4MSVCRiVFMyU4MSU5RiUyMCVFMiU4MCU5NCUyMCVFOCU4OSVCMiVFNiU4QyU4NyVFNSVBRSU5QSVFMyU4MSU4QyVFNSU4NSVBOCVFOSU4MyVBOCVFNiU4RCVBOCVFMyU4MSVBNiVFMyU4MiU4OSVFMyU4MiU4QyVFMyU4MSU5RiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPWU4YWFlZDBkMGExNDQ3YWVhNWM2MjU4YmI3NmY1M2Zi&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBqcWl0X3N1d2EmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz0wYWE2OTJkMmQwMzE0Yzg2ZDIzMGMyOWU5Njg2ZGUyMg&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=5qCq5byP5Lya56S-SlFJVA&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=6e451bf8ac74ae5ab55fc006c8b58d6a",
+    "fetched_at": "2026-08-25 15:31:33",
+    "ja_summary": "・QiitaのMermaid記法は日本語の表示崩れや配色不具合が起きやすく、手動修正に手間がかかっていた。\n・対策として、Mermaid形式の図を別の図解ツールへ読み込ませる方法を試みた。\n・しかし、読み込み時に指定した色情報が反映されないなどの新たな課題が発生した。"
+  },
+  {
     "title": "AAIF、9月に日本でイベント--AIエージェントのオープンスタンダードの重要性を訴求",
     "link": "https://japan.zdnet.com/article/35251890/",
     "source": "ZDNET Japan",
@@ -938,65 +998,5 @@
     "image": "https://res.cloudinary.com/zenn/image/upload/s--AGs6k9Vn--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:RTX%25205090%25E3%2581%25A7FreeToken%25E3%2582%2592%25E8%25A9%25A6%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%25E3%2580%258235B%25E3%2581%25A7%25E3%2581%25AF%25E4%25B8%258D%25E8%25A6%2581%25E3%2580%2581120B%25E7%25B4%259AMoE%25E3%2581%25A7%25E3%2581%25AF%25E8%25A9%25B1%25E3%2581%258C%25E5%25A4%2589%25E3%2582%258F%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%25BB%25E3%2583%25BC%25E3%2582%258A%25E3%2583%25BC%25E3%2581%25B5%25E3%2581%2589%25E3%2581%25A3%25E3%2581%258F%25E3%2581%2599%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzZlMmM2MjU5ZmQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
     "fetched_at": "2026-08-24 14:09:04",
     "ja_summary": "・「FreeToken」は、巨大なMoEモデルの専門層をホストRAMに退避させ、必要な分だけGPUに読み込むことで、VRAM容量を超えるモデルを実用速度で動かすエンジン。\n・RTX 5090環境で検証した結果、35Bクラスでは恩恵が薄いが、120Bクラスの巨大モデルでは従来手法に対し明確な優位性がある。\n・コンシューマー向けPCでも超大規模モデルを実用的に運用できる可能性を示唆。"
-  },
-  {
-    "title": "AIセキュリティ何から勉強すりゃええの？",
-    "link": "https://qiita.com/mikihitooooo/items/ced6a0aa744379d338b6",
-    "source": "Qiita (Popular)",
-    "published": "2026-08-20T17:31:50+09:00",
-    "summary": "# AIセキュリティ何から勉強すりゃええの？\n## 目次\n\n- [はじめに](#はじめに)\n- [軽く自己紹介](#軽く自己紹介)\n- [調べたソース・用語](#調べたソース用語)\n- [直近の学習計画](#直近の学習計画)\n- [理想の学習サイクル](#理想の学習サイクル)\n- [さいごに](#さいごに)\n\n\n## はじめに\n\n「AI活用で業務効率化！」「AI駆動開発で爆速コーディング！」\n\n最",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGODQ1ODg3JTJGcHJvZmlsZS1pbWFnZXMlMkYxNzg3MTA1MTU2P2l4bGliPXJiLTQuMS4xJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz1lNTQ5NjQ0YTQ2MGM5NjI0NjljNmQyODI3NTViNzY1Ng%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Dc28c33d205d200666024abd022d66d0b?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9QUklRTMlODIlQkIlRTMlODIlQUQlRTMlODMlQTUlRTMlODMlQUElRTMlODMlODYlRTMlODIlQTMlRTQlQkQlOTUlRTMlODElOEIlRTMlODIlODklRTUlOEIlODklRTUlQkMlQjclRTMlODElOTklRTMlODIlOEElRTMlODIlODMlRTMlODElODglRTMlODElODglRTMlODElQUUlRUYlQkMlOUYmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz04NDZhNDNkZDFjYjM3NzVkZTBmMDc4NzExYjg4OWQ1Yg&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBtaWtpaGl0b29vb28mdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz04MmY1NmJjNWI1YTI3YzgwMmViOTdiNzJjNTliNDEyNg&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=3344309712a5084780f91f7f4a728419",
-    "fetched_at": "2026-08-24 14:09:06",
-    "ja_summary": "AIセキュリティの学習方法を模索するエンジニアに向け、体系的な学習リソースや用語、理想的な学習サイクルを提案。\n直近の学習計画から実践的なサイクル構築まで、AI活用時代に不可欠なセキュリティ知識の習得法を網羅したガイド。"
-  },
-  {
-    "title": "アンソロピック、AIの使い方を学べる「Claude Academy」　日本語対応",
-    "link": "https://www.watch.impress.co.jp/docs/news/2134964.html",
-    "source": "Impress Watch",
-    "published": "",
-    "summary": "Anthropicは、AIを安全かつ効果的に活用する方法を学べるWebサイト「Claude Academy」を公開した。Claudeの使い方だけでなく、特定のモデルに依存しないAIの活用方法や使ううえでの考え方を学べる学習コンテンツを提供する。一部コンテンツを除き、日本語表示にも対応する。",
-    "image": "https://www.watch.impress.co.jp/img/ipw/list/2134/964/01.jpg",
-    "fetched_at": "2026-08-24 13:21:21",
-    "ja_summary": "・AnthropicがAI活用術を学べる学習サイト「Claude Academy」を公開。\n・AIの効率的かつ安全な使い方や考え方を体系的に習得可能。\n・日本語にも対応しており、モデルを問わない汎用的な知識を学べる。"
-  },
-  {
-    "title": "Google Antigravityに「リモートコントロール」　複数端末から開発確認・指示",
-    "link": "https://www.watch.impress.co.jp/docs/news/2134952.html",
-    "source": "Impress Watch",
-    "published": "",
-    "summary": "Googleは21日、AIソフトウェア開発環境「Antigravity」で、別の端末から開発セッションを操作できる「Remote Control」を発表した。Webブラウザから利用でき、ノートPCやサーバー、デスクトップなど、複数のマシンで動作するAntigravityに接続できる。",
-    "image": "https://www.watch.impress.co.jp/img/ipw/list/2134/952/1.jpg",
-    "fetched_at": "2026-08-24 13:21:22",
-    "ja_summary": "・GoogleのAI開発環境「Antigravity」に、遠隔操作機能「Remote Control」が追加された。\n・Webブラウザ経由で、ノートPCやサーバーなど複数の端末の開発セッションを操作可能。\n・場所を選ばず、異なるデバイス間でのシームレスな開発管理が実現する。"
-  },
-  {
-    "title": "ウェブページの1割がAI生成、「ChatGPT」登場後に増加　Pew調べ",
-    "link": "https://japan.cnet.com/article/35251856/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "AIボットが書いた文章がネット上で増えているのだろうか。Pew Research Centerが先週発表した調査結果によると、その可能性はかなり高いという。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35251856/\"><img src=\"https://japan.cnet.com/storage/2026/08/24/b4e98a046b7f199aa2dbd39bb316ded5/t/184/138/d/GettyImages-2282220392_1280x960.jpg\" /></a>",
-    "image": "https://japan.cnet.com/storage/2026/08/24/b4e98a046b7f199aa2dbd39bb316ded5/t/184/138/d/GettyImages-2282220392_1280x960.jpg",
-    "fetched_at": "2026-08-24 13:21:27",
-    "ja_summary": "・ウェブ上の全ページのうち約1割がAI生成コンテンツであることが判明。\n・ChatGPTの登場以降、AIによる自動生成記事が急増している。\n・ネット上の情報にAIが作成した文章が広く浸透している実態が浮き彫りになった。"
-  },
-  {
-    "title": "ChatGPT Ads expands across Europe",
-    "link": "https://openai.com/index/chatgpt-ads-expands-across-europe",
-    "source": "OpenAI",
-    "published": "Tue, 18 Aug 2026 22:00:00 GMT",
-    "summary": "ChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach people as they explore, compare options, and make decisions.",
-    "image": "https://images.ctfassets.net/kftzwdyauwt9/OvScmX8CxThRRwHLDcyAt/6db3028c57d0866137a4b3fcac0e3166/chatgpt-ads-europe-readable-seo.png?w=1600&amp;h=900&amp;fit=fill",
-    "fetched_at": "2026-08-24 13:21:35",
-    "ja_summary": "・ChatGPTの広告サービスが欧州31カ国へ拡大\n・ユーザーの検索や検討プロセスに合わせた広告配信が可能に\n・欧州市場での新たなマーケティングチャネルとして活用が進む見込み"
-  },
-  {
-    "title": "How Claude’s text watermark works",
-    "link": "https://www.anthropic.com/news/claude-text-watermark",
-    "source": "Anthropic (News)",
-    "published": "Fri, 14 Aug 2026 00:00:00 +0000",
-    "summary": "How Claude’s text watermark works",
-    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Quill&amp;backgroundColor=heather",
-    "fetched_at": "2026-08-24 13:21:35",
-    "ja_summary": "・Claudeが生成したテキストには、AIによる作成を識別するための「電子透かし」が埋め込まれている。\n・特定の統計的手法を用いて単語の選定に微細な偏りを持たせることで、人間には判別不能な形で痕跡を残す。\n・この仕組みにより、AI生成コンテンツの拡散や悪用を追跡・検知することが可能となる。"
   }
 ]
