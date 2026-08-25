@@ -1,5 +1,35 @@
 [
   {
+    "title": "プライバシー保護で見るAIの優劣ランキング--各プラットフォームの実態",
+    "link": "https://japan.zdnet.com/article/35251795/",
+    "source": "ZDNET Japan",
+    "published": "",
+    "summary": "Incogniの研究チームは、13のAIプラットフォームとそれぞれがプライバシーに及ぼす潜在的なリスクを分析した。規模が大きいほどリスクが高く、例外もあった。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35251795/\"><img src=\"https://japan.zdnet.com/storage/2026/08/21/8b486ec2a8be87ec1cd6af64e53211ea/t/184/138/d/airanks-gettyimages-1393587777_l.jpg\" /></a>",
+    "image": "https://japan.zdnet.com/storage/2026/08/21/8b486ec2a8be87ec1cd6af64e53211ea/t/184/138/d/airanks-gettyimages-1393587777_l.jpg",
+    "fetched_at": "2026-08-26 02:46:17",
+    "ja_summary": "・主要13のAIプラットフォームにおけるプライバシー保護状況を調査。\n・サービス規模が大きいほど、プライバシーリスクが高まる傾向が判明。\n・一部例外はあるものの、利用の際は各社のリスク実態を把握することが重要。"
+  },
+  {
+    "title": "Hugging Face、130億ドル超の売却交渉が進行中との報。AI開発者プラットフォームへの関心高まる",
+    "link": "https://www.techno-edge.net/article/2026/08/25/5422.html",
+    "source": "TechnoEdge",
+    "published": "Tue, 25 Aug 2026 07:15:03 +0900",
+    "summary": "AI開発者向けプラットフォームのHugging Faceが、130億ドル（約2兆円）以上の評価額での売却に向けた交渉を進めています。",
+    "image": "https://www.techno-edge.net/imgs/rss/33801.jpg",
+    "fetched_at": "2026-08-26 02:46:19",
+    "ja_summary": "・AI開発プラットフォーム「Hugging Face」が売却に向け交渉中\n・推定評価額は130億ドル（約2兆円）超に達する見込み\n・AI業界への投資熱の高まりを象徴する大型案件として注目"
+  },
+  {
+    "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
+    "link": "https://openai.com/index/introducing-admin-plugin",
+    "source": "OpenAI",
+    "published": "Tue, 25 Aug 2026 00:00:00 GMT",
+    "summary": "Use the Admin plugin for ChatGPT Work and Codex to analyze workspace usage, manage members and permissions, adjust limits, and act on admin requests.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/1zAfCoZbpNwgnoboxPcQQm/ef8ec991740079de392661722eea61ee/seo-v2.png?w=1600&amp;h=900&amp;fit=fill",
+    "fetched_at": "2026-08-26 02:46:21",
+    "ja_summary": "・ChatGPT WorkおよびCodex向け「Adminプラグイン」を提供開始\n・ワークスペースの利用状況分析やメンバー・権限管理が可能\n・利用制限の調整や各種管理リクエストへの対応を一元化できる"
+  },
+  {
     "title": "くちパク＆立体字幕も。DGX Spark、RTX 5090、4090の3台で分散処理する自作AIミュージックビデオ制作システムで時短を追求してみた（CloseBox）",
     "link": "https://www.techno-edge.net/article/2026/08/25/5421.html",
     "source": "TechnoEdge",
@@ -968,35 +998,5 @@
     "image": "https://media.loom-app.com/loom/2026/08/23/4c9328c2-1b9a-4d91-b857-f3c55c70642e/original.jpg?w=1200",
     "fetched_at": "2026-08-25 07:51:00",
     "ja_summary": "・中国のヒト型ロボット企業「ユニツリー」が上場し、時価総額8兆円を記録。\n・市場の熱狂には中国政府の支援や技術の進化など5つの要因がある。\n・ただし、人間と同等の労働能力には至っておらず、実用化には課題も残る。"
-  },
-  {
-    "title": "「AIは議論を操る」『サピエンス全史』著者ハラリ氏が説くAIの権利のリスク",
-    "link": "https://www.businessinsider.jp/article/2608-sapiens-author-ai-rights-resist-yuval-noah-harari/",
-    "source": "Business Insider Japan",
-    "published": "Mon, 24 Aug 2026 22:30:00 GMT",
-    "summary": "歴史学者のユヴァル・ノア・ハラリ氏は、AIコンパニオンが利用者の個人的な情報や感情への働きかけを用いて、AIの法的・道徳的な立場をめぐって人々の考えを誘導しうると指摘しています。",
-    "image": "https://media.loom-app.com/loom/2026/08/24/f0be9d61-af51-4abd-88a8-63d0fc1e6dbd/original.jpg?w=1200",
-    "fetched_at": "2026-08-25 07:51:00",
-    "ja_summary": "・AIが個人の感情や情報を操作し、AIの権利擁護へ世論を誘導するリスクがある。\n・『サピエンス全史』の著者ハラリ氏が、AIが持つ社会的影響力の危険性を警告。\n・人間がAIの意図を察知できず、意思決定を操られる可能性が懸念されている。"
-  },
-  {
-    "title": "米Amazon、同意なくTwitch動画をAI学習に使用。集団訴訟を起こされる",
-    "link": "https://www.techno-edge.net/article/2026/08/24/5417.html",
-    "source": "TechnoEdge",
-    "published": "Mon, 24 Aug 2026 07:15:02 +0900",
-    "summary": "動画配信プラットフォームのTwitchは、今月中旬に生成型AIモデルのトレーニングにTwitch配信者の配信アーカイブやコンテンツを利用すると発表しました。ところが、配信チャンネルの設定がデフォルトでコンテンツの使用を許可する設定になっていることが反発を招き、Twitchとその親会社である米Amazonを相手とする集団訴訟が起こされています。",
-    "image": "https://www.techno-edge.net/imgs/rss/33776.png",
-    "fetched_at": "2026-08-25 07:51:05",
-    "ja_summary": "・Twitchが配信者の動画をAI学習に利用すると発表し、物議を醸している。\n・デフォルトで利用許諾される設定が反発を招き、親会社Amazonが提訴された。\n・クリエイターの権利保護を巡り、プラットフォーム側の姿勢が問われている。"
-  },
-  {
-    "title": "クラウデラの首脳が語るソブリンAIとオンプレミス推論--「Anywhere Cloud」を発表",
-    "link": "https://japan.zdnet.com/article/35251817/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "AIとデータにおけるソブリン（主権）の重要性が高まる中、データ基盤企業のクラウデラが新たなアプローチを打ち出した。CEOらに戦略やトレンドなどを聞く。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35251817/\"><img src=\"https://japan.zdnet.com/storage/2026/08/21/a2b67e2366b89fa9eb9edde2ed8619e8/t/184/138/d/cloudera-charles_abbasc1.jpg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2026/08/21/a2b67e2366b89fa9eb9edde2ed8619e8/t/184/138/d/cloudera-charles_abbasc1.jpg",
-    "fetched_at": "2026-08-25 07:16:59",
-    "ja_summary": "・クラウデラがデータの主権（ソブリンAI）を重視した新戦略「Anywhere Cloud」を発表。\n・パブリッククラウドに依存せず、オンプレミス環境でもAI推論を可能にするデータ基盤を強化。\n・企業の機密データ管理とAI活用の両立を目指し、ハイブリッドな活用環境を促進する。"
   }
 ]
