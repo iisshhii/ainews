@@ -1,5 +1,15 @@
 [
   {
+    "title": "口コミ増やしたい、でも“AIが書いた感”は抑えめに……カインズ、「自社商品の投稿」促すAI機能どう開発した？",
+    "link": "https://www.itmedia.co.jp/business/articles/2608/24/news059.html",
+    "source": "ITmedia ビジネス",
+    "published": "Mon, 24 Aug 2026 07:05:00 +0900",
+    "summary": "カインズは、ユーザーによる口コミ投稿の作文をAIでサポートしている。その機能を開発する上で「AI代筆の文章はユーザーの声なのか」という問いに直面。どのように解決したのだろうか。",
+    "image": "https://image.itmedia.co.jp/business/articles/2608/24/cover_news059.jpg",
+    "fetched_at": "2026-08-26 04:43:32",
+    "ja_summary": "・カインズは口コミ投稿をAIで支援する機能を導入。\n・「AIによる代筆はユーザーの声か」という課題に対し、生成内容を「叩き台」と定義し利用者が自分の言葉で調整する仕組みを構築。\n・AIの利便性とユーザーの生の声の信頼性を両立させる開発手法が注目されている。"
+  },
+  {
     "title": "AIで「ウチの子」がそっくりフィギュアに　DMMが売っていたのは“思い出”だった",
     "link": "https://www.itmedia.co.jp/business/articles/2608/25/news034.html",
     "source": "ITmedia ビジネス",
@@ -988,15 +998,5 @@
     "image": "https://res.cloudinary.com/zenn/image/upload/s--6Z38u-RL--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:MITRE%2520ATT%2526CK%2520%25E3%2581%25AE7%25E3%2581%25A4%25E3%2581%25AE%25E6%2588%25A6%25E8%25A1%2593%25E3%2581%258B%25E3%2582%2589%25E3%2581%25BF%25E3%2581%259F%2520AWS%2520%25E3%2581%25AE%25E3%2582%25BB%25E3%2582%25AD%25E3%2583%25A5%25E3%2583%25AA%25E3%2583%2586%25E3%2582%25A3%25E3%2581%25AB%25E9%2596%25A2%25E3%2581%2599%25E3%2582%258B%25E3%2582%25A4%25E3%2583%2599%25E3%2583%25B3%25E3%2583%2588%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:nishikawa%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2Q0ZTRhMzgzMmEuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E6%25A0%25AA%25E5%25BC%258F%25E4%25BC%259A%25E7%25A4%25BE%25E3%2582%25B5%25E3%2582%25A4%25E3%2583%2590%25E3%2583%25BC%25E3%2582%25BB%25E3%2582%25AD%25E3%2583%25A5%25E3%2583%25AA%25E3%2583%2586%25E3%2582%25A3%25E3%2582%25AF%25E3%2583%25A9%25E3%2582%25A6%25E3%2583%2589%25E3%2580%2580%25E3%2583%2586...%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2Q2YjE0NzI3ZTAuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
     "fetched_at": "2026-08-25 08:56:33",
     "ja_summary": "・MITRE ATT&CKの7つの戦術に基づき、AWS環境で発生する脅威とCloudTrailログの記録状況を整理。\n・オープンソースツール「Suzaku」「Senrigan」を用いた脅威検知の知見を基に解説。\n・AWS環境における攻撃の各フェーズと対応するログイベントを網羅的に把握可能。"
-  },
-  {
-    "title": "「社内用語」がAI分析を邪魔する……ニトリが“力技”で解決　「赤羽店の寝具の売上高を出して」可能にできたワケ",
-    "link": "https://www.itmedia.co.jp/business/articles/2608/24/news058.html",
-    "source": "ITmedia ビジネス",
-    "published": "Mon, 24 Aug 2026 07:10:00 +0900",
-    "summary": "AI分析しようにも「社内用語」が壁になる――多くの企業が抱えるこの課題に、ニトリが挑んだ。地道な作業を積み重ねてつかんだのは、誰もが使いやすいデータ分析基盤だった。",
-    "image": "https://image.itmedia.co.jp/business/articles/2608/24/cover_news058.jpg",
-    "fetched_at": "2026-08-25 08:37:16",
-    "ja_summary": "・社内特有の用語がAI分析の障壁となる課題に対し、ニトリは地道なデータ整備で対応。\n・用語を標準化する基盤を構築し、自然な質問で的確な分析結果を得られる環境を実現。\n・専門知識がなくても誰もがデータ活用できる仕組みを、徹底した事前準備で解決した。"
   }
 ]
