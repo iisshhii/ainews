@@ -1,5 +1,45 @@
 [
   {
+    "title": "AIの進化によって漫画制作はどう変わるのか",
+    "link": "https://note.com/npaka/n/n6c22f295e89f",
+    "source": "note (npaka)",
+    "published": "Sun, 16 Aug 2026 13:44:35 +0900",
+    "summary": "<p id=\"b67e49bc-0d4f-42a9-993c-8115126a5539\" name=\"b67e49bc-0d4f-42a9-993c-8115126a5539\">最新のAI研究とAIツールをもとに、AIによって漫画制作がどのように変わるのかを整理します。</p><br /><br /><a href=\"https://note.com/npaka/n/n6c22f295e89f\">続きをみる</a>",
+    "image": "https://assets.st-note.com/production/uploads/images/303996032/rectangle_large_type_2_52771712c236b282e5a6d0f34e81cc2a.png?width=800",
+    "fetched_at": "2026-08-25 20:19:10",
+    "ja_summary": "・最新のAI技術やツールが漫画制作のプロセスに導入され、効率化や表現の幅が拡大している。\n・AIによって、キャラクター作成や背景描写など、制作における工数や手法が大きく変化している。\n・技術の進化がクリエイターの役割をどう変えていくのか、その現状と今後の展望が整理されている。"
+  },
+  {
+    "title": "AI事業者へ知財保護指針 政府決定",
+    "link": "https://news.yahoo.co.jp/pickup/6593055?source=rss",
+    "source": "Yahoo!ニュース IT・科学",
+    "published": "Tue, 25 Aug 2026 11:13:01 GMT",
+    "summary": "",
+    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/8/25/a7a57561276f57618ae564e70f083faffe7a017318da868c669787f333b2d23f.jpg",
+    "fetched_at": "2026-08-25 20:19:12",
+    "ja_summary": "・政府がAI事業者向けに著作権保護の指針を策定\n・AI開発におけるデータ利用の適法範囲や注意点を明確化\n・権利者とのトラブルを防ぎ、AI技術の健全な発展を促すのが狙い"
+  },
+  {
+    "title": "AWSとAzureのマルチクラウド活用における強い味方___AWS_Kiroを使った二刀流スキル作成.pdf",
+    "link": "https://speakerdeck.com/duelist2020jp/aws-to-azure-no-katsuyou-niokeru-tsuyoi-mikata-aws-kiro-o-tsukata-nitouryuu-sukiru-sakusei",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-08-25T07:01:57-04:00",
+    "summary": "当資料は、2026年8月25日にAWS JawsユーザーズグループAI/ML支部の「AIエージェントとAI-DLCで加速する！AI/ML実践LT大会」の登壇時に使用した資料です。",
+    "image": "https://files.speakerdeck.com/presentations/3cb84e67c75943058a29d0e1f8ebcad9/preview_slide_0.jpg?40370329",
+    "fetched_at": "2026-08-25 20:19:22",
+    "ja_summary": "・AWSとAzureを併用するマルチクラウド環境において、AWS Kiroを活用した効率的な二刀流スキルの構築手法を解説。\n・AIエージェントとAI-DLCを組み合わせ、クラウド運用の高度化と加速を実現する実践的なノウハウを紹介。\n・AWS JawsユーザーズグループのLT大会にて発表された、実戦重視の技術資料。"
+  },
+  {
+    "title": "AIとペアプロを始める。人との会話が消えていく。なんだか寂しい。  / The Conversations We Lost to AI",
+    "link": "https://speakerdeck.com/honyanya/the-conversations-we-lost-to-ai",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-08-25T06:56:21-04:00",
+    "summary": "山手ウエスト #1「AI開発、最近どうですか？」@新宿 で発表しました。\nhttps://yamanote-west.connpass.com/event/399789/\n\nAIとペアを組むようになって、チームから会話が消えました。なんだか寂しいと思うようになりました。\nその寂しさをたどると、消えていたのは会話ではなく「学び」でした。\nかつて意図せず生まれていた学びは、AI時代では設計しないと生まれません。",
+    "image": "https://files.speakerdeck.com/presentations/3ff10f135f4f46b1ac37e537251474f4/preview_slide_0.jpg?40370249",
+    "fetched_at": "2026-08-25 20:19:22",
+    "ja_summary": "AIとのペアプログラミングでチーム内の会話が減ったが、失われていたのは「意図せず生まれていた学び」だった。AI時代には、かつて自然発生していた学びを意図的に設計し直す必要がある。"
+  },
+  {
     "title": "AIメンタルケア 開発者が促す注意",
     "link": "https://news.yahoo.co.jp/pickup/6593051?source=rss",
     "source": "Yahoo!ニュース IT・科学",
@@ -958,45 +998,5 @@
     "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03713/00003/topm.jpg?20220512",
     "fetched_at": "2026-08-25 05:19:49",
     "ja_summary": "AI特有の「帰納的アプローチ」と人間的特性の模倣が、従来の品質管理を困難にしリスクを招いている。\n開発手法が従来と異なるため、既存の管理手法では対応できない。\nAIリスクを制御するには、新たな品質管理の枠組みが必要となっている。"
-  },
-  {
-    "title": "DGX Sparkの本命用途は「ローカル推論」、GUIを使った操作も可能に",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03726/081900002/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "米NVIDIA（エヌビディア）のAI（Artificial Intelligence：人工知能）専用パソコン「DGX Spark」。その本命の使い方は、ローカル環境で推論サーバーとして使うことだろう。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03726/081900002/topm.jpg?20220512",
-    "fetched_at": "2026-08-25 05:19:50",
-    "ja_summary": "・NVIDIAのAI専用PC「DGX Spark」は、ローカル環境での推論サーバー利用が本命。\n・GUIによる操作にも対応し、専門知識がなくても扱いやすい。\n・社内環境で安全かつ手軽にAI推論を実行できる製品。"
-  },
-  {
-    "title": "トヨタ、E2E自動運転も独自「ハイブリッド」　説明可能性を追求",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03721/081700007/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "トヨタがE2E自動運転の内製化に本腰を入れている。独自のアーキテクチャーで構成したAIモデルを開発する。テスラなどが目指す認識から制御までを単一のAIが担う「完全E2E」に踏み込まず、モジュラー型のAIモデルとルールベースの「ガードレール」を組み合わせるハイブリッド構成を取る。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03721/081700007/topm.jpg?20220512",
-    "fetched_at": "2026-08-25 05:19:51",
-    "ja_summary": "・トヨタが自動運転のAI開発を内製化し、独自のハイブリッド方式を採用する。\n・全工程をAIが担う「完全E2E」ではなく、安全性重視のモジュールと制御を組み合わせる。\n・AIの判断根拠を説明可能にすることで、信頼性と安全性を両立させる。"
-  },
-  {
-    "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
-    "link": "https://openai.com/index/gpt-5-6-in-kiro",
-    "source": "OpenAI",
-    "published": "Mon, 24 Aug 2026 12:00:00 GMT",
-    "summary": "GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.",
-    "image": "https://images.ctfassets.net/kftzwdyauwt9/6r1E6E5mcdQEGztu6B1TI6/7e1ab3332eb5440e41cb64ba59c65d2b/OAI_Kiro_Partnership_16x9_SEO_Official_Full_Lockup_3840x2160.png?w=1600&amp;h=900&amp;fit=fill",
-    "fetched_at": "2026-08-25 05:20:04",
-    "ja_summary": "・開発プラットフォーム「Kiro」で最新モデル「GPT-5.6」が利用可能に。\n・ソフトウェア開発における計画からテストまでの全工程をサポート。\n・従来のモデルよりコストパフォーマンスが向上し、開発効率が改善。"
-  },
-  {
-    "title": "【書評】 Claude Cowork スゴイ活用術",
-    "link": "https://note.com/npaka/n/n1754cbfc3fd8",
-    "source": "note (npaka)",
-    "published": "Fri, 21 Aug 2026 15:41:58 +0900",
-    "summary": "<p id=\"8fab689a-4db2-4787-949f-92117dbd9000\" name=\"8fab689a-4db2-4787-949f-92117dbd9000\">生成AIを仕事で使っていても、実際には「質問して答えをもらう」使い方にとどまっている人も多いかと思います。<br />そんな使い方を一段進めてくれるのが、「<strong>Claude Cowork</strong>」です。</p><p id=\"d2133961-d066-4eb8-b216-4b0eed5135c1\" name=\"d2133961-d066-4eb8-b216-4b0eed5135c1\">今回紹介する『<strong>Claude Cowork スゴイ活用術</strong>』（AI部 著）は、Coworkの基本から実践、自動化、組織導入までを体系的にまとめた一冊です。</p><br /><a href=\"https://note.com/npaka/n/n1754cbfc3fd8\">続きをみる</a>",
-    "image": "https://assets.st-note.com/production/uploads/images/305582537/rectangle_large_type_2_3c94f039e69cc1c27b2a4b6fcbc8831c.jpeg?width=800",
-    "fetched_at": "2026-08-24 21:30:10",
-    "ja_summary": "・AIを単なる「質問ツール」から「業務のパートナー」へ昇華させる手法を解説。\n・生成AI「Claude Cowork」の基本から自動化、組織導入までを網羅した実践ガイド。\n・AIを本格的に仕事へ組み込み、業務効率を一段階引き上げたい人に向けた一冊。"
   }
 ]
