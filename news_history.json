@@ -1,5 +1,35 @@
 [
   {
+    "title": "利用ライブラリの処理を理解、2つの文書をまとめて要約してみる",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03692/072200002/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "Gemini APIによる要約処理の基礎について、ライブラリgoogle-genaiを中心に解説します。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03692/072200002/topm.jpg?20220512",
+    "fetched_at": "2026-08-25 21:30:43",
+    "ja_summary": "・Googleのライブラリ「google-genai」を活用したGemini APIによる要約の実装方法を解説。\n・2つの文書を統合して要約する具体的な処理フローを網羅。\n・AIモデルを活用した効率的なテキスト要約の基礎を習得できる内容。"
+  },
+  {
+    "title": "光電融合の業界地図、NVIDIAとブロードコムが先陣　「基本」の22社",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03716/080700002/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "光電融合は生成AI（人工知能）の普及が起爆剤となり、AIの計算処理が集中するデータセンターでの大規模な導入が見込まれている。光電融合デバイスの設計に関与する中核企業に絞った「基本」の業界地図を描いた。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03716/080700002/chu.jpg?20220512",
+    "fetched_at": "2026-08-25 21:30:44",
+    "ja_summary": "・生成AI普及でデータセンターへの「光電融合」技術導入が加速\n・NVIDIAとブロードコムが先陣を切り、開発競争を牽引\n・中核となる主要22社の業界地図を網羅し、勢力図を整理"
+  },
+  {
+    "title": "AIリスクが発生する根本要因は？　従来のソフトウエア品質管理が通用せず",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03713/00003/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "AIの活用が進むほどリスクの問題も増えています。そもそもなぜAIにリスクが生じるのでしょうか。原因はAIの開発に用いている「帰納的アプローチ」と、人間に似通った能力を持っている、あるいは持っていると思われている性質にあります。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03713/00003/topm.jpg?20220512",
+    "fetched_at": "2026-08-25 21:30:44",
+    "ja_summary": "AI特有の「帰納的アプローチ」と人間のような特性により、従来のソフトウエア品質管理が通用せずリスクが増大している。\nAIのリスクは技術的な学習プロセスと、人間と似た判断を下す性質そのものに根本原因がある。"
+  },
+  {
     "title": "DGX Sparkの本命用途は「ローカル推論」、GUIを使った操作も可能に",
     "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03726/081900002/",
     "source": "日経クロステック 総合",
@@ -968,35 +998,5 @@
     "image": "https://assets.st-note.com/production/uploads/images/305607685/rectangle_large_type_2_42b9a79a37fb5cde9a1e4450f2124044.jpeg?width=800",
     "fetched_at": "2026-08-25 05:55:59",
     "ja_summary": "AIモデル「Ornith-1.5」の概要が公開されました。\n自己構築（Self-Scaffolding）から自己改善（Self-Improvement）へと進化し、性能向上を図る新しいモデルです。\n詳細は公式サイトおよび技術解説記事から確認できます。"
-  },
-  {
-    "title": "Tripo P2.0 の概要",
-    "link": "https://note.com/npaka/n/n57d9bfa3ecc2",
-    "source": "note (npaka)",
-    "published": "Fri, 21 Aug 2026 16:11:05 +0900",
-    "summary": "<p id=\"215e62bb-d4f7-4716-a408-4193243cba5b\" name=\"215e62bb-d4f7-4716-a408-4193243cba5b\">「Tripo P2.0」の概要をまとめました。</p><figure id=\"643bc923-b64c-4b4c-8ec6-fdff4206cbf9\" name=\"643bc923-b64c-4b4c-8ec6-fdff4206cbf9\"><blockquote><p id=\"5d2f33e2-fd67-448a-b436-2f70dfb8039e\" name=\"5d2f33e2-fd67-448a-b436-2f70dfb8039e\"><strong>・</strong><a href=\"https://www.tripo3d.ai/blog/tripo-p2-0-preview\" rel=\"nofollow noopener\" target=\"_blank\"><strong>Tripo P2.0 Preview: A Major Breakthrough for Production-Ready 3D Assets</strong></a></p></blockquote>\n<figcaption></figcaption></figure><br /><a href=\"https://note.com/npaka/n/n57d9bfa3ecc2\">続きをみる</a>",
-    "image": "https://assets.st-note.com/production/uploads/images/305593643/rectangle_large_type_2_0db4276bdbb0ba11f5e5b4fd214110d2.png?width=800",
-    "fetched_at": "2026-08-25 05:55:59",
-    "ja_summary": "・3Dモデル生成AI「Tripo P2.0」のプレビュー版が公開された。\n・実用レベルの品質を備えた3Dアセット生成において大きな進歩を実現している。\n・生成速度やクオリティが向上し、制作現場での活用が期待される。"
-  },
-  {
-    "title": "Ask Claude about the Anthropic Economic Index",
-    "link": "https://www.anthropic.com/news/anthropic-economic-index-connector",
-    "source": "Anthropic (News)",
-    "published": "Wed, 22 Jul 2026 00:00:00 +0000",
-    "summary": "Ask Claude about the Anthropic Economic Index",
-    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20NodeBook&amp;backgroundColor=coral",
-    "fetched_at": "2026-08-25 05:56:08",
-    "ja_summary": "・Anthropic社が経済状況を分析する「Anthropic Economic Index」を公開。\n・AIモデル「Claude」を通じて、経済データに関する質問や分析が可能。\n・AIを活用した高度で迅速な経済トレンドの把握を実現。"
-  },
-  {
-    "title": "なぜ、AI時代においてC#は最適な言語の1つなのか？",
-    "link": "https://qiita.com/tomokusaba/items/45b66545bb7ea88e8403",
-    "source": "Qiita (Popular)",
-    "published": "2026-08-14T18:37:58+09:00",
-    "summary": "## はじめに\n\nAI が開発現場に入り込んだ今、私たちは「どの言語で書けば、AI と一緒に生産性を上げられるか」をあらためて考える必要があります。\n\nその問いに対して、私は C# をとても強く推したいです。\n\n理由はシンプルです。C# は、AI が生成するコードの質を**人間が早く見抜き、なおかつ安全に運用できる**ように設計された言語だからです。\n\nAI には、たとえ文法は正しくても、意味が崩",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmF2YXRhcnMuZ2l0aHVidXNlcmNvbnRlbnQuY29tJTJGdSUyRjQ2NTIzOTI0JTNGdiUzRDQ_aXhsaWI9cmItNC4xLjEmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPWE5MTY2YmFjZjY5ZDA0NDIzYmU2NjZlYTUyNjk2YzA4%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYwYTgwNDgwMTkwOGEyZjUyZjJlNmMwMjFlYTczM2NmMDhmZjE2MTA0JTJGb3JpZ2luYWwuanBnJTNGMTcyNjE5MDEyMD9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz1lMTNhZjBiNTcyNmFmNmU2ZDA4ZTc5YzE0ODQ4NjE2NQ%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3Da3f360d92e0185ef55780fbc45e879ff?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgxJUFBJUUzJTgxJTlDJUUzJTgwJTgxQUklRTYlOTklODIlRTQlQkIlQTMlRTMlODElQUIlRTMlODElOEElRTMlODElODQlRTMlODElQTZDJTIzJUUzJTgxJUFGJUU2JTlDJTgwJUU5JTgxJUE5JUUzJTgxJUFBJUU4JUE4JTgwJUU4JUFBJTlFJUUzJTgxJUFFMSVFMyU4MSVBNCVFMyU4MSVBQSVFMyU4MSVBRSVFMyU4MSU4QiVFRiVCQyU5RiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPWM3ZGM1YjgyN2I1OGE1YmRhMzNhMDU1ZWM5MTZlNTUx&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDB0b21va3VzYWJhJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9MjBiMWVkMzkzMTExNTI5MWJjYTU3MzE1ZTg5NDkxNGY&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=RnV0dXJlT25l5qCq5byP5Lya56S-&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=7b5975ec26dbaea7580556a3e6f40f04",
-    "fetched_at": "2026-08-25 05:56:13",
-    "ja_summary": "C#はAIが生成するコードの品質を人間が素早く評価・修正し、安全に運用できる構造を持つためAI時代に最適である。\nAI特有の論理的な誤りを検出しやすい設計が、開発者の生産性を最大化する。\nAI活用を前提とした現代の開発現場において、信頼性の高いシステム構築に強みを発揮する言語である。"
   }
 ]
