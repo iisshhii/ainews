@@ -1,5 +1,75 @@
 [
   {
+    "title": "「社内用語」がAI分析を邪魔する……ニトリが“力技”で解決　「赤羽店の寝具の売上高を出して」可能にできたワケ",
+    "link": "https://www.itmedia.co.jp/business/articles/2608/24/news058.html",
+    "source": "ITmedia ビジネス",
+    "published": "Mon, 24 Aug 2026 07:10:00 +0900",
+    "summary": "AI分析しようにも「社内用語」が壁になる――多くの企業が抱えるこの課題に、ニトリが挑んだ。地道な作業を積み重ねてつかんだのは、誰もが使いやすいデータ分析基盤だった。",
+    "image": "https://image.itmedia.co.jp/business/articles/2608/24/cover_news058.jpg",
+    "fetched_at": "2026-08-26 05:00:57",
+    "ja_summary": "・ニトリが社内用語と一般用語のギャップによるAI分析の障壁を解消\n・用語の定義を地道に整備し、誰でも直感的にデータ抽出できる基盤を構築\n・自然言語で質問するだけで売上分析などが可能な環境を実現した"
+  },
+  {
+    "title": "法を守れば十分とは言い切れず、AIリスク対応が難しい理由",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03713/00004/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "AIリスクは、①合法性のレベルのリスクと②社会的受容性のレベルのリスクの大きく2つに分かれます。AIを利用する企業は、行動が法律に違反してしまうリスクに加えて、たとえ法律違反でなくても行動が社会的に受容されないリスクにも配慮しなければなりません。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03713/00004/topm.jpg?20220512",
+    "fetched_at": "2026-08-26 05:01:07",
+    "ja_summary": "・AIリスクは「法的違反」と「社会的非難」の2階層で捉える必要がある。\n・法律を遵守するだけでは、社会的な信頼を損なう恐れがある。\n・企業はコンプライアンスを超えた、社会的な受容性への配慮が不可欠である。"
+  },
+  {
+    "title": "生成AIの学習もこなすDGX Spark、雑誌記事を学ばせて実際に書かせてみた",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03726/081900003/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "米NVIDIA（エヌビディア）のAI（Artificial Intelligence：人工知能）パソコン「DGX Spark」の魅力の1つが、AIの学習用途にも使えることだ。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03726/081900003/topm.jpg?20220512",
+    "fetched_at": "2026-08-26 05:01:08",
+    "ja_summary": "・NVIDIAのAI PC「DGX Spark」は、AIの学習用途に対応した高い性能を持つ。\n・実際に雑誌記事を学習させ、AIに記事執筆を行わせる実験に成功した。\n・高度な生成AI活用が、PC単体で完結できる可能性を示した。"
+  },
+  {
+    "title": "トヨタ、全方位ロボット開発で狙う車の次　「世界に打って出る」",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03721/081000003/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "トヨタがロボット開発に全方位で臨む。自らAIモデルやハードウエアを開発するのに加えて、米新興などと提携する。テスラをはじめ世界の自動車メーカーがロボット開発に参入する中、トヨタは現場のデータとニーズを把握し、新たな事業へと育てる考えだ。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03721/081000003/topm.jpg?20220512",
+    "fetched_at": "2026-08-26 05:01:09",
+    "ja_summary": "・トヨタがAIやハード開発、外部提携によりロボット事業を全方位で強化。\n・テスラなど競合が参入する中、現場データとニーズの把握で差別化を図る。\n・自動車に続く新たな収益の柱として、グローバル展開を加速させる。"
+  },
+  {
+    "title": "オードリー・タンが警鐘　AIを「親友」にしてはいけない",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00157/082500110/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "オードリー・タン氏がAIの進化とリスクを語る。AIは「親友」のように勘違いすべきではなく、支援的知能として使い、人間の関係や判断を代替させない重要性を説く。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/00157/082500110/fb.jpg?20220512",
+    "fetched_at": "2026-08-26 05:01:10",
+    "ja_summary": "・AIを「親友」と誤認して感情的な依存をしないこと。\n・AIはあくまで「支援ツール」と割り切り、人間関係や意志決定の代替をさせない。\n・AIの進化に対し、人間が主導権を保つことの重要性を強調。"
+  },
+  {
+    "title": "NVIDIAが巨額の金融支援、GPU貸しで急成長する「ネオクラウド」の正体",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03728/082000001/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "生成AIが急速に普及する中、AIの処理に特化した計算リソースを提供する「ネオクラウド」が注目を集めている。クラウド基盤サービスの市場は米Amazon Web Servicesや米Microsoft、米Googleの独壇場だったが、AI処理の旺盛な需要を受けて米CoreWeaveや米Crusoeといったネオクラウドの新興企業が急速に台頭してきた。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03728/082000001/topm_neocloud2-.jpg?20220512",
+    "fetched_at": "2026-08-26 05:01:11",
+    "ja_summary": "・AI需要の急増で、GPU貸しを主軸とする新興クラウド企業「ネオクラウド」が台頭。\n・NVIDIAの巨額支援を背景に、大手テック企業が独占するクラウド市場に風穴を開けている。\n・CoreWeaveやCrusoeなどが、AI処理に特化した計算リソースで急速にシェアを拡大中。"
+  },
+  {
+    "title": "アップル、M6／M5 Pro搭載の新「Mac mini」発表--AI性能4倍　14万9800円〜で9月22日発売",
+    "link": "https://japan.cnet.com/article/35251907/",
+    "source": "CNET Japan",
+    "published": "",
+    "summary": "Appleは8月25日、新チップ「M6」と「M5 Pro」を搭載した新しい「Mac mini」を発表した。同日から予約注文を受け付け、9月22日に発売する。価格はM6モデルが14万9800円（税込）から、M5 Proモデルが29万9800円（税込）から。学生・教職員向けはそれぞれ13万2800円から、28万1800円からとなる。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35251907/\"><img src=\"https://japan.cnet.com/storage/2026/08/26/7ee1206a8a82d2943d15ec2510ad14f5/t/184/138/d/Apple-Mac-mini-hero-260825_big.jpg.large.jpeg\" /></a>",
+    "image": "https://japan.cnet.com/storage/2026/08/26/7ee1206a8a82d2943d15ec2510ad14f5/t/184/138/d/Apple-Mac-mini-hero-260825_big.jpg.large.jpeg",
+    "fetched_at": "2026-08-26 05:01:16",
+    "ja_summary": "・新型Mac mini（M6／M5 Pro搭載）が発表、AI性能が4倍に向上\n・9月22日発売で、本日より予約開始\n・価格は14万9800円（税込）から、学生・教職員割引も設定"
+  },
+  {
     "title": "口コミ増やしたい、でも“AIが書いた感”は抑えめに……カインズ、「自社商品の投稿」促すAI機能どう開発した？",
     "link": "https://www.itmedia.co.jp/business/articles/2608/24/news059.html",
     "source": "ITmedia ビジネス",
@@ -928,75 +998,5 @@
     "image": "https://files.speakerdeck.com/presentations/4747e550c38e435ca6b0a7741aa6b205/preview_slide_0.jpg?40364274",
     "fetched_at": "2026-08-25 11:14:13",
     "ja_summary": "・画像認識AI「DETR」を実際のプロダクトに導入した際の知見を共有。\n・実運用を通じて明らかになった技術的な強みと弱みを解説。\n・Sansanと京大KaiRAの合同勉強会における登壇内容。"
-  },
-  {
-    "title": "PayPayとスペースXの上場で復活した｢POWL｣の正体…12年ぶり扉開いた個人の海外IPO投資､次の投資機会は空前の巨大IPOか | ビジネス | 東洋経済オンライン",
-    "link": "https://toyokeizai.net/articles/-/955644?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-    "source": "東洋経済オンライン",
-    "published": "Tue, 25 Aug 2026 09:00:00 +0900",
-    "summary": "アメリカの巨大テック企業がIPO（新規株式公開）の準備を進めている。6月にはオープンAIとアンソロピックが、IPOに向けた申請書類を証券取引委員会（SEC）に提出した。いずれも株式評価額は100兆円…",
-    "image": "https://tk.ismcdn.jp/mwimgs/f/8/1200w/img_f80908ed2d618ac331c8313ec5d47d5b220279.jpg?nextgen=false",
-    "fetched_at": "2026-08-25 09:54:50",
-    "ja_summary": "・PayPayやスペースXなど注目企業の個人向け未公開株投資が、12年ぶりに解禁された。\n・AI大手（OpenAI等）のIPO準備が進む中、米国巨大テックへの投資機会が再び拡大している。\n・「POWL」などのサービスを通じ、個人がこれまで困難だった海外IPO市場へ参加しやすくなった。"
-  },
-  {
-    "title": "｢ドコモSMTBネット銀行｣は\"dポイント経済圏\"を浸透させられる？　ポイ活好きが意識すべき｢人生フルスキャン｣の未来 | ライフ | 東洋経済オンライン",
-    "link": "https://toyokeizai.net/articles/-/955304?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-    "source": "東洋経済オンライン",
-    "published": "Tue, 25 Aug 2026 09:00:00 +0900",
-    "summary": "2026年8月､ドコモSMTBネット銀行が始動し｢dポイント経済圏｣の更なる展開が予想されます。積極的なポイント還元や口座連携でユーザーと購買データの囲い込みを図ります。AIが未来の購買行動まで予測…",
-    "image": "https://tk.ismcdn.jp/mwimgs/8/c/1200w/img_8c7ecf8a28c7bbbfa07f2c30db6d6c9781165.jpg?nextgen=false",
-    "fetched_at": "2026-08-25 09:54:50",
-    "ja_summary": "・2026年8月、ドコモと三井住友信託銀行による新ネット銀行が始動。\n・dポイントとの連携を強化し、ユーザーの購買データ活用と囲い込みを加速させる。\n・AIによる将来の購買行動予測まで見据えた、新たな金融経済圏の構築が狙い。"
-  },
-  {
-    "title": "エージェント型AIの導入拡大に必要なのは、業務プロセスと人材の再構築",
-    "link": "https://japan.zdnet.com/article/35251877/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "米国企業の多くがAIエージェントの本番導入を急ぐ一方、データ基盤やガバナンス、人材への投資が障壁となっていることがデロイトの調査で明らかになった。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35251877/\"><img src=\"https://japan.zdnet.com/storage/2026/08/25/233c4e8d74a83faf13ee77b97afb6141/t/184/138/d/gettyimages-2288335595_1280.jpg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2026/08/25/233c4e8d74a83faf13ee77b97afb6141/t/184/138/d/gettyimages-2288335595_1280.jpg",
-    "fetched_at": "2026-08-25 09:55:35",
-    "ja_summary": "・米国企業はAIエージェントの導入を急いでいるが、本格運用には至っていない。\n・データ基盤の整備やガバナンスの確立が導入の大きな壁となっている。\n・AI活用には技術面だけでなく、業務プロセスと人材育成の根本的な再構築が不可欠である。"
-  },
-  {
-    "title": "新人AI禁止のあと、「新人AI制御教育ハーネス」を配った結果（Skill原文あり）",
-    "link": "https://qiita.com/WdknWdkn/items/fe4b1810f45e4b6df166",
-    "source": "Qiita (Popular)",
-    "published": "2026-08-20T14:59:32+09:00",
-    "summary": "## はじめに\n\nいえらぶＧＲＯＵＰの開発部で執行役員を務めています、和田です。わだけんです。\n\n去年、新人にAIを一時的に禁止した話を書きました。1週間で1,000行持ってきたのに「なぜこう書いたか」が「AIがそう言ったので」で、コメント800件を超えても理解が進まず、一旦止めて毎日100行ずつ書かせたやつ。\n\nhttps://qiita.com/WdknWdkn/items/9b7dea889",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYyMTUxMjglMkZjZDcxOTM0ZjMxOGIwMGYwZGQ0OTU3YjU4NTBiYzk4MGM5MjEwNGVkJTJGeF9sYXJnZS5wbmclM0YxNjM4NzU1ODYzP2l4bGliPXJiLTQuMS4xJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz1lMDhiYmM5MzJlMTE2NDA3YTY4MmY0ZWQyNTA1Nzg0Nw%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D05a90f6a0cfd4ac041aa6e8649c9441c?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUU2JTk2JUIwJUU0JUJBJUJBQUklRTclQTYlODElRTYlQUQlQTIlRTMlODElQUUlRTMlODElODIlRTMlODElQTglRTMlODAlODElRTMlODAlOEMlRTYlOTYlQjAlRTQlQkElQkFBSSVFNSU4OCVCNiVFNSVCRSVBMSVFNiU5NSU5OSVFOCU4MiVCMiVFMyU4MyU4RiVFMyU4MyVCQyVFMyU4MyU4RCVFMyU4MiVCOSVFMyU4MCU4RCVFMyU4MiU5MiVFOSU4NSU4RCVFMyU4MSVBMyVFMyU4MSU5RiVFNyVCNSU5MCVFNiU5RSU5QyVFRiVCQyU4OFNraWxsJUU1JThFJTlGJUU2JTk2JTg3JUUzJTgxJTgyJUUzJTgyJThBJUVGJUJDJTg5JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9MjgxZDk3N2NhMWZhOTkzZjNjOTRmZDNjYTgxOWMzNTE&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBXZGtuV2RrbiZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTUzYWI2ZTI2ODZiMTllNjc1Y2M0ZjQyY2VlYjRjZDg1&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=8422429048df3ebae89f8fcb9ada4c5f",
-    "fetched_at": "2026-08-25 09:56:02",
-    "ja_summary": "・AIに依存し思考停止していた新人に、あえてAI利用を一時禁止し基礎を徹底させた。\n・その後、AIを「制限付き」で解禁する「制御教育ハーネス」を導入。\n・AIを思考の道具として正しく活用させる仕組みを整え、業務効率と理解度を両立させた。"
-  },
-  {
-    "title": "最近育てているフロントエンド開発用テンプレートの話",
-    "link": "https://zenn.dev/newt_st21/articles/next-template-2026",
-    "source": "Zenn Trends",
-    "published": "Mon, 24 Aug 2026 12:23:26 GMT",
-    "summary": "フロントエンドの Web アプリケーションを開発する用に、私がよく使う設定を盛り込んだテンプレートリポジトリを育てています。\nhttps://github.com/newt239/next-template\nリポジトリ名は next-template となっていますが、React Router や Tanstack Router で使うケースもあるため Next.js 専用というわけではありません。フレームワーク以外でも使いたいものはアプリによって違うことが多いので、このテンプレートから開発をする際は .claude/skills/ に置いたカスタマイズ用のテンプレートを使用することで、...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--sPviQ78d--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E6%259C%2580%25E8%25BF%2591%25E8%2582%25B2%25E3%2581%25A6%25E3%2581%25A6%25E3%2581%2584%25E3%2582%258B%25E3%2583%2595%25E3%2583%25AD%25E3%2583%25B3%25E3%2583%2588%25E3%2582%25A8%25E3%2583%25B3%25E3%2583%2589%25E9%2596%258B%25E7%2599%25BA%25E7%2594%25A8%25E3%2583%2586%25E3%2583%25B3%25E3%2583%2597%25E3%2583%25AC%25E3%2583%25BC%25E3%2583%2588%25E3%2581%25AE%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:newt%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2NkMzBkZDdjMTEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "fetched_at": "2026-08-25 08:56:32",
-    "ja_summary": "・フロントエンド開発を効率化する汎用テンプレートを公開。\n・Next.jsだけでなくReact Router等にも対応可能な設計。\n・カスタマイズ用の設定ファイルを活用し、用途に合わせた柔軟な開発が可能。"
-  },
-  {
-    "title": "Claude Designを使ったポスター制作について",
-    "link": "https://zenn.dev/kaiyo/articles/65f98a5abadac5",
-    "source": "Zenn Trends",
-    "published": "Mon, 24 Aug 2026 10:25:38 GMT",
-    "summary": "この記事ではClaude Designによる学会用ポスター作成で分かったことについて紹介します。\n\n TLDL\n\n\nClaude Designのポスター作成能力をざっくり言うと\n\n\nレイアウト面(ブロックの配置、色の作り方)\n強い人 &gt; Claude Design &gt;&gt;&gt; 何回か作成したことがある院生 &gt; 素人\n\n\n内容面 (何を書いて何を書かないか)\n強い人 &gt; 何回か作成したことがある院生 &gt;  Claude Design &gt;  素人\n\n\n\n\n何に使えるか → 原稿をデザインに落とし込む、特に章ごとのブロックの配置や数値、概念の図示、パ...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--geY9tdtd--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Design%25E3%2582%2592%25E4%25BD%25BF%25E3%2581%25A3%25E3%2581%259F%25E3%2583%259D%25E3%2582%25B9%25E3%2582%25BF%25E3%2583%25BC%25E5%2588%25B6%25E4%25BD%259C%25E3%2581%25AB%25E3%2581%25A4%25E3%2581%2584%25E3%2581%25A6%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Kai%2520Yoshida%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jTDRSWHJFZnhxRm1LZHc5Z0hLV0Zna0J6dnFueEdpcjlSUTYxMHlxY29pPXM5Ni1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "fetched_at": "2026-08-25 08:56:33",
-    "ja_summary": "・Claude Designはレイアウト作成で初心者以上の実力を発揮するが、内容の取捨選択は人間が補う必要がある。\n・章ごとのブロック配置や図解など、原稿を視覚化する工程での活用が特に有効。\n・デザインの基礎を自動化できるため、効率的なポスター制作ツールとして役立つ。"
-  },
-  {
-    "title": "MITRE ATT&CK の7つの戦術からみた AWS のセキュリティに関するイベント",
-    "link": "https://zenn.dev/cscloud_blog/articles/b42eeb86af4d06",
-    "source": "Zenn Trends",
-    "published": "Mon, 24 Aug 2026 02:56:08 GMT",
-    "summary": "どうもこんにちはセキュリティエンジニアの西川です。\nHITCON 2026 で大和セキュリティというセキュリティのコミュニティのメンバーとして Suzaku と Senrigan というオープンソースツールによる AWS 上の脅威検知について発表してきました。\n今日はそこで私のパートで紹介した MITRE ATT&amp;CK の Tactics のそれぞれの段階で AWS 環境においてどういったイベントが発生して AWS CloudTrail にログが記録されるかをまとめてみました。\n私個人の経験や Unit42、Datadog　Security Labs、Permiso、CrowdS...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--6Z38u-RL--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:MITRE%2520ATT%2526CK%2520%25E3%2581%25AE7%25E3%2581%25A4%25E3%2581%25AE%25E6%2588%25A6%25E8%25A1%2593%25E3%2581%258B%25E3%2582%2589%25E3%2581%25BF%25E3%2581%259F%2520AWS%2520%25E3%2581%25AE%25E3%2582%25BB%25E3%2582%25AD%25E3%2583%25A5%25E3%2583%25AA%25E3%2583%2586%25E3%2582%25A3%25E3%2581%25AB%25E9%2596%25A2%25E3%2581%2599%25E3%2582%258B%25E3%2582%25A4%25E3%2583%2599%25E3%2583%25B3%25E3%2583%2588%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:nishikawa%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2Q0ZTRhMzgzMmEuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E6%25A0%25AA%25E5%25BC%258F%25E4%25BC%259A%25E7%25A4%25BE%25E3%2582%25B5%25E3%2582%25A4%25E3%2583%2590%25E3%2583%25BC%25E3%2582%25BB%25E3%2582%25AD%25E3%2583%25A5%25E3%2583%25AA%25E3%2583%2586%25E3%2582%25A3%25E3%2582%25AF%25E3%2583%25A9%25E3%2582%25A6%25E3%2583%2589%25E3%2580%2580%25E3%2583%2586...%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2Q2YjE0NzI3ZTAuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "fetched_at": "2026-08-25 08:56:33",
-    "ja_summary": "・MITRE ATT&CKの7つの戦術に基づき、AWS環境で発生する脅威とCloudTrailログの記録状況を整理。\n・オープンソースツール「Suzaku」「Senrigan」を用いた脅威検知の知見を基に解説。\n・AWS環境における攻撃の各フェーズと対応するログイベントを網羅的に把握可能。"
   }
 ]
