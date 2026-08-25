@@ -1,5 +1,75 @@
 [
   {
+    "title": "ChatGPTでアップルの「メッセージ」代筆が可能に　でも本当に使いたいと思いますか？",
+    "link": "https://japan.cnet.com/article/35251863/",
+    "source": "CNET Japan",
+    "published": "",
+    "summary": "OpenAIはこのほど、アップルユーザーのプライバシーをめぐる懸念を呼び起こしかねない新機能を「ChatGPT」に導入した。ChatGPTは、ユーザーが許可すればアップルの「メッセージ」アプリと連携し、ユーザーに代わってメッセージを読み、文面を作成し、送信できるようになった。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35251863/\"><img src=\"https://japan.cnet.com/storage/2026/04/24/dc92c48aed7c518eaa91e46c5221d033/t/184/138/d/gptgpt-2_1280x960.jpg\" /></a>",
+    "image": "https://japan.cnet.com/storage/2026/04/24/dc92c48aed7c518eaa91e46c5221d033/t/184/138/d/gptgpt-2_1280x960.jpg",
+    "fetched_at": "2026-08-25 19:04:55",
+    "ja_summary": "ChatGPTがアップルの「メッセージ」アプリと連携し、内容の読み取りや代筆・送信が可能になった。\n利便性が向上する一方、プライバシー保護の観点から懸念の声も上がっている。"
+  },
+  {
+    "title": "Introducing AI Futures",
+    "link": "https://openai.com/index/introducing-ai-futures",
+    "source": "OpenAI",
+    "published": "Thu, 20 Aug 2026 07:00:00 GMT",
+    "summary": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/6WlY42vdkXE14U0aa8nt0V/cd49d61e13eca65e29063d298ca8cec8/introducing-ai-futures-seo-ocean-blue-1920x1080.png?w=1600&amp;h=900&amp;fit=fill",
+    "fetched_at": "2026-08-25 19:05:02",
+    "ja_summary": "OpenAIが新ブログ「AI Futures」を開設。\nAIが社会の権力構造、統治、経済、個人の自由に与える影響を考察する。\nAIの進化に伴う未来の変革や課題を深掘りする場として発足。"
+  },
+  {
+    "title": "Introducing Claude Opus 5",
+    "link": "https://www.anthropic.com/news/claude-opus-5",
+    "source": "Anthropic (News)",
+    "published": "Fri, 24 Jul 2026 00:00:00 +0000",
+    "summary": "Introducing Claude Opus 5",
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/54b7ab1d2c2521f83ae5d2da5f9d99321c370d24-2880x1620.png",
+    "fetched_at": "2026-08-25 19:05:04",
+    "ja_summary": "・AIモデル「Claude Opus」の最新版である「Claude Opus 5」が発表された。\n・従来のモデルから性能や精度が大幅に向上している。\n・AIの活用範囲を広げる次世代の高度なモデルとして提供される。"
+  },
+  {
+    "title": "ターミナルを閉じてもClaude Codeが動き続ける理由、supervisorデーモンとAgent viewについて",
+    "link": "https://zenn.dev/uehaj/articles/claude-code-supervisor-agent-view",
+    "source": "Zenn Trends",
+    "published": "Mon, 24 Aug 2026 13:09:36 GMT",
+    "summary": "!\n本記事は筆者個人の見解であり、所属する組織の公式見解ではありません。\nまた、ここで扱う supervisor デーモンと Agent view は research preview の機能です。この領域は仕様が頻繁に、かつ大きく変わります。本文の記述は執筆時点(2026年8月上旬、Claude Code v2.1.220 で確認)のものなので、最新の挙動は公式ドキュメントをご確認ください。\n\n\n TL;DR\n\n\nClaude Code には、ターミナルを閉じてもバックグラウンドでセッションを継続できるsupervisor デーモン(claude daemon run)が実装されていま...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--aV6MAJnp--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25BF%25E3%2583%25BC%25E3%2583%259F%25E3%2583%258A%25E3%2583%25AB%25E3%2582%2592%25E9%2596%2589%25E3%2581%2598%25E3%2581%25A6%25E3%2582%2582Claude%2520Code%25E3%2581%258C%25E5%258B%2595%25E3%2581%258D%25E7%25B6%259A%25E3%2581%2591%25E3%2582%258B%25E7%2590%2586%25E7%2594%25B1%25E3%2580%2581supervisor%25E3%2583%2587%25E3%2583%25BC%25E3%2583%25A2%25E3%2583%25B3%25E3%2581%25A8Agent%2520view%25E3%2581%25AB%25E3%2581%25A4%25E3%2581%2584%25E3%2581%25A6%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Junji%2520Uehara%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2pxNHd0RGFSTVNVZHhYUHk1dmVfYWpnOWlqUkhyOHlwT2hEUUREPXMyNTAtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-08-25 19:05:07",
+    "ja_summary": "Claude Codeは「supervisorデーモン」により、ターミナルを閉じてもバックグラウンドで処理を継続可能。\n実行中のタスク状況は「Agent view」でいつでも確認・再接続ができる。\n本機能は開発中のプレビュー版であり、仕様が頻繁に変更される点に注意が必要。"
+  },
+  {
+    "title": "semantic-routerとQdrantで、LLMを呼ばずに問い合わせを振り分けてみた",
+    "link": "https://zenn.dev/shogo_h/articles/qdrant-semantic-router",
+    "source": "Zenn Trends",
+    "published": "Mon, 24 Aug 2026 11:11:51 GMT",
+    "summary": "はじめに\n!\n2026-08-24時点の情報です。semantic-router 0.1.16、qdrant-client 1.19.0、Qdrantサーバー 1.19.0で試しています。\n\n問い合わせをどの窓口に回すか決めるだけのために、毎回LLMを呼ぶ必要はありません。「返品したい」に近い言い方をいくつか登録しておけば、あとは文の意味の近さだけで振り分けられます。\nこれをやるライブラリがsemantic-routerで、登録した言い方の置き場所としてQdrantを選べます。\nこの記事では使い方を一通り追ったあと、日本語の問い合わせ52問を5つの窓口に振り分けさせて、同じ問いをLL...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--T-QFNp48--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:semantic-router%25E3%2581%25A8Qdrant%25E3%2581%25A7%25E3%2580%2581LLM%25E3%2582%2592%25E5%2591%25BC%25E3%2581%25B0%25E3%2581%259A%25E3%2581%25AB%25E5%2595%258F%25E3%2581%2584%25E5%2590%2588%25E3%2582%258F%25E3%2581%259B%25E3%2582%2592%25E6%258C%25AF%25E3%2582%258A%25E5%2588%2586%25E3%2581%2591%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:shogo-h%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2NiN2Y0MTY4N2MuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-08-25 19:05:08",
+    "ja_summary": "・問い合わせの振り分けにLLMを使わず、semantic-routerとQdrantで意味の近さを判定して自動化する手法を解説。\n・LLMを呼び出すコストや時間を削減し、効率的に窓口へルーティングが可能。\n・52問の日本語質問を用いた検証により、実用的な実装フローを紹介している。"
+  },
+  {
+    "title": "Claude Teamプランの コスト最適化を考える",
+    "link": "https://speakerdeck.com/rfdnxbro/claude-team-puran-no-kosuto-saitekika-o-kangaeru",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-08-25T05:49:18-04:00",
+    "summary": "AIオブザーバビリティ スペシャル#3\n登壇時の資料です。\nhttps://aid.connpass.com/event/402694/",
+    "image": "https://files.speakerdeck.com/presentations/01592b325ec24ee2acedfa12598b4454/preview_slide_0.jpg?40369550",
+    "fetched_at": "2026-08-25 19:05:10",
+    "ja_summary": "・Claude Teamプランのコスト効率を最大化するための最適化手法を解説。\n・API利用状況やトークン消費を可視化するAIオブザーバビリティの重要性を提示。\n・無駄なコストを抑え、チーム運用でAIを賢く活用するための実践的な知見を共有。"
+  },
+  {
+    "title": "AI時代のデータ基盤を考える問い",
+    "link": "https://speakerdeck.com/pacocat/ai-jidai-no-deta-kiban-o-kangaeru-toi",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-08-25T05:46:43-04:00",
+    "summary": "pUG FES 2026での基調講演のスライドです\nhttps://pug.connpass.com/event/399492/",
+    "image": "https://files.speakerdeck.com/presentations/e2b3bc135a51453683db8030fbce9eb2/preview_slide_0.jpg?40369479",
+    "fetched_at": "2026-08-25 19:05:10",
+    "ja_summary": "・AI活用において最も重要な「データ基盤」のあり方を再定義する論考。\n・AIモデルの性能を最大化させるためのデータの収集・管理・活用の勘所を解説。\n・生成AI時代に求められるデータ基盤の構築戦略と、組織が直面する課題を提示。"
+  },
+  {
     "title": "シャープ「ポケとも」第2弾　12月発売",
     "link": "https://japan.cnet.com/article/35251900/",
     "source": "CNET Japan",
@@ -928,75 +998,5 @@
     "image": "https://files.speakerdeck.com/presentations/2cd5c5700dbc46b09d887418fdf539c3/preview_slide_0.jpg?40355894",
     "fetched_at": "2026-08-24 20:50:58",
     "ja_summary": "・VFX、AI、研究成果を統合管理する「デジタルIDグラフシステム」を公開。\n・IMDbや論文サイト等の各IDを連結し、検索エンジンやAIが本人を正しく識別可能。\n・専門スキルと研究実績を横断的に証明し、信頼性の高いデジタルアイデンティティを構築。"
-  },
-  {
-    "title": "Z.ai エコシステム実践解説 — エンジニア向けテクニカルリファレンス",
-    "link": "https://speakerdeck.com/x5gtrn/the-z-ai-ecosystem-in-practice-a-technical-reference-for-engineers-ja",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-08-23T12:14:55-04:00",
-    "summary": "https://daisuke.masuda.tokyo/article-2026-08-24-0212\n\nこのスライドは、Z.aiのフラッグシップモデル「GLM-5.3」、専用開発環境「ZCode」、業務自動化エージェント「AutoClaw」の3製品を全21ページで解説するエンジニア向けリファレンスです。前半はGLM-5.3の仕様（743B・1Mコンテキスト・常時推論）と訓練基盤、Terminal Bench 3.0やCyberGymなどのベンチマーク、Coding Planの料金とAPI設定を深掘り。中盤はZCodeの機能と導入手順、AutoClawの6大機能とユースケースを紹介。終盤はClaude Code・Codex・OSSエージェント・OpenClawとの比較と使い分けガイドで締め、技術選定を支援します。\n\nこのスライドはGLM-5.3で作成しました。",
-    "image": "https://files.speakerdeck.com/presentations/f71ebab60b964b88b2f3b4ea0ac9d1c9/preview_slide_0.jpg?40351916",
-    "fetched_at": "2026-08-24 20:50:58",
-    "ja_summary": "・Z.aiの最新モデル「GLM-5.3」の仕様から訓練基盤、API設定までを網羅した技術リファレンス。\n・専用開発環境「ZCode」や自動化エージェント「AutoClaw」の機能と活用法を解説。\n・既存のAIツールやOSSとの比較・使い分けガイドを提示し、技術選定をサポート。"
-  },
-  {
-    "title": "Strengthening democratic oversight in national security",
-    "link": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
-    "source": "OpenAI",
-    "published": "Tue, 18 Aug 2026 19:00:00 GMT",
-    "summary": "OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise.",
-    "image": "https://images.ctfassets.net/kftzwdyauwt9/6HEG4BoWGKBEoSJWCReHz0/1b1c0b24720bb3faec4a71e48e8ceef7/openai-democratic-oversight-page-seo-v004.png?w=1600&amp;h=900&amp;fit=fill",
-    "fetched_at": "2026-08-24 20:19:22",
-    "ja_summary": "・OpenAIが国家安全保障分野におけるAIの民主的な監視体制を強化する取り組みを開始。\n・政府機関に対し、AI活用に必要なツールや専門知識、トレーニングを提供。\n・AIの安全かつ適切な運用に向けたガバナンス構築を支援する。"
-  },
-  {
-    "title": "AIでイベントカタログを279件自動生成し、成果物の検証を設計した話",
-    "link": "https://zenn.dev/tribeau/articles/d7cd180e53f719",
-    "source": "Zenn Trends",
-    "published": "Mon, 24 Aug 2026 02:50:05 GMT",
-    "summary": "トリビューでリードエンジニアをしています、志甫 (@shihochan_jp) です。\n弊社では、美容医療アプリ「トリビュー」の4リポジトリ（iOS、Android、Webフロントエンド、バックエンド）から、Google Analytics・Braze・Adjustの計測定義279エントリ（イベントのほか、ユーザー属性や配信トリガーの定義も含む）を横断するカタログを、AIで自動生成する仕組みを運用しています[1]。\nAIにコードを読ませてドキュメントを生成させると、次の2つが問題になります。\n\n実行のたびに出力が微妙に揺れて、変更差分が読めなくなる\nコードに存在しないイベント名が、もっと...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--FjYqsOvG--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%25E3%2581%25A7%25E3%2582%25A4%25E3%2583%2599%25E3%2583%25B3%25E3%2583%2588%25E3%2582%25AB%25E3%2582%25BF%25E3%2583%25AD%25E3%2582%25B0%25E3%2582%2592279%25E4%25BB%25B6%25E8%2587%25AA%25E5%258B%2595%25E7%2594%259F%25E6%2588%2590%25E3%2581%2597%25E3%2580%2581%25E6%2588%2590%25E6%259E%259C%25E7%2589%25A9%25E3%2581%25AE%25E6%25A4%259C%25E8%25A8%25BC%25E3%2582%2592%25E8%25A8%25AD%25E8%25A8%2588%25E3%2581%2597%25E3%2581%259F%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:shihochan%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2M2MmIxMmJjY2YuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:TRIBEAU%2520Tech%2520Blog%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jTFlGUW9tVWJSTExISUhoQTk0cWt3cFJuZkpVdWxqdXVFZ3pWalRLY0hNVHB3S1Z1WXc9czI1MC1j%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "fetched_at": "2026-08-24 20:19:23",
-    "ja_summary": "・美容医療アプリ「トリビュー」にて、AIを活用し279件の計測定義カタログを自動生成する仕組みを構築。\n・AI特有の「出力の揺れ」や「誤情報の混入」という課題に対し、検証設計を行うことで精度と信頼性を確保。\n・コードベースから正確な計測ドキュメントを自動生成し、開発効率と管理の品質を向上させた。"
-  },
-  {
-    "title": "デザイナーが作る仕様駆動型デザインシステム",
-    "link": "https://zenn.dev/katsumata/articles/014affaeb272d00aeae6",
-    "source": "Zenn Trends",
-    "published": "Mon, 24 Aug 2026 01:39:09 GMT",
-    "summary": "デザイナーだけでデザインシステムの実装までするという理想\n!\nこの記事の対象読者\nデザインシステムを仕様駆動で開発してみたい稀なデザイナー\n\nデザインシステムに、必要なコンポーネントが足りない。\n追加したいものがあるのに、フロントエンドエンジニアの工数を確保できない。\n私の職場のデザインシステム運営が、その状態でした。\nFigmaのライブラリなら、デザイナーの自分だけで拡張できますが、実装が伴わなければプロダクトでは使えません。\nデザイナーが増やせるのはFigmaの中だけで、そこから先はいつもエンジニアの手が空くのを待つことになります。\n2026年のはじめ、Claude Codeが流...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--R_ed5ma2--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2587%25E3%2582%25B6%25E3%2582%25A4%25E3%2583%258A%25E3%2583%25BC%25E3%2581%258C%25E4%25BD%259C%25E3%2582%258B%25E4%25BB%2595%25E6%25A7%2598%25E9%25A7%2586%25E5%258B%2595%25E5%259E%258B%25E3%2583%2587%25E3%2582%25B6%25E3%2582%25A4%25E3%2583%25B3%25E3%2582%25B7%25E3%2582%25B9%25E3%2583%2586%25E3%2583%25A0%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Katsumata%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2JjMzJkMjVkOWMuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "fetched_at": "2026-08-24 20:19:24",
-    "ja_summary": "・エンジニアの工数不足でデザインシステムの拡張が止まる課題を、デザイナー自身が実装まで行うことで解消。\n・AIツール（Claude Code等）を活用し、デザイナーがコード実装まで担う「仕様駆動型」の開発手法を実践。\n・Figmaだけでなく実装まで完結させることで、プロダクトへの反映速度と自律的なシステム構築を実現する。"
-  },
-  {
-    "title": "【資産3億円を築いた“投資の極意”】IPOは最大70社の証券口座で応募／オープンAIなど米国の注目IPOに申し込むには？／生成AIは「周年銘柄」分析などに活用／株主優待を効率的にゲットする裏技 | ビジネス | 東洋経済オンライン",
-    "link": "https://toyokeizai.net/articles/-/955756?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-    "source": "東洋経済オンライン",
-    "published": "Mon, 24 Aug 2026 19:00:00 +0900",
-    "summary": "前編<br />https://www.youtube.com/watch?v=t-8aqE3kl28元高校球児でフリーアナウンサーの上重聡がお送りする資産運用をテーマにした動画シリーズ。いつか「億り人」にな…",
-    "image": "https://tk.ismcdn.jp/mwimgs/0/2/1200w/img_022b5821e11e572eb3823cf20d830200202985.jpg?nextgen=false",
-    "fetched_at": "2026-08-24 19:51:04",
-    "ja_summary": "・IPO投資は最大70社の証券口座を使い分けることで当選確率を最大化する。\n・海外IPOや米国株への投資は、最新の生成AIを活用して情報収集や銘柄分析を行う。\n・株主優待は効率的な取得テクニックを駆使し、資産形成を加速させる。"
-  },
-  {
-    "title": "AIに任せるべきところがわかった…手作り石けんビジネスを成長させたClaude活用法",
-    "link": "https://www.businessinsider.jp/article/2608-how-artist-built-ai-c-suite-help-run-business/",
-    "source": "Business Insider Japan",
-    "published": "Mon, 24 Aug 2026 10:00:00 GMT",
-    "summary": "バス・アンド・ボディ製品を扱うスモールビジネスの経営者は、AIエージェントで構成された経営幹部チームを作り、事業運営を支援してもらう一方で、クリエイティブな仕事にはAIを使うことを拒んでいます。",
-    "image": "https://media.loom-app.com/loom/2026/08/17/ced11861-208d-480b-9920-f186c096f88d/original.jpg?w=1200",
-    "fetched_at": "2026-08-24 19:51:19",
-    "ja_summary": "・経営者がAIを「仮想経営幹部」として活用し、業務効率化と経営判断を加速させている。\n・一方で、ブランドの核心である製品開発や創作作業にはAIを使わず、人間らしさを維持。\n・AIに任せるべき実務と、人間が担うべき創造性を明確に分けることで事業を成長させている。"
-  },
-  {
-    "title": "【AI×DevOps Study #21】自律型コーディングエージェントを 用いた開発プロセスの最適化",
-    "link": "https://speakerdeck.com/scalar/aixdevops-study-21-jiritsugata-kodingu-ejento-o-mochiita-kaihatsu-purosesu-no-saitekika",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-08-24T05:48:09-04:00",
-    "summary": "■AI×DevOps Study #21の概要\n2026年8月24日に開催した「AI×DevOps Study」第21回のアーカイブ動画です。\n\n「AI×DevOps Study」は、AI駆動開発やそこに関係するマイクロサービスについて理解を深める場になります。\n株式会社ScalarではAIを使ったチーム開発を進めており、参画しているメンバーや協力会社の方から、具体的なAI駆動開発を実施する方法、その中で生まれたマイクロサービスアーキテクチャを使用したAI駆動開発の事例や実際に使えるエージェントについてお話頂き、参加者の皆様と知識の共有や交換を目的としています。\n（弊社製品であるScalarDBも絡んだお話も一部出てきますが、汎用的な内容となっておりますのでフラットにお楽しみいいただけます）\n\n■今回のテーマ\n今回のテーマは、自律型コーディングエージェントを 用いた開発プロセスの最適化です。\n\n従来の開発プロセスとAIエージェントを利用した開発（AI駆動開発）プロセスとの違いや、AI駆動開発の各プロセスについてお話しいたします。\n\n■登壇者情報（敬称略）\n深津航\n株式会社Scalar Founder & CEO。日本オラクル株式会社、決済系のスタートアップを経て、株式会社Scalarを創業。\n\n■関連コンテンツ\n・Youtube（過去の勉強会動画も公開中！）\nwww.youtube.com/@scalar-labs\n\n・Zenn ブログ\nhttps://zenn.dev/p/scalar_sol_blog\n\n・イベントページ（connpass）\nhttps://scalar.connpass.com/",
-    "image": "https://files.speakerdeck.com/presentations/b384a7537ee648cc9c8f19eadb2e814a/preview_slide_0.jpg?40356334",
-    "fetched_at": "2026-08-24 19:51:29",
-    "ja_summary": "AIを活用した「自律型コーディングエージェント」による開発プロセスの最適化と、AI駆動開発の実践事例を学ぶ勉強会のアーカイブ動画。\n従来の手法と比較したAI駆動開発のプロセスや、マイクロサービスアーキテクチャを活用した具体的な運用方法を解説。\n株式会社Scalarの代表が登壇し、現場での知見を共有する技術者向けの内容となっている。"
   }
 ]
