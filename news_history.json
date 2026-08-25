@@ -1,5 +1,25 @@
 [
   {
+    "title": "AIメンタルケア 開発者が促す注意",
+    "link": "https://news.yahoo.co.jp/pickup/6593051?source=rss",
+    "source": "Yahoo!ニュース IT・科学",
+    "published": "Tue, 25 Aug 2026 10:14:32 GMT",
+    "summary": "",
+    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/8/25/d16f143882bb76121b4f4ec71a5d329f1bc2012966fc2d048b2bc171849cd35b.jpg",
+    "fetched_at": "2026-08-25 19:47:20",
+    "ja_summary": "AIメンタルケアアプリの普及に伴い、開発者側から依存や誤用に対する注意喚起が強まっている。\nAIは専門的な医療判断を行えないため、症状悪化を防ぐには補助的な利用に留める必要がある。\n利用者はAIを過信せず、深刻な悩みについては必ず専門の医療機関へ相談することが推奨される。"
+  },
+  {
+    "title": "[2026-08-25]問い合わせとAI、その間で揺れる信頼性についての俺の思いを波よ聞いてくれ",
+    "link": "https://speakerdeck.com/tosite/2026-08-25-toiawase-to-ai-sonokan-de-yureru-shinraisei-nitsuiteno-ore-no-omoi-o-nami-yo-kii-te-kure",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-08-25T06:03:12-04:00",
+    "summary": "ツナギメオフライン ベンキョウカイ #9\nLTセッション\nhttps://tsunagime-offline.connpass.com/event/399691/",
+    "image": "https://files.speakerdeck.com/presentations/2a5be4b759764ec0825ddbeb6d5c9c2d/preview_slide_0.jpg?40369721",
+    "fetched_at": "2026-08-25 19:47:28",
+    "ja_summary": "・「ツナギメオフライン ベンキョウカイ #9」にて、AIを活用した問い合わせ対応と信頼性の両立についてLT登壇。\n・生成AIの導入が進む中で、いかに正確性を担保し、ユーザーからの信頼を維持すべきかについて持論を展開。\n・AI技術と人間の対応の境界線における課題と、現場での向き合い方を考察。"
+  },
+  {
     "title": "ChatGPTでアップルの「メッセージ」代筆が可能に　でも本当に使いたいと思いますか？",
     "link": "https://japan.cnet.com/article/35251863/",
     "source": "CNET Japan",
@@ -978,25 +998,5 @@
     "image": "https://assets.st-note.com/production/uploads/images/305582537/rectangle_large_type_2_3c94f039e69cc1c27b2a4b6fcbc8831c.jpeg?width=800",
     "fetched_at": "2026-08-24 21:30:10",
     "ja_summary": "・AIを単なる「質問ツール」から「業務のパートナー」へ昇華させる手法を解説。\n・生成AI「Claude Cowork」の基本から自動化、組織導入までを網羅した実践ガイド。\n・AIを本格的に仕事へ組み込み、業務効率を一段階引き上げたい人に向けた一冊。"
-  },
-  {
-    "title": "AIの進化によって漫画制作はどう変わるのか",
-    "link": "https://note.com/npaka/n/n6c22f295e89f",
-    "source": "note (npaka)",
-    "published": "Sun, 16 Aug 2026 13:44:35 +0900",
-    "summary": "<p id=\"b67e49bc-0d4f-42a9-993c-8115126a5539\" name=\"b67e49bc-0d4f-42a9-993c-8115126a5539\">最新のAI研究とAIツールをもとに、AIによって漫画制作がどのように変わるのかを整理します。</p><br /><br /><a href=\"https://note.com/npaka/n/n6c22f295e89f\">続きをみる</a>",
-    "image": "https://assets.st-note.com/production/uploads/images/303996032/rectangle_large_type_2_52771712c236b282e5a6d0f34e81cc2a.png?width=800",
-    "fetched_at": "2026-08-24 21:30:10",
-    "ja_summary": "AIの進化により、漫画制作の工程や手法が大きく変革されようとしている。\n最新の研究とツールが、クリエイターの作業効率化と表現の幅拡大を促進する。\nAI活用がもたらす漫画制作現場の今後の変化と可能性について整理されている。"
-  },
-  {
-    "title": "Hamed Behrouzi — Digital Identity Graph System",
-    "link": "https://speakerdeck.com/hamedbehrouzi/hamed-behrouzi-digital-identity-graph-system-e3f66805-d57c-4141-af16-f25be8e67102",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-08-24T04:23:26-04:00",
-    "summary": "This presentation introduces the Digital Identity Graph System of Hamed Behrouzi — a structured, machine-readable identity framework connecting VFX animation work, AI motion systems, procedural animation tools, and research artifacts.\n\nIt links verified nodes such as IMDb, LinkedIn, Zenodo, ORCID, Google Scholar, ResearchGate, and official identity pages to create a consistent cross-platform identity signal for search engines and AI systems.\n\nExplore the full identity graph:\nhttps://hamedbehrouzi.com",
-    "image": "https://files.speakerdeck.com/presentations/2cd5c5700dbc46b09d887418fdf539c3/preview_slide_0.jpg?40355894",
-    "fetched_at": "2026-08-24 20:50:58",
-    "ja_summary": "・VFX、AI、研究成果を統合管理する「デジタルIDグラフシステム」を公開。\n・IMDbや論文サイト等の各IDを連結し、検索エンジンやAIが本人を正しく識別可能。\n・専門スキルと研究実績を横断的に証明し、信頼性の高いデジタルアイデンティティを構築。"
   }
 ]
