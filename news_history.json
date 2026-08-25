@@ -1,5 +1,35 @@
 [
   {
+    "title": "DGX Sparkの本命用途は「ローカル推論」、GUIを使った操作も可能に",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03726/081900002/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "米NVIDIA（エヌビディア）のAI（Artificial Intelligence：人工知能）専用パソコン「DGX Spark」。その本命の使い方は、ローカル環境で推論サーバーとして使うことだろう。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03726/081900002/topm.jpg?20220512",
+    "fetched_at": "2026-08-25 20:51:55",
+    "ja_summary": "・NVIDIAのAI専用機「DGX Spark」の主な用途はローカル環境での推論サーバー。\n・GUIでの操作に対応し、専門知識がなくても扱いやすくなった。\n・環境構築の手間を省き、手元で手軽にAIを実行可能な環境を実現する。"
+  },
+  {
+    "title": "【書評】 Claude Cowork スゴイ活用術",
+    "link": "https://note.com/npaka/n/n1754cbfc3fd8",
+    "source": "note (npaka)",
+    "published": "Fri, 21 Aug 2026 15:41:58 +0900",
+    "summary": "<p id=\"8fab689a-4db2-4787-949f-92117dbd9000\" name=\"8fab689a-4db2-4787-949f-92117dbd9000\">生成AIを仕事で使っていても、実際には「質問して答えをもらう」使い方にとどまっている人も多いかと思います。<br />そんな使い方を一段進めてくれるのが、「<strong>Claude Cowork</strong>」です。</p><p id=\"d2133961-d066-4eb8-b216-4b0eed5135c1\" name=\"d2133961-d066-4eb8-b216-4b0eed5135c1\">今回紹介する『<strong>Claude Cowork スゴイ活用術</strong>』（AI部 著）は、Coworkの基本から実践、自動化、組織導入までを体系的にまとめた一冊です。</p><br /><a href=\"https://note.com/npaka/n/n1754cbfc3fd8\">続きをみる</a>",
+    "image": "https://assets.st-note.com/production/uploads/images/305582537/rectangle_large_type_2_3c94f039e69cc1c27b2a4b6fcbc8831c.jpeg?width=800",
+    "fetched_at": "2026-08-25 20:52:03",
+    "ja_summary": "生成AIを単なる質問ツールから「共同作業者」へと進化させる「Claude Cowork」の活用ガイド。\n基本から自動化、組織への導入方法までを体系的に学べる一冊。\nAIによる業務効率化を次の段階へ引き上げたいビジネスパーソンに最適。"
+  },
+  {
+    "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
+    "link": "https://openai.com/index/gpt-5-6-in-kiro",
+    "source": "OpenAI",
+    "published": "Mon, 24 Aug 2026 12:00:00 GMT",
+    "summary": "GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/6r1E6E5mcdQEGztu6B1TI6/7e1ab3332eb5440e41cb64ba59c65d2b/OAI_Kiro_Partnership_16x9_SEO_Official_Full_Lockup_3840x2160.png?w=1600&amp;h=900&amp;fit=fill",
+    "fetched_at": "2026-08-25 20:52:11",
+    "ja_summary": "・開発プラットフォーム「Kiro」で最新モデル「GPT-5.6」が利用可能に。\n・ソフトウェア開発における計画、構築、レビュー、テストの効率が向上。\n・処理性能の改善により、コストパフォーマンスを重視した開発環境を提供。"
+  },
+  {
     "title": "AIの進化によって漫画制作はどう変わるのか",
     "link": "https://note.com/npaka/n/n6c22f295e89f",
     "source": "note (npaka)",
@@ -968,35 +998,5 @@
     "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmF2YXRhcnMuZ2l0aHVidXNlcmNvbnRlbnQuY29tJTJGdSUyRjQ2NTIzOTI0JTNGdiUzRDQ_aXhsaWI9cmItNC4xLjEmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPWE5MTY2YmFjZjY5ZDA0NDIzYmU2NjZlYTUyNjk2YzA4%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYwYTgwNDgwMTkwOGEyZjUyZjJlNmMwMjFlYTczM2NmMDhmZjE2MTA0JTJGb3JpZ2luYWwuanBnJTNGMTcyNjE5MDEyMD9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz1lMTNhZjBiNTcyNmFmNmU2ZDA4ZTc5YzE0ODQ4NjE2NQ%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3Da3f360d92e0185ef55780fbc45e879ff?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgxJUFBJUUzJTgxJTlDJUUzJTgwJTgxQUklRTYlOTklODIlRTQlQkIlQTMlRTMlODElQUIlRTMlODElOEElRTMlODElODQlRTMlODElQTZDJTIzJUUzJTgxJUFGJUU2JTlDJTgwJUU5JTgxJUE5JUUzJTgxJUFBJUU4JUE4JTgwJUU4JUFBJTlFJUUzJTgxJUFFMSVFMyU4MSVBNCVFMyU4MSVBQSVFMyU4MSVBRSVFMyU4MSU4QiVFRiVCQyU5RiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPWM3ZGM1YjgyN2I1OGE1YmRhMzNhMDU1ZWM5MTZlNTUx&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDB0b21va3VzYWJhJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9MjBiMWVkMzkzMTExNTI5MWJjYTU3MzE1ZTg5NDkxNGY&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=RnV0dXJlT25l5qCq5byP5Lya56S-&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=7b5975ec26dbaea7580556a3e6f40f04",
     "fetched_at": "2026-08-25 05:56:13",
     "ja_summary": "C#はAIが生成するコードの品質を人間が素早く評価・修正し、安全に運用できる構造を持つためAI時代に最適である。\nAI特有の論理的な誤りを検出しやすい設計が、開発者の生産性を最大化する。\nAI活用を前提とした現代の開発現場において、信頼性の高いシステム構築に強みを発揮する言語である。"
-  },
-  {
-    "title": "利用ライブラリの処理を理解、2つの文書をまとめて要約してみる",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03692/072200002/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "Gemini APIによる要約処理の基礎について、ライブラリgoogle-genaiを中心に解説します。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03692/072200002/topm.jpg?20220512",
-    "fetched_at": "2026-08-25 05:19:48",
-    "ja_summary": "・google-genaiライブラリを用いたGemini APIによる要約処理の基礎を解説。\n・2つの文書を統合して要約する具体的な実装手順を紹介。"
-  },
-  {
-    "title": "光電融合の業界地図、NVIDIAとブロードコムが先陣　「基本」の22社",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03716/080700002/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "光電融合は生成AI（人工知能）の普及が起爆剤となり、AIの計算処理が集中するデータセンターでの大規模な導入が見込まれている。光電融合デバイスの設計に関与する中核企業に絞った「基本」の業界地図を描いた。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03716/080700002/chu.jpg?20220512",
-    "fetched_at": "2026-08-25 05:19:48",
-    "ja_summary": "・生成AIの普及に伴い、データセンターでの「光電融合」技術の導入が急拡大。\n・NVIDIAやブロードコムが先頭に立ち、市場の主導権を握る。\n・光電融合デバイスを牽引する中核企業22社の動向をまとめた業界地図が公表。"
-  },
-  {
-    "title": "AIリスクが発生する根本要因は？　従来のソフトウエア品質管理が通用せず",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03713/00003/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "AIの活用が進むほどリスクの問題も増えています。そもそもなぜAIにリスクが生じるのでしょうか。原因はAIの開発に用いている「帰納的アプローチ」と、人間に似通った能力を持っている、あるいは持っていると思われている性質にあります。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03713/00003/topm.jpg?20220512",
-    "fetched_at": "2026-08-25 05:19:49",
-    "ja_summary": "AI特有の「帰納的アプローチ」と人間的特性の模倣が、従来の品質管理を困難にしリスクを招いている。\n開発手法が従来と異なるため、既存の管理手法では対応できない。\nAIリスクを制御するには、新たな品質管理の枠組みが必要となっている。"
   }
 ]
