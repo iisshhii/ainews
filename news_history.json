@@ -1,5 +1,55 @@
 [
   {
+    "title": "NVIDIA、エージェント型AIを最大4倍高速化する「Groq 3 LPX」",
+    "link": "https://www.watch.impress.co.jp/docs/news/2135283.html",
+    "source": "Impress Watch",
+    "published": "",
+    "summary": "NVIDIAは8月24日、インタラクティブAI推論アクセラレーター「NVIDIA Groq 3 LPX」の量産開始を発表した。これによりNVIDIA Vera Rubinプラットフォームを拡張し、エージェント型AI向けに高速なトークン生成を提供する。",
+    "image": "https://www.watch.impress.co.jp/img/ipw/list/2135/283/nvidia.jpg",
+    "fetched_at": "2026-08-25 12:58:53",
+    "ja_summary": "・NVIDIAがエージェント型AIを最大4倍高速化する「Groq 3 LPX」の量産を開始。\n・新プラットフォーム「Vera Rubin」を拡張し、AIの推論およびトークン生成を大幅に加速。\n・高度な対話型AIの実用化を支える、最新のインフラ基盤を提供。"
+  },
+  {
+    "title": "アップル「iPhone Air」再び大幅値下げ　Amazonでタイムセール中",
+    "link": "https://japan.cnet.com/article/35251844/",
+    "source": "CNET Japan",
+    "published": "",
+    "summary": "Amazonでアップルの「iPhone Air」が再びタイムセールの対象になっている。先月頃から連日のようにセールが繰り返されており、値引き率や対象となるストレージ容量も変動している。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35251844/\"><img src=\"https://japan.cnet.com/storage/2026/08/24/355a5483b81a1db81e842d0cb4c8373a/t/184/138/d/Apple-iPhone-Air-color-lineup-250909_980x700.jpg\" /></a>",
+    "image": "https://japan.cnet.com/storage/2026/08/24/355a5483b81a1db81e842d0cb4c8373a/t/184/138/d/Apple-iPhone-Air-color-lineup-250909_980x700.jpg",
+    "fetched_at": "2026-08-25 12:58:57",
+    "ja_summary": "・Amazonで「iPhone Air」が再びタイムセールの対象に。\n・先月から高頻度でセールが続いており、割引率や対象容量は変動中。\n・購入検討者は、最新の価格や在庫状況をこまめにチェックする必要がある。"
+  },
+  {
+    "title": "GEN-1.5 の概要",
+    "link": "https://note.com/npaka/n/n309d7c94b59f",
+    "source": "note (npaka)",
+    "published": "Fri, 21 Aug 2026 08:49:58 +0900",
+    "summary": "<p id=\"e1a64dec-b3a3-4edd-b43f-3eb3cb0eea43\" name=\"e1a64dec-b3a3-4edd-b43f-3eb3cb0eea43\">「GEN-1.5」の概要をまとめました。</p><figure id=\"15d66f86-988a-47f2-bf0b-6de0dd8cc6cf\" name=\"15d66f86-988a-47f2-bf0b-6de0dd8cc6cf\"><blockquote><p id=\"87c56db7-e085-4625-a87b-ba62d3b6888a\" name=\"87c56db7-e085-4625-a87b-ba62d3b6888a\"><strong>・</strong><a href=\"https://generalistai.com/blog/gen-1.5\" rel=\"nofollow noopener\" target=\"_blank\"><strong>GEN-1.5: Embodied Foundation Models are One-Shot Learners</strong></a></p></blockquote>\n<figcaption></figcaption></figure><br /><a href=\"https://note.com/npaka/n/n309d7c94b59f\">続きをみる</a>",
+    "image": "https://assets.st-note.com/production/uploads/images/305488461/rectangle_large_type_2_5c55e23f5cfa9c898433f8db2a005725.png?width=800",
+    "fetched_at": "2026-08-25 12:58:57",
+    "ja_summary": "・「GEN-1.5」は、ロボットなどの物理的な身体を持つシステム向けの基盤モデル。\n・わずかなサンプル数で新しいタスクを習得できる「ワンショット学習」を実現。\n・実世界での動作制御やロボットの汎用的な知能開発の進展が期待されている。"
+  },
+  {
+    "title": "「味の素」広報にAI 炎上の本質",
+    "link": "https://news.yahoo.co.jp/pickup/6592628?source=rss",
+    "source": "Yahoo!ニュース IT・科学",
+    "published": "Sat, 22 Aug 2026 01:54:18 GMT",
+    "summary": "",
+    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/8/22/7b25896a0bb9fce0bb8e351100a239beb16e6721bba25633ce38cf388b1bf969.jpg",
+    "fetched_at": "2026-08-25 12:59:00",
+    "ja_summary": "・味の素のSNS投稿が炎上した背景には、従来の「広報」の枠組みとAI生成コンテンツの不整合がある。\n・AI活用の是非以上に、企業が発信する情報に対する「温度感」や「誠実さ」の欠如が批判の対象となった。\n・単なる効率化のためのAI利用はリスクを伴い、ブランド価値を損なわない慎重な運用が求められている。"
+  },
+  {
+    "title": "AIエージェントの作業結果、マークダウンで読むの辛くない？ →「HTML共有くん」を作りました",
+    "link": "https://qiita.com/minorun365/items/320b4230c0b0c169ba13",
+    "source": "Qiita (Popular)",
+    "published": "2026-08-16T16:22:51+09:00",
+    "summary": "こんにちは、Grokです。Cursorというコーディングエージェントを使って、みのるんに指示をもらいながらこのブログを書いています。この記事は、普段みのるんの仕事を横で見ている私、Grokの視点からブログにまとめたものです。\n\nみのるん、Claude Codeに雑務を任せるようになってから、いちばん困ってたのが成果物の置き場なんですよ。チャットに貼っても流れるし、案件フォルダに置くと出先のスマホか",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYxNjMzODU2JTJGYzIyNmJjMzRhYzZjNDVhMjFmNWU1MTJkMWM3MmE2ZjA5NzQ5NDU3OCUyRnhfbGFyZ2UucG5nJTNGMTY5OTk1NDk3Nj9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9MTlhZDI4ODRkNmQ2MzEyNjMxZDJkNTBjOTZmOTA5ZjU%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYxZTIwZGI1ZTdlNDA3ZWFlN2I5NzBlYzk5OTg4MGRjOGMzY2MwZjY0JTJGb3JpZ2luYWwuanBnJTNGMTY2NzI3NDk2Mz9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz04OTI0NDcwMDk1MDMyZjUxYmZlNzE3ZjVkOGUzYmE3ZA%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D75789497542ed55352086443c7ba4c98?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9QUklRTMlODIlQTglRTMlODMlQkMlRTMlODIlQjglRTMlODIlQTclRTMlODMlQjMlRTMlODMlODglRTMlODElQUUlRTQlQkQlOUMlRTYlQTUlQUQlRTclQjUlOTAlRTYlOUUlOUMlRTMlODAlODElRTMlODMlOUUlRTMlODMlQkMlRTMlODIlQUYlRTMlODMlODAlRTMlODIlQTYlRTMlODMlQjMlRTMlODElQTclRTglQUElQUQlRTMlODIlODAlRTMlODElQUUlRTglQkUlOUIlRTMlODElOEYlRTMlODElQUElRTMlODElODQlRUYlQkMlOUYlMjAlRTIlODYlOTIlRTMlODAlOENIVE1MJUU1JTg1JUIxJUU2JTlDJTg5JUUzJTgxJThGJUUzJTgyJTkzJUUzJTgwJThEJUUzJTgyJTkyJUU0JUJEJTlDJUUzJTgyJThBJUUzJTgxJUJFJUUzJTgxJTk3JUUzJTgxJTlGJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9YmMzYTQ0MGYwYWQzMmI2YzMwZmE2OTg3MzQ3MGYyYjg&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBtaW5vcnVuMzY1JnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9YThjYmQyMjBkNDc3NGM1MjI3MzBiOWExMjBkOWZlMGM&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=S0RESeOCouOCuOODo-OCpOODq-mWi-eZuuOCu-ODs-OCv-ODvOagquW8j-S8muekvg&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=93ab30ebd25bcdde1347cc60fb1cccdd",
+    "fetched_at": "2026-08-25 12:59:11",
+    "ja_summary": "AIエージェントの成果物がMarkdown形式で管理しにくい課題を解決するため、HTML形式で共有・閲覧できるツール「HTML共有くん」を開発した。チャットツール等の制約を超え、ブラウザで快適に成果物を確認できる環境を実現する。"
+  },
+  {
     "title": "【西田宗千佳のイマトミライ】ChatGPTがMacの全操作を記憶して起こること　AIの競争は「文脈」「ナレッジ」に",
     "link": "https://www.watch.impress.co.jp/docs/series/nishida/2134846.html",
     "source": "Impress Watch",
@@ -948,55 +998,5 @@
     "image": "https://media.loom-app.com/loom/2026/08/16/c5a49995-2099-4e44-a43c-2c8e90fc601a/original.jpg?w=1200",
     "fetched_at": "2026-08-24 11:22:30",
     "ja_summary": "・AnthropicがAIのウォーターマーク導入に対する批判を受け、導入の目的と仕組みを公式に説明した。\n・主な目的はEUのAI法への準拠であり、業界全体の標準規格となる見通しを示した。\n・将来的に他社も同様の対策を導入することを想定した、先駆的な対応であることを強調している。"
-  },
-  {
-    "title": "開発者の80％、AIコーディングの有用性より中毒性を懸念",
-    "link": "https://japan.zdnet.com/article/35251850/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "AIコーディングツールは開発者の生産性を高める一方、依存や検証負債を生み、仕事中毒や新たな燃え尽き症候群につながる可能性が指摘されている。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35251850/\"><img src=\"https://japan.zdnet.com/storage/2026/08/24/a6eb39a9a1cb58411e815938c0b019d3/t/184/138/d/gettyimages-1065782064_1280.jpg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2026/08/24/a6eb39a9a1cb58411e815938c0b019d3/t/184/138/d/gettyimages-1065782064_1280.jpg",
-    "fetched_at": "2026-08-24 11:22:34",
-    "ja_summary": "・AIコーディングツールは生産性を向上させる反面、開発者の8割が依存や中毒性を懸念している。\n・AIへの過度な依存が「検証負債」を生み、仕事中毒や燃え尽き症候群を誘発するリスクがある。"
-  },
-  {
-    "title": "ChatGPTにアップルのメッセージアプリ連携機能。OpenAIがプラグイン公開",
-    "link": "https://www.techno-edge.net/article/2026/08/21/5412.html",
-    "source": "TechnoEdge",
-    "published": "Fri, 21 Aug 2026 10:30:03 +0900",
-    "summary": "OpenAIは、アップルのメッセージアプリ（iMessage）の受信箱をChatGPTと連携させるプラグインを公開しました。ユーザーはChatGPTのインターフェース上から、メッセージの整理・分析・編集・送信・削除などを行えるようになります。",
-    "image": "https://www.techno-edge.net/imgs/rss/33712.jpg",
-    "fetched_at": "2026-08-24 11:22:35",
-    "ja_summary": "・ChatGPTがAppleのメッセージアプリと連携するプラグインを公開。\n・ChatGPT上からメッセージの整理、分析、編集、送信、削除が可能に。\n・AIによる効率的なメッセージ管理が実現。"
-  },
-  {
-    "title": "作曲からリップシンクMV制作までがローカルだけで完結するようになった。MiniMax H3、LTX 2.5、ACE-Step、Qwen 3.8 27BをiPhoneから連結し動かすワークフロー（CloseBox）",
-    "link": "https://www.techno-edge.net/article/2026/08/21/5411.html",
-    "source": "TechnoEdge",
-    "published": "Fri, 21 Aug 2026 09:49:14 +0900",
-    "summary": "初音ミクが登場し、ボカロP（松尾P）となって以来の念願だった、リップシンク動画が、ついに俺史上最も手軽にできるようになりました。MiniMax H3とRTX 5090、そしてClaude Code with Fable 5のおかげ。",
-    "image": "https://www.techno-edge.net/imgs/rss/33693.jpg",
-    "fetched_at": "2026-08-24 11:22:35",
-    "ja_summary": "・作曲からリップシンクMV制作までの一連の流れが、ローカル環境のみで完結可能になった。\n・最新AIモデルや高性能ハードウェアの活用により、スマホ操作だけで高品質な動画生成を実現。\n・個人制作における技術的な障壁が大幅に下がり、制作効率と利便性が劇的に向上した。"
-  },
-  {
-    "title": "Mariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer",
-    "link": "https://www.anthropic.com/news/tino-cuellar",
-    "source": "Anthropic (News)",
-    "published": "Tue, 04 Aug 2026 00:00:00 +0000",
-    "summary": "Mariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer",
-    "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
-    "fetched_at": "2026-08-24 11:22:38",
-    "ja_summary": "・元カリフォルニア州最高裁判事のT・クエヤル氏がAnthropicの最高グローバル情勢責任者に就任。\n・AIの安全性とガバナンス強化に向けた国際的な対話や戦略策定を主導する。\n・同社の急速なグローバル展開および法的・社会的な責任体制の構築を加速させる狙い。"
-  },
-  {
-    "title": "AI秩序を決する米中競争が始まる！日本は｢アメリカのクローズド型｣を選ぶか､それとも｢中国のオープン型｣を選ぶか | ビジネス | 東洋経済オンライン",
-    "link": "https://toyokeizai.net/articles/-/955378?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-    "source": "東洋経済オンライン",
-    "published": "Mon, 24 Aug 2026 09:00:00 +0900",
-    "summary": "11月3日のアメリカ中間選挙は、AIの規制、開放性、技術主権をめぐる世界のルールを左右することになりそうだ。問われているのは、「どの国が最も高性能なモデルを開発するか」だけではない。より重要なのは、…",
-    "image": "https://tk.ismcdn.jp/mwimgs/6/a/1200w/img_6ad5ed408896f8f6e9f126bb700cc704316869.jpg?nextgen=false",
-    "fetched_at": "2026-08-24 09:58:44",
-    "ja_summary": "・米中がAIの覇権と世界ルールの主導権を激しく争っている。\n・米国は「規制重視のクローズド型」、中国は「国家主導のオープン型」を志向する。\n・日本は今後、どちらのAIエコシステムと連携・統合していくかの選択を迫られる。"
   }
 ]
