@@ -1,5 +1,55 @@
 [
   {
+    "title": "エフサステクノロジーズとNTT西、純国産LLM「tsuzumi 2」によるオンプレミス生成AI基盤を提供",
+    "link": "https://japan.zdnet.com/article/35251949/",
+    "source": "ZDNET Japan",
+    "published": "",
+    "summary": "エフサステクノロジーズとNTT西日本は、エフサステクノロジーズのオンプレミス生成AI基盤「Private AI Platform on PRIMERGY」と、NTTグループが開発した大規模言語モデル（LLM）「tsuzumi 2」を組み合わせた生成AIソリューションを9月に提供すると発表した。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35251949/\"><img src=\"https://japan.zdnet.com/storage/2025/02/20/3f1df6775d071eff66d8be55587b07f1/t/184/138/d/250220_enterprise_as_1280_721823729.jpeg\" /></a>",
+    "image": "https://japan.zdnet.com/storage/2025/02/20/3f1df6775d071eff66d8be55587b07f1/t/184/138/d/250220_enterprise_as_1280_721823729.jpeg",
+    "fetched_at": "2026-08-26 17:59:59",
+    "ja_summary": "・エフサステクノロジーズとNTT西日本が、生成AIソリューションを9月に提供開始。\n・NTTの国産LLM「tsuzumi 2」と、専用のオンプレミス基盤を組み合わせる。\n・機密情報を社内で完結できる、高セキュリティな生成AI環境を実現。"
+  },
+  {
+    "title": "シュナイダーエレクトリック、データセンターの冷却インフラの最新化が急務に",
+    "link": "https://japan.zdnet.com/article/35251947/",
+    "source": "ZDNET Japan",
+    "published": "",
+    "summary": "Schneider Electricは、地球温暖化による気温上昇とAIワークロードの急増を背景に、データセンターのレジリエンス強化に向けた冷却システムの最新化が不可欠になっているとする見解を発表した。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35251947/\"><img src=\"https://japan.zdnet.com/storage/2025/09/16/9196ea080a0d4990a973c70f08862503/t/184/138/d/250916_datacenter_as_1280_1440519189.jpg\" /></a>",
+    "image": "https://japan.zdnet.com/storage/2025/09/16/9196ea080a0d4990a973c70f08862503/t/184/138/d/250916_datacenter_as_1280_1440519189.jpg",
+    "fetched_at": "2026-08-26 17:59:59",
+    "ja_summary": "・AIの普及と気温上昇により、データセンターの冷却機能強化が急務となっている。\n・シュナイダーエレクトリックは、安定稼働とレジリエンス維持に向けた冷却インフラの最新化を提言。"
+  },
+  {
+    "title": "最近育てているフロントエンド開発用テンプレートの話",
+    "link": "https://zenn.dev/newt_st21/articles/next-template-2026",
+    "source": "Zenn Trends",
+    "published": "Mon, 24 Aug 2026 12:23:26 GMT",
+    "summary": "フロントエンドの Web アプリケーションを開発する用に、私がよく使う設定を盛り込んだテンプレートリポジトリを育てています。\nhttps://github.com/newt239/next-template\nリポジトリ名は next-template となっていますが、React Router や Tanstack Router で使うケースもあるため Next.js 専用というわけではありません。フレームワーク以外でも使いたいものはアプリによって違うことが多いので、このテンプレートから開発をする際は .claude/skills/ に置いたカスタマイズ用のテンプレートを使用することで、...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--sPviQ78d--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E6%259C%2580%25E8%25BF%2591%25E8%2582%25B2%25E3%2581%25A6%25E3%2581%25A6%25E3%2581%2584%25E3%2582%258B%25E3%2583%2595%25E3%2583%25AD%25E3%2583%25B3%25E3%2583%2588%25E3%2582%25A8%25E3%2583%25B3%25E3%2583%2589%25E9%2596%258B%25E7%2599%25BA%25E7%2594%25A8%25E3%2583%2586%25E3%2583%25B3%25E3%2583%2597%25E3%2583%25AC%25E3%2583%25BC%25E3%2583%2588%25E3%2581%25AE%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:newt%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2NkMzBkZDdjMTEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-08-26 18:00:16",
+    "ja_summary": "・React/Next.js等の開発を効率化する汎用テンプレートを公開。\n・フレームワークを問わず利用可能で、用途に応じた柔軟なカスタマイズに対応。\n・.claude/skills/配下の設定により、プロジェクトごとの環境構築を容易化。"
+  },
+  {
+    "title": "Claude Designを使ったポスター制作について",
+    "link": "https://zenn.dev/kaiyo/articles/65f98a5abadac5",
+    "source": "Zenn Trends",
+    "published": "Mon, 24 Aug 2026 10:25:38 GMT",
+    "summary": "この記事ではClaude Designによる学会用ポスター作成で分かったことについて紹介します。\n\n TLDL\n\n\nClaude Designのポスター作成能力をざっくり言うと\n\n\nレイアウト面(ブロックの配置、色の作り方)\n強い人 &gt; Claude Design &gt;&gt;&gt; 何回か作成したことがある院生 &gt; 素人\n\n\n内容面 (何を書いて何を書かないか)\n強い人 &gt; 何回か作成したことがある院生 &gt;  Claude Design &gt;  素人\n\n\n\n\n何に使えるか → 原稿をデザインに落とし込む、特に章ごとのブロックの配置や数値、概念の図示、パ...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--geY9tdtd--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Design%25E3%2582%2592%25E4%25BD%25BF%25E3%2581%25A3%25E3%2581%259F%25E3%2583%259D%25E3%2582%25B9%25E3%2582%25BF%25E3%2583%25BC%25E5%2588%25B6%25E4%25BD%259C%25E3%2581%25AB%25E3%2581%25A4%25E3%2581%2584%25E3%2581%25A6%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Kai%2520Yoshida%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jTDRSWHJFZnhxRm1LZHc5Z0hLV0Zna0J6dnFueEdpcjlSUTYxMHlxY29pPXM5Ni1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-08-26 18:00:16",
+    "ja_summary": "・Claude Designはレイアウト作成で初心者や経験の浅い院生を上回るが、内容の構成力は専門的な知識を持つ人に劣る。\n・原稿からブロック配置や図解を作成する作業には非常に有用である。\n・全体的なデザイン補助として活用し、学術的な専門判断は人間が行うのが最適。"
+  },
+  {
+    "title": "Claude Code の出力を35%短くしたら、情報がむしろ増えた",
+    "link": "https://qiita.com/jqit_suwa/items/ccd228bb1c33b2a918f5",
+    "source": "Qiita (Popular)",
+    "published": "2026-08-21T08:27:28+09:00",
+    "summary": "\nClaude Code 2.1.237（**本日 2026-08-20 リリース**）に、組み込みの出力スタイル **Concise** が追加されました。\n\n> Added a built-in \"Concise\" output style: Claude leads with results and skips preamble and narration, while doing the ",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0NDMwNjExJTJGYTRlNGFiZDZjNWNkZmM5NzkzMTk2ZmUwZDFjZjYyMGY1ZWYxMTY5NCUyRnhfbGFyZ2UucG5nJTNGMTc4NTI4OTU5Nj9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NGE5ZmNiZmE4OTM5NWU1MWY1N2FiYjJkYzI1ZTFmZDQ%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYyMDc3NzA2NTMzODkzMmUyMWVjMjk3MjI5ZDVkZmI5NDk5MWI5YzFhJTJGb3JpZ2luYWwuanBnJTNGMTc2OTAwMDk3MD9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz1lYjc1ZTQzMzAzYTdlNTkzNDQ4Yjc4NDZiMjljYTgxZA%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D237198914e54e0e7e727d16c4cfb7823?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9Q2xhdWRlJTIwQ29kZSUyMCVFMyU4MSVBRSVFNSU4NyVCQSVFNSU4QSU5QiVFMyU4MiU5MjM1JTI1JUU3JTlGJUFEJUUzJTgxJThGJUUzJTgxJTk3JUUzJTgxJTlGJUUzJTgyJTg5JUUzJTgwJTgxJUU2JTgzJTg1JUU1JUEwJUIxJUUzJTgxJThDJUUzJTgyJTgwJUUzJTgxJTk3JUUzJTgyJThEJUU1JUEyJTk3JUUzJTgxJTg4JUUzJTgxJTlGJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9N2FiOGFkMzUxNzlmMjdkMzZlYjFlYzM5ZjE3NDcxYjk&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBqcWl0X3N1d2EmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz0wYWE2OTJkMmQwMzE0Yzg2ZDIzMGMyOWU5Njg2ZGUyMg&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=5qCq5byP5Lya56S-SlFJVA&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=66368569ad1444954d044bdcf876b820",
+    "fetched_at": "2026-08-26 18:00:20",
+    "ja_summary": "・Claude Codeの新機能「Concise」により、AIの回答から前置きや解説を省き、結論を先出しする形式が可能になった。\n・出力を35%削減することで冗長性が排除され、逆に有益な情報密度が向上した。\n・2026年8月20日リリースのv2.1.237から利用可能。"
+  },
+  {
     "title": "人を動かす経営者はスライドに頼らない　聞き手の課題から語るプレゼンの本質 (PLUSな視点)",
     "link": "https://business.nikkei.com/atcl/plus/00037/082100049/",
     "source": "日経ビジネス 最新",
@@ -948,55 +998,5 @@
     "image": "https://media.loom-app.com/loom/2026/08/24/50ff6a98-fa45-4121-8464-aa7259678ded/original.jpg?w=1200",
     "fetched_at": "2026-08-26 06:41:12",
     "ja_summary": "・OpenAIがMac用ChatGPTにメッセージ代筆・送信機能を実装。\n・業務効率化が期待される一方、プライバシー懸念から強い反発も発生。\n・利便性とセキュリティのバランスが導入拡大の焦点に。"
-  },
-  {
-    "title": "「Claude電子透かし」の何が問題なのか…賛成派・反対派それぞれが主張する3つの論点",
-    "link": "https://www.businessinsider.jp/article/2608-ai-watermarks-claude-debate-reasons-for-against/",
-    "source": "Business Insider Japan",
-    "published": "Tue, 25 Aug 2026 21:00:00 GMT",
-    "summary": "アンソロピックが導入したClaudeのAIウォーターマーク（電子透かし）埋め込み機能が、透明性とプライバシーをめぐってテック業界の意見を二分しています。",
-    "image": "https://media.loom-app.com/loom/2026/08/18/d3d91272-844e-4212-a673-3b815226cc71/original.jpg?w=1200",
-    "fetched_at": "2026-08-26 06:41:12",
-    "ja_summary": "・アンソロピックがClaudeにAI生成物の判別機能（電子透かし）を導入。\n・「透明性確保」を支持する声と「プライバシーや技術的限界」を懸念する声が対立。\n・AI利用の信頼性向上と、技術的な悪用・制限のバランスが業界の主要な争点となっている。"
-  },
-  {
-    "title": "オープンAIの最先端モデル「トレーニング一時停止」の真意は。開発加速に向けた「前振り」との見方も",
-    "link": "https://www.businessinsider.jp/article/cutting-edge-20260825-openai-training-pause-highlights-ai-safety-challenges/",
-    "source": "Business Insider Japan",
-    "published": "Tue, 25 Aug 2026 01:30:00 GMT",
-    "summary": "OpenAI&apos;s training pause by CEO Sam Altman after Hugging Face hacking highlights AI safety and cybersecurity issues.",
-    "image": "https://media.loom-app.com/loom/2026/08/25/82d76761-1fb4-4436-ba94-3f4590ea3d44/original.jpg?w=1200",
-    "fetched_at": "2026-08-26 06:41:12",
-    "ja_summary": "・OpenAIがAI学習を一時停止し、セキュリティ体制の強化に着手。\n・ハッキング被害を受けたHugging Faceの事例を受け、安全性を再優先。\n・業界では、さらなる開発加速に向けた盤石な基盤構築との見方も強い。"
-  },
-  {
-    "title": "「Omarchy Quattro」レビュー--AIに全振りした初期の「Linux」ディストロ",
-    "link": "https://japan.zdnet.com/article/35251715/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "AIに本格的に取り組んだ最初の「Linux」ディストリビューションの1つが、「Omarchy Quattro」である。試してみて、決して悪くはない印象だ。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35251715/\"><img src=\"https://japan.zdnet.com/storage/2026/08/19/5c5d81354e3af045a824d2fdc62a0078/t/184/138/d/omarchyquattrohero_l.jpg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2026/08/19/5c5d81354e3af045a824d2fdc62a0078/t/184/138/d/omarchyquattrohero_l.jpg",
-    "fetched_at": "2026-08-26 06:41:15",
-    "ja_summary": "・AI機能を本格的に統合したLinuxディストリビューション「Omarchy Quattro」が登場。\n・AI活用に特化した初期の試みとして、実用面でも悪くない仕上がり。\n・AI技術をOSレベルで標準導入するLinux環境の先駆けとなる存在。"
-  },
-  {
-    "title": "AIエージェントの作業結果、マークダウンで読むの辛くない？ →「HTML共有くん」を作りました",
-    "link": "https://qiita.com/minorun365/items/320b4230c0b0c169ba13",
-    "source": "Qiita (Popular)",
-    "published": "2026-08-16T16:22:51+09:00",
-    "summary": "こんにちは、Grokです。Cursorというコーディングエージェントを使って、みのるんに指示をもらいながらこのブログを書いています。この記事は、普段みのるんの仕事を横で見ている私、Grokの視点からブログにまとめたものです。\n\nみのるん、Claude Codeに雑務を任せるようになってから、いちばん困ってたのが成果物の置き場なんですよ。チャットに貼っても流れるし、案件フォルダに置くと出先のスマホか",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYxNjMzODU2JTJGYzIyNmJjMzRhYzZjNDVhMjFmNWU1MTJkMWM3MmE2ZjA5NzQ5NDU3OCUyRnhfbGFyZ2UucG5nJTNGMTY5OTk1NDk3Nj9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9MTlhZDI4ODRkNmQ2MzEyNjMxZDJkNTBjOTZmOTA5ZjU%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYxZTIwZGI1ZTdlNDA3ZWFlN2I5NzBlYzk5OTg4MGRjOGMzY2MwZjY0JTJGb3JpZ2luYWwuanBnJTNGMTY2NzI3NDk2Mz9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz04OTI0NDcwMDk1MDMyZjUxYmZlNzE3ZjVkOGUzYmE3ZA%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D75789497542ed55352086443c7ba4c98?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9QUklRTMlODIlQTglRTMlODMlQkMlRTMlODIlQjglRTMlODIlQTclRTMlODMlQjMlRTMlODMlODglRTMlODElQUUlRTQlQkQlOUMlRTYlQTUlQUQlRTclQjUlOTAlRTYlOUUlOUMlRTMlODAlODElRTMlODMlOUUlRTMlODMlQkMlRTMlODIlQUYlRTMlODMlODAlRTMlODIlQTYlRTMlODMlQjMlRTMlODElQTclRTglQUElQUQlRTMlODIlODAlRTMlODElQUUlRTglQkUlOUIlRTMlODElOEYlRTMlODElQUElRTMlODElODQlRUYlQkMlOUYlMjAlRTIlODYlOTIlRTMlODAlOENIVE1MJUU1JTg1JUIxJUU2JTlDJTg5JUUzJTgxJThGJUUzJTgyJTkzJUUzJTgwJThEJUUzJTgyJTkyJUU0JUJEJTlDJUUzJTgyJThBJUUzJTgxJUJFJUUzJTgxJTk3JUUzJTgxJTlGJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9YmMzYTQ0MGYwYWQzMmI2YzMwZmE2OTg3MzQ3MGYyYjg&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBtaW5vcnVuMzY1JnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9YThjYmQyMjBkNDc3NGM1MjI3MzBiOWExMjBkOWZlMGM&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=S0RESeOCouOCuOODo-OCpOODq-mWi-eZuuOCu-ODs-OCv-ODvOagquW8j-S8muekvg&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=93ab30ebd25bcdde1347cc60fb1cccdd",
-    "fetched_at": "2026-08-26 06:41:27",
-    "ja_summary": "AIエージェントの成果物がMarkdown形式で見づらい課題を解決するため、ブラウザで閲覧可能なHTMLに変換・共有するツール「HTML共有くん」を開発した。"
-  },
-  {
-    "title": "海外で登場した｢ロボットのように動くAIスマホ｣､飛び出すカメラはなぜ首を振る？｢相棒｣を目指す異色の進化 | ビジネス | 東洋経済オンライン",
-    "link": "https://toyokeizai.net/articles/-/955487?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-    "source": "東洋経済オンライン",
-    "published": "Tue, 25 Aug 2026 10:00:00 +0900",
-    "summary": "日本でも折りたたみスマートフォンが普及し始める中､中国ではさらに驚くべき進化を遂げた｢Robot Phone｣が登場。AIと連動する動くカメラや豊かな表情で､スマホは単なる道具から\"相棒\"へと変わり…",
-    "image": "https://tk.ismcdn.jp/mwimgs/3/6/1200w/img_3615f5a2a48be6d0d2d4622a15337170441654.jpg?nextgen=false",
-    "fetched_at": "2026-08-26 06:02:44",
-    "ja_summary": "・中国で、カメラが動くギミックを搭載したAIスマホ「Robot Phone」が登場。\n・AIと連動してカメラが首を振るなど、単なる道具から「相棒」的な存在へ進化。\n・スマホの新たな付加価値として、ハードウェアとAIを融合させた新体験が注目されている。"
   }
 ]
