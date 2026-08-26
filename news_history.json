@@ -1,5 +1,55 @@
 [
   {
+    "title": "セールスフォース、SlackにAIエージェントと協働でソフトを開発する機能「Slack Code」を実装",
+    "link": "https://japan.zdnet.com/article/35251934/",
+    "source": "ZDNET Japan",
+    "published": "",
+    "summary": "チャットツール「Slack」の新機能として、AIエージェントを活用したソフトウェア開発をチーム全体で進められる「Slack Code」が実装された。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35251934/\"><img src=\"https://japan.zdnet.com/storage/2026/08/26/1c01f331bea836350bcc1315de1ad13b/t/184/138/d/20260826_adobestock_726498075_1280x960.jpg\" /></a>",
+    "image": "https://japan.zdnet.com/storage/2026/08/26/1c01f331bea836350bcc1315de1ad13b/t/184/138/d/20260826_adobestock_726498075_1280x960.jpg",
+    "fetched_at": "2026-08-26 15:33:04",
+    "ja_summary": "・SlackにAIエージェントと協力してソフト開発ができる新機能「Slack Code」が実装された。\n・チーム全体でAIを活用した効率的な開発業務が可能になる。"
+  },
+  {
+    "title": "Hugging Face、130億ドル超の売却交渉が進行中との報。AI開発者プラットフォームへの関心高まる",
+    "link": "https://www.techno-edge.net/article/2026/08/25/5422.html",
+    "source": "TechnoEdge",
+    "published": "Tue, 25 Aug 2026 07:15:03 +0900",
+    "summary": "AI開発者向けプラットフォームのHugging Faceが、130億ドル（約2兆円）以上の評価額での売却に向けた交渉を進めています。",
+    "image": "https://www.techno-edge.net/imgs/rss/33801.jpg",
+    "fetched_at": "2026-08-26 15:33:06",
+    "ja_summary": "・AI開発プラットフォームのHugging Faceが、130億ドル（約2兆円）超での売却交渉中。\n・AI分野の急成長に伴い、開発基盤となる同社への投資家の関心が急上昇している。"
+  },
+  {
+    "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
+    "link": "https://openai.com/index/introducing-admin-plugin",
+    "source": "OpenAI",
+    "published": "Tue, 25 Aug 2026 00:00:00 GMT",
+    "summary": "Use the Admin plugin for ChatGPT Work and Codex to analyze workspace usage, manage members and permissions, adjust limits, and act on admin requests.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/1zAfCoZbpNwgnoboxPcQQm/ef8ec991740079de392661722eea61ee/seo-v2.png?w=1600&amp;h=900&amp;fit=fill",
+    "fetched_at": "2026-08-26 15:33:08",
+    "ja_summary": "・ChatGPT WorkおよびCodex向け「Adminプラグイン」を提供開始。\n・ワークスペースの利用状況分析、メンバー管理、権限設定が可能。\n・利用制限の調整や管理者へのリクエスト対応を一元管理できる。"
+  },
+  {
+    "title": "Funding better evaluations of AI’s impact on wellbeing",
+    "link": "https://www.anthropic.com/news/wellbeing-research-grants",
+    "source": "Anthropic (News)",
+    "published": "Tue, 25 Aug 2026 00:00:00 +0000",
+    "summary": "Funding better evaluations of AI’s impact on wellbeing",
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20HeadFlower&amp;backgroundColor=heather",
+    "fetched_at": "2026-08-26 15:33:09",
+    "ja_summary": "・AIが人々の幸福感に与える影響を適切に評価するための研究資金を拡充する。\n・AI技術が生活にもたらす恩恵とリスクを客観的に測定・検証する体制を強化する。\n・AIの社会的影響を正しく理解し、ウェルビーイング向上に繋げるための評価手法を確立する。"
+  },
+  {
+    "title": "AIにテストを書かせると、決まって同じ場所が抜ける",
+    "link": "https://qiita.com/jqit_suwa/items/a0fa9752528e2b3def71",
+    "source": "Qiita (Popular)",
+    "published": "2026-08-25T11:15:48+09:00",
+    "summary": "\nAI にテストを書かせると、AI は「問題ありません」と言います。\n\nそこで多くの人が次にやることは決まっています。**別の AI にレビューさせる**ことです。\n\nただ、それは独立したレビューになっているのでしょうか。**そして、そもそも何が抜けているのでしょうか。**\n\nこの記事では、**AI に素でテスト仕様書を書かせ、それを規格に沿って機械的に監査する**ところまでを実際にやります。その",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0NDMwNjExJTJGYTRlNGFiZDZjNWNkZmM5NzkzMTk2ZmUwZDFjZjYyMGY1ZWYxMTY5NCUyRnhfbGFyZ2UucG5nJTNGMTc4NTI4OTU5Nj9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NGE5ZmNiZmE4OTM5NWU1MWY1N2FiYjJkYzI1ZTFmZDQ%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYyMDc3NzA2NTMzODkzMmUyMWVjMjk3MjI5ZDVkZmI5NDk5MWI5YzFhJTJGb3JpZ2luYWwuanBnJTNGMTc2OTAwMDk3MD9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz1lYjc1ZTQzMzAzYTdlNTkzNDQ4Yjc4NDZiMjljYTgxZA%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D237198914e54e0e7e727d16c4cfb7823?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9QUklRTMlODElQUIlRTMlODMlODYlRTMlODIlQjklRTMlODMlODglRTMlODIlOTIlRTYlOUIlQjglRTMlODElOEIlRTMlODElOUIlRTMlODIlOEIlRTMlODElQTglRTMlODAlODElRTYlQjElQkElRTMlODElQkUlRTMlODElQTMlRTMlODElQTYlRTUlOTAlOEMlRTMlODElOTglRTUlQTAlQjQlRTYlODklODAlRTMlODElOEMlRTYlOEElOUMlRTMlODElOTElRTMlODIlOEImdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1hOGZhZDlkOTVhMjQ1OTkzNjUwZmNjMzMyMTJkODJhYg&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBqcWl0X3N1d2EmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz0wYWE2OTJkMmQwMzE0Yzg2ZDIzMGMyOWU5Njg2ZGUyMg&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=5qCq5byP5Lya56S-SlFJVA&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=34af387330526f055a8c36f380065edc",
+    "fetched_at": "2026-08-26 15:33:13",
+    "ja_summary": "AIが書いたテストコードは「問題なし」と判定されがちだが、実際には特定の漏れが生じている。\nAIによる相互レビューでは不十分なため、AIの作成物を規格に基づき機械的に監査する手法が有効。\nAIへの依存を避け、テスト仕様書の妥当性を客観的かつ厳格に検証するプロセスが重要である。"
+  },
+  {
     "title": "M6搭載の新「Mac mini」　常時稼働型エージェントコンピュータに",
     "link": "https://www.watch.impress.co.jp/docs/news/2135547.html",
     "source": "Impress Watch",
@@ -948,55 +998,5 @@
     "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03728/082000001/topm_neocloud2-.jpg?20220512",
     "fetched_at": "2026-08-26 05:01:11",
     "ja_summary": "・AI需要の急増で、GPU貸しを主軸とする新興クラウド企業「ネオクラウド」が台頭。\n・NVIDIAの巨額支援を背景に、大手テック企業が独占するクラウド市場に風穴を開けている。\n・CoreWeaveやCrusoeなどが、AI処理に特化した計算リソースで急速にシェアを拡大中。"
-  },
-  {
-    "title": "アップル、M6／M5 Pro搭載の新「Mac mini」発表--AI性能4倍　14万9800円〜で9月22日発売",
-    "link": "https://japan.cnet.com/article/35251907/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "Appleは8月25日、新チップ「M6」と「M5 Pro」を搭載した新しい「Mac mini」を発表した。同日から予約注文を受け付け、9月22日に発売する。価格はM6モデルが14万9800円（税込）から、M5 Proモデルが29万9800円（税込）から。学生・教職員向けはそれぞれ13万2800円から、28万1800円からとなる。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35251907/\"><img src=\"https://japan.cnet.com/storage/2026/08/26/7ee1206a8a82d2943d15ec2510ad14f5/t/184/138/d/Apple-Mac-mini-hero-260825_big.jpg.large.jpeg\" /></a>",
-    "image": "https://japan.cnet.com/storage/2026/08/26/7ee1206a8a82d2943d15ec2510ad14f5/t/184/138/d/Apple-Mac-mini-hero-260825_big.jpg.large.jpeg",
-    "fetched_at": "2026-08-26 05:01:16",
-    "ja_summary": "・新型Mac mini（M6／M5 Pro搭載）が発表、AI性能が4倍に向上\n・9月22日発売で、本日より予約開始\n・価格は14万9800円（税込）から、学生・教職員割引も設定"
-  },
-  {
-    "title": "口コミ増やしたい、でも“AIが書いた感”は抑えめに……カインズ、「自社商品の投稿」促すAI機能どう開発した？",
-    "link": "https://www.itmedia.co.jp/business/articles/2608/24/news059.html",
-    "source": "ITmedia ビジネス",
-    "published": "Mon, 24 Aug 2026 07:05:00 +0900",
-    "summary": "カインズは、ユーザーによる口コミ投稿の作文をAIでサポートしている。その機能を開発する上で「AI代筆の文章はユーザーの声なのか」という問いに直面。どのように解決したのだろうか。",
-    "image": "https://image.itmedia.co.jp/business/articles/2608/24/cover_news059.jpg",
-    "fetched_at": "2026-08-26 04:43:32",
-    "ja_summary": "・カインズは口コミ投稿をAIで支援する機能を導入。\n・「AIによる代筆はユーザーの声か」という課題に対し、生成内容を「叩き台」と定義し利用者が自分の言葉で調整する仕組みを構築。\n・AIの利便性とユーザーの生の声の信頼性を両立させる開発手法が注目されている。"
-  },
-  {
-    "title": "AIで「ウチの子」がそっくりフィギュアに　DMMが売っていたのは“思い出”だった",
-    "link": "https://www.itmedia.co.jp/business/articles/2608/25/news034.html",
-    "source": "ITmedia ビジネス",
-    "published": "Tue, 25 Aug 2026 07:00:00 +0900",
-    "summary": "スマートフォンで撮ったペットの写真から、AIと3DプリンターでフィギュアをつくるDMM.comの「ちょこんとフィギュア」。累計制作数は1万体を突破した。購入目的の約半数が、亡くなったペットをしのぶためだったという。",
-    "image": "https://image.itmedia.co.jp/business/articles/2608/25/cover_news034.jpg",
-    "fetched_at": "2026-08-26 04:06:46",
-    "ja_summary": "・DMMが提供する、ペット写真からAIと3Dプリンターでフィギュアを作るサービスが好評。\n・累計制作数は1万体を突破。\n・購入者の約半数が亡くなったペットをしのぶ目的で利用しており、思い出を形にするサービスとして需要が高い。"
-  },
-  {
-    "title": "「イオンお買物アプリ」、1552万会員に「170項目の趣味嗜好データ」付与　AI使った“パーソナル販促”の全容",
-    "link": "https://www.itmedia.co.jp/business/articles/2608/25/news017.html",
-    "source": "ITmedia ビジネス",
-    "published": "Tue, 25 Aug 2026 07:00:00 +0900",
-    "summary": "1500万会員を超える「イオンお買物アプリ」。会員データとAIを駆使した販促施策が成果を上げている。その全容を担当者が語った。",
-    "image": "https://image.itmedia.co.jp/business/articles/2608/25/cover_news017.jpg",
-    "fetched_at": "2026-08-26 04:06:46",
-    "ja_summary": "・イオンお買物アプリが1552万人の会員に170項目の趣味嗜好データを付与。\n・AIによる詳細な分析で、個々の顧客ニーズに合わせた販促を実施。\n・パーソナライズされたマーケティングにより高い成果を上げている。"
-  },
-  {
-    "title": "「まだ人間より働けない」フィジカルAI・Unitreeが時価総額8兆円。中国マネーが殺到した5つの理由",
-    "link": "https://www.businessinsider.jp/article/2608-insidechina-why-unitree-ipo-is-really-grown/",
-    "source": "Business Insider Japan",
-    "published": "Mon, 24 Aug 2026 22:30:00 GMT",
-    "summary": "中国のヒト型ロボットメーカーであるユニツリーが上海市場に上場。公開価格の7倍超で初値をつけ、時価総額は8兆円に達しました。なぜ本格普及前のヒト型ロボット企業にこれほど資金が殺到したのか。熱狂を生んだ5つの理由と、その裏にある「現実」を読み解きます。",
-    "image": "https://media.loom-app.com/loom/2026/08/23/4c9328c2-1b9a-4d91-b857-f3c55c70642e/original.jpg?w=1200",
-    "fetched_at": "2026-08-26 04:07:06",
-    "ja_summary": "・中国のロボット企業Unitreeが上場し、時価総額8兆円の評価を獲得。\n・普及前段階にもかかわらず投資家が殺到した背景には、成長期待と中国市場の資金力がある。\n・「まだ人間より働けない」という技術的現実と、市場の過熱感のギャップを考察。"
   }
 ]
