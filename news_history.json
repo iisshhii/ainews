@@ -1,5 +1,35 @@
 [
   {
+    "title": "米アプライド･マテリアルズの最新決算が映す｢AI半導体の供給逼迫｣ 顧客は2年先まで発注を確約 | 政治・経済・投資 | 東洋経済オンライン",
+    "link": "https://toyokeizai.net/articles/-/955686?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+    "source": "東洋経済オンライン",
+    "published": "Sun, 30 Aug 2026 07:00:00 +0900",
+    "summary": "アメリカの半導体製造装置最大手アプライド･マテリアルズは､AIブームを背景に過去最高の業績を記録しました。",
+    "image": "https://tk.ismcdn.jp/mwimgs/6/5/1200w/img_65402b723e49477f9130ed40c082d30772909.jpg?nextgen=false",
+    "fetched_at": "2026-08-30 08:28:09",
+    "ja_summary": "・米アプライド・マテリアルズがAIブームにより過去最高の業績を記録。\n・AI半導体の需要が急増し、製造装置の供給が深刻な逼迫状態にある。\n・顧客企業は製品確保のため、2年先までの発注を確約する異例の状況。"
+  },
+  {
+    "title": "メタ､マイクロソフト､グーグル､オープンAI…テック企業経営者は｢子どものスマホ･SNS利用｣をどう考えているか | 政治・経済・投資 | 東洋経済オンライン",
+    "link": "https://toyokeizai.net/articles/-/955800?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+    "source": "東洋経済オンライン",
+    "published": "Sun, 30 Aug 2026 06:30:00 +0900",
+    "summary": "｢基本的に､自分の子どもたちにはテレビやコンピューターの前で長時間過ごしてほしくない｣。メタCEOのマーク･ザッカーバーグはかつてこのように語っていました。",
+    "image": "https://tk.ismcdn.jp/mwimgs/6/a/1200w/img_6a50167d6e5b7ea0e9fc64c18c85286b86880.jpg?nextgen=false",
+    "fetched_at": "2026-08-30 08:28:09",
+    "ja_summary": "・メタ、Google、OpenAIなどのテック大手経営者は、自らの子どもに対してデジタル機器やSNSの過度な利用を厳しく制限している。\n・彼らはテクノロジーの影響力を熟知しているからこそ、子どもの依存や健康被害を懸念し、リアルな体験や対面交流を優先させている。\n・開発者自身が自社サービスの弊害を警戒している事実は、テクノロジーとの適度な距離感の重要性を物語っている。"
+  },
+  {
+    "title": "Claude Code に制限モードが入った。自作スキル47本が0本になった",
+    "link": "https://qiita.com/jqit_suwa/items/4183a8e97738ba45f435",
+    "source": "Qiita (Popular)",
+    "published": "2026-08-28T17:00:02+09:00",
+    "summary": "\n`--restricted` が **Claude Code 2.1.248 で追加**されました（測定に使ったのは 2.1.250）。\n\n公式の説明は「コマンド実行系のツールと WebFetch を外し、ファイル操作を作業ディレクトリに限定する」です。**安全に使うためのモード**という書き方をしています。\n\n手元で測ったら、**それだけではありませんでした。**\n\n```\nツール      ",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0NDMwNjExJTJGYTRlNGFiZDZjNWNkZmM5NzkzMTk2ZmUwZDFjZjYyMGY1ZWYxMTY5NCUyRnhfbGFyZ2UucG5nJTNGMTc4NTI4OTU5Nj9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NGE5ZmNiZmE4OTM5NWU1MWY1N2FiYjJkYzI1ZTFmZDQ%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYyMDc3NzA2NTMzODkzMmUyMWVjMjk3MjI5ZDVkZmI5NDk5MWI5YzFhJTJGb3JpZ2luYWwuanBnJTNGMTc2OTAwMDk3MD9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz1lYjc1ZTQzMzAzYTdlNTkzNDQ4Yjc4NDZiMjljYTgxZA%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D237198914e54e0e7e727d16c4cfb7823?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9Q2xhdWRlJTIwQ29kZSUyMCVFMyU4MSVBQiVFNSU4OCVCNiVFOSU5OSU5MCVFMyU4MyVBMiVFMyU4MyVCQyVFMyU4MyU4OSVFMyU4MSU4QyVFNSU4NSVBNSVFMyU4MSVBMyVFMyU4MSU5RiVFMyU4MCU4MiVFOCU4NyVBQSVFNCVCRCU5QyVFMyU4MiVCOSVFMyU4MiVBRCVFMyU4MyVBQjQ3JUU2JTlDJUFDJUUzJTgxJThDMCVFNiU5QyVBQyVFMyU4MSVBQiVFMyU4MSVBQSVFMyU4MSVBMyVFMyU4MSU5RiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPWI3NmY5MjA1NTk1MzQzNGE5NGIwNDI5ODg2ZmVlMDdi&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBqcWl0X3N1d2EmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz0wYWE2OTJkMmQwMzE0Yzg2ZDIzMGMyOWU5Njg2ZGUyMg&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=5qCq5byP5Lya56S-SlFJVA&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=4ef75ca10160a1d295d5bdbd81cc1669",
+    "fetched_at": "2026-08-30 08:28:44",
+    "ja_summary": "Claude Codeに導入された制限モード（--restricted）により、コマンド実行やWeb閲覧が禁止され、ファイル操作も制限される。\n安全性向上のための措置だが、実質的にこれまで使えていた47個の自作ツールが一切利用不可となった。\n利便性とセキュリティがトレードオフの関係にあり、カスタマイズ環境での運用に大きな影響が出ている。"
+  },
+  {
     "title": "半導体サプライチェーンからイノベーション･エコシステムへ――台湾の次に目指すべき成長戦略 | ビジネス | 東洋経済オンライン",
     "link": "https://toyokeizai.net/articles/-/956160?utm_source=rss&utm_medium=http&utm_campaign=link_back",
     "source": "東洋経済オンライン",
@@ -968,35 +998,5 @@
     "image": "https://www.watch.impress.co.jp/img/ipw/list/2135/519/k001.jpg",
     "fetched_at": "2026-08-28 10:35:00",
     "ja_summary": "・日本国内でAIデータセンターの整備がようやく本格化。\n・世界的な競争が激化する中、電力確保や立地戦略が重要な課題となっている。\n・日本のデジタル基盤構築に向けた動向と直面する障壁を解説。"
-  },
-  {
-    "title": "サムスン「Galaxy S26 FE」発表、AIカメラ機能充実もコスパに陰り",
-    "link": "https://japan.cnet.com/article/35252008/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "サムスンは、新型スマートフォン「Galaxy S26 FE」を発表した。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35252008/\"><img src=\"https://japan.cnet.com/storage/2026/08/28/a0ebdc0020b23b4deff392c39b1366e6/t/184/138/d/Samsung-S26-FE-24_1280x960.jpg\" /></a>",
-    "image": "https://japan.cnet.com/storage/2026/08/28/a0ebdc0020b23b4deff392c39b1366e6/t/184/138/d/Samsung-S26-FE-24_1280x960.jpg",
-    "fetched_at": "2026-08-28 10:35:04",
-    "ja_summary": "サムスンが新スマホ「Galaxy S26 FE」を発表。AIカメラ機能は強化されたが、価格は上昇傾向。"
-  },
-  {
-    "title": "グーグル、「Fitbit Air」にポケモンスリープ限定モデル　測った睡眠でゲームが進む、9月15日発売",
-    "link": "https://japan.cnet.com/article/35252003/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "グーグルは8月27日、リストバンド型トラッカー「Google Fitbit Air」の限定モデル「Pokémon Sleep」を発表した。スマートフォンゲーム『Pokémon Sleep（ポケモンスリープ）』と連携し、トラッカーで測った睡眠時間がそのままゲームの進行に反映される。Google Storeでオンライン予約の受け付けを始めており、9月15日に発売する。価格は税込1万9800円。ポケモンが今年30周年を迎えたのに合わせた製品だ。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35252003/\"><img src=\"https://japan.cnet.com/storage/2026/08/28/38bdaefe6f9d3ca2b28009eb5ba93490/t/184/138/d/Pokemon_Fitbit_Air_Design_Intro_.width-2000.format-webp.jpeg\" /></a>",
-    "image": "https://japan.cnet.com/storage/2026/08/28/38bdaefe6f9d3ca2b28009eb5ba93490/t/184/138/d/Pokemon_Fitbit_Air_Design_Intro_.width-2000.format-webp.jpeg",
-    "fetched_at": "2026-08-28 10:35:04",
-    "ja_summary": "・グーグルが睡眠計測機「Fitbit Air」の『ポケモンスリープ』限定モデルを9月15日に発売。\n・計測した睡眠時間がゲームの進行に反映される連携機能を搭載。\n・価格は税込1万9800円で、現在Google Storeにて予約受付中。"
-  },
-  {
-    "title": "アップル、9月10日に新製品発表へ　「折りたたみ式iPhone」登場か",
-    "link": "https://japan.cnet.com/article/35251956/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "アップルは、毎年秋に開く「iPhone」発表イベントの招待状を送付した。今回の目玉となりそうなのは、待望の「iPhone Fold」をはじめ、「iPhone 18」シリーズ、新型「Apple Watch」、アップデートされた「AirPods」だ。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35251956/\"><img src=\"https://japan.cnet.com/storage/2026/08/27/d6de5d1dd100fbf456eb77c215066e28/t/184/138/d/image-8-2_1280x960.jpg\" /></a>",
-    "image": "https://japan.cnet.com/storage/2026/08/27/d6de5d1dd100fbf456eb77c215066e28/t/184/138/d/image-8-2_1280x960.jpg",
-    "fetched_at": "2026-08-28 10:35:04",
-    "ja_summary": "・アップルが9月10日に新製品発表イベントを開催。\n・「iPhone 18」シリーズに加え、待望の「折りたたみ式iPhone」が登場する可能性がある。\n・新型「Apple Watch」やアップデートされた「AirPods」も発表される見込み。"
   }
 ]
