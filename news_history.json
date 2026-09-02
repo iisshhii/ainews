@@ -1,5 +1,45 @@
 [
   {
+    "title": "How Claude’s text watermark works",
+    "link": "https://www.anthropic.com/news/claude-text-watermark",
+    "source": "Anthropic (News)",
+    "published": "Fri, 14 Aug 2026 00:00:00 +0000",
+    "summary": "How Claude’s text watermark works",
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Quill&amp;backgroundColor=heather",
+    "fetched_at": "2026-09-03 02:09:23",
+    "ja_summary": "・Claudeが生成したテキストには、AIによる出力であることを識別するための独自の透かし（ウォーターマーク）が埋め込まれている。\n・この仕組みにより、AI生成コンテンツの検知精度が向上し、悪用対策や透明性の確保に貢献する。\n・テキストの微細なパターンを調整することで、文章の品質を損なわずにAI生成物であることを判別可能にする。"
+  },
+  {
+    "title": "Chainguardに学ぶセキュアなコンテナイメージの作り方",
+    "link": "https://zenn.dev/ymotongpoo/books/chainguard-image-toolchain",
+    "source": "Zenn Trends",
+    "published": "Wed, 02 Sep 2026 05:25:32 GMT",
+    "summary": "Chainguard社はDockerfileを使わず、melangeとapkoという2つのOSSツールを組み合わせてセキュアなコンテナイメージを作っています。本書はこの2ツールとWolfi OSがどう連携しているかを、概念の説明とハンズオンを交互に積み重ねながら手元で確かめる本です。ソースコードからAPKパッケージを作り、それをコンテナイメージに組み立て、実際にレジストリへ配布するところまで扱います。",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--lKfHi0Uo--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYm9va19jb3Zlci83ZDQzYjJlMjA5LnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg?_a=BACMTiAE",
+    "fetched_at": "2026-09-03 02:09:24",
+    "ja_summary": "・Chainguard社の独自ツール「melange」と「apko」を活用した、セキュアなコンテナ構築手法を学べる。\n・Wolfi OSを基盤とし、ソースからパッケージ化、配布までの工程をハンズオン形式で習得可能。\n・Dockerfileに頼らない、より安全で効率的なコンテナイメージ作成術を網羅したガイドブック。"
+  },
+  {
+    "title": "会話セッションを邪魔せずに Claude Code / Codex / Cursor を外部イベントで動かすCLIの作り方まとめ",
+    "link": "https://zenn.dev/coji/articles/artifactshare-preview-claude-codex-cursor",
+    "source": "Zenn Trends",
+    "published": "Tue, 01 Sep 2026 01:03:04 GMT",
+    "summary": "これはなに？\n今年の5月ごろから、Artifact Share というサービスを自分で使うためにソース公開で作り続けています。AIエージェントが作ったHTMLやMarkdownをURLで共有するものです。そのCLIに preview というローカルコマンドを追加しました。ブラウザ上でファイルの要素をクリックして指摘を書くと、Claude Code・Codex・Cursor がファイルを直し、ブラウザが自動リロードで結果を見せます。動画が一番早いです。\n\nここから先は仕組みの話です。サインイン・アップロード不要のローカル機能で、実装は公開しています。\nhttps://github.co...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--17V_2YlN--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E4%25BC%259A%25E8%25A9%25B1%25E3%2582%25BB%25E3%2583%2583%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3%25E3%2582%2592%25E9%2582%25AA%25E9%25AD%2594%25E3%2581%259B%25E3%2581%259A%25E3%2581%25AB%2520Claude%2520Code%2520%252F%2520Codex%2520%252F%2520Cursor%2520%25E3%2582%2592%25E5%25A4%2596%25E9%2583%25A8%25E3%2582%25A4%25E3%2583%2599%25E3%2583%25B3%25E3%2583%2588%25E3%2581%25A7%25E5%258B%2595%25E3%2581%258B%25E3%2581%2599CLI...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Coji%2520Mizoguchi%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2pWY2RrNjcwV2NIdGs0anBHa2FGTDAxcERVUVlIX0JYdWE5aDRVNVE9czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-09-03 02:09:26",
+    "ja_summary": "・「Artifact Share」のCLIに、ブラウザ上の指摘をAIが即座にコードへ反映する「preview」機能を追加。\n・Claude CodeやCursorと連携し、ブラウザ上でUIを直接修正・自動リロードする開発体験を実現。\n・サインインやアップロード不要のローカル完結型ツールとして、仕組みをオープンソースで公開。"
+  },
+  {
+    "title": "DGX Sparkを2台使って いろいろ動かす話",
+    "link": "https://speakerdeck.com/sonoda_mj/dgx-spark-2-dai-zukai-shuuseiban-rinku-sakujozumi",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-09-02T07:20:58-04:00",
+    "summary": "コーディングのためのローカルLLM勉強会 in 東京\nhttps://lycorptech-jp.connpass.com/event/402836/",
+    "image": "https://files.speakerdeck.com/presentations/78ac1605205b4d708ed20983deb6afc4/preview_slide_0.jpg?40442172",
+    "fetched_at": "2026-09-03 02:09:26",
+    "ja_summary": "・高性能GPU「DGX Spark」2台を活用したローカルLLM環境の構築・運用を学ぶ勉強会。\n・東京で開催される、コーディングに特化したエンジニア向けの技術交流イベント。\n・実機を用いたLLMの活用事例や、ローカル環境でのLLM運用ノウハウを共有。"
+  },
+  {
     "title": "「ChatGPT」一部プランに広告表示、売上高は年1600億円ペース　「Google」「Meta」の牙城を崩せるか",
     "link": "https://www.itmedia.co.jp/business/articles/2609/01/news074.html",
     "source": "ITmedia ビジネス",
@@ -958,45 +998,5 @@
     "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYyMTUxMjglMkZjZDcxOTM0ZjMxOGIwMGYwZGQ0OTU3YjU4NTBiYzk4MGM5MjEwNGVkJTJGeF9sYXJnZS5wbmclM0YxNjM4NzU1ODYzP2l4bGliPXJiLTQuMS4xJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz1lMDhiYmM5MzJlMTE2NDA3YTY4MmY0ZWQyNTA1Nzg0Nw%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D05a90f6a0cfd4ac041aa6e8649c9441c?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUU2JTk2JUIwJUU0JUJBJUJBQUklRTclQTYlODElRTYlQUQlQTIlRTMlODElQUUlRTMlODElODIlRTMlODElQTglRTMlODAlODElRTMlODAlOEMlRTYlOTYlQjAlRTQlQkElQkFBSSVFNSU4OCVCNiVFNSVCRSVBMSVFNiU5NSU5OSVFOCU4MiVCMiVFMyU4MyU4RiVFMyU4MyVCQyVFMyU4MyU4RCVFMyU4MiVCOSVFMyU4MCU4RCVFMyU4MiU5MiVFOSU4NSU4RCVFMyU4MSVBMyVFMyU4MSU5RiVFNyVCNSU5MCVFNiU5RSU5QyVFRiVCQyU4OFNraWxsJUU1JThFJTlGJUU2JTk2JTg3JUUzJTgxJTgyJUUzJTgyJThBJUVGJUJDJTg5JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9MjgxZDk3N2NhMWZhOTkzZjNjOTRmZDNjYTgxOWMzNTE&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBXZGtuV2RrbiZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTUzYWI2ZTI2ODZiMTllNjc1Y2M0ZjQyY2VlYjRjZDg1&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=8422429048df3ebae89f8fcb9ada4c5f",
     "fetched_at": "2026-09-02 04:42:27",
     "ja_summary": "新人研修でAI利用を禁止した経緯を踏まえ、AIの出力を鵜呑みにしないための「制御教育ハーネス」を導入。\n自力で論理を構築する力を養い、AIを思考の補助ツールとして適切に使いこなすための指針を策定した。\nAI任せの学習から脱却させ、技術的根拠を理解した上で活用できるエンジニアの育成を目指す。"
-  },
-  {
-    "title": "「AIは代理人ではなく共生・協働する存在」MUFG亀澤会長らが討論 (AIリーダーズ)",
-    "link": "https://business.nikkei.com/atcl/gen/19/00711/090100044/",
-    "source": "日経ビジネス 最新",
-    "published": "",
-    "summary": "経営者や有識者がAI時代の成長戦略を議論する「AIリーダーズ会議 2026 Autumn」の初日が開催され、MUFGの亀澤会長らが登壇した。",
-    "image": "https://business.nikkei.com/atcl/gen/19/00711/090100044/fb.jpg",
-    "fetched_at": "2026-09-02 01:54:23",
-    "ja_summary": "・「AIリーダーズ会議2026」にて、MUFG亀澤会長らがAI時代の成長戦略を議論\n・AIは単なる業務の代理人ではなく、人間と「共生・協働」する存在と定義\n・今後のビジネスにおいて、AIと人間が価値を創出する新たな関係性が重要視される"
-  },
-  {
-    "title": "日立レール、欧州企業買収で鉄道事業1兆円　「1万枚の設計書」が生んだ絆 (日立の危機感)",
-    "link": "https://business.nikkei.com/atcl/gen/19/00917/082700005/",
-    "source": "日経ビジネス 最新",
-    "published": "",
-    "summary": "日立製作所が次の成長の柱に据えるのが、フィジカルAIだ。その先兵となったのが、鉄道事業を担う日立レール。M&amp;A（合併・買収）を重ね、売上高は1兆円を超えた。その基盤の形成には地道なPMI（買収後の統合作業）があった。",
-    "image": "https://business.nikkei.com/atcl/gen/19/00917/082700005/fb.jpg",
-    "fetched_at": "2026-09-02 01:54:23",
-    "ja_summary": "・日立レールはM&Aを重ね、売上高1兆円規模の事業へと成長した。\n・成長の鍵は、買収後の地道な統合作業（PMI）による組織の結束にある。\n・今後はフィジカルAIを軸に、鉄道事業を次なる成長の柱として強化する。"
-  },
-  {
-    "title": "「カスハラ労災」は防げる　暴言に消耗する社員のケア、管理職に4つの役割 (日経トップリーダー)",
-    "link": "https://business.nikkei.com/atcl/seminar/19nv/120500136/082501481/",
-    "source": "日経ビジネス 最新",
-    "published": "",
-    "summary": "カスハラ被害は「迷惑な客対応」の域を超え、労災に直結する深刻な事態に。社員の健康を守り、事業を継続する鍵が、管理職による「ラインケア」だ。業界・地域で共通の指針策定や、AIを活用して対応策を学ぶ動きもある。",
-    "image": "https://business.nikkei.com/atcl/seminar/19nv/120500136/082501481/fb.jpg",
-    "fetched_at": "2026-09-02 01:54:24",
-    "ja_summary": "・カスハラは労災リスクを伴う深刻な問題であり、管理職による「ラインケア」が社員の健康と事業継続の鍵となる。\n・管理職は組織として対応方針を明確にし、社員のメンタルケアや安全確保を主導する役割が求められる。\n・業界共通の指針策定やAI研修など、個人の対応に依存せず組織全体で守る体制構築が不可欠。"
-  },
-  {
-    "title": "伊藤忠商事、AIで変わるIT市場に布石　電通総研に最大2152億円でTOB",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/12008/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "伊藤忠商事は2026年8月31日、電通グループとの戦略提携を発表した。子会社を通じて電通総研株の約38％取得を目指すTOBを実施する。AI普及でITサービス業界の競争軸が上流工程へ移るなか、2000億円超を投じて「デジタル事業群」の上流強化を急ぐ。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/12008/topm.jpg?20220512",
-    "fetched_at": "2026-09-02 01:54:28",
-    "ja_summary": "・伊藤忠商事が電通総研に最大2152億円でTOBを実施し、約38％の株式取得を目指す。\n・AI普及によるIT市場の変化に対応し、デジタル事業の上流工程を強化する狙い。\n・電通グループとの戦略提携を通じて、高付加価値なITサービスの提供体制を急ぐ。"
   }
 ]
