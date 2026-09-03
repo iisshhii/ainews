@@ -1,5 +1,15 @@
 [
   {
+    "title": "Chainguardに学ぶセキュアなコンテナイメージの作り方",
+    "link": "https://zenn.dev/ymotongpoo/books/chainguard-image-toolchain",
+    "source": "Zenn Trends",
+    "published": "Wed, 02 Sep 2026 05:25:32 GMT",
+    "summary": "Chainguard社はDockerfileを使わず、melangeとapkoという2つのOSSツールを組み合わせてセキュアなコンテナイメージを作っています。本書はこの2ツールとWolfi OSがどう連携しているかを、概念の説明とハンズオンを交互に積み重ねながら手元で確かめる本です。ソースコードからAPKパッケージを作り、それをコンテナイメージに組み立て、実際にレジストリへ配布するところまで扱います。",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--lKfHi0Uo--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYm9va19jb3Zlci83ZDQzYjJlMjA5LnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg?_a=BACMTiAE",
+    "fetched_at": "2026-09-04 04:50:57",
+    "ja_summary": "Chainguard流の「melange」と「apko」を活用し、Dockerfileを使わずにセキュアなコンテナイメージを構築する手法を解説。\n開発からレジストリ配布まで、Wolfi OSと連携させた一連の流れをハンズオン形式で習得できる。\n脆弱性のリスクを最小限に抑えた、より安全で近代的なイメージ作成技術のガイドブック。"
+  },
+  {
     "title": "馬と対話、沢登り……大自然で経営者を育成　内省・冒険・総合知で鍛える「心技体」 (社長のつくり方　40代からではもう遅い)",
     "link": "https://business.nikkei.com/atcl/NBD/19/special/02635/",
     "source": "日経ビジネス 最新",
@@ -988,15 +998,5 @@
     "image": "https://files.speakerdeck.com/presentations/dd0e64518ca84549a4e6bd028b84641b/preview_slide_0.jpg?40444481",
     "fetched_at": "2026-09-03 04:46:50",
     "ja_summary": "・古い地図や絵地図を現代の地図と正確に重ね合わせるオープンソース技術「Maplat」の10年間の歩みと活用事例を紹介。\n・地図の「歪み」を欠陥ではなく時代の文化的情報と捉え、あえて活かす独自の座標変換技術で歴史GISや観光分野に貢献。\n・現在は3D化といった新たな技術課題に直面しており、コミュニティと共に技術の発展と可能性を追求する。"
-  },
-  {
-    "title": "How Claude’s text watermark works",
-    "link": "https://www.anthropic.com/news/claude-text-watermark",
-    "source": "Anthropic (News)",
-    "published": "Fri, 14 Aug 2026 00:00:00 +0000",
-    "summary": "How Claude’s text watermark works",
-    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Quill&amp;backgroundColor=heather",
-    "fetched_at": "2026-09-03 02:09:23",
-    "ja_summary": "・Claudeが生成したテキストには、AIによる出力であることを識別するための独自の透かし（ウォーターマーク）が埋め込まれている。\n・この仕組みにより、AI生成コンテンツの検知精度が向上し、悪用対策や透明性の確保に貢献する。\n・テキストの微細なパターンを調整することで、文章の品質を損なわずにAI生成物であることを判別可能にする。"
   }
 ]
