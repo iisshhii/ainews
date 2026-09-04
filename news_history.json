@@ -1,5 +1,105 @@
 [
   {
+    "title": "「あえてAIと声高に言うな」　住友化学、LINEヤフー、ディップに学ぶ“生成AI全社定着”の極意",
+    "link": "https://www.itmedia.co.jp/business/articles/2609/03/news043.html",
+    "source": "ITmedia ビジネス",
+    "published": "Thu, 03 Sep 2026 11:30:00 +0900",
+    "summary": "生成AIを個人の業務効率化ツールで終わらせず、全社規模での活用を推進し、競争優位につなげるには何が必要なのか。生成AI活用に取り組む住友化学、LINEヤフー、ディップの見解をまとめた。",
+    "image": "https://image.itmedia.co.jp/business/articles/2609/03/cover_news043.jpg",
+    "fetched_at": "2026-09-04 22:07:27",
+    "ja_summary": "・生成AIを単なる個人の効率化ツールに留めず、全社規模で活用し競争優位に繋げるべき。\n・「AI」と過度に強調せず、自然な業務フローに組み込むことが定着の鍵。\n・住友化学・LINEヤフー・ディップの事例から、組織全体での浸透手法を学ぶ。"
+  },
+  {
+    "title": "テスラ、ハンドルなしE2E自動運転車の配車開始　ブレーキにも革新",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03564/090400005/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "テスラはハンドルやペダルのないロボタクシー「サイバーキャブ）」の配車サービスを始めた。AIを全面活用するE2E自動運転技術を搭載し、人の監視がいらない「レベル4」を実現する。油圧を使わない電動ブレーキ（EMB）や希土類（レアアース）不使用の駆動モーターなどの新技術も採用した。サイバーキャブの成否はテスラの今後だけでなく、自動車産業の行方を左右する可能性がある。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03564/090400005/topm.jpg?20220512",
+    "fetched_at": "2026-09-04 22:07:35",
+    "ja_summary": "・テスラがハンドルやペダルを持たない完全自動運転車「サイバーキャブ」の運用を開始。\n・AIによる「レベル4」自動運転に加え、電動ブレーキやレアアース不使用モーター等の新技術を搭載。\n・同車の成否が、テスラのみならず自動車産業全体の未来を左右する注目技術として展開される。"
+  },
+  {
+    "title": "NY市 小中学校でAIを原則禁止へ",
+    "link": "https://news.yahoo.co.jp/pickup/6594089?source=rss",
+    "source": "Yahoo!ニュース IT・科学",
+    "published": "Thu, 03 Sep 2026 04:00:18 GMT",
+    "summary": "",
+    "image": "https://s.yimg.jp/images/news-web/versions/20260904-39b426a/all/images/ogp_default.png",
+    "fetched_at": "2026-09-04 22:07:46",
+    "ja_summary": "・ニューヨーク市の公立小中学校で、生成AI（ChatGPT等）の利用が原則禁止に。\n・生徒の学習への悪影響や、情報の正確性・安全性が懸念材料。\n・教育現場でのAI活用に関するガイドライン作成に向けた検討が進められる。"
+  },
+  {
+    "title": "AIでチーム感が薄れたSREチームで始めた、AIによる週次チーム評価",
+    "link": "https://zenn.dev/hubble/articles/ee2f962e0a69f1",
+    "source": "Zenn Trends",
+    "published": "Fri, 04 Sep 2026 03:57:56 GMT",
+    "summary": "こんにちはHubble SREチームの三橋です！\n本日はSREチームのチーム力強化のために取り組んだ内容についてご紹介したいと思います。\n先日のSRE NEXTでは、今後の課題としてチーム力を高めていく必要がある旨をお話ししました。あれから施策に取り組み、多少状況が改善されてきたため、今回はその内容に触れようと思います。具体的にはコミュニケーションの場を再設計し、チームの状態をAIに週次で評価させるようにしました。まだ始めたばかりで見えていない部分も多いのですが、方向性としては間違っていなさそうだという感触は得られています。\nhttps://speakerdeck.com/kmitsuh...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--kM4SnJDz--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%25E3%2581%25A7%25E3%2583%2581%25E3%2583%25BC%25E3%2583%25A0%25E6%2584%259F%25E3%2581%258C%25E8%2596%2584%25E3%2582%258C%25E3%2581%259FSRE%25E3%2583%2581%25E3%2583%25BC%25E3%2583%25A0%25E3%2581%25A7%25E5%25A7%258B%25E3%2582%2581%25E3%2581%259F%25E3%2580%2581AI%25E3%2581%25AB%25E3%2582%2588%25E3%2582%258B%25E9%2580%25B1%25E6%25AC%25A1%25E3%2583%2581%25E3%2583%25BC%25E3%2583%25A0%25E8%25A9%2595%25E4%25BE%25A1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Mitsuhashi%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2I3ZjM3MmJiODUuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Hubble%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzU3MDM4MDgyNzQuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-09-04 22:07:53",
+    "ja_summary": "SREチームの希薄化した連帯感を改善するため、コミュニケーションの場を再設計した。\nAIを活用し、週次でチームの状態を評価させる施策を導入した。\n開始直後ながら、チーム力強化に向けた改善の手応えを感じている。"
+  },
+  {
+    "title": "Next.js 使いが React Native + Expo でモバイルアプリ開発に入門するだけ",
+    "link": "https://zenn.dev/livetoon/articles/react-native-expo-for-nextjs-users",
+    "source": "Zenn Trends",
+    "published": "Thu, 03 Sep 2026 10:35:53 GMT",
+    "summary": "自己紹介\nはじめまして、さか（saka-naname）と申します。株式会社 Livetoon でインターン生として働いており、主に旧 Web 版及び現行の React Native 製アプリ版の「kaiwa」バージョン 2.0 の開発や、その他フロントエンド開発業務に携わっています。\n\n Tataraとは\nTataraは、自分の3Dモデルに声・性格・口調・役割を設定し、会話や作業ができるAIキャラクターへ育てるサービスです。\n2026年9月に正式リリースを予定しており、8月現在は招待制で提供されています。また、WindowsとmacOSに対応しています。\nhttps://ta-ta-...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--8P0pXGK0--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Next.js%2520%25E4%25BD%25BF%25E3%2581%2584%25E3%2581%258C%2520React%2520Native%2520%252B%2520Expo%2520%25E3%2581%25A7%25E3%2583%25A2%25E3%2583%2590%25E3%2582%25A4%25E3%2583%25AB%25E3%2582%25A2%25E3%2583%2597%25E3%2583%25AA%25E9%2596%258B%25E7%2599%25BA%25E3%2581%25AB%25E5%2585%25A5%25E9%2596%2580%25E3%2581%2599%25E3%2582%258B%25E3%2581%25A0%25E3%2581%2591%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E3%2581%2595%25E3%2581%258B%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzM2NjI1NGZkZGMuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Livetoon%2520Inc.%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzljZjA0MWUxZjIuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-09-04 22:07:54",
+    "ja_summary": "Next.js開発者がReact NativeとExpoを用いてモバイルアプリ開発に挑戦する知見を紹介。\n対象サービス「Tatara」は、AIキャラクターを作成・育成できる2026年正式リリースのアプリ。\nWeb技術の知見を活かしたモバイル開発へのアプローチと、開発中のサービス概要を共有。"
+  },
+  {
+    "title": "PfEingのアプローチで働こう",
+    "link": "https://speakerdeck.com/rindrics/pfeing-no-apurochi-de-hatarakou",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-09-04T08:34:25-04:00",
+    "summary": "プラットフォームチームには、プラットフォームチームとして必要な働き方がある。\n【3-shake × enechain】SRE Tech Talk #15",
+    "image": "https://files.speakerdeck.com/presentations/1e9dfa1f9fb84c049ff2d52837afd1be/preview_slide_0.jpg?40466784",
+    "fetched_at": "2026-09-04 22:07:58",
+    "ja_summary": "・プラットフォームチーム特有の最適な働き方やアプローチを解説。\n・3-shakeとenechainによるSRE Tech Talkの第15弾。\n・プラットフォームエンジニアリングの現場で求められる役割と指針を共有。"
+  },
+  {
+    "title": "Driving AI Adoption Using In-House GPUs to Serve Qwen",
+    "link": "https://speakerdeck.com/po3rin/driving-ai-adoption-using-in-house-gpus-to-serve-qwen",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-09-04T06:14:37-04:00",
+    "summary": "",
+    "image": "https://files.speakerdeck.com/presentations/1441f947c9b14d4d99f59e41e7361e17/preview_slide_0.jpg?40466031",
+    "fetched_at": "2026-09-04 22:07:58",
+    "ja_summary": "・自社保有のGPUを活用し、AIモデル「Qwen」を運用する体制を構築。\n・外部クラウド依存を減らし、AI導入コストの最適化と運用効率を向上。\n・社内リソースによるAI活用を加速させ、技術開発の柔軟性を高める。"
+  },
+  {
+    "title": "Anthropic がコマース用エージェントをオープンソース化した",
+    "link": "https://qiita.com/suwa_nobu/items/1c0f27da8eb685f6ba05",
+    "source": "Qiita (Popular)",
+    "published": "2026-09-03T08:39:20+09:00",
+    "summary": "\n9月2日、Anthropic が **[anthropics/commerce-agents](https://github.com/anthropics/commerce-agents)** を公開しました。**Apache 2.0** です。\n\n「Claude でショッピングエージェントを作るときの参考実装」で、**動くコードがそのまま入っています。** 何が入っているのかを整理します。\n\n",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0NDMwNjExJTJGYTRlNGFiZDZjNWNkZmM5NzkzMTk2ZmUwZDFjZjYyMGY1ZWYxMTY5NCUyRnhfbGFyZ2UucG5nJTNGMTc4NTI4OTU5Nj9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NGE5ZmNiZmE4OTM5NWU1MWY1N2FiYjJkYzI1ZTFmZDQ%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYyMDc3NzA2NTMzODkzMmUyMWVjMjk3MjI5ZDVkZmI5NDk5MWI5YzFhJTJGb3JpZ2luYWwuanBnJTNGMTc2OTAwMDk3MD9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz1lYjc1ZTQzMzAzYTdlNTkzNDQ4Yjc4NDZiMjljYTgxZA%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D237198914e54e0e7e727d16c4cfb7823?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9QW50aHJvcGljJTIwJUUzJTgxJThDJUUzJTgyJUIzJUUzJTgzJTlFJUUzJTgzJUJDJUUzJTgyJUI5JUU3JTk0JUE4JUUzJTgyJUE4JUUzJTgzJUJDJUUzJTgyJUI4JUUzJTgyJUE3JUUzJTgzJUIzJUUzJTgzJTg4JUUzJTgyJTkyJUUzJTgyJUFBJUUzJTgzJUJDJUUzJTgzJTk3JUUzJTgzJUIzJUUzJTgyJUJEJUUzJTgzJUJDJUUzJTgyJUI5JUU1JThDJTk2JUUzJTgxJTk3JUUzJTgxJTlGJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9ZDJhNzhhNjkyNWQ1YTM4NjQ0MDA5ZWE1MjhmYTIzMWQ&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBzdXdhX25vYnUmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1iZTVkNGQ3ZjgwNDY4YWQwMGMxZTkyMjA3YzFjYWMxMw&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=5qCq5byP5Lya56S-SlFJVA&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=836b2c843ee56a93270c9687f9487344",
+    "fetched_at": "2026-09-04 22:08:00",
+    "ja_summary": "・AnthropicがECサイト向けAIエージェントの構築用コードをオープンソース（Apache 2.0）として公開。\n・Claudeを活用したショッピングエージェントの開発に必要な実装例をそのまま利用可能。\n・企業はAIによる買い物支援機能のプロトタイプ作成や実装の参考に活用できる。"
+  },
+  {
+    "title": "※この記事は人の手で書かれています",
+    "link": "https://qiita.com/kyuko/items/3380b85d0b52ea01f449",
+    "source": "Qiita (Popular)",
+    "published": "2026-08-24T12:14:53+09:00",
+    "summary": "こんにちは！ひさふるです。\n\n最近、QiitaでもAIを使って書かれた記事が増えてきましたね。\n\nAIで記事を効率的に書くこと自体も素晴らしいのですが、私としては、特に新卒で会社に入られた方などには「ぜひ自分の手で記事を書いてもらいたい！」と想うことも多く...\n\n今回は、そんなAIで記事を書くことに対して想うことを語ります。\n\n:::note warn\n※この記事は人の手で書かれています\n\nが、",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmF2YXRhcnMxLmdpdGh1YnVzZXJjb250ZW50LmNvbSUyRnUlMkY1NDQzNDk3OCUzRnYlM0Q0P2l4bGliPXJiLTQuMS4xJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz1mYjUwNjZlZjU5OTBjMjEyY2NjNmZjYmVmNTBlMzM0NQ%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYxZTIwZGI1ZTdlNDA3ZWFlN2I5NzBlYzk5OTg4MGRjOGMzY2MwZjY0JTJGb3JpZ2luYWwuanBnJTNGMTY2NzI3NDk2Mz9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz04OTI0NDcwMDk1MDMyZjUxYmZlNzE3ZjVkOGUzYmE3ZA%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3Da0c6390a0caefc663d0458d181502391?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUyJTgwJUJCJUUzJTgxJTkzJUUzJTgxJUFFJUU4JUE4JTk4JUU0JUJBJThCJUUzJTgxJUFGJUU0JUJBJUJBJUUzJTgxJUFFJUU2JTg5JThCJUUzJTgxJUE3JUU2JTlCJUI4JUUzJTgxJThCJUUzJTgyJThDJUUzJTgxJUE2JUUzJTgxJTg0JUUzJTgxJUJFJUUzJTgxJTk5JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9MDZmZGVhMmQxODUxYmVhMDAzM2IxODFkNjRmNDRjNTA&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBreXVrbyZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTkzN2ExNDcyMDIwMjlhMmJlNzUzMDhkZGUzNjk4MWQ1&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=S0RESeOCouOCuOODo-OCpOODq-mWi-eZuuOCu-ODs-OCv-ODvOagquW8j-S8muekvg&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=3fa5e8a025919859c2c394156b0f7d05",
+    "fetched_at": "2026-09-04 22:08:02",
+    "ja_summary": "・AIによる記事作成が増える中、特に新卒者には自身の思考力を養うために手書きでの執筆を推奨。\n・AIは効率化に役立つ一方、人間が自分の言葉で書くことには独自の価値がある。\n・効率性だけでなく、執筆プロセスを通じて得られる成長を大切にしてほしいという筆者の主張。"
+  },
+  {
+    "title": "QAエンジニアの仕事が変わった——Claude CodeとPlaywrightで、テストからチケット管理まで全部AIに任せてみた話",
+    "link": "https://qiita.com/a_sato_JQIT/items/a82fccf6d52c05156384",
+    "source": "Qiita (Popular)",
+    "published": "2026-08-21T18:04:05+09:00",
+    "summary": "## はじめに\n\nはじめまして！QAエンジニアのSAです！\n\n私はQA事業部の代表として、日々ソフトウェアの品質と向き合っています。\n\n突然ですが、みなさんの「当たり前の仕事」が、ある日突然まるごと変わってしまった経験はありますか？\n\n私にはあります。しかも、ほんの少し前の話です。\n\n---\n\n## 以前の手動運用の話\n\n私がこのチームに来る前にいたのは、テストシナリオを手動で作成し、手動で実施す",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnNlY3VyZS5ncmF2YXRhci5jb20lMkZhdmF0YXIlMkZlZmFkYWUwZDMxMjJiZGNlOTkxYzg4YjE2ZmM4MTk4Yz9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9ZGJlZGM2YTdhN2IxYjJiZmMwNjNkZDVkMDc1OGFkNTI%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYyMDc3NzA2NTMzODkzMmUyMWVjMjk3MjI5ZDVkZmI5NDk5MWI5YzFhJTJGb3JpZ2luYWwuanBnJTNGMTc2OTAwMDk3MD9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz1lYjc1ZTQzMzAzYTdlNTkzNDQ4Yjc4NDZiMjljYTgxZA%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3Dfcc2f8f247c1360f8c89b4dc3364e1ed?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9UUElRTMlODIlQTglRTMlODMlQjMlRTMlODIlQjglRTMlODMlOEIlRTMlODIlQTIlRTMlODElQUUlRTQlQkIlOTUlRTQlQkElOEIlRTMlODElOEMlRTUlQTQlODklRTMlODIlOEYlRTMlODElQTMlRTMlODElOUYlRTIlODAlOTQlRTIlODAlOTRDbGF1ZGUlMjBDb2RlJUUzJTgxJUE4UGxheXdyaWdodCVFMyU4MSVBNyVFMyU4MCU4MSVFMyU4MyU4NiVFMyU4MiVCOSVFMyU4MyU4OCVFMyU4MSU4QiVFMyU4MiU4OSVFMyU4MyU4MSVFMyU4MiVCMSVFMyU4MyU4MyVFMyU4MyU4OCVFNyVBRSVBMSVFNyU5MCU4NiVFMyU4MSVCRSVFMyU4MSVBNyVFNSU4NSVBOCVFOSU4MyVBOEFJJUUyJTgwJUE2JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9YTFiMGUwMjQzMTRiYTk1ZGUzMTRhYjhlMWE1MWJhNTE&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBhX3NhdG9fSlFJVCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTQzNjEzOTg1YTZjNDMyMTcxOTAzMTczNzNlNGM3YmM4&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=5qCq5byP5Lya56S-SlFJVA&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=d7d5367eb88dc8e6953e8be4741dbc92",
+    "fetched_at": "2026-09-04 22:08:03",
+    "ja_summary": "QAエンジニアがClaude CodeとPlaywrightを導入し、テスト作成からチケット管理までをAIで自動化した。\n手動で行っていた従来の運用をAIが代替することで、業務効率が劇的に改善した実体験を紹介。\nAI活用により、QAエンジニアの役割が「手作業の実行者」から「AIを活用した品質設計者」へとシフトした。"
+  },
+  {
     "title": "株式投資のプロに聞くAIラリー後の日本株のトレンド② 今後も牽引役としてAI･半導体セクターに注目 | ビジネス | 東洋経済オンライン",
     "link": "https://toyokeizai.net/articles/-/956769?utm_source=rss&utm_medium=http&utm_campaign=link_back",
     "source": "東洋経済オンライン",
@@ -898,105 +998,5 @@
     "image": "https://japan.zdnet.com/storage/2026/08/30/a34a5c3b228f389022985fafaccb2e91/t/184/138/d/humametagettyimages-1770574235_l.jpg",
     "fetched_at": "2026-09-04 07:03:09",
     "ja_summary": "・AI活用の障壁は技術面ではなく、説明責任や管理体制（ガバナンス）の欠如にある。\n・導入成功には、AIと人間との健全な協力関係の構築が不可欠である。\n・ビジネスへの本格導入には、AIを統制する組織的な枠組みの整備が優先課題となる。"
-  },
-  {
-    "title": "NVIDIA、Hugging Faceの買収発表。約2兆円、ハードとソフト両面でAI分野の支配力強化",
-    "link": "https://www.techno-edge.net/article/2026/09/04/5461.html",
-    "source": "TechnoEdge",
-    "published": "Fri, 04 Sep 2026 06:30:03 +0900",
-    "summary": "NVIDIAがAIモデル共有プラットフォームのHugging Faceを約129億3000万ドル（約2兆110億円）で買収すると発表しました。",
-    "image": "https://www.techno-edge.net/imgs/rss/34045.jpg",
-    "fetched_at": "2026-09-04 07:03:10",
-    "ja_summary": "・NVIDIAがAIモデル共有プラットフォーム「Hugging Face」を約2兆円で買収。\n・ハードウェアとソフトウェアの両面を統合し、AI市場での支配力を一段と強化。\n・AI開発エコシステムの囲い込みによる競争優位性の拡大が狙い。"
-  },
-  {
-    "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
-    "link": "https://openai.com/index/daybreak-for-frontline-defenders",
-    "source": "OpenAI",
-    "published": "Thu, 03 Sep 2026 13:15:00 GMT",
-    "summary": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.",
-    "image": "https://images.ctfassets.net/kftzwdyauwt9/lvizepLUAiputffdSjtue/f89a11ed639405a45b491f70c882f0de/SEO_Card___short_copy_example__1_.png?w=1600&amp;h=900&amp;fit=fill",
-    "fetched_at": "2026-09-04 07:03:11",
-    "ja_summary": "・OpenAIが重要インフラ保護に向けた新プログラム「Daybreak」を発表\n・10億ドル規模の資金を投じ、AI技術や専門的なサイバーセキュリティ支援を提供\n・公共サービスや重要インフラをサイバー攻撃から守る体制を強化する"
-  },
-  {
-    "title": "How Claude’s text watermark works",
-    "link": "https://www.anthropic.com/news/claude-text-watermark",
-    "source": "Anthropic (News)",
-    "published": "Fri, 14 Aug 2026 00:00:00 +0000",
-    "summary": "How Claude’s text watermark works",
-    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Quill&amp;backgroundColor=heather",
-    "fetched_at": "2026-09-04 07:03:13",
-    "ja_summary": "・Claudeが生成したテキストには、AIによる出力であることを判別するための電子透かし（埋め込み情報）が施されている。\n・特定の統計的手法を用いて単語の選択に微細な偏りを加えることで、AI生成物であることを高い精度で検出する。\n・人間には判別困難だが、システム上ではAIの出力を識別可能にし、セキュリティと悪用防止を両立させている。"
-  },
-  {
-    "title": "Beyond the Hype: Practical AI for Your Oracle Database with MCP",
-    "link": "https://speakerdeck.com/thatjeffsmith/beyond-the-hype-practical-ai-for-your-oracle-database-with-mcp",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-09-03T16:36:47-04:00",
-    "summary": "AI agents are showing up everywhere in the data stack, but are they giving you the right answers, at a reasonable cost, without a PhD in prompt engineering to set them up? Join Jeff Smith and SVP Kris Rice for an hour on all things Model Context Protocol (MCP) for Oracle AI Database.\n\nWe’ll cover what’s new with MCP for Oracle AI Database, then dig into the practical stuff: how to get correct results, keep token spend under control, and make the whole experience easy enough for your whole team - not just the AI power users. We’ll also break down context engineering essentials like AI Skills and database schema enrichment, and show how Trusted Reports (available through our MCP Servers) make natural language–to-SQL dramatically more reliable for business users asking questions of their data.\n\nThis session is LLM- and agent-agnostic, so the concepts apply no matter what model or agent framework you’re using.\n\nWho should pay attention: DBAs and DevOps engineers, application developers, and business analysts who want faster, safer, more trustworthy answers from their data, no AI expertise required.\n\nWhat we’ll cover:\n\nLatest updates on MCP for Oracle AI Database\nGetting accurate results from AI + your database\nManaging token budget and cost\nContext engineering: AI Skills and schema enrichment\nTrusted Reports for reliable, business-friendly NL2SQL\nWhether you’re building agents, administering the database they run against, or just want better answers from a chat box, this session has something for you.",
-    "image": "https://files.speakerdeck.com/presentations/6c578579df9942e597b4cb4cd0142dd9/preview_slide_0.jpg?40458053",
-    "fetched_at": "2026-09-04 07:03:16",
-    "ja_summary": "・Oracle AI DatabaseにおけるMCP（Model Context Protocol）の活用術を解説するオンラインセッションを開催。\n・AIの回答精度向上、コスト管理、自然言語からSQLへの変換を信頼性高く実現する実用的な手法を紹介。\n・AI専門知識がなくても、DB担当者やビジネスユーザーが安全かつ効率的にデータを活用するための知見を提供する。"
-  },
-  {
-    "title": "Chainguardに学ぶセキュアなコンテナイメージの作り方",
-    "link": "https://zenn.dev/ymotongpoo/books/chainguard-image-toolchain",
-    "source": "Zenn Trends",
-    "published": "Wed, 02 Sep 2026 05:25:32 GMT",
-    "summary": "Chainguard社はDockerfileを使わず、melangeとapkoという2つのOSSツールを組み合わせてセキュアなコンテナイメージを作っています。本書はこの2ツールとWolfi OSがどう連携しているかを、概念の説明とハンズオンを交互に積み重ねながら手元で確かめる本です。ソースコードからAPKパッケージを作り、それをコンテナイメージに組み立て、実際にレジストリへ配布するところまで扱います。",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--lKfHi0Uo--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYm9va19jb3Zlci83ZDQzYjJlMjA5LnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg?_a=BACMTiAE",
-    "fetched_at": "2026-09-04 04:50:57",
-    "ja_summary": "Chainguard流の「melange」と「apko」を活用し、Dockerfileを使わずにセキュアなコンテナイメージを構築する手法を解説。\n開発からレジストリ配布まで、Wolfi OSと連携させた一連の流れをハンズオン形式で習得できる。\n脆弱性のリスクを最小限に抑えた、より安全で近代的なイメージ作成技術のガイドブック。"
-  },
-  {
-    "title": "馬と対話、沢登り……大自然で経営者を育成　内省・冒険・総合知で鍛える「心技体」 (社長のつくり方　40代からではもう遅い)",
-    "link": "https://business.nikkei.com/atcl/NBD/19/special/02635/",
-    "source": "日経ビジネス 最新",
-    "published": "",
-    "summary": "大自然の中で行う研修が、経営者育成に活用されている。背景にはAIの台頭などを受け、より人間力や判断力が求められていることがある。社内では得にくい学びを通じ、経営者の幅を広げる外部研修の最前線を追う。",
-    "image": "https://business.nikkei.com/atcl/NBD/19/special/02635/fb.jpg",
-    "fetched_at": "2026-09-04 02:13:08",
-    "ja_summary": "・AI時代に求められる人間力や判断力を養うため、大自然を活用した経営者育成研修が注目されている。\n・馬との対話や沢登りなど、社内では得られない非日常体験を通じ、経営者の資質と幅を広げる。\n・内省と冒険を組み合わせ、次世代のリーダーに不可欠な「心技体」を総合的に鍛え上げる。"
-  },
-  {
-    "title": "社長のつくり方　40代からではもう遅い",
-    "link": "https://business.nikkei.com/atcl/NBD/19/special/02630/",
-    "source": "日経ビジネス 最新",
-    "published": "",
-    "summary": "社長のサクセッションプラン（後継者計画）は企業の命運を左右する重要課題だ。AIの進歩や地政学リスクなどで経営環境が激変する中、次代を担うリーダーの育成は待ったなし。不祥事や病気で社長が急きょ退くケースも相次ぎ、準備不足は経営リスクになる。コーポレートガバナンス（企業統治）と人的資源管理が交差するサクセッションの最前線を追う。",
-    "image": "https://business.nikkei.com/atcl/NBD/19/special/02630/fb.jpg",
-    "fetched_at": "2026-09-04 02:13:09",
-    "ja_summary": "・急激な経営環境の変化に対応するため、次世代リーダーの計画的な育成が企業の死活問題となっている。\n・不祥事や急病などの予期せぬ退任リスクに備え、40代以前からの早期選抜と準備が不可欠。\n・コーポレートガバナンスの観点から、経営者育成を人的資源管理の最優先課題として位置づける必要がある。"
-  },
-  {
-    "title": "2026年9月7日号 (バックナンバー目次)",
-    "link": "https://business.nikkei.com/atcl/NBD/19/mokuji/00386/",
-    "source": "日経ビジネス 最新",
-    "published": "",
-    "summary": "社長のサクセッションプラン（後継者計画）は企業にとって最重要の意思決定だ。経営トップの力量次第で企業は飛躍も衰退もする。日本企業は現場を担う人材育成が得意な一方、経営トップの輩出は苦手としてきた。AIの進歩や地政学リスクの高まり、資本コスト経営の圧力で経営の難度は増す。難局を打開できるリーダー育成は待ったなしだ。コーポレートガバナンスと人的資源管理が交差するサクセッションの最前線を追う。",
-    "image": "https://business.nikkei.com/images/onb/2019/nblogo_ogimage.png",
-    "fetched_at": "2026-09-04 02:13:10",
-    "ja_summary": "・企業にとって社長の選定は最重要課題だが、日本企業は経営トップの育成に課題を抱えている。\n・環境変化の激しい現代、難局を打開できるリーダーの育成が急務となっている。\n・企業成長の鍵となるガバナンスと人材管理の観点から、次世代リーダー育成の最前線を解説する。"
-  },
-  {
-    "title": "NVIDIA、Hugging Faceを買収　約1.9兆円",
-    "link": "https://www.watch.impress.co.jp/docs/news/2138143.html",
-    "source": "Impress Watch",
-    "published": "",
-    "summary": "NVIDIAは3日(米国時間)、AIプラットフォーム「Hugging Face」を運営するHugging Faceを129億3,030万ドル(約1.87兆円)で買収することに合意した。両社が協力し、Hugging Faceのプラットフォームを拡大し、インフラを強化。世界中の開発者らがAIを利用できる機会を広げていく。",
-    "image": "https://www.watch.impress.co.jp/img/ipw/list/2138/143/hug1.jpg",
-    "fetched_at": "2026-09-04 02:13:20",
-    "ja_summary": "・NVIDIAがAI開発者向けプラットフォーム「Hugging Face」を約1.9兆円で買収。\n・両社の技術を統合し、AI開発基盤のインフラ強化とプラットフォームの拡大を図る。\n・世界中の開発者がAIを利用しやすい環境を整備し、エコシステムを加速させる。"
-  },
-  {
-    "title": "ローカルLLMを高速化する投機的デコード - MTP / EAGLE-3 / DFlash / DSpark",
-    "link": "https://note.com/npaka/n/n26336b2582aa",
-    "source": "note (npaka)",
-    "published": "Tue, 01 Sep 2026 13:19:31 +0900",
-    "summary": "<p id=\"8ef13be4-db73-4a41-ad15-1c16f61b51f6\" name=\"8ef13be4-db73-4a41-ad15-1c16f61b51f6\">ローカルLLMを高速化する「投機的デコード」についてまとめました。</p><br /><br /><a href=\"https://note.com/npaka/n/n26336b2582aa\">続きをみる</a>",
-    "image": "https://assets.st-note.com/production/uploads/images/309148856/rectangle_large_type_2_a2e7d6c4271fbc69baa6ab4c8385151e.png?width=800",
-    "fetched_at": "2026-09-04 02:13:25",
-    "ja_summary": "・ローカルLLMの推論速度を向上させる技術「投機的デコード」の概要と主要手法を解説。\n・MTP、EAGLE-3、DFlash、DSparkといった最新の高速化手法を紹介。\n・効率的な推論を実現し、ローカル環境でのLLM活用を加速させるための技術動向を網羅。"
   }
 ]
