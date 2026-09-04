@@ -1,5 +1,25 @@
 [
   {
+    "title": "「RAN市場、2年以上の縮小から回復」など4本",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/02928/082800111/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "2026年8月17～23日に移動通信関連企業・組織から発表されたニュース4本をお届けします。GNSSを使った屋外測位の高精度化に向けた取り組みや、クラウド上、モバイル端末上での円滑なAI動作をサポートするRANなどの話題をご紹介します。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/02928/082800111/SNS.jpg?20220512",
+    "fetched_at": "2026-09-05 04:14:11",
+    "ja_summary": "・2年以上縮小していたRAN市場が回復の兆しを見せている。\n・GNSSを用いた屋外測位の精度向上に向けた技術開発が進行中。\n・クラウドやモバイル端末でのAI動作を最適化する基盤技術が進展している。"
+  },
+  {
+    "title": "推論の観測、できていますか？ 〜 Google Cloud Gemini Enterprise Agent Platformで 3つの Gemini モデルを実測して踏んだ、評価の罠 〜",
+    "link": "https://speakerdeck.com/shukob/gemini-thinking-model-eval-observability",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-09-04T13:13:10-04:00",
+    "summary": "2026年9月4日(金)開催の「【3-shake × enechain】SRE Tech Talk #15」でのLT登壇スライドです。\nイベントページ: https://3-shake.connpass.com/event/402777/\n\n◼︎概要\n本セッションでは、Google CloudのGemini 3世代モデル（gemini-3.7-flash / gemini-3.5-flash-lite / gemini-3.1-pro-preview）をCI上で実測評価した際に直面した、「推論モデル（Thinking Model）特有の評価・観測の罠」とその解決アプローチについて共有しました。\n\n◼︎ハイライト\n・見落とされがちな監視項目: レイテンシやコストだけでなく「推論トークン数（thoughts_token_count）」と「finish_reason」の観測が必須な理由\n・推論トークンが出力枠を食う罠: MAX_TOKENS の上限を内部推論が圧迫し、可視出力が文の途中で強制終了していた実例\n・設定1行でスコアが逆転: 測定条件の欠陥を是正したことで、正答率が 79.7% → 100% へ\n・「記録していなかったものは、永久に見えない」: SRE視点で考える生成AIアプリケーションのオブザーバビリティ\n\n◼︎検証リポジトリ\nADK (Agent Development Kit) と Gemini を用いた検証用チャットボット実装・CI評価コードはこちらで公開しています。\n👉 https://github.com/shu-kob/adk-agent-chat",
+    "image": "https://files.speakerdeck.com/presentations/9f78c5b30e9e450aa49c238db1d85e03/preview_slide_0.jpg?40468282",
+    "fetched_at": "2026-09-05 04:14:27",
+    "ja_summary": "Google CloudのGemini3モデルを評価した際、推論特有の「観測の罠」に遭遇。\n推論トークン数やfinish_reasonの監視、MAX_TOKENS設定の重要性を実例と共に解説。\n記録とオブザーバビリティの徹底が、AI評価の精度向上に不可欠であることを示す。"
+  },
+  {
     "title": "中国DeepSeek､ファーウェイ製AI半導体を16万個導入へ…中国が米エヌビディア製品からの脱却を進める取り組みを後押し | 政治・経済・投資 | 東洋経済オンライン",
     "link": "https://toyokeizai.net/articles/-/957035?utm_source=rss&utm_medium=http&utm_campaign=link_back",
     "source": "東洋経済オンライン",
@@ -978,25 +998,5 @@
     "image": "https://business.nikkei.com/atcl/audio/22/00001/090300951/fb.jpg",
     "fetched_at": "2026-09-04 07:02:53",
     "ja_summary": "・セブン＆アイ井阪社長が後継者育成の不十分さを認め、経営の要と位置づけ。\n・日販が米AI企業アンソロピックと学習用書籍の提供契約を締結。\n・日立製作所が白物家電事業を売却し、構造改革の象徴的な節目を迎えた。"
-  },
-  {
-    "title": "アンソロピックのAI学習向け書籍販売、日販が契約　米出版取次は拒否 (AIディスラプション)",
-    "link": "https://business.nikkei.com/atcl/gen/19/00845/090300011/",
-    "source": "日経ビジネス 最新",
-    "published": "",
-    "summary": "出版取次大手の日販が、米新興人工知能（AI）企業のアンソロピックに対し、大量の書籍を販売する契約を行っていたことが米国の裁判資料から分かった。アンソロピックなどAI企業は書籍を購入し、それを裁断してスキャン、電子データ化した上でAI学習に利用していることが明らかになっている。",
-    "image": "https://business.nikkei.com/atcl/gen/19/00845/090300011/fb.jpg",
-    "fetched_at": "2026-09-04 07:02:54",
-    "ja_summary": "・日販が米AI企業アンソロピックに対し、学習用書籍を大量販売する契約を締結していた。\n・同社は書籍を裁断・スキャンしてAIの学習データとして利用している。\n・米国ではこの行為に対する反発や出版取次との関わりが物議を醸している。"
-  },
-  {
-    "title": "高卒33歳で年収800万円、AI時代に魅力の積水ハウス「正社員大工」 (Books)",
-    "link": "https://business.nikkei.com/atcl/gen/19/00087/090100529/",
-    "source": "日経ビジネス 最新",
-    "published": "",
-    "summary": "AI時代に有望なのはホワイトカラーよりもブルーカラー？　建設現場の人手不足から生まれた「大企業の正社員大工」という新しい働き方が、注目を集めている。",
-    "image": "https://business.nikkei.com/atcl/gen/19/00087/090100529/fb.jpg",
-    "fetched_at": "2026-09-04 07:02:54",
-    "ja_summary": "・建設現場の人手不足を背景に、積水ハウスが「正社員大工」という新しい雇用形態を開始。\n・AIに代替されにくい専門職として、高卒33歳で年収800万円が狙えるなど好待遇が注目されている。\n・AI時代において、専門技術を持つブルーカラーの価値が再評価されている。"
   }
 ]
