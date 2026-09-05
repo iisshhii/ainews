@@ -1,5 +1,75 @@
 [
   {
+    "title": "日立がHMAXを拡充、DC運用やサイバー防御など　フィジカルAI専門FDEも提供",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/12015/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "日立製作所は9月3日、社会インフラ向けAIソリューション群「HMAX」に同日付で複数のサービスを追加したと発表した。データセンターの運用支援の「HMAX Data Center」、サイバー攻撃対策の「HMAX Cyber」を加えた。フィジカルAI専門のFDEによる伴走支援サービスなども始めた。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/12015/topm-3.jpg?20220512",
+    "fetched_at": "2026-09-06 08:17:05",
+    "ja_summary": "・日立が社会インフラ向けAI「HMAX」を拡充し、データセンター運用とサイバー防御の新サービスを開始。\n・フィジカルAIの専門家集団（FDE）による導入から運用までの伴走支援を提供。\n・インフラ業務の効率化と高度なセキュリティ対策の実現を加速させる。"
+  },
+  {
+    "title": "AIエージェントに\"身体\"を与える卓上ロボット「Palmimo DevKit」",
+    "link": "https://www.watch.impress.co.jp/docs/news/2138251.html",
+    "source": "Impress Watch",
+    "published": "",
+    "summary": "Jizaiは、カスタマイズ可能な汎用AIロボットの卓上型開発キット「Palmimo DevKit」を開発者や研究者、事業会社などを対象に先行販売を開始した。価格は59万8,000円(税別)。",
+    "image": "https://www.watch.impress.co.jp/img/ipw/list/2138/251/pal00.jpg",
+    "fetched_at": "2026-09-06 08:17:08",
+    "ja_summary": "・Jizaiが、AIに物理的な身体を与える卓上型ロボット開発キット「Palmimo DevKit」を発売。\n・開発者や研究者向けに、カスタマイズ可能なAIロボット環境を提供。\n・価格は税別59万8,000円で、先行販売を開始。"
+  },
+  {
+    "title": "OpenAI、次世代モデル「GPT‑6 Astra」公開 \"世界最高の知能\"",
+    "link": "https://www.watch.impress.co.jp/docs/news/2138177.html",
+    "source": "Impress Watch",
+    "published": "",
+    "summary": "OpenAIは3日(米国時間)、世界で最も知能が高く、アラインメント(人間の意図や価値観との整合性)が最も最適化された大規模言語モデル(LLM)「GPT‑6 Astra」を発表した。「長年の研究の集大成」とする次世代モデルで、AstraはFrontierMath Tier 4で98%のスコアを記録したほか、数学分野における長年の未解決問題の解決⁠に貢献。ARC-AGI-3では99.9%、ExploitBenchでは100%のスコアを記録したほか、コンピュータやブラウザの活用などの能力も向上。専門業務を、高速かつ高精度、高い判断力で処理できるとしている。",
+    "image": "https://www.watch.impress.co.jp/img/ipw/list/2138/177/as01.jpg",
+    "fetched_at": "2026-09-06 08:17:09",
+    "ja_summary": "・OpenAIが次世代AI「GPT-6 Astra」を発表し、数学の難問解決や専門業務において最高峰の精度を実現。\n・複雑な判断力とPC操作能力を備え、実務での高速かつ高精度な処理を可能にした。\n・人間の意図との整合性も最適化されており、同社が「研究の集大成」と位置づける高性能モデル。"
+  },
+  {
+    "title": "採用の専門家に聞いた「AIで履歴書、面接対策、求人応募」…就活でやっていいこと、避けるべきこと",
+    "link": "https://www.businessinsider.jp/article/2609-how-use-ai-job-search-applications-hr-pros/",
+    "source": "Business Insider Japan",
+    "published": "Sat, 05 Sep 2026 23:00:00 GMT",
+    "summary": "人事の専門家によると、求職者は、自分が書いた内容をきちんと裏付けられるのであれば、AIを使ったことを隠す必要はありません。",
+    "image": "https://media.loom-app.com/loom/2026/08/24/c5e037b2-394b-42b4-8371-ae71225f9668/original.jpg?w=1200",
+    "fetched_at": "2026-09-06 08:17:12",
+    "ja_summary": "・AIで作成・準備した内容も、説明責任が果たせるなら活用して問題ない。\n・AIはあくまでサポートツールとし、自身の経験や意図に基づいた回答を用意すること。\n・丸写しは避け、内容を自分の言葉で裏付けられるようにしておくことが重要。"
+  },
+  {
+    "title": "4分半かかっていたAI動画が79秒に。MiniMax H3をRTX 5090で3週間かけて速くした全記録（CloseBox）",
+    "link": "https://www.techno-edge.net/article/2026/09/06/5468.html",
+    "source": "TechnoEdge",
+    "published": "Sun, 06 Sep 2026 06:49:57 +0900",
+    "summary": "RTX 5090 1枚のローカル動画生成。半分は拾い物、半分は自分たちで見つけた高速化の記録です。",
+    "image": "https://www.techno-edge.net/imgs/rss/34079.png",
+    "fetched_at": "2026-09-06 08:17:16",
+    "ja_summary": "・RTX 5090環境でAI動画生成の処理時間を4分半から79秒へ短縮に成功。\n・既存の高速化手法と独自検証を組み合わせた技術的記録を公開。\n・ローカル環境での動画生成効率を劇的に高める最適化手法を解説。"
+  },
+  {
+    "title": "中国AI勢が怒涛のリリース、Z.ai開発の「GLM-5.3-Flash」、アリババ開発の「Qwen3.8-Flash-Next」、テンセント開発の「Hy4 preview」など生成AI技術5つを解説（生成AIウィークリー）",
+    "link": "https://www.techno-edge.net/article/2026/09/06/5467.html",
+    "source": "TechnoEdge",
+    "published": "Sun, 06 Sep 2026 06:49:25 +0900",
+    "summary": "今回の「生成AIウィークリー」（第158回）は、最初から最後まで実務プロセスを行う研究支援AI「Apodex 1.1」や、次世代モデル「Qwen4」を先行搭載したオープンウェイトAI「Qwen3.8-Flash-Next」を取り上げます。",
+    "image": "https://www.techno-edge.net/imgs/rss/34058.jpg",
+    "fetched_at": "2026-09-06 08:17:16",
+    "ja_summary": "中国の主要テック企業が、研究支援特化型や次世代型など、実務に直結する高性能な生成AIモデルを続々とリリースした。\n特に「Qwen3.8-Flash-Next」や「GLM-5.3-Flash」など、進化を続ける最新AIの動向が注目されている。\n実務プロセスを自動化・効率化するツールが拡充されており、ビジネス活用の選択肢が急速に広がっている。"
+  },
+  {
+    "title": "20260906 「AWS運用入門」著者が教える、運用業務への生成AI活用入門",
+    "link": "https://speakerdeck.com/masaruogura/20260906-aws-unyou-nyuumon-chosha-ga-oshieru-unyou-gyoumu-heno-seisei-ai-katsuyou-nyuumon",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-09-05T18:52:40-04:00",
+    "summary": "2026/9/6 JAWS SONIC 2026の登壇資料です。\nhttps://jawssonic2026.jaws-ug.jp/",
+    "image": "https://files.speakerdeck.com/presentations/05a407710217462a9a035460da408af1/preview_slide_0.jpg?40478118",
+    "fetched_at": "2026-09-06 08:17:22",
+    "ja_summary": "・「AWS運用入門」著者が、生成AIを活用した効率的な運用業務のノウハウを解説。\n・AWS運用の現場でAIをどう導入し、業務改善に繋げるかを具体的に紹介。\n・JAWS SONIC 2026での登壇資料として公開中。"
+  },
+  {
     "title": "知的財産にタダ乗りするAI企業､トークン･エコノミーの｢泥棒｣取り締まりは音楽業界の仕組みにヒントがある | 政治・経済・投資 | 東洋経済オンライン",
     "link": "https://toyokeizai.net/articles/-/956963?utm_source=rss&utm_medium=http&utm_campaign=link_back",
     "source": "東洋経済オンライン",
@@ -928,75 +998,5 @@
     "image": "https://files.speakerdeck.com/presentations/2207f5c8f15c49d280e9724548f66f1b/preview_slide_0.jpg?40463472",
     "fetched_at": "2026-09-04 17:57:41",
     "ja_summary": "・「XP祭り2026」にて、AI駆動開発による大規模開発の変革や、技術的負債・生産性向上への戦略を公開。\n・AIを開発プロセスに組み込む「Human on the Loop」の視点と、メトリクス重視の実践的な開発手法を提言。\n・Visional社のリアーキテクティング事例など、最新のエンジニアリング知見を網羅的に共有。"
-  },
-  {
-    "title": "The AI-Native Development Loop: A Ticket Comes In, a Verified Change Goes Out",
-    "link": "https://speakerdeck.com/abedmatini/the-ai-native-development-loop-a-ticket-comes-in-a-verified-change-goes-out",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-09-04T03:40:16-04:00",
-    "summary": "From BrowserStack Meetup Cape Town (BBD, Century City, 3 Sep 2026) — Introduction to AI-Native Development Workflows.\n\nA human-gated engineering loop: Linear ticket via MCP → reproduce → AI-assisted fix (model-agnostic: Claude, Cursor, Grok) → lint / FE+BE / Playwright → BrowserStack real devices via Playwright SDK + Local tunnel → human check → PR → report back to Linear. Not full automation. Three human gates (pick it up, reproduce, ship). Cheap local proof before cloud devices. MCP is for Linear only.\n\nEvent: https://luma.com/browse-6tdk",
-    "image": "https://files.speakerdeck.com/presentations/98af3df3a88d410ea075e9baff02830e/preview_slide_0.jpg?40462951",
-    "fetched_at": "2026-09-04 17:57:41",
-    "ja_summary": "・チケット管理からAIによる修正、実機テスト、承認までを繋ぐ「AIネイティブ開発フロー」の導入。\n・AIがコード生成を担いつつ、要所に人間が関与することで品質を担保する「半自動化」モデル。\n・ローカル環境での事前検証と実機テストを組み合わせ、開発コストとリスクを最小化する手法。"
-  },
-  {
-    "title": "AIで開発は速くなったのに、なぜ現場は楽にならないのか 〜あなたの組織のボトルネックを突き止めるワークショップ〜",
-    "link": "https://speakerdeck.com/jacopen/ai-de-kaihatsu-ha-hayaku-nata-noni-naze-genba-ha-raku-ni-naranai-no-ka-anata-no-soshiki-no-botorunekku-o-tsukitomeru-wakushoppu",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-09-04T02:16:37-04:00",
-    "summary": "DXシステム開発Expo 2026で発表した資料です。\nAIで開発は高速化したが組織のアウトプットにはつながっていないことと、その原因。そして解消するためのDevOps, SRE, プラットフォームエンジニアリング、インシデント管理について説明します。",
-    "image": "https://files.speakerdeck.com/presentations/35c2d50870a64018a71492e5115d41e9/preview_slide_0.jpg?40461903",
-    "fetched_at": "2026-09-04 17:57:41",
-    "ja_summary": "・AI導入で開発速度は上がったが、組織全体の成果には直結していない。\n・生産性を阻むボトルネックの原因と、それを解消するDevOpsやSREの活用法を解説。\n・開発の停滞を打破し、組織的なアウトプット最大化を目指すための手法を提示。"
-  },
-  {
-    "title": "Claude Code でモデルを切り替えると、そのターンだけ書き直しが287倍",
-    "link": "https://qiita.com/suwa_nobu/items/5fe930eb46d064b3da06",
-    "source": "Qiita (Popular)",
-    "published": "2026-09-01T09:03:07+09:00",
-    "summary": "\n`/model` でモデルを切り替えるのは一瞬です。**キャッシュが温かいうちなら確認も出ます**（2.1.238以降）。では、そこで何を捨てているのか。\n\nClaude Code 2.1.251 で**プロンプトキャッシュが数字で見える**ようになったので、測ってみました。\n\n```\n同じセッションを継続    書き直し    197 トークン\nsonnet に切り替えた     書き直し 5",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0NDMwNjExJTJGYTRlNGFiZDZjNWNkZmM5NzkzMTk2ZmUwZDFjZjYyMGY1ZWYxMTY5NCUyRnhfbGFyZ2UucG5nJTNGMTc4NTI4OTU5Nj9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NGE5ZmNiZmE4OTM5NWU1MWY1N2FiYjJkYzI1ZTFmZDQ%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYyMDc3NzA2NTMzODkzMmUyMWVjMjk3MjI5ZDVkZmI5NDk5MWI5YzFhJTJGb3JpZ2luYWwuanBnJTNGMTc2OTAwMDk3MD9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz1lYjc1ZTQzMzAzYTdlNTkzNDQ4Yjc4NDZiMjljYTgxZA%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D237198914e54e0e7e727d16c4cfb7823?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9Q2xhdWRlJTIwQ29kZSUyMCVFMyU4MSVBNyVFMyU4MyVBMiVFMyU4MyU4NyVFMyU4MyVBQiVFMyU4MiU5MiVFNSU4OCU4NyVFMyU4MiU4QSVFNiU5QiVCRiVFMyU4MSU4OCVFMyU4MiU4QiVFMyU4MSVBOCVFMyU4MCU4MSVFMyU4MSU5RCVFMyU4MSVBRSVFMyU4MiVCRiVFMyU4MyVCQyVFMyU4MyVCMyVFMyU4MSVBMCVFMyU4MSU5MSVFNiU5QiVCOCVFMyU4MSU4RCVFNyU5QiVCNCVFMyU4MSU5NyVFMyU4MSU4QzI4NyVFNSU4MCU4RCZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTU2ODQ0OTdmMDUzZjc0M2ZjM2JhNWUyMzBkM2FlOGVm&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBzdXdhX25vYnUmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1iZTVkNGQ3ZjgwNDY4YWQwMGMxZTkyMjA3YzFjYWMxMw&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=5qCq5byP5Lya56S-SlFJVA&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=9e9d6940050bf70db6500c4ce51e6ec3",
-    "fetched_at": "2026-09-04 17:57:43",
-    "ja_summary": "・Claude Codeでセッション中にモデルを切り替えると、プロンプトキャッシュが破棄され、再生成コストが約287倍に急増する。\n・バージョン2.1.251からキャッシュ効率が可視化され、無駄な書き直しが発生している実態が判明した。\n・不要なコストを抑えるため、安易なモデル変更は避け、同じセッションを継続することが推奨される。"
-  },
-  {
-    "title": "Claude Code に制限モードが入った。自作スキル47本が0本になった",
-    "link": "https://qiita.com/suwa_nobu/items/4183a8e97738ba45f435",
-    "source": "Qiita (Popular)",
-    "published": "2026-08-28T17:00:02+09:00",
-    "summary": "\n`--restricted` が **Claude Code 2.1.248 で追加**されました（測定に使ったのは 2.1.250）。\n\n公式の説明は「コマンド実行系のツールと WebFetch を外し、ファイル操作を作業ディレクトリに限定する」です。**安全に使うためのモード**という書き方をしています。\n\n手元で測ったら、**それだけではありませんでした。**\n\n```\nツール      ",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0NDMwNjExJTJGYTRlNGFiZDZjNWNkZmM5NzkzMTk2ZmUwZDFjZjYyMGY1ZWYxMTY5NCUyRnhfbGFyZ2UucG5nJTNGMTc4NTI4OTU5Nj9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NGE5ZmNiZmE4OTM5NWU1MWY1N2FiYjJkYzI1ZTFmZDQ%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYyMDc3NzA2NTMzODkzMmUyMWVjMjk3MjI5ZDVkZmI5NDk5MWI5YzFhJTJGb3JpZ2luYWwuanBnJTNGMTc2OTAwMDk3MD9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz1lYjc1ZTQzMzAzYTdlNTkzNDQ4Yjc4NDZiMjljYTgxZA%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D237198914e54e0e7e727d16c4cfb7823?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9Q2xhdWRlJTIwQ29kZSUyMCVFMyU4MSVBQiVFNSU4OCVCNiVFOSU5OSU5MCVFMyU4MyVBMiVFMyU4MyVCQyVFMyU4MyU4OSVFMyU4MSU4QyVFNSU4NSVBNSVFMyU4MSVBMyVFMyU4MSU5RiVFMyU4MCU4MiVFOCU4NyVBQSVFNCVCRCU5QyVFMyU4MiVCOSVFMyU4MiVBRCVFMyU4MyVBQjQ3JUU2JTlDJUFDJUUzJTgxJThDMCVFNiU5QyVBQyVFMyU4MSVBQiVFMyU4MSVBQSVFMyU4MSVBMyVFMyU4MSU5RiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPWI3NmY5MjA1NTk1MzQzNGE5NGIwNDI5ODg2ZmVlMDdi&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBzdXdhX25vYnUmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1iZTVkNGQ3ZjgwNDY4YWQwMGMxZTkyMjA3YzFjYWMxMw&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=5qCq5byP5Lya56S-SlFJVA&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=3c4104b852c89999e4db0cf6b766b329",
-    "fetched_at": "2026-09-04 17:57:43",
-    "ja_summary": "・Claude Code 2.1.248より安全性のための「制限モード（--restricted）」が追加された\n・同モードを有効にするとコマンド実行やWeb閲覧機能が削除され、ファイル操作も制限される\n・検証の結果、公式説明以上に利用可能なツールが大幅に削減されることが判明した"
-  },
-  {
-    "title": "AIにテストを書かせると、決まって同じ場所が抜ける",
-    "link": "https://qiita.com/suwa_nobu/items/a0fa9752528e2b3def71",
-    "source": "Qiita (Popular)",
-    "published": "2026-08-25T11:15:48+09:00",
-    "summary": "\nAI にテストを書かせると、AI は「問題ありません」と言います。\n\nそこで多くの人が次にやることは決まっています。**別の AI にレビューさせる**ことです。\n\nただ、それは独立したレビューになっているのでしょうか。**そして、そもそも何が抜けているのでしょうか。**\n\nこの記事では、**AI に素でテスト仕様書を書かせ、それを規格に沿って機械的に監査する**ところまでを実際にやります。その",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0NDMwNjExJTJGYTRlNGFiZDZjNWNkZmM5NzkzMTk2ZmUwZDFjZjYyMGY1ZWYxMTY5NCUyRnhfbGFyZ2UucG5nJTNGMTc4NTI4OTU5Nj9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NGE5ZmNiZmE4OTM5NWU1MWY1N2FiYjJkYzI1ZTFmZDQ%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYyMDc3NzA2NTMzODkzMmUyMWVjMjk3MjI5ZDVkZmI5NDk5MWI5YzFhJTJGb3JpZ2luYWwuanBnJTNGMTc2OTAwMDk3MD9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz1lYjc1ZTQzMzAzYTdlNTkzNDQ4Yjc4NDZiMjljYTgxZA%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D237198914e54e0e7e727d16c4cfb7823?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9QUklRTMlODElQUIlRTMlODMlODYlRTMlODIlQjklRTMlODMlODglRTMlODIlOTIlRTYlOUIlQjglRTMlODElOEIlRTMlODElOUIlRTMlODIlOEIlRTMlODElQTglRTMlODAlODElRTYlQjElQkElRTMlODElQkUlRTMlODElQTMlRTMlODElQTYlRTUlOTAlOEMlRTMlODElOTglRTUlQTAlQjQlRTYlODklODAlRTMlODElOEMlRTYlOEElOUMlRTMlODElOTElRTMlODIlOEImdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1hOGZhZDlkOTVhMjQ1OTkzNjUwZmNjMzMyMTJkODJhYg&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBzdXdhX25vYnUmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1iZTVkNGQ3ZjgwNDY4YWQwMGMxZTkyMjA3YzFjYWMxMw&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=5qCq5byP5Lya56S-SlFJVA&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=e2b81f36f36ed2f8752ce446cd4081f4",
-    "fetched_at": "2026-09-04 17:57:43",
-    "ja_summary": "・AIが書いたテスト仕様書には共通の漏れが生じがちであり、AIによる相互レビューも独立した検証として不十分な場合がある。\n・AIにテストを書かせた後、規格に沿って機械的に監査する手法を導入することで品質を担保する。\n・属人的な確認に頼らず、機械的な監査プロセスを組み込むことが精度の向上に不可欠である。"
-  },
-  {
-    "title": "Claude Code の出力を35%短くしたら、情報がむしろ増えた",
-    "link": "https://qiita.com/suwa_nobu/items/ccd228bb1c33b2a918f5",
-    "source": "Qiita (Popular)",
-    "published": "2026-08-21T08:27:28+09:00",
-    "summary": "\nClaude Code 2.1.237（**本日 2026-08-20 リリース**）に、組み込みの出力スタイル **Concise** が追加されました。\n\n> Added a built-in \"Concise\" output style: Claude leads with results and skips preamble and narration, while doing the ",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0NDMwNjExJTJGYTRlNGFiZDZjNWNkZmM5NzkzMTk2ZmUwZDFjZjYyMGY1ZWYxMTY5NCUyRnhfbGFyZ2UucG5nJTNGMTc4NTI4OTU5Nj9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NGE5ZmNiZmE4OTM5NWU1MWY1N2FiYjJkYzI1ZTFmZDQ%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYyMDc3NzA2NTMzODkzMmUyMWVjMjk3MjI5ZDVkZmI5NDk5MWI5YzFhJTJGb3JpZ2luYWwuanBnJTNGMTc2OTAwMDk3MD9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz1lYjc1ZTQzMzAzYTdlNTkzNDQ4Yjc4NDZiMjljYTgxZA%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D237198914e54e0e7e727d16c4cfb7823?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9Q2xhdWRlJTIwQ29kZSUyMCVFMyU4MSVBRSVFNSU4NyVCQSVFNSU4QSU5QiVFMyU4MiU5MjM1JTI1JUU3JTlGJUFEJUUzJTgxJThGJUUzJTgxJTk3JUUzJTgxJTlGJUUzJTgyJTg5JUUzJTgwJTgxJUU2JTgzJTg1JUU1JUEwJUIxJUUzJTgxJThDJUUzJTgyJTgwJUUzJTgxJTk3JUUzJTgyJThEJUU1JUEyJTk3JUUzJTgxJTg4JUUzJTgxJTlGJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9N2FiOGFkMzUxNzlmMjdkMzZlYjFlYzM5ZjE3NDcxYjk&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBzdXdhX25vYnUmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1iZTVkNGQ3ZjgwNDY4YWQwMGMxZTkyMjA3YzFjYWMxMw&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=5qCq5byP5Lya56S-SlFJVA&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=11844d8cba2e502b4f063ea024d1996a",
-    "fetched_at": "2026-09-04 17:57:44",
-    "ja_summary": "・Claude Codeの新機能「Concise」は、前置きや説明を省き結論から出力する設定。\n・出力を35%削減することで、かえって情報の密度と効率が高まった。\n・本日リリースされた2.1.237版から、利用者がスタイルを選択可能。"
-  },
-  {
-    "title": "Claude Code の設定でハマる箇所まとめ",
-    "link": "https://qiita.com/suwa_nobu/items/d49739b934606d4abdbd",
-    "source": "Qiita (Popular)",
-    "published": "2026-08-20T09:31:57+09:00",
-    "summary": "\nClaude Code を使っていて、こういう目に遭ったことはないでしょうか。\n\n- 公式に「既定でON」と書いてある機能が、なぜか使えない\n- 昨日まで出ていたタスクリストが、いつの間にか出なくなった\n- 設定を書いたのに、何も起きない。エラーも出ない\n\n**原因の多くは、公式ドキュメントに載っていない環境変数**でした。\n\nこの1週間で踏んだものを、**症状から引ける形**でまとめます。全部",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0NDMwNjExJTJGYTRlNGFiZDZjNWNkZmM5NzkzMTk2ZmUwZDFjZjYyMGY1ZWYxMTY5NCUyRnhfbGFyZ2UucG5nJTNGMTc4NTI4OTU5Nj9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NGE5ZmNiZmE4OTM5NWU1MWY1N2FiYjJkYzI1ZTFmZDQ%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYyMDc3NzA2NTMzODkzMmUyMWVjMjk3MjI5ZDVkZmI5NDk5MWI5YzFhJTJGb3JpZ2luYWwuanBnJTNGMTc2OTAwMDk3MD9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz1lYjc1ZTQzMzAzYTdlNTkzNDQ4Yjc4NDZiMjljYTgxZA%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D237198914e54e0e7e727d16c4cfb7823?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9Q2xhdWRlJTIwQ29kZSUyMCVFMyU4MSVBRSVFOCVBOCVBRCVFNSVBRSU5QSVFMyU4MSVBNyVFMyU4MyU4RiVFMyU4MyU5RSVFMyU4MiU4QiVFNyVBRSU4NyVFNiU4OSU4MCVFMyU4MSVCRSVFMyU4MSVBOCVFMyU4MiU4MSZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTJhNDFmZWFjYTQ5ODIwMTQ4MTEzMjI3NGU0ODc0Mzg4&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBzdXdhX25vYnUmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1iZTVkNGQ3ZjgwNDY4YWQwMGMxZTkyMjA3YzFjYWMxMw&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=5qCq5byP5Lya56S-SlFJVA&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=965138d41d39d54bdb2be4514ae79b6b",
-    "fetched_at": "2026-09-04 17:57:45",
-    "ja_summary": "・Claude Codeの動作不良（機能無効化や設定反映漏れ）の原因の多くは、未公開の環境変数にある。\n・公式ドキュメントにない設定の落とし穴を、症状別に整理して解決策を提示。\n・設定トラブルで時間を浪費しないためのチェックリストとして活用可能。"
   }
 ]
