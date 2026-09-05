@@ -1,5 +1,55 @@
 [
   {
+    "title": "Gemini 3.8 Flash ・ Gemini 3.8 Flash Cyber の概要",
+    "link": "https://note.com/npaka/n/n994424ed9ef5",
+    "source": "note (npaka)",
+    "published": "Thu, 03 Sep 2026 07:37:09 +0900",
+    "summary": "<p id=\"cdfe059b-e048-4edb-8c14-cb4eaecf3812\" name=\"cdfe059b-e048-4edb-8c14-cb4eaecf3812\">「Gemini 3.8 Flash」「Gemini 3.8 Flash Cyber」の概要をまとめました。</p><figure id=\"b0b9db5b-4940-413a-8091-b86b58f42fb2\" name=\"b0b9db5b-4940-413a-8091-b86b58f42fb2\"><blockquote><p id=\"cbcd8943-cf2b-4f86-b9c6-368768f01bd9\" name=\"cbcd8943-cf2b-4f86-b9c6-368768f01bd9\"><strong>・</strong><a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/\" rel=\"nofollow noopener\" target=\"_blank\"><strong>Introducing Gemini 3.8 Flash and 3.8 Flash Cyber</strong></a></p></blockquote>\n<figcaption></figcaption></figure><br /><a href=\"https://note.com/npaka/n/n994424ed9ef5\">続きをみる</a>",
+    "image": "https://assets.st-note.com/production/uploads/images/309717081/rectangle_large_type_2_887311a770f9e7037d4c0612efb3f20d.png?width=800",
+    "fetched_at": "2026-09-06 02:37:50",
+    "ja_summary": "・Googleの最新AIモデル「Gemini 3.8 Flash」および「Gemini 3.8 Flash Cyber」が発表。\n・軽量かつ高速な「Flash」に加え、セキュリティやサイバー攻撃への対応に特化した「Cyber」モデルが登場。\n・実用性と安全性を高め、ビジネスや技術開発における効率的な活用を想定したアップデート。"
+  },
+  {
+    "title": "Claude Fable 5.1 と Mythos 5.1 の概要",
+    "link": "https://note.com/npaka/n/n14013b319725",
+    "source": "note (npaka)",
+    "published": "Wed, 02 Sep 2026 06:36:17 +0900",
+    "summary": "<p id=\"bfe60242-820b-4c97-a01a-46a8e8a1a70b\" name=\"bfe60242-820b-4c97-a01a-46a8e8a1a70b\">「Claude Fable 5.1」と「Claude Mythos 5.1」の概要についてまとめました。</p><br /><br /><a href=\"https://note.com/npaka/n/n14013b319725\">続きをみる</a>",
+    "image": "https://assets.st-note.com/production/uploads/images/309385143/rectangle_large_type_2_e9308a7edb8ccdcca6e4a11555f0fae9.jpeg?width=800",
+    "fetched_at": "2026-09-06 02:37:50",
+    "ja_summary": "・「Claude Fable 5.1」と「Claude Mythos 5.1」の主要な概要が公開。\n・最新モデルの特性や機能の詳細がまとめられている。\n・詳細は元記事（Note）から確認可能。"
+  },
+  {
+    "title": "ローカルLLM向けの NVIDIA GPU の選び方",
+    "link": "https://note.com/npaka/n/nec1c1fb7000b",
+    "source": "note (npaka)",
+    "published": "Thu, 27 Aug 2026 07:56:21 +0900",
+    "summary": "<h2 id=\"197c0322-3143-487a-89b7-2390d487eaf8\" name=\"197c0322-3143-487a-89b7-2390d487eaf8\"><br /></h2><p id=\"c3c13fc8-b0f6-44f0-8639-70ab987db0ba\" name=\"c3c13fc8-b0f6-44f0-8639-70ab987db0ba\">ローカルLLM向けの NVIDIA GPU の選び方をまとめました。</p><br /><a href=\"https://note.com/npaka/n/nec1c1fb7000b\">続きをみる</a>",
+    "image": "https://assets.st-note.com/production/uploads/images/307391092/rectangle_large_type_2_007120b16d803620113334fc2efb0404.png?width=800",
+    "fetched_at": "2026-09-06 02:37:50",
+    "ja_summary": "・ローカルLLM運用では、GPUの性能よりもVRAM（ビデオメモリ）容量が重要。\n・最低でも12GB、快適な動作には24GB搭載モデル（RTX 3090/4090等）が推奨される。\n・モデルのパラメータ数や量子化手法に応じて、予算とVRAM容量のバランスを考慮して選択する。"
+  },
+  {
+    "title": "大和鋼管工業、情シスAI「zooba」を導入--SaaS管理とコスト最適化を推進",
+    "link": "https://japan.zdnet.com/article/35252289/",
+    "source": "ZDNET Japan",
+    "published": "",
+    "summary": "鋼管メーカーの大和鋼管工業は、情報システム部門向けAIプラットフォーム「zooba」を導入した。増加するSaaSの利用状況を可視化し、ライセンス管理やコスト管理の効率化を図る。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35252289/\"><img src=\"https://japan.zdnet.com/storage/2026/05/08/184ba104d0062af259cfea2003d77d8f/t/184/138/d/260508_software_as_1280_625979046.jpg\" /></a>",
+    "image": "https://japan.zdnet.com/storage/2026/05/08/184ba104d0062af259cfea2003d77d8f/t/184/138/d/260508_software_as_1280_625979046.jpg",
+    "fetched_at": "2026-09-06 02:37:52",
+    "ja_summary": "・大和鋼管工業が情シス向けAI「zooba」を導入。\n・社内のSaaS利用状況を可視化し、管理を一元化。\n・ライセンスやコストの最適化を効率的に推進する。"
+  },
+  {
+    "title": "シュナイダーエレクトリック、AIデータセンタービジネスを総合支援する新体制を発表",
+    "link": "https://japan.zdnet.com/article/35252264/",
+    "source": "ZDNET Japan",
+    "published": "",
+    "summary": "シュナイダーエレクトリックは9月3日、日本市場におけるAIデータセンター事業の強化に向けた事業戦略発表会を開催した。営業から設計・エンジニアリング、サービスまでを一体化した「横断体制」を始動し、AIデータセンターの構想から運用・保守までを包括的に支援する「Energy Tech Partner」として事業を拡大させる。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35252264/\"><img src=\"https://japan.zdnet.com/storage/2026/09/03/66a9b0f9b2b5853fa6b47c1742fa1ee4/t/184/138/d/260903_se_l.jpg\" /></a>",
+    "image": "https://japan.zdnet.com/storage/2026/09/03/66a9b0f9b2b5853fa6b47c1742fa1ee4/t/184/138/d/260903_se_l.jpg",
+    "fetched_at": "2026-09-06 02:37:52",
+    "ja_summary": "・シュナイダーエレクトリックがAIデータセンター向けの新体制を発表。\n・営業・設計・保守を一気通貫で支援する体制を構築。\n・AIデータセンターの構想から運用までをトータルでサポートする戦略へ転換。"
+  },
+  {
     "title": "避暑地で新しいPixelたちといっしょ。Pixel 11 Pro/Pro Fold & Pixel Watch 5とGemini Intelligenceのコンビっぷり（Google Tales）",
     "link": "https://www.techno-edge.net/article/2026/09/04/5463.html",
     "source": "TechnoEdge",
@@ -948,55 +998,5 @@
     "image": "https://japan.cnet.com/storage/2026/09/04/5c27345ea54620fa9f33d2658f338d95/t/184/138/d/nvidia-pair-virtual-inference-router_1280x960.jpg",
     "fetched_at": "2026-09-04 13:26:53",
     "ja_summary": "・NVIDIAが発表した「NVIDIA PAIR」は、個人のPCの余剰リソースをAI処理に活用する新技術。\n・遊休状態のPC性能をAI推論に回すことで、効率的な分散コンピューティング環境を実現。\n・高コストな計算リソースを補完し、AI活用のさらなる加速と最適化をもたらす。"
-  },
-  {
-    "title": "ChatGPT、Claude、Grokで同時に障害　復旧済み",
-    "link": "https://japan.cnet.com/article/35252276/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "開発元企業の従業員によるものを含むオンラインの報告によると、特に人気の高いAIサービスであるOpenAIの「ChatGPT」、Anthropicの「Claude」、グーグルの「Gemini」、xAIの「Grok」で一時障害が発生した。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35252276/\"><img src=\"https://japan.cnet.com/storage/2026/09/04/4dbccd9885e102155033e018d62342be/t/184/138/d/87b4eb30-1aad-4fca-a417-3235e48fe46c_1280x960.jpg\" /></a>",
-    "image": "https://japan.cnet.com/storage/2026/09/04/4dbccd9885e102155033e018d62342be/t/184/138/d/87b4eb30-1aad-4fca-a417-3235e48fe46c_1280x960.jpg",
-    "fetched_at": "2026-09-04 13:26:53",
-    "ja_summary": "ChatGPT、Claude、Gemini、Grokといった主要なAIサービスで一時的な障害が発生しました。\n現在はすでに復旧済みです。\n複数の人気AIで同時にトラブルが起きましたが、原因等の詳細は不明です。"
-  },
-  {
-    "title": "AIエージェントは人材市場の変化を本格化させる。パーソルが目指す「人とAIが協働する」未来",
-    "link": "https://www.businessinsider.jp/article/2609-persol-ai-transformation/",
-    "source": "Business Insider Japan",
-    "published": "Fri, 04 Sep 2026 02:00:00 GMT",
-    "summary": "「AIファーストな事業モデルへの転換」を経営方針に掲げるパーソルグループ。その牽引役を担うCIO／CAIOの柘植悠太氏に、AI時代における人材市場の変化、AIを活用したパーソルグループの事業変革ビジョンについて話を聞いた。",
-    "image": "https://media.loom-app.com/loom/2026/08/07/9d3ef3ad-c37e-4469-b423-6c4e5f242ebe/original.jpg?w=1200",
-    "fetched_at": "2026-09-04 13:26:53",
-    "ja_summary": "・パーソルグループは「AIファースト」を掲げ、事業モデルの抜本的な転換を目指す。\n・AIエージェントの導入により、今後の人材市場と働き方は大きく変容する。\n・人とAIが協働する未来を見据え、グループ全体でAI活用を推進する。"
-  },
-  {
-    "title": "アップル、AIに取り込まれた企業秘密は取り戻せないと指摘…対OpenAI訴訟で",
-    "link": "https://www.businessinsider.jp/article/2609-apple-openai-trade-secret-lawsuit-ai-unlearning/",
-    "source": "Business Insider Japan",
-    "published": "Fri, 04 Sep 2026 02:00:00 GMT",
-    "summary": "AI時代に、企業が対策を迫られるかもしれない新たな問題が浮上しています。アップルは、オープンAIを相手取って起こした企業秘密侵害訴訟で、企業秘密がAIに取り込まれると「不可逆的」な影響が生じかねないと訴えました。",
-    "image": "https://media.loom-app.com/loom/2026/09/03/b6cb6043-fb9b-4bed-a083-c7a92c5e7012/original.jpg?w=1200",
-    "fetched_at": "2026-09-04 13:26:53",
-    "ja_summary": "・アップルがOpenAIを相手取った訴訟で、企業秘密がAIに学習されると「取り戻し不可能」になると主張。\n・AIモデルへのデータ取り込みが企業に不可逆的な被害をもたらす懸念を指摘。\n・AI時代における知的財産保護とセキュリティ対策の難しさが浮き彫りとなった。"
-  },
-  {
-    "title": "日立・德永社長が語るフィジカルAIの4段階。NVIDIAと協業し「最後の2段階」で価値を出す",
-    "link": "https://www.businessinsider.jp/article/2609-hitachi-tokunaga-physical-ai-4-stages/",
-    "source": "Business Insider Japan",
-    "published": "Fri, 04 Sep 2026 01:40:00 GMT",
-    "summary": "日立の德永俊昭社長兼CEOは、フィジカルAIの社会実装を4段階に整理しました。日立は「現場の流儀」を学ばせて実際に動かす第3・第4段階に強みを見いだし、HMAXやFDEで実装を進めます。",
-    "image": "https://media.loom-app.com/loom/2026/09/03/119fa9a5-135d-4e70-a46c-7d1a9a2f2595/original.png?w=1200",
-    "fetched_at": "2026-09-04 13:26:53",
-    "ja_summary": "・日立がフィジカルAIの社会実装を4段階に整理し、現場でAIを動かす「第3・第4段階」に注力。\n・NVIDIAとの協業により、製造やエネルギーなどの現場最適化を加速させる。\n・独自基盤技術を活用し、AIで現場の「流儀」を学習・実行させることで新たな価値を創出する。"
-  },
-  {
-    "title": "ドットコムバブル崩壊と金融危機の「掛け合わせ」に備えを。テック業界の専門家が呼びかける",
-    "link": "https://www.businessinsider.jp/article/2609-ai-bubble-erik-gordon-dotcom-crash-financial-crisis-stock-market/",
-    "source": "Business Insider Japan",
-    "published": "Fri, 04 Sep 2026 01:30:00 GMT",
-    "summary": "経営学のエリック・ゴードン教授は、AIブームはドットコムバブル時の高騰した企業価値と、金融危機の波及リスクを併せ持つものだと述べました。",
-    "image": "https://media.loom-app.com/loom/2026/09/02/aac11df4-7469-494a-b073-ae4290be58da/original.jpg?w=1200",
-    "fetched_at": "2026-09-04 13:26:53",
-    "ja_summary": "・現在のAIブームは、ドットコムバブルの過剰評価と金融危機の連鎖リスクを併せ持っている。\n・専門家は、AI業界が市場に与える負の影響に警戒が必要だと警鐘を鳴らしている。"
   }
 ]
