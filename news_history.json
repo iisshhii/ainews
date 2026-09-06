@@ -1,5 +1,75 @@
 [
   {
+    "title": "作り直せるコードは迅速に 作り直せないDBは慎重に - AI時代のプロダクトエンジニアが「判断の不可逆性」で開発速度を変える話",
+    "link": "https://speakerdeck.com/kinosuke01/tsukuri-naoseru-kodo-ha-jinsoku-ni-tsukuri-naosenai-db-ha-shinchou-ni-ai-jidai-no-purodakuto-enjinia-ga-handan-no-fukyagakusei-de-kaihatsu-sokudo-o-kaeru-hanashi",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-09-05T09:29:38-04:00",
+    "summary": "Product Engineering Conference 2026  での登壇資料です。",
+    "image": "https://files.speakerdeck.com/presentations/158f65cf90af4e018bf39384dee4d25f/preview_slide_0.jpg?40474263",
+    "fetched_at": "2026-09-06 10:09:08",
+    "ja_summary": "・コードは修正が容易なため、AIを活用して迅速に開発しリリースを優先する。\n・データベース設計など修正が困難な「不可逆的」な領域は、慎重に時間をかける。\n・判断の可逆性を見極めてメリハリをつけることが、開発速度向上の鍵となる。"
+  },
+  {
+    "title": "AI-DLCって実際どう？ 〜聞きたいこと全部聞いてみる〜",
+    "link": "https://speakerdeck.com/news_it_enj/ai-dlc-tte-jissai-dou-kikitai-koto-zenbu-kii-te-miru",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-09-05T06:44:07-04:00",
+    "summary": "",
+    "image": "https://files.speakerdeck.com/presentations/fec4222f73b34b789fe91770a1895d64/preview_slide_0.jpg?40473405",
+    "fetched_at": "2026-09-06 10:09:08",
+    "ja_summary": "AI導入・活用における課題や疑問を専門家に直接解消できる「AI-DLC」の有用性を解説。\nAI導入の壁となる技術的・組織的な不安を、実用的な知見で解決する手法を提案。\nビジネスの現場でAIをどう定着させ、成果に結びつけるかを具体的に学ぶ機会となる。"
+  },
+  {
+    "title": "Claude Code でモデルを切り替えると、そのターンだけ書き直しが287倍",
+    "link": "https://qiita.com/suwa_nobu/items/5fe930eb46d064b3da06",
+    "source": "Qiita (Popular)",
+    "published": "2026-09-01T09:03:07+09:00",
+    "summary": "\n`/model` でモデルを切り替えるのは一瞬です。**キャッシュが温かいうちなら確認も出ます**（2.1.238以降）。では、そこで何を捨てているのか。\n\nClaude Code 2.1.251 で**プロンプトキャッシュが数字で見える**ようになったので、測ってみました。\n\n```\n同じセッションを継続    書き直し    197 トークン\nsonnet に切り替えた     書き直し 5",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0NDMwNjExJTJGYTRlNGFiZDZjNWNkZmM5NzkzMTk2ZmUwZDFjZjYyMGY1ZWYxMTY5NCUyRnhfbGFyZ2UucG5nJTNGMTc4NTI4OTU5Nj9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NGE5ZmNiZmE4OTM5NWU1MWY1N2FiYjJkYzI1ZTFmZDQ%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYyMDc3NzA2NTMzODkzMmUyMWVjMjk3MjI5ZDVkZmI5NDk5MWI5YzFhJTJGb3JpZ2luYWwuanBnJTNGMTc2OTAwMDk3MD9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz1lYjc1ZTQzMzAzYTdlNTkzNDQ4Yjc4NDZiMjljYTgxZA%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D237198914e54e0e7e727d16c4cfb7823?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9Q2xhdWRlJTIwQ29kZSUyMCVFMyU4MSVBNyVFMyU4MyVBMiVFMyU4MyU4NyVFMyU4MyVBQiVFMyU4MiU5MiVFNSU4OCU4NyVFMyU4MiU4QSVFNiU5QiVCRiVFMyU4MSU4OCVFMyU4MiU4QiVFMyU4MSVBOCVFMyU4MCU4MSVFMyU4MSU5RCVFMyU4MSVBRSVFMyU4MiVCRiVFMyU4MyVCQyVFMyU4MyVCMyVFMyU4MSVBMCVFMyU4MSU5MSVFNiU5QiVCOCVFMyU4MSU4RCVFNyU5QiVCNCVFMyU4MSU5NyVFMyU4MSU4QzI4NyVFNSU4MCU4RCZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTU2ODQ0OTdmMDUzZjc0M2ZjM2JhNWUyMzBkM2FlOGVm&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBzdXdhX25vYnUmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1iZTVkNGQ3ZjgwNDY4YWQwMGMxZTkyMjA3YzFjYWMxMw&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=5qCq5byP5Lya56S-SlFJVA&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=9e9d6940050bf70db6500c4ce51e6ec3",
+    "fetched_at": "2026-09-06 10:09:09",
+    "ja_summary": "Claude Codeで実行中にモデルを切り替えると、プロンプトキャッシュが無効化され、再生成のコスト（トークン消費量）が約287倍に激増する。\n最新版でキャッシュ状況が可視化されたことで、この非効率性が数値として裏付けられた。\n頻繁なモデル切り替えは大幅な処理コスト増を招くため、同一セッション内での継続利用が推奨される。"
+  },
+  {
+    "title": "Claude Code に制限モードが入った。自作スキル47本が0本になった",
+    "link": "https://qiita.com/suwa_nobu/items/4183a8e97738ba45f435",
+    "source": "Qiita (Popular)",
+    "published": "2026-08-28T17:00:02+09:00",
+    "summary": "\n`--restricted` が **Claude Code 2.1.248 で追加**されました（測定に使ったのは 2.1.250）。\n\n公式の説明は「コマンド実行系のツールと WebFetch を外し、ファイル操作を作業ディレクトリに限定する」です。**安全に使うためのモード**という書き方をしています。\n\n手元で測ったら、**それだけではありませんでした。**\n\n```\nツール      ",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0NDMwNjExJTJGYTRlNGFiZDZjNWNkZmM5NzkzMTk2ZmUwZDFjZjYyMGY1ZWYxMTY5NCUyRnhfbGFyZ2UucG5nJTNGMTc4NTI4OTU5Nj9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NGE5ZmNiZmE4OTM5NWU1MWY1N2FiYjJkYzI1ZTFmZDQ%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYyMDc3NzA2NTMzODkzMmUyMWVjMjk3MjI5ZDVkZmI5NDk5MWI5YzFhJTJGb3JpZ2luYWwuanBnJTNGMTc2OTAwMDk3MD9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz1lYjc1ZTQzMzAzYTdlNTkzNDQ4Yjc4NDZiMjljYTgxZA%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D237198914e54e0e7e727d16c4cfb7823?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9Q2xhdWRlJTIwQ29kZSUyMCVFMyU4MSVBQiVFNSU4OCVCNiVFOSU5OSU5MCVFMyU4MyVBMiVFMyU4MyVCQyVFMyU4MyU4OSVFMyU4MSU4QyVFNSU4NSVBNSVFMyU4MSVBMyVFMyU4MSU5RiVFMyU4MCU4MiVFOCU4NyVBQSVFNCVCRCU5QyVFMyU4MiVCOSVFMyU4MiVBRCVFMyU4MyVBQjQ3JUU2JTlDJUFDJUUzJTgxJThDMCVFNiU5QyVBQyVFMyU4MSVBQiVFMyU4MSVBQSVFMyU4MSVBMyVFMyU4MSU5RiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPWI3NmY5MjA1NTk1MzQzNGE5NGIwNDI5ODg2ZmVlMDdi&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBzdXdhX25vYnUmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1iZTVkNGQ3ZjgwNDY4YWQwMGMxZTkyMjA3YzFjYWMxMw&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=5qCq5byP5Lya56S-SlFJVA&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=3c4104b852c89999e4db0cf6b766b329",
+    "fetched_at": "2026-09-06 10:09:10",
+    "ja_summary": "・Claude Codeに安全性を高める「制限モード（--restricted）」が追加された\n・同モードを有効にすると、外部ツールやWebアクセスが遮断される\n・検証の結果、これまで自作していた47個のツールもすべて使用不可になることが判明した"
+  },
+  {
+    "title": "AIにテストを書かせると、決まって同じ場所が抜ける",
+    "link": "https://qiita.com/suwa_nobu/items/a0fa9752528e2b3def71",
+    "source": "Qiita (Popular)",
+    "published": "2026-08-25T11:15:48+09:00",
+    "summary": "\nAI にテストを書かせると、AI は「問題ありません」と言います。\n\nそこで多くの人が次にやることは決まっています。**別の AI にレビューさせる**ことです。\n\nただ、それは独立したレビューになっているのでしょうか。**そして、そもそも何が抜けているのでしょうか。**\n\nこの記事では、**AI に素でテスト仕様書を書かせ、それを規格に沿って機械的に監査する**ところまでを実際にやります。その",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0NDMwNjExJTJGYTRlNGFiZDZjNWNkZmM5NzkzMTk2ZmUwZDFjZjYyMGY1ZWYxMTY5NCUyRnhfbGFyZ2UucG5nJTNGMTc4NTI4OTU5Nj9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NGE5ZmNiZmE4OTM5NWU1MWY1N2FiYjJkYzI1ZTFmZDQ%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYyMDc3NzA2NTMzODkzMmUyMWVjMjk3MjI5ZDVkZmI5NDk5MWI5YzFhJTJGb3JpZ2luYWwuanBnJTNGMTc2OTAwMDk3MD9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz1lYjc1ZTQzMzAzYTdlNTkzNDQ4Yjc4NDZiMjljYTgxZA%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D237198914e54e0e7e727d16c4cfb7823?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9QUklRTMlODElQUIlRTMlODMlODYlRTMlODIlQjklRTMlODMlODglRTMlODIlOTIlRTYlOUIlQjglRTMlODElOEIlRTMlODElOUIlRTMlODIlOEIlRTMlODElQTglRTMlODAlODElRTYlQjElQkElRTMlODElQkUlRTMlODElQTMlRTMlODElQTYlRTUlOTAlOEMlRTMlODElOTglRTUlQTAlQjQlRTYlODklODAlRTMlODElOEMlRTYlOEElOUMlRTMlODElOTElRTMlODIlOEImdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1hOGZhZDlkOTVhMjQ1OTkzNjUwZmNjMzMyMTJkODJhYg&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBzdXdhX25vYnUmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1iZTVkNGQ3ZjgwNDY4YWQwMGMxZTkyMjA3YzFjYWMxMw&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=5qCq5byP5Lya56S-SlFJVA&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=e2b81f36f36ed2f8752ce446cd4081f4",
+    "fetched_at": "2026-09-06 10:09:10",
+    "ja_summary": "・AIが作成したテスト仕様書は「問題ない」と見せかけて重大な欠落が生じやすい。\n・AI同士の相互レビューに頼るのではなく、規格に基づいた機械的な監査が必須。\n・AI生成物を第三者の基準で検証することで、テストの品質と信頼性を担保する。"
+  },
+  {
+    "title": "Claude Code の出力を35%短くしたら、情報がむしろ増えた",
+    "link": "https://qiita.com/suwa_nobu/items/ccd228bb1c33b2a918f5",
+    "source": "Qiita (Popular)",
+    "published": "2026-08-21T08:27:28+09:00",
+    "summary": "\nClaude Code 2.1.237（**本日 2026-08-20 リリース**）に、組み込みの出力スタイル **Concise** が追加されました。\n\n> Added a built-in \"Concise\" output style: Claude leads with results and skips preamble and narration, while doing the ",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0NDMwNjExJTJGYTRlNGFiZDZjNWNkZmM5NzkzMTk2ZmUwZDFjZjYyMGY1ZWYxMTY5NCUyRnhfbGFyZ2UucG5nJTNGMTc4NTI4OTU5Nj9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NGE5ZmNiZmE4OTM5NWU1MWY1N2FiYjJkYzI1ZTFmZDQ%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYyMDc3NzA2NTMzODkzMmUyMWVjMjk3MjI5ZDVkZmI5NDk5MWI5YzFhJTJGb3JpZ2luYWwuanBnJTNGMTc2OTAwMDk3MD9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz1lYjc1ZTQzMzAzYTdlNTkzNDQ4Yjc4NDZiMjljYTgxZA%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D237198914e54e0e7e727d16c4cfb7823?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9Q2xhdWRlJTIwQ29kZSUyMCVFMyU4MSVBRSVFNSU4NyVCQSVFNSU4QSU5QiVFMyU4MiU5MjM1JTI1JUU3JTlGJUFEJUUzJTgxJThGJUUzJTgxJTk3JUUzJTgxJTlGJUUzJTgyJTg5JUUzJTgwJTgxJUU2JTgzJTg1JUU1JUEwJUIxJUUzJTgxJThDJUUzJTgyJTgwJUUzJTgxJTk3JUUzJTgyJThEJUU1JUEyJTk3JUUzJTgxJTg4JUUzJTgxJTlGJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9N2FiOGFkMzUxNzlmMjdkMzZlYjFlYzM5ZjE3NDcxYjk&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBzdXdhX25vYnUmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1iZTVkNGQ3ZjgwNDY4YWQwMGMxZTkyMjA3YzFjYWMxMw&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=5qCq5byP5Lya56S-SlFJVA&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=11844d8cba2e502b4f063ea024d1996a",
+    "fetched_at": "2026-09-06 10:09:11",
+    "ja_summary": "Claude Codeに新スタイル「Concise」が追加され、出力が35%短縮化された。\n前置きや解説を省き、結論から提示する仕様により情報の密度が向上した。\n回答の冗長さを抑え、効率的なコーディング支援を実現する。"
+  },
+  {
+    "title": "Claude Code の設定でハマる箇所まとめ",
+    "link": "https://qiita.com/suwa_nobu/items/d49739b934606d4abdbd",
+    "source": "Qiita (Popular)",
+    "published": "2026-08-20T09:31:57+09:00",
+    "summary": "\nClaude Code を使っていて、こういう目に遭ったことはないでしょうか。\n\n- 公式に「既定でON」と書いてある機能が、なぜか使えない\n- 昨日まで出ていたタスクリストが、いつの間にか出なくなった\n- 設定を書いたのに、何も起きない。エラーも出ない\n\n**原因の多くは、公式ドキュメントに載っていない環境変数**でした。\n\nこの1週間で踏んだものを、**症状から引ける形**でまとめます。全部",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0NDMwNjExJTJGYTRlNGFiZDZjNWNkZmM5NzkzMTk2ZmUwZDFjZjYyMGY1ZWYxMTY5NCUyRnhfbGFyZ2UucG5nJTNGMTc4NTI4OTU5Nj9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NGE5ZmNiZmE4OTM5NWU1MWY1N2FiYjJkYzI1ZTFmZDQ%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYyMDc3NzA2NTMzODkzMmUyMWVjMjk3MjI5ZDVkZmI5NDk5MWI5YzFhJTJGb3JpZ2luYWwuanBnJTNGMTc2OTAwMDk3MD9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz1lYjc1ZTQzMzAzYTdlNTkzNDQ4Yjc4NDZiMjljYTgxZA%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D237198914e54e0e7e727d16c4cfb7823?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9Q2xhdWRlJTIwQ29kZSUyMCVFMyU4MSVBRSVFOCVBOCVBRCVFNSVBRSU5QSVFMyU4MSVBNyVFMyU4MyU4RiVFMyU4MyU5RSVFMyU4MiU4QiVFNyVBRSU4NyVFNiU4OSU4MCVFMyU4MSVCRSVFMyU4MSVBOCVFMyU4MiU4MSZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTJhNDFmZWFjYTQ5ODIwMTQ4MTEzMjI3NGU0ODc0Mzg4&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBzdXdhX25vYnUmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1iZTVkNGQ3ZjgwNDY4YWQwMGMxZTkyMjA3YzFjYWMxMw&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=5qCq5byP5Lya56S-SlFJVA&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=965138d41d39d54bdb2be4514ae79b6b",
+    "fetched_at": "2026-09-06 10:09:12",
+    "ja_summary": "・Claude Codeの動作不良（機能無効、リスト消失、設定無視）は、非公開の環境変数が原因であることが多い。\n・公式ドキュメントに記載のない必須設定や環境変数の情報を、症状別に整理して共有。\n・トラブル発生時に原因を迅速に特定し、解決するための備忘録として活用可能。"
+  },
+  {
     "title": "日立がHMAXを拡充、DC運用やサイバー防御など　フィジカルAI専門FDEも提供",
     "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/12015/",
     "source": "日経クロステック 総合",
@@ -928,75 +998,5 @@
     "image": "https://assets.st-note.com/production/uploads/images/309727618/rectangle_large_type_2_e4390e553717b7e3c193faefe1c7e464.png?width=800",
     "fetched_at": "2026-09-04 17:57:32",
     "ja_summary": "・AIでBlenderを操作する主な手法として「CLI」と「MCP」の2つがある。\n・両者の特徴やメリット・デメリットを整理し、目的に応じた適切な使い分けを解説。\n・AIによる3D制作の効率化や自動化を検討する際の指針となる内容。"
-  },
-  {
-    "title": "“攻撃の民主化”が進むAI時代、Rubrikが説く「データとAIの守り方」",
-    "link": "https://japan.zdnet.com/article/35252310/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "Rubrikは、サイバーレジリエンス戦略に関する報道機関向けの説明会を開催した。共同創業者で会長 兼 CEOのBipul Sinha氏と、Rubrik Japan 代表執行役社長の高山勇喜氏が登壇し、AIの普及によって急速に変化するサイバー脅威の現状と、それに対応する新たなソリューションを説明した。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35252310/\"><img src=\"https://japan.zdnet.com/storage/2026/09/04/02e00804906e5cd5bba4d2a081297393/t/184/138/d/260904_rubrik_002.jpg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2026/09/04/02e00804906e5cd5bba4d2a081297393/t/184/138/d/260904_rubrik_002.jpg",
-    "fetched_at": "2026-09-04 17:57:35",
-    "ja_summary": "AIの普及でサイバー攻撃が容易になる中、Rubrikは新たな脅威に対応するサイバーレジリエンス戦略を公開した。\n同社トップらが登壇し、急速に変化する攻撃手法に対抗するための最新のデータ保護ソリューションを解説。\n企業がAI時代に直面するリスクの現状と、防御のあり方を改めて提唱した。"
-  },
-  {
-    "title": "ClaudeにSalesforceを統合した「Claudeforce」、AnthropicとSalesforceが発表。Claudeから営業データ分析や顧客対応",
-    "link": "https://www.techno-edge.net/article/2026/09/03/5460.html",
-    "source": "TechnoEdge",
-    "published": "Thu, 03 Sep 2026 09:22:04 +0900",
-    "summary": "SalesforceとAnthropicが「Claudeforce」を発表しました。",
-    "image": "https://www.techno-edge.net/imgs/rss/34039.png",
-    "fetched_at": "2026-09-04 17:57:36",
-    "ja_summary": "SalesforceとAnthropicが「Claudeforce」を発表。\nSalesforceの営業データとClaudeを統合し、AIによる高度な分析や顧客対応を実現。\n業務効率化とパーソナライズされた顧客体験の向上を目指す。"
-  },
-  {
-    "title": "農業AIアシスタント「JD」発表。農業機械からの各種データ分析・意思決定を支援",
-    "link": "https://www.techno-edge.net/article/2026/09/02/5456.html",
-    "source": "TechnoEdge",
-    "published": "Wed, 02 Sep 2026 07:30:03 +0900",
-    "summary": "世界最大の農業機械ブランド、ジョンディア（John Deere）は、同社の農業向け管理プラットフォーム「Operations Center」にAIアシスタント「JD」を統合すると発表しました。",
-    "image": "https://www.techno-edge.net/imgs/rss/34009.jpg",
-    "fetched_at": "2026-09-04 17:57:36",
-    "ja_summary": "・ジョンディアが農業管理プラットフォームにAIアシスタント「JD」を導入。\n・農機から得られる膨大なデータを分析し、農作業の意思決定を支援する。\n・デジタル技術の活用で、農業経営の効率化と最適化を推進する。"
-  },
-  {
-    "title": "Mariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer",
-    "link": "https://www.anthropic.com/news/tino-cuellar",
-    "source": "Anthropic (News)",
-    "published": "Tue, 04 Aug 2026 00:00:00 +0000",
-    "summary": "Mariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer",
-    "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
-    "fetched_at": "2026-09-04 17:57:38",
-    "ja_summary": "・元カリフォルニア州最高裁判事のクエラー氏が、AI開発企業Anthropicの最高グローバル情勢責任者（CGAO）に就任。\n・政策、倫理、社会課題などの戦略部門を統括し、同社の責任あるAI開発と国際的なガバナンス体制を強化する。"
-  },
-  {
-    "title": "Kaggle AI Agent Securityコンペ振り返り ー345th Place Solution",
-    "link": "https://zenn.dev/fusic/articles/61c4bcba3e4820",
-    "source": "Zenn Trends",
-    "published": "Thu, 03 Sep 2026 10:15:04 GMT",
-    "summary": "はじめに\nFusicのレオナです。\n今回は、Kaggleの「AI Agent Security - Multi-Step Tool Attacks」[1]に参加しました。最終結果は4,186チーム中345位、スコア6.675で銅メダル。Public Leaderboard(以下、Public LB)では良く見えた本命がPrivate Leaderboard(以下、Private LB)で落ちましたが、2本目に別ルートのヘッジ案を残していたおかげでスコアがつきました。[2]その過程を振り返り、ブログに残します。\n\n コンペ概要\n「AI Agent Security - Multi-St...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--_0ulCYrN--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Kaggle%2520AI%2520Agent%2520Security%25E3%2582%25B3%25E3%2583%25B3%25E3%2583%259A%25E6%258C%25AF%25E3%2582%258A%25E8%25BF%2594%25E3%2582%258A%2520%25E3%2583%25BC345th%2520Place%2520Solution%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:xthixsl_ml%2540%25E3%2583%25AC%25E3%2582%25AA%25E3%2583%258A%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzNhNDgxMzQ3YjkuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Fusic%2520%25E6%258A%2580%25E8%25A1%2593%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzIzOGE3MzVjMDIuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "fetched_at": "2026-09-04 17:57:39",
-    "ja_summary": "・KaggleのAIエージェントのセキュリティに関するコンペで、4,186チーム中345位（銅メダル）を獲得。\n・本命の手法が評価されないリスクを考慮し、別ルートの対策を並行準備していたことが功を奏した。\n・AIエージェントへの攻撃手法や防御策を模索した過程と、リスク分散の重要性を振り返る。"
-  },
-  {
-    "title": "AIに「中学生でもわかるように1枚のHTMLで図解して」が、複雑なコードを読む前の最良の準備運動かも",
-    "link": "https://zenn.dev/yesodco/articles/ed0eb2f6b7621a",
-    "source": "Zenn Trends",
-    "published": "Thu, 03 Sep 2026 06:02:10 GMT",
-    "summary": "はじめに\n株式会社イエソドの竹内(@chimerast)です。\n今回は、軽いお話しで、Claude CodeなどのAIに複雑なロジックを解説させるときの豆知識です。\n\n きっかけは「5才児向けの絵本」だった\nこの話の始まりは、コードとは関係のない雑談でした。\n弊社のメンバーがClaudeに「Fable 5 と Fable 5.1 の違いを、5才児でもわかるように絵本風に解説して」と頼んだのです。AnthropicのThariq Shihipar氏が紹介していた「ELI5」というClaude CodeのSkillだそうです。半分は遊びだったと思います。ところが出てきた絵本が、モデルのリ...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--t4ph97vb--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%25E3%2581%25AB%25E3%2580%258C%25E4%25B8%25AD%25E5%25AD%25A6%25E7%2594%259F%25E3%2581%25A7%25E3%2582%2582%25E3%2582%258F%25E3%2581%258B%25E3%2582%258B%25E3%2582%2588%25E3%2581%2586%25E3%2581%25AB1%25E6%259E%259A%25E3%2581%25AEHTML%25E3%2581%25A7%25E5%259B%25B3%25E8%25A7%25A3%25E3%2581%2597%25E3%2581%25A6%25E3%2580%258D%25E3%2581%258C%25E3%2580%2581%25E8%25A4%2587%25E9%259B%2591%25E3%2581%25AA%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2589%25E3%2582%2592%25E8%25AA%25AD%25E3%2582%2580%25E5%2589%258D%25E3%2581%25AE%25E6%259C%2580%25E8%2589%25AF%25E3%2581%25AE%25E6%25BA%2596%25E5%2582%2599%25E9%2581%258B%25E5%258B%2595%25E3%2581%258B%25E3%2582%2582%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E3%2581%259F%25E3%2581%2591%25E3%2581%2586%25E3%2581%25A1%25E3%2581%2595%25E3%2582%2593%25E3%2581%25AF%25E7%25B8%25AE%25E9%2580%2580%25E3%2581%2597%25E3%2581%25BE%25E3%2581%2597%25E3%2581%259F%2520%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2IwNGQ0YzY1YWUuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2582%25A4%25E3%2582%25A8%25E3%2582%25BD%25E3%2583%2589%2520%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzUxMDFmMGM1NzEuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "fetched_at": "2026-09-04 17:57:39",
-    "ja_summary": "複雑なコードをAIに解説させる際、「中学生でもわかるように1枚のHTMLで図解して」と指示するのが非常に有効。\n概念を絵本や図解に落とし込ませることで、難解なロジックを直感的に理解しやすくなる。\n詳細な解析へ入る前の「準備運動」として、全体像を把握するのに最適な手法である。"
-  },
-  {
-    "title": "AI活用の現在地、 ちゃんと見えてますか？/XPfest-2026",
-    "link": "https://speakerdeck.com/visional_engineering_and_design/xpfest-2026",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-09-04T04:04:55-04:00",
-    "summary": "2026年9月5日開催の「XP祭り2026」の登壇資料です。\nhttps://xpjug.github.io/xp2026.html\n\n▼関連資料\nAI駆動開発が変える、大規模開発の前提 ーHuman in the Loop から Human on the Loop へ\nhttps://speakerdeck.com/visional_engineering_and_design/aie2026\n\nリアーキテクティングのその先へ 〜品質と開発生産性の壁を越えるプラットフォーム戦略〜\nhttps://speakerdeck.com/visional_engineering_and_design/architecture-con2025\n\nビズリーチが挑む メトリクスを活用した技術的負債の解消\nhttps://speakerdeck.com/visional_engineering_and_design/dev-productivity-con2025\n\nビズリーチにおけるリアーキテクティング実践事例\nhttps://speakerdeck.com/visional_engineering_and_design/jjug-ccc-2025-spring\n\n-----\nVisionalのエンジニアリングに関する最新情報はTwitter、ブログで発信しています！📣\n\n▼Visional Engineering Blog\nhttps://engineering.visional.inc/blog/\n\n▼VISIONAL ENGINEERING Twitter\nhttps://twitter.com/VISIONAL_ENG",
-    "image": "https://files.speakerdeck.com/presentations/2207f5c8f15c49d280e9724548f66f1b/preview_slide_0.jpg?40463472",
-    "fetched_at": "2026-09-04 17:57:41",
-    "ja_summary": "・「XP祭り2026」にて、AI駆動開発による大規模開発の変革や、技術的負債・生産性向上への戦略を公開。\n・AIを開発プロセスに組み込む「Human on the Loop」の視点と、メトリクス重視の実践的な開発手法を提言。\n・Visional社のリアーキテクティング事例など、最新のエンジニアリング知見を網羅的に共有。"
   }
 ]
