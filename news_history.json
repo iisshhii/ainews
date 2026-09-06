@@ -1,5 +1,55 @@
 [
   {
+    "title": "“攻撃の民主化”が進むAI時代、Rubrikが説く「データとAIの守り方」",
+    "link": "https://japan.zdnet.com/article/35252310/",
+    "source": "ZDNET Japan",
+    "published": "",
+    "summary": "Rubrikは、サイバーレジリエンス戦略に関する報道機関向けの説明会を開催した。共同創業者で会長 兼 CEOのBipul Sinha氏と、Rubrik Japan 代表執行役社長の高山勇喜氏が登壇し、AIの普及によって急速に変化するサイバー脅威の現状と、それに対応する新たなソリューションを説明した。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35252310/\"><img src=\"https://japan.zdnet.com/storage/2026/09/04/02e00804906e5cd5bba4d2a081297393/t/184/138/d/260904_rubrik_002.jpg\" /></a>",
+    "image": "https://japan.zdnet.com/storage/2026/09/04/02e00804906e5cd5bba4d2a081297393/t/184/138/d/260904_rubrik_002.jpg",
+    "fetched_at": "2026-09-06 14:55:07",
+    "ja_summary": "AIの普及でサイバー攻撃が容易になり、データ保護が重要に。\nRubrikは、AI時代に即したサイバーレジリエンス戦略と新ソリューションを提唱。\nデータとAIを守るための新たなアプローチを示唆。"
+  },
+  {
+    "title": "ClaudeにSalesforceを統合した「Claudeforce」、AnthropicとSalesforceが発表。Claudeから営業データ分析や顧客対応",
+    "link": "https://www.techno-edge.net/article/2026/09/03/5460.html",
+    "source": "TechnoEdge",
+    "published": "Thu, 03 Sep 2026 09:22:04 +0900",
+    "summary": "SalesforceとAnthropicが「Claudeforce」を発表しました。",
+    "image": "https://www.techno-edge.net/imgs/rss/34039.png",
+    "fetched_at": "2026-09-06 14:55:09",
+    "ja_summary": "SalesforceとAnthropicが共同開発した「Claudeforce」を発表。\nAI「Claude」がSalesforceの営業データ分析や顧客対応を支援。\nこれにより、営業活動の効率化が期待される。"
+  },
+  {
+    "title": "Mariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer",
+    "link": "https://www.anthropic.com/news/tino-cuellar",
+    "source": "Anthropic (News)",
+    "published": "Tue, 04 Aug 2026 00:00:00 +0000",
+    "summary": "Mariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer",
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+    "fetched_at": "2026-09-06 14:55:11",
+    "ja_summary": "・元カリフォルニア州最高裁判事のT・クエヤル氏がAnthropicの最高グローバル政策責任者（CGAO）に就任。\n・AIの安全な開発と規制対応を強化し、世界的なガバナンス構築を主導する狙い。\n・法務と政策の専門知識を活かし、同社の国際的な影響力拡大と社会実装を推進。"
+  },
+  {
+    "title": "AIに「中学生でもわかるように1枚のHTMLで図解して」が、複雑なコードを読む前の最良の準備運動かも",
+    "link": "https://zenn.dev/yesodco/articles/ed0eb2f6b7621a",
+    "source": "Zenn Trends",
+    "published": "Thu, 03 Sep 2026 06:02:10 GMT",
+    "summary": "はじめに\n株式会社イエソドの竹内(@chimerast)です。\n今回は、軽いお話しで、Claude CodeなどのAIに複雑なロジックを解説させるときの豆知識です。\n\n きっかけは「5才児向けの絵本」だった\nこの話の始まりは、コードとは関係のない雑談でした。\n弊社のメンバーがClaudeに「Fable 5 と Fable 5.1 の違いを、5才児でもわかるように絵本風に解説して」と頼んだのです。AnthropicのThariq Shihipar氏が紹介していた「ELI5」というClaude CodeのSkillだそうです。半分は遊びだったと思います。ところが出てきた絵本が、モデルのリ...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--t4ph97vb--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%25E3%2581%25AB%25E3%2580%258C%25E4%25B8%25AD%25E5%25AD%25A6%25E7%2594%259F%25E3%2581%25A7%25E3%2582%2582%25E3%2582%258F%25E3%2581%258B%25E3%2582%258B%25E3%2582%2588%25E3%2581%2586%25E3%2581%25AB1%25E6%259E%259A%25E3%2581%25AEHTML%25E3%2581%25A7%25E5%259B%25B3%25E8%25A7%25A3%25E3%2581%2597%25E3%2581%25A6%25E3%2580%258D%25E3%2581%258C%25E3%2580%2581%25E8%25A4%2587%25E9%259B%2591%25E3%2581%25AA%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2589%25E3%2582%2592%25E8%25AA%25AD%25E3%2582%2580%25E5%2589%258D%25E3%2581%25AE%25E6%259C%2580%25E8%2589%25AF%25E3%2581%25AE%25E6%25BA%2596%25E5%2582%2599%25E9%2581%258B%25E5%258B%2595%25E3%2581%258B%25E3%2582%2582%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E3%2581%259F%25E3%2581%2591%25E3%2581%2586%25E3%2581%25A1%25E3%2581%2595%25E3%2582%2593%25E3%2581%25AF%25E7%25B8%25AE%25E9%2580%2580%25E3%2581%2597%25E3%2581%25BE%25E3%2581%2597%25E3%2581%259F%2520%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2IwNGQ0YzY1YWUuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2582%25A4%25E3%2582%25A8%25E3%2582%25BD%25E3%2583%2589%2520%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzUxMDFmMGM1NzEuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-09-06 14:55:13",
+    "ja_summary": "複雑なコードをAIに解説させる際、「中学生にもわかるよう1枚のHTMLで図解して」と指示するのが、本質を理解するための最適な準備運動になる。\n直感的なビジュアル出力を用いることで、難解なロジックを短時間で整理・把握できる。\nAIを活用した学習や開発において、複雑さを抽象化して問い直すアプローチが効率的である。"
+  },
+  {
+    "title": "「ハーネス」ってなんぞ？ Claudeに“性格”と“記憶”を持たせる仕組みを、おじさんでも分かるように調べてみた",
+    "link": "https://qiita.com/OnuuuumaX/items/8b7ac7751411f79a41d7",
+    "source": "Qiita (Popular)",
+    "published": "2026-08-28T20:16:19+09:00",
+    "summary": "## はじめに\n\n最近、AIにコーディングを手伝ってもらう文脈で「ハーネス」という言葉を見かけるようになりました。専門用語っぽくて身構えてしまいますが、中身はとてもシンプルらしいです。\n\n難しい記事を漁りましたが、頭の中で整理しきれなかったので、Claudeに教えてもらいつつまとめ上げました。\n\n> 「毎回言うことが違う新人」と「一度教えたことはちゃんと守り続けてくれるベテラン」の違いは何か\n\nこ",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGNDIwMjUwOSUyRnByb2ZpbGUtaW1hZ2VzJTJGMTc4NDQ3MTYxNz9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9OGU3MGI5OWM5MTE0YmY5MWI1OWE0Y2M3MDk1YjZmMmU%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkZlYmQ5Njg3Yjk0MzAwMWI5NzlkNmU0YWY1MGFiYWU4YTc5MWE4ZGE1JTJGb3JpZ2luYWwuanBnJTNGMTc1NjE4NjM1Mz9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz1hOTMyMDU4NWNlNzJmY2QyNGJiNGQ0MDNkYTA2MGM1OA%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3Ddd318a306a568148e76d86cbd32e2265?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJThDJUUzJTgzJThGJUUzJTgzJUJDJUUzJTgzJThEJUUzJTgyJUI5JUUzJTgwJThEJUUzJTgxJUEzJUUzJTgxJUE2JUUzJTgxJUFBJUUzJTgyJTkzJUUzJTgxJTlFJUVGJUJDJTlGJTIwQ2xhdWRlJUUzJTgxJUFCJUUyJTgwJTlDJUU2JTgwJUE3JUU2JUEwJUJDJUUyJTgwJTlEJUUzJTgxJUE4JUUyJTgwJTlDJUU4JUE4JTk4JUU2JTg2JUI2JUUyJTgwJTlEJUUzJTgyJTkyJUU2JThDJTgxJUUzJTgxJTlGJUUzJTgxJTlCJUUzJTgyJThCJUU0JUJCJTk1JUU3JUI1JTg0JUUzJTgxJUJGJUUzJTgyJTkyJUUzJTgwJTgxJUUzJTgxJThBJUUzJTgxJTk4JUUzJTgxJTk1JUUzJTgyJTkzJUUzJTgxJUE3JUUzJTgyJTgyJUU1JTg4JTg2JUUzJTgxJThCJUUzJTgyJThCJUUzJTgyJTg4JUUzJTgxJTg2JUUzJTgxJUFCJUU4JUFBJUJGJUUyJTgwJUE2JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9MDFhYzI1OGQyOTBjYWU0MWM4YWZkMzJlM2U4NDE3ZDA&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBPbnV1dXVtYVgmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1iMmQ3MzA2OGNkOTk3ODcyNjIxNWNmNDE5MjA0OTZhNg&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=R01P44Kz44ON44Kv44OI5qCq5byP5Lya56S-&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=314cca14aa6af023a9f460d138febe8e",
+    "fetched_at": "2026-09-06 14:55:16",
+    "ja_summary": "AIに「ハーネス」という仕組みを導入することで、指示や設定を固定し、一貫性のある回答をさせることが可能になる。\n「毎回言うことが違うAI」から「教えたことを守り続けるベテランのようなAI」へと進化させる技術。\n専門用語のように聞こえるが、実態はAIの性格や記憶を安定させるための非常にシンプルな仕組みである。"
+  },
+  {
     "title": "作り直せるコードは迅速に 作り直せないDBは慎重に - AI時代のプロダクトエンジニアが「判断の不可逆性」で開発速度を変える話",
     "link": "https://speakerdeck.com/kinosuke01/tsukuri-naoseru-kodo-ha-jinsoku-ni-tsukuri-naosenai-db-ha-shinchou-ni-ai-jidai-no-purodakuto-enjinia-ga-handan-no-fukyagakusei-de-kaihatsu-sokudo-o-kaeru-hanashi",
     "source": "Speaker Deck (Tech)",
@@ -948,55 +998,5 @@
     "image": "https://www.watch.impress.co.jp/img/ipw/list/2138/283/01.jpg",
     "fetched_at": "2026-09-04 17:57:29",
     "ja_summary": "・GoogleがAI天気予報モデル「WeatherNext 3」を発表。\n・衛星データを活用し、1時間ごとの高解像度な予測を実現。\n・降水予測の精度が最大50%向上し、より精緻な地域予報が可能に。"
-  },
-  {
-    "title": "Geminiの助言で遭難、食料も水も不足--ずさんな登山が浮き彫りにする「AI依存」の危険性",
-    "link": "https://japan.cnet.com/article/35252306/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "AIが生成した助言に頼ったことは「重大な判断ミス」だった。米カリフォルニア州のシャスタ山に挑んだ3人の登山者は、8時間の予定だった登山が2日間に及ぶ過酷な事態に陥った。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35252306/\"><img src=\"https://japan.cnet.com/storage/2026/09/04/d8eb7e9c07b71b204a59fcd66722b6c4/t/184/138/d/Mount-Shasta_1280x960.jpg\" /></a>",
-    "image": "https://japan.cnet.com/storage/2026/09/04/d8eb7e9c07b71b204a59fcd66722b6c4/t/184/138/d/Mount-Shasta_1280x960.jpg",
-    "fetched_at": "2026-09-04 17:57:32",
-    "ja_summary": "・Geminiの助言のみを頼りに登山した3人組が、準備不足で2日間遭難する事態が発生。\n・AIの情報は必ずしも正確ではなく、過度な依存による判断ミスが命を危険にさらした。\n・技術への依存には限界があり、登山など生死に関わる判断は自身の知識や経験が不可欠である。"
-  },
-  {
-    "title": "ライザップ、利用者の個人情報を生成AIに誤送信　疾患情報も　同社謝罪",
-    "link": "https://japan.cnet.com/article/35252303/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "RIZAPは9月3日、社員が特定保健指導の対象者に関する個人情報を、個人で利用していた外部の生成AIサービスに誤ってアップロードしたと発表した。氏名や保険証記号番号のほか、高血圧症や糖尿病といった疾患情報も含まれていた。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35252303/\"><img src=\"https://japan.cnet.com/storage/2026/09/04/bca24017b45d41be2f8ff56e5c409819/t/184/138/d/08.jpeg\" /></a>",
-    "image": "https://japan.cnet.com/storage/2026/09/04/bca24017b45d41be2f8ff56e5c409819/t/184/138/d/08.jpeg",
-    "fetched_at": "2026-09-04 17:57:32",
-    "ja_summary": "・RIZAP社員が、利用者の個人情報や疾患情報を個人の生成AIに誤送信。\n・氏名や保険証番号など、特定保健指導対象者の機微な情報が流出。\n・同社は謝罪し、再発防止に向けたセキュリティ教育の徹底を表明。"
-  },
-  {
-    "title": "ダイソンの8万円電動歯ブラシ「CameraJet」実機レビュー…歯間フロス不要になるのか？試してみた",
-    "link": "https://www.businessinsider.jp/article/2609-dyson-camerajet-review/",
-    "source": "Business Insider Japan",
-    "published": "Fri, 04 Sep 2026 08:00:00 GMT",
-    "summary": "ダイソン口腔衛生製品・第1弾「CameraJet」実機レビュー。AIカメラによる歯間自動検知＆ジェット噴射の性能や使い勝手を試して、7万9800円の価値とフロス代替の可能性に迫ります。",
-    "image": "https://media.loom-app.com/loom/2026/09/04/49d77e9a-a227-4a93-8090-dbe0d832382c/original.jpg?w=1200",
-    "fetched_at": "2026-09-04 17:57:32",
-    "ja_summary": "・ダイソンの電動歯ブラシ「CameraJet（7万9800円）」の実機を検証。\n・AIカメラで歯間を自動検知しジェット噴射する新機能を搭載。\n・フロスが不要になる可能性を含め、価格に見合う性能か使い勝手を徹底解説。"
-  },
-  {
-    "title": "年収2000万円超のAdobeのベテランエンジニアがバス運転手に「AIに取って代わられることもない」",
-    "link": "https://www.businessinsider.jp/article/2609-career-pivot-from-adobe-to-school-bus-driver-layoff-unemployed/",
-    "source": "Business Insider Japan",
-    "published": "Fri, 04 Sep 2026 08:00:00 GMT",
-    "summary": "アドビに25年間勤めた56歳のベテランエンジニアが、突然の解雇を宣告され、スクールバスの運転手に転身しました。年収15万ドル（約2250万円）超から大幅な減収を受け入れ、バグの修正とは異なる「子どもの命を預かる」重責と向き合いながら、美しい自然のなかで新たなやりがいを見出していきます。",
-    "image": "https://media.loom-app.com/loom/2026/09/04/458b332e-e217-426c-bf06-c76fa076785d/original.jpg?w=1200",
-    "fetched_at": "2026-09-04 17:57:32",
-    "ja_summary": "・Adobeで25年勤めた年収2000万円超のエンジニアが、突如の解雇を経てバス運転手に転身。\n・収入減を受け入れつつ、「子どもの命を預かる」という新たな責任にやりがいを見出す。\n・AI時代において、自身の仕事の価値と人生の幸福を再定義する前向きな転機となった。"
-  },
-  {
-    "title": "AIでBlenderを操作する方法 - CLIとMCPの使い分け",
-    "link": "https://note.com/npaka/n/n7f7531e7b9ed",
-    "source": "note (npaka)",
-    "published": "Thu, 03 Sep 2026 08:10:24 +0900",
-    "summary": "<p id=\"0f4d4cb5-edb9-4348-8aa6-c03acfb1d07a\" name=\"0f4d4cb5-edb9-4348-8aa6-c03acfb1d07a\">AIからBlenderを操作する2つの方法、CLIとMCPの特徴と使い分けを整理します。</p><br /><br /><a href=\"https://note.com/npaka/n/n7f7531e7b9ed\">続きをみる</a>",
-    "image": "https://assets.st-note.com/production/uploads/images/309727618/rectangle_large_type_2_e4390e553717b7e3c193faefe1c7e464.png?width=800",
-    "fetched_at": "2026-09-04 17:57:32",
-    "ja_summary": "・AIでBlenderを操作する主な手法として「CLI」と「MCP」の2つがある。\n・両者の特徴やメリット・デメリットを整理し、目的に応じた適切な使い分けを解説。\n・AIによる3D制作の効率化や自動化を検討する際の指針となる内容。"
   }
 ]
