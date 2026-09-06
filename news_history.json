@@ -1,5 +1,25 @@
 [
   {
+    "title": "テスラ、ハンドルなしE2E自動運転車の配車開始　ブレーキにも革新",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03564/090400005/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "テスラはハンドルやペダルのないロボタクシー「サイバーキャブ）」の配車サービスを始めた。AIを全面活用するE2E自動運転技術を搭載し、人の監視がいらない「レベル4」を実現する。油圧を使わない電動ブレーキ（EMB）や希土類（レアアース）不使用の駆動モーターなどの新技術も採用した。サイバーキャブの成否はテスラの今後だけでなく、自動車産業の行方を左右する可能性がある。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03564/090400005/topm.jpg?20220512",
+    "fetched_at": "2026-09-07 03:27:21",
+    "ja_summary": "・テスラがハンドルもペダルもない完全自動運転車「サイバーキャブ」の配車を開始。\n・AIによる「レベル4」の自律走行を実現し、最新の電動ブレーキ等の新技術を搭載。\n・同車の普及はテスラの経営と今後の自動車産業全体の進路を左右する重要な試金石となる。"
+  },
+  {
+    "title": "An Alien Mind",
+    "link": "https://openai.com/index/an-alien-mind",
+    "source": "OpenAI",
+    "published": "Sun, 06 Sep 2026 09:00:00 GMT",
+    "summary": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/7f6sLIUC3tdeliJMQ3PwOq/c47109c8b3f00ccbf881271c9c720877/og-an-alien-mind.png?w=1600&amp;h=900&amp;fit=fill",
+    "fetched_at": "2026-09-07 03:27:32",
+    "ja_summary": "・AIの急速な進化に伴い、その制御と整合性維持が喫緊の課題となっている。\n・AIを安全に運用するため、より強固なセーフガードの構築が不可欠である。\n・技術開発に合わせ、国際的な枠組みによる協調体制の整備を急ぐべきである。"
+  },
+  {
     "title": "SHIFT、新人研修で5分のAI禁止タイム　まず人間同士で考え抜く (人的資本の現場から)",
     "link": "https://business.nikkei.com/atcl/gen/19/00636/090300115/",
     "source": "日経ビジネス 最新",
@@ -978,25 +998,5 @@
     "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Quill&amp;backgroundColor=heather",
     "fetched_at": "2026-09-05 01:51:10",
     "ja_summary": "・AnthropicのAI「Claude」は、生成テキストに目に見えない電子透かし（ウォーターマーク）を埋め込む技術を開発。\n・単語の選択に統計的な偏りを持たせることで、AIが生成した文章かどうかを高精度に判別可能。\n・文章の品質を維持しつつ、AIによる悪用や誤情報の拡散を防ぐためのセキュリティ対策。"
-  },
-  {
-    "title": "Chainguardに学ぶセキュアなコンテナイメージの作り方",
-    "link": "https://zenn.dev/ymotongpoo/books/chainguard-image-toolchain",
-    "source": "Zenn Trends",
-    "published": "Wed, 02 Sep 2026 05:25:32 GMT",
-    "summary": "Chainguard社はDockerfileを使わず、melangeとapkoという2つのOSSツールを組み合わせてセキュアなコンテナイメージを作っています。本書はこの2ツールとWolfi OSがどう連携しているかを、概念の説明とハンズオンを交互に積み重ねながら手元で確かめる本です。ソースコードからAPKパッケージを作り、それをコンテナイメージに組み立て、実際にレジストリへ配布するところまで扱います。",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--lKfHi0Uo--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYm9va19jb3Zlci83ZDQzYjJlMjA5LnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg?_a=BACMTiAE",
-    "fetched_at": "2026-09-05 01:51:13",
-    "ja_summary": "・Chainguard社の独自ツール「melange」と「apko」を活用した、セキュアなコンテナ構築手法を解説する。\n・開発からパッケージ作成、レジストリ配布までの一連の流れを、ハンズオン形式で実践的に学べる。\n・従来のDockerfileに頼らない、より安全なコンテナ開発環境とWolfi OSの連携を習得できる。"
-  },
-  {
-    "title": "V8コントリビュート超入門",
-    "link": "https://speakerdeck.com/riyaamemiya/v8-chounyuumon",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-09-04T11:32:18-04:00",
-    "summary": "このスライドはSlidevで作られており、以下のレポジトリで公開しています\nhttps://github.com/riya-amemiya/amemiya_riya_slide_data/blob/main/v8_contribute_intro",
-    "image": "https://files.speakerdeck.com/presentations/b23cda9cb3e348518e56acd6b75b8625/preview_slide_0.jpg?40467525",
-    "fetched_at": "2026-09-05 01:51:14",
-    "ja_summary": "・JavaScriptエンジン「V8」へのコントリビュート（貢献）方法を解説する入門スライド。\n・スライド作成ツール「Slidev」で構成され、GitHub上で全内容が公開されている。\n・V8開発への参加手順や基礎知識を効率的に学べる資料。"
   }
 ]
