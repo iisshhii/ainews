@@ -1,5 +1,75 @@
 [
   {
+    "title": "金沢の町工場が狙う「工作機械のClaude」　加工コード生成　京セラなどと提携 (インダストリー羅針盤)",
+    "link": "https://business.nikkei.com/atcl/gen/19/00155/090300293/",
+    "source": "日経ビジネス 最新",
+    "published": "",
+    "summary": "金沢の町工場が工作機械の頭脳となるAIを開発した。部品の図面から、AIが最適な手順で工作機械を動かすコードを生成する。その実力を取材した。",
+    "image": "https://business.nikkei.com/atcl/gen/19/00155/090300293/fb.jpg",
+    "fetched_at": "2026-09-07 05:37:40",
+    "ja_summary": "・金沢の町工場が、図面から工作機械を動かすコードを自動生成するAIを開発。\n・京セラ等と提携し、職人の技能を再現する「工作機械のClaude」を目指す。\n・製造業の効率化と技術継承を支える新たなAIプラットフォームとして期待。"
+  },
+  {
+    "title": "「PyBullet」ライブラリをインストール、ロボットシミュレーションを始めよう",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03705/073100001/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "AIが物理的な世界を認識して、ロボットなどを自律的に動かす「フィジカルAI」に注目が集まっています。そこで本特集では、ロボットシミュレーションのプログラミングを通して、ロボット技術の基本を解説します。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03705/073100001/topm.jpg?20220512",
+    "fetched_at": "2026-09-07 05:37:43",
+    "ja_summary": "・注目技術「フィジカルAI」を学ぶため、ロボットシミュレーションのプログラミングを解説。\n・物理シミュレーション環境「PyBullet」の導入方法から習得できる。\n・ロボット技術の基礎を、実際に動かしながら段階的に学べる特集。"
+  },
+  {
+    "title": "「建設SaaS」の戦国時代は第2幕へ、アンドパッドなどベンチャー15社",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03729/082100008/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "施工管理アプリなどのバーティカルSaaS（ソフトウエア・アズ・ア・サービス）を提供し、建設業のDX（デジタルトランスフォーメーション）を後押ししてきたベンチャーは数多い。もっとも、雨後のタケノコのように立ち上がった建設テックベンチャー自身も、生成AI（人工知能）の台頭などで変化を迫られている。建設SaaS企業の戦国時代は、第2幕へ突入している。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03729/082100008/46_sns.jpg?20220512",
+    "fetched_at": "2026-09-07 05:37:44",
+    "ja_summary": "・建設DXを牽引してきた建設SaaS業界が、生成AIの台頭により転換期を迎えている。\n・多数のベンチャーが乱立した「戦国時代」から、次のフェーズ（第2幕）へ突入。\n・今後はAI活用など、付加価値による激しい淘汰と競争が予想される。"
+  },
+  {
+    "title": "「ドメイン特化型LLM」で専門業務を支援、ハルシネーションを抑制",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/01679/073000295/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "金融や医療、法務などの特定分野で使うために作られた大規模言語モデル（LLM）。使われる用語や文体、業務手順、評価基準に合わせて調整されており、特定業種向けに精度の高いサービスを提供する。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/01679/073000295/topm.jpg?20220512",
+    "fetched_at": "2026-09-07 05:37:44",
+    "ja_summary": "・金融・医療・法務など専門分野に特化したLLMが業務を支援\n・用語や業務手順を学習させることで回答精度を高め、誤情報を抑制\n・特定業種における実務で、より正確で効率的なAI活用が可能に"
+  },
+  {
+    "title": "J-HRTI、人型ロボ40台でフィジカルAI用データ収集　課題は計算資源",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03688/090200016/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "人型ロボットのデータ収集拠点が、日本に増え始めた。山善やツムラなどが参画する人型ロボット特化のコンソーシアム「J-HRTI」は、千葉県に最大40台の人型ロボットが動くデータ収集拠点を稼働した。人間がロボットに動作を覚えさせる模倣学習で、フィジカルAI向け動作データを集める。一方で、AIのモデル構築には、集めたデータを学習する計算資源の確保が必須だ。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03688/090200016/topm.jpg?20220512",
+    "fetched_at": "2026-09-07 05:37:45",
+    "ja_summary": "・J-HRTIが千葉にロボット40台のデータ収集拠点を新設し、フィジカルAIの模倣学習用データを本格収集。\n・山善やツムラらが参画し、人型ロボットの動作知能化を推進。\n・今後は収集した膨大なデータを処理するための計算資源確保が課題。"
+  },
+  {
+    "title": "AI駆動開発の威力を体感せよ、日経クロステックNEXT東京2026　いよいよ開幕",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03745/090300001/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "「未来をつくるテクノロジー展　日経クロステックNEXT東京2026」（2026年9月29～30日開催）は、AIなどの最新テクノロジーが引き起こす変化の「今」と「未来」を一度に見渡せるリアルイベントだ。その内容は多岐にわたるため、日経クロステック編集部は来場者が迷わないようにお勧めの「周回案」をテーマ別に用意した。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03745/090300001/topm.jpg?20220512",
+    "fetched_at": "2026-09-07 05:37:45",
+    "ja_summary": "・9月29日〜30日開催の技術展「日経クロステックNEXT東京2026」が開幕。\n・AIなどの最新技術の現状と未来を網羅的に体験できるリアルイベント。\n・編集部がテーマ別に推奨ルートを作成し、効率的な会場回りをサポート。"
+  },
+  {
+    "title": "Chainguardに学ぶセキュアなコンテナイメージの作り方",
+    "link": "https://zenn.dev/ymotongpoo/books/chainguard-image-toolchain",
+    "source": "Zenn Trends",
+    "published": "Wed, 02 Sep 2026 05:25:32 GMT",
+    "summary": "Chainguard社はDockerfileを使わず、melangeとapkoという2つのOSSツールを組み合わせてセキュアなコンテナイメージを作っています。本書はこの2ツールとWolfi OSがどう連携しているかを、概念の説明とハンズオンを交互に積み重ねながら手元で確かめる本です。ソースコードからAPKパッケージを作り、それをコンテナイメージに組み立て、実際にレジストリへ配布するところまで扱います。",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--lKfHi0Uo--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYm9va19jb3Zlci83ZDQzYjJlMjA5LnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg?_a=BACMTiAE",
+    "fetched_at": "2026-09-07 05:37:58",
+    "ja_summary": "Chainguard社のOSSツール「melange」と「apko」を使い、Dockerfile不要でセキュアなコンテナイメージを構築する方法を解説。\nWolfi OSとの連携からパッケージ作成、レジストリ配布までの工程をハンズオン形式で習得できる。\n脆弱性のリスクを最小限に抑えた、モダンで安全なコンテナ開発環境の構築手法が学べる一冊。"
+  },
+  {
     "title": "テスラ、ハンドルなしE2E自動運転車の配車開始　ブレーキにも革新",
     "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03564/090400005/",
     "source": "日経クロステック 総合",
@@ -928,75 +998,5 @@
     "image": "https://files.speakerdeck.com/presentations/9f78c5b30e9e450aa49c238db1d85e03/preview_slide_0.jpg?40468282",
     "fetched_at": "2026-09-05 04:14:27",
     "ja_summary": "Google CloudのGemini3モデルを評価した際、推論特有の「観測の罠」に遭遇。\n推論トークン数やfinish_reasonの監視、MAX_TOKENS設定の重要性を実例と共に解説。\n記録とオブザーバビリティの徹底が、AI評価の精度向上に不可欠であることを示す。"
-  },
-  {
-    "title": "中国DeepSeek､ファーウェイ製AI半導体を16万個導入へ…中国が米エヌビディア製品からの脱却を進める取り組みを後押し | 政治・経済・投資 | 東洋経済オンライン",
-    "link": "https://toyokeizai.net/articles/-/957035?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-    "source": "東洋経済オンライン",
-    "published": "Sat, 05 Sep 2026 00:15:00 +0900",
-    "summary": "中国AIスタートアップのDeepSeekが､ファーウェイの最新AI半導体｢Ascend 950DT｣を16万個導入する大規模計画を進めています。米エヌビディア製品からの脱却を目指す中国にとって画期的…",
-    "image": "https://tk.ismcdn.jp/mwimgs/8/2/1200w/img_82fe6ac4454b36a6e8910350817d871f347534.jpg?nextgen=false",
-    "fetched_at": "2026-09-05 01:50:49",
-    "ja_summary": "・中国のAI企業DeepSeekが、ファーウェイ製AI半導体を16万個導入する計画。\n・米エヌビディア製品への依存脱却に向けた、中国の自国技術活用が加速。\n・高性能な国産AI半導体の採用拡大により、中国のAI開発基盤が強化される見通し。"
-  },
-  {
-    "title": "エヌビディアに身売りのハギングフェイス､AI民主化を目指した共同創業者3人とも約18億ドル（約2800億円）を得ることに | 政治・経済・投資 | 東洋経済オンライン",
-    "link": "https://toyokeizai.net/articles/-/957029?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-    "source": "東洋経済オンライン",
-    "published": "Sat, 05 Sep 2026 00:13:00 +0900",
-    "summary": "AI開発者向けの機械学習モデル･データセット共有プラットフォームを運営する米スタートアップ､ハギングフェイスは､AI半導体で圧倒的シェアを占める米エヌビディアに買収されることが決まった。買収の代価を…",
-    "image": "https://tk.ismcdn.jp/mwimgs/0/c/1200w/img_0cf87a1c907266505fb1b579b6b7a17b312212.jpg?nextgen=false",
-    "fetched_at": "2026-09-05 01:50:49",
-    "ja_summary": "・AIモデル共有プラットフォームのハギングフェイスが、米エヌビディアに買収される。\n・創業者はそれぞれ約18億ドル（約2800億円）の利益を得る見込み。\n・AI分野の主要企業同士の統合により、今後の開発環境への影響が注目される。"
-  },
-  {
-    "title": "NVIDIA、Hugging Faceを買収　約1.9兆円",
-    "link": "https://www.watch.impress.co.jp/docs/news/2138143.html",
-    "source": "Impress Watch",
-    "published": "",
-    "summary": "NVIDIAは3日(米国時間)、AIプラットフォーム「Hugging Face」を運営するHugging Faceを129億3,030万ドル(約1.87兆円)で買収することに合意した。両社が協力し、Hugging Faceのプラットフォームを拡大し、インフラを強化。世界中の開発者らがAIを利用できる機会を広げていく。",
-    "image": "https://www.watch.impress.co.jp/img/ipw/list/2138/143/hug1.jpg",
-    "fetched_at": "2026-09-05 01:51:03",
-    "ja_summary": "・NVIDIAがAI開発基盤のHugging Faceを約1.9兆円で買収することで合意。\n・両社の連携によりAIインフラを強化し、開発者がAIを利用しやすい環境を拡充。\n・世界規模でのAI活用を加速させ、プラットフォームの拡大を目指す。"
-  },
-  {
-    "title": "ローカルLLMを高速化する投機的デコード - MTP / EAGLE-3 / DFlash / DSpark",
-    "link": "https://note.com/npaka/n/n26336b2582aa",
-    "source": "note (npaka)",
-    "published": "Tue, 01 Sep 2026 13:19:31 +0900",
-    "summary": "<p id=\"8ef13be4-db73-4a41-ad15-1c16f61b51f6\" name=\"8ef13be4-db73-4a41-ad15-1c16f61b51f6\">ローカルLLMを高速化する「投機的デコード」についてまとめました。</p><br /><br /><a href=\"https://note.com/npaka/n/n26336b2582aa\">続きをみる</a>",
-    "image": "https://assets.st-note.com/production/uploads/images/309148856/rectangle_large_type_2_a2e7d6c4271fbc69baa6ab4c8385151e.png?width=800",
-    "fetched_at": "2026-09-05 01:51:04",
-    "ja_summary": "ローカルLLMの推論を高速化する技術「投機的デコード」の概要を解説。\nMTP、EAGLE-3、DFlash、DSparkといった主要な手法を網羅。\nローカル環境でのAI応答速度を向上させたいエンジニア向けの技術まとめ。"
-  },
-  {
-    "title": "NVIDIA、Hugging Faceの買収発表。約2兆円、ハードとソフト両面でAI分野の支配力強化",
-    "link": "https://www.techno-edge.net/article/2026/09/04/5461.html",
-    "source": "TechnoEdge",
-    "published": "Fri, 04 Sep 2026 06:30:03 +0900",
-    "summary": "NVIDIAがAIモデル共有プラットフォームのHugging Faceを約129億3000万ドル（約2兆110億円）で買収すると発表しました。",
-    "image": "https://www.techno-edge.net/imgs/rss/34045.jpg",
-    "fetched_at": "2026-09-05 01:51:08",
-    "ja_summary": "・NVIDIAがAI開発基盤のHugging Faceを約2兆円で買収。\n・ハードウェアとソフトウェアの両面でAI業界の支配力を強化。\n・AIモデル開発・共有のインフラを統合し、エコシステムを独占へ。"
-  },
-  {
-    "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
-    "link": "https://openai.com/index/daybreak-for-frontline-defenders",
-    "source": "OpenAI",
-    "published": "Thu, 03 Sep 2026 13:15:00 GMT",
-    "summary": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.",
-    "image": "https://images.ctfassets.net/kftzwdyauwt9/lvizepLUAiputffdSjtue/f89a11ed639405a45b491f70c882f0de/SEO_Card___short_copy_example__1_.png?w=1600&amp;h=900&amp;fit=fill",
-    "fetched_at": "2026-09-05 01:51:09",
-    "ja_summary": "・OpenAIが重要インフラを守るため「Daybreak for Frontline Defenders」を立ち上げ。\n・総額10億ドルを投じ、最先端のAIセキュリティ技術、トレーニング、支援を提供。\n・社会を支える不可欠なサービスのサイバー防衛体制を大幅に強化。"
-  },
-  {
-    "title": "How Claude’s text watermark works",
-    "link": "https://www.anthropic.com/news/claude-text-watermark",
-    "source": "Anthropic (News)",
-    "published": "Fri, 14 Aug 2026 00:00:00 +0000",
-    "summary": "How Claude’s text watermark works",
-    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Quill&amp;backgroundColor=heather",
-    "fetched_at": "2026-09-05 01:51:10",
-    "ja_summary": "・AnthropicのAI「Claude」は、生成テキストに目に見えない電子透かし（ウォーターマーク）を埋め込む技術を開発。\n・単語の選択に統計的な偏りを持たせることで、AIが生成した文章かどうかを高精度に判別可能。\n・文章の品質を維持しつつ、AIによる悪用や誤情報の拡散を防ぐためのセキュリティ対策。"
   }
 ]
