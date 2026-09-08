@@ -1,5 +1,95 @@
 [
   {
+    "title": "Adobe Premiere、タイムライン上で動画・効果音をAI生成",
+    "link": "https://www.watch.impress.co.jp/docs/news/2139044.html",
+    "source": "Impress Watch",
+    "published": "",
+    "summary": "アドビは8日、Adobe PremiereとAdobe After EffectsにAIを活用した新機能を発表した。Premiereでは、タイムライン上で動画や効果音などを生成できる「生成メディアツール」を追加し、After EffectsではAIアシスタントをパブリックベータ版として提供する。",
+    "image": "https://www.watch.impress.co.jp/img/ipw/list/2139/044/01.jpg",
+    "fetched_at": "2026-09-08 22:44:24",
+    "ja_summary": "・Adobe Premiereに、タイムライン上で動画や効果音をAI生成できる新機能を追加\n・After EffectsにはAIアシスタントを導入し、パブリックベータ版として提供\n・AI活用により動画編集の効率化と制作プロセスの迅速化を実現"
+  },
+  {
+    "title": "ロジからAIコントローラ『MX Keypad』発売。CodexやClaude Codeを液晶キーで操作、GitHubとネイティブ統合",
+    "link": "https://www.techno-edge.net/article/2026/09/08/5475.html",
+    "source": "TechnoEdge",
+    "published": "Tue, 08 Sep 2026 22:01:32 +0900",
+    "summary": "Logitechが複数のAIコーディングツールやIDEをまたいで操作できる開発者向けキーパッド「MX Keypad」を発表しました。価格は99.99ドル（99.99ユーロ）。グラファイトとペールグレーの2色を用意し、一部の市場ではすでに販売中です。",
+    "image": "https://www.techno-edge.net/imgs/rss/34101.jpg",
+    "fetched_at": "2026-09-08 22:44:32",
+    "ja_summary": "・Logitechが開発者向けAI操作キーパッド「MX Keypad」を99.99ドルで発売。\n・CodexやClaude Codeなど主要AIツールを液晶キーで直感的に操作可能。\n・GitHubとのネイティブ連携により、コーディング作業の効率化を実現。"
+  },
+  {
+    "title": "The Work Now Within Reach",
+    "link": "https://openai.com/index/the-work-now-within-reach",
+    "source": "OpenAI",
+    "published": "Tue, 08 Sep 2026 13:00:00 GMT",
+    "summary": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/55vtZrraOkvZmBXfImz6JE/79cb6fc5580f7aaa2ec9d43e1a993efd/d43a4f678ae469e8.png?w=1600&amp;h=900&amp;fit=fill",
+    "fetched_at": "2026-09-08 22:44:33",
+    "ja_summary": "・AIの高性能化と低コスト化により、業務の幅と生産性が飛躍的に向上。\n・企業や個人がより少ないコストで、複雑な業務を遂行可能に。\n・AI活用がビジネス成長を加速させ、経済的な事業運営を実現する。"
+  },
+  {
+    "title": "Kaggleコンペ紹介：AI Agent Security - Multi-Step Tool Attacks",
+    "link": "https://zenn.dev/mkj/articles/fad8adf0586665",
+    "source": "Zenn Trends",
+    "published": "Tue, 08 Sep 2026 02:50:05 GMT",
+    "summary": "はじめに\nこんにちは、松尾研究所 データサイエンティストの力岡です。\n今回は、Kaggleで開催された「AI Agent Security - Multi-Step Tool Attacks」コンペに参加し、4,187チーム中4位（金メダル） を獲得することができました。本記事では、コンペの概要や攻略の考え方、私たちの取り組み、上位解法について紹介します。\n本コンペは、「AIエージェントのセキュリティ」を題材にしたレッドチーミングコンペです。PublicリーダーボードとPrivateリーダーボードで順位がほとんど入れ替わる激しいシェイクアップが起き、2,802チームがPrivateで...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--bxVAOzQQ--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Kaggle%25E3%2582%25B3%25E3%2583%25B3%25E3%2583%259A%25E7%25B4%25B9%25E4%25BB%258B%25EF%25BC%259AAI%2520Agent%2520Security%2520-%2520Multi-Step%2520Tool%2520Attacks%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Rick%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2U2NGM3ZTBkMzIuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E6%259D%25BE%25E5%25B0%25BE%25E7%25A0%2594%25E7%25A9%25B6%25E6%2589%2580%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzZkMTQ1MDUyZWMuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-09-08 22:44:36",
+    "ja_summary": "・AIエージェントのセキュリティ（レッドチーミング）を競うKaggleコンペで、松尾研究所チームが4位（金メダル）を獲得。\n・AIに対する多段階の攻撃手法をテーマとしており、非常に順位変動が激しい難易度の高い大会となった。\n・本記事では、上位入賞につながった戦略や具体的な攻略アプローチについて解説する。"
+  },
+  {
+    "title": "Manus 2026 Update",
+    "link": "https://speakerdeck.com/x5gtrn/manus-2026-update",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-09-08T07:42:03-04:00",
+    "summary": "<a href=\"https://speakerdeck.com/x5gtrn/manus-2026-update-ja\">Japanese Edition</a>\nhttps://daisuke.masuda.tokyo/article-2026-09-08-2102\n\nThis slide compares the January 2026 baseline with developments through September 8 across execution environments, approval-oriented planning, shared Projects and Skills, context-aware scheduling, connectors, and post-deployment application operations. It separates official claims from issues requiring hands-on validation, including reliability, permissions, pricing, backups, and third-party dependencies, and examines whether Manus is evolving from a one-off task agent into an AI workspace for continuous work.",
+    "image": "https://files.speakerdeck.com/presentations/528addc112cd4163b971545277c33779/preview_slide_0.jpg?40500027",
+    "fetched_at": "2026-09-08 22:44:38",
+    "ja_summary": "・2026年1月時点の計画と9月現在の開発状況を比較し、AIエージェント「Manus」の進化を検証。\n・実行環境や運用機能の現状を整理し、信頼性・コスト・権限など実運用上の課題を浮き彫りに。\n・Manusが単発のタスク実行ツールから、継続的な業務を支えるAIワークスペースへ脱皮できるかを分析。"
+  },
+  {
+    "title": "Getting the User’s Location from '08 to '26",
+    "link": "https://speakerdeck.com/stuffmc/getting-the-users-location-from-08-to-26",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-09-08T06:48:50-04:00",
+    "summary": "You wouldn't believe how far we've come since when the iPhone was announced in 2007, the first iPhone SDK in 2008, and luckily iOS 4.2 and further. It's unbelievable to me all we could (badly so) do with the original APIs, and how easy and cool it is nowadays with a few SwiftUl and SwiftUl lines to get the user location, while being super sharp on Privacy (which it wasn't in 2007!).\nLet me dig into all the details: We'll talk about Precisions, Beacons, Regions, Delegates, Battery, and so on. There will be lots of simple samples which hopefully helps you build with this wonderful technology!",
+    "image": "https://files.speakerdeck.com/presentations/61fb88ac635a4a41856e4cff12fdf193/preview_slide_0.jpg?40499485",
+    "fetched_at": "2026-09-08 22:44:38",
+    "ja_summary": "・iPhone登場から現在までの位置情報取得技術の進化と歴史を解説。\n・SwiftUIを活用し、プライバシーに配慮した効率的な実装方法を詳解。\n・精度向上やバッテリー対策など、開発現場で役立つ実践的な知見を網羅。"
+  },
+  {
+    "title": "薬剤師（ドメインエキスパート）と一緒に育てる薬局向けAIアシスタント",
+    "link": "https://speakerdeck.com/kakehashi/building-pharmacy-ai-alongside-pharmacists",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-09-08T06:04:11-04:00",
+    "summary": "ドメインエキスパートの知見を“チームの資産”に変える方法\nhttps://levtechlab.connpass.com/event/400228/\nでの登壇資料です",
+    "image": "https://files.speakerdeck.com/presentations/8dac4d95e58d423292a9daffd4e000d9/preview_slide_0.jpg?40499185",
+    "fetched_at": "2026-09-08 22:44:38",
+    "ja_summary": "・薬剤師の専門知識をAIに学習させ、薬局業務を効率化する仕組みを構築。\n・個人の知見を組織の共有資産に変えるノウハウを公開。\n・登壇資料にて、ドメインエキスパートと開発するAI活用の最適解を解説。"
+  },
+  {
+    "title": "ジュニアの「AIが書いたコードが理解できない」問題の対応策",
+    "link": "https://qiita.com/im_yoneda/items/f27e52d2f852ba017a7e",
+    "source": "Qiita (Popular)",
+    "published": "2026-09-07T11:53:07+09:00",
+    "summary": "## はじめに\n\n私は新卒でエンジニアになって1年が経ちました。\n\n生成AIに実装を依頼すると、コードを書く時間そのものは大きく短縮できることを実感しています。\n\n一方、私のようなジュニアエンジニアの場合、生成されたコードを理解するまでに時間がかかるため、 **期待したほど開発全体は速くならない** とも感じます。\n\nそこでまず、生成されたコードを読むためのレビューガイドをAIで作ってみました。\n",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYzNDg3NDA3JTJGODkzYjlhNmVhNTc4Y2NkZWE1NjI2MTBkNTcxYWE0NWE5MWE0ZWVkZiUyRnhfbGFyZ2UucG5nJTNGMTc0OTAxNDMxNT9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9YTZhOWZkNDI4YWFiYjNhNWExZTQ2NmQ1ZWYxMmNmN2Q%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkZmMGY5ODM4NGQzMDM0Y2QwMTMwZDIyOTAxMzQzNTcxYTZlYTMyYjgxJTJGb3JpZ2luYWwuanBnJTNGMTY0NzI3NjcyOT9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz0xNzNhMzdmM2JlYWU5ZDU3ODBlMmQ5OTE1N2E2YTQxZQ%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D76d9e7d8efcee6ef7d981accc76939be?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgyJUI4JUUzJTgzJUE1JUUzJTgzJThCJUUzJTgyJUEyJUUzJTgxJUFFJUUzJTgwJThDQUklRTMlODElOEMlRTYlOUIlQjglRTMlODElODQlRTMlODElOUYlRTMlODIlQjMlRTMlODMlQkMlRTMlODMlODklRTMlODElOEMlRTclOTAlODYlRTglQTclQTMlRTMlODElQTclRTMlODElOEQlRTMlODElQUElRTMlODElODQlRTMlODAlOEQlRTUlOTUlOEYlRTklQTElOEMlRTMlODElQUUlRTUlQUYlQkUlRTUlQkYlOUMlRTclQUQlOTYmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1lZWRjNzMzYjU1ZGM0YjlmZWFhMzVkYTExMTYzYzgyNw&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBpbV95b25lZGEmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz0yM2Q5YjFkYzEzYjk3MjkzNzBkMDA2ZGI5NTk4NGI4Mg&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=5qCq5byP5Lya56S-V29ya3MgSHVtYW4gSW50ZWxsaWdlbmNl&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=6ae456799b2c7f626fe2c6821c08ee1b",
+    "fetched_at": "2026-09-08 22:44:39",
+    "ja_summary": "・AIによるコード生成は時短になるが、ジュニアエンジニアには内容理解の負担が大きい。\n・開発効率を維持するため、AI生成コードを読み解くための「レビューガイド」を作成。\n・AIを「書く」だけでなく「理解を助けるツール」として活用し、スキルの底上げを図る。"
+  },
+  {
+    "title": "CLAUDE.mdをそろそろ見直す時期かも ── Claude 5世代向けの最適化手順・スキル・プロジェクト種類別の例",
+    "link": "https://qiita.com/nogataka/items/d6a54f3694726b9141f3",
+    "source": "Qiita (Popular)",
+    "published": "2026-09-05T12:19:18+09:00",
+    "summary": "\n## 要点\n\n- Anthropic は 2026年7月24日のブログで、Claude Opus 5 / Fable 5 向けに Claude Code のシステムプロンプトを 80% 以上削り、社内コーディング評価で性能低下が測定できなかったと公表しました。\n- 理由は「制約の多くは最悪のケース回避のために入れたもので、今のモデルは周囲の文脈から判断できる」からです。\n- 私たちの CLAUD",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYxNjEyOTglMkZjMWUzZmZkNmVhZGExOTY5ZmYzYzQ0YjE0ZmRlMDgxYmNkZTZmNTAwJTJGeF9sYXJnZS5wbmclM0YxNTg0ODQ1NTg0P2l4bGliPXJiLTQuMS4xJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz1kMDQ2ZmE2Mzg1YzIyMmQ4ZjJkNWI0YjRkYTc3Mjc0NQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Dfde89a6aafc1c82cb07bd196a821c036?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9Q0xBVURFLm1kJUUzJTgyJTkyJUUzJTgxJTlEJUUzJTgyJThEJUUzJTgxJTlEJUUzJTgyJThEJUU4JUE2JThCJUU3JTlCJUI0JUUzJTgxJTk5JUU2JTk5JTgyJUU2JTlDJTlGJUUzJTgxJThCJUUzJTgyJTgyJTIwJUUyJTk0JTgwJUUyJTk0JTgwJTIwQ2xhdWRlJTIwNSVFNCVCOCU5NiVFNCVCQiVBMyVFNSU5MCU5MSVFMyU4MSU5MSVFMyU4MSVBRSVFNiU5QyU4MCVFOSU4MSVBOSVFNSU4QyU5NiVFNiU4OSU4QiVFOSVBMCU4NiVFMyU4MyVCQiVFMyU4MiVCOSVFMyU4MiVBRCVFMyU4MyVBQiVFMyU4MyVCQiVFMyU4MyU5NyVFMyU4MyVBRCVFMyU4MiVCOCVFMyU4MiVBNyVFMyU4MiVBRiVFMyU4MyU4OCVFNyVBOCVBRSVFOSVBMSU5RSVFMiU4MCVBNiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPWMyMjFmMTY5OTdiNzVlNTE3ZGJiYzIwYzhhNzg1NGJi&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBub2dhdGFrYSZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWNiYWE0ODdlNWU4NDg4ZjQ0NjQ0MjVlZTRhNDY2ZWUz&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=04bf0bf93c2c185a1baa235ec1d76d8d",
+    "fetched_at": "2026-09-08 22:44:40",
+    "ja_summary": "・Claude 5世代のモデルは文脈理解能力が向上したため、従来の冗長なシステムプロンプト（CLAUDE.md）を8割以上削減しても性能は低下しない。\n・「最悪の事態」への過剰な予防策は不要となり、より簡潔な指示での運用が可能になった。\n・最新モデルの能力に合わせて、CLAUDE.mdを最適化・軽量化すべきタイミングが来ている。"
+  },
+  {
     "title": "日立社長の“フィジカルAI”熱弁に「あれは、叱咤激励だ」　社内外に刺さるトップメッセージの核心とは",
     "link": "https://www.itmedia.co.jp/business/articles/2609/08/news028.html",
     "source": "ITmedia ビジネス",
@@ -908,95 +998,5 @@
     "image": "https://japan.cnet.com/storage/2026/08/31/4812a81eb08aad2de6a55849209e3218/t/184/138/d/thumbnail_4-3.jpg",
     "fetched_at": "2026-09-07 13:34:02",
     "ja_summary": "・濡れた傘をたたむ手間が省ける電動折りたたみ傘「アンブレラZERO」が登場。\n・ボタン一つで自動収納が可能なため、傘袋が不要で手も濡れません。\n・雨の日のストレスを軽減し、持ち運びの利便性を高めた新製品です。"
-  },
-  {
-    "title": "ELYZA、「AIで業務アプリを作る仕組み」の特許を取得　後に「独占の意図ない」と謝罪",
-    "link": "https://japan.cnet.com/article/35252337/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "ELYZAは9月3日、法人向け生成AIツール「ELYZA Works」で、生成AIを使って業務AIアプリを作成する仕組みの特許を取得したと発表した。同日、発表内容について「AIアプリ開発一般を独占する趣旨は一切ない」とXで釈明し、謝罪した。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35252337/\"><img src=\"https://japan.cnet.com/storage/2026/09/07/21a841a59e64235ffa09eea72771e292/t/184/138/d/04.jpeg\" /></a>",
-    "image": "https://japan.cnet.com/storage/2026/09/07/21a841a59e64235ffa09eea72771e292/t/184/138/d/04.jpeg",
-    "fetched_at": "2026-09-07 13:34:02",
-    "ja_summary": "・ELYZAが生成AIで業務アプリを作る仕組みで特許を取得。\n・「開発を独占する意図はない」と批判を受け釈明・謝罪した。"
-  },
-  {
-    "title": "AIロボ開発に。歩く、走る、つかむ自由にできる「TRON2」",
-    "link": "https://japan.cnet.com/article/35251930/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35251930/\"><img src=\"https://japan.cnet.com/storage/2026/08/26/3d75cde57bbff70266a71c6c3da27fec/t/184/138/d/スクリ_ンショット_2026-08-25_16.01.35.png\" /></a>",
-    "image": "https://japan.cnet.com/storage/2026/08/26/3d75cde57bbff70266a71c6c3da27fec/t/184/138/d/スクリ_ンショット_2026-08-25_16.01.35.png",
-    "fetched_at": "2026-09-07 13:34:02",
-    "ja_summary": "・歩行や走行、物体を掴む動作が可能なAIロボット「TRON2」が発表された。\n・高度な身体制御を実現しており、次世代のAIロボット開発を加速させる。\n・多様な動作を自由にこなせるため、実用的なロボット開発への活用が期待される。"
-  },
-  {
-    "title": "AIで脆弱性を発見するAisleに注目--セキュリティ専門家らも称賛",
-    "link": "https://japan.zdnet.com/article/35252340/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "AIを活用した脆弱性管理スタートアップAisleが、curlで6件の未知の脆弱性を発見した。著名なAIコーディングツールを上回る成果に、オープンソースソフトウェア開発者からも注目が集まっている。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35252340/\"><img src=\"https://japan.zdnet.com/storage/2026/09/07/9be4199e71a9d112b1e48f913f3358f3/t/184/138/d/GettyImages-1435604927_c99c64_1280.jpg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2026/09/07/9be4199e71a9d112b1e48f913f3358f3/t/184/138/d/GettyImages-1435604927_c99c64_1280.jpg",
-    "fetched_at": "2026-09-07 13:34:05",
-    "ja_summary": "・AI脆弱性管理スタートアップ「Aisle」が、汎用ツールを上回る精度で「curl」の未知の脆弱性を6件発見。\n・AIによる高度なセキュリティ検知能力が実証され、開発コミュニティから高い注目を集めている。"
-  },
-  {
-    "title": "AIを「社内一の怠け者だけど優秀なベテランエンジニア」に変えるツール「ポニーテール」が生成コードを最大94%削減する（生成AIクローズアップ）",
-    "link": "https://www.techno-edge.net/article/2026/09/07/5471.html",
-    "source": "TechnoEdge",
-    "published": "Mon, 07 Sep 2026 10:06:08 +0900",
-    "summary": "今回は、AIエージェントを社内で一番怠惰だけど優秀なベテランエンジニアのように変身させる拡張ツール「ponytail」（ポニーテール）を取り上げます。50行のコードを見せると、何も言わずにたった1行に置き換えてしまう手抜き上手なエンジニアというイメージです。",
-    "image": "https://www.techno-edge.net/imgs/rss/34088.png",
-    "fetched_at": "2026-09-07 13:34:06",
-    "ja_summary": "・AI拡張ツール「ポニーテール」は、AIを「最小限の労力で最大の成果を出すベテラン」へと最適化する。\n・50行のコードをわずか1行に短縮するなど、生成コードを最大94%削減する高い効率性を実現。\n・冗長な生成を省き、無駄のない洗練されたコード出力を可能にする業務効率化ツール。"
-  },
-  {
-    "title": "ガバメントAI「源内」に関する動画を更新しました",
-    "link": "https://www.digital.go.jp/policies/genai",
-    "source": "デジタル庁",
-    "published": "Mon, 31 Aug 2026 15:00:00 +0900",
-    "summary": "",
-    "image": "https://www.digital.go.jp/assets/contents/node/basic_page/field_thumbnail_image/cef0122b-0598-47f8-8a48-dc2c57d407c1/d8639adc/kv_gennai_260216.png",
-    "fetched_at": "2026-09-07 13:34:07",
-    "ja_summary": "政府の行政業務を支援するAI「源内」の解説動画が更新されました。\n導入メリットや活用方法を網羅し、行政サービスの効率化を分かりやすく解説しています。\n詳細は公式サイトの動画にて確認可能です。"
-  },
-  {
-    "title": "How AI-native companies turn workflows into operating capability",
-    "link": "https://openai.com/index/ai-native-company-workflows",
-    "source": "OpenAI",
-    "published": "Tue, 01 Sep 2026 17:00:00 GMT",
-    "summary": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.",
-    "image": "https://images.ctfassets.net/kftzwdyauwt9/1Udre5SJ1jhUU27uMsD7Oe/6a7120a52e078e823a3c96388fac9241/index-how-ai-native-companies-turn-workflows-into-operating-capability--seo-v001.png?w=1600&amp;h=900&amp;fit=fill",
-    "fetched_at": "2026-09-07 13:34:09",
-    "ja_summary": "・AIエージェントを活用し、業務フローを自律化することで企業の競争力を強化。\n・BasisやClayなどの企業が、オンボーディングや顧客管理、開発を効率化。\n・AIネイティブな仕組みを導入し、業務プロセスを「企業の実行能力」へと転換する手法。"
-  },
-  {
-    "title": "B2Bプロダクト設計入門 - 小さなチームでも作れるエンタープライズ対応のSaaS設計",
-    "link": "https://zenn.dev/kusuke/books/cd983c465bc175",
-    "source": "Zenn Trends",
-    "published": "Sun, 06 Sep 2026 11:28:36 GMT",
-    "summary": "小さなチームでも、大企業に売れるSaaSを作ろう！\nSaaSやWebアプリ開発の「エンプラ対応どうすればいいの？」に答える実践入門書です。\n\n「usersテーブルにcompany_idを生やしたけれど、組織階層や権限で詰みそう」\n「営業から突然『SSOとメンバー管理必須の大口案件がある』と言われた」\n「あの企業の改修依頼とこの企業の改修依頼、どっちが優先ですか？」\n\nB2Cとは全く異なる「B2B・エンタープライズ開発」の要件。\n\n後から付け焼き刃で足そうとすると、アーキテクチャはあっという間に破綻してしまいます。AIに聞いて「おすすめで」開発してくれても、あなたのチームで運用に耐えうるかはまた別の話。\n\n本書は、少人数チームでも最初から破綻しない「エンプラ対応SaaS」の設計勘所を、豊富な図解とともに分かりやすく解説します！\n「はじめに」の章で全体像を、Appendixの無料公開部分で「どのような判断材料が手に入るか」がイメージできるかと思います。\n\n【本書のポイント】\n\n・複雑な概念（マルチテナント、SSO、RBAC認可、監査ログなど）が図解で一目でわかる\n・大規模フルスクラッチではなく「小さなチームがコスパ良く実現する設計パターン」に特化\n・営業や情シス、セキュリティ担当者と対等に会話できる共通言語が身につく\n\n【こんな方におすすめ】\n\n・初めてB2B SaaSや業務システムの設計・開発に携わるエンジニア\n・とりあえず動くマルチテナントを作ったものの、将来の拡張性に不安がある開発者\n・受託開発や新規事業で、スケールする堅牢なWebサービスを作りたい方\n\nエンプラ要望を「厄介な仕様変更」から「プロダクトが大きくスケールするチャンス」に変えましょう！\n\n---\n本書に記載されている会社名、製品名、サービス名等は、各社の商標または登録商標です。なお、本文中では™、®等の商標表示を省略している場合があります。",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--K68RLJaG--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYm9va19jb3Zlci9lZWVkMzc5MmM2LmpwZWc=%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg?_a=BACMTiAE",
-    "fetched_at": "2026-09-07 13:34:11",
-    "ja_summary": "小規模チームでも大企業向けSaaSを開発するための実践入門書。\nマルチテナント、SSO、権限管理など、B2B特有の複雑な要件に最初から対応できる設計ノウハウを図解で解説。\n将来の拡張性や運用に耐えうる、コスパの良い堅牢なSaaS設計を身につける。"
-  },
-  {
-    "title": "ルービックキューブを一撃で解く専用LLMを作った",
-    "link": "https://zenn.dev/issei_y/articles/4178a603322b8e",
-    "source": "Zenn Trends",
-    "published": "Sun, 06 Sep 2026 10:48:04 GMT",
-    "summary": "CUBE ZERO — ルービックキューブを一撃で解く専用LLMをゼロから育てた\n\n\n 1. なぜ作った？\n事前知識ゼロから育ち、ルービックキューブを一撃で解くLLMがあったら、かっこいいですよね。ということで、CEOの夏休みの自由研究として作りました！\n完成したモデルは、現在のキューブと過去の手順を受け取り、次の1手を自己回帰的に生成します。学習後は、初めて見る局面の99.83%を1回の生成で解けました。\n\n 2. ルービックキューブはどれくらい難しいのか\nルービックキューブには、約 4.3 × 10^19 通りの状態があります。ただし、すべての状態が同じ難しさではありません。\n完...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--KsbKV6Yy--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%25AB%25E3%2583%25BC%25E3%2583%2593%25E3%2583%2583%25E3%2582%25AF%25E3%2582%25AD%25E3%2583%25A5%25E3%2583%25BC%25E3%2583%2596%25E3%2582%2592%25E4%25B8%2580%25E6%2592%2583%25E3%2581%25A7%25E8%25A7%25A3%25E3%2581%258F%25E5%25B0%2582%25E7%2594%25A8LLM%25E3%2582%2592%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:issei_y%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2Q2ZmYyMzA4MjcuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "fetched_at": "2026-09-07 13:34:11",
-    "ja_summary": "・ルービックキューブを一撃で解く専用LLM「CUBE ZERO」を開発。\n・学習後のモデルは、未知の局面の99.83%を1回の生成で攻略可能。\n・AIが事前知識なしで複雑なパズルを解く能力を実証した自由研究プロジェクト。"
-  },
-  {
-    "title": "個人PCのClaude Codeの設定ファイルと、設定の動機を一部紹介します",
-    "link": "https://zenn.dev/yuki82511988/articles/45a5a464514ac1",
-    "source": "Zenn Trends",
-    "published": "Sun, 06 Sep 2026 01:32:12 GMT",
-    "summary": "はじめに\nClaude Codeは何も設定しないまま利用すると、意図しないコマンドを実行したり、サイトにアクセスしたりしてしまう可能性があります。それらを防いでくれるのが設定ファイルです。\n本記事では、自分が調査しながら作成して普段使いしている設定ファイルの一部と、なぜそのように設定したかの動機を紹介したいと思います。\n予期せぬ事故の記事を複数見て、自分の記事が何かの参考になればいいなと思ったのと、自分の設定を見直してきちんと設定の理由を言語化したいと思い記事を書きました。\nこの設定間違ってるかも？とか、こうした方が良いかも？などのアドバイスがあれば、とても嬉しいです。よろしくお願い...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--ejcLHEK5--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E5%2580%258B%25E4%25BA%25BAPC%25E3%2581%25AEClaude%2520Code%25E3%2581%25AE%25E8%25A8%25AD%25E5%25AE%259A%25E3%2583%2595%25E3%2582%25A1%25E3%2582%25A4%25E3%2583%25AB%25E3%2581%25A8%25E3%2580%2581%25E8%25A8%25AD%25E5%25AE%259A%25E3%2581%25AE%25E5%258B%2595%25E6%25A9%259F%25E3%2582%2592%25E4%25B8%2580%25E9%2583%25A8%25E7%25B4%25B9%25E4%25BB%258B%25E3%2581%2597%25E3%2581%25BE%25E3%2581%2599%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:yuki%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2ZlZWI1NTQyZGMuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "fetched_at": "2026-09-07 13:34:11",
-    "ja_summary": "・Claude Codeの予期せぬ事故を防ぐための設定ファイル例と、その設定理由を解説。\n・意図しないコマンド実行やサイトアクセスを制限する安全な運用手法を紹介。\n・設定の最適化に向けたフィードバックやノウハウ共有を目的とした内容。"
   }
 ]
