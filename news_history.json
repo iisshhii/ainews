@@ -1,5 +1,95 @@
 [
   {
+    "title": "AIでBlenderを操作する方法 - CLIとMCPの使い分け",
+    "link": "https://note.com/npaka/n/n7f7531e7b9ed",
+    "source": "note (npaka)",
+    "published": "Thu, 03 Sep 2026 08:10:24 +0900",
+    "summary": "<p id=\"0f4d4cb5-edb9-4348-8aa6-c03acfb1d07a\" name=\"0f4d4cb5-edb9-4348-8aa6-c03acfb1d07a\">AIからBlenderを操作する2つの方法、CLIとMCPの特徴と使い分けを整理します。</p><br /><br /><a href=\"https://note.com/npaka/n/n7f7531e7b9ed\">続きをみる</a>",
+    "image": "https://assets.st-note.com/production/uploads/images/309727618/rectangle_large_type_2_e4390e553717b7e3c193faefe1c7e464.png?width=800",
+    "fetched_at": "2026-09-10 22:58:56",
+    "ja_summary": "・AIからBlenderを操作する手法として、CLIとMCPの2種類を解説。\n・それぞれの特徴を整理し、目的に応じた適切な使い分けを提示。\n・技術的な統合手段を理解し、AIによる3D制作の効率化を支援する。"
+  },
+  {
+    "title": "How Claude’s text watermark works",
+    "link": "https://www.anthropic.com/news/claude-text-watermark",
+    "source": "Anthropic (News)",
+    "published": "Fri, 14 Aug 2026 00:00:00 +0000",
+    "summary": "How Claude’s text watermark works",
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Quill&amp;backgroundColor=heather",
+    "fetched_at": "2026-09-10 22:59:06",
+    "ja_summary": "・Claudeが生成したテキストには、AIによる出力であることを示す識別信号（透かし）が埋め込まれている。\n・この仕組みにより、AIが作成したコンテンツの検知と悪用防止が可能になる。\n・独自のアルゴリズムで文章に微細なパターンを加え、高い精度での判別を実現している。"
+  },
+  {
+    "title": "良いAIの行動、メモ",
+    "link": "https://zenn.dev/imaimai17468/articles/4fe1531b71929b",
+    "source": "Zenn Trends",
+    "published": "Thu, 10 Sep 2026 04:38:52 GMT",
+    "summary": "誰かの作った膨大なAI駆動開発のワークフローやフレームワークではなく、私が個人的にAIにこう動いて欲しいと与えているものをまとめています。間違っていることがどんどん取り入れていきたいので教えてください。\nコーディングに特化した内容、具体のHooksやツールに関する記述は除いています。\n雑多なメモとして読んでください。当たり前のことばかりかもしれません。\n\n 考え方\n\n 設計方針\n拡張性を標準とします。 API、インターフェース、型、データ構造など、すべての実装を将来の拡張を考慮して設計します。\nこれは、明示された作業範囲や、それが最終形とされているかどうかにかかわらず、すべての作業に適用...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--cKcn559_--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E8%2589%25AF%25E3%2581%2584AI%25E3%2581%25AE%25E8%25A1%258C%25E5%258B%2595%25E3%2580%2581%25E3%2583%25A1%25E3%2583%25A2%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%2584%25E3%2581%25BE%25E3%2581%2584%25E3%2581%25BE%25E3%2581%2584%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2I3ZmZmMTI1ODguanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-09-10 22:59:07",
+    "ja_summary": "・AIが将来の拡張性を考慮した設計を行うよう、個人の思考プロセスや指針をまとめた備忘録。\n・コーディング技術に依存しない設計思想を重視。\n・実用性を高めるため、フィードバックを受け入れながら随時内容を更新するスタンス。"
+  },
+  {
+    "title": "GPT-6 Astraは何を待ち、いつ指示を取り込むのか — async tool callingとmid-turn steeringを実測",
+    "link": "https://zenn.dev/peoplex_blog/articles/65768c769de4b0",
+    "source": "Zenn Trends",
+    "published": "Thu, 10 Sep 2026 03:14:11 GMT",
+    "summary": "はじめに\n2026年9月3日にOpenAIがGPT-6 Astraを公開しました。\n公式の出しているベンチマークも凄まじく、筆者の体験としても体感も現状はそれに伴うものです。\nhttps://x.com/OpenAI/status/2095595752815030713?s=20\nmodel guidanceを眺めていると、What's newセクションで紹介されている、Async Tool CallingとMid-turn steeringが目につきました。\nhttps://developers.openai.com/api/docs/guides/latest-model?mod...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--gk0T2P8j--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:GPT-6%2520Astra%25E3%2581%25AF%25E4%25BD%2595%25E3%2582%2592%25E5%25BE%2585%25E3%2581%25A1%25E3%2580%2581%25E3%2581%2584%25E3%2581%25A4%25E6%258C%2587%25E7%25A4%25BA%25E3%2582%2592%25E5%258F%2596%25E3%2582%258A%25E8%25BE%25BC%25E3%2582%2580%25E3%2581%25AE%25E3%2581%258B%2520%25E2%2580%2594%2520async%2520tool%2520calling%25E3%2581%25A8mid-tur...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:joe_re%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzY2YjYwNDBmMmMuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:PeopleX%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2UxZDcxODA5NzkuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-09-10 22:59:08",
+    "ja_summary": "OpenAIが公開した「GPT-6 Astra」の新機能である、非同期ツール利用（Async Tool Calling）と対話中の割り込み制御（Mid-turn steering）の実装と性能が注目されている。\nこれらの機能により、従来のモデルよりも並列処理や対話の柔軟性が大幅に向上し、実用性が飛躍的に高まっている。\n公式のベンチマークや実際の操作感からも、AIの応答速度と柔軟な制御において新たな標準となる性能を示している。"
+  },
+  {
+    "title": "Geolonia の開発現場における AIの活用について",
+    "link": "https://speakerdeck.com/miya0001/geolonia-no-kaihatsu-genba-niokeru-ai-no-katsuyou-nitsuite",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-09-10T08:32:01-04:00",
+    "summary": "",
+    "image": "https://files.speakerdeck.com/presentations/4cbcc8ef7eca48d886b326dca96d63f5/preview_slide_0.jpg?40527060",
+    "fetched_at": "2026-09-10 22:59:10",
+    "ja_summary": "・Geoloniaは開発現場にAIを導入し、業務効率化とエンジニアの生産性向上を実現。\n・コード生成やドキュメント作成の自動化により、開発スピードと品質を改善。\n・AIを「対話型パートナー」として活用し、技術力の底上げと属人化の解消を推進。"
+  },
+  {
+    "title": "MCPをつなげて作る組織横断のAIエージェント基盤(の開発工程)",
+    "link": "https://speakerdeck.com/tsubakimoto_s/mcp-o-tsunage-te-tsukuru-soshiki-oudan-no-ai-ejento-kiban-no-kaihatsu-koutei",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-09-10T06:50:55-04:00",
+    "summary": "Postman API Night Fukuoka 2026 Fall - connpass で登壇させていただきました\nhttps://postman.connpass.com/event/401594/",
+    "image": "https://files.speakerdeck.com/presentations/2f82d82a89b74ce1b34df20480ae22e5/preview_slide_0.jpg?40525639",
+    "fetched_at": "2026-09-10 22:59:10",
+    "ja_summary": "・「MCP」を活用し、組織をまたいで連携可能なAIエージェント基盤の開発手法を解説。\n・Postman API Night Fukuoka 2026 Fallにて、具体的な開発工程や実装の知見を登壇発表。\n・AIエージェントの組織横断的な運用やシステム統合に関心がある層に向けた技術共有。"
+  },
+  {
+    "title": "AIネイティブプロダクトで顧客価値を最大化するプロダクトエンジニアとFDEの協働",
+    "link": "https://speakerdeck.com/righttouch/pde-conf26",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-09-10T05:58:44-04:00",
+    "summary": "2026 Product Engineer Conference資料",
+    "image": "https://files.speakerdeck.com/presentations/f0635b58312f460693cd2b2ad97d0545/preview_slide_0.jpg?40524536",
+    "fetched_at": "2026-09-10 22:59:10",
+    "ja_summary": "・AIネイティブなプロダクト開発において、プロダクトエンジニアとFDE（フロントエンド・デザインエンジニア等）の協働が顧客価値最大化の鍵となる。\n・高度なAI実装とユーザー体験を両立させるため、職種を超えた連携体制が不可欠。\n・専門性の融合により、AIの可能性を最大限に引き出す開発アプローチを追求する。"
+  },
+  {
+    "title": "ジュニアの「AIが書いたコードが理解できない」問題の対応策",
+    "link": "https://qiita.com/im_yoneda/items/f27e52d2f852ba017a7e",
+    "source": "Qiita (Popular)",
+    "published": "2026-09-07T11:53:07+09:00",
+    "summary": "## はじめに\n\n私は新卒でエンジニアになって1年が経ちました。\n\n生成AIに実装を依頼すると、コードを書く時間そのものは大きく短縮できることを実感しています。\n\n一方、私のようなジュニアエンジニアの場合、生成されたコードを理解するまでに時間がかかるため、 **期待したほど開発全体は速くならない** とも感じます。\n\nそこでまず、生成されたコードを読むためのレビューガイドをAIで作ってみました。\n",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYzNDg3NDA3JTJGODkzYjlhNmVhNTc4Y2NkZWE1NjI2MTBkNTcxYWE0NWE5MWE0ZWVkZiUyRnhfbGFyZ2UucG5nJTNGMTc0OTAxNDMxNT9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9YTZhOWZkNDI4YWFiYjNhNWExZTQ2NmQ1ZWYxMmNmN2Q%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkZmMGY5ODM4NGQzMDM0Y2QwMTMwZDIyOTAxMzQzNTcxYTZlYTMyYjgxJTJGb3JpZ2luYWwuanBnJTNGMTY0NzI3NjcyOT9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz0xNzNhMzdmM2JlYWU5ZDU3ODBlMmQ5OTE1N2E2YTQxZQ%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D76d9e7d8efcee6ef7d981accc76939be?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgyJUI4JUUzJTgzJUE1JUUzJTgzJThCJUUzJTgyJUEyJUUzJTgxJUFFJUUzJTgwJThDQUklRTMlODElOEMlRTYlOUIlQjglRTMlODElODQlRTMlODElOUYlRTMlODIlQjMlRTMlODMlQkMlRTMlODMlODklRTMlODElOEMlRTclOTAlODYlRTglQTclQTMlRTMlODElQTclRTMlODElOEQlRTMlODElQUElRTMlODElODQlRTMlODAlOEQlRTUlOTUlOEYlRTklQTElOEMlRTMlODElQUUlRTUlQUYlQkUlRTUlQkYlOUMlRTclQUQlOTYmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1lZWRjNzMzYjU1ZGM0YjlmZWFhMzVkYTExMTYzYzgyNw&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBpbV95b25lZGEmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz0yM2Q5YjFkYzEzYjk3MjkzNzBkMDA2ZGI5NTk4NGI4Mg&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=5qCq5byP5Lya56S-V29ya3MgSHVtYW4gSW50ZWxsaWdlbmNl&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=6ae456799b2c7f626fe2c6821c08ee1b",
+    "fetched_at": "2026-09-10 22:59:12",
+    "ja_summary": "・生成AIでコード作成は早まるが、理解に時間がかかり全体効率が上がらない課題がある。\n・ジュニアエンジニア向けに、AI生成コードを効率よく読むための「レビューガイド」を作成した。\n・コードの内容を深く理解し、開発スピードと品質を両立させるための仕組みを構築している。"
+  },
+  {
+    "title": "CLAUDE.mdをそろそろ見直す時期かも ── Claude 5世代向けの最適化手順・スキル・プロジェクト種類別の例",
+    "link": "https://qiita.com/nogataka/items/d6a54f3694726b9141f3",
+    "source": "Qiita (Popular)",
+    "published": "2026-09-05T12:19:18+09:00",
+    "summary": "\n## 要点\n\n- Anthropic は 2026年7月24日のブログで、Claude Opus 5 / Fable 5 向けに Claude Code のシステムプロンプトを 80% 以上削り、社内コーディング評価で性能低下が測定できなかったと公表しました。\n- 理由は「制約の多くは最悪のケース回避のために入れたもので、今のモデルは周囲の文脈から判断できる」からです。\n- 私たちの CLAUD",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYxNjEyOTglMkZjMWUzZmZkNmVhZGExOTY5ZmYzYzQ0YjE0ZmRlMDgxYmNkZTZmNTAwJTJGeF9sYXJnZS5wbmclM0YxNTg0ODQ1NTg0P2l4bGliPXJiLTQuMS4xJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz1kMDQ2ZmE2Mzg1YzIyMmQ4ZjJkNWI0YjRkYTc3Mjc0NQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Dfde89a6aafc1c82cb07bd196a821c036?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9Q0xBVURFLm1kJUUzJTgyJTkyJUUzJTgxJTlEJUUzJTgyJThEJUUzJTgxJTlEJUUzJTgyJThEJUU4JUE2JThCJUU3JTlCJUI0JUUzJTgxJTk5JUU2JTk5JTgyJUU2JTlDJTlGJUUzJTgxJThCJUUzJTgyJTgyJTIwJUUyJTk0JTgwJUUyJTk0JTgwJTIwQ2xhdWRlJTIwNSVFNCVCOCU5NiVFNCVCQiVBMyVFNSU5MCU5MSVFMyU4MSU5MSVFMyU4MSVBRSVFNiU5QyU4MCVFOSU4MSVBOSVFNSU4QyU5NiVFNiU4OSU4QiVFOSVBMCU4NiVFMyU4MyVCQiVFMyU4MiVCOSVFMyU4MiVBRCVFMyU4MyVBQiVFMyU4MyVCQiVFMyU4MyU5NyVFMyU4MyVBRCVFMyU4MiVCOCVFMyU4MiVBNyVFMyU4MiVBRiVFMyU4MyU4OCVFNyVBOCVBRSVFOSVBMSU5RSVFMiU4MCVBNiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPWMyMjFmMTY5OTdiNzVlNTE3ZGJiYzIwYzhhNzg1NGJi&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBub2dhdGFrYSZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWNiYWE0ODdlNWU4NDg4ZjQ0NjQ0MjVlZTRhNDY2ZWUz&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=04bf0bf93c2c185a1baa235ec1d76d8d",
+    "fetched_at": "2026-09-10 22:59:12",
+    "ja_summary": "・Claude 5世代のAIは文脈理解力が向上し、従来の冗長なシステムプロンプトは8割削除しても性能が維持される。\n・「最悪の事態」を防ぐための細かな制約は不要になり、モデルの自律的な判断に任せることが可能になった。\n・CLAUDE.mdをシンプルに刷新し、AIの推論能力を最大限に引き出す設定への見直しが推奨されている。"
+  },
+  {
     "title": "楠木建×山口周　産業革命と生成AIに共通する課題　そこに「需要」はあるのか (ビジネスTopics)",
     "link": "https://business.nikkei.com/atcl/gen/19/00461/090300668/",
     "source": "日経ビジネス 最新",
@@ -908,95 +998,5 @@
     "image": "https://www.techno-edge.net/imgs/rss/34101.jpg",
     "fetched_at": "2026-09-10 05:35:45",
     "ja_summary": "・Logitechが開発者向けAI操作キーパッド「MX Keypad」を99.99ドルで発売。\n・CodexやClaude CodeなどのAIツールとGitHubを液晶キーで直接操作可能。\n・開発環境をまたいだ効率的なプログラミング作業を支援する。"
-  },
-  {
-    "title": "The Work Now Within Reach",
-    "link": "https://openai.com/index/the-work-now-within-reach",
-    "source": "OpenAI",
-    "published": "Tue, 08 Sep 2026 13:00:00 GMT",
-    "summary": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.",
-    "image": "https://images.ctfassets.net/kftzwdyauwt9/55vtZrraOkvZmBXfImz6JE/79cb6fc5580f7aaa2ec9d43e1a993efd/d43a4f678ae469e8.png?w=1600&amp;h=900&amp;fit=fill",
-    "fetched_at": "2026-09-10 05:35:47",
-    "ja_summary": "・高性能かつ低コストなAIの普及により、個人や企業の業務範囲が拡大する。\n・AI活用によって業務効率が向上し、経済的な事業成長が促進される。\n・AIは今後、より手軽で実用的なビジネスツールとして定着する。"
-  },
-  {
-    "title": "Funding grants for new research into AI and teen development",
-    "link": "https://openai.com/index/teen-development-research-grants",
-    "source": "OpenAI",
-    "published": "Tue, 08 Sep 2026 09:00:00 GMT",
-    "summary": "Apply now for OpenAI’s $5 million grant program supporting independent research on how generative AI affects teen development, well-being, and safety.",
-    "image": "https://images.ctfassets.net/kftzwdyauwt9/6rLDhv1Xqytih40afkEb2u/0680cc29163ad5f451a44dd2d51aea37/4bzz6p65ky7zwfd4pe42ou-seo__3_.png?w=1600&amp;h=900&amp;fit=fill",
-    "fetched_at": "2026-09-10 05:35:48",
-    "ja_summary": "・OpenAIが生成AIと10代の成長・安全に関する研究支援として500万ドルの助成金プログラムを開始\n・独立した研究機関を対象に、AIが若者に与える影響についての調査を公募\n・現在、特設サイトより申請受付中"
-  },
-  {
-    "title": "AIっぽくない画像を作る画風プロンプト38種類＋テンプレート",
-    "link": "https://qiita.com/maeda-niku18/items/b633dda178c505461080",
-    "source": "Qiita (Popular)",
-    "published": "2026-09-07T21:46:56+09:00",
-    "summary": "# AI画像生成の「AIっぽさ」を消すための画風プロンプト集（38スタイル＋テンプレート）\n\nChatGPT（GPT Image）で資料やWebサイト用のイラストを作っていると、毎回同じところで引っかかります。\n\n線が均一すぎる、グラデーションが滑らかすぎる、顔が整いすぎている、背景に意味のない小物が増える。要するに、AIが生成した画像だと一目で分かってしまうことがあります。\n\nそこで、日本語の指",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0MDc0NDg5JTJGMTVlNjA3MzgzZGJhOGRmZWY2MThjNjFiNWFjZWJiMTcxOGU1ZWIzZiUyRmxhcmdlLnBuZyUzRjE3ODE5NjE1MjU_aXhsaWI9cmItNC4xLjEmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPWViN2M5ODEzMDBlYmRhYzkyMzVmYjNmOTJjNGY0OGU3%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Db625315bfa0ca2bb1545ceed97bbfdb0?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9QUklRTMlODElQTMlRTMlODElQkQlRTMlODElOEYlRTMlODElQUElRTMlODElODQlRTclOTQlQkIlRTUlODMlOEYlRTMlODIlOTIlRTQlQkQlOUMlRTMlODIlOEIlRTclOTQlQkIlRTklQTIlQTglRTMlODMlOTclRTMlODMlQUQlRTMlODMlQjMlRTMlODMlOTclRTMlODMlODgzOCVFNyVBOCVBRSVFOSVBMSU5RSVFRiVCQyU4QiVFMyU4MyU4NiVFMyU4MyVCMyVFMyU4MyU5NyVFMyU4MyVBQyVFMyU4MyVCQyVFMyU4MyU4OCZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPWJiOWMzMTNkZTA0Yjk2OTdmY2M4MjJkYzY1ZTQ4YTZj&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBtYWVkYS1uaWt1MTgmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz0wZGE1MTAwNDczMjAxNzg2MGVmODBmMmQwOGU1MTkxYg&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=8cc9ff0da37fd27f088f53e716a9c294",
-    "fetched_at": "2026-09-10 05:35:52",
-    "ja_summary": "・AI特有の「均一で滑らかな仕上がり」を解消する38種類の画風プロンプトとテンプレートを公開。\n・手描き感やアナログな質感を加えることで、AI生成物だと分かりにくい自然なイラストを生成可能。\n・資料やWebサイト等で、より人間味のある高品質な素材を作りたい人向けの実践的なノウハウ集。"
-  },
-  {
-    "title": "日立社長の“フィジカルAI”熱弁に「あれは、叱咤激励だ」　社内外に刺さるトップメッセージの核心とは",
-    "link": "https://www.itmedia.co.jp/business/articles/2609/08/news028.html",
-    "source": "ITmedia ビジネス",
-    "published": "Tue, 08 Sep 2026 17:30:00 +0900",
-    "summary": "日立製作所の徳永社長が講演で「フィジカルAI」について熱弁を振るった。その講演は、社員にも響いたようだ。社内外に刺さるトップメッセージの核心とは。",
-    "image": "https://image.itmedia.co.jp/business/articles/2609/08/cover_news028.jpg",
-    "fetched_at": "2026-09-10 02:58:47",
-    "ja_summary": "・日立の徳永社長が提唱する「フィジカルAI」が、変革への強いメッセージとして社内外で共感を集めている。\n・この熱弁は単なる技術解説ではなく、停滞を打破し挑戦を促す「叱咤激励」として機能している。\n・トップが明確なビジョンを言語化し発信することが、組織の意識変革と求心力向上に直結している。"
-  },
-  {
-    "title": "AIを使うほど残業が長くなる　効率化のカギは「浮いた時間」の使い方 (ニュースを突く)",
-    "link": "https://business.nikkei.com/atcl/NBD/19/00108/00398/",
-    "source": "日経ビジネス 最新",
-    "published": "",
-    "summary": "経済財政白書で人工知能（AI）を活用すればするほど残業時間が長くなる弊害が指摘された。企業にはAI時代の時間設計が必要だ。",
-    "image": "https://business.nikkei.com/atcl/NBD/19/00108/00398/fb.jpg",
-    "fetched_at": "2026-09-10 02:58:50",
-    "ja_summary": "・AI活用で業務効率が上がっても、残業時間はかえって増加する傾向にある。\n・AIが生み出した時間を別の作業で埋めてしまうことが主な原因。\n・企業はAI導入に伴う「浮いた時間」の新たな活用ルールを設計すべきである。"
-  },
-  {
-    "title": "建設現場にAIロボット職人",
-    "link": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00005/090300223/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "建設現場における労働力不足の解消と生産性・安全性向上のため、人工知能（AI）ロボットへの期待が高まっている。清水建設は、2030年度のヒト型ロボット実用化を目指し、現場での実証を開始した。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00005/090300223/sns_10.jpg?20220512",
-    "fetched_at": "2026-09-10 02:58:55",
-    "ja_summary": "・清水建設が建設現場の労働力不足解消に向け、ヒト型AIロボットの実証実験を開始。\n・AIロボットにより生産性と安全性の向上を目指す。\n・2030年度の実用化を目標としている。"
-  },
-  {
-    "title": "既存水源に依存しない水インフラ",
-    "link": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00008/090300333/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "大気中の水分を集めて水を生成する大気水生成（Atmospheric Water Generation）と、水循環技術を融合する取り組みが進んでいる。水インフラ事業を手掛けるクボタは米AirJoule（エアジュール）と2026年8月から30年まで、大気水生成装置の実証を米国の新興住宅地向けに実施する。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00008/090300333/sns_16.jpg?20220512",
-    "fetched_at": "2026-09-10 02:58:55",
-    "ja_summary": "・クボタが米AirJouleと組み、空気中の水分から水を作る「大気水生成」の実証実験を開始。\n・既存の水源に依存しない新しい水インフラの構築を目指す。\n・2026年8月から2030年にかけ、米国の新興住宅地で技術検証を行う。"
-  },
-  {
-    "title": "ローカルLLMを高速化する投機的デコード - MTP / EAGLE-3 / DFlash / DSpark",
-    "link": "https://note.com/npaka/n/n26336b2582aa",
-    "source": "note (npaka)",
-    "published": "Tue, 01 Sep 2026 13:19:31 +0900",
-    "summary": "<p id=\"8ef13be4-db73-4a41-ad15-1c16f61b51f6\" name=\"8ef13be4-db73-4a41-ad15-1c16f61b51f6\">ローカルLLMを高速化する「投機的デコード」についてまとめました。</p><br /><br /><a href=\"https://note.com/npaka/n/n26336b2582aa\">続きをみる</a>",
-    "image": "https://assets.st-note.com/production/uploads/images/309148856/rectangle_large_type_2_a2e7d6c4271fbc69baa6ab4c8385151e.png?width=800",
-    "fetched_at": "2026-09-10 02:59:02",
-    "ja_summary": "ローカルLLMの推論速度を向上させる技術「投機的デコード」の概要と主要手法（MTP、EAGLE-3、DFlash、DSpark）がまとめられています。\nモデルの回答予測を並列化することで、生成待ち時間を大幅に短縮可能です。\nLLMを実用的な速度でローカル環境で動かしたいエンジニアにとって有益な技術解説です。"
-  },
-  {
-    "title": "Paul Christiano joins OpenAI Foundation Board",
-    "link": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
-    "source": "OpenAI",
-    "published": "Wed, 09 Sep 2026 17:00:00 GMT",
-    "summary": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards.",
-    "image": "https://images.ctfassets.net/kftzwdyauwt9/182NzFWut4sS5hBGtIVsq5/c2620026fe60121fe6543a992c7477ea/paul-christiano-joins-openai-foundation-board--seo-v001.png?w=1600&amp;h=900&amp;fit=fill",
-    "fetched_at": "2026-09-10 02:59:08",
-    "ja_summary": "・AIアライメントと安全性の専門家であるポール・クリスティアーノ氏がOpenAI財団の理事に就任。\n・同氏は財団の理事に加え、安全性・セキュリティ委員会のメンバーも兼任する。\n・AIの安全性向上と標準化に向けた体制を強化する狙い。"
   }
 ]
