@@ -1,5 +1,75 @@
 [
   {
+    "title": "「VAIO T」発表 再挑戦する理由",
+    "link": "https://news.yahoo.co.jp/pickup/6595069?source=rss",
+    "source": "Yahoo!ニュース 経済",
+    "published": "Sat, 12 Sep 2026 07:58:49 GMT",
+    "summary": "",
+    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/9/12/fde6b5197192d83ca94a9b33770b82c240860a27467e177a8f69943fe91fceea.jpg",
+    "fetched_at": "2026-09-12 20:40:09",
+    "ja_summary": "・VAIOが新ブランド「VAIO T」を発表し、PC市場へ再挑戦する。\n・新たなターゲット層や市場ニーズを捉えた戦略的展開を狙う。\n・独自性と品質を武器に、ブランド価値の再構築を図る。"
+  },
+  {
+    "title": "パナソニック、AI向け蓄電システム売上高1.5兆円規模も　EV電池から転換",
+    "link": "https://www.itmedia.co.jp/business/articles/2609/11/news053.html",
+    "source": "ITmedia ビジネス",
+    "published": "Fri, 11 Sep 2026 07:30:00 +0900",
+    "summary": "パナソニックホールディングス傘下で電池事業を手掛けるパナソニックエナジーの只信一生社長は10日、東京都内で報道陣の取材に応じ、AIデータセンター向け蓄電システムの売上高が「2030年度に最大1兆5000億円規模になる可能性がある」との見通しを示した。",
+    "image": "https://image.itmedia.co.jp/business/articles/2609/11/cover_news053.jpg",
+    "fetched_at": "2026-09-12 20:40:11",
+    "ja_summary": "・パナソニックはAIデータセンター向け蓄電システムに注力し、2030年度に売上1.5兆円規模を目指す。\n・EV向け電池事業を軸としてきた戦略を転換し、AI関連需要の取り込みを加速させる。"
+  },
+  {
+    "title": "Anthropicが「AI反対派」を監視・通報しているとの報道　同社は反論",
+    "link": "https://japan.cnet.com/article/35252557/",
+    "source": "CNET Japan",
+    "published": "",
+    "summary": "米AnthropicがAI開発に反対する活動家を監視し、犯罪を起こす恐れがあるとして警察に通報していると、米誌The American Prospectが9日（現地時間）に報じた。「Claude」を手がける同社は「活動家を監視するための予測型監視システムを構築してはいない」と反論している。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35252557/\"><img src=\"https://japan.cnet.com/storage/2026/09/12/dd4b070048721dd84592f45ba6d014d2/t/184/138/d/04.jpeg\" /></a>",
+    "image": "https://japan.cnet.com/storage/2026/09/12/dd4b070048721dd84592f45ba6d014d2/t/184/138/d/04.jpeg",
+    "fetched_at": "2026-09-12 20:40:30",
+    "ja_summary": "・AnthropicがAI反対派を監視・警察に通報していると米誌が報じた。\n・同社は「予測型監視システムは構築していない」と強く反論している。"
+  },
+  {
+    "title": "Cognizant and Anthropic expand their partnership to bring Claude to enterprise clients",
+    "link": "https://www.anthropic.com/news/cognizant-anthropic",
+    "source": "Anthropic (News)",
+    "published": "Mon, 27 Jul 2026 00:00:00 +0000",
+    "summary": "Cognizant and Anthropic expand their partnership to bring Claude to enterprise clients",
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+    "fetched_at": "2026-09-12 20:40:39",
+    "ja_summary": "・CognizantとAnthropicが提携を拡大。\n・企業向けにClaudeの導入支援を強化。\n・法人顧客のAI活用と業務効率化を加速させる。"
+  },
+  {
+    "title": "Introducing Claude Opus 5",
+    "link": "https://www.anthropic.com/news/claude-opus-5",
+    "source": "Anthropic (News)",
+    "published": "Fri, 24 Jul 2026 00:00:00 +0000",
+    "summary": "Introducing Claude Opus 5",
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/54b7ab1d2c2521f83ae5d2da5f9d99321c370d24-2880x1620.png",
+    "fetched_at": "2026-09-12 20:40:39",
+    "ja_summary": "・AIモデル「Claude Opus」の次世代版となる「Claude Opus 5」が発表。\n・従来モデルより推論能力や処理精度が大幅に向上。\n・複雑なタスクの自動化や高度な分析をより効率的に実行可能。"
+  },
+  {
+    "title": "Nuxt.js から Next.js へ ── フロントエンド技術リプレイスにおけるハーネスエンジニアリングと理解負債",
+    "link": "https://zenn.dev/mediba/articles/7d0d7d70678546",
+    "source": "Zenn Trends",
+    "published": "Wed, 09 Sep 2026 23:49:11 GMT",
+    "summary": "はじめに\n株式会社 mediba でフロントエンドエンジニアをしている中畑です。\n弊社では Nuxt.js から Next.js への技術リプレイスプロジェクトが進行中です。この記事では、 Claude Code を活用した技術リプレイスの現状と課題をお伝えします。\n!\n要約\n\nハーネス(ルール・コンテキスト・フィードバック・スキル)を整備し、開発フローをスキル化して Claude Code による技術リプレイスを進めている\n移植精度の向上や高速化、属人化の防止というメリットがある一方、技術負債の移植や開発者の「理解負債」というデメリットが生じている\n現行システムに実際に触れる、モッ...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--gMGDZ9mm--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Nuxt.js%2520%25E3%2581%258B%25E3%2582%2589%2520Next.js%2520%25E3%2581%25B8%2520%25E2%2594%2580%25E2%2594%2580%2520%25E3%2583%2595%25E3%2583%25AD%25E3%2583%25B3%25E3%2583%2588%25E3%2582%25A8%25E3%2583%25B3%25E3%2583%2589%25E6%258A%2580%25E8%25A1%2593%25E3%2583%25AA%25E3%2583%2597%25E3%2583%25AC%25E3%2582%25A4%25E3%2582%25B9%25E3%2581%25AB%25E3%2581%258A%25E3%2581%2591%25E3%2582%258B%25E3%2583%258F%25E3%2583%25BC%25E3%2583%258D%25E3%2582%25B9%25E3%2582%25A8%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%258B%25E3%2582%25A2%25E3%2583%25AA%25E3%2583%25B3%25E3%2582%25B0%25E3%2581%25A8%25E7%2590%2586%25E8%25A7%25A3%25E8%25B2%25A0%25E5%2582%25B5%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:y_nakahata%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzNkMjEzMTljZmYuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:mediba%2520%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jTG8yVHNWY0hrZWxwQ21EY1VEZlNCT2ZsVUJaUndra3dsT1RnakhKZVJHcVFkeDNRPXMyNTAtYw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-09-12 20:40:41",
+    "ja_summary": "・mediba社がNuxt.jsからNext.jsへの移行をClaude Code活用により効率化。\n・AIによる移植で作業速度や品質は向上する一方、古い技術負債や「理解負債」の引き継ぎが課題。\n・AI任せにせず、現行システムへの深い理解と開発スキルの言語化がリプレイス成功の鍵。"
+  },
+  {
+    "title": "AI に自分の名前を聞いたら、�履歴書を書かれた話 〜 つい「やって」と言ってしまいました",
+    "link": "https://speakerdeck.com/daihiraoka/ai-ni-jibun-no-namae-o-kiitara-rirekisho-o-kakareta-hanashi-tsui-ya-te-to-i-te-shimaimashita",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-09-12T03:56:00-04:00",
+    "summary": "9月11日 ひなたいLT会 #2で登壇した資料です。\n\n「AI に自分の名前を聞いたら、履歴書を書かれた話 ～つい『やって』と言ってしまいました～」\n\nAIに自分の名前を聞いただけなのに、登壇・執筆・コミュニティ活動などから人物像が組み立てられ、まるで履歴書のような回答が返ってきました。\n\nAI時代における個人のアウトプットとデジタルな足跡について考えたLTです。",
+    "image": "https://files.speakerdeck.com/presentations/ca7ca14bcfdd4b508ecfe915dec54f61/preview_slide_0.jpg?40548311",
+    "fetched_at": "2026-09-12 20:40:42",
+    "ja_summary": "AIに自分の名前を尋ねたところ、公開情報をもとに完璧な履歴書が自動生成された。\nネット上の活動履歴がAIによって人物像として統合される現状を実体験。\nデジタルな足跡が自身のキャリアを可視化する「AI時代の自己発信」のあり方を考察。"
+  },
+  {
     "title": "【一橋大学､新設学部の狙いは?】受験のプロが作った｢厳選予想入試問題｣から見えたAI時代の｢頭のよさ｣と｢観る力｣の正体 | キャリア・教育 | 東洋経済オンライン",
     "link": "https://toyokeizai.net/articles/-/954525?utm_source=rss&utm_medium=http&utm_campaign=link_back",
     "source": "東洋経済オンライン",
@@ -928,75 +998,5 @@
     "image": "https://japan.cnet.com/storage/2026/02/13/7292e298abf31ab91539ba36081db8e5/t/184/138/d/gemini-logo-gettyimages-2222922300_1280x960.jpg",
     "fetched_at": "2026-09-11 13:37:36",
     "ja_summary": "・GoogleがWindows向け「Gemini」デスクトップアプリを公開。\n・「Alt＋スペース」キーで素早く起動し、AIとの対話が可能。\n・デスクトップから手軽にアクセスでき、業務効率の向上が期待できる。"
-  },
-  {
-    "title": "ウーバーなどのテック企業で進む「マイクロチーム」の解体…AI時代における組織再編と管理職の新たな役割",
-    "link": "https://www.businessinsider.jp/article/2609-uber-micro-teams-middle-managers/",
-    "source": "Business Insider Japan",
-    "published": "Fri, 11 Sep 2026 03:05:00 GMT",
-    "summary": "大フラット化の動きは、多くのテクノロジー企業が、階層を少なくし、管理職の数を増やす形で組織図の再構築を図っていることの表れです。",
-    "image": "https://media.loom-app.com/loom/2026/09/03/be623ca5-232b-49dd-8f33-72b7c637f3da/original.jpg?w=1200",
-    "fetched_at": "2026-09-11 13:37:36",
-    "ja_summary": "・テック企業で組織の階層を減らす「大フラット化」が進行中\n・効率化のため「マイクロチーム」を解体し、管理職を増やす再編へ\n・AI時代に適応し、管理職に求められる役割や組織のあり方が変化している"
-  },
-  {
-    "title": "『CodexではじめるAI駆動ゲーム開発実践ガイド』 が発売になります。",
-    "link": "https://note.com/npaka/n/n0d8f48f477bc",
-    "source": "note (npaka)",
-    "published": "Fri, 11 Sep 2026 12:32:19 +0900",
-    "summary": "<p id=\"64f7b1a1-02f3-4c4a-96a0-d789e9e35008\" name=\"64f7b1a1-02f3-4c4a-96a0-d789e9e35008\">『<strong>CodexではじめるAI駆動ゲーム開発実践ガイド</strong>』が発売になります。</p><figure id=\"81d6c8b4-7af7-49b1-9d9a-5149b7257906\" name=\"81d6c8b4-7af7-49b1-9d9a-5149b7257906\"><img alt=\"\" height=\"912\" src=\"https://assets.st-note.com/img/1789096731-2OXJ3kKgNcuxHi8PB9oLQeyz.jpg\" style=\"width: 372px; height: 547.2px;\" width=\"620\" /><figcaption></figcaption></figure><br /><a href=\"https://note.com/npaka/n/n0d8f48f477bc\">続きをみる</a>",
-    "image": "https://assets.st-note.com/production/uploads/images/312498723/rectangle_large_type_2_732a6149a815df77769baca4bf8e7083.jpeg?width=800",
-    "fetched_at": "2026-09-11 13:37:37",
-    "ja_summary": "AIを活用したゲーム開発を学べる新刊『CodexではじめるAI駆動ゲーム開発実践ガイド』が発売されます。\nAI技術を実際の開発現場に導入・活用するための実践的な手法がまとめられています。\nゲーム制作の効率化を目指す開発者にとって必携の一冊です。"
-  },
-  {
-    "title": "ChatGPT 一部プラン新規受付停止",
-    "link": "https://news.yahoo.co.jp/pickup/6594928?source=rss",
-    "source": "Yahoo!ニュース IT・科学",
-    "published": "Fri, 11 Sep 2026 01:20:06 GMT",
-    "summary": "",
-    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/9/11/531efcac2f583034299ca2289e3c66a6b8a4f09af93564d1f6bcd23f2fcc2108.jpg",
-    "fetched_at": "2026-09-11 13:37:38",
-    "ja_summary": "・ChatGPTの「Plus」プランの新規登録が一時的に停止中。\n・利用者の急増によるシステム負荷が原因。\n・再開時期は未定のため、公式サイト等での確認が必要。"
-  },
-  {
-    "title": "リコー、AIが自ら賢くなる「Hermes Agent」搭載　オンプレLLM活用を加速",
-    "link": "https://japan.zdnet.com/article/35252524/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "リコージャパンは、オンプレミス環境での生成AI活用を導入から運用までワンストップで支援する「RICOH オンプレLLMスターターキット」のエッジモデルに、自己改善型AIエージェント「Hermes Agent」を新たに搭載し、提供を開始した。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35252524/\"><img src=\"https://japan.zdnet.com/storage/2026/05/08/184ba104d0062af259cfea2003d77d8f/t/184/138/d/260508_software_as_1280_625979046.jpg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2026/05/08/184ba104d0062af259cfea2003d77d8f/t/184/138/d/260508_software_as_1280_625979046.jpg",
-    "fetched_at": "2026-09-11 13:37:41",
-    "ja_summary": "リコーは、企業内サーバー（オンプレミス）で生成AIを構築・運用するキットに、自ら学習し賢くなる「Hermes Agent」を搭載しました。\n社内データを安全に活用しながら、AIの精度を継続的に向上させることが可能です。\n導入から運用までをワンストップで支援し、企業のセキュアなAI活用を加速させます。"
-  },
-  {
-    "title": "Vポイントマーケティング、データクリーンルーム基盤にSnowflakeのAIデータクラウドを採用",
-    "link": "https://japan.zdnet.com/article/35252516/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "Vポイントマーケティングは自社開発データクリーンルームの新たな基盤として、SnowflakeのAIデータクラウドを採用した。9月10日、Snowflakeが発表した。Vポイントデータなどを活用したデータエンリッチメント（データの拡充）を支える基盤として展開する。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35252516/\"><img src=\"https://japan.zdnet.com/storage/2025/02/20/3f1df6775d071eff66d8be55587b07f1/t/184/138/d/250220_enterprise_as_1280_721823729.jpeg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2025/02/20/3f1df6775d071eff66d8be55587b07f1/t/184/138/d/250220_enterprise_as_1280_721823729.jpeg",
-    "fetched_at": "2026-09-11 13:37:41",
-    "ja_summary": "・Vポイントマーケティングが、自社のデータクリーンルーム基盤に「Snowflake」を採用。\n・SnowflakeのAIデータクラウドを活用し、Vポイントなどのデータを高度に分析・拡充。\n・セキュリティを維持しつつ、データ活用によるマーケティング価値の向上を目指す。"
-  },
-  {
-    "title": "The AI policy window is open. We need to act.",
-    "link": "https://openai.com/index/ai-policy-window",
-    "source": "OpenAI",
-    "published": "Wed, 09 Sep 2026 13:00:00 GMT",
-    "summary": "Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remains open.",
-    "image": "https://images.ctfassets.net/kftzwdyauwt9/3j3cxGtSNDD0McSlczkBsg/2627bd7c7ea80e644696bd92587dc88c/6j6yjkcvdffsmjbvq2uw8u-seo__1_.png?w=1600&amp;h=900&amp;fit=fill",
-    "fetched_at": "2026-09-11 13:37:44",
-    "ja_summary": "・AIの進化に伴い、安全性の証明と業界共通の基準策定が急務である。\n・政策の議論が活発な今こそ、実効性のある法規制を構築すべきである。\n・技術革新を支えるため、官民連携による恒久的なAI政策の導入が必要だ。"
-  },
-  {
-    "title": "Funding better evaluations of AI’s impact on wellbeing",
-    "link": "https://www.anthropic.com/news/wellbeing-research-grants",
-    "source": "Anthropic (News)",
-    "published": "Tue, 25 Aug 2026 00:00:00 +0000",
-    "summary": "Funding better evaluations of AI’s impact on wellbeing",
-    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20HeadFlower&amp;backgroundColor=heather",
-    "fetched_at": "2026-09-11 13:37:44",
-    "ja_summary": "・AIが人々の幸福感に与える影響を適切に評価するための研究資金を拡充。\n・AI導入による心身への恩恵とリスクを科学的に検証する体制を強化。\n・技術開発だけでなく、人間への影響評価を重視する研究への投資を推進。"
   }
 ]
