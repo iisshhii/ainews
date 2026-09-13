@@ -1,5 +1,65 @@
 [
   {
+    "title": "オープンAIのCEO 年内IPOを否定",
+    "link": "https://news.yahoo.co.jp/pickup/6595170?source=rss",
+    "source": "Yahoo!ニュース 経済",
+    "published": "Sun, 13 Sep 2026 08:56:29 GMT",
+    "summary": "",
+    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/9/13/7d74f977f5828b645571b2d0349a7f8f3c2e5bb1d9f2f80c8bdf804228607037.jpg",
+    "fetched_at": "2026-09-13 20:50:37",
+    "ja_summary": "・OpenAIのサム・アルトマンCEOは、年内のIPO（新規株式公開）の計画を否定した。\n・現時点で株式を公開する意図はなく、短期間での上場はない見通し。\n・同社は現在、非公開企業としての運営を継続する方針。"
+  },
+  {
+    "title": "AI開発「減速」をアンソロピックCEOが提案　アルトマン氏・マスク氏らも賛同",
+    "link": "https://www.watch.impress.co.jp/docs/news/2140440.html",
+    "source": "Impress Watch",
+    "published": "",
+    "summary": "AIの開発「減速」の議論が本格化している。Anthropicのダリオ・アモデイCEOは12日(米国時間)、「We Must Pace the Frontier」(フロンティアの歩みを調整しなければならない)と題したブログを投稿し、AIの急速な進歩による事故が続いていることから、フロンティアAIの開発競争を減速(Pacing)する必要があると強調。このままの開発が進むと、「6～12カ月後には、インターネット全体を乗っ取る能力を獲得し、数千億ドルの損害をもたらす可能性もある」と警告している。",
+    "image": "https://www.watch.impress.co.jp/img/ipw/list/2140/440/ai00.jpg",
+    "fetched_at": "2026-09-13 20:50:49",
+    "ja_summary": "・Anthropic社CEOらが、急速すぎるAI開発競争にブレーキをかける必要性を提言。\n・AIが1年以内にサイバー攻撃などで甚大な被害をもたらすリスクを警告。\n・事故防止に向け、AI開発のペースを慎重に調整すべきとの議論が本格化。"
+  },
+  {
+    "title": "AI生成の料理写真 なぜ「不気味」",
+    "link": "https://news.yahoo.co.jp/pickup/6595158?source=rss",
+    "source": "Yahoo!ニュース IT・科学",
+    "published": "Sun, 13 Sep 2026 07:23:04 GMT",
+    "summary": "",
+    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/9/13/55835f6e42416909573ecff3025f5862d1494e5ee26bb37745caece37018fca3.jpg",
+    "fetched_at": "2026-09-13 20:50:55",
+    "ja_summary": "・AIが生成する料理画像に「指のような物体」や「不自然な質感」が混じる違和感がある。\n・AIは料理の概念を学習しているが、物理的な構造や食卓の論理までは理解していないことが原因。\n・見た目の不気味さは、AIの「もっともらしい画像を生成する」という特性と、人間の「食に対する鋭い観察眼」のギャップから生じている。"
+  },
+  {
+    "title": "大規模言語モデル研究開発センターが公開した視覚AI「LLM-jp-4-VL 9B」、Opus 4.8に肉薄するマルチモーダルAI「DeepSeek-V4-Flash-Vision-Exp」など生成AI技術5つを解説（生成AIウィークリー）",
+    "link": "https://www.techno-edge.net/article/2026/09/13/5492.html",
+    "source": "TechnoEdge",
+    "published": "Sun, 13 Sep 2026 16:43:55 +0900",
+    "summary": "今回の「生成AIウィークリー」（第159回）は、Opus 4.8に肉薄するマルチモーダルAI「DeepSeek-V4-Flash-Vision-Exp」や、複数データを同時分析して未来を予測するGoogle開発のAI「TimesFM-3」を取り上げます。",
+    "image": "https://www.techno-edge.net/imgs/rss/34243.png",
+    "fetched_at": "2026-09-13 20:50:59",
+    "ja_summary": "・LLM-jpの視覚AI「LLM-jp-4-VL 9B」や高性能な「DeepSeek-V4-Flash-Vision-Exp」が登場。\n・Googleの予測AI「TimesFM-3」など、データ分析やマルチモーダル技術が進化。\n・生成AIウィークリー第159回にて、注目すべき最新の生成AI技術5選を解説。"
+  },
+  {
+    "title": "アプリをもっと\"iOSアプリっぽく\"する小さな工夫 / Small Touches That Make Your App Feel More Like an iOS App",
+    "link": "https://speakerdeck.com/matsuji/small-touches-that-make-your-app-feel-more-like-an-ios-app",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-09-13T04:19:06-04:00",
+    "summary": "アプリのUIをデザイン/実装する時、iOSのデザイン言語は重要です。\nユーザーはiOSのホーム画面を起点に、他のアプリを使う流れの中で、みなさんのアプリを使います。\nこの時、みなさんのアプリがiOSのデザイン言語と異なるデザイン言語でデザイン/実装されていたら、ユーザーは使い方を理解できなかったり、コンテキストスイッチングが必要だったりします。そういった小さな摩擦を避けるために、プラットフォーム内での一定の調和は重要です。\n\nAppleが提供する標準のAPIを使えば、何も考えなくても、ある程度の品質のものにはなります。\nしかしだからと言って、開発者が何も考えなくてよいかと言われるとそういうわけではありません。APIにも使い所があります。きめ細やかな使い分けをすることで、より洗練された印象をユーザーに与え、結果としてアプリの信頼感に繋がります。\n\nこのトークではそういった\"iOSアプリっぽさ\"を出すための小さな工夫を紹介します。例えばSF Symbolsの選び方、Liquid Glassの使い所、インタラクションの設計など、既存のデザインを大きく変更しない程度の少しの変更でより\"iOSアプリっぽさ\"を出す方法を紹介します。\n\nAIによって多くの人が素早く一定の品質でアプリを作れるようになった時代、細部へのこだわりはより差を生むようになります。\nこのトークを通じて、少しでもみなさんのアプリがより\"iOSアプリっぽく\"できることを目指します。\n\nhttps://fortee.jp/iosdc-japan-2026/proposal/7d8bec41-6b1a-4343-9e7f-3f65abdf596c",
+    "image": "https://files.speakerdeck.com/presentations/aa089465128d4213a6f4abe0bf823782/preview_slide_0.jpg?40553585",
+    "fetched_at": "2026-09-13 20:51:04",
+    "ja_summary": "・iOSの標準デザイン言語に馴染ませることで、ユーザーの学習コストを減らし操作の摩擦を解消する。\n・標準APIに加え、SF Symbolsや適切なインタラクションの細部を調整し、アプリの信頼感を高める。\n・AIによる開発の効率化が進む今、こうした「iOSらしさ」へのこだわりが他との差別化に直結する。"
+  },
+  {
+    "title": "「ハーネス」ってなんぞ？ Claudeに“性格”と“記憶”を持たせる仕組みを、おじさんでも分かるように調べてみた",
+    "link": "https://qiita.com/OnuuuumaX/items/8b7ac7751411f79a41d7",
+    "source": "Qiita (Popular)",
+    "published": "2026-08-28T20:16:19+09:00",
+    "summary": "## はじめに\n\n最近、AIにコーディングを手伝ってもらう文脈で「ハーネス」という言葉を見かけるようになりました。専門用語っぽくて身構えてしまいますが、中身はとてもシンプルらしいです。\n\n難しい記事を漁りましたが、頭の中で整理しきれなかったので、Claudeに教えてもらいつつまとめ上げました。\n\n> 「毎回言うことが違う新人」と「一度教えたことはちゃんと守り続けてくれるベテラン」の違いは何か\n\nこ",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGNDIwMjUwOSUyRnByb2ZpbGUtaW1hZ2VzJTJGMTc4NDQ3MTYxNz9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9OGU3MGI5OWM5MTE0YmY5MWI1OWE0Y2M3MDk1YjZmMmU%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkZlYmQ5Njg3Yjk0MzAwMWI5NzlkNmU0YWY1MGFiYWU4YTc5MWE4ZGE1JTJGb3JpZ2luYWwuanBnJTNGMTc1NjE4NjM1Mz9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz1hOTMyMDU4NWNlNzJmY2QyNGJiNGQ0MDNkYTA2MGM1OA%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3Ddd318a306a568148e76d86cbd32e2265?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJThDJUUzJTgzJThGJUUzJTgzJUJDJUUzJTgzJThEJUUzJTgyJUI5JUUzJTgwJThEJUUzJTgxJUEzJUUzJTgxJUE2JUUzJTgxJUFBJUUzJTgyJTkzJUUzJTgxJTlFJUVGJUJDJTlGJTIwQ2xhdWRlJUUzJTgxJUFCJUUyJTgwJTlDJUU2JTgwJUE3JUU2JUEwJUJDJUUyJTgwJTlEJUUzJTgxJUE4JUUyJTgwJTlDJUU4JUE4JTk4JUU2JTg2JUI2JUUyJTgwJTlEJUUzJTgyJTkyJUU2JThDJTgxJUUzJTgxJTlGJUUzJTgxJTlCJUUzJTgyJThCJUU0JUJCJTk1JUU3JUI1JTg0JUUzJTgxJUJGJUUzJTgyJTkyJUUzJTgwJTgxJUUzJTgxJThBJUUzJTgxJTk4JUUzJTgxJTk1JUUzJTgyJTkzJUUzJTgxJUE3JUUzJTgyJTgyJUU1JTg4JTg2JUUzJTgxJThCJUUzJTgyJThCJUUzJTgyJTg4JUUzJTgxJTg2JUUzJTgxJUFCJUU4JUFBJUJGJUUyJTgwJUE2JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9MDFhYzI1OGQyOTBjYWU0MWM4YWZkMzJlM2U4NDE3ZDA&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBPbnV1dXVtYVgmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1iMmQ3MzA2OGNkOTk3ODcyNjIxNWNmNDE5MjA0OTZhNg&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=R01P44Kz44ON44Kv44OI5qCq5byP5Lya56S-&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=314cca14aa6af023a9f460d138febe8e",
+    "fetched_at": "2026-09-13 20:51:07",
+    "ja_summary": "・「ハーネス」とは、AI（Claudeなど）に一貫した性格や指示を覚えさせ、毎回同じ品質で回答させるための設定テンプレートのこと。\n・「新人」のような不安定なAIを「ベテラン」のように振る舞わせるための仕組みを指す。\n・AIの役割や制約条件を明文化して与えることで、業務効率化と出力精度の向上を実現する。"
+  },
+  {
     "title": "〈AIリスク〉アンソロピックの｢Claude｣がロシアやイエメンで軍事兵器の開発支援に悪用されていた実態が明らかに | 政治・経済・投資 | 東洋経済オンライン",
     "link": "https://toyokeizai.net/articles/-/957866?utm_source=rss&utm_medium=http&utm_campaign=link_back",
     "source": "東洋経済オンライン",
@@ -938,65 +998,5 @@
     "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
     "fetched_at": "2026-09-11 22:32:42",
     "ja_summary": "・元カリフォルニア州最高裁判事のクエジャール氏が、AI企業Anthropicの最高グローバル担当責任者に就任。\n・AIの安全性や規制、国際的な政策対応の強化を主導する。\n・同社の責任あるAI開発に向けた体制強化が狙い。"
-  },
-  {
-    "title": "ドメインモデル実装におけるトリレンマに対するSoutherの回答",
-    "link": "https://zenn.dev/kawasima/articles/souther-ddd-trilemma",
-    "source": "Zenn Trends",
-    "published": "Thu, 10 Sep 2026 01:11:08 GMT",
-    "summary": "ドメインモデル貧血症はなぜ生まれるのか — Decision パターンで DDD トリレンマを解く は Domain model purity vs. domain model completeness (DDD Trilemma)を非常に分かりやすく解説し、かつGoでこの循環を解消する方法として、domainの関数が「許可」「拒否」「まだ終わっていない、これを取ってきてほしい」の3種類を返すDecisionパターンを示している良い記事だと思いました。\n\nただ、Decisionパターンはやはり実装上の課題をドメインモデルに持ち込んでしまうので、外部I/Oをdomainの外に置ける一方、決...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--BDxk8v5z--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2589%25E3%2583%25A1%25E3%2582%25A4%25E3%2583%25B3%25E3%2583%25A2%25E3%2583%2587%25E3%2583%25AB%25E5%25AE%259F%25E8%25A3%2585%25E3%2581%25AB%25E3%2581%258A%25E3%2581%2591%25E3%2582%258B%25E3%2583%2588%25E3%2583%25AA%25E3%2583%25AC%25E3%2583%25B3%25E3%2583%259E%25E3%2581%25AB%25E5%25AF%25BE%25E3%2581%2599%25E3%2582%258BSouther%25E3%2581%25AE%25E5%259B%259E%25E7%25AD%2594%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:kawasima%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2gtejAtXy1RdjFQUkY0VTdUdmVDSmpFUHJOQzZsc0IzR0ZJU1hENUE9czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "fetched_at": "2026-09-11 22:32:44",
-    "ja_summary": "DDDにおけるドメインモデルの課題に対し、「Decisionパターン」を用いることで外部I/Oを分離しつつ処理を定義する手法が有効。\nただし、実装上の制約をドメイン層へ持ち込むトレードオフがあるため、設計上の慎重な判断が必要となる。"
-  },
-  {
-    "title": "GPT-6 Astra x Unityでゲームを作る",
-    "link": "https://zenn.dev/tkada/articles/d0c31e6533fb62",
-    "source": "Zenn Trends",
-    "published": "Wed, 09 Sep 2026 14:30:32 GMT",
-    "summary": "概要\nこれまでUnityとAIを組み合わせて何回かゲームを作ってきました\n2025年4月\nhttps://zenn.dev/tkada/articles/3cc10bf3733ae6\n2026年2月\nhttps://zenn.dev/tkada/articles/00b32b7f41a2ed\n2026年7月\nhttps://zenn.dev/tkada/articles/1ba97707dee14a\nこれまでは、AI AgentからUnity MCPやCLIを呼び出し、ゲームを開発するアプローチが主流でした。\n今回は、PC操作に強いGPT-6 Astraを使い、MCPや専用プラグイン...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--hidqax2e--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:GPT-6%2520Astra%2520x%2520Unity%25E3%2581%25A7%25E3%2582%25B2%25E3%2583%25BC%25E3%2583%25A0%25E3%2582%2592%25E4%25BD%259C%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Takeshi%2520Kada%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2Q5YjkyZWU4OGUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "fetched_at": "2026-09-11 22:32:45",
-    "ja_summary": "UnityとGPT-6 Astraを連携させ、ゲーム開発の新たな手法を提示。\n従来のAIエージェントからの操作に加え、PC操作に長けたGPT-6 Astraを活用。\nより直感的で高度なゲーム制作を目指す。"
-  },
-  {
-    "title": "AIエージェントと実装する安全なコード",
-    "link": "https://speakerdeck.com/ryoaccount/ai-ejento-to-jissou-suru-anzenna-kodo",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-09-11T09:05:59-04:00",
-    "summary": "Security.any #12 月夜ばかりと思うなよセキュリティLT での登壇スライドです。\nhttps://security-any.connpass.com/event/400816/",
-    "image": "https://files.speakerdeck.com/presentations/1e620e389ca4470d905e4a5e76769aa6/preview_slide_0.jpg?40542508",
-    "fetched_at": "2026-09-11 22:32:45",
-    "ja_summary": "AIエージェントで安全なコードを実装する方法を解説。\nセキュリティLTイベントで発表されたスライド資料。\nAI活用でコードの安全性を高める実践的な内容。"
-  },
-  {
-    "title": "Containers com Amazon ECS — Bootcamp AWS Campinas",
-    "link": "https://speakerdeck.com/flap/containers-com-amazon-ecs-bootcamp-aws-campinas",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-09-11T08:47:14-04:00",
-    "summary": "Bootcamp sobre containers na AWS com Amazon ECS: definição de tarefas e serviços, orquestração, escalabilidade e deploy de aplicações em contêineres. Apresentado no AWS User Group Campinas por Flávio Pimenta.",
-    "image": "https://files.speakerdeck.com/presentations/eb6e49e4999f49d083e71c8e2efc2788/preview_slide_0.jpg?40542358",
-    "fetched_at": "2026-09-11 22:32:45",
-    "ja_summary": "・AWS User Group Campinasにて、Amazon ECSを用いたコンテナ技術の勉強会が開催された。\n・タスク定義やサービス管理、オーケストレーション、スケーリングなど実践的な運用を解説。\n・コンテナアプリケーションのデプロイ最適化と運用の要点を網羅した内容。"
-  },
-  {
-    "title": "Segurança na Nuvem — OWASP / Campus Party 12",
-    "link": "https://speakerdeck.com/flap/campus-party-12",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-09-11T08:46:59-04:00",
-    "summary": "Segurança em ambientes de nuvem sob a ótica do OWASP: principais riscos, configuração segura, gestão de identidade e acesso, proteção de dados e boas práticas. Apresentado na Campus Party 12 por Flávio Pimenta.",
-    "image": "https://files.speakerdeck.com/presentations/5e6b3ce397e94ee28d3c024b89db945f/preview_slide_0.jpg?40542240",
-    "fetched_at": "2026-09-11 22:32:45",
-    "ja_summary": "・クラウド環境におけるOWASP基準のセキュリティリスクと対策を解説。\n・認証・認可の管理、データ保護、安全な設定に関する重要ポイントを網羅。\n・Campus Party 12にてFlávio Pimenta氏が提唱したクラウド運用のベストプラクティス。"
-  },
-  {
-    "title": "Anthropic がコマース用エージェントをオープンソース化した",
-    "link": "https://qiita.com/suwa_nobu/items/1c0f27da8eb685f6ba05",
-    "source": "Qiita (Popular)",
-    "published": "2026-09-07T13:31:43+09:00",
-    "summary": "\n9月2日、Anthropic が **[anthropics/commerce-agents](https://github.com/anthropics/commerce-agents)** を公開しました。**Apache 2.0** です。\n\n「Claude でショッピングエージェントを作るときの参考実装」で、**動くコードがそのまま入っています。** 何が入っているのかを整理します。\n\n",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0NDMwNjExJTJGYTRlNGFiZDZjNWNkZmM5NzkzMTk2ZmUwZDFjZjYyMGY1ZWYxMTY5NCUyRnhfbGFyZ2UucG5nJTNGMTc4NTI4OTU5Nj9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NGE5ZmNiZmE4OTM5NWU1MWY1N2FiYjJkYzI1ZTFmZDQ%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYyMDc3NzA2NTMzODkzMmUyMWVjMjk3MjI5ZDVkZmI5NDk5MWI5YzFhJTJGb3JpZ2luYWwuanBnJTNGMTc2OTAwMDk3MD9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz1lYjc1ZTQzMzAzYTdlNTkzNDQ4Yjc4NDZiMjljYTgxZA%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D237198914e54e0e7e727d16c4cfb7823?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9QW50aHJvcGljJTIwJUUzJTgxJThDJUUzJTgyJUIzJUUzJTgzJTlFJUUzJTgzJUJDJUUzJTgyJUI5JUU3JTk0JUE4JUUzJTgyJUE4JUUzJTgzJUJDJUUzJTgyJUI4JUUzJTgyJUE3JUUzJTgzJUIzJUUzJTgzJTg4JUUzJTgyJTkyJUUzJTgyJUFBJUUzJTgzJUJDJUUzJTgzJTk3JUUzJTgzJUIzJUUzJTgyJUJEJUUzJTgzJUJDJUUzJTgyJUI5JUU1JThDJTk2JUUzJTgxJTk3JUUzJTgxJTlGJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9ZDJhNzhhNjkyNWQ1YTM4NjQ0MDA5ZWE1MjhmYTIzMWQ&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBzdXdhX25vYnUmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1iZTVkNGQ3ZjgwNDY4YWQwMGMxZTkyMjA3YzFjYWMxMw&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=5qCq5byP5Lya56S-SlFJVA&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=836b2c843ee56a93270c9687f9487344",
-    "fetched_at": "2026-09-11 22:32:48",
-    "ja_summary": "・AnthropicがECサイト向けAIエージェントの構築用リポジトリをオープンソース（Apache 2.0）で公開。\n・Claudeを活用したショッピングエージェント開発の参考実装として、そのまま利用可能なコードを収録。\n・開発者が自社サービスでエージェントを導入・カスタマイズする際のテンプレートとして活用できる。"
   }
 ]
