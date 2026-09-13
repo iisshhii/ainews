@@ -1,5 +1,85 @@
 [
   {
+    "title": "顧客とのやり取りに使う「仮想の部屋」をAI社員が巡回",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03743/090100003/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "筆者の会社が2026年7月現在、顧客とのやりとりに使っているビジネスチャットの「部屋」は、合計で30を超えます。すべての部屋を筆者が直接見るのは難しく、そこで活躍するのがAIアシスタント（バックヤード担当者専属のAIエージェント）です。対話型AIで30件の部屋をすべて追うのは非常に困難です。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03743/090100003/topm.jpg?20220512",
+    "fetched_at": "2026-09-13 10:15:10",
+    "ja_summary": "多数の顧客対応チャットを抱える現状、AIエージェントが各部屋を巡回して管理をサポート。\n人間には把握しきれない膨大なやり取りをAIに任せることで、業務効率を大幅に改善。\n人手不足や情報過多を解消し、バックヤード業務を最適化するAI活用の実例。"
+  },
+  {
+    "title": "Amazon、「ChatGPT」に広告を配信　AIで商品探しのニーズに対応",
+    "link": "https://japan.cnet.com/article/35252569/",
+    "source": "CNET Japan",
+    "published": "",
+    "summary": "Amazon Adsは9月10日、同社を通じて出稿する企業が「ChatGPT」にも広告を配信できる仕組みを発表した。米国の一部の広告主が試験的に利用している。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35252569/\"><img src=\"https://japan.cnet.com/storage/2026/09/13/5453cb23ad408ddb56442a6c81900623/t/184/138/d/10.jpeg\" /></a>",
+    "image": "https://japan.cnet.com/storage/2026/09/13/5453cb23ad408ddb56442a6c81900623/t/184/138/d/10.jpeg",
+    "fetched_at": "2026-09-13 10:15:15",
+    "ja_summary": "Amazonが「ChatGPT」への広告配信サービスを開始しました。\n企業はAmazonの広告枠を通じて、AI対話を通じた商品提案が可能になります。\n現在は米国の一部広告主で試験運用が行われています。"
+  },
+  {
+    "title": "兵器開発にClaude利用の恐れ阻止",
+    "link": "https://news.yahoo.co.jp/pickup/6594964?source=rss",
+    "source": "Yahoo!ニュース IT・科学",
+    "published": "Fri, 11 Sep 2026 07:49:17 GMT",
+    "summary": "",
+    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/9/11/a5ce8e4274d199dfec0ef74156cb297c3c9c83a1d0a12ba46ff85bc1e43b7bf2.jpg",
+    "fetched_at": "2026-09-13 10:15:18",
+    "ja_summary": "AI開発企業Anthropicは、同社の生成AI「Claude」が生物兵器等の開発に悪用されるリスクを阻止するため、モデルの安全対策を強化した。開発段階で有害な指示を拒否する機能を向上させ、悪用を未然に防ぐ体制を整える。"
+  },
+  {
+    "title": "オープンAI 開発ペース緩める検討",
+    "link": "https://news.yahoo.co.jp/pickup/6594950?source=rss",
+    "source": "Yahoo!ニュース IT・科学",
+    "published": "Fri, 11 Sep 2026 05:12:17 GMT",
+    "summary": "",
+    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/9/11/3c5e0c80dc9bee7589e04b73662fa9a3a100e6f5b12826dd5e9a481379404f36.jpg",
+    "fetched_at": "2026-09-13 10:15:19",
+    "ja_summary": "・オープンAIがAI開発のペースを緩める検討を開始。\n・開発競争によるリスク管理と安全性の確保が主な狙い。\n・急激な技術進展と社会への影響を考慮した方針転換。"
+  },
+  {
+    "title": "BoxとOpenAIが協業--「ChatGPT」上でBoxコンテンツを活用",
+    "link": "https://japan.zdnet.com/article/35252547/",
+    "source": "ZDNET Japan",
+    "published": "",
+    "summary": "BoxはOpenAIと協業し、「ChatGPT」上でより自律的で実行可能な働き方を実現するため、企業コンテンツとAIを結び付ける取り組みを進める。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35252547/\"><img src=\"https://japan.zdnet.com/storage/2025/02/07/5a8e4965fe40a8ab3fede5fe71be5d82/t/184/138/d/250206_software_as_1280_579916365.jpg\" /></a>",
+    "image": "https://japan.zdnet.com/storage/2025/02/07/5a8e4965fe40a8ab3fede5fe71be5d82/t/184/138/d/250206_software_as_1280_579916365.jpg",
+    "fetched_at": "2026-09-13 10:15:21",
+    "ja_summary": "・BoxとOpenAIが協業し、ChatGPTとBoxの企業データを連携。\n・ChatGPT上でBox内のコンテンツを活用した自律的な業務が可能に。\n・AIによる効率的なデータ分析や実行プロセスの自動化を推進。"
+  },
+  {
+    "title": "写真から実物と区別つかないレベルの3D人体モデルを作り、リグ入れてリアルタイム対話させるまで。ChatGPTとClaudeのコラボで開発した（CloseBox）",
+    "link": "https://www.techno-edge.net/article/2026/09/11/5489.html",
+    "source": "TechnoEdge",
+    "published": "Fri, 11 Sep 2026 16:34:04 +0900",
+    "summary": "写真からフォトリアリスティックな人体モデルを生成する話は以前から何度かしておりますが、ひさしぶりに触ってみたところ、ほぼ写真と区別がつかないレベルまで到達したのではないかと実感するに至りました。",
+    "image": "https://www.techno-edge.net/imgs/rss/34193.png",
+    "fetched_at": "2026-09-13 10:15:22",
+    "ja_summary": "・写真から実物と見紛うレベルのフォトリアリスティックな3D人体モデルを生成。\n・ChatGPTとClaudeを駆使した開発により、モデルへのリグ組み込みとリアルタイム対話が可能に。\n・3D生成技術の進化により、極めて高精度かつインタラクティブな表現が実現した。"
+  },
+  {
+    "title": "5分で分かるApple発表まとめ：初折りたたみ iPhone Duo・可変絞り18 Pro・新Watch S12 / Ultra・AirPods 5",
+    "link": "https://www.techno-edge.net/article/2026/09/10/5484.html",
+    "source": "TechnoEdge",
+    "published": "Thu, 10 Sep 2026 12:38:09 +0900",
+    "summary": "iPhone初の折りたたみモデル『iPhone Duo』など、9月10日のイベントでAppleが発表した新製品をまとめます。",
+    "image": "https://www.techno-edge.net/imgs/rss/34188.png",
+    "fetched_at": "2026-09-13 10:15:22",
+    "ja_summary": "・Appleが新製品発表会を開催し、初の折りたたみスマホ「iPhone Duo」を公開。\n・高性能カメラ搭載の「iPhone 18 Pro」、新世代の「Apple Watch S12/Ultra」が登場。\n・次世代「AirPods 5」を含む、主要デバイスのアップデートが網羅された。"
+  },
+  {
+    "title": "iPhone 16 / 17 / Airまた値上げ、2か月前より約3万円～アップ　新型の陰でサイレント価格改定",
+    "link": "https://www.techno-edge.net/article/2026/09/10/5482.html",
+    "source": "TechnoEdge",
+    "published": "Thu, 10 Sep 2026 11:23:50 +0900",
+    "summary": "初の折りたたみモデル iPhone Duo、可変絞りを搭載した iPhone 18 Pro 発表する一方で、Appleは既存のiPhone 16 / 17 / 17e / Air をサイレント値上げしています。",
+    "image": "https://www.techno-edge.net/imgs/rss/34171.png",
+    "fetched_at": "2026-09-13 10:15:22",
+    "ja_summary": "・新型iPhone発表の裏で、iPhone 16 / 17 / Airシリーズが約3万円のサイレント値上げ。\n・折りたたみ型「Duo」や「18 Pro」などの新製品投入と同時に価格改定を実施。\n・購入検討中のユーザーは、既存モデルの価格上昇に注意が必要。"
+  },
+  {
     "title": "半導体大手ブロードコム決算に見る｢AI計算資源｣の主役交代 カスタムチップが性能でもGPUを凌駕 | 政治・経済・投資 | 東洋経済オンライン",
     "link": "https://toyokeizai.net/articles/-/957160?utm_source=rss&utm_medium=http&utm_campaign=link_back",
     "source": "東洋経済オンライン",
@@ -918,85 +998,5 @@
     "image": "https://image.itmedia.co.jp/business/articles/2609/10/cover_news037.jpg",
     "fetched_at": "2026-09-11 18:08:36",
     "ja_summary": "・AI検索（GEO）対策は従来のSEOとは指標が異なり、人間向けとAI向けでコンテンツを別々に設計する必要がある。\n・AIに情報を正確に伝えるための専用のアプローチが、今後の検索最適化の新たな一手となる。"
-  },
-  {
-    "title": "買い物時に「親友よりもAIを信じる」7割超──「エージェンティックコマース」時代に仕込みたい「3つの戦略」",
-    "link": "https://www.itmedia.co.jp/business/articles/2609/10/news036.html",
-    "source": "ITmedia ビジネス",
-    "published": "Thu, 10 Sep 2026 08:00:00 +0900",
-    "summary": "AIの進化により、商品の「選ばれ方」が変わり始めている。AIが商品を探し、比較し、購入まで担う「エージェンティックコマース」の時代に、企業はどう対応すべきなのか。",
-    "image": "https://image.itmedia.co.jp/business/articles/2609/10/cover_news036.jpg",
-    "fetched_at": "2026-09-11 18:08:36",
-    "ja_summary": "・AIが商品選定から購入までを担う「エージェンティックコマース」時代が到来。\n・消費者の信頼が親友よりAIへ向かう中、企業の販売戦略の刷新が急務。\n・AIに選ばれるための新たなブランド構築と対応策が求められている。"
-  },
-  {
-    "title": "JX金属、勝負の「金利ゼロ」827億円調達　AI向け基板を7～10倍増産 (攻める資金調達 )",
-    "link": "https://business.nikkei.com/atcl/gen/19/00927/090800002/",
-    "source": "日経ビジネス 最新",
-    "published": "",
-    "summary": "長期金利が3％を突破し、いよいよ「金利ある時代」の荒波が本格化する。世界的にAIが資金調達の主役になり、成長ストーリーにも変化が目立ってきた。データセンターに欠かせない部品の増産で、関連する需要を取り込むJX金属が打ち出した資金調達術を追う。",
-    "image": "https://business.nikkei.com/atcl/gen/19/00927/090800002/fb.jpg",
-    "fetched_at": "2026-09-11 18:08:39",
-    "ja_summary": "・JX金属が827億円を調達し、AI向け基板の生産能力を7〜10倍に増強する。\n・「金利ある時代」の到来に伴い、成長分野への集中的な投資で収益拡大を狙う。\n・AI需要が資金調達の主役となる中、競争力を高める攻めの戦略を推進する。"
-  },
-  {
-    "title": "OpenAI、金融機関向けに「ChatGPT for Financial Services」を提供",
-    "link": "https://www.watch.impress.co.jp/docs/news/2140205.html",
-    "source": "Impress Watch",
-    "published": "",
-    "summary": "OpenAIは10日(米国時間)、金融機関向けに「ChatGPT for Financial Services」を提供開始する。組み込みの金融データと最新モデル「GPT‑6 Astra」の推論機能を組み合わせ、金融サービス向けに最適化された「ChatGPT Work」体験を提供し、チームによる統一されたリサーチ、金融モデル、資料作成などを支援する。",
-    "image": "https://www.watch.impress.co.jp/img/ipw/list/2140/205/o01.jpg",
-    "fetched_at": "2026-09-11 18:08:47",
-    "ja_summary": "・OpenAIが金融機関専用の「ChatGPT for Financial Services」を提供開始。\n・最新モデル「GPT-6 Astra」を搭載し、データ分析や資料作成を効率化。\n・金融業務に最適化された環境で、チームのリサーチやモデル構築を支援。"
-  },
-  {
-    "title": "AIの回答をそのまま送りつける「ミートプロキシー」、新たなネットスラングが誕生",
-    "link": "https://japan.cnet.com/article/35252550/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "新語「AIスロップ」に仲間が加わった。「ミートプロキシー」とは、AIの回答をそのままコピペして送りつける人を指す新しい表現だ。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35252550/\"><img src=\"https://japan.cnet.com/storage/2026/09/11/baab27f56dc17c916682c976e09bced6/t/184/138/d/GettyImages-2259634870_1280x960.jpg\" /></a>",
-    "image": "https://japan.cnet.com/storage/2026/09/11/baab27f56dc17c916682c976e09bced6/t/184/138/d/GettyImages-2259634870_1280x960.jpg",
-    "fetched_at": "2026-09-11 18:08:50",
-    "ja_summary": "AIが生成した回答をそのままコピペして送信する人を指す新スラング「ミートプロキシー」が誕生した。\nAIによる質の低い投稿を指す「AIスロップ」に続く、新たなネット用語として注目されている。"
-  },
-  {
-    "title": "中国AI「Kimi」、利用者の入力をClaudeに転送し、Claudeの回答を利用者に表示か--Anthropicが報告",
-    "link": "https://japan.cnet.com/article/35252543/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "Anthropicは、AIの悪用事例をまとめた2026年9月版の脅威レポートを公開した。DeepSeekや、「Kimi」を開発するMoonshot AIが、利用者の入力をClaudeに転送し、その回答を利用者に返していたと報告した。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35252543/\"><img src=\"https://japan.cnet.com/storage/2026/09/11/f735e436048d16c2b8dee8e210fe2ef1/t/184/138/d/0122.jpeg\" /></a>",
-    "image": "https://japan.cnet.com/storage/2026/09/11/f735e436048d16c2b8dee8e210fe2ef1/t/184/138/d/0122.jpeg",
-    "fetched_at": "2026-09-11 18:08:50",
-    "ja_summary": "中国のAI開発企業Moonshot AI（Kimi）などが、利用者の入力を無断でAnthropic社の「Claude」へ転送し、その回答を自社サービスとして提供していたことが判明した。Anthropic社はこれをAIの不正利用事例として脅威レポートで公表している。"
-  },
-  {
-    "title": "Gemini 3.8 Flash ・ Gemini 3.8 Flash Cyber の概要",
-    "link": "https://note.com/npaka/n/n994424ed9ef5",
-    "source": "note (npaka)",
-    "published": "Thu, 03 Sep 2026 07:37:09 +0900",
-    "summary": "<p id=\"cdfe059b-e048-4edb-8c14-cb4eaecf3812\" name=\"cdfe059b-e048-4edb-8c14-cb4eaecf3812\">「Gemini 3.8 Flash」「Gemini 3.8 Flash Cyber」の概要をまとめました。</p><figure id=\"b0b9db5b-4940-413a-8091-b86b58f42fb2\" name=\"b0b9db5b-4940-413a-8091-b86b58f42fb2\"><blockquote><p id=\"cbcd8943-cf2b-4f86-b9c6-368768f01bd9\" name=\"cbcd8943-cf2b-4f86-b9c6-368768f01bd9\"><strong>・</strong><a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/\" rel=\"nofollow noopener\" target=\"_blank\"><strong>Introducing Gemini 3.8 Flash and 3.8 Flash Cyber</strong></a></p></blockquote>\n<figcaption></figcaption></figure><br /><a href=\"https://note.com/npaka/n/n994424ed9ef5\">続きをみる</a>",
-    "image": "https://assets.st-note.com/production/uploads/images/309717081/rectangle_large_type_2_887311a770f9e7037d4c0612efb3f20d.png?width=800",
-    "fetched_at": "2026-09-11 18:08:50",
-    "ja_summary": "・Googleが最新AIモデル「Gemini 3.8 Flash」および「Gemini 3.8 Flash Cyber」を発表。\n・軽量かつ高速な処理に特化した「Flash」に加え、セキュリティ等の専門領域を強化した「Cyber」が追加。\n・従来のモデルと比較し、効率性と応答性能がさらに向上した最新ラインナップの詳細。"
-  },
-  {
-    "title": "Claude Fable 5.1 と Mythos 5.1 の概要",
-    "link": "https://note.com/npaka/n/n14013b319725",
-    "source": "note (npaka)",
-    "published": "Wed, 02 Sep 2026 06:36:17 +0900",
-    "summary": "<p id=\"bfe60242-820b-4c97-a01a-46a8e8a1a70b\" name=\"bfe60242-820b-4c97-a01a-46a8e8a1a70b\">「Claude Fable 5.1」と「Claude Mythos 5.1」の概要についてまとめました。</p><br /><br /><a href=\"https://note.com/npaka/n/n14013b319725\">続きをみる</a>",
-    "image": "https://assets.st-note.com/production/uploads/images/309385143/rectangle_large_type_2_e9308a7edb8ccdcca6e4a11555f0fae9.jpeg?width=800",
-    "fetched_at": "2026-09-11 18:08:50",
-    "ja_summary": "・AIモデル「Claude Fable 5.1」と「Claude Mythos 5.1」の主要な概要が公開されました。\n・両モデルの特徴や仕様について、技術的な要点がまとめられています。\n・詳細は以下のリンクから確認可能です。"
-  },
-  {
-    "title": "レシートAI生成 経費不正防ぐには",
-    "link": "https://news.yahoo.co.jp/pickup/6594970?source=rss",
-    "source": "Yahoo!ニュース IT・科学",
-    "published": "Fri, 11 Sep 2026 08:38:54 GMT",
-    "summary": "",
-    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2026/5/29/e8eac8cbae83d51e14509358139639e09855f11a44f5621f30bc5c8937f217c0.jpg",
-    "fetched_at": "2026-09-11 18:08:51",
-    "ja_summary": "AIで精巧な偽造レシートが作成可能な現在、経費精算の不正リスクが高まっている。\n目視でのチェックには限界があるため、AI検知ツールやデータ突合による自動監査の導入が急務。\n今後は「証憑の提出」だけでなく、システム側で真贋を判定する多重防御が必要不可欠となる。"
   }
 ]
