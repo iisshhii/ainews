@@ -1,5 +1,45 @@
 [
   {
+    "title": "習主席､中国主導で｢BRICSオープンソースAIプラットフォーム｣を構築する用意があると表明 | 政治・経済・投資 | 東洋経済オンライン",
+    "link": "https://toyokeizai.net/articles/-/957925?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+    "source": "東洋経済オンライン",
+    "published": "Sun, 13 Sep 2026 21:12:00 +0900",
+    "summary": "中国の習近平国家主席はBRICS首脳会議で､オープンソースAIやデジタル産業､貿易など五つの協力イニシアチブを提案しました。",
+    "image": "https://tk.ismcdn.jp/mwimgs/6/9/1200w/img_6953b78c92cab17639e7ff1b17923945392276.jpg?nextgen=false",
+    "fetched_at": "2026-09-14 00:21:37",
+    "ja_summary": "・習近平国家主席がBRICS首脳会議にて、オープンソースAIプラットフォームの構築を提案。\n・デジタル産業や貿易などを含む計5つの協力イニシアチブを推進する意向を表明。\n・中国主導で新興国間の技術連携を強め、AI開発や経済協力を主導する姿勢を強調。"
+  },
+  {
+    "title": "ドメインモデル実装におけるトリレンマに対するSoutherの回答",
+    "link": "https://zenn.dev/kawasima/articles/souther-ddd-trilemma",
+    "source": "Zenn Trends",
+    "published": "Thu, 10 Sep 2026 01:11:08 GMT",
+    "summary": "ドメインモデル貧血症はなぜ生まれるのか — Decision パターンで DDD トリレンマを解く は Domain model purity vs. domain model completeness (DDD Trilemma)を非常に分かりやすく解説し、かつGoでこの循環を解消する方法として、domainの関数が「許可」「拒否」「まだ終わっていない、これを取ってきてほしい」の3種類を返すDecisionパターンを示している良い記事だと思いました。\n\nただ、Decisionパターンはやはり実装上の課題をドメインモデルに持ち込んでしまうので、外部I/Oをdomainの外に置ける一方、決...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--BDxk8v5z--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2589%25E3%2583%25A1%25E3%2582%25A4%25E3%2583%25B3%25E3%2583%25A2%25E3%2583%2587%25E3%2583%25AB%25E5%25AE%259F%25E8%25A3%2585%25E3%2581%25AB%25E3%2581%258A%25E3%2581%2591%25E3%2582%258B%25E3%2583%2588%25E3%2583%25AA%25E3%2583%25AC%25E3%2583%25B3%25E3%2583%259E%25E3%2581%25AB%25E5%25AF%25BE%25E3%2581%2599%25E3%2582%258BSouther%25E3%2581%25AE%25E5%259B%259E%25E7%25AD%2594%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:kawasima%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2gtejAtXy1RdjFQUkY0VTdUdmVDSmpFUHJOQzZsc0IzR0ZJU1hENUE9czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-09-14 00:22:09",
+    "ja_summary": "DDDの「ドメインモデルの純粋性・完全性・実装の容易さ」のトリレンマを、Go言語のDecisionパターン（処理を「許可」「拒否」「外部データ要求」の3種で制御）で解決する手法を解説。外部I/Oをドメイン外に追い出せる一方、実装の複雑性がドメインモデルに混入するトレードオフについても議論している。"
+  },
+  {
+    "title": "GPT-6 Astra x Unityでゲームを作る",
+    "link": "https://zenn.dev/tkada/articles/d0c31e6533fb62",
+    "source": "Zenn Trends",
+    "published": "Wed, 09 Sep 2026 14:30:32 GMT",
+    "summary": "概要\nこれまでUnityとAIを組み合わせて何回かゲームを作ってきました\n2025年4月\nhttps://zenn.dev/tkada/articles/3cc10bf3733ae6\n2026年2月\nhttps://zenn.dev/tkada/articles/00b32b7f41a2ed\n2026年7月\nhttps://zenn.dev/tkada/articles/1ba97707dee14a\nこれまでは、AI AgentからUnity MCPやCLIを呼び出し、ゲームを開発するアプローチが主流でした。\n今回は、PC操作に強いGPT-6 Astraを使い、MCPや専用プラグイン...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--hidqax2e--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:GPT-6%2520Astra%2520x%2520Unity%25E3%2581%25A7%25E3%2582%25B2%25E3%2583%25BC%25E3%2583%25A0%25E3%2582%2592%25E4%25BD%259C%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Takeshi%2520Kada%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2Q5YjkyZWU4OGUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-09-14 00:22:10",
+    "ja_summary": "・GPT-6 AstraのPC操作能力を活用し、Unityでのゲーム開発に挑戦。\n・従来のMCPや専用プラグイン経由のアプローチに加え、操作特化型モデルでの自動開発を試行。\n・AIによるゲーム開発プロセスの進化を実例として検証。"
+  },
+  {
+    "title": "Anthropic がコマース用エージェントをオープンソース化した",
+    "link": "https://qiita.com/suwa_nobu/items/1c0f27da8eb685f6ba05",
+    "source": "Qiita (Popular)",
+    "published": "2026-09-07T13:31:43+09:00",
+    "summary": "\n9月2日、Anthropic が **[anthropics/commerce-agents](https://github.com/anthropics/commerce-agents)** を公開しました。**Apache 2.0** です。\n\n「Claude でショッピングエージェントを作るときの参考実装」で、**動くコードがそのまま入っています。** 何が入っているのかを整理します。\n\n",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0NDMwNjExJTJGYTRlNGFiZDZjNWNkZmM5NzkzMTk2ZmUwZDFjZjYyMGY1ZWYxMTY5NCUyRnhfbGFyZ2UucG5nJTNGMTc4NTI4OTU5Nj9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NGE5ZmNiZmE4OTM5NWU1MWY1N2FiYjJkYzI1ZTFmZDQ%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYyMDc3NzA2NTMzODkzMmUyMWVjMjk3MjI5ZDVkZmI5NDk5MWI5YzFhJTJGb3JpZ2luYWwuanBnJTNGMTc2OTAwMDk3MD9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz1lYjc1ZTQzMzAzYTdlNTkzNDQ4Yjc4NDZiMjljYTgxZA%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D237198914e54e0e7e727d16c4cfb7823?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9QW50aHJvcGljJTIwJUUzJTgxJThDJUUzJTgyJUIzJUUzJTgzJTlFJUUzJTgzJUJDJUUzJTgyJUI5JUU3JTk0JUE4JUUzJTgyJUE4JUUzJTgzJUJDJUUzJTgyJUI4JUUzJTgyJUE3JUUzJTgzJUIzJUUzJTgzJTg4JUUzJTgyJTkyJUUzJTgyJUFBJUUzJTgzJUJDJUUzJTgzJTk3JUUzJTgzJUIzJUUzJTgyJUJEJUUzJTgzJUJDJUUzJTgyJUI5JUU1JThDJTk2JUUzJTgxJTk3JUUzJTgxJTlGJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9ZDJhNzhhNjkyNWQ1YTM4NjQ0MDA5ZWE1MjhmYTIzMWQ&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBzdXdhX25vYnUmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1iZTVkNGQ3ZjgwNDY4YWQwMGMxZTkyMjA3YzFjYWMxMw&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=5qCq5byP5Lya56S-SlFJVA&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=836b2c843ee56a93270c9687f9487344",
+    "fetched_at": "2026-09-14 00:22:12",
+    "ja_summary": "・Anthropicが「コマース用AIエージェント」の参考実装をGitHubでオープンソース公開。\n・Apache 2.0ライセンスで、Claudeを活用した買い物支援機能を即座に構築可能。\n・開発者がショッピング向けAIを開発する際のテンプレートとして活用できる。"
+  },
+  {
     "title": "オープンAIのCEO 年内IPOを否定",
     "link": "https://news.yahoo.co.jp/pickup/6595170?source=rss",
     "source": "Yahoo!ニュース 経済",
@@ -958,45 +998,5 @@
     "image": "https://www.watch.impress.co.jp/img/ipw/list/2140/346/ge01.jpg",
     "fetched_at": "2026-09-11 22:32:30",
     "ja_summary": "AIワークスペースGensparkが、スライド作成に特化した自社AIモデル「Gen-1 Slides」を発表。\nClaude Opus 5と同等品質を、1/17のコストで提供可能。\nこれにより、AIスライド作成のコストが大幅に削減される。"
-  },
-  {
-    "title": "「Apple Watch Series 12」「Ultra 4」は買いか。発表会現地で分かった魅力と細かい落とし穴",
-    "link": "https://www.businessinsider.jp/article/2609-apple-watch-series-12-ultra-4-report/",
-    "source": "Business Insider Japan",
-    "published": "Fri, 11 Sep 2026 10:21:08 GMT",
-    "summary": "新型「Apple Watch Series 12」と「Ultra 4」の実機を確認。高頻度の心拍計測や新機能「準備度」などの進化点に加え、日本国内で即座に使える機能と対応待ちのAI機能を詳しく整理して解説します。",
-    "image": "https://media.loom-app.com/loom/2026/09/11/301d11ab-1bfb-4328-a847-6309a7e90182/original.jpg?w=1200",
-    "fetched_at": "2026-09-11 22:32:34",
-    "ja_summary": "・Apple Watchの最新モデル「Series 12」と「Ultra 4」が登場。\n・高頻度な心拍計測や新機能「準備度」により、健康管理機能が大幅に強化。\n・一部のAI機能は国内対応待ちのため、実用性を確認した上での検討が必要。"
-  },
-  {
-    "title": "DaVinci Resolve 21.1 の AIアシスタント統合 - MCP で Codex ・ Claude Code から動画編集",
-    "link": "https://note.com/npaka/n/nea00a22e4f57",
-    "source": "note (npaka)",
-    "published": "Wed, 09 Sep 2026 12:43:45 +0900",
-    "summary": "<p id=\"2d1b1147-0c30-4fdb-a9e3-795c0f0e48c2\" name=\"2d1b1147-0c30-4fdb-a9e3-795c0f0e48c2\">「DaVinci Resolve 21.1」のAIアシスタント統合についてまとめました。</p><br /><br /><a href=\"https://note.com/npaka/n/nea00a22e4f57\">続きをみる</a>",
-    "image": "https://assets.st-note.com/production/uploads/images/311840881/rectangle_large_type_2_fad2b24a60c5c0213435edc976fa684c.jpeg?width=800",
-    "fetched_at": "2026-09-11 22:32:34",
-    "ja_summary": "DaVinci Resolve 21.1にAIアシスタントが統合。\nCodex・Claude Codeとの連携で、動画編集作業を効率化。\nAIが編集作業をサポートし、より高度な映像制作が可能に。"
-  },
-  {
-    "title": "AirPods 5登場 ANC機能が標準化",
-    "link": "https://news.yahoo.co.jp/pickup/6594842?source=rss",
-    "source": "Yahoo!ニュース IT・科学",
-    "published": "Thu, 10 Sep 2026 03:44:18 GMT",
-    "summary": "",
-    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/9/10/a3aa7d1923a7ec90a82a8e472306875688123cfd600a76e64b09b12dc67f0326.jpg",
-    "fetched_at": "2026-09-11 22:32:37",
-    "ja_summary": "・AirPodsの次世代モデル「AirPods 5」が登場\n・ノイズキャンセリング機能が全モデルで標準搭載へ\n・音質と利便性が向上し、機能の底上げが図られる"
-  },
-  {
-    "title": "Mariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer",
-    "link": "https://www.anthropic.com/news/tino-cuellar",
-    "source": "Anthropic (News)",
-    "published": "Tue, 04 Aug 2026 00:00:00 +0000",
-    "summary": "Mariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer",
-    "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
-    "fetched_at": "2026-09-11 22:32:42",
-    "ja_summary": "・元カリフォルニア州最高裁判事のクエジャール氏が、AI企業Anthropicの最高グローバル担当責任者に就任。\n・AIの安全性や規制、国際的な政策対応の強化を主導する。\n・同社の責任あるAI開発に向けた体制強化が狙い。"
   }
 ]
