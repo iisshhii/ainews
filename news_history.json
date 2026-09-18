@@ -1,5 +1,35 @@
 [
   {
+    "title": "AWS、中東2リージョンで顧客データ復旧不能　バーレーンは全域、攻撃の影響で",
+    "link": "https://japan.cnet.com/article/35252766/",
+    "source": "CNET Japan",
+    "published": "",
+    "summary": "Amazon Web Services（AWS）は米国時間9月15日、中東の2つのリージョンについて、復旧できない顧客データがあると明らかにした。対象は3月以降の中東での攻撃によって損傷した施設で、復旧できない範囲はバーレーンではリージョン全域、アラブ首長国連邦（UAE）では3つあるアベイラビリティゾーン（AZ）のうち1つに及ぶ。そこにしか置いていなかったリソースとデータについて、AWSはアクセスを復旧できないとしている。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35252766/\"><img src=\"https://japan.cnet.com/storage/thumbnails/thumb-184xauto-1353388-file.jpeg\" /></a>",
+    "image": "https://japan.cnet.com/storage/thumbnails/thumb-184xauto-1353388-file.jpeg",
+    "fetched_at": "2026-09-19 06:04:03",
+    "ja_summary": "・AWSの中東2リージョンで、3月以降の攻撃により顧客データの一部が復旧不能となった。\n・バーレーンはリージョン全域、UAEは3つのAZのうち1つが対象。\n・該当箇所のみにデータを保存していた場合、アクセスが不可能となる。"
+  },
+  {
+    "title": "メタのAIグラス、次は「カメラなし」。グーグルの教訓を生かしプライバシー懸念にどう向き合うのか",
+    "link": "https://www.businessinsider.jp/article/59457d26-b3d3-46e1-a825-07dbe2f54921/",
+    "source": "Business Insider Japan",
+    "published": "Thu, 17 Sep 2026 22:30:00 GMT",
+    "summary": "Google Glassは、カメラ付きグラスが人々に不快感を与えることをグーグルに教えました。今度はメタが、AIグラスのカメラ非搭載モデルを開発していると報じられています。",
+    "image": "https://media.loom-app.com/loom/2026/09/17/b4fc6eac-97ec-42d6-906d-474c1770b9f4/original.jpg?w=1200",
+    "fetched_at": "2026-09-19 06:04:03",
+    "ja_summary": "・メタがGoogle Glassの失敗を教訓に、カメラ非搭載のAIグラスを開発中。\n・プライバシー侵害への懸念を回避し、AI機能の普及を狙う戦略。\n・カメラなしモデルにより、装着時の周囲の抵抗感を減らし市場拡大を図る。"
+  },
+  {
+    "title": "英国王 AI企業幹部らに懸念示す",
+    "link": "https://news.yahoo.co.jp/pickup/6595656?source=rss",
+    "source": "Yahoo!ニュース IT・科学",
+    "published": "Thu, 17 Sep 2026 23:22:09 GMT",
+    "summary": "",
+    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/9/18/43c8ac4584da5cf5cfc55c88afd11bc9a5680175bc8c86424bba511192f037f1.jpg",
+    "fetched_at": "2026-09-19 06:04:04",
+    "ja_summary": "チャールズ英国王が、AI企業の幹部らに対し、AI開発が社会に与えるリスクや影響について懸念を表明した。\n同氏は、技術革新の進展に伴う倫理的課題や安全性への対策の重要性を強調した。\n今後、AIの急速な発展に対する国際的な議論や規制への注目がさらに高まる見通し。"
+  },
+  {
     "title": "GMO熊谷社長のAI活用／鈴木敏文氏は「チンギス・ハーン」／ノエトラ社長の焦燥（2026年9月18日版） (日経ビジネスAUDIOモーニング)",
     "link": "https://business.nikkei.com/atcl/audio/22/00001/091700965/",
     "source": "日経ビジネス 最新",
@@ -968,35 +998,5 @@
     "image": "https://image.itmedia.co.jp/business/articles/2609/18/cover_news021.jpg",
     "fetched_at": "2026-09-18 08:40:15",
     "ja_summary": "・オンライン面接でAIやディープフェイクを悪用した「偽の応募者」が急増している。\n・FBIも警鐘を鳴らす巧妙な不正を防ぐため、従来の面接手法の見直しが必須。\n・「構造化面接」などを活用し、対面やリアルタイムの応答を通じて見極める採用リテラシーが求められる。"
-  },
-  {
-    "title": "「サムスンが消えた」独IT見本市IFA　家電王国・日本の消滅と、中国“独り勝ち”の地殻変動",
-    "link": "https://www.itmedia.co.jp/business/articles/2609/18/news053.html",
-    "source": "ITmedia ビジネス",
-    "published": "Fri, 18 Sep 2026 07:00:00 +0900",
-    "summary": "欧州最大の家電展「IFA」取材20年目の筆者が目撃したのは、かつての主役・日本勢の衰退にとどまらず、絶対王者サムスンまでもがメイン会場から姿を消す構造変化だ。代わりに会場の4割を占拠したのは、生成AIやEV、700万円の有人ドローン、スマートグラス同盟を率いる中国勢だった。機構技術が不要となったデジタル時代に、蚊帳の外へ追いやられた日本家電が「フィジカルAI」で一矢報いるための条件を現地から論じる。",
-    "image": "https://image.itmedia.co.jp/business/articles/2609/18/cover_news053.jpg",
-    "fetched_at": "2026-09-18 08:40:15",
-    "ja_summary": "・独IFAで日本・韓国勢が後退し、中国企業が会場の4割を占拠する地殻変動が発生。\n・デジタル時代で「機構技術」が不要となり、日本家電は圧倒的な存在感を失った。\n・日本が再起するには、ハードウェアにAIを融合させる「フィジカルAI」の活用が不可欠。"
-  },
-  {
-    "title": "設備点検「目視で10日→AIでほぼ即時」　アナログ現場のAI導入、日立流の実装メソッドにヒントあり",
-    "link": "https://www.itmedia.co.jp/business/articles/2609/18/news024.html",
-    "source": "ITmedia ビジネス",
-    "published": "Fri, 18 Sep 2026 07:00:00 +0900",
-    "summary": "目視で10日かかっていた設備点検を、AIでほぼリアルタイムに変えた事例がある。アナログ現場のAI実装を実現した日立流メソッドとは。",
-    "image": "https://image.itmedia.co.jp/business/articles/2609/18/cover_news024.jpg",
-    "fetched_at": "2026-09-18 08:40:15",
-    "ja_summary": "・日立はAI活用により、10日かかっていた設備点検をリアルタイム化することに成功。\n・アナログ現場へのAI導入を阻む障壁を取り除く独自の実装メソッドを確立。\n・現場課題をAIで即時解決に導く、現実的な実装のノウハウが注目されている。"
-  },
-  {
-    "title": "関空から京都まで25分、料金2万円　Space Aviationがヘリ移動便を開始",
-    "link": "https://www.itmedia.co.jp/business/articles/2609/18/news029.html",
-    "source": "ITmedia ビジネス",
-    "published": "Fri, 18 Sep 2026 06:00:00 +0900",
-    "summary": "Space Aviationは、関西国際空港とJPD京都ヘリポートを結ぶヘリコプター移動便「Airport Heli Shuttle」を就航した。",
-    "image": "https://image.itmedia.co.jp/business/articles/2609/18/cover_news029.jpg",
-    "fetched_at": "2026-09-18 08:40:15",
-    "ja_summary": "・関空と京都を結ぶヘリ移動便「Airport Heli Shuttle」が就航。\n・移動時間は約25分、片道料金は2万円。\n・関西国際空港とJPD京都ヘリポート間を直結し、利便性を向上。"
   }
 ]
