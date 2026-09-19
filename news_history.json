@@ -1,5 +1,85 @@
 [
   {
+    "title": "AIエージェントに「新人研修」を　Microsoft IQが推す“文脈”の競争力",
+    "link": "https://www.watch.impress.co.jp/docs/news/2141659.html",
+    "source": "Impress Watch",
+    "published": "",
+    "summary": "Microsoftは17日、「Work IQ」などの「Microsoft IQ」について報道向けの説明会を開催した。企業におけるAI活用や業務改善においては、AIモデルよりもAIが理解するための「コンテキスト(文脈)」の準備が重要であるとし、Microsoft IQ導入の必要性を説明した。",
+    "image": "https://www.watch.impress.co.jp/img/ipw/list/2141/659/ms18.jpg",
+    "fetched_at": "2026-09-19 19:54:01",
+    "ja_summary": "・AI活用で重要なのはモデルの性能以上に、自社の業務背景をAIに理解させる「文脈（コンテキスト）」の準備である。\n・Microsoftは、AIに業務知識を学習させる「Microsoft IQ」を通じ、AIエージェントの即戦力化を支援する。\n・企業はAIに的確な文脈を与えることで、業務改善の競争力を高める必要がある。"
+  },
+  {
+    "title": "AIで世界が本当に終焉に向かっているなら、お金をどうすべきか",
+    "link": "https://www.businessinsider.jp/article/2609-ai-apocalypse-personal-finance-wealth-investing-portfolio-crisis-stocks-gold/",
+    "source": "Business Insider Japan",
+    "published": "Sat, 19 Sep 2026 08:30:00 GMT",
+    "summary": "キャッシュと金を推奨する投資専門家がいる一方で、あるウェルスマネージャーは、悲観的なシナリオで「最も大事な資産」は人との関係性だとは語ります。",
+    "image": "https://media.loom-app.com/loom/2026/09/17/f917b07e-7f5a-4074-98ae-dd85a05df9f3/original.jpg?w=1200",
+    "fetched_at": "2026-09-19 19:54:04",
+    "ja_summary": "・AIによる終末論的リスクに備え、資産として現金や金を推奨する専門家がいる。\n・一方で、危機時には金銭よりも「人との良好な関係」こそが最も重要だという見方もある。\n・投資と人間関係のバランスを考慮することが、最悪の事態への備えとなる。"
+  },
+  {
+    "title": "Geminiが他社システムに侵入",
+    "link": "https://news.yahoo.co.jp/pickup/6595827?source=rss",
+    "source": "Yahoo!ニュース IT・科学",
+    "published": "Sat, 19 Sep 2026 09:18:46 GMT",
+    "summary": "",
+    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/9/19/9f9ca6cd13f1028f80edbc45338f85251ee0567af17ca3e8d6bb448b841d7ba2.jpg",
+    "fetched_at": "2026-09-19 19:54:06",
+    "ja_summary": "Googleの生成AI「Gemini」に、外部のシステムやデータへ不正に侵入・操作できる脆弱性が発見された。\nAIが意図せず他社システムにアクセスし、機密情報の漏洩や改ざんを招くリスクが懸念されている。\n現在、開発側はセキュリティ強化に向けた修正パッチの適用などの対応を急いでいる。"
+  },
+  {
+    "title": "Anthropic アクセンチュアと提携",
+    "link": "https://news.yahoo.co.jp/pickup/6595818?source=rss",
+    "source": "Yahoo!ニュース IT・科学",
+    "published": "Sat, 19 Sep 2026 07:40:31 GMT",
+    "summary": "",
+    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/9/19/1c4be5f78f87fd83630b4e29135f4433ebefa47b9b7dbfd829f3ba9658566782.jpg",
+    "fetched_at": "2026-09-19 19:54:06",
+    "ja_summary": "・AI開発企業Anthropicがアクセンチュアと戦略的提携。\n・企業の生成AI導入支援を強化し、業務効率化やビジネス変革を加速させる。\n・両社の技術とコンサルティング力を組み合わせ、AI活用の実装をサポートする。"
+  },
+  {
+    "title": "C#未経験の僕がAIに読めるコードを書かせるまで",
+    "link": "https://speakerdeck.com/maguroalternative/c-mikeiken-no-boku-ga-ai-ni-yomeru-kodo-o-kakaseru-made",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-09-19T05:47:02-04:00",
+    "summary": "C#Kaigi2026の登壇資料です。\nhttps://csharpkaigi.net/talks/lt-ai-readable-code",
+    "image": "https://files.speakerdeck.com/presentations/cf22e3c38f2640ed94338a56c14a0e63/preview_slide_0.jpg?40623005",
+    "fetched_at": "2026-09-19 19:54:16",
+    "ja_summary": "・AIに正しいコードを書かせるためのプロンプトの工夫と設計手法を解説。\n・C#未経験者がAIを活用して開発効率を最大化するプロセスを共有。\n・AIとの対話を通じて、意図通りのプログラムを生成・維持するスキルを提示。"
+  },
+  {
+    "title": "特殊変数大全",
+    "link": "https://speakerdeck.com/dak2/tokushu-hensuu-taizen",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-09-19T03:44:41-04:00",
+    "summary": "名古屋Ruby会議05 の登壇資料\nhttps://regional.rubykaigi.org/nagoya05/sessions/dak2/",
+    "image": "https://files.speakerdeck.com/presentations/7f0db290f3bf4688af0d3db7c543b427/preview_slide_0.jpg?40622060",
+    "fetched_at": "2026-09-19 19:54:16",
+    "ja_summary": "・Rubyの特殊変数の挙動と活用方法を体系的に解説した「名古屋Ruby会議05」の登壇資料。\n・コードの可読性や保守性を高めるために、特殊変数の正しい知識を整理・習得できる。\n・Ruby開発者向けに、現場で役立つ実践的なテクニックが網羅されている。"
+  },
+  {
+    "title": "Azure Serverless 2026：Production-ready な AI エージェント基盤 / Azure Serverless 2026: Production-Ready AI Agent Platform",
+    "link": "https://speakerdeck.com/miyake/azure-serverless-2026-production-ready-ai-agent-platform",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-09-19T03:23:50-04:00",
+    "summary": "Serverless Days 2026 でのセッション資料です。\n\n「Azure Serverless 2026：Production-ready な AI エージェント基盤 — Functions／Container Apps、Foundry、Microsoft IQ の使いどころ」\n\nAzure Serverless の実行単位は、Function や Container から Agent Session と Workflow Activity へ広がり、隔離されたコード実行、組織コンテキストの取得、長時間ワークフローの完遂までを担う実行基盤へ進化しています。本セッションでは、この基盤を Compute／Context／Agent Hosting／Workflow の4レイヤーで整理し、Functions／Container Apps、Microsoft Foundry、Microsoft IQ の「使いわけ」「役割分担」を解説します。イベントで起動したエージェントが Microsoft IQ から根拠付き情報を取得し、Sandbox で安全にコードを実行し、長時間処理を Durable ベースの Workflow へ委譲して完遂するといった Production-ready なリファレンスアーキテクチャも紹介します。本番運用を見据えた Azure Serverless の全体像を持ち帰れるセッションです。",
+    "image": "https://files.speakerdeck.com/presentations/a6c06a2ee2834eba8a165023a9836417/preview_slide_0.jpg?40621882",
+    "fetched_at": "2026-09-19 19:54:16",
+    "ja_summary": "・Azure Serverlessは単なる実行環境から、AIエージェントの自律実行・長期処理を担う基盤へと進化している。\n・Functions、Container Apps、Foundry、Microsoft IQの役割と最適な使い分けを4レイヤーで整理。\n・セキュアなコード実行や長時間のワークフロー完遂を含む、本番運用のためのリファレンスアーキテクチャを提示する。"
+  },
+  {
+    "title": ".NET WebAssemblyで実現するクライアントサイドAI推論：NuGetからViteまで、2つのエコシステムを繋ぐビルド戦略",
+    "link": "https://speakerdeck.com/yamachu/net-webassembly-de-jitsugen-suru-ai-suiron-nuget-kara-vite-made-2-tsu-no-eko-shisutemu-o-tsunagu-senryaku",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-09-19T03:08:45-04:00",
+    "summary": "C# Kaigi 2026 ( https://csharpkaigi.net/ , https://csharpkaigi.connpass.com/event/394163/ ) でお話したセッションスライドです。\nVoicevoxEngineSharpを.NET WebAssemblyでwasm化し、ブラウザ上でVOICEVOXが動作するようになるまでの事例を元に、.NET WebAssemblyとWebとの共存について話した内容です。\n\n関連URL\n- https://github.com/yamachu/voicevox/tree/web-sw\n- https://zenn.dev/yamachu/articles/e6fc24d8104e9e\n- https://zenn.dev/yamachu/articles/d708a941e4590e\n- https://zenn.dev/yamachu/articles/1e6f15baa2eea8\n- https://zenn.dev/j_sakamoto/articles/8bceb2d025f0db",
+    "image": "https://files.speakerdeck.com/presentations/6cbcc12203c24aa5862a223c351ec066/preview_slide_0.jpg?40621755",
+    "fetched_at": "2026-09-19 19:54:16",
+    "ja_summary": ".NET WebAssemblyを活用し、音声合成エンジン「VOICEVOX」をブラウザ上で動作させる技術的な取り組みと事例を紹介。\nC#のエコシステムとWebフロントエンド技術（Viteなど）を融合させ、クライアントサイドでAI推論を実現するためのビルド戦略を解説。\nWebと.NETの共存環境を構築し、ブラウザ上で高度な処理を実行するための実践的な知見を共有。"
+  },
+  {
     "title": "OpenAI 安保理でAI安全策説明へ",
     "link": "https://news.yahoo.co.jp/pickup/6595800?source=rss",
     "source": "Yahoo!ニュース IT・科学",
@@ -918,85 +998,5 @@
     "image": "https://japan.zdnet.com/storage/2026/04/15/06e6c6c309d820a441acf318671b6e27/t/184/138/d/260415_as_1280_921354888.jpg",
     "fetched_at": "2026-09-18 15:22:24",
     "ja_summary": "・企業のほぼ100％がAI導入によるデータストレージ需要の増加を予測。\n・一方で、十分なデータインフラの準備ができている企業は38％に留まる。\n・AI活用にはストレージ基盤の強化が急務となっている。"
-  },
-  {
-    "title": "KDDIら3社、リテールロボットで分散型データセンターを実証--遠隔地の計算資源を活用",
-    "link": "https://japan.zdnet.com/article/35252789/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "KDDI、モルゲンロット、トークネットの3社は、AIの普及に伴う電力不足やGPU不足への対応に向け、リテールロボットを活用した分散型データセンターの実証を開始した。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35252789/\"><img src=\"https://japan.zdnet.com/storage/2025/08/20/1266f24cdb864210cdd13f8be520cb6d/t/184/138/d/250820_edge_as_1280_1423601150.jpg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2025/08/20/1266f24cdb864210cdd13f8be520cb6d/t/184/138/d/250820_edge_as_1280_1423601150.jpg",
-    "fetched_at": "2026-09-18 15:22:24",
-    "ja_summary": "・KDDIら3社が、AI需要による電力・GPU不足解消に向けた分散型データセンターの実証を開始。\n・店舗用ロボットなどの末端機器を計算資源として活用し、負荷を分散させる仕組みを検証。\n・遠隔地のコンピューティングリソースを有効活用することで、AI利用の効率化を目指す。"
-  },
-  {
-    "title": "KDDI、「Gemini Enterprise」でAIエージェント開発を支援--閉域網や企業データ活用",
-    "link": "https://japan.zdnet.com/article/35252786/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "KDDIは、Google Cloudの「Gemini Enterprise」を活用し、企業のAIエージェント導入を支援する「KDDI AIエージェント開発支援」の提供を開始した。企業における業務効率化や生産性向上を後押しする。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35252786/\"><img src=\"https://japan.zdnet.com/storage/2025/10/09/60478e248ca20b13795f871513cee7f9/t/184/138/d/251009_ai_as_1280_323829966.jpeg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2025/10/09/60478e248ca20b13795f871513cee7f9/t/184/138/d/251009_ai_as_1280_323829966.jpeg",
-    "fetched_at": "2026-09-18 15:22:24",
-    "ja_summary": "・KDDIが「Gemini Enterprise」を活用し、企業のAIエージェント開発支援サービスを開始。\n・セキュアな閉域網や自社データを活用し、業務効率化と生産性向上を強力にサポート。\n・企業が安全かつ実用的にAIエージェントを導入できる環境を提供する。"
-  },
-  {
-    "title": "【終了】「ガバメントAI 源内OSS Ver 2.0の計画に関するオンライン説明会」の開催について（ご案内）",
-    "link": "https://www.digital.go.jp/news/b6d94913-60d0-450d-ab46-8e89659f1fc6",
-    "source": "デジタル庁",
-    "published": "Fri, 18 Sep 2026 15:00:00 +0900",
-    "summary": "",
-    "image": "https://www.digital.go.jp/assets/contents/node/information/field_thumbnail_image/b6d94913-60d0-450d-ab46-8e89659f1fc6/dee92357/20260723_04.png",
-    "fetched_at": "2026-09-18 15:22:26",
-    "ja_summary": "・「ガバメントAI 源内OSS Ver 2.0」の計画に関するオンライン説明会は終了しました。\n・本件に関する最新情報や資料については、公式サイト等をご確認ください。"
-  },
-  {
-    "title": "ガバメントAI 源内OSS Ver 2.0の計画に関する全国オンライン説明会を開催しました",
-    "link": "https://www.digital.go.jp/news/e525db0b-eac1-49e2-9ef4-6d2e24208498",
-    "source": "デジタル庁",
-    "published": "Fri, 18 Sep 2026 15:00:00 +0900",
-    "summary": "",
-    "image": "https://www.digital.go.jp/themes/custom/gov_theme_da_2023/assets/images/ogp.png",
-    "fetched_at": "2026-09-18 15:22:26",
-    "ja_summary": "・政府の次期AI開発基盤「ガバメントAI 源内OSS Ver 2.0」の構想を発表。\n・開発の方向性や計画について、全国向けオンライン説明会を開催。\n・行政DXの加速に向け、オープンソース（OSS）活用の最適化を目指す。"
-  },
-  {
-    "title": "企画競争：令和8年度 政府情報システムの設計開発及び運用保守における内部開発に対するAI有用性の調査研究事業を掲載しました",
-    "link": "https://www.digital.go.jp/procurement",
-    "source": "デジタル庁",
-    "published": "Fri, 18 Sep 2026 15:00:00 +0900",
-    "summary": "",
-    "image": "https://www.digital.go.jp/themes/custom/gov_theme_da_2023/assets/images/ogp.png",
-    "fetched_at": "2026-09-18 15:22:26",
-    "ja_summary": "・政府情報システムの開発・運用保守を内製化する際の、AI活用の有用性を調査する事業の公募が開始された。\n・令和8年度に向けた取り組みとして、システム構築業務におけるAI導入の可能性や効果を検証する。\n・詳細は政府の公募情報ページにて確認可能。"
-  },
-  {
-    "title": "Jevでハーネスエンジニアリング",
-    "link": "https://zenn.dev/watany/articles/36e11a20ce3743",
-    "source": "Zenn Trends",
-    "published": "Fri, 18 Sep 2026 02:16:33 GMT",
-    "summary": "この記事は、今日参加するイベントで画面表示する目的と、\nhttps://minorun365.connpass.com/event/407308/\n今日発売されるSoftware Design 2026/10の宣伝ついでに書いています。\nhttps://gihyo.jp/magazine/SD/archive/2026/202610\n\n Jevって？\nJevは、状態と質問を受け取り、型付きの回答を確率とともに返すモデルである。チャッピー！それってLLMと何が違うの？ 図を書いて。いいよ。\n\nJevの提供元のTypeSafe AIは、こうしたソフトウェア向けの意思決定モデルを「System...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--p7nC-kx3--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Jev%25E3%2581%25A7%25E3%2583%258F%25E3%2583%25BC%25E3%2583%258D%25E3%2582%25B9%25E3%2582%25A8%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%258B%25E3%2582%25A2%25E3%2583%25AA%25E3%2583%25B3%25E3%2582%25B0%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:watany%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzJiYjJiYTdkZjkuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "fetched_at": "2026-09-18 15:22:30",
-    "ja_summary": "「Jev」は、状態と質問から確率付きの型付き回答を生成する、ソフトウェアの意思決定に特化した新モデル。\n従来のLLMとは異なり、決定プロセスが明確な「System 2」的なAIとして活用される。\n本詳細は「Software Design 2026年10月号」および関連イベントにて解説されている。"
-  },
-  {
-    "title": "Jev 所感 ダラダラと書く",
-    "link": "https://zenn.dev/meijin/articles/jev-impressions",
-    "source": "Zenn Trends",
-    "published": "Thu, 17 Sep 2026 23:13:45 GMT",
-    "summary": "https://docs.typesafe.ai/introduction\n\nJev そのものが覇権を取るかは知らんが、構造化出力に特化したAIは今後も残りそう\nちょうど猫も杓子もAIエージェントという時代になりつつあるところで発表されて、タイミングがうまい\n\n\n\n一般には、CodexやClaudeにさせている日常業務の一部を高速化することに役立てられそう\nBrowser Useなど特定のアプリケーションやブラウザを操作する時に、状態の取得やテキスト化はLLMが従来通り行い、ネクストアクションを有限個の選択肢から選ぶことをJevが行う、みたいな協働\nなので、困ってないケースで無理に入れな...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--W4LKp311--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Jev%2520%25E6%2589%2580%25E6%2584%259F%2520%25E3%2583%2580%25E3%2583%25A9%25E3%2583%2580%25E3%2583%25A9%25E3%2581%25A8%25E6%259B%25B8%25E3%2581%258F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:meijin%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2pPWmtyWk1nS3djRXl5a2w1X2lVTFZFVmtVVUpkNzkzcjlfejhERjRzPXMyNTAtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "fetched_at": "2026-09-18 15:22:31",
-    "ja_summary": "・構造化出力に特化したAIフレームワーク「Jev」は、エージェント活用の潮流に適した有用な技術。\n・LLMが状況を把握し、Jevがネクストアクションを選択する分業により、自動化処理の高速化が期待できる。\n・現状の運用で不便がないなら導入は不要だが、特定の業務効率化には適した選択肢となる。"
-  },
-  {
-    "title": "認知負債の未来は？",
-    "link": "https://zenn.dev/kabeya/articles/future-of-cognitive-debt",
-    "source": "Zenn Trends",
-    "published": "Thu, 17 Sep 2026 14:30:02 GMT",
-    "summary": "はじめに\nAIがコードを書くようになり、認知負債が問題となってきている、という認識が広まりつつあります。\n一方で、そもそも本当に人間が認知しなければならないのか、という議論もあります。\n今回は、2026/9/16〜17に開催された「技術的負債に向き合うConference 2026」を聴講して感じたことを書いていきます。\n\n 認知負債の問題点\n\n 認知負債とは\nまずはこの議論で「認知負債」が何かを定義します。\nここでは「認知負債」を「仕組みを人間が認知（理解）しておかなければならないのに、認知しないまま稼働しているコードが存在すること」とします。\n「自社が提供しているシステムのなかで...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--FGsZRl-U--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E8%25AA%258D%25E7%259F%25A5%25E8%25B2%25A0%25E5%2582%25B5%25E3%2581%25AE%25E6%259C%25AA%25E6%259D%25A5%25E3%2581%25AF%25EF%25BC%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:kabeya%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzU5ZGNiOTFhMjUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "fetched_at": "2026-09-18 15:22:31",
-    "ja_summary": "AIによる自動コーディングの普及で、人間が仕組みを理解しきれない「認知負債」の問題が浮上している。\nそもそも人間がコードを認知すべきかという議論が起きる中、認知を要する仕組みが未理解のまま稼働するリスクが懸念されている。\n「技術的負債に向き合うConference 2026」にて、こうした認知負債の定義や向き合い方が議論された。"
   }
 ]
