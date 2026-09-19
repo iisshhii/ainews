@@ -1,5 +1,55 @@
 [
   {
+    "title": "クラウドフレア、AI学習拒否・検索OKを選べる新設定",
+    "link": "https://www.watch.impress.co.jp/docs/news/2142146.html",
+    "source": "Impress Watch",
+    "published": "",
+    "summary": "CDN大手のCloudflare(クラウドフレア)は、AIによるコンテンツ収集を制御する取組みにおいて、AI学習のみを拒否する新たな設定「Disallow AI Training」の提供を開始した。この新機能と推奨設定により、出版社やメディア企業などは、「検索」「AI学習」「AIエージェント」ごとに、自社コンテンツの使われ方を個別に指定できるようになる。またクローラー側でも、この指定を考慮した仕組みの提供が始まっている。",
+    "image": "https://www.watch.impress.co.jp/img/ipw/list/2142/146/01.jpg",
+    "fetched_at": "2026-09-20 04:26:28",
+    "ja_summary": "・CloudflareがAI学習のみを拒否できる新設定「Disallow AI Training」を提供開始。\n・検索、AI学習、AIエージェントの用途ごとに、コンテンツ利用の可否を個別設定可能。\n・出版社やメディアが自社情報の使われ方をより細かく制御できる仕組みを整備。"
+  },
+  {
+    "title": "Claude Code のスキルを47本運用して測った、7つのこと",
+    "link": "https://qiita.com/suwa_nobu/items/08e3bd535dbc79e0c738",
+    "source": "Qiita (Popular)",
+    "published": "2026-09-14T09:52:45+09:00",
+    "summary": "\nClaude Code のスキルは、**入れるだけなら1分**で終わります。公開されているものも数多くあります。\n\nそうなると、やることは決まっています。**片っ端から入れる**のです。\n\n自作47本を運用しながら1ヶ月ほど測った結果、**増やすほど呼ばれなくなる**ことが分かりました。\n重くなるからではありません。**入れたスキルの説明が、黙って消えるから**です。\n\nこの記事は、これまで公開",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0NDMwNjExJTJGYTRlNGFiZDZjNWNkZmM5NzkzMTk2ZmUwZDFjZjYyMGY1ZWYxMTY5NCUyRnhfbGFyZ2UucG5nJTNGMTc4NTI4OTU5Nj9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NGE5ZmNiZmE4OTM5NWU1MWY1N2FiYjJkYzI1ZTFmZDQ%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYyMDc3NzA2NTMzODkzMmUyMWVjMjk3MjI5ZDVkZmI5NDk5MWI5YzFhJTJGb3JpZ2luYWwuanBnJTNGMTc2OTAwMDk3MD9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz1lYjc1ZTQzMzAzYTdlNTkzNDQ4Yjc4NDZiMjljYTgxZA%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D237198914e54e0e7e727d16c4cfb7823?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9Q2xhdWRlJTIwQ29kZSUyMCVFMyU4MSVBRSVFMyU4MiVCOSVFMyU4MiVBRCVFMyU4MyVBQiVFMyU4MiU5MjQ3JUU2JTlDJUFDJUU5JTgxJThCJUU3JTk0JUE4JUUzJTgxJTk3JUUzJTgxJUE2JUU2JUI4JUFDJUUzJTgxJUEzJUUzJTgxJTlGJUUzJTgwJTgxNyVFMyU4MSVBNCVFMyU4MSVBRSVFMyU4MSU5MyVFMyU4MSVBOCZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTg3NGJiOTIwZWQ4ODQ5ZmI5ZGQxN2ZjOGMyNzY5MTRj&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBzdXdhX25vYnUmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1iZTVkNGQ3ZjgwNDY4YWQwMGMxZTkyMjA3YzFjYWMxMw&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=5qCq5byP5Lya56S-SlFJVA&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=37b3eec74c20a17481fc4b234567d10c",
+    "fetched_at": "2026-09-20 04:26:49",
+    "ja_summary": "・Claude Codeのスキルを47本導入して検証した結果、数を増やすほど呼ばれなくなることが判明。\n・原因は動作の重さではなく、スキルが増えることでシステム上の説明文が消失するため。\n・むやみにスキルを追加するのではなく、適切な管理と取捨選択が必要である。"
+  },
+  {
+    "title": "元ヤフーエンジニア社長が考える、AIに仕事が奪われないと思う理由",
+    "link": "https://qiita.com/ryoheiiwamoto/items/0134c989bb86519eec2e",
+    "source": "Qiita (Popular)",
+    "published": "2026-09-09T11:31:41+09:00",
+    "summary": "\n\n\n## 対象者\n\n・AIの進化を見ていて、正直この仕事を選んで大丈夫なのか不安な方\n・「AI時代、エンジニアってオワコンなのかな」と将来に迷っている方\nに読んでいただけると嬉しいです！\n<br>\n\nこんにちは、元Yahooエンジニアで、株式会社PRUMの代表をしている岩本です。\nhttps://prum.jp/\n<br>\nChatGPTやClaudeがどんどん賢くなって、コードもエラー対応も驚",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY2Njg5NTAlMkZlYzkxNGM0M2Y1MmZhOGVmMmM1ZDYzZWY2ZDI2NmNlMjAxMTMyMmM1JTJGeF9sYXJnZS5wbmclM0YxNzM4NTQ5NzE0P2l4bGliPXJiLTQuMS4xJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz1hZTcyYzlkNDc0ODA1NWRiODg3MjU1MTg3YjYwNzE3Mg%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Dd52b79a6493a8f7d3599dbe8fc65df0f?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUU1JTg1JTgzJUUzJTgzJUE0JUUzJTgzJTk1JUUzJTgzJUJDJUUzJTgyJUE4JUUzJTgzJUIzJUUzJTgyJUI4JUUzJTgzJThCJUUzJTgyJUEyJUU3JUE0JUJFJUU5JTk1JUI3JUUzJTgxJThDJUU4JTgwJTgzJUUzJTgxJTg4JUUzJTgyJThCJUUzJTgwJTgxQUklRTMlODElQUIlRTQlQkIlOTUlRTQlQkElOEIlRTMlODElOEMlRTUlQTUlQUElRTMlODIlOEYlRTMlODIlOEMlRTMlODElQUElRTMlODElODQlRTMlODElQTglRTYlODAlOUQlRTMlODElODYlRTclOTAlODYlRTclOTQlQjEmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1mOTYyZjc0ZWMyMTcxNzU4ZDUwYTI0ZjVmZTdjNmY0NA&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDByeW9oZWlpd2Ftb3RvJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9Y2Q0NTMxYTI2Yzk3MDgzYzhhZjVjYmZmZDg1ZjcyYTc&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=ac60594c5a2e9679e8daaba355443b86",
+    "fetched_at": "2026-09-20 04:26:51",
+    "ja_summary": "・AIの進化で仕事が奪われる不安に対し、元ヤフーエンジニアが自身の視点で「エンジニアはオワコンではない」と主張。\n・AIは「作業」を効率化するツールであり、課題を定義し解決策を設計する「エンジニアの本質的な仕事」は代替されないと解説。\n・変化を恐れず、AIを道具として使いこなすことで、エンジニアの価値はむしろ高まっていくと強調。"
+  },
+  {
+    "title": "Anthropic がコマース用エージェントをオープンソース化した",
+    "link": "https://qiita.com/suwa_nobu/items/1c0f27da8eb685f6ba05",
+    "source": "Qiita (Popular)",
+    "published": "2026-09-07T13:31:43+09:00",
+    "summary": "\n9月2日、Anthropic が **[anthropics/commerce-agents](https://github.com/anthropics/commerce-agents)** を公開しました。**Apache 2.0** です。\n\n「Claude でショッピングエージェントを作るときの参考実装」で、**動くコードがそのまま入っています。** 何が入っているのかを整理します。\n\n",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0NDMwNjExJTJGYTRlNGFiZDZjNWNkZmM5NzkzMTk2ZmUwZDFjZjYyMGY1ZWYxMTY5NCUyRnhfbGFyZ2UucG5nJTNGMTc4NTI4OTU5Nj9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NGE5ZmNiZmE4OTM5NWU1MWY1N2FiYjJkYzI1ZTFmZDQ%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYyMDc3NzA2NTMzODkzMmUyMWVjMjk3MjI5ZDVkZmI5NDk5MWI5YzFhJTJGb3JpZ2luYWwuanBnJTNGMTc2OTAwMDk3MD9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz1lYjc1ZTQzMzAzYTdlNTkzNDQ4Yjc4NDZiMjljYTgxZA%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D237198914e54e0e7e727d16c4cfb7823?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9QW50aHJvcGljJTIwJUUzJTgxJThDJUUzJTgyJUIzJUUzJTgzJTlFJUUzJTgzJUJDJUUzJTgyJUI5JUU3JTk0JUE4JUUzJTgyJUE4JUUzJTgzJUJDJUUzJTgyJUI4JUUzJTgyJUE3JUUzJTgzJUIzJUUzJTgzJTg4JUUzJTgyJTkyJUUzJTgyJUFBJUUzJTgzJUJDJUUzJTgzJTk3JUUzJTgzJUIzJUUzJTgyJUJEJUUzJTgzJUJDJUUzJTgyJUI5JUU1JThDJTk2JUUzJTgxJTk3JUUzJTgxJTlGJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9ZDJhNzhhNjkyNWQ1YTM4NjQ0MDA5ZWE1MjhmYTIzMWQ&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBzdXdhX25vYnUmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1iZTVkNGQ3ZjgwNDY4YWQwMGMxZTkyMjA3YzFjYWMxMw&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=5qCq5byP5Lya56S-SlFJVA&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=836b2c843ee56a93270c9687f9487344",
+    "fetched_at": "2026-09-20 04:26:53",
+    "ja_summary": "AI企業Anthropicが、ショッピングエージェント開発のための参考実装をオープンソースとして公開しました。\nApache 2.0ライセンスで提供され、Claudeを活用したエージェント構築の具体的なコード例が含まれています。\nこれにより、開発者はすぐにエージェント開発に着手できます。"
+  },
+  {
+    "title": "Claude Fable 5.1、キャッシュ読みは4分の1。ただし tool_choice が400を返す",
+    "link": "https://qiita.com/suwa_nobu/items/c0f5b86dfb8a3106cbaf",
+    "source": "Qiita (Popular)",
+    "published": "2026-09-07T13:31:47+09:00",
+    "summary": "\n9月1日に Claude Fable 5.1 が出ました。**価格表で変わったのは1行だけです。**\n\n```\n入力       $10     →  $10      据え置き\n出力       $50     →  $50      据え置き\n5m 書込    $12.50  →  $12.50   据え置き\n1h 書込    $20     →  $20      据え置き\nキャッシュ読み",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0NDMwNjExJTJGYTRlNGFiZDZjNWNkZmM5NzkzMTk2ZmUwZDFjZjYyMGY1ZWYxMTY5NCUyRnhfbGFyZ2UucG5nJTNGMTc4NTI4OTU5Nj9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NGE5ZmNiZmE4OTM5NWU1MWY1N2FiYjJkYzI1ZTFmZDQ%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYyMDc3NzA2NTMzODkzMmUyMWVjMjk3MjI5ZDVkZmI5NDk5MWI5YzFhJTJGb3JpZ2luYWwuanBnJTNGMTc2OTAwMDk3MD9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz1lYjc1ZTQzMzAzYTdlNTkzNDQ4Yjc4NDZiMjljYTgxZA%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D237198914e54e0e7e727d16c4cfb7823?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9Q2xhdWRlJTIwRmFibGUlMjA1LjElRTMlODAlODElRTMlODIlQUQlRTMlODMlQTMlRTMlODMlODMlRTMlODIlQjclRTMlODMlQTUlRTglQUElQUQlRTMlODElQkYlRTMlODElQUY0JUU1JTg4JTg2JUUzJTgxJUFFMSVFMyU4MCU4MiVFMyU4MSU5RiVFMyU4MSVBMCVFMyU4MSU5NyUyMHRvb2xfY2hvaWNlJTIwJUUzJTgxJThDNDAwJUUzJTgyJTkyJUU4JUJGJTk0JUUzJTgxJTk5JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9MzU5ZWIzODEwM2Y2M2ZkODE1NDQwZjFmNjk3MzJhMTc&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBzdXdhX25vYnUmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1iZTVkNGQ3ZjgwNDY4YWQwMGMxZTkyMjA3YzFjYWMxMw&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=5qCq5byP5Lya56S-SlFJVA&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=0551115c38e7b64b495a16a4ad424b7c",
+    "fetched_at": "2026-09-20 04:26:53",
+    "ja_summary": "・Claude Fable 5.1がリリースされ、キャッシュ読み取りコストが従来の4分の1に値下げ。\n・その他の料金体系や主要な入出力コストは据え置き。\n・ただし、API利用時に「tool_choice」機能でエラー（400）が発生する不具合を確認。"
+  },
+  {
     "title": "Microsoft Wordで「ChatGPT」が利用可能に　文書の作成や編集に対応",
     "link": "https://www.watch.impress.co.jp/docs/news/2142062.html",
     "source": "Impress Watch",
@@ -948,55 +998,5 @@
     "image": "https://res.cloudinary.com/zenn/image/upload/s--ACoQBj74--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:PR%25E3%2581%25AECI%25E7%25A8%25BC%25E5%2583%258D%25E6%2599%2582%25E9%2596%2593%25E3%2582%25927%25E5%2589%25B2%25E5%2589%258A%25E6%25B8%259B%25E3%2581%2597%25E3%2581%259F%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:kuni%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzFkYjgxMTIyYzAuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E6%25A0%25AA%25E5%25BC%258F%25E4%25BC%259A%25E7%25A4%25BE%25E3%2582%25A4%25E3%2583%258E%25E3%2583%2599%25E3%2583%25BC%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3%2520Tech%2520Blog%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzQ0Nzg5YjMwYmQuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
     "fetched_at": "2026-09-18 20:33:23",
     "ja_summary": "・AI開発で増加したテストによるCI稼働時間の増大を課題視。\n・3つの改善策を実行し、1回あたりの稼働時間を144分から39分へ73%削減。\n・CIの本来の目的（品質担保）を維持したまま効率化に成功。"
-  },
-  {
-    "title": "AI Agent入門〜今更聞けないAgentの話〜",
-    "link": "https://speakerdeck.com/hiromimaganuma/ai-agent-nyuumon-imasara-kikenai-agent-no-hanashi",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-09-18T07:01:21-04:00",
-    "summary": "",
-    "image": "https://files.speakerdeck.com/presentations/8c07a89c22314c3382197b457efdf4c0/preview_slide_0.jpg?40614649",
-    "fetched_at": "2026-09-18 20:33:24",
-    "ja_summary": "AIエージェントとは、指示に対して自律的に思考し、ツールを使ってタスクを完遂するAIシステムのこと。\n従来の対話型AIと異なり、複雑な工程を自ら計画・実行して業務を自動化できる点が最大の特徴。\n業務効率化の鍵となる次世代技術であり、ビジネス現場での活用範囲が急速に広がっている。"
-  },
-  {
-    "title": "Autonomous_AI_Threat_Intelligence.pdf",
-    "link": "https://speakerdeck.com/nagatsu/autonomous-ai-threat-intelligence",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-09-18T05:41:38-04:00",
-    "summary": "本スライド資料「Anthropic AI脅威インテリジェンス調査：悪用手法・検出結果・防御策の全貌」の概要解説\n\nこのスライドは、Anthropicが発表した2026年9月の脅威インテリジェンスレポートを主軸に、AIモデルの悪用事例と対策の全貌をまとめた資料です。主に以下の3つのテーマで構成されています。\n\n1. 調査の概要と背景 2025年12月から2026年8月にかけてAnthropicが実施した調査の全体像です。AIが単なる補助ツールから攻撃全体の自動実行者（オーケストレーター）へと進化し、個人攻撃者であっても国家主導レベルの攻撃規模や速度を実現できるようになっている攻撃経済性の変化を整理しています。\n\n2. 検出された7つの悪用領域（Misuse Tree） レポートで明かされた悪用手法を7つの主要カテゴリーに分類して解説しています。 ・サイバー攻撃：自動化された脆弱性探査、自律的なマルウェア改変、クレデンシャル大量窃盗 ・影響工作：自動化された世論操作、フェイクニュースの量産、偽アカウント網の運用 ・監視：特定個人やグループを対象とした大規模データ解析とプロファイリング ・通常兵器：ミサイル誘導ソフトやドローン制御等への悪用試み ・生物リスク：病原体や毒素に関するデュアルユース研究への悪用試み ・詐欺・スキャム：大規模なマッチングアプリ詐欺や自動対話botの運用 ・不正モデル蒸留：不正アカウント網やプロキシを経由した思考プロセス（CoT）の大量抽出\n\n3. 講じられた対策と防衛策 発見された脅威に対してAnthropicおよび業界が講じた防衛策を整理しています。 ・不正アカウントの無効化とプロキシネットワークの遮断 ・思考プロセスの保護（Preserved Thinking等）や高度な分類器の導入 ・他社AIラボや司法機関、政府機関との脅威インテリジェンス共有 ・単発プロンプトではなく複数セッションにわたる一連の行動監視（キャンペーンレベルの分析）の推進\n\nこのスライドを確認することで、AI脅威の全体像（Misuse Tree）と防御側が取るべき具体的なアプローチを効率的に把握できます。",
-    "image": "https://files.speakerdeck.com/presentations/6fac1f44a2b640858fc2f859e7892662/preview_slide_0.jpg?40613010",
-    "fetched_at": "2026-09-18 20:33:24",
-    "ja_summary": "・AIが攻撃の補助ツールから実行者へと進化し、個人でも高度な攻撃が可能な時代へ。\n・サイバー攻撃や世論操作、兵器・生物兵器利用など7つの深刻な悪用手法が顕在化。\n・不正利用の遮断、思考プロセスの保護、業界を超えた連携による監視体制の強化が急務。"
-  },
-  {
-    "title": "TypeSafe JevがもたらすSystem 1 アーキテクチャと6つの実装設計図 AI That Doesn't Talk; 語らないAI",
-    "link": "https://speakerdeck.com/nagatsu/typesafe-jev-ga-motarasu-system-1-akitekucha-to-6-tsu-no-jissou-sekkeizu-ai-that-doesn-t-talk-kataranai-ai",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-09-18T05:36:06-04:00",
-    "summary": "ypeSafe Jevは、文章生成を行わず**「構造化された意思決定（型付きの値）」の出力に完全特化した新カテゴリのAIモデル（System One Model）**です1more_horiz。\n\n1. TypeSafe Jevの概要開発背景と基本コンセプト\n\nOpenAIにてRLHF（Human Feedbackからの強化学習）やInstructGPTの共同発明者であったDiogo Almeida氏らが設立したTypeSafe AI社により、2026年9月15日に公開されました。認知心理学者ダニエル・カーネマンの二重過程理論における「System 1（直感的・高速な判断）」を模倣して構築されています。\n\n「喋らないAI」のパラダイム\n\n従来のLLM（大規模言語モデル）のようにテキストやコードをトークン単位で生成する機能（System 2）をあえて完全に排除し、不完全・非構造化テキストなどの「状態（State）」を受け取って固定的な型付きデータ（Choice, Score, Noul）のみを返却します。\n\n圧倒的な低遅延と低コスト\n\n応答遅延は70ミリ秒〜500ミリ秒（平均100ms前後）であり、従来LLMの数秒〜数十秒に比べて圧倒的に高速です。価格は入力100万トークンあたり$0.042で、出力トークン費用は**無料（無償提供）**とされています。\n\n2. Jevの技術的構造・アーキテクチャ\n\n① 並列サンプリング・アーキテクチャ（Parallel Sampling Architecture）\n従来のLLMは1トークンずつ順番に生成する自己回帰的（Autoregressive）サンプリングを行うため、構文解析やパースの遅延が発生し、出力崩れのリスクがありました。Jevは可能出力空間をあらかじめスキーマで拘束し、**単一の並列パス（Parallel Pass）**で全ての評価項目や設問を同時にサンプリングして回答を算出します。\n\n② RLCD（Reinforcement Learning for Calibrated Decisions）\n対話の心地よさを最適化するRLHFや検証可能報酬を最適化するRLVRではなく、**確信度（統計的校正）の正確性を直接最適化する「RLCD」**という学習手法を採用しています。モデルが「確信度90%」と返した試行群を集計すると実際に約90%の確率で正解するよう校正（Calibration）されているため、開発者は確信度スコアをそのままプログラムの条件分岐閾値（例: 0.85以上なら自動実行、未満なら人間へ回す）として利用できます。\n\n③ 3つの核心的意思決定プリミティブ\nJevの出力インターフェースは、ソフトウェアの基本データ型に対応する3つのネイティブ・プリミティブのみで構成されています。\n\nChoice（多肢選択）\n最大255個の選択肢の中から最適な1つを特定します19more_horiz。選定された選択肢に加え、全選択肢の確率分布と総合確信度（Confidence Score）を返します。\n\nScore（段階・連続評価）\n記述されたルーブリック（評価基準）に基づき、連続値（例: 1.035のような補間スコア）や段階数値を算出します。\n\nNoul（二値判定）\n条件の成否をブーリアン（True/False）で判別します。True判定の確率P(True)自体が不確実性のシグナルとして機能します。\n\n④ 技術的境界と保証\n\n出力エラー率0%の保証: \n定義されたスキーマ外の不正値や型エラーを出力することは原理的に発生しません。\n\n自由記述の不可: \n文章の要約、翻訳、コード記述などの生成タスクは一切不可能です。\n\n入力バジェットの制約: \nコンテキストウィンドウの上限は約32,000トークン程度であり、長大な文脈をそのまま投入する場合は前処理が必要です。\n\n3. 主な使用例（ユースケース）\n\nカスタマーサポートの自動ルーティング\n問い合わせ本文から担当部署（Choice）、緊急度（Score）、人間対応の必要性（Noul）を100ms未満で一括判定し、自動割り振りを行います。\n\nリアルタイム不正取引スコアリング\n決済承認枠（数ミリ秒以内）の制約下で、取引履歴やデバイス情報からリスク度をリアルタイム数値化して2FA要求や自動拒否を制御します。\n\nLLMエージェントの動的ツール選択・制御\nAgentic Workflowにおける「次に呼び出すAPIツールの決定」や「危険な操作の有無」をJevに移管し、思考ループの遅延とトークンコストを劇的に削減します。\n\n大規模データのMap-Reduce解析\n数百万〜数億件のレビュー文やログデータに対して、カテゴリ分類や感情分析を一括分散処理します。出力トークンが無料のため極めて安価に実施できます。\n\nインライン・ガードレール＆セキュリティ検知\nLLMへの入力（プロンプトインジェクション検知）や出力（個人情報・有害表現の検知）をミリ秒単位で判定・遮断します。\n\nLLMモデルルーティング（カスケード）\nリクエストの難易度を事前判定し、簡易な質問は軽量モデルや定型文へ、複雑な推論のみ高価なLLMへ振り分けることでインフラ費用を最適化します。",
-    "image": "https://files.speakerdeck.com/presentations/bd225a62091f414682e9170cd8e654ec/preview_slide_0.jpg?40612914",
-    "fetched_at": "2026-09-18 20:33:24",
-    "ja_summary": "・「TypeSafe Jev」は文章生成をせず、選択や判定などの「構造化データ」のみを高速・低コストで出力する新カテゴリのAI。\n・応答速度100ms前後と圧倒的に速く、確信度を統計的に保証するため、システム制御や判定処理に直結できる。\n・エラー率0％で動作し、LLMのコスト最適化や自動ルーティングなど、業務システムの部品として活用される。"
-  },
-  {
-    "title": "AIエージェントの権限管理 3:  Agentic RAG の Fine grained access control 編",
-    "link": "https://speakerdeck.com/ren8k/agentic-rag-fine-grained-access-control",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-09-18T04:49:06-04:00",
-    "summary": "社内勉強会資料。2026/9/18\n\nAIエージェントの権限管理 2: データ基盤の Fine grained access control 編 の続編です。\n\nBedrock Managed Knowledge Base と AgentCore Gateway で Agentic RAG を実現する際、\nどのようにユーザーごとに Agent が Retrieve するデータの Fine-grained Access Control (FGAC) を実現するかを Dive Deep します。\n\nまた、AgentCore Gateway Interceptor, AgentCore Policy, Resource-based policy を利用した多層防御についても解説します。",
-    "image": "https://files.speakerdeck.com/presentations/95f769fc44c84eea92acc50febe150df/preview_slide_0.jpg?40611762",
-    "fetched_at": "2026-09-18 20:33:24",
-    "ja_summary": "AIエージェントがRAGで情報を参照する際、ユーザーごとに閲覧範囲を制限する詳細な権限管理手法を解説。\nBedrock Managed Knowledge Base等を活用した実装方法と、多層防御によるセキュリティ強化策を詳説する。"
-  },
-  {
-    "title": "【Veeam v13.1】最新機能をキャッチアップ！対応ハイパーバイザー大幅拡張・日本語Web UI・AI運用など",
-    "link": "https://speakerdeck.com/climbteam/veeam-v13-1-saishin-kinou-o-kyacchi-appu-taiou-oohaba-kakuchou-nihongo-web-ui-ai-unyou-nado",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-09-18T03:15:42-04:00",
-    "summary": "9/18に実施したWebセミナーのスライドです。\nhttps://www.climb.co.jp/soft/webseminar/2026/0918/\n\n7月29日にVeeam Backup & Replication 13.1がリリースされました。本リリースには以下のような数多くの新機能や改善が含まれています。\n\n●マルチハイパーバイザー対応の大幅拡張\n　- Citrix XenServer、XCP-ng、Sangfor aSV、Platform9、VergeOS\n●Active Directory／Entra ID保護の強化\n●セキュリティと通信の強化\n●リポジトリとイミュータビリティの強化\n●NAS／非構造化データ保護\n●大規模DB対応・アプリケーション保護強化\n●Veeam Software Appliance／HA強化\n●Veeam Intelligence強化\n\nこれらの新機能、改善に関して、具体的な解説を実施するセミナーです。またアプライアンス版Veeamの新機能や日本語ローカライズにも対応するWeb UIへの機能追加、Veeam IntelligenceによるAI運用などをデモ予定です。",
-    "image": "https://files.speakerdeck.com/presentations/9e0c32fdd1a042c2b3a904f1ea0d47b1/preview_slide_0.jpg?40610335",
-    "fetched_at": "2026-09-18 20:33:24",
-    "ja_summary": "・Veeam Backup & Replication 13.1がリリースされ、対応ハイパーバイザーの拡充やセキュリティ強化を実現。\n・日本語Web UIへの対応や、AIを活用した運用（Veeam Intelligence）を新たに導入。\n・AD保護、NAS対応、大規模DB保護など、バックアップ運用の実用性と信頼性を大幅に強化。"
   }
 ]
