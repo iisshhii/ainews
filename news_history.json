@@ -1,5 +1,95 @@
 [
   {
+    "title": "OpenAI 安保理でAI安全策説明へ",
+    "link": "https://news.yahoo.co.jp/pickup/6595800?source=rss",
+    "source": "Yahoo!ニュース IT・科学",
+    "published": "Sat, 19 Sep 2026 05:01:46 GMT",
+    "summary": "",
+    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/9/19/298dcd2097d240afeb264746400b66e52a7d27aad95fa4f997351821675f3952.jpg",
+    "fetched_at": "2026-09-19 15:09:20",
+    "ja_summary": "OpenAIが国連安保理の会合に出席し、AIの安全性とリスク管理策について説明する。\n世界的なAI開発競争が加速する中、国際的な監視体制や規制のあり方が議論される見通し。\nAI技術の平和的利用と安全性を両立させるための、国際協力の枠組み構築を目指す。"
+  },
+  {
+    "title": "「優秀な人のAIの設定・やり取り」をチーム全員で自動共有できる無料ツール「TeamAI」が商用利用可で登場（生成AIクローズアップ）",
+    "link": "https://www.techno-edge.net/article/2026/09/16/5503.html",
+    "source": "TechnoEdge",
+    "published": "Wed, 16 Sep 2026 15:07:07 +0900",
+    "summary": "今回は、AIの設定や活用ノウハウなどをチーム全員で自動共有できるテンセント開発のオープンソースツール「TeamAI」（teamai-cli）を取り上げます。",
+    "image": "https://www.techno-edge.net/imgs/rss/34316.png",
+    "fetched_at": "2026-09-19 15:09:25",
+    "ja_summary": "・テンセントが開発した無料ツール「TeamAI」が公開。\n・優秀なAIの設定や活用ノウハウをチーム内で自動共有可能。\n・商用利用が可能なオープンソースのため、業務効率化に活用できる。"
+  },
+  {
+    "title": "Introducing the Australian Youth Safety Blueprint",
+    "link": "https://openai.com/index/australian-youth-safety-blueprint",
+    "source": "OpenAI",
+    "published": "Fri, 18 Sep 2026 12:00:00 GMT",
+    "summary": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/11NZvnxIWqXyYxeVZn7RVi/75a29b61ef84d54e91c850bee1e5f444/introducing-the-australian-youth-safety-blueprint-seo.png?w=1600&amp;h=900&amp;fit=fill",
+    "fetched_at": "2026-09-19 15:09:26",
+    "ja_summary": "・OpenAIが若年層向けの安全なAI利用を目指す指針「Australian Youth Safety Blueprint」を発表。\n・6つの柱からなるロードマップを策定し、若者の保護と能力開発を両立。\n・安全かつ有益なAI体験を提供するための具体的なガイドラインを提示。"
+  },
+  {
+    "title": "How Cooley is accelerating IPO work with ChatGPT",
+    "link": "https://openai.com/index/cooley-gopublic",
+    "source": "OpenAI",
+    "published": "Thu, 17 Sep 2026 12:00:00 GMT",
+    "summary": "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/H45HDlmSAsVbYRxjc085k/48418a191227d4aff0b01450714def3e/cooley-option-a-seo-og-16x9-equal-logo-size.png?w=1600&amp;h=900&amp;fit=fill",
+    "fetched_at": "2026-09-19 15:09:27",
+    "ja_summary": "・法律事務所Cooleyが、ChatGPTを活用したIPO支援ツール「GO Public」を開発。\n・IPO準備における法的リスクの早期発見を自動化し、作業を大幅に効率化。\n・AIが定型業務を担うことで、弁護士はより高度な判断が必要な業務に集中可能。"
+  },
+  {
+    "title": "Cognizant and Anthropic expand their partnership to bring Claude to enterprise clients",
+    "link": "https://www.anthropic.com/news/cognizant-anthropic",
+    "source": "Anthropic (News)",
+    "published": "Mon, 27 Jul 2026 00:00:00 +0000",
+    "summary": "Cognizant and Anthropic expand their partnership to bring Claude to enterprise clients",
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+    "fetched_at": "2026-09-19 15:09:29",
+    "ja_summary": "・CognizantとAnthropicが提携を拡大。\n・企業向けにClaudeのAIソリューションを提供。\n・企業の業務効率化とAI活用を支援。"
+  },
+  {
+    "title": "Introducing Claude Opus 5",
+    "link": "https://www.anthropic.com/news/claude-opus-5",
+    "source": "Anthropic (News)",
+    "published": "Fri, 24 Jul 2026 00:00:00 +0000",
+    "summary": "Introducing Claude Opus 5",
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/54b7ab1d2c2521f83ae5d2da5f9d99321c370d24-2880x1620.png",
+    "fetched_at": "2026-09-19 15:09:29",
+    "ja_summary": "・Anthropic社が次世代AIモデル「Claude Opus 5」を発表。\n・前モデルから推論能力や精度が飛躍的に向上。\n・複雑なタスク処理や高度なコーディング支援の効率化を実現。"
+  },
+  {
+    "title": "開発を高速化。AIコーディングエージェントとCodeRabbitでループエンジニアリング",
+    "link": "https://speakerdeck.com/moongift/kaihatsu-o-kousokuka-ai-kodingu-ejento-to-coderabbit-de-rupu-enjiniaringu",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-09-19T01:36:56-04:00",
+    "summary": "FlutterKaigi mini #6 @Okayama\nhttps://flutterkaigi.connpass.com/event/401279/\n\nでの発表資料です。",
+    "image": "https://files.speakerdeck.com/presentations/595e1b0931604ff98cc9559571eb0061/preview_slide_0.jpg?40621468",
+    "fetched_at": "2026-09-19 15:09:32",
+    "ja_summary": "・AIコーディングエージェントとCodeRabbitを活用し、開発フローを自動化・効率化する手法を解説。\n・フィードバックループを高速化することで、エンジニアリングの生産性を最大化する取り組み。\n・FlutterKaigi mini #6での発表資料として、モダンな開発体制の構築事例を紹介。"
+  },
+  {
+    "title": "AIに任せた品質は、誰が見立てるのか - AI時代のテストマネジメント",
+    "link": "https://speakerdeck.com/nakanao/ai-ni-makaseta-hinshitsu-ha-dare-ga-mitateru-no-ka-ai-jidai-no-tesuto-manejimento",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-09-19T00:35:16-04:00",
+    "summary": "JaSST'26 Niigata の講演資料です。AIにテストを任せるとき、テスト計画・分析設計・実行・レポーティング・成果物レビュー・精度改善の6つの工程で、人が何を決め、何を渡し、何を確かめるかを整理しました。",
+    "image": "https://files.speakerdeck.com/presentations/e437e55cb225413698f8c3db79be0d2a/preview_slide_0.jpg?40620800",
+    "fetched_at": "2026-09-19 15:09:32",
+    "ja_summary": "AIにテストを委ねる際、計画・設計から改善までの6工程で「人間が担うべき判断と確認作業」を整理した。\nAI任せにせず、人が何を管理すべきかを明確にすることで、品質保証の最適化を目指す。\nテストマネジメントにおけるAIとの共存・分担のあり方を提言する内容。"
+  },
+  {
+    "title": "EventBridge に「合流」はない ― サーバーレスのワークフローを育てるということ / No Join in EventBridge",
+    "link": "https://speakerdeck.com/yusukeshimizu/no-join-in-eventbridge",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-09-18T18:19:29-04:00",
+    "summary": "日次ETLを1本の Step Functions から2本に分割したら、後続の起動条件が「先行ワークフローの完了」かつ「上流バッチの完了」という AND になりました。EventBridge には複数のイベントを合流させる機能がありません。SQS でも、AND の成立を判定する部分は自分で作ることになります。\n\nこのセッションでは「合流をどこに置くか」を、起動条件の入れ替え / 実行内でのポーリング / Parallel / タスクトークン / 外部状態ストアの5案で、それぞれがどう壊れるかとあわせて比較しました。あわせて、後続の起動を先行ワークフローの末尾に書いたときに、処理が全て成功していてもワークフロー全体が失敗扱いになる、という状態表現の壊れ方も扱っています。\n\nServerlessDays Tokyo 2025 で話した「アーキテクチャは育てるもの」「適応度関数で測る」の続きです。本番のワークフローに手を入れる段になって、測っていたのは処理の成否だけで、出力の鮮度ではなかったと気づいた話でもあります。\n\n- ServerlessDays Tokyo 2026 / 2026.09.19 / Track C\n- 登壇者: 志水友輔 (@shimi023)\n- イベントページ: https://tokyo.serverlessdays.io/\n- 前回（ServerlessDays Tokyo 2025）: https://speakerdeck.com/yusukeshimizu/wan-bi-womu-zhi-sanai-sabaresujin-hua-lun-cdkdeyu-terubian-hua-niqiang-iakitekutiya",
+    "image": "https://files.speakerdeck.com/presentations/5e0e7332ca644c65adeb68ddc6616dd4/preview_slide_0.jpg?40619849",
+    "fetched_at": "2026-09-19 15:09:32",
+    "ja_summary": "EventBridgeには複数イベントの「合流（AND条件）」機能がないため、分散したワークフローの連携には工夫が必要。\n起動条件の制御や状態管理には複数の設計パターンがあるが、それぞれに壊れやすい点が存在する。\nアーキテクチャは運用を通じて「育てる」ものであり、処理の成否だけでなくデータの鮮度など目的を見極めて設計すべき。"
+  },
+  {
     "title": "寿命と相関！ 意外にあなどれない｢見た目年齢｣…1歳上がると《死亡ハザード8％上昇》老化を見抜く人の目､AIの目 | ライフ | 東洋経済オンライン",
     "link": "https://toyokeizai.net/articles/-/958476?utm_source=rss&utm_medium=http&utm_campaign=link_back",
     "source": "東洋経済オンライン",
@@ -908,95 +998,5 @@
     "image": "https://res.cloudinary.com/zenn/image/upload/s--FGsZRl-U--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E8%25AA%258D%25E7%259F%25A5%25E8%25B2%25A0%25E5%2582%25B5%25E3%2581%25AE%25E6%259C%25AA%25E6%259D%25A5%25E3%2581%25AF%25EF%25BC%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:kabeya%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzU5ZGNiOTFhMjUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
     "fetched_at": "2026-09-18 15:22:31",
     "ja_summary": "AIによる自動コーディングの普及で、人間が仕組みを理解しきれない「認知負債」の問題が浮上している。\nそもそも人間がコードを認知すべきかという議論が起きる中、認知を要する仕組みが未理解のまま稼働するリスクが懸念されている。\n「技術的負債に向き合うConference 2026」にて、こうした認知負債の定義や向き合い方が議論された。"
-  },
-  {
-    "title": "AI ネイティブなデータ分析基盤を作った話",
-    "link": "https://zenn.dev/pksha/articles/5a1dc6470019d6",
-    "source": "Zenn Trends",
-    "published": "Thu, 17 Sep 2026 07:11:52 GMT",
-    "summary": "はじめに\nPKSHA Technology で PKSHA VoiceAgent（以下 VoiceAgent）の SRE をしている三浦です。2026 年 2 月に入社しました。\n本記事は、データ分析基盤を構築した話です。データ分析基盤自体はもはや珍しいものでもありませんが、2026 年現在に相応しい手法と構成でできたのではないかと自負しています。\nVoiceAgent では、データ量の増加とともに分析環境が限界に近づいていました。PKSHA には Azure Databricks 製のデータ基盤が先にありますが、プロダクト特化の仕組みとして作られていたため、VoiceAgent 向...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--8WwvCxFs--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%2520%25E3%2583%258D%25E3%2582%25A4%25E3%2583%2586%25E3%2582%25A3%25E3%2583%2596%25E3%2581%25AA%25E3%2583%2587%25E3%2583%25BC%25E3%2582%25BF%25E5%2588%2586%25E6%259E%2590%25E5%259F%25BA%25E7%259B%25A4%25E3%2582%2592%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%259F%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Shogun%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzJlOTZhNTRiYWMuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:PKSHA%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2520%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2dvLWhLRGg1MVMzQVJIWXF3WWpXdkFyY0ZJNTlzU2JvX2ZJOWRNQ0E9czk2LWM=%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "fetched_at": "2026-09-18 15:22:32",
-    "ja_summary": "・VoiceAgentのデータ分析基盤を、増大するデータ量に対応するため刷新した。\n・2026年時点の技術を活用し、既存の汎用基盤とは別にプロダクト特化した最適化を実施。\n・現代の要件を満たす、スケーラビリティに優れたAIネイティブな分析環境を構築した。"
-  },
-  {
-    "title": "今話題のAI「Jev」って何？ 宇宙最速で学ぶ会",
-    "link": "https://speakerdeck.com/minorun365/konwadai-no-ai-jev-tte-nani-uchuu-saisoku-de-manabu-kai",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-09-17T22:47:46-04:00",
-    "summary": "今話題のAI「Jev」って何？ 宇宙最速で学ぶ会 - connpass\nhttps://minorun365.connpass.com/event/407308/",
-    "image": "https://files.speakerdeck.com/presentations/4df5b2070b254fd988be7556d65cb091/preview_slide_0.jpg?40607664",
-    "fetched_at": "2026-09-18 15:22:34",
-    "ja_summary": "・最新AI「Jev」の仕組みや特徴を短時間で学べる学習イベント。\n・技術の基礎から活用法までを効率的に習得するオンラインセミナー。\n・AIトレンドに乗り遅れたくないビジネスパーソン向けの速習会。"
-  },
-  {
-    "title": "その投資は、資本になっていますか？AI時代の開発投資を、ROIだけで判断しない「開発資本」という考え方",
-    "link": "https://speakerdeck.com/ham0215/sono-toushi-ha-shihon-ni-na-te-imasu-ka-ai-jidai-no-kaihatsu-toushi-o-roi-dakede-handan-shinai-kaihatsu-shihon-toiu-kangaekata",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-09-17T22:33:45-04:00",
-    "summary": "2026/09/17\nその投資は、資本になっていますか？AI時代の開発投資を、ROIだけで判断しない「開発資本」という考え方\nウェビナーの登壇資料",
-    "image": "https://files.speakerdeck.com/presentations/9d7236eb389d476d866576cb59555bda/preview_slide_0.jpg?40607527",
-    "fetched_at": "2026-09-18 15:22:34",
-    "ja_summary": "・AI時代の開発投資において、ROI（投資対効果）のみで判断する手法は限界を迎えている。\n・短期的な費用対効果ではなく、長期的な競争力となる「開発資本」という視点への転換を提言。\n・技術投資を単なるコストではなく、企業の資産価値を高める資本として捉える戦略的思考を解説。"
-  },
-  {
-    "title": "｢自動運転の先にあるもの｣ウーバーの創業者とウェイモの創業者が相次いでAIロボットのスタートアップを始める理由 | ビジネス | 東洋経済オンライン",
-    "link": "https://toyokeizai.net/articles/-/958406?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-    "source": "東洋経済オンライン",
-    "published": "Fri, 18 Sep 2026 09:00:00 +0900",
-    "summary": "2026年､Uber創業者カラニック氏らが新たに挑む｢フィジカルAI｣領域が急速に注目を集めています。自動運転で培われた学習ループのノウハウは､AIロボットの実用化を加速させる切り札となるのでしょう…",
-    "image": "https://tk.ismcdn.jp/mwimgs/0/d/1200w/img_0d8249811f892029a6302bca18c1e1f6207516.jpg?nextgen=false",
-    "fetched_at": "2026-09-18 10:28:36",
-    "ja_summary": "・UberやWaymoの創業者が、次なる市場として「物理空間で働くAIロボット」に相次いで参入している。\n・自動運転技術で確立された「学習ループ」の知見が、AIロボットの社会実装を加速させる鍵となる。\n・2026年に向け、デジタルと物理世界を融合させる「フィジカルAI」領域が新たな投資先として急浮上している。"
-  },
-  {
-    "title": "AIエージェントに「新人研修」を　Microsoft IQが推す“文脈”の競争力",
-    "link": "https://www.watch.impress.co.jp/docs/news/2141659.html",
-    "source": "Impress Watch",
-    "published": "",
-    "summary": "Microsoftは17日、「Work IQ」などの「Microsoft IQ」について報道向けの説明会を開催した。企業におけるAI活用や業務改善においては、AIモデルよりもAIが理解するための「コンテキスト(文脈)」の準備が重要であるとし、Microsoft IQ導入の必要性を説明した。",
-    "image": "https://www.watch.impress.co.jp/img/ipw/list/2141/659/ms18.jpg",
-    "fetched_at": "2026-09-18 10:28:54",
-    "ja_summary": "・企業がAIを成果につなげるには、モデルの性能以上に「業務の文脈（コンテキスト）」の理解が不可欠。\n・Microsoftは、業務データをAIが最適に活用するための基盤として「Microsoft IQ」を提唱。\n・AIに適切な文脈を与えることで、業務効率化やAIの即戦力化を加速させる。"
-  },
-  {
-    "title": "\"くまモン\"ロボ登場　SwitchBotが特別モデル",
-    "link": "https://www.watch.impress.co.jp/docs/news/2141706.html",
-    "source": "Impress Watch",
-    "published": "",
-    "summary": "SWITCHBOTは、AIパートナーロボット「KATAフレンズ」の特別モデル「SwitchBot KATAフレンズ KUMAMON ver.」を発売した。価格は149,800円。数量限定で販売する。",
-    "image": "https://www.watch.impress.co.jp/img/ipw/list/2141/706/sw01.jpg",
-    "fetched_at": "2026-09-18 10:28:57",
-    "ja_summary": "・SwitchBotのAIロボット「KATAフレンズ」に「くまモン」限定モデルが登場。\n・価格は149,800円で、数量限定での販売となる。"
-  },
-  {
-    "title": "ローソン、生成AI発案のデザート・ベーカリー",
-    "link": "https://www.watch.impress.co.jp/docs/news/2141684.html",
-    "source": "Impress Watch",
-    "published": "",
-    "summary": "ローソンは、生成AIが発案した商品コンセプトをもとに開発したスイーツ、ベーカリー、サラダを、9月29日に関東・甲信越のローソンで発売する。価格は181円から475円。ローソンが生成AIを活用した商品を本格的に発売するのは初となる。",
-    "image": "https://www.watch.impress.co.jp/img/ipw/list/2141/684/lawson_00.jpg",
-    "fetched_at": "2026-09-18 10:28:58",
-    "ja_summary": "・ローソンが生成AI考案のスイーツ・パン・サラダを9月29日に関東・甲信越で発売。\n・同社として生成AI活用商品の本格展開は今回が初。\n・価格帯は181円〜475円で展開。"
-  },
-  {
-    "title": "「AI脅威の時代」に光が当たる“ある分野”",
-    "link": "https://www.businessinsider.jp/article/2609-ai-diversity-and-new-value/",
-    "source": "Business Insider Japan",
-    "published": "Thu, 17 Sep 2026 21:30:00 GMT",
-    "summary": "AI脅威論が大きく報じられた今週。先週行われた「AIと働く」のカンファレンスでは、また別の視点が語られていました。",
-    "image": "https://media.loom-app.com/loom/2026/09/17/23613480-dc7d-4b9d-9997-6f091508f7b0/original.jpg?w=1200",
-    "fetched_at": "2026-09-18 10:28:59",
-    "ja_summary": "・AI脅威論が広がる中、先週開催されたカンファレンスでは「AIと共存し働く」という新たな視点が提示された。\n・AIを脅威としてだけでなく、業務における生産性向上のパートナーとして活用する重要性が議論されている。"
-  },
-  {
-    "title": "メタが新サブスク発表 AI機能拡大",
-    "link": "https://news.yahoo.co.jp/pickup/6595473?source=rss",
-    "source": "Yahoo!ニュース IT・科学",
-    "published": "Wed, 16 Sep 2026 03:03:44 GMT",
-    "summary": "",
-    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/9/16/169d9e829f056859791386678db75746564b6ef66bf32662e5b28bfed529a4c0.jpg",
-    "fetched_at": "2026-09-18 10:29:03",
-    "ja_summary": "・メタが新たな有料サブスクリプションサービスの導入を発表\n・AI機能の拡充により、生成AIツールなどを利用可能にする\n・プラットフォームの収益化とユーザーの利便性向上を狙う"
   }
 ]
