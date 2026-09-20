@@ -1,5 +1,115 @@
 [
   {
+    "title": "広視野角フルカラーかつ超軽量、メタサーフェスで「究極のARグラス」",
+    "link": "https://xtech.nikkei.com/atcl/nxt/mag/ne/18/00156/00002/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "ディスプレー付きAR＋AIグラスで50g以下の軽量化を実現できたのは、光学系の技術革新と、マイクロLEDディスプレーが大きな役割を果たした。ただし、軽量のままフルカラーかつ広い視野角（FOV）の映像表示を実現するには、光学系にさらなる技術革新が求められている。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/mag/ne/18/00156/00002/topm.jpg?20220512",
+    "fetched_at": "2026-09-21 01:01:07",
+    "ja_summary": "・メタサーフェス技術とマイクロLEDにより、50g以下の軽量ARグラスが実現可能に。\n・AI連携による利便性が向上する一方、軽量化と広視野角・フルカラーの両立が今後の課題。\n・さらなる光学系の技術革新が、究極のARデバイス普及の鍵となる。"
+  },
+  {
+    "title": "AI開発のノエトラ、「実世界モデル」構築へ　 NVIDIAのGPU2万7500基を活用",
+    "link": "https://xtech.nikkei.com/atcl/nxt/mag/ne/18/00001/00686/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "ソフトバンクやNEC、ソニーグループ、ホンダの4社を中核企業として立ち上がったNoetra（ノエトラ、旧日本AI基盤モデル開発、東京・渋谷）が、フィジカルAI（人工知能）向けの「実世界モデル」を構築する。実世界にある言語・画像・音声・動画・センシング（触覚）などの「現場データ」を集め、パラメーター数1兆規模で学習して理解できる推論基盤を持った、マルチモーダル基盤モデルだ。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/mag/ne/18/00001/00686/topm.jpg?20220512",
+    "fetched_at": "2026-09-21 01:01:08",
+    "ja_summary": "・ノエトラがソフトバンク等と連携し、実世界の多種多様なデータを学習する「実世界モデル」を開発。\n・NVIDIAのGPU2万7500基を活用し、1兆パラメーター規模のマルチモーダル基盤モデルを構築。\n・言語や映像だけでなく触覚などを含む現場データを理解する、高度な推論AIの実現を目指す。"
+  },
+  {
+    "title": "レゾナック、後工程開発でimecと連携　1000W級の発熱チップでAI半導体再現",
+    "link": "https://xtech.nikkei.com/atcl/nxt/mag/ne/18/00001/00688/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "レゾナック・ホールディングスは米国で半導体材料の開発を加速する。シリコンバレーを拠点とするコンソーシアムで、ベルギーの半導体研究機関imec（アイメック）との連携を始めた。パッケージの熱設計や構造設計に使う評価用チップをimecから調達し、製品に近い環境で検証できるようにする。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/mag/ne/18/00001/00688/topm.jpg?20220512",
+    "fetched_at": "2026-09-21 01:01:09",
+    "ja_summary": "・レゾナックがベルギーのimecと連携し、AI半導体向けの次世代材料開発を加速。\n・1000W級の熱を発生する評価チップを活用し、製品環境に近い条件で技術検証を行う。\n・シリコンバレーを拠点に、AIチップの性能向上に不可欠なパッケージ材料の開発を強化。"
+  },
+  {
+    "title": "天井から双腕ロボ、MWが目指す「アイアンマンの家」　CEOとAIトップに聞く",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03688/090900017/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "2024年創業のMW（ムウ、東京・港）が、異次元のスマートホームを目指している。住宅の「デッドスペース」である天井に、フィジカルAIで動く双腕ロボットを設置。住宅の設計段階から天井搬送ロボットに最適化し、家事の自動化を目指す。二足歩行の人型ロボットにはない独自のアプローチを、創業者兼最高経営責任者（CEO）の成田修造氏と、ロボット・AI開発トップの浅谷学嗣氏に聞いた。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03688/090900017/topm.jpg?20220512",
+    "fetched_at": "2026-09-21 01:01:09",
+    "ja_summary": "・MW社は、天井に設置した双腕ロボットで家事の完全自動化を目指す住宅を開発中。\n・設計段階からロボットの稼働を前提とした「アイアンマンの家」という新概念を提唱。\n・二足歩行型とは異なるアプローチで、住宅そのものをロボット化する市場の開拓を図る。"
+  },
+  {
+    "title": "ChatGPTが「マネーフォワード ME」データと連携　相談可能に",
+    "link": "https://www.watch.impress.co.jp/docs/news/2141941.html",
+    "source": "Impress Watch",
+    "published": "",
+    "summary": "マネーフォワードホームは、アプリ「マネーフォワード ME」のデータが、OpenAIの「Apps in ChatGPT」に対応したと発表した。",
+    "image": "https://www.watch.impress.co.jp/img/ipw/list/2141/941/00.jpg",
+    "fetched_at": "2026-09-21 01:01:13",
+    "ja_summary": "・「マネーフォワード ME」がChatGPTと連携し、家計データの相談が可能に。\n・OpenAIの「Apps in ChatGPT」対応により、資産状況に基づいた助言が受けられる。"
+  },
+  {
+    "title": "米大統領 なぜAIの名称変更を提案",
+    "link": "https://news.yahoo.co.jp/pickup/6595957?source=rss",
+    "source": "Yahoo!ニュース IT・科学",
+    "published": "Sun, 20 Sep 2026 12:52:27 GMT",
+    "summary": "",
+    "image": "https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/satohitoshi/02724482/title-1789900026679.jpeg?exp=10800",
+    "fetched_at": "2026-09-21 01:01:16",
+    "ja_summary": "・米大統領がAI（人工知能）の名称を「拡張知能」などへ変更する案を検討。\n・AIという呼称が持つ「人間との置き換え」という懸念を払拭する狙い。\n・技術を人間を補完する協力的な存在として定義し、社会的受容を高めることが目的。"
+  },
+  {
+    "title": "GPT-6 Astra使い『Minecraft』内で『CoD:BO2』人気マップをネイティブ動作させた動画、AIコーダーが公開",
+    "link": "https://www.techno-edge.net/article/2026/09/18/5506.html",
+    "source": "TechnoEdge",
+    "published": "Fri, 18 Sep 2026 06:30:03 +0900",
+    "summary": "「AIを活用したゲーム開発」を志す開発者Luckey Faraday氏はFPSゲーム『Call of Duty : Black Ops 2』の「Hijacked」マップを人気サンドボックスゲーム『マインクラフト』内でネイティブ動作させることに成功したと述べ、Xに動画とともに投稿しました。",
+    "image": "https://www.techno-edge.net/imgs/rss/34344.jpg",
+    "fetched_at": "2026-09-21 01:01:21",
+    "ja_summary": "・開発者がAI（GPT-6 Astra）を活用し、『CoD:BO2』の人気マップを『マイクラ』内で再現することに成功。\n・外部MODではなく、ゲーム内でネイティブ動作させる手法を動画で公開。\n・AIによるゲーム開発の可能性を示し、業界内外で注目を集めている。"
+  },
+  {
+    "title": "「Claude Cowork」がClaudeチャットに統合、ドキュメント・スライド作成も可能に",
+    "link": "https://www.techno-edge.net/article/2026/09/17/5505.html",
+    "source": "TechnoEdge",
+    "published": "Thu, 17 Sep 2026 06:30:03 +0900",
+    "summary": "Anthropicは、AIアシスタント「Claude」のエージェント型作業環境「Cowork」をデフォルトのチャットに統合、一本化すると発表しました。これにより、ユーザーはリクエストをチャットに投げるか、エージェント型ワークスペースで処理するかの判断をする必要がなくなります。",
+    "image": "https://www.techno-edge.net/imgs/rss/34324.jpg",
+    "fetched_at": "2026-09-21 01:01:21",
+    "ja_summary": "・AI「Claude」が作業環境「Cowork」と統合され、機能が一本化。\n・チャット内で直接ドキュメントやスライドの作成が可能に。\n・使い分けの必要がなくなり、シームレスな業務遂行を実現。"
+  },
+  {
+    "title": "熊本地震の被災自治体等へ、ガバメントAI 源内を緊急提供します（更新）",
+    "link": "https://www.digital.go.jp/news/cb912b3b-49c9-4a02-aa46-4056b96c1d4f",
+    "source": "デジタル庁",
+    "published": "Wed, 16 Sep 2026 10:03:04 +0900",
+    "summary": "",
+    "image": "https://www.digital.go.jp/themes/custom/gov_theme_da_2023/assets/images/ogp.png",
+    "fetched_at": "2026-09-21 01:01:21",
+    "ja_summary": "・熊本地震の被災自治体に対し、生成AI「ガバメントAI 源内」を緊急提供。\n・行政業務の効率化や迅速な情報整理を支援し、復旧・復興を後押しする。\n・各自治体のニーズに応じた対応を進め、災害対策の高度化を目指す。"
+  },
+  {
+    "title": "Introducing Astra for Law",
+    "link": "https://openai.com/index/astra-for-law",
+    "source": "OpenAI",
+    "published": "Thu, 17 Sep 2026 00:00:00 GMT",
+    "summary": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/5nKwJBPqWZBjTJ2BWxguU/96ed72fb0f3b5f4c468e1a1009bbf30f/introducing-astra-for-law-seo-image.png?w=1600&amp;h=900&amp;fit=fill",
+    "fetched_at": "2026-09-21 01:01:22",
+    "ja_summary": "・OpenAIが法律業務特化型AI「Astra for Law」を発表。\n・独自ワークフローや社内データの連携、高いセキュリティ基準を実現。\n・法律実務に最適化されたAIによる業務効率化と秘匿性の高い作業環境を提供。"
+  },
+  {
+    "title": "How Claude’s text watermark works",
+    "link": "https://www.anthropic.com/news/claude-text-watermark",
+    "source": "Anthropic (News)",
+    "published": "Fri, 14 Aug 2026 00:00:00 +0000",
+    "summary": "How Claude’s text watermark works",
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Quill&amp;backgroundColor=heather",
+    "fetched_at": "2026-09-21 01:01:24",
+    "ja_summary": "AIモデル「Claude」が生成したテキストを判別するため、出力時に特定の統計的パターンを埋め込む技術を導入。\nこの「電子透かし」により、AIによる生成物か人間による執筆かを高い精度で検知することが可能。\n悪用防止や信頼性確保を目的としており、文章の品質を落とさずに判別精度を高める仕組みとなっている。"
+  },
+  {
     "title": "物価基調、特殊要因を除いて見極め／米中首脳会談はAI・イラン対応が焦点に (上野泰也の先読みマーケット)",
     "link": "https://business.nikkei.com/atcl/seminar/19/00122/00298/",
     "source": "日経ビジネス 最新",
@@ -888,115 +998,5 @@
     "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0NDMwNjExJTJGYTRlNGFiZDZjNWNkZmM5NzkzMTk2ZmUwZDFjZjYyMGY1ZWYxMTY5NCUyRnhfbGFyZ2UucG5nJTNGMTc4NTI4OTU5Nj9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NGE5ZmNiZmE4OTM5NWU1MWY1N2FiYjJkYzI1ZTFmZDQ%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYyMDc3NzA2NTMzODkzMmUyMWVjMjk3MjI5ZDVkZmI5NDk5MWI5YzFhJTJGb3JpZ2luYWwuanBnJTNGMTc2OTAwMDk3MD9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz1lYjc1ZTQzMzAzYTdlNTkzNDQ4Yjc4NDZiMjljYTgxZA%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D237198914e54e0e7e727d16c4cfb7823?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9MyVFNCVCOCU4NyVFMyU4MiVCOSVFMyU4MiVCRiVFMyU4MyVCQyVFMyU4MSVBRSUyMENsYXVkZSUyMENvZGUlMjAlRTMlODIlQjklRTMlODIlQUQlRTMlODMlQUIlRTMlODIlOTIlRTUlODUlQTUlRTMlODIlOEMlRTMlODElOUYlRTMlODIlODklRTMlODAlODElRTUlODclQkElRTUlOEElOUIlRTMlODElOEM0MyUyNSVFNyU5RiVBRCVFMyU4MSU4RiVFMyU4MSVBQSVFMyU4MSVBMyVFMyU4MSU5RiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPWY0OTFlYWI5NmEwMzc3YzBiOTc4NTI1MzdmYWM1ZTMx&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBzdXdhX25vYnUmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1iZTVkNGQ3ZjgwNDY4YWQwMGMxZTkyMjA3YzFjYWMxMw&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=5qCq5byP5Lya56S-SlFJVA&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=0810210f93c8120aaa47b92096f1aca9",
     "fetched_at": "2026-09-19 10:21:07",
     "ja_summary": "・「Claude Code」等のAI回答から冗長な前置きを排除し、結論（行動）から提示させる手法が話題。\n・出力の長さを43%削減する効果がある一方、生産性向上に関する実測データは未だ存在しない。\n・プロンプトで出力を制御し、AI応答の効率化を図るテクニックとして注目されている。"
-  },
-  {
-    "title": "同じ利上げ決定でもアメリカは｢中央銀行が一致団結｣､一方の日銀は圧力に屈し､国のトップには危機感なし､もはやこれは国難だ | 政治・経済・投資 | 東洋経済オンライン",
-    "link": "https://toyokeizai.net/articles/-/958665?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-    "source": "東洋経済オンライン",
-    "published": "Sat, 19 Sep 2026 06:30:00 +0900",
-    "summary": "アメリカのFEDと日銀､同じ利上げでも両国中央銀行の内情や決断の背景は大きく異なります。アメリカとあまりに違う日本に筆者は危機を感じます。（このリード文はAIが作成しました）",
-    "image": "https://tk.ismcdn.jp/mwimgs/8/a/1200w/img_8a5b551d8788eb9e882a16e503580c3862002.jpg?nextgen=false",
-    "fetched_at": "2026-09-19 08:16:27",
-    "ja_summary": "米FRBは利上げで一致団結しているが、日銀は圧力に屈し、日本の指導層に危機感がない。\nこの差は日本の国難であり、早急な対応が求められる。"
-  },
-  {
-    "title": "「サムスンが消えた」独IT見本市IFA　家電王国・日本の消滅と、中国“独り勝ち”の地殻変動",
-    "link": "https://www.itmedia.co.jp/business/articles/2609/18/news053.html",
-    "source": "ITmedia ビジネス",
-    "published": "Fri, 18 Sep 2026 07:00:00 +0900",
-    "summary": "欧州最大の家電展「IFA」取材20年目の筆者が目撃したのは、かつての主役・日本勢の衰退にとどまらず、絶対王者サムスンまでもがメイン会場から姿を消す構造変化だ。代わりに会場の4割を占拠したのは、生成AIやEV、700万円の有人ドローン、スマートグラス同盟を率いる中国勢だった。機構技術が不要となったデジタル時代に、蚊帳の外へ追いやられた日本家電が「フィジカルAI」で一矢報いるための条件を現地から論じる。",
-    "image": "https://image.itmedia.co.jp/business/articles/2609/18/cover_news053.jpg",
-    "fetched_at": "2026-09-19 08:16:28",
-    "ja_summary": "欧州最大の家電見本市IFAで日本勢に加えサムスンも存在感を失う中、中国企業が会場の4割を占拠し圧倒的な影響力を示した。\nデジタル時代に機構技術が不要となり、ハードウェア主導の伝統的な家電メーカーが軒並み苦境に立たされている。\n日本企業が復権するには、蓄積された知見とAIを融合させた「フィジカルAI」の実装が唯一の打開策となる。"
-  },
-  {
-    "title": "設備点検「目視で10日→AIでほぼ即時」　アナログ現場のAI導入、日立流の実装メソッドにヒントあり",
-    "link": "https://www.itmedia.co.jp/business/articles/2609/18/news024.html",
-    "source": "ITmedia ビジネス",
-    "published": "Fri, 18 Sep 2026 07:00:00 +0900",
-    "summary": "目視で10日かかっていた設備点検を、AIでほぼリアルタイムに変えた事例がある。アナログ現場のAI実装を実現した日立流メソッドとは。",
-    "image": "https://image.itmedia.co.jp/business/articles/2609/18/cover_news024.jpg",
-    "fetched_at": "2026-09-19 08:16:29",
-    "ja_summary": "・目視で10日を要していた設備点検が、AI導入によりほぼ即時完了へ。\n・アナログ現場の課題を解決する、日立独自のAI実装メソッドが注目されている。\n・現場業務の効率化とデジタル化を成功させるための実践的なヒントを提示。"
-  },
-  {
-    "title": "関空から京都まで25分、料金2万円　Space Aviationがヘリ移動便を開始",
-    "link": "https://www.itmedia.co.jp/business/articles/2609/18/news029.html",
-    "source": "ITmedia ビジネス",
-    "published": "Fri, 18 Sep 2026 06:00:00 +0900",
-    "summary": "Space Aviationは、関西国際空港とJPD京都ヘリポートを結ぶヘリコプター移動便「Airport Heli Shuttle」を就航した。",
-    "image": "https://image.itmedia.co.jp/business/articles/2609/18/cover_news029.jpg",
-    "fetched_at": "2026-09-19 08:16:29",
-    "ja_summary": "・関空と京都間をヘリで結ぶ直行便が就航した。\n・移動時間は25分、料金は2万円。\n・Space Aviationが提供する新たな移動手段となる。"
-  },
-  {
-    "title": "疑念、楽観、愛国心…「AI終末論」は中国でもネット社会を二分する大論争に",
-    "link": "https://www.businessinsider.jp/article/2609-ai-doom-debate-dividing-chinese-internet-weibo/",
-    "source": "Business Insider Japan",
-    "published": "Fri, 18 Sep 2026 23:00:00 GMT",
-    "summary": "中国でも大きな話題となっている「AI終末論」をめぐる論争。米中の開発競争と中国のネット社会で広がる議論と分断の現状を見ていきます。",
-    "image": "https://media.loom-app.com/loom/2026/09/15/cb18e2eb-5119-462a-96ed-8b0fd8749471/original.jpg?w=1200",
-    "fetched_at": "2026-09-19 08:16:43",
-    "ja_summary": "・中国でAIが人類を滅ぼすという「終末論」を巡り、ネット上で激しい論争が勃発している。\n・米中のAI覇権争いを背景に、技術への期待と危機感が国民の間で二分されている。\n・愛国心や先行者利益への思惑が絡み、社会的な分断と議論の深化を招いている。"
-  },
-  {
-    "title": "AWS、中東2リージョンで顧客データ復旧不能　バーレーンは全域、攻撃の影響で",
-    "link": "https://japan.cnet.com/article/35252766/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "Amazon Web Services（AWS）は米国時間9月15日、中東の2つのリージョンについて、復旧できない顧客データがあると明らかにした。対象は3月以降の中東での攻撃によって損傷した施設で、復旧できない範囲はバーレーンではリージョン全域、アラブ首長国連邦（UAE）では3つあるアベイラビリティゾーン（AZ）のうち1つに及ぶ。そこにしか置いていなかったリソースとデータについて、AWSはアクセスを復旧できないとしている。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35252766/\"><img src=\"https://japan.cnet.com/storage/thumbnails/thumb-184xauto-1353388-file.jpeg\" /></a>",
-    "image": "https://japan.cnet.com/storage/thumbnails/thumb-184xauto-1353388-file.jpeg",
-    "fetched_at": "2026-09-19 06:04:03",
-    "ja_summary": "・AWSの中東2リージョンで、3月以降の攻撃により顧客データの一部が復旧不能となった。\n・バーレーンはリージョン全域、UAEは3つのAZのうち1つが対象。\n・該当箇所のみにデータを保存していた場合、アクセスが不可能となる。"
-  },
-  {
-    "title": "メタのAIグラス、次は「カメラなし」。グーグルの教訓を生かしプライバシー懸念にどう向き合うのか",
-    "link": "https://www.businessinsider.jp/article/59457d26-b3d3-46e1-a825-07dbe2f54921/",
-    "source": "Business Insider Japan",
-    "published": "Thu, 17 Sep 2026 22:30:00 GMT",
-    "summary": "Google Glassは、カメラ付きグラスが人々に不快感を与えることをグーグルに教えました。今度はメタが、AIグラスのカメラ非搭載モデルを開発していると報じられています。",
-    "image": "https://media.loom-app.com/loom/2026/09/17/b4fc6eac-97ec-42d6-906d-474c1770b9f4/original.jpg?w=1200",
-    "fetched_at": "2026-09-19 06:04:03",
-    "ja_summary": "・メタがGoogle Glassの失敗を教訓に、カメラ非搭載のAIグラスを開発中。\n・プライバシー侵害への懸念を回避し、AI機能の普及を狙う戦略。\n・カメラなしモデルにより、装着時の周囲の抵抗感を減らし市場拡大を図る。"
-  },
-  {
-    "title": "英国王 AI企業幹部らに懸念示す",
-    "link": "https://news.yahoo.co.jp/pickup/6595656?source=rss",
-    "source": "Yahoo!ニュース IT・科学",
-    "published": "Thu, 17 Sep 2026 23:22:09 GMT",
-    "summary": "",
-    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/9/18/43c8ac4584da5cf5cfc55c88afd11bc9a5680175bc8c86424bba511192f037f1.jpg",
-    "fetched_at": "2026-09-19 06:04:04",
-    "ja_summary": "チャールズ英国王が、AI企業の幹部らに対し、AI開発が社会に与えるリスクや影響について懸念を表明した。\n同氏は、技術革新の進展に伴う倫理的課題や安全性への対策の重要性を強調した。\n今後、AIの急速な発展に対する国際的な議論や規制への注目がさらに高まる見通し。"
-  },
-  {
-    "title": "GMO熊谷社長のAI活用／鈴木敏文氏は「チンギス・ハーン」／ノエトラ社長の焦燥（2026年9月18日版） (日経ビジネスAUDIOモーニング)",
-    "link": "https://business.nikkei.com/atcl/audio/22/00001/091700965/",
-    "source": "日経ビジネス 最新",
-    "published": "",
-    "summary": "［新連載］GMO熊谷社長のAI活用術、PC12台でアプリ自作　社員も7割がAIでコード作成／鈴木敏文氏は「流通業界のチンギス・ハーン」　SBI北尾会長が語る功績／国産AI開発ノエトラ・丹波社長の焦燥　「一度失敗したら、もう後がない」、他",
-    "image": "https://business.nikkei.com/atcl/audio/22/00001/091700965/fb.jpg",
-    "fetched_at": "2026-09-19 03:25:25",
-    "ja_summary": "・GMO熊谷代表がPC12台体制で進めるAI活用術と社内でのコード自動生成普及。\n・SBI北尾会長が語る、流通の革命児・鈴木敏文氏の功績と「チンギス・ハーン」評。\n・国産AI開発に挑むノエトラ社の丹波社長が抱く、後がない崖っぷちの焦燥感。"
-  },
-  {
-    "title": "［新連載］GMO熊谷社長のAI活用術、PC12台でアプリ自作　社員も7割超がAIでコード作成 (AI駆動型リーダー)",
-    "link": "https://business.nikkei.com/atcl/gen/19/00928/091600001/",
-    "source": "日経ビジネス 最新",
-    "published": "",
-    "summary": "AIとどう向き合うか。GMO熊谷社長は、非エンジニアながら自らアプリを作り、AI変革を掲げて社員を巻き込む。その実践から「AI駆動型リーダー」の条件を探る。",
-    "image": "https://business.nikkei.com/atcl/gen/19/00928/091600001/fb.jpg",
-    "fetched_at": "2026-09-19 03:25:26",
-    "ja_summary": "・GMO熊谷社長は自らAIを活用してアプリを開発し、全社的なAI変革を牽引している。\n・社員の7割超がAIによるコーディングを導入し、業務効率化を加速させている。\n・非エンジニアでもAIを駆使する「AI駆動型リーダー」の先駆的実践事例。"
-  },
-  {
-    "title": "映像表示にマイクロLEDが台頭、部材は「ソニー王国」に",
-    "link": "https://xtech.nikkei.com/atcl/nxt/mag/ne/18/00156/00003/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "50g以下と軽量の拡張現実（AR）＋人工知能（AI）グラスで映像を表示する超小型ディスプレーで、マイクロLED（発光ダイオード）ディスプレーが大きな存在感を示している。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/mag/ne/18/00156/00003/topm.jpg?20220512",
-    "fetched_at": "2026-09-19 03:25:28",
-    "ja_summary": "ARグラス用小型ディスプレイにマイクロLEDが有力。\n軽量化に貢献し、ソニー製部材が主流となりそう。\nAR/AIグラスの普及を後押しする技術。"
   }
 ]
