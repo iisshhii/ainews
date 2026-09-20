@@ -1,5 +1,75 @@
 [
   {
+    "title": "「AIなら何でもできる」は大間違い　仕事を任せる前に知っておきたい3つの弱点",
+    "link": "https://www.itmedia.co.jp/business/articles/2609/20/news001.html",
+    "source": "ITmedia ビジネス",
+    "published": "Sun, 20 Sep 2026 09:00:00 +0900",
+    "summary": "AIなら何でも任せれば効率化できる――そう考えるのは危険だ。AIには得意・不得意があり、仕事を丸投げすると逆に非効率になることも。AIに任せるべき仕事と、人間が担うべき仕事の見極め方を解説する。",
+    "image": "https://image.itmedia.co.jp/business/articles/2609/20/cover_news001.jpg",
+    "fetched_at": "2026-09-20 10:37:39",
+    "ja_summary": "・AIへの丸投げは非効率を招くリスクがあるため注意が必要\n・AIの得意・不得意を正しく理解し、適材適所で活用することが重要\n・AI任せにすべき業務と人間が担うべき業務を明確に分けるべき"
+  },
+  {
+    "title": "「相手の声が読める電話」じわり拡大　「ヨメテル」登録4734件、AIの文字化を人が修正",
+    "link": "https://www.itmedia.co.jp/business/articles/2609/21/news022.html",
+    "source": "ITmedia ビジネス",
+    "published": "Sun, 20 Sep 2026 08:00:00 +0900",
+    "summary": "電話の相手の声を文字にする「ヨメテル」の登録がじわり増えている。AIが文字化した内容を人が修正する新機能を追加。羽田空港では体験ブースも設置する。",
+    "image": "https://image.itmedia.co.jp/business/articles/2609/21/cover_news022.jpg",
+    "fetched_at": "2026-09-20 10:37:39",
+    "ja_summary": "・電話の音声をリアルタイムで文字化する「ヨメテル」の利用が拡大中。\n・AIによる文字起こしを人が修正する新機能で、正確性が向上。\n・羽田空港での体験ブース設置など、普及に向けた取り組みを強化。"
+  },
+  {
+    "title": "AIが殺人ウイルスをを作り出す心配はない？… 研究者が指摘する、「AI終末論」が現実になりにくい理由",
+    "link": "https://www.businessinsider.jp/article/2609-researchers-ai-apocalypse-skepticism-lethal-virus-real-world-barriers/",
+    "source": "Business Insider Japan",
+    "published": "Sat, 19 Sep 2026 23:30:00 GMT",
+    "summary": "生物学やサイバーセキュリティの専門家は、人工的に作られたウイルスには現実世界での物理的な制約があること、人間による管理が行われていること、さらにテストが厳格化していることから、AIによって人類が滅亡する可能性は低いと述べています。",
+    "image": "https://media.loom-app.com/loom/2026/09/16/738374ef-ff11-4063-8780-87989628311f/original.jpg?w=1200",
+    "fetched_at": "2026-09-20 10:37:57",
+    "ja_summary": "・AIによる人工ウイルスの生成は、物理的な制約が多く現実には極めて困難。\n・厳格な監視と管理体制が敷かれており、人類滅亡のリスクは低い。\n・過度な「AI終末論」は、現実的な課題とは乖離していると専門家が指摘。"
+  },
+  {
+    "title": "Reimagining advertising with AI",
+    "link": "https://openai.com/index/reimagining-advertising-with-ai",
+    "source": "OpenAI",
+    "published": "Wed, 16 Sep 2026 13:00:00 GMT",
+    "summary": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/55OzfM3w5QnfYsHGeqQPwD/da59df4251ec09b27e1855f4710f0c39/reimagining-advertising-with-ai-seo.png?w=1600&amp;h=900&amp;fit=fill",
+    "fetched_at": "2026-09-20 10:38:07",
+    "ja_summary": "・OpenAIがAIを活用した広告新機能を発表。\n・マーケター向けツールや、HubSpot・Shopifyとの連携を強化。\n・「スポンサード・エージェント」導入により広告体験を再定義する。"
+  },
+  {
+    "title": "Funding better evaluations of AI’s impact on wellbeing",
+    "link": "https://www.anthropic.com/news/wellbeing-research-grants",
+    "source": "Anthropic (News)",
+    "published": "Tue, 25 Aug 2026 00:00:00 +0000",
+    "summary": "Funding better evaluations of AI’s impact on wellbeing",
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20HeadFlower&amp;backgroundColor=heather",
+    "fetched_at": "2026-09-20 10:38:08",
+    "ja_summary": "・AIが人々の幸福感に与える影響を適切に評価するための研究資金を拡充。\n・AI導入による社会的・精神的メリットとリスクを客観的に測定する。\n・技術開発だけでなく、人間への影響を重視した評価体制の構築を推進。"
+  },
+  {
+    "title": "既存の LLM が CPU なら、 Jev はその GPU 版みたいなやつ",
+    "link": "https://zenn.dev/mizchi/articles/jev-is-gpu-for-llms",
+    "source": "Zenn Trends",
+    "published": "Fri, 18 Sep 2026 07:27:47 GMT",
+    "summary": "Jev を一晩叩いたので、その感想を書きます。タイトルは超大雑把な要約です。\n\n 実験結果\nまず実験ログを置いておきます。\nhttps://github.com/mizchi/jev-playground\n\n公式のクックブックの条件を変えた追試\n\nhttps://docs.typesafe.ai/cookbooks/skill_suggestion\n\n\nチェス対戦\n\n5戦やって、Claude 5 Sonnet には全勝\n\n\nLoL をミニマルにしたような MOBA ゲームをリアルタイム操作\n\nスプリットプッシュのマクロ戦術やタワーダイブのようなミクロ戦術が観察されました\n集団戦で、誰がタ...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--A3IX07SH--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E6%2597%25A2%25E5%25AD%2598%25E3%2581%25AE%2520LLM%2520%25E3%2581%258C%2520CPU%2520%25E3%2581%25AA%25E3%2582%2589%25E3%2580%2581%2520Jev%2520%25E3%2581%25AF%25E3%2581%259D%25E3%2581%25AE%2520GPU%2520%25E7%2589%2588%25E3%2581%25BF%25E3%2581%259F%25E3%2581%2584%25E3%2581%25AA%25E3%2582%2584%25E3%2581%25A4%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:mizchi%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2liclRHT052Z3d3ay1fNGxlcVk4TGNGSlNuX0FoWnpEWVlKaXJNcWc9czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-09-20 10:38:09",
+    "ja_summary": "・新技術「Jev」は、既存LLMをCPUに例えるならGPUのような高速・高性能な処理能力を持つ次世代モデル。\n・実験ではClaude 3.5 Sonnetにチェスで全勝し、MOBAゲームでは高度な戦術（マクロ・ミクロ）を用いたリアルタイム操作を実現。\n・推論や複雑な状況判断において、従来のLLMを凌駕する実用的なポテンシャルを見せている。"
+  },
+  {
+    "title": "全社に OpenCode + LiteLLM を導入してコストを抑えつつ AI 活用を進めている話",
+    "link": "https://zenn.dev/jtcc/articles/7e74fef42580a1",
+    "source": "Zenn Trends",
+    "published": "Fri, 18 Sep 2026 00:08:15 GMT",
+    "summary": "こんにちは。日本トレカセンターのプロダクト部で EM をやっている中川です。\n日本トレカセンターでは約 200 名の全社員が使う AI の入り口を 1 つにまとめました。社員の手元には AI エージェントのOpenCodeを配り、そのリクエストを自前でホストした LLM ゲートウェイのLiteLLMに通しています。使うモデルは会社側で制御し、予算は月単位で決めて社員ごとに週次の上限をかけました。コストを把握しやすくなり、金額も導入前の 10 分の 1 以下に収まっています。\n\n 導入前の課題\n導入前の社内では ChatGPT、Claude、Cursor など AI ツールが乱立していまし...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s---YUbPTcx--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E5%2585%25A8%25E7%25A4%25BE%25E3%2581%25AB%2520OpenCode%2520%252B%2520LiteLLM%2520%25E3%2582%2592%25E5%25B0%258E%25E5%2585%25A5%25E3%2581%2597%25E3%2581%25A6%25E3%2582%25B3%25E3%2582%25B9%25E3%2583%2588%25E3%2582%2592%25E6%258A%2591%25E3%2581%2588%25E3%2581%25A4%25E3%2581%25A4%2520AI%2520%25E6%25B4%25BB%25E7%2594%25A8%25E3%2582%2592%25E9%2580%25B2%25E3%2582%2581%25E3%2581%25A6%25E3%2581%2584%25E3%2582%258B%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Takashi%2520Nakagawa%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzVmYjJlMjVjOTYuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E6%2597%25A5%25E6%259C%25AC%25E3%2583%2588%25E3%2583%25AC%25E3%2582%25AB%25E3%2582%25BB%25E3%2583%25B3%25E3%2582%25BF%25E3%2583%25BC%2520Tech%2520Blog%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2czZWNHak9odWlhek9xWC1ZWGRmdGRydUJvSk10a1BVcm1Zc3RWeUE9czI1MC1j%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-09-20 10:38:11",
+    "ja_summary": "・全社員向けのAI利用窓口を一本化し、OpenCodeとLiteLLMを導入。\n・企業側でモデルや週次予算を制御することで、利用状況を可視化。\n・ツール乱立を解消し、AI利用コストを導入前の10分の1以下に削減。"
+  },
+  {
     "title": "フアンCEOは不安を否定…｢世界の終わりになる可能性は0%だ｣エヌビディアCEOがAIによる人類絶滅リスクを完全否定 | 政治・経済・投資 | 東洋経済オンライン",
     "link": "https://toyokeizai.net/articles/-/958752?utm_source=rss&utm_medium=http&utm_campaign=link_back",
     "source": "東洋経済オンライン",
@@ -928,75 +998,5 @@
     "image": "https://media.loom-app.com/loom/2026/09/16/e1ccd535-fa57-4abc-83e6-93ebd3751430/original.jpg?w=1200",
     "fetched_at": "2026-09-18 20:33:13",
     "ja_summary": "・ゴールドマン・サックス幹部が、AI活用で投資銀行業務の高度化が進んでいると明言。\n・AIが効率化を担うことで、人間にはより高度な対話や付加価値の提供が求められている。\n・テクノロジー時代においても、顧客との深い関係構築という「人間らしさ」の価値が重要視されている。"
-  },
-  {
-    "title": "シリコンバレーに「新たな波」が到来…コンサルティング系AIスタートアップ5社",
-    "link": "https://www.businessinsider.jp/article/5-ai-powered-consulting-startups-aily-promptql-profound-dialogue-b/",
-    "source": "Business Insider Japan",
-    "published": "Fri, 18 Sep 2026 08:05:00 GMT",
-    "summary": "シリコンバレーでは、「コンサルティングテック」と呼ばれる新たなAI分野に投資家が巨額の資金を注ぎ込んでいます。",
-    "image": "https://media.loom-app.com/loom/2026/04/05/c6068f28-517b-41c6-a9e4-bf9e312caecb/original.jpg?w=1200",
-    "fetched_at": "2026-09-18 20:33:13",
-    "ja_summary": "・シリコンバレーでAIを活用した「コンサルティングテック」が急成長中。\n・専門業務をAI化する新興企業5社に投資家が巨額の資金を投入。\n・コンサルティング業界の構造変革を狙う新たなAIブームが到来している。"
-  },
-  {
-    "title": "高速な判断に特化したAI - TypeSafe「Jev」 と System One Model",
-    "link": "https://note.com/npaka/n/n6f8dd30a5fa4",
-    "source": "note (npaka)",
-    "published": "Wed, 16 Sep 2026 21:28:56 +0900",
-    "summary": "<p id=\"60601be8-2de2-4737-812e-ddc2bd76a202\" name=\"60601be8-2de2-4737-812e-ddc2bd76a202\">高速な判断に特化したAI「Jev」と「System One Model」についてまとめました。</p><br /><br /><a href=\"https://note.com/npaka/n/n6f8dd30a5fa4\">続きをみる</a>",
-    "image": "https://assets.st-note.com/production/uploads/images/314387011/rectangle_large_type_2_293dd8729c6e486d96d9eac9494141b5.png?width=800",
-    "fetched_at": "2026-09-18 20:33:13",
-    "ja_summary": "・「Jev」と「System One Model」は、複雑な推論よりも即時的な判断に特化した超高速AIモデル。\n・人間が直感的に行うような素早い意思決定をAIで再現することを目指している。\n・従来のAIが苦手としていたリアルタイム性が求められる領域での活用が期待される。"
-  },
-  {
-    "title": "OpenAI Agents API の概要",
-    "link": "https://note.com/npaka/n/neb33d6cbfee2",
-    "source": "note (npaka)",
-    "published": "Sat, 12 Sep 2026 22:05:52 +0900",
-    "summary": "<p id=\"6ed5301e-764c-4821-a4a0-04a7364aaa1c\" name=\"6ed5301e-764c-4821-a4a0-04a7364aaa1c\">「OpenAI Agents API」の概要をまとめました。</p><br /><br /><a href=\"https://note.com/npaka/n/neb33d6cbfee2\">続きをみる</a>",
-    "image": "https://assets.st-note.com/production/uploads/images/313010738/rectangle_large_type_2_f6c13f68ddb58e8c296dc6bc10acef91.png?width=800",
-    "fetched_at": "2026-09-18 20:33:13",
-    "ja_summary": "OpenAIの「Agents API」は、AIエージェントの開発と運用を効率化するための新しいインターフェースです。\n従来の手法よりも開発が容易になり、タスクの自律的な実行やシステム連携が強化されています。\nAIによる業務自動化の構築スピードと柔軟性を高める重要なアップデートです。"
-  },
-  {
-    "title": "GPT-6 Astraがロボットを使い始めた - ロボットのChatGPTモーメントは汎用AIから来るのか",
-    "link": "https://note.com/npaka/n/n8058267c6f69",
-    "source": "note (npaka)",
-    "published": "Sat, 12 Sep 2026 13:07:26 +0900",
-    "summary": "<p id=\"eb415ed1-cdc4-43da-beb6-c9e82ac87491\" name=\"eb415ed1-cdc4-43da-beb6-c9e82ac87491\">ここ数日で公開された事例から、「GPT-6 Astra」によるロボット操作の現在地を紹介します。</p><br /><br /><a href=\"https://note.com/npaka/n/n8058267c6f69\">続きをみる</a>",
-    "image": "https://assets.st-note.com/production/uploads/images/312853190/rectangle_large_type_2_2ef8c4540e322f9c4c90ebfe9da7e207.png?width=800",
-    "fetched_at": "2026-09-18 20:33:13",
-    "ja_summary": "・最新AI「GPT-6 Astra」がロボット制御に導入され、新たな活用フェーズへ突入。\n・高度な言語モデルが物理的な操作を担うことで、ロボットの汎用性が飛躍的に向上。\n・AIによるロボット操作の実用化が進み、技術革新の「ChatGPTモーメント」を迎えつつある。"
-  },
-  {
-    "title": "NTTドコモビジネスら5社、「ワット・ビット連携」の実証開始-分散データセンター間でAI処理を最適化",
-    "link": "https://japan.zdnet.com/article/35252801/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "NTTドコモビジネス、中国電力、NTTアノードエナジー、エネコム、北海道総合通信網（HOTnet）の5社は、AIの分散処理やワークロードシフトによって、データセンターの計算資源と電力利用を最適化する「ワット・ビット連携」の実証実験を開始した。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35252801/\"><img src=\"https://japan.zdnet.com/storage/2025/06/26/ccfb5157a7a8d18b93f691e55b344f78/t/184/138/d/250626_datacenter_as_1280_1464288338.jpg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2025/06/26/ccfb5157a7a8d18b93f691e55b344f78/t/184/138/d/250626_datacenter_as_1280_1464288338.jpg",
-    "fetched_at": "2026-09-18 20:33:16",
-    "ja_summary": "・ドコモなど5社が、AI処理と電力を最適化する「ワット・ビット連携」の実証実験を開始。\n・電力の需給状況に応じてAIの計算処理をデータセンター間で自動シフトし、効率化を図る。\n・計算資源の有効活用と電力負荷の低減を同時に実現する新しい仕組みの構築を目指す。"
-  },
-  {
-    "title": "[PR]Peach Aviation 株式会社が実践する、ブラウザ起点の脅威への「未然防止」対策。社内への導入と合意形成をどうスムーズに進めたのか？",
-    "link": "https://japan.zdnet.com/pickup/chrome_enterprise_premium_tu_14/35252731/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "クラウドや生成 AI の業務活用が広がる中で、その入り口となるブラウザを狙ったサイバー脅威が静かに増加している。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/pickup/chrome_enterprise_premium_tu_14/35252731/\"><img src=\"https://japan.zdnet.com/storage/2026/09/17/1f96af891b8de9f1c6fa901e0d88d689/t/184/138/d/thumb_google_tu14.png\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2026/09/17/1f96af891b8de9f1c6fa901e0d88d689/t/184/138/d/thumb_google_tu14.png",
-    "fetched_at": "2026-09-18 20:33:16",
-    "ja_summary": "・クラウドやAI利用の拡大に伴い、ブラウザを狙うサイバー攻撃のリスクが増大している。\n・Peach Aviationが導入したブラウザ起点のセキュリティ対策とその実効性を解説。\n・社内合意をスムーズに形成し、脅威を未然に防ぐための導入プロセスを紹介。"
-  },
-  {
-    "title": "Helping older adults use AI in everyday life",
-    "link": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
-    "source": "OpenAI",
-    "published": "Wed, 16 Sep 2026 16:00:00 GMT",
-    "summary": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.",
-    "image": "https://images.ctfassets.net/kftzwdyauwt9/1yEHeoQzG1q9cfoWaoD68R/f45d0eec3a09156dcb99bcd9f6619c51/older-adults-open-graph-v001.png?w=1600&amp;h=900&amp;fit=fill",
-    "fetched_at": "2026-09-18 20:33:19",
-    "ja_summary": "・OpenAIとAARPが連携し、全米10都市で高齢者向け無料ChatGPTワークショップを開催\n・1,000人を対象に、日常生活でAIを安全に活用するための実践的なスキルを指導\n・テクノロジーを通じた高齢者の生活の質向上とAIリテラシーの普及を目指す"
   }
 ]
