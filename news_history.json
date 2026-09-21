@@ -1,5 +1,75 @@
 [
   {
+    "title": "BOOX、高速化した10.3型カラー電子ペーパータブ「NoteAir6C」",
+    "link": "https://www.watch.impress.co.jp/docs/news/2142553.html",
+    "source": "Impress Watch",
+    "published": "",
+    "summary": "SKTは、10.3インチカラー電子ペーパーを採用したBOOXの新電子ペーパーデバイス「BOOX NoteAir6C」を9月21日から発売する。価格は96,800円。",
+    "image": "https://www.watch.impress.co.jp/img/ipw/list/2142/553/boox1.jpg",
+    "fetched_at": "2026-09-21 22:05:16",
+    "ja_summary": "・SKTがカラー電子ペーパー搭載の10.3型タブレット「BOOX NoteAir6C」を9月21日に発売。\n・処理速度が向上し、より快適な操作性を実現。\n・価格は96,800円で展開。"
+  },
+  {
+    "title": "AIエージェントに「新人研修」を　Microsoft IQが推す“文脈”の競争力",
+    "link": "https://www.watch.impress.co.jp/docs/news/2141659.html",
+    "source": "Impress Watch",
+    "published": "",
+    "summary": "Microsoftは17日、「Work IQ」などの「Microsoft IQ」について報道向けの説明会を開催した。企業におけるAI活用や業務改善においては、AIモデルよりもAIが理解するための「コンテキスト(文脈)」の準備が重要であるとし、Microsoft IQ導入の必要性を説明した。",
+    "image": "https://www.watch.impress.co.jp/img/ipw/list/2141/659/ms18.jpg",
+    "fetched_at": "2026-09-21 22:05:19",
+    "ja_summary": "・AI活用で重要なのはモデルの性能以上に「業務の文脈（コンテキスト）」の理解である。\n・Microsoftは、AIに組織特有の業務内容を学習させる「Microsoft IQ」の導入を推奨。\n・AIに適切な文脈を与えることで、新人研修のように即戦力化させる競争力を高める。"
+  },
+  {
+    "title": "アップル「Mac Studio/mini」詳細レビュー：高価格製品でも16週待ちになる「AIマシン」の価値",
+    "link": "https://www.businessinsider.jp/article/2609-apple-mac-studio-mac-mini-review/",
+    "source": "Business Insider Japan",
+    "published": "Mon, 21 Sep 2026 13:00:00 GMT",
+    "summary": "Mac StudioとMac miniのレビューをお届け。進化するローカルAI性能や高価な製品が「16週待ち」になる理由を徹底解説します。",
+    "image": "https://media.loom-app.com/loom/2026/09/21/485ecedd-fa55-4476-8aea-1a919b870e34/original.jpg?w=1200",
+    "fetched_at": "2026-09-21 22:05:20",
+    "ja_summary": "・最新のMac Studio/miniはAI処理性能が飛躍的に向上し、ビジネス環境で高い価値を提供。\n・高価格帯のモデルでも納期が16週待ちとなるほど、プロ層から圧倒的な需要が集中。\n・ローカル環境でのAI実行能力を重視するユーザーにとって、不可欠なツールへと進化している。"
+  },
+  {
+    "title": "Geminiが他社システムに侵入",
+    "link": "https://news.yahoo.co.jp/pickup/6595827?source=rss",
+    "source": "Yahoo!ニュース IT・科学",
+    "published": "Sat, 19 Sep 2026 09:18:46 GMT",
+    "summary": "",
+    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/9/19/9f9ca6cd13f1028f80edbc45338f85251ee0567af17ca3e8d6bb448b841d7ba2.jpg",
+    "fetched_at": "2026-09-21 22:05:24",
+    "ja_summary": "・Googleの生成AI「Gemini」が悪用され、他社システムへの不正侵入が確認された。\n・攻撃者はGeminiのAPIを悪用し、標的システムのセキュリティを突破した。\n・Googleは脆弱性の修正を進めているが、AIのセキュリティ対策が急務となっている。"
+  },
+  {
+    "title": "Jevを「分類器」ではなく、確率モデルの部品として見る",
+    "link": "https://zenn.dev/cybernetics/articles/71ea975d935414",
+    "source": "Zenn Trends",
+    "published": "Sun, 20 Sep 2026 17:22:46 GMT",
+    "summary": "はじめに\n最近、TypeSafe AIから公開されたJevについて考えている。\nJevを最初に見たときは、「LLMよりずっと軽くて速い分類器」という理解だった。自由に文章を書くモデルではなく、与えられた状態を見て、Choice、Score、Noulのような型付きの判断を返す。\nたとえば、ある問い合わせが請求なのか不具合なのか、緊急度は高いのか、人間へエスカレーションすべきなのか、といった判断を確率つきで返す。\nTypeSafe自身もJevを、非構造な状態を受け取り、型のついた確率的な判断を返すモデルとして説明している。\nこれはその通りなのだが、しばらく考えているうちに、Jevを単なる...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--JTckATbP--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Jev%25E3%2582%2592%25E3%2580%258C%25E5%2588%2586%25E9%25A1%259E%25E5%2599%25A8%25E3%2580%258D%25E3%2581%25A7%25E3%2581%25AF%25E3%2581%25AA%25E3%2581%258F%25E3%2580%2581%25E7%25A2%25BA%25E7%258E%2587%25E3%2583%25A2%25E3%2583%2587%25E3%2583%25AB%25E3%2581%25AE%25E9%2583%25A8%25E5%2593%2581%25E3%2581%25A8%25E3%2581%2597%25E3%2581%25A6%25E8%25A6%258B%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:HELLO_CYBERNETICS%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2ZmMTc5MDZiMmYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-09-21 22:05:32",
+    "ja_summary": "・Jevは単なる高速な「分類器」ではなく、型の付いた判断を確率的に出力するモデルである。\n・入力を構造化された確率モデルの部品として扱うことで、判断の正確性と信頼性を向上できる。\n・AIを自由記述ツールではなく、システムの判断を担う論理的なコンポーネントとして再定義する考え方。"
+  },
+  {
+    "title": "最近話題のJevはBigQueryのAI関数を安くできるのか？",
+    "link": "https://zenn.dev/jackojacko05/articles/08df79d47f4219",
+    "source": "Zenn Trends",
+    "published": "Sun, 20 Sep 2026 12:52:36 GMT",
+    "summary": "こんにちは。メガベンチャーでデータアナリストとして3年弱働き、今年の初めにデータエンジニアへ異動したじゃっこです🔰……なんともう3四半期が経ちそうです。そろそろドメイン知識不足を言い訳にできなくなってきました😭\n最近、にわかにJevが流行っています。\nhttps://typesafe.ai/\nJevは、長い文章を生成するためではなく、選択肢から一つを選ぶ、数値を付ける、といった意思決定に特化した小さなモデルです。Vercel AI Gatewayからも利用でき、入力$0.04 / 100万token、2026年9月25日までは出力無料。大量の分類やルーティングに向いていそうです。\nデータ...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--u3efWEaM--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E6%259C%2580%25E8%25BF%2591%25E8%25A9%25B1%25E9%25A1%258C%25E3%2581%25AEJev%25E3%2581%25AFBigQuery%25E3%2581%25AEAI%25E9%2596%25A2%25E6%2595%25B0%25E3%2582%2592%25E5%25AE%2589%25E3%2581%258F%25E3%2581%25A7%25E3%2581%258D%25E3%2582%258B%25E3%2581%25AE%25E3%2581%258B%25EF%25BC%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%2598%25E3%2582%2583%25E3%2581%25A3%25E3%2581%2593%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2FkNmZkYjFmNDEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-09-21 22:05:32",
+    "ja_summary": "・意思決定に特化した軽量AIモデル「Jev」が、大量のデータ分類やルーティングに最適。\n・Vercel AI Gateway経由で利用でき、入力単価が非常に安価な上に2026年9月まで出力無料。\n・BigQueryのAI関数と組み合わせることで、コストを抑えた効率的なデータ処理が期待できる。"
+  },
+  {
+    "title": "Datadog で始める トークンセーフティなAI 導⼊と定着",
+    "link": "https://speakerdeck.com/vkbaba/datadog-de-hajimeru-na-ai-shirube-to-teichaku",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-09-19T08:51:51-04:00",
+    "summary": "",
+    "image": "https://files.speakerdeck.com/presentations/a91accdc3c3a40229906052a87c29525/preview_slide_0.jpg?40624211",
+    "fetched_at": "2026-09-21 22:05:34",
+    "ja_summary": "Datadogを活用することで、AI利用時の機密情報漏洩を防ぐトークンセーフティが実現可能。\n導入から定着までのプロセスを最適化し、安全かつ効率的なAI活用を支援する。\nAI運用におけるセキュリティリスクを最小限に抑え、組織への導入を加速させる手法を解説。"
+  },
+  {
     "title": "「スキル」だけでは見抜けない、“デキるPM”をどう選ぶか　企業が実践すべき5つの評価手法",
     "link": "https://www.itmedia.co.jp/business/articles/2609/21/news016.html",
     "source": "ITmedia ビジネス",
@@ -928,75 +998,5 @@
     "image": "https://assets.st-note.com/production/uploads/images/314576613/rectangle_large_type_2_a5c2b48bc647f8c5063c764426124af7.jpeg?width=800",
     "fetched_at": "2026-09-20 02:15:56",
     "ja_summary": "・Raspberry PiとPythonを用いた、AIアプリ開発の実践ガイドを紹介。\n・カメラやセンサーを組み合わせ、ChatGPT等のAIを活用した開発手法を解説。\n・電子工作に不慣れな初心者でも、無理なくAIプログラミングを学べる一冊。"
-  },
-  {
-    "title": "【書評】LLMアプリケーション評価駆動開発 継続的に改善し運用していくための実践知",
-    "link": "https://note.com/npaka/n/n2655c374416b",
-    "source": "note (npaka)",
-    "published": "Tue, 15 Sep 2026 08:45:22 +0900",
-    "summary": "<p id=\"6622301d-60e2-4ae0-ae5c-8933a990eed4\" name=\"6622301d-60e2-4ae0-ae5c-8933a990eed4\">「<strong>LLMアプリケーション</strong>」とは、大規模言語モデル（LLM）を組み込んだアプリケーションです。チャットボット、RAGによる検索、文章の要約・分類、AIエージェントなどが該当します。</p><p id=\"42d4d55f-b142-477c-a0a1-519022776a61\" name=\"42d4d55f-b142-477c-a0a1-519022776a61\">LLMアプリケーションの出力は毎回同じとは限らず、自然に見えても、誤りを含んでいたり、ユーザーの目的に合っていなかったりします。そのため、内容の正確さや要求との一致、サービスとしての品質を「<strong>評価すること</strong>」が重要になります。</p><br /><a href=\"https://note.com/npaka/n/n2655c374416b\">続きをみる</a>",
-    "image": "https://assets.st-note.com/production/uploads/images/313813483/rectangle_large_type_2_8793fc705409b1f8a98a18e3454be9fa.jpeg?width=800",
-    "fetched_at": "2026-09-20 02:15:56",
-    "ja_summary": "・LLMアプリは出力の不確実性が高いため、品質維持には「評価」が不可欠。\n・本書は、LLMアプリの精度や目的適合性を継続的に改善・運用する実践的手法を解説。\n・チャットボットやRAGなどの開発現場において、品質向上を目指す技術者必読の一冊。"
-  },
-  {
-    "title": "Cognition AI、ソフト開発エージェント「Devin」を「macOS」に対応",
-    "link": "https://japan.zdnet.com/article/35252796/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "Cognition AIは、ソフトウェア開発エージェント基盤「Devin」の「macOS」への対応を開始した。macOSや「iOS」向けの開発をエンドツーエンドで実行できる。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35252796/\"><img src=\"https://japan.zdnet.com/storage/2026/09/18/a8a42eecea6204b604ba2ef16c9ad51e/t/184/138/d/devin-mac-adaption_l.jpg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2026/09/18/a8a42eecea6204b604ba2ef16c9ad51e/t/184/138/d/devin-mac-adaption_l.jpg",
-    "fetched_at": "2026-09-20 02:16:03",
-    "ja_summary": "・AI開発エージェント「Devin」がmacOSに対応。\n・macOSおよびiOSアプリの開発作業を全自動で実行可能に。\n・開発プロセスのエンドツーエンドな自動化を実現。"
-  },
-  {
-    "title": "99％がAIでストレージ需要増を予測、十分な準備ができている企業は38％--シーゲート調査",
-    "link": "https://japan.zdnet.com/article/35252790/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "Seagate Technologyは、企業のAI活用を支えるデータインフラの準備状況を調査した「Data Infrastructure Readiness Report 2026」を発表した。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35252790/\"><img src=\"https://japan.zdnet.com/storage/2026/04/15/06e6c6c309d820a441acf318671b6e27/t/184/138/d/260415_as_1280_921354888.jpg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2026/04/15/06e6c6c309d820a441acf318671b6e27/t/184/138/d/260415_as_1280_921354888.jpg",
-    "fetched_at": "2026-09-20 02:16:03",
-    "ja_summary": "・企業のほぼ全員（99％）がAI活用に伴うストレージ需要の増加を予測。\n・しかし、データインフラの準備が十分に整っている企業は38％にとどまる。\n・AI運用に不可欠なデータ基盤の整備が多くの企業で急務となっている。"
-  },
-  {
-    "title": "KDDIら3社、リテールロボットで分散型データセンターを実証--遠隔地の計算資源を活用",
-    "link": "https://japan.zdnet.com/article/35252789/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "KDDI、モルゲンロット、トークネットの3社は、AIの普及に伴う電力不足やGPU不足への対応に向け、リテールロボットを活用した分散型データセンターの実証を開始した。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35252789/\"><img src=\"https://japan.zdnet.com/storage/2025/08/20/1266f24cdb864210cdd13f8be520cb6d/t/184/138/d/250820_edge_as_1280_1423601150.jpg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2025/08/20/1266f24cdb864210cdd13f8be520cb6d/t/184/138/d/250820_edge_as_1280_1423601150.jpg",
-    "fetched_at": "2026-09-19 23:03:39",
-    "ja_summary": "・KDDIら3社が、リテールロボットを活用した分散型データセンターの実証実験を開始。\n・AI需要に伴う電力・GPU不足を解消するため、遠隔地の計算資源を効率的に運用。\n・インフラの負荷を分散し、AI開発に必要な計算リソースを安定確保する仕組みを構築。"
-  },
-  {
-    "title": "【終了】「ガバメントAI 源内OSS Ver 2.0の計画に関するオンライン説明会」の開催について（ご案内）",
-    "link": "https://www.digital.go.jp/news/b6d94913-60d0-450d-ab46-8e89659f1fc6",
-    "source": "デジタル庁",
-    "published": "Fri, 18 Sep 2026 15:00:00 +0900",
-    "summary": "",
-    "image": "https://www.digital.go.jp/assets/contents/node/information/field_thumbnail_image/b6d94913-60d0-450d-ab46-8e89659f1fc6/dee92357/20260723_04.png",
-    "fetched_at": "2026-09-19 23:03:40",
-    "ja_summary": "・行政向けAI「ガバメントAI 源内OSS Ver 2.0」の計画に関するオンライン説明会は終了しました。\n・本件に関する案内は終了済みとなります。"
-  },
-  {
-    "title": "ガバメントAI 源内OSS Ver 2.0の計画に関する全国オンライン説明会を開催しました",
-    "link": "https://www.digital.go.jp/news/e525db0b-eac1-49e2-9ef4-6d2e24208498",
-    "source": "デジタル庁",
-    "published": "Fri, 18 Sep 2026 15:00:00 +0900",
-    "summary": "",
-    "image": "https://www.digital.go.jp/themes/custom/gov_theme_da_2023/assets/images/ogp.png",
-    "fetched_at": "2026-09-19 23:03:40",
-    "ja_summary": "・政府AI「源内OSS Ver 2.0」の導入に向けた全国オンライン説明会を開催。\n・開発の背景や新機能、今後の活用計画について共有を実施。\n・行政事務の効率化を目指し、オープンソースを通じたAI活用の普及を促進。"
-  },
-  {
-    "title": "企画競争：令和8年度 政府情報システムの設計開発及び運用保守における内部開発に対するAI有用性の調査研究事業を掲載しました",
-    "link": "https://www.digital.go.jp/procurement",
-    "source": "デジタル庁",
-    "published": "Fri, 18 Sep 2026 15:00:00 +0900",
-    "summary": "",
-    "image": "https://www.digital.go.jp/themes/custom/gov_theme_da_2023/assets/images/ogp.png",
-    "fetched_at": "2026-09-19 23:03:40",
-    "ja_summary": "・政府は令和8年度のシステム開発・運用にAIを活用する調査研究事業を開始。\n・内部開発におけるAI導入の有用性や効果を検証する。\n・現在、本事業の受託に向けた企画提案（プロポーザル）を公募中。"
   }
 ]
