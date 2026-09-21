@@ -1,5 +1,85 @@
 [
   {
+    "title": "「スキル」だけでは見抜けない、“デキるPM”をどう選ぶか　企業が実践すべき5つの評価手法",
+    "link": "https://www.itmedia.co.jp/business/articles/2609/21/news016.html",
+    "source": "ITmedia ビジネス",
+    "published": "Mon, 21 Sep 2026 10:00:00 +0900",
+    "summary": "年々深刻化するIT人材不足ですが、近年はAIの台頭やDX需要の高まりにより、上流工程で意思決定を担える人材の不足が一層顕著になってきました。なかでも特に深刻なのが、プロジェクトマネジャーやプロダクトマネジャーといった中間マネジメント層です。",
+    "image": "https://image.itmedia.co.jp/business/articles/2609/21/cover_news016.jpg",
+    "fetched_at": "2026-09-21 15:17:22",
+    "ja_summary": "・IT人材、特に意思決定を担うPM層の不足が深刻化している。\n・スキル評価だけでは真に優秀なPMを見抜くことは難しい。\n・企業は新たな5つの評価手法を取り入れ、選抜体制を強化する必要がある。"
+  },
+  {
+    "title": "「戦場でGPSは使えなくなる」…米陸軍が導入を急ぐオフラインAIナビ",
+    "link": "https://www.businessinsider.jp/article/2609-us-army-betting-on-ai-navigation-vehicles-when-gps-jammed/",
+    "source": "Business Insider Japan",
+    "published": "Mon, 21 Sep 2026 06:00:00 GMT",
+    "summary": "TERNのシステムは、アメリカ陸軍のさまざまな車両に導入され、接続性を失った場合に兵士が利用できる代替のナビゲーション手段を提供します。",
+    "image": "https://media.loom-app.com/loom/2026/09/10/d5721b7e-4762-41fb-905a-912c74fe0e8d/original.jpg?w=1200",
+    "fetched_at": "2026-09-21 15:17:36",
+    "ja_summary": "・米陸軍がGPS非依存型のオフラインAIナビゲーションシステム「TERN」を導入。\n・通信遮断やGPS無効化のリスクがある戦場でも、車両の自律的な移動を維持。\n・有事の際のナビ機能停止を防ぎ、過酷な環境下での作戦継続能力を強化する。"
+  },
+  {
+    "title": "Anthropic アクセンチュアと提携",
+    "link": "https://news.yahoo.co.jp/pickup/6595818?source=rss",
+    "source": "Yahoo!ニュース IT・科学",
+    "published": "Sat, 19 Sep 2026 07:40:31 GMT",
+    "summary": "",
+    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/9/19/1c4be5f78f87fd83630b4e29135f4433ebefa47b9b7dbfd829f3ba9658566782.jpg",
+    "fetched_at": "2026-09-21 15:17:39",
+    "ja_summary": "Anthropicがアクセンチュアと提携し、企業のAI導入を支援。\n生成AI「Claude」をアクセンチュアのコンサルティング業務に統合し、顧客企業の業務効率化と価値創出を加速させる。\n今回の提携により、AI活用を推進する両社の連携体制が強化される。"
+  },
+  {
+    "title": "ひょっとしてローカル最速？　「詳細記述スパース」でMiniMax H3前人未到の3ステップ超えできちゃったかも（CloseBox）",
+    "link": "https://www.techno-edge.net/article/2026/09/21/5511.html",
+    "source": "TechnoEdge",
+    "published": "Mon, 21 Sep 2026 13:56:05 +0900",
+    "summary": "AI動画がさらに最大で1.5倍速くなりました。MiniMax H3の現在最速である3ステップの上に「スパースアテンション」を重ねることで。",
+    "image": "https://www.techno-edge.net/imgs/rss/34367.png",
+    "fetched_at": "2026-09-21 15:17:42",
+    "ja_summary": "・AI動画生成モデル「MiniMax H3」が、「詳細記述スパース」技術の活用でさらなる高速化を実現。\n・従来の最速記録である3ステップ生成を上回り、処理速度が最大1.5倍に向上した。\n・ローカル環境での動画生成効率が飛躍的に高まり、実用性が大きく進化した。"
+  },
+  {
+    "title": "C#未経験の僕がAIに読めるコードを書かせるまで",
+    "link": "https://speakerdeck.com/maguroalternative/c-mikeiken-no-boku-ga-ai-ni-yomeru-kodo-o-kakaseru-made",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-09-19T05:47:02-04:00",
+    "summary": "C#Kaigi2026の登壇資料です。\nhttps://csharpkaigi.net/talks/lt-ai-readable-code",
+    "image": "https://files.speakerdeck.com/presentations/cf22e3c38f2640ed94338a56c14a0e63/preview_slide_0.jpg?40623005",
+    "fetched_at": "2026-09-21 15:17:47",
+    "ja_summary": "・C#未経験者がAIを活用して、読みやすく保守性の高いコードを書くための実践手法を紹介。\n・AIへの的確な指示出し（プロンプト）の工夫により、属人化を防ぎ品質を担保するアプローチを解説。\n・プログラミング初学者やAIコーディングの効率化を目指すエンジニア向けの登壇資料。"
+  },
+  {
+    "title": "特殊変数大全",
+    "link": "https://speakerdeck.com/dak2/tokushu-hensuu-taizen",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-09-19T03:44:41-04:00",
+    "summary": "名古屋Ruby会議05 の登壇資料\nhttps://regional.rubykaigi.org/nagoya05/sessions/dak2/",
+    "image": "https://files.speakerdeck.com/presentations/7f0db290f3bf4688af0d3db7c543b427/preview_slide_0.jpg?40622060",
+    "fetched_at": "2026-09-21 15:17:47",
+    "ja_summary": "・Rubyの特殊変数の仕様や使い道を網羅的に解説した技術資料。\n・知る人ぞ知る変数から日常的なものまで、その挙動と注意点を整理。\n・Ruby開発者向けに、コードの理解度とメンテナンス性を高める内容。"
+  },
+  {
+    "title": "Azure Serverless 2026：Production-ready な AI エージェント基盤 / Azure Serverless 2026: Production-Ready AI Agent Platform",
+    "link": "https://speakerdeck.com/miyake/azure-serverless-2026-production-ready-ai-agent-platform",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-09-19T03:23:50-04:00",
+    "summary": "Serverless Days 2026 でのセッション資料です。\n\n「Azure Serverless 2026：Production-ready な AI エージェント基盤 — Functions／Container Apps、Foundry、Microsoft IQ の使いどころ」\n\nAzure Serverless の実行単位は、Function や Container から Agent Session と Workflow Activity へ広がり、隔離されたコード実行、組織コンテキストの取得、長時間ワークフローの完遂までを担う実行基盤へ進化しています。本セッションでは、この基盤を Compute／Context／Agent Hosting／Workflow の4レイヤーで整理し、Functions／Container Apps、Microsoft Foundry、Microsoft IQ の「使いわけ」「役割分担」を解説します。イベントで起動したエージェントが Microsoft IQ から根拠付き情報を取得し、Sandbox で安全にコードを実行し、長時間処理を Durable ベースの Workflow へ委譲して完遂するといった Production-ready なリファレンスアーキテクチャも紹介します。本番運用を見据えた Azure Serverless の全体像を持ち帰れるセッションです。",
+    "image": "https://files.speakerdeck.com/presentations/a6c06a2ee2834eba8a165023a9836417/preview_slide_0.jpg?40621882",
+    "fetched_at": "2026-09-21 15:17:47",
+    "ja_summary": "・Azure Serverlessが単なるコード実行基盤から、AIエージェントの運用を支える高度な実行環境へ進化。\n・Functions、Container Apps、Foundry、Microsoft IQの最適な使い分けと役割分担を体系化。\n・AIによる情報取得から安全なコード実行、長時間ワークフロー処理までを完遂する本番運用向け構成を提示。"
+  },
+  {
+    "title": "話題のJevとは？文章を書かずに判断だけを返すAIモデルをざっくり解説",
+    "link": "https://qiita.com/yushibats/items/472325ce548da370ed5d",
+    "source": "Qiita (Popular)",
+    "published": "2026-09-18T22:07:53+09:00",
+    "summary": "\n\n## はじめに\n\nJevが話題ですね。\n文章を書かないAIと紹介されていますが、では代わりに何を返すんでしょうか。\n\nこの記事は、Jevが何をするものかの解像度を上げるために自分なりに整理したものです。\n\n## ざっくりまとめ\n\nJevは、文章で書かれた状況を読み、あらかじめ用意された選択肢のどれに当たるかを、確率を付けて答えるモデルです。 文章を生成するLLMと比べると、任せられる仕事の範囲",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGMzk2MzQ2OCUyRnByb2ZpbGUtaW1hZ2VzJTJGMTc1MjA0MTk1OD9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NDNjNjA2OGM1NzI2ZGYzNWVmNTRkNDM3NWNjNDEyNzU%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYzMDk1NWZhN2YwMzlhODVjNDQ5ZmY0ODBhMmE3ZGJjNWQ5ZmY1YWIwJTJGb3JpZ2luYWwuanBnJTNGMTQ1MjE0NTY4Mz9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz0xOTg4ZGUxMGZjNzNiMDdiMDBhNTQzZjdkYWZjODJmMg%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D8dd21cac6c2b6ef9741f5e57684fb14f?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUU4JUE5JUIxJUU5JUExJThDJUUzJTgxJUFFSmV2JUUzJTgxJUE4JUUzJTgxJUFGJUVGJUJDJTlGJUU2JTk2JTg3JUU3JUFCJUEwJUUzJTgyJTkyJUU2JTlCJUI4JUUzJTgxJThCJUUzJTgxJTlBJUUzJTgxJUFCJUU1JTg4JUE0JUU2JTk2JUFEJUUzJTgxJUEwJUUzJTgxJTkxJUUzJTgyJTkyJUU4JUJGJTk0JUUzJTgxJTk5QUklRTMlODMlQTIlRTMlODMlODclRTMlODMlQUIlRTMlODIlOTIlRTMlODElOTYlRTMlODElQTMlRTMlODElOEYlRTMlODIlOEElRTglQTclQTMlRTglQUElQUMmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz0wMGM1ODI2MzliZDU5MTg1OTVjNDE3MTFiNzZlYzg3MQ&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDB5dXNoaWJhdHMmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz0wNjk1NTlhNzhhMjdiNzk2OThhNjgyYzExM2FkYWJhYg&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=5pel5pys44Kq44Op44Kv44Or5qCq5byP5Lya56S-&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=8da66f1075a26bef748f50a8a1a96b05",
+    "fetched_at": "2026-09-21 15:17:49",
+    "ja_summary": "Jevは文章生成ではなく、入力内容を分類して選択肢と確率を返すAIモデル。\n従来のLLMより特定の判断タスクに特化しており、高速かつ効率的な処理が可能。\n判断や分類作業を自動化し、業務効率化を図るツールとして活用される。"
+  },
+  {
     "title": "AIに「全部よろしく」で迷走？　うまく使う人が実践する「仕事の分け方」",
     "link": "https://www.itmedia.co.jp/business/articles/2609/21/news001.html",
     "source": "ITmedia ビジネス",
@@ -918,85 +998,5 @@
     "image": "https://www.digital.go.jp/themes/custom/gov_theme_da_2023/assets/images/ogp.png",
     "fetched_at": "2026-09-19 23:03:40",
     "ja_summary": "・政府は令和8年度のシステム開発・運用にAIを活用する調査研究事業を開始。\n・内部開発におけるAI導入の有用性や効果を検証する。\n・現在、本事業の受託に向けた企画提案（プロポーザル）を公募中。"
-  },
-  {
-    "title": "日比谷高校オンライン整理券システム \"QUAINT\" 2025年開発体験記",
-    "link": "https://zenn.dev/mrharu0310/articles/67288588758d64",
-    "source": "Zenn Trends",
-    "published": "Fri, 18 Sep 2026 20:12:24 GMT",
-    "summary": "2025年の9/13~9/14に行われた東京都立日比谷高等学校の文化祭である星陵祭のWebサイトおよび当日に使用されたオンライン整理券システム\"QUAINT\"を開発しました。公開日時から分かる通り、この記事を書き始めた時には既に2025年星陵祭から1年以上経過していますが、2026年のシステムエラーを受け、開発での試行錯誤を後世に残す重要性を実感したこともあり公開した次第です。本システムの設計思想は2022~2024年度のものを引き継いでいます。過去の記事も読んでいただけると幸いです。また、今後公開予定の2026年度の記事を読む際は、本記事を参考にして頂ければと思います。\nhttps:/...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--LFH8HhwZ--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E6%2597%25A5%25E6%25AF%2594%25E8%25B0%25B7%25E9%25AB%2598%25E6%25A0%25A1%25E3%2582%25AA%25E3%2583%25B3%25E3%2583%25A9%25E3%2582%25A4%25E3%2583%25B3%25E6%2595%25B4%25E7%2590%2586%25E5%2588%25B8%25E3%2582%25B7%25E3%2582%25B9%25E3%2583%2586%25E3%2583%25A0%2520%2522QUAINT%2522%25202025%25E5%25B9%25B4%25E9%2596%258B%25E7%2599%25BA%25E4%25BD%2593%25E9%25A8%2593%25E8%25A8%2598%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:MRharu0310%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzFmNDhjZjQ3MzguanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "fetched_at": "2026-09-19 23:03:44",
-    "ja_summary": "・日比谷高校の文化祭で運用されたオンライン整理券システム「QUAINT」の開発体験記を公開。\n・2025年度の設計思想や試行錯誤を記録し、後進への知見として残すことを目的としている。\n・次年度以降のシステム開発における技術的なリファレンスとして活用されることを期待している。"
-  },
-  {
-    "title": "ローカルJevの可能性検証",
-    "link": "https://zenn.dev/hakotech/articles/5c2fe2eb8a6051",
-    "source": "Zenn Trends",
-    "published": "Fri, 18 Sep 2026 16:51:31 GMT",
-    "summary": "ローカルJevの可能性検証\n\n はじめに\nJevが話題になっていますね。文章を長々と生成する代わりに、必要な判断と確率を直接返すという発想は面白いと思っています。ソフトウェアに組み込むことを考えると、こういうモデルが欲しかった、という人は多いのではないでしょうか？\nhttps://typesafe.ai/blog/introducing-system-one-models-and-jev\nただ、私が特にほしいのは、Jevらしきものをローカルで動かして試せる環境です（ローカルでないと許可が出ない場合も多いですし……）。\nそこで、オープンウェイトなローカルLLMを、なんとかしてJevっぽ...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--UXbBtlPx--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%25AD%25E3%2583%25BC%25E3%2582%25AB%25E3%2583%25ABJev%25E3%2581%25AE%25E5%258F%25AF%25E8%2583%25BD%25E6%2580%25A7%25E6%25A4%259C%25E8%25A8%25BC%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%25AF%25E3%2581%2593%25E3%2581%2584%25E3%2581%25AC%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2E5MGY2MDQyYWUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "fetched_at": "2026-09-19 23:03:44",
-    "ja_summary": "・長文生成ではなく「判断と確率」を直接返すAIモデル「Jev」に注目が集まっている。\n・ビジネス用途を見据え、ローカル環境でJevに近い挙動を実現する手法を検証する。\n・機密保持が必要な環境でも活用可能なローカルLLM環境の構築を目指す。"
-  },
-  {
-    "title": "【2026/9/17最新アプデ】Claude Docs が登場！Slides・Design と合わせて触ってみた",
-    "link": "https://zenn.dev/canly/articles/7ac8cea14c20e8",
-    "source": "Zenn Trends",
-    "published": "Fri, 18 Sep 2026 10:40:41 GMT",
-    "summary": "本記事は 2026/9/17〜18(日本時間)に実際に触って確かめた内容です。Claude Docs / Claude Slides / Claude Design はいずれも beta 提供中で、公式ドキュメントの記述と実際の挙動が一致しない箇所も確認しています。仕様が変わった箇所は追記で更新します\n\n\n はじめに\n2026/9/17(日本時間)、Anthropic が Claude Docs と Claude Slides を公開し、Claude Design も会話の中から使えるようになりました[1]。3 つとも有料プランでの beta 提供です。\nなかでも Claude Doc...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--1kmKct_8--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%25902026%252F9%252F17%25E6%259C%2580%25E6%2596%25B0%25E3%2582%25A2%25E3%2583%2597%25E3%2583%2587%25E3%2580%2591Claude%2520Docs%2520%25E3%2581%258C%25E7%2599%25BB%25E5%25A0%25B4%25EF%25BC%2581Slides%25E3%2583%25BBDesign%2520%25E3%2581%25A8%25E5%2590%2588%25E3%2582%258F%25E3%2581%259B%25E3%2581%25A6%25E8%25A7%25A6%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E3%2581%25B5%25E3%2581%258F%25E3%2581%25A0%25EF%25BC%2588fukuda%2520ryu%25EF%25BC%2589%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2EwYjI3NWVjYTkuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2582%25AB%25E3%2583%25B3%25E3%2583%25AA%25E3%2583%25BC%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzEyMjRmMTIyZTMuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "fetched_at": "2026-09-19 23:03:44",
-    "ja_summary": "・Anthropic社が有料プラン向けに「Claude Docs」「Slides」「Design」のベータ版を公開。\n・資料作成やドキュメント管理を効率化する新機能だが、現時点では仕様の変動や公式記述との差異あり。\n・最新の実践レポートに基づき、各機能の有用性と現状の注意点を網羅的に解説。"
-  },
-  {
-    "title": "Jevでハーネスエンジニアリング",
-    "link": "https://zenn.dev/watany/articles/36e11a20ce3743",
-    "source": "Zenn Trends",
-    "published": "Fri, 18 Sep 2026 02:16:33 GMT",
-    "summary": "この記事は、今日参加するイベントで画面表示する目的と、\nhttps://minorun365.connpass.com/event/407308/\n今日発売されるSoftware Design 2026/10の宣伝ついでに書いています。\nhttps://gihyo.jp/magazine/SD/archive/2026/202610\n\n Jevって？\nJevは、状態と質問を受け取り、型付きの回答を確率とともに返すモデルである。チャッピー！それってLLMと何が違うの？ 図を書いて。いいよ。\n\nJevの提供元のTypeSafe AIは、こうしたソフトウェア向けの意思決定モデルを「System...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--p7nC-kx3--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Jev%25E3%2581%25A7%25E3%2583%258F%25E3%2583%25BC%25E3%2583%258D%25E3%2582%25B9%25E3%2582%25A8%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%258B%25E3%2582%25A2%25E3%2583%25AA%25E3%2583%25B3%25E3%2582%25B0%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:watany%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzJiYjJiYTdkZjkuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "fetched_at": "2026-09-19 23:03:45",
-    "ja_summary": "・Jevは状態と質問に対し、確率付きの型定義された回答を返すソフトウェア向けの意思決定モデル。\n・LLMとは異なり、構造化された確実性の高い判断を可能にする次世代のAI技術。\n・詳細はイベントでの発表および『Software Design』2026年10月号にて解説されている。"
-  },
-  {
-    "title": "Datadog で始める トークンセーフティなAI 導⼊と定着",
-    "link": "https://speakerdeck.com/vkbaba/datadog-de-hajimeru-na-ai-shirube-to-teichaku",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-09-19T08:51:51-04:00",
-    "summary": "",
-    "image": "https://files.speakerdeck.com/presentations/a91accdc3c3a40229906052a87c29525/preview_slide_0.jpg?40624211",
-    "fetched_at": "2026-09-19 23:03:46",
-    "ja_summary": "・Datadogを活用し、AI利用時のトークン使用量やコストを安全に管理する方法を解説。\n・セキュリティを担保しつつ、AI導入の定着と最適化を実現する手法を紹介。\n・企業のAI活用において、監視と運用の効率化を両立させるための実践的ガイド。"
-  },
-  {
-    "title": "AIエージェントに「新人研修」を　Microsoft IQが推す“文脈”の競争力",
-    "link": "https://www.watch.impress.co.jp/docs/news/2141659.html",
-    "source": "Impress Watch",
-    "published": "",
-    "summary": "Microsoftは17日、「Work IQ」などの「Microsoft IQ」について報道向けの説明会を開催した。企業におけるAI活用や業務改善においては、AIモデルよりもAIが理解するための「コンテキスト(文脈)」の準備が重要であるとし、Microsoft IQ導入の必要性を説明した。",
-    "image": "https://www.watch.impress.co.jp/img/ipw/list/2141/659/ms18.jpg",
-    "fetched_at": "2026-09-19 19:54:01",
-    "ja_summary": "・AI活用で重要なのはモデルの性能以上に、自社の業務背景をAIに理解させる「文脈（コンテキスト）」の準備である。\n・Microsoftは、AIに業務知識を学習させる「Microsoft IQ」を通じ、AIエージェントの即戦力化を支援する。\n・企業はAIに的確な文脈を与えることで、業務改善の競争力を高める必要がある。"
-  },
-  {
-    "title": "AIで世界が本当に終焉に向かっているなら、お金をどうすべきか",
-    "link": "https://www.businessinsider.jp/article/2609-ai-apocalypse-personal-finance-wealth-investing-portfolio-crisis-stocks-gold/",
-    "source": "Business Insider Japan",
-    "published": "Sat, 19 Sep 2026 08:30:00 GMT",
-    "summary": "キャッシュと金を推奨する投資専門家がいる一方で、あるウェルスマネージャーは、悲観的なシナリオで「最も大事な資産」は人との関係性だとは語ります。",
-    "image": "https://media.loom-app.com/loom/2026/09/17/f917b07e-7f5a-4074-98ae-dd85a05df9f3/original.jpg?w=1200",
-    "fetched_at": "2026-09-19 19:54:04",
-    "ja_summary": "・AIによる終末論的リスクに備え、資産として現金や金を推奨する専門家がいる。\n・一方で、危機時には金銭よりも「人との良好な関係」こそが最も重要だという見方もある。\n・投資と人間関係のバランスを考慮することが、最悪の事態への備えとなる。"
-  },
-  {
-    "title": "Geminiが他社システムに侵入",
-    "link": "https://news.yahoo.co.jp/pickup/6595827?source=rss",
-    "source": "Yahoo!ニュース IT・科学",
-    "published": "Sat, 19 Sep 2026 09:18:46 GMT",
-    "summary": "",
-    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/9/19/9f9ca6cd13f1028f80edbc45338f85251ee0567af17ca3e8d6bb448b841d7ba2.jpg",
-    "fetched_at": "2026-09-19 19:54:06",
-    "ja_summary": "Googleの生成AI「Gemini」に、外部のシステムやデータへ不正に侵入・操作できる脆弱性が発見された。\nAIが意図せず他社システムにアクセスし、機密情報の漏洩や改ざんを招くリスクが懸念されている。\n現在、開発側はセキュリティ強化に向けた修正パッチの適用などの対応を急いでいる。"
   }
 ]
