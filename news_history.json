@@ -1,5 +1,115 @@
 [
   {
+    "title": "〈動画付き最速レビュー〉新Mac Studioとオープンウェイトモデルが変える常識…｢AIを借りなくてもいい｣時代の勝ち筋 | ビジネス | 東洋経済オンライン",
+    "link": "https://toyokeizai.net/articles/-/958808?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+    "source": "東洋経済オンライン",
+    "published": "Mon, 21 Sep 2026 22:00:00 +0900",
+    "summary": "企業のAI導入は｢借りる｣から｢所有する｣時代へ――アップルの新型Mac Studioが､その大きな転換点となりつつあります。",
+    "image": "https://tk.ismcdn.jp/mwimgs/5/2/1200w/img_524cf96081abc8437ed587c6b2a8f1a8286147.jpg?nextgen=false",
+    "fetched_at": "2026-09-22 03:39:19",
+    "ja_summary": "・AI活用が「クラウド利用」から「自社機での所有・実行」へ移行する転換点にある。\n・新型Mac Studioの登場により、社内で完結するAI運用が現実的になった。\n・外部依存を減らす「所有型」が、今後のビジネスの新たな勝ち筋となる。"
+  },
+  {
+    "title": "【書評】LLMアプリケーション評価駆動開発 継続的に改善し運用していくための実践知",
+    "link": "https://note.com/npaka/n/n2655c374416b",
+    "source": "note (npaka)",
+    "published": "Tue, 15 Sep 2026 08:45:22 +0900",
+    "summary": "<p id=\"6622301d-60e2-4ae0-ae5c-8933a990eed4\" name=\"6622301d-60e2-4ae0-ae5c-8933a990eed4\">「<strong>LLMアプリケーション</strong>」とは、大規模言語モデル（LLM）を組み込んだアプリケーションです。チャットボット、RAGによる検索、文章の要約・分類、AIエージェントなどが該当します。</p><p id=\"42d4d55f-b142-477c-a0a1-519022776a61\" name=\"42d4d55f-b142-477c-a0a1-519022776a61\">LLMアプリケーションの出力は毎回同じとは限らず、自然に見えても、誤りを含んでいたり、ユーザーの目的に合っていなかったりします。そのため、内容の正確さや要求との一致、サービスとしての品質を「<strong>評価すること</strong>」が重要になります。</p><br /><a href=\"https://note.com/npaka/n/n2655c374416b\">続きをみる</a>",
+    "image": "https://assets.st-note.com/production/uploads/images/313813483/rectangle_large_type_2_8793fc705409b1f8a98a18e3454be9fa.jpeg?width=800",
+    "fetched_at": "2026-09-22 03:39:36",
+    "ja_summary": "・LLMアプリは出力の不確実性が高いため、品質維持には「評価」の仕組みが不可欠である。\n・本書は、LLMアプリの精度や目的適合性を継続的に改善・運用するための実践手法を解説している。\n・開発者が直面する品質管理の課題を解消し、信頼性の高いAIシステムを構築するための指針となる。"
+  },
+  {
+    "title": "Cognition AI、ソフト開発エージェント「Devin」を「macOS」に対応",
+    "link": "https://japan.zdnet.com/article/35252796/",
+    "source": "ZDNET Japan",
+    "published": "",
+    "summary": "Cognition AIは、ソフトウェア開発エージェント基盤「Devin」の「macOS」への対応を開始した。macOSや「iOS」向けの開発をエンドツーエンドで実行できる。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35252796/\"><img src=\"https://japan.zdnet.com/storage/2026/09/18/a8a42eecea6204b604ba2ef16c9ad51e/t/184/138/d/devin-mac-adaption_l.jpg\" /></a>",
+    "image": "https://japan.zdnet.com/storage/2026/09/18/a8a42eecea6204b604ba2ef16c9ad51e/t/184/138/d/devin-mac-adaption_l.jpg",
+    "fetched_at": "2026-09-22 03:39:42",
+    "ja_summary": "AIソフトウェア開発エージェント「Devin」がmacOSに対応しました。\nこれにより、macOSおよびiOS向けの開発作業をエンドツーエンドで自動化できます。"
+  },
+  {
+    "title": "99％がAIでストレージ需要増を予測、十分な準備ができている企業は38％--シーゲート調査",
+    "link": "https://japan.zdnet.com/article/35252790/",
+    "source": "ZDNET Japan",
+    "published": "",
+    "summary": "Seagate Technologyは、企業のAI活用を支えるデータインフラの準備状況を調査した「Data Infrastructure Readiness Report 2026」を発表した。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35252790/\"><img src=\"https://japan.zdnet.com/storage/2026/04/15/06e6c6c309d820a441acf318671b6e27/t/184/138/d/260415_as_1280_921354888.jpg\" /></a>",
+    "image": "https://japan.zdnet.com/storage/2026/04/15/06e6c6c309d820a441acf318671b6e27/t/184/138/d/260415_as_1280_921354888.jpg",
+    "fetched_at": "2026-09-22 03:39:42",
+    "ja_summary": "・企業の99％がAI活用によるデータストレージ需要の増加を予測。\n・一方で、AIに対応したデータインフラの準備が完了している企業はわずか38％にとどまる。\n・急増するデータ需要に対し、多くの企業でインフラ構築が課題となっている。"
+  },
+  {
+    "title": "【終了】「ガバメントAI 源内OSS Ver 2.0の計画に関するオンライン説明会」の開催について（ご案内）",
+    "link": "https://www.digital.go.jp/news/b6d94913-60d0-450d-ab46-8e89659f1fc6",
+    "source": "デジタル庁",
+    "published": "Fri, 18 Sep 2026 15:00:00 +0900",
+    "summary": "",
+    "image": "https://www.digital.go.jp/assets/contents/node/information/field_thumbnail_image/b6d94913-60d0-450d-ab46-8e89659f1fc6/dee92357/20260723_04.png",
+    "fetched_at": "2026-09-22 03:39:44",
+    "ja_summary": "・「ガバメントAI 源内OSS Ver 2.0」の開発計画に関するオンライン説明会は終了しました。\n・本件に関する最新情報や資料については、公式サイト等をご確認ください。"
+  },
+  {
+    "title": "ガバメントAI 源内OSS Ver 2.0の計画に関する全国オンライン説明会を開催しました",
+    "link": "https://www.digital.go.jp/news/e525db0b-eac1-49e2-9ef4-6d2e24208498",
+    "source": "デジタル庁",
+    "published": "Fri, 18 Sep 2026 15:00:00 +0900",
+    "summary": "",
+    "image": "https://www.digital.go.jp/themes/custom/gov_theme_da_2023/assets/images/ogp.png",
+    "fetched_at": "2026-09-22 03:39:44",
+    "ja_summary": "・政府の次期AI基盤「ガバメントAI 源内OSS Ver 2.0」の開発計画に向けた全国オンライン説明会を開催。\n・行政DXの加速を目指し、オープンソースを活用したAI環境の構築方針を共有。\n・全国の自治体・関係者に対し、今後の導入ロードマップと利活用方針を提示。"
+  },
+  {
+    "title": "企画競争：令和8年度 政府情報システムの設計開発及び運用保守における内部開発に対するAI有用性の調査研究事業を掲載しました",
+    "link": "https://www.digital.go.jp/procurement",
+    "source": "デジタル庁",
+    "published": "Fri, 18 Sep 2026 15:00:00 +0900",
+    "summary": "",
+    "image": "https://www.digital.go.jp/themes/custom/gov_theme_da_2023/assets/images/ogp.png",
+    "fetched_at": "2026-09-22 03:39:44",
+    "ja_summary": "・政府が次年度以降の情報システム開発でAIを活用するための調査研究を開始\n・システム開発・運用保守の工程にAIを導入する際の有用性を評価\n・業務効率化や品質向上に向けた新たな調達・運用モデルの検討が目的"
+  },
+  {
+    "title": "Advisory Group on Mathematics and Artificial Intelligence",
+    "link": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+    "source": "OpenAI",
+    "published": "Mon, 21 Sep 2026 12:00:00 GMT",
+    "summary": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/11yqmSO7D1dfYveBnOdmJt/e451277f37f82f51d6d20f2b86826590/advisory-group-on-mathematics-and-artificial-intelligence-seo.png?w=1600&amp;h=900&amp;fit=fill",
+    "fetched_at": "2026-09-22 03:39:44",
+    "ja_summary": "OpenAIが数学とAIの専門家による諮問委員会を設立。\nAIによる最新の研究成果を検証し、適切に発信するための体制を強化する。\nAI開発の安全性と透明性を高めることが狙い。"
+  },
+  {
+    "title": "Building standards for the next phase of AI",
+    "link": "https://openai.com/index/building-standards-next-phase-ai",
+    "source": "OpenAI",
+    "published": "Mon, 21 Sep 2026 10:00:00 GMT",
+    "summary": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/4qekYv7Z15dtjQYpfZBJFg/75f652d9e84b2e56042c3baeb7c243db/building-shared-standards-next-phase-ai-seo__2_.png?w=1600&amp;h=900&amp;fit=fill",
+    "fetched_at": "2026-09-22 03:39:45",
+    "ja_summary": "・OpenAIがAIの安全性向上のため、国際的な共通基準の策定を提唱。\n・評価手法や報告義務の統一、統治体制の確立による協調を呼びかけ。\n・次世代AIを見据え、世界規模でのガイドライン整備を目指す。"
+  },
+  {
+    "title": "Expanding OpenAI Academy with new learning paths",
+    "link": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
+    "source": "OpenAI",
+    "published": "Mon, 21 Sep 2026 07:00:00 GMT",
+    "summary": "Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/5SPnjyTz9kRLLejGLGKq3e/4d59d634845854176234cd0cdefcf3b4/expanding-openai-academy-with-new-learning-paths-seo.png?w=1600&amp;h=900&amp;fit=fill",
+    "fetched_at": "2026-09-22 03:39:45",
+    "ja_summary": "OpenAI Academyが学習プログラムを拡充。\n従業員、開発者、リーダー、教育関係者、学生向けに特化したAIスキル習得コースを提供。\n実践的なAI活用能力の育成と証明を支援する。"
+  },
+  {
+    "title": "How V7 gives AI agents institutional memory",
+    "link": "https://openai.com/index/v7",
+    "source": "OpenAI",
+    "published": "Mon, 21 Sep 2026 00:00:00 GMT",
+    "summary": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/7GdeQ1K1dmN9lKhNw73MmP/e494c0e02e6370e338a3740aee65fbfd/V7-seo-16x9-option-a.png?w=1600&amp;h=900&amp;fit=fill",
+    "fetched_at": "2026-09-22 03:39:46",
+    "ja_summary": "・V7がAIエージェントに社内情報を記憶させるシステムを開発\n・散在する社内文書をAIが参照可能な知識ベースに変換\n・AIが根拠（ソース）を明示しながら複雑な業務を自動遂行可能に"
+  },
+  {
     "title": "BOOX、高速化した10.3型カラー電子ペーパータブ「NoteAir6C」",
     "link": "https://www.watch.impress.co.jp/docs/news/2142553.html",
     "source": "Impress Watch",
@@ -888,115 +998,5 @@
     "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/9/20/c0242f00714c2571fa7d2a1c2f3ff53f870ac595856398ef48c8d157405531b4.jpg",
     "fetched_at": "2026-09-20 08:32:19",
     "ja_summary": "・トランプ氏がAI技術の軍事利用を強化するため「AIフォース」の創設を提唱。\n・AI分野での中国との覇権争いに打ち勝つことを狙いとした国家戦略。\n・国防におけるAIの重要性を高め、米軍の近代化を加速させる方針。"
-  },
-  {
-    "title": "Sunoに匹敵する音楽生成AI「YuE2」、膨大な論文から“まだ誰も知らない科学的関係”を予測するソニー製AI「Hakken」など生成AI技術5つを解説（生成AIウィークリー）",
-    "link": "https://www.techno-edge.net/article/2026/09/20/5509.html",
-    "source": "TechnoEdge",
-    "published": "Sun, 20 Sep 2026 08:16:02 +0900",
-    "summary": "「生成AIウィークリー」（第160回）は、Suno v5／v6に匹敵する音楽生成AI「YuE2」や、過去の論文から未来の発見を予測するAI「Hakken」を取り上げます。",
-    "image": "https://www.techno-edge.net/imgs/rss/34329.png",
-    "fetched_at": "2026-09-20 08:32:25",
-    "ja_summary": "・音楽生成AI「YuE2」がSunoの強力な対抗馬として登場。\n・ソニーのAI「Hakken」が論文解析から科学的発見を予測。\n・注目の生成AI技術5選を解説する最新トレンド情報のまとめ。"
-  },
-  {
-    "title": "｢ルポライター｣という\"蔑称\"を名乗り続ける鎌田慧の矜持――見つめてきたのは｢ちいさな一人｣ | ライフ | 東洋経済オンライン",
-    "link": "https://toyokeizai.net/articles/-/958384?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-    "source": "東洋経済オンライン",
-    "published": "Sun, 20 Sep 2026 06:00:00 +0900",
-    "summary": "ルポルタージュという現場主義の報道手法に人生を捧げ､｢ルポライター｣と名乗り続ける鎌田慧さん。重工業から公害､教育や原発問題まで､弱き者の声に耳を傾けてきた88歳の歩みとは。AI時代に｢現地で歩き､…",
-    "image": "https://tk.ismcdn.jp/mwimgs/8/1/1200w/img_81659ff43e64e4fbb2148d438c448c331001281.jpg?nextgen=false",
-    "fetched_at": "2026-09-20 06:34:18",
-    "ja_summary": "・「ルポライター」として長年、公害や原発など弱者の現場に寄り添い続けてきた鎌田慧氏の信念を紹介。\n・AI時代においても、現地を歩き「ちいさな一人」の声を聞く報道の重要性を強調している。\n・88歳となった今も、現場主義を貫くジャーナリストとしての矜持が綴られている。"
-  },
-  {
-    "title": "クラウドフレア、AI学習拒否・検索OKを選べる新設定",
-    "link": "https://www.watch.impress.co.jp/docs/news/2142146.html",
-    "source": "Impress Watch",
-    "published": "",
-    "summary": "CDN大手のCloudflare(クラウドフレア)は、AIによるコンテンツ収集を制御する取組みにおいて、AI学習のみを拒否する新たな設定「Disallow AI Training」の提供を開始した。この新機能と推奨設定により、出版社やメディア企業などは、「検索」「AI学習」「AIエージェント」ごとに、自社コンテンツの使われ方を個別に指定できるようになる。またクローラー側でも、この指定を考慮した仕組みの提供が始まっている。",
-    "image": "https://www.watch.impress.co.jp/img/ipw/list/2142/146/01.jpg",
-    "fetched_at": "2026-09-20 04:26:28",
-    "ja_summary": "・CloudflareがAI学習のみを拒否できる新設定「Disallow AI Training」を提供開始。\n・検索、AI学習、AIエージェントの用途ごとに、コンテンツ利用の可否を個別設定可能。\n・出版社やメディアが自社情報の使われ方をより細かく制御できる仕組みを整備。"
-  },
-  {
-    "title": "Claude Code のスキルを47本運用して測った、7つのこと",
-    "link": "https://qiita.com/suwa_nobu/items/08e3bd535dbc79e0c738",
-    "source": "Qiita (Popular)",
-    "published": "2026-09-14T09:52:45+09:00",
-    "summary": "\nClaude Code のスキルは、**入れるだけなら1分**で終わります。公開されているものも数多くあります。\n\nそうなると、やることは決まっています。**片っ端から入れる**のです。\n\n自作47本を運用しながら1ヶ月ほど測った結果、**増やすほど呼ばれなくなる**ことが分かりました。\n重くなるからではありません。**入れたスキルの説明が、黙って消えるから**です。\n\nこの記事は、これまで公開",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0NDMwNjExJTJGYTRlNGFiZDZjNWNkZmM5NzkzMTk2ZmUwZDFjZjYyMGY1ZWYxMTY5NCUyRnhfbGFyZ2UucG5nJTNGMTc4NTI4OTU5Nj9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NGE5ZmNiZmE4OTM5NWU1MWY1N2FiYjJkYzI1ZTFmZDQ%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYyMDc3NzA2NTMzODkzMmUyMWVjMjk3MjI5ZDVkZmI5NDk5MWI5YzFhJTJGb3JpZ2luYWwuanBnJTNGMTc2OTAwMDk3MD9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz1lYjc1ZTQzMzAzYTdlNTkzNDQ4Yjc4NDZiMjljYTgxZA%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D237198914e54e0e7e727d16c4cfb7823?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9Q2xhdWRlJTIwQ29kZSUyMCVFMyU4MSVBRSVFMyU4MiVCOSVFMyU4MiVBRCVFMyU4MyVBQiVFMyU4MiU5MjQ3JUU2JTlDJUFDJUU5JTgxJThCJUU3JTk0JUE4JUUzJTgxJTk3JUUzJTgxJUE2JUU2JUI4JUFDJUUzJTgxJUEzJUUzJTgxJTlGJUUzJTgwJTgxNyVFMyU4MSVBNCVFMyU4MSVBRSVFMyU4MSU5MyVFMyU4MSVBOCZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTg3NGJiOTIwZWQ4ODQ5ZmI5ZGQxN2ZjOGMyNzY5MTRj&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBzdXdhX25vYnUmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1iZTVkNGQ3ZjgwNDY4YWQwMGMxZTkyMjA3YzFjYWMxMw&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=5qCq5byP5Lya56S-SlFJVA&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=37b3eec74c20a17481fc4b234567d10c",
-    "fetched_at": "2026-09-20 04:26:49",
-    "ja_summary": "・Claude Codeのスキルを47本導入して検証した結果、数を増やすほど呼ばれなくなることが判明。\n・原因は動作の重さではなく、スキルが増えることでシステム上の説明文が消失するため。\n・むやみにスキルを追加するのではなく、適切な管理と取捨選択が必要である。"
-  },
-  {
-    "title": "元ヤフーエンジニア社長が考える、AIに仕事が奪われないと思う理由",
-    "link": "https://qiita.com/ryoheiiwamoto/items/0134c989bb86519eec2e",
-    "source": "Qiita (Popular)",
-    "published": "2026-09-09T11:31:41+09:00",
-    "summary": "\n\n\n## 対象者\n\n・AIの進化を見ていて、正直この仕事を選んで大丈夫なのか不安な方\n・「AI時代、エンジニアってオワコンなのかな」と将来に迷っている方\nに読んでいただけると嬉しいです！\n<br>\n\nこんにちは、元Yahooエンジニアで、株式会社PRUMの代表をしている岩本です。\nhttps://prum.jp/\n<br>\nChatGPTやClaudeがどんどん賢くなって、コードもエラー対応も驚",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY2Njg5NTAlMkZlYzkxNGM0M2Y1MmZhOGVmMmM1ZDYzZWY2ZDI2NmNlMjAxMTMyMmM1JTJGeF9sYXJnZS5wbmclM0YxNzM4NTQ5NzE0P2l4bGliPXJiLTQuMS4xJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz1hZTcyYzlkNDc0ODA1NWRiODg3MjU1MTg3YjYwNzE3Mg%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Dd52b79a6493a8f7d3599dbe8fc65df0f?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUU1JTg1JTgzJUUzJTgzJUE0JUUzJTgzJTk1JUUzJTgzJUJDJUUzJTgyJUE4JUUzJTgzJUIzJUUzJTgyJUI4JUUzJTgzJThCJUUzJTgyJUEyJUU3JUE0JUJFJUU5JTk1JUI3JUUzJTgxJThDJUU4JTgwJTgzJUUzJTgxJTg4JUUzJTgyJThCJUUzJTgwJTgxQUklRTMlODElQUIlRTQlQkIlOTUlRTQlQkElOEIlRTMlODElOEMlRTUlQTUlQUElRTMlODIlOEYlRTMlODIlOEMlRTMlODElQUElRTMlODElODQlRTMlODElQTglRTYlODAlOUQlRTMlODElODYlRTclOTAlODYlRTclOTQlQjEmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1mOTYyZjc0ZWMyMTcxNzU4ZDUwYTI0ZjVmZTdjNmY0NA&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDByeW9oZWlpd2Ftb3RvJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9Y2Q0NTMxYTI2Yzk3MDgzYzhhZjVjYmZmZDg1ZjcyYTc&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=ac60594c5a2e9679e8daaba355443b86",
-    "fetched_at": "2026-09-20 04:26:51",
-    "ja_summary": "・AIの進化で仕事が奪われる不安に対し、元ヤフーエンジニアが自身の視点で「エンジニアはオワコンではない」と主張。\n・AIは「作業」を効率化するツールであり、課題を定義し解決策を設計する「エンジニアの本質的な仕事」は代替されないと解説。\n・変化を恐れず、AIを道具として使いこなすことで、エンジニアの価値はむしろ高まっていくと強調。"
-  },
-  {
-    "title": "Anthropic がコマース用エージェントをオープンソース化した",
-    "link": "https://qiita.com/suwa_nobu/items/1c0f27da8eb685f6ba05",
-    "source": "Qiita (Popular)",
-    "published": "2026-09-07T13:31:43+09:00",
-    "summary": "\n9月2日、Anthropic が **[anthropics/commerce-agents](https://github.com/anthropics/commerce-agents)** を公開しました。**Apache 2.0** です。\n\n「Claude でショッピングエージェントを作るときの参考実装」で、**動くコードがそのまま入っています。** 何が入っているのかを整理します。\n\n",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0NDMwNjExJTJGYTRlNGFiZDZjNWNkZmM5NzkzMTk2ZmUwZDFjZjYyMGY1ZWYxMTY5NCUyRnhfbGFyZ2UucG5nJTNGMTc4NTI4OTU5Nj9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NGE5ZmNiZmE4OTM5NWU1MWY1N2FiYjJkYzI1ZTFmZDQ%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYyMDc3NzA2NTMzODkzMmUyMWVjMjk3MjI5ZDVkZmI5NDk5MWI5YzFhJTJGb3JpZ2luYWwuanBnJTNGMTc2OTAwMDk3MD9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz1lYjc1ZTQzMzAzYTdlNTkzNDQ4Yjc4NDZiMjljYTgxZA%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D237198914e54e0e7e727d16c4cfb7823?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9QW50aHJvcGljJTIwJUUzJTgxJThDJUUzJTgyJUIzJUUzJTgzJTlFJUUzJTgzJUJDJUUzJTgyJUI5JUU3JTk0JUE4JUUzJTgyJUE4JUUzJTgzJUJDJUUzJTgyJUI4JUUzJTgyJUE3JUUzJTgzJUIzJUUzJTgzJTg4JUUzJTgyJTkyJUUzJTgyJUFBJUUzJTgzJUJDJUUzJTgzJTk3JUUzJTgzJUIzJUUzJTgyJUJEJUUzJTgzJUJDJUUzJTgyJUI5JUU1JThDJTk2JUUzJTgxJTk3JUUzJTgxJTlGJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9ZDJhNzhhNjkyNWQ1YTM4NjQ0MDA5ZWE1MjhmYTIzMWQ&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBzdXdhX25vYnUmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1iZTVkNGQ3ZjgwNDY4YWQwMGMxZTkyMjA3YzFjYWMxMw&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=5qCq5byP5Lya56S-SlFJVA&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=836b2c843ee56a93270c9687f9487344",
-    "fetched_at": "2026-09-20 04:26:53",
-    "ja_summary": "AI企業Anthropicが、ショッピングエージェント開発のための参考実装をオープンソースとして公開しました。\nApache 2.0ライセンスで提供され、Claudeを活用したエージェント構築の具体的なコード例が含まれています。\nこれにより、開発者はすぐにエージェント開発に着手できます。"
-  },
-  {
-    "title": "Claude Fable 5.1、キャッシュ読みは4分の1。ただし tool_choice が400を返す",
-    "link": "https://qiita.com/suwa_nobu/items/c0f5b86dfb8a3106cbaf",
-    "source": "Qiita (Popular)",
-    "published": "2026-09-07T13:31:47+09:00",
-    "summary": "\n9月1日に Claude Fable 5.1 が出ました。**価格表で変わったのは1行だけです。**\n\n```\n入力       $10     →  $10      据え置き\n出力       $50     →  $50      据え置き\n5m 書込    $12.50  →  $12.50   据え置き\n1h 書込    $20     →  $20      据え置き\nキャッシュ読み",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0NDMwNjExJTJGYTRlNGFiZDZjNWNkZmM5NzkzMTk2ZmUwZDFjZjYyMGY1ZWYxMTY5NCUyRnhfbGFyZ2UucG5nJTNGMTc4NTI4OTU5Nj9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NGE5ZmNiZmE4OTM5NWU1MWY1N2FiYjJkYzI1ZTFmZDQ%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYyMDc3NzA2NTMzODkzMmUyMWVjMjk3MjI5ZDVkZmI5NDk5MWI5YzFhJTJGb3JpZ2luYWwuanBnJTNGMTc2OTAwMDk3MD9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz1lYjc1ZTQzMzAzYTdlNTkzNDQ4Yjc4NDZiMjljYTgxZA%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D237198914e54e0e7e727d16c4cfb7823?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9Q2xhdWRlJTIwRmFibGUlMjA1LjElRTMlODAlODElRTMlODIlQUQlRTMlODMlQTMlRTMlODMlODMlRTMlODIlQjclRTMlODMlQTUlRTglQUElQUQlRTMlODElQkYlRTMlODElQUY0JUU1JTg4JTg2JUUzJTgxJUFFMSVFMyU4MCU4MiVFMyU4MSU5RiVFMyU4MSVBMCVFMyU4MSU5NyUyMHRvb2xfY2hvaWNlJTIwJUUzJTgxJThDNDAwJUUzJTgyJTkyJUU4JUJGJTk0JUUzJTgxJTk5JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9MzU5ZWIzODEwM2Y2M2ZkODE1NDQwZjFmNjk3MzJhMTc&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBzdXdhX25vYnUmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1iZTVkNGQ3ZjgwNDY4YWQwMGMxZTkyMjA3YzFjYWMxMw&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=5qCq5byP5Lya56S-SlFJVA&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=0551115c38e7b64b495a16a4ad424b7c",
-    "fetched_at": "2026-09-20 04:26:53",
-    "ja_summary": "・Claude Fable 5.1がリリースされ、キャッシュ読み取りコストが従来の4分の1に値下げ。\n・その他の料金体系や主要な入出力コストは据え置き。\n・ただし、API利用時に「tool_choice」機能でエラー（400）が発生する不具合を確認。"
-  },
-  {
-    "title": "Microsoft Wordで「ChatGPT」が利用可能に　文書の作成や編集に対応",
-    "link": "https://www.watch.impress.co.jp/docs/news/2142062.html",
-    "source": "Impress Watch",
-    "published": "",
-    "summary": "OpenAIは、Microsoft Word上でChatGPTを利用できる「ChatGPT for Word」を提供開始した。無料プランを含む、すべてのプランで利用できる。Microsoft MarketplaceからChatGPTのアドインをインストールし、ChatGPTアカウントでサインインして利用する。",
-    "image": "https://www.watch.impress.co.jp/img/ipw/list/2142/062/1.jpg",
-    "fetched_at": "2026-09-20 02:15:52",
-    "ja_summary": "・Microsoft WordでChatGPTが利用可能に。\n・アドインをインストールし、全プランのユーザーが利用可能。\n・文書の作成や編集作業をWord上から直接ChatGPTで効率化できる。"
-  },
-  {
-    "title": "「空飛ぶ基地局」HAPS、スマホで下り最大36Mbps　ソフトバンクが実測値を公開",
-    "link": "https://japan.cnet.com/article/35252794/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "ソフトバンクは9月18日、成層圏を飛行する「空飛ぶ基地局」HAPSとスマートフォンの間の通信速度を、報道向け説明会で明らかにした。8月に高知県室戸市の上空で実施した試験で、最大で下り36Mbps、上り4.8Mbpsを記録したという。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35252794/\"><img src=\"https://japan.cnet.com/storage/thumbnails/thumb-184xauto-1353447-file.jpg\" /></a>",
-    "image": "https://japan.cnet.com/storage/thumbnails/thumb-184xauto-1353447-file.jpg",
-    "fetched_at": "2026-09-20 02:15:56",
-    "ja_summary": "・ソフトバンクが成層圏を飛ぶ「空飛ぶ基地局（HAPS）」の通信速度を公開。\n・8月の試験で、スマホ通信において下り最大36Mbps、上り4.8Mbpsを記録。\n・広域通信や災害時の接続手段として実用化に向けた検証が進んでいる。"
-  },
-  {
-    "title": "ドコモ、iPhone 18 Proの「残クレ」負担額を再値下げ　6.7万円→5.5万円に",
-    "link": "https://japan.cnet.com/article/35252787/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "NTTドコモは9月17日、「iPhone 18 Pro」256GBモデルをドコモオンラインショップで買う際の分割払いの条件を再び変更した。残価設定型の「いつでもカエドキプログラム」で23か月目に端末を返却した場合、MNPでは負担額が6万6990円から4万4814円に下がる。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35252787/\"><img src=\"https://japan.cnet.com/storage/thumbnails/thumb-184xauto-1353429-file.jpg\" /></a>",
-    "image": "https://japan.cnet.com/storage/thumbnails/thumb-184xauto-1353429-file.jpg",
-    "fetched_at": "2026-09-20 02:15:56",
-    "ja_summary": "ドコモは「iPhone 18 Pro」256GBモデルの端末購入プログラムの条件を改定した。\n他社からの乗り換え（MNP）利用時、2年後の実質負担額が約4.5万円に引き下げられる。\nオンラインショップでの購入を対象に、より安価に利用できるようになった。"
-  },
-  {
-    "title": "【書評】 Raspberry PiとPythonでつくる AIアプリ開発実践ガイド",
-    "link": "https://note.com/npaka/n/nf0d29bcd8170",
-    "source": "note (npaka)",
-    "published": "Thu, 17 Sep 2026 14:06:15 +0900",
-    "summary": "<p id=\"517722cd-f8f8-44a5-9046-f12152933280\" name=\"517722cd-f8f8-44a5-9046-f12152933280\">「<strong>Raspberry Pi</strong>」は、電子工作やプログラミング学習の定番となっている小型コンピュータです。LEDやセンサー、モーター、カメラなどを接続し、Pythonから動かせます。現在では、ChatGPTや画像認識AIと組み合わせたアプリも作れます。</p><p id=\"2dca9bed-63a2-42c3-8cb0-3d3463a6f68e\" name=\"2dca9bed-63a2-42c3-8cb0-3d3463a6f68e\">興味はあっても、「部品や配線が難しそう」と感じ、はじめようか迷っている人も多いのではないでしょうか。</p><br /><a href=\"https://note.com/npaka/n/nf0d29bcd8170\">続きをみる</a>",
-    "image": "https://assets.st-note.com/production/uploads/images/314576613/rectangle_large_type_2_a5c2b48bc647f8c5063c764426124af7.jpeg?width=800",
-    "fetched_at": "2026-09-20 02:15:56",
-    "ja_summary": "・Raspberry PiとPythonを用いた、AIアプリ開発の実践ガイドを紹介。\n・カメラやセンサーを組み合わせ、ChatGPT等のAIを活用した開発手法を解説。\n・電子工作に不慣れな初心者でも、無理なくAIプログラミングを学べる一冊。"
   }
 ]
