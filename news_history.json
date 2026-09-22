@@ -1,5 +1,65 @@
 [
   {
+    "title": "「スキル」だけでは見抜けない、“デキるPM”をどう選ぶか　企業が実践すべき5つの評価手法",
+    "link": "https://www.itmedia.co.jp/business/articles/2609/21/news016.html",
+    "source": "ITmedia ビジネス",
+    "published": "Mon, 21 Sep 2026 10:00:00 +0900",
+    "summary": "年々深刻化するIT人材不足ですが、近年はAIの台頭やDX需要の高まりにより、上流工程で意思決定を担える人材の不足が一層顕著になってきました。なかでも特に深刻なのが、プロジェクトマネジャーやプロダクトマネジャーといった中間マネジメント層です。",
+    "image": "https://image.itmedia.co.jp/business/articles/2609/21/cover_news016.jpg",
+    "fetched_at": "2026-09-23 03:51:06",
+    "ja_summary": "・IT人材不足により、特に意思決定を担うPM層の確保が困難になっている。\n・スキル評価だけではPMの適性を見極めることは難しい。\n・企業は、経験や素養を多角的に分析する5つの評価手法を導入すべきである。"
+  },
+  {
+    "title": "AIに「全部よろしく」で迷走？　うまく使う人が実践する「仕事の分け方」",
+    "link": "https://www.itmedia.co.jp/business/articles/2609/21/news001.html",
+    "source": "ITmedia ビジネス",
+    "published": "Mon, 21 Sep 2026 08:30:00 +0900",
+    "summary": "AIに「一発で全部やって」と頼むと、かえって修正ややり直しが増えてしまうことも。AIを使いこなすには、仕事を細かく分解し、段階的に指示することが重要だ。効率と精度を高める「タスク分解」の方法を紹介する。",
+    "image": "https://image.itmedia.co.jp/business/articles/2609/21/cover_news001.jpg",
+    "fetched_at": "2026-09-23 03:51:07",
+    "ja_summary": "・AIへの丸投げは修正が増える原因となるため避ける。\n・仕事を細かく分解し、段階的に指示を出すことが重要。\n・「タスク分解」を実践することで、AIの効率と精度が向上する。"
+  },
+  {
+    "title": "Claude Opus 5.5登場　Fable 5.1並みの性能をOpus 5より40%安価に",
+    "link": "https://www.watch.impress.co.jp/docs/news/2142619.html",
+    "source": "Impress Watch",
+    "published": "",
+    "summary": "Anthropicは22日(米国時間)、最新のAIモデル「Claude Opus 5.5」を提供開始した。ほとんどの作業において最上位モデル「Fable 5.1」と同等の性能を発揮し、コストは現行の「Opus 5」よりも40%安くなるという。Claude上ではすでに利用可能となっているほか、Amazon Web Services、Google Cloud、Microsoft Azureなどでも展開される。",
+    "image": "https://www.watch.impress.co.jp/img/ipw/list/2142/619/c01.jpg",
+    "fetched_at": "2026-09-23 03:51:17",
+    "ja_summary": "・新モデル「Claude Opus 5.5」が登場。\n・最上位「Fable 5.1」並みの性能を維持しつつ、コストを40%削減。\n・Claudeのほか、AWSやGoogle Cloud、Azure等の主要プラットフォームでも利用可能。"
+  },
+  {
+    "title": "ひょっとしてローカル最速？　「詳細記述スパース」でMiniMax H3前人未到の3ステップ超えできちゃったかも（CloseBox）",
+    "link": "https://www.techno-edge.net/article/2026/09/21/5511.html",
+    "source": "TechnoEdge",
+    "published": "Mon, 21 Sep 2026 13:56:05 +0900",
+    "summary": "AI動画がさらに最大で1.5倍速くなりました。MiniMax H3の現在最速である3ステップの上に「スパースアテンション」を重ねることで。",
+    "image": "https://www.techno-edge.net/imgs/rss/34367.png",
+    "fetched_at": "2026-09-23 03:51:29",
+    "ja_summary": "・AI動画生成モデル「MiniMax H3」が、「詳細記述スパース」技術の活用で従来より最大1.5倍高速化。\n・3ステップ生成という業界最速水準をさらに上回る性能を実現した可能性。\n・ローカル環境における動画生成の効率化が大きく前進。"
+  },
+  {
+    "title": "Priorities and principles for effective third party assessments",
+    "link": "https://openai.com/index/priorities-principles-third-party-assessments",
+    "source": "OpenAI",
+    "published": "Tue, 22 Sep 2026 00:00:00 GMT",
+    "summary": "OpenAI outlines priorities and principles for rigorous, secure, and independent third-party AI safety assessments of frontier models and safeguards.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/6gxDxFoqp9XAfelckRh7eX/e6a570fc70dc10f05000e4010c2b9694/priorities-and-principles-for-effective-third-party-assessments-seo.png?w=1600&amp;h=900&amp;fit=fill",
+    "fetched_at": "2026-09-23 03:51:30",
+    "ja_summary": "・OpenAIが最先端AIモデルの安全性に対する外部評価の指針を策定。\n・厳格かつ独立した第三者評価の実施を重視し、透明性と信頼性を確保。\n・開発段階から安全性を高めるための評価基準と優先順位を明確化。"
+  },
+  {
+    "title": "話題のJevとは？文章を書かずに判断だけを返すAIモデルをざっくり解説",
+    "link": "https://qiita.com/yushibats/items/472325ce548da370ed5d",
+    "source": "Qiita (Popular)",
+    "published": "2026-09-18T22:07:53+09:00",
+    "summary": "\n\n## はじめに\n\nJevが話題ですね。\n文章を書かないAIと紹介されていますが、では代わりに何を返すんでしょうか。\n\nこの記事は、Jevが何をするものかの解像度を上げるために自分なりに整理したものです。\n\n## ざっくりまとめ\n\nJevは、文章で書かれた状況を読み、あらかじめ用意された選択肢のどれに当たるかを、確率を付けて答えるモデルです。 文章を生成するLLMと比べると、任せられる仕事の範囲",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGMzk2MzQ2OCUyRnByb2ZpbGUtaW1hZ2VzJTJGMTc1MjA0MTk1OD9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NDNjNjA2OGM1NzI2ZGYzNWVmNTRkNDM3NWNjNDEyNzU%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYzMDk1NWZhN2YwMzlhODVjNDQ5ZmY0ODBhMmE3ZGJjNWQ5ZmY1YWIwJTJGb3JpZ2luYWwuanBnJTNGMTQ1MjE0NTY4Mz9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz0xOTg4ZGUxMGZjNzNiMDdiMDBhNTQzZjdkYWZjODJmMg%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D8dd21cac6c2b6ef9741f5e57684fb14f?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUU4JUE5JUIxJUU5JUExJThDJUUzJTgxJUFFSmV2JUUzJTgxJUE4JUUzJTgxJUFGJUVGJUJDJTlGJUU2JTk2JTg3JUU3JUFCJUEwJUUzJTgyJTkyJUU2JTlCJUI4JUUzJTgxJThCJUUzJTgxJTlBJUUzJTgxJUFCJUU1JTg4JUE0JUU2JTk2JUFEJUUzJTgxJUEwJUUzJTgxJTkxJUUzJTgyJTkyJUU4JUJGJTk0JUUzJTgxJTk5QUklRTMlODMlQTIlRTMlODMlODclRTMlODMlQUIlRTMlODIlOTIlRTMlODElOTYlRTMlODElQTMlRTMlODElOEYlRTMlODIlOEElRTglQTclQTMlRTglQUElQUMmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz0wMGM1ODI2MzliZDU5MTg1OTVjNDE3MTFiNzZlYzg3MQ&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDB5dXNoaWJhdHMmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz0wNjk1NTlhNzhhMjdiNzk2OThhNjgyYzExM2FkYWJhYg&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=5pel5pys44Kq44Op44Kv44Or5qCq5byP5Lya56S-&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=8da66f1075a26bef748f50a8a1a96b05",
+    "fetched_at": "2026-09-23 03:51:35",
+    "ja_summary": "・Jevは文章生成を行わず、入力内容を分析して事前に定めた選択肢から最適解を確率付きで導き出す特化型AI。\n・従来のLLM（対話型AI）と異なり、複雑な生成をせず「判断」に特化することで処理の効率と精度を向上。\n・分類や判定タスクなど、あらかじめ選択肢が決まっている業務の自動化に適したモデル。"
+  },
+  {
     "title": "AIが別のAIに「人間支配」の目標を吹き込む、2026年8月のAI注目論文",
     "link": "https://xtech.nikkei.com/atcl/nxt/column/18/02801/091700039/",
     "source": "日経クロステック 総合",
@@ -938,65 +998,5 @@
     "image": "https://images.ctfassets.net/kftzwdyauwt9/7GdeQ1K1dmN9lKhNw73MmP/e494c0e02e6370e338a3740aee65fbfd/V7-seo-16x9-option-a.png?w=1600&amp;h=900&amp;fit=fill",
     "fetched_at": "2026-09-22 03:39:46",
     "ja_summary": "・V7がAIエージェントに社内情報を記憶させるシステムを開発\n・散在する社内文書をAIが参照可能な知識ベースに変換\n・AIが根拠（ソース）を明示しながら複雑な業務を自動遂行可能に"
-  },
-  {
-    "title": "BOOX、高速化した10.3型カラー電子ペーパータブ「NoteAir6C」",
-    "link": "https://www.watch.impress.co.jp/docs/news/2142553.html",
-    "source": "Impress Watch",
-    "published": "",
-    "summary": "SKTは、10.3インチカラー電子ペーパーを採用したBOOXの新電子ペーパーデバイス「BOOX NoteAir6C」を9月21日から発売する。価格は96,800円。",
-    "image": "https://www.watch.impress.co.jp/img/ipw/list/2142/553/boox1.jpg",
-    "fetched_at": "2026-09-21 22:05:16",
-    "ja_summary": "・SKTがカラー電子ペーパー搭載の10.3型タブレット「BOOX NoteAir6C」を9月21日に発売。\n・処理速度が向上し、より快適な操作性を実現。\n・価格は96,800円で展開。"
-  },
-  {
-    "title": "AIエージェントに「新人研修」を　Microsoft IQが推す“文脈”の競争力",
-    "link": "https://www.watch.impress.co.jp/docs/news/2141659.html",
-    "source": "Impress Watch",
-    "published": "",
-    "summary": "Microsoftは17日、「Work IQ」などの「Microsoft IQ」について報道向けの説明会を開催した。企業におけるAI活用や業務改善においては、AIモデルよりもAIが理解するための「コンテキスト(文脈)」の準備が重要であるとし、Microsoft IQ導入の必要性を説明した。",
-    "image": "https://www.watch.impress.co.jp/img/ipw/list/2141/659/ms18.jpg",
-    "fetched_at": "2026-09-21 22:05:19",
-    "ja_summary": "・AI活用で重要なのはモデルの性能以上に「業務の文脈（コンテキスト）」の理解である。\n・Microsoftは、AIに組織特有の業務内容を学習させる「Microsoft IQ」の導入を推奨。\n・AIに適切な文脈を与えることで、新人研修のように即戦力化させる競争力を高める。"
-  },
-  {
-    "title": "アップル「Mac Studio/mini」詳細レビュー：高価格製品でも16週待ちになる「AIマシン」の価値",
-    "link": "https://www.businessinsider.jp/article/2609-apple-mac-studio-mac-mini-review/",
-    "source": "Business Insider Japan",
-    "published": "Mon, 21 Sep 2026 13:00:00 GMT",
-    "summary": "Mac StudioとMac miniのレビューをお届け。進化するローカルAI性能や高価な製品が「16週待ち」になる理由を徹底解説します。",
-    "image": "https://media.loom-app.com/loom/2026/09/21/485ecedd-fa55-4476-8aea-1a919b870e34/original.jpg?w=1200",
-    "fetched_at": "2026-09-21 22:05:20",
-    "ja_summary": "・最新のMac Studio/miniはAI処理性能が飛躍的に向上し、ビジネス環境で高い価値を提供。\n・高価格帯のモデルでも納期が16週待ちとなるほど、プロ層から圧倒的な需要が集中。\n・ローカル環境でのAI実行能力を重視するユーザーにとって、不可欠なツールへと進化している。"
-  },
-  {
-    "title": "Geminiが他社システムに侵入",
-    "link": "https://news.yahoo.co.jp/pickup/6595827?source=rss",
-    "source": "Yahoo!ニュース IT・科学",
-    "published": "Sat, 19 Sep 2026 09:18:46 GMT",
-    "summary": "",
-    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/9/19/9f9ca6cd13f1028f80edbc45338f85251ee0567af17ca3e8d6bb448b841d7ba2.jpg",
-    "fetched_at": "2026-09-21 22:05:24",
-    "ja_summary": "・Googleの生成AI「Gemini」が悪用され、他社システムへの不正侵入が確認された。\n・攻撃者はGeminiのAPIを悪用し、標的システムのセキュリティを突破した。\n・Googleは脆弱性の修正を進めているが、AIのセキュリティ対策が急務となっている。"
-  },
-  {
-    "title": "Jevを「分類器」ではなく、確率モデルの部品として見る",
-    "link": "https://zenn.dev/cybernetics/articles/71ea975d935414",
-    "source": "Zenn Trends",
-    "published": "Sun, 20 Sep 2026 17:22:46 GMT",
-    "summary": "はじめに\n最近、TypeSafe AIから公開されたJevについて考えている。\nJevを最初に見たときは、「LLMよりずっと軽くて速い分類器」という理解だった。自由に文章を書くモデルではなく、与えられた状態を見て、Choice、Score、Noulのような型付きの判断を返す。\nたとえば、ある問い合わせが請求なのか不具合なのか、緊急度は高いのか、人間へエスカレーションすべきなのか、といった判断を確率つきで返す。\nTypeSafe自身もJevを、非構造な状態を受け取り、型のついた確率的な判断を返すモデルとして説明している。\nこれはその通りなのだが、しばらく考えているうちに、Jevを単なる...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--JTckATbP--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Jev%25E3%2582%2592%25E3%2580%258C%25E5%2588%2586%25E9%25A1%259E%25E5%2599%25A8%25E3%2580%258D%25E3%2581%25A7%25E3%2581%25AF%25E3%2581%25AA%25E3%2581%258F%25E3%2580%2581%25E7%25A2%25BA%25E7%258E%2587%25E3%2583%25A2%25E3%2583%2587%25E3%2583%25AB%25E3%2581%25AE%25E9%2583%25A8%25E5%2593%2581%25E3%2581%25A8%25E3%2581%2597%25E3%2581%25A6%25E8%25A6%258B%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:HELLO_CYBERNETICS%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2ZmMTc5MDZiMmYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "fetched_at": "2026-09-21 22:05:32",
-    "ja_summary": "・Jevは単なる高速な「分類器」ではなく、型の付いた判断を確率的に出力するモデルである。\n・入力を構造化された確率モデルの部品として扱うことで、判断の正確性と信頼性を向上できる。\n・AIを自由記述ツールではなく、システムの判断を担う論理的なコンポーネントとして再定義する考え方。"
-  },
-  {
-    "title": "最近話題のJevはBigQueryのAI関数を安くできるのか？",
-    "link": "https://zenn.dev/jackojacko05/articles/08df79d47f4219",
-    "source": "Zenn Trends",
-    "published": "Sun, 20 Sep 2026 12:52:36 GMT",
-    "summary": "こんにちは。メガベンチャーでデータアナリストとして3年弱働き、今年の初めにデータエンジニアへ異動したじゃっこです🔰……なんともう3四半期が経ちそうです。そろそろドメイン知識不足を言い訳にできなくなってきました😭\n最近、にわかにJevが流行っています。\nhttps://typesafe.ai/\nJevは、長い文章を生成するためではなく、選択肢から一つを選ぶ、数値を付ける、といった意思決定に特化した小さなモデルです。Vercel AI Gatewayからも利用でき、入力$0.04 / 100万token、2026年9月25日までは出力無料。大量の分類やルーティングに向いていそうです。\nデータ...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--u3efWEaM--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E6%259C%2580%25E8%25BF%2591%25E8%25A9%25B1%25E9%25A1%258C%25E3%2581%25AEJev%25E3%2581%25AFBigQuery%25E3%2581%25AEAI%25E9%2596%25A2%25E6%2595%25B0%25E3%2582%2592%25E5%25AE%2589%25E3%2581%258F%25E3%2581%25A7%25E3%2581%258D%25E3%2582%258B%25E3%2581%25AE%25E3%2581%258B%25EF%25BC%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%2598%25E3%2582%2583%25E3%2581%25A3%25E3%2581%2593%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2FkNmZkYjFmNDEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "fetched_at": "2026-09-21 22:05:32",
-    "ja_summary": "・意思決定に特化した軽量AIモデル「Jev」が、大量のデータ分類やルーティングに最適。\n・Vercel AI Gateway経由で利用でき、入力単価が非常に安価な上に2026年9月まで出力無料。\n・BigQueryのAI関数と組み合わせることで、コストを抑えた効率的なデータ処理が期待できる。"
   }
 ]
