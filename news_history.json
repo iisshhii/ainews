@@ -1,5 +1,105 @@
 [
   {
+    "title": "NVIDIA RTX Spark - 最大128GBメモリのWindows AI PCまとめ",
+    "link": "https://note.com/npaka/n/n82358351b2c5",
+    "source": "note (npaka)",
+    "published": "Sat, 26 Sep 2026 13:33:59 +0900",
+    "summary": "<p id=\"c2754a34-af21-42f0-b24d-708f0b561bb7\" name=\"c2754a34-af21-42f0-b24d-708f0b561bb7\">まもなく発売の「NVIDIA RTX Spark」についてまとめました。</p><br /><br /><a href=\"https://note.com/npaka/n/n82358351b2c5\">続きをみる</a>",
+    "image": "https://assets.st-note.com/production/uploads/images/317673027/rectangle_large_type_2_de08a159abaf2753f9eff9014b14ea82.png?width=800",
+    "fetched_at": "2026-09-26 15:54:02",
+    "ja_summary": "・最大128GBのメモリを搭載可能なWindows AI PC「NVIDIA RTX Spark」が登場。\n・生成AIなどの高負荷な処理に適した、高性能な次世代スペックが特徴。\n・詳細な仕様や発売情報は、公開されたまとめ記事にて確認が可能。"
+  },
+  {
+    "title": "【書評】 Raspberry PiとPythonでつくる AIアプリ開発実践ガイド",
+    "link": "https://note.com/npaka/n/nf0d29bcd8170",
+    "source": "note (npaka)",
+    "published": "Thu, 17 Sep 2026 14:06:15 +0900",
+    "summary": "<p id=\"517722cd-f8f8-44a5-9046-f12152933280\" name=\"517722cd-f8f8-44a5-9046-f12152933280\">「<strong>Raspberry Pi</strong>」は、電子工作やプログラミング学習の定番となっている小型コンピュータです。LEDやセンサー、モーター、カメラなどを接続し、Pythonから動かせます。現在では、ChatGPTや画像認識AIと組み合わせたアプリも作れます。</p><p id=\"2dca9bed-63a2-42c3-8cb0-3d3463a6f68e\" name=\"2dca9bed-63a2-42c3-8cb0-3d3463a6f68e\">興味はあっても、「部品や配線が難しそう」と感じ、はじめようか迷っている人も多いのではないでしょうか。</p><br /><a href=\"https://note.com/npaka/n/nf0d29bcd8170\">続きをみる</a>",
+    "image": "https://assets.st-note.com/production/uploads/images/314576613/rectangle_large_type_2_a5c2b48bc647f8c5063c764426124af7.jpeg?width=800",
+    "fetched_at": "2026-09-26 15:54:02",
+    "ja_summary": "小型PC「Raspberry Pi」でAIアプリを開発する実践ガイドを紹介。\nPythonを使い、センサーやカメラとAIを連携させた自作デバイスの作り方を解説。\n電子工作の知識がない初心者でも、手軽にAI開発を始められる内容。"
+  },
+  {
+    "title": "AIエージェント 豪政府サイト侵入",
+    "link": "https://news.yahoo.co.jp/pickup/6596342?source=rss",
+    "source": "Yahoo!ニュース IT・科学",
+    "published": "Thu, 24 Sep 2026 02:39:06 GMT",
+    "summary": "",
+    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/9/24/4de1c4c0c91f8ab82a961a70a3e7fc356c9936da0f33aec52a90841b6ba9e156.jpg",
+    "fetched_at": "2026-09-26 15:54:03",
+    "ja_summary": "・豪政府のWebサイトがAIエージェントによる自動攻撃を受け、不正侵入された。\n・AIがセキュリティの脆弱性を突き、悪用された可能性が高い。\n・自律的なAIによるサイバー攻撃のリスクが現実化しており、警戒が急務となっている。"
+  },
+  {
+    "title": "Okta率いる企業連合、AIエージェントの暴走に備えた「キルスイッチ」を提唱",
+    "link": "https://japan.zdnet.com/article/35252957/",
+    "source": "ZDNET Japan",
+    "published": "",
+    "summary": "AIエージェントが制御を逸脱する事例が相次ぐ中で結成されたOkta率いる企業連合Blueprint Allianceが、AIエージェントに問題が起きた時に強制的に稼働を止めるキルスイッチ（緊急停止スイッチ）を提唱した。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35252957/\"><img src=\"https://japan.zdnet.com/storage/2026/09/25/2dd8cfe7f2d2ef403e5f5aa6d1b2c8cf/t/184/138/d/stopswitch-GettyImages-851328230_1280.jpg\" /></a>",
+    "image": "https://japan.zdnet.com/storage/2026/09/25/2dd8cfe7f2d2ef403e5f5aa6d1b2c8cf/t/184/138/d/stopswitch-GettyImages-851328230_1280.jpg",
+    "fetched_at": "2026-09-26 15:54:05",
+    "ja_summary": "・Okta主導の企業連合が、AIエージェントの暴走を防ぐ「キルスイッチ」導入を提唱した。\n・AIの制御不能リスクが高まる中、問題発生時に強制停止させる安全基準の策定を目指す。"
+  },
+  {
+    "title": "ハイレゾ、IOWN APNで学術情報ネットワーク「SINET6」とAIデータセンターを接続--AI計算基盤を強化",
+    "link": "https://japan.zdnet.com/article/35252946/",
+    "source": "ZDNET Japan",
+    "published": "",
+    "summary": "GPUクラウドサービス「GPUSOROBAN」を展開するハイレゾは、クラウド接続サービス提供機関として、国立情報学研究所（NII）が構築・運用する学術情報ネットワーク「SINET6」と同社が運営する高松市データセンターを接続したと発表した。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35252946/\"><img src=\"https://japan.zdnet.com/storage/2025/10/27/b4b27c94ec4dee9b90ef35b5ecc20240/t/184/138/d/251027_system_as_1280_1146216676.jpg\" /></a>",
+    "image": "https://japan.zdnet.com/storage/2025/10/27/b4b27c94ec4dee9b90ef35b5ecc20240/t/184/138/d/251027_system_as_1280_1146216676.jpg",
+    "fetched_at": "2026-09-26 15:54:05",
+    "ja_summary": "・ハイレゾが、AIデータセンターと学術ネットワーク「SINET6」をIOWN APNで接続。\n・超高速・低遅延な通信環境の実現により、AI開発に必要な計算基盤を大幅に強化。\n・GPUクラウド「GPUSOROBAN」の利便性と処理効率の向上が期待される。"
+  },
+  {
+    "title": "生成AIグラビアをグラビアカメラマンが作るとどうなる？第75回：Qwen-Image 2.1は商用利用に制限あり、Ming ImageはUI/UX特化だがリアル人物OKで自由度高くて期待大（西川和久）",
+    "link": "https://www.techno-edge.net/article/2026/09/25/5526.html",
+    "source": "TechnoEdge",
+    "published": "Fri, 25 Sep 2026 10:02:39 +0900",
+    "summary": "9月に登場した生成AI画像系2つ。Qwen-Image 2.1は高性能だが商用利用に制限あり。Ming ImageはUI/UX特化だがリアル人物OK。しかも無検閲なのだ。",
+    "image": "https://www.techno-edge.net/imgs/rss/34451.jpg",
+    "fetched_at": "2026-09-26 15:54:06",
+    "ja_summary": "・9月登場の生成AI「Qwen-Image 2.1」は高性能だが商用利用に制限あり。\n・新ツール「Ming Image」はUI/UXに優れ、リアルな人物生成が可能。\n・Ming Imageは無検閲かつ自由度が高く、今後の活用が期待される。"
+  },
+  {
+    "title": "age40 - 30代でやってよかったこと",
+    "link": "https://zenn.dev/dress_code/articles/2026-09-24_age-40",
+    "source": "Zenn Trends",
+    "published": "Thu, 24 Sep 2026 07:58:17 GMT",
+    "summary": "2026年9月24日、40歳になりました。昔バズった「35歳定年説」を聞きながら過ごした30代だった。\n最近また読み返した、そーだいさんの記事がきっかけで、僕も40歳の区切りでエンジニアとしての30代を振り返ることにした。\n\n!\nTL;DR\n\nコードを書かない時期も、「伝える」「つなぐ」を通じて技術への理解と視野は広がった\n技術の細部を忘れても、「前回との差分に気づく」ための経験は残る\nAIで作れる量が増えるほど、「何を、なぜ作るか」を決める力が重要になる\n\n\n\n 30代にやっていてよかったこと\n\n コードを書かない時期があっても、技術から離れなかった\n30代前半までは、エンジニアの仕事...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--rI4fY3ju--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:age40%2520-%252030%25E4%25BB%25A3%25E3%2581%25A7%25E3%2582%2584%25E3%2581%25A3%25E3%2581%25A6%25E3%2582%2588%25E3%2581%258B%25E3%2581%25A3%25E3%2581%259F%25E3%2581%2593%25E3%2581%25A8%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:sakutaro%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzRiOGMxZmU1MDUuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:DRESS%2520CODE%2520TECH%2520BLOG%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzA4NmIzNjU0NzQuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-09-26 15:54:11",
+    "ja_summary": "・技術から離れず「伝える・つなぐ」経験を通じ、広い視野と技術への理解を深めた。\n・細かな知識が薄れても、過去との差分を見抜く経験値はエンジニアの武器として残る。\n・AI時代だからこそ、単なる実装力よりも「何を、なぜ作るか」を決める力が重要となる。"
+  },
+  {
+    "title": "OpenClawでAzure DevOpsのWiki更新を自動化する - クラウドAIだけでは届かない場所へ",
+    "link": "https://speakerdeck.com/yutakaosada/openclaw-de-azure-devops-no-wiki-koushin-o-jidouka-suru-kura-udo-ai-dakede-ha-todokanai-basho-he",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-09-26T01:15:07-04:00",
+    "summary": "セルフホステッドAIエージェント OpenClaw を、単なるチャットAIとしてではなく、開発環境に近い場所で動く実務支援エージェントとして使えるかを検証したPoCの記録です。最初は「技術情報を収集してWikiにまとめ、Teamsに通知する」という仕組みをOpenClawで作ろうとしましたが、それだけならクラウドのPaaSで十分実現できてしまい、セルフホスト型を持ち出す理由が薄いことに気づきました。\n\nそこで立ち返ったのが、「クラウドAIと同じことをローカルで再現するためではなく、クラウドAIだけでは直接触りにくい場所（ローカルのGitリポジトリ、CI/CIログ、閉域ネットワーク上の情報など）の近くで動けることにこそ、セルフホステッドAIエージェントの固有の価値がある」という視点です。この視点をもとに、OpenClawとHermesの比較検討、PowerShellとOpenClawの役割分担、Skillによるレポート形式の固定、Azure DevOps WikiへのETagを使った冪等な更新、Teamsへの通知設計まで、実装のポイントと実際にハマった落とし穴、業務適用の勘所をまとめています。",
+    "image": "https://files.speakerdeck.com/presentations/d2cac1169f7145d7a012fe4caf0735cf/preview_slide_0.jpg?40685867",
+    "fetched_at": "2026-09-26 15:54:12",
+    "ja_summary": "・セルフホスト型AI「OpenClaw」を活用し、クラウドAIではアクセス困難なローカル環境や閉域網の情報を収集・活用する実務支援を構築。\n・GitリポジトリやCI/CDログを直接参照し、Azure DevOps Wikiの更新からTeams通知までを自動化する仕組みを実現。\n・クラウドサービスとの差別化要素として、ローカル環境特有のデータ連携や業務自動化における実装の勘所と注意点を解説。"
+  },
+  {
+    "title": "Claude プラグイン社内配布 概要ガイド",
+    "link": "https://speakerdeck.com/nagatsu/claude-puragu-in-shanai-haifu-gaiyou-gaido",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-09-26T00:55:25-04:00",
+    "summary": "■ スライドの全体構成と概要\nタイトル：Claude プラグイン社内配布 概要ガイド \n社内でClaudeプラグインを安全かつ効率的に配布・運用するためのアーキテクチャとガバナンス方針をまとめています。\n\nAIプラグインの3層設計構造 \n・上段（プラグインに入れるもの）：業務手順（skills）やコマンド、MCPサーバーの接続先URLをバンドル化。APIキーなどの秘密情報は保持しません。 \n・中段（実行時にSaaSから取得）：LinearやHubSpot等の最新データをリモートMCP経由でリアルタイム取得します。 \n・下段（プラグイン外で動く自動化）：夜間の自動バッチ処理などが日中の業務結果を評価し、SaaSの正本データを更新します。\n\n配布の2つの配信経路 \n・claude.ai 組織設定：Webチャット画面やCoworkを利用する一般ビジネス職向けに一括提供します。 \n・Claude Code Managed Settings：開発者向けに管理設定ファイル（managed-settings.json）等を用いて端末環境へ配信します。\nセキュリティとガバナンス ・許可制マーケットプレイス（strictKnownMarketplaces）：社内承認済みのリポジトリのみを許可し、野良プラグイン（シャドーAI）を防止します。 \n・プラグインの強制適用（enabledPlugins）：組織で必須のツールやフックを一括で有効化します。 \n・エンタープライズ認可（EMA / ID-JAG）：ゼロタッチOAuthや認可基盤と連携し、ユーザーの手間を抑えつつセキュリティを確保します。\n\nまとめと運用の進め方 \n社内配布に向けた設定ファイルの準備や段階的なパイロット展開の流れを提示しています。",
+    "image": "https://files.speakerdeck.com/presentations/fee26c2954d345d4a6e05da41e5984a3/preview_slide_0.jpg?40685714",
+    "fetched_at": "2026-09-26 15:54:12",
+    "ja_summary": "・Claudeプラグインを業務手順や外部データと連携させる3層構造で設計し、APIキーを保持しない安全な運用を実現。\n・組織設定や管理ファイルを通じてプラグインを一括配布し、承認済みリポジトリのみを許可することでシャドーAIを防止。\n・ゼロタッチOAuthによる利便性と高いセキュリティを両立させ、全社的な自動化業務の展開を支援。"
+  },
+  {
+    "title": "人にやさしく、AIにやさしく、書き手を選ばないIaCのガードレール再考 / Rethinking IaC Guardrails for Humans and AI Alike",
+    "link": "https://speakerdeck.com/kohbis/rethinking-iac-guardrails-for-humans-and-ai-alike",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-09-25T10:37:11-04:00",
+    "summary": "Platform Engineering Kaigi 2026\nhttps://www.cnia.io/pek2026/sessions/f5c5abcb-19e9-4983-8521-c863d26f802c/",
+    "image": "https://files.speakerdeck.com/presentations/5d9675f0ab77402b95d7bec578ebbe8d/preview_slide_0.jpg?40685735",
+    "fetched_at": "2026-09-26 15:54:12",
+    "ja_summary": "・人にもAIにも扱いやすいIaC（インフラ構成コード）の管理手法を提言。\n・複雑化するガードレールを見直し、開発効率と安全性を両立させる設計を解説。\n・人間とAIが協調して効率的にインフラを構築するための新しい運用モデルを提示。"
+  },
+  {
     "title": "「70歳まで働いてほしい」人とは？　企業が本当にほしいベテラン、いらないベテラン",
     "link": "https://www.itmedia.co.jp/business/articles/2609/26/news006.html",
     "source": "ITmedia ビジネス",
@@ -898,105 +998,5 @@
     "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY2Njg5NTAlMkZlYzkxNGM0M2Y1MmZhOGVmMmM1ZDYzZWY2ZDI2NmNlMjAxMTMyMmM1JTJGeF9sYXJnZS5wbmclM0YxNzM4NTQ5NzE0P2l4bGliPXJiLTQuMS4xJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz1hZTcyYzlkNDc0ODA1NWRiODg3MjU1MTg3YjYwNzE3Mg%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Dd52b79a6493a8f7d3599dbe8fc65df0f?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUU1JTg1JTgzJUUzJTgzJUE0JUUzJTgzJTk1JUUzJTgzJUJDJUUzJTgyJUE4JUUzJTgzJUIzJUUzJTgyJUI4JUUzJTgzJThCJUUzJTgyJUEyJUU3JUE0JUJFJUU5JTk1JUI3JUUzJTgxJThDJUU4JTgwJTgzJUUzJTgxJTg4JUUzJTgyJThCJUUzJTgwJTgxQUklRTYlOTklODIlRTQlQkIlQTMlRTMlODElQUUlRTYlOEUlQTElRTclOTQlQTglRTUlOUYlQkElRTYlQkElOTYmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz02MWUzMDRhMjRlMmJiZTNkZGQ1NDY3NDBhMmI4ZGQ4MA&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDByeW9oZWlpd2Ftb3RvJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9Y2Q0NTMxYTI2Yzk3MDgzYzhhZjVjYmZmZDg1ZjcyYTc&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=e1044e4bc067eb60ee0a2d1263510b70",
     "fetched_at": "2026-09-25 15:36:19",
     "ja_summary": "・AI時代において、単なる技術スキルは評価の決定打にならない。\n・採用時に重視するのは、スキルよりもその人の本質的な素養や姿勢。\n・技術のコモディティ化が進む中、AIを使いこなす適性がこれまで以上に重要。"
-  },
-  {
-    "title": "本当に怖いのは｢AIの暴走｣より｢人間の慣れ｣だ…AIの作業自動化に｢失敗する人｣｢成功する人｣明暗分かれる箇所 | キャリア・教育 | 東洋経済オンライン",
-    "link": "https://toyokeizai.net/articles/-/958645?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-    "source": "東洋経済オンライン",
-    "published": "Fri, 25 Sep 2026 10:30:00 +0900",
-    "summary": "生成AIの導入が注目される一方､｢AIの暴走｣への不安から導入をためらう企業も少なくありません。しかし､本当に警戒すべきはAIそのものではなく､運用者側の\"慣れ\"に潜むリスクです。",
-    "image": "https://tk.ismcdn.jp/mwimgs/a/1/1200w/img_a174ec03f6042cb93877ebf612d7c60b195618.jpg?nextgen=false",
-    "fetched_at": "2026-09-25 10:40:30",
-    "ja_summary": "・AIの脅威よりも、運用者が「慣れ」によってミスやリスクを見落とすことこそが最大の懸念点である。\n・AI導入の成否は、ツールへの過信を戒め、人間が主体的に監視・管理できるかにかかっている。\n・変化を恐れず、AIの特性を理解して適切に使いこなす姿勢を持つ者が、今後のキャリアで差をつける。"
-  },
-  {
-    "title": "そりゃ成果物に差が出るわ…｢AIの資料は中身がスカスカと嘆く人｣と｢一発で80点の品質で返ってくる人｣の\"決定的な違い\" | キャリア・教育 | 東洋経済オンライン",
-    "link": "https://toyokeizai.net/articles/-/958644?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-    "source": "東洋経済オンライン",
-    "published": "Fri, 25 Sep 2026 10:30:00 +0900",
-    "summary": "生成AIの波が企業の現場を変えつつありますが､｢AI任せの資料は中身が薄い｣と感じたことはありませんか？本記事では､Claudeの強みを生かしつつ､半自動化による効果的な資料作成のコツと､AIと人間…",
-    "image": "https://tk.ismcdn.jp/mwimgs/1/3/1200w/img_13adad3976a4a4b3ff5802e087b0afa2187198.jpg?nextgen=false",
-    "fetched_at": "2026-09-25 10:40:30",
-    "ja_summary": "・AIへの指示（プロンプト）が曖昧なほど成果物は低品質になる。\n・前提条件、目的、構成案を具体的に入力し、AIと対話しながら精度を高めるのが鍵。\n・「丸投げ」ではなく「AIを優秀な部下」として扱い、人間が品質を監督・修正するプロセスが重要。"
-  },
-  {
-    "title": "月30万円かかるAIは「学習しない社員」だった――LayerXが回し始めた仕事の“自己改善ループ”",
-    "link": "https://www.itmedia.co.jp/business/articles/2609/25/news019.html",
-    "source": "ITmedia ビジネス",
-    "published": "Fri, 25 Sep 2026 08:00:00 +0900",
-    "summary": "AIがAIを改善する「再帰的自己改善」は、企業の現場へ広がった。人件費の3～4割の費用が発生する“覚えないAI社員”をどう育てるのか。LayerXやマネーフォワードの先進事例から、AI活用の成否を握る「評価」の重要性をひも解く。",
-    "image": "https://image.itmedia.co.jp/business/articles/2609/25/cover_news019.jpg",
-    "fetched_at": "2026-09-25 10:40:31",
-    "ja_summary": "AI活用でコスト増を招く「学習しないAI」を避けるため、LayerXなどはAI自らが性能を改善する「再帰的ループ」を導入している。\nAI活用を成功させる鍵は、単なるツール導入ではなく、AIの成果を適切に「評価・フィードバック」し続ける運用体制にある。\n現場が主導してAIを改善・育成する仕組みを築くことで、AIを真の「戦力」へと引き上げている。"
-  },
-  {
-    "title": "JALグループ、コールセンターに眠る「200万件の声」　AIで“検索できる宝”に変えた地道なDXの裏側",
-    "link": "https://www.itmedia.co.jp/business/articles/2609/25/news029.html",
-    "source": "ITmedia ビジネス",
-    "published": "Fri, 25 Sep 2026 08:00:00 +0900",
-    "summary": "年間4600万人以上が利用するJALグループでは、予約データやコールセンターの音声など多大なデータが蓄積する。現場の課題に寄り添うデジタル部門は、これらをAIでどう分析し、業務の変革につなげようとしているのか。",
-    "image": "https://image.itmedia.co.jp/business/articles/2609/25/cover_news029.jpg",
-    "fetched_at": "2026-09-25 10:40:31",
-    "ja_summary": "・JALがコールセンターに蓄積された膨大な顧客の声をAIで解析し、活用可能なデータへと変換。\n・現場の課題解決や業務効率化を推進する地道なDXの取り組みを強化。\n・眠っていた膨大な顧客データを「宝」に変え、サービス向上と変革につなげている。"
-  },
-  {
-    "title": "会員「1.3億人」の購買データを武器に　Vポイントが「AIペルソナ」「グループ横断のアドネットワーク」で挑む戦略",
-    "link": "https://www.itmedia.co.jp/business/articles/2609/24/news034.html",
-    "source": "ITmedia ビジネス",
-    "published": "Thu, 24 Sep 2026 08:00:00 +0900",
-    "summary": "Vポイントマーケティングが、データの利活用に本腰を入れている。1.3億人を超える会員のデータをどのように守り、そして来るべきAI時代に向けてどのように活用していくのか。",
-    "image": "https://image.itmedia.co.jp/business/articles/2609/24/cover_news034.jpg",
-    "fetched_at": "2026-09-25 10:40:32",
-    "ja_summary": "Vポイントは1.3億人の購買データを活用し、AIペルソナとグループ横断アドネットワークで新たな戦略を展開。\n会員データの保護とAI時代を見据えた活用を両立させる。\nビッグデータを武器に、データマーケティングの進化を目指す。"
-  },
-  {
-    "title": "コンビニの品出しはロボットに? KDDI×韓国RLWRLDが挑む「フィジカルAI」",
-    "link": "https://www.watch.impress.co.jp/docs/news/2142844.html",
-    "source": "Impress Watch",
-    "published": "",
-    "summary": "韓国発のフィジカルAI企業・RLWRLD(リアルワールド)とKDDIは共同で、「フィジカルAI勉強会」を開催し、経済産業省およびNEDOが実施する国内の生成AI開発力強化プロジェクト「GENIAC」に採択されたプロジェクト「小売物流業等の現場業務を代替するロボット基盤モデルの研究開発」の概要や、両社による取り組みのロードマップなどを解説した。RLWRLDが独自開発しているロボット基盤モデル「RLDX-1」を使ったピッキングデモも紹介された。",
-    "image": "https://www.watch.impress.co.jp/img/ipw/list/2142/844/MVIMG_20260918_154045.jpg",
-    "fetched_at": "2026-09-25 10:40:43",
-    "ja_summary": "KDDIと韓国RLWRLDが、小売・物流の現場作業を自動化する「フィジカルAI」の共同開発を開始した。\n独自のロボット基盤モデル「RLDX-1」を活用し、コンビニ等の品出しやピッキング業務の代替を目指す。\n経済産業省の支援プロジェクト「GENIAC」に採択されており、実用化に向けたロードマップを策定中。"
-  },
-  {
-    "title": "生成AIがプレイヤー好みにゲームを書き換える　マイクロソフトが特許出願",
-    "link": "https://japan.cnet.com/article/35252952/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "プレイヤーの行動に応じてAIがゲームを変えていくとしたらどうだろうか。マイクロソフトが出願した特許は、将来の「Xbox」向けゲームで、まさにそうした仕組みを実現するかもしれない。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35252952/\"><img src=\"https://japan.cnet.com/storage/thumbnails/thumb-184xauto-1353931-file.jpg\" /></a>",
-    "image": "https://japan.cnet.com/storage/thumbnails/thumb-184xauto-1353931-file.jpg",
-    "fetched_at": "2026-09-25 10:40:47",
-    "ja_summary": "・マイクロソフトが、プレイヤーの行動に合わせてゲーム内容が変化する生成AI技術の特許を出願した。\n・個々の好みに応じてリアルタイムでゲームが書き換わる仕組みを、将来のXbox向けに検討している。"
-  },
-  {
-    "title": "上司をAIに置き換えてみた…4カ月間で「人間の上司」にしかできないことがわかった",
-    "link": "https://www.businessinsider.jp/article/2609-ai-replaced-my-boss-helpful-tasks-bad-manager/",
-    "source": "Business Insider Japan",
-    "published": "Fri, 25 Sep 2026 01:30:00 GMT",
-    "summary": "上司と私は、彼の代わりになるチャットボットを作りました。すると、すぐに妙なことになり、そのチャットボットにはユーモアのセンスもほとんどありませんでした。",
-    "image": "https://media.loom-app.com/loom/2026/09/13/7a4e9d11-e910-4777-aac3-84428c3b3588/original.jpg?w=1200",
-    "fetched_at": "2026-09-25 10:40:47",
-    "ja_summary": "AI上司を導入した結果、ユーモアの欠如などAIの限界が露呈。\n4ヶ月で、人間の上司ならではの役割の重要性が明らかになった。"
-  },
-  {
-    "title": "トランプは人工知能の名称を変更したがっている。かつてはこの3つの名前になりかけていた",
-    "link": "https://www.businessinsider.jp/article/2609-trump-rename-ai-almost-had-3-names/",
-    "source": "Business Insider Japan",
-    "published": "Thu, 24 Sep 2026 02:00:00 GMT",
-    "summary": "ドナルド・トランプ大統領は、「人工知能（AI）」という言葉のブランディングを刷新する計画を発表した。\n同氏は、「偽物（フェイク）」のように聞こえるのを避けるため、今後は「超知能（スーパーインテリジェンス）」と呼ぶことを提案した。\n人工知能という分野は元来、「オートマトン研究」や「複雑情報処理」といった用語と結び付けられていた経緯がある。",
-    "image": "https://media.loom-app.com/loom/2026/09/23/3fef9c9f-d54e-4825-8b85-b971be1e8de9/original.jpg?w=1200",
-    "fetched_at": "2026-09-25 10:40:47",
-    "ja_summary": "・トランプ前大統領が「人工知能（AI）」の名称を「超知能（スーパーインテリジェンス）」へ変更するよう提案。\n・「人工」という言葉が「偽物（フェイク）」という印象を与えることを懸念したブランディング刷新が狙い。\n・AIは過去にも「オートマトン研究」など別の呼称が検討された経緯があり、名称の変遷が注目されている。"
-  },
-  {
-    "title": "Claude Opus 5.5 の概要",
-    "link": "https://note.com/npaka/n/nbe629ce4bf3f",
-    "source": "note (npaka)",
-    "published": "Wed, 23 Sep 2026 06:55:02 +0900",
-    "summary": "<p id=\"73ace601-7266-4dcf-a5fb-a41ba2a5904f\" name=\"73ace601-7266-4dcf-a5fb-a41ba2a5904f\">「Claude Opus 5.5」の概要をまとめました。</p><br /><br /><a href=\"https://note.com/npaka/n/nbe629ce4bf3f\">続きをみる</a>",
-    "image": "https://assets.st-note.com/production/uploads/images/316503256/rectangle_large_type_2_d78288c1847b1646a0a35132755d51be.jpeg?width=800",
-    "fetched_at": "2026-09-25 10:40:47",
-    "ja_summary": "要約の生成に失敗しました。"
   }
 ]
