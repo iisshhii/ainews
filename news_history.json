@@ -1,5 +1,115 @@
 [
   {
+    "title": "「自動運転AI」開発、ティアフォーが見る“日本の勝ち筋”　WaymoやUberら黒船続々、勝機はどこに？",
+    "link": "https://www.itmedia.co.jp/business/articles/2609/27/news009.html",
+    "source": "ITmedia ビジネス",
+    "published": "Sun, 27 Sep 2026 08:00:00 +0900",
+    "summary": "自動運転車が一般的になる日が近いかもしれない。国内外の企業が、日本でのレベル4実装に狙いを定めている。ティアフォーやWaymoの動向を理解する上で鍵となる「世界モデル」とは何か。日本勢の勝ち筋はどこにあるか。",
+    "image": "https://image.itmedia.co.jp/business/articles/2609/27/cover_news009.jpg",
+    "fetched_at": "2026-09-29 04:46:41",
+    "ja_summary": "・自動運転の普及に向け、国内外で開発競争が激化。\n・「世界モデル」技術が鍵を握る中、日本勢は独自の勝機を模索。\n・海外勢が参入する日本市場で、ティアフォー等の日本企業が目指す生存戦略を解説。"
+  },
+  {
+    "title": "AIデバッグはなぜ収束しないのか - P2がいつまでも消えない理由",
+    "link": "https://note.com/npaka/n/n557fb948c3cf",
+    "source": "note (npaka)",
+    "published": "Sun, 27 Sep 2026 14:44:18 +0900",
+    "summary": "<p id=\"c2831d12-82e7-4e81-ba20-bfbc31050afc\" name=\"c2831d12-82e7-4e81-ba20-bfbc31050afc\">AIデバッグはなぜ収束しないのかについてまとめました。<br /></p><br /><br /><a href=\"https://note.com/npaka/n/n557fb948c3cf\">続きをみる</a>",
+    "image": "https://assets.st-note.com/production/uploads/images/318068589/rectangle_large_type_2_192a61e5c35d45a4f59dc5aee1ee285a.png?width=800",
+    "fetched_at": "2026-09-29 04:46:59",
+    "ja_summary": "AI開発のデバッグが収束しないのは、バグの修正が新たな問題を引き起こす「もぐら叩き」状態や、AI特有の確率的な挙動が原因である。\n評価指標と実運用との乖離や、AIモデルの複雑さが修正難易度を高めている。\n解決には、適切なテスト環境の構築や評価プロセスの標準化など、AI開発特有のプロジェクト管理手法が必要となる。"
+  },
+  {
+    "title": "ローカルLLMのためのメモリ基礎知識",
+    "link": "https://note.com/npaka/n/n0ee92a316be3",
+    "source": "note (npaka)",
+    "published": "Sun, 27 Sep 2026 10:41:29 +0900",
+    "summary": "<p id=\"7dd0b51e-05ec-4384-951a-3302b2f2ccbb\" name=\"7dd0b51e-05ec-4384-951a-3302b2f2ccbb\">ローカルLLMのためのメモリ基礎知識をまとめました。</p><br /><br /><a href=\"https://note.com/npaka/n/n0ee92a316be3\">続きをみる</a>",
+    "image": "https://assets.st-note.com/production/uploads/images/317997008/rectangle_large_type_2_d07ca4a360213335dec85d8db44d2b3f.png?width=800",
+    "fetched_at": "2026-09-29 04:46:59",
+    "ja_summary": "ローカルLLMを動かすために必要なメモリの基本を解説。\n高性能なLLMほど多くのメモリを必要とする。\nこの記事で、メモリの役割や選び方を理解しよう。"
+  },
+  {
+    "title": "声優業界 AI無断模倣の被害深刻",
+    "link": "https://news.yahoo.co.jp/pickup/6596724?source=rss",
+    "source": "Yahoo!ニュース IT・科学",
+    "published": "Sun, 27 Sep 2026 06:43:02 GMT",
+    "summary": "",
+    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/9/27/b9617e651e92e42339b1084c3d6a9e08b9d7b417157a5ef12f95df67fd2c56d0.jpg",
+    "fetched_at": "2026-09-29 04:47:02",
+    "ja_summary": "・声優の声や演技をAIが許可なく学習・複製する「無断模倣」の被害が急増している。\n・本人の意図しない偽動画や音声がネット上に拡散し、権利侵害が深刻な社会問題化。\n・業界団体が法整備やガイドライン策定を求め、対策強化を急いでいる。"
+  },
+  {
+    "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+    "link": "https://openai.com/index/lenfest-ai-collaborative-expansion",
+    "source": "OpenAI",
+    "published": "Mon, 28 Sep 2026 07:00:00 GMT",
+    "summary": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/6txA4ODTKx7m0Lm7PZhV2j/f0f1322b05b78fb0b33d5dae4920aa00/lenfest-september-seo-white.png?w=1600&amp;h=900&amp;fit=fill",
+    "fetched_at": "2026-09-29 04:47:05",
+    "ja_summary": "OpenAIがLenfest InstituteのAIプログラムに500万ドルの資金と技術支援を拡充。AI分野の人材育成と研究開発を加速させる。"
+  },
+  {
+    "title": "OpenAI extends cyber access to Ukraine for civilian defense",
+    "link": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+    "source": "OpenAI",
+    "published": "Wed, 23 Sep 2026 13:00:00 GMT",
+    "summary": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/5TR3Q7ZcZJbqxGHYfksNSt/de1f57d45927c818631c58ffedb01346/openai-extends-cyber-access-to-ukraine-for-civilian-defense-seo.png?w=1600&amp;h=900&amp;fit=fill",
+    "fetched_at": "2026-09-29 04:47:06",
+    "ja_summary": "・OpenAIがウクライナ政府に対し、サイバー防衛支援プログラム「Daybreak」の提供を拡大。\n・民間インフラをサイバー攻撃から守るためのセキュリティ対策を強化。\n・両者の連携により、国家レベルのサイバーレジリエンス向上を図る。"
+  },
+  {
+    "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+    "link": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+    "source": "Anthropic (News)",
+    "published": "Wed, 23 Sep 2026 00:00:00 +0000",
+    "summary": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+    "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/394de337d8a5d8db93a1c048fa1cb53e16a09625-2048x1240.jpg",
+    "fetched_at": "2026-09-29 04:47:07",
+    "ja_summary": "・AIモデル「Claude」が、CRISPR（ゲノム編集技術）に似た反復配列を持つ新しい酵素システムを発見した。\n・この発見は、次世代の遺伝子操作技術やバイオテクノロジーの進化に貢献する可能性がある。\n・科学研究におけるAIの活用が、新たな生物学的メカニズムの解明を加速させている。"
+  },
+  {
+    "title": "How Claude’s text watermark works",
+    "link": "https://www.anthropic.com/news/claude-text-watermark",
+    "source": "Anthropic (News)",
+    "published": "Fri, 14 Aug 2026 00:00:00 +0000",
+    "summary": "How Claude’s text watermark works",
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Quill&amp;backgroundColor=heather",
+    "fetched_at": "2026-09-29 04:47:07",
+    "ja_summary": "・Claudeが生成したテキストには、AIによる作成を識別するための「電子透かし」が埋め込まれている。\n・特定の統計的パターンを利用することで、文章の改変後もAI生成であることを高い精度で判別可能。\n・AIによるフェイク情報の拡散防止や、著作権・安全性の管理を目的とした技術。"
+  },
+  {
+    "title": "MySQL HeatWave on OCI: Five Capabilities for Transactional Workloads",
+    "link": "https://speakerdeck.com/freshdaz/mysql-heatwave-on-oci-five-capabilities-for-transactional-workloads-45d1a5d4-8ad5-4c0a-be67-d04e8b6b26e5",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-09-28T08:52:16-04:00",
+    "summary": "OCI Open Source Service Update – Sept. 2026\nExplore how MySQL HeatWave on Oracle Cloud Infrastructure helps optimize, protect, and scale MySQL applications. \nCovers Autopilot Indexing, high availability with automatic failover, managed read replicas, enterprise security, and fast DB system cloning for development, testing, and regional recovery.",
+    "image": "https://files.speakerdeck.com/presentations/867e5df60fc44f4a891a92b365763cd2/preview_slide_0.jpg?40706579",
+    "fetched_at": "2026-09-29 04:47:11",
+    "ja_summary": "・MySQL HeatWave on OCIのトランザクション処理向け5つの強化機能を公開。\n・自動インデックス作成や自動フェイルオーバーによる可用性・運用負荷を最適化。\n・クローン作成やセキュリティ強化により、開発・テストから本番環境まで幅広く対応。"
+  },
+  {
+    "title": "MySQL HeatWave on OCI: Five Capabilities for Transactional Workloads",
+    "link": "https://speakerdeck.com/freshdaz/mysql-heatwave-on-oci-five-capabilities-for-transactional-workloads",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-09-28T08:44:06-04:00",
+    "summary": "OCI Open Source Service Update – Sept. 2026\nExplore how MySQL HeatWave on Oracle Cloud Infrastructure helps optimize, protect, and scale MySQL applications. \nCovers Autopilot Indexing, high availability with automatic failover, managed read replicas, enterprise security, and fast DB system cloning for development, testing, and regional recovery.",
+    "image": "https://files.speakerdeck.com/presentations/fcde80dd31404c6281889e4b6fb4ddb7/preview_slide_0.jpg?40706493",
+    "fetched_at": "2026-09-29 04:47:11",
+    "ja_summary": "MySQL HeatWave on OCIの最新機能として、自動インデックス作成や高可用性のための自動フェイルオーバー、管理型読み取りレプリカを強化。\nエンタープライズレベルのセキュリティに加え、開発・テスト・復旧を高速化するDBクローン機能を統合。\nMySQLアプリケーションの最適化、保護、スケーリングを包括的に支援する。"
+  },
+  {
+    "title": "高校の文化祭でPOSシステムをCloudflare上に1から構築/運用した話 〜短期開発から本番障害、そして完売まで〜",
+    "link": "https://qiita.com/ast-24/items/454fc975b095230565c7",
+    "source": "Qiita (Popular)",
+    "published": "2026-09-24T00:39:18+09:00",
+    "summary": "こんにちは！とある高校のSE志望の学生です。\n\n今年の文化祭で、私のクラスは模擬店としてホットドッグを販売することになりました。\n\nそこで、**注文から受け渡しまでを担うPOSシステム**を1から開発・運用してみました！\\\nインフラには一番手軽に使えて自由度も高いCloudflareを採用しました。\n\n予行を含めた3日間で**568件・976個**の注文を処理し、最終的には無事に完売。\\\n**来場",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGMzg4NjkxNCUyRnByb2ZpbGUtaW1hZ2VzJTJGMTc1MTY0NTI4NT9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NjQ0YTk0Y2FmNDdkMDE5OGVmYzMzOTg3MjRmZDU5ZTE%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Df9b0cf7d4e9210c2f24de594b79fa6d1?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUU5JUFCJTk4JUU2JUEwJUExJUUzJTgxJUFFJUU2JTk2JTg3JUU1JThDJTk2JUU3JUE1JUFEJUUzJTgxJUE3UE9TJUUzJTgyJUI3JUUzJTgyJUI5JUUzJTgzJTg2JUUzJTgzJUEwJUUzJTgyJTkyQ2xvdWRmbGFyZSVFNCVCOCU4QSVFMyU4MSVBQjElRTMlODElOEIlRTMlODIlODklRTYlQTclOEIlRTclQUYlODklMkYlRTklODElOEIlRTclOTQlQTglRTMlODElOTclRTMlODElOUYlRTglQTklQjElMjAlRTMlODAlOUMlRTclOUYlQUQlRTYlOUMlOUYlRTklOTYlOEIlRTclOTklQkElRTMlODElOEIlRTMlODIlODklRTYlOUMlQUMlRTclOTUlQUElRTklOUElOUMlRTUlQUUlQjMlRTMlODAlODElRTMlODElOUQlRTMlODElOTclRTMlODElQTYlRTUlQUUlOEMlRTUlQTMlQjIlRTIlODAlQTYmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz04NjNjYTM2YWFmNDhlZTkyMjM0N2E5OGM0OTRhZGRiZQ&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBhc3QtMjQmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz0yYjEzMjRkYTNlMmMyMDNkNDE2ZTEzNmY2N2MzODkyNA&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=c51fc7386d38478e2b291b26f306eded",
+    "fetched_at": "2026-09-29 04:47:13",
+    "ja_summary": "・高校生が文化祭のホットドッグ販売向けに、Cloudflareを用いた独自POSシステムを開発。\n・3日間で約1000個の注文を処理し、本番での障害対応を乗り越え完売を達成。\n・インフラ構築から運用までを学生主体で完遂し、実用性の高いシステム運用を実現。"
+  },
+  {
     "title": "【日本株“次の狙い目”と“不安要素”】AIで銘柄選びを効率化／初心者必見の活用法「AIブレーキ」／今後「TOPIX」がアツい理由／「手元現金」何割残すのが正解？／売買繰り返す“ポジポジ病”への処方箋 | ビジネス | 東洋経済オンライン",
     "link": "https://toyokeizai.net/articles/-/959420?utm_source=rss&utm_medium=http&utm_campaign=link_back",
     "source": "東洋経済オンライン",
@@ -888,115 +998,5 @@
     "image": "https://files.speakerdeck.com/presentations/d8e1765f426048439ba3df6faf3c4645/preview_slide_0.jpg?40697481",
     "fetched_at": "2026-09-28 07:07:37",
     "ja_summary": "・Yandex AI Studioを活用し、データ分析用コーディングエージェントを90分で構築する方法を解説。\n・Yandex CloudとOpenAI Agentsを組み合わせた開発プロセスを実演。\n・構築に必要なソースコードはGitHubで公開中。"
-  },
-  {
-    "title": "「役に立たないAI」続々、こども家庭庁から海外大手銀まで 過度な期待は捨てよ (人的資本の現場から)",
-    "link": "https://business.nikkei.com/atcl/gen/19/00636/092400119/",
-    "source": "日経ビジネス 最新",
-    "published": "",
-    "summary": "こども家庭庁から米フォード・モーターまで、世界中の組織がAIの導入に失敗している。AIを過信した結果だ。「幻滅期」を迎えた今、現場のニーズに即した活用法を見いだせるかが問われている。",
-    "image": "https://business.nikkei.com/atcl/gen/19/00636/092400119/fb.jpg",
-    "fetched_at": "2026-09-28 04:07:06",
-    "ja_summary": "・AI導入の失敗が世界各地で相次ぎ、過度な期待を抱く「幻滅期」に突入している。\n・AIは万能ではなく、組織にとって不要な導入事例も増えている。\n・今後はAIを過信せず、現場の具体的なニーズに基づいた現実的な活用法を再考すべきである。"
-  },
-  {
-    "title": "元LINEヤフー会長・川邊健太郎氏がソロ起業で挑む「AIで動く会社」のリアル (AI駆動型リーダー)",
-    "link": "https://business.nikkei.com/atcl/gen/19/00928/092400006/",
-    "source": "日経ビジネス 最新",
-    "published": "",
-    "summary": "従業員を雇わずAIを駆使して事業を展開する「AIソロプレナー」に挑む元LINEヤフー会長の川邊健太郎氏。全国行脚で見えた「AI駆動型」の経営とリーダー像を語る。",
-    "image": "https://business.nikkei.com/atcl/gen/19/00928/092400006/fb.jpg",
-    "fetched_at": "2026-09-28 04:07:06",
-    "ja_summary": "元LINEヤフー会長が、AIのみで事業を行う「AIソロプレナー」に挑戦。\n従業員を雇わず、AIを駆使した新しい経営スタイルとリーダー像を提唱。\n全国行脚で得たAI駆動型経営のリアルを語る。"
-  },
-  {
-    "title": "楠木建×山口周　生成AIが照らす知的生産の本質　人間の本領は「統合」にある (ビジネスTopics)",
-    "link": "https://business.nikkei.com/atcl/gen/19/00461/090300670/",
-    "source": "日経ビジネス 最新",
-    "published": "",
-    "summary": "【楠木建×山口周　生成AIが照らす知的生産の本質　人間の本領は「統合」にある】AIが得意なのは情報を細かく分解し整理することであって、異質な情報を結び付けて意味を見いだすことではない。",
-    "image": "https://business.nikkei.com/atcl/gen/19/00461/090300670/fb.jpg",
-    "fetched_at": "2026-09-28 04:07:07",
-    "ja_summary": "・生成AIは情報の分解や整理には長けているが、意味付けは苦手。\n・人間本来の価値は、異なる情報を結び付け新たな意味を見出す「統合」にある。\n・AI時代だからこそ、人間は自らの知的生産の本質である「統合力」を磨くべきである。"
-  },
-  {
-    "title": "Microsoft、Copilotを大幅刷新　Home/Code+常時稼働エージェント",
-    "link": "https://www.watch.impress.co.jp/docs/news/2143076.html",
-    "source": "Impress Watch",
-    "published": "",
-    "summary": "Microsoftは25日(米国時間)、AIサービスの「Copilot」を大幅に刷新すると発表した。新たなCopilotは、「Home」「Code」「Autopilot」の3つの機能を軸に再構築され、「Home」と「Code」は今後数週間でFrontierプログラムを通じて順次提供を開始、Autopilotは9月末からプライベートプレビューへと拡大する。",
-    "image": "https://www.watch.impress.co.jp/img/ipw/list/2143/076/ms01.jpg",
-    "fetched_at": "2026-09-28 04:07:15",
-    "ja_summary": "・MicrosoftがAI「Copilot」を刷新し、「Home」「Code」「Autopilot」の3機能へ再編。\n・「Home」と「Code」は今後数週間で提供開始、「Autopilot」は9月末に限定公開。\n・業務効率化を加速させるため、AIが自律的に動くエージェント機能などを強化。"
-  },
-  {
-    "title": "話題のJevとは？文章を書かずに判断だけを返すAIモデルをざっくり解説",
-    "link": "https://qiita.com/yushibats/items/472325ce548da370ed5d",
-    "source": "Qiita (Popular)",
-    "published": "2026-09-18T22:07:53+09:00",
-    "summary": "\n\n## はじめに\n\nJevが話題ですね。\n文章を書かないAIと紹介されていますが、では代わりに何を返すんでしょうか。\n\nこの記事は、Jevが何をするものかの解像度を上げるために自分なりに整理したものです。\n\n## ざっくりまとめ\n\nJevは、文章で書かれた状況を読み、あらかじめ用意された選択肢のどれに当たるかを、確率を付けて答えるモデルです。 文章を生成するLLMと比べると、任せられる仕事の範囲",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGMzk2MzQ2OCUyRnByb2ZpbGUtaW1hZ2VzJTJGMTc1MjA0MTk1OD9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NDNjNjA2OGM1NzI2ZGYzNWVmNTRkNDM3NWNjNDEyNzU%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYzMDk1NWZhN2YwMzlhODVjNDQ5ZmY0ODBhMmE3ZGJjNWQ5ZmY1YWIwJTJGb3JpZ2luYWwuanBnJTNGMTQ1MjE0NTY4Mz9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz0xOTg4ZGUxMGZjNzNiMDdiMDBhNTQzZjdkYWZjODJmMg%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D8dd21cac6c2b6ef9741f5e57684fb14f?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUU4JUE5JUIxJUU5JUExJThDJUUzJTgxJUFFSmV2JUUzJTgxJUE4JUUzJTgxJUFGJUVGJUJDJTlGJUU2JTk2JTg3JUU3JUFCJUEwJUUzJTgyJTkyJUU2JTlCJUI4JUUzJTgxJThCJUUzJTgxJTlBJUUzJTgxJUFCJUU1JTg4JUE0JUU2JTk2JUFEJUUzJTgxJUEwJUUzJTgxJTkxJUUzJTgyJTkyJUU4JUJGJTk0JUUzJTgxJTk5QUklRTMlODMlQTIlRTMlODMlODclRTMlODMlQUIlRTMlODIlOTIlRTMlODElOTYlRTMlODElQTMlRTMlODElOEYlRTMlODIlOEElRTglQTclQTMlRTglQUElQUMmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz0wMGM1ODI2MzliZDU5MTg1OTVjNDE3MTFiNzZlYzg3MQ&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDB5dXNoaWJhdHMmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz0wNjk1NTlhNzhhMjdiNzk2OThhNjgyYzExM2FkYWJhYg&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=5pel5pys44Kq44Op44Kv44Or5qCq5byP5Lya56S-&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=8da66f1075a26bef748f50a8a1a96b05",
-    "fetched_at": "2026-09-28 04:07:36",
-    "ja_summary": "・Jevは文章生成を行わず、提示された状況が事前に定めた選択肢のどれに該当するかを確率で回答するAI。\n・文章を生成する一般的なLLMとは異なり、判定や分類に特化したモデル。\n・情報の要約やタグ付け、意思決定の補助など、分類タスクの効率化に適している。"
-  },
-  {
-    "title": "もう同期は忘れない AIレコーダ「Notta Memo Pro」の薄型ボディに宿る全自動フロー[Sponsored]",
-    "link": "https://www.watch.impress.co.jp/docs/topic/special/2140609.html",
-    "source": "Impress Watch",
-    "published": "",
-    "summary": "簡単操作で素早く録音を始められ、文字起こしや要約もしてくれるAIボイスレコーダー。会議や会話の文字起こしに使ってみたい、と思っている方も多いのではないでしょうか。",
-    "image": "https://www.watch.impress.co.jp/img/ipw/list/2140/609/n002.jpg",
-    "fetched_at": "2026-09-28 00:17:50",
-    "ja_summary": "・録音から文字起こし、要約までを全自動で行うAIボイスレコーダー「Notta Memo Pro」。\n・薄型ボディで携帯性に優れ、会議や会話の記録を効率化する。\n・操作が簡単で、ビジネスの生産性向上に貢献するツール。"
-  },
-  {
-    "title": "【画像】冷戦時代の｢核ミサイル施設｣をAIデータセンターへ…15億円で買った起業家に内部を案内してもらった",
-    "link": "https://www.businessinsider.jp/article/2609-cold-war-nuclear-missile-silo-data-center/",
-    "source": "Business Insider Japan",
-    "published": "Fri, 25 Sep 2026 10:00:00 GMT",
-    "summary": "アメリカ・コロラド州で、冷戦時代の核ミサイル・サイロをAIデータセンターに再生するプロジェクトが進んでいます。約47億円を投じてリノベーションに挑む起業家に、その内部を案内してもらいました。",
-    "image": "https://media.loom-app.com/loom/2026/04/14/fbf1e915-1296-46e1-97b1-a9826ec3eeff/original.jpg?w=1200",
-    "fetched_at": "2026-09-28 00:17:56",
-    "ja_summary": "・米コロラド州にて、冷戦時代の核ミサイル発射施設をAIデータセンターへ改修するプロジェクトが進行中。\n・起業家が約47億円を投じ、かつての軍事施設を最先端のAIインフラへと再生させている。\n・厳重な防護機能を備えた地下空間を、AI活用に必要なコンピューティング拠点に転換する試み。"
-  },
-  {
-    "title": "指輪型AIデバイス『Vocci』国内発売  会議や口述をMCP共有、ChatGPTやClaudeのコンテキスト化",
-    "link": "https://www.techno-edge.net/article/2026/09/25/5527.html",
-    "source": "TechnoEdge",
-    "published": "Fri, 25 Sep 2026 18:49:50 +0900",
-    "summary": "指輪型AIレコーダーのVocci が国内向けクラファンを実施します。",
-    "image": "https://www.techno-edge.net/imgs/rss/34466.jpg",
-    "fetched_at": "2026-09-28 00:18:03",
-    "ja_summary": "・指にはめるAIレコーダー「Vocci」の国内クラウドファンディングが開始。\n・会議や口述を自動録音し、MCP経由でChatGPTやClaudeへ即時共有が可能。\n・AIによる文脈の理解と整理がスムーズになり、業務効率化を強力に支援する。"
-  },
-  {
-    "title": "Two years of OpenAI Academy",
-    "link": "https://openai.com/index/two-years-of-openai-academy",
-    "source": "OpenAI",
-    "published": "Wed, 23 Sep 2026 16:00:00 GMT",
-    "summary": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
-    "image": "https://images.ctfassets.net/kftzwdyauwt9/6A4AcxrMdo5oOri7Wm8qNg/34228cf221e3af874539412f71b28a44/two-years-of-openai-academy-seo.png?w=1600&amp;h=900&amp;fit=fill",
-    "fetched_at": "2026-09-28 00:18:04",
-    "ja_summary": "・OpenAI Academyが設立2周年を迎えた。\n・AIスキルの習得支援を継続し、対象となる地域やコミュニティを拡大する。\n・世界各地でのAI活用能力の向上に注力する。"
-  },
-  {
-    "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
-    "link": "https://openai.com/index/ringg",
-    "source": "OpenAI",
-    "published": "Wed, 23 Sep 2026 12:00:00 GMT",
-    "summary": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
-    "image": "https://images.ctfassets.net/kftzwdyauwt9/773XsnwO9QT1z6x55Ku0BG/678970983193f3c32961714f6eb63320/og.png?w=1600&amp;h=900&amp;fit=fill",
-    "fetched_at": "2026-09-28 00:18:04",
-    "ja_summary": "・Ringgが最新AIを活用した多言語対応エージェントを導入\n・音声やチャット等の問い合わせの最大65%を自動解決\n・GPT-4.1比でコストを90%削減し、効率的な顧客対応を実現"
-  },
-  {
-    "title": "Platform Engineering Kaigi 2026 登壇資料まとめ",
-    "link": "https://zenn.dev/key60228/articles/d4f2591a42a876",
-    "source": "Zenn Trends",
-    "published": "Sat, 26 Sep 2026 17:01:10 GMT",
-    "summary": "こんにちは、@key60228 です。\nPlatform Engineering Kaigi 2026 に参加してきました！\nhttps://www.cnia.io/pek2026/\n原理的な Platform Engineering の話から、AI 基盤としての Platform の話、組織論的な話、はたまた Kubernetes の Controller の話まで、幅広いテーマのセッションがあり、かつ交流会でも色々な方とお話できてすごく楽しい一日でした 🙌\n例年のページを見るにすぐに公式から展開いただけるのかな？と思いつつ、自分用メモを兼ねて、公開されている登壇資料をタイムテーブル順...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--6parybzP--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Platform%2520Engineering%2520Kaigi%25202026%2520%25E7%2599%25BB%25E5%25A3%2587%25E8%25B3%2587%25E6%2596%2599%25E3%2581%25BE%25E3%2581%25A8%25E3%2582%2581%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:KEY60228%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzYwNWRjYjM3YmIuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "fetched_at": "2026-09-28 00:18:06",
-    "ja_summary": "「Platform Engineering Kaigi 2026」の登壇資料まとめ記事。\nAI基盤、組織論、Kubernetesまで幅広いテーマのセッション資料をタイムテーブル順に整理。\n知見の共有や振り返り用に活用できるアーカイブ情報。"
   }
 ]
