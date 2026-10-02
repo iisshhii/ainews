@@ -1,5 +1,75 @@
 [
   {
+    "title": "エヌビディア株が最高値更新…AIを巡る楽観的な見方から投資マネーが再び回帰､史上初の｢時価総額6兆ドル｣視野 | 政治・経済・投資 | 東洋経済オンライン",
+    "link": "https://toyokeizai.net/articles/-/960059?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+    "source": "東洋経済オンライン",
+    "published": "Sat, 03 Oct 2026 08:00:00 +0900",
+    "summary": "エヌビディア株が2カ月ぶりに最高値を更新し､吹き飛んだ時価総額も急回復しています。",
+    "image": "https://tk.ismcdn.jp/mwimgs/f/5/1200w/img_f5354c830ab1f6fb257c2901d7acc228892934.jpg?nextgen=false",
+    "fetched_at": "2026-10-03 08:27:11",
+    "ja_summary": "・エヌビディア株がAIへの期待再燃により2カ月ぶりに最高値を更新。\n・時価総額も急回復し、史上初の6兆ドル到達が視野に入った。\n・AI投資の勢いが再び強まり、市場の楽観的な見方が株価を押し上げている。"
+  },
+  {
+    "title": "熊本地震の被災自治体等へ、ガバメントAI 源内を緊急提供します（終了）",
+    "link": "https://www.digital.go.jp/news/cb912b3b-49c9-4a02-aa46-4056b96c1d4f",
+    "source": "デジタル庁",
+    "published": "Wed, 30 Sep 2026 18:18:34 +0900",
+    "summary": "",
+    "image": "https://www.digital.go.jp/themes/custom/gov_theme_da_2023/assets/images/ogp.png",
+    "fetched_at": "2026-10-03 08:27:34",
+    "ja_summary": "・熊本地震の被災自治体に対し、AI「源内」を緊急提供した（現在は終了）。\n・被災地の復旧・復興に向けた支援体制の強化を目的として実施。\n・現在は提供を終了している。"
+  },
+  {
+    "title": "地方公共団体におけるアナログ規制の見直しの取組紹介「和歌山県における衛星データとAIの活用事例」を掲載しました",
+    "link": "https://www.digital.go.jp/policies/digital-extraordinary-administrative-research-committee/local-government",
+    "source": "デジタル庁",
+    "published": "Wed, 30 Sep 2026 15:00:00 +0900",
+    "summary": "",
+    "image": "https://www.digital.go.jp/themes/custom/gov_theme_da_2023/assets/images/ogp.png",
+    "fetched_at": "2026-10-03 08:27:34",
+    "ja_summary": "和歌山県が衛星データとAIを活用し、目視や現地調査などのアナログ規制を見直す取り組みを開始した。\nデジタル技術で業務を効率化し、行政手続きの迅速化やコスト削減を目指す。\n先進事例を公開することで、他自治体への展開を促し地方のデジタル化を推進する。"
+  },
+  {
+    "title": "第6回先進的AI利活用アドバイザリーボードの会議資料等を掲載しました",
+    "link": "https://www.digital.go.jp/councils/ai-advisory-board/162953b0-3dc0-46a6-a24c-0e3a335e0495",
+    "source": "デジタル庁",
+    "published": "Tue, 29 Sep 2026 15:00:00 +0900",
+    "summary": "",
+    "image": "https://www.digital.go.jp/themes/custom/gov_theme_da_2023/assets/images/ogp.png",
+    "fetched_at": "2026-10-03 08:27:34",
+    "ja_summary": "第6回「先進的AI利活用アドバイザリーボード」の会議資料が公開された。\nAIの利活用に関する議論の最新状況を把握できる。\n詳細は総務省等の関連サイトにて確認可能。"
+  },
+  {
+    "title": "The eternal complement",
+    "link": "https://openai.com/index/the-eternal-complement",
+    "source": "OpenAI",
+    "published": "Thu, 01 Oct 2026 17:00:00 GMT",
+    "summary": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/2lnidMsGW3gfP6p4fYJZTg/be8ebadd2bf9e9d83adea7a6f28f0501/eternal-complement-seo-white-preview.png?w=1600&amp;h=900&amp;fit=fill",
+    "fetched_at": "2026-10-03 08:27:35",
+    "ja_summary": "・次世代経済では、画期的なアイデアそのものよりも、その裏側にあるルーチンワークの遂行力が競争力を左右する。\n・AIは、複雑な創造的作業を支える実務を効率化することで、技術革新のスピードを劇的に加速させる。\n・ビジネスの成功には、AIを活用して日々の業務を最適化し、実行力を最大化する戦略が不可欠となる。"
+  },
+  {
+    "title": "Strands Decider 2Bについて理解する",
+    "link": "https://zenn.dev/fusic/articles/db6e62832a4a1f",
+    "source": "Zenn Trends",
+    "published": "Fri, 02 Oct 2026 13:37:55 GMT",
+    "summary": "はじめに\nFusicのレオナです。\nStrands Agentsは、AWSが開発し、オープンソースとして公開しているAIエージェント開発用SDKです。LLMに与える指示と利用可能なツールを定義することで、状況に応じてツールを選び、その実行結果を踏まえながら処理を進めるエージェントを構築できます。AWS専用のSDKではなく、Amazon Bedrock以外のモデルAPIやローカルモデルにも対応しています。\n今回のブログで取り上げる「Strands Decider 2B」は、Strandsの実験的なプロジェクトを扱うStrands Labsから公開された判断用モデルです。Strands ...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--tGj_sker--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Strands%2520Decider%25202B%25E3%2581%25AB%25E3%2581%25A4%25E3%2581%2584%25E3%2581%25A6%25E7%2590%2586%25E8%25A7%25A3%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:xthixsl_ml%2540%25E3%2583%25AC%25E3%2582%25AA%25E3%2583%258A%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzNhNDgxMzQ3YjkuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Fusic%2520%25E6%258A%2580%25E8%25A1%2593%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzIzOGE3MzVjMDIuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-10-03 08:27:37",
+    "ja_summary": "・AWSのAIエージェント開発用SDK「Strands Agents」は、柔軟なツール連携と自律的な判断が可能なエージェント構築を支援する。\n・「Strands Decider 2B」は、Strands Labsが公開した、エージェントの判断能力を強化するための実験的な判断用モデルである。\n・AWS以外のモデルとも連携可能であり、特定の環境に縛られない高度なAIエージェント開発を実現する。"
+  },
+  {
+    "title": "TechCrunch Disrupt 2026: Pre-Event Report",
+    "link": "https://speakerdeck.com/takuyashimano/techcrunch-disrupt-2026-startup-landscape",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-10-02T01:43:42-04:00",
+    "summary": "An analysis of 201 Startup Battlefield companies across six business domains.\n\nThe report examines sector and product-offering composition across the 2022-2026 selections, profiles 24 companies, and compares disclosed financings and estimated enterprise values. It also includes documented business pivots and global venture funding benchmarks.\n\nResearch as of 18 September 2026. Analysis and compilation: E9 Technologies.\n\nCompanion workbook — company directory, financing records and source links:\nhttps://docs.google.com/spreadsheets/d/17vYYQl4x3sTpqtv2m7IsFTeynb4He-_0/edit#gid=403132553",
+    "image": "https://files.speakerdeck.com/presentations/0f35c91b864649ccbc1632542a4a75eb/preview_slide_0.jpg?40765426",
+    "fetched_at": "2026-10-03 08:27:40",
+    "ja_summary": "・TechCrunch Disruptの歴代スタートアップ200社を分析し、2022年から2026年までの市場傾向や事業転換を網羅。\n・選出企業24社の詳細プロファイルに加え、資金調達状況や企業価値の比較データを提示。\n・業界動向とベンチャー投資のベンチマークが整理された、ビジネス戦略に役立つ分析レポート。"
+  },
+  {
     "title": "総額2.3兆円、千葉市に巨大な「AIデータセンター」建設へ　発電大手JERA参画の“ドリームチーム”、勝機どうつかむ？",
     "link": "https://www.itmedia.co.jp/business/articles/2610/01/news082.html",
     "source": "ITmedia ビジネス",
@@ -928,75 +998,5 @@
     "image": "https://japan.zdnet.com/storage/2026/09/28/6c3ca2c946322103cf343f76b3cbfecd/t/184/138/d/abstractmaze-GettyImages-2280014130_l.jpg",
     "fetched_at": "2026-10-02 08:10:00",
     "ja_summary": "・AIによる企業ハッキングのリスクが深刻化している。\n・暴走するAIエージェントの責任所在が問われている。\n・リスク軽減のための具体的な対策が求められている。"
-  },
-  {
-    "title": "PS5 Proじゃなくても画質向上、ソニーの新AI超解像『QSSR』  ウルヴァリンとヨウテイから提供。既存ゲームもアップデートで対応可",
-    "link": "https://www.techno-edge.net/article/2026/10/02/5545.html",
-    "source": "TechnoEdge",
-    "published": "Fri, 02 Oct 2026 07:15:02 +0900",
-    "summary": "ソニーがPS5向けの新しいグラフィック技術 QSSR を発表しました。",
-    "image": "https://www.techno-edge.net/imgs/rss/34588.jpg",
-    "fetched_at": "2026-10-02 08:10:01",
-    "ja_summary": "・ソニーがPS5向けの新AI超解像技術「QSSR」を発表。\n・PS5 Pro以外の機種でも画質向上が可能で、既存タイトルもアップデートで対応。\n・『ウルヴァリン』や『Ghost of Yōtei』などの新作から順次導入される。"
-  },
-  {
-    "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
-    "link": "https://openai.com/index/the-den-family-social",
-    "source": "OpenAI",
-    "published": "Thu, 01 Oct 2026 00:00:00 GMT",
-    "summary": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.",
-    "image": "https://images.ctfassets.net/kftzwdyauwt9/2LBeQvZxob9E44kvUBuP4u/bf9887c20e840ecd0362d8e93e98c31d/og.png?w=1600&amp;h=900&amp;fit=fill",
-    "fetched_at": "2026-10-02 08:10:02",
-    "ja_summary": "・会員制クラブ「The Den」がChatGPTを活用し、週10〜15時間の業務時間を削減。\n・助成金申請や酒類ライセンス取得等の煩雑な事務作業を大幅に効率化。\n・浮いた時間を新店舗展開などの成長戦略に充て、生産性を向上。"
-  },
-  {
-    "title": "Driving Better Architecture Decisions with Architecture Principles",
-    "link": "https://speakerdeck.com/eoinwoods/driving-better-architecture-decisions-with-architecture-principles-780cf6cd-dab6-492e-9f19-ff571a33978f",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-10-01T19:04:18-04:00",
-    "summary": "<em>(This updated version of the talk was presented at ITARC 2026 in Stockholm in September 2026)</em>\n\nA common challenge in modern software architecture is how to empower people to make architectural decisions while keeping them aligned with the overall goals and priorities of the system. \n\nArchitectural principles are a deceptively simple idea which helps us to achieve this. \n\nPrinciples provide actionable goals, constraints and priorities, with clear rationale, that allow their applicability and importance to be quickly understood. This gives people the context they need to make good, aligned decisions. \n\nIn this talk I will introduce the idea of an architecture principle, discuss what makes a good principle and how to capture it clearly, and show how they relate to architectural decisions to help teams make good decisions that solve their immediate problem but also preserve the technical integrity of the system.",
-    "image": "https://files.speakerdeck.com/presentations/702194dc96bc42cca947c0a8d3ff85b1/preview_slide_0.jpg?40754763",
-    "fetched_at": "2026-10-02 08:10:06",
-    "ja_summary": "「アーキテクチャ原則」を活用することで、チームが自律的に適切な意思決定を行いつつ、システム全体の整合性を維持できるようになる。\n優れた原則とは、明確な根拠に基づいた行動指針や制約を示すものであり、現場の判断基準となる。\n本講演では、良質な原則の策定方法と、それがシステム開発の健全性にどう貢献するかを解説する。"
-  },
-  {
-    "title": "Pushing PostgreSQL to the Limit: How to Benchmark Hardware with Postgres",
-    "link": "https://speakerdeck.com/richyen/pushing-postgresql-to-the-limit-how-to-benchmark-hardware-with-postgres",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-10-01T15:35:44-04:00",
-    "summary": "Hardware vendors and cloud providers often tout massive IOPS and throughput capabilities, leaving DBAs wondering if the CPU, the storage, or PostgreSQL itself is the actual bottleneck during intense workloads. Whether you are validating new NVMe arrays, comparing cloud block storage options, or sizing instances for an upcoming migration, guessing is a dangerous game.\n\nAttendees will learn how to build an impartial benchmarking harness tailored for Postgres. We will cover crucial, often-missed PostgreSQL gotchas—from navigating archive_mode overhead and autovacuum interference, to taming checkpoint storms that skew synthetic tests. You'll leave knowing how to correctly instrument system and database metrics to definitively prove whether a performance plateau is caused by storage limits, CPU bandwidth, or internal PostgreSQL lock contention.\n\nPresented at PG Summit US in NYC on 2026-10-01",
-    "image": "https://files.speakerdeck.com/presentations/86e0b79984e0447c809116d67f12e8ce/preview_slide_0.jpg?40754522",
-    "fetched_at": "2026-10-02 08:10:06",
-    "ja_summary": "・ハードウェアやクラウドの性能をPostgreSQL環境で正しく計測する手法を解説。\n・ベンチマークの精度を落とす自動バキュームやチェックポイント等の阻害要因を排除。\n・ボトルネックがストレージ、CPU、DB内部処理のどこにあるかを明確に特定する方法を学ぶ。"
-  },
-  {
-    "title": "The seven pitfalls of AI (revised version)",
-    "link": "https://speakerdeck.com/ufried/the-seven-pitfalls-of-ai-revised-version",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-10-01T15:18:45-04:00",
-    "summary": "This slide deck discusses some of the open questions that usually do not get the required attention during the current ongoing AI transitions. It is a revised version of a former slide deck with the same title. As the AI domain is still rapidly evolving, some of the questions of the former slide deck became less relevant (or meanwhile receive the required attention) while the importance of other questions increased.\n\nThe pitfalls discussed are:\n* the general problem of making informed decisions regarding AI due to a very distorted messaging based on the respective incentives of the players.\n* confusing AI with humans on the one hand and with software on the other hand.\n* the whole productivity discussion, split up into the usually unsolved productivity-responsibility dilemma on the one side and the problem of local optimizations and lack of effectiveness on the other side.\n* the AI vampire, meaning that massive AI usage causes \"brain fry\" and addiction, and we still need to learn how to deal with it.\n* the centralization-dependency-sovereignty problem, reinforced by taking the most convenient route all the time.\n* the completely open question which novel ways of value creation and value capture AI will enable.\n\nAs so often, the voice track is missing, but I hope that the slides still give you a few ideas to ponder.",
-    "image": "https://files.speakerdeck.com/presentations/5640d597aa3f4815befbb05f4c3d9561/preview_slide_0.jpg?40754419",
-    "fetched_at": "2026-10-02 08:10:06",
-    "ja_summary": "AI導入時に見過ごされがちな7つの落とし穴を解説。情報が歪められた環境下での意思決定の難しさや、人間とソフトウェアの混同、生産性や依存性の問題を指摘。AI活用の新たな価値創造には、これら未解決の課題への深い洞察が不可欠であると示唆している。"
-  },
-  {
-    "title": "「まず、その業務なくせない？」　野村不動産HDが経理DXで「年間9000時間」を生み出した“引き算”の考え方",
-    "link": "https://www.itmedia.co.jp/business/articles/2609/30/news089.html",
-    "source": "ITmedia ビジネス",
-    "published": "Wed, 30 Sep 2026 15:00:00 +0900",
-    "summary": "DXやAI活用自体が目的となり、具体的な成果になかなか結び付かない企業は少なくない。野村不動産ホールディングスの経理DXを取材すると、DXを進める前の「一呼吸」に、成功の要因があることが見えてきた。",
-    "image": "https://image.itmedia.co.jp/business/articles/2609/30/cover_news089.jpg",
-    "fetched_at": "2026-10-02 04:09:56",
-    "ja_summary": "野村不動産HDは、経理DXで年間9000時間削減。\nDX導入前に「無駄な業務はないか」と問い直す「引き算」の考え方が成功の鍵。\n目的先行ではなく、現場の課題解決からDXを進めた。"
-  },
-  {
-    "title": "ChatGPT Space の概要",
-    "link": "https://note.com/npaka/n/nda332c9113a4",
-    "source": "note (npaka)",
-    "published": "Wed, 30 Sep 2026 21:33:20 +0900",
-    "summary": "<p id=\"d0ac9c6f-750d-4cac-b487-5531bd71d221\" name=\"d0ac9c6f-750d-4cac-b487-5531bd71d221\">「ChatGPT Space」の概要についてまとめました。</p><br /><br /><a href=\"https://note.com/npaka/n/nda332c9113a4\">続きをみる</a>",
-    "image": "https://assets.st-note.com/production/uploads/images/319295846/rectangle_large_type_2_8f3f3149b22911e7d49e9b59b3bad0fb.png?width=800",
-    "fetched_at": "2026-10-02 04:10:12",
-    "ja_summary": "ChatGPT Spaceの概要をまとめた記事です。\n詳細はリンク先で確認できます。"
   }
 ]
