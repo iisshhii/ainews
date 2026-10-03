@@ -1,5 +1,35 @@
 [
   {
+    "title": "米コストコの最新決算が映す｢広告を打たない企業｣への追い風 AI検索の売れ筋上位に\"会員権\" | 政治・経済・投資 | 東洋経済オンライン",
+    "link": "https://toyokeizai.net/articles/-/959348?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+    "source": "東洋経済オンライン",
+    "published": "Sun, 04 Oct 2026 07:00:00 +0900",
+    "summary": "AIの普及とともに､コストコのユニークな会員権戦略が改めて注目を浴びています。",
+    "image": "https://tk.ismcdn.jp/mwimgs/8/f/1200w/img_8fcb29b8483d8844dd631c4422607245105144.jpg?nextgen=false",
+    "fetched_at": "2026-10-04 07:59:42",
+    "ja_summary": "・AI検索で「会員権」が上位にくるほど、コストコの独自モデルが再注目されている。\n・広告費に頼らず会員費で利益を確保する戦略が、今の市場環境で強みを発揮している。\n・消費者の検索行動の変化が、コストコの「広告を打たない」ビジネスモデルに追い風となっている。"
+  },
+  {
+    "title": "中国｢フィジカルAI｣銘柄の上場ブームに早くも秋風…ロボット用減速機の環動科技がIPO申請を取り下げ | ビジネス | 東洋経済オンライン",
+    "link": "https://toyokeizai.net/articles/-/959713?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+    "source": "東洋経済オンライン",
+    "published": "Sun, 04 Oct 2026 06:00:00 +0900",
+    "summary": "中国の資本市場で､ヒト型ロボットに代表される｢フィジカルAI｣の関連企業の上場ブームが早くも冷え込み始めています。ロボットの関節用の減速機を手がける環動科技は､すでに審査過程にあったIPO申請を自ら…",
+    "image": "https://tk.ismcdn.jp/mwimgs/3/d/1200w/img_3dc405a52e594514e13f4c27504ea763202514.jpg?nextgen=false",
+    "fetched_at": "2026-10-04 07:59:42",
+    "ja_summary": "・中国で加熱していた「フィジカルAI（ヒト型ロボット等）」関連銘柄のIPOブームが急減速。\n・ロボット用減速機大手、環動科技が審査中のIPO申請を自ら取り下げ。\n・市場の期待先行に対し、収益性や将来性への評価が厳格化している。"
+  },
+  {
+    "title": "オブザーバビリティのAIエージェントをどう評価するか",
+    "link": "https://zenn.dev/ymotongpoo/articles/20261001-agent-eval-loop",
+    "source": "Zenn Trends",
+    "published": "Thu, 01 Oct 2026 00:00:00 GMT",
+    "summary": "はじめに\nAIエージェントにオブザーバビリティの仕事をさせたとき、その最終応答の品質が上がったのか下がったのかを、どうやって知るのでしょうか。\nエージェントの最終応答を読んで判断する方法は、早い段階で行き詰まります。正しい応答と、正しく見えるだけの応答が同じ見た目をしているからです。しかも同じ質問に毎回同じ応答が返るわけでもなく、期待する文字列を固定したテストは書けません。\nこの記事では、Grafana Assistantを開発しているチームが公式のエンジニアリングブログに公開した Building an evaluation loop for Grafana Assistant（Y...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--s2BPhy_r--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25AA%25E3%2583%2596%25E3%2582%25B6%25E3%2583%25BC%25E3%2583%2590%25E3%2583%2593%25E3%2583%25AA%25E3%2583%2586%25E3%2582%25A3%25E3%2581%25AEAI%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588%25E3%2582%2592%25E3%2581%25A9%25E3%2581%2586%25E8%25A9%2595%25E4%25BE%25A1%25E3%2581%2599%25E3%2582%258B%25E3%2581%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Yoshi%2520Yamaguchi%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2dMOUN2MU9tRlBwUUcwY0pWOHZUeW1SZ3ViT3VaWnplQ01HUTJjMHRnPXMyNTAtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-10-04 08:00:07",
+    "ja_summary": "・AIエージェントの応答品質を、目視や単純な文字列比較で評価するのは困難。\n・Grafanaチームは、再現性のないAIの出力を定量的に評価する「評価ループ」を構築。\n・AIの判断の妥当性を担保するためのテスト戦略と、継続的な改善手法を解説。"
+  },
+  {
     "title": "3万スターの Claude Code スキルを入れたら、出力が43%短くなった",
     "link": "https://qiita.com/suwa_nobu/items/cec37ce5a6141bb3eefc",
     "source": "Qiita (Popular)",
@@ -968,35 +998,5 @@
     "image": "https://japan.zdnet.com/storage/2025/11/07/1d70c6b3fd209b9551e1dc5ec9352c1e/t/184/138/d/251107_diagram_as_1280_316504896.jpg",
     "fetched_at": "2026-10-02 11:12:38",
     "ja_summary": "・国内企業のAI活用目的が、従来の「業務効率化」から「ビジネスモデルの変革」へとシフトしている。\n・ガートナージャパンが、従業員500人以上の国内企業ITリーダーを対象に実施した最新調査で判明。"
-  },
-  {
-    "title": "パナソニック コネクトは注力するSCM事業で存在感を高められるか",
-    "link": "https://japan.zdnet.com/article/35253104/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "今回は、パナソニック コネクトグループ CEO Ken Sain氏と、クリックテック・ジャパン 執行役員社長 今野芳弘氏の「明言」を紹介する。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35253104/\"><img src=\"https://japan.zdnet.com/storage/2026/09/30/78a341481909957afd11a5443bd3f5f2/t/184/138/d/20261002_matsuoka_1280x960.jpg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2026/09/30/78a341481909957afd11a5443bd3f5f2/t/184/138/d/20261002_matsuoka_1280x960.jpg",
-    "fetched_at": "2026-10-02 11:12:38",
-    "ja_summary": "パナソニック コネクトが注力するサプライチェーン管理（SCM）事業の展望について、同社CEOとクリックテック・ジャパン社長の対談を通じてその戦略を紐解く。両社の連携が同事業の競争力強化にどう寄与するかに焦点を当てた記事。"
-  },
-  {
-    "title": "三重大学病院、AI基幹システム「Apollo AI」を導入--医療DXプロジェクトを推進",
-    "link": "https://japan.zdnet.com/article/35253177/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "三重大学医学部附属病院（三重大学病院）は、AI基幹システム「Apollo AI」を導入開始した。10月1日にApollo AIを開発するAlbatrusが発表した。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35253177/\"><img src=\"https://japan.zdnet.com/storage/2026/10/02/b86724883be38edb35680cb705932109/t/184/138/d/261002_mie_l.jpg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2026/10/02/b86724883be38edb35680cb705932109/t/184/138/d/261002_mie_l.jpg",
-    "fetched_at": "2026-10-02 11:12:38",
-    "ja_summary": "三重大学病院が医療DX推進のため、AI基幹システム「Apollo AI」を導入しました。\n開発元のAlbatrus社が10月1日に発表しており、病院運営の効率化や高度化が期待されます。"
-  },
-  {
-    "title": "100年前の歌もAI超解像できる？　東京大学猿渡研「Sidon」で始めるAI歌声超解像（CloseBox）",
-    "link": "https://www.techno-edge.net/article/2026/10/02/5546.html",
-    "source": "TechnoEdge",
-    "published": "Fri, 02 Oct 2026 09:12:17 +0900",
-    "summary": "生成AI技術を使って、古い写真を高精細にすることはできています。動画にすることすらできます。でも、音は？　それを可能にする技術が、ある程度可能になったというお話です。",
-    "image": "https://www.techno-edge.net/imgs/rss/34602.jpg",
-    "fetched_at": "2026-10-02 11:12:40",
-    "ja_summary": "・東大の研究グループが、古い録音音声の音質をAIで飛躍的に高める技術「Sidon」を開発。\n・写真や動画の解像度向上と同様に、AIを用いて劣化した歌声を高精細に復元することが可能。\n・かつての楽曲を高音質で蘇らせるなど、音源修復技術の新たな活用が期待される。"
   }
 ]
