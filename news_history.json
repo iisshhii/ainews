@@ -1,5 +1,15 @@
 [
   {
+    "title": "3万スターの Claude Code スキルを入れたら、出力が43%短くなった",
+    "link": "https://qiita.com/suwa_nobu/items/cec37ce5a6141bb3eefc",
+    "source": "Qiita (Popular)",
+    "published": "2026-09-09T13:38:12+09:00",
+    "summary": "\n`ayghri/i-have-adhd` が Hacker News で269ポイントを集めていました。**GitHub 30,233スター**（2026-09-09 時点、API取得）。**エージェントの回答から前置きを取り、行動を先頭に置かせる**スキルです。\n\n日本語の紹介記事は3本ありましたが、**どれも実測がありません。** 1本は「生産性向上のデータはない」と明記しています。\n\n測り",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0NDMwNjExJTJGYTRlNGFiZDZjNWNkZmM5NzkzMTk2ZmUwZDFjZjYyMGY1ZWYxMTY5NCUyRnhfbGFyZ2UucG5nJTNGMTc4NTI4OTU5Nj9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NGE5ZmNiZmE4OTM5NWU1MWY1N2FiYjJkYzI1ZTFmZDQ%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYyMDc3NzA2NTMzODkzMmUyMWVjMjk3MjI5ZDVkZmI5NDk5MWI5YzFhJTJGb3JpZ2luYWwuanBnJTNGMTc2OTAwMDk3MD9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz1lYjc1ZTQzMzAzYTdlNTkzNDQ4Yjc4NDZiMjljYTgxZA%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D237198914e54e0e7e727d16c4cfb7823?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9MyVFNCVCOCU4NyVFMyU4MiVCOSVFMyU4MiVCRiVFMyU4MyVCQyVFMyU4MSVBRSUyMENsYXVkZSUyMENvZGUlMjAlRTMlODIlQjklRTMlODIlQUQlRTMlODMlQUIlRTMlODIlOTIlRTUlODUlQTUlRTMlODIlOEMlRTMlODElOUYlRTMlODIlODklRTMlODAlODElRTUlODclQkElRTUlOEElOUIlRTMlODElOEM0MyUyNSVFNyU5RiVBRCVFMyU4MSU4RiVFMyU4MSVBQSVFMyU4MSVBMyVFMyU4MSU5RiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPWY0OTFlYWI5NmEwMzc3YzBiOTc4NTI1MzdmYWM1ZTMx&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBzdXdhX25vYnUmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1iZTVkNGQ3ZjgwNDY4YWQwMGMxZTkyMjA3YzFjYWMxMw&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=5qCq5byP5Lya56S-SlFJVA&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=0810210f93c8120aaa47b92096f1aca9",
+    "fetched_at": "2026-10-04 05:04:59",
+    "ja_summary": "・AIエージェントの回答から不要な前置きを排除し、結論（行動）を先頭に配置させる設定が注目されている。\n・導入により出力が43%削減される効果が報告されている。\n・実測データに基づく有用性の検証はまだ少なく、今後の評価が待たれる。"
+  },
+  {
     "title": "国産ヒューマノイド、量産／タイムズカー、集団訴訟へ／トランプ政権くすぶる火種（2026年10月2日版） (日経ビジネスAUDIOモーニング)",
     "link": "https://business.nikkei.com/atcl/audio/22/00001/100100972/",
     "source": "日経ビジネス 最新",
@@ -988,15 +998,5 @@
     "image": "https://www.techno-edge.net/imgs/rss/34602.jpg",
     "fetched_at": "2026-10-02 11:12:40",
     "ja_summary": "・東大の研究グループが、古い録音音声の音質をAIで飛躍的に高める技術「Sidon」を開発。\n・写真や動画の解像度向上と同様に、AIを用いて劣化した歌声を高精細に復元することが可能。\n・かつての楽曲を高音質で蘇らせるなど、音源修復技術の新たな活用が期待される。"
-  },
-  {
-    "title": "オブザーバビリティのAIエージェントをどう評価するか",
-    "link": "https://zenn.dev/ymotongpoo/articles/20261001-agent-eval-loop",
-    "source": "Zenn Trends",
-    "published": "Thu, 01 Oct 2026 00:00:00 GMT",
-    "summary": "はじめに\nAIエージェントにオブザーバビリティの仕事をさせたとき、その最終応答の品質が上がったのか下がったのかを、どうやって知るのでしょうか。\nエージェントの最終応答を読んで判断する方法は、早い段階で行き詰まります。正しい応答と、正しく見えるだけの応答が同じ見た目をしているからです。しかも同じ質問に毎回同じ応答が返るわけでもなく、期待する文字列を固定したテストは書けません。\nこの記事では、Grafana Assistantを開発しているチームが公式のエンジニアリングブログに公開した Building an evaluation loop for Grafana Assistant（Y...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--s2BPhy_r--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25AA%25E3%2583%2596%25E3%2582%25B6%25E3%2583%25BC%25E3%2583%2590%25E3%2583%2593%25E3%2583%25AA%25E3%2583%2586%25E3%2582%25A3%25E3%2581%25AEAI%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588%25E3%2582%2592%25E3%2581%25A9%25E3%2581%2586%25E8%25A9%2595%25E4%25BE%25A1%25E3%2581%2599%25E3%2582%258B%25E3%2581%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Yoshi%2520Yamaguchi%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2dMOUN2MU9tRlBwUUcwY0pWOHZUeW1SZ3ViT3VaWnplQ01HUTJjMHRnPXMyNTAtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "fetched_at": "2026-10-02 11:12:43",
-    "ja_summary": "・AIエージェントの応答は毎回異なるため、固定のテストコードでは品質評価が困難。\n・Grafanaチームは、応答の正誤を継続的に判断する独自の「評価ループ」を構築。\n・AIの回答精度を客観的に測定し、改善し続けるための仕組み作りが重要となる。"
   }
 ]
