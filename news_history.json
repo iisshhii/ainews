@@ -1,5 +1,75 @@
 [
   {
+    "title": "科学技術振興機構理事長（71歳）の働き方が劇的に変わった！｢音声入力｣と｢生成AI｣がもたらす驚きの知的生産革命 | ライフ | 東洋経済オンライン",
+    "link": "https://toyokeizai.net/articles/-/959783?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+    "source": "東洋経済オンライン",
+    "published": "Sat, 03 Oct 2026 15:00:00 +0900",
+    "summary": "AI技術に決して精通していなかった筆者が､音声入力と生成AIの活用をきっかけに､知的生産や｢考えること｣そのものが劇的に変化しました――年齢や専門､慣習さえ超えて広がる仕事の新しいあり方とは？",
+    "image": "https://tk.ismcdn.jp/mwimgs/5/b/1200w/img_5b48d64bc8e3f42a76f3f2f20baf8f3d230305.jpg?nextgen=false",
+    "fetched_at": "2026-10-03 17:04:19",
+    "ja_summary": "・AIや音声入力の活用で、71歳の専門家でも知的生産性が劇的に向上した。\n・技術に不慣れでも、AIを「思考のパートナー」にすることで仕事のあり方が変わる。\n・年齢や専門分野を問わず、新しいツールが知的作業の概念と効率を刷新する。"
+  },
+  {
+    "title": "アップル、macOSの「フルディスクアクセス」制御を強化へ。AIエージェントのリスク増大を警告",
+    "link": "https://www.techno-edge.net/article/2026/10/03/5551.html",
+    "source": "TechnoEdge",
+    "published": "Sat, 03 Oct 2026 12:50:02 +0900",
+    "summary": "アップルは、macOSの「フルディスクアクセス」に関する設定に追加の制御機能を導入する方針を明らかにしました。",
+    "image": "https://www.techno-edge.net/imgs/rss/34618.jpg",
+    "fetched_at": "2026-10-03 17:04:40",
+    "ja_summary": "・アップルがmacOSの「フルディスクアクセス」の制御機能を強化へ\n・AIエージェントによる不正アクセスのリスク増大に対応\n・ユーザーのデータ保護を目的としたセキュリティの改善策"
+  },
+  {
+    "title": "実務において敵対的レビューはどの程度有効なのか",
+    "link": "https://zenn.dev/edash_tech_blog/articles/4577f7d4780bef",
+    "source": "Zenn Trends",
+    "published": "Thu, 01 Oct 2026 10:48:47 GMT",
+    "summary": "目次\n\n背景\nやったこと\n検証結果\n考察\n付記：レビューと自動修正のループで指摘が収束しない問題\n感想\n\n\n 1. 背景\nAI エージェントにコードレビューをさせる手法のひとつとして、敵対的レビューが広まっています。差分を通常どおりレビューして問題を探すだけでなく、「この変更で誤った結果やエラーを起こす入力や状況は何か」を探す役割のエージェントを別に立て、両者の指摘を実コードで確かめてから確定させる方式です。筆者のチームでも導入しています。\n一方で、実務で回すと負担が目立ちます。まず時間と token のコストが高いです。複数のエージェントを並列に実行し、各エージェントの指摘をさらに...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--a5iWXFAC--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E5%25AE%259F%25E5%258B%2599%25E3%2581%25AB%25E3%2581%258A%25E3%2581%2584%25E3%2581%25A6%25E6%2595%25B5%25E5%25AF%25BE%25E7%259A%2584%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25E3%2581%25AF%25E3%2581%25A9%25E3%2581%25AE%25E7%25A8%258B%25E5%25BA%25A6%25E6%259C%2589%25E5%258A%25B9%25E3%2581%25AA%25E3%2581%25AE%25E3%2581%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:jellyfish1129%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzNkZWM5ZjExNTcuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:e-dash%2520Tech%2520Blog%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzVkMTYyYTQ4OTguanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-10-03 17:04:45",
+    "ja_summary": "AIエージェントによる敵対的レビューは品質向上に有用だが、コストと時間がかかるのが実務上の課題。\nレビューと修正のループで指摘が収束しにくい現象が発生し、現場への導入には最適化が必要である。\n結論として、導入効果と運用のトレードオフを慎重に判断することが求められる。"
+  },
+  {
+    "title": "OSC2026on_the-world-is-waiting-for-your-voice.pdf",
+    "link": "https://speakerdeck.com/naruoga/osc2026on-the-world-is-waiting-for-your-voice",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-10-03T01:53:59-04:00",
+    "summary": "オープンソースカンファレンス 2026 Online/Fallで発表した「世界はあなたの声を待っている：英語が苦手でもできる海外登壇のススメ」の発表資料です。\nhttps://event.ospn.jp/osc2026-online-fall/session/2392479",
+    "image": "https://files.speakerdeck.com/presentations/62bc604c11a24a8abaab727dc4d92dc8/preview_slide_0.jpg?40771949",
+    "fetched_at": "2026-10-03 17:04:46",
+    "ja_summary": "・英語が苦手でも、ツールや工夫次第で海外カンファレンスへの登壇は十分に可能。\n・海外登壇の具体的なステップや準備方法を共有し、国際的な発信への一歩を後押しする。\n・世界に向けた知見の共有を推奨し、多様なバックグラウンドを持つエンジニアの挑戦を促す。"
+  },
+  {
+    "title": "OR学会2026年秋期大会_機械学習と数理最適化の融合による、配合レシピ最適化システム開発事例",
+    "link": "https://speakerdeck.com/brainpadpr/formulation-optimization-system",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-10-03T00:24:59-04:00",
+    "summary": "2026年9月9日～11日に実施されたオペレーションズ・リサーチ学会「2026年秋季研究発表会」でのカルビー株式会社日高様およびブレインパッド魚井による研究発表会の発表資料です。\n\n[2026年秋季大会]\nhttps://orsj.org/2026f/\n\n[ブレインパッド、日本オペレーションズ・リサーチ学会「2026年秋季研究発表会」に出展 - ブレインパッド]\nhttps://www.brainpad.co.jp/topics/2026/09/10/25982",
+    "image": "https://files.speakerdeck.com/presentations/6997082478234819b256a9884c57f8ae/preview_slide_0.jpg?40771571",
+    "fetched_at": "2026-10-03 17:04:46",
+    "ja_summary": "・カルビーとブレインパッドが、機械学習と数理最適化を組み合わせた「配合レシピ最適化システム」を開発。\n・オペレーションズ・リサーチ学会2026年秋季大会にて、同システムの開発事例と成果を発表。\n・AI技術の活用により、製品開発におけるレシピ作成の効率化と最適化を実現。"
+  },
+  {
+    "title": "AIとビジネス・メガトレンド 〜 サイバネティクス的経営観 / AI and Business Megatrends: A Cybernetic Perspective on Management",
+    "link": "https://speakerdeck.com/ks91/ai-and-business-megatrends-a-cybernetic-perspective-on-management",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-10-03T00:12:47-04:00",
+    "summary": "2026年10月7日(水)、早稲田大学にて開催された経営戦略コアリテラシー講座 2026 第10回にて使用したスライドです。",
+    "image": "https://files.speakerdeck.com/presentations/3f2da1315c6a4548a70a33badf94b482/preview_slide_0.jpg?40771481",
+    "fetched_at": "2026-10-03 17:04:46",
+    "ja_summary": "・AI時代に求められる「サイバネティクス経営（制御と適応の視点）」を解説。\n・変化の激しい市場環境でAIを活用し、組織を最適に導くための戦略論。\n・早稲田大学の経営戦略講座で使用された、次世代型マネジメントの指針。"
+  },
+  {
+    "title": "AI 時代の Azure エンジニアリング ～ 私たちは何を磨き、何を任せるのか ～",
+    "link": "https://speakerdeck.com/chack411/ai-jidai-no-azure-enjiniaringu-watashitachi-ha-nani-o-migaki-nani-o-makaseru-no-ka",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-10-02T22:51:46-04:00",
+    "summary": "2026/10/3 JAZUG 16周年イベントセッション資料です。\nhttps://jazug.connpass.com/event/404770/\n\n概要：\n設計から運用まで AI エージェントが関わるようになった今、Azure エンジニアは何を AI に任せ、何を自分で磨くべきか。Microsoft 社内の実例と AI の失敗パターンをもとに、「判断する力」を軸にしたこれからの Azure エンジニアリングを考えます。",
+    "image": "https://files.speakerdeck.com/presentations/239e2619861144a3a18ae61fa5dbc6ce/preview_slide_0.jpg?40771381",
+    "fetched_at": "2026-10-03 17:04:46",
+    "ja_summary": "AI時代におけるAzureエンジニアの役割を、AIの活用と「判断力」の観点から解説。\nAIに任せるべきタスクと人間が磨くべきスキルを、Microsoftの実例を基に提示。\n技術の変化を見据え、エンジニアが今後注力すべき成長指針を考察する。"
+  },
+  {
     "title": "中国AIのリスク…｢失敗の隠蔽｣｢虚偽説明｣｢脱出｣など人間の制御をすり抜ける行動が続々 | 政治・経済・投資 | 東洋経済オンライン",
     "link": "https://toyokeizai.net/articles/-/960066?utm_source=rss&utm_medium=http&utm_campaign=link_back",
     "source": "東洋経済オンライン",
@@ -928,75 +998,5 @@
     "image": "https://xtech.nikkei.com/atcl/nxt/column/18/02737/092600067/topm.jpg?20220512",
     "fetched_at": "2026-10-02 08:09:51",
     "ja_summary": "長尺動画の確認は、AIによる要約機能を活用して全体像を把握してから必要な箇所を視聴するのが効率的。\nYouTubeの「YouTubeに相談」機能などを使えば、動画内容への質問や要点抽出が可能。\nAIを補助ツールとして活用し、動画視聴の時間を大幅に短縮できる。"
-  },
-  {
-    "title": "AI安全性対策は「企業任せ」、トランプ政権とベンダーの協定でどうする日本",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03079/100100045/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "米国のトランプ大統領は2026年9月29日（米国時間）、AI（人工知能）を開発する米国の大手企業6社の幹部と、AI開発企業の責任に関する合意文書に署名した。AIの安全性対策については開発企業の社内の取り組みなどに委ね、法律や規制の制定は「将来的には適切かもしれない」とするにとどめた。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03079/100100045/topm.jpg?20220512",
-    "fetched_at": "2026-10-02 08:09:52",
-    "ja_summary": "・トランプ政権が米AI大手6社と安全性対策に関する合意を締結\n・規制の導入は先送りし、安全性確保は企業側の自主的な取り組みに委ねる方針\n・法律による強制ではなく企業主導の枠組みであり、日本の対応も注視が必要"
-  },
-  {
-    "title": "NTTデータグループ・日立がFDEで攻勢、AI需要巡る覇権争い　脱・人月へ",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03744/092500006/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "大手SIerがFDEの強化を進めている。高まるAIエージェントの開発需要を取り込もうと、各社が攻勢をかける。口をそろえるのは、FDE型のシステム開発の普及と定着による人月型のビジネスモデルからの脱却だ。NTTデータグループと日立製作所の取り組みを見ていく。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03744/092500006/topm.jpg?20220512",
-    "fetched_at": "2026-10-02 08:09:52",
-    "ja_summary": "・NTTデータと日立が、AIエージェント開発需要の獲得に向けFDE（機能単位の開発）を強化。\n・システム開発の標準化を通じ、労働集約的な「人月型」ビジネスからの脱却を加速。\n・AI領域における競争力を高め、収益構造の抜本的な転換を目指す。"
-  },
-  {
-    "title": "東大、「100フェムト秒の一瞬」と「その後」を同時に撮影する新技術",
-    "link": "https://japan.cnet.com/article/35253171/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "レーザーを当てた瞬間に起こる急激な変化と、その後ゆっくり広がる衝撃波や物質の飛散を、1回の撮影で追える――。東京大学の研究チームは10月1日、時間の流れに合わせて撮影間隔を変える新しい超高速撮影法を開発したと発表した。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35253171/\"><img src=\"https://japan.cnet.com/storage/thumbnails/thumb-184xauto-1354562-file.jpeg\" /></a>",
-    "image": "https://japan.cnet.com/storage/thumbnails/thumb-184xauto-1354562-file.jpeg",
-    "fetched_at": "2026-10-02 08:09:56",
-    "ja_summary": "・東大が、超高速現象とその後を同時に捉える新しい撮影技術を開発。\n・撮影間隔を可変させることで、一瞬の変化から衝撃波の拡散までを1回の撮影で記録可能。\n・極めて短いレーザー照射後の物質変化の全容解明が期待される。"
-  },
-  {
-    "title": "ブルーカラーの「オリンピック」は熱かった",
-    "link": "https://www.businessinsider.jp/article/2610-worldskills-shanghai-blue-collar-olympics/",
-    "source": "Business Insider Japan",
-    "published": "Thu, 01 Oct 2026 21:30:00 GMT",
-    "summary": "中国・上海で開催された技能五輪国際大会の現地レポート。若き技能者たちの熱気や中国の圧倒的な投資規模から、AI時代における手仕事と現場の価値を再考します。",
-    "image": "https://media.loom-app.com/loom/2026/10/01/300b3ecd-9205-4535-990b-6579a555468a/original.jpg?w=1200",
-    "fetched_at": "2026-10-02 08:09:57",
-    "ja_summary": "・上海で開催された技能五輪国際大会で、若き技能者たちの高い熱気が示された。\n・中国の圧倒的な投資規模が示す通り、技能重視の国家戦略が鮮明となっている。\n・AI時代においても、現場の手仕事が持つ価値と重要性は再評価されている。"
-  },
-  {
-    "title": "サンフランシスコを席巻している「Jev」って何？…この新しいAIモデルについてハッカソンに参加して探ってみた",
-    "link": "https://www.businessinsider.jp/article/2610-jev-model-san-francisco-developers-hackathon/",
-    "source": "Business Insider Japan",
-    "published": "Thu, 01 Oct 2026 21:00:00 GMT",
-    "summary": "タイプセーフAIのJevはサンフランシスコの開発者たちの間で大きな注目を集めています。このモデルはAIの新たな転換点となる可能性があります。ハッカソンでは、エンジニアたちが次々とJevを使ったソフトウェアを開発していきました。",
-    "image": "https://media.loom-app.com/loom/2026/09/29/3cab9df1-02dc-4d4e-a189-93d69d7b61ae/original.jpg?w=1200",
-    "fetched_at": "2026-10-02 08:09:57",
-    "ja_summary": "・サンフランシスコで注目を集める新型AI「Jev」は、高い安全性（タイプセーフ）を特徴とする。\n・開発者の間で急速に普及しており、ハッカソンではJevを活用したアプリ開発が加速している。\n・AI開発における新たな転換点として、今後の実用化や影響が期待されている。"
-  },
-  {
-    "title": "OpenAI DevDay 2026 発表まとめ - 開発者向けに押さえたい主要アップデート",
-    "link": "https://note.com/npaka/n/n718a0b7acf3b",
-    "source": "note (npaka)",
-    "published": "Wed, 30 Sep 2026 08:06:37 +0900",
-    "summary": "<p id=\"16c518b1-f51e-405a-bd94-be205d78baee\" name=\"16c518b1-f51e-405a-bd94-be205d78baee\">OpenAI DevDay 2026 発表をまとめました。</p><figure id=\"b01e4cdd-fa24-4bb3-b7eb-d6d59bab3133\" name=\"b01e4cdd-fa24-4bb3-b7eb-d6d59bab3133\"><blockquote><p id=\"0d42d0bb-779c-45c9-95c0-7d045400fc01\" name=\"0d42d0bb-779c-45c9-95c0-7d045400fc01\"><strong>・</strong><a href=\"https://openai.com/ja-JP/index/devday-2026-recap/\" rel=\"nofollow noopener\" target=\"_blank\"><strong>DevDay 2026 の振り返り</strong></a></p></blockquote>\n<figcaption></figcaption></figure><br /><a href=\"https://note.com/npaka/n/n718a0b7acf3b\">続きをみる</a>",
-    "image": "https://assets.st-note.com/production/uploads/images/319058604/rectangle_large_type_2_027f74a68fb690fcdd8997e7e8ba709b.png?width=800",
-    "fetched_at": "2026-10-02 08:09:57",
-    "ja_summary": "OpenAI DevDay 2026で、開発者向けの主要アップデートが発表されました。\nGPT-4 Turboなど、最新モデルの進化や、より使いやすくなる新機能についてまとめられています。\n開発者はこれらの情報を把握することで、AI活用の幅を広げることができます。"
-  },
-  {
-    "title": "GPT-6.1 Sol の概要",
-    "link": "https://note.com/npaka/n/nd321b7c1145d",
-    "source": "note (npaka)",
-    "published": "Wed, 30 Sep 2026 07:12:02 +0900",
-    "summary": "<p id=\"9785940b-ee1a-4090-b3fb-3e6589bec03c\" name=\"9785940b-ee1a-4090-b3fb-3e6589bec03c\">GPT-6.1 Sol の概要をまとめました。</p><figure id=\"00ae0d3a-c181-44d5-91e4-0ff30222c1f6\" name=\"00ae0d3a-c181-44d5-91e4-0ff30222c1f6\"><blockquote><p id=\"a435216b-233f-4035-887a-edd7fd6afbdc\" name=\"a435216b-233f-4035-887a-edd7fd6afbdc\"><strong>・</strong><a href=\"https://openai.com/ja-JP/index/introducing-gpt-6-1-sol/\" rel=\"nofollow noopener\" target=\"_blank\"><strong>GPT 6.1-Sol のご紹介</strong></a></p></blockquote>\n<figcaption></figcaption></figure><br /><a href=\"https://note.com/npaka/n/nd321b7c1145d\">続きをみる</a>",
-    "image": "https://assets.st-note.com/production/uploads/images/319044690/rectangle_large_type_2_f6c4b5d7157de8a38e7882192bfb82ed.png?width=800",
-    "fetched_at": "2026-10-02 08:09:57",
-    "ja_summary": "・OpenAIが新たなAIモデル「GPT-6.1 Sol」を発表。\n・従来のモデルと比較し、性能や機能がどのように強化されたのか概要を公開。\n・詳細は公開元の公式サイトおよび解説記事にて確認可能。"
   }
 ]
