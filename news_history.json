@@ -1,5 +1,85 @@
 [
   {
+    "title": "日産、全社基盤「Nissan.DATA」は何がすごい？　「使えば使うほど、会社が賢くなる」仕組みの構築",
+    "link": "https://www.itmedia.co.jp/business/articles/2610/02/news020.html",
+    "source": "ITmedia ビジネス",
+    "published": "Fri, 02 Oct 2026 08:00:00 +0900",
+    "summary": "日産自動車では、全社データ基盤の運用を進める一方、多様なデータをいかにAI時代に即した「組織の知」へ進化させるかが課題となっていた。「Data for AI、AI for Data」を掲げ、データとAIの循環を高める同社の挑戦に迫る。",
+    "image": "https://image.itmedia.co.jp/business/articles/2610/02/cover_news020.jpg",
+    "fetched_at": "2026-10-05 03:14:40",
+    "ja_summary": "・日産が全社データ基盤「Nissan.DATA」を構築し、AI活用を加速。\n・蓄積したデータをAIで価値化し、その結果でさらにデータが賢くなる循環を創出。\n・データとAIの相乗効果で、全社的な「組織の知」への進化を目指す。"
+  },
+  {
+    "title": "「ベテランの○○さんに聞いて」を放置していないか？　店舗がAI導入でつまずく“本当の壁”",
+    "link": "https://www.itmedia.co.jp/business/articles/2610/02/news002.html",
+    "source": "ITmedia ビジネス",
+    "published": "Fri, 02 Oct 2026 06:00:00 +0900",
+    "summary": "店舗のAI導入を阻む壁は、AIモデルの性能よりも「ベテランに聞かないと分からない」という状態を長年放置していること。今回は先行事例を踏まえつつ、AI導入前に整えるべき業務知識、最初に取り組むべき手順を解説する。",
+    "image": "https://image.itmedia.co.jp/business/articles/2610/02/cover_news002.jpg",
+    "fetched_at": "2026-10-05 03:14:40",
+    "ja_summary": "・店舗のAI導入失敗の主因は、性能の問題ではなく属人的なノウハウが言語化されていないことにある。\n・導入前にまずはベテランの暗黙知を整理・可視化し、業務知識の標準化を整える必要がある。\n・場当たり的な導入を避け、情報の蓄積という下準備から着手することが成功の鍵となる。"
+  },
+  {
+    "title": "人工知能は実践的な助言ができるか、2本の注目論文を紹介",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/02915/093000031/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "今回は2つの論文を紹介します。最初の論文は、人工知能（AI）に経営上の戦略的な意思決定の判断を求めると、回答にバイアス（偏り）があることを示した研究です。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/02915/093000031/topm.jpg?20220512",
+    "fetched_at": "2026-10-05 03:14:49",
+    "ja_summary": "・AIに経営の意思決定を委ねると回答に偏りが生じることが研究で示された。\n・AIの実践的な助言能力には限界があり、現状では注意が必要である。"
+  },
+  {
+    "title": "みのるん式 登壇資料の作成ノウハウをスキルとして公開しました！",
+    "link": "https://qiita.com/minorun365/items/ed4c760f616cf3c0a958",
+    "source": "Qiita (Popular)",
+    "published": "2026-09-21T11:56:53+09:00",
+    "summary": "こんにちは、Claude Codeです。普段から、みのるんの登壇資料づくりを手伝っています。\n\nみのるんが登壇を重ねるなかで培ってきたスライド作成のノウハウを、私たちAIエージェントが読めるスキルの形にまとめて公開しました！\n\nhttps://github.com/minorun365/minorun-marp-skill\n\nこんな感じのスライドができます。\n\n![見本デッキの一覧](https:",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYxNjMzODU2JTJGYzIyNmJjMzRhYzZjNDVhMjFmNWU1MTJkMWM3MmE2ZjA5NzQ5NDU3OCUyRnhfbGFyZ2UucG5nJTNGMTY5OTk1NDk3Nj9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9MTlhZDI4ODRkNmQ2MzEyNjMxZDJkNTBjOTZmOTA5ZjU%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYxZTIwZGI1ZTdlNDA3ZWFlN2I5NzBlYzk5OTg4MGRjOGMzY2MwZjY0JTJGb3JpZ2luYWwuanBnJTNGMTY2NzI3NDk2Mz9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz04OTI0NDcwMDk1MDMyZjUxYmZlNzE3ZjVkOGUzYmE3ZA%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D75789497542ed55352086443c7ba4c98?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgxJUJGJUUzJTgxJUFFJUUzJTgyJThCJUUzJTgyJTkzJUU1JUJDJThGJTIwJUU3JTk5JUJCJUU1JUEzJTg3JUU4JUIzJTg3JUU2JTk2JTk5JUUzJTgxJUFFJUU0JUJEJTlDJUU2JTg4JTkwJUUzJTgzJThFJUUzJTgyJUE2JUUzJTgzJThGJUUzJTgyJUE2JUUzJTgyJTkyJUUzJTgyJUI5JUUzJTgyJUFEJUUzJTgzJUFCJUUzJTgxJUE4JUUzJTgxJTk3JUUzJTgxJUE2JUU1JTg1JUFDJUU5JTk2JThCJUUzJTgxJTk3JUUzJTgxJUJFJUUzJTgxJTk3JUUzJTgxJTlGJUVGJUJDJTgxJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9MDhlNTI5YzQyYWUyM2ZmMTAwNTQ1ZDcxMzgxNGM5Mzc&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBtaW5vcnVuMzY1JnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9YThjYmQyMjBkNDc3NGM1MjI3MzBiOWExMjBkOWZlMGM&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=S0RESeOCouOCuOODo-OCpOODq-mWi-eZuuOCu-ODs-OCv-ODvOagquW8j-S8muekvg&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=2e594c9d50162510796924d5f64e5dd3",
+    "fetched_at": "2026-10-05 03:15:10",
+    "ja_summary": "・みのるんの登壇資料作成ノウハウをAIエージェントが活用可能なスキルとしてGitHubで公開。\n・公開されたスキルを利用することで、高品質な登壇用スライドを効率的に作成できる。\n・エンジニアや登壇者がAIを活用して資料作成を効率化するための新たなリソースとなる。"
+  },
+  {
+    "title": "元ヤフーエンジニア社長が考える、AIを使いこなす人と使えない人の決定的な差",
+    "link": "https://qiita.com/ryoheiiwamoto/items/b5805321eaef46b75459",
+    "source": "Qiita (Popular)",
+    "published": "2026-09-26T19:02:07+09:00",
+    "summary": "\n\n>「一部だけ任せる」か「全部任せられないか考える」か\n\n\nこんにちは、元Yahooエンジニアで、株式会社PRUMの代表をしている岩本です。\n\n「AI使ってますか?」と聞かれたら、たぶん今はほとんどの人が「はい」と答えると思います。\n\nでも僕は、AIの活用が上手い人と下手な人の差は、使っているかどうかじゃないと思っています。\n\n差がつくのは、**「そもそも全部任せられないか」から考えているかどう",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY2Njg5NTAlMkZlYzkxNGM0M2Y1MmZhOGVmMmM1ZDYzZWY2ZDI2NmNlMjAxMTMyMmM1JTJGeF9sYXJnZS5wbmclM0YxNzM4NTQ5NzE0P2l4bGliPXJiLTQuMS4xJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz1hZTcyYzlkNDc0ODA1NWRiODg3MjU1MTg3YjYwNzE3Mg%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Dd52b79a6493a8f7d3599dbe8fc65df0f?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUU1JTg1JTgzJUUzJTgzJUE0JUUzJTgzJTk1JUUzJTgzJUJDJUUzJTgyJUE4JUUzJTgzJUIzJUUzJTgyJUI4JUUzJTgzJThCJUUzJTgyJUEyJUU3JUE0JUJFJUU5JTk1JUI3JUUzJTgxJThDJUU4JTgwJTgzJUUzJTgxJTg4JUUzJTgyJThCJUUzJTgwJTgxQUklRTMlODIlOTIlRTQlQkQlQkYlRTMlODElODQlRTMlODElOTMlRTMlODElQUElRTMlODElOTklRTQlQkElQkElRTMlODElQTglRTQlQkQlQkYlRTMlODElODglRTMlODElQUElRTMlODElODQlRTQlQkElQkElRTMlODElQUUlRTYlQjElQkElRTUlQUUlOUElRTclOUElODQlRTMlODElQUElRTUlQjclQUUmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1hZjE1MjQwMzkzMzJiODI1ZTBmMzlkMjZhYjU4YmY0ZA&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDByeW9oZWlpd2Ftb3RvJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9Y2Q0NTMxYTI2Yzk3MDgzYzhhZjVjYmZmZDg1ZjcyYTc&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=007ba270d1d991e0242b598db63731c2",
+    "fetched_at": "2026-10-05 03:15:11",
+    "ja_summary": "AI活用の差は「一部を補助させる」という思考にとどまらず、「いかにAIへ業務全体を任せきれるか」を考えられるかにある。\n既存の作業をAIに委ねる前提でプロセスを見直すことが、結果として大きな生産性の違いを生む。"
+  },
+  {
+    "title": "元ヤフーエンジニア社長が考える、AI時代の採用基準",
+    "link": "https://qiita.com/ryoheiiwamoto/items/7f388029f8821fc3ea6c",
+    "source": "Qiita (Popular)",
+    "published": "2026-09-26T19:02:07+09:00",
+    "summary": "\n\n>スキルより先に見ているものがある\n\n\n\nこんにちは、元Yahooエンジニアで、株式会社PRUMの代表をしている岩本です。\n\n面接だと、つい「スキルをどうアピールしよう」と考えてしまいますよね。\n\n確かに、スキルがあるに越したことはありません。\n\nでも僕が採用の最終判断をするとき、実はスキルはほとんど見ていません。\n\nAIによってエンジニアのスキルはどんどん均一化されていきます。1年目の人が書",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY2Njg5NTAlMkZlYzkxNGM0M2Y1MmZhOGVmMmM1ZDYzZWY2ZDI2NmNlMjAxMTMyMmM1JTJGeF9sYXJnZS5wbmclM0YxNzM4NTQ5NzE0P2l4bGliPXJiLTQuMS4xJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz1hZTcyYzlkNDc0ODA1NWRiODg3MjU1MTg3YjYwNzE3Mg%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Dd52b79a6493a8f7d3599dbe8fc65df0f?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUU1JTg1JTgzJUUzJTgzJUE0JUUzJTgzJTk1JUUzJTgzJUJDJUUzJTgyJUE4JUUzJTgzJUIzJUUzJTgyJUI4JUUzJTgzJThCJUUzJTgyJUEyJUU3JUE0JUJFJUU5JTk1JUI3JUUzJTgxJThDJUU4JTgwJTgzJUUzJTgxJTg4JUUzJTgyJThCJUUzJTgwJTgxQUklRTYlOTklODIlRTQlQkIlQTMlRTMlODElQUUlRTYlOEUlQTElRTclOTQlQTglRTUlOUYlQkElRTYlQkElOTYmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz02MWUzMDRhMjRlMmJiZTNkZGQ1NDY3NDBhMmI4ZGQ4MA&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDByeW9oZWlpd2Ftb3RvJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9Y2Q0NTMxYTI2Yzk3MDgzYzhhZjVjYmZmZDg1ZjcyYTc&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=e1044e4bc067eb60ee0a2d1263510b70",
+    "fetched_at": "2026-10-05 03:15:12",
+    "ja_summary": "AIによる技術の均一化が進む中、エンジニア採用ではスキル以上に「自ら課題を見つけ解決する姿勢」が重要になる。\nスキルは後から習得可能だが、成長意欲や思考の柔軟性は代えがたいため、人間としての本質的な資質を重視する。"
+  },
+  {
+    "title": "2026年9月時点 Microsoft の AI 戦略について",
+    "link": "https://qiita.com/yoshioterada/items/c42534895d5ca89b91b1",
+    "source": "Qiita (Popular)",
+    "published": "2026-09-14T10:44:23+09:00",
+    "summary": "> Microsoft の AI に関連するサービスは非常に多くあります。今まで私は開発中心だったため、M365関連を含む全体的な知識のアップデートが必要で、できるだけ早急にさまざまな技術やサービスをキャッチアップしたいと考えています。元々この資料は自分自身で理解するために、学習用メモとして AI と共にまとめていたのですが、自分用だけにするには勿体無いと感じたので Qita 投稿用にまとめ直した",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFtYXpvbmF3cy5jb20lMkYwJTJGNTgzNzclMkZwcm9maWxlLWltYWdlcyUyRjE0NzM3NjE0MTM_aXhsaWI9cmItNC4xLjEmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPWRhNDY4MDZiNTYwYWE4M2Y3ZDUwMGJmOGQ5ZWU5OWIw%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkZiYWU2ZDNhMDgyOGMwMTlmZjI1OWNkYjQ3YTg5ODhjOTg2MzYzODlmJTJGb3JpZ2luYWwuanBnJTNGMTU4MzcyMTg2NT9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz0yZTZmZDNmZTU4ZjI4NDMwMWExYjZlMGM4OWJhOWMxZg%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D9951133949fbb267cd601742871cf60b?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9MjAyNiVFNSVCOSVCNDklRTYlOUMlODglRTYlOTklODIlRTclODIlQjklMjBNaWNyb3NvZnQlMjAlRTMlODElQUUlMjBBSSUyMCVFNiU4OCVBNiVFNyU5NSVBNSVFMyU4MSVBQiVFMyU4MSVBNCVFMyU4MSU4NCVFMyU4MSVBNiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTYyZGM4NTc0Y2JjNDliM2U2ZWMzZTM5MWFlZGE0YjQ5&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDB5b3NoaW90ZXJhZGEmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz0yOTYwODY3MDI2YjE4N2VjMWRhNmUxOTU2MTU1MDZjOQ&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=TWljcm9zb2Z0&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=1311db1609d77c5ef99416fddb781277",
+    "fetched_at": "2026-10-05 03:15:12",
+    "ja_summary": "・Microsoftの多岐にわたるAIサービスとM365関連技術の全体像を整理。\n・急速に進化する技術戦略を効率的にキャッチアップするための学習メモ。\n・開発者やビジネスパーソン向けに、最新のAI戦略を網羅的に解説。"
+  },
+  {
+    "title": "AWSのインフラ導入でAIを使っている箇所と手でやっている箇所",
+    "link": "https://qiita.com/infra365/items/aa30a54fc6f0849385a7",
+    "source": "Qiita (Popular)",
+    "published": "2026-09-11T14:51:35+09:00",
+    "summary": "# はじめに\n「AIはボトルネックを解消するものではなく、ボトルネックを他の工程に移しているだけ」という話を聞きました。私はシステム導入の中でAIを使いこなせているわけではないのですが、当然一部にはAIを活用しているため、改めてどのようにシステム導入の工程を実施していて、どこにボトルネックがあるのかを振り返ってみました。\n\n# 前提\nざっくりと導入工程を書いてみます。工程は下記のように、要件定義・",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYyNTIzNjUyJTJGZGRmYjI1ZWU3MjIxNTc1OTE0ZDVmMzYxN2Y2MWE0NjMwMThjZTI1MyUyRmxhcmdlLnBuZyUzRjE2OTcwNjM3ODA_aXhsaWI9cmItNC4xLjEmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPTNkYjczNGRjMGM3OWRjYmQ4NzYwMTM3NTk5MmRkNjgz%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Db555721fe24fd6778a01b26eabc1d52e?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9QVdTJUUzJTgxJUFFJUUzJTgyJUE0JUUzJTgzJUIzJUUzJTgzJTk1JUUzJTgzJUE5JUU1JUIwJThFJUU1JTg1JUE1JUUzJTgxJUE3QUklRTMlODIlOTIlRTQlQkQlQkYlRTMlODElQTMlRTMlODElQTYlRTMlODElODQlRTMlODIlOEIlRTclQUUlODclRTYlODklODAlRTMlODElQTglRTYlODklOEIlRTMlODElQTclRTMlODIlODQlRTMlODElQTMlRTMlODElQTYlRTMlODElODQlRTMlODIlOEIlRTclQUUlODclRTYlODklODAmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1iNmI0MDA5ZjA0NWNjZWE2ZDE2Zjk1Yzc4NDU1Y2Q5OA&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBpbmZyYTM2NSZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTA1MGExOWY4MzNjOWE1MmJhZDAxYTI4NmU4ZGQzNGE5&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=626273514a87fd7274d638d0800e0256",
+    "fetched_at": "2026-10-05 03:15:13",
+    "ja_summary": "・AI活用は作業のボトルネックを解消するのではなく、単に工程を移動させているだけである。\n・AWS導入の各工程を振り返ると、AIで効率化できる部分と、依然として手作業が必要な領域が明確に存在する。\n・システム導入においては、AIの利便性だけでなく、作業全体の工程を見直す視点が重要である。"
+  },
+  {
     "title": "「FDE」は常駐SEのすげ替えなのか　“人月商売の死”を打破したい国内SIer、打開策は意外なところに？",
     "link": "https://www.itmedia.co.jp/business/articles/2610/01/news040.html",
     "source": "ITmedia ビジネス",
@@ -918,85 +998,5 @@
     "image": "https://japan.zdnet.com/storage/2026/10/02/c178cda9afc75d5834b1bedc779bcc12/t/184/138/d/261002_cy_001.jpg",
     "fetched_at": "2026-10-02 17:30:47",
     "ja_summary": "サイリーグHDとSMBCサイバーフロントが、AIを活用したサイバー攻撃時の初動対応支援サービス「サイバー攻撃対応ナビ」を発表しました。\n専門的な判断をAIがサポートすることで、企業のセキュリティインシデントへの迅速な初動対応を実現します。"
-  },
-  {
-    "title": "Claude Codeが拡張機能「mod」対応、UIや動作をカスタマイズ。Claude書かせて作成も",
-    "link": "https://www.techno-edge.net/article/2026/10/02/5550.html",
-    "source": "TechnoEdge",
-    "published": "Fri, 02 Oct 2026 15:49:23 +0900",
-    "summary": "Anthropicが、AIコーディングツール「Claude Code」の外観や動作をユーザーの好みで拡張できる新機能「mod」を公開しました。",
-    "image": "https://www.techno-edge.net/imgs/rss/34615.png",
-    "fetched_at": "2026-10-02 17:30:48",
-    "ja_summary": "・AIコーディングツール「Claude Code」が拡張機能「mod」に対応\n・UIや動作をユーザーの好みに合わせて柔軟にカスタマイズ可能\n・Claude自身にコードを書かせて独自の拡張機能を作成することも可能"
-  },
-  {
-    "title": "Qwen3.8-27Bの精度98%を維持しつつ9倍小型化しiPhoneでも動く「Bonsai-2-27B」など生成AI技術5つを解説（生成AIウィークリー）",
-    "link": "https://www.techno-edge.net/article/2026/10/02/5549.html",
-    "source": "TechnoEdge",
-    "published": "Fri, 02 Oct 2026 12:42:33 +0900",
-    "summary": "「生成AIウィークリー」（第161回）は、高度な画像編集ができるオープンウェイトな画像生成AI「Qwen-Image-2.1」や、XiaomiのオープンソースAIモデル「MiMo-V2.6」を取り上げます。",
-    "image": "https://www.techno-edge.net/imgs/rss/34539.png",
-    "fetched_at": "2026-10-02 17:30:48",
-    "ja_summary": "・Qwen3.8-27Bを9倍軽量化しiPhoneでも動作する「Bonsai-2-27B」など、生成AIの小型化・効率化技術が注目されている。\n・画像編集に強いオープンウェイトAI「Qwen-Image-2.1」や、Xiaomiの「MiMo-V2.6」など最新モデルが紹介された。\n・生成AIの性能を維持しつつ、モバイル環境での利用やモデルの利便性を高める技術が進化している。"
-  },
-  {
-    "title": "スマホがなくてもAIが使える「AI-eSIM」 スマートグラスやペットロボットを変える新たな仕組みとは (山根康宏)",
-    "link": "https://www.techno-edge.net/article/2026/10/02/5548.html",
-    "source": "TechnoEdge",
-    "published": "Fri, 02 Oct 2026 11:24:11 +0900",
-    "summary": "AI-eSIMは端末認証とクラウドAIを一体化し、スマートグラス等のAIデバイスを単体接続・活用可能にする小型チップで、AI-IoT普及を加速する。",
-    "image": "https://www.techno-edge.net/imgs/rss/34542.jpg",
-    "fetched_at": "2026-10-02 17:30:48",
-    "ja_summary": "・AI-eSIMは端末認証とクラウド接続を一体化した小型チップ。\n・スマホを介さずスマートグラス等が単体でAI機能を利用可能に。\n・デバイスの小型・軽量化を促進し、AI搭載IoT機器の普及を加速する。"
-  },
-  {
-    "title": "AI-Slopな日本語を構造レベルで読みやすくするSkill『yomiyasu（よみやす）』を作りました",
-    "link": "https://zenn.dev/algoartis/articles/0b1c731881b25c",
-    "source": "Zenn Trends",
-    "published": "Wed, 30 Sep 2026 18:28:20 GMT",
-    "summary": "TL;DR\n本日、AI生成された臭くて読みにくい日本語を、自然で読みやすい日本語へ書き直すスキル『yomiyasu（よみやす）』をリリースしました。\n従来のAI-Slop対策スキルで用いられてきた 「単語を禁止する」手法から改善し、統語構造（=誰が・何を・どうした）の復元と、比喩動詞の具体化に特化していることが特徴です。\nClaude Code, Codex, Cursorなどの主要なAI Agentで/yomiyasuで呼び出せます。\n// 導入コマンド\nnpx skills add nanaism/yomiyasu\nリポジトリは以下です。\nhttps://github.com/n...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--fBqJdPTf--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI-Slop%25E3%2581%25AA%25E6%2597%25A5%25E6%259C%25AC%25E8%25AA%259E%25E3%2582%2592%25E6%25A7%258B%25E9%2580%25A0%25E3%2583%25AC%25E3%2583%2599%25E3%2583%25AB%25E3%2581%25A7%25E8%25AA%25AD%25E3%2581%25BF%25E3%2582%2584%25E3%2581%2599%25E3%2581%258F%25E3%2581%2599%25E3%2582%258BSkill%25E3%2580%258Eyomiyasu%25EF%25BC%2588%25E3%2582%2588%25E3%2581%25BF%25E3%2582%2584%25E3%2581%2599%25EF%25BC%2589%25E3%2580%258F%25E3%2582%2592%25E4%25BD%259C%25E3%2582%258A%25E3%2581%25BE%25E3%2581%2597%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E5%25A4%25A7%25E8%25B3%2580%25E6%2584%259B%25E4%25B8%2580%25E9%2583%258E%25EF%25BC%2588oga_aiichiro%25EF%25BC%2589%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2I1M2Y5MDFhMWYuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:ALGO%2520ARTIS%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzNhMDEwODY1NzkuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "fetched_at": "2026-10-02 17:30:52",
-    "ja_summary": "AI生成特有の不自然な日本語を、構造レベルで読みやすい文章に修正するAIエージェント向けツール「yomiyasu」を公開しました。\n文の骨格（誰が・何を・どうした）を整理し、曖昧な表現を具体化することで、AIが書いた違和感のある文章を自然な日本語に改善します。\n主要なAIエージェントに導入可能で、コマンド一つで手軽に利用開始できます。"
-  },
-  {
-    "title": "Scalable Angular Architectures with Route-Based Architecture",
-    "link": "https://speakerdeck.com/fabiangosebrink/scalable-angular-architectures-with-route-based-architecture",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-10-02T04:07:45-04:00",
-    "summary": "Architecture decisions in Angular often start with the routes. In this talk, Fabian Gosebrink shows how clean modules, libraries, and state areas can be derived from routing structures. With Nx, he supports modularization and keeps dependencies under control. The result: an architecture that grows with its requirements and gives teams clear orientation. Attendees learn how to structure complex applications along their routes and keep them maintainable over the long term.",
-    "image": "https://files.speakerdeck.com/presentations/63530e8053ce475788980fb6ddfdb261/preview_slide_0.jpg?40761549",
-    "fetched_at": "2026-10-02 17:30:53",
-    "ja_summary": "・Angularのルーティング構造を基盤に、モジュールやライブラリを適切に配置する設計手法を解説。\n・Nxを活用して依存関係を制御し、要件の変化に強く拡張性の高いアプリケーションを構築する。\n・複雑なシステムにおいても開発チームが迷わず、長期的な保守性を維持できるアーキテクチャを実現する。"
-  },
-  {
-    "title": "Why State Is the Most Important Part of Your Angular Application",
-    "link": "https://speakerdeck.com/fabiangosebrink/why-state-is-the-most-important-part-of-your-angular-application-73b0657b-2c41-4984-8b17-aa61e05f1dfe",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-10-02T04:05:28-04:00",
-    "summary": "State is the foundation of every modern Angular application. A well-structured state management strategy determines not only how data flows through an application but also how scalable, maintainable, and performant it becomes. Without proper state management, applications quickly become hard to debug, difficult to scale, and prone to inconsistencies. This talk explores why state is the most crucial part of an Angular application, how to choose the right state management approach, and what common pitfalls to avoid. Whether using NgRx, the Signal Store, Signals, or a simple service-based approach, understanding and structuring state effectively is the key to long-term success.",
-    "image": "https://files.speakerdeck.com/presentations/0aed7ddc1f7f4ae6a6d69b10a77ac5b9/preview_slide_0.jpg?40761422",
-    "fetched_at": "2026-10-02 17:30:53",
-    "ja_summary": "・Angularアプリにおいて、状態管理は拡張性・保守性・パフォーマンスを左右する最も重要な要素である。\n・管理が不適切だとバグや不整合の原因となるため、適切な戦略の選択が不可欠である。\n・NgRxやSignalsなど手法に関わらず、効果的な状態の設計こそがアプリの長期的な成功を決定づける。"
-  },
-  {
-    "title": "More Freedom on the Same Shared GPU Cluster: A Small Team’s Experience with vCluster",
-    "link": "https://speakerdeck.com/nttcom/more-freedom-on-the-same-shared-gpu-cluster-a-small-teams-experience-with-vcluster",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-10-02T01:11:49-04:00",
-    "summary": "2026年10月1日のCloud Native Community Japan - AI Infra Meetup #1で発表した「More Freedom on the Same Shared GPU Cluster: A Small Team's Experience with vCluster」の講演資料です。\n講演詳細についてはこちらをご覧ください。 https://ocgroups.dev/cncf/group/bqd97by/event/7fu3gfg\n社内向けGPUクラスタに対して、vClusterを活用しユーザーの使い方を変えずユーザー自由度を増やした事例を紹介します。",
-    "image": "https://files.speakerdeck.com/presentations/0e641d50d0f94c8fb185b204d455592d/preview_slide_0.jpg?40759568",
-    "fetched_at": "2026-10-02 17:30:53",
-    "ja_summary": "・社内GPU共有クラスタにて、vClusterを導入してユーザーの自由度を向上。\n・ユーザー側の既存の利用手法を変えずに、環境の柔軟性を確保した事例。\n・小規模チームが限られたリソースを効率的かつ快適に運用する手法を共有。"
-  },
-  {
-    "title": "生成AIで高い生産性を求められて、 悩み、乗り越えた話",
-    "link": "https://speakerdeck.com/mot_techtalk/seisei-ai-de-takai-seisansei-o-motomerare-te-nayami-norikoeta-hanashi",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-10-02T00:36:55-04:00",
-    "summary": "GO TechTalk #34 データサイエンティストの生成AI活用で発表した資料です。\n\n■ YouTube\nhttps://www.youtube.com/watch?v=7t9fIeBU2MQ\n■ connpass\nhttps://jtx.connpass.com/event/370877/",
-    "image": "https://files.speakerdeck.com/presentations/b55f678e5c6348769b954b01f36cbfb4/preview_slide_0.jpg?40759285",
-    "fetched_at": "2026-10-02 17:30:53",
-    "ja_summary": "・生成AI活用で過度な生産性向上を求められ、悩み直面した実体験を共有。\n・ツールへの過信やプレッシャーによる壁をどのように乗り越えたかを解説。\n・データサイエンティストがAIと向き合うための、現実的かつ前向きな指針。"
   }
 ]
