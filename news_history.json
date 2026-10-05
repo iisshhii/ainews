@@ -1,5 +1,295 @@
 [
   {
+    "title": "なぜ今？　東芝が「HDD」生産能力を強化　AI時代に狙う「データインフラ需要」の在りか",
+    "link": "https://www.itmedia.co.jp/business/articles/2610/05/news068.html",
+    "source": "ITmedia ビジネス",
+    "published": "Mon, 05 Oct 2026 16:45:00 +0900",
+    "summary": "東芝グループでHDDの製造を担う東芝デバイス＆ストレージが、大容量ストレージ「ニアラインHDD」の生産ラインを増強したと発表した。AI時代になぜHDDなのか。同社が狙う需要とは。",
+    "image": "https://image.itmedia.co.jp/business/articles/2610/05/cover_news068.jpg",
+    "fetched_at": "2026-10-05 21:37:53",
+    "ja_summary": "東芝がAI活用の拡大を見据え、大容量データ保存用の「ニアラインHDD」の生産ラインを強化。\n生成AIなどの普及により爆発的に増えるデータストレージ需要を確実に獲得する狙い。\nSSDより安価で大容量というHDDの強みを活かし、データインフラ市場での優位性を図る。"
+  },
+  {
+    "title": "地下鉄駅の案内役にヒューマノイド　フィジカルAIで「自然な対話」を実現 (日経クロステック)",
+    "link": "https://business.nikkei.com/atcl/gen/19/00297/091400321/",
+    "source": "日経ビジネス 最新",
+    "published": "",
+    "summary": "Osaka MetroとKDDI、AVITAの3社は、フィジカルAIを活用したヒューマノイドの実証実験を開始しました。Osaka Metroの接客案内サービスへの導入を目指します。実証実験の動機や苦労、課題を関係者への取材から探りました。",
+    "image": "https://business.nikkei.com/atcl/gen/19/00297/091400321/fb.jpg",
+    "fetched_at": "2026-10-05 21:37:58",
+    "ja_summary": "・Osaka Metro、KDDI、AVITAの3社が地下鉄駅での案内役にヒューマノイドを導入する実証実験を開始。\n・フィジカルAIを搭載し、人間のような自然な対話ができる次世代の接客サービスの実現を目指す。\n・関係者への取材を通じて、導入の目的や技術的課題、今後の展望を検証する。"
+  },
+  {
+    "title": "SpaceXAI、「SpaceXSI」にブランド変更へ　マスク氏が返答",
+    "link": "https://www.watch.impress.co.jp/docs/news/2145787.html",
+    "source": "Impress Watch",
+    "published": "",
+    "summary": "SpaceXのイーロン・マスク氏は4日、GrokなどのAI開発部門である「SpaceXAI」について、「SpaceXSI」に名称変更する考えを表明した。",
+    "image": "https://www.watch.impress.co.jp/img/ipw/list/2145/787/x01.jpg",
+    "fetched_at": "2026-10-05 21:38:06",
+    "ja_summary": "・イーロン・マスク氏がAI開発部門「SpaceXAI」を「SpaceXSI」へ改称する方針を示した。\n・Grokなどを手掛ける同部門のブランド変更が今後行われる見通し。"
+  },
+  {
+    "title": "LINE、友だちとの日程調整のためのAIエージェント",
+    "link": "https://www.watch.impress.co.jp/docs/news/2145656.html",
+    "source": "Impress Watch",
+    "published": "",
+    "summary": "LINEヤフーは、アプリ「LINE」において、AIが友だちとの予定決めをサポートする新機能「日程調整エージェント」の提供を開始した。アプリ内の「LINEラボ」から利用できる。",
+    "image": "https://www.watch.impress.co.jp/img/ipw/list/2145/656/00.jpg",
+    "fetched_at": "2026-10-05 21:38:07",
+    "ja_summary": "・LINEにAIが友だちとの日程調整を代行・サポートする新機能が追加。\n・アプリ内の「LINEラボ」から利用可能。\n・AIを活用してスムーズな予定決めを実現。"
+  },
+  {
+    "title": "「焼肉きんぐ」アプリ、ほぼ全員分の会員情報が流出　不正アクセスで1079万件",
+    "link": "https://japan.cnet.com/article/35253253/",
+    "source": "CNET Japan",
+    "published": "",
+    "summary": "物語コーポレーションは10月5日、「焼肉きんぐ」公式アプリの会員管理システムが第三者から不正アクセスを受け、会員情報1078万8963件が漏えいしたと発表した。会員登録数1080万8784件の99.8％に相当し、ほぼすべての会員に影響する。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35253253/\"><img src=\"https://japan.cnet.com/storage/thumbnails/thumb-184xauto-1354773-file.jpeg\" /></a>",
+    "image": "https://japan.cnet.com/storage/thumbnails/thumb-184xauto-1354773-file.jpeg",
+    "fetched_at": "2026-10-05 21:38:11",
+    "ja_summary": "・「焼肉きんぐ」の公式アプリが不正アクセスを受け、全会員の99.8％にあたる約1079万件の個人情報が流出。\n・運営元の物語コーポレーションが事実を公表。\n・ほぼすべての会員情報が流出した大規模な漏えい事案。"
+  },
+  {
+    "title": "ELYZA、AIがAIを改良する「再帰的自己改善」の研究組織を設立　国産AIをAIで開発も",
+    "link": "https://japan.cnet.com/article/35253245/",
+    "source": "CNET Japan",
+    "published": "",
+    "summary": "ELYZAは10月2日、AIが自らの能力や開発プロセスを繰り返し改善する「再帰的自己改善（RSI）」を研究する組織「ELYZA RSI Research」を設立すると発表した。社内で進めてきた「AIによるAI開発」の研究を加速させる。一方で、RSIの研究開発に伴うリスクを踏まえ、安全性を重要な研究課題の1つに位置づけ、安全性に配慮した研究環境や体制を整備するとしている。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35253245/\"><img src=\"https://japan.cnet.com/storage/thumbnails/thumb-184xauto-1354765-file.jpeg\" /></a>",
+    "image": "https://japan.cnet.com/storage/thumbnails/thumb-184xauto-1354765-file.jpeg",
+    "fetched_at": "2026-10-05 21:38:11",
+    "ja_summary": "・ELYZAがAIがAIを改良する「再帰的自己改善（RSI）」の研究組織を設立。\n・AIによるAI開発を加速させ、国産AIの自律的な進化を目指す。\n・研究に伴うリスクを考慮し、安全性に配慮した体制整備も同時に進める。"
+  },
+  {
+    "title": "「iPhone 18 Pro Max」で通話できない不具合　アップルは無償交換で対応",
+    "link": "https://japan.cnet.com/article/35253243/",
+    "source": "CNET Japan",
+    "published": "",
+    "summary": "アップルの新型「iPhone 18 Pro Max」のユーザーで米通信大手AT＆Tの回線を利用している場合、電話機として最も基本的な機能である通話ができなくなる可能性がある。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35253243/\"><img src=\"https://japan.cnet.com/storage/thumbnails/thumb-184xauto-1354751-file.jpeg\" /></a>",
+    "image": "https://japan.cnet.com/storage/thumbnails/thumb-184xauto-1354751-file.jpeg",
+    "fetched_at": "2026-10-05 21:38:11",
+    "ja_summary": "iPhone 18 Pro Maxで一部ユーザーに通話できない不具合が発生。\nアップルは無償交換で対応。\nAT&T回線利用者で発生の可能性。"
+  },
+  {
+    "title": "PayPayインフル保険、過去最速で販売開始　昨季加入者は月240円から",
+    "link": "https://japan.cnet.com/article/35253242/",
+    "source": "CNET Japan",
+    "published": "",
+    "summary": "PayPay保険サービスは10月5日、「PayPay」アプリ内の「PayPayほけん」で、インフルエンザに備える保険「インフルエンザお見舞い金」の今シーズンの販売を始めた。昨シーズンより約10日早く、これまでで最も早い販売開始となる。インフルエンザの流行入りが前年より早まっていることを受けた。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35253242/\"><img src=\"https://japan.cnet.com/storage/thumbnails/thumb-184xauto-1354749-file.jpg\" /></a>",
+    "image": "https://japan.cnet.com/storage/thumbnails/thumb-184xauto-1354749-file.jpg",
+    "fetched_at": "2026-10-05 21:38:11",
+    "ja_summary": "PayPayインフル保険が過去最速で販売開始。\nインフルエンザ流行の早期化に対応。\n月240円から加入可能。"
+  },
+  {
+    "title": "2027年“AIブーム崩壊”を「これまで以上に確信している」と、『世紀の空売り』マイケル・バーリは述べる",
+    "link": "https://www.businessinsider.jp/article/2609-big-short-michael-burry-ai-bubble-stock-market-outlook-2027-2026-9/",
+    "source": "Business Insider Japan",
+    "published": "Mon, 05 Oct 2026 08:30:00 GMT",
+    "summary": "マイケル・バーリ氏は、AIブームの崩壊が「今後1年の間に起こる」と「これまで以上に確信している」として、相次いで下落を見込んだポジションを取っていると述べました。",
+    "image": "https://media.loom-app.com/loom/2026/09/30/a8066b60-9eb2-45b8-9610-39d7842c77f3/original.jpg?w=1200",
+    "fetched_at": "2026-10-05 21:38:11",
+    "ja_summary": "・『世紀の空売り』で知られるマイケル・バーリ氏が、2027年までのAIブーム崩壊を強く予測。\n・今後1年以内のバブル崩壊を確信し、関連銘柄の下落を見込んだポジションを構築中。\n・AI市場に対する極めて悲観的な姿勢を強調し、市場の変化に警鐘を鳴らしている。"
+  },
+  {
+    "title": "AIエージェントハーネス「Pi 1.0」のクイックスタート",
+    "link": "https://note.com/npaka/n/nc6ace5304805",
+    "source": "note (npaka)",
+    "published": "Sat, 03 Oct 2026 22:01:11 +0900",
+    "summary": "<p id=\"df3b115b-c17f-41b8-b37b-2c9ea9f415b4\" name=\"df3b115b-c17f-41b8-b37b-2c9ea9f415b4\">AIエージェントハーネス「Pi 1.0」のクイックスタートをまとめました。</p><br /><br /><a href=\"https://note.com/npaka/n/nc6ace5304805\">続きをみる</a>",
+    "image": "https://assets.st-note.com/production/uploads/images/320314851/rectangle_large_type_2_c74108c4aa698fd57ac77c6b6f65e009.jpeg?width=800",
+    "fetched_at": "2026-10-05 21:38:11",
+    "ja_summary": "・AIエージェントの開発・評価を支援する「Pi 1.0」の導入手順を解説。\n・エージェント構築に必要なセットアップから実行までの流れを網羅。\n・AI開発の効率化を目指すエンジニア向けの実践的なクイックスタートガイド。"
+  },
+  {
+    "title": "米政府のAI 都合の悪い質問を拒否",
+    "link": "https://news.yahoo.co.jp/pickup/6597451?source=rss",
+    "source": "Yahoo!ニュース IT・科学",
+    "published": "Sat, 03 Oct 2026 13:35:42 GMT",
+    "summary": "",
+    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/10/3/3cde0dcc280b48f673d54d9ec6e7900c60747234f9d42f28b6b2dd43abc22aac.jpg",
+    "fetched_at": "2026-10-05 21:38:12",
+    "ja_summary": "米政府がAIモデルに対し、機密情報や不適切な回答を避けるよう制限を強化。\nAIによるリスクを最小限に抑えるため、特定の質問には回答を拒否する仕様へ。\n安全性を優先する方針だが、利便性や情報の透明性との両立が課題となる。"
+  },
+  {
+    "title": "フィジカルAIによくある10の誤解、ガートナーが回答",
+    "link": "https://japan.zdnet.com/article/35253240/",
+    "source": "ZDNET Japan",
+    "published": "",
+    "summary": "ガートナージャパンは、「フィジカルAIに関するよくある10の誤解」を発表した。誤解を正さないと、2030年以降に企業が競争力を失うと指摘する。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35253240/\"><img src=\"https://japan.zdnet.com/storage/2025/10/09/60478e248ca20b13795f871513cee7f9/t/184/138/d/251009_ai_as_1280_323829966.jpeg\" /></a>",
+    "image": "https://japan.zdnet.com/storage/2025/10/09/60478e248ca20b13795f871513cee7f9/t/184/138/d/251009_ai_as_1280_323829966.jpeg",
+    "fetched_at": "2026-10-05 21:38:13",
+    "ja_summary": "・ガートナーが「フィジカルAI」に関する10の誤解を指摘し、正しい理解を促している。\n・誤解を放置したままでは、2030年以降に企業の競争力が低下する恐れがある。\n・AI導入を加速させるため、技術の現状を正しく認識し戦略を見直す必要がある。"
+  },
+  {
+    "title": "Meta、AIエージェントMuseをM5Stackやラズパイで使うMuse Gadgets公開　スマート家電連携ハブを無料配布、SDKはオープンソース",
+    "link": "https://www.techno-edge.net/article/2026/10/05/5553.html",
+    "source": "TechnoEdge",
+    "published": "Mon, 05 Oct 2026 18:27:21 +0900",
+    "summary": "MetaがパーソナルAIエージェント「Muse」連携ガジェットを自作するためのプロジェクト「Muse Gadgets」を公開しました。",
+    "image": "https://www.techno-edge.net/imgs/rss/34623.png",
+    "fetched_at": "2026-10-05 21:38:15",
+    "ja_summary": "・MetaがAIエージェント「Muse」を自作ハードウェア（M5Stackやラズパイ）で利用できる「Muse Gadgets」を公開。\n・スマート家電と連携可能なハブを無料で配布し、関連SDKもオープンソースとして提供。\n・開発者やユーザーが独自のAI連携デバイスを構築できる環境を整え、エコシステムの拡大を図る。"
+  },
+  {
+    "title": "アップル、macOSの「フルディスクアクセス」制御を強化へ。AIエージェントのリスク増大を警告",
+    "link": "https://www.techno-edge.net/article/2026/10/03/5551.html",
+    "source": "TechnoEdge",
+    "published": "Sat, 03 Oct 2026 12:50:02 +0900",
+    "summary": "アップルは、macOSの「フルディスクアクセス」に関する設定に追加の制御機能を導入する方針を明らかにしました。",
+    "image": "https://www.techno-edge.net/imgs/rss/34618.jpg",
+    "fetched_at": "2026-10-05 21:38:15",
+    "ja_summary": "・アップルがmacOSの「フルディスクアクセス」設定を強化へ\n・AIエージェント悪用によるセキュリティリスク増大への対応\n・ユーザーのデータ保護を目的とした制御機能を追加導入"
+  },
+  {
+    "title": "熊本地震の被災自治体等へ、ガバメントAI 源内を緊急提供します（終了）",
+    "link": "https://www.digital.go.jp/news/cb912b3b-49c9-4a02-aa46-4056b96c1d4f",
+    "source": "デジタル庁",
+    "published": "Wed, 30 Sep 2026 18:18:34 +0900",
+    "summary": "",
+    "image": "https://www.digital.go.jp/themes/custom/gov_theme_da_2023/assets/images/ogp.png",
+    "fetched_at": "2026-10-05 21:38:16",
+    "ja_summary": "・熊本地震の被災自治体に対し、行政業務を効率化するAI「源内」を緊急提供した。\n・本取り組みは現在終了している。"
+  },
+  {
+    "title": "地方公共団体におけるアナログ規制の見直しの取組紹介「和歌山県における衛星データとAIの活用事例」を掲載しました",
+    "link": "https://www.digital.go.jp/policies/digital-extraordinary-administrative-research-committee/local-government",
+    "source": "デジタル庁",
+    "published": "Wed, 30 Sep 2026 15:00:00 +0900",
+    "summary": "",
+    "image": "https://www.digital.go.jp/themes/custom/gov_theme_da_2023/assets/images/ogp.png",
+    "fetched_at": "2026-10-05 21:38:16",
+    "ja_summary": "和歌山県が行政手続きや調査におけるアナログ規制を見直し、衛星データとAIを活用した効率的な業務改善事例を公開した。\n人手不足や広域調査の課題に対し、デジタル技術で迅速かつ高度なデータ分析を実現する手法を提示している。\n地方公共団体における先進的なDX推進のモデルケースとして、他自治体への展開が期待される。"
+  },
+  {
+    "title": "第6回先進的AI利活用アドバイザリーボードの会議資料等を掲載しました",
+    "link": "https://www.digital.go.jp/councils/ai-advisory-board/162953b0-3dc0-46a6-a24c-0e3a335e0495",
+    "source": "デジタル庁",
+    "published": "Tue, 29 Sep 2026 15:00:00 +0900",
+    "summary": "",
+    "image": "https://www.digital.go.jp/themes/custom/gov_theme_da_2023/assets/images/ogp.png",
+    "fetched_at": "2026-10-05 21:38:16",
+    "ja_summary": "・第6回「先進的AI利活用アドバイザリーボード」の会議資料が公開された。\n・政府のAI利活用に関する最新の検討状況や議論内容が確認可能。\n・関連資料は公式サイトにて閲覧・ダウンロードできる。"
+  },
+  {
+    "title": "Building advertising for the way people use AI",
+    "link": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+    "source": "OpenAI",
+    "published": "Mon, 05 Oct 2026 10:00:00 GMT",
+    "summary": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/rK0Bn1sDSa03vTiJvEqEk/e693b91273247f332181de385845fa52/building-advertising-for-the-way-people-use-ai-social.png?w=1600&amp;h=900&amp;fit=fill",
+    "fetched_at": "2026-10-05 21:38:17",
+    "ja_summary": "・OpenAIがChatGPTに新しい視覚的な広告フォーマットを導入。\n・広告効果の測定ツールや帰属分析機能を強化し、ブランド保護も拡充。\n・AI利用者の行動に最適化した、広告主向けのマーケティング基盤を整備。"
+  },
+  {
+    "title": "The eternal complement",
+    "link": "https://openai.com/index/the-eternal-complement",
+    "source": "OpenAI",
+    "published": "Thu, 01 Oct 2026 17:00:00 GMT",
+    "summary": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/2lnidMsGW3gfP6p4fYJZTg/be8ebadd2bf9e9d83adea7a6f28f0501/eternal-complement-seo-white-preview.png?w=1600&amp;h=900&amp;fit=fill",
+    "fetched_at": "2026-10-05 21:38:17",
+    "ja_summary": "・AIは革新的なアイデアそのものより、その実現に向けた地道な実務において最大の価値を発揮する。\n・今後は実行プロセスの効率化が経済の成長速度や競争力を決定づける重要な鍵となる。\n・高度なAIをルーチンワークに組み込む企業が、次世代の経済圏で優位性を築く。"
+  },
+  {
+    "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
+    "link": "https://openai.com/index/the-den-family-social",
+    "source": "OpenAI",
+    "published": "Thu, 01 Oct 2026 00:00:00 GMT",
+    "summary": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/2LBeQvZxob9E44kvUBuP4u/bf9887c20e840ecd0362d8e93e98c31d/og.png?w=1600&amp;h=900&amp;fit=fill",
+    "fetched_at": "2026-10-05 21:38:18",
+    "ja_summary": "・会員制クラブ「The Den」がChatGPTを活用し、業務時間を週10～15時間削減。\n・助成金申請を3日から2時間に、酒類免許申請を4日から3時間に短縮。\n・事務作業の効率化により、新拠点開設などの成長戦略に注力できる体制を構築。"
+  },
+  {
+    "title": "朝のあの時間だけEC2のキャパシティ予約したいんだよなあ",
+    "link": "https://zenn.dev/educom_tech/articles/e0445b9e5da82a",
+    "source": "Zenn Trends",
+    "published": "Mon, 05 Oct 2026 06:01:42 GMT",
+    "summary": "こんにちは、EDUCOMのかどげんです。\n最近、インスタンスタイプT8iが出てきましたね。\nこの影響かわからないのですがInsufficientInstanceCapacityによるインスタンスタイプt3の自動起動が失敗することが多くなりました。\nhttps://aws.amazon.com/jp/blogs/news/new-low-cost-burstable-amazon-ec2-t8i-instances-are-generally-available/\nそのため、要件に合う限りT8iインスタンスへ移行することが良いと考えていますが、状況によってはすぐに移行できない場合もあるかと...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--_CnK30jN--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E6%259C%259D%25E3%2581%25AE%25E3%2581%2582%25E3%2581%25AE%25E6%2599%2582%25E9%2596%2593%25E3%2581%25A0%25E3%2581%2591EC2%25E3%2581%25AE%25E3%2582%25AD%25E3%2583%25A3%25E3%2583%2591%25E3%2582%25B7%25E3%2583%2586%25E3%2582%25A3%25E4%25BA%2588%25E7%25B4%2584%25E3%2581%2597%25E3%2581%259F%25E3%2581%2584%25E3%2582%2593%25E3%2581%25A0%25E3%2582%2588%25E3%2581%25AA%25E3%2581%2582%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E3%2581%258B%25E3%2581%25A9%25E3%2581%2592%25E3%2582%2593%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly96ZW5uLmRldi9pbWFnZXMvZGVmYXVsdC1wdWJsaWNhdGlvbi1hdmF0YXIucG5n%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:EDUCOM%2520Tech%2520Blog%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzkxZDhjYzdmODAuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-10-05 21:38:20",
+    "ja_summary": "・T8iの登場に伴い、既存のt3インスタンスでキャパシティ不足による自動起動エラーが頻発している。\n・可能な限りT8iへの移行を推奨するが、即時対応が困難なケースへの対策も必要。"
+  },
+  {
+    "title": "俺のAIプログラミング手法(2026/10/05)",
+    "link": "https://zenn.dev/mizchi/articles/ai-coding-loop-formal",
+    "source": "Zenn Trends",
+    "published": "Mon, 05 Oct 2026 04:59:07 GMT",
+    "summary": "棚卸し的な記事です。\n\n 人間の役割を定義する\n\nモデルの性能を評価する\n\n無茶振りしてどこまで出来るか観察\n何ができて、何ができなかったことがドメイン知識になる\n\n\nループを構築する\n\n自動化して得られた時間で、評価指標を改善する\n\n\n評価指標を作る\n\nどの数値を改善すべきか、トレードオフは何を優先すべきか\n\n\nループのイテレーションを評価する\n\nAI の行動ログを観察して、評価指標を正しく終えているか、\n\n\nテストとCIをチューニングする(その優先度を与える)\n\n評価指標が増えると、そのためのCIが長くなる\n何を優先して、何をやらないかを明確にする\n\n\n\n\n 考える順番\n\n\n これは...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--NK9_lu5L--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E4%25BF%25BA%25E3%2581%25AEAI%25E3%2583%2597%25E3%2583%25AD%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%259F%25E3%2583%25B3%25E3%2582%25B0%25E6%2589%258B%25E6%25B3%2595%25282026%252F10%252F05%2529%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:mizchi%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2liclRHT052Z3d3ay1fNGxlcVk4TGNGSlNuX0FoWnpEWVlKaXJNcWc9czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-10-05 21:38:20",
+    "ja_summary": "・AIに「役割定義」と「無茶振り」を行い、限界と能力を見極めてドメイン知識を蓄積する。\n・評価指標に基づいた改善ループを構築し、CIの優先順位を明確化して効率的に開発する。\n・AIの行動ログから評価の妥当性を確認し、イテレーションを高速化させる。"
+  },
+  {
+    "title": "GraphRAGをゼロから詳しく解説する【ナレッジグラフ・オントロジー】",
+    "link": "https://zenn.dev/tetsuro731/articles/6efe77a20b8c1c",
+    "source": "Zenn Trends",
+    "published": "Mon, 05 Oct 2026 00:19:09 GMT",
+    "summary": "はじめに\n生成AIが盛り上がり続けて数年、どんどん新しい言葉が出てくる。\nRAGという概念が出てきたと思ったら、最近はナレッジグラフ、オントロジー、GraphRAGなど聞き慣れない言葉が次々出てきた。\nしかし、これらのトレンドを時系列で整理して追ってみると、意外と一つの線となって繋がることがわかる。\n今回は、最近注目されているGraphRAGに焦点をあて、ゼロから理解することを目指す。\n詳しくは後ほど説明するが、GraphRAGには以下の二つの意味が存在する。\n\n一般に言われているGraph + RAGの機能をもった手法\nMicrosoftによって公開されている同名のOSS、またはそ...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--Yh7K4Wkh--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:GraphRAG%25E3%2582%2592%25E3%2582%25BC%25E3%2583%25AD%25E3%2581%258B%25E3%2582%2589%25E8%25A9%25B3%25E3%2581%2597%25E3%2581%258F%25E8%25A7%25A3%25E8%25AA%25AC%25E3%2581%2599%25E3%2582%258B%25E3%2580%2590%25E3%2583%258A%25E3%2583%25AC%25E3%2583%2583%25E3%2582%25B8%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%2595%25E3%2583%25BB%25E3%2582%25AA%25E3%2583%25B3%25E3%2583%2588%25E3%2583%25AD%25E3%2582%25B8%25E3%2583%25BC%25E3%2580%2591%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2583%2586%25E3%2583%2583%25E3%2583%2584%25E3%2582%25A9%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzUxYzM3NzEyMGIuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-10-05 21:38:21",
+    "ja_summary": "生成AIの進化でRAGからGraphRAGへ。\nGraphRAGは、ナレッジグラフとRAGを組み合わせた手法。\nMicrosoftの同名OSSも存在し、注目されている。"
+  },
+  {
+    "title": "人生オワタ2を600回、Jev互換AIは穴を越えられず",
+    "link": "https://zenn.dev/acntechjp/articles/zenn-system1-owata2-realtime",
+    "source": "Zenn Trends",
+    "published": "Sun, 04 Oct 2026 23:37:39 GMT",
+    "summary": "3行でまとめ\n\nJev 互換の判定モデル kev-4b と laya-ml を Mac と Google Cloud で動かして測った。応答は Mac で laya-ml 15ms・kev-4b 200ms、Vertex AI の米国 L4 に置いた kev-4b は252ms。ただし、画面を読む処理だけで55ms かかる\nこの2つに死にゲー『人生オワタの大冒険2』の最初の穴を、画面だけを見せ、ゲームを止めずに遊ばせた。条件を固めた600回で、向こう岸に着いたのは0回。kev-4b は低い小ジャンプで穴へ落ち続け、laya-ml は英語にすると「attack」を撃ち続けた\nJev の...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--F0qP40zf--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E4%25BA%25BA%25E7%2594%259F%25E3%2582%25AA%25E3%2583%25AF%25E3%2582%25BF2%25E3%2582%2592600%25E5%259B%259E%25E3%2580%2581Jev%25E4%25BA%2592%25E6%258F%259BAI%25E3%2581%25AF%25E7%25A9%25B4%25E3%2582%2592%25E8%25B6%258A%25E3%2581%2588%25E3%2582%2589%25E3%2582%258C%25E3%2581%259A%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Shinya%2520Koike%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2U2ZDA4MDY5ODcuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Accenture%2520Japan%2520%2528%25E6%259C%2589%25E5%25BF%2597%2529%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzdiOGRmZDQ3YzMuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-10-05 21:38:21",
+    "ja_summary": "・Jev互換AI（kev-4b/laya-ml）に高難度ゲームをプレイさせたところ、計600回の試行で一度も突破できなかった。\n・AIは穴を越えられず、ジャンプ不足や攻撃の空撃ちを繰り返すなど、ゲーム攻略に必要な動作が学習できていない。\n・Macやクラウド環境で実行速度を測定したが、処理遅延や認識精度の課題が浮き彫りとなった。"
+  },
+  {
+    "title": "本当に「判断」していますか？",
+    "link": "https://zenn.dev/dyoshikawa/articles/do-you-desicion",
+    "source": "Zenn Trends",
+    "published": "Sun, 04 Oct 2026 22:00:05 GMT",
+    "summary": "はじめに\n@dyoshikawaです。\n昨今、\n「AI時代はタスクはAIにやらせ、人間は判断に集中する」\nといったことをよく聞きますが、個人的にはモヤモヤがあります。\nひとつは、対象への理解なしに妥当な判断ができるのか、という点です。\nもうひとつは、自分自身もですし、身の回りやSNSで見かける投稿などからも感じることですが、その判断でさえAIへの丸投げに近づいていっているのではないかということです。\n\n 理解できないものは判断できない\n「AI時代、人間の役割は判断になる」とよくいわれます。\nここでいう判断とは、何をするかの方針を決めたり、AIが出してきた複数の提案から一つを選んだりす...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--R2b2H6HT--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E6%259C%25AC%25E5%25BD%2593%25E3%2581%25AB%25E3%2580%258C%25E5%2588%25A4%25E6%2596%25AD%25E3%2580%258D%25E3%2581%2597%25E3%2581%25A6%25E3%2581%2584%25E3%2581%25BE%25E3%2581%2599%25E3%2581%258B%25EF%25BC%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:dyoshikawa%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzNmN2M2YzVmZTIuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-10-05 21:38:22",
+    "ja_summary": "「AIがタスクを担い人間は判断する」という風潮に対し、対象への深い理解なしに適切な判断は困難である。\nAIの提案を鵜呑みにする現状は、判断すらAIに丸投げしている状態に近い。\n真の判断力を養うためには、AI任せにせず、自ら業務の本質を深く理解し続ける必要がある。"
+  },
+  {
+    "title": "自分で立ててみるLLMサービス",
+    "link": "https://speakerdeck.com/y_sera15/jibun-de-tate-te-miru-llm-sabisu",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-10-05T06:29:26-04:00",
+    "summary": "2026/10/5 さくらの夕べ 地域コミュニティナイト - 小江戸らぐ & LOCAL編 -",
+    "image": "https://files.speakerdeck.com/presentations/a0420834eb5f41f1971e1b33f80e6f49/preview_slide_0.jpg?40792683",
+    "fetched_at": "2026-10-05 21:38:22",
+    "ja_summary": "・2026年10月5日開催の「さくらの夕べ」にて、LLM（大規模言語モデル）の自前構築に関するセッションを実施。\n・地域コミュニティ（小江戸らぐ・LOCAL）との共催で、技術的な知見や運用ノウハウを共有。"
+  },
+  {
+    "title": "FactoryBotアンチパターン / factory_bot anti-patterns",
+    "link": "https://speakerdeck.com/toshimaru/factory-bot-anti-patterns",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-10-05T06:28:55-04:00",
+    "summary": "[Kaigi on Rails 2026 過去登壇勉強会 - connpass](https://connpass.com/event/406332/) での発表資料です。",
+    "image": "https://files.speakerdeck.com/presentations/6f959c0cd96544629fcb9b6d437ba705/preview_slide_0.jpg?40792532",
+    "fetched_at": "2026-10-05 21:38:22",
+    "ja_summary": "・FactoryBotの不適切な利用方法（アンチパターン）を解説する資料\n・テストコードのメンテナンス性を下げないためのベストプラクティスを網羅\n・Kaigi on Rails登壇内容を基にした、効率的なテスト実装のためのガイドライン"
+  },
+  {
+    "title": "Specs before code: field notes from a consulting team using Kiro",
+    "link": "https://speakerdeck.com/nuage_ninja/specs-before-code-field-notes-from-a-consulting-team-using-kiro",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-10-05T02:43:20-04:00",
+    "summary": "An agent can build a feature in an afternoon. Whether it's the feature you actually wanted is another question, and that's what this talk is about.\n\nWe start with Kiro, the agentic IDE built by a team inside AWS, and the three files it writes before any code: requirements.md (what we're building), design.md (how it will work) and tasks.md (the order we build it in).\n\nThen ten principles our team picked up using Kiro on client work. For each one you get what it means in plain words, the config behind it and an example. Think steering files, hooks, permissions and review agents.\n\nWe finish with five things you can set up on Monday. Each takes about an hour, and none of them needs a budget line or anyone's permission.",
+    "image": "https://files.speakerdeck.com/presentations/3d2e7c4a67bb4303ab2b402fb24fa57c/preview_slide_0.jpg?40790101",
+    "fetched_at": "2026-10-05 21:38:22",
+    "ja_summary": "・AWS製AI開発ツール「Kiro」を用い、実装前に要件・設計・タスク定義を文書化することで、精度の高い開発を実現する。\n・実務で得た「AIを制御する10の原則（設定や権限管理など）」を共有し、開発の質を向上させる。\n・即座に導入可能な「月曜から使える5つの改善策」を紹介し、承認不要で低コストなAI活用術を提示する。"
+  },
+  {
+    "title": "API キーはどこから漏れるのか？ 自分のサイトに来た .env 探し 1,566 件と、公開事例を 7 つの経路に分けてみた",
+    "link": "https://qiita.com/songchong/items/02672765fe53f911a1a0",
+    "source": "Qiita (Popular)",
+    "published": "2026-10-05T09:13:39+09:00",
+    "summary": "\n![API キーが漏れる 7 つの経路（左）と、それぞれ先にすること（右）を矢印でつないだ図。サーバーや公開の置き場から 3 つ: ①公開リポジトリ（いちばん多い。2025 年の 1 年で 2,865 万件）→ 漏れた鍵を取り消す、プッシュ保護とシークレットスキャンも使う、②Web サイトの公開フォルダ → .env や .git を公開フォルダに置かない、③配るパッケージ・コンテナイメージ →",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGNTY2NzAlMkZwcm9maWxlLWltYWdlcyUyRjE3ODcyMzgxODE_aXhsaWI9cmItNC4xLjEmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPWU3NzQ3ZjMzNzE4MDJjYjI2M2FjMjM3NzUzODlmOTE5%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Dc73920274995f5a321a69858db1e61f3?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9QVBJJTIwJUUzJTgyJUFEJUUzJTgzJUJDJUUzJTgxJUFGJUUzJTgxJUE5JUUzJTgxJTkzJUUzJTgxJThCJUUzJTgyJTg5JUU2JUJDJThGJUUzJTgyJThDJUUzJTgyJThCJUUzJTgxJUFFJUUzJTgxJThCJUVGJUJDJTlGJTIwJUU4JTg3JUFBJUU1JTg4JTg2JUUzJTgxJUFFJUUzJTgyJUI1JUUzJTgyJUE0JUUzJTgzJTg4JUUzJTgxJUFCJUU2JTlEJUE1JUUzJTgxJTlGJTIwLmVudiUyMCVFNiU4RSVBMiVFMyU4MSU5NyUyMDElMkM1NjYlMjAlRTQlQkIlQjYlRTMlODElQTglRTMlODAlODElRTUlODUlQUMlRTklOTYlOEIlRTQlQkElOEIlRTQlQkUlOEIlRTMlODIlOTIlMjA3JTIwJUUzJTgxJUE0JUUzJTgxJUFFJUU3JUI1JThDJUU4JUI3JUFGJUUzJTgxJUFCJUU1JTg4JTg2JUUyJTgwJUE2JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9YjYxOGFlMDhiOTI2OGQzMjkxYTVhMjA2OTFiM2JjODA&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBzb25nY2hvbmcmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1jYThhODE5MGI3ZTMyOWM0MDRkZTcyYjU3YzZiNzYwNA&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=400f9a4520d9d686033a0c0c3deb7f16",
+    "fetched_at": "2026-10-05 21:38:23",
+    "ja_summary": "・APIキーの漏洩は公開リポジトリへの誤アップロードが最多で、年間約2,865万件もの流出が発生している。\n・主な経路はリポジトリのほか、Webサイトの公開フォルダやパッケージへの混入など7つに大別される。\n・対策として、シークレットスキャンの活用や、環境設定ファイル（.env等）を公開範囲に含めない徹底した管理が不可欠。"
+  },
+  {
     "title": "フィジカルAIで異業種連携相次ぐ",
     "link": "https://news.yahoo.co.jp/pickup/6597586?source=rss",
     "source": "Yahoo!ニュース 経済",
@@ -708,295 +998,5 @@
     "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY2Njg5NTAlMkZlYzkxNGM0M2Y1MmZhOGVmMmM1ZDYzZWY2ZDI2NmNlMjAxMTMyMmM1JTJGeF9sYXJnZS5wbmclM0YxNzM4NTQ5NzE0P2l4bGliPXJiLTQuMS4xJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz1hZTcyYzlkNDc0ODA1NWRiODg3MjU1MTg3YjYwNzE3Mg%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Dd52b79a6493a8f7d3599dbe8fc65df0f?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUU1JTg1JTgzJUUzJTgzJUE0JUUzJTgzJTk1JUUzJTgzJUJDJUUzJTgyJUE4JUUzJTgzJUIzJUUzJTgyJUI4JUUzJTgzJThCJUUzJTgyJUEyJUU3JUE0JUJFJUU5JTk1JUI3JUUzJTgxJThDJUU4JTgwJTgzJUUzJTgxJTg4JUUzJTgyJThCJUUzJTgwJTgxQUklRTMlODIlOTIlRTQlQkQlQkYlRTMlODElODQlRTMlODElOTMlRTMlODElQUElRTMlODElOTklRTQlQkElQkElRTMlODElQTglRTQlQkQlQkYlRTMlODElODglRTMlODElQUElRTMlODElODQlRTQlQkElQkElRTMlODElQUUlRTYlQjElQkElRTUlQUUlOUElRTclOUElODQlRTMlODElQUElRTUlQjclQUUmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1hZjE1MjQwMzkzMzJiODI1ZTBmMzlkMjZhYjU4YmY0ZA&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDByeW9oZWlpd2Ftb3RvJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9Y2Q0NTMxYTI2Yzk3MDgzYzhhZjVjYmZmZDg1ZjcyYTc&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=007ba270d1d991e0242b598db63731c2",
     "fetched_at": "2026-10-05 03:15:11",
     "ja_summary": "AI活用の差は「一部を補助させる」という思考にとどまらず、「いかにAIへ業務全体を任せきれるか」を考えられるかにある。\n既存の作業をAIに委ねる前提でプロセスを見直すことが、結果として大きな生産性の違いを生む。"
-  },
-  {
-    "title": "元ヤフーエンジニア社長が考える、AI時代の採用基準",
-    "link": "https://qiita.com/ryoheiiwamoto/items/7f388029f8821fc3ea6c",
-    "source": "Qiita (Popular)",
-    "published": "2026-09-26T19:02:07+09:00",
-    "summary": "\n\n>スキルより先に見ているものがある\n\n\n\nこんにちは、元Yahooエンジニアで、株式会社PRUMの代表をしている岩本です。\n\n面接だと、つい「スキルをどうアピールしよう」と考えてしまいますよね。\n\n確かに、スキルがあるに越したことはありません。\n\nでも僕が採用の最終判断をするとき、実はスキルはほとんど見ていません。\n\nAIによってエンジニアのスキルはどんどん均一化されていきます。1年目の人が書",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY2Njg5NTAlMkZlYzkxNGM0M2Y1MmZhOGVmMmM1ZDYzZWY2ZDI2NmNlMjAxMTMyMmM1JTJGeF9sYXJnZS5wbmclM0YxNzM4NTQ5NzE0P2l4bGliPXJiLTQuMS4xJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz1hZTcyYzlkNDc0ODA1NWRiODg3MjU1MTg3YjYwNzE3Mg%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Dd52b79a6493a8f7d3599dbe8fc65df0f?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUU1JTg1JTgzJUUzJTgzJUE0JUUzJTgzJTk1JUUzJTgzJUJDJUUzJTgyJUE4JUUzJTgzJUIzJUUzJTgyJUI4JUUzJTgzJThCJUUzJTgyJUEyJUU3JUE0JUJFJUU5JTk1JUI3JUUzJTgxJThDJUU4JTgwJTgzJUUzJTgxJTg4JUUzJTgyJThCJUUzJTgwJTgxQUklRTYlOTklODIlRTQlQkIlQTMlRTMlODElQUUlRTYlOEUlQTElRTclOTQlQTglRTUlOUYlQkElRTYlQkElOTYmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz02MWUzMDRhMjRlMmJiZTNkZGQ1NDY3NDBhMmI4ZGQ4MA&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDByeW9oZWlpd2Ftb3RvJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9Y2Q0NTMxYTI2Yzk3MDgzYzhhZjVjYmZmZDg1ZjcyYTc&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=e1044e4bc067eb60ee0a2d1263510b70",
-    "fetched_at": "2026-10-05 03:15:12",
-    "ja_summary": "AIによる技術の均一化が進む中、エンジニア採用ではスキル以上に「自ら課題を見つけ解決する姿勢」が重要になる。\nスキルは後から習得可能だが、成長意欲や思考の柔軟性は代えがたいため、人間としての本質的な資質を重視する。"
-  },
-  {
-    "title": "2026年9月時点 Microsoft の AI 戦略について",
-    "link": "https://qiita.com/yoshioterada/items/c42534895d5ca89b91b1",
-    "source": "Qiita (Popular)",
-    "published": "2026-09-14T10:44:23+09:00",
-    "summary": "> Microsoft の AI に関連するサービスは非常に多くあります。今まで私は開発中心だったため、M365関連を含む全体的な知識のアップデートが必要で、できるだけ早急にさまざまな技術やサービスをキャッチアップしたいと考えています。元々この資料は自分自身で理解するために、学習用メモとして AI と共にまとめていたのですが、自分用だけにするには勿体無いと感じたので Qita 投稿用にまとめ直した",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFtYXpvbmF3cy5jb20lMkYwJTJGNTgzNzclMkZwcm9maWxlLWltYWdlcyUyRjE0NzM3NjE0MTM_aXhsaWI9cmItNC4xLjEmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPWRhNDY4MDZiNTYwYWE4M2Y3ZDUwMGJmOGQ5ZWU5OWIw%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkZiYWU2ZDNhMDgyOGMwMTlmZjI1OWNkYjQ3YTg5ODhjOTg2MzYzODlmJTJGb3JpZ2luYWwuanBnJTNGMTU4MzcyMTg2NT9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz0yZTZmZDNmZTU4ZjI4NDMwMWExYjZlMGM4OWJhOWMxZg%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D9951133949fbb267cd601742871cf60b?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9MjAyNiVFNSVCOSVCNDklRTYlOUMlODglRTYlOTklODIlRTclODIlQjklMjBNaWNyb3NvZnQlMjAlRTMlODElQUUlMjBBSSUyMCVFNiU4OCVBNiVFNyU5NSVBNSVFMyU4MSVBQiVFMyU4MSVBNCVFMyU4MSU4NCVFMyU4MSVBNiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTYyZGM4NTc0Y2JjNDliM2U2ZWMzZTM5MWFlZGE0YjQ5&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDB5b3NoaW90ZXJhZGEmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz0yOTYwODY3MDI2YjE4N2VjMWRhNmUxOTU2MTU1MDZjOQ&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=TWljcm9zb2Z0&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=1311db1609d77c5ef99416fddb781277",
-    "fetched_at": "2026-10-05 03:15:12",
-    "ja_summary": "・Microsoftの多岐にわたるAIサービスとM365関連技術の全体像を整理。\n・急速に進化する技術戦略を効率的にキャッチアップするための学習メモ。\n・開発者やビジネスパーソン向けに、最新のAI戦略を網羅的に解説。"
-  },
-  {
-    "title": "AWSのインフラ導入でAIを使っている箇所と手でやっている箇所",
-    "link": "https://qiita.com/infra365/items/aa30a54fc6f0849385a7",
-    "source": "Qiita (Popular)",
-    "published": "2026-09-11T14:51:35+09:00",
-    "summary": "# はじめに\n「AIはボトルネックを解消するものではなく、ボトルネックを他の工程に移しているだけ」という話を聞きました。私はシステム導入の中でAIを使いこなせているわけではないのですが、当然一部にはAIを活用しているため、改めてどのようにシステム導入の工程を実施していて、どこにボトルネックがあるのかを振り返ってみました。\n\n# 前提\nざっくりと導入工程を書いてみます。工程は下記のように、要件定義・",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYyNTIzNjUyJTJGZGRmYjI1ZWU3MjIxNTc1OTE0ZDVmMzYxN2Y2MWE0NjMwMThjZTI1MyUyRmxhcmdlLnBuZyUzRjE2OTcwNjM3ODA_aXhsaWI9cmItNC4xLjEmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPTNkYjczNGRjMGM3OWRjYmQ4NzYwMTM3NTk5MmRkNjgz%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Db555721fe24fd6778a01b26eabc1d52e?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9QVdTJUUzJTgxJUFFJUUzJTgyJUE0JUUzJTgzJUIzJUUzJTgzJTk1JUUzJTgzJUE5JUU1JUIwJThFJUU1JTg1JUE1JUUzJTgxJUE3QUklRTMlODIlOTIlRTQlQkQlQkYlRTMlODElQTMlRTMlODElQTYlRTMlODElODQlRTMlODIlOEIlRTclQUUlODclRTYlODklODAlRTMlODElQTglRTYlODklOEIlRTMlODElQTclRTMlODIlODQlRTMlODElQTMlRTMlODElQTYlRTMlODElODQlRTMlODIlOEIlRTclQUUlODclRTYlODklODAmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1iNmI0MDA5ZjA0NWNjZWE2ZDE2Zjk1Yzc4NDU1Y2Q5OA&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBpbmZyYTM2NSZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTA1MGExOWY4MzNjOWE1MmJhZDAxYTI4NmU4ZGQzNGE5&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=626273514a87fd7274d638d0800e0256",
-    "fetched_at": "2026-10-05 03:15:13",
-    "ja_summary": "・AI活用は作業のボトルネックを解消するのではなく、単に工程を移動させているだけである。\n・AWS導入の各工程を振り返ると、AIで効率化できる部分と、依然として手作業が必要な領域が明確に存在する。\n・システム導入においては、AIの利便性だけでなく、作業全体の工程を見直す視点が重要である。"
-  },
-  {
-    "title": "「FDE」は常駐SEのすげ替えなのか　“人月商売の死”を打破したい国内SIer、打開策は意外なところに？",
-    "link": "https://www.itmedia.co.jp/business/articles/2610/01/news040.html",
-    "source": "ITmedia ビジネス",
-    "published": "Thu, 01 Oct 2026 07:00:00 +0900",
-    "summary": "高性能AIの登場によって“人月商売の死”が叫ばれる中、大手SIerが「FDE」の実装に力を入れている。一部では「常駐SEの言い換えに過ぎない」という指摘がある中、SIerは勝機をどこに見いだせば良いのか。",
-    "image": "https://image.itmedia.co.jp/business/articles/2610/01/cover_news040.jpg",
-    "fetched_at": "2026-10-04 23:21:33",
-    "ja_summary": "・AI普及で「人月商売」が限界を迎える中、大手SIerは新たな提供形態「FDE」の導入を急いでいる。\n・FDEを「常駐SEの言い換え」と批判する声もあるが、SIerは付加価値転換による生き残りを模索している。\n・従来の労働集約型から脱却し、技術力で収益を上げるビジネスモデルへの構造改革が求められている。"
-  },
-  {
-    "title": "マネーフォワード、「従業員の健康管理」に参入",
-    "link": "https://www.watch.impress.co.jp/docs/news/2144967.html",
-    "source": "Impress Watch",
-    "published": "",
-    "summary": "マネーフォワードは、「マネーフォワード クラウド健康管理」を10月中旬から提供開始する。ストレスチェックや健康診断などの健康管理業務を、AIによる入力代行や報告書の自動作成によって効率化する健康管理システムで、労務担当者の業務負荷削減につなげる。",
-    "image": "https://www.watch.impress.co.jp/img/ipw/list/2144/967/mf_00.jpg",
-    "fetched_at": "2026-10-04 23:21:49",
-    "ja_summary": "・マネーフォワードが10月中旬より、新サービス「クラウド健康管理」を提供開始。\n・健診結果やストレスチェックなどの事務作業をAIで自動化・効率化。\n・労務担当者の管理業務にかかる工数と負荷を大幅に削減する。"
-  },
-  {
-    "title": "常駐AIエージェントで何が変わるのか？",
-    "link": "https://note.com/npaka/n/n341b20a052c6",
-    "source": "note (npaka)",
-    "published": "Sun, 04 Oct 2026 21:13:54 +0900",
-    "summary": "<p id=\"f77a0f7b-c9fb-413e-8558-64f9d65481d4\" name=\"f77a0f7b-c9fb-413e-8558-64f9d65481d4\">常駐AIエージェントで何が変わるのかについてまとめました。</p><br /><br /><a href=\"https://note.com/npaka/n/n341b20a052c6\">続きをみる</a>",
-    "image": "https://assets.st-note.com/production/uploads/images/320782886/rectangle_large_type_2_8252b2b475d95c7874726fbc6ffb5a28.jpeg?width=800",
-    "fetched_at": "2026-10-04 23:21:51",
-    "ja_summary": "・PCやスマホに常駐し、自律的に操作や判断を行う「常駐型AIエージェント」が次世代の標準となる。\n・単なる検索や生成を超え、人間を介さず複数のアプリを横断して実務を完遂する役割へ進化する。\n・生産性を劇的に高める一方、セキュリティや操作権限の設計が導入の重要な鍵となる。"
-  },
-  {
-    "title": "Mac・DGX SparkでLLM推論を最大3倍高速化する「TensorFold」の概要",
-    "link": "https://note.com/npaka/n/n3d3e09549bdd",
-    "source": "note (npaka)",
-    "published": "Fri, 02 Oct 2026 10:58:12 +0900",
-    "summary": "<p id=\"526bb301-d527-45bc-b5e9-7753433975bf\" name=\"526bb301-d527-45bc-b5e9-7753433975bf\">Mac・DGX SparkでLLM推論を最大3倍高速化する「TensorFold」の概要をまとめました。</p><br /><br /><a href=\"https://note.com/npaka/n/n3d3e09549bdd\">続きをみる</a>",
-    "image": "https://assets.st-note.com/production/uploads/images/319838626/rectangle_large_type_2_82a0e6626f4a74c1915be4c0f1d87f8f.png?width=800",
-    "fetched_at": "2026-10-04 23:21:51",
-    "ja_summary": "・「TensorFold」は、MacやDGX Spark環境でのLLM（大規模言語モデル）推論を最大3倍高速化する新技術。\n・計算効率を最適化することで、特定のハードウェア環境における生成AIの動作速度を大幅に向上させる。\n・推論処理のボトルネックを解消し、より高速かつ効率的なAI運用を実現する。"
-  },
-  {
-    "title": "【書評】 あしざわ式 小説を書く人のAI実践術　創作の困ったを解決するQ&A",
-    "link": "https://note.com/npaka/n/nf24be1ac4e3b",
-    "source": "note (npaka)",
-    "published": "Fri, 02 Oct 2026 08:52:49 +0900",
-    "summary": "<p id=\"82a8cafd-71ff-49dd-adba-4dc7adfa4a0f\" name=\"82a8cafd-71ff-49dd-adba-4dc7adfa4a0f\">ChatGPT、Claude、Geminiなどの生成AIは、小説などの創作にも使われるようになりました。ただ、「小説を書いて」と頼むだけでは、自分の思い描いた作品にならないこともあります。創作では、<strong>AIに文章を書かせるだけでなく、AIと一緒に作品を考えていくこと</strong>が重要です。</p><p id=\"2ef67cfc-1f23-4299-be55-f9af90b51c4d\" name=\"2ef67cfc-1f23-4299-be55-f9af90b51c4d\">『<strong>あしざわ式 小説を書く人のAI実践術　創作の困ったを解決するQ&amp;A</strong>』は、AIを創作の相棒として活用する方法を学べる一冊です。</p><br /><a href=\"https://note.com/npaka/n/nf24be1ac4e3b\">続きをみる</a>",
-    "image": "https://assets.st-note.com/production/uploads/images/319811621/rectangle_large_type_2_0e515195a6d937ea6e7a12d253bcbdb1.jpeg?width=800",
-    "fetched_at": "2026-10-04 23:21:51",
-    "ja_summary": "・生成AIに丸投げするのではなく、創作の相棒として活用する手法を解説した一冊。\n・「思い描いた作品にならない」という悩みを解決し、AIと共同で物語を深めるコツが学べる。\n・小説執筆における具体的な困り事を、Q&A形式で効率的に解消できるガイドブック。"
-  },
-  {
-    "title": "自主式軟體工廠",
-    "link": "https://speakerdeck.com/philipz/zi-zhu-shi-ruan-ti-gong-chang",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-10-04T09:16:01-04:00",
-    "summary": "AI 時代的軟體交付生產線：自主式軟體工廠（Software Factory）實踐解說",
-    "image": "https://files.speakerdeck.com/presentations/d0242d72b99a47a8a0aaa382f043316b/preview_slide_0.jpg?40782062",
-    "fetched_at": "2026-10-04 23:22:02",
-    "ja_summary": "AIを活用した次世代のソフトウェア開発手法「自主式ソフトウェア工場」の概念と実践法を解説。\n開発プロセスを自動化・自律化することで、生産性と納品スピードを飛躍的に向上させる。\nAI時代の新しいシステム開発のあり方と、その具体的な構築アプローチを提示。"
-  },
-  {
-    "title": "Essential architectural thinking (revised edition)",
-    "link": "https://speakerdeck.com/ufried/essential-architectural-thinking-revised-edition",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-10-04T06:48:22-04:00",
-    "summary": "This slide deck is a revised edition of an older presentation. As it mainly covers fundamentals, many aspects of the original presentation still remained relevant. However, as time did not stand still and I gained some additional insights over time, I decided to create an updated version of the presentation. I also thought that this would be a good time for it because it feels as if the domain has mostly forgotten about everything we learned the hard way in the last decades due to the AI rush.\n\nThe slide deck is split in four parts. The first three parts discuss the \"Why\", the \"What\", and the \"When\" and \"How much\" of architectural work, diving into the usually neglected foundations of architectural work. The fourth part asks the (currently inevitable) question which effects AI-based software engineering has on the foundations (spoiler alert: The foundations remain unchanged; AI changes the way \"How\" we do architectural work).\n\nAs so often, the voice track is missing. But I hope, the slide deck stills offers some usueful insights for you.",
-    "image": "https://files.speakerdeck.com/presentations/c1a2925b6bb24feea545ccd926119526/preview_slide_0.jpg?40781491",
-    "fetched_at": "2026-10-04 23:22:02",
-    "ja_summary": "・AIブームで忘れられがちな「ソフトウェアアーキテクチャの基本」を再定義するスライド資料。\n・「なぜ・何を・いつ・どれくらい」という設計の根幹を4部構成で網羅。\n・AIは「作業効率」は変えるが「アーキテクチャの本質的原則」は変えないと提言。"
-  },
-  {
-    "title": "Linux Secure by Default. Are we there yet?",
-    "link": "https://speakerdeck.com/ennael/linux-secure-by-default-are-we-there-yet",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-10-04T06:35:49-04:00",
-    "summary": "Linux has gained an impressive collection of security features over the last two decades. The Kernel Self Protection Project (KSPP), compiler-assisted hardening, seccomp, mandatory access control systems, and more recent memory-safety initiatives have made life harder for attackers.\n\nYet in the embedded world, products are often built on kernels several years old, security features are selectively enabled, and applications frequently run with privileges that would be considered excessive on a desktop or cloud system.\n\nDuring my work with embedded companies, I regularly encounter a striking contrast: upstream Linux is becoming increasingly secure by default, while many deployed devices continue to rely on only a small subset of the protections available to them.\n\nThis talk explores that gap.\n\nUsing examples from embedded Linux systems, Yocto Project-based products, and upstream kernel development, we will examine how Linux performs against key security principles such as least privilege, attack-surface reduction, isolation, exploit mitigation, and memory safety. We will look at the progress achieved through KSPP and related initiatives, discuss why some security mechanisms are widely deployed while others remain rare in embedded products, and evaluate how close Linux is to being secure by default in practice.\n\nThe goal is not to review every security feature in the kernel, but to answer a practical question relevant to both kernel developers and product builders: Have we reached the point where a modern embedded Linux device is secure by default, or are the hardest problems now outside the kernel itself?\n\nMarta Rybczynska",
-    "image": "https://files.speakerdeck.com/presentations/40525175dbef4786bebfe8cc36eab3a2/preview_slide_0.jpg?40781393",
-    "fetched_at": "2026-10-04 23:22:02",
-    "ja_summary": "・近年のLinuxはカーネルの保護機能が大幅に強化され、標準で高度なセキュリティを備えつつある。\n・一方で組み込み機器では古いカーネルや一部機能の無効化が常態化しており、最新の防御策が十分に活用されていない。\n・本講演では、組み込みLinuxの現状と課題を分析し、現実的な「デフォルトでの安全性」がどの程度実現されているかを考察する。"
-  },
-  {
-    "title": "2026 秋 生成AI を活用した論文執筆ガイド／ワークショップ / Fall 2026: Guide and Workshop on Writing Papers Using Generative AI",
-    "link": "https://speakerdeck.com/ks91/fall-2026-guide-and-workshop-on-writing-papers-using-generative-ai",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-10-04T05:15:45-04:00",
-    "summary": "2026年10月4日(日)、オンラインで開催された、早稲田大学ビジネススクール DX 委員会主催のワークショップで使用したスライドです。",
-    "image": "https://files.speakerdeck.com/presentations/98c60df077614f4cba00d75a979d7f34/preview_slide_0.jpg?40780873",
-    "fetched_at": "2026-10-04 23:22:02",
-    "ja_summary": "・2026年10月開催、早稲田大学ビジネススクール主催の生成AI活用ワークショップ資料。\n・論文執筆における生成AIの効果的な活用手法を解説。\n・オンライン開催時の講義スライドを公開。"
-  },
-  {
-    "title": "AIに株式取引をAIに任せる？　「いや、結構」と、大半の投資家が回答した",
-    "link": "https://www.businessinsider.jp/article/2609-ai-agentic-stock-trading-investing-vanguard-personal-finance/",
-    "source": "Business Insider Japan",
-    "published": "Sun, 04 Oct 2026 08:30:00 GMT",
-    "summary": "バンガードの調査によると、「AIに投資判断をかませるか」との問いについては、全世代でAIに対する依然として冷ややかな姿勢が見て取れました。",
-    "image": "https://media.loom-app.com/loom/2026/10/01/6b2032e9-e8b3-4eed-a932-38cb03241a04/original.jpg?w=1200",
-    "fetched_at": "2026-10-04 17:39:18",
-    "ja_summary": "・バンガードの調査で、AIに投資判断を委ねることに否定的な投資家が大半であることが判明。\n・全世代を通じてAIの活用に対して依然として慎重で、冷ややかな姿勢が根強い。\n・現状、多くの投資家はAIよりも自らの判断や従来の運用スタイルを重視している。"
-  },
-  {
-    "title": "Codex Security ・ Claude Security 入門",
-    "link": "https://note.com/npaka/n/n2b9c36c471b6",
-    "source": "note (npaka)",
-    "published": "Thu, 01 Oct 2026 08:34:00 +0900",
-    "summary": "<p id=\"99be7709-fdbf-4b84-b653-e4e7194b6e15\" name=\"99be7709-fdbf-4b84-b653-e4e7194b6e15\">「Codex Security」と「Claude Security」を使って、AIで自社サービスの脆弱性を発見・検証する方法を簡単にまとめました。</p><br /><br /><a href=\"https://note.com/npaka/n/n2b9c36c471b6\">続きをみる</a>",
-    "image": "https://assets.st-note.com/production/uploads/images/319433083/rectangle_large_type_2_77066a1f0a47615e85d5606f4b1f90ef.png?width=800",
-    "fetched_at": "2026-10-04 17:39:18",
-    "ja_summary": "・AIツール「Codex Security」と「Claude Security」を活用した脆弱性診断の入門ガイド。\n・自社サービスのセキュリティ課題をAIで効率的に発見・検証する方法を解説。\n・開発者が手軽にAIを用いたセキュリティ対策を導入するための実践的な内容。"
-  },
-  {
-    "title": "AIが起こした問題の責任の所在、割れる意見--米調査",
-    "link": "https://japan.zdnet.com/article/35253181/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "企業で人工知能（AI）の利用が一般化する中で、問題が発生した時の責任の所在という新たな課題が生まれている。71カ国の企業幹部を調査したPwCの「Digital Trust Insights 2027」でも、見解は分かれている。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35253181/\"><img src=\"https://japan.zdnet.com/storage/2026/10/02/ba264a450f51361aec31cd6f990f6e38/t/184/138/d/GettyImages-2219096918_1280.jpg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2026/10/02/ba264a450f51361aec31cd6f990f6e38/t/184/138/d/GettyImages-2219096918_1280.jpg",
-    "fetched_at": "2026-10-04 17:39:22",
-    "ja_summary": "AI活用が広がる中、トラブル発生時の責任の所在について企業の意見が割れている。\n世界71カ国の幹部を対象とした調査でも、明確な合意形成には至っていない。\nAI利用の拡大に伴い、法的・倫理的なリスク管理のあり方が喫緊の課題となっている。"
-  },
-  {
-    "title": "企業のAI活用、「効率化」から「ビジネス変革」へ--ガートナーが国内デジタル化の最新調査",
-    "link": "https://japan.zdnet.com/article/35253180/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "ガートナージャパンは、国内企業におけるデジタル化の取り組みおよび関連テクノロジーの導入状況に関する最新の調査結果を発表した。調査は4月、従業員500人以上の国内企業のITリーダーを対象に実施した。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35253180/\"><img src=\"https://japan.zdnet.com/storage/2025/11/07/1d70c6b3fd209b9551e1dc5ec9352c1e/t/184/138/d/251107_diagram_as_1280_316504896.jpg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2025/11/07/1d70c6b3fd209b9551e1dc5ec9352c1e/t/184/138/d/251107_diagram_as_1280_316504896.jpg",
-    "fetched_at": "2026-10-04 17:39:22",
-    "ja_summary": "・国内企業のAI活用目的が、単なる「業務効率化」から「ビジネスモデルの変革」へとシフトしている。\n・ガートナーの最新調査により、国内大企業におけるデジタル化と技術導入の現在地が明らかになった。"
-  },
-  {
-    "title": "AI時代だからこそ推したい！Gitコマンド再入門",
-    "link": "https://speakerdeck.com/munakata/git-commands-revisited-essential-skills-for-the-ai-era-314d67b3-8917-421d-9e77-a6950ccb374d",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-10-04T04:05:24-04:00",
-    "summary": "PHPカンファレンス愛媛2026 登壇資料\nhttps://fortee.jp/phpconehime-2026/proposal/97dae4e0-58e2-4aaa-a083-f8e40cdfe668",
-    "image": "https://files.speakerdeck.com/presentations/7b6169ab85814e5d96cefcbcab6ef2e4/preview_slide_0.jpg?40780362",
-    "fetched_at": "2026-10-04 17:39:29",
-    "ja_summary": "・AIによる自動化が進む今、エンジニアがGitの基礎を再学習すべき理由を解説。\n・コマンドを単に使うだけでなく、その仕組みを理解することでトラブル対応能力を向上させる。\n・PHPカンファレンス愛媛2026での登壇資料として、Gitの正しい知識の重要性を再定義。"
-  },
-  {
-    "title": "LLM機能を自作して分かるSnowflake Cortex AIの強み",
-    "link": "https://speakerdeck.com/nayuts/llm-kinou-o-jisaku-shi-te-wakaru-snowflake-cortex-ai-no-tsuyomi",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-10-03T22:24:34-04:00",
-    "summary": "2026/9/29にDevelopersIO 2026 Osakaで発表した資料になります。\nDevelopersIOでのブログ公開用途も含めて作成しているので、Speaker Deckでも公開します。\nhttps://classmethod.connpass.com/event/401017/",
-    "image": "https://files.speakerdeck.com/presentations/8c0308faed804036a7ab7d923f3b0c5e/preview_slide_0.jpg?40778639",
-    "fetched_at": "2026-10-04 17:39:29",
-    "ja_summary": "・LLM機能を自作する過程で判明したSnowflake Cortex AIの優位性を解説。\n・データ基盤とAIが統合された環境における、開発・運用上の強みを詳述。\n・実務視点での技術知見をまとめたDevelopersIO発表資料の要約版。"
-  },
-  {
-    "title": "オープンAIの安全性担当者が退社､｢主要AI企業は技術のリスク軽減に十分な取り組みをしていない｣と警告 | 政治・経済・投資 | 東洋経済オンライン",
-    "link": "https://toyokeizai.net/articles/-/960082?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-    "source": "東洋経済オンライン",
-    "published": "Sun, 04 Oct 2026 11:00:00 +0900",
-    "summary": "AI開発大手の米OpenAIで､安全性を担当していた社員が退社し､主要AI企業は技術のリスク軽減に十分な取り組みをしていないと警告した。AI開発の急速な進展に懸念を示す業界関係者が相次ぐ中､内部から…",
-    "image": "https://tk.ismcdn.jp/mwimgs/a/e/1200w/img_aee3ece026ca91056f0fbb1b2f69bef1235961.jpg?nextgen=false",
-    "fetched_at": "2026-10-04 11:27:35",
-    "ja_summary": "・OpenAIの安全性担当者が、企業の安全対策不足を理由に退社した。\n・同氏は、主要なAI企業が技術のリスク軽減よりも開発スピードを優先していると警告。\n・急速なAI進化に伴うリスクに対し、業界内外から懸念の声が強まっている。"
-  },
-  {
-    "title": "AI時代からSI時代へ? トランプ政権のスーパーインテリジェンス",
-    "link": "https://www.watch.impress.co.jp/docs/topic/watchplus/2145023.html",
-    "source": "Impress Watch",
-    "published": "",
-    "summary": "Impress Watchニュースレターに掲載した記事です。ニュースレターは無料で、毎週編集部員が会員向けのコラムなどをお送りしています。登録はこちらから。",
-    "image": "https://www.watch.impress.co.jp/img/ipw/list/2145/023/wh1.jpg",
-    "fetched_at": "2026-10-04 11:27:49",
-    "ja_summary": "・トランプ政権下でのAI政策が、単なる生成AI活用から「スーパーインテリジェンス（超知能）」開発競争へシフトする可能性。\n・米国の技術覇権を維持するため、国家戦略としてAI開発の加速と規制緩和が進む見通し。\n・「AI時代」から、AIを高度に社会実装・統合する「SI（スーパーインテリジェンス）時代」への転換点が迫っている。"
-  },
-  {
-    "title": "パナソニック コネクトは注力するSCM事業で存在感を高められるか",
-    "link": "https://japan.zdnet.com/article/35253104/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "今回は、パナソニック コネクトグループ CEO Ken Sain氏と、クリックテック・ジャパン 執行役員社長 今野芳弘氏の「明言」を紹介する。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35253104/\"><img src=\"https://japan.zdnet.com/storage/2026/09/30/78a341481909957afd11a5443bd3f5f2/t/184/138/d/20261002_matsuoka_1280x960.jpg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2026/09/30/78a341481909957afd11a5443bd3f5f2/t/184/138/d/20261002_matsuoka_1280x960.jpg",
-    "fetched_at": "2026-10-04 11:27:53",
-    "ja_summary": "パナソニック コネクトが注力するサプライチェーン管理（SCM）事業の展望について、同社CEOとクリックテック・ジャパン社長の対談を通じ、その競争力と今後の戦略を考察する。"
-  },
-  {
-    "title": "三重大学病院、AI基幹システム「Apollo AI」を導入--医療DXプロジェクトを推進",
-    "link": "https://japan.zdnet.com/article/35253177/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "三重大学医学部附属病院（三重大学病院）は、AI基幹システム「Apollo AI」を導入開始した。10月1日にApollo AIを開発するAlbatrusが発表した。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35253177/\"><img src=\"https://japan.zdnet.com/storage/2026/10/02/b86724883be38edb35680cb705932109/t/184/138/d/261002_mie_l.jpg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2026/10/02/b86724883be38edb35680cb705932109/t/184/138/d/261002_mie_l.jpg",
-    "fetched_at": "2026-10-04 11:27:53",
-    "ja_summary": "・三重大学病院がAI基幹システム「Apollo AI」の導入を開始。\n・医療DXの推進を目的とした新たな取り組み。\n・開発元のAlbatrus社が10月1日に発表。"
-  },
-  {
-    "title": "100年前の歌もAI超解像できる？　東京大学猿渡研「Sidon」で始めるAI歌声超解像（CloseBox）",
-    "link": "https://www.techno-edge.net/article/2026/10/02/5546.html",
-    "source": "TechnoEdge",
-    "published": "Fri, 02 Oct 2026 09:12:17 +0900",
-    "summary": "生成AI技術を使って、古い写真を高精細にすることはできています。動画にすることすらできます。でも、音は？　それを可能にする技術が、ある程度可能になったというお話です。",
-    "image": "https://www.techno-edge.net/imgs/rss/34602.jpg",
-    "fetched_at": "2026-10-04 11:27:54",
-    "ja_summary": "・東京大学の研究チームが、古い音源を高音質化するAI技術「Sidon」を開発。\n・写真や動画と同様に、AI技術を用いて100年前の歌声もクリアに再生可能。\n・劣化が激しい過去の録音データを、高精細な現代の音声へと変換できる技術。"
-  },
-  {
-    "title": "米コストコの最新決算が映す｢広告を打たない企業｣への追い風 AI検索の売れ筋上位に\"会員権\" | 政治・経済・投資 | 東洋経済オンライン",
-    "link": "https://toyokeizai.net/articles/-/959348?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-    "source": "東洋経済オンライン",
-    "published": "Sun, 04 Oct 2026 07:00:00 +0900",
-    "summary": "AIの普及とともに､コストコのユニークな会員権戦略が改めて注目を浴びています。",
-    "image": "https://tk.ismcdn.jp/mwimgs/8/f/1200w/img_8fcb29b8483d8844dd631c4422607245105144.jpg?nextgen=false",
-    "fetched_at": "2026-10-04 07:59:42",
-    "ja_summary": "・AI検索で「会員権」が上位にくるほど、コストコの独自モデルが再注目されている。\n・広告費に頼らず会員費で利益を確保する戦略が、今の市場環境で強みを発揮している。\n・消費者の検索行動の変化が、コストコの「広告を打たない」ビジネスモデルに追い風となっている。"
-  },
-  {
-    "title": "中国｢フィジカルAI｣銘柄の上場ブームに早くも秋風…ロボット用減速機の環動科技がIPO申請を取り下げ | ビジネス | 東洋経済オンライン",
-    "link": "https://toyokeizai.net/articles/-/959713?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-    "source": "東洋経済オンライン",
-    "published": "Sun, 04 Oct 2026 06:00:00 +0900",
-    "summary": "中国の資本市場で､ヒト型ロボットに代表される｢フィジカルAI｣の関連企業の上場ブームが早くも冷え込み始めています。ロボットの関節用の減速機を手がける環動科技は､すでに審査過程にあったIPO申請を自ら…",
-    "image": "https://tk.ismcdn.jp/mwimgs/3/d/1200w/img_3dc405a52e594514e13f4c27504ea763202514.jpg?nextgen=false",
-    "fetched_at": "2026-10-04 07:59:42",
-    "ja_summary": "・中国で加熱していた「フィジカルAI（ヒト型ロボット等）」関連銘柄のIPOブームが急減速。\n・ロボット用減速機大手、環動科技が審査中のIPO申請を自ら取り下げ。\n・市場の期待先行に対し、収益性や将来性への評価が厳格化している。"
-  },
-  {
-    "title": "オブザーバビリティのAIエージェントをどう評価するか",
-    "link": "https://zenn.dev/ymotongpoo/articles/20261001-agent-eval-loop",
-    "source": "Zenn Trends",
-    "published": "Thu, 01 Oct 2026 00:00:00 GMT",
-    "summary": "はじめに\nAIエージェントにオブザーバビリティの仕事をさせたとき、その最終応答の品質が上がったのか下がったのかを、どうやって知るのでしょうか。\nエージェントの最終応答を読んで判断する方法は、早い段階で行き詰まります。正しい応答と、正しく見えるだけの応答が同じ見た目をしているからです。しかも同じ質問に毎回同じ応答が返るわけでもなく、期待する文字列を固定したテストは書けません。\nこの記事では、Grafana Assistantを開発しているチームが公式のエンジニアリングブログに公開した Building an evaluation loop for Grafana Assistant（Y...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--s2BPhy_r--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25AA%25E3%2583%2596%25E3%2582%25B6%25E3%2583%25BC%25E3%2583%2590%25E3%2583%2593%25E3%2583%25AA%25E3%2583%2586%25E3%2582%25A3%25E3%2581%25AEAI%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588%25E3%2582%2592%25E3%2581%25A9%25E3%2581%2586%25E8%25A9%2595%25E4%25BE%25A1%25E3%2581%2599%25E3%2582%258B%25E3%2581%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Yoshi%2520Yamaguchi%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2dMOUN2MU9tRlBwUUcwY0pWOHZUeW1SZ3ViT3VaWnplQ01HUTJjMHRnPXMyNTAtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "fetched_at": "2026-10-04 08:00:07",
-    "ja_summary": "・AIエージェントの応答品質を、目視や単純な文字列比較で評価するのは困難。\n・Grafanaチームは、再現性のないAIの出力を定量的に評価する「評価ループ」を構築。\n・AIの判断の妥当性を担保するためのテスト戦略と、継続的な改善手法を解説。"
-  },
-  {
-    "title": "3万スターの Claude Code スキルを入れたら、出力が43%短くなった",
-    "link": "https://qiita.com/suwa_nobu/items/cec37ce5a6141bb3eefc",
-    "source": "Qiita (Popular)",
-    "published": "2026-09-09T13:38:12+09:00",
-    "summary": "\n`ayghri/i-have-adhd` が Hacker News で269ポイントを集めていました。**GitHub 30,233スター**（2026-09-09 時点、API取得）。**エージェントの回答から前置きを取り、行動を先頭に置かせる**スキルです。\n\n日本語の紹介記事は3本ありましたが、**どれも実測がありません。** 1本は「生産性向上のデータはない」と明記しています。\n\n測り",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0NDMwNjExJTJGYTRlNGFiZDZjNWNkZmM5NzkzMTk2ZmUwZDFjZjYyMGY1ZWYxMTY5NCUyRnhfbGFyZ2UucG5nJTNGMTc4NTI4OTU5Nj9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NGE5ZmNiZmE4OTM5NWU1MWY1N2FiYjJkYzI1ZTFmZDQ%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYyMDc3NzA2NTMzODkzMmUyMWVjMjk3MjI5ZDVkZmI5NDk5MWI5YzFhJTJGb3JpZ2luYWwuanBnJTNGMTc2OTAwMDk3MD9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz1lYjc1ZTQzMzAzYTdlNTkzNDQ4Yjc4NDZiMjljYTgxZA%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D237198914e54e0e7e727d16c4cfb7823?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9MyVFNCVCOCU4NyVFMyU4MiVCOSVFMyU4MiVCRiVFMyU4MyVCQyVFMyU4MSVBRSUyMENsYXVkZSUyMENvZGUlMjAlRTMlODIlQjklRTMlODIlQUQlRTMlODMlQUIlRTMlODIlOTIlRTUlODUlQTUlRTMlODIlOEMlRTMlODElOUYlRTMlODIlODklRTMlODAlODElRTUlODclQkElRTUlOEElOUIlRTMlODElOEM0MyUyNSVFNyU5RiVBRCVFMyU4MSU4RiVFMyU4MSVBQSVFMyU4MSVBMyVFMyU4MSU5RiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPWY0OTFlYWI5NmEwMzc3YzBiOTc4NTI1MzdmYWM1ZTMx&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBzdXdhX25vYnUmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1iZTVkNGQ3ZjgwNDY4YWQwMGMxZTkyMjA3YzFjYWMxMw&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=5qCq5byP5Lya56S-SlFJVA&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=0810210f93c8120aaa47b92096f1aca9",
-    "fetched_at": "2026-10-04 05:04:59",
-    "ja_summary": "・AIエージェントの回答から不要な前置きを排除し、結論（行動）を先頭に配置させる設定が注目されている。\n・導入により出力が43%削減される効果が報告されている。\n・実測データに基づく有用性の検証はまだ少なく、今後の評価が待たれる。"
-  },
-  {
-    "title": "国産ヒューマノイド、量産／タイムズカー、集団訴訟へ／トランプ政権くすぶる火種（2026年10月2日版） (日経ビジネスAUDIOモーニング)",
-    "link": "https://business.nikkei.com/atcl/audio/22/00001/100100972/",
-    "source": "日経ビジネス 最新",
-    "published": "",
-    "summary": "国産ヒューマノイド、国際競争の土俵際で月1000台量産計画　強みは「筋肉」／［独自］タイムズカー免許証データ160万件流出、集団訴訟へ2200人超が参加意向　企業責任を問う／中間選挙より「歴史の評価」　トランプ政権にくすぶるAIとイランの火種、他",
-    "image": "https://business.nikkei.com/atcl/audio/22/00001/100100972/fb.jpg",
-    "fetched_at": "2026-10-04 02:28:26",
-    "ja_summary": "・国産ヒューマノイドが月1000台の量産計画へ、独自の「筋肉」技術で国際競争に挑む。\n・タイムズカーで160万件の免許証データが流出し、2200人規模の集団訴訟へ発展。\n・トランプ政権下でAI規制やイラン情勢を巡るリスクが浮上し、政権運営の火種となっている。"
-  },
-  {
-    "title": "キオクシア、高速NANDでDRAM代替　AI向け「CXLメモリー」出荷",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/12040/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "キオクシアは、AIデータセンターのメモリー容量を拡張する。かねて開発してきたCXL（Compute Express Link）メモリーのサンプル出荷を始めると発表した。動作速度を上げたNANDで、短期記憶を担うDRAMの一部代替を狙う。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/12040/sns.jpg?20220512",
-    "fetched_at": "2026-10-04 02:28:28",
-    "ja_summary": "・キオクシアがAIデータセンター向け「CXLメモリー」のサンプル出荷を開始\n・高速化したNANDフラッシュでDRAMの一部を代替し、メモリー容量を拡張\n・AI処理に不可欠な大容量メモリーの低コスト化・効率化を狙う"
   }
 ]
