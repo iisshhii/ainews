@@ -1,5 +1,85 @@
 [
   {
+    "title": "マイカーもAI自動運転 続々投入へ",
+    "link": "https://news.yahoo.co.jp/pickup/6598290?source=rss",
+    "source": "Yahoo!ニュース 経済",
+    "published": "Sat, 10 Oct 2026 10:40:16 GMT",
+    "summary": "",
+    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/eternal/2023/10/3/97091f57a69ac1d8bf680c68a39aebaa364c0fc4ab8d604ff2e4ecbee703ada6.jpg",
+    "fetched_at": "2026-10-10 23:45:32",
+    "ja_summary": "・マイカー向けAI自動運転技術の搭載が本格化。\n・今後、各社から自動運転機能付きモデルが続々と市場投入される。\n・自動車の利便性と安全性を高める技術革新が加速する。"
+  },
+  {
+    "title": "ゼンショー、株価373倍／サイバー攻撃高度化に備える／半導体で買い負ける日本（2026年10月9日版） (日経ビジネスAUDIOモーニング)",
+    "link": "https://business.nikkei.com/atcl/audio/22/00001/100800977/",
+    "source": "日経ビジネス 最新",
+    "published": "",
+    "summary": "［新連載］ゼンショー、株価373倍の異次元成長　小川賢太郎「世界一」への執念／焼肉きんぐ、パーク24も被害　サイバー攻撃高度化に備える「隣は敵」思考／半導体で買い負ける日本　AI特需でDRAM価格3倍、ゲームも高値の華に、他",
+    "image": "https://business.nikkei.com/atcl/audio/22/00001/100800977/fb.jpg",
+    "fetched_at": "2026-10-10 23:45:38",
+    "ja_summary": "・ゼンショーHDが「世界一」を目指し株価373倍の異次元成長を達成した要因を分析。\n・企業を狙うサイバー攻撃の高度化を受け、「隣は敵」との前提で備える重要性を解説。\n・AI特需による半導体価格の高騰で、日本が買い負ける深刻な実態を詳報。"
+  },
+  {
+    "title": "焼肉きんぐ、パーク24も被害　サイバー攻撃高度化に備える「隣は敵」思考 (ガバナンスの今・未来)",
+    "link": "https://business.nikkei.com/atcl/gen/19/00005/100800270/",
+    "source": "日経ビジネス 最新",
+    "published": "",
+    "summary": "企業の情報漏洩事故が相次いでいる。背景には攻撃の自動化を可能にする人工知能（AI）の普及や、脆弱性公表前に攻撃するゼロデイ攻撃の増加がある。横浜国立大学の吉岡克成教授に、情報漏洩の実態や企業・個人に求められる対策を聞いた。",
+    "image": "https://business.nikkei.com/atcl/gen/19/00005/100800270/fb.jpg",
+    "fetched_at": "2026-10-10 23:45:39",
+    "ja_summary": "・AI悪用による攻撃の自動化やゼロデイ攻撃の増加で、企業の情報漏洩リスクが急増している。\n・焼肉きんぐやパーク24など被害は相次いでおり、サイバー攻撃は高度化の一途をたどる。\n・企業は「隣は敵」という危機感を持ち、従来以上の強固なセキュリティ対策が急務となっている。"
+  },
+  {
+    "title": "寄りの巻き戻しと、横に並べている14本の参考記録を図で整理した（振り返り第6回）",
+    "link": "https://zenn.dev/denny/articles/open-revert-reference-records",
+    "source": "Zenn Trends",
+    "published": "Sat, 10 Oct 2026 00:00:16 GMT",
+    "summary": "先に前提を書く\n私はプログラムが書けない会社員である。楽天証券のマーケットスピードII RSSとClaudeを使って、自動売買の仕組みを作っている。この記事の数字は、すべて次の条件で得たものだ。\n\n\n戦略の売買では一円も動かしていない。 発注しない常駐エージェントが、実データで売買判断だけをシミュレートしている\n東証の監視86銘柄の1分ごとの値（8月11日〜10月9日）を使う。約2年分の数字は Yahoo の1時間足による代わりの計算である\n資金1,800万円・1銘柄あたり300万円・6銘柄はシミュレーションの設定値である\n損益の絶対額に意味は無い。シミュレーションであって、私の口座...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--g1Mq7dUq--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E5%25AF%2584%25E3%2582%258A%25E3%2581%25AE%25E5%25B7%25BB%25E3%2581%258D%25E6%2588%25BB%25E3%2581%2597%25E3%2581%25A8%25E3%2580%2581%25E6%25A8%25AA%25E3%2581%25AB%25E4%25B8%25A6%25E3%2581%25B9%25E3%2581%25A6%25E3%2581%2584%25E3%2582%258B14%25E6%259C%25AC%25E3%2581%25AE%25E5%258F%2582%25E8%2580%2583%25E8%25A8%2598%25E9%258C%25B2%25E3%2582%2592%25E5%259B%25B3%25E3%2581%25A7%25E6%2595%25B4%25E7%2590%2586%25E3%2581%2597%25E3%2581%259F%25EF%25BC%2588%25E6%258C%25AF%25E3%2582%258A%25E8%25BF%2594%25E3%2582%258A%25E7%25AC%25AC6%25E5%259B%259E%25EF%25BC%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:SAYUKI%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2JhODUzYTFmNDQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-10-10 23:45:55",
+    "ja_summary": "プログラミング未経験の会社員が、RSSとClaudeを活用し自動売買のシミュレーション環境を構築。\n86銘柄の市場データを基に、資金設定や売買判断ロジックを検証する手法を公開。\n実資金は投入せず、過去データを用いたシミュレーションによる戦略の精度向上を目指す。"
+  },
+  {
+    "title": "AIで浮いた時間を「もっと作る」に使っていませんか",
+    "link": "https://zenn.dev/idealog/articles/a3e9cf4299b1cf",
+    "source": "Zenn Trends",
+    "published": "Fri, 09 Oct 2026 10:40:07 GMT",
+    "summary": "はじめに\n株式会社アイデアログで取締役CTOをしている松川です。\n当社は法人・団体向けの会場検索サイト「会場ベストサーチ」や、レンタルスペース検索の「スペなび」などを運営しています。\n今回は「AIで効率化されて生まれた時間を、何に使うべきか」について、最近考えていることを書いてみます。\n!\n本記事は筆者個人の考えであり、正解を示すものではありません。また後半で「役割」の話にも触れますが、特定の職種や人を否定する意図はありません。\n\n\n 作るスピードと量は、確かに上がった\nAIエージェントの台頭により、システムを作る「スピード」と「量」は飛躍的に上がりました。\n当社の開発チームでも、C...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--EoTNqKoi--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%25E3%2581%25A7%25E6%25B5%25AE%25E3%2581%2584%25E3%2581%259F%25E6%2599%2582%25E9%2596%2593%25E3%2582%2592%25E3%2580%258C%25E3%2582%2582%25E3%2581%25A3%25E3%2581%25A8%25E4%25BD%259C%25E3%2582%258B%25E3%2580%258D%25E3%2581%25AB%25E4%25BD%25BF%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%2584%25E3%2581%25BE%25E3%2581%259B%25E3%2582%2593%25E3%2581%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%25A2%25E3%2582%25A4%25E3%2583%2587%25E3%2582%25A2%25E3%2583%25AD%25E3%2582%25B0%25E9%2596%258B%25E7%2599%25BA%25E3%2583%2581%25E3%2583%25BC%25E3%2583%25A0%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzkyY2ZlMWNlZjkuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-10-10 23:45:55",
+    "ja_summary": "・AI活用により開発のスピードと量は飛躍的に向上した。\n・効率化で生まれた時間を「ただ作業量を増やす」ことに使っていないか問い直すべきだ。\n・成果物の量だけでなく、AI時代に人間が担うべき新たな役割や価値創造に目を向ける必要がある。"
+  },
+  {
+    "title": "dbt Wizard vs Claude Code: 同じdbtタスクを頼んで挙動の違いを見てみた",
+    "link": "https://zenn.dev/intage_tech/articles/art026-dbt-wizard-try",
+    "source": "Zenn Trends",
+    "published": "Fri, 09 Oct 2026 10:00:05 GMT",
+    "summary": "!\n本記事はこんな方におすすめです。\n\ndbtで開発・運用をしていて、AIエージェントの導入を検討している方\nClaude Codeのような汎用エージェントと、dbt特化のエージェントのどちらを使うか迷っている方\ndbt Wizardが気になっているものの、まだ試せていない方\n\n\nこんにちは、インテージのデータエンジニアの川満と申します。\n今回は、dbt Labsが提供するdbt特化のAIエージェント「dbt Wizard」（CLI版・ベータ）を試してみました。普段使っているClaude Codeと同じタスクを依頼し、どのような挙動の違いがあるかを見ていきます。両者とも裏側のモデルは同じ...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--u2ecQIwM--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:dbt%2520Wizard%2520vs%2520Claude%2520Code%253A%2520%25E5%2590%258C%25E3%2581%2598dbt%25E3%2582%25BF%25E3%2582%25B9%25E3%2582%25AF%25E3%2582%2592%25E9%25A0%25BC%25E3%2582%2593%25E3%2581%25A7%25E6%258C%2599%25E5%258B%2595%25E3%2581%25AE%25E9%2581%2595%25E3%2581%2584%25E3%2582%2592%25E8%25A6%258B%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:kawamitsu%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzZmOTUyMDVlZmYuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:INTAGE%2520TECH%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzNjMDhjZWY0MWUuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-10-10 23:45:56",
+    "ja_summary": "dbt特化型の「dbt Wizard」と汎用的な「Claude Code」を比較し、同一タスクにおける挙動の違いを検証した。\nAIエージェントによるdbt開発の効率化を検討しているエンジニアに向け、両者の特徴や使い分けのヒントを提示する。"
+  },
+  {
+    "title": "API キーはどこから漏れるのか？ 自分のサイトに来た .env 探し 1,566 件と、公開事例を 7 つの経路に分けてみた",
+    "link": "https://qiita.com/songchong/items/02672765fe53f911a1a0",
+    "source": "Qiita (Popular)",
+    "published": "2026-10-05T09:13:39+09:00",
+    "summary": "\n![API キーが漏れる 7 つの経路（左）と、それぞれ先にすること（右）を矢印でつないだ図。サーバーや公開の置き場から 3 つ: ①公開リポジトリ（いちばん多い。2025 年の 1 年で 2,865 万件）→ 漏れた鍵を取り消す、プッシュ保護とシークレットスキャンも使う、②Web サイトの公開フォルダ → .env や .git を公開フォルダに置かない、③配るパッケージ・コンテナイメージ →",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGNTY2NzAlMkZwcm9maWxlLWltYWdlcyUyRjE3ODcyMzgxODE_aXhsaWI9cmItNC4xLjEmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPWU3NzQ3ZjMzNzE4MDJjYjI2M2FjMjM3NzUzODlmOTE5%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Dc73920274995f5a321a69858db1e61f3?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9QVBJJTIwJUUzJTgyJUFEJUUzJTgzJUJDJUUzJTgxJUFGJUUzJTgxJUE5JUUzJTgxJTkzJUUzJTgxJThCJUUzJTgyJTg5JUU2JUJDJThGJUUzJTgyJThDJUUzJTgyJThCJUUzJTgxJUFFJUUzJTgxJThCJUVGJUJDJTlGJTIwJUU4JTg3JUFBJUU1JTg4JTg2JUUzJTgxJUFFJUUzJTgyJUI1JUUzJTgyJUE0JUUzJTgzJTg4JUUzJTgxJUFCJUU2JTlEJUE1JUUzJTgxJTlGJTIwLmVudiUyMCVFNiU4RSVBMiVFMyU4MSU5NyUyMDElMkM1NjYlMjAlRTQlQkIlQjYlRTMlODElQTglRTMlODAlODElRTUlODUlQUMlRTklOTYlOEIlRTQlQkElOEIlRTQlQkUlOEIlRTMlODIlOTIlMjA3JTIwJUUzJTgxJUE0JUUzJTgxJUFFJUU3JUI1JThDJUU4JUI3JUFGJUUzJTgxJUFCJUU1JTg4JTg2JUUyJTgwJUE2JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9YjYxOGFlMDhiOTI2OGQzMjkxYTVhMjA2OTFiM2JjODA&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBzb25nY2hvbmcmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1jYThhODE5MGI3ZTMyOWM0MDRkZTcyYjU3YzZiNzYwNA&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=400f9a4520d9d686033a0c0c3deb7f16",
+    "fetched_at": "2026-10-10 23:45:59",
+    "ja_summary": "・APIキー漏洩の主要因は公開リポジトリへの誤投稿やWeb公開フォルダへの不要ファイル配置である。\n・被害を防ぐには、シークレットスキャンの導入や、`.env`等の設定ファイルを公開領域に置かない管理が不可欠。\n・万が一漏洩した場合は即座にAPIキーを無効化し、再発行する対応が求められる。"
+  },
+  {
+    "title": "元ヤフーエンジニア社長が考える、AI時代の採用基準",
+    "link": "https://qiita.com/ryoheiiwamoto/items/7f388029f8821fc3ea6c",
+    "source": "Qiita (Popular)",
+    "published": "2026-09-26T19:02:07+09:00",
+    "summary": "\n\n>スキルより先に見ているものがある\n\n\n\nこんにちは、元Yahooエンジニアで、株式会社PRUMの代表をしている岩本です。\n\n面接だと、つい「スキルをどうアピールしよう」と考えてしまいますよね。\n\n確かに、スキルがあるに越したことはありません。\n\nでも僕が採用の最終判断をするとき、実はスキルはほとんど見ていません。\n\nAIによってエンジニアのスキルはどんどん均一化されていきます。1年目の人が書",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY2Njg5NTAlMkZlYzkxNGM0M2Y1MmZhOGVmMmM1ZDYzZWY2ZDI2NmNlMjAxMTMyMmM1JTJGeF9sYXJnZS5wbmclM0YxNzM4NTQ5NzE0P2l4bGliPXJiLTQuMS4xJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz1hZTcyYzlkNDc0ODA1NWRiODg3MjU1MTg3YjYwNzE3Mg%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Dd52b79a6493a8f7d3599dbe8fc65df0f?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUU1JTg1JTgzJUUzJTgzJUE0JUUzJTgzJTk1JUUzJTgzJUJDJUUzJTgyJUE4JUUzJTgzJUIzJUUzJTgyJUI4JUUzJTgzJThCJUUzJTgyJUEyJUU3JUE0JUJFJUU5JTk1JUI3JUUzJTgxJThDJUU4JTgwJTgzJUUzJTgxJTg4JUUzJTgyJThCJUUzJTgwJTgxQUklRTYlOTklODIlRTQlQkIlQTMlRTMlODElQUUlRTYlOEUlQTElRTclOTQlQTglRTUlOUYlQkElRTYlQkElOTYmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz02MWUzMDRhMjRlMmJiZTNkZGQ1NDY3NDBhMmI4ZGQ4MA&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDByeW9oZWlpd2Ftb3RvJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9Y2Q0NTMxYTI2Yzk3MDgzYzhhZjVjYmZmZDg1ZjcyYTc&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=e1044e4bc067eb60ee0a2d1263510b70",
+    "fetched_at": "2026-10-10 23:46:02",
+    "ja_summary": "AI時代はスキルの均一化が進むため、採用の最終判断でスキルは重視しない。\n重視するのは、スキルそのものよりも「その人独自の視点や人間性」。\nAIに取って代わられない、本質的な価値を持つ人材かを見極めている。"
+  },
+  {
     "title": "半導体で買い負ける日本　AI特需でDRAM価格3倍、ゲームも高嶺の花に (分断時代の経済安保)",
     "link": "https://business.nikkei.com/atcl/gen/19/00800/100800044/",
     "source": "日経ビジネス 最新",
@@ -918,85 +998,5 @@
     "image": "https://media.loom-app.com/loom/2026/10/05/ca1afa67-0923-4038-9c54-0057e2f34861/original.jpg?w=1200",
     "fetched_at": "2026-10-09 09:32:10",
     "ja_summary": "KPMGの新CEOにゲイリー・ウィングローブ氏が就任した。\nビッグ4で最小規模の同社は、AI活用への適応と不祥事への対応という重要課題に直面している。\n新体制下で組織の立て直しと競争力強化を図れるかが注目される。"
-  },
-  {
-    "title": "「たった12人」のNECグループSIer新会社。それでも「人月モデルの次」はまだ見えない",
-    "link": "https://www.businessinsider.jp/article/2610-nec-ai-native-factory-productivity/",
-    "source": "Business Insider Japan",
-    "published": "Thu, 08 Oct 2026 21:45:00 GMT",
-    "summary": "NECの新会社「AI Native Factory」は、AIを活用して開発の生産性を約80倍に高めました。しかし、人月に代わる料金体系はまだ模索中です。わずか12人の会社が挑む、システム開発の変革を取材しました。",
-    "image": "https://media.loom-app.com/loom/2026/10/07/5de74c38-e5e8-49f7-8c45-18199e3aa9ae/original.png?w=1200",
-    "fetched_at": "2026-10-09 09:32:10",
-    "ja_summary": "・NECの新会社「AI Native Factory」がAI活用で開発生産性を80倍に向上。\n・少数精鋭（12人）でシステム開発の効率化に成功した。\n・人月計算に代わる新たな料金体系の構築が今後の課題。"
-  },
-  {
-    "title": "アクセンチュアの株価急騰は、AIには「人の手」が必要であることを示した…ほかのコンサル株も急回復",
-    "link": "https://www.businessinsider.jp/article/2610-why-accenture-consulting-stocks-thrive-ai-trade-needs-human-touch/",
-    "source": "Business Insider Japan",
-    "published": "Thu, 08 Oct 2026 21:00:00 GMT",
-    "summary": "AIの普及によっての存在意義が揺らぐと言われていたコンサルティング会社。しかし、アクセンチュアの好決算は、企業がAIボットを買って終わりではなく、それを実際に活用するための支援が依然として必要であるという現実を浮き彫りにしました。",
-    "image": "https://media.loom-app.com/loom/2026/10/04/b7ff6f4f-3ce8-41f6-8acb-46a643508a73/original.jpg?w=1200",
-    "fetched_at": "2026-10-09 09:32:10",
-    "ja_summary": "AI導入には専門的な活用支援が不可欠であり、コンサル需要が再評価されアクセンチュア等の株価が急騰した。\n単なるツールの購入で完結せず、人の手による伴走支援が企業にとっての価値となっている。\nAI普及期においても、コンサル会社の存在意義はむしろ高まっている。"
-  },
-  {
-    "title": "スマホの価格まで上がる「半導体メモリー争奪戦」。増産ラッシュでも2029年まで終わらない",
-    "link": "https://www.businessinsider.jp/article/2610-semiconductor-memory-and-smartphone-price-surge/",
-    "source": "Business Insider Japan",
-    "published": "Thu, 08 Oct 2026 20:45:00 GMT",
-    "summary": "AIブームによる半導体メモリー価格高騰。メーカー各社は増産に向け投資計画を発表していますが、いつ頃価格は収束していくのでしょうか。各社の投資計画や業界関係者の声から、市場動向を展望します。",
-    "image": "https://media.loom-app.com/loom/2026/10/08/824dc859-0bd8-4510-8c2c-11561a346f12/original.jpg?w=1200",
-    "fetched_at": "2026-10-09 09:32:10",
-    "ja_summary": "・AIブームに伴う半導体メモリー需要の急増で、スマホ等の製品価格が高騰している。\n・各社が増産に向け巨額投資を行っているが、供給不足は2029年まで続く見通し。\n・当面は高値圏での推移が予測され、市場の混迷は長期化する可能性が高い。"
-  },
-  {
-    "title": "復旧力と動的認可が企業を守る--RubrikのCEOが描くAI時代の防衛モデル",
-    "link": "https://japan.zdnet.com/article/35253367/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "Rubrikの共同創業者兼CEOであるビプル・シンハ氏に、従来型バックアップとサイバーリカバリーの違いに加え、AIエージェント時代に求められる新たなセキュリティモデルについて聞いた。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35253367/\"><img src=\"https://japan.zdnet.com/storage/2026/10/08/0aa1b3e11964ad9f064d4f893076641b/t/184/138/d/261008_rubrik_001.jpg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2026/10/08/0aa1b3e11964ad9f064d4f893076641b/t/184/138/d/261008_rubrik_001.jpg",
-    "fetched_at": "2026-10-09 09:32:13",
-    "ja_summary": "・RubrikのCEOが、従来のバックアップを超えた「サイバーリカバリー」の重要性を提言。\n・AIエージェント時代を見据え、復旧力と動的認可を軸にした新たな防衛モデルの必要性を解説。\n・企業がサイバー攻撃を前提とした強靭なセキュリティ体制を築くための戦略を提示。"
-  },
-  {
-    "title": "オープンソフトウェアがAIの次のフェーズを形作る",
-    "link": "https://japan.zdnet.com/article/35253259/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "生成AIからエージェント型AIへと進化する中、AIインフラに求められる価値も変わりつつある。単純な演算性能だけでなく、新たなモデルやフレームワークを迅速に取り込み、継続的に進化できる柔軟性が重要になる。AMDが、オープンソフトウェアを軸に次世代AIインフラのあり方を解説する。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35253259/\"><img src=\"https://japan.zdnet.com/storage/2026/10/06/6be9e30a77cf77b628ceeceab06bcc83/t/184/138/d/261006_circuit_as_1280_634315457.jpg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2026/10/06/6be9e30a77cf77b628ceeceab06bcc83/t/184/138/d/261006_circuit_as_1280_634315457.jpg",
-    "fetched_at": "2026-10-09 09:32:13",
-    "ja_summary": "・AIが生成型からエージェント型へ進化する中で、インフラには演算性能以上に柔軟性と迅速な拡張性が求められている。\n・AMDは、最新モデルやフレームワークへの対応力を高めるための「オープンソフトウェア戦略」を推進している。\n・継続的な進化を可能にするオープンなAIインフラの構築が、次世代AI競争における重要な鍵となる。"
-  },
-  {
-    "title": "グーグルのAI試着ツールを使ってみた--腕が折れたり海賊になったり",
-    "link": "https://japan.zdnet.com/article/35253278/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "Googleの新しいAI試着ツールを試してみたところ、思わず笑みがこぼれてしまった。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35253278/\"><img src=\"https://japan.zdnet.com/storage/2026/10/06/74ba19372581c68575bd90568b5204ac/t/184/138/d/large-Google-Photos-1.jpg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2026/10/06/74ba19372581c68575bd90568b5204ac/t/184/138/d/large-Google-Photos-1.jpg",
-    "fetched_at": "2026-10-09 09:32:13",
-    "ja_summary": "Googleの新しいAI試着ツールを試したところ、腕が不自然に曲がったり海賊のような見た目になったりと、期待とは裏腹にコミカルな生成結果が多発した。"
-  },
-  {
-    "title": "第2回　AIを導入するな、「経営判断」をAI化せよ--生成AIブームの次に来る「経営判断変革」",
-    "link": "https://japan.zdnet.com/article/35253344/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "本連載では、経営者の意思・目指す方向であるインテントを起点に、社内外の情報をリアルタイムに捉え、AIによって経営判断の質と速度を高める「AI経営」を考える。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35253344/\"><img src=\"https://japan.zdnet.com/storage/2026/09/02/aa2ecb59c13b652ca577d65951237a41/t/184/138/d/prfes_ericks_messgae-ai-era01_l.jpg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2026/09/02/aa2ecb59c13b652ca577d65951237a41/t/184/138/d/prfes_ericks_messgae-ai-era01_l.jpg",
-    "fetched_at": "2026-10-09 09:32:13",
-    "ja_summary": "・AIを単なる業務ツールとして導入するのではなく、経営判断そのものをAI化するべきである。\n・経営者の目指す方向（インテント）を起点に、リアルタイム情報を統合し経営の質と速度を高める。\n・生成AIブームの次を見据え、意思決定のプロセス自体を変革する「AI経営」の重要性を説く。"
-  },
-  {
-    "title": "LegalOn halves Codex costs while maintaining development speed",
-    "link": "https://openai.com/index/legalon-halves-codex-costs",
-    "source": "OpenAI",
-    "published": "Thu, 08 Oct 2026 12:00:00 GMT",
-    "summary": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically.",
-    "image": "https://images.ctfassets.net/kftzwdyauwt9/2P8XYqMKsOiY9IUl1H3YfF/d737379b5aebd51ab8cf5962a82ac429/legalon-codex-customer-story-seo-open-graph-1920x1080.png?w=1600&amp;h=900&amp;fit=fill",
-    "fetched_at": "2026-10-09 09:32:15",
-    "ja_summary": "・LegalOn社がAIモデル「Codex」の運用コストを65%削減。\n・タスクに応じたモデルの適材適所な割り当てによりコストを最適化。\n・開発スピードを維持したまま、効率的な予算管理を実現。"
   }
 ]
