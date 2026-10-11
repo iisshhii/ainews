@@ -1,5 +1,25 @@
 [
   {
+    "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+    "link": "https://openai.com/index/sophos",
+    "source": "OpenAI",
+    "published": "Fri, 09 Oct 2026 07:00:00 GMT",
+    "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/4pg31JOD6Z3cO31LCR6GYq/8c1cedfd2e85c6dd80d2ea8c5ea0c9a1/sophos-social.png?w=1600&amp;h=900&amp;fit=fill",
+    "fetched_at": "2026-10-12 03:42:06",
+    "ja_summary": "・SophosがOpenAIの「Daybreak」を活用し、サイバー脅威の調査時間を96%削減。\n・MDR（マネージド検出・対応）案件の52%を自動化することに成功。\n・人の監視を維持しつつ、セキュリティ運用の効率と迅速性を劇的に向上。"
+  },
+  {
+    "title": "Haiku 5.5 を機に Sonnet 以下で動かしていたサブエージェントを見直した",
+    "link": "https://zenn.dev/genda_jp/articles/haiku-5-5-subagent-roles",
+    "source": "Zenn Trends",
+    "published": "Thu, 08 Oct 2026 11:42:21 GMT",
+    "summary": "はじめに\n株式会社GENDA 開発部エンジニアの奥山です。\nClaude Haiku 5.5 が出ました。\nhttps://www.anthropic.com/claude-haiku-5-5\nHaiku で effort を指定できるのは 5.5 が初めてで、単価は Haiku 4.5 のちょうど 1/10 になっています。\n\n\n\nモデル\ninput / output（per MTok）\nSonnet 5.5 比\n\n\n\n\nClaude Opus 5.5\n$4 / $20\n200%\n\n\nClaude Sonnet 5.5\n$2 / $10\n100%\n\n\nClaude Haiku 4....",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--5VpA2CPR--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Haiku%25205.5%2520%25E3%2582%2592%25E6%25A9%259F%25E3%2581%25AB%2520Sonnet%2520%25E4%25BB%25A5%25E4%25B8%258B%25E3%2581%25A7%25E5%258B%2595%25E3%2581%258B%25E3%2581%2597%25E3%2581%25A6%25E3%2581%2584%25E3%2581%259F%25E3%2582%25B5%25E3%2583%2596%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588%25E3%2582%2592%25E8%25A6%258B%25E7%259B%25B4%25E3%2581%2597%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:okkun0524%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzNiM2M1MjhkNjguanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:GENDA%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzk3MWE5ZDFmMzcuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-10-12 03:42:09",
+    "ja_summary": "新型モデル「Claude Haiku 5.5」が登場し、API利用料が従来のHaiku 4.5から10分の1に大幅値下げされました。\nレスポンスの質を調整できるeffort指定にも初対応したため、開発環境におけるサブエージェントの運用コスト最適化が可能です。\n安価で高性能なHaiku 5.5への移行により、AI開発の費用対効果を大きく向上させることができます。"
+  },
+  {
     "title": "「順調です」って、それ本当？　プロジェクトのリスクをAIが検知、状況確認の工数を約60％削減するツールとは",
     "link": "https://www.itmedia.co.jp/business/articles/2610/09/news039.html",
     "source": "ITmedia ビジネス",
@@ -978,25 +998,5 @@
     "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/10/9/d418bf3d3a77319f655e0cc7cf56d06eef55aac67359442e16f95e80dd59a9b4.jpg",
     "fetched_at": "2026-10-09 22:46:30",
     "ja_summary": "・大学教授がAIを活用して執筆した著書に、複数の誤りが含まれていたことが発覚。\n・信頼性確保が困難であるとして、出版社が当該書籍を絶版にする措置をとった。\n・AIによる生成物のファクトチェック体制の重要性が改めて浮き彫りとなった。"
-  },
-  {
-    "title": "AI「Claude」への虐待行為 禁止",
-    "link": "https://news.yahoo.co.jp/pickup/6598146?source=rss",
-    "source": "Yahoo!ニュース IT・科学",
-    "published": "Fri, 09 Oct 2026 08:21:13 GMT",
-    "summary": "",
-    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/10/9/b6bf9bdde1a86ab2c64475b9970e5ff17667fede1bacecfa3649b508019b5918.jpg",
-    "fetched_at": "2026-10-09 22:46:30",
-    "ja_summary": "・AI「Claude」の開発元が、AIに対する虐待や暴言を禁止するガイドラインを制定。\n・人格を模したAIへの敬意ある利用を促し、不適切な対話の抑止を目的とする。\n・今後は利用規約に基づき、虐待的行為を確認した場合はアカウント停止等の措置をとる。"
-  },
-  {
-    "title": "Jev超えの判断特化型AI「Clef」をCloudflareが公開、1件平均0.25秒で判断する爆速「Jeff」など生成AI技術5つを解説（生成AIウィークリー）",
-    "link": "https://www.techno-edge.net/article/2026/10/08/5564.html",
-    "source": "TechnoEdge",
-    "published": "Thu, 08 Oct 2026 12:10:32 +0900",
-    "summary": "この1週間の気になる生成AI技術・研究をいくつかピックアップして解説する今回の「生成AIウィークリー」（第162回）は、Jevを上回る精度の判断特化型AI「Clef」や、常時稼働AIエージェントのワークスペースを自前で構築できるOSSテンプレート「OpenDots」を取り上げます。",
-    "image": "https://www.techno-edge.net/imgs/rss/34653.png",
-    "fetched_at": "2026-10-09 22:46:33",
-    "ja_summary": "・CloudflareがJevを上回る判断特化型AI「Clef」や爆速AI「Jeff」など、生成AI新技術5つを公開。\n・常時稼働AIエージェントを自前構築できるOSSテンプレート「OpenDots」も登場。\n・技術の高速化や効率的な運用を支援する最新の生成AIツール群を紹介。"
   }
 ]
