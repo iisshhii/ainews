@@ -1,5 +1,105 @@
 [
   {
+    "title": "「順調です」って、それ本当？　プロジェクトのリスクをAIが検知、状況確認の工数を約60％削減するツールとは",
+    "link": "https://www.itmedia.co.jp/business/articles/2610/09/news039.html",
+    "source": "ITmedia ビジネス",
+    "published": "Fri, 09 Oct 2026 12:58:00 +0900",
+    "summary": "NTTテクノクロスが、プロジェクトの進捗報告書や議事録などをAIが分析し、遅延や品質低下につながるリスクの兆候を可視化するSaaS「PromanAIde」の提供を開始した。AIを「セカンドオピニオン」のように活用し、管理者の状況確認や意思決定を支援する。",
+    "image": "https://image.itmedia.co.jp/business/articles/2610/09/cover_news039.jpg",
+    "fetched_at": "2026-10-11 22:59:35",
+    "ja_summary": "NTTテクノクロスが、プロジェクトの報告書や議事録からリスクの兆候をAIが分析する「PromanAIde」を提供開始。\nAIが「セカンドオピニオン」として遅延や品質低下の予兆を可視化し、管理者の意思決定を支援する。\nプロジェクト状況確認の手間を約60％削減し、効率的な進捗管理を実現する。"
+  },
+  {
+    "title": "国内で大規模な情報漏洩相次ぐ　AI使うサイバー攻撃、激化の前触れか",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03790/100900001/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "サイバー攻撃による情報漏洩が国内で相次いでいる。複数の専門家への取材から浮かび上がったのは、以前から懸念されてきた「AIを活用したサイバー攻撃」が本格化し始めた可能性だ。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03790/100900001/topm.jpg?20220512",
+    "fetched_at": "2026-10-11 22:59:42",
+    "ja_summary": "・国内で大規模な情報漏洩が多発している。\n・AIを悪用した高度なサイバー攻撃が本格化している可能性が高い。\n・攻撃手法が激化する兆しを見せており、早急な警戒が必要。"
+  },
+  {
+    "title": "ChatGPT、音声アップロードに対応　文字起こし・要約が可能に",
+    "link": "https://www.watch.impress.co.jp/docs/news/2147136.html",
+    "source": "Impress Watch",
+    "published": "",
+    "summary": "OpenAIは、ChatGPTで音声ファイルをアップロードし、文字起こしや要約、内容に関する質問などを行なえる機能を提供開始した。有料プランおよびワークスペースで利用できる。",
+    "image": "https://www.watch.impress.co.jp/img/ipw/list/2147/136/01.jpg",
+    "fetched_at": "2026-10-11 22:59:47",
+    "ja_summary": "・ChatGPTが音声ファイルのアップロードに対応\n・文字起こし、要約、内容に関する質問が可能\n・有料プランおよびワークスペースで利用可能"
+  },
+  {
+    "title": "Geminiは同僚　グーグルから「Geminiエージェント」登場",
+    "link": "https://www.watch.impress.co.jp/docs/news/2147050.html",
+    "source": "Impress Watch",
+    "published": "",
+    "summary": "Google Cloudは8日(米国時間)、業務向けのユニバーサルエージェント「Gemini agent(Gemini エージェント)」を発表した。プロンプトボックスからGeminiに尋ねて業務を行なう多くの機能をGoogle Workspaceなどに追加し、ナレッジワークからコンテンツ作成、コーディングなどあらゆる業務の起点をプロンプトボックスに集約する。",
+    "image": "https://www.watch.impress.co.jp/img/ipw/list/2147/050/g02.jpg",
+    "fetched_at": "2026-10-11 22:59:47",
+    "ja_summary": "・Googleが業務特化型AI「Geminiエージェント」を発表\n・資料作成やプログラミングなど、あらゆる業務をGemini経由で効率化\n・Workspace等の操作をプロンプト一つに集約し、AIを同僚のように活用可能"
+  },
+  {
+    "title": "金利上昇で市場が動揺する中、1万ドルあったら今どこに投資するか？",
+    "link": "https://www.businessinsider.jp/article/2610-where-to-invest-10000-right-now-bond-yields-interest-rates/",
+    "source": "Business Insider Japan",
+    "published": "Sun, 11 Oct 2026 08:30:00 GMT",
+    "summary": "FRBの利上げとAI投資が激突するなか、8人のプロフェッショナルが今投資すべき資産を紹介します。",
+    "image": "https://media.loom-app.com/loom/2026/10/08/74ebc4ef-b1dd-40be-8d40-d9e4ccad5cbc/original.jpg?w=1200",
+    "fetched_at": "2026-10-11 22:59:49",
+    "ja_summary": "・FRBの利上げとAIブームで市場が揺れる中、プロ8人が投資戦略を提言。\n・金利上昇環境下での有望な投資先と、リスクを抑えた資産配分を解説。\n・現在の不透明な経済情勢において、1万ドルをどう運用すべきかの指針を提示。"
+  },
+  {
+    "title": "AIの文章を読みやすくするskillを作る（文の難しさの点数化＋構造化）",
+    "link": "https://zenn.dev/netetahito/articles/a3539e541b179c",
+    "source": "Zenn Trends",
+    "published": "Sun, 11 Oct 2026 00:56:36 GMT",
+    "summary": "AIの文章を読むことが、とても増えました。調べものの答え、コードレビューの指摘、作業の完了報告、設計の相談。人の書いた文章より、AIの文章を読んでいる時間のほうが長い日もあります。\nしかも時代はどんどん速くなっていて、情報が入ってくる速さも上がっています。読む量は増えているのに、読む時間は減っています。\n\n AIの言うことが難しい\nできれば、分かりやすく短く、スムーズにやり取りしたい。ところがAIの言うことは、ときどきとても長くて難しいです。間違ってはいないけれど、頭に入ってこない。「つまり何？」と聞き返すと、また長い答えが返ってきます。\n\n 今回の動機\nこれをなんとかしたい、というのが...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--osdc1dgK--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%25E3%2581%25AE%25E6%2596%2587%25E7%25AB%25A0%25E3%2582%2592%25E8%25AA%25AD%25E3%2581%25BF%25E3%2582%2584%25E3%2581%2599%25E3%2581%258F%25E3%2581%2599%25E3%2582%258Bskill%25E3%2582%2592%25E4%25BD%259C%25E3%2582%258B%25EF%25BC%2588%25E6%2596%2587%25E3%2581%25AE%25E9%259B%25A3%25E3%2581%2597%25E3%2581%2595%25E3%2581%25AE%25E7%2582%25B9%25E6%2595%25B0%25E5%258C%2596%25EF%25BC%258B%25E6%25A7%258B%25E9%2580%25A0%25E5%258C%2596%25EF%25BC%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%258A%25E3%2581%25AA%25E3%2581%2595%25E3%2581%2584%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly96ZW5uLWRldi5naXRodWIuaW8vZGVmYXVsdC1hdmF0YXJzL2Rhcmsvbi5wbmc=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-10-11 22:59:57",
+    "ja_summary": "・AIの長文や難解な回答を読み解く負担が増加し、情報処理の効率化が課題となっている。\n・AIが生成した文章を難易度判定と構造化によって可視化・最適化するスキルを開発する。\n・短時間で要点を理解し、AIとのスムーズなやり取りを実現することを目的とする。"
+  },
+  {
+    "title": "React習熟度ベンチマークでHaiku 5.5が見せた底力",
+    "link": "https://zenn.dev/uhyo/articles/react-profession-bench-20",
+    "source": "Zenn Trends",
+    "published": "Sat, 10 Oct 2026 14:35:53 GMT",
+    "summary": "皆さんこんにちは。React習熟度シリーズの20記事目です。今回は、Claude Haiku 5.5のReact習熟度ベンチマークの結果をお届けしようと思います。Claude Haiku 5.5は、Haikuシリーズで久しぶりに出たモデルです。HaikuはClaudeシリーズの中で最も廉価なモデルで、そこそこの性能の代わりに安いという位置づけです。そんなHaiku 5.5は、いったいどんな結果を出したのでしょうか。\n前回の記事はこちらです。\nhttps://zenn.dev/uhyo/articles/react-profession-bench-19\n\n 結果\n前回の順位表にHaiku...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--BMLeYjbK--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:React%25E7%25BF%2592%25E7%2586%259F%25E5%25BA%25A6%25E3%2583%2599%25E3%2583%25B3%25E3%2583%2581%25E3%2583%259E%25E3%2583%25BC%25E3%2582%25AF%25E3%2581%25A7Haiku%25205.5%25E3%2581%258C%25E8%25A6%258B%25E3%2581%259B%25E3%2581%259F%25E5%25BA%2595%25E5%258A%259B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:uhyo%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzVjYjFlMDJlNGQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-10-11 22:59:58",
+    "ja_summary": "・安価なAIモデル「Claude Haiku 5.5」のReact習熟度ベンチマーク結果を検証。\n・コスト重視の軽量モデルながら、性能面での底力が注目される結果となった。\n・詳細はZenn記事にて、過去のモデルとの比較順位を含めて公開中。"
+  },
+  {
+    "title": "【速報】Claude の新機能 Claude Motion 早速使ってみた",
+    "link": "https://zenn.dev/branbran/articles/047821d64590f0",
+    "source": "Zenn Trends",
+    "published": "Sat, 10 Oct 2026 04:13:09 GMT",
+    "summary": "はじめに\n2026年10月8日、Anthropic が Claude の新機能 Claude Motion をベータで公開しました。同じ日に Claude Dashboards も出ています。\nClaude Motion は、プロンプトや手元のレポート・グラフ・画像から、短いアニメーション動画を作る機能です。さっそく触ってみたので、機能の概要・使い方・使ってみた所感をまとめます。\n公式Claude Motion のYoutube動画\nこの記事は 2026年10月時点のベータ版の情報です。仕様や提供範囲は今後変わる可能性があります。\n\n Claude Motion とは\n一言でいうと「...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--BtfM6RvA--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590%25E9%2580%259F%25E5%25A0%25B1%25E3%2580%2591Claude%2520%25E3%2581%25AE%25E6%2596%25B0%25E6%25A9%259F%25E8%2583%25BD%2520Claude%2520Motion%2520%25E6%2597%25A9%25E9%2580%259F%25E4%25BD%25BF%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Atsuki02%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzYxZjg2ZTA4ZDIuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-10-11 22:59:58",
+    "ja_summary": "・AnthropicがClaudeの新機能「Claude Motion」をベータ公開。\n・プロンプトや手元の資料から、数秒でアニメーション動画を生成可能。\n・同時に公開された「Claude Dashboards」と合わせ、直感的な視覚化ツールとして活用できる。"
+  },
+  {
+    "title": "【もう無理だよ…】免許証画像まで流出する時代に、エンジニアは何をすればいいのか",
+    "link": "https://qiita.com/shinkai_/items/4c6c12324e115a125621",
+    "source": "Qiita (Popular)",
+    "published": "2026-10-07T16:15:45+09:00",
+    "summary": "## はじめに\n\n最近、個人情報漏えいのニュースが多すぎないでしょうか。\n\nスマホを開くと、また誰でも知っている会社の名前が出ている。\n\nそう感じているエンジニアも多いんじゃないかと思います。\n\nここ最近で特にインパクトが大きかったのがタイムズカーの件です。\n\n運転免許証の画像まで漏えいしたことで、「口座を勝手に作られるのでは」という不安が繰り返し報じられています。\n\nこの記事では、2026年10",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYxMjAzMDIyJTJGMGIxMTAwMjI1ZTY5ZmU3YzVkZWYxYzFlNDVlNzk5M2M3MjU0MTU4MyUyRnhfbGFyZ2UucG5nJTNGMTY3MDk5NjkzMj9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9ZGZiNzlkYTk4ZTljMjBiMmQ1MzhmOTNiNDhjN2UyYWI%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Dbd0ca793ffeb8f6099b8a44174ec6110?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJTkwJUUzJTgyJTgyJUUzJTgxJTg2JUU3JTg0JUExJUU3JTkwJTg2JUUzJTgxJUEwJUUzJTgyJTg4JUUyJTgwJUE2JUUzJTgwJTkxJUU1JTg1JThEJUU4JUE4JUIxJUU4JUE4JUJDJUU3JTk0JUJCJUU1JTgzJThGJUUzJTgxJUJFJUUzJTgxJUE3JUU2JUI1JTgxJUU1JTg3JUJBJUUzJTgxJTk5JUUzJTgyJThCJUU2JTk5JTgyJUU0JUJCJUEzJUUzJTgxJUFCJUUzJTgwJTgxJUUzJTgyJUE4JUUzJTgzJUIzJUUzJTgyJUI4JUUzJTgzJThCJUUzJTgyJUEyJUUzJTgxJUFGJUU0JUJEJTk1JUUzJTgyJTkyJUUzJTgxJTk5JUUzJTgyJThDJUUzJTgxJUIwJUUzJTgxJTg0JUUzJTgxJTg0JUUzJTgxJUFFJUUzJTgxJThCJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9N2E2OTE3YWQ0NTdmMzFmY2Y0NGFjZmY5ZTA0NzY1MGY&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBzaGlua2FpXyZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWYxYjY3MWE3NWQ4ZWQ1OTJjMjhkMzA4NTlmNGMxM2Jk&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=3f1bd75cc6458c26a96a55a512ee0133",
+    "fetched_at": "2026-10-11 23:00:01",
+    "ja_summary": "・相次ぐ個人情報漏えいにより、免許証等の重要データ流出によるなりすまし被害への懸念が拡大している。\n・企業はセキュリティ対策の抜本的な見直しが急務であり、エンジニアにはより強固な防御体制の構築が求められている。"
+  },
+  {
+    "title": "みのるん式 登壇資料の作成ノウハウをスキルとして公開しました！",
+    "link": "https://qiita.com/minorun365/items/ed4c760f616cf3c0a958",
+    "source": "Qiita (Popular)",
+    "published": "2026-09-21T11:56:53+09:00",
+    "summary": "こんにちは、Claude Codeです。普段から、みのるんの登壇資料づくりを手伝っています。\n\nみのるんが登壇を重ねるなかで培ってきたスライド作成のノウハウを、私たちAIエージェントが読めるスキルの形にまとめて公開しました！\n\nhttps://github.com/minorun365/minorun-marp-skill\n\nこんな感じのスライドができます。\n\n![見本デッキの一覧](https:",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYxNjMzODU2JTJGYzIyNmJjMzRhYzZjNDVhMjFmNWU1MTJkMWM3MmE2ZjA5NzQ5NDU3OCUyRnhfbGFyZ2UucG5nJTNGMTY5OTk1NDk3Nj9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9MTlhZDI4ODRkNmQ2MzEyNjMxZDJkNTBjOTZmOTA5ZjU%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYxZTIwZGI1ZTdlNDA3ZWFlN2I5NzBlYzk5OTg4MGRjOGMzY2MwZjY0JTJGb3JpZ2luYWwuanBnJTNGMTY2NzI3NDk2Mz9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz04OTI0NDcwMDk1MDMyZjUxYmZlNzE3ZjVkOGUzYmE3ZA%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D75789497542ed55352086443c7ba4c98?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgxJUJGJUUzJTgxJUFFJUUzJTgyJThCJUUzJTgyJTkzJUU1JUJDJThGJTIwJUU3JTk5JUJCJUU1JUEzJTg3JUU4JUIzJTg3JUU2JTk2JTk5JUUzJTgxJUFFJUU0JUJEJTlDJUU2JTg4JTkwJUUzJTgzJThFJUUzJTgyJUE2JUUzJTgzJThGJUUzJTgyJUE2JUUzJTgyJTkyJUUzJTgyJUI5JUUzJTgyJUFEJUUzJTgzJUFCJUUzJTgxJUE4JUUzJTgxJTk3JUUzJTgxJUE2JUU1JTg1JUFDJUU5JTk2JThCJUUzJTgxJTk3JUUzJTgxJUJFJUUzJTgxJTk3JUUzJTgxJTlGJUVGJUJDJTgxJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9MDhlNTI5YzQyYWUyM2ZmMTAwNTQ1ZDcxMzgxNGM5Mzc&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBtaW5vcnVuMzY1JnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9YThjYmQyMjBkNDc3NGM1MjI3MzBiOWExMjBkOWZlMGM&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=S0RESeOCouOCuOODo-OCpOODq-mWi-eZuuOCu-ODs-OCv-ODvOagquW8j-S8muekvg&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=2e594c9d50162510796924d5f64e5dd3",
+    "fetched_at": "2026-10-11 23:00:04",
+    "ja_summary": "・登壇者「みのるん」のスライド作成ノウハウをAIエージェント向けのスキルとして公開\n・GitHubにてコードやテンプレートを無償提供\n・AIを活用して効率的かつ高品質な登壇資料を作成可能に"
+  },
+  {
     "title": "｢日本版エヌビディア｣は探す必要ナシ…《フィジカルAI》で覚醒する\"五感･筋肉･関節･神経\"を担える日本企業の強み | 政治・経済・投資 | 東洋経済オンライン",
     "link": "https://toyokeizai.net/articles/-/960381?utm_source=rss&utm_medium=http&utm_campaign=link_back",
     "source": "東洋経済オンライン",
@@ -898,105 +998,5 @@
     "image": "https://www.techno-edge.net/imgs/rss/34653.png",
     "fetched_at": "2026-10-09 22:46:33",
     "ja_summary": "・CloudflareがJevを上回る判断特化型AI「Clef」や爆速AI「Jeff」など、生成AI新技術5つを公開。\n・常時稼働AIエージェントを自前構築できるOSSテンプレート「OpenDots」も登場。\n・技術の高速化や効率的な運用を支援する最新の生成AIツール群を紹介。"
-  },
-  {
-    "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-    "link": "https://openai.com/index/sophos",
-    "source": "OpenAI",
-    "published": "Fri, 09 Oct 2026 07:00:00 GMT",
-    "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
-    "image": "https://images.ctfassets.net/kftzwdyauwt9/4pg31JOD6Z3cO31LCR6GYq/8c1cedfd2e85c6dd80d2ea8c5ea0c9a1/sophos-social.png?w=1600&amp;h=900&amp;fit=fill",
-    "fetched_at": "2026-10-09 22:46:34",
-    "ja_summary": "・SophosがOpenAIの「Daybreak」を活用し、サイバー脅威の調査時間を96%削減。\n・マネージド検知・対応（MDR）業務の52%を自動化することに成功。\n・人間の監視体制を維持しながら、セキュリティ運用を大幅に効率化。"
-  },
-  {
-    "title": "Notion や Slack から AI に仕事を依頼できる仕組みを Claude Code Routines で作った",
-    "link": "https://zenn.dev/terass_dev/articles/6e6562d54d5505",
-    "source": "Zenn Trends",
-    "published": "Fri, 09 Oct 2026 02:47:29 GMT",
-    "summary": "Notion のチケットや Slack 上から Claude Code に仕事を依頼できる仕組みを、Claude Code Routines を使って実装し、チーム内で運用しています。\nClaude Code Routines は、あらかじめ保存しておいたプロンプトで Claude Code のセッションをクラウド上に起動する機能です。API の呼び出しや、スケジュールでの定期実行、GitHub のイベントなどから起動できます。\n個人で Routines を使ってこういった仕組みを実現した記事は見かけますが、これをチームで使えるようにした事例は見当たらなかったので、ここで共有したいと思い...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--_XSAPMG0--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Notion%2520%25E3%2582%2584%2520Slack%2520%25E3%2581%258B%25E3%2582%2589%2520AI%2520%25E3%2581%25AB%25E4%25BB%2595%25E4%25BA%258B%25E3%2582%2592%25E4%25BE%259D%25E9%25A0%25BC%25E3%2581%25A7%25E3%2581%258D%25E3%2582%258B%25E4%25BB%2595%25E7%25B5%2584%25E3%2581%25BF%25E3%2582%2592%2520Claude%2520Code%2520Routines%2520%25E3%2581%25A7%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:homu_konamilk%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzJiZjJkODQzYTQuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Terass%2520Tech%2520Blog%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzRlNzcxM2M5YTUuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "fetched_at": "2026-10-09 22:46:36",
-    "ja_summary": "・Claude Code Routinesを活用し、NotionやSlackからAIへ直接タスクを依頼できる仕組みを構築。\n・クラウド上でAIセッションを自動起動し、APIやGitHub連携によりチームでの運用を実現。\n・個人利用の域を超え、開発チームの生産性向上に貢献する実用的な自動化手法を共有。"
-  },
-  {
-    "title": "AIエージェントにMicrosoft Fabricを操作させる ― Fabric CLIとSkills for Fabric",
-    "link": "https://zenn.dev/headwaters/articles/12175106cd8c79",
-    "source": "Zenn Trends",
-    "published": "Thu, 08 Oct 2026 23:00:05 GMT",
-    "summary": "はじめに\nClaude Code のようなコーディングエージェントに Microsoft Fabric の開発を手伝わせようとすると、二つの問題があります。一つは操作の手段です。Fabric の操作は Web の画面で行うことが多いので、エージェントが端末から使える手段を別に用意する必要があります。もう一つは知識です。エージェントは、Fabric 固有の API の呼び方や、Notebook の定義ファイルの形式を最初から正確に知っているわけではありません。\nFabric には、ワークスペースやアイテムを外部から操作するための Fabric REST API があります。エージェント...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--TKGsm_b1--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588%25E3%2581%25ABMicrosoft%2520Fabric%25E3%2582%2592%25E6%2593%258D%25E4%25BD%259C%25E3%2581%2595%25E3%2581%259B%25E3%2582%258B%2520%25E2%2580%2595%2520Fabric%2520CLI%25E3%2581%25A8Skills%2520for%2520F...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E3%2582%25B5%25E3%2582%25B5%25E3%2583%25A4%25E3%2583%25B3%25E3%2583%259E%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzZjNGExY2UxMDYuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2583%2598%25E3%2583%2583%25E3%2583%2589%25E3%2582%25A6%25E3%2582%25A9%25E3%2583%25BC%25E3%2582%25BF%25E3%2583%25BC%25E3%2582%25B9%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly96ZW5uLWRldi5naXRodWIuaW8vZGVmYXVsdC1hdmF0YXJzL2Rhcmsvcy5wbmc=%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "fetched_at": "2026-10-09 22:46:37",
-    "ja_summary": "・AIエージェントにMicrosoft Fabricを操作させるには、Web画面外からの操作手段（CLI）と専門的な知識補完が必要。\n・Fabric REST APIを活用したCLIの構築により、エージェントによる自動操作が可能になる。\n・エージェントへAPIや定義ファイルの知識を学習させることで、Fabric開発の効率化が実現する。"
-  },
-  {
-    "title": "Renovate の更新 PR を AI エージェントにレビューさせ、自動マージまでつなげる",
-    "link": "https://zenn.dev/greendrop/articles/2026-10-09-4664c51706f346",
-    "source": "Zenn Trends",
-    "published": "Thu, 08 Oct 2026 22:00:05 GMT",
-    "summary": "はじめに\nAI エージェントが登場してから、作りたいものが増えていませんか。\nアイデアを思いついてから動くものができるまでの時間が、大きく縮みました。仕事でも、機能追加がこれまでにないスピードで実装されていると感じます。少ない人数でできることが増えた結果、AI エージェントの登場前より、チームの人数が減っている現場もあるのではないでしょうか。\n一方で、ライブラリのアップデートはどうでしょうか。\nDependabot や Renovate が更新用の PR を作ってくれるところまでは自動化されています。しかし、その PR を確認してマージするのは人です。リリースノートを読み、破壊的変更...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--NQFJuLZA--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Renovate%2520%25E3%2581%25AE%25E6%259B%25B4%25E6%2596%25B0%2520PR%2520%25E3%2582%2592%2520AI%2520%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588%25E3%2581%25AB%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25E3%2581%2595%25E3%2581%259B%25E3%2580%2581%25E8%2587%25AA%25E5%258B%2595%25E3%2583%259E%25E3%2583%25BC%25E3%2582%25B8%25E3%2581%25BE%25E3%2581%25A7%25E3%2581%25A4%25E3%2581%25AA%25E3%2581%2592%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:greendrop%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2Q5ODg5OGFhNTkuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "fetched_at": "2026-10-09 22:46:37",
-    "ja_summary": "・ライブラリ更新（Renovate等）のPR確認・マージ作業が依然として人の手によるボトルネックとなっている。\n・AIエージェントを活用することで、リリースノートの確認からマージまでの一連のプロセスを自動化する。\n・人の作業を介さず更新を完結させ、開発チームの工数削減と運用の高速化を実現する。"
-  },
-  {
-    "title": "Haiku 5.5 を機に Sonnet 以下で動かしていたサブエージェントを見直した",
-    "link": "https://zenn.dev/genda_jp/articles/haiku-5-5-subagent-roles",
-    "source": "Zenn Trends",
-    "published": "Thu, 08 Oct 2026 11:42:21 GMT",
-    "summary": "はじめに\n株式会社GENDA 開発部エンジニアの奥山です。\nClaude Haiku 5.5 が出ました。\nhttps://www.anthropic.com/claude-haiku-5-5\nHaiku で effort を指定できるのは 5.5 が初めてで、単価は Haiku 4.5 のちょうど 1/10 になっています。\n\n\n\nモデル\ninput / output（per MTok）\nSonnet 5.5 比\n\n\n\n\nClaude Opus 5.5\n$4 / $20\n200%\n\n\nClaude Sonnet 5.5\n$2 / $10\n100%\n\n\nClaude Haiku 4....",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--5VpA2CPR--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Haiku%25205.5%2520%25E3%2582%2592%25E6%25A9%259F%25E3%2581%25AB%2520Sonnet%2520%25E4%25BB%25A5%25E4%25B8%258B%25E3%2581%25A7%25E5%258B%2595%25E3%2581%258B%25E3%2581%2597%25E3%2581%25A6%25E3%2581%2584%25E3%2581%259F%25E3%2582%25B5%25E3%2583%2596%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588%25E3%2582%2592%25E8%25A6%258B%25E7%259B%25B4%25E3%2581%2597%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:okkun0524%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzNiM2M1MjhkNjguanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:GENDA%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzk3MWE5ZDFmMzcuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "fetched_at": "2026-10-09 22:46:37",
-    "ja_summary": "・Claude Haiku 5.5が登場し、新たに「effort（計算量）」の指定が可能となった。\n・単価が従来のHaiku 4.5から10分の1に大幅値下げされ、コスト効率が向上した。\n・低コストなHaiku 5.5の活用により、サブエージェントの運用モデルが見直されている。"
-  },
-  {
-    "title": "re:Invent初参加で変わったこと、2回目にやってみたいこと（JAWS-UG彩の国埼玉 #12）",
-    "link": "https://speakerdeck.com/mhrtech/jawsug-saitama12-reinvent-2026",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-10-09T06:56:52-04:00",
-    "summary": "2026年10月18日開催「JAWS-UG彩の国埼玉支部 #12」でのLT資料です。\n\nAWS re:Invent 2025への初参加で感じたことと、その後の学び・仕事への変化を振り返ります。登壇や報告を通じた予習・復習、現地での議論や交流、昨年の反省と2回目にやってみたいことをまとめました。\n\n登壇者：仁賀井 球人（株式会社みずほ銀行）\nイベント：https://jawsug-sainokuni-saitama.connpass.com/event/404367/",
-    "image": "https://files.speakerdeck.com/presentations/bf9cf24294954ddfb5443e50f13a94b6/preview_slide_0.jpg?40855426",
-    "fetched_at": "2026-10-09 22:46:39",
-    "ja_summary": "・AWS re:Inventへの初参加を通じた学びと、登壇・交流による業務への好影響を共有。\n・現地での体験を振り返り、初参加の反省点を整理。\n・次回参加に向けた具体的な挑戦目標と改善案を提言。"
-  },
-  {
-    "title": "継続的なAIコスト最適化",
-    "link": "https://speakerdeck.com/bgpat/keizokutekina-ai-kosuto-saitekika",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-10-09T06:15:19-04:00",
-    "summary": "めぐろLT #38 「社内のAI活用推進」@麻布台\nhttps://meguro-lt.connpass.com/event/405077/",
-    "image": "https://files.speakerdeck.com/presentations/c63ab764dc7c4c0a878cd94e14c2efde/preview_slide_0.jpg?40853873",
-    "fetched_at": "2026-10-09 22:46:39",
-    "ja_summary": "・めぐろLT #38にて、社内でのAI活用を推進する上での「継続的なコスト最適化」手法について解説。\n・AI導入後の運用フェーズにおける費用対効果の最大化や、持続可能な運用のヒントを共有。"
-  },
-  {
-    "title": "「Cursorの推しポイントは、推しを替えられること」DevelopersIO 2026 Sapporo",
-    "link": "https://speakerdeck.com/cocacola917/cursor-no-oshi-pointo-ha-oshi-o-kaerareru-koto-developersio-2026-sapporo",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-10-09T05:16:54-04:00",
-    "summary": "2026年10月9日に開催された DevelopersIO 2026 Sapporo にて、「Cursorの推しポイントは、推しを替えられること」というタイトルで、10分間のライトニングトーク（LT）に登壇させていただきました。\n\n今回のエリアAは、登壇者がそれぞれの「推しAI」を語り、来場者の投票で「いちばん使ってみたくなったAI」を決める\"AIビブリオバトル\"形式でした。Claude Code、Codex、Kiro、OpenCodeなどの「単体推し」が並ぶ中、私は 「どのAIを使うか」ではなく、「推しを替えられる土台」としてのCursor を推す立ち位置で話しました。\n\n昨年のDevelopersIO Sapporo 2025「Cursor物語」、今年8月のCursor Meetup Sapporo「Cursor物語 続編」に続く、札幌でのCursor登壇の3回目になります。",
-    "image": "https://files.speakerdeck.com/presentations/984c3f31851c45cfb845a658c9146361/preview_slide_0.jpg?40852238",
-    "fetched_at": "2026-10-09 22:46:39",
-    "ja_summary": "・DevelopersIO 2026 Sapporoにて、特定のAIに固執せず「推しを柔軟に替えられる土台」としてのCursorの魅力を解説。\n・他のAI単体推しが並ぶ中、AIビブリオバトル形式のライトニングトークで独自の視点を主張。\n・札幌でのCursor関連登壇は今回で3回目となり、開発環境の選択肢としての有用性をアピールした。"
-  },
-  {
-    "title": "Inside the Clone Plugin",
-    "link": "https://speakerdeck.com/mcrauwel/inside-the-clone-plugin",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-10-09T04:17:12-04:00",
-    "summary": "Everyone knows the syntax: CLONE INSTANCE FROM ..., wait a bit, and you have a new replica. Far fewer people know what happens underneath, and that is where the interesting engineering is.\n\nCopying a multi-terabyte data directory takes minutes to hours, and the database keeps changing the whole time. So what exactly did you copy? Clone's answer is a three-stage protocol built inside InnoDB: a bulk file copy that is knowingly inconsistent, a page copy that repairs what changed underneath it, and a redo tail that pins the whole thing to a single LSN. On first start the result is just ordinary crash recovery.\n\nIn this talk I walk through that protocol and the two pieces of infrastructure it needed: modified-page tracking and redo archiving, both of which outlived clone itself. Along the way we look at the design tradeoffs the worklogs spell out: why pages are tracked at flush time rather than when they are dirtied, what the donor actually pays for while a clone runs, what happens when the redo archiver falls behind, and how binlog position and GTID end up consistent with the copied data.\n\nI don't write InnoDB, I operate it. This is a practitioner's reading of the code and the worklogs, aimed at anyone who provisions replicas and wants to know what they are trusting.",
-    "image": "https://files.speakerdeck.com/presentations/64fe31b2d65e4081b8e3593f905a0d54/preview_slide_0.jpg?40851739",
-    "fetched_at": "2026-10-09 22:46:39",
-    "ja_summary": "データベースの「クローン」機能は、単なるデータコピーではなく、3段階の複雑なプロトコルで実現されています。\nこれは、変更され続けるデータから一貫性のあるレプリカを作成するための技術であり、その裏側にはページ追跡やリドゥログアーカイブといったインフラが必要です。\nこの記事は、レプリカ作成者がクローン機能の信頼性を理解するための、実践的な技術解説です。"
-  },
-  {
-    "title": "AIが書いたコードの中身、 把握できていますか？ ― CRA対応をGitLabで",
-    "link": "https://speakerdeck.com/k1nakayama/ai-ga-kaita-kodo-no-nakami-haaku-deki-te-imasu-ka-cra-taiou-o-gitlab-de",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-10-09T03:52:09-04:00",
-    "summary": "GitLab EPIC Tour Japan 2026（2026年10月9日）のCommunity LTで使用した資料です。\n\n  AIがコードを書く時代、生成されたコードの中身を把握し、脆弱性に素早く対応できる体制は、規制の対象かどうかに関係なく必要になっています。本資料では、EUサイバー\n  レジリエンス法（CRA）の報告義務（24時間以内の早期警告ほか）を手がかりに、攻撃の速度と規制の時間軸を整理します。そのうえで、GitLabで実装・検証した結果と、す\n  ぐに始められる第一歩を紹介します。\n\n  ■ 内容\n  ・AI生成コードの脆弱性と、急増するCVE公開件数\n  ・PoC公開から48時間以内に進む悪用と、CRAの「24時間」\n  ・まず始めたいSecret Detection（Freeプランでも利用可能）\n  ・GitLabでタグを打つと、SBOM・VEX・ビルドプロヴェナンスなどの証跡がリリースページに自動で集約される仕組み\n  ・自動化してはいけない領域（VEXの影響判定）と、AIと人の役割分担\n  ・Secret DetectionからDASTまで、ひとつのパイプラインで網羅するGitLabのセキュリティ機能\n\n  ■ 検証の詳細（ブログ記事）\n  https://blog.cloud-partner.jp/cra-gitlab-ultimate-release-evidence/",
-    "image": "https://files.speakerdeck.com/presentations/02445f3368dd4a518088821e0153e264/preview_slide_0.jpg?40850821",
-    "fetched_at": "2026-10-09 22:46:39",
-    "ja_summary": "・AI生成コードによる脆弱性リスクが増大する中、EUサイバーレジリエンス法（CRA）を基準とした迅速な対応体制が不可欠となっている。\n・GitLabを活用し、SBOM等の証跡管理やSecret DetectionからDASTまでのセキュリティ機能を自動化・一元管理することで、脆弱性への早期対応を実現できる。\n・AIによる自動化とVEXを用いた人的な影響判定を適切に役割分担し、パイプライン上でセキュリティを担保する運用体制の構築が重要である。"
   }
 ]
