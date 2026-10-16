@@ -1,5 +1,75 @@
 [
   {
+    "title": "「800円が1万円に」　前世代メモリーが高騰、メタは再利用技術を開発 (分断時代の経済安保)",
+    "link": "https://business.nikkei.com/atcl/gen/19/00800/101500046/",
+    "source": "日経ビジネス 最新",
+    "published": "",
+    "summary": "メモリー半導体で価格逆転が起きている。AI向け先端品より、民生・産業機器向けの前世代品が高値になっているのだ。DRAMメーカーがAI向け製品へ生産能力を振り向けており、前世代品の需要家はメモリー不足に頭を悩ませている。調達難の広がる中、米メタは前世代品を再利用する独自技術を開発するなど、資源の有効活用を目指している。",
+    "image": "https://business.nikkei.com/atcl/gen/19/00800/101500046/fb.jpg",
+    "fetched_at": "2026-10-17 06:50:40",
+    "ja_summary": "・AI向け半導体への生産集中により、旧世代メモリーが供給不足となり価格が急騰している。\n・旧世代品を必要とする産業機器メーカーなどが調達難に直面している。\n・米メタは対策として、旧世代メモリーを再利用する独自技術を開発し資源確保を図っている。"
+  },
+  {
+    "title": "AIデータセンターの冷却、サムスンとLGが火花　メモリーと抱き合わせも",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/01231/00165/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "AI（人工知能）データセンターの建設ラッシュを背景に、サーバー冷却技術の開発・受注競争が熱を帯びている。韓国ではSamsung Electronics（サムスン電子）とLG Electronics（LG電子）がHVACへの投資を加速させている。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/01231/00165/01.jpg?20220512",
+    "fetched_at": "2026-10-17 06:50:43",
+    "ja_summary": "・AIデータセンターの急増に伴い、サーバー冷却技術の需要が拡大。\n・サムスンとLGが設備投資を加速させ、激しい受注競争を展開。\n・メモリー製品と冷却システムをセット提案する動きなど、戦略を強化。"
+  },
+  {
+    "title": "AIに仕事を丸ごと任せられるか、「ChatGPT Work」を使って分かった得意分野",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/02737/101100068/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "AI（人工知能）エージェントは、ユーザーから目的を与えられると、その達成に必要な手順を考え、複数の作業を自動的に進めるAIのことだ。単に質問に答えるだけでなく、情報を集めたり、内容を整理したり、ファイルを作成したりと、一連の仕事をまとめて処理できる。今回は実際にAIエージェントを使った筆者がその結果をリポートする。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/02737/101100068/topm.jpg?20220512",
+    "fetched_at": "2026-10-17 06:50:44",
+    "ja_summary": "・「AIエージェント」は自ら手順を考え、情報収集から資料作成までの一連の業務を自動処理できる。\n・単なる回答にとどまらず、複雑なタスクを丸ごと任せることが可能。\n・実体験を通じ、AIエージェントの得意分野や実用性が明らかになった。"
+  },
+  {
+    "title": "iPhone 18 Pro、動画撮影時の電力2割減　熱設計はAI処理に照準",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03764/101300003/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "「iPhone 18 Pro」の消費電力を算出した。その結果、前世代の「iPhone 17 Pro」に比べると、動画撮影時の消費電力が約2割減少していた。それでも、iPhone 17 Proよりも放熱性を高める構造で、オンデバイスAI（人工知能）に向けた設計だと専門家は見る。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03764/101300003/sns.jpg?20220512",
+    "fetched_at": "2026-10-17 06:50:44",
+    "ja_summary": "・iPhone 18 Proは動画撮影時の消費電力を従来比で約2割削減。\n・放熱構造を強化し、オンデバイスAI処理を快適に行える設計へ最適化。\n・省エネ性能を高めつつ、AI機能の実行能力を重視した設計が鮮明に。"
+  },
+  {
+    "title": "Ruby on Rails作者が「Rust推し」に、AI駆動開発ではレビューすら不要",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03079/101500046/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "Webアプリケーションフレームワーク「Ruby on Rails」の作者で、DHHの通称で知られるDavid Heinemeier Hansson（デイヴィッド・ハイネマイヤー・ハンソン）氏による最近の発言が、ソフトウエア開発者の間で話題になっている。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03079/101500046/topm.jpg?20220512",
+    "fetched_at": "2026-10-17 06:50:45",
+    "ja_summary": "Rails作者DHH氏がAI開発でRustを推奨。\nAIがコード生成するため、レビュー不要なほど高品質になる。\n将来、開発者はAIとの協業が主流になると示唆。"
+  },
+  {
+    "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+    "link": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+    "source": "OpenAI",
+    "published": "Fri, 16 Oct 2026 00:00:00 GMT",
+    "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/4HTc2pk7XGFhzDU8RX0Ivg/ff2b922fa1914350c9d800da622ebe04/stack-overflow-social.png?w=1600&amp;h=900&amp;fit=fill",
+    "fetched_at": "2026-10-17 06:50:54",
+    "ja_summary": "・Stack Overflowが提供するAIエージェント向けサービスが、ChatGPTプラグインの導入により登録者数を3倍に拡大。\n・エンジニア2名が短期間で開発したこのプラグインが、エージェント作成数の最大10倍増を牽引した。"
+  },
+  {
+    "title": "Jev・Clef・d1・Jeff・Kev…意思決定モデル（System One）を仕組みから比較する【2026年10月版】",
+    "link": "https://qiita.com/nogataka/items/a2f89a94d243b1b715cb",
+    "source": "Qiita (Popular)",
+    "published": "2026-10-02T21:09:18+09:00",
+    "summary": "\n:::note info\nこの記事は2026年10月2日時点の情報です。各社の数値は提供元の公表値で、筆者が追試したものではありません。ベンチマークは誰が測ったかを併記し、測定条件が公開されていないものはその旨を書いています。\n:::\n\n## 要点\n\n- 意思決定モデル（System One Model）は、文章を生成せず、有限個の候補から選んで確率を返します。状態（state）、質問、選択肢を",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYxNjEyOTglMkZjMWUzZmZkNmVhZGExOTY5ZmYzYzQ0YjE0ZmRlMDgxYmNkZTZmNTAwJTJGeF9sYXJnZS5wbmclM0YxNTg0ODQ1NTg0P2l4bGliPXJiLTQuMS4xJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz1kMDQ2ZmE2Mzg1YzIyMmQ4ZjJkNWI0YjRkYTc3Mjc0NQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Dfde89a6aafc1c82cb07bd196a821c036?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9SmV2JUUzJTgzJUJCQ2xlZiVFMyU4MyVCQmQxJUUzJTgzJUJCSmVmZiVFMyU4MyVCQktldiVFMiU4MCVBNiVFNiU4NCU4RiVFNiU4MCU5RCVFNiVCMSVCQSVFNSVBRSU5QSVFMyU4MyVBMiVFMyU4MyU4NyVFMyU4MyVBQiVFRiVCQyU4OFN5c3RlbSUyME9uZSVFRiVCQyU4OSVFMyU4MiU5MiVFNCVCQiU5NSVFNyVCNSU4NCVFMyU4MSVCRiVFMyU4MSU4QiVFMyU4MiU4OSVFNiVBRiU5NCVFOCVCQyU4MyVFMyU4MSU5OSVFMyU4MiU4QiVFMyU4MCU5MDIwMjYlRTUlQjklQjQxMCVFNiU5QyU4OCVFNyU4OSU4OCVFMyU4MCU5MSZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTU5MTgzMThmY2NlM2YxYTU1MmJjZTRkZTFiMWNiZjg4&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBub2dhdGFrYSZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWNiYWE0ODdlNWU4NDg4ZjQ0NjQ0MjVlZTRhNDY2ZWUz&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=a511d6df9c108a278ddcef8aa62c02e0",
+    "fetched_at": "2026-10-17 06:51:02",
+    "ja_summary": "・「System One」モデルは文章生成ではなく、有限の選択肢から確率を予測する意思決定特化型の仕組み。\n・2026年10月時点の主要モデル（Jev、Clef、d1等）の性能を、公表データに基づき比較・整理。\n・測定条件の透明性を重視し、各モデルの意思決定精度や特徴を簡潔に分析。"
+  },
+  {
     "title": "Google AI Pro 月額2,900円 で何ができる？ Colab A100・動画・音楽生成まで",
     "link": "https://note.com/npaka/n/nbfa8c0162e99",
     "source": "note (npaka)",
@@ -928,75 +998,5 @@
     "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/10/15/86e42549d18026eb26518d9d5244e34b53e7da826cb19690e432beee3da1eb40.jpg",
     "fetched_at": "2026-10-16 08:08:58",
     "ja_summary": "・AIが自ら性能を向上させる「自己改善」機能により、人知を超える「超知能」の出現が現実味を帯びている。\n・制御不能なAIが人類を脅かすリスクを懸念し、開発の安全性確保と規制を求める声が高まっている。\n・技術革新のスピードと安全管理のバランスが、現在世界的な重要課題となっている。"
-  },
-  {
-    "title": "ローカルAIで「Linux」PCをクラッシュさせないための4つのヒント",
-    "link": "https://japan.zdnet.com/article/35253577/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "プライバシーや環境への影響などの面で優れているローカルAIだが、コンピューターのクラッシュを誘発することも珍しくない。本記事では、クラッシュを防いでローカルAIを快適に利用する方法を紹介する。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35253577/\"><img src=\"https://japan.zdnet.com/storage/2026/10/15/3b07b2c2f1141edcc0f43d1c8d095be8/t/184/138/d/large-localaihero.jpg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2026/10/15/3b07b2c2f1141edcc0f43d1c8d095be8/t/184/138/d/large-localaihero.jpg",
-    "fetched_at": "2026-10-16 08:08:59",
-    "ja_summary": "・ローカルAIはPCへの負荷が高く、クラッシュの原因になりやすい。\n・快適に利用するためには、リソース管理や設定の最適化が不可欠。\n・安定稼働を実現するための具体的なテクニックを解説。"
-  },
-  {
-    "title": "第3回　CEOの「判断力」をAIで拡張せよ--AIは経営者の代わりに決めない",
-    "link": "https://japan.zdnet.com/article/35253580/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "本連載では、経営者の意思・目指す方向であるインテントを起点に、社内外の情報をリアルタイムに捉え、AIによって経営判断の質と速度を高める「AI経営」を考える。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35253580/\"><img src=\"https://japan.zdnet.com/storage/2026/10/15/19361f2c8eeb2027e7219d58e524e29b/t/184/138/d/prfes_ericks_messgae-ai-era01_l.jpg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2026/10/15/19361f2c8eeb2027e7219d58e524e29b/t/184/138/d/prfes_ericks_messgae-ai-era01_l.jpg",
-    "fetched_at": "2026-10-16 08:08:59",
-    "ja_summary": "AIは経営者の代わりではなく、経営者の意図を起点に社内外の情報を整理して意思決定を支援する。\nAIを活用して経営判断の質とスピードを向上させる「AI経営」のあり方を考察する。"
-  },
-  {
-    "title": "L.トーバルズ氏が公表--現在はAIを使って「Linux」カーネルのコードを開発",
-    "link": "https://japan.zdnet.com/article/35253518/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "この動きは、開発者とAI、そしてLinuxとの関係における転換点だ。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35253518/\"><img src=\"https://japan.zdnet.com/storage/2026/10/14/45bcc8e0f488e420fa4a04e35ac6be0a/t/184/138/d/Screenshot-2026-10-13-at-1.27.55-PM_l.jpg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2026/10/14/45bcc8e0f488e420fa4a04e35ac6be0a/t/184/138/d/Screenshot-2026-10-13-at-1.27.55-PM_l.jpg",
-    "fetched_at": "2026-10-16 08:08:59",
-    "ja_summary": "Linuxの生みの親であるリーナス・トーバルズ氏が、Linuxカーネルの開発にAIを導入したことを公表。\n開発現場における人間とAIの関わり方が大きく変わる転換点となる。\n技術の進化に伴い、Linuxの基盤開発においてもAI活用が現実的な手法となった。"
-  },
-  {
-    "title": "生成AIグラビアをグラビアカメラマンが作るとどうなる？第76回：pixel-spaceな新顔画像生成AI「iris-3b」を使いやすくしてみた（西川和久）",
-    "link": "https://www.techno-edge.net/article/2026/10/16/5592.html",
-    "source": "TechnoEdge",
-    "published": "Fri, 16 Oct 2026 07:26:24 +0900",
-    "summary": "10月はFLUX 3 ImageやKrea 3など、新しいのが発表されているが、前者はオープンとはいえ重みは未公開、後者はオープンかどうかは不明でアーリーアクセスのみ。そんな中、登場したのがSperidlabsのiris-3bだ。",
-    "image": "https://www.techno-edge.net/imgs/rss/34811.jpg",
-    "fetched_at": "2026-10-16 08:09:01",
-    "ja_summary": "・新画像生成AI「iris-3b」が登場し、個人環境での扱いやすさを検証。\n・主要な新型AIがクローズドな仕様である中、軽量かつオープンなモデルとして注目。\n・プロカメラマンの視点から、実用的なグラビア制作への活用可能性を探る。"
-  },
-  {
-    "title": "Meta、オープンウェイトAI「Muse Spark Open」を無償公開。アップルが協力、複数Mac Studio使いローカル動作",
-    "link": "https://www.techno-edge.net/article/2026/10/16/5591.html",
-    "source": "TechnoEdge",
-    "published": "Fri, 16 Oct 2026 07:00:03 +0900",
-    "summary": "Metaは、オープンウェイトAIモデル「Muse Spark Open」のウェイト（学習済みの重み・パラメーター）を公開しました。",
-    "image": "https://www.techno-edge.net/imgs/rss/34827.jpg",
-    "fetched_at": "2026-10-16 08:09:01",
-    "ja_summary": "・MetaがオープンウェイトAI「Muse Spark Open」を無償公開\n・Appleが開発に協力し、Mac Studio環境でのローカル動作を実現\n・外部サーバーを介さず、高性能PCによるプライベートなAI利用が可能に"
-  },
-  {
-    "title": "AIを使えばドキュメント整備はいらない？いやいや、今こそ人間が動くときだ",
-    "link": "https://zenn.dev/atamaplus/articles/2c9538a721c613",
-    "source": "Zenn Trends",
-    "published": "Thu, 15 Oct 2026 06:00:23 GMT",
-    "summary": "こんにちは、atama plusでエンジニアをしているyuki_nomuraです。\n最近はAIに社内の情報を探してもらう場面も増えてきたのではないでしょうか。\nそれなら、ドキュメントの整理や見直しもAIに任せて、みんな幸せになりそうです。\nでも、ドキュメントの内容が今も正しいかどうかは、誰がどうやって確認すればいいでしょう？\n…そうです、この記事で私が主張したいことは、AIを使うようになっても、ドキュメントを人間が見直す仕事は残るということです。\n嬉しいですね、まだ仕事がありそうです。\natama plusの開発組織には、エンジニアが業務で参照するドキュメントを集め、継続的にメンテナンス...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--FrgBV6SN--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%25E3%2582%2592%25E4%25BD%25BF%25E3%2581%2588%25E3%2581%25B0%25E3%2583%2589%25E3%2582%25AD%25E3%2583%25A5%25E3%2583%25A1%25E3%2583%25B3%25E3%2583%2588%25E6%2595%25B4%25E5%2582%2599%25E3%2581%25AF%25E3%2581%2584%25E3%2582%2589%25E3%2581%25AA%25E3%2581%2584%25EF%25BC%259F%25E3%2581%2584%25E3%2582%2584%25E3%2581%2584%25E3%2582%2584%25E3%2580%2581%25E4%25BB%258A%25E3%2581%2593%25E3%2581%259D%25E4%25BA%25BA%25E9%2596%2593%25E3%2581%258C%25E5%258B%2595%25E3%2581%258F%25E3%2581%25A8%25E3%2581%258D%25E3%2581%25A0%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:yuki%2520nomura%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2RjOTM3M2I1YWUuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:atama%2520plus%2520techblog%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2QyMTc5NDVkYTkuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "fetched_at": "2026-10-16 08:09:07",
-    "ja_summary": "・AI時代でも、ドキュメントの情報の正確性を判断・保証するのは人間の役割。\n・AIはドキュメントの検索や作成を効率化するが、情報の陳腐化を防ぐメンテナンスは不可欠。\n・技術が進歩しても、ドキュメントを継続的に見直す「人の手による整備」の重要性は変わらない。"
-  },
-  {
-    "title": "2020→2025年｢子どもの人口増加数が大きい自治体｣ランキング…3位は東京都中央区､2位は千葉県流山市､では1位は？ | ライフ | 東洋経済オンライン",
-    "link": "https://toyokeizai.net/articles/-/961379?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-    "source": "東洋経済オンライン",
-    "published": "Fri, 16 Oct 2026 05:00:00 +0900",
-    "summary": "子ども人口が減少傾向にある中､全国で増加した自治体はわずか58にとどまりました。増加数が大きい自治体の特徴や背景をランキング形式で解説します。（このリード文はAIが作成しました）",
-    "image": "https://tk.ismcdn.jp/mwimgs/d/e/1200w/img_de8a80eabceca4704c14de3306a5b773167838.jpg?nextgen=false",
-    "fetched_at": "2026-10-16 05:20:00",
-    "ja_summary": "・全国で子どもの人口が増加した自治体はわずか58に留まる。\n・流山市（2位）や中央区（3位）など、子育て世帯の流入が顕著な都市が上位を占める。\n・子どもの人口減少が加速する中、増加自治体には独自の支援策や住環境の魅力という共通点がある。"
   }
 ]
