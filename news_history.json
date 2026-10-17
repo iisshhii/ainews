@@ -1,5 +1,25 @@
 [
   {
+    "title": "動画【ガバメントAI 開発記録】雇用環境・均等行政の挑戦【①AIに何を任せるか】を公開しました",
+    "link": "https://www.digital.go.jp/policies/genai/employment-equality-01",
+    "source": "デジタル庁",
+    "published": "Thu, 15 Oct 2026 15:00:00 +0900",
+    "summary": "",
+    "image": "https://www.digital.go.jp/themes/custom/gov_theme_da_2023/assets/images/ogp.png",
+    "fetched_at": "2026-10-18 05:32:37",
+    "ja_summary": "・厚生労働省が「雇用環境・均等行政」におけるAI活用プロジェクトの全貌を公開\n・業務効率化や行政サービスの質向上に向け、AIに何を任せるべきかを定義\n・開発プロセスを透明化し、自治体や他省庁への展開モデルを目指す"
+  },
+  {
+    "title": "The Commit You Can't Take Back: Conscience in a Career That Builds the Future",
+    "link": "https://speakerdeck.com/ericmann/the-commit-you-cant-take-back-conscience-in-a-career-that-builds-the-future",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-10-17T15:59:25-04:00",
+    "summary": "Every engineer eventually faces a commit they're not sure they should make. I've faced a few—and walked away from work I couldn't reconcile, including offensive AI targeting in defense and pivotal moments building cryptographic and financial infrastructure where the right call cost something real. This keynote isn't a lecture on morality. It's a candid account from twenty years in the rooms where these decisions get made: defense contracts, DARPA programs, crypto and distributed finance, and now AI. We'll talk about dual-use technology—the same embedding pipeline that powers search can power surveillance—and the quiet, compounding pressure to just ship. We'll talk about what it actually costs to say \"no,\" why \"I just built the tool\" stopped being a defense years ago, and how to build a career where your conscience and your craft don't have to be enemies. You write the future for a living. This is a conversation about doing it on purpose.",
+    "image": "https://files.speakerdeck.com/presentations/7f2649d87cc74aa19adc931d94649666/preview_slide_0.jpg?40955893",
+    "fetched_at": "2026-10-18 05:32:42",
+    "ja_summary": "・エンジニアはAIや国防等の技術開発において、倫理とキャリアの板挟みに直面する。\n・「ただツールを作っただけ」という言い訳は通用せず、技術の悪用可能性を直視する必要がある。\n・良心と技術力を両立させ、意図を持って未来を構築するためのキャリアの築き方を提言する。"
+  },
+  {
     "title": "[JAWS-UG彩の国埼玉#12]そろそろ準備する？re:Invent2026をやさしく解説 / reinvent2026-sainokuni",
     "link": "https://speakerdeck.com/sh_fk2/reinvent2026-sainokuni",
     "source": "Speaker Deck (Tech)",
@@ -978,25 +998,5 @@
     "image": "https://japan.zdnet.com/storage/2026/10/16/9a0b04f815d557e34ad1e6b96741ceef/t/184/138/d/aiagentusecase_l.JPG",
     "fetched_at": "2026-10-16 20:17:10",
     "ja_summary": "・キズキレンタルがセールスフォースのAIエージェントを導入。\n・半年間でビジネス上の明確な成果を創出することに成功。\n・導入の勘所と具体的な活用事例を解説。"
-  },
-  {
-    "title": "AIで何かを作っている人が、日本で一番集まる日。AIクリエイター85サークル、全日本AIハッカソン決勝、AIアートGP授賞式——「AIフェスティバル 2026」11月7日渋谷、入場無料",
-    "link": "https://www.techno-edge.net/article/2026/10/16/5597.html",
-    "source": "TechnoEdge",
-    "published": "Fri, 16 Oct 2026 17:30:03 +0900",
-    "summary": "生成AIを毎日使っている人ほど、「自分以外の人が、AIで何を作っているのか」を生で見る機会は意外と少ないものです。SNSに流れてくる作品や成果物は、どうしてもバズったものに偏ります。",
-    "image": "https://www.techno-edge.net/imgs/rss/34456.png",
-    "fetched_at": "2026-10-16 20:17:12",
-    "ja_summary": "・11月7日、渋谷で国内最大級のAIイベント「AIフェスティバル 2026」が開催。\n・AIクリエイター85サークルの展示や、ハッカソン決勝、アート授賞式を実施。\n・SNSの枠を超え、多種多様なAI活用事例を生で体験できる入場無料の祭典。"
-  },
-  {
-    "title": "Qwen3.8-27Bを約7分の1に圧縮しノートPCで動くLLM「Saluki 27B」、画像と音声にも対応した判断特化型AIファミリー「Open d1」など生成AI技術5つを解説（生成AIウィークリー）",
-    "link": "https://www.techno-edge.net/article/2026/10/16/5596.html",
-    "source": "TechnoEdge",
-    "published": "Fri, 16 Oct 2026 16:20:01 +0900",
-    "summary": "今回の「生成AIウィークリー」（第163回）は、Google開発のマルチモーダル埋め込みAIモデル「EmbeddingGemma 2」や、Qwen3.8-27Bを約8GBに圧縮した軽量モデル「Saluki 27B」を取り上げます。",
-    "image": "https://www.techno-edge.net/imgs/rss/34839.jpg",
-    "fetched_at": "2026-10-16 20:17:12",
-    "ja_summary": "・ノートPCで動作する軽量モデル「Saluki 27B」や、GoogleのマルチモーダルAI「EmbeddingGemma 2」が登場。\n・画像・音声対応の判断特化型AI「Open d1」など、生成AIの最新技術5選を解説。\n・生成AIの技術トレンドを網羅的にキャッチアップできる週刊まとめ記事。"
   }
 ]
