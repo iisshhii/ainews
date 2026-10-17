@@ -1,5 +1,55 @@
 [
   {
+    "title": "レノボ、AI環境の構築支援で新プログラム　サーバーなどを最短15日で出荷",
+    "link": "https://xtech.nikkei.com/atcl/nxt/news/24/03426/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "レノボ・ジャパンは2026年10月15日、企業のAI（人工知能）導入を推進するプログラム「Lenovo AI Express」を発表した。検証済みのシステム構成にすることで、安定的に短期での出荷を実現する。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/news/24/03426/topm.jpg?20220512",
+    "fetched_at": "2026-10-18 00:46:38",
+    "ja_summary": "・レノボが企業のAI導入を支援する新プログラム「Lenovo AI Express」を発表。\n・検証済みシステム構成を採用し、サーバーなどを最短15日で出荷。\n・企業のAI環境構築を迅速化し、早期導入を強力にバックアップする。"
+  },
+  {
+    "title": "揺れるAnthropic、玉虫色のAI自主規制　裁判資料が示すアモデイCEOの葛藤",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03757/100900005/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "AI（人工知能）開発の安全性や倫理をとりわけ重視してきた米Anthropic（アンソロピック）が揺れている。ライバルの存在や中国勢の台頭、間近に迫るIPO（新規株式公開）が、アンソロピックに現実路線への転換を迫る。裁判資料から、ダリオ・アモデイCEO（最高経営責任者）自身の葛藤も見え隠れする。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03757/100900005/topm.jpg?20220512",
+    "fetched_at": "2026-10-18 00:46:42",
+    "ja_summary": "・安全性を重視するAI企業Anthropicが、競争激化とIPOを背景に現実路線への転換を迫られている。\n・ライバルや中国の台頭により、理想と収益性の間で経営判断が揺れている。\n・裁判資料からは、アモデイCEOが安全性を維持しつつ成長を目指す上での深刻な葛藤を抱えていることが判明した。"
+  },
+  {
+    "title": "Amazon、会話を記憶するAIデバイス「Bee」　74.99ドルから",
+    "link": "https://www.watch.impress.co.jp/docs/news/2148709.html",
+    "source": "Impress Watch",
+    "published": "",
+    "summary": "Amazonは15日(米国時間)、会話の内容をAIで要約し、予定やタスクを記憶するパーソナルAIデバイス「Bee」の新製品として、「Bee Frontier」と「Bee Eclipse」を発表した。価格はBee Frontierが74.99ドル。Bee Eclipseは近日発売予定で、価格は99.99ドルから。日本での発売は未定。",
+    "image": "https://www.watch.impress.co.jp/img/ipw/list/2148/709/1.jpg",
+    "fetched_at": "2026-10-18 00:46:46",
+    "ja_summary": "・Amazonが会話を要約し予定を管理するAIデバイス「Bee」の新モデルを発表。\n・価格は「Bee Frontier」が74.99ドル、「Bee Eclipse」が99.99ドルから。\n・日本国内での発売は現時点で未定。"
+  },
+  {
+    "title": "JenkinsからGitHub Actionsに移行して、CI/CDをAIにも人にも触れる形にした",
+    "link": "https://zenn.dev/ceres_tech_blog/articles/7c5d1b9d29e621",
+    "source": "Zenn Trends",
+    "published": "Fri, 16 Oct 2026 10:03:52 GMT",
+    "summary": "はじめに\nClaude Codeで開発していると、コードの多くはAIに任せられます。\nところがCI/CDまわりは、コードも設定も、AIに渡せる形になっていませんでした。\nJenkinsのジョブ設定はサーバー上のGUIと独自スクリプトの中にあり、リポジトリにあるのはJenkinsから呼ばれるシェルスクリプトだけで、Jenkinsfileもありません。\nジョブの流れや設定の全体はAIから見えず、設定まわりのトラブルも、人が画面や環境を見て直すしかありませんでした。\n一方GitHub Actionsなら、環境構築を setup-java などの公式Actionsに任せられ、自前で作り込む部...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--tQpVcTcm--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Jenkins%25E3%2581%258B%25E3%2582%2589GitHub%2520Actions%25E3%2581%25AB%25E7%25A7%25BB%25E8%25A1%258C%25E3%2581%2597%25E3%2581%25A6%25E3%2580%2581CI%252FCD%25E3%2582%2592AI%25E3%2581%25AB%25E3%2582%2582%25E4%25BA%25BA%25E3%2581%25AB%25E3%2582%2582%25E8%25A7%25A6%25E3%2582%258C%25E3%2582%258B%25E5%25BD%25A2%25E3%2581%25AB%25E3%2581%2597%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:kage%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzdmOTgyMDhiNzEuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E6%25A0%25AA%25E5%25BC%258F%25E4%25BC%259A%25E7%25A4%25BE%25E3%2582%25BB%25E3%2583%25AC%25E3%2582%25B9%2520Tech%2520Blog%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzI2MmI2YmQ0ZDQuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-10-18 00:46:56",
+    "ja_summary": "要約の生成に失敗しました。"
+  },
+  {
+    "title": "オントロジーって 結局なにもの？ AI エージェントに「意味」を渡す知識設計の話",
+    "link": "https://speakerdeck.com/greenmidori/what-is-ontology-a47ed1ff-487b-49a3-8683-a8c026fe9333",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-10-17T09:36:37-04:00",
+    "summary": "生成AIやRAGの文脈で「オントロジー」という言葉を耳にする機会が増えてきました。一方で、「タクソノミーと何が違うのか」「DBのスキーマやナレッジグラフとは別物なのか」と聞かれると、説明に詰まる方も多いのではないでしょうか。本セッションでは、オントロジーを「モノ・関係・ルールを機械が扱える形で記述した、業務の地図」と捉え直し、よくある誤解を整理しながら基礎から解説します。そのうえで、LLMがどれだけ賢くなっても現場で答えられない質問が残る理由、そしてRAGが「文書を探す」のに対してオントロジーが「意味を辿る」ことで何が可能になるのかを、AIエージェント設計の観点からお話しします。後半では、オントロジーを組み込んだエージェントで実際に直面する課題と、それに対して私たちが現在取り組んでいる多層構造のオントロジー設計の構想をご紹介します。",
+    "image": "https://files.speakerdeck.com/presentations/9e31f808deb04d6594848617d8ca7147/preview_slide_0.jpg?40955049",
+    "fetched_at": "2026-10-18 00:46:57",
+    "ja_summary": "・「オントロジー」とは、AIに業務の文脈や意味を理解させるための「機械が扱える業務の地図」。\n・RAGが単に文書を探すのに対し、オントロジーは概念同士の「意味を辿る」ことでAIの推論能力を補完する。\n・AIエージェントの精度向上には、文書検索だけでなく、モノ・関係・ルールを体系化した構造的な知識設計が不可欠である。"
+  },
+  {
     "title": "リコー、MoE型マルチモーダルLLMを開発--日本語での推論性能を向上",
     "link": "https://japan.zdnet.com/article/35253636/",
     "source": "ZDNET Japan",
@@ -948,55 +998,5 @@
     "image": "https://www.digital.go.jp/themes/custom/gov_theme_da_2023/assets/images/ogp.png",
     "fetched_at": "2026-10-16 20:17:12",
     "ja_summary": "厚生労働省が「ガバメントAI」の開発記録動画を公開。\n行政の業務効率化を目指し、AIに何を任せるべきか、雇用・均等行政での挑戦を紹介。\n官公庁におけるAI活用の方針と現場の取り組みを共有する内容。"
-  },
-  {
-    "title": "スプシの手作業からの解脱 ~更新はClaude Codeに、見せ方と使い方はGASアプリに任せる~",
-    "link": "https://speakerdeck.com/kentarofujii/kentaro-fujii-claude-spreadsheet",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-10-16T07:00:08-04:00",
-    "summary": "実務でのAI活用術 〜Excel・スプシ編〜 - LT Night -\nClaude Code × GASによるスプシ活用",
-    "image": "https://files.speakerdeck.com/presentations/c91939b8896847eb8984623bb75a2693/preview_slide_0.jpg?40942414",
-    "fetched_at": "2026-10-16 20:17:18",
-    "ja_summary": "・スプレッドシートの手作業をAIで自動化し、業務効率を最大化する。\n・データ更新は「Claude Code」に任せ、集計や可視化は「GASアプリ」で構築。\n・AIとGASを連携させ、手作業からの脱却と業務運用の仕組み化を実現する。"
-  },
-  {
-    "title": "AI導入は済んだ。次は統制を作り替える番だ_AI×開発組織 Summit 2026",
-    "link": "https://speakerdeck.com/techtekt/gatekeeper-to-accelerator",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-10-16T04:23:36-04:00",
-    "summary": "AIツールが普及した今、ボトルネックはコードを書く速さではなく、「誰が何を根拠に決めるか」という組織の意思決定構造に移りつつある。本セッションでは、7,000人規模・レガシー基幹システムを抱える企業が進める3つの再設計を紹介する。①ガードレール化による統制改革 ②逆コンウェイ戦略による組織再設計 ③AI前提の人材・管理職要件の見直し――IT組織を「ゲートキーパー」から「アクセラレーター」へ転換するための実践と、いま直面している課題を率直に共有する。",
-    "image": "https://files.speakerdeck.com/presentations/93077ae2586f4bce9631e9e508113b3a/preview_slide_0.jpg?40939716",
-    "fetched_at": "2026-10-16 20:17:18",
-    "ja_summary": "・AI導入後の課題は開発速度ではなく、組織の意思決定構造の刷新にある。\n・統制の自動化、組織再編、人材要件の再定義という3つの視点で変革を推進。\n・IT組織を単なる監視役から、AI活用を加速させる主体へと転換する実践知を共有。"
-  },
-  {
-    "title": "Tofu-Controller lightning talk @ Containerday 2026",
-    "link": "https://speakerdeck.com/gionn/tofu-controller-lightning-talk-at-containerday-2026",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-10-16T02:42:40-04:00",
-    "summary": "Slides for a 15-minute lightning talk at ContainerDay on running existing Terraform inside Kubernetes GitOps with tofu-controller, instead of rewriting it.\n\nThe talk covers the Terraform custom resource, writing outputs to Secrets, ordering stacks and apps with dependsOn, approving plans through Git, drift detection, and the trade-offs.",
-    "image": "https://files.speakerdeck.com/presentations/fb6818b4ff0647b5b94d61ebf35f1968/preview_slide_0.jpg?40937724",
-    "fetched_at": "2026-10-16 20:17:18",
-    "ja_summary": "Kubernetes GitOpsで既存Terraformを書き換えずに実行する「Tofu-Controller」を紹介。\nTerraformリソース、Secretsへの出力、依存関係、Git承認、ドリフト検出などを解説。\n既存資産を活かし、Kubernetes上でTerraformを効率的に管理する手法を提案。"
-  },
-  {
-    "title": "DATA × AIをスケールさせるデータ基盤へ ― セルフサービスで実現するデータ品質管理 / Shibuya_AI_6",
-    "link": "https://speakerdeck.com/visional_engineering_and_design/shibuya-ai-6",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-10-16T00:48:49-04:00",
-    "summary": "2026年10月16日開催の「渋谷 Biz × AI: ビジネスにおける AI 利活用 事例勉強会 第6回」の登壇資料です。\nhttps://cyberagent.connpass.com/event/406165/\n\n▼関連資料\n1人1アプリから標準化へ：Vertex AIを活用したMLOps推進\nhttps://speakerdeck.com/visional_engineering_and_design/shibuya-ai-4\n\n技術的負債から考える、AI時代のエンジニアリング投資 — ビズリーチの技術的負債と向き合った経験から、変更し続けられるソフトウェアを考える\nhttps://speakerdeck.com/visional_engineering_and_design/technical-debt-con2026\n\nAI駆動開発が変える、大規模開発の前提 ーHuman in the Loop から Human on the Loop へ\nhttps://speakerdeck.com/visional_engineering_and_design/aie2026\n\nPercolatorを廃止し、マルチ検索サービスへ刷新した話\nhttps://speakerdeck.com/visional_engineering_and_design/search-engineering-tech-talk-2026-spring\n\nブラックボックス化したMLシステムのVertex AI移行\nhttps://speakerdeck.com/visional_engineering_and_design/mlops-community-62\n\nビズリーチにおける検索・推薦の取り組み \nhttps://speakerdeck.com/visional_engineering_and_design/deim2026\n\n\n-----\nVisionalのエンジニアリングに関する最新情報はX、ブログで発信しています！📣\n\n▼Visional Engineering Blog\nhttps://engineering.visional.inc/blog/\n\n▼VISIONAL ENGINEERING / X\nhttps://twitter.com/VISIONAL_ENG",
-    "image": "https://files.speakerdeck.com/presentations/081e220ff3ad444ba52cc4e8daa61d77/preview_slide_0.jpg?40935997",
-    "fetched_at": "2026-10-16 20:17:18",
-    "ja_summary": "・AI活用を加速させるため、データ品質管理を誰もが利用できる「セルフサービス型」の基盤へと刷新。\n・データ基盤の整備により、AI開発の効率化と品質維持を両立させる仕組みを構築。\n・VisionalグループのAI・検索・MLOps等に関するエンジニアリング事例を網羅した知見集。"
-  },
-  {
-    "title": "｢ハーバード卒なのに仕事がない？｣AI時代のアメリカで始まった《エリート受難》､日本人にも迫る厳しい現実 | ライフ | 東洋経済オンライン",
-    "link": "https://toyokeizai.net/articles/-/959480?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-    "source": "東洋経済オンライン",
-    "published": "Fri, 16 Oct 2026 10:30:00 +0900",
-    "summary": "AIの進化によってアメリカの労働市場は一変し､名門ハーバード卒業生でさえ安定した職に就けない現実が広がっています。この波はやがて日本にも到来し､今のスキルに安住できる時代は終わろうとしています。",
-    "image": "https://tk.ismcdn.jp/mwimgs/d/b/1200w/img_db180ddf57197bb69380cc7e254ec39e351289.jpg?nextgen=false",
-    "fetched_at": "2026-10-16 15:01:25",
-    "ja_summary": "AI時代、ハーバード卒でも職探しが困難に。\nアメリカで始まったエリートの失業が、日本にも波及。\nスキルに安住できる時代は終わり、変化への適応が不可欠。"
   }
 ]
