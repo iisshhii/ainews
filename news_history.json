@@ -1,5 +1,55 @@
 [
   {
+    "title": "AnthropicのAI時代のコードレビュー術 - Claude Codeによる自動レビューと人間の役割",
+    "link": "https://note.com/npaka/n/ndb4b0f424ced",
+    "source": "note (npaka)",
+    "published": "Sat, 17 Oct 2026 07:39:22 +0900",
+    "summary": "<p id=\"2b961e7a-8eca-460d-b493-972c5f54573b\" name=\"2b961e7a-8eca-460d-b493-972c5f54573b\">以下の記事が面白かったので、簡単にまとめました。</p><figure id=\"43a3fe5b-9562-4c73-b4ae-16fe11a7c26a\" name=\"43a3fe5b-9562-4c73-b4ae-16fe11a7c26a\"><blockquote><p id=\"f6ff475d-57f9-400d-9fb3-6a8f4c99bd95\" name=\"f6ff475d-57f9-400d-9fb3-6a8f4c99bd95\"><strong>・</strong><a href=\"https://claude.dev/blog/solving-code-review-at-anthropic/\" rel=\"nofollow noopener\" target=\"_blank\"><strong>How the Claude Code team does code review</strong></a></p></blockquote>\n<figcaption></figcaption></figure><br /><a href=\"https://note.com/npaka/n/ndb4b0f424ced\">続きをみる</a>",
+    "image": "https://assets.st-note.com/production/uploads/images/325190045/rectangle_large_type_2_49aa4679e0b0349bf13930b746fb2181.png?width=800",
+    "fetched_at": "2026-10-19 03:56:24",
+    "ja_summary": "・Anthropic社は「Claude Code」を活用し、AIによる自動レビューで定型的な修正を効率化している。\n・AIはコードの構文チェックやテストを行い、人間はビジネスロジックや設計方針の判断に集中する。\n・AIと人間が役割分担することで、コード品質を維持しつつ開発スピードを最大化している。"
+  },
+  {
+    "title": "ASPIRE v1.0 の概要 - ロボットが自らスキルを発見・改善するAIフレームワーク",
+    "link": "https://note.com/npaka/n/n79635d25ee1a",
+    "source": "note (npaka)",
+    "published": "Sat, 17 Oct 2026 07:19:04 +0900",
+    "summary": "<p id=\"710bc0f6-8573-4a6f-9737-8c323544da2b\" name=\"710bc0f6-8573-4a6f-9737-8c323544da2b\">「ASPIRE v1.0 の概要」をまとめました。</p><br /><br /><a href=\"https://note.com/npaka/n/n79635d25ee1a\">続きをみる</a>",
+    "image": "https://assets.st-note.com/production/uploads/images/325187846/rectangle_large_type_2_0d7c5cb89ca37e0066ce5e0298232f56.jpeg?width=800",
+    "fetched_at": "2026-10-19 03:56:24",
+    "ja_summary": "・ロボットが自律的に新しいスキルを発見・改善できるAIフレームワーク「ASPIRE v1.0」が登場。\n・試行錯誤を通じて動作を最適化し、タスク遂行能力を効率的に向上させる。\n・ロボットの学習プロセスを自動化・高度化することで、適応力の高いAI開発を支援する。"
+  },
+  {
+    "title": "生成AIグラビアをグラビアカメラマンが作るとどうなる？第76回：pixel-spaceな新顔画像生成AI「iris-3b」を使いやすくしてみた（西川和久）",
+    "link": "https://www.techno-edge.net/article/2026/10/16/5592.html",
+    "source": "TechnoEdge",
+    "published": "Fri, 16 Oct 2026 07:26:24 +0900",
+    "summary": "10月はFLUX 3 ImageやKrea 3など、新しいのが発表されているが、前者はオープンとはいえ重みは未公開、後者はオープンかどうかは不明でアーリーアクセスのみ。そんな中、登場したのがSperidlabsのiris-3bだ。",
+    "image": "https://www.techno-edge.net/imgs/rss/34811.jpg",
+    "fetched_at": "2026-10-19 03:56:29",
+    "ja_summary": "・新たな画像生成AI「iris-3b」が登場し、扱いやすさが向上。\n・主要な新AIが公開制限や重み非公開である中、本モデルは高い利便性を実現。\n・プロカメラマンの視点で、生成AIグラビア制作における有用性を検証。"
+  },
+  {
+    "title": "Meta、オープンウェイトAI「Muse Spark Open」を無償公開。アップルが協力、複数Mac Studio使いローカル動作",
+    "link": "https://www.techno-edge.net/article/2026/10/16/5591.html",
+    "source": "TechnoEdge",
+    "published": "Fri, 16 Oct 2026 07:00:03 +0900",
+    "summary": "Metaは、オープンウェイトAIモデル「Muse Spark Open」のウェイト（学習済みの重み・パラメーター）を公開しました。",
+    "image": "https://www.techno-edge.net/imgs/rss/34827.jpg",
+    "fetched_at": "2026-10-19 03:56:29",
+    "ja_summary": "・MetaがオープンウェイトAI「Muse Spark Open」を無償公開。\n・Appleが開発協力し、複数のMac Studioを用いたローカル環境での動作が可能。\n・外部サーバーを介さず、高性能なAIモデルを環境構築できる点が大きな特徴。"
+  },
+  {
+    "title": "How Itaú is building generative AI for its entire customer base",
+    "link": "https://openai.com/index/itau-generative-ai",
+    "source": "OpenAI",
+    "published": "Fri, 16 Oct 2026 19:00:00 GMT",
+    "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/5f6g1v0mGiFwS4OuWQJpZ/ea1b571975a4668874331d6d068bfdcb/itau-social-optical-r2.png?w=1600&amp;h=900&amp;fit=fill",
+    "fetched_at": "2026-10-19 03:56:29",
+    "ja_summary": "・ブラジルの金融大手Itaúが、AI戦略を全顧客・従業員向けに本格展開。\n・対話型AI「ia.i」とガバナンス基盤「IARA」を構築し、サービスを刷新。\n・厳格な金融規制下で、安全性と利便性を両立するAI活用モデルを確立。"
+  },
+  {
     "title": "「800円が1万円に」　前世代メモリーが高騰、メタは再利用技術を開発 (分断時代の経済安保)",
     "link": "https://business.nikkei.com/atcl/gen/19/00800/101500046/",
     "source": "日経ビジネス 最新",
@@ -948,55 +998,5 @@
     "image": "https://files.speakerdeck.com/presentations/f9e7f39a2e9f494e8025037106d4df05/preview_slide_0.jpg?40950089",
     "fetched_at": "2026-10-17 13:20:04",
     "ja_summary": "パーソルキャリアは、AIが自律的かつ高精度に判断を下せるよう、データの意味や来歴を管理する「インテリジェンスプラットフォーム」を構築しています。\nデータの品質と鮮度をシステム的に保証する「データメッシュ」構造を採用し、アジリティとガバナンスを両立させる仕組みを導入しました。\n属人的な運用に頼らず、アーキテクチャを通じてデータから知能が循環する自律型エコシステムの実現を目指します。"
-  },
-  {
-    "title": "API キーはどこから漏れるのか？ 自分のサイトに来た .env 探し 1,566 件と、公開事例を 7 つの経路に分けてみた",
-    "link": "https://qiita.com/songchong/items/02672765fe53f911a1a0",
-    "source": "Qiita (Popular)",
-    "published": "2026-10-05T09:13:39+09:00",
-    "summary": "\n![API キーが漏れる 7 つの経路（左）と、それぞれ先にすること（右）を矢印でつないだ図。サーバーや公開の置き場から 3 つ: ①公開リポジトリ（いちばん多い。2025 年の 1 年で 2,865 万件）→ 漏れた鍵を取り消す、プッシュ保護とシークレットスキャンも使う、②Web サイトの公開フォルダ → .env や .git を公開フォルダに置かない、③配るパッケージ・コンテナイメージ →",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGNTY2NzAlMkZwcm9maWxlLWltYWdlcyUyRjE3ODcyMzgxODE_aXhsaWI9cmItNC4xLjEmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPWU3NzQ3ZjMzNzE4MDJjYjI2M2FjMjM3NzUzODlmOTE5%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Dc73920274995f5a321a69858db1e61f3?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9QVBJJTIwJUUzJTgyJUFEJUUzJTgzJUJDJUUzJTgxJUFGJUUzJTgxJUE5JUUzJTgxJTkzJUUzJTgxJThCJUUzJTgyJTg5JUU2JUJDJThGJUUzJTgyJThDJUUzJTgyJThCJUUzJTgxJUFFJUUzJTgxJThCJUVGJUJDJTlGJTIwJUU4JTg3JUFBJUU1JTg4JTg2JUUzJTgxJUFFJUUzJTgyJUI1JUUzJTgyJUE0JUUzJTgzJTg4JUUzJTgxJUFCJUU2JTlEJUE1JUUzJTgxJTlGJTIwLmVudiUyMCVFNiU4RSVBMiVFMyU4MSU5NyUyMDElMkM1NjYlMjAlRTQlQkIlQjYlRTMlODElQTglRTMlODAlODElRTUlODUlQUMlRTklOTYlOEIlRTQlQkElOEIlRTQlQkUlOEIlRTMlODIlOTIlMjA3JTIwJUUzJTgxJUE0JUUzJTgxJUFFJUU3JUI1JThDJUU4JUI3JUFGJUUzJTgxJUFCJUU1JTg4JTg2JUUyJTgwJUE2JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9YjYxOGFlMDhiOTI2OGQzMjkxYTVhMjA2OTFiM2JjODA&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBzb25nY2hvbmcmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1jYThhODE5MGI3ZTMyOWM0MDRkZTcyYjU3YzZiNzYwNA&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=400f9a4520d9d686033a0c0c3deb7f16",
-    "fetched_at": "2026-10-17 13:20:05",
-    "ja_summary": "・APIキー流出の主因は「公開リポジトリへの誤アップロード」で、年間数千万件に及ぶ。\n・原因はWeb公開フォルダへの設定ファイル配置や、配布用パッケージへの混入など計7経路。\n・流出を防ぐため、キーの無効化・スキャン機能の利用、公開フォルダの設定見直しが必須。"
-  },
-  {
-    "title": "成田空港、落とし物の「AI検索サービス」導入　スタッフの負担軽減",
-    "link": "https://www.itmedia.co.jp/business/articles/2610/17/news012.html",
-    "source": "ITmedia ビジネス",
-    "published": "Sat, 17 Oct 2026 08:00:00 +0900",
-    "summary": "成田国際空港会社（NAA）は、AIを使って空港内の落とし物を検索するサービス「落とし物クラウドfind（ファインド）」を導入した。24時間問い合わせることが可能で、持ち主はチャット上でやり取りする。返却率の向上とともに、落とし物担当スタッフの業務負担の軽減を図る。",
-    "image": "https://image.itmedia.co.jp/business/articles/2610/17/cover_news012.jpg",
-    "fetched_at": "2026-10-17 09:04:04",
-    "ja_summary": "・成田空港が落とし物検索AI「find」を導入。\n・24時間チャット対応で利用者の利便性を向上。\n・問い合わせ自動化により、スタッフの業務負担を軽減。"
-  },
-  {
-    "title": "アマゾン「プライム感謝祭」開催中　iPhone Airなどから日用品まで",
-    "link": "https://www.watch.impress.co.jp/docs/news/2148911.html",
-    "source": "Impress Watch",
-    "published": "",
-    "summary": "Amazonのプライム会員限定セール「プライム感謝祭」が開催中です。秋を楽しむための商品をはじめ、人気ブランドや話題の商品、Amazon限定商品など、400万点以上を特別価格で販売します。期間は10月19日23時59分までですので、この週末に買い忘れがないよう、チェックしておきましょう。",
-    "image": "https://www.watch.impress.co.jp/img/ipw/list/2148/911/prime0.jpg",
-    "fetched_at": "2026-10-17 09:04:21",
-    "ja_summary": "・Amazonプライム会員限定セール「プライム感謝祭」が開催中\n・家電や日用品など400万点以上を特別価格で販売\n・期間は10月19日23時59分まで、週末の早めのチェックを推奨"
-  },
-  {
-    "title": "音声AI「Grok Voice 3.0」　応答1秒未満　テスラにも搭載",
-    "link": "https://www.watch.impress.co.jp/docs/news/2148932.html",
-    "source": "Impress Watch",
-    "published": "",
-    "summary": "xAI(SpaceXSI)は14日、音声対話AIモデル「Grok Voice 3.0」を発表し、開発者向けの「Grok Voice API」で提供開始した。利用料金は1分あたり0.08ドル(1時間あたり4.80ドル)で、従来モデルから据え置く。",
-    "image": "https://www.watch.impress.co.jp/img/ipw/list/2148/932/01.jpg",
-    "fetched_at": "2026-10-17 09:04:22",
-    "ja_summary": "・xAIが音声対話AI「Grok Voice 3.0」を発表し、API提供を開始。\n・応答速度は1秒未満を実現し、テスラ車両への搭載も決定。\n・料金は従来据え置きの1分あたり0.08ドルで利用可能。"
-  },
-  {
-    "title": "JR東海、次期新幹線「S0系」を2029年投入　自動運転、新たなグリーン席も",
-    "link": "https://japan.cnet.com/article/35253662/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "JR東海は10月16日、東海道・山陽新幹線の次期車両「S0系」を発表した。N700S以来のフルモデルチェンジとなり、2029年7月に営業運転を始める予定。運転士が乗務する自動運転システムを搭載し、グリーン車の座席や荷物置場、洗面・トイレ設備も刷新する。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35253662/\"><img src=\"https://japan.cnet.com/storage/thumbnails/thumb-184xauto-1355976-file.jpeg\" /></a>",
-    "image": "https://japan.cnet.com/storage/thumbnails/thumb-184xauto-1355976-file.jpeg",
-    "fetched_at": "2026-10-17 09:04:26",
-    "ja_summary": "・JR東海が次期新幹線「S0系」を2029年7月に投入、N700S以来のフルモデルチェンジ。\n・運転士が乗務する自動運転システムを導入し、運行効率を向上。\n・グリーン車の座席やトイレ、荷物置場などの車内設備を大幅に刷新。"
   }
 ]
