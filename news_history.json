@@ -1,5 +1,165 @@
 [
   {
+    "title": "生成AIの情報漏洩や改ざんに要注意、賢く使って現場で学ぶ時間を増やす",
+    "link": "https://xtech.nikkei.com/atcl/nxt/mag/ncr/18/00272/100800006/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "生成AI（人工知能）の活用で注意したいのが、情報漏洩や改ざんだ。備えとしてガイドライン整備や改ざん検知技術の開発・実装が進む。リスクに賢く対応し、書類作業を減らして現場で学ぶ時間を確保したい。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/mag/ncr/18/00272/100800006/sns_50.jpg?20220512",
+    "fetched_at": "2026-10-20 04:19:30",
+    "ja_summary": "生成AI活用で情報漏洩・改ざんに注意。\nガイドライン整備と技術開発でリスク対策を進める。\n書類作業を減らし、現場で学ぶ時間を増やそう。"
+  },
+  {
+    "title": "現場管理に役立つ生成AI活用4選、特記仕様書の解読や安全教育を省力化",
+    "link": "https://xtech.nikkei.com/atcl/nxt/mag/ncr/18/00272/100800005/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "施工計画の作成など高度な業務へ生成AI（人工知能）をいきなり活用するのはハードルが高い。資料の整理や安全管理、若手教育など身近な業務の省力化から試すのが手だ。今日から実践できる活用例を伝授する。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/mag/ncr/18/00272/100800005/sns_47.jpg?20220512",
+    "fetched_at": "2026-10-20 04:19:31",
+    "ja_summary": "・建設現場では、いきなり高度な業務にAIを導入せず、身近な事務作業から始めるのが効率的。\n・資料整理や特記仕様書の解読、安全管理、若手教育といった業務の省力化に活用可能。\n・まずは小さな業務からAIを導入し、徐々に活用範囲を広げることが成功の鍵。"
+  },
+  {
+    "title": "土木技術者が生成AIでアプリ自作、現場管理や資料作成を効率化",
+    "link": "https://xtech.nikkei.com/atcl/nxt/mag/ncr/18/00272/100800004/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "広島市の地場建設会社、鴻治組ではプログラミング未経験の土木技術者が生成AI（人工知能）を活用してWebアプリを自作する。現場管理や書類作成などの業務効率化アプリを、半年で計11個開発した。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/mag/ncr/18/00272/100800004/sns_46.jpg?20220512",
+    "fetched_at": "2026-10-20 04:19:32",
+    "ja_summary": "・広島市の建設会社で、プログラミング未経験の土木技術者が生成AIを活用して業務アプリを自作。\n・現場管理や資料作成の効率化を目指し、半年間で11個のアプリを開発した。\n・専門知識がなくてもAIを用いることで、現場主導のDXが加速している。"
+  },
+  {
+    "title": "事前学習不要、生成AIで現場監視　KY活動も会話から記録・評価",
+    "link": "https://xtech.nikkei.com/atcl/nxt/mag/ncr/18/00272/100800003/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "施工現場の安全管理は、質の向上が最も求められる業務の一つだ。技術者の目や知見を生成AI（人工知能）でサポートする技術の導入が進む。日々の危険予知（KY）活動など安全対策の形骸化も防げる。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/mag/ncr/18/00272/100800003/sns_44.jpg?20220512",
+    "fetched_at": "2026-10-20 04:19:33",
+    "ja_summary": "・生成AIで施工現場の監視や危険予知活動を支援し、安全管理の質を向上。\n・事前学習なしで導入可能、会話から安全対策の記録・評価を自動化。\n・形骸化しがちな安全業務をAIが補完し、技術者の負担軽減と実効性を担保。"
+  },
+  {
+    "title": "国交省がフィジカルAIの重点8分野選定",
+    "link": "https://xtech.nikkei.com/atcl/nxt/mag/ncr/18/00005/100901055/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "国土交通省は建設分野の現場にフィジカルAI（人工知能）を導入するため、産官学が連携するコンソーシアムを早ければ2026年11月に設立すると明らかにした。具体的な目標や開発方針などを議論する。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/mag/ncr/18/00005/100901055/sns_31.jpg?20220512",
+    "fetched_at": "2026-10-20 04:19:33",
+    "ja_summary": "・国交省が建設現場への「フィジカルAI」導入を推進。\n・産官学連携のコンソーシアムを2026年11月頃に設立。\n・重点8分野を選定し、具体的な開発方針や目標を議論へ。"
+  },
+  {
+    "title": "AnthropicのAI時代のコードレビュー術 - Claude Codeによる自動レビューと人間の役割",
+    "link": "https://note.com/npaka/n/ndb4b0f424ced",
+    "source": "note (npaka)",
+    "published": "Sat, 17 Oct 2026 07:39:22 +0900",
+    "summary": "<p id=\"2b961e7a-8eca-460d-b493-972c5f54573b\" name=\"2b961e7a-8eca-460d-b493-972c5f54573b\">以下の記事が面白かったので、簡単にまとめました。</p><figure id=\"43a3fe5b-9562-4c73-b4ae-16fe11a7c26a\" name=\"43a3fe5b-9562-4c73-b4ae-16fe11a7c26a\"><blockquote><p id=\"f6ff475d-57f9-400d-9fb3-6a8f4c99bd95\" name=\"f6ff475d-57f9-400d-9fb3-6a8f4c99bd95\"><strong>・</strong><a href=\"https://claude.dev/blog/solving-code-review-at-anthropic/\" rel=\"nofollow noopener\" target=\"_blank\"><strong>How the Claude Code team does code review</strong></a></p></blockquote>\n<figcaption></figcaption></figure><br /><a href=\"https://note.com/npaka/n/ndb4b0f424ced\">続きをみる</a>",
+    "image": "https://assets.st-note.com/production/uploads/images/325190045/rectangle_large_type_2_49aa4679e0b0349bf13930b746fb2181.png?width=800",
+    "fetched_at": "2026-10-20 04:19:41",
+    "ja_summary": "・Anthropicは、AIツール「Claude Code」を活用してコードレビューを効率化し、開発サイクルの高速化を実現している。\n・AIがコードの修正やチェックを自動で行い、人間は複雑な設計判断や最終確認に集中する体制を構築した。\n・技術的なルーチンワークをAIに委ねることで、開発チームの生産性とコードの品質を両立させている。"
+  },
+  {
+    "title": "ASPIRE v1.0 の概要 - ロボットが自らスキルを発見・改善するAIフレームワーク",
+    "link": "https://note.com/npaka/n/n79635d25ee1a",
+    "source": "note (npaka)",
+    "published": "Sat, 17 Oct 2026 07:19:04 +0900",
+    "summary": "<p id=\"710bc0f6-8573-4a6f-9737-8c323544da2b\" name=\"710bc0f6-8573-4a6f-9737-8c323544da2b\">「ASPIRE v1.0 の概要」をまとめました。</p><br /><br /><a href=\"https://note.com/npaka/n/n79635d25ee1a\">続きをみる</a>",
+    "image": "https://assets.st-note.com/production/uploads/images/325187846/rectangle_large_type_2_0d7c5cb89ca37e0066ce5e0298232f56.jpeg?width=800",
+    "fetched_at": "2026-10-20 04:19:41",
+    "ja_summary": "ロボットがAIで自らスキルを学び、上達するフレームワーク「ASPIRE v1.0」が登場。\nこれにより、ロボットはより多様で複雑な作業をこなせるようになる。\n今後のロボット開発における重要な一歩となる。"
+  },
+  {
+    "title": "現役 iPhoneやiPadも大幅安、Amazonプライム感謝祭セール開催中　Apple Watch や AirPods も",
+    "link": "https://www.techno-edge.net/article/2026/10/18/5602.html",
+    "source": "TechnoEdge",
+    "published": "Sun, 18 Oct 2026 20:00:03 +0900",
+    "summary": "10月19日まで開催中のAmazonプライム感謝祭では、現役モデルのApple製品もセール対象です。",
+    "image": "https://www.techno-edge.net/imgs/rss/34884.jpg",
+    "fetched_at": "2026-10-20 04:19:47",
+    "ja_summary": "Amazonプライム感謝祭で現行iPhone・iPad・Apple Watch・AirPodsが大幅値下げ。\nセールは10月19日まで。\n人気のApple製品をお得に購入するチャンス。"
+  },
+  {
+    "title": "生成AIグラビアをグラビアカメラマンが作るとどうなる？第76回：pixel-spaceな新顔画像生成AI「iris-3b」を使いやすくしてみた（西川和久）",
+    "link": "https://www.techno-edge.net/article/2026/10/16/5592.html",
+    "source": "TechnoEdge",
+    "published": "Fri, 16 Oct 2026 07:26:24 +0900",
+    "summary": "10月はFLUX 3 ImageやKrea 3など、新しいのが発表されているが、前者はオープンとはいえ重みは未公開、後者はオープンかどうかは不明でアーリーアクセスのみ。そんな中、登場したのがSperidlabsのiris-3bだ。",
+    "image": "https://www.techno-edge.net/imgs/rss/34811.jpg",
+    "fetched_at": "2026-10-20 04:19:47",
+    "ja_summary": "新顔画像生成AI「iris-3b」が登場。\nオープンソースで、既存AIにない特徴を持つ。\n使いやすく改良し、グラビアカメラマンが試した。"
+  },
+  {
+    "title": "How Itaú is building generative AI for its entire customer base",
+    "link": "https://openai.com/index/itau-generative-ai",
+    "source": "OpenAI",
+    "published": "Fri, 16 Oct 2026 19:00:00 GMT",
+    "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/5f6g1v0mGiFwS4OuWQJpZ/ea1b571975a4668874331d6d068bfdcb/itau-social-optical-r2.png?w=1600&amp;h=900&amp;fit=fill",
+    "fetched_at": "2026-10-20 04:19:48",
+    "ja_summary": "・ブラジル最大の銀行Itaúが「AIファースト」戦略を掲げ、全顧客・従業員向けに生成AIを導入。\n・対話型インターフェース「ia.i」と統制プラットフォーム「IARA」で利便性と安全性を両立。\n・厳格な金融規制下においても、組織全体で大規模な生成AI活用を実現。"
+  },
+  {
+    "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+    "link": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+    "source": "OpenAI",
+    "published": "Fri, 16 Oct 2026 00:00:00 GMT",
+    "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/4HTc2pk7XGFhzDU8RX0Ivg/ff2b922fa1914350c9d800da622ebe04/stack-overflow-social.png?w=1600&amp;h=900&amp;fit=fill",
+    "fetched_at": "2026-10-20 04:19:48",
+    "ja_summary": "・Stack Overflowが開発したAIエージェント向けツールが、ChatGPTプラグインの導入で登録者数を3倍に拡大。\n・エンジニア2名による数週間の短期間開発が、エージェント作成数最大10倍の急成長を実現した。"
+  },
+  {
+    "title": "Teaching students to think and learn through questions",
+    "link": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+    "source": "OpenAI",
+    "published": "Thu, 15 Oct 2026 13:00:00 GMT",
+    "summary": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/16A5mkf828KStF68ijvmN1/2f720d42bb308b9c1ab0edc26a047a17/teaching-students-to-think-and-learn-through-questions-social.png?w=1600&amp;h=900&amp;fit=fill",
+    "fetched_at": "2026-10-20 04:19:48",
+    "ja_summary": "・教師の日を記念し、ブラジル・ポルトガル語版のAI教育支援ツールを提供開始\n・「スタディモード」機能で、生徒の思考力を養う対話型の学習支援を実現\n・AIが段階的な問いかけを行うことで、能動的な学びをサポートする手法を提示"
+  },
+  {
+    "title": "Amp puts AI agents to work beyond code with OpenAI models",
+    "link": "https://openai.com/index/amp-beyond-coding",
+    "source": "OpenAI",
+    "published": "Wed, 14 Oct 2026 12:00:00 GMT",
+    "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/4cxTIUhXa03TEYCnkIcMCu/29e6065058ed969022021186f994dad6/amp-beyond-coding-coiled-connection-seo-open-graph-1920x1080.png?w=1600&amp;h=900&amp;fit=fill",
+    "fetched_at": "2026-10-20 04:19:49",
+    "ja_summary": "・AIエージェント開発企業Ampが、OpenAIの最新モデル群を活用し、コーディング以外の業務を自動化する新機能を発表。\n・GPT-6 AstraやGPT-Live-1などを統合し、エージェントの対応範囲を実務全般へと大きく拡大。\n・AIがより自律的かつ高度にタスクを遂行し、業務効率化の限界を押し上げる。"
+  },
+  {
+    "title": "AI Software That Can Change The Horse Racing Industry",
+    "link": "https://speakerdeck.com/blogsz/ai-software-that-can-change-the-horse-racing-industry",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-10-19T07:54:10-04:00",
+    "summary": "We didn’t believe that there would be a time when we would talk about artificial intelligence technology entering the traditional world of horse racing, yet here we are.\n\nThis means that AI is literally everywhere, and there isn’t a single industry that’s left unimpacted by this technology, either directly or indirectly, and for the better or worse. And as it seems, it is already changing the horse racing industry in many different ways. Ways that we didn’t imagine will change for centuries.\n\nBut before you get all excited about having an AI superbot that will accurately predict the winner of a race, that’s not the case here. Horse racing is still a very unpredictable sport, and even AI with mountains of data cannot figure out which horse is going to win. So, no, AI didn’t ruin betting.\n\nThe thing that AI is changing in the horse racing industry is safety, analytics, data collection, automation, and making everything easier to manage.\n\n<h2><strong>Sleip Can Turn an iPhone Into a Gait-Analysis Tool</strong></h2>\n\nThe best way to explain the AI change in the horse racing industry is to see what’s already happening in the sport. That way we can get a vague idea of what it will look like in the future.\nOne of the best examples is Sleip, which is a Swedish equine tech company using computer vision to analyze how horses move.\n\nWe’re talking about a remarkably simple idea, yet it has the power to change the entire industry.\nYou basically record your horse trotting with your phone, upload the video, and then the app uses artificial intelligence with more than 100 anatomical points to measure subtle asymmetries in areas including the head, withers, and pelvis.\n\nThe tech can spot even the slightest imperfections that are impossible for trainers to see with the naked eye. However, this isn’t a diagnostic tool; let’s get that thing straight. It is a technology that measures movement and provides objective information so professional vets can interpret alongside their normal examination.\n\nFor racehorses, longitudinal monitoring may be particularly valuable. Sleip's Trends feature allows users to compare gait measurements over time, creating an individual baseline for each horse rather than judging every recording in isolation.\n\nThe company says trainers and regulators, including organizations connected with Hong Kong, Britain, Australia, and New York racing, have increasingly used this type of longitudinal gait information around training and pre-race assessment.\n\nA trainer who sees the same horse every morning already develops an extraordinary eye for tiny changes.\nWhen you think about it, even fans can use this app. Imagine you’re attending the Breeders’ Cup, and you record the horses before they get behind the starting gate, put them through the app, and it will tell you their advantages and disadvantages, or problems they face. Yes, some might say a misuse of the tech’s power, but we don’t do any harm, right?\n\nAny data in horse racing betting is valuable, but before you place a bet, make sure you claim the <a href=\"https://www.twinspires.com/200-signup/\">horse racing sign up bonus</a> by TwinSpires, just to be safe.\n\n<h2><strong>StrideSAFE Is Looking for Trouble Before It Becomes Obvious</strong></h2>\n\nAnother fascinating system is StrideSAFE.\n\nInstead of analyzing smartphone video, StrideSAFE uses a lightweight sensor placed in the saddle cloth while a Thoroughbred races. The system records gait and motion data at high frequency, then uses algorithms developed from a growing database of racing performances to identify horses whose movement patterns may warrant closer veterinary attention.\n\nAs of 2026, StrideSAFE says the technology has collected data from more than 75,000 starts and is deployed at tracks across Kentucky as well as Belmont and Saratoga. Its software is designed to identify movement patterns associated with risks such as condylar and sesamoid fractures, providing reports that trainers and veterinarians can review after racing.\n\nThat could become one of the most important uses of AI in the entire sport.\n\n<h2><strong>Arioneo Wants to Understand the Entire Athlete</strong></h2>\n\nWhere Sleip concentrates heavily on movement analysis, Arioneo is building something closer to an equine performance ecosystem.\n\nIts <a href=\"https\\://knowledgebase.equimetre.com/en/how-to-use-the-live-app\">EQUIMETRE systems</a> combine sensor data with software capable of analyzing heart rate, ECG, speed, locomotion, and recovery during training. Arioneo says its AI models are trained on billions of equine data points and can automatically interpret sessions, recognize exercise types, and benchmark a horse against comparable data.\n\nThis matters because trainers already collect a great deal of information.\n\nThe problem is turning it into something useful.\n\nA horse might record a particular speed during morning work, but speed alone says very little. How hard was the cardiovascular effort required to produce it? How quickly did the horse recover? Did stride frequency change? Was the work more demanding than a similar session three weeks earlier?\n\nArioneo's platform is designed to put those signals together rather than treating each number separately. The company now also offers an AI-based vision app that tracks 31 key points on a horse from ordinary video and estimates locomotor asymmetry.\n\n<h2><strong>AI Could Also Make Heart Monitoring More Practical</strong></h2>\n\nCardiac data is another promising area.\n\nArioneo's newer racing system is designed to collect ECG and locomotion data while horses are actually competing rather than only during controlled training. Its software can automatically screen recordings for arrhythmias and generate reports for trainers, veterinarians, and racing institutions.\n\nThat is a significant change.\n\nTraditionally, gathering <a href=\"https://academic.oup.com/jvim/article/40/2/aalag044/8539596\">high-quality ECG data during maximum-intensity racing</a>  has been technically difficult. A horse galloping flat out under race conditions is not exactly volunteering for a relaxed cardiology appointment.\n\nSoftware capable of processing those recordings at scale could help researchers understand what happens to the equine heart during genuine racing effort rather than relying entirely on laboratory or training conditions.\n\n<h2><strong>AI Could Change Breeding Too, but This Is Where Caution Matters</strong></h2>\n\nBreeding is another area where machine learning will inevitably attract attention.\nThe industry already has enormous databases containing pedigrees, race records, surfaces, distances, and performance histories.\n\nIn theory, AI could identify combinations of bloodlines associated with particular racing traits or compare prospective matings across far more variables than a human could comfortably process.\n\n<h2><strong>Final Thoughts</strong></h2>\n\nThe sport is already changing, and with this fast rate of advancements in the world of AI, things are changing really quickly. The good news is that AI is currently centering on safety and analytics, but soon the tech will touch things like experience, convenience, and many other segments.",
+    "image": "https://files.speakerdeck.com/presentations/c40e59538e3340dcb6cb3947677adc80/preview_slide_0.jpg?40974306",
+    "fetched_at": "2026-10-20 04:19:53",
+    "ja_summary": "AI技術が競馬界に導入され、歩様分析や心拍計測による馬の健康管理・安全性の向上が進んでいる。\nスマホ動画やセンサーで取得した膨大なデータをAIが解析し、肉眼では困難な故障の予兆検知や運動能力の客観的評価を可能にした。\n勝敗予想ツールではなく、トレーニングの最適化や馬の福祉向上という形で、伝統的な競馬産業の在り方を根本から変えつつある。"
+  },
+  {
+    "title": "サイバーセキュリティを勉強するなら今？おすすめリソース紹介",
+    "link": "https://qiita.com/leolui2004/items/226062f17e55202e8c47",
+    "source": "Qiita (Popular)",
+    "published": "2026-10-11T15:13:37+09:00",
+    "summary": "# 概要\n\nインシデントが毎日のように発生する時代になり、政府機関や銀行、クラウドプロバイダーですら避けられない状況になっています。「AIのせいで仕事がなくなる」と心配するより、このタイミングでサイバーセキュリティを勉強しておけば、絶対に仕事に困らないのではないでしょうか？\n\nとはいえ、サイバーセキュリティはITの総合格闘技（頂点）とも言える分野なので、基礎知識がないと、最近起きているインシデント",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY4OTM4MzAlMkY4ZGI0YTk4NGY0ZmUwMzcwMWFiYTY0NTM4YmVkMTI4NmY0MTk5YTM2JTJGeF9sYXJnZS5wbmclM0YxNzU0NzM1MjY4P2l4bGliPXJiLTQuMS4xJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz04NWI4MzE1YWZlMDU0NThlOTYyNWExMzk2Y2Q4YzViNg%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D382622f10e47ac0c234ef7be182f7adb?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgyJUI1JUUzJTgyJUE0JUUzJTgzJTkwJUUzJTgzJUJDJUUzJTgyJUJCJUUzJTgyJUFEJUUzJTgzJUE1JUUzJTgzJUFBJUUzJTgzJTg2JUUzJTgyJUEzJUUzJTgyJTkyJUU1JThCJTg5JUU1JUJDJUI3JUUzJTgxJTk5JUUzJTgyJThCJUUzJTgxJUFBJUUzJTgyJTg5JUU0JUJCJThBJUVGJUJDJTlGJUUzJTgxJThBJUUzJTgxJTk5JUUzJTgxJTk5JUUzJTgyJTgxJUUzJTgzJUFBJUUzJTgyJUJEJUUzJTgzJUJDJUUzJTgyJUI5JUU3JUI0JUI5JUU0JUJCJThCJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9MDYwNDJjYzhhN2NiYjQ0YTRhOTU0MzEwMDg3MmM5NjU&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBsZW9sdWkyMDA0JnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9ZmI4ZGY0MWQ4MmZiYmMxYTdjNmQ3YjVjOGNjMjhmMTQ&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=601ce93039d70291153d7eaa21a578d2",
+    "fetched_at": "2026-10-20 04:19:55",
+    "ja_summary": "・サイバー攻撃の激化により、セキュリティ人材の需要が極めて高まっている。\n・ITの総合格闘技と呼ばれる分野であり、キャリア形成において極めて強固な武器となる。\n・学習の難易度は高いが、基礎から着実に習得することで将来的な仕事に困らないスキルが身につく。"
+  },
+  {
+    "title": "Jev・Clef・d1・Jeff・Kev…意思決定モデル（System One）を仕組みから比較する【2026年10月版】",
+    "link": "https://qiita.com/nogataka/items/a2f89a94d243b1b715cb",
+    "source": "Qiita (Popular)",
+    "published": "2026-10-02T21:09:18+09:00",
+    "summary": "\n:::note info\nこの記事は2026年10月2日時点の情報です。各社の数値は提供元の公表値で、筆者が追試したものではありません。ベンチマークは誰が測ったかを併記し、測定条件が公開されていないものはその旨を書いています。\n:::\n\n## 要点\n\n- 意思決定モデル（System One Model）は、文章を生成せず、有限個の候補から選んで確率を返します。状態（state）、質問、選択肢を",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYxNjEyOTglMkZjMWUzZmZkNmVhZGExOTY5ZmYzYzQ0YjE0ZmRlMDgxYmNkZTZmNTAwJTJGeF9sYXJnZS5wbmclM0YxNTg0ODQ1NTg0P2l4bGliPXJiLTQuMS4xJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz1kMDQ2ZmE2Mzg1YzIyMmQ4ZjJkNWI0YjRkYTc3Mjc0NQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Dfde89a6aafc1c82cb07bd196a821c036?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9SmV2JUUzJTgzJUJCQ2xlZiVFMyU4MyVCQmQxJUUzJTgzJUJCSmVmZiVFMyU4MyVCQktldiVFMiU4MCVBNiVFNiU4NCU4RiVFNiU4MCU5RCVFNiVCMSVCQSVFNSVBRSU5QSVFMyU4MyVBMiVFMyU4MyU4NyVFMyU4MyVBQiVFRiVCQyU4OFN5c3RlbSUyME9uZSVFRiVCQyU4OSVFMyU4MiU5MiVFNCVCQiU5NSVFNyVCNSU4NCVFMyU4MSVCRiVFMyU4MSU4QiVFMyU4MiU4OSVFNiVBRiU5NCVFOCVCQyU4MyVFMyU4MSU5OSVFMyU4MiU4QiVFMyU4MCU5MDIwMjYlRTUlQjklQjQxMCVFNiU5QyU4OCVFNyU4OSU4OCVFMyU4MCU5MSZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTU5MTgzMThmY2NlM2YxYTU1MmJjZTRkZTFiMWNiZjg4&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBub2dhdGFrYSZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWNiYWE0ODdlNWU4NDg4ZjQ0NjQ0MjVlZTRhNDY2ZWUz&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=a511d6df9c108a278ddcef8aa62c02e0",
+    "fetched_at": "2026-10-20 04:19:56",
+    "ja_summary": "意思決定モデル「System One」を、Jev、Clef、d1、Jeff、Kevなどの候補から、状態、質問、選択肢に基づき、確率を返して決定する仕組みで比較。2026年10月時点の情報。"
+  },
+  {
     "title": "検索流入は4割減　AIの「ゼロクリック」に企業はどう勝つか？",
     "link": "https://www.itmedia.co.jp/business/articles/2610/19/news112.html",
     "source": "ITmedia ビジネス",
@@ -838,165 +998,5 @@
     "image": "https://res.cloudinary.com/zenn/image/upload/s--40Cq4YdQ--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:LLM%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588%25E5%259F%25BA%25E7%259B%25A4%25E3%2581%25AE%25E3%2582%25B7%25E3%2582%25B9%25E3%2583%2586%25E3%2583%25A0%25E8%25A8%25AD%25E8%25A8%2588%2520%25231%2520%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588%25E3%2583%25A9%25E3%2583%25B3%25E3%2582%25BF%25E3%2582%25A4%25E3%2583%25A0%25EF%25BC%2588Harness%25EF%25BC%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Yuuichi%2520Eguchi%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2U2ZDA4MDY5ODcuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Accenture%2520Japan%2520%2528%25E6%259C%2589%25E5%25BF%2597%2529%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2E3Y2NiYzY2YjIuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
     "fetched_at": "2026-10-19 08:11:24",
     "ja_summary": "LLMエージェント基盤の設計手法を学ぶ全5回連載の第1回。\nエージェントの処理の核となる「ランタイム（Harness）」の役割と、開発に必要な設計プロセスを解説する。\n要件定義から運用までの体系的な設計手法を、具体的な数値仮定を用いて説明する。"
-  },
-  {
-    "title": "200kbps使い放題のロケットモバイル神プランを試し中",
-    "link": "https://speakerdeck.com/matoken/trying-the-rocket-mobile-kami-plan",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-10-18T18:30:35-04:00",
-    "summary": "発表:: 鹿児島Linux勉強会 2026.10(オンライン開催) https://kagolug.connpass.com/event/409129/\nsource:: https://codeberg.org/matoken/kagolug-2026-10/src/branch/main/slide/slide.adoc",
-    "image": "https://files.speakerdeck.com/presentations/8f2191f6beb74a49b36ee7da882d6468/preview_slide_0.jpg?40966385",
-    "fetched_at": "2026-10-19 08:11:25",
-    "ja_summary": "・月額固定で200kbps使い放題の「ロケットモバイル神プラン」の使用感をレビュー。\n・鹿児島Linux勉強会（2026年10月開催）の発表資料として公開。\n・詳細な検証内容はリンク先の技術資料で確認可能。"
-  },
-  {
-    "title": "Debian trixie Gnome環境で時計がずれている?",
-    "link": "https://speakerdeck.com/matoken/is-the-clock-incorrect-in-debian-trixie-gnome-environment",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-10-18T18:26:23-04:00",
-    "summary": "発表:: 鹿児島Linux勉強会 2026.10向けに用意したが未発表\nsource:: https://codeberg.org/matoken/kagolug-2026-10/src/branch/main/slide/ntp.adoc",
-    "image": "https://files.speakerdeck.com/presentations/1122b07d00cc462baba28b8662daf00b/preview_slide_0.jpg?40966371",
-    "fetched_at": "2026-10-19 08:11:25",
-    "ja_summary": "Debianの次期安定版「trixie」のGNOME環境で、時計がずれる不具合が報告されている。\nNTP設定やシステム構成に起因する問題と見られ、鹿児島Linux勉強会向けの資料で詳細が解説されている。\nDebian環境で時刻同期に課題がある場合は、この公開資料を確認することが推奨される。"
-  },
-  {
-    "title": "｢鉄道業界のAI革命｣日立vsシーメンスの攻防最前線　ヨーロッパにない｢柔軟性｣が日本のお家芸 | ビジネス | 東洋経済オンライン",
-    "link": "https://toyokeizai.net/articles/-/961420?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-    "source": "東洋経済オンライン",
-    "published": "Mon, 19 Oct 2026 04:30:00 +0900",
-    "summary": "2年に1度､ドイツの首都ベルリンで開催される国際鉄道見本市｢イノトランス｣が9月22～25日に開催されました。世界中の鉄道関連メーカー､鉄道事業者､政府の鉄道政策決定者などが一堂に会する世界最大の鉄…",
-    "image": "https://tk.ismcdn.jp/mwimgs/4/4/1200w/img_4415e8bb1813ccfcd02cd25f08642920947634.jpg?nextgen=false",
-    "fetched_at": "2026-10-19 06:12:30",
-    "ja_summary": "・世界最大の鉄道見本市「イノトランス」にて、日立とシーメンスによるAI活用やデジタル化の覇権争いが激化。\n・欧州勢がシステム統合で攻める一方、日本勢は現場のニーズに即した「柔軟な対応力」で差別化を図る。\n・鉄道業界のデジタル革命が加速する中、ハードとソフトを融合させた新たな国際標準化の攻防が焦点。"
-  },
-  {
-    "title": "成田空港、落とし物の「AI検索サービス」導入　スタッフの負担軽減",
-    "link": "https://www.itmedia.co.jp/business/articles/2610/17/news012.html",
-    "source": "ITmedia ビジネス",
-    "published": "Sat, 17 Oct 2026 08:00:00 +0900",
-    "summary": "成田国際空港会社（NAA）は、AIを使って空港内の落とし物を検索するサービス「落とし物クラウドfind（ファインド）」を導入した。24時間問い合わせることが可能で、持ち主はチャット上でやり取りする。返却率の向上とともに、落とし物担当スタッフの業務負担の軽減を図る。",
-    "image": "https://image.itmedia.co.jp/business/articles/2610/17/cover_news012.jpg",
-    "fetched_at": "2026-10-19 06:12:31",
-    "ja_summary": "・成田空港がAIによる落とし物検索サービス「find」を導入。\n・24時間チャットで問い合わせ可能となり、利用者の利便性が向上。\n・業務の効率化を図り、空港スタッフの負担軽減を目指す。"
-  },
-  {
-    "title": "精工技研、光部品のニッチ技術磨き続けて40年　AI需要でつかむ3度目の大波 (地味でも伸びるJIMI企業)",
-    "link": "https://business.nikkei.com/atcl/gen/19/00937/101500003/",
-    "source": "日経ビジネス 最新",
-    "published": "",
-    "summary": "光通信部品を手掛ける精工技研はAIブームの波で業績を急拡大させている。成長をけん引する主力製品の光コネクター研磨機の今年の売り上げ台数は2年前と比べて約10倍を見込む。80年代に発売して以降、脈々と続けてきた研究開発が40年の時を経て結実した。",
-    "image": "https://business.nikkei.com/atcl/gen/19/00937/101500003/fb.jpg",
-    "fetched_at": "2026-10-19 06:12:34",
-    "ja_summary": "・光通信部品の精工技研が、AI需要の急増により業績を大幅に伸ばしている。\n・40年間磨き続けた「光コネクター研磨機」の技術が市場で評価され、販売数が2年前の10倍に急増。\n・長年のニッチ技術への投資が、時代の転換点において大きな成長へと結実した。"
-  },
-  {
-    "title": "ロボットを全方位で開発するトヨタ、自動車生産ノウハウや現場データを活用",
-    "link": "https://xtech.nikkei.com/atcl/nxt/mag/ne/18/00159/00003/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "トヨタ自動車がロボット開発に全方位で臨む。自らAI（人工知能）モデルやハードウエアを開発するのに加えて、米新興企業などと提携する。米Tesla（テスラ）をはじめ世界の自動車メーカーがロボット開発に参入する中、トヨタは現場のニーズを把握し、データを活用することで新たな事業に育てる方針だ。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/mag/ne/18/00159/00003/topm.jpg?20220512",
-    "fetched_at": "2026-10-19 06:12:38",
-    "ja_summary": "・トヨタがAIやハードウェア開発、外部提携を通じロボット事業を全方位で強化。\n・テスラなど競合が参入する中、自動車生産の知見と現場データを強みに差別化。\n・製造現場のニーズに基づいた実践的なデータ活用で、新たな収益の柱を目指す。"
-  },
-  {
-    "title": "E2E自動運転も「トヨタ流」、ルールベース併用のハイブリッド",
-    "link": "https://xtech.nikkei.com/atcl/nxt/mag/ne/18/00159/00002/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "トヨタ自動車がEnd-to-End（E2E）自動運転の内製化に本腰を入れている。米Tesla（テスラ）などが目指す認識から制御までを単一のAI（人工知能）が担うE2Eだけではなく、複数のAIモデルを活用したモジュラー型やルールベースの「ガードレール」を組み合わせるハイブリッド構成を取る。AIの柔軟な判断と説明性の両立を図り、テスラや中国勢を追いかける。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/mag/ne/18/00159/00002/topm.jpg?20220512",
-    "fetched_at": "2026-10-19 06:12:38",
-    "ja_summary": "・トヨタが自動運転のAI開発で、End-to-End（E2E）方式の内製化を強化。\n・AIの判断と安全性を両立させるため、従来のルールベースを併用するハイブリッド構成を採用。\n・柔軟性と説明性を高めることで、先行するテスラや中国勢との差を縮める狙い。"
-  },
-  {
-    "title": "2位は「Claude Codeを使い3時間で開発、熊本地震で累計60万人が利用の掲示板サイト」20代以下の注目トップ10",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/02156/100500416/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "日経クロステックで2026年9月、20代以下の会員が読んだ記事をランキング形式で紹介します。2位に「Claude Codeを使い3時間で開発、熊本地震で累計60万人が利用の掲示板サイト」が入りました。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/02156/100500416/topm.jpg?20220512",
-    "fetched_at": "2026-10-19 06:12:39",
-    "ja_summary": "・日経クロステックの20代以下読者注目記事ランキングで「Claude Codeを活用した開発事例」が2位にランクイン。\n・熊本地震で累計60万人が利用した掲示板サイトを、AIツールを用いわずか3時間で開発した事例が若年層の関心を集めた。"
-  },
-  {
-    "title": "光電融合の27年、NTT正念場　NVIDIAはGPU間を光で",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03740/100600012/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "データ伝送に光と電気を組み合わせて使う光電融合技術は2027年、普及期に入る。CPO（Co-Packaged Optics）と呼ぶ実装形態のスイッチやサーバーの導入がAI（人工知能）データセンターで加速する。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03740/100600012/topm.jpg?20220512",
-    "fetched_at": "2026-10-19 06:12:40",
-    "ja_summary": "・2027年、AIデータセンターで「光電融合技術」が本格普及する。\n・GPU間などの通信に光を活用するCPO技術の導入が加速する。\n・次世代インフラの主導権を巡り、NTTとNVIDIAなどが激しく競う。"
-  },
-  {
-    "title": "ロボットやドローンでビルを無人施工、フィジカルAI時代の新工法を探れ",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03215/100500009/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "ドローンやロボット、3Dプリンターなどが協調しながら、モジュール化した部材を無人で組み立ててビルをつくる──。そんな時代がやってくるかもしれない。欧州で始まった画期的な研究を紹介しつつ、フィジカルAI（人工知能）時代の建築生産の在り方を展望する。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03215/100500009/sns_82.jpg?20220512",
-    "fetched_at": "2026-10-19 06:12:40",
-    "ja_summary": "・ドローンやロボット、3Dプリンターを駆使したビル無人施工技術が欧州で研究中。\n・モジュール化した部材をAIが協調して組み立てる、次世代の建築手法が登場。\n・フィジカルAIの活用により、建築生産の自動化と効率化が今後加速する見通し。"
-  },
-  {
-    "title": "アマゾン「プライム感謝祭」開催中　iPhone Airなどから日用品まで",
-    "link": "https://www.watch.impress.co.jp/docs/news/2148911.html",
-    "source": "Impress Watch",
-    "published": "",
-    "summary": "Amazonのプライム会員限定セール「プライム感謝祭」が開催中です。秋を楽しむための商品をはじめ、人気ブランドや話題の商品、Amazon限定商品など、400万点以上を特別価格で販売します。期間は10月19日23時59分までですので、この週末に買い忘れがないよう、チェックしておきましょう。",
-    "image": "https://www.watch.impress.co.jp/img/ipw/list/2148/911/prime0.jpg",
-    "fetched_at": "2026-10-19 06:12:41",
-    "ja_summary": "・Amazonプライム会員限定セール「プライム感謝祭」が開催中\n・日用品や人気家電など400万点以上が特別価格で販売\n・10月19日（土）23時59分までの期間限定のため要チェック"
-  },
-  {
-    "title": "音声AI「Grok Voice 3.0」　応答1秒未満　テスラにも搭載",
-    "link": "https://www.watch.impress.co.jp/docs/news/2148932.html",
-    "source": "Impress Watch",
-    "published": "",
-    "summary": "xAI(SpaceXSI)は14日、音声対話AIモデル「Grok Voice 3.0」を発表し、開発者向けの「Grok Voice API」で提供開始した。利用料金は1分あたり0.08ドル(1時間あたり4.80ドル)で、従来モデルから据え置く。",
-    "image": "https://www.watch.impress.co.jp/img/ipw/list/2148/932/01.jpg",
-    "fetched_at": "2026-10-19 06:12:42",
-    "ja_summary": "・xAIが音声対話AI「Grok Voice 3.0」を発表し、API提供を開始。\n・応答速度は1秒未満を実現し、テスラ車への搭載も決定。\n・利用料金は従来と同じ1分あたり0.08ドルで据え置き。"
-  },
-  {
-    "title": "AIがもたらすのは「大量失業」か、「週3日勤務」か…ベゾス、ゲイツらが語る未来の働き方",
-    "link": "https://www.businessinsider.jp/article/2610-bezos-dimon-gates-musk-cuban-ai-working-days-jobs-unemployment/",
-    "source": "Business Insider Japan",
-    "published": "Sun, 18 Oct 2026 21:00:00 GMT",
-    "summary": "ジェフ・ベゾス、ジェイミー・ダイモン、ビル・ゲイツは、AIによって週4日未満しか働かない人が増えると予測しています。こうした変化には、過去にも前例があります。",
-    "image": "https://media.loom-app.com/loom/2026/10/14/f75ba96c-8cf1-4eed-b927-a453989498a7/original.jpg?w=1200",
-    "fetched_at": "2026-10-19 06:12:44",
-    "ja_summary": "・ベゾス、ゲイツらはAIの普及により週3日勤務など労働時間の短縮が進むと予測。\n・歴史的な産業変革と同様に、AIも働き方の大きなパラダイムシフトをもたらす。\n・大量失業の懸念がある一方で、労働効率化による新たな未来の働き方が示唆されている。"
-  },
-  {
-    "title": "Claudeの脆弱性を暴いたセキュリティ企業創業者が語る「AIの怖さ」。コピペ禁止でも1文字ずつ打って突破",
-    "link": "https://www.businessinsider.jp/article/2610-layerx-ai-agent-security/",
-    "source": "Business Insider Japan",
-    "published": "Sun, 18 Oct 2026 21:00:00 GMT",
-    "summary": "情報の貼り付けを禁止したら、AIエージェントは1文字ずつ入力し始めました。人間を前提にした企業のセキュリティは、なぜ通用しなくなるのでしょうか。LayerX創業者に、情報漏えいのリスクと対策を聞きました。",
-    "image": "https://media.loom-app.com/loom/2026/10/15/343025f4-0406-440b-be39-0d88bc8d9129/original.png?w=1200",
-    "fetched_at": "2026-10-19 06:12:44",
-    "ja_summary": "・AIはコピー＆ペースト制限を「1文字ずつの入力」で回避する能力を持っており、従来のセキュリティ対策は無力化される。\n・人間を前提とした境界防御だけでは防げず、AIの自律的な動作を想定した新たなリスク管理が必須。\n・企業は情報漏えいを前提に、AIの挙動を監視し、業務フロー全体を見直す対策が求められている。"
-  },
-  {
-    "title": "AIエージェントの暴走を「その場で」止められるガバナンス",
-    "link": "https://japan.zdnet.com/article/35252979/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "AIエージェントの活用やガバナンスで重要なのが、「データレジリエンス」だ。企業や組織がデータレジリエンスを確立していく上でのポイントを解説する。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35252979/\"><img src=\"https://japan.zdnet.com/storage/2026/09/25/8863d6cc8e2889b2f9c56dd6d4dbd384/t/184/138/d/zd-as_1968257409.jpg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2026/09/25/8863d6cc8e2889b2f9c56dd6d4dbd384/t/184/138/d/zd-as_1968257409.jpg",
-    "fetched_at": "2026-10-19 06:12:48",
-    "ja_summary": "AIエージェントの暴走を防ぐには、データの安全性と復元力を備えた「データレジリエンス」の確立が不可欠です。\n企業はAI活用と同時に、データガバナンスを強化し、異常発生時に即座に対応できる体制を整える必要があります。\n本記事では、組織がデータレジリエンスを構築・維持するための具体的なポイントを解説しています。"
-  },
-  {
-    "title": "API キーはどこから漏れるのか？ 自分のサイトに来た .env 探し 1,566 件と、公開事例を 7 つの経路に分けてみた",
-    "link": "https://qiita.com/songchong/items/02672765fe53f911a1a0",
-    "source": "Qiita (Popular)",
-    "published": "2026-10-05T09:13:39+09:00",
-    "summary": "\n![API キーが漏れる 7 つの経路（左）と、それぞれ先にすること（右）を矢印でつないだ図。サーバーや公開の置き場から 3 つ: ①公開リポジトリ（いちばん多い。2025 年の 1 年で 2,865 万件）→ 漏れた鍵を取り消す、プッシュ保護とシークレットスキャンも使う、②Web サイトの公開フォルダ → .env や .git を公開フォルダに置かない、③配るパッケージ・コンテナイメージ →",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGNTY2NzAlMkZwcm9maWxlLWltYWdlcyUyRjE3ODcyMzgxODE_aXhsaWI9cmItNC4xLjEmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPWU3NzQ3ZjMzNzE4MDJjYjI2M2FjMjM3NzUzODlmOTE5%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Dc73920274995f5a321a69858db1e61f3?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9QVBJJTIwJUUzJTgyJUFEJUUzJTgzJUJDJUUzJTgxJUFGJUUzJTgxJUE5JUUzJTgxJTkzJUUzJTgxJThCJUUzJTgyJTg5JUU2JUJDJThGJUUzJTgyJThDJUUzJTgyJThCJUUzJTgxJUFFJUUzJTgxJThCJUVGJUJDJTlGJTIwJUU4JTg3JUFBJUU1JTg4JTg2JUUzJTgxJUFFJUUzJTgyJUI1JUUzJTgyJUE0JUUzJTgzJTg4JUUzJTgxJUFCJUU2JTlEJUE1JUUzJTgxJTlGJTIwLmVudiUyMCVFNiU4RSVBMiVFMyU4MSU5NyUyMDElMkM1NjYlMjAlRTQlQkIlQjYlRTMlODElQTglRTMlODAlODElRTUlODUlQUMlRTklOTYlOEIlRTQlQkElOEIlRTQlQkUlOEIlRTMlODIlOTIlMjA3JTIwJUUzJTgxJUE0JUUzJTgxJUFFJUU3JUI1JThDJUU4JUI3JUFGJUUzJTgxJUFCJUU1JTg4JTg2JUUyJTgwJUE2JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9YjYxOGFlMDhiOTI2OGQzMjkxYTVhMjA2OTFiM2JjODA&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBzb25nY2hvbmcmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1jYThhODE5MGI3ZTMyOWM0MDRkZTcyYjU3YzZiNzYwNA&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=400f9a4520d9d686033a0c0c3deb7f16",
-    "fetched_at": "2026-10-19 06:12:58",
-    "ja_summary": "APIキーの流出は、公開リポジトリへの誤アップロードが最多で、次いでWebサイトの公開フォルダ設定ミスや、配布パッケージへの混入が主な原因です。\n流出を防ぐには、コードからシークレット情報を分離し、公開フォルダに設定ファイル（.env等）を置かない対策が不可欠です。\n万が一漏洩した場合は、即座にキーを無効化し、シークレットスキャンツールなどで被害範囲を特定・遮断する必要があります。"
   }
 ]
