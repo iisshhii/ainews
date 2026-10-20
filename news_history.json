@@ -1,5 +1,165 @@
 [
   {
+    "title": "検索流入は4割減　AIの「ゼロクリック」に企業はどう勝つか？",
+    "link": "https://www.itmedia.co.jp/business/articles/2610/19/news112.html",
+    "source": "ITmedia ビジネス",
+    "published": "Mon, 19 Oct 2026 21:45:00 +0900",
+    "summary": "AIの席巻によって、インターネットの検索に地殻変動ともいえる変化が生じている。企業のWebサイトやニュースサイトなどは、AIにいかに引用されるかがポイントになってきた。AI検索結果によって、サイトの「ゼロクリック」という事態も発生。AIによる引用にコンテンツを最適化させる対応策である「GEO＝Generative Engine Optimization」へのシフトが急務となりそうだ。（近藤豊和）",
+    "image": "https://image.itmedia.co.jp/business/articles/2610/19/cover_news112.jpg",
+    "fetched_at": "2026-10-21 01:58:56",
+    "ja_summary": "AI検索により、企業のWebサイトへの流入が激減。\nAIに引用され、ユーザーがサイトにアクセスしない「ゼロクリック」問題が発生。\nAI検索時代に対応するため、コンテンツの最適化（GEO）が急務。"
+  },
+  {
+    "title": "AnthropicのAI時代のコードレビュー術 - Claude Codeによる自動レビューと人間の役割",
+    "link": "https://note.com/npaka/n/ndb4b0f424ced",
+    "source": "note (npaka)",
+    "published": "Sat, 17 Oct 2026 07:39:22 +0900",
+    "summary": "<p id=\"2b961e7a-8eca-460d-b493-972c5f54573b\" name=\"2b961e7a-8eca-460d-b493-972c5f54573b\">以下の記事が面白かったので、簡単にまとめました。</p><figure id=\"43a3fe5b-9562-4c73-b4ae-16fe11a7c26a\" name=\"43a3fe5b-9562-4c73-b4ae-16fe11a7c26a\"><blockquote><p id=\"f6ff475d-57f9-400d-9fb3-6a8f4c99bd95\" name=\"f6ff475d-57f9-400d-9fb3-6a8f4c99bd95\"><strong>・</strong><a href=\"https://claude.dev/blog/solving-code-review-at-anthropic/\" rel=\"nofollow noopener\" target=\"_blank\"><strong>How the Claude Code team does code review</strong></a></p></blockquote>\n<figcaption></figcaption></figure><br /><a href=\"https://note.com/npaka/n/ndb4b0f424ced\">続きをみる</a>",
+    "image": "https://assets.st-note.com/production/uploads/images/325190045/rectangle_large_type_2_49aa4679e0b0349bf13930b746fb2181.png?width=800",
+    "fetched_at": "2026-10-21 01:59:10",
+    "ja_summary": "・Anthropicは自社の「Claude Code」を活用し、コードレビューの自動化を推進している。\n・AIが大部分のチェックを担うことで効率化を図り、人間は複雑な設計や判断に集中する。\n・AIによる自動化と人間の専門的な視点を組み合わせることで、開発速度と品質を両立させている。"
+  },
+  {
+    "title": "ASPIRE v1.0 の概要 - ロボットが自らスキルを発見・改善するAIフレームワーク",
+    "link": "https://note.com/npaka/n/n79635d25ee1a",
+    "source": "note (npaka)",
+    "published": "Sat, 17 Oct 2026 07:19:04 +0900",
+    "summary": "<p id=\"710bc0f6-8573-4a6f-9737-8c323544da2b\" name=\"710bc0f6-8573-4a6f-9737-8c323544da2b\">「ASPIRE v1.0 の概要」をまとめました。</p><br /><br /><a href=\"https://note.com/npaka/n/n79635d25ee1a\">続きをみる</a>",
+    "image": "https://assets.st-note.com/production/uploads/images/325187846/rectangle_large_type_2_0d7c5cb89ca37e0066ce5e0298232f56.jpeg?width=800",
+    "fetched_at": "2026-10-21 01:59:10",
+    "ja_summary": "・ロボットが自律的に新しいスキルを発見・改善できるAIフレームワーク「ASPIRE v1.0」が登場。\n・試行錯誤を通じてタスク遂行能力を向上させる仕組みを実現。\n・ロボットの自律的な学習と適応を加速させる技術として期待される。"
+  },
+  {
+    "title": "AIで重要性が増すランタイムの即時保護に注力--SysdigのナギブCEO",
+    "link": "https://japan.zdnet.com/article/35253506/",
+    "source": "ZDNET Japan",
+    "published": "",
+    "summary": "AIの普及によりサイバーセキュリティの情勢はさらに変化しつつある。Sysdigのハーテム・ナギブCEOは、クラウド環境のランタイム保護とAI支援のセキュリティに注力する。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35253506/\"><img src=\"https://japan.zdnet.com/storage/2026/10/13/42131fc4df3930c780e38fa5f33f6483/t/184/138/d/sysdig-exectives_l.jpg\" /></a>",
+    "image": "https://japan.zdnet.com/storage/2026/10/13/42131fc4df3930c780e38fa5f33f6483/t/184/138/d/sysdig-exectives_l.jpg",
+    "fetched_at": "2026-10-21 01:59:12",
+    "ja_summary": "AI普及でサイバー攻撃が変化。Sysdig CEOは、クラウドのランタイム保護とAI活用に注力。"
+  },
+  {
+    "title": "「あなたのAIスタックは？」--採用面接で答えられるようにしておくべき新たな質問",
+    "link": "https://japan.zdnet.com/article/35253539/",
+    "source": "ZDNET Japan",
+    "published": "",
+    "summary": "次のキャリアのチャンスをつかむのは以前より難しくなっているが、決して乗り越えられない壁というわけではない。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35253539/\"><img src=\"https://japan.zdnet.com/storage/2026/10/14/8df900ea4a747b22cb9ce4ccfeac2e28/t/184/138/d/large-blueman-cropGettyImages-2235874283.jpg\" /></a>",
+    "image": "https://japan.zdnet.com/storage/2026/10/14/8df900ea4a747b22cb9ce4ccfeac2e28/t/184/138/d/large-blueman-cropGettyImages-2235874283.jpg",
+    "fetched_at": "2026-10-21 01:59:12",
+    "ja_summary": "AIスキルを問う採用面接が主流に。\n自身のAI活用能力（AIスタック）を明確に説明できるよう準備しよう。\nキャリアアップには、AI知識と実践経験が重要となる。"
+  },
+  {
+    "title": "短い指示だけであとは丸投げ——ハッカーがAIで日本含む4か国100社超に侵入していたとの報告",
+    "link": "https://www.techno-edge.net/article/2026/10/20/5607.html",
+    "source": "TechnoEdge",
+    "published": "Tue, 20 Oct 2026 06:45:03 +0900",
+    "summary": "サイバーセキュリティ企業NorForgeは2026年10月19日、ハッカーがAIエージェントを駆使して米国・カナダ・オーストラリア・日本の企業100社超のウェブサイトへの侵入に成功していたとの調査報告を公表しました。",
+    "image": "https://www.techno-edge.net/imgs/rss/34920.jpg",
+    "fetched_at": "2026-10-21 01:59:13",
+    "ja_summary": "・AIエージェントを悪用したハッカーが、日本を含む4か国100社以上の企業サイトへ不正侵入した。\n・複雑な操作をAIに丸投げする手法が用いられ、サイバー攻撃の自動化・高度化が懸念されている。\n・企業はAIを用いた新たな手口の脅威に対し、セキュリティ対策の強化を急ぐ必要がある。"
+  },
+  {
+    "title": "Advancing coding in low‑resource programming languages",
+    "link": "https://openai.com/index/low-resource-programming-languages",
+    "source": "OpenAI",
+    "published": "Mon, 19 Oct 2026 12:00:00 GMT",
+    "summary": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/1wQpFFie9sKfVWvApPYyn5/db28adb6a2dfdfdef39fb548fca8913d/low_resource_programming__SEO_Card__3_.png?w=1600&amp;h=900&amp;fit=fill",
+    "fetched_at": "2026-10-21 01:59:14",
+    "ja_summary": "OpenAIは、リソースの少ないプログラミング言語でのChatGPTの能力向上を目指しています。\nソフトウェア開発、SQLite、COBOL移行における新しい評価基準で、その進歩を示しています。\nこれにより、より多様な言語でのAI活用が期待されます。"
+  },
+  {
+    "title": "How Itaú is building generative AI for its entire customer base",
+    "link": "https://openai.com/index/itau-generative-ai",
+    "source": "OpenAI",
+    "published": "Fri, 16 Oct 2026 19:00:00 GMT",
+    "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/5f6g1v0mGiFwS4OuWQJpZ/ea1b571975a4668874331d6d068bfdcb/itau-social-optical-r2.png?w=1600&amp;h=900&amp;fit=fill",
+    "fetched_at": "2026-10-21 01:59:14",
+    "ja_summary": "・ブラジルのイタウ銀行が、AIファースト戦略に基づき全顧客・従業員向けに生成AIを導入。\n・対話型AI「ia.i」とガバナンス基盤「IARA」を構築し、規制の厳しい金融分野での実用化を実現。\n・顧客体験の向上と社内業務の効率化を同時に推進するAI活用モデルを確立。"
+  },
+  {
+    "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+    "link": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+    "source": "OpenAI",
+    "published": "Fri, 16 Oct 2026 00:00:00 GMT",
+    "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/4HTc2pk7XGFhzDU8RX0Ivg/ff2b922fa1914350c9d800da622ebe04/stack-overflow-social.png?w=1600&amp;h=900&amp;fit=fill",
+    "fetched_at": "2026-10-21 01:59:15",
+    "ja_summary": "・エンジニア2名が数週間で「Stack Overflow for Agents」を開発。\n・ChatGPTプラグインの導入により、エージェント作成数が最大10倍に増加。\n・AIツールとの連携でサービス登録者数が3倍に拡大した。"
+  },
+  {
+    "title": "Teaching students to think and learn through questions",
+    "link": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+    "source": "OpenAI",
+    "published": "Thu, 15 Oct 2026 13:00:00 GMT",
+    "summary": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/16A5mkf828KStF68ijvmN1/2f720d42bb308b9c1ab0edc26a047a17/teaching-students-to-think-and-learn-through-questions-social.png?w=1600&amp;h=900&amp;fit=fill",
+    "fetched_at": "2026-10-21 01:59:15",
+    "ja_summary": "AIを活用した教育ツールが、生徒の能動的な学習を支援。\n質問を通じて思考力と学習能力を育む方法を紹介。\n教師向けAIツールとStudy Modeで、段階的な理解を促進。"
+  },
+  {
+    "title": "AIが高度になった時代の、人間の考え方の作法｜VEの思考プロセスに、AIをどう組み込むか",
+    "link": "https://speakerdeck.com/ishiirikie/ai-ga-koudo-ni-nata-jidai-no-ningen-no-kangaekata-no-sahou-ve-no-shikou-purosesu-ni-ai-o-dou-kumikomu-ka",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-10-20T10:25:36-04:00",
+    "summary": "2026年10月20日、バリュー・カンファレンス2026（パシフィコ横浜）で行った石井力重の講演スライド（全67枚）。\n\n生成AIに答えを出してもらうだけでなく、人間自身の思考を深めるための使い方を考えます。\n\n「隙のあるアイデア」による人の発想の引き出し方、AIに思考を委ねきることのリスク、WhatとHowの役割分担、評価で新規性を守る視点、VEの機能から発想するPOF（Pivot on Function）などを紹介します。\n\n講演時点の研究・実践知をもとに構成した公開用資料です。質疑応答の部分は掲載していません。\n\n講演者：石井力重（アイデアプラント代表／早稲田大学非常勤講師）",
+    "image": "https://files.speakerdeck.com/presentations/d43ba634f53c473ea0956653829ab6b0/preview_slide_0.jpg?40991340",
+    "fetched_at": "2026-10-21 01:59:21",
+    "ja_summary": "AI時代、人間の思考を深めるにはAIをどう使うかが鍵。\n「隙のあるアイデア」やAIに思考を委ねすぎるリスク、機能から発想するPOFなどを解説。\nAIと人間の役割分担で、より良い発想を生み出す方法を探る。"
+  },
+  {
+    "title": "Wenn die Vibes nicht reichen: Observability für GenAI Anwendungen",
+    "link": "https://speakerdeck.com/tboeghk/wenn-die-vibes-nicht-reichen-observability-fur-genai-anwendungen",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-10-20T08:46:37-04:00",
+    "summary": "",
+    "image": "https://files.speakerdeck.com/presentations/25f64ffe86b54eec8c585bbe0da3c335/preview_slide_0.jpg?40989765",
+    "fetched_at": "2026-10-21 01:59:21",
+    "ja_summary": "・GenAIアプリの実運用では、感覚的な評価（Vibes）だけでは不十分。\n・信頼性を確保するためには、動作を詳細に監視する「オブザーバビリティ」が不可欠。\n・品質管理とリスク低減には、専用の監視手法の導入が不可欠である。"
+  },
+  {
+    "title": "CTO Night｜NotionのAIエージェントとFDE",
+    "link": "https://speakerdeck.com/kzkhykw1991/cto-night-notion-no-ai-ejento-to-fde",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-10-20T08:28:52-04:00",
+    "summary": "",
+    "image": "https://files.speakerdeck.com/presentations/6a6fdf6174844e5393f8f36115601b9b/preview_slide_0.jpg?40989386",
+    "fetched_at": "2026-10-21 01:59:21",
+    "ja_summary": "Notionが発表したAIエージェント機能と、エンジニアの生産性を最大化するFDE（フロー状態）の重要性が解説されました。\nAIがタスクを自律的にこなすことで、開発者は創造的な業務に集中できる環境を構築できます。\nツール活用により「深い没頭状態」を維持し、開発効率を飛躍的に向上させるための戦略が示されました。"
+  },
+  {
+    "title": "サイバーセキュリティを勉強するなら今？おすすめリソース紹介",
+    "link": "https://qiita.com/leolui2004/items/226062f17e55202e8c47",
+    "source": "Qiita (Popular)",
+    "published": "2026-10-11T15:13:37+09:00",
+    "summary": "# 概要\n\nインシデントが毎日のように発生する時代になり、政府機関や銀行、クラウドプロバイダーですら避けられない状況になっています。「AIのせいで仕事がなくなる」と心配するより、このタイミングでサイバーセキュリティを勉強しておけば、絶対に仕事に困らないのではないでしょうか？\n\nとはいえ、サイバーセキュリティはITの総合格闘技（頂点）とも言える分野なので、基礎知識がないと、最近起きているインシデント",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY4OTM4MzAlMkY4ZGI0YTk4NGY0ZmUwMzcwMWFiYTY0NTM4YmVkMTI4NmY0MTk5YTM2JTJGeF9sYXJnZS5wbmclM0YxNzU0NzM1MjY4P2l4bGliPXJiLTQuMS4xJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz04NWI4MzE1YWZlMDU0NThlOTYyNWExMzk2Y2Q4YzViNg%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D382622f10e47ac0c234ef7be182f7adb?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgyJUI1JUUzJTgyJUE0JUUzJTgzJTkwJUUzJTgzJUJDJUUzJTgyJUJCJUUzJTgyJUFEJUUzJTgzJUE1JUUzJTgzJUFBJUUzJTgzJTg2JUUzJTgyJUEzJUUzJTgyJTkyJUU1JThCJTg5JUU1JUJDJUI3JUUzJTgxJTk5JUUzJTgyJThCJUUzJTgxJUFBJUUzJTgyJTg5JUU0JUJCJThBJUVGJUJDJTlGJUUzJTgxJThBJUUzJTgxJTk5JUUzJTgxJTk5JUUzJTgyJTgxJUUzJTgzJUFBJUUzJTgyJUJEJUUzJTgzJUJDJUUzJTgyJUI5JUU3JUI0JUI5JUU0JUJCJThCJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9MDYwNDJjYzhhN2NiYjQ0YTRhOTU0MzEwMDg3MmM5NjU&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBsZW9sdWkyMDA0JnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9ZmI4ZGY0MWQ4MmZiYmMxYTdjNmQ3YjVjOGNjMjhmMTQ&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=601ce93039d70291153d7eaa21a578d2",
+    "fetched_at": "2026-10-21 01:59:23",
+    "ja_summary": "サイバー攻撃が頻発する今、AI時代に備えてサイバーセキュリティを学ぶ絶好の機会。ITの総合格闘技とも言われるこの分野は、基礎知識があれば将来性抜群。インシデント対策にも直結するため、今こそ学習を始めるべき。"
+  },
+  {
+    "title": "API キーはどこから漏れるのか？ 自分のサイトに来た .env 探し 1,566 件と、公開事例を 7 つの経路に分けてみた",
+    "link": "https://qiita.com/songchong/items/02672765fe53f911a1a0",
+    "source": "Qiita (Popular)",
+    "published": "2026-10-05T09:13:39+09:00",
+    "summary": "\n![API キーが漏れる 7 つの経路（左）と、それぞれ先にすること（右）を矢印でつないだ図。サーバーや公開の置き場から 3 つ: ①公開リポジトリ（いちばん多い。2025 年の 1 年で 2,865 万件）→ 漏れた鍵を取り消す、プッシュ保護とシークレットスキャンも使う、②Web サイトの公開フォルダ → .env や .git を公開フォルダに置かない、③配るパッケージ・コンテナイメージ →",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGNTY2NzAlMkZwcm9maWxlLWltYWdlcyUyRjE3ODcyMzgxODE_aXhsaWI9cmItNC4xLjEmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPWU3NzQ3ZjMzNzE4MDJjYjI2M2FjMjM3NzUzODlmOTE5%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Dc73920274995f5a321a69858db1e61f3?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9QVBJJTIwJUUzJTgyJUFEJUUzJTgzJUJDJUUzJTgxJUFGJUUzJTgxJUE5JUUzJTgxJTkzJUUzJTgxJThCJUUzJTgyJTg5JUU2JUJDJThGJUUzJTgyJThDJUUzJTgyJThCJUUzJTgxJUFFJUUzJTgxJThCJUVGJUJDJTlGJTIwJUU4JTg3JUFBJUU1JTg4JTg2JUUzJTgxJUFFJUUzJTgyJUI1JUUzJTgyJUE0JUUzJTgzJTg4JUUzJTgxJUFCJUU2JTlEJUE1JUUzJTgxJTlGJTIwLmVudiUyMCVFNiU4RSVBMiVFMyU4MSU5NyUyMDElMkM1NjYlMjAlRTQlQkIlQjYlRTMlODElQTglRTMlODAlODElRTUlODUlQUMlRTklOTYlOEIlRTQlQkElOEIlRTQlQkUlOEIlRTMlODIlOTIlMjA3JTIwJUUzJTgxJUE0JUUzJTgxJUFFJUU3JUI1JThDJUU4JUI3JUFGJUUzJTgxJUFCJUU1JTg4JTg2JUUyJTgwJUE2JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9YjYxOGFlMDhiOTI2OGQzMjkxYTVhMjA2OTFiM2JjODA&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBzb25nY2hvbmcmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1jYThhODE5MGI3ZTMyOWM0MDRkZTcyYjU3YzZiNzYwNA&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=400f9a4520d9d686033a0c0c3deb7f16",
+    "fetched_at": "2026-10-21 01:59:25",
+    "ja_summary": "・APIキー等の機密情報が流出する主な経路は、公開リポジトリやWebサイトの公開フォルダ、配布パッケージなど7つに大別される。\n・特にGitHub等の公開リポジトリからの流出が最多で、2025年だけで約2,865万件に達している。\n・被害防止のため、鍵の即時取り消しに加え、プッシュ保護やシークレットスキャン等の自動検知ツールの導入が不可欠。"
+  },
+  {
+    "title": "Jev・Clef・d1・Jeff・Kev…意思決定モデル（System One）を仕組みから比較する【2026年10月版】",
+    "link": "https://qiita.com/nogataka/items/a2f89a94d243b1b715cb",
+    "source": "Qiita (Popular)",
+    "published": "2026-10-02T21:09:18+09:00",
+    "summary": "\n:::note info\nこの記事は2026年10月2日時点の情報です。各社の数値は提供元の公表値で、筆者が追試したものではありません。ベンチマークは誰が測ったかを併記し、測定条件が公開されていないものはその旨を書いています。\n:::\n\n## 要点\n\n- 意思決定モデル（System One Model）は、文章を生成せず、有限個の候補から選んで確率を返します。状態（state）、質問、選択肢を",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYxNjEyOTglMkZjMWUzZmZkNmVhZGExOTY5ZmYzYzQ0YjE0ZmRlMDgxYmNkZTZmNTAwJTJGeF9sYXJnZS5wbmclM0YxNTg0ODQ1NTg0P2l4bGliPXJiLTQuMS4xJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz1kMDQ2ZmE2Mzg1YzIyMmQ4ZjJkNWI0YjRkYTc3Mjc0NQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Dfde89a6aafc1c82cb07bd196a821c036?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9SmV2JUUzJTgzJUJCQ2xlZiVFMyU4MyVCQmQxJUUzJTgzJUJCSmVmZiVFMyU4MyVCQktldiVFMiU4MCVBNiVFNiU4NCU4RiVFNiU4MCU5RCVFNiVCMSVCQSVFNSVBRSU5QSVFMyU4MyVBMiVFMyU4MyU4NyVFMyU4MyVBQiVFRiVCQyU4OFN5c3RlbSUyME9uZSVFRiVCQyU4OSVFMyU4MiU5MiVFNCVCQiU5NSVFNyVCNSU4NCVFMyU4MSVCRiVFMyU4MSU4QiVFMyU4MiU4OSVFNiVBRiU5NCVFOCVCQyU4MyVFMyU4MSU5OSVFMyU4MiU4QiVFMyU4MCU5MDIwMjYlRTUlQjklQjQxMCVFNiU5QyU4OCVFNyU4OSU4OCVFMyU4MCU5MSZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTU5MTgzMThmY2NlM2YxYTU1MmJjZTRkZTFiMWNiZjg4&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBub2dhdGFrYSZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWNiYWE0ODdlNWU4NDg4ZjQ0NjQ0MjVlZTRhNDY2ZWUz&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=a511d6df9c108a278ddcef8aa62c02e0",
+    "fetched_at": "2026-10-21 01:59:25",
+    "ja_summary": "・文章生成を行わず、提示された選択肢から確率を算出する「意思決定モデル（System One）」の最新比較。\n・2026年10月時点の各社ベンチマークを整理し、モデルごとの特性や性能差を検証。\n・測定条件の透明性を明記し、ビジネスの意思決定や技術選定における判断材料を提供。"
+  },
+  {
     "title": "サイバー攻撃､AIツール｢ARTEX｣利用の痕跡相次ぎ発覚－GMOサイバーセキュリティbyイエラエなどが調査 | 政治・経済・投資 | 東洋経済オンライン",
     "link": "https://toyokeizai.net/articles/-/961883?utm_source=rss&utm_medium=http&utm_campaign=link_back",
     "source": "東洋経済オンライン",
@@ -838,165 +998,5 @@
     "image": "https://business.nikkei.com/atcl/gen/19/00937/101500003/fb.jpg",
     "fetched_at": "2026-10-20 07:58:34",
     "ja_summary": "・精工技研がAI需要の拡大を追い風に、光コネクター研磨機の販売台数が2年で約10倍と急成長。\n・40年間磨き続けたニッチな光通信技術が、AIブームという3度目の好機で結実した。\n・長年の研究開発への継続投資が、現在の爆発的な業績拡大を支えている。"
-  },
-  {
-    "title": "中国AIスタートアップ6社「六小虎」、高まる収益化圧力　分かれる戦略",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03479/100600010/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "米ワシントンで2026年9月に開かれた米中首脳会談において、AI（人工知能）競争とそのリスク管理が貿易や安全保障と並ぶ主要議題の1つとなった。米国主導のAI秩序に対し、中国が猛追していることがその背景にある。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03479/100600010/topm.jpg?20220512",
-    "fetched_at": "2026-10-20 07:58:36",
-    "ja_summary": "米中対立の激化に伴い、中国の有力AIスタートアップ「六小虎」が国際競争の最前線に立たされている。\n米国主導のAI秩序に対抗する中、各社は収益化の実現に向けた経営戦略の転換を迫られている。\n政府主導のAI開発競争と市場での利益確保という二重の圧力下で、各社の今後の舵取りが注目される。"
-  },
-  {
-    "title": "AIがプロジェクト採点、熟練PMの知見集め炎上回避　QCD順守から価値創出へ",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00138/101402125/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "プロジェクトの遅延、要件の認識違いによる仕様変更、テスト工程での不具合多発、ベンダーや利用部門との調整難航――聞いただけで胃が痛くなるような、システム開発プロジェクトの「炎上」はどの企業でも回避したいものだ。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/00138/101402125/topm.jpg?20220512",
-    "fetched_at": "2026-10-20 07:58:36",
-    "ja_summary": "・熟練PMの知見を学習したAIがプロジェクトを自動採点し、炎上の兆候を早期検知する。\n・トラブルを未然に防ぐことで、従来のQCD順守だけでなく、新たな価値創出へのシフトを支援する。\n・システム開発における遅延や不具合などのリスクを、AI活用により未然に回避する。"
-  },
-  {
-    "title": "経営層へのAI導入、意思決定にAIを組み込む「AI拡張経営」を実践",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03786/100600002/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "経営層へのAI導入とは、経営の意思決定プロセスそのものに、AIを組み込むことを意味します。具体的には3つのレベルで考えることができます。経営者が、AIで何ができて何ができないか、AIは何が得意で何が苦手か、技術がどう進化しているかを自分なりに正しく認識する。これがレベル1です。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03786/100600002/topm.jpg?20220512",
-    "fetched_at": "2026-10-20 07:58:37",
-    "ja_summary": "・「AI拡張経営」とは、経営の意思決定プロセスにAIを直接組み込む手法のこと。\n・まずは経営層自身がAIの特性や技術動向を正しく理解することが不可欠。\n・技術を経営判断の基盤として活用し、組織の意思決定を高度化させる。"
-  },
-  {
-    "title": "四足歩行ロボットが吊り足場内を自律歩行、オリエンタル白石と燈が開発",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02792/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "オリエンタル白石と東京大学発スタートアップの燈（あかり、東京・千代田）は、橋梁工事などで使う吊（つ）り足場内で、四足歩行ロボットの自律歩行に成功した。AI（人工知能）を活用し、ロボットが吊りチェーンなどの障害物や床の段差をリアルタイムで認識しながら、安全に通れるルートを自ら選んで歩行する。今後、監視カメラなどを搭載し、現場巡回などでの活用を見込む。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02792/SNS.jpg?20220512",
-    "fetched_at": "2026-10-20 07:58:38",
-    "ja_summary": "・オリエンタル白石と燈が、吊り足場内を自律歩行する四足歩行ロボットを開発。\n・AIが障害物や段差をリアルタイムに認識し、安全なルートを自ら選択して移動。\n・今後はカメラを搭載し、建設現場の巡回や監視業務への活用を目指す。"
-  },
-  {
-    "title": "コアウィーブ株急落は「さざ波」　AI揺るがす規制リスク、焦点は米中間選挙",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/12100/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "「コアウィーブ・ショック」が世界のAI（人工知能）関連株を揺るがしている。2026年10月14日（米国時間）、AIデータセンタービジネスを手掛ける米新興CoreWeave（コアウィーブ）の社債価格と株価が急落し、不安が他のAI関連株へと広がった。ただこのショックはAIブームにとって「さざ波」にすぎない。さらなる大波は11月3日の米中間選挙と共に訪れる恐れがある。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/12100/topm.jpg?20220512",
-    "fetched_at": "2026-10-20 07:58:38",
-    "ja_summary": "・AI関連企業CoreWeaveの株価急落は市場に一時的な動揺を与えたが、影響は限定的。\n・本質的なリスクはAIブームそのものではなく、今後の規制動向にある。\n・11月の米中間選挙の結果が、AIビジネスを左右する最大の波乱要因となる。"
-  },
-  {
-    "title": "アマゾン「プライム感謝祭」開催中　iPhone Airなどから日用品まで",
-    "link": "https://www.watch.impress.co.jp/docs/news/2148911.html",
-    "source": "Impress Watch",
-    "published": "",
-    "summary": "Amazonのプライム会員限定セール「プライム感謝祭」が開催中です。秋を楽しむための商品をはじめ、人気ブランドや話題の商品、Amazon限定商品など、400万点以上を特別価格で販売します。期間は10月19日23時59分までですので、この週末に買い忘れがないよう、チェックしておきましょう。",
-    "image": "https://www.watch.impress.co.jp/img/ipw/list/2148/911/prime0.jpg",
-    "fetched_at": "2026-10-20 07:58:42",
-    "ja_summary": "・Amazonプライム会員限定セール「プライム感謝祭」が開催中\n・日用品や人気家電など400万点以上が特別価格で販売\n・10月19日（土）23時59分までの期間限定のため要チェック"
-  },
-  {
-    "title": "「AIに真似されてしまう」--ゲーム開発企業、体験版の一般公開を中止",
-    "link": "https://japan.cnet.com/article/35253747/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "アライアンス・アーツは10月16日、PCゲーム「PUKEY GODDESS SHOT TRICK」の体験版の一般公開を取りやめ、参加者を限定したオンライン体験会に切り替えると発表した。同社は、体験版をもとにAIなどでゲームの表現や内容を短期間で模倣・再現した作品が、本作の発売前に公開されることを懸念している。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35253747/\"><img src=\"https://japan.cnet.com/storage/thumbnails/thumb-184xauto-1356251-file.jpg\" /></a>",
-    "image": "https://japan.cnet.com/storage/thumbnails/thumb-184xauto-1356251-file.jpg",
-    "fetched_at": "2026-10-20 07:58:43",
-    "ja_summary": "・ゲーム会社が新作の体験版公開を中止し、限定的なイベントへ切り替え。\n・AIによって短期間で内容を模倣・盗用されるリスクへの懸念が理由。\n・正式発売前に類似品が横行することを防ぐ異例の対策。"
-  },
-  {
-    "title": "JR東日本、AIロボットでトイレ清掃　10月27日から赤羽駅で",
-    "link": "https://japan.cnet.com/article/35253745/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "JR東日本などは10月16日、赤羽駅でAIロボットによるトイレ清掃などの実証実験を10月27日から行うと発表した。期間は2027年1月中旬まで。AIやセンサーを活用し、必要な場所を必要なタイミングで清掃する仕組みを目指す。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35253745/\"><img src=\"https://japan.cnet.com/storage/thumbnails/thumb-184xauto-1356245-file.jpg\" /></a>",
-    "image": "https://japan.cnet.com/storage/thumbnails/thumb-184xauto-1356245-file.jpg",
-    "fetched_at": "2026-10-20 07:58:43",
-    "ja_summary": "・JR東日本が赤羽駅にて、AIロボットによるトイレ清掃の実証実験を10月27日から開始。\n・センサーとAIを活用し、必要な箇所を最適なタイミングで清掃する効率的な運用を目指す。\n・実験期間は2027年1月中旬までを予定。"
-  },
-  {
-    "title": "Amazon、米で小型原子炉12基の建設を検討　データセンターなどに電力",
-    "link": "https://japan.cnet.com/article/35253744/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "Amazonは10月19日、データセンターなどに電力を供給するため、米インディアナ州で小型モジュール炉（SMR）12基の建設を検討すると発表した。原子炉を開発するX-energy、電力会社のAmerican Electric Power（AEP）と協力し、合計96万kW（960MW）の発電能力を目指す。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35253744/\"><img src=\"https://japan.cnet.com/storage/thumbnails/thumb-184xauto-1356243-file.jpg\" /></a>",
-    "image": "https://japan.cnet.com/storage/thumbnails/thumb-184xauto-1356243-file.jpg",
-    "fetched_at": "2026-10-20 07:58:43",
-    "ja_summary": "・Amazonが米インディアナ州で小型モジュール炉（SMR）12基の建設を検討\n・AI等のデータセンター向けに計96万kWの電力を確保することが目的\n・電力会社や開発企業と協力し、クリーンなエネルギー供給体制を強化へ"
-  },
-  {
-    "title": "JAXA、火星衛星探査機「MMX」打ち上げ成功　フォボスの試料を地球へ",
-    "link": "https://japan.cnet.com/article/35253739/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "宇宙航空研究開発機構（JAXA）は10月20日午前4時41分（日本時間）、火星衛星探査機「MMX」を搭載したH3ロケット10号機を種子島宇宙センターから打ち上げた。火星を目指すMMXの長い旅が始まった。米航空宇宙局（NASA）も参加するこのミッションは、火星の衛星から試料を採取し、地球へ持ち帰る世界初の探査を目指す。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35253739/\"><img src=\"https://japan.cnet.com/storage/thumbnails/thumb-184xauto-1356249-file.jpeg\" /></a>",
-    "image": "https://japan.cnet.com/storage/thumbnails/thumb-184xauto-1356249-file.jpeg",
-    "fetched_at": "2026-10-20 07:58:43",
-    "ja_summary": "・JAXAが火星衛星探査機「MMX」を搭載したH3ロケットの打ち上げに成功。\n・NASAも協力し、火星の衛星から試料を採取して地球に持ち帰る世界初のミッションに挑む。\n・火星圏の起源解明を目指し、探査機は本格的な航行を開始した。"
-  },
-  {
-    "title": "ウェブ会議の相手、本当にヒト？ AIではない？ 疑心暗鬼を打破する「人間バッジ」　Zoomが提供開始",
-    "link": "https://japan.cnet.com/article/35253742/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "Worldは10月18日、Zoom会議の参加者が実在する人間かを確認し、画面にバッジを表示する「World ID for Zoom」を、世界のZoom企業顧客向けに提供を開始したと発表した。Zoom Marketplaceを通じて利用できる。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35253742/\"><img src=\"https://japan.cnet.com/storage/thumbnails/thumb-184xauto-1356239-file.jpg\" /></a>",
-    "image": "https://japan.cnet.com/storage/thumbnails/thumb-184xauto-1356239-file.jpg",
-    "fetched_at": "2026-10-20 07:58:43",
-    "ja_summary": "・Zoom会議の相手が実在する人間かを確認できる「World ID for Zoom」の提供が開始された。\n・AIによるなりすまし対策として、相手が人間であることを証明するバッジを画面に表示できる。\n・Zoom Marketplaceを通じて、世界の企業顧客が導入可能となった。"
-  },
-  {
-    "title": "アンソロピック「ロボットと組めばAIは肉体労働にも及ぶ」。それでも庭師の仕事はまだ安全かもしれない理由",
-    "link": "https://www.businessinsider.jp/article/2610-anthropic-ai-robots-gardening-jobs-automation/",
-    "source": "Business Insider Japan",
-    "published": "Mon, 19 Oct 2026 22:00:00 GMT",
-    "summary": "アンソロピックのロボティクス研究によって、AIの影響を受ける肉体労働の範囲が広がりました。ただし、園芸のような雑然とした作業の自動化は、依然として難しいままです。",
-    "image": "https://media.loom-app.com/loom/2026/10/19/2a0b9151-b0d9-4154-ac2f-f9e8547606a2/original.jpg?w=1200",
-    "fetched_at": "2026-10-20 07:58:44",
-    "ja_summary": "・AIとロボットの連携により、AIが物理的な肉体労働を担う可能性が拡大。\n・一方で、園芸のような不規則で複雑な環境での作業は依然として自動化が困難。\n・現状では、特定の技術を要する現場の肉体労働はAIの影響を受けにくい。"
-  },
-  {
-    "title": "AI業界に移れば時代を先取りできると思っていた。2年後、私は取り残され、AIの話題に疲れ果てている",
-    "link": "https://www.businessinsider.jp/article/2610-work-in-ai-burned-out-cant-keep-up-career/",
-    "source": "Business Insider Japan",
-    "published": "Mon, 19 Oct 2026 21:30:00 GMT",
-    "summary": "時代を先取りしようとAI分野で働くことを決めた筆者は、それが最も賢明なキャリア上の選択だと考えていました。しかし、いまはそう確信できなくなっています。",
-    "image": "https://media.loom-app.com/loom/2026/10/19/6d19df64-5400-40d5-88b0-1f5af0039cb3/original.jpg?w=1200",
-    "fetched_at": "2026-10-20 07:58:44",
-    "ja_summary": "・AI業界に先見の明を感じ転職したが、急速な進化と過熱する話題に疲弊。\n・専門家として期待した成長よりも、技術の速さに翻弄され取り残される感覚を抱いている。\n・AI分野でのキャリア選択が、必ずしも賢明とは言い切れない状況に直面している。"
-  },
-  {
-    "title": "アンソロピックの巨額契約が映すAIコストの現実。トークン単価低下でも投資増の理由をAkamai幹部に聞く",
-    "link": "https://www.businessinsider.jp/article/2610-anthropic-akamai-ai-infrastructure-cost/",
-    "source": "Business Insider Japan",
-    "published": "Mon, 19 Oct 2026 21:00:00 GMT",
-    "summary": "アンソロピックとAkamaiが結んだ116億ドル契約。トークン単価が下がる一方で、なぜAIインフラ投資は膨らむのか。Akamai幹部に理由を聞きました。",
-    "image": "https://media.loom-app.com/loom/2026/10/06/d2ec6107-d797-4d6e-b386-2425de629014/original.jpg?w=1200",
-    "fetched_at": "2026-10-20 07:58:44",
-    "ja_summary": "・アンソロピックとAkamaiの116億ドル規模の巨額契約が、AIインフラ需要の爆発的拡大を象徴している。\n・AIモデルのトークン単価は低下傾向にあるが、利用用途の急増により、企業はインフラ投資をさらに加速させている。\n・コスト効率化が進む一方で、AIの社会実装に伴う運用コストの総額は今後も右肩上がりで推移する見通し。"
-  },
-  {
-    "title": "イーロン・マスク、「Grok」の決済ミスによる損失補償を明言…AIエージェントの責任の所在は？",
-    "link": "https://www.businessinsider.jp/article/2610-elon-musk-spacex-will-pay-users-back-grok-purchase-mistakes/",
-    "source": "Business Insider Japan",
-    "published": "Mon, 19 Oct 2026 21:00:00 GMT",
-    "summary": "イーロン・マスクは、GrokのAIが取引でミスをしたり、カード情報を漏えいしたりした場合、スペースXが補償すると述べました。",
-    "image": "https://media.loom-app.com/loom/2026/10/15/56eb14b4-0b8f-4a00-99e9-6fc04cb8e81a/original.jpg?w=1200",
-    "fetched_at": "2026-10-20 07:58:44",
-    "ja_summary": "・イーロン・マスクがAI「Grok」の決済ミスや情報漏洩時の補償を明言\n・損害が発生した際はスペースXが責任を負う方針\n・AIエージェントの法的責任の所在が議論される中での異例の表明"
-  },
-  {
-    "title": "ウェブを吸い尽くしたAI企業が次に狙うのは、あなたの「仕事の進め方」",
-    "link": "https://www.businessinsider.jp/article/2610-ai-workplace-data-training-agents-robots/",
-    "source": "Business Insider Japan",
-    "published": "Mon, 19 Oct 2026 21:00:00 GMT",
-    "summary": "AI企業は、企業の社内記録や、人間が働く様子を記録したデータにお金を払い始めています。AIエージェントやロボットの開発を支えるデータ争奪戦を、Business Insiderが取材しました。",
-    "image": "https://media.loom-app.com/loom/2026/10/19/ade18cf2-7ce1-427a-9ebd-34fb13f73784/original.jpg?w=1200",
-    "fetched_at": "2026-10-20 07:58:44",
-    "ja_summary": "・AI開発企業が、次なる学習データとして「個人の業務プロセス」や「社内記録」を買い集めている。\n・AIエージェントやロボットの高度化に向け、企業の現場作業データが新たな争奪戦の対象となっている。\n・AIが単なる知識だけでなく、人間の具体的な働き方を学習・模倣する時代に突入している。"
   }
 ]
