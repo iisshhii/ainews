@@ -1,5 +1,175 @@
 [
   {
+    "title": "ゴルフ大会で育む力／コアウィーブ危機／三菱地所、シェア休養室に商機（2026年10月21日版） (日経ビジネスAUDIOモーニング)",
+    "link": "https://business.nikkei.com/atcl/audio/22/00001/102000985/",
+    "source": "日経ビジネス 最新",
+    "published": "",
+    "summary": "ダイキン社員100人が沖縄へ　プロゴルフ大会のもてなしで育む「やり抜く力」／コアウィーブ株価急落は序章か　AI規制「民主党ショック」の現実味／「休養室」設置義務、7割超が手つかず　三菱地所は企業間シェア型に商機、他",
+    "image": "https://business.nikkei.com/atcl/audio/22/00001/102000985/fb.jpg",
+    "fetched_at": "2026-10-21 05:18:47",
+    "ja_summary": "・ダイキンがゴルフ大会を通じ社員に「やり抜く力」を育成。\n・AI関連株コアウィーブの急落は「AI規制強化」の予兆か。\n・企業向けシェア型休養室が、設置義務化の進まない企業に新たな商機。"
+  },
+  {
+    "title": "P＆G出身社長のIT新興、「SaaSの死」に備え測量会社買収　「稼げるのは現場」\t (AIディスラプション)",
+    "link": "https://business.nikkei.com/atcl/gen/19/00005/101600271/",
+    "source": "日経ビジネス 最新",
+    "published": "",
+    "summary": "「SaaSの死」を見据え、ITスタートアップが建設関連の老舗を買った――。P＆G出身の39歳社長は、AIで誰でも作れるソフトを売るより、自ら現場仕事を担う方が稼げると考えた。買収した建設企業は翌期には営業利益が3倍に。クアンドは5年間で10件の買収を狙う。",
+    "image": "https://business.nikkei.com/atcl/gen/19/00005/101600271/fb.jpg",
+    "fetched_at": "2026-10-21 05:18:47",
+    "ja_summary": "・IT新興クアンドが「SaaSの限界」を見越し、あえて建設・測量会社を買収。\n・AIで代替可能なソフト販売から脱却し、利益率の高い「現場の泥臭い仕事」に注力。\n・買収先の利益を3倍に急伸させた実績を基に、今後5年で10件のM&Aを計画。"
+  },
+  {
+    "title": "UDPは「到着」を確認しない、パケットキャプチャーでTCPとの違いを知ろう",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03797/101300003/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "UDPはハンドシェークも確認応答も再送制御もせず、「データをただ送る」だけだ。ヘッダーも固定8バイトとシンプルである。Gmail宛てのメール送信をパケットキャプチャーで追い、DNSはUDP、メールの送信はTCPで動く様子を確かめる。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03797/101300003/topm.jpg?20220512",
+    "fetched_at": "2026-10-21 05:18:50",
+    "ja_summary": "・UDPは確認応答や再送制御を行わず、データを送るだけのシンプルな通信方式。\n・通信ヘッダーが8バイトと軽量で、DNSなどの高速性が求められる用途に適している。\n・パケットキャプチャーを用いると、UDP（DNS）とTCP（メール送信）の動きの違いが可視化できる。"
+  },
+  {
+    "title": "中国AI「六小虎」、米国企業と開発力は肉薄　稼ぐ力には大きな差",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03479/100600011/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "中国AIスタートアップ6社「大模型六小虎（以下、六小虎）」は戦略を変更し、競争の焦点が「AIモデルを作る」から「普及させて稼ぐ」へ移りつつある。6社のうち、月之暗面（Moonshot AI）と智譜北京智譜華章科技（Z.ai）を取り上げ、両社の戦略転換とオープン戦略を比べた上で、米国企業との「実力差」を検証する。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03479/100600011/topm.jpg?20220512",
+    "fetched_at": "2026-10-21 05:18:51",
+    "ja_summary": "中国AIスタートアップ「六小虎」は、モデル開発力で米国企業に肉薄するも、収益化では依然大きな差。\n「作る」から「稼ぐ」へ戦略転換し、オープン戦略で市場開拓を目指す。\n特に月之暗面とZ.aiの動向に注目が集まる。"
+  },
+  {
+    "title": "業務層へのAI導入、業務プロセスをAIエージェントに置き換える",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03786/100600003/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "企業のAI戦略における4階層（経営戦略・投資判断・業務再設計・実装）のうち、第三階層（業務再設計）と第四階層（実装）は、まさに業務層が対象です。「AI前提で業務をどう作り直すか」というゼロベースの再設計と、それに基づくタスク粒度の実装が、業務層へのAI導入の中核となります。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03786/100600003/topm.jpg?20220512",
+    "fetched_at": "2026-10-21 05:18:51",
+    "ja_summary": "AI導入の鍵は、AIを前提とした業務のゼロベース再設計と、タスクレベルでの実装。\nこれにより、AIエージェントが既存の業務プロセスを代替する。\n経営戦略や投資判断を支える、業務層でのAI活用が推進される。"
+  },
+  {
+    "title": "標準労務費、見積書の内訳明示は定着途上　AI漫画や動画で浸透図る元請け",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03784/100500003/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "改正建設業法の全面施行で運用が始まった「標準労務費」。日経アーキテクチュアの経営動向調査で、標準労務費に基づく新たな取引ルールへの対応状況を尋ねたところ、約8割が「十分」または「ある程度」対応できていると回答した。もっとも、協力会社を含めたサプライチェーン（供給網）全体に新たな商習慣を浸透させるには、もう少し時間がかかりそうだ。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03784/100500003/34_sns.jpg?20220512",
+    "fetched_at": "2026-10-21 05:18:52",
+    "ja_summary": "・改正建設業法による「標準労務費」の運用が開始され、約8割の企業が対応済みと回答。\n・一方で、取引先全体への新ルールの浸透には依然として時間を要する状況。\n・元請け企業はAI漫画や動画を活用し、現場への周知・理解促進を図っている。"
+  },
+  {
+    "title": "OneDriveのCopilotでファイルを音声要約、ポッドキャスト風にも切り替え",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/01787/101600231/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "OneDriveのCopilotでは、ファイルを開かずに内容の概要を音声で生成できる。再生速度の変更やトランスクリプト表示、1人で説明する要約形式と2人が会話するポッドキャスト形式の切り替え、MP3形式での保存・共有まで、一連の操作を紹介する。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/01787/101600231/topm.jpg?20220512",
+    "fetched_at": "2026-10-21 05:18:52",
+    "ja_summary": "要約の生成に失敗しました。"
+  },
+  {
+    "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+    "link": "https://openai.com/index/ted-taylor-restaurant",
+    "source": "OpenAI",
+    "published": "Tue, 20 Oct 2026 10:00:00 GMT",
+    "summary": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/6r0aKM9KAloDNT979EYd6j/958b4b872830668c232730e99caa3f9e/ted-taylor-restaurant-social.png?w=1600&amp;h=900&amp;fit=fill",
+    "fetched_at": "2026-10-21 05:19:01",
+    "ja_summary": "・Schlotzsky’sとCinnabonの加盟店がChatGPTを活用した業務改善を実施。\n・メニュー価格の改定時間を95%削減し、業務効率を劇的に向上。\n・年間10万ドルのキャッシュフロー創出が可能なワークフローを構築。"
+  },
+  {
+    "title": "OpenAI acquires Orchestra Bio",
+    "link": "https://openai.com/index/openai-to-acquire-orchestra-bio",
+    "source": "OpenAI",
+    "published": "Tue, 20 Oct 2026 00:00:00 GMT",
+    "summary": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&amp;D, helping biopharma teams accelerate drug development and advance new treatments.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/qoX4w89e0GxOOa2GsAdSm/b4a461997956908e9813e59044617416/openai-to-acquire-orchestra-bio-social.png?w=1600&amp;h=900&amp;fit=fill",
+    "fetched_at": "2026-10-21 05:19:01",
+    "ja_summary": "OpenAIがライフサイエンス分野のAI活用を推進するOrchestra Bioを買収。\nバイオ医薬品の研究開発プロセスをAIで効率化し、新薬開発の加速を目指す。"
+  },
+  {
+    "title": "Investing in the public benefit",
+    "link": "https://www.anthropic.com/news/public-benefit-fund",
+    "source": "Anthropic (News)",
+    "published": "Sun, 18 Oct 2026 00:00:00 +0000",
+    "summary": "We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows.",
+    "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/85648c93880ac27347f8e6a4008650a65c12ede8-1200x630.jpg",
+    "fetched_at": "2026-10-21 05:19:02",
+    "ja_summary": "要約の生成に失敗しました。"
+  },
+  {
+    "title": "An update on independent evaluators",
+    "link": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
+    "source": "Anthropic (News)",
+    "published": "Thu, 15 Oct 2026 00:00:00 +0000",
+    "summary": "To evaluate the safety of our systems, Anthropic is giving employee-like access to a team from METR, a nonprofit that evaluates frontier AI models, and we're in early discussions with several other organizations, including Hugging Face.",
+    "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/d2e351e6311a0ada8ea4a0304ce6cda39243eaf4-1200x630.jpg",
+    "fetched_at": "2026-10-21 05:19:02",
+    "ja_summary": "・AnthropicがAIの安全性評価のため、非営利団体METRのチームに社内レベルのアクセス権を付与。\n・Hugging Faceなど複数の外部組織とも同様の評価枠組みに向けた協議を開始。\n・自社システムの安全性を客観的に検証する体制を強化する方針。"
+  },
+  {
+    "title": "Strengthening our defenses against distillation attacks",
+    "link": "https://www.anthropic.com/news/distillation-defenses",
+    "source": "Anthropic (News)",
+    "published": "Mon, 12 Oct 2026 00:00:00 +0000",
+    "summary": "Illicit distillation allows model developers to copy frontier AI capabilities without creating proportionally robust safeguards. Here, we describe how we’ve reduced the rate of distillation by more than 90%.",
+    "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/a5934d1ae8428b2a97fae1963a5f427594fc7202-1200x630.jpg",
+    "fetched_at": "2026-10-21 05:19:03",
+    "ja_summary": "・AIモデルの能力を不正にコピーする「蒸留攻撃」への対策を強化。\n・新たな防御策により、攻撃によるモデル流出の成功率を90％以上削減。\n・先端AIの知財保護と安全性を高める技術基盤を構築。"
+  },
+  {
+    "title": "Building on our commitment to American scientific discovery",
+    "link": "https://www.anthropic.com/news/genesis-mission-commitment",
+    "source": "Anthropic (News)",
+    "published": "Thu, 08 Oct 2026 00:00:00 +0000",
+    "summary": "Anthropic is committing $150 million over three years to the Genesis Mission, a federal initiative to accelerate scientific and technological discovery through AI.",
+    "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+    "fetched_at": "2026-10-21 05:19:03",
+    "ja_summary": "・AnthropicがAIによる科学技術発展を目的とした連邦政府の「Genesis Mission」に参画。\n・今後3年間で1億5000万ドルの資金を提供。\n・米国における科学的発見の加速に向けた取り組みを強化。"
+  },
+  {
+    "title": "ClickHouse Administration & Distributed Operations: Level 2 Workshop (CH-201 to CH-204)",
+    "link": "https://speakerdeck.com/shiviyer007/clickhouse-administration-and-distributed-operations-level-2-workshop-ch-201-to-ch-204",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-10-20T15:49:30-04:00",
+    "summary": "A Level 2 technical workshop from ChistaDATA on replication, Keeper, sharding and ingestion: how a ClickHouse cluster stays consistent, where it breaks, and the rehearsed procedures that bring it back. Checked against ClickHouse 26.3 and 26.8 LTS, with labs and fault drills run on a dedicated 2 x 2 cluster with its own three-node Keeper ensemble and a Kafka broker.\n\nFour modules, about 14 hours, instructor-led and hands-on:\n\nCH-201 Replication internals: the replicated log and queue, system.replicas as a health surface, stuck-entry triage, and four rehearsed recovery scenarios.\n\nCH-202 Keeper: Raft mechanics, quorum arithmetic, snapshots and logs, coordination-data backup, mntr monitoring, and three fault drills.\n\nCH-203 Distributed tables: fan-out and initial_query_id tracing, write paths, sharding keys against hot shards, GLOBAL IN and JOIN, and resharding.\n\nCH-204 Ingestion engineering: Kafka consumer semantics, the Kafka engine to materialized view to MergeTree boundary, async inserts, deduplication windows, outage arithmetic and SLOs.\n\nWritten for CTOs, architects, SREs, DBAs and data engineers who run ClickHouse in production. Prerequisite: Level 1, ClickHouse Internals Foundations (CH-101 to CH-105): https://speakerdeck.com/shiviyer007/clickhouse-internals-foundations-level-1-workshop-ch-101-to-ch-105\n\nPresented by Shiv Iyer, Founder and CEO, ChistaDATA Inc.\nhttps://chistadata.com\n\nThe fault drills are designed for an isolated lab cluster. Do not run fault-injection steps against production or shared environments, and test on your own workload before applying anything to production.\n\nClickHouse is a registered trademark of ClickHouse, Inc. Apache Kafka is a trademark of the Apache Software Foundation. ChistaDATA Inc. is independent of both, and this workshop is not endorsed by either.",
+    "image": "https://files.speakerdeck.com/presentations/46f96666d5634288af9bf775e40457c4/preview_slide_0.jpg?40997003",
+    "fetched_at": "2026-10-21 05:19:05",
+    "ja_summary": "・ChistaDATA社によるClickHouseの運用技術を深掘りする全14時間の実践型ワークショップ。\n・レプリケーション、Keeper、分散テーブル、Kafka連携などの重要テーマを実機での障害訓練を通じて習得。\n・本番環境での安定運用を目指すエンジニアを対象とし、最新のLTSバージョンに対応した内容。"
+  },
+  {
+    "title": "ClickHouse Internals Foundations: Level 1 Workshop (CH-101 to CH-105)",
+    "link": "https://speakerdeck.com/shiviyer007/clickhouse-internals-foundations-level-1-workshop-ch-101-to-ch-105",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-10-20T15:07:33-04:00",
+    "summary": "A Level 1 technical workshop from ChistaDATA on how ClickHouse works underneath: how it executes a query, writes and merges parts, prunes data, compresses columns and serves dictionaries. Behaviour and defaults were checked against ClickHouse 26.3 and 26.8 LTS, and every claim on the slides is backed by a query you can run on your own cluster.\n\nFive modules, about 15 hours, instructor-led and hands-on:\n\nCH-101 Architecture and execution: query lifecycle, vectorised block processing, the MergeTree family and the settings hierarchy.\n\nCH-102 Parts and on-disk layout: part anatomy, the insert path and backpressure, merge selection, mutations as rewrites, granules and part states.\n\nCH-103 Keys, indexes and projections: partition pruning and lifecycle, sort-key engineering with EXPLAIN indexes = 1, skip indexes, projections, and default changes between versions.\n\nCH-104 Compression codecs: LZ4 and ZSTD trade-offs, Delta, DoubleDelta, Gorilla, T64, codec chaining rules, and a measurement loop over system.columns.\n\nCH-105 Dictionaries: source wiring, layout selection and memory profile, lifetime and refresh, dictGet against JOIN, and operating through system.dictionaries.\n\nWritten for CTOs, architects, analytics engineers, data scientists, DBAs and data engineers.\n\nPresented by Shiv Iyer, Founder and CEO, ChistaDATA Inc.\nhttps://chistadata.com\n\nDefaults change between releases, so read them from your own server and test on your own workload before applying anything to production.\n\nClickHouse is a registered trademark of ClickHouse, Inc. ChistaDATA Inc. is independent of ClickHouse, Inc., and this workshop is not endorsed by it.",
+    "image": "https://files.speakerdeck.com/presentations/a3b6d71b262148f2bf6fcd1c65a306ff/preview_slide_0.jpg?40996615",
+    "fetched_at": "2026-10-21 05:19:05",
+    "ja_summary": "要約の生成に失敗しました。"
+  },
+  {
+    "title": "JetBrains Airとは何か？",
+    "link": "https://speakerdeck.com/x5gtrn/what-is-jetbrains-air-ja",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-10-20T14:46:40-04:00",
+    "summary": "https://daisuke.masuda.tokyo/article-2026-10-21-0400\n\nJetBrains Airは、単体のIDEではなく、Air app、Air in IDEs、Air Teams、Governance、Context、Gatewayを横断するエージェント開発の製品群です。既存のJetBrains IDEで複数エージェントを動かし、Worktree・Docker・クラウド環境で作業を分離しながら、差分、テスト、PRを人間が確認して統合します。エージェントやモデルを選べる柔軟さはある一方、ローカルとクラウドで認証・費用・利用条件が異なり、EAP／Preview機能も混在します。導入時は、品質保証・レビュー負荷・費用・データ境界を含む小規模なPoCで適合性を検証することが重要です。",
+    "image": "https://files.speakerdeck.com/presentations/c2b2c0d62b6d480985e6d622208d7156/preview_slide_0.jpg?40996470",
+    "fetched_at": "2026-10-21 05:19:05",
+    "ja_summary": "要約の生成に失敗しました。"
+  },
+  {
+    "title": "What Is JetBrains Air",
+    "link": "https://speakerdeck.com/x5gtrn/what-is-jetbrains-air",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-10-20T14:44:36-04:00",
+    "summary": "<a href=\"https://speakerdeck.com/x5gtrn/what-is-jetbrains-air-ja\">Japanese Edition</a>\nhttps://daisuke.masuda.tokyo/article-2026-10-21-0400\n\nJetBrains Air is a product system for agentic development, not a standalone IDE. It spans the Air app, Air in IDEs, Air Teams, Governance, Context, and Gateway. Developers can run multiple agents within their existing JetBrains IDEs, isolate work through Git worktrees, Docker, or cloud environments, and then have humans review and integrate diffs, tests, and pull requests. Although Air offers flexibility in choosing agents and models, authentication, pricing, and availability differ between local and cloud environments, and EAP/Preview features are still mixed across the product surfaces. Before adoption, organizations should validate fit through a small proof of concept that considers quality assurance, review overhead, cost, and data boundaries.",
+    "image": "https://files.speakerdeck.com/presentations/083f9ad87b104af58b98622c28a38e5a/preview_slide_0.jpg?40996443",
+    "fetched_at": "2026-10-21 05:19:05",
+    "ja_summary": "要約の生成に失敗しました。"
+  },
+  {
     "title": "検索流入は4割減　AIの「ゼロクリック」に企業はどう勝つか？",
     "link": "https://www.itmedia.co.jp/business/articles/2610/19/news112.html",
     "source": "ITmedia ビジネス",
@@ -828,175 +998,5 @@
     "image": "https://res.cloudinary.com/zenn/image/upload/s--BUGaLjxc--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%25E3%2581%25AE%25E4%25BC%259A%25E8%25A9%25B1%25E3%2582%259255%25E5%2588%2586%25E6%2594%25BE%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%258A%25E3%2581%2584%25E3%2581%259F%25E3%2582%2589%25E3%2580%2581272%252C422%25E3%2583%2588%25E3%2583%25BC%25E3%2582%25AF%25E3%2583%25B3%25E3%2581%258C13%252C522%25E3%2581%25AB%25E5%259C%25A7%25E7%25B8%25AE%25E3%2581%2595%25E3%2582%258C%25E3%2581%25A6%25E3%2581%2584%25E3%2581%25BE%25E3%2581%2597%25E3%2581%259F%2520%25E2%2580%2595%2520...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%258A%25E3%2581%2598%25E3%2581%2595%25E3%2582%2593AI%25E3%2583%25A9%25E3%2583%259C%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzZhYjlkMjRhMmYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
     "fetched_at": "2026-10-20 10:36:37",
     "ja_summary": "・Claude Codeは一定時間放置されると、会話履歴を自動で大幅に圧縮する機能が実装されている。\n・実証実験では、約27万トークンの会話が55分間の放置で約1.3万トークンまで圧縮された。\n・この「アイドル圧縮」により、長時間のセッションにおいても効率的なキャッシュ管理が可能となる。"
-  },
-  {
-    "title": "Kaigi on Rails 2026 感想 ＆ OSTで「ファットモデル」の議論をしたよ！",
-    "link": "https://zenn.dev/progate/articles/b49c75fc6ab1ff",
-    "source": "Zenn Trends",
-    "published": "Mon, 19 Oct 2026 05:38:03 GMT",
-    "summary": "横江( @yokoe24 )です！\nProgate さんで、業務委託としてお手伝いエンジニアをしています。\n最近の Progate では、Ruby コースが大幅にアップデートされて、演習環境用の Ruby のバージョンが 4.0 に上がったほか、minitest が学べるようになるなど進化しました🎉\nさて、2026/10/16〜17 におこなわれた\nKaigi on Rails 2026 に参加してきましたので、今日はその感想を書きます！！\n\n スピーカーたちに研究意欲を刺激される\n正直、行く前は「AIにコードを書いてもらってるし、言語系のカンファレンスに行って得るものはあるかなぁ……」...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--JrkNtSjd--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Kaigi%2520on%2520Rails%25202026%2520%25E6%2584%259F%25E6%2583%25B3%2520%25EF%25BC%2586%2520OST%25E3%2581%25A7%25E3%2580%258C%25E3%2583%2595%25E3%2582%25A1%25E3%2583%2583%25E3%2583%2588%25E3%2583%25A2%25E3%2583%2587%25E3%2583%25AB%25E3%2580%258D%25E3%2581%25AE%25E8%25AD%25B0%25E8%25AB%2596%25E3%2582%2592%25E3%2581%2597%25E3%2581%259F%25E3%2582%2588%25EF%25BC%2581%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E6%25A8%25AA%25E6%25B1%259F%25EF%25BC%2588%25E3%2582%2588%25E3%2581%2593%25E3%2581%2588%25EF%25BC%2589%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2UzOTZjNjhlM2MuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Progate%2520Tech%2520Blog%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzExMjA2NjYzODIuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "fetched_at": "2026-10-20 10:36:37",
-    "ja_summary": "・ProgateのRubyコースが大幅アップデートされ、バージョン4.0対応やminitest学習が可能に。\n・Kaigi on Rails 2026に参加し、スピーカーの熱量に触れ知的好奇心が刺激される体験をした。\n・カンファレンス内で「ファットモデル」についての議論を行い、深い学びを得た。"
-  },
-  {
-    "title": "Claude Codeでプロンプトインジェクションに備える",
-    "link": "https://zenn.dev/luxiar/articles/a341a2df29dcfe",
-    "source": "Zenn Trends",
-    "published": "Mon, 19 Oct 2026 02:00:05 GMT",
-    "summary": "はじめに\n昨今はAIによる作業の割合が大きく増え、AI前提の開発が当たり前になりつつあると感じます。私自身、調査から計画、実行、レビューまですべての作業でClaudeを活用しています。\n便利な反面、AIを狙った攻撃やAIを悪用した攻撃も登場しており、企業への不正アクセスや個人情報漏洩のニュースを目にする機会も増えました。\nAIを活用する上で、こういった話を他人事とせず、個人レベルでどういった対策をすべきか考えていく必要があります。\n本記事では、プロンプトインジェクション[1]を取り上げ、Claude Codeを利用する開発者個人ができる対策を紹介します。\n\n 背景\nClaude Co...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--HanAPn-P--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%25E3%2581%25A7%25E3%2583%2597%25E3%2583%25AD%25E3%2583%25B3%25E3%2583%2597%25E3%2583%2588%25E3%2582%25A4%25E3%2583%25B3%25E3%2582%25B8%25E3%2582%25A7%25E3%2582%25AF%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3%25E3%2581%25AB%25E5%2582%2599%25E3%2581%2588%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Suzu%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2JiYmNkZDg1ZTIuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2583%25A9%25E3%2582%25B0%25E3%2582%25B6%25E3%2582%25A4%25E3%2582%25A2%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jTFpDay1rQVVOS2VWTkZiN0NCdFlobXVrMkVtcE1vQ1ZNeUxxM1pySmh4WXJxb21tYz1zMjUwLWM=%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "fetched_at": "2026-10-20 10:36:38",
-    "ja_summary": "・AI開発が普及する一方で、プロンプトインジェクション等の攻撃リスクが増大している。\n・開発者は他人事と捉えず、個人レベルでセキュリティ対策を講じる必要がある。\n・本記事では、Claude Codeを活用する開発者が今すぐ実行すべき防御策を解説する。"
-  },
-  {
-    "title": "CloudWatch Logsのコスト最適化：どこまでAIに任せてどこから人間が承認すべきか",
-    "link": "https://speakerdeck.com/yama3133/cloudwatch-logs-no-kosuto-saitekika-doko-made-ai-ni-makase-te-doko-kara-ningen-ga-shounin-subeki-ka",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-10-19T19:48:20-04:00",
-    "summary": "",
-    "image": "https://files.speakerdeck.com/presentations/911e8f1d51744f1e8a663dcd79b0fd0d/preview_slide_0.jpg?40980187",
-    "fetched_at": "2026-10-20 10:36:38",
-    "ja_summary": "- クラウド監視コストの削減には、AIによるログ選別と人間による承認フローの組み合わせが不可欠。\n- AIが削減対象を提案し、人間がビジネス上の重要度を判断する「分担体制」が最適解。\n- 運用の自動化を進めつつ、重要な判断を人が担うことで効率的なコスト最適化を実現する。"
-  },
-  {
-    "title": "Azure Copilot Resiliency Agent (preview)",
-    "link": "https://speakerdeck.com/tomokusaba/azure-copilot-resiliency-agent-preview",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-10-19T19:16:01-04:00",
-    "summary": "Azure Copilot Resiliency Agent (preview)\nすきやねん Azure!! #43\nhttps://sukiyanenazure.connpass.com/event/406646/",
-    "image": "https://files.speakerdeck.com/presentations/1fbcd63abe2741a2b8e31b7dcbc1acf8/preview_slide_0.jpg?40980014",
-    "fetched_at": "2026-10-20 10:36:38",
-    "ja_summary": "・Azure Copilotの新機能「Resiliency Agent（プレビュー版）」の解説勉強会を開催。\n・システムの障害復旧や回復性をCopilotがどのように支援するかを技術的に深掘り。\n・最新のAzure運用自動化や信頼性向上に興味があるエンジニア向けの内容。"
-  },
-  {
-    "title": "osaka-claude-meetup-20261019",
-    "link": "https://speakerdeck.com/namiki64/osaka-claude-meetup-20261019",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-10-19T11:48:45-04:00",
-    "summary": "2026/10/19に開催された <a href=\"https://luma.com/claude-meetup-osaka-20261019?tk=3R5bGA\">Osaka | Claude Meetup</a> の発表資料です。今の自分の悩みや試行錯誤を共有し、参加者同士のディスカッションへとつなげました。",
-    "image": "https://files.speakerdeck.com/presentations/fa16786fd2c049a99051818caa97b9bf/preview_slide_0.jpg?40975989",
-    "fetched_at": "2026-10-20 10:36:38",
-    "ja_summary": "・2026年10月19日開催の「Osaka | Claude Meetup」の発表資料を公開。\n・参加者自身の悩みや試行錯誤の事例を共有。\n・知見を共有し合うディスカッションの様子をまとめた内容。"
-  },
-  {
-    "title": "【もう無理だよ…】免許証画像まで流出する時代に、エンジニアは何をすればいいのか",
-    "link": "https://qiita.com/shinkai_/items/4c6c12324e115a125621",
-    "source": "Qiita (Popular)",
-    "published": "2026-10-16T14:27:11+09:00",
-    "summary": "## はじめに\n\n最近、個人情報漏えいのニュースが多すぎないでしょうか。\n\nスマホを開くと、また誰でも知っている会社の名前が出ている。\n\nそう感じているエンジニアも多いんじゃないかと思います。\n\nここ最近で特にインパクトが大きかったのがタイムズカーの件です。\n\n運転免許証の画像まで漏えいしたことで、「口座を勝手に作られるのでは」という不安が繰り返し報じられています。\n\nこの記事では、2026年10",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYxMjAzMDIyJTJGMGIxMTAwMjI1ZTY5ZmU3YzVkZWYxYzFlNDVlNzk5M2M3MjU0MTU4MyUyRnhfbGFyZ2UucG5nJTNGMTY3MDk5NjkzMj9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9ZGZiNzlkYTk4ZTljMjBiMmQ1MzhmOTNiNDhjN2UyYWI%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Dbd0ca793ffeb8f6099b8a44174ec6110?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJTkwJUUzJTgyJTgyJUUzJTgxJTg2JUU3JTg0JUExJUU3JTkwJTg2JUUzJTgxJUEwJUUzJTgyJTg4JUUyJTgwJUE2JUUzJTgwJTkxJUU1JTg1JThEJUU4JUE4JUIxJUU4JUE4JUJDJUU3JTk0JUJCJUU1JTgzJThGJUUzJTgxJUJFJUUzJTgxJUE3JUU2JUI1JTgxJUU1JTg3JUJBJUUzJTgxJTk5JUUzJTgyJThCJUU2JTk5JTgyJUU0JUJCJUEzJUUzJTgxJUFCJUUzJTgwJTgxJUUzJTgyJUE4JUUzJTgzJUIzJUUzJTgyJUI4JUUzJTgzJThCJUUzJTgyJUEyJUUzJTgxJUFGJUU0JUJEJTk1JUUzJTgyJTkyJUUzJTgxJTk5JUUzJTgyJThDJUUzJTgxJUIwJUUzJTgxJTg0JUUzJTgxJTg0JUUzJTgxJUFFJUUzJTgxJThCJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9N2E2OTE3YWQ0NTdmMzFmY2Y0NGFjZmY5ZTA0NzY1MGY&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBzaGlua2FpXyZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWYxYjY3MWE3NWQ4ZWQ1OTJjMjhkMzA4NTlmNGMxM2Jk&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=3f1bd75cc6458c26a96a55a512ee0133",
-    "fetched_at": "2026-10-20 10:36:42",
-    "ja_summary": "・企業からの個人情報漏えいが相次ぎ、免許証画像流出など被害が深刻化。\n・悪用によるなりすましリスクが高まり、社会的な不安が増大している。\n・エンジニアには、より強固なセキュリティ対策とリスクへの備えが求められている。"
-  },
-  {
-    "title": "みのるん式 登壇資料の作成ノウハウをスキルとして公開しました！",
-    "link": "https://qiita.com/minorun365/items/ed4c760f616cf3c0a958",
-    "source": "Qiita (Popular)",
-    "published": "2026-09-21T11:56:53+09:00",
-    "summary": "こんにちは、Claude Codeです。普段から、みのるんの登壇資料づくりを手伝っています。\n\nみのるんが登壇を重ねるなかで培ってきたスライド作成のノウハウを、私たちAIエージェントが読めるスキルの形にまとめて公開しました！\n\nhttps://github.com/minorun365/minorun-marp-skill\n\nこんな感じのスライドができます。\n\n![見本デッキの一覧](https:",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYxNjMzODU2JTJGYzIyNmJjMzRhYzZjNDVhMjFmNWU1MTJkMWM3MmE2ZjA5NzQ5NDU3OCUyRnhfbGFyZ2UucG5nJTNGMTY5OTk1NDk3Nj9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9MTlhZDI4ODRkNmQ2MzEyNjMxZDJkNTBjOTZmOTA5ZjU%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYxZTIwZGI1ZTdlNDA3ZWFlN2I5NzBlYzk5OTg4MGRjOGMzY2MwZjY0JTJGb3JpZ2luYWwuanBnJTNGMTY2NzI3NDk2Mz9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz04OTI0NDcwMDk1MDMyZjUxYmZlNzE3ZjVkOGUzYmE3ZA%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D75789497542ed55352086443c7ba4c98?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgxJUJGJUUzJTgxJUFFJUUzJTgyJThCJUUzJTgyJTkzJUU1JUJDJThGJTIwJUU3JTk5JUJCJUU1JUEzJTg3JUU4JUIzJTg3JUU2JTk2JTk5JUUzJTgxJUFFJUU0JUJEJTlDJUU2JTg4JTkwJUUzJTgzJThFJUUzJTgyJUE2JUUzJTgzJThGJUUzJTgyJUE2JUUzJTgyJTkyJUUzJTgyJUI5JUUzJTgyJUFEJUUzJTgzJUFCJUUzJTgxJUE4JUUzJTgxJTk3JUUzJTgxJUE2JUU1JTg1JUFDJUU5JTk2JThCJUUzJTgxJTk3JUUzJTgxJUJFJUUzJTgxJTk3JUUzJTgxJTlGJUVGJUJDJTgxJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9MDhlNTI5YzQyYWUyM2ZmMTAwNTQ1ZDcxMzgxNGM5Mzc&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBtaW5vcnVuMzY1JnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9YThjYmQyMjBkNDc3NGM1MjI3MzBiOWExMjBkOWZlMGM&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=S0RESeOCouOCuOODo-OCpOODq-mWi-eZuuOCu-ODs-OCv-ODvOagquW8j-S8muekvg&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=2e594c9d50162510796924d5f64e5dd3",
-    "fetched_at": "2026-10-20 10:36:43",
-    "ja_summary": "・みのるんの登壇用スライド作成ノウハウを、AIエージェントが活用できるスキルセットとしてGitHubで公開。\n・GitHub上のコードを活用することで、誰でも高品質なプレゼン資料の自動生成が可能。\n・公開先：https://github.com/minorun365/minorun-marp-skill"
-  },
-  {
-    "title": "元ヤフーエンジニア社長が考える、AIを使いこなす人と使えない人の決定的な差",
-    "link": "https://qiita.com/ryoheiiwamoto/items/b5805321eaef46b75459",
-    "source": "Qiita (Popular)",
-    "published": "2026-09-26T19:02:07+09:00",
-    "summary": "\n\n>「一部だけ任せる」か「全部任せられないか考える」か\n\n\nこんにちは、元Yahooエンジニアで、株式会社PRUMの代表をしている岩本です。\n\n「AI使ってますか?」と聞かれたら、たぶん今はほとんどの人が「はい」と答えると思います。\n\nでも僕は、AIの活用が上手い人と下手な人の差は、使っているかどうかじゃないと思っています。\n\n差がつくのは、**「そもそも全部任せられないか」から考えているかどう",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY2Njg5NTAlMkZlYzkxNGM0M2Y1MmZhOGVmMmM1ZDYzZWY2ZDI2NmNlMjAxMTMyMmM1JTJGeF9sYXJnZS5wbmclM0YxNzM4NTQ5NzE0P2l4bGliPXJiLTQuMS4xJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz1hZTcyYzlkNDc0ODA1NWRiODg3MjU1MTg3YjYwNzE3Mg%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Dd52b79a6493a8f7d3599dbe8fc65df0f?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUU1JTg1JTgzJUUzJTgzJUE0JUUzJTgzJTk1JUUzJTgzJUJDJUUzJTgyJUE4JUUzJTgzJUIzJUUzJTgyJUI4JUUzJTgzJThCJUUzJTgyJUEyJUU3JUE0JUJFJUU5JTk1JUI3JUUzJTgxJThDJUU4JTgwJTgzJUUzJTgxJTg4JUUzJTgyJThCJUUzJTgwJTgxQUklRTMlODIlOTIlRTQlQkQlQkYlRTMlODElODQlRTMlODElOTMlRTMlODElQUElRTMlODElOTklRTQlQkElQkElRTMlODElQTglRTQlQkQlQkYlRTMlODElODglRTMlODElQUElRTMlODElODQlRTQlQkElQkElRTMlODElQUUlRTYlQjElQkElRTUlQUUlOUElRTclOUElODQlRTMlODElQUElRTUlQjclQUUmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1hZjE1MjQwMzkzMzJiODI1ZTBmMzlkMjZhYjU4YmY0ZA&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDByeW9oZWlpd2Ftb3RvJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9Y2Q0NTMxYTI2Yzk3MDgzYzhhZjVjYmZmZDg1ZjcyYTc&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=007ba270d1d991e0242b598db63731c2",
-    "fetched_at": "2026-10-20 10:36:44",
-    "ja_summary": "AIを使いこなす人とそうでない人の差は、AIを「部分的な補助」と捉えるか、「業務全体を任せる視点」で考えられるかにある。\nAIにどこまで委ねられるかを突き詰めて検討する姿勢こそが、生産性を最大化させる鍵となる。"
-  },
-  {
-    "title": "日本企業がサイバー攻撃の標的になる根本原因｢社内ネットワークであれば安全｣は危険　ゼットスケーラー幹部が語る最新の防御戦略 | ビジネス | 東洋経済オンライン",
-    "link": "https://toyokeizai.net/articles/-/961638?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-    "source": "東洋経済オンライン",
-    "published": "Tue, 20 Oct 2026 06:00:00 +0900",
-    "summary": "日本で急増するサイバー攻撃の背景には何があるのでしょうか。言語の壁を越え､AIを悪用した機械速度の攻撃が日本企業を狙っています。米セキュリティー大手の幹部が最新の防御戦略を語ります。",
-    "image": "https://tk.ismcdn.jp/mwimgs/6/a/1200w/img_6a7b1b8849dc7e1afb6a0e0501593c8d128454.jpg?nextgen=false",
-    "fetched_at": "2026-10-20 07:58:28",
-    "ja_summary": "・AIを悪用した高速なサイバー攻撃が急増しており、「社内なら安全」という従来の認識は危険。\n・日本企業も例外ではなく、言語の壁を越えた攻撃の標的になっている。\n・境界型防御から脱却し、最新のゼロトラスト戦略への転換が急務である。"
-  },
-  {
-    "title": "日本へのサイバー攻撃が急増､AIが｢黒幕｣なのか？ 消えた｢言語の壁｣と狙われる日本企業の弱点 | ビジネス | 東洋経済オンライン",
-    "link": "https://toyokeizai.net/articles/-/961453?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-    "source": "東洋経済オンライン",
-    "published": "Tue, 20 Oct 2026 05:30:00 +0900",
-    "summary": "日本でサイバー攻撃が急増した背後にはAIの進化により｢日本語の壁｣が崩れたことがある。被害は政府･企業だけでなく､個人情報流出や高度化するフィッシング詐欺にも波及。もはやAIは脅威の黒幕といえる。私…",
-    "image": "https://tk.ismcdn.jp/mwimgs/8/9/1200w/img_8979b55007f69d6016794a56688eac3644250.jpg?nextgen=false",
-    "fetched_at": "2026-10-20 07:58:28",
-    "ja_summary": "・生成AIの進化により、日本語の不自然さが解消され、精巧なフィッシング詐欺が急増している。\n・企業や政府だけでなく、個人の情報流出リスクも高まり、サイバー攻撃が身近な脅威となっている。\n・「言語の壁」が消滅した今、AIを悪用した新たなサイバー攻撃への警戒が不可欠である。"
-  },
-  {
-    "title": "“テスラ超え”狙う――チューリング「完全自動運転」までの道　「GPUより速いチップ」使った開発のウラ側",
-    "link": "https://www.itmedia.co.jp/business/articles/2610/20/news017.html",
-    "source": "ITmedia ビジネス",
-    "published": "Tue, 20 Oct 2026 07:00:00 +0900",
-    "summary": "「テスラ超え」を掲げる自動運転スタートアップのTuringは、AI技術の開発を加速させている。しかし「GPUを増やすだけでは開発スピードが上がらなかった」という。この課題をどう乗り越えたのか。",
-    "image": "https://image.itmedia.co.jp/business/articles/2610/20/cover_news017.jpg",
-    "fetched_at": "2026-10-20 07:58:29",
-    "ja_summary": "・自動運転スタートアップTuringが「テスラ超え」を目指しAI開発を加速。\n・GPUを増やす従来の手法に限界を感じ、独自の高速チップ開発でボトルネックを解消。\n・ハードとソフトの両面からアプローチし、完全自動運転の早期実現を目指す。"
-  },
-  {
-    "title": "AI活用で「脱コンサル」宣言、大阪・河内長野市長の真意は？　変わる自治体と事業者の力関係",
-    "link": "https://www.itmedia.co.jp/business/articles/2610/20/news046.html",
-    "source": "ITmedia ビジネス",
-    "published": "Tue, 20 Oct 2026 07:00:00 +0900",
-    "summary": "大阪府河内長野市の西野修平市長が記者会見で述べた「脱コンサル」宣言。AIは、自治体と事業者の力関係そのものを書き換えつつある。今回は経営学者ポーターの「ファイブフォース」（5つの競争圧力）を手がかりに、その変化を発注者（自治体側）の目線で読み解きたい。",
-    "image": "https://image.itmedia.co.jp/business/articles/2610/20/cover_news046.jpg",
-    "fetched_at": "2026-10-20 07:58:29",
-    "ja_summary": "・河内長野市がAI活用による「脱コンサル」を宣言。\n・AI導入により自治体側が業務を内製化し、依存関係から脱却を図る動きが加速。\n・自治体と外部事業者の力関係が変化し、行政の「発注者としてのあり方」が問われている。"
-  },
-  {
-    "title": "「税金で動かす以上……」　政府18万人が使うAI「源内」の「コストに関する工夫」とは",
-    "link": "https://www.itmedia.co.jp/business/articles/2610/20/news012.html",
-    "source": "ITmedia ビジネス",
-    "published": "Tue, 20 Oct 2026 07:00:00 +0900",
-    "summary": "デジタル庁は、全府省庁の職員約18万人に生成AI「源内」を提供する。情報の機密性、税金で運用するAIのコスト感など解決しなければならない課題も多い。AI活用にどう取り組むのか。",
-    "image": "https://image.itmedia.co.jp/business/articles/2610/20/cover_news012.jpg",
-    "fetched_at": "2026-10-20 07:58:29",
-    "ja_summary": "・デジタル庁が全府省庁の職員約18万人に生成AI「源内」を導入。\n・機密情報の保護や税金を用いるコスト効率が大きな課題。\n・利便性と安全性の両立を目指し、AI活用の最適解を模索中。"
-  },
-  {
-    "title": "AI活用で「年3万5000時間削減」の江戸川区　「配って終わり」にさせないコツは？　5年で培った実践知を聞く",
-    "link": "https://www.itmedia.co.jp/business/articles/2610/20/news011.html",
-    "source": "ITmedia ビジネス",
-    "published": "Tue, 20 Oct 2026 07:00:00 +0900",
-    "summary": "江戸川区がAI活用によって年3万5000時間の削減に成功した。約5年でさまざまな活用事例を蓄積。「ツールを配って終わり」にさせない導入のポイントとは。",
-    "image": "https://image.itmedia.co.jp/business/articles/2610/20/cover_news011.jpg",
-    "fetched_at": "2026-10-20 07:58:30",
-    "ja_summary": "江戸川区はAI活用で年間3万5000時間の業務を削減。\n5年間の実践で「ツール配布で終わらせない」導入のコツを掴んだ。\n具体的な成功事例とノウハウが紹介されている。"
-  },
-  {
-    "title": "ヒューリック、平均年収2295万円／盆踊りで人育て／AIネーティブ狙う（2026年10月20日版） (日経ビジネスAUDIOモーニング)",
-    "link": "https://business.nikkei.com/atcl/audio/22/00001/101900984/",
-    "source": "日経ビジネス 最新",
-    "published": "",
-    "summary": "ヒューリック、平均年収2295万円は上場企業トップ　社員200人強で不動産大手上回る利益成長／ダイキンの盆踊り、大雨で中断 「来場者2万人をどう帰す？」で若手が育つ／霞が関キャピタル、新卒年収1400万円も　AIネーティブ「トップ層」狙う、他",
-    "image": "https://business.nikkei.com/atcl/audio/22/00001/101900984/fb.jpg",
-    "fetched_at": "2026-10-20 07:58:33",
-    "ja_summary": "・ヒューリックが上場企業トップの平均年収2295万円を実現し、高収益体質を維持。\n・ダイキンはイベント運営のトラブル対応を通じて若手の現場判断力を育成。\n・霞が関キャピタルが優秀なAI人材確保のため、新卒年収1400万円を提示。"
-  },
-  {
-    "title": "利用広がる「オープン型」AI　アンソロピックやオープンAIに逆風強まる (世界鳥瞰)",
-    "link": "https://business.nikkei.com/atcl/NBD/19/world/00830/",
-    "source": "日経ビジネス 最新",
-    "published": "",
-    "summary": "米オープンAIや米アンソロピックが手掛ける先端モデルAIの使用料は高額なため、代替として安価に利用できて機能も十分に調整できる「オープン型」が存在感を増してきている。自社のハードウエア上で動かせるメリットを生かし、データの安全性を保つために切り替えた事例も目立つ。",
-    "image": "https://business.nikkei.com/atcl/NBD/19/world/00830/fb.jpg",
-    "fetched_at": "2026-10-20 07:58:33",
-    "ja_summary": "・高額な米大手AIの代替として、安価でカスタマイズ可能な「オープン型AI」の利用が拡大。\n・自社環境で運用できるため、機密情報を守るセキュリティ上の利点から導入企業が増加中。\n・オープンAIやアンソロピックなど、先行する先端モデル開発企業にとって逆風となっている。"
-  },
-  {
-    "title": "精工技研、光部品のニッチ技術磨き続けて40年　AI需要でつかむ3度目の大波 (地味でも伸びるJIMI企業)",
-    "link": "https://business.nikkei.com/atcl/gen/19/00937/101500003/",
-    "source": "日経ビジネス 最新",
-    "published": "",
-    "summary": "光通信部品を手掛ける精工技研はAIブームの波で業績を急拡大させている。成長をけん引する主力製品の光コネクター研磨機の今年の売り上げ台数は2年前と比べて約10倍を見込む。80年代に発売して以降、脈々と続けてきた研究開発が40年の時を経て結実した。",
-    "image": "https://business.nikkei.com/atcl/gen/19/00937/101500003/fb.jpg",
-    "fetched_at": "2026-10-20 07:58:34",
-    "ja_summary": "・精工技研がAI需要の拡大を追い風に、光コネクター研磨機の販売台数が2年で約10倍と急成長。\n・40年間磨き続けたニッチな光通信技術が、AIブームという3度目の好機で結実した。\n・長年の研究開発への継続投資が、現在の爆発的な業績拡大を支えている。"
   }
 ]
