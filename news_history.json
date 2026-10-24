@@ -1,5 +1,85 @@
 [
   {
+    "title": "What FDE means at OpenAI",
+    "link": "https://openai.com/index/forward-deployed-engineering-means",
+    "source": "OpenAI",
+    "published": "Thu, 22 Oct 2026 06:00:00 GMT",
+    "summary": "What forward deployed engineering means at OpenAI",
+    "image": "https://openai.com/favicon.ico",
+    "fetched_at": "2026-10-25 03:59:43",
+    "ja_summary": "OpenAIの「FDE（Forward Deployed Engineer）」は、技術開発と顧客現場の橋渡し役を担うエンジニア職。\nAIモデルの導入・最適化を現場で直接支援し、顧客独自の課題解決と製品改善を同時に推進する。\n技術的な専門知識で顧客の成功を導き、そのフィードバックを基にAI開発を加速させる役割である。"
+  },
+  {
+    "title": "Uber brings ChatGPT Work to all employees with OpenAI",
+    "link": "https://openai.com/index/uber-chatgpt-work-rollout",
+    "source": "OpenAI",
+    "published": "Thu, 22 Oct 2026 00:00:00 GMT",
+    "summary": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.",
+    "image": "https://openai.com/favicon.ico",
+    "fetched_at": "2026-10-25 03:59:43",
+    "ja_summary": "・Uberが全従業員3万人超を対象に「ChatGPT Work」を導入。\n・資料作成やデータ分析、複雑な業務フローの効率化を支援。\n・AI活用により、組織全体の生産性向上を図る。"
+  },
+  {
+    "title": "Donating Agent Skills to the Agentic AI Foundation",
+    "link": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
+    "source": "Anthropic (News)",
+    "published": "Thu, 22 Oct 2026 00:00:00 +0000",
+    "summary": "We’re donating Agent Skills, the open standard that gives AI agents specialized knowledge and workflows, to the Agentic AI Foundation. More than 70 agent platforms, including ChatGPT, Cursor, GitHub Copilot, and VS Code, have integrated Agent Skills since we published the standard in December 2025.",
+    "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+    "fetched_at": "2026-10-25 03:59:43",
+    "ja_summary": "・AIエージェントの標準規格「Agent Skills」をAgentic AI Foundationに寄贈。\n・ChatGPTやGitHub Copilotなど70以上の主要プラットフォームが既に採用。\n・AIの専門知識とワークフローの共通化を推進し、業界標準としての普及を加速。"
+  },
+  {
+    "title": "Physicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust",
+    "link": "https://www.anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust",
+    "source": "Anthropic (News)",
+    "published": "Wed, 21 Oct 2026 00:00:00 +0000",
+    "summary": "Dr. Christopher Stubbs, an experimental physicist and former Dean of Science at Harvard University, has joined Anthropic’s Long-Term Benefit Trust. He brings to the Trust decades of scientific expertise across observational cosmology and precision measurement.",
+    "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+    "fetched_at": "2026-10-25 03:59:43",
+    "ja_summary": "・ハーバード大学の元理学部長で物理学者のクリストファー・スタッブス氏が、Anthropic社の「長期利益信託（Long-Term Benefit Trust）」のメンバーに就任。\n・宇宙論や精密測定における数十年の専門知見を同社に提供する。\n・AIの安全性と社会への長期的な利益確保を目指すガバナンス体制を強化。"
+  },
+  {
+    "title": "Investing in the public benefit",
+    "link": "https://www.anthropic.com/news/public-benefit-fund",
+    "source": "Anthropic (News)",
+    "published": "Sun, 18 Oct 2026 00:00:00 +0000",
+    "summary": "We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows.",
+    "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/85648c93880ac27347f8e6a4008650a65c12ede8-1200x630.jpg",
+    "fetched_at": "2026-10-25 03:59:44",
+    "ja_summary": "・Anthropic社が自社株の一部を「公益基金」へ拠出することを決定。\n・基金の持ち分は企業の成長に合わせて自動的に増加する仕組み。\n・AI技術を公共の利益に役立てるためのガバナンス体制を強化。"
+  },
+  {
+    "title": "An update on independent evaluators",
+    "link": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
+    "source": "Anthropic (News)",
+    "published": "Thu, 15 Oct 2026 00:00:00 +0000",
+    "summary": "To evaluate the safety of our systems, Anthropic is giving employee-like access to a team from METR, a nonprofit that evaluates frontier AI models, and we're in early discussions with several other organizations, including Hugging Face.",
+    "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/d2e351e6311a0ada8ea4a0304ce6cda39243eaf4-1200x630.jpg",
+    "fetched_at": "2026-10-25 03:59:44",
+    "ja_summary": "・AnthropicはAIの安全性評価のため、非営利団体METRに社員同等のシステムアクセス権を付与した。\n・Hugging Faceを含む他組織とも、同様の評価体制構築に向けた協議を開始している。\n・AIモデルの安全性を第三者機関によって客観的に検証する取り組みを強化している。"
+  },
+  {
+    "title": "Anthropic opens Singapore office and signs MOU with the Government of Singapore",
+    "link": "https://www.anthropic.com/news/singapore-office-opening",
+    "source": "Anthropic (News)",
+    "published": "Wed, 14 Oct 2026 00:00:00 +0000",
+    "summary": "Anthropic has opened an office in Singapore and signed an MOU with the country’s government to advance safe, responsible AI adoption.",
+    "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+    "fetched_at": "2026-10-25 03:59:44",
+    "ja_summary": "・Anthropicがシンガポールに拠点を新設\n・政府と覚書（MOU）を締結し、安全で責任あるAI導入を推進\n・東南アジアにおけるAI開発・活用の連携を強化"
+  },
+  {
+    "title": "【2026年版】AIを駆使した開発手法をざっくりまとめてみた",
+    "link": "https://qiita.com/kobori_slj/items/b9683ce90f4c26a6e7ae",
+    "source": "Qiita (Popular)",
+    "published": "2026-10-20T21:39:49+09:00",
+    "summary": "\n\n:::note warn\n**本記事は筆者個人の理解に基づくまとめです。**\nこの分野は新しい言葉が次々に生まれていて、同じ言葉でも人や企業によって指す範囲が違います。厳密な定義が必要な場合は、各手法の提唱元の情報を確認してください。間違いや補足があれば、コメントで教えていただけると嬉しいです。\n:::\n\n## はじめに\n\n「プロンプトエンジニアリング」の次は「コンテキストエンジニアリング」、",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmxoMy5nb29nbGV1c2VyY29udGVudC5jb20lMkZhJTJGQUNnOG9jSXg3WDBrckhVY2gxQnJBWDhJMVRXOEkwRDNOdUZabVZBT2pYZjlmMXFLUDNqZjk4b2olM0RzOTYtYz9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9MDUzZDY1ZGNkNWI1MmQwYTk4NDk3NzdmNmRmZjg4MTU%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkY1YzIwM2RhMzYwYjU2OGZkYzYzODNlZDljZDY5NjE5NWVlOGU1NDdlJTJGb3JpZ2luYWwuanBnJTNGMTY5MDkzNDcxNT9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz05ZmU3ZDczYTQyMTZmMWIxYzNkNDE2MGVmMDI2MDY3ZA%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D241d4ce1038291392c2f036bd93c325b?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJTkwMjAyNiVFNSVCOSVCNCVFNyU4OSU4OCVFMyU4MCU5MUFJJUUzJTgyJTkyJUU5JUE3JTg2JUU0JUJEJUJGJUUzJTgxJTk3JUUzJTgxJTlGJUU5JTk2JThCJUU3JTk5JUJBJUU2JTg5JThCJUU2JUIzJTk1JUUzJTgyJTkyJUUzJTgxJTk2JUUzJTgxJUEzJUUzJTgxJThGJUUzJTgyJThBJUUzJTgxJUJFJUUzJTgxJUE4JUUzJTgyJTgxJUUzJTgxJUE2JUUzJTgxJUJGJUUzJTgxJTlGJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9MzUzNGViNjQ5NDM5N2FkMjllMjEwNzgxYTc4ZWI2OGU&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBrb2Jvcmlfc2xqJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9ZmY1YjBlYTQyOWU5NWJlOWQwMzk3YWMwNWMyZjc3NTU&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=5qCq5byP5Lya56S-44K544OU44O844OJ44Oq44Oz44Kv44K444Oj44OR44Oz&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=f05e67174cfd69a9853fd35962405df1",
+    "fetched_at": "2026-10-25 03:59:47",
+    "ja_summary": "・2026年現在のAI開発手法は、単なる命令（プロンプト）から文脈（コンテキスト）を扱う段階へ進化。\n・専門用語の定義が流動的であるため、最新動向を常に追う必要がある。\n・開発の現場において、AIを駆使するための考え方や手法を体系的に整理した内容。"
+  },
+  {
     "title": "“緊急メンテの夜”までの一部始終は？　8月にAIで「PHPの重大な脆弱性」発見→OpenAIが即応チームを招集",
     "link": "https://www.itmedia.co.jp/business/articles/2610/22/news053.html",
     "source": "ITmedia ビジネス",
@@ -918,85 +998,5 @@
     "image": "https://images.ctfassets.net/kftzwdyauwt9/5Ho5AoUkijZ1OWhqcDlVvT/84af1aa075c5e8e44d9dc93d0146c31f/new-approach-to-research-model-containment-social.png?w=1600&amp;h=900&amp;fit=fill",
     "fetched_at": "2026-10-24 06:40:53",
     "ja_summary": "・OpenAIが次世代AIモデルの学習・評価環境のセキュリティを大幅に強化。\n・隔離されたオフライン環境の構築により、モデルの安全な運用を実現。\n・高性能計算を用いた「レッドチーミング」を実施し、潜在的なリスクを徹底排除。"
-  },
-  {
-    "title": "Claude CodeやCodexで並列開発していたら、Macのストレージが残り8GBになったので掃除した",
-    "link": "https://zenn.dev/yoshinani_dev/articles/0c17dec1c082a1",
-    "source": "Zenn Trends",
-    "published": "Thu, 22 Oct 2026 17:21:33 GMT",
-    "summary": "!\nクライアント案件のリポジトリ名は伏せています。容量の数字は、dfとduで実際に測った値です。\n\n1TBのMacBook Airで、ストレージの空きが8GBまで減っていました。\nClaude Codeに「ストレージがほぼないので整理したい」と頼んで、何が容量を使っているかを調べてもらいながら掃除しました。原因はほとんどが開発まわりで、最終的に空きは約380GBまで戻りました。\n最近はClaude CodeやCodexに作業を並列でお願いすることが多く、そのたびにGitのworktreeが作られます。このやり方だと溜まりやすいものがいくつか分かったので、消した順に紹介します。\n\n 何が容...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--yp141yPf--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%25E3%2582%2584Codex%25E3%2581%25A7%25E4%25B8%25A6%25E5%2588%2597%25E9%2596%258B%25E7%2599%25BA%25E3%2581%2597%25E3%2581%25A6%25E3%2581%2584%25E3%2581%259F%25E3%2582%2589%25E3%2580%2581Mac%25E3%2581%25AE%25E3%2582%25B9%25E3%2583%2588%25E3%2583%25AC%25E3%2583%25BC%25E3%2582%25B8%25E3%2581%258C%25E6%25AE%258B%25E3%2582%258A8GB%25E3%2581%25AB%25E3%2581%25AA%25E3%2581%25A3%25E3%2581%259F%25E3%2581%25AE%25E3%2581%25A7%25E6%258E%2583%25E9%2599%25A4%25E3%2581%2597%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E3%2581%25B2%25E3%2582%2587%25E3%2581%2586%25E3%2581%25A9%25E3%2581%2586%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2ZhMjMyNjAxN2QuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:YOSHINANI%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzIzNjFmM2NlODcuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "fetched_at": "2026-10-24 06:40:57",
-    "ja_summary": "・開発ツールの利用により1TBのMacストレージが8GBまで逼迫。\n・Claude Codeを活用して不要なGit worktree等の肥大化要因を特定。\n・定期的な掃除により約380GBまで空き容量を回復させた。"
-  },
-  {
-    "title": "Spec-Driven Development: Building AI Aligned Software Through Living Specifications",
-    "link": "https://speakerdeck.com/lifemichael/spec-driven-development-building-ai-aligned-software-through-living-specifications",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-10-23T14:37:05-04:00",
-    "summary": "Artificial Intelligence is fundamentally transforming software development. As AI agents become increasingly capable of generating code, implementing features, and executing complex development tasks, the central challenge shifts from writing code to defining intent, controlling execution, verifying results, and preserving knowledge.\n\nThis presentation, delivered by Haim Michael at All Day AI 2026 on October 22, 2026, explores Spec-Driven Development (SDD) as an approach to building reliable, maintainable, and AI-aligned software systems.\n\nThe presentation begins by tracing the evolution beyond traditional code-first development and the limits of relying solely on vibe coding. Although vibe coding provides significant advantages for rapid experimentation and prototyping, professional software engineering requires reliability, traceability, and long-term maintainability.\n\nA key limitation is the lack of durable institutional memory. When architectural decisions and requirements exist primarily within conversations with AI assistants, maintaining and evolving complex systems becomes increasingly challenging.\n\nSpec-Driven Development addresses this challenge by introducing specifications as a shared foundation for humans and AI agents. Living specifications capture requirements, constraints, architectural decisions, and acceptance criteria, helping teams coordinate development while staying aligned with human intent.\n\nThe presentation explores how to implement this approach using Kiro IDE, an agentic development environment designed to support structured, specification-driven workflows.\n\nTopics covered include:\n\nSpec-Driven Development fundamentals: Understanding the role of living specifications in AI-assisted software engineering.\n\nSDD versus vibe coding: Examining the differences between exploratory coding and structured professional development.\n\nKiro IDE: Exploring an agentic development environment and its specification-driven capabilities.\n\nSteering documents: Providing AI agents with project context, architectural guidelines, and development standards.\n\nRequirements, design, and tasks: Structuring the development process around explicit specifications, including EARS requirements and Mermaid diagrams.\n\nAgent hooks: Automating recurring development activities, including security reviews, testing, code formatting, and documentation.\n\nSubagents: Delegating specialized tasks to multiple AI agents.\n\nParallel task execution: Understanding task dependencies and coordinating concurrent execution.\n\nKiro Workflows: Orchestrating multiple AI agents using sequential steps, parallel execution, and iterative loops.\n\nCloud-based AI agents: Exploring continuously operating agents that support development, testing, monitoring, incident response, and other tasks.\n\nBest practices: Keep specifications synchronized with implementation, maintain detailed steering documents, and choose appropriate orchestration strategies.\n\nThe presentation also discusses the importance of skills, powers, and Model Context Protocol (MCP) servers in extending the capabilities of AI-assisted development environments.\n\nA central theme is the changing role of software developers. As code generation becomes increasingly inexpensive, developers move toward higher levels of abstraction, focusing on goals, architecture, requirements, constraints, and quality standards.\n\nRather than manually implementing every component, developers increasingly become orchestrators of AI agents, coordinating software creation through clear specifications and structured workflows.\n\nThe key message is that the future of professional software development is not simply about generating more code faster. It is about building the right software while maintaining control, traceability, reliability, and alignment with human intent.\n\nThese slides are intended for software developers, software architects, engineering managers, technical leaders, and anyone interested in understanding how AI agents and Spec-Driven Development are reshaping software engineering.\n\nConference: All Day AI 2026\nDate: October 22, 2026\nSpeaker: Haim Michael\nConference website: https://www.alldayai.com\nSpeaker's post: https://lifemichael.com/en/sharing-my-experience-at-all-day-ai-2026/",
-    "image": "https://files.speakerdeck.com/presentations/9beb2243f7fe438ab4af75126e3e93cf/preview_slide_0.jpg?41055946",
-    "fetched_at": "2026-10-24 06:40:58",
-    "ja_summary": "AIによるコード生成が主流となる中、開発の要は「コード記述」から「意図の明確化と管理」へシフトしています。\n「仕様駆動開発（SDD）」を導入し、人間とAIが共有可能な「生きた仕様書」を軸に置くことで、信頼性と保守性を確保します。\n開発者は実装の手作業から離れ、AIエージェントを指揮して品質や一貫性を担保する「オーケストレーター」の役割へと進化します。"
-  },
-  {
-    "title": "【もう無理だよ…】免許証画像まで流出する時代に、エンジニアは何をすればいいのか",
-    "link": "https://qiita.com/shinkai_/items/4c6c12324e115a125621",
-    "source": "Qiita (Popular)",
-    "published": "2026-10-16T14:27:11+09:00",
-    "summary": "## はじめに\n\n最近、個人情報漏えいのニュースが多すぎないでしょうか。\n\nスマホを開くと、また誰でも知っている会社の名前が出ている。\n\nそう感じているエンジニアも多いんじゃないかと思います。\n\nここ最近で特にインパクトが大きかったのがタイムズカーの件です。\n\n運転免許証の画像まで漏えいしたことで、「口座を勝手に作られるのでは」という不安が繰り返し報じられています。\n\nこの記事では、2026年10",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYxMjAzMDIyJTJGMGIxMTAwMjI1ZTY5ZmU3YzVkZWYxYzFlNDVlNzk5M2M3MjU0MTU4MyUyRnhfbGFyZ2UucG5nJTNGMTY3MDk5NjkzMj9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9ZGZiNzlkYTk4ZTljMjBiMmQ1MzhmOTNiNDhjN2UyYWI%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Dbd0ca793ffeb8f6099b8a44174ec6110?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJTkwJUUzJTgyJTgyJUUzJTgxJTg2JUU3JTg0JUExJUU3JTkwJTg2JUUzJTgxJUEwJUUzJTgyJTg4JUUyJTgwJUE2JUUzJTgwJTkxJUU1JTg1JThEJUU4JUE4JUIxJUU4JUE4JUJDJUU3JTk0JUJCJUU1JTgzJThGJUUzJTgxJUJFJUUzJTgxJUE3JUU2JUI1JTgxJUU1JTg3JUJBJUUzJTgxJTk5JUUzJTgyJThCJUU2JTk5JTgyJUU0JUJCJUEzJUUzJTgxJUFCJUUzJTgwJTgxJUUzJTgyJUE4JUUzJTgzJUIzJUUzJTgyJUI4JUUzJTgzJThCJUUzJTgyJUEyJUUzJTgxJUFGJUU0JUJEJTk1JUUzJTgyJTkyJUUzJTgxJTk5JUUzJTgyJThDJUUzJTgxJUIwJUUzJTgxJTg0JUUzJTgxJTg0JUUzJTgxJUFFJUUzJTgxJThCJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9N2E2OTE3YWQ0NTdmMzFmY2Y0NGFjZmY5ZTA0NzY1MGY&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBzaGlua2FpXyZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWYxYjY3MWE3NWQ4ZWQ1OTJjMjhkMzA4NTlmNGMxM2Jk&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=3f1bd75cc6458c26a96a55a512ee0133",
-    "fetched_at": "2026-10-24 06:41:02",
-    "ja_summary": "・相次ぐ大規模な個人情報漏えいにより、免許証画像など悪用リスクの高い情報の流出が深刻化している。\n・企業への信頼が揺らぐ中、エンジニアはセキュリティ対策と情報保護のあり方を根本から再考すべきである。"
-  },
-  {
-    "title": "急成長、PKSHA Technologyの「共進化」経営　積極買収で年3割成長　買収先企業をエンパワー (第2特集)",
-    "link": "https://business.nikkei.com/atcl/NBD/19/00117/00434/",
-    "source": "日経ビジネス 最新",
-    "published": "",
-    "summary": "人工知能（AI）企業、PKSHA Technology（パークシャテクノロジー）の成長が著しい。積極M＆A（合併・買収）によって年3割程度の売上高成長を続けている。買収先企業をAIでエンパワーする「共進化」経営で、国内有数のAI企業へ躍り出た。",
-    "image": "https://business.nikkei.com/atcl/NBD/19/00117/00434/fb.jpg",
-    "fetched_at": "2026-10-24 03:34:22",
-    "ja_summary": "・AI企業PKSHA Technologyが、積極的なM&Aにより年3割の急成長を実現。\n・買収先企業へAI技術を導入し、価値を高める「共進化」経営を展開。\n・技術力と組織統合を強みに、国内有数のAI企業へと躍進している。"
-  },
-  {
-    "title": "片野坂ANAHD会長「AI要約本に感動はあるのか、タイパ至上主義への疑念」 (賢人の警鐘)",
-    "link": "https://business.nikkei.com/atcl/NBD/19/00121/00376/",
-    "source": "日経ビジネス 最新",
-    "published": "",
-    "summary": "今回も人工知能（AI）について語ろうと思う。大変興味深い話を耳にした。",
-    "image": "https://business.nikkei.com/atcl/NBD/19/00121/00376/fb.jpg",
-    "fetched_at": "2026-10-24 03:34:23",
-    "ja_summary": "・AIによる要約やタイパ（タイムパフォーマンス）を重視する風潮に対し、深い感動や体験の質が損なわれる懸念を呈した。\n・効率性ばかりを追求する現状に疑問を投げかけ、AI時代における人間本来の営みや価値観を問い直している。"
-  },
-  {
-    "title": "freee 共同創業者・横路CAIOの経営教室「AIネーティブの伴走者を社内に配置」 (経営教室)",
-    "link": "https://business.nikkei.com/atcl/gen/19/00607/101500111/",
-    "source": "日経ビジネス 最新",
-    "published": "",
-    "summary": "クラウド会計ソフトを展開するfreee（フリー）が人工知能（AI）対応を急いでいる。共同創業者の横路氏が2026年1月、CAIOに就任。社内のAIネーティブ化を担う。課題はAIによる事業推進とガバナンスの両立にある。どう乗り越えたのか。",
-    "image": "https://business.nikkei.com/atcl/gen/19/00607/101500111/fb.jpg",
-    "fetched_at": "2026-10-24 03:34:24",
-    "ja_summary": "・freeeがAI活用を加速するため、共同創業者の横路氏がCAIO（最高AI責任者）に就任。\n・社内のAIネイティブ化を推進し、全社的なAI活用を主導する。\n・事業推進とガバナンス（統治）を両立させる仕組み作りが鍵となる。"
-  },
-  {
-    "title": "「自治体からの照会事務の自動化などの国・地方AI共通サービスに関する実証事業」の参加自治体（都道府県及び市区町村）を募集します",
-    "link": "https://www.digital.go.jp/policies/genai/0ef07948-2f5d-4b45-8ebe-ea974c20a3ac",
-    "source": "デジタル庁",
-    "published": "Tue, 20 Oct 2026 19:51:58 +0900",
-    "summary": "",
-    "image": "https://www.digital.go.jp/themes/custom/gov_theme_da_2023/assets/images/ogp.png",
-    "fetched_at": "2026-10-24 03:34:41",
-    "ja_summary": "・国が自治体業務を効率化するAI共通サービスの実証自治体を募集\n・照会事務などの自動化を通じ、自治体のDX推進と事務負担軽減を図る\n・参加希望の都道府県・市区町村を対象に、新たなAI活用モデルを検証する"
-  },
-  {
-    "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
-    "link": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
-    "source": "OpenAI",
-    "published": "Fri, 23 Oct 2026 17:00:00 GMT",
-    "summary": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
-    "image": "https://images.ctfassets.net/kftzwdyauwt9/1p8WL4wct7MU8nnw6609WL/6ae794fe4cc93d37cc095d4d45730669/scaling-storage-one-billion-users-part-two-social.png?w=1600&amp;h=900&amp;fit=fill",
-    "fetched_at": "2026-10-24 03:34:42",
-    "ja_summary": "・OpenAIがChatGPTのストレージ基盤「Habitat」を大幅に強化。\n・マルチテナント最適化やグローバルキャッシュ等の技術を採用。\n・読み込み速度を12倍に高速化し、10億人規模のユーザーへの対応を実現。"
   }
 ]
