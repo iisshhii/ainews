@@ -1,5 +1,55 @@
 [
   {
+    "title": "国内で未曽有の情報漏洩事件　AIでサイバー攻撃にコスト革命",
+    "link": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/052100113/101600197/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "国内で情報漏洩事件が相次いでいる。だが奇妙なことに、攻撃の手口は1つではない。原因として考えられるのがAI（人工知能）の普及だ。AIがサイバー攻撃のコストを大幅に引き下げている可能性がある。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/052100113/101600197/topm.jpg?20220512",
+    "fetched_at": "2026-10-25 10:27:53",
+    "ja_summary": "・国内で情報漏洩が急増しており、その背景にAIの普及によるサイバー攻撃の低コスト化が指摘されている。\n・多様な攻撃手法が混在する背景には、AIが攻撃者の技術的ハードルを劇的に下げた可能性がある。"
+  },
+  {
+    "title": "AIが「意思決定」まで担う時代に　GitHubのプルリク承認機能",
+    "link": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/052100112/101600149/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "システム開発現場にAIがすさまじい勢いで浸透している。当初はAIによるコード補完が中心だったが、今では開発工程そのものをAIが支援するようになった。開発作業を自律的に進めるAIエージェントも一般的になってきた。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/052100112/101600149/topm.jpg?20220512",
+    "fetched_at": "2026-10-25 10:27:54",
+    "ja_summary": "・AIの役割が単なるコード補完から、開発工程の支援や自律的な作業実行へと拡大している。\n・GitHubでAIがプルリクエストの承認まで担うなど、AIが意思決定に関与するフェーズへ移行した。\n・システム開発において、AIエージェントによる業務自動化が急速に普及しつつある。"
+  },
+  {
+    "title": "Claude Coworkが仕様変更　企業の懸念は減るか増えるか？",
+    "link": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/052100111/102100189/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "米アンソロピックのオフィス業務用AI（人工知能）エージェント「Claude Cowork」の動作方式が「クラウド型」だけになる。セキュリティー上の懸念は減ると考えられる一方、ユーザー企業にとっては別の懸念が増える恐れがある。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/052100111/102100189/topm.jpg?20220512",
+    "fetched_at": "2026-10-25 10:27:55",
+    "ja_summary": "・AnthropicのAI「Claude Cowork」がクラウド型に一本化\n・セキュリティ面は改善される一方、企業側には新たな運用上の懸念も浮上\n・利便性と安全性のトレードオフをどう評価するかが今後の焦点"
+  },
+  {
+    "title": "Epic Games、AIエージェント活用ゲーム開発コンテスト開催を6本指のレッドピル・ミームで宣伝",
+    "link": "https://www.techno-edge.net/article/2026/10/23/5621.html",
+    "source": "TechnoEdge",
+    "published": "Fri, 23 Oct 2026 12:00:03 +0900",
+    "summary": "Epic Gamesは、AIエージェントを駆使して製作したゲームの出来栄えを競うコンテスト「2026 Epic AI MegaJam」を11月12日より開催すると発表しました。",
+    "image": "https://www.techno-edge.net/imgs/rss/35039.jpg",
+    "fetched_at": "2026-10-25 10:28:03",
+    "ja_summary": "・Epic GamesがAIエージェント活用ゲームのコンテスト「2026 Epic AI MegaJam」を11月12日に開催。\n・AI技術を駆使したゲーム開発の成果を競うイベント。\n・宣伝には「6本指のレッドピル・ミーム」を使用し、注目を集めている。"
+  },
+  {
+    "title": "LLM・AIエージェント システムベストプラクティス",
+    "link": "https://speakerdeck.com/shibuiwilliam/llm-ai-ejento",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-10-24T21:14:59-04:00",
+    "summary": "2026/10/28 『技術書の話をしよう。～「つくる」をアップデートする～』の登壇資料\nhttps://sebook.connpass.com/event/409847/",
+    "image": "https://files.speakerdeck.com/presentations/aa98f7eace3946f5a97ba6aaa8ac74c8/preview_slide_0.jpg?41077978",
+    "fetched_at": "2026-10-25 10:28:07",
+    "ja_summary": "・LLMを活用したAIエージェントシステムの開発手法とベストプラクティスを解説\n・実用的なAIシステムを構築・運用するための技術的な要諦を網羅\n・「つくる」をアップデートするための最新設計指針を登壇資料で提示"
+  },
+  {
     "title": "AI悪用のサイバー攻撃が急増→｢全弾迎撃｣は不可能に… 生活インフラを死守するために社会全体が順応すべき\"新常識\" | 政治・経済・投資 | 東洋経済オンライン",
     "link": "https://toyokeizai.net/articles/-/962133?utm_source=rss&utm_medium=http&utm_campaign=link_back",
     "source": "東洋経済オンライン",
@@ -948,55 +998,5 @@
     "image": "https://japan.zdnet.com/storage/2026/10/22/641eeb0928cbdd40bbf4e1f78a9a6720/t/184/138/d/20261023_matsuoka_1280x960.jpg",
     "fetched_at": "2026-10-24 13:00:26",
     "ja_summary": "政府職員18万人が業務でAIエージェントを活用する方針が示された。\n古川デジタル大臣と日本IBMの藏本氏が、導入の意義や活用戦略について言及した。\n行政業務の効率化に向けたデジタル変革の本格的な動きが加速する。"
-  },
-  {
-    "title": "OpenAI、訓練中の最先端AIをインターネットから遮断すると発表。モデルの不正アクセス受け",
-    "link": "https://www.techno-edge.net/article/2026/10/24/5625.html",
-    "source": "TechnoEdge",
-    "published": "Sat, 24 Oct 2026 11:30:03 +0900",
-    "summary": "OpenAIは、予測不可能性の高さを主な理由として、最先端AIモデルのトレーニングの際に実際のインターネットに接続可能な環境を使用しない方針を明らかにしました。",
-    "image": "https://www.techno-edge.net/imgs/rss/35066.jpg",
-    "fetched_at": "2026-10-24 13:00:27",
-    "ja_summary": "・OpenAIが最先端AIの訓練中、インターネットへの接続を遮断すると発表\n・不正アクセスリスクや予測不可能な挙動を防止することが主な理由\n・AI開発におけるセキュリティ強化と安全性の向上を目指す方針"
-  },
-  {
-    "title": "脱獄PlayStation 5で大型AI（Qwen3.8-27B）を高速動作させるネイティブアプリ「PS5LM Plus」、iPhoneのメモリ3GBで動く35BのAIモデル「MiniCPM-V 4.7」など生成AI技術5つを解説（生成AIウィークリー）",
-    "link": "https://www.techno-edge.net/article/2026/10/23/5622.html",
-    "source": "TechnoEdge",
-    "published": "Fri, 23 Oct 2026 13:09:57 +0900",
-    "summary": "「生成AIウィークリー」（第164回）は、Metaが発表した米国製で過去最高性能とうたうオープンウェイトモデル「Muse Spark Open」や、コーディング系評価でGPT-5.6 SolやOpus 5を一部上回る精度のAIモデル「DeepSeek-V4.1-Flash-1017」を取り上げます。",
-    "image": "https://www.techno-edge.net/imgs/rss/35053.jpg",
-    "fetched_at": "2026-10-24 13:00:27",
-    "ja_summary": "・脱獄PS5でのAI実行やiPhoneでの軽量モデル動作など、最新の生成AI活用技術を紹介。\n・Metaの高性能モデル「Muse Spark Open」や、コーディング性能で最高水準に迫る「DeepSeek-V4.1-Flash-1017」を解説。\n・生成AIの技術トレンドと最新モデルの性能評価を網羅的に取り上げている。"
-  },
-  {
-    "title": "Anybody Can Generate Code. Can Your AI Ship It? - Devfest Hyderabad 2026",
-    "link": "https://speakerdeck.com/rivuchk/anybody-can-generate-code-can-your-ai-ship-it-devfest-hyderabad-2026",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-10-23T22:31:27-04:00",
-    "summary": "AI coding agents can generate entire features, refactor applications and write tests in minutes. But producing code is not the same as engineering software we can confidently ship.\n\nWhat happens when we stop treating AI as a coding assistant and start treating it as an engineering team?\n\nIn this session, we'll build a custom AI engineering harness using Google's Gemini, Gemma and Antigravity ecosystem, combining local, open-source and cloud models based on task complexity, cost and privacy requirements.\n\nWe'll create specialized agents for architecture, implementation, testing, code review and performance engineering. Using repository-level rules, reusable agent skills, structured handoffs and model routing, we'll orchestrate these agents into a coordinated engineering swarm.\n\nBut the real challenge starts when the agents say they're done.\n\nWe'll build independent verification layers around AI-generated code: compilation, static analysis, automated tests, UI validation, performance benchmarks and runtime telemetry. Instead of trusting an agent's claim that a task is complete, our harness will collect real engineering evidence.\n\nWhen an agent introduces a regression, the verification system will identify the failure, feed measurements back into the agent workflow and require another implementation-and-validation cycle before accepting the change.\n\nWe'll also explore how local Gemma models enable private and offline development workflows, when to escalate tasks to more capable cloud models, and how multilingual voice interfaces can make agent orchestration more accessible.\n\nThe result is more than an AI coding assistant. It's the foundation of a verifiable AI engineering system, with specialized agents, automated quality gates and measurable outcomes.\n\nAnybody can generate code now. The harder question is: can your AI actually ship it?",
-    "image": "https://files.speakerdeck.com/presentations/1059083eafc949749eb72d92397fa9c3/preview_slide_0.jpg?41060692",
-    "fetched_at": "2026-10-24 13:00:32",
-    "ja_summary": "AIによるコード生成を「実装」の域を超え、検証・テスト・デプロイまで自律的に完結させるエンジニアリングシステムの構築手法を解説する。\nGoogleのGeminiやGemmaを活用し、開発・検証・修正のサイクルを自動化する複数の専門AIエージェントを連携させた開発基盤を提案。\nAIの出力を盲信せず、コンパイルや性能ベンチマーク等の客観的証拠に基づいた「信頼性の高い出荷」を実現する検証プロセスの構築を目指す。"
-  },
-  {
-    "title": "｢山田孝之のオーディション番組｣に相次ぐ絶讃の声！二宮和也など豪華俳優も参加､\"異色の番組\"と言える3つの理由 | ライフ | 東洋経済オンライン",
-    "link": "https://toyokeizai.net/articles/-/961975?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-    "source": "東洋経済オンライン",
-    "published": "Sat, 24 Oct 2026 07:45:00 +0900",
-    "summary": "Leminoで配信中の俳優オーディション番組｢THE OPEN CALL -MAIN PARTNER 山田孝之-｣。SNSなどでも絶賛の声が相次いでいます。｢異色のオーディション番組｣と言われる3つ…",
-    "image": "https://tk.ismcdn.jp/mwimgs/9/c/1200w/img_9ca0397af4c4fdabe9133645cac007b1345456.jpg?nextgen=false",
-    "fetched_at": "2026-10-24 09:00:02",
-    "ja_summary": "・山田孝之プロデュースの俳優オーディション番組が、従来の枠にとらわれない斬新さで高評価を獲得。\n・二宮和也ら豪華ゲストが審査や対話に参加し、本音の議論を展開するドキュメンタリー性が魅力。\n・既存の芸能界の常識を覆す選考プロセスや演出が話題を呼び、新たなエンターテインメントとして注目されている。"
-  },
-  {
-    "title": "心を満たす「かわいいフィジカルAI」、日本の勝ち筋になり得るか？　「LOVOT」林社長が説く可能性",
-    "link": "https://www.itmedia.co.jp/business/articles/2610/23/news012.html",
-    "source": "ITmedia ビジネス",
-    "published": "Fri, 23 Oct 2026 06:00:00 +0900",
-    "summary": "空間を学習・認知し、物理的な状況を理解した上で自律的に動くロボット「フィジカルAI」が注目されている。作業を自動化し、人手不足の解消や生産性の向上につながる技術として期待されているためだ。一方、人に懐くロボット「LOVOT」を手掛ける林社長は、人との信頼関係を築く領域にも、フィジカルAI活躍の可能性があると指摘する。",
-    "image": "https://image.itmedia.co.jp/business/articles/2610/23/cover_news012.jpg",
-    "fetched_at": "2026-10-24 09:00:03",
-    "ja_summary": "・物理空間を認識して自律的に動く「フィジカルAI」が、人手不足解消の切り札として注目を集めている。\n・LOVOTの林社長は、産業用途に加え、人と信頼関係を築く「心を満たす」領域での活用を提唱。\n・高い情緒的価値を持つ日本発のフィジカルAIは、グローバル市場での競争力になり得る。"
   }
 ]
