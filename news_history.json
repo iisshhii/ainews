@@ -1,5 +1,145 @@
 [
   {
+    "title": "AI学習の可否をrobots.txtで指定 Google、MS、OpenAIらが共通仕様を27年導入",
+    "link": "https://www.watch.impress.co.jp/docs/news/2152852.html",
+    "source": "Impress Watch",
+    "published": "",
+    "summary": "OpenAIやGoogle、Microsoft、Anthropicは、Webサイトの運営者がrobots.txtを使って、AIの学習可否などを指定可能にする共通仕様の策定を進めると発表した。2027年の導入を目指す。",
+    "image": "https://www.watch.impress.co.jp/img/ipw/list/2152/852/ai01.jpg",
+    "fetched_at": "2026-11-01 09:34:29",
+    "ja_summary": "・GoogleやOpenAIら主要企業が、WebサイトのAI学習可否を制御する共通仕様を策定。\n・サイト運営者は「robots.txt」を通じて、自社コンテンツのAI利用を容易に拒否・許可できる。\n・2027年の導入を目指し、AI開発における著作権やデータ利用の適正化を図る。"
+  },
+  {
+    "title": "Claude、月額200ドルの「Ultra」で5時間制限撤廃　週間上限は維持",
+    "link": "https://japan.cnet.com/article/35254252/",
+    "source": "CNET Japan",
+    "published": "",
+    "summary": "米Anthropicは米国時間10月30日、生成AI「Claude」の月額200ドルプラン「Max 20x」を「Ultra」に改称し、認証済みアカウントの5時間ごとの利用量制限を撤廃すると発表した。同日から既存契約者の大半を対象に適用を始めた。1週間単位の利用上限は維持する。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35254252/\"><img src=\"https://japan.cnet.com/storage/thumbnails/thumb-184xauto-1357792-file.jpg\" /></a>",
+    "image": "https://japan.cnet.com/storage/thumbnails/thumb-184xauto-1357792-file.jpg",
+    "fetched_at": "2026-11-01 09:34:33",
+    "ja_summary": "・Claudeの月額200ドルプランが「Ultra」に改称され、5時間ごとの利用制限が撤廃された。\n・制限緩和は既に既存契約者の大半へ適用済み。\n・ただし、週間単位の利用上限は引き続き維持される。"
+  },
+  {
+    "title": "マクドナルド、商品が出来上がる前に受取番号を表示するのはなぜ？--広報に聞いた",
+    "link": "https://japan.cnet.com/article/35254253/",
+    "source": "CNET Japan",
+    "published": "",
+    "summary": "マクドナルドで受け取り番号が表示されたのに、カウンターに行くと商品がまだできていない。こうした利用者の投稿を受け、日本マクドナルドに番号表示の運用を聞いた。同社は10月27日、CNET Japanの取材に対し、商品を渡せる状態での表示が原則だが、提供まで時間がかかることを直接伝えるために呼び出す場合もあると説明した。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35254253/\"><img src=\"https://japan.cnet.com/storage/thumbnails/thumb-184xauto-1357794-file.jpg\" /></a>",
+    "image": "https://japan.cnet.com/storage/thumbnails/thumb-184xauto-1357794-file.jpg",
+    "fetched_at": "2026-11-01 09:34:33",
+    "ja_summary": "マクドナルドで番号表示後に商品が未完成なのは、提供まで時間がかかる旨を直接伝えて待機してもらうための運用。\n原則は完成時の表示だが、混雑時などにスムーズな案内を目的として行われている。"
+  },
+  {
+    "title": "OpenCodeの無料モデルとGoで使えるAIモデルまとめ",
+    "link": "https://note.com/npaka/n/n8fdfab00be1b",
+    "source": "note (npaka)",
+    "published": "Thu, 29 Oct 2026 17:38:04 +0900",
+    "summary": "<p id=\"1260ceba-b61c-4a48-80f8-f503744d5943\" name=\"1260ceba-b61c-4a48-80f8-f503744d5943\">「OpenCode」の無料モデルとGoで使えるAIモデルをまとめました。</p><br /><br /><a href=\"https://note.com/npaka/n/n8fdfab00be1b\">続きをみる</a>",
+    "image": "https://assets.st-note.com/production/uploads/images/329810830/rectangle_large_type_2_ff495ccc61d93af052d59e953cdcff18.png?width=800",
+    "fetched_at": "2026-11-01 09:34:34",
+    "ja_summary": "・プログラミング支援用「OpenCode」の無料モデル情報を整理。\n・Go言語環境で利用可能な主要AIモデルを網羅。\n・開発者がすぐに活用できるモデル選定の参考資料として紹介。"
+  },
+  {
+    "title": "AI生成曲検知 JASRACが導入検討",
+    "link": "https://news.yahoo.co.jp/pickup/6600711?source=rss",
+    "source": "Yahoo!ニュース IT・科学",
+    "published": "Fri, 30 Oct 2026 10:41:11 GMT",
+    "summary": "",
+    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/10/30/1934b64562de66c8c0798f2b4f2a6df4183c1bd3bd0c7c4bb7c8b5995797d99a.jpg",
+    "fetched_at": "2026-11-01 09:34:35",
+    "ja_summary": "・JASRACがAI生成楽曲を判別する技術の導入を検討。\n・AIによる著作権侵害の防止や、権利者の利益保護が目的。\n・AIと人間が作った楽曲を識別し、適正な著作権管理を目指す。"
+  },
+  {
+    "title": "パナソニック インダストリー、AI関連事業に約920億円投資--次世代半導体材料開発を強化",
+    "link": "https://japan.zdnet.com/article/35254227/",
+    "source": "ZDNET Japan",
+    "published": "",
+    "summary": "パナソニック インダストリーは、生成AI市場の拡大に対応するため、AI関連事業へ総額約920億円を投資すると発表した。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35254227/\"><img src=\"https://japan.zdnet.com/storage/2026/10/06/6be9e30a77cf77b628ceeceab06bcc83/t/184/138/d/261006_circuit_as_1280_634315457.jpg\" /></a>",
+    "image": "https://japan.zdnet.com/storage/2026/10/06/6be9e30a77cf77b628ceeceab06bcc83/t/184/138/d/261006_circuit_as_1280_634315457.jpg",
+    "fetched_at": "2026-11-01 09:34:35",
+    "ja_summary": "・パナソニック インダストリーがAI関連事業に約920億円を投資。\n・生成AI市場の急拡大に対応し、次世代半導体材料の開発を強化。\n・AI技術の進化を支える基盤技術への先行投資で競争力を高める。"
+  },
+  {
+    "title": "ClouderaとEpicAI、AIの業務実装を加速する戦略的協業を発表",
+    "link": "https://japan.zdnet.com/article/35254223/",
+    "source": "ZDNET Japan",
+    "published": "",
+    "summary": "ClouderaとEpicAIは10月29日、戦略的協業を開始すると発表した。Clouderaのデータ／AIプラットフォームと、業務課題の分析からAI活用シナリオの設計・実装までを支援するEpicAIの知見を組み合わせ、AIによる業務変革の構想策定から概念実証、本番運用までを顧客のシステム環境にかかわらず一気通貫で支援する体制を構築するという。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35254223/\"><img src=\"https://japan.zdnet.com/storage/2026/10/30/3314809ebabfb808407de5d6baed256f/t/184/138/d/261029_cldr_001.JPG\" /></a>",
+    "image": "https://japan.zdnet.com/storage/2026/10/30/3314809ebabfb808407de5d6baed256f/t/184/138/d/261029_cldr_001.JPG",
+    "fetched_at": "2026-11-01 09:34:35",
+    "ja_summary": "・ClouderaとEpicAIが戦略的協業を発表。\n・データ基盤とAI実装のノウハウを統合し、AI活用を包括的に支援する体制を構築。\n・構想策定から本番運用まで、環境を問わず一気通貫で企業のAI導入を加速させる。"
+  },
+  {
+    "title": "GitHubがAIエージェント前提の新機能群発表、タスクごとにAIモデルを自動で振り分けて複数リポジトリの作業を並列実行",
+    "link": "https://www.techno-edge.net/article/2026/10/29/5649.html",
+    "source": "TechnoEdge",
+    "published": "Thu, 29 Oct 2026 18:05:21 +0900",
+    "summary": "GitHubがAIエージェント前提の新機能群を発表。タスクごとに最適モデルを自動選択、複数リポの並列実行と自動化を強化。Enterpriseは全機能同梱、Azure移行は2027年前半予定。",
+    "image": "https://www.techno-edge.net/imgs/rss/35214.png",
+    "fetched_at": "2026-11-01 09:34:37",
+    "ja_summary": "・GitHubがAIエージェントによる自動化機能を発表し、タスクごとに最適なAIモデルを自動で割り当て可能に。\n・複数リポジトリの作業を並列処理する機能を強化し、開発スピードと効率を大幅に向上。\n・Enterprise版に全機能を実装し、今後はAzure環境への移行も予定。"
+  },
+  {
+    "title": "3 人それぞれの Claude Code を Slack でつないで ISUCON2026 に参加した（207,039 点）",
+    "link": "https://zenn.dev/kauche/articles/f3736c660aab77",
+    "source": "Zenn Trends",
+    "published": "Sat, 31 Oct 2026 12:31:11 GMT",
+    "summary": "この記事の下書きは、メンバーの 1 人が使っていた Claude Code が、当日の Slack、リポジトリ、Google Meet の自動メモをもとに作りました。そのメンバーが加筆と修正をしています。\n\n3 人のチーム「いくぜカウシェ」で ISUCON2026 に参加しました。最終スコアは 207,039 点です。\n各メンバーが自分の PC で Claude Code を動かし、調査からデプロイ、ベンチマークの実行までを任せました。エージェントどうしは会話の履歴を共有していません。連絡はすべてチームの Slack チャンネルで行い、4 台のサーバーへのデプロイがベンチマークの実行と...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--PaM6TDTu--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:3%2520%25E4%25BA%25BA%25E3%2581%259D%25E3%2582%258C%25E3%2581%259E%25E3%2582%258C%25E3%2581%25AE%2520Claude%2520Code%2520%25E3%2582%2592%2520Slack%2520%25E3%2581%25A7%25E3%2581%25A4%25E3%2581%25AA%25E3%2581%2584%25E3%2581%25A7%2520ISUCON2026%2520%25E3%2581%25AB%25E5%258F%2582%25E5%258A%25A0%25E3%2581%2597%25E3%2581%259F%25EF%25BC%2588207%252C0...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:a-thug%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzA0YzgwYTVkNzEuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2582%25AB%25E3%2582%25A6%25E3%2582%25B7%25E3%2582%25A7%2520Tech%2520Blog%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSzFVRGI0Z0M4bGM5Q3lVSWJsdmhKTm1rUHJtamdMQk11elJ1d0l3TndMPXM5Ni1j%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-11-01 09:34:39",
+    "ja_summary": "・3人チームでISUCON2026に参加し、207,039点を獲得。\n・各メンバーが個別にClaude Codeを運用し、調査からデプロイまでを分担。\n・AI同士は連携せず、Slackを通じた人間主導の指示で開発と実行を効率化した。"
+  },
+  {
+    "title": "16GB RAM・6GB VRAM のノート PC で gpt-oss-20b とチャットする",
+    "link": "https://zenn.dev/shozotanaka/articles/01877d688dfc65",
+    "source": "Zenn Trends",
+    "published": "Sat, 31 Oct 2026 08:47:05 GMT",
+    "summary": "概要\n2026年10月初頭、NVIDIA RTX Sparkを搭載したノートPCの出荷が開始されました。最大128GBのユニファイドメモリと最大6,144 CUDAコアのBlackwell RTX GPUを搭載できるRTX Sparkは、これまでのWindowsノートPCには見られなかった高性能なAIプラットフォームです。\n筆者が現在使用しているのは、RAM 16GB、VRAM 6GB（GeForce RTX 4050 Laptop GPU）を搭載したノートPCです。この環境で約13.8GBの gpt-oss-20b を動作させ、自作ゲームエンジンのChatシーン上で対話できるように...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--KDkgeXyo--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:16GB%2520RAM%25E3%2583%25BB6GB%2520VRAM%2520%25E3%2581%25AE%25E3%2583%258E%25E3%2583%25BC%25E3%2583%2588%2520PC%2520%25E3%2581%25A7%2520gpt-oss-20b%2520%25E3%2581%25A8%25E3%2583%2581%25E3%2583%25A3%25E3%2583%2583%25E3%2583%2588%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:ShozoTanaka%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jTEJjbDJCNl9iZnNSd3BfVTRhUmZBeXZ3RnVsWFlHeGhvX0Q3WTFlcUxnMXpTYnJnPXMyNTAtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-11-01 09:34:39",
+    "ja_summary": "・高性能な「NVIDIA RTX Spark」搭載ノートPCが発売され、AI処理能力が劇的に向上した。\n・従来のRAM 16GB・VRAM 6GBのPC環境でも、軽量化・最適化により「gpt-oss-20b」の動作が可能。\n・自作ゲームエンジンにAIを組み込み、チャット機能を実装する手法を解説する。"
+  },
+  {
+    "title": "TSKaigi Sendai 2026 - tsgo時代のTypeScript Playgroundはどう動くか",
+    "link": "https://speakerdeck.com/teamlab/tskaigi-sendai-tsgo-typescript-playground",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-10-29T00:53:03-04:00",
+    "summary": "このスライドは TSKaigi Sendai 2026の登壇に使用したスライドのアーカイブになります。\n\nチームラボでは、フロントエンドエンジニアを募集しています。\n少しでも、チームラボにご興味をお持ち頂けましたら、採用ページをご覧頂けますと幸いです。\nhttps://www.team-lab.com/recruit/",
+    "image": "https://files.speakerdeck.com/presentations/cae1d575ad1445809a2baa6bd1cdeb16/preview_slide_0.jpg?41165959",
+    "fetched_at": "2026-11-01 09:34:41",
+    "ja_summary": "・TSKaigi Sendai 2026での「tsgo時代のTypeScript Playgroundの動作」に関する登壇資料。\n・次世代の環境におけるTypeScript Playgroundの仕組みを解説。\n・チームラボがフロントエンドエンジニアを募集中（詳細は採用ページを参照）。"
+  },
+  {
+    "title": "TSKaigi Sendai 2026 - さよなら独自環境。TypeScriptでAbleton（DAW）を自動化する楽しさ",
+    "link": "https://speakerdeck.com/teamlab/tskaigi-sendai-typescript-ableton-automation",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-10-29T00:42:03-04:00",
+    "summary": "このスライドは TSKaigi Sendai 2026の登壇に使用したスライドのアーカイブになります。\n\nチームラボでは、フロントエンドエンジニアを募集しています。\n少しでも、チームラボにご興味をお持ち頂けましたら、採用ページをご覧頂けますと幸いです。\nhttps://www.team-lab.com/recruit/",
+    "image": "https://files.speakerdeck.com/presentations/81b12c4c75814b86923c8fb3ca86b009/preview_slide_0.jpg?41165938",
+    "fetched_at": "2026-11-01 09:34:41",
+    "ja_summary": "・TSKaigi Sendai 2026にて、TypeScriptを用いたAbleton Liveの自動化手法を解説。\n・独自環境からの脱却と、DAW操作をコード化する技術的な楽しさを紹介。\n・発表元であるチームラボがフロントエンドエンジニアを募集中。"
+  },
+  {
+    "title": "TSKaigi Sendai 2026 - OxcのTypeScript parserを眺める",
+    "link": "https://speakerdeck.com/teamlab/tskaigi-sendai-oxc-typescript-parser",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-10-29T00:33:48-04:00",
+    "summary": "このスライドは TSKaigi Sendai 2026の登壇に使用したスライドのアーカイブになります。\n\nチームラボでは、フロントエンドエンジニアを募集しています。\n少しでも、チームラボにご興味をお持ち頂けましたら、採用ページをご覧頂けますと幸いです。\nhttps://www.team-lab.com/recruit/",
+    "image": "https://files.speakerdeck.com/presentations/0b186cd5cebb4d5f8506a1ba7989c941/preview_slide_0.jpg?41165920",
+    "fetched_at": "2026-11-01 09:34:41",
+    "ja_summary": "・TSKaigi Sendai 2026での「OxcのTypeScript parser」に関する登壇資料。\n・Oxcにおけるパーサーの技術的な仕組みや知見を解説。\n・チームラボがフロントエンドエンジニアを募集中（採用ページへのリンクあり）。"
+  },
+  {
+    "title": "増え続けるプロダクトの品質をどう担保するか。ProductSpecとTypeScriptによる取り組み",
+    "link": "https://speakerdeck.com/joere/fue-tsuzukeru-purodakuto-no-hinshitsu-o-dou-tanpo-suru-ka-productspec-to-typescript-niyoru-torikumi",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-10-31T20:22:37-04:00",
+    "summary": "＃TSKaigiSendai\n\nPeopleXは、組織全体でサービスのコア技術にTypeScriptを採用しています。PeopleX AI面接のリリース以降、AIロープレ、AI面談、AIセールスとTypeScript製のプロダクトは次々に増えており、今後も拡大していく予定です。\n\nプロダクトが増えるほど、可観測性、エラーハンドリング、権限制御といった「どのプロダクトでも守るべき品質」はばらつきやすくなります。私たちはこの課題に向き合うため、全プロダクトに共通する仕様「ProductSpec」を定義する取り組みを進めています。\n\n本セッションでは、試行錯誤の中で見えてきた仕様の定義の仕方と、定義した仕様をTypeScriptのコードとテストで守り続けるためのプラクティスをお話しします。特に、コーディングエージェントが実装できる粒度で仕様を書く方法と、仕様からE2Eテストのケースを機械的に導出し、仕様への準拠を検証し続ける仕組みを紹介します。",
+    "image": "https://files.speakerdeck.com/presentations/ca221ab7284e4938abcb9f22f6d21645/preview_slide_0.jpg?41166706",
+    "fetched_at": "2026-11-01 09:34:41",
+    "ja_summary": "PeopleXはTypeScriptベースのプロダクト増加に伴う品質のばらつきを防ぐため、共通仕様「ProductSpec」を導入した。\n仕様をコーディングエージェントが扱える粒度で定義し、E2Eテストへ機械的に反映させることで品質を担保する仕組みを構築している。\n本セッションでは、仕様の定義手法から自動テストによる準拠検証まで、一連の実践的なプラクティスを解説する。"
+  },
+  {
     "title": "介護の現場は､包丁を手にしている相手に｢契約解除する｣ではなく｢また来ます｣と言わねばならぬルールのままでいいのか | 政治・経済・投資 | 東洋経済オンライン",
     "link": "https://toyokeizai.net/articles/-/962440?utm_source=rss&utm_medium=http&utm_campaign=link_back",
     "source": "東洋経済オンライン",
@@ -858,145 +998,5 @@
     "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/6a50f5ba4c0931f8d2c411f26d860955c1efeae7-1200x630.jpg",
     "fetched_at": "2026-10-31 03:51:58",
     "ja_summary": "・Anthropic社がClaudeを活用した新薬開発の加速化プロジェクトを開始。\n・過去数ヶ月間、6つの研究機関と連携し実証実験を実施。\n・AIによる創薬プロセス効率化の取り組みを本格化させている。"
-  },
-  {
-    "title": "Expanding our partnership with GSA to bring Claude to all levels of government",
-    "link": "https://www.anthropic.com/news/expanding-partnership-gsa",
-    "source": "Anthropic (News)",
-    "published": "Tue, 27 Oct 2026 00:00:00 +0000",
-    "summary": "We are expanding our partnership with the General Services Administration (GSA) through a new agreement that gives government partners a 40% discount on Claude Enterprise, Claude for Government, and the Claude API.",
-    "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/4e3bfa972a8ec391977288fa36de3da1ecd78232-1920x1080.webp",
-    "fetched_at": "2026-10-31 03:51:58",
-    "ja_summary": "・Anthropicが米連邦政府（GSA）との提携を拡大\n・Claude Enterprise等の利用料を政府機関向けに40%割引で提供\n・政府機関における生成AIの導入と活用を加速させる狙い"
-  },
-  {
-    "title": "Anthropic files S-1 with the SEC for proposed initial public offering",
-    "link": "https://www.anthropic.com/news/s1-sec",
-    "source": "Anthropic (News)",
-    "published": "Mon, 26 Oct 2026 00:00:00 +0000",
-    "summary": "Today, Anthropic, PBC filed a registration statement on Form S-1 with the U.S. Securities and Exchange Commission relating to its proposed initial public offering of its Class A common stock.",
-    "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
-    "fetched_at": "2026-10-31 03:51:59",
-    "ja_summary": "・AI開発企業のAnthropicが、米国証券取引委員会（SEC）に新規株式公開（IPO）に向けた登録届出書（S-1）を提出した。\n・同社は今後、株式公開に向けた手続きを正式に進める。"
-  },
-  {
-    "title": "Claude Codeで「QAチーム」を組んだら、効いたのは「捨てる仕組み」だった ― AIだけが見つけた不具合・見逃しは？",
-    "link": "https://zenn.dev/sre_holdings/articles/d4acb079680a79",
-    "source": "Zenn Trends",
-    "published": "Thu, 29 Oct 2026 05:00:29 GMT",
-    "summary": "SREホールディングス株式会社でプロジェクトマネージャ（PM）をしている鍋谷です。\n「AIにテストを手伝わせたい。でも、AIの『できました』はどこまで信用していいのか分からない」\nそんなモヤモヤ、あなたのチームにもありませんか？\n本記事では、Claude Code で「AIのQAチーム」を組み、社内の業務SaaSで1か月、手動の機能テストを回してみた結果として、AIだけが見つけた不具合、AIが見逃した不具合、そしてAIが自信満々に出してきた誤指摘をどう捨てたかを紹介します。\n\n 結論\n\nClaude Code のスキルとサブエージェントで「リーダー1・テスター複数・懐疑的な検証者」のQA...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--9kfMtpe6--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%25E3%2581%25A7%25E3%2580%258CQA%25E3%2583%2581%25E3%2583%25BC%25E3%2583%25A0%25E3%2580%258D%25E3%2582%2592%25E7%25B5%2584%25E3%2582%2593%25E3%2581%25A0%25E3%2582%2589%25E3%2580%2581%25E5%258A%25B9%25E3%2581%2584%25E3%2581%259F%25E3%2581%25AE%25E3%2581%25AF%25E3%2580%258C%25E6%258D%25A8%25E3%2581%25A6%25E3%2582%258B%25E4%25BB%2595%25E7%25B5%2584%25E3%2581%25BF%25E3%2580%258D%25E3%2581%25A0%25E3%2581%25A3%25E3%2581%259F%2520%25E2%2580%2595%2520AI%25E3%2581%25A0%25E3%2581%2591%25E3%2581%258C%25E8%25A6%258B%25E3%2581%25A4%25E3%2581%2591%25E3%2581%259F%25E4%25B8%258D%25E5%2585%25B7%25E5%2590%2588%25E3%2583%25BB...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:SNabe%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2ZlYWJhYWQ3ZjEuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:SRE%2520Holdings%2520%25E6%25A0%25AA%25E5%25BC%258F%25E4%25BC%259A%25E7%25A4%25BE%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUdObXl4YXlpQUR2U2EwYUdrTU9pY3NrOEl4MHdYdmo0VDY3TFVfNDVVUm89czk2LWM=%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "fetched_at": "2026-10-31 03:52:02",
-    "ja_summary": "・Claude Codeを活用したAIによるQAチームを編成し、1か月間の実地検証を実施。\n・AIは人間の見落としを補完する一方、自信満々の誤指摘も発生するため「捨てる仕組み」が重要と判明。\n・リーダー・テスター・検証者の役割をAIに分担させることで、テスト業務の効率化と品質向上の両立が可能。"
-  },
-  {
-    "title": "AIコーディングはじめました",
-    "link": "https://speakerdeck.com/miso/ai-kodingu-hajimemashita",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-10-30T10:58:27-04:00",
-    "summary": "IoT縛りの勉強会! IoTLT vol.140 @京王ライナー 登壇資料\nhttps://iotlt.connpass.com/event/410319/",
-    "image": "https://files.speakerdeck.com/presentations/62a3fa1a5b0140789fb61b084be8cd3c/preview_slide_0.jpg?41156754",
-    "fetched_at": "2026-10-31 03:52:02",
-    "ja_summary": "・IoT技術者向けの勉強会「IoTLT vol.140」の登壇資料。\n・走行中の京王ライナーで開催されたイベントの内容を共有。\n・「AIコーディング」をテーマにした技術的な知見や実践事例を公開。"
-  },
-  {
-    "title": "Spec-Driven Development with Kiro IDE: Building AI-Aligned Software Through Living Specifications",
-    "link": "https://speakerdeck.com/lifemichael/spec-driven-development-with-kiro-ide-building-ai-aligned-software-through-living-specifications",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-10-30T13:30:51-04:00",
-    "summary": "As Artificial Intelligence becomes increasingly capable of generating code, the challenges of software development are shifting from writing code to defining requirements, managing complexity, maintaining control, and ensuring that AI-generated solutions align with human intentions.\n\nSpec-Driven Development (SDD) introduces a structured approach in which specifications become the central source of truth, guiding AI agents throughout the software development lifecycle.\n\nIn this presentation, Haim Michael explores how Kiro IDE, Amazon's agentic development environment, supports Spec-Driven Development and enables developers to build reliable, maintainable, and AI-aligned software.\n\nThe presentation covers several key topics:\n\nThe End of Code-First Development: Understanding why AI-generated code shifts the bottleneck from implementation to specification, coordination, and verification.\n\nThe Limitations of Prompt-Driven Development: Exploring why relying on individual prompts makes it difficult to preserve intent, trace decisions, and maintain consistency.\n\nSpec-Driven Development: Using living specifications to capture requirements, constraints, architecture, and acceptance criteria.\n\nKiro IDE and Its Ecosystem: Introducing Kiro IDE, CLI, Web, Mobile, and Crew.\n\nThe Development Process: Moving from steering documents and EARS-based requirements to technical design, implementation tasks, and AI-assisted execution.\n\nAgent Hooks: Automating recurring activities such as code reviews, security checks, testing, formatting, and documentation.\n\nSubagents and Parallel Execution: Delegating specialized tasks to AI agents and executing independent development tasks concurrently.\n\nKiro Workflows: Orchestrating complex, multi-step development processes using sequential tasks, parallel agents, and iterative loops.\n\nCloud-Based AI Agents: Enabling autonomous agents to handle long-running activities, monitoring, incident response, code reviews, and recurring tasks.\n\nPersistent Orchestration and Observability: Using Kiro Crew to coordinate ongoing activities while maintaining visibility into agent execution, approvals, and results.\n\nBest Practices: Keeping specifications updated, maintaining detailed steering documents, reviewing technical designs, optimizing AI capabilities through MCP servers, Skills, and Powers, and choosing the appropriate level of orchestration.\n\nThe central message is that the future of software development is not about generating more code. It is about defining intent precisely, orchestrating AI agents effectively, and maintaining control over the entire development process.\n\nAs code generation becomes increasingly inexpensive, software developers move to a higher level of abstraction, focusing on architecture, requirements, constraints, quality assurance, and coordination.\n\nLiving specifications become the foundation that keeps humans and AI agents aligned, enabling software systems to evolve without losing their original intent.\n\nAbout the Speaker\n\nHaim Michael is the Founder and CEO of Zindell Technologies, a software architect, author, university lecturer, and technology trainer with more than 25 years of programming experience. He is also a Kiro Ambassador, AWS Community Builder, and Oracle ACE Associate.\n\nWebsite: https://blog.lifemichael.com\nLinkedIn: https://linkedin.com/in/lifemichael\nKiro IDE: https://kiro.dev",
-    "image": "https://files.speakerdeck.com/presentations/90ae3ce86f174069ab7968f0e888b802/preview_slide_0.jpg?41157287",
-    "fetched_at": "2026-10-31 03:52:02",
-    "ja_summary": "AIによるコード生成が容易になる中、開発の中心は「コード記述」から「仕様定義」と「AIの統合管理」へとシフトしています。\n「Kiro IDE」を用いた仕様駆動開発（SDD）は、生きた仕様書を基盤にAIエージェントを指揮し、意図と整合性の取れたソフトウェア開発を可能にします。\n開発者は実装作業から解放され、今後は設計・要件定義・AIオーケストレーションといった高次の抽象レイヤーでの役割が重要となります。"
-  },
-  {
-    "title": "Software Developers Evolution in the Era of AI",
-    "link": "https://speakerdeck.com/lifemichael/software-developers-evolution-in-the-era-of-ai",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-10-30T13:19:40-04:00",
-    "summary": "Artificial Intelligence is fundamentally transforming software development. As AI becomes increasingly capable of generating code, software developers' roles are shifting from writing code to designing systems, defining requirements, making architectural decisions, and orchestrating AI agents.\n\nIn this presentation, Haim Michael explores the skills, mindsets, and professional capabilities developers need to remain relevant and thrive in the AI era.\n\nThe presentation covers several key topics:\n\nEnglish Proficiency and Specifications: Why clear communication, precise requirements, and specification-driven development are becoming essential.\n\nT-Shaped Professionals: The growing importance of combining deep technical expertise with broader interdisciplinary skills.\n\nAI as a Development Partner: Moving beyond traditional coding toward collaborative development with AI.\n\nMental Models: Prioritizing fundamental concepts such as state, flow, abstraction, composition, and trade-offs over memorizing syntax and APIs.\n\nWriting and System Design: Developing the ability to translate human intent into clear requirements, design system architectures, and establish boundaries.\n\nDebugging and Code Review: Understanding, evaluating, and verifying AI-generated code while maintaining responsibility for software quality.\n\nBecoming System Builders: Expanding beyond programming to understand business requirements, product development, and UI/UX considerations.\n\nContinuous Self-Learning: Navigating rapidly evolving technologies, prioritizing learning objectives, and using AI as a personal learning accelerator.\n\nThe central message is that the future of software development is not simply about writing code faster. It is about moving to a higher level of abstraction, where developers define what needs to be built, understand why it matters, and guide AI systems toward reliable outcomes.\n\nAs generating code becomes increasingly inexpensive, software developers' real value shifts toward critical thinking, architectural understanding, clear specifications, continuous learning, and the ability to orchestrate the software development process.\n\nAbout the Speaker\n\nHaim Michael is the Founder and CEO of Zindell Technologies, a software architect, author, lecturer, and technology trainer with more than 25 years of programming experience. He teaches advanced computer science topics at universities and actively contributes to the international software development community.\n\nWebsite: https://blog.lifemichael.com\nLinkedIn: https://linkedin.com/in/lifemichael",
-    "image": "https://files.speakerdeck.com/presentations/f636e4114554418fb3542bbf0c74074f/preview_slide_0.jpg?41157229",
-    "fetched_at": "2026-10-31 03:52:02",
-    "ja_summary": "・AIの普及により、開発者の役割は「コードを書く」ことから「システム設計や要件定義を行う」ことへシフトしている。\n・単なるコーディング能力より、AIを制御・評価するスキルや、本質的な概念（抽象化、設計力、論理的思考）の理解が重要となる。\n・今後はAIをパートナーとして活用し、ビジネス価値やシステム全体を俯瞰できる「システムビルダー」への進化が求められている。"
-  },
-  {
-    "title": "4 Developer Skills AI Can't Automate",
-    "link": "https://speakerdeck.com/mabulgu/4-developer-skills-ai-can-t-automate",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-10-30T12:23:51-04:00",
-    "summary": "Devnot Summit, Istanbul, Oct 2026",
-    "image": "https://files.speakerdeck.com/presentations/c5b66f5316ae43a59eb7d5147b161534/preview_slide_0.jpg?41157049",
-    "fetched_at": "2026-10-31 03:52:02",
-    "ja_summary": "AI時代にエンジニアが持つべき、自動化不可能な4つの重要スキル：\n・複雑なビジネス課題を技術で解決する「設計・構想力」\n・チームを動かしステークホルダーと調整する「対人コミュニケーション」\n・不確実な状況下で下す「意思決定・責任能力」\n・既存の枠組みを超えた「創造的な問題解決能力」"
-  },
-  {
-    "title": "【エミン・ユルマズ氏が語る】どうなる？日本株の行方／オルカンだけでは勿体無い？／気になる金利の行方/AI相場は材料不足？／日米の為替動向／注目の業種・セクター | ビジネス | 東洋経済オンライン",
-    "link": "https://toyokeizai.net/articles/-/963142?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-    "source": "東洋経済オンライン",
-    "published": "Fri, 30 Oct 2026 21:00:00 +0900",
-    "summary": "『会社四季報』創刊90周年記念イベント「四季報カフェ」第3回（全2部）。<br />第1部ではゲストにエコノミストのエミン・ユルマズ氏をお迎えし、足元の株式市場の動向と今後の日本株が秘めるポテンシャルを解説い…",
-    "image": "https://tk.ismcdn.jp/mwimgs/f/d/1200w/img_fd2604204f49f24d1ad889010e52cdb5259473.jpg?nextgen=false",
-    "fetched_at": "2026-10-30 22:35:20",
-    "ja_summary": "・エミン・ユルマズ氏が日本株の今後のポテンシャルや市場動向を解説。\n・オルカン一辺倒の投資への提言や、日米金利・為替、AI相場の展望を分析。\n・日本株投資における注目業種やセクターの最新見通しを提示。"
-  },
-  {
-    "title": "【Sakana AI CEOに直撃】 元Google研究者が語るグローバルAIの現在地 ／世界のAI勢力図／ChatGPT登場から3年で激変／日本の勝ち筋は？／AI主権は？／日本の防衛とAI | ビジネス | 東洋経済オンライン",
-    "link": "https://toyokeizai.net/articles/-/963135?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-    "source": "東洋経済オンライン",
-    "published": "Fri, 30 Oct 2026 19:00:00 +0900",
-    "summary": "米中2強が覇権を争うAI開発競争に日本の勝ち筋はあるのか。元Google研究者で、評価額約4000億円のSakana AIを率いるデイビッド・ハーCEOが、開発現場から見た世界のAI勢力図を語る。「…",
-    "image": "https://tk.ismcdn.jp/mwimgs/7/c/1200w/img_7ca4f5f5c9a97c5386f6fac9ebe941ab175413.jpg?nextgen=false",
-    "fetched_at": "2026-10-30 22:35:20",
-    "ja_summary": "・米中主導のAI開発競争において、日本の勝ち筋は独自の強みを活かした戦略とAI主権の確立にある。\n・Sakana AIのデイビッド・ハーCEOが、ChatGPT登場後の激変する世界情勢と開発現場のリアルを解説。\n・日本の防衛や産業競争力強化に向けた、AI技術の活用と国家戦略のあり方を考察する。"
-  },
-  {
-    "title": "米中間選挙、民主躍進ならAI・半導体株に売りも　トランプ流の不確実性は消えず (上野泰也の先読みマーケット)",
-    "link": "https://business.nikkei.com/atcl/seminar/19/00122/00304/",
-    "source": "日経ビジネス 最新",
-    "published": "",
-    "summary": "来週の最大の焦点は11月3日の米中間選挙。民主党が躍進すれば、トランプ政権の政策運営に制約が強まり、人工知能（AI）・半導体関連株の売りにつながる可能性がある。だが、トランプ流の不確実性は依然として残りそうだ。米雇用統計は米金融政策の先行きを占う重要な材料となる。",
-    "image": "https://business.nikkei.com/atcl/seminar/19/00122/00304/fb.jpg",
-    "fetched_at": "2026-10-30 22:35:25",
-    "ja_summary": "・11月3日の米中間選挙で民主党が躍進すれば、規制強化懸念からAI・半導体株が売られる可能性がある。\n・ただし、トランプ政権による市場の不確実性は今後も続く見通し。\n・今後の相場展開は、中間選挙の結果と米雇用統計の両面から注視が必要。"
-  },
-  {
-    "title": "アクセンチュアがOpenAIのセキュリティー基盤導入を支援、中堅企業も照準",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/12135/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "AI(人工知能)を用いた攻撃が増え、サイバーリスクが高まる中、企業は対策に急ぐ。こうした変化を受け、OpenAIとアクセンチュアは、2026年10月から日本の中堅・大手企業を対象としたサイバーセキュリティーのオファリングを始めた。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/12135/topm.jpg?20220512",
-    "fetched_at": "2026-10-30 22:35:29",
-    "ja_summary": "・アクセンチュアとOpenAIが提携し、サイバーセキュリティ対策支援を開始。\n・2026年10月より、日本の中堅・大手企業向けにAIを活用した防御基盤を提供。\n・AIによるサイバー攻撃の増加を受け、企業のセキュリティ強化を後押しする。"
-  },
-  {
-    "title": "ガバメントAI基盤「源内」、18万人に国会答弁作成支援アプリを試験提供",
-    "link": "https://xtech.nikkei.com/atcl/nxt/news/24/03450/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "デジタル庁は2026年10月30日、ガバメントAI（人工知能）基盤「源内」に国会答弁作成を支援するアプリのプロトタイプ版を追加し、政府職員の約18万人が利用できるようになったと発表した。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/news/24/03450/topm.jpg?20220512",
-    "fetched_at": "2026-10-30 22:35:30",
-    "ja_summary": "・デジタル庁が国会答弁作成を支援するAIアプリの試験提供を開始\n・政府職員約18万人がガバメントAI基盤「源内」上で利用可能\n・官僚の業務効率化と国会対応の迅速化を目指す"
-  },
-  {
-    "title": "KDDIの顧客情報2万2541件が漏えいの可能性　ライフネット生命に不正アクセス",
-    "link": "https://japan.cnet.com/article/35254237/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "KDDIとライフネット生命保険は10月30日、ライフネット生命の一部システムへの不正アクセスにより、KDDIが保有する顧客情報が外部に漏えいした可能性があると発表した。対象は計2万2541件で、氏名や電話番号、メールアドレスなどが含まれる。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35254237/\"><img src=\"https://japan.cnet.com/storage/thumbnails/thumb-184xauto-1357741-file.jpg\" /></a>",
-    "image": "https://japan.cnet.com/storage/thumbnails/thumb-184xauto-1357741-file.jpg",
-    "fetched_at": "2026-10-30 22:35:36",
-    "ja_summary": "・ライフネット生命への不正アクセスにより、KDDIの顧客情報2万2541件が流出した可能性。\n・漏えいした情報は、氏名、電話番号、メールアドレスなど。\n・KDDIとライフネット生命の両社が公表し、対応を進めている。"
-  },
-  {
-    "title": "バイナンス、「ビットコイン」など約1兆円相当が不正流出　日本法人も出庫停止",
-    "link": "https://japan.cnet.com/article/35254235/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "暗号資産取引所のBinance（バイナンス）は10月30日、不正出金が発生したセキュリティ事案について、影響額を約63億ドルと推定していると発表した。日本法人のBinance Japanは同日、同社の顧客資産への影響は確認されていないと説明した。ただし、予防措置として暗号資産の外部送付（出庫）を一時停止している。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35254235/\"><img src=\"https://japan.cnet.com/storage/thumbnails/thumb-184xauto-1357739-file.jpg\" /></a>",
-    "image": "https://japan.cnet.com/storage/thumbnails/thumb-184xauto-1357739-file.jpg",
-    "fetched_at": "2026-10-30 22:35:36",
-    "ja_summary": "・バイナンスで約1兆円相当の不正流出が発生。\n・日本法人の顧客資産への影響はないが、予防措置として暗号資産の出庫を一時停止中。\n・事態の詳細と安全確保に向けた対応が進行中。"
   }
 ]
