@@ -1,5 +1,155 @@
 [
   {
+    "title": "電気絶縁用セパレーター専業のニッポン高度紙工業が｢AIサーバー向けの需要爆増｣で上方修正  | 政治・経済・投資 | 東洋経済オンライン",
+    "link": "https://toyokeizai.net/articles/-/963901?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+    "source": "東洋経済オンライン",
+    "published": "Sat, 07 Nov 2026 11:30:00 +0900",
+    "summary": "電気絶縁用セパレーター専業大手で世界シェア約6割を占めるニッポン高度紙工業が業績の上方修正を発表しました。",
+    "image": "https://tk.ismcdn.jp/mwimgs/2/e/1200w/img_2ed80ba5c19e447785cc9d47cd6b2beb325960.jpg?nextgen=false",
+    "fetched_at": "2026-11-07 17:15:33",
+    "ja_summary": "AIサーバー需要急増で、電気絶縁用セパレーター大手ニッポン高度紙工業が業績を上方修正。\n世界シェア約6割を占める同社は、AI関連分野での需要拡大の恩恵を受ける。"
+  },
+  {
+    "title": "キオクシア、27年分メモリーは既に売り切れ　供給不足は今がピークの見方も　 (AIデータセンター・エフェクト)",
+    "link": "https://business.nikkei.com/atcl/gen/19/00887/110500012/",
+    "source": "日経ビジネス 最新",
+    "published": "",
+    "summary": "キオクシアは、2027年の生産能力分のメモリーを全て顧客に割り当てた。つまり27年生産分のメモリー半導体は予約が埋まり、「完売」状態だ。キオクシアはこうしたAIデータセンター需要が続くと強調する。ただ需給ギャップには27年以降、変化の兆しも見えそうだ。",
+    "image": "https://business.nikkei.com/atcl/gen/19/00887/110500012/fb.jpg",
+    "fetched_at": "2026-11-07 17:15:40",
+    "ja_summary": "キオクシア、2027年生産分のメモリーは既に完売。\nAIデータセンター需要が供給逼迫の主因。\n2027年以降は需給バランスの変化も予想される。"
+  },
+  {
+    "title": "ローカルLLMに最適な専用機　Mac miniかAMD搭載PCか",
+    "link": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/052100112/103000150/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "自宅のAI（人工知能）エージェントでは大手AIモデルプロバイダーのサービスを利用している。これだと、規約変更などサービス提供側の都合でエージェントが使えなくなる可能性がある。そこでローカルLLMを試すことにした。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/052100112/103000150/topm.jpg?20220512",
+    "fetched_at": "2026-11-07 17:15:45",
+    "ja_summary": "自宅AIエージェントの安定性向上に、ローカルLLM導入を検討。\n大手AIサービスは規約変更リスクがあるため、自前で環境構築へ。\nMac miniかAMD搭載PCが、ローカルLLMに適した専用機として比較されている。"
+  },
+  {
+    "title": "情報漏洩の背後にAIエージェント　悪用が相次ぐ「ARTEX」の正体",
+    "link": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/052100113/103000198/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "サイバー攻撃による情報漏洩事件が国内で相次いでいる。当初は不明な点が多かったが、詳細が判明し始めた。その1つが、AI（人工知能）エージェントの利用だ。「ARTEX（アルテックス）」と呼ばれるAIエージェントが使われている可能性が高いという。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/052100113/103000198/topm.jpg?20220512",
+    "fetched_at": "2026-11-07 17:15:46",
+    "ja_summary": "国内で情報漏洩が頻発。\n背後には「ARTEX」と呼ばれるAIエージェントの悪用が浮上。\nAIがサイバー攻撃に利用される新たな脅威となっている。"
+  },
+  {
+    "title": "AIの進化が引き金に　「セキュリティー費用爆発」の実態",
+    "link": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/052100111/110500190/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "AI（人工知能）が進化した代償として、企業が負担を強いられるセキュリティー費用の規模感が明らかになってきた。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/052100111/110500190/topm.jpg?20220512",
+    "fetched_at": "2026-11-07 17:15:47",
+    "ja_summary": "AIの進化で、企業はセキュリティ対策に多額の費用を支払う必要に迫られている。\nその負担額は予想以上に大きく、増加傾向にある。\nAI活用には、セキュリティ費用増という代償が伴う。"
+  },
+  {
+    "title": "Claude Codeのセキュリティの仕組み - Sandbox・Trust・Approvalを理解する",
+    "link": "https://note.com/npaka/n/nfe20c94acff6",
+    "source": "note (npaka)",
+    "published": "Sat, 07 Nov 2026 15:28:18 +0900",
+    "summary": "<p id=\"9d97efdf-ac89-4187-bc79-f53468e20096\" name=\"9d97efdf-ac89-4187-bc79-f53468e20096\">「Claude Code」のセキュリティの仕組みについてまとめました。</p><br /><br /><a href=\"https://note.com/npaka/n/nfe20c94acff6\">続きをみる</a>",
+    "image": "https://assets.st-note.com/production/uploads/images/332872091/rectangle_large_type_2_4cb740757295c0c078047498e856d65b.png?width=800",
+    "fetched_at": "2026-11-07 17:15:54",
+    "ja_summary": "Claude Codeは、Sandbox、Trust、Approvalの3つの仕組みでセキュリティを確保しています。\nこれにより、安全にコード生成AIを利用できます。\n詳細はこの記事で解説しています。"
+  },
+  {
+    "title": "東大野球部 独自のAIで打球予測",
+    "link": "https://news.yahoo.co.jp/pickup/6601651?source=rss",
+    "source": "Yahoo!ニュース IT・科学",
+    "published": "Sat, 07 Nov 2026 06:35:34 GMT",
+    "summary": "",
+    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/11/7/823702e48e411f3a3ed098a58a7c9f3b946fd50dc3412e67e3cdc25bed44c363.jpg",
+    "fetched_at": "2026-11-07 17:15:55",
+    "ja_summary": "東京大学野球部が、独自のAIを開発し、打球の軌道を高精度で予測するシステムを導入。\nこれにより、守備のポジショニングや練習方法の改善を図り、チーム力向上を目指す。\nAI技術をスポーツに応用した先進的な取り組みとして注目されている。"
+  },
+  {
+    "title": "ネットワークインフラ系イベント年間カレンダ (その2)",
+    "link": "https://zenn.dev/nanakanok/articles/06a8cf51a8663f",
+    "source": "Zenn Trends",
+    "published": "Fri, 06 Nov 2026 05:39:53 GMT",
+    "summary": "ネットワークインフラ関連のイベントを Google カレンダーにまとめて公開しています。これまでは次の記事のカレンダーを手動でメンテナンスしていましたが、AI を使って自動化しました。\nhttps://zenn.dev/nanakanok/articles/31d211a8c761ca\nこの記事は、そのカレンダーに入れるイベントの一覧です。カレンダーは次のリンクから見られます。\n\nブラウザで表示する: ネットワークインフラ関連イベントの Google カレンダー\n\n自分のカレンダーに追加する: iCal をインポートしてください。\n\n!\n2026-11-06 時点で、各イベントの公式サイ...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--UxdPBEsw--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%258D%25E3%2583%2583%25E3%2583%2588%25E3%2583%25AF%25E3%2583%25BC%25E3%2582%25AF%25E3%2582%25A4%25E3%2583%25B3%25E3%2583%2595%25E3%2583%25A9%25E7%25B3%25BB%25E3%2582%25A4%25E3%2583%2599%25E3%2583%25B3%25E3%2583%2588%25E5%25B9%25B4%25E9%2596%2593%25E3%2582%25AB%25E3%2583%25AC%25E3%2583%25B3%25E3%2583%2580%2520%2528%25E3%2581%259D%25E3%2581%25AE2%2529%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:nanakano%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzg1YTQ2NzcyZTMuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-11-07 17:16:01",
+    "ja_summary": "ネットワークインフラ関連イベントのGoogleカレンダーが、AIで自動更新されるようになりました。\nこれにより、最新のイベント情報を常に把握できます。\nカレンダーはブラウザまたはiCalで追加可能です。"
+  },
+  {
+    "title": "SPICE Modeling and Device Modeling of Solar Cells: From Device Physics to Parameter Extraction, SPICE Implementation, and Validation (Graduate Lecture Notes)",
+    "link": "https://speakerdeck.com/beetech/pv-spice-device-modeling-lecture-en",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-11-07T02:20:17-05:00",
+    "summary": "These graduate-level lecture notes provide a comprehensive guide to solar cell and module SPICE modeling. They cover the role of compact modeling, semiconductor device physics (photogeneration, recombination mechanisms, superposition), equivalent-circuit models (single-diode, double-diode, and Bishop reverse-bias models), implicit equation solvers (Lambert W function and numerical methods), and parameter extraction techniques such as the De Soto method. Furthermore, the notes explain temperature and irradiance scaling, module/array scaling, partial shading and bypass diodes, SPICE implementation (behavioral and Verilog-A approaches), validation frameworks, and extensions to emerging technologies like high-efficiency silicon and perovskite/silicon tandems.",
+    "image": "https://files.speakerdeck.com/presentations/6ae54af1c5ab4c3ba0a6a93918904a2a/preview_slide_0.jpg?41259548",
+    "fetched_at": "2026-11-07 17:16:03",
+    "ja_summary": "太陽電池のSPICEモデル化とデバイスモデリングに関する専門的な講義ノート。\nデバイス物理からパラメータ抽出、SPICE実装、検証までを網羅。\n新規技術への応用にも触れる。"
+  },
+  {
+    "title": "エネがえる共通管理｜営業版｜クイックスタート【3ページ】",
+    "link": "https://speakerdeck.com/satoru_higuchi/ga-eru-kyoutsuu-kanri-eigyouban-kuikku-sutato-3-peji",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-11-07T00:07:40-05:00",
+    "summary": "エネがえる共通(管理)のクイックスタート(営業版)。補助金DB照会・料金プラン単価照会を提案に使う場合。表紙と各パートに実際の入力画面・結果画面・診断レポートを掲載。最新版とPowerPoint版は配布資料ライブラリ https://claude.ai/artifact/19T1G9g7qaU6qjNcN3SJqL 、操作の説明はオンラインマニュアル https://claude.ai/artifact/8LPReEWR5GuPSrTWM7uHv4 。試算例の数値は将来の効果を保証するものではありません。国際航業株式会社 エネがえる事業(版 2026.10.26.2)",
+    "image": "https://files.speakerdeck.com/presentations/14f92f49168a4ab8994106247ea4cba7/preview_slide_0.jpg?41258476",
+    "fetched_at": "2026-11-07 17:16:03",
+    "ja_summary": "「エネがえる」営業版のクイックスタートガイド。\n補助金や料金プランを提案に活用するための操作方法を、実際の画面と共に解説。\n最新情報や詳細な操作説明は、指定のURLから確認可能。"
+  },
+  {
+    "title": "エネがえる共通管理｜営業版｜最初の1件をつくる操作ガイド【13ページ】",
+    "link": "https://speakerdeck.com/satoru_higuchi/ga-eru-kyoutsuu-kanri-eigyouban-saisho-no-1-ken-o-tsukuru-sousa-gaido-13-peji",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-11-07T00:07:36-05:00",
+    "summary": "エネがえる共通(管理)の最初の1件をつくる操作ガイド(営業版)。補助金DB照会・料金プラン単価照会を提案に使う場合。表紙と各パートに実際の入力画面・結果画面・診断レポートを掲載。最新版とPowerPoint版は配布資料ライブラリ https://claude.ai/artifact/19T1G9g7qaU6qjNcN3SJqL 、操作の説明はオンラインマニュアル https://claude.ai/artifact/8LPReEWR5GuPSrTWM7uHv4 。試算例の数値は将来の効果を保証するものではありません。国際航業株式会社 エネがえる事業(版 2026.10.26.2)",
+    "image": "https://files.speakerdeck.com/presentations/7f7301d4c885436086ea6eb778474b1d/preview_slide_0.jpg?41258463",
+    "fetched_at": "2026-11-07 17:16:03",
+    "ja_summary": "「エネがえる共通管理」営業版の操作ガイド。\n補助金・料金プラン照会から最初の1件を提案に繋げる手順を、画面写真付きで解説。\n最新版やオンラインマニュアルへのリンクも提供。"
+  },
+  {
+    "title": "エネがえる共通管理｜営業版｜パーフェクトマニュアル【56ページ】",
+    "link": "https://speakerdeck.com/satoru_higuchi/ga-eru-kyoutsuu-kanri-eigyouban-pafekuto-manyuaru-56-peji",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-11-07T00:07:32-05:00",
+    "summary": "エネがえる共通(管理)のパーフェクトマニュアル(営業版)。補助金DB照会・料金プラン単価照会を提案に使う場合。表紙と各パートに実際の入力画面・結果画面・診断レポートを掲載。最新版とPowerPoint版は配布資料ライブラリ https://claude.ai/artifact/19T1G9g7qaU6qjNcN3SJqL 、操作の説明はオンラインマニュアル https://claude.ai/artifact/8LPReEWR5GuPSrTWM7uHv4 。試算例の数値は将来の効果を保証するものではありません。国際航業株式会社 エネがえる事業(版 2026.10.26.2)",
+    "image": "https://files.speakerdeck.com/presentations/402e982885544788854f468626e2af23/preview_slide_0.jpg?41258407",
+    "fetched_at": "2026-11-07 17:16:03",
+    "ja_summary": "「エネがえる共通管理（営業版）」のパーフェクトマニュアル。\n補助金・料金プラン照会を提案に活用する方法を、画面画像や診断レポートで解説。\n最新版や操作説明は、別途提供されるライブラリ・オンラインマニュアルを参照。"
+  },
+  {
+    "title": "エネがえる共通管理｜料金担当版｜クイックスタート【3ページ】",
+    "link": "https://speakerdeck.com/satoru_higuchi/ga-eru-kyoutsuu-kanri-ryoukin-tantouban-kuikku-sutato-3-peji",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-11-07T00:07:28-05:00",
+    "summary": "エネがえる共通(管理)のクイックスタート(料金担当版)。カスタム料金プランを作り、全製品で使う場合。表紙と各パートに実際の入力画面・結果画面・診断レポートを掲載。最新版とPowerPoint版は配布資料ライブラリ https://claude.ai/artifact/19T1G9g7qaU6qjNcN3SJqL 、操作の説明はオンラインマニュアル https://claude.ai/artifact/8LPReEWR5GuPSrTWM7uHv4 。試算例の数値は将来の効果を保証するものではありません。国際航業株式会社 エネがえる事業(版 2026.10.26.2)",
+    "image": "https://files.speakerdeck.com/presentations/ca6061a21b2846fb9b892709c6eaa492/preview_slide_0.jpg?41258404",
+    "fetched_at": "2026-11-07 17:16:03",
+    "ja_summary": "「エネがえる共通管理｜料金担当版｜クイックスタート」は、カスタム料金プラン作成と全製品への適用方法を解説。\n実際の画面やレポートを掲載し、理解を助ける。\n最新版や操作説明はオンラインで確認可能。"
+  },
+  {
+    "title": "新しいRAG「Decision RAG」は速い！安い！上手い！🍜",
+    "link": "https://qiita.com/kikuziro/items/cc82e6e4e4c215eac99f",
+    "source": "Qiita (Popular)",
+    "published": "2026-11-02T10:19:12+09:00",
+    "summary": "## ⚖️ はじめに\n\n最近Jevをはじめとした判断特化型のモデルが続々と出てきていますよね。文章は書かずに「はい」の確からしさだけを返してくれるモデルです。この判断モデルをRAGの検索に使う「DecisionRAG」という論文が出ていたので自分なりに噛み砕いてみました。後半は通常のRAG（以降NaiveRAGと記載）と比較検証をしてみました。\n\nhttps://arxiv.org/abs/261",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGMjkzMzQ4OSUyRnByb2ZpbGUtaW1hZ2VzJTJGMTc5Mjk5MzU2Nz9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9ODk4NWM0OTA2NDA3NmU1MjY5YjFkZDc0Mzc0YzE4N2I%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Dda5369d529aa115708e519ff3312efd0?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUU2JTk2JUIwJUUzJTgxJTk3JUUzJTgxJTg0UkFHJUUzJTgwJThDRGVjaXNpb24lMjBSQUclRTMlODAlOEQlRTMlODElQUYlRTklODAlOUYlRTMlODElODQlRUYlQkMlODElRTUlQUUlODklRTMlODElODQlRUYlQkMlODElRTQlQjglOEElRTYlODklOEIlRTMlODElODQlRUYlQkMlODElRjAlOUYlOEQlOUMmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz05MTEwZDlkZjQxNGY2MmU3ODA1OGUwYzQwMDhmMjI2MA&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBraWt1emlybyZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWM3OGI3M2Q5YTRjOWFhNTIyZjZmYzE4YWMzN2YwOThh&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=9cfdbea67bc272595c76e4b67887c2c0",
+    "fetched_at": "2026-11-07 17:16:04",
+    "ja_summary": "判断特化型AIをRAG検索に活用する「Decision RAG」が登場。\n従来のRAGより高速・低コストで、かつ精度も向上する。\n速度、コスト、精度すべてにおいて優れた、新しいRAG技術。"
+  },
+  {
+    "title": "Claude Codeの.envを読ませない設定がどこまで効くのか試してみた",
+    "link": "https://qiita.com/yakumo_09/items/5a86ca330b449db0e6bc",
+    "source": "Qiita (Popular)",
+    "published": "2026-10-19T13:33:13+09:00",
+    "summary": "## はじめに\n\nClaude Codeには、`permissions.deny` で `.env` を読ませない設定があります。ただ、公式ドキュメントを読むと「止まらないケースもある」と書いてあるんですよね。\n\nじゃあ実際どこまで止まるのか、偽物のキーを置いて48回試してみました。\n\n\n## 手元のMacを見てみた\n\n試す前に、自分のMacの状態を確認しました。`.env` の中身は開かず、ファ",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGMzk1MTE3NiUyRnByb2ZpbGUtaW1hZ2VzJTJGMTc0NTA2ODIwOD9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9OWZmMjZmMjcwZTVhZGJiN2IxN2JjYzQ4NTJlYzFmOGQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Dda40e6ffab5aab6d5f14dca3b066a8de?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9Q2xhdWRlJTIwQ29kZSVFMyU4MSVBRS5lbnYlRTMlODIlOTIlRTglQUElQUQlRTMlODElQkUlRTMlODElOUIlRTMlODElQUElRTMlODElODQlRTglQTglQUQlRTUlQUUlOUElRTMlODElOEMlRTMlODElQTklRTMlODElOTMlRTMlODElQkUlRTMlODElQTclRTUlOEElQjklRTMlODElOEYlRTMlODElQUUlRTMlODElOEIlRTglQTklQTYlRTMlODElOTclRTMlODElQTYlRTMlODElQkYlRTMlODElOUYmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz0xZDBjM2Y3Mzk3NzM3ZGQ3NDdjNTIyZTU2ZTYwNWZiMg&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDB5YWt1bW9fMDkmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz01Y2E1MmJkZGU2N2I1MzJkYjY4MWY5MjYzZDJmMGNjNA&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=971f3329f5f279440db7c3951a841585",
+    "fetched_at": "2026-11-07 17:16:07",
+    "ja_summary": "Claude Codeの`.env`読み込み拒否設定の有効範囲を検証。\n偽のキーで48回試行し、設定がどこまで機能するか実証。\n公式ドキュメントの「止まらないケースもある」という記述の裏付けを試みた。"
+  },
+  {
     "title": "Google、脆弱性修正AI「CodeMender」を強化　Gemini 4 Argonなど複数AIモデルを使用",
     "link": "https://japan.cnet.com/article/35254533/",
     "source": "CNET Japan",
@@ -848,155 +998,5 @@
     "image": "https://japan.cnet.com/storage/thumbnails/thumb-184xauto-1358422-file.jpg",
     "fetched_at": "2026-11-06 11:49:35",
     "ja_summary": "米アマゾンがUber Eatsと提携し、プライム会員向けの新たな特典を開始。\n米国にて、25ドル以上の注文でUber Eatsの配送手数料が無料となる。\n既存のプライム会員特典を拡充し、サービスの利便性をさらに高める狙い。"
-  },
-  {
-    "title": "新たなAIモデル評価で判明、中国企業がオープンAIやアンソロピックに及ぼす脅威は過大評価だった可能性",
-    "link": "https://www.businessinsider.jp/article/2611chinese-ai-models-rankings-artificial-analysis-private-tests-anthropic-openai/",
-    "source": "Business Insider Japan",
-    "published": "Fri, 06 Nov 2026 02:45:00 GMT",
-    "summary": "評価方法の刷新で、クローズドモデルとオープンウェイトモデルの性能差が拡大しました。オープンウェイトAIはコーディングで競争力を保つ一方、需要は限定的です。",
-    "image": "https://media.loom-app.com/loom/2026/11/04/8beaff79-81db-4a74-ae80-2639d5137ed5/original.jpg?w=1200",
-    "fetched_at": "2026-11-06 11:49:35",
-    "ja_summary": "・新評価手法により、中国発のオープンウェイトAIの性能は米大手モデルに及ばないことが判明。\n・コーディング分野で一定の競争力はあるものの、市場での需要は限定的。\n・中国企業が先行する米AI企業を脅かす存在だとする見方は、過大評価である可能性が高い。"
-  },
-  {
-    "title": "【2026年11月版】生成AI主要7サービス料金早見表 ―― パーソナルエージェント化の流れが加速。無料版の線引きも見直しへ",
-    "link": "https://www.businessinsider.jp/article/2611-how-much-did-major-generative-ai-service-fees/",
-    "source": "Business Insider Japan",
-    "published": "Fri, 06 Nov 2026 02:15:00 GMT",
-    "summary": "10月はMetaの「Muse」の日本上陸など、常時稼働型AIの話題が盛り上がった。また、Google Geminiの無料版が軽量なモデルのみに限定するなど、無料や安価なプランでサービス見直しが進んだ。各サービスの動きを振り返ろう。",
-    "image": "https://media.loom-app.com/loom/2026/11/05/fc2f192b-7d86-4a4d-a887-19d3fa020e7c/original.jpg?w=1200",
-    "fetched_at": "2026-11-06 11:49:35",
-    "ja_summary": "・生成AIは常時稼働する「パーソナルエージェント」化が加速している。\n・Google等で無料・安価プランの制限強化が進み、利用モデルの選別が鮮明化。\n・主要7サービスの最新料金・仕様の変化を把握し、用途に応じた選択が必須。"
-  },
-  {
-    "title": "AIバブル崩壊への懸念が高まる中、専門家が推奨する3つの投資防衛策",
-    "link": "https://www.businessinsider.jp/article/2611-how-to-invest-ai-bubble-stock-market-crash/",
-    "source": "Business Insider Japan",
-    "published": "Fri, 06 Nov 2026 01:30:00 GMT",
-    "summary": "AIバブルがまもなく崩壊するのではないかと不安な人たちに向けて、弱気派な専門家たちが、ポートフォリオの備え方についていくつかアドバイスをしています。",
-    "image": "https://media.loom-app.com/loom/2026/11/03/4b4c1697-0b7d-499f-b413-d30f75f0301a/original.jpg?w=1200",
-    "fetched_at": "2026-11-06 11:49:35",
-    "ja_summary": "・AIバブル崩壊のリスクに対し、投資家が備えるべき防衛策が注目されている。\n・専門家は、過度なAI関連銘柄への依存を避け、ポートフォリオを再編すべきと提言。\n・市場の変動に耐えられるよう、資産の分散とリスク管理の強化が急務である。"
-  },
-  {
-    "title": "GPT-Image-2.6の概要 - ChatGPTがアニメーションGIF生成に対応",
-    "link": "https://note.com/npaka/n/n7e86091b23c3",
-    "source": "note (npaka)",
-    "published": "Thu, 05 Nov 2026 09:26:02 +0900",
-    "summary": "<p id=\"b1883523-9843-4d34-9b4b-5a2bc7237217\" name=\"b1883523-9843-4d34-9b4b-5a2bc7237217\">「GPT-Image-2.6」の概要についてまとめました。</p><br /><br /><a href=\"https://note.com/npaka/n/n7e86091b23c3\">続きをみる</a>",
-    "image": "https://assets.st-note.com/production/uploads/images/332366183/rectangle_large_type_2_cc8e40bb1f2ebbf8f653ad3cce2d31a7.png?width=800",
-    "fetched_at": "2026-11-06 11:49:35",
-    "ja_summary": "・ChatGPTの新モデル「GPT-Image-2.6」がリリース\n・指示に基づいたアニメーションGIFの生成に対応\n・静止画だけでなく動きのある画像作成が可能に"
-  },
-  {
-    "title": "イントラマートが描く「自律的に進化する企業」--AI時代、人は業務から消えるのか",
-    "link": "https://japan.zdnet.com/article/35254453/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "イントラマートは自社イベント「intra-mart LIVE 2026 Realize」を開催した。基調講演では、AIエージェントの進化で「人は業務から消えるのか？」と提起。AIが判断や操作を主導する時代におけるヒトとAIのオーケストレーションと、自律的に進化し続ける企業の新たな姿が示された。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35254453/\"><img src=\"https://japan.zdnet.com/storage/2026/11/05/55884a55bdbfc98d535e36d23007d4ad/t/184/138/d/261105_intramart_l.jpg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2026/11/05/55884a55bdbfc98d535e36d23007d4ad/t/184/138/d/261105_intramart_l.jpg",
-    "fetched_at": "2026-11-06 11:49:38",
-    "ja_summary": "・イントラマートのイベントで「AI主導時代におけるヒトの役割」を議論。\n・AIが判断や操作を担う中で、ヒトとAIの調和（オーケストレーション）が重要。\n・AIを活用して自律的に進化し続ける企業の未来像が示された。"
-  },
-  {
-    "title": "チェック・ポイント、日本に「AIサイバー攻撃検証チーム」--悪用可能なリスク特定を支援",
-    "link": "https://japan.zdnet.com/article/35254478/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "チェック・ポイントは、悪用可能なセキュリティ上の弱点をサイバー犯罪者に悪用される前に特定できるよう、日本国内の組織を支援する専任の取り組みとして「AIサイバー攻撃検証チーム」を立ち上げたと発表した。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35254478/\"><img src=\"https://japan.zdnet.com/storage/2026/07/29/ad58fe90bd9c75fed2144e8ec1ba0a4b/t/184/138/d/270729_security_as_1280_1793148141.jpeg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2026/07/29/ad58fe90bd9c75fed2144e8ec1ba0a4b/t/184/138/d/270729_security_as_1280_1793148141.jpeg",
-    "fetched_at": "2026-11-06 11:49:38",
-    "ja_summary": "・チェック・ポイントが日本企業向けに「AIサイバー攻撃検証チーム」を新設。\n・AIを悪用したサイバー攻撃に対し、事前に脆弱性を特定して防御力を強化する。\n・攻撃者の手法を先回りして検知することで、国内組織のセキュリティ向上を支援する。"
-  },
-  {
-    "title": "ServiceNow Japan社長が説く「企業は人とAIの協働をどう生かせばよいか」",
-    "link": "https://japan.zdnet.com/article/35254439/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "今回は、ServiceNow Japan 執行役員社長 鈴木正敏氏と、リコージャパン 執行役員 パブリックサービス本部長 兼 GX事業部長 田保勝久氏の「明言」を紹介する。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35254439/\"><img src=\"https://japan.zdnet.com/storage/2026/11/05/011eed0cb623d4bcd08efd1d19b00677/t/184/138/d/20261106_matsuoka_1280x960.jpg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2026/11/05/011eed0cb623d4bcd08efd1d19b00677/t/184/138/d/20261106_matsuoka_1280x960.jpg",
-    "fetched_at": "2026-11-06 11:49:38",
-    "ja_summary": "ServiceNowとリコージャパンの両幹部が、企業における「人とAIの協働」の重要性を提言。\nAIを単なる効率化ツールではなく、業務プロセスを再設計し付加価値を生むパートナーとして位置づけるべきと強調。\n生産性向上と人的価値の最大化に向けた、組織の変革のあり方を議論している。"
-  },
-  {
-    "title": "数百ページのPDF文書を一括解析できるローカルAI「Unlimited OCR 2」、NVIDIA開発の文字起こし音声AI「Nemotron 3.5 Transcribe」など生成AI技術5つを解説（生成AIウィークリー）",
-    "link": "https://www.techno-edge.net/article/2026/11/06/5679.html",
-    "source": "TechnoEdge",
-    "published": "Fri, 06 Nov 2026 09:58:04 +0900",
-    "summary": "今回の「生成AIウィークリー」（第166回）は、スマホでも高速で動くオープンウェイトのAIモデル群「LFM3」や、数百ページの文書を一括解析できるローカルOCRモデル「Unlimited OCR 2」を取り上げます。",
-    "image": "https://www.techno-edge.net/imgs/rss/35337.png",
-    "fetched_at": "2026-11-06 11:49:40",
-    "ja_summary": "・数百ページの文書を一括解析する「Unlimited OCR 2」や、NVIDIAの音声認識AI「Nemotron 3.5」など注目技術5選を紹介。\n・スマホで高速動作するオープンウェイトモデル「LFM3」など、実用的な生成AIの最新動向を網羅。"
-  },
-  {
-    "title": "ガバメントAI 源内に関する「行政実務用RAG」の解説動画を掲載しました",
-    "link": "https://www.digital.go.jp/policies/genai/aff58345-cef0-433c-8b33-88217fe0b423",
-    "source": "デジタル庁",
-    "published": "Fri, 06 Nov 2026 10:46:31 +0900",
-    "summary": "",
-    "image": "https://www.digital.go.jp/themes/custom/gov_theme_da_2023/assets/images/ogp.png",
-    "fetched_at": "2026-11-06 11:49:40",
-    "ja_summary": "行政向け生成AI「ガバメントAI 源内」に、業務効率化を支援する「行政実務用RAG」の解説動画が追加された。\n本機能の活用により、自治体業務における検索や文書作成の効率が大幅に向上する。\n公式ページにて動画が公開されており、導入や活用方法をすぐに確認可能。"
-  },
-  {
-    "title": "Australian universities are creating AI-native graduates",
-    "link": "https://openai.com/index/australian-universities-ai-native-graduates",
-    "source": "OpenAI",
-    "published": "Thu, 05 Nov 2026 17:00:00 GMT",
-    "summary": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.",
-    "image": "https://openai.com/favicon.ico",
-    "fetched_at": "2026-11-06 11:49:41",
-    "ja_summary": "・オーストラリアの大学が、生成AI「ChatGPT」の教育利用を本格化。\n・AIを日常的に活用するカリキュラムを通じ、即戦力のAI人材を育成。\n・AI時代を見据え、社会で活躍できるスキルセットの習得を加速させる。"
-  },
-  {
-    "title": "Merge builds product and business tools with OpenAI technology",
-    "link": "https://openai.com/index/merge-builds-with-openai",
-    "source": "OpenAI",
-    "published": "Thu, 05 Nov 2026 08:00:00 GMT",
-    "summary": "Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing. Its teams also use AI to plan executive dinners and prepare sales updates.",
-    "image": "https://openai.com/favicon.ico",
-    "fetched_at": "2026-11-06 11:49:41",
-    "ja_summary": "MergeはOpenAIの技術を活用し、製品コードのレビューやマーケティング支援を自動化。\nさらに経営陣の会食計画や営業レポート作成など、社内の業務効率化にもAIを導入している。"
-  },
-  {
-    "title": "Flipsnack grows product signups with conversion optimization",
-    "link": "https://openai.com/ads/customers/flipsnack",
-    "source": "OpenAI",
-    "published": "Thu, 05 Nov 2026 00:45:15 GMT",
-    "summary": "Flipsnack focused its ChatGPT Ads campaigns on getting people to try its product, growing registrations while lowering the cost per signup.",
-    "image": "https://openai.com/favicon.ico",
-    "fetched_at": "2026-11-06 11:49:41",
-    "ja_summary": "・FlipsnackがChatGPT広告を活用し、製品の新規登録数を増加させた。\n・コンバージョン最適化により、登録単価の削減にも成功。\n・AI広告運用が、効率的なユーザー獲得に寄与した事例。"
-  },
-  {
-    "title": "AI駆動文章作成において俺が意識しているテクニック集",
-    "link": "https://zenn.dev/ntk221/articles/34ad88a9225364",
-    "source": "Zenn Trends",
-    "published": "Thu, 05 Nov 2026 14:35:31 GMT",
-    "summary": "はじめに\n私は基本的に、「誰もわたしが書いた文章なんて読みたくない」と思っています。\nみんな忙しいんです。そんな中であなたが文章を書いて、誰かがそれを読むということは、双方に何かしらの目的があるんだと思います。\nしかも今は AI のおかげで、文章は一瞬でいくらでも書けるようになりました。結果として、仕事の中でも外でも AI が生成した文章が溢れかえっています。AI に書かせた長文を「で、何が言いたいの？」と思いながらスクロールした経験ってありませんか。\n\nわたしはあります。\nだからこそ、みんな忙しい中でどうやって読んでもらうか？ を考えるテクニックが大事になると思います。この記事では...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--gj1DJtQ3--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%25E9%25A7%2586%25E5%258B%2595%25E6%2596%2587%25E7%25AB%25A0%25E4%25BD%259C%25E6%2588%2590%25E3%2581%25AB%25E3%2581%258A%25E3%2581%2584%25E3%2581%25A6%25E4%25BF%25BA%25E3%2581%258C%25E6%2584%258F%25E8%25AD%2598%25E3%2581%2597%25E3%2581%25A6%25E3%2581%2584%25E3%2582%258B%25E3%2583%2586%25E3%2582%25AF%25E3%2583%258B%25E3%2583%2583%25E3%2582%25AF%25E9%259B%2586%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:ntk%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2I0MmZiYzVlOTkuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "fetched_at": "2026-11-06 11:49:42",
-    "ja_summary": "AIによる文章が溢れる現代、読まれない「中身のない長文」を避ける工夫が不可欠である。\n読者の時間を奪わないよう、明確な目的意識を持って簡潔に伝えることが重要。\n忙しい相手に確実に情報を届けるための、実戦的な執筆テクニックを解説する。"
-  },
-  {
-    "title": "AI生成コードを本番品質に保つためのフロントエンド開発の仕組み",
-    "link": "https://zenn.dev/sun_asterisk/articles/d4e4bc24974b99",
-    "source": "Zenn Trends",
-    "published": "Thu, 05 Nov 2026 09:00:55 GMT",
-    "summary": "はじめに\nAI が書いたコードの品質は、プロンプトの工夫よりも、AI の外側に用意した「仕組み」で決まります。この記事では、Next.js（App Router）と TypeScript のフロントエンド開発を例に、AI 生成コードを本番品質に保つための仕組みを 4 つの層に分けて紹介します。\n\n AI は「書かれていないこと」を推測で埋める\nたとえば AI に「プロフィール編集フォームを作って」と頼んだとします。仕様書にニックネームの最大文字数やエラー文言が書かれていなければ、AI はそれらしい値を自分で決めて実装します。\n企画側の想定が 20 文字でも、AI は 50 文字で実装...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--YHH9hFMG--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%25E7%2594%259F%25E6%2588%2590%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2589%25E3%2582%2592%25E6%259C%25AC%25E7%2595%25AA%25E5%2593%2581%25E8%25B3%25AA%25E3%2581%25AB%25E4%25BF%259D%25E3%2581%25A4%25E3%2581%259F%25E3%2582%2581%25E3%2581%25AE%25E3%2583%2595%25E3%2583%25AD%25E3%2583%25B3%25E3%2583%2588%25E3%2582%25A8%25E3%2583%25B3%25E3%2583%2589%25E9%2596%258B%25E7%2599%25BA%25E3%2581%25AE%25E4%25BB%2595%25E7%25B5%2584%25E3%2581%25BF%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Phung%2520Dinh%2520Son%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2M1YTU0ZjZiM2MuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Sun%252A%2520Developers%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jS1ZvTHFDTWN0cUhIc05WUkdzVGVFRmUzeVhTQ21jSmpRa0pRLTFNTG9tcFYyQkdBPXMyNTAtYw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "fetched_at": "2026-11-06 11:49:43",
-    "ja_summary": "・AIの出力品質はプロンプトよりも、開発環境側に構築する「仕組み」に依存する。\n・AIの推測による仕様の不一致を防ぐため、型定義やバリデーション等のガードレールが必要。\n・Next.jsやTypeScriptの特性を活かし、4層の仕組みを構築することで本番品質を担保する。"
-  },
-  {
-    "title": "CS業務カイゼン・ジャーニー",
-    "link": "https://zenn.dev/appleworld/articles/8acf5474644f7e",
-    "source": "Zenn Trends",
-    "published": "Thu, 05 Nov 2026 05:42:04 GMT",
-    "summary": "こんにちは。株式会社アップルワールド プロダクト開発部 グローバルグループの室です。\nAIで社内部署の業務を改善する、というのはありふれた話ですが、今回は私自身がCS(カスタマーサポート)向けに行った内容を、時系列で記します。\n\n 1. メールが届いてから、ホテルを提案するまで\nCSには、旅行のお客様からメールが届きます。見積もりの依頼と、質問などの問い合わせが混ざって届き、担当者はまずそれを読み分けます。見積もりの依頼であれば、お客様の旅行に最も合うホテルのプランを考えて返します。希望は「〇〇の近くで」「駅近で」のように、施設や場所で届くことがあります。そのとき提案するホテルは、名指し...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--3wwmUjzi--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:CS%25E6%25A5%25AD%25E5%258B%2599%25E3%2582%25AB%25E3%2582%25A4%25E3%2582%25BC%25E3%2583%25B3%25E3%2583%25BB%25E3%2582%25B8%25E3%2583%25A3%25E3%2583%25BC%25E3%2583%258B%25E3%2583%25BC%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:petanko%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzQwZGMyYTQ1NTIuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2582%25A2%25E3%2583%2583%25E3%2583%2597%25E3%2583%25AB%25E3%2583%25AF%25E3%2583%25BC%25E3%2583%25AB%25E3%2583%2589%2520Tech%2520Blog%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzg2ZGUwNGY0ZjIuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "fetched_at": "2026-11-06 11:49:43",
-    "ja_summary": "・カスタマーサポート担当者が手作業で行う顧客メールの振り分けと、最適なホテル提案業務をAIで効率化。\n・膨大な問い合わせ内容を即座に分類し、条件に適したプランを自動抽出する仕組みを構築。\n・属人化しがちなCS業務の負担を軽減し、対応スピードと品質の向上を目指す改善事例。"
   }
 ]
