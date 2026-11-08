@@ -1,5 +1,115 @@
 [
   {
+    "title": "金融パーソンにとって、AI時代に重要なスキルとは？ ウォール街のルーキーたちが語る",
+    "link": "https://www.businessinsider.jp/article/2611-wall-street-rising-stars-career-advice-skills-ai/",
+    "source": "Business Insider Japan",
+    "published": "Sun, 08 Nov 2026 08:30:00 GMT",
+    "summary": "金融業界でもAIが単純作業を担うようになる中で、金融業界の新星たちが、次世代が生き残るために役立つスキルを語ります。",
+    "image": "https://media.loom-app.com/loom/2026/11/05/283ce45f-d8fc-41a4-bad8-d1e4ef35d4ff/original.jpg?w=1200",
+    "fetched_at": "2026-11-08 17:34:25",
+    "ja_summary": "・金融業界のAI活用により、単純作業は自動化へ移行\n・AI時代には、AIを使いこなしつつ人間独自の洞察力が必須\n・数値処理を超えた、戦略的思考や対人能力の重要性が高まっている"
+  },
+  {
+    "title": "AI for Science expands to foundations and research institutions",
+    "link": "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions",
+    "source": "Anthropic (News)",
+    "published": "Wed, 28 Oct 2026 00:00:00 +0000",
+    "summary": "We’re highlighting 20 scientific foundations, institutions, and research groups around the world that we’ve partnered with in an expansion of our AI for Science program.",
+    "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/2c317246f4ac7eaf0667d90a76ac05a7a7b601fc-1200x630.jpg",
+    "fetched_at": "2026-11-08 17:34:31",
+    "ja_summary": "・Googleが科学研究を加速させる「AI for Science」プログラムを拡大。\n・世界20の科学財団や研究機関と新たにパートナーシップを締結。\n・AI活用により科学的発見や研究プロセスの効率化を目指す。"
+  },
+  {
+    "title": "Early progress on accelerating drug development with Claude",
+    "link": "https://www.anthropic.com/research/early-progress-drug-development",
+    "source": "Anthropic (News)",
+    "published": "Tue, 27 Oct 2026 00:00:00 +0000",
+    "summary": "We're at the start of a major effort to speed up drug development with Claude. Over the past several months, our scientists have engaged in deep research partnerships with six organizations developing new medicines.",
+    "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/6a50f5ba4c0931f8d2c411f26d860955c1efeae7-1200x630.jpg",
+    "fetched_at": "2026-11-08 17:34:31",
+    "ja_summary": "・AI「Claude」を活用した新薬開発の加速プロジェクトが始動。\n・6つの研究機関と連携し、数ヶ月にわたる深い共同研究を実施済み。\n・AIによる創薬プロセスの効率化を目指す取り組みを本格化。"
+  },
+  {
+    "title": "Donating Agent Skills to the Agentic AI Foundation",
+    "link": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
+    "source": "Anthropic (News)",
+    "published": "Thu, 22 Oct 2026 00:00:00 +0000",
+    "summary": "We’re donating Agent Skills, the open standard that gives AI agents specialized knowledge and workflows, to the Agentic AI Foundation. More than 70 agent platforms, including ChatGPT, Cursor, GitHub Copilot, and VS Code, have integrated Agent Skills since we published the standard in December 2025.",
+    "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+    "fetched_at": "2026-11-08 17:34:32",
+    "ja_summary": "・AIエージェントの標準規格「Agent Skills」をAgentic AI Foundationへ寄贈。\n・ChatGPTやGitHub Copilotなど70以上の主要プラットフォームが既に採用済み。\n・AI間の連携とワークフローの標準化を推進し、業界エコシステムの拡大を図る。"
+  },
+  {
+    "title": "意思決定だけで週100コミット積むAI開発手法",
+    "link": "https://zenn.dev/kingyosun/articles/kukuri-ai-dev",
+    "source": "Zenn Trends",
+    "published": "Fri, 06 Nov 2026 17:26:04 GMT",
+    "summary": "こんにちは。KingYoSunと申します。\nkukuriというP2P SNSを開発しています。Webからも使えます。\n\n何を考えて作ったのか、どうすれば始められるのかはnoteに書きました。\nkukuriの技術的な話はこの記事に書きましたので気になる方は是非\nこの記事ではAIコーディングによっていかにしてこのプロダクトを開発しているか解説します。\n\n 1. 人間がやること\n私はこのkukuriを開発するにあたって、 以下の作業しかしていません\n\nAIに要望を伝える・壁打ち（AIにIssueを立てさせる）\n「後方互換性・受け入れ条件・ユーザー体験」へ影響する変更を加える場合にのみAIから質...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--MdQKexmo--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E6%2584%258F%25E6%2580%259D%25E6%25B1%25BA%25E5%25AE%259A%25E3%2581%25A0%25E3%2581%2591%25E3%2581%25A7%25E9%2580%25B1100%25E3%2582%25B3%25E3%2583%259F%25E3%2583%2583%25E3%2583%2588%25E7%25A9%258D%25E3%2582%2580AI%25E9%2596%258B%25E7%2599%25BA%25E6%2589%258B%25E6%25B3%2595%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:KingYoSun%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2dLaEpCQlB5UzM3SEYtV3QxNnkwYm9ZOHBLMGx5WHJsb1p2Zms1PXMyNTAtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-11-08 17:34:33",
+    "ja_summary": "・P2P SNS「kukuri」の開発において、AIを活用した超高速開発手法を確立。\n・開発者は「意思決定」と「壁打ち」に専念し、コーディングや実装の大部分をAIへ委任。\n・人間が重要な判断を下し、AIが実行を担う分業体制により週100コミットを実現。"
+  },
+  {
+    "title": "Claudeを使いこなす人に、MagicPodは要るのか。知らないアプリでPlaywrightと比べた記録",
+    "link": "https://zenn.dev/genda_jp/articles/7b423bcd20b532",
+    "source": "Zenn Trends",
+    "published": "Fri, 06 Nov 2026 05:13:04 GMT",
+    "summary": "2026年10月、MagicPodのMCPサーバーが刷新されました。Claudeのコネクタ一覧から接続するだけで、Claudeとの対話を通じてMagicPodのテストケースを作成・編集・実行できるようになっています。\nhttps://prtimes.jp/main/html/rd/p/000000079.000027392.html\n以前、MagicPod MCPサーバーとClaudeを組み合わせて、テストケースをAIでレビューする仕組みについて書きました。\nhttps://zenn.dev/genda_jp/articles/e2697df23813a5\nそのときはテストを「読む」話で...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--GD0APm80--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%25E3%2582%2592%25E4%25BD%25BF%25E3%2581%2584%25E3%2581%2593%25E3%2581%25AA%25E3%2581%2599%25E4%25BA%25BA%25E3%2581%25AB%25E3%2580%2581MagicPod%25E3%2581%25AF%25E8%25A6%2581%25E3%2582%258B%25E3%2581%25AE%25E3%2581%258B%25E3%2580%2582%25E7%259F%25A5%25E3%2582%2589%25E3%2581%25AA%25E3%2581%2584%25E3%2582%25A2%25E3%2583%2597%25E3%2583%25AA%25E3%2581%25A7Playwright%25E3%2581%25A8%25E6%25AF%2594%25E3%2581%25B9%25E3%2581%259F%25E8%25A8%2598%25E9%258C%25B2%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:ikenyal%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzNiM2M1MjhkNjguanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:GENDA%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2I5MzI2NGQ4NzcuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-11-08 17:34:33",
+    "ja_summary": "・MagicPodのMCPサーバー刷新により、Claudeから直接テストの作成・編集・実行が可能になった。\n・単なるコード生成に留まらず、AIとの対話でテスト業務全体を完結できる環境が整った。\n・Playwright等の既存ツールに対し、AI連携による効率化と自動化で優位性を発揮する。"
+  },
+  {
+    "title": "Kiro アップデート 2026 年 11 月号 (11 月 8 日時点) | 目指せ Kiro マスター アップデート編",
+    "link": "https://speakerdeck.com/inariku/kiro-series-14",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-11-07T19:00:47-05:00",
+    "summary": "2026 年 11 月 1 日〜8 日の Kiro の更新を、kiro.dev の changelog とブログ、GitHub の Kiro Crew のリリースをもとにまとめた配布資料です。Kiro CLI 3.0.0 で対話と ACP の既定が V3 になったこと (headless は V2 のまま) と終わったもの、要約の前後で動く Hook、サブエージェントの Memory、Workflows の実行の追い方、クレジットプーリング、Claude Haiku 5.5 と Kimi K3 の一般提供、Kiro Crew 0.12.0 の Bot を、何が変わり、どこで使うかで説明します。自分ですることの表と、製品ごとの更新の一覧も付けました。シリーズ「目指せ Kiro マスター」のアップデート編です。",
+    "image": "https://files.speakerdeck.com/presentations/f4a969a85fb34808aadff836c94dcb0f/preview_slide_0.jpg?41272607",
+    "fetched_at": "2026-11-08 17:34:34",
+    "ja_summary": "・Kiro CLI 3.0.0で対話とACPの既定がV3へ移行し、Headless設定や実行フック、サブエージェント機能等が大幅に強化。\n・Claude Haiku 5.5とKimi K3が一般提供され、クレジットプーリングやワークフロー追跡などの管理機能も拡充。\n・Kiro Crew 0.12.0によるボット機能のアップデートを含め、実務での活用法をまとめたマスター向け資料を公開。"
+  },
+  {
+    "title": "Amazon Q Developer からの移行 (使っている機能の、Kiro での置き場所) | 目指せ Kiro マスター 14",
+    "link": "https://speakerdeck.com/inariku/kiro-series-11",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-11-07T18:45:46-05:00",
+    "summary": "Amazon Q Developer の IDE のプラグインと有償のサブスクリプションは、2027 年 4 月 30 日にサポートが終わります。VS Code、JetBrains、Visual Studio と Eclipse、Q Developer CLI、Q Developer Pro の契約のそれぞれについて、Kiro での行き先と移る手順をまとめた配布資料です。設定のパスの対応表、管理者と開発者 1 人の手順、移る段取りの例も付けました。2026 年 11 月時点の公開ドキュメントをもとにしています。シリーズ「目指せ Kiro マスター」の 14 (会社に入れる) です。",
+    "image": "https://files.speakerdeck.com/presentations/18fc2462e01c4b2ca597aba1911a2a9e/preview_slide_0.jpg?41272557",
+    "fetched_at": "2026-11-08 17:34:34",
+    "ja_summary": "・Amazon Q Developerのサポート終了に伴い、Kiroへの移行手順をまとめたガイドを公開。\n・主要IDEやCLIごとの設定移行、管理者・開発者別の手順や段取りを網羅。\n・2027年4月の期限に向け、スムーズな移行を支援する内容。"
+  },
+  {
+    "title": "Lambda Micro VMs上でCode Serverを動かしてみた / Code Server on AWS Lambda MicroVMs",
+    "link": "https://speakerdeck.com/k_adachi_01/ibaraki18-emergency-2026-11-08",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-11-07T23:06:03-05:00",
+    "summary": "AWS Lambda MicroVMs上でcode-serverを動かし、ハンズオン環境としての実用性を検証しました。さらに、Kiro CLIを使ったAIエージェントの作業環境としても活用し、ローカル環境との分離や使い捨てサンドボックスとしての可能性を探りました。既存のクラウドエージェントとの使い分けや、複数エージェントの連携についても紹介します。\n\nJAWS-UG 茨城 #18 祝！2周年記念祭\nhttps://jawsug-ibaraki.connpass.com/event/407471/",
+    "image": "https://files.speakerdeck.com/presentations/5a5666535c6948e7b19d9fddc0033659/preview_slide_0.jpg?41269452",
+    "fetched_at": "2026-11-08 17:34:34",
+    "ja_summary": "・AWS Lambda上でcode-serverを稼働させ、使い捨て可能なハンズオン環境を実現。\n・AIエージェントの実行基盤として活用し、セキュアな作業環境を構築。\n・クラウドエージェントとの連携や使い分けにより、柔軟な開発環境の運用が可能。"
+  },
+  {
+    "title": "Xで話題の、原文をたどってドメイン知識を集めるスキル「imozuru」を普通のAI検索と比べてみた",
+    "link": "https://qiita.com/inoyu-qiita/items/4fc91ba7f67d6763960e",
+    "source": "Qiita (Popular)",
+    "published": "2026-10-29T12:22:54+09:00",
+    "summary": "\n## はじめに\n\nXの[こちらの投稿](https://x.com/iru_cection/status/2110245336182874447)で、Claude Codeのスキル[`imozuru`](https://github.com/MaryCache/imozuru)が話題になっていました。知らない分野のドメイン知識を、原文から芋づる式に集められるスキルです。\n\n一方、普通にAIに「こ",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0NDc1MzUxJTJGY2VlMTgxZmZmZTcyYjNjZWFiNTFmNmVlODMxNjk4MDZiOTljMzI5ZCUyRnhfbGFyZ2UucG5nJTNGMTc4Njk3MDQzNT9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9OGQwZTVjMjE3NWE5MTI1YmMwYzM2OWEyYmJmNGU1NTk%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYwOGU2ZWM5ZWViMWNmYzNmYWZjZGRlNTNkMGJiN2MxYjRjM2NhZmVkJTJGb3JpZ2luYWwuanBnJTNGMTY3ODc3NjQ0Mj9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz0wMDhkN2RmOTQxYzZhODc4YzlhMzJmYWMxYjE1MmI1Yw%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3Dca004b4b0e07f1dd1e0e7937c9a70633?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9WCVFMyU4MSVBNyVFOCVBOSVCMSVFOSVBMSU4QyVFMyU4MSVBRSVFMyU4MCU4MSVFNSU4RSU5RiVFNiU5NiU4NyVFMyU4MiU5MiVFMyU4MSU5RiVFMyU4MSVBOSVFMyU4MSVBMyVFMyU4MSVBNiVFMyU4MyU4OSVFMyU4MyVBMSVFMyU4MiVBNCVFMyU4MyVCMyVFNyU5RiVBNSVFOCVBRCU5OCVFMyU4MiU5MiVFOSU5QiU4NiVFMyU4MiU4MSVFMyU4MiU4QiVFMyU4MiVCOSVFMyU4MiVBRCVFMyU4MyVBQiVFMyU4MCU4Q2ltb3p1cnUlRTMlODAlOEQlRTMlODIlOTIlRTYlOTklQUUlRTklODAlOUElRTMlODElQUVBSSVFNiVBNCU5QyVFNyVCNCVBMiVFMyU4MSVBOCVFNiVBRiU5NCVFMyU4MSVCOSVFMyU4MSVBNiVFMyU4MSVCRiVFMyU4MSU5RiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTgyZjY1YjI4YzNiMzIxMmQ1YmNlNWQxMzI5MzJiMjZj&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBpbm95dS1xaWl0YSZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTFiYzg3ZWI4MzM5YjcwZTRlMDRlNWUzZDRkZjY2YWE0&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=5qCq5byP5Lya56S-44Kk44O844OH44Kj44O844Ko44O8&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=bb9a84da3077b344fd061d54bf6353f5",
+    "fetched_at": "2026-11-08 17:34:35",
+    "ja_summary": "・「imozuru」は、未知の分野の情報を原文から芋づる式に深掘りして収集できるClaude Codeの拡張機能。\n・通常のAI検索と異なり、信頼性の高い一次情報を網羅的に追跡できるため、専門的な知識収集に最適。\n・AIに単に質問するよりも、効率的かつ正確にドメイン知識を習得できる手法として注目されている。"
+  },
+  {
+    "title": "目指せClaude全冠！4つの試験を全部受けたので攻略法を紹介します",
+    "link": "https://qiita.com/minorun365/items/59783841e48f5467594f",
+    "source": "Qiita (Popular)",
+    "published": "2026-11-03T18:02:04+09:00",
+    "summary": "こんにちは、Claude Codeです。著者のみのるんが忙しそうだったので、代わりにこの記事を書いています。\n\nClaude認定（Claude Certified）はAnthropicの公式資格で、Claude Partner Networkに加盟している企業の人が受験できます。\n\nhttps://claude.com/blog/four-role-based-claude-certificati",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYxNjMzODU2JTJGYzIyNmJjMzRhYzZjNDVhMjFmNWU1MTJkMWM3MmE2ZjA5NzQ5NDU3OCUyRnhfbGFyZ2UucG5nJTNGMTY5OTk1NDk3Nj9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9MTlhZDI4ODRkNmQ2MzEyNjMxZDJkNTBjOTZmOTA5ZjU%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYxZTIwZGI1ZTdlNDA3ZWFlN2I5NzBlYzk5OTg4MGRjOGMzY2MwZjY0JTJGb3JpZ2luYWwuanBnJTNGMTY2NzI3NDk2Mz9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz04OTI0NDcwMDk1MDMyZjUxYmZlNzE3ZjVkOGUzYmE3ZA%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D75789497542ed55352086443c7ba4c98?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUU3JTlCJUFFJUU2JThDJTg3JUUzJTgxJTlCQ2xhdWRlJUU1JTg1JUE4JUU1JTg2JUEwJUVGJUJDJTgxNCVFMyU4MSVBNCVFMyU4MSVBRSVFOCVBOSVBNiVFOSVBOCU5MyVFMyU4MiU5MiVFNSU4NSVBOCVFOSU4MyVBOCVFNSU4RiU5NyVFMyU4MSU5MSVFMyU4MSU5RiVFMyU4MSVBRSVFMyU4MSVBNyVFNiU5NCVCQiVFNyU5NSVBNSVFNiVCMyU5NSVFMyU4MiU5MiVFNyVCNCVCOSVFNCVCQiU4QiVFMyU4MSU5NyVFMyU4MSVCRSVFMyU4MSU5OSZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTk5Yzg4OTBhYzMzNjRjNjk1MTNlYzFlMGVmYTNhNjI2&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBtaW5vcnVuMzY1JnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9YThjYmQyMjBkNDc3NGM1MjI3MzBiOWExMjBkOWZlMGM&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=S0RESeOCouOCuOODo-OCpOODq-mWi-eZuuOCu-ODs-OCv-ODvOagquW8j-S8muekvg&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=3ecc0c56b017d95da86e79f4df2b1cd9",
+    "fetched_at": "2026-11-08 17:34:36",
+    "ja_summary": "Anthropicの公式資格「Claude認定」は、パートナー企業向けに4つの試験を展開している。\n全試験を制覇した体験をもとに、効率的な攻略法や受験の要点が紹介されている。\nClaudeの活用スキルを証明し、公式ネットワークでの評価を高めるための指針となる記事。"
+  },
+  {
     "title": "日経平均6万円割れ、「共・民・民＝株高」に疑心暗鬼　キオクシアなど下押し (AIデータセンター・エフェクト)",
     "link": "https://business.nikkei.com/atcl/gen/19/00887/110600013/",
     "source": "日経ビジネス 最新",
@@ -888,115 +998,5 @@
     "image": "https://openai.com/favicon.ico",
     "fetched_at": "2026-11-07 07:15:26",
     "ja_summary": "・OpenAIがAIエージェントの実験能力を測る新ベンチマーク「BioBasicsBench」を公開。\n・生の実験データの解釈から日常的なウェットラボ業務まで、100のタスクで性能を評価。\n・AIによる科学研究の自動化と実用化に向けた基礎指標となる。"
-  },
-  {
-    "title": "「PHPなんて使ってるやつが悪い」と言っている輩が一番危ない",
-    "link": "https://qiita.com/kotowazaman/items/aab621d31a8501617eb4",
-    "source": "Qiita (Popular)",
-    "published": "2026-10-22T12:58:02+09:00",
-    "summary": "\nPHPの緊急脆弱性（通称PHP2Shell、CVE-2026-109618 / CVE-2026-109619）について、仕組みと対応チェックリストをまとめた記事を書きました。\n対応方法のまとめが主な内容だったのですが、その後も続いている反応の中で、気になる声がいくつも目につきました。\n\n「もうPHPはやめておけ」\n\n「今どきPHPの時点で古い」\n\n「そういうレガシー言語の宿命だよね。。」\n\n.",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYyNjUzMzYxJTJGN2NmMjRkN2FkYjg0YWRmZDAyNDg4M2NkZGUzOTE0NDJkNWM1MTdkMCUyRmxhcmdlLnBuZyUzRjE3OTEyNTAyNjE_aXhsaWI9cmItNC4xLjEmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPWYyN2Y4YjkwYmIyNWMwNGI4MzYzNmI4ODZhN2Y4ZWRm%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D40d751e4787c8b79ec9331efeceb1406?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJThDUEhQJUUzJTgxJUFBJUUzJTgyJTkzJUUzJTgxJUE2JUU0JUJEJUJGJUUzJTgxJUEzJUUzJTgxJUE2JUUzJTgyJThCJUUzJTgyJTg0JUUzJTgxJUE0JUUzJTgxJThDJUU2JTgyJUFBJUUzJTgxJTg0JUUzJTgwJThEJUUzJTgxJUE4JUU4JUE4JTgwJUUzJTgxJUEzJUUzJTgxJUE2JUUzJTgxJTg0JUUzJTgyJThCJUU4JUJDJUE5JUUzJTgxJThDJUU0JUI4JTgwJUU3JTk1JUFBJUU1JThEJUIxJUUzJTgxJUFBJUUzJTgxJTg0JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9NmVhZmQxNTg1ZWE1NzAzNjEzN2MyZGRkNjVmNDRiYTI&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBrb3Rvd2F6YW1hbiZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTIyZmU5M2ExMTBiZjZjM2Q4NTIyZjI4YjNjMTkyZmUy&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=5653152f2146adc40fd320ca5bc96a55",
-    "fetched_at": "2026-11-07 07:15:32",
-    "ja_summary": "PHPの脆弱性（PHP2Shell）に対する「PHPは古い」といった否定的な反応に対し、言語の選択よりも適切なセキュリティ対策と運用体制の構築こそが重要である。"
-  },
-  {
-    "title": "「ドパ資料」の作り方",
-    "link": "https://qiita.com/kikuziro/items/b6a0743b070d7320c36d",
-    "source": "Qiita (Popular)",
-    "published": "2026-10-21T18:07:55+09:00",
-    "summary": "この記事を開いたあなたは「ドパガキ」もしくは「ドパおじ」いや「ドパおば」かもしれませんね。 いずれにしてもドーパミンがドバドバ出る資料を求めてここにたどり着いたものと推測します。そんなあなたのためにこの記事ではドパ資料の作り方を書いていきます。\n\n## 👀 対象読者\n\n- 技術記事を書いているけど、いまいち読まれない人\n- 生成AIで図を作っているけど、なんか見覚えのある図になってしまう人\n- ド",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGMjkzMzQ4OSUyRnByb2ZpbGUtaW1hZ2VzJTJGMTc5Mjk5MzU2Nz9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9ODk4NWM0OTA2NDA3NmU1MjY5YjFkZDc0Mzc0YzE4N2I%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Dda5369d529aa115708e519ff3312efd0?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJThDJUUzJTgzJTg5JUUzJTgzJTkxJUU4JUIzJTg3JUU2JTk2JTk5JUUzJTgwJThEJUUzJTgxJUFFJUU0JUJEJTlDJUUzJTgyJThBJUU2JTk2JUI5JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9ZTg2Y2EzZTNlZmUwYWViNjA0NGY2YzM4ZTUwNDEyZjQ&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBraWt1emlybyZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWM3OGI3M2Q5YTRjOWFhNTIyZjZmYzE4YWMzN2YwOThh&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=21fa980e335fb7a6017f5a193da02949",
-    "fetched_at": "2026-11-07 07:15:32",
-    "ja_summary": "読者の脳を刺激し、ドーパミンが出るような魅力的な資料作成術を解説。\n技術記事の読了率向上や、生成AIを活用した独自性の高い図解テクニックを紹介。\n「刺さる資料」を作るための具体的なノウハウを網羅したガイド。"
-  },
-  {
-    "title": "【2026年版】AIを駆使した開発手法をざっくりまとめてみた",
-    "link": "https://qiita.com/kobori_slj/items/b9683ce90f4c26a6e7ae",
-    "source": "Qiita (Popular)",
-    "published": "2026-10-20T21:39:49+09:00",
-    "summary": "\n\n:::note warn\n**本記事は筆者個人の理解に基づくまとめです。**\nこの分野は新しい言葉が次々に生まれていて、同じ言葉でも人や企業によって指す範囲が違います。厳密な定義が必要な場合は、各手法の提唱元の情報を確認してください。間違いや補足があれば、コメントで教えていただけると嬉しいです。\n:::\n\n## はじめに\n\n「プロンプトエンジニアリング」の次は「コンテキストエンジニアリング」、",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmxoMy5nb29nbGV1c2VyY29udGVudC5jb20lMkZhJTJGQUNnOG9jSXg3WDBrckhVY2gxQnJBWDhJMVRXOEkwRDNOdUZabVZBT2pYZjlmMXFLUDNqZjk4b2olM0RzOTYtYz9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9MDUzZDY1ZGNkNWI1MmQwYTk4NDk3NzdmNmRmZjg4MTU%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkY1YzIwM2RhMzYwYjU2OGZkYzYzODNlZDljZDY5NjE5NWVlOGU1NDdlJTJGb3JpZ2luYWwuanBnJTNGMTY5MDkzNDcxNT9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz05ZmU3ZDczYTQyMTZmMWIxYzNkNDE2MGVmMDI2MDY3ZA%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D241d4ce1038291392c2f036bd93c325b?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJTkwMjAyNiVFNSVCOSVCNCVFNyU4OSU4OCVFMyU4MCU5MUFJJUUzJTgyJTkyJUU5JUE3JTg2JUU0JUJEJUJGJUUzJTgxJTk3JUUzJTgxJTlGJUU5JTk2JThCJUU3JTk5JUJBJUU2JTg5JThCJUU2JUIzJTk1JUUzJTgyJTkyJUUzJTgxJTk2JUUzJTgxJUEzJUUzJTgxJThGJUUzJTgyJThBJUUzJTgxJUJFJUUzJTgxJUE4JUUzJTgyJTgxJUUzJTgxJUE2JUUzJTgxJUJGJUUzJTgxJTlGJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9MzUzNGViNjQ5NDM5N2FkMjllMjEwNzgxYTc4ZWI2OGU&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBrb2Jvcmlfc2xqJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9ZmY1YjBlYTQyOWU5NWJlOWQwMzk3YWMwNWMyZjc3NTU&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=5qCq5byP5Lya56S-44K544OU44O844OJ44Oq44Oz44Kv44K444Oj44OR44Oz&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=f05e67174cfd69a9853fd35962405df1",
-    "fetched_at": "2026-11-07 07:15:33",
-    "ja_summary": "・プロンプトエンジニアリングの次は、AIに背景情報を理解させる「コンテキストエンジニアリング」が主流。\n・AI開発手法は進化が早く定義も流動的であるため、最新情報の確認が不可欠。\n・変化の激しいAI技術を個人視点で整理し、現代の開発現場に即した手法を解説。"
-  },
-  {
-    "title": "CVE-2026-99999（PwnEscape）の対応状況まとめ",
-    "link": "https://qiita.com/k2_naka/items/fa87685231377f15e7e3",
-    "source": "Qiita (Popular)",
-    "published": "2026-11-02T11:27:13+09:00",
-    "summary": "| 工程 | 担当 |\n|---|---|\n| 課題提示・取捨選択・内容チェック | 筆者 |\n| 原案作成・編成 | Claude Fable 5.1 |\n| 事実検証（検証メモ） | GPT-6 Astra |\n| 一次資料照合・最終稿 | Claude Fable 5.1 |\n\n本稿は筆者個人の分析であり、所属組織や各事業者の公式見解ではありません。基準日は2026年10月29日（主要資料の",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnBicy50d2ltZy5jb20lMkZwcm9maWxlX2ltYWdlcyUyRjE3NzU1MDAzOTI1MzQ4MTA2MjQlMkZaU0VuUkJXaV9iaWdnZXIuanBnP2l4bGliPXJiLTQuMS4xJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz02ODZiMDU0MWFhODA2NGQwYzA4YjgwNGZiYjk5MTA4ZQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D8821a726f89b583b9d9eb37b6f43a5b2?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9Q1ZFLTIwMjYtOTk5OTklRUYlQkMlODhQd25Fc2NhcGUlRUYlQkMlODklRTMlODElQUUlRTUlQUYlQkUlRTUlQkYlOUMlRTclOEElQjYlRTYlQjMlODElRTMlODElQkUlRTMlODElQTglRTMlODIlODEmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1lZjIwY2U5ZTY5ZmQyOTg1OWUxOWI0YTk3YTI5NmMxZQ&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBrMl9uYWthJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9OGQ4YmUxZDIyNWZkNWM3NGY0ZTRhN2M1Yjk0ZTQyNTI&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=64a73fb4e5f8b4f11db61602a39c3913",
-    "fetched_at": "2026-11-07 07:15:33",
-    "ja_summary": "・脆弱性「CVE-2026-99999（PwnEscape）」に関する対策情報を、複数AIの連携と人的検証を経て体系的に整理したまとめ。\n・本稿は筆者個人の分析であり、特定の組織の公式見解ではない。\n・2026年10月29日時点の情報を基に、主要な対応策を解説している。"
-  },
-  {
-    "title": "パナHD楠見社長「中国の伸び率は世界以上」　AI・データセンター部品の勝機は？",
-    "link": "https://www.itmedia.co.jp/business/articles/2611/06/news080.html",
-    "source": "ITmedia ビジネス",
-    "published": "Fri, 06 Nov 2026 20:00:00 +0900",
-    "summary": "【上海＝三塚聖平】パナソニックホールディングスの楠見雄規社長は産経新聞などのインタビューに応じ、AI需要の高まりを受け拡大するデータセンター向け電子部品の販売について「中国の伸び率はグローバルよりも高い」と明らかにした。",
-    "image": "https://image.itmedia.co.jp/business/articles/2611/06/cover_news080.jpg",
-    "fetched_at": "2026-11-07 02:27:50",
-    "ja_summary": "・パナソニックHDの楠見社長、AI需要によるデータセンター向け電子部品市場が急拡大と明言。\n・中国市場における同部品の成長率はグローバル平均を上回る勢い。\n・中国を重要な成長拠点と位置づけ、需要増を取り込む構え。"
-  },
-  {
-    "title": "ドコモの5G SA障害、保守作業を契機に交換機でメモリ異常　別作業との切り分けに時間（更新）",
-    "link": "https://japan.cnet.com/article/35254526/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "NTTドコモは11月6日、5日に起きた5G SAサービスの通信障害について、コアネットワークの保守作業を契機に交換機でメモリ異常が起きたことが発端だったと説明した。影響は最大約158.7万人に及んだ。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35254526/\"><img src=\"https://japan.cnet.com/storage/thumbnails/thumb-184xauto-1358577-file.jpg\" /></a>",
-    "image": "https://japan.cnet.com/storage/thumbnails/thumb-184xauto-1358577-file.jpg",
-    "fetched_at": "2026-11-07 02:28:08",
-    "ja_summary": "・11月5日に発生したドコモの5G通信障害は、保守作業に伴う交換機のメモリ異常が原因。\n・最大約158.7万人の利用者に影響が及んだ。\n・並行作業との切り分けに時間を要したことが、復旧までの経緯となっている。"
-  },
-  {
-    "title": "ドコモ、不正アクセス被害者へお見舞金　流出は29万回線、本人確認書類の番号も（更新）",
-    "link": "https://japan.cnet.com/article/35254525/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "NTTドコモは11月6日、不正アクセスで流出した顧客情報が最大29万4839回線分だったと明らかにした。対象の全員について本人確認書類の番号も流出しており、個人と法人の顧客へのお見舞金の支払いに向けて検討している。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35254525/\"><img src=\"https://japan.cnet.com/storage/thumbnails/thumb-184xauto-1358576-file.jpg\" /></a>",
-    "image": "https://japan.cnet.com/storage/thumbnails/thumb-184xauto-1358576-file.jpg",
-    "fetched_at": "2026-11-07 02:28:08",
-    "ja_summary": "・ドコモへの不正アクセスにより、最大約29万回線分の顧客情報と本人確認書類の番号が流出した。\n・対象となる個人・法人客に対し、お見舞金の支払いが検討されている。"
-  },
-  {
-    "title": "KDDI「楽天ローミング縮小で通信品質が改善」と発表　流入トラフィック5割減の場所も",
-    "link": "https://japan.cnet.com/article/35254518/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "KDDIは10月に楽天モバイル向けローミングの提供エリアを縮小した。松田浩路社長は、KDDIのネットワークに流れ込むトラフィックが場所によって4〜5割近く減り、混雑エリアの通信品質が改善したと説明した。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35254518/\"><img src=\"https://japan.cnet.com/storage/thumbnails/thumb-184xauto-1358556-file.jpg\" /></a>",
-    "image": "https://japan.cnet.com/storage/thumbnails/thumb-184xauto-1358556-file.jpg",
-    "fetched_at": "2026-11-07 02:28:08",
-    "ja_summary": "・KDDIが楽天モバイル向けローミング提供エリアを10月に縮小。\n・自社網へのトラフィックが最大5割減少し、混雑が解消。\n・KDDI自社ユーザーの通信品質改善につながったと報告。"
-  },
-  {
-    "title": "KDDI松田社長、モンゴルの草原火災で謝罪--駐日大使にもおわび",
-    "link": "https://japan.cnet.com/article/35254516/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "KDDIの松田浩路社長は11月6日の決算会見の冒頭で、子会社モビコムの活動に関連してモンゴルで起きた草原火災について謝罪した。先週には駐日モンゴル国特命全権大使にもおわびを伝えたという。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35254516/\"><img src=\"https://japan.cnet.com/storage/thumbnails/thumb-184xauto-1358553-file.jpg\" /></a>",
-    "image": "https://japan.cnet.com/storage/thumbnails/thumb-184xauto-1358553-file.jpg",
-    "fetched_at": "2026-11-07 02:28:08",
-    "ja_summary": "・KDDI子会社の活動に関連し、モンゴルで発生した草原火災について松田社長が謝罪した。\n・松田社長は決算会見の冒頭で経緯を説明し、駐日モンゴル大使にも直接おわびを伝えた。"
-  },
-  {
-    "title": "京浜東北線で自動運転、12月19日から順次導入　運転手は「出発ボタン」を押すだけ",
-    "link": "https://japan.cnet.com/article/35254514/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "JR東日本は11月5日、京浜東北・根岸線の大宮〜大船間で、列車の加減速や停車を自動で行う「自動列車運転装置（ATO）」を12月19日の始発から順次使い始めると発表した。対象は10両編成のE233系。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35254514/\"><img src=\"https://japan.cnet.com/storage/thumbnails/thumb-184xauto-1358549-file.jpg\" /></a>",
-    "image": "https://japan.cnet.com/storage/thumbnails/thumb-184xauto-1358549-file.jpg",
-    "fetched_at": "2026-11-07 02:28:08",
-    "ja_summary": "・JR東日本は12月19日より、京浜東北・根岸線で自動列車運転装置（ATO）を順次導入する。\n・大宮〜大船間のE233系を対象に、加減速や停車を自動化。\n・運転士は「出発ボタン」を押す操作のみとなり、業務負担の軽減や省人化を図る。"
-  },
-  {
-    "title": "生成AIグラビア実践ワークショップ、次回は「MOSS-Imageを中心に最新生成AI画像の使いこなし方」をテーマに11月25日開催。テクノエッジ アルファ会員なら全過去回含め無料視聴できます",
-    "link": "https://www.techno-edge.net/article/2026/11/06/5684.html",
-    "source": "TechnoEdge",
-    "published": "Fri, 06 Nov 2026 19:31:19 +0900",
-    "summary": "テクノエッジ編集部では、生成AIグラビア実践ワークショップ第4期第7回を9月30日に開催します。今回は、「9月に登場した生成AI画像系2つ」をテーマに、デモを交えて解説します。",
-    "image": "https://www.techno-edge.net/imgs/rss/35375.jpg",
-    "fetched_at": "2026-11-07 02:28:12",
-    "ja_summary": "・生成AIグラビア実践ワークショップの第4期第7回が9月30日に開催（※タイトルは11月25日となっていますが概要に基づき修正）\n・9月に登場した最新の生成AI画像系ツール2種をデモ形式で解説\n・テクノエッジ アルファ会員は過去の全アーカイブを含め無料で視聴可能"
   }
 ]
