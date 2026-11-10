@@ -1,5 +1,285 @@
 [
   {
+    "title": "古河電工「上期過去最高益」　市場からは「AI逆風」に懸念の声も、会見で森平CEOが見せた“自信”",
+    "link": "https://www.itmedia.co.jp/business/articles/2611/09/news078.html",
+    "source": "ITmedia ビジネス",
+    "published": "Mon, 09 Nov 2026 17:47:00 +0900",
+    "summary": "古河電気工業はデータセンター需要の拡大で上期最高益を達成し、通期予想を上方修正した。市場にくすぶる「AI投資減速」の懸念に対し、森平英也CEOはどう見通すのか。",
+    "image": "https://image.itmedia.co.jp/business/articles/2611/09/cover_news078.jpg",
+    "fetched_at": "2026-11-11 04:05:41",
+    "ja_summary": "・古河電工がデータセンター需要拡大により上期過去最高益を達成し、通期業績予想を上方修正。\n・市場ではAI投資減速への懸念も残るが、森平CEOは今後の事業見通しに強い自信を示した。"
+  },
+  {
+    "title": "開催迫る11/11から3日間開催　ソフトバンク、MUFGのCHROが登壇の人的資本LIVE (日経ビジネスLIVE)",
+    "link": "https://business.nikkei.com/atcl/gen/19/00584/102100106/",
+    "source": "日経ビジネス 最新",
+    "published": "",
+    "summary": "ソフトバンク、MUFGのCHROが登壇！AIエージェント時代の人的資本経営を3日間で徹底議論。11/11～13オンライン開催、参加無料です。",
+    "image": "https://business.nikkei.com/atcl/gen/19/00584/102100106/fb.jpg",
+    "fetched_at": "2026-11-11 04:05:46",
+    "ja_summary": "・ソフトバンクとMUFGのCHROが登壇する人的資本経営のオンラインイベント。\n・AIエージェント時代を見据えた組織戦略を3日間徹底議論。\n・11月11日～13日開催、参加無料（事前申込制）。"
+  },
+  {
+    "title": "アドビ、Creative CloudにAIエージェント拡充　複数アプリを横断して制作支援",
+    "link": "https://www.watch.impress.co.jp/docs/news/2155285.html",
+    "source": "Impress Watch",
+    "published": "",
+    "summary": "アドビは、クリエイター向けイベント「Adobe MAX」で、Creative Cloudの新機能を発表した。各アプリへのAIアシスタントの搭載を拡大するほか、外部のAIエージェントからアドビのツールを利用する「Adobe Creative Cloud MCP」のプレビューを公開。PhotoshopやPremiereなどの編集機能も強化する。",
+    "image": "https://www.watch.impress.co.jp/img/ipw/list/2155/285/adobe00.jpg",
+    "fetched_at": "2026-11-11 04:05:53",
+    "ja_summary": "・アドビが「Adobe MAX」でCreative CloudのAI機能を大幅強化。\n・各アプリへのAIアシスタント搭載拡大に加え、外部連携を可能にする新機能も発表。\n・PhotoshopやPremiereなど主要ツールの編集機能も強化し、制作効率を向上。"
+  },
+  {
+    "title": "アドビとグーグルが提携拡大　Geminiで画像・PDF編集　GmailからAcrobat",
+    "link": "https://www.watch.impress.co.jp/docs/news/2155258.html",
+    "source": "Impress Watch",
+    "published": "",
+    "summary": "アドビとグーグルは10日(米国時間)、戦略的提携の拡大を発表した。Google WorkspaceのGmailやGoogleドライブから「Adobe Acrobat」を直接利用できるようにするほか、GoogleのAI「Gemini」からアドビの画像編集やPDF編集などの機能を利用可能にする。さらに、Google 検索の「AIモード」にもアドビの制作ツールを導入する。",
+    "image": "https://www.watch.impress.co.jp/img/ipw/list/2155/258/ag1.jpg",
+    "fetched_at": "2026-11-11 04:05:54",
+    "ja_summary": "・アドビとグーグルが提携を拡大し、Googleの各サービスでアドビの編集ツールが利用可能に。\n・Gmailやドライブから直接「Adobe Acrobat」を操作でき、業務効率が向上。\n・AI「Gemini」やGoogle検索からもアドビの画像・PDF編集機能がシームレスに利用可能となる。"
+  },
+  {
+    "title": "アドビ、Fireflyに新デザインツール　画像・3D・動画制作を強化",
+    "link": "https://www.watch.impress.co.jp/docs/news/2155159.html",
+    "source": "Impress Watch",
+    "published": "",
+    "summary": "アドビは、クリエイティブAIスタジオ「Adobe Firefly」の機能拡充を発表した。画像やアニメーション、3Dなどを1つのカンバスで扱う「Firefly デザイン」や、制作ワークフローを構築する「Firefly グラフ」をパブリックベータ版として提供する。動画・画像エディターやAIアシスタントも強化する。",
+    "image": "https://www.watch.impress.co.jp/img/ipw/list/2155/159/adobe00.jpg",
+    "fetched_at": "2026-11-11 04:05:55",
+    "ja_summary": "・アドビが「Adobe Firefly」を拡充し、画像・3D・動画を一元管理できる新ツールを公開。\n・制作ワークフローを自動化する機能や、AIアシスタントの強化により業務効率を向上。\n・新機能はパブリックベータ版として提供を開始。"
+  },
+  {
+    "title": "アンソロピックのIPO価格は、約1万2000円前後になりそう。時価総額で約224兆円を目指す",
+    "link": "https://www.businessinsider.jp/article/2611-anthropic-sets-ipo-price-range-blockbuster-ipo-valuation/",
+    "source": "Business Insider Japan",
+    "published": "Tue, 10 Nov 2026 15:40:00 GMT",
+    "summary": "10日（火・米時間）の規制当局への提出書類で、そのAIスタートアップは、予定されているIPOの株式価格を70～78ドル（約1万1200〜1万2480円）の間に設定すると発表した。",
+    "image": "https://media.loom-app.com/loom/2026/11/10/22bc4861-3036-46e3-a4be-fce8ef514b7c/original.jpg?w=1200",
+    "fetched_at": "2026-11-11 04:05:59",
+    "ja_summary": "・AIスタートアップのアンソロピックがIPO価格を70〜78ドルに設定。\n・時価総額約224兆円規模での上場を目指す。\n・米規制当局への提出書類で明らかになった。"
+  },
+  {
+    "title": "AIエージェント時代にあるべき「Photoshop」の姿とは。ディズニーとは戦略的提携を発表【Adobe MAX 2026】",
+    "link": "https://www.businessinsider.jp/article/2611-adobe-max-2026-ai-agentic-tool/",
+    "source": "Business Insider Japan",
+    "published": "Tue, 10 Nov 2026 14:00:00 GMT",
+    "summary": "Adobe MAX 2026で発表されたAIの新機能や、ChatGPT・Claudeとの連携構想、ディズニーやグーグルとの提携について現地の視点から詳しく解説します。",
+    "image": "https://media.loom-app.com/loom/2026/11/09/3a3765f7-2023-41fa-9e84-4df5ac35e514/original.jpg?w=1200",
+    "fetched_at": "2026-11-11 04:05:59",
+    "ja_summary": "・AdobeがAIエージェント時代を見据え、Photoshop等の生成AI機能を大幅に強化。\n・ChatGPTやClaudeとの連携を発表し、外部AIモデルをクリエイティブ制作に統合。\n・ディズニーやGoogleとの戦略的提携により、制作ワークフローと業界の枠組みを刷新。"
+  },
+  {
+    "title": "IPOに向けた準備に着手 サカナAI",
+    "link": "https://news.yahoo.co.jp/pickup/6601958?source=rss",
+    "source": "Yahoo!ニュース IT・科学",
+    "published": "Mon, 09 Nov 2026 12:54:00 GMT",
+    "summary": "",
+    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/11/9/4241e7c9535b3cbc320f331765b017ef0fb995c7f774cf1a94ae390e03eaf7a8.jpg",
+    "fetched_at": "2026-11-11 04:06:02",
+    "ja_summary": "・AIスタートアップのサカナAIが、新規株式公開（IPO）に向けた準備を開始。\n・資金調達を通じた成長加速と、市場での信頼性向上を目指す。\n・具体的な時期は未定だが、日本発のグローバルAI企業として上場準備に入る。"
+  },
+  {
+    "title": "「自治体からの照会事務の自動化などの国・地方AI共通サービスに関する実証事業」に関する自治体版バイバインシステム導通確認手順書を掲載しました",
+    "link": "https://www.digital.go.jp/policies/genai/0ef07948-2f5d-4b45-8ebe-ea974c20a3ac",
+    "source": "デジタル庁",
+    "published": "Mon, 09 Nov 2026 15:00:00 +0900",
+    "summary": "",
+    "image": "https://www.digital.go.jp/themes/custom/gov_theme_da_2023/assets/images/ogp.png",
+    "fetched_at": "2026-11-11 04:06:05",
+    "ja_summary": "・国と自治体間でAIを活用した照会事務の自動化に向けた実証事業を開始。\n・自治体版「バイバインシステム」の接続確認用手順書を公開。\n・各自治体は公開された手順に基づき、システム連携の準備を進めることが可能。"
+  },
+  {
+    "title": "Helping caregivers use AI in everyday life",
+    "link": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+    "source": "OpenAI",
+    "published": "Tue, 10 Nov 2026 12:00:00 GMT",
+    "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
+    "image": "https://openai.com/favicon.ico",
+    "fetched_at": "2026-11-11 04:06:06",
+    "ja_summary": "・OpenAIが米5都市で介護者向けChatGPT無料ワークショップを開催\n・日常生活で役立つ実用的なAIスキル習得を支援\n・介護の負担軽減や効率化に向けたAI活用を促進"
+  },
+  {
+    "title": "Introducing Businesses in ChatGPT",
+    "link": "https://openai.com/index/introducing-businesses-chatgpt",
+    "source": "OpenAI",
+    "published": "Tue, 10 Nov 2026 10:00:00 GMT",
+    "summary": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
+    "image": "https://openai.com/favicon.ico",
+    "fetched_at": "2026-11-11 04:06:06",
+    "ja_summary": "・ChatGPT上で自社のビジネス情報を直接管理・運用可能に\n・検索結果での表示状況を分析し、改善のためのインサイトを提供\n・ユーザーの関心を効率的に実際のビジネスアクションへ転換"
+  },
+  {
+    "title": "Work at the Frontier: AI’s effect on freelance work",
+    "link": "https://openai.com/index/ai-effect-on-freelance-work",
+    "source": "OpenAI",
+    "published": "Tue, 10 Nov 2026 07:00:00 GMT",
+    "summary": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
+    "image": "https://openai.com/favicon.ico",
+    "fetched_at": "2026-11-11 04:06:06",
+    "ja_summary": "・AI活用によりフリーランス市場の需要が変化し、新たなスキルセットが求められている。\n・AI関連プロジェクトでは予算の増加と労働時間の拡大が見られる。\n・AIはフリーランスの働き方に大きな影響を与え、新たなビジネスチャンスを生んでいる。"
+  },
+  {
+    "title": "ChatGPT Enterprise now available in AWS Marketplace",
+    "link": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+    "source": "OpenAI",
+    "published": "Mon, 09 Nov 2026 19:00:00 GMT",
+    "summary": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
+    "image": "https://openai.com/favicon.ico",
+    "fetched_at": "2026-11-11 04:06:06",
+    "ja_summary": "・ChatGPT EnterpriseがAWS Marketplaceで利用可能に。\n・既存のAWS契約を通じて導入・決済ができ、調達プロセスを簡素化。\n・企業によるChatGPTの導入と管理がより容易に。"
+  },
+  {
+    "title": "Introducing Claude Fable 5.2 and Claude Mythos 5.2",
+    "link": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+    "source": "Anthropic (News)",
+    "published": "Mon, 09 Nov 2026 00:00:00 +0000",
+    "summary": "Our most capable models for daunting technical work, Claude Fable 5.2 and Claude Mythos 5.2 set a new bar in coding, finance, and the sciences.",
+    "image": "https://assets.claude.com/21b3240f9264f8e4c8ab1390e2702cf1401b2367.jpg",
+    "fetched_at": "2026-11-11 04:06:06",
+    "ja_summary": "・最新モデル「Claude Fable 5.2」「Claude Mythos 5.2」を発表。\n・コーディング、金融、科学分野における技術的タスクの処理能力を大幅に向上。\n・高難度な専門作業に対応する、同社史上最もパワフルなモデル群。"
+  },
+  {
+    "title": "AI for Science expands to foundations and research institutions",
+    "link": "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions",
+    "source": "Anthropic (News)",
+    "published": "Wed, 28 Oct 2026 00:00:00 +0000",
+    "summary": "We’re highlighting 20 scientific foundations, institutions, and research groups around the world that we’ve partnered with in an expansion of our AI for Science program.",
+    "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/2c317246f4ac7eaf0667d90a76ac05a7a7b601fc-1200x630.jpg",
+    "fetched_at": "2026-11-11 04:06:07",
+    "ja_summary": "・Googleが「AI for Science」プログラムを拡大し、世界20の科学研究機関や財団と新たに提携。\n・AI技術を科学研究の加速に活用する取り組みを強化。\n・主要な研究機関とのパートナーシップにより、科学分野の課題解決を推進する。"
+  },
+  {
+    "title": "Early progress on accelerating drug development with Claude",
+    "link": "https://www.anthropic.com/research/early-progress-drug-development",
+    "source": "Anthropic (News)",
+    "published": "Tue, 27 Oct 2026 00:00:00 +0000",
+    "summary": "We're at the start of a major effort to speed up drug development with Claude. Over the past several months, our scientists have engaged in deep research partnerships with six organizations developing new medicines.",
+    "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/6a50f5ba4c0931f8d2c411f26d860955c1efeae7-1200x630.jpg",
+    "fetched_at": "2026-11-11 04:06:07",
+    "ja_summary": "・Anthropic社がAI「Claude」を活用した新薬開発の加速プロジェクトを始動。\n・すでに6つの研究機関と連携し、数ヶ月にわたる共同研究を実施中。\n・AI導入による創薬プロセスの効率化と期間短縮を目指す。"
+  },
+  {
+    "title": "AI ネイティブなデータ分析基盤を作った話（後編）",
+    "link": "https://zenn.dev/pksha/articles/laplace-build-guide",
+    "source": "Zenn Trends",
+    "published": "Tue, 10 Nov 2026 07:38:37 GMT",
+    "summary": "はじめに\nPKSHA Technology で PKSHA VoiceAgent の SRE をしている三浦です。\n前回の記事「AI ネイティブなデータ分析基盤を作った話」で、データ分析基盤 Laplace を「なぜ作ったか」「何を選んだか」「運用して何が起きたか」の順で書きました。今回は設計の中身です。技術スタックの紹介ではなく、「何を守るために、どこに境界を引いたか」を書きます。\n分析基盤を作る、あるいは作り直す人が自分の環境に持ち帰れるよう、GCS や GKE といった個々の選択ではなく、置き換えても残る判断だけを書きました。\n\n 基盤の契約\nLaplace が「何を満たせば基...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--lu2dlZyD--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%2520%25E3%2583%258D%25E3%2582%25A4%25E3%2583%2586%25E3%2582%25A3%25E3%2583%2596%25E3%2581%25AA%25E3%2583%2587%25E3%2583%25BC%25E3%2582%25BF%25E5%2588%2586%25E6%259E%2590%25E5%259F%25BA%25E7%259B%25A4%25E3%2582%2592%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%259F%25E8%25A9%25B1%25EF%25BC%2588%25E5%25BE%258C%25E7%25B7%25A8%25EF%25BC%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Shogun%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzJlOTZhNTRiYWMuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:PKSHA%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2520%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2dvLWhLRGg1MVMzQVJIWXF3WWpXdkFyY0ZJNTlzU2JvX2ZJOWRNQ0E9czk2LWM=%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-11-11 04:06:08",
+    "ja_summary": "・AI分析基盤「Laplace」の設計思想や、運用を通じて得た本質的な判断基準を解説。\n・特定の技術スタックに依存せず、他環境にも応用可能なデータ基盤の境界設計の考え方を紹介。\n・基盤構築や刷新を行うエンジニア向けに、普遍的な設計の要諦を抽出した実践的な内容。"
+  },
+  {
+    "title": "AIでテストカバレッジを23%から84%に引き上げた方法",
+    "link": "https://zenn.dev/litalico/articles/20261029-test-with-ai",
+    "source": "Zenn Trends",
+    "published": "Tue, 10 Nov 2026 02:50:00 GMT",
+    "summary": "1. はじめに\nLITALICOナーシングネット開発チームの江口です。今回は、私が1年半かけて、試行錯誤しながら取り組んできたテストカバレッジ向上施策について紹介します。AI以前の取り組みから、AIにおけるプロンプトやスキル、うまくいかなかった点も含めて説明します。チームのテストを手厚くしたい、とお考えの方はぜひ参考にしてみてください。\n\n 2. AI以前: CIとテスト文化の土台づくり\n\n 2.1. 配属当初の課題\n私がチームに配属されて、初めて環境構築を済ませた時のことを思い出します。単体テストを全件実行すると、いくつかのエラーが発生しました。プロダクトコードの変更に追従できず、...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--skWMyU2e--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%25E3%2581%25A7%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E3%2582%25AB%25E3%2583%2590%25E3%2583%25AC%25E3%2583%2583%25E3%2582%25B8%25E3%2582%259223%2525%25E3%2581%258B%25E3%2582%258984%2525%25E3%2581%25AB%25E5%25BC%2595%25E3%2581%258D%25E4%25B8%258A%25E3%2581%2592%25E3%2581%259F%25E6%2596%25B9%25E6%25B3%2595%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:eggc%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2ViZDAyMzQ1MjcuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:LITALICO%25E3%2582%25A8%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%258B%25E3%2582%25A2%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2o0NnlQSnk2NHZoY04tazFPVy1hc0F5Umo3TnRaUHlUb284djllbVE9czI1MC1j%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-11-11 04:06:08",
+    "ja_summary": "・テストカバレッジが23%から84%へ大幅向上した取り組みを1年半かけて実施。\n・CI環境の整備とテスト文化の醸成を土台に、AI活用を推進。\n・失敗談を含むAIプロンプトの工夫やスキルを共有し、開発現場の品質向上を目指す。"
+  },
+  {
+    "title": "退屈なCoding AgentはMuseにやらせよう",
+    "link": "https://zenn.dev/watany/articles/342b9815dd0553",
+    "source": "Zenn Trends",
+    "published": "Tue, 10 Nov 2026 02:35:05 GMT",
+    "summary": "はじめに\n旧FacebookのMetaが開発したパーソナルAIエージェントのMuseがすごく良くて、意味不明なくらいずっと触ってる。紹介コード: 7L990R を入れるとトークンがもらえるのでよろしくね。\nhttps://muse.ai/\nMuseは触ると魅力がわかるタイプのプロダクトで、使ってないとClaudeやCodexで良いじゃん、なんで今更驚き屋してんの？って思われる。そんな捻くれた俺たちでも触りやすい使い方を紹介します。\n\n Museにコードを書かせる\n大前提として、Muse(無料)の中身「Muse Spark 1.3」はコードが割と書ける方のモデルだ。型落ちとは言え、GP...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--QJhA1p5Y--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E9%2580%2580%25E5%25B1%2588%25E3%2581%25AACoding%2520Agent%25E3%2581%25AFMuse%25E3%2581%25AB%25E3%2582%2584%25E3%2582%2589%25E3%2581%259B%25E3%2582%2588%25E3%2581%2586%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:watany%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzJiYjJiYTdkZjkuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-11-11 04:06:09",
+    "ja_summary": "Metaが開発したAIエージェント「Muse」は、コーディング能力に優れた実用的なツールである。\n無料版の「Muse Spark 1.3」でも十分な性能を持ち、既存のAIモデルとは一線を画す体験が可能。\n導入時に招待コードを利用することで、特典としてトークンを受け取れるメリットがある。"
+  },
+  {
+    "title": "「漏洩された側」は何ができるのか？ 相次ぐインシデントから考えるエンドユーザーの防衛策",
+    "link": "https://zenn.dev/nttdata_tech/articles/a68fc15144b2d8",
+    "source": "Zenn Trends",
+    "published": "Tue, 10 Nov 2026 00:00:08 GMT",
+    "summary": "連日のように、企業による個人情報漏洩の公表を目にするようになりました。\n背景にはサイバー攻撃の手口の高度化があります。近年では生成AIの普及により、自然な文面を用いたフィッシングメールの作成やシステムの脆弱性調査が容易になり、攻撃側の作業コストが大きく下がりました。企業側が相応のセキュリティ投資を行っていても、漏洩インシデントのリスクを完全にゼロにすることは非常に困難な環境となっています。\nこうした状況下、私自身の個人メール宛てにも、複数の利用先企業から「個人情報漏洩に関するお詫びとお知らせ」が届きました。しかし、その多くは形式的な経緯報告にとどまり、「サービス利用者が次にどのような防衛...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--EvRQCy9d--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%258C%25E6%25BC%258F%25E6%25B4%25A9%25E3%2581%2595%25E3%2582%258C%25E3%2581%259F%25E5%2581%25B4%25E3%2580%258D%25E3%2581%25AF%25E4%25BD%2595%25E3%2581%258C%25E3%2581%25A7%25E3%2581%258D%25E3%2582%258B%25E3%2581%25AE%25E3%2581%258B%25EF%25BC%259F%2520%25E7%259B%25B8%25E6%25AC%25A1%25E3%2581%2590%25E3%2582%25A4%25E3%2583%25B3%25E3%2582%25B7%25E3%2583%2587%25E3%2583%25B3%25E3%2583%2588%25E3%2581%258B%25E3%2582%2589%25E8%2580%2583%25E3%2581%2588%25E3%2582%258B%25E3%2582%25A8%25E3%2583%25B3%25E3%2583%2589%25E3%2583%25A6%25E3%2583%25BC%25E3%2582%25B6%25E3%2583%25BC%25E3%2581%25AE%25E9%2598%25B2%25E8%25A1%259B%25E7%25AD%2596%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Rikita%2520Koshiba%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2Q1ZjRhYzE4MTIuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:NTT%2520DATA%2520TECH%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzRhOWEwMWRmNzguanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-11-11 04:06:09",
+    "ja_summary": "・サイバー攻撃の高度化により、企業のセキュリティ対策のみで個人情報漏洩を完全に防ぐことは極めて困難。\n・企業から通知が届いても具体的な防衛策が示されないことが多いため、個人の自衛が不可欠。\n・パスワードの使い回し停止や多要素認証の導入など、利用者側がリスクを前提とした対策を講じる必要がある。"
+  },
+  {
+    "title": "Context != Context: One window, many lifecycles (AI Native DevCon, Nov 2026)",
+    "link": "https://speakerdeck.com/birgitta410/context-context-ai-devcon-new-york-nov-2026",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-11-10T11:08:38-05:00",
+    "summary": "https://youtu.be/NxypyNu1944\n\nWorkflow instructions, coding conventions, tickets, wiki pages, and observability data all end up in the same context window, and we call all of it \"context.\" To the model, it's tokens shaping the next prediction. For the people who write, maintain, and rely on context, these tokens differ a lot in where they come from, how much authority they carry, and how they can go wrong. Some are deliberately authored and quality assured. Others emerge as a byproduct of work and are dynamically retrieved and reconciled from organizational systems.\n\nThis talk discusses how these differences change the ways that each kind is created, checked, and delivered to the agent, and that treating them alike can lead to using unsuitable tools and processes. You will leave with a clearer idea of the types of context you have available for your coding agents, and the techniques to maintain and distribute them.",
+    "image": "https://files.speakerdeck.com/presentations/7099fc7ef31f490a8f66e371b1e6bced/preview_slide_0.jpg?41310165",
+    "fetched_at": "2026-11-11 04:06:10",
+    "ja_summary": "AI開発において、指示書やコード規約、チケット、Wiki、観測データといった多様な「コンテキスト」は、AIにとっては単なるトークン。\nしかし、人間にとっては、生成元や信頼度、誤りの可能性が大きく異なり、それぞれ適切な管理方法が必要。\n本稿は、AIエージェントに渡すコンテキストの種類と、それぞれの管理・配布テクニックを解説する。"
+  },
+  {
+    "title": "Nx Plugin for AWSで 秋田AIエージェントを作ってみる",
+    "link": "https://speakerdeck.com/kmiya84377/nx-plugin-for-aws-de-akita-ai-ejento-o-tsuku-te-miru",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-11-10T09:03:48-05:00",
+    "summary": "JAWS FESTA 2026 in AKITAの個人サポ5分LT資料です。",
+    "image": "https://files.speakerdeck.com/presentations/c511812e06d64c02b0cf3045a0980fd2/preview_slide_0.jpg?41309953",
+    "fetched_at": "2026-11-11 04:06:10",
+    "ja_summary": "AWSプラグインで秋田AIエージェントを開発。\nJAWS FESTA 2026 in AKITAでの5分LT資料。\n個人サポート向けAIエージェントの試み。"
+  },
+  {
+    "title": "脆弱性の情報は間に合っている？ 英語は 2 時間以内、悪用は 4 割が 1 日以内、日本語は中央値 4.6 日後。悪用された 74 件を調べて分かった",
+    "link": "https://qiita.com/songchong/items/b3c6c879f03f9bb665d3",
+    "source": "Qiita (Popular)",
+    "published": "2026-11-08T18:54:47+09:00",
+    "summary": "\n![CISA の KEV カタログに2026年9月から11月に入った74件を、CVE の記録の公開からの日数の時間軸に並べた図。悪用が確認された件は、30件（41%）が公開の前後1日にKEVカタログに入った。英語のNVDは中央値0.8時間で、74件すべてが2時間以内に掲載された。日本語のJPCERT/CCの注意喚起は、出たのが11件（15%）だけだった。日本語のJVN iPediaは中央値4.6",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGNTY2NzAlMkZwcm9maWxlLWltYWdlcyUyRjE3ODcyMzgxODE_aXhsaWI9cmItNC4xLjEmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPWU3NzQ3ZjMzNzE4MDJjYjI2M2FjMjM3NzUzODlmOTE5%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Dc73920274995f5a321a69858db1e61f3?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUU4JTg0JTg2JUU1JUJDJUIxJUU2JTgwJUE3JUUzJTgxJUFFJUU2JTgzJTg1JUU1JUEwJUIxJUUzJTgxJUFGJUU5JTk2JTkzJUUzJTgxJUFCJUU1JTkwJTg4JUUzJTgxJUEzJUUzJTgxJUE2JUUzJTgxJTg0JUUzJTgyJThCJUVGJUJDJTlGJTIwJUU4JThCJUIxJUU4JUFBJTlFJUUzJTgxJUFGJTIwMiUyMCVFNiU5OSU4MiVFOSU5NiU5MyVFNCVCQiVBNSVFNSU4NiU4NSVFMyU4MCU4MSVFNiU4MiVBQSVFNyU5NCVBOCVFMyU4MSVBRiUyMDQlMjAlRTUlODklQjIlRTMlODElOEMlMjAxJTIwJUU2JTk3JUE1JUU0JUJCJUE1JUU1JTg2JTg1JUUzJTgwJTgxJUU2JTk3JUE1JUU2JTlDJUFDJUU4JUFBJTlFJUUzJTgxJUFGJUU0JUI4JUFEJUU1JUE0JUFFJUU1JTgwJUE0JTIwNC42JTIwJUU2JTk3JUE1JUU1JUJFJThDJUUyJTgwJUE2JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9ZDZiY2UwNDU5NGFmOGFhMDI1MjY4NWY4ZTIzMDI2MDc&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBzb25nY2hvbmcmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1jYThhODE5MGI3ZTMyOWM0MDRkZTcyYjU3YzZiNzYwNA&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=238d6d9735d3f2ee8cc35bc474f862ad",
+    "fetched_at": "2026-11-11 04:06:11",
+    "ja_summary": "脆弱性情報の公開から悪用までのスピードに、英語と日本語で大きな差がある。\n英語圏では2時間以内に情報が公開され、4割が悪用されるが、日本語では約4.6日かかる。\n日本語での注意喚起も少なく、迅速な情報共有が課題。"
+  },
+  {
+    "title": "Xで話題の、原文をたどってドメイン知識を集めるスキル「imozuru」を普通のAI検索と比べてみた",
+    "link": "https://qiita.com/inoyu-qiita/items/4fc91ba7f67d6763960e",
+    "source": "Qiita (Popular)",
+    "published": "2026-10-29T12:22:54+09:00",
+    "summary": "\n## はじめに\n\nXの[こちらの投稿](https://x.com/iru_cection/status/2110245336182874447)で、Claude Codeのスキル[`imozuru`](https://github.com/MaryCache/imozuru)が話題になっていました。知らない分野のドメイン知識を、原文から芋づる式に集められるスキルです。\n\n一方、普通にAIに「こ",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0NDc1MzUxJTJGY2VlMTgxZmZmZTcyYjNjZWFiNTFmNmVlODMxNjk4MDZiOTljMzI5ZCUyRnhfbGFyZ2UucG5nJTNGMTc4Njk3MDQzNT9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9OGQwZTVjMjE3NWE5MTI1YmMwYzM2OWEyYmJmNGU1NTk%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYwOGU2ZWM5ZWViMWNmYzNmYWZjZGRlNTNkMGJiN2MxYjRjM2NhZmVkJTJGb3JpZ2luYWwuanBnJTNGMTY3ODc3NjQ0Mj9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz0wMDhkN2RmOTQxYzZhODc4YzlhMzJmYWMxYjE1MmI1Yw%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3Dca004b4b0e07f1dd1e0e7937c9a70633?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9WCVFMyU4MSVBNyVFOCVBOSVCMSVFOSVBMSU4QyVFMyU4MSVBRSVFMyU4MCU4MSVFNSU4RSU5RiVFNiU5NiU4NyVFMyU4MiU5MiVFMyU4MSU5RiVFMyU4MSVBOSVFMyU4MSVBMyVFMyU4MSVBNiVFMyU4MyU4OSVFMyU4MyVBMSVFMyU4MiVBNCVFMyU4MyVCMyVFNyU5RiVBNSVFOCVBRCU5OCVFMyU4MiU5MiVFOSU5QiU4NiVFMyU4MiU4MSVFMyU4MiU4QiVFMyU4MiVCOSVFMyU4MiVBRCVFMyU4MyVBQiVFMyU4MCU4Q2ltb3p1cnUlRTMlODAlOEQlRTMlODIlOTIlRTYlOTklQUUlRTklODAlOUElRTMlODElQUVBSSVFNiVBNCU5QyVFNyVCNCVBMiVFMyU4MSVBOCVFNiVBRiU5NCVFMyU4MSVCOSVFMyU4MSVBNiVFMyU4MSVCRiVFMyU4MSU5RiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTgyZjY1YjI4YzNiMzIxMmQ1YmNlNWQxMzI5MzJiMjZj&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBpbm95dS1xaWl0YSZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTFiYzg3ZWI4MzM5YjcwZTRlMDRlNWUzZDRkZjY2YWE0&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=5qCq5byP5Lya56S-44Kk44O844OH44Kj44O844Ko44O8&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=bb9a84da3077b344fd061d54bf6353f5",
+    "fetched_at": "2026-11-11 04:06:13",
+    "ja_summary": "「imozuru」は、知らない分野の知識を原文から芋づる式に集めるAIスキル。\n従来のAI検索よりも、より深く、関連性の高い情報収集が可能。\n専門知識の習得や調査業務の効率化に役立つ。"
+  },
+  {
+    "title": "目指せClaude全冠！4つの試験を全部受けたので攻略法を紹介します",
+    "link": "https://qiita.com/minorun365/items/59783841e48f5467594f",
+    "source": "Qiita (Popular)",
+    "published": "2026-11-03T18:02:04+09:00",
+    "summary": "こんにちは、Claude Codeです。著者のみのるんが忙しそうだったので、代わりにこの記事を書いています。\n\nClaude認定（Claude Certified）はAnthropicの公式資格で、Claude Partner Networkに加盟している企業の人が受験できます。\n\nhttps://claude.com/blog/four-role-based-claude-certificati",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYxNjMzODU2JTJGYzIyNmJjMzRhYzZjNDVhMjFmNWU1MTJkMWM3MmE2ZjA5NzQ5NDU3OCUyRnhfbGFyZ2UucG5nJTNGMTY5OTk1NDk3Nj9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9MTlhZDI4ODRkNmQ2MzEyNjMxZDJkNTBjOTZmOTA5ZjU%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYxZTIwZGI1ZTdlNDA3ZWFlN2I5NzBlYzk5OTg4MGRjOGMzY2MwZjY0JTJGb3JpZ2luYWwuanBnJTNGMTY2NzI3NDk2Mz9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz04OTI0NDcwMDk1MDMyZjUxYmZlNzE3ZjVkOGUzYmE3ZA%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D75789497542ed55352086443c7ba4c98?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUU3JTlCJUFFJUU2JThDJTg3JUUzJTgxJTlCQ2xhdWRlJUU1JTg1JUE4JUU1JTg2JUEwJUVGJUJDJTgxNCVFMyU4MSVBNCVFMyU4MSVBRSVFOCVBOSVBNiVFOSVBOCU5MyVFMyU4MiU5MiVFNSU4NSVBOCVFOSU4MyVBOCVFNSU4RiU5NyVFMyU4MSU5MSVFMyU4MSU5RiVFMyU4MSVBRSVFMyU4MSVBNyVFNiU5NCVCQiVFNyU5NSVBNSVFNiVCMyU5NSVFMyU4MiU5MiVFNyVCNCVCOSVFNCVCQiU4QiVFMyU4MSU5NyVFMyU4MSVCRSVFMyU4MSU5OSZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTk5Yzg4OTBhYzMzNjRjNjk1MTNlYzFlMGVmYTNhNjI2&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBtaW5vcnVuMzY1JnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9YThjYmQyMjBkNDc3NGM1MjI3MzBiOWExMjBkOWZlMGM&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=S0RESeOCouOCuOODo-OCpOODq-mWi-eZuuOCu-ODs-OCv-ODvOagquW8j-S8muekvg&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=3ecc0c56b017d95da86e79f4df2b1cd9",
+    "fetched_at": "2026-11-11 04:06:13",
+    "ja_summary": "Claude認定試験、全4種を攻略。\nPartner Network加盟企業向け公式資格の取得方法を解説。\nClaude Codeが、試験のポイントを分かりやすく紹介。"
+  },
+  {
+    "title": "「PHPなんて使ってるやつが悪い」と言っている輩が一番危ない",
+    "link": "https://qiita.com/kotowazaman/items/aab621d31a8501617eb4",
+    "source": "Qiita (Popular)",
+    "published": "2026-10-22T12:58:02+09:00",
+    "summary": "\nPHPの緊急脆弱性（通称PHP2Shell、CVE-2026-109618 / CVE-2026-109619）について、仕組みと対応チェックリストをまとめた記事を書きました。\n対応方法のまとめが主な内容だったのですが、その後も続いている反応の中で、気になる声がいくつも目につきました。\n\n「もうPHPはやめておけ」\n\n「今どきPHPの時点で古い」\n\n「そういうレガシー言語の宿命だよね。。」\n\n.",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYyNjUzMzYxJTJGN2NmMjRkN2FkYjg0YWRmZDAyNDg4M2NkZGUzOTE0NDJkNWM1MTdkMCUyRmxhcmdlLnBuZyUzRjE3OTEyNTAyNjE_aXhsaWI9cmItNC4xLjEmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPWYyN2Y4YjkwYmIyNWMwNGI4MzYzNmI4ODZhN2Y4ZWRm%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D40d751e4787c8b79ec9331efeceb1406?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJThDUEhQJUUzJTgxJUFBJUUzJTgyJTkzJUUzJTgxJUE2JUU0JUJEJUJGJUUzJTgxJUEzJUUzJTgxJUE2JUUzJTgyJThCJUUzJTgyJTg0JUUzJTgxJUE0JUUzJTgxJThDJUU2JTgyJUFBJUUzJTgxJTg0JUUzJTgwJThEJUUzJTgxJUE4JUU4JUE4JTgwJUUzJTgxJUEzJUUzJTgxJUE2JUUzJTgxJTg0JUUzJTgyJThCJUU4JUJDJUE5JUUzJTgxJThDJUU0JUI4JTgwJUU3JTk1JUFBJUU1JThEJUIxJUUzJTgxJUFBJUUzJTgxJTg0JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9NmVhZmQxNTg1ZWE1NzAzNjEzN2MyZGRkNjVmNDRiYTI&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBrb3Rvd2F6YW1hbiZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTIyZmU5M2ExMTBiZjZjM2Q4NTIyZjI4YjNjMTkyZmUy&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=5653152f2146adc40fd320ca5bc96a55",
+    "fetched_at": "2026-11-11 04:06:14",
+    "ja_summary": "PHPの脆弱性問題に対し、「PHPはレガシーで危険」と全否定する風潮がある。\n言語の古さではなく、適切なパッチ適用や設定管理を行う運用姿勢こそがセキュリティの本質である。\n特定の言語を批判して満足せず、具体的な脆弱性対策の徹底を優先すべきである。"
+  },
+  {
+    "title": "「ドパ資料」の作り方",
+    "link": "https://qiita.com/kikuziro/items/b6a0743b070d7320c36d",
+    "source": "Qiita (Popular)",
+    "published": "2026-10-21T18:07:55+09:00",
+    "summary": "この記事を開いたあなたは「ドパガキ」もしくは「ドパおじ」いや「ドパおば」かもしれませんね。 いずれにしてもドーパミンがドバドバ出る資料を求めてここにたどり着いたものと推測します。そんなあなたのためにこの記事ではドパ資料の作り方を書いていきます。\n\n## 👀 対象読者\n\n- 技術記事を書いているけど、いまいち読まれない人\n- 生成AIで図を作っているけど、なんか見覚えのある図になってしまう人\n- ド",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGMjkzMzQ4OSUyRnByb2ZpbGUtaW1hZ2VzJTJGMTc5Mjk5MzU2Nz9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9ODk4NWM0OTA2NDA3NmU1MjY5YjFkZDc0Mzc0YzE4N2I%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Dda5369d529aa115708e519ff3312efd0?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJThDJUUzJTgzJTg5JUUzJTgzJTkxJUU4JUIzJTg3JUU2JTk2JTk5JUUzJTgwJThEJUUzJTgxJUFFJUU0JUJEJTlDJUUzJTgyJThBJUU2JTk2JUI5JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9ZTg2Y2EzZTNlZmUwYWViNjA0NGY2YzM4ZTUwNDEyZjQ&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBraWt1emlybyZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWM3OGI3M2Q5YTRjOWFhNTIyZjZmYzE4YWMzN2YwOThh&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=21fa980e335fb7a6017f5a193da02949",
+    "fetched_at": "2026-11-11 04:06:14",
+    "ja_summary": "・読者のドーパミンを刺激する「人を惹きつける技術資料」の作成手法を解説。\n・生成AI特有のありきたりな図解を避け、独自性のある視覚表現を追求する。\n・技術記事が読まれない悩みを抱える層に向けた、構成やデザインの改善指南書。"
+  },
+  {
+    "title": "【2026年版】AIを駆使した開発手法をざっくりまとめてみた",
+    "link": "https://qiita.com/kobori_slj/items/b9683ce90f4c26a6e7ae",
+    "source": "Qiita (Popular)",
+    "published": "2026-10-20T21:39:49+09:00",
+    "summary": "\n\n:::note warn\n**本記事は筆者個人の理解に基づくまとめです。**\nこの分野は新しい言葉が次々に生まれていて、同じ言葉でも人や企業によって指す範囲が違います。厳密な定義が必要な場合は、各手法の提唱元の情報を確認してください。間違いや補足があれば、コメントで教えていただけると嬉しいです。\n:::\n\n## はじめに\n\n「プロンプトエンジニアリング」の次は「コンテキストエンジニアリング」、",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmxoMy5nb29nbGV1c2VyY29udGVudC5jb20lMkZhJTJGQUNnOG9jSXg3WDBrckhVY2gxQnJBWDhJMVRXOEkwRDNOdUZabVZBT2pYZjlmMXFLUDNqZjk4b2olM0RzOTYtYz9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9MDUzZDY1ZGNkNWI1MmQwYTk4NDk3NzdmNmRmZjg4MTU%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkY1YzIwM2RhMzYwYjU2OGZkYzYzODNlZDljZDY5NjE5NWVlOGU1NDdlJTJGb3JpZ2luYWwuanBnJTNGMTY5MDkzNDcxNT9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz05ZmU3ZDczYTQyMTZmMWIxYzNkNDE2MGVmMDI2MDY3ZA%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D241d4ce1038291392c2f036bd93c325b?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJTkwMjAyNiVFNSVCOSVCNCVFNyU4OSU4OCVFMyU4MCU5MUFJJUUzJTgyJTkyJUU5JUE3JTg2JUU0JUJEJUJGJUUzJTgxJTk3JUUzJTgxJTlGJUU5JTk2JThCJUU3JTk5JUJBJUU2JTg5JThCJUU2JUIzJTk1JUUzJTgyJTkyJUUzJTgxJTk2JUUzJTgxJUEzJUUzJTgxJThGJUUzJTgyJThBJUUzJTgxJUJFJUUzJTgxJUE4JUUzJTgyJTgxJUUzJTgxJUE2JUUzJTgxJUJGJUUzJTgxJTlGJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9MzUzNGViNjQ5NDM5N2FkMjllMjEwNzgxYTc4ZWI2OGU&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBrb2Jvcmlfc2xqJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9ZmY1YjBlYTQyOWU5NWJlOWQwMzk3YWMwNWMyZjc3NTU&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=5qCq5byP5Lya56S-44K544OU44O844OJ44Oq44Oz44Kv44K444Oj44OR44Oz&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=f05e67174cfd69a9853fd35962405df1",
+    "fetched_at": "2026-11-11 04:06:14",
+    "ja_summary": "AI開発手法は進化し、プロンプトエンジニアリングからコンテキストエンジニアリングへと発展。\nAIを最大限に活用するための最新開発手法について、筆者の理解に基づき解説。\n2026年版として、AI開発のトレンドを簡潔にまとめた入門記事。"
+  },
+  {
     "title": "【AI投資“クールダウン”で何が起きる？】日経平均が一時「6万円割れ」に至った深刻度／中間選挙後の「アノマリー」今回も当てはまる？ ／データセンター企業は“選別”の時代に／中長期での日本株の見通し | ビジネス | 東洋経済オンライン",
     "link": "https://toyokeizai.net/articles/-/964320?utm_source=rss&utm_medium=http&utm_campaign=link_back",
     "source": "東洋経済オンライン",
@@ -718,285 +998,5 @@
     "image": "https://openai.com/favicon.ico",
     "fetched_at": "2026-11-10 12:31:35",
     "ja_summary": "・CodeRabbitがAIエージェントによる開発支援で生産性を20倍に向上。\n・OpenAIモデルを活用し、AI生成コードの管理と品質担保を実現。\n・同規模のエンジニアチームのままで、ソフトウェア出荷量を大幅に拡大。"
-  },
-  {
-    "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
-    "link": "https://openai.com/index/partnering-with-hacktron",
-    "source": "OpenAI",
-    "published": "Fri, 06 Nov 2026 08:00:00 GMT",
-    "summary": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
-    "image": "https://openai.com/favicon.ico",
-    "fetched_at": "2026-11-10 12:31:35",
-    "ja_summary": "・OpenAIがHacktronと提携し、システム脆弱性の特定を開始。\n・第三者サービスとの接続性テストを通じ、セキュリティを強化。\n・最先端AI技術を活用し、防御体制のさらなる向上を目指す。"
-  },
-  {
-    "title": "2 つのエージェントで異なる方向性から検証を行う",
-    "link": "https://zenn.dev/kokagex/articles/75f89df3b007cc",
-    "source": "Zenn Trends",
-    "published": "Mon, 09 Nov 2026 13:41:19 GMT",
-    "summary": "この記事は AI コーディングエージェントが自分で書いとります。\nソロ開発者が回しとる自作の長期記憶基盤と、その周りの skill 群の連載 11 本目だわ。\n今回は、書き終えたコードを 2 つのエージェントに、別々の方向から確かめさせた話を書く。\n1 つは目標と過去の決定から見る係、もう 1 つはコードを動かして見る係だわ。\nやってみて、わかったことは 2 つある。\n1 つ目は、これまでの確かめでは見つけられんかったバグを、見つけられるようになったこと。\n2 つ目は、本番に出す変更で使ったら、出す前に直しておくべき盲点に気づけたこと。\nこの 2 つの結果を中心に書き、そこに届くまでに直...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--UpkzZ277--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:2%2520%25E3%2581%25A4%25E3%2581%25AE%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588%25E3%2581%25A7%25E7%2595%25B0%25E3%2581%25AA%25E3%2582%258B%25E6%2596%25B9%25E5%2590%2591%25E6%2580%25A7%25E3%2581%258B%25E3%2582%2589%25E6%25A4%259C%25E8%25A8%25BC%25E3%2582%2592%25E8%25A1%258C%25E3%2581%2586%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%2593%25E3%2581%258B%25E3%2581%2592%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jS1VoMWNfRG1TQV9kY3JZempLNVE2Vjl1U256VkFyM1o2NDFQRVJ0MXdOVndER0dDZEQ9czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "fetched_at": "2026-11-10 12:31:36",
-    "ja_summary": "AIコーディングエージェントに「設計意図」と「実動作」の2方向から検証を行わせる手法を導入した。\n異なる視点による二重チェックで従来見落としていたバグの発見に成功した。\n本番適用前のリスク検知にも有効であり、開発品質の向上が期待できる。"
-  },
-  {
-    "title": "AIですぐに作れる時代に、何と向き合うか",
-    "link": "https://zenn.dev/peoplex_blog/articles/2611-what-to-face-when-ai-builds-fast",
-    "source": "Zenn Trends",
-    "published": "Mon, 09 Nov 2026 04:49:20 GMT",
-    "summary": "こんにちは。PeopleX AI面接の開発をしている坂津です。\nここ1年で、私はコードを一切手で書かなくなりました。\nClaude Opus 5.5 が登場してからは AI が書いたコードの細部もそこまで気にしなくなっています。正しく指示をすれば、Opus 5.5 が書くコードは品質が高く、設計の意図に沿った読みやすいコードがそのまま出てくることがほとんどです。それにアプリケーションのコードはあとからでも比較的簡単に直せます。いまレビューで力を入れているのは、DB 設計やアーキテクチャのように一度決めると後戻りしにくいものです。\nコード自体に向き合う時間は大きく減り、最近の私の仕事は何を...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--m9fMUxlM--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%25E3%2581%25A7%25E3%2581%2599%25E3%2581%2590%25E3%2581%25AB%25E4%25BD%259C%25E3%2582%258C%25E3%2582%258B%25E6%2599%2582%25E4%25BB%25A3%25E3%2581%25AB%25E3%2580%2581%25E4%25BD%2595%25E3%2581%25A8%25E5%2590%2591%25E3%2581%258D%25E5%2590%2588%25E3%2581%2586%25E3%2581%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E3%2582%25B5%25E3%2582%25AB%25E3%2583%2584%2520%257C%2520PeopleX%2520AI%25E3%2583%2597%25E3%2583%25AD...%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzY2YjYwNDBmMmMuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:PeopleX%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzYxNGE3YWQ2NGYuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "fetched_at": "2026-11-10 12:31:37",
-    "ja_summary": "・AIの進化により、コーディングそのものよりも設計やアーキテクチャの検討が業務の主軸へ変化した。\n・AI生成コードの品質向上に伴い、後から修正が難しい「戻れない設計」の判断に注力するスタイルへ移行。\n・技術の変化を受け入れ、エンジニアが向き合うべき仕事の価値が再定義されている。"
-  },
-  {
-    "title": "閉域網でも AI を使いこなす: ローカル LLM × GitLab DAP（GitLab Epic Tour Japan 2026 登壇）",
-    "link": "https://zenn.dev/fixstars/articles/gitlab-epic-tour-2026-local-llm",
-    "source": "Zenn Trends",
-    "published": "Mon, 09 Nov 2026 01:45:40 GMT",
-    "summary": "はじめに\n2026 年 10 月 9 日の GitLab Epic Tour Japan 2026 にて、「閉域網でも AI を使いこなす ローカル LLM × GitLab DAP の実践知」というタイトルで登壇しました。株式会社フィックスターズの取り組みを、ぜひ当日会場にいなかった方にもお伝えしたいと思い、スライドと話した内容を記事にしました。以下にスライドを 1 枚ずつ載せ、当日のトークを書き起こしたものを掲載します。\n\n\n話の中心は、私たちが作った開発環境です。フィックスターズの社内ネットワークで動かすローカル LLM と、セルフマネージドの GitLab Duo Agent...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--AI-b4FUp--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E9%2596%2589%25E5%259F%259F%25E7%25B6%25B2%25E3%2581%25A7%25E3%2582%2582%2520AI%2520%25E3%2582%2592%25E4%25BD%25BF%25E3%2581%2584%25E3%2581%2593%25E3%2581%25AA%25E3%2581%2599%253A%2520%25E3%2583%25AD%25E3%2583%25BC%25E3%2582%25AB%25E3%2583%25AB%2520LLM%2520%25C3%2597%2520GitLab%2520DAP%25EF%25BC%2588GitLab%2520Epic%2520Tour%2520J...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Yoshiki%2520Matsuda%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2M4YTI5OTEwMDYuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Fixstars%2520Tech%2520Blog%2520%252F...%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jTFlpb0NGX2lrNlYwdV9TWllfOFNSTXpzZ0VlMzNlYk43QnNzMTYyWXF4VUhiR2dfU1k9czI1MC1j%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "fetched_at": "2026-11-10 12:31:38",
-    "ja_summary": "・閉域網環境下でAIを活用するため、ローカルLLMとGitLab Duo Agentを連携させた独自開発環境を構築。\n・社内ネットワーク内でセキュアにAI開発支援を行うための実践的な知見を公開。\n・高いセキュリティを維持しつつ、社内システムでのAI活用を最大化する手法を解説。"
-  },
-  {
-    "title": "Anthropicから毎月もらえるAPIクレジットで、AIペンテストツールShannonを回してみた",
-    "link": "https://zenn.dev/arm_techblog/articles/9c5a29e37d1522",
-    "source": "Zenn Trends",
-    "published": "Mon, 09 Nov 2026 01:06:50 GMT",
-    "summary": "こんにちは、フィッツプラス の高山です。\n最近、Claudeのプラン（MaxやTeamなど）に、APIのクレジットが毎月付いてくるようになりました。\nhttps://support.claude.com/en/articles/17154008-monthly-api-credits-for-max-ultra-and-team-plans\nありがたい。ありがたいんですが、これがClaude Codeで使えるものではなく、Claude APIやAgent SDKなど、自分でAPIを呼ぶ用途向けのクレジットなんですよね。普段の開発はClaude Codeで回ってるし、APIを叩くプロダクト...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--RdEs5jsN--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Anthropic%25E3%2581%258B%25E3%2582%2589%25E6%25AF%258E%25E6%259C%2588%25E3%2582%2582%25E3%2582%2589%25E3%2581%2588%25E3%2582%258BAPI%25E3%2582%25AF%25E3%2583%25AC%25E3%2582%25B8%25E3%2583%2583%25E3%2583%2588%25E3%2581%25A7%25E3%2580%2581AI%25E3%2583%259A%25E3%2583%25B3%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E3%2583%2584%25E3%2583%25BC%25E3%2583%25ABShannon%25E3%2582%2592%25E5%259B%259E%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Kyosuke%2520Takayama%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2U0NzFmZDg5NDEuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:ARM%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzA4ZGNmYzkwMzEuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "fetched_at": "2026-11-10 12:31:38",
-    "ja_summary": "・Claudeの有料プランに付与される月間APIクレジットは、Claude CodeではなくAPI開発でのみ利用可能。\n・使い道に迷うこのクレジットを活用し、AIペンテストツール「Shannon」を動かす試みを実施。\n・開発者が余ったAPI枠を、セキュリティ診断などの実用的な用途に転用する方法を提示。"
-  },
-  {
-    "title": "NexTechWeek2026_AIチャットx社内データ連携_株式会社ブーツ_202611",
-    "link": "https://speakerdeck.com/keisukearuga/ai-jinkou-chinou-expo-butsu-setsumeiyou-kabushikigaisha-butsu-202611",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-11-09T19:17:38-05:00",
-    "summary": "株式会社ブーツは2026年11月開催のNexTechWeek2026（AI・人工知能EXPO）に出展します。\nブースでは『AIチャットx社内データ連携』として、セマンティックレイヤーを介した業務用AIチャットと社内データベースの接続サービスについてご提案します。",
-    "image": "https://files.speakerdeck.com/presentations/7ad9841c880245d79ef7799e800790d6/preview_slide_0.jpg?41299811",
-    "fetched_at": "2026-11-10 12:31:39",
-    "ja_summary": "・株式会社ブーツが「NexTechWeek2026」に出展\n・社内データをAIチャットで活用する連携サービスを提案\n・セマンティックレイヤーを用いた高精度な社内業務AI化を実現"
-  },
-  {
-    "title": "Intro to harness engineering (Agent = model + harness) | Learn Harness Engineering with Kiro 01",
-    "link": "https://speakerdeck.com/inariku/harness-engineering-intro-en",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-11-09T20:27:21-05:00",
-    "summary": "An introduction to harness engineering with Kiro. An agent is the model plus the harness: instructions, tools, memory and context, checks, permissions, and records. The deck shows the four mechanisms you add around Kiro (guide, check, contain, and run the loop) and how to size the harness to the task. It then tests one way of working on a small booking app built for this series: log each miss, and add a hook or a line of steering when the same miss happens a second time. Slides 18 to 20 show English reruns with Kiro CLI 3.1. Slides 16 and 17 come from the Japanese edition's runs, and each trial slide says which run it shows. It ends with where to put checks and the human's role. As of November 2026 (Kiro IDE 1.4, Kiro CLI 3.1). This is deck 01 (The idea) of the Learn Harness Engineering with Kiro series.",
-    "image": "https://files.speakerdeck.com/presentations/b7d1f525ae7c4a79952dfc1652f4ae2d/preview_slide_0.jpg?41300722",
-    "fetched_at": "2026-11-10 12:31:39",
-    "ja_summary": "AIエージェントを構成する「モデル＋ハーネス（指示・ツール・記憶・制限等の枠組み）」の設計手法を解説。\n4つの制御機構（ガイド・チェック・抑制・ループ実行）を使い分け、タスクに応じた最適な構築法を提示。\nエラー発生時のログ記録と修正プロセスを反復し、人の介入ポイントを適切に制御する実践的設計を学ぶ。"
-  },
-  {
-    "title": "ハーネスが効いたかを測る | Kiro と学ぶハーネスエンジニアリング 10",
-    "link": "https://speakerdeck.com/inariku/harness-measure-the-harness",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-11-09T20:26:03-05:00",
-    "summary": "Kiro に足したハーネス (Steering、Hook、Skill) が効いたかは、測らないと分かりません。この資料では、実際の外れから作った課題の組を、ハーネスを足す前と後で何回か流し、課題、試行、採点役、記録の 4 つで比べる方法と、採点のテストを Kiro に見せないこと、点と一緒に記録と費用 (クレジットと時間) を読むこと、言えるのは試した範囲だけであることを、Anthropic や OpenAI などの公開の記事を元にイメージ図で説明します。説明用に作った小さな会議室の予約アプリで、3 つの課題を Kiro CLI の headless (画面を開かずにコマンドで Kiro に頼む形) で足す前と後に 3 回ずつ流し、機能を足す 2 つの課題 (予約の取り消し、日付で絞る) が足す前 0/6、足した後 6/6 になったところを本物の端末の画面で見せ、足した後は 1 回あたりのクレジットが平均で約 2.3 倍になったことも示します。シリーズ「Kiro と学ぶハーネスエンジニアリング」の 10 (回す) です。",
-    "image": "https://files.speakerdeck.com/presentations/223fddc7ee1044c2b7a35e1c3806e256/preview_slide_0.jpg?41300692",
-    "fetched_at": "2026-11-10 12:31:39",
-    "ja_summary": "・AI（Kiro）に組み込んだハーネスの有効性は、導入前後の課題達成率を比較することで定量的に測定・評価できる。\n・検証時は「採点データの秘匿」や「費用対効果の可視化」を徹底し、試行範囲内での限定的な結果であることを理解する。\n・予約アプリでの実証では、機能改善により成功率が大幅向上した一方、処理コストが約2.3倍に増加した事例が示された。"
-  },
-  {
-    "title": "長い仕事を回でつなぐ | Kiro と学ぶハーネスエンジニアリング 09",
-    "link": "https://speakerdeck.com/inariku/harness-long-running-work",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-11-09T20:24:48-05:00",
-    "summary": "AI に長い仕事を任せると、どの回 (セッション) も前の会話を覚えておらず、要約だけでは細部が落ちます。この資料では、仕様、計画、手順書、状況をファイルに分けて置き、回の始めに壊れていないかを確かめてから読み、1 回で終わる大きさの 1 区切りだけ進め、テストが通る形で commit してから次の回に渡す方法を、Anthropic や OpenAI などの公開の記事と kiro.dev のドキュメントを元にイメージ図で説明します。計画 (tasks.md) は済んだ行の [ ] を [x] に変えるだけにさせること、決めたことを理由と一緒に残すこと、圧縮の前後で残すものも扱います。説明用に作った小さな会議室の予約アプリで、Kiro CLI に Spec を 2 回のセッションに分けて作らせ、Session Start の Hook が煙の試験 (数秒で終わる最低限の動作確認) を流し、Kiro がその結果を見てから読み始めるところ、1 回目の終わりに書き直した状況のファイル、2 回目のセッションが前の会話を持たずにファイルを読んで続きから始めるところ、/compact のあとの要約を本物の画面で見せます。シリーズ「Kiro と学ぶハーネスエンジニアリング」の 09 (回す) です。",
-    "image": "https://files.speakerdeck.com/presentations/e92f242050264f389958b135b235d38e/preview_slide_0.jpg?41300620",
-    "fetched_at": "2026-11-10 12:31:39",
-    "ja_summary": "AIに長期間の作業を任せる際、セッションを跨いでも文脈を維持し、細部を漏らさないための手法を解説。\n仕様や計画を外部ファイルで管理し、各セッション開始時に状況確認とテストを実施、タスクを完了ごとに記録して継続する方法を実演。\n計画の進捗管理や要約のコツを交え、Kiro CLIを用いた確実な開発プロセスを提示。"
-  },
-  {
-    "title": "ハーネスを育てる | Kiro と学ぶハーネスエンジニアリング 08",
-    "link": "https://speakerdeck.com/inariku/harness-keep-improving",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-11-09T20:23:27-05:00",
-    "summary": "Kiro が外したことは、記録して仕組みに変えなければ、また起きます。この資料では、Kiro が外したことを 1 行で記録し、同じ外れを 2 度させない決まり (Steering)、Hook、Skill に変える方法を、OpenAI、Anthropic、martinfowler.com、Mitchell Hashimoto、kiro.dev のブログなどの公開の記事を元にイメージ図で説明します。あわせて、足した仕組みが効いたかを見ること、少しずつたまるずれ (使われないコード、古い依存や文書、mutation score で見るテストの確かめの強さ) を定期に見張ること、効かなくなった仕組みを 1 つずつ外して確かめることも扱います。説明用に作った小さな会議室の予約アプリで、Kiro CLI に失敗の記録から仕組みの案を出させるところ、書く前に中身を見せて許可を聞くところ、性質のテスト (property-based test) が見つけた反例をふつうのテストに残すところ、Skill に「よくある間違い」を書かせたところ、Kiro の記憶 (Memory) を開いて読むところを本物の画面で見せます。見張りを Kiro Crew の Schedule で定期の仕事にする設定の画面も載せます。シリーズ「Kiro と学ぶハーネスエンジニアリング」の 08 (回す) です。",
-    "image": "https://files.speakerdeck.com/presentations/e623b2f216b44483ad6abd5bbb3dd1af/preview_slide_0.jpg?41300589",
-    "fetched_at": "2026-11-10 12:31:39",
-    "ja_summary": "・失敗を1行の記録から「仕組み（Steering/Hook/Skill）」へ変換し、再発を確実に防ぐ手法を解説。\n・使われないコードや古い依存関係を定期的に監視・整理し、不要になった仕組みを削除する「見張り」の運用を提案。\n・AI（Kiro CLI）を活用した会議室予約アプリの事例を通じ、失敗の自動学習やテストへの組み込み手順を具体的に提示。"
-  },
-  {
-    "title": "AIにありがちな「イマイチなコードコメント」9パターン",
-    "link": "https://qiita.com/jnchito/items/636c519c0b1d347c79b7",
-    "source": "Qiita (Popular)",
-    "published": "2026-11-01T13:34:25+09:00",
-    "summary": "## はじめに\n\n「コードはAIに書いてもらう」という人が増えてきました。\n\n僕もそんなエンジニアの一人ですが、AIにコードを書かせていると「アプリケーション側のコードはまだいいが、コードコメントとテストコードはなんかイマイチだな」と思うことが多いです。\n\nまた、コードレビューをしていると、「たぶん、これはAIが書いたコメントをそのまま採用したんだろうな〜」と思う場面も増えました。\n\nそこで、この",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGNzQ2NSUyRnByb2ZpbGUtaW1hZ2VzJTJGMTc5MTgwNDk5Nj9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NmFmYzJkZDg1Y2M1ZmRkNWRmMTI5OTk1MmFmZmM0Yjc%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkY0MjMzNjY1ZTNiODM2N2U4MDEyMDMwYzc1ODg3Y2ZjZjY3NTg2MGI3JTJGb3JpZ2luYWwuanBnJTNGMTcyNzIyMzQ1OD9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz03NGJiYTY4NjYzMDQ4NDQ3YWEwOGIxYjZmNjE1MDE2MA%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D44c0af729526cd45bc8bc4db600b51d8?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9QUklRTMlODElQUIlRTMlODElODIlRTMlODIlOEElRTMlODElOEMlRTMlODElQTElRTMlODElQUElRTMlODAlOEMlRTMlODIlQTQlRTMlODMlOUUlRTMlODIlQTQlRTMlODMlODElRTMlODElQUElRTMlODIlQjMlRTMlODMlQkMlRTMlODMlODklRTMlODIlQjMlRTMlODMlQTElRTMlODMlQjMlRTMlODMlODglRTMlODAlOEQ5JUUzJTgzJTkxJUUzJTgyJUJGJUUzJTgzJUJDJUUzJTgzJUIzJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9ZmYxMzhiN2NhN2IwZTRmMDI2MjIzYjliYjVhZTU2MzQ&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBqbmNoaXRvJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9YTNkMGJiOGM5MjEyODY0YzdjZGNkODBjOWUxZjZjOTM&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=5qCq5byP5Lya56S-44K944OL44OD44Kv44Ks44O844OH44Oz&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=61faf06f30a0d99bdf283fce04370d23",
-    "fetched_at": "2026-11-10 12:31:40",
-    "ja_summary": "・AIが生成するコードコメントには質が低いものが多く、そのまま採用するのは避けるべき。\n・「当たり前の内容」や「冗長な説明」など、AI特有のイマイチなコメントパターンが存在する。\n・AIの生成物を鵜呑みにせず、エンジニアによる適切な精査と修正が必要。"
-  },
-  {
-    "title": "AI に資料を毎回貼るな！ファイル・SKILL・AGENTS.md 活用でトークン課金最大 6 割減？ 6 つの方法を試してみた",
-    "link": "https://qiita.com/songchong/items/235bed0f8c72f268477e",
-    "source": "Qiita (Popular)",
-    "published": "2026-10-26T08:07:34+09:00",
-    "summary": "\n![6つの渡し方の入力の費用を、1b（1ターン目だけ貼って参照する）を基準に4つの実験で比べた表の図（測定・短文10ターン・長文5ターン）。Claude Code・Claude Sonnet 5.5・短文：1a ２回貼付 $0.2401（1b比 +136%）、1b 参照指示 $0.1017（基準）、2 外部ファイル $0.1286（1b比 +26%）、3 SKILL指示 $0.1404（1b比 ",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGNTY2NzAlMkZwcm9maWxlLWltYWdlcyUyRjE3ODcyMzgxODE_aXhsaWI9cmItNC4xLjEmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPWU3NzQ3ZjMzNzE4MDJjYjI2M2FjMjM3NzUzODlmOTE5%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Dc73920274995f5a321a69858db1e61f3?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9QUklMjAlRTMlODElQUIlRTglQjMlODclRTYlOTYlOTklRTMlODIlOTIlRTYlQUYlOEUlRTUlOUIlOUUlRTglQjIlQkMlRTMlODIlOEIlRTMlODElQUElRUYlQkMlODElRTMlODMlOTUlRTMlODIlQTElRTMlODIlQTQlRTMlODMlQUIlRTMlODMlQkJTS0lMTCVFMyU4MyVCQkFHRU5UUy5tZCUyMCVFNiVCNCVCQiVFNyU5NCVBOCVFMyU4MSVBNyVFMyU4MyU4OCVFMyU4MyVCQyVFMyU4MiVBRiVFMyU4MyVCMyVFOCVBQSVCMiVFOSU4NyU5MSVFNiU5QyU4MCVFNSVBNCVBNyUyMDYlMjAlRTUlODklQjIlRTYlQjglOUIlRUYlQkMlOUYlMjA2JTIwJUUzJTgxJUE0JUUzJTgxJUFFJUU2JTk2JUI5JUU2JUIzJTk1JUUzJTgyJTkyJUUyJTgwJUE2JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9NmU5YWJmOWQ2ZjE3MGNiYTVlZGZmMWQzNDNkZDk3ZjY&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBzb25nY2hvbmcmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1jYThhODE5MGI3ZTMyOWM0MDRkZTcyYjU3YzZiNzYwNA&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=149e4dc654a7533426fe568d6a5bf213",
-    "fetched_at": "2026-11-10 12:31:41",
-    "ja_summary": "AIへの資料提供で毎回全文を貼り付けるとコストが大幅に増加する。\n外部ファイル参照やSKILL活用など、適切なプロンプト技法を使えばトークン費用を最大6割削減可能。\n「ファイルを毎回貼る」運用を見直し、参照指示を活用することがコスト削減の鍵となる。"
-  },
-  {
-    "title": "エヌビディア､スペースX､メタ…トランプに懸けた｢AI富豪｣が支払う代償　アメリカ中間選挙で共和党が敗れた意味 | 政治・経済・投資 | 東洋経済オンライン",
-    "link": "https://toyokeizai.net/articles/-/964128?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-    "source": "東洋経済オンライン",
-    "published": "Tue, 10 Nov 2026 05:45:00 +0900",
-    "summary": "ホワイトハウスで開かれた会食から一転､アメリカ中間選挙はテック企業のトップたちに厳しい逆風をもたらしました。",
-    "image": "https://tk.ismcdn.jp/mwimgs/5/0/1200w/img_5055be4efb123f662a984ea181674c46154955.jpg?nextgen=false",
-    "fetched_at": "2026-11-10 06:04:36",
-    "ja_summary": "・米中間選挙で共和党が敗北し、トランプ前大統領に接近していたテック企業経営者らが政治的リスクに直面。\n・ホワイトハウスとの蜜月関係から一転、AIや先端技術分野の富豪たちは厳しい逆風を受ける状況となった。\n・政権交代を背景に、テック企業と政治の力関係が大きく変容している。"
-  },
-  {
-    "title": "〈プライム上場で攻勢〉AIによる不正アクセス横行は追い風か逆風か？急成長セキュリティーSaaS｢HENNGE｣の実力 | ビジネス | 東洋経済オンライン",
-    "link": "https://toyokeizai.net/articles/-/963849?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-    "source": "東洋経済オンライン",
-    "published": "Tue, 10 Nov 2026 05:45:00 +0900",
-    "summary": "AIを悪用したとみられる不正アクセスや情報漏洩事案の発覚が止まらない。ICT市場調査コンサルティングのMM総研の調査によると、2026年1月から10月末までに国内で漏洩した情報の件数は、可能性がある…",
-    "image": "https://tk.ismcdn.jp/mwimgs/5/1/1200w/img_514757abac143eee09f2fa6823b7e4ab747006.jpg?nextgen=false",
-    "fetched_at": "2026-11-10 06:04:36",
-    "ja_summary": "・AIによる不正アクセスや情報漏洩が急増する中、セキュリティSaaSを展開する「HENNGE」が注目を集めている。\n・同社はプライム市場への上場を背景に、企業へのセキュリティ対策提供で攻勢を強めている。\n・深刻化するサイバー脅威は同社の事業にとって大きな成長機会（追い風）となっている。"
-  },
-  {
-    "title": "JR東海｢女性パーサー6人｣が作った駅弁の出来栄え　｢東京案vs大阪案｣一歩も譲らぬメニュー議論も | ビジネス | 東洋経済オンライン",
-    "link": "https://toyokeizai.net/articles/-/963241?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-    "source": "東洋経済オンライン",
-    "published": "Tue, 10 Nov 2026 04:30:00 +0900",
-    "summary": "｢かわいい駅弁を作りたい｣――そんな想いから始まった6人の女性パーサーたちの奮闘。健康志向や彩り､ボリュームにまでこだわり尽くし誕生した｢Kawaiiえきべん｣は､まさに新幹線旅の新定番を目指します…",
-    "image": "https://tk.ismcdn.jp/mwimgs/c/e/1200w/img_cecc25abb9042180064e970fea0500c7621230.jpg?nextgen=false",
-    "fetched_at": "2026-11-10 06:04:36",
-    "ja_summary": "JR東海の女性パーサー6人が、「かわいさ」と「健康・ボリューム」を両立させた新駅弁を開発。\n東京と大阪の食文化を融合させ、旅を彩る新たな定番を目指したメニュー議論の成果。\n新幹線旅を華やかにする、こだわり抜いた「Kawaiiえきべん」が誕生。"
-  },
-  {
-    "title": "シャープ河村社長「引き合いが来る」　親会社・鴻海の調達力で狙う「国内AIサーバー」の商機",
-    "link": "https://www.itmedia.co.jp/business/articles/2611/09/news087.html",
-    "source": "ITmedia ビジネス",
-    "published": "Mon, 09 Nov 2026 21:45:00 +0900",
-    "summary": "シャープは11月9日、AIサーバについて、早ければ2026年度末にも顧客への納入を始める見通しを明らかにした。遅くとも2027年度の早い時期には一定の納入実績を見込む。",
-    "image": "https://image.itmedia.co.jp/business/articles/2611/09/l_UJ44XT3VH5B63NS7XA3LWTDRKA_1.JPG",
-    "fetched_at": "2026-11-10 06:04:37",
-    "ja_summary": "・シャープがAIサーバー事業に参入し、2026年度末から順次納入を開始する。\n・親会社・鴻海の強力な調達力を活かし、国内需要を取り込む狙い。\n・遅くとも2027年度早期には、本格的な納入実績の構築を目指す。"
-  },
-  {
-    "title": "ソフトバンク宮川社長「正直もう疲れ切っている」　サイバー攻撃が月7億件、決算発表会で明かした危機感とは",
-    "link": "https://www.itmedia.co.jp/business/articles/2611/09/news084.html",
-    "source": "ITmedia ビジネス",
-    "published": "Mon, 09 Nov 2026 20:18:00 +0900",
-    "summary": "ソフトバンクは2027年3月期第2四半期の連結決算を発表した。過去最高益を更新する一方、宮川社長はAIを悪用したサイバー攻撃の急増に危機感を示した。子会社のIDCフロンティアで発生した不正アクセスの経緯や、攻撃への対応策について語った。",
-    "image": "https://image.itmedia.co.jp/business/articles/2611/09/cover_news084.jpg",
-    "fetched_at": "2026-11-10 06:04:37",
-    "ja_summary": "・ソフトバンクが決算発表で過去最高益を達成する一方、宮川社長はAIを悪用したサイバー攻撃の急増に強い危機感を表明。\n・月間7億件ものサイバー攻撃を受けており、子会社での不正アクセス被害など対応の負担が限界に近い現状を吐露。\n・強固なセキュリティ対策が急務となる中、今後どのような防衛策を講じるかが同社の大きな焦点となっている。"
-  },
-  {
-    "title": "「知能逆転」、真価問われる経営者　「日経BP 10大徹底予測！2027」 (徹底予測2027)",
-    "link": "https://business.nikkei.com/atcl/gen/19/00951/110400001/",
-    "source": "日経ビジネス 最新",
-    "published": "",
-    "summary": "人類とAIの「知能逆転」、曲がり角を迎える「レバレッジ経済」、世界中の企業を脅かす「サイバー攻撃」――。これまでの常識を覆す難題が、企業に突き付けられている。経営者や企業は激変するビジネスの環境に対応し、新たな価値を生み出さなければならない。2027年は、まさに真価を問われる年となるだろう。",
-    "image": "https://business.nikkei.com/atcl/gen/19/00951/110400001/fb.jpg",
-    "fetched_at": "2026-11-10 06:04:41",
-    "ja_summary": "・AIの知能が人類を上回る「知能逆転」やサイバー攻撃など、従来の常識が通じない難題が企業を直撃する。\n・「レバレッジ経済」が転換期を迎え、ビジネス環境が激変する。\n・2027年は経営者の真価が問われる年となり、既存の枠組みを超えた新たな価値創造が求められる。"
-  },
-  {
-    "title": "テスラ追いかけ米中で参入増",
-    "link": "https://xtech.nikkei.com/atcl/nxt/mag/at/18/00150/00005/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "End-to-End（E2E）自動運転技術に参入するプレーヤーが相次ぐ。「AIモデル」「車載SoC（System on a Chip）・メモリー」「自動運転センサー」「配車アプリ」の参入企業を整理した。自動運転の二大商業地域である米国と中国が圧倒的な存在感を示す一方、日本や欧州の参入企業は少なく、E2E自動運転への出遅れが鮮明になっている。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/mag/at/18/00150/00005/topm.jpg?20220512",
-    "fetched_at": "2026-11-10 06:04:43",
-    "ja_summary": "・テスラを追う「E2E自動運転」開発で米中企業が圧倒的な存在感を示す。\n・AIや半導体、センサー等の関連領域で多角的な参入が加速。\n・日本と欧州の出遅れが鮮明で、グローバル競争で大きな差が生じている。"
-  },
-  {
-    "title": "NVIDIAに車メーカー殺到",
-    "link": "https://xtech.nikkei.com/atcl/nxt/mag/at/18/00150/00003/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "End-to-End（E2E）自動運転で米Tesla（テスラ）の最大のライバルと考えられるのが米NVIDIA（エヌビディア）だ。AI（人工知能）モデル「Alpamayo（アルパマヨ）」などをE2Eの開発基盤として無償公開した。世界の完成車メーカーや自動運転ソフトウエア企業と巨大なエコシステム（経済圏）を形成し「プラットフォーマー」の座を狙う。テスラとの覇権争いの行方を占う。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/mag/at/18/00150/00003/topm.jpg?20220512",
-    "fetched_at": "2026-11-10 06:04:44",
-    "ja_summary": "・NVIDIAが自動運転の開発基盤を無償公開し、世界中の自動車メーカーを巻き込んだエコシステムを構築中。\n・「End-to-End」技術でテスラに対抗し、自動運転業界の「プラットフォーマー」の地位確立を狙う。\n・AI技術を軸とした両社の覇権争いが、今後の自動運転市場の主導権を左右する。"
-  },
-  {
-    "title": "日産デザイン部門の新トップ「退屈なクルマは大嫌い」　AIで内装シンプルに",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03565/110500042/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "日産自動車デザイン部門の新たなトップに就任したのがMatthew Weaver（マシュー・ウィーバー）氏だ。前トップのAlfonso Albaisa（アルフォンソ・アルバイサ）氏とともに日経クロステック／日経Automotiveなどの取材に応じ、日産の今後のデザインの考え方を示した。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/03565/110500042/topm.jpg?20220512",
-    "fetched_at": "2026-11-10 06:04:45",
-    "ja_summary": "・日産デザイン部門の新トップにマシュー・ウィーバー氏が就任。\n・「退屈なクルマは作らない」という方針を表明。\n・AI技術の活用により、シンプルで洗練された内装デザインを目指す。"
-  },
-  {
-    "title": "AI自動運転newmo、CTOはメルカリ出身　「PayPayと競った経験」が生きる",
-    "link": "https://xtech.nikkei.com/atcl/nxt/mag/at/18/00018/00051/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "newmo（ニューモ、東京・港）はタクシー会社を傘下に持つ異色の自動運転開発スタートアップだ。2028年に運転者の監視がいらない「レベル4」の自動運転タクシー（ロボタクシー）の実用化を目指す。同社最高技術責任者（CTO）の曾川景介氏の経歴も独特で、LINE（現LINEヤフー）やメルカリで決済サービスを手掛けてきた。異分野から自動運転に挑戦した経緯やニューモの戦略を聞いた。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/mag/at/18/00018/00051/topm.jpg?20220512",
-    "fetched_at": "2026-11-10 06:04:46",
-    "ja_summary": "・タクシー会社を傘下に持つスタートアップ「newmo」が、2028年のレベル4自動運転タクシー実用化を目指す。\n・CTOには元メルカリで決済サービスを牽引した曾川景介氏を招聘。\n・異業種での知見を活かし、タクシー事業と自動運転技術の融合による独自の戦略を展開する。"
-  },
-  {
-    "title": "「E2E自動運転は急に賢く」、チューリング山本CEO",
-    "link": "https://xtech.nikkei.com/atcl/nxt/mag/at/18/00006/00930/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "2030年までに完全自動運転を実現する目標を掲げるTuring（チューリング、東京・大田）。2021年の創業以来、車両周囲の認識や経路生成に人工知能（AI）を全面的に使うE2E（End-to-End）自動運転技術の開発に取り組んできた。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/mag/at/18/00006/00930/topm.jpg?20220512",
-    "fetched_at": "2026-11-10 06:04:47",
-    "ja_summary": "・自動運転開発のTuringが2030年の完全自動運転実現を目指す。\n・AIが認識から経路生成までを一括で行う「E2E技術」の開発を推進。\n・創業以来のAI活用により、自動運転の知能化を急速に進めている。"
-  },
-  {
-    "title": "ニトリ、最大3762万件の個人情報流出の恐れ　氏名・住所など",
-    "link": "https://japan.cnet.com/article/35254617/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "ニトリホールディングスは11月9日、同社のシステムが不正アクセスを受け、最大3762万件の個人情報が外部に流出した可能性があると発表した。ログインパスワードやクレジットカード情報は含まれないとしている。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35254617/\"><img src=\"https://japan.cnet.com/storage/thumbnails/thumb-184xauto-1358816-file.jpg\" /></a>",
-    "image": "https://japan.cnet.com/storage/thumbnails/thumb-184xauto-1358816-file.jpg",
-    "fetched_at": "2026-11-10 06:04:52",
-    "ja_summary": "・ニトリで不正アクセスが発生し、最大3762万件の個人情報流出の恐れがある。\n・対象は氏名や住所などで、ログインパスワードやクレカ情報は含まれない。\n・現在は調査が進められており、影響範囲の特定と対策が急がれている。"
-  },
-  {
-    "title": "AIエージェント経由の訪問はまだ1％、それでも先手を打つ。ストリートウェア小売が明かす年末商戦のAI戦略",
-    "link": "https://www.businessinsider.jp/article/2611-all-star-elite-streetwear-ai-agent-shopping-strategy-holidays/",
-    "source": "Business Insider Japan",
-    "published": "Mon, 09 Nov 2026 21:00:00 GMT",
-    "summary": "ストリートウェア小売のオールスター・エリートでグロースを統括する責任者は、増えつつあるショッピングボットに対応するため、オンラインの商品カタログを最適化していると語ります。",
-    "image": "https://media.loom-app.com/loom/2026/11/09/ddb288d5-9ed7-4a37-b6c0-b4640cde0d7d/original.jpg?w=1200",
-    "fetched_at": "2026-11-10 06:04:52",
-    "ja_summary": "・ストリートウェア小売が、増加するショッピングボット（AIエージェント）への対応を強化。\n・AI経由の流入は現在1％だが、将来を見据えて商品カタログの最適化に着手。\n・年末商戦に向け、自動化された購買行動を先取りする戦略を推進。"
-  },
-  {
-    "title": "AIの専門家は老後のための貯蓄をやめた…「10年以内にAIが人類を滅亡させる確率は50％以上」",
-    "link": "https://www.businessinsider.jp/article/2611-ai-risk-expert-stops-saving-for-retirement/",
-    "source": "Business Insider Japan",
-    "published": "Mon, 09 Nov 2026 21:00:00 GMT",
-    "summary": "AIによって10年以内に人類が滅亡する確率が50％を超えていると考えているネイト・ソアレス氏は、老後のための貯蓄をやめたと話しています。",
-    "image": "https://media.loom-app.com/loom/2026/10/27/871e391e-f83e-43b2-8a5b-f414f7bb92b6/original.jpg?w=1200",
-    "fetched_at": "2026-11-10 06:04:52",
-    "ja_summary": "・AI専門家のネイト・ソアレス氏は、AIによる人類滅亡の確率が10年以内に50％を超えると予測している。\n・この脅威を深刻に捉え、同氏は老後のための貯蓄を中止した。\n・AIの急速な発展に対する極めて悲観的な見方が示されている。"
-  },
-  {
-    "title": "【佐藤優】生成AIで世界に勝てない日本は「デジタル属国」に成り下がるのか？",
-    "link": "https://www.businessinsider.jp/article/2611-sato-masaru-ai-digital-zokkoku/",
-    "source": "Business Insider Japan",
-    "published": "Mon, 09 Nov 2026 12:00:00 GMT",
-    "summary": "AI技術で先行する大国たちに対し、日本は「デジタル属国」になるしかないのか。佐藤優が半導体やインフラ、企業の判断能力の観点から今後の戦略を読み解きます。",
-    "image": "https://media.loom-app.com/loom/2026/11/09/dd002018-3d0a-4105-946d-8d19724f5a1e/original.jpg?w=1200",
-    "fetched_at": "2026-11-10 06:04:52",
-    "ja_summary": "・生成AIの遅れにより、日本が他国の技術に依存する「デジタル属国」化する危機がある。\n・半導体やインフラ、企業の意思決定能力の欠如が日本の弱点となっている。\n・今後の生存には、これらを再構築する戦略的な国家指針と経営判断が不可欠である。"
-  },
-  {
-    "title": "Meta のAIリリース年表",
-    "link": "https://note.com/npaka/n/nbd3793bfaf5c",
-    "source": "note (npaka)",
-    "published": "Tue, 10 Nov 2026 06:03:31 +0900",
-    "summary": "<p id=\"e911f3bd-2241-4d0f-8bae-fc799bfed3ed\" name=\"e911f3bd-2241-4d0f-8bae-fc799bfed3ed\">Metaの主なAIモデル・サービス・API・機能のリリース年表をまとめました。</p><h2 id=\"9edf8286-7534-45d0-adf8-053fe0ef22f5\" name=\"9edf8286-7534-45d0-adf8-053fe0ef22f5\">2023年</h2><br /><a href=\"https://note.com/npaka/n/nbd3793bfaf5c\">続きをみる</a>",
-    "image": "https://assets.st-note.com/production/uploads/images/334294933/rectangle_large_type_2_c1db56c06f9eda560dcd2e037fa74ed9.png?width=800",
-    "fetched_at": "2026-11-10 06:04:53",
-    "ja_summary": "・Metaが開発した主要なAIモデル、サービス、API、機能のリリース年表を整理。\n・2023年以降の技術展開やアップデートの流れを把握できる。\n・AI関連の重要リリースを時系列で振り返るための資料。"
   }
 ]
