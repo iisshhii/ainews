@@ -1,5 +1,145 @@
 [
   {
+    "title": "ファミマ「飲料補充ロボット」を本格導入　24時間稼働で、従業員の作業時間を「7割」削減",
+    "link": "https://www.itmedia.co.jp/business/articles/2611/19/news062.html",
+    "source": "ITmedia ビジネス",
+    "published": "Thu, 19 Nov 2026 15:09:00 +0900",
+    "summary": "ファミリーマートは2027年1月から、AIを搭載した飲料補充ロボットとデジタル在庫棚を順次導入する。店舗従業員の補充作業時間を約7割削減する狙いだ。",
+    "image": "https://image.itmedia.co.jp/business/articles/2611/19/cover_news062.jpg",
+    "fetched_at": "2026-11-23 03:52:16",
+    "ja_summary": "・ファミマが2027年1月からAI搭載の飲料補充ロボットを本格導入\n・デジタル在庫棚との連携で、補充作業時間を約7割削減\n・人手不足解消と店舗運営の効率化を加速させる狙い"
+  },
+  {
+    "title": "Obsidian 入門 (2) - Copilot for Obsidian の使い方",
+    "link": "https://note.com/npaka/n/na738ca921d0a",
+    "source": "note (npaka)",
+    "published": "Sun, 22 Nov 2026 23:54:53 +0900",
+    "summary": "<p id=\"84df06b7-3692-414a-80e3-084ca3ab06f1\" name=\"84df06b7-3692-414a-80e3-084ca3ab06f1\">「Copilot for Obsidian」にCodexを設定し、ノートの要約・下書き・推敲まで試します。</p><br /><br /><a href=\"https://note.com/npaka/n/na738ca921d0a\">続きをみる</a>",
+    "image": "https://assets.st-note.com/production/uploads/images/339409406/rectangle_large_type_2_f30f355c3cb5cc839562aef04ecdfd34.png?width=800",
+    "fetched_at": "2026-11-23 03:52:31",
+    "ja_summary": "・Obsidianに「Copilot」を導入し、AI（Codex）を活用する方法を解説。\n・ノートの自動要約や下書き作成、文章の推敲手順を紹介。\n・メモアプリObsidianの利便性をAIで向上させる活用ガイド。"
+  },
+  {
+    "title": "Perplexity and Intelligence",
+    "link": "https://openai.com/index/perplexity-and-intelligence",
+    "source": "OpenAI",
+    "published": "Sun, 22 Nov 2026 00:00:00 GMT",
+    "summary": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/6rIIhCRSKrhIfe385Onmcz/aca2d190553c62fd5d49efb5d5ce1eb6/perplexity-and-intelligence-social.png?w=1600&amp;h=900&amp;fit=fill",
+    "fetched_at": "2026-11-23 03:52:36",
+    "ja_summary": "・「パープレキシティ（困惑度）」がAIモデルの進化を測る共通指標として注目されている。\n・開発者が新しいAIの能力を評価する際、統一された基準を持つ助けとなる。\n・AI性能を客観的に比較・検証するための標準的なアプローチを示唆する内容。"
+  },
+  {
+    "title": "Combatting adversarial distillation",
+    "link": "https://openai.com/index/combatting-adversarial-distillation",
+    "source": "OpenAI",
+    "published": "Fri, 20 Nov 2026 10:00:00 GMT",
+    "summary": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/5SUtPGdssrttC7LfP1yoJ1/b6b000846ab3576c1735c29534ab20b0/combatting-adversarial-distillation-social.png?w=1600&amp;h=900&amp;fit=fill",
+    "fetched_at": "2026-11-23 03:52:36",
+    "ja_summary": "・OpenAIがAIモデルの能力を盗む「敵対的蒸留」への対策を強化。\n・学習時の防御、検知、強制措置を組み合わせた多層的な保護戦略を採用。\n・AIモデルの知的財産を守り、不正な能力抽出を防ぐ体制を構築。"
+  },
+  {
+    "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+    "link": "https://openai.com/business/customer-stories/hebbia",
+    "source": "OpenAI",
+    "published": "Fri, 20 Nov 2026 00:00:00 GMT",
+    "summary": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/70gWqYyqb096it9EoD7OqI/5df8cad1c7fdf2a4e942c3183a10f405/hebbia-smoked-depth-social.png?w=1600&amp;h=900&amp;fit=fill",
+    "fetched_at": "2026-11-23 03:52:36",
+    "ja_summary": "・Hebbiaが次世代AI「GPT-6 Astra」を金融リサーチで試験運用。\n・情報収集範囲の拡大や引用精度の向上を確認。\n・レポートの構成品質も高まり、実務での有効性を実証した。"
+  },
+  {
+    "title": "Can AI help scientists identify promising drug candidates?",
+    "link": "https://openai.com/index/introducing-medchembench",
+    "source": "OpenAI",
+    "published": "Fri, 20 Nov 2026 00:00:00 GMT",
+    "summary": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/37ZvKdwVigsgJ7G3FMr4Nb/12854063a79d19d63278704bf54e3010/introducing-medchembench-social.png?w=1600&amp;h=900&amp;fit=fill",
+    "fetched_at": "2026-11-23 03:52:36",
+    "ja_summary": "AIが創薬の初期段階で候補化合物を適切に選別できるかを評価する新ベンチマーク「MedChemBench」が登場。\nAIによる分子構造の解析や実験データに基づく推論能力を検証し、創薬プロセスの効率化を目指す。"
+  },
+  {
+    "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+    "link": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+    "source": "OpenAI",
+    "published": "Thu, 19 Nov 2026 08:00:00 GMT",
+    "summary": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/1GmNPxrS3qwhYU0t43dsaa/0df53811b9acf8f9699ace630362f112/performance-factory-social.png?w=1600&amp;h=900&amp;fit=fill",
+    "fetched_at": "2026-11-23 03:52:37",
+    "ja_summary": "・OpenAIはChatGPTの高速化を維持するため「Performance Factory」を構築。\n・AIモデル「Codex」を活用し、パフォーマンス低下の原因を自動検知・修正する。\n・属人化していた最適化作業をワークフロー化し、開発効率と応答速度を両立。"
+  },
+  {
+    "title": "Anthropic launches roadshow for proposed initial public offering",
+    "link": "https://www.anthropic.com/news/roadshow-launch",
+    "source": "Anthropic (News)",
+    "published": "Tue, 10 Nov 2026 00:00:00 +0000",
+    "summary": "Today Anthropic, PBC launched the roadshow for its proposed initial public offering of its Class A common stock.",
+    "image": "https://assets.claude.com/6d4a0d28992ade92d6fa63646fd9c9d318245c6c.jpg",
+    "fetched_at": "2026-11-23 03:52:37",
+    "ja_summary": "・AI企業のAnthropicが新規株式公開（IPO）に向けたロードショーを開始。\n・クラスA普通株の公開に向けた投資家向けの活動が本格化。"
+  },
+  {
+    "title": "Introducing Claude Fable 5.2 and Claude Mythos 5.2",
+    "link": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+    "source": "Anthropic (News)",
+    "published": "Mon, 09 Nov 2026 00:00:00 +0000",
+    "summary": "Our most capable models for daunting technical work, Claude Fable 5.2 and Claude Mythos 5.2 set a new bar in coding, finance, and the sciences.",
+    "image": "https://assets.claude.com/21b3240f9264f8e4c8ab1390e2702cf1401b2367.jpg",
+    "fetched_at": "2026-11-23 03:52:37",
+    "ja_summary": "・新モデル「Claude Fable 5.2」「Claude Mythos 5.2」を発表。\n・コーディング、金融、科学分野における技術的タスクの性能を大幅に向上。\n・専門的かつ高度な業務を支援する最上位モデルとして提供を開始。"
+  },
+  {
+    "title": "AI for Science expands to foundations and research institutions",
+    "link": "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions",
+    "source": "Anthropic (News)",
+    "published": "Wed, 28 Oct 2026 00:00:00 +0000",
+    "summary": "We’re highlighting 20 scientific foundations, institutions, and research groups around the world that we’ve partnered with in an expansion of our AI for Science program.",
+    "image": "https://assets.claude.com/470508b8c3c653e1e53e59e9818e8e63761dc4b6.jpg",
+    "fetched_at": "2026-11-23 03:52:37",
+    "ja_summary": "・Googleの「AI for Science」プログラムが対象を拡大。\n・世界中の20の科学財団・研究機関と新たにパートナーシップを締結。\n・AIを活用した科学研究の加速と推進を強化する。"
+  },
+  {
+    "title": "Speaker Security BSides 2026",
+    "link": "https://speakerdeck.com/amaurybsouza/bsides-sp",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-11-22T08:15:28-05:00",
+    "summary": "Mais do que conteúdo a Security BSides é um grande ponto de networking de todos os níveis, de todas as categorias, basta explorá-los. A Security BSides é um evento que reforça a cena hacking em sua raiz",
+    "image": "https://files.speakerdeck.com/presentations/aa74eb1bc8914bb08539f793da505df9/preview_slide_0.jpg?41474488",
+    "fetched_at": "2026-11-23 03:52:40",
+    "ja_summary": "・「Security BSides 2026」の登壇者募集が開始。\n・初心者から専門家までが集う、ハッキング文化を重視したネットワーキングイベント。\n・技術交流を通じ、ハッカーコミュニティのさらなる活性化を目指す。"
+  },
+  {
+    "title": "Fable 5.2でGTA 6 Osaka Cityを作ってみた",
+    "link": "https://qiita.com/7mpy/items/5710fef43ba0e59204c6",
+    "source": "Qiita (Popular)",
+    "published": "2026-11-12T11:33:49+09:00",
+    "summary": "ここから遊べます\n\nhttps://github30.github.io/fable52-gta6/\n\n\n「GTA 6のようなオープンワールドゲームを、大阪を舞台にブラウザで動かしたい」——そんなテーマで、Claude Fable 5.2を使ってゲームを作ってみました。\n\n完成したのは、通天閣・新世界から天王寺・あべのハルカス周辺を自由に歩き回り、車を運転し、ミッションに挑戦できる3Dサンドボック",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0MzU3MzUlMkY3MTE0ZmM1NTUwNDdkNDcxMTkyYjQ0ZTZmZDRkODI4N2E2ZjIyNDVhJTJGeF9sYXJnZS5wbmclM0YxNjg0MTEwMDQ2P2l4bGliPXJiLTQuMS4xJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz02Mzc1ODY5Y2ExMDM0YzFmNzZjY2RkYmE5Y2JhOTcwYw%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D08949436fc9b26ad84a8ef3a9530d628?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9RmFibGUlMjA1LjIlRTMlODElQTdHVEElMjA2JTIwT3Nha2ElMjBDaXR5JUUzJTgyJTkyJUU0JUJEJTlDJUUzJTgxJUEzJUUzJTgxJUE2JUUzJTgxJUJGJUUzJTgxJTlGJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9YjEyYjhlNzEwNTgzM2I4Y2E4Yzk4YmZlMjE4M2JiYWM&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDA3bXB5JnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9OWNkY2VjN2Q3MzA1NTVmOWI2ZjNlYjZmMDJmMDJiNWU&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=13784e67372b3cdcc378414c6fc505f0",
+    "fetched_at": "2026-11-23 03:52:41",
+    "ja_summary": "・ブラウザで遊べる大阪舞台のオープンワールドゲームを「Fable 5.2」で開発。\n・通天閣からあべのハルカス周辺を再現し、移動や運転、ミッションが可能。\n・GitHub上で誰でもすぐにプレイできる3Dサンドボックス作品。"
+  },
+  {
+    "title": "新しいRAG「Decision RAG」は速い！安い！上手い！🍜",
+    "link": "https://qiita.com/kikuziro/items/cc82e6e4e4c215eac99f",
+    "source": "Qiita (Popular)",
+    "published": "2026-11-09T12:58:37+09:00",
+    "summary": "## ⚖️ はじめに\n\n最近Jevをはじめとした判断特化型のモデルが続々と出てきていますよね。文章は書かずに「はい」の確からしさだけを返してくれるモデルです。この判断モデルをRAGの検索に使う「DecisionRAG」という論文が出ていたので自分なりに噛み砕いてみました。後半は通常のRAG（以降NaiveRAGと記載）と比較検証をしてみました。\n\nhttps://arxiv.org/abs/261",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGMjkzMzQ4OSUyRnByb2ZpbGUtaW1hZ2VzJTJGMTc5Mjk5MzU2Nz9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9ODk4NWM0OTA2NDA3NmU1MjY5YjFkZDc0Mzc0YzE4N2I%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Dda5369d529aa115708e519ff3312efd0?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUU2JTk2JUIwJUUzJTgxJTk3JUUzJTgxJTg0UkFHJUUzJTgwJThDRGVjaXNpb24lMjBSQUclRTMlODAlOEQlRTMlODElQUYlRTklODAlOUYlRTMlODElODQlRUYlQkMlODElRTUlQUUlODklRTMlODElODQlRUYlQkMlODElRTQlQjglOEElRTYlODklOEIlRTMlODElODQlRUYlQkMlODElRjAlOUYlOEQlOUMmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz05MTEwZDlkZjQxNGY2MmU3ODA1OGUwYzQwMDhmMjI2MA&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBraWt1emlybyZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWM3OGI3M2Q5YTRjOWFhNTIyZjZmYzE4YWMzN2YwOThh&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=9cfdbea67bc272595c76e4b67887c2c0",
+    "fetched_at": "2026-11-23 03:52:42",
+    "ja_summary": "・「Decision RAG」は、文章生成を行わず「判断」のみを行うモデルをRAGの検索に導入した手法。\n・従来のRAGと比較して、回答の精度を維持しつつ、処理速度の向上とコスト削減を実現。\n・判断特化型モデルの活用により、検索・評価プロセスの効率化を目指した新たなアプローチ。"
+  },
+  {
+    "title": "誤ってマルウェアを実行してしまった私が、AIとREA（Reverse Engineer Anything）に救われた話",
+    "link": "https://qiita.com/TOMOSIA-LinhND/items/3dec10762fcc224d9133",
+    "source": "Qiita (Popular)",
+    "published": "2026-10-30T18:45:50+09:00",
+    "summary": ":::note alert\n**マルウェアおよびC2サーバーに関する警告**\n本記事は、Google検索やRedditで見つけた **`CxxCxx Pro`** のアクティベーター（有効化ツール）を装ったマルウェアを、私が実際にダウンロード・実行してしまった際の体験談と解析記録です。\n\n安全のため、以下に記載する配布元URLおよびC2サーバー（指令サーバー）のIPアドレス・ドメインには**絶対に",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0MjUxMDQzJTJGYmE5NGRmODgwNTQ4ZjE0N2QxNDQyYzVkY2I1MDlmNzk5ZjBlNjkyNCUyRmxhcmdlLnBuZyUzRjE3NjQ4MTQ5Mjc_aXhsaWI9cmItNC4xLjEmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPWQ4N2UyN2MyZTdhNjY4ZTQ1MGU4NGIwYWJjOTZhN2Fl%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkZiNmZkNGVlODEwMGExN2E2YjEyOWU2MzE1MWM1OWU4M2RlNTNiOGIwJTJGb3JpZ2luYWwuanBnJTNGMTc2MjA1MjQ5MD9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz02MGRhYmExYzU0N2I5YTc0YTI5ZTZmZTdlMjllYTJlOQ%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3Dcec465e7c12588481e9b1f4c6c331103?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUU4JUFBJUE0JUUzJTgxJUEzJUUzJTgxJUE2JUUzJTgzJTlFJUUzJTgzJUFCJUUzJTgyJUE2JUUzJTgyJUE3JUUzJTgyJUEyJUUzJTgyJTkyJUU1JUFFJTlGJUU4JUExJThDJUUzJTgxJTk3JUUzJTgxJUE2JUUzJTgxJTk3JUUzJTgxJUJFJUUzJTgxJUEzJUUzJTgxJTlGJUU3JUE3JTgxJUUzJTgxJThDJUUzJTgwJTgxQUklRTMlODElQThSRUElRUYlQkMlODhSZXZlcnNlJTIwRW5naW5lZXIlMjBBbnl0aGluZyVFRiVCQyU4OSVFMyU4MSVBQiVFNiU5NSU5MSVFMyU4MiU4RiVFMyU4MiU4QyVFMyU4MSU5RiVFOCVBOSVCMSZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTcyMTlkMTBlZmQ1YzM1ODlmMGMxZjljOGZkMzVmMzU5&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBUT01PU0lBLUxpbmhORCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWU1ZWE2NGExMDhkNzQ5ZDlhMDBmYTIwNjVjZGRkMWMx&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=5qCq5byP5Lya56S-VE9NT1NJQSBWSUVUIE5BTQ&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=b8b70469171508ea20844e17a2e2a107",
+    "fetched_at": "2026-11-23 03:52:44",
+    "ja_summary": "・ソフトのアクティベーターを装ったマルウェアを誤って実行するトラブルが発生。\n・AIと解析ツール「REA」を活用し、自力でマルウェアの挙動を特定・無害化することに成功。\n・安易なファイル実行の危険性と、技術的ツールによる安全な調査手法を実体験として共有。"
+  },
+  {
     "title": "ブルーライトカットメガネ、パソコン作業の「目の疲労」を軽くする効果は短期試験で確認されず",
     "link": "https://japan.cnet.com/article/35255272/",
     "source": "CNET Japan",
@@ -858,145 +998,5 @@
     "image": "https://japan.cnet.com/storage/thumbnails/thumb-184xauto-1360683-file.jpg",
     "fetched_at": "2026-11-21 12:56:50",
     "ja_summary": "・消費者庁が個人情報流出時の被害を防ぐ6つの対策を公開。\n・ログインID・パスワードの変更や、利用明細の確認を推奨。\n・不正アクセスによる二次被害を未然に防ぐための注意喚起。"
-  },
-  {
-    "title": "AIはホワイトカラーの仕事を奪っていない？…米雇用統計で見えた「採用増」と「求められるスキルの変化",
-    "link": "https://www.businessinsider.jp/article/2611-jobs-report-white-collar-job-growth-ai/",
-    "source": "Business Insider Japan",
-    "published": "Thu, 19 Nov 2026 23:30:00 GMT",
-    "summary": "ホワイトカラーの採用は10月も堅調で、専門・ビジネスサービスでは7万人の雇用が増加しました。エコノミストは、AIが需要の高い職種に求められるスキルを変えつつあると指摘しています。",
-    "image": "https://media.loom-app.com/loom/2026/11/08/884e5663-e1ef-48e2-acce-6fdf5e163b7e/original.jpg?w=1200",
-    "fetched_at": "2026-11-21 12:56:50",
-    "ja_summary": "・AI普及下でもホワイトカラーの雇用は堅調に増加している。\n・AIは仕事を奪うのではなく、求められるスキルを変化させている。\n・ビジネスパーソンは職種に応じたスキルアップが今後さらに重要となる。"
-  },
-  {
-    "title": "ジェフ・ベゾス氏、ビッグテックを責めてもアメリカの問題は解決しないと語る",
-    "link": "https://www.businessinsider.jp/article/2611-jeff-bezos-big-tech-political-technique-villain/",
-    "source": "Business Insider Japan",
-    "published": "Thu, 19 Nov 2026 22:45:00 GMT",
-    "summary": "アマゾン創業者ジェフ・ベゾス氏は、ウォール街の金融界に続き、政治家たちが巨大IT企業（ビッグテック）を新たな「悪役」に仕立て上げていると語った。\nベゾス氏は「テクノロジー業界の大半の人々は、ただ黙々と目の前の仕事に取り組み続けたいと願っているだけだ」と擁護した。\nデータセンター建設に伴う影響、雇用喪失への不安、そしてAI監視ツールの普及が、いずれもビッグテックに対する世間の反発をあおる要因となっている。",
-    "image": "https://media.loom-app.com/loom/2026/11/18/6dfaf108-cb3a-4d19-b995-7b2ac384d175/original.jpg?w=1200",
-    "fetched_at": "2026-11-21 12:56:50",
-    "ja_summary": "・ベゾス氏が、政治家らがビッグテックを新たな「悪役」として糾弾している現状を批判。\n・雇用不安やAI監視への懸念から世間の反発が高まる中、業界人は黙々と仕事に励むべきと擁護。\n・巨大企業を責めるだけでは、アメリカが抱える根本的な諸問題は解決しないとの見解を示した。"
-  },
-  {
-    "title": "Disney+とHulu、26年末までに完全統合へ",
-    "link": "https://www.businessinsider.jp/article/2611-disney-hulu-app-streaming-strategy-josh-damaro/",
-    "source": "Business Insider Japan",
-    "published": "Thu, 19 Nov 2026 22:30:00 GMT",
-    "summary": "動画配信サービス「Hulu」の全機能は、26年末までに「Disney+」へ完全に統合される。\n社内で「Project Gemini」と呼ばれるこの統合計画は、数年前から極秘裏に進められてきたものだ。\nこの一元化されたストリーミング体験は、ジョシュ・ダマロCEOが掲げる「スーパーアプリ」構築構想の中核をなす一環である。",
-    "image": "https://media.loom-app.com/loom/2026/11/18/fe8d7431-49e9-4f32-ab58-f21cb3617668/original.jpg?w=1200",
-    "fetched_at": "2026-11-21 12:56:50",
-    "ja_summary": "・2026年末までにHuluの全機能がDisney+へ完全統合される。\n・極秘裏に進められてきた「Project Gemini」計画に基づくもの。\n・ディズニーが進める「スーパーアプリ」構想の中核を担う一元化戦略。"
-  },
-  {
-    "title": "「遅くなった」の原因調査から修正案、回復確認までAIが担当　OpenAIがChatGPTの速度を守る社内の仕組みを公開",
-    "link": "https://www.techno-edge.net/article/2026/11/20/5779.html",
-    "source": "TechnoEdge",
-    "published": "Fri, 20 Nov 2026 09:32:04 +0900",
-    "summary": "OpenAIはPerformance Factoryで速度低下を自動診断・修正まで行う仕組みを公開。AI同士で検証を重ね、人が最終判断。運用教訓と今後の改善を示す。",
-    "image": "https://www.techno-edge.net/imgs/rss/35789.png",
-    "fetched_at": "2026-11-21 12:56:54",
-    "ja_summary": "・OpenAIはChatGPTの速度低下を自動で診断・修正する「Performance Factory」を導入。\n・AI同士で修正案を検証し、人間が最終判断することで効率的な運用を実現。\n・この自動化の仕組みを公開し、今後の継続的な改善プロセスを提示した。"
-  },
-  {
-    "title": "The Silent Consensus",
-    "link": "https://openai.com/index/the-silent-consensus",
-    "source": "OpenAI",
-    "published": "Wed, 18 Nov 2026 10:00:00 GMT",
-    "summary": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
-    "image": "https://images.ctfassets.net/kftzwdyauwt9/3hoPgi2r6EgMRVWO3fPVDh/47ed0d21fdd9f0aca529917ba3ece558/the-silent-consensus-seo-soft-focus-v3.png?w=1600&amp;h=900&amp;fit=fill",
-    "fetched_at": "2026-11-21 12:56:55",
-    "ja_summary": "・OpenAIのDean Ball氏が、AIの進化が社会に与える影響と制御のあり方を考察。\n・AIが高度化する中で、人間がいかに既存の社会制度の主導権を維持できるかが課題。\n・技術革新と社会システムの両立を目指す戦略的な視点を提示。"
-  },
-  {
-    "title": "I Teach AWS in Japanese.​  Someday, in English.​",
-    "link": "https://speakerdeck.com/maijun/i-teach-aws-in-japanese-dot-someday-in-english",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-11-20T19:24:46-05:00",
-    "summary": "Lightning talk at \"English LT Night\" (JAWS-UG Sainokuni Saitama × JAWS-UG Sales).\n\nI'm a cloud instructor at Trainocate Japan. I hold all AWS certifications, but my English is still beginner level.\nIn this talk, I share my English experiences at AWS re:Invent 2024 & 2025 (hotel check-in, re:Play, GameDay / Jam), my goal to teach AWS in English to people outside Japan, and my challenge: 10 minutes of English practice every day, and talking with my GameDay / Jam team at re:Invent 2026 without translation apps.\n\nThis LT is my first step. Let's practice English together in Las Vegas!\n\n---\nJAWS-UG さいたま支部 × JAWS-UG Sales支部「English LT Night」での英語LTです。\nAWS全冠でも英語は初心者レベルの私が、re:Inventでの英語体験と「いつか英語でAWSを教える」という目標、そしてre:Invent 2026への挑戦を話しました。\n\n#jawsug_sainokuni #jawsug_sales",
-    "image": "https://files.speakerdeck.com/presentations/84506182ff744fb8a014bcee4a5749fa/preview_slide_0.jpg?41460424",
-    "fetched_at": "2026-11-21 12:56:59",
-    "ja_summary": "AWS認定全冠を持つ講師が、英語力向上のために「いつか英語でAWSを教える」という目標を掲げた。\nre:Inventでの実体験を糧に、2026年の現地開催に向けた継続的な学習と英語での登壇を目指す。\n初歩からの挑戦を表明し、コミュニティと共に成長していく意欲を示した。"
-  },
-  {
-    "title": "AI時代のTechLeadの問い〜Tech Lead Conference 2026 Autumn / questions-for-tech-leads-in-the-age-of-ai",
-    "link": "https://speakerdeck.com/haru860/tech-lead-conference-2026-autumn-ai-jidai-no-techlead-no-toi",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-11-20T18:38:49-05:00",
-    "summary": "Tech Lead Conference 2026 Autumn( 2026/11/6（金）) の、「キーノートセッション①AIがコードを書く時代に、組織の中でエンジニアをどう育てるか」の冒頭資料です。\n\n■イベントページ\nhttps://sansan.connpass.com/event/400516/\nhttps://eight-event.8card.net/techlead-conference/",
-    "image": "https://files.speakerdeck.com/presentations/3d0efe7ff1494abf9345e8798a1c8ee2/preview_slide_0.jpg?41460132",
-    "fetched_at": "2026-11-21 12:56:59",
-    "ja_summary": "・2026年11月開催の「Tech Lead Conference」のキーノート資料。\n・AIがコードを生成する時代における、エンジニア育成と組織のあり方がテーマ。\n・AI導入が進む環境下で、テックリードが担うべき役割と育成の指針を提示。"
-  },
-  {
-    "title": "【朗報】Microsoft 365 CopilotがOneDriveのファイルを直接編集できるようになってた！CoworkなしでGitHub Copilotみたいに使える件",
-    "link": "https://qiita.com/yuyanz/items/c3bb4801c105d96fa79d",
-    "source": "Qiita (Popular)",
-    "published": "2026-11-19T17:44:06+09:00",
-    "summary": "\n## はじめに\n\nMicrosoft 365 Copilotくん、いつの間にかめちゃくちゃ進化していました。\n\n以前、Copilotのカスタム指示とOneDriveを組み合わせて、AIに自分専用の知識を蓄積させる仕組みを考えていました。\n\nただ、当時はファイルの保存先や既存ファイルの編集に制約があり、正直なところ少し使いづらい部分もありました。\n\nところが、今日（2026年11月19日）改めて試",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGMjQ4MzI3JTJGcHJvZmlsZS1pbWFnZXMlMkYxNzc1MDQxMzg1P2l4bGliPXJiLTQuMS4xJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz1iZjUzNjEyOTJmNWM1ODdlZjAwZWFmZDQ4OTcxNTIxMQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D60649111dd89f0463437686305867948?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJTkwJUU2JTlDJTk3JUU1JUEwJUIxJUUzJTgwJTkxTWljcm9zb2Z0JTIwMzY1JTIwQ29waWxvdCVFMyU4MSU4Q09uZURyaXZlJUUzJTgxJUFFJUUzJTgzJTk1JUUzJTgyJUExJUUzJTgyJUE0JUUzJTgzJUFCJUUzJTgyJTkyJUU3JTlCJUI0JUU2JThFJUE1JUU3JUI3JUE4JUU5JTlCJTg2JUUzJTgxJUE3JUUzJTgxJThEJUUzJTgyJThCJUUzJTgyJTg4JUUzJTgxJTg2JUUzJTgxJUFCJUUzJTgxJUFBJUUzJTgxJUEzJUUzJTgxJUE2JUUzJTgxJTlGJUVGJUJDJTgxQ293b3JrJUUzJTgxJUFBJUUzJTgxJTk3JUUyJTgwJUE2JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9NTc2MjFmOGJkMDUyNjVmZDBjZmVjMWU1YmE0YTFhNzk&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDB5dXlhbnomdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz0wNzRiMzUzNzI5YmJjM2EzMjFkNWNlN2Y0NWQ2MzY0MA&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=4270e7336cdd3389064bee18a8c885a6",
-    "fetched_at": "2026-11-21 12:57:00",
-    "ja_summary": "Microsoft 365 CopilotがOneDrive上のファイルを直接編集可能になり、利便性が大幅に向上した。\nGitHub Copilotのような感覚で、既存ファイルを直接AIで操作・更新できる。\n従来の制約が解消され、AIによる業務効率化がより直感的かつスムーズに実現可能となった。"
-  },
-  {
-    "title": "アメリカの中間選挙で大きく崩れた｢AI楽観シナリオ｣､今後｢修正すべき重要なポイント｣はどこにあるのか | 政治・経済・投資 | 東洋経済オンライン",
-    "link": "https://toyokeizai.net/articles/-/965474?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-    "source": "東洋経済オンライン",
-    "published": "Sat, 21 Nov 2026 06:30:00 +0900",
-    "summary": "アメリカ中間選挙で民主党が大躍進し､テキサス州でも歴史的な政権交代が実現。これにより､データセンター建設規制が突然｢今ここ｣での課題へと変わりました。今後のAIやハイテク企業の動向､そして日本企業へ…",
-    "image": "https://tk.ismcdn.jp/mwimgs/0/e/1200w/img_0e9f1be5fba8cf33127ebb826281b9b9117968.jpg?nextgen=false",
-    "fetched_at": "2026-11-21 08:03:09",
-    "ja_summary": "・米中間選挙での民主党躍進により、AIの電力源となるデータセンター建設への規制が現実的な政治課題に浮上した。\n・AI産業の爆発的な拡大には制約がかかる可能性があり、ハイテク企業の成長シナリオを再考する必要がある。\n・関連する日本企業も、データセンターを取り巻く規制強化と電力インフラの動向を注視すべき局面にある。"
-  },
-  {
-    "title": "Claudeを使い「リーマン予想」を証明か　Anthropic数学者が発表　Lean検証も通過、数学界が精査へ",
-    "link": "https://japan.cnet.com/article/35255245/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "米アンソロピックの数学者Levent Alpöge氏は11月20日、生成AI「Claude」と研究を進め、素数の分布に関わる難問「リーマン予想」の証明を見つけたとする声明を個人サイトで公開した。米マサチューセッツ工科大学（MIT）の研究者は、公開された証明コードが機械検証を通過したと報告した。追加の検証も続いている。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35255245/\"><img src=\"https://japan.cnet.com/storage/thumbnails/thumb-184xauto-1342947-file.jpg\" /></a>",
-    "image": "https://japan.cnet.com/storage/thumbnails/thumb-184xauto-1342947-file.jpg",
-    "fetched_at": "2026-11-21 08:03:27",
-    "ja_summary": "・Anthropic社の数学者が、生成AI「Claude」を活用して数学の超難問「リーマン予想」の証明を発表。\n・証明コードが機械検証ソフト「Lean」を通過し、現在は専門家による精査が進められている。\n・数学史上最大の難問が解決された可能性があり、今後の検証結果が注目されている。"
-  },
-  {
-    "title": "ドンキの「AI社員」近藤あい、店頭ポスターやSNSに起用　11月23日正式デビュー",
-    "link": "https://japan.cnet.com/article/35255239/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "ドン・キホーテの店頭ポスターやSNSで商品を紹介するAIキャラクター「近藤あい」が、11月23日の勤労感謝の日に正式デビューする。ドン・キホーテを傘下に持つパン・パシフィック・インターナショナルホールディングス（PPIH）が11月19日に発表した。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35255239/\"><img src=\"https://japan.cnet.com/storage/thumbnails/thumb-184xauto-1360677-file.jpg\" /></a>",
-    "image": "https://japan.cnet.com/storage/thumbnails/thumb-184xauto-1360677-file.jpg",
-    "fetched_at": "2026-11-21 08:03:27",
-    "ja_summary": "・ドン・キホーテのAIキャラクター「近藤あい」が11月23日に正式デビュー。\n・店頭ポスターやSNSで、商品の紹介やプロモーションを担う。\n・運営元のPPIHが、デジタル活用による販促強化の一環として発表。"
-  },
-  {
-    "title": "「Google AI Ultra」のYouTube Premium、同居家族最大5人と共有可能に　日本も対象",
-    "link": "https://japan.cnet.com/article/35255226/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "Googleの有料AIプラン「Google AI Ultra」に付属するYouTube Premiumが、日本でもファミリープランに変更された。従来は契約者本人だけが利用できる個人プランだったが、契約者本人に加え、同居する家族最大5人も追加料金なしで利用できる。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35255226/\"><img src=\"https://japan.cnet.com/storage/thumbnails/thumb-184xauto-1360641-file.jpg\" /></a>",
-    "image": "https://japan.cnet.com/storage/thumbnails/thumb-184xauto-1360641-file.jpg",
-    "fetched_at": "2026-11-21 08:03:27",
-    "ja_summary": "・有料AIプラン「Google AI Ultra」の特典であるYouTube Premiumがファミリープランに対応。\n・契約者本人に加え、同居家族最大5人まで追加料金なしで利用可能。\n・日本国内のユーザーも対象となる。"
-  },
-  {
-    "title": "Gemini 4 Hydrogen の概要",
-    "link": "https://note.com/npaka/n/nf3aa0a193147",
-    "source": "note (npaka)",
-    "published": "Fri, 13 Nov 2026 07:32:14 +0900",
-    "summary": "<p id=\"75baba75-96ba-4312-b3ee-4489e7ae88ad\" name=\"75baba75-96ba-4312-b3ee-4489e7ae88ad\">「Gemini 4 Hydrogen」の概要をまとめました。</p><br /><br /><a href=\"https://note.com/npaka/n/nf3aa0a193147\">続きをみる</a>",
-    "image": "https://assets.st-note.com/production/uploads/images/335439413/rectangle_large_type_2_d2a2b2967c9ff538bf3c154e8fcefa8e.png?width=800",
-    "fetched_at": "2026-11-21 08:03:28",
-    "ja_summary": "・Googleの次世代AIモデル「Gemini 4 Hydrogen」の概要が公開された。\n・詳細な性能や特徴については、引用元の技術解説記事にて確認可能。"
-  },
-  {
-    "title": "「リーマン予想」生成AIが証明か",
-    "link": "https://news.yahoo.co.jp/pickup/6603360?source=rss",
-    "source": "Yahoo!ニュース IT・科学",
-    "published": "Fri, 20 Nov 2026 22:51:15 GMT",
-    "summary": "",
-    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/11/21/d00b86c8f9a4f023a79aeb8803d46e563b9129156b1b04ab19c49a05220f20ed.jpg",
-    "fetched_at": "2026-11-21 08:03:29",
-    "ja_summary": "数学の未解決難問「リーマン予想」に対し、生成AIを活用した新たなアプローチで証明の試みが行われた。\nこの研究はAIが複雑な数学的証明において強力な補助ツールとなり得る可能性を示唆している。\nただし、現時点では検証段階であり、数学界で正式に証明と認められるかは今後の精査が必要。"
   }
 ]
