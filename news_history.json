@@ -1,5 +1,85 @@
 [
   {
+    "title": "【資産4億円を築いた元専業主婦】エヌビディア株いつ売る？次の注目は？／「日本株には投資しない」／最新の保有5銘柄／毎年2000万円以上を取り崩して使う／AIバブル論どう見る？／SNSは｢発信せよ｣ | ビジネス | 東洋経済オンライン",
+    "link": "https://toyokeizai.net/articles/-/965627?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+    "source": "東洋経済オンライン",
+    "published": "Mon, 23 Nov 2026 19:00:00 +0900",
+    "summary": "元高校球児でフリーアナウンサーの上重聡がお送りする資産運用をテーマにした動画シリーズ。いつか「億り人」になれる日を目指して、資産運用の先輩からさまざまな極意を学んでいきます。今回のゲストは、専業主婦…",
+    "image": "https://tk.ismcdn.jp/mwimgs/1/9/1200w/img_194f0d2a9eb2b811004e0f36afaedcfb195088.jpg?nextgen=false",
+    "fetched_at": "2026-11-24 01:16:39",
+    "ja_summary": "要約の生成に失敗しました。"
+  },
+  {
+    "title": "出だしは絶好調のMetaのMuse　利用者の4分の1が買い物に利用",
+    "link": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/052100111/111600191/",
+    "source": "日経クロステック 総合",
+    "published": "",
+    "summary": "AI（人工知能）で苦戦していた米メタが、巻き返しの一手を打った。2026年9月にリリースしたAIエージェントの「Muse」の出だしが絶好調なのだ。",
+    "image": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/052100111/111600191/topm.jpg?20220512",
+    "fetched_at": "2026-11-24 01:16:47",
+    "ja_summary": "要約の生成に失敗しました。"
+  },
+  {
+    "title": "WolvCTF2026 - writeup",
+    "link": "https://zenn.dev/gattoartz/articles/3f302189a1741a",
+    "source": "Zenn Trends",
+    "published": "Mon, 23 Nov 2026 02:53:40 GMT",
+    "summary": "Welcome\nWolvCTF2026( https://wolvctf.io/ ) の私が解いた一部問題のwirteupです。\n今回は一切AIを用いずに解いたため、一部誤りがあるかもしれません。\n英語への翻訳はすべてChatGPTを用いて行われています。\n\nThis is a writeup for some of the challenges I solved in WolvCTF 2026.\nI solved these challenges entirely without using AI, so some parts of my explanations may be i...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--vqQMyssU--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_76:WolvCTF2026%2520-%2520writeup%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%25A1%25E3%2582%2583%25E3%2581%25A1%25E3%2582%2583%25E3%2581%25BE%25E3%2582%258B%2520%252F%2520GattoArtz%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSXhrSUUwYjFDM0JLXzFjOUw5aHpzVkRqNWFweG1RUl9LN1ZEZTBBZ1VHWE1EZTdCOD1zMjUwLWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-11-24 01:16:57",
+    "ja_summary": "*   WolvCTF2026で解いた問題の解説記事。\n*   AIを使わずに解いたため、内容に誤りがある可能性あり。\n*   英語翻訳はChatGPTを使用。"
+  },
+  {
+    "title": "PHP(Laravel向け)のdistrolessイメージを作ろうとしてみる",
+    "link": "https://zenn.dev/fagai/articles/58b7dcf826b5ec",
+    "source": "Zenn Trends",
+    "published": "Sun, 22 Nov 2026 14:35:24 GMT",
+    "summary": "PHPのdistrolessイメージは多少あったものの、あんまり理解もできてないので自分自身でやってみようと思った。\nAIも駆使して色々聞きつつ調べました。\n\n 環境\n\nDocker 29.8.1 / BuildKit / Docker Desktop\nmacOS\n\nで確認した。なので、一部armとしてのディレクトリが存在している。\n\n distrolessって？\nGoogleが提供している、OSやパッケージマネージャー、シェル（bashやshなど）を含まない、アプリケーションの実行に最小限必要な依存関係のみをまとめたDockerコンテナのベースイメージです。\ndistrolessは色ん...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--ABYbLGZj--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:PHP%2528Laravel%25E5%2590%2591%25E3%2581%2591%2529%25E3%2581%25AEdistroless%25E3%2582%25A4%25E3%2583%25A1%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%2592%25E4%25BD%259C%25E3%2582%258D%25E3%2581%2586%25E3%2581%25A8%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25BF%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:fagai%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2ZhMWVlNThiMzMuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-11-24 01:16:57",
+    "ja_summary": "要約の生成に失敗しました。"
+  },
+  {
+    "title": "AIに実装を任せても、理解と判断は手放さない：基準・証拠・説明をGoのAPIで試した記録",
+    "link": "https://zenn.dev/kinuuu/articles/ai-coding-criteria-evidence-explanation",
+    "source": "Zenn Trends",
+    "published": "Sun, 22 Nov 2026 14:21:37 GMT",
+    "summary": "はじめに\n!\nこの記事の要点\n\nAIに実装を任せるときに自分が確かめることを、「基準」「証拠」「説明」の3つの手順に決め、GoのAPIの変更で試しました。\n基準を先に書いておくと、AIが基準の外で決めたことを、後から区別できました。\nテストが確かめていない点は、テストが見ていない項目と、テストの前提と本番との違いから探せます。\n実装は任せても、マージの前に変更の内容を自分の言葉で説明し、採用するかどうかは自分で決めました。\n\n\nAIに実装を任せると、動くものは速くできます。一方で、できあがった変更を前にして、「これをマージしてよい」と言える根拠を、自分の言葉で挙げられない場面がありま...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--Xlyfcb32--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%25E3%2581%25AB%25E5%25AE%259F%25E8%25A3%2585%25E3%2582%2592%25E4%25BB%25BB%25E3%2581%259B%25E3%2581%25A6%25E3%2582%2582%25E3%2580%2581%25E7%2590%2586%25E8%25A7%25A3%25E3%2581%25A8%25E5%2588%25A4%25E6%2596%25AD%25E3%2581%25AF%25E6%2589%258B%25E6%2594%25BE%25E3%2581%2595%25E3%2581%25AA%25E3%2581%2584%25EF%25BC%259A%25E5%259F%25BA%25E6%25BA%2596%25E3%2583%25BB%25E8%25A8%25BC%25E6%258B%25A0%25E3%2583%25BB%25E8%25AA%25AC%25E6%2598%258E%25E3%2582%2592Go%25E3%2581%25AEAPI%25E3%2581%25A7%25E8%25A9%25A6%25E3%2581%2597%25E3%2581%259F%25E8%25A8%2598%25E9%258C%25B2%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:ki%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2VkNDI2MWEyMTUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-11-24 01:16:57",
+    "ja_summary": "AIに実装を任せる際、「基準」「証拠」「説明」の3ステップで確認することの重要性を説く。\n事前に基準を定めることで、AIの判断ミスを早期に発見し、テストの盲点も克服できる。\n最終的な判断は人間が行うべきで、AIによる実装はあくまで補助として活用する。"
+  },
+  {
+    "title": "【TLA+】AIにテストケースを書かせるな。ルールを書け",
+    "link": "https://zenn.dev/karamage/articles/73027ee36796dc",
+    "source": "Zenn Trends",
+    "published": "Sat, 21 Nov 2026 02:12:39 GMT",
+    "summary": "「はて、このテストケース、誰が考えたんだっけ？ ほんとにだいじょぶ？」\nAIに頼めば、実装もテストも数秒で出て、CIが全部グリーンになって\nApproveボタンを押そうとしたとき、ふと背筋がゾッとして手が止まりました。\nなんか嫌な予感。。。\n実装を書いたのはAI\nレビューしたのもAI\nテストを書いたのも同じAI\nま、だいじょぶでしょ！(大丈夫じゃない)\nえぇい、ままよ！ マージしちゃえ！\n\n問い: AIがコードもテストも書く時代に、テストはどう変わるのか？\n結論: 人間は「テストケース」を書くのをやめて、「守るべきルール」を書く\n\n理由: テストケースを考えるのは機械のほうが得意で、ル...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--EstRBN16--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590TLA%252B%25E3%2580%2591AI%25E3%2581%25AB%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E3%2582%25B1%25E3%2583%25BC%25E3%2582%25B9%25E3%2582%2592%25E6%259B%25B8%25E3%2581%258B%25E3%2581%259B%25E3%2582%258B%25E3%2581%25AA%25E3%2580%2582%25E3%2583%25AB%25E3%2583%25BC%25E3%2583%25AB%25E3%2582%2592%25E6%259B%25B8%25E3%2581%2591%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:karamage%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzc0NTAwMmJiMzQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-11-24 01:16:58",
+    "ja_summary": "AIがコードとテストを書く時代、人間は「テストケース」ではなく「守るべきルール」を書くべき。\n機械はテストケース生成に長けているため、人間はより抽象的な「ルールの定義」に集中すべき。\nこれにより、AIの能力を最大限に活かしつつ、開発の質を担保できる。"
+  },
+  {
+    "title": "自分の分析記事1,066本は、決めた書き方をどこまで守っていたのか？ README を数えて、決まりが入った時期と守れていない決まりを確かめる",
+    "link": "https://speakerdeck.com/takayuki0127/46-article-practice-audit",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-11-23T08:50:05-05:00",
+    "summary": "GitHub に置いた分析記事の README 1,066本を見出しと言葉で機械的に数え、自分で決めた書き方の決まりがいつから、どこまで守られているかを確かめました。「言えないこと」の節は266番より前は7.8%、以降は95.1%の記事に付いていましたが、結果を見る前に計画を書いた記事は長めの記事でも5.1%でした。無作為に選んだ25本の流し直しはすべて一致しました（95%区間 86〜100%）。\nnote：https://note.com/takayukimatsuura/n/n986f5ae4ba91\nGitHub：https://github.com/takayuki-0127/japan-open-data-notes/tree/main/articles/F297_article_practice_audit",
+    "image": "https://files.speakerdeck.com/presentations/eccde231bdc34ffead4e36a2bb8ce043/preview_slide_0.jpg?41483140",
+    "fetched_at": "2026-11-24 01:16:59",
+    "ja_summary": "自身が書いた1,066本の分析記事の書き方を検証。\n「言えないこと」の記述ルールは、途中からほぼ守られるようになった。\nただし、ルール策定前に書かれた記事では、このルールはほとんど無視されていた。"
+  },
+  {
+    "title": "手書きをやめた途端、ブログが全部AI臭くなったあなたへ！ マシにする方法教えます",
+    "link": "https://qiita.com/minorun365/items/faa50b7662b86e1df29c",
+    "source": "Qiita (Popular)",
+    "published": "2026-11-22T21:26:14+09:00",
+    "summary": "# 友達のブログが AI slop だらけになって、がっかりしていませんか？\n\nこの1年でブログをAIに書かせる人が増えましたよね。学んだことを面白く書いていた友達まで、情報量ばかりのビジーな記事を出すようになり、読まなくなった人も多いのではないでしょうか。\n\nとはいえ、アンチAIだった私ですら、最近はブログのほとんどを Claude Code に書いてもらっています。先日公開したこちらの記事もそ",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYxNjMzODU2JTJGYzIyNmJjMzRhYzZjNDVhMjFmNWU1MTJkMWM3MmE2ZjA5NzQ5NDU3OCUyRnhfbGFyZ2UucG5nJTNGMTY5OTk1NDk3Nj9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9MTlhZDI4ODRkNmQ2MzEyNjMxZDJkNTBjOTZmOTA5ZjU%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYxZTIwZGI1ZTdlNDA3ZWFlN2I5NzBlYzk5OTg4MGRjOGMzY2MwZjY0JTJGb3JpZ2luYWwuanBnJTNGMTY2NzI3NDk2Mz9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz04OTI0NDcwMDk1MDMyZjUxYmZlNzE3ZjVkOGUzYmE3ZA%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D75789497542ed55352086443c7ba4c98?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUU2JTg5JThCJUU2JTlCJUI4JUUzJTgxJThEJUUzJTgyJTkyJUUzJTgyJTg0JUUzJTgyJTgxJUUzJTgxJTlGJUU5JTgwJTk0JUU3JUFCJUFGJUUzJTgwJTgxJUUzJTgzJTk2JUUzJTgzJUFEJUUzJTgyJUIwJUUzJTgxJThDJUU1JTg1JUE4JUU5JTgzJUE4QUklRTglODclQUQlRTMlODElOEYlRTMlODElQUElRTMlODElQTMlRTMlODElOUYlRTMlODElODIlRTMlODElQUElRTMlODElOUYlRTMlODElQjglRUYlQkMlODElMjAlRTMlODMlOUUlRTMlODIlQjclRTMlODElQUIlRTMlODElOTklRTMlODIlOEIlRTYlOTYlQjklRTYlQjMlOTUlRTYlOTUlOTklRTMlODElODglRTMlODElQkUlRTMlODElOTkmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz0yNTFhMTFjMjVhNjE2OGUwZmY0N2I2NTYxYmUxOTljMw&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBtaW5vcnVuMzY1JnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9YThjYmQyMjBkNDc3NGM1MjI3MzBiOWExMjBkOWZlMGM&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=S0RESeOCouOCuOODo-OCpOODq-mWi-eZuuOCu-ODs-OCv-ODvOagquW8j-S8muekvg&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=4a735cac932545d6b25aca1f115cea24",
+    "fetched_at": "2026-11-24 01:17:00",
+    "ja_summary": "AIでブログ作成が増え、情報量ばかりで面白みに欠ける記事が増加。\nAI臭さをなくすには、Claude CodeなどのAIツールを使いつつ、工夫が必要。\nAI生成記事に「人間味」や「面白さ」を取り戻す方法を紹介。"
+  },
+  {
     "title": "米国市場ナスダック5％安、アンソロピックは支えられず　S&amp;P・ダウ調整局面 (Views)",
     "link": "https://business.nikkei.com/atcl/seminar/19/00030/112100826/",
     "source": "日経ビジネス 最新",
@@ -918,85 +998,5 @@
     "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGMzg5MzQ5MCUyRnByb2ZpbGUtaW1hZ2VzJTJGMTczNDMxNDI0NT9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9OTNjZTdjOWQ2ZWE1ZGY0ZmRmNzA2M2ViMjI4YThhNjU%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkZhNjEwNTBjZTRjMTgyODhlODgzZDY2NTBmMmU2OWMyMGVlZGQyMDBkJTJGb3JpZ2luYWwuanBnJTNGMTY0NTY4NDg3OD9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz03ZjlhZTBjNzVjNzRlYTNjNzNmMjU2YjBlY2NhOWY2Ng%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D03c55e8f0987be08ade11eb834287703?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUU5JTgzJUE4JUU0JUI4JThCJUUzJTgxJThDQ2xhdWRlJUUzJTgxJUEzJUUzJTgxJUJEJUUzJTgxJTg0JUUzJTgyJUI5JUUzJTgzJUE5JUUzJTgyJUE0JUUzJTgzJTg5JUUzJTgxJTk3JUUzJTgxJThCJUU1JTg3JUJBJUUzJTgxJTk3JUUzJTgxJUE2JUUzJTgxJTkzJUUzJTgxJUFBJUUzJTgxJThGJUUzJTgxJUE2JUUzJTgyJUE2JUUzJTgzJUIzJUUzJTgyJUI2JUUzJTgzJUFBJUUzJTgxJTk3JUUzJTgxJUE2JUUzJTgyJThCJUU0JUI4JThBJUU1JThGJUI4JUUzJTgxJUFGJUUzJTgxJTkzJUUzJTgyJThDJUUzJTgyJTkyJUU0JUJEJUJGJUUzJTgyJThGJUUzJTgxJTlCJUUzJTgxJUFBJUUzJTgxJTk1JUUzJTgxJTg0JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9MTFjZGEyNDhiNjE3NDM1MWQ5YzFmZGQzODQzZTc2YWU&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBudWNvX2QmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1jNGZiODQwOWQ4MDM5ZTMyYmFjZmZlMGRkNWY4YzcwYQ&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=5qCq5byP5Lya56S-TnVjbw&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=fe7f169cb1e4e6f1cb74e5db85694ca9",
     "fetched_at": "2026-11-22 03:55:30",
     "ja_summary": "・AI特有の「Claudeっぽさ」が出る原因は、構成の画一化や深みの欠如にある。\n・部下がAIに依存したスライドを提出する現状に対し、上司はAIへの指示出しスキルや修正プロセスを指導すべき。\n・AIを「作成ツール」ではなく「思考の壁打ち相手」として活用させ、独自性を持たせることが重要。"
-  },
-  {
-    "title": "AIにありがちな「イマイチなコードコメント」9パターン",
-    "link": "https://qiita.com/jnchito/items/636c519c0b1d347c79b7",
-    "source": "Qiita (Popular)",
-    "published": "2026-11-01T13:34:25+09:00",
-    "summary": "## はじめに\n\n「コードはAIに書いてもらう」という人が増えてきました。\n\n僕もそんなエンジニアの一人ですが、AIにコードを書かせていると「アプリケーション側のコードはまだいいが、コードコメントとテストコードはなんかイマイチだな」と思うことが多いです。\n\nまた、コードレビューをしていると、「たぶん、これはAIが書いたコメントをそのまま採用したんだろうな〜」と思う場面も増えました。\n\nそこで、この",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGNzQ2NSUyRnByb2ZpbGUtaW1hZ2VzJTJGMTc5MTgwNDk5Nj9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NmFmYzJkZDg1Y2M1ZmRkNWRmMTI5OTk1MmFmZmM0Yjc%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkY0MjMzNjY1ZTNiODM2N2U4MDEyMDMwYzc1ODg3Y2ZjZjY3NTg2MGI3JTJGb3JpZ2luYWwuanBnJTNGMTcyNzIyMzQ1OD9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz03NGJiYTY4NjYzMDQ4NDQ3YWEwOGIxYjZmNjE1MDE2MA%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D44c0af729526cd45bc8bc4db600b51d8?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9QUklRTMlODElQUIlRTMlODElODIlRTMlODIlOEElRTMlODElOEMlRTMlODElQTElRTMlODElQUElRTMlODAlOEMlRTMlODIlQTQlRTMlODMlOUUlRTMlODIlQTQlRTMlODMlODElRTMlODElQUElRTMlODIlQjMlRTMlODMlQkMlRTMlODMlODklRTMlODIlQjMlRTMlODMlQTElRTMlODMlQjMlRTMlODMlODglRTMlODAlOEQ5JUUzJTgzJTkxJUUzJTgyJUJGJUUzJTgzJUJDJUUzJTgzJUIzJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9ZmYxMzhiN2NhN2IwZTRmMDI2MjIzYjliYjVhZTU2MzQ&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBqbmNoaXRvJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9YTNkMGJiOGM5MjEyODY0YzdjZGNkODBjOWUxZjZjOTM&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=5qCq5byP5Lya56S-44K944OL44OD44Kv44Ks44O844OH44Oz&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=61faf06f30a0d99bdf283fce04370d23",
-    "fetched_at": "2026-11-22 03:55:33",
-    "ja_summary": "AIが生成するコードコメントは、まだ「イマイチ」な場合が多い。\n特に、コードレビューでAI生成と見られるコメントが増加している。\n本記事では、AIにありがちなコードコメントの9パターンを紹介する。"
-  },
-  {
-    "title": "伊藤忠が月1.3万時間削減、数千件の「二重業務」解消へ　AI推進で経営陣を動かした「定量の匂い」とは？",
-    "link": "https://www.itmedia.co.jp/business/articles/2611/20/news042.html",
-    "source": "ITmedia ビジネス",
-    "published": "Fri, 20 Nov 2026 07:00:00 +0900",
-    "summary": "伊藤忠商事の“繊維部門”が、AI活用を加速させている。現場の熱意を広げ、経営層に「定量の匂い」を感じさせるなど独自の取り組みを推進。月数千件の「二重業務」解消へ挑んでいる。AI活用の裏側に迫る。",
-    "image": "https://image.itmedia.co.jp/business/articles/2611/20/cover_news042.jpg",
-    "fetched_at": "2026-11-21 20:59:59",
-    "ja_summary": "伊藤忠商事の繊維部門がAI活用を本格化し、現場主導で月1.3万時間もの業務削減を目指す。\n「二重業務」の可視化など定量的な成果を示すことで経営層の理解と支援を引き出した。\n現場の熱意とデータを組み合わせた、ボトムアップ型のAI推進モデルを構築している。"
-  },
-  {
-    "title": "AI需要で「シェア0→50％」急成長　半導体設計のアーム社が仕掛ける“新ビジネス“の正体は？",
-    "link": "https://www.itmedia.co.jp/business/articles/2611/20/news041.html",
-    "source": "ITmedia ビジネス",
-    "published": "Fri, 20 Nov 2026 07:00:00 +0900",
-    "summary": "「AI半導体といえばNVIDIA」という状況が変わるかもしれない。CPU開発を手掛ける英アームが存在感を高めている。AI需要をどう取り込もうというのか。同社の戦略を、Arm日本法人の横山崇幸社長が語った。",
-    "image": "https://image.itmedia.co.jp/business/articles/2611/20/cover_news041.jpg",
-    "fetched_at": "2026-11-21 21:00:00",
-    "ja_summary": "・CPU開発の英アームが、AI需要を追い風にシェアを急拡大。\n・NVIDIA一強のAI半導体市場で、独自の設計基盤を武器に存在感を高める。\n・日本法人社長が、市場シェア50%達成の背景と今後の戦略を明かした。"
-  },
-  {
-    "title": "［新連載］アンソロピック、時価総額240兆円上場　成長と人類存亡の矛盾はらむ (アンソロピックの正体)",
-    "link": "https://business.nikkei.com/atcl/gen/19/00950/111900001/",
-    "source": "日経ビジネス 最新",
-    "published": "",
-    "summary": "生成AI（人工知能）「Claude（クロード）」の開発元である米アンソロピックが、米ナスダック市場へ上場した。創業わずか5年で、新規株式公開（IPO）後の時価総額は1兆4000億ドル（約221兆円）となった。だが目論見書は「会社の価値が実際より1ドルも高く評価されてはならない」という異例の言葉から始まる。同社の特異な経営について迫る。",
-    "image": "https://business.nikkei.com/atcl/gen/19/00950/111900001/fb.jpg",
-    "fetched_at": "2026-11-21 21:00:07",
-    "ja_summary": "・生成AI「Claude」開発のアンソロピックがナスダック上場、時価総額221兆円を記録。\n・創業5年で急成長を遂げる一方、目論見書に利益追求を自制する異例の文言を記載。\n・AIの成長と人類への安全性という矛盾する課題に向き合う、特異な経営方針に注目が集まる。"
-  },
-  {
-    "title": "Anthropicがナスダック上場　期待と不安が交錯、「価値観と矛盾」との声も",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/12193/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "米Anthropic（アンソロピック）は2026年11月19日（米国時間）、米ナスダック市場に新規上場した。上場初日の終値は97.17ドルで、公開価格を17％上回った。アンソロピックに対する期待感の高さを改めて印象付けた一方で、米サンフランシスコにある同社の本社近くでは抗議デモが起きるなど、不安も交錯する。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/12193/topm.jpg?20220512",
-    "fetched_at": "2026-11-21 21:00:09",
-    "ja_summary": "・AI開発のAnthropicがナスダックに新規上場し、初日は公開価格を17％上回る好調な滑り出しを見せた。\n・市場からの高い期待を集める一方、同社の技術や経営方針に対する懸念から抗議デモが発生するなど意見が割れている。"
-  },
-  {
-    "title": "判断特化型AI（Decision Model）",
-    "link": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020600009/111100236/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "判断特化型AI（人工知能）とは、自然言語での入力に対して事前に定義した選択肢や評価尺度に沿って出力を返すAIモデルのこと。一般的な生成AIは回答を文章や画像などのコンテンツとして生成するため出力形式が毎回変わる可能性が高いが、判断特化型AIは前もってユーザーが定義した選択肢か確率を回答する。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020600009/111100236/topm.jpg?20220512",
-    "fetched_at": "2026-11-21 21:00:10",
-    "ja_summary": "・判断特化型AIは、事前に決めた選択肢や評価尺度に基づき、安定した形式で回答を出力する。\n・文章生成が主目的の一般的な生成AIと異なり、揺らぎのない判断・分類を専門とする。\n・業務プロセスに組み込むことで、AIの回答をシステムで直接処理・活用しやすくなる。"
-  },
-  {
-    "title": "分かりにくいAI用語「ハーネス」　場合によって意味が揺れる",
-    "link": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/052100112/111100151/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "最近、AI分野で「ハーネス」の重要性が強調されるようになった。元々は武器や防具といった戦場での装備一般を指す言葉。そこから軍馬に装着する鞍（くら）や馬を制御するための装具を指すようになり、馬具という意味が生まれた。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/052100112/111100151/topm.jpg?20220512",
-    "fetched_at": "2026-11-21 21:00:11",
-    "ja_summary": "・AI分野で多用される「ハーネス」は、元々「馬具（制御する装具）」を指す言葉。\n・文脈により意味が揺れやすく、AI開発における役割が定義しにくい。\n・専門用語として定着しつつあるが、現状では解釈に注意が必要な曖昧な表現である。"
-  },
-  {
-    "title": "サイバー攻撃が攻めのAX阻む　対策の鍵は社内の「風通し」",
-    "link": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020600007/111600230/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "顧客データなどを含め社内の有用なデータを整備し、マーケティングなどに生かす。その延長線上で生成AI（人工知能）を活用して、より高度なサービスを提供し顧客の囲い込みを強化していく――。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020600007/111600230/topm.jpg?20220512",
-    "fetched_at": "2026-11-21 21:00:12",
-    "ja_summary": "サイバー攻撃の増加が、企業がデータ活用や生成AIによるサービス強化を進める上で障害となっています。\n攻撃対策として、社内の情報共有を円滑にする「風通し」の良さが重要です。\nこれにより、迅速な情報連携と対応が可能になります。"
   }
 ]
