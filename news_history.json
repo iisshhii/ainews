@@ -1,5 +1,365 @@
 [
   {
+    "title": "毎回「いいですね」と返してくるAIにイライラ……“イエスマンAI”を辛口の相談相手に変える方法【プロンプト紹介】",
+    "link": "https://www.itmedia.co.jp/business/articles/2611/25/news012.html",
+    "source": "ITmedia ビジネス",
+    "published": "Wed, 25 Nov 2026 07:00:00 +0900",
+    "summary": "AIに企画を相談しても、肯定的な意見ばかりで物足りなく感じます。もっと厳しく意見してもらうにはどうしたらいいですか？",
+    "image": "https://image.itmedia.co.jp/business/articles/2611/25/cover_news012.jpg",
+    "fetched_at": "2026-11-27 01:49:26",
+    "ja_summary": "AIの肯定的な返答に物足りなさを感じる際は、指示（プロンプト）で「批判的視点」や「懸念点の指摘」を明示的に求めるのが有効。\n役割を「辛口のコンサルタント」と定義し、改善案を強制することで、より鋭いフィードバックを引き出せる。\n単なる同意ではなく、あえて反論させる設定を加えるだけで、企画の精度を高める質の高い壁打ち相手に変わる。"
+  },
+  {
+    "title": "中部電力、AI活用で「人の役割を見直す」　2万人が使う400超のシステムサポートの舞台裏",
+    "link": "https://www.itmedia.co.jp/business/articles/2611/25/news011.html",
+    "source": "ITmedia ビジネス",
+    "published": "Wed, 25 Nov 2026 07:00:00 +0900",
+    "summary": "PCの不具合をAIに尋ねる日常のやり取りが、組織変革の第一歩になる。中部電力が2万人規模の現場で実践する、社員がAIを使いこなし、人がAIを育てる循環の作り方とは。",
+    "image": "https://image.itmedia.co.jp/business/articles/2611/25/cover_news011.jpg",
+    "fetched_at": "2026-11-27 01:49:26",
+    "ja_summary": "・中部電力が全社員2万人規模でAIを活用し、400超のシステム運用を効率化。\n・社員がAIを使いこなし、AIが育つ循環を作ることで業務プロセスを刷新。\n・AIによる日常的なサポートを通じて、社員が本来の「人の役割」を見直す組織変革を推進。"
+  },
+  {
+    "title": "ダイセル小河会長の経営教室「改革起点は私の草むしり。生産性は3倍に」 (経営教室)",
+    "link": "https://business.nikkei.com/atcl/gen/19/00607/112400114/",
+    "source": "日経ビジネス 最新",
+    "published": "",
+    "summary": "製造現場の業務を徹底的に標準化・システム化する「ダイセル式生産革新」を築き上げた。蓄積したノウハウを人工知能（AI）に活用し、次世代のものづくりも模索し続けている。30年にも及ぶ改革をどう推し進めてきたのか、4回にわたって解き明かす。",
+    "image": "https://business.nikkei.com/atcl/gen/19/00607/112400114/fb.jpg",
+    "fetched_at": "2026-11-27 01:49:28",
+    "ja_summary": "ダイセル小河会長が語る「ダイセル式生産革新」は、現場の草むしりから始まり、30年かけて生産性を3倍にした。\nこのノウハウをAIにも活用し、次世代のものづくりを追求し続けている。\n改革の軌跡を4回にわたり解き明かす。"
+  },
+  {
+    "title": "前日本郵政社長・元総務相 増田寛也氏 に聞く　「撤退戦」ではない成長描け、地方創生は民の覚悟から (徹底予測2027　AI・金利・サイバー… 経営のルールが変わる)",
+    "link": "https://business.nikkei.com/atcl/NBD/19/special/02724/",
+    "source": "日経ビジネス 最新",
+    "published": "",
+    "summary": "私が座長を務めた日本創成会議の分科会が2014年、全国の約半数に当たる896市区町村を「消滅可能性都市」とする推計を公表しました。いわゆる「増田リポート」です。当時は日本の人口が坂を下り始めたばかりで、先の問題と受け止められがちでした。それがここ数年、減少が加速する地域が目立ちます。全国の世帯数も30年をピークに減少に転じ、18歳人口は35年ごろ100万人を割る見通しです。",
+    "image": "https://business.nikkei.com/atcl/NBD/19/special/02724/fb.jpg",
+    "fetched_at": "2026-11-27 01:49:29",
+    "ja_summary": "・2014年の「消滅可能性都市」予測から10年、人口減少は想定を上回るペースで加速している。\n・2030年の世帯数減少や2035年の18歳人口100万人割れなど、深刻な局面が目前に迫っている。\n・地方創生には現状維持の「撤退戦」ではなく、民間主導で成長を描く覚悟が不可欠である。"
+  },
+  {
+    "title": "縮む内需、進む再編　「量追う経営」曲がり角 (徹底予測2027　AI・金利・サイバー… 経営のルールが変わる)",
+    "link": "https://business.nikkei.com/atcl/NBD/19/special/02723/",
+    "source": "日経ビジネス 最新",
+    "published": "",
+    "summary": "2027年は縮む内需を背景に、1社で量を追う経営の限界が鮮明になる。消費減税による需要押し上げ効果は限定的で、スーパー経営も岐路に立つ。名目国内総生産（GDP）が世界6位に沈む見込みの中、協調型再編が広がる。",
+    "image": "https://business.nikkei.com/atcl/NBD/19/special/02723/fb.jpg",
+    "fetched_at": "2026-11-27 01:49:29",
+    "ja_summary": "・国内需要の減少により、企業が単独で規模拡大を目指す「量追う経営」は限界に達する。\n・日本経済の地位低下を背景に、単独成長ではなく企業同士の「協調型再編」が加速する。\n・2027年に向け、スーパーなどの小売業界を中心に抜本的な経営方針の転換が求められる。"
+  },
+  {
+    "title": "従来の「正解」が足かせ　データ戦略と組織激変 (徹底予測2027　AI・金利・サイバー… 経営のルールが変わる)",
+    "link": "https://business.nikkei.com/atcl/NBD/19/special/02722/",
+    "source": "日経ビジネス 最新",
+    "published": "",
+    "summary": "2027年はデータ戦略や組織構造における従来の「正解」が見直される。がむしゃらに集めたデータは、サイバー危機の前では事業を脅かす「負債」だ。人工知能（AI）が担う仕事が増え、ピラミッド型の従来組織も変容していく。",
+    "image": "https://business.nikkei.com/atcl/NBD/19/special/02722/fb.jpg",
+    "fetched_at": "2026-11-27 01:49:30",
+    "ja_summary": "・2027年に向け、従来のデータ収集や組織運営の「正解」が根本から見直される。\n・不用意なデータ蓄積はサイバーリスクとなり、AI活用は既存のピラミッド型組織を崩す。\n・変化に対応するため、経営のルールそのものを再定義する必要がある。"
+  },
+  {
+    "title": "日経マネーが斬る2027年の相場 (徹底予測2027　AI・金利・サイバー… 経営のルールが変わる)",
+    "link": "https://business.nikkei.com/atcl/NBD/19/special/02721/",
+    "source": "日経ビジネス 最新",
+    "published": "",
+    "summary": "著名エコノミストのエミン・ユルマズ氏と、大和証券チーフテクニカルアナリストの木野内栄治氏。鋭い市場分析で知られる2人が2027年の相場を読む。",
+    "image": "https://business.nikkei.com/atcl/NBD/19/special/02721/fb.jpg",
+    "fetched_at": "2026-11-27 01:49:30",
+    "ja_summary": "・著名なエコノミストとテクニカルアナリストが2027年の相場を徹底予測。\n・AI、金利、サイバーセキュリティなど、市場を動かす構造変化を分析。\n・経営や投資のルールが激変する未来に向けた戦略の指針を示す。"
+  },
+  {
+    "title": "アマゾンブラックフライデー開始 iPhone Airなど過去最大規模の11日間",
+    "link": "https://www.watch.impress.co.jp/docs/news/2159709.html",
+    "source": "Impress Watch",
+    "published": "",
+    "summary": "Amazonの大規模セール「Amazon ブラックフライデー」がスタートしました。先行セールが11月27日0時からスタートしており、11月30日～12月7日の本セールと合わせ合計11日間の開催です。",
+    "image": "https://www.watch.impress.co.jp/img/ipw/list/2159/709/pic-001.jpg",
+    "fetched_at": "2026-11-27 01:49:35",
+    "ja_summary": "・Amazonの「ブラックフライデー」が開始。先行セールを含め過去最大規模の11日間開催。\n・11月27日から先行セールが始まり、11月30日〜12月7日に本セールを実施。\n・iPhoneやAirなど、幅広い商品が対象の大型セール。"
+  },
+  {
+    "title": "同期忘れをなくすAIレコーダ決定版「Notta Memo Pro」が25%OFFに　文字起こし月30時間増量[Sponsored]",
+    "link": "https://www.watch.impress.co.jp/docs/topic/special/2155610.html",
+    "source": "Impress Watch",
+    "published": "",
+    "summary": "会議や商談の録音から文字起こし、要約までを任せられるAIボイスレコーダ。議事録作成などの手間を減らせる、便利なビジネスツールとして深く浸透しつつあります。",
+    "image": "https://www.watch.impress.co.jp/img/ipw/list/2155/610/n02.png",
+    "fetched_at": "2026-11-27 01:49:36",
+    "ja_summary": "・AIレコーダ「Notta Memo Pro」が25%OFF＋月30時間の文字起こし増量キャンペーン中。\n・録音から要約までを自動化し、議事録作成などの事務作業を大幅に効率化。\n・会議や商談の記録業務を自動化したいビジネスパーソンに最適なツール。"
+  },
+  {
+    "title": "ダークパターン被害は年最大3.2兆円　相次ぐ漏えいによる二次被害に警鐘",
+    "link": "https://www.watch.impress.co.jp/docs/news/2159540.html",
+    "source": "Impress Watch",
+    "published": "",
+    "summary": "ダークパターン対策協会は26日、相次ぐ個人情報漏えいを背景に、ダークパターンを悪用した二次被害への注意を呼び掛けたほか、2027年春をめどに、企業が自社のWebサイトのダークパターンを診断できるAIツールを開発していることを明らかにした。",
+    "image": "https://www.watch.impress.co.jp/img/ipw/list/2159/540/00.jpg",
+    "fetched_at": "2026-11-27 01:49:37",
+    "ja_summary": "・ダークパターンによる被害額は年最大3.2兆円に上り、個人情報漏洩に伴う二次被害が急増。\n・ダークパターン対策協会が注意喚起を行うとともに、対策を強化。\n・2027年春、企業のWebサイトを診断できるAIツールの提供を開始予定。"
+  },
+  {
+    "title": "Amazonブラックフライデー始動、iPhone Airが「今年最安値」の目玉に　AirPods Pro 3も対象",
+    "link": "https://japan.cnet.com/article/35255465/",
+    "source": "CNET Japan",
+    "published": "",
+    "summary": "Amazon.co.jpでは11月27日午前0時、「Amazon ブラックフライデー」の先行セールが始まる。アマゾンジャパンは26日、薄型スマートフォン「iPhone Air」やワイヤレスイヤホン「AirPods Pro 3」などを、セール期間中の「厳選目玉商品」として今年最安値で販売すると発表した。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35255465/\"><img src=\"https://japan.cnet.com/storage/thumbnails/thumb-184xauto-1361311-file.jpg\" /></a>",
+    "image": "https://japan.cnet.com/storage/thumbnails/thumb-184xauto-1361311-file.jpg",
+    "fetched_at": "2026-11-27 01:49:39",
+    "ja_summary": "・Amazonブラックフライデーの先行セールが11月27日午前0時に開始。\n・「iPhone Air」や「AirPods Pro 3」が今年最安値の目玉商品として登場。\n・最新の人気ガジェットを低価格で購入できる絶好の機会となる。"
+  },
+  {
+    "title": "「Amazonブラックフライデー」スタート、Fire TV Stick HDが3980円　他に安いのは？",
+    "link": "https://japan.cnet.com/article/35255446/",
+    "source": "CNET Japan",
+    "published": "",
+    "summary": "Amazon.co.jpでは、11月27日午前0時から「ブラックフライデー」の先行セールが始まる。テレビで動画配信サービスを楽しめる「Fire TV Stick HD」は3980円、スマートスピーカーの「Echo Dot（第5世代）」は5480円になる予定だ。Amazonが特集ページで予告した対象製品の中から、注目の6機種を紹介する。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35255446/\"><img src=\"https://japan.cnet.com/storage/thumbnails/thumb-184xauto-1361244-file.jpg\" /></a>",
+    "image": "https://japan.cnet.com/storage/thumbnails/thumb-184xauto-1361244-file.jpg",
+    "fetched_at": "2026-11-27 01:49:39",
+    "ja_summary": "・Amazonブラックフライデー先行セールが11月27日0時に開始。\n・「Fire TV Stick HD」が3,980円、「Echo Dot（第5世代）」が5,480円に。\n・特集ページで公開中の注目セール対象品をチェックできる。"
+  },
+  {
+    "title": "KDDI、Xとデータ活用で連携　通信品質の改善に活用も",
+    "link": "https://japan.cnet.com/article/35255463/",
+    "source": "CNET Japan",
+    "published": "",
+    "summary": "KDDIは11月26日、SNS「X」のリアルタイムデータと、人の移動などの自社データを組み合わせて分析し、通信品質の改善やマーケティングに生かすと発表した。2027年以降は、分析で得た知見を使った法人向けサービスも提供する。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35255463/\"><img src=\"https://japan.cnet.com/storage/thumbnails/thumb-184xauto-1361307-file.jpg\" /></a>",
+    "image": "https://japan.cnet.com/storage/thumbnails/thumb-184xauto-1361307-file.jpg",
+    "fetched_at": "2026-11-27 01:49:39",
+    "ja_summary": "・KDDIがXのリアルタイムデータと自社の人流データを組み合わせて分析し、通信品質の向上やマーケティングに活用する。\n・2027年以降は、この分析知見を用いた新たな法人向けサービスも提供開始する予定。"
+  },
+  {
+    "title": "ENEOS公式アプリ、停止続く　モバイルEneKeyやクーポン使えず",
+    "link": "https://japan.cnet.com/article/35255462/",
+    "source": "CNET Japan",
+    "published": "",
+    "summary": "ENEOSの公式アプリは11月26日夕も停止しており、スマートフォンで給油代などを支払う「モバイルEneKey」と、アプリ内のクーポンが使えない。ENEOSは、アプリのシステムで第三者による不正アクセスを検知し、25日午後4時ごろからサービスを停止したと発表した。アプリのお知らせに復旧や再開時期の告知は出ていない。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35255462/\"><img src=\"https://japan.cnet.com/storage/thumbnails/thumb-184xauto-1361305-file.jpg\" /></a>",
+    "image": "https://japan.cnet.com/storage/thumbnails/thumb-184xauto-1361305-file.jpg",
+    "fetched_at": "2026-11-27 01:49:39",
+    "ja_summary": "・ENEOS公式アプリで第三者による不正アクセスが判明し、25日午後からサービスを停止中。\n・モバイルEneKeyやクーポンが利用できない状態が続いている。\n・復旧や再開の目処は立っていない。"
+  },
+  {
+    "title": "パルシステムの利用者情報約200万件が漏えい　JCBも同じ外部サービスで被害",
+    "link": "https://japan.cnet.com/article/35255461/",
+    "source": "CNET Japan",
+    "published": "",
+    "summary": "生協の宅配を手がけるパルシステム生活協同組合連合会は11月25日、組合員や「おためし宅配」の利用者に関する情報199万7972件が漏えいしたと発表した。注文サイトやアプリのお知らせ機能の一部を担う外部サービス「KARTE（カルテ）」が不正アクセスを受けた。JCBも同日、同じサービスを通じて一部の顧客に関する情報が漏えいしたと発表した。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35255461/\"><img src=\"https://japan.cnet.com/storage/thumbnails/thumb-184xauto-1361303-file.jpg\" /></a>",
+    "image": "https://japan.cnet.com/storage/thumbnails/thumb-184xauto-1361303-file.jpg",
+    "fetched_at": "2026-11-27 01:49:39",
+    "ja_summary": "生協パルシステムで約200万件の利用者情報が漏えい。\n外部サービス「KARTE」への不正アクセスが原因。\nJCBも同サービスで顧客情報漏えいを発表。"
+  },
+  {
+    "title": "アンソロピック株、初日急騰も公募価格割れ…AI相場の逆風は払拭できず",
+    "link": "https://www.businessinsider.jp/article/2611-anthropic-ipo-couldnt-revive-ai-trade-ant-huang-regulation/",
+    "source": "Business Insider Japan",
+    "published": "Thu, 26 Nov 2026 08:00:00 GMT",
+    "summary": "投資家は、アンソロピックの新規株式公開（IPO）が市場の強気派を再び勢いづかせることを期待していました。しかし、初日こそ好調だったものの、翌日以降は一転して厳しい展開となっています。その理由について専門家に取材しました。",
+    "image": "https://media.loom-app.com/loom/2026/11/23/69621b58-ff50-455b-89b5-7bc431ea4f04/original.jpg?w=1200",
+    "fetched_at": "2026-11-27 01:49:39",
+    "ja_summary": "・AI期待のアンソロピックがIPOしたが、初日の高騰後は株価が低迷。\n・AI相場への楽観論は広まらず、投資家の期待外れの結果となった。\n・市場の厳しい評価を受け、今後の株価動向には不透明感が漂っている。"
+  },
+  {
+    "title": "DMM AI Router を試す",
+    "link": "https://note.com/npaka/n/nd429392850f2",
+    "source": "note (npaka)",
+    "published": "Wed, 25 Nov 2026 10:31:11 +0900",
+    "summary": "<p id=\"806d098a-5c2f-49bc-bb53-51c3d9f716ca\" name=\"806d098a-5c2f-49bc-bb53-51c3d9f716ca\">「DMM AI Router」を試したのでまとめました。</p><br /><br /><a href=\"https://note.com/npaka/n/nd429392850f2\">続きをみる</a>",
+    "image": "https://assets.st-note.com/production/uploads/images/340414288/rectangle_large_type_2_98a935de6fc093b7d002a67e9c0eeb6c.png?width=800",
+    "fetched_at": "2026-11-27 01:49:40",
+    "ja_summary": "DMM AI Routerの試用レポートです。\nAIによるルーター制御で、ネットワーク管理の効率化が期待されます。\n詳細はリンク先で確認できます。"
+  },
+  {
+    "title": "LLMによるアンケート調査の最新研究 - 人間より正確に予測できるのか？",
+    "link": "https://note.com/npaka/n/n115035e3b4cb",
+    "source": "note (npaka)",
+    "published": "Mon, 23 Nov 2026 09:37:51 +0900",
+    "summary": "<p id=\"af99f369-5a95-485f-bda1-465e97c39a5b\" name=\"af99f369-5a95-485f-bda1-465e97c39a5b\">LLMによるアンケート調査の最新研究についてまとめました。</p><br /><br /><a href=\"https://note.com/npaka/n/n115035e3b4cb\">続きをみる</a>",
+    "image": "https://assets.st-note.com/production/uploads/images/339544515/rectangle_large_type_2_e48ad477c0b6f54c3f59a7bf3eff5f2a.png?width=800",
+    "fetched_at": "2026-11-27 01:49:40",
+    "ja_summary": "LLM（大規模言語モデル）を活用したアンケート調査の精度を検証する最新研究が公開されました。\nAIが人間の回答傾向をどれほど正確に予測できるのか、その有効性と限界を分析しています。\nAIを従来の調査手法の代替や補完として活用する可能性が議論されています。"
+  },
+  {
+    "title": "AI登場「創造性」問い直す機会に",
+    "link": "https://news.yahoo.co.jp/pickup/6603882?source=rss",
+    "source": "Yahoo!ニュース IT・科学",
+    "published": "Wed, 25 Nov 2026 00:55:13 GMT",
+    "summary": "",
+    "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/11/25/f877aad177666617026ac98678e371a1b01f78cd4d79a3567c85895a46a540be.jpg",
+    "fetched_at": "2026-11-27 01:49:41",
+    "ja_summary": "・AIの普及により、人間特有の「創造性」とは何かという定義が問い直されている。\n・AIを単なる効率化ツールではなく、人間の感性を拡張し共創するパートナーと捉えるべきだ。\n・これからの時代は、AIと協働しながら「問いを立てる力」を磨くことが重要になる。"
+  },
+  {
+    "title": "NothingもAIレコーダー兼用イヤホン Ear (note) 予告、エージェントの文脈を補う「ハードウェア・コンテキスト・レイヤー」",
+    "link": "https://www.techno-edge.net/article/2026/11/26/5829.html",
+    "source": "TechnoEdge",
+    "published": "Thu, 26 Nov 2026 18:04:40 +0900",
+    "summary": "Nothingが、「AIネイティブ」をうたう録音機能付きワイヤレスイヤホン「Ear (note)」を予告しました。",
+    "image": "https://www.techno-edge.net/imgs/rss/35989.png",
+    "fetched_at": "2026-11-27 01:49:43",
+    "ja_summary": "・NothingがAI録音機能を搭載した新型イヤホン「Ear (note)」を予告。\n・AIエージェントが状況を理解する「ハードウェア・コンテキスト・レイヤー」を導入。\n・AIとの連携を強化し、ユーザーの文脈に合わせた支援を実現するデバイス。"
+  },
+  {
+    "title": "公開サイトやVPN装置に「外から入れるか」をAIで検証、OpenAIの技術でSB OAI Japanが診断サービス",
+    "link": "https://www.techno-edge.net/article/2026/11/26/5828.html",
+    "source": "TechnoEdge",
+    "published": "Thu, 26 Nov 2026 16:42:45 +0900",
+    "summary": "ソフトバンクとOpenAIの合弁会社SB OAI Japanは11月25日、企業が外部に公開するシステムへ実際に侵入を試みる「侵入可否診断」の提供を開始しました。OpenAIの技術で侵入経路を検討し、10営業日以内に結果と対策案を報告します。料金は公表していません。",
+    "image": "https://www.techno-edge.net/imgs/rss/35987.jpg",
+    "fetched_at": "2026-11-27 01:49:43",
+    "ja_summary": "・SB OAI Japanが、企業の公開システムに対する「侵入可否診断」サービスを開始。\n・OpenAIの技術を活用し、外部から侵入可能かを自動検証して対策案を提示。\n・診断は10営業日以内に完了し、迅速なセキュリティ強化を支援する。"
+  },
+  {
+    "title": "AIに「過去のある時点のウェブ」だけを見せる検索API、Perplexityが公開　答えを知らない状態で予測力を測定",
+    "link": "https://www.techno-edge.net/article/2026/11/26/5827.html",
+    "source": "TechnoEdge",
+    "published": "Thu, 26 Nov 2026 16:32:52 +0900",
+    "summary": "Perplexityは11月25日、開発者向けの検索APIに、指定した日時より前のウェブだけをAIに見せる「Time Machine」を追加しました。結果が出た後の情報を遮断し、AIエージェントの予測力や調査力を公正に測定できます。遡れるのは最大365日で、追加料金は不要です。",
+    "image": "https://www.techno-edge.net/imgs/rss/35985.png",
+    "fetched_at": "2026-11-27 01:49:43",
+    "ja_summary": "・Perplexityが過去のウェブ情報のみを参照できるAPI機能「Time Machine」を公開。\n・最大1年前まで遡ることで、未来の情報を遮断した公正なAIの予測力検証が可能に。\n・既存の開発者向けAPIに追加料金なしで提供される。"
+  },
+  {
+    "title": "音声を音声のまま訳す同時通訳AI、DeepLが新モデル「Aure v2」で遅延を半減",
+    "link": "https://www.techno-edge.net/article/2026/11/26/5826.html",
+    "source": "TechnoEdge",
+    "published": "Thu, 26 Nov 2026 16:23:11 +0900",
+    "summary": "DeepLが音声翻訳モデル「Aure v2」の提供を開始しました。音声を文字に起こさず直接別の言語の音声に訳す構成を採用し、訳し始めるまでの遅延を前モデル比で50%削減しました。",
+    "image": "https://www.techno-edge.net/imgs/rss/35983.png",
+    "fetched_at": "2026-11-27 01:49:43",
+    "ja_summary": "・DeepLが音声翻訳の新モデル「Aure v2」を提供開始。\n・音声を文字化せず直接翻訳する仕組みで、遅延を従来の50％に削減。\n・より高速でスムーズなリアルタイムの音声通訳を実現。"
+  },
+  {
+    "title": "米ニューヨーク州、AIチャットボット搭載おもちゃを5年間禁止",
+    "link": "https://www.techno-edge.net/article/2026/11/26/5825.html",
+    "source": "TechnoEdge",
+    "published": "Thu, 26 Nov 2026 15:19:18 +0900",
+    "summary": "ニューヨーク州知事が、AIチャットボット搭載おもちゃの製造・流通・販売を州内で5年間禁じる法律に署名しました。2027年2月22日に施行し、違反には1日最大1万5000ドルの制裁金を科します。",
+    "image": "https://www.techno-edge.net/imgs/rss/35981.jpg",
+    "fetched_at": "2026-11-27 01:49:43",
+    "ja_summary": "・米ニューヨーク州がAI搭載おもちゃの製造・販売を5年間禁止する法案に署名。\n・2027年2月22日に施行され、違反した場合は1日最大1万5000ドルの罰金が科される。\n・子どもの安全保護を目的としており、州内での流通が厳しく制限される。"
+  },
+  {
+    "title": "OpenAI and Cisco introduce Shirudo",
+    "link": "https://openai.com/index/introducing-shirudo",
+    "source": "OpenAI",
+    "published": "Mon, 23 Nov 2026 21:20:00 GMT",
+    "summary": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/5K7gFDr3r8vgjdIcsW6RVY/aba5325ce7902e5d1499b907f8e78f0b/shirudo-partner-logos-landscape-2x.png?w=1600&amp;h=900&amp;fit=fill",
+    "fetched_at": "2026-11-27 01:49:44",
+    "ja_summary": "・OpenAIとCiscoが、Linux向けのオープンソース・ランタイム「Shirudo」を共同発表。\n・パッチ適用作業中もシステムを保護し、運用継続を可能にするセキュリティツール。\n・システム更新時の脆弱性を最小限に抑え、安全なシステム運用の実現を支援。"
+  },
+  {
+    "title": "Connected intelligence for in-house legal",
+    "link": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+    "source": "OpenAI",
+    "published": "Mon, 23 Nov 2026 08:00:00 GMT",
+    "summary": "Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get more from outside counsel.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/40q0vnGDp1zwWuJrVjXtu6/79ebb13b84e11ce1711a27adfd6ffafe/connected-intelligence-for-in-house-legal-cover.png?w=1600&amp;h=900&amp;fit=fill",
+    "fetched_at": "2026-11-27 01:49:44",
+    "ja_summary": "・OpenAIと法務の専門家が、社内法務におけるAI活用を議論。\n・業務の文脈を統合し、再利用可能なワークフローの構築を実現。\n・外部顧問弁護士との連携を効率化し、法務チームの生産性を最大化する。"
+  },
+  {
+    "title": "Richpanel helps companies automate 50% of support in 30 days",
+    "link": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+    "source": "OpenAI",
+    "published": "Mon, 23 Nov 2026 08:00:00 GMT",
+    "summary": "Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/4aVhQ1EicxWg7i6lIkBrLQ/cdabc180f7e5f780dbb43c302e7163d8/richpanel-social.png?w=1600&amp;h=900&amp;fit=fill",
+    "fetched_at": "2026-11-27 01:49:44",
+    "ja_summary": "RichpanelはGPT-6AI搭載で、30日以内にサポート業務の50%を自動化。\nAIエージェントに最新GPTモデルと会話用GPTを導入。\nこれにより、企業は迅速なサポート自動化を実現。"
+  },
+  {
+    "title": "TenkaCloudSimulator 開発日記：ChatGPTのDotで開発が自律的に続く仕組みをつくる",
+    "link": "https://zenn.dev/bull/articles/tenkacloud-simulator-devlog-20261126",
+    "source": "Zenn Trends",
+    "published": "Thu, 26 Nov 2026 03:59:02 GMT",
+    "summary": "この記事は2026年11月時点の開発記録です。TenkaCloudSimulatorの実装を、ChatGPTのDotとサブエージェントで進めています。今回は、Issueを渡してから実装、レビュー、マージまで回すために、実際に入れた設定と、途中でやめた設定を紹介します。 AWSのAPIを使うアプリが手元で動くかを確認するだけなら、対応済みの機能はAWS公式エミュレーターをそのまま使えば十分です。公式は追加料金なしで使えます。一方、実クラウドでチームごとに環境を用意すれば利用料がかかり、商用エミュレーターにも有料プランがあります。費用を抑えつつ、参加者がAWS・Azure・Google Cl...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--zT-dgQ54--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:TenkaCloudSimulator%2520%25E9%2596%258B%25E7%2599%25BA%25E6%2597%25A5%25E8%25A8%2598%25EF%25BC%259AChatGPT%25E3%2581%25AEDot%25E3%2581%25A7%25E9%2596%258B%25E7%2599%25BA%25E3%2581%258C%25E8%2587%25AA%25E5%25BE%258B%25E7%259A%2584%25E3%2581%25AB%25E7%25B6%259A%25E3%2581%258F%25E4%25BB%2595%25E7%25B5%2584%25E3%2581%25BF%25E3%2582%2592%25E3%2581%25A4%25E3%2581%258F%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:bull%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2g2MllRUHZOMXdGR25zMmFxNEpvOWI0VW96UTY4b3NfdlBOOFFqZUE9czk2LWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-11-27 01:49:46",
+    "ja_summary": "ChatGPTの「Dot」とサブエージェントでTenkaCloudSimulatorを自律開発。\nIssueから実装、レビュー、マージまでを自動化する設定とその変遷を紹介。\nコストを抑えつつ、主要クラウドの機能をローカルで検証できる開発手法を提案。"
+  },
+  {
+    "title": "型チェックが重かったので、クエリの型推論を手放してみた",
+    "link": "https://zenn.dev/dress_code/articles/88b55221eea4e0",
+    "source": "Zenn Trends",
+    "published": "Thu, 26 Nov 2026 02:15:05 GMT",
+    "summary": "こんにちは、Dress Code 株式会社でプロダクトエンジニアをやっている津田です。 並列で設計・実装を進めていると、メモリが足りなくて困ることありませんか？ 多分に漏れず、手元の Mac のメモリが足りず、あまつさえディスクまで圧迫される状態が続いていました。原因を追っていくと TypeScript の型チェックに行き着き、さらに調べると、1 つのクエリの型推論が、全件の型チェックの仕事量の約 3 分の 1 を占めていました。 今回は、そのクエリの型推論をやめた話です。 以前、CI の単体テストの実行時間を改善した話を書きましたが、今回は型チェックです。 今回も調査と実装は主に AI...",
+    "image": "https://res.cloudinary.com/zenn/image/upload/s--svURDMDG--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E5%259E%258B%25E3%2583%2581%25E3%2582%25A7%25E3%2583%2583%25E3%2582%25AF%25E3%2581%258C%25E9%2587%258D%25E3%2581%258B%25E3%2581%25A3%25E3%2581%259F%25E3%2581%25AE%25E3%2581%25A7%25E3%2580%2581%25E3%2582%25AF%25E3%2582%25A8%25E3%2583%25AA%25E3%2581%25AE%25E5%259E%258B%25E6%258E%25A8%25E8%25AB%2596%25E3%2582%2592%25E6%2589%258B%25E6%2594%25BE%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:anizozina%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzRiOGMxZmU1MDUuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_40%2Cl_default:og-publication-connect-mark-v1_hx1oxd%2Cw_40%2Cx_214%2Cy_155/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:DRESS%2520CODE%2520TECH%2520BLOG%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2lVMDVNNlFlVnBmZDNwRWVsRlQ1OW9XY21FWWN5VFJMT1pSdlZ0PXM5Ni1j%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "fetched_at": "2026-11-27 01:49:46",
+    "ja_summary": "・TypeScriptの型チェックが重くメモリを圧迫していた原因が、特定の複雑なクエリの型推論にあると特定。\n・当該クエリの型推論をあえて手放すことで、型チェックの負荷を大幅に削減。\n・開発環境のパフォーマンス低下を解消し、ビルド時間を改善した事例。"
+  },
+  {
+    "title": "2026-11-26 LayerXにおけるAI Agentを支えるデータ基盤のアーキテクチャと設計思想 / The Architecture and Design Philosophy of the Data Platform For AI Agents at LayerX",
+    "link": "https://speakerdeck.com/civitaspo/the-architecture-and-design-philosophy-of-the-data-platform-for-ai-agents-at-layerx",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-11-26T09:29:38-05:00",
+    "summary": "2029-11-26 に開催された『アーキテクチャカンファレンス 2026』での登壇資料です。\nhttps://conference.findy-code.io/conferences/architecture-con-2026/40/sessions/862",
+    "image": "https://files.speakerdeck.com/presentations/72b3e5bd7a574c0da040e0c67ebf7f86/preview_slide_0.jpg?41532266",
+    "fetched_at": "2026-11-27 01:49:48",
+    "ja_summary": "LayerXがAIエージェントの活用を支えるために構築したデータ基盤の設計思想とアーキテクチャを解説。\nAIが正確かつ効率的にデータへアクセス・処理するためのシステム設計のポイントを提示。\n開発の現場でAIエージェントを実用化するための基盤整備のあり方を紹介している。"
+  },
+  {
+    "title": "ビジネスメンバーがPRを出すようになって、レビューでまず聞いたのは「目的やゴールはなんでしたっけ？」だった",
+    "link": "https://speakerdeck.com/rfdnxbro/bijinesu-menba-ga-pr-o-dasu-you-ni-na-te-rebyu-de-mazu-kiita-no-ha-mokuteki-ya-goru-ha-nandeshita-kke-data",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-11-26T05:48:11-05:00",
+    "summary": "【LT増枠!!】AIDD Beer Bash!!\nhttps://vivion.connpass.com/event/408560/\n登壇時の資料です",
+    "image": "https://files.speakerdeck.com/presentations/1e8aa42271c04b81b958b7e776bde4ec/preview_slide_0.jpg?41529967",
+    "fetched_at": "2026-11-27 01:49:48",
+    "ja_summary": "・PR（プルリクエスト）運用で、技術だけでなく「ビジネスの目的・ゴール」の再確認を徹底。\n・目的が曖昧なPRを減らすことで、開発の納得感と成果物への意識を向上。\n・開発者とビジネス職が共通言語を持つことで、無駄のない開発プロセスを実現。"
+  },
+  {
+    "title": "누구나 만들 수 있는 시대, 조직은 무엇을 준비해야 하는가?",
+    "link": "https://speakerdeck.com/arawn/nuguna-mandeul-su-issneun-sidae-jojigeun-mueoseul-junbihaeya-haneunga",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-11-26T04:26:16-05:00",
+    "summary": "AI는 생산성을 높이는 것을 넘어 개인이 직접 해결할 수 있는 문제의 범위를 확장하고 있다. 데이터 분석부터 디자인, 소프트웨어 개발까지 직군 사이의 실행 경계가 빠르게 허물어지고 있다. 하지만 만들 수 있다는 것과 잘 만들고 지속적으로 운영할 수 있다는 것은 다른 문제다.\n\n지난 2년간 경험한 변화를 바탕으로, 각 직군의 전문성을 공유하고, 늘어나는 기여를 안전하게 검증하고 수용하는 방법을 공유한다. 나아가 실행의 경계가 허물어진 이후에도 남아 있는 운영과 책임의 문제를 함께 살펴본다.\n\n완성된 성공 방정식보다는 현장에서 먼저 시도한 변화와 아직 풀어가고 있는 고민이다.",
+    "image": "https://files.speakerdeck.com/presentations/70f08c03fa4a469489ee8c6e63cf4783/preview_slide_0.jpg?41528714",
+    "fetched_at": "2026-11-27 01:49:48",
+    "ja_summary": "AIの普及で個人が多様な業務を遂行可能になる一方、「実行」と「継続的な運営・責任」の維持が課題となっている。\n専門性を組織内で共有し、個人の貢献を安全に検証・収容するための仕組み作りが不可欠である。\n既存の成功法則に頼らず、現場での試行錯誤を通じた新たな組織運営のあり方を模索する。"
+  },
+  {
+    "title": "[KSUG] KSUG.AI Singapore #50 Cloud Native & AI Meetup",
+    "link": "https://speakerdeck.com/korodroid/ksug50-en-kenichikambara",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-11-26T03:40:40-05:00",
+    "summary": "This is the slide, \"Does AI Have to Live in the Cloud?\" at KSUG.AI Singapore #50 Cloud Native & AI Meetup\n#KSUG #AI #GenerativeAI #LLM #LocalLLM",
+    "image": "https://files.speakerdeck.com/presentations/c3c42615acfd46aebd6d46bcca9a8c9c/preview_slide_0.jpg?41528287",
+    "fetched_at": "2026-11-27 01:49:48",
+    "ja_summary": "・シンガポールのKSUG.AI第50回ミートアップで「AIはクラウドに必須か？」をテーマに講演。\n・クラウドネイティブ環境とAIの最適なあり方について議論。\n・ローカルLLMなど、クラウド外でのAI活用やその可能性に焦点。"
+  },
+  {
+    "title": "データ品質と名寄せは、 どこまでAIに任せられるか 基幹刷新で避けて通れない マスターデータ管理(MDM)の進め方",
+    "link": "https://speakerdeck.com/cdataj/shiryou-d17-dbtechshowcase2026-toudan-shiryou",
+    "source": "Speaker Deck (Tech)",
+    "published": "2026-11-26T02:22:46-05:00",
+    "summary": "DBTechShowCase2026 登壇資料です。",
+    "image": "https://files.speakerdeck.com/presentations/2fa659648d00425a924259d622ab3782/preview_slide_0.jpg?41526774",
+    "fetched_at": "2026-11-27 01:49:48",
+    "ja_summary": "・基幹システム刷新において、データ品質の維持と名寄せ（MDM）が成功の鍵となる。\n・AIによる自動化の可能性と限界を見極め、運用を最適化する。\n・データ管理を効率化し、信頼できるマスターデータを構築するための実践的な進め方を解説。"
+  },
+  {
+    "title": "手書きをやめた途端、ブログが全部AI臭くなったあなたへ！ マシにする方法教えます",
+    "link": "https://qiita.com/minorun365/items/faa50b7662b86e1df29c",
+    "source": "Qiita (Popular)",
+    "published": "2026-11-22T21:26:14+09:00",
+    "summary": "# 友達のブログが AI slop だらけになって、がっかりしていませんか？\n\nこの1年でブログをAIに書かせる人が増えましたよね。学んだことを面白く書いていた友達まで、情報量ばかりのビジーな記事を出すようになり、読まなくなった人も多いのではないでしょうか。\n\nとはいえ、アンチAIだった私ですら、最近はブログのほとんどを Claude Code に書いてもらっています。先日公開したこちらの記事もそ",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYxNjMzODU2JTJGYzIyNmJjMzRhYzZjNDVhMjFmNWU1MTJkMWM3MmE2ZjA5NzQ5NDU3OCUyRnhfbGFyZ2UucG5nJTNGMTY5OTk1NDk3Nj9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9MTlhZDI4ODRkNmQ2MzEyNjMxZDJkNTBjOTZmOTA5ZjU%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYxZTIwZGI1ZTdlNDA3ZWFlN2I5NzBlYzk5OTg4MGRjOGMzY2MwZjY0JTJGb3JpZ2luYWwuanBnJTNGMTY2NzI3NDk2Mz9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz04OTI0NDcwMDk1MDMyZjUxYmZlNzE3ZjVkOGUzYmE3ZA%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D75789497542ed55352086443c7ba4c98?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUU2JTg5JThCJUU2JTlCJUI4JUUzJTgxJThEJUUzJTgyJTkyJUUzJTgyJTg0JUUzJTgyJTgxJUUzJTgxJTlGJUU5JTgwJTk0JUU3JUFCJUFGJUUzJTgwJTgxJUUzJTgzJTk2JUUzJTgzJUFEJUUzJTgyJUIwJUUzJTgxJThDJUU1JTg1JUE4JUU5JTgzJUE4QUklRTglODclQUQlRTMlODElOEYlRTMlODElQUElRTMlODElQTMlRTMlODElOUYlRTMlODElODIlRTMlODElQUElRTMlODElOUYlRTMlODElQjglRUYlQkMlODElMjAlRTMlODMlOUUlRTMlODIlQjclRTMlODElQUIlRTMlODElOTklRTMlODIlOEIlRTYlOTYlQjklRTYlQjMlOTUlRTYlOTUlOTklRTMlODElODglRTMlODElQkUlRTMlODElOTkmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz0yNTFhMTFjMjVhNjE2OGUwZmY0N2I2NTYxYmUxOTljMw&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBtaW5vcnVuMzY1JnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9YThjYmQyMjBkNDc3NGM1MjI3MzBiOWExMjBkOWZlMGM&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=S0RESeOCouOCuOODo-OCpOODq-mWi-eZuuOCu-ODs-OCv-ODvOagquW8j-S8muekvg&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=4a735cac932545d6b25aca1f115cea24",
+    "fetched_at": "2026-11-27 01:49:48",
+    "ja_summary": "AIで生成しただけの「味気ない記事」を防ぐため、執筆をAIに頼りつつも人間味を加える工夫が重要です。\nAIにたたき台を作らせた上で、自身の体験談や独自の視点、感情を書き加えるのがコツです。\n効率を追求しながらも、読者の心に響く「自分らしさ」を残す執筆術が求められています。"
+  },
+  {
+    "title": "Agent Harnessを理解するために、150行ほどのPythonで自作してみた",
+    "link": "https://qiita.com/yamamoto_a_genee/items/76562c5c80032ad9e962",
+    "source": "Qiita (Popular)",
+    "published": "2026-11-19T17:28:17+09:00",
+    "summary": "## はじめに\n\nClaude Code、OpenAI Codex、OpenCode などの AI Coding Agent を使う機会が増えました。コードを読み、ファイルを編集し、テストを実行し、エラーを直す。複数のステップを自律的にこなしてくれます。\n\nただ、使っていると疑問が湧きます。\n\n**同じ LLM を使っているのに、なぜツールによって精度や使い勝手が違うのか？**\n\nその理由の一つが",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0MzA1MDA4JTJGNzE4YmZlNjc1MzFiODg4YTAzM2E0NDU4ODVhYWEzOTcwMjBkZTg3NSUyRnhfbGFyZ2UucG5nJTNGMTc3NDMzNTAyNz9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9YTE5N2UxZjE2ODVjYWMzY2VlNjM4MGZlMThmMGFmY2Q%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkZiNWFlY2JlOWIwYWVmMzU2ZGNlMTJiNjA3MWRlZWMxMjU4OGM5NjkzJTJGb3JpZ2luYWwuanBnJTNGMTcwOTcyMDcwNT9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz1lNmM0YmM3MjlmODQ2NmNkMWViYzJmMzRkMTA5MWQ4Yw%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D3052d3c6b067f2f389ce2137801ab62f?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9QWdlbnQlMjBIYXJuZXNzJUUzJTgyJTkyJUU3JTkwJTg2JUU4JUE3JUEzJUUzJTgxJTk5JUUzJTgyJThCJUUzJTgxJTlGJUUzJTgyJTgxJUUzJTgxJUFCJUUzJTgwJTgxMTUwJUU4JUExJThDJUUzJTgxJUJCJUUzJTgxJUE5JUUzJTgxJUFFUHl0aG9uJUUzJTgxJUE3JUU4JTg3JUFBJUU0JUJEJTlDJUUzJTgxJTk3JUUzJTgxJUE2JUUzJTgxJUJGJUUzJTgxJTlGJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9ZTU5Mjk1NGJiZTQxMDU0ZWQ4ZWFiZThhNzQ1ZWZiYzk&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDB5YW1hbW90b19hX2dlbmVlJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9MTExMWZkZDRkNTU0NDMwMWIzMDJkNjcwYWVjY2JiYjM&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=5qCq5byP5Lya56S-R2VORUU&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=88633c988ff913b12d7b2b11368accd6",
+    "fetched_at": "2026-11-27 01:49:49",
+    "ja_summary": "AIコーディングエージェントの性能差が生じる理由を解明するため、150行程度のPythonコードで「Agent Harness（制御基盤）」を自作した。\nツールごとの使い勝手や精度の違いは、LLMそのものだけでなく、エージェントを動かす仕組みや実装の違いに起因する。\n本記事では、自作を通じてエージェントの内部構造と、最適なパフォーマンスを引き出すための制御の重要性を解説する。"
+  },
+  {
     "title": "｢勤勉さ｣でも｢能力｣でもない…仕事ができない人に足りないもの　\"企画のツボ\"を外す人が陥る｢スキル信仰｣の罠 | ライフ | 東洋経済オンライン",
     "link": "https://toyokeizai.net/articles/-/965368?utm_source=rss&utm_medium=http&utm_campaign=link_back",
     "source": "東洋経済オンライン",
@@ -638,365 +998,5 @@
     "image": "https://res.cloudinary.com/zenn/image/upload/s--aF7islFB--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588%25E3%2581%25AEMemory%25E8%25A8%25AD%25E8%25A8%2588%2520%25E2%2580%2595%2520%25E4%25BC%259A%25E8%25A9%25B1%25E5%25B1%25A5%25E6%25AD%25B4%25E3%2583%25BB%25E6%25A5%25AD%25E5%258B%2599%25E3%2583%2587%25E3%2583%25BC%25E3%2582%25BF%25E3%2583%25BB%25E9%2595%25B7%25E6%259C%259FMemory%25E3%2581%25AE%25E4%25BD%25BF%25E3%2581%2584%25E5%2588%2586%25E3%2581%2591%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E6%25A8%25BD%25E7%258C%25AB%25E5%2585%2588%25E7%2594%259F%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2RjNmNhYjBiNzIuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
     "fetched_at": "2026-11-26 08:55:48",
     "ja_summary": "・AIエージェントの記憶機能には、会話履歴の短期メモリと業務データ等の長期メモリの適切な使い分けが不可欠。\n・既存のDBやセッション管理で代替可能な場合もあり、専用機構の採用には目的やセキュリティの慎重な検討が必要。\n・経費精算システムの事例を通じ、記憶すべき情報の選定から更新・削除ルールまでの設計指針を整理。"
-  },
-  {
-    "title": "新しいRAG「Decision RAG」は速い！安い！上手い！🍜",
-    "link": "https://qiita.com/kikuziro/items/cc82e6e4e4c215eac99f",
-    "source": "Qiita (Popular)",
-    "published": "2026-11-09T12:58:37+09:00",
-    "summary": "## ⚖️ はじめに\n\n最近Jevをはじめとした判断特化型のモデルが続々と出てきていますよね。文章は書かずに「はい」の確からしさだけを返してくれるモデルです。この判断モデルをRAGの検索に使う「DecisionRAG」という論文が出ていたので自分なりに噛み砕いてみました。後半は通常のRAG（以降NaiveRAGと記載）と比較検証をしてみました。\n\nhttps://arxiv.org/abs/261",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGMjkzMzQ4OSUyRnByb2ZpbGUtaW1hZ2VzJTJGMTc5Mjk5MzU2Nz9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9ODk4NWM0OTA2NDA3NmU1MjY5YjFkZDc0Mzc0YzE4N2I%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Dda5369d529aa115708e519ff3312efd0?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUU2JTk2JUIwJUUzJTgxJTk3JUUzJTgxJTg0UkFHJUUzJTgwJThDRGVjaXNpb24lMjBSQUclRTMlODAlOEQlRTMlODElQUYlRTklODAlOUYlRTMlODElODQlRUYlQkMlODElRTUlQUUlODklRTMlODElODQlRUYlQkMlODElRTQlQjglOEElRTYlODklOEIlRTMlODElODQlRUYlQkMlODElRjAlOUYlOEQlOUMmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz05MTEwZDlkZjQxNGY2MmU3ODA1OGUwYzQwMDhmMjI2MA&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBraWt1emlybyZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWM3OGI3M2Q5YTRjOWFhNTIyZjZmYzE4YWMzN2YwOThh&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=9cfdbea67bc272595c76e4b67887c2c0",
-    "fetched_at": "2026-11-26 08:55:53",
-    "ja_summary": "・「Decision RAG」は、文章生成を行わず「判断」のみに特化することで、従来のRAGより高速かつ低コストな検索を実現。\n・判断専用モデルを活用し、情報の確からしさを評価することで回答精度を向上させる仕組み。\n・生成AIの処理を軽量化しつつ、実用性を高める新しいアプローチとして注目されている。"
-  },
-  {
-    "title": "「リーマン予想」だけじゃないClaude、東大物性研「2カ月の作業が数時間に」 (アンソロピックの正体)",
-    "link": "https://business.nikkei.com/atcl/gen/19/00950/112500006/",
-    "source": "日経ビジネス 最新",
-    "published": "",
-    "summary": "東京大学物性研究所の北川健太郎准教授の研究室では、米アンソロピックの生成AI（人工知能）「Claude（クロード）」を実験作業に活用する。クロードによって量子物性実験の自動化が進み、解析が著しく高速化したという。",
-    "image": "https://business.nikkei.com/atcl/gen/19/00950/112500006/fb.jpg",
-    "fetched_at": "2026-11-26 00:52:15",
-    "ja_summary": "東大物性研がAI「Claude」を量子物性実験に活用。\n2ヶ月かかっていた作業が数時間に短縮。\nAIによる実験自動化と解析高速化を実現。"
-  },
-  {
-    "title": "NVIDIA・ファンCEO「神話」は28年までか　時価総額、150兆円増→37兆円減 (分断時代の経済安保)",
-    "link": "https://business.nikkei.com/atcl/gen/19/00800/112500055/",
-    "source": "日経ビジネス 最新",
-    "published": "",
-    "summary": "時価総額がわずか1日で150兆円増加――。米エヌビディアのジェンスン・ファンCEO復帰は市場評価を記録的に押し上げ、日本のAI・半導体関連株にも波及した。だが中長期的な市場の不透明感は依然強く、翌24日には大きく減少。2027年や28年こそリスクが顕在化するという声もあり、警戒感が漂っている。",
-    "image": "https://business.nikkei.com/atcl/gen/19/00800/112500055/fb.jpg",
-    "fetched_at": "2026-11-26 00:52:16",
-    "ja_summary": "NVIDIAの時価総額は短期間で大幅に変動したが、2027-28年頃にはリスク顕在化の可能性も指摘されている。\nCEO復帰で一時的な市場評価は急騰したが、中長期的な不透明感は依然として残っている。\nAI・半導体関連株への波及も一時的で、今後の動向には警戒が必要。"
-  },
-  {
-    "title": "楽天・PayPay・三井住友にMUFG参入　デジタル経済圏、主戦場は法人決済・海外・AIへ (テーマ別まとめ記事)",
-    "link": "https://business.nikkei.com/atcl/gen/19/00081/081800971/",
-    "source": "日経ビジネス 最新",
-    "published": "",
-    "summary": "スマートフォン1つで決済から銀行、証券までを一体化し、利用者を囲い込むデジタル経済圏の競争が、新しい局面に入った。楽天とPayPay、三井住友フィナンシャルグループ（FG）の「Olive（オリーブ）」が個人客を奪い合ってきたところへ、最後発の三菱UFJフィナンシャル・グループ（MUFG）が参入し、米グーグルや米オープンAIとの連携も打ち出した。舞台は個人向けのポイント還元にとどまらず、法人決済や海外、人工知能（AI）活用へと広がっている。各陣営の戦略と勝算を、過去記事から振り返る。",
-    "image": "https://business.nikkei.com/atcl/gen/19/00081/081800971/fb.jpg",
-    "fetched_at": "2026-11-26 00:52:16",
-    "ja_summary": "楽天、PayPay、三井住友にMUFGが参入し、デジタル経済圏の競争が激化。\n今後は法人決済、海外展開、AI活用が主戦場となる。\n各陣営の戦略と勝算が、過去記事で分析されている。"
-  },
-  {
-    "title": "富士通がOpenAIのサイバー防御パートナーに参画、脆弱性診断の新サービス",
-    "link": "https://xtech.nikkei.com/atcl/nxt/news/24/03487/",
-    "source": "日経クロステック 総合",
-    "published": "",
-    "summary": "富士通は2026年11月25日、米OpenAI（オープンAI）のサイバー防御パートナープログラム「Daybreak Defense Network」に参画したと発表した。オープンAIのサイバー防御技術「OpenAI Daybreak」を活用した脆弱性診断サービスの提供を始めた。",
-    "image": "https://xtech.nikkei.com/atcl/nxt/news/24/03487/topm.jpg?20220512",
-    "fetched_at": "2026-11-26 00:52:20",
-    "ja_summary": "富士通がOpenAIのサイバー防御パートナーに。\nOpenAIの技術を活用し、脆弱性診断の新サービスを提供開始。\n2026年11月25日より、サイバー防御強化を支援。"
-  },
-  {
-    "title": "ファーウェイに米陪審が有罪評決　営業秘密の窃取や銀行詐欺で",
-    "link": "https://japan.cnet.com/article/35255400/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "米連邦地裁の陪審は、ファーウェイに営業秘密の窃取や銀行詐欺などで有罪評決を出した。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35255400/\"><img src=\"https://japan.cnet.com/storage/thumbnails/thumb-184xauto-969221-file.jpg\" /></a>",
-    "image": "https://japan.cnet.com/storage/thumbnails/thumb-184xauto-969221-file.jpg",
-    "fetched_at": "2026-11-26 00:52:28",
-    "ja_summary": "米陪審がファーウェイに有罪評決。\n営業秘密の窃取や銀行詐欺などの罪で。\nこれにより、ファーウェイは法的な影響を受ける。"
-  },
-  {
-    "title": "アマチュア天文家がAIで惑星探し　約1900万個の恒星データから候補49件",
-    "link": "https://japan.cnet.com/article/35255399/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "2人のアマチュア天文家が、NASAの公開観測データをAIで分析し、太陽系外惑星の候補を見つけた。約1900万個の恒星を調べた1人は、候補49件のうち有力な1件を研究者に提出した。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35255399/\"><img src=\"https://japan.cnet.com/storage/thumbnails/thumb-184xauto-1361104-file.jpg\" /></a>",
-    "image": "https://japan.cnet.com/storage/thumbnails/thumb-184xauto-1361104-file.jpg",
-    "fetched_at": "2026-11-26 00:52:28",
-    "ja_summary": "アマチュア天文家がAIを活用し、1900万個の恒星データから太陽系外惑星の候補49件を発見。\nそのうち1件は、研究者へ提出されるほど有力。\nAIによる惑星探査の可能性を示唆する成果。"
-  },
-  {
-    "title": "Amazon、しまじろう仕様の子ども向けタブレット発売　4万1980円",
-    "link": "https://japan.cnet.com/article/35255397/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "アマゾンジャパンは11月24日、ベネッセのキャラクター「しまじろう」をカバーと壁紙に描いた8.7インチの子ども向けタブレットを発売した。価格は税込4万1980円。子ども向け定額サービス「Amazon Kids+」では、しまじろうの知育アプリなど5本を2027年1月下旬から順次提供すると発表した。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35255397/\"><img src=\"https://japan.cnet.com/storage/thumbnails/thumb-184xauto-1361101-file.jpg\" /></a>",
-    "image": "https://japan.cnet.com/storage/thumbnails/thumb-184xauto-1361101-file.jpg",
-    "fetched_at": "2026-11-26 00:52:28",
-    "ja_summary": "Amazonが、ベネッセの「しまじろう」デザインの子ども向けタブレットを4万1980円で発売。\n「Amazon Kids+」では、しまじろうの知育アプリなど5本が2027年1月下旬から順次利用可能になる。"
-  },
-  {
-    "title": "使用済みリチウムイオン電池、水中で砕いて安全にリサイクルへ　京大が新たな研究成果",
-    "link": "https://japan.cnet.com/article/35255396/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "使用済みのリチウムイオン電池を水中で砕く際に、装置内のガスと水を繰り返し使える見通しが立った。京都大学の研究チームが11月24日、ガスから可燃性物質を取り除く実験と、実際に電池を砕いた後の廃水を処理する実験の結果を発表した。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35255396/\"><img src=\"https://japan.cnet.com/storage/thumbnails/thumb-184xauto-1361099-file.jpg\" /></a>",
-    "image": "https://japan.cnet.com/storage/thumbnails/thumb-184xauto-1361099-file.jpg",
-    "fetched_at": "2026-11-26 00:52:28",
-    "ja_summary": "* 京大が、使用済みリチウムイオン電池を水中で安全にリサイクルする新技術を発表。\n* 装置内のガスと水を繰り返し使用可能で、廃水処理も実現。\n* 環境負荷の低いリサイクル技術として期待。"
-  },
-  {
-    "title": "窓の内側に貼って屋外を撮影する防犯カメラ　Ankerが9990円で発売",
-    "link": "https://japan.cnet.com/article/35255394/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "アンカー・ジャパンは11月24日、窓ガラスの内側に貼ってベランダや庭先を撮影できる防犯カメラ「Anker Eufy Window Camera E10」を発売した。同社の発表によると、付属のステッカーで固定でき、壁に穴を開けたり、屋外に配線したりする工事は不要だ。価格は税込9990円。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35255394/\"><img src=\"https://japan.cnet.com/storage/thumbnails/thumb-184xauto-1361094-file.jpg\" /></a>",
-    "image": "https://japan.cnet.com/storage/thumbnails/thumb-184xauto-1361094-file.jpg",
-    "fetched_at": "2026-11-26 00:52:28",
-    "ja_summary": "*   Ankerが窓の内側から屋外を撮影できる防犯カメラを発売。\n*   ステッカーで固定でき、工事不要で手軽に設置可能。\n*   価格は9990円。"
-  },
-  {
-    "title": "デロイト、EY、PwC。AIが引き付ける「ビッグ4人材」…コンサル上級幹部の転職先が「スタートアップ」「中堅企業」になり始めた",
-    "link": "https://www.businessinsider.jp/article/consulting-deloitte-pwc-ey-partner-e/",
-    "source": "Business Insider Japan",
-    "published": "Wed, 25 Nov 2026 08:05:00 GMT",
-    "summary": "コンサルティング業界の幹部にとって、中小企業やスタートアップへの転職は、魅力的なものではありませんでした。しかし、今、AIが業界を変えつつある中、そうした企業への転職をする幹部が増えているようです。",
-    "image": "https://media.loom-app.com/loom/2025/09/03/8208141f-f00d-401c-b4ef-4a8641cea2ab/original.jpg?w=1200",
-    "fetched_at": "2026-11-26 00:52:28",
-    "ja_summary": "AIの台頭で、コンサル大手「ビッグ4」の上級幹部がスタートアップや中堅企業へ転職する動きが活発化。\nかつては敬遠されがちだった中小企業が、新たな活躍の場として注目されている。\nAI技術が、幹部人材のキャリアパスに変化をもたらしている。"
-  },
-  {
-    "title": "アマゾンは「AIエージェントの買い物」を永久に拒否したわけではない…ジャシーCEOが語った受け入れ条件とは",
-    "link": "https://www.businessinsider.jp/article/2611-amazon-ai-agent-shopping-andy-jassy/",
-    "source": "Business Insider Japan",
-    "published": "Wed, 25 Nov 2026 08:00:00 GMT",
-    "summary": "AIエージェントによる商品購入をブロックしているアマゾン。しかし、アンディ・ジャシーCEOはそれが今後も続く必要はないが、「価値の公正な交換」が必要だと語りました。",
-    "image": "https://media.loom-app.com/loom/2026/11/18/52fcbf2d-1073-42c5-8bc1-6d9044b9700b/original.jpg?w=1200",
-    "fetched_at": "2026-11-26 00:52:28",
-    "ja_summary": "アマゾンはAIエージェントによる購入を一時停止中。\nジャシーCEOは「価値の公正な交換」があれば、将来的には容認する可能性を示唆。\nAI側がアマゾンに利益をもたらす仕組みが鍵となる。"
-  },
-  {
-    "title": "SB OAI Japan、侵入口を診断する新サービス--初期侵入リスクを可視化",
-    "link": "https://japan.zdnet.com/article/35255401/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "SB OAI Japanは、AIを活用したサイバーセキュリティ対策サービスPatching as a Service（PaaS）の新メニューとして、「侵入可否診断」の提供を開始した。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35255401/\"><img src=\"https://japan.zdnet.com/storage/2026/03/13/0685712ce071f4bb5a7e7cf8db30b675/t/184/138/d/260313_security_as_1280_744471190.jpg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2026/03/13/0685712ce071f4bb5a7e7cf8db30b675/t/184/138/d/260313_security_as_1280_744471190.jpg",
-    "fetched_at": "2026-11-26 00:52:31",
-    "ja_summary": "SB OAI JapanがAIでサイバー攻撃の初期侵入リスクを診断する新サービスを開始。\n「侵入可否診断」で、自社ネットワークの弱点を可視化し、対策を強化できる。\nAIを活用したサイバーセキュリティ対策サービスの一環。"
-  },
-  {
-    "title": "Zendesk、シート数課金を廃止し「成果ベース課金」へ転換",
-    "link": "https://japan.zdnet.com/article/35255343/",
-    "source": "ZDNET Japan",
-    "published": "",
-    "summary": "Zendeskは、AIを軸とした新コンセプト「Outcome AIプラットフォーム」と、従来のシート数課金を廃止する新価格戦略「Zendesk Unlimited」を発表した。AIが業務の主役となる時代に向け、外部AIとの連携基盤も刷新する。<br clear=\"left\" /><a href=\"https://japan.zdnet.com/article/35255343/\"><img src=\"https://japan.zdnet.com/storage/2026/11/24/83c2efecd6a555467b62bd70d7c2a4f3/t/184/138/d/261124_zendesk_l.jpg\" /></a>",
-    "image": "https://japan.zdnet.com/storage/2026/11/24/83c2efecd6a555467b62bd70d7c2a4f3/t/184/138/d/261124_zendesk_l.jpg",
-    "fetched_at": "2026-11-26 00:52:31",
-    "ja_summary": "Zendeskは、AI中心の「Outcome AIプラットフォーム」へ移行し、従来のシート数課金を廃止。\n顧客の成果に連動する「Zendesk Unlimited」という新料金体系を導入。\n外部AIとの連携も強化し、AI時代を見据えたサービス提供を目指す。"
-  },
-  {
-    "title": "ブラックフライデーでGoogle AIサブスク半額、Pro月額より年2万円お得。YouTubeプレミアムLiteやGoogle Health特典も",
-    "link": "https://www.techno-edge.net/article/2026/11/25/5816.html",
-    "source": "TechnoEdge",
-    "published": "Wed, 25 Nov 2026 20:14:08 +0900",
-    "summary": "Googleは、ストレージ容量とAIのサブスクGoogle AI Plus / Pro年額プランが半額になるブラックフライデーセールを実施中です。",
-    "image": "https://www.techno-edge.net/imgs/rss/35959.jpg",
-    "fetched_at": "2026-11-26 00:52:32",
-    "ja_summary": "GoogleがブラックフライデーセールでAIサブスク年額プランを半額に。\nストレージ容量とAI機能が利用でき、Pro月額より年間2万円お得。\nYouTubeプレミアムLiteやGoogle Health特典も提供。"
-  },
-  {
-    "title": "ATOKがLLMを取り入れた新変換エンジンに、2027年2月1日提供　PC内の文書から辞書を自動作成する機能も",
-    "link": "https://www.techno-edge.net/article/2026/11/25/5813.html",
-    "source": "TechnoEdge",
-    "published": "Wed, 25 Nov 2026 15:10:47 +0900",
-    "summary": "ジャストシステムは、LLMを取り入れた新変換エンジンを搭載するATOKを2027年2月1日に提供します。PC内の文書から辞書を自動作成する機能も加えます。ローカルLLMで文書作成を支援する「一太郎2027」も2月5日に発売します。",
-    "image": "https://www.techno-edge.net/imgs/rss/35950.png",
-    "fetched_at": "2026-11-26 00:52:32",
-    "ja_summary": "ATOKが2027年2月1日、LLM搭載の新変換エンジンを提供開始。\nPC内の文書から辞書を自動作成する機能も搭載。\n同時に、ローカルLLMで文書作成を支援する「一太郎2027」も発売。"
-  },
-  {
-    "title": "【自動化】Muse のサイドチャットへ Webhook を届ける MuseKnock の仕組み",
-    "link": "https://zenn.dev/codehex/articles/33bc6ee330b880",
-    "source": "Zenn Trends",
-    "published": "Wed, 25 Nov 2026 06:12:03 GMT",
-    "summary": "Meta の個人向け AI エージェント「Muse」を使い込んでいくうちに、どうしても欲しくなった仕組みがあります。Slack でメンションされた瞬間や、GitHub でリリースが出た瞬間に、そのまま Muse を動かすことです。\n執筆時点（2026 年 11 月）で僕が調べた範囲では、Muse を外部イベントで即座に動かす仕組みを公開している例は見当たりませんでした。（でもいつかはリリースされそう...?）\nそして、これを見てください！！\nhttps://x.com/codehex/status/2125375389241675856?a=SmFmSPV7nT_lsgSAYbs&amp;amp...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--2zGwRczT--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590%25E8%2587%25AA%25E5%258B%2595%25E5%258C%2596%25E3%2580%2591Muse%2520%25E3%2581%25AE%25E3%2582%25B5%25E3%2582%25A4%25E3%2583%2589%25E3%2583%2581%25E3%2583%25A3%25E3%2583%2583%25E3%2583%2588%25E3%2581%25B8%2520Webhook%2520%25E3%2582%2592%25E5%25B1%258A%25E3%2581%2591%25E3%2582%258B%2520MuseKnock%2520%25E3%2581%25AE%25E4%25BB%2595%25E7%25B5%2584%25E3%2581%25BF%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:codehex%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzQ1ZWY0NmIwNWMuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "fetched_at": "2026-11-26 00:52:36",
-    "ja_summary": "MetaのAI「Muse」を外部イベントで自動起動させる「MuseKnock」を紹介。\nSlack通知やGitHubリリースをトリガーにMuseを操作可能にする仕組み。\n現時点では非公式だが、Museの活用範囲を広げる可能性を示す。"
-  },
-  {
-    "title": "Claude Code のセキュリティ、2026年11月時点のベストプラクティス（サンドボックス・権限・MCP）",
-    "link": "https://zenn.dev/happy_elements/articles/27e14ff6754044",
-    "source": "Zenn Trends",
-    "published": "Wed, 25 Nov 2026 03:53:12 GMT",
-    "summary": "Claude に実行を任せた Bash コマンドは、Claude Code を起動したマシンの上で、自分のユーザー権限で動きます。Mac のターミナルで起動したなら、その Mac です。サンドボックスをオンにしても動く場所は同じで、変わるのは、実行中のコマンドがアクセスできるファイルと通信先の制限です。\n2026 年 11 月時点の公式ドキュメントと changelog をもとに、Claude Code CLI の権限ルール、Bash サンドボックス、MCP の設定をサンプルとチェックリストにまとめました。認証情報を使わずに、ダミーファイルで読み取り制限を確認する手順も載せています。\n実...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--XBzX5cTq--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%2520%25E3%2581%25AE%25E3%2582%25BB%25E3%2582%25AD%25E3%2583%25A5%25E3%2583%25AA%25E3%2583%2586%25E3%2582%25A3%25E3%2580%25812026%25E5%25B9%25B411%25E6%259C%2588%25E6%2599%2582%25E7%2582%25B9%25E3%2581%25AE%25E3%2583%2599%25E3%2582%25B9%25E3%2583%2588%25E3%2583%2597%25E3%2583%25A9%25E3%2582%25AF%25E3%2583%2586%25E3%2582%25A3%25E3%2582%25B9%25EF%25BC%2588%25E3%2582%25B5%25E3%2583%25B3%25E3%2583%2589%25E3%2583%259C%25E3%2583%2583%25E3%2582%25AF%25E3%2582%25B9%25E3%2583%25BB%25E6%25A8%25A9%25E9%2599%2590%25E3%2583%25BBMCP%25EF%25BC%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:ko.%252B%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2YxOTA5NWJmOGIuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Happy%2520Elements%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2U1OTRiOGRmY2EuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "fetched_at": "2026-11-26 00:52:37",
-    "ja_summary": "Claude Codeは、起動したマシン上でユーザー権限でBashコマンドを実行します。\nサンドボックス設定で、コマンドがアクセスできるファイルや通信先を制限できます。\n2026年11月時点のセキュリティ設定（権限、サンドボックス、MCP）をサンプルとチェックリストで解説します。"
-  },
-  {
-    "title": "Corpus2Skillに近づけた「階層ナビゲーション型RAG」と、ベクトルDB版RAGを「どの段階で失敗したか」まで比べてみた",
-    "link": "https://zenn.dev/aiforall/articles/133752ce2d97ad",
-    "source": "Zenn Trends",
-    "published": "Wed, 25 Nov 2026 02:35:47 GMT",
-    "summary": "はじめに\n前回の記事では、ベクトルDBを使わずにLLMが目次を辿って文書を探す「階層ナビゲーション型RAG」を、Corpus2Skillを参考に自作し、ベクトルDB版RAGと比べました。28文書・20問の比較で、正答数は同等という結果でした。\n\nこの記事を公開したあと、次のコメントをいただきました。\n\n正解文書への到達と、回答に必要な箇所を渡せたかを分けた分析が参考になりました。次に比較するなら、各問の必須根拠を短いスパンで付与し、8,000文字への切り詰め後に残った根拠の割合も見ると、ナビゲーションと証拠選択の失敗をさらに切り分けられそうです。\n\n前回の実装は、Corpus2Ski...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--JY-XmoSl--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Corpus2Skill%25E3%2581%25AB%25E8%25BF%2591%25E3%2581%25A5%25E3%2581%2591%25E3%2581%259F%25E3%2580%258C%25E9%259A%258E%25E5%25B1%25A4%25E3%2583%258A%25E3%2583%2593%25E3%2582%25B2%25E3%2583%25BC%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3%25E5%259E%258BRAG%25E3%2580%258D%25E3%2581%25A8%25E3%2580%2581%25E3%2583%2599%25E3%2582%25AF%25E3%2583%2588%25E3%2583%25ABDB%25E7%2589%2588RAG%25E3%2582%2592%25E3%2580%258C%25E3%2581%25A9%25E3%2581%25AE%25E6%25AE%25B5%25E9%259A%258E%25E3%2581%25A7%25E5%25A4%25B1%25E6%2595%2597%25E3%2581%2597%25E3%2581%259F%25E3%2581%258B%25E3%2580%258D...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:nishina%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzA3ODlkYTQ2NWIuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E6%25A0%25AA%25E5%25BC%258F%25E4%25BC%259A%25E7%25A4%25BE%25E3%2583%25A1%25E3%2583%25B3%25E3%2583%2590%25E3%2583%25BC%25E3%2582%25BA%2520AI%25E3%2583%2595%25E3%2582%25A9%25E3%2583%25BC%25E3%2582%25AA%25E3%2583%25BC%25E3%2583%25AB%25E3%2582%25AB%25E3%2583%25B3%25E3%2583%2591%25E3%2583%258B%25E3%2583%25BC%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2EwZjI2NTU2NWIuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "fetched_at": "2026-11-26 00:52:37",
-    "ja_summary": "「階層ナビゲーション型RAG」とベクトルDB版RAGの比較検証。\n前回は正答数同等だったが、今回は回答根拠の選別段階での失敗を分析。\nこれにより、回答精度の向上に向けた課題をさらに明確化。"
-  },
-  {
-    "title": "体験ドリブンのすすめ ― AIで作れる時代に、何で差がつくか",
-    "link": "https://zenn.dev/mediaforce/articles/2fef9933aae9e7",
-    "source": "Zenn Trends",
-    "published": "Wed, 25 Nov 2026 02:28:01 GMT",
-    "summary": "前回の記事「AI時代の生産性を考える」では、AIは「速くする道具」ではなく「やらなかったことをやれるようにする装置」だと書きました。お客様が感動してくれたのは、作業が速かったからではなく、期待していたタイミングより前に、期待していた以上のものが出てきたからだ、という話です。\n今回はその続きです。\nAIを使えば、作りたいものはすぐに作れるようになりました。ということは、「作れること」そのものでは、もう差がつかなくなっていきます。では何で差がつくのか。私は、お客様がそれをどう受け取り、どう体験するかだと考えています。\nこの記事では、お客様へのヒアリングを例に、AIで作ったページで「お客様に答...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--LkldVQKE--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E4%25BD%2593%25E9%25A8%2593%25E3%2583%2589%25E3%2583%25AA%25E3%2583%2596%25E3%2583%25B3%25E3%2581%25AE%25E3%2581%2599%25E3%2581%2599%25E3%2582%2581%2520%25E2%2580%2595%2520AI%25E3%2581%25A7%25E4%25BD%259C%25E3%2582%258C%25E3%2582%258B%25E6%2599%2582%25E4%25BB%25A3%25E3%2581%25AB%25E3%2580%2581%25E4%25BD%2595%25E3%2581%25A7%25E5%25B7%25AE%25E3%2581%258C%25E3%2581%25A4%25E3%2581%258F%25E3%2581%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Kazuma%2520Hosaka%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2YxNDJmYjhhMzcuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2583%25A1%25E3%2583%2587%25E3%2582%25A3%25E3%2582%25A2%25E3%2583%2595%25E3%2582%25A9%25E3%2583%25BC%25E3%2582%25B9%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSk16QnktS2wzXzF6YldNbGZZLXoxWGV5cUFpNWhhWUlwZTB1bnZkVnE1YlVsZTFnPXM5Ni1j%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "fetched_at": "2026-11-26 00:52:37",
-    "ja_summary": "AI時代、「作れること」で差はつかなくなる。\n顧客の感動は「速さ」ではなく「期待を超える体験」で生まれる。\nAIで作ったものでも、顧客の受け取り方や体験を重視することが競争優位につながる。"
-  },
-  {
-    "title": "Personal Agent Protocol (Poppy) が解く問題と仕組み",
-    "link": "https://zenn.dev/sierra_japan/articles/0b9ba590232345",
-    "source": "Zenn Trends",
-    "published": "Tue, 24 Nov 2026 23:30:05 GMT",
-    "summary": "こんにちは、Sierra で Agent Engineer をしている konippi です。\nこの度、Sierra Japan の有志で Engineering Blog を始めました 🎉🎉🎉\nhttps://zenn.dev/p/sierra_japan\n記念すべき最初の記事では、パーソナル AI エージェントと企業をつなぐオープンなプロトコル、Personal Agent Protocol を取り上げます。\n\n はじめに\nMeta の Muse のように、ユーザーの代わりに予約や買い物、問い合わせをこなすパーソナル AI エージェントが増えています。一方で、企業側にはエージェントを...",
-    "image": "https://res.cloudinary.com/zenn/image/upload/s--KHlTBtuS--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Personal%2520Agent%2520Protocol%2520%2528Poppy%2529%2520%25E3%2581%258C%25E8%25A7%25A3%25E3%2581%258F%25E5%2595%258F%25E9%25A1%258C%25E3%2581%25A8%25E4%25BB%2595%25E7%25B5%2584%25E3%2581%25BF%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:konippi%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzExZjM1OGEzNWUuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Sierra%2520Japan%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2Y3ZDNjOWQ5M2YuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "fetched_at": "2026-11-26 00:52:38",
-    "ja_summary": "要約の生成に失敗しました。"
-  },
-  {
-    "title": "DMMのプラットフォーム基盤で実践する、AI駆動の「攻め」とAI攻撃からの「守り」のアーキテクチャ設計〜SSoTとSoftwareFactory〜",
-    "link": "https://speakerdeck.com/i35_267/akitekucha-kanfarensu-2026-dmm-no-purattofomu-kiban-de-jissen-suru-ai-kudou-no-seme-to-ai-kougeki-karano-mori-no-akitekucha-sekkei-2",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-11-25T10:35:32-05:00",
-    "summary": "26年11月26日 アーキテクチャカンファレンス2026 登壇資料\nhttps://architecture-con.findy-tools.io/2026",
-    "image": "https://files.speakerdeck.com/presentations/df6a7fe55ace45299e41a70fb8b0e739/preview_slide_0.jpg?41516867",
-    "fetched_at": "2026-11-26 00:52:38",
-    "ja_summary": "DMMは、AIの活用でサービスを強化（攻め）しつつ、AIによる攻撃からプラットフォームを守る（守り）ためのアーキテクチャを構築。\nSSoT（Single Source of Truth）とSoftwareFactoryを導入し、効率的で安全なAI駆動型プラットフォームを実現。\nこれにより、変化の速いAI時代に対応できる柔軟性と堅牢性を両立させている。"
-  },
-  {
-    "title": "An initiative for modern data-driven information modelling and exchange in the construction sector",
-    "link": "https://speakerdeck.com/aothms/thomaskrijnen-ogc-dataexchange-presentation",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-11-25T10:13:33-05:00",
-    "summary": "Overview the rationale of IFCX, potential next steps, and the introduction of Mosaic.",
-    "image": "https://files.speakerdeck.com/presentations/01220502f24d42b48943351738381acd/preview_slide_0.jpg?41516804",
-    "fetched_at": "2026-11-26 00:52:38",
-    "ja_summary": "要約の生成に失敗しました。"
-  },
-  {
-    "title": "[2026-11-20]AIエージェント何してますか？忙しいですか？プロダクト救ってもらっていいですか？",
-    "link": "https://speakerdeck.com/tosite/ai-ejento-nani-shi-temasu-ka-isogashiidesu-ka-purodakuto-suku-te-mora-te-iidesu-ka",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-11-25T08:42:34-05:00",
-    "summary": "JaSST'26 Kyushu\n実行委員セッション登壇\nhttps://jasst.jp/kyushu/26-about/",
-    "image": "https://files.speakerdeck.com/presentations/1e8cf5135bca469f853c94898108d188/preview_slide_0.jpg?41515043",
-    "fetched_at": "2026-11-26 00:52:38",
-    "ja_summary": "AIエージェントがプロダクト開発を救う？\nJaSST'26 Kyushuで、AIエージェントの活用法が議論される。\n開発現場の課題解決への貢献が期待される。"
-  },
-  {
-    "title": "AI使って開発するなら、モデリングするんだよ - 4つの図で始めるモデリングと、AIにモデルを実装させるアーキテクチャ",
-    "link": "https://speakerdeck.com/littlehands/umtp-suraido-20261125",
-    "source": "Speaker Deck (Tech)",
-    "published": "2026-11-25T06:40:05-05:00",
-    "summary": "UMTP モデリングフォーラム 2026（2026/11/25）での登壇資料です。\nhttps://umtp-japan.org/event-seminar/mf2026/78668\n\nAIで実装が速くなった今、人に残る仕事は何か。それは、問題を理解し、解決策を立てて確かめる「問題解決力」だと考えています。\nこの問題解決力をモデリングでどう高めるか、そしてモデルをAIにどう実装させるかをお話ししました。\n\n- 前提: 問題にも解決策にも不確実性がある。小さく速い仮説検証に、モデリングが役立つ\n- モデリング: sudoモデリングの4つの図（システム関連図 / ユースケース図 / オブジェクト図 / ドメインモデル図）を使い、具体例でシミュレーションしてモデルの穴を早く見つける\n- コーディング: モデルとコードの形を一致させ、ハーネスとアーキテクチャを整えて、エージェントに実装を任せる土台を作る\n- まとめ: モデルは、人とAIで問題解決のサイクルを回す共通言語",
-    "image": "https://files.speakerdeck.com/presentations/cc2d10c25b46460d81edae537df1bcc9/preview_slide_0.jpg?41512814",
-    "fetched_at": "2026-11-26 00:52:38",
-    "ja_summary": "要約の生成に失敗しました。"
-  },
-  {
-    "title": "人間がボトルネックになった時代のAIエージェント設計",
-    "link": "https://qiita.com/Syoitu/items/5bb47c01a8513e52d1b5",
-    "source": "Qiita (Popular)",
-    "published": "2026-11-24T11:42:14+09:00",
-    "summary": "# AIエージェントを何本も並べたのに、仕事が速くならないと感じていませんか？\n\nこの1年でモデルがずいぶん賢くなりました。コードの修正やテストの実行くらいなら、人間が逐一指示しなくても AI エージェントが1人で進めてくれます。\n\nところが、エージェントを何本も並べて使い始めると、思ったほど仕事が速くなりませんよね。実は詰まっているのはモデルではなく、エージェントを見張り、切り替え、中身を覚えて",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFtYXpvbmF3cy5jb20lMkYwJTJGMzIwMTY0JTJGcHJvZmlsZS1pbWFnZXMlMkYxNTQzMzExNzUyP2l4bGliPXJiLTQuMS4xJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz0wNGFkMDZhZjhkNDE3NDcxNTk2NGE0ZmZmNTNmMGQxMw%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYxZTIwZGI1ZTdlNDA3ZWFlN2I5NzBlYzk5OTg4MGRjOGMzY2MwZjY0JTJGb3JpZ2luYWwuanBnJTNGMTY2NzI3NDk2Mz9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz04OTI0NDcwMDk1MDMyZjUxYmZlNzE3ZjVkOGUzYmE3ZA%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3Dcedbc3a2a2b3d5bae828c2818d12658c?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUU0JUJBJUJBJUU5JTk2JTkzJUUzJTgxJThDJUUzJTgzJTlDJUUzJTgzJTg4JUUzJTgzJUFCJUUzJTgzJThEJUUzJTgzJTgzJUUzJTgyJUFGJUUzJTgxJUFCJUUzJTgxJUFBJUUzJTgxJUEzJUUzJTgxJTlGJUU2JTk5JTgyJUU0JUJCJUEzJUUzJTgxJUFFQUklRTMlODIlQTglRTMlODMlQkMlRTMlODIlQjglRTMlODIlQTclRTMlODMlQjMlRTMlODMlODglRTglQTglQUQlRTglQTglODgmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz02N2I1NmRjYjQ0MDIyODFiMzdlNWU3OTIyYmQ5OWVhNA&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBTeW9pdHUmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1hM2Q2OTQyZjE5MjUxYWY3YTM2NTlhMDBhNmVlOTcyMA&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=S0RESeOCouOCuOODo-OCpOODq-mWi-eZuuOCu-ODs-OCv-ODvOagquW8j-S8muekvg&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=a1f4a5a3a9ac03870e3522317b68d960",
-    "fetched_at": "2026-11-26 00:52:41",
-    "ja_summary": "要約の生成に失敗しました。"
-  },
-  {
-    "title": "部下がClaudeっぽいスライドしか出してこなくてウンザリしてる上司はこれを使わせなさい",
-    "link": "https://qiita.com/nuco_d/items/b279477cbcdbe5921abd",
-    "source": "Qiita (Popular)",
-    "published": "2026-11-17T09:58:19+09:00",
-    "summary": "# はじめに\nAIはプログラミングだけでなく、営業資料や発表資料まで作れるようになった。\n部下に資料を頼むと、AIで作ったスライドが返ってくることも増えたのではないだろうか。\nそして諸君は、そのスライドをひと目見てこう思ったはずだ。\n\n**「これ、生成AIで作ったでしょ？」**\n\nと。本記事では、AIのスライドがなぜ「Claudeっぽく」なるのか、そしてそう見せないために、部下にどのスキルを使わせ",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGMzg5MzQ5MCUyRnByb2ZpbGUtaW1hZ2VzJTJGMTczNDMxNDI0NT9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9OTNjZTdjOWQ2ZWE1ZGY0ZmRmNzA2M2ViMjI4YThhNjU%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkZhNjEwNTBjZTRjMTgyODhlODgzZDY2NTBmMmU2OWMyMGVlZGQyMDBkJTJGb3JpZ2luYWwuanBnJTNGMTY0NTY4NDg3OD9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz03ZjlhZTBjNzVjNzRlYTNjNzNmMjU2YjBlY2NhOWY2Ng%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D03c55e8f0987be08ade11eb834287703?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUU5JTgzJUE4JUU0JUI4JThCJUUzJTgxJThDQ2xhdWRlJUUzJTgxJUEzJUUzJTgxJUJEJUUzJTgxJTg0JUUzJTgyJUI5JUUzJTgzJUE5JUUzJTgyJUE0JUUzJTgzJTg5JUUzJTgxJTk3JUUzJTgxJThCJUU1JTg3JUJBJUUzJTgxJTk3JUUzJTgxJUE2JUUzJTgxJTkzJUUzJTgxJUFBJUUzJTgxJThGJUUzJTgxJUE2JUUzJTgyJUE2JUUzJTgzJUIzJUUzJTgyJUI2JUUzJTgzJUFBJUUzJTgxJTk3JUUzJTgxJUE2JUUzJTgyJThCJUU0JUI4JThBJUU1JThGJUI4JUUzJTgxJUFGJUUzJTgxJTkzJUUzJTgyJThDJUUzJTgyJTkyJUU0JUJEJUJGJUUzJTgyJThGJUUzJTgxJTlCJUUzJTgxJUFBJUUzJTgxJTk1JUUzJTgxJTg0JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9MTFjZGEyNDhiNjE3NDM1MWQ5YzFmZGQzODQzZTc2YWU&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBudWNvX2QmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1jNGZiODQwOWQ4MDM5ZTMyYmFjZmZlMGRkNWY4YzcwYQ&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=5qCq5byP5Lya56S-TnVjbw&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=fe7f169cb1e4e6f1cb74e5db85694ca9",
-    "fetched_at": "2026-11-26 00:52:42",
-    "ja_summary": "要約の生成に失敗しました。"
-  },
-  {
-    "title": "AI開発のセキュリティは設計で証明！今後エンジニアに求められるスキルを完全解説",
-    "link": "https://qiita.com/Sicut_study/items/b6d17933cc276dadf6d5",
-    "source": "Qiita (Popular)",
-    "published": "2026-11-15T17:40:46+09:00",
-    "summary": "![IMG_2617.jpg](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/810513/3fa9f42b-7996-4446-a50d-d573fccf9c6f.jpeg)\n\n\n# はじめに\n\nこんにちは、Watanabe Jin([@Sicut_study](https://x.com/Sicut_study))です。",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGODEwNTEzJTJGcHJvZmlsZS1pbWFnZXMlMkYxNzE0OTE3NDIzP2l4bGliPXJiLTQuMS4xJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz04N2MyZDM1MTEyZmYxYWNhOTU4MGM5ZmM2YTMzMDRjMQ%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkZkYjQ2NGVlODMyZjg4MDZhNWY4OWU5NGI0NDZjNzJmYTNkZjNhMzhjJTJGb3JpZ2luYWwuanBnJTNGMTcxMjU0NjM1Nj9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz03YjBlOGQ0ZmYzNGY4MzNlNjJiYWIwYTc5ZjU2OGU0Mw%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D0e1d584a4a113e800d95c51c5006b6a9?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9QUklRTklOTYlOEIlRTclOTklQkElRTMlODElQUUlRTMlODIlQkIlRTMlODIlQUQlRTMlODMlQTUlRTMlODMlQUElRTMlODMlODYlRTMlODIlQTMlRTMlODElQUYlRTglQTglQUQlRTglQTglODglRTMlODElQTclRTglQTglQkMlRTYlOTglOEUlRUYlQkMlODElRTQlQkIlOEElRTUlQkUlOEMlRTMlODIlQTglRTMlODMlQjMlRTMlODIlQjglRTMlODMlOEIlRTMlODIlQTIlRTMlODElQUIlRTYlQjElODIlRTMlODIlODElRTMlODIlODklRTMlODIlOEMlRTMlODIlOEIlRTMlODIlQjklRTMlODIlQUQlRTMlODMlQUIlRTMlODIlOTIlRTUlQUUlOEMlRTUlODUlQTglRTglQTclQTMlRTglQUElQUMmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz0yYjkxN2MzMTViZWFiMmYzM2FjODkzZGZhZWI2MDZkNw&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBTaWN1dF9zdHVkeSZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWVhNzg5ZTNhZmZkZDFhZjEyMmM1NzZiZTQ0NDE5MTZm&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=SklTT1UgfCDjg5fjg63jgrDjg6njg5_jg7PjgrDjgrPjg7zjg4Hjg7PjgrA&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=82b6bf86487f2760088e963f97ed8a96",
-    "fetched_at": "2026-11-26 00:52:42",
-    "ja_summary": "要約の生成に失敗しました。"
-  },
-  {
-    "title": "脆弱性の情報は間に合っている？ 英語は 2 時間以内、悪用は 4 割が 1 日以内、日本語は中央値 4.6 日後。悪用された 74 件を調べて分かった",
-    "link": "https://qiita.com/songchong/items/b3c6c879f03f9bb665d3",
-    "source": "Qiita (Popular)",
-    "published": "2026-11-08T18:54:47+09:00",
-    "summary": "\n![CISA の KEV カタログに2026年9月から11月に入った74件を、CVE の記録の公開からの日数の時間軸に並べた図。悪用が確認された件は、30件（41%）が公開の前後1日にKEVカタログに入った。英語のNVDは中央値0.8時間で、74件すべてが2時間以内に掲載された。日本語のJPCERT/CCの注意喚起は、出たのが11件（15%）だけだった。日本語のJVN iPediaは中央値4.6",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGNTY2NzAlMkZwcm9maWxlLWltYWdlcyUyRjE3ODcyMzgxODE_aXhsaWI9cmItNC4xLjEmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPWU3NzQ3ZjMzNzE4MDJjYjI2M2FjMjM3NzUzODlmOTE5%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Dc73920274995f5a321a69858db1e61f3?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUU4JTg0JTg2JUU1JUJDJUIxJUU2JTgwJUE3JUUzJTgxJUFFJUU2JTgzJTg1JUU1JUEwJUIxJUUzJTgxJUFGJUU5JTk2JTkzJUUzJTgxJUFCJUU1JTkwJTg4JUUzJTgxJUEzJUUzJTgxJUE2JUUzJTgxJTg0JUUzJTgyJThCJUVGJUJDJTlGJTIwJUU4JThCJUIxJUU4JUFBJTlFJUUzJTgxJUFGJTIwMiUyMCVFNiU5OSU4MiVFOSU5NiU5MyVFNCVCQiVBNSVFNSU4NiU4NSVFMyU4MCU4MSVFNiU4MiVBQSVFNyU5NCVBOCVFMyU4MSVBRiUyMDQlMjAlRTUlODklQjIlRTMlODElOEMlMjAxJTIwJUU2JTk3JUE1JUU0JUJCJUE1JUU1JTg2JTg1JUUzJTgwJTgxJUU2JTk3JUE1JUU2JTlDJUFDJUU4JUFBJTlFJUUzJTgxJUFGJUU0JUI4JUFEJUU1JUE0JUFFJUU1JTgwJUE0JTIwNC42JTIwJUU2JTk3JUE1JUU1JUJFJThDJUUyJTgwJUE2JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9ZDZiY2UwNDU5NGFmOGFhMDI1MjY4NWY4ZTIzMDI2MDc&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBzb25nY2hvbmcmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1jYThhODE5MGI3ZTMyOWM0MDRkZTcyYjU3YzZiNzYwNA&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=238d6d9735d3f2ee8cc35bc474f862ad",
-    "fetched_at": "2026-11-26 00:52:43",
-    "ja_summary": "脆弱性情報の公開から悪用までのスピードに日米で大きな差。\n\n英語圏は2時間以内に情報公開、悪用も4割が1日以内。\n\n一方、日本語の情報公開は遅く、中央値4.6日後で、注意喚起も限定的。"
-  },
-  {
-    "title": "集中力散漫＆過集中持ちエンジニアがAWS DEAを突破した「過集中スイッチ」の入れ方",
-    "link": "https://qiita.com/kohYoung_I/items/cce40cb5b9cdfc1f8787",
-    "source": "Qiita (Popular)",
-    "published": "2026-11-09T08:21:59+09:00",
-    "summary": "## 1. はじめに（自己紹介）\n\nどうも！最近ゴルフにハマっている注意力散漫＆過集中持ちのエンジニアです。\n\n普段はシステムエンジニアとして働いており、これまで約4年間、データベース関連の開発に携わってきました。\n\nそんな私が今回挑戦し、無事に合格できたのが、**AWS Certified Data Engineer - Associate（DEA）** です！\n\nもともとAWS認定には興味があ",
-    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnNlY3VyZS5ncmF2YXRhci5jb20lMkZhdmF0YXIlMkZlNzEyYjlkMTU3ZGYwNzIwZmM2MGNhYzgyNmIzZWQ1YT9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9MTEwMjE2NzgzYzMyZTUxNzNjZWM3Y2Q5NDAyNjEwZDY%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkY5NzUyNzY1ZDI5ZTdjNzgyMDNkYTY2ZDEyMmEyN2U2NGNlZWUyNWQ1JTJGb3JpZ2luYWwuanBnJTNGMTcyODAwOTUwMz9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz1lZTU5MjI2YTU0ZmE4YzY2ZTlhOTQ5MmU3NGU1ZWI4NA%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3Da4765e20d317af3739ccd745923ba554?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUU5JTlCJTg2JUU0JUI4JUFEJUU1JThBJTlCJUU2JTk1JUEzJUU2JUJDJUFCJUVGJUJDJTg2JUU5JTgxJThFJUU5JTlCJTg2JUU0JUI4JUFEJUU2JThDJTgxJUUzJTgxJUExJUUzJTgyJUE4JUUzJTgzJUIzJUUzJTgyJUI4JUUzJTgzJThCJUUzJTgyJUEyJUUzJTgxJThDQVdTJTIwREVBJUUzJTgyJTkyJUU3JUFBJTgxJUU3JUEwJUI0JUUzJTgxJTk3JUUzJTgxJTlGJUUzJTgwJThDJUU5JTgxJThFJUU5JTlCJTg2JUU0JUI4JUFEJUUzJTgyJUI5JUUzJTgyJUE0JUUzJTgzJTgzJUUzJTgzJTgxJUUzJTgwJThEJUUzJTgxJUFFJUU1JTg1JUE1JUUzJTgyJThDJUU2JTk2JUI5JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9NzY5N2Q4ODczZTkwODg0MGE4YmQwMmI1Y2YyMDJlOTg&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBrb2hZb3VuZ19JJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9MGEzNGM2NDliN2VhMjMxNDgxMTFhODg0YmE0NDkxODk&amp;blend-x=242&amp;blend-y=454&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;txt64=5qCq5byP5Lya56S-44Kv44Oq44O844OW44Km44Kn44Ki&amp;txt-x=242&amp;txt-y=539&amp;txt-width=838&amp;txt-clip=end%2Cellipsis&amp;txt-color=%231E2121&amp;txt-font=Hiragino%20Sans%20W6&amp;txt-size=28&amp;s=401a9bce2548bb32b6e16e2080754dec",
-    "fetched_at": "2026-11-26 00:52:43",
-    "ja_summary": "要約の生成に失敗しました。"
-  },
-  {
-    "title": "オープンウエートAIは安全といえるのか､ジェンスン･フアン氏のCEO復帰を受けて論争が再燃 | 政治・経済・投資 | 東洋経済オンライン",
-    "link": "https://toyokeizai.net/articles/-/965845?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-    "source": "東洋経済オンライン",
-    "published": "Wed, 25 Nov 2026 13:35:00 +0900",
-    "summary": "米エヌビディアのCEO復帰劇とともに､AI基盤技術のオープン化を巡る全米論争が再燃しています。",
-    "image": "https://tk.ismcdn.jp/mwimgs/5/7/1200w/img_576e767ddc18ecca2e26604280e61b5c531630.jpg?nextgen=false",
-    "fetched_at": "2026-11-25 14:24:53",
-    "ja_summary": "・AI技術を広く公開すべきか否か、米国でオープンソース化を巡る議論が再燃中。\n・エヌビディアCEOの復帰が、安全性を重視する立場と開発促進を求める立場の対立を鮮明化。\n・AI開発におけるイノベーションと安全管理のバランスが、業界全体の喫緊の課題となっている。"
-  },
-  {
-    "title": "BtoBマーケター苦戦　「生成AIでマーケティングが難しくなった」4割弱、何が起きている？",
-    "link": "https://www.itmedia.co.jp/business/articles/2611/25/news013.html",
-    "source": "ITmedia ビジネス",
-    "published": "Wed, 25 Nov 2026 09:30:00 +0900",
-    "summary": "AIの台頭により、BtoBマーケターが苦戦している。",
-    "image": "https://image.itmedia.co.jp/business/articles/2611/25/cover_news013.jpg",
-    "fetched_at": "2026-11-25 14:24:54",
-    "ja_summary": "生成AIの普及でBtoBマーケティングが複雑化。\n4割弱のマーケターが「生成AIでマーケティングが難しくなった」と感じている。\nAI時代に対応するための戦略転換が求められている。"
-  },
-  {
-    "title": "SB OAI Japan、AIで侵入リスクを検証する「侵入可否診断」",
-    "link": "https://www.watch.impress.co.jp/docs/news/2159064.html",
-    "source": "Impress Watch",
-    "published": "",
-    "summary": "SB OAI Japanは25日、AIを活用したサイバーセキュリティ対策サービス「Patching as a Service(PaaS)」の新メニューとして「侵入可否診断」を提供開始した。企業のシステムに外部から侵入できるかを検証し、診断開始から10営業日以内に結果と対策案を報告する。",
-    "image": "https://www.watch.impress.co.jp/img/ipw/list/2159/064/01.jpg",
-    "fetched_at": "2026-11-25 14:25:10",
-    "ja_summary": "・SB OAI Japanが、AIを用いた「侵入可否診断」サービスを開始。\n・企業のシステムへの侵入リスクを検証し、結果と対策案を最短10営業日で報告。\n・既存の「Patching as a Service」の拡充として提供。"
-  },
-  {
-    "title": "Claudeで作ったアプリをチームに共有・管理できる「Install as app」",
-    "link": "https://www.watch.impress.co.jp/docs/news/2159019.html",
-    "source": "Impress Watch",
-    "published": "",
-    "summary": "Anthropicは24日(米国時間)、「Claude」のアーティファクト(Artifacts)を利用して、デスクトップアプリの作成、実行、共有が可能になる「Install as app(アプリとしてインストール)」機能を提供開始した。Claude for MacとWindowsでベータ版として利用できる。",
-    "image": "https://www.watch.impress.co.jp/img/ipw/list/2159/019/cl1.jpg",
-    "fetched_at": "2026-11-25 14:25:10",
-    "ja_summary": "・ClaudeのArtifactsで作ったアプリを、デスクトップアプリとして直接インストール可能に。\n・作成したアプリをチーム内で簡単に共有・管理でき、業務効率化を促進。\n・MacおよびWindows向けClaudeアプリのベータ版機能として提供開始。"
-  },
-  {
-    "title": "ChatGPT、通常のチャットでも「GPT-6.2」が利用可能に",
-    "link": "https://www.watch.impress.co.jp/docs/news/2159024.html",
-    "source": "Impress Watch",
-    "published": "",
-    "summary": "OpenAIは23日、ChatGPTのチャット機能に「GPT-6.2」を順次提供開始した。対象はPlus、Pro、Business、Enterpriseの有料プラン。画像理解や複雑な指示への対応、Web検索の性能を向上させている。",
-    "image": "https://www.watch.impress.co.jp/img/ipw/list/2159/024/01.jpg",
-    "fetched_at": "2026-11-25 14:25:11",
-    "ja_summary": "・OpenAIが有料プラン向けに新モデル「GPT-6.2」の提供を開始。\n・画像認識や複雑な指示の処理能力、Web検索精度が向上。\n・Plus以上の全有料ユーザーへ順次アップデートを展開。"
-  },
-  {
-    "title": "約20億件のログイン情報が閲覧可能に　データベースにパスワード保護なし",
-    "link": "https://japan.cnet.com/article/35255379/",
-    "source": "CNET Japan",
-    "published": "",
-    "summary": "さまざまなウェブサイトのログイン情報約20億件が、パスワードで保護されていないデータベースに収められ、インターネット上で閲覧できる状態だった。<br clear=\"left\" /><a href=\"https://japan.cnet.com/article/35255379/\"><img src=\"https://japan.cnet.com/storage/thumbnails/thumb-184xauto-1357240-file.jpg\" /></a>",
-    "image": "https://japan.cnet.com/storage/thumbnails/thumb-184xauto-1357240-file.jpg",
-    "fetched_at": "2026-11-25 14:25:13",
-    "ja_summary": "・約20億件ものウェブサイトのログイン情報が、無防備なデータベースで公開状態にあった。\n・パスワード保護が欠如しており、誰でも閲覧可能な危険な状況だった。\n・不正アクセスや情報漏洩のリスクが非常に高い状態となっている。"
   }
 ]
